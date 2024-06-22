@@ -21,7 +21,7 @@ print(list(dic.values()))
 out = list(dic.values())
 
 # 执行情感分析
-classifier = pipeline(task='sentiment-analysis', model = r'C:\Users\skyve\Documents\GitHub\AI-powered-files-system-and-the-searching-framwork\test\model')
+classifier = pipeline("sentiment-analysis")
 #save model #save_path = r"C:\Users\skyve\Documents\GitHub\AI-powered-files-system-and-the-searching-framwork\model"
 #classifier.save_pretrained(save_path)
 results = classifier(list(dic.values()))
