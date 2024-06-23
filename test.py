@@ -6,14 +6,15 @@ from transformers import pipeline
 n=0
 dic = OrderedDict()
 
-directory = r'C:\Users\skyve\Documents\GitHub\AI-powered-files-system-and-the-searching-framwork\test'
-# 使用os.walk遍历所有子目录
+
+#遍历所有目录test下的txt
+directory = r'.\test'
 for file_path in glob(os.path.join(directory, '*.txt')):
     with open(file_path, 'r') as file:
         content = file.read()
         # 处理文件内容
         print(f'Reading: {file_path}')
-        print(content,n)
+        print(content,"\n"，n)
         n=n+1
         dic[file_path] = content
 print(dic)
@@ -22,7 +23,7 @@ out = list(dic.values())
 
 # 执行情感分析
 classifier = pipeline("sentiment-analysis")
-#save model #save_path = r"C:\Users\skyve\Documents\GitHub\AI-powered-files-system-and-the-searching-framwork\model"
+#save model #save_path = r".\model"
 #classifier.save_pretrained(save_path)
 results = classifier(list(dic.values()))
 
