@@ -6,7 +6,7 @@ from tdt import read_txt_files
 directory = r'.\test'
 out = read_txt_files(directory)
 print(out)
-#out为字典
+#out为字典,(directory,content)
 input = list(out.values())
 
 # 执行情感分析
