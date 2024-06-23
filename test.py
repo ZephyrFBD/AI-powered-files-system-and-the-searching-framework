@@ -14,7 +14,7 @@ for file_path in glob(os.path.join(directory, '*.txt')):
         content = file.read()
         # 处理文件内容
         print(f'Reading: {file_path}')
-        print(content,"\n"，n)
+        print(content,"\n",n)
         n=n+1
         dic[file_path] = content
 print(dic)
