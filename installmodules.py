@@ -1,7 +1,33 @@
+import importlib
 import subprocess
-import pkg_resources
-from collections import OrderedDict
-from transformers import pipeline
+import sys
+
+# 安装 setuptools
+def install_setuptools():
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "setuptools"])
+
+# 尝试导入 pkg_resources
+try:
+    import pkg_resources
+    print("pkg_resources imported successfully.")
+    # 打印模块内容
+    print(f"pkg_resources module: {pkg_resources}")
+except ImportError:
+    print("pkg_resources not found. Installing setuptools...")
+    install_setuptools()
+
+    # 再次尝试导入 pkg_resources
+    try:
+        importlib.import_module('pkg_resources')
+        import pkg_resources
+        print("pkg_resources imported successfully after installation.")
+        # 打印模块内容
+        print(f"pkg_resources module: {pkg_resources}")
+    except ImportError:
+        print("Failed to install setuptools. Aborting...")
+        sys.exit(1)
+
+import subprocess
 import os
 
 packages = [
@@ -23,5 +49,3 @@ def check_and_install_packages(packages):
 
 if __name__ == "__main__":
     check_and_install_packages(packages)
-
-# 下面可以继续写你的代码
