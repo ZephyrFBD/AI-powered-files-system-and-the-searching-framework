@@ -13,8 +13,8 @@ for file_path in glob(os.path.join(directory, '*.txt')):
     with open(file_path, 'r') as file:
         content = file.read()
         # 处理文件内容
-        print(f'Reading: {file_path}')
-        print(content,"\n",n)
+        #print(f'Reading: {file_path}')
+        #print(content,"\n",n)
         n=n+1
         dic[file_path] = content
 print(dic)
@@ -22,8 +22,8 @@ print(list(dic.values()))
 out = list(dic.values())
 
 # 执行情感分析
-classifier = pipeline("sentiment-analysis")
-#save model #save_path = r".\model"
+classifier = pipeline("sentiment-analysis", model="./model")
+#save_path = r".\model"
 #classifier.save_pretrained(save_path)
 results = classifier(list(dic.values()))
 
