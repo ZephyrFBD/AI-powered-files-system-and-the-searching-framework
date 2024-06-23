@@ -30,4 +30,4 @@ results = classifier(list(dic.values()))
 for file_path, result in zip(dic.keys(), results):
     print(f"File: {file_path}")
     print(f"label: {result['label']}, with score: {round(result['score'], 4)}")
-    print()  # 可选：在结果之间添加空行以提高可读性
+    print()
