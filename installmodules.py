@@ -35,7 +35,7 @@ packages = [
     "tokenizers==0.19.1",
     "torch==2.3.1",
     "numpy==1.26.4",
-    "datasets 2.20.0",
+    "datasets==2.20.0",
 ]
 
 def check_and_install_packages(packages):

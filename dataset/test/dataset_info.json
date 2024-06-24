@@ -1,0 +1,68 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "wiki_academic_subjects",
+  "dataset_size": 49487513,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/meliascosta/wiki_academic_subjects@297baf5eec00fcd13f698db71ed9ed6dcb284ced/wiki_train.jsonl": {
+      "num_bytes": 40363329,
+      "checksum": null
+    },
+    "hf://datasets/meliascosta/wiki_academic_subjects@297baf5eec00fcd13f698db71ed9ed6dcb284ced/wiki_val.jsonl": {
+      "num_bytes": 5042566,
+      "checksum": null
+    },
+    "hf://datasets/meliascosta/wiki_academic_subjects@297baf5eec00fcd13f698db71ed9ed6dcb284ced/wiki_test.jsonl": {
+      "num_bytes": 5047577,
+      "checksum": null
+    }
+  },
+  "download_size": 50453472,
+  "features": {
+    "token": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "label": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 99940985,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 39590567,
+      "num_examples": 51513,
+      "dataset_name": "wiki_academic_subjects"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 4945957,
+      "num_examples": 6440,
+      "dataset_name": "wiki_academic_subjects"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 4950989,
+      "num_examples": 6439,
+      "dataset_name": "wiki_academic_subjects"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
