@@ -34,6 +34,7 @@ packages = [
     "transformers==4.41.2",
     "tokenizers==0.19.1",
     "torch==2.3.1",
+    "numpy==1.26.4",
 ]
 
 def check_and_install_packages(packages):
