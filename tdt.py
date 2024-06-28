@@ -1,15 +1,6 @@
 import os
 
 def read_txt_files(directory):
-    """
-    遍历指定目录及其所有子目录中的所有 .txt 文件，并返回它们的内容。
-    
-    参数：
-    directory (str): 要遍历的目录路径。
-    
-    返回：
-    list: 包含所有 .txt 文件内容的列表。
-    """
     dic = {}
     n = 0
 

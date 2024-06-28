@@ -31,11 +31,13 @@ import subprocess
 import os
 
 packages = [
-    "transformers==4.41.2",
-    "tokenizers==0.19.1",
     "torch==2.3.1",
     "numpy==1.26.4",
     "datasets==2.20.0",
+    "gensim==4.3.2",
+    "smart-open==7.0.4",
+    "scipy==1.12",
+    "matplotlib==3.9.0"
 ]
 
 def check_and_install_packages(packages):
