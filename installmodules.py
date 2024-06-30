@@ -37,7 +37,8 @@ packages = [
     "gensim==4.3.2",
     "smart-open==7.0.4",
     "scipy==1.12",
-    "matplotlib==3.9.0"
+    "matplotlib==3.9.0",
+    "pandas==2.2.2"
 ]
 
 def check_and_install_packages(packages):

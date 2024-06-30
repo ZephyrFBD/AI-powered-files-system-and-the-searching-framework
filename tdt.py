@@ -9,7 +9,7 @@ def read_txt_files(directory):
         for file in files:
             if file.endswith('.txt'):
                 file_path = os.path.join(root, file)
-                with open(file_path, 'r') as f:
+                with open(file_path, 'r', encoding='UTF-8') as f:
                     content = f.read()
                     # 处理文件内容
                     dic[file_path] = content
