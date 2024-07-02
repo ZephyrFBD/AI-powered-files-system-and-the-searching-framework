@@ -1,0 +1,31 @@
+ity-Product 1Ksp2 Expressions
+SOLUTION
+Analyze We are asked to write an equilibrium-constant expression 
+for the process by which CaF2 dissolves in water.
+Plan We apply the general rules for writing an equilibrium- 
+constant expression, excluding the solid reactant from the expres-
+sion. We assume that the compound dissociates completely into 
+its component ions:
+CaF21s2 ∆ Ca2 +1aq2 + 2 F -1aq2
+Solve The expression for Ksp is
+Ksp = 3Ca2 +43F-42
+Appendix D gives 3.9 * 10-11 for this Ksp.
+ 
+▶Practice Exercise 1
+Which of these expressions correctly expresses the solubility- 
+product constant for Ag3PO4 in water?   
+(a) 3Ag43PO44  
+  (b) 3Ag+43PO4
+3 -4  (c) 3Ag+433PO4
+3 -4  
+(d) 3Ag+43PO4
+3 -43 (e) 3Ag+433PO4
+3 -43
+ 
+▶Practice Exercise 2
+Give the solubility-product-constant expressions and Ksp 
+values (from Appendix D) for (a) barium carbonate and  
+(b) silver sulfate.
+Solubility and Ksp
+It is important to distinguish carefully between solubility and the solubility-product 
+constant. The s

@@ -1,0 +1,23 @@
+the pressure P of
+the air inside the jar can increase enough to cause the jar to explode, throwing
+glass pieces outward.
+CONCEPTUAL EXAMPLE 13;8
+SECTION 13–6
+The Ideal Gas Law
+369
+FIGURE 13–16 Blowing up a
+balloon means putting more air
+(more air molecules) into the
+balloon, which increases its volume.
+The pressure is nearly constant, at
+atmospheric pressure, except for the
+small effect of the balloon’s elasticity.
+13–6 The Ideal Gas Law
+The gas laws of Boyle, Charles, and Gay-Lussac were obtained by means of an
+important scientific technique: namely, considering one quantity and how it is
+affected by changing only one other variable, keeping all other variables constant.
+These laws can now be combined into a single more general relation among all
+three variables—absolute pressure, volume, and absolute temperature of a fixed
+amount of gas:
+This relation indicates how any of the quantities P, V, or T will vary when the
+other two quantities change. This relation reduces to Boyle’s, Charl

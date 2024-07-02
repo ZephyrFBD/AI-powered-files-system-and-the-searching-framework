@@ -1,0 +1,32 @@
+]
+¡
+Write the condensed structural formula for the product of the hydrogenation of 3-methyl-1-pentene.
+Sample Exercise 24.5 
+Predicting the Product of an Addition Reaction
+SOLUTION
+Analyze We are asked to predict the compound formed when a par-
+ticular alkene undergoes hydrogenation (reaction with H2) and to 
+write the condensed structural formula of the product.
+Plan To determine the condensed structural formula of the prod-
+uct, we must first write the condensed structural formula or Lewis 
+structure of the reactant. In the hydrogenation of the alkene, H2 
+adds to the double bond, producing an alkane.
+Solve The name of the starting compound tells us that we have a 
+chain of five C atoms with a double bond at one end (position 1) 
+and a methyl group on C3:
+CH2
+CH2
+CH
+CH
+CH3
+CH3
+Hydrogenation—the addition of two H atoms to the carbons of 
+the double bond—leads to the following alkane:
+CH2
+CH
+CH3
+CH3
+CH3
+CH2
+Comment The longest chain in this alkane has five carbon atoms; 
+the product is

@@ -1,0 +1,30 @@
+5 kg and car B 495 kg,
+owing to differences in passenger mass. If car A approaches
+at 
+and car B is moving at 
+calculate 
+(a) their velocities after the collision, and (b) the change 
+in momentum of each.
+3.70 ms,
+4.50 ms
+196
+CHAPTER 7
+Linear Momentum
+73. You have been hired as an expert witness in a court case
+involving an automobile accident. The accident involved
+car A of mass 1500 kg which crashed into stationary car B
+of mass 1100 kg. The driver of car A applied his brakes
+15 m before he skidded and crashed into car B. After the
+collision, car A slid 18 m while car B slid 30 m. The coeffi-
+cient of kinetic friction between the locked wheels and the
+road was measured to be 0.60. Show that the driver of car A
+was exceeding the 
+speed limit before
+applying the brakes.
+74. A meteor whose mass was about
+struck the
+Earth  
+with a speed of about 
+and came to rest in the Earth. (a) What was the Earth’s
+recoil speed (relative to Earth at rest before the collision)?
+(b) What fraction of t

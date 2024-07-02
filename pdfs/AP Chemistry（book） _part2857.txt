@@ -1,0 +1,18 @@
+ 1 ppm means one part by volume in 1 million vol-
+umes of the whole. Because volume is proportional to number of moles of gas via the 
+ideal-gas equation 1PV = nRT2, volume fraction and mole fraction are the same. Thus, 
+1 ppm of a trace constituent of the atmosphere amounts to 1 mol of that constitu-
+ent in 1 million moles of air; that is, the concentration in parts per million is equal to 
+the mole fraction times 106. For example, Table 18.1 lists the mole fraction of CO2 in 
+the atmosphere as 0.000400, which means its concentration in parts per million is 
+0.000400 * 106 = 400 ppm.
+770 
+CHAPTER 18 Chemistry of the Environment
+Other minor constituents of the troposphere, in addition to CO2, are listed in 
+ 
+Table 18.2.
+Before we consider the chemical processes that occur in the atmosphere, let’s review 
+some of the properties of the two major components, N2 and O2. Recall that the N2 mol-
+ecule possesses a triple bond between the nitrogen atoms. 
+ (Section 8.3) This very 
+strong bond

@@ -1,0 +1,43 @@
+ gmc2 =
+mc2
+31 - v2c2 .
+E = ke + mc2
+p = gmv =
+mv
+31 - v2c2 .
+31 - v2c2 L 1.
+v V c
+ke = 1
+2 mv2.
+v V c.
+L
+1
+2 mv2.
+ke
+L
+mc2 ¢ 1 + 1
+2
+v2
+c2 + p - 1 ≤
+ke = mc2 ¢
+1
+31 - v2c2 - 1 ≤
+n = – 1
+2
+x = vc
+(16x)n = 16nx + p,
+v V c,
+If you are given a particle’s mass m and its kinetic energy ke, you can do a
+quick calculation to determine if you need to use relativistic formulas or if classical
+ones are good enough. You simply compute the ratio 
+because (Eq. 26–5b)
+If this ratio comes out to be less than, say, 0.01, then
+and relativistic
+equations will correct the classical ones by about 1%. If your expected precision
+is no better than 1%, classical formulas are good enough. But if your precision is
+1 part in 1000 (0.1%) then you would want to use relativistic formulas. If your
+expected precision is only 10%, you need relativity if
+EXERCISE D For 1% accuracy, does an electron with
+need to be treated
+relativistically? [Hint: The mass of an electron is 0.511 MeV.]
+26–10 Relativistic Addition o

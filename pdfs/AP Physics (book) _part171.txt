@@ -1,0 +1,16 @@
+ter
+than lighter objects and that the speed of fall is proportional to how heavy the
+object is. The speed of a falling object is not proportional to its mass.
+Galileo made use of his new technique of imagining what would happen in
+idealized (simplified) cases. For free fall, he postulated that all objects would
+fall with the same constant acceleration in the absence of air or other resistance.
+He showed that this postulate predicts that for an object falling from rest, the
+distance traveled will be proportional to the square of the time (Fig. 2–19); that
+is,
+We can see this from Eq. 2–11b for constant acceleration; but Galileo
+was the first to derive this mathematical relation.
+To support his claim that falling objects increase in speed as they fall,
+Galileo made use of a clever argument: a heavy stone dropped from a height of
+2 m will drive a stake into the ground much further than will the same stone
+dropped from a height of only 0.2 m. Clearly, the stone must be moving faster
+in the

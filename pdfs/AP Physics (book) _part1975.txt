@@ -1,0 +1,38 @@
+ 1r
+SECTION 18–4
+Resistivity
+509
+20 m
+20 m
+FIGURE 18–14 Example 18–5.
+EXERCISE E A copper wire has a resistance of 
+What would its resistance be if it
+had the same diameter but was only half as long? (a) 
+(b) 
+(c) 
+(d)
+(e) none of these.
+1 ,
+5 ,
+10 ,
+20 ,
+10 .
+Speaker wires. Suppose you want to connect your stereo to
+remote speakers (Fig. 18–14). (a) If each wire must be 20 m long, what diameter
+copper wire should you use to keep the resistance less than 
+per wire?
+(b) If the current to each speaker is 4.0 A, what is the potential difference, or
+voltage drop, across each wire?
+APPROACH We solve Eq. 18–3 to get the area A, from which we can calculate
+the wire’s radius using 
+The diameter is 2r. In (b) we can use Ohm’s
+law,
+SOLUTION (a) We solve Eq. 18–3 for the area A and find 
+for copper in 
+Table 18–1:
+The cross-sectional area A of a circular wire is 
+The radius must then
+be at least
+The diameter is twice the radius and so must be at least 
+(b) From
+we find that the voltage drop

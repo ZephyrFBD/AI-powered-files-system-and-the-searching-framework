@@ -1,0 +1,36 @@
+erence is negative if the loop direction is
+from the positive terminal toward the negative
+terminal.
+5. Solve the equations algebraically for the unknowns.
+Be careful with signs. At the end, check your answers
+by plugging them into the original equations, or
+even by using any additional loop or junction rule
+equations not used previously.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Kirchhoff’s Rules
+1. Label the current in each separate branch of the
+given circuit with a different subscript, such as
+(see Fig. 19–11 or 19–13). Each current
+refers to a segment between two junctions. Choose
+the direction of each current, using an arrow. The
+direction can be chosen arbitrarily: if the current is
+actually in the opposite direction, it will come out
+with a minus sign in the solution.
+2. Identify the unknowns. You will need as many
+independent equations as there are unknowns. You
+may write down more equations than this, but you
+will find that some of the equations will be redundant
+(that is, not be independe

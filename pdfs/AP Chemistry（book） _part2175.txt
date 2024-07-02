@@ -1,0 +1,13 @@
+cal bonds are broken and formed during the course of a 
+reaction. To understand how reactions happen, we must examine the reaction rates and 
+the factors that influence them. Experimental information on the rate of a given reac-
+tion provides important evidence that helps us formulate a reaction mechanism, which is 
+a step-by-step, molecular-level view of the pathway from reactants to products.
+Our goal in this chapter is to understand how to determine reaction rates and to con-
+sider the factors that control these rates. What factors determine how rapidly food spoils, 
+for instance? What determines the rate at which steel rusts? How can we remove hazard-
+ous pollutants in automobile exhaust before the exhaust leaves the tailpipe? Although 
+we will not address these specific questions, we will see that the rates of all chemical reac-
+tions are subject to the same principles.
+14.1 ∣ Factors That Affect Reaction Rates
+Four factors affect the rate at which any particular reaction occurs:

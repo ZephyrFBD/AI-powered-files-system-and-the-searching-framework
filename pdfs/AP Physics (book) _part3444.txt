@@ -1,0 +1,54 @@
+239
+Neutron captured by
+U.
+92
+238
+U
+92
+239
+decays by b decay
+to neptunium-239.
+Pu
+94
+239
+ e− v
+Np
+93
+239
+itself decays by
+b decay to produce
+plutonium-239.
+Np
+93
+239
+Np
+93
+239
+ e− v
+U
+92
+239
+(a)
+(b)
+(c)
+
+FIGURE 31–2 Projectile particles
+strike a target of area A and
+thickness made up of n nuclei per
+unit volume.
+l
+Projectiles
+A
+l
+because 
+depends only on the properties of the interacting particles, whereas R
+depends on the thickness and area of the physical (macroscopic) target, on the
+number of particles in the incident beam, and so on.
+3
+1–2 Nuclear Fission; Nuclear Reactors
+In 1938, the German scientists Otto Hahn and Fritz Strassmann made an amazing
+discovery. Following up on Fermi’s work, they found that uranium bombarded
+by neutrons sometimes produced smaller nuclei that were roughly half the size 
+of the original uranium nucleus. Lise Meitner and Otto Frisch quickly realized
+what had happened: the uranium nucleus, after absorbing a neutron, actually had
+split into two rough

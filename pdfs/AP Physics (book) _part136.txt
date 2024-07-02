@@ -1,0 +1,27 @@
+y point on the plane can be specified by giving its x and y coor-
+dinates. In three dimensions, a z axis perpendicular to the x and y axes is added.
+For one-dimensional motion, we often choose the x axis as the line along
+which the motion takes place. Then the position of an object at any moment is
+given by its x coordinate. If the motion is vertical, as for a dropped object, we
+usually use the y axis.
+y = 0.
+x = 0,
+− y
++ y
++ x
+− x
+0
+FIGURE 2;3 Standard set of xy
+coordinate axes, sometimes called
+“rectangular coordinates.”
+SECTION 2–2
+Average Velocity
+23
+C A U T I O N
+The displacement may not equal the
+total distance traveled
+We need to make a distinction between the distance an object has traveled
+and its displacement, which is defined as the change in position of the 
+object. That is, displacement is how far the object is from its starting point.
+To see the distinction between total distance and displacement, imagine a person
+walking 70 m to the east and then turning around and walki

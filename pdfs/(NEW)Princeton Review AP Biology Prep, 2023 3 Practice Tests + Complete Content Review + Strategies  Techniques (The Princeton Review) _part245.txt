@@ -1,0 +1,15 @@
+he Krebs cycle
+2 FADH2 from the Krebs cycle
+That gives us a total of 12 electron or energy carriers altogether.
+These electron carriers—NADH and FADH2—“shuttle” electrons to the electron transport chain, the resulting
+NAD+ and FADH can be recycled to be used as carriers again, and the hydrogen atoms are split into hydrogen ions
+and electrons.
+H2 → 2H+ + 2e–
+Electron transport chain reactions occur in chloroplasts, mitochondria, and
+prokaryotic plasma membranes. The electron transport chain here is similar to
+that seen in photosynthesis. They differ in their final electron acceptors:
+NADP+ and O2.
+Then, two interesting things occur. First, the high-energy electrons from NADH and FADH2 are passed down a
+series of protein carrier molecules that are embedded in the cristae; thus, it is called the electron transport chain.
+Some of the carrier molecules in the electron transport chain are NADH dehydrogenase and cytochrome C.
+Oxygen is required as the final stop in the electron transport chai

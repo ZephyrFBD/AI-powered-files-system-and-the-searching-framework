@@ -1,0 +1,29 @@
+s no
+more emf in the inductor (I is no longer changing) so all the voltage drop is across
+the resistance. The shape of the curve for I as a function of time is 
+where e is the number 
+(see Section 19–6) and
+is the time constant of the circuit. When
+then
+so is the
+time required for the current to reach 
+Next, if the battery is suddenly switched out of the circuit (dashed line in
+Fig. 21–37), it takes time for the current to drop to zero, as shown in Fig. 21–38b.
+This is an exponential decay curve given by
+The time constant is the time for the current to decrease to 
+(37% of the
+original value), and again equals 
+These graphs show that there is always some “lag time” or “reaction time”
+when an electromagnet, for example, is turned on or off. We also see that an 
+LR circuit has properties similar to an RC circuit (Section 19–6). Unlike the
+capacitor case, however, the time constant here is inversely proportional to R.
+LR.
+0.37I
+max
+t
+[LR circuit without emf]
+I = I
+maxe–tt.
+0.63I
+max.
+t

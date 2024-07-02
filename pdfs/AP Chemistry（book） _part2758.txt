@@ -1,0 +1,17 @@
+alues sometimes deviate appre-
+ciably from those found experimentally. In part, these deviations are 
+due to electrostatic interactions between ions in solution, which can 
+lead to ion pairs. 
+ (Section 13.5, “The van’t Hoff Factor”) These inter-
+actions increase in magnitude both as the concentrations of the ions 
+increase and as their charges increase. The solubility calculated from Ksp 
+tends to be low unless corrected to account for these interactions.
+As an example of the effect of these interactions, consider CaCO3 
+(calcite), whose solubility product, 4.5 * 10-9, gives a calculated sol-
+ubility of 6.7 * 10-5 mol>L; correcting for ionic interactions in the 
+solution yields 7.3 * 10-5 mol>L. The reported solubility, however, 
+is 1.4 * 10-4 mol>L, indicating that there must be additional factors 
+involved.
+Another common source of error in calculating ion concentra-
+tions from Ksp is ignoring other equilibria that occur simultaneously 
+in the solution. It is possible, for example, 

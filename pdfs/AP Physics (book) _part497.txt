@@ -1,0 +1,33 @@
+bench close to each
+other. Estimate the magnitude of the gravitational force each exerts on the other.
+APPROACH This is an estimate: we let the distance between the centers of the
+two people be
+(about as close as you can get).
+SOLUTION We use Eq. 5–4, which gives
+rounded off to an order of magnitude. Such a force is unnoticeably small unless
+extremely sensitive instruments are used (
+of a pound).
+6 1100,000
+F
+G = G m1 m2
+r2
+L
+A6.67 * 10–11 Nm2kg2B(50 kg)(70 kg)
+(0.5 m)2
+L 10–6 N,
+1
+2 m
+EXAMPLE 5;9
+ESTIMATE
+†We demonstrate this result in Section 16–12.
+SECTION 5–6
+121
+Spacecraft at 
+What is the force of gravity acting on a
+2000-kg spacecraft when it orbits two Earth radii from the Earth’s center (that is,
+a distance  
+above the Earth’s surface, Fig. 5–19)? The mass of the
+Earth is
+APPROACH We could plug all the numbers into Eq. 5–4, but there is a simpler
+approach. The spacecraft is twice as far from the Earth’s center as when it is 
+at the surface of the Earth. Therefore, since the 

@@ -1,0 +1,14 @@
+ections for the magnetic field 
+correspond to the two possible values for the 
+spin quantum number, ms. The magnetic 
+fields that emanate from materials, like iron, 
+arise because there are more electrons with 
+one spin direction than the other.
+*As we discussed earlier, the electron has both particle-like and wave-like properties. Thus, the pic-
+ture of an electron as a spinning charged sphere is, strictly speaking, just a useful pictorial represen-
+tation that helps us understand the two directions of magnetic field that an electron can possess.
+tells us, however, that there can be at most two electrons in any single orbital. Thus, the 
+orbitals are filled in order of increasing energy, with no more than two electrons per orbital. For 
+example, consider the lithium atom, which has three electrons. (Recall that the number 
+of electrons in a neutral atom equals its atomic number.) The 1s orbital can accommo-
+date two of the electrons. The third one goes into the next lowest-energy orbi

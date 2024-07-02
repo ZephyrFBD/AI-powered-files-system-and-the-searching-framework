@@ -1,0 +1,10 @@
+ operator region is occupied by the repressor, RNA polymerase is unable to
+transcribe several structural genes that code for enzymes that control the uptake and subsequent breakdown of
+lactose. When lactose is available, however, some of the lactose (in a converted form) combines with the repressor
+to make it inactive. When the repressor is inactivated, RNA polymerase is able to transcribe the genes that code for
+the enzymes that break down lactose. Since a substance (lactose, in this case) is required to induce (turn on) the
+operon, the enzymes that the operon produces are said to be inducible enzymes, and the operon is an inducible
+operon. Because a repressor protein is involved, it is an example of negative regulation.
+3. Glucose repression is a second regulatory process that influences the lac operon. Glucose is a preferential source
+of energy when both glucose and lactose are present. But when only lactose is present, this process enhances the
+breakdown of lactose (already permitt

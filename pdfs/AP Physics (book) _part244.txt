@@ -1,0 +1,24 @@
+) is incorrect.
+It is a common error to draw the sum vector as the diagonal running between
+the tips of the two vectors, as in Fig. 3–6c. This is incorrect: it does not represent
+the sum of the two vectors. (In fact, it represents their difference,
+as we
+will see in the next Section.)
+Range of vector lengths. Suppose two
+vectors each have length 3.0 units. What is the range of possible lengths for the
+vector representing the sum of the two?
+RESPONSE The sum can take on any value from
+where the
+vectors point in the same direction, to
+when the vectors are
+antiparallel. Magnitudes between 0 and 6.0 occur when the two vectors are at
+an angle other than 0° and 180°.
+EXERCISE A If the two vectors of Example 3–1 are perpendicular to each other, what is
+the resultant vector length?
+3–3 Subtraction of Vectors, and
+Multiplication of a Vector by a Scalar
+Given a vector 
+we define the negative of this vector 
+to be a vector with
+the same magnitude as 
+but opposite in direction, Fig. 3–7. Note, how

@@ -1,0 +1,78 @@
+numbers c, b, ) that
+distinguish these new quarks from the 3 original quarks (see Table 32–3). These
+properties (like strangeness) are conserved in strong, but not weak, interactions.
+Figure 32–15 shows one of the events that provided evidence for the top quark.
+All quarks have spin and an electric charge of either 
+or 
+(that is,
+a fraction of the previously thought smallest charge e). Antiquarks have opposite
+sign of electric charge Q, baryon number B, strangeness S, charm c, bottom b,
+and top . Other properties of quarks are shown in Table 32–3.
+t
+– 1
+3 e
+± 2
+3 e
+1
+2
+t
+934
+CHAPTER 32
+Elementary Particles
+†Gell-Mann chose the word from a phrase in James Joyce’s Finnegans Wake.
+TABLE 32–3 Properties of Quarks (Antiquarks have opposite sign Q, B, S, c, b, t)
+Quarks
+Mass 
+Charge
+Baryon Number
+Strangeness
+Charm
+Bottom
+Top
+Name
+Symbol
+Q
+B
+S
+c
+b
+t
+Up
+u
+2.3
+0
+0
+0
+0
+Down
+d
+4.8
+0
+0
+0
+0
+Strange
+s
+95
+0
+0
+0
+Charm
+c
+1275
+0
+0
+0
+Bottom
+b
+4180
+0
+0
+0
+Top†
+t
+173,500
+0
+0
+0
+†The top quark, with its extre

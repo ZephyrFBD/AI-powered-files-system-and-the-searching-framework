@@ -1,0 +1,44 @@
+icularly in electronic devices, resistors are used to con-
+trol the amount of current. Resistors have resistances ranging from less than an
+ohm to millions of ohms (see Figs. 18–11 and 18–12). The main types are “wire-
+wound” resistors which consist of a coil of fine wire, “composition” resistors
+which are usually made of carbon, resistors made of thin carbon or metal 
+films, and (on tiny integrated circuit “chips”) undoped semiconductors.
+When we draw a diagram of a circuit, we use the symbol
+[resistor symbol]
+to indicate a resistance. Wires whose resistance is negligible, however, are shown
+simply as straight lines. Figure 18–12 and its Table show one way to specify the 
+resistance of a resistor.
+SECTION 18–3
+Ohm’s Law: Resistance and Resistors
+507
+C A U T I O N
+Voltage is applied across a device;
+current passes through a device
+Resistor Color Code
+Color 
+Number 
+Multiplier 
+Tolerance
+Black 
+0 
+1 
+Brown 
+1 
+1%
+Red 
+2 
+2%
+Orange 
+3 
+Yellow 
+4 
+Green 
+5 
+Blue 
+6 
+Violet 
+7 
+Gray 
+8 
+Wh

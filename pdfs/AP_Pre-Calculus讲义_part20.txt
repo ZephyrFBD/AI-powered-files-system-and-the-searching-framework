@@ -1,0 +1,79 @@
+fined as a real number. 
+For example, consider the functions 
+( )
+1
+4
+f x
+x
+=
+-
+( )
+g x
+x
+=
+   
+ 
+The function f is not defined at x = 4, so its domain is 
+{
+}
+|
+4 .
+x x ¹
+ 
+The function g is not defined for negative x, so its domain is 
+{
+}
+|
+0 .
+x x ³
+ 
+ 
+17 
+Example 3 
+Find the domain of each function. 
+( )
+2
+1
+f x
+x
+x
+=
+-
+( )
+2
+9
+g x
+x
+=
+-
+( )
+1
+t
+h t
+t
+=
++
+            
+              
+ 
+ 
+ 
+ 
+ 
+1.1.5 Four Ways to Represent a Function 
+To help us understand what a function is, we have used machine and arrow diagrams. We 
+can describe a specific function in the following four ways: 
+ 
+verbally (by a description in words) 
+ 
+algebraically (by an explicit formula) 
+ 
+visually (by a graph) 
+ 
+numerically (by a table of values) 
+ 
+ 
+Example 4 
+Let F (C) be the Fahrenheit temperature corresponding to the Celsius temperature C. (F is 
+the function that converts Celsius inputs to Fahrenheit outputs.) The previous box of “Four 
+ways to represent a function”, gives a verbal description of

@@ -1,0 +1,42 @@
+e
+actual curve of F vs. t, Fig. 7–9 (which represents the actual impulse).
+f * ¢t
+f
+¢t,
+f
+Impulse = F
+B ¢t.
+¢t
+F
+B
+F
+B ¢t = ¢p
+B.
+¢t,
+©F
+B
+F
+B
+F
+B =
+¢p
+B
+¢t
+.
+EXERCISE F Suppose Fig. 7–9 shows the force on a golf ball vs. time during the time
+interval when the ball hits a wall. How would the shape of this curve change if a softer
+rubber ball with the same mass and speed hit the same wall?
+FIGURE 7;11 Example 7–6.
+Karate blow. Estimate the impulse and the
+average force delivered by a karate blow that breaks a board (Fig. 7–11).
+Assume the hand moves at roughly 
+when it hits the board.
+APPROACH We use the momentum-impulse relation, Eq. 7–4. The hand’s
+speed changes from 
+to zero over a distance of perhaps one cm (roughly
+how much your hand and the board compress before your hand comes to a 
+stop, and the board begins to give way). The hand’s mass should probably include
+part of the arm, and we take it to be roughly
+SOLUTION The impulse 
+equals the change in momentum
+We can obtain the for

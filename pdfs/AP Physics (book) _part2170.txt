@@ -1,0 +1,55 @@
+ance of an old radio tuner consists of four
+plates connected together placed
+alternately between four other plates,
+also connected together (Fig.19–92).
+Each plate is separated from its neigh-
+bor by 1.6 mm of air. One set of plates
+can move so that the area of overlap
+of each plate varies from 
+to
+(a) Are these seven capacitors
+connected in series or in parallel?
+(b) Determine the range of capaci-
+tance values.
+9.0 cm2.
+2.0 cm2
+(a)
+(b)
+RS = 0.15 Ω
+r = 0.02 Ω
+RS = 0.15 Ω
+r = 0.02 Ω
+S
+S
+RC = 0.10 Ω
+e= 12.5 V
+e= 12.5 V
+FIGURE 19–91
+Problem 94.
+V0
+S
+C2
+C1
+FIGURE 19–90
+Problem 93.
+FIGURE 19–92
+Problem 95.
+1.0 Ω
+16 V
+n = 0
+n = 1
+n = 2
+n = 3
+V
+16.0 kΩ
+8.0 kΩ
+4.0 kΩ
+2.0 kΩ
+Search and Learn
+559
+1. Compare the formulas for resistors and for capacitors when
+connected in series and in parallel by filling in the Table below.
+Discuss and explain the differences. Consider the role of
+voltage V.
+4. A potentiometer is a device to precisely measure potential
+differences or emf, using a null technique. 

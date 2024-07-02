@@ -1,0 +1,129 @@
+and use the 
+fundamental identities to simplify expressions. 
+3. Convert to sines and cosines. If you are stuck, you may find it helpful to rewrite all 
+functions in terms of sines and cosines. 
+ 
+Example 2 
+Consider the equation 
+2
+cos (sec
+cos )
+sin
+q
+q
+q
+q.
+-
+=
+ 
+(a) Verify algebraically that the equation is an identity. 
+(b) Confirm graphically that the equation is an identity. 
+ 
+ 
+ 
+ 
+ 
+ 
+138 
+Example 3 
+Verify the identity 
+cos
+sec
+tan .
+1 sin
+u
+u
+u
+u =
++
+-
+ 
+ 
+ 
+ 
+ 
+ 
+Example 4 
+Verify the identity 
+2
+1 cos
+tan
+.
+cos
+sec
+1
+q
+q
+q
+q
++
+=
+-
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+139 
+Exercise 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+140 
+3.8 Addition and Subtraction Formula 
+3.8.1 Addition and Subtraction Formula 
+Formulas for sine:  
+sin (s + t) = sin s cos t + cos s sin t 
+sin (s − t )= sin s cos t − cos s sin t 
+Formulas for cosine: 
+cos (s + t) = cos s cos t − sin s sin t 
+cos (s − t) = cos s cos t + sin s sin t 
+Formulas f

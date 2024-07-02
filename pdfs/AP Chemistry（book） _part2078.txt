@@ -1,0 +1,26 @@
+phase diagram of a solution and, 
+hence, its boiling and freezing points differ from that of the pure solvent? The addition 
+of a nonvolatile solute lowers the vapor pressure of the solution. Thus, in Figure 13.20 the 
+vapor–pressure curve of the solution is shifted downward relative to the vapor–pressure 
+curve of the pure solvent.
+Solutions sometimes have two or more volatile components. Gaso-
+line, for example, is a solution of several volatile liquids. To gain some 
+understanding of such mixtures, consider an ideal solution of two 
+volatile liquids, A and B. (For our purposes here, it does not matter 
+which we call the solute and which the solvent.) The partial pressures 
+above the solution are given by Raoult’s law:
+P
+A = XAP°
+A     and    P
+B = XBP°
+B
+and the total vapor pressure above the solution is
+P
+total = P
+A + P
+B = XAP°
+A + XBP°
+B
+Consider a mixture of 1.0 mol of benzene 1C6H62 and 2.0 mol of 
+toluene 1C7H82 1Xben = 0.33, Xtol = 0.672. At 20 °C, the vapor pres-
+sures of t

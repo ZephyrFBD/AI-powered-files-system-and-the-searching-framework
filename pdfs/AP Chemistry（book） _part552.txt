@@ -1,0 +1,23 @@
+on 4.4 that the reactant cations exchange anions—Mg2+ ends up with 
+OH-, and Na+ ends up with NO3
+-. The chemical formulas of the products are based on 
+the charges of the ions—two OH- ions are needed to give a neutral compound with Mg2+, 
+and one NO3
+- ion is needed to give a neutral compound with Na+. 
+(Section 2.7) The equa-
+tion can be balanced only after the chemical formulas of the products have been determined.
+128 
+CHAPTER 4 Reactions in Aqueous Solution
+Reactions in which cations and anions appear to exchange partners conform to the 
+general equation
+ 
+ AX + BY ¡ AY + BX  
+[4.5]
+Example:  
+ AgNO31aq2 + KCl1aq2 ¡ AgCl1s2 + KNO31aq2
+Such reactions are called either exchange reactions or metathesis reactions (meh-
+TATH-eh-sis, Greek for “to transpose”). Precipitation reactions conform to this pattern, as 
+do many neutralization reactions between acids and bases, as we will see in Section 4.3.
+How To Balance a Metathesis Reaction
+ 
+1. Use the chemical formulas of the reactants to 

@@ -1,0 +1,29 @@
+he reverse of part (a). Indeed, the direction of the emf in the
+Hall effect first revealed that it is negative particles that move in metal conductors,
+and that positive “holes” move in p-type semiconductors.
+Because the Hall emf is proportional to B, the Hall effect can be used to
+measure magnetic fields. A device to do so is called a Hall probe. When B is
+known, the Hall emf can be used to determine the drift velocity of charge 
+carriers.
+V
+Hall = EHd = (Fe)d = vdBd,
+(= evdB)
+(= eE
+B
+H)
+E
+B
+H
+vd
+F = evdB,
+*
+r r 1B
+*
+20–5 Magnetic Field Due to a 
+Long Straight Wire
+We saw in Section 20–2, Fig. 20–8, that the magnetic field lines due to the 
+electric current in a long straight wire form circles with the wire at the center
+(Fig. 20–22). You might expect that the field strength at a given point would 
+be greater if the current flowing in the wire were greater; and that the field 
+would be less at points farther from the wire. This is indeed the case. Careful
+experiments show that the m

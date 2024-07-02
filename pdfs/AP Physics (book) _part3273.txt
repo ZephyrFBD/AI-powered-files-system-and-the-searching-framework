@@ -1,0 +1,32 @@
+
+Then we have the situation shown in Fig. 29–26b, with a few arsenic atoms holding 
+positions in the crystal lattice where normally silicon atoms are. Only four of arsenic’s
+electrons fit into the bonding structure. The fifth does not fit in and can move
+relatively freely, somewhat like the electrons in a conductor. Because of this small
+number of extra electrons, a doped semiconductor becomes slightly conducting.
+The density of conduction electrons in an intrinsic
+semiconductor at
+room temperature is very low, usually less than 1 per 
+atoms. With an impurity
+concentration of 1 in 
+or 
+when doped, the conductivity will be much higher
+and it can be controlled with great precision. An arsenic-doped silicon crystal is an 
+n-type semiconductor because negative charges (electrons) carry the electric current.
+107
+106
+109
+(= undoped)
+107
+106
+*
+844
+CHAPTER 29
+Molecules and Solids
+C A U T I O N
+p-type semiconductors act as
+though 
+charges move—but
+electrons actually do the moving
+±
+†Each electr

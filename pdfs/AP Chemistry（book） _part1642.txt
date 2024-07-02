@@ -1,0 +1,16 @@
+ contain equal 
+numbers of molecules (Avogadro’s hypothesis). For a gas at constant 
+temperature and pressure, the volume of the gas is directly propor-
+tional to the number of moles of gas (Avogadro’s law). Each of these 
+gas laws is a special case of the ideal-gas equation.
+THE IDEAL-GAS EQUATION (SECTIONS 10.4 AND 10.5) The 
+ideal-gas equation, PV = nRT, is the equation of state for an ideal gas. 
+The term R in this equation is the gas constant. We can use the ideal- 
+gas equation to calculate variations in one variable when one or more 
+of the others are changed. Most gases at pressures less than 10 atm 
+and temperatures near 273 K and above obey the ideal-gas equation 
+reasonably well. The conditions of 273 K 10 °C2 and 1 atm are known 
+as the standard temperature and pressure (STP). In all applications of 
+the ideal-gas equation, we must remember to convert temperatures 
+to the absolute-temperature scale (the kelvin scale).
+Using the ideal-gas equation, we can relate the density 

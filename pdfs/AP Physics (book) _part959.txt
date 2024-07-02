@@ -1,0 +1,57 @@
+* 109
+70 * 109
+50 * 109
+14 * 109
+20 * 109
+70 * 109
+25 * 109
+70 * 109
+80 * 109
+35 * 109
+100 * 109
+140 * 109
+80 * 109
+200 * 109
+90 * 109
+40 * 109
+100 * 109
+B (Nm2)
+G (Nm2)
+E (Nm2)
+T
+ension in piano wire. A 1.60-m-long steel piano wire has
+a diameter of 0.20 cm. How great is the tension in the wire if it stretches 0.25 cm
+when tightened?
+APPROACH We assume Hooke’s law holds, and use it in the form of Eq. 9–4,
+finding E for steel in Table 9–1.
+SOLUTION We solve for F in Eq. 9–4 and note that the area of the wire is
+Then
+NOTE The large tension in all the wires in a piano must be supported by a
+strong frame.
+= 980 N.
+=
+A2.0 * 1011 Nm2B a 0.0025 m
+1.60 m b A3.14 * 10–6 m2B
+F = E ¢l
+l0
+A
+A = pr2 = (3.14)(0.0010 m)2 = 3.14 * 10–6 m2.
+EXAMPLE 9;10
+SECTION 9–5
+Elasticity; Stress and Strain
+243
+†Or a greater force if the weight of the rod cannot be ignored compared to F.
+(a)
+(b)
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 9–20 Stress exists within
+the material.
+FIGURE 9–21 This Greek temple, in Agrigento,
+Sicily, 

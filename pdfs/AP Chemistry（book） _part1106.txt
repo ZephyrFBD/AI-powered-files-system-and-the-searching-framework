@@ -1,0 +1,17 @@
+ionization energy of an atom is a measure of the energy change associated with 
+removing an electron from the atom to form a cation. For example, the first ionization 
+energy of Cl(g), 1251 kJ>mol, is the energy change associated with the process
+ 
+Ionization energy: Cl1g2 ¡ Cl+1g2 + e-  
+∆E = 1251 kJ>mol  
+[7.4]
+3Ne43s23p5  3Ne43s23p4
+The positive value of the ionization energy means that energy must be put into the atom 
+to remove the electron. All ionization energies for atoms are positive: Energy must be absorbed 
+to remove an electron.
+Most atoms can also gain electrons to form anions. The energy change that occurs 
+when an electron is added to a gaseous atom is called the electron affinity because it 
+measures the attraction, or affinity, of the atom for the added electron. For most atoms, 
+energy is released when an electron is added. For example, the addition of an electron to 
+a chlorine atom is accompanied by an energy change of -349 kJ>mol, the negative sign 
+indicating that

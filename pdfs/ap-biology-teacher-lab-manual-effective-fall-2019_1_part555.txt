@@ -1,0 +1,17 @@
+rsus “- plasmid” nontransformed cells? 
+2. Which of the traits that you originally observed for E. coli did not seem to become 
+altered? Which traits seem now to be significantly different after performing the 
+transformation procedure? 
+3. What evidence suggests that the changes were due to the transformation procedures 
+you performed? 
+4. What advantage would there be for an organism to be able to turn on or off  
+particular genes in response to certain conditions?  
+5. Was your attempt at performing a genetic transformation successful? If so, how 
+successful? 
+By calculating transformation efficiency, you can measure the success of your  
+transformation quantitatively.  
+■ Calculating Transformation Efficiency 
+Your next task is to learn how to determine the extent to which you genetically 
+transformed E. coli cells. This quantitative measurement is referred to as the 
+transformation efficiency. What is the importance of quantifying how many cells have 
+been transformed? In many app

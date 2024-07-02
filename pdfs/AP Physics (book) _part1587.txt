@@ -1,0 +1,21 @@
+eneral Problems
+39. (II) How long does it take the Sun to melt a block of ice at
+0°C with a flat horizontal area 
+and thickness 1.0 cm?
+Assume that the Sun’s rays make an angle of 35° with the
+vertical and that the emissivity of ice is 0.050.
+40. (II) Heat conduction to skin. Suppose 150 W of heat flows by
+conduction from the blood capillaries beneath the skin to
+the body’s surface area of 
+If the temperature differ-
+ence is 0.50 C°, estimate the average distance of capillaries
+below the skin surface.
+41. (II) Two rooms, each a cube 4.0 m per side, share a 14-cm-
+thick brick wall. Because of a number of 100-W lightbulbs
+in one room, the air is at 30°C, while in the other room it is
+at 10°C. How many of the 100-W bulbs are needed to
+maintain the temperature difference across the wall?
+42. (II) A 100-W lightbulb generates 95 W of heat, which is
+dissipated through a glass bulb that has a radius of 3.0 cm
+and is 0.50 mm thick. What is the difference in temperature
+between the inner and out

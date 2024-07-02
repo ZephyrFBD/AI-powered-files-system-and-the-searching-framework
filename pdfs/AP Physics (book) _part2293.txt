@@ -1,0 +1,30 @@
+ it is moving slower than 
+(e) Now consider electrons that move perpendicular to
+both a magnetic field and to an electric field, which are
+perpendicular to each other. If only electrons with speeds
+of 
+go straight through undeflected, what is
+the ratio of the magnitudes of electric field to magnetic
+field? Without knowing the value of the electric field, can
+you know the value of the magnetic field?
+3. (a) A particle of charge q moves in a circular path of 
+radius r in a uniform magnetic field 
+If the magnitude of
+the magnetic field is double, and the kinetic energy of the
+particle is the same, how does the angular momentum of
+the particle differ? (b) Show that the magnetic dipole
+moment M (Section 20–9) of an electron orbiting the
+proton nucleus of a hydrogen atom is related to the orbital
+angular momentum L of the electron by
+M =
+e
+2m L.
+B
+B.
+5.5 * 104 ms
+3.0 * 104 ms?
+3.0 * 104 ms,
+330 Vm,
+3.0 * 104 ms.
+4. (a) Two long parallel wires, each 2.0 mm in diameter and
+9.00 cm apart, 

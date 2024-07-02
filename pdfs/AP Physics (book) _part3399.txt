@@ -1,0 +1,14 @@
+ed for counting the number of particles (or
+decays of a radioactive isotope). There are also devices that allow the track of
+charged particles to be seen. Very important are semiconductor detectors. Silicon
+wafer semiconductors have their surface etched into separate tiny pixels, each
+providing particle position information. They are much used in elementary par-
+ticle physics (Chapter 32) to track the positions of particles produced and to
+determine their point of origin and or their momentum (with the help of a
+magnetic field). The pixel arrangement can be CCD or CMOS (Section 25–1),
+the latter able to incorporate electronics inside, allowing fast readout.
+One of the oldest tracking devices is the photographic emulsion, which can
+be small and portable, used now particularly for cosmic-ray studies from balloons.
+A charged particle passing through an emulsion ionizes the atoms along its path.
+These points undergo a chemical change, and when the emulsion is developed
+(like film) the part

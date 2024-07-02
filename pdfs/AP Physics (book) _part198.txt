@@ -1,0 +1,47 @@
+is the change of velocity during the time interval 
+Instantaneous acceleration is the average acceleration taken
+over an infinitesimally short time interval.
+If an object has position 
+and velocity 
+at time
+and
+moves in a straight line with constant acceleration, the velocity 
+and position x at a later time are related to the acceleration a,
+the initial position 
+and the initial velocity 
+by Eqs. 2–11:
+(2;11)
+v = v + v0
+2
+.
+v2 = v0
+2 + 2aAx - x0B,
+x = x0 + v0t + 1
+2 at2,
+v = v0 + at,
+v0
+x0,
+t
+v
+t = 0
+v0
+x0
+¢t.
+¢v
+a =
+¢v
+¢t
+,
+¢t
+1. Does a car speedometer measure speed, velocity, or both?
+Explain.
+2. When an object moves with constant velocity, does its
+average velocity during any time interval differ from its
+instantaneous velocity at any instant? Explain.
+3. If one object has a greater speed than a second object,
+does the first necessarily have a greater acceleration?
+Explain, using examples.
+4. Compare the acceleration of a motorcycle that accelerates
+from 
+to 
+with the acceleration o

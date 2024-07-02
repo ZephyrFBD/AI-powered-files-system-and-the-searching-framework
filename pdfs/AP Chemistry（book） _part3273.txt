@@ -1,0 +1,22 @@
+uce or refine metals are based 
+on electrolysis. Collectively, these processes are referred to as 
+electrometallurgy. Electrometallurgical procedures can be broadly 
+differentiated according to whether they involve electrolysis of a 
+molten salt or of an aqueous solution.
+Electrolytic methods using molten salts are important for 
+obtaining the more active metals, such as sodium, magnesium, and 
+aluminum. These metals cannot be obtained from aqueous solution 
+because water is more easily reduced than the metal ions. The stan-
+dard reduction potentials of water under both acidic 1E°
+red = 0.00 V2 
+and basic 1E°
+red = -0.83 V2 conditions are more positive than 
+those of Na+ 1E°
+red = -2.71 V2, Mg2+ 1E°
+red = -2.37 V2, and Al3+
+1E°
+red = -1.66 V2.
+Historically, obtaining aluminum metal has been a challenge. 
+It is obtained from bauxite ore, which is chemically treated to con-
+centrate aluminum oxide 1Al2O32. The melting point of aluminum 
+oxide is above 2000 °C, which is too high to permit

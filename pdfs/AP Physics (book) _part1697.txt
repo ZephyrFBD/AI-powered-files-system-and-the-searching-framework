@@ -1,0 +1,27 @@
+ water to a high reservoir
+when demand is low and then releasing it to drive turbines
+during peak demand. Suppose water is pumped to a lake
+115 m above the turbines at a rate of 
+for
+10.0 h at night. (a) How much energy (kWh) is needed to do
+this each night? (b) If all this energy is released during a 14-h
+day, at 75% efficiency, what is the average power output?
+*55. (II) Water is stored in an artificial lake created by a dam
+(Fig. 15–27). The water depth is 48 m at the dam, and a
+steady flow rate of 
+is maintained through hydro-
+electric turbines installed near the base of the dam. How
+much electrical
+power can be
+produced?
+32 m3s
+1.00 * 105 kgs
+FIGURE 15–26
+Problem 53.
+15–6 Refrigerators, Air Conditioners, Heat Pumps
+32. (I) If an ideal refrigerator keeps its contents at 2.5°C when
+the house temperature is 22°C, what is its COP?
+33. (I) The low temperature of a freezer cooling coil is 
+and
+the discharge temperature is 33°C. What is the maximum
+theoretical coefficient of performanc

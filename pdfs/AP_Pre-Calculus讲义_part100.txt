@@ -1,0 +1,99 @@
+ polar to rectangular coordinates, use the formulas 
+ cos 
+and
+ sin 
+x
+r
+y
+r
+q
+q
+=
+=
+ 
+2. To change from rectangular to polar coordinates, use the formulas 
+2
+2
+2
+and
+tan
+ (
+0)
+y
+r
+x
+y
+x
+x
+q
+=
++
+=
+¹
+ 
+ 
+ 
+ 
+ 
+ 
+153 
+Example 2 
+2
+4, 
+.
+3
+p
+æ
+ö
+ç
+÷
+è
+ø
+Find rectangular coordinates for the point that has polar coordinates 
+ 
+ 
+ 
+ 
+ 
+ 
+3.11.3 Polar Equations 
+When we use these equations to find the polar coordinates of a point, we must be careful 
+that the values we choose for r and  give us a point in the correct quadrant. 
+ 
+Example 3 
+Express the equation x2 =4y in polar coordinates. 
+ 
+ 
+ 
+ 
+ 
+Example 4 
+Express the polar equation in rectangular coordinates. If possible, determine the graph of 
+the equation from its rectangular form. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+154 
+3.11.4 Polar Form of Complex Numbers 
+Let z = a + bi be a complex number, and in the complex plane let’s draw the line segment 
+joining the origin to the point a + bi. 
+ 
+The length of this line segment is 
+2
+2.
+r
+z
+a
+b
+=
+=

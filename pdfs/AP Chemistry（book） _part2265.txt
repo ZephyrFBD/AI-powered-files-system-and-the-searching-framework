@@ -1,0 +1,25 @@
++ O1g2
+Omitting the intermediate, O(g), which occurs on both sides 
+of the equation, gives the overall reaction:
+2 N2O1g2 ¡ 2 N21g2 + O21g2
+(b) The rate law for the overall reaction is just the rate law for the 
+slow, rate-determining elementary reaction. Because that slow 
+step is a unimolecular elementary reaction, the rate law is ﬁrst 
+order:
+Rate = k3N2O4
+ 
+▶Practice Exercise 1
+An alternative two-step reaction mechanism has been proposed 
+for the reaction NO21g2 + CO1g2 ¡ NO1g2 + CO21g2, 
+which was discussed on page 597:
+Step 1:
+ NO21g2 + NO21g2 ¡ N2O41g2   1slow2
+Step 2:
+N2O41g2 + CO1g2 ¡ NO1g2 + CO21g2 + NO21g2 1fast2
+Which experiment would allow you to distinguish between 
+the two proposed mechanisms?  
+(a) Run trials with different initial concentrations of NO2(g)  
+and measure the initial reaction rates. (b) Run trials with 
+different initial concentrations of CO(g) and measure the 
+initial reaction rates. (c) Conduct experiments to identify 
+the reaction intermediate(s). (d) 

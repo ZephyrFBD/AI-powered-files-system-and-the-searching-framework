@@ -1,0 +1,16 @@
+to a highly organized biochemical sys-
+tem, such as the nucleosome in the chapter-opening figure. We might expect that the 
+creation of this well-ordered structure would lead to a decrease in the entropy of the 
+system. But this is frequently not the case. Waters of hydration and counterions can be 
+expelled from the interface as two large biomolecules interact, and so the entropy of 
+the system can actually increase—if you consider the water and counterions to be part 
+of the system.
+The same ideas apply to chemical reactions. Consider the reaction between nitric 
+oxide gas and oxygen gas to form nitrogen dioxide gas:
+ 
+2 NO1g2 + O21g2 ¡ 2 NO21g2 
+[19.7]
+which results in a decrease in the number of molecules—three molecules of gaseous 
+reactants form two molecules of gaseous products (Figure 19.11). The formation of new 
+N¬O bonds reduces the motions of the atoms in the system. The formation of new 
+bonds decreases the number of degrees of freedom, or forms of motion, available to the

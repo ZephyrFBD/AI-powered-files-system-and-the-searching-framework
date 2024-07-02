@@ -1,0 +1,63 @@
+SOLUTION (a) From Eq. 19–1, we have 
+We apply Ohm’s law
+(Eq. 18–2) to this battery and the resistance R of the circuit:
+Hence
+or
+So
+(b) The terminal voltage is
+(c) The power dissipated in R (Eq. 18–6) is
+and in the battery’s resistance r it is 
+P
+r = I2r = (0.183 A)2(0.5 ) = 0.02 W.
+P
+R = I2R = (0.183 A)2(65.0 ) = 2.18 W,
+V
+ab = e - Ir = 12.0 V - (0.183 A)(0.5 ) = 11.9 V.
+I =
+e
+R + r =
+12.0 V
+65.0  + 0.5  = 12.0 V
+65.5  = 0.183 A.
+e = I(R + r).
+e - Ir = IR
+V
+ab = IR.
+V
+ab = e - Ir.
+V = IR
+e
+V
+ab,
+0.5 ,
+65.0-
+EXAMPLE 19;1
+528
+CHAPTER 19
+DC Circuits
+Battery
+(b)
+(a)
+V
+V1
+V3
+V2
+R1
+R2
+R3
+I
+V
+Req
+I
+(c)
++
+–
++
+–
+19–2 Resistors in Series and in Parallel
+When two or more resistors are connected end to end along a single path as
+shown in Fig. 19–3a, they are said to be connected in series. The resistors could
+be simple resistors as were pictured in Fig. 18–11, or they could be lightbulbs
+(Fig. 19–3b), or heating elements, or other resistive devices. Any charge that
+passes through 
+in Fig.

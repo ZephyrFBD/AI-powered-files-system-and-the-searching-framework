@@ -1,0 +1,51 @@
+he velocity is
+increasing. For times after 
+the slope begins to decrease and reaches zero (
+)
+where x has its maximum value, at point 
+in Fig. 2–29. Beyond point 
+the
+slope is negative, as for point 
+The velocity is therefore negative, which
+makes sense since x is now decreasing—the particle is moving toward decreasing
+values of x, to the left on a standard xy plot.
+P5 .
+P4 ,
+P4
+v = 0
+t2 ,
+x2 ,
+x1
+t
+P4
+P5
+0
+P1
+P2
+t2
+t1
+x1
+x2
+x
+t
+t4
+FIGURE 2;29 Same x vs.
+curve as in 
+Figs. 2–27 and 2–28, but here showing the slope 
+at four different points: At 
+the slope is zero,
+so 
+At 
+the slope is negative, so v 6 0.
+P5
+v = 0.
+P4,
+t
+Analyzing with graphs. Figure 2–31
+shows the velocity as a function of time for two cars accelerating from 0 to
+in a time of 10.0 s. Compare (a) the average acceleration; (b) the 
+instantaneous acceleration; and (c) the total distance traveled for the two cars.
+RESPONSE (a) Average acceleration is 
+Both cars have the same 
+over the same time interval
+10.0 s, so the avera

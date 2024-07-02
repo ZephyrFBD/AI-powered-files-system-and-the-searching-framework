@@ -1,0 +1,27 @@
+
+C A U T I O N
+Not correct to say light is a wave and/or
+a particle. Light can act like a wave or
+like a particle
+FIGURE 27–11 Niels Bohr (right),
+walking with Enrico Fermi along the
+Appian Way outside Rome. This
+photo shows one important way
+physics is done.
+de Broglie wavelength
+Wavelength of a ball. Calculate the de Broglie wavelength
+of a 0.20-kg ball moving with a speed of 
+APPROACH We use Eq. 27–8.
+SOLUTION
+Ordinary objects, such as the ball of Example 27–10, have unimaginably small
+wavelengths. Even if the speed is extremely small, say 
+the wavelength
+would be about 
+Indeed, the wavelength of any ordinary object is much
+too small to be measured and detected. The problem is that the properties of
+waves, such as interference and diffraction, are significant only when the size of
+objects or slits is not much larger than the wavelength. And there are no known
+objects or slits to diffract waves only 
+long, so the wave properties of
+ordinary objects go undetected.
+But tiny elementary 

@@ -1,0 +1,37 @@
+(a) Cl-1aq2 (b) Cl21g2 (c) O21g2 (d) H+1aq2 (e) Na+1aq2
+ 
+▶Practice Exercise 2
+Using Table 20.1, rank the following species from the stron-
+gest to the weakest reducing agent: I- 1aq), Fe1s2, Al1s2.
+NO3
+-1aq2 + 4 H+1aq2 + 3 e- ¡ NO1g2 + 2 H2O1l2 
+ E°
+red = +0.96 V
+Ag+1aq2 + e- ¡ Ag1s2  
+ 
+ E°
+red = +0.80 V
+Cr2O7
+2-1aq2 + 14 H+1aq2 + 6 e- ¡ 2 Cr3+1aq2 + 7 H2O1l2 E°
+red = +1.33 V 
+Ag+ 6 NO3
+- 6 Cr2O7
+2-
+SOLUTION
+Sample Exercise 20.8 
+Determining Relative Strengths of Oxidizing Agents
+Because the standard reduction potential of 
+Cr2O7
+2- is the most positive, Cr2O7
+2- is the stron-
+gest oxidizing agent of the three. The rank order is:
+ 
+SECTION 20.4   
+Cell Potentials under Standard Conditions 
+867
+868 
+CHAPTER 20 Electrochemistry
+20.5 ∣Free Energy and Redox Reactions
+We have observed that voltaic cells use spontaneous redox reactions to produce a positive 
+cell potential. Given half-cell potentials, we can determine whether a given redox reac-
+tion is spontaneous. In this endeavor, we ca

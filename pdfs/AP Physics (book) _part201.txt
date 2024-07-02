@@ -1,0 +1,50 @@
+f velocity, acceleration, etc. [Hint: First try to dupli-
+cate the motion plotted by walking or moving your hand.]
+Questions
+Objects that move vertically near the surface of the Earth,
+either falling or having been projected vertically up or down,
+move with the constant downward acceleration due to gravity,
+whose magnitude is
+if air resistance can be
+ignored. We can apply Eqs. 2–11 for constant acceleration to
+objects that move up or down freely near the Earth’s surface.
+The slope of a curve at any point on a graph is the slope
+of the tangent to the curve at that point. On a graph of posi-
+tion vs. time, the slope is equal to the instantaneous velocity.
+On a graph of velocity vs. time, the slope is the acceleration.
+g = 9.80 ms2
+20
+10
+00
+10
+20
+30
+40
+50
+t (s)
+x (m)
+FIGURE 2;32 Question 16.
+ (m/s)
+v
+t (s)
+40
+30
+20
+10
+00
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100 110 120
+FIGURE 2;33 Question 17.
+17. Describe in words the motion of the object graphed in
+Fig. 2–33.
+42
+CHAPTER 2
+Describing Motion: Kine

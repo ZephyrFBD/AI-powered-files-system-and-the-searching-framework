@@ -1,0 +1,25 @@
+defined as the ratio of the voltage across the capacitor
+(or inductor) to the voltage across the resistor, at resonance.
+The larger the Q factor, the sharper the resonance curve will
+be and the sharper the tuning. (a) Show that the Q factor
+is given by the equation 
+(b) At a reso-
+nant frequency 
+what must be the values 
+of L and R to produce a Q factor of 650? Assume that
+C = 0.010 mF.
+f
+0 = 1.0 MHz,
+Q = (1R)2LC.
+*90. A 130-mH coil whose resistance is 
+is connected to a
+capacitor C and a 1360-Hz source voltage. If the current
+and voltage are to be in phase, what value must C have?
+*91. The wire of a tightly wound solenoid is unwound and 
+used to make another tightly wound solenoid of twice the
+diameter. By what factor does the inductance change?
+15.8 
+1. (a) Sections 19–7 and 21–9 discuss conditions when and
+where it is especially important to have ground fault circuit
+interrupters (GFCIs) installed. What is it about those places
+that makes “touching ground” especially risky? (b) D

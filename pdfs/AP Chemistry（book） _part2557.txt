@@ -1,0 +1,30 @@
+ization = concentration of ionized HA
+original concentration of HA * 100% 
+[16.26]
+The stronger the acid, the greater the percent ionization.
+If we assume that the autoionization of H2O is negligible, the concentration of acid 
+that ionizes equals the concentration of H+1aq2 that forms. Thus, the percent ionization 
+for an acid HA can be expressed as
+ 
+Percent ionization =
+3H+4equilibrium
+3HA4initial
+* 100% 
+[16.27]
+For example, a 0.035 M solution of HNO2 contains 3.7 * 10-3 M H+1aq2 and its percent 
+ionization is
+ 
+Percent ionization =
+3H+4equilibrium
+3HNO24initial
+* 100% = 3.7 * 10-3 M
+0.035 M
+* 100% = 11% 
+As calculated in Sample Exercise 16.10, a 0.10 M solution of formic acid (HCOOH) contains 4.2 * 10-3 M H+1aq2. Calculate 
+the percentage of the acid that is ionized.
+Sample Exercise 16.11 
+Calculating Percent Ionization
+SOLUTION
+Analyze We are given the molar concentration of an aqueous solu-
+tion of weak acid and the equilibrium concentration of H+1aq2 
+and asked to determine the

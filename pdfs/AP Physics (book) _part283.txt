@@ -1,0 +1,37 @@
+se the range formula which is valid
+only if
+As in Example 3–6,
+SOLUTION With
+and
+(see Example 3–6), we use
+the y version of Eq. 2–11b with
+and obtain
+We rearrange this equation into standard form
+so we can
+use the quadratic formula:
+The quadratic formula (Appendix A–4) gives
+The second solution would correspond to a time prior to the kick, so it doesn’t
+apply. With
+for the time at which the ball touches the ground, the
+horizontal distance the ball traveled is (using
+from Example 3–6):
+Our assumption in Example 3–6 that the ball leaves the foot at ground level
+would result in an underestimate of about 1.3 m in the distance our punt traveled.
+x = vx 0t = (16.0 ms)(2.53 s) = 40.5 m.
+vx 0 = 16.0 ms
+t = 2.53 s
+= 2.53 s or –0.081 s.
+t =
+12.0 ms63(–12.0 ms)2 - 4A4.90 ms2B(–1.00 m)
+2A4.90 ms2B
+A4.90 ms2Bt2 - (12.0 ms)t - (1.00 m) = 0.
+Aax2 + bx + c = 0B
+–1.00 m = 0 + (12.0 ms)t - A4.90 ms2Bt2.
+y = y0 + vy 0t - 1
+2 gt2,
+ay = –g,
+vy 0 = 12.0 ms
+y = –1.00 m
+u0 = 37.0°.
+v0 = 20.0 ms,
+y

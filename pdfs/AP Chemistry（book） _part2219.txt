@@ -1,0 +1,40 @@
+ed knowing the other three. Equation 14.14 also has the form of a 
+straight line 1y = mx + b2. If the reaction is second order, a plot of 1>3A4t versus t yields 
+a straight line with slope k and y-intercept 1>3A40. One way to distinguish between first- 
+and second-order rate laws is to graph both  ln3A4t and 1>3A4t against t. If the  ln3A4t plot 
+is linear, the reaction is first order; if the 1>3A4t plot is linear, the reaction is second order.
+0
+100
+200
+300
+–5.8
+–5.6
+–5.4
+–5.2
+–5.0
+–4.8
+–4.6
+Time (s)
+ln[NO2]
+0
+100
+200
+300
+50
+150
+250
+Time (s)
+1/[NO2] (1/M)
+▲ Figure 14.8 Kinetic data for decomposition of NO2.
+The following data were obtained for the gas-phase decomposition  
+of nitrogen dioxide at 300 °C, NO21g2 ¡ NO1g2 + 1
+2 O21g2. Is the  
+reaction first or second order in NO2?
+Solve
+  
+To graph ln3NO24 and 1>3NO24 
+against time, we first make the fol-
+lowing calculations from the data 
+given:
+Analyze We are given the concentrations of a reactant at various 
+times during a reaction an

@@ -1,0 +1,18 @@
+evation map of New Orleans. The areas colored yellow, red, and orange near the 
+Mississippi River have elevations that are 10 or more feet above sea level, while those colored blue 
+are below sea level.
+ 
+SECTION 15.1   
+The Concept of Equilibrium 
+625
+In this and the next two chapters, we will explore chemical equilibrium in detail. 
+Later, in Chapter 19, we will learn how to relate chemical equilibria to thermodynamics. 
+Here, we learn how to express the equilibrium state of a reaction in quantitative terms 
+and study the factors that determine the relative concentrations of reactants and prod-
+ucts in equilibrium mixtures.
+15.1 ∣ The Concept of Equilibrium
+Let’s examine a simple chemical reaction to see how it reaches an equilibrium 
+state—a mixture of reactants and products whose concentrations no longer change 
+with time. We begin with N2O4, a colorless substance that dissociates to form brown 
+NO2. Figure 15.2 shows a sample of frozen N2O4 inside a sealed tube. The solid N2O4 
+be

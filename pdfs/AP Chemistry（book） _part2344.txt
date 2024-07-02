@@ -1,0 +1,48 @@
+-9
+340
+3.0 * 10-8
+355
+2.4 * 10-7
+ 
+ From these data, calculate the activation energy in units 
+of kJ>mol.
+ 14.92 You perform a series of experiments for the reaction 
+A ¡ B + C and ﬁnd that the rate law has the form 
+rate = k3A4x. Determine the value of x in each of the follow-
+ing cases: (a) There is no rate change when 3A40 is tripled. 
+(b) The rate increases by a factor of 9 when 3A40 is tripled. 
+ 
+(c) When 3A40 is doubled, the rate increases by a factor of 8.
+ 14.93 Consider the following reaction between mercury(II) 
+chloride and oxalate ion:
+2 HgCl21aq2 + C2O4
+2 -1aq2 ¡ 2 Cl -1aq2 + 2 CO21g2 + Hg2Cl21s2
+ 
+ The initial rate of this reaction was determined for several 
+concentrations of HgCl2 and C2O4
+2 -, and the following rate 
+data were obtained for the rate of disappearance of C2O4
+2 -:
+Experiment
+3HgCl24 1M 2
+3C2O4
+2 −4 1M 2
+Rate 1M,s2
+1
+0.164
+0.15
+3.2 * 10-5
+2
+0.164
+0.45
+2.9 * 10-4
+3
+0.082
+0.45
+1.4 * 10-4
+4
+0.246
+0.15
+4.8 * 10-5
+ 
+ (a) What is the rate law for this reaction?

@@ -1,0 +1,30 @@
+ction from the tabulated ∆H values of 
+other reactions. Thus, it is not necessary to make calorimetric measurements for all 
+reactions.
+ 
+We can use ∆T and the value for Ccal to calculate the heat of  
+reaction (Equation 5.23):
+We can readily convert this value to the heat of reaction for a 
+mole of CH6N2:
+a
+-113.0 kJ
+4.00 g CH6N2
+b * a
+46.1 g CH6N2
+1 mol CH6N2
+b = -1.30 * 103 kJ>mol CH6N2
+qrxn = -Ccal * ∆T = -17.794 kJ>°C2114.50 °C2 = -113.0 kJ
+Check The units cancel properly, and the sign of the answer is neg-
+ative as it should be for an exothermic reaction. The magnitude of 
+the answer seems reasonable.
+ 
+▶Practice Exercise 1
+The combustion of exactly 1.000 g of benzoic acid in a bomb 
+calorimeter releases 26.38 kJ of heat. If the combustion 
+of 0.550 g of benzoic acid causes the temperature of the 
+calorimeter to increase from 22.01 to 24.27 °C, calculate the 
+heat capacity of the calorimeter. 
+(a) 0.660 kJ>°C  (b) 6.42 kJ>°C (c) 14.5 kJ>°C  
+(d) 21.2 kJ>g@°C (e) 32.7 kJ>°C
+ 
+▶Pra

@@ -1,0 +1,49 @@
+ requires 25 hp, what is the efficiency of the
+engine under those conditions?
+67. A Carnot engine operates with
+and has an
+efficiency of 25%. By how many kelvins should the high
+operating temperature 
+be increased to achieve an effi-
+ciency of 35%?
+68. Calculate the work done by an ideal gas in going from
+state A to state C 
+in Fig. 15–28 for
+each of the following
+processes: (a) ADC,
+(b) ABC, and (c) AC
+directly.
+T
+H
+T
+L = 20°C
+110 kmh,
+41 kmgal
+3.0 * 104 kcalgal.
+General Problems
+A
+C
+B
+VC
+P
+V
+A
+V
+P
+C
+PA
+0
+D
+FIGURE 15–28
+Problem 68.
+69. A 38% efficient power plant puts out 850 MW of electrical
+power. Cooling towers take away the exhaust heat. (a) If the
+air temperature is allowed to rise 7.0 C°, estimate what volume
+of air 
+is heated per day. Will the local climate be
+heated significantly? (b) If the heated air were to form a layer
+180 m thick, estimate how large an area it would cover for
+24 h of operation. Assume the air has density 
+and
+has specific heat of about 
+at constant pre

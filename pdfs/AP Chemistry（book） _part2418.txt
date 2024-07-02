@@ -1,0 +1,17 @@
+ing equilibrium 
+constants: We tabulate initial concentrations or partial pressures, changes in those con-
+centrations or pressures, and final equilibrium concentrations or partial pressures. Usu-
+ally, we end up using the equilibrium-constant expression to derive an equation that 
+must be solved for an unknown quantity, as demonstrated in Sample Exercise 15.10.
+At 448 °C, the equilibrium constant Kc for the reaction
+H21g2 + I21g2 ∆ 2 HI1g2
+is 50.5. Predict in which direction the reaction proceeds to reach equilibrium if we start with 2.0 * 10-2 mol of HI, 
+1.0 * 10-2 mol of H2, and 3.0 * 10-2 mol of I2 in a 2.00-L container.
+Sample Exercise 15.9
+ Predicting the Direction of Approach to Equilibrium
+SOLUTION
+Analyze We are given a volume and initial molar amounts of the 
+species in a reaction and asked to determine in which direction 
+the reaction must proceed to achieve equilibrium.
+Plan We can determine the starting concentration of each species 
+in the reaction mixture. We can then s

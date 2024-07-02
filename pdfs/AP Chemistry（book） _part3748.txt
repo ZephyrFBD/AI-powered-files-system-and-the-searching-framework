@@ -1,0 +1,16 @@
+ three oxalate anions, as in part (b), is 5.0 * 109, and the equilibrium constant 
+for formation of the cobalt(II) complex with three molecules of ortho-phenanthroline (Table 23.4) is 9 * 1019. From these 
+results, what conclusions can you draw regarding the relative Lewis base properties of the two ligands toward cobalt(II)? (e) Using 
+the approach described in Sample Exercise 17.14, calculate the concentration of free aqueous Co(II) ion in a solution initially 
+containing 0.040 M oxalate (aq) and 0.0010 M Co2+(aq).
+SOLUTION
+(b) Because the oxalate ion has a charge of 2-, the net charge of 
+a complex with three oxalate anions and one Co2+ ion is 4-. 
+Therefore, the coordination compound has the formula:
+(c) There is only one geometric isomer. The complex is chiral, 
+however, in the same way the 3Co(en)343+ complex is chiral 
+(Figure 23.22). The two mirror images are not superimposable, 
+so there are two enantiomers:
+4−
+4−
+(d) The ortho-phenanthroline ligand is bidentate, like the oxa-

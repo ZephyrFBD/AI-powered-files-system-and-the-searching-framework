@@ -1,0 +1,19 @@
+ and n = 1 to n = 2.
+ 6.46  Place the following transitions of the hydrogen atom in order 
+from shortest to longest wavelength of the photon emitted: 
+n = 5 to n = 3, n = 4 to n = 2, n = 7 to n = 4, and n = 3 to 
+n = 2.
+ 6.47  Use the de Broglie relationship to determine the wavelengths 
+of the following objects: (a) an 85-kg person skiing at 
+50 km>hr, (b) a 10.0-g bullet fired at 250 m>s, (c) a lithium 
+atom moving at 2.5 * 105 m>s, (d) an ozone 1O32 molecule 
+in the upper atmosphere moving at 550 m>s.
+ 6.48  Among the elementary subatomic particles of physics is the 
+muon, which decays within a few microseconds after forma-
+tion. The muon has a rest mass 206.8 times that of an elec-
+tron. Calculate the de Broglie wavelength associated with a 
+muon traveling at 8.85 * 105 cm>s.
+ 6.49  Neutron diffraction is an important technique for determin-
+ing the structures of molecules. Calculate the velocity of a 
+neutron needed to achieve a wavelength of 1.25 Å. (Refer to 
+the inside cover fo

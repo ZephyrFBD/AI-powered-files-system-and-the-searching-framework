@@ -1,0 +1,23 @@
+ind the mirror, the corresponding distance is
+negative. [An example of 
+can be seen in Fig. 23–17, Example 23–6.]†
+Thus the magnification (Eq. 23–3) is positive for an upright image and negative
+for an inverted image (upside down). We summarize sign conventions more fully
+in the Problem Solving Strategy following our discussion of convex mirrors later
+in this Section.
+Concave Mirror Examples
+Image in a concave mirror. A 1.50-cm-high object is 
+placed 20.0 cm from a concave mirror with radius of curvature 30.0 cm. Deter-
+mine (a) the position of the image, and (b) its size.
+APPROACH We determine the focal length from the radius of curvature
+(Eq. 23–1),
+The ray diagram is basically the same as
+Fig. 23–16, since the object is between F and C. The position and size of the
+image are found from Eqs. 23–2 and 23–3.
+SOLUTION Referring to Fig. 23–16, we have
+and
+(a) We start with the mirror equation, Eq. 23–2, rearranging it (subtracting 
+from both sides):
+So
+Because 
+is positive, the image is 

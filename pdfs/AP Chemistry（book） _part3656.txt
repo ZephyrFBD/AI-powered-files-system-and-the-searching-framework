@@ -1,0 +1,14 @@
+rons cause the ferromagnetic substance to maintain a magnetic 
+moment. We then refer to it as a permanent magnet (Figure 23.7).
+The only ferromagnetic transition metals are Fe, Co, and Ni, but many alloys also 
+exhibit ferromagnetism, which is in some cases stronger than the ferromagnetism of the 
+pure metals. Particularly powerful ferromagnetism is found in compounds containing 
+both transition metals and lanthanide metals. Two of the most important examples are 
+SmCo5 and Nd2Fe14B.
+Two additional types of magnetism involving ordered arrangements of unpaired 
+electrons are depicted in Figure 23.6. In materials that exhibit antiferromagnetism 
+[Figure 23.6(c)], the unpaired electrons on a given atom or ion align so that their spins 
+are oriented in the direction opposite the spin direction on neighboring atoms. This 
+means that the spin-up and spin-down electrons cancel each other. Examples of anti-
+ferromagnetic substances are chromium metal, FeMn alloys, and such transition-metal 
+ox

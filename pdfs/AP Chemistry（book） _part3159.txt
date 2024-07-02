@@ -1,0 +1,47 @@
+idizing agent and which is the reducing agent.
+Sample Exercise 20.1 
+Identifying Oxidizing and Reducing Agents
+SOLUTION
+Analyze We are given a redox equation and asked to identify the 
+substance oxidized and the substance reduced and to label the oxi-
+dizing agent and the reducing agent.
+Plan First, we use the rules outlined earlier 
+ (Section 4.4) to 
+assign oxidation states, or numbers, to all the atoms and deter-
+mine which elements change oxidation state. Second, we apply 
+the definitions of oxidation and reduction.
+Solve
+Cd(s)     NiO2(s)     2 H2O(l)
+Ni(OH)2(s)
+0
+Cd(OH)2(s)
+2
+2
+1
+2
+2
+1
+4
+2
+1
+2
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
+The oxidation state of Cd increases from 0 to +2, and that of Ni 
+decreases from +4 to +2. Thus, the Cd atom is oxidized (loses 
+electrons) and is the reducing agent. The oxidation state of 
+Ni decreases as NiO2 is converted into Ni1OH22. Thus, NiO2 is 
+reduced (gains electrons) and is the oxidizing agent.
+Comment A common mnemonic for remembering oxidation and 
+re

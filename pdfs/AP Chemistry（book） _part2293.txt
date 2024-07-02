@@ -1,0 +1,18 @@
+ore the half-life. The 
+first-order rate constant is given by Equation 14.17:  
+k = 0.693>t1>2 = 0.693>660 s = 1.05 * 10-3 s-1.
+(b) The reaction proceeds much more rapidly in the presence of 
+solid ZnO, so the surface of the oxide must be acting as a cat-
+alyst for the decomposition of the acid. This is an example of 
+heterogeneous catalysis.
+(c) If we had graphed the concentration of formic acid in units of 
+moles per liter, we would still have determined that the half-life 
+for decomposition is 660 s, and we would have computed the 
+same value for k. Because the units for k are s-1, the value for k is 
+independent of the units used for concentration.
+(d) According to the stoichiometry of the reaction, two moles of 
+product are formed for each mole of reactant. When reaction 
+is completed, therefore, the pressure will be 600 torr, just twice 
+the initial pressure, assuming ideal-gas behavior. (Because we 
+are working at quite high temperature and fairly low gas pres-
+sure, assuming id

@@ -1,0 +1,60 @@
+on of temperature:
+Temperature (K)
+Vapor Pressure (torr)
+280.0
+  32.42
+300.0
+  92.47
+320.0
+225.1
+330.0
+334.4
+340.0
+482.9
+ 
+ (a) By plotting these data in a suitable fashion, determine 
+whether the Clausius–Clapeyron equation (Equation 11.1) 
+is obeyed. If it is obeyed, use your plot to determine ∆Hvap 
+for C6F6. (b) Use these data to determine the boiling point 
+of the compound.
+ 11.85  Suppose the vapor pressure of a substance is measured at two 
+different temperatures. (a) By using the Clausius–Clapeyron 
+equation (Equation 11.1) derive the following relationship 
+between the vapor pressures, P
+1 and P
+2, and the absolute tem-
+peratures at which they were measured, T
+1 and T
+2:
+ln P
+1
+P
+2
+= -
+∆Hvap
+R
+ a 1
+T
+1
+- 1
+T
+2
+b
+ 
+ (b) Gasoline is a mixture of hydrocarbons, a component 
+of which is octane 1CH3CH2CH2CH2CH2CH2CH2CH32. 
+C
+H3C
+H
+C
+C
+CH3
+CH3 H
+CH3
+H
+CH3
+2,2,4-Trimethylpentane or isooctane
+T
+P
+Integrative exercises
+ 11.90  In Table 11.3, we saw that the viscosity of a series of hydr

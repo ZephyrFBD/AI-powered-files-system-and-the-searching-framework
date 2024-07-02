@@ -1,0 +1,21 @@
+89.2 J  >  K 19.25 (a) False 
+ 
+(b) true (c) false 19.27 (a) Positive ∆S (b) ∆S = 1.02 J  >  K (c) Tem-
+perature need not be speciﬁed to calculate ∆S, as long as the expan-
+sion is isothermal. 19.29 (a) Yes, the expansion is spontaneous.  
+(b) As the ideal gas expands into the vacuum, there is nothing for it 
+to “push back,” so no work is done. Mathematically, w = -P
+ext∆V. 
+Since the gas expands into a vacuum, P
+ext = 0 and w = 0. (c) The 
+a C ¬Cl bond is 365 nm. (b) We don’t expect the photodissociation 
+of C ¬F bonds to be signiﬁcant in the lower atmosphere. (The photo-
+dissociation of C ¬ Cl bonds will be signiﬁcant.) 
+18.29 2 NO21g2 + H2O1l2 ∆ HNO2 + HNO31aq2; 
+2 NO1g2 + O2 + H2O1l2 ∆HNO21aq2 + HNO3
+18.31 (a) H2SO4(aq) + CaCO3(s) ¡ CaSO4(s) + H2O(l) + CO2(g) 
+(b) The CaSO4(s) would be much less reactive with acidic solution, since 
+it would require a strongly acidic solution to shift the relevant equilib-
+rium to the right: CaSO41s2 + 2H+1aq2 ∆Ca2+1aq2 + 2HSO4
+-1aq2. 
+CaSO4 would 

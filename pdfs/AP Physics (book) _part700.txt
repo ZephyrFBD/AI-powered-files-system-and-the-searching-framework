@@ -1,0 +1,14 @@
+the system can be redefined so as to include the other
+objects exerting these forces, then the conservation of momentum principle can
+apply. For example, if we take as our system a falling rock, it does not conserve
+momentum because an external force, the force of gravity exerted by the Earth,
+accelerates the rock and changes its momentum. However, if we include the Earth in
+the system, the total momentum of rock plus Earth is conserved. (This means that
+the Earth comes up to meet the rock. But the Earth’s mass is so great, its upward
+velocity is very tiny.)
+Although the law of conservation of momentum follows from Newton’s
+second law, as we have seen, it is in fact more general than Newton’s laws. In the
+tiny world of the atom, Newton’s laws fail, but the great conservation laws—
+those of energy, momentum, angular momentum, and electric charge—have been
+found to hold in every experimental situation tested. It is for this reason that 
+the conservation laws are considered more basic tha

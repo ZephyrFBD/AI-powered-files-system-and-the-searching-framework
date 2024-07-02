@@ -1,0 +1,43 @@
+ r are the lines x = a, where a is a zero of the denominator. 
+2. (a) If n < m, then r has horizontal asymptote y = 0. 
+      (b) If n = m, then r has horizontal asymptote y = an / bm . 
+      (c) If n > m, then r has no horizontal asymptote. 
+ 
+Example 2 
+Find the vertical and horizontal asymptotes of 
+2
+2
+3
+2
+1
+( )
+2
+3
+2
+x
+x
+r x
+x
+x
+-
+-
+=
++
+-
+ 
+ 
+ 
+ 
+ 
+ 
+1.8.3 Graphing Rational Functions 
+1. Factor. Factor the numerator and denominator. 
+2. Intercepts. Find the x-intercepts by determining the zeros of the numerator and the y-
+intercept from the value of the function at x = 0. 
+3. Vertical Asymptotes. Find the vertical asymptotes by determining the zeros of the 
+denominator, and then see whether y →∞ or y →−∞ on each side of each vertical 
+asymptote by using test values. 
+4. Horizontal Asymptote. Find the horizontal asymptote (if any), using the procedure 
+described in the box on page 300. 
+5. sketch the Graph. Graph the information provided by the first four steps. Then plot as 
+many

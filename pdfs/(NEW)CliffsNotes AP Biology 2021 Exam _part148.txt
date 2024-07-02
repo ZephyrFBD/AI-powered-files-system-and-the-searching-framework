@@ -1,0 +1,19 @@
+h oxaloacetate (OAA) to
+form citrate, releasing the coenzyme A component. A series of reactions then occurs that
+generates 3 molecules of the coenzyme NADH (from NAD+), 1 molecule of the coenzyme FADH2 (from FAD),
+and 1 ATP (from ADP
+ 
++ Pi) for each molecule of acetyl CoA that enters the Krebs cycle. The last product in the series of reactions, OAA,
+is the substance that reacts with acetyl CoA; thus, the Krebs reactions sustain a cycle.
+ 
+Energy from the coenzymes NADH and FADH2 is extracted to make
+ATP in oxidative phosphorylation. For each of these coenzymes, 2 electrons pass through an electron transport
+chain, passing through a series of protein carriers (some are cytochromes, such as cytochrome c). During this
+passage, 3 ATP are generated for each NADH originating in
+the Krebs cycle. FADH2 generates 2 ATP. At the end of the electron
+ 
+transport chain, O2 accepts the electrons (and 2 H+) to form water.
+ 
+NAD+ and FAD can be used again to receive electrons in the Krebs
+ 
+cycle. The

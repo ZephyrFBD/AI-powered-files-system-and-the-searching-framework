@@ -1,0 +1,16 @@
+cas when different planes (distances) are involved.
+Mirror
+These rays strike the
+mirror, and they are
+essentially parallel.
+FIGURE 23–12 If the object’s distance is large compared to the size of the mirror 
+(or lens), the rays arrive nearly parallel. They are parallel for an object at infinity (q).
+Focal Point and Focal Length
+To see how spherical mirrors form images, we first consider an object that is very
+far from a concave mirror. For a distant object, as shown in Fig. 23–12, the rays
+from each point on the object that strike the mirror will be nearly parallel. For an object
+infinitely far away (the Sun and stars approach this), the rays would be precisely parallel.
+Now consider such parallel rays falling on a concave mirror as in Fig. 23–13.
+The law of reflection holds for each of these rays at the point each strikes the
+mirror. As can be seen, they are not all brought to a single point. In order to form
+a sharp image, the rays must come to a point. Thus a spherical mirror will no

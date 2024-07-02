@@ -1,0 +1,132 @@
+slug
+(u) = 1.6605 * 10–27 kg
+1 year = 365.242 days = 3.156 * 107 s
+1 day = 8.640 * 104 s
+SI Derived Units and Their Abbreviations
+In Terms of
+Quantity
+Unit
+Abbreviation
+Base Units†
+Force
+newton
+N
+Energy and work
+joule
+J
+Power
+watt
+W
+Pressure
+pascal
+Pa
+Frequency
+hertz
+Hz
+Electric charge
+coulomb
+C
+Electric potential
+volt
+V
+Electric resistance
+ohm
+Capacitance
+farad
+F
+Magnetic field
+tesla
+T
+Magnetic flux
+weber
+Wb
+Inductance
+henry
+H
+†
+A = ampere (electric current).
+s = second (time),
+m = meter (length),
+kg = kilogram (mass),
+kgm2AA
+2s2B
+kgm2AAs2B
+kgAAs2B
+A
+2s4Akgm2B
+kgm2AA
+2s3B
+
+kgm2AAs3B
+As
+s–1
+kgAms2B
+kgm2s3
+kgm2s2
+kgms2
+Metric (SI) Multipliers
+Prefix
+Abbreviation
+Value
+yotta
+Y
+zeta
+Z
+exa
+E
+peta
+P
+tera
+T
+giga
+G
+mega
+M
+kilo
+k
+hecto
+h
+deka
+da
+deci
+d
+centi
+c
+milli
+m
+micro
+nano
+n
+pico
+p
+femto
+f
+atto
+a
+zepto
+z
+yocto
+y
+10–24
+10–21
+10–18
+10–15
+10–12
+10–9
+10–6
+m
+10–3
+10–2
+10–1
+101
+102
+103
+106
+109
+1012
+1015
+1018
+1021
+1024
+Exponents [See Appendix A–2 for details]
+[Example

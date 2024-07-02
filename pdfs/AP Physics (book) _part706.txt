@@ -1,0 +1,33 @@
+(b) After shooting
+  B
+   B
+   R
+(a) Before shooting (at rest)
+x
+   R
+p
+B
+p
+B
+v
+B
+v
+B
+FIGURE 7;7 Example 7–5.
+Rifle recoil. Calculate the recoil velocity of a 5.0-kg rifle that
+shoots a 0.020-kg bullet at a speed of 
+Fig. 7–7.
+APPROACH Our system is the rifle and the bullet, both at rest initially, just
+before the trigger is pulled. The trigger is pulled, an explosion occurs inside the
+bullet’s shell, and we look at the rifle and bullet just as the bullet leaves the barrel
+(Fig. 7–7b). The bullet moves to the right 
+and the gun recoils to the left.
+During the very short time interval of the explosion, we can assume the external
+forces are small compared to the forces exerted by the exploding gunpowder.
+Thus we can apply conservation of momentum, at least approximately.
+SOLUTION Let subscript B represent the bullet and R the rifle; the final veloc-
+ities are indicated by primes. Then momentum conservation in the x direction
+gives
+We solve for the unknown 
+and find
+Since the rifle has a 

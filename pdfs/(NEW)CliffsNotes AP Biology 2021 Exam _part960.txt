@@ -1,0 +1,13 @@
+al of the eastern United States.
+55. A. Reproductive isolation is the initial requirement for the evolution of two species from one species. Mutations,
+genetic drift, and gene flow can cause changes that result in a population evolving into a new species, but two
+species will only be created from one species if the population is divided into two groups that are reproductively
+isolated.
+56. B. Since the trait is X-linked, the cross is XRXr × XrY. Note that there is no allele on the Y chromosome because
+an X-linked gene occurs only on the X chromosome. The Punnett square below shows that the ratio for the different
+traits among the offspring is 1:1:1:1, or 1 each of red
+eyed female (XRXr), white-eyed female(XrXr), red-eyed male (XRY), and white-eyed male (XrY).
+ 
+57. C. Since the expected ratio for the genotypes is 1:1:1:1, or 25% each, the expected number of each type of fly is
+0.25 × 100, or 25. Using the formula provided on the equations and formulas pages for determining
+χ2 gives the

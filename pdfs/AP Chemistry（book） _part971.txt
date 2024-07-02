@@ -1,0 +1,13 @@
+ave the same spin magnetic quantum 
+number. Electrons arranged in this way are said to have parallel spins. For a carbon atom 
+to achieve its lowest energy, therefore, the two 2p electrons must have the same spin. For 
+this to happen, the electrons must be in different 2p orbitals, as shown in Table 6.3. Thus, 
+a carbon atom in its ground state has two unpaired electrons.
+Nitrogen, Oxygen, Fluorine Similarly, for nitrogen in its ground state, Hund’s rule 
+requires that the three 2p electrons singly occupy each of the three 2p orbitals. This is 
+the only way that all three electrons can have the same spin. For oxygen and fluorine, we 
+place four and five electrons, respectively, in the 2p orbitals. To achieve this, we pair up 
+electrons in the 2p orbitals, as we will see in Sample Exercise 6.7.
+Hund’s rule is based in part on the fact that electrons repel one another. By occu-
+pying different orbitals, the electrons remain as far as possible from one another, thus 
+minimizing electron–e

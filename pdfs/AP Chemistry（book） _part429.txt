@@ -1,0 +1,19 @@
+ctly 12 g of 12C. Thus, 12 g of 12C contains 1 mol of 
+C atoms = 6.02 * 1023 C atoms. 
+One mol of C2H2 contains 6.02 * 1023 C2H2 molecules. Because 
+there are two C atoms in each molecule, this sample contains 
+12.04 * 1023 C atoms. 
+Because each CO2 molecule contains one C atom, the CO2 sample 
+contains 9 * 1023 C atoms. 
+Hence, the order is 12 g 12C 16 * 1023 C atoms2 6 9 * 1023 CO2 
+molecules 19 * 1023 C atoms2 6 1 mol C2H2 112 * 1023 C atoms2.
+Check We can check our results by comparing numbers of moles 
+of C atoms in the samples because the number of moles is propor-
+tional to the number of atoms. Thus, 12 g of 12C is 1 mol C, 1 mol 
+of C2H2 contains 2 mol C, and 9 * 1023 molecules of CO2 contain 
+1.5 mol C, giving the same order as stated previously.
+*Avogadro’s number is also referred to as the Avogadro constant. The latter term is the name 
+ 
+adopted by agencies such as the National Institute of Standards and Technology (NIST), but 
+ 
+Avogadro’s number remains in widespread usa

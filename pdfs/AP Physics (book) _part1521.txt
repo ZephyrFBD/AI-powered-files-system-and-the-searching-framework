@@ -1,0 +1,44 @@
+thermal equilibrium
+is reached, meaning the entire system is at the same temperature. For an isolated
+system, no energy is transferred into or out of it. So we can apply conservation of energy
+to such an isolated system. A simple intuitive way to set up a conservation of energy
+equation is to write that the heat lost by one part of the system is equal to the heat
+gained by the other part:
+[isolated system]
+or
+[isolated system]
+ 
+energy out of one part = energy into another part.
+ 
+heat lost = heat gained
+TABLE 14;2
+Specific Heats of Gases 
+(kcal/kg C°)
+(constant (constant 
+Gas 
+pressure) volume)
+Steam (100°C) 
+0.482 
+0.350
+Oxygen 
+0.218 
+0.155
+Helium 
+1.15 
+0.75
+Carbon dioxide 0.199 
+0.153
+Nitrogen 
+0.248 
+0.177
+cV
+cP
+
+SECTION 14–4
+Calorimetry—Solving Problems
+395
+The cup cools the tea. If 
+of tea at 95°C is poured
+into a 150-g glass cup initially at 25°C (Fig. 14–3), what will be the common final
+temperature T of the tea and cup when equilibrium is reached, assuming no heat
+flows to 

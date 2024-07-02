@@ -1,0 +1,22 @@
+sferred2
+1grams of substance2 * 1temperature change2
+ 
+ Cs =
+q
+m * ∆T 
+[5.20]
+For example, 209 J is required to increase the temperature of 50.0 g of water by 1.00 K. 
+Thus, the specific heat of water is
+Cs =
+209 J
+150.0 g211.00 K2 = 4.18 J>g@K
+Notice how the units combine in the calculation. A temperature change in kelvins is 
+equal in magnitude to the temperature change in degrees Celsius: ∆T in K = ∆T in °C.  
+(Section 1.5) Therefore, this specific heat for water can also be reported as 4.18 J>g@°C, 
+where the unit is pronounced “Joules per gram-degree Celsius.”
+Because the specific heat values for a given substance can vary slightly with tem-
+perature, the temperature is often precisely specified. The 4.18 J/g-K value we use here for 
+water, for instance, is for water initially at 14.5 °C (Figure 5.17). Water’s specific heat at this 
+temperature is used to define the calorie at the value given in Section 5.1: 1 cal = 4.184 J 
+exactly.
+When a sample absorbs heat (positive q), its te

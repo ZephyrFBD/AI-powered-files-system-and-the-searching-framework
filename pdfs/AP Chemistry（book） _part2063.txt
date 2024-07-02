@@ -1,0 +1,21 @@
+nit of choice when a solution is to be used 
+over a range of temperatures.
+Give It Some Thought
+If an aqueous solution is very dilute, will its molality be greater than its molarity, 
+nearly the same as its molarity, or smaller than its molarity?
+A solution is made by dissolving 4.35 g of glucose 1C6H12O62 in 25.0 mL of water at 25 °C. Calculate the molality of glucose in 
+the solution. Water has a density of 1.00 g>mL.
+Solve 
+Use the molar mass of glucose, 180.2 g>mol, 
+to convert grams to moles:
+Analyze We are asked to calculate a solution concentration in 
+units of molality. To do this, we must determine the number of 
+moles of solute (glucose) and the number of kilograms of solvent 
+(water).
+Plan We use the molar mass of C6H12O6 to convert grams of glucose 
+to moles. We use the density of water to convert milliliters of water 
+to kilograms. The molality equals the number of moles of solute 
+(glucose) divided by the number of kilograms of solvent (water).
+ 
+▶Practice Exercise 1
+Supp

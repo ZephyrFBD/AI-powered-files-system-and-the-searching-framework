@@ -1,0 +1,22 @@
+photon must have energy
+A photon with less energy cannot undergo
+pair production.
+(b) Since
+the wavelength of a 1.02-MeV photon is
+which is 0.0012 nm. Such photons are in the gamma-ray (or very short X-ray)
+region of the electromagnetic spectrum (Fig. 22–8).
+NOTE Photons of higher energy (shorter wavelength) can also create an electron–
+positron pair, with the excess energy becoming kinetic energy of the particles.
+Pair production cannot occur in empty space, for momentum could not be con-
+served. In Example 27–9, for instance, energy is conserved, but only enough energy
+was provided to create the electron–positron pair at rest and thus with zero momen-
+tum, which could not equal the initial momentum of the photon. Indeed, it can be
+shown that at any energy, an additional massive object, such as an atomic nucleus
+(Fig. 27–10), must take part in the interaction to carry off some of the momentum.
+l = hc
+E
+=
+A6.63 * 10–34 JsBA3.00 * 108 msB
+A1.64 * 10–13 JB
+= 1.2 * 10–12 m,
+E = hf = hc

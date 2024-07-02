@@ -1,0 +1,15 @@
+f wave motion, including electromagnetic waves and light.
+1
+1–1 Simple Harmonic Motion—
+Spring Oscillations
+When an object vibrates or oscillates back and forth, over the same path, each
+oscillation taking the same amount of time, the motion is periodic. The simplest
+form of periodic motion is represented by an object oscillating on the end of a
+uniform coil spring. Because many other types of oscillatory motion closely
+resemble this system, we will look at it in detail. We assume that the mass of the
+spring can be ignored, and that the spring is mounted horizontally, as shown in
+Fig. 11–1a, so that the object of mass m slides without friction on the horizontal
+surface. Any spring has a natural length at which it exerts no force on the mass m.
+The position of the mass at this point is called the equilibrium position. If the mass
+is moved either to the left, which compresses the spring, or to the right, which
+stretches it, the spring exerts a force on the mass that acts in the direction

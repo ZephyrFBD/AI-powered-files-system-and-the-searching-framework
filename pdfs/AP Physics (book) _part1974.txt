@@ -1,0 +1,26 @@
+ A.
+That is,
+(18;3)
+where (Greek letter “rho”), the constant of proportionality, is called the resistivity
+and depends on the material used. Typical values of 
+whose units are 
+(see
+Eq. 18–3), are given for various materials in the middle column of Table 18–1
+which is divided into the categories conductors, insulators, and semiconductors
+(Section 16–3). The values depend somewhat on purity, heat treatment, temper-
+ature, and other factors. Notice that silver has the lowest resistivity and is thus
+the best conductor (although it is expensive). Copper is close, and much less
+expensive, which is why most wires are made of copper. Aluminum, although it
+has a higher resistivity, is much less dense than copper; it is thus preferable to
+copper in some situations, such as for transmission lines, because its resistance
+for the same weight is less than that for copper.†
+m
+r,
+r
+R = r l
+A
+,
+l
+†The reciprocal of the resistivity, called the electrical conductivity, is
+and has units of AmB–1.
+s =

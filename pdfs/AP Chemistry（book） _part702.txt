@@ -1,0 +1,20 @@
+ the system?
+SOLUTION
+Analyze The question asks us to determine ∆E, given information 
+about q and w.
+Plan We first determine the signs of q and w (Table 5.1) and then 
+use Equation 5.4, ∆E = q + w, to calculate ∆E.
+Continued
+170 
+CHAPTER 5 Thermochemistry
+state Functions
+Although we usually have no way of knowing the precise value of the internal energy of 
+a system, E, it does have a fixed value for a given set of conditions. The conditions that in-
+fluence internal energy include the temperature and pressure. Furthermore, the internal 
+energy of a system is proportional to the total quantity of matter in the system because 
+energy is an extensive property. 
+(Section 1.3)
+Suppose we define our system as 50 g of water at 25 °C (Figure 5.9). The system could 
+have reached this state by cooling 50 g of water from 100 to 25 °C or by melting 50 g of 
+ice and subsequently warming the water to 25 °C. The internal energy of the water at 
+25 °C is the same in either case. Internal energy is a

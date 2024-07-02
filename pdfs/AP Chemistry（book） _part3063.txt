@@ -1,0 +1,32 @@
+ reference point has no effect on the quantity in which we are interested, which is the 
+difference in free energy between reactants and products.
+A listing of standard free energies of formation is given in Appendix C.
+TABLE 19.2 Conventions Used 
+in Establishing Standard Free 
+Energies
+State of 
+Matter
+Standard State
+Solid
+Pure solid
+Liquid
+Pure liquid
+Gas
+1 atm pressure
+Solution
+1 M concentration
+Element
+∆Gf° = 0 for element 
+in standard state
+Give It Some Thought
+What does the superscript ° indicate when associated with a thermodynamic 
+quantity, as in ∆H °, ∆S°, or ∆G°?
+Standard free energies of formation are useful in calculating the standard free- 
+energy change for chemical processes. The procedure is analogous to the calculation of 
+∆H° (Equation 5.31) and ∆S° (Equation 19.8):
+ 
+∆G° = a n∆Gf°1products2 - a m∆Gf°1reactants2 
+[19.14]
+(a) Use data from Appendix C to calculate the standard free-energy change for the reaction P
+41g2 + 6 Cl21g2 ¡ 4 PCl31g2 at 
+298 K. (b) What is ∆G°

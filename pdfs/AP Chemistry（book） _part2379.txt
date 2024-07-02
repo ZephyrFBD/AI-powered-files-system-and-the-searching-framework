@@ -1,0 +1,49 @@
+uation.
+Solve
+(a) Kc =
+3O243
+3O342  (b) Kc =
+3NOCl42
+3NO423Cl24
+  (c) Kc =
+3Ag1NH322
++4
+3Ag+43NH342
+ 
+▶Practice Exercise 1
+For the reaction 2 SO21g2 + O21g2 ∆ 2 SO31g2, which of 
+the following is the correct equilibrium-constant expression?
+(a) Kc =
+3SO2423O24
+3SO342
+ 
+ 
+(b) Kc =
+23SO243O24
+23SO34
+(c) Kc =
+3SO342
+3SO2423O24
+ 
+ 
+(d) Kc =
+23SO34
+23SO243O24
+ 
+▶Practice Exercise 2
+Write the equilibrium-constant expression Kc for
+(a) H21g2 + I21g2 ∆ 2 HI1g2,
+(b) Cd2+1aq2 + 4 Br-1aq2 ∆ CdBr4
+2-1aq2.
+Evaluating Kc
+We can illustrate how the law of mass action was discovered empirically and demonstrate 
+that the equilibrium constant is independent of starting concentrations by examining a 
+series of experiments involving dinitrogen tetroxide and nitrogen dioxide:
+ 
+N2O41g2 ∆ 2 NO21g2  Kc =
+3NO242
+3N2O44 
+[15.10]
+We start with several sealed tubes containing different concentrations of NO2 and N2O4. 
+The tubes are kept at 100 °C until equilibrium is reached. We then analyze the mixtures 
+and det

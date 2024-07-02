@@ -1,0 +1,38 @@
+nge of f is the set of all 
+possible values of f (x) as x varies throughout the domain, that is, 
+( )
+{
+}
+range of 
+|
+f
+f x
+x
+A
+=
+Î
+ 
+The symbol that represents an arbitrary number in the domain of a function f is called an 
+independent variable. 
+ 
+15 
+The symbol that represents a number in the range of f is called a dependent variable. 
+So if we write y = f (x), then x is the independent variable and y is the dependent variable. 
+It is helpful to think of a function as a machine. 
+ 
+If x is in the domain of the function f, then when x enters the machine, it is accepted as an 
+input and the machine produces an output f (x) according to the rule of the function. 
+Another way to picture a function f is by an arrow diagram. 
+ 
+Each arrow associates an input from A to the corresponding output in B.  
+ 
+Example 1 
+A function f  is defined by the formula f(x) = x2 +4. 
+(a) Express in words how f acts on the input x to produce the output  f (x). 
+(b) Evaluate f (3), f 
+(
+)
+5 .
+f
+(−2), and 
+ 

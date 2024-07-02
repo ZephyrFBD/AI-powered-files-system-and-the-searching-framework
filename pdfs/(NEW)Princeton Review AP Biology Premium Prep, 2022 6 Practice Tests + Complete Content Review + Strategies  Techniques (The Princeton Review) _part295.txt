@@ -1,0 +1,12 @@
+ no
+bearing on how the other trait gets split up. In other words, the two alleles for each trait are sorted independently of
+the two alleles for other traits. For example, let’s look at two traits in pea plants: height and color. When it comes to
+height, a pea plant can be either tall (T) or short (t). As for color, the plant can be either green (G) or yellow (g), with
+green being dominant. Each gene comes in two alleles, so this gives us four alleles total. By the Law of Independent
+Assortment, these four alleles can combine to give us four different gametes.
+TG Tg tG tg
+In other words, each allele of the height gene can be paired with either allele of the color gene. The reason alleles
+segregate independently is because chromosomes segregate independently. During meiosis I, each pair of
+homologous chromosomes is split, and which one aligns left or right during metaphase I is different for each pair.
+Dihybrid Cross
+Now that we know that different genes assort independently into gamete

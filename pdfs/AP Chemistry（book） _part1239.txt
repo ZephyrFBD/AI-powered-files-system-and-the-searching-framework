@@ -1,0 +1,34 @@
+∆H3 
+ 
+= ∆Hlattice
+Step 2 involves the formation of sodium ion from solid sodium, 
+which is just the heat of formation for sodium gas and the first ion-
+ization energy for sodium (Appendix C and Figure 7.10 list numbers 
+for these processes):
+Na1s2 ¡ Na1g2 
+∆H = ∆Hf°3Na1g24 = 108 kJ 
+[8.6]
+Na1g2 ¡ Na+1g2+ e -  
+∆H = I11Na2 = 496 kJ 
+[8.7]
+The sum of these two processes gives us the required energy for 
+Step 2 (above), which is 604 kJ.
+Similarly, for Step 3, we have to create chlorine atoms, and then 
+anions, from the Cl2 molecule, in two steps. The enthalpy changes 
+for these two steps are the sum of the enthalpy of formation of Cl(g) 
+and the electron affinity of chlorine, EA(Cl):
+1
+2 Cl21g2 ¡ Cl1g2 
+∆H = ∆Hf°3Cl1g24 = 122 kJ 
+[8.8]
+e- + Cl1g2 ¡ Cl-1g2 
+∆H = EA1Cl2 = -349 kJ 
+[8.9]
+The sum of these two processes gives us the required energy for Step 3 
+(above), which is -227 kJ.
+Finally, when we put it all together, we have:
+1. NaCl1s2 ¡ Na1s2 + 1
+2 Cl21g2  
+∆H1 = - ∆Hf°3NaCl1s24 
+ 
+=

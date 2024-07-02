@@ -1,0 +1,22 @@
+the 
+relationship between the free-energy change under standard conditions, ∆G°, and the 
+free-energy change under any other conditions, ∆G, is given by
+ 
+∆G = ∆G° + RT ln Q 
+[19.19]
+In this equation R is the ideal-gas constant, 8.314 J>mol@K; T is the absolute temperature; 
+and Q is the reaction quotient for the reaction mixture of interest. 
+ (Section 15.6) 
+Recall that the reaction quotient Q is calculated like an equilibrium constant, except that 
+you use the concentrations at any point of interest in the reaction; if Q = K, then the 
+reaction is at equilibrium. Under standard conditions, the concentrations of all the reac-
+tants and products are equal to 1 M. Thus, under standard conditions Q = 1, ln Q = 0, 
+and Equation 19.19 reduces to ∆G = ∆G° under standard conditions, as it should.
+ 
+▶Practice Exercise 1
+What is the temperature above which the Haber ammonia 
+process becomes nonspontaneous?
+(a) 25 °C (b) 47 °C (c) 61 °C (d) 193 °C (e) 500 °C
+ 
+▶Practice Exercise 2
+(a) Using st

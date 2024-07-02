@@ -1,0 +1,17 @@
+olving.
+Evolution is the change in allele frequencies in a population over time. If a population can be described by Hardy-
+Weinberg equilibrium, then the five processes that cause evolution must not be occurring:
+1. no mutation
+2. no selection
+3. no gene flow (no migration)
+4. large populations (no genetic drift)
+5. random mating
+Part I: A Mathematical Model for Evolution
+Depending upon whether you use the AP provided investigation or another similar activity, the steps you follow will
+generally look like this:
+Step 1: Choose frequencies for p and q. You begin the activity by choosing values for the frequencies, p and q, of
+two alleles, A and B. Since there are only two alleles for this gene, the values must sum to 1:
+P + q = 1
+Step 2: Mix gametes. An individual can contribute one of these two alleles to a gamete (egg or sperm), either the A
+allele or the B allele. A zygote, or fertilized egg, will have one of these alleles from each parent, and will become
+AA, AB, BA, or BB. To docum

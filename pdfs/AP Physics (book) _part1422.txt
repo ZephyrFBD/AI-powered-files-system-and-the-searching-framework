@@ -1,0 +1,44 @@
+ n, since we are given P and T,
+and can find V from the given radius.
+SOLUTION We get the volume V from the formula for a sphere:
+The pressure is given as
+The temperature must
+be expressed in kelvins, so we change 20°C to
+Finally,
+we use the value
+because we are using SI units. Thus
+The mass of helium (
+as given in the Periodic Table
+or Appendix B) can be obtained from
+or 4.26 * 10–3 kg.
+= 4.26 g
+mass = n * molecular mass = (1.066 mol)(4.00 gmol)
+atomic mass = 4.00 gmol
+n = PV
+RT
+=
+A1.064 * 105 Nm2BA0.0244 m3B
+(8.314 JmolK)(293 K)
+= 1.066 mol.
+R = 8.314 J(molK)
+(20 + 273)K = 293 K.
+1.05 atm = 1.064 * 105 Nm2.
+=
+4
+3 p (0.180 m)3 = 0.0244 m3.
+V =
+4
+3 pr3
+EXAMPLE 13;10
+SECTION 13–7
+Problem Solving with the Ideal Gas Law
+371
+P H Y S I C S  A P P L I E D
+The mass of the air 
+in a room is significant
+P R O B L E M  S O L V I N G
+Using the ideal gas law as a ratio
+Mass of air in a room. Estimate the mass
+of air in a room whose dimensions are
+high, at STP.
+APPROACH First we determine t

@@ -1,0 +1,14 @@
+istribution as a bar 
+graph — or in this case, a histogram. There are several challenges and decisions you’ll 
+have to make where your quantitative skills will be tested. For instance, what should 
+you do about plants with 0 plant hairs? Do you include a separate bin for this one plant? 
+How do you know what the “correct” bin size is? It is usually best to try several bin 
+sizes, but you’ll have to make the decision which bin size best captures the nature of the 
+variation you are working with — messy. 
+■Creating Diagrams, Charts, and Maps
+Biology is the study of systems at several levels of organization, from molecules and
+cells to populations and ecosystems. When exploring a topic, such as energy dynamics
+in Investigation 10, creating a chart or map can help you to logically define the system
+components and the flows between those components, while simplifying a very
+complicated process. Creating such a chart is an exercise in logic and graphic design.
+Such a graphic representation o

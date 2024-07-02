@@ -1,0 +1,64 @@
+tery is continually pulling electrons off the p end, forming new holes,
+and electrons are being supplied by the negative terminal at the n end.
+When the diode is reverse biased, as in Fig. 29–29b, the holes in the p end are
+attracted to the battery’s negative terminal and the electrons in the n end are
+attracted to the positive terminal. Almost no current carriers meet near the
+junction and, ideally, no current flows.
+*
+(1 in 106)
+3
+2 kT (L  0.04 eV at 300 K).
+*SECTION 29–9
+Semiconductor Diodes, LEDs, OLEDs
+845
+FIGURE 29–28 Impurity energy
+levels in doped semiconductors.
+FIGURE 29–29 Schematic diagram
+showing how a semiconductor diode
+operates. Current flows when the
+voltage is connected in forward bias,
+as in (a), but not when connected in
+reverse bias, as in (b).
+Conduction band
+Valence band
+n-type
+Conduction band
+Valence band
+p-type
+Acceptor
+level
+Donor
+level
+(a)
+(b)
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ 
+(Conventional)
+current
+ﬂow
+p
+n
+Voltage
+source
+
+
+
+
+  
+No current
+ﬂow
+p
+n
+V

@@ -1,0 +1,35 @@
+momentum
+gained by the rocket itself (see Fig. 7–6). Thus, a rocket can accelerate in empty
+space. There is no need for the expelled gases to push against the Earth or the 
+air (as is sometimes erroneously thought). Similar examples of (nearly) isolated
+systems where momentum is conserved are the recoil of a gun when a bullet is fired
+(Example 7–5), and the movement of a rowboat just after a package is thrown from it.
+P H Y S I C S  A P P L I E D
+Rocket propulsion
+  rocket
+gas
+(a)
+(b)
+   = 0
+p
+B
+p
+B
+p
+B
+FIGURE 7;6 (a) A rocket,
+containing fuel, at rest in some 
+reference frame. (b) In the same 
+reference frame, the rocket fires and
+gases are expelled at high speed out
+the rear. The total vector momentum,
+remains zero.
+p
+B
+gas + p
+B
+rocket ,
+Falling on or off a sled. (a) An empty sled
+is sliding on frictionless ice when Susan drops vertically from a tree down onto
+the sled. When she lands, does the sled speed up, slow down, or keep the same
+speed? (b) Later: Susan falls sideways off the

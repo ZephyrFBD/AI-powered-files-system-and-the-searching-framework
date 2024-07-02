@@ -1,0 +1,48 @@
+ram. The energy levels are 
+indexed by a single quantum 
+number n that is an integer. 
+(a) As drawn, which quantum 
+numbers are involved in the 
+transition that requires the 
+most energy? (b) Which quan-
+tum numbers are involved in 
+the transition that requires the 
+least energy? (c) Based on the 
+drawing, put the following in 
+n 5 4
+n 5 3
+n 5 2
+n 5 1
+Energy
+ 
+  Exercises 
+249
+order of increasing wavelength of the light absorbed during 
+the transition: (i) n = 1 to n = 2; (ii) n = 2 to n = 3; (iii) 
+n = 2 to n = 4; (iv) n = 1 to n = 3. [Section 6.3]
+ 
+6.7  Consider the three electronic transitions in a hydrogen atom 
+shown here, labeled A, B, and C.
+ 
+ (a)  
+Three electromagnetic waves, all drawn on the same 
+scale, are also shown. Each corresponds to one of the 
+transitions. Which electromagnetic wave (i), (ii), or (iii), 
+is associated with electronic transition C?
+0
+2218
+n 5 `
+n 5 3
+n 5 4
+n 5 2
+n 5 1
+Energy 3 1020 (J/atom)
+A
+B
+C
+(i)
+(iii)
+(ii)
+ 
+ (b)  
+Calculate the energy of the ph

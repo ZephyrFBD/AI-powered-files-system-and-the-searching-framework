@@ -1,0 +1,14 @@
+t a high potential compared to 
+point d at the negative side of the battery. That is, point e is like the top of a hill
+for a roller coaster. We follow the current around the circuit starting at any point.
+We choose to start at point d and follow a small positive test charge completely
+around this circuit. As we go, we note all changes in potential. When the test
+charge returns to point d, the potential will be the same as when we started (total
+change in potential around the circuit is zero). We plot the changes in potential
+around the circuit in Fig. 19–12b; point d is arbitrarily taken as zero.
+As our positive test charge goes from point d, which is the negative or low
+potential side of the battery, to point e, which is the positive terminal (high poten-
+tial side) of the battery, the potential increases by 12.0 V. (This is like the roller
+coaster being pulled up the first hill.) That is,
+When our test charge moves from point e to point a, there is no change in potential
+because the

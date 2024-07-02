@@ -1,0 +1,48 @@
+
+electron each. The fourth electron is then paired up with 
+one of the three electrons already in a 2p orbital, so that the 
+orbital diagram is
+1s
+2s
+2p
+The corresponding electron configuration is written 1s22s22p4. 
+The atom has two unpaired electrons.
+ 
+▶Practice Exercise 1
+How many of the elements in the second row of the periodic 
+table (Li through Ne) will have at least one unpaired elec-
+tron in their electron configurations?  
+(a) 3 (b) 4 (c) 5 (d) 6 (e) 7
+ 
+▶Practice Exercise 2
+(a) Write the electron configuration for silicon, element 14, 
+in its ground state. (b) How many unpaired electrons does a 
+ground-state silicon atom possess?
+240 
+CHAPTER 6 Electronic Structure of Atoms
+1A
+3
+Li
+[He]2s1
+11
+Na
+[Ne]3s1
+19
+K
+[Ar]4s1
+37
+Rb
+[Kr]5s1
+55
+Cs
+[Xe]6s1
+87
+Fr
+[Rn]7s1
+Alkali
+metals
+▲ Figure 6.29 The condensed electron 
+configurations of the alkali metals (group 1A 
+in the periodic table).
+Condensed Electron Configurations
+The filling of the 2p subshell is complete at neon (Table 6.3),

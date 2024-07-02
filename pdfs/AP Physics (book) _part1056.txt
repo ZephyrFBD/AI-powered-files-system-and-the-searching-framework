@@ -1,0 +1,31 @@
+
+FIGURE 10–17 Example 10–10.
+Helium balloon. What volume V of helium is needed if a
+balloon is to lift a load of 180 kg (including the weight of the empty balloon)?
+APPROACH The buoyant force on the helium balloon,
+which is equal to the
+weight of displaced air, must be at least equal to the weight of the helium plus
+the weight of the balloon and load (Fig. 10–17). Table 10–1 gives the density 
+of helium as 
+SOLUTION The buoyant force must have a minimum value of
+This equation can be written in terms of density using Archimedes’ principle:
+Solving now for V, we find
+NOTE This is the minimum volume needed near the Earth’s surface, where
+To reach a high altitude, a greater volume would be needed
+since the density of air decreases with altitude.
+rair = 1.29 kgm3.
+V =
+180 kg
+rair - rHe =
+180 kg
+A1.29 kgm3 - 0.179 kgm3B
+= 160 m3.
+rair Vg = ArHeV + 180 kgBg.
+F
+B = AmHe + 180 kgBg.
+0.179 kgm3.
+F
+B,
+EXAMPLE 10;10
+Throwing a rock overboard. A rowboat
+carrying a large granite rock floats in a

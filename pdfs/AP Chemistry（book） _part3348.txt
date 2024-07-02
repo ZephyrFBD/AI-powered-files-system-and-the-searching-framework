@@ -1,0 +1,31 @@
+rocess as alpha decay or alpha emission.
+What product is formed when radium-226 undergoes alpha emission?
+Sample Exercise 21.1 
+Predicting the Product of a Nuclear Reaction
+SOLUTION
+Analyze We are asked to determine the nucleus that results when 
+radium-226 loses an alpha particle.
+Plan We can best do this by writing a balanced nuclear reaction for 
+the process.
+Solve The periodic table shows that radium has an atomic number 
+of 88. The complete chemical symbol for radium-226 is therefore 
+226
+88Ra. An alpha particle is a helium-4 nucleus, and so its symbol is 
+4
+2He. The alpha particle is a product of the nuclear reaction, and so 
+the equation is of the form
+226
+88Ra ¡ A
+ZX + 4
+2He
+where A is the mass number of the product nucleus and Z is its 
+atomic number. Mass numbers and atomic numbers must bal-
+ance, so
+226 = A + 4
+and
+88 = Z + 2
+Hence,
+A = 222 and Z = 86
+Again, from the periodic table, the element with Z = 86 is radon 
+(Rn). The product, therefore, is 222
+86Rn, and the nuclear 

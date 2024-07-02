@@ -1,0 +1,51 @@
+nt in the sense of providing
+new information). You may use
+for each
+resistor, which sometimes will reduce the number
+of unknowns.
+3. Apply Kirchhoff’s junction rule at one or more
+junctions.
+V = IR
+I
+1 , I
+2 , I
+3
+h
+a
+b
+c
+d
+g
+f
+e
+30 Ω
+40 Ω
+20 Ω
+r =
+1 Ω
+e1 =
+80 V
+r =
+1 Ω
+e2 =
+45 V
+I3
+I1
+I2
+FIGURE 19–13 Currents can be
+calculated using Kirchhoff’s rules.
+See Example 19–8.
+Using Kirchhoff’s rules. Calculate the currents 
+and
+in the three branches of the circuit in Fig.19–13 (which is the same as Fig.19–11).
+APPROACH and SOLUTION
+1. Label the currents and their directions. Figure 19–13 uses the labels 
+and 
+for the current in the three separate branches. Since (positive) current
+tends to move away from the positive terminal of a battery, we choose 
+and
+to have the directions shown in Fig. 19–13. The direction of 
+is not obvious
+in advance, so we arbitrarily chose the direction indicated. If the current
+actually flows in the opposite direction, our answer will have a negative sign.
+2. Ident

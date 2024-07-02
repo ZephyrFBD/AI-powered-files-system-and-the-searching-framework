@@ -1,0 +1,14 @@
+ Just as we drew electric field lines, we
+can also draw magnetic field lines.They can be drawn, as for electric field lines, so that
+1. the direction of the magnetic field is tangent to a field line at any point, and
+2. the number of lines per unit area is proportional to the strength of the
+magnetic field.
+The direction of the magnetic field at a given location can be defined as the
+direction that the north pole of a compass needle would point if placed at that loca-
+tion. (We will give a more precise definition of magnetic field shortly.) Figure 20–4a
+shows how thin iron filings (acting like tiny magnets) reveal the magnetic field
+lines by lining up like the compass needles. The magnetic field determined in this
+way for the field surrounding a bar magnet is shown in Fig. 20–4b. Notice that
+because of our definition, the lines always point out from the north pole and in
+toward the south pole of a magnet (the north pole of a magnetic compass needle
+is attracted to the south pole of the

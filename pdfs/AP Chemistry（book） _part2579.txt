@@ -1,0 +1,80 @@
+0-9
+Hydroxylamine 1HONH22
+H
+N
+H
+OH
+HONH3
++
+1.1 * 10-8
+Methylamine 1CH3NH22
+H
+N
+H
+CH3
+CH3NH3
++
+4.4 * 10-4
+Hydrosulfide ion 1HS-2
+H
+S
+−
+H2S
+1.8 * 10-7
+Carbonate ion 1CO3
+2-2
+2
+O
+O
+O
+C
+−
+HCO3
+-
+1.8 * 10-4
+Hypochlorite ion 1ClO-2
+Cl
+O
+−
+HClO
+3.3 * 10-7
+*The atom that accepts the proton is shown in blue.
+Calculate the concentration of OH- in a 0.15 M solution of NH3.
+Solve
+The ionization reaction and equilibrium- 
+constant expression are:
+Analyze We are given the concentration of a weak base and asked 
+to determine the concentration of OH-.
+NH31aq2 + H2O1l2 ∆ NH4
++1aq2 + OH -1aq2
+Kb =
+3NH4
++43OH-4
+3NH34
+= 1.8 * 10-5
+NH31aq2    +      H2O1l2    ∆   NH4
++1aq2      +      OH -
+Initial  
+concentration (M)
+0.15
+—
+0
+0
+Change in  
+concentration (M)
+-x
+—
++x
++x
+Equilibrium  
+concentration (M)
+10.15 - x2
+—
+x
+x
+SOLUTION
+Sample Exercise 16.15 
+Using Kb to Calculate 3OH-4
+Plan We will use essentially the same procedure here as used in 
+solving problems involving the ionization of weak acids—that is, 
+wr

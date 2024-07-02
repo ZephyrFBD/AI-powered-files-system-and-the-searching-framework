@@ -1,0 +1,24 @@
+Hint: Use conservation of energy.]
+226
+CHAPTER 8
+Rotational Motion
+63. (II) A nonrotating cylindrical disk of moment of inertia I
+is dropped onto an identical disk rotating at angular 
+speed 
+Assuming no external torques, what is the final
+common angular speed of the two disks?
+64. (II) A diver (such as the one shown in Fig. 8–28) can reduce
+her moment of inertia by a factor of about 3.5 when changing
+from the straight position to the tuck position. If she makes
+2.0 rotations in 1.5 s when in the tuck position, what is her
+angular speed (rev s) when in the straight position?
+65. (II) A figure skater can increase her spin rotation rate
+from an initial rate of 1.0 rev every 1.5 s to a final rate of
+If her initial moment of inertia was 
+what is her final moment of inertia? How does she physi-
+cally accomplish this change?
+66. (II) (a) What is the angular momentum of a figure skater
+spinning at 
+with arms in close to her body,
+assuming her to be a uniform cylinder with a height of
+1.5 m, a

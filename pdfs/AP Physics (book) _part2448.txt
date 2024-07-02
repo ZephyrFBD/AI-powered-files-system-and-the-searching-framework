@@ -1,0 +1,51 @@
+ at the same
+point in space. More specifically, it was also shown that
+(22;3)
+When Maxwell put in the values for 
+and 
+he found
+m0 ,
+ 0
+[speed of EM waves]
+c =
+1
+2 0 m0
+.
+v = c = E
+B
+,
+E
+B
+B
+B
+FIGURE 22–7 Electric and
+magnetic field strengths in an
+electromagnetic wave.
+and 
+are
+at right angles to each other. The
+entire pattern moves in a direction
+perpendicular to both 
+and B
+B.
+E
+B
+B
+B
+E
+B
+= 3.00 * 108 ms,
+c =
+1
+2 0 m0
+=
+1
+3A8.85 * 10–12 C2Nm2BA4p * 10–7 Ns2C2B
+which is exactly equal to the measured speed of light in vacuum (Section 22–4).
+EXERCISE A At a particular instant in time, a wave has its electric field pointing north
+and its magnetic field pointing up. In which direction is the wave traveling? (a) South,
+(b) west, (c) east, (d) down, (e) not enough information. [See Fig. 22–7.]
+22–3 Light as an Electromagnetic Wave
+and the Electromagnetic Spectrum
+Maxwell’s prediction that EM waves should exist was startling. Equally remarkable
+was the speed at which EM waves were p

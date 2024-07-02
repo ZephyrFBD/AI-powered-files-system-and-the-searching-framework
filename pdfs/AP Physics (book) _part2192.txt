@@ -1,0 +1,27 @@
+esult in
+decreasing the force on the wire by a factor of 2? (a) Decrease the angle from 90° to 45°;
+(b) decrease the angle from 90° to 30°; (c) decrease the current in the wire to 
+(d) decrease the magnetic field to 
+(e) none of these will do it.
+B2;
+I2;
+The SI unit for magnetic field B is the tesla (T). From Eq. 20–1 or 20–2, we see
+that
+An older name for the tesla is the “weber per meter squared”
+Another unit sometimes used to specify magnetic field is a cgs
+unit, the gauss (G):
+A field given in gauss should always be changed
+to teslas before using with other SI units. To get a “feel” for these units, we note
+that the magnetic field of the Earth at its surface is about
+G or 
+On the other hand, strong electromagnets can produce fields on the order of 2 T
+and superconducting magnets can produce over 10 T.
+0.5 * 10–4 T.
+1
+2
+1 G = 10–4 T.
+A1 Wbm2 = 1 TB.
+1 T = 1 NAm.
+Magnetic force on a current-carrying wire. A wire carrying
+a steady (dc) 30-A current has a length
+between the pole f

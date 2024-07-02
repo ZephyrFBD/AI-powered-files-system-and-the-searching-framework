@@ -1,0 +1,36 @@
+nsity of the incident unpolarized
+light by an additional factor (after the first Polaroid cuts it
+in half) of (a) 4, (b) 10, (c) 100?
+u?
+u.
+7700 slitscm,
+slitscm
+l = 589 nm,
+l2 = 6.8 * 10–7 m.
+l1 = 4.4 * 10–7 m
+7200 slitscm
+340 ms
+1
+5
+Antenna 1
+Antenna 2
+Midline
+d
+u
+FIGURE 24–62 Problem 80.
+81. Calculate the minimum thickness needed for an antireflective
+coating 
+applied to a glass lens in order to elim-
+inate (a) blue (450 nm), or (b) red (720 nm) reflections for
+light at normal incidence.
+82. Stealth aircraft are designed to not reflect radar, whose
+wavelength is typically 2 cm, by using an antireflecting
+coating. Ignoring any change in wavelength in the coating,
+estimate its thickness.
+83. A laser beam passes through a slit of width 1.0 cm and is
+pointed at the Moon, which is approximately 380,000 km
+from the Earth. Assume the laser emits waves of wave-
+length 633 nm (the red light of a He–Ne laser). Estimate
+the width of the beam when it reaches the Moon due to
+diffraction.
+84.

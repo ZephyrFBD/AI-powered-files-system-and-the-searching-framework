@@ -1,0 +1,36 @@
+er, thereby increasing solubility. Glucose (C6H12O6, Figure 13.10) has five 
+OH groups on a six-carbon framework, which makes the molecule very soluble in 
+water: 830 g dissolves in 1.00 L of water at 17.5 °C. In contrast, cyclohexane 1C6H122, 
+which has a similar structure to glucose but with all of the OH groups replaced by H, 
+is essentially insoluble in water (only 55 mg of cyclohexane can dissolve in 1.00 L of 
+water at 25 °C).
+Over years of study, examination of different solvent–solute combinations has led to 
+an important generalization:
+ 
+Substances with similar intermolecular attractive forces tend to be  
+soluble in one another.
+TABLE 13.2 Solubilities of Some Alcohols in Water and in Hexane*
+Alcohol
+Solubility  
+in H2O
+Solubility  
+in C6H14
+CH3OH 1methanol2
+∞
+0.12
+CH3CH2OH 1ethanol2
+∞
+∞
+CH3CH2CH2OH 1propanol2
+∞
+∞
+CH3CH2CH2CH2OH 1butanol2
+0.11
+∞
+CH3CH2CH2CH2CH2OH 1pentanol2
+0.030
+∞
+CH3CH2CH2CH2CH2CH2OH 1hexanol2
+0.0058
+∞
+*Expressed in mol alcohol/100 g solvent at 20 °C. The 

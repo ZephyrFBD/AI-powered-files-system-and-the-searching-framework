@@ -1,0 +1,28 @@
+e formula N2H2 and the Lewis structure
+N
+H
+H
+N
+Do you expect diazine to be a linear molecule (all four atoms on the same line)?  
+If not, do you expect the molecule to be planar (all four atoms in the same plane)?
+ 
+Sample Exercise 9.6 
+Describing S and P Bonds in a Molecule
+Formaldehyde has the Lewis structure
+H
+H
+C
+O
+Describe how the bonds in formaldehyde are formed in terms of overlaps of hybrid and unhybridized orbitals.
+SOLUTION
+Analyze We are asked to describe the bonding in formaldehyde in 
+terms of hybrid orbitals.
+Plan Single bonds are s bonds, and double bonds consist of one s 
+bond and one p bond. The ways in which these bonds form can be 
+deduced from the molecular geometry, which we predict using the 
+VSEPR model.
+Solve The C atom has three electron domains around it, which 
+suggests a trigonal-planar geometry with bond angles of about 
+120°. This geometry implies sp2 hybrid orbitals on C (Table 9.4). 
+These hybrids are used to make the two C ¬H and one C ¬ O s 
+bonds to C

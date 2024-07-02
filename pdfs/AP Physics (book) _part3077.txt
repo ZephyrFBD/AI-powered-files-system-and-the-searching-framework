@@ -1,0 +1,36 @@
+emitted by
+a blackbody at high temperature.
+Einstein proposed that for some experiments, light could
+be pictured as being emitted and absorbed as quanta (particles),
+which we now call photons, each with energy
+(27;4)
+and momentum
+(27;6)
+He proposed the photoelectric effect as a test for the photon
+theory of light. In the photoelectric effect, the photon theory
+says that each incident photon can strike an electron in a
+material and eject it if the photon has sufficient energy. The
+maximum energy of ejected electrons is then linearly related to
+the frequency of the incident light.
+The photon theory is also supported by the Compton
+effect and the observation of electron–positron pair production.
+The wave;particle duality refers to the idea that light and
+matter (such as electrons) have both wave and particle proper-
+ties. The wavelength of an object is given by
+(27;8)
+where p is the momentum of the object (
+for a particle
+of mass m and speed v).
+p = mv
+l =
+h
+p
+,
+p = E
+c
+= hf
+c
+= h
+l
+.
+E =

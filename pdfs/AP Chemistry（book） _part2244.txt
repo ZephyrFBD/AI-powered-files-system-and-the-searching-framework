@@ -1,0 +1,38 @@
+ln k1 - ln k2 = a-  Ea
+RT
+1
++ ln Ab - a
+- Ea
+RT
+2
++ ln Ab
+Assuming temperature-dependent changes in the frequency factor A are negligible, 
+we can simplify to obtain
+ 
+ln k1
+k2
+= Ea
+R a 1
+T
+2
+- 1
+T
+1
+b 
+[14.23]
+Equation 14.23 provides a convenient way to calculate a rate constant k1 at some tem-
+perature T
+1 when we know the activation energy and the rate constant k2 at some other 
+temperature T
+2.
+The table at right shows the rate constants for the rearrangement of methyl 
+isonitrile at various temperatures (these are the data points in Figure 14.13):
+(a) From these data, calculate the activation energy for the reaction.  
+(b) What is the value of the rate constant at 430.0 K?
+Sample Exercise 14.11
+ Determining the Activation Energy
+SOLUTION
+Analyze We are given rate constants, k, measured at several tem-
+peratures and asked to determine the activation energy, Ea, and 
+the rate constant, k, at a particular temperature.
+Plan We can obtain Ea from the slope of a graph of ln k versus 1>T

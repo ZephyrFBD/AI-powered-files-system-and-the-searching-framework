@@ -1,0 +1,29 @@
+on of units, taking into 
+account the density of ethanol and its molar mass (46.0 g/mol):
+Moles ethanol = 10.050 L2 a1000 mL
+L
+b a
+0.789 g
+mL
+b a 1 mol
+46.0 gb = 0.858 mol
+Because there are 0.858 moles of ethanol in 1.00 L of beer, the concentration of eth-
+anol in beer is 0.86 M (taking into account significant figures).
+ 
+Sample Exercise 4.13 
+Using Molarity to Calculate Grams of Solute
+How many grams of Na2SO4 are required to make 0.350 L of 0.500 M Na2SO4?
+ 
+▶Practice Exercise 1
+What is the concentration of ammonia in a solution made  
+by dissolving 3.75 g of ammonia in 120.0 L of water?  
+(a) 1.84 * 10-3 M (b) 3.78 * 10-2 M (c) 0.0313 M (d) 1.84 M 
+(e) 7.05 M
+ 
+▶Practice Exercise 2
+(a) How many grams of Na2SO4 are there in 15 mL of 
+0.50 M Na2SO4? (b) How many milliliters of 0.50 M Na2SO4 
+solution are needed to provide 0.038 mol of this salt?
+SOLUTION
+Analyze We are given the volume of the solution (0.350 L), its con-
+centration (0.500 M), and the identity of the solute Na2SO4 an

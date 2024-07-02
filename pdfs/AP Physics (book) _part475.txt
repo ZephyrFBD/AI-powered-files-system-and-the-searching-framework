@@ -1,0 +1,45 @@
+t revolves 
+around the pole as shown in Fig. 5–10. In what direction is the acceleration of
+the ball, and what force causes the acceleration, assuming constant speed?
+RESPONSE If the ball revolves in a horizontal plane as shown, then the accel-
+eration points horizontally toward the center of the ball’s circular path (not
+toward the top of the pole). The force responsible for the acceleration may not
+be obvious at first, since there seems to be no force pointing directly horizontally.
+But it is the net force (the sum of 
+and 
+here) that must point in the 
+direction of the acceleration. The vertical component of the cord tension,
+balances the ball’s weight,
+The horizontal component of the cord tension,
+is the force that produces the centripetal acceleration toward the center.
+F
+Tx,
+mg
+B.
+F
+Ty,
+F
+B
+T
+mg
+B
+CONCEPTUAL EXAMPLE 5;5
+SECTION 5–3
+Highway Curves: Banked and Unbanked
+115
+P H Y S I C S  A P P L I E D
+Driving around a curve
+Ty
+T
+Tx
+m
+F
+B
+F
+B
+F
+B
+g
+B
+FIGURE 5;10 Example 5–5.
+Force o

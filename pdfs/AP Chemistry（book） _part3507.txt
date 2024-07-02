@@ -1,0 +1,17 @@
+rogen economy. Although H2(g) has 
+a high energy density by mass, it has a low energy density by volume. 
+Thus, storing hydrogen as a gas requires a large volume compared to 
+the energy it delivers. There are also safety issues associated with han-
+dling and storing the gas because its combustion can be explosive. 
+Storing hydrogen in the form of various hydride compounds such as 
+LiAlH4 is being investigated as a means of reducing the volume and 
+increasing the safety. One problem with this approach, however, is 
+that such compounds have high energy density by volume but low 
+energy density by mass.
+Related Exercises: 22.27, 22.28, 22.93
+Uses of Hydrogen
+Hydrogen is commercially important. About half of the H2 produced is used to synthe-
+size ammonia by the Haber process. 
+ (Section 15.2) Much of the remaining hydrogen 
+is used to convert high-molecular-weight hydrocarbons from petroleum into lower- 
+molecular-weight hydrocarbons suitable for fuel (gasoline, diesel, and others) in a p

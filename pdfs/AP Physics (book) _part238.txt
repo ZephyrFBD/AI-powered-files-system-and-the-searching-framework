@@ -1,0 +1,34 @@
+2a). If, on the other hand, the person
+walks 8 km east on the first day, and 6 km west (in the reverse direction) on the
+second day, then the person will end up 2 km from the origin (Fig. 3–2b), so the
+resultant displacement is 2 km to the east. In this case, the resultant displacement
+is obtained by subtraction:
+But simple arithmetic cannot be used if the two vectors are not along the same
+line. For example, suppose a person walks 10.0 km east and then walks 5.0 km
+north. These displacements can be represented on a graph in which the positive 
+y axis points north and the positive x axis points east, Fig. 3–3. On this graph, we
+draw an arrow, labeled 
+to represent the 10.0-km displacement to the east.
+Then we draw a second arrow,
+to represent the 5.0-km displacement to 
+the north. Both vectors are drawn to scale, as in Fig. 3–3.
+D
+B
+2 ,
+D
+B
+1 ,
+8 km - 6 km = 2 km.
+8 km + 6 km = 14 km
+v
+B.
+D
+B ,
+v
+B.
+(1 cm = 90 kmh).
+50
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+Scale for velocit

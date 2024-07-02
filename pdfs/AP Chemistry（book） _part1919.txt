@@ -1,0 +1,39 @@
+t to Work Solid-State Lighting
+Energy
+Voltage
+source
+Conduction
+band
+Light out
+Conduction
+band
+Valence
+band
+Valence
+band
+Mobile electron, e−
+Mobile hole, h+
+p-type
+semiconductor
+n-type
+semiconductor
+junction
+An external voltage pushes 
+electrons from the n-type 
+side and holes from the 
+p-type side into the junction.
+Electrons fall into the empty 
+holes, and photons are 
+emitted with energy equal 
+to the band gap.
+1
+2
+▲ Figure 12.32 Light-emitting diodes. The heart of a light-emitting diode is a p–n junction in which an 
+applied voltage drives electrons and holes together, where they combine and give off light.
+Artificial lighting is so widespread we take it for granted. Major sav-
+ings in energy would be realized if incandescent lights could be re-
+placed by light-emitting diodes (LEDs). Because LEDs are made from 
+semiconductors, this is an appropriate place to take a closer look at 
+the operation of an LED.
+The heart of an LED is a p–n diode, which is formed by bringing 
+an n-type s

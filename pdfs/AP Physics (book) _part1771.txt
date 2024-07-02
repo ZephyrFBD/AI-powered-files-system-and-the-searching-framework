@@ -1,0 +1,18 @@
+ied to the gravitational force (Chapter 5). Thus we
+can say that a gravitational field exists for every object that has mass. One object
+attracts another by means of the gravitational field. The Earth, for example,
+can be said to possess a gravitational field (Fig. 16–33) which is responsible for
+the gravitational force on objects. The gravitational field is defined as the 
+force per unit mass. The magnitude of the Earth’s gravitational field at any point
+above the Earth’s surface is thus 
+where 
+is the mass of the Earth,
+r is the distance of the point from the Earth’s center, and G is the gravitational
+constant (Chapter 5). At the Earth’s surface, r is the radius of the Earth and the
+gravitational field is equal to g, the acceleration due to gravity. Beyond the Earth,
+the gravitational field can be calculated at any point as a sum of terms due to Earth,
+Sun, Moon, and other bodies that contribute significantly.
+ME
+GMEr2,
+cbetween two closely spaced, oppositely
+charged, flat parallel 

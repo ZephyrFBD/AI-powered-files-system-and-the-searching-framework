@@ -1,0 +1,14 @@
+al variable.
+Prepare one additional potometer for normal conditions, a control to which the transpiration rate for the applied
+environmental condition can be compared.
+3. Collect data. Record the change in water level in the pipette over several intervals of time. If you are using gas
+pressure sensors, the associated computer software will generate a transpiration rate. If you are using an entire plant,
+weigh the plant at various intervals over a period of several days while maintaining constant environmental
+conditions. After recording this data, you will need to remove the leaves to determine their total surface area because
+the number of leaves and the sizes of leaves will influence the amount of transpiration.
+4. Calculate transpiration rate. Calculate water loss per surface area per
+ 
+time (e.g., ml/cm2/min) by dividing water loss by the total surface area
+ 
+and by the time recorded for the intervals. If using gas pressure sensors, divide the computer generated transpiration
+rate 

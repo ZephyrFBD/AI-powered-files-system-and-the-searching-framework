@@ -1,0 +1,14 @@
+ the slits one at a time. So the interference pattern could not arise
+from the interaction of one electron with another. It is as if an electron passed
+through both slits at the same time, interfering with itself. This is possible because
+an electron is not precisely a particle. It is as much a wave as it is a particle, and 
+a wave could travel through both slits at once. But what would happen if we 
+covered one of the slits so we knew that the electron passed through the other slit,
+and a little later we covered the second slit so the electron had to have passed
+through the first slit? The result would be that no interference pattern would be
+seen. We would see, instead, two bright areas (or diffraction patterns) on the
+screen behind the slits.
+If both slits are open, the screen shows an interference pattern as if each
+electron passed through both slits, like a wave. Yet each electron would make a
+tiny spot on the screen as if it were a particle.
+The main point of this discussion is t

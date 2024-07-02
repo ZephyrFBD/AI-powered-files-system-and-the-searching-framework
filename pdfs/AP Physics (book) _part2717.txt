@@ -1,0 +1,23 @@
+the pixel appears dark.†
+Unpolarized
+sunlight
+From
+Sun
+O2 or N2
+molecule
+Observer
+(on Earth)
+Light scattered
+at right angles
+is plane-polarized
+Simple display screens, such as for watches and calculators, use ambient light
+as the source (you can’t see the display in the dark), with a mirror behind the
+LCD to reflect the light back. There are only a few pixels, corresponding to the
+elongated segments needed to form the numbers from 0 to 9 (and letters in some
+displays), as seen in Fig. 24–52. Any pixels to which a voltage is applied appear
+dark and form part of a number. With no voltage, pixels pass light through the
+polarizers to the mirror and back out, which forms a bright background. Displays
+with white numbers on a dark background have the voltages reversed.
+Television, cell phone, and computer LCDs are more sophisticated. A color
+pixel consists of three cells, or subpixels, each covered with a red, green, or blue
+filter (Fig. 24–53). Varying brightnesses of these three primary col

@@ -1,0 +1,20 @@
+nternal energy into the  
+system. Conversely, heat transferred out of a system to the surroundings and work done by the  
+system on the surroundings are both “withdrawals” of internal energy from the system.
+TABLE 5.1 Sign Conventions for q, w, and 횫E
+For q
++ means system gains heat
+- means system loses heat
+For w
++ means work done on system
+- means work done by system
+For ∆E
++ means net gain of energy by system
+- means net loss of energy by system
+ 
+Sample Exercise 5.1 
+Relating Heat and Work to Changes of Internal Energy
+Gases A(g) and B(g) are confined in a cylinder-and-piston arrangement like that in Figure 5.4 and react to form a solid product 
+C(s): A1g2 + B1g2 ¡ C1s2. As the reaction occurs, the system loses 1150 J of heat to the surroundings. The piston moves 
+downward as the gases react to form a solid. As the volume of the gas decreases under the constant pressure of the atmosphere, 
+the surroundings do 480 J of work on the system. What is the change in the internal energy of

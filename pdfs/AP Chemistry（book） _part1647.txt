@@ -1,0 +1,55 @@
+ experience attractive forces for one another. These two ef-
+fects make the volumes of real gases larger and their pressures smaller 
+than those of an ideal gas. The van der Waals equation is an equation of 
+state for gases, which modifies the ideal-gas equation to account for 
+intrinsic molecular volume and intermolecular forces.
+Key Equations
+t PV = nRT 
+[10.5] 
+Ideal-gas equation
+t P
+1V1
+T
+1
+= P
+2V2
+T
+2
+ 
+[10.8] 
+The combined gas law, showing how P, V, and T are related for a constant n
+t d = Pℳ
+RT  
+[10.10] 
+Density or molar mass of a gas
+t P
+t = P
+1 + P
+2 + P
+3 + c  
+[10.12] 
+ 
+Relating the total pressure of a gas mixture to the partial pressures of its 
+ 
+components (Dalton’s law of partial pressures)
+t P
+1 = an1
+nt
+b P
+t = X1P
+t 
+[10.16] 
+Relating partial pressure to mole fraction
+t urms = A
+3RT
+ℳ 
+[10.20] 
+Definition of the root-mean-square (rms) speed of gas molecules
+t r1
+r2
+= A
+ ℳ2
+ℳ1
+ 
+[10.22] 
+Relating the relative rates of effusion of two gases to their molar masse

@@ -1,0 +1,66 @@
+
+mk = 0.15
+mk = 0.18
+5.0 ms
+k  0.15
+μ
+k  0.18
+μ
+5.0 m/s
+v
+x
+110 m
+28°
+FIGURE 4;75 Problem 92.
+108
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+A: No force is needed. The car accelerates out from under the
+cup, which tends to remain at rest. Think of Newton’s first
+law (see Example 4–1).
+B: (a).
+C: (i) The same; (ii) the tennis ball; (iii) Newton’s third law
+for part (i), second law for part (ii).
+D: (b).
+E: (b).
+F: (b).
+G: (c).
+H: Yes; no.
+ANSWERS TO EXERCISES
+θ
+θ
+θ
+θ
+(a)
+(b)
+x
+y
+BR
+RB
+P
+P
+CR
+RC
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+B
+C
+FIGURE 4;78 (a) Getting a car out of the mud,
+showing the forces on the boulder, on the car,
+and exerted by the person. (b) The free-body
+diagram: forces on a small segment of rope.
+1. (a) Finding her car stuck in the mud, a bright graduate of a
+good physics course ties a strong rope to the back bumper
+of the car, and the other end to a boulder, as shown in 
+Fig. 4–78a. She pushes at the midpoint of the rope with 
+her maximum effort, which she estimates to be a for

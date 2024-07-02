@@ -1,0 +1,15 @@
+for example) and turn off the processes when
+suitable conditions return.
+Figure 9-7
+The regulation of gene expression in eukaryotic cells is more complicated than in prokaryotes. There are several
+reasons for this:
+ 
+1. Multicellularity. Many eukaryotic organisms are multicellular. This requires different gene regulation programs
+for different cell types.
+2. Chromosome complexity. The chromosomes of eukaryotic organisms are more complex than those of
+prokaryotes due to their much larger size and elaborate organization with histone proteins. Also, some metabolic
+processes require the activation of multiple genes, each of which are located on a different chromosome. In these
+cases, coordinated expression of these genes requires a more sophisticated system of regulation than that which is
+present in prokaryotes.
+3. Uncoupling of transcription and translation. In prokaryotes, translation begins while transcription is still in
+progress. In contrast, eukaryotic transcription occurs in the nu

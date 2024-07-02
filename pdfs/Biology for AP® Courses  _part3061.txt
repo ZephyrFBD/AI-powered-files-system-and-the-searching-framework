@@ -1,0 +1,21 @@
+0.026
+Cl−
+120
+4
+30
+Organic anions
+(A−)
+—
+100
+Table 26.1 The resting membrane potential is a result of different concentrations inside and outside the
+cell.
+Chapter 26 | The Nervous System
+1119
+Figure 26.10 The (a) resting membrane potential is a result of different concentrations of Na+ and K+ ions inside
+and outside the cell. A nerve impulse causes Na+ to enter the cell, resulting in (b) depolarization. At the peak action
+potential, K+ channels open and the cell becomes (c) hyperpolarized.
+Action Potential
+A neuron can receive input from other neurons and, if this input is strong enough, send the signal to downstream neurons.
+Transmission of a signal between neurons is generally carried by a chemical called a neurotransmitter. Transmission of a
+signal within a neuron (from dendrite to axon terminal) is carried by a brief reversal of the resting membrane potential
+called an action potential. When neurotransmitter molecules bind to receptors located on a neuron’s dendrites, ion channels

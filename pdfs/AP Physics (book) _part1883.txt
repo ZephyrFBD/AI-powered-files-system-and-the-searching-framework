@@ -1,0 +1,19 @@
+on 17–11), is contained
+in a byte. One byte is 8 bits, which means
+each byte of 8 bits allows
+possibilities
+(that is, 0 to 255) or 256 shades for each of 3 colors: red, green, blue. The full
+color of each pixel (the three subpixel colors) has 
+possibilities.
+Digital television signals, which we discuss in the next Section, are transmitted
+at about 
+Megabits per second. So 
+pass a given point
+per second, or one bit every 53 nanoseconds. We could write this in terms of
+bytes as 2.4 MB s, where for bytes we use capital B.
+When an analog signal, such as the pure sine wave of Fig. 17–22a, is converted
+to digital (analog-to-digital converter, ADC), the digital signal may look like the
+blue squared-off curve of Fig. 17–24. The digital signal has a limited number of
+discrete values. The difference between the original continuous analog signal and
+its digital approximation is called the quantization error or quantization loss. To min-
+imize that loss, there are two important factors: (i) the re

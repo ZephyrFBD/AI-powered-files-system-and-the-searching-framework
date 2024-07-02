@@ -1,0 +1,20 @@
+ical components of
+the motion separately. For convenience, we assume that the motion begins at
+time
+at the origin of an xy coordinate system (so
+).
+Let us look at a (tiny) ball rolling off the end of a horizontal table with an 
+initial velocity in the horizontal (x) direction,
+See Fig. 3–18, where an object
+falling vertically is also shown for comparison. The velocity vector at each instant
+points in the direction of the ball’s motion at that instant and is thus always tangent
+to the path. Following Galileo’s ideas, we treat the horizontal and vertical compo-
+nents of velocity and acceleration separately, and we can apply the kinematic
+equations (Eqs. 2–11a through 2–11c) to the x and y components of the motion.
+First we examine the vertical (y) component of the motion. At the instant 
+the ball leaves the table’s top
+it has only an x component of velocity.
+Once the ball leaves the table (at
+), it experiences a vertically downward
+acceleration g, the acceleration due to gravity. Thus 
+i

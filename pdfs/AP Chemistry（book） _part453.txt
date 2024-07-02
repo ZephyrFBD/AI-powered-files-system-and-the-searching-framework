@@ -1,0 +1,18 @@
+ masses of CO2 and H2O we 
+can calculate the number of moles of C and H in the original sample and thereby the 
+empirical formula. If a third element is present in the compound, its mass can be deter-
+mined by subtracting the measured masses of C and H from the original sample mass.
+ 
+Sample Exercise 3.15
+Determining an Empirical Formula by Combustion Analysis
+Isopropyl alcohol, sold as rubbing alcohol, is composed of C, H, and O. Combustion of 0.255 g of isopropyl alcohol produces 
+0.561 g of CO2 and 0.306 g of H2O. Determine the empirical  
+formula of isopropyl alcohol.
+SOLUTION
+Analyze We are told that isopropyl alcohol contains C, H, and O at-
+oms and are given the quantities of CO2 and H2O produced when 
+a given quantity of the alcohol is combusted. We must determine 
+the empirical formula for isopropyl alcohol, a task that requires us 
+to calculate the number of moles of C, H, and O in the sample.
+Plan We can use the mole concept to calculate grams of C in the CO2 
+and grams of H

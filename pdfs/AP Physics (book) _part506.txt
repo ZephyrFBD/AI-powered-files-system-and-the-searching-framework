@@ -1,0 +1,62 @@
+h’s center. We subtract the Earth’s radius of 6380 km
+to find that a geosynchronous satellite must orbit about 36,000 km (about 
+)
+above the Earth’s surface.
+(b) We solve for v in the satellite equation, Eq. 5–6:
+or about 11,000 km h 
+We get the same result if we use
+(c) The equation in part (b) for v shows
+So for
+we get
+or about 28,000 km h (L 17,000 mih).
+
+v¿ = v A
+r
+r¿
+= (3070 ms) B
+(42,200 km)
+(6580 km)
+= 7770 ms,
+6380 km + 200 km = 6580 km,
+r = rE + h =
+v r 11r.
+v = 2prT.
+(L 7000 mih).
+
+v = B
+GmE
+r
+= C
+A6.67 * 10–11 Nm2kg2BA5.98 * 1024 kgB
+A4.22 * 107 mB
+= 3070 ms,
+6rE
+r = 4.22 * 107 m,
+= 7.54 * 1022 m3.
+r3 = GmE T2
+4p2
+=
+A6.67 * 10–11 Nm2kg2BA5.98 * 1024 kgB(86,400 s)2
+4p2
+r3:
+G mE
+r2
+= (2pr)2
+rT2
+.
+mSat
+T = 1 day = (24 h)(3600 sh) = 86,400 s.
+v = 2pr
+T
+,
+G mSat mE
+r2
+= mSat
+v2
+r
+.
+a = v2r
+F = ma,
+EXAMPLE 5;12
+†Geosynchronous satellites are useful because receiving and transmitting antennas at a given place 
+on Earth can stay fixed on such a satellite (no tracking 

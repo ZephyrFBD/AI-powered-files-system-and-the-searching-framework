@@ -1,0 +1,20 @@
+Assuming the same level of continuous activ-
+ity as in the research, will the cockroach consume more than 
+20% of the available O2 in a 48-hr period? (Air is 21 mol % O2.)
+428 
+CHAPTER 10 Gases
+ 10.46  The physical fitness of athletes is measured by “VO2 max,” 
+which is the maximum volume of oxygen consumed by an 
+individual during incremental exercise (for example, on a 
+treadmill). An average male has a VO2 max of 45 mL O2>kg 
+body mass/min, but a world-class male athlete can have a VO2 
+max reading of 88.0 mL O2>kg body mass/min. (a) Calculate 
+the volume of oxygen, in mL, consumed in 1 hr by an aver-
+age man who weighs 185 lbs and has a VO2 max reading of 47.5 
+mL O2>kg body mass/min. (b) If this man lost 20 lb, exercised, 
+and increased his VO2 max to 65.0 mL O2>kg body mass/min, 
+how many mL of oxygen would he consume in 1 hr?
+Further Applications of the Ideal-Gas Equation 
+(Section 10.5)
+ 10.47 Rank the following gases from least dense to most dense at 
+1.00 atm and 298 K: CO, N

@@ -1,0 +1,12 @@
+or the trait that species along that branch share
+(Figure 17-4).
+Figure 17-4
+To confirm your placement of the fossil organism on the tree, you access BLAST, an online bioinformatics program,
+to analyze DNA obtained from tissue surviving in the fossil. You are provided with several gene sequences from the
+fossil (which you download from an AP Biology website) that you submit to BLAST. BLAST then compares your
+gene sequences with others in the database and provides a list of organisms with gene sequences that are most
+similar to the fossil sequence. A typical BLAST output appears in Figure 17-5.
+The top section of a BLAST report provides a graphical summary of the results. Note the following information (the
+numbered items below correspond to the numeric callouts in Figure 17-5):
+1. Color Key. The color key (shown in the figure as shades of gray) is a legend defining the color of each of the
+horizontal bars below. The bars represent alignment sequences of other organisms. The number on e

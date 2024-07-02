@@ -1,0 +1,19 @@
+a transition of the electron in the hydrogen atom from 
+n = 4 to n = 9. (a) Is ∆E for this process positive or negative? 
+ 
+(b) Determine the wavelength of light that is  
+associated with this 
+transition. Will the light be absorbed or emitted? (c) In which 
+portion of the electromagnetic  
+spectrum is the light in part (b)?
+ 6.41  The visible emission lines observed by Balmer all involved 
+nf = 2. (a) Which of the following is the best explanation of 
+why the lines with nf = 3 are not observed in the visible por-
+tion of the spectrum: (i) Transitions to nf = 3 are not allowed 
+to happen, (ii) transitions to nf = 3 emit photons in the 
+infrared portion of the spectrum, (iii) transitions to nf = 3 
+emit photons in the ultraviolet portion of the spectrum, or 
+(iv) transitions to nf = 3 emit photons that are at exactly the 
+same wavelengths as those to nf = 2. (b) Calculate the wave-
+lengths of the first three lines in the Balmer series—those for 
+which ni = 3, 4, and 5—and identify these

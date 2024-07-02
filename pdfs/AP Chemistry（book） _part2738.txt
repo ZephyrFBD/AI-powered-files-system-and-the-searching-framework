@@ -1,0 +1,22 @@
+e that the pH 
+changes rapidly from roughly 11 to 3 near the equiv-
+alence point. Consequently, an indicator for this 
+titration can change color anywhere in this range. 
+Most strong acid–strong base titrations are carried 
+out using phenolphthalein as an indicator because 
+it changes color in this range (see Figure 16.8, 
+ 
+p. 678). Several other indicators would also be satis-
+factory, including methyl red, which, as the lower 
+color band in Figure 17.12 shows, changes color in 
+the pH range from about 4.2 to 6.0.
+As noted in our discussion of Figure 17.11, 
+because the pH change near the equivalence point 
+becomes smaller as Ka decreases, the choice of indi-
+cator for a weak acid–strong base titration is more 
+critical than it is for titrations where both acid 
+and base are strong. When 0.100 M CH3COOH
+1Ka = 1.8 * 10-52 is titrated with 0.100 M NaOH, 
+for example, the pH increases rapidly only over the 
+pH range from about 7 to 11 (Figure 17.13). Phenol-
+phthalein is therefore an id

@@ -1,0 +1,18 @@
+any other factors that the simulation is trying to model. By starting with a population 
+that is modeled on a computer spreadsheet with explicit randomness, students are 
+able to build their knowledge toward an inference on allele inheritance patterns in a 
+theoretically infinite population. They do this by creating larger and larger populations 
+to minimize fluctuations from the expected probabilities.
+Having students build their own models (even if extensively guided by the teacher) is 
+a requisite component to this investigation. It is during the model building, testing, and 
+corrective phase of construction that the reflective and analytical skills of model building 
+are learned. These skills, by their very nature, have a broad application to learning.  
+* Transitioned from the AP Biology Lab Manual (2001)
+T58  Investigation 2 
+ 
+ 
+ 
+ 
+ 
+In this investigation, the students will build a spreadsheet that models how a 
+hypothetical gene pool changes from one generation to the next. Th

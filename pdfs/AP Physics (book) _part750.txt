@@ -1,0 +1,46 @@
+during the (usually very
+short) time interval 
+The impulse is equal to the change in
+momentum of the object:
+(7;4)
+Total momentum is conserved in any collision as long as
+any net external force is zero or negligible. If 
+and 
+are the momenta of two objects before the collision and mAv
+B
+A
+œ
+mBv
+B
+B
+mAv
+B
+A
+Impulse = F
+B ¢t = ¢p
+B.
+¢t.
+F
+B
+Impulse = F
+B ¢t,
+©F
+B =
+¢p
+B
+¢t
+.
+p
+B = mv
+B.
+p
+B,
+Summary
+EXERCISE H A woman stands up in a rowboat and walks from one end of the boat to
+the other. How does the boat move, as seen from the shore?
+An interesting application is the discovery of nearby stars (see Section 5–8)
+that seem to “wobble.”What could cause such a wobble? It could be that a planet
+orbits the star, and each exerts a gravitational force on the other. The planets are
+too small and too far away to be observed directly by telescopes. But the slight
+wobble in the motion of the star suggests that both the planet and the star (its sun)
+orbit about their mutual center of mass, and hence

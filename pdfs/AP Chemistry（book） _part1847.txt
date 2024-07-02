@@ -1,0 +1,13 @@
+ng a and b vectors that 
+form a two-dimensional square lattice. Then add a third vector, c, that is of different 
+length and perpendicular to the first two. Which of the seven three-dimensional 
+lattices results?
+If we place a lattice point at each corner of a unit cell, we get a primitive lat-
+tice. All seven lattices in Figure 12.6 are primitive lattices. It is also possible to gen-
+erate what are called centered lattices by placing additional lattice points in specific 
+locations in the unit cell. This is illustrated for a cubic lattice in Figure 12.7. A body- 
+centered cubic lattice has one lattice point at the center of the unit cell in addition 
+to the lattice points at the eight corners. A face-centered cubic lattice has one lat-
+tice point at the center of each of the six faces of the unit cell in addition to the lattice 
+points at the eight corners. Centered lattices exist for other types of unit cells as well. 
+For the crystals discussed in this chapter we need consider only 

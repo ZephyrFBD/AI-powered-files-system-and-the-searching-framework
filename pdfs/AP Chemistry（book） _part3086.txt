@@ -1,0 +1,23 @@
+calculated ∆G° = -33.3 kJ for 
+this reaction. We will have to change the units of this quan-
+tity in applying Equation 19.19, however. For the units in 
+Equation 19.19 to work out, we will use kJ>mol as our units 
+for ∆G°, where “per mole” means “per mole of the reaction 
+as written.” Thus, ∆G° = -33.3 kJ>mol implies per 1 mol of 
+N2, per 3 mol of H2, and per 2 mol of NH3.
+We now use Equation 19.19 to calculate ∆G for these nonstan-
+dard conditions:
+Continued
+834 
+CHAPTER 19 Chemical Thermodynamics
+Relationship between ∆G° and K
+We can now use Equation 19.19 to derive the relationship between ∆G° and the equi-
+librium constant, K. At equilibrium, ∆G = 0 and Q = K. Thus, at equilibrium, Equation 
+19.19 transforms as follows:
+∆G = ∆G° + RT ln Q
+0 = ∆G° + RT ln K
+∆G° = -RT ln K 
+[19.20]
+Equation 19.20 is a very important one, with broad significance in chemistry. By relating 
+K to ∆G°, we can also relate K to entropy and enthalpy changes for a reaction.
+We can also solve Equation 19.20 fo

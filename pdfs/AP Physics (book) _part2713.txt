@@ -1,0 +1,49 @@
+f
+(b) Voltage on
+Bright
+light
+exits
+Liquid
+crystal
+Liquid
+crystal
+Axis
+Polarizing
+axis
+No
+light
+exits
+Light still
+vertically
+polarized
+
+
+Axis
+Axis
+Horizontally
+polarized
+light
+V
+FIGURE 24–51 (a) “Twisted” form
+of liquid crystal. Light polarization
+plane is rotated 90°, and so is
+transmitted by the horizontal
+polarizer. Only one line of molecules
+is shown. (b) Molecules disoriented
+by electric field. The plane of
+polarization is not changed, so light
+does not pass through the horizontal
+polarizer. (The transparent electrodes
+are not shown.)
+*SECTION 24–11
+Liquid Crystal Displays (LCD)
+703
+FIGURE 24–49 Example of an
+image made up of many small
+squares or pixels (picture elements).
+FIGURE 24–50 Liquid crystal molecules
+tend to align in one dimension
+(parallel to each other) but have
+random positions (left-right, up-down).
+†Some displays use an opposite system: the polarizers are parallel to each other (the scratches remain
+at 90° to maintain the twist). Then voltage off results in black

@@ -1,0 +1,13 @@
+sci (spores from both
+strains).
+2. Under the microscope, count the number of hybrid asci that contain ascospores with crossovers and the number of
+asci that contain ascospores without crossovers.
+3. To determine crossover frequency, first divide the number of asci with crossovers by the total hybrid asci
+observed (asci with and without crossovers); then divide this number by 2 and convert to a percent by multiplying
+by 100.
+Investigation 8: Bacterial Transformation
+Transformation is the uptake of external DNA by cells. In this investigation you will direct transformation by
+facilitating the transfer of a bacterial plasmid into E. coli bacteria.
+Plasmids are common vectors (or carriers) for transferring DNA into bacteria. This investigation uses the plasmid
+pAMP, a plasmid that contains a gene that provides resistance to the antibiotic ampicillin. As a result, bacteria that
+have successfully absorbed the plasmid possess resistance to the antibiotic and can be separated from other bacter

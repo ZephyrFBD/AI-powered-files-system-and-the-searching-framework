@@ -1,0 +1,68 @@
+l stay constant and equal to the speed of the wagon. As the
+apple follows its arc, the wagon will be directly under the apple at all times
+because they have the same horizontal velocity. When the apple comes down, it
+will drop right into the outstretched hand of the child. The answer is (b).
+v
+B
+x 0
+v
+B
+x 0.
+v
+B
+y 0
+CONCEPTUAL EXAMPLE 3;4
+y
+x
+(b) Ground reference frame
+(a) Wagon reference frame
+0
+0
+x
+y0
+v
+B
+y0
+v
+B
+v
+B
+v
+B
+v 0
+x
+v
+B
+FIGURE 3;21 Example 3–4.
+60
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+P R O B L E M  S O L V I N G
+Choice of time interval
+TABLE 3;2 Kinematic Equations for Projectile Motion 
+(y positive upward;
+)
+Horizontal Motion 
+Vertical Motion†
+(Eq. 2–11a)
+(Eq. 2–11b)
+(Eq. 2–11c)
+† If y is taken positive downward, the minus 
+signs in front of g become 
+signs.
+±
+(–)
+vy
+2 = vy 0
+2
+- 2gAy - y0B
+y = y0 + vy 0t - 1
+2 gt2
+x = x0 + vx 0t
+vy = vy 0 - gt
+vx = vx 0
+(ay  g  constant)
+(ax  0, vx  constant)
+ax  0, ay  g  9.80 ms2
+5. Examine the horizontal (x) and 

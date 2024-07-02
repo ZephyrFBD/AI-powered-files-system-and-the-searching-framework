@@ -1,0 +1,34 @@
+nstration of the wave-
+like or particle-like behavior of light?
+Sample Exercise 6.3 
+Energy of a Photon
+Calculate the energy of one photon of yellow light that has a wavelength of 589 nm.
+SOLUTION
+Analyze Our task is to calculate the energy, E, of a photon, given its 
+wavelength, l = 589 nm.
+Plan We can use Equation 6.1 to convert the wavelength to 
+frequency:  n = c>l. We can then use Equation 6.3 to calculate 
+energy: E = hn
+Comment  If one photon of radiant energy supplies 3.37 * 10 - 19 J, 
+we calculate that one mole of these photons will supply:
+16.02 * 1023 photons>mol213.37 * 10 - 19 J>photon2
+ = 2.03 * 105 J>mol
+ 
+▶Practice Exercise 1
+Which of the following expressions correctly gives the energy 
+of a mole of photons with wavelength l?
+(a) E = h
+l  (b) E = NA
+l
+h   (c) E = hc
+l   (d) E = NA
+h
+l   (e) E = NA
+hc
+l
+ 
+▶Practice Exercise 2
+(a) A laser emits light that has a frequency of 4.69 * 1014 s - 1. 
+What is the energy of one  
+photon of this radiation? (b) If 
+the laser emits

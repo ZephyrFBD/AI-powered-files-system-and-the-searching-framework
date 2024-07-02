@@ -1,0 +1,38 @@
+eously. 
+A nucleus can also change identity if it is struck by a neutron or by another nucleus. 
+Nuclear reactions induced in this way are known as nuclear transmutations.
+In 1919, Ernest Rutherford performed the first conversion of one nucleus into 
+another, using alpha particles emitted by radium to convert nitrogen-14 into oxygen-17:
+ 
+14
+7N + 4
+2He ¡ 17
+8O + 1
+1H or 14
+7N + a ¡ 17
+8O + p 
+[21.8]
+Such reactions have allowed scientists to synthesize hundreds of radioisotopes in the 
+laboratory.
+A shorthand notation often used to represent nuclear transmutations lists the target 
+nucleus, the bombarding particle and the ejected particle in parentheses, followed by 
+the product nucleus. Using this condensed notation we see that, Equation 21.8 becomes
+Give It Some Thought
+What can you say about the number of neutrons in the stable isotopes of fluorine, 
+sodium, aluminum, and phosphorus?
+N(a, p)   
+O
+14
+7
+17
+8
+Target
+nucleus
+Product
+nucleus
+Bombarding
+particle
+Ejected
+particle
+910 
+CHAPT

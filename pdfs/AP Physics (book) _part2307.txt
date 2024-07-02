@@ -1,0 +1,51 @@
+ider some more possibilities.
+C A U T I O N
+Distinguish two different
+magnetic fields
+I
+(inward)
+(a)
+(b)
+Flux
+through
+coil is
+decreased
+because A
+decreased
+B
+B
+FIGURE 21–5 A current can be
+induced by changing the coil’s area,
+even though B doesn’t change. Here
+the area A is reduced by pulling on the
+sides of the coil: the flux through the
+coil is reduced as we go from (a) to (b).
+The brief induced current acts in the
+direction shown so as to try to maintain
+the original flux 
+by
+producing its own magnetic field into
+the page. That is, as area A decreases,
+the current acts to increase B in the
+original (inward) direction.
+(£ = BA)
+(inward)
+Flux
+decreasing
+(a) Maximum flux
+(b) Zero flux
+B
+B
+FIGURE 21–6 A current can be induced 
+by rotating a coil in a magnetic field. The 
+flux through the coil changes from (a) to (b) 
+because (in Eq. 21–1,
+) 
+went from 
+to 90° (cos u = 0).
+0° (cos u = 1)
+£ = BA cos u
+u
+Magnetic flux
+so an emf can be induced in three ways:
+(1) by a changing magnetic field

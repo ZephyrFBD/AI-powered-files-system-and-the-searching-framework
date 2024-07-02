@@ -1,0 +1,45 @@
+
+[*Alpha decay occurs via a purely quantum-mechanical
+process called tunneling through a barrier.]
+Particle detectors include Geiger counters, scintillators
+with attached photomultiplier tubes,
+and semiconductor
+detectors. Detectors that can image particle tracks include
+semiconductors, photographic emulsions, bubble chambers,
+and multiwire chambers.
+T1
+2 = 0.693
+l
+.
+T1
+2 ,
+R =
+` ¢N
+¢t `
+0
+e–lt.
+R = magnitude of ¢N¢t:
+N = N
+0 e–lt,
+t
+l
+¢N =
+–lN ¢t;
+¢t
+(¢N)
+Summary
+1. What do different isotopes of a given element have in
+common? How are they different?
+2. What are the elements represented by the X in the follow-
+ing: (a) 
+(b) 
+(c) 
+(d) 
+(e)
+3. How many protons and how many neutrons do each of the
+isotopes in Question 2 have?
+4. Identify the element that has 87 nucleons and 50 neutrons.
+5. Why are the atomic masses of many elements (see the
+Periodic Table) not close to whole numbers?
+6. Why are atoms much more likely to emit an alpha particle
+than to emit separate neutrons and protons?

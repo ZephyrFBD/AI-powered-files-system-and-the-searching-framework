@@ -1,0 +1,117 @@
+ble-helix 
+structure, therefore, each thymine on one strand is opposite an ade-
+nine on the other strand, and each cytosine is opposite a guanine. The 
+double-helix structure with complementary bases on the two strands is 
+the key to understanding how DNA functions.
+The two strands of DNA unwind during cell division, and new 
+complementary strands are constructed on the unraveling strands 
+Go Figure
+Is the correct base sequence 1-2-3-4 or 4-3-2-1?
+O
+O
+Base 1
+O
+O
+P
+O
+O
+O
+−
+O
+OH
+O
+P
+O
+O
+O
+−
+O
+O
+P
+O
+O
+O
+−
+Base 2
+Base 3
+Base 4
+5’
+4’
+3’
+2’
+1’
+▲ Figure 24.26 A polynucleotide. Because the sugar in each 
+nucleotide is deoxyribose, this polynucleotide is DNA.
+The five-carbon sugar in RNA is ribose, and that in DNA is deoxyribose:
+C
+C
+H
+Ribose
+HOCH2
+C
+H
+HOCH2
+O
+OH
+H
+C
+OH
+H
+C
+OH
+H
+H
+C
+H
+C
+OH
+H
+C
+OH
+H
+Deoxyribose
+O
+N
+N
+N
+NH2
+NH2
+Adenine (A)
+DNA
+RNA
+CH3
+HN
+N
+N
+O
+H2N
+Guanine (G)
+DNA
+RNA
+O
+N
+Cytosine (C)
+DNA
+RNA
+HN
+O
+Thymine (T)
+DNA
+O
+O
+O
+HN
+Uracil (U)
+RNA
+N
+H
+N
+H
+N
+H
+N
+H
+N
+H
+Go Figure
+Which pair of 

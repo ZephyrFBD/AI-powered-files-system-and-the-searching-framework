@@ -1,0 +1,38 @@
+n:
+201 + 0 = A
+Thus, the product nucleus must have a mass number of 201. 
+Similarly, balancing the atomic numbers gives
+80 - 1 = Z
+Thus, the atomic number of the product nucleus must be 79, 
+which identiﬁes it as gold (Au):
+201
+80Hg +
+0
+-1e ¡ 201
+79Au
+(b) In this case, we must determine what type of particle is emit-
+ted in the course of the radioactive decay:
+231
+90Th ¡ 231
+91Pa + A
+ZX
+From 231 = 231 + A and 90 = 91 + Z, we deduce A = 0 and 
+Z = -1. According to Table 21.2, the particle with these char-
+acteristics is the beta particle (electron). We therefore write
+231
+90Th ¡ 231
+91Pa +
+0
+-1e or 231
+90Th ¡ 231
+91Pa + b-
+ 
+▶Practice Exercise 1
+The radioactive decay of thorium-232 occurs in multiple 
+steps, called a radioactive decay chain. The second product 
+produced in this chain is actinium-228. Which of the fol-
+lowing processes could lead to this product starting with 
+thorium-232?
+(a) Alpha decay followed by beta emission
+(b) Beta emission followed by electron capture
+(c) Positr

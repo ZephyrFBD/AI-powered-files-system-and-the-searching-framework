@@ -1,0 +1,16 @@
+neous equilibria involving the Mg2 +  or OH- ions, 
+calculate Ksp for this compound.
+The Ksp for CaF2 is 3.9 * 10-11 at 25 °C. Assuming equilibrium is established between solid and dissolved CaF2, and that  
+there are no other important equilibria affecting its solubility, calculate the solubility of CaF2 in grams per liter.
+(Remember that 2
+3 y = y1>3.) Thus, the molar 
+solubility of CaF2 is 2.1 * 10-4 mol>L.
+Analyze We are given Ksp for CaF2 and asked to determine solubil-
+ity. Recall that the solubility of a substance is the quantity that 
+can dissolve in solvent, whereas the solubility-product constant, 
+Ksp, is an equilibrium constant.
+Plan To go from Ksp to solubility, we follow the steps indicated by 
+the red arrows in Figure 17.16. We first write the chemical equation 
+Check We expect a small number for the solubility of a slightly soluble 
+salt. If we reverse the calculation, we should be able to recalculate the 
+solubility product: Ksp = 12.1 * 10-4214.2 * 10-422 = 3.7 * 10-1

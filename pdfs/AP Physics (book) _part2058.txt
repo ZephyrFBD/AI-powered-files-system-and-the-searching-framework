@@ -1,0 +1,89 @@
+3
+I
+1, I
+2,
+R1
+R1
+12 
+4-
+4-
+Req = R1 + R2 + R3.
+V = IAR1 + R2 + R3B,
+V = IReq.
+Req
+Req
+V = V
+1 + V
+2 + V
+3 = IR1 + IR2 + IR3.
+V
+3 = IR3 .
+V
+2 = IR2,
+V
+1 = IR1,
+V = IR,
+R3,
+R1 , R2,
+V
+3
+V
+1, V
+2 ,
+R3 .
+R2
+R1
+Unless stated otherwise, we assume the battery’s internal resistance is negligible,
+and the battery voltage given is its terminal voltage, which we will usually write
+as V rather than 
+Do not confuse V (italic) for voltage, with V (not italic) for
+the volt unit.
+V
+ab.
+A
+B
+R1
+R2
+R3
+I1
+I2
+I3
+V
+I
+(a)
+(b)
++
+–
+V
+I
+(c)
+Req
++
+–
++
+–
+FIGURE 19–4 (a) Resistances
+connected in parallel. (b) Resistances
+could be lightbulbs. (c) The equivalent
+circuit with 
+obtained from Eq.19–4:
+1
+Req
+= 1
+R1
++ 1
+R2
++ 1
+R3
+.
+Req
+FIGURE 19–3 (a) Resistances
+connected in series. (b) Resistances
+could be lightbulbs, or any other
+type of resistance. (c) Equivalent
+single resistance 
+that draws the
+same current: Req = R1 + R2 + R3 .
+Req
+current I as these three resistances in parallel. This equivalent resistance 
+m

@@ -1,0 +1,24 @@
+er is displaced. Less water is displaced so the water level of the lake drops.
+V L 0.06 m33
+r = mV L 3
+r = 1000 kgm3
+L 3
+L 1
+3
+L 3
+CONCEPTUAL EXAMPLE 10;11
+EXERCISE E If you throw a flat 60-kg aluminum plate into water, the plate sinks. But if
+that aluminum is shaped into a rowboat, it floats. Explain.
+10–8 Fluids in Motion; Flow Rate
+and the Equation of Continuity
+We now turn to the subject of fluids in motion, which is called fluid dynamics, or
+(especially if the fluid is water) hydrodynamics.
+We can distinguish two main types of fluid flow. If the flow is smooth, such that
+neighboring layers of the fluid slide by each other smoothly, the flow is said to be
+streamline or laminar flow.† In streamline flow, each particle of the fluid follows a
+smooth path, called a streamline, and these paths do not cross one another (Fig.10–18a).
+†The word laminar means “in layers.”
+P H Y S I C S  A P P L I E D
+Continental drift—plate tectonics
+SECTION 10–8
+Fluids in Motion; Flow Rate and the Equat

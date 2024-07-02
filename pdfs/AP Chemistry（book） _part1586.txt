@@ -1,0 +1,42 @@
+lications of the Ideal-Gas Equation  
+407
+10.5 ∣  
+Further Applications of the  
+Ideal-Gas Equation
+In this section, we use the ideal-gas equation first to define the relationship between the 
+density of a gas and its molar mass, and then to calculate the volumes of gases formed or 
+consumed in chemical reactions.
+Gas Densities and Molar Mass
+Recall that density has units of mass per unit volume 1d = m>V2.  
+ (Section 1.5) We 
+can arrange the ideal-gas equation to obtain similar units of moles per unit volume:
+n
+V =
+P
+RT
+If we multiply both sides of this equation by the molar mass, ℳ, which is the number of 
+grams in 1 mol of a substance  
+ (Section 3.4), we obtain
+ 
+nℳ
+V
+= Pℳ
+RT  
+[10.9]
+The term on the left equals the density in grams per liter:
+moles
+liter
+*
+grams
+mole =
+grams
+liter
+Thus, the density of the gas is also given by the expression on the right in Equation 10.9:
+ 
+d = nℳ
+V
+= Pℳ
+RT  
+[10.10]
+This equation tells us that the density of a gas depends on its pressure, molar 
+m

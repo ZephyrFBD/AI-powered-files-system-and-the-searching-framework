@@ -1,0 +1,84 @@
+the inner radius).
+When calculation is difficult, I can be determined experimentally by measuring
+the angular acceleration 
+about a fixed axis due to a known net torque,
+and
+applying Newton’s second law,
+Eq. 8–14.
+8–6 Solving Problems in 
+Rotational Dynamics
+When working with torque and angular acceleration (Eq. 8–14), it is important to
+use a consistent set of units, which in SI is:
+in 
+in 
+and the moment
+of inertia, I, in kgm2.
+mN;
+t
+rads2;
+a
+I = ©ta,
+©t,
+a
+©mr2 = (©m)R2 = MR2,
+©mr2,
+210
+CHAPTER 8
+Rotational Motion
+Axis
+Axis
+Object
+Moment of
+inertia
+Location
+of axis
+Thin hoop,
+radius R
+Thin hoop,
+radius R
+width w
+Solid cylinder,
+radius R
+Long uniform rod,
+length l
+Long uniform rod,
+length l
+(a)
+(b)
+(c)
+(f)
+(g)
+Through
+center
+Through
+center
+Hollow cylinder,
+inner radius R1
+outer radius R2
+(d)
+Uniform sphere,
+radius R
+(e)
+Through
+center
+Through
+center
+Through
+central
+diameter
+Through
+center
+Through
+end
+Rectangular
+thin plate,
+length l, width w
+(h)
+Through
+center
+MR2
+MR2
+2
+1
+Mw2
+12

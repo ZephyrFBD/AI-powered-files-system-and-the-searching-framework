@@ -1,0 +1,21 @@
+ the 100 g of solution.
+solution. Let’s assume that there is exactly 100 g of solution. 
+Because the solution is 36% HCl, it contains 36 g of HCl and 
+1100 - 362 g = 64 g of H2O. We must convert grams of solute 
+(HCl) to moles to calculate either mole fraction or molality. We 
+must convert grams of solvent 1H2O2 to moles to calculate mole 
+fractions and to kilograms to calculate molality.
+ 
+SECTION 13.4   
+Expressing Solution Concentration 
+541
+A solution with a density of 0.876 g>mL contains 5.0 g of toluene 1C7H82 and 225 g of benzene. Calculate the molarity of the solution.
+Solve 
+The number of moles of solute is:
+Analyze Our goal is to calculate the molarity of a solution, given 
+the masses of solute 15.0 g2 and solvent 1225 g2 and the density of 
+the solution 10.876 g>mL2.
+Check The magnitude of our answer is reasonable. Round-
+ing moles to 0.05 and liters to 0.25 gives a molarity of 
+10.05 mol2>10.25 L2 = 0.2 M.
+The units for our answer 1mol>L2 are correct, and the answer, 0.21, 

@@ -1,0 +1,18 @@
+btraction, the result has the same number of decimal places as the 
+measurement with the fewest decimal places. When the result contains more than 
+ 
+Sample Exercise 1.6
+Assigning Appropriate Significant Figures
+The state of Colorado is listed in a road atlas as having a population of 5,546,574 and an area of 104,091 square miles. Do the 
+numbers of significant figures in these two quantities seem reasonable? If not, what seems to be wrong with them?
+SOLUTION
+The population of Colorado must vary from day to day as people 
+move in or out, are born, or die. Thus, the reported number sug-
+gests a much higher degree of accuracy than is possible. Moreover, 
+it would not be feasible to actually count every individual resident 
+in the state at any given time. Thus, the reported number sug-
+gests far greater  
+precision than is possible. A reported number of 
+5,500,000 would better reflect the actual state of knowledge.
+The area of Colorado does not normally vary from time to time, so 
+the que

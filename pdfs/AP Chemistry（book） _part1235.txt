@@ -1,0 +1,20 @@
+ce 
+between the Cs+ and I - ions in CsI. As a result, the lattice energy 
+of NaF should be greater than that of CsI. In order of increasing 
+energy, therefore, we have CsI 6 NaF 6 CaO.
+Check Table 8.1 confirms our predicted order is correct.
+304 
+CHAPTER 8 Basic Concepts of Chemical Bonding
+given type of ionic compound, lattice energy decreases as we go down a group. Figure 8.5 
+illustrates this trend for the alkali chlorides MCl (M = Li, Na, K, Rb, Cs) and the sodium 
+halides NaX 1X = F, Cl, Br, I2.
+Electron Configurations of Ions  
+of the s- and p-Block Elements
+The energetics of ionic bond formation helps explain why many ions tend to have 
+ 
+noble-gas electron configurations. For example, sodium readily loses one electron to 
+form Na+, which has the same electron configuration as Ne:
+Na   1s22s22p63s1 = 3Ne43s1
+Na+   1s22s22p6  = 3Ne4
+Even though lattice energy increases with increasing ionic charge, we never find 
+ionic compounds that contain Na2 +  ions. The second electron remov

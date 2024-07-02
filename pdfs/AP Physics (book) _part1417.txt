@@ -1,0 +1,16 @@
+es’s, or 
+Gay-Lussac’s law when either T, P, or V, respectively, is held constant.
+Finally, we must incorporate the effect of the amount of gas present. For exam-
+ple, when more air is forced into a balloon, the balloon gets bigger (Fig. 13–16).
+Indeed, careful experiments show that at constant temperature and pressure, the
+volume V of an enclosed gas increases in direct proportion to the mass m of gas
+present. Hence we write
+This proportion can be made into an equation by inserting a constant of propor-
+tionality. Experiment shows that this constant has a different value for different
+gases. However, the constant of proportionality turns out to be the same for all
+gases if, instead of the mass m, we use the number of moles.
+The “mole” is an official SI unit for the amount of substance. One mole
+(abbreviated mol) is the amount of substance that contains
+objects
+(usually atoms, molecules, or ions, etc.). This number is called Avogadro’s number,
+as discussed in Section 13–8. Its value co

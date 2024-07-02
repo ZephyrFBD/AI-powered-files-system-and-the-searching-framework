@@ -1,0 +1,25 @@
+rams per mole of the 
+substance. Because we know the sample has a mass of 
+3.50 mg = 3.50 * 10-3 g, we can calculate the molar mass by 
+dividing the number of grams in the sample by the number of 
+moles we just calculated:
+Molar mass =
+grams
+moles =
+3.50 * 10-3 g
+4.14 * 10-7 mol
+= 8.45 * 103 g>mol
+Comment Because small pressures can be measured easily and ac-
+curately, osmotic pressure measurements provide a useful way to 
+determine the molar masses of large molecules.
+ 
+▶Practice Exercise 1
+Proteins frequently form complexes in which 2, 3, 4, or 
+even more individual proteins (“monomers”) interact spe-
+cifically with each other via hydrogen bonds or electrostatic 
+interactions. The entire assembly of proteins can act as one 
+unit in solution, and this assembly is called the “quater-
+nary structure” of the protein. Suppose you discover a new 
+protein whose monomer molar mass is 25,000 g>mol. You 
+measure an osmotic pressure of 0.0916 atm at 37 °C for 7.20 g 
+of the protein in 10.00 mL 

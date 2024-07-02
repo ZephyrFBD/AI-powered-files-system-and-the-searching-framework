@@ -1,0 +1,75 @@
+ 
+and 
+have resistance.
+(c) If 
+increases, the voltage drop across 
+__________.
+(d) If 
+decreases, the current through 
+__________.
+(e) If 
+decreases, the current
+through 
+__________.
+(f) If
+decreases, the current
+through 
+__________.
+(g) If
+increases, the voltage
+drop across 
+__________.
+(h) If
+increases, the voltage
+drop across 
+__________.
+(i) If
+and 
+increase,
+__________.
+e (r = 0)
+R7
+R2, R5,
+R4
+R5
+R2
+R5
+R3
+R2
+R6
+R2
+R1
+R2
+R4
+R7
+e
+~
+A
+R7
+e.
+~
+A
+R7
+10 V
+10 V
+10 Ω
+10 Ω
+10 Ω
+FIGURE 19–42 MisConceptual Question 4.
+3. A 
+resistor is placed in series with a 
+resistor.
+The current in the 
+resistor is 10 A. If the resistors
+are swapped, how much current flows through the 
+resistor?
+(a)
+(b) 
+(c) 10 A.
+(d) Need more information about the circuit.
+4. Two identical 10-V batteries and two identical 
+resis-
+tors are placed in series as shown in Fig. 19–42. If a 
+lightbulb is connected with one end connected between
+the batteries and other end between the resistors, how
+much current will flow thro

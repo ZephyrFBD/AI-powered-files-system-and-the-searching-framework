@@ -1,0 +1,17 @@
+which is the easiest to explain, and which you find on the instrument panels of
+automobiles and other devices whose readout is via a pointer or needle.
+Galvanometer
+The basic component of analog meters (those with pointer and dial), including
+analog ammeters, voltmeters, and ohmmeters, including gauges on car dash-
+boards, is a galvanometer. We have already seen how these meters are designed 
+(Section 19–8), and now we can examine how the crucial element, a galvanometer,
+works. As shown in Fig. 20–35, a galvanometer consists of a coil of wire (with
+attached pointer) suspended in the magnetic field of a permanent magnet. When
+current flows through the loop of wire, the magnetic field B exerts a torque on
+the loop, as given by Eq. 20–10,
+This torque is opposed by a spring which exerts a torque 
+approximately
+proportional to the angle 
+through which it is turned (Hooke’s law). That is,
+where k is the stiffness constant of the spring. The coil and attached pointer
+rotate to the angle where

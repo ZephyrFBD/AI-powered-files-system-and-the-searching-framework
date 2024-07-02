@@ -1,0 +1,57 @@
+m high.
+When he strikes the ground below, he bends his knees so
+that his torso decelerates over an approximate distance of
+0.70 m. If the mass of his torso (excluding legs) is 42 kg,
+find (a) his velocity just before his feet strike the ground,
+and (b) the average force exerted on his torso by his legs
+during deceleration.
+FIGURE 4;44
+Problem 17.
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+27. (II) A train locomotive is pulling two cars of the same mass
+behind it, Fig. 4–51. Determine the ratio of the tension in
+the coupling (think of it as a cord) between the locomotive
+and the first car 
+to that between the first car and the
+second car 
+for any nonzero acceleration of the train.
+AF
+T2B,
+AF
+T1B,
+10.0°
+FIGURE 4;47 Problem 23.
+T2
+F
+B
+T1
+F
+B
+Car 2
+Car 1
+FIGURE 4;51 Problem 27.
+90°
+x
+y
+120°
+x
+y
+(a)
+(b)
+1
+2
+1
+2
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 4;52 Problem 28.
+21. (I) Draw the free-body
+diagram for a basketball
+player (a) just before leav-
+ing the ground o

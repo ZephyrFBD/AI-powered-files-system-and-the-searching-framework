@@ -1,0 +1,18 @@
+f the
+mirror, and how high must its lower edge be above the floor, if she is to be able
+to see her whole body? Assume that her eyes are 10 cm below the top of her
+head.
+APPROACH For her to see her whole body, light rays from the top of her head
+(point G) and from the bottom of her foot (A) must reflect from the mirror and
+enter her eye, Fig. 23–8. We don’t show two rays diverging from each point as we
+did in Fig. 23–7, where we wanted to find where the image is. Now that we know
+the image is the same distance behind a plane mirror as the object is in front, we
+only need to show one ray leaving point G (top of head) and one ray leaving
+point A (her toe), and then use geometry.
+SOLUTION First consider the ray that leaves her foot at A, reflects at B, and
+enters the eye at E. The mirror needs to extend no lower than B. The angle of
+reflection equals the angle of incidence, so the height BD is half of the height AE.
+Because
+then
+Similarly, if the
+woman is to see the top of her head, the to

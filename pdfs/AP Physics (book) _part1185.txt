@@ -1,0 +1,15 @@
+ if you take a picture of the wave in
+space at a given instant of time, the wave will have the shape of a sine or cosine as
+a function of position. (2) In time: if you look at the motion of the medium at one
+place over a long period of time—for example, if you look between two closely
+spaced posts of a pier or out of a ship’s porthole as water waves pass by—the
+up-and-down motion of that small segment of water will be simple harmonic
+motion. The water moves up and down sinusoidally in time.
+Some of the important quantities used to describe a periodic sinusoidal wave
+are shown in Fig. 11–24. The high points on a wave are called crests; the low points,
+troughs. The amplitude, A, is the maximum height of a crest, or depth of a trough,
+relative to the normal (or equilibrium) level. The total swing from a crest to a trough
+is 2A (twice the amplitude). The distance between two successive crests is the
+wavelength,
+(the Greek letter lambda). The wavelength is also equal to the dis-
+tance betwe

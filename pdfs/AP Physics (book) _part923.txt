@@ -1,0 +1,52 @@
+
+they are not needed. When using a torque equation, a torque that tends to rotate
+the object counterclockwise is usually considered positive, whereas a torque that
+tends to rotate it clockwise is considered negative. (But the opposite convention
+would be OK too.)
+One of the forces that acts on objects is the force of gravity. As we discussed
+in Section 7–8, we can consider the force of gravity on an object as acting at its
+center of gravity (CG) or center of mass (CM), which for practical purposes are the
+same point. For uniform symmetrically shaped objects, the CG is at the geometric
+center. For more complicated objects, the CG can be determined as discussed 
+in Section 7–8.
+Rr
+F
+P.
+r
+R =
+F
+P
+mg
+.
+mgr = F
+PR
+F
+P
+Rr
+F
+P
+F
+P
+CONCEPTUAL EXAMPLE 9;3
+©t = 0
+(v = 0),
+a,
+©t = 0.
+©t = Ia,
+SECTION 9–2
+Solving Statics Problems
+233
+C A U T I O N
+Axis choice for
+is arbitrary.
+All torques must be calculated 
+about the same axis.
+©t = 0
+r
+R
+FP
+B
+mg
+B
+FIGURE 9–6 Example 9–3. A lever
+can “multiply”

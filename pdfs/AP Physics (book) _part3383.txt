@@ -1,0 +1,22 @@
+rom the Earth long ago. Indeed, the original 
+nuclei must 
+by now have all decayed. However, because 
+decays (in several steps,
+Fig. 30–11) to 
+the supply of 
+is continually replenished, which is why
+it is still found on Earth today. The same can be said for many other radioactive
+nuclides.
+Decay chain. In the decay chain of
+Fig. 30–11, if we look at the decay of 
+we see four successive nuclides with
+half-lives of 250,000 yr, 75,000 yr, 1600 yr, and a little under 4 days. Each decay
+in the chain has an alpha particle of a characteristic energy, and so we can 
+monitor the radioactive decay rate of each nuclide. Given a sample that was 
+pure 
+a million years ago, which alpha decay would you expect to have the
+highest activity rate in the sample?
+RESPONSE The first instinct is to say that the process with the shortest half-
+life would show the highest activity. Surprisingly, perhaps, the activities of the
+four nuclides in this sample are all the same. The reason is that in each case the
+d

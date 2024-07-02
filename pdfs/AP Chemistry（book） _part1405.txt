@@ -1,0 +1,13 @@
+espite the fact that it has no obvious relationship to the filling and shapes of 
+atomic orbitals. For example, we would like to understand how to account for the tetra-
+hedral arrangement of C ¬H bonds in methane in terms of the 2s and 2p orbitals of the 
+central carbon atom, which are not directed toward the apices of a tetrahedron. How can 
+we reconcile the notion that covalent bonds are formed from overlap of atomic orbitals 
+with the molecular geometries that come from the VSEPR model?
+To begin with, we recall that atomic orbitals are mathematical functions that come 
+from the quantum-mechanical model for atomic structure. 
+ (Section 6.5) To explain 
+molecular geometries, we often assume that the atomic orbitals on an atom (usually the 
+central atom) mix to form new orbitals called hybrid orbitals. The shape of any hybrid 
+orbital is different from the shapes of the original atomic orbitals. The process of mixing 
+atomic orbitals is a mathematical operation called hybridization. T

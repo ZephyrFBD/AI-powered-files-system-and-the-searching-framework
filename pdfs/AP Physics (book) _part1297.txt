@@ -1,0 +1,16 @@
+f the air column. In
+others, a stream of air is directed against one edge of the opening or mouthpiece,
+leading to turbulence which sets up the vibrations. Because of the disturbance,
+whatever its source, the air within the tube vibrates with a variety of frequencies,
+but only frequencies that correspond to standing waves will persist.
+For a string fixed at both ends, Fig. 12–7, the standing waves have nodes (no
+movement) at the two ends, and one or more antinodes (large amplitude of vibration)
+in between. A node separates successive antinodes. The lowest-frequency standing
+wave, the fundamental, corresponds to a single antinode. The higher-frequency
+standing waves are called overtones or harmonics, as we saw in Section 11–12.
+Specifically, the first harmonic is the fundamental, the second harmonic
+has twice the frequency of the fundamental, and so on.
+overtone)
+(= first
+EXERCISE C How many octaves does the piano of Example 12–8 cover?
+The situation is similar for a column of air in a 

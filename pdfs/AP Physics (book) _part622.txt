@@ -1,0 +1,25 @@
+energy. We must be careful, however: gravity acts throughout the fall 
+(Fig. 6–23), whereas the elastic force does not act until the ball touches the spring
+(Fig. 6–23b). We choose y positive upward, and
+at the end of the spring in
+its natural (uncompressed) state.
+SOLUTION We divide this solution into two parts. (An alternate solution follows.)
+Part 1: Let us first consider the energy changes as the ball falls from a height
+Fig.6–23a, to
+just as it touches the spring, Fig.6–23b.
+Our system is the ball acted on by gravity plus the spring (which up to this point
+doesn’t do anything). Thus
+We solve for
+This is the speed of the ball just as it touches the top of the spring, Fig. 6–23b.
+Part 2: As the ball compresses the spring, Figs. 6–23b to c, there are two conser-
+vative forces on the ball—gravity and the spring force. So our conservation of
+energy equation is
+Substituting  
+(the ball comes to rest for an
+instant), and  
+we have
+We know m,
+and Y, so we can solve for k:
+=
+(2.60 kg)
+(0.1

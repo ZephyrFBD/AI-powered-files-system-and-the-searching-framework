@@ -1,0 +1,52 @@
+CH2
+CH2
+CH2
+CH2
+Acetic acid can also be produced by the reaction of methanol with carbon monoxide 
+in the presence of a rhodium catalyst:
+ 
++
+O
+C
+OH
+CO
+CH3OH
+catalyst
+CH3
+ 
+[24.19]
+This reaction is not an oxidation; it involves, in effect, the insertion of a carbon monoxide 
+molecule between the CH3 and OH groups. A reaction of this kind is called carbonylation.
+Carboxylic acids can undergo condensation reactions with alcohols to form esters:
+ 
+O
+C
+Acetic acid
+Ethanol
+Ethyl acetate
+HO
+O
+H2O
+CH2CH3
+CH3
+O
+C
+CH3
+CH2CH3
+OH
++
++
+ 
+[24.20]
+Esters are compounds in which the H atom of a carboxylic acid is replaced by a carbon- 
+containing group:
+O
+C
+O
+C
+Give It Some Thought
+What is the difference between an ether and an ester?
+The name of any ester consists of the name of the group contributed by the alco-
+hol followed by the name of the group contributed by the carboxylic acid, with the -ic 
+replaced by -ate. For example, the ester formed from ethyl alcohol, CH3CH2OH, and 
+butyric acid, CH31CH

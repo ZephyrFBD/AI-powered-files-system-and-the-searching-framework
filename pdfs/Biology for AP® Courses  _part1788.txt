@@ -1,0 +1,13 @@
+ will be detected
+for longer periods of time in the cytoplasm.
+Binding of proteins to the RNA can influence its stability. Proteins, called RNA-binding proteins, or RBPs, can bind to
+the regions of the RNA just upstream or downstream of the protein-coding region. These regions in the RNA that are not
+translated into protein are called the untranslated regions, or UTRs. They are not introns (those have been removed in the
+nucleus). Rather, these are regions that regulate mRNA localization, stability, and protein translation. The region just before
+the protein-coding region is called the 5' UTR, whereas the region after the coding region is called the 3' UTR (Figure
+16.13). The binding of RBPs to these regions can increase or decrease the stability of an RNA molecule, depending on the
+specific RBP that binds.
+656
+Chapter 16 | Gene Regulation
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 16.13 The protein-coding region of mRNA is flanked by 5' and 

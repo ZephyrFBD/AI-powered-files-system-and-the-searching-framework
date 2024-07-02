@@ -1,0 +1,14 @@
+ny loops of thin wire
+that serve as a sensing coil. Under normal conditions (no ground fault), the current
+moving in the hot power wire is exactly balanced by the returning current in the
+neutral wire. If something goes wrong and the hot wire touches the ungrounded
+metal case of the device or appliance, some of the entering current can pass through
+a person who touches the case and then to ground (a ground fault).Then the return
+current in the neutral wire will be less than the entering current in the hot wire, so
+there is a net current passing through the GFCI’s iron ring. Because the current 
+is ac, it is changing and that current difference produces a changing magnetic field
+in the iron, thus inducing an emf in the sensing coil wrapped around the iron. For
+example, if a device draws 8.0 A, and there is a ground fault through a person of
+then 7.9 A will appear in the neutral wire. The emf induced 
+in the sensing coil by this 100-mA difference is amplified by a simple transistor
+circu

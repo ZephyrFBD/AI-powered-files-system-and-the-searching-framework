@@ -1,0 +1,47 @@
+first shell. This 
+arrangement represents a very stable configuration, as is evidenced by the chemical 
+inertness of helium.
+Lithium The electron configurations of lithium and several elements that follow it in 
+the periodic table are shown in Table 6.3. For the third electron of lithium, the change 
+TABLE 6.3 Electron Configurations of Several Lighter Elements
+Element
+Total Electrons
+Orbital Diagram
+Electron Configuration
+1s
+2s
+2p
+3s
+Li
+ 3
+1s22s1
+Be
+ 4
+1s22s2
+B
+ 5
+1s22s22p1
+C
+ 6
+1s22s22p2
+N
+ 7
+1s22s22p3
+Ne
+10
+1s22s22p6
+Na
+11
+1s22s22p63s1
+2p
+3s
+1s
+2s
+ 
+SECTION 6.8  Electron Configurations 
+239
+in the principal quantum number from n = 1 for the first two electrons to n = 2 for 
+the third electron represents a large jump in energy and a corresponding jump in the 
+average distance of the electron from the nucleus. In other words, it represents the 
+start of a new shell occupied with electrons. As you can see by examining the periodic 
+table, lithium starts a new row of the table. It is th

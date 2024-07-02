@@ -1,0 +1,71 @@
+-
+nents of a “representative” person. Of course, there are wide variations among
+people, so these data represent only a very rough average. The numbers represent
+a percentage of the total height, which is regarded as 100 units; similarly, the total
+mass is 100 units. For example, if a person is 1.70 m tall, his or her shoulder joint
+would be
+above the floor.
+(1.70 m)(81.2100) = 1.38 m
+*
+TABLE 7;1 Center of Mass of Parts of T
+ypical Human Body, given as 
+(full height and 
+)
+Distance of Hinge
+Hinge Points (•)
+Center of Mass ( ) 
+Percent 
+Points from Floor (
+)
+(Joints)
+(
+Height Above Floor)
+Mass
+%
+%
+
+mass  100 units
+%
+elbow 62.2%‡
+wrist 46.2%‡
+Head
+93.5%
+6.9%
+Trunk and neck
+71.1%
+46.1%
+Upper arms
+71.7%
+6.6%
+Lower arms
+55.3%
+4.2%
+Hands
+43.1%
+1.7%
+Upper legs (thighs)
+42.5%
+21.5%
+Lower legs
+18.2%
+9.6%
+Feet
+1.8%
+3.4%
+91.2%
+Base of skull on spine
+81.2%
+Shoulder joint
+52.1%
+Hip joint
+28.5%
+Knee joint
+4.0%
+Ankle joint
+Body CM
+58.0%
+100.0%
+‡ For arm hanging vertically.
+=
+*SECTION 7–10
+CM and T

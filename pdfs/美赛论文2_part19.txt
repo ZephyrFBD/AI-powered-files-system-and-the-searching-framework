@@ -1,0 +1,53 @@
+he λ into the following equation，
+using the MATLAB to solve the differential equation： 
+ 
+ 
+{
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dI(t)
+dt
+= λ(t)S(t)I(t) −μ(t)I(t), I(0) = I0
+dS(t)
+dt
+= −λ(t)S(t)I(t), S(0) = S0
+dλ(t)
+dt
+= aλ(t)
+dμ(t)
+dt
+= bμ(t)
+ 
+ 
+                  
+3.3.3 Solution and Result 
+Since we assume that if the peak of infective rate is under 0.2, the epidemic 
+situation can be under control, then a=-0.0055, b=0.0025. 
+From the model analysis we get the numerical result as follows. By the 
+above-mentioned can be obtained, the infection rate of Ebola virus obviously 
+slow down, after using the drugs, we also significantly curb its spread. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Team   #37232                                                              Page 9 of 22   
+Figure 4 
+ 
+ 
+3.3.4 Analysis of the Result 
+From this figure, we can see the infective rate I(t)
+（the blue line in the figure）
+and the susceptible rate(the green line in the figure) changes with time. 
+Compare with Improved ModelⅠ, drugs are taken int

@@ -1,0 +1,21 @@
+10 mol, calculate Kc for each system.
+Sample Exercise 15.3
+ Interpreting the Magnitude of an Equilibrium Constant
+SOLUTION
+Analyze We are asked to judge the relative magnitudes of three 
+equilibrium constants and then to calculate them.
+Plan (a) The more product present at equilibrium, relative to re-
+actant, the larger the equilibrium constant. (b) The equilibrium 
+constant is given by Equation 15.8.
+Solve
+(a) Each box contains 10 spheres. The amount of product in each 
+varies as follows: (i) 6, (ii) 1, (iii) 8. Therefore, the equilibrium 
+constant varies in the order (ii) 6  (i) 6  (iii), from smallest 
+(most reactants) to largest (most products).
+(b) In (i), we have 0.60 mol>L product and 0.40 mol>L re-
+actant, giving Kc = 0.60>0.40 = 1.5. (You will get the 
+same result by merely dividing the number of spheres of 
+each kind: 6 spheres>4 spheres = 1.5.) In (ii), we have 
+0.10 mol>L product and 0.90 mol>L reactant, giving 
+Kc = 0.10>0.90 = 0.11 (or 1 sphere>9 spheres = 0.11). In 
+(iii

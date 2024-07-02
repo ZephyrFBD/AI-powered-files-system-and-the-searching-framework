@@ -1,0 +1,18 @@
+o a few hundred ohms.
+Electric energy is transformed into thermal energy or light in such devices,
+and there are many collisions between the moving electrons and the atoms of the
+wire. In each collision, part of the electron’s kinetic energy is transferred to the
+atom with which it collides. As a result, the kinetic energy of the wire’s atoms
+increases and hence the temperature (Section 13–9) of the wire element increases.
+The increased thermal energy can be transferred as heat by conduction and
+convection to the air in a heater or to food in a pan, by radiation to bread in a
+toaster, or radiated as light.
+FIGURE 18–16 Hot electric stove
+burner glows because of energy
+transformed by electric current.
+FIGURE 18–15 A thermistor only
+13 mm long, shown next to a
+millimeter ruler.
+To find the power transformed by an electric device, recall that the energy
+transformed when a charge Q moves through a potential difference V is QV
+(Eq. 17–3). Then the power P, which is the rate energy is transf

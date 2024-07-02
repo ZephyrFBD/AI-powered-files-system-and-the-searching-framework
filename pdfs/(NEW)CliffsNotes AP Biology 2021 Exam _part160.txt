@@ -1,0 +1,14 @@
+
+You should recognize that no light is directly used in the Calvin cycle. Thus, these reactions are often called the
+light-independent reactions or even the dark reactions. But be careful—the Calvin cycle occurs in the presence of
+light. This is because it is dependent upon the energy from ATP and NADPH, and these two energy-rich molecules
+can be created only during photophosphorylation, which can occur only in light.
+In summary, the Calvin cycle takes CO2from the atmosphere and the
+energy in ATP and NADPH to create a glucose molecule. Of course, the energy in ATP and NADPH represents
+energy from the sun captured during photophosphorylation. The Calvin cycle can be informally summarized as
+follows:
+6 CO2+ 18 ATP + 12 NADPH → 18 ADP + 12 NADP+ + 1 glucose
+Chloroplasts
+Chloroplasts are the sites where both the light-dependent and lightindependent reactions of photosynthesis occur.
+Chloroplasts consist of the following areas (Figure 5-2):
+1. Outer membrane. This membrane, like the plasma 

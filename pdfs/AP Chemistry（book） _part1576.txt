@@ -1,0 +1,25 @@
+rs, respectively. However, other units can be used. In countries other 
+than the United States, the pascal is the most commonly used unit for pressure. Table 10.2 
+shows the numerical value for R in various units. In working with the ideal-gas equation, 
+you must choose the form of R in which the units agree with the units of P, V, n, and T 
+given in the problem. In this chapter, we will most often use R = 0.08206 L@atm>mol@K 
+because pressure is most often given in atmospheres.
+Suppose we have 1.000 mol of an ideal gas at 1.000 atm and 0.00 °C 1273.15 K2. 
+According to the ideal-gas equation, the volume of the gas is
+V = nRT
+P
+=
+11.000 mol210.08206 L@atm>mol@K21273.15 K2
+1.000 atm
+= 22.41 L
+The conditions 0 °C and 1 atm are referred to as standard temperature and pressure 
+(STP). The volume occupied by 1 mol of ideal gas at STP
+, 22.41 L, is known as the molar 
+volume of an ideal gas at STP
+.
+TABLE 10.2 Numerical Values  
+of the Gas Constant R in 
+Various Units
+Units
+Numerical Value
+L

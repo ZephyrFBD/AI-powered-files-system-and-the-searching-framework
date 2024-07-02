@@ -1,0 +1,37 @@
+
+f
+*
+10–2 nm
+10–10 m A= 10–1 nmB.
+10–6 m A= 103 nmB,
+734
+CHAPTER 25
+Optical Instruments
+FIGURE 25–37 This X-ray
+diffraction pattern is one of the first
+observed by Max von Laue in 1912
+when he aimed a beam of X-rays at
+a zinc sulfide crystal. The diffraction
+pattern was detected directly on a
+photographic plate.
+FIGURE 25–38 X-ray diffraction by
+a crystal.
+d
+I
+II
+d sin f
+f
+ff
+f
+FIGURE 25–39 X-rays can be
+diffracted from many possible planes
+within a crystal.
+EXERCISE G When X-rays of wavelength 
+are scattered from a sodium
+chloride crystal, a second-order diffraction peak is observed at 21°. What is the spacing
+between the planes of atoms for this scattering?
+Actual X-ray diffraction patterns are quite complicated. First of all, a crystal
+is a three-dimensional object, and X-rays can be diffracted from different planes
+at different angles within the crystal, as shown in Fig. 25–39. Although the analysis
+is complex, a great deal can be learned from X-ray diffraction about any sub-
+stanc

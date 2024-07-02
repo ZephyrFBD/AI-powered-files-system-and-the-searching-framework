@@ -1,0 +1,30 @@
+-
+ometry. When, however, one or more domains involve nonbonding pairs of electrons, we 
+must remember that the molecular geometry involves only electron domains due to bonds even 
+though the nonbonding pairs contribute to the electron-domain geometry.
+Give It Some Thought
+Suppose a particular AB3 molecule has the resonance structure
+Does this structure follow the octet rule? How many electron domains are there 
+around the A atom?
+A
+B
+B
+B
+N
+H
+H
+H
+Bonding pairs
+Nonbonding pair
+344 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+How to Predict the Shapes of Molecules and Ions Using the VSEPR Model
+ 
+1. Draw the Lewis structure of the molecule or ion 
+ (Section 8.5), and count the 
+number of electron domains around the central atom. Each nonbonding elec-
+tron pair, each single bond, each double bond, and each triple bond counts as one 
+electron domain.
+ 
+2. Determine the electron-domain geometry by arranging the electron domains about the 
+central atom so that the repulsions among them 

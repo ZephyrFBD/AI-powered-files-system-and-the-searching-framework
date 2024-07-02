@@ -1,0 +1,34 @@
+ined  
+to 4.50 atm? 
+(a) 52.1% (b) 37.2% (c) 32.1% (d) 4.68% (e) 27.4%
+ 
+▶Practice Exercise 2
+Calculate the ratio of the effusion rates of N2 gas and O2 gas.
+ 
+ 
+SECTION 10.8  Molecular Effusion and Diffusion 
+417
+the same temperature and pressure in two containers with identical pinholes. If the rates 
+of effusion of the two gases are r1 and r2 and their molar masses are ℳ1 and ℳ2, Graham’s 
+law states that
+ 
+r1
+r2
+= A
+ℳ2
+ℳ1
+ 
+[10.22]
+a relationship that indicates that the lighter gas has the higher effusion rate.
+The only way for a molecule to escape from its container is for it to “hit” the hole in 
+the partitioning wall of Figure 10.14. The faster the molecules are moving, the more often 
+they hit the partition wall and the greater the likelihood that a molecule will hit the hole 
+and effuse. This implies that the rate of effusion is directly proportional to the rms speed 
+of the molecules. Because R and T are constant, we have, from Equation 10.22
+ 
+r1
+r2
+= urms1
+urms2
+= A
+3RT>ℳ1

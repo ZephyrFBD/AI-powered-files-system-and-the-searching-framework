@@ -1,0 +1,15 @@
+omes hot as well,
+even though it is not directly in contact with the source of heat. We say that heat
+has been conducted from the hot end to the cold end.
+Heat conduction in many materials can be visualized as being carried out via
+molecular collisions. As one end of an object is heated, the molecules there move
+faster and faster (
+higher temperature). As these faster molecules collide with
+slower-moving neighbors, they transfer some of their kinetic energy to them,
+which in turn transfer some energy by collision with molecules still farther along
+the object. Thus the kinetic energy of thermal motion is transferred by molecular
+collision along the object. In metals, collisions of free electrons are mainly responsi-
+ble for conduction. Conduction between objects in physical contact occurs similarly.
+Heat conduction from one point to another takes place only if there is a dif-
+ference in temperature between the two points. Indeed, it is found experimentally
+that the rate of heat flow thr

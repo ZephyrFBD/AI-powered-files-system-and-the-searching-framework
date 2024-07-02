@@ -1,0 +1,19 @@
+Exercise 2
+(a) A laser used in orthopedic spine surgery produces radia-
+tion with a wavelength of 2.10 mm. Calculate the frequency 
+of this radiation. (b) An FM radio station broadcasts electro-
+magnetic radiation at a frequency of 103.4 MHz (megahertz; 
+1 MHz = 106 s - 1). Calculate the wavelength of this radiation. 
+The speed of light is 2.998 * 108 m>s to four significant 
+figures.
+SOLUTION
+Analyze We are given the wavelength, l, of the radiation and asked 
+to calculate its frequency, n.
+Plan The relationship between the wavelength and the frequency 
+is given by Equation 6.1. We can solve for n and use the values 
+of l and c to obtain a numerical answer. (The speed of light, c, is 
+3.00 * 108 m>s  to three significant figures.)
+Solve Solving Equation 6.1 for frequency gives n = c>l. When we 
+insert the values for c and l, we note that the units of length in these 
+two quantities are different. We use a conversion factor to convert 
+the wavelength from nanometers to meters, so the un

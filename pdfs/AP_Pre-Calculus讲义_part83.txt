@@ -1,0 +1,47 @@
+ a tan kx have period π/k. 
+Thus one complete period of the graphs of these functions occurs on any interval of length  
+π/k. 
+To sketch a complete period of these graphs, it’s convenient to select an interval between 
+vertical asymptotes. 
+To graph one period of y = a tan kx, an appropriate interval is 
+,
+.
+2
+2
+k
+k
+p
+p
+æ
+ö
+-
+ç
+÷
+è
+ø  
+ 
+Example 1 
+Sketch the graph of each function. 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+124 
+3.5 Inverse Trigonometric Functions 
+3.5.1 Inverse Trigonometric Functions 
+The inverse of a function f is a function f-1 that reverses the rule of f. 
+For a function to have an inverse, it must be one-to-one. Since the trigonometric functions 
+are not one-to-one, they do not have inverses. 
+It is possible, however, to restrict the domains of the trigonometric functions in such a way 
+that the resulting functions are one-to-one. 
+ 
+3.5.2 The Inverse Sine Function 
+Let's first consider the sine function. There are many ways to restrict the domain of sine so 
+that the new

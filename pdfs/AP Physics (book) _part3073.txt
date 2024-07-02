@@ -1,0 +1,19 @@
+ones—those that have nodes at the
+ends—are sustained. These are the resonant modes of the string. Waves with
+other wavelengths interfere with themselves upon reflection and their amplitudes
+quickly drop to zero. With electrons moving in circles, according to Bohr’s theory,
+de Broglie argued that the electron wave was a circular standing wave that closes
+on itself, Fig. 27–30a. If the wavelength of a wave does not close on itself, as in 
+Fig. 27–30b, destructive interference takes place as the wave travels around the
+loop, and the wave quickly dies out. Thus, the only waves that persist are those for
+which the circumference of the circular orbit contains a whole number of wave-
+lengths, Fig. 27–31. The circumference of a Bohr orbit of radius 
+is 
+so to
+have constructive interference, we need
+When we substitute 
+we get 
+or
+This is just the quantum condition proposed by Bohr on an ad hoc basis, Eq. 27–11.
+It is from this equation that the discrete orbits and energy levels were derived.
+mv

@@ -1,0 +1,13 @@
+code for blood type: sequence A, sequence B, and
+sequence O. Because all diploid human cells have two copies of the chromosome that determines blood type, the blood type
+Chapter 10 | Cell Reproduction
+405
+(the trait) is determined by which two versions of the marker gene are inherited. It is possible to have two copies of the
+same gene sequence on both homologous chromosomes, with one on each (for example, AA, BB, or OO), or two different
+sequences, such as AB.
+Minor variations of traits, such as blood type, eye color, and handedness, contribute to the natural variation found within
+a species. However, if the entire DNA sequence from any pair of human homologous chromosomes is compared, the
+difference is less than one percent. The sex chromosomes, X and Y, are the single exception to the rule of homologous
+chromosome uniformity: Other than a small amount of homology that is necessary to accurately produce gametes, the genes
+found on the X and Y chromosomes are different.
+Eukaryotic Chr

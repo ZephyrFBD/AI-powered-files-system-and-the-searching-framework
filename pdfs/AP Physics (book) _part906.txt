@@ -1,0 +1,45 @@
+aterwheel to
+make one revolution every
+5.5 s, how much power is
+delivered to the wheel?
+v2 = 3.8 ms.
+v1 = 7.0 ms
+R = 3.0 m
+( 1025 kg)
+( 106 km)
+6.96 * 108 m
+1.99 * 1030 kg,
+r  123 m
+F  285 N
+FIGURE 8;65
+Problem 93.
+F
+B
+92. The Moon orbits the Earth such that the same side always
+faces the Earth. Determine the ratio of the Moon’s spin
+angular momentum (about its own axis) to its orbital angu-
+lar momentum. (In the latter case, treat the Moon as a
+particle orbiting the Earth.)
+93. A spherical asteroid with radius 
+and mass
+rotates about an axis at four revolu-
+tions per day. A “tug” spaceship
+attaches itself to the asteroid’s
+south pole (as defined by the
+axis of rotation) and fires
+its engine, applying a
+force F tangentially to
+the asteroid’s surface as
+shown in Fig. 8–65. If
+how long
+will it take the tug to
+rotate 
+the 
+asteroid’s
+axis of rotation through
+an angle of 5.0° by this
+method?
+F = 285 N,
+M = 2.25 * 1010 kg
+r = 123 m
+96. The radius of the roll of paper shown in Fig. 8–6

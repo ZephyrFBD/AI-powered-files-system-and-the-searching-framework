@@ -1,0 +1,36 @@
+ 
+Defines enthalpy
+t w = -P ∆V  
+[5.7] 
+The work done by an expanding gas at constant pressure
+t ∆H = ∆E + P ∆V = qP  
+[5.9] 
+Enthalpy change at constant pressure
+t q = Cs * m * ∆T  
+[5.21] 
+ 
+Heat gained or lost based on specific heat, mass, and temperature 
+change
+t qrxn = -Ccal * ∆T  
+[5.23] 
+Heat exchanged between a reaction and calorimeter
+t ∆H°
+rxn = Σn∆Hf°1products2 - Σm∆Hf°1reactants2  
+[5.31] 
+Standard enthalpy change of a reaction
+t ∆Hrxn = (bond enthalpies of bonds broken) -   
+ 
+The reaction enthalpy as a function of average bond enthalpies for 
+    (bond enthalpies of bonds formed)  
+[5.32] 
+reactions involving gas-phase molecules.
+202 
+CHAPTER 5 Thermochemistry
+ 
+5.3 Consider the accompanying energy diagram. (a) Does this 
+diagram represent an increase or decrease in the internal en-
+ergy of the system? (b) What sign is given to ∆E for this pro-
+cess? (c) If there is no work associated with the process, is it 
+exothermic or endothermic? [Section 5.2]
+Reactants
+Produ

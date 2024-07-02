@@ -1,0 +1,10 @@
+es and ends up in separate gametes.
+Thus one Y and one R end up in a single gamete. All segregation possibilities produce gametes that are YR. For the
+second plant, there is also only one kind of gamete produced, yr. The next step is to determine the different ways
+that the gametes from one parent can combine with the gametes from the second parent. Usually you would make a
+Punnett square for this, but since each parent has only one kind of gamete, you can quickly conclude, without a
+Punnett square, that all the F1offspring will result from the union of a YR gamete and a yr gamete. The result of that
+union produces individuals that have the genotype YyRr, which bears the phenotype yellow and round.
+Now, analyze the F2generation produced by YyRr × YyRr. Each parent can
+produce four kinds of gametes: YR, Yr, yR, and yr. The Punnett square, illustrated in Figure 8-5, shows the gametes
+of one parent in spaces on the top line and the gametes of the second parent in spaces along the left mar

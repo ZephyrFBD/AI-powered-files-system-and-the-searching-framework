@@ -1,0 +1,10 @@
+e. DNA barcoding is one molecular genetic method, which takes
+advantage of rapid evolution in a mitochondrial gene present in eukaryotes, excepting the plants, to identify species
+using the sequence of portions of the gene. Plants may be barcoded using a combination of chloroplast genes. Rapid
+mass sequencing machines make the molecular genetics portion of the work relatively inexpensive and quick. Computer
+resources store and make available the large volumes of data. Projects are currently underway to use DNA barcoding to
+catalog museum specimens, which have already been named and studied, as well as testing the method on less studied
+groups. As of mid 2012, close to 150,000 named species had been barcoded. Early studies suggest there are significant
+numbers of undescribed species that looked too much like sibling species to previously be recognized as different. These
+now can be identified with DNA barcoding.
+Numerous computer databases now provide information about named species and

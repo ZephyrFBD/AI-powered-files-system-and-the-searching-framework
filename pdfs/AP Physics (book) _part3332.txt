@@ -1,0 +1,19 @@
+utrons thus has 
+and 
+The
+neutron number N is
+To specify a given nuclide, we need give only A and Z. A special symbol is
+commonly used which takes the form
+where X is the chemical symbol for the element (see Appendix B, and the Periodic
+Table inside the back cover), A is the atomic mass number, and Z is the atomic
+number. For example,
+means a nitrogen nucleus containing 7 protons and 
+8 neutrons for a total of 15 nucleons. In a neutral atom, the number of electrons
+orbiting the nucleus is equal to the atomic number Z (since the charge on an
+electron has the same magnitude but opposite sign to that of a proton). The main
+properties of an atom, and how it interacts with other atoms, are largely deter-
+mined by the number of electrons. Hence Z determines what kind of atom it is:
+carbon, oxygen, gold, or whatever. It is redundant to specify both the symbol of 
+a nucleus and its atomic number Z as described above. If the nucleus is nitrogen,
+for example, we know immediately that 
+The subscr

@@ -1,0 +1,39 @@
+ each experiment the population was initially
+heterozygous.
+Number of females x Number of males
+waa
+1 x 1
+0
+10 x 10
+0.06
+50 x 50
+0.11
+150 x 150
+0.46
+Table 36.3
+C. Apply Haldane’s approach to calculate the probability
+p in the first generation after mating 150 female and 150
+male flies that are heterozygous using wAA = wAa = 1.
+Rendel (Evolution, 5, 1951) conducted an investigation of
+the dependence of fecundity (fertility) on light in ebony-
+eyed D. melanogaster. A summary of some of the data that
+he reported is shown in the table below:
+Chapter 36 | Population and Community Ecology
+1681
+Fraction females inseminated
+Phenotype of male
+Light condition
+Dark condition
+Ebony
+0.215
+0.607
+Wild type
+0.494
+0.466
+Table 36.4
+D. Pose two scientific questions concerning the
+behavioral response indicated by the data that can be
+tested experimentally.
+E. Is there a question you can add here to wrap up this set
+with this LO from the list? In this case “light” is the single
+environmental factor, and th

@@ -1,0 +1,20 @@
+an can be done with visible light 11000*2, 
+because the wavelength of the electrons is so much smaller than the wavelength of 
+visible light.
+Sample Exercise 6.5 
+Matter Waves
+What is the wavelength of an electron moving with a speed of 5.97 * 106 m>s? The mass of the electron is 9.11 * 10 - 31 kg.
+SOLUTION
+Analyze We are given the mass, m, and velocity, v, of the electron, 
+and we must calculate its de Broglie wavelength, l.
+Plan The wavelength of a moving particle is given by Equation 6.8, 
+so l is calculated by inserting the known quantities h, m, and v. In 
+doing so, however, we must pay attention to units.
+Comment By comparing this value with the wavelengths of elec-
+tromagnetic radiation shown in Figure 6.4, we see that the wave-
+length of this electron is about the same as that of X rays.
+ 
+▶Practice Exercise 1
+Consider the following three moving objects: (i) a golf ball 
+with a mass of 45.9 g moving at a speed of 50.0 m>s, (ii) An 
+electron moving at a speed of 3.50 * 105 m>s, 

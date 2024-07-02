@@ -1,0 +1,21 @@
+ives
+(28;2)
+This form of the uncertainty principle tells us that the energy of an object can be
+uncertain (or can be interpreted as briefly nonconserved) by an amount 
+for a
+time
+The quantity 
+appears so often in quantum mechanics that for conven-
+ience it is given the symbol 
+(“h-bar”). That is,
+By using this notation, Eqs. 28–1 and 28–2 for the uncertainty principle can be
+written
+and
+We have been discussing the position and velocity of an electron as if it were
+a particle. But it isn’t simply a particle. Indeed, we have the uncertainty principle
+because an electron—and matter in general—has wave as well as particle prop-
+erties. What the uncertainty principle really tells us is that if we insist on thinking
+of the electron as a particle, then there are certain limitations on this simplified
+view—namely, that the position and velocity cannot both be known precisely at
+the same time; and even that the electron does not have a precise position and
+momentum at the same time (because it 

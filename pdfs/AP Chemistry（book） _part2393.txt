@@ -1,0 +1,19 @@
+ing Chemical Equation stoichiometry  
+and Equilibrium Constants
+There are many ways to write a balanced chemical equation for a given reaction. For 
+example, if we multiply Equation 15.1, N2O41g2 ∆ 2 NO21g2 by 2, we have
+ 
+2 N2O41g2 ∆ 4 NO21g2 
+This chemical equation is balanced and might be written this way in some contexts. 
+Therefore, the equilibrium-constant expression for this equation is
+ 
+Kc =
+3NO244
+3N2O442 
+which is the square of the equilibrium-constant expression given in Equation 15.10 for 
+the reaction as written in Equation 15.1: 3NO242>3N2O44. Because the new equilibrium- 
+constant expression equals the original expression squared, the new equilibrium con-
+stant Kc equals the original constant squared: 0.2122 = 0.0449 1at 100 °C2. Once again, it 
+is important to remember that you must relate each equilibrium constant you work with 
+to a specific balanced chemical equation. The concentrations of the substances in the equilib-
+rium mixture will be the same no matter how yo

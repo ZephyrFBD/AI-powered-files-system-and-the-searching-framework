@@ -1,0 +1,18 @@
+
+in many countries) which makes the “moving picture.” To form one frame, each
+subpixel must have the correct brightness. We now describe one way of doing this.
+The brightness of each LCD subpixel (Section 24–11) depends on the voltage
+between its front and its back: if this voltage 
+is zero, that subpixel is at maximum
+brightness; if 
+is at its maximum (which might be 
+volts), that subpixel is dark.
+Giving the correct voltage (to provide the correct brightness) is called
+addressing the subpixel. Typically the front of the subpixel is maintained at a 
+positive voltage, such as 
+. On the back of the display, the voltage at each
+subpixel is provided at the intersection of the 1080 horizontal wires (rows) and
+vertical wires (columns). See Fig.17–33,which shows the
+array, or matrix, of wires. Each intersection of one vertical and one horizontal wire
+lies behind one subpixel. Because many frames are shown per second, the signal
+voltages applied are brief, like a pulse (see Fig. 17-22b or 11–

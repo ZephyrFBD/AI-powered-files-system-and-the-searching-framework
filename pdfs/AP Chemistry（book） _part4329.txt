@@ -1,0 +1,23 @@
+ormal boiling point The boiling point at 1 atm pressure. 
+(Section 11.5)
+normal melting point The melting point at 1 atm pressure. 
+(Section 11.6)
+nuclear binding energy The energy required to decompose 
+an atomic nucleus into its component protons and neutrons. 
+(Section 21.6)
+nuclear disintegration series A series of nuclear reactions that 
+begins with an unstable nucleus and terminates with a stable 
+one; also called a radioactive series. (Section 21.2)
+nuclear model Model of the atom with a very small and 
+extremely dense nucleus containing most of the mass (protons 
+and neutrons) and with electrons in the space outside the 
+nucleus. (Section 2.2)
+nuclear reaction Reaction in which transformations of atomic 
+nuclei occur.  
+(Chapter 21: Introduction)
+nuclear transmutation A conversion of one kind of nucleus to 
+another. (Section 21.3)
+nucleic acids Polymers of high molecular weight that 
+carry genetic information and control protein synthesis. 
+(Section 24.10)
+nucleon Particles fou

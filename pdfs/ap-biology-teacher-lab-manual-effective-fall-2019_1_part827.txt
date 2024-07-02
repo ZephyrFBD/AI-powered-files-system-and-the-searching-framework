@@ -1,0 +1,18 @@
+ to have some 
+additional details. 
+Appendix B A7 
+APPENDIX B
+ 
+  
+In Figure A.6 the additional information has been supplied, information that seems to 
+make the graph more useful to us in preparing for the exam. 
+Figure A.6: Relation Between Study Time and Score on a Biology Exam in 2011 
+This additional information includes scales, or axes, that are carefully marked with 
+numbers, and labels and units that are neatly presented. Obviously, one cannot label all 
+the points along the axes; that would make the numbers crowd together and look sloppy. 
+The units should be marked at intervals that correspond more or less to the intervals 
+between the experimental points. The small marks, called index marks, can be drawn in 
+if the experimental points are very widely spaced. Most elegantly, a frame is put around 
+the whole graph, and index marks are placed all around. This makes it easy to lay a ruler 
+across the graph when interpolating between the experimental points. The diagram in 
+Figu

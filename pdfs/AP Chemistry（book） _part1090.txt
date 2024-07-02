@@ -1,0 +1,21 @@
+nce, electrons simultaneously 
+migrate from anode to cathode through 
+an external circuit, thereby producing 
+electricity.
+At the cathode, lithium ions then in-
+sert in the oxide material. Again, the small 
+size of lithium ions is an advantage. For 
+every lithium ion that inserts into the lith-
+ium cobalt oxide cathode, a Co4 + ion is 
+reduced to a Co3 +  ion by an electron that 
+has traveled through the external circuit.
+The ion migration and the changes 
+in structure that result when lithium 
+ions enter and leave the electrode materials are complicated. Fur-
+thermore, the operation of all batteries generate heat because they 
+are not perfectly efficient. In the case of Li-ion batteries, the heating 
+of the separator material (typically a polymer) has led to problems as 
+the size of the batteries has been scaled larger to increase energy ca-
+pacity. In a very small number of cases, overheating of Li-ion batter-
+ies has caused the batteries to catch fire.
+Teams worldwide are trying to 

@@ -1,0 +1,19 @@
+ative phosphorylation.
+REVIEW OF GLUCOSE CATABOLISM
+It is important to understand how all of the previously described events
+are interrelated. The following diagram depicts a eukaryotic cell with a
+mitochondrion magnified for detail.
+To calculate the net amount of ATP produced per molecule of glucose, we
+need to tally the number of ATP produced by substrate level
+Locations of Glucose Catabolism
+phosphorylation and the number of ATP produced by oxidative
+phosphorylation.
+Substrate Level Phosphorylation
+Degradation of one glucose molecule yields a net of 2 ATP from glycolysis
+and 1 ATP for each turn of the citric acid cycle with two turns per glucose.
+Thus, a total of 4 ATP are produced by substrate level phosphorylation.
+Oxidative Phosphorylation
+Two pyruvate decarboxylations yield 1 NADH each for a total of 2 NADH
+per glucose. Each turn of the citric acid cycle yields 3 NADH and 1 FADH2,
+for a total of 6 NADH and 2 FADH2 per glucose molecule. Each FADH2
+generates 2 ATP, as previously d

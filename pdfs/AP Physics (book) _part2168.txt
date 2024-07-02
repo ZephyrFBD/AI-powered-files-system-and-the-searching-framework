@@ -1,0 +1,63 @@
+the charge on each
+capacitor 
+and 
+the
+potential across each
+after equilibrium is
+established (Fig.19–89c).
+C2 = 1.2 mF,
+C1 = 2.2 mF
+0.20-mF
+0.45-mF
+90. Determine the current in each resistor of the circuit shown
+in Fig. 19–88.
+5.00 Ω
+6.00 Ω
+12.00
+Ω
+6.80 Ω
+12.00 V
+5.00 V
+4.00 V
+–
+–
++
++
+6.00 V
+–
++
+–
++
+FIGURE 19–88
+Problem 90.
+96. A 175-pF capacitor is connected in series with an unknown
+capacitor, and as a series combination they are connected
+to a 25.0-V battery. If the 175-pF capacitor stores 125 pC
+of charge on its plates, what is the unknown capacitance?
+97. In the circuit shown in Fig.19–93,
+and a voltage
+is applied across
+points a and b. After 
+is fully charged, the switch is thrown
+to the right. What is the final charge and potential differ-
+ence on each capacitor?
+C1
+V
+ab = 24 V
+C3 = 2.4 mF,
+C2 = 2.0 mF,
+C1 = 1.0 mF,
+C1
+S
+a
+b
+C2
+C3
+FIGURE 19–93
+Problem 97.
+93. The switch S in Fig. 19–90 is
+connected downward so that capaci-
+tor 
+becomes fully charged by the
+battery of voltage 
+I

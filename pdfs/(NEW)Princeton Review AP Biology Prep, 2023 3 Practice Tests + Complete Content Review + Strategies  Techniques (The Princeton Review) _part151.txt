@@ -1,0 +1,12 @@
+kalinity of a solution can be measured with a pH scale. The pH scale is numbered from 1 to 14. The
+midpoint, 7, is considered neutral pH. The concentration of hydrogen ions in a solution will indicate whether it is
+acidic, basic, or neutral. If a solution contains a lot of hydrogen ions, then it will be acidic and have a low pH.
+Here’s the trend:
+An increase in H+ ions causes a decrease in the pH.
+pH = –log [H+]
+One more thing to remember: the pH scale is not a linear scale—it’s logarithmic. That is, a change of one pH
+number actually represents a tenfold change in hydrogen ion concentration. For example, a pH of 3 is actually ten
+times more acidic than a pH of 4. This is also true in the reverse direction: a pH of 4 represents a tenfold decrease in
+acidity compared to a pH of 3.
+Therefore, as the concentration of H+ ions increases by a factor of 10, the pH becomes one number smaller. For
+example, stomach acid has a pH between 1 and 3, and if we use the equation, we discover that the c

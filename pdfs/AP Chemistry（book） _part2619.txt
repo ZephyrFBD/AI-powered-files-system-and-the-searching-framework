@@ -1,0 +1,15 @@
+olecule. 
+Thus, the ability of amino acids to act simultaneously as acids and 
+bases has important effects on their properties.
+Related Exercise: 16.114
+Give It Some Thought
+What feature must any molecule or ion have in order to act as a Lewis acid?
+Our emphasis throughout this chapter has been on water as the solvent and on the 
+proton as the source of acidic properties. In such cases we find the Brønsted–Lowry defi-
+nition of acids and bases to be the most useful. In fact, when we speak of a substance as 
+being acidic or basic, we are usually thinking of aqueous solutions and using these terms 
+in the Arrhenius or Brønsted–Lowry sense. The advantage of the Lewis definitions of acid 
+and base is that they allow us to treat a wider variety of reactions, including those that do 
+not involve proton transfer, as acid–base reactions. To avoid confusion, a substance such 
+as BF3 is rarely called an acid unless it is clear from the context that we are using the term 
+in the sense of the Lewi

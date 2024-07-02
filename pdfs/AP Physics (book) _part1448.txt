@@ -1,0 +1,19 @@
+even at atmospheric pressure (Fig. 13–23).
+The intersection of the three curves (in Fig. 13–22) is the triple point. For
+water this occurs at
+and
+It is only at the
+triple point that the three phases can exist together in equilibrium. Because the
+triple point corresponds to a unique value of temperature and pressure, it is pre-
+cisely reproducible and is often used as a point of reference. For example, the
+standard of temperature is usually specified as exactly 273.16 K at the triple point
+of water, rather than 273.15 K at the freezing point of water at 1 atm.
+Notice that the solid-liquid 
+curve for water (Fig. 13–22) slopes upward to
+the left. This is true only of substances that expand upon freezing: at a higher pres-
+sure, a lower temperature is needed to cause the liquid to freeze. More commonly,
+substances contract upon freezing and the 
+curve slopes upward to the right,
+as shown for carbon dioxide 
+in Fig. 13–23.
+The phase transitions we have been discussing are the common ones. S

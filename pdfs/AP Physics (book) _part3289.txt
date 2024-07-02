@@ -1,0 +1,17 @@
+e light. (Thanks to M. Vannoni
+and G. Molesini for (b).)
+LED “bulbs” are available to replace other types of lighting in applications
+such as flashlights (Fig. 29–35), street lighting, traffic signals, car brake lights, bill-
+boards, backlighting for LCD screens, and large display screens at stadiums. LED
+lights, sometimes called solid-state lighting, are longer-lived (50,000 hours vs.
+1000–2000 for ordinary bulbs), more efficient (up to 5 times), and rugged. A small
+town in Italy, Torraca, was the first to have all its street lighting be LED (2007).
+LEDs can be as small as 1 or 2 mm wide, and are individual units with wires
+connected directly to them. They can be used for large TV screens in stadiums, but
+a home TV would require much smaller LED size, meaning fabrication of many
+on a crystalline semiconductor, and the pixels would be addressed as discussed in
+Section 17–11 for LCD screens.
+Pulse Oximeter
+A pulse oximeter uses two LEDs to measure the % oxygen 
+saturation in
+your blood.

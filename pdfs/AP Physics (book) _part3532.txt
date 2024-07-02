@@ -1,0 +1,49 @@
+rom each other. Assume that the
+fragments are spherical (see Eq. 30–1) and compare your
+calculation to the nuclear fission energy released, about
+200 MeV.
+26. (III) Suppose that the neutron multiplication factor is
+1.0004. If the average time between successive fissions in a
+chain of reactions is 1.0 ms, by what factor will the reaction
+rate increase in 1.0 s?
+31–3 Nuclear Fusion
+27. (I) What is the average kinetic energy of protons at the
+center of a star where the temperature is 
+[Hint: See Eq. 13–8.]
+28. (II) Show that the energy released in the fusion reaction
+is 17.59 MeV.
+29. (II) Show that the energy released when two deuterium
+nuclei fuse to form 
+with the release of a neutron is
+3.27 MeV (Eq. 31–8b).
+2
+3He
+1
+2H + 1
+3H S 2
+4He + n
+2 * 107 K?
+ 92
+236U
+A3
+2 kT = 0.040 eVB?
+ 92
+235U
+3 * 107 J)?
+ 92
+235U
+ 92
+235U + n S
+ 51
+133Sb + 41
+98Nb + ?n.
+ 92
+235U
+ 92
+235U
+n +  92
+235U S 38
+88Sr +  54
+136Xe + 12n.
+Problems
+For assigned homework and other learning materials, go to the Masterin

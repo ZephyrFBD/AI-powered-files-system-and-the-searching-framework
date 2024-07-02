@@ -1,0 +1,34 @@
+e = 0
+1 u = 1.66 * 10–27 kg,
+AmHe = 4.00 uB
+3.60 * 104 ms
+1.01 u
+EXAMPLE 7;8
+He
+(a)
+  ′
+(b)
+  ′
+He
+p
+  p
+p
+v
+B
+v
+B
+v
+B
+FIGURE 7;15 Example 7–8:
+(a) before collision, (b) after collision.
+7–6 Inelastic Collisions
+Collisions in which kinetic energy is not conserved are called inelastic collisions.
+Some of the initial kinetic energy is transformed into other types of energy, such
+as thermal or potential energy, so the total kinetic energy after the collision is less
+than the total kinetic energy before the collision. The inverse can also happen
+when potential energy (such as chemical or nuclear) is released, in which case the
+total kinetic energy after the interaction can be greater than the initial kinetic
+energy. Explosions are examples of this type.
+Typical macroscopic collisions are inelastic, at least to some extent, and often to
+a large extent. If two objects stick together as a result of a collision, the collision
+is said to be completely inelastic. Two colliding balls of putty th

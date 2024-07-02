@@ -1,0 +1,55 @@
+half that of the battery, or 4.0 V. Thus the voltmeter, because
+of its internal resistance, gives a low reading. It is off by 0.5 V, or more than 10%.
+NOTE Often the sensitivity of a voltmeter is specified on its face as, for example,
+Then on a 5.0-V scale, the voltmeter would have a resistance given by
+The meter’s resistance depends on the scale used.
+(5.0 V)(10,000 V) = 50,000 .
+10,000 V.
+R1
+R1 = R2
+A3.0 * 10–4 ABA15 * 103 B = 4.5 V,
+R2
+A3.0 * 10–4 ABA11.5 * 103 B = 3.5 V.
+R1 ,
+I =
+8.0 V
+26.5 k = 3.0 * 10–4 A = 0.30 mA.
+30 k
+26.5 k
+R2 = 15 k,
+Req = 11.5 k
+Req = 11.5 k.
+1
+Req
+=
+1
+50 k +
+1
+15 k =
+13
+150 k ;
+Req
+R1 = 15 k,
+50,000 
+R1 .
+R1 ,
+50 k
+R2 ,
+R1
+15-k
+EXAMPLE 19;17
+Effects of Meter Resistance
+It is important to know the sensitivity of a meter, for in many cases the resistance
+of the meter can seriously affect your results. Consider the following Example.
+548
+CHAPTER 19
+DC Circuits
+Rsh
+Rser
+measured
+R to be
+G
+V
+r
+FIGURE 19–35 An ohmmeter.
+Example 19–17 illustra

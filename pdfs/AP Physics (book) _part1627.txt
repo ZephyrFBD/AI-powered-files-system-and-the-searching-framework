@@ -1,0 +1,46 @@
+Heat Engines
+421
+†Even nuclear power plants utilize steam turbines; the nuclear fuel—uranium—serves as fuel to heat
+the steam.
+Gas–air
+mixture from
+carburetor
+Intake
+valve
+(open)
+Connecting
+rod
+Exhaust
+valve
+(closed)
+Both valves
+closed
+Cylinder
+Piston
+Both valves
+closed
+Both valves
+closed
+To exhaust
+pipe
+Exhaust
+valve
+(open)
+Rings
+Spark
+plug
+(ﬁring)
+(a) Intake
+(b) Compression
+(c) Ignition
+(d) Expansion 
+     (power stroke)
+(e) Exhaust
+Crankshaft
+FIGURE 15–13 Four-stroke-cycle internal combustion engine: (a) the gasoline–air
+mixture flows into the cylinder as the piston moves down; (b) the piston moves upward 
+and compresses the gas; (c) the brief instant when firing of the spark plug ignites the 
+highly compressed gasoline–air mixture, raising it to a high temperature; (d) the gases, now 
+at high temperature and pressure, expand against the piston in this, the power stroke;
+(e) the burned gases are pushed out to the exhaust pipe. When the piston reaches the top,
+the exhaust valve close

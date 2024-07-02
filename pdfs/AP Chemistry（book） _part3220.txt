@@ -1,0 +1,23 @@
+1aq2 ¡ 4 Ag+1aq2 + 2 H2O1l2. Thus, a voltaic cell uti-
+lizing this reaction could perform a maximum of 170 kJ of work in con-
+suming 4 mol Ag, 1 mol O2, and 4 mol H+.
+If a reaction is not spontaneous, ∆G is positive and E is negative. 
+To force a nonspontaneous reaction to occur in an electrochemical 
+cell, we need to apply an external potential, Eext, that exceeds # Ecell#. 
+For example, if a nonspontaneous process has E = -0.9 V, then the 
+external potential Eext must be greater than +0.9 V in order for the 
+process to occur. We will examine such nonspontaneous processes in 
+Section 20.9.
+Electrical work can be expressed in energy units of watts times 
+time. The watt (W) is a unit of electrical power (that is, rate of energy 
+expenditure):
+1 W = 1 J>s
+Thus, a watt-second is a joule. The unit employed by electric util-
+ities is the kilowatt-hour (kWh), which equals 3.6 * 106 J:
+1 kWh = 11000 W211 h2a 3600 s
+1 h
+b a
+1 J>s
+1 W b = 3.6 * 106 J
+Related Exercises: 20.59, 20.60
+A Closer loo

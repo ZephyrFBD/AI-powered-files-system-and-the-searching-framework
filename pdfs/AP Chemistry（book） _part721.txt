@@ -1,0 +1,20 @@
+ in a system.
+Let’s consider a gas conﬁned to a cylinder with a movable  
+piston 
+of cross-sectional area A (Figure 5.13). A downward force F acts on 
+the piston. The pressure, P, on the gas is the force per area: P = F>A.  
+A Closer look Energy, Enthalpy, and P-V Work
+We assume that the piston is massless and that the only pressure act-
+ing on it is the atmospheric pressure that is due to Earth’s atmosphere, 
+which we assume to be constant.
+Suppose the gas expands and the piston moves a distance ∆h. 
+From Equation 5.1, the magnitude of the work done by the system is
+ 
+Magnitude of work = force * distance = F * ∆h 
+[5.10]
+We can rearrange the deﬁnition of pressure, P = F>A, to F = P * A. 
+The volume change, ∆V, resulting from the movement of the piston 
+is the product of the cross-sectional area of the piston and the dis-
+tance it moves: ∆V = A * ∆h. Substituting into Equation 5.10 gives
+might seem to contradict our discussion in Section 5.2, in which we said that q is not a state 
+fun

@@ -1,0 +1,16 @@
+he wave front AB
+in Fig. 24–1, which is traveling away from a source S. We assume the medium is
+isotropic—that is, the speed 
+of the waves is the same in all directions. To find
+the wave front a short time t after it is at AB, tiny circles are drawn at points
+along AB with radius 
+The centers of these tiny circles are shown as blue
+dots on the original wave front AB, and the circles represent Huygens’ (imaginary)
+wavelets. The tangent to all these wavelets, the curved line CD, is the new
+position of the wave front after a time .
+Huygens’ principle is particularly useful for analyzing what happens when
+waves run into an obstacle and the wave fronts are partially interrupted.
+Huygens’ principle predicts that waves bend in behind an obstacle, as shown in
+Fig. 24–2. This is just what water waves do, as we saw in Chapter 11 (Figs. 11–45
+and 11–46). The bending of waves behind obstacles into the “shadow region” is
+known as diffraction. Since diffraction occurs for waves, but not for particle

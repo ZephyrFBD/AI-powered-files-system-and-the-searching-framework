@@ -1,0 +1,19 @@
+ays a major role in the fight against urban 
+air pollution. Two components of automobile exhausts that help form 
+photochemical smog are nitrogen oxides and unburned hydrocarbons. 
+In addition, automobile exhaust may contain considerable quantities 
+of carbon monoxide. Even with the most careful attention to engine 
+design, it is impossible under normal driving conditions to reduce the 
+quantity of these pollutants to an acceptable level in the exhaust gases. It 
+is therefore necessary to remove them from the exhaust before they are 
+vented to the air. This removal is accomplished in the catalytic converter.
+The catalytic converter, which is part of an automobile’s 
+exhaust system, must perform two functions: (1) oxidation of CO 
+and unburned hydrocarbons 1CxHy2 to carbon dioxide and water, 
+and (2) reduction of nitrogen oxides to nitrogen gas:
+CO, CxHy ¡
+O2
+CO2 + H2O
+NO, NO2 ¡ N2 + O2
+These two functions require different catalysts, so the develop-
+ment of a successful catalyst system

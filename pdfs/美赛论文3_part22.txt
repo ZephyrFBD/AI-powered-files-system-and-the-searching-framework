@@ -1,0 +1,15 @@
+nd move in all directions
+partly. Accordingly, the move of the water in the bathtub can be dealt as “the
+model of a river”.
+(2) Heat conduction: Heat of the hot water will spread into the other part of the water
+in the bathtub, accompanied by the flow and diffusion of water naturally, leading
+to the water exchange. According to assumptions above, the height of hot water
+column almost occupies the whole water column. Therefore, we can assume that
+temperature of the same vertical line is the same, so the flow and the heat
+conduction of water which is actually three-dimensional can be seen as that of
+water on a plane.
+2.2.6 The model of draining away the warm water
+As a result, the whole process is that the continuous hot water column enters into
+the flowing water, realizing the flow and the conduction of water. At the same time,
+the same volume of cold water will run out of the bathtub through the overflow drain.
+Consequently, the total process can be regarded as “the model of draining a

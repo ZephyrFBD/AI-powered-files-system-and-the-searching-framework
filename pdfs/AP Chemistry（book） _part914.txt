@@ -1,0 +1,16 @@
+p along the way toward the 
+development of a more comprehensive model. What is most significant about Bohr’s model 
+is that it introduces two important ideas that are also incorporated into our current model:
+ 1. Electrons exist only in certain discrete energy levels, which are described by  
+ 
+quantum numbers.
+ 2. Energy is involved in the transition of an electron from one level to another.
+We will now start to develop the successor to the Bohr model, which requires that we 
+take a closer look at the behavior of matter.
+6.4 ∣ The Wave Behavior of Matter
+In the years following the development of Bohr’s model for the hydrogen atom, the 
+dual nature of radiant energy became a familiar concept. Depending on the experi-
+mental circumstances, radiation appears to have either a wave-like or a particle-like 
+(photon) character. Louis de Broglie (1892–1987), who was working on his Ph.D. the-
+sis in physics at the Sorbonne in Paris, boldly extended this idea: If radiant energy 
+could, under ap

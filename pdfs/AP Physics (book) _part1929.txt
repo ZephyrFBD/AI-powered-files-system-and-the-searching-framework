@@ -1,0 +1,43 @@
+nserved.]
+C2 ?
+C2 ,
+AC1B
+7.7-mF
+6.80-mF
+2.50-mF
+62 mC?
+0.80-mF
+1.0 cm2.
+15-mF
+kVmm
+4.2 mC
+45.0 cm2
+8.50 * 105 Vm
+15 mC
+5.00-mF
+V
+C1
+C1
+(b)
+C2
+(a)
+FIGURE 17–43
+Problems 46 and 58.
+17–8 Dielectrics
+47. (I) What is the capacitance of two square parallel plates
+6.6 cm on a side that are separated by 1.8 mm of paraffin?
+48. (I) What is the capacitance of a pair of circular plates with
+a radius of 5.0 cm separated by 2.8 mm of mica?
+49. (II) An uncharged capacitor is connected to a 21.0-V battery
+until it is fully charged, after which it is disconnected from
+the battery. A slab of paraffin is then inserted between the
+plates. What will now be the voltage between the plates?
+50. (II) A 3500-pF air-gap capacitor is connected to a 32-V
+battery. If a piece of mica is placed between the plates,
+how much charge will flow from the battery?
+51. (II) The electric field between the plates of a paper-separated
+capacitor is 
+The plates are
+1.95 mm apart, and the charge on each is 
+Determine
+the capaci

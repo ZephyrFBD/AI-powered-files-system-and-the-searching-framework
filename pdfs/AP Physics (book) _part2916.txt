@@ -1,0 +1,23 @@
+e shorthand symbol 
+(the Greek letter “gamma”), and write Eq. 26–1a as
+(26–1b)
+where
+(26–2)
+Note that 
+is never less than one, and has no units. At normal speeds,
+to
+many decimal places. In general,
+Values for 
+at a few speeds v are given in Table 26–1.
+is never less than 1.00 and exceeds 1.00 significantly only at very high speeds,
+much above let’s say 
+(for which 
+).
+The concept of time dilation may be hard to accept, for it contradicts our
+experience. We can see from Eq. 26–1 that the time dilation effect is indeed negli-
+gible unless v is reasonably close to c. If v is much less than c, then the term 
+is much smaller than the 1 in the denominator of Eq. 26–1, and then 
+(see Example 26–2). The speeds we experience in everyday life are much smaller
+than c, so it is little wonder we don’t ordinarily notice time dilation. But experiments
+that have tested the time dilation effect have confirmed Einstein’s predictions.
+In 1971, for example, extremely precise atomic clocks were flown arou

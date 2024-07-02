@@ -1,0 +1,21 @@
+order reaction A ¡ B, what 
+quantity, when graphed versus time, will yield a straight 
+line? (b) What is the slope of the straight line from part 
+(a)? (c) Does the half-life of a second-order reaction in-
+crease, decrease, or remain the same as the reaction 
+proceeds?
+ 14.41 (a) The gas-phase decomposition of SO2Cl2, SO2Cl21g2
+¡ SO21g2 + Cl21g2, is first order in SO2Cl2. At 600 K 
+the half-life for this process is 2.3 * 105s. What is the 
+rate constant at this temperature? (b) At 320 °C  the rate 
+constant is 2.2 * 10-5 s-1. What is the half-life at this 
+temperature?
+ 
+14.42 Molecular iodine, I21g2, dissociates into iodine atoms at 625 K 
+ 
+with a first-order rate constant of 0.271 s-1. (a) What is the 
+half-life for this reaction? (b) If you start with 0.050 M I2 at 
+this temperature, how much will remain after 5.12 s assum-
+ing that the iodine atoms do not recombine to form I2?
+ 14.43 As described in Exercise 14.41, the decomposition of sul-
+furyl chloride 1SO2Cl22 is a first-order

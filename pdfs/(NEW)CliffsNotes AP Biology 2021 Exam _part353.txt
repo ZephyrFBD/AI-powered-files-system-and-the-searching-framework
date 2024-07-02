@@ -1,0 +1,10 @@
+ed by the inactive repressor of the lac operon). This is accomplished by an
+activator regulatory protein, CAP, that is activated by cyclic AMP (cAMP). When glucose levels are up, cAMP
+levels are down, and the CAP activator is inactive. But when glucose is absent, cAMP levels are up, CAP is
+activated and binds to the operator, promoting RNA polymerase transcription of the enzymes that break down
+lactose. Because an activator protein is involved (CAP), this is an example of positive regulation.
+In general, repressible operons are associated with genes that regulate anabolic biochemical pathways (pathways
+that consume energy to synthesize new molecules). Inducible operons are associated with catabolic pathways
+(pathways that release energy when they break down molecules). It should also be noted that these regulatory
+processes are negative feedback mechanisms: They turn on remedial processes in response to changes in
+environmental conditions (too much or too little tryptophan or lactose, 

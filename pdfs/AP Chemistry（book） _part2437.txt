@@ -1,0 +1,25 @@
+ possible to change the pressure of a system in which a chemical reaction is run-
+ning without changing its volume. For example, pressure increases if additional amounts 
+of any reacting components are added to the system. We have already seen how to deal 
+with a change in concentration of a reactant or product. However, the total pressure in 
+the reaction vessel might also be increased by adding a gas that is not involved in the 
+equilibrium. For example, argon might be added to the ammonia equilibrium system. 
+The argon would not alter the partial pressures of any of the reacting components and 
+therefore would not cause a shift in equilibrium.
+Increase volume,
+decrease pressure
+Initial volume
+New equilibrium favors
+products to reduce total
+moles of gas.
+New equilibrium favors
+reactants to increase total
+moles of gas.
+Decrease volume,
+increase pressure
+2 A(g)
+B(g)
+   
+▲ Figure 15.13 Pressure and Le Châtelier’s principle.
+Give It Some Thought
+What happens to the equilibrium 2 SO21g2 +

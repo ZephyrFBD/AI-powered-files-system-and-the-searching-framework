@@ -1,0 +1,77 @@
+gy
+of an object,
+but there is no single formula for potential energy. Instead,
+the mathematical form of the potential energy depends on the force involved.
+1
+2 mv2,
+f = 1
+2 kx,
+peel =
+1
+2 kx2.
+peel,
+W
+ext = fx = A1
+2 kxB(x) =
+1
+2 kx2.
+xf
+f = 1
+2 [0 + kx] = 1
+2 kx,
+F
+ext
+f.
+F
+ext (= kx)
+W = Fx,
+F
+S =
+–kx.
+F
+S
+F
+ext = kx,
+F
+ext
+148
+CHAPTER 6
+Work and Energy
+†We can also obtain Eq. 6–9 using Section 6–2. The work done, and hence 
+equals the area 
+under the F vs. x graph of Fig. 6–15. This area is a triangle (colored in Fig. 6–15) of altitude kx and
+base x, and hence of area (for a triangle) equal to  1
+2 (kx)(x) = 1
+2 kx2.
+¢pe,
+(a) Unstretched
+(b) Stretched
+(c) Compressed
+x
+x = 0
+x
+S
+S
+ext
+F
+B
+F
+B
+F
+B
+ext
+F
+B
+FIGURE 6–14 (a) Spring in natural
+(unstretched) position. (b) Spring is
+stretched by a person exerting a
+force 
+to the right (positive 
+direction). The spring pulls back
+with a force 
+where  
+(c) Person compresses the spring
+by exerting an external
+force 
+to the left; the spring
+push

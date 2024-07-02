@@ -1,0 +1,17 @@
+hree quarks,
+one of each color. Mesons consist of a quark–antiquark pair of a particular color
+and its anticolor. Both baryons and mesons are thus colorless or white.
+Originally, the idea of quark color was proposed to preserve the Pauli exclu-
+sion principle (Section 28–7). Not all particles obey the exclusion principle.
+Those that do, such as electrons, protons, and neutrons, are called fermions.
+Those that don’t are called bosons. These two categories are distinguished also 
+in their spin: bosons have integer spin (0, 1, 2, etc.) whereas fermions have 
+half-integer spin, usually 
+as for electrons and nucleons, but other fermions 
+have spin 
+etc. Matter is made up mainly of fermions, but the carriers of 
+the forces (
+W, Z, and gluons) are all bosons. Quarks are fermions (they have 
+spin ) and therefore should obey the exclusion principle. Yet for three particular
+baryons (uuu, ddd, and sss), all three quarks would have the same quantum
+numbers, and at least two quarks have their spin

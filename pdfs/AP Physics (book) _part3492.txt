@@ -1,0 +1,28 @@
+o acceptable levels.
+Large doses of radiation can cause unpleasant symptoms such as nausea,
+fatigue, and loss of body hair, because of cellular damage. Such effects are some-
+times referred to as radiation sickness. Very large doses can be fatal, although the
+time span of the dose is important. A brief dose of 10 Sv (1000 rem) is nearly
+always fatal. A 3-Sv (300-rem) dose in a short period of time is fatal in about 
+50% of patients within a month. However, the body possesses remarkable repair
+processes, so that a 3-Sv dose spread over several weeks is usually not fatal. It
+will, nonetheless, cause considerable damage to the body.
+The effects of low doses over a long time are difficult to determine and are
+not well known as yet.
+50 mSv A5 remyrB
+ 86
+222Rn,
+19
+40K.
+g
+g
+1 rem = 10 mSv.
+1 Sv = 100 rem
+effective dose (Sv) = dose (Gy) * RBE
+effective dose (in rem) = dose (in rad) * RBE.
+g
+SECTION 31–5
+Measurement of Radiation—Dosimetry
+901
+TABLE 31–1 Relative
+Biological Effectiveness (RBE)

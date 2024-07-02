@@ -1,0 +1,96 @@
+ to 
+and to the total number N of radioactive (parent) nuclei
+present:
+(30;3a)
+where the minus sign means N is decreasing. We rewrite this to get the rate of
+decay (number of decays per second):
+(30;3b)
+In these equations,
+is a measurable constant called the decay constant, which 
+is different for different isotopes. The greater 
+is, the greater the rate 
+of decay,
+and the more “radioactive” that isotope is said to be.
+¢N¢t,
+l
+l
+¢N
+¢t
+=
+–lN.
+¢N =
+–lN ¢t
+¢t
+¢t
+¢N
+g
+a, b,
+g
+g
+g
+*
+g
+g
+g
+[g decay]
+Z
+AN* S
+Z
+AN + g,
+g
+ 6
+12C
+g
+6
+12C*,
+ 6
+12C,
+b
+ 6
+12C;
+b
+ 5
+12B
+SECTION 30–8
+Half-Life and Rate of Decay
+869
+TABLE 30–2 The Three 
+T
+ypes of Radioactive Decay
+decay:
+decay:
+decay:
+†Electron capture.
+*Indicates the excited state of a nucleus.
+Z
+AN* S Z
+AN + g
+g
+Z
+AN + e– S Z-1
+A
+N¿ + n [EC]†
+Z
+AN S Z-1
+A
+N¿ + e± + n
+Z
+AN S Z+1
+A
+N¿ + e– + R
+b
+Z
+AN S Z-2
+A-4N¿ + 2
+4He
+a
+FIGURE 30–8 Energy-level diagram
+showing how 
+can decay to the
+ground state of 
+by 
+decay 
+(total energy 
+MeV),
+or can instead 
+d

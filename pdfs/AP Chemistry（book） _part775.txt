@@ -1,0 +1,23 @@
+reviously in the text. 
+(See Equations 5.29 and 5.30.)
+Plan (a) We first write the balanced equation for the combustion of 
+C6H6. We then look up ∆Hf° values in Appendix C or in Table 5.3 
+and apply Equation 5.31 to calculate the enthalpy change for the 
+reaction. (b) We use the molar mass of C6H6 to change the enthalpy 
+change per mole to that per gram. We similarly use the molar mass of 
+C3H8 and the enthalpy change per mole calculated in the text previ-
+ously to calculate the enthalpy change per gram of that substance.
+Solve
+(a)  
+We know that a combustion reaction involves O21g2 as a reactant. 
+Thus, the balanced equation for the combustion reaction of  
+1 mol C6H61l2 is:
+C6H61l2 + 15
+2  O21g2 ¡  6 CO21g2 + 3 H2O1l2
+Continued
+190 
+CHAPTER 5 Thermochemistry
+5.8 ∣ Bond Enthalpies
+The energy changes that accompany chemical reactions are closely related to the changes 
+associated with forming and breaking chemical bonds—breaking bonds requires energy 
+and forming bonds releases energy.

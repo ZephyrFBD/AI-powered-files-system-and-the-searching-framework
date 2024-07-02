@@ -1,0 +1,48 @@
+re on the surface of Titan is 1220 torr. The 
+atmosphere consists of 82 mol % N2, 12 mol % Ar, and  
+6.0 mol % CH4. Calculate the partial pressure of each gas.
+ 
+SECTION 10.7  The Kinetic-Molecular Theory of Gases 
+413
+Pressure inside container comes
+from collisions of gas molecules
+with container walls.
+▲ Figure 10.11 The molecular origin of gas 
+pressure.
+Go Figure
+0
+5 3 102 
+10 3 102
+Molecular speed (m/s)
+(a)
+0
+5 3 102
+10 3 102
+Molecular speed (m/s)
+(b)
+Fraction of molecules
+Fraction of molecules
+0 8C
+100 8C
+um p 5 the speed 
+exhibited by the largest 
+number of molecules
+urms 5 the speed of a 
+molecule whose kinetic 
+energy is equal to the 
+average (mean) kinetic 
+energy of all the molecules
+uav 5 the average 
+(mean) speed of all 
+the molecules
+At 100 8C, more than
+half the molecules
+move at speeds greater 
+than 500 m/s.
+At 0 8C, fewer than half the 
+molecules move at speeds 
+greater than 500 m/s.
+ump 5 the speed
+exhibited by the largest 
+number of molecules
+▲ Figure 10.12 Distribut

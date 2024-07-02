@@ -1,0 +1,37 @@
+nservation
+of angular momentum. Consider a skater doing a spin on the tips of her skates,
+Fig. 8–27. She rotates at a relatively low speed when her arms are outstretched;
+when she brings her arms in close to her body, she suddenly spins much faster.
+From the definition of moment of inertia,
+it is clear that when she
+pulls her arms in closer to the axis of rotation, r is reduced for the arms so her
+moment of inertia is reduced. Since the angular momentum 
+remains constant
+(we ignore the small torque due to friction), if I decreases, then the angular
+velocity 
+must increase. If the skater reduces her moment of inertia by a factor
+of 2, she will then rotate with twice the angular velocity.
+v
+Iv
+I = ©mr2,
+216
+CHAPTER 8
+Rotational Motion
+(a)
+(b)
+ω
+I large,
+   small
+ω
+I small,
+   large
+FIGURE 8;27 A skater spinning on
+ice, illustrating conservation of angular
+momentum: (a) I is large and 
+is
+small; (b) I is smaller so 
+is larger.
+v
+v
+FIGURE 8;28 A diver rotates faster
+when arms and legs are 

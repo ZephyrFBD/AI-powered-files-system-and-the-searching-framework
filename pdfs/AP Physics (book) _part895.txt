@@ -1,0 +1,22 @@
+ radius of 15 cm, and a mass of 48 kg? (b) How
+much torque is required to slow her to a stop in 4.0 s,
+assuming she does not move her arms?
+67. (II) A person of mass 75 kg stands at the center of a rotating
+merry-go-round platform of radius 3.0 m and moment of
+inertia 
+The platform rotates without friction
+with angular velocity 
+The person walks radially
+to the edge of the platform. (a) Calculate the angular
+velocity when the person reaches the edge. (b) Calculate
+the rotational kinetic energy of the system of platform plus
+person before and after the person’s walk.
+68. (II) A potter’s wheel is rotating around a vertical axis
+through its center at a frequency of 
+The wheel
+can be considered a uniform disk of mass 5.0 kg and diam-
+eter 0.40 m. The potter then throws a 2.6-kg chunk of clay,
+approximately shaped as a flat disk of radius 7.0 cm, onto
+the center of the rotating wheel. What is the frequency
+of the wheel after the clay sticks to it? Ignore friction.
+69. (II) A 4.2-m-diameter 

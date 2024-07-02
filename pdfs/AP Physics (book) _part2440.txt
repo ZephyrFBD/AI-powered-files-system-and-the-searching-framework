@@ -1,0 +1,14 @@
+ will be produced in empty space if there is
+a changing electric field. From this, Maxwell derived another startling conclusion.
+If a changing magnetic field produces an electric field, that electric field is itself
+changing. This changing electric field will, in turn, produce a magnetic field, which
+will be changing, and so it too will produce a changing electric field; and so on.
+When Maxwell worked with his equations, he found that the net result of these
+interacting changing fields was a wave of electric and magnetic fields that can
+propagate (travel) through space! We now examine, in a simplified way, how such
+electromagnetic waves can be produced.
+Consider two conducting rods that will serve as an “antenna” (Fig. 22–4a).
+Suppose these two rods are connected by a switch to the opposite terminals of a
+battery. When the switch is closed, the upper rod quickly becomes positively charged
+and the lower one negatively charged. Electric field lines are formed as indicated
+by the lines in

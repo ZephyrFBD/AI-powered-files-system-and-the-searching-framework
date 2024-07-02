@@ -1,0 +1,41 @@
+The full-scale current sensitivity of a galvanometer,
+is the
+electric current needed to make the needle deflect full scale, typically about 
+A galvanometer whose sensitivity 
+is 
+can measure currents from
+about 
+(currents smaller than this would be hard to read on the scale) up to
+To measure larger currents, a resistor is placed in parallel with the
+galvanometer. An analog ammeter, represented by the symbol 
+, consists of a
+galvanometer (
+) in parallel with a resistor called the shunt resistor, as shown in
+Fig. 19–31. (“Shunt” is a synonym for “in parallel.”) The shunt resistance is 
+and the resistance of the galvanometer coil is r. The value of 
+is chosen according
+to the full-scale deflection desired;
+is normally very small—giving an ammeter
+a very small net resistance—so most of the current passes through 
+and very
+little 
+passes through the galvanometer to deflect the needle.
+(f 50 mA)
+Rsh
+Rsh
+Rsh
+Rsh,
+G
+A
+50 mA.
+1 mA
+50 mA
+I
+m
+50 mA.
+I
+m,
+546
+CHAPTER 19
+DC Circuits
+Ammeter design.

@@ -1,0 +1,29 @@
+ gene encodes an enzyme that catalyzes a required step in the biosynthesis 
+of ascorbic acid. Most mammals carry a functional copy of the GULO gene, but some primates carry only a GULO 
+ 
+pseudogene, which is a nonfunctional variant. 
+A comparison of GULO genes and GULO pseudogenes from different animals can provide insight into the 
+evolutionary relatedness of the animals. In Table I, selected members of some mammalian groups are listed, along 
+with an indication of their ability to synthesize ascorbic acid. Table II shows an alignment of amino acid coding 
+sequences from homologous regions of the GULO genes and GULO pseudogenes of the organisms listed in Table I. 
+Figure 1 represents the universal genetic code. 
+TABLE I: SELECTED MAMMALIAN GROUPS
+Group
+Selected Members
+Biosynthesis of 
+Ascorbic Acid 
+ 
+Nonprimate mammals 
+Elephant, mouse 
+Yes
+Primate mammals 
+ 
+Lemur
+Yes 
+ 
+Orangutan, chimpanzee 
+No
+Human
+No
+TABLE II: DNA SEQUENCE ALIGNMENT*  
+*For each DNA segment, the alternating s

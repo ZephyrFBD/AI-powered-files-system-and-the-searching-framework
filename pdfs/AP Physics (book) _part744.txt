@@ -1,0 +1,36 @@
+ m
+tall, this is
+above the bottom of the foot.
+(b) We use an xy coordinate system, as shown in Fig. 7–26b. First, we calculate
+how far to the right of the hip joint the CM lies, accounting for all three parts:
+For our 1.70-m-tall person, this is 
+from the hip joint.
+Next, we calculate the distance,
+of the CM above the floor:
+or
+Thus, the CM is located 39 cm above the floor
+and 25 cm to the right of the hip joint.
+NOTE The CM lies outside the body in (b).
+(1.70 m)(23.0100) = 0.39 m.
+ycm = (3.4)(1.8) + (9.6)(18.2) + (21.5)(28.5)
+3.4 + 9.6 + 21.5
+= 23.0 units,
+ycm ,
+(1.70 m)(14.9100) = 0.25 m
+xcm = (21.5)(9.6) + (9.6)(23.6) + (3.4)(23.6)
+21.5 + 9.6 + 3.4
+= 14.9 units.
+(1.70 m)(31.7100) = 0.54 m
+52.1 - 20.4 = 31.7 units
+= (21.5)(9.6) + (9.6)(33.9) + (3.4)(50.3)
+21.5 + 9.6 + 3.4
+= 20.4 units.
+xcm =
+mulxul + mllxll + mfxf
+mul + mll + mf
+=
+l
+(1.70 m100).
+EXAMPLE 7;13
+Knowing the CM of the body when it is in various positions is of great use in
+studying body mechanics. One simple example f

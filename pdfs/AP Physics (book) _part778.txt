@@ -1,0 +1,45 @@
+he origin of an xy coordinate system 
+as shown in Fig. 7–36. Initially ball A is moving along 
+the y axis at 
+and ball B is moving to the right
+along the x axis with speed 
+After the collision
+(assumed elastic), ball B is moving along the positive y axis
+(Fig. 7–36) with velocity
+What is the final direc-
+tion of ball A, and what
+are the speeds of the two
+balls?
+vB
+œ .
+±3.7 ms.
+±2.0 ms,
+6.2 * 10–23 kgms,
+9.6 * 10–23 kgms
+uB
+œ ,
+vB
+œ ,
+vA
+œ
+= 2.10 ms.
+mB = 0.140 kg.
+vA = 2.80 ms
+mA = 0.120 kg
+m = 0.50.
+x = 0.050 m
+(k = 140 Nm)
+M = 0.999 kg,
+m = 0.0010 kg
+8.00 cm
+24.0 cm
+FIGURE 7;42
+Problem 62.
+*63. (II) A 52-kg woman and a 72-kg man stand 10.0 m apart on
+nearly frictionless ice. (a) How far from the woman is their CM?
+(b) If each holds one end of a rope, and the man pulls on 
+the rope so that he moves 2.5 m, how far from the woman
+will he be now? (c) How far will the man have moved when
+he collides with the woman?
+*64. (II) Suppose that in Example 7–14 (Fig. 7–28),
+(a) Where the

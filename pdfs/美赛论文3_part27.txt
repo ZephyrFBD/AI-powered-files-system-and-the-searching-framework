@@ -1,0 +1,58 @@
+he same side of the faucet, our
+assumptions no longer establish. Now the water drained away is the warm water that
+exchanges heat with the hot adding water. Such kind of heat exchange is sufficient
+because the overflow drain is close to the faucet. In this circumstance, more heat will
+be lost. We can imagine adding hot water with the temperature of 
+1
+u ( 
+1
+1
+u
+u
+
+), which
+means the heat between the cold water and the hot water that is drained away is just
+the lost heat.
+It is a great pity that it is almost impossible to confirm the value of
+1
+u , so we
+venture to think that 
+1
+1
+1
+2
+1 (
+)
+4
+u
+u
+u
+u
+
+
+
+where
+1
+u stands for the initial temperature of
+adding water and
+2
+u
+stands for the initial temperature of the water in the bathtub. It is
+obvious that
+
+1
+u is related to
+1
+u and
+2
+u , so our new assumptions conform to our
+Team#44509
+Page 12 of 26
+experience.
+Finally, we regard 
+1
+u
+as the temperature of adding water to operate the whole
+model.
+3. Model 2: Body feeling model
+3.

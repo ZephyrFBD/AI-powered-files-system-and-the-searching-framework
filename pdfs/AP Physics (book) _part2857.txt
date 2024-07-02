@@ -1,0 +1,21 @@
+ N is the near point
+of the eye, and 
+and 
+are the focal lengths of objective and
+eyepiece, respectively.
+Microscopes, telescopes, and other optical instruments are
+limited in the formation of sharp images by lens aberrations.
+These include spherical aberration, in which rays passing through
+the edge of a lens are not focused at the same point as those
+that pass near the center; and chromatic aberration, in which
+different colors are focused at different points. Compound
+lenses, consisting of several elements, can largely correct for
+aberrations.
+The wave nature of light also limits the sharpness, or
+resolution, of images. Because of diffraction, it is not possible
+to discern details smaller than the wavelength of the radiation
+being used. The useful magnification of a light microscope is
+limited by diffraction to about 
+[ X-rays are a form of electromagnetic radiation of very
+short wavelength. They are produced when high-speed elec-
+trons, accelerated by high voltage in an evacuated t

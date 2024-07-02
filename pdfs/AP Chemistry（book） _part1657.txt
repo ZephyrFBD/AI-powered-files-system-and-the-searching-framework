@@ -1,0 +1,26 @@
+25 °C to 50 °C,
+while keeping the volume constant; (c) Pushing down on 
+the piston to halve the volume while keeping the tempera-
+ture constant.
+10.26  A fixed quantity of gas at 21 °C exhibits a pressure of 752 
+torr and occupies a volume of 5.12 L. (a) Calculate the vol-
+ume the gas will occupy if the pressure is increased to 1.88 
+ 
+Exercises 
+427
+atm while the temperature is held constant. (b) Calculate the 
+volume the gas will occupy if the temperature is increased to 
+175 °C while the pressure is held constant.
+ 10.27 (a) Amonton’s law expresses the relationship between pres-
+sure and temperature. Use Charles’s law and Boyle’s law to 
+derive the proportionality relationship between P and T. (b) 
+If a car tire is filled to a pressure of 32.0 lb>in.2 1psi2 measured 
+at 75 °F, what will be the tire pressure if the tires heat up to 
+120 °F during driving?
+ 10.28  Nitrogen and hydrogen gases react to form ammonia gas as 
+follows:
+ 
+ 
+N21g2 + 3 H21g2 ¡ 2 NH31g2
+ 
+ At a certain temperat

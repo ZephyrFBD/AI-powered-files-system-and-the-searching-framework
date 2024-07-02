@@ -1,0 +1,22 @@
+complete form, consider a
+system that is moving so it has kinetic energy KE, and suppose there is also potential
+energy PE. Then the first law of thermodynamics would have to include these terms
+and would be written as
+(15;2)
+¢ke + ¢pe + ¢U = Q - W.
+*
+Kinetic energy transformed to thermal energy. A 3.0-g
+bullet traveling at a speed of 
+enters a tree and exits the other side with a speed
+of 
+Where did the bullet’s lost KE go, and how much energy was transferred?
+APPROACH Take the bullet and tree as our system. No potential energy is
+involved. No work is done on (or by) the system by outside forces, nor is any
+heat added because no energy was transferred to or from the system due to a
+temperature difference. Thus the kinetic energy gets transformed into internal
+energy of the bullet and tree. This answers the first question.
+SOLUTION In the first law of thermodynamics as written in Eq. 15–2, we are
+given
+so we have
+or, using subscripts i and f for initial and final velocities,
+NOTE The i

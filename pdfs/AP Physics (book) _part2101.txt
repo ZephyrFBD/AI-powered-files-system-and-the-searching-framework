@@ -1,0 +1,69 @@
+ as shown in Fig. 19–21b. This
+“exponential decay” curve is given by
+where 
+is the initial voltage across the capacitor. The voltage falls 63% of the
+way to zero (to 
+) in a time
+Because the charge Q on the capacitor
+is
+we can write
+for a discharging capacitor, where 
+is the initial charge.
+The voltage across the resistor will have the same magnitude as that across
+the capacitor at any instant, but the opposite sign, because there is zero applied 
+emf:
+so
+A graph of 
+vs. time would just
+be Fig.19–21b upside down. The current
+The current has its greatest magnitude at
+and decreases exponentially 
+in time. (The current has a minus sign because in Fig. 19–21a it flows in the oppo-
+site direction as compared to the current in Fig. 19–20a.)
+t = 0
+–I
+0 e–tRC.
+I = V
+RR = –AV
+0RBe–tRC =
+V
+R
+V
+R = –V
+C = –V
+0 e–tRC.
+V
+C + V
+R = 0
+Q0
+Q = Q0 e–tRC
+Q = CV (and Q0 = CV
+0),
+t = RC.
+0.37V
+0
+V
+0
+V
+C = V
+0 e–tRC,
+Q0,
+V
+0
+e
+Gas-filled
+tube
+R
++
+–
+R'
+V0
+V0
+'
+V
+(a)
+Time
+(b)
+C
+0
+FIGURE 19–23 (a) An RC

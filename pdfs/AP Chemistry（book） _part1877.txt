@@ -1,0 +1,28 @@
+-sea model, which pictures the metal as an array of metal cations in 
+a “sea” of valence electrons (Figure 12.20). The electrons are confined to the metal by 
+electrostatic attractions to the cations, and they are uniformly distributed throughout 
+the structure. The electrons are mobile, however, and no individual electron is con-
+fined to any particular metal ion. When a voltage is applied to a metal wire, the elec-
+trons, being negatively charged, flow through the metal toward the positively charged 
+end of the wire.
+The high thermal conductivity of metals is also accounted for by the presence of 
+mobile electrons. The movement of electrons in response to temperature gradients per-
+mits ready transfer of kinetic energy throughout the solid.
+Go Figure
+Which of these drawings represent molecules?
+Al
+12 nearest neighbors
+Si
+4 valence electrons
+8 − 4 = 4 bonds
+per atom
+P4
+5 valence electrons
+8 − 5 = 3 bonds
+per atom
+S8
+6 valence electrons
+8 − 6 = 2 bonds
+per atom
+Cl2
+7 valence electrons

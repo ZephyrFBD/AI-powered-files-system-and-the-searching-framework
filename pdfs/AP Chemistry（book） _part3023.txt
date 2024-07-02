@@ -1,0 +1,14 @@
+ock is opened, the arrangement in which all the molecules are in the left flask 
+is but one of an extremely large number of possible arrangements. The most probable 
+arrangements by far are those in which there are essentially equal numbers of molecules 
+in the two flasks. When the gas spreads throughout the apparatus, any given molecule 
+can be in either flask rather than confined to the left flask. We say that with the stopcock 
+opened, the arrangement of gas molecules is more dispersed than when the molecules 
+are all confined in the left flask.
+We will see that this notion of increasing dispersion helps us understand entropy at 
+the molecular level.
+Boltzmann’s Equation and Microstates
+The science of thermodynamics developed as a means of describing the properties of 
+matter in our macroscopic world without regard to microscopic structure. In fact, ther-
+modynamics was a well-developed field before the modern view of atomic and molec-
+ular structure was even known. The thermodynami

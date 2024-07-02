@@ -1,0 +1,70 @@
+event at 
+Simultaneity in time is not
+absolute.
+A1 .
+B1
+O1’s
+O1.
+A1
+O1,
+B1
+O1’s
+O2,
+O2
+B2 .
+B1
+A2,
+A1
+O1
+O2 ,
+(a)
+(b)
+A1
+B1
+A2
+B2
+O1
+O2
+A1
+A2
+B2
+O1
+O2
+B1
+v
+B
+v
+B
+But what does observer 
+observe and measure? From our 
+reference
+frame, we can predict what 
+will observe. We see that 
+moves to the right
+during the time the light is traveling to 
+from 
+and 
+As shown in Fig. 26–5b,
+we can see from our 
+reference frame that the light from 
+has already 
+passed 
+whereas the light from 
+has not yet reached 
+That is,
+observes
+the light coming from 
+before observing the light coming from 
+Given 
+(i) that light travels at the same speed c in any direction and in any reference
+frame, and (ii) that the distance 
+equals 
+then observer 
+can only
+conclude that the event at 
+occurred before the event at 
+The two events are
+not simultaneous for 
+even though they are for 
+We thus find that two events which take place at different locations and are
+simultaneous to one observer, are actually not simultaneous

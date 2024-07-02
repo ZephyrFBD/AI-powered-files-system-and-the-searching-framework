@@ -1,0 +1,17 @@
+Solar sails (Section 22–6).
+• Lots on sports.
+• Symmetry—more emphasis and using italics or boldface to make visible.
+• Flat screens (Sections 17–11, 24–11).
+• Free-electron theory of metals, Fermi gas, Fermi level. New Section 29–6.
+• Semiconductor devices—new details on diodes, LEDs, OLEDs, solar cells,
+compound semiconductors, diode lasers, MOSFET transistors, chips, 22-nm
+technology (Sections 29–9, 10, 11).
+• Cross section (Chapter 31).
+• Length of an object is a script rather than normal l, which looks like 1 or
+I (moment of inertia, current), as in F = I B. Capital L is for angular
+momentum, latent heat, inductance, dimensions of length [L].
+6. New photographs taken by students and instructors (we asked).
+7. Page layout: More than in previous editions, serious attention to how each
+page is formatted. Important derivations and Examples are on facing pages:
+no turning a page back in the middle of a derivation or Example. Throughout,
+readers see, on two facing pages, an important sl

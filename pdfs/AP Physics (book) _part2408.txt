@@ -1,0 +1,35 @@
+(II) Part of a single rectangular loop of wire with dimensions
+shown in Fig. 21–62 is situated inside a region of uniform
+magnetic field of 0.550 T. The total resistance of the loop 
+is 
+Calculate the force required to pull the loop from
+the field (to the right) at a constant velocity of 
+Neglect gravity.
+3.10 ms.
+0.230 .
+30.0 ms
+A5.0 * 10–5 TB
+FIGURE 21–58
+Problem 3.
+21–1 to 21–4 Faraday’s Law of Induction
+1. (I) The magnetic flux through a coil of wire containing two
+loops changes at a constant rate from 
+to 
+in 0.34 s. What is the emf induced in the coil?
+2. (I) The north pole of the magnet in Fig.21–57 is being inserted
+into the coil. In which direc-
+tion is the induced current
+flowing through resistor R?
+Explain.
+±38 Wb
+–58 Wb
+Problems
+3. (I) The rectangular loop in Fig. 21–58 is being pushed to
+the right, where the magnetic field points inward. In what
+direction is the induced current? Explain your reasoning.
+S
+N
+R
+FIGURE 21–57
+Problem 2.
+15. (II) In order to make the rod of F

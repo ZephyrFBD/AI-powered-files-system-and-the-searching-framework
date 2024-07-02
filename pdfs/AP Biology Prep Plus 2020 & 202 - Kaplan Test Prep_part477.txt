@@ -1,0 +1,48 @@
+below.
+Interphase
+Mitosis
+Total
+Control
+296
+50
+346
+Treated
+322
+176
+498
+Total
+618
+226
+844
+The values that were expected can be calculated as given in the
+following table.
+Interphase
+Mitosis
+Control
+[(Total Control) × (Total
+Interphase)] ÷ Overall Total
+[(Total Control) × (Total
+Mitosis)] ÷ Overall Total
+Treated
+[(Total Treated) × (Total
+Interphase)] ÷ Overall Total
+[(Total Treated) × (Total
+Mitosis)] ÷ Overall Total
+Calculate the chi-squared value based on the data provided. Give
+your answer to the nearest whole number.
+1
+(A)
+4
+(B)
+46
+(C)
+59
+(D)
+11. On average, most human cells become senescent, or stop
+dividing, aȇer 52 divisions. This is known as the Hayflick limit.
+However, one characteristic that makes cancer cells abnormal is
+that they never reach this limit. Which of the following correctly
+explains this phenomenon?
+During the 51st division of a normal cell, the DNA that is
+passed on to the daughter cells is reversibly modified to
+prevent it from dividing further; however, one of 

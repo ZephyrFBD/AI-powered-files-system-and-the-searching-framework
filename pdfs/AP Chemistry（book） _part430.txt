@@ -1,0 +1,15 @@
+ge and is used in most places in this book.
+94 
+CHAPTER 3 Chemical Reactions and Reaction Stoichiometry
+Molar Mass
+A dozen is the same number, 12, whether we have a dozen eggs or a dozen elephants. 
+Clearly, however, a dozen eggs does not have the same mass as a dozen elephants. Similarly, 
+a mole is always the same number 16.02 * 10232, but 1-mol samples of different substances 
+have different masses. Compare, for example, 1 mol of 12C and 1 mol of 24Mg. A single 12C 
+atom has a mass of 12 amu, whereas a single 24Mg atom is twice as massive, 24 amu (to 
+two significant figures). Because a mole of anything always contains the same number of 
+particles, a mole of 24Mg must be twice as massive as a mole of 12C. Because a mole of 12C 
+has a mass of 12 g (by definition), a mole of 24Mg must have a mass of 24 g. This example 
+illustrates a general rule relating the mass of an atom to the mass of Avogadro’s number 
+ 
+(1 mol) of these atoms: The atomic weight of an element in atomic mass unit

@@ -1,0 +1,38 @@
+is, all the forces or components that act radially, toward
+or away from the center of the circular path. The sum
+of these forces (or components) provides the centrip-
+etal acceleration,
+3. Choose a convenient coordinate system, preferably
+with one axis along the acceleration direction.
+4. Apply Newton’s second law to the radial component:
+[radial direction]
+©F
+R = maR = m v2
+r
+.
+aR = v2r.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Uniform Circular Motion
+1. Draw a free-body diagram, showing all the forces
+acting on each object under consideration. Be sure
+you can identify the source of each force (tension 
+in a cord, Earth’s gravity, friction, normal force, and
+so on). Don’t put in something that doesn’t belong
+(like a centrifugal force).
+2. Determinewhich of the forces, or which of their compo-
+nents, act to provide the centripetal acceleration—that
+If the wheels and tires of the car are rolling normally without slipping or 
+sliding, the bottom of the tire is at rest against the road at each instan

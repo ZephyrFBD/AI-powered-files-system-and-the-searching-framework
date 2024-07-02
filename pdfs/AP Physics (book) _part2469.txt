@@ -1,0 +1,32 @@
+arth distance. This result would apply if the spacecraft was far
+from the Earth so the Earth’s gravitational force is small compared to 10 N.
+NOTE A large sail providing a small force over a long time could result in a lot
+of motion. [Gravity due to the Sun and planets has been ignored, but in reality
+would have to be considered.]
+d = 1
+2 at2 L 1
+2 A2 * 10–3 ms2BA3 * 107 sB2 L 1012 m
+A2 * 10–3 ms2BA3 * 107 sB L 6 * 104 ms (L 200,000 kmh!).
+v - v0 = at L
+(365 days)(24 hday)(3600 sh) L 3 * 107 s.
+2 * 10–3 ms2.
+(10 N)(5000 kg) L
+a L Fm L
+A10–5 Nm2BA103 mBA103 mB L 10 N.
+F L PA =
+2Ic L 10–5 Nm2,
+x = 1
+2 at2.
+v = v0 + at.
+P = 2Ic.
+F = PA.
+1 km * 1 km
+EXAMPLE 22;6
+ESTIMATE
+Although you cannot directly feel the effects of radiation pressure, the
+phenomenon is quite dramatic when applied to atoms irradiated by a finely
+focused laser beam. An atom has a mass on the order of 
+and a laser
+beam can deliver energy at a rate of 
+This is the same intensity used in
+Example 22–5, but here 

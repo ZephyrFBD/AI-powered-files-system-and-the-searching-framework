@@ -1,0 +1,15 @@
+ication. Our model can be applied not only in the evaluation of 
+sustainable development but also in the evaluation of other kinds of indexes, such 
+as grade calculation, the assessment of annual benefit of a company and so on. 
+ 
+6.2 Weaknesses 
+ Parameters. There are quite a few parameters in our model. Irrationality and 
+error in setting parameters can be easily added up exponentially. In the end, it will 
+influence the evaluation results greatly. 
+ Inconsistency. Although we set scientific standards, follow the opinions of the 
+majority and sum up from the historical data during data selection, weight setting 
+and function selection, such as the potential occurrence rate, we still cannot avoid 
+the subjective color and uncertainty in the process, causing impossibility to 
+achieve consistent, rational, objective index. 
+ Ideal hypothesis. We do some idealistic process in some assumptions to simplify 
+the model and facilitate the assessment. In the case, the influence of probabili

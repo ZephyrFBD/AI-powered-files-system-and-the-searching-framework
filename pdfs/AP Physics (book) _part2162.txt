@@ -1,0 +1,25 @@
+ction to a ground has
+broken (or was not there in the first place). If a nurse touches
+the bed and the patient at the same time, the nurse becomes
+a conductor and a complete circuit can be made through the
+patient to ground through the ECG apparatus. This is shown
+schematically in Fig.19–75. Calculate the current through the
+patient.
+71. A heart pacemaker is designed to operate at 
+using a 
+capacitor in a simple RC circuit. What value of
+resistance should be used if the pacemaker is to fire (capac-
+itor discharge) when the voltage reaches 75% of maximum
+and then drops to 0 V (72 times a minute)?
+6.5-mF
+72 beatsmin
+75. The internal resistance of a 1.35-V mercury cell is 
+whereas that of a 1.5-V dry cell is 
+Explain why
+three mercury cells can more effectively power a 2.5-W
+hearing aid that requires 4.0 V than can three dry cells.
+76. How many
+resistors, each of the same resistance, must
+be used to produce an equivalent 
+3.5-W resistor?
+What is the resistance of each, and how must they 

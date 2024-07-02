@@ -1,0 +1,20 @@
+r explanation could be that the untreated bacteria or the agar plate on which they were
+growing were contaminated with bacteria from the treated-bacteria batch.
+Grid-In Questions
+1. Answer: 22
+Since adenine pairs with thymine, adenine equals thymine in their numbers. Since cytosine pairs with guanine,
+cytosine equals guanine in their numbers. If adenine = thymine = 28%, and adenine + thymine = 56%, then cytosine
++ guanine must equal 44% and cytosine = guanine = 44 ÷ 2 = 22%. Also uracil = 0% because there is no uracil in
+DNA (only in RNA).
+2. Answer: 0.33
+ 
+Using N and n to represent the normal and mutant alleles, respectively, the only living individual who can possess
+the allele is a female who is
+XNXn . A fetus who is XnXn or XnY does not survive to birth. The genotype of the father must be XNY. Thus, the
+cross is XNXn ×
+XNY, and the offspring are
+ 
+. Only the XNXn
+individual has one copy of the allele.
+3. Answer: 4.0 (acceptable range: 3.9-4.1)
+The rate of reaction is the slope of 

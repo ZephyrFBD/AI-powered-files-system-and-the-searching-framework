@@ -1,0 +1,21 @@
+nt b:
+Thus we define the change in electric potential energy,
+when a
+point charge q moves from some point a to another point b, as the negative of the
+work done by the electric force on the charge as it moves from point a to point b.
+For example, consider the electric field between two equally but oppositely charged
+parallel plates; we assume their separation is small compared to their width and
+height, so the field 
+will be uniform over most of the region, Fig. 17–1. Now con-
+sider a tiny positive point charge q placed at the point “a” very near the positive
+plate as shown. This charge q is so small that it has no effect on 
+If this charge q at
+point a is released, the electric force will do work on the charge and accelerate it
+toward the negative plate. The work W done by the electric field E to move the
+charge a distance d is (using Eq. 16–5,
+)
+.
+The change in electric potential energy equals the negative of the work done by
+the electric force:
+(17;1)
+for this case of uniform electr

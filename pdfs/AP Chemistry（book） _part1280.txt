@@ -1,0 +1,41 @@
+ion, O2
+2-?
+(a) 7 (b) 6 (c) 5 (d) 4 (e) 3
+ 
+▶Practice Exercise 2
+Draw the Lewis structure for (a) ClO2
+-, (b) PO4
+3 - .
+SOLUTION
+Bromine (group 7A) has seven valence electrons, and oxygen 
+(group 6A) has six. We must add one more electron to our sum to 
+account for the 1- charge of the ion. The total number of valence 
+electrons is, therefore, 7 + 13 * 62 + 1 = 26. For oxyanions— 
+SO4
+2 - 
+, NO -
+3 , CO 2 -
+3
+, and so forth—the oxygen atoms surround 
+the central nonmetal atom. After arranging the O atoms around 
+the Br atom, drawing single bonds, and distributing the unshared 
+electron pairs, we have
+Notice that the Lewis structure for an ion is written in brack-
+ets and the charge is shown outside the brackets at the upper 
+right.
+2
+O
+O
+O
+Br
+Formal charge = valence electrons - 1
+2 1bonding electrons2 -  nonbonding electrons 
+[8.11]
+Let’s practice by calculating the formal charges for the atoms in the cyanide ion, 
+CN-, which has the Lewis structure
+N
+[
+]
+C
+2
+The neutral C atom has fou

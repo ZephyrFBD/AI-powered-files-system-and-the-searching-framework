@@ -1,0 +1,16 @@
+e often describe atoms as consisting of a 
+nucleus surrounded by an electron cloud.
+Orbitals and Quantum Numbers
+The solution to Schrödinger’s equation for the hydrogen atom yields a set of wave 
+functions called orbitals. Each orbital has a characteristic shape and energy. For 
+ 
+example, the lowest-energy orbital in the hydrogen atom has the spherical shape 
+illustrated in Figure 6.17 and an energy of -2.18 * 10 - 18 J. Note that an orbital 
+(quantum-mechanical model, which describes electrons in terms of probabilities, 
+visualized as “electron clouds”) is not the same as an orbit (the Bohr model, which 
+visualizes the electron moving in a physical orbit, like a planet around a star). The 
+quantum-mechanical model does not refer to orbits because the motion of the 
+electron in an atom cannot be precisely determined (Heisenberg’s uncertainty 
+principle).
+The Bohr model introduced a single quantum number, n, to describe an orbit. The 
+quantum-mechanical model uses three quantum numbers

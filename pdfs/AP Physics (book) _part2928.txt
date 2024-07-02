@@ -1,0 +1,22 @@
+ment (Fig.26–7). There are
+more than 30 global positioning system satellites that send out precise time signals
+using atomic clocks. Your receiver compares the times received from at least four
+satellites, all of whose times are carefully synchronized to within 1 part in 
+By comparing the time differences with the known satellite positions and the
+fixed speed of light, the receiver can determine how far it is from each satellite
+and thus where it is on the Earth. It can do this to an accuracy of a few meters, if
+it has been constructed to make corrections such as the one below due to relativity.
+A relativity correction to GPS. GPS
+satellites move at about 
+Show that a good GPS receiver
+needs to correct for time dilation if it is to produce results consistent with atomic
+clocks accurate to 1 part in 
+RESPONSE Let us calculate the magnitude of the time dilation effect by
+inserting
+into Eq. 26–1a:
+We use the binomial expansion:
+for
+(see Appendix A–5)
+which here is 
+That is
+The time “error

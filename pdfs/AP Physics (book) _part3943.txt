@@ -1,0 +1,47 @@
+16
+series, 503, 528
+time constants of, 540, 610
+Electric conductivity, 508, 517
+in nervous system, 517–19
+Electric current, 501, 504–8,
+512–16, 532 ff
+alternating (ac) (defn),
+514–15, 526 fn, 611–16
+conduction (defn), 627
+conventional, 505
+direct (dc) (defn), 514
+displacement, 627
+eddy, 600–1
+hazards of, 543–45
+induced, 591
+leakage, 545
+magnetic force on, 564–76
+microscopic view of, 516
+and Ohm’s law, 505–8
+peak, 514
+produced by magnetic field,
+591–95
+produces magnetic field,
+563–65, 579–80
+rms, 514–15
+(see also Electric circuits)
+Electric dipole, 458, 478, 482,
+493, 834
+Electric energy, 474–76,
+478–79, 486–87, 510–12
+stored in capacitor, 486–87
+stored in electric field, 487
+Electric energy resources,
+434–35
+Electric field, 453–59, 463–66,
+477, 478–80, 516, 597
+calculation of, 453–58, 477
+and conductors, 459, 502
+in dielectric, 485–86
+of Earth, 471 pr
+in EM wave, 627–29
+energy stored in, 487
+and Gauss’s law, 463–66
+produced by changing
+magnetic field, 591–95, 597
+produces magnetic fiel

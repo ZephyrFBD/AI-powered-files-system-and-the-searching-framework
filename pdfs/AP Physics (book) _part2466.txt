@@ -1,0 +1,60 @@
+bsorbed by the object in a time 
+and c is the speed of
+light. If, instead, the radiation is fully reflected (suppose the object is a mirror), then
+the momentum transferred is twice as great, just as when a ball bounces elastically
+off a surface:
+c
+d
+(22;9b)
+If a surface absorbs some of the energy, and reflects some of it, then
+where a has a value between 1 and 2.
+Using Newton’s second law we can calculate the force and the pressure
+exerted by EM radiation on an object. The force F is given by
+The radiation pressure P (assuming full absorption) is given by (see Eq. 22–9a)
+We discussed in Section 22–5 that the average intensity is defined as energy per
+unit time per unit area:
+Hence the radiation pressure is
+(22;10a)
+If the light is fully reflected, the radiation pressure is twice as great (Eq. 22–9b):
+(22;10b)
+cfully
+reflectedd
+P = 2I
+c
+.
+cfully
+absorbedd
+P = I
+c
+.
+I =
+¢U
+A ¢t
+.
+I
+P =
+F
+A =
+1
+A
+¢p
+¢t
+=
+1
+Ac
+¢U
+¢t
+.
+F =
+¢p
+¢t
+.
+¢p = a ¢Uc,
+ radiation
+ fully
+ reflected
+¢p = 2 ¢U
+c
+.
+¢t
+¢

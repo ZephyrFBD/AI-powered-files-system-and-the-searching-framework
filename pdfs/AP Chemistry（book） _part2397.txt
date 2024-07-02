@@ -1,0 +1,33 @@
+2
+ 
+ Kc = 4.6 * 10-7
+ Kc = 2.5 * 105
+ Kc = 14.6 * 10-7212.6 * 1052 = 0.12
+Analyze We are given two equilibrium equations and the corre-
+sponding equilibrium constants and are asked to determine the 
+equilibrium constant for a third equation, which is related to the 
+first two.
+Plan We cannot simply add the first two equations to get the third. 
+Instead, we need to determine how to manipulate these equations 
+to come up with equations that we can add to give us the desired 
+equation.
+ 
+▶Practice Exercise 1
+Given the equilibrium constants for the following two reac-
+tions in aqueous solution at 25 °C,
+HNO21aq2 ∆ H+1aq2 + NO2
+-1aq2  Kc = 4.5 * 10-4
+H2SO31aq2 ∆ 2 H+1aq2 + SO3
+-1aq2  Kc = 1.1 * 10-9
+what is the value of Kc for the reaction?
+2 HNO21aq2 + SO 2 -
+3
+1aq2 ∆ H2SO31aq2 + 2 NO2
+-1aq2
+(a) 4.9 * 10-13 (b) 4.1 * 105 (c) 8.2 * 105 (d) 1.8 * 102
+(e) 5.4 * 10-3
+ 
+▶Practice Exercise 2
+Given that, at 700 K, Kp = 54.0 for the reaction 
+H21g2 + I21g2 ∆ 2 HI1g2 and Kp = 1.04 * 10-4 
+for the r

@@ -1,0 +1,20 @@
+d 
+at constant temperature and pressure is directly proportional to 
+the number of moles of the gas. (Section 10.3)
+Avogadro’s number (NA) The number of 12C atoms in exactly 12 g 
+of 12C; it equals 6.022 * 1023 mol-1. (Section 3.4)
+ball-and-stick model Model that depicts atoms as spheres and 
+bonds as sticks. (Section 2.6)
+band An array of closely spaced molecular orbitals occupying a 
+continuous range of energy. (Section 12.4)
+band gap The energy gap between a fully occupied valence band 
+and an empty conduction band. (Section 12.7)
+band structure The electronic structure of a bulk solid. 
+(Section 12.4)
+bar A unit of pressure equal to 105 Pa. (Section 10.2)
+base A substance that is an H+ acceptor; a base produces an 
+excess of OH-1aq2 ions when it dissolves in water. (Section 4.3)
+base-dissociation constant (Kb) An equilibrium constant that 
+expresses the extent to which a base reacts with solvent water, 
+accepting a proton and forming OH-1aq2. (Section 16.7)
+basic anhydride (basic o

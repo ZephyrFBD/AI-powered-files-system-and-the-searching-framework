@@ -1,0 +1,24 @@
+th a Slow Initial Step
+We can most easily see the relationship between the slow step in a mechanism and the 
+rate law for the overall reaction by considering an example in which the first step in a mul-
+tistep mechanism is the rate-determining step. Consider the reaction of NO2 and CO to 
+produce NO and CO2 (Equation 14.25). Below 225 °C, it is found experimentally that the 
+rate law for this reaction is second order in NO2 and zero order in CO: Rate = k3NO242. 
+Can we propose a reaction mechanism consistent with this rate law? Consider the two-
+step mechanism:*
+ 
+Step 1:   NO21g2 + NO21g2 ¡
+k1
+ NO31g2 + NO1g2 1slow2
+Step 2:   NO31g2 + CO1g2
+   ¡
+k2
+ NO21g2 + CO21g2 1fast2
+Overall: NO21g2 + CO1g2 
+¡  NO1g2 + CO21g2
+  
+Step 2 is much faster than step 1; that is, k2 7
+7  k1, telling us that the intermediate 
+NO31g2 is slowly produced in step 1 and immediately consumed in step 2.
+Because step 1 is slow and step 2 is fast, step 1 is the rate-determining step. Thus, the 
+rate of the overall

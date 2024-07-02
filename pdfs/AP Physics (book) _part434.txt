@@ -1,0 +1,25 @@
+ Estimate the initial speed of that
+car assuming a level road.
+45. (II) Drag-race tires in contact with an asphalt surface 
+have a very high coefficient of static friction. Assuming a
+constant acceleration and no slipping of tires, estimate 
+the coefficient of static friction needed for a drag racer to
+cover 1.0 km in 12 s, starting from rest.
+46. (II) For the system of Fig. 4–32 (Example 4–20), how large
+a mass would box A have to have to prevent any motion
+from occurring? Assume ms = 0.30.
+3.6 * 103 N
+3.5 ms?
+0.60 ms2.
+mk
+50. (II) A person pushes a 14.0-kg lawn mower at constant
+speed with a force of
+directed along the handle,
+which is at an angle of 45.0° to the horizontal (Fig. 4–58).
+(a) Draw the free-body diagram showing all forces acting
+on the mower. Calculate (b) the horizontal friction force
+on the mower, then (c) the normal force exerted vertically
+upward on the mower by the ground. (d) What force 
+must the person exert on the lawn mower to accelerate it
+from rest to 
+in 2

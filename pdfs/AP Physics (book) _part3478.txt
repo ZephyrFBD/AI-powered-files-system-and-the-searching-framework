@@ -1,0 +1,18 @@
+ tokamak, first developed in Russia. A tokamak
+(Fig. 31–14) is toroid-shaped (a torus, which is like a donut) and involves compli-
+cated magnetic fields: current-carrying conductors produce a magnetic field
+directed along the axis of the toroid (“toroidal” field); an additional field is pro-
+duced by currents within the plasma itself (“poloidal” field). The combination
+produces a helical field as shown in Fig. 31–14, confining the plasma, at least
+briefly, so it doesn’t touch the vacuum chamber’s metal walls (Fig. 31–15a).
+In 1957, J. D. Lawson showed that the product of ion density n
+and confinement time must exceed a minimum value of approximately
+This Lawson criterion must be reached to produce ignition, meaning fusion that
+continues after all external heating is turned off. Practically, it is expected to be
+achieved with 
+to 
+and 
+To reach break-even, the
+point at which the energy output due to fusion is equal to the energy input to heat
+the plasma, requires an 
+about an order of m

@@ -1,0 +1,14 @@
+ the
+edges and would constructively interfere at the center of the shadow (Fig. 24–18).
+That prediction seemed very unlikely. But when the experiment was actually carried
+out by Francois Arago, the bright spot was seen at the very center of the shadow
+(Fig. 24–19a). This was strong evidence for the wave theory.
+Figure 24–19a is a photograph of the shadow cast by a coin using a coherent
+point source of light, a laser in this case. The bright spot is clearly present at the
+center. Note also the bright and dark fringes beyond the shadow. These resemble
+the interference fringes of a double slit. Indeed, they are due to interference of
+waves diffracted around the outer edge of the disk, and the group of fringes is
+referred to as a diffraction pattern. A diffraction pattern exists around any sharp-
+edged object illuminated by a point source, as shown in Figs. 24–19b and c. We
+are not always aware of diffraction because most sources of light in everyday life
+are not points, so light from diff

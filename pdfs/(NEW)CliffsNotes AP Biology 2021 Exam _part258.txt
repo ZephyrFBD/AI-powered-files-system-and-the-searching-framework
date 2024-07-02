@@ -1,0 +1,11 @@
+is genetics problem is to determine the genotypes for all possible gametes produced by
+both parents. Thus, the tallstemmed parent (genotype Tt ) produces a gamete with the T allele or a gamete with the t
+allele. This is because the genotype Tt is represented by a pair of homologous chromosomes, one with the T allele
+and the other with the t allele. Each chromosome (with its respective allele) migrates to an opposite pole and ends up
+in a separate gamete (the law of segregation). Similarly, the dwarf-stemmed parent produces a gamete with the t
+allele and another gamete with the t allele.
+The next step in the genetic analysis is to determine all the possible ways in which the gametes can combine. This is
+most easily accomplished by creating a Punnett square (Figure 8-3). (Sometimes, you might see a Punnett square
+rotated so that it appears in the shape of a diamond; either method can be used.)
+Figure 8-3
+In a Punnett square for a monohybrid cross, the gametes from one parent are represen

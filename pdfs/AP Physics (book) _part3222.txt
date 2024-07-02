@@ -1,0 +1,14 @@
+ther, and the
+probability distribution looks like Fig. 29–2: the electrons can spend much of
+their time between the two nuclei. The two positively charged nuclei are attracted
+to the negatively charged electron cloud between them, and this is the attraction
+that holds the two hydrogen atoms together to form a hydrogen molecule. This 
+is a covalent bond.
+The probability distributions of Figs. 29–1 and 29–2 can perhaps be better
+understood on the basis of waves. What the exclusion principle requires is that
+when the spins are the same, there is destructive interference of the electron wave
+functions in the region between the two atoms. But when the spins are opposite,
+constructive interference occurs in the region between the two atoms, resulting in
+a large amount of negative charge there. Thus a covalent bond can be said to be
+the result of constructive interference of the electron wave functions in the space
+between the two atoms, and of the electrostatic attraction of the two positive

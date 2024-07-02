@@ -1,0 +1,23 @@
+ does 
+this modification relate to Figure 9.43? (d) Would you ex-
+pect the p
+2p MOs of CO to have equal atomic orbital contri-
+butions from the C and O atoms? If not, which atom would 
+have the greater contribution?
+ 9.112  
+The energy-level diagram in Figure 9.36 shows that the 
+ 
+sideways overlap of a pair of p orbitals produces two molecular 
+orbitals, one bonding and one antibonding. In ethylene there 
+is a pair of electrons in the bonding π orbital between the two 
+carbons. Absorption of a photon of the appropriate wave-
+length can result in promotion of one of the bonding elec-
+trons from the p
+2p to the p*
+2p molecular orbital. (a) Assuming 
+this electronic transition corresponds to the HOMO-LUMO 
+transition, what is the HOMO in ethylene? (b) Assuming this 
+electronic transition corresponds to the HOMO-LUMO tran-
+sition, what is the LUMO in ethylene? (c) Is the C ¬ C bond 
+in ethylene stronger or weaker in the excited state than in the 
+ground state? Why? (d) Is the C¬ C bond in

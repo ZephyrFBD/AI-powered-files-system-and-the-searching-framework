@@ -1,0 +1,40 @@
+ases. Real gases obey the
+R = 8.314 JmolK
+PV = nRT,
+3a
+b,
+¢V = bV
+0 ¢T.
+V
+0:
+a
+¢l = al0 ¢T,
+l0.
+¢T,
+¢l,
+T(K) = T(°C) + 273.15.
+9
+5
+A12CB
+10–10 m
+ideal gas law quite accurately if they are not at too high a pres-
+sure or near their liquefaction point.
+One mole is that amount of a substance whose mass in
+grams is numerically equal to the atomic or molecular mass of
+that substance.
+Avogadro’s number,
+is the number of
+atoms or molecules in 1 mol of any pure substance.
+The ideal gas law can be written in terms of the number of
+molecules N in the gas as
+(13–4)
+where
+is Boltzmann’s constant.
+According to the kinetic theory of gases, which is based on
+the idea that a gas is made up of molecules that are moving
+rapidly and randomly, the average translational kinetic energy
+of molecules is proportional to the Kelvin temperature T:
+(13–8)
+where k is Boltzmann’s constant. At any moment, there exists
+a wide distribution of molecular speeds within a gas.
+The behavior of real gases at high pressure

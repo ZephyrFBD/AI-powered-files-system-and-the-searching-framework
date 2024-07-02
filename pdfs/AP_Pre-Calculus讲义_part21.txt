@@ -1,0 +1,39 @@
+ this function. Find ways to 
+represent this function 
+(a) Algebraically (using a formula) 
+(b) Numerically (using a table of values) 
+(c) Visually (using a graph) 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+Exercise 2 
+ 
+Exercise 3 
+ 
+ 
+ 
+ 
+ 
+19 
+1.2 Definition of Functions (2)  
+1.2.1 Values of a Function: Domain and Range 
+A complete graph of a function contains all the information about a function, because the 
+graph tells us which input values correspond to which output values. 
+To analyze the graph of a function, we must keep in mind that the height of the graph is 
+the value of the function. So we can read off the values of a function from its graph. 
+ 
+Example 1 
+The function T graphed in the figure gives the temperature between noon and 6:00 P.M. at 
+a certain weather station. 
+ 
+(a) Find T (1), T (3), and T (5). 
+(b) Which is larger, T(2) or T (4)? 
+(c) Find the value(s) of x for which T (x) = 25. 
+(d) Find the value(s) of x for which T (x) ≥ 25. 
+(e) Find the net change in temperature fr

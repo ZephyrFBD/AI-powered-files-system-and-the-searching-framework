@@ -1,0 +1,21 @@
+s is numerically equal 
+to the mass in grams of 1 mol of that element. For example (the symbol 1  means “therefore”),
+Cl has an atomic weight of 35.5 amu 1 1 mol Cl has a mass of 35.5 g.
+Au has an atomic weight of 197 amu 1 1 mol Au has a mass of 197 g.
+For other kinds of substances, the same numerical relationship exists between 
+ 
+formula weight and mass of 1 mol of a substance:
+H2O has a formula weight of 18.0 amu 1 1 mol H2O has a mass of 18.0 g (Figure 3.9).
+NaCl has a formula weight of 58.5 amu 1 1 mol NaCl has a mass of 58.5 g.
+ 
+Sample Exercise 3.8 
+Converting Moles to Number of Atoms
+Calculate the number of H atoms in 0.350 mol of C6H12O6.
+SOLUTION
+Analyze We are given the amount of a substance (0.350 mol) and 
+its chemical formula C6H12O6. The unknown is the number of  
+H atoms in the sample.
+Plan Avogadro’s number provides the conversion factor between 
+moles of C6H12O6 and molecules of C6H12O6: 1 mol C6H12O6
+= 6.02 * 1023 molecules of C6H12O6. Once we know the number 
+of mo

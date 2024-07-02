@@ -1,0 +1,24 @@
+represents solutions at various stages 
+of the titration of a weak acid, HA, with NaOH. (The Na+ 
+ions and water molecules have been omitted for clarity.) To 
+which of the following regions of the titration curve does 
+each drawing correspond: (a) before addition of NaOH, 
+ 
+(b) after addition of NaOH but before the equivalence 
+point, (c) at the equivalence point, (d) after the equiva-
+lence point? [Section 17.3]
+Exercises
+Visualizing Concepts
+ 
+17.1  The following boxes represent aqueous solutions contain-
+ing a weak acid, HA and its conjugate base, A-. Water mole-
+cules, hydronium ions, and cations are not shown. Which 
+solution has the highest pH? Explain. [Section 17.1]
+ 
+17.3  A buffer contains a weak acid, HA, and its conjugate 
+base. The weak acid has a pKa of 4.5, and the buffer has a 
+pH of 4.3. Without doing a calculation, state which of 
+these possibilities are correct at pH 4.3. (a) 3HA4 = 3A-4,  
+(b) 3HA4 7 3A-4, or (c) 3HA4 6 3A-4. [Section 17.2]
+ 
+17.4  The following di

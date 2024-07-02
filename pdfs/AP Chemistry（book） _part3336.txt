@@ -1,0 +1,27 @@
+
+required to synthesize adenosine triphosphate (ATP). The 
+body uses ATP as an energy source to drive other reactions 
+(Section 19.7). At pH 7.0 the following reduction potentials 
+pertain to this oxidation of CyFe2+:
+O21g2 + 4 H+1aq2 + 4 e- ¡ 2 H2O1l2        E°
+red = +0.82 V
+CyFe3+1aq2 + e- ¡ CyFe2+1aq2  
+E°
+red = +0.22 V
+(a) What is ∆G for the oxidation of CyFe2+ by air? (b) If the 
+synthesis of 1.00 mol of ATP from adenosine diphosphate 
+(ADP) requires a ∆G of 37.7 kJ, how many moles of ATP are 
+synthesized per mole of O2?
+ 
+[20.117]  The standard potential for the reduction of AgSCN(s) is 
++0.09 V.
+AgSCN1s2 + e- ¡ Ag1s2 + SCN-1aq2
+Using this value and the electrode potential for Ag+1aq2, 
+calculate the Ksp for AgSCN.
+ 
+[20.118]  The Ksp value for PbS(s) is 8.0 * 10-28. By using this value 
+together with an electrode potential from Appendix E, 
+determine the value of the standard reduction potential for 
+the reaction
+PbS1s2 + 2 e- ¡ Pb1s2 + S2-1aq2
+ 20.119  A student designs an amme

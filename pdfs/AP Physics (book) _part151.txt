@@ -1,0 +1,39 @@
+seconds. To do so we can change km h to m s
+(see Section 1–6, and Example 1–5):
+Then
+We almost always write the units for acceleration as 
+(meters per
+second squared) instead of 
+This is possible because:
+Note that acceleration tells us how quickly the velocity changes, whereas
+velocity tells us how quickly the position changes.
+ms
+s
+=
+m
+ss = m
+s2 .
+mss.
+ms2
+a = 21 ms - 0.0 ms
+5.0 s
+= 4.2 ms
+s
+= 4.2 m
+s2 .
+75 kmh =
+a 75 km
+h
+b a 1000 m
+1 km b a 1 h
+3600 s b
+= 21 ms.
+
+
+Velocity and acceleration. (a) If the velocity
+of an object is zero, does it mean that the acceleration is zero? (b) If the
+acceleration is zero, does it mean that the velocity is zero? Think of some examples.
+RESPONSE A zero velocity does not necessarily mean that the acceleration
+is zero, nor does a zero acceleration mean that the velocity is zero. (a) For
+example, when you put your foot on the gas pedal of your car which is at rest,
+the velocity starts from zero but the acceleration is not zero since the ve

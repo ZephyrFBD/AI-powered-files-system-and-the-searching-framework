@@ -1,0 +1,77 @@
+ese sub-
+stances include ammonia and a related class of compounds called amines (Figure 16.15). 
+Relative Fraction
+pH
+2
+4
+6
+8
+10
+12
+14
+0%
+25%
+50%
+75%
+100%
+H3PO4
+HPO4
+2–
+PO4
+3–
+pKa1 = 2.12
+pKa2 = 7.21
+pKa3 = 12.67
+H2PO4
+–
+▲ Figure 16.14 Relative fraction of phosphate species in water as a function of pH for phosphoric acid.
+And therefore Ka2 corresponds to
+Ka2 = 3HPO4
+2-  
+43H3O4 + >3H2PO4
+-4
+Using our log rules, we can see that
+pKa2 = log13H2PO4
+-4>3HPO4
+2-42 + pH
+and therefore if pKa2 has the same value as the pH, the ratio of 
+3H2PO4
+-
+ 
+4 to 3HPO4
+2-
+ 
+4 must be one (since the log of 1 is equal to zero).
+Go Figure
+When hydroxylamine acts as a base, 
+which atom accepts the proton?
+Ammonia
+NH3
+Methylamine
+CH3NH2
+Hydroxylamine
+NH2OH
+▲ Figure 16.15 Structures of ammonia 
+and two simple amines.
+ 
+SECTION 16.7   
+Weak Bases 
+691
+TABLE 16.4 Some Weak Bases in Water at 25 °C
+Base
+Structural Formula*
+Conjugate 
+Acid
+Kb
+Ammonia 1NH32
+H
+N
+H
+H
+NH4
++
+1.8 * 10-5
+Pyridine 1C5H5N2
+N
+C5H5NH+
+1.7 * 1

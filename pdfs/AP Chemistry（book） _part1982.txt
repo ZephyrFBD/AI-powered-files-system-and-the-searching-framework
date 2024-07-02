@@ -1,0 +1,25 @@
+determine whether the lattice vectors 
+are of the same length or of different lengths; (c) determine 
+the type of two-dimensional lattice (from Figure 12.4).
+(i)
+(ii)
+A
+B
+A
+B
+ 12.24  Imagine the primitive cubic lattice. Now imagine grabbing 
+opposite corners and stretching it along the body diagonal 
+while keeping the edge lengths equal. The three angles be-
+tween the lattice vectors remain equal but are no longer 90°. 
+What kind of primitive lattice have you made?
+ 12.25  Which of the three-dimensional primitive lattices has 
+a unit cell where none of the internal angles is 90°? 
+(a) Orthorhombic, (b) hexagonal, (c) rhombohedral, 
+ 
+(d) triclinic, (e) both rhombohedral and triclinic.
+ 12.26  Besides the cubic unit cell, which other unit cell(s) has edge 
+lengths that are all equal to each other? (a) Orthorhom-
+bic, (b) hexagonal, (c) rhombohedral, (d) triclinic, (e) both 
+rhombohedral and triclinic.
+ 12.27  What is the minimum number of atoms that could be con-
+tained in the unit cell

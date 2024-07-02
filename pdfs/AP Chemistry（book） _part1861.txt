@@ -1,0 +1,57 @@
+from the layer above, and three from the layer below. 
+We say that each sphere has a coordination number of 12. The coordination number 
+is the number of atoms immediately surrounding a given atom in a crystal structure.
+Go Figure
+Which one of these unit cells would 
+you expect to represent the densest 
+packing of spheres?
+   atom at
+8 corners
+1 atom
+at center
+(a) Primitive cubic metal
+ 
+1 atom per unit cell
+(b) Body-centered cubic metal
+ 
+2 atoms per unit cell
+(c) Face-centered cubic metal
+ 
+4 atoms per unit cell
+1
+8
+   atom at
+8 corners
+1
+8
+   atom at
+8 corners
+1
+8
+   atom at
+6 faces
+1
+2
+▲ Figure 12.12 A space-filling view of unit 
+cells for metals with a cubic structure. Only 
+the portion of each atom that falls within 
+the unit cell is shown.
+TABLE 12.1 Fraction of Any Atom as a Function of Location within the 
+Unit Cell*
+Atom Location
+Number of Unit Cells  
+Sharing Atom
+Fraction of Atom  
+within Unit Cell
+Corner
+8
+1/8 or 12.5%
+Edge
+4
+1/4 or 25%
+Face
+2
+1/2 or 50%
+Anywhere else
+1
+1 

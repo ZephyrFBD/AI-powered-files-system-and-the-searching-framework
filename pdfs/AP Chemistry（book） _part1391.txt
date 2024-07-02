@@ -1,0 +1,26 @@
+as two nonbonding pairs of electrons on 
+atom A.
+(a) Only one of the statements is true.
+(b) Statements (i) and (ii) are true.
+(c) Statements (i) and (iii) are true.
+(d) Statements (ii) and (iii) are true.
+(e) All three statements are true.
+ 
+▶Practice Exercise 2
+Predict the electron-domain and molecular geometries of  
+(a) BrF3, (b) SF5
++.
+1868
+1168
+ 
+SECTION 9.2    
+The VSEPR Model 
+351
+The C on the left has four electron domains (all bonding), so the electron-domain 
+and molecular geometries around that atom are both tetrahedral. The central C has 
+three electron domains (counting the double bond as one domain), making both the 
+electron-domain and the molecular geometries trigonal planar. The O on the right has 
+four electron domains (two bonding, two nonbonding), so its electron-domain geome-
+try is tetrahedral and its molecular geometry is bent. The bond angles about the central 
+C atom and the O atom are expected to deviate slightly from the ideal values of 120° and 
+109.5° beca

@@ -1,0 +1,49 @@
+.
+(1 ly L 1016 m)?
+1 * 10–23 Wm2.
+1000 Wm2
+r
+r
+l  5  107 m
+FIGURE 22–23
+Search and Learn 4.
+644
+C
+H
+A
+P
+T
+E
+R
+Light: Geometric Optics
+CONTENTS
+23–1 The Ray Model of Light
+23–2 Reflection; Image Formation
+by a Plane Mirror
+23–3 Formation of Images by
+Spherical Mirrors
+23–4 Index of Refraction
+23–5 Refraction: Snell’s Law
+23–6 Total Internal 
+Reflection; Fiber Optics
+23–7 Thin Lenses; Ray Tracing
+23–8 The Thin Lens Equation
+*23–9 Combinations of Lenses
+*23–10 Lensmaker’s Equation
+23
+Reflection from still water, as from
+a glass mirror, can be analyzed using
+the ray model of light.
+Is this picture right side up, or
+upside down? How can you tell?
+What are the clues? Notice the
+people and position of the Sun.
+Ray diagrams, which we will learn to
+draw in this Chapter, can provide
+the answer. See Example 23–3.
+In this first Chapter on light and
+optics, we use the ray model of light
+to understand the formation of
+images by mirrors, both plane and
+curved (spherical). We also study
+refractio

@@ -1,0 +1,19 @@
+epends only on the amount of matter that undergoes change and on 
+the nature of the initial state of the reactants and the final state of the products. This 
+means that whether a particular reaction is carried out in one step or in a series of steps, 
+the sum of the enthalpy changes associated with the individual steps must be the same 
+as the enthalpy change associated with the one-step process. As an example, combustion 
+of methane gas, CH41g2, to form CO21g2 and H2O1l2 can be thought of as occurring in 
+one step, as represented on the left in Figure 5.21, or in two steps, as represented on the 
+right in Figure 5.21: (1) combustion of CH41g2 to form CO21g2 and H2O1g2 and (2) con-
+densation of H2O1g2 to form H2O1l2. The enthalpy change for the overall process is the 
+sum of the enthalpy changes for these two steps:
+ 
+CH41g2 + 2 O21g2 ¡  CO21g2 + 2 H2O1g2 
+∆H = -802 kJ
+1Add2  
+2 H2O1g2 ¡  2 H2O1l2 
+∆H = -88 kJ
+CH41g2 + 2 O21g2 + 2 H2O1g2 ¡  CO21g2 + 2 H2O1l2 + 2 H2O1g2 
+∆H = -890 kJ
+Gi

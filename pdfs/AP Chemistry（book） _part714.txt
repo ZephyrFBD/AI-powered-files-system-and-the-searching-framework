@@ -1,0 +1,30 @@
+hich applies to processes occurring at constant pressure.
+The units of work obtained by using Equation 5.7 will be those of pressure (usually 
+atm) multiplied by those of volume (usually L). To express the work in the more familiar 
+unit of joules, we use the conversion factor 1 L@atm = 101.3 J.
+Go Figure
+If we define the system as the reactants and products, what is 
+the sign of work in this process, positive or negative?
+H2 gas
+plus original
+atmosphere
+Zn(s)
+HCl(aq)
+Piston
+Zn(s)
+HCl(aq)
+Zn(s) 1 2 H1(aq)
+Zn21(aq) 1 H2(g)
+Increase in volume means system
+does pressure–volume work.
+▲ Figure 5.11 A system that does work on its surroundings.
+Give It Some Thought
+If a system does not change its volume during the course of a process, does it do 
+pressure–volume work?
+174 
+CHAPTER 5 Thermochemistry
+ 
+Sample Exercise 5.2
+Calculating Pressure-Volume Work    
+A fuel is burned in a cylinder equipped with a piston. The initial volume of the cylinder is 0.250 L, and the final volume is  
+0.980 L. I

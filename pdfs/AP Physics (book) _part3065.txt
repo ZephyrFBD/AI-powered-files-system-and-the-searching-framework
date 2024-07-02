@@ -1,0 +1,25 @@
+agnetic spectrum does this lie?
+APPROACH We use Eq. 27–10,
+with the energies obtained from
+Fig. 27–29 to find the energy and the wavelength of the transition. The region 
+of the electromagnetic spectrum is found using the EM spectrum in Fig. 22–8.
+SOLUTION In this case,
+Since
+we have
+or 122 nm, which is in the UV region of the EM spectrum, Fig. 22–8. See also
+Fig. 27–25, where this value is confirmed experimentally.
+NOTE An alternate approach: use Eq. 27–16 to find 
+and get the same result.
+Wavelength of a Balmer line. Use the Bohr model to
+determine the wavelength of light emitted when a hydrogen atom makes a
+transition from the
+to the 
+energy level.
+APPROACH We can use Eq. 27–16 or its equivalent, Eq. 27–9, with
+SOLUTION We find
+So
+or 410 nm. This is the fourth line
+in the Balmer series, Fig. 27–24, and is violet in color.
+Absorption wavelength. Use Fig. 27–29 to determine the
+maximum wavelength that hydrogen in its ground state can absorb. What would
+be the next smaller wavelength t

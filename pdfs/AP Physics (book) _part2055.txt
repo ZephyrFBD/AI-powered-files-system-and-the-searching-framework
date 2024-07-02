@@ -1,0 +1,26 @@
+ 19–3a will also pass through 
+and then 
+Hence the
+same current I passes through each resistor. (If it did not, this would imply that
+either charge was not conserved, or that charge was accumulating at some point
+in the circuit, which does not happen in the steady state.)
+We let V represent the potential difference (voltage) across all three resistors
+in Fig. 19–3a. We assume all other resistance in the circuit can be ignored, so V
+equals the terminal voltage supplied by the battery. We let 
+and 
+be the
+potential differences across each of the resistors,
+and 
+respectively.
+From Ohm’s law,
+we can write 
+and 
+Because the resistors are connected end to end, energy conservation tells us that
+the total voltage V is equal to the sum of the voltages across each resistor:
+[series] (19;2)
+Now let us determine the equivalent single resistance 
+that would draw
+the same current I as our combination of three resistors in series; see Fig. 19–3c.
+Such a single resistance 
+would be related to V by
+We 

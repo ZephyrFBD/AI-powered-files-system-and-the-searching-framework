@@ -1,0 +1,10 @@
+) or lose (in a hypertonic solution) the greatest
+amount of water (and weight) when the difference in water potentials across the membrane is greatest. When the
+water potentials are equal (in an isotonic solution), there is no net movement of water, and the weight of the cell
+remains unchanged. Thus, you can identify the sucrose concentrations of the various solutions by the degree to
+which they result in a weight change. A graph of your data, with the solutions plotted such that they are arranged in
+increasing effect on the potato weight, will reveal the solutions in order of solute concentration.
+When there is no change in the weight of a potato, the surrounding sucrose solution is isotonic relative to the potato,
+and the water potentials of the water and surrounding solutions are equal. The water potential (Ψ) of the sucrose
+solution is the sum of its solute potential (Ψs) and pressure potential
+(Ψp), but for a solution in an open beaker, the pressure potential = 0. Ψ (sucrose solut

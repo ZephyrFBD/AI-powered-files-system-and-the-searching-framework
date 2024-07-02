@@ -1,0 +1,11 @@
+e end of this RNA primer. DNA polymerase adds new nucleotides in the 5′ to 3′ direction, always
+connecting the 5′ phosphate on the new nucleotide to the 3′ hydroxyl on the growing nucleotide strand.
+TIP
+When you think of DNA polymerase adding new nucleotides in the 5′ to 3′ direction, think of adding new cars to a toy train. New cars can only
+be added to the back end of the train, not to the engine, just like new nucleotides can only be added to the 3′ hydroxyl, not the 5′ phosphate.
+As discussed previously, DNA molecules have directionality; the two strands of the DNA double helix are
+antiparallel (oriented in opposite directions). Because DNA polymerase can only add new nucleotides in the 5′ to 3′
+direction, and because the two strands of DNA are antiparallel, DNA must proceed slightly differently on the two
+strands, as shown in Figure 15.4.
+Figure 15.4 DNA Replication
+DNA replication can be an intimidating process to learn, and many textbooks have far more detail than you need to kn

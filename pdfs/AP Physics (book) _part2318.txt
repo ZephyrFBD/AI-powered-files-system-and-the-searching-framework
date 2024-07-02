@@ -1,0 +1,30 @@
+y vertical (Fig. 21–12). What is the potential differ-
+ence induced between the wing tips that are 70 m apart?
+APPROACH We consider the wings to be a 70-m-long conductor moving through
+the Earth’s magnetic field. We use Eq. 21–3 to get the emf.
+SOLUTION Since
+and 
+we have
+NOTE Not much to worry about.
+e = Blv = A5 * 10–5 TB(70 m)(280 ms) L 1 V.
+v
+B ⊥B
+B,
+v = 1000 kmh = 280 ms,
+5 * 10–5 T
+1000 kmh
+EXAMPLE 21;5
+ESTIMATE
+Electromagnetic blood-flow measurement. The rate of
+blood flow in our body’s vessels can be measured using the apparatus shown in
+Fig. 21–13, since blood contains charged ions. Suppose that the blood vessel is
+2.0 mm in diameter, the magnetic field is 0.080 T, and the measured emf is 0.10 mV
+.
+What is the flow velocity of the blood?
+APPROACH The magnetic field 
+points horizontally from left to right (N pole
+toward S pole). The induced emf acts over the width
+of the blood
+vessel, perpendicular to 
+and (Fig. 21–13), just as in Fig. 21–11. We can then
+use Eq. 21–3 to get

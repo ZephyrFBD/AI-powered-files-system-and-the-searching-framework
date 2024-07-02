@@ -1,0 +1,48 @@
+corners of a
+square of side 0.80 m. Calculate the magnitude and direc-
+tion of the gravitational force exerted on one sphere by the
+other three.
+TABLE 5;3 Principal Moons of Jupiter 
+(Problems 62 and 63)
+Period
+Mean distance 
+Moon
+Mass (kg)
+(Earth days)
+from Jupiter (km)
+Io 
+1.77 
+Europa 
+3.55 
+Ganymede 
+7.16 
+Callisto 
+16.7 
+1883 * 103
+11
+* 1022
+1070 * 103
+15
+* 1022
+671 * 103
+4.9 * 1022
+422 * 103
+8.9 * 1022
+m
+M
+R
+FIGURE 5;46 Problem 68.
+5;8 Kepler’s Laws
+57. (I) Neptune is an average distance of
+from the
+Sun. Estimate the length of the Neptunian year using the
+fact that the Earth is
+from the Sun on average.
+58. (I) The asteroid Icarus, though only a few hundred meters
+across, orbits the Sun like the planets. Its period is 410 d.
+What is its mean distance from the Sun?
+59. (I) Use Kepler’s laws and the period of the Moon (27.4 d)
+to determine the period of an artificial satellite orbiting
+very near the Earth’s surface.
+60. (II) Determine the mass of the Earth from the known
+period and 

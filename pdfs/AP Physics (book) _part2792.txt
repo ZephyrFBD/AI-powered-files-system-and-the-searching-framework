@@ -1,0 +1,46 @@
+ed eye
+(d) Corrected
+       farsighted eye
+(a) Nearsighted eye
+(c) Farsighted eye
+Object
+Object
+Object
+at ∞
+FIGURE 25–12 A cylindrical lens
+forms a line image of a point object
+because it is converging in one plane
+only.
+Image (line)
+Object
+(point)
+FIGURE 25–13 Lens of reading glasses
+(Example 25–5).
+Image
+Object
+Lens
+Eye
+di
+do
+P H Y S I C S  A P P L I E D
+Corrective lenses
+FIGURE 25–15 (a) Under water, we see a blurry
+image because light rays are bent much less than
+in air. (b) If we wear goggles, we again have an
+air–cornea interface and can see clearly.
+Water
+Object
+Object
+n1.33
+(a)
+Water
+Air
+Face mask
+(b)
+Nearsighted eye. A nearsighted eye has near and far points
+of 12 cm and 17 cm, respectively. (a) What lens power is needed for this person
+to see distant objects clearly, and (b) what then will be the near point? Assume
+that the lens is 2.0 cm from the eye (typical for eyeglasses).
+APPROACH For a distant object
+the lens must put the image at the
+far point of the eye as shown in F

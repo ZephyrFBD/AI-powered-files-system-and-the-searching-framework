@@ -1,0 +1,11 @@
+n to be complex
+mathematically; therefore, they require a significant amount of mathematical knowledge and expertise. Although analytical
+models have great potential, their simplification of complex ecosystems is thought to limit their accuracy. Simulation
+models that use computer programs are better able to deal with the complexities of ecosystem structure.
+A recent development in simulation modeling uses supercomputers to create and run individual-based simulations, which
+accounts for the behavior of individual organisms and their effects on the ecosystem as a whole. These simulations are
+considered to be the most accurate and predictive of the complex responses of ecosystems to disturbances.
+Visit The Darwin Project (http://openstaxcollege.org/l/Darwin_project) to view a variety of ecosystem models.
+Why doesn’t an increased number of prey species in marine ecosystems lead to maximal feeding of predators?
+a.
+Because there may not be enough predators that can eat each of the prey spec

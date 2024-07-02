@@ -1,0 +1,29 @@
+me Thought
+Fundamental
+First overtone
+Second overtone
+1 node
+n 5 1
+n 5 2
+n 5 3
+2 nodes
+◀ Figure 6.16 Standing waves in a vibrating 
+string.
+no greater than the wavelength of the  
+radiation used. Thus, if we 
+want an accurate position measurement for an electron, we must 
+use a short wavelength. This means that photons of high energy 
+must be employed. The more energy the photons have, the more 
+ 
+momentum they impart to the electron when they strike it, which 
+changes the electron’s motion in an unpredictable way. The 
+attempt to measure accurately the electron’s position introduces 
+considerable  
+uncertainty in its momentum; the act of measuring 
+the electron’s position at one moment makes our knowledge of its 
+future position inaccurate.
+Suppose, then, that we use photons of longer wavelength. 
+Because these photons have lower energy, the momentum of 
+the electron is not so appreciably changed during measurement, 
+but at the same time the longer wavelength limits the accuracy 
+with

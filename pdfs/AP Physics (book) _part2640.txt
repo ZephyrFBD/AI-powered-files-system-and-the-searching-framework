@@ -1,0 +1,15 @@
+ The waves spread out in all directions after passing through
+the slits (Fig. 24–6), but they are shown in Figs. 24–7a, b, and c only for three dif-
+ferent angles 
+In Fig. 24–7a, the waves reaching the center of the screen are shown
+Waves from the two slits travel the same distance, so they are in phase:
+a crest of one wave arrives at the same time as a crest of the other wave.
+Hence the amplitudes of the two waves add to form a larger amplitude as shown
+in Fig. 24–8a. This is constructive interference, and there is a bright line at the
+center of the screen. Constructive interference also occurs when the paths of the
+two rays differ by one wavelength (or any whole number of wavelengths), as shown
+in Fig.24–7b; also here there will be a bright line on the screen. But if one ray travels
+an extra distance of one-half wavelength (or 
+and so on), the two waves
+are exactly out of phase (Section 11–11) when they reach the screen: the crests of
+one wave arrive at the same time as the troughs o

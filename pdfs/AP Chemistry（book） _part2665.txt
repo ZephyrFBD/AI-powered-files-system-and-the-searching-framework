@@ -1,0 +1,21 @@
+5COO-1aq2 + C6H5NH3
++1aq2
+ 16.106  What is the pH of a solution that is 2.5 * 10-9 M in NaOH? 
+Does your answer make sense? What assumption do we 
+normally make that is not valid in this case?
+ 16.107  Oxalic acid 1H2C2O42 is a diprotic acid. By using data in 
+Appendix D as needed, determine whether each of the 
+following statements is true: (a) H2C2O4 can serve as both 
+a Brønsted–Lowry acid and a Brønsted–Lowry base. (b) 
+C2O4
+2- is the conjugate base of HC2O4
+-. (c) An aqueous 
+solution of the strong electrolyte KHC2O4 will have pH 6 7.
+ 16.108  Succinic acid 1H2C4H6O42, which we will denote H2Suc, 
+is a biologically relevant diprotic acid with the structure 
+shown below. At 25 °C, the acid-dissociation constants for 
+succinic acid are Ka1 = 6.9 * 10-5 and Ka2 = 2.5 * 10-6. 
+(a) Determine the pH of a 0.32 M solution of H2Suc at 
+25 °C, assuming that only the first dissociation is relevant. 
+(b) Determine the molar concentration of Suc2 -  in the 
+solution in part (a). (c) Is the ass

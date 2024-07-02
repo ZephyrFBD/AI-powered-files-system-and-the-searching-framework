@@ -1,0 +1,28 @@
+ AaBbCc,
+AaBbcc and the ratio 1 : 3 : 1 .
+c.
+Possible genotypes are AABbCc, AABbcc,
+AaBbCc, AaBbcc and the ratio 1 : 1 : 1 : 1 .
+d.
+Possible genotypes are AABbcc, AaBbCC,
+AaBbcc and the ratio 1 : 1 : 1 .
+26. How does the segregation of traits result in different
+combinations of gametes at the end of meiosis?
+510
+Chapter 12 | Mendel's Experiments and Heredity
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+a.
+The chromosomes randomly align during
+metaphase I at the equator, and separation of
+homologous chromosomes occurs during
+anaphase I. Similarly separation of sister
+chromatids occurs at anaphase II of meiosis II.
+At the end of meiosis II, four different gametic
+combinations are produced, each containing a
+haploid set of chromosomes.
+b.
+The chromosomes randomly align during
+anaphase I at the equator. Separation of bivalent
+chromosomes occur during metaphase I of
+meiosis I. Similarly, separation of sister
+chromatids occurs at metaphase II of meiosis II.

@@ -1,0 +1,12 @@
+entary DNA are called
+Okazaki fragments. The Okazaki fragments are connected by DNA ligase, producing a single complementary
+strand. Because this complementary strand requires more time to assemble than the leading strand, it is called the
+lagging strand.
+DNA polymerase is able to attach nucleotides only to an already existing complementary strand. Therefore, to
+initiate a new complementary strand, another enzyme, primase, begins replication with a short segment of RNA
+(not DNA) nucleotides, called an RNA primer. The leading strand and every Okazaki fragment on the lagging
+strand must begin with an RNA primer. When the primer is in place, DNA polymerase can attach succeeding DNA
+nucleotides to the primer. The RNA nucleotides of the RNA primer are later replaced with DNA nucleotides by
+DNA polymerase.
+Figure 9-2 illustrates the growth of leading and lagging DNA complements. In the figure, the RNA primer that
+initiated the leading strand is not shown because it was replaced with DNA nucl

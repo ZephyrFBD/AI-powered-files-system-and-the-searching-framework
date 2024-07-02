@@ -1,0 +1,23 @@
+NH3) and thus a larger equilibrium constant: K = 4.2 * 1010.
+We can combine our two equations using Hess’s law 
+ (Sec-
+tion 5.6) to calculate the enthalpy, entropy, and free-energy changes 
+that occur for en to replace ammonia as ligands on Cu(II):
+3Cu(H2O)2(NH3)242+(aq) + en(aq) ∆ 
+ 
+3Cu(H2O)2(en)42+(aq) + 2 NH3(aq)
+ 
+∆H° = (-54 kJ) - (-46 kJ) = -8 kJ
+ 
+∆S° = (+23 J>K) - (-8.4 J>K) = +31 J>K
+ 
+∆G° = (-61 kJ) - (-43 kJ) = -18 kJ
+Notice that at 27 °C, the entropic contribution (-T∆S°) to the 
+free-energy change, ∆G° = ∆H° - T∆S° (Equation 19.12), is negative 
+and greater in magnitude than the enthalpic contribution (∆H°). The 
+equilibrium constant for the NH39en reaction, 1.4 * 103, shows that 
+the replacement of NH3 by en is thermodynamically favorable.
+The chelate effect is important in biochemistry and molecular 
+biology. The additional thermodynamic stabilization provided by 
+entropy effects helps stabilize biological metal–chelate complexes, 
+such as porphyrins, and can allow chang

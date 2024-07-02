@@ -1,0 +1,14 @@
+rodes. The electrolyte is often incorporated into a paste or gel so that 
+the electrolyte solution does not pour out when the U-tube is inverted. As oxidation and 
+reduction proceed at the electrodes, ions from the salt bridge migrate into the two half-
+cells—cations migrating to the cathode half-cell and anions migrating to the anode half-
+cell—to neutralize charge in the half-cell solutions. Whichever device is used to allow 
+ions to migrate between half-cells, anions always migrate toward the anode and cations 
+toward the cathode.
+Figure 20.6 summarizes the various relationships in a voltaic cell. Notice in partic-
+ular that electrons flow from the anode through the external circuit to the cathode. Because of 
+this directional flow, the anode in a voltaic cell is labeled with a negative sign and the 
+cathode is labeled with a positive sign. We can envision the electrons as being attracted 
+to the positive cathode from the negative anode through the external circuit.
+Electron flow
+Po

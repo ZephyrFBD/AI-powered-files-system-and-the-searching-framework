@@ -1,0 +1,27 @@
+he energy released,
+, is the change in mass
+Next we apply conservation of momentum: the initial particle 
+is at rest, so the 
+and p have opposite momentum but are equal in magnitude:
+We square
+this equation,
+which becomes, using Eq. 26–9 (
+),
+Solving for 
+We substitute Eq. 26–6a,
+for both the 
+and the p:
+Next (after cancelling as shown) we substitute
+After cancelling as shown, we solve for 
+which gives
+Then 
+32–5 Neutrinos
+We first met neutrinos with regard to 
+decay in Section 30–5. The study of
+neutrinos is a “hot” subject today. Experiments are being carried out in deep
+underground laboratories, sometimes in deep mine shafts. The thick layer of
+earth above is meant to filter out all other “background” particles, leaving mainly
+the very weakly interacting neutrinos to arrive at the detectors.
+Some very important results have come to the fore in recent years. First there
+was the solar neutrino problem. The energy output of the Sun is believed to be
+due to the nuclear fusion reactions 

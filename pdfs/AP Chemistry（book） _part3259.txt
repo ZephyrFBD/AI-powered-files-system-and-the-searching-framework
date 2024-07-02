@@ -1,0 +1,22 @@
+ndard reduction potential for reduction of Fe2+1aq2 is less 
+positive than that for reduction of O2, Fe1s2 can be oxidized by O21g2:
+Cathode: 
+O21g2 + 4 H+1aq2 + 4 e- ¡ 2 H2O1l2       E°
+red = 1.23 V
+Anode: 
+ 
+ 
+    Fe1s2 ¡ Fe2+1aq2 + 2 e- 
+E°
+red = -0.44 V
+A portion of the iron, often associated with a dent or region of strain, can serve as an 
+anode at which Fe is oxidized to Fe2+ (Figure 20.25). The electrons produced in the oxi-
+dation migrate through the metal from this anodic region to another portion of the sur-
+face, which serves as the cathode where O2 is reduced. The reduction of O2 requires H+, 
+so lowering the concentration of H+ (increasing the pH) makes O2 reduction less favor-
+able. Iron in contact with a solution whose pH is greater than 9 does not corrode.
+The Fe2+ formed at the anode is eventually oxidized to Fe3+, which forms the 
+hydrated iron(III) oxide known as rust:*
+ 
+4 Fe2+1aq2 + O21g2 + 4 H2O1l2 + x H2O1l2 ¡ 2 Fe2O3 # x H2O1s2 + 8 H+1aq2 
+Because the cathode i

@@ -1,0 +1,11 @@
+adogram shows the submitted sequence highlighted in yellow. Other sequences provide species names. A legend
+(at the far right) provides a common description for the species.
+More detailed information is provided in the second section. Here, each bar of the list of matching sequences is
+described in detail.
+6. References. You can use a link in this column to get a common name for a species (e.g., Gallus gallus is a
+chicken), a description of the sequence (e.g., the sequence is associated with the mRNA that codes for the
+connective-tissue protein collagen), the species classification, the matching DNA sequence, the translated amino
+acid sequence, and published references.
+7. Species. In this column, you are given the name of the species in which the sequence was found and the
+beginning of a description of the sequence. Click on the reference (1st column) to get the complete description.
+8. Alignment Score. The bigger the alignment score, the greater the similarity to the submitted sequen

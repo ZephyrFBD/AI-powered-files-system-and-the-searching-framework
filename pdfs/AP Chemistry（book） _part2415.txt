@@ -1,0 +1,21 @@
+change 
+can happen only if 3NH34 decreases and 3N24 and 3H24 increase. Thus, the reaction pro-
+ceeds toward equilibrium by forming N2 and H2 from NH3; that is, the reaction as written 
+in Equation 15.6 proceeds from right to left.
+This approach can be formalized by defining a quantity called the reaction quotient.
+The reaction quotient, Q, is a number obtained by substituting reactant  
+and product concentrations or partial pressures at any point during a reaction  
+into an equilibrium-constant expression.
+Therefore, for the general reaction
+a A + b B ∆ d D + e E
+the reaction quotient in terms of molar concentrations is
+ 
+Q c =
+3D4d3E4e
+3A4a3B4b 
+[15.24]
+A related quantity Q p can be written for any reaction that involves gases by using partial 
+pressures instead of concentrations.
+Although we use what looks like the equilibrium-constant expression to calculate 
+the reaction quotient, the concentrations we use may or may not be the equilibrium 
+concentrations. For example, when we subs

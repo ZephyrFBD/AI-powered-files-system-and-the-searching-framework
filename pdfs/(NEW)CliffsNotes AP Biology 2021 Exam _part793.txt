@@ -1,0 +1,15 @@
+nt to the number of cells successfully transferred (transformants).
+To calculate the amount of DNA transferred, you need to know each of the values listed below. Values for common
+protocols are provided as an example.
+If there were 22 bacteria colonies on the agar plate,
+then
+ 
+Part III: Design Your Own Investigation
+Design an experiment to investigate any questions that may have occurred to you while doing parts I and II.
+Consider the effects of mutations from UV light or chemicals (caffeine, theobromine, food preservatives, etc.) or
+changes in the transformation protocol. If available, consider the use of other plasmids, such as those that produce
+fluorescent markers (e.g., green fluorescent protein, GFP).
+Investigation 9: Restriction Enzyme Analysis of DNA
+Part I: Review Restriction Enzymes
+Restriction endonucleases (restriction enzymes) are used to cut up DNA. A restriction enzyme cleaves a DNA
+molecule at a specific sequence of nucleotides, producing cuts that are usually jagged, 

@@ -1,0 +1,17 @@
+orption refers to the binding of molecules to a surface, whereas absorption refers 
+to the uptake of molecules into the interior of a substance. 
+ (Section 13.6) Adsorp-
+tion occurs because the atoms or ions at the surface of a solid are extremely reactive. 
+Because the catalyzed reaction occurs on the surface, special methods are often used 
+to prepare catalysts so that they have very large surface areas. Unlike their counter-
+parts in the interior of the substance, surface atoms and ions have unused bonding 
+capacity that can be used to bond molecules from the gas or solution phase to the 
+surface of the solid.
+The reaction of hydrogen gas with ethylene gas to form ethane gas provides an 
+example of heterogeneous catalysis:
+ 
+C2H41g2 + H21g2 ¡ C2H61g2  ∆H° = -137 kJ>mol 
+[14.34]
+Even though this reaction is exothermic, it occurs very slowly in the absence of 
+a catalyst. In the presence of a finely powdered metal, however, such as nickel, 
+palladium, or platinum, the reaction occurs 

@@ -1,0 +1,32 @@
+.5 * 109 yr
+= 1.5 * 10-10 yr-1
+Rearranging Equation 21.20 to solve for time, t, and substituting 
+known quantities gives
+t = - 1
+k ln
+Nt
+N0
+= -
+1
+1.5 * 10-10 yr-1 ln1.000
+1.297 = 1.7 * 109 yr
+ 
+▶Practice Exercise 1
+Cesium-137, which has a half-life of 30.2 yr, is a component 
+of the radioactive waste from nuclear power plants. If the 
+activity due to cesium-137 in a sample of radioactive waste has 
+decreased to 35.2% of its initial value, how old is the sample?
+(a) 1.04 yr (b) 15.4 yr (c) 31.5 yr (d) 45.5 yr (e) 156 yr
+ 
+▶Practice Exercise 2
+A wooden object from an archeological site is subjected to 
+radiocarbon dating. The activity due to 14C is measured to be 
+11.6 disintegrations per second. The activity of a carbon sam-
+ple of equal mass from fresh wood is 15.2 disintegrations per 
+second. The half-life of 14C is 5700 yr. What is the age of the 
+archeological sample?
+ 
+SECTION 21.5  Detection of Radioactivity 
+917
+Go Figure
+Which type of radiation—alpha, beta, or gamma—is likely to

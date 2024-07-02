@@ -1,0 +1,13 @@
+eciprocal of the expression in Equation 15.17. The equilibrium- 
+constant expression for a reaction written in one direction is the reciprocal of the expression for 
+the reaction written in the reverse direction. Consequently, the numerical value of the equi-
+librium constant for the reaction written in one direction is the reciprocal of that for the 
+reverse reaction. Both expressions are equally valid, but it is meaningless to say that the 
+equilibrium constant for the equilibrium between NO2 and N2O4 is “0.212” or “4.72” 
+unless we indicate how the equilibrium reaction is written and specify the temperature. 
+Therefore, whenever you are using an equilibrium constant, you should always write the 
+associated balanced chemical equation.
+The following diagrams represent three systems at equilibrium, all in the 
+same-size containers. (a) Without doing any calculations, rank the systems 
+in order of increasing Kc. (b) If the volume of the containers is 1.0 L and 
+each sphere represents 0.

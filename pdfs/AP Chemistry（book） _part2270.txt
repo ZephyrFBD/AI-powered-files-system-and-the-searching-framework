@@ -1,0 +1,21 @@
+he 
+concentrations of reactants, and in some cases products. Thus, 
+we must relate the concentration of N2O2 to the concentration 
+Continued
+ 
+SECTION 14.6   
+Reaction Mechanisms 
+599
+600 
+CHAPTER 14 Chemical Kinetics
+So far we have considered only three reaction mechanisms: one for a reaction that 
+occurs in a single elementary step and two for simple multistep reactions where there is 
+one rate-determining step. There are other more complex mechanisms, however. If you 
+take a biochemistry class, for example, you will learn about cases in which the concentra-
+tion of an intermediate cannot be neglected in deriving the rate law. Furthermore, some 
+mechanisms require a large number of steps, sometimes 35 or more, to arrive at a rate law 
+that agrees with experimental data!
+14.7 ∣ Catalysis
+A catalyst is a substance that changes the speed of a chemical reaction without under-
+going a permanent chemical change itself. Most reactions in the body, the atmosphere, 
+and the oceans occur with 

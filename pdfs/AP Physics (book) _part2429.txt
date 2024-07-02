@@ -1,0 +1,22 @@
+escribe
+how a GFCI works and compare to fuses and circuit breakers
+(see also Section 18–6).
+2. While demonstrating Faraday’s law to her class, a physics
+professor inadvertently moves the gold ring on her finger
+from a location where a 0.68-T magnetic field points along
+her finger to a zero-field location in 45 ms. The 1.5-cm-
+diameter ring has a resistance and mass of 
+and 15 g,
+respectively. (a) Estimate the thermal energy produced in
+the ring due to the flow of induced current. (b) Find the
+temperature rise of the ring, assuming all of the thermal
+energy produced goes into increasing the ring’s temper-
+ature. The specific heat of gold is 
+3. A small electric car overcomes a 250-N friction force when
+traveling 
+The electric motor is powered by ten
+12-V batteries connected in series and is coupled directly
+to the wheels whose diameters are 58 cm. The 290 armature
+coils are rectangular, 12 cm by 15 cm, and rotate in a 0.65-T
+magnetic field. (a) How much current does the motor draw
+to pr

@@ -1,0 +1,11 @@
+will kill any bacteria that have not absorbed the plasmid and therefore are not resistant to
+ampicillin. It is expected that no bacteria will be seen on this plate. If a colony of bacteria is seen on this plate,
+it could indicate that there was a very rare spontaneous mutation that conferred ampicillin resistance to those
+bacteria, but that is a highly improbable, though not impossible, event.
+Test tube C does contain the plasmid. Its contents are grown on LB agar, upon which both bacteria with or
+without the plasmid will grow, so it is expected that there will be robust growth of bacteria on this plate.
+Test tube D does contain the plasmid. Its contents are grown on LB agar to which ampicillin has been added.
+Ampicillin will kill any bacteria that have not absorbed the plasmid and therefore are not resistant to ampicillin.
+It is expected that any colonies seen on this plate will contain the plasmid with the resistance gene and will be
+considered “transformed.”
+Lab 9: Restriction Enzym

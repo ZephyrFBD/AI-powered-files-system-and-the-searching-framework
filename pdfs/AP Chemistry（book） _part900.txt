@@ -1,0 +1,25 @@
+esent in the resultant spectra (Figure 6.11). Each col-
+ored line in such spectra represents light of one wavelength. A spectrum containing radi-
+ation of only specific wavelengths is called a line spectrum.
+When scientists first detected the line spectrum of hydrogen in the mid-1800s, 
+they were fascinated by its simplicity. At that time, only four lines at wavelengths of 
+410 nm  
+(violet), 434 nm (blue), 486 nm (blue-green), and 656 nm (red) were observed 
+(Figure 6.11). In 1885, a Swiss schoolteacher named Johann Balmer showed that the 
+wavelengths of these four lines fit an intriguingly simple formula that relates the 
+wavelengths to integers. Later, additional lines were found in the ultraviolet and infra-
+red regions of hydrogen’s line  
+spectrum. Soon Balmer’s equation was extended to a 
+more general one, called the Rydberg equation, which allows us to calculate the wave-
+lengths of all the spectral lines of hydrogen:
+ 
+1
+l = 1RH2a 1
+n2
+1
+- 1
+n2
+2
+b 
+[6.4]
+In this formula, l is

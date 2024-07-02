@@ -1,0 +1,15 @@
+s
+929
+†The brilliant young physicist Ettore Majorana (1906–1938) disappeared from a ship under
+mysterious circumstances in 1938 at the age of 31.
+Theoretical models of supernova explosions suggest that the neutrinos are
+emitted in a burst that lasts from a second or two up to perhaps 10 s. If we assume
+the neutrinos are not emitted simultaneously but rather at any time over a 10-s
+interval, then that 10-s difference in arrival times could be due to a 10-s differ-
+ence in their emission time. In this case the data would be consistent with zero
+neutrino mass, and it put an approximate upper limit of
+The actual detection of these neutrinos was brilliant—it was a rare event that
+allowed us to detect something other than EM radiation from beyond the solar
+system, and was an exceptional confirmation of theory. In the experiments, the
+most sensitive detector consisted of several thousand tons of water in an under-
+ground chamber. It detected 11 events in 12 seconds, probably via the reaction

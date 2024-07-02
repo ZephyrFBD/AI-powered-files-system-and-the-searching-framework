@@ -1,0 +1,53 @@
+h
+for water and
+for air:
+We are considering only small angles, so
+with in radians. So
+Snell’s law becomes
+From Fig. 23–25, we see that  
+and  
+Put-
+ting these into Snell’s law,
+we get
+or
+The pool seems only three-fourths as deep as it actually is.
+NOTE Water in general is deeper than it looks—a useful safety guideline.
+d¿  L
+d
+n1
+= 1.0 m
+1.33
+= 0.75 m.
+x
+d¿
+L
+  n1
+x
+d
+u2 L n1 u1 ,
+u1 L tan u1 = xd.
+u2 L tan u2 = xd¿
+u2
+ L
+ n1 u1 .
+u
+sin u L tan u L u,
+sin u2 = n1 sin u1 .
+n2 = 1.0
+n1 = 1.33
+d = 1.0 m,
+d¿
+EXAMPLE 23;9
+658
+CHAPTER 23
+Light: Geometric Optics
+C A U T I O N  (real life)
+Water is deeper than it looks
+EXERCISE C Light passes from a medium with 
+(water) into a medium with
+(glass). Is the light bent toward or away from the perpendicular to the interface?
+n = 1.5
+n = 1.3
+Refraction through flat glass. Light traveling in air strikes
+a flat piece of uniformly thick glass at an incident angle of 60.0°, as shown in
+Fig. 23–24. If the index of refraction of the glass is 1.50, (a) w

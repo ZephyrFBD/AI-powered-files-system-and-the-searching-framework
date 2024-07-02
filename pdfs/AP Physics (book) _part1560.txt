@@ -1,0 +1,22 @@
+GURE 14;11 Radiant energy
+striking a body at an angle u.
+Heating of an object by radiation from the Sun cannot be calculated using
+Eq. 14–7 since this equation assumes a uniform temperature,
+of the environ-
+ment surrounding the object, whereas the Sun is essentially a point source. Hence
+the Sun must be treated as a separate source of energy. About 1350 J of energy
+from the Sun strikes Earth’s atmosphere per second per square meter of area at
+right angles to the Sun’s rays. This number,
+is called the solar constant.
+The atmosphere may absorb as much as 70% of this energy before it reaches the
+ground, depending on the cloud cover. On a clear day, about 
+reaches
+the Earth’s surface. An object of emissivity 
+with area A facing the Sun absorbs
+energy from the Sun at a rate, in watts, of about
+(14;8)
+where is the angle between the Sun’s rays and a line perpendicular to the area A
+(Fig. 14–11). That is,
+is the “effective” area, at right angles to the Sun’s
+rays.
+The explanation for the seaso

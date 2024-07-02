@@ -1,0 +1,13 @@
+ect is moving but also to its direction. A quantity such as velocity, which has
+direction as well as magnitude, is a vector quantity. Other quantities that are also
+vectors are displacement, force, and momentum. However, many quantities have no
+direction associated with them, such as mass, time, and temperature. They are speci-
+fied completely by a number and units. Such quantities are called scalar quantities.
+Drawing a diagram of a particular physical situation is always helpful in
+physics, and this is especially true when dealing with vectors. On a diagram, each
+vector is represented by an arrow. The arrow is always drawn so that it points in
+the direction of the vector quantity it represents. The length of the arrow is drawn
+proportional to the magnitude of the vector quantity. For example, in Fig. 3–1,
+green arrows have been drawn representing the velocity of a car at various places
+as it rounds a curve. The magnitude of the velocity at each point can be read off
+Fig. 3–1 by measu

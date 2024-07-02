@@ -1,0 +1,18 @@
+ranslational Motion
+187
+A leg’s CM. Determine the position of the CM of a whole leg
+(a) when stretched out, and (b) when bent at 90°. See Fig. 7–26. Assume the
+person is 1.70 m tall.
+APPROACH Our system consists of three objects: upper leg, lower leg, and foot.
+The location of the CM of each object, as well as the mass of each, is given in
+Table 7–1, where they are expressed in percentage units. To express the results
+in meters, these percentage values need to be multiplied by 
+When the leg is stretched out, the problem is one dimensional and we can 
+solve for the x coordinate of the CM. When the leg is bent, the problem is two
+dimensional and we need to find both the x and y coordinates.
+SOLUTION (a) We determine the distances from the hip joint using Table 7–1
+and obtain the numbers (%) shown in Fig. 7–26a. Using Eq. 7–9a, we obtain
+(u
+upper leg, etc.)
+Thus, the center of mass of the leg and foot is 20.4 units from the hip joint, or
+from the base of the foot. Since the person is 1.70

@@ -1,0 +1,12 @@
+of their chromosomes.
+Replication of Telomeres
+During replication of the lagging strand, each Okazaki fragment begins when primase, moving toward the
+replication fork, assembles an RNA primer. The RNA primer is subsequently removed and replaced with DNA
+nucleotides by a DNA polymerase moving away from the replication fork (complimentary strand 5′ → 3′). A special
+situation occurs, however, at the telomeres of eukaryotic chromosomes.
+Two problems can occur when replication reaches the end of the DNA strand. One occurs when not enough template
+strand remains to which primase can attach. Another problem occurs when the last primase is removed. If there is no
+next Okazaki fragment to which DNA polymerase can attach, the empty space left by the removal of the primer is
+left unfilled.
+To solve these problems and to prevent the loss of DNA in the replicate strand, the enzyme telomerase attaches to
+the end of the template strand and extends the template strand by adding a short sequence of DNA

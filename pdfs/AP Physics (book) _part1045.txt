@@ -1,0 +1,50 @@
+lly filled to the brim with water, the water that flows
+over the top represents the water displaced by the object.
+rFVg = mFg
+rFV
+V = A ¢h
+= mFg,
+= rFVg
+= rFgA ¢h
+F
+B = F
+2 - F
+1 = rFgAAh2 - h1B
+F
+B
+B ,
+F
+2 = P
+2 A = rFgh2 A.
+F
+1 = P
+1 A = rFgh1 A,
+Δh = h2 −h1
+h2
+h1
+A
+   1
+   2
+F
+
+F
+B
+F
+B
+FIGURE 10–10 Determination of
+the buoyant force.
+SECTION 10–7
+Buoyancy and Archimedes’ Principle
+269
+We can derive Archimedes’ principle in general by the following simple but
+elegant argument. The irregularly shaped object D shown in Fig. 10–11a is acted
+on by the force of gravity (its weight,
+downward) and the buoyant force,
+upward. We wish to determine 
+To do so, we next consider a body (
+in 
+Fig. 10–11b), this time made of the fluid itself, with the same shape and size as the
+original object, and located at the same depth. You might think of this body of
+fluid as being separated from the rest of the fluid by an imaginary membrane.
+The buoyant force 
+on this body of fluid will be exactly the same 

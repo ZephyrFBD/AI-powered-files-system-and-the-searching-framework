@@ -1,0 +1,17 @@
+inusoidal character
+of the waves is shown in Fig. 22–7, which displays the field directions and magni-
+tudes plotted as a function of position along the direction of wave travel. Notice
+that 
+and 
+are perpendicular to each other and to the direction of wave travel.
+We call these waves electromagnetic (EM) waves. They are transverse waves
+because the amplitude is perpendicular to the direction of wave travel. However,
+EM waves are always waves of fields, not of matter (like waves on water or a
+rope). Because they are fields, EM waves can propagate in empty space.
+As we have seen, EM waves are produced by electric charges that are oscil-
+lating, and hence are undergoing acceleration. In fact, we can say in general that
+accelerating electric charges give rise to electromagnetic waves.
+Maxwell derived a formula for the speed of EM waves:
+(22;2)
+where c is the special symbol for the speed of electromagnetic waves in empty
+space, and E and B are the magnitudes of electric and magnetic fields

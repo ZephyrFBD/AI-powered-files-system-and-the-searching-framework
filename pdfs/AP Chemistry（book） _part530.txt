@@ -1,0 +1,22 @@
+bile travels 225 mi with a gas mileage of 20.5 
+mi/gal, how many kilograms of CO2 are produced? Assume 
+that the gasoline is composed of octane, C8H181l2, whose 
+density is 0.692 g>mL. (b) Repeat the calculation for a truck 
+that has a gas mileage of 5 mi/gal.
+ 3.111   
+Section 2.9 introduced the idea of structural isomerism, 
+with 1-propanol and 2-propanol as examples. Determine 
+which of these properties would distinguish these two sub-
+stances: (a) boiling point, (b) combustion analysis results, 
+(c) molecular weight, (d) density at a given temperature and 
+pressure. You can check on the properties of these two com-
+pounds in Wolfram Alpha (http://www.wolframalpha.com/) 
+or the CRC Handbook of Chemistry and Physics.
+ 3.112 A particular coal contains 2.5% sulfur by mass. When this 
+coal is burned at a power plant, the sulfur is converted into 
+sulfur dioxide gas, which is a pollutant. To reduce sulfur 
+ 
+dioxide emissions, calcium oxide (lime) is used. The  
+sulfur 
+ 
+dioxide reacts 

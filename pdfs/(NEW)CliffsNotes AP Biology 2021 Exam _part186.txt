@@ -1,0 +1,17 @@
+ a phosphate group from it.
+When these enzymes dephosphorylate the kinases in a kinase cascade, they serve to terminate the signaling
+response.
+Figure 6-1
+There is both great specificity and great flexibility in transduction pathways. Signaling molecules are specific for the
+binding sites of receptor proteins. However, the response that a specific signaling molecule initiates varies with cell
+type and the influence of cytoplasmic substances.
+The complexity of many signal transduction pathways has several advantages:
+Amplification. It provides a mechanism for amplifying the effect
+of a signaling molecule.
+Control. It gives the cell more control over the accuracy of the
+signaling pathway. Because all components of the pathway must
+be functioning properly, there is a smaller chance that the
+transduction might occur in error.
+Multiplicity. A single signaling molecule can activate multiple
+cytoplasmic proteins, each generating a different biochemical
+response. As a result, multiple processe

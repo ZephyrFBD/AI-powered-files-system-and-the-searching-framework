@@ -1,0 +1,47 @@
+icles from a given alpha-emitting nuclide
+are generally monoenergetic; that is, they all have the same
+kinetic energy. But the beta particles from a beta-emitting
+nuclide have a spectrum of energies. Explain the difference
+between these two cases.
+b±
+b–
+ 90
+234Th + 2
+4He,
+ 92
+238U
+ 93
+239Np S
+ 94
+239Pu + ?
+ 94
+234Pu S ? + a
+24
+46Cr S 23
+46V + ?
+29
+58Cu* S ? + g
+20
+45Ca S ? + e– + R
+g
+a, b,
+Questions
+880
+CHAPTER 30
+Nuclear Physics and Radioactivity
+1. Elements of the Periodic Table are distinguished by
+(a) the number of protons in the nucleus.
+(b) the number of neutrons in the nucleus.
+(c) the number of electrons in the atom.
+(d) Both (a) and (b).
+(e) (a), (b), and (c).
+2. A nucleus has
+(a) more energy than its component neutrons and protons
+have.
+(b) less energy than its component neutrons and protons
+have.
+(c) the same energy as its component neutrons and
+protons have.
+(d) more energy than its component neutrons and 
+protons have when the nucleus is at rest but less
+energy than when i

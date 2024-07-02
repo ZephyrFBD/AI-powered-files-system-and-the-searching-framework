@@ -1,0 +1,25 @@
+first child?
+(c) How long was the first child in the air?
+81. If there were no air resistance, how long would it take a
+free-falling skydiver to fall from a plane at 3200 m to an
+altitude of 450 m, where she will open her parachute? What
+would her speed be at 450 m? (In reality, the air resis-
+tance will restrict her speed to perhaps 
+)
+82. You stand at the top of a cliff while your friend stands on
+the ground below you. You drop a ball from rest and see
+that she catches it 1.4 s later. Your friend then throws the
+ball up to you, such that it just comes to rest in your hand.
+What is the speed with which your friend threw the ball?
+150 kmh.
+4.0 ms.
+196.0 kmh,
+200.0 kmh
+83. On an audio compact disc (CD), digital bits of infor-
+mation are encoded sequentially along a spiral path. Each
+bit occupies about 
+A CD player’s readout laser
+scans along the spiral’s sequence of bits at a constant
+speed of about 
+as the CD spins. (a) Determine
+the number N of digital bits that a CD player reads 

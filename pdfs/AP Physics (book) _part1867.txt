@@ -1,0 +1,30 @@
+ols.
+A
+B
+C
+Q
+V
+FIGURE 17–15 Exercise E.
+Capacitor calculations. (a) Calculate the capacitance of a
+parallel-plate capacitor whose plates are 
+and are separated by a
+1.0-mm air gap. (b) What is the charge on each plate if a 12-V battery is connected
+across the two plates? (c) What is the electric field between the plates? (d) Esti-
+mate the area of the plates needed to achieve a capacitance of 1 F, assuming the
+air gap d is 100 times smaller, or 10 microns (1 micron
+.
+APPROACH The capacitance is found by using Eq. 17–8,
+The
+charge on each plate is obtained from the definition of capacitance, Eq. 17–7,
+The electric field is uniform, so we can use Eq.17–4b for the magnitude
+In (d) we use Eq. 17–8 again.
+SOLUTION (a) The area 
+.
+The capacitance C is then
+(b) The charge on each plate is
+(c) From Eq. 17–4b for a uniform electric field, the magnitude of E is
+(d) We solve for A in Eq. 17–8 and substitute
+and 
+to find that we need plates with an area
+NOTE This is the area of a square 
+or 1 km o

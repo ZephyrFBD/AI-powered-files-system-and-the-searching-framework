@@ -1,0 +1,37 @@
+ere is a resulting Hall effect voltage of
+18 mV across the strip (Section 20–4).
+How many electrons per silicon
+atom are in the conduction band?
+The density of silicon is 
+.
+2330 kgm3
+Search and Learn
+A:
+B: 1.30 mm, 0.87 mm, 0.65 mm.
+C: 0.81 eV.
+0;  5.00 * 10–4 eV;  1.50 * 10–3 eV.
+D: (c).
+E: (c), (e).
+ANSWERS TO EXERCISES
+FIGURE 29–45
+Search and Learn 5.
+I
+B
+B
+6. For an arsenic donor atom in a doped silicon semiconduc-
+tor, assume that the “extra” electron moves in a Bohr orbit
+about the arsenic ion. For this electron in the ground state,
+take into account the dielectric constant 
+of the 
+Si lattice (which represents the weakening of the Coulomb
+force due to all the other atoms or ions in the lattice), and
+estimate (a) the binding energy, and (b) the orbit radius
+for this extra electron. [Hint: Substitute 
+in
+Coulomb’s law; see Section 17–8 and also 27–12.]
+ = K0
+K = 12
+857
+In this Chapter we begin our discussion of nuclear
+physics. We study the properties of nuclei, the
+various fo

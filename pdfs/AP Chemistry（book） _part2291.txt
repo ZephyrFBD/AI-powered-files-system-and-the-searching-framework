@@ -1,0 +1,19 @@
+tains seven Fe atoms 
+and one Mo atom, linked by sulfur atoms. 
+The molecules on the outside of the cofactor 
+connect it to the rest of the protein.
+Formic acid (HCOOH) decomposes in the gas phase at elevated temperatures 
+as follows:
+HCOOH1g2 ¡ CO21g2 + H21g2
+The uncatalyzed decomposition reaction is determined to be first order. A 
+graph of the partial pressure of HCOOH versus time for decomposition at  
+838 K is shown as the red curve in Figure 14.30. When a small amount of 
+solid ZnO is added to the reaction chamber, the partial pressure of acid versus 
+time varies as shown by the blue curve in Figure 14.30.
+(a) Estimate the half-life and first-order rate constant for formic acid 
+decomposition.
+(b) What can you conclude from the effect of added ZnO on the decomposi-
+tion of formic acid?
+(c) The progress of the reaction was followed by measuring the partial pres-
+sure of formic acid vapor at selected times. Suppose that, instead, we had 
+plotted the concentration of formic acid in 

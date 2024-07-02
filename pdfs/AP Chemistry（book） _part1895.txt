@@ -1,0 +1,18 @@
+ 
+NaF, MgF2, and ScF3 (Figure 12.27). Sodium fluoride has the sodium chloride structure 
+with a coordination number of 6 for both cation and anion, as you might expect since 
+NaF and NaCl are quite similar. Magnesium fluoride, however, has two anions for every 
+cation, resulting in a tetragonal crystal structure called the rutile structure. The cation 
+coordination number is still 6, but the fluoride coordination number is now only 3. In 
+the scandium fluoride structure, there are three anions for every cation; the cation coor-
+dination number is still 6, but the fluoride coordination number has dropped to 2. As 
+the cation/anion ratio goes down, there are fewer cations to surround each anion, and so 
+the anion coordination number must decrease. The empirical formula of an ionic com-
+pound can be described quantitatively by the relationship
+ 
+Number of cations per formula unit
+Number of anions per formula unit = anion coordination number
+cation coordination number 
+[12.1]
+Go Figure
+How

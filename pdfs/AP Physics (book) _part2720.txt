@@ -1,0 +1,15 @@
+tion 22–2). In Fig.24–54 the motion of the charges is resolved into two compo-
+nents. An observer at right angles to the direction of the sunlight, as shown, will
+see plane-polarized light because no light is emitted along the line of the other
+component of the oscillation. (When viewing along the line of an oscillation, you
+don’t see that oscillation, and hence see no waves made by it.) At other viewing
+angles, both components will be present; one will be stronger, however, so the
+light appears partially polarized. Thus, the process of scattering explains the
+polarization of skylight.
+Scattering of light by the Earth’s atmosphere depends on wavelength 
+For
+particles much smaller than the wavelength of light (such as molecules of air), the
+particles will be less of an obstruction to long wavelengths than to short ones. The
+scattering decreases, in fact, as 
+Blue and violet light are thus scattered much
+more than red and orange, which is why the sky looks blue. At sunset, the Sun’s rays

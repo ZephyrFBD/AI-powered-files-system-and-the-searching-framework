@@ -1,0 +1,22 @@
+ 10.43
+t Explain how the gas laws relate to the ideal-gas equation and 
+apply the gas laws in calculations. (Sections 10.3 and 10.4) 
+ 
+Related Exercises: 10.25, 10.39, 10.41
+t Calculate the density or molecular weight of a gas. (Section 10.5) 
+ 
+Related Exercises: 10.47, 10.51, 10.53
+t Calculate the volume of gas consumed or formed in a chemical 
+reaction. (Section 10.5) Related Exercises: 10.55, 10.57
+t Calculate the total pressure of a gas mixture given its partial 
+pressures or given information for calculating partial pressures. 
+(Section 10.6) Related Exercises: 10.7, 10.61, 10.63
+t Describe the kinetic-molecular theory of gases and how it 
+ 
+explains the pressure and temperature of a gas, the gas laws, 
+ 
+and the rates of effusion and diffusion. (Sections 10.7 and 10.8) 
+Related Exercises: 10.9, 10.75, 10.79, 10.85
+t Explain why intermolecular attractions and molecular volumes 
+cause real gases to deviate from ideal behavior at high pressure 
+or low temperature. (Section 1

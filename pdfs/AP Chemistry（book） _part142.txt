@@ -1,0 +1,22 @@
+ct to increase  
+(Figure 1.15). Although the temperature of an object is intuitive to most people, the defi-
+nition of work is less apparent. We define work, w, as the product of the force exerted on 
+the object, F, and the distance, d, that it moves:
+ 
+w = F * d 
+[1.1]
+where force is defined as any push or pull exerted on the object.* Familiar examples in-
+clude gravity and the attraction between opposite poles of a bar magnet. It takes work to 
+lift an object off of the floor, or to pull apart two magnets that have come together at the 
+opposite poles.
+Kinetic Energy and Potential Energy
+To understand energy we need to grasp its two fundamental forms, kinetic energy and 
+potential energy. Objects, whether they are automobiles, soccer balls, or molecules, can 
+possess kinetic energy, the energy of motion. The magnitude of kinetic energy, Ek, 
+ 
+of an object depends on its mass, m, and velocity, v:
+ 
+Ek = 1
+2 mv2 
+[1.2]
+Thus, the kinetic energy of an object increases as its velocity or

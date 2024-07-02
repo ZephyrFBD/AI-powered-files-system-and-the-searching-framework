@@ -1,0 +1,11 @@
+es,
+the closer their degree of relatedness. In a phylogenetic tree, the outgroup is the least closely related member of the
+tree. The root of a phylogenetic tree represents the common ancestor of all members of the tree.
+Figure 21.1 Phylogenetic Tree
+In Figure 21.1, points A, B, C, and D represent nodes that indicate common ancestors. Point A represents the
+common ancestor of birds and reptiles, and point C represents the common ancestor of amphibians, birds, reptiles,
+and mammals. The phylogenetic tree indicates that birds and reptiles are more closely related than birds and
+amphibians because birds and reptiles share a more recent common ancestor (at point A) than do birds and
+amphibians (at point C). Keratinous scales are a shared derived characteristic that separate birds and reptiles into a
+clade. Keratinous scales are a characteristic shared by birds and reptiles that other organisms in this phylogenetic
+tree do not possess. Lampreys are the least closely related member of this p

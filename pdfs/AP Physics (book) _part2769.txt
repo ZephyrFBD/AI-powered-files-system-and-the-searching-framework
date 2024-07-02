@@ -1,0 +1,17 @@
+a second or more
+(“time exposures”) to 
+or faster. To avoid blurring from camera movement,
+exposure times shorter than 
+are normally needed. If the object is moving,
+even shorter exposure times are needed to “stop” the action (
+or less).
+If the exposure time is not fast enough, the image will be blurred by camera
+shake. Blurring in low light conditions is more of a problem with cell-phone 
+cameras whose inexpensive sensors need to have the shutter open longer to 
+collect enough light. Digital still cameras or cell phones that take short videos
+must have a fast enough “sampling” time and fast “clearing” (of the charge) so 
+as to take pictures at least 15 frames per second; preferable is 24 fps (like film) 
+or 30, 60, or 120 fps like TV refresh rates (25, 50, or 100 in areas like Europe
+where 50 Hz is the normal line voltage frequency).
+f-stop The amount of light reaching the sensor or film depends on the area of
+the lens opening as well as shutter speed, and must be carefully controlled

@@ -1,0 +1,19 @@
+ed would increase until
+the back emf equaled the input voltage. When there is a mechanical load, the speed
+of the motor may be limited also by the load. The back emf will then be less than
+the external applied voltage. The greater the mechanical load, the slower the motor
+rotates and the lower is the back emf (
+Eq. 21–5).
+e r v,
+Back emf in a motor. The armature windings of a dc motor
+have a resistance of 
+The motor is connected to a 120-V line, and when the
+motor reaches full speed against its normal load, the back emf is 108 V. Calculate
+(a) the current into the motor when it is just starting up, and (b) the current when
+the motor reaches full speed.
+APPROACH As the motor is just starting up, it is turning very slowly, so there
+is negligible back emf. The only voltage is the 120-V line. The current is given by
+Ohm’s law with 
+At full speed, we must include as emfs both the 120-V
+applied emf and the opposing back emf.
+SOLUTION (a) At start up, the current is controlled by the 120 V ap

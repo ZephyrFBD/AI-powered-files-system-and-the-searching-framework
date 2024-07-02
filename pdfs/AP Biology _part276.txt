@@ -1,0 +1,19 @@
+tes contain the following genes: AB, Ab, aB, and ab. There
+would be four different types of gametes. That one crossover results in
+twice the variation in the type of gametes possible.
+******ebook converter DEMO Watermarks*******
+Figure 8.6 One Crossover Between Homologous Chromosomes
+By convention, one map unit distance on a chromosome is the distance
+within which recombination occurs 1 percent of the time. The rate of
+crossover gives no information about the actual distance between genes,
+but it tells us the order of the linked genes on the chromosome.
+Here is one example. Genes A, B, and D are linked. The crossover or
+recombination frequencies for B and D is 5 percent, for B and A is 30
+percent, and for D and A is 25 percent. The linkage map that can be
+constructed from this data is BDA or ADB. Whether you read it forward or
+backward does not matter.
+Recombination Frequencies
+Here is a testcross between a dihybrid and a homozygous recessive for
+both traits
+F1 dihybrid
+× Pure black, v

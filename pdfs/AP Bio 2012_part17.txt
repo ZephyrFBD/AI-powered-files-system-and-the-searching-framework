@@ -1,0 +1,113 @@
+sible outcomes minus one. 
+ 
+Mode = value that occurs most frequently in a data set 
+ 
+Median = middle value that separates the greater and lesser halves of a data set 
+ 
+Mean = sum of all data points divided by number of data points 
+ 
+Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum)
+ 
+Metric Prefixes 
+ 
+Factor
+Prefix
+Symbol
+109   
+ 
+giga   
+G  
+106  
+ 
+mega   
+M  
+103  
+ 
+kilo 
+ 
+k  
+10-2  
+ 
+centi   
+c 
+10-3  
+ 
+milli   
+m 
+10-6  
+ 
+micro   
+ 
+10-9  
+ 
+nano   
+n 
+10-12   
+pico   
+p
+ 
+
+ Biology
+11
+
+
+
+uuu
+Rate and Growth 
+Rate
+dY/dt 
+Population Growth
+dN/dt=B-D 
+Exponential Growth
+max
+dN
+r
+N
+dt 
+ 
+Logistic Growth
+
+
+dN
+K
+N
+r
+N
+dt
+K
+
+max
+=
+ 
+Temperature Coefficient Q10 
+2
+1
+10
+2
+10
+1
+Q
+t
+t
+k
+k
+
+
+
+ 
+
+
+
+Primary Productivity Calculation
+ 
+mg O2/L x 0.698 = mL O2/L 
+ 
+mL O2/L x 0.536 = mg carbon fixed/L 
+ 
+ 
+dY= amount of change 
+t = time 
+B = birth rate 
+D = death rate 
+N = population size 
+K = carrying c

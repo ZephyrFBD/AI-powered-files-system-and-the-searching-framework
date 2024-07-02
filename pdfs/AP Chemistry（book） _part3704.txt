@@ -1,0 +1,18 @@
+ 
+coordination number of the Fe and then use the coordination 
+number to predict the geometry. We can then either make a series 
+of drawings with ligands in different positions to determine the 
+number of isomers or deduce the number of isomers by analogy 
+to cases we have discussed.
+Solve The name indicates that the complex has four carbonyl 
+(CO) ligands and two chloro (Cl-) ligands, so its formula is 
+Fe(CO)4Cl2. The complex therefore has a coordination num-
+ber of 6, and we can assume an octahedral geometry. Like 
+3Co(NH3)4Cl24+ (Figure 23.8), it has four ligands of one type 
+and two of another. Consequently, there are two isomers possi-
+ble: one with the Cl- ligands across the metal from each other, 
+trans@3Fe(CO)4Cl24, and one with the Cl- ligands adjacent to each 
+other, cis@3Fe(CO)4Cl24.
+Comment It is easy to overestimate the number of geometric iso-
+mers. Sometimes different orientations of a single isomer are in-
+correctly thought to be different isomers. If two structures ca

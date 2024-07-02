@@ -1,0 +1,22 @@
+oltage
+source
+
+(a)
+(b)
+†One way to form the pn boundary at the nanometer thicknesses on chips is to implant (or diffuse) 
+n-type donor atoms into the surface of a p-type semiconductor, converting a layer of the p-type
+semiconductor into n-type.
+A graph of current versus voltage for a typical diode is shown in Fig. 29–30.
+A forward bias greater than 0.6 V allows a large current to flow. In reverse bias,
+a real diode allows a small amount of reverse current to flow; for most practical
+purposes, it is negligible.†
+The symbol for a diode is
+[diode]
+where the arrow represents the direction conventional 
+current flows readily.
+A diode. The diode whose current–voltage characteristics
+are shown in Fig. 29–30 is connected in series with a 4.0-V battery in forward
+bias and a resistor. If a current of 15 mA is to pass through the diode, what resis-
+tance must the resistor have?
+APPROACH We use Fig. 29–30, where we see that the voltage drop across the
+diode is about 0.7 V when the current is 15 m

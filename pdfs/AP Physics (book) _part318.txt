@@ -1,0 +1,70 @@
+-
+late the horizontal and vertical components of the acceleration
+of a truck that slowed from 
+to rest in 7.0 s. See
+Fig. 3–48.
+110 kmh
+V
+1 + V
+2 = V
+1 - V
+2.
+V
+R
+2 = V
+1
+2 + V
+2
+2,
+V
+R = V
+1 + V
+2,
+V
+B
+2
+V
+B
+1
+V
+B
+R = V
+B
+1 + V
+B
+2 .
+V
+B
+2,
+V
+B
+1
+General Problems
+57. Apollo astronauts took a “nine iron” to the Moon and hit
+a golf ball about 180 m. Assuming that the swing, launch
+angle, and so on, were the same as on Earth where the
+same astronaut could hit it only 32 m, estimate the accel-
+eration due to gravity on the surface of the Moon. (We
+neglect air resistance in both cases, but on the Moon there
+is none.)
+61. Raindrops make an angle with the vertical when viewed
+through a moving train window (Fig. 3–52). If the speed
+of the train is 
+what is the speed of the raindrops in the
+reference frame of
+the Earth in which
+they are assumed to
+fall vertically?
+vT,
+u
+5.0 m
+35 m
+FIGURE 3;53
+Problem 64.
+General Problems
+73
+u
+FIGURE 3;52
+Problem 61.
+62. A car moving at 
+passes a 1.00-km-long 

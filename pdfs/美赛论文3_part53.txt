@@ -1,0 +1,109 @@
+ng long-wave radiation
+from the atmosphere, which is comparatively important part of the loss of the heat.
+When we regard water as absolute black body ，
+wa
+
+can be calculated
+by Stefan
+Boltzman
+
+fourth-power law, which is
+
+
+4
+273
+wa
+w
+T
+
+
+
+
+
+
+。
+where 
+is Stefan-Boltzman constant, which is
+8
+2
+4
+5.67 10
+/
+W
+m
+K
+
+
+
+. Since the
+water is not totally black body,
+w
+
+can be 0.97, less than 1.
+Team#44509
+Page 22 of 26
+
+
+4
+8
+5.67 10
+0.97
+273
+wa
+T
+
+
+
+
+
+
+
+,
+
+
+4
+8
+5.5 10
+273
+wa
+T
+
+
+
+
+
+
+.
+6.3.3 The evaporation of the water
+Estimation formula about evaporation is usually based on experience, so the
+transfer formula usually can be
+
+
+( )
+e
+s
+a
+f w
+e
+e
+
+
+, where stands for saturate
+evaporation pressure of the air which is close to the water in response to the
+temperature of the water which is close to t,
+5278
+(20.85
+)
+273.3
+s
+e
+exp
+T
+
+
+
+；
+( )
+f w is the function of the wind, including the influences of free convection and
+forced convection on evaporation. w
+stan

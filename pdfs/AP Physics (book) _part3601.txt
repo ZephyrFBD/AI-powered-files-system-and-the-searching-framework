@@ -1,0 +1,46 @@
+f
+each particle (as is done in particle physics), not the half-life 
+. Recall that
+they differ by a factor 0.693:
+, Eq. 30–7. The term
+lifetime in particle physics means the mean life 
+The baryon and lepton numbers 
+as well as strangeness S
+(Section 32–8), as given in Table 32–2 are for particles; their antiparticles have
+opposite sign for these numbers.
+AB, Le, Lm, LtB,
+t  (= mean lifetime).
+t = T1
+2ln 2 = T1
+20.693
+(T1
+2)
+(t)
+B = ±1,
+
+¶, ©, ,
+= 0,
+–1
+±1
+AntB.
+AnmB,
+AneB,
+p
+4 eVc2.
+Re + p S n + e±.
+22 eVc2.
+930
+CHAPTER 32
+Elementary Particles
+Baryon decay. Show that the decay modes of the 
+baryon
+given in Table 32–2 do not violate the conservation laws we have studied up to
+now: energy, charge, baryon number, lepton numbers.
+APPROACH Table 32–2 shows two possible decay modes, (a)
+(b) 
+All the particles have lepton numbers equal to zero.
+SOLUTION (a) Energy: for
+the change in mass-energy is
+so energy can be conserved with the resulting particles having kinetic energy.
+Charge:
+so 

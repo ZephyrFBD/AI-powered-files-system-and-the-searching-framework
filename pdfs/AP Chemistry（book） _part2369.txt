@@ -1,0 +1,25 @@
+kr3NO242 
+[15.4]
+Rearranging this equation gives
+ 
+3NO242
+3N2O44 =
+kf
+kr
+= a constant 
+[15.5]
+From Equation 15.5, we see that the quotient of two rate constants is another constant, 
+which as we will learn is called the equilibrium constant. We also see that, at equilibrium, 
+the ratio of the concentration terms equals this same constant. It makes no difference 
+whether we start with N2O4 or with NO2, or even with some mixture of the two. At equi-
+librium, at a given temperature, the ratio equals a specific value. Thus, there is an import-
+ant constraint on the proportions of N2O4 and NO2 at equilibrium.
+Brown
+Colorless
+Forward reaction Reverse reaction
+Give It Some Thought
+Which of the following variables are equal when the N2O41g2 ∆2 NO21g2 
+reaction reaches equilibrium: (a) kf and kr, (b) the forward and reverse reaction rates,
+(c) the concentrations of 3N2O44 and 3NO24?
+Once equilibrium is established, the concentrations of N2O4 and NO2 no lon-
+ger change, as shown in Figure 15.3(a

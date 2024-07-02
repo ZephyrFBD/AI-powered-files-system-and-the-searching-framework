@@ -1,0 +1,33 @@
+ent of energy conservation: the heat Q added to a system minus the net work W done by the system equals 
+the change in internal energy 
+of the system:
+There are many uses for a heat
+engine such as a modern coal-
+burning power plant, or a steam
+locomotive. The photograph shows a
+steam locomotive which produces
+steam that does work on a piston 
+that moves linkage to turn locomotive
+wheels. The efficiency of any engine is
+limited by nature as described in the
+second law of thermodynamics. This
+great law is best stated in terms of a
+quantity called entropy, which is not
+conserved, but instead is constrained
+always to increase in any real process.
+Entropy is a measure of disorder.
+The second law of thermodynamics
+tells us that as time moves forward,
+the disorder in the universe increases.
+We also discuss practical matters such
+as heat engines, heat pumps,
+refrigerators, and air conditioners.
+¢U = Q - W.
+¢U
+The Laws of
+Thermodynamics
+412
+CONTENTS
+15–1 The First Law of
+Thermodynamics
+15–2 The

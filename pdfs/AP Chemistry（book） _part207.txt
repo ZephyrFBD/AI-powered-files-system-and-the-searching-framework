@@ -1,0 +1,32 @@
+its mass in grams (the unknown).
+(2) We have the following conversion factors either given, commonly known, or 
+available on the back inside cover of the text:
+1.00 g water
+1 mL water 
+1 L
+1000 mL 
+1 L
+1.057 qt 
+1 gal
+4 qt
+The first of these conversion factors must be used as written (with grams in the  
+numerator) to give the desired result, whereas the last conversion factor must be  
+inverted in order to cancel gallons:
+ Mass in grams = 11.00 gal2a
+4 qt
+1 gal b a
+1 L
+1.057 qtb a 1000 mL
+1 L
+b a
+1.00 g
+1 mL b
+ = 3.78 * 103 g water
+The unit of our final answer is appropriate, and we have taken care 
+of our significant figures. We can further check our calculation 
+by estimating. We can round 1.057 off to 1. Then focusing on the 
+numbers that do not equal 1 gives 4 * 1000 = 4000 g, in agree-
+ment with the detailed calculation.
+You should also use common sense to assess the rea-
+sonableness of your answer. In this case we know that most 
+people can lift a gallon of milk with one hand, a

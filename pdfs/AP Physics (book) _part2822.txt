@@ -1,0 +1,40 @@
+yleigh criterion states that two images are just resolvable when
+the center of the diffraction disk of one image is directly over the first minimum in
+the diffraction pattern of the other. This is shown in Fig. 25–31. Since the first
+minimum is at an angle
+from the central maximum, Fig. 25–31
+shows that two objects can be considered just resolvable if they are separated by
+at least an angle given by
+(25;7)
+In this equation, D is the diameter of the lens, and applies also to a mirror
+diameter. This is the limit on resolution set by the wave nature of light due to
+diffraction. A smaller angle means better resolution: you can make out closer
+objects. We see from Eq. 25–7 that using a shorter wavelength can reduce and
+thus increase resolution.
+u
+l
+c2 points just resolvable;
+u in radians
+d
+u = 1.22l
+D
+.
+u
+u = 1.22lD
+D
+u = 1.22l
+D
+,
+u L sin u =
+l
+D
+.
+u
+l
+sin u = lD
+u
+SECTION 25–7
+Limits of Resolution; Circular Apertures
+729
+FIGURE 25–29 Photographs of
+images (greatly magnified) formed by

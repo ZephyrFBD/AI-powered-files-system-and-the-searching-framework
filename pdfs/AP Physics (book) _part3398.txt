@@ -1,0 +1,19 @@
+directly in small bottles containing the liquid scintillator. This is particularly con-
+venient for detection of 
+rays from 
+and 
+which have very low energies
+and have difficulty passing through the outer covering of a crystal scintillator or
+Geiger tube. A PM tube is still used to produce the electric signal from the liquid
+scintillator.
+A semiconductor detector consists of a reverse-biased pn junction diode
+(Section 29–9). A charged particle passing through the junction can excite electrons
+into the conduction band, leaving holes in the valence band. The freed charges
+produce a short electric current pulse that can be counted as for Geiger and 
+scintillation counters.
+Hospital workers and others who work around radiation may carry film badges
+which detect the accumulation of radiation exposure. The film inside is periodically
+replaced and developed, the darkness of the developed film being related to total
+exposure (see Section 31–5).
+Visualization
+The devices discussed so far are us

@@ -1,0 +1,21 @@
+p4
+117
+Ts
+7s25f 14
+6d107p5
+▲ Figure 6.31 Outer-shell electron configurations of the elements.
+The elements Ni, Pd, and Pt are all in the same group. By examining the electron 
+configurations for these elements in Figure 6.31, what can you conclude about the 
+relative energies of the nd and 1n + 12s orbitals for this group?
+Give It Some Thought
+might expect. Similarly, the configuration of copper (element 29) is 3Ar43d104s1 
+instead of 3Ar43d94s2.
+This anomalous behavior is largely a consequence of the closeness of the 3d and 
+4s orbital energies. It frequently occurs when there are enough electrons to form pre-
+cisely half-filled sets of degenerate orbitals (as in chromium) or a completely filled 
+d subshell (as in copper). There are a few similar cases among the heavier transition 
+metals (those with partially filled 4d or 5d orbitals) and among the f-block metals. 
+Although these minor departures from the expected are interesting, they are not of 
+great chemical significance.
+246 
+CH

@@ -1,0 +1,24 @@
+u may wonder why an
+unstable nucleus doesn’t fall apart immediately. In other words, why do 
+nuclei 
+and other isotopes have such long half-lives? Why
+don’t parent nuclei all decay at once?
+The answer has to do with quantum theory and the nature of the forces
+involved. One way to view the situation is with the aid of a potential-energy
+diagram, as in Fig. 30–12. Let us consider the particular case of the decay
+The blue line represents the potential energy, including
+rest mass, where we imagine the 
+particle as a separate entity within the 
+nucleus. The region labeled A in Fig. 30–12 represents the 
+of the 
+particle
+when it is held within the uranium nucleus by the strong nuclear force (
+is the
+nuclear radius). Region C represents the 
+when the 
+particle is free of the
+nucleus. The downward-curving 
+(proportional to 1 r) represents the electrical
+repulsion (Coulomb’s law) between the positively charged and the 
+nucleus.
+To get to region C, the particle has to get through the “Coulomb ba

@@ -1,0 +1,42 @@
+ makes an angle of 27° below
+the horizontal. Initially, without the bear pulling, the angle
+was 15°; the tension in the cord with the bear pulling is
+double what it was when he was not. Calculate the force
+the bear is exerting on the backpack.
+258
+CHAPTER 9
+Static Equilibrium; Elasticity and Fracture
+θ
+θ
+30.00 cm
+7.50 cm
+15.00 cm
+17.50 cm
+5.00 cm
+A
+B
+C
+D
+5.00 cm
+FIGURE 9–90
+Problem 78.
+71. Two identical, uniform beams are symmetrically set up
+against each other (Fig. 9–87) on a floor
+with which they have a coefficient of fric-
+tion
+What is the minimum
+angle the beams can make with the
+floor and still not fall?
+ms = 0.50.
+FIGURE 9–87
+Problem 71.
+72. A steel rod of radius
+and length 
+stands
+upright on a firm surface. A 65-kg man climbs atop the rod.
+(a) Determine the percent decrease in the rod’s length.
+(b) When a metal is compressed, each atom moves closer to
+its neighboring atom by exactly the same fractional amount.
+If iron atoms in steel are normally
+apart, by
+what distance did this

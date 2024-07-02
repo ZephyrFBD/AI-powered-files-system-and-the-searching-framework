@@ -1,0 +1,38 @@
+nerally specified in hertz (Hz),
+where 
+cycle per second 
+Given their definitions, frequency and
+period are inversely related, as we saw earlier (Eqs. 5–2 and 8–8):
+(11;2)
+For example, if the frequency is 2 cycles per second, then each cycle takes
+EXERCISE B If an oscillating mass has a frequency of 1.25 Hz, it makes 100 oscillations
+in (a) 12.5 s, (b) 125 s, (c) 80 s, (d) 8.0 s.
+The oscillation of a spring hung vertically is similar to that of a horizontal spring;
+but because of gravity, the length of a vertical spring with a mass m on the end will
+be longer at equilibrium than when that same spring is horizontal. See Fig. 11–3.
+The spring is in equilibrium when
+so the spring stretches
+an extra amount
+to be in equilibrium. If x is measured from this new
+equilibrium position, Eq. 11–1 can be used directly with the same value of k.
+x0 = mgk
+©F = 0 = mg - kx0,
+1
+2 s.
+f =
+1
+T  and  T =
+1
+f
+.
+As–1B.
+1 Hz = 1
+x = –A.
+x = ±A
+x = –A
+(with a + or - sign).
+x = ±A;
+x = –A
+x = ±A;
+x = 0;
+x = –A;

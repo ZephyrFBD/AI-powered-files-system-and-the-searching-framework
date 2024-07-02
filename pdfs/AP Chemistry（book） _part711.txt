@@ -1,0 +1,18 @@
+ by the symbol H, is defined as the internal energy plus 
+the product of the pressure, P, and volume, V
+, of the system:
+ 
+H = E + PV 
+[5.5]
+Like internal energy E, both P and V are state functions—they depend only on the current 
+state of the system and not on the path taken to that state. Because energy, pressure, and 
+volume are all state functions, enthalpy is also a state function.
+Pressure–Volume Work
+To better understand the significance of enthalpy, recall from Equation 5.4 that ∆E in-
+volves not only the heat q added to or removed from the system but also the work w done 
+*You are probably familiar with the notion of atmospheric pressure from a previous course in 
+chemistry. We will discuss it in detail in Chapter 10. Here we need realize only that the atmo-
+sphere exerts a pressure on the surface of Earth that is nearly constant.
+Give It Some Thought
+You lose 5 pounds over a 30-day period. Which of the following quantities act like a 
+state function: the amount of calories yo

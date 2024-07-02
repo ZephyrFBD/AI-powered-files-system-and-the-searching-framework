@@ -1,0 +1,26 @@
+f 
+depends somewhat on
+the temperature of the material.
+Not only do shiny surfaces emit less radiation, but they absorb little of the
+radiation that falls upon them (most is reflected). Black and very dark objects
+are good emitters
+they also absorb nearly all the radiation that falls on
+them—which is why light-colored clothing is usually preferable to dark clothing
+on a hot day. Thus, a good absorber is also a good emitter.
+Any object not only emits energy by radiation but also absorbs energy radiated
+by other objects. If an object of emissivity 
+and area A is at a temperature 
+it
+radiates energy at a rate 
+If the object is surrounded by an environment 
+at temperature 
+the rate at which the surroundings radiate energy is propor-
+tional to 
+then the rate that energy is absorbed by the object is proportional 
+to 
+The net rate of radiant heat flow from the object is given by the equation
+(14;7)
+where A is the surface area of the object,
+its temperature and 
+its emissivity
+(at temperature 

@@ -1,0 +1,21 @@
+12
+Human body activity (Bq)
+4000
+600
+0.08
+0.4‡
+†Data from “Ionizing Radiation Exposure of the Population of the United States,” Report 93, 1987, and Report 160, 2009, National Council 
+on Radiation Protection.
+‡Includes lead-210 and polonium-210, daughter nuclei of uranium-238.
+21.9 ∣  
+Radiation in the Environment  
+and Living Systems
+We are continuously bombarded by radiation from both natural and artificial sources. 
+We are exposed to infrared, ultraviolet, and visible radiation from the Sun; radio waves 
+from radio and television stations; microwaves from microwave ovens; X rays from med-
+ical procedures; and radioactivity from natural materials (Table 21.8). Understanding the 
+different energies of these various kinds of radiation is necessary in order to understand 
+their different effects on matter.
+When matter absorbs radiation, the radiation energy can cause atoms in the matter to 
+be either excited or ionized. In general, radiation that causes ionization, called ionizing 
+rad

@@ -1,0 +1,33 @@
+eases?
+0
+5
+10
+20
+15
+250
+500
+750
+1000
+Depth (m)
+Temperature (°C)
+1250
+1500
+1750
+0
+▲ Figure 18.17 Typical average temperature of mid-latitude seawater as a function of depth.
+The nature of the rock that contains the groundwater has a large influence on 
+the water’s chemical composition. If minerals in the rock are water soluble to some 
+extent, ions can leach out of the rock and remain dissolved in the groundwater. 
+Arsenic in the form of HAsO4
+2-, H2AsO4
+-, and H3AsO3 is found in many groundwater 
+sources across the world, most infamously in Bangladesh, at concentrations poison-
+ous to humans.
+18.4 ∣  
+Human Activities  
+and Water Quality
+All life on Earth depends on the availability of suitable water. Many human activi-
+ties entail waste disposal into natural waters without any treatment. These practices 
+result in contaminated water that is detrimental to both plant and animal aquatic 
+life. Unfortunately people in many parts of the world do not have access to water 
+that has been tre

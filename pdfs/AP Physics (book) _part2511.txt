@@ -1,0 +1,39 @@
+ like a mirror, as some people thought.)
+Aur = uiB;
+15°
+5
+θ
+4
+θ
+2
+θ
+1
+θ
+3
+θ
+90°
+(b)
+(a)
+15°
+FIGURE 23–5 Example 23–1.
+Reflection from flat mirrors. Two flat mirrors are perpen-
+dicular to each other. An incoming beam of light makes an angle of 15° with the
+first mirror as shown in Fig. 23–5a. What angle will the outgoing beam make with
+the second mirror?
+APPROACH We sketch the path of the beam as it reflects off the two mirrors, and
+draw the two normals to the mirrors for the two reflections. We use geometry and
+the law of reflection to find the various angles.
+EXAMPLE 23;1
+SOLUTION In Fig.23–5b,
+so
+by the law of reflection
+too. Using the fact that the sum of the three angles of a triangle is
+always 180°, and noting that the two normals to the two mirrors are perpendicular
+to each other, we have
+. Thus
+By the law of reflection,
+so 
+is the angle the reflected
+ray makes with the second mirror surface.
+NOTE The outgoing ray is parallel to the incoming ray. Reflectors on bicycles,
+cars, an

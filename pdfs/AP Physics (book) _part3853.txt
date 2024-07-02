@@ -1,0 +1,27 @@
+e denote by 
+) all goes into increasing the internal energy of the gas:
+In the constant-pressure process, work is done. Hence the heat added,
+must
+not only increase the internal energy but also is used to do work 
+Thus, to increase the temperature by the same 
+more heat must be added in
+the process at constant pressure than in the process at constant volume. For the
+process at constant pressure, the first law of thermodynamics gives
+Since 
+is the same in the two processes (we chose 
+to be the same), we can
+combine the two above equations:
+From the ideal gas law,
+so for a process at constant pressure
+Putting this into the last equation and using Eqs. D–1, we find
+or, after cancellations,
+(D;2)
+Since the gas constant 
+our prediction is
+that 
+will be larger than 
+by about 
+Indeed, this is very close
+to what is obtained experimentally, as shown in the last column in Table D–1.
+Now we calculate the molar specific heat of a monatomic gas using kinetic
+theory. For a process carried out at con

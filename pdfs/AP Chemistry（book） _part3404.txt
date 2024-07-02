@@ -1,0 +1,15 @@
+uch as two protons and two neutrons arranged 
+either as 4
+2He or as 2 2
+1H). Figure 21.12 shows average binding energy per nucleon plot-
+ted against mass number. Binding energy per nucleon at first increases in magni-
+tude as mass number increases, reaching about 1.4 * 10-12 J for nuclei whose mass 
+numbers are in the vicinity of iron-56. It then decreases slowly to about 1.2 * 10-12 J 
+for very heavy nuclei. This trend indicates that nuclei of intermediate mass numbers are 
+more tightly bound (and therefore more stable) than those with either smaller or larger mass 
+numbers.
+This trend has two significant consequences: First, heavy nuclei gain stability and 
+therefore give off energy if they are fragmented into two midsized nuclei. This process, 
+known as fission, is used to generate energy in nuclear power plants. Second, because of 
+the sharp increase in the graph for small mass numbers, even greater amounts of energy 
+are released if very light nuclei are combined, or fused togethe

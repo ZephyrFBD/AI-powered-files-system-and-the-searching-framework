@@ -1,0 +1,22 @@
+itions. 
+Thus, ∆H = qP, as we saw in Equation 5.9.
+176 
+CHAPTER 5 Thermochemistry
+5.4 ∣ Enthalpies of Reaction
+Because ∆H = Hfinal - Hinitial, the enthalpy change for a chemical reaction is given by
+ 
+∆H = Hproducts - Hreactants 
+[5.15]
+The enthalpy change that accompanies a reaction is called either the enthalpy of reaction 
+or the heat of reaction and is sometimes written ∆Hrxn, where “rxn” is a commonly used 
+abbreviation for “reaction.”
+When we give a numerical value for ∆Hrxn, we must specify the reaction involved. 
+For example, when 2 mol H21g2 burn to form 2 mol H2O1g2 at a constant pressure, the 
+system releases 483.6 kJ of heat. We can summarize this information as
+ 
+2 H21g2 + O21g2 ¡  2 H2O1g2   
+∆H = -483.6 kJ 
+[5.16]
+The negative sign for ∆H tells us that this reaction is exothermic. Notice that ∆H is re-
+ported at the end of the balanced equation, without explicitly specifying the amounts of 
+chemicals involved. In such cases the coefficients in the balanced equation repre

@@ -1,0 +1,23 @@
+ and is kicked into a new circu-
+lar orbit with a speed of 1.5 v. What is the radius of the new
+orbit in terms of r?
+*90. Use dimensional analysis (Section 1–8) to obtain the form
+for the centripetal acceleration, aR = v2r.
+FIGURE 5;48
+Problem 73.
+85. A satellite of mass 5500 kg orbits the Earth and has a period
+of 6600 s. Determine (a) the radius of its circular orbit,
+(b) the magnitude of the Earth’s gravitational force on the
+satellite, and (c) the altitude of the satellite.
+86. Astronomers using the Hubble Space Telescope deduced
+the presence of an extremely massive core in the distant
+galaxy M87, so dense that it could be a black hole (from
+which no light escapes). They did this by measuring the speed
+of gas clouds orbiting the core to be 
+at a distance
+of 60 light-years
+from the core. Deduce
+the mass of the core, and compare it to the mass of our Sun.
+87. Suppose all the mass of the Earth were compacted into a
+small spherical ball. What radius must the sphere have so
+that the ac

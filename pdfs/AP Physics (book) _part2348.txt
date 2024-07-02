@@ -1,0 +1,39 @@
+ (say from a microphone) are electronically converted to digital—which
+means a series of bits, each of which is a “1” or a “0”, that forms a binary code
+as discussed in Section 17–10. (Recall also, 8 bits in a row
+1 byte.)
+Computers process only digital information.
+=
+II0 sin 2pft
+d
+Secondary coil
+(in toothbrush)
+Primary coil
+(in charger base)
+FIGURE 21–26 This electric 
+toothbrush contains rechargeable 
+batteries which are being recharged
+as it sits on its base. Charging occurs
+from a primary coil in the base to a
+secondary coil in the toothbrush. The
+toothbrush can be lifted from its base
+when you want to brush your teeth.
+P H Y S I C S  A P P L I E D
+Charging phones,
+cars, etc., by 
+induction
+Coil
+Gap
+Read/Write
+head
+Moving magnetic tape
+or rotating disk
+(b)
+(a)
+Electric signal
+input (or output)
+FIGURE 21–27 (a) Photo of a hard drive
+showing several platters and read write heads
+that can quickly move from the edge of the 
+disk to the center. (b) Read Write 
+(playback recording) hea

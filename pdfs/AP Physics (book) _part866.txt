@@ -1,0 +1,55 @@
+j = v + v0
+2
+.
+v = v0 + at,  
+u = v0t +
+1
+2 at2,
+(a = constant),
+T = 1f.
+v = 2pf,
+v
+aR
+atan
+aR = v2r,
+atan = ra,
+v = rv,
+a
+v
+a =
+¢v
+¢t
+.
+a,
+v =
+¢u
+¢t
+.
+v,
+ 
+1 rad L  57.3°.
+ 
+2p rad = 360°
+u
+The rotational equivalent of Newton’s second law is
+(8;14)
+where 
+is the moment of inertia of the object about
+the axis of rotation. I depends not only on the mass of the
+object but also on how the mass is distributed relative to the
+axis of rotation. For a uniform solid cylinder or sphere of
+radius R and mass M, I has the form
+or
+respectively (see Fig. 8–20).
+The rotational kinetic energy of an object rotating about a
+fixed axis with angular velocity 
+is
+(8;15)
+For an object both translating and rotating, the total
+kinetic energy is the sum of the translational kinetic energy of
+the object’s center of mass plus the rotational kinetic energy 
+of the object about its center of mass:
+(8;16)
+as long as the rotation axis is fixed in direction.
+The angular momentum L of an object rotating about a
+fixed

@@ -1,0 +1,22 @@
+r conditioners
+have different COP definitions
+P H Y S I C S  A P P L I E D
+SEER rating
+A good heat pump can sometimes be a money saver and an energy saver,
+depending on the cost of the unit and installation, etc. Compare, for example,
+our heat pump in Example 15–12 to, say, a 1500-W electric heater. We plug the
+heater into the wall, it draws 1500 W of electricity, and it delivers 1500 W of heat to
+the room. Our heat pump when plugged into the wall also draws 1500 W of elec-
+tricity (which is what we pay for), but it delivers 4500 W of heat!
+SEER Rating
+Cooling devices such as refrigerators and air conditioners are often given a rating
+known as SEER (Seasonal Energy Efficiency Ratio), which is defined as
+as measured by averaging over varying (seasonal) conditions. The definition of the
+SEER is basically the same as the COP except for the (unfortunate) mixed units.
+Given that
+(see Section 14–1 and Problem 5 in Chapter 14), then a
+is a COP equal to
+A 
+is a SEER = 10.29 = 3.4.
+COP = 1
+(10

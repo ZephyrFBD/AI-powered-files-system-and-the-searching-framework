@@ -1,0 +1,86 @@
+ rotation axis is given by
+(8;18)
+Newton’s second law, in terms of angular momentum, is
+(8;19)
+If the net torque on an object is zero,
+so
+This is the law of conservation of angular
+momentum for a rotating object.
+The following Table summarizes angular (or rotational)
+quantities, comparing them to their translational analogs.
+Translation
+Rotation
+Connection
+x
+v
+a
+m
+I
+F
+[*Angular velocity, angular acceleration, and angular
+momentum are vectors. For a rigid object rotating about a
+fixed axis, the vectors 
+, and 
+point along the rotation 
+axis. The direction of 
+or 
+is given by the right-hand rule.]
+L
+B
+V
+B
+L
+B
+A
+B
+V
+B ,
+©t = ¢L
+¢t
+©F = ¢p
+¢t
+©t = Ia
+©F = ma
+W = tu
+W = Fd
+L = Iv
+p = mv
+1
+2 Iv2
+ke = 1
+2 mv2
+t = rF sin u
+t
+I = ©mr2
+atan = ra
+a
+v = rv
+v
+x = ru
+u
+L = constant.
+¢L¢t = 0,
+©t =
+¢L
+¢t
+.
+L = Iv.
+ke =
+1
+2 Mvcm
+2
++ 1
+2 Icmv2
+ke =
+1
+2 Iv2.
+v
+2
+5 MR2,
+I = 1
+2 MR2
+I = ©mr2
+©t = Ia,
+Summary
+14. We claim that momentum and angular momentum are
+conserved. Yet most moving or rotating object

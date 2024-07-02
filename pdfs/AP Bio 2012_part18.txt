@@ -1,0 +1,58 @@
+apacity 
+rmax = maximum per capita growth 
+rate of population 
+ 
+Surface Area and Volume 
+ 
+Volume of Sphere
+V =  4/3  r3                       
+ 
+Volume of a cube (or square column)
+V = l w h 
+ 
+Volume of a column
+V =  r2 h 
+ 
+Surface area of a sphere
+A = 4  r2 
+ 
+Surface area of a cube
+A = 6 a  
+ 
+Surface area of a rectangular solid
+A =  (surface area of each side) 
+r = radius  
+l = length 
+h = height 
+w = width 
+A = surface area 
+V = volume 
+=Sum of all 
+a = surface area 
+of one side of the 
+cube 
+Water Potential ()
+ 
+ = p + s  
+ 
+p = pressure potential 
+ 
+s = solute potential 
+ 
+The water potential will be equal to 
+the solute potential of a solution in an 
+open container, since the pressure 
+potential of the solution in an open 
+container is zero.   
+ 
+The Solute Potential of the Solution 
+s = – iCRT 
+ 
+i = ionization constant (For sucrose 
+this is 1.0 because sucrose does not 
+ionize in water) 
+ 
+C= molar concentration 
+ 
+R= pressure constant (R = 0.0831 liter 
+bars/m

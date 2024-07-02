@@ -1,0 +1,14 @@
+
+it moving from rest, or to stop it when it is moving, or to change its velocity sideways
+out of a straight-line path. A truck has much more inertia than a baseball moving
+at the same speed, and a much greater force is needed to change the truck’s
+velocity at the same rate as the ball’s. The truck therefore has much more mass.
+To quantify the concept of mass, we must define a standard. In SI units, the
+unit of mass is the kilogram (kg) as we discussed in Chapter 1, Section 1–5.
+The terms mass and weight are often confused with one another, but it is
+important to distinguish between them. Mass is a property of an object itself
+(a measure of an object’s inertia, or its “quantity of matter”). Weight, on the other
+hand, is a force, the pull of gravity acting on an object. To see the difference,
+suppose we take an object to the Moon. The object will weigh only about one-sixth
+as much as it did on Earth, since the force of gravity is weaker. But its mass will
+be the same. It will have the sa

@@ -1,0 +1,21 @@
+ radius?
+2. On what factors does the periodicity of the Periodic Table
+depend? Consider the exclusion principle, quantization of
+angular momentum, spin, and any others you can think of.
+3. As discussed in Section 28–5: (a) List two aspects of the
+Bohr model that the quantum-mechanical theory of the
+atom retained. (b) Give one major difference between the
+Bohr model and the quantum-mechanical theory of the atom.
+4. Estimate (a) the quantum number for the orbital angular
+momentum of the Earth about the Sun, and (b) the number
+of possible orientations for the plane of Earth’s orbit.
+5. Show that the diffraction spread of a laser beam,
+(Section 28–11), is precisely what you might expect from
+the uncertainty principle. See also Chapters 24 and 25.
+[Hint: Since the beam’s width is constrained by the dimen-
+sion of the aperture D, the component of the light’s
+momentum perpendicular to the laser axis is uncertain.]
+L lD
+l
+6. For noble gases, the halogens, and the alkali metals, explain
+the at

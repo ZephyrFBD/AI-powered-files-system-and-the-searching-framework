@@ -1,0 +1,35 @@
+ecules, it gets absorbed. An electric field 
+perpendicular to
+the long molecules does not have this possibility of doing work and transferring
+its energy, and so passes through freely. When we speak of the transmission axis
+of a Polaroid, we mean the direction for which 
+is passed, so a Polaroid axis is
+perpendicular to the long molecules. [If we want to think of there being slits
+between the parallel molecules in the sense of Fig. 24–39, then Fig. 24–39 would
+apply for the 
+field in the EM wave, not the 
+field.]
+E
+B
+B
+B
+E
+B
+E
+B
+E
+B
+E
+B
+700
+CHAPTER 24
+The Wave Nature of Light
+If a beam of plane-polarized light strikes a Polaroid whose transmission axis
+is at an angle 
+to the incident polarization direction, the beam will emerge 
+plane-polarized parallel to the Polaroid transmission axis, and the amplitude of E
+will be reduced to 
+Fig. 24–41. Thus, a Polaroid passes only that component
+of polarization (the electric field vector,
+) that is parallel to its transmission axis.
+Because the i

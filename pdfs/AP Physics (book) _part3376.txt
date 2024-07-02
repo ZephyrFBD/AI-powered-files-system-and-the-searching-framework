@@ -1,0 +1,80 @@
+may have answered differently the first time.
+Deriving the Half-Life Formula
+We can derive Eq. 30–6 starting from Eq. 30–4 by setting
+at 
+so
+and
+We take natural logs of both sides (“ln” and “e” are inverse operations, meaning
+) and find
+so
+and
+which is Eq. 30–6.
+Mean Life
+Sometimes the mean life
+of an isotope is quoted, which is defined as
+Then Eq. 30–4 can be written 
+just as for RC and LR circuits
+(Chapters 19 and 21 where 
+was called the time constant). The mean life of an
+isotope is then given by (see also Eq. 30–6)
+[mean life] (30;7)
+The mean life and half-life differ by a factor of 0.693, so confusing them can cause
+serious error (and has). The radioactive decay law, Eq. 30–5, can then be written
+as R = R0e–tt.
+t =
+1
+l
+=
+T1
+2
+0.693
+ .
+t
+N = N
+0 e–tt,
+t = 1l.
+t
+*
+T1
+2 = ln 2
+l
+= 0.693
+l
+,
+lT1
+2 = ln 2 = 0.693
+ 
+ln AelT1
+2B = ln 2,
+ln AexB = x
+elT1
+2 = 2.
+1
+2
+= e–lT1
+2
+N
+0
+2
+= N
+0 e–lT1
+2
+t = T1
+2 :
+N = N
+02
+*
+0.693 mg.
+1
+2 mg.
+1
+4 mg.
+1
+8 mg.
+1.0-mg
+11
+22Na
+11
+22Na
+T1
+2 = ln 2

@@ -1,0 +1,25 @@
+eactions for the discharge and charge of a 
+nickel–cadmium (nicad) rechargeable battery. (b) Given 
+the following reduction potentials, calculate the standard 
+emf of the cell:
+Cd1OH221s2 + 2 e- ¡ Cd1s2 + 2 OH-1aq2 
+ 
+E°
+red = -0.76 V
+NiO1OH21s2 + H2O1l2 + e- ¡ Ni1OH221s2 + OH-1aq2
+ 
+E°
+red = +0.49 V
+(c) A typical nicad voltaic cell generates an emf of +1.30 V. 
+Why is there a difference between this value and the one 
+you calculated in part (b)? (d) Calculate the equilibrium 
+constant for the overall nicad reaction based on this typical 
+emf value.
+ 20.105  The capacity of batteries such as the typical AA alkaline 
+battery is expressed in units of milliamp-hours (mAh). An 
+AA alkaline battery yields a nominal capacity of 2850 mAh. 
+(a) What quantity of interest to the consumer is being 
+expressed by the units of mAh? (b) The starting voltage of a 
+fresh alkaline battery is 1.55 V. The voltage decreases during 
+discharge and is 0.80 V when the battery has delivered its 
+rated capacity.

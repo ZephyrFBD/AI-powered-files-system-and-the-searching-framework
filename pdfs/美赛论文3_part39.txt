@@ -1,0 +1,14 @@
+t place, we analyze effects caused by the shape of the tub. According to
+the three model above, shape of bathtub will have an effect on the previous two
+models (the even loop model and the body feeling model), especially on the first one.
+On the other hand, when we turn to the equitation of the model, the main influence
+focuses on the first two periods (the period of cooling and fusion).
+When we are adding water, according to the model of draining away the warm
+water, the shape of bathtub has no influence on the process of water movement and
+heat conduction. However, different shapes of bathtub will lead to the change of
+bathtub’s length, width and height. Try to think about it. If the longest side of bathtub
+changes with water flows as original methods, we need more time to conduct heat.
+This will lead to the change of , and will also result to the difference of temperature
+at the end state.
+In the period of fusion, due to the difference of , we can also see the change of ,
+if we star

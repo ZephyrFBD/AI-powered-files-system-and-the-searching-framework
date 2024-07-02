@@ -1,0 +1,11 @@
+e ratio (G/V). The genetic material (chromosomes) in the nucleus, collectively called its
+genome, controls the cell by producing substances that make enzymes and other biosynthetic substances. These
+substances, in turn, regulate cellular activities. The capacity of the genome to do this is limited by its finite amount
+of genetic material. As the cell grows, its volume increases, but its genome size remains constant. As the G/V
+decreases, the cell’s size exceeds the ability of its genome to produce sufficient amounts of materials for regulating
+cellular activities.
+At the molecular level, the cell cycle is strictly controlled by various signal molecules within the cell. These signals
+respond to internal factors, insuring that the necessary steps in the cell cycle have been accurately completed before
+going on to the next step in the cell cycle.
+1. Checkpoints. At specific points during the cell cycle, the cell evaluates internal and external conditions to
+determine whether or not to con

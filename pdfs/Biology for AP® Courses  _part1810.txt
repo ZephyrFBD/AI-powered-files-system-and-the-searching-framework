@@ -1,0 +1,38 @@
+.org/content/col12078/1.6
+Think About It
+New drugs are being developed that decrease DNA methylation and prevent the removal of acetyl groups from histone
+proteins. Explain how these drugs could affect gene expression to help kill tumor cells.
+How can understanding the gene expression in a cancer cell tell you something about that specific form of cancer?
+Chapter 16 | Gene Regulation
+663
+3' UTR
+5' cap
+5' UTR
+activator
+catabolite activator protein (CAP)
+cis-acting element
+dicer
+DNA methylation
+enhancer
+epigenetic
+eukaryotic initiation factor-2 (eIF-2)
+gene expression
+guanine diphosphate (GDP)
+guanine triphosphate (GTP)
+histone acetylation
+inducible operon
+initiation complex
+lac operon
+large 60S ribosomal subunit
+microRNA (miRNA)
+myc
+negative regulator
+operator
+operon
+poly-A tail
+positive regulator
+post-transcriptional
+KEY TERMS
+3' untranslated region; region just downstream of the protein-coding region in an RNA molecule that is not
+translated
+a methylated guanosine triphosphate (GTP) m

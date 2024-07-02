@@ -1,0 +1,14 @@
+
+distance from the nucleus is the same regardless of the direction in which we proceed 
+from the nucleus. All of the other s orbitals (2s, 3s, 4s, and so forth) are also spherically 
+symmetric and centered on the nucleus.
+Recall that the l quantum number for the s orbitals is 0; therefore, the ml quantum 
+number must be 0. Thus, for each value of n, there is only one s orbital. So how do s orbit-
+als differ as the value of n changes? For example, how does the  
+electron-density distribu-
+tion of the hydrogen atom change when the electron is excited from the 1s orbital to the 
+2s orbital? To address this question, we will look at the radial probability density, which is 
+the probability that the electron is at a specific distance from the nucleus.
+Figure 6.19 shows the radial probability densities for the 1s, 2s, and 3s orbitals of hydro-
+gen as a function of r, the distance from the nucleus—each resulting curve is the radial 
+probability function for the orbital. Three features of thes

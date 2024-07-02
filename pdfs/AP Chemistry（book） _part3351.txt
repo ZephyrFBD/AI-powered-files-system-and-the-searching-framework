@@ -1,0 +1,28 @@
+sents the energy lost when the nucleons in a nuclear reaction reorganize into more 
+stable arrangements. Often gamma rays are not explicitly shown when writing nuclear 
+equations.
+Positron Emission and Electron Capture Two other types of radioactive decay are 
+positron emission and electron capture. A positron, represented as 
+0
++1e, or simply as b+, 
+is a particle that has the same mass as an electron (thus, we use the letter e and super-
+script 0 for the mass) but the opposite charge (represented by the +1 subscript).*
+The isotope carbon-11 decays by positron emission:
+ 
+11
+6C ¡ 11
+5B +  0
++1e 
+[21.4]
+Positron emission causes the atomic number of the reactant in this equation to decrease 
+from 6 to 5. In general, positron emission has the effect of converting a proton to a neu-
+tron, thereby decreasing the atomic number of the nucleus by 1 while not changing the 
+mass number:
+ 
+1
+1p ¡ 1
+0n +
+0
++1e or p ¡ n + b+ 
+[21.5]
+Electron capture is the capture by the nucleus of an electron fro

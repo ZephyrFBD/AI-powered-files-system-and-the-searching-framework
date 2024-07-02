@@ -1,0 +1,28 @@
+ a pH of 2.34. What is the 
+concentration of the acid?
+What is the pH of (a) a 0.028 M solution of NaOH, (b) a 0.0011 M solution of Ca1OH22?
+Sample Exercise 16.9 
+Calculating the pH of a Strong Base
+SOLUTION
+Analyze We are asked to calculate the pH of two solutions of strong 
+bases.
+Plan We can calculate each pH by either of two equivalent meth-
+ods. First, we could use Equation 16.16 to calculate 3H+4 and then 
+use Equation 16.17 to calculate the pH. Alternatively, we could 
+use 3OH -4 to calculate pOH and then use Equation 16.20 to cal-
+culate the pH.
+Solve
+(a) NaOH dissociates in water to give one OH- ion per formula 
+unit. Therefore, the OH - concentration for the solution in (a) 
+equals the stated concentration of NaOH, namely 0.028 M.
+Method 1:
+3H+4 = 1.0 * 10-14
+0.028
+= 3.57 * 10-13 M
+ 
+   pH = -log13.57 * 10-132 = 12.45
+Method 2:
+pOH = -log10.0282 = 1.55
+pH = 14.00 - pOH = 12.45
+(b) Ca1OH22 is a strong base that dissociates in water to give two 
+OH - ions per formula unit. Thus

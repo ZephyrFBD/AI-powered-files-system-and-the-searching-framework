@@ -1,0 +1,75 @@
+ function is one-to-one. 
+, 
+.
+2
+2
+p
+p
+é
+ù
+-
+ê
+ú
+ë
+û
+A natural way to do this is to restrict the domain to the interval  
+ 
+We see that sine is one-to-one on this restricted domain (by the Horizontal Line Test) and 
+so has an inverse. 
+ 
+We can now define an inverse sine function on this restricted domain. The graph of y = sin-
+1x is obtained by reflecting the graph of y=sin x in the line y=x. 
+ 
+ 
+ 
+125 
+ 
+The inverse sine function is also called arcsine, denoted by arcsin. 
+In fact, from the general properties of inverse functions, we have the following 
+cancellation properties. 
+1
+1
+sin(sin
+)
+for
+1
+1
+sin (sin )
+for
+2
+2
+x
+x
+x
+x
+x
+x
+p
+p
+-
+-
+=
+- £
+£
+=
+-
+£
+£
+ 
+ 
+Example 1 
+Find each value. 
+ 
+ 
+ 
+ 
+ 
+ 
+3.5.3 The Inverse Cosine Function 
+If the domain of the cosine function is restricted to the interval [0,  ], the resulting function 
+is one-to-one and so has an inverse. 
+We choose this interval because on it, cosine attains each of its values exactly once. 
+ 
+ 
+126 
+The inverse cosine 

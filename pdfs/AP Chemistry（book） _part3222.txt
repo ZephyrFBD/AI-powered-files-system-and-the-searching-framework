@@ -1,0 +1,32 @@
+, is related to the standard free-energy change for the reaction, ∆G°:
+ 
+∆G = ∆G° + RT ln Q 
+[20.15]
+The quantity Q is the reaction quotient, which has the form of the equilibrium-constant 
+expression except that the concentrations are those that exist in the reaction mixture at a 
+given moment. 
+ (Section 15.6)
+Substituting ∆G = -nFE (Equation 20.11) into Equation 20.15 gives
+ 
+-nFE = -nFE° + RT ln Q 
+Solving this equation for E gives the Nernst equation:
+ 
+E = E° - RT
+nF ln Q 
+[20.16]
+This equation is customarily expressed in terms of the base-10 logarithm:
+ 
+E = E° - 2.303 RT
+nF
+ log Q 
+[20.17]
+At T = 298 K, the quantity 2.303 RT>F equals 0.0592, with units of volts, and so the 
+Nernst equation simplifies to
+ 
+E = E° - 0.0592 V
+n
+ log Q  1T = 298 K2 
+[20.18]
+We can use this equation to find the emf E produced by a cell under nonstandard condi-
+tions or to determine the concentration of a reactant or product by measuring E for the 
+cell. For example, consider the following reaction:

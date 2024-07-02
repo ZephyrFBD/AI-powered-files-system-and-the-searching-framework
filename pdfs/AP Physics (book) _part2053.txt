@@ -1,0 +1,53 @@
+12 V - (10 A)(0.1 ) = 11 V.
+0.1 ,
+V
+ab = e - Ir.
+V
+ab = e.
+V
+ab = V
+a - V
+b.
+e
+e
+e
+SECTION 19–1
+EMF and Terminal Voltage
+527
+r
+a
+b
+V
+ab =
+terminal voltage
++
+–
+e
+FIGURE 19–1 Diagram for an
+electric cell or battery.
+†The term “electromotive force” is a misnomer—it does not refer to a “force” that is measured in 
+newtons. To avoid confusion, we use the abbreviation, emf.
+C A U T I O N
+Why battery voltage isn’t perfectly
+constant
+e =
+12.0 V
+r =
+0.5 Ω
+R = 65.0 Ω
+a
+b
+I
+FIGURE 19–2 Example 19–1.
+Battery with internal resistance. A 
+resistor is
+connected to the terminals of a battery whose emf is 12.0 V and whose internal
+resistance is 
+Fig. 19–2. Calculate (a) the current in the circuit, (b) the
+terminal voltage of the battery,
+and (c) the power dissipated in the resistor R
+and in the battery’s internal resistance r.
+APPROACH We first consider the battery as a whole, which is shown in Fig.19–2
+as an emf 
+and internal resistance r between points a and b. Then we apply
+to the circuit itself.

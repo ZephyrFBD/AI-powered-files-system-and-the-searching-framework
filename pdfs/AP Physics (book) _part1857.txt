@@ -1,0 +1,31 @@
+f point charges is far easier,
+because the electric potential is a scalar, and hence you only need to add numbers
+(with appropriate signs) without concern for direction.
+Potential above two charges. Calculate the electric poten-
+tial (a) at point A in Fig. 17–10 due to the two charges shown, and (b) at point B.
+[This is the same situation as Examples 16–9 and 16–10, Fig. 16–29, where we
+calculated the electric field at these points.]
+APPROACH The total potential at point A (or at point B) is the algebraic sum
+of the potentials at that point due to each of the two charges 
+and 
+The
+potential due to each single charge is given by Eq. 17–5. We do not have to
+worry about directions because electric potential is a scalar quantity. But we do
+have to keep track of the signs of charges.
+Q2 .
+Q1
+EXAMPLE 17;6
+A
+B
+30 cm
+26 cm
+60 cm
+40 cm
+26 cm
+Q2 = +50 mC
+x
+Q1 = −50 mC
+y
+FIGURE 17–10 Example 17–6. (See also
+Examples 16–9 and 16–10, Fig. 16–29.)
+SOLUTION (a) We add the potentials at point A due to

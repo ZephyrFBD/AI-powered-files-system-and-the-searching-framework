@@ -1,0 +1,61 @@
+ergy,
+or the dissociation energy. For the hydrogen molecule,
+the bond energy 
+is 4.5 eV.
+H2 ,
+H2
+H2
+¢p
+¢x
+– 1
+2
+± 1
+2
+ms
+S = 0
+S = 1,
+S = 1
+S = 0
+S = 0.
+ms = – 1
+2
+ms = ± 1
+2
+S = 1
+2 + 1
+2 = 1;
+(n = 1)
+H2 .
+*
+830
+CHAPTER 29
+Molecules and Solids
+Nucleus
+(1e)
+Nucleus
+(1e)
+FIGURE 29–1 Electron probability
+distribution (electron cloud) for two
+H atoms when the spins are the same:
+S = 1
+2 + 1
+2 = 1.
+FIGURE 29–2 Electron probability
+distribution (cloud) around two
+H atoms when the spins are opposite
+in this case, a bond is
+formed because the positive nuclei
+are attracted to the concentration of
+the electron cloud’s negative charge
+between them. This is a hydrogen
+molecule, H2.
+(S = 0):
+Nucleus
+(1e)
+Nucleus
+(1e)
+Ionic Bonds
+An ionic bond is, in a sense, a special case of the covalent bond. Instead of the
+electrons being shared equally, they are shared unequally. For example, in sodium
+chloride (NaCl), the outer electron of the sodium spends nearly all its time
+around the chlorine (Fig. 29

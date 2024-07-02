@@ -1,0 +1,35 @@
+mation (Fig.23–13) and the more
+blurred the image. This “defect” of spherical mirrors is called spherical aberration;
+we will discuss it more with regard to lenses in Chapter 25. A parabolic reflector,
+on the other hand, will reflect the rays to a perfect focus. However, because para-
+bolic shapes are much harder to make and thus much more expensive, spherical
+mirrors are used for most purposes. (Many astronomical telescopes use parabolic
+reflectors, as do TV satellite dish antennas which concentrate radio waves to
+nearly a point, Fig. 22–19.) We consider here only spherical mirrors and we will
+assume that they are small compared to their radius of curvature so that the
+image is sharp and Eq. 23–1 holds.
+u
+f =
+r
+2
+.
+CA = 2 * FA = r.
+FA = f,
+FA = FC.
+CF = FB.
+u
+u
+u
+SECTION 23–3
+651
+Diverging rays
+heading toward eye
+Ray 3 is perpendicular 
+to mirror, and so must
+reflect  back on itself
+and go through C
+(center of
+curvature).
+Ray 2 goes through F
+and then reflects back 
+parallel to the ax

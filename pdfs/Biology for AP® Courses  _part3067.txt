@@ -1,0 +1,12 @@
+icular
+synapse—most neurons are both presynaptic and postsynaptic. There are two types of synapses: chemical and electrical.
+Chemical Synapse
+When an action potential reaches the axon terminal it depolarizes the membrane and opens voltage-gated Na+ channels.
+Na+ ions enter the cell, further depolarizing the presynaptic membrane. This depolarization causes voltage-gated Ca2+
+channels to open. Calcium ions entering the cell initiate a signaling cascade that causes small membrane-bound vesicles,
+called synaptic vesicles, containing neurotransmitter molecules to fuse with the presynaptic membrane. Synaptic vesicles
+are shown in Figure 26.14, which is an image from a scanning electron microscope.
+Figure 26.14 This pseudocolored image taken with a scanning electron microscope shows an axon terminal that was
+broken open to reveal synaptic vesicles (blue and orange) inside the neuron. (credit: modification of work by Tina
+Carvalho, NIH-NIGMS; scale-bar data from Matt Russell)
+Fusion of a vesic

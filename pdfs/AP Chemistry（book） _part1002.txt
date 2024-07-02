@@ -1,0 +1,17 @@
+. The 
+magnetic quantum number, ml, relates to the orientation of the orbital 
+in space. For a given value of l, ml can have integral values ranging 
+from -l to l, including 0. Subscripts can be used to label the orienta-
+tions of the orbitals. For example, the three 3p orbitals are designated 
+3px, 3py, and 3pz, with the subscripts indicating the axis along which 
+the orbital is oriented.
+An electron shell is the set of all orbitals with the same value 
+of n, such as 3s, 3p, and 3d. In the hydrogen atom all the orbitals in 
+an electron shell have the same energy. A subshell is the set of one or 
+more orbitals with the same n and l values; for example, 3s, 3p, and 
+3d are each subshells of the n = 3 shell. There is one orbital in an s 
+subshell, three in a p subshell, five in a d subshell, and seven in an f 
+subshell.
+REPRESENTATIONS OF ORBITALS (SECTION 6.6) Contour repre-
+sentations are useful for visualizing the shapes of the orbitals. Rep-
+resented this way, s orbitals appear as sp

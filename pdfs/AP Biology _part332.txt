@@ -1,0 +1,22 @@
+of gene mutation results from a single nucleotide insertion
+or deletion. To continue the three-letter word analogy, a deletion is the
+loss of one letter, and an insertion is the addition of a letter into the DNA
+sentence. Both mutations result in a frameshift, because the entire
+reading frame is altered.
+IST-2 & IST-4
+Changes in genotype can result in changes in phenotype.
+Deletion of the letter E shifts the reading frame:
+↓
+THE FAT CAT SAW THE DOG → THF ATC ATS AWT HED OG
+Insertion of the letter T shifts the reading frame:
+↓
+THE FAT CAT SAW THE DOG → THE FTA TCA TSA WTH EDO G
+As a result of the frameshift, one of two things can happen. Either a
+mutated polypeptide is formed or no polypeptide is formed.
+THE GENETICS OF VIRUSES AND BACTERIA
+Since the early part of the twentieth century when Griffith discovered the
+transformation factor, knowledge of genetics has been based on work with
+******ebook converter DEMO Watermarks*******
+■
+1.
+the simplest biological systems—viruses and bacteria

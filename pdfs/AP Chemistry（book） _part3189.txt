@@ -1,0 +1,20 @@
+tes standard-state conditions. 
+ (Section 5.7)
+Give It Some Thought
+If a standard cell potential is E°
+cell = +0.85 V at 25 °C, is the redox reaction of the 
+cell spontaneous?
+Standard Reduction Potentials
+The standard cell potential of a voltaic cell, E°
+cell, depends on the particular cathode and 
+anode half-cells. We could, in principle, tabulate the standard cell potentials for all possi-
+ble cathode–anode combinations. However, it is not necessary to undertake this arduous 
+task. Rather, we can assign a standard potential to each half-cell and then use these half-
+cell potentials to determine E°
+cell. The cell potential is the difference between two half-cell 
+potentials. By convention, the potential associated with each electrode is chosen to be 
+the potential for reduction at that electrode. Thus, standard half-cell potentials are tabu-
+lated for reduction reactions, which means they are standard reduction potentials, 
+denoted E°
+red. The standard cell potential, E°
+cell, is the

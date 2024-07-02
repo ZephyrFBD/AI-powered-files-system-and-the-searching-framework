@@ -1,0 +1,17 @@
+phere rolling down an incline. What will be the speed
+of a solid sphere of mass M and radius R when it reaches the bottom of an
+incline if it starts from rest at a vertical height H and rolls without slipping?
+See Fig. 8–23. (Assume sufficient static friction so no slipping occurs: we will
+see shortly that static friction does no work.) Compare your result to that for an
+object sliding down a frictionless incline.
+APPROACH We use the law of conservation of energy with gravitational poten-
+tial energy, now including rotational kinetic energy as well as translational KE.
+SOLUTION The total energy at any point a vertical distance y above the base
+of the incline is
+where v is the speed of the center of mass, and Mgy is the gravitational potential
+energy. Applying conservation of energy, we equate the total energy at the top
+to the total energy at the bottom 
+[energy conservation]
+The moment of inertia of a solid sphere about an axis through its center of mass
+is 
+Fig. 8–20e. Since the sphe

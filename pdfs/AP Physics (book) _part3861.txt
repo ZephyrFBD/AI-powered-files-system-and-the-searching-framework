@@ -1,0 +1,53 @@
+ame 
+moves to the
+right (in the x direction) at speed v with respect to S. For simplicity let us assume
+the origins 0 and 
+of the two reference frames are superimposed at time t = 0.
+0¿
+S¿
+x¿
+S¿.
+y¿
+x¿
+S¿
+Galilean and Lorentz
+Transformations
+FIGURE E–1 Inertial reference
+frame 
+moves to the right at speed v
+with respect to inertial frame S.
+S¿
+x
+x
+x'
+S'
+S
+y'
+y
+x'
+vt
+P
+0
+0'
+B
+v
+B
+Now consider an event that occurs at some point P (Fig. E–1) represented by
+the coordinates 
+in reference frame 
+at the time 
+What will be the coor-
+dinates of P in S? Since S and 
+overlap precisely initially, after a time 
+will
+have moved a distance 
+Therefore, at time 
+The y and z coordi-
+nates, on the other hand, are not altered by motion along the x axis; thus 
+and
+Finally, since time is assumed to be absolute in Galilean–Newtonian physics,
+clocks in the two frames will agree with each other; so 
+We summarize these
+in the following Galilean transformation equations:
+[Galilean] (E;1)
+These equations give the

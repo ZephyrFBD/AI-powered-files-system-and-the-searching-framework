@@ -1,0 +1,93 @@
+als the actual
+weight 
+minus the buoyant force 
+so
+Let V be the volume of the completely submerged object and 
+the object’s
+density (so 
+is its mass), and let 
+be the density of the fluid (water). Then
+is the weight of fluid displaced
+Now we can write
+We divide these two equations and obtain
+We see that
+is equal to the specific gravity of the object (the crown)
+if the fluid in which it is submerged is water 
+Thus
+This corresponds to a density of 
+The crown is not gold, but seems
+to be made of lead (see Table 10–1).
+11,300 kgm3.
+rO
+rH2O =
+w
+w - w¿
+=
+(14.7 kg)g
+(14.7 kg - 13.4 kg)g = 14.7 kg
+1.3 kg
+= 11.3.
+ArF = 1.00 * 103 kgm3B.
+w(w - w¿)
+w
+w - w¿
+= rOVg
+rFVg
+= rO
+rF
+.
+w - w¿ = F
+B
+= rFVg.
+w = mg = rOVg
+(= F
+B).
+(rFV)g
+rF
+rOV
+rO
+w - w¿ = F
+B.
+w¿ = FT
+œ
+= w - F
+B
+F
+B:
+w (= mg)
+w¿
+FT
+œ
+w¿
+w¿
+SG = 19.3
+EXAMPLE 10;8
+w 
+(14.7 kg)g
+w 
+
+(13.4 kg)g
+( T = −m )
+F
+B
+g
+B
+mg
+B
+scale
+scale
+(b)
+(a)
+   ′
+T
+F
+B
+   B
+F
+B
+mg
+B
+w
+B 
+FIGURE 10–13 (a) A scale reads the mass of an 
+object in air—in thi

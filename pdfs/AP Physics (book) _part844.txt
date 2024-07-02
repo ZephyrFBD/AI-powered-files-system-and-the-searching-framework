@@ -1,0 +1,49 @@
+re rolls without slipping, we have
+(recall Fig. 8–8). Hence
+Canceling the M’s and R’s, we obtain
+or
+[rolling sphere]
+We can compare this result for the speed of a rolling sphere to that for an object
+sliding down a plane without rotating and without friction,
+(see
+our energy conservation equation above, removing the rotational term). For the
+sliding object,
+which is greater than our result for a rolling sphere
+An object sliding without friction or rotation transforms its initial
+potential energy entirely into translational kinetic energy (none into rotational
+kinetic energy), so the speed of its center of mass is greater.
+NOTE Our result for the rolling sphere shows (perhaps surprisingly) that v is
+independent of both the mass M and the radius R of the sphere.
+(2 7 107).
+v = 12gH,
+1
+2 mv2 = mgH
+v =
+3
+10
+7 gH.
+A1
+2 + 1
+5Bv2 = gH
+MgH =
+1
+2 Mv2 + 1
+2 A2
+5 MR2B a v2
+R2 b .
+v = vR
+Icm = 2
+5 MR2,
+ 
+0 + 0 + MgH =
+1
+2 Mv2 + 1
+2 Icmv2 + 0.
+Etop = Ebottom
+(y = 0):
+v = 0)
+v = 0,
+(y = H,
+E =
+1
+2

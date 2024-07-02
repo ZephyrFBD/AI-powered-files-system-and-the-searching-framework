@@ -1,0 +1,19 @@
+anges increase, decrease, or 
+have no effect on the number of microstates available to a 
+system: (a) increase in temperature, (b) decrease in volume, 
+(c) change of state from liquid to gas?
+ 19.32  (a) Using the heat of vaporization in Appendix B, calculate 
+the entropy change for the vaporization of water at 25 °C 
+and at 100 °C. (b) From your knowledge of microstates and 
+the structure of liquid water, explain the difference in these 
+two values.
+ 19.33  (a) What do you expect for the sign of ∆S in a chemical 
+reaction in which 2 mol of gaseous reactants are converted 
+to 3 mol of gaseous products? (b) For which of the processes 
+in Exercise 19.11 does the entropy of the system increase?
+ 19.34  (a) In a chemical reaction, two gases combine to form 
+a solid. What do you expect for the sign of ∆S? (b) How 
+does the entropy of the system change in the processes 
+described in Exercise 19.12?
+ 19.35  Does the entropy of the system increase, decrease, or stay 
+the same when (a) a solid 

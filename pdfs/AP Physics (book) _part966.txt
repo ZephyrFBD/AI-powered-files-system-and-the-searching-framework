@@ -1,0 +1,38 @@
+ * 106
+Nm2
+Nm2
+Nm2
+Breaking the piano wire. The steel piano
+wire we discussed in Example 9–10 was 1.60 m long with a diameter of 0.20 cm.
+Approximately what tension force would break it?
+APPROACH We set the tensile stress 
+equal to the tensile strength of steel
+given in Table 9–2.
+SOLUTION The wire’s area is
+where
+Table 9–2 tells us
+so the wire would likely break if the force exceeded
+As can be seen in Table 9–2, concrete (like stone and brick) is reasonably
+strong under compression but extremely weak under tension. Thus concrete 
+can be used as vertical columns placed under compression, but is of little 
+value as a beam because it cannot withstand the tensile forces that result 
+from the inevitable sagging of the lower edge of a beam (see Fig. 9–25).
+F = A500 * 106 Nm2B(p)A1.0 * 10–3 mB2 = 1600 N.
+F
+A = 500 * 106 Nm2,
+1.0 * 10–3 m.
+r = 0.10 cm =
+A = pr2,
+F
+
+A
+EXAMPLE 9;11
+ESTIMATE
+Shear
+Compression
+Tension
+FIGURE 9–24 Fracture as a result of
+the three types of stress.
+Ten
+sio
+n

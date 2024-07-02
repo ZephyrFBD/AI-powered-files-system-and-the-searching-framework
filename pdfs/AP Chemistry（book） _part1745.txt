@@ -1,0 +1,30 @@
+ values for four substances. The values of ∆Hvap tend 
+to be larger than the values of ∆Hfus because in the transition from liquid to gas, particles 
+must essentially sever all their interparticle attractions, whereas in the transition from 
+solid to liquid, many of these attractive interactions remain operative.
+ 
+SECTION 11.4   
+Phase Changes 
+449
+Go Figure
+How is energy evolved in deposition 
+related to those for condensation 
+and freezing?
+Liquid
+Gas
+Solid
+Melting/Fusion
+Freezing
+Vaporization
+Condensation
+Sublimation
+Deposition
+Energy of the system
+Endothermic process (energy added to substance)
+Exothermic process (energy released from substance)
+▲ Figure 11.20 Phase changes and the names associated with them.
+450 
+CHAPTER 11 Liquids and Intermolecular Forces
+The particles of a solid can move directly into the gaseous state. The enthalpy 
+change required for this transition is called the heat of sublimation, denoted ∆Hsub. 
+As illustrated in Figure 11.20, ∆Hsub is the sum of ∆Hfus 

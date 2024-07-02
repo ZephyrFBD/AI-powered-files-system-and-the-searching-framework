@@ -1,0 +1,46 @@
+cause the 
+COOH group can act as an acid and the NH2 group can act as a base, 
+amino acids undergo a “self-contained” Brønsted–Lowry acid–base 
+reaction in which the proton of the carboxyl group is transferred to 
+the basic nitrogen atom:
+ChEmiStRy And LifE The Amphiprotic Behavior of Amino Acids
+As we will discuss in greater detail in Chapter 24, amino acids are the 
+building blocks of proteins. The general structure of amino acids is
+O
+O
+H
+H
+R
+C
+C
+Amine group
+(basic)
+Carboxyl group
+(acidic)
+H
+H
+N
+where different amino acids have different R groups attached to the 
+central carbon atom. For example, in glycine, the simplest amino acid, 
+R is a hydrogen atom, and in alanine R is a CH3 group:
+C
+Glycine
+Alanine
+H2N
+COOH
+CH3
+H
+H
+C
+H2N
+COOH
+H
+Continued
+ 
+SECTION 16.10  Acid–Base Behavior and Chemical Structure 
+703
+704 
+CHAPTER 16 Acid–Base Equilibria
+16.11 ∣ Lewis Acids and Bases
+For a substance to be a proton acceptor (a Brønsted–Lowry base), it must have an 
+unshared pair of electrons fo

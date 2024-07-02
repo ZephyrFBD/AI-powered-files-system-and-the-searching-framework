@@ -1,0 +1,13 @@
+, certain probabilities exist that an elec-
+tron will arrive at different points. This is very different from the classical view, in
+which the path of a particle is precisely predictable from the initial position and
+velocity and the forces exerted on it. According to quantum mechanics, the position
+and velocity of an object cannot even be known accurately at the same time.
+This is expressed in the uncertainty principle, and arises because basic entities,
+such as electrons, are not considered simply as particles: they have wave properties
+as well. Quantum mechanics allows us to calculate only the probability† that, say,
+an electron (when thought of as a particle) will be observed at various places.
+Quantum mechanics says there is some inherent unpredictability in nature. This
+is very different from the deterministic view of classical mechanics.
+Because matter is considered to be made up of atoms, even ordinary-sized
+objects are expected to be governed by probability, rather than by str

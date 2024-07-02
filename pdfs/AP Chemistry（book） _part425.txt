@@ -1,0 +1,32 @@
+b) 17.1% (c) 13.7% (d) 24.4% (e) 82.9%
+ 
+▶Practice Exercise 2
+Calculate the percentage of potassium, by mass,  
+in K2PtCl6.
+SOLUTION
+We’ll use the steps outlined in the Strategies For Success: Problem 
+Solving feature to answer the question.
+Analyze We are given a chemical formula and asked to calculate 
+the percentage by mass of each element.
+Plan We use Equation 3.10, obtaining our atomic weights from a 
+periodic table. We know the denominator in Equation 3.10, the for-
+mula weight of C12H22O11, from Sample Exercise 3.5. We must use 
+that value in three calculations, one for each element.
+Solve
+ %C =
+1122112.0 amu2
+342.0 amu
+* 100% = 42.1%
+ %H =
+122211.0 amu2
+342.0 amu
+* 100% = 6.4%
+ %O =
+1112116.0 amu2
+342.0 amu
+* 100% = 51.5%
+Check Our calculated percentages must add up to 100%, which 
+they do. We could have used more significant figures for our 
+atomic weights, giving more significant figures for our percentage 
+composition, but we have adhered to our suggested guideline  
+of roun

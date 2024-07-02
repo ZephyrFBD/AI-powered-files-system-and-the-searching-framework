@@ -1,0 +1,11 @@
+ a particular way. Adenine in one strand always binds to thymine (A–T or T–A) in
+the other strand. Similarly, guanine always binds to cytosine (G–C or C–G). This predictable matching of the bases
+is known as base pairing.
+The two strands are said to be complementary. This means that if you know the sequence of bases in one strand,
+you’ll know the sequence of bases in the other strand. For example, if the base sequence in one DNA strand is A–T–
+C, the base sequence in the complementary strand will be T–A–G.
+The two DNA strands run in opposite directions. You’ll notice from the figure above that each DNA strand has a 5’
+end and a 3’ end, so-called for the carbon that ends the strand (i.e., the fifth carbon in the sugar ring is at the 5’ end,
+while the third carbon is at the 3’ end). The 5’ end has a phosphate group, and the 3’ end has an OH, or “hydroxyl,”
+group. The 5’ end of one strand is always opposite to the 3’ end of the other strand. The strands are therefore said to
+be antiparall

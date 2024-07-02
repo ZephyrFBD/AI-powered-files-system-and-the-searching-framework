@@ -1,0 +1,20 @@
+ple Exercise 4.7 
+Writing Chemical Equations for a Neutralization Reaction
+For the reaction between aqueous solutions of acetic acid 1CH3COOH2 and barium hydroxide, Ba1OH22, write (a) the balanced 
+molecular equation, (b) the complete ionic equation, (c) the net ionic equation.
+SOLUTION
+Analyze We are given the chemical formulas for an acid and a base 
+and asked to write a balanced molecular equation, a complete 
+ionic equation, and a net ionic equation for their neutralization 
+reaction.
+Plan As Equation 4.11 and the italicized statement that follows it 
+indicate, neutralization reactions form two products, H2O and a 
+salt. We examine the cation of the base and the anion of the acid 
+to determine the composition of the salt.
+Solve
+(a)  
+The salt contains the cation of the base 1Ba2+2 and the 
+anion of the acid 1CH3COO-2. Thus, the salt formula is 
+Ba1CH3COO22. According to Table 4.1, this compound is 
+soluble in water. The unbalanced molecular equation for the 
+neutralization reaction

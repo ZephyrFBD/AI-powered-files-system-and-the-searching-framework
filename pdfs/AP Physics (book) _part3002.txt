@@ -1,0 +1,15 @@
+lanation for the introduction of h. The recognition that this was an important
+and radical innovation did not come until later, after about 1905 when others,
+particularly Einstein, entered the field.
+The quantum hypothesis, Eq. 27–3, states that the energy of an oscillator 
+can be
+or 2hf, or 3hf, and so on, but there cannot be vibrations with 
+energies between these values. That is, energy would not be a continuous quan-
+tity as had been believed for centuries; rather it is quantized—it exists only 
+in discrete amounts. The smallest amount of energy possible (hf) is called the
+quantum of energy. Recall from Chapter 11 that the energy of an oscillation is
+proportional to the amplitude squared. Another way of expressing the quantum
+hypothesis is that not just any amplitude of vibration is possible. The possible
+values for the amplitude are related to the frequency f.
+A simple analogy may help. Compare a ramp, on which a box can be placed
+at any height, to a flight of stairs on which the 

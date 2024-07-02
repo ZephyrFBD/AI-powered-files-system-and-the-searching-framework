@@ -1,0 +1,26 @@
+ con-
+centrations of acid and base to calculate pH 
+directly:
+ 
+pH = pKa + log
+3base4
+3acid4 = 3.85 + loga 0.10
+0.12 b
+ = 3.85 + 1-0.082 = 3.77
+ 
+▶Practice Exercise 1
+If the pH of a buffer solution is equal to the pKa of the acid 
+in the buffer, what does this tell you about the relative con-
+centrations of the acid and conjugate base forms of the buffer 
+components?
+(a) The acid concentration must be zero. (b) The base concen-
+tration must be zero. (c) The acid and base concentrations must 
+be equal. (d) The acid and base concentrations must be equal to 
+the Ka. (e) The base concentration must be 2.3 times as large as 
+the acid concentration.
+ 
+▶Practice Exercise 2
+Calculate the pH of a buffer composed of 0.12 M benzoic acid 
+and 0.20 M sodium benzoate. (Refer to Appendix D.)
+Calculate the pH of a buffer that initially contains 1.00 * 10-3 M  CH3COOH and 1.00 * 10-4 M  CH3COONa in the  
+following two ways: (i) using the Henderson–Hasselbalch equation and (ii) making no assumptions abo

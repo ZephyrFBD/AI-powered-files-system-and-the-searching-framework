@@ -1,0 +1,41 @@
+) focused on a nearby
+object with distant object blurry, and
+(b) focused on a more distant object
+with nearby object blurry.
+(a)
+(b)
+Camera focus. How far must a 50.0-mm-focal-length 
+camera lens be moved from its infinity setting to sharply focus an object 3.00 m
+away?
+APPROACH For an object at infinity, the image is at the focal point, by definition
+(Section 23–7). For an object distance of 3.00 m, we use the thin lens equation,
+Eq. 23–8, to find the image distance (distance of lens to film or sensor).
+SOLUTION When focused at infinity, the lens is 50.0 mm from the film. When
+focused at
+the image distance is given by the lens equation,
+We solve for 
+and find
+so the lens needs to move 0.8 mm away
+from the film or digital sensor.
+EXERCISE A If the lens of Example 25–1 is 50.4 mm from the film or sensor, what is the
+object distance for sharp focus?
+di = 50.8 mm,
+di
+1
+di
+= 1
+f - 1
+do
+=
+1
+50.0 mm -
+1
+3000 mm =
+3000 - 50
+(3000)(50.0) mm =
+2950
+150,000 mm
+.
+do = 3.00 m,
+EXAMPLE 25;1
+FIGURE 

@@ -1,0 +1,14 @@
+.
+Related Exercises: 6.54, 6.65, 6.66, 6.98
+The p Orbitals
+Recall that the orbitals for which l = 1 are the p orbitals. Each p subshell has three orbitals, 
+corresponding to the three allowed values of ml: -1, 0, and 1. The distribution of electron 
+density for a 2p orbital is shown in Figure 6.23(a). The electron density is not distributed 
+spherically as in an s orbital. Instead, the density is concentrated in two regions on either 
+side of the nucleus, separated by a node at the nucleus. We say that this dumbbell-shaped 
+orbital has two lobes. Recall that we are making no statement of how the electron is mov-
+ing within the orbital. Figure 6.23(a) portrays only the averaged distribution of the elec-
+tron density in a 2p orbital.
+Beginning with the n = 2 shell, each shell has three p orbitals (Table 6.2), one for 
+each allowed value of ml. Thus, there are three 2p orbitals, three 3p orbitals, and so forth. 
+Each set of p orbitals has the dumbbell shapes shown in Figure 6.23(a) for th

@@ -1,0 +1,13 @@
+rike other nuclei and cause additional fission. The amount 
+of fissionable material large enough to maintain a chain reaction with a constant rate 
+of fission is called the critical mass. When a critical mass of material is present, one 
+neutron on average from each fission is subsequently effective in producing another 
+fission and the fission continues at a constant, controllable rate. The critical mass of 
+ 
+uranium-235 is about 50 kg for a bare sphere of the metal.*
+If more than a critical mass of fissionable material is present, very few neutrons 
+escape. The chain reaction thus multiplies the number of fissions, which can lead to a 
+nuclear explosion. A mass in excess of a critical mass is referred to as a supercritical 
+mass. The effect of mass on a fission reaction is illustrated in Figure 21.16.
+*The exact value of the critical mass depends on the shape of the radioactive substance. The critical 
+mass can be reduced if the radioisotope is surrounded by a material that reflects

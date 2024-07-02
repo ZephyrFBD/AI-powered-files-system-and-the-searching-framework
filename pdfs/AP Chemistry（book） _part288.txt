@@ -1,0 +1,26 @@
+Separation of
+ions based on
+mass differences
+▲ Figure 2.11 A mass spectrometer. Cl atoms are first ionized to form Cl+ ions, 
+accelerated with an electric field, and finally their path is directed by a magnetic field. 
+The paths of the ions of the two Cl isotopes diverge as they pass through the field.
+34
+35
+36
+Atomic mass (amu)
+Signal intensity
+37
+37Cl
+35Cl
+38
+▲ Figure 2.12 Mass spectrum of atomic chlorine. The 
+fractional abundances of the isotopes 35Cl and 37Cl are 
+indicated by the relative signal intensities of the beams 
+reaching the detector of the mass spectrometer.
+The most accurate means for determining atomic weights is pro-
+vided by the mass spectrometer (Figure 2.11). There are various 
+designs of mass spectrometers, but they all operate on similar prin-
+ciples. The first step is to get atoms or molecules into the gas phase. 
+Sometimes the sample to be analyzed is already a gas, whereas in 
+other cases heating, application of an electric field, or a pulse of 
+laser light m

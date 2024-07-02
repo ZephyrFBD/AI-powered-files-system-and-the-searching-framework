@@ -1,0 +1,15 @@
+ is less electronegative than H, the B¬H bond in these com-
+pounds is polarized, with H having the higher electron density. The simplest borane is 
+BH3. This molecule contains only six valence electrons and is therefore an exception to 
+the octet rule. As a result, BH3 reacts with itself to form diborane 1B2H62. This reaction can 
+be viewed as a Lewis acid–base reaction in which one B¬H bonding pair of electrons in 
+each BH3 molecule is donated to the other. As a result, diborane is an unusual molecule 
+in which hydrogen atoms form a bridge between two B atoms (Figure 22.34). Such hydro-
+gens are called bridging hydrogens.
+Sharing hydrogen atoms between the two boron atoms compensates somewhat for the 
+deficiency in valence electrons around each boron. Nevertheless, diborane is an extremely 
+reactive molecule, spontaneously flammable in air in a highly exothermic reaction:
+ 
+B2H61g2 + 3 O21g2 ¡ B2O31s2 + 3 H2O1g2  ∆H° = -2030 kJ 
+[22.70]
+Boron and hydrogen form a series of anions calle

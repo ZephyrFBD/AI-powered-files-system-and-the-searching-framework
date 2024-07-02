@@ -1,0 +1,89 @@
+tances
+Substance
+Critical Temperature (K)
+Critical Pressure (atm)
+Nitrogen, N2
+126.1
+33.5
+Argon, Ar
+150.9
+48.0
+Oxygen, O2
+154.4
+49.7
+Methane, CH4
+190.0
+45.4
+Carbon dioxide, CO2
+304.3
+73.0
+Phosphine, PH3
+324.4
+64.5
+Propane, CH3CH2CH3
+370.0
+42.0
+Hydrogen sulfide, H2S
+373.5
+88.9
+Ammonia, NH3
+405.6
+111.5
+Water, H2O
+647.6
+217.7
+Evacuated flask,
+pressure zero
+Molecules begin to
+vaporize, pressure
+increases
+Molecules leave and
+enter liquid at equal
+rates, pressure reaches
+steady-state value
+P = vapor pressure
+P = 0
+Liquid
+ethanol
+P increasing
+Add
+ethanol
+System
+comes to
+equilibrium
+ 
+SECTION 11.5  Vapor Pressure 
+453
+◀ Figure 11.23 Vapor pressure over a liquid.
+454 
+CHAPTER 11 Liquids and Intermolecular Forces
+Go Figure
+What is the vapor pressure of ethylene glycol at its 
+normal boiling point?
+0
+20
+40
+60
+80
+100
+0
+200
+400
+600
+800
+760
+Temperature (°C)
+Vapor pressure (torr)
+Ethylene
+glycol
+Water
+Ethyl alcohol
+(ethanol)
+34.6 °C
+78.3 °C
+Normal boiling
+point
+100 °C
+Diethyl
+ether
+▲ Figure 11.25 Vap

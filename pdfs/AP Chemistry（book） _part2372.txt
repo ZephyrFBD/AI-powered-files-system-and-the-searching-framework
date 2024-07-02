@@ -1,0 +1,29 @@
+hree components 
+of the reaction mixture present at the same time.
+How the concentrations of H2, N2, and NH3 vary with time is shown in Figure 15.4. 
+Notice that an equilibrium mixture is obtained regardless of whether we begin with 
+N2 and H2 or with NH3. The equilibrium condition is reached from either direction.
+Go Figure
+Is the rate of disappearance of H2 related to the rate of 
+disappearance of N2? If so, how they are related?
+Time
+Concentration
+Concentration
+H2
+NH3
+N2
+Equilibrium achieved
+Time
+H2
+NH3
+N2
+Equilibrium achieved
+Starting with only reactants
+Starting with only products
+▲ Figure 15.4 The same equilibrium is reached whether we start with only reactants (N2 and H2) or 
+with only product 1NH32.
+Give It Some Thought
+True or False: You can determine if equilibrium has been reached by monitoring the 
+concentration of a single reactant.
+An expression similar to Equation 15.5 governs the concentrations of N2, H2,
+and NH3 at equilibrium. If we were to systematically change the r

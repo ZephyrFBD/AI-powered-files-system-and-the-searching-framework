@@ -1,0 +1,20 @@
+ls with the same set of quantum 
+numbers n and l. For example, we speak of the 2p subshell 
+1n = 2, l = 12, which is composed of three orbitals (2px, 2py, and  
+2pz). (Section 6.5)
+substitutional alloy An alloy formed when atoms of the solute 
+in a solid solution occupy positions normally occupied by a 
+solvent atom. (Section 23.6)
+substitution reactions Reactions in which one atom (or group 
+of atoms) replaces another atom (or group) within a molecule; 
+substitution reactions are typical for alkanes and aromatic 
+hydrocarbons. (Section 24.3)
+substrate A substance that undergoes a reaction at the active 
+site in an enzyme. (Section 14.7)
+supercritical fluid The state that exists when liquid and gas 
+phases are indistinguishable from each other as the temperature 
+exceeds the critical temperature and the pressure exceeds the 
+critical pressure. (Section 11.4)
+supercritical mass An amount of fissionable material larger 
+than the critical mass. (Section 21.7)
+supersaturated solution A sol

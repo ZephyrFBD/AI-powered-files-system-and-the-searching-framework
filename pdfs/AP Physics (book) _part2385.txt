@@ -1,0 +1,85 @@
+efore, the average power is given by
+But from Eq. 21–16b,
+Therefore
+(21;17)
+The factor 
+is referred to as the power factor of the circuit.
+cos f
+g = Irms
+2
+Z cos f = I
+rms V
+rms cos f.
+R = Z cos f.
+g = Irms
+2
+R.
+f
+X
+L 6 X
+C,
+f.
+X
+L 7 X
+C ,
+cos f = V
+R0
+V
+0
+=
+I
+0 R
+I
+0 Z =
+R
+Z
+.
+tan f = V
+L0 - V
+C0
+V
+R0
+=
+I
+0AX
+L - X
+CB
+I
+0R
+= X
+L - X
+C
+R
+f
+Z =
+3R2 + AX
+L - X
+CB
+2 .
+= I
+03R2 + AX
+L - X
+CB
+2 .
+V
+0 =
+3VR0
+2
++ AV
+L0 - V
+C0B
+2
+LRC circuit. Suppose 
+and
+in Fig. 21–43, and they are connected in series to a 90.0-V ac (rms)
+500-Hz source. Calculate (a) the current in the circuit, and (b) the voltmeter
+readings (rms) across each element.
+APPROACH To obtain the current, we determine the impedance (Eq. 21–15
+plus Eqs. 21–11b and 21–12b), and then use
+(Eq. 21–14). Voltage
+drops across each element are found using Ohm’s law or equivalent for each
+element:
+and
+SOLUTION (a) First, we find the reactance of the inductor and capacitor at
+Then the total impedance is
+From the impedance version of Ohm’s law

@@ -1,0 +1,10 @@
+. Gap junctions
+allow small molecules, including signaling molecules, to flow between neighboring cells.
+Internal receptors are found in the cell cytoplasm. Here, they bind ligand molecules that cross the plasma membrane; these
+receptor-ligand complexes move to the nucleus and interact directly with cellular DNA. Cell-surface receptors transmit a
+signal from outside the cell to the cytoplasm. Ion channel-linked receptors, when bound to their ligands, form a pore
+through the plasma membrane through which certain ions can pass. G-protein-linked receptors interact with a G-protein on
+the cytoplasmic side of the plasma membrane, promoting the exchange of bound GDP for GTP and interacting with other
+enzymes or ion channels to transmit a signal. Enzyme-linked receptors transmit a signal from outside the cell to an
+intracellular domain of a membrane-bound enzyme. Ligand binding causes activation of the enzyme. Small hydrophobic
+ligands (like steroids) are able to penetrate the plasma membrane

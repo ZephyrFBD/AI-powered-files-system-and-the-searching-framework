@@ -1,0 +1,33 @@
+ atm
+Liquid
+Gas
+Solid
+Vapor pressure of
+pure liquid solvent
+Solution
+boiling point
+Pure solvent
+boiling point
+Vapor
+pressure
+of solution
+∆Tb
+Pressure
+To find the normal boiling point of the pure solvent,
+locate the point where the 1-atm pressure horizontal
+line intersects the black vapor–pressure curve and
+then track this point down to the temperature axis.
+For the solution, the 1-atm line intersects the
+blue vapor–pressure curve at a higher
+temperature, indicating that the solution
+has a higher boiling point than the pure solvent.
+▲ Figure 13.20 Phase diagram illustrating boiling-point elevation. The black lines show the pure  
+solvent’s phase equilibria curves, and the blue lines show the solution’s phase equilibria curves.
+ 
+SECTION 13.5   
+Colligative Properties 
+545
+546 
+CHAPTER 13 Properties of Solutions
+The freezing point of a solution is the temperature at which the first crystals of pure 
+solvent form in equilibrium with the solution. Recall from Section 11.6 that the line rep

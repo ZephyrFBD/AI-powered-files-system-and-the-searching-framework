@@ -1,0 +1,29 @@
+alculate the de Broglie wavelength of an electron if it
+is accelerated from rest by 35,000 V as in Fig.27–2. Is it rela-
+tivistic? How does its wavelength compare to the size of the
+“neck” of the tube, typically 5 cm? Do we have to worry
+about diffraction problems blurring the picture on the CRT
+screen?
+46. (III) A Ferrari with a mass of 1400 kg approaches a freeway
+underpass that is 12 m across. At what speed must the car
+be moving, in order for it to have a wavelength such that 
+it might somehow “diffract” after passing through this
+“single slit”? How do these conditions compare to normal
+freeway speeds of 30 ms?
+l = 4.5 * 10–10 m.
+8.5 * 104 ms?
+1.67 * 10–27 kgB
+Am =
+0.10 ms.
+3.0 * 105 ms,
+m
+m±m–
+1.67 * 10–27 kg.
+l = 0.140 nm
+mc2.
+hmc,
+27–9 Electron Microscope
+47. (II) What voltage is needed to produce electron wavelengths
+of 0.26 nm? (Assume that the electrons are nonrelativistic.)
+48. (II) Electrons are accelerated by 2850 V in an electron
+microscope. Estimate the maximum poss

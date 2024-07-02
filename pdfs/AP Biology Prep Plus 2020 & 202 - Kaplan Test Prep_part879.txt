@@ -1,0 +1,15 @@
+ies A is the most distantly related
+species because the number of differences in nucleotides between Species A and
+C, as well as between Species A and D, is the largest on the table. Thus, the
+bottom branch should be labeled A. Species B is equally different from Species
+A, C, and D, so it belongs on the top branch of the tree.
+(d) Using the data in the phylogenetic tree you created in part (b) and the
+information in Table 1, identify the nucleotide position that corresponds
+with the branch point leading to Species C. Justify your answer. (2 points)
+The number of diﬀerences in nucleotides between Species C and D is the smallest (2), so Species
+C and D are the most closely related species (Note: C and D can be interchanged on the tree due
+to rotation about the branch point)
+The number of diﬀerences in nucleotides between Species A and C and between Species A and
+D are the largest (4), so Species A is most distantly related to Species C and D
+Identification (1 point)
+Justification (1 poi

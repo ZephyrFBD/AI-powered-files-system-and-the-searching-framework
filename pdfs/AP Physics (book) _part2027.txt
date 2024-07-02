@@ -1,0 +1,25 @@
+ what factor would the power increase if four
+D-cells in series (total 6.0 V) were used with the same bulb?
+(Neglect heating effects of the filament.) Why shouldn’t you
+try this?
+65 Ah
+$0.095kWh,
+9.0 centskWh,
+6 * 107 J
+20. (II) A length of wire is cut in half and the two lengths are
+wrapped together side by side to make a thicker wire. How
+does the resistance of this new combination compare to the
+resistance of the original wire?
+21. (II) How much would you have to raise the temperature of
+a copper wire (originally at 20°C) to increase its resistance
+by 12%?
+22. (II) Determine at what temperature aluminum will have
+the same resistivity as tungsten does at 20°C.
+23. (II) A 100-W lightbulb has a resistance of about 
+when
+cold (20°C) and 
+when on (hot). Estimate the tem-
+perature of the filament when hot assuming an average
+temperature coefficient of resistivity 
+24. (III) A length of aluminum wire is connected to a precision
+10.00-V power supply, and a current of 0.4212 A is precisel

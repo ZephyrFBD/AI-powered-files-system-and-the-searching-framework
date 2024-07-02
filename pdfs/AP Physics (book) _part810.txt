@@ -1,0 +1,36 @@
+he carousel when rotating 
+at this constant angular velocity 
+?
+v = 0.48 rads
+t = 8.0 s
+v = 0.48 rads,
+8–2 Constant Angular Acceleration
+In Chapter 2, we derived the useful kinematic equations (Eqs. 2–11) that relate
+acceleration, velocity, distance, and time for the special case of uniform linear
+acceleration. Those equations were derived from the definitions of linear 
+velocity and acceleration, assuming constant acceleration. The definitions of
+angular velocity and angular acceleration (Eqs. 8–2 and 8–3) are just like those
+for their linear counterparts, except that 
+replaces the linear displacement x,
+replaces v,
+and 
+replaces a. Therefore,
+the angular equations for 
+constant angular acceleration will be analogous to Eqs. 2–11 with x replaced
+by
+v by 
+and a by 
+and they can be derived in exactly the same way.
+a,
+v,
+u,
+a
+v
+u
+We summarize these angular equations here, opposite their linear equivalents,
+Eqs. 2–11 (for simplicity we choose 
+and 
+at the initial time 
+):
+Angular
+Linear

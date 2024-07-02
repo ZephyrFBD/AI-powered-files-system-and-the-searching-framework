@@ -1,0 +1,17 @@
+r, the bond dipoles do not directly oppose each other and 
+therefore do not cancel. Hence, the H2O molecule has an overall nonzero dipole moment 
+(measured dipole moment, m = 1.85 D) and is therefore a polar molecule. The oxygen 
+atom carries a partial negative charge, and the hydrogen atoms each have a partial posi-
+tive charge, as shown in Figure 9.10(b).
+Figure 9.11 shows some examples of polar and nonpolar molecules, all with polar 
+bonds. The molecules in which the central atom is symmetrically surrounded by 
+identical atoms (BF3 and CCl4) are nonpolar. For ABn molecules in which all the B atoms 
+are the same, certain symmetrical shapes—linear 1AB22, trigonal planar 1AB32, tetrahe-
+dral and square planar 1AB42, trigonal bipyramidal 1AB52, and octahedral 1AB62—must 
+lead to nonpolar molecules even though the individual bonds might be polar.
+354 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+9.4 ∣  
+Covalent Bonding and  
+Orbital Overlap
+The VSEPR model provides a simple means f

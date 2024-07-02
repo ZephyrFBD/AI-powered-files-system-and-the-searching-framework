@@ -1,0 +1,22 @@
+s first, followed by PS I. PS I absorbs light best
+in the 700 nm range; hence, it is also called P700. PS II absorbs light best
+in the 680 nm range; hence, it is also called P680.
+******ebook converter DEMO Watermarks*******
+■
+■
+LIGHT-DEPENDENT REACTIONS—THE LIGHT
+REACTIONS
+Light is absorbed by the photosystems (PS II and PS I) in the thylakoid
+membranes and electrons flow through electron transport chains. As
+shown in Figure 7.5, there are two possible routes for electron flow:
+noncyclic flow (Figure 7.5) and cyclic photophosphorylation (Figure
+7.7).
+Figure 7.5 Noncyclic Photophosphorylation
+Noncyclic Photophosphorylation
+During noncyclic photophosphorylation, electrons enter two electron
+transport chains. The products are ATP and NADPH (nicotinamide
+dinucleotide phosphate). The process begins in PS II and proceeds through
+the following steps.
+REMEMBER
+Electrons flow from water to P680 to P700 to NADP, which carries them to the Calvin cycle.
+PHOTOSYSTEM II—P680. Energy is absorbed by 

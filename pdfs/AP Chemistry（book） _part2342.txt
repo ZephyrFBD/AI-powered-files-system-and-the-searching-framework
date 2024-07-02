@@ -1,0 +1,21 @@
+) What is the rate constant, k? 
+ 
+(b) What is the concentration of urea in this solution af-
+ter 4.00 * 103 s if the starting concentration is 0.500 M?  
+(c) What is the half-life for this reaction at 61.05 °C ?
+ 
+[14.101] The rate of a ﬁrst-order reaction is followed by spectroscopy, 
+monitoring the absorbance of a colored reactant at 520 nm. 
+The reaction occurs in a 1.00-cm sample cell, and the only 
+colored species in the reaction has an extinction coefficient 
+of 5.60 * 103 M -1 cm-1 at 520 nm. (a) Calculate the initial 
+concentration of the colored reactant if the absorbance is 
+0.605 at the beginning of the reaction. (b) The absorbance 
+falls to 0.250 at 30.0 min. Calculate the rate constant in 
+units of s - 1. (c) Calculate the half-life of the reaction. 
+ 
+(d) How long does it take for the absorbance to fall to 0.100?
+ 
+[14.102] A colored dye compound decomposes to give a colorless 
+product. The original dye absorbs at 608 nm and has an 
+extinction coefficient of 4.7 * 104 M 

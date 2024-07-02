@@ -1,0 +1,44 @@
+- ke1B + Ape2 - pe1B
+= 0.
+cconservative
+forces only d
+¢ke + ¢pe = 0
+W
+NC = 0
+W
+NC
+W
+NC = ¢ke + ¢pe.
+W
+C =
+–¢pe.
+W
+NC = ¢ke - W
+C.
+¢ke = ke2 - ke1 .
+W
+C + W
+NC = ¢ke
+W
+net = ¢ke
+W
+net = W
+C + W
+NC.
+W
+NC :
+W
+C,
+W
+net
+6–7 Problem Solving Using 
+Conservation of Mechanical Energy
+A simple example of the conservation of mechanical energy (neglecting air resis-
+tance) is a rock allowed to fall due to Earth’s gravity from a height h above the
+ground, as shown in Fig. 6–17. If the rock starts from rest, all of the initial energy
+is potential energy. As the rock falls, the potential energy mgy decreases (because
+the rock’s height above the ground y decreases), but the rock’s kinetic energy
+increases to compensate, so that the sum of the two remains constant. At any point
+along the path, the total mechanical energy is given by
+where v is its speed at that point. If we let the subscript 1 represent the rock at one
+point along its path (for example, the initial point), and the subscript 2 represent

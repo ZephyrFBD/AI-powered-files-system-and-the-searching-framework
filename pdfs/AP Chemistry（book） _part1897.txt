@@ -1,0 +1,21 @@
+
+Sample Exercise 12.2 
+Calculating the Density of an Ionic Solid
+SOLUTION
+Analyze and Plan
+(a) We need to count the number of anions in the unit cell of 
+the sodium chloride structure, remembering that ions on 
+the corners, edges, and faces of the unit cell are only partially 
+inside the unit cell.
+(b) We can apply the same approach to determine the number of 
+cations in the unit cell. We can double-check our answer by 
+writing the empirical formula to make sure the charges of the 
+cations and anions are balanced.
+(c)  Because density is an intensive property, the density of the unit 
+cell is the same as the density of a bulk crystal. To calculate the 
+density we must divide the mass of the atoms per unit cell by 
+the volume of the unit cell. To determine the volume of the unit 
+cell, we need to estimate the length of the unit cell edge by ﬁrst 
+identifying the direction along which the ions touch and then 
+using ionic radii to estimate the length. Once we have the length 
+of the unit 

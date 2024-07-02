@@ -1,0 +1,12 @@
+es, but recognition sites for molecules displayed by nonself cells. Self and nonself cells are distinguished
+as follows:
+The MHC markers on the plasma membrane of cells distinguish between self and nonself cells.
+When a body cell is invaded by a virus, by a foreign cell, or by any antigen, the body cell displays a combination of
+self and nonself markers. T cells interpret this aberrant display of markers as nonself.
+Cancer cells or tissue transplant cells, or other cells that display aberrant markers, are recognized as nonself cells by
+T cells. When T cells encounter nonself cells, they divide and produce two kinds of cells, as follows:
+Cytotoxic T cells (or killer T cells) recognize and destroy nonself cells by puncturing them, thus causing them to
+lyse.
+Helper T cells stimulate the proliferation of B cells and cytotoxic T cells.
+When an antigen binds to a B cell or when a nonself cell binds to a T cell, the B cell or T cell begins to divide,
+producing numerous daughter cells, all ide

@@ -1,0 +1,30 @@
+.9. You can see that in F2 the distribution is symmetrical, in HF the electron 
+density is clearly shifted toward fluorine, and in LiF the shift is even greater. These exam-
+ples illustrate, therefore, that the greater the difference in electronegativity between two atoms, 
+the more polar their bond.
+F2
+LiF
+HF
+1
+2
+Low electron density
+High electron density
+◀ Figure 8.9 Electron-density distribution. 
+This computer-generated rendering shows the 
+calculated electron-density distribution on 
+the surface of the F2, HF, and LiF molecules.
+ 
+Sample Exercise 8.4 
+Bond Polarity
+In each case, which bond is more polar? (a) B¬ Cl or C¬ Cl, (b) P¬ F or P¬ Cl. Indicate in each case which atom has the 
+partial negative charge.
+ 
+▶Practice Exercise 1
+Which of the following bonds is the most polar?  
+(a) H ¬ F (b) H ¬I (c) Se¬F (d) N ¬ P (e) Ga ¬Cl
+ 
+▶Practice Exercise 2
+Which of the following bonds is most polar: S ¬ Cl, S ¬ Br, Se¬Cl, 
+or Se¬ Br?
+SOLUTION
+Analyze We are asked to determine relative b

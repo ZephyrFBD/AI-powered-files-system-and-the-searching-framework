@@ -1,0 +1,15 @@
+cause the standard emf is zero, only a small emf is needed to cause the transfer of nickel 
+atoms from one electrode to the other.
+Quantitative aspects of Electrolysis
+The stoichiometry of a half-reaction shows how many electrons are needed to achieve 
+an electrolytic process. For example, the reduction of Na+ to Na is a one-electron process:
+Na+ + e- ¡ Na
+Thus, 1 mol of electrons plates out 1 mol of Na metal, 2 mol of electrons plate out 2 mol 
+of Na metal, and so forth. Similarly, 2 mol of electrons are required to produce 1 mol of Cu 
+from Cu2+, and 3 mol of electrons are required to produce 1 mol of Al from Al3+:
+Cu2+ + 2 e- ¡ Cu
+  Al3+ + 3 e- ¡ Al
+For any half-reaction, the amount of substance reduced or oxidized in an electrolytic cell 
+is directly proportional to the number of electrons passed into the cell.
+The quantity of charge passing through an electrical circuit, such as that in an elec-
+trolytic cell, is generally measured in coulombs. As noted in Section 20.5, the charge

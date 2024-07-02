@@ -1,0 +1,19 @@
+look like if the volume and temperature remained 
+constant while you removed enough of the gas to decrease 
+the pressure by a factor of 2? [Section 10.3]
+(a) It would contain the same number of molecules.
+(b) It would contain half as many molecules.
+(c) It would contain twice as many molecules.
+(d) There is insufficient data to say.
+ 10.4  Imagine that the reaction 2 CO1g2 + O21g2 ¡ 2 CO21g2 
+occurs in a container that has a piston that moves to maintain 
+a constant pressure when the reaction occurs at constant tem-
+perature. Which of the following statements describes how the 
+volume of the container changes due to the reaction: (a) the 
+volume increases by 50%, (b) the volume increases by 33%, 
+(c) the volume remains constant, (d) the volume decreases by 
+33%, (e) the volume decreases by 50%. [Sections 10.3 and 10.4]
+ 
+10.5  Suppose you have a fixed amount of an ideal gas at a constant 
+volume. If the pressure of the gas is doubled while the volume is 
+held constant, what happens to 

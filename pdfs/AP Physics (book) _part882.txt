@@ -1,0 +1,33 @@
+e the net torque about the axle of the wheel
+shown in Fig. 8–42. Assume that a friction torque of
+opposes the motion.
+0.60 mN
+7.2 rads2,
+29. (II) Determine the net torque on
+the 2.0-m-long uniform beam shown
+in Fig. 8–45. All forces are shown.
+Calculate about (a) point C, the CM,
+and (b) point P at one end.
+26. (II) A person exerts a horizontal force of 42 N on the end
+of a door 96 cm wide. What is the magnitude of the torque
+if the force is exerted (a) perpendicular to the door and 
+(b) at a 60.0° angle to the face of the door?
+27. (II) Two blocks, each of mass m, are attached to the ends
+of a massless rod which pivots as shown in Fig. 8–43.
+Initially the rod is held in the horizontal position and then
+released. Calculate the magnitude and direction of the 
+net torque on this system when it is first released.
+18 N
+35 N
+28 N
+24 cm
+12 cm
+135°
+FIGURE 8;42 Problem 25.
+m
+m
+l1
+l2
+FIGURE 8;43 Problem 27.
+28. (II) The bolts on the cylinder head of an engine require
+tightening to a torque of

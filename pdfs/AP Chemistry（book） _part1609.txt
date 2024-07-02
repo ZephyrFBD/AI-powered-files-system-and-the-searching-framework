@@ -1,0 +1,33 @@
+pressure 
+(force per unit area, Section 10.2) produced by these collisions de-
+pend both on how strongly the molecules strike the walls (impulse 
+imparted per collision) and on the rate at which the collisions occur:
+ 
+P ∝impulse imparted per collision * collision rate 
+For a molecule traveling at the rms speed, the impulse imparted 
+by a collision with a wall depends on the momentum of the mole-
+cule; that is, it depends on the product of the molecule’s mass and 
+speed: murms. The collision rate is proportional to the number of 
+molecules per unit volume, n>V, and to their speed, which is urms 
+because we are talking about only molecules traveling at this speed. 
+Thus, we have
+ 
+P ∝murms * n
+V * urms ∝
+nm1urms22
+V
+ 
+[10.17]
+Because the average kinetic energy, 1
+2 m1urms22, is proportional 
+to temperature, we have m1urms22 ∝T. Making this substitution in 
+Equation 10.17 gives
+ 
+P ∝
+nm1urms22
+V
+∝nT
+V  
+[10.18]
+If we put in a proportionality constant, calling it R, the gas con-
+stant, yo

@@ -1,0 +1,30 @@
+s the 1 g of butane and the oxygen required to combust it. The 
+combustion of butane in oxygen gives off heat, so ∆H is negative 
+and the process is exothermic.
+Cross-sectional
+area 5 A
+Initial
+state
+Gas enclosed
+in cylinder
+Final
+state
+Volume
+change
+P 5 F/A
+P 5 F/A
+DV
+Dh
+System does work w 5 2PDV on 
+surroundings as gas expands, 
+pushing piston up distance Dh.
+▲ Figure 5.13 Pressure–volume work. The amount of work done by the system on 
+the surroundings is w = -P∆V.
+In chemistry we are interested mainly in two types of work: electri-
+cal work and mechanical work done by expanding gases. We focus 
+here on the latter, called pressure–volume, or P–V, work. Expanding 
+gases in the cylinder of an automobile engine do P–V work on the 
+piston; this work eventually turns the wheels. Expanding gases from 
+an open reaction vessel do P–V work on the atmosphere. This work 
+accomplishes nothing in a practical sense, but we must keep track of 
+all work, useful or not, when monitoring energy changes

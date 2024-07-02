@@ -1,0 +1,39 @@
+f 
+5.0 M K2Cr2O7 solution must be diluted to prepare 250 mL of 
+0.10 M solution? (c) If 10.0 mL of a 10.0 M stock solution of 
+NaOH is diluted to 250 mL, what is the concentration of the 
+resulting stock solution?
+Converting liters to milliliters gives 15 mL.
+ 
+ 
+ 
+SECTION 4.6   
+Solution Stoichiometry and Chemical Analysis 
+149
+Molarity of
+solution containing
+substance B
+Volume of
+solution containing
+substance B
+Use molar
+mass of A
+Use coefficients from
+balanced equation
+Use volume
+of solution
+containing B
+Use molarity
+of solution
+containing B
+Moles of
+substance A
+Moles of
+substance B
+Mass of
+substance A
+▲ Figure 4.17 Procedure for solving stoichiometry problems involving reactions between a  
+pure substance A and a solution containing a known concentration of substance B. Starting from  
+a known mass of substance A, we follow the red arrows to determine either the volume of the  
+solution containing B (if the molarity of B is known) or the molarity of the solution containing B  
+(if 

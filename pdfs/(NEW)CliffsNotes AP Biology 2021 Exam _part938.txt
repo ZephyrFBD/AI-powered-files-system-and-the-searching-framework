@@ -1,0 +1,11 @@
+permeable to IKI and not permeable
+to starch. Since no test for glucose was reported, no conclusion can be drawn for the bag’s permeability to glucose.
+3. C. Signaling molecules are small molecules that bind to larger receptor proteins embedded in the plasma
+membrane. In general, the binding of the signaling molecule to the receptor protein induces a change in the shape of
+the receptor protein. Although you do not need to know this to answer this question, the receptor protein here is a
+receptor tyrosine kinase (RTK) that, when activated by the signaling molecule, causes two RTKs to form a pair
+(dimer). Autophosphorylation follows, allowing the subsequent phosphorylation of relay proteins.
+4. B. Activation of this receptor protein (a receptor tyrosine kinase, or RTK) induces autophosphorylation which, in
+turn, phosphorylates relay proteins. The relay protein then exchanges a GTP for the GDP on a nearby G protein,
+which, in this case, is the Ras protein.
+5. B. In a signaling cascade, th

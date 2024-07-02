@@ -1,0 +1,46 @@
+e current in the loop if it has a resistance of 
+and it is rotated
+from position (b) to position (a) in 0.14 s?
+APPROACH We use the definition
+Eq. 21–1, to calculate the
+magnetic flux. Then we use Faraday’s law of induction to find the induced emf
+in the coil, and from that the induced current 
+SOLUTION The area of the coil is 
+(a) 
+is perpendicular to the coil’s face, so 
+and
+or
+(b) The angle is 30° and
+, so
+or 
+a bit less than in part (a).
+3.5 * 10–4 Wb,
+£B = BA cos u = (0.16 T)A2.5 * 10–3 m2B cos 30° = 3.5 * 10–4 Tm2
+cos 30° = 0.866
+u
+4.0 * 10–4 Wb.
+£B = BA cos 0° = (0.16 T)A2.5 * 10–3 m2B(1) = 4.0 * 10–4 Tm2
+u = 0°
+B
+B
+A = l2 = A5.0 * 10–2 mB
+2 = 2.5 * 10–3 m2.
+(I = eR).
+£B = BA cos u,
+0.012 
+B
+B
+B
+B
+B = 0.16 T.
+l = 5.0 cm
+EXAMPLE 21;1
+SECTION 21–2
+593
+(c) The magnitude of the induced emf (Eq.21–2a) during the 0.14-s time interval is
+Before and after the loop rotates, when it is at rest, the emf is zero. The current
+in the wire loop (Ohm’s law) while it is rotating is
+I =
+e
+R
+=

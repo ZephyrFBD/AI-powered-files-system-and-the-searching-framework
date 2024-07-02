@@ -1,0 +1,74 @@
+ or natural logarithms to evaluate each 
+logarithm, rounded to five decimal places. 
+(a) log8 5 
+(b) log9 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+93 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+94 
+2.8 Exponential and Logarithmic Equations 
+2.8.1 Exponential Equations 
+An exponential equation is one in which the variable occurs in the exponent. 
+Some exponential equations can be solved by using the fact that exponential functions are 
+one-to-one.  
+This means that 
+x
+y
+a
+a
+x
+y
+=
+Þ
+=
+ 
+GUIDELINES FOR SOLVING EXPONENTIAL EQUATIONS 
+1. Isolate the exponential expression on one side of the equation. 
+2. Take the logarithm of each side, then use the Laws of Logarithms to “bring down 
+the exponent.” 
+3. Solve for the variable. 
+ 
+Example 1 
+Consider the exponential equation 3x+2 =7. 
+(a) Find the exact solution of the equation expressed in terms of logarithms. 
+(b) Use a calculator to find an approximation to the solution rounded to six decimal places. 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+Solve t

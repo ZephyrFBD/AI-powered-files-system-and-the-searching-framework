@@ -1,0 +1,13 @@
+ess. Not only
+is there a force pulling down on the rod at its lower end, but since the rod is in
+equilibrium we know that the support at the top is exerting an equal† upward
+force on the rod at its upper end, Fig.9–20a. In fact, this tensile stress exists through-
+out the material. Consider, for example, the lower half of a suspended rod as shown
+in Fig. 9–20b. This lower half is in equilibrium, so there must be an upward force
+on it to balance the downward force at its lower end. What exerts this upward
+force? It must be the upper part of the rod. Thus we see that external forces
+applied to an object give rise to internal forces, or stress, within the material itself.
+Strain or deformation due to tensile stress is but one type of stress to which
+materials can be subjected. There are two other common types of stress: compres-
+sive and shear. Compressive stress is the exact opposite of tensile stress. Instead of
+being stretched, the material is compressed: the forces act inwardly on the

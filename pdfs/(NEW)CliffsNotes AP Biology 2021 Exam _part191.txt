@@ -1,0 +1,13 @@
+ignal receptors. They include receptors for vision, taste, airborne signals
+(odors and pheromones), hormones, neurotransmitters, and immune system activity. Many pharmaceuticals and
+opiates are GPCR ligands.
+A description of a typical sequence for a G protein-coupled receptor follows (Figure 6-2b). Keep in mind, however,
+that the GPCR pathway varies based on cell type, the particular GPCR that is activated, and the biochemical makeup
+of individual cells.
+1. G protein-coupled receptor (GPCR) receives signal. A specific messenger ligand binds to the outward-facing
+surface of the receptor.
+2. GPCR activates G protein by exchanging a GTP for a GDP. As a result of the ligand binding to the GPCR, a
+conformational change occurs, activating the GPCR. The activated GPCR, in turn, exchanges a GTP for the GDP on
+a nearby G protein. A GTP is now bound to the G protein.
+3. G protein binds to effector protein. A subunit of the activated G protein binds to a membrane effector protein
+(usually an enzy

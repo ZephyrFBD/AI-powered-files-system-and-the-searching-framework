@@ -1,0 +1,23 @@
+the vector sum of all forces acting on the object, which we define as
+the net force.
+We rearrange this equation to obtain the familiar statement of Newton’s
+second law:
+(4;1)
+Newton’s second law relates the description of motion to the cause of motion,
+force. It is one of the most fundamental relationships in physics. From Newton’s
+second law we can make a more precise definition of force as an action capable 
+of accelerating an object.
+Every force 
+is a vector, with magnitude and direction. Equation 4–1 is 
+a vector equation valid in any inertial reference frame. It can be written in 
+component form in rectangular coordinates as
+If the motion is all along a line (one-dimensional), we can leave out the sub-
+scripts and simply write 
+Again, a is the acceleration of an object of
+mass m, and 
+includes all the forces acting on that object, and only forces
+acting on that object. (Sometimes the net force 
+is written as
+so  
+.)
+In SI units, with the mass in kilograms, the unit of force is cal

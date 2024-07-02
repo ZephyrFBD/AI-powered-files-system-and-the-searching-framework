@@ -1,0 +1,30 @@
+o and AM
+for video; both audio and video signals are mixed with carrier frequencies.
+638
+CHAPTER 22
+Electromagnetic Waves
+†For FM stereo broadcasting, two signals are carried by the carrier wave. One signal contains frequencies
+up to about 15 kHz, which includes most audio frequencies. The other signal includes the same range
+of frequencies, but 19 kHz is added to it. A stereo receiver subtracts this 19,000-Hz signal and distributes
+the two signals to the left and right channels. The first signal consists of the sum of left and right channels
+so monophonic radios (one speaker) detect all the sound. The second signal is the difference
+between left and right 
+Hence a stereo receiver must add and subtract the two signals to get
+pure left and right signals for each channel.
+(L - R).
+(L + R),
+RF tuner
+and amplifier
+Receiving
+antenna
+AF
+amplifier
+RF
+signal
+Audio
+signal
+Demodulator
+Loudspeaker
+FIGURE 22–16 Block diagram of
+a simple radio receiver.
+Now let us look at the other end of the proce

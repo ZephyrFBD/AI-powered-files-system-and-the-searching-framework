@@ -1,0 +1,39 @@
+he 
+reaction:
+∆Hrxn = 3D1C ¬H2 + D1Cl ¬Cl24 - 3D1C ¬Cl2 + D1H¬Cl24 
+∆Hrxn = 1413 kJ + 242 kJ2 - 1328 kJ + 431 kJ2 = -104 kJ
+The reaction is exothermic because the bonds in the products are stronger than the bond 
+in the reactants.
+Typically, bond enthalpies are used to estimate ∆Hrxn only if the needed ∆Hf° values 
+are not readily available. For the preceding reaction, we cannot calculate ∆Hrxn from ∆Hf° 
+Go Figure
+Is this reaction exothermic or endothermic?
+2
+1
++
+Enthalpy (H)
+Break
+C—H and Cl—Cl
+bonds
+DH1 . 0
+DHrxn
+∆H2 , 0
+Make
+C—Cl and H—Cl
+bonds
+1
++ 
+1
++
+C
+H
+Cl
+ 
+▲ Figure 5.24 Using bond enthalpies to estimate 횫Hrxn. Average bond enthalpies are 
+used to estimate ∆Hrxn for the reaction of methane with chlorine to make methyl chloride 
+and hydrogen chloride.
+194 
+CHAPTER 5 Thermochemistry
+values and Hess’s law because ∆Hf° for CH3Cl( g ) is not given in Appendix C. If we obtain 
+the value of ∆Hf° for CH3Cl( g ) from another source and use Equation 5.31, we find that 
+∆Hrxn = -99.8 kJ 

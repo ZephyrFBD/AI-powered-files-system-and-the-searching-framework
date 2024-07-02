@@ -1,0 +1,11 @@
+ng the development of C. elegans,131 cells, always the same cells, are destroyed
+when celldeath genes (Ced genes) are activated during the normal course of development.
+During early stages of development, webbing connects the spaces between fingers and between toes of humans and
+other animals. Later, during normal embryonic development, however, the cells that make up the webbing undergo
+apoptosis, allowing the fingers and toes to form separate, unattached digits. For ducks and other animals, where
+webbing remains, activation of the genes that initiate apoptosis is inhibited.
+Mechanisms That Control Gene Expression
+External and internal signals turn on (or off) the expression of genes. Genes are expressed when their nucleotide
+sequences are transcribed to produce RNAs. If the RNA is an mRNA, it may produce a protein that contributes to
+the specialization of the cell. Specialized cells form tissues, different tissues combine to form organs, and a
+multicellular organism forms. Mechanisms

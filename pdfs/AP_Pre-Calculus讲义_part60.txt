@@ -1,0 +1,44 @@
+A. 
+ 
+ 
+Example 1 
+Sketch the graph of f (x) = log2 x. 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+Sketch the graph of each function. State the domain, range, and asymptote. 
+(a) g(x) = −log2 x 
+(b) h (x) = log2(−x) 
+ 
+ 
+ 
+ 
+ 
+2.6.3 Common Logarithms 
+ 
+87 
+The logarithm with base 10 is called the common logarithm and is denoted by omitting 
+the base: 
+log x = log10 x 
+From the definition of logarithms we can easily find that log 10 = 1 and log 100 = 2. 
+But how do we find log 50? We need to find the exponent y such that 10y =50. 
+Clearly, 1 is too small and 2 is too large. So 1 < log 50 < 2 
+To get a better approximation, we can experiment to find a power of 10 closer to 50. 
+LOG
+Fortunately, scientific calculators are equipped with a 
+ key that directly gives values 
+of common logarithms. 
+ 
+Example 3 
+Use a calculator to find appropriate values of f (x) = log x, and use the values to sketch the 
+graph. 
+ 
+ 
+ 
+ 
+ 
+2.6.4 Natural Logarithms 
+The logarithm with base e is called the natural logarithm and is d

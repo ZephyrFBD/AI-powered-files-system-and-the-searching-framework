@@ -1,0 +1,84 @@
+
+∆H = 495 kJ
+TABLE 5.4 Average Bond Enthalpies (kJ/mol)
+C ¬ H
+413
+N ¬ H
+391
+O ¬ H
+463
+F ¬ F
+155
+C ¬ C
+348
+N ¬ N
+163
+O ¬ O
+146
+C “ C
+614
+N ¬ O
+201
+O “ O
+495
+Cl ¬ F
+253
+C ¬ N
+293
+N ¬ F
+272
+O ¬ F
+190
+Cl ¬ Cl
+242
+C ¬ O
+358
+N ¬ Cl
+200
+O ¬ Cl
+203
+C “ O
+799
+N ¬ Br
+243
+O ¬ I
+234
+Br ¬ F
+237
+C ¬ F
+485
+Br ¬ Cl
+218
+C ¬ Cl
+328
+H ¬ H
+436
+Br —Br
+193
+C ¬ Br
+276
+H ¬ F
+567
+C ¬ I
+240
+H ¬ Cl
+431
+I ¬ Cl
+208
+H ¬ Br
+366
+I ¬ Br
+175
+H ¬ I
+299
+I ¬ I
+151
+Inspection of Table 5.4 shows that D(O “ O) = 495 kJ/mol, which is larger but not 
+ 
+exactly twice the enthalpy of an oxygen–oxygen single bond, D(O—O) = 146 kJ/mol. 
+We will consider the variations in bond enthalpy for double and triple bonds in more 
+detail in Chapter 8.
+Bond Enthalpies and the Enthalpies of Reactions
+Because enthalpy is a state function, we can use average bond enthalpies to estimate 
+the enthalpies of reactions in which bonds are broken and new bonds are formed. This 
+procedure allows us to estimate quickly whether a given reaction will be e

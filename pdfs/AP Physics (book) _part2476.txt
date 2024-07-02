@@ -1,0 +1,15 @@
+ss, the reception of radio and TV
+programs at home. A simple radio receiver is diagrammed in Fig. 22–16. The EM
+waves sent out by all stations are received by the antenna. The signals the antenna
+detects and sends to the receiver are very small and contain frequencies from many
+different stations. The receiver uses a resonant LC circuit (Section 21–15) to select
+out a particular RF frequency (actually a narrow range of frequencies) correspond-
+ing to a particular station. A simple way of tuning a station is shown in Fig. 22–17.
+A particular station is “tuned in” by adjusting C and or L so that the resonant
+frequency of the circuit (
+Eq. 21–19) equals that of the station’s
+carrier frequency. The signal, containing both audio and carrier frequencies, next
+goes to the demodulator, or detector (Fig. 22–16), where “demodulation” takes
+place—that is, the audio signal is separated from the RF carrier frequency. The
+audio signal is amplified and sent to a loudspeaker or headphones.
+Modern rece

@@ -1,0 +1,15 @@
+’s Law
+As Figure 10.6 illustrates, the volume of an inflated balloon increases when the tempera-
+ture of the gas inside the balloon increases and decreases when the temperature of the 
+gas decreases. This relationship between gas volume and temperature was discovered in 
+1787 by French scientist Jacques Charles (1746–1823). Some typical volume–temperature 
+data are shown in Figure 10.7. Notice that the extrapolated (dashed) line passes through 
+-273 °C. Note also that the gas is predicted to have zero volume at this temperature. This 
+condition is never realized, however, because all gases liquefy or solidify before reaching 
+this temperature.
+In 1848, William Thomson (1824–1907), a British physicist whose title was Lord 
+Kelvin, proposed an absolute-temperature scale, now known as the Kelvin scale. On this 
+scale, 0 K, called absolute zero, equals -273.15 °C.  
+ (Section 1.5) In terms of the Kelvin 
+scale, Charles’s law states:
+The volume of a fixed amount of gas maintained at constan

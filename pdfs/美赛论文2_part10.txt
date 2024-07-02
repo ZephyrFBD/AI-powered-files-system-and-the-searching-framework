@@ -1,0 +1,22 @@
+of medication in each epidemic area. 
+ According to the administrative division in Sierra Leone, we divide 
+Sierra Leone into 14 epidemic areas and then set up the delivery 
+system. 
+ Set up Medication Delivery Model to optimize the distribution 
+considering both the cost and time of a complete medication 
+distribution. 
+ Conclude the final solution to this problem. 
+ Sum up the whole solution and prepare a non-technical letter for the 
+world medical association to use in their announcement. 
+III. Models 
+3.1 
+Spread Model( SIR Model ) 
+3.1.1 Terms, Definitions and Symbols 
+ S(t): The proportion of susceptible people. 
+Team   #37232                                                              Page 3 of 22   
+ I(t): The proportion of infective people. 
+ R(t): The proportion of dead and cured people. 
+ I(0): The proportion of patients in the initial time. 
+ S(0): The proportion of susceptible people in the initial time. 
+ N: The total number of people in the epidemic area.  
+ 

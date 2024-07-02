@@ -1,0 +1,27 @@
+oltage difference.
+(c) the lightbulb may be old with low resistance. It would
+take longer if the bulb were new and had high 
+resistance.
+(d) the electricity bill is paid. The electric company can
+make it take longer when the bill is unpaid.
+FIGURE 18–34
+Problem 8.
+7. When current flows through a resistor,
+(a) some of the charge is used up by the resistor.
+(b) some of the current is used up by the resistor.
+(c) Both (a) and (b) are true.
+(d) Neither (a) nor (b) is true.
+8. The unit kilowatt-hour is a measure of
+(a) the rate at which energy is transformed.
+(b) power.
+(c) an amount of energy.
+(d) the amount of power used per second.
+9. Why might a circuit breaker open if you plug too many
+electrical devices into a single circuit?
+(a) The voltage becomes too high.
+(b) The current becomes too high.
+(c) The resistance becomes too high.
+(d) A circuit breaker will not “trip” no matter how many
+electrical devices you plug into the circuit.
+18–2 and 18–3 Electric Current, Resistance, Ohm’s Law
+(

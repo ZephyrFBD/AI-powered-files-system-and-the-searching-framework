@@ -1,0 +1,39 @@
+2 and He2, referring to Figures 9.32 and 
+9.33. H2 has two bonding electrons and zero antibonding electrons, so it has a bond 
+order of 1.
+Figure 9.33 shows the energy-level diagram for the hypothetical He2 molecule, which 
+requires four electrons to fill its molecular orbitals. Because only two electrons can go in the 
+s
+1s MO, the other two electrons must go in the s
+1s
+*  MO. The electron configuration of He2 is 
+thus s1s
+2
+  s
+1s
+*2. The energy decrease realized in going from He atomic orbitals to the He bond-
+ing MO is offset by the energy increase realized in going from the atomic orbitals to the He 
+Antibonding MO occupied
+Energy
+s1s
+2
+s1s
+2
+s1s
+s1s
+He atom
+He2 molecule
+He atom
+1s
+1s
+▶ Figure 9.33 Energy-level diagram and 
+electron configuration for He2.
+ 
+SECTION 9.8   
+Bonding in Period 2 Diatomic Molecules 
+371
+9.8 ∣  
+Bonding in period 2 Diatomic 
+Molecules
+In considering the MO description of diatomic molecules other than H2, we will initially 
+restrict our discussion to ho

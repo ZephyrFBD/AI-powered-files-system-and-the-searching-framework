@@ -1,0 +1,10 @@
+bbit coat color (C) gene.
+The complete dominance of a wild-type phenotype over all other mutants often occurs as an effect of “dosage” of a specific
+gene product, such that the wild-type allele supplies the correct amount of gene product whereas the mutant alleles cannot.
+For the allelic series in rabbits, the wild-type allele may supply a given dosage of fur pigment, whereas the mutants supply
+a lesser dosage or none at all. Interestingly, the Himalayan phenotype is the result of an allele that produces a temperature-
+sensitive gene product that only produces pigment in the cooler extremities of the rabbit’s body.
+Alternatively, one mutant allele can be dominant over all other phenotypes, including the wild type. This may occur when
+the mutant allele somehow interferes with the genetic message so that even a heterozygote with one wild-type allele copy
+expresses the mutant phenotype. One way in which the mutant allele can interfere is by enhancing the function of the wild-
+type gene pr

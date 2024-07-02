@@ -1,0 +1,63 @@
+ field strength?
+*63. (II) The following are some values of B and 
+for a piece
+of iron as it is being magnetized (note different units):
+B0
+m
+3000m0 ,
+N2 (28.0134 u).
+r = 2.7 cm.
+B = 0.034 T.
+E = 1.5 kVm
+m = qB2R22V,
+1.67 * 10–27 kg.
+B = B¿ = 0.68 T.
+2.88 * 104 Vm
+5.50 * 10–5 T
+53.0-mA
+Cylindrical braid
+Insulating
+sleeve
+I
+I
+Solid wire
+r
+FIGURE 20–61
+Coaxial cable.
+Problem 50.
+(b)
+B
+B
+Path 1
+Path 2
+(a)
+I
+I
+R
+FIGURE 20–60 Problem 49. (a) A toroid or torus.
+(b) A section of the toroid showing direction of the 
+current for three loops:
+means current toward 
+you, and 
+means current away from you.
+z
+
+50. (III) (a) Use Ampère’s law to show that the magnetic field
+between the conductors of a coaxial cable (Fig. 20–61) is
+if r (distance from center) is greater than
+the radius of the inner wire and less than
+the radius of the outer cylindrical
+braid 
+.
+(b) 
+Show 
+that
+outside the
+coaxial cable.
+B = 0
+(= ground)
+B = m0 I2pr
+20–9 and 20–10 T
+orque on Current Loop, Motors,
+Galvanometers
+51. (

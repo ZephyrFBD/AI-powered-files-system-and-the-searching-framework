@@ -1,0 +1,51 @@
+Real Gases: Deviations  
+from Ideal Behavior
+The extent to which a real gas departs from ideal behavior can be seen by rearranging the 
+ideal-gas equation to solve for n:
+ 
+PV
+RT = n 
+[10.24]
+This form of the equation tells us that for 1 mol of ideal gas, the quantity PV>RT equals 
+1 at all pressures. In Figure 10.18, PV>RT is plotted as a function of P for 1 mol of several 
+real gases. At high pressures (generally above 10 atm), the deviation from ideal behavior 
+0
+PV
+RT
+200
+400
+600
+800
+N2
+H2
+CO2
+CH4
+1000
+0.5
+0
+1.0
+1.5
+2.0
+P (atm)
+Ideal gas
+1.0
+0
+1.0
+2.0
+◀ Figure 10.18 The effect of pressure on 
+the behavior of several real gases. Data 
+for 1 mol of gas in all cases. Data for 
+N2, CH4, and H2 are at 300 K; for CO2 data 
+are at 313 K because under high pressure 
+CO2 liquefies at 300 K.
+420 
+CHAPTER 10 Gases
+Low pressure
+High pressure
+Gas molecules occupy a 
+small fraction of the total 
+volume.
+Gas molecules occupy a 
+larger fraction of the total 
+volume.
+▲ Figure 10.20 Gases behave mor

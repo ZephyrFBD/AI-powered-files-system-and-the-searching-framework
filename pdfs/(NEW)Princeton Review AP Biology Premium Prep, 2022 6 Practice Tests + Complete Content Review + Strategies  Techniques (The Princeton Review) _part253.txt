@@ -1,0 +1,15 @@
+rmentation to synthesize lactic acid and restore NADH to NAD+.
+(C) Glycolysis requires fermentation to generate ATP molecules to complete the early steps of the pathway.
+(D) Glycolysis requires fermentation to generate pyruvate for a later step in the pathway.
+6. Which of the following most accurately describes the net reaction of glycolysis?
+(A) It is an endergonic process because it results in a net increase in energy.
+(B) It is an exergonic process because it results in a net increase in energy.
+(C) It is an endergonic process because it results in a net decrease in energy.
+(D) It is an exergonic process because it results in a net decrease in energy.
+7. Taq polymerase, a DNA polymerase derived from thermophilic bacteria, is used in polymerase chain reactions
+(PCR) in the laboratory. During PCR, Taq catalyzes DNA polymerization, similar to how it would in bacteria.
+A normal PCR cycle is as follows:
+1. Melting/Denaturing
+2. Primer Annealing
+3. Elongation of DNA
+(repeat 20–30 cycles)

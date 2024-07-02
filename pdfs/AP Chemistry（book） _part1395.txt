@@ -1,0 +1,14 @@
+e have a sense of the shapes that molecules adopt and why they do so, we 
+will return to some topics that we first discussed in Section 8.4, namely, bond polarity and 
+dipole moments. Recall that bond polarity is a measure of how equally the electrons in a 
+bond are shared between the two atoms of the bond. As the difference in electronegativ-
+ity between the two atoms increases, so does the bond polarity. 
+ (Section 8.4) We saw 
+that the dipole moment of a diatomic molecule is a measure of the amount of charge 
+separation in the molecule.
+For a molecule consisting of more than two atoms, the dipole moment depends on both 
+the polarities of the individual bonds and the geometry of the molecule. For each bond in the 
+molecule, we consider the bond dipole, which is the dipole moment due only to the 
+two atoms in that bond. Consider the linear CO2 molecule, for example. As shown in 
+Figure 9.10(a), each C “O bond is polar, and because the C “O bonds are identical, the 
+bond dipoles are eq

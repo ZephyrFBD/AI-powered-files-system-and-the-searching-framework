@@ -1,0 +1,14 @@
+e first member of the alkali metals 
+(group 1A).
+Beryllium and Boron The element that follows lithium is beryllium; its electron con-
+figuration is 1s22s2 (Table 6.3). Boron, atomic number 5, has the electron configuration 
+1s22s22p1. The fifth electron must be placed in a 2p orbital because the 2s orbital is filled. 
+Because all three of the 2p orbitals are of equal energy, it does not matter which 2p orbital 
+we place this fifth electron in.
+Carbon With the next element, carbon, we encounter a new situation. We know that 
+the sixth electron must go into a 2p orbital. However, does this new electron go into the 
+2p orbital that already has one electron or into one of the other two 2p orbitals?
+Hund’s rule states that that when filling degenerate orbitals the lowest energy is 
+attained when the number of electrons having the same spin is maximized. 
+This means that electrons occupy orbitals singly to the maximum extent possible and 
+that these single electrons in a given subshell all h

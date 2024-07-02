@@ -1,0 +1,32 @@
+56 J)(1 Js * 3600 s) = 0.29.
+(1 Btu1 Wh) =
+SEER = 1
+1 Btu = 1056 J
+SEER =
+(heat removed in Btu)
+(electrical input in watt-hours)
+,
+*
+As in a refrigerator, there is an indoor and an outdoor heat exchanger (coils of the
+refrigerator) and an electric compressor motor. The operating principle is like
+that for a refrigerator or air conditioner; but the objective of a heat pump is to heat
+(deliver 
+), rather than to cool (remove 
+). Thus, the coefficient of performance
+of a heat pump is defined differently than for an air conditioner because it is the
+heat 
+delivered to the inside of the house that is important now:
+(15;7)
+The COP is necessarily greater than 1. Typical heat pumps today have 
+to 3. Most heat pumps can be “turned around” and used as air conditioners in the
+summer.
+COP L 2.5
+[heat pump]
+COP = QH
+W
+.
+QH
+QL
+QH
+EXERCISE F The heat pump of Example 15–12 uses 1500 W of electric power to deliver
+4500 W of heat. Does this sound like we’re getting something for nothing? (a) Explain

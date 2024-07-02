@@ -1,0 +1,31 @@
+ the vaulter must be raised. By bending their bodies, pole
+vaulters keep their CM so low that it can actually pass slightly beneath the bar 
+(Fig. 6–21), thus enabling them to cross over a higher bar than would otherwise 
+be possible. (Center of mass is covered in Chapter 7.)
+As another example of the conservation of mechanical energy, let us consider
+an object of mass m connected to a compressed horizontal spring (Fig.6–13b) whose
+own mass can be neglected and whose spring stiffness constant is k. When the spring
+is released, the mass m has speed v at any moment. The potential energy of the
+system (object plus spring) is 
+where x is the displacement of the spring from
+its unstretched length (Eq. 6–9). If neither friction nor any other force is acting,
+conservation of mechanical energy tells us that
+[elastic PE only]
+(6;14)
+where the subscripts 1 and 2 refer to the velocity and displacement at two differ-
+ent moments.
+1
+2 mv1
+2 +
+1
+2 kx1
+2 =
+1
+2 mv2
+2 +
+1
+2 kx2
+2 ,
+1
+2 kx2,
+SECTION 6–7

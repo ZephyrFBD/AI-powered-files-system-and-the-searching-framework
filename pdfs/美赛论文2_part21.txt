@@ -1,0 +1,21 @@
+g the 
+decision. It provide a way of thinking, having certain guiding significance. 
+This model is more reasonable than the two models before and seems to 
+be much more effective and practical. 
+ Weakness: The assumption on index relationships between λ and t , μ and 
+t still has margins of error. Also, we ignore the effect of population 
+migration between the different cities when the disease spread. 
+3.4 
+  Production Model 
+Team   #37232                                                              Page 10 of 22   
+3.4.1 Terms, Definitions and Symbols 
+ u(t): techniques of production at time t. 
+ L: labor force 
+ K: capital 
+ α: the weight of labor force in the production process 
+ β: the weight of capital in the production process 
+ t0: the first turning point of the expression of u(t) 
+ t1: the second turning point of the expression of u(t) 
+ t2: the second turning point of the expression of u(t) 
+ Y: the total output of medication in one week 
+ D(t): the demand of the m

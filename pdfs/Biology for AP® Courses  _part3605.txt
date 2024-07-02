@@ -1,0 +1,12 @@
+rs the bloodstream.
+During exhalation, the lungs expel air and lung volume decreases. In the next few sections, the process of human breathing
+will be explained.
+The Mechanics of Human Breathing
+Boyle’s Law is the gas law that states that in a closed space, pressure and volume are inversely related. As volume decreases,
+pressure increases and vice versa (Figure 30.15). The relationship between gas pressure and volume helps to explain the
+mechanics of breathing.
+Figure 30.15 This graph shows data from Boyle’s original 1662 experiment, which shows that pressure and volume
+are inversely related. No units are given as Boyle used arbitrary units in his experiments.
+There is always a slightly negative pressure within the thoracic cavity, which aids in keeping the airways of the lungs
+open. During inhalation, volume increases as a result of contraction of the diaphragm, and pressure decreases (according
+to Boyle’s Law). This decrease of pressure in the thoracic cavity relative to the environm

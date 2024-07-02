@@ -1,0 +1,11 @@
+axis of a graph, and the sizes of these known DNA marker fragments are plotted on
+the y-axis. A line of best fit is drawn between these points to create a standard curve (as shown by the solid line in
+Figure 24.11). Using the standard curve shown in Figure 24.11, if a fragment of unknown size migrated 4.0 cm in
+the gel, then interpolated to the line of best fit, the size of the fragment can be estimated from the standard curve to
+be about 420 base pairs (shown by the dotted line in Figure 24.11).
+Figure 24.11 Graph of Electrophoresis Data with Standard Curve and Interpolation of an Unknown
+Lab 10: Energy Dynamics
+All life on Earth obtains its energy either directly or indirectly from light energy. Photosynthetic organisms
+(producers) capture light energy and store it in the chemical bonds of the organic products of photosynthesis. The
+total amount of organic compounds created by an organism through the process of photosynthesis is called the gross
+primary productivity. Some of the orga

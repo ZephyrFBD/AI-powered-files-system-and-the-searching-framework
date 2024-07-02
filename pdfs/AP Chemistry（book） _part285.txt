@@ -1,0 +1,17 @@
+:
+1 amu = 1.66054 * 10-24 g and 1 g = 6.02214 * 1023 amu
+The atomic mass unit is presently defined by assigning a mass of exactly 12 amu to a 
+chemically unbound atom of the 12C isotope of carbon. In these units, an 1H atom has a 
+mass of 1.0078 amu and an 16O atom has a mass of 15.9949 amu.
+Give It Some Thought 
+To how many significant figures would you need to express the mass of an oxygen-16 
+atom in amu to notice the change in mass that occurs when it gains an electron? 
+Give It Some Thought 
+Two isotopes of boron are found in nature: 10B has a mass of 10.01 amu, and 11B 
+has a mass of 11.01 amu. Use the atomic weight of boron found in the periodic 
+table to determine which isotope is more abundant, 10B or 11B.
+Atomic Weight
+Most elements occur in nature as mixtures of isotopes. We can determine the average 
+atomic mass of an element, usually called the element’s atomic weight, by summing 
+(indicated by the Greek sigma, g) over the masses of its isotopes multiplied by their rel-
+at

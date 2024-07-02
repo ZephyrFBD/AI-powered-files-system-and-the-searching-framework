@@ -1,0 +1,41 @@
+ult, p bonds are gener-
+ally weaker than s bonds.
+Internuclear
+axis
+Internuclear
+axis
+s bond
+p bond
+p
+p
+p
+p
+▲ Figure 9.20 Comparison of S and P bonds. Note that the two regions of overlap in the p bond, 
+above and below the internuclear axis, constitute a single p bond.
+362 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+▲ Figure 9.21 Trigonal-planar molecular 
+geometry of ethylene. The double bond 
+is made up of one C¬C s bond and one 
+C¬ C p bond.
+In almost all cases, single bonds are s bonds. A double bond consists of one s bond 
+and one p bond, and a triple bond consists of one s bond and two p bonds:
+N
+C
+C
+H
+H
+H
+H
+H
+H
+N
+One s bond
+One s bond plus
+one p bond
+One s bond plus
+two p bonds
+Consider ethylene 1C2H42, which has a C “C double bond. As illustrated by the ball-
+and-stick model of Figure 9.21, the three bond angles about each carbon are all approx-
+imately 120°, suggesting that each carbon atom uses sp2 hybrid orbitals (Figure 9.16) to 
+form s bonds with the other carbon a

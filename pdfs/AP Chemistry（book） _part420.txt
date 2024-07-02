@@ -1,0 +1,18 @@
+ight (FW) of a substance is the sum of the atomic weights (AW) of the 
+ 
+atoms in the chemical formula of the substance. Using atomic weights from the periodic 
+table, we find, for  
+example, that the formula weight of sulfuric acid, H2SO4, is 98.1 amu 
+(atomic mass units):
+FW of H2SO4 = 21AW of H2 + 1AW of S2 + 41AW of O2
+  = 211.0 amu2 + 32.1 amu + 4116.0 amu2
+ = 98.1 amu
+For convenience, we have rounded off the atomic weights to one decimal place, a practice 
+we will follow in most calculations in this book.
+If the chemical formula is the chemical symbol of an element, such as Na, the 
+formula weight equals the atomic weight of the element, in this case 23.0 amu. If the 
+chemical formula is that of a molecule, the formula weight is also called the molecular 
+weight (MW). The molecular weight of glucose 1C6H12O62, for  
+example, is
+MW of C6H12O6 = 6112.0 amu2 + 1211.0 amu2 + 6116.0 amu2 = 180.0 amu
+Because ionic substances exist as three-dimensional arrays of ions (see Figure 2.20), 

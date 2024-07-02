@@ -1,0 +1,68 @@
+  
+and  
+We want to find the posi-
+tion y of the ball after three different time intervals. Equation 2–11b, with 
+x replaced by y, relates the given quantities (
+a, and 
+) to the unknown y.
+SOLUTION We set  
+in Eq. 2–11b:
+The ball has fallen a distance of 4.90 m during the time interval  
+to
+Similarly, after 2.00 s 
+the ball’s position is
+Finally, after 3.00 s 
+the ball’s position is (see Fig. 2–22)
+NOTE Whenever we say “dropped,” it means  
+Note also the graph of
+y vs.
+(Fig. 2–22b): the curve is not straight but bends upward because y is
+proportional to t2.
+t
+v0 = 0.
+y3 =
+1
+2 at3
+2 =
+1
+2 A9.80 ms2B(3.00 s)2 = 44.1 m.
+A= t3B,
+y2 =
+1
+2 at2
+2 =
+1
+2 A9.80 ms2B(2.00 s)2 = 19.6 m.
+A= t2B,
+t1 = 1.00 s.
+t = 0
+= 0 +
+1
+2 at2
+1 =
+1
+2 A9.80 ms2B(1.00 s)2 = 4.90 m.
+y1 = v0t1 +
+1
+2 at2
+1
+t = t1 = 1.00 s
+v0
+t,
+y0 = 0.
+v0 = 0
+a = g = ±9.80 ms2.
+t3 = 3.00 s?
+t2 = 2.00 s,
+t1 = 1.00 s,
+(v0 = 0)
+EXAMPLE 2;10
+y0 = 0
+x0 .
+y0
+32 fts2.
+cacceleration due to gravity
+at surface of Earth
+d
+g = 9.80 ms2.
+P 

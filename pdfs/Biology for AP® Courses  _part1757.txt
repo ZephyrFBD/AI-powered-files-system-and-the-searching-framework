@@ -1,0 +1,13 @@
+he promoter that initiates transcription of the lac operon. However, for the
+lac operon to be activated, two conditions must be met. First, the level of glucose must be very low or non-existent. Second,
+lactose must be present. Only when glucose is absent and lactose is present will the lac operon be transcribed (Figure 16.5).
+This makes sense for the cell, because it would be energetically wasteful to create the proteins to process lactose if glucose
+was plentiful or lactose was not available.
+642
+Chapter 16 | Gene Regulation
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 16.5 Transcription of the lac operon is carefully regulated so that its expression only occurs when glucose
+is limited and lactose is present to serve as an alternative fuel source.
+In E. coli, the trp operon is on by default, while the lac operon is off. Why do you think that this is the case?
+a.
+The trp operon is inducible and is positively regulated. Therefore it is ON by de

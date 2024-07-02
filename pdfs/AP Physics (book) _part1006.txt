@@ -1,0 +1,52 @@
+ts weight therefore about 
+Suppose a 200-km/h wind exerts a force of 
+over
+the 76.0-m-wide face (Fig. 9–80). Calculate the torque about
+the potential pivot point,
+the rear edge of the
+building (where 
+acts in
+Fig. 9–80), and determine
+whether the building will
+topple. Assume the total
+force of the wind acts at
+the midpoint of the build-
+ing’s face, and that the
+building is not anchored
+in bedrock. [Hint:
+in
+Fig. 9–80 represents the
+force that the Earth would
+exert on the building in
+the case where the building
+would just begin to tip.]
+F
+B
+E
+F
+B
+E
+950 Nm2
+1.8 * 108 N.
+1.8 * 107 kg,
+FIGURE 9–80 Forces on a building subjected
+to wind 
+gravity 
+and the force 
+on the building due to the Earth if the 
+building were just about to tip. Problem 61.
+F
+B
+E
+Amg
+BB,
+AF
+B
+AB,
+62. The center of gravity of a loaded truck depends on how the
+truck is packed. If it is 4.0 m high and 2.4 m wide, and its
+CG is 2.2 m above the
+ground, how steep a slope
+can the truck be parked
+on without tipping over
+(Fig.

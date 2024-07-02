@@ -1,0 +1,18 @@
+es a net  
+attraction 
+that is smaller than it would experience in the absence of other electrons.
+How can we account for the combination of nuclear attraction and electron repul-
+sions for our electron of interest? The simplest way to do so is to imagine that the  
+electron 
+experiences a net attraction that is the result of the nuclear attraction decreased by the 
+electron–electron repulsions. We call this partially screened nuclear charge the effective 
+nuclear charge, Zeff. Because the full attractive force of the nucleus has been decreased 
+by the electron repulsions, we see that the effective nuclear charge is always less than the 
+actual nuclear charge 1Zeff 6 Z2. We can define the amount of screening of the nuclear 
+charge quantitatively by using a screening  
+constant, S, such that
+ 
+Zeff = Z - S 
+[7.1]
+where S is a positive number. For a valence electron, most of the shielding is due to the 
+core electrons, which are much closer to the nucleus. As a result, for the valence el

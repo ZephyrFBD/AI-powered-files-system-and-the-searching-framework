@@ -1,0 +1,29 @@
+e defect of a nearsighted eye, which cannot focus well on dis-
+tant objects. Converging lenses are used to correct for defects
+in which the eye cannot focus on close objects.
+A simple magnifier is a converging lens that forms a virtual
+image of an object placed at (or within) the focal point. The
+angular magnification, when viewed by a relaxed normal eye, is
+(25–2a)
+where f is the focal length of the lens and N is the near point of
+the eye (25 cm for a “normal” eye).
+An astronomical telescope consists of an objective lens or
+mirror, and an eyepiece that magnifies the real image formed
+by the objective. The magnification is equal to the ratio of the
+objective and eyepiece focal lengths, and the image is inverted:
+(25–3)
+M =
+– f
+o
+f
+e
+.
+M = N
+f
+,
+A compound microscope also uses objective and eyepiece
+lenses, and the final image is inverted. The total magnification
+is the product of the magnifications of the two lenses and is
+approximately
+(25;6b)
+where is the distance between the lenses,

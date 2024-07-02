@@ -1,0 +1,42 @@
+n and Transmission
+of Waves
+11–11 Interference; Principle of
+Superposition
+11–12 Standing Waves; Resonance
+*11–13 Refraction
+*11–14 Diffraction
+*11–15 Mathematical Representation
+of a Traveling Wave
+C
+H
+A
+P
+T
+E
+R
+An object attached to a coil spring can exhibit oscillatory motion. Many kinds of oscillatory 
+motion are sinusoidal in time, or nearly so, and are referred to as simple harmonic motion. Real
+systems generally have at least some friction, causing the motion to be damped. The automobile 
+spring shown here has a 
+shock absorber (yellow) that 
+purposefully dampens the 
+oscillation to make for a 
+smooth ride. When an 
+external sinusoidal force is 
+exerted on a system able to 
+oscillate, resonance occurs if 
+the driving force is at or near 
+the natural frequency of 
+oscillation.
+Vibrations can give rise to 
+waves—such as water waves 
+or waves traveling along a 
+cord—which travel outward 
+from their source.
+l
+10.0°
+m
+1
+1
+(d) not quite twice as great.
+(e) a bit more than half as grea

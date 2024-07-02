@@ -1,0 +1,28 @@
+system, and is a general statement of the conservation of energy. The
+second law of thermodynamics expresses limits on the ability to do useful work,
+and is often stated in terms of entropy, which is a measure of disorder. Besides
+these two great laws, we also discuss some important related practical devices:
+heat engines, refrigerators, heat pumps, and air conditioners.
+SECTION 15–1
+413
+FIRST LAW OF
+THERMODYNAMICS
+C A U T I O N
+Heat added is
+Heat lost is 
+Work on system is 
+Work by system is+
+–
+–
++
+C A U T I O N
+P, V, T, U, m, n are state 
+variables. W and Q are not:
+a system does not have an
+amount of heat or work
+15–1 The First Law of Thermodynamics
+In Section 14–2, we defined the internal energy of a system as the sum total of all
+the energy of the molecules within the system. Then the internal energy of a
+system should increase if work is done on the system, or if heat is added to it.
+Similarly the internal energy should decrease if heat flows out of the system or if
+work is done 

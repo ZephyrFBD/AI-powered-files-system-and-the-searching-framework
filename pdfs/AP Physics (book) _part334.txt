@@ -1,0 +1,15 @@
+ friction with the floor.
+CONCEPTUAL EXAMPLE 4;1
+Inertial Reference Frames
+Newton’s first law does not hold in every reference frame. For example, if your
+reference frame is an accelerating car, an object such as a cup resting on the 
+dashboard may begin to move toward you (it stayed at rest as long as the car’s
+velocity remained constant). The cup accelerated toward you, but neither you nor
+anything else exerted a force on it in that direction. Similarly, in the reference frame
+of the decelerating bus in Example 4–1, there was no force pushing the backpacks
+forward. In accelerating reference frames, Newton’s first law does not hold. Physics
+is easier in reference frames in which Newton’s first law does hold, and they 
+are called inertial reference frames (the law of inertia is valid in them). For most
+purposes, we usually make the approximation that a reference frame fixed on the
+Earth is an inertial frame. This is not precisely true, due to the Earth’s rotation,
+but usually it is clo

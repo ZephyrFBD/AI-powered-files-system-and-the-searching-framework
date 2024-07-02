@@ -1,0 +1,50 @@
+The time of the first cooling process in the natural condition
+32
+t
+The time of all cooling process in the natural condition except the
+first time
+1
+D
+The ‘suffering degree’ during the first cooling process
+2
+D
+The ‘suffering degree’ during the adding and fusion process
+3
+D
+The ‘suffering degree’ during all the cooling process except the
+first time
+D
+The total ‘suffering degree’
+Table 4: variable declaration
+3.2.2 Model assumption
+
+The user doesn’t suffer during the first second when the water in the bathtub
+cools after fusion. That is to say the user suffers from a second after the time
+Team#44509
+Page 13 of 26
+when the water in the bathtub cools to 31
+t .
+3.2.3 Body feeling model
+3.2.3.1 The ‘suffering degree’ during the first cooling process
+From cooling model, during the cooling process, we have
+0
+0
+ln T
+cm
+t
+k
+T
+
+
+
+
+
+. When
+it is the first time for the water to cool, the temperature when the cooling process
+begins is the initial temperature. That is to say,
+0
+01
+T
+u
+
+. When

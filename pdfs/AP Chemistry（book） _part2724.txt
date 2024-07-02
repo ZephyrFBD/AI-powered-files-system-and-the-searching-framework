@@ -1,0 +1,25 @@
+OH completely reacts with the 5.00 * 10-3 mol 
+of CH3COOH to form 5.00 * 10-3 mol of CH3COONa. The Na+ ion of this salt has 
+no significant effect on the pH. The CH3COO- ion, however, is a weak base whose 
+Hence, the concentration of OH-1aq2 in the 
+flask is:
+3OH-4 =
+moles OH-1aq2
+liters soln
+= 0.10 * 10-3 mol
+0.1010 L
+= 1.0 * 10-3 M
+and we have:
+ pOH = -log11.0 * 10-32 = 3.00
+ pH = 14.00 - pOH = 14.00 - 3.00 = 11.00
+Comment Note that the pH increased by only two pH units, from 
+1.00 (Figure 17.7) to 3.00, after the first 49.0 mL of NaOH solution 
+was added, but jumped by eight pH units, from 3.00 to 11.00, as 
+2.0 mL of base solution was added near the equivalence point. 
+Such a rapid rise in pH near the equivalence point is a characteris-
+tic of titrations involving strong acids and strong bases.
+ 
+▶Practice Exercise 1
+An acid–base titration is performed: 250.0 mL of an unknown 
+concentration of HCl (aq) is titrated to the equivalence point 
+with 36.7 mL of a 0.1000 M aqueous solutio

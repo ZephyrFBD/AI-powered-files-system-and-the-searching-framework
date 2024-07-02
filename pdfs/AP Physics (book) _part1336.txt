@@ -1,0 +1,35 @@
+. The depth of the sea and the location of reefs, sunken ships, sub-
+marines, or schools of fish can be determined in this way. The interior structure of
+the Earth is studied in a similar way by detecting reflections of waves traveling
+through the Earth whose source was a deliberate explosion (called “soundings”).
+An analysis of waves reflected from various structures and boundaries within the
+Earth reveals characteristic patterns that are also useful in the exploration for oil
+and minerals. (Radar used at airports to track aircraft involves a similar pulse-echo
+technique except that it uses electromagnetic (EM) waves, which, like visible light,
+travel with a speed of
+)
+3 * 108 ms.
+*
+*
+vsnd
+vobj
+sin u = vsnd
+vobj
+,
+u
+*SECTION 12–9
+349
+P H Y S I C S  A P P L I E D
+Sonic boom
+P H Y S I C S  A P P L I E D
+Sonar: depth finding, Earth
+soundings
+†Sonar stands for “sound navigation ranging.”
+Front shock wave
+Tail shock wave
+(a)
+(b)
+A
+B
+C
+FIGURE 12–25 (a) The (double) sonic boom has already b

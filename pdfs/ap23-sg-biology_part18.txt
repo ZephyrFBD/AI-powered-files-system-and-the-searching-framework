@@ -1,0 +1,11 @@
+h as transcription, 
+translation, and glycolysis. Because these genes appear to be expressed in all cells at constant levels, the 
+expression of housekeeping genes is often used as a control when comparing how the expression of other 
+genes varies under different conditions. 
+Researchers studying the effect of pesticides on declining bee populations wanted to determine whether the 
+expression of four housekeeping genes (GAPDH, RPL32, RPS5, and TBP-AF) was in fact constant in bees across 
+different variables. The researchers collected samples of mRNA for each of the four genes and compared 
+how their expression varied across the developmental stage of the bee, the sex of the bee, and the cell type 
+from which the sample was taken. The mRNA from the samples was reverse transcribed to produce DNA 
+copies of each gene. PCR was then used to amplify the DNA, and the Cq value was determined. The Cq value 
+is the number of PCR cycles needed to produce a specified number of DNA copies (Figure 1

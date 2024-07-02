@@ -1,0 +1,41 @@
+se. (Section 16.2) Related Exercises: 16.23, 16.24
+• Explain how the equilibrium position of a proton-transfer re-
+action relates to the strengths of the acids and bases involved. 
+(Section 16.3) Related Exercises: 16.25, 16.26
+708 
+CHAPTER 16 Acid–Base Equilibria
+ 16.3  The indicator methyl orange has been added to both of the 
+following solutions. Based on the colors, classify each state-
+ment as true or false:
+(a) The pH of solution A is definitely less than 7.00.
+(b) The pH of solution B is definitely greater than 7.00.
+(c) The pH of solution B is greater than that of solution A. 
+[Section 16.4]
+Key Equations
+t Kw = 3H3O+43OH-4 = 3H+43OH-4 = 1.0 * 10-14 
+ 
+[16.16]  
+Ion-product constant of water at 25 °C
+t pH = -log3H+4 
+ 
+[16.17]  
+Definition of pH
+t pOH = -log[OH-] 
+ 
+[16.18]  
+Definition of pOH
+t pH + pOH = 14.00 
+ 
+[16.20] 
+Relationship between pH and pOH
+t Ka =
+3H3O+43A-4
+3HA4
+ or Ka =
+3H+43A-4
+3HA4
+ 
+ 
+[16.25]  
+Acid-dissociation constant for a weak acid, HA
+t Percent i

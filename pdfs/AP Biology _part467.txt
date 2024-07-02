@@ -1,0 +1,19 @@
+converter DEMO Watermarks*******
+■
+■
+Dating Fossils Older than 75,000 Years
+We may be able to date fossils older than 75,000 years indirectly if the
+ancient fossils are embedded in volcanic rock. Lava, as it cools, may
+absorb and trap radioisotopes from the surrounding environment. If fossils
+are sandwiched between two layers of volcanic rock and if we can date the
+two layers by a similar means as discussed above, then we know the age
+range of the fossils. If two volcanic layers surrounding fossils are
+determined to be 490 and 495 million years old (myo), then we know the
+age of the fossils to be between 490 and 495 myo.
+Calculate Half-Life Problem
+A sample contains 100.0 g of thorium-234. After 96.4 days, there is 6.25 g
+remaining of Th-234. Calculate the half-life of Th-234. Follow this
+procedure.
+First, determine how many half-lives have passed to get from 100.0 g to
+6.25 g: 100.0 g divided by 2 = 50.0 g; divided by 2 again = 25.0 g; divided
+again by 2 = 12.5 g; and divided again by

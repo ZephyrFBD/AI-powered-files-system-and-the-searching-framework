@@ -1,0 +1,14 @@
+ chosen because it concentrates in the organ or
+region of the anatomy to be studied. Detectors outside the body then record, or
+image, the distribution of the radioactively labeled compound. The detection
+could be done by a single detector (Fig. 31–20a) which is moved across the body,
+measuring the intensity of radioactivity at a large number of points. The image
+represents the relative intensity of radioactivity at each point. The relative
+radioactivity is a diagnostic tool. For example, high or low radioactivity may
+represent overactivity or underactivity of an organ or part of an organ, or in
+another case may represent a lesion or tumor. More complex gamma cameras
+make use of many detectors which simultaneously record the radioactivity at
+many points. The measured intensities can be displayed on a TV or computer
+monitor. The image is sometimes called a scintigram (after scintillator),
+Fig. 31–20b. Gamma cameras are relatively inexpensive, but their resolution is
+limited—by non-perfe

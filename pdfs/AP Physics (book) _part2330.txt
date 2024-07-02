@@ -1,0 +1,47 @@
+plied to the
+coil’s 
+resistance. By Ohm’s law,
+(b) When the motor is at full speed, the back emf must be included in the equivalent
+circuit shown in Fig. 21–19. In this case, Ohm’s law (or Kirchhoff’s rule) gives
+Therefore
+NOTE This result shows that the current can be very high when a motor first
+starts up. This is why the lights in your house may dim when the motor of the
+refrigerator (or other large motor) starts up. The large initial refrigerator current
+causes the voltage to the lights to drop because the house wiring has resistance
+and there is some voltage drop across it when large currents are drawn.
+I =
+12 V
+5.0  = 2.4 A.
+120 V - 108 V = I(5.0 ).
+I = V
+R
+= 120 V
+5.0 
+= 24 A.
+5.0-
+R = 5.0 .
+5.0 .
+EXAMPLE 21;8
+Time
+emf
+0
+e0
+FIGURE 21–18 An ac generator
+produces an alternating current. The
+output emf 
+where
+(Eq. 21–5).
+e0 = NAvB
+e = e0 sin vt,
+Windings
+of motor
+5.0 Ω
+Back emf
+induced in
+armature winding
+induced = 108 V
+= 120 V
+e
+e
+FIGURE 21–19 Circuit of a motor
+showing ind

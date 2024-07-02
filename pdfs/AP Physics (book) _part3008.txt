@@ -1,0 +1,57 @@
+the metal by attractive forces, some minimum energy 
+is required just to get 
+an electron out through the surface.
+is called the work function, and is a few
+electron volts 
+for most metals. If the frequency f of the
+incoming light is so low that hf is less than 
+then the photons will not have
+enough energy to eject any electrons at all. If
+then electrons will be
+ejected and energy will be conserved in the process. That is, the input energy (of
+the photon), hf, will equal the outgoing kinetic energy 
+of the electron plus the
+energy required to get it out of the metal, W:
+(27;5a)
+The least tightly held electrons will be emitted with the most kinetic energy AkemaxB,
+hf = ke + W.
+ke
+hf 7 W
+0 ,
+W
+0 ,
+A1 eV = 1.6 * 10–19 JB
+W
+0
+W
+0
+(= hf).
+kemax.
+kemax = eV
+0 .
+kinetic energy = gain
+kemax
+V
+0 ,
+AkemaxB
+776
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+Wave
+theory
+predictions
+FIGURE 27–6 The photoelectric
+effect.
++
+–
+C
+P
+Photocell
+Light
+Light
+source
+A
+V
+–
+–
+in which case W in this eq

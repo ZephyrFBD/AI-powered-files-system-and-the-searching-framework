@@ -1,0 +1,35 @@
+rmation about various organs of the body, such as the brain, heart,
+liver, and kidneys, can be obtained. Although ultrasound does not replace X-rays, for
+certain kinds of diagnosis it is more helpful. Some kinds of tissue or fluid are not
+detected in X-ray photographs, but ultrasound waves are reflected from their bound-
+aries. “Real-time” ultrasound images are like a movie of a section of the interior
+of the body.
+The pulse-echo technique for medical imaging works as follows. A brief
+pulse of ultrasound is emitted by a transducer that transforms an electrical 
+pulse into a sound-wave pulse. Part of the pulse is reflected as echoes at each
+interface in the body, and most of the pulse (usually) continues on, Fig. 12–27a.
+A1 MHz = 106 HzB.
+*
+350
+CHAPTER 12
+Sound
+(c)
+Transducer
+Pulse
+Vertebra
+Abdominal
+wall
+Organs
+inside
+the body
+Strength of
+reflected pulse
+Time
+Echoes
+(b)
+(a)
+Echoes
+FIGURE 12–27 (a) Ultrasound pulse
+passes through the abdomen,
+reflecting from surfaces in its path.
+(b) Re

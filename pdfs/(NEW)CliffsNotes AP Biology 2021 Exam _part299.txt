@@ -1,0 +1,10 @@
+s is a trick question because there’s a long way and a very short way to solve this problem. The long way
+would be to construct a Punnett square and sort and count all the offspring. The short, easy way is to recognize that a
+white flower has the genotype R′R′. Looking at only the color gene for each parent, the cross is RR′ × RR. In order
+for a cross to produce a white-flowered offspring (R′R′), both parents must contribute R′. Since this is not the case,
+no offspring will be white flowered.
+12. C. It is not usually practical to make a Punnett square for genotypes involving more than two genes. In this
+problem, you are asked about the frequency of one specific offspring, AABbCcDd. To solve this problem, look at
+each gene separately. Looking at the first gene, the parents are AA × AA and all offspring will be AA (frequency of
+1). For the second gene, BB × bb, all offspring will be Bb (1). For the third gene, the parents are CC × Cc, which
+produces ½ CC and ½ Cc (do a Punnett square to 

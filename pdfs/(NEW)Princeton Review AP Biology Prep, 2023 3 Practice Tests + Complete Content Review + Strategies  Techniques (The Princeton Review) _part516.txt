@@ -1,0 +1,13 @@
+dentify DNA fragments. You need to know the steps of this lab technique for the AP Exam:
+1. DNA is cut with various restriction enzymes.
+2. The DNA fragments are loaded into wells on an agarose gel.
+3. As electricity runs through the gel, the fragments move according to their molecular weights. DNA is a
+negatively charged molecule; therefore, it will migrate toward the positive electrode. The longer the DNA
+fragment, the slower it moves through the gel.
+4. The distance that each fragment has traveled is recorded.
+Restriction mapping allows scientists to distinguish between the DNA of different individuals. Since a restriction
+enzyme will cut only a specific DNA sequence, it will cause each individual to have a unique set of fragments called
+restriction fragment length polymorphisms, or RFLPs for short. This technology is used at crime scenes to help
+match DNA samples to suspects.
+LAB 10: ENERGY DYNAMICS
+This lab examines energy storage and transfer in ecosystems. Almost all organisms r

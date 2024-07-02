@@ -1,0 +1,26 @@
+ional potential energy at points 2 and 3 relative to 
+point 1? That is, take  
+at point 1. (b) What is the change in potential 
+energy when the car goes from point 2 to point 3? (c) Repeat parts (a) and (b),
+but take the reference point  
+to be at point 3.
+APPROACH We are interested in the potential energy of the car–Earth system.
+We take upward as the positive y direction, and use the definition of gravitational
+potential energy to calculate the potential energy.
+SOLUTION (a) We measure heights from point 1
+which means initially
+that the gravitational potential energy is zero. At point 2, where  
+At point 3,
+since point 3 is below point 1. Therefore,
+(b) In going from point 2 to point 3, the potential energy change 
+is
+The gravitational potential energy decreases by 
+(c) Now we set  
+Then  
+at point 1, so the potential energy initially
+is
+At point 2,
+so the potential energy is
+At point 3,
+so the potential energy is zero. The change in potential energy
+going from point 2 to point 3 is

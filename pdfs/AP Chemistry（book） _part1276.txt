@@ -1,0 +1,35 @@
+ore electrons to it. If we place the remaining six electrons 
+around N to give it an octet, we do not achieve an octet on C:
+We therefore try a double bond between C and N, using one of the 
+unshared pairs we placed on N. Again we end up with fewer than 
+eight electrons on C, and so we next try a triple bond. This struc-
+ture gives an octet around both C and N:
+The octet rule is satisfied for the C and N atoms, and the H atom 
+has two electrons around it. This is a correct Lewis structure.
+N
+H
+C
+C
+H
+N
+C
+H
+N
+ 
+Sample Exercise 8.6 
+Drawing a Lewis Structure
+Draw the Lewis structure for phosphorus trichloride, PCl3.
+ 
+▶Practice Exercise 1
+Which of these molecules has a Lewis structure with a central 
+atom having no nonbonding electron pairs?  
+(a) CO2 (b) H2S (c) PF3 (d) SiF4 (e) more than one of a, b, c, d
+ 
+▶Practice Exercise 2
+(a)  
+How many valence electrons should appear in the Lewis 
+structure for CH2Cl2?
+(b)  
+Draw the Lewis structure.
+SOLUTION
+Analyze and Plan We are asked to draw

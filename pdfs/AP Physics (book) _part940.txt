@@ -1,0 +1,81 @@
+ter the equation. The ladder touches the floor a distance
+from the wall (right triangle,
+).
+The lever arm for mg is half this, or 1.5 m, and the lever arm for 
+is 4.0 m,
+Fig. 9–11. The torque equation about the ladder’s contact point on the cement is
+Thus
+Then, from the x component of the force equation,
+Since the components of 
+are
+and
+then
+(rounded off to two significant figures), and it acts at an angle to the floor of
+NOTE The force 
+does not have to act along the ladder’s direction because
+the ladder is rigid and not flexible like a cord or cable.
+F
+B
+C
+u = tan–1(118 N44 N) = 70°.
+F
+C =
+2(44 N)2 + (118 N)2 = 126 N L  130 N
+F
+Cy = 118 N,
+F
+Cx = 44 N
+F
+B
+C
+F
+Cx = F
+W = 44 N.
+F
+W =
+(1.5 m)(12.0 kg)A9.8 ms2B
+4.0 m
+= 44 N.
+©t = (4.0 m)F
+W - (1.5 m)mg = 0.
+F
+W
+c2 = a2 + b2
+x0 = 2(5.0 m)2 - (4.0 m)2 = 3.0 m
+F
+B
+C ,
+F
+W ,
+F
+Cx
+©F
+x = F
+Cx - F
+W = 0.
+F
+Cy = mg = 118 N.
+©F
+y = F
+Cy - mg = 0,
+F
+Cy
+F
+Cx,
+F
+W ,
+©t = 0.
+©F
+y = 0,
+©F
+x = 0,
+mg = (12.0 kg)A9.80 ms2B = 118 N
+F
+Cy
+F
+Cx
+F
+B
+C
+F
+B

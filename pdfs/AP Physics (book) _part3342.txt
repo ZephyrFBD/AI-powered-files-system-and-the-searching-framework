@@ -1,0 +1,22 @@
+ it “lacks”
+relative to the total mass of its separate constituents.
+[As a comparison, we saw in Chapter 27 that the binding energy of the one
+electron in the hydrogen atom is 13.6 eV; so the mass of a 
+atom is less 
+than that of a single proton plus a single electron by 
+The binding
+energies of nuclei are on the order of MeV, so the eV binding energies of elec-
+trons can be ignored. Nuclear binding energies, compared to nuclear masses, are
+on the order of
+where we used helium’s binding
+energy of 28.3 MeV (see above) and mass
+]
+EXERCISE A Determine how much less the mass of the 
+nucleus is compared to that
+of its constituents. See Appendix B.
+The binding energy per nucleon is defined as the total binding energy of a
+nucleus divided by A, the total number of nucleons. We calculated above that 
+the binding energy of 
+is 28.3 MeV, so its binding energy per nucleon is
+Figure 30–1 shows the measured binding energy per
+nucleon as a function of A for stable nuclei. The curve rises as A increa

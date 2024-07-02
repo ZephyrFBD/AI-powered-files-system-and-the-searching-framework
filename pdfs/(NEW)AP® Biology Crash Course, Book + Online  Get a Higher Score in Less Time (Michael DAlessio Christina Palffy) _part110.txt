@@ -1,0 +1,17 @@
+hia
+coli (E. coli).
+ii. When lactose is not present in its environment, E. coli has no need to turn on the lac operon
+because there is no lactose to metabolize; so the repressor is bound to the operator, and the genes
+are turned off.
+iii. If lactose becomes available, it acts as an inducer by binding to the repressor and inactivating it so
+that RNA polymerase can bind to the promoter and transcribe the structural genes.
+iv. When the structural genes are translated into proteins, the proteins help the bacteria use lactose as
+an energy source.
+v. As the lactose is broken down and used by the bacteria, eventually none is left to bind to the
+repressor to keep it inactive; so the repressor binds once again to the operator, thereby turning off
+expression of the structural genes.
+5. In this way, bacteria save resources and energy by turning off an operon when its gene products are
+not needed.
+Know the basic parts of an operon and how operons are turned on and off.
+III.
+Gene Regulation in Euka

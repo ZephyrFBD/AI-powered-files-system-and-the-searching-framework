@@ -1,0 +1,47 @@
+ a
+2 mol O3
+3 mol O2
+b = 4.0 * 10-5  
+mol O3>L
+s
+ = 4.0 * 10-5 M>s
+ 
+▶Practice Exercise 1
+At a certain time in a reaction, substance A is disappearing 
+at a rate of 4.0 * 10-2 M>s, substance B is appearing at a rate 
+of 2.0 * 10-2 M>s, and substance C is appearing at a rate of 
+6.0 * 10-2 M>s. Which of the following could be the stoichi-
+ometry for the reaction being studied?
+(a) 2 A + B ¡ 3 C (b) A ¡ 2 B +  3 C
+(c) 2 A ¡ B + 3 C (d) 4 A ¡ 2 B + 3 C
+(e) A + 2 B ¡ 3 C
+ 
+▶Practice Exercise 2
+If the rate of decomposition of N2O5 in the reaction 
+2 N2O51g2 ¡ 4 NO21g2 + O21g2 at a particular instant is 
+4.2 * 10 - 7M>s, what is the rate of appearance of (a) NO2 and 
+(b) O2 at that instant?
+576 
+CHAPTER 14 Chemical Kinetics
+TABLE 14.2 Rate Data for the Reaction of Ammonium and Nitrite Ions 
+in Water at 25 °C
+Experiment Number
+Initial NH4
++  
+Concentration (M)
+Initial NO2
+− 
+Concentration (M)
+Observed Initial  
+Rate 1M,s2
+1
+0.0100
+0.200
+5.4 * 10 - 7
+2
+0.0200
+0.200
+10.8 * 10 - 7
+3
+0.0400
+0.200

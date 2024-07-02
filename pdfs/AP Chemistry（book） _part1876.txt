@@ -1,0 +1,14 @@
+forms 8 - N bonds, where N is the number of valence electrons. This 
+behavior can easily be understood through the application of the octet rule.
+If the 8 - N trend continued as we move left across the periodic table, we would 
+expect aluminum (three valence electrons) to form five bonds. Like many other metals, 
+however, aluminum adopts a close-packed structure with 12 nearest neighbors. Mag-
+nesium and sodium also adopt metallic structures. What is responsible for this abrupt 
+change in the preferred bonding mechanism? The answer, as noted earlier, is that met-
+als do not have enough valence-shell electrons to satisfy their bonding requirements by 
+forming localized electron-pair bonds. In response to this deficiency, the valence elec-
+trons are collectively shared. A structure in which the atoms are close-packed facilitates 
+this delocalized sharing of electrons.
+electron-Sea Model
+A simple model that accounts for some of the most important characteristics of metals 
+is the electron

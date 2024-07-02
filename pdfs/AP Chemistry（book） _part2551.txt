@@ -1,0 +1,51 @@
+al weak acid as 
+HA, we can write the equation for its ionization in either of the following ways, depend-
+ing on whether the hydrated proton is represented as H3O+1aq2 or H+1aq2:
+ 
+HA1aq2 + H2O1l2 ∆ H3O+1aq2 + A-1aq2 
+[16.23]
+or
+ 
+HA1aq2 ∆ H+1aq2 + A-1aq2 
+[16.24]
+These equilibria are in aqueous solution, so we will use equilibrium-constant expres-
+sions based on concentrations. Because H2O is the solvent, it is omitted from the 
+Strong acid
+HA molecules
+completely dissociate
+HA(aq) + H2O(l)        
+A−(aq) + H3O+(aq)
+A−
+A−
+H3O+
+H3O+
+HA
+Weak acid
+HA molecules
+partially dissociate
+HA(aq) + H2O(l)          
+A−(aq) + H3O+(aq)
+−
+−
+−
+−
+−
+−
++
++
++
++
++
++
++
+−
+▶ Figure 16.10 Species present in solutions 
+of a strong acid and a weak acid.
+ 
+SECTION 16.6   
+Weak Acids 
+681
+equilibrium-constant expression. 
+ (Section 15.4) Further, we add a subscript a on the 
+equilibrium constant to indicate that it is an equilibrium constant for the ionization of 
+an acid. Thus, we can write the equilibrium-const

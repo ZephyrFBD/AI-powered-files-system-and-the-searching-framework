@@ -1,0 +1,20 @@
+ion is not shown in this 
+diagram).
+ 
+ During expansion, the liquid refrigerant is released into an 
+expansion chamber at low pressure, where it vaporizes. The 
+vapor then undergoes compression at high pressure back 
+to its liquid phase in a compression chamber. (a) What 
+is the sign of q for the expansion? (b) What is the sign of 
+q for the compression? (c) In a central air-conditioning 
+system, one chamber is inside the home and the other is 
+outside. Which chamber is where, and why? (d) Imagine 
+that a sample of liquid refrigerant undergoes expansion 
+followed by compression, so that it is back to its original 
+state. Would you expect that to be a reversible process? 
+(e) Suppose that a house and its exterior are both initially 
+at 31 °C. Some time after the air conditioner is turned on, 
+the house is cooled to 24 °C. Is this process spontaneous or 
+nonspontaneous?
+ [19.93]  Trouton’s rule states that for many liquids at their normal 
+boiling points, the standard molar entropy of va

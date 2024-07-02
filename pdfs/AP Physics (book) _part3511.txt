@@ -1,0 +1,19 @@
+RI)
+907
+P H Y S I C S  A P P L I E D
+NMR imaging (MRI)
+The 
+nucleus consists of a single proton. Its spin angular momentum (and its
+magnetic moment), like that of the electron, can take on only two values when
+placed in a magnetic field: we call these “spin up” (parallel to the field) and “spin
+down” (antiparallel to the field), as suggested in Fig. 31–23. When a magnetic
+field is present, the energy of the nucleus splits into two levels as shown in
+Fig. 31–24, with the spin up (parallel to field) having the lower energy. (This is
+like the Zeeman effect for atomic levels, Fig. 28–8.) The difference in energy 
+between these two levels is proportional to the total magnetic field 
+at the
+nucleus:
+where k is a proportionality constant that is different for different nuclides.
+In a standard nuclear magnetic resonance (NMR) setup, the sample to be
+examined is placed in a static magnetic field. A radiofrequency (RF) pulse of
+electromagnetic radiation (that is, photons) is applied to the sampl

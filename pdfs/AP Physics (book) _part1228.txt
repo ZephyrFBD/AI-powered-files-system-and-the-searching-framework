@@ -1,0 +1,23 @@
+h it can travel, part of the wave is reflected
+and part is transmitted.
+I r
+1
+r2 .
+wattsm2
+v = lf.
+When two waves pass through the same region of space 
+at the same time, they interfere. The resultant displacement at
+any point and time is the sum of their separate displacements
+(
+the superposition principle). This can result in constructive
+interference, destructive interference, or something in between,
+depending on the amplitudes and relative phases of the waves.
+Waves traveling on a string of fixed length interfere with
+waves that have reflected off the end and are traveling back in
+the opposite direction. At certain frequencies, standing waves can
+be produced in which the waves seem to be standing still rather
+than traveling. The string (or other medium) is vibrating as a
+whole. This is a resonance phenomenon, and the frequencies
+at which standing waves occur are called resonant frequencies.
+Points of destructive interference (no oscillation) are called
+nodes. Points of constructi

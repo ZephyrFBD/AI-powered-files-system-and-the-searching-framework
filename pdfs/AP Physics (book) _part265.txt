@@ -1,0 +1,37 @@
+ile motion of a small
+ball projected horizontally with initial 
+velocity  
+The dashed black line 
+represents the path of the object. The 
+velocity vector is in the direction of 
+motion at each point, and thus is tangent to 
+the path. The velocity vectors are green 
+arrows, and velocity components are dashed.
+(A vertically falling object starting from rest 
+at the same place and time is shown at the 
+left for comparison;
+is the same at each
+instant for the falling object and the 
+projectile.)
+vy
+v
+B
+v
+B
+x 0.
+v
+B =
+In the horizontal direction, on the other hand, there is no acceleration (we are
+ignoring air resistance). With
+the horizontal component of velocity,
+remains constant, equal to its initial value,
+and thus has the same magnitude
+at each point on the path. The horizontal displacement (with
+) is given by
+The two vector components,
+and 
+can be added
+vectorially at any instant to obtain the velocity 
+at that time (that is, for each
+point on the path), as shown in Fig. 3–18.
+One res

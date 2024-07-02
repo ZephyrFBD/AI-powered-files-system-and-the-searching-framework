@@ -1,0 +1,18 @@
+s conversions of forms of energy when trinitroglycerin is used as an explosive to break rockfaces in highway 
+construction.
+SOLUTION
+The enthalpy change for this decomposition is 41-1541.4 kJ2 =
+-6165.6 kJ. [We need to multiply by 4 because there are 4 mol of 
+C3H5N3O91l2 in the balanced equation.]
+This enthalpy change equals the sum of the heats of forma-
+tion of the products minus the heats of formation of the reac-
+tants, each multiplied by its coefficient in the balanced equation:
+-6165.6 kJ = 6∆Hf°3N21g24 + 12∆Hf°3CO21g24 + 10∆Hf°3H2O1l24
++ ∆Hf°3O21g24-4∆Hf°3C3H5N3O91l24
+The ∆Hf° values for N21g2 and O21g2 are zero, by definition. Using the 
+values for H2O1l2 and CO21g2 from Table 5.3 or Appendix C, we have
+(a) The general form of the equation we must balance is
+C3H5N3O91l2 ¡  N21g2 + CO21g2 + H2O1l2 + O21g2
+We go about balancing in the usual way. To obtain an even num-
+ber of nitrogen atoms on the left, we multiply the formula for 
+C3H5N3O9 by 2, which gives us 3 mol of N2, 6 mol

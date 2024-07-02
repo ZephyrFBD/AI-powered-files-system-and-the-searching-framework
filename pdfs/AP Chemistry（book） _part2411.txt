@@ -1,0 +1,19 @@
+ to calculate Kp, in which case partial pressures are used 
+as table entries in place of molar concentrations. Your instructor 
+may refer to this kind of table as an ICE chart, where ICE stands for 
+Initial – Change – Equilibrium.
+▶ Practice Exercise 1
+In Section 15.1, we discussed the equilibrium between 
+N2O41g2 and NO21g2. Let’s return to that equation in a quanti-
+tative example. When 9.2 g of frozen N2O4 is added to a 0.50 L  
+reaction vessel that is heated to 400 K and allowed to come to 
+equilibrium, the concentration of N2O4 is determined to be 
+0.057 M. Given this information, what is the value of Kc for 
+the reaction N2O41g2 ∆2 NO21g2 at 400 K? (a) 0.23  
+(b) 0.36 (c) 0.13 (d) 1.4 (e) 2.5
+▶ Practice Exercise 2
+The gaseous compound BrCl decomposes at high tempera-
+ture in a sealed container: 2 BrCl1g2 ∆Br21g2 + Cl21g2. 
+Initially, the vessel is charged at 500 K with BrCl(g) at a partial 
+pressure of 0.500 atm. At equilibrium, the BrCl(g) partial 
+pressure is 0.040 atm. Calcula

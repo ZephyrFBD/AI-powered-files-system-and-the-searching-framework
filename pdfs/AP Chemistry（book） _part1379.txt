@@ -1,0 +1,16 @@
+Lewis structure that one electron 
+domain is due to a nonbonding pair, which occupies one of the four vertices of the tetra-
+hedron. In determining the molecular geometry, we consider only the three N¬H bond 
+domains, which leads to a trigonal pyramidal geometry. The situation is just like the 
+middle drawing in Figure 9.4 in which removing one atom from a tetrahedral molecule 
+results in a trigonal pyramidal molecule. Notice that the tetrahedral arrangement of the 
+four electron domains leads us to predict the trigonal-pyramidal molecular geometry.
+Because the trigonal-pyramidal molecular geometry is based on a tetrahedral electron- 
+domain geometry, the ideal bond angles are 109.5°. As we will soon see, bond angles deviate 
+from ideal values when the surrounding atoms and electron domains are not identical.
+As one more example, let’s determine the shape of the CO2 molecule. Its Lewis struc-
+ture reveals two electron domains (each one a double bond) around the central carbon:
+C
+O
+O
+Tw

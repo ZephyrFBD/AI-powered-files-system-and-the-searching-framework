@@ -1,0 +1,61 @@
+V
+V
+0
+¢V = bV
+0 ¢T,
+366
+CHAPTER 13
+Temperature and Kinetic Theory
+P H Y S I C S  A P P L I E D
+Gas tank overflow
+1.04343
+1.00000
+1.00013
+1.04343
+1.00013
+1.00000
+(a)
+(b)
+1.0000
+0.9999
+0.9998
+0.96
+1.00000
+0.9999
+0.9998
+0.96
+Temperature (°C)
+Volume (cm3)
+of 1.00000 g water
+10° 100°
+10° 100°
+0°
+(g/cm3)
+ρ
+Temperature (°C)
+0°
+4° 6°
+2°
+100°
+6°
+100°
+10°
+10°
+6°
+6°
+2° 4°
+0° 2° 4°
+0° 2° 4°
+FIGURE 13–13 Behavior of water as
+a function of temperature near 4°C.
+(a) Volume of 1.00000 gram of water
+as a function of temperature.
+(b) Density vs. temperature. [Note
+the break in each axis.]
+Gas tank in the Sun. The 70-liter (L) steel gas tank of a
+car is filled to the top with gasoline at 20°C. The car sits in the Sun and the tank
+reaches a temperature of 40°C (104°F). How much gasoline do you expect to
+overflow from the tank?
+APPROACH Both the gasoline and the tank expand as the temperature increases,
+and we assume they do so linearly as described by Eq. 13–2. The volume of
+overflowing gasoline equals th

@@ -1,0 +1,33 @@
+be applied to each. The person exerts a force 
+on box A. Box A exerts a
+force 
+on the connecting cord, and the cord exerts an opposite but equal 
+magnitude force 
+back on box A (Newton’s third law). The two horizontal
+forces on box A are shown in Fig. 4–22b, along with the force of gravity 
+downward and the normal force 
+exerted upward by the table. The cord is
+light, so we neglect its mass. The tension at each end of the cord is thus the same.
+Hence the cord exerts a force 
+on the second box. Figure 4–22c shows the
+forces on box B, which are 
+and the normal force 
+There will be
+only horizontal motion. We take the positive x axis to the right.
+SOLUTION (a) We apply  
+to box A:
+[box A]
+For box B, the only horizontal force is 
+so
+[box B]
+The boxes are connected, and if the cord remains taut and doesn’t stretch, then
+the two boxes will have the same acceleration a. Thus
+We are
+given
+and
+We can add the two equations above 
+to eliminate an unknown 
+and obtain
+or
+This is what we sought.
+(b) 

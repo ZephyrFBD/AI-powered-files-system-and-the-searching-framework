@@ -1,0 +1,36 @@
+ble in
+dealing with systems of many objects, in which a detailed consideration of the
+forces involved would be difficult or impossible. These laws apply to a wide 
+range of phenomena. They even apply in the atomic and subatomic worlds, where
+Newton’s laws are not sufficient.
+This Chapter is devoted to the very important concept of energy and the
+closely related concept of work. These two quantities are scalars and so have no
+direction associated with them, which often makes them easier to work with than
+vector quantities such as acceleration and force.
+*
+SECTION 6–1
+Work Done by a Constant Force
+139
+F
+B
+F cos
+= F
+d
+B
+θ
+θ
+FIGURE 6–1 A person pulling
+a crate along the floor. The
+work done by the force 
+is
+where is the
+displacement.
+d
+B
+W = Fd cos u,
+F
+B
+6–1 Work Done by a Constant Force
+The word work has a variety of meanings in everyday language. But in physics,
+work is given a very specific meaning to describe what is accomplished when a
+force acts on an object, and the object moves th

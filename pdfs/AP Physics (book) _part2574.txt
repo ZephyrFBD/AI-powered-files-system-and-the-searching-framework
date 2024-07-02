@@ -1,0 +1,25 @@
+lens.
+Image formed by converging lens. What is (a) the posi-
+tion, and (b) the size, of the image of a 7.6-cm-high leaf placed 1.00 m from a
+-mm-focal-length camera lens?
+APPROACH We follow the steps of the Problem Solving Strategy explicitly.
+SOLUTION
+1. Ray diagram. Figure 23–42 is an approximate ray diagram, showing only rays 1
+and 3 for a single point on the leaf. We see that the image ought to be a little
+behind the focal point F, to the right of the lens.
+2. Thin lens and magnification equations. (a) We find the image position analyt-
+ically using the thin lens equation, Eq. 23–8. The camera lens is converging,
+with
+and
+and so the thin lens equation gives
+Then, taking the reciprocal,
+or 52.6 mm behind the lens.
+(b) The magnification is
+so
+The image is 4.0 mm high.
+3. Sign conventions. The image distance 
+came out positive, so the image is
+behind the lens. The image height is
+the minus sign means
+the image is inverted.
+4. Consistency. The analytic results of steps 2 and 3 are cons

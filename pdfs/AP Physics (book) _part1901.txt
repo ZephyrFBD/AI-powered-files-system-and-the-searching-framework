@@ -1,0 +1,17 @@
+g. 17–33 is activated about 
+later
+The 6000 vertical wires (data lines) get their signal voltages
+(data stream) updated just before each row is activated in order to establish the
+brightness of each subpixel in that next row. All 1080 rows are activated, one-by-one,
+within 
+to complete that frame. Then a new frame is started.
+New TV sets today can often refresh the screen at a higher rate. A refresh rate
+of 120 Hz (or 240 Hz) means that frames are interpolated between the normal ones,
+by averaging, which produces less blurring in fast action scenes.
+Digital TV is transmitted at about 19 MB s as mentioned in Section 17–10.
+(This rate is way too slow to do a full refresh every 
+—try the calculation and
+see—so a lot of compression is done and the areas where most movement occurs get
+refreshed.) The TV set or “box”that receives the digital video signal has to decode the
+signal in order to send analog voltages to the pixels of the screen, and at just the
+right time. TV stations in the U.S.a

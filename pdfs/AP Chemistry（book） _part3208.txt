@@ -1,0 +1,18 @@
+n use a form of Equation 20.8 that describes 
+redox reactions in general, not just reactions in voltaic cells:
+ 
+E ° = E °
+red 1reduction process2 - E °
+red 1oxidation process2 
+[20.10]
+In writing the equation this way, we have dropped the subscript “cell” to indicate that 
+the calculated emf does not necessarily refer to a voltaic cell. Also, we have generalized 
+the standard reduction potentials by using the general terms reduction and oxidation 
+rather than the terms specific to voltaic cells, cathode and anode. We can now make a gen-
+eral statement about the spontaneity of a reaction and its associated emf, E: A positive 
+value of E indicates a spontaneous process; a negative value of E indicates a nonspontaneous 
+process. We use E to represent the emf under nonstandard conditions and E° to indicate 
+the standard emf.
+Use Table 20.1 to determine whether the following reactions are spontaneous under standard conditions.
+(a) Cu1s2 + 2 H+1aq2 ¡ Cu2+1aq2 + H21g2
+(b) Cl21g2 + 2 I-1aq2 ¡

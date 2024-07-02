@@ -1,0 +1,26 @@
+action mechanism describes the order in 
+which bonds are broken and formed and the changes in relative positions of the atoms 
+in the course of the reaction.
+Elementary Reactions
+We have seen that reactions take place because of collisions between reacting molecules. 
+For example, the collisions between molecules of methyl isonitrile 1CH3NC2 can provide 
+the energy to allow the CH3NC to rearrange to acetonitrile:
+H3C
+H3C
+H3C
+N
+N
+N
+C
+C
+C
+Similarly, the reaction of NO and O3 to form NO2 and O2 appears to occur as a result 
+of a single collision involving suitably oriented and sufficiently energetic NO and O3 
+molecules:
+ 
+NO1g2 + O31g2 ¡ NO21g2 + O21g2 
+[14.24]
+Both reactions occur in a single event or step and are called elementary reactions.
+The number of molecules that participate as reactants in an elementary reaction 
+defines the molecularity of the reaction. If a single molecule is involved, the reaction 
+is unimolecular. The rearrangement of methyl isonitrile is a unimolecular pro

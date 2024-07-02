@@ -1,0 +1,10 @@
+ book is available for free at http://cnx.org/content/col12078/1.6
+Figure 6.15 Enzymes lower the activation energy of the reaction but do not change the free energy of the reaction.
+Enzyme Active Site and Substrate Specificity
+The chemical reactants to which an enzyme binds are the enzyme’s substrates. There may be one or more substrates,
+depending on the particular chemical reaction. In some reactions, a single-reactant substrate is broken down into multiple
+products. In others, two substrates may come together to create one larger molecule. Two reactants might also enter a
+reaction, both become modified, and leave the reaction as two products. The location within the enzyme where the substrate
+binds is called the enzyme’s active site. The active site is where the “action” happens, so to speak. Since enzymes are
+proteins, there is a unique combination of amino acid residues (also called side chains, or R groups) within the active site.
+Each residue is characterized by different proper

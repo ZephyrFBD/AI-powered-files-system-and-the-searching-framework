@@ -1,0 +1,18 @@
+ier, which means again dividing the curve into four 
+regions:
+ 1. Initial pH: We use Ka to calculate this pH, as shown in Section 16.6. The calculated 
+pH of 0.100 M CH3COOH is 2.89.
+ 2. Between initial pH and equivalence point: Prior to reaching the equivalence 
+point, the acid is being neutralized, and its conjugate base is being formed:
+ 
+CH3COOH1aq2 + OH-1aq2 ¡ CH3COO-1aq2 + H2O1l2 
+[17.12]
+ 
+ Thus, the solution contains a mixture of CH3COOH and CH3COO-. Calculating the pH 
+in this region involves two steps. First, we consider the neutralization reaction between 
+CH3COOH and OH- to determine 3CH3COOH] and 3CH3COO-4. Next, we calculate 
+the pH of this buffer pair using procedures developed in Sections 17.1 and 17.2. The gen-
+eral procedure is diagrammed in Figure 17.10 and illustrated in Sample Exercise 17.7.
+3. Equivalence point: The equivalence point is reached when 50.0 mL of 
+0.100 M NaOH has been added to the 50.0 mL of 0.100 M CH3COOH. At this 
+point, the 5.00 * 10-3 mol of Na

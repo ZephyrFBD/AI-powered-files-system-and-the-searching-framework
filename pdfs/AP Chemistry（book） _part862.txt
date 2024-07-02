@@ -1,0 +1,17 @@
+04 Consider the systems shown in Figure 5.10. In one case the 
+battery becomes completely discharged by running the cur-
+rent through a heater, and in the other case by running a fan. 
+Both processes occur at constant pressure. In both cases the 
+change in state of the system is the same: The battery goes 
+from being fully charged to being fully discharged. Yet in one 
+case the heat evolved is large, and in the other it is small. Is 
+the enthalpy change the same in the two cases? If not, how 
+can enthalpy be considered a state function? If it is, what can 
+you say about the relationship between enthalpy change 
+and q in this case, as compared with others that we have 
+considered?
+ 5.105 A house is designed to have passive solar energy features. 
+Brickwork incorporated into the interior of the house acts 
+as a heat absorber. Each brick weighs approximately 1.8 kg. 
+The specific heat of the brick is 0.85 J>g@K. How many bricks 
+must be incorporated into the interior of the house to pro-

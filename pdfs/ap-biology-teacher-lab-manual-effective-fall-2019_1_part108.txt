@@ -1,0 +1,26 @@
+uares, you can presume that one-half of all rabbits will reproduce in a given 
+generation. Similarly, since one-quarter of all space is covered by white squares, you can 
+presume that one-quarter of all foxes will die in a given generation. When a fox eats a 
+rabbit, increase the fox population by one and decrease the rabbit population by one. 
+During the process, the environment does not change in favor of one species, and the 
+genetic adaptation is sufficiently slow. The extent of interaction of the two populations 
+(how often a fox eats a rabbit) can be estimated by playing the board game many times. 
+Figure 7. The FOXRAB Game Board 
+Chapter 5 T33 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+Some less obvious assumptions that students may raise include a number of 
+assumptions about the environment and the behavior of each population, such as the 
+following: 
+•  The prey population finds ample food at all times. 
+•  The food supply of the predator population (which makes fertility, reproduction, and 

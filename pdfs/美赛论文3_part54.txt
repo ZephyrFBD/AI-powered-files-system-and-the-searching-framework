@@ -1,0 +1,141 @@
+ds for the speed of the wind which is ten
+meters high, having the formulation that[5]
+2
+( )
+9.2
+0.46
+f w
+w
+
+
+。
+6.3.4 The radiation of heat conduction between water and air
+When the temperature of the air is not equal to the temperature of the water, the
+interface between water and air will experience a heat conduction. Thermal
+conductivity is proportional to the temperature difference between water and air, so
+the heat flux usually satisfies the following equation:
+
+
+0.47 ( )
+c
+a
+f w
+T
+T
+
+
+
+.
+6.3.5 Heat flux made by heat conduction between water and air
+Heat flux made by heat conduction between water and air satisfies
+aw
+wa
+e
+c
+
+
+
+
+
+
+
+
+
+；
+Therefore,
+
+
+
+
+
+
+
+
+4
+8
+4
+2
+4
+8
+5.5 10
+1 0.261
+( 0.74 10
+)
+273
+5.5 10
+273
+( )
+0.47 ( )
+a
+a
+s
+a
+a
+exp
+T
+T
+T
+f w
+e
+e
+f w
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+We assume
+0
+
+, that is to say the function of wind values
+(0)
+9.2
+f
+
+.
+
+
+
+
+
+
+4
+8
+4
+2
+4
+8
+5.5 10
+1 0.261
+( 0.74 10
+)
+273
+5.5 10
+273
+52

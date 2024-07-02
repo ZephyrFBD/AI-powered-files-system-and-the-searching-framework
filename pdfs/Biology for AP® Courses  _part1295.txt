@@ -1,0 +1,9 @@
+at the pea-plant characteristics he studied were transmitted as discrete units from parent to
+offspring. As will be discussed, Mendel also determined that different characteristics, like seed color and seed texture, were
+transmitted independently of one another and could be considered in separate probability analyses. For instance, performing
+a cross between a plant with green, wrinkled seeds and a plant with yellow, round seeds still produced offspring that had a
+3:1 ratio of green:yellow seeds (ignoring seed texture) and a 3:1 ratio of round:wrinkled seeds (ignoring seed color). The
+characteristics of color and texture did not influence each other.
+The product rule of probability can be applied to this phenomenon of the independent transmission of characteristics. The
+product rule states that the probability of two independent events occurring together can be calculated by multiplying the
+individual probabilities of each event occurring alone. To demonstrate the product rule, imagine

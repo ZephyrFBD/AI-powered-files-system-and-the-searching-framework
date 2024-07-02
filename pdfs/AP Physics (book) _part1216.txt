@@ -1,0 +1,32 @@
+e nodes, no energy flows past these
+points. Hence the energy is not transmitted down the string but “stands” in place
+in the string.
+Standing waves are produced not only on strings, but also on any object that is
+struck, such as a drum membrane or an object made of metal or wood. The resonant
+frequencies depend on the dimensions of the object, just as for a string they depend
+on its length. Large objects have lower resonant frequencies than small objects.
+1
+2
+1
+l =
+3
+2
+3
+l =
+l =
+2
+Second overtone or third harmonic, f3 = 3f1
+Fundamental or first harmonic, f1
+First overtone or second harmonic, f2 = 2f1
+l
+l
+l
+FIGURE 11–41b (Repeated.)
+(b) Only standing waves 
+corresponding to resonant 
+frequencies persist for long.
+*SECTION 11–13
+317
+All musical instruments, from stringed to wind instruments (in which a column of air
+oscillates as a standing wave) to drums and other percussion instruments, depend on
+standing waves to produce their particular musical sounds, as we shall see in Chapter 12.

@@ -1,0 +1,19 @@
+ion of NO2 initiates the reactions associated with photochemical 
+smog. Dissociation of NO2 requires 304 kJ>mol, which corresponds to a photon wave-
+length of 393 nm. In sunlight, therefore, NO2 dissociates to NO and O:
+ 
+NO21g2 + hn ¡ NO1g2 + O1g2 
+[18.13]
+The atomic oxygen formed undergoes several reactions, one of which gives ozone, as de-
+scribed earlier:
+ 
+O1g2 + O21g2 + M1g2 ¡ O31g2 + M*1g2 
+[18.14]
+Although it is essential to screen out harmful UV radiation in the upper atmosphere, 
+ozone is an undesirable pollutant in the troposphere. It is extremely reactive and toxic, 
+and breathing air that contains appreciable amounts of ozone can be especially danger-
+ous for asthma sufferers, exercisers, and the elderly. We therefore have two ozone prob-
+lems: excessive amounts in many urban environments, where it is harmful, and depletion 
+in the stratosphere, where its presence is vital.
+In addition to nitrogen oxides and carbon monoxide, an automobile engine also emits 
+unburned hydroc

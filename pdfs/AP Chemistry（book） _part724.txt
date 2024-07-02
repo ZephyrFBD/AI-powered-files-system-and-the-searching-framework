@@ -1,0 +1,16 @@
+sent the 
+number of moles of reactants and products producing the associated enthalpy change. 
+Balanced chemical equations that show the associated enthalpy change in this way are 
+called thermochemical equations.
+The exothermic nature of this reaction is also shown in the enthalpy diagram in Figure 5.14. 
+Notice that the enthalpy of the reactants is greater (more positive) than the enthalpy of 
+the products. Thus, ∆H = Hproducts - Hreactants is negative.
+In summary, the change in internal energy is equal to the heat 
+gained or lost at constant volume, and the change in enthalpy is 
+equal to the heat gained or lost at constant pressure. The difference 
+between ∆E and ∆H is the amount of P–V work done by the sys-
+tem when the process occurs at constant pressure, -P ∆V. The vol-
+ume change accompanying many reactions is close to zero, which 
+makes P ∆V and, therefore, the difference between ∆E and ∆H small. 
+Under most circumstances, it is generally satisfactory to use ∆H as the 
+measure

@@ -1,0 +1,13 @@
+ant may be recessive or
+dominant to the wild-type allele.
+An example of multiple alleles is coat color in rabbits (Figure 12.8). Here, four alleles exist for the c gene. The wild-type
+version, C+C+, is expressed as brown fur. The chinchilla phenotype, cchcch, is expressed as black-tipped white fur. The
+Himalayan phenotype, chch, has black fur on the extremities and white fur elsewhere. Finally, the albino, or “colorless”
+phenotype, cc, is expressed as white fur. In cases of multiple alleles, dominance hierarchies can exist. In this case, the wild-
+type allele is dominant over all the others, chinchilla is incompletely dominant over Himalayan and albino, and Himalayan
+is dominant over albino. This hierarchy, or allelic series, was revealed by observing the phenotypes of each possible
+heterozygote offspring.
+486
+Chapter 12 | Mendel's Experiments and Heredity
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 12.8 Four different alleles exist for the ra

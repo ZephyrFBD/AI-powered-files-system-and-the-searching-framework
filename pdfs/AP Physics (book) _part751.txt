@@ -1,0 +1,26 @@
+ the star appears to have a wobble.
+Irregularities in the star’s motion can be measured to high accuracy, yielding
+information on the size of the planets’ orbits and their masses. See Fig. 5–30 in
+Chapter 5.
+and 
+are their momenta after, then momentum conserva-
+tion tells us that 
+(7;3)
+for this two-object system.
+Total energy is also conserved. But this may not be helpful
+unless kinetic energy is conserved, in which case the collision is
+called an elastic collision and we can write
+(7;6)
+If kinetic energy is not conserved, the collision is called
+inelastic.
+Macroscopic collisions are generally inelastic.
+A completely inelastic collision is one in which the colliding
+objects stick together after the collision.
+The center of mass (CM) of an extended object (or group of
+objects) is that point at which the net force can be considered
+to act, for purposes of determining the translational motion of
+the object as a whole. The x component of the CM for objects
+with mass 
+is given by
+(7;9a)
+[*

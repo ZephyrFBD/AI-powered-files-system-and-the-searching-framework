@@ -1,0 +1,28 @@
+momentum (Section 20–4). Their energy is determined in
+“calorimeters” utilizing plastic, liquid, or dense metal compound crystal scintillators
+(Section 30–13).
+In the planning stage is the International Linear Collider (ILC) which would
+have colliding beams of 
+and 
+at around 0.3 to 1 TeV. It would utilize semicon-
+ductor detectors using CMOS (Section 25–1) with embedded transistors to allow
+fast readout.
+Protons at relativistic speeds. Determine the energy
+required to accelerate a proton in a high-energy accelerator (a) from rest to
+and (b) from 
+to 
+(c) What is the kinetic
+energy achieved by the proton in each case?
+APPROACH We use the work-energy principle, which is still valid relativistically
+as mentioned in Section 26–9:
+SOLUTION The kinetic energy of a proton of mass m is given by Eq. 26–5,
+where the relativistic factor is
+The work-energy theorem becomes
+where 
+and 
+are for the initial and final speeds,
+.
+(a) For
+and for
+For a proton,
+so the work (or energy) needed to accelerate

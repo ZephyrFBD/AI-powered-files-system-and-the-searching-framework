@@ -1,0 +1,38 @@
+to a change in temperature or a temperature 
+interval, we say “Celsius degrees,” as in “2 C°.”) The conversion between the two
+temperature scales can be written
+or
+Rather than memorizing these relations, it may be simpler to remember that
+and that a change of  5 C° = a change of 9 F°.
+0°C = 32°F
+T(°F) =
+9
+5 T(°C) + 32.
+T(°C) =
+5
+9 CT(°F) - 32D
+1 F° = 5
+9 C°.
+100180 = 5
+9
+362
+CHAPTER 13
+† The freezing point of a substance is defined as that temperature at which the solid and liquid phases
+coexist in equilibrium—that is, without any net liquid changing into the solid or vice versa. Experi-
+mentally, this is found to occur at only one definite temperature, for a given pressure. Similarly, the
+boiling point is defined as that temperature at which the liquid and gas coexist in equilibrium. Since
+these points vary with pressure, the pressure must be specified (usually it is 1 atm).
+(a)
+(b)
+Tube
+Bulb (acts as 
+a reservoir)
+Fahrenheit
+Celsius
+(centigrade)
+200  F
+100  F
+0  F
+150  F
+212  F
+100 

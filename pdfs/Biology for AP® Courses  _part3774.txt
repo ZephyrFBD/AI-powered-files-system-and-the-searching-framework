@@ -1,0 +1,35 @@
+C. Describe the likely reason for the increased
+susceptibility of individuals with type A/B blood in terms
+of the antigen-antibody model of specific immune
+response. Justify the selection of data that would allow a
+test of your reasoning.
+D. The distribution of blood types was determined in a
+population. The results are displayed in the table.
+Type
+Observed
+Frequency
+A
+501
+B
+794
+A/B
+236
+O
+601
+Total, N
+2132
+Table 31.1
+Chapter 31 | The Circulatory System
+1389
+Recall that the frequency of an allele can be determined if
+the genotype is known. For example, for a gene with two
+possible alleles the frequency of the dominant allele in a
+homozygous dominant population is just twice the number
+of individuals 2N divided by the number of alleles which
+is 2N also since each individual has 2 alleles at each gene.
+The frequency would be 1. For a population composed
+entirely of heterozygous individuals the frequency would
+be 0.5.
+•
+Using the usual mathematical relationship and the
+three-allele system 

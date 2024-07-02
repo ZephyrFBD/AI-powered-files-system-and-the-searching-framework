@@ -1,0 +1,15 @@
+c., is irrelevant because each is an independent event.)
+8. (D) Remember to break this down one trait at a time, find the probability of the outcomes for each trait, and
+then multiply the probabilities together. Aa × Aa would produce 
+ of the time. Similarly, Bb × Bb would
+produce 
+ of the time. Cc × Cc would produce 
+ of the time. Multiply all three probabilities together: 
+.
+9. (C) Since the mother is Rh positive, she must have at least one dominant R allele. Since she has a child who is
+Rh negative, she must have an r allele. Therefore, the mother must be heterozygous Rr. Choice (A) is incorrect
+because if the mother was rr, she would not be Rh positive. Choice (B) is incorrect because an RR mother could
+not produce an Rh negative child. Choice (D) is incorrect because since the mother is Rh positive and her son is
+Rh negative, they cannot have the same genotype.
+10. (D) Since the son is Rh negative, his genotype must be rr. He must have inherited one r allele from each parent.
+So t

@@ -1,0 +1,20 @@
+ is positive (upward), whereas the acceleration is negative (down-
+ward). (2) At the highest point (B in Fig. 2–23), the ball has zero velocity for
+an instant. Is the acceleration also zero at this point? No. The velocity near
+the top of the arc points upward, then becomes zero for an instant (zero time) at
+the highest point, and then points downward. Gravity does not stop acting, so
+even there. Thinking that
+at point B would lead
+to the conclusion that upon reaching point B, the ball would stay there: if the
+acceleration (
+of change of velocity) were zero, the velocity would stay
+zero at the highest point, and the ball would stay up there without falling.
+Remember: the acceleration of gravity always points down toward the Earth, even
+when the object is moving up.
+= rate
+a = 0
+a = –g = –9.80 ms2
+CONCEPTUAL EXAMPLE 2;14
+We did not consider the throwing action in these Examples. Why? Because during
+the throw, the thrower’s hand is touching the ball and accelerating the ball at a
+rate un

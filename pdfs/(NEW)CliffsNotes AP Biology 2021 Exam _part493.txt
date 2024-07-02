@@ -1,0 +1,17 @@
+nges in the photoperiod, plants maintain a circadian rhythm, a clock that measures the length of
+daylight and night. The mechanism is endogenous; that is, it is an internal clock that continues to keep time
+(although less accurately) even if external cues are absent. External cues, such as dawn and dusk, reset the clock to
+maintain accuracy.
+The mechanism for maintaining the circadian rhythm is not completely understood. The light-absorbing protein
+phytochrome is involved. There
+are two forms of phytochrome, Pr and Pfr. The two forms are photoreversible: When Pris exposed to red light
+(wavelength 660 nm), it is converted to Pfr;when Pfris exposed to far-red light (730 nm), it is converted back to Pr.
+The following observations have been made for many
+plants:
+ 
+1. Pr is the form of phytochrome synthesized in plant cells. It is
+ 
+synthesized in the cytoplasm.
+ 
+2. Pfr is the active form of phytochrome.
+3. Pfr accumulates during daylight. This occurs because Pr is converted to Pfr by expo

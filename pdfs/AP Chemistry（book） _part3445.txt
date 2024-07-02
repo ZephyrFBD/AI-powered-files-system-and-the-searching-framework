@@ -1,0 +1,20 @@
+ which reduces the atomic number by 2 
+Potassium ion is present in foods and is an essential nutrient in the human body. One of the naturally occurring 
+isotopes of potassium, potassium-40, is radioactive. Potassium-40 has a natural abundance of 0.0117% and a half-life 
+t1>2 = 1.28 * 109 yr. It undergoes radioactive decay in three ways: 98.2% is by electron capture, 1.35% is by beta emission, 
+and 0.49% is by positron emission. (a) Why should we expect 40K to be radioactive? (b) Write the nuclear equations for the 
+three modes by which 40K decays. (c) How many 40K+ ions are present in 1.00 g of KCl? (d) How long does it take for 1.00% of 
+the 40K in a sample to undergo radioactive decay?
+(b) Electron capture is capture of an inner-shell 
+electron by the nucleus:
+(a) The 40K nucleus contains 19 protons and 21 
+neutrons. There are very few stable nuclei 
+with odd numbers of both protons and neu-
+trons (Section 21.2).
+40
+19K +
+0
+-1e ¡ 40
+18Ar
+18.08 * 1021 K+ ions2a 0.0117  40K+ ions
+100K+

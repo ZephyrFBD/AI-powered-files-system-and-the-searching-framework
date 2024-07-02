@@ -1,0 +1,28 @@
+ O1g2 ¡ 3 O21g2 + O1g2
+Because O(g) appears in equal amounts on both sides of the equa-
+tion, it can be eliminated to give the net equation for the chemical 
+process:
+2 O31g2 ¡ 3 O21g2
+(c) The intermediate is O(g). It is neither an original reactant nor 
+a ﬁnal product but is formed in the ﬁrst step of the mecha-
+nism and consumed in the second.
+ 
+▶Practice Exercise 1
+Consider the following two-step reaction mechanism:
+ A1g2 + B1g2 ¡ X1g2 + Y1g2
+X1g2 + C1g2 ¡ Y1g2 + Z1g2
+ 
+Which of the following statements about this mechanism is 
+or are true?
+ (i) Both of the steps in this mechanism are bimolecular.
+ (ii) The overall reaction is A1g2 + B1g2 + C1g2 ¡ Y1g2 + Z1g2.
+ (iii) The substance X(g) is an intermediate in this mechanism.
+(a) Only one of the statements is true.
+(b) Statements (i) and (ii) are true.
+(c) Statements (i) and (iii) are true.
+(d) Statements (ii) and (iii) are true.
+(e) All three statements are true.
+ 
+▶Practice Exercise 2
+For the reaction
+Mo1CO26 + P1CH323 ¡ Mo1CO25P1CH3

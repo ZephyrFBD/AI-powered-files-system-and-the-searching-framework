@@ -1,0 +1,13 @@
+e primary structure for the protein antidiuretic hormone (ADH) can be written as Cys-TyrPhe-Gln-
+Asn-Cys-Pro-Arg-Gly.
+2. The secondary structure of a protein is a three-dimensional shape that results from hydrogen bonding between
+the amino and carboxyl groups of adjacent amino acids. The bonding produces a spiral (alpha helix) or a folded
+plane that looks much like the pleats on a skirt (beta pleated sheet). Proteins whose shapes are dominated by these
+two patterns often form fibrous proteins.
+3. The tertiary structure of a protein includes additional threedimensional shaping and often dominates the
+structure of globular proteins. The following factors contribute to the tertiary structure.
+Hydrogen bonding between R groups of amino acids.
+Ionic bonding between R groups of amino acids.
+The hydrophobic effect that occurs when hydrophobic R groups move toward the center of the protein (away from
+the water in which the protein is usually immersed).
+The formation of disulfide bonds that occ

@@ -1,0 +1,22 @@
+n be shown to
+be valid for any region of space where a magnetic field exists. If a ferromagnetic
+material is present,
+is replaced by 
+This equation is analogous to that for an
+electric field,
+Section 17–9.
+2
+1–12 LR Circuit
+Any inductor will have some resistance. We represent an inductor by drawing the
+inductance L and its resistance R separately, as in Fig. 21–37. The resistance R
+could also include any other resistance in the circuit. Now we ask, what happens
+when a battery of voltage 
+is connected in series to such an LR circuit? At the
+instant the switch connecting the battery is closed, the current starts to flow. It is
+opposed by the induced emf in the inductor because of the changing current.
+However, as soon as current starts to flow, there is a voltage drop across the
+resistance 
+Hence, the voltage drop across the inductance is reduced
+and the current increases less rapidly. The current thus rises gradually, as shown
+in Fig. 21–38a, and approaches the steady value
+when there i

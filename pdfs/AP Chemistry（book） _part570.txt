@@ -1,0 +1,18 @@
+he greater the num-
+ber of ions in solution, the greater the conductivity.
+SOLUTION
+Analyze We are given several chemical formulas and asked to clas-
+sify each substance as a strong electrolyte, weak electrolyte, or 
+nonelectrolyte.
+Plan The approach we take is outlined in Table 4.3. We can predict 
+whether a substance is ionic or molecular based on its composi-
+tion. As we saw in Section 2.7, most ionic compounds we encoun-
+ter in this text are composed of a metal and a nonmetal, whereas 
+most molecular compounds are composed only of nonmetals.
+Solve Two compounds fit the criteria for ionic compounds: CaCl2 
+and KOH. Because Table 4.3 tells us that all ionic compounds are 
+strong electrolytes, that is how we classify these two substances. 
+The three remaining compounds are molecular. Two of these 
+molecular substances, HNO3 and HCOOH, are acids. Nitric acid, 
+HNO3, is a common strong acid, as shown in Table 4.2, and there-
+fore is a strong electrolyte. Because most acids are weak acid

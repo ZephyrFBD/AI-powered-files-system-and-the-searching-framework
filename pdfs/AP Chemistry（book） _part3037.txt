@@ -1,0 +1,45 @@
+ 
+atoms. That is, the atoms are less free to move in random fashion because of the forma-
+tion of new bonds. The decrease in the number of molecules and the resultant decrease 
+in motion result in fewer possible microstates and therefore a decrease in the entropy of 
+the system.
+In summary, we generally expect the entropy of a system to increase for processes in 
+which
+1. Gases form from either solids or liquids.
+2. Liquids or solutions form from solids.
+3. The number of gas molecules increases during a chemical reaction.
++
+−
+−
++
+−
+−
+−
++
++
++
+−+
+−+
+−
+−+
+−+
+−+
+−+
+−
+−+
+−+
+−+
+−
+▲ Figure 19.10 Entropy changes when 
+an ionic solid dissolves in water. The ions 
+become more spread out and disordered, but 
+the water molecules that hydrate the ions 
+become less disordered.
+Go Figure
+What major factor leads to a decrease 
+in entropy as this reaction takes place?
+2 NO2(g)
+2 NO(g) + O2(g)
+▲ Figure 19.11 Entropy decreases when NO1g2 
+is oxidized by O21g2 to NO21g2. A decrease in 
+the number of gaseo

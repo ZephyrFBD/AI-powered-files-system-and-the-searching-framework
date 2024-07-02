@@ -1,0 +1,39 @@
+rate at the rate of 
+to the speed limit.
+Can the second car make it through all three lights without
+stopping? By how many seconds would it make it, or not
+make it?
+2.00 ms2
+40 kmh.
+East
+West
+Speed limit
+40 km/h
+50 m
+15 m
+Your
+car
+15 m
+70 m
+15 m
+10 m
+FIGURE 2;46 Problem 65.
+63. Pelicans tuck their wings and free-fall straight down when
+diving for fish. Suppose a pelican starts its dive from a
+height of 14.0 m and cannot change its path once com-
+mitted. If it takes a fish 0.20 s to perform evasive action,
+at what minimum height must it spot the pelican to escape?
+Assume the fish is at the surface of the water.
+64. A bicyclist in the Tour de France crests a mountain pass
+as he moves at 
+At the bottom, 4.0 km farther,
+his speed is 
+Estimate his average acceleration
+(in 
+) while riding down the mountain.
+ms2
+65 kmh.
+15 kmh.
+60. The acceleration due to gravity on the Moon is about one-
+sixth what it is on Earth. If an object is thrown vertically
+upward on the Moon, how many times high

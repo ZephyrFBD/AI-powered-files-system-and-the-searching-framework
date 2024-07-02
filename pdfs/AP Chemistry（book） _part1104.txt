@@ -1,0 +1,22 @@
+rations?
+Referring to the periodic table, arrange the atoms Ne, Na, P, Ar, K in order of increasing first ionization energy.
+Sample Exercise 7.6 
+Periodic Trends in Ionization Energy
+SOLUTION
+Analyze and Plan We are given the chemical symbols for five ele-
+ments. To rank them according to increasing first ionization en-
+ergy, we need to locate each element in the periodic table. We can 
+then use their relative positions and the trends in first ionization 
+energies to predict their order.
+Solve Ionization energy increases as we move left to right across 
+a  
+period and decreases as we move down a group. Because Na, P
+, 
+and Ar are in the same period, we expect I1 to vary in the order 
+Na 6 P 6 Ar. Because Ne is above Ar in group 8A, we expect 
+Ar 6 Ne. Similarly, K is directly below Na in group 1A, and so we 
+expect K 6 Na.
+From these observations, we conclude that the ionization ener-
+gies follow the order
+K 6 Na 6 P 6 Ar 6 Ne
+Check The values shown in Figure 7.10 confirm this predicti

@@ -1,0 +1,51 @@
+asses
+and
+are on
+inclines and are connected together by a string as shown in
+Fig. 4–61. The coefficient of kinetic friction between each
+mass and its incline is
+If 
+moves up, and 
+moves down, determine their acceleration. [Ignore masses
+of the (frictionless) pulley and the cord.]
+mB
+mA
+mk = 0.30.
+mB = 5.0 kg
+mA = 2.0 kg
+mB
+mA
+θ
+FIGURE 4;62
+Problem 67.
+66. (III) A child slides down a slide with a 34° incline, and at
+the bottom her speed is precisely half what it would have
+been if the slide had been frictionless. Calculate the coef-
+ficient of kinetic friction between the slide and the child.
+67. (III) (a) Suppose the coefficient of kinetic friction between
+and the plane in Fig. 4–62 is
+and that
+As 
+moves down, determine the
+magnitude of the acceleration of 
+and 
+given
+(b) What smallest value of 
+will keep the system from
+accelerating? [Ignore masses of the (frictionless) pulley and
+the cord.]
+mk
+u = 34°.
+mB,
+mA
+mB
+mA = mB = 2.7 kg.
+mk = 0.15,
+mA
+mB
+mA
+21	
+51	
+v
+B
+FIGURE 4;61 Problem 65

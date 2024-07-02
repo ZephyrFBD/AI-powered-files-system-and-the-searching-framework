@@ -1,0 +1,17 @@
+t, as is the case for hybrid orbitals. The hybrid 
+orbital model for period 2 elements has proven very useful and is an essential part of any 
+modern discussion of bonding and molecular geometry in organic chemistry. When it 
+comes to molecules such as SF6, however, we encounter the limitations of the model.
+Hybrid Orbital Summary
+Overall, hybrid orbitals provide a convenient model for using valence-bond theory 
+to describe covalent bonds in molecules that have an octet or less of electrons around 
+360 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+the central atom and in which the molecular geometry conforms to the electron- 
+domain geometry predicted by the VSEPR model. While the concept of hybrid orbitals 
+has  
+limited predictive value, when we know the electron-domain geometry, we can em-
+ploy hybridization to describe the atomic orbitals used by the central atom in bonding.
+How to Describe the Hybrid Orbitals Used by an Atom in Bonding
+ 
+1. Draw the Lewis structure for the mo

@@ -1,0 +1,14 @@
+it is possible to estimate charges of +0.178 and -0.178 
+for the hydrogen and chlorine ends of the HCl molecule, respectively (see Sample Exer-
+cise 8.5). Furthermore, the distances between molecules are often larger than the dis-
+tances between atoms held together by chemical bonds.
+Dispersion Forces
+You might think there would be no electrostatic interactions between electrically neu-
+tral, nonpolar atoms and/or molecules. Yet some kind of attractive interactions must 
+exist because nonpolar gases like helium, argon, and nitrogen can be liquefied. Fritz Lon-
+don, a German-American physicist, first proposed the origin of this attraction in 1930. 
+London recognized that the motion of electrons in an atom or molecule can create an 
+instantaneous, or momentary, dipole moment.
+In a collection of helium atoms, for example, the average distribution of the electrons 
+about each nucleus is spherically symmetrical, as shown in Figure 11.4(a). The atoms are 
+nonpolar and so possess no permanent

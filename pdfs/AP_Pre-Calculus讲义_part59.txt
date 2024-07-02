@@ -1,0 +1,46 @@
+ons 
+Every exponential function f(x) = ax, with a > 0 and a ≠ 1, is a one-to-one function by the 
+horizontal line test and therefore, it has an inverse function. 
+ 
+ 
+The inverse function  is called the logarithmic function with base a and is denoted by log a. 
+We know that the inverse function is defined by  
+1( )
+( )
+f
+x
+y
+f y
+x
+-
+=
+Û
+=
+ 
+This leads to the following definition of the logarithmic function. 
+Let a be a positive number with a ≠ 1. The logarithmic function with base a, denoted by 
+log a, is defined by 
+log
+y
+a x
+y
+a
+x
+=
+Û
+=
+ 
+So log a x is the exponent to which the base a must be raised to give x. 
+ 
+The logarithmic and exponential forms are equivalent equations: If one is true, then so is 
+the other.  
+So we can switch from one form to the other as in the following illustrations. 
+ 
+PROPERTIES OF LOGARITHMS 
+ 
+86 
+ 
+ 
+2.6.2 Graph of Logarithmic Functions 
+We know that if a one-to-one function f has domain A and range B, then its inverse 
+function has domain B and range 

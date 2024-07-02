@@ -1,0 +1,16 @@
+nzymes.
+Inside the cell, many different enzymes reverse the cellular modifications that result from signaling cascades. For example,
+phosphatases are enzymes that remove the phosphate group attached to proteins by kinases in a process called
+dephosphorylation. Cyclic AMP (cAMP) is degraded into AMP by phosphodiesterase, and the release of calcium stores is
+reversed by the Ca2+ pumps that are located in the external and internal membranes of the cell.
+Activity
+Explain the mechanism by which a specific disease is caused by a defective signaling pathway. Then,
+investigate online how a specific drug works by blocking a signaling pathway.
+9.4 | Signaling in Single-Celled Organisms
+In this section, you will explore the following questions:
+•
+How do single-celled yeasts use cell signaling to communicate with each other?
+•
+How does quorum sensing allow some bacteria to form biofilms?
+Connection for AP® Courses
+Cell signaling allows bacteria to respond to environmental cues, such as nutrient le

@@ -1,0 +1,44 @@
+cal temperature.
+The critical temperature is the highest temperature at which a liquid can exist. 
+Above the critical temperature, the kinetic energies of the molecules are greater than 
+ 
+SECTION 11.4   
+Phase Changes 
+451
+Go Figure
+What process is occurring between 
+points C and D?
+−25
+0
+Ice
+25
+50
+75
+100
+125
+Heat added
+Temperature (°C)
+A
+B
+C
+D
+E
+F
+Liquid water
+Steam
+Vaporization—temperature 
+does not change until all 
+H2O(l) becomes H2O(g).
+Melting—temperature does 
+not change until all H2O(s) 
+becomes H2O(l).
+▲ Figure 11.22 Heating curve for water. Changes that occur when 
+1.00 mol of H2O is heated from H2O1s2 at -25 °C to H2O1g2 at 
+125 °C at a constant pressure of 1 atm. Even though heat is being 
+added continuously, the system temperature does not change during 
+the two phase changes (red lines).
+452 
+CHAPTER 11 Liquids and Intermolecular Forces
+Give It Some Thought
+Why are the critical temperature and pressure for H2O so much higher than those 
+for H2S, a related substance (Tabl

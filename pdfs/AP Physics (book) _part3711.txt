@@ -1,0 +1,13 @@
+side if the elevator is at rest or moving at constant velocity (Fig. 33–13a).
+If instead the elevator is accelerating upward, as in Fig. 33–13b, the light beam
+still travels straight across in a reference frame at rest. In the upwardly accelerating
+elevator, however, the beam is observed to curve downward. Why? Because
+during the time the light travels from one side of the elevator to the other, the
+elevator is moving upward at a vertical speed that is increasing relative to the
+light. Next we note that according to the equivalence principle, an upwardly accel-
+erating reference frame is equivalent to a downward gravitational field. Hence,
+we can picture the curved light path in Fig. 33–13b as being due to the effect of a
+gravitational field. Thus, from the principle of equivalence, we expect gravity to
+exert a force on a beam of light and to bend it out of a straight-line path!
+That light is affected by gravity is an important prediction of Einstein’s
+general theory of relativity. And

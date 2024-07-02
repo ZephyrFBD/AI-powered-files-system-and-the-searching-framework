@@ -1,0 +1,99 @@
+C, +4; S, –2
+0
+0
+S
+O
+    
+(b)  
+S
+O
+S, +4; Cl, –1; O, –2
+Cl
+Cl
+–1
+0
+0
++1
+ 
+(c) 
+Br
+O
+Br, +5; O, –2
+O
+O
+–1
+–1
+–1
+1–
++2
+ (d) 
+Cl
+Cl, +3; H, +1; O, –2
+O
+O
+H
+–1
+0
++1
+0
+8.53 (a)  
+–
+O
+O
+N
+O
+N
+O
+–
+ 
+(b) O3 is isoelectronic with NO2
+-; both have 18 valence electrons.  
+(c) Since each N ¬O bond has partial double-bond character, the 
+N ¬O bond length in NO2
+- should be shorter than an N ¬ O single 
+bond but longer than an N “O double bond. 8.55 The more elec-
+tron pairs shared by two atoms, the shorter the bond. Thus, the C ¬ O 
+bond lengths vary in the order CO 6 CO2 6 CO3
+2 -. 8.57 (a) False 
+(b) false 8.59 (a) AsF5 is an exception to the octet rule. (b) BCl3 is an 
+exception to the octet rule. 8.61 Assume that the dominant structure 
+is the one that minimizes formal charge. Following this guideline, 
+only ClO- obeys the octet rule. ClO, ClO2
+-, ClO3
+-, and ClO4
+- do not 
+obey the octet rule.
+Cl
+ClO,
+Cl
+O
+Cl
+O
+O
+Cl
+Cl
+O
+O
+O
+ClO2
+–,
+–
+O
+O
+ClO3
+–,
+–
+O
+ClO–,
+–
+O
+ClO4
+–,
+–
+O
+8.63
+(a) 
+H
+H
+P
+H  (

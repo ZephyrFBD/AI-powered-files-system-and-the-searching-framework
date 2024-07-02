@@ -1,0 +1,19 @@
+etic energy of the gas 
+molecules remains unchanged. This means that the rms speed of the molecules re-
+mains unchanged. When the volume is increased, the molecules must move a longer 
+distance between collisions. Consequently, there are fewer collisions per unit time 
+with the container walls, which means the pressure decreases. Thus, kinetic-molecular 
+ 
+theory explains Boyle’s law.
+2. A temperature increase at constant volume causes pressure to in-
+crease. 
+An increase in temperature means an increase in the average kinetic 
+Give It Some Thought
+Consider three gases all at 298 K: HCl, H2, and O2. List the gases in order  
+of increasing average speed.
+10.8 ∣ Molecular Effusion and Diffusion
+According to the kinetic-molecular theory of gases, the average kinetic energy of any col-
+lection of gas molecules, 1
+2 m1urms22, has a specific value at a given temperature. Thus, for 
+two gases at the same temperature a gas composed of low-mass particles, such as He, has 
+the same average kinet

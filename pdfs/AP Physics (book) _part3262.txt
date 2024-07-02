@@ -1,0 +1,23 @@
+ution for a
+classical gas (Section 13–10). The energy of the state at the Fermi level is called
+the Fermi energy,
+For copper,
+This is very much greater than
+the energy of thermal motion at room temperature (
+Eq. 13–8). Clearly, all motion does not stop at absolute zero.
+At 
+all states with energy below 
+are occupied, and all states above
+are empty. What happens for 
+We expect that at least some of the
+electrons will increase in energy due to thermal motion. Figure 29–22 shows the
+density of occupied states for 
+a temperature at which a metal is so
+hot it would glow. We see that the distribution differs very little from that at
+We see also that the changes that do occur are concentrated about the
+Fermi level. A few electrons from slightly below the Fermi level move to energy
+states slightly above it. The average energy of the electrons increases only very
+slightly when the temperature is increased from 
+to 
+This is
+very different from the behavior of an ideal gas, for which kinetic ener

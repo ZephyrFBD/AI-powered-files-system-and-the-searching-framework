@@ -1,0 +1,24 @@
+ut from the source in all directions, it is a three-dimensional
+wave. Examples are sound traveling in open air, earthquake waves, and light waves.
+If the medium is isotropic (same in all directions), the wave is a spherical wave
+(Fig. 11–31). As the wave moves outward, the energy it carries is spread over 
+a larger and larger area since the surface area of a sphere of radius r is
+Thus the intensity of a spherical wave is
+[spherical wave] (11;16a)
+If the power output P of the source is constant, then the intensity decreases as
+the inverse square of the distance from the source:
+[spherical wave] (11;16b)
+This is often called the inverse square law, or the “one over 
+law.” If we consider
+two points at distances 
+and 
+from the source, as in Fig. 11–31, then
+and
+so
+[spherical wave] (11;16c)
+Thus, for example, when the distance doubles
+the intensity is reduced
+to 
+its earlier value:
+The amplitude of a wave also decreases with distance. Since the intensity is
+proportional to the square of the

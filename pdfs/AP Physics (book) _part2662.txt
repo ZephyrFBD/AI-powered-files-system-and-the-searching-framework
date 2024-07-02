@@ -1,0 +1,18 @@
+e and below the center, is twice this, or 98°.
+(b) The width of the central maximum is 2x, where 
+So
+NOTE A large width of the screen will be illuminated, but it will not normally
+be very bright since the amount of light that passes through such a small slit will
+be small and it is spread over a large area. Note also that we cannot use the
+small-angle approximation here 
+because is large.
+EXERCISE C In Example 24–5, red light 
+was used. If instead yellow light
+had been used, would the central maximum be wider or narrower?
+Diffraction spreads. Light shines through
+a small rectangular slit that is narrower in the vertical direction than the 
+horizontal, Fig. 24–23. (a) Would you expect the diffraction pattern to be more
+spread out in the vertical direction or in the horizontal direction? (b) Should
+a rectangular loudspeaker horn at a stadium be tall and narrow, or wide and flat?
+RESPONSE (a) From Eq. 24–3a we can see that if we make the slit width D
+smaller, the pattern spreads out more 

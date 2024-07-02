@@ -1,0 +1,10 @@
+ way of helping reactions along. As we just saw, the reactants in an enzyme-assisted reaction
+are known as substrates. During a reaction, the enzyme’s job is to bring the transition state about by helping the
+substrate(s) get into position. It accomplishes this through a special region on the enzyme known as an active site.
+The enzyme temporarily binds one or more of the substrates to its active site and forms an enzyme-substrate
+complex. In general, the structure of the substrate—specifically its shape and charge—must be compatible with the
+active site of the enzyme in order for the enzyme-catalyzed reaction to occur. Let’s take a look:
+Once the reaction has occurred and the product is formed, the enzyme is released from the complex and restored to
+its original state. Now the enzyme is free to react again with another bunch of substrates.
+By binding and releasing substrates over and over again, the enzyme speeds the reaction along, enabling the cell to
+release much-needed energy from 

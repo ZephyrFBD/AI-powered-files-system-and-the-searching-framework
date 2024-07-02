@@ -1,0 +1,11 @@
+
+of the tRNA. Each tRNA has a special region of three nucleotides, called an anticodon.
+During the process of translation, ribosomes direct the pairing of the anticodons of tRNAs with appropriate triplet
+regions of the mRNA, called codons. Each mRNA codon specifies a particular amino acid. The genetic code
+describes which amino acid is indicated by each of the 64 different mRNA codons. Some codons indicate a stop
+code, signaling that translation of the mRNA is complete. Another codon indicates methionine, the start amino acid.
+During translation, the ribosome provides binding sites to incoming tRNAs. Each tRNA brings the appropriate
+amino acid as dictated by the codon sequence on the mRNA. As each new tRNA arrives, the growing polypeptide
+chain that is attached to the previous tRNA is transferred to the new tRNA. The old tRNA is released; the ribosome
+moves over one binding site; and the process repeats until the stop codon is encountered. At this point the ribosome
+separates into two 

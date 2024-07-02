@@ -1,0 +1,32 @@
+o 
+a lower state, it emits a photon whose energy equals the
+difference in energy between the two states; (4) the angular
+momentum L of atomic electrons is quantized by the rule
+where n is an integer called the quantum number.
+The
+state is the ground state, which in hydrogen has 
+an energy 
+Higher values of n correspond to
+excited states, and their energies are
+(27;15b)
+where Ze is the charge on the nucleus. Atoms are excited to
+these higher states by collisions with other atoms or electrons,
+or by absorption of a photon of just the right frequency.
+De Broglie’s hypothesis that electrons (and other matter)
+have a wavelength 
+gave an explanation for Bohr’s
+quantized orbits by bringing in the wave–particle duality: the
+orbits correspond to circular standing waves in which the cir-
+cumference of the orbit equals a whole number of wavelengths.
+l = hmv
+En =
+–(13.6 eV) Z2
+n2 ,
+E1 = –13.6 eV.
+n = 1
+L = nh2p,
+Summary
+Questions
+797
+1. Does a lightbulb at a temperature of 2500 K produce as
+whit

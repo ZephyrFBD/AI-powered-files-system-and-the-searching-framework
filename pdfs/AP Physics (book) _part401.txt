@@ -1,0 +1,31 @@
+mg, acting downward on the box, can now be balanced by an upward
+static friction force whose maximum magnitude is proportional to the normal
+force. The harder you push, the greater 
+is and the greater 
+can be. If you
+don’t press hard enough, then
+and the box begins to slide down.
+mg 7 ms F
+N
+F
+fr
+F
+N
+CONCEPTUAL EXAMPLE 4;17
+EXERCISE G If  
+and  
+what minimum force F will keep the box
+from falling: (a) 100 N; (b) 80 N; (c) 50 N; (d) 20 N; (e) 8 N?
+mg = 20 N,
+ms = 0.40
+Pulling against friction. A 10.0-kg box is pulled along a
+horizontal surface by a force 
+of 40.0 N applied at a 30.0° angle above hori-
+zontal. This is like Example 4–11 except now there is friction, and we assume a
+coefficient of kinetic friction of 0.30. Calculate the acceleration.
+APPROACH The free-body diagram is shown in Fig. 4–30. It is much like that
+in Fig. 4–21b, but with one more force, friction.
+SOLUTION The calculation for the vertical (y) direction is just the same 
+as in Example 4–11b,
+and 
+With y positive up

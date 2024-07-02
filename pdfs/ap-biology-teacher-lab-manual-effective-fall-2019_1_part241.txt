@@ -1,0 +1,24 @@
+expect in the next generation? 
+Creating a Formula that Predicts the Genotypes of the Next 
+Generation 
+Here are two approaches to develop the formula. You might first try a graphical 
+approach. Create a Punnet square, like Figure 10 and similar to what you might use 
+to solve a Mendelian genetics problem. In this case, however, plot the values of p and 
+ 
+q. Scale each side of the square based on the magnitude of the p or 
+ q values. Place this 
+diagram in your lab notebook, and fill in the squares with variables and values, as in 
+Figure 10. 
+Figure 10 
+Of course, you could also calculate the expected results for the next generation. 
+Remember that p + q = 1 
+The probability of two A alleles combining in one organism in the next generation is p2. 
+The probability of two B alleles combining is q2. The probability of a combination of AB 
+is p * q, as is the probability of combination of BA alleles, for a total of 2pq. 
+Investigation 2 S39 
+  
+ 
+ 
+ 
+ 
+For the next generation, the formul

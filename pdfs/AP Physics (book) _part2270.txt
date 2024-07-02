@@ -1,0 +1,32 @@
+ss m and charge q moving in a 
+circular path in a magnetic field B, (a) show that its kinetic
+energy is proportional to 
+the square of the radius of curva-
+ture of its path. (b) Show that its angular momentum 
+is 
+around the center of the circle.
+17. (II) A 1.5-MeV (kinetic energy) proton enters a 0.30-T
+field, in a plane perpendicular to the field. What is the
+radius of its path? See Section 17–4.
+18. (II) An electron experiences the greatest force as it travels
+in a magnetic field when it is moving north-
+ward. The force is vertically upward and of magnitude
+What is the magnitude and direction of the
+magnetic field?
+19. (II) A proton and an electron have the same kinetic energy
+upon entering a region of constant magnetic field. What is
+the ratio of the radii of their circular paths?
+6.2 * 10–13 N.
+2.8 * 106 ms
+L = qBr2,
+r2,
+6.6 * 10–27 kg
+(Q = ±2e)
+7.5 * 10–3 T,
+7.7 * 103 Vm
+B
+B
+E
+B
+20–4 Force on Charge Moving in Magnetic Field
+9. (I) Determine the magnitude and direction of the fo

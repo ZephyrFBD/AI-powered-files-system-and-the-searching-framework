@@ -1,0 +1,11 @@
+the control of a single
+promoter; these functioning units of DNA are called operons. One of the best-understood operons is the lac operon,
+which controls expression of the enzymes that break down (catabolize) lactose.
+The operon consists of four major parts: structural genes, promoter genes, the operator, and the regulatory gene:
+Structural genes code for enzymes needed in a chemical reaction. These genes will be transcribed at the same
+time to produce particular enzymes. In the lac operon, three enzymes (beta galactosidase, galactose permease,
+and thiogalactoside transacetylase) involved in digesting lactose are coded for.
+The promoter gene is the region where the RNA polymerase binds to begin transcription.
+The operator is a region that controls whether transcription will occur; this is where the repressor binds.
+The regulatory gene codes for a specific regulatory protein called the repressor. The repressor is capable of
+attaching to the operator and blocking transcription. If the re

@@ -1,0 +1,20 @@
+ollows the path efgb, again approaching
+saturation at point b.
+Notice that the field did not pass through the origin (point a) in this cycle.
+The fact that the curve does not retrace itself on the same path is called hysteresis.
+The curve bcdefgb is called a hysteresis loop. In such a cycle, much energy is
+transformed to thermal energy (friction) due to realigning of the domains. Note
+that at points c and f, the iron core is magnetized even though there is no current
+in the coils. These points correspond to a permanent magnet.
+B0
+B0
+Questions
+581
+A magnet has two poles, north and south. The north pole is that
+end which points toward geographic north when the magnet is
+freely suspended. Like poles of two magnets repel each other,
+whereas unlike poles attract.
+We can picture that a magnetic field surrounds every mag-
+net. The SI unit for magnetic field is the tesla (T).
+Electric currents produce magnetic fields. For example,
+the lines of magnetic field due to a current in a straight wire

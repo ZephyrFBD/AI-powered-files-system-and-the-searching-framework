@@ -1,0 +1,35 @@
+he pure substances are P°
+ben = 75 torr and P°
+tol = 22 torr. 
+Thus, the partial pressures above the solution are
+P
+ben = 10.332175 torr2 = 25 torr
+P
+tol = 10.672122 torr2 = 15 torr
+and the total vapor pressure above the liquid is
+P
+total = P
+ben + P
+tol = 25 torr + 15 torr = 40 torr
+Note that the vapor is richer in benzene, the more volatile 
+ 
+component.
+The mole fraction of benzene in the vapor is given by the 
+ratio of its vapor pressure to the total pressure (Equations 10.14 
+and 10.15):
+Xben in vapor =
+P
+ben
+P
+tol
+= 25 torr
+40 torr = 0.63
+Although benzene constitutes only 33% of the molecules in the 
+solution, it makes up 63% of the molecules in the vapor.
+When an ideal liquid solution containing two volatile com-
+ponents is in equilibrium with its vapor, the more volatile com-
+ponent will be relatively richer in the vapor. This fact forms the 
+basis of distillation, a technique used to separate (or partially sep-
+arate) mixtures containing volatile components. 
+ (Section 1.3) 
+D

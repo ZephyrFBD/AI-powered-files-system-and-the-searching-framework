@@ -1,0 +1,49 @@
+en it returns to
+the starting point as it did initially, but in the opposite direction (this is the
+meaning of the negative sign). And, as we saw in part (a), the time is the same
+up as down. Thus the motion is symmetrical about the maximum height.
+= 15.0 ms - A9.80 ms2B(3.06 s) =
+–15.0 ms.
+v = v0 + at
+t = 3.06 s:
+v
+t = 3.06 s
+At = 0, v0 = 15.0 msB
+=
+–
+15.0 ms
+–9.80 ms2
+= 1.53 s.
+t =
+– v0
+a
+at = –v0
+t
+0 = v0 + at
+v = 0
+v = v0 + at;
+v = 0:
+a = –9.80 ms2, v0 = 15.0 ms,
+t
+a = –g = –9.80 ms2.
+t.
+(y = ±11.5 m,  v = 0),
+v0 = 15.0 msB
+At = 0,
+15.0 ms
+EXAMPLE 2;15
+The acceleration of objects such as rockets and fast airplanes is often given as
+a multiple of  
+For example, a plane pulling out of a dive 
+(see Fig. 2–24) and undergoing 3.00 g’s would have an acceleration of
+.
+(3.00)A9.80 ms2B = 29.4 ms2
+g = 9.80 ms2.
+P R O B L E M  S O L V I N G
+Acceleration in g’s
+FIGURE 2;24 Several planes, in
+formation, are just coming out of a
+downward dive.
+38
+CHAPTER 2
+Describing Motion: Kinem

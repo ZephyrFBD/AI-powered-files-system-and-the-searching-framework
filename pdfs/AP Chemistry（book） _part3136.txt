@@ -1,0 +1,20 @@
+ve the 
+lowest entropy? Explain. (f) Calculate the absolute entropy 
+of the two-dice system.
+additional Exercises
+ 19.85  (a) Which of the thermodynamic quantities T, E, q, w, and 
+S are state functions? (b) Which depend on the path taken 
+from one state to another? (c) How many reversible paths 
+are there between two states of a system? (d) For a reversible 
+isothermal process, write an expression for ∆E in terms of q 
+and w and an expression for ∆S in terms of q and T.
+ 19.86  The crystalline hydrate Cd1NO322#4H2O1s2  loses water 
+when placed in a large, closed, dry vessel at room 
+temperature:
+Cd1NO322#4H2O1s2 ¡ Cd1NO3221s2 + 4 H2O1g2
+This process is spontaneous and ∆H° is positive at room tem-
+perature. (a) What is the sign of ∆S° at room temperature? 
+(b) If the hydrated compound is placed in a large, closed ves-
+sel that already contains a large amount of water vapor, does 
+∆S° change for this reaction at room temperature?
+ 19.87  Indicate whether each of the following statements

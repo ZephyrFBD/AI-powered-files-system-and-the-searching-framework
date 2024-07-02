@@ -1,0 +1,13 @@
+s, since potential energy depends only on the vertical height (Eq. 6–6).
+There are many interesting examples of the conservation of energy in sports,
+such as the pole vault illustrated in Fig. 6–20. We often have to make approxima-
+tions, but the sequence of events in broad outline for the pole vault is as follows.
+The initial kinetic energy of the running athlete is transformed into elastic 
+potential energy of the bending pole and, as the athlete leaves the ground, into
+gravitational potential energy. When the vaulter reaches the top and the pole 
+has straightened out again, the energy has all been transformed into gravitational
+potential energy (if we ignore the vaulter’s low horizontal speed over the bar). The
+pole does not supply any energy, but it acts as a device to store energy and thus aid
+in the transformation of kinetic energy into gravitational potential energy, which 
+is the net result. The energy required to pass over the bar depends on how high the
+center of mass (CM) of

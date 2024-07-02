@@ -1,0 +1,30 @@
+ your force.
+P H Y S I C S  A P P L I E D
+The lever
+P R O B L E M  S O L V I N G
+counterclockwise
+clockwise
+t 6 0
+t 7 0
+There is no single technique for attacking statics problems, but the following
+procedure may be helpful.
+234
+CHAPTER 9
+Static Equilibrium; Elasticity and Fracture
+4. For the torque equation,
+choose any axis perpendicular to the xy plane that
+might make the calculation easier. (For example, you
+can reduce the number of unknowns in the resulting
+equation by choosing the axis so that one of the
+unknown forces acts through that axis; then this force
+will have zero lever arm and produce zero torque, and
+so won’t appear in the torque equation.) Pay careful
+attention to determining the lever arm for each force
+correctly. Give each torque a 
+or 
+sign to indicate
+torque direction. For example, if torques tending
+to rotate the object counterclockwise are positive,
+then those tending to rotate it clockwise are negative.
+5. Solve these equations for the unknowns. Three equa-
+tion

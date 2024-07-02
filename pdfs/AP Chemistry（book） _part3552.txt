@@ -1,0 +1,25 @@
+d in Section 20.2. Thus, 
+we begin with two half-reactions, one involving the NH2OH and 
+N2 and the other involving Cu2 +  and Cu.
+Solve 
+The unbalanced and incomplete half-reactions are
+Cu2 +1aq2 ¡ Cu1s2
+NH2OH1aq2 ¡ N21g2
+Balancing these equations as described in Section 20.2 gives
+Cu2 +1aq2 + 2 e - ¡ Cu1s2
+2 NH2OH1aq2 ¡ N21g2 + 2 H2O1l2 + 2 H+1aq2 + 2 e -
+Adding these half-reactions gives the balanced equation:
+Cu2 +1aq2 + 2 NH2OH1aq2 ¡
+Cu1s2 + N21g2 + 2 H2O1l2 + 2 H+1aq2
+ 
+▶Practice Exercise 1
+In power plants, hydrazine is used to prevent corrosion of the 
+metal parts of steam boilers by the O2 dissolved in the water. 
+The hydrazine reacts with O2 in water to give N2 and H2O. 
+Write a balanced equation for this reaction.
+ 
+▶Practice Exercise 2
+Methylhydrazine, N2H3CH31l2, is used with the oxidizer dini-
+trogen tetroxide, N2O41l2, to power the steering rockets of the 
+Space Shuttle orbiter. The reaction of these two substances 
+produces N2, CO2, and H2O. Write a balanced equation for

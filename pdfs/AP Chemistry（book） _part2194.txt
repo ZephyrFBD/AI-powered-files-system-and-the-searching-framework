@@ -1,0 +1,34 @@
+
+21.5 * 10 - 7
+4
+0.200
+0.0202
+10.8 * 10 - 7
+5
+0.200
+0.0404
+21.6 * 10 - 7
+6
+0.200
+0.0808
+43.3 * 10 - 7
+Source
+Lenses/slits/
+collimators
+Monochromator
+(selects wavelength)
+Sample
+Detector
+Computer
+▲ Figure 14.5 Components of a spectrometer.
+A variety of techniques can be used to monitor reactant and product 
+concentration during a reaction, including spectroscopic methods, 
+which rely on the ability of substances to absorb (or emit) light. Spec-
+troscopic kinetic studies are often performed with the reaction mix-
+ture in the sample compartment of a spectrometer, an instrument that 
+measures the amount of light transmitted or absorbed by a sample at 
+different wavelengths. For kinetic studies, the spectrometer is set to 
+measure the light absorbed at a wavelength characteristic of one of 
+the reactants or products. In the decomposition of HI1g2 into H21g2 
+and I21g2, for example, both HI and H2 are colorless, whereas I2 is 
+violet. During the reaction, the violet color of the reaction mix

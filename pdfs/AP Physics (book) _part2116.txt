@@ -1,0 +1,14 @@
+hey respond quickly enough.
+Ground fault circuit interrupters (GFCI or GFI), described in Section 21–9, are
+designed to protect people from the much lower currents (10 mA to 100 mA) that
+are lethal but would not throw a 15-A circuit breaker or blow a 20-A fuse.
+Another danger is leakage current, by which we mean a current along an
+unintended path. Leakage currents are often “capacitively coupled.” For example,
+a wire in a lamp forms a capacitor with the metal case; charges moving in one con-
+ductor attract or repel charge in the other, so there is a current. Typical electrical
+codes limit leakage currents to 1 mA for any device, which is usually harmless.
+It could be dangerous, however, to a hospital patient with implanted electrodes,
+due to the absence of the protective skin layer and because the current can 
+pass directly through the heart. Although 100 mA may be needed to cause heart
+fibrillation when entering through the hands and spreading out through the body
+(very little of it a

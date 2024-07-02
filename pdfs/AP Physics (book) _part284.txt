@@ -1,0 +1,37 @@
+ (final) = y0 .
+y = –1.00 m.
+y0 = 0.
+x0 = 0,  y0 = 0.
+EXAMPLE 3;9
+64
+CHAPTER 3
+P H Y S I C S  A P P L I E D
+Sports
+P R O B L E M  S O L V I N G
+Do not use any formula unless you
+are sure its range of validity fits the
+problem; the range formula does 
+not apply here because y Z y0
+Ground
+y
+x
+y0 =  0
+y =  −1.00 m
+FIGURE 3;26 Example 3–9: the 
+football leaves the punter’s foot at  
+and reaches the ground 
+where y = –1.00 m.
+y = 0,
+3–7 Projectile Motion Is Parabolic
+We now show that the path followed by any projectile is a parabola, if we can
+ignore air resistance and can assume that 
+is constant. To do so, we need to find
+y as a function of x by eliminating between the two equations for horizontal and
+vertical motion (Eq. 2–11b in Table 3–2), and for simplicity we set
+From the first equation, we have
+and we substitute this into the second
+one to obtain
+(3;6)
+We see that y as a function of x has the form
+where A and B are constants for any specific projectile motion. This is the standard
+e

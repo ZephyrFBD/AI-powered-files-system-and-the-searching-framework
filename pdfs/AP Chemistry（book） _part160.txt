@@ -1,0 +1,32 @@
+bic meter contains 1000 dm3, 1 m3 =  
+1000 dm3. One liter is the same volume 
+as one cubic decimeter, 1 L = 1 dm3. 
+Each cubic decimeter contains 1000 
+cubic centimeters, 1 dm3 = 1000 cm3. 
+One cubic centimeter equals one 
+milliliter, 1 cm3 = 1 mL.
+ 
+ 
+Go Figure
+How many 1-L bottles are required to 
+contain 1 m3 of liquid?
+ 
+Sample Exercise 1.3
+Converting Units of Temperature
+A weather forecaster predicts the temperature will reach 31 °C. What is this temperature (a) in K, (b) in °F?
+would be liquid at 525 K (assume samples are protected  
+from air): (a) bismuth, Bi; (b) platinum, Pt; (c) selenium, Se;  
+(d) calcium, Ca; (e) copper, Cu.
+ 
+▶Practice Exercise 2
+Ethylene glycol, the major ingredient in antifreeze, freezes  
+at -11.5   °C. What is the freezing point in (a) K, (b) °F?
+SOLUTION
+(a) Equation 1.3, we have K = 31 + 273 = 304 K.
+(b) Using Equation 1.4, we have 
+°F = 9
+51312 + 32 = 56 + 32 = 88 °F.
+ 
+▶Practice Exercise 1
+Using Wolfram Alpha (http://www.wolframalpha.com/) or 
+some

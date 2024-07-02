@@ -1,0 +1,14 @@
+pera-
+ture. Entropy increases, as we saw in Example 15–14. At the beginning of the process
+we can distinguish two classes of molecules: those with a high average kinetic energy
+(the hot object), and those with a low average kinetic energy (the cooler object).After
+the process in which heat flows, all the molecules are in one class with the same average
+kinetic energy; we no longer have the more orderly arrangement of molecules in two
+classes. Order has gone to disorder. Furthermore, the separate hot and cold objects
+could serve as the hot- and cold-temperature regions of a heat engine, and thus
+could be used to obtain useful work. But once the two objects are put in contact and
+reach the same temperature, no work can be obtained. Disorder has increased,
+because a system that has the ability to perform work must surely be considered to
+have a higher order than a system no longer able to do work.
+When a stone falls to the ground, its macroscopic kinetic energy is transformed
+to thermal e

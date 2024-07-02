@@ -1,0 +1,26 @@
+
+sounds
+to an average human being like it is about twice as loud as one with intensity of
+and four times as loud as 
+Sound Level
+Because of this relationship between the subjective sensation of loudness and the phys-
+ically measurable quantity “intensity,”sound intensity levels are usually specified on a
+logarithmic scale. The unit on this scale is a bel, after the inventor Alexander Graham
+Bell, or much more commonly, the decibel (dB), which is bel
+† The
+sound level,
+of any sound is defined in terms of its intensity, I, as
+(12;1)
+where 
+is the intensity of a chosen reference level, and the logarithm is to the
+base 10.
+is usually taken as the minimum intensity audible to a good ear—the
+“threshold of hearing,” which is
+Thus, for example,
+the sound level of a sound whose intensity
+will be
+since log 100 is equal to 2.0. (Appendix A has a brief review of logarithms.)
+Notice that the sound level at the threshold of hearing is 0 dB. That is,
+since
+Notice too that an increase
+in intensity by 

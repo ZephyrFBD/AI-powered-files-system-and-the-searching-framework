@@ -1,0 +1,10 @@
+s a certain level, specific gene expression is initiated, and
+the bacteria produce bioluminescent proteins that emit light. Because the number of cells present in the environment (cell
+density) is the determining factor for signaling, bacterial signaling was named quorum sensing. In politics and business, a
+quorum is the minimum number of members required to be present to vote on an issue.
+Quorum sensing uses autoinducers as signaling molecules. Autoinducers are signaling molecules secreted by bacteria to
+communicate with other bacteria of the same kind. The secreted autoinducers can be small, hydrophobic molecules such as
+acyl-homoserine lactone (AHL) or larger peptide-based molecules; each type of molecule has a different mode of action.
+When AHL enters target bacteria, it binds to transcription factors, which then switch gene expression on or off (Figure
+9.17). The peptide autoinducers stimulate more complicated signaling pathways that include bacterial kinases. The changes
+in bacte

@@ -1,0 +1,32 @@
+ale read when the elevator descends at a
+constant speed of 
+APPROACH Figure 4–17 shows all the forces that act on the woman (and only
+those that act on her). The direction of the acceleration is downward, so 
+we choose the positive direction as down (this is the opposite choice from
+Examples 4–6 and 4–7).
+SOLUTION (a) From Newton’s second law,
+We solve for 
+and it acts upward. The normal force 
+is the force the scale exerts on the
+person, and is equal and opposite to the force she exerts on the scale:
+downward. Her weight (force of gravity on her) is still
+But the scale, needing to exert a force of 
+only 0.80mg, will give a reading of
+(b) Now there is no acceleration,
+so by Newton’s second law,
+and  
+The scale reads her true mass of 65 kg.
+NOTE The scale in (a) gives a reading of 52 kg (as an “apparent mass”), but 
+her mass doesn’t change as a result of the acceleration: it stays at 65 kg.
+F
+N = mg.
+mg - F
+N = 0
+a = 0,
+0.80m = 52 kg.
+mg = (65 kg)A9.8 ms2B = 640 N.
+FN
+œ = 0.80mg
+F
+B
+N

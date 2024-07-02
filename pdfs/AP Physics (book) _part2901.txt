@@ -1,0 +1,16 @@
+y in detecting it, was assumed to have zero density.
+§Also, it appeared that Maxwell’s equations did not satisfy the relativity principle: They were simplest
+in the frame where 
+, in a reference frame at rest in the ether. In any other
+reference frame, extra terms were needed to account for relative velocity. Although other laws of 
+physics obeyed the relativity principle, the laws of electricity and magnetism apparently did not.
+Einstein’s second postulate (next Section) resolved this problem: Maxwell’s equations do satisfy 
+relativity.
+c = 3.00 * 108 ms
+26–2 Postulates of the 
+Special Theory of Relativity
+The problems that existed at the start of the twentieth century with regard to
+electromagnetic theory and Newtonian mechanics were beautifully resolved by
+Einstein’s introduction of the special theory of relativity in 1905. Unaware of the
+Michelson–Morley null result, Einstein was motivated by certain questions
+regarding electromagnetic theory and light waves. For example, he asked

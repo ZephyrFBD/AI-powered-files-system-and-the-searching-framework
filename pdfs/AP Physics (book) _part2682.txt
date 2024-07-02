@@ -1,0 +1,19 @@
+aterial with index of refraction greater than
+that of the material in which it is traveling, changes phase by 180° or cycle;
+see Fig. 24–32. This phase shift acts just like a path difference of 
+If the 
+index of refraction of the reflecting material is less than that of the material in
+which the light is traveling, no phase shift occurs.†
+Thus the wave reflected at the curved surface above the air gap in Fig. 24–31a
+undergoes no change in phase. But the wave reflected at the lower surface, where
+the beam in air strikes the glass, undergoes a
+phase shift, equivalent to 
+a
+path difference. Thus the two waves reflected near the point of contact A of
+the two glass surfaces (where the air gap approaches zero thickness) will be a half
+cycle (or 180°) out of phase, and a dark spot occurs. Bright colored rings will occur
+when the path difference is 
+and so on, because the phase shift at one 
+surface effectively adds a path difference of 
+(If monochromatic
+light is used, the bright Newton’s rin

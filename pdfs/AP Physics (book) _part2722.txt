@@ -1,0 +1,28 @@
+ C S  A P P L I E D
+Why the sky is blue
+Why sunsets are red
+Why clouds are white
+FIGURE 24–52 Watch-face LCD
+display with altimeter. The black
+segments or pixels have a voltage
+applied to them. Note that the 8 uses
+all seven segments (pixels); other
+numbers use fewer.
+Questions
+705
+The wave theory of light is strongly supported by observations
+that light exhibits interference and diffraction. Wave theory also
+explains the refraction of light and the fact that light travels more
+slowly in transparent solids and liquids than it does in air.
+[*An aid to predicting wave behavior is Huygens’ principle,
+which states that every point on a wave front can be considered
+as a source of tiny wavelets that spread out in the forward
+direction at the speed of the wave itself. The new wave front is
+the envelope (the common tangent) of all the wavelets.]
+The wavelength of light in a medium with index of refrac-
+tion n is
+(24;1)
+where 
+is the wavelength in vacuum; the frequency is not
+changed.
+Young’s d

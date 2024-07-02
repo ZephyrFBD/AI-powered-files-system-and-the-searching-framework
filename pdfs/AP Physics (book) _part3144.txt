@@ -1,0 +1,21 @@
+thin) at places,
+especially far away, but never becomes zero. So quantum mechanics suggests
+that an atom is not mostly empty space, and that there is no truly empty space in
+the universe.
+SECTION 28–5
+Quantum-Mechanical View of Atoms
+811
+28–6 Quantum Mechanics of the 
+Hydrogen Atom; Quantum Numbers
+We now look more closely at what quantum mechanics tells us about the
+hydrogen atom. Much of what we say here also applies to more complex atoms,
+which are discussed in the next Section.
+Quantum mechanics is a much more sophisticated and successful theory than
+Bohr’s. Yet in a few details they agree. Quantum mechanics predicts the same
+basic energy levels (Fig. 27–29) for the hydrogen atom as does the Bohr model.
+That is,
+where n is an integer. In the simple Bohr model, there was only one quantum
+number, n. In quantum mechanics, four different quantum numbers are needed
+to specify each state in the atom:
+(1) The quantum number, n, from the Bohr model is found also in quantum
+mechanics and is

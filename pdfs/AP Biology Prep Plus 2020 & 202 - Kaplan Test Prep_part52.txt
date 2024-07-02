@@ -1,0 +1,15 @@
+quence is written and read from the
+amino end (N-terminus) to the carboxyl end (C-terminus). The properties
+and order of the amino acids determine the structure and function of the
+polypeptide. For instance, proteins with more basic amino acids will have
+an overall positive charge in a neutral solution, while proteins with more
+acidic amino acids will have an overall negative charge.
+The sequence of amino acids in a polypeptide chain is the protein’s
+primary structure and is determined by the DNA of the gene that encodes
+the protein. The protein’s secondary structure refers to local folds along
+the chain due to interactions between the atoms of the backbone. The
+most common types of secondary structures are the α helix and the β
+pleated sheet, which involve hydrogen bonds between the carbonyl O of
+one amino acid and the amino H of another. A protein’s shape and
+stability are influenced by the interactions between a protein and its
+immediate environment. For example, a protein in an aqu

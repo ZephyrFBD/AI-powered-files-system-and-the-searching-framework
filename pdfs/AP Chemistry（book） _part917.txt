@@ -1,0 +1,14 @@
+e. This is not so for an electron because its mass is 
+so small, as we see in Sample Exercise 6.5.
+A few years after de Broglie published his theory, the wave properties of the 
+electron were demonstrated experimentally. When X rays pass through a crystal, 
+an interference pattern results that is characteristic of the wave-like properties of 
+electromagnetic radiation, a phenomenon called X-ray diffraction. As electrons pass 
+through a crystal, they are similarly diffracted. Thus, a stream of moving electrons 
+exhibits the same kinds of wave behavior as X rays and all other types of electromag-
+netic radiation.
+The technique of electron diffraction has been highly developed. In the elec-
+tron microscope, for instance, the wave characteristics of electrons are used to obtain 
+images at the atomic scale. This microscope is an important tool for studying surface 
+phenomena at very high magnifications (Figure 6.14). Electron microscopes can mag-
+nify objects by 3,000,000 times, far more th

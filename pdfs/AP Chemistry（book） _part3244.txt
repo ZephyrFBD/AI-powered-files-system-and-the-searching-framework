@@ -1,0 +1,18 @@
+charge adheres to 
+the electrodes. As the external source forces electrons from one electrode to the 
+other, the PbSO4 is converted to Pb at one electrode and to PbO2 at the other.
+alkaline Battery
+The most common primary (nonrechargeable) battery is the alkaline battery (Fig-
+ure 20.20). The anode is powdered zinc metal immobilized in a gel in contact with 
+a concentrated solution of KOH (hence, the name alkaline battery). The cathode is 
+a mixture of MnO21s2 and graphite, separated from the anode by a porous fabric. 
+The battery is sealed in a steel can to reduce the risk of any of the concentrated KOH 
+escaping.
+The cell reactions are complex but can be approximately represented as follows:
+Cathode:  
+2 MnO21s2 + 2 H2O1l2 + 2 e- ¡ 2 MnO1OH21s2 + 2 OH-1aq2
+Anode:      
+      Zn1s2 + 2 OH-1aq2 ¡ Zn1OH221s2 + 2 e-
+Nickel–Cadmium and Nickel–Metal hydride Batteries
+The tremendous growth in high-power-demand portable electronic devices in the 
+last decade has increased the demand for ligh

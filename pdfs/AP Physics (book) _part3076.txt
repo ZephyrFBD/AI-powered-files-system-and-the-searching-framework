@@ -1,0 +1,27 @@
+sms underlying physical processes.
+796
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+†We note, however, that Eq. 27–11 is no longer considered valid, as discussed in the next Chapter.
+FIGURE 27–31 (Repeated.) Standing
+circular waves for two, three, and 
+five wavelengths on the circumference;
+n, the number of wavelengths,
+is also the quantum number.
+n  5
+n  3
+n  2
+The electron was discovered using an evacuated cathode ray
+tube. The measurement of the charge-to-mass ratio 
+of
+the electron was done using magnetic and electric fields. The
+charge e on the electron was first measured in the Millikan 
+oil-drop experiment and then its mass was obtained from the
+measured value of the 
+ratio.
+Quantum theory has its origins in Planck’s quantum hypothesis
+that molecular oscillations are quantized: their energy E can only
+be integer (n) multiples of hf, where h is Planck’s constant and
+f is the natural frequency of oscillation:
+(27;3)
+This hypothesis explained the spectrum of radiation 

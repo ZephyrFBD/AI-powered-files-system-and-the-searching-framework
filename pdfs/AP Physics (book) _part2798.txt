@@ -1,0 +1,52 @@
+d eye, with the object at the near point N of the eye (
+for
+a normal eye):
+(25;1)
+where 
+and 
+are shown in Fig. 25–17. We can write M in terms of the focal
+length by noting that
+(Fig. 25–17b) and 
+(Fig. 25–17a), where
+h is the height of the object and we assume the angles are small so 
+and 
+(in
+radians) equal their sines and tangents. If the eye is relaxed (for least eye strain),
+the image will be at infinity and the object will be precisely at the focal point;
+see Fig. 25–18. Then 
+and 
+whereas 
+as before
+(Fig. 25–17b). Thus
+(25;2a)
+We see that the shorter the focal length of the lens, the greater the magnification.†
+c
+eye focused at q;
+N = 25 cm for normal eyed
+M = u¿
+u
+=
+hf
+hN
+= N
+f
+.
+u = hN
+u¿ = hf,
+do = f
+u¿
+u
+u¿ = hdo
+u = hN
+u¿
+u
+M = u¿
+u
+,
+N = 25 cm
+FIGURE 25–16 When the same object
+is viewed at a shorter distance, the
+image on the retina is greater, so the
+object appears larger and more detail
+can be seen. The angle that the object
+subtends in (a) is greater than in (b).

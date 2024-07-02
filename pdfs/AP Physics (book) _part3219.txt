@@ -1,0 +1,29 @@
+so as to function as a single unit. When atoms make such an attachment,
+we say that a chemical bond has been formed. There are two main types of strong
+chemical bond: covalent and ionic. Many bonds are actually intermediate between
+these two types.
+*
+829
+CONTENTS
+*29–1 Bonding in Molecules
+*29–2 Potential-Energy Diagrams 
+for Molecules
+*29–3 Weak (van der Waals) Bonds
+*29–4 Molecular Spectra
+*29–5 Bonding in Solids
+*29–6 Free-Electron Theory of
+Metals; Fermi Energy
+*29–7 Band Theory of Solids
+*29–8 Semiconductors and Doping
+*29–9 Semiconductor Diodes,
+LEDs, OLEDs
+*29–10 Transistors: Bipolar and
+MOSFETs
+*29–11 Integrated Circuits,
+22-nm Technology
+29
+This computer processor chip contains over 1.4 billion transistors, plus diodes and other
+semiconductor electronic elements, all in a space of about 1 cm2. It uses 22-nm
+technology, meaning the “wires” (conducting lines) are 22 nm wide.
+Before discussing semiconductors and their applications, we study the quantum
+theory description of bondi

@@ -1,0 +1,48 @@
+mber.* The 
+trends seen in the graph are a result of two competing forces. 
+On the one hand, increasing effective nuclear charge favors a 
+decrease in radius as we move left to right across each period. 
+ 
+ (Section 7.2) On the other hand, the metallic bonding 
+strength increases until we reach the middle of each period and 
+then decreases as we fill antibonding orbitals. 
+ (Section 12.4) 
+As a general rule, a bond shortens as it becomes stronger. 
+ (Sec-
+tion 8.8) For groups 3B through 6B, these two effects work cooper-
+atively and the result is a marked decrease in radius. In elements to 
+the right of group 6B, the two effects counteract each other, reduc-
+ing the decrease and eventually leading to an increase in radius.
+TABLE 23.2 Properties of the Period 4 Transition Metals
+Group
+3B
+4B
+5B
+6B
+7B
+8B
+1B
+2B
+Element:
+Sc
+Ti
+V
+Cr
+Mn
+Fe
+Co
+Ni
+Cu
+Zn
+Ground-state electron configuration
+3d 14s2
+3d 24s2
+3d 34s2
+3d 54s1
+3d 54s2
+3d 64s2
+3d 74s2
+3d 84s2
+3d 104s1
+3d 104s2
+First ionization energy (

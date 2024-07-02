@@ -1,0 +1,14 @@
+ a 3-prong plug; almost
+no current goes through the person.
+You can get a shock by becoming part of a complete circuit. Figure 19–25
+shows two ways the circuit might be completed when you accidentally touch a
+“hot” electric wire—“hot” meaning a high potential relative to ground such as
+120 V (normal U.S. household voltage) or 240 V (many other countries). The
+other wire of building wiring is connected to ground—either by a wire connected
+to a buried conductor, or via a metal water pipe into the ground. The current in
+Fig. 19–25a passes from the high-voltage wire through you to ground through
+your bare feet, and back along the ground (a fair conductor) to the ground ter-
+minal of the source. If you stand on a good insulator—thick rubber-soled shoes
+or a dry wood floor—there will be much more resistance in the circuit and much
+less current through you. If you stand with bare feet on the ground, or in a bathtub,
+there is lethal danger because the resistance is much less and the current gr

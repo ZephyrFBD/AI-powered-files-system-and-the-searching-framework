@@ -1,0 +1,13 @@
+ is from the Greek for “moving”).
+When an object slides along a rough surface, the force of kinetic friction acts
+opposite to the direction of the object’s velocity. The magnitude of the force of
+kinetic friction depends on the nature of the two sliding surfaces. For given 
+surfaces, experiment shows that the friction force is approximately proportional
+to the normal force between the two surfaces, which is the force that either 
+object exerts on the other and is perpendicular to their common surface of contact
+(see Fig. 4–27). The force of friction between hard surfaces in many cases depends
+very little on the total surface area of contact; that is, the friction force on this book
+is roughly the same whether it is being slid across a table on its wide face or on its
+spine, assuming the surfaces have the same smoothness. We consider a simple model
+of friction in which we make this assumption that the friction force is indepen-
+dent of area. Then we write the proportionality between the

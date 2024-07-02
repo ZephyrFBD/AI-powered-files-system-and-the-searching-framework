@@ -1,0 +1,39 @@
+eparated by a
+distance d, as shown in Fig. 17–41. Determine a formula
+for
+for points B and A on the line between
+the charges situated as shown.
+V
+BA = V
+B - V
+A
+3.6 * 10–15 m.
+±14e,
+1.2 * 10–15 m
+d
+b
++q
+b
+B
+−q
+A
+FIGURE 17–41
+Problem 30.
+31. (III) In the Bohr model of the hydrogen atom, an electron
+orbits a proton (the nucleus) in a circular orbit of radius
+(a) What is the electric potential at the
+electron’s orbit due to the proton? (b) What is the kinetic
+energy of the electron? (c) What is the total energy of the
+electron in its orbit? (d) What is the ionization energy—
+that is, the energy required to remove the electron from the
+atom and take it to
+at rest? Express the results of
+parts (b), (c), and (d) in joules and eV.
+*17–6 Electric Dipoles
+*32. (I) An electron and a proton are 
+apart.
+What is their dipole moment if they are at rest?
+*33. (II) Calculate the electric potential due to a dipole whose
+dipole moment is 
+at a point 
+away if this point is (a) along the axis of the dipol

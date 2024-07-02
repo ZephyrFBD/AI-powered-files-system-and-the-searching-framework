@@ -1,0 +1,24 @@
+
+the curve? [Hint: Consider the direction of the friction
+force when the car goes too slow or too fast.]
+*5;4 Nonuniform Circular Motion
+*24. (I) Determine the tangential and centripetal components 
+of the net force exerted on the car (by the ground) in 
+Example 5–8 when its speed is 
+The car’s mass is 950 kg.
+*25. (II) A car at the Indianapolis 500 accelerates uniformly from
+the pit area, going from rest to 
+in a semicircular
+arc with a radius of 220 m. Determine the tangential and
+radial acceleration of the car when it is halfway through 
+the arc, assuming constant tangential acceleration. If the
+curve were flat, what coefficient of static friction would be
+necessary between the tires and the road to provide this
+acceleration with no slipping or skidding?
+*26. (II) For each of the cases described below, sketch and label
+the total acceleration vector, the radial acceleration vector,
+and the tangential acceleration vector. (a) A car is 
+accelerating from 
+to 
+as it rounds a curve
+of co

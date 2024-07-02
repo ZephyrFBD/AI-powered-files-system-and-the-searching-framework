@@ -1,0 +1,43 @@
+FIGURE 21–24 A dc voltage turned
+on and off as shown in (a) produces
+voltage pulses in the secondary (b).
+Voltage scales in (a) and (b) are not
+the same.
+If the secondary coil contains more loops than the primary coil 
+we have a step-up transformer. The secondary voltage is greater than the primary
+voltage. For example, if the secondary coil has twice as many turns as the primary
+coil, then the secondary voltage will be twice that of the primary voltage. If 
+is
+less than 
+we have a step-down transformer.
+Although ac voltage can be increased (or decreased) with a transformer, we
+don’t get something for nothing. Energy conservation tells us that the power
+output can be no greater than the power input. A well-designed transformer can
+be greater than 99% efficient, so little energy is lost to heat. The power output
+thus essentially equals the power input. Since power 
+(Eq. 18–5), we have
+or (remembering Eq. 21–6),
+(21;7)
+I
+S
+I
+P
+= N
+P
+N
+S
+.
+I
+PV
+P = I
+SV
+S ,
+P = IV
+N
+P,
+N
+S
+AN
+S 7 N
+PB,
+P 

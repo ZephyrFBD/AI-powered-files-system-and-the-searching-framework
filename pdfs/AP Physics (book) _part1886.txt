@@ -1,0 +1,33 @@
+, such as 609, there are
+ten choices for each digit—from 0 to 9—and normal numbers are called decimal
+(Latin for ten). In a binary number, each digit or bit has only two possibilities,
+0 or 1 (sometimes referred to as “off” or “on”). In binary, 0001 means “one,”
+0010 means 2, 0011 means 3, and 1101 means
+in decimal.
+See Table 17–4, and note that counting starts from the right, just as in regular
+decimal (the “ones” digit is last, on the far right, then to the left is the “tens” and
+then “hundreds”: for 609, the “ones” are 9, the “hundreds” are 6). Any value can
+be represented by a voltage pattern something like that shown in Fig. 17–23.
+8 + 4 + 0 + 1 = 13
+FIGURE 17–23 A traveling digital signal:
+voltage vs. position x or time . If standing alone,
+this sequence would represent 10011001 or 153
+0 + 16 + 8 + 0 + 0 + 1).
+(  128 + 0 +
+t
+t   or x
+5 V
+64’s
+128’s
+32’s
+16’s
+8’s
+4’s
+2’s
+1’s
+0
+Voltage
+SECTION 17–10
+489
+For audio CDs, the sampling rate is 44.1 kHz (44,100 samplings every second)
+a

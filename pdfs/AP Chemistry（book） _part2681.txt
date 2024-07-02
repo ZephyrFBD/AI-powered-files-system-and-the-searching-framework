@@ -1,0 +1,24 @@
+tion 16.6, we calculated that a 0.30 M solu-
+tion of CH3COOH has a pH of 2.64, corresponding to 
+3H+4 = 2.3 * 10-3 M. Thus, the addition of CH3COONa has sub-
+stantially decreased 3H+4, as we expect from Le Châtelier’s principle.
+ 
+▶Practice Exercise 1
+For the generic equilibrium HA1aq2 ∆ H+ 1aq2 + A-1aq2, 
+which of these statements is true?
+(a) The equilibrium constant for this reaction changes as the 
+pH changes.
+(b) If you add the soluble salt KA to a solution of HA that is at 
+equilibrium, the concentration of HA would decrease.
+(c) If you add the soluble salt KA to a solution of HA that is at 
+equilibrium, the concentration of A- would decrease.
+(d) If you add the soluble salt KA to a solution of HA that is at 
+equilibrium, the pH would increase.
+ 
+▶Practice Exercise 2
+Calculate the pH of a solution containing 0.085 M nitrous 
+acid 1HNO2, Ka = 4.5 * 10-42 and 0.10 M potassium nitrite 
+1KNO22.
+Now we can use the equilibrium-constant expression:
+720 
+CHAPTER 17 Additional Aspects of 

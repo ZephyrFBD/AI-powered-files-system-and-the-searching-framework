@@ -1,0 +1,13 @@
+ect and the table, then almost no force is required to keep the object
+moving. Notice that in each successive step, less force is required. As the next 
+step, we imagine there is no friction at all, that the object does not rub against the
+table—or there is a perfect lubricant between the object and the table—and
+theorize that once started, the object would move across the table at constant
+speed with no force applied. A steel ball bearing rolling on a hard horizontal
+surface approaches this situation. So does a puck on an air table, in which a thin
+layer of air reduces friction almost to zero.
+It was Galileo’s genius to imagine such an idealized world—in this case, one
+where there is no friction—and to see that it could lead to a more accurate and
+richer understanding of the real world. This idealization led him to his remark-
+able conclusion that if no force is applied to a moving object, it will continue to
+move with constant speed in a straight line. An object slows down only if a 

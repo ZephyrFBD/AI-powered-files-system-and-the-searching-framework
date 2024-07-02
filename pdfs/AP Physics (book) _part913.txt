@@ -1,0 +1,54 @@
+reat that
+the object is seriously deformed, or it may even fracture (break)—and avoiding
+such problems gives this field of statics even greater importance.
+= not moving
+F
+B
+A
+F
+B
+B
+F
+B.
+F
+A
+F
+B
+B
+F
+B
+A
+F
+A.
+F
+B
+F
+A.
+F
+B
+F
+B
+B
+F
+B
+A
+9
+C
+H
+A
+P
+T
+E
+R
+SECTION 9–1
+The Conditions for Equilibrium
+231
+Statics is concerned with the calculation of the forces acting on and within
+structures that are in equilibrium. Determination of these forces, which occupies
+us in the first part of this Chapter, then allows a determination of whether the
+structures can sustain the forces without significant deformation or fracture, sub-
+jects we discuss later in this Chapter. These techniques can be applied in a wide
+range of fields. Architects and engineers must be able to calculate the forces on
+the structural components of buildings, bridges, machines, vehicles, and other
+structures, since any material will buckle or break if too much force is applied
+(Fig. 9–1). In the human body a knowledge of the forces i

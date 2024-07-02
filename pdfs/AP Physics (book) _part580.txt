@@ -1,0 +1,29 @@
+r on
+the backpack, we use Eq. 6–1, where is shown in Fig. 6–4c,
+and we note from Fig.6–4a that  
+So the work done by the hiker is
+The work done depends only on the elevation change and not on the angle of the
+hill,
+The hiker would do the same work to lift the pack vertically by height h.
+(b) The work done by gravity on the backpack is (from Eq. 6–1 and Fig. 6–4c)
+Since  
+(Appendix A–7), we have
+NOTE The work done by gravity (which is negative here) does not depend on the
+angle of the incline, only on the vertical height h of the hill.
+5. Net work done.(c) The net work done on the backpack is  
+because the
+net force on the backpack is zero (it is assumed not to accelerate significantly).
+We can also get the net work done by adding the work done by each force:
+NOTE Even though the net work done by all the forces on the backpack is zero,
+the hiker does do work on the backpack equal to 1470 J.
+W
+net = W
+G + W
+H =
+–1470 J + 1470 J = 0.
+W
+net = 0,
+=
+–(15.0 kg)A9.80 ms2B(10.0 m) =
+–1470 J.
+=

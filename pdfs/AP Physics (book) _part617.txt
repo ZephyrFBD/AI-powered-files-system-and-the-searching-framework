@@ -1,0 +1,13 @@
+f the two remains constant. At the bottom of the hill it has 
+its maximum kinetic energy, and as it climbs up the other side the kinetic 
+energy changes back to potential energy. When the car comes to rest again at 
+the same height from which it started, all of its energy will be potential energy.
+Given that the gravitational potential energy is proportional to the vertical height,
+energy conservation tells us that (in the absence of friction) the car comes to rest
+at a height equal to its original height. If the two hills are the same height, the car
+will just barely reach the top of the second hill when it stops. If the second hill is
+lower than the first, not all of the car’s kinetic energy will be transformed to poten-
+tial energy and the car can continue over the top and down the other side. If the
+second hill is higher, the car will reach a maximum height on it equal to its original
+height on the first hill. This is true (in the absence of friction) no matter how steep
+the hill i

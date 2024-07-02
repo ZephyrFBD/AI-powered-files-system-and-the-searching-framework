@@ -1,0 +1,30 @@
+O1l2 ¡ CNO-1aq2 + 2 H+1aq2 + 2 e-
+3 e- + 4 H+1aq2 + MnO4
+-1aq2 ¡ MnO21s2 + 2 H2O1l2
+CN-1aq2 + H2O1l2 + 2 OH-1aq2 ¡ CNO-1aq2 + 2 H2O1l2 + 2 e-
+3 e- + 4 H2O1l2 + MnO4
+-1aq2 ¡ MnO21s2 + 2 H2O1l2 + 4 OH-1aq2
+SOLUTION
+Sample Exercise 20.3 
+Balancing Redox Equations in Basic Solution
+Step 2: We balance each half-reaction 
+as if it took place in acidic solution:
+Now we must take into account that 
+the reaction occurs in basic solution, 
+adding OH- to both sides of both 
+half-reactions to neutralize H+:
+We “neutralize” H+ and OH- by form-
+ing H2O when they are on the same 
+side of either half-reaction:
+Next, we cancel water molecules that 
+appear as both reactants and products:
+CN-1aq2 + 2 OH-1aq2 ¡ CNO-1aq2 + H2O1l2 + 2 e-
+3 e- + 2 H2O1l2 + MnO4
+-1aq2 ¡ MnO21s2 + 4 OH-1aq2
+Step 3: We multiply the cyanide half- 
+reaction by 3, which gives six electrons 
+on the product side, and multiply 
+the permanganate half-reaction by 
+2, which gives six electrons on the 
+reactant side:
+3 CN-1aq2 + 6 OH-1aq

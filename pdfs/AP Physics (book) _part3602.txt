@@ -1,0 +1,106 @@
+charge is conserved.
+Baryon number:
+so baryon number is conserved.
+(b) Energy: for
+the mass-energy change is
+This reaction releases 110.2 MeV of energy as kinetic energy of the products.
+Charge:
+so charge is conserved.
+Baryon number:
+so baryon number is conserved.
+±1 = ±1 + 0,
+±e = 0 + e,
+= 1189.4 MeV - 939.6 MeV - 139.6 MeV =
+±110.2 MeV.
+¢(Mc2) = m© c2 - mnc2 - mp±c2
+©± S n + p±,
+±1 = ±1 + 0,
+±e = ±e + 0,
+= 1189.4 MeV - 938.3 MeV - 135.0 MeV =
+±116.1 MeV,
+¢(Mc2) = m© c2 - mpc2 - mp0 c2
+©± S p + p0
+©± S n + p±.
+©± S p + p0,
+©±
+EXAMPLE 32;6
+SECTION 32–6
+931
+TABLE 32–2 Particles (selected)†
+Forces 
+Particle
+Anti-
+Mass 
+B
+Le
+LM
+LT
+S
+Mean life 
+Category
+involved
+name
+Symbol
+particle Spin
+[antiparticles have opposite sign]
+(s)
+Principal Decay Modes
+Fundamental
+Gauge bosons str
+Gluons
+g
+Self
+1
+0
+0
+0
+0
+0
+0
+Stable
+(force
+em
+Photon
+Self
+1
+0
+0
+0
+0
+0
+0
+Stable
+carriers)
+w, em
+W
+1
+0
+0
+0
+0
+0
+hadrons
+w
+Z
+Self
+1
+0
+0
+0
+0
+0
+hadrons
+Higgs boson
+w, str
+Higgs
+Self
+0
+0
+0
+0
+0
+0
+Leptons
+w, em‡
+Electron
+0.511

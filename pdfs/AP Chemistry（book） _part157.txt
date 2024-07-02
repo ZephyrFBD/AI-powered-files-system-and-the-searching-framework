@@ -1,0 +1,18 @@
+ow many picometers are there in 1 m? (b) Express 
+6.0 * 103 m using a prefix to replace the power of ten.  
+(c) Use exponential notation to express 4.22 mg in grams.  
+(d) Use decimal notation to express 4.22 mg in grams.
+SOLUTION
+We can find the prefix related to each power of ten in Table 1.4:  
+(a) nanogram, ng; (b) microsecond, ms; (c) millimeter, mm.
+ 
+▶Practice Exercise 1
+Which of the following weights would you expect to be  
+suitable for weighing on an ordinary bathroom scale?  
+*Mass and weight are not the same. Mass is a measure of the amount of matter; weight is the 
+force exerted on this mass by gravity. For example, an astronaut weighs less on the Moon than 
+on Earth because the Moon’s gravitational force is less than Earth’s. The astronaut’s mass on the 
+Moon, however, is the same as it is on Earth.
+Temperature
+Temperature, a measure of the hotness or coldness of an object, is a physical property that 
+determines the direction of heat flow. Heat always flows spontaneously

@@ -1,0 +1,33 @@
+ron-to-proton ratio of 
+1.25. Elements with Z 6 20 normally have stable nuclei that 
+contain approximately equal numbers of neutrons and pro-
+tons 1n/p = 12. Thus, carbon-14 is located above the belt of 
+stability, and we expect it to decay by emitting a beta particle 
+to decrease the n/p ratio:
+14
+6C ¡ 14
+7N +
+0
+-1e
+This is indeed the mode of decay observed for carbon-14, a 
+reaction that lowers the n/p ratio from 1.25 to 1.0.
+(b) Xenon is element 54. Thus, xenon-118 has 54 protons and 
+118 - 54 = 64 neutrons, giving it an n/p ratio of 1.18. 
+According to Figure 21.1, stable nuclei in this region of the belt 
+of stability have higher neutron-to-proton ratios than  
+xenon-118. The nucleus can increase this ratio by either posi-
+tron emission or electron capture:
+ 
+118
+54Xe ¡ 118
+53I + 0
++1e
+ 
+118
+54Xe +
+0
+-1e ¡ 118
+53I
+In this case, both modes of decay are observed.
+Comment Keep in mind that our guidelines do not always work. 
+For example, thorium-233, which we might expect to undergo 

@@ -1,0 +1,15 @@
+s Chapter,
+is one of several great conservation laws in physics. Among the other quan-
+tities found to be conserved are linear momentum, angular momentum, and
+electric charge. We will eventually discuss all of these because the conservation laws
+are among the most important ideas in science. In this Chapter we discuss linear
+momentum and its conservation. The law of conservation of momentum is essen-
+tially a reworking of Newton’s laws that gives us tremendous physical insight and
+problem-solving power.
+The law of conservation of momentum is particularly useful when dealing with
+a system of two or more objects that interact with each other, such as in collisions
+of ordinary objects or nuclear particles.
+Our focus up to now has been mainly on the motion of a single object, often
+thought of as a “particle” in the sense that we have ignored any rotation or internal
+motion. In this Chapter we will deal with systems of two or more objects, and—toward
+the end of the Chapter—the concept of ce

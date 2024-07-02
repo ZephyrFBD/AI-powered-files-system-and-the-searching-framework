@@ -1,0 +1,23 @@
+om the power plant before power loss is 50%?
+Assume the wires have a resistance per unit length of
+36. (II) For the electric power transmission system shown in
+Fig. 21–25, what is the ratio 
+for (a) the step-up trans-
+former, (b) the step-down transformer next to the home?
+37. (III) Suppose 2.0 MW is to arrive at a large shopping mall
+over two 
+lines. Estimate how much power is saved
+if the voltage is stepped up from 120 V to 1200 V and then
+down again, rather than simply transmitting at 120 V.
+Assume the transformers are each 99% efficient.
+38. (III) Design a dc transmission line that can transmit 925 MW
+of electricity 185 km with only a 2.5% loss. The wires are to
+be made of aluminum and the voltage is 660 kV.
+*21–10 Inductance
+*39. (I) If the current in a 160-mH coil changes steadily from
+25.0 A to 10.0 A in 350 ms, what is the magnitude of the
+induced emf?
+*40. (I) What is the inductance of a coil if the coil produces an emf
+of 2.50 V when the current in it changes from 
+to
+in 14.0

@@ -1,0 +1,27 @@
+rk is done on the system. What is the change in internal energy
+of the system?
+APPROACH We apply the first law of thermodynamics, Eq. 15–1, to our system.
+SOLUTION The heat added to the system is 
+The work W done
+by the system is 
+Why the minus sign? Because 1800 J done on the
+system (as given) equals 
+done by the system, and it is the latter we need
+for the sign conventions we used for Eq. 15–1. Hence
+NOTE We did this calculation in detail to emphasize the importance of keeping
+careful track of signs. Both the heat and the work are inputs to the system, so we
+expect 
+to be increased by both.
+¢U
+¢U = 2500 J - (–1800 J) = 2500 J + 1800 J = 4300 J.
+–1800 J
+–1800 J.
+Q = 2500 J.
+EXAMPLE 15;1
+EXERCISE A What would be the internal energy change in Example 15–1 if 2500 J of
+heat is added to the system and 1800 J of work is done by the system (i.e., as output)?
+414
+CHAPTER 15
+The Laws of Thermodynamics
+The First Law of Thermodynamics Extended
+To write the first law of thermodynamics in a more 

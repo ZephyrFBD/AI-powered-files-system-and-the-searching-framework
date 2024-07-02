@@ -1,0 +1,49 @@
+, and by how much?
+(a) Fred, twice as much.
+(b) Jane, twice as much.
+(c) Fred, four times as much.
+(d) Jane, four times as much.
+(e) They are attracted to each other by the same 
+amount.
+4. Figure 16–50 shows electric field lines due to a point charge.
+What can you say about the field at point 1 compared with
+the field at point 2?
+(a) The field at point 2 is larger, because point 2 is on a
+field line.
+(b) The field at point 1 is larger, because point 1 is not on
+a field line.
+(c) The field at point 1 is zero, because point 1 is not on a
+field line.
+(d) The field at point 1 is larger, because the field lines are
+closer together in that region.
+–2q.
+3
+4 m
+±q.
+±x
+–x
+–x
+±x
+Q2?
+Q1
+Q2
+Q1
+–x
+±x
+–x
+±x
+Q2
+Q1
+x = 1.0 m.
+Q2 = ±0.10 mC
+Q1 = –0.10 mC
+MisConceptual Questions
++
+2
+1
+FIGURE 16–50
+MisConceptual Question 4.
+5. A negative point charge is in an electric field created by 
+a positive point charge. Which of the following is true?
+(a) The field points toward the positive charge, and the
+force 

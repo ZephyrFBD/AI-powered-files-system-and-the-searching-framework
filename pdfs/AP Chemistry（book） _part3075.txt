@@ -1,0 +1,22 @@
+eous at low T; nonspontaneous at high T
+H2O1l2 ¡ H2O1s2
++
++
+-
++ or -
+Spontaneous at high T; nonspontaneous at low T
+H2O1s2 ¡ H2O1l2
+ 
+SECTION 19.6  Free Energy and Temperature 
+831
+positive enthalpy term dominates, and ∆G is positive. This positive value of ∆G means 
+that ice melting is not spontaneous at T 6 0 °C, just as our everyday experience tells us; 
+rather, the reverse process, the freezing of liquid water into ice, is spontaneous at these 
+temperatures.
+What happens at temperatures greater than 0 °C? As T increases, so does the magni-
+tude of -T∆S. When T 7 0 °C, the magnitude of -T∆S is greater than the magnitude of 
+∆H, which means that the -T∆S term dominates and ∆G is negative. The negative value 
+of ∆G tells us that ice melting is spontaneous at T 7 0 °C.
+At the normal melting point of water, T = 0 °C, the two phases are in equilibrium. 
+Recall that ∆G = 0 at equilibrium; at T = 0 °C, ∆H and -T∆S are equal in magnitude 
+and opposite in sign, so they cancel and give ∆G = 0

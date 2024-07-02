@@ -1,0 +1,21 @@
+t landed in the new world.”
+FIGURE 31–5 Chain reaction.
+Nuclear Reactors
+Several problems have to be overcome to make any nuclear reactor function.
+First, the probability that a 
+nucleus will absorb a neutron is large only for
+slow neutrons, but the neutrons emitted during a fission (which are needed to
+sustain a chain reaction) are moving very fast. A substance known as a moderator
+must be used to slow down the neutrons. The most effective moderator will
+consist of atoms whose mass is as close as possible to that of the neutrons. (To see
+why this is true, recall from Chapter 7 that a billiard ball striking an equal mass
+ball at rest can itself be stopped in one collision; but a billiard ball striking a
+heavy object bounces off with nearly unchanged speed.) The best moderator
+would thus contain 
+Unfortunately,
+tends to absorb neutrons. But
+the isotope of hydrogen called deuterium,
+does not absorb many neutrons
+and is thus an almost ideal moderator. Either 
+or 
+can be used in the form o

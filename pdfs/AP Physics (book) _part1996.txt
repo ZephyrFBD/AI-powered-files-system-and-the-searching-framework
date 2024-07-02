@@ -1,0 +1,57 @@
+ current and voltage that is specified or measured. For example, in the
+United States and Canada, standard line voltage is 120-V ac. The 120 V is 
+the peak voltage 
+is (Eq. 18–8b)
+In much of the world (Europe, Australia, Asia) the rms voltage is 240 V, so the
+peak voltage is 340 V. The line voltage can vary, depending on the total load; the
+frequency of 60 Hz or 50 Hz, however, remains extremely steady.
+V
+0 =
+22 V
+rms = 170 V.
+V
+0
+V
+rms ;
+P =
+1
+2
+V0
+2
+R
+= Vrms
+2
+R
+.
+P =
+1
+2 I0
+2 R = Irms
+2
+R
+P = I
+rmsV
+rms
+SECTION 18–7
+Alternating Current
+515
+Motor
+Heating
+coils
+Switch
+Cord
+Fan
+FIGURE 18–23 A hair dryer. Most
+of the current goes through the
+heating coils, a pure resistance;
+a small part goes to the motor to turn
+the fan. Example 18–13.
+Hair dryer. (a) Calculate the resistance and the peak cur-
+rent in a 1500-W hair dryer (Fig. 18–23) connected to a 120-V ac line. (b) What
+happens if it is connected to a 240-V ac line in Britain?
+APPROACH We are given 
+and 
+so
+(Eq. 18–9a or 18–5),
+and
+T

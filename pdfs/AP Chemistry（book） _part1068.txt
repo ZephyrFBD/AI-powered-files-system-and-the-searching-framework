@@ -1,0 +1,12 @@
+tron atom, the energies of orbitals with the same n value 
+increase with increasing l value. For example, in the carbon atom, whose electron con-
+figuration is 1s22s22p2, the energy of the 2p orbital 1l = 12 is higher than that of the 2s 
+orbital 1l = 02, even though both orbitals are in the n = 2 shell (Figure 6.25). This differ-
+ence in energies is due to the radial probability functions for the orbitals (Figure 7.4). We 
+see first that the 1s electrons are much closer to the nucleus—they serve as an effective 
+“lampshade” for the 2s and 2p electrons. Notice next that the 2s probability function has 
+a small peak fairly close to the nucleus, whereas the 2p probability function does not. As 
+a result, a 2s electron is not screened as much by the core orbitals as is a 2p electron. The 
+greater attraction between the 2s electron and the nucleus leads to a lower energy for the 
+2s orbital than for the 2p orbital. The same reasoning explains the general trend in orbital 
+energies 1ns 6 np

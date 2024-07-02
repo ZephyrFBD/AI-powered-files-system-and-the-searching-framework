@@ -1,0 +1,42 @@
+Show
+your reasoning.
+12. (III) The PV diagram in Fig.15–23 shows two possible states
+of a system containing 1.75 moles of a monatomic ideal
+gas.
+(a) Draw the process which depicts an isobaric expansion from
+state 1 to state 2, and label this process A. (b) Find the work
+done by the gas and the change in internal energy of the gas in
+process A. (c) Draw the two-step process which depicts an
+isothermal expansion from state 1 to the volume 
+followed
+by an isovolumetric increase in temperature to state 2, and
+label this process B.
+(d) Find the change
+in internal energy
+of the gas for the
+two-step process B.
+V
+2 ,
+8.00 m3.B
+V
+2 =
+V
+1 = 2.00 m3,
+AP
+1 = P
+2 = 425 Nm2,
+13. (III) When a gas is taken from a to c along the curved path
+in Fig. 15–24, the work done by the gas is 
+and
+the heat added to the gas is 
+Along path abc,
+the work done by the gas is 
+(That is, 56 J of
+work is done on the gas.) (a) What is Q for path abc?
+(b) If
+what
+is W for path cda?
+(c) What is Q
+for
+path cda? (d) What 
+i

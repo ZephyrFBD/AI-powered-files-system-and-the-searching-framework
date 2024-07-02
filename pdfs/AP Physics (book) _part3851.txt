@@ -1,0 +1,22 @@
+specific heats for gases depend on how the thermodynamic process
+is carried out. Two important processes are those in which either the volume or
+the pressure is kept constant, and Table D–1 shows how different they can be.
+The difference in specific heats for gases is nicely explained in terms of the
+first law of thermodynamics and kinetic theory. For gases we usually use molar
+specific heats,
+and 
+which are defined as the heat required to raise 1 mol of
+a gas by 1 K (or 1 C°) at constant volume and at constant pressure, respectively. In
+analogy to Eq. 14–2, the heat Q needed to raise the temperature of n moles of gas
+by 
+is
+(D;1a)
+(D;1b)
+We can see from the definition of molar specific heat (compare Eqs.14–2 and D–1)
+that
+where M is the molecular mass of the gas (
+in 
+).† The values
+for molar specific heats are included in Table D–1. These values are nearly the
+same for different gases that have the same number of atoms per molecule.
+Now we use kinetic theory and imagine that an ideal

@@ -1,0 +1,37 @@
+peated.)
+FIGURE 24–34 Soap bubble,
+Example 24–11. The incident and
+reflected rays are assumed to be
+perpendicular to the bubble’s
+surface. They are shown at a slight
+angle so we can distinguish them.
+n = 1.00
+n = 1.00
+n = 1.35
+t
+Reflected rays
+Incident ray
+Bubble
+interior
+Outside air
+C A U T I O N
+A formula is not enough: you must also
+check for phase changes at surfaces
+†Why? Recall that red starts at 600 nm in air; so most colors in the spectrum lie between 450 nm and
+600 nm in air; but in water the wavelengths are 
+times smaller, 340 nm to 450 nm, so a
+100-nm thickness is a 200-nm path difference, not far from 
+for most colors.
+l2
+n = 1.33
+Farther down in Fig. 24–29b, with increasing thickness , a path difference
+corresponds nicely to 
+for blue, but not for other colors, so we see
+blue (
+path difference plus 
+phase 
+interference). Other
+colors experience constructive interference (at 
+and then at 
+) at still greater
+thicknesses, so going down we see a series of separated colors som

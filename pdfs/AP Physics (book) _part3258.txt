@@ -1,0 +1,13 @@
+. Metal atoms have relatively
+loosely held outer electrons. Metallic bond theories propose that in a metallic
+solid, these outer electrons roam rather freely among all the metal atoms which,
+without their outer electrons, act like positive ions. According to the theory, the
+electrostatic attraction between the metal ions and this negative electron “gas” is
+responsible, at least in part, for holding the solid together. The binding energy of
+metal bonds is typically 1 to 3 eV, somewhat weaker than ionic or covalent bonds
+(5 to 10 eV in solids). The “free electrons” are responsible for the high electrical
+and thermal conductivity of metals. This theory also nicely accounts for the
+shininess of smooth metal surfaces: the free electrons can vibrate at any frequency,
+so when light of a range of frequencies falls on a metal, the electrons can vibrate
+in response and re-emit light of those same frequencies. Hence, the reflected
+light will consist largely of the same frequencies as the incident

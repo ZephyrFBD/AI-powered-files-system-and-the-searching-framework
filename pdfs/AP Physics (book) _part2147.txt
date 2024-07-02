@@ -1,0 +1,39 @@
+3.25 k
+R
+R
+R
+S
+r
+e
+FIGURE 19–51
+Problem 22.
+15. (II) Eight 7.0-W Christmas tree lights are connected in
+series to each other and to a 120-V source. What is the
+resistance of each bulb?
+16. (II) Determine (a) the equivalent resistance of the circuit
+shown in Fig.19–48, (b) the voltage across each resistor, and
+(c) the current through
+each resistor.
+FIGURE 19–50
+Problems 19 and 20.
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+R1
+R2
+R3
+e1
+e2
+FIGURE 19–56
+Problem 28.
+Problems
+553
+23. (III) A 
+and a 
+resistor are connected in
+parallel; this combination is connected in series with a
+resistor. If each resistor is rated at 0.5 W (maximum
+without overheating), what is the maximum voltage that
+can be applied across the whole network?
+24. (III) Consider the network of resistors shown in Fig. 19–52.
+Answer qualitatively: (a) What happens to the voltage across
+each resistor when the switch S is closed? (b) What happens
+to the current through each when the

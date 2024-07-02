@@ -1,0 +1,15 @@
+
+ 
+Coenzymes are organic cofactors that usually function to donate or accept some component of a reaction, often
+electrons. Some vitamins are coenzymes or components of coenzymes.
+Inorganic cofactors are often metal ions, like Fe2+ and Mg2+.
+4. ATP (adenosine triphosphate) is a common source of activation energy for metabolic reactions (Figure 2-13).
+ATP is essentially an RNA adenine nucleotide with two additional phosphate groups. When ATP releases its energy,
+a hydrolysis reaction breaks the last phosphate bond of the ATP molecule to form ADP (adenosine di phosphate)
+and an inorganic phosphate group (Pi), like this:
+ATP + H2O → ADP + Pi + energy
+In the reverse dehydration reaction, new ATP molecules are assembled by phosphorylation when ADP combines
+with a phosphate group using energy obtained from some energy-rich molecule (like glucose).
+Figure 2-13
+How do living systems regulate chemical reactions? How do they know when to start a reaction and when to shut it
+off? One way of regul

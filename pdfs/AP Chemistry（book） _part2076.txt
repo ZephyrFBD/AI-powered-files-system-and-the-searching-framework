@@ -1,0 +1,22 @@
+.976
+SOLUTION
+Sample Exercise 13.7 
+Calculation of Vapor Pressure of a Solution
+Plan We can use Raoult’s law (Equation 13.10) to calculate the 
+vapor pressure of a solution. The mole fraction of the solvent in 
+the solution, Xsolvent, is the ratio of the number of moles of solvent 
+1H2O2 to total moles of solution 1moles C3H8O3 + moles H2O2.
+We now use Raoult’s law to calculate the 
+vapor pressure of water for the solution:
+P
+H2O = XH2O P°
+H2O = 10.9762123.8 torr2 = 23.2 torr 
+544 
+CHAPTER 13 Properties of Solutions
+An ideal gas is defined as one that obeys the ideal-gas equation 
+ (Section 10.4), 
+and an ideal solution is defined as one that obeys Raoult’s law. Whereas ideality for 
+a gas arises from a complete lack of intermolecular interaction, ideality for a solution 
+implies total uniformity of interaction. The molecules in an ideal solution all influence 
+one another in the same way—in other words, solute–solute, solvent–solvent, and solute– 
+solvent interactions are indistinguis

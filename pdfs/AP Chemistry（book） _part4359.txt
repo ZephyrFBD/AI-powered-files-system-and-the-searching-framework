@@ -1,0 +1,20 @@
+)
+troposphere The region of Earth’s atmosphere extending from 
+the surface to about 10 km altitude. (Section 18.1)
+Tyndall effect The scattering of a beam of visible light by the 
+particles in a colloidal dispersion. (Section 13.6)
+uncertainty principle A principle stating there is an inherent 
+uncertainty in the precision with which we can simultaneously 
+specify the position and momentum of a particle. This 
+uncertainty is significant only for particles of extremely small 
+mass, such as electrons. (Section 6.4)
+unimolecular reaction An elementary reaction that involves a 
+single molecule. (Section 14.6)
+unit cell The smallest portion of a crystal that reproduces 
+the structure of the entire crystal when repeated in different 
+directions in space. It is the repeating unit or building block of 
+the crystal lattice. (Section 12.2)
+unsaturated solution A solution containing less solute than a 
+saturated solution. (Section 13.2)
+valence band A band of closely spaced bonding molecular 
+orb

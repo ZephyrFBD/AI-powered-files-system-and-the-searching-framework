@@ -1,0 +1,23 @@
+ 4 
+days is 1.00 mg. The amount of 125I remaining after 4 days is 0.96 mg. 
+ 
+14.103 (a) The plot of 1>3C5H64 versus time is linear and the 
+reaction is second order. (b) 
+k = 0.167 M-1 s-1 14.107 (a) 
+When the two elementary reactions are added, N2O2(g) appears 
+on both sides and cancels, resulting in the overall reaction. 
+2 NO(g) + H2(g) ¡ N2O(g) + H2O(g) 
+(b) 
+First 
+reaction, 
+-3NO4  >  ∆t = k3NO42, second reaction, -3H24>∆t = k3H243N2O24 (c) 
+N2O2 is the intermediate. (d) Because 3H24 appears in the rate law, the 
+second step must be slow relative to the ﬁrst. 
+14.110 (a) Cl2(g) + CHCl3(g) ¡ HCl(g) +  CCl4(g) (b) Cl(g), 
+CCl3(g) (c) reaction 1, unimolecular; reaction 2, bimolecu-
+lar; reaction 3, bimolecular (d) Reaction 2 is rate determin-
+ing. (e) Rate = k3CHCl343Cl241>2. 14.115 The enzyme must 
+14.25 (a) - ∆3O24>∆t = 0.24 mol  >  s; ∆3H2O4>∆t = 0.48 mol  >  s 
+(b) P
+total decreases by 28 torr  >  min . 14.27 (a) If [A] doubles, there is 
+no change in the rate or the rate const

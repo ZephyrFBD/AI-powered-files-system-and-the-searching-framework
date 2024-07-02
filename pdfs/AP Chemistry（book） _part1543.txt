@@ -1,0 +1,29 @@
+n a number of new concepts, including 
+the delocalization of p systems of molecules and the molecular 
+orbital description of molecular bonding. A connection between 
+these concepts is provided by the field of organic dyes, molecules 
+with delocalized p systems that have color. The color is due to the 
+excitation of an electron from the highest occupied molecular orbital 
+(HOMO) to the lowest unoccupied molecular orbital (LUMO). It is hy-
+pothesized that the energy gap between the HOMO and the LUMO 
+depends on the length of the p system. Imagine that you are given 
+samples of the following substances to test this hypothesis:
+H
+C
+H
+C
+C
+C
+H
+H
+H
+H
+or, in shorthand notation
+for organic molecules
+b-carotene
+butadiene
+hexatriene
+b-Carotene is the substance chiefly responsible for the bright orange 
+color of carrots. It is also an important nutrient for the body’s pro-
+duction of retinal (see the “Chemistry and Life” box in Section 9.6). 
+(a) What experiments could you design to determine the

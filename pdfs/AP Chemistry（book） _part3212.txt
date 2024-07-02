@@ -1,0 +1,26 @@
+ns:
+Ni1s2 + 2 Ag+1aq2 ¡ Ni2+1aq2 + 2 Ag1s2
+In this reaction, Ni is oxidized and Ag+ is reduced. Therefore, the standard emf for the 
+reaction is
+ 
+E ° = E °
+red 1Ag+
+>Ag2 - E °
+red1Ni2+
+>Ni2
+ = 1+0.80 V2 - 1-0.28 V2 = +1.08 V
+The positive value of E° indicates that the displacement of silver by nickel resulting 
+from oxidation of Ni metal and reduction of Ag+ is a spontaneous process. Remember 
+that although we multiply the silver half-reaction by 2, the reduction potential is not 
+multiplied.
+Give It Some Thought
+Based on their relative positions in Table 4.5, which will have a more positive 
+standard reduction potential, Sn2+ or Ni2+?
+Emf, Free Energy, and the Equilibrium Constant
+The change in the Gibbs free energy, ∆G, is a measure of the spontaneity of a process that 
+occurs at constant temperature and pressure. 
+ (Section 19.5) The emf, E, of a redox 
+reaction also indicates whether the reaction is spontaneous. The relationship between 
+emf and the free-energy change is
+ 
+∆G = -n

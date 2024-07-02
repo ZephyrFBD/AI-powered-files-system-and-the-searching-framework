@@ -1,0 +1,25 @@
+hydrogen–oxygen mix-
+tures is used in liquid-fuel rocket engines such as those of the Space Shuttle. The hydro-
+gen and oxygen are stored at low temperatures in liquid form.
+Production of Hydrogen
+When a small quantity of H2 is needed in the laboratory, it is usually obtained by the reac-
+tion between an active metal such as zinc and a dilute strong acid such as HCl or H2SO4:
+ 
+Zn1s2 + 2 H+1aq2 ¡ Zn2 +1aq2 + H21g2 
+[22.7]
+Large quantities of H2 are produced by reacting methane with steam at 1100 °C. We 
+can view this process as involving two reactions:
+ 
+CH41g2 + H2O1g2 ¡ CO1g2 + 3 H21g2 
+[22.8]
+ 
+CO1g2 + H2O1g2 ¡ CO21g2 + H21g2 
+[22.9]
+Carbon heated with water to about 1000 °C is another source of H2:
+ 
+C1s2 + H2O1g2 ¡ H21g2 + CO1g2 
+[22.10]
+This mixture, known as water gas, is used as an industrial fuel.
+Electrolysis of water consumes too much energy and is consequently too costly to be 
+used commercially to produce H2. However, H2 is produced as a by-product in the electrol-
+ysis of

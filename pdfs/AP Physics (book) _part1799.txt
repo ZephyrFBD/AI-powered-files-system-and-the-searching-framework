@@ -1,0 +1,42 @@
+ each
+exert an attractive force on the other. If the two charges are
+the same type, each repels the other.
+The magnitude of the force one point charge exerts on
+another is proportional to the product of their charges, and
+inversely proportional to the square of the distance between
+them:
+(16;1, 16;2)
+this is Coulomb’s law.
+We think of an electric field as existing in space around any
+charge or group of charges. The force on another charged object
+is then said to be due to the electric field present at its location.
+The electric field,
+, at any point in space due to one or
+more charges, is defined as the force per unit charge that would
+act on a tiny positive test charge q placed at that point:
+(16;3)
+E
+B
+= F
+B
+q
+.
+E
+B
+F = k Q1 Q2
+r2
+=
+1
+4p0
+Q1Q2
+r2
+;
+–e.
+±e
+–e = –1.60 * 10–19 C.
+The magnitude of the electric field a distance r from a point
+charge Q is
+(16;4a)
+The total electric field at a point in space is equal to the
+vector sum of the individual fields due to each contributing
+charg

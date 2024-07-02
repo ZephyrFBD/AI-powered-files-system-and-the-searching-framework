@@ -1,0 +1,23 @@
+ice, you observe that the current increases by a factor
+of 3. What can you conclude?
+(a) Ohm’s law is obeyed, because the current increases
+when V increases.
+(b) Ohm’s law is not obeyed in this case.
+(c) This situation has nothing to do with Ohm’s law.
+10. Nothing happens when birds land on a power line, yet we
+are warned not to touch a power line with a ladder. What
+is the difference?
+(a) Birds have extremely high internal resistance 
+compared to humans.
+(b) There is little to no voltage drop between a bird’s two
+feet, but there is a significant voltage drop between
+the top of a ladder touching a power line and the
+bottom of the ladder on the ground.
+(c) Dangerous current comes from the ground only.
+(d) Most birds don’t understand the situation.
+11. When a light switch is turned on, the light comes on imme-
+diately because
+(a) the electrons coming from the power source move
+through the initially empty wires very fast.
+(b) the electrons already in the wire are instantly “pushed”
+by a v

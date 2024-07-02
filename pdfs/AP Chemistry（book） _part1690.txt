@@ -1,0 +1,24 @@
+igure, calculate the fraction of 
+the volume in a container actually occupied by Ar atoms 
+(a) at STP
+, (b) at 200 atm pressure and 0 °C. (Assume for 
+simplicity that the ideal-gas equation still holds.)
+ 
+[10.117]   
+Large amounts of nitrogen gas are used in the manufac-
+ture of ammonia, principally for use in fertilizers. Suppose 
+120.00 kg of N21g2 is stored in a 1100.0-L metal cylinder 
+at 280 °C. (a) Calculate the pressure of the gas, assuming 
+ideal-gas behavior. (b) By using the data in Table 10.3, 
+calculate the pressure of the gas according to the van der 
+Waals equation. (c) Under the conditions of this problem, 
+which correction dominates, the one for finite volume of 
+gas molecules or the one for attractive interactions?
+ 
+10.118 
+ 
+Cyclopropane, a gas used with oxygen as a general anes-
+thetic, is composed of 85.7% C and 14.3% H by mass. (a) 
+If 1.56 g of cyclopropane has a volume of 1.00 L at 0.984 
+atm and 50.0 °C, what is the molecular formula of cyclo-
+propane? (b) Jud

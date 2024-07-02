@@ -1,0 +1,61 @@
+cal value when it has a speed of (a) 
+in
+the CRT of an old TV set, and (b) 0.98c in an accelerator used for cancer therapy.
+APPROACH We use Eq. 26–4 for the momentum of a moving electron.
+SOLUTION (a) At 
+the electron’s momentum is
+The factor 
+so the momentum is only about 1%
+greater than the classical value. (If we put in the mass of an electron,
+the momentum is 
+compared to 
+classically.)
+(b) With 
+the momentum is
+An electron traveling at 98% the speed of light has
+and a momentum
+5.0 times its classical value.
+g = 5.0
+p =
+mv
+C1 - v2
+c2
+=
+mv
+C1 -
+(0.98c)2
+c2
+=
+mv
+31 - (0.98)2
+= 5.0mv.
+v = 0.98c,
+3.64 * 10–23 kgms
+p = 1.01mv = 3.68 * 10–23 kgms,
+m = 9.11 * 10–31 kg,
+g = 131 - v2c2 L 1.01,
+p =
+mv
+C1 - v2
+c2
+=
+mv
+C1 -
+A4.00 * 107 msB2
+A3.00 * 108 msB2
+= 1.01mv.
+v = 4.00 * 107 ms,
+4.00 * 107 ms
+EXAMPLE 26;8
+p = mv.
+131 - v2c2
+g
+p =
+mv
+31 - v2c2
+= gmv.
+(¢s)2 = (c ¢t)2 - (¢x)2.
+¢x,
+¢t,
+Rest Mass and Relativistic Mass
+The relativistic definition of momentum, Eq. 26–4, has someti

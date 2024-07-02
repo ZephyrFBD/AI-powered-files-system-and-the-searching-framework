@@ -1,0 +1,15 @@
+ of high power output in the infrared; and 
+rare-earth solid-state lasers such as the high-power Nd:YAG laser.
+The excitation of the atoms in a laser can be done continuously or in pulses.
+In a pulsed laser, the atoms are excited by periodic inputs of energy. In a
+continuous laser, the energy input is continuous: as atoms are stimulated to jump
+down to the lower level, they are soon excited back up to the upper level so the
+output is a continuous laser beam.
+No laser is a source of energy. Energy must be put in, and the laser converts
+a part of it into an intense narrow beam output.
+Applications
+The unique feature of light from a laser, that it is a coherent narrow beam, has
+found many applications. In everyday life, lasers are used as bar-code readers (at
+store checkout stands) and in compact disc (CD) and digital video disc (DVD)
+players. The laser beam reflects off the stripes and spaces of a bar code, or off the
+tiny pits of a CD or DVD as shown in Fig. 28–21a. The recorded informa

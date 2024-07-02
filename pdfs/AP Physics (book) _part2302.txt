@@ -1,0 +1,31 @@
+ drawn such that
+the number of lines per unit area is proportional to the field strength. Then the
+flux 
+can be thought of as being proportional to the total number of lines
+passing through the area enclosed by the loop. This is illustrated in Fig. 21–4,
+where three wire loops of a coil are viewed from the side (on edge). For 
+no magnetic field lines pass through the loops and 
+whereas 
+is a maxi-
+mum when 
+The unit of magnetic flux is the 
+this is called
+a weber:
+With our definition of flux, Eq.21–1, we can write down the results of Faraday’s
+investigations: The emf 
+induced in a circuit is equal to the rate of change of
+magnetic flux through the circuit:
+(21;2a)
+This fundamental result is known as Faraday’s law of induction, and it is one of
+the basic laws of electromagnetism.
+If the circuit contains N loops that are closely wrapped so the same flux passes
+through each, the emfs induced in each loop add together, so the total emf is
+(21;2b)
+[N loops]
+e =
+–N ¢£B
+¢t
+.
+[1 loop]
+e =
+– ¢£

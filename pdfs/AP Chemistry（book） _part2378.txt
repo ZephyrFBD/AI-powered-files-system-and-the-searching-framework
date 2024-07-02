@@ -1,0 +1,20 @@
+essions are different from rate laws.
+The value of the equilibrium constant at any given temperature does not depend on 
+the initial amounts of reactants and products. It also does not matter whether other sub-
+stances are present, as long as they do not react with a reactant or a product. The value of 
+Kc depends only on the particular reaction and on the temperature.
+Write the equilibrium expression for Kc for the following reactions:
+(a) 2 O31g2 ∆ 3 O21g2
+(b) 2 NO1g2 + Cl21g2 ∆ 2 NOCl1g2
+(c) Ag+1aq2 + 2 NH31aq2 ∆ Ag1NH322
++1aq2
+Sample Exercise 15.1
+ Writing Equilibrium-Constant Expressions
+SOLUTION
+Analyze We are given three equations and are asked to write an 
+equilibrium-constant expression for each.
+Plan Using the law of mass action, we write each expression as a 
+quotient having the product concentration terms in the numer-
+ator and the reactant concentration terms in the denominator. 
+Each concentration term is raised to the power of its coefficient in 
+the balanced chemical eq

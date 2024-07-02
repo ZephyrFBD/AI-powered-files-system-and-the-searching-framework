@@ -1,0 +1,19 @@
+t a constant temperature of 0 °C.
+t Line CD: Heating increases the temperature of the H2O( l ) 
+from 0 °C to 100 °C.
+t Line DE: Heating converts H2O( l ) to H2O( g) as the water 
+boils at a constant temperature of 100 °C.
+t Line EF: Heating increases the temperature of the H2O( g)  
+to 125 °C.
+We can calculate the enthalpy change of the system for 
+each region of the heating curve. Lines AB, CD, and EF show 
+the heating of a single phase from one temperature to another. 
+As we saw in Section 5.5, the amount of heat needed to raise 
+the temperature of a substance is given by the product of the 
+specific heat, mass, and temperature change (Equation 5.21). 
+The greater the specific heat of a substance, the more heat we 
+must add to accomplish a certain temperature increase. Because 
+the specific heat of water is greater than that of ice, the slope of 
+line CD is less than that of line AB. This lesser slope means the 
+amount of heat we must add to a given mass of liquid water to 
+achiev

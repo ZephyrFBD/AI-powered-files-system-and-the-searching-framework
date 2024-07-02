@@ -1,0 +1,25 @@
+s via a
+metal pipe, or it may mean a common connection, such as the frame of a car.
+For the most part in this Chapter, except in Section 19–6 on RC circuits, we
+will be interested in circuits operating in their steady state. We won’t be looking at a
+circuit at the moment a change is made in it, such as when a battery or resistor is con-
+nected or disconnected, but only when the currents have reached their steady values.
+or
+or
+TABLE 19–1 Symbols for
+Circuit Elements
+Symbol
+Device
+Battery
+Capacitor
+Resistor
+Wire with negligible 
+resistance
+Switch
+Ground
+19–1 EMF and Terminal Voltage
+To have current in an electric circuit, we need a device such as a battery or an electric
+generator that transforms one type of energy (chemical, mechanical, or light, for
+example) into electric energy. Such a device is called a source of electromotive force†
+or of emf. The potential difference between the terminals of such a source, when
+no current flows to an external circuit, is called the emf of the sourc

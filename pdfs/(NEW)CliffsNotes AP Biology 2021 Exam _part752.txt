@@ -1,0 +1,10 @@
+or more generations, you might find that one of
+the alleles disappears from that generation (its frequency becomes zero). If one allele disappears, the remaining
+allele is said to be “fixed.” Once an allele is fixed in a population, it remains so until some evolutionary process
+(mutation or gene flow) reintroduces it.
+2. Increase the population size. The fluctuations in gene frequencies that you see from generation to generation are
+examples of genetic drift, changes in gene frequencies as a result of chance. The effect of genetic drift decreases as
+population size increases, so increasing the size of the population should reduce its effect.
+3. Investigate the effect of natural selection. You can simulate the effect of selection for or against one of the
+alleles. Selection can influence any of the stages during the life cycle of an individual but ultimately will determine
+whether or not that individual will contribute gametes to the next generation. One way to simulate selection is to

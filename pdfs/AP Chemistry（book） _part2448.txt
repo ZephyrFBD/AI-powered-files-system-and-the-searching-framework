@@ -1,0 +1,17 @@
+st, even though it changes the reac-
+tion rate, does not affect the numeric value of K (Figure 15.16). As a result, a catalyst 
+increases the rate at which equilibrium is achieved but does not change the composition of the 
+equilibrium mixture.
+ 
+SECTION 15.7  Le Châtelier’s Principle 
+651
+652 
+CHAPTER 15 Chemical Equilibrium
+The rate at which a reaction approaches equilibrium is an important practical con-
+sideration. As an example, let’s again consider the synthesis of ammonia from N2 and H2. 
+In designing his process, Haber had to deal with a rapid decrease in the equilibrium con-
+stant with increasing temperature, as you can see from Table 15.2. At temperatures suf-
+ficiently high to give a satisfactory reaction rate, the amount of ammonia formed was 
+too small. The solution to this dilemma was to develop a catalyst that would produce a 
+reasonably rapid approach to equilibrium at a sufficiently low temperature, so that the 
+equilibrium constant remained reasonably large. The devel

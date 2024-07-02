@@ -1,0 +1,48 @@
+0-g mass is
+added to m, the frequency is 0.60 Hz. What is the value
+of m?
+8. (II) A vertical spring with spring stiffness constant 
+oscillates with an amplitude of 28.0 cm when 0.235 kg
+hangs from it. The mass passes through the equilibrium
+point
+with positive velocity at
+(a) What
+equation describes this motion as a function of time?
+(b) At what times will the spring be longest and shortest?
+9. (II) Figure 11–51 shows two examples of SHM, labeled A
+and B. For each, what is (a) the amplitude, (b) the fre-
+quency, and (c) the period?
+t = 0.
+(y = 0)
+305 Nm
+Problems
+B
+Wave velocity
+FIGURE 11–50
+MisConceptual Question 12.
+0
+4
+1.0
+2.0
+3.0
+4.0
+−4
+−3
+−2
+−1
+3
+2
+1
+t (s)
+x (m)
+B
+A
+FIGURE 11–51
+Problem 9.
+9. Consider a wave traveling down a cord and the transverse
+motion of a small piece of the cord. Which of the following
+is true?
+(a) The speed of the wave must be the same as the speed
+of a small piece of the cord.
+(b) The frequency of the wave must be the same as the
+frequency of a small piece 

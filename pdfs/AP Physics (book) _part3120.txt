@@ -1,0 +1,22 @@
+; where 
+is small, the probability is low.
+We can interpret matter waves in the same way, as was first suggested by
+Max Born (1882–1970) in 1927. The wave function 
+may vary in magnitude
+from point to point in space and time. If 
+describes a collection of many electrons,
+then 
+at any point will be proportional to the number of electrons expected to
+be found at that point. When dealing with small numbers of electrons we can’t
+make very exact predictions, so 
+takes on the character of a probability. If 
+which depends on time and position, represents a single electron (say, in an atom),
+then 
+is interpreted like this:
+at a certain point in space and time represents
+the probability of finding the electron at the given position and time. Thus 
+is
+often referred to as the probability density or probability distribution.
+Double-Slit Interference Experiment for Electrons
+To understand this better, we take as a thought experiment the familiar double-slit
+experiment, and consider it both for lig

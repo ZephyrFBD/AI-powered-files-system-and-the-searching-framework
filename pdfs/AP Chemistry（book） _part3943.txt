@@ -1,0 +1,27 @@
+12 * 102+3
+ = 11 * 105
+ = 1.1 * 106
+ 11.2 * 105213.22 * 10-32 = 11.2213.222 * 105+1-32 = 3.9 * 102
+ 3.2 * 105
+6.5 * 102 = 3.2
+6.5 * 105-2 = 0.49 * 103 = 4.9 * 102
+ 5.7 * 107
+8.5 * 10-2 = 5.7
+8.5 * 107-1-22 = 0.67 * 109 = 6.7 * 108
+3. Powers and Roots When numbers expressed in exponential notation are raised 
+to a power, the exponents are multiplied by the power. When the roots of numbers 
+expressed in exponential notation are taken, the exponents are divided by the root.
+ 11.2 * 10523 = 11.223 * 105*3
+ = 1.7 * 1015
+ 2
+3 2.5 * 106 = 2
+3 2.5 * 106>3
+ = 1.3 * 102
+Scientific calculators usually have keys labeled x2 and 2x for squaring and taking the 
+square root of a number, respectively. To take higher powers or roots, many calculators 
+have yx and 2
+x y (or INV yx) keys. For example, to perform the operation 2
+3 7.5 * 10-4 
+on such a calculator, you would key in 7.5 * 10-4, press the 2
+x y key (or the INV and 
+then the yx keys), enter the root, 3, and finally press =. The result is 9.1 *

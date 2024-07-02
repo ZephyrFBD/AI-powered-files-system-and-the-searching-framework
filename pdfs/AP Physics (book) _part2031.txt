@@ -1,0 +1,24 @@
+ its resistance? Assume the manufacturer’s
+claim of 85% efficiency.
+46. (III) The current in an electromagnet connected to a 240-V
+line is 21.5 A. At what rate must cooling water pass over
+the coils for the water temperature to rise no more than
+6.50 C°?
+18–7 Alternating Current
+47. (I) Calculate the peak current in a 
+resistor connected
+to a 220-V rms ac source.
+48. (I) An ac voltage, whose peak value is 180 V, is across a 
+resistor. What are the rms and peak currents in the resistor?
+49. (II) Estimate the resistance of the 
+circuits in your
+house as seen by the power company, when (a) everything
+electrical is unplugged, and (b) two 75-W lightbulbs are on.
+50. (II) The peak value of an alternating current in a 1500-W
+device is 6.4 A. What is the rms voltage across it?
+51. (II) An 1800-W arc welder is connected to a 
+ac line.
+Calculate (a) the peak voltage and (b) the peak current.
+52. (II) Each channel of a stereo receiver is capable of an
+average power output of 100 W into an 
+loudsp

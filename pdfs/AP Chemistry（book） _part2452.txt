@@ -1,0 +1,48 @@
+he total pressure in the vessel at equilibrium? (d) At 25 °C the value 
+of Kp for this reaction is 1.7 * 10-21. Is the reaction exothermic or endothermic? (e) To produce the maximum amount of CO 
+and H2 at equilibrium, should the pressure of the system be increased or decreased?
+We then construct a table of initial partial 
+pressures and their changes as equilibrium is 
+achieved:
+(a) To determine the equilibrium partial pressures, 
+we use the ideal-gas equation, first determin-
+ing the starting partial pressure of water.
+ 
+C1s2 + H2O1g2 ∆CO1g2 + H21g2
+Initial partial pressure (atm)
+ 
+8.81
+0
+0
+Change in partial pressure (atm)
+ 
+-x
++x
++x
+Equilibrium partial pressure (atm)
+ 
+8.81 - x
+x
+x
+Kp =
+P
+COP
+H2
+P
+H2O
+=
+1x21x2
+18.81 - x2 = 14.1
+SOLUTION
+Sample Integrative Exercise
+Putting Concepts Together
+P
+H2O =
+nH2ORT
+V
+=
+10.100 mol210.08206 L@atm>mol@K211073 K2
+1.00 L
+= 8.81 atm
+There are no entries in the table under C(s) because the reactant, be-
+ing a solid, does not appear in the equilibrium

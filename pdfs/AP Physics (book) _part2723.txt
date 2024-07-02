@@ -1,0 +1,23 @@
+ouble-slit experiment demonstrated the inter-
+ference of light. The observed bright spots of the interference
+pattern are explained as constructive interference between the
+beams coming through the two slits, where the beams differ in
+path length by an integral number of wavelengths. The dark
+areas in between are due to destructive interference when the
+path lengths differ by 
+and so on. The angles at which
+constructive interference occurs are given by
+(24;2a)
+where is the wavelength of the light, d is the separation of the
+slits, and m is an integer 
+Destructive interference
+occurs at angles given by
+(24;2b)
+where m is an integer 
+Two sources of light are perfectly coherent if the waves
+leaving them are of the same single frequency and maintain the
+same phase relationship at all times. If the light waves from the
+two sources have a random phase with respect to each other
+over time (as for two lightbulbs), the two sources are 
+incoherent.
+The frequency or wavelength of light determines

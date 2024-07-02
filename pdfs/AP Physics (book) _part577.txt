@@ -1,0 +1,94 @@
+one.
+= (100 N cos 37° - 50 N)(40 m) = 1200 J.
+W
+net = AF
+netBxx = AF
+P cos u - F
+frB x
+F
+P cos u - F
+fr .
+AF
+netBx =
+=
+ 0
+   +
+ 
+0  + 3200 J - 2000 J = 1200 J.
+W
+net = W
+G + W
+N +
+W
+P
++
+W
+fr
+cos 180° = –1
+F
+B
+fr
+x
+B
+= (50 N)(40 m)(–1) =
+–2000 J.
+W
+fr = F
+fr x cos 180°
+W
+P = F
+Px cos u = (100 N)(40 m) cos 37° = 3200 J.
+F
+B
+P
+W
+N = F
+Nx cos 90° = 0.
+W
+G = mgx cos 90° = 0
+u = 90°
+x
+B
+AF
+B
+NB
+AF
+B
+GB
+F
+B
+N
+mg
+B;
+F
+B
+G =
+F
+B
+fr ;
+F
+B
+P;
+x
+B
+F
+B
+fr = 50 N.
+F
+P = 100 N,
+EXAMPLE 6;1
+In Example 6–1 we saw that friction did negative work. In general, the work
+done by a force is negative whenever the force (or the component of the force,
+)
+acts in the direction opposite to the direction of motion.
+F
+∑∑
+EXERCISE A A box is dragged a distance d across a floor by a force 
+which makes an
+angle 
+with the horizontal as in Fig. 6–1 or 6–3. If the magnitude of 
+is held constant 
+but the angle 
+is increased, the work done by 
+(a) remains the same; (b) increases;
+(c) decreases; (d) first increases, then de

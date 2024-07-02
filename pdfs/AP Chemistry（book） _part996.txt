@@ -1,0 +1,17 @@
+tity is called a quantum of energy. The constant h is 
+called the Planck constant: h = 6.626 * 10 - 34 J@s.
+In the quantum theory, energy is quantized, meaning that it 
+can have only certain allowed values. Einstein used the quantum the-
+ory to explain the photoelectric effect, the emission of electrons from 
+metal surfaces when exposed to light. He proposed that light behaves 
+as if it consists of quantized energy packets called photons. Each pho-
+ton carries energy, E = hn.
+BOHR MODEL OF THE HYDROGEN ATOM (SECTION 6.3) Disper-
+sion of radiation into its component wavelengths produces a spec-
+trum. If the spectrum contains all wavelengths, it is called a continuous 
+spectrum; if it contains only certain specific wavelengths, the spec-
+trum is called a line spectrum. The radiation emitted by excited hydro-
+gen atoms forms a line spectrum.
+Bohr proposed a model of the hydrogen atom that explains its 
+line spectrum. In this model, the energy of the electron in the hydro-
+gen atom depends

@@ -1,0 +1,16 @@
+gases are 
+formed from either solids or liquids, or the number of molecules of 
+gas increases during a chemical reaction. The third law of thermody-
+namics states that the entropy of a pure crystalline solid at 0 K is zero.
+ENTROPY CHANGES IN CHEMICAL REACTIONS (SECTION 19.4)  
+The third law allows us to assign entropy values for substances at 
+different temperatures. Under standard conditions, the entropy of 
+a mole of a substance is called its standard molar entropy, denoted S°. 
+From tabulated values of S°, we can calculate the entropy change for 
+any process under standard conditions. For an isothermal process, 
+the entropy change in the surroundings is equal to - ∆H>T.
+GIBBS FREE ENERGY (SECTION 19.5) The Gibbs free energy (or 
+just free energy), G, is a thermodynamic state function that com-
+bines the two state functions enthalpy and entropy: G = H - TS. 
+For processes that occur at constant temperature, ∆G = ∆H - T∆S. 
+For a process occurring at constant temperature and pressure

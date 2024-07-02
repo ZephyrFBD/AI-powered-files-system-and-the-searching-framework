@@ -1,0 +1,48 @@
+ tube. A beam of electrons, emitted by the heated cathode, is accelerated by
+the high-voltage anode and passes through a small hole in that anode. The inside
+of the tube face on the right (the screen) is coated with a fluorescent material that
+glows at the spot where the electrons hit. Voltage applied across the horizontal
+and vertical deflection plates, Fig.17–29, can be varied to deflect the electron beam
+to different spots on the screen.
+*
+*
+P H Y S I C S  A P P L I E D
+CRT
+Anode
+Cathode
+Battery
+
+
+ 
+FIGURE 17–28 If the cathode inside
+the evacuated glass tube is heated to
+glowing (by an electric current, not
+shown), negatively charged 
+“cathode rays” (
+electrons) are
+“boiled off” and flow across to the
+anode 
+to which they are
+attracted.
+(±),
+=
+Heater
+current
+Cathode
+Anode
+Horizontal
+deﬂection plates
+Bright spot
+on screen
+where
+electrons hit
+Grid
+Vertical
+deﬂection plates
+Path of
+electrons
+Fluorescent
+screen
+FIGURE 17–29 A cathode-ray 
+tube. Magnetic deflection coils are
+commonly

@@ -1,0 +1,82 @@
+ f-1(b) = a. Thus the point (a, b) is on the graph of f if and only if the point (b, 
+a) is on the graph of f-1. 
+We get the point (b, a) from the point (a, b) by reflecting in the line y = x . 
+ 
+ 
+Example 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5.4 Application of Inverse of a Function 
+ 
+83 
+When working with functions that model real-world situations, we name the variables using 
+letters that suggest the quantity being modeled. For instance we may use t for time, d for 
+distance, V for volume, and so on. 
+ 
+Example 5 
+At a local pizza parlor the daily special is $12 for a plain cheese pizza plus $2 for each 
+additional topping. 
+(a) Find a function f that models the price of a pizza with n toppings. 
+(b) Find the inverse of the function f. What does f-1 represent? 
+(c) If a pizza costs $22, how many toppings does it have? 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+84 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.6 Logarithmic Functions 
+ 
+85 
+2.6.1 Logarithmic Functi

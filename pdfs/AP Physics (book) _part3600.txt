@@ -1,0 +1,20 @@
+. Hadrons are
+particles that interact via the strong nuclear force and are said to be strongly interacting
+particles. They also interact via the other forces, but the strong force predominates
+at short distances. The hadrons include the proton, neutron, pion, and many
+other particles. They are divided into two subgroups: baryons, which are particles
+that have baryon number 
+(or 
+in the case of their antiparticles) and, as we
+shall see, are each made up of three quarks; and mesons, which have baryon
+number
+and are made up of a quark and an antiquark.
+Only a few of the hundreds of hadrons (a veritable “zoo”) are included in
+Table 32–2. Notice that the baryons 
+and 
+all decay to lighter-mass
+baryons, and eventually to a proton or neutron. All these processes conserve
+baryon number. Since there is no particle lighter than the proton with 
+if baryon number is strictly conserved, the proton itself cannot decay and is
+stable. (But see Section 32–11.) Note that Table 32–2 gives the mean life
+o

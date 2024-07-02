@@ -1,0 +1,20 @@
+ is a third related process. This is electron
+capture (abbreviated EC in Appendix B) and occurs when a nucleus absorbs one
+of its orbiting electrons. An example is 
+which as a result becomes 
+The
+process is written
+or, in general,
+Usually it is an electron in the innermost (K) shell that is captured, in which case
+the process is called K-capture. The electron disappears in the process, and a
+proton in the nucleus becomes a neutron; a neutrino is emitted as a result. This
+process is inferred experimentally by detection of emitted X-rays (due to other
+electrons jumping down to fill the state of the captured 
+).
+30–6 Gamma Decay
+Gamma rays are photons having very high energy. They have their origin in the
+decay of a nucleus, much like emission of photons by excited atoms. Like an
+atom, a nucleus itself can be in an excited state. When it jumps down to a lower
+energy state, or to the ground state, it emits a photon which we call a 
+ray. The
+possible states of a nucleus are much farther apa

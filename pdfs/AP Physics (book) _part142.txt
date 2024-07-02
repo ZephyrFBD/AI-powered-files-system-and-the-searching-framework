@@ -1,0 +1,20 @@
+s less than zero. The sign of the displacement, and thus of the
+average velocity, indicates the direction: the average velocity is positive for an
+object moving to the right along the 
+axis and negative when the object 
+moves to the left. The direction of the average velocity is always the same as 
+the direction of the displacement.
+It is always important to choose (and state) the elapsed time, or time interval,
+the time that passes during our chosen period of observation.
+Runner’s average velocity. The position of a runner as a
+function of time is plotted as moving along the x axis of a coordinate system.
+During a 3.00-s time interval, the runner’s position changes from
+to
+as shown in Fig. 2–7. What is the runner’s average velocity?
+APPROACH We want to find the average velocity, which is the displacement
+divided by the elapsed time.
+SOLUTION The displacement is
+The elapsed time, or time interval, is given as
+The average velocity 
+(Eq. 2–2) is
+The displacement and average velocity are 

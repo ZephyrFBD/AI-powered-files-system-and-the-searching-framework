@@ -1,0 +1,24 @@
+eparate further. If a positive charge is brought close instead, the 
+electrons are induced to flow upward, so the leaves are less negative and their
+separation is reduced, Fig. 16–12c.
+The electroscope was used in the early studies of electricity. The same 
+principle, aided by some electronics, is used in much more sensitive modern
+electrometers.
+†Coulomb reasoned that if a charged conducting sphere is placed in contact with an identical uncharged
+sphere, the charge on the first would be shared equally by the two of them because of symmetry. He
+thus had a way to produce charges equal to 
+and so on, of the original charge.
+‡The validity of Coulomb’s law today rests on precision measurements that are much more sophisticated
+than Coulomb’s original experiment. The exponent 2 on r in Coulomb’s law has been shown to be
+accurate to 1 part in 
+[that is,
+].
+26A1 * 10–16B
+1016
+1
+4 ,
+1
+2 ,
+16–5 Coulomb’s Law
+We have seen that an electric charge exerts a force of attraction or repulsion on
+other 

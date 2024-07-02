@@ -1,0 +1,15 @@
+ntly by Jack Kilby and Robert
+Noyce. Tiny amounts of impurities can be inserted or injected at particular loca-
+tions within a single silicon crystal or wafer. These can be arranged to form diodes,
+transistors, resistors (undoped semiconductors), and very thin connecting “wires”
+which are heavily doped thin lines. Capacitors and inductors 
+can also be formed, but also can be connected separately. Integrated circuits are
+the heart of computers, televisions, calculators, cameras, and the electronic
+instruments that control aircraft, space vehicles, and automobiles.
+A tiny chip, a few millimeters on a side, may contain billions of transistors
+and other circuit elements. The number of 
+has been doubling every
+2 or 3 years. We often hear of the technology generation, which is a number that
+refers to the minimum width of a conducting line (“wire”). The gate of a MOSFET
+may be even smaller. Since 2003 we have passed from 90-nm technology to 65-nm,
+to 45-nm, to 32-nm, to 22-nm, every 2 to 3 ye

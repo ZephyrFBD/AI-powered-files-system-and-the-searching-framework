@@ -1,0 +1,21 @@
+n its 
+name, its pressure, and its temperature. From the name, we can 
+write the chemical formula of the substance and determine its 
+molar mass.
+Plan We can use Equation 10.10 to calculate the density. Before we 
+can do that, however, we must convert the given quantities to the 
+appropriate units, degrees Celsius to kelvins and pressure to atmo-
+spheres. We must also calculate the molar mass of CCl4.
+Solve The absolute temperature is 125 + 273 = 398 K. The pressure 
+is 1714 torr2 11 atm>760 torr2 = 0.939 atm. The molar mass of 
+CCl4 is 12.01 + 142 135.452 = 153.8 g>mol. Therefore,
+d = Pℳ
+RT =
+10.939 atm21153.8 g>mol2
+10.08206 L@atm>mol@K21398 K2 = 4.42 g>L
+Check If we divide molar mass 1g>mol2 by density 1g>L2, we end 
+up with L/mol. The numerical value is roughly 154>4.4 = 35, 
+which is in the right ballpark for the molar volume of a gas heated 
+to 125 °C at near atmospheric pressure. We may thus conclude our 
+answer is reasonable.
+What is the density of carbon tetrachloride vapor at

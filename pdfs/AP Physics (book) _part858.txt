@@ -1,0 +1,53 @@
+4 hd)(3600 sh) ≤
+L 6 * 102 revs,
+f
+2 =
+v2
+2p
+= R1
+2
+R2
+2 f
+1
+f = v2p,
+v2 =
+¢ I
+1
+I
+2
+≤v1 =
+¢
+2
+5 M1 R1
+2
+2
+5 M2 R2
+2 ≤v1 = R1
+2
+R2
+2 v1 .
+M1 = M2
+I
+1 v1 = I
+2 v2,
+AR L 7 * 105 kmB
+EXAMPLE 8;15
+ESTIMATE
+*SECTION 8–9
+Vector Nature of Angular Quantities
+217
+P H Y S I C S  A P P L I E D
+Neutron star
+8–9 Vector Nature of 
+Angular Quantities
+Up to now we have considered only the magnitudes of angular quantities such 
+as 
+and L. But they have a vector aspect too, and now we consider the 
+directions. In fact, we have to define the directions for rotational quantities. We
+consider first the angular velocity,
+Consider the rotating wheel shown in Fig. 8–30a. The linear velocities of 
+different particles of the wheel point in all different directions. The only unique
+direction in space associated with the rotation is along the axis of rotation, perpen-
+dicular to the actual motion. We therefore choose the axis of rotation to be the
+direction of the angular velocity vector,
+Actually, there is s

@@ -1,0 +1,15 @@
+ard to assign bond enthalpies for a reaction involving the breaking 
+of a bond in a diatomic molecule: the bond enthalpy is simply equal to the enthalpy of 
+the reaction. However, many important bonds, such as the C—H bond, exist only in poly-
+atomic molecules. For these bonds, we usually use average bond enthalpies. For example, the 
+enthalpy change for the following process in which a methane molecule is decomposed into 
+its five constituent atoms can be used to define an average bond enthalpy for the C—H bond:
+CH41g2 ¡ C1g2 + 4 H1g2    ∆H = 1660 kJ
+Give It Some Thought
+Which is more stable at room temperature, a Cl2 molecule or two separate Cl atoms? 
+What is the energy difference between the Cl2 molecule and the separated atoms?
+The bond enthalpy for a Cl—Cl bond is equal to the enthalpy of this reaction, 
+ 
+242 kJ/mol. The bond enthalpy is a positive number because energy must be supplied 
+from the surroundings to break the Cl—Cl bond. We use the letter D followed by the 
+bond in 

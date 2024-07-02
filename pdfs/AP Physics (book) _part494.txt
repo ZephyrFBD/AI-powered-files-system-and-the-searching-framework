@@ -1,0 +1,17 @@
+ the planets, he concluded that the force required to hold the different 
+planets in their orbits around the Sun seems to diminish as the inverse square of
+their distance from the Sun. This led him to believe that it is also the gravitational
+force that acts between the Sun and each of the planets to keep them in their orbits.
+And if gravity acts between these objects, why not between all objects? Thus he 
+proposed his law of universal gravitation, which we can state as follows:
+Every particle in the universe attracts every other particle with a force that 
+is proportional to the product of their masses and inversely proportional to 
+the square of the distance between them. This force acts along the line 
+joining the two particles.
+The magnitude of the gravitational force can be written as
+(5;4)
+where 
+and 
+are the masses of the two particles, r is the distance between
+them, and G is a universal constant which must be measured experimentally.
+The value of G must be very small, since we

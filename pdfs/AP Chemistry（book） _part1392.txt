@@ -1,0 +1,30 @@
+use of the spatial demands of multiple bonds and nonbonding electron pairs.
+Our analysis of the acetic acid molecule is shown in Figure 9.9.
+Go Figure
+In the actual structure of acetic acid, which bond angle is 
+expected to be the smallest?
+▲ Figure 9.9 The electron-domain and molecular geometries around the three central atoms of 
+acetic acid, CH3COOH.
+Electron-domain geometry tetrahedral,
+molecular geometry tetrahedral
+Electron-domain geometry trigonal planar,
+molecular geometry trigonal planar
+Electron-domain geometry tetrahedral,
+molecular geometry bent
+Sample Exercise 9.3 
+Predicting Bond Angles
+Eyedrops for dry eyes usually contain a water-soluble polymer called poly(vinyl alcohol), which is based on the unstable organic 
+molecule vinyl alcohol:
+C
+H
+C
+H
+H
+O
+H
+Predict the approximate values for the H ¬ O¬ C and O¬ C¬ C bond angles in vinyl alcohol.
+ 
+SOLUTION
+Analyze We are given a Lewis structure and asked to determine two 
+bond angles.
+Plan To predict a bond angle, we determine 

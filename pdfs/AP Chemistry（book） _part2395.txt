@@ -1,0 +1,36 @@
+0.014
+2. Br21g2 + Cl21g2 ∆ 2 BrCl1g2 
+ 
+Kc2 =
+3BrCl42
+3Br243Cl24 = 7.2
+The net sum of these two equations is:
+3. 2 NOBr1g2 + Cl21g2 ∆ 2 NO1g2 + 2 BrCl1g2
+You can prove algebraically that the equilibrium-constant expression for the net reaction 
+is the product of the expressions for individual reactions:
+ 
+Kc3 =
+3NO423BrCl42
+3NOBr423Cl24
+=
+3NO423Br24
+3NOBr42
+*
+3BrCl42
+3Br243Cl24 
+Thus,
+ 
+Kc3 = 1Kc121Kc22 = 10.014217.22 = 0.10 
+To summarize:
+ 1. The equilibrium constant of a reaction in the reverse direction is the inverse (or recip-
+rocal) of the equilibrium constant of the reaction in the forward direction:
+A + B  ∆ C + D K1
+C + D  ∆ A + B K = 1>K1
+ 2. The equilibrium constant of a reaction that has been multiplied by a number is equal 
+to the original equilibrium constant raised to a power equal to that number.
+A + B 
+ ∆ C + D  K1
+n A + n B  ∆ n C + n D K = K1
+n
+ 3. The equilibrium constant for a net reaction made up by adding two or more reactions 
+is the product of the equilibrium c

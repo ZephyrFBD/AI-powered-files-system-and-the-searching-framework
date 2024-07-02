@@ -1,0 +1,66 @@
+ sign), we have
+(23;9)
+For an upright image the magnification is positive, and for an inverted image the
+magnification is negative.
+From sign convention 1, it follows that the power (Eq. 23–7) of a converging
+lens, in diopters, is positive, whereas the power of a diverging lens is negative.
+A converging lens is sometimes referred to as a positive lens, and a diverging lens
+as a negative lens.
+Diverging lenses (see Fig. 23–41) always produce an upright virtual image for
+any real object, no matter where that object is. Converging lenses can produce
+real (inverted) images as in Fig. 23–40, or virtual (upright) images, depending on
+object position, as we shall see.
+m =
+hi
+ho
+=
+– di
+do
+.
+m = hiho.
+ho
+hi ,
+di
+di
+di
+1
+do
+- 1
+di
+=
+– 1
+f
+.
+hi
+ho
+= f - di
+f
+.
+hi
+ho
+=
+di
+do
+AB = ho
+IFI¿
+OAO¿
+IAI¿
+C A U T I O N
+Focal length is negative for 
+diverging lens
+P R O B L E M  S O L V I N G
+SIGN CONVENTIONS for lenses
+O
+F
+O′
+B
+A
+I
+I′
+ho
+hi
+do
+f
+di
+FIGURE 23–41 Deriving the lens
+equation for a diverging 

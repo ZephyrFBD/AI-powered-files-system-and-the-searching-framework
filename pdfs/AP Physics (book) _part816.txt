@@ -1,0 +1,80 @@
+- v0
+a
+= 0 - 24.7 rads
+–0.902 rads2
+= 27.4 s.
+a = v2 - v0
+2
+2u
+=
+0 - (24.7 rads)2
+2(2p radrev)(53.8 rev) =
+–0.902 rads2.
+u = 2p radrev * 53.8 rev  (= 338 rad)
+2p
+v0 = 24.7 rads.
+v = 0
+115 m
+2pr
+=
+115 m
+(2p)(0.340 m) = 53.8 rev.
+2pr = (2p)(0.340 m).
+2pr,
+v0 = v0
+r
+= 8.40 ms
+0.340 m
+= 24.7 rads.
+v = rv.
+v
+(t = 0);
+v0 = 8.40 ms
+EXAMPLE 8;7
+v = rv.
+v
+v = rv,
+–v
+B
+v
+B
+v
+B.
+v0 = 8.40 m/s
+Bike as seen from the ground at t = 0
+115 m
+FIGURE 8;9 Example 8–7.
+C
+(a)
+C
+P
+(b)
+−v
+B
+v
+B
+P
+r
+FIGURE 8;8 (a) A wheel rolling to
+the right. Its center C moves with
+velocity 
+Point P is at rest at the
+instant shown. (b) The same wheel
+as seen from a reference frame in
+which the axle of the wheel C is at
+rest—that is, we are moving to the
+right with velocity relative to the
+ground. Point P, which was at rest 
+in (a), here in (b) is moving to the
+left with velocity 
+as shown.
+(See also Section 3–8 on relative
+velocity.) Thus  v = rv.
+–v
+B
+v
+B
+v
+B.
+8–4 Torque
+We have so far discussed rotational kinemat

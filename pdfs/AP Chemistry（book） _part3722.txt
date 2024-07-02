@@ -1,0 +1,14 @@
+tal-field, and  
+an octahedral crystal-field.
+Because their lobes point directly at the negative ligand charges, electrons in the metal 
+ion’s dz2 and dx2 - y2 orbitals experience stronger repulsions than those in the dxy, dxz, and 
+dyz orbitals. As a result, the energy splitting shown in Figure 23.28 occurs. The three lower- 
+energy d orbitals are called the t2 set of orbitals, and the two higher-energy ones are called 
+the e set.* The energy gap ∆ between the two sets is called the crystal-field splitting energy.
+Crystal-field theory helps us account for the colors observed in transition-metal 
+complexes. The energy gap ∆ between the e and t2 sets of d orbitals is of the same order 
+of magnitude as the energy of a photon of visible light. It is therefore possible for a 
+ 
+transition-metal complex to absorb visible light that excites an electron from a 
+lower-energy (t2) d orbital into a higher-energy (e) d orbital. In 3Ti(H2O)643+, for example, 
+the Ti(III) ion has an 3Ar43d1 electro

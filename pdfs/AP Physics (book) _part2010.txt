@@ -1,0 +1,49 @@
+ntial difference between the
+inside and outside of a nerve cell.
+FIGURE 18–28 How a dipole layer
+of charge forms on a cell membrane.
+Time (ms)
+Potential V (mV)
+1
+2
+3
+4
+Resting
+potential
+Action
+potential
+40
+20
+0
+−80
+−60
+−40
+−20
+FIGURE 18–30 Action potential.
+TABLE 18–2
+Concentrations of Ions Inside
+and Outside a T
+ypical Axon
+Concentration Concentration
+inside axon 
+outside axon
+140 
+5
+15 
+140
+9 
+125
+Cl–
+Na±
+K±
+(molm3)
+(molm3)
+‡This transport mechanism is sometimes referred to as the “sodium pump.”
+Summary
+519
+What causes the action potential to travel along the axon? The action potential
+occurs at the point of stimulation, as shown in Fig.18–31a. The membrane momen-
+tarily is positive on the inside and negative on the outside at this point. Nearby
+charges are attracted toward this region, as shown in Fig. 18–31b. The potential
+in these adjacent regions then drops, causing an action potential there. Thus, as
+the membrane returns to normal at the original point, nearby it experiences a

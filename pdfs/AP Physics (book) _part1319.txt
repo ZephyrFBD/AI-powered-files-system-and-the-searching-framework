@@ -1,0 +1,22 @@
+n to be 400 Hz, the other must be either 404 Hz or 396 Hz.
+f
+beat = 20 vibrations5 s = 4 Hz.
+EXAMPLE 12;14
+12–7 Doppler Effect
+You may have noticed that you hear the pitch of the siren on a speeding fire truck
+drop abruptly as it passes you. Or you may have noticed the change in pitch of a
+blaring horn on a fast-moving car as it passes by you. The pitch of the engine
+noise of a race car changes as the car passes an observer. When a source of sound
+is moving toward an observer, the pitch the observer hears is higher than when
+the source is at rest; and when the source is traveling away from the observer, the
+pitch is lower. This phenomenon is known as the Doppler effect† and occurs for
+all types of waves. Let us now see why it occurs, and calculate the difference
+between the perceived and source sound frequencies when there is relative motion
+between source and observer.
+344
+CHAPTER 12
+Sound
+†After J. C. Doppler (1803–1853).
+(a) At rest
+(b) Fire truck moving
+FIGURE 12–19 (a) Both obser

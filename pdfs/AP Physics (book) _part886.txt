@@ -1,0 +1,35 @@
+tor apply to bring the blades from rest up to a speed
+of
+in 8.0 s?
+6.0 revs
+10.8 mN
+mA = 8.0 kg
+a = 1.00 m/s2
+mB = 10.0 kg
+TB
+TA
+32°
+61°
+B
+F
+B
+F
+B
+FIGURE 8;51 Problem 46.
+37. (II) A softball player swings a bat, accelerating it from rest
+to 
+in a time of 0.20 s. Approximate the bat as 
+a 0.90-kg uniform rod of length 0.95 m, and compute the
+torque the player applies to one end of it.
+38. (II) A small 350-gram ball on the end of a thin, light rod 
+is rotated in a horizontal circle of radius 1.2 m. Calculate
+(a) the moment of inertia of the ball about the center of
+the circle, and (b) the torque needed to keep the ball 
+rotating at constant angular velocity if air resistance exerts
+a force of 0.020 N on the ball. Ignore air resistance on 
+the rod and its moment of inertia.
+39. (II) Calculate the moment of inertia of the array of point
+objects shown in Fig. 8–47 about (a) the y axis, and (b) the
+x axis.Assume 
+and the objects are
+wired together by very light, rigid pieces of wire. The a

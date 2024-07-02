@@ -1,0 +1,32 @@
+n a PC, you might add 3 lines like 
+ 
+% 
+SATOOLS = 'C:\Program Files\satools\m' ; 
+addpath(SATOOLS) ; 
+ 
+Save and close the file when you are finished. 
+ 
+4. Run the startup script by typing its name at the Matlab command prompt: 
+>> startup 
+ 
+5. Check that the path was properly added by running the SA Tools version utility function 
+>> satoolsversion 
+The current version # of satools should echo on the screen. 
+ 
+If necessary, see the online Matlab documentation at 
+ 
+http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.shtml 
+for more details. 
+3.  How do I run an example? 
+3.1.  For Matlab 
+ 
+1. Copy one of the example directories from the satools/m/examples/ directory to your work 
+area.  For example, try the proteinfold directory. 
+ 
+2. Start Matlab (if it is not already running) and cd into the directory you copied.  For example 
+>> cd proteinfold 
+ 
+3. Execute the try_me function in that directory.  For example 
+>> try_me 
+ 
+You should get plenty of output on the screen

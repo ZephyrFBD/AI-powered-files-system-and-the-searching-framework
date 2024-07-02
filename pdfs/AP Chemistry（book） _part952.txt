@@ -1,0 +1,15 @@
+e 2p orbit-
+als. For each value of n, the three p orbitals have the same size and shape but differ from 
+one another in spatial orientation. We usually represent p orbitals by drawing the shape 
+and orientation of their wave functions, as shown in the contour representations in 
+Figure 6.23(b). It is convenient to label these as px, py, and pz orbitals. The letter subscript 
+indicates the Cartesian axis along which the orbital is oriented. Thus, we see that two 
+234 
+CHAPTER 6 Electronic Structure of Atoms
+*We cannot make a simple correspondence between the subscripts 1x, y, and z2 and the allowed 
+ml values 11, 0, and -12. To explain why this is so is beyond the scope of an introductory text.
+Give It Some Thought
+Consider 3px and 3py orbitals. Which quantum number(s) is (are) the same for these 
+two orbitals? Which quantum number(s) is (are) different?
+orbitals with the same value of n and l, but different values of ml, differ from each other 
+in the way they are oriented in space.* L

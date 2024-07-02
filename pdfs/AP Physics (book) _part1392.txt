@@ -1,0 +1,13 @@
+ne way to define a temperature scale is to assign arbitrary values to two
+readily reproducible temperatures. For both the Celsius and Fahrenheit scales
+these two fixed points are chosen to be the freezing point and the boiling point†
+of water, both taken at standard atmospheric pressure. On the Celsius scale, the
+freezing point of water is chosen to be 0°C (“zero degrees Celsius”) and the boiling
+point 100°C. On the Fahrenheit scale, the freezing point is defined as 32°F and
+the boiling point 212°F. A practical thermometer is calibrated by placing it in
+carefully prepared environments at each of the two temperatures and marking
+the position of the liquid or pointer. For a Celsius scale, the distance between the
+two marks is divided into one hundred equal intervals representing each degree
+between 0°C and 100°C (hence the name “centigrade scale” meaning “hundred
+steps”). For the Fahrenheit scale, the two points are labeled 32°F and 212°F and
+the distance between them is divided into 180

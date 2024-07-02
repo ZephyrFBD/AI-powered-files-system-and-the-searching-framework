@@ -1,0 +1,14 @@
+or precision”?
+Give It Some Thought
+A sample that has a mass of about 25 g is weighed on a balance that has a precision 
+of 0.001 g. How many significant figures should be reported for this measurement?
+To determine the number of significant figures in a reported measurement, read the 
+number from left to right, counting the digits starting with the first digit that is not zero. 
+In any measurement that is properly reported, all nonzero digits are significant. Because zeros 
+can be used either as part of the measured value or merely to locate the decimal point, 
+they may or may not be significant:
+ t Zeros between nonzero digits are always significant—1005 kg (four significant figures); 
+7.03 cm (three significant figures).
+ t Zeros at the beginning of a number are never significant; they merely indicate the position 
+of the decimal point—0.02 g (one significant figure); 0.0026 cm (two significant figures).
+ t Zeros at the end of a number are significant if the number contains a 

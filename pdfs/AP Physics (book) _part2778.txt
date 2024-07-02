@@ -1,0 +1,19 @@
+eter, measured by
+photographing a standard set of parallel black lines on a white background
+(sometimes said as “line pairs mm”) on fine-grain film or high quality sensor, or
+as so many dots per inch (dpi). The minimum spacing of distinguishable lines or
+dots gives the resolution. A lens that can give 
+is reasonable,
+is very good (
+). Electronic sensors also
+have a resolution and it is sometimes given as line pairs across the full sensor width.
+A “full” Bayer pixel (upper left in Fig. 25–2) is 4 regular pixels: for example,
+to make a white dot as part of a white line (between two black lines when deter-
+mining lens resolution), all 4 Bayer pixels (RGGB) would have to be bright. For
+a Foveon, all three colors of one pixel need to be bright to produce a white dot.†
+Pixels and resolution. A digital camera offers a maximum
+resolution of
+on a
+sensor. How sharp should
+the lens be to make use of this sensor resolution in RAW?
+APPROACH We find the number of pixels per millimeter and require th

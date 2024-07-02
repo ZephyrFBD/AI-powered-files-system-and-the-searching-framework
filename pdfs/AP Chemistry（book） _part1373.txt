@@ -1,0 +1,30 @@
+e space between the atoms. 
+ (Section 8.3) A bonding pair of electrons thus 
+defines a region in which the electrons are most likely to be found. We will refer to such 
+a region as an electron domain. Likewise, a nonbonding pair (or lone pair) of electrons, 
+Tetrahedral
+Trigonal pyramidal
+Bent
+Removal of one
+corner atom
+Removal of a
+second
+corner atom
+▲ Figure 9.4  Derivatives of the tetrahedral molecular shape.
+ 
+SECTION 9.2    
+The VSEPR Model 
+343
+which was also discussed in Section 8.3, defines an electron domain that is located prin-
+cipally on one atom. For example, the Lewis structure of NH3 has four electron domains 
+around the central nitrogen atom (three bonding pairs, represented as usual by short 
+lines, and one nonbonding pair, represented by dots):
+Two balloons
+linear orientation
+Three balloons
+trigonal-planar orientation
+Four balloons
+tetrahedral orientation
+▲ Figure 9.5 A balloon analogy for electron 
+domains.
+Each multiple bond in a molecule also constitutes a single e

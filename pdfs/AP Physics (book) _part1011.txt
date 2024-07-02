@@ -1,0 +1,34 @@
+s
+force can be applied without tip-
+ping the box over? Note that as
+the box tips, the normal force
+and the friction force will act at
+the lowest corner.
+h
+1.0 m
+2.0 m
+CG
+fr
+N
+F
+B
+F
+B
+F
+B
+FIGURE 9–89
+Problem 74.
+79. In a mountain-climbing technique called the “Tyrolean tra-
+verse,” a rope is anchored on both ends (to rocks or strong
+trees) across a deep chasm, and then a climber traverses the
+rope while attached by a sling as in Fig. 9–91. This technique
+generates tremendous forces in the rope and anchors, so a
+basic understanding of physics is crucial for safety. A typical
+climbing rope can undergo a tension force of perhaps 29 kN
+before breaking, and a “safety factor”of 10 is usually recom-
+mended. The length of rope used in the Tyrolean traverse
+must allow for some “sag” to remain in the recommended
+safety range. Consider a 75-kg climber at the center of a
+Tyrolean traverse, spanning a 25-m chasm. (a) To be within its
+recommended safety range, what minimum distance x must
+the rope sa

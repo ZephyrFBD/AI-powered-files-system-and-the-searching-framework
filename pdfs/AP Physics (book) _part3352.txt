@@ -1,0 +1,30 @@
+umber A) is conserved, as well as electric charge 
+When a nucleus emits
+an 
+particle 
+the remaining nucleus will be different from the original: it
+has lost two protons and two neutrons. Radium 226 
+for example, is an 
+emitter. It decays to a nucleus with
+and
+The nucleus with
+is radon (Rn)—see Appendix B or the Periodic Table.
+Thus radium decays to radon with the emission of an 
+particle. This is written
+See Fig. 30–5.
+When 
+decay occurs, a different element is formed. The daughter nucleus
+(
+in this case) is different from the parent nucleus (
+in this case). This
+changing of one element into another is called transmutation of the elements.
+Alpha decay can be written in general as
+where N is the parent,
+the daughter, and Z and A are the atomic number and
+atomic mass number, respectively, of the parent.
+EXERCISE C
+decays by 
+emission to what element? (a) Pb, (b) Gd, (c) Sm,
+(d) Er, (e) Yb.
+Alpha decay occurs because the strong nuclear force is unable to hold very
+large nuclei together. T

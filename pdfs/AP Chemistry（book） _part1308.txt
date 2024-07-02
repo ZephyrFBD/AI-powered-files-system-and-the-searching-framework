@@ -1,0 +1,21 @@
+ond strength versus bond length for N ¬ N bonds.
+As the number of bonds between the carbon atoms increases, the bond length 
+decreases and the bond enthalpy increases. That is, the carbon atoms are held more 
+closely and more tightly together. In general, as the number of bonds between two atoms 
+increases, the bond grows shorter and stronger. This trend is illustrated in Figure 8.16 for 
+N¬N single, double, and triple bonds.
+ 
+SECTION 8.8   
+Strengths and Lengths of Covalent Bonds 
+327
+(d) Writing the chemical equation in terms of the 
+Lewis structures of the molecules, we have:
+(b) Carbon has four valence electrons, oxygen has six, 
+and chlorine has seven, giving 4 + 6 + 2172 = 24 
+electrons for the Lewis structures. Drawing a Lewis 
+structure with all single bonds does not give the 
+central carbon atom an octet. Using multiple 
+bonds, we find that three structures satisfy the 
+octet rule:
+(c) Calculating the formal charges on each atom gives:
+The first structure is expected to be th

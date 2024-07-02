@@ -1,0 +1,13 @@
+electric charges. What factors affect the magnitude of this force? To find an
+answer, the French physicist Charles Coulomb (1736–1806) investigated electric
+forces in the 1780s using a torsion balance (Fig. 16–13) much like that used by
+Cavendish for his studies of the gravitational force (Chapter 5).
+Precise instruments for the measurement of electric charge were not available
+in Coulomb’s time. Nonetheless, Coulomb was able to prepare small spheres with
+different magnitudes of charge in which the ratio of the charges was known.†
+Although he had some difficulty with induced charges, Coulomb was able to
+argue that the electric force one tiny charged object exerts on a second tiny charged
+object is directly proportional to the charge on each of them. That is, if the charge
+on either one of the objects is doubled, the force is doubled; and if the charge 
+on both of the objects is doubled, the force increases to four times the original
+value. This was the case when the distance between th

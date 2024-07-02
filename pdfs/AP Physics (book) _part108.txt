@@ -1,0 +1,22 @@
+ts of 
+or 
+but the dimen-
+sions are always a length [L] divided by a time [T]: that is,
+The formula for a quantity may be different in different cases, but the dimen-
+sions remain the same. For example, the area of a triangle of base b and height h
+is
+whereas the area of a circle of radius r is
+The formulas
+are different in the two cases, but the dimensions of area are always 
+Dimensions can be used as a help in working out relationships, a procedure
+referred to as dimensional analysis. One useful technique is the use of dimen-
+sions to check if a relationship is incorrect. Note that we add or subtract
+quantities only if they have the same dimensions (we don’t add centimeters 
+and hours); and the quantities on each side of an equals sign must have the
+same dimensions. (In numerical calculations, the units must also be the same on
+both sides of an equation.)
+For example, suppose you derived the equation
+where 
+is
+the speed of an object after a time ,
+is the object’s initial speed, and t

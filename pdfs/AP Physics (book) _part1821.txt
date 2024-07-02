@@ -1,0 +1,38 @@
+Hint: The electric field outside 
+a uniformly charged sphere is the same as if all the charge
+were concentrated at its center.]
+48. (a) The electric field near the Earth’s surface has magni-
+tude of about 
+What is the acceleration experienced
+by an electron near the surface of the Earth? (b) What about
+a proton? (c) Calculate the ratio of each acceleration to
+49. A water droplet of radius 0.018 mm remains stationary in
+the air. If the downward-directed electric field of the Earth
+is 
+how many excess electron charges must the
+water droplet have?
+50. Estimate the net force between the CO group and the HN
+group shown in Fig. 16–63. The C and O have charges
+and the H and N have charges 
+where
+[Hint: Do not include the “internal”
+forces between C and O, or between H and N.]
+e = 1.6 * 10–19 C.
+&0.20e,
+&0.40e,
+150 NC,
+g = 9.8 ms2.
+150 NC.
+150 NC
+32 mC.
+General Problems
+0.12 nm
+C+
+O−
+H+
+N−
+0.10 nm
+0.28 nm
+FIGURE 16–63 Problem 50.
+51. In a simple model of the hydrogen atom, the electron
+rev

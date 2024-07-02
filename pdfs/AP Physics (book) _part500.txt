@@ -1,0 +1,30 @@
+m g
+Gravity on Everest. Estimate the effective
+value of g on the top of Mt. Everest, 8850 m (29,035 ft) above sea level 
+(Fig. 5–20). That is, what is the acceleration due to gravity of objects allowed to
+fall freely at this altitude? Ignore the mass of the mountain itself.
+APPROACH The force of gravity (and the acceleration due to gravity g) depends
+on the distance from the center of the Earth, so there will be an effective value
+on top of Mt. Everest which will be smaller than g at sea level. We assume the
+Earth is a uniform sphere (a reasonable “estimate”).
+SOLUTION We use Eq. 5–5, with 
+replaced by  
+which is a reduction of about 3 parts in a thousand (0.3%).
+g = G mE
+r2
+=
+A6.67 * 10–11 Nm2kg2BA5.98 * 1024 kgB
+A6.389 * 106 mB
+2
+= 9.77 ms2,
+6389 km = 6.389 * 106 m:
+r = 6380 km + 8.9 km =
+rE
+g¿
+EXAMPLE 5;11
+ESTIMATE
+FIGURE 5;20 Example 5–11. Mount
+Everest, 8850 m (29,035 ft) above sea
+level; in the foreground, the author
+with sherpas at 5500 m (18,000 ft).
+5–7 Satellites and “Weig

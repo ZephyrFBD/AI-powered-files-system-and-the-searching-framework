@@ -1,0 +1,53 @@
+, and so add together. The midpoint is 0.050 m from each wire.
+I
+2
+I
+2
+I
+1 ,
+I
+1
+I
+2 = 7.0 A
+I
+1 = 5.0 A
+EXAMPLE 20;10
+From Eq. 20–6 the magnitudes of 
+and 
+are
+The total field is up with a magnitude of
+B = B1 + B2 = 4.8 * 10–5 T.
+B2 = m0 I
+2
+2pr
+=
+A4p * 10–7 TmAB(7.0 A)
+2p(0.050 m)
+= 2.8 * 10–5 T.
+B1 = m0 I
+1
+2pr
+=
+A4p * 10–7 TmAB(5.0 A)
+2p(0.050 m)
+= 2.0 * 10–5 T;
+B2
+B1
+SECTION 20–6
+Force between Two Parallel Wires
+571
+EXERCISE H Suppose both 
+and 
+point into the page in Fig. 20–24. What then is the
+field B midway between the wires?
+I
+2
+I
+1
+Magnetic field due to four wires.
+Figure 20–25 shows four long parallel wires which carry equal currents into or
+out of the page as shown. In which configuration, (a) or (b), is the magnetic field
+greater at the center of the square?
+RESPONSE It is greater in (a). The arrows illustrate the directions of the field
+produced by each wire; check it out, using the right-hand rule to confirm these
+results. The net field at the center is the superpos

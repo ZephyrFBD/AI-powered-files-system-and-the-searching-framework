@@ -1,0 +1,29 @@
+owest possible energy of a neutron
+contained in a typical nucleus of radius 
+[Hint: Assume a particle can have an energy as large as its
+uncertainty.]
+13. (III) How precisely can the position of a 5.00-keV 
+electron be measured assuming its energy is known to
+1.00%?
+14. (III) Use the uncertainty principle to show that if an
+electron were present in the nucleus 
+its
+kinetic energy (use relativity) would be hundreds of MeV.
+(Since such electron energies are not observed, we
+conclude that electrons are not present in the nucleus.)
+[Hint: Assume a particle can have an energy as large as its
+uncertainty.]
+Ar L 10–15 mB,
+1.2 * 10–15 m.
+¢EE
+12 ms.
+120 ms
+Am = 1.67 * 10–27 kgB
+Problems
+6. Which of the following is the best paraphrasing of the
+Heisenberg uncertainty principle?
+(a) Only if you know the exact position of a particle can
+you know the exact momentum of the particle.
+(b) The larger the momentum of a particle, the smaller the
+position of the particle.
+(c) The more precisely you know

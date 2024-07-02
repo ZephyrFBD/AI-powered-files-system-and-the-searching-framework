@@ -1,0 +1,27 @@
+the current 
+in each loop is
+7.0 A. What is the
+net force on the
+wire?
+´-shaped
+´-shaped
+4.8 * 10–21 kgms
+General Problems
+74. (a) What value of magnetic field would make a beam of
+electrons, traveling to the west at a speed of 
+go undeflected through a region where there is a uniform
+electric field of 
+pointing south? (b) What 
+is the direction of the magnetic field if it is perpendicular
+to the electric field? (c) What is the frequency of the circular
+orbit of the electrons if the electric field is turned off?
+75. Magnetic fields are very useful in particle accelerators for
+“beam steering”; that is, the magnetic fields can be used 
+to change the direction of the beam of charged particles
+without altering their speed (Fig.20–65). Show how this could
+work with a beam of protons. What happens to protons
+that are not moving with the speed for which the magnetic
+field was designed? If the field extends over a region 5.0 cm
+wide and has a magnitude
+of 0.41 T, by approximately
+what angle 

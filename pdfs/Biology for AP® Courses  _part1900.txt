@@ -1,0 +1,13 @@
+ap. Pairwise-end sequencing is, therefore, more cumbersome than shotgun sequencing,
+but it is easier to reconstruct the sequence because there is more available information.
+Next-generation Sequencing
+Since 2005, automated sequencing techniques used by laboratories are under the umbrella of next-generation sequencing,
+which is a group of automated techniques used for rapid DNA sequencing. These automated low-cost sequencers can
+generate sequences of hundreds of thousands or millions of short fragments (25 to 500 base pairs) in the span of one day.
+These sequencers use sophisticated software to get through the cumbersome process of putting all the fragments in order.
+Chapter 17 | Biotechnology and Genomics
+699
+Comparing Sequences
+A sequence alignment is an arrangement of proteins, DNA, or RNA; it is used to identify regions of similarity
+between cell types or species, which may indicate conservation of function or structures. Sequence
+alignments may be used to construct phylogenetic tre

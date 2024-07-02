@@ -1,0 +1,41 @@
+hrough a distance d. If the direction of a constant force 
+makes an angle with the direction of motion, the work done
+by this force is
+(6;1)
+Energy can be defined as the ability to do work. In SI units,
+work and energy are measured in joules
+Kinetic energy (KE) is energy of motion. An object of
+mass m and speed v has translational kinetic energy
+(6;3)
+The work-energy principle states that the net work done on
+an object (by the net force) equals the change in kinetic energy
+of that object:
+(6;4)
+Potential energy (PE) is energy associated with forces that
+depend on the position or configuration of objects. Gravitational
+potential energy is
+(6;6)
+where y is the height of the object of mass m above an arbitrary
+reference point. Elastic potential energy is given by
+(6;9)
+for a stretched or compressed spring, where x is the displacement
+peel =
+1
+2 kx2
+peG = mgy,
+W
+net = ¢ke =
+1
+2 mv2
+2 - 1
+2 mv1
+2.
+ke =
+1
+2 mv2.
+(1 J = 1 Nm).
+W = Fd cos u.
+u
+F
+B
+from the unstretched position and k is the sp

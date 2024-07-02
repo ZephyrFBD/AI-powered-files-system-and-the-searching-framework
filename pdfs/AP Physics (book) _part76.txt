@@ -1,0 +1,15 @@
+y between 8.12 grams and 8.22 grams. The actual mass
+of the returned diamond is most likely between 8.04 grams and 8.14 grams.
+These two ranges overlap, so the data do not give you a strong reason to
+doubt that the returned diamond is yours.
+Significant Figures
+The number of reliably known digits in a number is called the number of
+significant figures. Thus there are four significant figures in the number 23.21 cm
+and two in the number 0.062 cm (the zeros in the latter are merely place holders
+that show where the decimal point goes). The number of significant figures may not
+always be clear. Take, for example, the number 80. Are there one or two signifi-
+cant figures? We need words here: If we say it is roughly 80 km between two
+cities, there is only one significant figure (the 8) since the zero is merely a place
+holder. If there is no suggestion that the 80 is a rough approximation, then we
+can often assume (as we will in this book) that it is 80 km within an accuracy of
+about 1 or 2 

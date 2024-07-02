@@ -1,0 +1,13 @@
+ of pixels on a digital sensor.
+Fine-grained films and tiny pixels are “slower,” meaning they require longer expo-
+sures for a given light level. All pixels are rarely used because digital cameras have
+averaging (or “compression”) programs, such as JPEG, which reduce memory size
+by averaging over pixels where little contrast is detected. But some detail is inevi-
+tably lost. For example, a small blue lake may seem uniform, and coding 600 pixels
+as identical takes less memory than specifying all 600. Any slight variation of the
+water surface is lost. Full “RAW” data uses more memory. Film records everything
+(down to its grain size), as does RAW if your camera offers it. The processor also
+averages over pixels in low light conditions, resulting in a less sharp photo.
+The quality of the lens strongly affects the image quality, and we discuss lens
+resolution and diffraction effects in Sections 25–6 and 25–7. The sharpness, or
+resolution, of a lens is often given as so many lines per millim

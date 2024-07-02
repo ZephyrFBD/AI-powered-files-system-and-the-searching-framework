@@ -1,0 +1,14 @@
+decimal 
+point—0.0200 g (three significant figures); 3.0 cm (two significant figures).
+however, that precise measurements can be inaccurate. For example, if a very sensitive 
+balance is poorly calibrated, the masses we measure will be consistently either high or 
+low. They will be inaccurate even if they are precise.
+Significant Figures
+Suppose you determine the mass of a dime on a balance capable of measuring to the 
+nearest 0.0001 g. You could report the mass as 2.2405 { 0.0001 g. The {  notation 
+(read “plus or minus”) expresses the magnitude of the uncertainty of your measurement. 
+In much scientific work, we drop the {  notation with the understanding that there is 
+always some uncertainty in the last digit reported for any measured quantity.
+Figure 1.25 shows a thermometer with its liquid column between two scale marks. 
+We can read the certain digits from the scale and estimate the uncertain one. Seeing that 
+the liquid is between the 25 °C and 30 °C marks, we estimate the tempe

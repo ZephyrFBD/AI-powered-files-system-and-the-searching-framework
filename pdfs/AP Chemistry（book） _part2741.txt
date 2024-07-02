@@ -1,0 +1,41 @@
+ the P and does not ionize):
+ 
+H3PO31aq2 + OH-1aq2 ¡ H2PO3
+-1aq2 + H2O1l2 
+[17.13]
+ 
+H2PO3
+-1aq2 + OH-1aq2 ¡ HPO3
+2 -1aq2 + H2O1l2 
+[17.14]
+When the neutralization steps of a polyprotic acid or polybasic base are sufficiently 
+separated, the titration has multiple equivalence points. Figure 17.15 shows the two 
+equivalence points corresponding to Equations 17.13 and 17.14.
+You can use titration data such as that shown in Figure 17.15 to figure out the pKas of 
+the weak polyprotic acid. For example, let’s write the Ka1 and Ka2 reactions for phospho-
+rous acid:
+H3PO31aq2 ∆H2PO3
+-1aq2 + H +1aq2  Ka1 =
+3H2PO3
+-43H +4
+3H3PO34
+H2PO3
+-1aq2 ∆HPO3
+2 -1aq2 + H +1aq2  Ka2 =
+3HPO3
+2 -43H +4
+3H2PO3
+-4
+If we rearrange these equilibrium expressions, you see that we obtain Henderson– 
+Hasselbalch equations:
+ pH = pKa1 + log 
+3H2PO3
+-4
+3H3PO34
+ pH = pKa2 + log 
+3HPO3
+2 -4
+3H2PO3
+-4
+Therefore, if the concentrations of each acid and base conjugate pair are identical for each 
+equilibrium, log 112 = 0 and

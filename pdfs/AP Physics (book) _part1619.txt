@@ -1,0 +1,53 @@
+cal metabolic rates for a
+variety of human activities are given in Table 15–2 (top of next page) for an
+“average” 65-kg adult.
+kcalh
+¢U = Q - W,
+*
+SECTION 15–4
+The Second Law of Thermodynamics—Introduction
+419
+TABLE 15–2 Metabolic Rates
+(65-kg human)
+Metabolic Rate 
+(approximate)
+Activity
+watts
+Sleeping
+60
+70
+Sitting upright
+100
+115
+Light activity 
+(eating, dressing,
+household chores)
+200
+230
+Moderate work 
+(tennis, walking)
+400
+460
+Running 
+1000
+1150
+Bicycling (race)
+1100
+1270
+(15 kmh)
+kcalh
+†By spontaneously, we mean by itself without input of work of some sort. (A refrigerator does move
+heat from a cold environment to a warmer one, but only because its motor does work—Section 15–6.)
+(a) Initial state.
+(b) Later: cup reassembles
+       and rises up.
+(c) Later still: cup lands on table.
+?
+?
+FIGURE 15–10 Have you ever
+observed this process, a broken
+cup spontaneously reassembling
+and rising up onto a table? This
+process could conserve energy.
+But it never happens.
+Energy transformat

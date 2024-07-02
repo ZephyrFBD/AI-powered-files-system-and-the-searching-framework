@@ -1,0 +1,26 @@
+ge in Fig. 9–10, the force can be in any
+direction and we can know the direction only after solving the equations. (The
+hinge is assumed small and smooth, so it can exert no internal torque on the beam.)
+Hinged beam and cable. A uniform beam, 2.20 m long with
+mass
+is mounted by a small hinge on a wall as shown in Fig. 9–10.
+The beam is held in a horizontal position by a cable that makes an angle
+The beam supports a sign of mass 
+suspended from its end. Deter-
+mine the components of the force 
+that the (smooth) hinge exerts on the beam,
+and the tension 
+in the supporting cable.
+APPROACH Figure 9–10 is the free-body diagram for the beam, showing all
+the forces acting on the beam. It also shows the components of 
+and a guess
+for the direction of 
+We have three unknowns,
+and 
+(we are
+given ), so we will need all three equations,
+SOLUTION The sum of the forces in the vertical (y) direction is
+(i)
+In the horizontal (x) direction, the sum of the forces is
+(ii)
+For the torque equation, we choo

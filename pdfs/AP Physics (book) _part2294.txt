@@ -1,0 +1,49 @@
+carry equal 1.0-A currents in the same direc-
+tion, Fig. 20–75. Determine 
+along the x axis between the
+wires as a function
+of x. (b) Graph 
+B
+vs. x
+from
+to
+.
+x = 89.0 mm
+x = 1.0 mm
+B
+B
+Search and Learn
+M
+N
+P
+3.8 cm
+3.8 cm
+3.8 cm
+FIGURE 20–73
+Problems 89 and 90.
+A: Near the poles, where the field lines are closer together.
+B: Circles, pointing counterclockwise.
+C: (b), (c), (d).
+D: 0.15 N.
+E: (b), (c), (d).
+F: Zero.
+G: Negative; the helical path would rotate in the opposite
+direction (still going to the right).
+H:
+up.
+0.8 * 10–5 T,
+ANSWERS TO EXERCISES
+d = 9.00 cm
+y
+x
+I
+I
+FIGURE 20–75
+Search and Learn 4.
+5. The force on a moving particle in a magnetic field is the idea
+behind electromagnetic pumping. It can be used to pump
+metallic fluids (such as sodium) and to pump blood in
+artificial heart machines. A basic design is shown in
+Fig. 20–76. For blood, an electric field is applied perpen-
+dicular to a blood vessel and to the magnetic field. Explain
+in detail how ions in the blood are ca

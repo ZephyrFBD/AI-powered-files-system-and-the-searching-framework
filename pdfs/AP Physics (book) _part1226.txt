@@ -1,0 +1,45 @@
+er a time , each 
+part of the wave (indeed, the whole wave “shape”) has moved to the right a dis-
+tance v . Figure 11–48 shows the wave at
+as a solid curve, and at a later
+time as a dashed curve. Consider any point on the wave at
+say, a crest 
+at some position x. After a time , that crest will have traveled a distance v , so 
+its new position is a distance v greater than its old position. To describe this 
+crest (or other point on the wave shape), the argument of the sine function must
+have the same numerical value, so we replace x in Eq. 11–21 by
+(11;22)
+Said another way, if you are on a crest, as increases, x must increase at the same
+rate so that
+remains constant.
+For a wave traveling along the x axis to the left, toward decreasing values of x,
+v becomes 
+so
+y = A sin c 2p
+l (x + vt)d.
+–v,
+(x - vt)
+t
+y = A sin c 2p
+l (x - vt)d.
+(x - vt):
+t
+t
+t
+t = 0:
+t
+t = 0
+t
+t
+y = sin 2p = sin 0.
+x = l,
+l
+y = A sin 2p
+l x,
+t = 0,
+l
+*
+320
+CHAPTER 11
+Oscillations and Waves
+The wave speed (how fast a

@@ -1,0 +1,139 @@
+.79 
+(a) B2
++, s
+2
+2s s*
+2s
+2p
+1
+2p , increase (b) Li2
++, s
+2
+1s s*
+1s 2s
+1
+2s , increase (c) N2
++, 
+s
+2
+2s s*
+2s 2p
+4
+2p s
+1
+2p , increase (d) Ne2
+2 +, s
+2
+2s s*
+2s 2s
+2
+2p p
+4
+2p p*
+2p
+4, decrease 
+9.81 CN, s
+2
+2s s*
+2s 2s
+2
+2p p
+3
+2p , bond order = 2.5; CN+, s
+2
+2s s*
+2s
+2s
+2
+2p p
+2
+2p , 
+bond order = 2.0; CN-, s
+2
+2s s*
+2s
+2s
+2
+2p p
+4
+2p , bond order = 3.0. (a) CN- 
+(b) CN, CN+ 9.83 (a) 3s, 3px, 3py, 3pz (b) p
+3p (c) 2 (d) If the MO dia-
+gram for P2 is similar to that of N2, P2 will have no unpaired electrons 
+and be diamagnetic. 9.87 (a) PF4
+-, BrF4
+- and ClF4
+- (b) AlF4
+- (c) BrF4
+- 
+(d) PF4
+- and ClF4
++
+9.90
+Molecule
+Electron-Domain 
+Geometry
+Hybridization 
+of Central 
+Atom
+Dipole   
+Moment?   
+Yes or No
+CO2
+Linear
+sp
+No
+NH3
+Tetrahedral
+sp3
+Yes
+CH4
+Tetrahedral
+sp3
+No
+BH3
+Trigonal planar
+sp2
+No
+SF4
+Trigonal 
+bipyramidal
+Not applicable
+Yes
+SF6
+Octahedral
+Not applicable
+No
+Cl
+Cl
+C
+C
+C
+H
+H
+Cl
+H
+C
+C
+H
+H
+Cl
+C
+C
+H
+Cl
+Cl
+H
+H
+Cl
+Cl
+C
+Polar
+Molecular geometries
+Nonpolar
+Polar
+C
+H
+Cl
+H
+Cl

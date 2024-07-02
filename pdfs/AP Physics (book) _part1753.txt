@@ -1,0 +1,18 @@
+le investigate the electric field surrounding a charge or
+group of charges by measuring the force on a small positive test charge which is
+at rest. By a test charge we mean a charge so small that the force it exerts does
+not significantly affect the charges that create the field. If a tiny positive test
+charge q is placed at various locations in the vicinity of a single positive charge Q
+as shown in Fig. 16–23 (points A, B, C), the force exerted on q is as shown. The
+force at B is less than at A because B’s distance from Q is greater (Coulomb’s
+law); and the force at C is smaller still. In each case, the force on q is directed
+radially away from Q. The electric field is defined in terms of the force on such a
+positive test charge. In particular, the electric field,
+at any point in space is
+defined as the force 
+exerted on a tiny positive test charge placed at that point
+divided by the magnitude of the test charge q:
+(16;3)
+More precisely,
+is defined as the limit of 
+as q is taken small

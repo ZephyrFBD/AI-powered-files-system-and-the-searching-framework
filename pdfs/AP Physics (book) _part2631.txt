@@ -1,0 +1,15 @@
+s, it
+can serve as one means for distinguishing the nature of light.
+Note, as shown in Fig. 24–2, that diffraction is most prominent when the size
+of the opening is on the order of the wavelength of the wave. If the opening is
+much larger than the wavelength, diffraction may go unnoticed.
+Does light exhibit diffraction? In the mid-seventeenth century, the Jesuit
+priest Francesco Grimaldi (1618–1663) had observed that when sunlight entered
+a darkened room through a tiny hole in a screen, the spot on the opposite wall
+was larger than would be expected from geometric rays. He also observed that
+the border of the image was not clear but was surrounded by colored fringes.
+Grimaldi attributed this to the diffraction of light.
+The wave model of light nicely accounts for diffraction. But the ray model
+(Chapter 23) cannot account for diffraction, and it is important to be aware of such
+limitations to the ray model. Geometric optics using rays is successful in a wide
+range of situations only bec

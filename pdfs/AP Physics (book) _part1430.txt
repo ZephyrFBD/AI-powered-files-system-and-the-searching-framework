@@ -1,0 +1,15 @@
+closely, and indeed the gas we now describe is referred to as
+an ideal gas. The assumptions representing the basic postulates of kinetic theory
+for an ideal gas are:
+1. There are a large number of molecules, N, each of mass m, moving in random
+directions with a variety of speeds. This assumption agrees with our observation
+that a gas fills its container and, in the case of air on Earth, is kept from
+escaping only by the force of gravity.
+2. The molecules are, on average, far apart from one another. That is, their average
+separation is much greater than the diameter of each molecule.
+3. The molecules are assumed to obey the laws of classical mechanics, and are
+assumed to interact with one another only when they collide.Although molecules
+exert weak attractive forces on each other between collisions, the potential
+energy associated with these forces is small compared to the kinetic energy.
+4. Collisions with another molecule or the wall of the vessel are assumed to be
+perfectly elastic, 

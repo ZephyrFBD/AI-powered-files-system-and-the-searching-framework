@@ -1,0 +1,37 @@
+onegativity of Y increases, so does the acidity of the substance. This happens for two 
+reasons: First, as electron density is drawn toward Y, the O ¬H bond becomes weaker 
+and more polar, thereby favoring loss of H+. Second, because the conjugate base of any 
+acid YOH is usually an anion, its stability generally increases as the electronegativity 
+of Y increases. This trend is illustrated by the Ka values of the hypohalous acids (YOH 
+acids where Y is a halide ion), which decrease as the electronegativity of the halogen 
+atom decreases (Figure 16.20).
+ 
+SECTION 16.10  Acid–Base Behavior and Chemical Structure 
+701
+As the electronegativity 
+of Y increases, electron 
+density shifts toward Y.
++
++
+−
++
+1
+2
+The O—H bond 
+becomes more polar.
+3 Protons are more readily 
+transferred to H2O, leading 
+to increased acid strength.
+Ka ! 3.0 " 10#8
+Ka ! 2.5 " 10#9
+Ka ! 2.3 " 10#11
+Kw 
+! 1.0 " 10#14
+Hypochlorous acid
+Hypobromous acid
+Hypoiodous acid
+Water
+Substance
+Electronegativity
+ of Y
+Dissociatio

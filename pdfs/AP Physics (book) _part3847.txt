@@ -1,0 +1,71 @@
+ in a rotating system, for which a point farther from the 
+rotation axis has a higher linear speed. On the other hand, when viewed from
+the rotating system, the motion can be described using Newton’s second law,
+if we add a “pseudoforce” term corresponding to this Coriolis effect.
+©F
+B = ma
+B,
+v
+B,
+v
+B
+rB 7 r
+A.
+v
+A
+vB = rBv,
+v
+A,
+r
+A
+v
+A = r
+Av,
+v
+B
+A
+v
+B
+v
+B
+rB
+r
+A
+v,
+v
+O
+(a) Inertial reference frame
+Path of
+ball
+Path of
+ball
+Rotation
+A
+s
+B
+O
+(b) Rotating reference frame
+A
+s
+B
+A
+v
+B
+B
+v
+B
+v
+B
+v
+B
+FIGURE C–2 The origin of the 
+Coriolis effect. Looking down on a
+rotating platform, (a) as seen from a
+nonrotating inertial reference frame,
+and (b) as seen from the rotating
+platform as frame of reference.
+Let us determine the magnitude of the Coriolis acceleration for the simple case
+described above. (We assume v is large and distances short, so we can ignore
+gravity.) We do the calculation from the inertial reference frame (Fig. C–2a). The
+ball moves radially outward a distance
+at speed v

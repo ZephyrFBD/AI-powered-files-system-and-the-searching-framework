@@ -1,0 +1,174 @@
+, for then the arc length 
+equals
+the chord length AB. We want to find the instantaneous acceleration, so we let 
+approach zero, write the above expression as an equality, and then solve for 
+To get the centripetal acceleration,
+we divide 
+by 
+But 
+is the linear speed, v, of the object, so the radial (centripetal)
+¢l¢t
+[¢t S 0]
+aR =
+¢v
+¢t
+= v
+r
+¢l
+¢t
+.
+¢t:
+¢v
+aR,
+[¢t S 0]
+¢v = v
+r ¢l.
+¢v:
+¢t
+¢l
+¢t
+¢v
+v
+L ¢l
+r .
+v = v1 = v2
+¢t
+¢u
+¢v
+B
+v
+B
+2 ,
+v
+B
+1,
+v
+B
+2 .
+v
+B
+1
+¢u
+v
+B
+2 ,
+v
+B
+1,
+aR.
+a
+B
+R.
+¢v
+B
+a
+B,
+¢v
+B
+¢v
+B
+v
+B
+1 ,
+v
+B
+2
+¢u
+¢l
+¢t
+v
+B
+2 = v
+B
+1 + ¢v
+B
+v
+B
+2 - v
+B
+1 = ¢v
+B,
+¢u.
+¢l
+¢t,
+¢t
+¢t.
+¢v
+B
+a
+B = v
+B
+2 - v
+B
+1
+¢t
+=
+¢v
+B
+¢t
+,
+v1 = v2 = v
+110
+CHAPTER 5
+Circular Motion; Gravitation
+†Appendix A contains a review of geometry.
+A
+Δl
+r
+r
+Δθ
+θ
+Δ
+B
+C
+(a)
+r
+r
+lim Δt
+Δt→0
+C
+(c)
+(b)
+1
+2
+1
+1
+2
+2
+=
+Δ
+−
+1
+2
+Δ
+=
+v
+B
+v
+B
+v
+B
+v
+B
+a
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+FIGURE 5;2 Determining the
+change in velocity,
+for a particle
+moving in a circle. The length 
+is
+the distance along the arc, from 
+A to B.
+¢l

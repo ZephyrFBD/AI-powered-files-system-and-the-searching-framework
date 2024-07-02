@@ -1,0 +1,43 @@
+ coulombs is 1.00 Ah?
+¢Q = I ¢t
+(Ah)
+Electron current
+Conventional current
+Device
++
+–
+Conventional
+current
+Electron
+flow
+FIGURE 18–8 Conventional current
+from 
+to 
+is equivalent to a
+negative electron flow from 
+to ±.
+–
+–
+±
+(b)
+(c)
+(a)
++
+–
++
+–
++
+–
+FIGURE 18–7 Example 18–2.
+18–3 Ohm’s Law: Resistance and Resistors
+To produce an electric current in a circuit, a difference in potential is required.
+One way of producing a potential difference along a wire is to connect its ends to
+the opposite terminals of a battery. It was Georg Simon Ohm (1787–1854) who
+established experimentally that the current in a metal wire is proportional to the
+potential difference V applied to its two ends:
+If, for example, we connect a wire to the two terminals of a 6-V battery, the cur-
+rent in the wire will be twice what it would be if the wire were connected to a 3-V
+battery. It is also found that reversing the sign of the voltage does not affect the
+magnitude of the current.
+I r V.
+Exactly how large the cu

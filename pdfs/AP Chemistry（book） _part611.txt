@@ -1,0 +1,33 @@
+d 
+asked to calculate the number of grams of the solute in the solution.
+Plan We can use the definition of molarity (Equation 4.31) to  
+determine the number of moles of solute, and then convert  
+moles to grams using the molar mass of the solute.
+MNa2SO4 = moles Na2SO4
+liters soln
+Solve Calculating the moles of Na2SO4 using the molarity and  
+volume of solution gives
+ MNa2SO4 = moles Na2SO4
+liters soln
+ Moles Na2SO4 = liters soln * MNa2SO4 
+ = 10.350 L soln2a
+0.500 mol Na2SO4 
+1 L soln
+b 
+ = 0.175 mol Na2SO4
+Because each mole of Na2SO4 has a mass of 142.1 g, the required 
+number of grams of Na2SO4 is
+Grams Na2SO4 = 10.175 mol Na2SO42a
+142.1 g Na2SO4
+1 mol Na2SO4
+b 
+ = 24.9 g Na2SO4
+Check The magnitude of the answer, the units, and the number of 
+significant figures are all appropriate.
+ 
+SECTION 4.5   
+Concentrations of Solutions 
+147
+dilution
+Solutions used routinely in the laboratory are often purchased or prepared in concen-
+trated form (called stock solutions). Aqueous solutions o

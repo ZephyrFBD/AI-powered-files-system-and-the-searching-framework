@@ -1,0 +1,36 @@
+ 10-3 = 5.0 * 10-12 M
+ 
+pH = -log15.0 * 10-122 = 11.30
+At 25 °C the pH of a basic solution is greater than 7.00. The relationships among 3H+4, 3OH -4, 
+and pH are summarized in Table 16.1.
+TABLE 16.1 Relationships between 3h+ 4, 3Oh-4, and pH at 25 °C for 
+Acidic, Neutral, and Basic Aqueous Solutions
+Acidic
+Neutral
+Basic
+pH
+67.00
+7.00
+77.00
+3H+41M2
+71.0 * 10-7
+1.0 * 10-7
+61.0 * 10-7
+3OH-41M2
+61.0 * 10-7
+1.0 * 10-7
+71.0 * 10-7
+Give It Some Thought
+Is it possible for a solution to have a negative pH? If so, would that pH signify a 
+basic or acidic solution?
+Calculate the pH values for the two solutions of Sample Exercise 16.5.
+Sample Exercise 16.6 
+Calculating pH from 3H+ 4
+SOLUTION
+Analyze We are asked to determine the pH of aqueous solutions for 
+which we have already calculated 3H+4.
+Plan We can calculate pH using its defining equation, Equation 16.17.
+Solve
+(a) In the ﬁrst instance we found 3H+4 to be 1.0 * 10-12 M, so that
+pH = -log11.0 * 10-122 = -1-12.002 = 12.00
+Because 1.0 * 10-

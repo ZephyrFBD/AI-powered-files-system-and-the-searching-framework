@@ -1,0 +1,21 @@
+ted in this way increases the pH of the solution, making it basic. 
+Acetate ion, for example, being the conjugate base of a weak acid, reacts with water to 
+produce acetic acid and hydroxide ions, thereby increasing the pH of the solution:
+ 
+CH3COO-1aq2 + H2O1l2 ∆ CH3COOH1aq2 + OH -1aq2 
+[16.44]
+Give It Some Thought
+Will NO3
+- ions affect the pH of a solution? What about CO3
+2- ions?
+The situation is more complicated for salts containing anions that have ionizable 
+protons, such as HSO3
+-. These salts are amphiprotic (Section 16.2), and how they behave 
+in water is determined by the relative magnitudes of Ka and Kb for the ion, as shown in 
+Sample Exercise 16.19. If Ka 7 Kb, the ion causes the solution to be acidic. If Kb 7 Ka, the 
+solution is made basic by the ion.
+A Cation’s Ability to React with Water
+Polyatomic cations containing one or more protons can be considered the conjugate 
+acids of weak bases. The NH4
++ ion, for example, is the conjugate acid of the weak base 
+NH3. Thus, 

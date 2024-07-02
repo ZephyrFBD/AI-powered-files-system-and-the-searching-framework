@@ -1,0 +1,42 @@
+. Light can also be
+partially polarized.
+When an unpolarized light beam passes through a Polaroid
+sheet, the emerging beam is plane-polarized. When a light beam
+is polarized and passes through a Polaroid, the intensity varies
+as the Polaroid is rotated. Thus a Polaroid can act as a polarizer
+or as an analyzer.
+The intensity 
+of a plane-polarized light beam incident on
+a Polaroid is reduced to
+(24;5)
+where 
+is the angle between the axis of the Polaroid and the
+initial plane of polarization.
+Light can also be partially or fully polarized by reflection.
+If light traveling in air is reflected from a medium of index of
+refraction n, the reflected beam will be completely plane-polarized
+if the incident angle 
+is given by
+(24;6b)
+The fact that light can be polarized shows that it must be a trans-
+verse wave.
+tan up = n.
+up
+u
+I = I0 cos2 u
+I
+0
+1
+2 l
+sin u =
+l
+D
+,
+u
+l
+u.
+l.
+u
+Summary
+1. Does Huygens’ principle apply to sound waves? To water
+waves? Explain how Huygens’ principle makes sense for

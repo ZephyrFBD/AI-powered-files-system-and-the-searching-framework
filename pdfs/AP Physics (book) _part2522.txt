@@ -1,0 +1,20 @@
+t
+make as sharp an image as a plane mirror will. However, as we show below,
+if the mirror is small compared to its radius of curvature, so that a reflected ray
+makes only a small angle with the incident ray (
+in Fig. 23–14), then the rays
+will cross each other at very nearly a single point, or focus. In the case shown in
+Fig. 23–14, the incoming rays are parallel to the principal axis, which is defined 
+as the straight line perpendicular to the curved surface at its center (line CA in
+Fig. 23–14). The point F, where incident parallel rays come to a focus after reflec-
+tion, is called the focal point of the mirror. The distance between F and the center
+of the mirror, length FA, is called the focal length, f, of the mirror. The focal
+point is also the image point for an object infinitely far away along the principal
+axis. The image of the Sun, for example, would be at F.
+2u
+650
+CHAPTER 23
+Light: Geometric Optics
+FIGURE 23–13 Parallel rays 
+striking a concave spherical mirror do
+not inter

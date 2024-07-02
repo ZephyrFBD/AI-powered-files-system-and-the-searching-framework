@@ -1,0 +1,21 @@
+o electron domains orient in a linear electron-domain geometry (Table 9.1). 
+Because neither domain is a nonbonding pair of electrons, the molecular geometry is 
+also linear, and the O ¬C ¬O bond angle is 180°.
+Sample Exercise 9.1 
+Using the VSEPR Model
+Use the VSEPR model to predict the molecular geometry of (a) O3, (b) SnCl3
+-.
+SOLUTION
+Analyze We are given the molecular formulas of a molecule and a 
+polyatomic ion, both conforming to the general formula ABn and 
+both having a central atom from the p block of the periodic table. 
+(Notice that for O3, the A and B atoms are all oxygen atoms.)
+Plan To predict the molecular geometries, we draw their Lewis struc-
+tures and count electron domains around the central atom to get the 
+electron-domain geometry. We then obtain the molecular geometry 
+from the arrangement of the domains that are due to bonds.
+Solve
+(a) We can draw two resonance structures for O3:
+ 
+Because of resonance, the bonds between the central O atom and the outer O 
+atoms

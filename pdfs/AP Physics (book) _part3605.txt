@@ -1,0 +1,20 @@
+ny particles listed in Table 32–2 are unstable. The lifetime of an unstable par-
+ticle depends on which force is most active in causing the decay. When a stronger
+force influences a decay, that decay occurs more quickly. Decays caused by the
+weak force typically have lifetimes of 
+or longer (W and Z decay directly
+and more quickly). Decays via the electromagnetic force have much shorter
+lifetimes, typically about 
+to 
+and normally involve a 
+(photon).
+Most of the unstable particles included in Table 32–2 decay either via the weak or
+the electromagnetic interaction.
+Many particles have been found that decay via the strong interaction, with
+very short lifetimes, typically about 
+Their lifetimes are so short they do
+not travel far enough to be detected before decaying. The existence of such
+short-lived particles is inferred from their decay products. Consider the first such
+particle discovered (by Fermi), using a beam of 
+particles with varying
+amounts of energy directed through a hydroge

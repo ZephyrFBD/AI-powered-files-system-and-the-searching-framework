@@ -1,0 +1,57 @@
+ ions
+b = 9.45 * 1017  40K+ ions
+40
+19K ¡ 40
+18Ar +
+0
++ 1e
+ 
+ln 
+Nt
+N0
+= -kt
+ 
+ln 99
+100 = -315.41 * 10-102/yr4t
+ -0.01005 = -315.41 * 10-102/yr4t
+ 
+t =
+-0.01005
+1-5.41 * 10-102/yr
+= 1.86 * 107 yr
+SOLUTION
+Sample Integrative Exercise 
+Putting Concepts Together
+Beta emission is loss of a beta particle 1 0
+-1e2 
+by the nucleus:
+40
+19K ¡ 40
+20Ca +
+0
+-1e
+Positron emission is loss of a positron 1 0
++1e2 
+by the nucleus:
+(c) The total number of K+ ions in the sample is:
+11.00 g KCl2a 1 mol KCl
+74.55 g KCl b a 1 mol K+
+1 mol KCl b a 6.022 * 1023 K+
+1 mol K+
+b = 8.08 * 1021 K+ ions
+Of these, 0.0117% are 40K+ ions:
+(d) The decay constant (the rate constant) for 
+the radioactive decay can be calculated from 
+the half-life, using Equation 21.19:
+k = 0.693
+t1>2
+=
+0.693
+1.28 * 109 yr
+= 15.41 * 10-102/yr
+The rate equation, Equation 21.20, then 
+allows us to calculate the time required:
+That is, it would take 18.6 million years for 
+just 1.00% of the 40K in a sample to decay.
+934 
+CHAPTER 21 Nuclear 

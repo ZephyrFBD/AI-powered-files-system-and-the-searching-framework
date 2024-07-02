@@ -1,0 +1,12 @@
+ the body target cells in another part of the body.
+The remainder of this chapter focuses on how a signal, once recognized by a cell, actually manifests a change in the
+cell. The mechanism for this process is a signal transduction pathway.
+Signal Transduction Pathways
+A signal transduction pathway is a sequence of molecular interactions that transforms an extracellular signal into a
+specific cellular response. The process can be summarized like this:
+Signal (1st messenger) → Receptor → Proteins or other 2nd messengers → Cellular responses
+Signaling molecules , or ligands, are first messengers. They are small molecules that bind to larger receptor
+proteins of specific target cells. When the specific ligand binds to a receptor protein, it induces a change in the
+threedimensional shape of the receptor protein. That change initiates some kind of activity in the receptor protein.
+There are two types of signaling molecules:
+Hydrophilic ligands are signaling molecules that cannot cross the ph

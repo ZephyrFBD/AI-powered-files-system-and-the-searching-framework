@@ -1,0 +1,19 @@
+battery is to produce a potential difference, which can then
+make charges move. When a continuous conducting path is connected between
+the terminals of a battery, we have an electric circuit, Fig. 18–6a. On any diagram
+of a circuit, as in Fig. 18–6b, we use the symbol 
+or
+[battery symbol]
+to represent a battery. The device connected to the battery could be a lightbulb,
+a heater, a radio, or some other device. When such a circuit is formed, charge can
+move (or flow) through the wires of the circuit, from one terminal of the battery
+to the other, as long as the conducting path is continuous. Any flow of charge
+such as this is called an electric current.
+More precisely, the electric current in a wire is defined as the net amount of
+charge that passes through the wire’s full cross section at any point per unit time.
+Thus, the current I is defined as
+(18;1)
+where 
+is the amount of charge that passes through the conductor at any loca-
+tion during the time interval 
+Electric current is measur

@@ -1,0 +1,25 @@
+a) A rubidium atom 
+is at rest with one electron
+in an excited energy level. When the electron jumps to 
+the ground state, the atom emits a photon of wavelength
+Determine the resulting (nonrelativistic)
+recoil speed v of the atom. (b) The recoil speed sets the
+lower limit on the temperature to which an ideal gas of
+rubidium atoms can be cooled in a laser-based atom trap.
+Using the kinetic theory of gases (Chapter 13), estimate
+this “lowest achievable” temperature.
+7. Suppose a particle of mass m is confined to a one-
+dimensional box of width L. According to quantum theory,
+the particle’s wave (with 
+) is a standing wave
+with nodes at the edges of the box. (a) Show the possible
+modes of vibration on a diagram. (b) Show that the kinetic
+energy of the particle has quantized energies given by
+where n is an integer. (c) Calculate the
+ground-state energy 
+for an electron confined to a
+box of width 
+(d) What is the ground-state
+energy, and speed, of a baseball 
+in a box
+0.65 m wide? (e) An el

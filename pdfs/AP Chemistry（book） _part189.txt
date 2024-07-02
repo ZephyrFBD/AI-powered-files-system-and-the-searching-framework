@@ -1,0 +1,16 @@
+ Dimensional Analysis
+Because measured quantities have units associated with them, it is important to 
+keep track of units as well as numerical values when using the quantities in calcu-
+lations. Throughout the text we use dimensional analysis in solving problems. In 
+dimensional analysis, units are multiplied together or divided into each other 
+along with the numerical values. Equivalent units cancel each other. Using di-
+mensional analysis helps ensure that solutions to problems yield the proper units. 
+Moreover, it provides a systematic way of solving many numerical problems and of 
+checking solutions for possible errors.
+Conversion Factors
+The key to using dimensional analysis is the correct use of conversion factors to change 
+one unit into another. A conversion factor is a fraction whose numerator and 
+ 
+Sample Exercise 1.9
+Determining the Number of Significant Figures in a Calculated Quantity
+A vessel containing a gas at 25 °C is weighed, emptied, and then reweighed as depicted

@@ -1,0 +1,21 @@
+large change in the voltage drop across the output
+resistor 
+Hence a transistor can amplify a small signal into a larger one.
+Typically a small ac signal (call it 
+) is to be amplified, and when added to
+the base bias current (and voltage) causes the current and voltage at the collector
+to vary at the same rate but magnified. Thus, what is important for amplification
+is the change in collector current for a given input change in base current. We label
+these ac signal currents (
+in 
+and 
+) as 
+and 
+The current gain is
+defined as the ratio
+may be on the order of 10 to 100. Similarly, the voltage gain is
+Transistors are the basic elements in modern electronic amplifiers of all sorts.
+A pnp transistor operates like an npn, except that holes move instead of elec-
+trons. The collector voltage is negative, and so is the base voltage in normal operation.
+Another kind of transistor, very important, is the MOSFET (metal-oxide
+semiconductor field-effect transistor) common in digital circuits as a

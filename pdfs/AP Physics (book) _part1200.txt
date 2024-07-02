@@ -1,0 +1,25 @@
+ effect may often be small.
+Intensity Related to Amplitude and Frequency
+For a sinusoidal wave of frequency f, the particles move in SHM as a wave 
+passes, so each particle has an energy
+where A is the amplitude of 
+its motion. Using Eq. 11–6b, we can write k in terms of the frequency:
+where m is the mass of a particle (or small volume) of the
+medium. Then
+The mass
+where is the density of the medium and V is the volume of
+a small slice of the medium as shown in Fig. 11–32. The volume 
+where 
+S is the cross-sectional surface area through which the wave travels. (We use S
+instead of A for area because we are using A for amplitude.) We can write as the
+distance the wave travels in a time t as
+where v is the speed of the wave.
+Thus
+and
+(11;17a)
+From this equation, we see again the important result that the energy transported
+by a wave is proportional to the square of the amplitude. The average power trans-
+ported,
+is
+(11;17b)
+Finally, the intensity I of a wave is the average power transpor

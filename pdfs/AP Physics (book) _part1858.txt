@@ -1,0 +1,49 @@
+ each charge 
+and 
+and we use Eq. 17–5 for each:
+where
+and 
+Then
+r2A = 30 cm.
+r1A = 60 cm
+= k Q2
+r2A + k Q1
+r1A
+V
+A = V
+A2 + V
+A1
+Q2 ,
+Q1
+SECTION 17–5
+Electric Potential Due to Point Charges
+481
++
+–
++
+–
++
++
+(i)
+(ii)
+(iii)
+FIGURE 17–11 Example 17–7.
+Simple summations like these can be performed for any number of point
+charges.
+Potential energies. Consider the three
+pairs of charges shown in Fig. 17–11. Call them 
+and 
+(a) Which set has a
+positive potential energy? (b) Which set has the most negative potential energy?
+(c) Which set requires the most work to separate the charges to infinity? Assume
+the charges all have the same magnitude.
+RESPONSE The potential energy equals the work required to bring the two
+charges near each other, starting at a great distance 
+Assume the left 
+charge
+is already there. To bring a second charge 
+close to the first from a great
+distance away 
+requires external work
+where r is the final distance between them. Thus the potential energy of the two
+charges is

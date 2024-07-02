@@ -1,0 +1,31 @@
+ed the rate-determining step (or 
+rate-limiting step).
+To understand the concept of the rate-determining step for a reaction, consider a 
+toll road with two toll plazas (Figure 14.20). Cars enter the toll road at point 1 and pass 
+through toll plaza A. They then pass an intermediate point 2 before passing through toll 
+plaza B and arriving at point 3. We can envision this trip along the toll road as occurring 
+in two elementary steps:
+ 
+Step 1:
+Step 2:
+Overall:
+ Point 1 ¡ Point 2
+Point 2 ¡ Point 3
+Point 1 ¡ Point 3
+      
+1through toll plaza A2
+1through toll plaza B2
+1through both toll plazas2
+ 
+Because the experimental rate law differs from the one obtained 
+by assuming a single elementary reaction, we can conclude that 
+the mechanism cannot occur by a single elementary step. It must, 
+therefore, involve two or more elementary steps.
+(a) A + A ¡ Y + Z
+(b) A ¡ X + Z
+(c) A + A + B ¡ X + Y + Y
+(d) B ¡ X + Y
+(e) A + B ¡ X + Z
+ 
+▶Practice Exercise 2
+Consider the following reaction: 2 NO1g2

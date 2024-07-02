@@ -1,0 +1,21 @@
+ 
+ λ is assumed to be a time-dependent variable and the effective contact 
+people would decrease. 
+3.3.2 The Foundation of Model 
+Team   #37232                                                              Page 8 of 22   
+Since the world medical association has announced that their new 
+medication could stop Ebola and cure patients whose disease is not advanced. 
+Medication will be used to cure the infected people and prevent the further 
+spread later, thus λ is assumed to be a time-dependent variable .The effective 
+contact people would decrease. The relationship between λ and t is assumed to 
+be index according to the actual situation. 
+We analyze the number of infected people during the recent weeks and 
+predict to give the mathematical expression of effective contact people λ and 
+time t: 
+(t)= 0.13e^(a*t)  
+                         (t)= 0.018*e^(b*t) 
+ 
+Similarly, we consider the proportion of patients in the initial time（t=0）is 
+I0，
+the proportion of susceptible is S0，
+taking t

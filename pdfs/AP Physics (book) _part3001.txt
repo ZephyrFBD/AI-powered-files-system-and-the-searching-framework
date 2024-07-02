@@ -1,0 +1,16 @@
+g. 27–4. His theory, still accepted today, made a new and
+radical assumption: that the energy of the oscillations of atoms within molecules
+cannot have just any value; instead each has energy which is a multiple of a mini-
+mum value related to the frequency of oscillation by
+Here h is a new constant, now called Planck’s constant, whose value was
+estimated by Planck by fitting his formula for the blackbody radiation curve to
+experiment. The value accepted today is
+Planck’s assumption suggests that the energy of any molecular vibration could be
+only a whole number multiple of hf:
+(27;3)
+where n is called a quantum number (“quantum” means “discrete amount” as
+opposed to “continuous”). This idea is often called Planck’s quantum hypothesis,
+although little attention was brought to this point at the time. In fact, it appears
+that Planck considered it more as a mathematical device to get the “right answer”
+rather than as an important discovery. Planck himself continued to seek a classical
+exp

@@ -1,0 +1,19 @@
+lectron repulsions.
+Draw the orbital diagram for the electron configuration of oxygen, atomic number 8. How many unpaired electrons does an oxygen 
+atom possess?
+Sample Exercise 6.7 
+Orbital Diagrams and Electron Configurations
+SOLUTION
+Analyze and Plan Because oxygen has an atomic number of 
+8, each oxygen atom has eight electrons. Figure 6.25 shows 
+the ordering of orbitals. The electrons (represented as half 
+arrows) are placed in the orbitals (represented as boxes) 
+beginning with the lowest-energy orbital, the 1s. Each 
+orbital can hold a maximum of two electrons (the Pauli 
+exclusion principle). Because the 2p orbitals are degenerate, 
+we place one electron in each of these orbitals (spin-up) 
+before pairing any electrons (Hund’s rule).
+Solve Two electrons each go into the 1s and 2s orbitals with 
+their spins paired. This leaves four electrons for the three 
+degenerate 2p orbitals. Following Hund’s rule, we put one 
+electron into each 2p orbital until all three orbitals have one 

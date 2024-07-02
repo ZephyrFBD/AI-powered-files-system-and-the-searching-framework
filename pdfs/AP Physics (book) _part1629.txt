@@ -1,0 +1,26 @@
+ained—but only if there is this 
+difference of temperature. Similarly, in the gas turbine if the gas isn’t cooled,
+the pressure on each side of the blades would be the same. By cooling the gas on
+the exhaust side, the pressure on the back side of the blade is less and hence the
+turbine turns.
+T
+*
+Efficiency
+The efficiency, e, of any heat engine can be defined as the ratio of the work it
+does, W, to the heat input at the high temperature,
+(Fig. 15–11):
+(15;4a)
+This is a sensible definition since W is the output (what you get from the engine),
+whereas 
+is what you put in and pay for in burned fuel. Since energy is con-
+served, the heat input 
+must equal the work done plus the heat that flows out
+at the low temperature 
+Thus
+and the efficiency of an engine is
+or
+(15;4b)
+To give the efficiency as a percent, we multiply Eq. 15–4 by 100. Note that e could
+be 1.0 (or 100%) only if 
+were zero—that is, only if no heat were exhausted 
+to the environment (which we will see shortly never happens)

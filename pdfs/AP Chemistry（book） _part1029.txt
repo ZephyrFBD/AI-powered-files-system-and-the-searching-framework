@@ -1,0 +1,19 @@
+ an 
+approximate distance of 3 Å from the nucleus.  (b) The radial 
+probability function shown here and the probability density 
+[c1r2]2 both go to zero at the same distance from the nucleus, 
+approximately 1 Å. (c) For an s orbital, the number of radial 
+nodes is equal to the principal quantum number, n.
+ 6.55  (a) For n = 4, what are the possible values of l? (b) For l = 2, 
+what are the possible values of ml? (c) If ml is 2, what are the 
+possible values for l?
+ 6.56  How many unique combinations of the quantum numbers l 
+and ml are there when (a) n = 3, (b) n = 4?
+252 
+CHAPTER 6 Electronic Structure of Atoms
+ 6.57  Give the numerical values of n and l corresponding to each of 
+the following orbital designations: (a) 3p, (b) 2s, (c) 4f, (d) 5d.
+ 6.58  Give the values for n, l, and ml for (a) each orbital in the 2p 
+subshell, (b) each orbital in the 5d subshell.
+ 6.59  A certain orbital of the hydrogen atom has n = 4 and 
+l = 2. (a) What are the possible values of ml for this orbital

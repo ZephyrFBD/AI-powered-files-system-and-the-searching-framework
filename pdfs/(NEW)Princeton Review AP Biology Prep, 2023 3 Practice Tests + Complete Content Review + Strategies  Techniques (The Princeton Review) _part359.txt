@@ -1,0 +1,16 @@
+he introduction
+or deletion of bases often results in a change in the sequence of codons used by the ribosome (called a
+frameshift mutation) to synthesize a polyprotein.
+Example:
+Original DNA Sequence: ATG, TAT, AAA, CAT, TGA
+Original Polyprotein: Met, Tyr, Lys, His, Stop
+DNA Sequence after Insertion: ATG, CTA, TAA, ACA, TTG, A
+Polyprotein Sequence after Insertion: Met, Leu, Stop, -, -
+In this example, the insertion of an additional cytosine nucleotide resulted in a frameshift and a premature stop
+codon.
+2. Duplications can result in an extra copy of genes and are usually caused by unequal crossing-over during
+meiosis or chromosome rearrangements. This may result in new traits because one copy of the gene can
+maintain the original function and the other copy may evolve a new function.
+3. Inversions can result when changes occur in the orientation of chromosomal regions. This may cause harmful
+effects if the inversion involves a gene or an important regulatory sequence.
+4. Translocation

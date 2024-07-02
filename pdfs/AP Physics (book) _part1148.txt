@@ -1,0 +1,22 @@
+ings
+FIGURE 11–4 Photo of a car’s spring.
+(Also visible is the shock absorber, in
+blue—see Section 11–5.)
+Any oscillating system for which the net restoring force is directly propor-
+tional to the negative of the displacement (as in Eq. 11–1,
+) is said to
+exhibit simple harmonic motion (SHM).† Such a system is often called a simple
+harmonic oscillator (SHO). We saw in Section 9–5 that most solid materials
+stretch or compress according to Eq. 11–1 as long as the displacement is not too
+great. Because of this, many natural oscillations are simple harmonic, or suffi-
+ciently close to it that they can be treated using this SHM model.
+F = –kx
+Is the motion simple harmonic? Which
+of the following forces would cause an object to move in simple harmonic motion?
+(a) 
+(b)
+(c) 
+(d)
+RESPONSE Both (b) and (d) will give simple harmonic motion because they
+give the force as minus a constant times a displacement. The displacement need
+not be x, but the minus sign is required to restore the system to e

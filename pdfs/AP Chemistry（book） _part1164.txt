@@ -1,0 +1,23 @@
+mol Bi
+209.0 g Bi = 5.87 mol Bi
+ 5.87 mol Bi * 6.022 * 1023 atom Bi
+1 mol Bi
+= 3.53 * 1024 atoms Bi
+ 
+Key Equations 
+289
+ELECTRON AFFINITY (SECTION 7.5) The electron affinity of 
+an element is the energy change upon adding an electron to an 
+atom in the gas phase, forming an anion. A negative electron af-
+finity means that energy is released when the electron is added; 
+hence, when the electron affinity is negative the anion is stable. 
+By contrast, a positive electron affinity means that the anion is 
+not stable relative to the separated atom and electron. In general, 
+electron affinities become more negative as we proceed from left 
+to right across the periodic table. The halogens have the most 
+negative electron affinities. The electron affinities of the noble 
+gases are positive because the added electron would have to oc-
+cupy a new, higher-energy subshell.
+METALS, NONMETALS, AND METALLOIDS (SECTION 7.6) The 
+elements can be categorized as metals, nonmetals, and metalloids. 
+Most 

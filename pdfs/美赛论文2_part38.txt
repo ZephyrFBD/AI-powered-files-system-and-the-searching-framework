@@ -1,0 +1,73 @@
+ty which can be predicted imitating the prediction of the total 
+number of the patient in Sierra Leone (according to every city’s specific 
+situation, model 3 would be applied to each city ). 
+3.5.3.4 Solution and Result 
+When effective drugs are applied into the treatment of Ebola, the parameters 
+of Improved ModelⅡ will change. Assume the parameters are as follows: 
+λ=-0.009, μ=0.006, I0 = 0.000015, S0 = 0.999985 
+According to the calculation of Improved ModelⅡ, we can get these results: 
+Table 3 
+week 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+I(t) 
+0.000926 
+0.000982 
+0.001041 
+0.001102 
+0.001166 
+0.001232 
+0.001301 
+0.001373 
+0.001447 
+0.001524 
+drugs 
+5638.602 
+5980.871 
+6338.282 
+6711.111 
+7099.612 
+7504.011 
+7924.508 
+8361.276 
+8814.463 
+9284.19 
+vaccine 
+627.9347 
+659.8061 
+692.6611 
+726.4838 
+761.2582 
+796.9683 
+833.5982 
+871.1318 
+909.5531 
+948.8464 
+week 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+I(t) 
+0.001604 
+0.001687 
+0.001772 
+0.00186 
+0.001951 
+0.002045 
+0.002141 
+0.00224

@@ -1,0 +1,23 @@
+f
+water. In the latter case, it is heavy water, in which the hydrogen atoms have
+been replaced by deuterium. Another common moderator is graphite, which
+consists of 
+atoms.
+A second problem is that the neutrons produced in one fission may be
+absorbed and produce other nuclear reactions with other nuclei in the reactor,
+rather than produce further fissions. In a “light-water” reactor, the 
+nuclei
+absorb neutrons, as does 
+to form 
+in the reaction
+Naturally occurring uranium† contains 99.3%
+and only 0.7% fissionable
+To increase the probability of fission of 
+nuclei, natural uranium can be
+enriched to increase the percentage of 
+by using processes such as diffusion
+or centrifugation. Enrichment is not usually necessary for reactors using heavy
+water as moderator because heavy water doesn’t absorb neutrons.
+The third problem is that some neutrons will escape through the surface of
+the reactor core before they can cause further fissions (Fig. 31–7). Thus the mass
+of fuel must be sufficientl

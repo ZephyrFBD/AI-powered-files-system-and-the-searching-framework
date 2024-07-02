@@ -1,0 +1,38 @@
+quation for a parabola. See Figs. 3–17 and 3–27.
+The idea that projectile motion is parabolic was, in Galileo’s day, at the fore-
+front of physics research. Today we discuss it in Chapter 3 of introductory physics!
+y = Ax - Bx2,
+y =
+¢
+vy 0
+vx 0
+≤x - ¢
+g
+2vx 0
+2 ≤x2.
+t = xvx 0 ,
+y = vy 0t - 1
+2 gt2.
+x = vx 0t
+x0 = y0 = 0 :
+t
+g
+B
+*
+FIGURE 3;27 Examples of 
+projectile motion: a boy jumping,
+and glowing lava from the volcano
+Stromboli.
+*Some Sections of this book, such as this one, may be considered optional at the discretion of the
+instructor. See the Preface for more details.
+SECTION 3–8
+Relative Velocity
+65
+3–8 Relative Velocity
+We now consider how observations made in different frames of reference are
+related to each other. For example, consider two trains approaching one another,
+each with a speed of 
+with respect to the Earth. Observers on the Earth
+beside the train tracks will measure 
+for the speed of each of the trains.
+Observers on either one of the trains (a different frame of 

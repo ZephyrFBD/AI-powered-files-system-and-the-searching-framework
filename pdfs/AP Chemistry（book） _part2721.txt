@@ -1,0 +1,45 @@
+
+0.10 * 10-3
+0
+—
+ 
+The volume of the reaction mixture increases  
+as the NaOH solution is added to the HCl 
+solution. Thus, at this point in the titration, 
+the volume in the titration ﬂask is:
+50.0 mL + 49.0 mL = 99.0 mL = 0.0990 L
+Thus, the concentration of H+1aq2 in the 
+ﬂask is:
+3H+4 =
+moles H+1aq2
+liters soln
+= 0.10 * 10-3 mol
+0.09900 L
+= 1.0 * 10-3 M
+The corresponding pH is:
+-log11.0 * 10-32 = 3.00
+(b) As before, the initial number of moles of 
+each reactant is determined from their vol-
+umes and concentrations. The reactant pres-
+ent in smaller stoichiometric amount (the 
+limiting reactant) is consumed completely, 
+leaving an excess of hydroxide ion.
+H+1aq2  +   OH-1aq2  ¡   H2O1l2
+Before reaction (mol)
+5.00 * 10-3
+5.10 * 10-3
+—
+Change (limiting reactant) 
+(mol)
+-5.00 * 10-3
+-5.00 * 10-3
+—
+After reaction (mol)
+0
+0.10 * 10-3
+—
+Continued
+732 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+Titration of a solution of a strong base with a solution of a strong 
+acid yields an ana

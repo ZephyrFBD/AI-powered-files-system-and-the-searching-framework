@@ -1,0 +1,15 @@
+9
+Page 4 of 26
+would like to solve is about keeping the temperature even throughout the whole
+bathtub and as close as possible to the initial temperature without wasting too much
+water. Hence, there are three key factors that have a deciding impact on the strategy.
+The first one is the ‘even time’, which means the time from adding the hot water into
+the bathtub to feeling that the temperature of water becomes even. The second one is
+the ‘suffering degree’, which means the degree a person suffers when the temperature
+is lower than its initial temperature. The last one is undoubtedly the ‘wasting water’,
+which means the volume of the wasting water.
+Above all, we use quantification analysis to combine three key factors to
+evaluate the efficiency of the strategy. Moreover, we use controlling variables method
+and sensitivity analysis to describe and analyze the influences other factors have on
+the strategy, so we can give some conclusions and advices about the strategy and
+make some changes

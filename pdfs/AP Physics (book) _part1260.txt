@@ -1,0 +1,24 @@
+ string? (b) If the two strings
+have the same length and are under the same tension, what
+must be the ratio of their masses 
+(c) If the strings,
+instead, have the same mass per unit length and are under
+the same tension, what is the ratio of their lengths 
+(d) If their masses and lengths are the same, what must be
+the ratio of the tensions in the two strings?
+82. A string can have a “free” end if that end is attached to a
+ring that can slide without friction on a vertical pole
+(Fig. 11–60). Determine the wavelengths of the resonant
+vibrations of such a string with one end fixed and the other
+free.
+AlGlBB?
+AmGmBB?
+a 7 g.
+FIGURE 11–60
+Problem 82.
+76. A mass m is gently placed on the end of a freely hanging
+spring. The mass then falls 27.0 cm before it stops and
+begins to rise. What is the frequency of the oscillation?
+83. The ripples in a certain groove 10.2 cm from the center of a
+33 -rpm phonograph record have a wavelength of 1.55 mm.
+What will be the frequency of the sound emitted?

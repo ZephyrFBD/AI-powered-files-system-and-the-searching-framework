@@ -1,0 +1,22 @@
+here is a very large number of microstates for each 
+state—that is, W is generally an extremely large number.
+The connection between the number of microstates of a 
+system, W, and the entropy of the system, S, is expressed in 
+a beautifully simple equation developed by Boltzmann and 
+engraved on his tombstone (Figure 19.7):
+S = k ln W 
+[19.5]
+In this equation, k is the Boltzmann constant, 1.38 * 10-23 J>K. 
+ 
+We see from the equation that:
+Entropy is a measure of how many microstates are  
+associated with a particular macroscopic state.
+▲ Figure 19.7 Ludwig Boltzmann’s gravestone. Boltzmann’s gravestone in 
+Vienna is inscribed with his famous relationship between the entropy of 
+a state, S, and the number of available microstates, W. (In Boltzmann’s 
+time, “log” was used to represent the natural logarithm.)
+Give It Some Thought
+What is the entropy of a system that has only a single microstate?
+From Equation 19.5, we see that the entropy change accompanying any process is
+ 
+∆S = k ln Wf

@@ -1,0 +1,18 @@
+in this way is called complementary DNA
+or cDNA.
+CRISPR
+CRISPR stands for Clustered Regularly Interspersed Short Palindromic
+Repeats. It is a gene editing tool that gives scientists the ability to change
+an organism’s DNA. CRISPR is guided by the enzyme Cas9 to modify a
+stretch of DNA. The whole gene editing unit is referred to as CRISPR-
+Cas9.
+CRISPR-Cas9 was adapted from a naturally occurring genome editing
+system in bacteria used for protection against attacking viruses. The
+bacteria capture snippets of DNA from invading viruses and use them to
+create DNA segments known as CRISPR arrays. These arrays allow the
+bacteria to “remember” the viruses (or closely related ones). If the viruses
+attack again, the bacteria produce RNA segments from the CRISPR arrays
+to target the viruses’ DNA. The bacteria then use Cas9 or a similar enzyme
+to cut the DNA apart, disabling the virus.
+Jennifer Doudna and Emmanuelle Charpentier were the first to propose
+******ebook converter DEMO Watermarks*******

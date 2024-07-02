@@ -1,0 +1,35 @@
+ products could escape the core. As an added safety precaution, 
+the reactor is surrounded by a reinforced concrete containment shell to shield personnel 
+and nearby residents from radiation and to protect the reactor from external forces. After 
+passing through the reactor core, the very hot primary coolant passes through a heat 
+exchanger where much of its heat is transferred to a secondary coolant, converting the lat-
+ter to high-pressure steam that is used to drive a turbine. The secondary coolant is then 
+condensed by transferring heat to an external source of water, such as a river or lake. The 
+cooling systems of nuclear power plants are necessary for proper and safe operation. The 
+Electric
+generator
+Condensor
+Pump
+Heat
+exchanger
+Pump
+Pump
+River
+27 °C
+38 °C
+Turbine
+Containment
+shell
+Reactor
+core
+Primary
+coolant (H2O)
+Steam
+Secondary
+coolant (H2O)
+Pressurized 
+water is heated in 
+the reactor core.
+Heat is transferred to the 
+secondary coolant in the heat 
+exchanger, generating s

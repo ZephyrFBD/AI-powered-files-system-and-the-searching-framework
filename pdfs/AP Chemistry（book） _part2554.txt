@@ -1,0 +1,27 @@
+red or calculated pH for a weak acid 
+always represents an equilibrium condition.
+682 
+CHAPTER 16 Acid–Base Equilibria
+A student prepared a 0.10 M solution of formic acid (HCOOH) and found its pH at 25 °C to be 2.38. Calculate Ka for formic acid 
+at this temperature.
+Solve
+The first step in solving any equilibrium problem is 
+to write the equation for the equilibrium reaction. 
+The ionization of formic acid can be written as:
+Analyze We are given the molar concentration of an aqueous solu-
+tion of weak acid and the pH of the solution, and we are asked to 
+determine the value of Ka for the acid.
+Check The magnitude of our answer is reasonable because Ka for a 
+weak acid is usually between 10-2 and 10-10.
+ 
+▶Practice Exercise 1
+A 0.50 M solution of an acid HA has pH = 2.24. What is the 
+value of Ka for the acid? (a) 1.7 * 10-12 (b) 3.3 * 10-5   
+(c) 6.6 * 10-5 (d) 5.8 * 10-3 (e) 1.2 * 10-2
+HCOOH1aq2 ∆ H+1aq2 + HCOO-1aq2
+ 
+pH = -log 3H+4 = 2.38
+ 
+log3H+4 = -2.38
+ 
+3H+4 = 10-2.38 = 4.2 * 1

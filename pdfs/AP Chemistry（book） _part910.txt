@@ -1,0 +1,40 @@
+uted to the quantized jumps of 
+electrons between energy levels.
+Go Figure
+Which transition will lead to the 
+emission of light with longer 
+wavelength, n = 3 to n = 2, or 
+n = 4 to n = 3?
+0
+2100
+2200
+2218
+n 5 `
+n 5 3
+n 5 4
+n 5 2
+n 5 1
+Energy 3 1020 (J/atom)
+Transition from ni 5 
+2 to nf 5 1. DE , 0, 
+photon is emitted.
+Transition from ni 5 1 
+to nf 5 2. DE . 0, 
+photon is absorbed.
+Excited states
+Ground state
+▲ Figure 6.13 Change in energy states for absorption and emission 
+of a photon in a hydrogen atom.
+ 
+SECTION 6.3   
+Line Spectra and the Bohr Model 
+223
+Give It Some Thought
+True or False: There is an upper limit on the energy of a photon that can be emitted 
+from a hydrogen atom.
+ 
+Sample Exercise 6.4 
+Electronic Transitions in the Hydrogen Atom
+In the Bohr model of the hydrogen atom, electrons are confined to orbits with fixed radii, and those radii can be calculated.  
+The radii of the first four orbits are 0.53, 2.12, 4.76, and 8.46 Å, respectively, as depicted below.
+(a) If 

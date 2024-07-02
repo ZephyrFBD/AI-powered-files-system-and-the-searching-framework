@@ -1,0 +1,40 @@
+at
+move with speed v relative to each other, as in Fig. E–1.
+SOLUTION Let an object of length 
+be at rest on the x axis in S. The coordi-
+nates of its two end points are 
+and 
+so that 
+At any instant
+in 
+the end points will be at 
+and 
+as given by the Lorentz transformation
+equations. The length measured in 
+is
+An observer in 
+measures
+this length by measuring 
+and 
+at the same time (in the 
+frame), so
+Then, from the first of Eqs. E–3,
+Since 
+we have
+or
+which is Eq. 26–3a: the length contraction formula.
+Time dilation. Derive the time dilation formula, Eq. 26–1,
+from the Lorentz transformation equations.
+APPROACH Again we compare measurements in two reference frames, S and 
+that move with speed v relative to each other, Fig. E–1.
+SOLUTION The time 
+between two events that occur at the same place
+in 
+is measured to be 
+Since 
+then from the
+last of Eqs. E–3, the time 
+between the events as measured in S is
+which is the time dilation formula, Eq. 26–1. Notice that we chose 
+to be the
+fram

@@ -1,0 +1,54 @@
+Critical Values of the Chi-Square Distribution 
+Probability 
+Degrees of Freedom (DF) 
+1 
+2 
+3 
+4 
+5 
+0.05 
+3.84 
+5.99 
+7.82 
+9.49 
+11.1 
+0.01 
+6.64 
+9.21 
+11.3 
+13.2 
+15.1 
+0.001 
+10.8 
+13.8 
+16.3 
+18.5 
+20.5 
+1. The degrees of freedom (df) equals the number of treatment groups minus one 
+multiplied by the number of phase groups minus one. In this case, there are two 
+treatment groups (control, treated) and two phase groups (interphase, mitosis); 
+therefore df = (2 − 1) (2 − 1) = 1. 
+2. The ρ value is 0.05, and the critical value is 3.84. If the calculated chi-square value is 
+greater than or equal to this critical value, then the null hypothesis is rejected. If the 
+calculated chi-square value is less than this critical value, the null hypothesis is not 
+rejected. 
+■ SAMPLE DATA 
+Sample Table 2. Table of Observed Values (o) 
+Interphase 
+Mitosis 
+Total 
+Control 
+148 
+25 
+173 
+Treated 
+161 
+88 
+249 
+Total 
+309 
+113 
+422 
+Sample Table 3. Table of Expected Values (e) 
+Interphase 
+Mitosis 

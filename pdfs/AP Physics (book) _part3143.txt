@@ -1,0 +1,13 @@
+le we mean something that is localized in
+space—it has a definite position at any given instant. By contrast, a wave is
+spread out in space. The electron cloud, spread out in space as in Fig. 28–6, is a
+result of the wave nature of electrons. Electron clouds can also be interpreted as
+probability distributions (or probability density) for a particle. As we saw in
+Section 28–3, we cannot predict the path an electron will follow (thinking of it as
+a particle). After one measurement of its position we cannot predict exactly where
+it will be at a later time. We can only calculate the probability that it will be found
+at different points. If you were to make 500 different measurements of the position
+of an electron in a hydrogen atom, the majority of the results would show the
+electron at points where the probability is high (dark area in Fig. 28–6). Only 
+occasionally would the electron be found where the probability is low. The
+electron cloud or probability distribution becomes small (or 

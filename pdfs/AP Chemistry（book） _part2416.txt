@@ -1,0 +1,14 @@
+tituted the starting concentrations into the 
+equilibrium-constant expression of Equation 15.23, we obtained Q c = 0.500 whereas 
+Kc = 0.105. The equilibrium constant has only one value at each temperature. The reac-
+tion quotient, however, varies as the reaction proceeds.
+Of what use is Q? One practical thing we can do with Q is tell whether our reaction 
+really is at equilibrium, which is an especially valuable option when a reaction is very slow. 
+We can take samples of our reaction mixture as the reaction proceeds, separate the compo-
+nents, and measure their concentrations. Then we insert these numbers into Equation 15.24 
+for our reaction. To determine whether we are at equilibrium, or in which direction the 
+reaction proceeds to achieve equilibrium, we compare the values of Q c and Kc or Q p and Kp. 
+There are three possible scenarios (Figure 15.9), which can be summarized as follows:
+How to Use Q to Analyze Reaction Progress
+
+t Q 6 K: The concentration of products is too smal

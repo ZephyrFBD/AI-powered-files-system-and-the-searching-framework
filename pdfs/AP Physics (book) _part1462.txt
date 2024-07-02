@@ -1,0 +1,19 @@
+ntration is low.
+*
+Diffusion can be readily understood on the basis of kinetic theory and the
+random motion of molecules. Consider a tube of cross-sectional area A containing
+molecules in a higher concentration on the left than on the right, Fig. 13–28.
+We assume the molecules are in random motion. Yet there will be a net flow of
+molecules to the right. To see why, let us consider the small section of tube 
+of length 
+as shown. Molecules from both regions 1 and 2 cross into this 
+central section as a result of their random motion. The more molecules there are
+in a region, the more will strike a given area or cross a boundary. Since there is a
+greater concentration of molecules in region 1 than in region 2, more molecules
+cross into the central section from region 1 than from region 2. There is, then, a net
+flow of molecules from left to right, from high concentration 
+toward low
+concentration 
+The net flow becomes zero only when the concentrations
+become equal.
+We might expect that the

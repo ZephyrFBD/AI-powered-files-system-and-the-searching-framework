@@ -1,0 +1,28 @@
+12). 
+To illustrate how this bridge works, let’s calculate the number of copper atoms in an old 
+copper penny. Such a penny has a mass of about 3 g, and for this illustration we will as-
+sume it is 100% copper:
+ Cu atoms = 13 g Cu2a 1 mol Cu
+63.5 g Cub a6.02 * 1023 Cu atoms
+1 mol Cu
+b
+ = 3 * 1022 Cu atoms
+ 
+Sample Exercise 3.11
+Converting Moles to Grams
+Calculate the mass, in grams, of 0.433 mol of calcium nitrate.
+ 
+▶Practice Exercise 1
+What is the mass, in grams, of (a) 6.33 mol of NaHCO3 and  
+(b) 3.0 * 10-5 mol of sulfuric acid?
+ 
+▶Practice Exercise 2
+What is the mass, in grams, of (a) 0.50 mol of diamond (C) and 
+(b) 0.155 mol of ammonium chloride?
+SOLUTION
+Analyze We are given the number of moles and the name of a sub-
+stance and asked to calculate the number of grams in the substance.
+Plan To convert moles to grams, we need the molar mass, which 
+we can calculate using the chemical formula and atomic weights.
+Solve Because the calcium ion is Ca2 +  and the nitrate ion is NO3
+-, 

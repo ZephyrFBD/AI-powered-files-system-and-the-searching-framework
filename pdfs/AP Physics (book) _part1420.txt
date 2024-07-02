@@ -1,0 +1,21 @@
+ins and 
+P as absolute (not gauge) pressure
+P R O B L E M  S O L V I N G
+1 mol of gas at STP has V = 22.4 L
+† Sometimes it is useful to use R as given in terms of calories; calories will be defined in Section 14–1.
+EXERCISE A Return to the Chapter-Opening Question, page 359, and answer it again
+now. Try to explain why you may have answered differently the first time.
+EXERCISE B An ideal gas is contained in a steel sphere at 27.0°C and 1.00 atm absolute
+pressure. If no gas is allowed to escape and the temperature is raised to 127°C, what will
+be the new pressure? (a) 0.21 atm; (b) 0.75 atm; (c) 1.00 atm; (d) 1.33 atm; (e) 4.7 atm.
+13–7 Problem Solving with the
+Ideal Gas Law
+The ideal gas law is an extremely useful tool, and we now consider some Examples.
+We will often refer to “standard conditions” or standard temperature and pressure
+(STP), which means:
+and
+P = 1.00 atm = 1.013 * 105 Nm2 = 101.3 kPa.
+T = 273 K (0°C)
+Volume of one mole at STP
+. Determine the volume of
+1.00 mol of any g

@@ -1,0 +1,16 @@
+igure 11.30 Phase diagram of CH4. Note that a linear scale is used 
+to represent temperature and a logarithmic scale to represent pressure.
+▶ Figure 11.29 Phase diagram of CO2. 
+Note that a linear scale is used to represent 
+temperature and a logarithmic scale to 
+represent pressure.
+triple point is relatively high, 5.11 atm, CO2 does not exist as a liquid at 1 atm, which 
+means that solid CO2 does not melt when heated, but instead sublimes. Thus, CO2 does 
+not have a normal melting point; instead, it has a normal sublimation point, -78.5 °C. 
+Because CO2 sublimes rather than melts as it absorbs energy at ordinary pressures, solid 
+CO2 (dry ice) is a convenient coolant.
+11.7 ∣ Liquid Crystals
+In 1888 Friedrich Reinitzer, an Austrian botanist, discovered that the organic compound 
+cholesteryl benzoate has an interesting and unusual property, shown in Figure 11.31. 
+Solid cholesteryl benzoate melts at 145 °C, forming a viscous milky liquid; then at 179 °C 
+the milky liquid becomes clear 

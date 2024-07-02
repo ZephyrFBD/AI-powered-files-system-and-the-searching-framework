@@ -1,0 +1,30 @@
+ two closely spaced slits,
+and 
+(The slits and their sepa-
+ration are very narrow, not much larger than the wavelength of the light.) If light
+consists of tiny particles, we would expect to see two bright lines on a screen placed
+behind the slits as in (b). But instead, a series of bright lines are seen as in (c).
+Young was able to explain this result as a wave-interference phenomenon.
+To understand why, consider plane waves† of light of a single wavelength—
+called monochromatic, meaning “one color”—falling on the two slits as shown in
+Fig. 24–6. Because of diffraction, the waves leaving the two small slits spread out
+as shown. This is equivalent to the interference pattern produced when two rocks
+are thrown into a lake (Fig. 11–38), or when sound from two loudspeakers inter-
+feres (Fig. 12–16). Recall Section 11–11 on wave interference.
+S2 .
+S1
+?
+Sun’s
+rays
+Viewing screen
+(a)
+Viewing screen
+(particle theory
+prediction)
+(b)
+Viewing screen
+(actual)
+(c)
+S2
+S1
+Ray B seems to come from her

@@ -1,0 +1,16 @@
+membrane, consists of a double layer of phospholipids.
+2. Intermembrane space. This is the narrow area between the inner and outer membranes.
+3. Inner membrane. This second membrane is also a double phospholipid bilayer.
+4. Stroma. The stroma is the fluid material that fills the area inside the
+ 
+inner membrane. The Calvin cycle occurs here, fixing carbon from CO2
+ 
+to generate G3P, the precursor to glucose.
+5. Thylakoids. Suspended within the stroma are stacks of pancake-like membranes. Individual membrane layers
+(the “pancakes”) are thylakoids; an entire stack of thylakoids is a granum (plural, grana). The membranes of the
+thylakoids contain the protein complexes (including the photosystems PS I and PS II), cytochromes, and other
+electron carriers of the light-dependent reactions.
+6. Thylakoid lumen. This is the inside, or lumen, of the thylakoid; H+
+ 
+ions (protons) accumulate here.
+Note how the spatial arrangement of the photosynthetic processes in chloroplasts is similar to that f

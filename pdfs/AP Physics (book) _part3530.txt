@@ -1,0 +1,80 @@
+on
+16. (I) What is the energy released in the fission reaction of
+Eq. 31–4? (The masses of 
+and 
+are 140.914411 u
+and 91.926156 u, respectively.)
+36
+92Kr
+ 56
+141Ba
+a + 4
+9Be S
+ 6
+12C + n.
+p + 3
+7Li S 2
+4He + a
+2
+3He +  6
+12C S X + a.
+d + 3
+6Li S X + p.
+ 7
+14N.
+ 6
+14C
+ke = 41.4 MeV.
+d +  6
+13C S
+ 7
+14N + n
+a +  8
+16O S 10
+20Ne + g.
+ 8
+17O
+a
+a +  7
+14N S
+ 8
+17O + p,
+kinetic energy = 3100 keV?
+p + 3
+7Li S 2
+4He + a
+1
+2H.
+n + 12
+24Mg S 11
+23Na + d
+ 9
+18F?
+p +  8
+18O S
+ 9
+18F + n
+p + ? S 16
+32S + g.
+n +  92
+238U S
+ 92
+239U + g
+2
+3He + n
+1
+2H + 1
+2H S
+b–?
+b±
+13
+27Al.
+17. (I) Calculate the energy released in the fission reaction
+Use Appendix B, and
+assume the initial kinetic energy of the neutron is very small.
+18. (I) How many fissions take place per second in a 240-MW
+reactor? Assume 200 MeV is released per fission.
+19. (I) The energy produced by a fission reactor is about
+200 MeV per fission. What fraction of the mass of a 
+nucleus is this?
+20. (II) Suppose that the average electric power 

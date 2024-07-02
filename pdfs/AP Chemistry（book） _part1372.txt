@@ -1,0 +1,15 @@
+ Some Thought
+In addition to tetrahedral, another common shape for AB4 molecules is square 
+planar. All five atoms lie in the same plane, with the B atoms at the corners of a 
+square and the A atom at the center of the square. Which shape in Figure 9.3 could 
+lead to a square-planar shape upon removal of one or more atoms?
+9.2 ∣ The VSEpr Model
+Imagine tying two identical balloons together at their ends. As shown in Figure 9.5, the 
+two balloons naturally orient themselves to point away from each other; that is, they 
+try to “get out of each other’s way” as much as possible. If we add a third balloon, the 
+balloons orient themselves toward the vertices of an equilateral triangle, and if we add a 
+fourth balloon, they adopt a tetrahedral shape. We see that an optimum geometry exists 
+for each number of balloons.
+In some ways, the electrons in molecules behave like these balloons. We have seen 
+that a single covalent bond is formed between two atoms when a pair of electrons occu-
+pies th

@@ -1,0 +1,106 @@
+<
+,       
+=     
+
+
+                 
++
+δ ≥
+
+
+∑
+∑
+∑
+∑
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Team#36961 
+ 
+Page 10 of 20 
+2.5 Total Model 
+ 
+Table 6: Symbol table 
+Symbol                            Definition 
+ik
+x   
+ 
+The consistent index of the factor k  that belongs to the main factor i  
+i
+X  
+ 
+The consistent index of the main factor (
+)
+i
+j
+≠
+ 
+j
+P   
+ 
+The final index of the sustainability of the main factor j  
+P 
+ 
+The final index of the sustainability of all 
+ik
+v  
+ 
+The weight of the 
+ik
+x  
+j
+u  
+ 
+The weight of the main factor j  
+( )
+ik
+w
+x  
+ 
+The corresponding dynamic function of
+ik
+x  
+( )
+f x  
+ 
+The corresponding connection function of 
+i
+X  
+ij
+δ   
+ 
+The influence of the main factor i  on main factor j (
+)
+i
+j
+≠
+ 
+ 
+Figure3: Total Model 
+ 
+ 
+We have already set 
+j
+u  and 
+ik
+v  in Chapter 2.1, 
+(x)
+ik
+w
+ in Chapter 3.3 and 
+ 
+(x)
+f
+ in Chapter 3.4 in details. Now we need to consider the ultimate determining 
+index e . We choose several developing countries and develope

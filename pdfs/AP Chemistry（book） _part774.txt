@@ -1,0 +1,35 @@
+)
+Elements
+C3H8(g) 
+ 5 O2(g)
+Reactants
+3 CO2(g) 
+ 4 H2O(l)
+Products
+3 CO2(g) 
+ 4 H2(g) 
+ 2 O2(g)
+Enthalpy
+     Formation of 3 CO2
+Decomposition 
+to elements
+DH1
+103.85 kJ
+Numbered steps with pale yellow 
+background show multistep route 
+to same products.
+This red arrow shows one route to 
+products CO2(g) and H2O(l).
+◀ Figure 5.23 Enthalpy diagram 
+for propane combustion.
+ 
+Sample Exercise 5.11 
+Calculating an Enthalpy of Reaction from Enthalpies of Formation
+(a) Calculate the standard enthalpy change for the combustion of 1 mol of benzene, C6H61l2, to CO21g2 and H2O1l2.  
+(b) Compare the quantity of heat produced by combustion of 1.00 g propane with that produced by 1.00 g benzene.
+SOLUTION
+Analyze (a) We are given a reaction [combustion of C6H61l2 to form 
+CO21g2 and H2O1l2] and asked to calculate its standard enthalpy 
+change, ∆H°. (b) We then need to compare the quantity of heat 
+produced by combustion of 1.00 g C6H6 with that produced by 
+1.00 g C3H8, whose combustion was treated p

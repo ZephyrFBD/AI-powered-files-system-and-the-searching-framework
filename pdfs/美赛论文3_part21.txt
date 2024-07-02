@@ -1,0 +1,13 @@
+the speed of adding water. Now we can make some changes to the picture above to
+describe the relationship between the time and the speed of draining away the water.
+graph 3：v-t ideal graph
+Combined with two steps above, including both adding water and draining away
+water, we can come to the fact that there are two processes happening in the bathtub:
+(1) The flow of the water: In this process, hot water is added into the bathtub, while
+the cold water, which is the same volume as the hot water, will overflow out of the
+bathtub. As a result, this can be understood that we can regard the whole bathtub
+as a riverbed, and the flow of the water in the bathtub is like the fluxion of a river
+with the single faucet as a water inlet, the overflow drain as a water outlet and the
+casing wall as a river bank. At the time water is added into the bathtub through the
+faucet, all the other water will flow because of the interaction between water
+molecules, making the water float to the outlet entirely a

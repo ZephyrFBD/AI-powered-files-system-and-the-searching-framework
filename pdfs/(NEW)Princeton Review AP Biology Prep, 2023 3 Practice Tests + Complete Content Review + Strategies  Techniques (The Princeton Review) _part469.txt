@@ -1,0 +1,14 @@
+rker and grew in white colonies. The colonies were counted after 24 hours of growth.
+In another example, suppose fly populations were monitored in northern Maine to determine if population size
+varies over the warm months of the year.
+Count data can be analyzed with hypothesis testing, which will be described later in this chapter.
+Measurements
+Measurements are continuous, meaning there is an infinite number of potential measurements over a given range.
+Size, height, temperature, weight, and response rate are all measurements. There are two types of measurement data:
+parametric and nonparametric.
+Normal or Parametric Data
+Normal, or parametric, data is measurement data that fits a normal curve, or normal distribution, usually when
+a large sample size is used. For example, if you took a large sample of 17-year-olds in America and graphed the
+frequency of heights, the results will be normally distributed.
+Several descriptive statistics can be used to summarize normal data.
+The sample siz

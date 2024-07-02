@@ -1,0 +1,18 @@
+nter 46.8 and press the LN key.
+ln 46.8 = 3.846
+The natural antilog of a number is e raised to a power equal to that number. If your 
+calculator can calculate natural logs, it will also be able to calculate natural antilogs. On 
+some calculators there is a key labeled ex that allows you to calculate natural antilogs 
+directly; on others, it will be necessary to first press the INV key followed by the LN key. 
+For example, the natural antilog of 1.679 is given by
+Natural antilog 1.679 = e1.679 = 5.36
+The relation between common and natural logarithms is as follows:
+ln a = 2.303 log a
+Notice that the factor relating the two, 2.303, is the natural log of 10, which we cal-
+culated earlier.
+Mathematical Operations Using Logarithms
+Because logarithms are exponents, mathematical operations involving logarithms follow 
+the rules for the use of exponents. For example, the product of za and zb (where z is any 
+number) is given by
+za # zb = z1a+b2
+Similarly, the logarithm (either common or natura

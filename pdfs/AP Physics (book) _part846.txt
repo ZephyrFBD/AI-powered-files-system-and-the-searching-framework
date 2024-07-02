@@ -1,0 +1,20 @@
+l energy loss (MgH) is transformed completely into transla-
+tional kinetic energy of the box, whereas for rolling objects the initial potential
+energy is shared between translational and rotational kinetic energies, and so the
+speed of the CM is less. For each of the rolling objects we can state that the decrease in
+potential energy equals the increase in translational plus rotational kinetic energy:
+For all our rolling objects, the moment of inertia 
+is a numerical factor times
+the mass M and the radius 
+(Fig. 8–20). The mass M is in each term, so the
+translational speed v doesn’t depend on M; nor does it depend on the radius R
+since 
+so 
+cancels out for all the rolling objects. Thus the speed v at
+the bottom of the incline depends only on that numerical factor in 
+which
+expresses how the mass is distributed. The hoop, with all its mass concentrated
+at radius R
+has the largest moment of inertia; hence it will have
+the lowest speed and will arrive at the bottom behind the D-cell 
+which

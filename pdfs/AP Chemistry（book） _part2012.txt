@@ -1,0 +1,20 @@
+lain why X rays can be used to measure atomic distances 
+in crystals but visible light cannot be used for this purpose.
+ 12.120  
+In their study of X-ray diffraction, William and Lawrence 
+Bragg determined that the relationship among the wave-
+length of the radiation 1l2, the angle at which the radi-
+ation is diffracted 1u2, and the distance between planes of 
+atoms in the crystal that cause the diffraction (d) is given by 
+nl = 2d sin u. X rays from a copper X-ray tube that have a 
+wavelength of 1.54 Å are diffracted at an angle of 14.22 de-
+grees by crystalline silicon. Using the Bragg equation, cal-
+culate the distance between the planes of atoms responsible 
+for diffraction in this crystal, assuming n = 1 (first-order 
+diffraction).
+ 12.121  
+Germanium has the same structure as silicon, but the unit 
+cell size is different because Ge and Si atoms are not the 
+same size. If you were to repeat the experiment described 
+in the previous problem but replace the Si crystal with a 
+Ge cry

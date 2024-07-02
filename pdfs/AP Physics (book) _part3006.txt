@@ -1,0 +1,18 @@
+rgy 
+of the emitted electrons. This can be done by
+using a variable voltage source and reversing the terminals so that electrode C is
+negative and P is positive. The electrons emitted from P will be repelled by the
+negative electrode, but if this reverse voltage is small enough, the fastest electrons
+will still reach C and there will be a current in the circuit. If the reversed voltage
+is increased, a point is reached where the current reaches zero—no electrons
+have sufficient kinetic energy to reach C. This is called the stopping potential, or
+stopping voltage,
+and from its measurement,
+can be determined using
+conservation of energy (loss of 
+in potential energy):
+Now let us examine the details of the photoelectric effect from the point of
+view of the wave theory versus Einstein’s particle theory.
+First the wave theory, assuming monochromatic light. The two important
+properties of a light wave are its intensity and its frequency (or wavelength). When
+these two quantities are varied, t

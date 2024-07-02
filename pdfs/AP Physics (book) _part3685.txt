@@ -1,0 +1,53 @@
+ from Eq. 33–1,
+Its distance from us in light-years is
+EXERCISE B Estimate the distance to a 6000-K main-sequence star with an apparent
+brightness of 2.0 * 10–12 Wm2.
+d = 3 * 1018 m
+1016 mly
+L 300 ly.
+d = B
+L
+4pb
+L B
+1 * 1026 W
+4(3.14)A1.0 * 10–12 Wm2B
+L 3 * 1018 m.
+L L 1 * 1026 W,
+T L 2.90 * 10–3 mK
+600 * 10–9 m
+L 4800 K.
+lP L 600 nm.
+b = 1.0 * 10–12 Wm2,
+EXAMPLE 33;5
+ESTIMATE
+lP T =
+SECTION 33–2
+Stellar Evolution: Birth and Death of Stars, Nucleosynthesis
+953
+FIGURE 33–6 Hertzsprung–Russell
+(H–R) diagram is a logarithmic
+graph of luminosity vs. surface
+temperature T of stars (note that T
+increases to the left).
+10,000
+Surface temperature T (K)
+Intrinsic luminosity L (watts)
+1029
+1023
+1024
+1025
+1026
+1027
+1028
+5000
+3500
+7000
+White dwarfs
+Main sequence
+Red
+giants
+Our Sun
+Stellar Evolution; Nucleosynthesis
+Why are there different types of stars, such as red giants and white dwarfs, as well
+as main-sequence stars? Were they all born this way, in the beginning? Or might
+each different

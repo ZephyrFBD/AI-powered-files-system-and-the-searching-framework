@@ -1,0 +1,16 @@
+us, it may not be well adapted to survive in its environment.
+(c) The individuals from the random event reproduce and form a new population. Based
+on the data, predict the allele frequencies for the new population. (1 point)
+Prediction (1 point)
+Here is a possible response that would receive full credit:
+The allele frequencies of the offspring population are p = 0.25 and q = 0.75.
+(d) Justify your prediction. (1 point)
+Justification (1 point)
+Here is a possible response that would receive full credit:
+The allele frequencies of the new population are p = 0.25 and q = 0.75.
+A testcross shows the allele frequencies of the oﬀspring of the individuals that remain aȇer the random event.
+p (A) = 0.25 and q (a) = 0.75
+The individuals that remain after the chance effect are aa and Aa. If they were to reproduce,
+their offspring would be half Aa and half aa. Since A is dominant and a is recessive, the
+frequency of A is p and the frequency of a is q. There are 2 As and 6 as. Thus, the allele
+frequ

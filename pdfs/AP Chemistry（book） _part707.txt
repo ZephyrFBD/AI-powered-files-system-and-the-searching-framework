@@ -1,0 +1,26 @@
+,
+system has internal
+energy E.
+50 g
+H2O(s)
+0 8C
+50 g
+H2O(l)
+100 8C
+▲ Figure 5.9 Internal energy, E, a state function. Any state function depends only on the present  
+state of the system and not on the path by which the system arrived at that state.
+◀ Figure 5.8 Endothermic and exothermic 
+reactions. In both instances, the system is 
+defined as the reactants and products, while 
+surroundings are the containers and everything 
+else in the universe.
+172 
+CHAPTER 5 Thermochemistry
+An analogy may help you understand the difference between quanti-
+ties that are state functions and those that are not. Suppose you drive from 
+Chicago, which is 596 ft above sea level, to Denver, which is 5280 ft above 
+sea level. No matter which route you take, the altitude change is 4684 ft. 
+The distance you travel, however, depends on your route. Altitude is anal-
+ogous to a state function because the change in altitude is independent of 
+the path taken. Distance traveled is not a state function.
+Some ther

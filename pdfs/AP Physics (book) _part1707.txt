@@ -1,0 +1,20 @@
+ssure.
+70. Suppose a power plant delivers energy at 880 MW using
+steam turbines. The steam goes into the turbines superheated
+at 625 K and deposits its unused heat in river water at 285 K.
+Assume that the turbine operates as an ideal Carnot engine.
+(a) If the river flow rate is 
+estimate the average tem-
+perature increase of the river water immediately downstream
+from the power plant. (b) What is the entropy increase per
+kilogram of the downstream river water in 
+71. A car engine whose output power is 135 hp operates at
+about 15% efficiency. Assume the engine’s water tempera-
+ture of 85°C is its cold-temperature (exhaust) reservoir and
+495°C is its thermal “intake” temperature (the temperature
+of the exploding gas–air mixture). (a) What is the ratio 
+of its efficiency relative to its maximum possible (Carnot)
+efficiency? (b) Estimate how much power (in watts) goes
+into moving the car, and how much heat, in joules and in
+kcal, is exhausted to the air in 1.0 h.
+72. An ideal monatomic gas

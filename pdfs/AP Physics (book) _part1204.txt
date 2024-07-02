@@ -1,0 +1,17 @@
+the boundary point oscillates at that frequency. Thus if the transmitted wave has a
+lower speed, its wavelength is also less 
+For a two or three dimensional wave, such as a water wave, we are concerned
+with wave fronts, by which we mean all the points along the wave forming the wave
+crest (what we usually refer to simply as a “wave” at the seashore). A line drawn in
+the direction of wave motion, perpendicular to the wave front, is called a ray, as
+shown in Fig.11–35. Wave fronts far from the source have lost almost all their curva-
+ture (Fig. 11–35b) and are nearly straight, as ocean waves often are. They are then
+called plane waves.
+(l = vf).
+SECTION 11–11
+Interference; Principle of Superposition
+313
+For reflection of a two or three dimensional plane wave, as shown in Fig.11–36,
+the angle that the incoming or incident wave makes with the reflecting surface is
+equal to the angle made by the reflected wave. This is the law of reflection:
+the angle of reflection equals the angle of inci

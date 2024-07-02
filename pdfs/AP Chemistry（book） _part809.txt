@@ -1,0 +1,20 @@
+ of CO2 and  
+5 mol of H2O. Everything is then balanced except for oxygen. We 
+have an odd number of oxygen atoms on the right. We can balance 
+the oxygen by using the coefficient 1
+2 for O2 on the right:
+2 C3H5N3O91l2 ¡  3 N21g2 + 6 CO21g2 + 5 H2O1l2 + 1
+2 O21g2
+We multiply through by 2 to convert all coefficients to whole numbers:
+4 C3H5N3O91l2 ¡  6 N21g2 + 12 CO21g2 + 10 H2O1l2 + O21g2
+(At the temperature of the explosion, water is a gas rather than a 
+liquid as shown in the equation above. The rapid expansion of the 
+gaseous products creates the force of an explosion.)
+(b) We can obtain the standard enthalpy of formation of nitro-
+glycerin by using the heat of decomposition of trinitroglycerin 
+together with the standard enthalpies of formation of the other 
+substances in the decomposition equation:
+4 C3H5N3O91l2 ¡  6 N21g2 + 12 CO21g2 + 10 H2O1l2 + O21g2
+-6165.6 kJ = 121-393.5 kJ2 + 101-285.8 kJ2 - 4∆Hf°3C3H5N3O91l24 
+∆Hf°3C3H5N3O91l24 = -353.6 kJ>mol
+(c) Converting 0.60 mg C3H5N3

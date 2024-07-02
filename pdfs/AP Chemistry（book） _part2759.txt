@@ -1,0 +1,30 @@
+that acid–base equilibria 
+take place simultaneously with solubility equilibria. In particular, 
+both basic anions and cations with high charge-to-size ratios undergo 
+hydrolysis reactions that can measurably increase the solubilities of 
+their salts. For example, CaCO3 contains the basic carbonate ion 
+1Kb = 1.8 * 10-42, which reacts with water:
+CO3
+2 -1aq2 + H2O1l2 ∆ HCO3
+-1aq2 + OH-1aq2
+If we consider the effect of ion–ion interactions as well as simul-
+taneous solubility and Kb equilibria, we calculate a solubility of 
+1.4 * 10-4 mol>L, in agreement with the measured value for calcite.
+Finally, we generally assume that ionic compounds dissociate 
+completely when they dissolve, but this assumption is not always 
+valid. When MgF2 dissolves, for example, it yields not only Mg2 +  and 
+F- ions but also MgF+ ions.
+a CLoser Look Limitations of Solubility Products
+0
+0.05 0.10 0.15 0.20
+10−9
+10−8
+10−7
+10−6
+10−5
+10−4
+10−3
+Concentration of
+NaF (mol/L)
+Molar solubility of CaF2 (mol/L)
+Pure wa

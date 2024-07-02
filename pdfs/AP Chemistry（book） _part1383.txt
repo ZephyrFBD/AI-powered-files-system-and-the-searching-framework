@@ -1,0 +1,16 @@
+ A bonding pair of electrons is attracted by both nuclei of the bonded atoms, but 
+a nonbonding pair is attracted primarily by only one nucleus. Because a nonbonding pair 
+experiences less nuclear attraction, its electron domain is spread out more in space than is 
+the electron domain for a bonding pair (Figure 9.7). Nonbonding electron pairs therefore 
+take up more space than bonding pairs; in essence, they act as larger and fatter balloons 
+in our analogy of Figure 9.5. As a result, electron domains for nonbonding electron pairs exert 
+greater repulsive forces on adjacent electron domains and tend to compress bond angles.
+Because multiple bonds contain a higher electronic-charge density than single 
+bonds, multiple bonds also represent enlarged electron domains. Consider the Lewis 
+structure of phosgene, Cl2CO:
+C
+O
+Cl
+Cl
+Because three electron domains surround the central atom, we might expect a trigonal- 
+planar geometry with 120° bond angles. The double bond, however, seems to act 

@@ -1,0 +1,39 @@
+erval between the two events (the sending of the light, and its reception on the
+spaceship) is greater for the observer on Earth than for the observer on the space-
+ship. This is a general result of the theory of relativity, and is known as time dilation.
+The time dilation effect can be stated as
+clocks moving relative to an observer are measured to run more slowly, as
+compared to clocks at rest.
+However, we should not think that the clocks are somehow at fault.
+Time is actually measured to pass more slowly in any moving reference frame
+as compared to your own.
+This remarkable result is an inevitable outcome of the two postulates of the special
+theory of relativity.
+¢t 7 ¢t0 .
+31 - v2c2
+¢t =
+¢t0
+31 - v2c2 .
+¢t0 = 2Dc
+¢t0
+¢t
+¢t =
+2D
+c 31 - v2c2 .
+(¢t)2 = 4D2Ac2 - v2B
+(¢t)2
+c2(¢t)2 = 4D2 + v2(¢t)2,
+c ¢t = 2 3D2 + l2 = 2 3D2 + v2(¢t)24 .
+l = v ¢t2.
+2 2D2 + l2 = c ¢t,
+2l = v ¢t
+¢t,
+¢t
+¢t0 = 2D
+c
+.
+¢t0 ,
+TIME DILATION
+The factor 
+occurs so often in relativity that we often give it
+th

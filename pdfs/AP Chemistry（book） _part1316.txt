@@ -1,0 +1,17 @@
+, which is the charge that 
+the atom would have if all atoms had the same electronegativity. In 
+general, the dominant Lewis structure will have low formal charges, 
+with any negative formal charges residing on more electronegative 
+atoms.
+Sometimes a single dominant Lewis structure is inadequate to 
+represent a particular molecule (or ion). In such situations, we de-
+scribe the molecule by using two or more resonance structures for the 
+molecule. The molecule is envisioned as a blend of these multiple 
+resonance structures. Resonance structures are important in describ-
+ing the bonding in molecules such as ozone, O3, and the organic 
+molecule benzene, C6H6.
+EXCEPTIONS TO THE OCTET RULE (SECTION 8.7) The octet rule 
+is not obeyed in all cases. Exceptions occur when (a) a molecule has 
+an odd number of electrons, (b) it is not possible to complete an oc-
+tet around an atom without forcing an unfavorable distribution of 
+electrons, or (c) a large atom is surrounded by a sufficiently larg

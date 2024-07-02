@@ -1,0 +1,28 @@
+ced equation, however, 1 mol K3PO4 requires 3 mol 
+AgNO3. Thus, there is insufficient AgNO3 to consume the 
+K3PO4, and AgNO3 is the limiting reactant.
+(c)  
+The precipitate is Ag3PO4, whose molar mass is 31107.92 + 31.0 + 
+4116.02 =  418.7 g>mol. To calculate the number of grams of 
+Ag3PO4 that could be produced in this reaction (the theoret-
+ical yield), we use the number of moles of the limiting reac-
+tant, converting mol AgNO3 1 mol Ag3PO4 1 g Ag3PO4. We 
+use the coefficients in the balanced equation to convert moles of 
+AgNO3 to moles Ag3PO4, and we use the molar mass of Ag3PO4 
+to convert the number of moles of this substance to grams.
+17.5 * 10-4 mol AgNO32a
+1 mol Ag3PO4
+3 mol AgNO3
+b a
+418.7 g Ag3PO4
+1 mol Ag3PO4
+b 
+= 0.10 g Ag3PO4
+The answer has only two significant figures because the quantity 
+of AgNO3 is given to only two significant figures.
+154 
+CHAPTER 4 Reactions in Aqueous Solution
+exercises
+Visualizing Concepts
+ 
+4.1 Which of the following schematic drawings best descr

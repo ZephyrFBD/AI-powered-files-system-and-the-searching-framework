@@ -1,0 +1,32 @@
+. (a) In order to measure distances with parallax at 100 ly,
+what minimum angular resolution (in degrees) is needed?
+(b) What diameter mirror or lens would be needed?
+rc L 10–26 kgm3?
+4 * 1041 kg,
+2 * 106 ly
+109
+1.0 revs.
+1011
+General Problems
+FIGURE 33–35 Problem 41.
+Surface temperature
+Intrinsic luminosity
+A
+B
+C
+Search and Learn
+983
+48. (a) What temperature would correspond to 14-TeV colli-
+sions at the LHC? (b) To what era in cosmological history
+does this correspond? [Hint: See Fig. 33–29.]
+49. In the later stages of stellar evolution, a star (if massive
+enough) will begin fusing carbon nuclei to form, for
+example, magnesium:
+(a) How much energy is released in this reaction (see
+Appendix B)? (b) How much kinetic energy must each
+carbon nucleus have (assume equal) in a head-on collision
+if they are just to “touch” (use Eq. 30–1) so that the strong
+force can come into play? (c) What temperature does this
+kinetic energy correspond to?
+50. Consider the reaction
+and answer the same qu

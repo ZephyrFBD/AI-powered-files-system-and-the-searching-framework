@@ -1,0 +1,32 @@
+mperature. We use
+the heat conduction equation, Eq. 14–5.
+SOLUTION Here 
+and
+Using
+Table 14–4 to get k, we have
+NOTE This rate of heat flow is equivalent to 
+or (0.19 kcals) * (3600 sh) = 680 kcalh.
+0.19 kcals,
+(790 Js)A4.19 * 103 JkcalB =
+= 790 Js.
+=
+(0.84 JsmC°)A3.0 m2B(15.0°C - 14.0°C)
+A3.2 * 10–3 mB
+Q
+t
+= kA T
+1 - T
+2
+l
+l = 3.2 * 10–3 m.
+A = (2.0 m)(1.5 m) = 3.0 m2
+2.0 m * 1.5 m
+EXAMPLE 14;8
+You might notice in Example 14–8 that 15°C is not very warm for the living
+room of a house. The room itself may indeed be much warmer, and the outside
+might be colder than 14°C. But the temperatures of 15°C and 14°C were spec-
+ified as those at the window surfaces, and there is usually a considerable drop 
+in temperature of the air in the vicinity of the window both on the inside and the
+outside. That is, the layer of air on either side of the window acts as an insulator, and
+normally the major part of the temperature drop between the inside and outside of
+the house takes place acros

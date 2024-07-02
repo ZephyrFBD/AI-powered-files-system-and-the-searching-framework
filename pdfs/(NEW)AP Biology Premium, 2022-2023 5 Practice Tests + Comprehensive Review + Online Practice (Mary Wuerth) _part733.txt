@@ -1,0 +1,11 @@
+hoice (B) is also incorrect.
+13. (B) Distilled water contains no enzyme, so it would be an appropriate control. Choice (A) is incorrect because
+changing the size of the paper disk would add another variable. Reducing the temperature of the hydrogen
+peroxide would not be an appropriate control, so choice (C) is incorrect. Pureeing the potatoes with buffer
+instead of water would change the conditions of the experiment and would not be a control, so choice (D) is
+incorrect.
+14. (C) The upper limit of the 95% confidence interval for 9% hydrogen peroxide (30.9 + 2(3.9) = 37.8 sec)
+overlaps with the lower limit of the 95% confidence interval for 6% hydrogen peroxide (45 – 2(4.3) = 36.4 sec).
+So it is not likely there is a statistically significant difference between those two concentrations of hydrogen
+peroxide. The 95% confidence intervals for all of the other pairs of hydrogen peroxide do not overlap and
+therefore are more likely to have a statistically significant difference between them.

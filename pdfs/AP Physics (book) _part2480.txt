@@ -1,0 +1,15 @@
+ (Global System for Mobile
+Communication), on 900-MHz and 1800-MHz bands. The U.S. now also has the
+GSM option (at 850 MHz and 1.9 GHz), as does much of the rest of the Americas.
+A 700-MHz band is being made available for cell phones (it used to carry TV
+broadcast channels, no longer used). Radio-controlled toys (cars, sailboats,
+robotic animals, etc.) can use various frequencies from 27 MHz to 75 MHz.
+Automobile remote entry (keyless) may operate around 300 MHz or 400 MHz.
+Cable TV channels are carried as electromagnetic waves along a coaxial cable
+(Fig.22–9) rather than being broadcast and received through the “air.” The channels
+are in the same part of the EM spectrum, hundreds of MHz, but some are at 
+frequencies not available for TV broadcast. Digital satellite TV and radio are carried
+in the microwave portion of the spectrum (12 to 14 GHz and 2.3 GHz, respectively).
+Wireless from the Moon
+In 1969, astronauts first landed on the Moon. It was shown live on television
+(Fig. 22–20). 

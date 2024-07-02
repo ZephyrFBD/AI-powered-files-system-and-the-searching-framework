@@ -1,0 +1,18 @@
+ed solution has a mass of 100.0 g and a specific 
+heat of 4.18 J>g@°C.
+ 
+182 
+CHAPTER 5 Thermochemistry
+Bomb Calorimetry (Constant-Volume Calorimetry)
+An important type of reaction studied using calorimetry is combustion, in which a 
+compound reacts completely with excess oxygen. 
+(Section 3.2) Combustion re-
+actions are most accurately studied using a bomb calorimeter (Figure 5.19). The 
+substance to be studied is placed in a small cup within an insulated sealed vessel 
+called a bomb. The bomb, which is designed to withstand high pressures, has an in-
+let valve for adding oxygen and electrical leads for initiating the reaction. After the 
+sample has been placed in the bomb, the bomb is sealed and pressurized with oxy-
+gen. It is then placed in the calorimeter and covered with an accurately measured 
+quantity of water. The combustion reaction is initiated by passing an electrical cur-
+rent through a fine wire in contact with the sample. When the wire becomes suffi-
+ciently hot, the sam

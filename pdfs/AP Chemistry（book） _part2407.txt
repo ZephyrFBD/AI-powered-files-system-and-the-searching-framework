@@ -1,0 +1,19 @@
+into the equilibrium-constant expression for the reaction.
+ 
+SECTION 15.5   
+Calculating Equilibrium Constants 
+639
+Often, we do not know the equilibrium concentrations of all species in an equilibrium 
+mixture. If we know the initial concentrations and the equilibrium concentration of at 
+least one species, however, we can generally use the stoichiometry of the reaction to deduce 
+the equilibrium concentrations of the others. The following steps outline the procedure:
+How to Determine Concentrations of Unknown Species in an Equilibrium Mixture
+ 
+1. Tabulate all known initial and equilibrium concentrations of the species that 
+appear in the equilibrium-constant expression.
+ 
+2. For those species for which initial and equilibrium concentrations are known, cal-
+culate the change in concentration that occurs as the system reaches equilibrium.
+ 
+3. Use the stoichiometry of the reaction (that is, the coefficients in the balanced 
+chemical equation) to calculate the changes in concentration 

@@ -1,0 +1,19 @@
+e ratios you would get from flipping two coins at once. Don’t go on until you are sure 
+the spreadsheet is making correct calculations. Try out different values for p. Make sure 
+that the number of zygotes adds up. Describe your thinking and procedure for checking 
+the spreadsheet in your lab notebook. 
+Now, copy the cells E5 through J5 down for as many zygotes as you’d like in the first 
+generation. Use the SUM function to calculate the numbers of each genotype in the H, 
+I, and J columns. Use the genotype frequencies to calculate new allele frequencies and to 
+recalculate new p and q values. Make a bar graph of the genotypes using the chart tool. 
+Your spreadsheet should resemble Figure 8. 
+Figure 8 
+Investigation 2 S37 
+  
+ 
+ 
+ 
+Testing Your Mathematical Model 
+You now have a model with which you can explore how allele frequencies behave 
+and change from generation to generation. Working with a partner, develop a plan to 
+answer this general question: How do inheritance patterns or 

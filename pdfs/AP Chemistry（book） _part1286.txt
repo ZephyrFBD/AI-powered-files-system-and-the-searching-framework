@@ -1,0 +1,16 @@
+s reasonable that electrons in covalent bonds should 
+be apportioned according to the relative electronegativities of the 
+bonded atoms. Figure 8.8 (page 310) shows that Cl has an electro-
+negativity of 3.0, while the electronegativity value of H is 2.1. The 
+more electronegative Cl atom might therefore be expected to have 
+roughly 3.0>13.0 + 2.12 = 0.59 of the electrical charge in the bond-
+ing pair, whereas the H atom would have 2.1>13.0 + 2.12 = 0.41 of 
+the charge. Because the bond consists of two electrons, the Cl atom’s 
+share is 0.59 * 2e = 1.18e, or 0.18e more than the neutral Cl atom. 
+This gives rise to a partial negative charge of 0.18- on Cl and there-
+fore a partial positive charge of 0.18+ on H. (Notice again that we 
+place the plus and minus signs before the magnitude in writing oxida-
+tion numbers and formal charges but after the magnitude in writing 
+actual charges.)
+The dipole moment of HCl gives an experimental measure of 
+the partial charge on each atom. In Sample E

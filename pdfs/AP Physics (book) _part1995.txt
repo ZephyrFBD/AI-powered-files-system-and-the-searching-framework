@@ -1,0 +1,59 @@
+ = V
+0R
+I = V
+R
+= V
+0
+R sin vt = I
+0 sin vt.
+V = IR,
+v = 2pf.
+V
+0
+–V
+0 ,
+±V
+0
+V = V
+0 sin 2pft = V
+0 sin vt.
+Time
+t
+Power
+I2R = 1
+2 I 2
+0R
+I 2
+0R
+FIGURE 18–22 Power transformed
+in a resistor in an ac circuit.
+†A graph of 
+versus is identical to that for 
+in Fig. 18–22, except that the points are shifted
+(by cycle) on the time axis. Thus the average value of 
+and 
+averaged over one or more full cycles,
+will be the same. From the trigonometric identity
+we can write
+Hence the average value of 
+is 1
+2 .
+sin2 vt
+Asin2 vtB + Acos2 vtB = 2Asin2 vtB = 1.
+sin2 u + cos2 u = 1,
+cos2,
+sin2
+1
+4
+sin2 vt
+t
+cos2 vt
+The rms values of V and I are sometimes called the effective values. They are
+useful because they can be substituted directly into the power formulas, Eqs. 18–5
+and 18–6, to get the average power:
+(18;9a)
+(18;9b)
+(18;9c)
+Thus, a direct current whose values of I and V equal the rms values of I and V for
+an alternating current will produce the same power. Hence it is usually the rms
+value of

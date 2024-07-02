@@ -1,0 +1,14 @@
+also ∆. Thus, the goal 
+of filling lowest-energy available orbitals first is met by putting the electron in a t2 
+orbital.
+There is a penalty for doing this, however, because the electron must now be paired 
+with the electron already occupying the orbital. The difference between the energy 
+required to pair an electron in an occupied orbital and the energy required to place that 
+electron in an empty orbital is called the spin-pairing energy. The spin-pairing energy 
+arises from the fact that the electrostatic repulsion between two electrons that share an 
+orbital (and so must have opposite spins) is greater than the repulsion between two elec-
+trons that are in different orbitals and have parallel spins.
+In coordination complexes, the nature of the ligands and the charge on the metal 
+ion often play major roles in determining which of the two electron arrangements shown 
+in Figure 23.31 is used. In 3CoF643 -  and 3Co(CN)643 -, both ligands have a 1- charge. 
+The F- ion, however, is on

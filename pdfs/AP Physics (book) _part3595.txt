@@ -1,0 +1,16 @@
+a
+The explosion of a supernova in the outer parts of our Galaxy in 1987 
+(Section 33–2) released lots of neutrinos and offered an opportunity to estimate
+electron neutrino mass. If neutrinos do have mass, then their speed would be less
+than c, and neutrinos of different energy would take different times to travel the
+170,000 light-years from the supernova to Earth. To get an idea of how such a
+measurement could be done, suppose two neutrinos from “SN1987A” were 
+emitted at the same time and were actually detected on Earth (via the reaction
+) 10 seconds apart, with measured kinetic energies of about
+20 MeV and 10 MeV. From other laboratory measurements we expect the neutrino
+mass to be less than 100 eV; and since our neutrinos have kinetic energy of 20 MeV
+and 10 MeV, we can make the approximation 
+so that E (the total
+energy) is essentially equal to the kinetic energy. We use Eq. 26–6b, which tells us
+We solve this for v, the velocity of a neutrino with energy E:
+where we have used the

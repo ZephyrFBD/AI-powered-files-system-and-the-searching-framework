@@ -1,0 +1,9 @@
+illiequivalent
+In order to calculate osmotic pressure, it is necessary to understand how solute concentrations are measured. The unit for
+measuring solutes is the mole. One mole is defined as the gram molecular weight of the solute. For example, the molecular
+weight of sodium chloride is 58.44. Thus, one mole of sodium chloride weighs 58.44 grams. The molarity of a solution is
+the number of moles of solute per liter of solution. The molality of a solution is the number of moles of solute per kilogram
+of solvent. If the solvent is water, one kilogram of water is equal to one liter of water. While molarity and molality are used
+to express the concentration of solutions, electrolyte concentrations are usually expressed in terms of milliequivalents per
+liter (mEq/L): the mEq/L is equal to the ion concentration (in millimoles) multiplied by the number of electrical charges on
+the ion. The unit of milliequivalent takes into consideration the ions present in the solution (since electrolytes f

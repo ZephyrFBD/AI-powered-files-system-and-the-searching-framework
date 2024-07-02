@@ -1,0 +1,45 @@
+e balls exchange velocities as a result of the collision: ball B acquires
+the velocity that ball A had before the collision, and vice versa.
+(b) If ball B is at rest initially, so that  
+we have
+and
+That is, ball A is brought to rest by the collision, whereas ball B acquires the
+original velocity of ball A. See Fig. 7–14.
+NOTE Our result in part (b) is often observed by billiard and pool players, and
+is valid only if the two balls have equal masses (and no spin is given to the balls).
+vA
+œ
+= 0.
+vB
+œ
+= vA
+vB = 0,
+vA
+œ
+= vB.
+vB
+œ
+= vA
+vA - vB = vœ
+B - vA
+œ .
+vA + vB = vA
+œ + vB
+œ .
+AmA = mB = mB
+vB
+œ ,
+vA
+œ
+AvB = 0B.
+vB
+vA
+vA
+EXAMPLE 7;7
+FIGURE 7;14 In this multiflash photo of a head-on
+collision between two balls of equal mass, the white
+cue ball is accelerated from rest by the cue stick and
+then strikes the red ball, initially at rest. The white 
+ball stops in its tracks, and the (equal-mass) red ball
+moves off with the same speed as the white ball had
+before the collision. See Example

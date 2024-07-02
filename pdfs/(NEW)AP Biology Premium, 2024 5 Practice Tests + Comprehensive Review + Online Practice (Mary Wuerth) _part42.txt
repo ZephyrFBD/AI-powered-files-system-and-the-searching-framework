@@ -1,0 +1,13 @@
+e midpoint of the data set. To find the median, place the members of the data set in numerical
+order from lowest to highest value. The middle of the data set is the median. If there are an even number of data
+points in the set, calculate the mean of the two numbers in the middle of the data set to find the median. Here’s how
+you would find the median for data set A and data set B:
+Data Set A: 1, 2, 3, 4, 5
+Since the members of the data set are already arranged from lowest to highest, look for the middle value, which
+in this case is 3.
+Data Set B: 3, 3, 3, 3, 3
+Since the members of this data set are all the same, the median is 3.
+Again, even though data sets A and B are very different, they have the same median.
+Extremes in a data set do not affect the median, but they do affect the mean of the data set. For example, add the
+numbers 0 and 100 to data set A and data set B to form new data sets C and D, respectively. This changes the means
+greatly from the original calculations, but the m

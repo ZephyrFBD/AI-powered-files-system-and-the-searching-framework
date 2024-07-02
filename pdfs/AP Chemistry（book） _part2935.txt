@@ -1,0 +1,16 @@
+conomically practical.
+8. Reduction of Derivatives Unnecessary derivatization (intermediate compound 
+formation, temporary modification of physical/chemical processes) should be min-
+imized or avoided if possible because such steps require additional reagents and can 
+generate waste.
+9. Catalysis Catalytic reagents (as selective as possible) improve product yields within 
+a given time and with a lower energy cost compared to noncatalytic processes and 
+are, therefore, preferred to noncatalytic alternatives.
+10. Design for Degradation The end products of chemical processing should break 
+down at the end of their useful lives into innocuous degradation products that do 
+not persist in the environment.
+11. Real-Time Analysis for Pollution Prevention Analytical methods need to be 
+developed that allow for real-time, in-process monitoring and control prior to the 
+formation of hazardous substances.
+12. Inherently Safer Chemistry for Accident Prevention Reagents and solvents 
+used in a chemi

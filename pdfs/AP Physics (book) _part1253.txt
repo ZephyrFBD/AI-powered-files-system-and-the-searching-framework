@@ -1,0 +1,29 @@
+m air temperature is 
+The speed of sound 
+as a function of temperature can be approximated by
+where T is in °C.
+*60. (III) A longitudinal earthquake wave strikes a boundary
+between two types of rock at a 38° angle. As the wave
+crosses the boundary, the specific gravity changes from 3.6
+to 2.5. Assuming that the elastic modulus is the same for
+both types of rock, determine the angle of refraction.
+*11–14 Diffraction
+*61. (II) What frequency of sound would have a wavelength the
+same size as a 0.75-m-wide window? (The speed of sound
+is 
+at 20°C.) What frequencies would diffract
+through the window?
+344 ms
+v = (331 + 0.60 T) ms,
+±15°C.
+–15°C
+8.0 kms
+m
+1.50 m
+Oscillator
+FIGURE 11–55 Problems 55 and 56.
+62. A 62-kg person jumps from a window to a fire net 20.0 m
+directly below, which stretches the net 1.4 m. Assume that
+the net behaves like a simple spring. (a) Calculate how much it
+would stretch if the same person were lying in it. (b) How
+much would it stretch if the person jumped from 3

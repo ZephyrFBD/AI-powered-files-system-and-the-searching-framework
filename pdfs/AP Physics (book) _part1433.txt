@@ -1,0 +1,18 @@
+ntainer and back again, a distance (x component) equal to 
+Thus
+or
+The time 
+between collisions with a wall is very small, so the number of colli-
+sions per second is very large. Thus the average force—averaged over many
+collisions—will be equal to the momentum change during one collision divided
+by the time between collisions (Newton’s second law, Eq. 7–2):
+[due to one molecule]
+During its passage back and forth across the container, the molecule may collide
+with the tops and sides of the container, but this does not alter its x component of
+momentum and thus does not alter our result. [It may also collide with other
+molecules, which may change its 
+However, any loss (or gain) of momentum is
+acquired by other molecules, and because we will eventually sum over all the
+molecules, this effect will be included. So our result above is not altered.]
+The actual force due to one molecule is intermittent, but because a huge num-
+ber of molecules are striking the wall per second, the force is, 

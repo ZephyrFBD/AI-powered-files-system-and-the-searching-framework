@@ -1,0 +1,17 @@
+en that the electric field 
+between two close parallel plates is
+nearly uniform and its magnitude is related to the potential difference by
+(Eq. 17–4), where d is the separation. Also, Eq. 17–8 tells us
+for a parallel-plate capacitor. Thus
+The quantity Ad is the volume between the plates in which the electric field E
+exists. If we divide both sides of this equation by the volume, we obtain an
+expression for the energy per unit volume or energy density:
+(17;11)
+The electric energy stored per unit volume in any region of space is proportional to
+the square of the electric field in that region. We derived Eq. 17–11 for the special
+case of a parallel-plate capacitor. But it can be shown to be true for any region of
+space where there is an electric field. Indeed, we will use this result when we dis-
+cuss electromagnetic radiation (Chapter 22).
+Health Effects
+The energy stored in a large capacitance can give you a burn or a shock. One reason
+you are warned not to touch a circuit, or open an 

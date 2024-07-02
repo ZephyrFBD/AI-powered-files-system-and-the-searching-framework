@@ -1,0 +1,22 @@
+uctive layer
+Glass
+Photons
+Exciton
+Hole
+Anode = ITO
+FIGURE 29–38 An OLED with two organic
+layers. Hole–electron recombination into an
+exciton (dashed circle) occurs in the 
+emissive layer, followed by photon emission.
+Photons emitted in the wrong direction
+(upward in the diagram) reduce efficiency.
+OLED (Organic LED)
+Many organic compounds have semiconductor properties. Useful ones can have
+mobile electrons and holes. A practical organic electroluminescent (EL) device,
+an organic light-emitting diode (OLED) was first described in the late 1980s.
+Organic compounds contain carbon (C), hydrogen (H), often nitrogen and
+oxygen, and sometimes other atoms. We usually think of them as coming from
+life—plants and animals. They are also found in petroleum, and some can be
+synthesized in the lab. Organic compounds can be complex, and often contain
+the familiar hexagonal “benzene ring” with C atoms at all (or most) of the six
+corners. The two organic compounds shown in Fig. 29–37 were used as n-ty

@@ -1,0 +1,21 @@
+ccidents at Three Mile Island, Pennsylvania (1979), at Chernobyl, Russia (1986),
+and at Fukushima, Japan (2011), have illustrated some of the dangers and have
+shown that nuclear plants must be located, constructed, maintained, and oper-
+ated with great care and precision (Fig. 31–9).
+Finally, the lifetime of nuclear power plants is limited to 30-some years, due
+to buildup of radioactivity and the fact that the structural materials themselves
+are weakened by the intense conditions inside. The cost of “decommissioning” a
+power plant is very great.
+So-called breeder reactors were proposed as a solution to the problem of limited
+supplies of fissionable uranium,
+A breeder reactor is one in which some of the
+neutrons produced in the fission of 
+are absorbed by 
+and 
+is produced
+via the set of reactions shown in Fig. 31–1.
+is fissionable with slow neutrons,
+so after separation it can be used as a fuel in a nuclear reactor. Thus a breeder
+reactor “breeds” new fuel†
+from otherwise useless 
+Natu

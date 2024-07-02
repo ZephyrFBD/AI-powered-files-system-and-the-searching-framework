@@ -1,0 +1,14 @@
+ limiting 
+factor for this investigation. The degree of familiarity is difficult to measure. Generally, 
+most students have been exposed to spreadsheets by the time they are in high school, but 
+they typically have memorized the steps of their operations. Some of this will come back 
+to them as they work on the spreadsheets, but unless they use spreadsheets often, most 
+students will need quite a bit of help using the logic of IF statements. 
+There are many ways to create a spreadsheet model. For example, a simpler alternative 
+to using the nested IF statements in the example model in the Student Manual is to 
+use the function COUNTIF to count the AB string, plus COUNTIF again to count 
+the BA string. While this may be more intuitive for some students, it does introduce a 
+new, unique spreadsheet function. Encourage students to develop and find their own 
+solutions to spreadsheet design. 
+One of the distinct advantages of using online spreadsheet applications is the ability to 
+adjust 

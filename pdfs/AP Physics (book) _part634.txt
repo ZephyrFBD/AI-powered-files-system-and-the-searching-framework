@@ -1,0 +1,38 @@
+pproach because it is 
+a scalar.
+Problem solving is not a process that can be done by simply following a set 
+of rules. The Problem Solving Strategy on the next page, like all others, is thus
+not a prescription, but is a summary to help you get started solving problems involv-
+ing energy.
+A1
+2 kx2B,
+A1
+2 mv2B
+SECTION 6–9
+Energy Conservation with Dissipative Forces: Solving Problems
+157
+m
+k
+FIGURE 6–26 A spring connected
+to a block on a frictionless table.
+If you choose your system to be the
+block plus spring, then
+is conserved.
+E =
+1
+2 mv2 + 1
+2 kx2
+P R O B L E M  S O L V I N G
+Use energy, or Newton’s laws?
+EXERCISE F Return to the Chapter-Opening Question, page 138, and answer it again
+now. Try to explain why you may have answered differently the first time.
+With
+and
+Eq. 6–15 with
+becomes
+(6;16a)
+That is, the initial mechanical energy is reduced by the amount 
+We could
+also write this equation as
+(6;16b)
+and state equally well that the initial mechanical energy of the car (point 1) eq

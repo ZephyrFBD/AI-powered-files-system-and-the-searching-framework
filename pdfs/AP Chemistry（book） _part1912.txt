@@ -1,0 +1,18 @@
+-
+ing and antibonding orbital energies, or (2) the horizontal separa-
+tion between the elements increases, which leads to an increase in 
+the electronegativity difference and bond polarity.
+Plan We must look at the periodic table and compare the relative 
+positions of the elements in each case.
+Solve Gallium is in the fourth period and group 3A. Phosphorus is 
+in the third period and group 5A. Zinc and sulfur are in the same 
+periods as gallium and phosphorus, respectively. However, zinc, in 
+group 2B, is one element to the left of gallium; sulfur in group 6A 
+is one element to the right of phosphorus. Thus, we would expect 
+the electronegativity difference to be larger for ZnS, which should 
+result in ZnS having a larger band gap than GaP
+.
+For both GaP and GaN the more electropositive element is 
+gallium. So we need only compare the positions of the more 
+electronegative elements, P and N. Nitrogen is located above phos-
+phorus in group 5A. Therefore, based on increased orbital overl

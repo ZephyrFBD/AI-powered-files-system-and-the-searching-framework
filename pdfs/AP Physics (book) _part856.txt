@@ -1,0 +1,76 @@
+ The plate started from rest so the torque, assumed constant, was
+(c) Initially, before contact,
+is rotating at constant 
+(we ignore friction). When
+plate B comes in contact, why is their joint rotation speed less? You might think in
+terms of the torque each exerts on the other upon contact. But quantitatively,
+it’s easier to use conservation of angular momentum, Eq. 8–20, since no external
+torques are assumed to act. Thus
+Solving for 
+we find (after cancelling factors of 
+)
+v2 =
+¢
+I
+A
+I
+A + I
+B
+≤v1 =
+¢
+M
+A
+M
+A + MB
+≤v1 =
+a 6.0 kg
+15.0 kg b(7.2 rads) = 2.9 rads.
+R2
+v2
+I
+A v1 = AI
+A + I
+BBv2 .
+ 
+angular momentum before = angular momentum after
+v1
+M
+A
+t =
+¢L
+¢t
+= 7.8 kgm2s - 0
+2.0 s
+= 3.9 mN.
+LA = I
+Av1 =
+1
+2 M
+AR2 v1 =
+1
+2 (6.0 kg)(0.60 m)2(7.2 rads) = 7.8 kgm2s.
+M
+A,
+L = Iv
+v2?
+v1 .
+v2 ,
+M
+A,
+MB,
+v1 .
+M
+A
+M
+A,
+¢t = 2.0 s.
+v1 = 7.2 rads
+M
+A
+R = 0.60 m.
+MB = 9.0 kg,
+M
+A = 6.0 kg
+EXAMPLE 8;14
+Neutron star. Astronomers detect stars that
+are rotating extremely rapidly, known as neu

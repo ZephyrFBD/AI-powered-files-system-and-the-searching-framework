@@ -1,0 +1,38 @@
+he result can be stated most
+simply in words as:
+the length of an object moving relative to an observer is measured to be
+shorter along its direction of motion than when it is at rest.
+This is called length contraction. The length 
+in Eqs. 26–3 is called the 
+proper length. It is the length of the object (or distance between two points whose
+positions are measured at the same time) as determined by observers at rest with
+respect to the object. Equations 26–3 give the length that will be measured by
+observers when the object travels past them at speed v.
+l
+l0
+l = l0
+g .
+g
+l = l031 - v2c2
+l = v ¢t0 = v ¢t 31 - v2c2 = l031 - v2c2.
+l = v ¢t0 ,
+l
+= ¢tg.
+¢t0 = ¢t 31 - v2c2
+¢t0
+¢t = l0
+v .
+l0 .
+SECTION 26–5
+Length Contraction
+757
+?
+1.00 m
+1.50 m
+1.00 m
+(a)
+(b)
+FIGURE 26–9 Example 26–5.
+It is important to note that length contraction occurs only along the direction
+of motion. For example, the moving spaceship in Fig. 26–8a is shortened in
+length, but its height is the same as when it is a

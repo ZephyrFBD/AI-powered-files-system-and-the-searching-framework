@@ -1,0 +1,27 @@
+ded for a glycine molecule (see
+Table 13–4) to diffuse a distance of 
+in water at 20°C if
+its concentration varies over that distance from 
+to 
+Compare this “speed” to its rms (thermal)
+speed. The molecular mass of glycine is about 75 u.
+*69. (II) Oxygen diffuses from the surface of insects to the 
+interior through tiny tubes called tracheae. An average
+trachea is about 2 mm long and has cross-sectional area of
+Assuming the concentration of oxygen inside
+is half what it is outside in the atmosphere, (a) show that
+the concentration of oxygen in the air (assume 21% is
+oxygen) at 20°C is about
+then (b) calculate the
+diffusion rate J, and (c) estimate the average time for a
+molecule to diffuse in. Assume the diffusion constant is
+1 * 10–5 m2s.
+8.7 molm3,
+2 * 10–9 m2.
+0.50 molm3?
+1.00 molm3
+25 mm
+70. A Pyrex measuring cup was calibrated at normal room tem-
+perature. How much error will be made in a recipe calling
+for 375 mL of cool water, if the water and the cup are hot,
+at 95°C, inste

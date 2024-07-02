@@ -1,0 +1,27 @@
+me result:
+ 13.0 M)1Vconc2 = 10.10 M)1450 mL2 
+ 1Vconc2 =
+10.10 M)1450 mL2
+3.0 M
+= 15 mL
+Either way, we see that if we start with 15 mL of 3.0 M H2SO4 and 
+dilute it to a total volume of 450 mL, the desired 0.10 M solution 
+will be obtained.
+Check The calculated volume seems reasonable because a small 
+volume of concentrated solution is used to prepare a large volume 
+of dilute solution.
+Comment The first approach can also be used to find the final 
+concentration when two solutions of different concentrations 
+are mixed, whereas the second approach, using Equation 4.33, 
+can be used only for diluting a concentrated solution with pure 
+solvent.
+ 
+▶Practice Exercise 1
+What volume of a 1.00 M stock solution of glucose must be 
+used to make 500.0 mL of a 1.75 * 10-2 M glucose solution  
+in water?  
+(a) 1.75 mL (b) 8.75 mL (c) 48.6 mL (d) 57.1 mL (e) 28,570 mL
+ 
+▶Practice Exercise 2
+(a) What volume of 2.50 M lead(II) nitrate solution con-
+tains 0.0500 mol of Pb2+? (b) How many milliliters o

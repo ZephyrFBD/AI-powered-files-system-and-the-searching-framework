@@ -1,0 +1,16 @@
+udy of the surface structure
+of materials. The “topographic” image of a surface actually represents the
+distribution of electron charge.
+The atomic force microscope (AFM), developed in the 1980s, is in many
+ways similar to an STM, but can be used on a wider range of sample materials.
+Instead of detecting an electric current, the AFM measures the force between a
+cantilevered tip and the sample, a force which depends strongly on the
+tip–sample separation at each point. The tip is moved as for the STM.
+27–10 Early Models of the Atom
+The idea that matter is made up of atoms was accepted by most scientists by 1900.
+With the discovery of the electron in the 1890s, scientists began to think of the atom
+itself as having a structure with electrons as part of that structure. We now discuss
+how our modern view of the atom developed, and the quantum theory with which
+it is intertwined.†
+A typical model of the atom in the 1890s visualized the atom as a homogene-
+ous sphere of positive charge inside

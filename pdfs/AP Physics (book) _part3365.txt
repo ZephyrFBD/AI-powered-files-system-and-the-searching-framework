@@ -1,0 +1,26 @@
+are isotopes
+that lie above the stable isotopes plotted in Fig. 30–2. But what about unstable
+isotopes that have too few neutrons compared to their number of protons—
+those that fall below the stable isotopes of Fig. 30–2? These, it turns out, decay by
+emitting a positron instead of an electron. A positron (sometimes called an 
+or
+particle) has the same mass as the electron, but it has a positive charge of 
+Because it is so like an electron, except for its charge, the positron is called the
+antiparticle† to the electron. An example of a 
+decay is that of 
+where 
+stands for a positron. Note that the 
+emitted here is a neutrino,
+whereas that emitted in 
+decay is called an antineutrino. Thus an antielectron
+is emitted with a neutrino, whereas an antineutrino is emitted with
+an electron; this gives a certain balance as discussed in Chapter 32.
+We can write 
+and 
+decay, in general, as follows:
+where N is the parent nucleus and 
+is the daughter.
+Electron Capture
+Besides 
+and 
+emission, there

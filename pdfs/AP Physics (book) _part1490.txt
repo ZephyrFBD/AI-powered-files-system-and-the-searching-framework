@@ -1,0 +1,26 @@
+r does 
+change?
+50. (II) Show that the rms speed of molecules in a gas is given
+by
+where P is the pressure in the gas and
+is the gas density.
+51. (II) Show that for a mixture of two gases at the same tem-
+perature, the ratio of their rms speeds is equal to the inverse
+ratio of the square roots of their molecular masses,
+52. (II) What is the rms speed of nitrogen molecules contained
+in an 
+volume at 2.9 atm if the total amount of 
+nitrogen is 2100 mol?
+53. (II) Two isotopes of uranium,
+and 
+(the superscripts
+refer to their atomic masses), can be separated by a gas
+diffusion process by combining them with fluorine to make
+the gaseous compound 
+Calculate the ratio of the rms
+speeds of these molecules for the two isotopes, at constant T.
+Use Appendix B for masses.
+54. (III) Calculate (a) the rms speed of an oxygen molecule at
+0°C and (b) determine how many times per second it would
+move back and forth across a 5.0-m-long room on average,
+assuming it made no collisions with other molecules.

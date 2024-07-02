@@ -1,0 +1,25 @@
+, graph the predicted shape of the aerobic respiration
+energy curve as oxygen becomes limited aȇer a few hours of exercise. 
+(c)
+The reaction of phosphocreatine + ADP to ATP + creatine is reversible, and
+during periods of rest the store of phosphocreatine is regenerated.
+Explain how cellular respiration returns muscles to normal aȇer exercise.
+(d)
+The trp operon encodes biosynthetic enzymes to produce the amino acid
+tryptophan in E. coli. The expression of the structural genes (trpE to trpA) is
+regulated by a repressor protein (encoded by trpR) that binds the operator.
+When tryptophan is present, the operon is not transcribed.
+6.
+Answers and Explanations
+Figure 1. trp operon in E. coli
+Describe how the trp operon is turned oﬀ when tryptophan levels are
+high.
+(a)
+Describe how the trp operon is turned on when tryptophan levels are low.
+(b)
+Predict ONE eﬀect a mutation in the trpR gene might have on gene
+regulation.
+(c)
+Explain the feedback mechanism used by the trp operon.  
+(d)
+1. Scori

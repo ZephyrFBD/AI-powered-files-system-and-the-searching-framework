@@ -1,0 +1,24 @@
+s.
+EXERCISE A Put
+into the equation of Example A–2 and show that it 
+works too.
+Two or More Unknowns
+If we have two or more unknowns, one equation is not sufficient to find them.
+In general, if there are n unknowns, n independent equations are needed. For
+example, if there are two unknowns, we need two equations. If the unknowns 
+are called x and y, a typical procedure is to solve one equation for x in terms of y,
+and substitute this into the second equation.
+Solve the following pair of equations for x and y:
+APPROACH We have two unknowns and two equations; we can start by
+solving the second equation for x in terms of y. Then we substitute this result 
+for x into the first equation.
+SOLUTION We subtract 4y from both sides of the second equation:
+We substitute this expression for x into the first equation, and simplify:
+(carried out the multiplication by 3)
+(added 9 to both sides)
+(divided both sides by 
+)
+Now that we know
+we substitute this into the expression for x:
+Our solution is
+We

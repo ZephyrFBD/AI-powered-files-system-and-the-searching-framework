@@ -1,0 +1,30 @@
+ and will not help you understand physics (Fig. 2–14).
+A better approach is to use the following (rough) procedure, which we present as
+a special “Problem Solving Strategy.” (Other such Problem Solving Strategies
+will be found throughout the book.)
+804 ms.
+81 ms;
+90 ms;
+8040 ms;
+402 m
+1
+4
+10 ms2
+30
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+equation that involves only known quantities and
+one desired unknown, solve the equation alge-
+braically for the unknown.
+Sometimes several
+sequential calculations, or a combination of equa-
+tions, may be needed. It is often preferable to solve
+algebraically for the desired unknown before
+putting in numerical values.
+7. Carry out the calculation if it is a numerical problem.
+Keep one or two extra digits during the calculations,
+but round off the final answer(s) to the correct number
+of significant figures (Section 1–4).
+8. Think carefully about the result you obtain: Is it
+reasonable? Does it make sense according to your
+own intui

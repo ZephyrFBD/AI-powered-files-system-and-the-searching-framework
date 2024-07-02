@@ -1,0 +1,38 @@
+he standard enthalpy 
+change for the reaction:
+∆H°
+rxn = ∆Hf°3CaO4 + ∆Hf°3CO24 - ∆Hf°3CaCO34
+Check We expect the enthalpy of formation of a stable solid such 
+as calcium carbonate to be negative, as obtained.
+ 
+▶Practice Exercise 1
+Given 2 SO21g2 + O21g2 ¡  2 SO31g2, which of the follow-
+ing equations is correct?
+(a) ∆Hf°3SO34 = ∆H°
+rxn - ∆Hf°3SO24
+(b) ∆Hf°3SO34 = ∆H°
+rxn + ∆Hf°3SO24
+(c) 2∆Hf°3SO34 = ∆H°
+rxn + 2∆Hf°3SO24
+(d) 2∆Hf°3SO34 = ∆H°
+rxn - 2∆Hf°3SO24
+(e) 2∆Hf°3SO34 = 2∆Hf°3SO24 - ∆H°
+rxn
+ 
+▶Practice Exercise 2
+Given the following standard enthalpy change, use the  
+standard enthalpies of formation in Table 5.3 to calculate  
+the standard enthalpy of formation of CuO(s):
+CuO1s2 + H21g2 ¡  Cu1s2 + H2O1l2  ∆H° = -129.7 kJ
+Solve 
+Inserting the given ∆H°
+rxn and the known ∆Hf° values from Table 5.3 
+or Appendix C, we have:
+178.1 kJ = -635.5 kJ - 393.5 kJ - ∆Hf°3CaCO34
+Solving for ∆Hf°3CaCO34 gives:
+∆Hf°3CaCO34 = -1207.1 kJ>mol
+ 
+SECTION 5.8   
+Bond Enthalpies 
+191
+It is straightforw

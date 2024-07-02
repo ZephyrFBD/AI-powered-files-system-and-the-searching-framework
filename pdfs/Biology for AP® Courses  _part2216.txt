@@ -1,0 +1,36 @@
+= ∑(o −e)2
+e
+This table of critical p values is also provided on the AP
+Biology Exam.
+Degrees of Freedom
+p
+1
+2
+3
+4
+5
+6
+7
+8
+0.05 3.84 5.99
+7.82
+9.49
+11.07 12.59 14.07 15.51
+0.01 6.64 9.32 11.34 13.28 15.09 16.81 18.48 20.09
+Table 19.6
+C. Based on these data, predict, with justification, changes
+over time in the aminopeptidase enzyme for these
+populations.
+D. The B form of this aminopeptidase is slightly more
+efficient at extracting nutritional leucine from a protein
+than the A and C forms but slightly less efficient at
+extracting valine and serine. Describe an investigation of
+the two habitats that could suggest a causal relationship
+between changes in allele frequency and characteristics of
+the environment.
+E. Single-nucleotide mutations are neutral when they
+encode changes in proteins that result in no significant
+differential selection. If differences in environmental
+factors between sites 1 and 2 are not observed, predict
+what other factors could result in departures from Hardy-
+Wei

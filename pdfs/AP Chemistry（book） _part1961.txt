@@ -1,0 +1,31 @@
+ m2
+ = 3.06 * 10-19 J
+We recognize that this energy corresponds to the energy 
+difference between the bottom of the conduction band and 
+the top of the valence band, and so is equivalent to the band 
+gap Eg. Now we have to convert the number to electron volts. 
+Since 1.602 * 10-19 J = 1 eV, we ﬁnd that:
+ Eg = 1.91 eV
+ 
+SECTION 12.9  Nanomaterials 
+511
+ 11.00 atm215.00 L2 = n10.08206 L@atm>K@mol21298 K2
+ 
+n = 0.204 mol
+512 
+CHAPTER 12 Solids and Modern Materials
+Chapter Summary and Key Terms
+CLASSIFICATION 
+OF 
+SOLIDS 
+(INTRODUCTION 
+AND 
+SECTION 
+12.1) 
+The structures and properties of solids can be classified according 
+to the forces that hold the atoms together. Metallic solids are held 
+together by a delocalized sea of collectively shared valence elec-
+trons. Ionic solids are held together by the mutual attraction between 
+cations and anions. Covalent-network solids are held together by 
+an extended network of covalent bonds. Molecular solids are held 
+together by weak intermolecula

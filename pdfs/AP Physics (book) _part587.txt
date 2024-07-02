@@ -1,0 +1,65 @@
+to distinguish it from rotational kinetic
+energy, which we will discuss in Chapter 8.) Equation 6–2, derived here for one-
+dimensional motion with a constant force, is valid in general for translational
+motion of an object in three dimensions and even if the force varies.
+We can rewrite Eq. 6–2 as:
+or
+(6;4)
+Equation 6–4 is a useful result known as the work-energy principle. It can be
+stated in words:
+The net work done on an object is equal to the change in the object’s 
+kinetic energy.
+Notice that we made use of Newton’s second law,
+where 
+is the net
+force—the sum of all forces acting on the object. Thus, the work-energy principle
+is valid only if W is the net work done on the object—that is, the work done by 
+all forces acting on the object.
+F
+net
+F
+net = ma,
+W
+net = ¢ke =
+1
+2 mv2
+2 - 1
+2 mv1
+2 .
+W
+net = ke2 - ke1
+ke =
+1
+2 mv2.
+1
+2 mv2
+W
+net =
+1
+2 mv2
+2 - 1
+2 mv1
+2 .
+W
+net = F
+netd = mad = m a v2
+2 - v1
+2
+2d
+bd = m a v2
+2 - v1
+2
+2
+b
+F
+net = ma,
+v2
+v1
+a = v2
+2 - v1
+2
+2d
+,
+Av2
+2 = v1
+2 

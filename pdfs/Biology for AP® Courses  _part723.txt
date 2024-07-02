@@ -1,0 +1,16 @@
+rs. Allosteric activators
+bind to locations on an enzyme away from the active site, inducing a conformational change that increases the affinity of
+Chapter 6 | Metabolism
+263
+the enzyme’s active site(s) for its substrate(s).
+Figure 6.18 Allosteric inhibitors modify the active site of the enzyme so that substrate binding is reduced or prevented.
+In contrast, allosteric activators modify the active site of the enzyme so that the affinity for the substrate increases.
+264
+Chapter 6 | Metabolism
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 6.19 Have you ever wondered how pharmaceutical drugs are developed? (credit: Deborah Austin)
+Drug Discovery by Looking for Inhibitors of Key Enzymes in
+Specific Pathways
+Enzymes are key components of metabolic pathways. Understanding how enzymes work and how they can
+be regulated is a key principle behind the development of many of the pharmaceutical drugs (Figure 6.19)
+on the market today. Biologists working in t

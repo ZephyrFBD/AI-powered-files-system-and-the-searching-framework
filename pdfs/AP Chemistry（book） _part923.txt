@@ -1,0 +1,19 @@
+ult is a model that precisely describes the 
+energy of the electron while describing its location not precisely but rather in terms of 
+probabilities.
+▲ Figure 6.15 Werner Heisenberg 
+(1901–1976).  During his postdoctoral 
+assistantship with Niels Bohr, Heisenberg 
+formulated his famous uncertainty principle. 
+At 32 he was one of the youngest scientists 
+to receive a Nobel Prize.
+A Closer look Measurement and the Uncertainty Principle
+Whenever any measurement is made, some uncertainty exists. 
+Our experience with objects of ordinary dimensions, such as balls 
+or trains or laboratory equipment, indicates that using more pre-
+cise instruments can decrease the uncertainty of a measurement. 
+In fact, we might expect that the uncertainty in a measurement 
+can be made infintesimally small. However, the uncertainty prin-
+ciple states that there is an actual limit to the accuracy of mea-
+surements. This limit is not a restriction on how well instruments 
+can be made; rather, it is inherent in 

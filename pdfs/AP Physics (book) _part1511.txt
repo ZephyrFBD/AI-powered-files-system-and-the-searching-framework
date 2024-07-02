@@ -1,0 +1,26 @@
+ kg.
+W = ¢pe = mgh,
+EXAMPLE 14;1
+ESTIMATE
+392
+CHAPTER 14
+Heat
+C A U T I O N
+Distinguish heat from 
+internal energy and from 
+temperature
+C A U T I O N
+Direction of heat flow
+depends on temperatures 
+(not on amount of internal energy)
+14–2 Internal Energy
+The sum total of all the energy of all the molecules in an object is called its 
+internal energy. (Sometimes thermal energy is used to mean the same thing.) We
+introduce the concept of internal energy now since it will help clarify ideas about heat.
+Distinguishing Temperature, Heat, and Internal Energy
+Using the kinetic theory, we can make a clear distinction between temperature,
+heat, and internal energy. Temperature (in kelvins) is a measure of the average
+kinetic energy of individual molecules (Eq. 13–8). Internal energy refers to the
+total energy of all the molecules within the object. (Thus two equal-mass hot ingots of
+iron may have the same temperature, but two of them have twice as much internal
+energy as one does.) Heat, finall

@@ -1,0 +1,25 @@
+FIGURE 18–17 Example 18–8.
+Headlights. Calculate the resistance of a 40-W automobile
+headlight designed for 12 V (Fig. 18–17).
+APPROACH We solve for R in Eq. 18–6b, which has the given variables.
+SOLUTION From Eq. 18–6b,
+NOTE This is the resistance when the bulb is burning brightly at 40 W. When
+the bulb is cold, the resistance is much lower, as we saw in Eq. 18–4 (see also
+Exercise G). Since the current is high when the resistance is low, lightbulbs burn
+out most often when first turned on.
+R = V2
+P
+=
+(12 V)2
+(40 W)
+= 3.6 .
+EXAMPLE 18;8
+It is energy, not power, that you pay for on your electric bill. Since power is the
+rate energy is transformed, the total energy used by any device is simply its power
+consumption multiplied by the time it is on. If the power is in watts and the time is
+in seconds, the energy will be in joules since 
+Electric companies
+usually specify the energy with a much larger unit, the kilowatt-hour (kWh).
+One kWh = (1000 W)(3600 s) = 3.60 * 106 J.
+1 W = 1 Js.
+E

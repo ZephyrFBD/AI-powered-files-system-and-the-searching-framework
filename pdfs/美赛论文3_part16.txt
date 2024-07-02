@@ -1,0 +1,58 @@
+l temperature of the water in the bathtub during the fusion
+1
+v
+The volume of adding hot water for one time
+2
+v
+The initial volume of the water in the bathtub before
+1
+t
+The time of adding hot water into the bathtub
+2
+t
+The time of the fusion in a natural condition
+n
+The times of adding hot water into the bathtub
+v
+The speed of adding hot water into the bathtub(less than or equal to
+a constant)
+e
+t
+‘Even time’
+l
+The length of the bathtub
+w
+The width of the bathtub
+h
+The height of the bathtub
+'
+h
+The height of the overflow drain
+r
+The radius of the water column
+x
+E
+Hydrodynamic diffusion coefficient in the direction of x coordinate
+axis
+y
+E
+Hydrodynamic diffusion coefficient in the direction of y coordinate
+axis
+s
+K
+Average water coefficient of heat transfer
+p
+C
+Specific heat of water at constant pressure
+Team#44509
+Page 7 of 26
+S
+The source intensity
+t
+Time coordinate
+x
+v
+Average flowing speed in the direction of x coordinate axis
+y
+v
+Average flowing speed in the direction of y coordin

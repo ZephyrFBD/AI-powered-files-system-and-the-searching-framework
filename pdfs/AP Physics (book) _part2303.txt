@@ -1,0 +1,87 @@
+B
+¢t
+.
+e
+1 Wb = 1 Tm2.
+tesla-meter2;
+u = 0°.
+£B
+£B = 0,
+u = 90°,
+£B
+E
+B
+B
+B
+[uniform B
+B ⊥ loop face]
+£B = BA.
+u = 0°,
+B
+B
+£B = 0.
+B
+B, u = 90°
+A = l2.
+l
+B
+B
+u
+B
+B
+B⊥
+[B uniform]
+£B = B⊥A = BA cos u.
+£B,
+B
+B
+= 90°
+θ
+= 0
+B
+(a)
+= 45°
+θ
+B = BA cos45°
+(b)
+= 0°
+θ
+= BA
+B
+(c)
+B
+B
+FIGURE 21–4 Magnetic flux 
+is proportional to the number of 
+lines of 
+that pass through the loops
+of a coil (here with 3 loops).
+B
+B
+£B
+θ
+θ B
+⊥
+B||
+l
+l
+A = l2
+B
+B
+B
+B
+FIGURE 21–3 Determining the flux
+through a flat loop of wire. This loop
+is square, of side and area A = l2.
+l
+EXERCISE A Return to the Chapter-Opening Question, page 590, and answer it again
+now. Try to explain why you may have answered differently the first time.
+A loop of wire in a magnetic field. A square loop of wire
+of side
+is in a uniform magnetic field
+What is the mag-
+netic flux in the loop (a) when 
+is perpendicular to the face of the loop and 
+(b) when 
+is at an angle of 30° to the area of the loop? (c) What is the magnitude
+of the averag

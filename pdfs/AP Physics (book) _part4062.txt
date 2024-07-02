@@ -1,0 +1,108 @@
+:
+]
+[Example:
+]
+[Ex.:
+]
+an
+bn = a a
+b b
+n
+Aa5BAa–2B = a3
+= an-m
+AanBAa–mB = an
+am
+a
+1
+2 = 1a  
+a
+1
+4 = 21a
+a–1 = 1
+a  
+a–n = 1
+an  
+a0 = 1
+£
+Example:
+Example:
+Aa3B2 = a6
+Aa
+1
+4B4 = a
+§
+AanBm = anm
+Aa3BAb3B = (ab)3
+AanBAbnB = (ab)n
+Aa3BAa2B = a5
+AanBAamB = an+m
+Quadratic Formula [Appendix A–4]
+Equation with unknown x, in the form
+has solutions
+x =
+–b P 3b2 - 4ac
+2a
+.
+ax2 + bx + c = 0,
+Binomial Expansion [Appendix A–5]
+[for 
+]
+if
+[Example:
+]
+[Example:
+]
+1
+10.99 =
+1
+11 - 0.01 = (1 - 0.01)– 1
+2 L 1 - A – 1
+2B(0.01) L 1.005
+(1 + 0.01)3 L 1.03
+x V 1
+L 1 + nx
+x2 6 1
+(1 + x)n = 1 + nx +
+n(n - 1)
+21
+x2 +
+n(n - 1)(n - 2)
+321
+x3 + p
+Logarithms [Appendix A–8; T
+able p. A-11]
+If
+If
+log an = n log a
+log a a
+b b = log a - log b
+log(ab) = log a + log b
+y = ex,  then  x = loge y = ln y.
+y = 10x,  then  x = log10 y = log y.
+Fractions
+a a
+b b
+a c
+d b
+= ad
+bc
+a
+b = c
+d  is the same as ad = bc
+T
+rigonometric Formulas [Appendix A–7]
+ 
+tan u =
+opp
+adj
+ 
+cos u =
+adj
+hyp
+ 
+sin u =
+opp
+hyp
+[for small 
+]
+[for

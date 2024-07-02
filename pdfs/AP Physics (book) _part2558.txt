@@ -1,0 +1,32 @@
+may be viewed directly or on a monitor screen
+or film. The fibers must be optically insulated from one another, usually by a thin
+coating of material with index of refraction less than that of the fiber. The more fibers
+there are, and the smaller they are, the more detailed the picture. Such instruments,
+including bronchoscopes, colonoscopes (for viewing the colon), and endoscopes
+(stomach or other organs), are extremely useful for examining hard-to-reach 
+places.
+A1012 bitsB
+A1010 bitsB
+†Fiber-optic devices use not only visible light but also infrared light, ultraviolet light, and microwaves.
+Lens
+FIGURE 23–32 Converging lens 
+(in holder) forms an image (large “F”
+on screen at right) of a bright 
+object (illuminated “F” at the left).
+SECTION 23–7
+Thin Lenses; Ray Tracing
+661
+Double
+convex
+Planoconvex
+Convex
+meniscus
+(a) Converging lenses
+(c)
+(d)
+Double
+concave
+Planoconcave Concave
+meniscus
+(b) Diverging lenses
+FIGURE 23–31 (a) Converging lenses and (b) diverging lenses, shown in cross

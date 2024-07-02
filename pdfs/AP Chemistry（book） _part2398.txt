@@ -1,0 +1,25 @@
+eaction N21g2 + 3 H21g2 ∆ 2 NH31g2, 
+determine the value of Kp for the reaction 
+2 NH31g2 + 3 I21g2 ∆ 6 HI1g2 + N21g2 at 700 K.
+SOLUTION
+Sample Exercise 15.4
+ Combining Equilibrium Expressions
+ 
+SECTION 15.3   
+Understanding and Working with Equilibrium Constants 
+635
+636 
+CHAPTER 15 Chemical Equilibrium
+15.4 ∣ Heterogeneous Equilibria
+Many equilibria involve substances that are all in the same phase. Such equilibria are 
+called homogeneous equilibria. The equilibrium between N2O41g2 and NO21g2
+shown in Figure 15.2 is one such example. In some cases, however, the substances in 
+equilibrium are in different phases, giving rise to heterogeneous equilibria. An 
+example occurs when solid lead(II) chloride dissolves in water to form a saturated 
+solution:
+ 
+PbCl21s2 ∆ Pb2+1aq2 + 2 Cl-1aq2 
+[15.19]
+This system consists of a solid in equilibrium with two aqueous species. If we want to 
+write the equilibrium-constant expression for this process, we encounter a problem we 
+have not encountered 

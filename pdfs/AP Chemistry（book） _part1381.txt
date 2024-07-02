@@ -1,0 +1,35 @@
+ are of equal length. In both resonance structures, the central O atom is 
+bonded to the two outer O atoms and has one nonbonding pair. Thus, there 
+are three electron domains about the central O atoms. (Remember that a 
+double bond counts as a single electron domain.) The arrangement of three 
+electron domains is trigonal planar (Table 9.1). Two of the domains are from 
+bonds, and one is due to a nonbonding pair. So, the molecular geometry is 
+bent with an ideal bond angle of 120° (Table 9.2).
+O
+O
+O
+O
+O
+O
+Cl
+Cl
+Cl
+Sn
+ 
+▶Practice Exercise 1
+Consider the following AB3 molecules and ions: 
+PCl3, SO3, AlCl3, SO3
+2 -, and CH3
++. How many of these  
+molecules and ions do you predict to have a trigonal-planar 
+molecular geometry? (a) 1 (b) 2 (c) 3 (d) 4 (e) 5
+ 
+▶Practice Exercise 2
+Predict the electron-domain and molecular geometries for  
+(a) SeCl2, (b) CO3
+2 -.
+O
+O
+O
+Comment As this example illustrates, when a molecule exhibits resonance, any 
+one of the resonance structures can be used to

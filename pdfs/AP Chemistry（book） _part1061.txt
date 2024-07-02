@@ -1,0 +1,14 @@
+ appeared in his table. When these elements were discovered, their 
+properties closely matched those predicted by Mendeleev, as shown in Table 7.1.
+In 1913, two years after Rutherford proposed the nuclear model of the atom 
+ (Section 2.2), English physicist Henry Moseley (1887–1915) developed the concept 
+of atomic numbers. Bombarding different elements with high-energy electrons, Moseley 
+found that each element produced X rays of a unique frequency and that the frequency 
+generally increased as the atomic mass increased. He arranged the X-ray frequencies in 
+order by assigning a unique whole number, called an atomic number, to each element. 
+Moseley correctly identified the atomic number as the number of protons in the nucleus 
+of the atom. 
+ (Section 2.3)
+The concept of atomic number clarified some problems in the periodic table of 
+Moseley’s day, which was based on atomic weights. For example, the atomic weight of 
+Ar (atomic number 18) is greater than that of K (atomic number 19),

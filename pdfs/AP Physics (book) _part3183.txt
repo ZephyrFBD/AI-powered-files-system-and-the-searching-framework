@@ -1,0 +1,34 @@
+ eV “pump” atoms from
+to 
+which then decay to
+metastable state 
+Lasing action
+occurs by stimulated emission of
+photons in transition from 
+to E0.
+E1
+E1 .
+E2 ,
+E0
+2.2 eV
+1.8 eV
+0.4 eV
+E2
+E1
+E0
+(metastable)
+C A U T I O N
+Laser: photons have
+same frequency and direction,
+and are in phase
+In a helium;neon laser (He–Ne), the lasing material is a gas, a mixture of
+about 85% He and 15% Ne. The atoms are excited by applying a high voltage to
+the tube so that an electric discharge takes place within the gas. In the process,
+some of the He atoms are raised to the metastable state 
+shown in Fig. 28–20,
+which corresponds to a jump of 20.61 eV, almost exactly equal to an excited state
+in neon, 20.66 eV. The He atoms do not quickly return to the ground state by
+spontaneous emission, but instead often give their excess energy to a Ne atom
+when they collide—see Fig. 28–20. In such a collision, the He drops to the ground
+state and the Ne atom is excited to the state 
+(the prime refers to neon states).

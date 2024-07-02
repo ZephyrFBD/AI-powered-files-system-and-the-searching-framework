@@ -1,0 +1,21 @@
+ot (Fig. 12–27c) can be represented
+as a point whose position is given by the time delay and whose brightness depends
+t = d
+v
+=
+(0.50 m)
+(1540 ms) = 320 ms.
+1540 ms
+2 * 25 cm = 0.50 m.
+Sonar generally makes use of ultrasonic frequencies: that is, sound waves whose
+frequencies are above 20 kHz, beyond the range of human detection. For sonar,
+the frequencies are typically in the range 20 kHz to 100 kHz. One reason for using
+ultrasound waves, other than the fact that they are inaudible, is that for shorter
+wavelengths there is less diffraction (Section 11–14) so the beam spreads less and
+smaller objects can be detected.
+FIGURE 12–26 Ultrasound image
+of a human fetus within the uterus.
+on the strength of the echo. A two-dimensional image can then be formed out of
+these dots from a series of scans. The transducer is moved, or an array of trans-
+ducers is used, each of which sends out a pulse at each position and receives echoes
+as shown in Fig. 12–28a. Each trace can be plotted, spaced ap

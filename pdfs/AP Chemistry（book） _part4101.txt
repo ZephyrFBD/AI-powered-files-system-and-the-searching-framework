@@ -1,0 +1,16 @@
+ir 
+18.15 8.7 * 1016 CO molecules/1.0 L air 18.17 (a) 570 nm (b) vis-
+ible electromagnetic radiation 18.19 (a) Photodissociation is cleavage 
+of a bond such that two neutral species are produced. Photoionization 
+is absorption of a photon with sufficient energy to eject an electron, 
+producing an ion and the ejected electron. (b) Photoionization of O2 
+requires 1205 kJ>mol. Photodissociation requires only 495 kJ>mol. 
+At lower elevations, high-energy short-wavelength solar radiation 
+has already been absorbed. Below 90 km, the increased concentration 
+of O2 and the availability of longer-wavelength radiation cause the 
+photodissociation process to dominate. 18.21 (a) A wavelength of 
+145 nm is in the ultraviolet portion of the electromagnetic spectrum. 
+(b) The energy of one mole of 145-nm photons is 826 kJ. This is more 
+than enough energy to photodissociate O2, but not enough energy 
+to photoionize O2. 18.23 Ozone depletion reactions, which involve 
+only O3, O2, or O (oxidation state

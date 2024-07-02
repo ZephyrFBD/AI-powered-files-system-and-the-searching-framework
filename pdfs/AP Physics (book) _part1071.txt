@@ -1,0 +1,30 @@
+l to atmospheric pressure:
+Then Bernoulli’s equation becomes
+or
+(10;6)
+This result is called Torricelli’s theorem. Although it is seen to be a special case of
+Bernoulli’s equation, it was discovered a century earlier by Evangelista Torricelli.
+Equation 10–6 tells us that the liquid leaves the spigot with the same speed that 
+a freely falling object would attain if falling from the same height. This should 
+not be too surprising since the derivation of Bernoulli’s equation relies on the
+conservation of energy.
+v1 =
+22gAy2 - y1B .
+1
+2 rv1
+2 + rgy1 = rgy2
+P
+1 = P
+2.
+v2
+v1,
+SECTION 10–10
+277
+Another special case of Bernoulli’s equation arises when a fluid is flowing
+horizontally with no appreciable change in height; that is,
+Then Eq. 10–5
+becomes
+(10;7)
+which tells us quantitatively that the speed is high where the pressure is low, and
+vice versa. It explains many common phenomena, some of which are illustrated
+in Figs. 10–24 to 10–30. The pressure in the air blown at high speed across the

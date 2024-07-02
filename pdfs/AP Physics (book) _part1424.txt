@@ -1,0 +1,57 @@
+use the value of R at all. For example,
+many problems involve a change in the pressure, temperature, and volume of a
+fixed amount of gas. In this case,
+since n and R remain
+constant. If we now let 
+and 
+represent the appropriate variables initially,
+and 
+represent the variables after the change is made, then we can write 
+[fixed n]
+If we know any five of the quantities in this equation, we can solve for the sixth.
+Or, if one of the three variables is constant (
+or
+or
+)
+then we can use this equation to solve for one unknown when given the other
+three quantities.
+T
+1 = T
+2
+P
+1 = P
+2 ,
+V
+1 = V
+2 ,
+P
+1 V
+1
+T
+1
+= P
+2 V
+2
+T
+2
+.
+T
+2
+V
+2 ,
+P
+2 ,
+T
+1
+V
+1 ,
+P
+1 ,
+PVT = nR = constant,
+0.0821 LatmmolK.
+Check tires cold. An automobile tire is filled (Fig. 13–17)
+to a gauge pressure of 
+at 10°C. After a drive of 100 km, the
+temperature within the tire rises to 40°C. What is the pressure within the tire now?
+APPROACH We do not know the number of moles of gas, or the volume of the
+tire, but we ass

@@ -1,0 +1,26 @@
+tron stars. A neutron star is believed
+to form from the inner core of a larger star that collapsed, under its own gravi-
+tation, to a star of very small radius and very high density. Before collapse,
+suppose the core of such a star is the size of our Sun
+with mass
+2.0 times as great as the Sun, and is rotating at a frequency of 1.0 revolution every
+100 days. If it were to undergo gravitational collapse to a neutron star of radius
+10 km, what would its rotation frequency be? Assume the star is a uniform sphere
+at all times, and loses no mass.
+APPROACH We assume the star is isolated (no external forces), so we can use
+conservation of angular momentum for this process.
+SOLUTION From conservation of angular momentum, Eq. 8–20,
+where the subscripts 1 and 2 refer to initial (normal star) and final (neutron star),
+respectively. Then, assuming no mass is lost in the process (
+),
+The frequency 
+so
+which is 600 Hz or (600 revs)(60 smin) = 36,000 rpm.
+=
+¢ 7 * 105 km
+10 km
+≤
+2
+¢
+1.0 rev
+100 d (2

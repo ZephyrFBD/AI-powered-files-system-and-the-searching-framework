@@ -1,0 +1,23 @@
+calculated using Kirchhoff’s rules.
+SECTION 19–3
+Kirchhoff’s Rules
+533
+Kirchhoff’s first rule or junction rule is based on the conservation of electric
+charge (we already used it to derive the equation for parallel resistors). It states that
+at any junction point, the sum of all currents entering the junction must
+equal the sum of all currents leaving the junction.
+That is, whatever charge goes in must come out. For example, at the junction
+point a in Fig. 19–11,
+is entering whereas 
+and 
+are leaving. Thus Kirchhoff’s
+junction rule states that 
+We already saw an instance of this in the
+NOTE at the end of Example 19–5.
+Kirchhoff’s second rule or loop rule is based on the conservation of energy.
+It states that
+the sum of the changes in potential around any closed loop of a circuit must
+be zero.
+To see why this rule should hold, consider a rough analogy with the potential energy
+of a roller coaster on its track. When the roller coaster starts from the station, it
+has a particular potentia

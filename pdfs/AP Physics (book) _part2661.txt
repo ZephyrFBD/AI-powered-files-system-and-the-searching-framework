@@ -1,0 +1,18 @@
+e there is the strongest maximum. Between the minima,
+smaller intensity maxima occur at approximately (not exactly)
+Note that the minima for a diffraction pattern, Eq. 24–3b, satisfy a criterion
+that looks very similar to that for the maxima (bright spots or fringes) for double-
+slit interference, Eq. 24–2a. Also note that D is a single slit width, whereas d in
+Eqs. 24–2 is the distance between two slits.
+Single-slit diffraction maximum. Light of wavelength
+750 nm passes through a slit 
+wide. How wide is the central max-
+imum (a) in degrees, and (b) in centimeters, on a screen 20 cm away?
+APPROACH The width of the central maximum goes from the first minimum
+on one side to the first minimum on the other side. We use Eq. 24–3a to find the
+angular position of the first single-slit diffraction minimum.
+SOLUTION (a) The first minimum occurs at
+So 
+This is the angle between the center and the first minimum,
+Fig. 24–22. The angle subtended by the whole central maximum, between the
+minima abov

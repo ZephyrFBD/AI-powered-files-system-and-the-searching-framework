@@ -1,0 +1,13 @@
+very high energy and are steered so that they collide head-on. One way to
+accomplish such colliding beams with a single accelerator is through the use of
+storage rings, in which oppositely circulating beams can be repeatedly brought
+into collision with one another at particular points. For example, in the
+experiments that provided strong evidence for the top quark (Section 32–9 and
+Fig. 32–15), the Fermilab Tevatron accelerated protons and antiprotons each to
+900 GeV, so that the combined energy of head-on collisions was 1.8 TeV.
+The largest collider is the Large Hadron Collider (LHC) at CERN, with a
+circumference of 26.7 km (Fig.32–5). The two colliding beams are designed to each
+carry 7-TeV protons for a total interaction energy of 14 TeV. For the experiments
+in 2011 and 2012 the total interaction energy was 7 TeV and 8 TeV. The protons 
+for each of the beams, moving in opposite directions, are accelerated in several
+stages. The penultimate is SPS (Super Proton Synchrotron), seen in 

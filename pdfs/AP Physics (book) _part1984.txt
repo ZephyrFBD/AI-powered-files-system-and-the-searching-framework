@@ -1,0 +1,28 @@
+lectric heater. An electric heater draws a steady 15.0 A
+on a 120-V line. How much power does it require and how much does it cost per
+month (30 days) if it operates 3.0 h per day and the electric company charges
+9.2 cents per kWh?
+APPROACH We use Eq. 18–5,
+to find the power. We multiply the
+power (in kW) by the time (h) used in a month and by the cost per energy unit,
+$0.092 per kWh, to get the cost per month.
+SOLUTION The power is
+The time (in hours) the heater is used per month is 
+which at 
+would cost
+just for
+this heater.
+NOTE Household current is actually alternating (ac), but our solution is still
+valid assuming the given values for V and I are the proper averages (rms) as we
+discuss in Section 18–7.
+(1.80 kW)(90 h)($0.092kWh) = $15,
+9.2¢kWh
+= 90 h,
+(3.0 hd)(30 d)
+= 1800 W = 1.80 kW.
+P = IV = (15.0 A)(120 V)
+P = IV,
+EXAMPLE 18;9
+Lightning bolt. Lightning is a spectacular
+example of electric current in a natural phenomenon (Fig. 18–18). There is much
+variability to lightning b

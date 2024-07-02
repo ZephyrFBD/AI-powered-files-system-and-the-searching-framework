@@ -1,0 +1,12 @@
+lleles.
+Step 4: Generate multiple generations. Using the allele frequencies of the new generation (the zygotes), repeat
+steps 2 and 3 for several new generations. The allele frequencies, p and q, for each generation may be slightly
+different than the previous generation because the mixing of alleles to form zygotes is random. You can reexamine
+your population with a new set of random combinations of alleles by telling your spreadsheet to recalculate the data.
+For this, it will select new random numbers.
+Part II: Generate “What If" Scenarios
+Use your mathematical model of Hardy-Weinberg to generate “what if” scenarios. When you first create your
+population in your spreadsheet, you will probably begin with a small population (perhaps N = 16) spread over
+several generations. You can change various attributes of your model to see how it affects your population and how
+it relates to Hardy-Weinberg equilibrium. For example:
+1. Add additional generations. If you stretch your population to 10 

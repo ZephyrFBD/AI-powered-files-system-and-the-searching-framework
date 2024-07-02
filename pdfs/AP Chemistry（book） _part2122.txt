@@ -1,0 +1,17 @@
+ssed by Henry’s law: Sg = kP
+g. The sol-
+ubilities of most solid solutes in water increase as the temperature of 
+the solution increases. In contrast, the solubilities of gases in water 
+generally decrease with increasing temperature.
+EXPRESSING SOLUTION CONCENTRATIONS (SECTION 13.4)  
+Concentrations of solutions can be expressed quantitatively by sev-
+eral different measures, including mass percentage [(mass solute/mass 
+solution) * 100] parts per million (ppm), parts per billion (ppb), and 
+mole fraction. Molarity, M, is defined as moles of solute per liter of 
+solution; molality, m, is defined as moles of solute per kilogram of sol-
+vent. Molarity can be converted to these other concentration units if 
+the density of the solution is known.
+COLLIGATIVE PROPERTIES (SECTION 13.5) A physical property of 
+a solution that depends on the concentration of solute particles pres-
+ent, regardless of the nature of the solute, is a colligative property. Col-
+ligative properties include vapor–pre

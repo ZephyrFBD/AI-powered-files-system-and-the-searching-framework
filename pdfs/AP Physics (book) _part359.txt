@@ -1,0 +1,20 @@
+n’s second law to an object of mass m falling freely
+due to gravity. For the acceleration,
+we use the downward acceleration due to
+gravity,
+Thus, the gravitational force on an object,
+can be written as
+(4;3)
+The direction of this force is down toward the center of the Earth. The magnitude
+of the force of gravity on an object, mg, is commonly called the object’s weight.
+In SI units,
+‡ so the weight of a 1.00-kg mass on
+Earth is  
+We will mainly be concerned with the
+weight of objects on Earth, but we note that on the Moon, on other planets, or in
+space, the weight of a given mass will be different than it is on Earth. For exam-
+ple, on the Moon the acceleration due to gravity is about one-sixth what it is on
+Earth, and a 1.0-kg mass weighs only 1.6 N. Although we will not use British
+units, we note that for practical purposes on the Earth, a mass of 1.0 kg weighs
+about 2.2 lb. (On the Moon, 1 kg weighs only about 0.4 lb.)
+The force of gravity acts on an object when it is falling. When a

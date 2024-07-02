@@ -1,0 +1,23 @@
+ity
+▲ Figure 16.4 Relative strengths of select conjugate acid–base pairs. The two members of each  
+pair are listed opposite each other in the two columns.
+Give It Some Thought
+Given that HClO4 is a strong acid, how would you classify the basicity of ClO4
+-?
+ 
+SECTION 16.2   
+Brønsted–Lowry Acids and Bases 
+671
+672 
+CHAPTER 16 Acid–Base Equilibria
+16.3 ∣ The Autoionization of Water
+One of the most important chemical properties of water is its ability to act as either a 
+Brønsted–Lowry acid or a Brønsted–Lowry base. In the presence of an acid, it acts as a 
+proton acceptor; in the presence of a base, it acts as a proton donor. In fact, one water 
+molecule can donate a proton to another water molecule:
+ 
+[16.12]
+We call this process the autoionization of water.
+Because the forward and reverse reactions in Equation 16.12 are extremely rapid, 
+no water molecule remains ionized for long. At room temperature only about two out 
+of every 109 water molecules are ionized at any given instant. T

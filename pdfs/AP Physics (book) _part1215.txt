@@ -1,0 +1,33 @@
+ROACH To determine the tension, we need to find the wave speed using
+Eq. 11–12
+and then use Eq. 11–13, solving it for 
+SOLUTION (a) The wavelength of the fundamental is 
+(Eq. 11–19a with
+). The speed of the wave on the string is
+Then we have (Eq. 11–13)
+(b) The first harmonic (the fundamental) has a frequency 
+The
+frequencies of the second, third, and fourth harmonics are two, three, and four
+times the fundamental frequency: 262, 393, and 524 Hz, respectively.
+NOTE The speed of the wave on the string is not the same as the speed of the
+sound wave that the piano string produces in the air (as we shall see in Chapter 12).
+f
+1 = 131 Hz.
+F
+T = mv2 = m
+l v2 =
+¢ 9.00 * 10–3 kg
+1.10 m
+≤(288 ms)2 = 679 N.
+(2.20 m)A131 s–1B = 288 ms.
+=
+v = lf
+n = 1
+l = 2l = 2.20 m
+F
+T.
+(v = lf),
+EXAMPLE 11;14
+A standing wave does appear to be standing in place (and a traveling wave
+appears to move). The term “standing” wave is also meaningful from the point of
+view of energy. Since the string is at rest at th

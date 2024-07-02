@@ -1,0 +1,17 @@
+erical value is assumed to be one or a few units in the
+last digit specified.
+For example, if a length is given as 8.8 cm, the uncertainty is assumed to be
+about 0.1 cm or 0.2 cm. It is important in this case that you do not write 8.80 cm,
+because this implies an uncertainty on the order of 0.01 cm; it assumes that the
+length is probably between 8.79 cm and 8.81 cm, when actually you believe it is
+between 8.7 and 8.9 cm.
+Is the diamond yours? A friend asks to
+borrow your precious diamond for a day to show her family. You are a bit 
+worried, so you carefully have your diamond weighed on a scale which reads
+8.17 grams. The scale’s accuracy is claimed to be 
+The next day you
+weigh the returned diamond again, getting 8.09 grams. Is this your diamond?
+RESPONSE The scale readings are measurements and are not perfect. They
+do not necessarily give the “true” value of the mass. Each measurement could
+have been high or low by up to 0.05 gram or so. The actual mass of your
+diamond lies most likel

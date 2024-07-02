@@ -1,0 +1,19 @@
+nd 0.110 mol Ar(g) is confined in a 10.00-L vessel at 25 °C.  
+(a) Calculate the partial pressure of each of the gases in the 
+mixture. (b) Calculate the total pressure of the mixture.
+ 10.64  A deep-sea diver uses a gas cylinder with a volume of 10.0 L 
+and a content of 51.2 g of O2 and 32.6 g of He. Calculate the 
+partial pressure of each gas and the total pressure if the tem-
+perature of the gas is 19 °C.
+ 10.65 The atmospheric concentration of CO2 gas is presently 
+ 
+407 ppm (parts per million, by volume; that is, 407 L of every 
+106 L of the atmosphere are CO2). What is the mole fraction 
+of CO2 in the atmosphere?
+ 10.66 A plasma-screen TV contains thousands of tiny cells filled 
+with a mixture of Xe, Ne, and He gases that emits light of 
+specific wavelengths when a voltage is applied. A particular 
+plasma cell, 0.900 mm * 0.300 mm * 10.0 mm, contains 
+4% Xe in a 1:1 Ne:He mixture at a total pressure of 500 torr. 
+Calculate the number of Xe, Ne, and He atoms in the cell and 
+state

@@ -1,0 +1,18 @@
+ results from this
+supercoiling. Single-strand binding proteins bind to the single-stranded DNA to prevent the helix from re-forming.
+Primase synthesizes an RNA primer. DNA polymerase III uses this primer to synthesize the daughter DNA strand.
+On the leading strand, DNA is synthesized continuously, whereas on the lagging strand, DNA is synthesized in
+short stretches called Okazaki fragments. DNA polymerase I replaces the RNA primer with DNA. DNA ligase seals
+the gaps between the Okazaki fragments, joining the fragments into a single DNA molecule. (credit: modification
+of work by Mariana Ruiz Villareal)
+You isolate a cell strain in which the joining together of Okazaki fragments is impaired and suspect that a mutation has
+occurred in an enzyme found at the replication fork. Which enzyme is most likely to be mutated?
+a.
+DNA ligase
+b.
+DNA polymerase III
+c.
+helicase
+d.
+topoisomerase
+The replication fork moves at the rate of 1000 nucleotides per second. DNA polymerase can only extend in the

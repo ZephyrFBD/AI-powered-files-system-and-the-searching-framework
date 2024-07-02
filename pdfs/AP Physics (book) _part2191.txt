@@ -1,0 +1,107 @@
+ wire is perpendicular to B
+B.
+l
+F
+max
+B = F
+maxIl,
+B
+B
+l
+Ccurrent ⊥B
+B D
+F
+max = IlB.
+B
+B (u = 90°),
+F = IlB sin u.
+(u = 0°),
+sin 90° = 1),
+(u = 90°
+F r IlB sin u.
+l
+sin u.
+u
+l
+F
+B
+B
+B.
+B
+B.
+B
+B
+B
+B
+564
+CHAPTER 20
+Right-Hand-Rule-2:
+Force on current exerted by B
+B
+N
+I
+I
+I
+I
+Force
+is
+down
+S
+–
++
+N
+Force is up
+22 V
+22 V
+S
++
+–
+(a)
+(b)
+I
+B
+F
+B
+B
+B
+B
+B
+(c)
+Right-hand rule
+B
+B
+I
+θ
+l
+B
+B
+FIGURE 20–12 Current-carrying
+wire in a magnetic field. Force on
+the wire is directed into the page.
+FIGURE 20–11 (a) Force on a
+current-carrying wire placed in a
+magnetic field 
+(b) same, but
+current reversed; (c) right-hand rule
+for setup in (b), with current 
+shown as if a vector with direction.
+I
+B
+B
+B;
+SECTION 20–3
+565
+ = 60°
+θ
+I
+I
+l = 12 cm
+B
+B
+B
+B
+FIGURE 20–13 Example 20–1. For
+right-hand-rule-2, the thumb points
+into the page. See Fig. 20–11c.
+EXERCISE C A wire carrying current I is perpendicular to a magnetic field of
+strength B. Assuming a fixed length of wire, which of the following changes will r

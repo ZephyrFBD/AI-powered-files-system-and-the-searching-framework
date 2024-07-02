@@ -1,0 +1,26 @@
+ermine the equilibrium concentrations of NO2 and N2O4, which are shown in 
+Table 15.1.
+To evaluate Kc, we insert the equilibrium concentrations into the equilibrium- 
+constant expression. For example, using Experiment 1 data, 3NO24 = 0.0172 M and 
+3N2O44 = 0.00140 M, we find
+ 
+Kc =
+3NO242
+3N2O44 =
+30.017242
+0.00140
+= 0.211 
+ 
+SECTION 15.2   
+The Equilibrium Constant 
+629
+630 
+CHAPTER 15 Chemical Equilibrium
+Proceeding in the same way, the values of Kc for the other samples are cal-
+culated. Note from Table 15.1 that the value for Kc is constant (within the limits 
+of experimental error), even though the initial concentrations vary, as do the 
+final concentrations. Furthermore, Experiment 4 shows that equilibrium can be 
+achieved beginning with N2O4 rather than with NO2. That is, equilibrium can 
+be approached from either direction. Figure 15.6 shows how Experiments 3 and 
+4 result in the same equilibrium mixture even though the two experiments start 
+with very different NO2 concentrati

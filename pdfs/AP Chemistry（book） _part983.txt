@@ -1,0 +1,27 @@
+ls
+f-orbitals
+d-orbitals
+6d
+3p
+4p
+5p
+6p
+7p
+1s
+Representative
+Elements
+Transition metals
+f-block metals
+▲ Figure 6.30 Regions of the periodic table. 
+The order in which electrons are added to 
+orbitals is read left to right beginning in the 
+top-left corner.
+The number of columns in each block corresponds to the maximum number of 
+electrons that can occupy each kind of subshell. Recall that 2, 6, 10, and 14 are the 
+numbers of electrons that can fill the s, p, d, and f subshells, respectively. Thus, the s 
+block has 2 columns, the p block has 6, the d block has 10, and the f  block has 14. Recall 
+also that 1s is the first s subshell, 2p is the first p subshell, 3d is the first d subshell, and 
+4f is the first f subshell, as Figure 6.30 shows. Using these facts, you can write the elec-
+tron configuration of an element based merely on its position in the periodic table. 
+Remember: The periodic table is your best guide to the order in which orbitals are filled.
+Let’s use the periodic tabl

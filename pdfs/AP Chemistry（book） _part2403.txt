@@ -1,0 +1,38 @@
+f CaCO31s2 increase, decrease, 
+or remain the same?
+CaO
+CaO
+CaCO3
+CaCO3
+CO2(g)
+CO2(g)
+CO2(g)
+CO2(g)
+CaCO3(s)           CaO(s) + CO2(g)
+Large amount of CaCO3, small 
+amount of CaO, gas pressure P
+Small amount of CaCO3, large 
+amount of CaO, gas pressure still P
+▲ Figure 15.8 At a given temperature, the equilibrium pressure of CO2 in the bell jars is the same 
+no matter how much of each solid is present.
+638 
+CHAPTER 15 Chemical Equilibrium
+When a solvent is a reactant or product in an equilibrium, its concentration is omit-
+ted from the equilibrium-constant expression, provided the concentrations of reactants 
+and products are low, so that the solvent is essentially a pure substance. Applying this 
+guideline to an equilibrium involving water as a solvent,
+ 
+H2O1l2 + CO3 
+2-1aq2 ∆ OH-1aq2 + HCO3
+-1aq2 
+[15.21]
+gives an equilibrium-constant expression that does not contain 3H2O4:
+ 
+Kc =
+3OH-43HCO3
+-4
+3CO3
+2-4
+ 
+[15.22]
+Each of these mixtures was placed in a closed container and allowed to

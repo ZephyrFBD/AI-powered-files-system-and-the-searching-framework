@@ -1,0 +1,34 @@
+t University, Volume 36 
+Team   #37232                                                              Page 16 of 22   
+minf2 = max{T1j, T2ij}                                      (6) 
+s.t. 
+∑y1j ≪q1                                                           (7)
+n
+j=1
+ 
+∑y2ij ≪q2 i                                                       (8)
+n
+j=1
+ 
+q2 j −∑y2ji
+n
+i=1
++ ∑y1j
+n
+j=1
++ ∑y2ij
+n
+i=1
+= dj + Euj                (9) 
+x2ij ∗x2ji = 0,         i ≠j                                   (10) 
+And definition 
+x1j = {
+1,   vaccine center deliver medication to epidemic area Aj
+0,   vaccine center not deliver medication to epidemic area Aj 
+x2ij = {
+1,    epidemic area Ai deliver medication to Aj
+0,    epidemic area Ai not deliver medication to Aj 
+The constraint function (7) ensures the delivery medication is less than the 
+total reserve in the treatment center. The constraint function (8) ensures the 
+delivery medication from epidemic area Ai to other epidemic area is less than 
+the current rese

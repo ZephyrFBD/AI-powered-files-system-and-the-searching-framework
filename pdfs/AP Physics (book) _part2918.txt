@@ -1,0 +1,36 @@
+ime at rest is
+(b) How far does a muon travel in the
+laboratory, on average, before decaying?
+APPROACH If an observer were to move along with the muon (the muon would
+be at rest to this observer), the muon would have a mean life of 
+To
+an observer in the lab, the muon lives longer because of time dilation. We find the
+mean lifetime using Eq. 26–1 and the average distance using
+SOLUTION (a) From Eq. 26–1 with
+we have
+(b) Relativity predicts that a muon with speed 
+would travel an
+average distance
+and this
+is the distance that is measured experimentally in the laboratory.
+NOTE At a speed of 
+classical physics would tell us that 
+with a mean life of 
+an average muon would travel 
+This is shorter than the distance measured.
+EXERCISE A What is the muon’s mean lifetime (Example 26–1) if it is traveling at
+(a) 
+(b) 
+(c) 
+(d) 
+(e) 12.0 ms.
+5.3 ms;
+5.0 ms;
+2.3 ms;
+0.42 ms;
+v = 0.90c?
+A1.8 * 108 msBA2.2 * 10–6 sB = 400 m.
+d = vt =
+2.2 ms,
+1.8 * 108 ms,
+d = v ¢t = A1.80 * 108 msBA2.8 * 10–6 sB

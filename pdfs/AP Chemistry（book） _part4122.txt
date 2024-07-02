@@ -1,0 +1,17 @@
+= -22 kJ
+(c) K = 1.8 *  10-6 = 10-6; K = 1.2 * 10-86 = 10-86; 
+K = 7.8 * 103 = 8 * 103 20.53 ∆G° = 21.8 kJ, E°
+cell = -0.113 V  
+20.55 (a) E° = 0.16 V, K = 2.54 * 105 = 3 * 105 (b) E° = 0.28 V, 
+K = 2.93 * 109 = 3 * 109  (c) E° = 0.44 V, K = 2.40 * 1074 = 1074 
+20.57 (a) K = 9.8 * 102 (b) K = 1 * 106(c) K = 1 * 109
+20.59 wmax = 1.3 * 102 kJ>mol Sn; 8.3 * 104 J>75.0 g Sn 
+20.61 (a) In the Nernst equation, Q = 1 if all reactants and products 
+are at standard conditions. (b) Yes. The Nernst equation is applica-
+ble to cell emf at nonstandard conditions, so it must be applicable 
+at temperatures other than 298 K. Values of E° at temperatures other 
+than 298 K are required. And, there is a variable for T in the second 
+term. If the short-hand form of the equation, Equation 20.18, is used, 
+a coefficient other than 0.0592 is required. 20.63 (a) E decreases  
+(b) E decreases (c) E decreases (d) no effect 20.65 (a) E° = 0.48 V 
+(b) E = 0.52 V (c) E = 0.46 V 20.67 (a) E° = 0.46 V (b) E = 0.37 V

@@ -1,0 +1,11 @@
+sts of a 3′ → 5′
+template strand and a 5′ → 3′ template strand. The enzyme that assembles the new DNA strand, DNA polymerase,
+moves in the 3′ → 5′ direction along each template strand. A new (complement) strand grows in the antiparallel, 5′
+→ 3′ direction.
+For the 3′ → 5′ template strand, replication occurs continuously as the DNA polymerase follows the replication fork,
+assembling a 5′ → 3′ complementary strand. This complementary strand is called the leading strand.
+For the 5′ → 3′ template strand, however, the DNA polymerase moves away from the uncoiling replication fork.
+This is because it can assemble nucleotides only as it travels in the 3′ → 5′ direction. As the helix is uncoiled, DNA
+polymerase assembles short segments of nucleotides along the template strand in the direction away from the
+replication fork. After each complement segment is assembled, the DNA polymerase must return back to the
+replication fork to begin assembling the next segment. These short segments of complem

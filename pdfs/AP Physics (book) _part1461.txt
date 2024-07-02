@@ -1,0 +1,17 @@
+ torr, the inside relative humidity would still be at a low 11%.
+(1.0 torr)(17.5 torr) = 5.7%.
+±20°C,
+–10°C
+CONCEPTUAL EXAMPLE 13;18
+13–13 Diffusion
+If you carefully place a few drops of food coloring in a glass of water as in 
+Fig. 13–27, you will find that the color spreads throughout the water. The process
+may take some time (assuming you do not shake the glass), but eventually the
+color will become uniform. This mixing, known as diffusion, is readly explained by
+kinetic theory as due to the random movement of the molecules. Diffusion occurs
+in gases too. Common examples include perfume or smoke (or the odor of some-
+thing cooking on a stove) diffusing in air, although convection (moving air currents)
+often plays a greater role in spreading odors than does diffusion. Diffusion
+depends on concentration, by which we mean the number of molecules or moles
+per unit volume. In general, the diffusing substance moves from a region where
+its concentration is high to a region where its conce

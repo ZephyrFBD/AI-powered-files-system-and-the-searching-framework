@@ -1,0 +1,12 @@
+cleus isolated from translation, which takes place in
+the cytoplasm. This allows for a greater range of mechanisms to control gene expression.
+In line with the complexity of eukaryotic cells, the mechanisms that regulate eukaryotic transcription are similarly
+complex. Every stage that contributes to the final protein product, from accessing the gene in the chromatin to the
+final folding of the translated protein, can be subject to some kind of regulation. Following are the more prominent
+gene-regulating mechanisms that occur:
+1. DNA methylation occurs when methyl groups (-CH3) attach to DNA
+bases. This makes it more difficult for transcription factors to access the DNA. DNA methylation seems to be
+associated with long-term inactivation of genes.
+2. Histone modification refers to changes in the organization of histone proteins with DNA. The DNA double helix
+in chromatin is wrapped around a bundle of eight histone molecules to form tightly knit complexes called
+nucleosomes. Access to DNA

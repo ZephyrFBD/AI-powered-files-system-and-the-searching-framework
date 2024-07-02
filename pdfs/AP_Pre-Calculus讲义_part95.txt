@@ -1,0 +1,151 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+143 
+3.9 Double-Angle and Half-Angle Formula 
+3.9.1 Double-Angle Formula 
+Formula for sine: 
+sin 2x = 2 sin x cos x 
+Formulas for cosine: 
+2
+2
+2
+2
+cos2
+cos
+sin
+1 2sin
+2cos
+1
+x
+x
+x
+x
+x
+=
+-
+=
+-
+=
+-
+ 
+Formula for tangent: 
+2
+2tan
+tan2
+1 tan
+x
+x
+x
+=
+-
+ 
+ 
+Example 1 
+Write cos 3x in terms of cos x. 
+ 
+ 
+ 
+ 
+ 
+3.9.2 Half-Angle Formula 
+FORMULAS FOR LOWERING POWERS 
+2
+2
+1 cos2
+1 cos2
+sin
+cos
+2
+2
+x
+x
+x
+x
+-
++
+=
+=
+ 
+2
+1 cos2
+tan
+1 cos2
+x
+x
+x
+-
+=
++
+ 
+ 
+Example 2 
+Express sin2xcos2x in terms of the first power of cosine. 
+ 
+ 
+ 
+ 
+ 
+ 
+144 
+HALF-ANGLE FORMULAS 
+1 cos
+1 cos
+sin
+cos
+2
+2
+2
+2
+u
+u
+u
+u
+-
++
+= ±
+= ±
+ 
+1 cos
+sin
+tan 2
+sin
+1 cos
+u
+u
+u
+u
+u
+-
+=
+=
++
+ 
+ 
+Example 3 
+Find the exact value of sin 22.5. 
+ 
+ 
+ 
+ 
+ 
+3.9.3 Expressions Involving Inverse Trigonometric Functions 
+Expressions involving trigonometric functions and their inverses arise in calculus. In the 
+next example we illustrate how to evaluate such expressions. 
+ 
+Example 4 
+ 
+ 
+ 
+ 
+ 
+ 
+3.9.4 Product – Sum Formula 
+It

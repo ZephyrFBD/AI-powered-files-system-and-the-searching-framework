@@ -1,0 +1,40 @@
+ becomes zero for any finite r), which makes sense because
+the mass of its virtual exchange particle, the photon, is zero (in the denominator
+of the above equation).
+[We did a similar calculation for the strong force in Section 32–2, estimating
+the mass of the 
+meson as exchange particle. In our deeper view of the strong
+force, namely the color force between quarks within a nucleon, the gluons have
+zero mass, which implies infinite range (see formula in Example 32–10). We
+might have expected a range of about 
+(nuclear size). But according to the
+Standard Model, the color force is weak at very close distances and increases
+greatly with distance (causing quark confinement). Thus its range could be infinite.]
+10–15 m
+p
+1r2
+¢x f c ¢t L
+cU
+¢E L
+A3 * 108 msBA10–34 JsB
+A102 GeVBA1.6 * 10–10 JGeVB
+L 10–18 m.
+1 GeV = 1.6 * 10–10 J,
+¢x f c ¢t.
+¢x,
+¢t L U¢E.
+¢x
+AW&,  ZB
+¢E L mc2
+¢t L U¢E,
+¢t
+Z0
+W&
+90 GeVc2 L 102 GeVc2.
+m L 80
+W&
+EXAMPLE 32;10
+ESTIMATE
+Z0
+80.38560.015 GeVc2
+80.3860.02 GeV

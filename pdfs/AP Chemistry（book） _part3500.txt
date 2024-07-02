@@ -1,0 +1,27 @@
+2O are 
+3.81 °C and 101.42 °C, respectively, versus 0.00 °C and 100.00 °C for H2O. Not surpris-
+ingly, the density of D2O at 25 °C 11.104 g>mL2 is greater than that of H2O 10.997 g>mL2. 
+Replacing protium with deuterium (a process called deuteration) can also have a profound 
+effect on reaction rates, a phenomenon called a kinetic-isotope effect. For example, heavy 
+water can be obtained from the electrolysis 32 H2O1l2 ¡ 2 H21g2 + O21g24 of ordinary 
+water because the small amount of naturally occurring D2O in the sample undergoes elec-
+trolysis more slowly than H2O and, therefore, becomes concentrated during the reaction.
+The third isotope, 3
+1H, tritium, is radioactive, with a half-life of 12.3 yr:
+ 
+3
+1H ¡  3
+2He +
+0
+- 1e t1>2 = 12.3 yr 
+[22.4]
+Because of its short half-life, only trace quantities of tritium exist naturally. The isotope 
+can be synthesized in nuclear reactors by neutron bombardment of lithium-6:
+ 
+6
+3Li + 1
+0n ¡  3
+1H + 4
+2He 
+[22.5]
+Deuterium and tritium are useful

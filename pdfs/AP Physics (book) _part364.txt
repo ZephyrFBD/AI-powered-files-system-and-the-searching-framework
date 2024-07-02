@@ -1,0 +1,23 @@
+t rest on the table, so the net force on the box in each
+case is zero (Newton’s first or second law). The weight of the box has magni-
+tude mg in all three cases.
+SOLUTION (a) The weight of the box is  
+and this force acts downward. The only other force on the box is the normal
+force exerted upward on it by the table, as shown in Fig. 4–15a. We chose the
+upward direction as the positive y direction; then the net force 
+on the box
+is  
+the minus sign means mg acts in the negative y direction
+(m and g are magnitudes). The box is at rest, so the net force on it must be 
+zero (Newton’s second law,
+and  
+). Thus
+so we have
+The normal force on the box, exerted by the table, is 98.0 N upward, and has
+magnitude equal to the box’s weight.
+(b) Your friend is pushing down on the box with a force of 40.0 N. So instead 
+of only two forces acting on the box, now there are three forces acting on the
+box, as shown in Fig. 4–15b. The weight of the box is still  
+The net
+force is  
+and is equal to zero 

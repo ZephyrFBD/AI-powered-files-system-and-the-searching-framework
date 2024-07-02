@@ -1,0 +1,26 @@
+ars after
+red LEDs were first developed. Approximately what
+energy gaps would you expect to find in green (525 nm)
+and in blue (465 nm) LEDs?
+Eg = 1.12 eV?
+51. Consider a monatomic solid with a weakly bound cubic 
+lattice, with each atom connected to six neighbors, each bond
+having a binding energy of 
+When this solid
+melts, its latent heat of fusion goes directly into breaking
+the bonds between the atoms. Estimate the latent heat of
+fusion for this solid, in 
+[Hint: Show that in a simple
+cubic lattice (Fig.29–44), there are three times as many bonds
+as there are atoms, when the number of atoms is large.]
+Jmol.
+3.4 * 10–3 eV.
+1. Explain why metals are shiny. (See Section 29–5.)
+2. Compare the potential energy diagram for an 
+molecule
+with the potential energy diagram for ATP formation from
+ADP and 
+. Explain the significance of the difference in
+shapes of the two diagrams. (See Section 29–2.)
+3. (a) Why are weak bonds important in cells? (b) Explain why
+heating proteins too much may c

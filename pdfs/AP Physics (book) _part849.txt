@@ -1,0 +1,15 @@
+ a wheel equal to
+W = F ¢l = Fr ¢u = t ¢u.
+t = rF
+If there had been little or no static friction between the rolling objects and the
+plane in these Examples, the round objects would have slid rather than rolled, or a
+combination of both. Static friction must be present to make a round object roll.
+We did not need to take friction into account in the energy equation for the rolling
+objects because it is static friction and does no work—the point of contact of a
+sphere at each instant does not slide, but moves perpendicular to the plane (first
+down and then up as shown in Fig. 8–25) as it rolls. Thus, no work is done by the
+static friction force because the force and the motion (displacement) are perpen-
+dicular. The reason the rolling objects in Examples 8–12 and 8–13 move down the
+slope more slowly than if they were sliding is not because friction slows them
+down. Rather, it is because some of the gravitional potential energy is converted
+to rotational kinetic energy, leaving less for 

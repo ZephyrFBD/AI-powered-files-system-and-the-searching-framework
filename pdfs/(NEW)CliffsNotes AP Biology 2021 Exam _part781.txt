@@ -1,0 +1,14 @@
+eds. This
+microrespirometer is the control.
+3. Place both microrespirometers (weighted down with washers) in a water bath to maintain a constant temperature.
+4. Place a drop of a weak solution of soap and red food coloring to the open end of the capillary tubes. The soap
+reduces the adhesion of water to the glass tube, allowing it to flow freely, and the red food dye makes the water
+more visible. If the drop does not flow into the tube on its own, pull lightly on the plunger.
+5. At regular time intervals, record changes in volume in the capillary
+ 
+tubes. As O2 is consumed, the red drop should move downward toward
+the syringe, indicating a decrease in volume.
+6. Changes in volume observed in the control microrespirometer represent responses to changes in temperature and
+pressure. Use these values to correct values observed in the treatment microrespirometer.
+7. Graph the accumulated change in volume vs. elapsed time. The rate of respiration is the slope of the line of best
+fit through 

@@ -1,0 +1,21 @@
+fficulty, with (I) Problems being easiest.
+Level III are meant as challenges for the best students. The Prob-
+lems are arranged by Section, meaning that the reader should 
+have read up to and including that Section, but not only that
+Section—Problems often depend on earlier material. Next is 
+a set of “General Problems” not arranged by Section and not
+ranked. Finally, there are “Search and Learn” Problems that require
+rereading parts of the Chapter.]
+1;4 Measurement, Uncertainty, Significant Figures
+(Note: In Problems, assume a number like 6.4 is accurate to
+; and 950 is 
+unless 950 is said to be “precisely” or
+“very nearly” 950, in which case assume 
+)
+1. (I) How many significant figures do each of the following
+numbers have: (a) 214, (b) 81.60, (c) 7.03, (d) 0.03,
+(e) 0.0086, ( ) 3236, and (g) 8700?
+2. (I) Write the following numbers in powers of 10 notation:
+(a) 1.156, (b) 21.8, (c) 0.0068, (d) 328.65, (e) 0.219, and ( ) 444.
+3. (I) Write out the following numbers in full with the
+c

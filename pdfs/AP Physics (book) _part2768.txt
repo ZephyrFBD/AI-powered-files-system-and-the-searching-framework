@@ -1,0 +1,21 @@
+that includes a thin black line
+(our object) on a white background.
+The image of this black line has a
+colored “halo” (red above, blue below)
+due to the mosaic arrangement of
+color filter pixels, as shown by the
+colors transmitted to the image.
+Computer averaging minimizes such
+color problems (the green at top and
+bottom of image may average with
+nearby pixels to give white or nearly
+so) but the image is consequently
+“softened” or blurred.
+Camera Adjustments
+There are three main adjustments on good-quality cameras: shutter speed, f-stop,
+and focusing. Although most cameras today make these adjustments automati-
+cally, it is valuable to understand these adjustments to use a camera effectively.
+For special or top-quality work, a manual camera is indispensable (Fig. 25–5).
+Exposure time or shutter speed This refers to how quickly the digital sensor
+can make an accurate reading of the images, or how long the shutter of a camera
+is open and the film or sensor is exposed. It could vary from 

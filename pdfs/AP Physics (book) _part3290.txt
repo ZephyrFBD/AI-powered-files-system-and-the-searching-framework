@@ -1,0 +1,15 @@
+ One LED is red, 660 nm, and the other IR (900–940 nm). The 
+LED beams pass through a finger (Fig. 29–36) or earlobe and are detected by a
+photodiode. Oxygenated red blood cells absorb less red and more infrared light
+than deoxygenated cells. A ratio of absorbed light (red IR) of 0.5 corresponds 
+to nearly 100%
+saturation; a ratio of 1.0 is about 85% and 2.0 corresponds to
+about 50% (bad). The LED measures during complete pulses, including blood
+surges, and the device can also count your heartbeat rate.
+pn Diode Lasers
+Diode lasers, using a pn-junction in forward bias like an LED, are the most
+compact of lasers and are very common: they read CDs and DVDs and are used
+as pointers and in laser printers. They emit photons like an LED but, like all lasers
+(Section 28–11), need to have an inverted population of states for the lasing frequency.
+This is achieved by applying a high forward-bias voltage. The large current brings
+many electrons into the conduction band at the junction layer, and

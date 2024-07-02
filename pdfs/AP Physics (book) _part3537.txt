@@ -1,0 +1,24 @@
+dine goes to
+the human thyroid. (It can be used for diagnosis and
+treatment of thyroid problems.) In a normal thyroid,
+absorption can cause damage to the thyroid. (a) Write
+down the reaction for the decay of 
+(b) Its half-life is
+8.0 d; how long would it take for ingested 
+to become
+5.0% of the initial value? (c) Absorbing 1 mCi of 
+can
+be harmful; what mass of iodine is this?
+51. (III) Assume a liter of milk typically has an activity of
+2000 pCi due to 
+If a person drinks two glasses (0.5 L)
+per day, estimate the total effective dose (in Sv and in rem)
+received in a year. As a crude model, assume the milk
+stays in the stomach 12 hr and is then released. Assume
+also that roughly 10% of the 1.5 MeV released per decay is
+absorbed by the body. Compare your result to the normal
+allowed dose of 100 mrem per year. Make your estimate
+for (a) a 60-kg adult, and (b) a 6-kg baby.
+52. (III) Radon gas,
+is considered a serious health hazard
+(see discussion in text). It decays by -emission. (a) What

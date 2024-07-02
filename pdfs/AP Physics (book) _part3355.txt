@@ -1,0 +1,35 @@
+er.
+SOLUTION Since the mass of the 
+is 4.002603 u (Appendix B), the total
+mass in the final state 
+is
+The mass lost when the 
+decays 
+is
+Because
+the energy Q released is
+and this energy appears as kinetic energy of the 
+particle and the daughter
+nucleus.
+Additional Example
+Kinetic energy of the 
+in 
+decay. For the 
+decay
+of Example 30–6, how much of the 5.4-MeV disintegration energy will be carried
+off by the 
+particle?
+APPROACH In any reaction, momentum must be conserved as well as energy.
+SOLUTION Before disintegration, the nucleus can be assumed to be at rest, so
+the total momentum was zero. After disintegration, the total vector momentum
+must still be zero so the magnitude of the 
+particle’s momentum must equal
+the magnitude of the daughter’s momentum (Fig. 30–6):
+Thus 
+and the 
+kinetic energy is
+The total disintegration energy is
+Hence
+The lighter 
+particle carries off (57 58) or 98% of the total kinetic energy. The
+total energy released is 5.4 MeV, so the daughter nucleus, which 

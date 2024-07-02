@@ -1,0 +1,21 @@
+ty 
+due to the index is linear. In fact, it is very difficult to achieve in the reality. 
+ Incomplete assumptions. Although some assumptions are made, they are not 
+comprehensive. For example, we consider the relationship among the main 
+factors. However, the factors in the secondary criteria layer also have links and 
+the corresponding situations are more complex. Thus, we do not consider them. 
+ 
+ 
+ 
+ 
+Team#36961 
+ 
+Page 20 of 20 
+7. Conclusion 
+Our evaluation model is the combination of analytic hierarchy process model, 
+dynamic weighted comprehensive model and connection model, which illuminates the 
+influence of unexpected data as well as shows the link between main factors to 
+present a relatively objective, available index to determine the sustainability. Then we 
+take the additional uncertain factors into consideration and put a sub model into our 
+model. Through our model, by using control variate method, we can determine which 
+policies or strategies are the most effective. 

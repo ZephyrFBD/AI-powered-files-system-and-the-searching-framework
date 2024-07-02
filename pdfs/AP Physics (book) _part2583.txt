@@ -1,0 +1,48 @@
+ns
+was absent, the converging lens would form the image at its focal point—that is,
+at a distance
+behind it (dashed lines in Fig. 23–45). When the
+diverging lens is placed next to the converging lens, we treat the image formed
+by the first lens as the object for the second lens. Since this object lies to the
+right of the diverging lens, this is a situation where 
+is negative (see the sign
+conventions, page 665). Thus, for the diverging lens, the object is virtual and
+The diverging lens forms the image of this virtual object at a
+distance
+away (given). Thus,
+We take the reciprocal to find
+NOTE If this technique is to work, the converging lens must be “stronger” than
+the diverging lens—that is, it must have a focal length whose magnitude is less
+than that of the diverging lens.
+f
+D = –1A0.0274 cm–1B = –36.5 cm.
+1
+f
+D
+=
+1
+do
++ 1
+di
+=
+1
+–16.0 cm +
+1
+28.5 cm =
+–0.0274 cm–1.
+di = 28.5 cm
+do = –16.0 cm.
+do
+f
+C = 16.0 cm
+f
+T = 28.5 cm.
+di = 28.5 cm.
+(q).
+f
+D
+f
+C
+EXAMPLE 23;16
+*SECTION 23–9
+Co

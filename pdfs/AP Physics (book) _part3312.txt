@@ -1,0 +1,29 @@
+In a p-type semiconductor, a hole is
+(a) a region in the molecular structure where an atom is
+missing.
+(b) an extra electron from one of the donor atoms.
+(c) an extra positively charged particle in the molecular
+structure.
+(d) a region missing an electron relative to the rest of the
+molecular structure.
+8. The electrical resistance of a semiconductor may 
+decrease with increasing temperature because, at elevated
+temperature, more electrons
+(a) collide with the crystal lattice.
+(b) move faster.
+(c) are able to jump across the energy gap.
+(d) form weak van der Waals bonds.
+9. Which of the following would not be used as an impurity in
+doping silicon?
+(a) Germanium.
+(b) Gallium.
+(c) Boron.
+(d) Phosphorus.
+(e) Arsenic.
+10. Why are metals good conductors?
+(a) Gaining a tiny bit of energy allows their electrons to
+move.
+(b) They have more electrons than protons, so some of
+the electrons are extra and free to move.
+(c) They have more protons than electrons, so some of
+the protons are extra and

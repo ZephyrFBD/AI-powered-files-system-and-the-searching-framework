@@ -1,0 +1,23 @@
+a2 +1aq2 + 2 OH -1aq2 + CO21aq2 ¡ CaCO31s2 + H2O1l2 
+[22.63]
+Carbides
+The binary compounds of carbon with metals, metalloids, and certain nonmetals are 
+called carbides. The more active metals form ionic carbides, and the most common of 
+these contain the acetylide ion 1C2
+2 -2. This ion is isoelectronic with N2, and its Lewis 
+structure, 3:C ‚C:42 -, has a carbon–carbon triple bond. The most important ionic car-
+bide is calcium carbide 1CaC22, produced by the reduction of CaO with carbon at high 
+temperature:
+ 
+2 CaO1s2 + 5 C1s2 ¡ 2 CaC21s2 + CO21g2 
+[22.64]
+The carbide ion is a very strong base that reacts with water to form acetylene 
+1H¬C ‚C ¬H2:
+ 
+CaC21s2 + 2 H2O1l2 ¡ Ca1OH221aq2 + C2H21g2 
+[22.65]
+Calcium carbide is therefore a convenient solid source of acetylene, which is used in weld-
+ing (Figure 22.11).
+Interstitial carbides are formed by many transition metals. The carbon atoms occupy 
+open spaces (interstices) between the metal atoms in a manner analogous to the intersti-
+t

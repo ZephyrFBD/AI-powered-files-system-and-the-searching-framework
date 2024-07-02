@@ -1,0 +1,14 @@
+ results are shown in the table. “0” indicates that mRNA or protein were
+not detected in that tissue, and “+,” “++,” and “+++” indicate relatively low, medium, or high levels of mRNA
+or protein detected, respectively.
+(a) Identify which gene was used as a control in this experiment.
+(b) Explain why the gene you selected in part (a) would be an appropriate control for this experiment.
+(c) Based on the data in the table, determine which of the genes (PDHA1, MBP, or INS) is most likely
+involved in glycolysis.
+(d) INS is the insulin gene. Insulin is a hormone that is released when blood sugar levels are high. Predict the
+levels of INS mRNA and protein that would be found in cells in the pancreas when blood sugar levels are
+low. Justify your prediction.
+Answer Explanations
+Multiple-Choice
+1. (C) Each amino acid is coded by a three base pair codon, so a protein made of 12 amino acids would require a
+minimum of 12 × 3 = 36 nucleotides. Choice (A) is incorrect because 6 nucleotides would only 

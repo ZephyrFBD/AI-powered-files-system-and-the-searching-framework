@@ -1,0 +1,17 @@
+surroundings, q, and the work done on or by the 
+810 
+CHAPTER 19 Chemical Thermodynamics
+system, w, are not state functions—their values depend on the specific way in which the 
+change occurs. That is, their values depend on the path taken between states. Under-
+standing two kinds of paths, those that are reversible and those that are irreversible, is a 
+key to understanding spontaneity.
+Reversible and Irreversible Processes
+For any process, we can imagine a hypothetical, ideal path that can be reversed to restore 
+both the system and its surroundings to exactly their original states. This means that 
+after the process is reversed, both the system and surroundings are unchanged. Such an 
+ideal process is said to be reversible.
+t A reversible process is one for which we can restore the system to its original con-
+dition with no change to the surroundings.
+t An irreversible process is one that leaves the surroundings somehow changed 
+when the system is restored to its original state.
+S

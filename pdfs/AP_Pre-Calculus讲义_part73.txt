@@ -1,0 +1,30 @@
+ion. 
+ 
+ 
+108 
+In this way we arrive at a point P(x, y) on the unit circle. The point P(x, y) obtained in this 
+way is called the terminal point determined by the real number t. 
+The circumference of the unit circle is C = 2π(1) = 2π. So if a point starts at (1, 0) and 
+moves counterclockwise all the way around the unit circle and returns to (1, 0), it travels a 
+distance of 2. 
+Where does the point end up when it travels these distances along the circle? From the 
+figure, for example, that when it travels a distance of  starting at (1, 0), its terminal point is 
+(−1, 0). 
+ 
+ 
+Example 2 
+Find the terminal point on the unit circle determined by each real number t. 
+ 
+ 
+ 
+ 
+ 
+ 
+The terminal point P(x, y) determined by t=π/4  is the same distance from (1, 0) as from (0, 
+1) along the unit circle. 
+ 
+ 
+109 
+Since the unit circle is symmetric with respect to the line y = x, it follows that P lies on the 
+line y = x. 
+So P is the point of intersection (in the Quadrant I) of the circle x2 +

@@ -1,0 +1,69 @@
+
+BW
+v
+B
+WS
+v
+B
+BS
+v
+B
+BW
+90 kmh - 75 kmh = 15 kmh.
+75 kmh,
+90 kmh
+160 kmh
+80 kmh
+80 kmh
+†We thus can see, for example, that the equation  
+is wrong: the inner subscripts
+are not the same, and the outer ones on the right do not correspond to the subscripts on the left.
+V
+B
+BW = V
+B
+BS + V
+B
+WS
+E
+N
+W
+S
+BS
+BW
+WS
+v
+B
+v
+B
+v
+B
+θ
+River current
+FIGURE 3;28 A boat heads north
+directly across a river which flows
+west. Velocity vectors are shown as
+green arrows:
+As it crosses the river, the boat is
+dragged downstream by the current.
+(river current).
+ 
+respect to the Shore
+v
+B
+WS = velocity of Water with
+ 
+respect to the Water,
+v
+B
+BW = velocity of Boat with
+ 
+respect to the Shore,
+v
+B
+BS = velocity of Boat with
+Heading across the river. The same boat  
+now heads directly across the river whose current is still 
+(a) What is the velocity
+(magnitude and direction) of the boat relative to the shore? (b) If the river is 110 m
+wide, how long will it take to cross and how far downstream will the

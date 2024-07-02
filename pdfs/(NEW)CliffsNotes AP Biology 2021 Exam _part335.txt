@@ -1,0 +1,13 @@
+site: The tRNA in the middle moves to the third
+position (the E site), and the tRNA in the first position (bearing the amino acids) moves to the second position.
+7. This leaves the first position binding site empty, allowing for the arrival of a new tRNA.
+ 
+8. Meanwhile, the tRNA in the third position is released, now free to bind with its specific amino acid and provide
+another delivery to the mRNA.
+9. Elongation continues as each successive tRNA delivers an amino acid. As each new tRNA arrives, the
+polypeptide chain is elongated by one new amino acid, growing in sequence and length as prescribed by sequence of
+codons on the mRNA.
+10. Termination occurs when the ribosome encounters one of the three stop codons. At termination, the completed
+polypeptide, the last tRNA, and the two ribosomal subunits are released. The ribosomal subunits can now attach to
+the same or another mRNA and repeat the process.
+Once the polypeptide is completed, interactions among the amino acids give it its sec

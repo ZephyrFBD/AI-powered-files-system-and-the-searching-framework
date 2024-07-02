@@ -1,0 +1,43 @@
+ere 
+are 
+three 
+classes 
+of 
+carbohydrates 
+you 
+should 
+know:
+monosaccharides, disaccharides, and polysaccharides.
+Monosaccharides have a chemical formula of C6H12O6. Three
+examples are glucose, galactose, and fructose, which are isomers of each
+other. The structural formula of glucose is shown in Figure 2.5. Notice the
+conventional numbering of the carbons in the rings. The numbering begins
+to the right of the oxygen.
+Figure 2.5 Glucose
+Disaccharides have the chemical formula C12H22O11. They consist of
+two monosaccharides joined together, with the release of one molecule of
+water, by the process known as dehydration synthesis or condensation.
+Here are the three condensation reactions of monosaccharides that produce
+the three disaccharides.
+monosaccharide
++ monosaccharide
+→disaccharide
++ water
+C6H12O6
++ C6H12O6
+→C12H22O11
++ H2O
+glucose
++ glucose
+→maltose
++ water
+glucose
++ galactose
+→lactose
++ water
+******ebook converter DEMO Watermarks*******
+glucose
++ fructose
+→sucrose
++ water
+Hydro

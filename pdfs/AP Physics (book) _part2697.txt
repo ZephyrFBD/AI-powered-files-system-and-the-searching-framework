@@ -1,0 +1,23 @@
+rce is shown striking
+a half-silvered mirror 
+This beam splitter mirror 
+has a thin layer of silver
+that reflects only half the light that hits it, so that half of the beam passes through
+to a fixed mirror 
+where it is reflected back. The other half is reflected by 
+to a mirror 
+that is movable (by a fine-thread screw), where it is also reflected
+back. Upon its return, part of beam 1 passes through 
+and reaches a sensor or
+the eye; and part of beam 2, on its return, is reflected by 
+into the eye. If the two
+path lengths are identical, the two coherent beams entering the eye constructively
+interfere and brightness will be seen. If the movable mirror is moved a distance
+one beam will travel an extra distance equal to 
+(because it travels back
+and forth over the distance 
+). In this case, the two beams will destructively
+interfere and darkness will be seen. As 
+is moved farther, brightness will recur
+(when the path difference is ), then darkness, and so on.
+Very precise length measurement

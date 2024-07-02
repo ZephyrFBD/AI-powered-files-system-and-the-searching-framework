@@ -1,0 +1,26 @@
+imates
+   T
+   fr
+R
+33.0 cm
+F
+B
+F
+B
+FIGURE 8;21 Example 8–10.
+Additional Example—a bit more challenging
+Pulley and bucket. Consider again the pulley in Example 8–10.
+But instead of a constant 15.0-N force being exerted on the cord, we now have a
+bucket of weight 
+(mass 
+) hanging from the cord.
+See Fig. 8–22a. We assume the cord has negligible mass and does not stretch or slip
+on the pulley. Calculate the angular acceleration of the pulley and the linear accel-
+eration a of the bucket. Assume the same frictional torque 
+acts.
+APPROACH This situation looks a lot like Example 8–10, Fig. 8–21. But there is
+a big difference: the tension in the cord is now an unknown, and it is no longer
+equal to the weight of the bucket if the bucket accelerates. Our system has two
+parts: the bucket, which can undergo translational motion (Fig. 8–22b is its free-
+body diagram); and the pulley. The pulley does not translate, but it can rotate.
+We apply the rotational version of Newton’s second law to the p

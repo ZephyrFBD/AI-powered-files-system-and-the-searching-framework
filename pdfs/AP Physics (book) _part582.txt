@@ -1,0 +1,17 @@
+ular to the radius and
+perpendicular to the force of gravity. Hence the angle 
+between the force 
+and the instantaneous displacement of the Moon is 90°, and the work done by
+gravity is therefore zero
+This is why the Moon, as well as artificial
+satellites, can stay in orbit without expenditure of fuel: no work needs to be done
+against the force of gravity.
+6–2 Work Done by a Varying Force
+If the force acting on an object is constant, the work done by that force can be
+calculated using Eq. 6–1. But in many cases, the force varies in magnitude or
+direction during a process. For example, as a rocket moves away from Earth, work
+is done to overcome the force of gravity, which varies as the inverse square of 
+the distance from the Earth’s center. Other examples are the force exerted by 
+a spring, which increases with the amount of stretch, or the work done by a vary-
+ing force that pulls a box or cart up an uneven hill.
+The work done by a varying force can be determined graphically. To do so,

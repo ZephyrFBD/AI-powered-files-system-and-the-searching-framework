@@ -1,0 +1,20 @@
+xpansion of the gas from 1.00 L to 2.00 L, we have
+ ∆Ssys = 14.46 * 10-2 mol2a8.314 
+J
+mol@K b aln2.00 L
+1.00 L b
+ = 0.26 J>K
+In Section 19.3 we will see that this increase in entropy is a measure 
+of the increased randomness of the molecules due to the expansion.
+Related Exercises: 19.27, 19.28
+A Closer look The Entropy Change When a Gas Expands Isothermally
+The Second Law of Thermodynamics
+The key idea of the first law of thermodynamics is that energy is conserved in any pro-
+cess. 
+ (Section 5.2) Is entropy also conserved in a spontaneous process in the same 
+way that energy is conserved?
+Let’s try to answer this question by calculating the entropy change of a system and 
+the entropy change of its surroundings when our system is 1 mol of ice (a piece roughly 
+the size of an ice cube) melting in the palm of your hand, which is part of the surround-
+ings. The process is not reversible because the system and surroundings are at different 
+temperatures. Nevertheless, because ∆S is a sta

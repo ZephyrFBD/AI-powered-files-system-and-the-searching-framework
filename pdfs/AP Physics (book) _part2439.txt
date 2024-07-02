@@ -1,0 +1,26 @@
+ric field between the plates is changing in time.
+Maxwell resolved the problem of no current through surface 2 in Fig. 22–3 by
+proposing that the changing electric field between the plates is equivalent to an
+electric current. He called it a displacement current,
+An ordinary current I is
+then called a “conduction current,” and Ampère’s law, as generalized by Maxwell,
+becomes
+Ampère’s law will now apply also for surface 2 in Fig. 22–3, where 
+refers to the
+changing electric field.
+Combining Eq. 17–7 for the charge on a capacitor,
+with Eq. 17–8,
+and with the magnitudes in Eq. 17–4a,
+we can write
+Then the current 
+becomes
+where 
+is the electric flux, defined in analogy to magnetic flux 
+(Section 21–2). Then, Ampère’s law becomes
+(22;1)
+This equation embodies Maxwell’s idea that a magnetic field can be caused not
+only by a normal electric current, but also by a changing electric field or changing
+electric flux.
+22–2 Production of
+Electromagnetic Waves
+According to Maxwell, a magnetic field

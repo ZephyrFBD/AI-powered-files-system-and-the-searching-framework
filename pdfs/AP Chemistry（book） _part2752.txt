@@ -1,0 +1,30 @@
+ no other important equilibria involving Ag+ or CrO4
+2 - ions in the solution, calculate Ksp for this compound.
+Sample Exercise 17.11 
+Calculating Ksp from Solubility
+SOLUTION
+Analyze We are given the equilibrium concentration of Ag+ in a 
+saturated solution of Ag2CrO4 and asked to determine the value of 
+Ksp for Ag2CrO4.
+Plan The equilibrium equation and the expression for Ksp are
+Ag2CrO41s2 ∆ 2 Ag+1aq2 + CrO4
+2 -1aq2
+Ksp = 3Ag+423CrO4
+2 -4
+To calculate Ksp, we need the equilibrium concentrations of Ag+ and 
+CrO4
+2 -. We know that at equilibrium 3Ag+4 = 1.3 * 10-4 M. All 
+the Ag+ and CrO4
+2 - ions in the solution come from the Ag2CrO4 
+that dissolves. Thus, we can use 3Ag+4 to calculate 3CrO4
+2 -4.
+Solve From the chemical formula of silver chromate, we know 
+that there must be two Ag+ ions in solution for each CrO4
+2 -  ion in 
+solution. Consequently, the concentration of CrO4
+2 -  is half the 
+concentration of Ag+:
+Continued
+742 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+3C

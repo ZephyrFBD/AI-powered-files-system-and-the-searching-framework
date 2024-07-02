@@ -1,0 +1,10 @@
+mal subunit at the correct
+location on the mRNA template. Guanosine triphosphate (GTP), which is a purine nucleotide triphosphate, acts as an energy
+source during translation—both at the start of elongation and during the ribosome’s translocation.
+In eukaryotes, a similar initiation complex forms, comprising mRNA, the 40S small ribosomal subunit, IFs, and nucleoside
+triphosphates (GTP and ATP). The charged initiator tRNA, called Met-tRNAi, does not bind fMet in eukaryotes, but is
+distinct from other Met-tRNAs in that it can bind IFs.
+Instead of depositing at the Shine-Dalgarno sequence, the eukaryotic initiation complex recognizes the 7-methylguanosine
+cap at the 5' end of the mRNA. A cap-binding protein (CBP) and several other IFs assist the movement of the ribosome
+to the 5' cap. Once at the cap, the initiation complex tracks along the mRNA in the 5' to 3' direction, searching for the
+AUG start codon. Many eukaryotic mRNAs are translated from the first AUG, but this is not always the

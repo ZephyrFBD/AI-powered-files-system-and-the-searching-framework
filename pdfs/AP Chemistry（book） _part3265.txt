@@ -1,0 +1,21 @@
+n electrons and are reduced to Na at 
+the cathode, Figure 20.28. As Na+ ions near the cathode are depleted, additional Na+ ions 
+migrate in. Similarly, there is net movement of Cl- ions to the anode where they are oxi-
+dized. The electrode reactions for the electrolysis are
+Cathode: 
+ 
+2 Na+1l2 + 2 e- ¡ 2 Na1l2
+Anode: 
+ 
+  
+ 
+2 Cl-1l2 ¡ Cl21g2 + 2 e-
+Overall: 
+   2 Na+1l2 + 2 Cl-1l2 ¡ 2 Na1l2 + Cl21g2
+Notice how the energy source is connected to the electrodes in Figure 20.28. The positive 
+terminal is connected to the anode and the negative terminal is connected to the cath-
+ode, which forces electrons to move from the anode to the cathode.
+Because of the high melting points of ionic substances, the electrolysis of molten 
+salts requires very high temperatures. Do we obtain the same products if we electrolyze 
+the aqueous solution of a salt instead of the molten salt? Frequently, the answer is no 
+because water itself might be oxidized to form O2 or reduced to form H2 rather than the 

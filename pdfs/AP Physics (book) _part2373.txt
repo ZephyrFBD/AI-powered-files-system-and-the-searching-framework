@@ -1,0 +1,20 @@
+f inductance L (symbol 
+) is connected to the
+ac source. We ignore any resistance it might have (it is usually small). The voltage
+applied to the inductor will be equal to the “back” emf generated in the inductor
+by the changing current as given by Eq. 21–9. This is because the sum of the elec-
+tric potential changes around any closed circuit must add up to zero, by Kirchhoff’s
+rule. Thus
+or
+where V is the sinusoidally varying voltage of the source and
+is the voltage
+induced in the inductor. According to the last equation, I is increasing most
+rapidly when V has its maximum value,
+And I will be decreasing most
+rapidly when
+These two instants correspond to points d and b on the
+graph of voltage versus time in Fig. 21–40b. By going point by point in this manner,
+the curve of V versus as compared to that for I versus can be constructed, and
+they are shown by the blue and red lines, respectively, in Fig. 21–40b. Notice that
+the current reaches its peaks (and troughs)
+cycle after the voltag

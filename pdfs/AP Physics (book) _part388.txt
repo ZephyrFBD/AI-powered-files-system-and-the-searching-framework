@@ -1,0 +1,24 @@
+a
+B
+FIGURE 4;23 Example 4–13.
+(a) Atwood machine in the form of
+an elevator–counterweight system.
+(b) and (c) Free-body diagrams for
+the two objects.
+P R O B L E M  S O L V I N G
+Check your result by seeing if it 
+works in situations where the 
+answer is easily guessed
+The advantage of a pulley. A mover is
+trying to lift a piano (slowly) up to a second-story apartment (Fig. 4–24). He is
+using a rope looped over two pulleys as shown. What force must he exert on the
+rope to slowly lift the piano’s 1600-N weight?
+RESPONSE The magnitude of the tension force 
+within the rope is the same
+at any point along the rope if we assume we can ignore its mass. First notice the
+forces acting on the lower pulley at the piano. The weight of the piano
+pulls down on the pulley. The tension in the rope, looped through this 
+pulley, pulls up twice, once on each side of the pulley. Let us apply Newton’s
+second law to the pulley–piano combination (of mass m), choosing the upward
+direction as positive:
+To move

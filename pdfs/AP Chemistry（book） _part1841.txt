@@ -1,0 +1,13 @@
+nclude sodium chloride, quartz, and diamond.
+Amorphous solids (from the Greek words for “without form”) lack the order found 
+in crystalline solids. At the atomic level the structures of amorphous solids are similar to 
+the structures of liquids, but the molecules, atoms, and/or ions lack the freedom of motion 
+they have in liquids. Amorphous solids do not have the well-defined faces and shapes of a 
+crystal. Familiar amorphous solids are rubber, glass, and obsidian (volcanic glass).
+Unit Cells and Crystal Lattices
+In a crystalline solid, there is a relatively small repeating unit, called a unit cell, that is 
+made up of a unique arrangement of atoms and embodies the structure of the solid. The 
+structure of the crystal can be built by stacking this unit over and over in all three dimen-
+sions. Thus, the structure of a crystalline solid is defined by (a) the size and shape of the 
+unit cell and (b) the locations of atoms within the unit cell.
+The geometrical pattern of points on which 

@@ -1,0 +1,31 @@
+e acid–base pair 
+will determine the pH of the buffer. The equilibrium relationship 
+between NH4
++ and NH3 is given by the base-dissociation reaction 
+for NH3:
+NH31aq2 + H2O1l2 ∆ NH4
++1aq2 + OH-1aq2
+Kb =
+3NH4
++43OH-4
+3NH34
+ = 1.8 * 10-5
+The key to this exercise is to use this Kb expression to calculate 3NH4
++4.
+ 
+SECTION 17.2   
+Buffers 
+725
+Continued
+ 
+Therefore, we have:
+Comment In Sample Exercise 17.3, the calculated pH is the same 
+whether we solve exactly using the quadratic equation or make the 
+simplifying assumption that the equilibrium concentrations of acid 
+and base are equal to their initial concentrations. The simplifying 
+assumption works because the concentrations of the acid–base con-
+jugate pair are both a thousand times larger than Ka. In this Sample 
+Exercise, the acid–base conjugate pair concentrations are only 10–100 
+as large as Ka. Therefore, we cannot assume that x is small compared to 
+the initial concentrations (that is, that the initial concentrations are 
+es

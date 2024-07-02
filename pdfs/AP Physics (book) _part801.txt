@@ -1,0 +1,45 @@
+8;2 (a) Example 8–2.
+(b) For small angles, arc length and
+the chord length (straight line) are
+nearly equal.
+θ1
+θ2
+θ1
+x
+x
+(a)
+(b)
+θ
+Δ
+FIGURE 8;3 A wheel rotates 
+about its axle from (a) initial
+position 
+to (b) final position 
+The angular displacement is
+¢u = u2 - u1.
+u2.
+u1
+Angular acceleration (denoted by 
+the Greek lowercase letter alpha), in analogy
+to linear acceleration, is defined as the change in angular velocity divided by the
+time required to make this change. The average angular acceleration is defined as
+(8;3a)
+where 
+is the angular velocity initially, and 
+is the angular velocity after a
+time interval 
+Instantaneous angular acceleration is defined as the limit of this
+ratio as 
+approaches zero:
+(8;3b)
+Since 
+is the same for all points of a rotating object, Eq. 8–3 tells us that 
+also
+will be the same for all points. Thus,
+and 
+are properties of the rotating object
+as a whole. With 
+measured in radians per second and in seconds,
+has units 
+of radians per second squared 
+Eac

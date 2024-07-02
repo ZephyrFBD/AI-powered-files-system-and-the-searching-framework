@@ -1,0 +1,23 @@
+e
+used if the image is to fill the 24-mm height of the sensor?
+7. (II) A 200-mm-focal-length lens can be adjusted so that it
+is 200.0 mm to 208.2 mm from the film. For what range of
+object distances can it be adjusted?
+8. (II) How large is the image of the Sun on film used in a
+camera with (a) a 28-mm-focal-length lens, (b) a 50-mm-
+focal-length lens, and (c) a 135-mm-focal-length lens? (d) If
+the 50-mm lens is considered normal for this camera, what
+relative magnification does each of the other two lenses
+provide? The Sun has diameter 
+and it is
+away.
+9. (II) If a 135-mm telephoto lens is designed to cover object
+distances from 1.30 m to 
+over what distance must the
+lens move relative to the plane of the sensor or film?
+10. (III) Show that for objects very far away (assume infinity),
+the magnification of any camera lens is proportional to its
+focal length.
+25–2 Eye and Corrective Lenses
+11. (I) A human eyeball is about 2.0 cm long and the pupil has
+a maximum diameter of about 8.0 mm. 

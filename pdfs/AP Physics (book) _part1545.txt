@@ -1,0 +1,74 @@
+ng
+air so it cannot move readily. It is not the cloth that insulates us, but the air that the
+cloth traps. Goose down is a very good insulator because even a small amount of
+it fluffs up and traps a great amount of air.
+14.0°C
+A =
+3.0 m2
+= 3.2 × 10−3 m
+15.0°C
+l
+FIGURE 14;7 Example 14–8.
+TABLE 14;4
+Thermal Conductivities
+Thermal Conductivity, k
+Substance
+Silver 
+420
+Copper 
+380
+Aluminum 
+200
+Steel 
+40
+Ice 
+2
+Glass 
+0.84
+Brick 
+0.84
+Concrete 
+0.84
+Water 
+0.56
+Human tissue 
+0.2
+Wood 
+0.1
+Fiberglass 
+0.048
+Cork 
+0.042
+Wool 
+0.040
+Goose down 
+0.025
+Polyurethane 
+0.024
+Air 
+0.023
+0.055 * 10–4
+0.057 * 10–4
+0.060 * 10–4
+0.10 * 10–4
+0.10 * 10–4
+0.12 * 10–4
+0.3 * 10–4
+0.5 * 10–4
+1.4 * 10–4
+2.0 * 10–4
+2.0 * 10–4
+2.0 * 10–4
+5 * 10–4
+1.1 * 10–2
+5.0 * 10–2
+9.2 * 10–2
+10 * 10–2
+kcal
+(s  m  C°)
+J
+(s  m  C°)
+P H Y S I C S  A P P L I E D
+Thermal windows
+The thermal conductivities, k, for a variety of substances are given in Table 14–4.
+Substances for which k is large conduct heat rapidly and are sai

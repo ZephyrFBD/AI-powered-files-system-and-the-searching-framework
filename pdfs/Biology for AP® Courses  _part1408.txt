@@ -1,0 +1,24 @@
+h
+phenotype among the offspring: 3 (AA, Aa, aA) × 3 (BB,
+bB, Bb)/16 = 9/16; 3 (AA, Aa, aA) × 1 (bb) /16 = 3/16; 1
+(aa) × 3 (BB, bB, Bb) = 3/16; and 1 (aa) × 1 (bb) = 1/16.
+A. Using the probability method, calculate the likelihood
+of these phenotypes from each dihybrid cross:
+•
+recessive in the gene with alleles A and a from the
+cross AaBb × aabb
+•
+dominant in both genes from the cross AaBb × aabb
+•
+recessive in both genes from the cross AaBb × aabb
+•
+recessive in either gene from the cross AaBb × aabb
+A Punnett square representation of a trihybrid cross, such
+as the self-cross of AaBbCc, is more cumbersome because
+there are eight columns and rows (2×2×2 ways to choose
+parental genotypes) and 64 cells. A less tedious
+representation is to calculate the number of each type of
+genotype in the offspring directly by counting the unique
+permutations of the letters representing the alleles. For
+example, the probability of the cross AaBbCc × AaBbCc
+is 3 (AA, Aa, aA) × 3 (BB, Bb, bB) × 3 (CC, Cc

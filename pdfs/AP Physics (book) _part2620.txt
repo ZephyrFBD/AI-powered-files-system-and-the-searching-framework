@@ -1,0 +1,22 @@
+hat is the radius of cur-
+vature of the mirror?
+80. Light is incident on an equilateral glass prism at a 45.0°
+angle to one face, Fig. 23–64. Calculate the angle at which
+light emerges from the opposite face. Assume that
+n = 1.54.
+85. Which of the two lenses shown in Fig. 23–66 is converging,
+and which is diverging? Explain using ray diagrams and
+show how each image is formed.
+86. Figure 23–67 shows a liquid-detecting prism device that
+might be used inside a washing machine. If no liquid
+covers the prism’s hypotenuse, total internal reflection of
+the beam from the light source produces a large signal in
+the light sensor. If liquid covers the hypotenuse, some 
+light escapes from the prism into the liquid and the light
+sensor’s signal decreases. Thus a large signal from the 
+light sensor indicates the absence of liquid in the reservoir.
+Determine the allowable range for the prism’s index of
+refraction n.
+*87. (a) Show that if two thin lenses of focal lengths 
+and 
+are placed in contact w

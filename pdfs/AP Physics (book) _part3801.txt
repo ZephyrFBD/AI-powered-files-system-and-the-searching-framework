@@ -1,0 +1,26 @@
+r, is about 
+times fainter than the
+Sun. From this, estimate the distance to the nearest stars.
+43. A certain pulsar, believed to be a neutron star of mass
+1.5 times that of the Sun, with diameter 16 km, is observed
+to have a rotation speed of 
+If it loses rotational
+kinetic energy at the rate of 1 part in 
+per day, which is
+all transformed into radiation, what is the power output of
+the star?
+44. The nearest large galaxy to our Galaxy is about 
+away. If both galaxies have a mass of 
+with
+what gravitational force does each galaxy attract the other?
+Ignore dark matter.
+45. How large would the Sun be if its density equaled the criti-
+cal density of the universe,
+Express your
+answer in light-years and compare with the Earth–Sun
+distance and the diameter of our Galaxy.
+46. Two stars, whose spectra peak at 660 nm and 480 nm,
+respectively, both lie on the main sequence. Use Wien’s
+law, the Stefan-Boltzmann equation, and the H–R diagram
+(Fig. 33–6) to estimate the ratio of their diameters.
+47

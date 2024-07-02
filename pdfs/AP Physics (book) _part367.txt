@@ -1,0 +1,30 @@
+
+(a) A 10-kg gift box is at rest on a 
+table. (b) A person pushes down on 
+the box with a force of 40.0 N.
+(c) A person pulls upward on the 
+box with a force of 40.0 N. The forces
+are all assumed to act along a line;
+they are shown slightly displaced in 
+order to be distinguishable. Only 
+forces acting on the box are shown.
+C A U T I O N
+The normal force,
+is 
+not necessarily vertical
+F
+B
+N,
+Accelerating the box. What happens when a person pulls
+upward on the box in Example 4–6c with a force equal to, or greater than,
+the box’s weight? For example, let 
+(Fig. 4–16) rather than the
+40.0 N shown in Fig. 4–15c.
+APPROACH We can start just as in Example 4–6, but be ready for a surprise.
+SOLUTION The net force on the box is
+and if we set this equal to zero (thinking the acceleration might be zero), we
+would get  
+This is nonsense, since the negative sign implies 
+points downward, and the table surely cannot pull down on the box (unless
+there’s glue on the table). The least 
+can be is zero, wh

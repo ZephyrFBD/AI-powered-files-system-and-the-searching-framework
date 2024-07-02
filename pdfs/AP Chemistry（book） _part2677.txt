@@ -1,0 +1,20 @@
+H3COO-1aq2
+In contrast, CH3COOH is a weak electrolyte that ionizes only partially, represented by the 
+dynamic equilibrium
+ 
+CH3COOH1aq2 ∆ H+1aq2 + CH3COO-1aq2 
+[17.1]
+The equilibrium constant for Equation 17.1 is Ka = 1.8 * 10-5 at 25 °C (Table 16.2). If we 
+add sodium acetate to a solution of acetic acid in water, the CH3COO- from CH3COONa 
+causes the equilibrium concentrations of the substances in Equation 17.1 to shift to the 
+left as expected from Le Châtelier’s principle, thereby decreasing the equilibrium concen-
+tration of H+1aq2:
+CH3COOH1aq2 ∆ H+1aq2 + CH3COO-1aq2
+Addition of CH3COO− shifts equilibrium
+ concentrations, lowering [H+]
+In other words, the presence of the added acetate ion causes the acetic acid to ionize less 
+than it normally would. We call this observation the common-ion effect.
+Whenever a weak electrolyte and a strong electrolyte containing a common 
+ion are together in solution, the weak electrolyte ionizes less than it would if 
+it were alone in solution.
+No

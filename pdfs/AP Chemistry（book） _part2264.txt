@@ -1,0 +1,27 @@
+f nitric oxide 1NO2 with bromine 
+1Br22:
+ 
+2 NO1g2 + Br21g2 ¡ 2 NOBr1g2 
+[14.26]
+The experimentally determined rate law for this reaction is second order in NO and first 
+order in Br2:
+ 
+Rate = k3NO423Br24 
+[14.27]
+We seek a reaction mechanism that is consistent with this rate law. One possibility is that 
+the reaction occurs in a single termolecular step:
+ 
+NO1g2 + NO1g2 + Br21g2 ¡ 2 NOBr1g2 Rate = k3NO423Br24 
+[14.28]
+As noted in Practice Exercise 2 of Exercise 14.13, this does not seem likely because termo-
+lecular processes are so rare.
+SOLUTION
+Analyze Given a multistep mechanism with the relative speeds of 
+the steps, we are asked to write the overall reaction and the rate 
+law for that overall reaction.
+Plan (a) Find the overall reaction by adding the elementary steps 
+and eliminating the intermediates. (b) The rate law for the overall 
+reaction will be that of the slow, rate-determining step.
+Solve
+(a) Adding the two elementary reactions gives
+2 N2O1g2 + O1g2 ¡ 2 N21g2 + O21g2 

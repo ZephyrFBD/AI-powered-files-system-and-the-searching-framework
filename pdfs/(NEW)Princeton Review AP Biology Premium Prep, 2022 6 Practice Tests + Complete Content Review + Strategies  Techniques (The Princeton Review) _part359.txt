@@ -1,0 +1,11 @@
+fected by a virus is called a host.
+Viruses have one goal: replicate and spread. In order to do this, a virus needs to make more genome and make more
+capsid. They then assemble together into new viral particles.
+The viral genome carries genes for building the capsid and anything else the virus needs that the host cannot
+provide. Sometimes, if two viruses infect the same cell, there will be mixing of the genomes, especially if the viruses
+have genomes split between several chromosome-like segments. A new virus particle might emerge that is a blend
+of the two viruses.
+A commonly studied virus is a bacteriophage (a virus that infects bacteria). Bacteriophages undergo two different
+types of replication cycles, the lytic cycle and the lysogenic cycle. In the lytic cycle, the virus immediately starts
+using the host cell’s machinery to replicate the genetic material and create more capsid proteins. These
+spontaneously assemble into mature viruses and cause the cell to lyse, or break open, rel

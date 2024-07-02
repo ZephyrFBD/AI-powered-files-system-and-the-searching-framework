@@ -1,0 +1,14 @@
+ be surprising, however,
+that Q also depends on the fourth power of the tube’s radius. This means that for
+the same pressure gradient, if the tube radius is halved, the flow rate is decreased
+by a factor of 16! Thus the rate of flow, or alternately the pressure required to
+maintain a given flow rate, is greatly affected by only a small change in tube radius.
+An interesting example of this 
+dependence is blood flow in the human
+body. Poiseuille’s equation is valid only for the streamline flow of an incompres-
+sible fluid. So it cannot be precisely accurate for blood whose flow is not without
+turbulence and that contains blood cells (whose diameter is almost equal to that
+of a capillary). Nonetheless, Poiseuille’s equation does give a reasonable first
+approximation. Because the radius of arteries is reduced as a result of arterioscle-
+rosis (thickening and hardening of artery walls, Fig. 10–32) and by cholesterol
+buildup, the pressure gradient must be increased to maintain the same flow 

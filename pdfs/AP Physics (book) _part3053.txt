@@ -1,0 +1,17 @@
+ each orbit would have a definite energy and would move in the
+orbit without radiating energy (even though this violated classical ideas since
+accelerating electric charges are supposed to emit EM waves; see Chapter 22).
+He thus called the possible orbits stationary states. In this Bohr model, light is
+emitted only when an electron jumps from a higher (upper) stationary state to
+another of lower energy, Fig. 27–26. When such a transition occurs, a single pho-
+ton of light is emitted whose energy, by energy conservation, is given by
+(27;10)
+where 
+refers to the energy of the upper state and 
+the energy of the lower
+state.
+In 1912–13, Bohr set out to determine what energies these orbits would have
+in the simplest atom, hydrogen; the spectrum of light emitted could then be pre-
+dicted from Eq. 27–10. In the Balmer formula he had the key he was looking for.
+Bohr quickly found that his theory would agree with the Balmer formula if 
+he assumed that the electron’s angular momentum L is quanti

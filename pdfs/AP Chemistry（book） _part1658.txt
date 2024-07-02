@@ -1,0 +1,20 @@
+ure and pressure, 1.2 L of N2 reacts with 
+3.6 L of H2. If all the N2 and H2 are consumed, what volume of 
+NH3, at the same temperature and pressure, will be produced?
+The Ideal-Gas Equation (Section 10.4)
+ 10.29  (a) What conditions are represented by the abbreviation 
+STP? (b) What is the molar volume of an ideal gas at STP? 
+(c) Room temperature is often assumed to be 25 °C. Calcu-
+late the molar volume of an ideal gas at 25 °C and 1 atm 
+pressure. (d) If you measure pressure in bars instead of 
+atmospheres, calculate the corresponding value of R in 
+L-bar/mol-K.
+ 10.30  To derive the ideal-gas equation, we assume that the vol-
+ume of the gas atoms/molecules can be neglected. Given the 
+atomic radius of neon, 0.69 Å, and knowing that a sphere has 
+a volume of 4pr3>3, calculate the fraction of space that Ne 
+atoms occupy in a sample of neon at STP
+.
+ 10.31  Suppose you are given two 1-L flasks and told that one con-
+tains a gas of molar mass 30, the other a gas of molar mass 60, 
+bot

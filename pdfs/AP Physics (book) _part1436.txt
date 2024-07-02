@@ -1,0 +1,63 @@
+rage translational kinetic energy of molecules in random motion in an
+ideal gas is directly proportional to the absolute temperature of the gas.
+The higher the temperature, according to kinetic theory, the faster the molecules
+are moving on average. This relation is one of the triumphs of kinetic theory.
+G =
+1
+2 mO =
+3
+2 kT.
+2
+3 A1
+2 mOB
+= kT,
+PV = NkT,
+AGB
+1
+2 mO
+PV =
+2
+3 NA1
+2 mOB.
+V = lA
+cpressure in an
+ideal gas
+d
+P = 1
+3
+NmO
+V
+,
+P =
+F
+A = 1
+3
+NmO
+Al
+F = m
+l N O
+3
+.
+O = 3O
+x.
+O
+x = O
+y = O
+z .
+O = O
+x + O
+y + O
+z.
+SECTION 13–9
+Kinetic Theory and the Molecular Interpretation of Temperature
+375
+TEMPERATURE RELATED TO
+AVERAGE KINETIC ENERGY
+OF MOLECULES
+Molecular kinetic energy. What is the average transla-
+tional kinetic energy of molecules in an ideal gas at 37°C?
+APPROACH We use the absolute temperature in Eq. 13–8.
+SOLUTION We change 37°C to 310 K and insert into Eq. 13–8:
+NOTE A mole of molecules would have a total translational kinetic energy equal
+to
+which equals the kinetic en

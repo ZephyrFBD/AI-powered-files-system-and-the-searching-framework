@@ -1,0 +1,9 @@
+ts processes that could be damaging to the host, known as tolerance.
+The innate immune system contains cells that detect potentially harmful antigens, and then inform the adaptive immune
+response about the presence of these antigens. An antigen-presenting cell (APC) is an immune cell that detects, engulfs,
+and informs the adaptive immune response about an infection. When a pathogen is detected, these APCs will phagocytose
+the pathogen and digest it to form many different fragments of the antigen. Antigen fragments will then be transported to
+the surface of the APC, where they will serve as an indicator to other immune cells. Dendritic cells are immune cells that
+process antigen material; they are present in the skin (Langerhans cells) and the lining of the nose, lungs, stomach, and
+intestines. Sometimes a dendritic cell presents on the surface of other cells to induce an immune response, thus functioning
+as an antigen-presenting cell. Macrophages also function as APCs. Before activatio

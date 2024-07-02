@@ -1,0 +1,20 @@
+al power
+transformed, which is related to the light produced, is 
+so the greater
+current in (2) means more light is produced.
+(b) Headlights are wired in parallel (2), because if one bulb goes out, the other bulb
+can stay lit. If they were in series (1), when one bulb burned out (the filament broke),
+the circuit would be open and no current would flow, so neither bulb would light.
+EXERCISE B Return to the Chapter-Opening Question, page 526, and answer it
+again now. Try to explain why you may have answered differently the first time.
+P = IV,
+I = VReq
+AReq = R + R = 2RB.
+(= R2)
+Req = R2.
+1Req = 1R + 1R = 2R.
+CONCEPTUAL EXAMPLE 19;2
+†An analogy may help. Consider two identical pipes taking in water near the top of a dam and releas-
+ing it at the bottom as shown in the figure to the right. If both pipes are open, rather than only one,
+twice as much water will flow through. That is, the net resistance to the flow of water will be reduced
+by half with two equal pipes open, just as for

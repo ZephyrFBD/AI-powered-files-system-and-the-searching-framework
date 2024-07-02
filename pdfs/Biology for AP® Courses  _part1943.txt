@@ -1,0 +1,30 @@
+he approximate distance between
+markers.
+c.
+In restriction mapping, the DNA fragments are
+cut by using the restriction enzymes and then
+stained fragments are viewed on gel.
+d.
+Cytogenetic mapping obtains information from
+microscopic analysis of stained chromosomes. It
+can estimate the exact base pair distance
+between markers.
+35. Describe three methods of gene sequencing.
+a.
+Chain termination method - automated
+sequencers are used to generate sequences of
+short fragments; Shotgun sequencing method -
+incorporation of ddNTP during DNA
+replication; Next-generation sequencing - cutting
+DNA into random fragments, sequencing using
+chain termination, and assembling overlapping
+sequences
+b.
+Chain termination method - incorporation of
+ddNTP during DNA replication; Shotgun
+sequencing method - cutting DNA into random
+fragments, sequencing using chain termination,
+and assembling overlapping sequences; Next-
+generation sequencing - automated sequencers
+are used to generate sequences of short
+fragme

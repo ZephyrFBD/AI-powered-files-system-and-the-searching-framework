@@ -1,0 +1,40 @@
+
+ 
+(e) Use the data in the table to calculate ∆S° at 298 K 
+for the vaporization of CS21l2. Is the sign of ∆S° as you 
+would expect for a vaporization? (f) Using data in the 
+table and your answer to part (e), estimate the boiling 
+point of CS21l2. Do you predict that the substance will be 
+a liquid or a gas at 298 K and 1 atm?
+ 
+[19.109]  
+The following data compare the standard enthalpies and 
+free energies of formation of some crystalline ionic sub-
+stances and aqueous solutions of the substances:
+Substance
+∆Hf
+° 1kJ>mol2
+∆Gf° 1kJ>mol2
+AgNO31s2
+-124.4
+-33.4
+AgNO31aq2
+-101.7
+-34.2
+MgSO41s2
+-1283.7
+-1169.6
+MgSO41aq2
+-1374.8
+-1198.4
+ 
+ Write the formation reaction for AgNO31s2. Based on 
+this reaction, do you expect the entropy of the system to 
+increase or decrease upon the formation of AgNO31s2? 
+(b) Use ∆H°
+f  and ∆G°
+f  of AgNO31s2 to determine the 
+entropy change upon formation of the substance. Is 
+your answer consistent with your reasoning in part (a)? 
+ 
+(c) Is dissolving AgNO3

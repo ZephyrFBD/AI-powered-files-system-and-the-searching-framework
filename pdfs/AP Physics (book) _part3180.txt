@@ -1,0 +1,17 @@
+om in the excited state,
+it stimulates this atom to emit a photon of the same frequency, moving in the same
+direction, and in phase with it. These two photons then move on to strike other
+atoms causing more stimulated emission. As the process continues, the number of
+photons multiplies. When the photons strike the end mirrors, most are reflected
+back, and as they move in the opposite direction, they continue to stimulate more
+atoms to emit photons. As the photons move back and forth between the mirrors,
+a small percentage passes through the partially transparent mirror at one end.
+These photons make up the narrow coherent external laser beam. (Inside the
+tube, some spontaneously emitted photons will be emitted at an angle to the axis,
+and these will merely go out the side of the tube and not affect the narrow width
+of the main beam.)
+SECTION 28–11
+Lasers
+821
+†An excited atom may land in such a state and can jump to a lower state only by a so-called forbidden
+transition (Section 28–6), 

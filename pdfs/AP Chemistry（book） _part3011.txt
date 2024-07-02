@@ -1,0 +1,20 @@
+ For q we have:
+Analyze We first recognize that freezing is an exothermic process, 
+which means heat is transferred from the system to the surround-
+ings and q 6 0. Because freezing is the reverse of melting, the 
+enthalpy change that accompanies the freezing of 1 mol of Hg is 
+- ∆Hfusion = -2.29 kJ>mol.
+Plan We can use - ∆Hfusion and the atomic weight of Hg to calcu-
+late q for freezing 50.0 g of Hg. Then we use this value of q as qrev in 
+Equation 19.2 to determine ∆S for the system.
+Check The entropy change is negative because our qrev value is neg-
+ative, which it must be because heat flows out of the system in this 
+exothermic process.
+Comment This procedure can be used to calculate ∆S for other iso-
+thermal phase changes, such as the vaporization of a liquid at its 
+boiling point.
+ 
+▶Practice Exercise 1
+Do all exothermic phase changes have a negative value for 
+the entropy change of the system? (a) Yes, because the heat 
+transferred from the system has a negative sign. (b) Yes, 

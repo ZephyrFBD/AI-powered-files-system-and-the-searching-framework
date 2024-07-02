@@ -1,0 +1,28 @@
+computer chips is grown in large cylinders called 
+“boules” that are 300 mm in diameter and 2 m in length, as 
+shown. The density of silicon is 2.33 g>cm3. Silicon wafers 
+for making integrated circuits are sliced from a 2.0-m boule 
+and are typically 0.75 mm thick and 300 mm in diameter. 
+ 
+(a) How many wafers can be cut from a single boule? 
+ 
+(b) What is the mass of a silicon wafer? (The volume of a cyl-
+inder is given by pr2h, where r is the radius and h is its height.)
+Diamond blade
+Cut wafers
+2 m
+Si boule
+0.75 mm
+thickness
+300 mm
+diameter
+ 1.41  Use of the British thermal unit (Btu) is common in some 
+types of engineering work. A Btu is the amount of heat 
+ 
+required to raise the temperature of 1 lb of water by 1°F. 
+ 
+Calculate the number of joules in a Btu.
+ 1.42  A watt is a measure of power (the rate of energy change) equal 
+to 1 J/s. (a) Calculate the number of joules in a kilowatt-hour. 
+(b) An adult person radiates heat to the surroundings at 
+about the same rate as a 100-

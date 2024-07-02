@@ -1,0 +1,18 @@
+1, 
+enabling Pho4 to induce the expression of these target genes. A simplified model of this pathway is shown in 
+Figure 1. 
+ 
+Figure 1. A simplified model of the regulation of expression of Pho target genes in (A) a high-phosphate 
+(high-Pi) environment and (B) a low-phosphate (low-Pi) environment 
+To study the role of the different proteins in the PHO pathway, researchers used a wild-type strain of yeast to 
+create a strain with a mutant form of Pho81 (pho81mt) and a strain with a mutated form of Pho4 (pho4mt). 
+In each of these mutant strains, researchers measured the activity of a particular enzyme, APase, which 
+removes phosphates from its substrates and is encoded by PHO1, a Pho target gene (Table 1). They then 
+determined the level of PHO1 mRNA relative to that of the wild-type yeast strain, which was set to 10. 
+ 
+ 
+AP® Biology 2023 Scoring Guidelines 
+ 
+© 2023 College Board 
+TABLE 1. APase ACTIVITY AND RELATIVE AMOUNTS OF PHO1 mRNA IN WILD-TYPE AND MUTANT STRAINS OF 
+YEAST IN 

@@ -1,0 +1,28 @@
+ns 16.38 and 16.39, the NH4
++ and NH3 species cancel and we 
+are left with the autoionization of water:
+ 
+       NH4
++1aq2 ∆ NH31aq2 + H+1aq2
+NH31aq2 + H2O1l2 ∆ NH4
++1aq2 + OH-1aq2
+           H2O1l2 ∆ H+1aq2 + OH-1aq2
+ 
+This concentration is high enough that we 
+can assume that Equation 16.37 is the only 
+source of OH-; that is, we can neglect any 
+OH- produced by the autoionization of H2O. 
+We now assume a value of x for the initial 
+concentration of ClO- and solve the equilib-
+rium problem in the usual way.
+We now use the expression for the base- 
+dissociation constant to solve for x:
+We say that the solution is 0.31 M in NaClO even though some of the 
+ClO- ions have reacted with water. Because the solution is 0.31 M 
+in NaClO and the total volume of solution is 2.00 L, 0.62 mol of  
+NaClO is the amount of the salt that was added to the water.
+ 
+▶Practice Exercise 1
+The benzoate ion, C6H5COO-, is a weak base with 
+Kb = 1.6 * 10-10. How many moles of sodium benzoate are 
+present in 0.

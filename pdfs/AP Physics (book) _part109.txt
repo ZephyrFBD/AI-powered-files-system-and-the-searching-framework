@@ -1,0 +1,19 @@
+he
+object undergoes an acceleration a. Let’s do a dimensional check to see if this
+equation could be correct or is surely incorrect. Note that numerical factors,
+like the 
+here, do not affect dimensional checks. We write a dimensional
+equation as follows, remembering that the dimensions of speed are 
+and
+(as we shall see in Chapter 2) the dimensions of acceleration are 
+The dimensions are incorrect: on the right side, we have the sum of quantities
+whose dimensions are not the same. Thus we conclude that an error was made
+in the derivation of the original equation.
+A dimensional check can only tell you when a relationship is wrong. It can’t
+tell you if it is completely right. For example, a dimensionless numerical factor
+(such as or 
+) could be missing.
+Dimensional analysis can also be used as a quick check on an equation you
+are not sure about. For example, consider a simple pendulum of length . Suppose
+that you can’t remember whether the equation for the period T (the time to make
+one

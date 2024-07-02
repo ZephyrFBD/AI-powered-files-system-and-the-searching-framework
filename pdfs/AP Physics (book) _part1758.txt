@@ -1,0 +1,57 @@
+.
+Equations 16–4 are referred to as the electric field form of Coulomb’s law.
+If we are given the electric field 
+at a given point in space, then we can calcu-
+late the force
+on any charge q placed at that point by writing (see Eq. 16–3):
+(16;5)
+This is valid even if q is not small as long as q does not cause the charges creating
+to move. If q is positive,
+and 
+point in the same direction. If q is negative,
+and 
+point in opposite directions. See Fig. 16–24.
+E
+B
+F
+B
+E
+B
+F
+B
+E
+B
+F
+B = qE
+B.
+F
+B
+E
+B
+E =
+1
+4p0
+Q
+r2 .
+Ak = 14p0B:
+0
+E = k Q
+r2 ;
+E = F
+q = kqQr2
+q
+E
+B.
+P H Y S I C S  A P P L I E D
+Photocopier
+SECTION 16–7
+The Electric Field
+455
+This Example illustrates a general result: The electric field 
+due to a positive
+charge points away from the charge, whereas 
+due to a negative charge points
+toward that charge.
+EXERCISE F Find the magnitude and direction of the electric field due to a
+charge 50 cm below it.
+If the electric field at a given point in space is due to more than one c

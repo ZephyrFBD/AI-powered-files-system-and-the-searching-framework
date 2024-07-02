@@ -1,0 +1,24 @@
+e several of these next.
+Mass Percentage, ppm, and ppb
+One of the simplest quantitative expressions of concentration is the mass percentage 
+of a component in a solution, given by
+ 
+Mass % of component =
+mass of component in soln
+total mass of soln
+* 100 
+[13.5]
+Because percent means “per hundred,” a solution of hydrochloric acid that is 36% HCl by 
+mass contains 36 g of HCl for each 100 g of solution.
+We often express the concentration of very dilute solutions in parts per million 
+(ppm) or parts per billion (ppb). These quantities are similar to mass percentage but 
+use 106 (a million) or 109 (a billion), respectively, in place of 100, as a multiplier for the 
+ratio of the mass of solute to the mass of solution. Thus, parts per million is defined as
+ 
+ppm of component =
+mass of component in soln
+total mass of soln
+* 106 
+[13.6]
+A solution whose solute concentration is 1 ppm contains 1 g of solute for each million 
+11062 grams of solution or, equivalently, 1 mg of solute per kilogram 

@@ -1,0 +1,23 @@
+ per second this represents. Take the average wave-
+length to be 550 nm.
+71. A beam of red laser light 
+hits a black wall
+and is fully absorbed. If this light exerts a total force
+on the wall, how many photons per second are
+hitting the wall?
+72. A flashlight emits 2.5 W of light. As the light leaves the
+flashlight in one direction, a reaction force is exerted on
+the flashlight in the opposite direction. Estimate the size of
+this reaction force.
+73. A photomultiplier tube (a very sensitive light sensor), is
+based on the photoelectric effect: incident photons strike a
+metal surface and the resulting ejected electrons are
+collected. By counting the number of collected electrons,
+the number of incident photons (i.e., the incident light
+intensity) can be determined. (a) If a photomultiplier tube
+is to respond properly for incident wavelengths through-
+out the visible range (410 nm to 750 nm), what is the
+maximum value for the work function 
+(eV) of its metal
+surface? (b) If 
+for its metal 

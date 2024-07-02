@@ -1,0 +1,23 @@
+-
+ture and pressure, l is inversely proportional to the square 
+of the diameter of the gas molecules. Put these facts to-
+gether to create a formula for the mean free path of a gas 
+molecule with a proportionality constant (call it Rmfp, like 
+the ideal-gas constant) and define units for Rmfp.
+ 10.85  
+Hydrogen has two naturally occurring isotopes, 1H and 2H. 
+Chlorine also has two naturally occurring isotopes, 35Cl and 
+37Cl. Thus, hydrogen chloride gas consists of four distinct 
+types of molecules: 1H35Cl, 1H37Cl, 2H35Cl, and 2H37Cl.  
+Place these four molecules in order of increasing rate of 
+effusion.
+ 
+10.86   
+As discussed in the “Chemistry Put to Work” box in Sec- 
+tion 10.8, enriched uranium can be produced by effusion of 
+gaseous UF6 across a porous membrane. Suppose a process 
+were developed to allow effusion of gaseous uranium atoms, 
+U(g). Calculate the ratio of effusion rates for 235U and 238U, 
+and compare it to the ratio for UF6 given in the essay.
+ 
+10.87 Arsenic(III) s

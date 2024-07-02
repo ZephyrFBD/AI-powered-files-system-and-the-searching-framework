@@ -1,0 +1,10 @@
+ments of molecules (as does any kind of diffusion). Rather, active transport moves specific solutes across a
+membrane from lower to higher concentrations (opposite direction of diffusion). The term “active” in active
+transport implies the use of energy, whereas the various processes of diffusion are passive.
+Vesicular transport uses vesicles or other bodies in the cytoplasm to move macromolecules or large particles
+across the plasma membrane. Types of vesicular transport are described here:
+Exocytosis describes the process of vesicles fusing with the plasma membrane and releasing their contents to the
+outside of the cell. This is common when a cell produces substances for export.
+Endocytosis describes the capture of a substance outside the cell when the plasma membrane merges to engulf it.
+The substance subsequently enters the cytoplasm enclosed in a vesicle. There are three kinds of endocytosis.
+• Phagocytosis (“cellular eating”) occurs when undissolved material enters the cell. The p

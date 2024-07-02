@@ -1,0 +1,26 @@
+.350 N
+is applied to the rod, it moves to the right at a constant
+speed of 
+What is the magnetic field?
+17. (III) In Fig. 21–11, the rod moves with a speed of 
+on
+rails 30.0 cm apart. The rod has a resistance of 
+The
+magnetic field is 0.35 T, and the resistance of the 
+conductor is 
+at a given instant. Calculate (a) the
+induced emf, (b) the current in the 
+conductor,
+and (c) the external force needed to keep the rod’s velocity
+constant at that instant.
+18. (III) A 22.0-cm-diameter coil consists of 30 turns of circular
+copper wire 2.6 mm in diameter. A uniform magnetic field,
+perpendicular to the plane of the coil, changes at a rate of
+Determine (a) the current in the loop, and
+(b) the rate at which thermal energy is produced.
+19. (III) The magnetic field perpendicular to a single 13.2-cm-
+diameter circular loop of copper wire decreases uniformly
+from 0.670 T to zero. If the wire is 2.25 mm in diameter,
+how much charge moves past a point in the coil during this
+operation?
+21–5 Generator

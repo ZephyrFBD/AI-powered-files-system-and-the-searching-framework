@@ -1,0 +1,26 @@
+38U
+General Problems
+883
+60. Which radioactive isotope of lead is being produced if the
+measured activity of a sample drops to 1.050% of its origi-
+nal activity in 4.00 h?
+61. An old wooden tool is found to contain only 4.5% of the
+that an equal mass of fresh wood would. How old is
+the tool?
+62. A neutron star consists of neutrons at approximately
+nuclear density. Estimate, for a 10-km-diameter neutron
+star, (a) its mass number, (b) its mass (kg), and (c) the
+acceleration of gravity at its surface.
+63. Tritium dating. The 
+isotope of hydrogen, which is
+called tritium (because it contains three nucleons), has a
+half-life of 12.3 yr. It can be used to measure the age of
+objects up to about 100 yr. It is produced in the upper
+atmosphere by cosmic rays and brought to Earth by rain.
+As an application, determine approximately the age of a
+bottle of wine whose 
+radiation is about 
+that present
+in new wine.
+64. Some elementary particle theories (Section 32–11) suggest
+that the proton may be un

@@ -1,0 +1,33 @@
+ce.
+1.20 ms,
+2.20 ms
+&0.22 m
+71. A basketball is shot from an initial height of 2.40 m
+(Fig. 3–57) with an initial speed
+directed at
+an angle
+above the horizontal. (a) How far from
+the basket was the player if he made a basket? (b) At what
+angle to the horizontal did the ball enter the basket?
+u0 = 35°
+v0 = 12 ms
+72. A rock is kicked horizontally at 
+from a hill with a
+45° slope (Fig. 3–58). How long does it take for the rock to
+hit the ground?
+15 ms
+74
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+15 m/s
+45
+FIGURE 3;58 Problem 72.
+73. A batter hits a fly ball which leaves the bat 0.90 m above
+the ground at an angle of 61° with an initial speed of
+heading toward centerfield. Ignore air resistance.
+(a) How far from home plate would the ball land if not
+caught? (b) The ball is caught by the centerfielder who,
+starting at a distance of 105 m from home plate just as the ball
+was hit, runs straight toward home plate at a constant speed
+and makes the catch at ground level. Find his s

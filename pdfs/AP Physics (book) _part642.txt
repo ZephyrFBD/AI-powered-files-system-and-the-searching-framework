@@ -1,0 +1,27 @@
+a rate of just under 1 hp.
+A human cannot do work at this rate for very long.
+(b) The energy required is  
+This result equals
+NOTE The person had to transform more energy than this 2600 J. The total
+energy transformed by a person or an engine always includes some thermal
+energy (recall how hot you get running up stairs).
+W = mgy.
+E = gt = (660 Js)(4.0 s) = 2600 J.
+g = W
+t
+= mgy
+t
+=
+(60 kg)(9.8 ms2)(4.5 m)
+4.0 s
+= 660 W.
+W = mgy.
+EXAMPLE 6;13
+Automobiles do work to overcome the force of friction and air resistance,
+to climb hills, and to accelerate. A car is limited by the rate at which it can do
+work, which is why automobile engines are rated in horsepower or kilowatts.
+A car needs power most when climbing hills and when accelerating. In the next
+Example, we will calculate how much power is needed in these situations for a
+car of reasonable size. Even when a car travels on a level road at constant 
+speed, it needs some power just to do work to overcome the retarding forces of
+interna

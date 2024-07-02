@@ -1,0 +1,16 @@
+ng back (west) a
+distance of 30 m (see Fig. 2–4). The total distance traveled is 100 m, but the
+displacement is only 40 m since the person is now only 40 m from the starting point.
+Displacement is a quantity that has both magnitude and direction. Such
+quantities are called vectors, and are represented by arrows in diagrams. For
+example, in Fig. 2–4, the blue arrow represents the displacement whose magni-
+tude is 40 m and whose direction is to the right (east).
+We will deal with vectors more fully in Chapter 3. For now, we deal only with
+motion in one dimension, along a line. In this case, vectors which point in one direc-
+tion will be positive (typically to the right along the x axis). Vectors that point
+in the opposite direction will have a negative sign in front of their magnitude.
+Consider the motion of an object over a particular time interval. Suppose that
+at some initial time, call it 
+the object is on the x axis at the position 
+in the
+coordinate system shown in Fig. 2–5. At som

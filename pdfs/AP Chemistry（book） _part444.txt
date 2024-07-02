@@ -1,0 +1,28 @@
+stance is summarized in Figure 3.12.  We must con-
+vert 5.23 g to moles of C6H12O6 and then convert moles to molecules 
+of C6H12O6. The first conversion uses the molar mass of C6H12O6, 
+180.0 g/mol, and the second conversion uses Avogadro’s number.
+(b) To determine the number of O atoms, we use the fact that there are 
+six O atoms in each C6H12O6 molecule. Thus, multiplying the number 
+of molecules we calculated in (a) by the factor (6 atoms O>1 molecule 
+C6H12O6) gives the number of O atoms.
+Solve 
+(a)  
+Convert grams C6H12O6 to 
+molecules C6H12O6.
+Molecules C6H12O6 = 15.23 g C6H12O62a
+1 mol C6H12O6
+180.0 g C6H12O6
+b a
+6.02 * 1023 molecules C6H12O6
+1 mol C6H12O6
+b 
+ = 1.75 * 1022 molecules C6H12O6
+(b)  
+Convert molecules C6H12O6 
+to atoms O.
+Check 
+(a) Because the mass we began with is less than a mole, there 
+should be fewer than 6.02 * 1023 molecules in the sample,  
+which means the magnitude of our answer is reasonable.  
+A ballpark estimate of the answer comes reasonably close to 

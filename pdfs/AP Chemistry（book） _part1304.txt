@@ -1,0 +1,52 @@
+nd 
+each Cl to represent the single bond between these atoms) re-
+quires 8 * 4 = 32 electrons.
+We are thus left with 36 - 32 = 4 electrons to be placed on the 
+larger iodine:
+Cl
+Cl
+Cl
+Cl
+I
+2
+Iodine has 12 valence electrons around it, four more than needed 
+for an octet.
+ 
+▶Practice Exercise 1
+In which of these molecules or ions is there only one lone pair 
+of electrons on the central sulfur atom?
+(a) SF4 (b) SF6 (c) SOF4 (d) SF2 (e) SO4
+2 -
+ 
+▶Practice Exercise 2
+(a) Which of the following atoms is never found with more 
+than an octet of valence electrons around it? S, C, P
+, Br, I.  
+(b) Draw the Lewis structure for XeF2.
+ 
+SECTION 8.8   
+Strengths and Lengths of Covalent Bonds 
+325
+Finally, there are Lewis structures where you might have to choose between satisfying 
+the octet rule and obtaining the most favorable formal charges by using more than an octet 
+of electrons. For example, consider these Lewis structures for the phosphate ion, PO4
+3 -:
+P
+O
+O
+O
+O
+1
+0
+1
+1
+1
+1
+P
+O
+O
+O
+O
+0
+1
+1

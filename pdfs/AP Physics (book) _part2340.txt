@@ -1,0 +1,41 @@
+H Y S I C S  A P P L I E D
+Car ignition system
+Cell phone charger. The charger for a cell phone contains a
+transformer that reduces 120-V (or 240-V) ac to 5.0-V ac to charge the 3.7-V
+battery (Section 19–4). (It also contains diodes to change the 5.0-V ac to 5.0-V dc.)
+Suppose the secondary coil contains 30 turns and the charger supplies 700 mA.
+Calculate (a) the number of turns in the primary coil, (b) the current in the
+primary, and (c) the power transformed.
+APPROACH We assume the transformer is ideal, with no flux loss, so we can use
+Eq. 21–6 and then Eq. 21–7.
+SOLUTION (a) This is a step-down transformer, and from Eq. 21–6 we have
+(b) From Eq. 21–7
+(c) The power transformed is
+NOTE The power in the primary coil,
+is the
+same as the power in the secondary coil. There is 100% efficiency in power
+transfer for our ideal transformer.
+P = (0.029 A)(120 V) = 3.5 W,
+P = I
+S V
+S = (0.70 A)(5.0 V) = 3.5 W.
+I
+P = I
+S
+N
+S
+N
+P
+= (0.70 A) ¢ 30
+720 ≤
+= 29 mA.
+N
+P = N
+S
+V
+P
+V
+S
+=
+(30)(120 V)
+(5.0 

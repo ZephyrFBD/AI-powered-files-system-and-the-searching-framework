@@ -1,0 +1,24 @@
+ow computer con-
+trolled, making the collection of diffraction data highly automated. 
+The diffraction pattern of a crystal can be determined very accurately 
+and quickly (sometimes in a matter of hours), even though thou-
+sands of diffraction spots are measured. Computer programs are then 
+used to analyze the diffraction data and determine the arrangement 
+and structure of the molecules in the crystal. X-ray diffraction is an 
+important technique in industries ranging from steel and cement 
+manufacture to pharmaceuticals.
+Related Exercises: 12.113–12.115
+Incident beam
+Diffracted X rays
+X-ray detector
+Crystalline
+solid
+X-ray tube
+source
+X rays
+10,000–
+40,000 volts
+▲ Figure 12.9 Diffraction of X rays by a crystal. A monochromatic X-ray beam is passed through 
+a crystal. The X rays are diffracted, and the resulting interference pattern is recorded. The crystal 
+is rotated and another diffraction pattern recorded. Analysis of many diffraction patterns gives the 
+positions of the atoms in 

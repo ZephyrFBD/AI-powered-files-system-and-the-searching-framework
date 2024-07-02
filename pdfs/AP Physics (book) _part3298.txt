@@ -1,0 +1,93 @@
+ the collector which is maintained at a positive voltage. A large
+current,
+flows between collector and emitter and a much smaller current,
+through the base. In the steady state,
+and 
+can be considered dc. But a small
+variation 
+in the base voltage due to an input signal attracts (or repels)
+(= ac)
+I
+C
+I
+B
+I
+B,
+I
+C ,
+1 mm
+V
+BE
+V
+BE.
+eC.
+V
+CE
+*
+850
+CHAPTER 29
+Molecules and Solids
+FIGURE 29–40 (a) Schematic diagram of npn and pnp
+transistors. (b) Symbols for npn and pnp transistors.
+FIGURE 29–41 An npn transistor used as an amplifier.
+is the current produced by 
+(in the absence of a
+signal),
+is the ac signal current (
+in 
+).
+I
+B
+= change
+iB
+eB
+I
+B
+Base
+Collector
+Emitter
+npn
+(b)
+Collector
+Emitter
+Base
+n
+n
+p
+npn transistor
+Base
+Collector
+Emitter
+pnp
+Collector
+Emitter
+Base
+p
+p
+n
+pnp transistor
+(a)
+RB
+IB iB
+IC iC
+VBE
+Input
+signal
+(small)
+VCE
+RC
+C
+Output
+(large)
+B
+
+
+
+
+B
+C
+E
+e
+e
+charge that passes through into the collector and thus can cause a large change in
+the collector current and a 

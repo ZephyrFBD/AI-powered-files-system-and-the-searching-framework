@@ -1,0 +1,20 @@
+ stretched
+(shown as 
+in Fig. 6–15 for clarity). The work done is then
+Hence the elastic potential energy,
+is proportional to the square of the amount
+stretched:
+[elastic spring]
+(6;9)
+If a spring is compressed a distance x from its natural (“equilibrium”) length, the
+average force again has magnitude
+and again the potential energy is
+given by Eq.6–9. Thus x can be either the amount compressed or amount stretched
+from the spring’s natural length.† Note that for a spring, we choose the reference
+point for zero PE at the spring’s natural position.
+Potential Energy as Stored Energy
+In the above examples of potential energy—from a brick held at a height y, to a
+stretched or compressed spring—an object has the capacity or potential to do work
+even though it is not yet actually doing it. These examples show that energy can be
+stored, for later use, in the form of potential energy (as in Fig. 6–13, for a spring).
+Note that there is a single universal formula for the translational kinetic ener

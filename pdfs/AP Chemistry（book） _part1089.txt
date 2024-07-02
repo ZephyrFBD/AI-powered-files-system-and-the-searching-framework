@@ -1,0 +1,20 @@
+es are under intense development. Currently, 
+the anode material is graphite, a form of carbon, and the cath-
+ode is a transition metal oxide, often lithium cobalt oxide, LiCoO2 
+(Figure 7.9). Between anode and cathode is a separator, a porous solid 
+material that allows the passage of lithium ions but not electrons.
+When the battery is being charged by an external source, lithium 
+ions migrate through the separator from the cathode to the anode 
+where they insert between the layers of carbon atoms. The ability of 
+an ion to move through a solid increases 
+as the size of the ion decreases and as the 
+charge on the ion decreases. Lithium ions 
+are smaller than most other cations, and 
+they carry only a 1+ charge, which allows 
+them to migrate more readily than other 
+ions can. As an added bonus, lithium is 
+one of the lightest elements, which is at-
+tractive for use in electric vehicles. When 
+the battery discharges, the lithium ions 
+move from anode to cathode. To maintain 
+charge bala

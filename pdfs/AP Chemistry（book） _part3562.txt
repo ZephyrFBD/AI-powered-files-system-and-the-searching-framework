@@ -1,0 +1,63 @@
+g soaps, detergents, plas-
+tics, and insecticides.
+Phosphorus chlorides, bromides, and iodides can be made by direct oxi-
+dation of elemental phosphorus with the elemental halogen. PCl3, for exam-
+ple, which is a liquid at room temperature, is made by passing a stream of dry 
+chlorine gas over white or red phosphorus:
+ 
+2 P1s2 + 3 Cl21g2 ¡ 2 PCl31l2 
+[22.44]
+If excess chlorine gas is present, an equilibrium is established between PCl3 and 
+PCl5.
+ 
+PCl31l2 + Cl21g2 ∆ PCl51s2 
+[22.45]
+TABLE 22.7 Properties of the Group 5A Elements
+Property
+N
+P
+As
+Sb
+Bi
+Atomic radius 1A
+° 2
+0.71
+1.07
+1.19
+1.39
+1.48
+First ionization energy 1kJ>mol2
+1402
+1012
+947
+834
+703
+Electron affinity 1kJ>mol2
+7 0
+-72
+-78
+-103
+-91
+Electronegativity
+3.0
+2.1
+2.0
+1.9
+1.9
+X¬X single-bond enthalpy 1kJ>mol2*
+163
+200
+150
+120
+—
+X ‚X triple-bond enthalpy 1kJ>mol2
+941
+490
+380
+295
+192
+*Approximate values only.
+White phosphorus
+Red phosphorus
+▲ Figure 22.25 White and red phosphorus. Despite the 
+fact that both contain only phosphor

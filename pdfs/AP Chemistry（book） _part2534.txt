@@ -1,0 +1,37 @@
+ 3OH -4; 
+(c) 3H+4 = 200 * 3OH -4.
+ 3H+43OH -4 = 1.0 * 10-14
+ 3H+4 =
+11.0 * 10-142
+3OH -4
+= 1.0 * 10-14
+0.010
+= 1.0 * 10-12 M
+3H+4 =
+11.0 * 10 - 142
+3OH -4
+= 1.0 * 10 - 14
+1.8 * 10 - 9 = 5.6 * 10 - 6 M 
+3OH -4 7 3H+4
+SOLUTION
+Sample Exercise 16.5 
+Calculating 3H+ 4 from 3OH−4
+This solution is basic because
+(b) In this instance
+This solution is acidic because
+3H+4 7 3OH -4
+16.4 ∣ The ph Scale
+The molar concentration of H+1aq2 in an aqueous solution is usually very small. For con-
+venience, we therefore usually express 3H+4 in terms of pH, which is the negative loga-
+rithm in base 10 of 3H+4:*
+ 
+pH = -log3H+4 
+[16.17]
+If you need to review the use of logarithms, see Appendix A.
+In Sample Exercise 16.4, we saw that 3H+4 = 1.0 * 10-7 M for a neutral aqueous 
+solution at 25 °C. We can now use Equation 16.17 to calculate the pH of a neutral solu-
+tion at 25 °C:
+ 
+pH = -log11.0 * 10-72 = -1-7.002 = 7.00 
+Notice that the pH is reported with two decimal places. We do so because only the num-
+be

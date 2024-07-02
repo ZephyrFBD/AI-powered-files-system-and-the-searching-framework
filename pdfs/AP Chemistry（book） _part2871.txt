@@ -1,0 +1,47 @@
+he electromagnetic 
+spectrum does ozone most strongly 
+absorb light: (a) IR, (b) visible, or (c) UV?
+Absorption cross section (cm2/molecule)
+200
+Wavelength (nm)
+250
+300
+▲ Figure 18.4 The absorption spectrum of 
+ozone.
+TABLE 18.3 Photoionization Reactions for Four Components of the 
+Atmosphere
+Process
+Ionization Energy 1kJ,mol2
+Lmax 1nm2
+N2 + hn ¡  N2
++ + e-
+1495
+80.1
+O2 + hn ¡  O2
++ + e-
+1205
+99.3
+O + hn ¡  O+ + e-
+1313
+91.2
+NO + hn ¡  NO+ + e-
+  890
+134.5
+ 
+SECTION 18.1   
+Earth’s Atmosphere 
+773
+774 
+CHAPTER 18 Chemistry of the Environment
+ 
+O21g2 + hn ¡ O1g2 + O1g2
+ 
+O1g2 + O21g2 + M1g2 ¡ O31g2 + M*1g2 1heat released2
+ 
+O31g2 + hn ¡ O21g2 + O1g2
+ 
+O1g2 + O1g2 + M1g2 ¡ O21g2 + M*1g2 1heat released2
+The first and third processes are photochemical; they use a solar photon to 
+initiate a chemical reaction. The second and fourth are exothermic chemical 
+reactions. The net result of the four reactions is a cycle in which solar radiant 
+energy is converted into thermal energy. The ozone cy

@@ -1,0 +1,154 @@
+0.78%
+77
+Iridium
+Ir
+191
+190.960589
+37.3%
+193
+192.962922
+62.7%
+78
+Platinum
+Pt
+195
+194.964792
+33.78%
+79
+Gold
+Au
+197
+196.966569
+100%
+80
+Mercury
+Hg
+199
+198.968281
+16.87%
+202
+201.970643
+29.86%
+81
+Thallium
+Tl
+205
+204.974428
+70.48%
+82
+Lead
+Pb
+206
+205.974466
+24.1%
+207
+206.975897
+22.1%
+208
+207.976652
+52.4%
+210
+209.984189
+22.20 yr
+211
+210.988737
+36.1 min
+212
+211.991898
+10.64 h
+214
+213.999806
+26.8 min
+83
+Bismuth
+Bi
+209
+208.980399
+100%
+211
+210.987270
+2.14 min
+84
+Polonium
+Po
+210
+209.982874
+EC
+138.376 days
+214
+213.995202
+164.3
+85
+Astatine
+At
+218
+218.008695
+1.5 s
+a, b–
+ ms
+a, g
+a, g,
+a, g, b–
+b–, g
+b–, g
+b–, g
+b–, g, a
+b–, g
+* 1010 yr
+b–
+* 1021 yr
+7
+a
+a
+* 1021 yr
+7
+b–b–
+b–, g
+* 1024 yr
+7
+b–b–
+A-14
+APPENDIX B
+Selected Isotopes
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+Atomic
+Mass
+% Abundance
+Number
+Number
+Atomic
+(or Radioactive
+Half-life
+Z
+Element
+Symbol
+A
+Mass
+Decay Mode)
+(if radioactive)
+86
+Radon
+Rn
+222
+222.017578
+3.8235 days
+87
+Francium
+Fr
+223
+223.019736
+22.00 min
+88
+Radium
+Ra
+226
+226.025410
+1600 yr
+89
+Actinium

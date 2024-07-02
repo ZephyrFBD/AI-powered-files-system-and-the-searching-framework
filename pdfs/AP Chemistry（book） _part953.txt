@@ -1,0 +1,32 @@
+ike s orbitals, p orbitals increase in size as we 
+move from 2p to 3p to 4p, and so forth.
+Go Figure
+Each p orbital has what is called a nodal plane, a plane or sheet where the 
+probability density goes to zero. For which of the orbitals below is the yz 
+plane a nodal plane?
+px
+py
+pz
+(a)
+(b)
+x
+x
+x
+x
+y
+y
+y
+y
+z
+z
+z
+z
+▲ Figure 6.23 The p orbitals. (a) Electron-density distribution of a 2p orbital. (b) Contour  
+representations of the three p orbitals. The subscript on the orbital label indicates the axis  
+along which the orbital lies.
+The d and f Orbitals
+When n is 3 or greater, we encounter the d orbitals 1for which l = 22. There are five 3d 
+orbitals, five 4d orbitals, and so forth, because in each shell there are five possible val-
+ues for the ml quantum number: -2, -1, 0, 1, and 2. The different d orbitals in a given 
+shell have different shapes and orientations in space, as shown in Figure 6.24. Four of 
+the d-orbital contour representations have a “four-leaf clover” shape, with fou

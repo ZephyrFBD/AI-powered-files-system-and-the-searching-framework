@@ -1,0 +1,25 @@
+ig.29–17 again shows the 
+for the 
+molecule (solid
+curve). This 
+curve, at least in the vicinity of the equilibrium separation 
+closely
+resembles the potential energy of a harmonic oscillator,
+which is
+shown superposed in dashed lines. Thus, for small displacements from 
+each atom
+experiences a restoring force approximately proportional to the displacement,
+and the molecule vibrates as a simple harmonic oscillator (SHO)—see Chapter 11.
+According to quantum mechanics, the possible quantized energy levels are 
+(29;3)
+where f is the classical frequency (see Chapter 11—f depends on the mass of 
+the atoms and on the bond strength or “stiffness”) and 
+is an integer called the
+vibrational quantum number. The lowest energy state 
+is not zero (as for
+rotation), but has 
+This is called the zero-point energy. Higher states
+have energy 
+and so on, as shown in Fig. 29–18. Transitions between
+vibrational energy levels are subject to the selection rule
+so allowed transitions occur only between adjace

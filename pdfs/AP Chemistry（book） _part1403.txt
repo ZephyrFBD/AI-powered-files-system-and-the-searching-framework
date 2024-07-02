@@ -1,0 +1,26 @@
+of the bond increases, as shown by the decrease 
+in the potential energy of the two-atom system. However, Figure 9.13 also shows that 
+the energy increases sharply when the distance between the two hydrogen nuclei is less 
+than 0.74 Å. The increase in potential energy of the system, which becomes significant 
+at short internuclear distances, is due mainly to the electrostatic repulsion between the 
+nuclei. The internuclear distance at the minimum of the potential-energy curve (in 
+(c) Fluorine is more electronegative than sulfur, so the bond 
+dipoles point toward fluorine. For clarity, only one S ¬ F 
+dipole is shown. The six S ¬F bonds are arranged octahedrally 
+around the central sulfur:
+F
+F
+F
+F
+F
+F
+S
+ 
+Because the octahedral molecular geometry is symmetrical, 
+the bond dipoles cancel, and the molecule is nonpolar, mean-
+ing that m = 0.
+ 
+▶Practice Exercise 1
+Consider an AB3 molecule in which A and B differ in elec-
+tronegativity. You are told that the molecule has an over-
+all dipol

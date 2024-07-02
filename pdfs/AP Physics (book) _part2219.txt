@@ -1,0 +1,41 @@
+ere
+were defined independently. The ampere, the unit of current, is now defined in
+terms of the magnetic field it produces using the defined value of 
+In particular, we use the force between two parallel current-carrying wires,
+Eq. 20–7, to define the ampere precisely. If
+exactly, and the two
+wires are exactly 1 m apart, then
+Thus, one ampere is defined as that current flowing in each of two long parallel wires,
+1 m apart, which results in a force of exactly
+per meter of length of each wire.
+This is the precise definition of the ampere, and because it is readily repro-
+ducible, is called an operational definition. The coulomb is defined in terms of
+the ampere as being exactly one ampere-second: 1 C = 1 As.
+2 * 10–7 N
+F
+l
+=
+m0
+2p
+I
+1 I
+2
+d
+=
+A4p * 10–7 TmAB
+(2p)
+(1 A)(1 A)
+(1 m)
+= 2 * 10–7 Nm.
+I
+1 = I
+2 = 1 A
+m0 .
+4p * 10–7 TmA.
+m0
+m0
+4p * 10–7 TmA.
+m0
+20–7 Solenoids and Electromagnets
+A long coil of wire consisting of many loops (or turns) of wire is called a solenoid.
+The curr

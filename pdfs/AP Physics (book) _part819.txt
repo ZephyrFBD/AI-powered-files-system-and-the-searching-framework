@@ -1,0 +1,20 @@
+ 
+of an object is directly 
+proportional to the net applied torque 
+and we see that it is torque that gives rise to angular acceleration. This is the 
+rotational analog of Newton’s second law for linear motion,
+We defined the lever arm as the perpendicular distance from the axis of rota-
+tion to the line of action of the force—that is, the distance which is perpendicular
+both to the axis of rotation and to an imaginary line drawn along the direction of
+the force. We do this to take into account the effect of forces acting at an angle. It
+is clear that a force applied at an angle, such as 
+in Fig. 8–12, will be less effec-
+tive than the same magnitude force applied perpendicular to the door, such as 
+(Fig. 8–12a). And if you push on the end of the door so that the force is directed
+at the hinge (the axis of rotation), as indicated by 
+the door will not rotate at all.
+The lever arm for a force such as 
+is found by drawing a line along the
+direction of 
+(this is the “line of action” of 
+)

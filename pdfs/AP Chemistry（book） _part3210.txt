@@ -1,0 +1,33 @@
+            
+Oxidation: 
+ 
+Cu1s2 ¡ Cu2+1aq2 + 2 e-
+Cu2+1aq2 + H21g2 ¡ Cu1s2 + 2 H+1aq2  E° = +0.34 V
+ E° = E°
+red 1reduction process2 - E°
+red 1oxidation process2
+ = 10 V2 - 10.34 V2 = -0.34 V
+Reduction:  
+Cl21g2 + 2 e- ¡ 2 Cl-1aq2
+Oxidation:  
+    2 I-1aq2 ¡ I21s2 + 2 e-
+SOLUTION
+Sample Exercise 20.9 
+Determining Spontaneity
+We look up standard reduction potentials for both half- 
+reactions and use them to calculate E° using Equation 20.10:
+Because E° is negative, the reaction is not spontaneous in the 
+direction written. Copper metal does not react with acids 
+as written in Equation (a). The reverse reaction, however, is 
+spontaneous and has a positive E° value:
+Thus, Cu2+ can be reduced by H2.
+(b) We follow a procedure analogous to that in (a):
+In this case:
+E° = 11.36 V2 - 10.54 V2 = +0.82 V
+Because the value of E ° is positive, this reaction is sponta-
+neous and could be used to build a voltaic cell.
+(a) I21s2 + 5 Cu2+1aq2 + 6 H2O1l2 ¡
+ 
+2 IO3
+-1aq2 + 5 Cu1s2 + 12 H+1aq2
+(b) Hg2+1

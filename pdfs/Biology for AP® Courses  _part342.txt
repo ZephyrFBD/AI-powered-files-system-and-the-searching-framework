@@ -1,0 +1,13 @@
+ger RNA
+is synthesized in the nucleus. The RNA base sequence is complementary to the coding sequence of the DNA from which
+it has been copied. However, in RNA, the base T is absent and U is present instead. If the DNA strand has a sequence
+AATTGCGC, the sequence of the complementary RNA is UUAACGCG. In the cytoplasm, the mRNA interacts with
+ribosomes and other cellular machinery (Figure 3.36).
+Chapter 3 | Biological Macromolecules
+127
+Figure 3.36 A ribosome has two parts: a large subunit and a small subunit. The mRNA sits in between the two
+subunits. A tRNA molecule recognizes a codon on the mRNA, binds to it by complementary base pairing, and adds
+the correct amino acid to the growing peptide chain.
+The mRNA is read in sets of three bases known as codons. Each codon codes for a single amino acid. In this way, the
+mRNA is read and the protein product is made. Ribosomal RNA (rRNA) is a major constituent of ribosomes on which
+the mRNA binds. The rRNA ensures the proper alignment of the m

@@ -1,0 +1,65 @@
+e. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+ 
+91 
+Use the laws of logarithms to expand each expression. 
+ 
+ 
+ 
+ 
+ 
+ 
+The Laws of Logarithms also allow us to reverse the process of expanding that was done 
+in Example 2. 
+That is, we can write sums and differences of logarithms as a single logarithm. 
+This process, called combining logarithmic expressions, is illustrated in the next example. 
+ 
+Example 3 
+Use the Laws of Logarithms to combine each expression into a single logarithm. 
+ 
+ 
+ 
+ 
+ 
+ 
+2.7.3 Change of Base Formula 
+For some purposes we find it useful to change from logarithms in one base to logarithms in 
+another base. 
+Suppose we are given loga x and want to find logb x. 
+Let y = logb x 
+We write this in exponential form and take the logarithm, with base a, of each side. 
+ 
+92 
+ 
+log
+log
+log
+a
+b
+a
+x
+x
+b
+=
+                                   
+ 
+In particular, if we put x = a, then loga a = 1, and this formula becomes 
+1
+log
+log
+b
+a
+a
+b
+=
+ 
+ 
+Example 4 
+Use the Change of Base Formula and common

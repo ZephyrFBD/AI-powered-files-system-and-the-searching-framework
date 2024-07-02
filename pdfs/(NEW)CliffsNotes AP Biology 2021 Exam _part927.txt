@@ -1,0 +1,25 @@
+ho is heterozygous for red eyes is crossed with a white-eyed male.
+56. What are the expected phenotypic results for this cross with respect to eye color and sex?
+A. 2:1:1:1
+B. 1:1: 1:1
+C. 2:1:2:1
+D. 0:2:0:2
+57. An experimental cross produced the results shown in the following table.
+ 
+What is the chi-square (χ2) statistic for the observed results?
+A. between 0 and 1.99
+B. between 2.0 and 3.99
+C. between 4.0 and 5.99
+D. 6.0 or greater
+58. How many degrees of freedom (df) are there for this experiment?
+A. 1
+B. 2
+C. 3
+D. 4 or more
+59. What can you conclude from the results of the χ2 statistical analysis?
+A. Accept the null hypothesis.
+B. Reject the null hypothesis.
+C. Conclude that the inheritance of this gene is not X-linked. D. Conclude that the mixing of genes was not random.
+Questions 60-63 refer to the following:
+A researcher is investigating the success of a procedure that transfers plasmids to bacteria. She uses a recombinant
+plasmid that contains a gene that gives resistance to th

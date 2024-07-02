@@ -1,0 +1,25 @@
+version Factors
+The average speed of a nitrogen molecule in air at 25 °C is 515 m>s. Convert this speed to miles per hour.
+SOLUTION
+To go from the given units, m/s, to the desired units, mi/hr, we 
+must convert meters to miles and seconds to hours. From our 
+knowledge of SI prefixes we know that 1 km = 103 m. From the 
+relationships given on the back inside cover of the book, we find 
+that 1 mi = 1.6093 km. Thus, we can convert m to km and then 
+convert km to mi. From our knowledge of time we know that 
+60 s = 1 min and 60 min = 1 hr. Thus, we can convert s to min 
+and then convert min to hr. The overall process is
+ 
+ 
+SECTION 1.7   
+Dimensional Analysis 
+31
+ 
+▶Practice Exercise 1
+Fabiola, who lives in Mexico City, fills her car with gas, paying 
+357 pesos for 40.0 L. What is her fuel cost in dollars per gallon,  
+if 1 peso = 0.0759 dollars?  
+(a) $1.18/gal (b) $3.03/gal (c) $1.47/gal (d) $9.68/gal (e) $2.56/gal
+ 
+▶Practice Exercise 2
+A car travels 28 mi per gallon of gasoline. What is

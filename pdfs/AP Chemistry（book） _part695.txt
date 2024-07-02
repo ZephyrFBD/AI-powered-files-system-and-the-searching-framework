@@ -1,0 +1,19 @@
+ot know the numerical value of a system’s internal energy. In thermodynamics, we are 
+mainly concerned with the change in E (and, as we shall see, changes in other quantities as 
+well) that accompanies a change in the system.
+Imagine that we start with a system with an initial internal energy Einitial. The system 
+then undergoes a change, which might involve work being done or heat being transferred. 
+After the change, the final internal energy of the system is Efinal. We define the change in 
+internal energy, denoted ∆E (read “delta E”),* as the difference between Efinal and Einitial:
+ 
+∆E = Efinal - Einitial 
+[5.3]
+We generally cannot determine the actual values of Efinal and Einitial for any system of 
+practical interest. Nevertheless, we can determine the value of ∆E experimentally by 
+ 
+applying the first law of thermodynamics.
+Thermodynamic quantities such as ∆E have three parts:
+1. a number
+2. a unit
+3. a sign
+(1) and (2) together give the magnitude of the change, while (3) give

@@ -1,0 +1,15 @@
+e the internal
+energy increases and the temperature rises. In a diesel engine, the fuel–air mixture
+is rapidly compressed adiabatically by a factor of 15 or more; the temperature
+rise is so great that the mixture ignites spontaneously, without spark plugs.
+Isobaric and Isovolumetric Processes
+Isothermal and adiabatic processes are just two possible processes that can occur.
+Two other simple thermodynamic processes are illustrated on the PV diagrams
+of Fig. 15–4: (a) an isobaric process is one in which the pressure is kept constant,
+so the process is represented by a straight horizontal line on the PV diagram
+(Fig. 15–4a); (b) an isovolumetric (or isochoric) process is one in which the volume
+does not change (Fig. 15–4b). In these, and in all other processes, the first law of
+thermodynamics holds.
+Work Done in Volume Changes
+It is often valuable to calculate the work done in a process. If the pressure is kept
+constant during a process (isobaric), the work done is easily calculated. For 

@@ -1,0 +1,26 @@
+rer (which is used to quicken the heat transfer process
+and thus reduce heat loss to the outside). To take them into account we would
+have to add (small) additional terms to the equation.
+ca = 497 JkgC° L 500 JkgC°.
+ca
+–(76.4 kgC°) ca + 34,300 J + 3690 J = 0.
+± (0.200 kg)(900 JkgC°)(30.5°C - 10.0°C) = 0,
+(0.150 kg)AcaB(30.5°C - 540°C) + (0.400 kg)(4186 JkgC°)(30.5°C - 10.0°C)
+¢T
+maca ¢T
+a + mw cw ¢T
+w + mcalccal ¢T
+cal = 0
+©Q = 0
+Q = mcAT
+f - T
+iB.
+©Q = 0.
+EXAMPLE 14;5
+The exchange of energy, as exemplified in Example 14–4, is the basis for a
+technique known as calorimetry, which is the quantitative measurement of heat
+exchange. To make such measurements, a calorimeter is used; a simple water
+calorimeter is shown in Fig. 14–4. It is very important that the calorimeter be well
+insulated so that almost no heat is exchanged with the surroundings. One impor-
+tant use of the calorimeter is in the determination of specific heats of substances.
+In the technique known as the “method o

@@ -1,0 +1,38 @@
+, reflection of the wave from the
+moving object is equivalent to the object reemitting the wave at the same 
+frequency, and thus acting effectively as a moving source with speed
+(Fig. 12–22b). The final frequency detected,
+is given by
+Eq. 12–2a.
+SOLUTION The frequency 
+that is “detected” by the moving object is
+(Eq. 12–3a):
+The moving object now “emits” (reflects) a sound of frequency (Eq. 12–2a)
+Thus the frequency shifts by 103 Hz.
+NOTE Bats use this technique to be aware of their surroundings. This is also the
+principle behind Doppler radar as speed-measuring devices for vehicles, baseball
+pitches, tennis serves, storms such as tornadoes, and other objects.
+f– =
+f¿
+¢1 - vsource
+vsnd   ≤
+=
+5051 Hz
+¢1 - 3.50 ms
+343 ms ≤
+= 5103 Hz.
+f¿ =
+¢ 1 + vobs
+vsnd
+≤f =
+¢ 1 + 3.50 ms
+343 ms ≤(5000 Hz) = 5051 Hz.
+f¿
+f– = f¿C1 - AvsourcevsndB D,
+f–,
+vsource = 3.50 ms
+f¿ = fC1 + AvobsvsndB D.
+vobs = 3.50 ms
+3.50 ms
+EXAMPLE 12;16
+The emitted wave and the reflected wave in Example 12–16, when m

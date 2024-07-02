@@ -1,0 +1,19 @@
+ts  
+indicate the positions of depressions between atoms.
+ 
+SECTION 12.3   
+Metallic Solids 
+481
+482 
+CHAPTER 12 Solids and Modern Materials
+The extended structure of a hexagonal close-packed metal is shown in 
+Figure 12.14(a). There are two atoms in the primitive hexagonal unit cell, one from each 
+layer. Neither atom sits directly on the lattice points, which are located at the corners of 
+the unit cell. The presence of two atoms in the unit cell is consistent with the two-layer 
+ABAB stacking sequence associated with hcp packing.
+Although it is not immediately obvious, the structure that results from cubic close 
+packing possesses a unit cell that is identical to the face-centered cubic unit cell we 
+encountered earlier [Figure 12.11(c)]. The relationship between the ABC layer stacking 
+and the face-centered cubic unit cell is shown in Figure 12.14(b). In this figure, we see 
+that the layers stack perpendicular to the body diagonal of the cubic unit cell.
+It is not possible to pack 

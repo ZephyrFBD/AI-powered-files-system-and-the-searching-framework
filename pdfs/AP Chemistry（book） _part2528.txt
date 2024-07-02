@@ -1,0 +1,33 @@
+is a proton-transfer reaction, and the position of the 
+equilibrium will favor the proton going to the stronger of two 
+bases. The two bases in the equation are CO3
+2 -, the base in the 
+forward reaction, and SO4
+2 -, the conjugate base of HSO4
+-. We can 
+find the relative positions of these two bases in Figure 16.4 to de-
+termine which is the stronger base.
+Solve The CO3
+2 -  ion appears lower in the right-hand column in 
+Figure 16.4 and is therefore a stronger base than SO4
+2 -. Therefore, 
+CO3
+2- will get the proton preferentially to become HCO3
+-, while 
+SO4
+2 -  will remain mostly unprotonated. The resulting equilib-
+rium lies to the right, favoring products (that is, Kc 7 1):
+HSO4
+-1aq2 + CO3
+2-1aq2 ∆ SO4
+2-1aq2 + HCO3
+-
+  1aq2 Kc 7 1
+Comment Of the two acids HSO4
+-  and HCO3
+-, the stronger one 
+1HSO4
+-2 gives up a proton more readily, and the weaker one 
+1HCO3
+-2 tends to retain its proton. Thus, the equilibrium favors 
+the direction in which the proton moves from the stronger 

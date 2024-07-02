@@ -1,0 +1,13 @@
+ are in the lower state, so the majority of incident pho-
+tons will be absorbed. To obtain the coherent light from stimulated emission, two
+conditions must be satisfied. First, the atoms must be excited to the higher state so
+that an inverted population is produced in which more atoms are in the upper 
+state than in the lower one (Fig. 28–17). Then emission of photons will dominate
+over absorption. And second, the higher state must be a metastable state—a state
+in which the electrons remain longer than usual† so that the transition to the lower
+state occurs by stimulated emission rather than spontaneously.
+Figure 28–18 is a schematic diagram of a laser: the “lasing” material is placed
+in a long narrow tube at the ends of which are two mirrors, one of which is partially
+transparent (transmitting perhaps 1 or 2%). Some of the excited atoms drop
+down fairly soon after being excited. One of these is the blue atom shown on the far
+left in Fig. 28–18. If the emitted photon strikes another at

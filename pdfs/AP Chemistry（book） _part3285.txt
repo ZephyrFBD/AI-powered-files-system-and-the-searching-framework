@@ -1,0 +1,19 @@
+∆G° = -RT ln K2, we can 
+relate E to K as well.
+CELL POTENTIALS UNDER NONSTANDARD CONDITIONS (SEC-
+TION 20.6) The emf of a redox reaction varies with temperature and 
+with the concentrations of reactants and products. The Nernst equa-
+tion relates the emf under nonstandard conditions to the standard 
+emf and the reaction quotient Q:
+ 
+E = E° - 1RT>nF2 ln Q = E° - 10.0592>n2 log Q 
+The factor 0.0592 is valid when T = 298 K. A concentration cell is a 
+voltaic cell in which the same half-reaction occurs at both the anode 
+and the cathode but with different concentrations of reactants in 
+each half-cell. At equilibrium, Q = K and E = 0.
+BATTERIES AND FUEL CELLS (SECTION 20.7) A battery is a 
+self-contained electrochemical power source that contains one or 
+more voltaic cells. Batteries are based on a variety of different redox 
+reactions. Batteries that cannot be recharged are called primary 
+cells, while those that can be recharged are called secondary cells. 
+The common alkaline dry cell

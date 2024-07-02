@@ -1,0 +1,74 @@
+endulum at some
+angle 
+relative to the vertical, and the forces on it:
+downward, and the
+tension 
+in the cord (including its components). These forces do not add up
+to zero if
+and since we have an acceleration a, we expect
+SOLUTION (a) The acceleration  
+is horizontal  
+, and the only
+horizontal force is the x component of 
+(Fig.4–25b). Then from Newton’s
+second law,
+The vertical component of Newton’s second law gives, since
+,
+So
+Dividing these two equations, we obtain
+or
+so
+(b) The velocity is constant, so  
+and  
+Hence the pendulum hangs
+vertically
+NOTE This simple device is an accelerometer—it can be used to determine
+acceleration, by mesuring the angle .
+u
+Au = 0°B.
+tan u = 0.
+a = 0
+u = 7.0°.
+= 0.122,
+ 
+tan u = 1.20 ms2
+9.80 ms2
+tan u =
+F
+T sin u
+F
+T cos u
+=
+ma
+mg =
+a
+g
+mg = F
+T cos u.
+ 
+0 = F
+T cos u - mg.
+ay = 0
+ma = F
+T sin u.
+F
+T sin u
+F
+B
+T,
+(= ax)
+a = 1.20 ms2
+u Z 0.
+u Z 0;
+F
+B
+T
+mg
+B
+u
+v = 90 kmh?
+a = 1.20 ms2,
+u
+EXAMPLE 4;15
+4–8 Problems Involving Friction, Inclines
+Fr

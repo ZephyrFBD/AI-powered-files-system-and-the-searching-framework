@@ -1,0 +1,19 @@
+e statue, which
+remains at rest, so the vector sum of these two forces must be zero (Newton’s second
+law). Hence 
+and 
+must be of equal magnitude and in opposite directions.
+But they are not the equal and opposite forces spoken of in Newton’s third law. The
+action and reaction forces of Newton’s third law act on different objects, whereas the
+two forces shown in Fig.4–14a act on the same object. For each of the forces shown
+in Fig. 4–14a, we can ask, “What is the reaction force?” The upward force 
+on the statue is exerted by the table. The reaction to this force is a force exerted by
+the statue downward on the table. It is shown in Fig. 4–14b, where it is labeled 
+This force,
+exerted on the table by the statue, is the reaction force to 
+in
+accord with Newton’s third law. What about the other force on the statue, the force
+of gravity 
+exerted by the Earth? Can you guess what the reaction is to this
+force? We will see in Chapter 5 that the reaction force is also a gravitational force,
+ex

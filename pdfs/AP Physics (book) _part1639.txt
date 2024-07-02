@@ -1,0 +1,28 @@
+or,
+where 
+is given off and the gas
+cools to become liquid. The liquid
+passes from a high-pressure region,
+via a valve, to low-pressure tubes on
+the inside walls of the refrigerator;
+the liquid evaporates at this lower
+pressure and thus absorbs heat 
+from the inside of the refrigerator.
+The fluid returns to the compressor,
+where the cycle begins again.
+(b) Schematic diagram, like
+Fig. 15–16.
+AQLB
+QH
+A perfect refrigerator—one in which no work is required to take heat from the
+low-temperature region to the high-temperature region—is not possible. This is
+the Clausius statement of the second law of thermodynamics, already mentioned
+in Section 15–4: it can be stated formally as
+no device is possible whose sole effect is to transfer heat from one system at a
+temperature 
+into a second system at a higher temperature 
+To make heat flow from a low-temperature object (or system) to one at a higher
+temperature, work must be done. Thus, there can be no perfect refrigerator.
+TH.
+TL
+EXERCISE E Ret

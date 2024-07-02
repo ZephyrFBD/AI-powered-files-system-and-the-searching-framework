@@ -1,0 +1,22 @@
+e same
+direction, so  
+and  
+in this case,
+For example, if you
+push a loaded grocery cart a distance of 50 m by exerting a horizontal force of
+30 N on the cart, you do  
+of work on the cart.
+As this example shows, in SI units work is measured in newton-meters
+A special name is given to this unit, the joule (J):
+[In the cgs system, the unit of work is called the erg and is defined as
+In British units, work is measured in foot-pounds. Their
+equivalence is  
+]
+A force can be exerted on an object and yet do no work. If you hold a heavy
+bag of groceries in your hands at rest, you do no work on it. You do exert a force
+on the bag, but the displacement of the bag is zero, so the work done by you on
+the bag is
+You need both a force and a displacement to do work. You
+also do no work on the bag of groceries if you carry it as you walk horizontally
+across the floor at constant velocity, as shown in Fig. 6–2. No horizontal force is
+required to move the bag at a constant velocity. The person shown 

@@ -1,0 +1,89 @@
+se the axis at the point where 
+and 
+act.
+Then our torque equation will contain only one unknown,
+because the lever
+arms for
+, and 
+are zero. We choose torques that tend to rotate the
+beam counterclockwise as positive. The weight mg of the (uniform) beam acts
+at its center, so we have
+We solve for 
+(iii)
+Next, since the tension 
+in the cable acts along the cable
+we see
+from Fig. 9–10 that
+or
+(iv)
+Equation (i) above gives
+Equations (iv) and (ii) give
+The components of 
+are
+and
+The tension in the
+wire is
+†
+F
+T = 2F2
+Tx + F2
+Ty = 2(686 N)2 + (396 N)2 = 792 N.
+F
+Hx = 686 N.
+F
+Hy = 123 N
+F
+B
+H
+F
+Hx = F
+Tx = 686 N.
+F
+Tx = F
+Tytan 30.0° = 396 Ntan 30.0° = 686 N;
+F
+Ty = (m + M)g - F
+Hy = (53.0kg)(9.80 ms2) - 123 N = 396 N.
+F
+Ty = F
+Tx tan u = F
+Tx (tan 30.0°).
+tan u = F
+TyF
+Tx,
+(u = 30.0°),
+F
+B
+T
+F
+Hy =
+a 1.10 m
+2.20 m b mg = (0.500)(25.0 kg)A9.80 ms2B
+= 123 N.
+F
+Hy:
+©t = 0
+–AF
+HyB(2.20 m) + mg(1.10 m) = 0.
+F
+Hx
+Mg
+B
+F
+B
+T,
+F
+Hy,
+Mg
+B
+F
+B
+T
+F
+Hx - F
+Tx = 0.
+©F
+x = 0
+F
+Hy + F
+Ty - mg - Mg 

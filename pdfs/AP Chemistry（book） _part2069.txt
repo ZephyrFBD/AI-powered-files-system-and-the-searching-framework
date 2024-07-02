@@ -1,0 +1,21 @@
+ters soln = 1230 g2a 1 mL
+0.876 gb = 263 mL
+SOLUTION
+Sample Exercise 13.6 
+Calculation of Molarity Using the Density of the Solution
+Plan The molarity of a solution is the number of moles of solute 
+divided by the number of liters of solution (Equation 13.8). The 
+number of moles of solute 1C7H82 is calculated from the number of 
+grams of solute and its molar mass. The volume of the solution is ob-
+tained from the mass of the solution (mass of solution =  mass of 
+solute + mass of solvent = 5.0 g + 225 g = 230 g) and its density.
+The density of the solution is used to con-
+vert the mass of the solution to its volume:
+Molarity is moles of solute per liter of 
+solution:
+542 
+CHAPTER 13 Properties of Solutions
+13.5 ∣ Colligative Properties
+Some physical properties of solutions differ in important ways from those of the pure 
+solvent. For example, pure water freezes at 0 °C, but aqueous solutions freeze at lower 
+temperatures. We apply this behavior when we add ethylene glycol antifreeze t

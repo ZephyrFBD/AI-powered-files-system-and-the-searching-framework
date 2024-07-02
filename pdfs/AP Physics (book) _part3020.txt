@@ -1,0 +1,26 @@
+tic wave of frequency f should set electrons into oscillation at frequency f;
+and such oscillating electrons would reemit EM waves of this same frequency f
+(Section 22–2), which would not change with angle 
+Hence the Compton
+effect adds to the firm experimental foundation for the photon theory of light.
+EXERCISE D When a photon scatters off an electron by the Compton effect, which of
+the following increases: its energy, frequency, wavelength?
+X-ray scattering. X-rays of wavelength 0.140 nm are
+scattered from a very thin slice of carbon. What will be the wavelengths of X-rays
+scattered at (a) 0°, (b) 90°, (c) 180°?
+APPROACH This is an example of the Compton effect, and we use Eq. 27–7 to
+find the wavelengths.
+SOLUTION (a) For 
+and 
+Then Eq. 27–7
+gives 
+This makes sense since for 
+there really isn’t
+any collision as the photon goes straight through without interacting.
+(b) For
+and
+So
+that is, the wavelength is longer by one Compton wavelength 
+for an electron).
+(c) For
+which means the ph

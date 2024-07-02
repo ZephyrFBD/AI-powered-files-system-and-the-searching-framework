@@ -1,0 +1,22 @@
+ ease of oxidation or reduction. Silver ion, for example, is readily reduced in 
+water,
+ 
+Ag+(aq) + e- ¡ Ag(s)  E° = +0.799 V 
+ 
+[23.2]
+but the 3Ag(CN)24- ion is not so easily reduced because complexation by CN- ions stabi-
+lizes silver in the +1 oxidation state:
+ 
+3Ag(CN)24-(aq) + e- ¡ Ag(s) + 2 CN-(aq) E° = -0.31 V 
+[23.3]
+Palladium(II) tends to form complexes with coordination number 4. A compound has the composition PdCl2 # 3 NH3. (a) Write the 
+formula for this compound that best shows the coordination structure. (b) When an aqueous solution of the compound is treated 
+with excess AgNO3(aq), how many moles of AgCl(s) are formed per mole of PdCl2 # 3 NH3?
+Sample Exercise 23.1 
+Identifying the Coordination Sphere of a Complex
+SOLUTION
+Analyze We are given the coordination number of Pd(II) and a 
+chemical formula indicating that the complex contains NH3 and 
+Cl-. We are asked to determine (a) which ligands are attached to 
+Pd(II) in the compound and (b) how the compound behaves to-
+w

@@ -1,0 +1,25 @@
+the pulley, as well
+as any friction, is small and ignorable. These assumptions ensure that the 
+tension 
+in the cable has the same magnitude on both sides of the pulley. Let the
+mass of the counterweight be  
+Assume the mass of the empty
+elevator is 850 kg, and its mass when carrying four passengers is
+For the latter case
+calculate (a) the acceleration of the 
+elevator and (b) the tension in the cable.
+APPROACH Again we have two objects, and we will need to apply Newton’s
+second law to each of them separately. Each mass has two forces acting on it:
+gravity downward and the cable tension pulling upward,
+Figures 4–23b
+and c show the free-body diagrams for the elevator 
+and for the counter-
+weight 
+The elevator, being the heavier, will accelerate downward,
+whereas the counterweight will accelerate upward. The magnitudes of their
+accelerations will be equal (we assume the cable is massless and doesn’t stretch).
+For the counterweight,
+so 
+must be
+greater than 9800 N (in order that 
+will acc

@@ -1,0 +1,34 @@
+cceleration of
+gravity, at (a) 6400 m, and (b) 6400 km, above the Earth’s
+surface.
+40. (II) You are explaining to friends why an astronaut feels
+weightless orbiting in the space shuttle, and they respond
+that they thought gravity was just a lot weaker up there.
+Convince them that it isn’t so by calculating how much
+weaker (in %) gravity is 380 km above the Earth’s surface.
+41. (II) Every few hundred years most of the planets line up
+on the same side of the Sun. Calculate the total force on
+the Earth due to Venus, Jupiter, and Saturn, assuming all
+four planets are in a line, Fig. 5–44. The masses are
+and the
+mean distances of the four planets from the Sun are 
+108, 150, 778, and 1430 million km. What fraction of the
+Sun’s force on the Earth is this?
+mSat = 95.1 mE,
+mJ = 318 mE,
+mV = 0.815 mE,
+Moon
+θ
+Sun
+Earth
+ME
+MS
+F
+B
+F
+B
+FIGURE 5;43 Problem 36.
+Orientation of Sun (S), Earth (E),
+and Moon (M) at right angles to
+each other (not to scale).
+42. (II) Four 7.5-kg spheres are located at the 

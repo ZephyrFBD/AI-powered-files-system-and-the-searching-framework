@@ -1,0 +1,20 @@
+e atoms are represented by their chemical symbols, and lines are used to represent the 
+bonds that hold the atoms together.
+60 
+CHAPTER 2 Atoms, Molecules, and Ions
+A structural formula does not typically depict the actual geometry of the molecule, 
+that is, the actual angles at which atoms are joined; for that, more sophisticated repre-
+sentations are needed (Figure  2.18).
+t 
+Perspective drawings use wedges and dashed lines to depict bonds that are not 
+in the plane of the paper. This gives a crude sense of the three-dimensional shape 
+of a molecule.
+t 
+Ball-and-stick models show atoms as spheres and bonds as sticks. This type of 
+model has the  
+advantage of accurately representing the angles at which the atoms 
+are attached to one another in a molecule (Figure 2.18). Sometimes the chemical 
+symbols of the elements are superimposed on the balls, but often the atoms are 
+identified simply by color.
+t 
+Space-filling models depict what a molecule would look like if the atoms were

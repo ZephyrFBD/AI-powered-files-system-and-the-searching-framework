@@ -1,0 +1,71 @@
+9.5 s) = 71.4 m L 71 m.
+59.5 s.
+t = 110 m1.85 ms =
+t,
+vBW = Dt.
+D = 110 m,
+= 33.0°.
+tan–1(0.6486)
+u =
+tan–1
+tan u = vWSvBW = (1.20 ms)(1.85 ms) = 0.6486.
+u
+vBS = 3vBW
+2
++ vWS
+2
+= 3(1.85 ms)2 + (1.20 ms)2 = 2.21 ms.
+vBS
+v
+B
+WS,
+v
+B
+BW
+v
+B
+BS = v
+B
+BW + v
+B
+WS.
+v
+B
+WS :
+v
+B
+BW ,
+v
+B
+BS,
+1.20 ms.
+AvBW = 1.85 msB
+EXAMPLE 3;11
+66
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+BS
+BW
+WS
+v
+B
+v
+B
+v
+B
+θ
+River current
+FIGURE 3;30 Example 3–11.
+A boat heading directly across a 
+river whose current moves at
+1.20 ms.
+A quantity such as velocity, that has both a magnitude and a
+direction, is called a vector. A quantity such as mass, that has
+only a magnitude, is called a scalar. On diagrams, vectors are
+represented by arrows.
+Addition of vectors can be done graphically by placing the
+tail of each successive arrow at the tip of the previous one. The
+sum, or resultant vector, is the arrow drawn from the tail of the
+first vector to the tip of the last vector. Two vectors can also be
+added

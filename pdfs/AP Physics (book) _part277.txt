@@ -1,0 +1,31 @@
+ins just after
+the football loses contact with the foot until the ball reaches its maximum height.
+During this time interval, the acceleration is g downward. At the maximum
+height, the velocity is horizontal (Fig.3–23), so
+This occurs at a time given
+by
+with
+(see Eq. 2–11a in Table 3–2), so
+and
+From Eq. 2–11b, with
+we can solve for y at this time 
+:
+The maximum height is 7.35 m. [Solving Eq. 2–11c for y gives the same result.]
+(b) To find the time it takes for the ball to return to the ground, we consider a
+different time interval, starting at the moment the ball leaves the foot  
+and ending just before the ball touches the ground (
+again).
+We can use Eq. 2–11b with
+and also set
+(ground level):
+This equation can be factored:
+There are two solutions,
+(which corresponds to the initial point,
+), and
+which is the total travel time of the football.
+(c) The total distance traveled in the x direction is found by applying Eq. 2–11b
+with
+, and
+:
+NOTE In (b),the time needed for the whole trip,
+i

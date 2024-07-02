@@ -1,0 +1,26 @@
+ object is placed at the
+focal point or just within it. Then the converging lens produces a virtual image,
+which must be at least 25 cm from the eye if the eye is to focus on it. If the eye is
+relaxed, the image will be at infinity, and in this case the object is exactly at the
+focal point. (You make this slight adjustment yourself when you “focus” on the
+object by moving the magnifying glass.)
+N = 25 cm
+722
+CHAPTER 25
+Optical Instruments
+†Simple single-lens magnifiers are limited to about 2 or 
+because of blurring due to spherical
+aberration (Section 25–6).
+3*
+Image
+Image
+θ
+(a)
+θ
+(b)
+A comparison of part (a) of Fig. 25–17 with part (b), in which the same
+object is viewed at the near point with the unaided eye, reveals that the angle the
+object subtends at the eye is much larger when the magnifier is used. The angular
+magnification or magnifying power, M, of the lens is defined as the ratio of the
+angle subtended by an object when using the lens, to the angle subtended using
+the unaide

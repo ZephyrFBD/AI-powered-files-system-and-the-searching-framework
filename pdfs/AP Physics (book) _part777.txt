@@ -1,0 +1,29 @@
+block, rising temperature, etc.)
+in the collision between the bullet and the block?
+*7;7 Collisions in 
+T
+wo Dimensions
+*44. (II) Billiard ball A of mass  
+moving with
+speed  
+strikes ball B, initially at rest, of
+mass  
+As a result of the collision, ball A 
+is deflected off at an angle of 30.0° with a speed
+(a) Taking the x axis to be the original
+direction of motion of ball A, write down the equations
+expressing the conservation of momentum for the compo-
+nents in the x and y directions separately. (b) Solve these
+equations for the speed,
+and angle,
+of ball B after
+the collision. Do not assume the collision is elastic.
+*45. (II) A radioactive nucleus at rest decays into a second
+nucleus, an electron, and a neutrino. The electron and 
+neutrino are emitted at right angles and have momenta of
+and
+respectively.
+Determine the magnitude and the direction of the momen-
+tum of the second (recoiling) nucleus.
+*46. (III) Billiard balls A and B, of equal mass, move at right
+angles and meet at t

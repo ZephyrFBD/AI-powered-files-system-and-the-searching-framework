@@ -1,0 +1,25 @@
+ed in coulombs per second; this is given a special
+name, the ampere (abbreviated amp or A), after the French physicist André Ampère
+(1775–1836). Thus,
+Smaller units of current are often used, such as
+the milliampere  
+and microampere  
+A current can flow in a circuit only if there is a continuous conducting path.
+We then have a complete circuit. If there is a break in the circuit, say, a cut wire,
+we call it an open circuit and no current flows. In any single circuit, with only a single
+path for current to follow such as in Fig. 18–6b, a steady current at any instant is the
+same at one point (say, point A) as at any other point (such as B). This follows
+from the conservation of electric charge: charge doesn’t disappear. A battery does
+not create (or destroy) any net charge, nor does a lightbulb absorb or destroy charge.
+A1 mA = 10–6 AB.
+A1 mA = 10–3 AB
+1 A = 1 Cs.
+¢t.
+¢Q
+I =
+¢Q
+¢t
+,
+ 
+Current is flow of charge. A steady current of 2.5 A exists
+in a wire for 4.0 min. (a) How much tot

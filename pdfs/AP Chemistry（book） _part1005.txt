@@ -1,0 +1,17 @@
+subshell with more than one degenerate orbital, such as the 2p sub-
+shell, Hund’s rule states that the lowest energy is attained by max-
+imizing the number of electrons with the same electron spin. For 
+example, in the ground-state electron configuration of carbon, the 
+two 2p electrons have the same spin and must occupy two different 
+2p orbitals.
+Elements in any given group in the periodic table have the same 
+type of electron arrangements in their outermost shells. For example, 
+the electron configurations of the halogens fluorine and chlorine are 
+3He42s22p5 and 3Ne43s23p5, respectively. The outer-shell electrons are 
+those that lie outside the orbitals occupied  in the next lowest noble-
+gas element. The outer-shell electrons that are involved in chemical 
+bonding are the valence electrons of an atom; for the elements with 
+atomic number 30 or less, all of the outer-shell electrons are valence 
+electrons. The electrons that are not valence electrons are called core 
+electrons.
+The

@@ -1,0 +1,20 @@
+1aq2
+∆ H2O1l2 + CO21g2 
+[17.10]
+Several aspects of these equilibria are notable. First, although 
+carbonic acid is diprotic, the carbonate ion 1CO3
+2 -2 is unimportant 
+in this system. Second, one component of this equilibrium, CO2, is a 
+gas, which provides a mechanism for the body to adjust the equilib-
+ria. Removal of CO2 via exhalation shifts the equilibria to the right, 
+consuming H+ ions. Third, the buffer system in blood operates at 
+pH 7.4, which is fairly far removed from the pKa1 value of H2CO3 
+(6.1 at physiological temperatures). For the buffer to have a pH of 
+7.4, the ratio [base]/[acid] must be about 20. In normal blood plas-
+ma, the concentrations of HCO3
+- and H2CO3 are about 0.024 M and 
+0.0012 M, respectively. Consequently, the buffer has a high capacity 
+to neutralize additional acid but only a low capacity to neutralize 
+additional base.
+The principal organs that regulate the pH of the carbonic acid–
+bicarbonate buffer system are the lungs and kidneys. When the con

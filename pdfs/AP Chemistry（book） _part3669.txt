@@ -1,0 +1,13 @@
+or example, we saw in Figure 16.18 that a water molecule in 
+3Fe(H2O)643+(aq) can be deprotonated to yield 3Fe(H2O)5OH42+(aq) and H+(aq). The 
+iron ion retains its oxidation state; the coordinated hydroxide ligand, with a 1- charge, 
+reduces the complex charge to 2+. Ligands can also be displaced from the coordination 
+sphere by other ligands, if the incoming ligands bind more strongly to the metal ion 
+than the original ones. For example, ligands such as NH3, NCS-, and CN- can replace 
+H2O in the coordination sphere of metal ions.
+Charges, Coordination Numbers, and Geometries
+The charge of a complex is the sum of the charges on the metal and on the ligands. In 
+3Cu(NH3)44SO4 we can deduce the charge on the complex ion because we know that the 
+charge of the sulfate ion is 2-. Because the compound is electrically neutral, the complex 
+ion must have a 2+ charge, 3Cu(NH3)442+. We can then use the charge of the complex ion 
+to deduce the oxidation number of copper. Because the NH3 ligands

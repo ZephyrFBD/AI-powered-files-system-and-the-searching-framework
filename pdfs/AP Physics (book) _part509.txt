@@ -1,0 +1,48 @@
+astronauts experience so many g’s at a rocket’s launch.
+If, instead, the elevator’s acceleration is 
+(downward), then
+That is, the scale reads half the actual weight. If the
+elevator is in free fall (for example, if the cables break), then
+and
+The scale reads zero. See Fig. 5–24c. The bag appears weight-
+less. If the person in the elevator accelerating at 
+let go of a box, it would 
+not fall to the floor. True, the box would be falling with acceleration g. But so
+would the floor of the elevator and the person. The box would hover right 
+in front of the person. This phenomenon is called apparent weightlessness
+because in the reference frame of the person, objects don’t fall or seem to have
+weight—yet gravity does not disappear. Gravity is still acting on each object,
+whose weight is still mg.
+–g
+w = mg - mg = 0.
+a = –g
+w = mg - 1
+2 mg = 1
+2 mg.
+a = – 1
+2 g
+1 1
+2
+1 1
+2
+1 1
+2
+1 1
+2
+=
+3
+2 mg.
+w = mg + mA1
+2 gB
+1
+2 g
+a
+B
+v
+B
+[a is + upward]
+w = mg + ma.
+w - mg = ma.
+©F = ma,
+w = mg,
+w - mg 

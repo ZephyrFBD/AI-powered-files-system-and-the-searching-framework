@@ -1,0 +1,37 @@
+ength; then
+equals the total number of atoms in 
+SOLUTION The mass of 1 copper atom is 
+This means that in a cube of copper 1 m on a side
+there are
+The volume of a cube of side is
+so on one edge of the 1-m-long cube
+there are
+Hence the distance between
+neighboring atoms is
+NOTE Watch out for units. Even though “atoms” is not a unit, it is helpful to
+include it to make sure you calculate correctly.
+NOTE The distance between atoms is essentially what we mean when we speak of
+the size or diameter of an atom. So we have calculated the size of a copper atom.
+1 m
+4.4 * 109 atoms = 2.3 * 10–10 m.
+A8.5 * 1028B
+1
+3 atoms = 4.4 * 109 atoms.
+V = l3,
+l
+8.9 * 103 kg
+1.05 * 10–25 kgatom = 8.5 * 1028 atoms.
+Avolume = 1 m3B,
+1.05 * 10–25 kg.
+63 u = 63 * 1.66 * 10–27 kg =
+1 m3.
+(N)(N)(N) = N3
+1 m3.
+V = 1 m3 (m = rV).
+r
+8.9 * 103 kgm3,
+EXAMPLE 13;1
+ESTIMATE
+13–2 Temperature and Thermometers
+In everyday life, temperature is a measure of how hot or cold something is. A hot
+oven is said to have a high te

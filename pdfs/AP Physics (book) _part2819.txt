@@ -1,0 +1,13 @@
+esolution of a lens. The first is lens aberrations.
+As we just saw, because of spherical and other aberrations, a point object is not a
+point on the image but a tiny blob. Careful design of compound lenses can reduce
+aberrations significantly, but they cannot be eliminated entirely. The second factor
+that limits resolution is diffraction, which cannot be corrected for because it is a
+natural result of the wave nature of light. We discuss it now.
+In Section 24–5, we saw that because light travels as a wave, light from a point
+source passing through a slit is spread out into a diffraction pattern (Figs. 24–19
+and 24–21). A lens, because it has edges, acts like a round slit. When a lens forms
+the image of a point object, the image is actually a tiny diffraction pattern. Thus
+an image would be blurred even if aberrations were absent.
+In the analysis that follows, we assume that the lens is free of aberrations, so we
+can concentrate on diffraction effects and how much they limit the resolut

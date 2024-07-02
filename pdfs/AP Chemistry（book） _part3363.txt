@@ -1,0 +1,36 @@
+to the shell structure for 
+electrons in atoms. Just as certain numbers of electrons correspond to stable filled-shell 
+electron configurations, so too do certain numbers (known as magic numbers) of nucle-
+ons represent filled shells in nuclei.
+There are several examples of the stability of nuclei with magic numbers of nucle-
+ons. For example, the radioactive series in Figure 21.2 ends with the stable 206
+82Pb nucleus, 
+which has a magic number of protons (82). Another example is the observation that tin, 
+which has a magic number of protons (50), has ten stable isotopes, more than any other 
+element.
+Evidence also suggests that pairs of protons and pairs of neutrons have a special sta-
+bility, analogous to the pairs of electrons in molecules. This evidence accounts for the 
+TABLE 21.4 Number of Stable 
+Isotopes with Even and Odd 
+Numbers of Protons and 
+Neutrons
+Number of  
+Stable Isotopes
+Proton 
+Number
+Neutron 
+Number
+157
+Even
+Even
+ 53
+Even
+Odd
+ 50
+Odd
+Even
+  5
+Odd
+Odd
+Go Figure
+Wri

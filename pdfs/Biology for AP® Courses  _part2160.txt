@@ -1,0 +1,10 @@
+ll fitness
+(reproductive success) compared to the rest of the population. In other words, natural selection favors the most adaptive
+variation for a given environment. If the fit phenotypes are evolving in a stable environment, natural selection results in
+stabilizing selection, resulting in an overall decrease in the population’s variation. However, if environmental conditions
+change, directional selection shifts a population’s variance toward a new and more favorable phenotype. Diversifying
+selection results in increased variance by selecting for two or more distinct phenotypes.
+Sexual selection results when one sex has more reproductive success than the other; as a result, males and females
+experience different selective pressures, which often lead to distinct phenotypic differences, or sexual dimorphisms,
+between the two. For example, male birds often exhibit more colorful plumage than female birds of the same species.
+What is most important to recognize is that there is no perfect

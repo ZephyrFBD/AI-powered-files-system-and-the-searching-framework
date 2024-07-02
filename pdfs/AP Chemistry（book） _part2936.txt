@@ -1,0 +1,29 @@
+cal process should be chosen to minimize the potential for chemical 
+accidents, including releases, explosions, and fires.*
+Give It Some Thought
+Explain how a chemical reaction that uses a catalyst can be “greener” than the 
+same reaction run without a catalyst.
+To illustrate how green chemistry works, consider the manufacture of styrene, an 
+important building block for many polymers, including the expanded polystyrene pack-
+ages used to pack eggs and restaurant takeout food. The global demand for styrene is 
+more than 25 billion kg per year. For many years, styrene has been produced in a two-step 
+process: Benzene and ethylene react to form ethyl benzene, followed by the ethyl ben-
+zene being mixed with high-temperature steam and passed over an iron oxide catalyst to 
+form styrene:
+H2C
+CH2
+CH
+CH2
+CH2CH3
++
+−H2
+Acid
+catalyst
+Iron oxide
+catalyst
+Benzene
+Ethylene
+Ethyl benzene
+Styrene
+This process has several shortcomings. One is that both benzene, which is formed 
+from crude oil, and et

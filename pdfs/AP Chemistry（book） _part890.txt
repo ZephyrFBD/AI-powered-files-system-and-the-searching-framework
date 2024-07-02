@@ -1,0 +1,14 @@
+tted (quanta 
+being the plural of quantum). Because the energy can be released only in specific amounts, 
+we say that the allowed energies are quantized—their values are restricted to certain quan-
+tities. Planck’s revolutionary proposal that energy is quantized was proved correct, and he 
+was awarded the 1918 Nobel Prize in Physics for his work on quantum theory.
+If the notion of quantized energies seems strange, it might be helpful to draw an 
+analogy by comparing a ramp and a staircase (Figure 6.6). As you walk up a ramp, your 
+potential energy increases in a uniform, continuous manner. When you climb a stair-
+case, you can step only on individual stairs, not between them, so that your potential 
+energy is restricted to certain values and is therefore quantized.
+If Planck’s quantum theory is correct, why are its effects not obvious in our daily lives? 
+Why do energy changes seem continuous rather than quantized, or “jagged”?  
+Notice that 
+the Planck constant is an extremely small n

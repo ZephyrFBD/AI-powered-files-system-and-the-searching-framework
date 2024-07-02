@@ -1,0 +1,32 @@
+s pC1, pC2, and pC3 are
+closest to ___.
+a.
+pC1 = 0.57 pC2 = 0.57 pC3 = 0.59
+b.
+pC1 = 0.29 pC2 = 0.29 pC3 = 0.42
+c.
+pC1 = 0.61 pC2 = 0.80 pC3 = 0.59
+d.
+pC1 = 0.31 pC2 = 0.40 pC3 = 0.29
+E. In order to investigate the presence of selection at the
+cellulase locus due to changing temperature, a biologist
+should:
+a.
+calculate the values of the sums pC1 + pC2 + pC3
+and (pC1 + pC2 + pC3)2. If these numbers are not
+equal to 1, the gene is not in Hardy-Weinberg
+equilibrium, and the gene is evolving.
+b.
+return next year and repeat this examination of
+the enzyme, calculating frequencies of each
+allele each year. Then calculate the values of the
+sums pC1 + pC2 + pC3 and (pC1 + pC2 + pC3)2. If
+these numbers are not the same each year, the
+gene is not in Hardy-Weinberg equilibrium, and
+the gene is evolving.
+c.
+return each year for several years and repeat this
+examination of the enzyme, calculating
+frequencies of each allele each year. If the allele
+frequencies are changing, the gene is not in
+Hardy-

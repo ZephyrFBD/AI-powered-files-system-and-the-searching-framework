@@ -1,0 +1,36 @@
+ce if we know 
+The hand is brought to rest over the dis-
+tance of roughly a centimeter:
+The average speed during the
+impact is  
+and equals 
+Thus  
+or 2 ms. The average force is thus (Eq. 7–4) about
+f =
+¢p
+¢t
+= 10 kgms
+2 * 10–3 s
+L 5000 N = 5 kN.
+A10–2 mB(5 ms) = 2 * 10–3 s
+¢t = ¢x v L
+¢x¢t.
+v = (10 ms + 0)2 = 5 ms
+¢x L 1 cm.
+¢t.
+f ¢t = ¢p = m ¢v L (1 kg)(10 ms - 0) = 10 kgms.
+F¢t
+m L 1 kg.
+10 ms
+10 ms
+EXAMPLE 7;6
+ESTIMATE
+7–4 Conservation of Energy and
+Momentum in Collisions
+During most collisions, we usually don’t know how the collision force varies 
+over time, and so analysis using Newton’s second law becomes difficult or impos-
+sible. But by making use of the conservation laws for momentum and energy,
+we can still determine a lot about the motion after a collision, given the motion
+before the collision. We saw in Section 7–2 that in the collision of two objects
+such as billiard balls, the total momentum is conserved. If the two objects are
+very hard and no heat or oth

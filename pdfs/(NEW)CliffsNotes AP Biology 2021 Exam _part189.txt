@@ -1,0 +1,14 @@
+portant example of ligand-gated ion channel involves acetylcholine, a neurotransmitter that is the signaling
+molecule that transmits nerve impulses between nerve cells (neurons). A neuron that is transmitting a signal releases
+acetylcholine into the extracellular space between neurons (the synaptic cleft, or synapse). When acetylcholine
+binds to the ligandgated receptor molecules of the receiving neuron, the receptor molecules
+open a gated channel that allows sodium ions (Na+) to enter the cell. As Na+enters the cell, the inside of the cell
+becomes more positive. This
+change in membrane voltage (called an action potential) initiates a nerve impulse. Neurons stimulate muscle
+contraction in a similar process. (More details on nerve transmission and muscle contraction are presented in
+Chapter 13, “Animal Form and Function.”)
+Figure 6-2
+An example of a voltage-gated ion channel is the transmission of a nerve impulse along a neuron. When the ligand-
+gated-ion receptor responds to
+ 
+acetylch

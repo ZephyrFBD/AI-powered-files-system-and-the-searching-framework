@@ -1,0 +1,13 @@
+ form Na+1g2 for instance, 
+requires 496 kJ>mol. Recall from Section 7.5 that when a nonmetal gains an electron, the 
+process is generally exothermic, as seen from the negative electron affinities of the ele-
+ments. Adding an electron to Cl(g), for example, releases 349 kJ>mol. From the magni-
+tudes of these energies, we can see that the transfer of an electron from an Na atom to a 
+Cl atom would not be exothermic—the overall process would be an endothermic process 
+that requires 496 - 349 = 147 kJ>mol. This endothermic process corresponds to the 
+formation of sodium and chloride ions that are infinitely far apart—in other words, the 
+positive energy change assumes that the ions do not interact with each other, which is 
+quite different from the situation in ionic solids.
+The principal reason ionic compounds are stable is the attraction between ions of 
+opposite charge. This attraction draws the ions together, releasing energy and causing 
+many ions to form a solid array, or lattice, s

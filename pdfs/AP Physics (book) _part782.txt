@@ -1,0 +1,45 @@
+A
+has velocity 
+and asteroid B
+has velocity 
+in the opposite
+direction. If the asteroids stick together, what is the veloc-
+ity (magnitude and direction) of the new asteroid after the
+collision?
+69. A ball is dropped from a height of 1.60 m and rebounds to a
+height of 1.20 m. Approximately how many rebounds will
+the ball make before losing 90% of its energy?
+70. A 4800-kg open railroad car coasts at a constant speed of
+on a level track. Snow begins to fall vertically and fills
+the car at a rate of 
+Ignoring friction with the
+tracks, what is the car’s speed after 60.0 min? (See Section 7–2.)
+3.80 kgmin.
+7.60 ms
+1.4 kms
+AmB = 1.45 * 1013 kgB
+3.3 kms
+AmA = 7.5 * 1012 kgB
+General Problems
+mA =
+ 435 kg
+vA =
+ 4.50 m/s
+mB =
+ 495 kg
+vB =
+ 3.70 m/s
+(b)
+v′
+A
+v′B
+(a)
+A
+B
+A
+B
+FIGURE 7;43 Problem 71:
+(a) before collision, (b) after collision.
+71. Two bumper cars in an amusement park ride collide elas-
+tically as one approaches the other directly from the rear
+(Fig. 7–43). Car A has a mass of 43

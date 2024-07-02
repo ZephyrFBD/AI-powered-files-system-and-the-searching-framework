@@ -1,0 +1,28 @@
+0–7 mB
+l.
+Search and Learn
+643
+A: (c).
+B: (b).
+C: (a) 
+(b) 5.5 * 1018 Hz.
+3.8 * 106 Hz;
+D: 45 cm.
+E: Yes; the signal still travels 72,000 km.
+F: Over 4 hours.
+ANSWERS TO EXERCISES
+1. How practical is solar power for various devices? Assume
+that on a sunny day, sunlight has an intensity of 
+at the surface of Earth and that a solar-cell panel can 
+convert 20% of that sunlight into electric power. Calculate
+the area A of solar panel needed to power (a) a calculator
+that consumes 50 mW, (b) a hair dryer that consumes 1500 W,
+(c) a car that would require 40 hp. (d) In each case, would
+the area A be small enough to be mounted on the device
+itself, or in the case of (b) on the roof of a house?
+2. A powerful laser portrayed in a movie provides a 3-mm
+diameter beam of green light with a power of 3 W.
+A good agent inside the Space Shuttle aims the laser beam
+at an enemy astronaut hovering outside. The mass of the
+enemy astronaut is 120 kg and the Space Shuttle 103,000 kg.
+(a) Determine the “radi

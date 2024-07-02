@@ -1,0 +1,27 @@
+nging by strings and separated by a distance r1, 
+as shown in the accompanying illustration. Suppose they 
+are separated to a larger distance r2, by moving them apart. 
+ 
+(a) What change, if any, has occurred in the potential energy 
+of the system? (b) What effect, if any, does this process have 
+on the value of ∆E? (c) What can you say about q and w for 
+this process?
+r1
+1
+2
+r2
+1
+2
+Out
+In
+The First Law of Thermodynamics (section 5.2)
+ 5.21 (a) Which of the following cannot leave or enter a closed sys-
+tem: heat, work, or matter? (b) Which cannot leave or enter 
+an isolated system? (c) What do we call the part of the uni-
+verse that is not part of the system?
+ 5.22 In a thermodynamic study, a scientist focuses on the proper-
+ties of a solution in an apparatus as illustrated. A solution is 
+continuously flowing into the apparatus at the top and out at 
+the bottom, such that the amount of solution in the appara-
+tus is constant with time. (a) Is the solution in the apparatus 
+a closed sy

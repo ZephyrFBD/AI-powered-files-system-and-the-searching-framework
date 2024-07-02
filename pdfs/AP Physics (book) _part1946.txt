@@ -1,0 +1,49 @@
+on a cell
+capacitor’s negative plate? (b) After charge has been placed
+on a cell capacitor’s plate, it slowly “leaks” off at a rate of
+about 
+How long does it take for the potential
+difference across this capacitor to decrease by 2.0% from
+its fully charged value? (Because of this leakage effect, the
+charge on a DRAM capacitor is “refreshed” many times
+per second.) Note: A DRAM cell is shown in Fig. 21–29.
+0.30 fCs.
+A1 fF = 10–15 FB
+d = 3.0 mm
+3.0 mm
+K = 3.2
+35 V
+35 V
+(a)
+(b)
+A = 2.0 m2
+FIGURE 17–51
+Problem 96.
+501
+C
+H
+A
+P
+T
+E
+R
+Electric Currents
+CONTENTS
+18–1 The Electric Battery
+18–2 Electric Current
+18–3 Ohm’s Law: Resistance 
+and Resistors
+18–4 Resistivity
+18–5 Electric Power
+18–6 Power in Household Circuits
+18–7 Alternating Current
+*18–8 Microscopic View of 
+Electric Current
+*18–9 Superconductivity
+*18–10 Electrical Conduction in the
+Human Nervous System
+18
+The glow of the thin wire filament of
+incandescent lightbulbs is caused by
+the electric current passing through it.
+Electric

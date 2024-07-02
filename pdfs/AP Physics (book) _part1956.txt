@@ -1,0 +1,40 @@
+ small quartz 
+tube filled with a halogen gas (bromine or
+iodine) which allows longer filament life and
+higher filament temperature for greater
+efficiency and whiteness.
+(a) One D-cell
+(b) Two AA batteries
+Electrolyte
+paste
+(inside)
++ Terminal
+(top of carbon
+electrode)
+Negative electrode
+(zinc cup)
+−Terminal
+Insulation
+FIGURE 18–4 (a) Diagram of an ordinary dry cell (like a D-cell 
+or AA). The cylindrical zinc cup is covered on the sides; its flat 
+bottom is the negative terminal. (b) Two dry cells (AA type) 
+connected in series. Note that the positive terminal of one cell 
+pushes against the negative terminal of the other.
+Sulfuric acid
+Terminal
++
+–
+Zinc
+electrode
+(–)
+Terminal
+Carbon
+electrode
+(+)
++
+–
+FIGURE 18–3 Simple electric cell.
+Electric Cars
+Considerable research is being done to improve batteries for electric cars and for
+hybrids (which use both a gasoline internal combustion engine and an electric
+motor). One type of battery is lithium-ion, in which the anode contains lithium

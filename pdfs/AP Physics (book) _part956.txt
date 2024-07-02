@@ -1,0 +1,31 @@
+ts dimensions. That is, the constant k in Eq. 9–3 can be written in
+terms of these factors.
+If we compare rods made of the same material but of different lengths and
+cross-sectional areas, it is found that for the same applied force, the amount of
+stretch (again assumed small compared to the total length) is proportional to the
+original length and inversely proportional to the cross-sectional area. That is,
+the longer the object, the more it elongates for a given force; and the thicker it is,
+the less it elongates. These findings can be combined with Eq. 9–3 to yield
+(9;4)
+where 
+is the original length of the object, A is the cross-sectional area, and 
+is the
+change in length due to the applied force F. E is a constant of proportionality‡ known
+as the elastic modulus, or Young’s modulus; its value depends only on the material.
+¢l
+l0
+¢l =
+1
+E
+F
+A l0 ,
+¢l.
+¢l
+F =
+k ¢l.
+¢l
+¢l
+SECTION 9–5
+Elasticity; Stress and Strain
+241
+†The term “law” applied to this relation is historical, but today it

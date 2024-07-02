@@ -1,0 +1,17 @@
+ntensity of a light beam is proportional to the square of the amplitude
+(Sections 11–9 and 22–5), the intensity of a plane-polarized beam transmitted by
+a polarizer is proportional to (
+)2, a relation called Malus’ law,
+(24;5)
+where 
+is the incoming intensity and 
+is the angle between the polarizer trans-
+mission axis and the plane of polarization of the incoming wave.
+A Polaroid can be used as a polarizer to produce plane-polarized light 
+from unpolarized light, since only the component of light parallel to the axis is 
+transmitted. A Polaroid can also be used as an analyzer to determine (1) if light is
+polarized and (2) the plane of polarization. A Polaroid acting as an analyzer will
+pass the same amount of light independent of the orientation of its axis if the
+light is unpolarized; try rotating one lens of a pair of Polaroid sunglasses while
+looking through it at a lightbulb. If the light is polarized, however, when you
+rotate the Polaroid the transmitted light will be a maximum wh

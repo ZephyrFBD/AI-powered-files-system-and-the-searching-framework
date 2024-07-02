@@ -1,0 +1,11 @@
+y of a population is the total number of individuals per area
+ 
+or volume occupied. There may be 100 buffalo/km2 or 100 mosquitos/m3.
+3. Dispersion describes how individuals in a population are distributed. They may be clumped (like humans in
+cities), uniform (like trees in an orchard), or random (like trees in a forest).
+4. Age structure is a description of the abundance of individuals of each age. It is often graphically expressed in an
+age structure diagram (Figure 16-1). Horizontal bars or tiers of the diagram represent the frequency of individuals in
+a particular age group. A vertical line down the center of each tier divides each age group into males and females. A
+rapidly growing population is indicated when a large proportion of the population is young. Therefore, age structure
+diagrams that are pyramidshaped, with tiers larger at the base and narrower at the top, indicate rapidly growing
+populations. In contrast, age structure diagrams with tiers of equal width represent popul

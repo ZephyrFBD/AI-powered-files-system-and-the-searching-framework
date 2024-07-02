@@ -1,0 +1,27 @@
+ind
+Mainsail
+Keel
+Jib
+F
+B
+F
+B
+F
+B
+(a)
+(b)
+FIGURE 10–26 Sailboat (a) sailing
+against the wind with (b) analysis.
+Baseball Curve
+Why a spinning pitched baseball (or tennis ball) curves can also be explained
+using Bernoulli’s principle. It is simplest if we put ourselves in the reference
+frame of the ball, with the air rushing by, just as we did for the airplane wing.
+Suppose the ball is rotating counterclockwise as seen from above, Fig. 10–27.
+A thin layer of air (“boundary layer”) is being dragged around by the ball. We are
+looking down on the ball, and at point A in Fig. 10–27, this boundary layer tends
+to slow down the oncoming air. At point B, the air rotating with the ball adds 
+its speed to that of the oncoming air, so the air speed is higher at B than at A.
+The higher speed at B means the pressure is lower at B than at A, resulting in a
+net force toward B. The ball’s path curves toward the left (as seen by the pitcher).
+Lack of Blood to the Brain—TIA
+In medicine, one of many appli

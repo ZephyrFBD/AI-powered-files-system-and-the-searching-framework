@@ -1,0 +1,11 @@
+e an enzyme called reverse transcriptase to make a DNA complement of
+their RNA. The DNA complement can then be transcribed immediately to manufacture mRNA (lytic cycle), or it
+can begin the lysogenic cycle by becoming incorporated into the DNA of the host. Because there is often little
+specificity to where the viral DNA is inserted into the host genome, retroviruses are a special kind of transposon.
+Human immunodeficiency virus (HIV, the cause of AIDS) is a retrovirus.
+Because viruses produce many copies over very short intervals, their potential for rapid evolution is great. RNA
+viruses, in particular, have much higher rates of replication errors because RNA replication lacks the repair
+mechanisms associated with DNA replication. As a result, mutations in RNA viruses are more frequent than in DNA
+viruses.
+Evolution of viruses is also augmented when the genetic material of several different, but related viruses, recombine
+when present together in a host cell. There is evidence that two

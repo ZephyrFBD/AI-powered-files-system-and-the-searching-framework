@@ -1,0 +1,102 @@
+s double
+the time to reach the highest point, calculated in (a). That is, the time to go up
+equals the time to come back down to the same level (ignoring air resistance).
+t = 2vy 0g = 2.45 s,
+x = vx 0t = (16.0 ms)(2.45 s) = 39.2 m.
+t = 2.45 s
+x0 = 0,   ax = 0,   vx 0 = 16.0 ms
+t =
+2vy 0
+g
+=
+2(12.0 ms)
+A9.80 ms2B
+= 2.45 s,
+y0
+t = 0
+t A1
+2 gt - vy 0B = 0.
+ 
+0 = 0 + vy 0t - 1
+2 gt2.
+y = y0 + vy 0t - 1
+2 gt2
+y = 0
+y0 = 0
+y = 0
+y0 = 0B
+At = 0,
+=
+vy 0
+2
+g
+- 1
+2
+vy 0
+2
+g
+=
+vy 0
+2
+2g
+=
+(12.0 ms)2
+2A9.80 ms2B
+= 7.35 m.
+y = vy 0t - 1
+2 gt2
+(t = vy 0g)
+y0 = 0,
+t =
+vy 0
+g
+=
+(12.0 ms)
+A9.80 ms2B
+= 1.224 s L 1.22 s.
+vy 0 = gt
+vy = 0
+vy = vy 0 - gt
+vy = 0.
+vy 0 = v0 sin 37.0°  = (20.0 ms)(0.602) = 12.0 ms.
+vx 0 = v0 cos 37.0° = (20.0 ms)(0.799) = 16.0 ms
+20.0 ms,
+u0 = 37.0°
+EXAMPLE 3;6
+62
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+P H Y S I C S  A P P L I E D
+Sports
+FIGURE 3;23 Example 3–6.
+37.0°
+y
+= 0 at this point
+0
+y
+v
+B
+v
+B
+v
+B
+x0
+v
+B
+y0
+v
+B
+0
+v
+B
+v
+B
+v
+B
+= g
+B
+a
+B
+x
+P R O B 

@@ -1,0 +1,65 @@
+ wheel is slowing down),
+points downward.
+If the rotation is clockwise,
+points downward if 
+is increasing, and 
+points
+upward if 
+is decreasing.
+v
+A
+B
+v
+A
+B
+A
+B
+v
+A
+B
+v
+A
+B = ¢V
+B ¢t
+V
+B
+V
+B .
+V
+B
+V
+B
+V
+B
+V
+B .
+V
+B
+V
+B .
+V
+B .
+a,
+v,
+*
+V
+B
+(a)
+(b)
+FIGURE 8;30 (a) Rotating wheel.
+(b) Right-hand rule for obtaining the
+direction of V
+B .
+Spinning bicycle wheel. Your physics
+teacher is holding a spinning bicycle wheel while he stands on a stationary
+frictionless turntable (Fig. 8–32). What will happen if the teacher suddenly flips
+the bicycle wheel over so that it is spinning in the opposite direction?
+RESPONSE We consider the system of turntable, teacher, and bicycle wheel.
+The total angular momentum initially is 
+vertically upward. That is also what
+the system’s angular momentum must be afterward, since 
+is conserved 
+when there is no net torque. Thus, if the wheel’s angular momentum after being
+flipped over is 
+downward, then the angular momentum of teacher plus
+turntable will have to b

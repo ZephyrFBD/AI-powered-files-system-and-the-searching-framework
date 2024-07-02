@@ -1,0 +1,21 @@
+e also can see that the height of the image is the same
+as that of the object.
+The light rays do not actually pass through the image location itself in Fig.23–7.
+(Note where the red lines are dashed to show they are our projections, not rays.)
+The image would not appear on paper or film placed at the location of the image.
+Therefore, it is called a virtual image. This is to distinguish it from a real image
+in which the light does pass through the image and which therefore could appear
+on a white surface, or on film or on an electronic sensor placed at the image position.
+Our eyes can see both real and virtual images, as long as the diverging rays enter
+our pupils. We will see that curved mirrors and lenses can form real images, as well
+as virtual. A movie projector lens, for example, produces a real image that is
+visible on the screen.
+do
+di
+AD = CD.
+ui = ur
+B¿.
+SECTION 23–2
+Reflection; Image Formation by a Plane Mirror
+647
+When you look straight into a mirror, you see what appears to 

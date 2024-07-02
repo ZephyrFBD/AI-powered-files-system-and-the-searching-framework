@@ -1,0 +1,32 @@
+formance to
+be, assuming all else stays the same?
+APPROACH We use the definitions of coefficient of performance, which are
+different for the two devices in (a) and (b).
+SOLUTION (a) We use Eq. 15–7 for the heat pump, and, since our device does
+1500 J of work per second, it can pour heat into the room at a rate of
+per second, or at a rate of 4500 W.
+(b) If our device is turned around in summer, it can take heat 
+from inside the
+house, doing 1500 J of work per second to then dump
+per second
+to the hot outside. Energy is conserved, so
+(see Fig. 15–18, but
+reverse the inside and outside of the house). Then
+The coefficient of performance as an air conditioner would thus be (Eq. 15–6a)
+NOTE The coefficients of performance are defined differently for heat pumps
+and air conditioners.
+COP = QL
+W
+= 3000 J
+1500 J = 2.0.
+QL = QH - W = 4500 J - 1500 J = 3000 J.
+QL + W = QH
+QH = 4500 J
+QL
+[L 4 Btus.]
+QH = COP * W = 3.0 * 1500 J = 4500 J
+EXAMPLE 15;12
+SECTION 15–6
+427
+C A U T I O N
+Heat pumps and ai

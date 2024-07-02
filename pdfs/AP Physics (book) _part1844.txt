@@ -1,0 +1,42 @@
+gy) is proportional to how much charge flows, which in turn depends on how
+long the light is on. If over a given period of time 5.0 C of charge flows through
+the light, the total energy transformed is 
+If the headlight
+is left on twice as long, 10.0 C of charge will flow and the energy transformed is
+Table 17–1 presents some typical voltages.
+(10.0 C)(12.0 V) = 120 J.
+(5.0 C)(12.0 V) = 60 J.
+±.
+–,
+±
+(= mgh)
++
++
++
++
++
+−
+−
+−
+−
+−
+h
+(a)
+Va
+Vb
+Vba
+(b)
+Q
+2Q
+FIGURE 17–3 (a) Two rocks are at
+the same height. The larger rock has
+more potential energy. (b) Two
+positive charges have the same
+electric potential. The 2Q charge has
+more potential energy.
+17–2 Relation between Electric Potential
+and Electric Field
+The effects of any charge distribution can be described either in terms of electric field
+or in terms of electric potential. Electric potential is often easier to use because it is
+a scalar, whereas electric field is a vector. There is an intimate connection between
+the potential and the fi

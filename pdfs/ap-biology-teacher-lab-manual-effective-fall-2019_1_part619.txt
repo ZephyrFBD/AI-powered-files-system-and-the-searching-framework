@@ -1,0 +1,30 @@
+nd instead of resolving  
+into separate bands.  
+** These bands do not appear on the ideal gel and likely will not be seen.  
+Investigation 9 S123 
+INVESTIGATION 9
+S124  Investigation 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Plot the standard curve using the data from the DNA sample cut with HindIII. To do 
+this, your teacher might ask you to graph the data directly using Excel with distance 
+traveled as the (arithmetic) x-axis and the base pair (bp) length as the (logarithmic) 
+y-axis. Based on this graph, why must the data be plotted using the log scale? You 
+might want to plot the data again using semi-log paper.  
+Connect the data point with a best-fit line. However, you should ignore the  
+point plotted for the 27,491bp/23,130 doublet. When using 0.8% agarose gel, these  
+fragments appear as one. Congratulations! Your best-fit line is the standard curve.  
+4. Now use the standard curve to calculate the approximate sizes of the EcoRI and 
+BamHI fragments. Using a ruler, how can you use th

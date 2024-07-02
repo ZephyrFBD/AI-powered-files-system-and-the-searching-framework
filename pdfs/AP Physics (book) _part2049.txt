@@ -1,0 +1,23 @@
+in circuits in this Chapter. (The large triangle is an amplifier
+chip containing transistors.) We also discuss how voltmeters
+and ammeters work, and how measurements affect the
+quantity being measured.
+Circuit 1
+Circuit 2
++
+–
++
+–
+E
+lectric circuits are basic parts of all electronic devices from cell phones and
+TV sets to computers and automobiles. Scientific measurements—whether in
+physics, biology, or medicine—make use of electric circuits. In Chapter 18,
+we discussed the basic principles of electric current. Now we apply these princi-
+ples to analyze dc circuits involving combinations of batteries, resistors, and
+capacitors. We also study the operation of some useful instruments.†
+When we draw a diagram for a circuit, we represent batteries, capacitors, and
+resistors by the symbols shown in Table 19–1. Wires whose resistance is negligible
+compared with other resistance in the circuit are drawn as straight lines. A ground
+symbol (
+or 
+) may mean a real connection to the ground, perhap

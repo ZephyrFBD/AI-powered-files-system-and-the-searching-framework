@@ -1,0 +1,44 @@
+ears change in indexes 
+ 
+P1(Society) 
+P2
+（Economy）
+ P3（Ecology）
+ P4（Total）
+ 
+First year 
+0.1207 
+0.1642 
+0.0586 
+0.1218 
+After five years 
+0.1672 
+0.1890 
+0.0699 
+0.1566 
+After ten years 
+0.2168 
+0.2168 
+0.0822 
+0.1940 
+After fifteen years 
+0.2689 
+0.2642 
+0.1324 
+0.2445 
+After twenty years 
+0.3207 
+0.3201 
+0.1994 
+0.3000 
+*P4 comes from P1, P2 and P3, and their relationship have been introduced in our model. 
+ 
+Figure 4: According to P4’s change in every five years 
+ 
+*The pecked lines represent the path before we plan to change, while the solid lines represent the 
+path with our plan. The green lines stand for P4, the light blue lines stand for P2, the purple lines 
+stand for P1 and the red lines stand for P3. 
+What we conclude from the table and diagram above? Of course, all the indexes 
+are stably growth in every five years. From the diagram, we could see that P1 increase 
+rapidly and all the indexes may over 0.4 in the near future, except that P3 is a little 
+low for its reason. 

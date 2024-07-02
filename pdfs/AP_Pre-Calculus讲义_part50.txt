@@ -1,0 +1,80 @@
+Exercise 1 
+ 
+67 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Exponential Functions 
+ 
+68 
+2.2.1 Exponential Functions 
+Here, we study a new class of functions called exponential functions. For example, 
+( )
+2x
+f x =
+ 
+is an exponential function (with base 2). 
+To study exponential functions, we must first define what we mean by the exponential 
+expression ax when x is any real number.  
+The exponential function with base a is defined for all real numbers x by 
+( )
+x
+f x
+a
+=
+ 
+where a > 0 and a ≠ 1. 
+Here are some examples of exponential functions: 
+ 
+ 
+Example 1 
+Let f(x) = 3x, and evaluate the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2.2 Graphs of Exponential Functions 
+We first graph exponential functions by plotting points. 
+ 
+69 
+We will see that the graphs of such functions have an easily recognizable shape. 
+ 
+Example 2 
+Draw the graph of each function. 
+ 
+ 
+ 
+ 
+ 
+ 
+You can see from the figure that there are two kinds of exponential functions: 
+If 0 < a <

@@ -1,0 +1,28 @@
+ 11–5a, c), all the energy is stored
+in the spring as potential energy (and is the same whether the spring is com-
+pressed or stretched to the full amplitude). At these extreme points, the mass stops
+for an instant as it changes direction, so
+and
+(11;4a)
+Thus, the total mechanical energy of a simple harmonic oscillator is proportional
+to the square of the amplitude. At the equilibrium point,
+(Fig. 11–5b), all
+the energy is kinetic:
+(11;4b)
+where
+is the maximum speed during the motion (which occurs at
+). At
+intermediate points (Fig. 11–5d), the energy is part kinetic and part potential;
+because energy is conserved (we use Eqs. 11–3 and 11–4a),
+(11;4c)
+From this conservation of energy equation, we can obtain the velocity as a
+function of position. Solving for 
+we have
+From Eqs. 11–4a and 11–4b, we have
+so
+or 
+(11;5a)
+Inserting this equation into the equation just above it and taking the square root,
+we have
+(11;5b)
+This gives the velocity of the object at any position x. The object moves

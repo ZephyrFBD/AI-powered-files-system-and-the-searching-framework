@@ -1,0 +1,17 @@
+s likely there
+is a statistically significant difference in the number of trichomes per leaf between the parental and F1 generations.
+If the 95% confidence intervals do overlap, the data are inconclusive, and it is not possible to say whether or not
+there is a statistically significant difference between the two groups.
+Lab 2: Hardy-Weinberg
+If the allele frequencies in a population are changing, the population is likely evolving. Evolution can be studied in a
+population by using mathematical models or computer simulations to observe changing allele frequencies in
+populations.
+Hardy-Weinberg equilibrium and the Hardy-Weinberg equations describe the characteristics of a population that
+is not evolving and has stable allele frequencies. A population is in Hardy-Weinberg equilibrium if the following
+five conditions are met:
+1. Large population size
+2. Random mating
+3. No gene flow
+4. No selection of any kind
+5. No mutations
+If a population is in Hardy-Weinberg equilibrium, the following e

@@ -1,0 +1,18 @@
+ctice Exercise 2
+A 0.5865-g sample of lactic acid 1HC3H5O32 reacts with oxygen 
+in a calorimeter whose heat capacity is 4.812 kJ>°C. The tem-
+perature increases from 23.10 to 24.95 °C. Calculate the heat of 
+combustion of lactic acid (a) per gram and (b) per mole.
+For most of us, being asked the question “Are you running a fever?” 
+was one of our first introductions to medical diagnosis. Indeed, a 
+deviation in body temperature of only a few degrees indicates some-
+thing amiss. Maintaining a near-constant temperature is one of the 
+primary physiological functions of the human body.
+To understand how the body’s heating and cooling mechanisms 
+operate, we can view the body as a thermodynamic system. The body 
+increases its internal energy content by ingesting foods from the sur-
+roundings. The foods, such as glucose 1C6H12O62, are metabolized—a 
+process that is essentially controlled oxidation to CO2 and H2O:
+C6H12O61s2 + 6 O21g2 ¡  6 CO21g2 + 6 H2O1l2 
+∆H = -2803 kJ
+Roughly 40% of the e

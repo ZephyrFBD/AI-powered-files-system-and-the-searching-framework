@@ -1,0 +1,34 @@
+diabat-
+ically, performing 8300 J of work in the process. What is the
+change in temperature of the gas during this expansion?
+10. (II) Consider the following two-step process. Heat is allowed
+to flow out of an ideal gas at constant volume so that its pres-
+sure drops from 2.2 atm to 1.4 atm. Then the gas expands at
+constant pressure, from a volume of 5.9 L to 9.3 L, where the
+temperature reaches its original value. See Fig.15–22. Calculate
+(a) the total work done by the gas in the process, (b) the
+change in internal
+energy of the gas in
+the process, and
+(c) the total heat
+flow into or out of
+the gas.
+Problems
+1.4 atm
+2.2 atm
+P
+0
+5.9 L 9.3 L
+V
+c
+b
+a
+FIGURE 15–22
+Problem 10.
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+Problems
+439
+11. (II) Use the conservation of energy to explain why the 
+temperature of a well-insulated gas increases when it is
+compressed—say, by pushing down on a piston—whereas
+the temperature decreases when the gas expands. 

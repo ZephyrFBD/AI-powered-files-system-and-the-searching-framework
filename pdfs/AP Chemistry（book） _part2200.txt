@@ -1,0 +1,27 @@
+reaction order of 
+1 + 1 = 2, and the reaction is second order overall.
+The exponents in a rate law indicate how the rate is affected by each reactant con-
+centration. Because the rate at which NH4
++ reacts with NO2
+-  depends on 3NH4
++4 raised to 
+the first power, the rate doubles when 3NH4
++4 doubles, triples when 3NH4
++4 triples, and 
+so forth. Doubling or tripling 3NO2
+-4 likewise doubles or triples the rate. If a rate law is 
+second order with respect to a reactant, 3A42, then doubling the concentration of that 
+substance causes the reaction rate to quadruple because 3242 = 4, whereas tripling the 
+concentration causes the rate to increase ninefold: 3342 = 9.
+The following are some additional examples of experimentally determined rate laws:
+ 
+2 N2O51g2 ¡ 4 NO21g2 + O21g2 Rate = k3N2O54 
+[14.9]
+          H21g2 + I21g2 ¡ 2 HI1g2 
+    
+    Rate = k3H243I24 
+[14.10]
+ 
+CHCl31g2 + Cl21g2 ¡ CCl41g2 + HCl1g2 Rate = k3CHCl343Cl241>2 
+[14.11]
+Although the exponents in a rate law are sometim

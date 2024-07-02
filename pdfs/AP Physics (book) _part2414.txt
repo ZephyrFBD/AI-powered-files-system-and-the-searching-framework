@@ -1,0 +1,20 @@
+s
+20. (II) The generator of a car idling at 1100 rpm produces
+12.7 V. What will the output be at a rotation speed of
+2500 rpm, assuming nothing else changes?
+21. (II) A 550-loop circular armature coil with a diameter of
+8.0 cm rotates at 
+in a uniform magnetic field of
+strength 0.55 T. (a) What is the rms voltage output of the
+generator? (b) What would you do to the rotation fre-
+quency in order to double the rms voltage output?
+22. (II) A generator rotates at 85 Hz in a magnetic field of
+0.030 T. It has 950 turns and produces an rms voltage of 150 V
+and an rms current of 70.0 A. (a) What is the peak current
+produced? (b) What is the area of each turn of the coil?
+23. (III) A simple generator has a square armature 6.0 cm on a
+side. The armature has 85 turns of 0.59-mm-diameter
+copper wire and rotates in a 0.65-T magnetic field. The
+generator is used to power a lightbulb rated at 12.0 V and
+25.0 W. At what rate should the generator rotate to
+provide 12.0 V to the bulb? Consider the resi

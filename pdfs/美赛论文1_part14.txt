@@ -1,0 +1,156 @@
+
+1
+arctan(
+)
+x
+M
+π
+−
+∗
+−
+ 
+Intermediate 
+(
+)
+(
+)
+2
+1
+,
+(
+)
+2
+)
+'
+2
+1
+,
+(
+2
+m
+x
+M
+m
+M
+m
+M
+m
+x
+m
+x
+M
+x
+M
+M
+m
+x
+−
+=
+−
+
+≤
+≤
++
+
+
+−
+−
+
+
++
+≤
+≤
+
+
+ 
+Interval 
+1
+,
+1,
+1
+'
+,
+a
+x x
+a
+c
+a
+x
+b
+x
+b
+c
+x
+b x
+−
+−
+<
+
+
+≤
+≤
+
+−
+−
+>
+=
+
+
+
+ 
+Fuzzy 
+1
+2
+1
+(
+)
+,1
+3
+( )
+ln
+,3
+5
+x
+x
+f x
+x
+x
+−
+−
+
+
++
+−
+≤
+≤
+
+
+=
+
+
+
+
+<
+≤
+
++
+α
+β
+γ
+η
+ 
+Team#36961 
+ 
+Page 7 of 20 
+2.3 Dynamic Weighted Comprehensive Model 
+We use the linear weighted method to process the indexes gained in Chapter 2.2 
+and the weights gained in Chapter 2.1, which cannot shows the particularity of the 
+indexes. For this, we consider using dynamic weighted methods to process the 
+consistent index. We use different dynamic functions to show the difference of index 
+due to its different levels. Usually we consider five levels and choose the dynamic 
+function that best fits the index. We are more likely to use the following three 
+dynamic functions. 
+Table 4: Dynamic function and corresponding figures 
+Dynamic 
+function 
+Expression（Usually

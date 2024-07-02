@@ -1,0 +1,41 @@
+ is not really appropriate. First of all,
+it is only an approximation, and second, it refers only to a limited set of phenomena. Most physicists
+today prefer to reserve the word “law” for those relations that are deeper and more encompassing
+and precise, such as Newton’s laws of motion or the law of conservation of energy.
+Proportional limit
+Elastic region
+Elastic
+limit
+Ultimate strength
+Breaking
+point
+Pl
+asti
+c
+r
+e
+gio
+n
+Force, F
+Elongation,
+l
+Δ
+FIGURE 9–19 Applied force vs.
+elongation for a typical metal under 
+tension.
+m
+m
+g
+B
+l
+Δ
+FIGURE 9–18 Hooke’s law:
+applied force.
+¢l r
+‡The fact that E is in the denominator, so 
+is the actual proportionality constant, is merely a 
+convention. When we rewrite Eq. 9–4 to get Eq. 9–5, E is found in the numerator.
+1E
+EXERCISE E Two steel wires have the same length and are under the same tension. But
+wire A has twice the diameter of wire B. Which of the following is true? (a) Wire B
+stretches twice as much as wire A. (b) Wire B stretches four time

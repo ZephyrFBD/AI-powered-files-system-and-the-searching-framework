@@ -1,0 +1,17 @@
+H5OH2 made from fermentation of plant carbohydrates. 
+The fuel value of ethanol is about two-thirds that of gasoline and is 
+therefore comparable to that of coal (Table 5.6). The United States 
+and Brazil dominate bioethanol production, together supplying 85% 
+of the world’s total.
+In the United States, nearly all the bioethanol currently pro-
+duced is made from yellow feed corn. Glucose 1C6H12O62 in the corn 
+is converted to ethanol and CO2:
+C6H12O61s2 ¡  2 C2H5OH1l2 + 2 CO21g2   ∆H = 15.8 kJ
+Notice that this reaction is anaerobic—it does not involve O21g2 — 
+and that the enthalpy change is positive and much smaller in mag-
+nitude than for most combustion reactions. Other carbohydrates can 
+be converted to ethanol in similar fashion.
+Producing bioethanol from corn is controversial for two main rea-
+sons. First, growing and transporting corn are both energy-intensive 
+processes, and growing it requires the use of fertilizers. It is estimated 
+that the energy return on corn-based bioeth

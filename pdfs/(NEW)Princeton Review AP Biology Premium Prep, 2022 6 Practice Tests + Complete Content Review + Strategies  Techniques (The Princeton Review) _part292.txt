@@ -1,0 +1,12 @@
+ dominant alleles (TT homozygous dominant). The other
+parent was a pure, short pea plant, so we’ll give it two recessive alleles (tt homozygous recessive). To look at the
+types of offspring that these parents could produce, we have to figure out the gametes that each parent can possibly
+make (and thus contribute to the offspring).
+Each parent has two copies of the height gene and each gamete gets one copy. This means each parent can make two
+types of gametes. For the homozygous dominant parent, the two copies are T and T. In other words, all gametes
+from this parent will contain the tall, or T, allele. The homozygous recessive plant can make gametes with t and with
+t. Notice again that because the parent plant was homozygous, only one type of allele (t, or short) will be passed on
+to the next generation. We will put the possible gametes for each parent on the top and left side of the square as
+shown below.
+Keep This In Mind
+When a parent is homozygous, both of their gametes will be ide

@@ -1,0 +1,17 @@
+s greater for case (2) because the 
+entire 100 J increases the internal energy of the system rather than a 
+part of the energy doing work on the surroundings. 5.29 (a) A state 
+function is a property that depends only on the physical state (pres-
+sure, temperature, etc.) of the system, not on the route used to get to 
+the current state. (b) Internal energy is a state function; heat is not 
+a state function. (c) Volume is a state function. The volume of a sys-
+tem depends only on conditions (pressure, temperature, amount of 
+substance), not the route or method used to establish that volume. 
+5.31 w = -51 J 5.33 (a) ∆H is usually easier to measure than ∆E 
+because at constant pressure, ∆H = qp. The heat ﬂow associated with 
+4.39 (a) 2 HBr1aq2 + Ca1OH221aq2 ¡ CaBr1aq2 + 2 H2O1l2; 
+H+1aq2 + OH-1aq2 ¡ H2O1l2; 
+(b) Cu1OH221s2 + 2 HClO41aq2 ¡ Cu1ClO4221aq2 + 2 H2O1l2; 
+Cu1OH221s2 + 2 H+1aq2 ¡ 2 H2O1l2 + Cu2 +1aq2
+(c) Al1OH231s2 + 3 HNO31aq2 ¡ Al1NO3231aq2 + 3 H2O1l2;
+Al1OH231s2 + 3 H+1aq2 ¡ 3

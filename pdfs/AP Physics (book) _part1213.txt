@@ -1,0 +1,26 @@
+ds to one antinode
+(or loop). And as can be seen in Fig. 11–41b, the whole length corresponds to
+one-half wavelength. Thus
+where 
+stands for the wavelength of the
+fundamental frequency. The other natural frequencies are called overtones; for a
+vibrating string they are whole-number (integral) multiples of the fundamental,
+and then are also called harmonics, with the fundamental being referred to as the
+first harmonic.† The next mode of vibration after the fundamental has two loops
+and is called the second harmonic (or first overtone), Fig. 11–41b. The length of
+the string 
+at the second harmonic corresponds to one complete wavelength:
+For the third and fourth harmonics,
+and
+respec-
+tively, and so on. In general, we can write
+The integer n labels the number of the harmonic:
+for the fundamental,
+for the second harmonic, and so on. We solve for 
+and find
+(11;19a)
+To find the frequency f of each vibration we use Eq. 11–12,
+and see that
+(11;19b)
+where
+is the fundamental frequency. We see th

@@ -1,0 +1,17 @@
+state (remember to keep holding on!). What do you ob-
+serve? Are your observations consistent with your answer 
+to part (b)?
+design an Experiment
+You are measuring the equilibrium constant for a drug candidate 
+binding to its DNA target over a series of different temperatures. 
+You chose your drug candidate based on computer-aided molecu-
+lar modeling, which indicates that the drug molecule likely would 
+make many hydrogen bonds and favorable dipole–dipole interac-
+tions with the DNA site. You perform a set of experiments in buffer 
+solution for the drug–DNA complex and generate a table of K’s at dif-
+ferent T’s. (a) Derive an equation that relates equilibrium constant to 
+standard enthalpy and entropy changes. (Hint: equilibrium constant, 
+enthalpy and entropy are all related to free energy). (b) Show how you 
+can graph your K and T data to calculate the standard entropy and 
+enthalpy changes for the drug candidate + DNA binding interac-
+tion. (c) You are surprised to learn that the e

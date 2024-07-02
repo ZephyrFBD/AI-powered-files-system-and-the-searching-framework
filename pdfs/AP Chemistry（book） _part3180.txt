@@ -1,0 +1,40 @@
+ completing the circuit.
+In Figure 20.4, a porous glass disc separating the two half-cells allows ions to migrate 
+and maintain the electrical neutrality of the solutions. In Figure 20.5, a salt bridge serves 
+Go Figure
+Salt bridge
+(allows ion
+migration)
+Cathode (+)
+Anode (−)
+Zn
+Cu
+NO3
+−
+Na+
+Zn
+Cu
+Zn2+
+Zn2+
+Cu2+
+Cu2+
+2 e−
+e−
+e−
+2 e−
+Zn(s)          Zn2+(aq) + 2 e−
+Cu2+(aq) + 2 e−         Cu(s)
+Voltmeter
+1.10 V
+Cations migrate
+toward cathode.
+Anions migrate
+toward anode.
+▲ Figure 20.5 A voltaic cell that uses a salt bridge to complete the electrical circuit.
+How is electrical balance maintained in the left beaker as Zn2+1aq2 are 
+formed at the anode?
+*To help remember these definitions, note that anode and oxidation both begin with a vowel, and 
+cathode and reduction both begin with a consonant.
+this purpose. The salt bridge consists of a U-shaped tube containing an electrolyte solu-
+tion, such as NaNO31aq2, whose ions will not react with other ions in the voltaic cell 
+or with the elect

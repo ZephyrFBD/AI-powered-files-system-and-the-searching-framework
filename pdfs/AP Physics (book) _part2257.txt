@@ -1,0 +1,22 @@
+le equi-
+librium due to the magnetic force of the upper wire? Explain.
+21. What would be the effect on B inside a long solenoid if
+(a) the diameter of all the loops was doubled, (b) the spacing
+between loops was doubled, or (c) the solenoid’s length was
+doubled along with a doubling in the total number of loops?
+22. A type of magnetic switch similar to a solenoid is a relay
+(Fig. 20–50). A relay is an electromagnet (the iron rod inside
+the coil does not move) which, when activated, attracts a
+strip of iron on a pivot. Design a relay to close an electrical
+switch. A relay is used when you need to switch on a circuit
+carrying a very large current but do not want that large cur-
+rent flowing through the main switch. For example, a car’s
+starter switch is connected to a relay so that the large current
+needed for the starter doesn’t pass to the dashboard switch.
+FIGURE 20–50
+Question 22.
+1. Indicate which of the following will produce a magnetic
+field:
+(a) A magnet.
+(b) The Earth.
+(c) An el

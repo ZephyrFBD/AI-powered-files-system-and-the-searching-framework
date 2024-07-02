@@ -1,0 +1,76 @@
+0 
+48 
+Ethyl alcohol 
+104 
+25 
+78 
+850 
+204 
+Ammonia 
+.8
+33 
+8.0
+.4
+137 
+33 
+Water 
+0 
+333 
+79.7 
+100 
+2260 
+539 
+Lead 
+327 
+25 
+5.9 
+1750 
+870 
+208 
+Silver 
+961 
+88 
+21 
+2193 
+2300 
+558 
+Iron 
+1538 
+289 
+69.1 
+3023 
+6340 
+1520 
+Tungsten 
+3410 
+184 
+44 
+5900 
+4800 
+1150 
+†Numerical values in 
+are the same in calg.
+kcalkg
+–33
+–77
+–114
+–195
+–210
+–183
+–218
+kcalkg
+kJkg
+kcalkg
+kJkg
+14–5 Latent Heat
+When a material changes phase from solid to liquid, or from liquid to gas (see also
+Section 13–11), a certain amount of energy is involved in this change of phase.
+For example, let us trace what happens when a 1.0-kg block of ice at 
+is heated at a slow steady rate until all the ice has changed to water, then the
+(liquid) water is heated to 100°C and changed to steam, and heated further 
+above 100°C, all at 1 atm pressure. As shown in the graph of Fig. 14–5, as the ice 
+is heated starting at 
+its temperature rises at a rate of about 
+of heat added (since for ice,
+). However, when 0°C is
+rea

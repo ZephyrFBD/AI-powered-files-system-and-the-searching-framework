@@ -1,0 +1,14 @@
+nteract weakly with each other and tend to align parallel to each
+other, as shown in Fig. 24–50.
+In a simple LCD, each pixel (picture element) contains liquid crystal material
+sandwiched between two glass plates whose inner surfaces have been brushed 
+to form nanometer-wide parallel scratches. The rod-like liquid crystal molecules
+in contact with the scratches tend to line up along the scratches. The two plates
+typically have their scratches at 90° to each other, and the weak electric forces
+between the rod-like molecules tend to keep them nearly aligned with their
+nearest neighbors, resulting in the twisted pattern shown in Fig. 24–51a.
+The outer surfaces of the glass plates each have a thin film polarizer, they too
+oriented at 90° to each other. Unpolarized light incident from the left becomes
+plane-polarized, and the liquid crystal molecules keep this polarization aligned
+with their rod-like shape. That is, the plane of polarization of the light rotates
+with the molecules as the lig

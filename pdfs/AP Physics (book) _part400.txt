@@ -1,0 +1,42 @@
+walk depends on
+friction between the soles of our shoes (or feet) and the ground. (Walking involves
+static friction, not kinetic friction. Why?) The movement of a car, and also its 
+stability, depend on friction. When friction is low, such as on ice, safe walking or
+driving becomes difficult.
+SECTION 4–8
+Problems Involving Friction, Inclines
+95
+m
+fr
+F
+B
+F
+B
+N
+F
+B
+g
+B
+FIGURE 4;29 Example 4–17.
+30.0°
+P
+F
+B
+fr
+F
+B
+N
+F
+B
+mg
+B
+FIGURE 4;30 Example 4–18.
+A box against a wall. You can hold a box
+against a rough wall (Fig. 4–29) and prevent it from slipping down by pressing
+hard horizontally. How does the application of a horizontal force keep an 
+object from moving vertically?
+RESPONSE This won’t work well if the wall is slippery. You need friction.
+Even then, if you don’t press hard enough, the box will slip. The horizontal
+force you apply produces a normal force on the box exerted by the wall (the 
+net force horizontally is zero since the box doesn’t move horizontally). The force
+of gravity 

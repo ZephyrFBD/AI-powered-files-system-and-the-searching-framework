@@ -1,0 +1,10 @@
+omologous pairs of autosomes, human females
+have a homologous pair of X chromosomes, whereas human males have an XY chromosome pair. Although the Y
+chromosome contains a small region of similarity to the X chromosome so that they can pair during meiosis, the
+Y chromosome is much shorter and contains many fewer genes. When a gene being examined is present on the X
+chromosome, but not on the Y chromosome, it is said to be X-linked.
+Eye color in Drosophila was one of the first X-linked traits to be identified. Thomas Hunt Morgan mapped this trait to the
+X chromosome in 1910. Like humans, Drosophila males have an XY chromosome pair, and females are XX. In flies, the
+wild-type eye color is red (XW) and it is dominant to white eye color (Xw) (Figure 12.11). Because of the location of the
+eye-color gene, reciprocal crosses do not produce the same offspring ratios. Males are said to be hemizygous, because they
+have only one allele for any X-linked characteristic. Hemizygosity makes the descrip

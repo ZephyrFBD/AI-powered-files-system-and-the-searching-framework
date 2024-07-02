@@ -1,0 +1,34 @@
+ in 
+magnitude, the force of static friction 
+increases in proportion until the 
+applied force equals 
+If the 
+applied force increases further, the 
+object will begin to move, and the 
+friction force drops to a roughly 
+constant value characteristic of kinetic 
+friction.
+ms F
+N.
+F
+B
+A
+F
+B
+N
+fr
+F
+B
+mg
+B
+FIGURE 4;27 Repeated for
+Example 4–16.
+Friction can be a hindrance. It slows down moving objects and causes heating
+and binding of moving parts in machinery. Friction can be reduced by using lubri-
+cants such as oil. More effective in reducing friction between two surfaces is to
+maintain a layer of air or other gas between them. Devices using this concept,
+which is not practical for most situations, include air tracks and air tables in which
+the layer of air is maintained by forcing air through many tiny holes. Another
+technique to maintain the air layer is to suspend objects in air using magnetic
+fields (“magnetic levitation”).
+On the other hand, friction can be helpful. Our ability to 

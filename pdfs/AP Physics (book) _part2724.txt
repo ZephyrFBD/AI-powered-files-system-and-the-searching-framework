@@ -1,0 +1,42 @@
+ its color.
+The visible spectrum in air extends from about 400 nm (violet)
+to about 750 nm (red).
+Glass prisms spread white light into its constituent colors
+because the index of refraction varies with wavelength, a phe-
+nomenon known as dispersion.
+The formula
+for constructive interference
+also holds for a diffraction grating, which consists of many 
+parallel slits or lines, separated from each other by a distance d.
+sin u = mld
+(0,  1,  2,  p).
+sin u = Am + 1
+2B l
+d
+,
+u
+(0,  1,  2,  p).
+l
+sin u = m l
+d
+,
+u
+1
+2 l,
+3
+2 l,
+l
+ln =
+l
+n
+,
+The peaks of constructive interference are much brighter and
+sharper for a diffraction grating than for a two-slit apparatus.
+A diffraction grating (or a prism) is used in a spectrometer
+to separate different colors and observe line spectra. For a given
+order m,
+depends on 
+Precise determination of wavelength
+can be done with a spectrometer by careful measurement of 
+Diffraction refers to the fact that light, like other waves,
+bends around objects it pas

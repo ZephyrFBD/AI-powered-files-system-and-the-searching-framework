@@ -1,0 +1,18 @@
+we will discuss in Section 9–6.
+Elasticity and Hooke’s Law
+If a force is exerted on an object, such as the vertically suspended metal rod
+shown in Fig. 9–18, the length of the object changes. If the amount of elongation,
+, is small compared to the length of the object, experiment shows that 
+is
+proportional to the force exerted on the object. This proportionality can be written
+as an equation:
+(9;3)
+Here F represents the force pulling on the object,
+is the change in length, and k
+is a proportionality constant. Equation 9–3, which is sometimes called Hooke’s law†
+after Robert Hooke (1635–1703), who first noted it, is found to be valid for almost
+any solid material from iron to bone—but it is valid only up to a point. For if the
+force is too great, the object stretches excessively and eventually breaks.
+Figure 9–19 shows a typical graph of applied force versus elongation. Up to a
+point called the proportional limit, Eq.9–3 is a good approximation for many common
+materials, and the curve 

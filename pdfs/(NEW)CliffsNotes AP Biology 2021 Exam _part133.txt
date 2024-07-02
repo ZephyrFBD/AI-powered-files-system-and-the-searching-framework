@@ -1,0 +1,19 @@
+into the mitochondria for oxidative
+phosphorylation. The transport of NADH across the mitochondrial membrane reduces the net yield of each NADH
+to only 2 ATP (Table 4-1). However, the total yield from 1 glucose molecule actually hovers around 30 ATP due to
+variations in mitochondria efficiencies and competing biochemical processes.
+Table 4-1
+A balance sheet accounting for ATP production from glucose by aerobic respiration. Total ATP production is
+theoretically 36 ATP for each glucose processed.
+Anaerobic Respiration
+What if oxygen is not present? If oxygen is not present, no electron acceptor exists to accept the electrons at the end
+of the electron transport
+ 
+chain. If this occurs, then NADH accumulates. After all the NAD+ has been
+ 
+converted to NADH, the Krebs cycle and glycolysis both stop (both need
+ 
+NAD+to accept electrons). When this happens, no new ATP is produced,
+ 
+and the cell may soon die.
+Anaerobic respiration is a method cells use to escape this fate. Although the two c

@@ -1,0 +1,80 @@
+ace is preferentially transmitted or absorbed. You
+can check this by rotating Polaroid sunglasses while looking through them at
+a flat surface of a lake or road. Since most outdoor surfaces are horizontal,
+Polaroid sunglasses are made with their axes vertical to eliminate the more
+strongly reflected horizontal component, and thus reduce glare.
+1
+8
+I
+3 = 1
+8 I
+0 .
+I
+3 = I
+2(cos 45°)2 =
+1
+2 I
+2 ,
+I
+2 = I
+1(cos 45°)2 =
+1
+2 I
+1 =
+1
+4 I
+0 .
+(cos 45°)2,
+I
+1 = 1
+2 I
+0 .
+I
+0
+CONCEPTUAL EXAMPLE 24;14
+I
+2 = 1
+8 I
+0 .
+I
+2 = I
+1(cos 60°)2 =
+1
+4 I
+1 .
+I
+1 = 1
+2 I
+0 .
+EXAMPLE 24;13
+SECTION 24–10
+Polarization
+701
+FIGURE 24–44 Crossed Polaroids.
+When the two polarized sunglass
+lenses overlap, with axes perpendicular,
+almost no light passes through.
+I0
+I0
+1
+2
+I0
+1
+4
+I0
+1
+8
+Light
+direction
+Vertical
+polarizer
+Horizontal
+polarizer
+45
+(a)
+(b)
+FIGURE 24–45 Example 24–14.
+FIGURE 24–46 Light reflected from a
+nonmetallic surface, such as the smooth
+surface of water in a lake, is partially
+polarized parallel t

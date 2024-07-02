@@ -1,0 +1,18 @@
+ation 5.33 
+and the average bond enthalpies in Table 8.3:
+ 
+∆Hrxn = 8 D1S ¬ S2 - 4 D1S “ S2
+ 
+    = 81266 kJ2 - 41418 kJ2 = +456 kJ
+ 
+Recall that D1X¬Y2 represents the X¬Y bond enthalpy. 
+Because ∆Hrxn 7 0, the reaction is endothermic (Section 5.3). 
+The very positive value of ∆Hrxn suggests that high tempera-
+tures are required to cause the reaction to occur.
+Elemental sulfur is a yellow solid that consists of S8 molecules. The structure of the S8 molecule is a puckered, eight-
+membered ring (see Figure 7.27). Heating elemental sulfur to high temperatures produces gaseous S2 molecules:
+S81s2 ¡ 4 S21g2
+(a) The electron configuration of which period 2 element is most similar to that of sulfur? (b) Use the VSEPR model to pre-
+dict the S¬ S¬ S bond angles in S8 and the hybridization at S in S8. (c) Use MO theory to predict the sulfur–sulfur bond 
+order in S2. Do you expect this molecule to be diamagnetic or paramagnetic? (d) Use average bond enthalpies (Table 8.3) to 
+estimate the enthalp

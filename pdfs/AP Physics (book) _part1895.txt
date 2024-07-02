@@ -1,0 +1,14 @@
+the more electrons are repelled and fewer
+pass through, producing a less bright spot on the screen. Thus the varying grid
+voltage is responsible for the brightness of each spot on the screen. At the end of
+each horizontal sweep of the electron beam, the horizontal deflection voltage
+changes dramatically to bring the beam back to the opposite side of the screen,
+and the vertical voltage changes slightly so the beam begins a new horizontal
+sweep slightly below the previous one. The difference in brightness of the spots on
+the screen forms the “picture.” Color screens have red, green, and blue phosphors
+which glow when struck by the electron beam. The various brightnesses of adjacent
+red, green, and blue phosphors (so close together we don’t distinguish them)
+produce almost any color. Analog TV for the U.S. provided 480 visible horizontal
+sweeps† to form a complete picture every
+. With 30 new frames or pictures
+every second (25 in countries with 50-Hz line voltage), a “moving picture”is d

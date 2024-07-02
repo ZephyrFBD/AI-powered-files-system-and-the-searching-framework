@@ -1,0 +1,48 @@
+xygen
+and for nitrogen the result is
+NOTE These speeds are more than 
+or 
+and are greater
+than the speed of sound,
+at 20°C (Chapter 12).
+L 340 ms
+1000 mih,
+1700 kmh
+vrms = 510 ms.
+vrms = B
+3kT
+m
+= C
+(3)A1.38 * 10–23 JKB(293 K)
+A5.3 * 10–26 kgB
+= 480 ms,
+m(N2) = (28)A1.66 * 10–27 kgB
+= 4.6 * 10–26 kg.
+m(O2) = (32)A1.66 * 10–27 kgB
+= 5.3 * 10–26 kg,
+1 u = 1.66 * 10–27 kg
+mass = 28 u
+N2
+mass = 32 u
+O2
+N2
+O2
+vrms ,
+N2
+O2
+EXAMPLE 13;16
+EXERCISE F By what factor must the absolute temperature change to double 
+(a) 
+(b) 2; (c) 
+(d) 4; (e) 16.
+212;
+12;
+vrms?
+Kinetic Energy Near Absolute Zero
+Equation 13–8,
+implies that as the temperature approaches absolute
+zero, the kinetic energy of molecules approaches zero. Modern quantum theory,
+however, tells us this is not quite so. Instead, as absolute zero is approached, the
+kinetic energy approaches a very small nonzero minimum value. Even though all
+real gases become liquid or solid near 0 K, molecular motion does not cease,
+even at absolute ze

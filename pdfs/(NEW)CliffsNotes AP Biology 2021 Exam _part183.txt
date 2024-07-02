@@ -1,0 +1,12 @@
+ospholipid bilayer of a membrane. They bind
+to membrane receptors at the membrane surface.
+Hydrophobic ligands and certain small molecules are signaling molecules that are able to cross the membrane
+unaided. They bind to intracellular receptors in the cytoplasm or nucleus.
+Receptor proteins are molecules that have binding sites for signaling molecules. When activated by a specific
+signaling molecule, they initiate a series of reactions that activates a cellular process. There are two kinds of receptor
+proteins:
+Membrane receptors are transmembrane proteins, extending from the outside to the inside of a membrane. The part
+of the receptor protein that faces away from the cell presents a binding site for a specific signaling molecule. The
+other end of the protein, facing the cytoplasm, initiates a chemical reaction.
+Intracellular receptors are proteins that occur in the cytoplasm or nucleus.
+Second messengers are molecules that relay a signal from the inside face of a receptor protein to 

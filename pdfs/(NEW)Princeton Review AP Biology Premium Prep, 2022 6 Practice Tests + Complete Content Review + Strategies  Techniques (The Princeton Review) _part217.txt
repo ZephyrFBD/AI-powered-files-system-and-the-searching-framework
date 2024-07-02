@@ -1,0 +1,13 @@
+s. Simply put, energy is
+given off during the reaction.
+Let’s look at an example. The course of a reaction can be represented by an energy diagram. Here’s an energy
+diagram for an exergonic reaction.
+You’ll notice that energy is represented along the y-axis. Based on the diagram, we see that our reaction released
+energy. An example of an exergonic reaction is the oxidizing of molecules in mitochondria of cells, which then
+releases the energy stored in the chemical bonds.
+Reactions that require an input of energy are called endergonic reactions. You’ll notice that the products have more
+energy than the reactants. An example is plants’ use of carbon dioxide and water to form sugars.
+Activation Energy
+Even though exergonic reactions release energy, the reaction might not occur naturally without a little bit of energy
+to get things going. This is because the reactants must first turn into a high energy molecule, called the transition
+state, before turning into the products. The transition 

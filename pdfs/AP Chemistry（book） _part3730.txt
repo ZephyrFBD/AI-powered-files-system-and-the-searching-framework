@@ -1,0 +1,12 @@
+ the low end of the spectrochemical series, so it is a weak-field 
+ligand. The CN- ion is on the high end and so is a strong-field ligand, which means it 
+produces a larger energy gap ∆ than the F- ion. The splittings of the d-orbital energies in 
+these two complexes are compared in Figure 23.32.
+Cobalt(III) has an 3Ar43d6 electron configuration, so both complexes in Figure 23.32 
+are d 6 complexes. Let’s imagine that we add these six electrons one at a time to the d 
+orbitals of the 3CoF643 -  ion. The first three go into the t2 orbitals with their spins par-
+allel. The fourth electron could pair up in one of the t2 orbitals. The F- ion is a weak-
+field ligand, however, and so the energy gap ∆ between the t2 set and the e set is small. In 
+this case, the more stable arrangement is the fourth electron in one of the e orbitals. By 
+the same energy argument, the fifth electron goes into the other e orbital. With all five d 
+orbitals containing one electron, the sixth must pair up, and th

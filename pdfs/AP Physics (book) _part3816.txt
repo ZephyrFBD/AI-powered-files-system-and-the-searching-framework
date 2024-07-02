@@ -1,0 +1,63 @@
+s the only variable on the 
+left side of the equals sign.
+SOLUTION (a) We are trying to solve for a, so we first subtract c from
+both sides:
+then divide by b:
+and finally take square roots:
+(b) If we are given that
+and
+then
+But this is not the only answer. Whenever we take a square root, the number
+can be either positive or negative. Thus
+is also a solution. Why?
+Because
+just as 
+So we actually get two solutions:
+and
+NOTE When an unknown appears squared in an equation, there are generally
+two solutions for that unknown.
+a = –3.
+a = ±3
+(±3)2 = 9.
+(–3)2 = 9,
+a = –3
+a = B
+24 - 6
+2
+= 3.
+c = 6,
+b = 2
+a = B
+24 - c
+b
+.
+a2 = 24 - c
+b
+,
+a2b = 24 - c,
+c = 6.
+b = 2
+a2b + c = 24
+EXAMPLE A;2
+x = 4,
+2x
+2
+= 8
+2
+,
+ 
+2x = 8.
+ 
+2x + 7 - 7 = 15 - 7
+2x + 7 = 15.
+EXAMPLE A;1
+x = 4.
+2x + 7 = 15,
+A-4
+APPENDIX A
+Mathematical Review
+To check a solution, we put it back into the original equation (this is really 
+a check that we did all the manipulations correctly). In the equation
+we put in
+and find
+which check

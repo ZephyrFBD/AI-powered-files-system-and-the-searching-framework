@@ -1,0 +1,24 @@
+ the pH of the 
+solution.
+ 
+SECTION 16.4   
+The pH Scale 
+677
+678 
+CHAPTER 16 Acid–Base Equilibria
+16.5 ∣ Strong Acids and Bases
+The chemistry of an aqueous solution often depends critically on pH. It is therefore 
+important to examine how pH relates to acid and base concentrations. The simplest cases 
+are those involving strong acids and strong bases. Strong acids and bases are strong elec-
+trolytes, existing in aqueous solution entirely as ions. There are relatively few common 
+strong acids and bases (see Table 4.2).
+Strong Acids
+The seven most common strong acids include six monoprotic acids (HCl, HBr,  
+HI, HNO3, HClO3, and HClO4), and one diprotic acid 1H2SO42. Nitric acid 1HNO32 exem-
+plifies the behavior of the monoprotic strong acids. For all practical purposes, an aque-
+ous solution of HNO3 consists entirely of H3O+ and NO3
+- ions:
+   HNO31aq2 +H2O1l2 ¡ H3O+1aq2 + NO3
+-1aq2 1complete ionization2 
+[16.21]
+We have not used equilibrium arrows for this equation because the reactio

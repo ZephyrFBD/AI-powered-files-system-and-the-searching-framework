@@ -1,0 +1,20 @@
+mL of 0.100 M HCl to 
+20.0 mL of 0.100 M NH3.
+Calculate the pH at the equivalence point in the titration of 50.0 mL of 0.100 M  CH3COOH with 0.100 M  NaOH.
+Sample Exercise 17.9 
+Calculating the pH at the Equivalence Point
+SOLUTION
+Analyze We are asked to determine the pH at the equivalence point 
+of the titration of a weak acid with a strong base. Because the neu-
+tralization of a weak acid produces its anion, a conjugate base that 
+can react with water, we expect the pH at the equivalence point to 
+be greater than 7.
+Plan The initial number of moles of acetic acid equals the number 
+of moles of acetate ion at the equivalence point. We use the vol-
+ume of the solution at the equivalence point to calculate the con-
+centration of acetate ion. Because the acetate ion is a weak base, 
+we can calculate the pH using Kb and 3CH3COO-4.
+Solve 
+The number of moles of acetic acid in the initial solution is 
+obtained from the volume and molarity of the solution:
+Moles = M * V = 10.100 mol>L210.050

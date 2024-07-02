@@ -1,0 +1,28 @@
+s 120 V from a
+wall power outlet to the lower voltage required by the
+laptop. Inside the charger’s plastic case is a diode or rectifier
+(discussed in Chapter 29) that changes ac to dc plus a
+(a) battery.
+(b) motor.
+(c) generator.
+(d) transformer.
+(e) transmission line.
+13. Which of the following statements about transformers is false?
+(a) Transformers work using ac current or dc current.
+(b) If the current in the secondary is higher, the voltage is
+lower.
+(c) If the voltage in the secondary is higher, the current is
+lower.
+(d) If no flux is lost, the product of the voltage and the
+current is the same in the primary and secondary coils.
+14. A 10-V, 1.0-A dc current is run through a step-up trans-
+former that has 10 turns on the input side and 20 turns on
+the output side. What is the output?
+(a) 10 V, 0.5 A.
+(b) 20 V, 0.5 A.
+(c) 20 V, 1 A.
+(d) 10 V, 1 A.
+(e) 0 V, 0 A.
+15. The alternating electric current at a wall outlet is most
+commonly produced by
+(a) a connection to rechargeable batte

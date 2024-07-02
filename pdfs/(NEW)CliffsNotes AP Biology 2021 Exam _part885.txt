@@ -1,0 +1,11 @@
+mbrane proteins. Additional investigations, however, are necessary to eliminate alternative hypotheses.
+For example, parts of the chloroplast other than the proteins may be disabled and responsible for the decrease in
+photosynthesis. Treatments I and III alone do not adequately test for this hypothesis because Treatment IV is also
+necessary to establish that healthy chloroplasts are required for photosynthesis. Treatment II is unnecessary, as it
+tests for the necessity of light, a variable not investigated in the hypothesis for this question (so the variable of light
+should remain constant for this question).
+44. D. The ordinate (vertical axis) of the graph represents p, the frequency of the dominant allele B. The frequency
+of q, the recessive allele b, is calculated from p + q = 1, or q = 1 − p, which is equal to 1 − 0.4 = 0.6.
+45. D. The frequency of phenotypes is calculated using the equation p2 +
+ 
+2pq + q2 = 1. Black-colored beetles, the dominant trait, is expressed by both p2 and

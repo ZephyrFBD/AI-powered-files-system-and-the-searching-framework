@@ -1,0 +1,31 @@
+ design of chemical and biochemical reactions. 
+We will see examples of the usefulness of ∆G throughout the remain-
+der of this chapter and this text.
+When ﬁrst learning about ∆G, two common questions often 
+arise: Why is the sign of ∆G an indicator of the spontaneity of reac-
+tions? And what is “free” about free energy?
+In Section 19.2, we saw that the second law of thermodynamics 
+governs the spontaneity of processes. In order to apply the second 
+law (Equation 19.4), however, we must determine ∆Suniv, which is 
+often difficult to evaluate. When T and P are constant, however, 
+we can relate ∆Suniv to the changes in entropy and enthalpy of just 
+the system by substituting the Equation 19.9 expression for ∆Ssurr in 
+Equation 19.4:
+∆Suniv = ∆Ssys + ∆Ssurr = ∆Ssys + a
+- ∆Hsys
+T
+b 
+1constant T, P2
+ 
+[19.15]
+Thus, at constant temperature and pressure, the second law becomes
+Reversible process:   ∆Suniv = ∆Ssys -
+∆Hsys
+T
+= 0
+Irreversible process:  ∆Suniv = ∆Ssys -
+∆Hsys
+T
+7 0 
+[19.16]
+1cons

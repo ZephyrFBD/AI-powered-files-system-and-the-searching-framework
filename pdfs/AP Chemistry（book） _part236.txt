@@ -1,0 +1,22 @@
+ body contain?
+ 1.57  Perform the following conversions: (a) 5.00 days to s, 
+(b) 0.0550 mi to m, (c) $1.89/gal to dollars per liter, 
+(d) 0.510 in./ms to km/hr, (e) 22.50 gal/min to L/s, 
+(f) 0.02500 ft3 to cm3.
+ 1.58  Carry out the following conversions: (a) 0.105 in. to mm, 
+(b) 0.650 qt to mL, (c) 8.75 mm>s to km>hr, (d) 1.955 m3 
+to yd3 (e) $3.99/lb to dollars per kg, (f)  8.75 lb>ft3 to g>mL.
+ 1.59  (a) How many liters of wine can be held in a wine barrel 
+whose capacity is 31 gal? (b) The recommended adult dose 
+of Elixophyllin®, a drug used to treat asthma, is 6 mg/kg of 
+body mass. Calculate the dose in milligrams for a 185-lb 
+ 
+person. (c) If an automobile is able to travel 400 km on 47.3 L 
+ 
+of gasoline, what is the gas mileage in miles per gallon? 
+ 
+(d) When the coffee is brewed according to direc-
+tions, a pound of coffee beans yields 50 cups of coffee 
+14 cups = 1 qt2. How many kg of coffee are required to pro-
+duce 200 cups of coffee?
+ 1.60 (a) If an electric car is c

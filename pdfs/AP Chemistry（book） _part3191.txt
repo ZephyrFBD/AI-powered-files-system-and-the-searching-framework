@@ -1,0 +1,34 @@
+e SHE allows the platinum to be in contact with both 1 M H+1aq2 and a 
+Reduction
+Oxidation
+e−
+e−
+e−
+e−
+H+ ion
+Pt atom
+H2 molecule
+H2 molecule
+H+ ion
+SHE as cathode
+(H+ reduced to H2)
+SHE as anode
+(H2 oxidized to H+)
+H2(g)
+▲ Figure 20.8 The standard hydrogen electrode (SHE) is used as a reference electrode.
+ 
+SECTION 20.4   
+Cell Potentials under Standard Conditions 
+861
+862 
+CHAPTER 20 Electrochemistry
+stream of hydrogen gas at 1 atm. The SHE can operate as either the anode or cathode of a 
+cell, depending on the nature of the other electrode.
+Figure 20.9 shows a voltaic cell using a SHE. The spontaneous reaction is the one 
+shown in Figure 20.1, namely, oxidation of Zn and reduction of H+:
+Zn1s2 + 2 H+1aq2 ¡ Zn2+1aq2 + H21g2
+When the cell is operated under standard conditions, the cell potential is +0.76 V. By 
+using the standard cell potential 1E°
+cell = 0.76 V2, the defined standard reduction poten-
+tial of H+1E°
+red = 0 V2 and Equation 20.8, we can determine the standard reduction 

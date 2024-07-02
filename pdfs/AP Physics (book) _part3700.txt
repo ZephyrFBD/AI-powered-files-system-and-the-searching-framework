@@ -1,0 +1,22 @@
+e talked about the vast distances of objects in the universe. But how do
+we measure these distances? One basic technique employs simple geometry to
+measure the parallax of a star. By parallax we mean the apparent motion of
+a star, against the background of much more distant stars, due to the Earth’s
+motion around the Sun. As shown in Fig. 33–11, we can measure the angle 
+that the star appears to shift, relative to very distant stars, when viewed 6 months
+apart. If we know the distance d from Earth to Sun, we can reconstruct the right
+triangles shown in Fig. 33–11 and can then determine the distance D to the 
+star. This is essentially the way the heights of mountains are determined, by 
+“triangulation”: see Example 1–8.
+2f
+1010
+SECTION 33–3
+Distance Measurements
+957
+FIGURE 33–11 (a) Determining the distance D to
+a relatively nearby star using parallax. Horizontal
+distances are greatly exaggerated: in reality 
+is a 
+very small angle (less than 
+of arc).
+(b) Diagram of the sky showing the

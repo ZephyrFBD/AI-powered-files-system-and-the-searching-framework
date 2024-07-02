@@ -1,0 +1,33 @@
+es{2,1}.learnFcn = 'learngdm'; 
+  net.layerWeights{2,1}.learnFcn = 'learngdm'; 
+  net.inputWeights{1,1}.learnFcn = 'learngdm'; 
+  [net,a,e]=adapt(net,p,t); 
+  批处理训练方式 
+  训练的另一种方式是批处理方式，它由函数train触发。在批处理方式中，当整个训练设
+置被应用到网络后权重和偏置才被更新。
+在每一个训练例子中的计算的梯度加在一起来决定
+权重和偏置的变化。 
+  批处理梯度下降法(TRAINGD) 
+  与增加方式的学习函数learngd等价的函数是traingd，
+它是批处理形式中标准的最速下降
+学习函数。
+权重和偏置沿着性能函数的梯度的负方向更新。
+如果你希望用批处理最速下降法
+训练函数，你要设置网络的trainFcn为traingd，并调用train函数。不像以前章节的学习函数，
+它们要单独设置权重矩阵和偏置向量，这一次给定的网络只有一个学习函数。 
+  Traingd有几个训练参数：epochs,show,goal,time,min_grad,max_fail和lr。这里的学习速率
+和lerangd的意义是一样的。训练状态将每隔show次显示一次。其他参数决定训练什么时候
+结束。如果训练次数超过epochs,性能函数低于goal，梯度值低于mingrad或者训练时间超过
+time，训练就会结束。 
+  下面的代码将重建我们以前的网络，然后用批处理最速下降法训练网络。
+（注意用批处
+理方式训练的话所有的输入要设置为矩阵方式） 
+net=newff([-1 2; 0 5],[3,1],{'tansig','purelin'},'traingd'); 
+net.trainParam.show = 50; 
+net.trainParam.lr = 0.05; 
+net.trainParam.epochs = 300; 
+net.trainParam.goal = 1e-5; 
+p = [-1 -1 2 2;0 5 0 5]; 
+t = [-1 -1 1 1]; 
+net=train(net,p,t); 
+TRAINGD, Epoch 0/300, MSE 1.59423/1e-05, Gradient

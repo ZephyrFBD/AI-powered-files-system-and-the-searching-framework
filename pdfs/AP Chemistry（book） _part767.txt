@@ -1,0 +1,75 @@
+31g2
+     -46.19
+Hydrogen fluoride
+HF(g)
+   -268.60
+Benzene
+C6H61l2
+         49.0
+Hydrogen iodide
+HI(g)
+         25.9
+Calcium carbonate
+CaCO31s2
+-1207.1
+Methane
+CH41g2
+      -74.80
+Calcium oxide
+CaO(s)
+  -635.5
+Methanol
+CH3OH1l2
+   -238.6
+Carbon dioxide
+CO21g2
+  -393.5
+Propane
+C3H81g2
+   -103.85
+Carbon monoxide
+CO(g)
+  -110.5
+Silver chloride
+AgCl(s)
+   -127.0
+Diamond
+C(s)
+           1.88
+Sodium bicarbonate
+NaHCO31s2
+   -947.7
+Ethane
+C2H61g2
+     -84.68
+Sodium carbonate
+Na2CO31s2
+-1130.9
+Ethanol
+C2H5OH1l2
+  -277.7
+Sodium chloride
+NaCl(s)
+   -410.9
+Ethylene
+C2H41g2
+         52.30
+Sucrose
+C12H22O111s2
+-2221
+Glucose
+C6H12O61s2
+-1273
+Water
+H2O1l2
+   -285.8
+Hydrogen bromide
+HBr(g)
+     -36.23
+Water vapor
+H2O1g2
+   -241.8
+Sample Exercise 5.10 
+Equations Associated with Enthalpies of Formation
+For which of these reactions at 25 °C does the enthalpy change represent a standard enthalpy of formation? For each that does 
+not, what changes are needed to make it an equation whose ∆H is an enthalpy 

@@ -1,0 +1,40 @@
+es of a metal that is more easily oxidized than 
+iron, such as magnesium 1E°
+red = -2.37 V2, are buried near the 
+pipe or storage tank and connected to it by wire (Figure 20.27). 
+In moist soil, where corrosion can occur, the sacrificial metal 
+serves as the anode, and the pipe or tank experiences cathodic 
+protection.
+Zinc coating is 
+oxidized (anode).
+Iron is not oxidized 
+(cathode).
+Zn          Zn2+ + 2 e−
+O2 + 4 H+ + 4 e−          2 H2O
+Zn2+(aq)
+e−
+O2
+Water
+drop
+▲ Figure 20.26 Cathodic protection of iron in contact with zinc. The standard reduction potentials 
+are E°
+red, Fe2+ = -0.44 V, E°
+red, Zn2+ = -0.76 V, making the zinc more readily oxidized.
+Insulated
+copper wire
+Soldered
+connection
+Soil
+electrolyte
+Iron pipe,
+cathode
+Ground
+level
+Sacrificial
+magnesium anode
+30 cm
+▲ Figure 20.27 Cathodic protection of an iron pipe. A mixture of 
+gypsum, sodium sulfate, and clay surrounds the sacrificial magnesium 
+anode to promote conductivity of ions.
+Give It Some Thought
+Based on the valu

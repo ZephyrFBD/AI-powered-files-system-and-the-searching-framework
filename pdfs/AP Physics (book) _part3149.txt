@@ -1,0 +1,50 @@
+as
+not legitimate. We cannot even view an electron as a localized object, much less
+a spinning one. What is important is that the electron can have two different
+states due to some intrinsic property that behaves like an angular momentum, and
+we still call this property “spin.” The two possible values of 
+(
+and 
+)
+are often said to be “spin up” and “spin down,” referring to the two possible
+directions of the spin angular momentum.
+The possible values of the four quantum numbers for an electron in the
+hydrogen atom are summarized in Table 28–1.
+– 1
+2
+± 1
+2
+ms
+ms .
+ml
+ms
+ml.
+l,
+ms = – 1
+2 .
+ms = ± 1
+2
+ms,
+SECTION 28–6
+813
+†Fine structure is said to be due to a spin–orbit interaction.
+Possible states for
+How many dif-
+ferent states are possible for an electron with principal quantum number
+RESPONSE For 
+can have the values
+For
+can
+be 
+which is five different possibilities. For each of these,
+can
+be either up or down (
+or
+); so for 
+there are 
+states. For
+can be 
+and since 
+can be 
+or
+for 

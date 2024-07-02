@@ -1,0 +1,20 @@
+ses, and spreads out after passing
+through narrow slits. This bending gives rise to a diffraction
+pattern due to interference between rays of light that travel
+different distances.
+Light passing through a very narrow slit of width D (on
+the order of the wavelength ) will produce a pattern with a
+bright central maximum of half-width given by
+(24;3a)
+flanked by fainter lines to either side.
+Light reflected from the front and rear surfaces of a thin
+film of transparent material can interfere constructively or
+destructively, depending on the path difference. A phase change
+of 180° or
+occurs when the light reflects at a surface where
+the index of refraction increases. Such thin-film interference
+has many practical applications, such as lens coatings and using
+Newton’s rings to check uniformity of glass surfaces.
+In unpolarized light, the electric field vectors oscillate in all
+transverse directions. If the electric vector oscillates only in one
+plane, the light is said to be plane-polarized

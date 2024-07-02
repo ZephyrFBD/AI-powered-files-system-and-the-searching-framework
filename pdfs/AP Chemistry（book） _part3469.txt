@@ -1,0 +1,21 @@
+ing nuclei 
+are likely to have the largest mass defect per nucleon: 
+ 
+(a) 11B, (b) 51V, (c) 118Sn, (d) 243Cm?
+ 21.54  The isotope 62
+28Ni has the largest binding energy per nucleon 
+of any isotope. Calculate this value from the atomic mass 
+of nickel-62 (61.928345 amu) and compare it with the 
+value given for iron-56 in Table 21.7.
+Nuclear Power and Radioisotopes  
+(Sections 21.7, 21.8, and 21.9)
+ 21.55  Iodine-131 is a convenient radioisotope to monitor thyroid 
+activity in humans. It is a beta emitter with a half-life of 
+8.02 days. The thyroid is the only gland in the body that 
+uses iodine. A person undergoing a test of thyroid activity 
+drinks a solution of NaI, in which only a small fraction of 
+the iodide is radioactive. (a) Why is NaI a good choice for 
+the source of iodine? (b) If a Geiger counter is placed near 
+the person’s thyroid (which is near the neck) right after the 
+sodium iodide solution is taken, what will the data look 
+like as a function of time? (c) A normal thy

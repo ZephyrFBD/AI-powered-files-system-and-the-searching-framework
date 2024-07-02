@@ -1,0 +1,34 @@
+nal current plus
+current in the plasma itself.
+B
+B
+Plasma
+current
+Torus
+vacuum
+chamber
+External
+current
+Plasma
+Btotal
+Bpoloidal
+Btoroidal
+Charged particles, such as and rays and protons, cause ionization because
+of electric forces. That is, when they pass through a material, they can attract or
+repel electrons strongly enough to remove them from the atoms of the material.
+Since the 
+and 
+rays emitted by radioactive substances have energies on the
+order of 1 MeV (
+to 
+), whereas ionization of atoms and molecules
+requires on the order of 10 eV (Chapter 27), we see that a single 
+or 
+particle
+can cause thousands of ionizations.
+Neutral particles also give rise to ionization when they pass through materials.
+For example, X-ray and -ray photons can ionize atoms by knocking out electrons
+by means of the photoelectric and Compton effects (Chapter 27). Furthermore, if 
+a 
+ray has sufficient energy (greater than 1.02 MeV), it can undergo pair pro-
+duction: an electron and a positron are produce

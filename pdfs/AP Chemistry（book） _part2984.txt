@@ -1,0 +1,32 @@
+llowing data were collected for the destruction of O3 
+by H 1O3 + H ¡ O2 + OH2 at very low concentrations:
+Trial
+3O34 1M 2
+[H] (M)
+Initial Rate 1M,s2
+1
+5.17 * 10-33
+3.22 * 10-26
+1.88 * 10-14
+2
+2.59 * 10-33
+3.25 * 10-26
+9.44 * 10-15
+3
+5.19 * 10-33
+6.46 * 10-26
+3.77 * 10-14
+(a) Write the rate law for the reaction.
+(b) Calculate the rate constant.
+ 18.88  The degradation of CF3CH2F (an HFC) by OH radicals in 
+the troposphere is first order in each reactant and has a 
+rate constant of k = 1.6 * 108 M-1s-1 at 4 °C. If the tropo-
+spheric concentrations of OH and CF3CH2F are 8.1 * 105 
+and 6.3 * 108 molecules>cm3, respectively, what is the rate 
+of reaction at this temperature in M>s?
+ 18.89  The Henry’s law constant for CO2 in water at 25 °C is 
+3.1 * 10-2 M atm-1. (a) What is the solubility of CO2 in 
+water at this temperature if the solution is in contact with 
+air at normal atmospheric pressure? (b) Assume that all of 
+this CO2 is in the form of H2CO3 produced by the reaction 
+between CO2

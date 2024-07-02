@@ -1,0 +1,21 @@
+queous solution, it is often useful to indicate 
+whether the dissolved substances are present predominantly as ions or as molecules. 
+Let’s reconsider the precipitation reaction between Pb1NO322 and 2 KI (Eq. 4.3):
+Pb(NO3221aq2 + 2 KI1aq2 ¡ PbI21s2 + 2 KNO31aq2
+An equation written in this fashion, showing the complete chemical formulas of reac-
+tants and products, is called a molecular equation because it shows chemical formulas 
+without indicating ionic character. Because Pb(NO322, KI, and KNO3 are all water-soluble 
+ionic compounds and therefore strong electrolytes, we can write the equation in a form 
+that indicates which species exist as ions in the solution:
+ 
+Pb2+1aq2 + 2 NO3
+-1aq2 + 2 K+1aq2 + 2 I-1aq2 ¡  
+ 
+PbI21s2 + 2 K+1aq2 + 2 NO3
+-1aq2 
+[4.6]
+An equation written in this form, with all soluble strong electrolytes shown as ions, is 
+called a complete ionic equation.
+Notice that K+1aq2 and NO3
+-1aq2 appear on both sides of Equation 4.6. Ions that 
+appear in identical forms on 

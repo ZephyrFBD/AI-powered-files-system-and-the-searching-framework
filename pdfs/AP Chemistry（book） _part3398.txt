@@ -1,0 +1,29 @@
+ain. For example, 
+the images shown in Figure 21.11 reveal that levels of activity in brains 
+of patients with Alzheimer’s disease are different from the levels in 
+those without the disease.
+Related Exercises: 21.55, 21.56, 21.81 
+ 
+SECTION 21.6   
+Energy Changes in Nuclear Reactions 
+919
+920 
+CHAPTER 21 Nuclear Chemistry
+reactants. The mass change for the decay of 1 mol of uranium-238 can then be expressed 
+in grams:
+ 
+233.9942 g + 4.0015 g - 238.0003 g = -0.0046 g 
+The fact that the system has lost mass indicates that the process is exothermic. All spon-
+taneous nuclear reactions are exothermic.
+The energy change per mole associated with this reaction is
+ 
+∆E = ∆1mc22 = c2∆m
+ = 12.9979 * 108 m/s221-0.0046 g2a
+1 kg
+1000 gb
+ = -4.1 * 1011kg@m2
+s2
+= -4.1 * 1011 J
+Notice that ∆m must be converted to kilograms, the SI unit of mass, to obtain ∆E in 
+joules, the SI unit of energy. The negative sign for the energy change indicates that 
+energy is released in the reaction—in this case, over 

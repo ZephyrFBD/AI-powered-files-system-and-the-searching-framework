@@ -1,0 +1,16 @@
+e an average speed, the individual molecules are moving at different speeds. 
+Each molecule collides frequently with other molecules. Momentum is conserved in 
+each collision, but one of the colliding molecules might be deflected off at high speed 
+while the other is nearly stopped. The result is that, at any instant, the molecules in the 
+sample have a wide range of speeds. In Figure 10.12(a), which shows the distribution of 
+molecular speeds for nitrogen gas at 0 °C and 100 °C, we see that a larger fraction of the 
+100 °C molecules moves at the higher speeds. This means that the 100 °C sample has 
+the higher average kinetic energy.
+414 
+CHAPTER 10 Gases
+The ideal-gas equation can be derived from the five statements given 
+in the text for the kinetic-molecular theory. Rather than perform 
+the derivation, however, let’s consider in qualitative terms how the 
+ 
+ideal-gas equation might follow from these statements. The total 
+force of the molecular collisions on the walls and hence the 

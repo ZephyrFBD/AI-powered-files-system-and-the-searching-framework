@@ -1,0 +1,19 @@
+ound pushes forward on him—
+Newton’s third law), and (2) the force 
+exerted on the assistant by the sled,
+pulling backward on him; see Fig. 4–13. If he pushes hard enough on the ground,
+the force on him exerted by the ground,
+will be larger than the sled pulling
+back,
+and the assistant accelerates forward (Newton’s second law). The sled,
+on the other hand, accelerates forward when the force on it exerted by the assis-
+tant is greater than the frictional force exerted backward on it by the ground (that
+is, when 
+has greater magnitude than 
+in Fig. 4–12).
+Using double subscripts to clarify Newton’s third law can become cumbersome,
+and we won’t usually use them in this way. We will usually use a single subscript
+referring to what exerts the force on the object being discussed. Nevertheless,
+if there is any confusion in your mind about a given force, go ahead and use two
+subscripts to identify on what object and by what object the force is exerted.
+EXERCISE B Return to the first Chapter-Op

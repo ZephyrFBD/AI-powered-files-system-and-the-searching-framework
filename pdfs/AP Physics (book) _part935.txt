@@ -1,0 +1,67 @@
+ software (called a driver to Print properly).
+P
+F
+10.0 m
+CG
+(1500 kg)g
+(15,000 kg)g
+5.0 m
+5.0 m
+B
+B
+B
+A
+FB
+B
+FIGURE 9–8 A 1500-kg beam supports
+a 15,000-kg machine. Example 9–5.
+  
+A
+CG
+   B
+20.0 m
+30.0 m
+A
+B
+F
+B
+F
+B
+mg
+B
+FIGURE 9–9 A cantilever.
+P H Y S I C S  A P P L I E D
+Cantilever
+P R O B L E M  S O L V I N G
+If a force comes out negative
+EXERCISE D Return to the Chapter-Opening Question, page 230, and answer it again
+now. Try to explain why you may have answered differently the first time.
+236
+CHAPTER 9
+Static Equilibrium; Elasticity and Fracture
+y
+x
+θ
+   T
+Hinge
+m
+FTx
+FTy
+M
+   H
+FHy
+FHx
+F
+B
+F
+B
+g
+B
+g
+B
+FIGURE 9–10 Example 9–6.
+Our next Example involves a beam that is attached to a wall by a hinge and
+is supported by a cable or cord (Fig. 9–10). It is important to remember that a
+flexible cable can support a force only along its length. (If there were a compo-
+nent of force perpendicular to the cable, it would bend because it is flexible.)
+But for a rigid device, such as the hin

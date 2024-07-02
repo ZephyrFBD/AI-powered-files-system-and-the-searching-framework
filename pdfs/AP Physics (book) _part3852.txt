@@ -1,0 +1,85 @@
+ gas is slowly heated via
+two different processes—first at constant volume, and then at constant pressure.
+In both processes, we let the temperature increase by the same amount, ¢T.
+gramsmol
+M = mn
+CP = McP,
+CV = McV
+[pressure constant]
+Q = nCP ¢T.
+[volume constant]
+Q = nCV ¢T
+¢T
+CP,
+CV
+Molar Specific Heats for Gases,
+and the Equipartition of Energy
+TABLE D;1 Specific Heats of Gases at 15°C
+Specific Heats
+Molar Specific Heats
+Gas
+Monatomic
+He 
+0.75 
+1.15 
+2.98 
+4.97 
+1.99
+Ne 
+0.148 
+0.246 
+2.98 
+4.97 
+1.99
+Diatomic
+0.177 
+0.248 
+4.96 
+6.95 
+1.99
+0.155 
+0.218 
+5.03 
+7.03 
+2.00
+Triatomic 
+0.153 
+0.199 
+6.80 
+8.83 
+2.03
+0.350 
+0.482 
+6.20 
+8.20 
+2.00
+Polyatomic 
+0.343 
+0.412 
+10.30 
+12.35 
+2.05
+C2H6
+H2O (100°C)
+CO2
+O2
+N2
+(calmol  K)
+CP
+CV
+cP
+cV
+CP  CV
+(calmol  K)
+(kcalkg  K)
+D
+†For example,
+for He, and 
+for O2.
+M = 32 gmol
+M = 2 gmol
+In the constant-volume process, no work is done since 
+Thus, according
+to the first law of thermodynamics (
+Section 15–1), the heat added
+(which w

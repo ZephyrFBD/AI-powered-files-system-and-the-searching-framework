@@ -1,0 +1,27 @@
+onsists of 0.30 M Na+1aq2 and 0.30 M OH -1aq2; there is 
+essentially no undissociated NaOH.
+Give It Some Thought
+Which solution has the higher pH, a 0.001 M solution of NaOH or a 0.001 M 
+solution of Ba1OH22?
+What is the pH of a 0.040 M solution of HClO4?
+Sample Exercise 16.8 
+Calculating the pH of a Strong Acid Solution
+SOLUTION
+Analyze and Plan Because HClO4 is a strong acid, it is completely 
+ionized, giving 3H+4 = 3ClO4
+-4 = 0.040 M.
+Solve
+pH = -log10.0402 = 1.40
+Check Because 3H+4 lies between 1 * 10-2 and 1 * 10-1, the pH 
+will be between 2.0 and 1.0. Our calculated pH falls within the 
+estimated range. Furthermore, because the concentration has two 
+significant figures, the pH has two decimal places.
+ 
+▶Practice Exercise 1
+Order the following three solutions from smallest to largest pH:
+(i) 0.20 M HClO3  (ii) 0.0030 M HNO3  (iii) 1.50 M HCl
+(a) i 6 ii 6 iii (b) ii 6 i 6 iii (c) iii 6 i 6 ii 
+(d) ii 6 iii 6 i (e) iii 6 ii 6 i
+ 
+▶Practice Exercise 2
+An aqueous solution of HNO3 has

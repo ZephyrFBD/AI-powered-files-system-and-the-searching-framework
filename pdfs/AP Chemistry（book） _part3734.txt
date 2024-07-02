@@ -1,0 +1,17 @@
+3Co(NH3)643+ a high-spin complex or a 
+low-spin complex? (c) Estimate the wavelength where you expect the absorption of light to reach a maximum? (d) What color and 
+magnetic behavior would you predict for the complex ion 3Co(en)343+?
+Sample Exercise 23.7 
+The Spectrochemical Series, Crystal-Field Splitting, Color, and Magnetism
+SOLUTION
+Analyze We are given the color and magnetic behavior of an octa-
+hedral complex containing Co with a +3 oxidation number. We 
+need to use this information to determine its electron configura-
+tion, its spin state (low-spin or high-spin), and the color of light 
+it absorbs. In part (d), we must use the spectrochemical series to 
+predict how its properties will change if NH3 is replaced by eth-
+ylenediamine (en).
+Plan (a) From the oxidation number and the periodic table we 
+can determine the number of valence electrons for Co(III), and 
+from that we can determine the electron configuration. (b) The 
+magnetic behavior can be used to determine whether this

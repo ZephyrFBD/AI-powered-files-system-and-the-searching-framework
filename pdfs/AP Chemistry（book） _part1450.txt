@@ -1,0 +1,32 @@
+
++ 
+ion to be stable relative to the separated He and He+. Formation 
+of He2
++ in the gas phase has been demonstrated in laboratory 
+experiments.
+ 
+▶Practice Exercise 1
+How many of the following molecules and ions have a bond  
+order of 1
+2 : H2, H2
++, H2
+-, and He2
+2 +? 
+(a) 0 (b) 1 (c) 2 (d) 3  (e) 4
+ 
+▶Practice Exercise 2
+What are the electron configuration and the bond order of the 
+H2
+- ion?
+What is the bond order of the He2
++ ion? Would you expect this ion to be stable relative to the separated He atom and He+ ion?
+*Antibonding MOs are slightly more energetically unfavorable than bonding MOs are energeti-
+cally favorable. Thus, whenever there is an equal number of electrons in bonding and antibond-
+ing orbitals, the energy of the molecule is slightly higher than that for the separated atoms. As a 
+result, no bond is formed.
+Give It Some Thought
+Suppose one electron in H2 is excited from the s
+1s MO to the s
+1s
+*  MO. Would you 
+expect the H atoms to remain bonded to each other, o

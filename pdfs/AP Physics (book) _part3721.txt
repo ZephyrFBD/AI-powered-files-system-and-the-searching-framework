@@ -1,0 +1,16 @@
+a unification of theories not yet achieved (Section 32–12).
+EXERCISE C What is the Schwarzschild radius for an object with 10 solar masses?
+The Schwarzschild radius also represents the event horizon of a black hole.
+By event horizon we mean the surface beyond which no emitted signals can ever
+reach us, and thus inform us of events that happen beyond that surface. As a star
+collapses toward a black hole, the light it emits is pulled harder and harder by
+gravity, but we can still see it. Once the matter passes within the event horizon,
+the emitted light cannot escape but is pulled back in by gravity (
+of
+space-time).
+All we can know about a black hole is its mass, its angular momentum
+(rotating black holes), and its electric charge. No other information, no 
+details of its structure or the kind of matter it was formed of, can be known
+because no information can escape.
+How might we observe black holes? We cannot see them because no light
+can escape from them. They would be black objects 

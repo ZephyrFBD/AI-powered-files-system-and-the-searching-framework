@@ -1,0 +1,24 @@
+. For example,
+or in exponential
+notation
+Notice also that
+and by the law of exponents,
+Therefore,
+When writing a number in exponential notation, it is usual to make the simple
+number be between 1 and 10. Thus it is conventional to write
+rather than
+although they are the same number.† This notation also allows the number
+of significant figures to be clearly expressed. We write
+if this value is
+accurate to three significant figures, but 
+if it
+is accurate to only two.
+A–4 Algebra
+Physical relationships between quantities can be represented as equations 
+involving symbols (usually letters of the Greek or Roman alphabet) that repre-
+sent the quantities. The manipulation of such equations is the field of algebra,
+and it is used a great deal in physics. An equation involves an equals sign, which
+tells us that the quantities on either side of the equals sign have the same value.
+Examples of equations are
+The first equation involves only numbers, so is called an arithmetic equation. The
+other

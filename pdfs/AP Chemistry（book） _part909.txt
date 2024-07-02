@@ -1,0 +1,47 @@
+n = hn = -∆E = +1.94 * 10 - 18 J.
+Give It Some Thought
+What is the significance of the minus sign in front of ∆E in the above equation?
+Knowing the energy of the emitted photon, we can calculate either its frequency 
+or its wavelength. For the wavelength, we combine Equations 6.1 1l = c>n2 and 6.3 
+1Ephoton = hn2 to obtain
+l = c
+v =
+hc
+Ephoton
+=
+hc
+-∆E =
+16.626 * 10 - 34 J@s212.998 * 108 m>s2
++1.94 * 10 - 18 J
+= 1.02 * 10 - 7 m
+Thus, a photon of wavelength 1.02 * 10 - 7 m (102 nm) is emitted.
+We are now in a position to understand the remarkable  
+simplicity of the line spectra 
+of hydrogen, first discovered by Balmer. We recognize that the line spectra are the result 
+of emission, so Ephoton = hn = hc>l = -∆E  for these transitions. Combining Equations 6.5 
+and 6.6, we see that
+Ephoton = hc
+l = -∆E = hcRHa 1
+n2
+f
+- 1
+n2
+i
+b 1for emission2
+which gives us
+1
+l = hcRH
+hc a 1
+n2
+f
+- 1
+n2
+i
+b = RHa 1
+n2
+f
+- 1
+n2
+i
+b, where nf 6 ni
+Thus, the existence of discrete spectral lines can be attrib

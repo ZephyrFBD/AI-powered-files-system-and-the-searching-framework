@@ -1,0 +1,14 @@
+henever we talk about speed, we necessarily bring in the notion of time. For 
+example, the speed of a car is expressed as the change in the car’s position over a certain 
+time interval. In the United States, the speed of cars is usually measured in units of miles 
+per hour—that is, the quantity that is changing (position measured in miles) divided by 
+a time interval (measured in hours).
+Similarly, the speed of a chemical reaction—its reaction rate—is the change in the 
+concentration of reactants or products per unit of time. The units for reaction rate are 
+usually molarity per second 1M>s2—that is, the change in concentration measured in 
+molarity divided by a time interval measured in seconds.
+Let’s consider the hypothetical reaction A ¡ B, depicted in Figure 14.2. Each red 
+sphere represents 0.01 mol of A, each blue sphere represents 0.01 mol of B, and the con-
+tainer has a volume of 1.00 L. At the beginning of the reaction, there is 1.00 mol A, so the 
+concentration is 1.00 mol
+ 

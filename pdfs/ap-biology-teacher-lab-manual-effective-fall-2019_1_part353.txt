@@ -1,0 +1,41 @@
+0 
+5 
+0
+Rate of Photosynthesis ET50 
+0 
+200 
+400 
+600 
+800 
+1000 1200 1400 
+Light Intensity (FT-C) 
+Figure 2. Photosynthesis vs. Light Intensity [Source: Steucek and Hill, 1985] 
+Note that the shape of this curve is not the expected curve that rises and levels off. This 
+is because the times to float are the inverse of the rate of photosynthesis. Taking the 
+reciprocal of ET50, 1/ ET50 allows the graphic presentation to more closely express the 
+physical phenomenon, as shown in Figure 3. 
+T100 Investigation 5 
+ 
+ 
+Rate of Photosynthesis (1/ET50)
+Photosynthesis vs. Light Intensity 
+0.14 
+0.12 
+0.1 
+0.08 
+0.06 
+0.04 
+0.02 
+0 
+0 
+Light Intensity (FT-C) 
+200 
+400 
+600 
+800 
+1000 
+1200 1400 
+Figure 3. Photosynthesis vs. Light Intensity (1/ ET50) [Source: Steucek and Hill, 1985] 
+This procedure is particularly useful for comparing photosynthetic rates between C4 
+and C3 plants. This procedure is also very useful for exploring the connection between 
+photosynthesis and cellular respiration. O

@@ -1,0 +1,58 @@
+
+T
+2
+≤
+2
+=
+¢ s1
+s2
+≤
+3
+.
+s2
+s1
+T
+2
+T
+1
+= half
+126
+CHAPTER 5
+Circular Motion; Gravitation
+F1
+Sun
+F2
+Planet
+P
+M
+N
+s
+s
+FIGURE 5;28 Kepler’s first law.
+An ellipse is a closed curve such 
+that the sum of the distances from
+any point P on the curve to two 
+fixed points (called the foci,
+and
+) remains constant. That is, the
+sum of the distances,
+is
+the same for all points on the curve.
+A circle is a special case of an 
+ellipse in which the two foci 
+coincide, at the center of the circle.
+F1P + F2P,
+F2
+F1
+Where is Mars? Mars’ period (its “year”) was noted by
+Kepler to be about 687 days (Earth days), which is
+(Earth years). Determine the mean distance of Mars from the Sun using the
+Earth as a reference.
+APPROACH We are given the ratio of the periods of Mars and Earth. We can
+find the distance from Mars to the Sun using Kepler’s third law, given the
+Earth–Sun distance as
+(Table 5–2; also Table inside front cover).
+SOLUTION Let the distance of Mars from the Sun be 
+and the Earth–Sun
+distance be
+F

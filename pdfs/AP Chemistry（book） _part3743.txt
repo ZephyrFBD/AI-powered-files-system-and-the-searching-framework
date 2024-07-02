@@ -1,0 +1,20 @@
+6 
+tend to favor square-planar coordination.
+ 
+▶Practice Exercise 1
+How many unpaired electrons do you predict for the tetrahe-
+dral 3MnCl442 -  ion?  
+(a) 1, (b) 2, (c) 3, (d) 4, (e) 5.
+ 
+▶Practice Exercise 2
+Are there any diamagnetic tetrahedral complexes containing 
+transition metal ions with partially filled d orbitals? If so 
+what electron count(s) leads to diamagnetism?
+Crystal-field theory can be used to explain many observations in addition to those we 
+have discussed. The theory is based on electrostatic interactions between ions and atoms, 
+which essentially means ionic bonds. Many lines of evidence show, however, that the 
+bonding in complexes must have some covalent character. Therefore, molecular-orbital 
+theory 
+ (Sections 9.7 and 9.8) can also be used to describe the bonding in complexes, 
+but the application of molecular-orbital theory to coordination compounds is beyond the 
+scope of our discussion. Crystal-field theory, although not entirely accurate in all details, 

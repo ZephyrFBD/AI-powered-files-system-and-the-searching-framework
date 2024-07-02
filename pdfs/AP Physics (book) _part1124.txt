@@ -1,0 +1,53 @@
+es from the
+hose through the nozzle. How much force is required to
+hold a 7.0-cm-diameter hose delivering 
+through
+a 0.75-cm-diameter nozzle?
+420 Lmin
+v1 = A2 C
+2AP
+1 - P
+2B
+rAA1
+2 - A2
+2B
+.
+y2 −y1
+  1
+  2
+v
+B
+v
+B
+FIGURE 10–55
+Problems 66 and 74.
+General Problems
+289
+*10–13 Surface 
+T
+ension and Capillarity
+*67. (I) If the force F needed to move the wire in Fig. 10–34 is
+calculate the surface tension of the enclosed
+fluid. Assume
+*68. (I) Calculate the force needed to move the wire in Fig.10–34
+if it holds a soapy solution (Table 10–4) and the wire is
+21.5 cm long.
+*69. (II) The surface tension of a liquid can be determined by
+measuring the force F needed to just lift a circular plat-
+inum ring of radius r from the surface of the liquid.
+(a) Find a formula for 
+in terms of F and r. (b) At 30°C,
+if 
+and 
+calculate 
+for the
+tested liquid.
+g
+r = 2.9 cm,
+F = 6.20 * 10–3 N
+g
+l = 0.070 m.
+g
+3.4 * 10–3 N,
+*70. (II) If the base of an insect’s leg has a radius of about
+and the insect’s mass is

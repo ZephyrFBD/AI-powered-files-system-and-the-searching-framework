@@ -1,0 +1,43 @@
+he neutrino 
+that accompanies
+an emitted muon. Each of these neutrinos has an antiparticle:
+and 
+In
+ordinary 
+decay we have, for example,
+but not 
+To explain why these do not occur, the concept of
+electron lepton number,
+was invented. If the electron 
+and the electron
+neutrino 
+are assigned 
+and 
+and 
+are assigned 
+whereas all other particles have 
+then all observed decays conserve 
+For example,
+in 
+initially 
+and afterward
+Decays that do not conserve 
+even though they
+would obey the other conservation laws, are not observed to occur.
+In a decay involving muons, such as
+a second quantum number, muon lepton number
+is conserved. The 
+and 
+are assigned 
+and their antiparticles 
+and 
+have 
+whereas
+all other particles have 
+too is conserved in interactions and decays.
+Similar assignments can be made for the tau lepton number,
+associated with
+the 
+lepton (discovered in 1976 with mass more than 3000 times the electron
+mass) and its neutrino,
+Antiparticles have not only opposite electric charg

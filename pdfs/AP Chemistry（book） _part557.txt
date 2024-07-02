@@ -1,0 +1,18 @@
+both sides of a complete ionic equation, called specta-
+tor ions, play no direct role in the reaction. Spectator ions can be canceled, like alge-
+braic quantities, on either side of the reaction arrow, since they are not reacting with 
+anything. Once we cancel the spectator ions, we are left with the net ionic equa-
+tion, which is one that includes only the ions and molecules directly involved in the 
+reaction:
+ 
+Pb2+1aq2 + 2 I-1aq2 ¡ PbI21s2 
+[4.7]
+Because charge is conserved in reactions, the sum of the ionic charges must be 
+the same on both sides of a balanced net ionic equation. In this case, the 2+ charge 
+of the cation and the two 1-  charges of the anions add to zero, the charge of the 
+electrically neutral product. If every ion in a complete ionic equation is a spectator, no 
+reaction occurs.
+Give It Some Thought
+Which ions, if any, are spectator ions in this reaction?
+AgNO31aq2 + NaCl1aq2 ¡ AgCl1s2 + NaNO31aq2
+Net ionic equations illustrate the similarities between various re

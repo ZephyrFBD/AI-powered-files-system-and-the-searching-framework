@@ -1,0 +1,11 @@
+C) carrying the amino acid methionine attaches to the mRNA at the start codon
+AUG. (You can remember that the start codon is AUG because school often starts in Aug ust.)
+3. The large ribosomal subunit attaches to the mRNA with the tRNA (bearing a methionine), occupying the middle
+of three binding sites (the P site). The ribosome is now completely assembled with the mRNA and one tRNA.
+4. Elongation occurs as additional tRNAs arrive bearing their amino acids. A newly arriving tRNA attaches to the
+first binding site (the A site), always with the anticodon of the tRNA appropriately base-pairing with the codon of
+the mRNA.
+5. The amino acid on the tRNA in the second binding site is transferred to the amino acid on the newly arrived
+tRNA in the first binding site. In Figure 9-6, several amino acids of the growing polypeptide chain are transferred
+because the figure shows elongation after several tRNAs have delivered amino acids.
+6. Translocation occurs as the ribosome moves over one binding 

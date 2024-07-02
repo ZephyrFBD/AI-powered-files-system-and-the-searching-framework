@@ -1,0 +1,122 @@
+Glucose
+Open form
+CH2OH
+C
+C
+C
+C
+H
+OH
+H
+H
+OH
+H
+HO
+H
+OH
+O
+C
+β-Glucose
+CH2OH
+C
+C
+C
+C
+H
+OH
+H
+H
+OH
+H
+HO
+H
+OH
+O
+C
+CH2OH
+C
+C
+C
+C
+H
+OH
+H
+H
+O
+H
+HO
+H
+OH
+O
+H
+C
+2
+3
+5
+6
+6
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+4
+1
+▲ Figure 24.20 Cyclic glucose has an A form and a B form.
+ 
+SECTION 24.8  Carbohydrates 
+1063
+between the a and b forms might seem small, it has enormous biological consequences, 
+including the vast difference in properties between starch and cellulose.
+Fructose can cyclize to form either five- or six-member rings. The five-member ring 
+forms when the C5 OH group reacts with the C2 carbonyl group:
+C
+C
+HO
+H
+C
+HO
+H
+6
+5
+4
+2
+1
+3
+C
+O
+CH2OH
+C
+H
+CH2OH
+C
+H
+CH2OH
+OH
+H
+OH
+C
+H
+OH
+C
+OH
+6
+5
+4
+2
+1
+3
+CH2OH
+O
+The six-member ring results from the reaction between the C6 OH group and the C2 
+carbonyl group.
+How many chiral carbon atoms are there in the open-chain form of glucose (Figure 24.19)?
+Solve Carbons 2, 3, 4, and 5 each have four 
+different groups attached to them:
+Analyze We are given the structure of glucose and

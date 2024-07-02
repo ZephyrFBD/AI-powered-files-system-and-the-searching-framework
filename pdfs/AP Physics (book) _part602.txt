@@ -1,0 +1,21 @@
+ the opposite direction on the hand, as shown in
+Fig. 6–14:
+[spring force]
+(6;8)
+This force is sometimes called a “restoring force” because the spring exerts its
+force in the direction opposite the displacement (hence the minus sign), acting to
+return it to its natural length. Equation 6–8 is known as the spring equation and
+also as Hooke’s law, and is accurate for springs as long as x is not too great.
+To calculate the potential energy of a stretched spring, let us calculate the
+work required to stretch it (Fig. 6–14b). We might hope to use Eq. 6–1 for the
+work done on it,
+where x is the amount it is stretched from its natural
+length. But this would be incorrect since the force 
+is not constant but
+varies over the distance x, becoming greater the more the spring is stretched, as
+shown graphically in Fig. 6–15. So let us use the average force,
+Since 
+varies
+linearly, from zero at the unstretched position to kx when stretched to x, the
+average force is  
+where x here is the final amount

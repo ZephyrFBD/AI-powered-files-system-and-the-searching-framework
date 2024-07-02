@@ -1,0 +1,18 @@
+light
+(a)
+(b)
+The principle of equivalence is related to the concept that there are two types
+of mass. Newton’s second law,
+uses inertial mass. We might say that
+inertial mass represents “resistance” to any type of force. The second type of
+mass is gravitational mass. When one object attracts another by the gravitational
+force (Newton’s law of universal gravitation,
+Chapter 5), the
+strength of the force is proportional to the product of the gravitational masses of
+the two objects. This is much like Coulomb’s law for the electric force between
+two objects which is proportional to the product of their electric charges. The
+electric charge on an object is not related to its inertial mass; so why should we
+expect that an object’s gravitational mass (call it gravitational charge if you like)
+be related to its inertial mass? All along we have assumed they were the same.
+Why? Because no experiment—not even of high precision—has been able to dis-
+cern any measurable difference between inertial

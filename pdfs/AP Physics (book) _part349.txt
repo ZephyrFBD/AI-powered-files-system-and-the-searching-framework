@@ -1,0 +1,15 @@
+he
+starts moving backward. The force she exerts on the wall cannot make her start
+moving, because that force acts on the wall. Something had to exert a force on her
+to start her moving, and that force could only have been exerted by the wall.
+The force with which the wall pushes on her is, by Newton’s third law, equal and
+opposite to the force she exerts on the wall.
+When a person throws a package out of a small boat (initially at rest), the
+boat starts moving in the opposite direction. The person exerts a force on the
+package. The package exerts an equal and opposite force back on the person,
+and this force propels the person (and the boat) backward slightly.
+Rocket propulsion also is explained using Newton’s third law (Fig. 4–10).
+A common misconception is that rockets accelerate because the gases rushing
+out the back of the engine push against the ground or the atmosphere. Not true.
+What happens, instead, is that a rocket exerts a strong force on the gases, expel-
+ling them; and the

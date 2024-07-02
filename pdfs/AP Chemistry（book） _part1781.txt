@@ -1,0 +1,14 @@
+ttractions, and hydrogen bonding) limit the ability of 
+the molecules to slide past one another.
+In a cholesteric liquid crystal, the molecules are arranged in layers, with 
+their long axes parallel to the other molecules within the same layer.* Upon moving 
+from one layer to the next, the orientation of the molecules rotates by a fixed angle, 
+resulting in a spiral pattern. These liquid crystals are so named because many deriva-
+tives of cholesterol adopt this structure.
+The molecular arrangement in cholesteric liquid crystals produces unusual col-
+oring patterns with visible light. Changes in temperature and pressure change the 
+order and, hence, the color. Cholesteric liquid crystals are used to monitor tem-
+perature changes in situations where conventional methods are not feasible. For 
+example, they can detect hot spots in microelectronic circuits, which may signal the 
+presence of flaws. They can also be fashioned into thermometers for measuring the 
+skin temperature of infants. 

@@ -1,0 +1,99 @@
+itor of Example 17–9 is charged (to Q)
+and then disconnected from the battery. Next a dielectric is inserted between the
+plates. Will Q, C, or V change?
+RESPONSE The charge Q remains the same—the capacitor is isolated, so there
+is nowhere for the charge to go. The capacitance increases as a result of inserting
+the dielectric (Eq. 17–9). The voltage across the capacitor also changes—it
+decreases because, by Eq. 17–7,
+so
+if Q stays constant 
+and C increases (it is in the denominator), then V decreases.
+V = QC;
+Q = CV,
+CONCEPTUAL EXAMPLE 17;10
+486
+CHAPTER 17
+Electric Potential
+P H Y S I C S  A P P L I E D
+Camera flash
+(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q
+Q
+(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c)
+E0
+E0
+FIGURE 17–19 Molecular view of
+the effects of a dielectric.
+Molecular Description of Dielectrics
+Let us examine, from the molecular point of view, why the capacitance of a
+capacitor should be l

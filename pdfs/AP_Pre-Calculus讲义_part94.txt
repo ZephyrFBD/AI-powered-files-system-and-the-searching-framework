@@ -1,0 +1,159 @@
+or tangent: 
+tan
+tan
+tan(
+)
+1 tan tan
+tan
+tan
+tan(
+)
+1 tan tan
+s
+t
+s
+t
+s
+t
+s
+t
+s
+t
+s
+t
++
++
+=
+-
+-
+-
+=
+-
+ 
+ 
+Example 1 
+Find the exact value of each expression. 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+Prove the cofunction identity 
+cos
+sin .
+2
+u
+u
+p
+æ
+ö
+-
+=
+ç
+÷
+è
+ø
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+141 
+3.8.2 Expressions Involving Inverse Trigonometric Functions 
+Expressions involving trigonometric functions and their inverses arise in calculus. In the 
+next examples we illustrate how to evaluate such expressions. 
+ 
+Example 3 
+Write sin (cos-1x + tan-1y) as an algebraic expression in x and y 
+–1
+1
+x
+£
+£
+where 
+ and y is 
+any real number. 
+ 
+ 
+ 
+ 
+ 
+3.8.3 Expressions of the Form Asinx + Bcosx 
+If A and B are real numbers, then A sin x + B cos x = k sin(x +  ) where 
+2
+2
+k
+A
+B
+=
++
+ 
+and  satisfies 
+2
+2
+2
+2
+cos
+and
+sin
+A
+B
+A
+B
+A
+B
+f
+f
+=
+=
++
++
+ 
+ 
+Example 4 
+Express 3 sin x + 4 cos x in the form k sin(x + ). 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+142 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

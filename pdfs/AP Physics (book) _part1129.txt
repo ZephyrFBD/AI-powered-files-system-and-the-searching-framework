@@ -1,0 +1,28 @@
+s?
+General Problems
+85. A ship, carrying fresh water to a desert island in the Carib-
+bean, has a horizontal cross-sectional area of 
+at
+the waterline. When unloaded, the ship rises 8.25 m higher
+in the sea. How much water 
+was delivered?
+86. A raft is made of 12 logs lashed together. Each is 45 cm in
+diameter and has a length of 6.5 m. How many people can
+the raft hold before they start getting their feet wet, assuming
+the average person has a mass of 68 kg? Do not neglect the
+weight of the logs. Assume the specific gravity of wood is
+0.60.
+87. Estimate the total mass of the Earth’s atmosphere, using
+the known value of atmospheric pressure at sea level.
+Am3B
+2240 m2
+290
+CHAPTER 10
+Fluids
+88. During each heartbeat, approximately 
+of blood is
+pushed from the heart at an average pressure of 105 mm-Hg.
+Calculate the power output of the heart, in watts, assuming
+70 beats per minute.
+89. Four lawn sprinkler heads are fed by a 1.9-cm-diameter
+pipe. The water comes out of the heads at an angl

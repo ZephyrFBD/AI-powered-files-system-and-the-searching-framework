@@ -1,0 +1,16 @@
+ty of a gas kept at constant temperature. If either the pressure
+or volume of a fixed amount of gas is allowed to vary, the other variable also
+changes so that the product PV remains constant.
+Temperature also affects the volume of a gas, but a quantitative relationship
+between V and T was not found until more than a century after Boyle’s work.
+The Frenchman Jacques Charles (1746–1823) found that when the pressure is not
+too high and is kept constant, the volume of a gas increases with temperature at 
+a nearly linear rate, as shown in Fig. 13–15a. However, all gases liquefy at low
+temperatures (for example, oxygen liquefies at 
+), so the graph cannot be
+extended below the liquefaction point. Nonetheless, the graph is essentially a
+straight line and if projected to lower temperatures, as shown by the dashed line,
+it crosses the axis at about 
+Such a graph can be drawn for any gas, and a straight line results which
+always projects back to 
+at zero volume. This seems to imply that if a ga

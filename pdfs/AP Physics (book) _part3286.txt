@@ -1,0 +1,31 @@
+I and a group V element such as gallium and arsenic
+Remarkably, GaAs has a crystal structure very
+similar to Si. See Fig. 29–33. For doping of GaAs, group VI atoms (like Se) can
+serve as donors, and group II atoms (valence 
+, such as Zn) as acceptors. The
+energy gap for GaAs is 
+corresponding to near-infrared photons
+with wavelength 870 nm (almost visible). Such infrared LEDs are suitable for use in
+remote-control devices for TVs, DVD players, stereos, car door locks, and so on.
+The first visible-light LED, developed in the early 1960s, was made of a semi-
+conductor compound of gallium, arsenic, and phosphorus 
+which
+emitted red light. The red LED soon found use as the familiar indicator lights
+(on–off) on electronic devices, and as the bright red read-out on calculators and
+(= GaAsP)
+Eg = 1.42 eV,
+±2
+(= gallium arsenide = GaAs).
+Eg.
+*
+200 km * 200 km
+1012 W,
+50 Wm2,
+Eg
+*
+*SECTION 29–9
+847
+P H Y S I C S  A P P L I E D
+LEDs and applications 
+Car safety (brakes)
+†Electricity makes up ab

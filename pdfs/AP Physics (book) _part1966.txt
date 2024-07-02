@@ -1,0 +1,21 @@
+t 
+at the high temperature needed to make it glow (
+3000 K). Thus Ohm’s 
+“law” is not a fundamental law of nature, but rather a description of a certain
+class of materials: metal conductors, whose temperature does not change much.
+Such materials are said to be “ohmic.” Materials or devices that do not follow
+Ohm’s law are said to be nonohmic. See Fig. 18–9.
+The unit for resistance is called the ohm and is abbreviated 
+(Greek capital
+letter omega). Because
+we see that 
+is equivalent to 
+Flashlight bulb resistance. A small flashlight bulb (Fig.18–10)
+draws 300 mA from its 1.5-V battery. (a) What is the resistance of the bulb?
+(b) If the battery becomes weak and the voltage drops to 1.2 V, how would the
+current change? Assume the bulb is approximately ohmic.
+APPROACH We apply Ohm’s law to the bulb, where the voltage applied across
+it is the battery voltage.
+SOLUTION (a) We change 300 mA to 0.30 A and use Eq. 18–2:
+(b) If the resistance stays the same, the current would be
+or a decrease of

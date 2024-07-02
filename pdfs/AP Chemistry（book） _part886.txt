@@ -1,0 +1,14 @@
+n of Energy
+When solids are heated, they emit radiation, as seen in the red glow of an electric stove 
+burner or the bright white light of a tungsten light bulb. The wavelength distribution of 
+the radiation depends on temperature; a red-hot object, for instance, is cooler than a yel-
+lowish or white-hot one (Figure 6.5). During the late 1800s, a number of physicists stud-
+ied this phenomenon, trying to understand the relationship between the temperature 
+and the intensity and wavelength of the emitted radiation. The prevailing laws of physics 
+could not account for the observations.
+In 1900, a German physicist named Max Planck (1858–1947) solved the  
+problem 
+by making a daring assumption: He proposed that energy can be either released or absorbed 
+by atoms only in discrete “chunks” of some minimum size. Planck gave the name quantum 
+(meaning “fixed amount”) to the smallest quantity of energy that can be emitted or absorbed 
+as electromagnetic radiation. He proposed that the energy, 

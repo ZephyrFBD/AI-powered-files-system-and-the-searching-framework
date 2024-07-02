@@ -1,0 +1,41 @@
+s affected when some O2 is introduced 
+into a container if the temperature and volume remain constant? How is the total 
+pressure affected?
+SOLUTION
+Analyze We need to calculate the pressure for two gases in the same 
+volume and at the same temperature.
+Plan Because each gas behaves independently, we can use the 
+ideal-gas equation to calculate the pressure each would exert if 
+the other were not present. Per Dalton’s law, the total pressure is 
+the sum of these two partial pressures.
+Solve We first convert the mass of each gas to moles:
+ 
+nO2 = 16.00 g O22a 1 mol O2
+32.0 g O2
+b = 0.188 mol O2
+ 
+nCH4 = 19.00 g CH42a 1 mol CH4
+16.0 g CH4
+b = 0.563 mol CH4
+We use the ideal-gas equation to calculate the partial pressure of 
+each gas:
+ P
+O2 =
+nO2RT
+V
+=
+10.188 mol210.08206 L@atm>mol@K21273 K2
+15.0 L
+          = 0.281 atm
+     P
+CH4 =
+nCH4RT
+V
+=
+10.563 mol210.08206 L@atm>mol@K21273 K2
+15.0 L
+ 
+      = 0.841 atm
+Sample Exercise 10.10 
+Applying Dalton’s Law of Partial Pressures
+A mixture of 6.

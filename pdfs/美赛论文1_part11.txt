@@ -1,0 +1,51 @@
+ ‘C22-Import’, 
+‘C23-Export’, ‘C24-Poverty rate’, ‘C31-Geography’, ‘C32-Resource and Energy’, 
+and ‘ C33-Environment’. Finally, we set the alternatives layer as ‘D11-Policy 
+Evaluation’ and ‘D12-National Assessment’. 
+ 
+ 
+ 
+For the first criteria layer, we compare every two elements by relative scale and 
+gain the importance of BI  to A . We define matrix 
+(s )
+ij
+S =
+, where s
+:
+ij
+i
+j
+w
+w
+=
+ 
+stands for the importance of 
+i
+B  to 
+j
+B . According to psychologists’ considerations 
+for the relative importance, we usually set the parameter
+(
+]
+s
+0,9
+ij ∈
+. For the 
+inconsistent pairwise comparison matrix S , we use the unit eigenvector 
+1
+2
+3
+(u ,u ,u )
+U =
+ as the weighting vector, where 
+i
+u  stands for the weight it has on the 
+target layer A . In addition, we need to test the consistency of matrix S . If it fails, we 
+need to revise the matrix S. For the secondary criteria layer, we use the same method 
+and gain the inconsistent pairwise comparison matrixs 
+1
+2
+3
+,
+,
+T T T  as well 

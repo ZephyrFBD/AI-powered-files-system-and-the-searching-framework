@@ -1,0 +1,37 @@
+erature to kelvins by adding 273 to the
+given Celsius temperatures:
+and
+Then
+To get the efficiency in percent, we multiply by 100. Thus, the maximum (or
+Carnot) efficiency is 30%. Realistically, an engine might attain 0.70 of this value,
+or 21%.
+NOTE In this Example the exhaust temperature is still rather high, 270°C.
+Steam engines are often arranged in series so that the exhaust of one engine is
+used as intake by a second or third engine.
+eideal = 1 - 543
+773
+= 0.30.
+T
+L = 543 K.
+T
+H = 773 K
+EXAMPLE 15;9
+424
+CHAPTER 15
+The Laws of Thermodynamics
+SECOND LAW OF THERMODYNAMICS
+(Kelvin-Planck statement)
+High
+temperature
+NOT
+POSSIBLE
+Engine
+Heat
+Work
+FIGURE 15–15 Diagram of an
+impossible perfect heat engine in which
+all heat input is used to do work.
+A phony claim? An engine manufacturer makes the
+following claims: An engine’s heat input per second is 9.0 kJ at 435 K. The heat
+output per second is 4.0 kJ at 285 K. Do you believe these claims?
+APPROACH The engine’s efficiency can be calcula

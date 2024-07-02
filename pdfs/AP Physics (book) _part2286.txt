@@ -1,0 +1,39 @@
+quare of side 
+carry equal currents 
+perpendicular to the
+page as shown in 
+Fig. 20–64. Determine
+the magnitude and
+direction of 
+at the
+center C of the square.
+B
+B
+I0
+l,
+C
+l
+l
+l
+l
+FIGURE 20–64
+Problem 73.
+FIGURE 20–65
+Problem 75.
+80. A motor run by a 9.0-V battery has a 20-turn square coil
+with sides of length 5.0 cm and total resistance 
+When
+spinning, the magnetic field felt by the wire in the coil is
+0.020 T. What is the maximum torque on the motor?
+81. Electrons are accelerated horizontally by 2.2 kV. They then
+pass through a uniform magnetic field B for a distance of
+3.8 cm, which deflects them upward so they reach the top
+of a screen 22 cm away, 11 cm above the center. Estimate
+the value of B.
+82. A 175-g model airplane charged to 18.0 mC and traveling
+at 
+passes within 8.6 cm of a wire, nearly parallel to
+its path, carrying a 25-A current. What acceleration (in g’s)
+does this interaction give the airplane?
+83. A uniform conducting rod of length and mass m sits atop
+a fulcrum, w

@@ -1,0 +1,21 @@
+ro.
+13–10 Distribution of Molecular Speeds
+The molecules in a gas are assumed to be in random motion, which means that
+many molecules have speeds less than the rms speed and others have greater
+speeds. In 1859, James Clerk Maxwell (1831–1879) derived, on the basis of kinetic
+theory, that the speeds of molecules in a gas are distributed according to the
+graph shown in Fig. 13–19. This is known as the Maxwell distribution of speeds.†
+The speeds vary from zero to many times the rms speed, but as the graph shows,
+most molecules have speeds that are not far from the average. Less than 1% of
+the molecules exceed four times 
+Experiments to determine the distribution of molecular speeds in real gases,
+starting in the 1920s, confirmed with considerable accuracy the Maxwell distri-
+bution and the direct proportion between average kinetic energy and absolute
+temperature, Eq. 13–8.
+vrms .
+G = 3
+2 kT,
+*
+Figure 13–20 shows the Maxwell distribution for two different temperatures.
+Just as 
+increases w

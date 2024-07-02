@@ -1,0 +1,52 @@
+ whether
+heat flows into or out of that part. Let us redo Example 14–4 using ©Q = 0.
+¢T
+¢T = T
+f - T
+i
+Q = mcAT
+f - T
+iB,
+©Q = 0.
+T = ?
+(a)
+(b)
+25°C
+95°C
+FIGURE 14;3 Example 14–4.
+C A U T I O N
+When using 
+is positive on both sides
+¢T
+heat lost = heat gained,
+P R O B L E M  S O L V I N G
+Alternate approach: ©Q = 0
+Alternate Solution,
+.
+APPROACH We use Eq. 14–3,
+SOLUTION For each term,
+If 
+then 
+Equation 14–3,
+becomes
+The second term is negative because T will be less than 95°C. Solving the algebra
+gives the same result, T = 86°C.
+mcupccup(T - 25°C) + mteactea(T - 95°C) = 0.
+©Q = 0,
+¢T 6 0.
+T
+f 6 T
+i,
+¢T = T
+f - T
+i.
+©Q = 0.
+πQ  0
+EXAMPLE 14;4'
+You are free to use either approach. They are entirely equivalent, alge-
+braically. For example, if you move the first term in the displayed equation of the
+alternate Example 14–4 over to the other side of the equals sign, you obtain the
+“
+” equation in the first version of Example 14–4.
+heat lost = heat gained
+In all Examples and Problems of th

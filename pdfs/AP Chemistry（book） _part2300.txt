@@ -1,0 +1,16 @@
+ely. Termolecular elemen-
+tary reactions are very rare. Unimolecular, bimolecular, and termo-
+lecular reactions follow rate laws that are first order overall, second 
+order overall, and third order overall, respectively.
+Many reactions occur by a multistep mechanism, involving two 
+or more elementary reactions, or steps. An intermediate is produced 
+in one elementary step and is consumed in a later elementary step, 
+therefore it does not appear in the overall equation for the reaction. 
+When a mechanism has several elementary steps, the overall rate is 
+limited by the slowest elementary step, called the rate-determining 
+step. A fast elementary step that follows the rate-determining step will 
+have no effect on the rate law of the reaction. A fast step that precedes 
+the rate-determining step often creates an equilibrium that involves 
+an intermediate. For a mechanism to be valid, the rate law predicted 
+by the mechanism must be the same as that observed experimentally.
+CATALYSTS (SECT

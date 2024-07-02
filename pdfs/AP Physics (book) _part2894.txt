@@ -1,0 +1,14 @@
+d by the coin is different
+as viewed from different frames of reference. This does not violate the relativity
+principle because this principle states that the laws of physics are the same in 
+all inertial frames. The same law of gravity, and the same laws of motion, apply in
+both reference frames. The acceleration of the coin is the same in both reference
+frames. The difference in Figs. 26–2a and b is that in the Earth’s frame of reference,
+the coin has an initial velocity (equal to that of the car). The laws of physics there-
+fore predict it will follow a parabolic path like any projectile (Chapter 3). In the
+car’s reference frame, there is no initial velocity, and the laws of physics predict
+that the coin will fall straight down. The laws are the same in both reference frames,
+although the specific paths are different.
+Galilean–Newtonian relativity involves certain unprovable assumptions that
+make sense from everyday experience. It is assumed that the lengths of objects
+are the same 

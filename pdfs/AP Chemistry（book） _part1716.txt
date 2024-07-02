@@ -1,0 +1,22 @@
+ 41 amu, bp 355 K2 
+and propane 1CH3CH2CH3, MW 44 amu, bp 231 K2. Acetonitrile is a polar molecule, with 
+a dipole moment of 3.9 D, so dipole–dipole interactions are present. However, propane is 
+essentially nonpolar, which means that dipole–dipole interactions are absent. Because 
+acetonitrile and propane have similar molecular weights, dispersion forces are similar for 
+these two molecules. Therefore, the higher boiling point of acetonitrile can be attributed 
+to dipole–dipole interactions.
+(a) Solid CH3CN
+Attractive dipole–dipole interaction (red)
+Repulsive dipole–dipole interaction (blue)
+(b) Liquid CH3CN
+δ−
+δ+
+▲ Figure 11.7 Dipole–dipole interactions. The dipole–dipole interactions in (a) crystalline CH3CN  
+and (b) liquid CH3CN.
+ 
+SECTION 11.2   
+Intermolecular Forces 
+441
+To better understand these forces, consider how CH3CN molecules pack together in 
+the solid and liquid states. In the solid [Figure 11.7(a)], the molecules are arranged with the 
+negatively charged nitrogen end

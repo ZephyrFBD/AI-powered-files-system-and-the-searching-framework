@@ -1,0 +1,15 @@
+sure of a vapor above a liquid stops changing when the rate at which molecules 
+escaping from the liquid into the gas phase equals the rate at which molecules from the 
+gas phase are captured by and reenter the liquid.
+Just like evaporation and condensation, or dissolution and crystallization, chemical 
+reactions can run in the forward and reverse directions.  If the reverse reaction is suffi-
+ciently slow, we can neglect it altogether, as we have done in reactions we’ve encoun-
+tered up to this point, but there are many important examples where we must consider 
+the rates of both forward and reverse reactions.
+Chemical equilibrium occurs when the forward and  
+reverse reactions proceed at equal rates.
+When a reaction is at equilibrium, the rate at which the products form from the reac-
+tants equals the rate at which the reactants form from the products. As a result, concen-
+trations cease to change, and the reaction appears to stop before it reaches completion.
+624
+▲ Figure 15.1 An el

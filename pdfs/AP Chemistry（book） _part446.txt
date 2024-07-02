@@ -1,0 +1,30 @@
+orm a compound that is measured 
+to be 74.0% mercury and 26.0% chlorine by mass. Thus, if we had a 100.0-g sample of 
+the compound, it would contain 74.0 g of mercury and 26.0 g of chlorine. (Samples of 
+any size can be used in problems of this type, but we will generally use 100.0 g to simplify 
+the calculation of mass from percentage.) Using atomic weights to get molar masses, we 
+calculate the number of moles of each element in the sample:
+ 
+174.0 g Hg2a
+1 mol Hg
+200.6 g Hgb = 0.369 mol Hg
+ 
+126.0 g Cl2a 1 mol Cl
+35.5 g Cl b = 0.732 mol Cl
+ Atoms O = 11.75 * 1022 molecules C6H12O62a
+6 atoms O
+molecule C6H12O6
+b 
+ = 1.05 * 1023 atoms O
+ 
+SECTION 3.5   
+Empirical Formulas from Analyses 
+99
+We then divide the larger number of moles by the smaller number to obtain the Cl:Hg 
+mole ratio:
+moles of Cl
+moles of Hg = 0.732 mol Cl
+0.369 mol Hg = 1.98 mol Cl
+1 mol Hg
+Because of experimental errors, calculated values for a mole ratio may not be whole 
+numbers, as in the calculation here. The nu

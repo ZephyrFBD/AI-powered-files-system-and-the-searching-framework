@@ -1,0 +1,18 @@
+er the nature of 
+orbitals and their relative energies as well as how the electrons populate the avail-
+able orbitals.
+Orbitals and Their Energies
+We can describe the electronic structure of a many-electron atom by 
+using the orbitals we described for the hydrogen atom in Table 6.2  
+(p. 230). Thus, the orbitals of a many-electron atom are designated 1s, 
+2px, and so forth (Table 6.2) and have the same general shapes as the 
+corresponding hydrogen orbitals.
+Although the shapes of the orbitals of a many-electron atom are 
+the same as those for hydrogen, the presence of more than one elec-
+tron greatly changes the  
+energies of the orbitals. In hydrogen, the 
+energy of an orbital depends only on its principal quantum number, n 
+(Figure 6.18). For instance, in a hydrogen atom, the 3s, 3p, and 3d sub-
+shells all have the same energy. In a many-electron atom, however, the 
+energies of the various subshells in a given shell are different because 
+of electron–electron repulsions. To explain w

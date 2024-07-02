@@ -1,0 +1,15 @@
+the focal length to specify the strength of eyeglass (or contact) lenses.
+This is called the power, P, of a lens:
+(23;7)
+The unit for lens power is the diopter (D), which is an inverse meter:
+For example, a 20-cm-focal-length lens has a power 
+We will mainly use the focal length, but we will refer again to the power of a lens
+when we discuss eyeglass lenses in Chapter 25.
+The most important parameter of a lens is its focal length f, which is the same
+on both sides of the lens. For a converging lens, f can be measured by finding 
+the image point for the Sun or other distant objects. Once f is known, the image
+position can be determined for any object. To find the image point by drawing rays
+would be difficult if we had to determine the refractive angles at the front surface
+of the lens and again at the back surface where the ray exits. We can save ourselves
+a lot of effort by making use of certain facts we already know, such as that a ray
+parallel to the axis of the lens passes (after r

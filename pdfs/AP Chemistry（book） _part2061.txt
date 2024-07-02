@@ -1,0 +1,29 @@
+in NaOH.
+The definitions of molarity and molality are similar enough that they can be easily 
+confused.
+t
+Molarity depends on the volume of solution.
+t Molality depends on the mass of solvent.
+When water is the solvent, the molality and molarity of dilute solutions are numeri-
+cally about the same because 1 kg of solvent is nearly the same as 1 kg of solution, and 
+ 
+1 kg of the solution has a volume of about 1 L.
+SOLUTION
+(a) Analyze We are given the number of grams of solute (13.5 g) 
+and the number of grams of solvent 10.100 kg = 100 g2. From 
+this, we must calculate the mass percentage of solute.
+Plan We can calculate the mass percentage by using Equation 13.5. 
+The mass of the solution is the sum of the mass of solute (glucose) 
+and the mass of solvent (water).
+Solve Mass % of glucose =
+mass glucose
+mass soln
+* 100
+ 
+ 
+    =
+13.5 g
+113.5 + 1002 g * 100 = 11.9%
+Comment The mass percentage of water in this solution is 
+1100 - 11.92% = 88.1%.
+(b) Analyze In this case we are given t

@@ -1,0 +1,19 @@
+ hot (engine running temperature). In other words, the viscosity does not 
+drop precipitously as the oil warms up, as a simple 20-weight oil would.
+The French scientist J. L. Poiseuille (1799–1869), who was interested in the
+physics of blood circulation (and after whom the “poise”is named), determined how
+the variables affect the flow rate of an incompressible fluid undergoing laminar
+flow in a cylindrical tube. His result, known as Poiseuille’s equation, is:
+(10;9)
+where R is the inside radius of the tube,
+is the tube length,
+is the pressure
+difference between the ends,
+is the coefficient of viscosity, and Q is the volume
+rate of flow (volume of fluid flowing past a given point per unit time which in SI
+has units of 
+). Equation 10–9 applies only to laminar (streamline) flow.
+Poiseuille’s equation tells us that the flow rate Q is directly proportional to
+the “pressure gradient,”
+and it is inversely proportional to the viscos-
+ity of the fluid. This is just what we might expect. It may

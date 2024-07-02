@@ -1,0 +1,60 @@
+reaction is shown in Figure 24.9. The 
+ﬁrst energy maximum represents the transition state in the ﬁrst step, 
+and the second maximum represents the transition state in the sec-
+ond step. The energy minimum represents the energies of the inter-
+mediate species, CH3C
++
+H ¬CH2CH3 and Br-.
+To show electron movement in reactions like these, chemists 
+often use curved arrows pointing in the direction of electron ﬂow. For 
+the addition of HBr to 2-butene, for example, the shifts in electron 
+positions are shown as
+CH3
+CHCH3
+CH
+CH3
+slow
+CH3
+C
+H
+C
+H
+H
+CH3
+CH3
+C
+H
+C
+H
+H
+fast
+Br
+H
+Br
+Br
++
++
++
+−
+A Closer look Mechanism of Addition Reactions
+Go Figure
+Is the reaction in Figure 24.9 spontaneous or not, assuming 
+the change in energy equals the change in ∆G?
+Reaction pathway
+Reactants
+Intermediates
+First transition
+state
+Second transition
+state
+Product
+CH3CH      CHCH3
+CH3CHCH2CH3
+CH3CH      CH2CH3
++ HBr
+Br
++ Br−
+Energy
++
+▲ Figure 24.9 Energy profile for addition of HBr to 2-butene. The two 
+maxima t

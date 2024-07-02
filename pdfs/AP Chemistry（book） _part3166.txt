@@ -1,0 +1,30 @@
+reducing agent?
+(a)
+(b)
+The purple color of MnO4− 
+remains because C2O42− is 
+completely consumed.
+The purple color of MnO4− 
+disappears immediately as 
+reaction with C2O42− occurs.
+MnO4−(aq)
+C2O4
+2−(aq)
+▲ Figure 20.2 Titration of an acidic solution of Na2C2O4 with KMnO4(aq).
+ 
+SECTION 20.2  Balancing Redox Equations 
+853
+854 
+CHAPTER 20 Electrochemistry
+Now there are equal numbers of each type of atom on the two sides of the equation, but 
+the charge still needs to be balanced. The charge of the reactants is 811+2 + 111-2 = 7+, 
+and that of the products is 112+2 + 4102 = 2+. To balance the charge, we add five elec-
+trons to the reactant side (Step 2d):
+ 
+5 e- + 8 H+1aq2 + MnO4
+-1aq2 ¡ Mn2+1aq2 + 4 H2O1l2 
+We can use oxidation states to check our result. In this half-reaction, Mn goes from the 
++7 oxidation state in MnO4
+- to the +2 oxidation state of Mn2+. Therefore, each Mn atom 
+gains five electrons, in agreement with our balanced half-reaction.
+In the oxalate half-reaction, we have

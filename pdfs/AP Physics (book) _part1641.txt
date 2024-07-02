@@ -1,0 +1,61 @@
+ from the first law of thermodynamics we
+can write 
+or
+(see Fig. 15–16). Then Eq. 15–6a
+becomes
+(15;6b)
+For an ideal refrigerator (not a perfect one, which is impossible), the best we could
+do would be
+(15;6c)
+analagous to an ideal (Carnot) engine (Eq. 15–5).
+An air conditioner works very much like a refrigerator, although the actual
+construction details are different: an air conditioner takes heat 
+from inside a
+room or building at a low temperature, and deposits heat 
+outside to the envi-
+ronment at a higher temperature. Equations 15–6 also describe the coefficient of
+performance for an air conditioner.
+QH
+QL
+crefrigerator and
+air conditioner d
+COPideal =
+T
+L
+T
+H - T
+L
+,
+crefrigerator and
+air conditioner d
+COP = QL
+W
+=
+QL
+QH - QL
+.
+W = QH - QL
+QL + W = QH,
+QL
+QL
+crefrigerator and
+air conditioner d
+COP = QL
+W
+.
+QL
+426
+CHAPTER 15
+The Laws of Thermodynamics
+P H Y S I C S  A P P L I E D
+Heat pump
+Cold outside
+Warm inside
+of house
+QL
+QH
+W
+Heat
+pump
+FIGURE 15–18 A heat pump uses
+an electri

@@ -1,0 +1,25 @@
+ heat of the solution.
+Plan The total heat produced can be calculated using  
+Equation 5.22. The number of moles of HCl consumed in the  
+reaction must be calculated from the volume and molarity of 
+this  
+substance, and this amount is then used to determine the 
+heat produced per mol HCl.
+Solve
+Because the total volume of the solution is 100 mL, its mass is:
+∆T = 27.5 °C - 21.0 °C = 6.5 °C = 6.5 K
+The temperature change is:
+1100 mL211.0 g>mL2 = 100 g
+Because the process occurs at constant pressure,
+∆H = qP = -2.7 kJ
+To express the enthalpy change on a molar basis, we use the  
+fact that the number of moles of HCl is given by the product  
+of the volume 150 mL = 0.050 L2 and concentration 
+11.0 M = 1.0 mol>L2 of the HCl solution:
+ qrxn = -Cs * m * ∆T 
+ = -14.18 J>g@K21100 g216.5 K2 = -2.7 * 103 J = -2.7 kJ
+Using Equation 5.22, we have:
+Thus, the enthalpy change per mole of HCl is:
+10.050 L211.0 mol>L2 = 0.050 mol
+∆H = -2.7 kJ>0.050 mol = -54 kJ>mol
+Check ∆H is negative (exothermic), as

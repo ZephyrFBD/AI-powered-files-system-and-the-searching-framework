@@ -1,0 +1,19 @@
+through a closed surface—a surface of any
+shape that encloses a volume of space. For any such surface, such as that shown in
+Fig. 16–44, we divide the surface up into many tiny areas,
+and so on. We make the division so that each 
+is small enough that it can be
+considered flat and so that the electric field can be considered constant through
+each 
+Then the total flux through the entire surface is the sum over all the
+individual fluxes through each of the tiny areas:
+where the symbol 
+means “sum of.” We saw in Section 16–8 that the number
+of field lines starting on a positive charge or ending on a negative charge is
+proportional to the magnitude of the charge. Hence, the net number of lines N
+pointing out of any closed surface (number of lines pointing out minus the number
+pointing in) must be proportional to the net charge enclosed by the surface,
+But from Eq. 16–8, we have that the net number of lines N is proportional to 
+the total flux 
+Therefore,
+The constant of proportionality, to 

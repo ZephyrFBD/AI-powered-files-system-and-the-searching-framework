@@ -1,0 +1,27 @@
+ants are labeled Ka1 and Ka2. The numbers on the 
+constants refer to the particular proton of the acid that is ionizing. Thus, Ka2 always 
+refers to the equilibrium involving removal of the second proton of a polyprotic acid.
+We see that Ka2 for sulfurous acid is much smaller than Ka1. Because of electrostatic 
+attractions, we would expect a positively charged proton to be lost more readily from the 
+neutral H2SO3 molecule than from the negatively charged HSO3
+- ion. This observation is 
+general: It is always easier to remove the first proton from a polyprotic acid than to remove the 
+second. Similarly, for an acid with three ionizable protons, it is easier to remove the sec-
+ond proton than the third. Thus, the Ka values become successively smaller as successive 
+protons are removed.
+Solve
+The equilibrium reaction and equilibrium concentrations are 
+as follows:
+HF1aq2    ∆      H +1aq2    +      
+F -1aq2
+Initial  
+concentration (M)
+0.10
+0
+0
+Change in  
+concentration (M)
+-x
++x
++x
+Equil

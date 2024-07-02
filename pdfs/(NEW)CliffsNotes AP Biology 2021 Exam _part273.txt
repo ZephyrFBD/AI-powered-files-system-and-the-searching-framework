@@ -1,0 +1,11 @@
+nimals that does not have exactly the same genes. These two
+chromosomes, the X and Y chromosomes, are called the sex chromosomes. All other chromosomes are called
+autosomes. In mammals and fruit flies, inheritance of two X chromosomes (XX) produces a female and inheritance
+of one X and one Y (XY) produces a male.
+Although inheritance of a Y chromosome makes a male, the Y chromosome is small (compared to the X) and has
+relatively few genes. Some of its genes code for testes and sperm development. One gene in particular, the SRY
+(Sex-determining Region of Y), regulates gene activities on other chromosomes, which, in turn, stimulate
+development of male characteristics. As a result, many traits that distinguish the sexes (milk production, male
+pattern baldness) are sex limited, that is, they can only develop in one or the other sex, even though the genes for
+those traits are on autosomes.
+Sex-linked (or X-linked) genes are genes that reside on the X, or sex, chromosome. Y-linked genes are 

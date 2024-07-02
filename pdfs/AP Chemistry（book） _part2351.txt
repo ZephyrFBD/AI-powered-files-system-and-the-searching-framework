@@ -1,0 +1,24 @@
+CH32Au + PH3 ¡
+k3
+ 1CH32AuPH3 1fast2
+ 
+ (a) What is the overall reaction? (b) What are the inter-
+mediates in the mechanism? (c) What is the molecular-
+ity of each of the elementary steps? (d) What is the rate- 
+determining step? (e) What is the rate law predicted by 
+this mechanism? (f) What would be the effect on the reac-
+tion rate of adding PH3 to the solution of 1CH323AuPH3?
+ 
+[14.113] Platinum nanoparticles of diameter ∼2 nm are import-
+ant catalysts in carbon monoxide oxidation to carbon 
+dioxide. Platinum crystallizes in a face-centered cubic 
+arrangement with an edge length of 3.924 Å. (a) Esti-
+mate how many platinum atoms would ﬁt into a 2.0-nm 
+sphere; the volume of a sphere is 14>32pr3. Recall that 
+1 A
+° = 1 * 10-10 m and 1 nm = 1 * 10-9 m. (b) Estimate 
+how many platinum atoms are on the surface of a 2.0-nm 
+Pt sphere, using the surface area of a sphere 14pr22 and 
+assuming that the “footprint” of one Pt atom can be es-
+timated from its atomic diameter of 2.8 A
+° . (c) U

@@ -1,0 +1,12 @@
+d releases the wrong nucleotide. This is performed by the exonuclease action of DNA pol
+III. Once the incorrect nucleotide has been removed, a new one will be added again.
+Figure 14.17 Proofreading by DNA polymerase corrects errors during replication.
+Some errors are not corrected during replication, but are instead corrected after replication is completed; this type of repair
+is known as mismatch repair (Figure 14.18). The enzymes recognize the incorrectly added nucleotide and excise it; this
+is then replaced by the correct base. If this remains uncorrected, it may lead to more permanent damage. How do mismatch
+repair enzymes recognize which of the two bases is the incorrect one? In E. coli, after replication, the nitrogenous base
+570
+Chapter 14 | DNA Structure and Function
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+adenine acquires a methyl group; the parental DNA strand will have methyl groups, whereas the newly synthesized strand
+lacks them. Thu

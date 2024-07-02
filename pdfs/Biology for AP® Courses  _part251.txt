@@ -1,0 +1,45 @@
+0.0085
+0.0023
+0.4231
+Human
+Blood
+0.302
+0.0204
+0.0094
+0.0021
+0.389
+Lung
+0.2956
+0.02095
+0.00839
+0.0021
+0.3425
+Testes
+0.3023
+0.01497
+0.00842
+0.001914 0.3737
+Ab-
+dominal
+cavity
+0.2935
+0.0164
+0.0091
+0.00184
+0.3888
+Table 2.3
+A. Using a spreadsheet, or by sharing calculations with
+your classmates, construct a quantitative model of these
+data from these percentages as ratios of mass fractions
+relative to that of sodium, %X/%Na. Of course, you will
+not be asked to use a spreadsheet on the AP Biology
+Exam. However, the ability to develop a quantitative
+model through the transformation of numerical data can be
+assessed. The question that led Macallum to investigate
+the elemental composition of different species and
+compare these with the composition of seawater follows
+from the central organizing principle of biology: the theory
+of evolution.
+B. The elements in the table above all occur in aqueous
+solution as ions. The net charges on the inside and outside
+of a cell are both zero. A very large di

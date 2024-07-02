@@ -1,0 +1,19 @@
+ve It Some Thought 
+Which of the following is an implication of Thomson’s observation that the type 
+of metal used to make the cathode does not matter? (a) The cathode rays do not 
+originate in the cathode. (b) The particles that make up cathode rays must be 
+present in all metals.
+Once the charge-to-mass ratio of the electron was known, measuring either quan-
+tity allowed scientists to calculate the other. In 1909, Robert Millikan (1868–1953) of the 
+University of Chicago succeeded in measuring the charge of an electron by  
+performing 
+the experiment described in Figure 2.5. He then calculated the mass of the electron by 
+using his experimental value for the charge, 1.602 * 10-19 C, and Thomson’s charge- 
+to-mass ratio, 1.76 * 108 C>g:
+Electron mass = 1.602 * 10-19 C
+1.76 * 108 C>g
+= 9.10 * 10-28 g
+This result agrees well with the currently accepted value for the electron mass, 
+9.10938 * 10-28 g. This mass is about 2000 times smaller than that of hydrogen, the 
+lightest atom.
+Radioa

@@ -1,0 +1,22 @@
+two distances, one for each reference frame. [This surprising result is explored
+in the next Section (26–5).]
+SOLUTION (a) The given 10.0-min time interval is the proper time 
+—starting
+and finishing the magazine happen at the same place on the spaceship. Earth
+clocks measure
+(b) In the Earth frame,
+the rocket travels a
+distance 
+In the spaceship’s frame, the Earth is moving away from the spaceship at 0.75c,
+but the time is only 10.0 min, so the distance is measured to be
+Space Travel?
+Time dilation has aroused interesting speculation about space travel. According
+to classical (Newtonian) physics, to reach a star 100 light-years away would not
+be possible for ordinary mortals (1 light-year is the distance light can travel 
+in
+). Even if a spaceship
+could travel at close to the speed of light, it would take over 100 years to reach
+such a star. But time dilation tells us that the time involved could be less. In
+a spaceship traveling at 
+the time for such a trip would be only about
+Thus t

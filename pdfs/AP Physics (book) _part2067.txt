@@ -1,0 +1,36 @@
+V - 7.0 V = 5.0 V.
+V
+bc
+V
+ac = 12.0 V,
+V
+ab = (0.0174 A)(400 ) = 7.0 V.
+V = IR:
+V
+ab
+V
+ab,
+400-
+V = IR,
+V
+bc
+V
+bc.
+500-
+500-
+I
+1
+EXAMPLE 19;5
+Bulb brightness in a circuit. The circuit
+in Fig. 19–8 has three identical lightbulbs, each of resistance R. (a) When switch S
+is closed, how will the brightness of bulbs A and B compare with that of bulb C?
+(b) What happens when switch S is opened? Use a minimum of mathematics.
+RESPONSE (a) With switch S closed, the current that passes through bulb C must
+split into two equal parts when it reaches the junction leading to bulbs A and B
+because the resistance of bulb A equals that of B. Thus, A and B each receive half
+of C’s current; A and B will be equally bright, but less bright than C
+(b) When the switch S is open, no current can flow through bulb A, so it will be
+dark. Now, the same current passes through bulbs B and C, so B and C will 
+be equally bright. The equivalent resistance of this circuit 
+is greater
+than that of the circuit with t

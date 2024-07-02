@@ -1,0 +1,42 @@
+ium-235 nucleus splits, for instance, are
+ 
+0n
+1
+0n
+1
+3
+92U
+235
+36Kr
+91
+56Ba
+142
+0n
+1
+2
+40Zr
+97
+52Te
+137
++
++
++
++
++
+[21.24]
+[21.25]
+ 
+[21.24]
+ 
+[21.25]
+The nuclei produced in Equations 21.24 and 21.25—called the fission products—are them-
+selves radioactive and undergo further nuclear decay. More than 200 isotopes of 35 ele-
+ments have been found among the fission products of uranium-235. Most of them are 
+radioactive.
+Slow-moving neutrons are required for the fission of uranium-235 because the pro-
+cess involves initial absorption of the neutron by the nucleus. The resulting more mas-
+sive nucleus is extremely unstable and spontaneously undergoes fission. Fast neutrons 
+tend to bounce off the nucleus, and little fission occurs.
+Note that the coefficients of the neutrons produced in Equations 21.24 and 21.25 
+are 2 and 3, respectively. On average, 2.4 neutrons are produced by every fission of a ura-
+nium-235 nucleus. If one fission produces two neutrons, the two neutrons can cause two 

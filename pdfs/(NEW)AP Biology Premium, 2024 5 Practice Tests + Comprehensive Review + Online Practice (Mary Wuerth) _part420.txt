@@ -1,0 +1,13 @@
+ The high temperatures that are required for each cycle of PCR to separate the DNA strands would denature
+DNA polymerases that are not heat stable.
+(C) Heat-stable DNA polymerases anneal more readily to the PCR primers.
+(D) Heat-stable DNA polymerases are more accurate than other DNA polymerases.
+Short Free-Response
+11. The pAMP-pKAN plasmid contains both the ampicillin resistance gene and a kanamycin resistance gene.
+(a) Describe a method for inserting this plasmid into a bacterial cell.
+(b) Explain how one could detect which bacterial cells had successfully absorbed the pAMP-pKAN plasmid.
+(c) A restriction enzyme makes a cut in the kanamycin resistance gene. Predict the result if a bacterium
+absorbs this piece of DNA that has been cut by the restriction enzyme.
+(d) Justify your prediction from part (c).
+12. The comet assay technique is one way of measuring the relative amount of DNA damage in a cell. The nucleus
+of a cell is placed on a slide coated with an agarose gel. An electric c

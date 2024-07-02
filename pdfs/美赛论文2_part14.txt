@@ -1,0 +1,15 @@
+WHO, which are red dots marked in Figure 2. 
+As the figure shows, our model can well simulate the situation of the spread of 
+Ebola without vaccines or drugs. 
+Figure 2 shows the change of I(t) and S(t). Under the condition of lack of 
+the medical control, the susceptible rate will continuingly decrease because of 
+the death and cure of infected patient. Finally, the rate of susceptible will 
+maintain a constant, but at a low lever. The infective rate increases at first, but 
+decline then. The reason is that the infected people will infect the susceptible 
+and the number of the infected increases. At the same time, the infected people 
+will die of the disease, which will decline the infective rate. About 120 weeks 
+later, the infective rate rises to the summit and then the rate begins to decrease. 
+During this period, the number of people infected is smaller than the number 
+of people died of the disease or recover. 
+3.1.7 Strength and Weakness 
+ Strength: This model has proved that t

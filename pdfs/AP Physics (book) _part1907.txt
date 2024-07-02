@@ -1,0 +1,107 @@
+g. 17–37.
+We now look at the source of these potential changes and their relation to heart
+activity.
+*
+P
+P
+(a)
+At point
+P
+V
+t
+t
+At point
+P'
+P'
+P'
+(c)
+(b)
+V
++
++
++
++
++
+–
+–
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
+–
+–
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–+
++
++
++
++ +
+FIGURE 17–38 Heart muscle cell
+showing (a) charge dipole layer in
+resting state; (b) depolarization of
+cell progressing as muscle begins to
+contract; and (c) potential V at
+points P and 
+as a function of time.
+P¿
+P H Y S I C S  A P P L I E D
+Electrocardiogram
+R
+P
+T
+Q
+S
+Time
+Voltage
+FIGURE 17–37 Typical ECG.
+Two heart beats are shown.
+Both muscle and nerve cells have an electric dipole layer across the cell wall.
+That is, in the normal situation there is a net positive charge on the exterior surface
+and a net negative charge on the interior surface, Fig.17–38a. The amount of charge
+depends on the size of the cell, but is approximately 
+of surface. For a cell
+whose surface area is 
+the total charge on either s

@@ -1,0 +1,23 @@
+ 26–9b. The length, however, is contracted to
+So the picture has dimensions 
+to an observer on Earth.
+A fantasy supertrain. A very fast train with a “proper
+length” of
+(measured by people at rest on the train) is passing through
+a tunnel that is 200 m long according to observers on the ground. Let us imagine
+the train’s speed to be so great that the train fits completely within the tunnel as
+seen by observers on the ground. That is, the engine is just about to emerge from
+one end of the tunnel at the time the last car disappears into the other end. What
+is the train’s speed?
+APPROACH Since the train just fits inside the tunnel, its length measured by
+the person on the ground is
+The length contraction formula,
+Eq. 26–3a or b, can thus be used to solve for v.
+SOLUTION Substituting
+and
+into Eq. 26–3a gives
+dividing both sides by 500 m and squaring, we get
+or
+and
+NOTE No real train could go this fast. But it is fun to think about.
+NOTE An observer on the train would not see the two ends of

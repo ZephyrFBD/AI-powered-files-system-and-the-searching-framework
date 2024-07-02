@@ -1,0 +1,23 @@
+ two-component model used to determine percent body
+fat in a human body assumes that a fraction 
+of the
+body’s total mass m is composed of fat with a density of
+and that the remaining mass of the body is
+composed of fat-free tissue with a density of 
+If the specific gravity of the entire body’s density is X,
+show that the percent body fat
+is given by
+37. (II) On dry land, an athlete weighs 70.2 kg. The same
+athlete, when submerged in a swimming pool and hanging
+from a scale, has an “apparent weight” of 3.4 kg. Using
+Example 10–8 as a guide, (a) find the total volume V of the
+submerged athlete. (b) Assume that when submerged, the
+athlete’s body contains a residual volume
+of air (mainly in the lungs). Taking 
+to be the 
+actual volume of the athlete’s body, find the body’s specific
+gravity, SG. (c) What is the athlete’s percent body fat
+assuming it is given by the formula
+?
+38. (II) How many helium-filled balloons would it take to lift 
+a person? Assume the person has a mass of 72 kg and 

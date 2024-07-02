@@ -1,0 +1,14 @@
+er of experiments that were
+crucial for establishing our present-day view that heat, like work, represents a
+transfer of energy. One of Joule’s experiments is shown (simplified) in Fig. 14–1.
+The falling weight causes the paddle wheel to turn. The friction between the
+water and the paddle wheel causes the temperature of the water to rise slightly
+(barely measurable, in fact, by Joule). The same temperature rise could also be
+obtained by heating the water on a hot stove. In this and many other experiments
+(some involving electrical energy), Joule determined that a given amount of
+work done was always equivalent to a particular amount of heat input. Quantita-
+tively, 4.186 joules (J) of work was found to be equivalent to 1 calorie (cal) of heat.
+This is known as the mechanical equivalent of heat:
+As a result of these and other experiments, scientists came to interpret heat
+not as a substance, and not exactly as a form of energy. Rather, heat refers to a
+transfer of energy: when heat flow

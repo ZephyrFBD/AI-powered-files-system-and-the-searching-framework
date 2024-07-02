@@ -1,0 +1,26 @@
+ 
+the graph are the zeros of the function. 
+REAL ZEROS OF POLYNOMIALS 
+If P is a polynomial and c is a real number, then the following are equivalent: 
+1. c is a zero of P. 
+2. x = c is a solution of the equation P(x) = 0. 
+3. x − c is a factor of P(x). 
+4. c is an x-intercept of the graph of P. 
+For example, to find the zeros of P(x) = x2 +x -6, we factor P to get P(x) = (x-2)(x+3). 
+From this factored form we easily see that 
+1. 2 is a zero of P. 
+2. x = 2 is a solution of the equation. 
+3. x − 2 is a factor of the equation. 
+ 
+38 
+4. 2 is an x-intercept of the graph of P.  
+The same facts are true for the other zero, −3. 
+ 
+INTERMEDIATE VALUE THEOREM FOR POLYNOMIALS 
+If P is a polynomial function and P(a) and P(b) have opposite signs, then there exists at 
+least one value c between a and b for which P(c) = 0. 
+ 
+ 
+1. Zeros. Factor the polynomial to find all its real zeros; these are the x-intercepts of the 
+graph. 
+2.Test Points. Make a table of values for the polynomial. Include te

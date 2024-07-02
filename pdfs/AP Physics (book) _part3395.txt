@@ -1,0 +1,14 @@
+strike and
+ionize additional atoms. An “avalanche” of electrons is quickly produced, and
+when it reaches the wire anode, it produces a voltage pulse. The pulse, after being
+amplified, can be sent to an electronic counter, which counts how many particles
+have been detected. Or the pulses can be sent to a loudspeaker and each detec-
+tion of a particle is heard as a “click.” Only a fraction of the radiation emitted 
+by a sample is detected by any detector.
+A scintillation counter makes use of a solid, liquid, or gas known as a
+scintillator or phosphor. The atoms of a scintillator are easily excited when struck
+by an incoming particle and emit visible light when they return to their ground
+states. Typical scintillators are crystals of NaI and certain plastics. One face of a
+solid scintillator is cemented to a photomultiplier tube, and the whole is wrapped
+with opaque material to keep it light-tight (in the dark) or is placed within a light-
+tight container. The photomultiplier (PM) tube co

@@ -1,0 +1,16 @@
+3H+4 is very small, as is often the case, it would be unim-
+portant. That reasoning is quite incorrect! Remember that many chemical processes 
+depend on the ratio of changes in concentration. For example, if a kinetic rate law is 
+first order in 3H+4, doubling the H+ concentration doubles the rate even if the change 
+is merely from 1 * 10-7 M to 2 * 10-7 M. 
+ (Section 14.3) In biological systems, 
+676 
+CHAPTER 16 Acid–Base Equilibria
+many reactions involve proton transfers and have rates that depend on 3H+4. Because 
+the speeds of these reactions are crucial, the pH of biological fluids must be maintained 
+within narrow limits. For example, human blood has a normal pH range of 7.35 to 7.45. 
+Illness and even death can result if the pH varies much from this narrow range.
+pOh and Other “p” Scales
+The negative logarithm is a convenient way of expressing the magnitudes of other small 
+quantities. We use the convention that the negative logarithm of a quantity is labeled 
+“p” (quantity). Th

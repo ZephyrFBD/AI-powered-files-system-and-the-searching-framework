@@ -1,0 +1,20 @@
+kJ
+in which direction will the equilibrium shift when (a) Cl21g2 
+is removed, (b) the temperature is decreased, (c) the volume 
+of the reaction system is increased, (d) PCl31g2 is added?
+By thinking of heat as a chemical reagent, we can use Le Châtelier’s 
+principle to predict how an equilibrium mixture of reactants and 
+products will respond to a change in temperature. For an endother-
+mic reaction, the equilibrium constant K increases as the temperature 
+rises and decreases as the temperature is lowered, while exothermic 
+reactions respond in the opposite manner.  The underlying reason for 
+this behavior can be understood by taking a closer look at the rela-
+tionships among the equilibrium constant, the forward and reverse 
+reaction rates, and their activation energies. 
+To illustrate the underlying relationships consider an elemen-
+tary reaction A ∆B. At equilibrium, the rates of the forward and 
+reverse reactions are equal:
+ 
+kf3A4 = kr3B4 
+[15.26]
+The equilibrium constant, K = 3B4

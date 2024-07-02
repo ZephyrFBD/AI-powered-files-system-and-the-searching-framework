@@ -1,0 +1,26 @@
+terval. For example, in one rotation both children rotate through the
+same angle (
+or 
+radians). The two children have the same angular velocity.
+2p
+360°
+CONCEPTUAL EXAMPLE 8;3
+The total linear acceleration of a point in the rotating object is the vector sum
+of two components:
+where the radial component,
+is the radial or “centripetal” acceleration and 
+its direction is toward the center of the point’s circular path; see Fig. 8–6. We saw
+in Chapter 5 (Eq. 5–1) that a particle moving in a circle of radius r with linear
+speed v has a radial acceleration
+We can rewrite this in terms of 
+using Eq. 8–4:
+(8;6)
+Thus the centripetal acceleration is greater the farther you are from the axis of
+rotation: the children farthest out on a carousel feel the greatest acceleration.
+Equations 8–1, 8–4, 8–5, and 8–6 relate the angular quantities describing the 
+rotation of an object to the linear quantities for each point of a rotating object.
+Table 8–1 summarizes these relationships.
+aR = v2
+r
+= (rv)2
+r

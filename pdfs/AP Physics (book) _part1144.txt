@@ -1,0 +1,25 @@
+rection, accelerating until it passes the
+equilibrium point (Fig. 11–2d), and then slows down until it reaches zero speed 
+at the original starting point,
+(Fig. 11–2e). It then repeats the motion,
+moving back and forth symmetrically between
+and
+EXERCISE A A mass is oscillating on a frictionless surface at the end of a horizontal
+spring. Where, if anywhere, is the acceleration of the mass zero (see Fig. 11–2)?
+(a) At
+(b) at 
+(c) at
+(d) at both 
+and
+(e) nowhere.
+To discuss oscillatory motion, we need to define a few terms. The distance x
+of the mass from the equilibrium point at any moment is the displacement
+The maximum displacement—the greatest distance from
+the equilibrium point—is called the amplitude, A. One cycle refers to the com-
+plete to-and-fro motion from some initial point back to that same point—say,
+from
+to
+and back to
+The period, T, is defined as
+the time required to complete one cycle. Finally, the frequency, f, is the number
+of complete cycles per second. Frequency is ge

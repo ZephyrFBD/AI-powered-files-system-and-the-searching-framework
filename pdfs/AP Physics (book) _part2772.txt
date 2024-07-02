@@ -1,0 +1,25 @@
+1
+1000 s
+1
+100 s
+1
+1000 s
+SECTION 25–1
+Cameras: Film and Digital
+715
+†Different films have different sensitivities to light, referred to as the “film speed” and specified as an
+“ISO (or ASA) number.” A “faster” film is more sensitive and needs less light to produce a good
+image, but is grainier which you see when the image is enlarged. Digital cameras may have a “gain” or
+“ISO” adjustment for sensitivity. A typical everyday ISO might be 200 or so. Adjusting a CCD to be
+“faster” (high ISO like 3200) for low light conditions results in “noise,” resulting in graininess just as
+in film cameras.
+FIGURE 25–5 On this camera, the
+f-stops and the focusing ring are on
+the camera lens. Shutter speeds are
+selected on the small wheel on top
+of the camera body.
+Focusing Focusing is the operation of placing the lens at the correct position
+relative to the sensor or film for the sharpest image. The image distance is
+smallest for objects at infinity (the symbol 
+is used for infinity) and is equal to
+th

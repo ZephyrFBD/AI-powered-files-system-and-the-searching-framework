@@ -1,0 +1,23 @@
+propriate conditions, behave as though it were a stream of particles 
+(photons), could matter, under appropriate conditions, possibly show the properties 
+of a wave?
+De Broglie suggested that an electron moving about the nucleus of an atom behaves 
+like a wave and therefore has a wavelength. He proposed that the wavelength of the elec-
+tron, or of any other particle, depends on its mass, m, and on its velocity, v:
+ 
+l =
+h
+mv 
+[6.8]
+where h is the Planck constant. The quantity mv for any object is called its momentum. 
+De Broglie used the term matter waves to describe the wave characteristics of material 
+particles.
+Check Referring back to Figure 6.12, we confirm that the n = 4 to 
+n = 1 transition should have the largest energy of the three possi-
+ble transitions.
+ 
+▶Practice Exercise 1
+In the top part of Figure 6.11, the four lines in the H atom 
+spectrum are due to transitions from a level for which ni 7 2 
+to the nf = 2 level. What is the value of ni for the red line in the 
+spectru

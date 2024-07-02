@@ -1,0 +1,24 @@
+Co
+mp
+re
+ssi
+on
+FIGURE 9–25 A beam sags, at least 
+a little (but is exaggerated here), even 
+under its own weight. The beam thus 
+changes shape: the upper edge is 
+compressed, and the lower edge is 
+under tension (elongated). Shearing 
+stress also occurs within the beam.
+Reinforced concrete, in which iron rods are embedded in the concrete (Fig. 9–26),
+is much stronger. But the concrete on the lower edge of a loaded beam still tends
+to crack because it is weak under tension. This problem is solved with prestressed
+concrete, which also contains iron rods or a wire mesh, but during the pouring of
+the concrete, the rods or wire are held under tension. After the concrete dries,
+the tension on the iron is released, putting the concrete under compression.
+The amount of compressive stress is carefully predetermined so that when loads
+are applied to the beam, the compression on the lower edge is never allowed 
+to be reduced so far as to put the concrete into tension.
+246
+CHAPTER 9
+Static Equili

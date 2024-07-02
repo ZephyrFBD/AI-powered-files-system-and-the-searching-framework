@@ -1,0 +1,15 @@
+o other epidemic areas. 
+3.5.2.3 The Process of Model 
+ 
+3.5.2.4 The Foundation of Model 
+The treatment center would estimate the different demand for drugs of 14 cities, 
+then, make the distribution of drugs. Considering that there is certain error between 
+the prediction and the actual situation, there would be a case that drugs are sufficient 
+for an epidemic area, but not sufficient for the other. The distance of the two cities is 
+much shorter than the distance from the treatment center to the two cities. In this case, 
+Team   #37232                                                              Page 15 of 22   
+medication transport between the two cities (lateral transport) is much more 
+reasonable, which saves time and cost. Thus, it is necessary to combine the drug 
+distribution from the treatment center to epidemic areas with drug transport between 
+epidemic areas. Such distribution plan can improve the efficiency.2 
+So we build a model based on both the vertical and lateral tra

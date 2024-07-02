@@ -1,0 +1,34 @@
+ed for naming ionic compounds:
+How to Name Binary Molecular Compounds
+ 
+1. The name of the element farther to the left in the periodic table (closest to the metals) is 
+usually written first. An exception occurs when the compound contains oxygen and 
+chlorine, bromine, or iodine (any halogen except fluorine), in which case oxygen is 
+written last.
+ 
+2. If both elements are in the same group, the one closer to the bottom of the table is named first.
+ 
+3. The name of the second element is given an -ide ending.
+ 
+4. Greek prefixes (Table 2.6) indicate the number of atoms of each element.  
+(Exception: 
+The prefix mono- is never used with the first element.) When the prefix ends in a or 
+o and the name of the second element begins with a vowel, the a or o of the prefix is 
+often dropped.
+add H1
+add H1
+add H1
+Anion
+Acid
+_________ide
+(chloride, Cl2)
+hydro______ic acid
+(hydrochloric acid, HCl)
+_________ite
+(chlorite, ClO2
+  
+2)
+(hypochlorite, ClO2)
+_________ous acid
+(chlorous acid, HClO2)
+(hy

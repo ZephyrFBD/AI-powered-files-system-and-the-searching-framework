@@ -1,0 +1,23 @@
+ are
+Remember, the median is the middle number, so it’s best to put the data in order first.
+Slide A
+Slide B
+7
+2
+8
+3
+8
+4
+10
+4
+11
+4
+The median of group A is 8, and the median of group B is 4.
+The mode is the most frequent value. For group A, this is 8. For group B, the mode is 4.
+(b) ​ Standard error is the standard deviation divided by the square root of the sample size. The sample size is five
+for both group A and group B because five pictures were taken for each slide. Because the standard error of
+group A is larger than that of group B and because the two groups have the same sample size, the standard
+deviation of group A must also be larger than that of group B. Note that this may or may not be the case if the
+sample sizes were different. A larger standard deviation means the data is more variable, so you can conclude
+that the data from group A has a larger spread than the data from group B.
+(c) ​ As with most datasets, the researcher is assuming the data fits a normal distribution

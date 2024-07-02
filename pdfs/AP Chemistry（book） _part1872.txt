@@ -1,0 +1,15 @@
+c 
+iron metal, and the lighter regions are 
+cementite, Fe3C.
+Intermetallic compounds play many important roles in modern society. The 
+intermetallic compound Ni3Al is a major component of jet aircraft engines because of 
+its strength at high temperature and its low density. Razor blades are often coated with 
+Cr3Pt, which adds hardness, allowing the blade to stay sharp longer. Both compounds 
+have the structure shown on the left-hand side of Figure 12.17. The compound Nb3Sn, 
+also shown in Figure 12.17, is a superconductor, a substance that, when cooled below a 
+critical temperature, conducts electricity with no resistance. In the case of Nb3Sn super-
+conductivity is observed only when the temperature falls below 18 K. Superconductors 
+are used in the magnets in MRI scanners widely employed for medical imaging. 
+ (Sec-
+tion 6.7, “Nuclear Spin and Magnetic Resonance Imaging”) The need to keep the mag-
+nets cooled to such a low temperature is part of the reason why MRI devices are expens

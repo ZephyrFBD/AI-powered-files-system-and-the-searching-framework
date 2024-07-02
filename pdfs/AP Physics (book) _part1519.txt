@@ -1,0 +1,23 @@
+iquids, which
+change in volume only slightly with a change in temperature. Gases change
+strongly in volume with a change in temperature at constant pressure, as we saw
+in Chapter 13 with the gas laws; or, if kept at constant volume, the pressure in a
+gas changes strongly with temperature. The specific heat of a gas depends very
+much on how the process of changing its temperature is carried out. Most com-
+monly, we deal with the specific heats of gases kept (a) at constant pressure 
+or (b) at constant volume 
+Some values are given in Table 14–2, where we
+see that 
+is always greater than 
+For liquids and solids, this distinction is 
+usually negligible. More details are given in Appendix D on molecular specific
+heats and the equipartition of energy.
+cV.
+cP
+AcVB.
+AcPB
+*
+14–4 Calorimetry—Solving Problems
+In discussing heat and thermodynamics, we often consider a particular system,
+which is any object or set of objects we choose to consider. Everything else in the
+universe is its “environmen

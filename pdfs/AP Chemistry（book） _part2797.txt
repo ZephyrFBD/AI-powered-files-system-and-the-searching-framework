@@ -1,0 +1,23 @@
+C and 0.950 atm is bubbled through 0.500 L of 0.150 M NH3 solution. Calculate the pH 
+of the resulting solution assuming that all the HCl dissolves and that the volume of the solution remains 0.500 L.
+The number of moles of NH3 in the solution is 
+given by the product of the volume of the solu-
+tion and its concentration:
+The number of moles of HCl gas is calculated 
+from the ideal-gas law:
+Moles NH3 = 10.500 L210.150 mol NH3>L2 = 0.0750 mol NH3
+SOLUTION
+Sample Integrative Exercise 
+Putting Concepts Together
+n = PV
+RT =
+10.950 atm211.25 L2
+10.0821 L@atm>mol@K21294 K2 = 0.0492 mol HCl
+Continued
+reactions used must proceed so far toward completion that any concentration of cations 
+remaining in the solution is too small to interfere with subsequent tests.
+Let’s look at each of these five groups of cations, briefly examining the logic used in 
+this qualitative analysis scheme.
+Group 1. Insoluble chlorides: Of the common metal ions, only Ag+1aq2, Hg2
+2+1aq2, 
+and Pb2 +1aq2 form insoluble c

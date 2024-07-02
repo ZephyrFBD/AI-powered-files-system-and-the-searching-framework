@@ -1,0 +1,76 @@
+eration]
+(2;9)
+Equations 2–6, 2–8, and 2–9 are three of the four most useful equations for
+motion at constant acceleration. We now derive the fourth equation, which is useful
+x = x0 + v0t +
+1
+2 at2.
+= x0 + ¢ v0 + v0 + at
+2
+≤t
+= x0 + ¢ v0 + v
+2
+≤t
+x = x0 + vt
+v = v0 + v
+2
+.
+v,
+x = x0 + vt.
+t:
+v = Ax - x0Bt,
+t
+v = 0 + at = A4.0 ms2B(6.0 s) = 24 ms.
+t = 6.0 s
+4.0 ms2,
+Av0 = 0B
+v = v0 + at.
+v0
+at = v - v0        or         v - v0 = at.
+t
+v
+t,
+a = v - v0
+t
+.
+a = ¢v¢t
+t0 = 0.
+v =
+¢x
+¢t
+= x - x0
+t - t0
+= x - x0
+t
+t - t0
+v2
+x2
+v
+t
+t = 0.
+v
+v0,
+x0
+Av1B
+Ax1B
+t2 = t
+t0 .
+t1 = t0 = 0.
+t0 .
+t
+v,
+28
+CHAPTER 2
+C A U T I O N
+Average velocity, but only if
+a = constant
+FIGURE 2;13 An accelerating
+motorcycle.
+†Appendix A–4 summarizes simple algebraic manipulations.
+SECTION 2–5
+Motion at Constant Acceleration
+29
+in situations where the time is not known. We substitute Eq. 2–8 into Eq. 2–7:
+Next we solve Eq. 2–6 for 
+obtaining (see Appendix A–4 for a quick review)
+and substituting this into the previo

@@ -1,0 +1,37 @@
+1
+2
+Q2
+C
+.
+C = 0
+A
+d
+.
+C = Q
+V , or Q = CV.
+l
+p = Ql,
+1r2.
+*
+494
+CHAPTER 17
+Electric Potential
+1. If two points are at the same potential, does this mean that
+no net work is done in moving a test charge from one point to
+the other? Does this imply that no force must be exerted?
+Explain.
+2. If a negative charge is initially at rest in an electric field,
+will it move toward a region of higher potential or lower
+potential? What about a positive charge? How does the
+potential energy of the charge change in each instance?
+Explain.
+3. State clearly the difference (a) between electric potential
+and electric field, (b) between electric potential and elec-
+tric potential energy.
+4. An electron is accelerated from rest by a potential differ-
+ence of 0.20 V. How much greater would its final speed 
+be if it is accelerated with four times as much voltage?
+Explain.
+5. Is there a point along the line joining two equal positive
+charges where the electric field is zero? Where the electric
+potential i

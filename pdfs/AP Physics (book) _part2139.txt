@@ -1,0 +1,51 @@
+arges up to the battery emf.
+(c) The capacitor eventually charges up to the full battery
+emf at a rate determined by R and C.
+(d) The capacitor charges up to a fraction of the battery
+emf determined by R and C.
+(e) The capacitor charges up to a fraction of the battery
+emf determined by R only.
+R1?
+11. The capacitor in the circuit shown in Fig. 19–47 is charged
+to an initial value Q. When the switch is closed, it discharges
+through the resistor. It takes 2.0 seconds for the charge to
+drop to
+How long does it take to drop to
+(a) 3.0 seconds.
+(b) 4.0 seconds.
+(c) Between 2.0 and 3.0 seconds.
+(d) Between 3.0 and 4.0 seconds.
+(e) More than 4.0 seconds.
+1
+4 Q?
+1
+2 Q.
+R1
+R3
+R4
+R2
+R5
+V
+R1
+R3
+R2
+R4
+V
+S
+FIGURE 19–45
+MisConceptual
+Questions 7 and 8.
+FIGURE 19–43
+MisConceptual
+Question 5.
+R
+S
+C
+e
++
+–
+FIGURE 19–46
+MisConceptual Question 10.
+12. A resistor and a capacitor are used in series to control the
+timing in the circuit of a heart pacemaker. To design a pace-
+maker that can double the heart r

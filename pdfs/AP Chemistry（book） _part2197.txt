@@ -1,0 +1,30 @@
+ons.
+leave 3NO2
+-4 unchanged (experiments 1 and 3), the rate changes by a factor of 4, and 
+so forth. These results indicate that the initial reaction rate is proportional to 3NH4
++4. 
+When 3NO2
+-4 is similarly varied while 3NH4
++4 is held constant, the rate is affected in 
+the same manner. Thus, the rate is also directly proportional to the concentration of 
+3NO2
+-4.
+We express the way in which the rate depends on the reactant concentrations by the 
+equation
+ 
+Rate = k3NH4
++43NO2
+-4 
+[14.6]
+An equation such as Equation 14.6, which shows how the rate depends on reactant con-
+centrations, is called a rate law. For the general reaction
+ 
+a A + b B ¡ c C + d D 
+the rate law generally has the form
+ 
+Rate = k3A4m3B4n 
+[14.7]
+Notice that only the concentrations of the reactants generally appear in the rate law. The 
+constant k is called the rate constant. The magnitude of k changes with temperature 
+and therefore determines how temperature affects rate, as we will see in Section 14.5. The 
+e

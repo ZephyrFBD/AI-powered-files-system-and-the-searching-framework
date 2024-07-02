@@ -1,0 +1,31 @@
+affects the buffer composition. Then we 
+use the resulting buffer composition and either the Henderson–
+Hasselbalch equation or the equilibrium-constant expression for 
+the buffer to determine the pH.
+SOLUTION
+Sample Exercise 17.6 
+Calculating pH Changes in Buffers
+Continued
+ 
+SECTION 17.2   
+Buffers 
+727
+728 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+Solve
+(a) Stoichiometry Calculation: The OH- provided 
+by NaOH reacts with CH3COOH, the 
+weak acid component of the buffer. Since 
+volumes are changing, it is prudent to ﬁgure 
+out how many moles of reactants and prod-
+ucts would be produced, then divide by the 
+ﬁnal volume later to obtain concentrations. 
+Prior to this neutralization reaction, there 
+are 0.300 mol each of CH3COOH and 
+CH3COO-. The amount of base added 
+is 0.0050 L * 4.0 mol>L = 0.020 mol. 
+Neutralizing the 0.020 mol OH- requires 
+0.020 mol of CH3COOH. Consequently, 
+the amount of CH3COOH decreases by 
+0.020 mol, and the amount of the product 
+of the neutralizat

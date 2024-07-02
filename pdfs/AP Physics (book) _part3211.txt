@@ -1,0 +1,49 @@
+r spread of a laser beam due to
+diffraction if the beam emerges through a 3.0-mm-diameter
+mirror. Assume that 
+What would be the diam-
+eter of this beam if it struck (a) a satellite 340 km above the
+Earth, or (b) the Moon? [Hint: See Sections 24–5 and 25–7.]
+l = 694 nm.
+Ka
+(Z = 42).
+n = 1
+n = 3
+(Z = 26).
+n = 2
+n = 3
+n = 1.
+n = 2
+(Z = 27)
+(Z = 42)
+l0 = 1240 nm
+V
+,
+l0
+l = 0.035 nm,
+45. The magnitude of the orbital angular momentum in an
+excited state of hydrogen is 
+and the z com-
+ponent is 
+What are all the possible values
+of n,
+and 
+for this state?
+46. An electron in the
+state of hydrogen remains there
+on average about 
+before jumping to the 
+state.
+(a) Estimate the uncertainty in the energy of the 
+state. (b) What fraction of the transition energy is this?
+(c) What is the wavelength, and width (in nm), of this line
+in the spectrum of hydrogen?
+47. What are the largest and smallest possible values for the
+angular momentum L of an electron in the
+shell?
+n = 6
+n = 2
+n = 1
+10–8 s
+n = 2
+ml

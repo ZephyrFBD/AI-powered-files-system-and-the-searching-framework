@@ -1,0 +1,18 @@
+es from
+half an hour to one and a half hour. Due to the change of the water temperature
+and the reality, we can roughly deduce that the times of adding hot water into the
+bathtub range from 1 to 4.
+
+Due to thermodynamic principles, the time that the even hot water takes to
+become cool is very long, so it is much longer than the ‘even time’ we have set
+before. Therefore, the lost heat during the ‘even time’ can be ignored. That is to
+say, heat only gets lost during the stage of becoming cool.
+
+Considering about adding hot water into the bathtub and draining away cold
+water from the bathtub, because the water is flowing from the single faucet to the
+bathtub almost in the shape of column, a block of water below the single faucet is
+in the shape of column and keeps the temperature. The hot water drops into the
+cold water with high energy, so the height of the block of water is very close to
+the height of the bathtub, which is shown in the picture below. What is clear is
+Team#44509
+Page 8

@@ -1,0 +1,21 @@
+nce
+frame of the wheel—that is, we are moving to the right with velocity relative to
+the ground. In this reference frame the axle C is at rest, whereas the ground and
+point P are moving to the left with velocity 
+as shown. In Fig. 8–8b we are
+seeing pure rotation. So we can use Eq. 8–4 to obtain 
+where r is the
+radius of the wheel. This is the same v as in Fig. 8–8a, so we see that the linear
+speed v of the axle relative to the ground is related to the angular velocity 
+of the
+wheel by
+[rolling without slipping]
+This relationship is valid only if there is no slipping.
+Bicycle. A bicycle slows down uniformly from 
+to rest over a distance of 115 m, Fig. 8–9. Each wheel and tire has an overall
+diameter of 68.0 cm. Determine (a) the angular velocity of the wheels at the 
+initial instant 
+(b) the total number of revolutions each wheel rotates
+before coming to rest; (c) the angular acceleration of the wheel; and (d) the time
+it took to come to a stop.
+APPROACH We assume the bicycle wheels ro

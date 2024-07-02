@@ -1,0 +1,37 @@
+or at the end of bit-line-1 will detect either change in
+voltage (increase means it reads a “1”, decrease a “0”). All cells connected to one
+word-line are read at the same moment. The capacitor voltage has been altered
+by the small charge flow during the reading process. So that cell or bit which has
+just been read needs to be written again, or “refreshed.”
+1
+2 V.
+=
+V
+1
+2 V.
+=
+1
+2 V
+= 
+*
+†Computer specifications may use “memory” for the random access (fast) memory, and “storage” for
+the long-term (and slower access) information on hard drives, flash drives, and related devices.
+‡At 100 nm,
+bits can fit along a 1-cm line,
+So a square, 1 cm 
+on a side, can hold
+(gigabyte). Today, cells are even smaller
+than 100 nm: a 
+cell can hold 
+in a 1 cm2 area.
+L 10 GB
+(30 nm)2
+105 * 105 = 1010 = 10 Gbits L 1 GB
+(1 cm100 nm) = 10–2 m10–7 m.
+105
+P H Y S I C S  A P P L I E D
+CDs and DVDs
+FIGURE 21–28 Symbol for a
+MOSFET transistor. The gate acts
+to attract or repel charge, and thus
+open or close the

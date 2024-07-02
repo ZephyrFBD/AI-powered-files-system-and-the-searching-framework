@@ -1,0 +1,32 @@
+ other cases, they may differ: recall the walk we
+described earlier, in Fig. 2–4, where a person walked 70 m east and then 30 m west.
+The total distance traveled was 
+but the displacement was
+40 m. Suppose this walk took 70 s to complete. Then the average speed was:
+The magnitude of the average velocity, on the other hand, was:
+To discuss one-dimensional motion of an object in general, suppose that at
+some moment in time, call it 
+the object is on the x axis at position 
+in a
+coordinate system, and at some later time,
+suppose it is at position 
+The
+elapsed time (
+in time) is
+during this time interval the
+displacement of our object is
+Then the average velocity,
+defined as the displacement divided by the elapsed time, can be written
+[average velocity]
+(2;2)
+where 
+stands for velocity and the bar 
+over the 
+is a standard symbol
+meaning “average.”
+For one-dimensional motion in the usual case of the 
+axis to the right,
+note that if 
+is less than 
+the object is moving to the left, and then
+i

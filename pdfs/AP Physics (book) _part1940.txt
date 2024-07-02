@@ -1,0 +1,26 @@
+charge
+would have to be transferred between a carpet and a shoe
+for there to be a 6.0-kV potential difference between the
+shoe and the carpet? Approximate the area of the shoe and
+assume the shoe and carpet are large sheets of charge
+separated by a small distance 
+92. Compact “ultracapacitors” with capacitance values up to
+several thousand farads are now commercially available.
+One application for ultracapacitors is in providing power for
+electrical circuits when other sources (such as a battery) are
+turned off. To get an idea of how much charge can be stored
+in such a component, assume a 1200-F ultracapacitor is 
+initially charged to 12.0 V by a battery and is then discon-
+nected from the battery. If charge is then drawn off the plates
+of this capacitor at a rate of 
+say, to power the
+backup memory of some electrical device, how long (in days)
+will it take for the potential difference across this capacitor
+to drop to 6.0 V?
+1.0 mCs,
+d = 1.0 mm.
+3 * 106 Vm
+5 * 107 V.
+500
+CHAPTER 17
+E

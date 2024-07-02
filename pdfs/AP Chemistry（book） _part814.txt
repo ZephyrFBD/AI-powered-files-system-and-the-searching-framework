@@ -1,0 +1,17 @@
+nges its state.
+ENTHALPY (SECTIONS 5.3 AND 5.4) When a gas is produced or 
+consumed in a chemical reaction occurring at constant pressure, 
+the system may perform pressure–volume (P–V) work against the 
+prevailing pressure of the surroundings. For this reason, we de-
+fine a new state function called enthalpy, H, which is related to en-
+ergy: H = E + PV. In systems where only pressure–volume work is 
+involved, the change in the enthalpy of a system, ∆H, equals the 
+heat gained or lost by the system at constant pressure: ∆H = qp 
+(the subscript P denotes constant pressure). For an endothermic 
+process, ∆H 7 0; for an exothermic process, ∆H 6 0.
+In a chemical process, the enthalpy of reaction is the en-
+thalpy of the products minus the enthalpy of the reactants: 
+∆Hrxn = H1products2 - H1reactants2. Ent halpies of react ion 
+follow some simple rules: (1) The enthalpy of reaction is pro-
+portional to the amount of reactant that reacts. (2) Reversing a 
+reaction changes the sign of ∆H. (3) T

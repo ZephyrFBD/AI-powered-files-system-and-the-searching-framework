@@ -1,0 +1,30 @@
+ called the principal quantum number. It can have any
+integer value from 1 to 
+The total energy of a state in the hydrogen atom
+depends on n, as we saw above.
+(2) The orbital quantum number,
+is related to the magnitude of the angular
+momentum of the electron;
+can take on integer values from 0 to 
+For the ground state,
+can only be zero.† For
+can be 0, 1, or 2.
+The actual magnitude of the angular momentum L is related to the quantum
+number by
+(28;3)
+(where again 
+). The value of has almost no effect on the total energy
+in the hydrogen atom; only n does to any appreciable extent (but see fine
+structure below). In atoms with two or more electrons, the energy does depend
+on as well as n, as we shall see.
+(3) The magnetic quantum number,
+is related to the direction of the electron’s
+angular momentum, and it can take on integer values ranging from 
+to 
+For example, if 
+then 
+can be 
+or 
+Since angular
+momentum is a vector, it is not surprising that both its magnitude and its direc-
+tion would 

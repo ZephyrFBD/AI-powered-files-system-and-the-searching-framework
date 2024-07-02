@@ -1,0 +1,80 @@
+(
+))
+t
+t
+cm
+D
+K
+u
+T dt
+K
+u
+u
+exp
+dt
+k t
+
+
+
+
+
+
+
+
+
+
+
+,
+where K and
+2
+u respectively stand for the constant and the temperature of the water in
+the bathtub when adding hot water into the bathtub and
+0
+32
+0
+2
+ln T
+cm
+t
+k
+u
+
+
+
+
+
+.
+3.2.4 The ‘suffering degree’
+By
+1
+2
+3
+D
+D
+D
+、
+、
+, we can calculate total ‘suffering degree’
+
+
+1
+2
+3
+D
+D
+n D
+D
+
+
+
+,
+where n stands for the times of adding hot water into the bathtub.
+4. Model 3: Comprehensive evaluation model
+4.1 Data processing
+Due to the various types of data we calculate, such as the ‘even time’, the
+‘suffering degree’ and the ‘wasting water’, which are all in different quantities and
+units, we need a consistent index to evaluate the strategy.
+Since all the data is quantitative, we transfer it into index that belongs to [0, 1].
+Different data has different influences on the final evaluation. For example, some
+factors are positive while some are negative. Considering our three main indexes, they
+all have negative impacts on t

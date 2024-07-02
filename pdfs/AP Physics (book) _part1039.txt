@@ -1,0 +1,40 @@
+10–2 Conversion Factors Between Different Units of Pressure
+In Terms of 
+1 atm in Different Units
+L 10 m of water
+ 
+1 atm = 1.03 * 104 mm-H2O (4°C)
+ 
+1 mm-H2O (4°C) = 9.80 Nm2
+1 atm = 760 torr
+ 
+1 torr = 133 Nm2
+1 atm = 760 mm-Hg
+ 
+1 mm-Hg = 133 Nm2
+1 atm = 76.0 cm-Hg
+ 
+1 cm-Hg = 1.33 * 103 Nm2
+1 atm = 2.12 * 103 lbft2
+ 
+1 lbft2 = 47.9 Nm2
+1 atm = 14.7 lbin.2
+ 
+1 lbin.2 = 6.90 * 103 Nm2
+1 atm = 1.013 * 106 dynecm2
+ 
+1 dynecm2 = 0.1 Nm2
+1 atm = 1.013 bar
+ 
+1 bar = 1.000 * 105 Nm2
+= 1.013 * 105 Pa = 101.3 kPa
+1 atm = 1.013 * 105 Nm2
+ 
+1 atm = 1.013 * 105 Nm2
+1 Pa  1 Nm2
+Atmospheric pressure can be measured by a modified kind of mercury
+manometer with one end closed, called a mercury barometer (Fig. 10–8). The
+glass tube is completely filled with mercury and then inverted into the bowl of
+mercury. If the tube is long enough, the level of the mercury will drop, leaving a
+vacuum at the top of the tube, since atmospheric pressure can support a column
+of mercury only about 7

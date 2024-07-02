@@ -1,0 +1,21 @@
+ension cord made of two wires of diameter
+0.129 cm (no. 16 copper wire) and of length 2.7 m (9 ft) is
+connected to an electric heater which draws 18.0 A on a
+120-V line. How much power is dissipated in the cord?
+43. (II) You want to design a portable electric blanket that runs
+on a 1.5-V battery. If you use a 0.50-mm-diameter copper
+wire as the heating element, how long should the wire be if
+you want to generate 18 W of heating power? What happens
+if you accidentally connect the blanket to a 9.0-V battery?
+General Problems
+523
+44. (II) A power station delivers 750 kW of power at 12,000 V
+to a factory through wires with total resistance 
+How
+much less power is wasted if the electricity is delivered at
+50,000 V rather than 12,000 V?
+45. (III) A small immersion heater can be used in a car to heat a
+cup of water for coffee or tea. If the heater can heat 120 mL
+of water from 25°C to 95°C in 8.0 min, (a) approximately
+how much current does it draw from the car’s 12-V battery,
+and (b) what is

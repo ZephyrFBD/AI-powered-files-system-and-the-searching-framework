@@ -1,0 +1,18 @@
+r positron emission or electron capture because both decays increase the 
+number of neutrons and decrease the number of protons (Equations 21.5 and 21.7). 
+Positron emission is more common among lighter nuclei. Electron capture becomes 
+increasingly common as the nuclear charge increases.
+3. Nuclei with atomic numbers # 84. These heavy nuclei tend to undergo alpha 
+emission, which decreases both the number of neutrons and the number of protons 
+by two, moving the nucleus diagonally toward the belt of stability.
+Predict the mode of decay of (a) carbon-14, (b) xenon-118.
+Sample Exercise 21.3 
+Predicting Modes of Nuclear Decay
+SOLUTION
+Analyze We are asked to predict the modes of decay of two nuclei.
+Plan To do this, we must locate the respective nuclei in Figure 21.1 
+and determine their positions with respect to the belt of stability 
+in order to predict the most likely mode of decay.
+Solve
+(a) Carbon is element 6. Thus, carbon-14 has 6 protons and 
+14 - 6 = 8 neutrons, giving it a neut

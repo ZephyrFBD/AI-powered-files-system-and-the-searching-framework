@@ -1,0 +1,15 @@
+FIGURE 15–11 Schematic diagram
+of energy transfers for a heat engine.
+In a reciprocating engine, Fig. 15–12a, the heated steam passes through the intake
+valve and expands against a piston, forcing it to move. As the piston returns to 
+its original position, it forces the gases out the exhaust valve which opens. A steam
+turbine, Fig.15–12b, is very similar except that the reciprocating piston is replaced by
+a rotating turbine that resembles a paddlewheel with many sets of blades. Most of
+our electricity today is generated using steam turbines.† The material that is heated
+and cooled, steam in this case, is called the working substance. In an old-time steam
+engine (see page 412), the high temperature is obtained by burning coal, oil, or other
+fuel to heat the steam.
+In an internal combustion engine (used in most automobiles), the high tem-
+perature is achieved by burning the gasoline–air mixture in the cylinder itself
+(ignited by the spark plug), as described in Fig. 15–13.
+SECTION 15–5

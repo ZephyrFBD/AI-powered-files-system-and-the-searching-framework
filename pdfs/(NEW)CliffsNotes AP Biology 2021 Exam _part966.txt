@@ -1,0 +1,19 @@
+1 pt: Each plot is identified with a label or in a legend.
+1 pt: A title is given to the graph.
+b. calculations (3 points maximum)
+1 pt: Calculations for dissolved oxygen rates for day and night use values for samples collected at the surface (a
+depth of 0 meters). For day values, 6.0 and 18.0 are used, and for night values, 16.0 and 8.0 are used.
+1 pt: Net productivity correctly calculated:
+1 pt: Respiration rate correctly calculated:
+ 
+1 pt: Gross productivity correctly calculated: net productivity +
+ 
+respiration rate = 1.5 + 1.0 = 2.5 ml/O2/L/hr
+ 
+c. differences in dissolved oxygen levels between day and night (3 points maximum)
+ 
+1 pt: During the day, photosynthesis in plants produces O2. 1 pt: During the day and night, respiration consumes O2.
+ 
+1 pt: Respiration during the night occurs in both plants and animals. d. differences in dissolved oxygen levels at
+different depths (3 points maximum)
+1 pt: At lower depths, the attenuation of light results in reduced photosynthetic activ

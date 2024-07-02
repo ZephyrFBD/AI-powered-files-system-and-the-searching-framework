@@ -1,0 +1,23 @@
+eir basic aspects here.
+The voltage produced by an ac electric generator is sinusoidal, as we shall see
+later. The current it produces is thus sinusoidal (Fig. 18–21b). We can write the
+voltage as a function of time as
+(18;7a)
+The potential V oscillates between 
+and 
+and 
+is referred to as the peak
+voltage. The frequency f is the number of complete oscillations made per second,
+and
+In most areas of the United States and Canada, f is 60 Hz (the
+unit “hertz,” as we saw in Chapters 8 and 11, means cycles per second). In many
+countries, 50 Hz is used.
+Equation 18–2,
+works also for ac: if a voltage V exists across a resis-
+tance R, then the current I through the resistance is
+(18;7b)
+The quantity 
+is the peak current. The current is considered posi-
+tive when the electrons flow in one direction and negative when they flow in the
+opposite direction. It is clear from Fig. 18–21b that an alternating current is as
+often positive as it is negative. Thus, the average current is zero. This does no

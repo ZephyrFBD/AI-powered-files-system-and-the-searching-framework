@@ -1,0 +1,20 @@
+ small lake. If the rock (SG
+, Table 10–1)
+is thrown overboard and sinks, does the lake level drop, rise, or stay the same?
+RESPONSE Together the boat and rock float, so the buoyant force on them
+equals their total weight. The boat and rock displace a mass of water whose
+weight is equal to the weight of boat plus rock. When the rock is thrown into the
+lake, it displaces only its own volume, which is smaller than the volume of water
+the rock displaced when in the boat (
+as much because the rock’s density is
+times greater than water). So less lake water is displaced and the water level
+of the lake drops when the rock is in the lake.
+Maybe numbers can help. Suppose the boat and the rock each has a mass of
+60 kg. Then the boat carrying the rock displaces 120 kg of water, which is a volume
+of 0.12 m3 (
+for water, Table 10–1). When the rock is thrown 
+into the lake, the boat alone now displaces 0.06 m3. The rock displaces only its
+own volume of 0.02 m3 (
+so 
+). Thus a total of 0.08 m3
+of wat

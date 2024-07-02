@@ -1,0 +1,25 @@
+ minerals. Solutions of borax are alkaline, and the substance is used in 
+various laundry and cleaning products.
+The interhalogen compound BrF3 is a volatile, straw-colored liquid. The compound exhibits appreciable electrical conductivity 
+because of autoionization (“solv” refers to BrF3 as the solvent):
+2 BrF31l2 ∆ BrF2
++1solv2 + BrF4
+-1solv2
+(a) What are the molecular structures of the BrF2
++ and BrF4
+- ions?
+(b) The electrical conductivity of BrF3 decreases with increasing temperature. Is the autoionization process exothermic or endothermic?
+(c) One chemical characteristic of BrF3 is that it acts as a Lewis acid toward fluoride ions. What do we expect will happen when 
+KBr is dissolved in BrF3?
+Sample Integrative Exercise 
+Putting Concepts Together
+SOLUTION
+(a) The BrF2
++ ion has 7 + 2172 - 1 = 20 valence-shell electrons. 
+The Lewis structure for the ion is
+Br
+F
+F
++
+Because there are four electron domains around the central Br 
+atom, the resulting electron domain geometry is tetrahe

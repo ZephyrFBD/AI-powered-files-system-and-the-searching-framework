@@ -1,0 +1,36 @@
+rence 
+When two objects are moving in simple harmonic motion with the same frequency, it is 
+often important to determine whether the objects are “moving together” or by how much 
+their motions differ. Let’s consider a specific example. 
+Suppose that an object is rotating along the unit circle and the height y of the object at time 
+t is given by y = sin(kt − b). When t = 0, the height is y = sin(−b). 
+This means that the motion “starts” at an angle b as shown. 
+ 
+Graph of y = sin(kt − b) 
+ 
+134 
+We can view the starting point in two ways: as the angle between P and Q on the unit 
+circle or as the time required for P to “catch up” to Q. The angle b is called the phase (or 
+phase angle). To find the time required, we factor out k: 
+sin(
+)
+sin
+b
+y
+kt
+b
+k t
+k
+æ
+ö
+=
+-
+=
+-
+ç
+÷
+è
+ø 
+We see that P “catches up” to Q (that is, y = 0) when t=b/k. 
+This last equation also shows that the graph is shifted horizontally b/k on the t-axis. 
+Any sine curve can be expressed in the following equivalent f

@@ -1,0 +1,20 @@
+esigned for a 120-V ac input will often “burn
+out” if connected to a 120-V dc source. Explain. [Hint: The
+resistance of the primary coil is usually very low.]
+*23. How would you arrange two flat circular coils so that their
+mutual inductance was (a) greatest, (b) least (without sepa-
+rating them by a great distance)? Explain.
+*24. Does the emf of the battery in Fig. 21–37 affect the time
+needed for the LR circuit to reach (a) a given fraction of its
+maximum possible current, (b) a given value of current?
+Explain.
+*25. In an LRC circuit, can the rms voltage across (a) an
+inductor, (b) a capacitor, be greater than the rms voltage
+of the ac source? Explain.
+*26. Describe briefly how the frequency of the source emf affects
+the impedance of (a) a pure resistance, (b) a pure capacitance,
+(c) a pure inductance, (d) an LRC circuit near resonance
+(R small), (e) an LRC circuit far from resonance (R small).
+*27. Describe how to make the impedance in an LRC circuit a
+minimum.
+*28. An LRC resonant 

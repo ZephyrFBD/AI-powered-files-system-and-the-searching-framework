@@ -1,0 +1,31 @@
+llowing at the Matlab prompt 
+ 
+>> more on 
+>> help anneal 
+ 
+The motivations and use of methods implemented in SA Tools are discussed in the book referenced in 
+section 1 of this document. 
+ 
+4.  How do I code my own problem? 
+4.1.  For Matlab 
+ 
+Version 1.03 and later contain the convenience function mktemplate for auto-generating the basic files 
+a user needs to get started. 
+ 
+1. Start Matlab if it is not already running. 
+ 
+2. Go to your work directory. 
+ 
+3. Choose a name for your problem.  It should be of moderate length and also suitable for a 
+directory name. 
+ 
+4. Execute 
+>> mktemplate('problem') ; 
+where 'problem' is the selected problem name (in single quotes). 
+ 
+5. A directory with the same name as your problem containing 5 Matlab m-files will be created.  
+Matlab will change its current directory to this new directory. 
+ 
+6. The generated files are fully functional – although the returned cost is simply a random number.  
+To execute, run the familiar function 
+>> try_me

@@ -1,0 +1,47 @@
+ circuit,
+coupled with a gas-filled tube as a
+switch, can produce (b) a repeating
+“sawtooth” voltage.
+A discharging RC circuit. If a charged capacitor,
+is connected to a resistance 
+as in Fig. 19–21a, how much
+time will elapse until the voltage falls to 10% of its original (maximum) value?
+APPROACH The voltage across the capacitor decreases according to 
+We set
+(10% of 
+), but first we need to calculate
+SOLUTION The time constant for this circuit is given by
+After a time the voltage across the capacitor will be
+We want to know the time 
+for which 
+We substitute into the
+above equation
+so
+The inverse operation to the exponential e is the natural log, ln. Thus
+Solving for , we find the elapsed time is
+NOTE We can find the time for any specified voltage across a capacitor by
+using t = RC lnAV
+0V
+CB.
+t = 2.3(RC) = (2.3)A4.2 * 10–3 sB
+= 9.7 * 10–3 s = 9.7 ms.
+t
+lnAe–tRCB =
+–
+t
+RC
+= ln 0.10 =
+–2.3.
+e–tRC = 0.10.
+0.10V
+0 = V
+0 e–tRC
+V
+C = 0.10V
+0 .
+t
+V
+C = V
+0 e–tRC.
+t
+t = RC = (120 )(3

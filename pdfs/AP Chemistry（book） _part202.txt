@@ -1,0 +1,31 @@
+nd 1 L = 10-3 m3, but there is  
+no relationship listed involving km3. From our knowledge of SI 
+prefixes, however, we know 1 km = 103 m and we can use this  
+relationship between lengths to write the desired conversion  
+factor between volumes:
+a 103 m
+1 km b
+3
+= 109 m3
+1 km3
+Thus, converting from km3 to m3 to L, we have
+Volume in liters = 11.36 * 109 km32a 109 m3
+1 km3 b a
+1 L
+10-3 m3b
+= 1.36 * 1021 L
+How many liters of water do Earth’s oceans contain?
+ 
+▶Practice Exercise 1
+A barrel of oil as measured on the oil market is equal to 1.333 
+U.S. barrels. A U.S. barrel is equal to 31.5 gal. If oil is on the 
+market at $94.0 per barrel, what is the price in dollars per 
+gallon? 
+(a) $2.24/gal (b) $3.98/gal (c) $2.98/gal (d) $1.05/gal  
+(e) $8.42/gal
+ 
+▶Practice Exercise 2
+The surface area of Earth is 510 * 106 km2, and 71% of this is 
+ocean. Using the data from the sample exercise, calculate the 
+average depth of the world’s oceans in feet.
+If you have ever played a musical instrument or

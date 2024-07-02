@@ -1,0 +1,21 @@
+sentially equal to the equilibrium concentrations). The best answer 
+to this Sample Exercise is pH = 4.06, obtained without assuming x is 
+small. Therefore, we see that the assumptions behind the Henderson–
+Hasselbalch equation are not valid when the initial concentration of 
+the weak acid (or base) is small compared to its  Ka (or Kb).
+ 
+▶Practice Exercise 1
+A buffer is made with sodium acetate 1CH3COONa2 and 
+acetic acid 1CH3COOH2; the Ka for acetic acid is 1.80 * 10-5. 
+The pH of the buffer is 3.98. What is the ratio of the equilib-
+rium concentration of sodium acetate to that of acetic acid?
+(a) -0.760 (b) 0.174 (c) 0.840 (d) 5.75 (e) Not enough informa-
+tion is given to answer this question.
+ 
+▶Practice Exercise 2
+Calculate the final, equilibrium pH of a buffer that initially 
+contains 6.50 * 10-4 M HOCl and 7.50 * 10-4 M NaOCl. 
+The Ka of HOCl is 3.0 * 10-5.
+(ii) Now we will redo the calculation, with-
+out making any assumptions at all. We 
+will solve for x, which represents the 

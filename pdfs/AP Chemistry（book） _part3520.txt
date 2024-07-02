@@ -1,0 +1,52 @@
+ reduction potential of F2 is exceptionally 
+high. As a result, fluorine gas readily oxidizes water:
+ 
+F21aq2 + H2O1l2 ¡ 2 HF1aq2 + 1
+2  O21g2  E° = 1.80 V 
+[22.17]
+Fluorine cannot be prepared by electrolytic oxidation of aqueous solutions of fluoride 
+salts because water is oxidized more readily than F - . 
+ (Section 20.9) In practice, the 
+element is formed by electrolytic oxidation of a solution of KF in anhydrous HF.
+Chlorine is produced mainly by electrolysis of either molten or aqueous sodium 
+chloride. Both bromine and iodine are obtained commercially from brines containing 
+the halide ions; the reaction used is oxidation with Cl2.
+TABLE 22.2 Some Properties of the Halogens
+Property
+F
+Cl
+Br
+I
+Atomic radius 1Å2
+0.57
+1.02
+1.20
+1.39
+Ionic radius, X- 1Å2
+1.33
+1.81
+1.96
+2.20
+First ionization energy 1kJ/mol2
+1681
+1251
+1140
+1008
+Electron affinity 1kJ/mol2
+-328
+-349
+-325
+-295
+Electronegativity
+4.0
+3.0
+2.8
+2.5
+X—X single-bond enthalpy 1kJ/mol2
+155
+242
+193
+151
+Reduction potential 1V2:
+1
+2

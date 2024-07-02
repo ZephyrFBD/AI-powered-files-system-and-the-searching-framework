@@ -1,0 +1,18 @@
+ process. (Section 13.2)
+cubic close packing A crystal structure where the atoms are 
+packed together as close as possible, and the close-packed layers 
+of atoms adopt a three-layer repeating pattern that leads to a 
+face-centered cubic unit cell. (Section 12.3)
+curie A measure of radioactivity: 1 curie = 3.7 * 1010 nuclear 
+disintegrations per second. (Section 21.4)
+cycloalkanes Saturated hydrocarbons of general formula CnH2n in 
+which the carbon atoms form a closed ring. (Section 24.2)
+Dalton’s law of partial pressures A law stating that the total 
+pressure of a mixture of gases is the sum of the pressures that 
+each gas would exert if it were present alone. (Section 10.6)
+d–d transition The transition of an electron in a transition-metal 
+compound from a lower-energy d orbital to a higher-energy d 
+orbital. (Section 23.6)
+decomposition reaction A chemical reaction in which a single 
+compound reacts to give two or more products. (Section 3.2)
+degenerate A situation in which two or mo

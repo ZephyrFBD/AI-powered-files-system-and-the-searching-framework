@@ -1,0 +1,36 @@
+. (II) Can a 2.2-mm-diameter copper wire have the same
+resistance as a tungsten wire of the same length? Give numer-
+ical details.
+16. (II) A certain copper wire has a resistance of 
+At
+what point along its length must the wire be cut so that the
+resistance of one piece is 4.0 times the resistance of the
+other? What is the resistance of each piece?
+17. (II) Compute the voltage drop along a 21-m length of
+household no. 14 copper wire (used in 15-A circuits). The
+wire has diameter 1.628 mm and carries a 12-A current.
+18. (II) Two aluminum wires have the same resistance. If one has
+twice the length of the other, what is the ratio of the diameter
+of the longer wire to the diameter of the shorter wire?
+15.0 .
+0.32 ?
+1.3 .
+Problems
+521
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+522
+CHAPTER 18
+Electric Currents
+FIGURE 18–36
+Problem 40 
+(X-ray of a
+flashlight).
+y
+x
+z
+2.0 cm
+4.0 cm
+1.0 cm
+FIGURE 18–35
+Problem 19.
+31. (I) An electric car has a batt

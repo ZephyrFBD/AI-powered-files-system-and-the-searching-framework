@@ -1,0 +1,19 @@
+ds at the low@∆ end of the spectrochemical series are 
+termed weak-field ligands; those at the high@∆ end are termed strong-field ligands.
+ 
+SECTION 23.6  Crystal-Field Theory 
+1013
+◀ Figure 23.29 The d-d transition in 
+3Ti1H2O2643 + is produced by the absorption 
+of 495-nm light.
+1014 
+CHAPTER 23 Transition Metals and Coordination Chemistry
+Let’s take a closer look at the colors and crystal-field splitting as we vary the ligands 
+for the series of Ni2+ complexes discussed above. Because the Ni atom has an 3Ar43d84s2 
+electron configuration, Ni2+ has the configuration 3Ar43d8 and therefore is a d8 ion. The 
+t2 set of orbitals holds six electrons, two in each orbital, while the last two electrons go 
+into the e set of orbitals. Consistent with Hund’s rule, each e orbital holds one electron 
+and both electrons have the same spin. 
+ (Section 6.8)
+As the ligand changes from H2O to NH3 to ethylenediamine, the spectrochemi-
+cal series tells us that the crystal-field, ∆, exerted by the six li

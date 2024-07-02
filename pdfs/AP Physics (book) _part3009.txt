@@ -1,0 +1,22 @@
+uation becomes the work function 
+and 
+becomes
+[least bound electrons] (27;5b)
+Many electrons will require more energy than the bare minimum 
+to get out
+of the metal, and thus the kinetic energy of such electrons will be less than the
+maximum.
+From these considerations, the photon theory makes the following predictions:
+1. An increase in intensity of the light beam means more photons are incident,
+so more electrons will be ejected; but since the energy of each photon is not
+changed, the maximum kinetic energy of electrons is not changed by an
+increase in intensity.
+2. If the frequency of the light is increased, the maximum kinetic energy of the
+electrons increases linearly, according to Eq. 27–5b. That is,
+This relationship is plotted in Fig. 27–7.
+3. If the frequency f is less than the “cutoff” frequency 
+where 
+no
+electrons will be ejected, no matter how great the intensity of the light.
+These predictions of the photon theory are very different from the predictions
+of the wave theory

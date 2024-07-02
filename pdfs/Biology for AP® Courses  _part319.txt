@@ -1,0 +1,10 @@
+n is a protein hormone made of two peptide chains, A (21 amino acids long) and B (30
+amino acids long). In each chain, primary structure is indicated by three-letter abbreviations that represent the names
+of the amino acids in the order they are present. The amino acid cysteine (cys) has a sulfhydryl (SH) group as a side
+chain. Two sulfhydryl groups can react in the presence of oxygen to form a disulfide (S-S) bond. Two disulfide bonds
+connect the A and B chains together, and a third helps the A chain fold into the correct shape. Note that all disulfide
+bonds are the same length, but are drawn different sizes for clarity.
+The unique sequence for every protein is ultimately determined by the gene encoding the protein. A change in nucleotide
+sequence of the gene’s coding region may lead to a different amino acid being added to the growing polypeptide chain,
+causing a change in protein structure and function. In sickle cell anemia, the hemoglobin β chain (a small portion of
+which is shown

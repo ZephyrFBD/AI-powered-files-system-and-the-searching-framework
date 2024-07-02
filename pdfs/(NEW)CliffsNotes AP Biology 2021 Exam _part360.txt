@@ -1,0 +1,11 @@
+ processing for miRNAs.
+7. mRNA degradation occurs as a result of RNAi (above), but also because mRNAs are unstable molecules. The
+poly-A tail and the 5′ cap help maintain mRNA stability on a scale of hours. But degradation of the tail occurs as the
+mRNA ages and degrading enzymes, targeting the tail and cap, quickly follow. Meanwhile, sequences rich in
+adenine and uracil in untranslated regions of the mRNA are recognition sites for other degrading enzymes.
+8. Protein degradation is the final stage in the life of proteins. As proteins age, they lose functionality as their 3-
+dimensional shape changes. Nonfunctional proteins are marked for destruction with the protein ubiquitin (so called
+because it is ubiquitous, present in all eukaryotic cells).
+Cells in the early stages of embryonic development are stem cells. When stem cells divide, daughter cells have the
+potential to become any kind of fetal or adult cell. But as development continues, cells differentiate, become
+specialized, and 

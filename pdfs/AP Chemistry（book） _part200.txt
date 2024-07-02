@@ -1,0 +1,18 @@
+
+ing to the number of significant figures in the given speed in m/s.
+Conversions Involving Volume
+The conversion factors previously noted convert from one unit of a given measure to an-
+other unit of the same measure, such as from length to length. We also have conversion 
+factors that convert from one measure to a different one. The density of a substance, for 
+example, can be treated as a conversion factor between mass and volume. Suppose we 
+want to know the mass in grams of 2 cubic inches 12.00 in.32 of gold, which has a density 
+of 19.3 g>cm3. The density gives us the conversion factors:
+19.3 g
+1 cm3 and 1 cm3
+19.3 g
+Because we want a mass in grams, we use the first factor, which has mass in grams in 
+the numerator. To use this factor, however, we must first convert cubic inches to  
+cubic 
+centimeters. The relationship between in.3 and cm3 is not given on the back inside cover, 
+but the relationship between inches and centimeters is given: 1 in. = 2.54 cm (exactly). 
+Cubing both 

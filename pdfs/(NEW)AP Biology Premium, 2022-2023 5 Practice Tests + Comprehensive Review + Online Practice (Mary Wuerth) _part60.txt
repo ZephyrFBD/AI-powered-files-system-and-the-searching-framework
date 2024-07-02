@@ -1,0 +1,12 @@
+have incorrect calculations of the chi-square data. Choice (C) is incorrect because even though the
+chi-square value from the data is calculated correctly, the wrong conclusion is drawn from the result.
+6. (D) The chi-square 
+. There are two possible outcomes in the experiment
+(banana or watermelon), so there is one degree of freedom. Using the p-value of 0.05 and the chi-square table,
+the critical value is 3.84. The calculated chi-square value is less than the critical value, so there is likely not a
+statistically significant difference between the observed and expected data. Choices (A), (B), and (C) are
+incorrect because they present the wrong chi-square value and/or the wrong conclusion about the data.
+7. (A) Standard error of the mean is calculated by dividing the standard deviation by the square root of the sample
+size 
+. If the standard deviation is the same for both data sets, the standard error of the mean will
+decrease when the sample size increases. Since both data sets have

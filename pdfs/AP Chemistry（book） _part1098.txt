@@ -1,0 +1,14 @@
+the first 54 elements, the trends we observe in first ionization ener-
+gies as we move from one element to another in the periodic table. The important trends 
+are as follows:
+1. I1 generally increases as we move left to right across a period. The alkali metals show 
+the lowest ionization energy in each period, and the noble gases show the highest. 
+There are slight irregularities in this trend that we will discuss shortly.
+2. I1 generally decreases as we move down any column in the periodic table. For example, the 
+ionization energies of the noble gases follow the order He 7 Ne 7 Ar 7 Kr 7 Xe.
+3. The s- and p-block elements show a larger range of I1 values than do the transition-metal 
+elements. Generally, the ionization energies of the transition metals increase slowly 
+from left to right in a period. The f-block metals (not shown in Figure 7.10) also show 
+only a small variation in the values of I1.
+In general, smaller atoms have higher ionization energies. The same factors that 
+in

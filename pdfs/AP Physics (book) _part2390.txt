@@ -1,0 +1,31 @@
+s law: a coil
+of wire is made to rotate uniformly by mechanical means in a
+magnetic field, and the changing flux through the coil induces
+a sinusoidal current, which is the output of the generator.
+e = Blv.
+v
+l
+e =
+–N ¢£B
+¢t
+ 
+.
+£B = B⊥A = BA cos u.
+Summary
+A motor, which operates in the reverse of a generator, acts
+like a generator in that a back emf is induced in its rotating coil.
+Because this back emf opposes the input voltage, it can act to
+limit the current in a motor coil. Similarly, a generator acts
+somewhat like a motor in that a counter torque acts on its
+rotating coil.
+A transformer, which is a device to change the magnitude
+of an ac voltage, consists of a primary coil and a secondary coil.
+The changing flux due to an ac voltage in the primary coil
+induces an ac voltage in the secondary coil. In a 100% efficient
+transformer, the ratio of output to input voltages 
+equals the ratio of the number of turns 
+in the secondary to
+the number 
+in the primary:
+(21;6)
+The ratio of seco

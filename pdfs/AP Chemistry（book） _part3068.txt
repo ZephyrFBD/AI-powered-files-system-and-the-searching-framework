@@ -1,0 +1,21 @@
+ As in calculating ∆H values, the phases of the reactants 
+and products are important. As we predicted, ∆G° is less negative 
+than ∆H° because of the decrease in entropy during the reaction.
+ 
+▶Practice Exercise 1
+If a reaction is exothermic and its entropy change is  
+positive, which statement is true? (a) The reaction is 
+spontaneous at all temperatures (b) The reaction  
+is nonspontaneous at all temperatures (c) The reaction is 
+spontaneous only at higher temperatures (d) The reaction is 
+spontaneous only at lower temperatures
+ 
+▶Practice Exercise 2
+For the combustion of butane at 298 K, 
+2 C4H101g2 + 13 O21g2 ¡ 8 CO21g2 + 10 H2O1g2, do you 
+expect ∆G° to be more negative or less negative than ∆H°?
+The Gibbs free energy is a remarkable thermodynamic quantity. 
+Because so many chemical reactions are carried out under conditions 
+of near-constant pressure and temperature, chemists, biochemists, 
+and engineers consider the sign and magnitude of ∆G as exception-
+ally useful tools in the

@@ -1,0 +1,21 @@
+radians.
+SOLUTION In Eq. 25–7, we set
+for the opening of the eye:
+Yes, you could just resolve a car (roughly 2 m wide by 3 or 4 m long) and so
+could count the number of cars in the lot.
+EXERCISE E Someone claims a spy satellite camera can see 3-cm-high newspaper head-
+lines from an altitude of 100 km. If diffraction were the only limitation 
+use Eq. 25–7 to determine what diameter lens the camera would have.
+25–8 Resolution of Telescopes and
+Microscopes; the 
+Limit
+You might think that a microscope or telescope could be designed to produce 
+any desired magnification, depending on the choice of focal lengths and quality
+of the lenses. But this is not possible, because of diffraction. An increase in
+magnification above a certain point merely results in magnification of the diffrac-
+tion patterns. This can be highly misleading since we might think we are seeing
+details of an object when we are really seeing details of the diffraction pattern.
+l
+(l = 550 nm),
+= A104 mB
+(1.22)A550 * 10–9 mB

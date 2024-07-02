@@ -1,0 +1,30 @@
+9) and to emissions from radioisotopes and nuclear magnetic
+resonance (Sections 31–8 and 31–9).
+Tomographic Image Reconstruction
+How can the “grayness” of each pixel be determined even though all we can
+measure is the total absorption along each beam line in the slice? It can be done
+only by using the many beam scans made at a great many different angles. Sup-
+pose the image is to be an array of 
+elements for a total of 
+pixels.
+If we have 100 detectors and measure the absorption projections at 100 different
+angles, then we get 
+pieces of information. From this information, an image can
+be reconstructed, but not precisely. If more angles are measured, the reconstruction
+of the image can be done more accurately.
+104
+104
+100 * 100
+*
+
+
+*
+736
+CHAPTER 25
+Optical Instruments
+FIGURE 25–43 (a) Fan-beam scanner.
+Rays transmitted through the entire 
+body are measured simultaneously at
+each angle. The source and detector
+rotate to take measurements at different
+angles. In another type of fan-be

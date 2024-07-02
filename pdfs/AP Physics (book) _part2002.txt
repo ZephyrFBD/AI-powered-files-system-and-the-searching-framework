@@ -1,0 +1,31 @@
+istivity (Section 18–4) of certain
+metals and certain compounds or alloys becomes zero as measured by the highest-
+precision techniques. Materials in such a state are said to be superconducting.
+This phenomenon was first observed by H. K. Onnes (1853–1926) in 1911 when he
+cooled mercury below 4.2 K 
+and found that the resistance of mercury
+suddenly dropped to zero. In general, superconductors become superconducting
+only below a certain transition temperature or critical temperature,
+which is
+usually within a few degrees of absolute zero. Current in a ring-shaped supercon-
+ducting material has been observed to flow for years in the absence of a potential
+difference, with no measurable decrease. Measurements show that the resistivity 
+of superconductors is less than 
+which is over 
+times smaller
+than that for copper, and is considered to be zero in practice. See Fig. 18–26.
+1016
+4 * 10–25 m,
+r
+T
+C,
+(–269°C)
+*
+TC
+Resistivity, r
+T
+Signal from another neuron
+Synapse
+Dendrites
+Cell body
+Ax

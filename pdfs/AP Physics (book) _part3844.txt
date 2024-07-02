@@ -1,0 +1,16 @@
+on in a car going around a
+curve (Fig. 5–11) from the point of view of an inertial frame. The car, on the other
+hand, is not an inertial frame. Passengers in such a car could interpret this being
+pressed outward as the effect of a “centrifugal” force. But they need to recognize
+that it is a pseudoforce because there is no identifiable object exerting it. It is 
+an effect of being in a noninertial frame of reference.
+The Earth itself is rotating on its axis. Thus, strictly speaking, Newton’s laws
+are not valid on the Earth. However, the effect of the Earth’s rotation is usually
+so small that it can be ignored, although it does influence the movement of large
+air masses and ocean currents. Because of the Earth’s rotation, the material of
+the Earth is concentrated slightly more at the equator. The Earth is thus not a
+perfect sphere but is slightly fatter at the equator than at the poles.
+Coriolis Effect
+In a reference frame that rotates at a constant angular speed 
+(relative to an
+inertia

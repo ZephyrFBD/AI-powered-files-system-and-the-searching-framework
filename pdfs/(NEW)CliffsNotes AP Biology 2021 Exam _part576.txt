@@ -1,0 +1,11 @@
+he release of ADP and Pi. This, in turn, causes a change in shape of the myosin head from its high
+energy to its low energy state, which generates a sliding movement of the actin toward the center of the sarcomere.
+This pulls the two Z-lines together, effectively contracting the muscle fiber.
+5. ATP causes the cross bridges to unbind. When a new ATP molecule attaches to the myosin head, the cross
+bridge between the actin and myosin breaks, returning the myosin head to its unattached position.
+Without the addition of a new ATP molecule, the cross bridges remain attached to the actin filaments. This is why
+corpses are stiff. (New ATP molecules are unavailable.)
+Neurons form specialized synapses with muscles called neuromuscular junctions. Muscle contraction is stimulated
+through the following steps:
+1. Action potential generates release of acetylcholine. When an action potential of a neuron reaches the
+neuromuscular junction, the neuron secretes the neurotransmitter acetylcholine, which 

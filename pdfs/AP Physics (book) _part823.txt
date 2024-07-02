@@ -1,0 +1,109 @@
+N
+F
+B
+F
+B
+u
+t = rF sin u
+r⊥= r sin u.
+F
+⊥= F sin u
+t = rF
+⊥.
+F
+⊥
+F
+∑∑
+(⊥)
+r⊥
+t = r⊥F,
+F
+B
+D
+F
+B
+D
+a r t
+F
+B
+A
+F
+B
+C
+F
+B
+C
+rC
+rC F
+C .
+F
+B
+C
+SECTION 8–4
+Torque
+207
+r⊥
+(a)
+θ
+Axis of
+rotation
+Point of
+application
+of force
+⊥
+(b)
+r
+r
+θ
+||
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 8;13 Torque = r⊥F = rF
+⊥.
+†Note that the units for torque are the same as those for energy. We write the unit for torque here as
+(in SI) to distinguish it from energy 
+because the two quantities are very different. The
+special name joule
+is used only for energy (and for work), never for torque.
+(1 J = 1 Nm)
+(Nm)
+mN
+5.0 cm
+(a)
+700 N
+r⊥
+(b)
+700 N
+30°
+60°
+Axis at
+elbow
+r⊥
+F
+B
+F
+B
+F⊥
+B
+(c)
+60°
+Axis
+(d)
+60°
+60°
+r
+r
+Axis
+Axis
+FIGURE 8;14 Example 8–8.
+Biceps torque. The biceps muscle exerts a vertical force on
+the lower arm, bent as shown in Figs. 8–14a and b. For each case, calculate the
+torque about the axis of rotation through the elbow joint, assuming the muscle
+is attached 5.0 cm from the elbow as shown.
+APPROACH The force is given,

@@ -1,0 +1,31 @@
+is thought to oc-
+cur by the following two-step mechanism.
+Step 1: 
+O31g2 ∆O21g2 + O1g2 (fast)
+Step 2:  
+O1g2 + O31g2 ¡ 2 O21g2 (slow)
+ 
+ (a) Write the balanced equation for the overall reaction. 
+(b) Derive the rate law that is consistent with this mecha-
+nism. (Hint: The product appears in the rate law.) (c) Is O 
+a catalyst or an intermediate? (d) If instead the reaction 
+occurred in a single step, would the rate law change? If so, 
+what would it be?
+[14.110] The following mechanism has been proposed for the gas-
+phase reaction of chloroform 1CHCl32 and chlorine:
+Step 1: Cl21g2 ∆
+k1
+k - 1
+ 2 Cl1g2 1fast2
+Step 2: Cl1g2 + CHCl31g2 ¡
+k2
+ HCl1g2 + CCl31g2 1slow2
+Step 3: Cl1g2 + CCl31g2 ¡
+k3
+ CCl4 1fast2
+ 
+ (a) What is the overall reaction? (b) What are the intermedi-
+ates in the mechanism? (c) What is the molecularity of each 
+of the elementary reactions? (d) What is the rate-determining 
+step? (e) What is the rate law predicted by this mechanism? 
+(Hint: The overall reaction order is n

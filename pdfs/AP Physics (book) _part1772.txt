@@ -1,0 +1,64 @@
+plates
+d
+E = constant.
+–Q
+±2Q
+±2Q.
+–Q
+E
+B
+458
+CHAPTER 16
+Electric Charge and Electric Field
+
+
+
+
+
+
+
++
+−
+−
+−
+−
+−
+−
+−
+−
++
++
++
++
++
++
++
+(b)
+(c)
+(d)
+(a)
+P
+–Q
+Q
+Q
++2Q
+E
+B
+FIGURE 16–32 Electric field lines
+for four arrangements of charges.
+†The magnitude of the constant electric field between two parallel plates is given by 
+where Q is the magnitude of the charge on each plate and A is the area of one plate. We show this in
+the optional Section 16–12 on Gauss’s law.
+E = Q0 A,
+FIGURE 16–33 The Earth’s 
+gravitational field, which at any 
+point is directed toward the Earth’s 
+center (the force on any mass points 
+toward the Earth’s center).
+SECTION 16–9
+459
+16–9 Electric Fields and Conductors
+We now discuss some properties of conductors. First, the electric field inside a
+conductor is zero in the static situation—that is, when the charges are at rest. If
+there were an electric field within a conductor, there would be a force on the free
+electrons. The electrons would move until they re

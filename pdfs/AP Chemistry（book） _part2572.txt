@@ -1,0 +1,54 @@
+-2
+6.4 * 10-5
+Phosphoric
+H3PO4
+7.5 * 10-3
+6.2 * 10-8
+4.2 * 10-13
+Sulfurous
+H2SO3
+1.7 * 10-2
+6.4 * 10-8
+Sulfuric
+H2SO4
+Large
+1.2 * 10-2
+Tartaric
+C2H2O21COOH22
+1.0 * 10-3
+4.6 * 10-5
+Go Figure
+How many protons per citric acid  
+molecule are ionizable?
+Citric acid
+C
+C
+OH
+H
+HO
+H
+C
+C
+H
+H
+O
+C
+OH
+O
+C
+OH
+O
+▲ Figure 16.13 The structure of citric acid.
+The solubility of CO2 in water at 25 °C and 0.1 atm is 0.0037 M. The common practice is to assume that all the dissolved CO2 is 
+in the form of carbonic acid 1H2CO32, which is produced in the reaction
+CO21aq2 + H2O1l2 ∆ H2CO31aq2
+What is the pH of a 0.0037 M solution of H2CO3?
+Analyze We are asked to determine the pH of a 0.0037 M solution 
+of a polyprotic acid.
+SOLUTION
+Sample Exercise 16.14 
+Calculating the pH of a Solution of a Polyprotic Acid
+Plan H2CO3 is a diprotic acid; the two acid-dissociation constants, 
+Ka1 and Ka2 (Table 16.3), differ by more than a factor of 103. Con-
+sequently, the pH can be determined by considering only Ka1, 
+thereb

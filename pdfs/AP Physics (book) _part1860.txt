@@ -1,0 +1,22 @@
+ (b) cancel for any point equidistant from 
+and 
+Thus the potential will be zero everywhere on the plane
+equidistant between the two opposite charges. This plane is an equipotential
+surface with V = 0.
+Q2 Ar1B = r2BB.
+Q1
+17–6 Potential Due to Electric Dipole;
+Dipole Moment
+Two equal point charges Q, of opposite sign, separated by a distance 
+are called
+an electric dipole. The electric field lines and equipotential surfaces for a dipole
+were shown in Fig. 17–7. Because electric dipoles occur often in physics, as well as
+in other disciplines such as molecular biology, it is useful to examine them more
+closely.
+The electric potential at an arbitrary point P due to a dipole, Fig. 17–12, is the
+sum of the potentials due to each of the two charges:
+where r is the distance from P to the positive charge and 
+is the distance 
+to the negative charge. This equation becomes simpler if we consider points P
+whose distance from the dipole is much larger than the separation of the two
+charges—that is,

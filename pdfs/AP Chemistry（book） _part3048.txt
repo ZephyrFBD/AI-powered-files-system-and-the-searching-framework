@@ -1,0 +1,15 @@
+r substances in their standard states are known as standard molar 
+entropies and denoted S°. The standard state for any substance is defined as the pure 
+substance at 1 atm pressure.* Table 19.1 lists the values of S° for a number of substances at 
+298 K; Appendix C gives a more extensive list.
+We can make several observations about the S° values in Table 19.1:
+1. Unlike enthalpies of formation, standard molar entropies of elements at the refer-
+ence temperature of 298 K are not zero.
+2. The standard molar entropies of gases are greater than those of liquids and solids, 
+consistent with our interpretation of experimental observations, as represented in 
+Figure 19.12.
+3. Standard molar entropies generally increase with increasing molar mass.
+4. Standard molar entropies generally increase with an increasing number of atoms in 
+the formula of a substance.
+Point 4 is related to the molecular motion discussed in Section 19.3. In general, as 
+the number of atoms increases, the number of poss

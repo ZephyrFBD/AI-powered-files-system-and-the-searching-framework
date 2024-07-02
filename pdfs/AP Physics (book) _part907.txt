@@ -1,0 +1,29 @@
+7 is 
+7.6 cm and its moment of inertia is 
+A force of 3.5 N is exerted on the end of the roll for 
+1.3 s, but the paper does not tear so it begins to unroll.
+A constant friction torque of 
+is exerted on the
+roll which gradually brings it to a stop. Assuming that the
+paper’s thickness is negligible, calculate (a) the length of
+paper that unrolls during the time that the
+force is applied (1.3 s) and (b) the length
+of paper that unrolls from the time the
+force ends to the time when the roll
+has stopped moving.
+0.11 mN
+I = 3.3 * 10–3 kgm2.
+FIGURE 8;64
+Problem 91.
+FIGURE 8;67
+Problem 96.
+Search and Learn
+229
+1. Why are Eqs. 8–4 and 8–5 valid for radians but not for 
+revolutions or degrees? Read Section 8–1 and follow the
+derivations carefully to find the answer.
+2. Total solar eclipses can happen on Earth because of 
+amazing coincidences: for one, the sometimes near-perfect
+alignment of Earth, Moon, and Sun. Secondly, using the
+information inside the front cover, calculate the angular
+dia

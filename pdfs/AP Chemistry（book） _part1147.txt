@@ -1,0 +1,54 @@
+in 
+Figure 5.14, the formation of nonmetal oxides is also often very exothermic and thus 
+energetically favorable.
+In our discussion of the alkali metals, we noted two less common oxygen anions—
+the peroxide 1O2
+2 -2 ion and the superoxide 1O2
+-2 ion. Compounds of these ions often 
+react to produce an oxide and O2:
+ 
+2 H2O21aq2 ¡ 2 H2O1l2 + O21g2 ∆H° = -196.1 kJ 
+[7.29]
+TABLE 7.6 Some Properties of the Group 6A Elements
+Element
+Electron  
+Configuration
+Melting 
+Point 1°C2
+Density
+Atomic 
+Radius (Å)
+I1 1kJ,mol2
+Oxygen
+3He42s22p4
+-218
+1.43 g>L
+0.66
+1314
+Sulfur
+3Ne43s23p4
+115
+1.96 g>cm3
+1.05
+1000
+Selenium
+3Ar43d104s24p4
+221
+4.82 g>cm3
+1.20
+941
+Tellurium
+3Kr44d105s25p4
+450
+6.24 g>cm3
+1.38
+869
+Polonium
+3Xe]4f 145d106s26p4
+254
+9.20 g>cm3
+1.40
+812
+*A more realistic description is one where an H+ ion is transferred from HCl to H2O forming Cl- 
+and H3O+. We will explore this chemistry in detail in Chapter 16.
+For this reason, bottles of aqueous hydrogen peroxide are topped with caps that are ab

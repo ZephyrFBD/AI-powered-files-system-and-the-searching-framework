@@ -1,0 +1,25 @@
+to a smaller f-stop number. The smaller the f-stop
+number, the larger the opening and the more light passes through the lens to the
+sensor or film. The smallest f-number of a lens (largest opening) is referred to as
+the speed of the lens. The best lenses may have a speed of 
+, or even faster.
+The advantage of a fast lens is that it allows pictures to be taken under poor
+lighting conditions. Good quality lenses consist of several elements to reduce the
+defects present in simple thin lenses (Section 25–6). Standard f-stops are
+1.0, 1.4, 2.0, 2.8, 4.0, 5.6, 8, 11, 16, 22, and 32
+(Fig. 25–5). Each of these stops corresponds to a diameter reduction by a factor of
+Because the amount of light reaching the film is proportional to the 
+area of the opening, and therefore proportional to the diameter squared, each
+standard f-stop corresponds to a factor of 2 change in light intensity reaching 
+the film.
+12 L 1.4.
+f2.0
+9 mm A509 = 5.6B.
+f5.6
+f2
+fD = 50 mm25 mm = 2,
+D = 25 mm,
+f-stop =
+f
+D
+,

@@ -1,0 +1,92 @@
+he formula for resistors in parallel.
+Ceq
+1
+Ceq
+=
+1
+C1
++ 1
+C2
++ 1
+C3
+.
+Q
+Ceq
+=
+Q
+C1
++ Q
+C2
++ Q
+C3
+= Q ¢ 1
+C1
++ 1
+C2
++ 1
+C3
+≤
+V
+3 ,
+V
+2,
+V
+1 ,
+Q = C3 V
+3 ,
+Q = C2 V
+2 ,
+Q = C1 V
+1 ,
+V = V
+1 + V
+2 + V
+3 .
+Q = CeqV.
+Ceq
+C2 .
+±Q
+–Q
+C1
+±Q
+C3 .
+–Q
+C1 ,
+±Q
+Ceq = C1 + C2 + C3 .
+CeqV = C1 V + C2 V + C3 V = AC1 + C2 + C3BV
+Q = CeqV.
+Ceq
+V = V
+ab.
+Q = Q1 + Q2 + Q3 = C1 V + C2 V + C3 V.
+Q3 = C3 V.
+Q2 = C2 V,
+Q1 = C1 V
+,
+V
+b.
+V
+a
+V = V
+ab
+SECTION 19–6
+RC Circuits—Resistor and Capacitor in Series
+539
+Equivalent capacitance. Determine the capacitance of
+a single capacitor that will have the same effect as the combination shown in
+Fig. 19–19a. Take
+APPROACH First we find the equivalent capacitance of 
+and 
+in parallel,
+and then consider that capacitance in series with 
+SOLUTION Capacitors 
+and 
+are connected in parallel, so they are equiva-
+lent to a single capacitor having capacitance
+This 
+is in series with 
+Fig. 19–19b, so the equivalent capacitance of the
+entire circuit,
+is given by
+Hence the equi

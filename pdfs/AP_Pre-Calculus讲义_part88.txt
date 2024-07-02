@@ -1,0 +1,83 @@
+ed in pounds per square inch and t is measured in seconds. 
+(a) Find the amplitude, period, and frequency of V. 
+(b) Sketch a graph of V. 
+ 
+ 
+ 
+ 
+ 
+In general, the sine or cosine functions representing harmonic motion may be shifted 
+horizontally or vertically. 
+In this case, the equations take the form 
+sin( (
+))
+or
+cos( (
+))
+y
+a
+t
+c
+b
+y
+a
+t
+c
+b
+w
+w
+=
+-
++
+=
+-
++
+ 
+The vertical shift b indicates that the variation occurs around an average value b. 
+The horizontal shift c indicates the position of the object at t = 0.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+133 
+3.6.2 Damped Harmonic Motion 
+If the equation describing the displacement y of an object at time t is 
+sin
+or
+cos
+(
+0)
+ct
+ct
+y
+ke
+t
+y
+ke
+t
+c
+w
+w
+-
+-
+=
+=
+>
+ 
+then the object is in damped harmonic motion. The constant c is the damping constant, 
+2p
+w
+k is the initial amplitude, and 
+ is the period.  
+Damped harmonic motion is simply harmonic motion for which the amplitude is governed 
+by the function a(t) = ke-ct. 
+ 
+ 
+3.6.3 Phase and Phase Diffe

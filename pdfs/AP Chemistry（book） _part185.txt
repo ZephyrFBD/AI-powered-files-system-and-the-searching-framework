@@ -1,0 +1,18 @@
+t the result as 104.8 because 83.1 has only one decimal place.
+2. For multiplication and division, the result contains the same number of significant 
+ 
+figures as the measurement with the fewest significant figures. When the result 
+ 
+contains more than the correct number of significant figures, it must be rounded 
+off. For example, the area of a rectangle whose measured edge lengths are 6.221 and 
+5.2 cm should be reported with two significant figures, 32 cm2, even though a calculator 
+shows the product to have more digits:
+Area = 16.221 cm215.2 cm2 = 32.3492 cm2 1 round off to 32 cm2
+because 5.2 has two significant figures.
+In determining the final answer for a calculated quantity, exact numbers are assumed to 
+have an infinite number of significant figures. Thus, when we say, “There are 12 inches in 1 foot,” 
+ 
+the number 12 is exact, and we need not worry about the number of significant figures in it.
+When rounding off numbers look at the leftmost digit to be removed:
+t 
+*GUIF

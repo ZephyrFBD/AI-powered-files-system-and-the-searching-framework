@@ -1,0 +1,53 @@
+
+lens is near the eye.
+SOLUTION (a) With the relaxed eye focused at infinity,
+(b) The magnification when the eye is focused at its near point 
+and the lens is near the eye, is
+25–4 Telescopes
+A telescope is used to magnify objects that are very far away. In most cases, the
+object can be considered to be at infinity.
+Galileo, although he did not invent it,† developed the telescope into a usable
+and important instrument. He was the first to examine the heavens with the
+telescope (Fig. 25–19), and he made world-shaking discoveries, including the
+moons of Jupiter, the phases of Venus, sunspots, the structure of the Moon’s
+surface, and that the Milky Way is made up of a huge number of individual stars.
+M = 1 + N
+f
+= 1 + 25
+8
+L 4*.
+(N = 25 cm),
+M = N
+f
+= 25 cm
+8 cm
+L 3*.
+N = 25 cm.
+EXAMPLE 25;7
+ESTIMATE
+ceye focused at near point, N;
+N = 25 cm for normal eye d
+M = N
+f + 1.
+= N a 1
+do
+b
+= N a 1
+f + 1
+N b
+M = u¿
+u
+= hdo
+hN
+u¿ = hdo
+N(f + N)
+do = fN(f + N) 6 f,
+1
+do
+=
+1
+f - 1
+di
+=
+1
+f + 1

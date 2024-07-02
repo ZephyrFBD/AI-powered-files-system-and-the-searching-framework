@@ -1,0 +1,24 @@
+nalyze We are given an empirical formula and a molecular  
+weight of a compound and asked to determine its molecular 
+formula.
+Plan The subscripts in a compound’s molecular formula are 
+whole-number multiples of the subscripts in its empirical formu-
+la. We find the appropriate multiple by using Equation 3.11.
+Solve The formula weight of the empirical formula C3H4 is
+3112.0 amu2 + 411.0 amu2 = 40.0 amu
+Next, we use this value in Equation 3.11 :
+Whole@number multiple =
+molecular weight
+empirical formula weight
+= 121
+40.0 = 3.03
+Only whole-number ratios make physical sense because molecules 
+contain whole atoms. The 3.03 in this case could result from a 
+small  
+experimental error in the molecular weight. We therefore 
+multiply each subscript in the empirical formula by 3 to give the 
+molecular formula: C9H12.
+Check It is reassuring that the subscripts are moderate-size whole 
+numbers. Also,  
+calculating the percentage composition of C3H4O3 
+gives values very close to the original perce

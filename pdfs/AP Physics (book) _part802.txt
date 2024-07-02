@@ -1,0 +1,27 @@
+h point or particle of a rotating object has, at any moment, a linear velocity v
+and a linear acceleration a. We can now relate the linear quantities at each point,
+v and a, to the angular quantities,
+and 
+for a rigid object rotating about a 
+fixed axis. Consider a point P located a distance r from the axis of rotation, as in
+Fig. 8–4. If the object rotates with angular velocity 
+any point will have a linear
+velocity whose direction is tangent to its circular path. The magnitude of that
+point’s linear velocity is 
+From Eq. 8–1b, a change in rotation 
+angle 
+(in radians) is related to the linear distance traveled by 
+Hence
+or (since 
+) 
+(8;4)
+In this very useful Eq. 8–4, r is the distance of a point from the rotation axis 
+and 
+is given in rad/s. Thus, although 
+is the same for every point in the rotating
+object at any instant, the linear velocity v is greater for points farther from the 
+axis (Fig. 8–5). Note that Eq. 8–4 is valid both instantaneously and on average.
+v
+v
+v = rv.
+¢u¢t 

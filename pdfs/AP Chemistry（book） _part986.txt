@@ -1,0 +1,23 @@
+figurations.
+Solve The first member of the halogen group is fluorine (F
+, ele-
+ment 9). Moving backward from F, we find that the noble-gas core 
+is [He]. Moving from He to the element of next higher atomic 
+number brings us to Li, element 3. Because Li is in the second 
+period of the s block, we add electrons to the 2s subshell. Moving 
+across this block gives 2s2. Continuing to move to the right, we 
+enter the p block. Counting the squares to F gives 2p5. Thus, the 
+condensed electron configuration for fluorine is
+F: 3He42s22p5
+The electron configuration for chlorine, the second halogen, is
+Cl: 3Ne43s23p5
+From these two examples, we see that the characteristic valence 
+electron configuration of a halogen is ns2np5, where n ranges from 
+2 in the case of fluorine to 6 in the case of astatine.
+ 
+▶Practice Exercise 1
+A certain atom has an ns2np6 electron configuration in its 
+outermost occupied shell. Which of the following elements 
+could it be? (a) Be (b) Si (c) I (d) Kr (e) Rb
+ 
+▶Pract

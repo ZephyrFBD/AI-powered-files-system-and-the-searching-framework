@@ -1,0 +1,47 @@
+ormed, is
+The charge that flows per second,
+is the electric current I. Thus we have
+(18;5)
+This general relation gives us the power transformed by any device, where I is the
+current passing through it and V is the potential difference across it. It also gives
+the power delivered by a source such as a battery. The SI unit of electric power is
+the same as for any kind of power, the watt
+The rate of energy transformation in a resistance R can be written in two
+other ways, starting with the general relation 
+and substituting in Ohm’s
+law,
+(18;6a)
+(18;6b)
+Equations 18–6a and b apply only to resistors, whereas Eq. 18–5,
+is
+more general and applies to any device.
+P = IV,
+P = IV =
+a V
+R b V = V2
+R
+.
+P = IV = I(IR) = I2R
+V = IR:
+P = IV
+(1 W = 1 Js).
+P = IV.
+Qt,
+P = energy transformed
+time
+= QV
+t
+.
+SECTION 18–5
+Electric Power
+511
+P H Y S I C S  A P P L I E D
+Why lightbulbs burn out when
+first turned on
+C A U T I O N
+You pay for energy, which 
+is power
+time, not for power
+*
+40-W Headlight
+12 V

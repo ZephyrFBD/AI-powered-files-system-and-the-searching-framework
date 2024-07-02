@@ -1,0 +1,21 @@
+group? 
+ 
+(e) Predict Zeff for the outermost electrons in the Rb atom 
+based on the calculations for Na and K.
+ 7.16  Detailed calculations show that the value of Zeff for the outer-
+most electrons in Si and Cl atoms is 4.29+ and 6.12+, respec-
+tively. (a) What value do you estimate for Zeff experienced by 
+the outermost electron in both Si and Cl by assuming core 
+electrons contribute 1.00 and valence electrons contribute 
+0.00 to the screening constant? (b) What values do you esti-
+mate for Zeff using Slater’s rules? (c) Which approach gives a 
+more accurate estimate of Zeff? (d) Which method of approx-
+imation more accurately accounts for the steady increase in 
+Zeff that occurs upon moving left to right across a period? 
+ 
+(e) Predict Zeff for a valence electron in P
+, phosphorus, based 
+on the calculations for Si and Cl.
+ 7.17  Which will experience the greater effective nuclear charge, 
+the electrons in the n = 3 shell in Ar or the n = 3 shell in Kr? 
+Which will be closer to the 

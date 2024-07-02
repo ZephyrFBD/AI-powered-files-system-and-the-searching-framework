@@ -1,0 +1,26 @@
+h are used to make coins and jewelry, 
+are called noble metals because of their low reactivity.
+The activity series can be used to predict the outcome of reactions between metals and 
+either metal salts or acids. Any metal on the list can be oxidized by the ions of elements below it. 
+142 
+CHAPTER 4 Reactions in Aqueous Solution
+For example, copper is above silver in the series. Thus, copper metal is oxidized by silver 
+ions:
+ 
+Cu1s2 + 2 Ag+1aq2 ¡ Cu2+1aq2 + 2 Ag1s2 
+[4.28]
+The oxidation of copper to copper ions is accompanied by the reduction of silver ions to 
+silver metal. The silver metal is evident on the surface of the copper wire in Figure 4.14. 
+The copper(II) nitrate produces a blue color in the solution, as can be seen most clearly in 
+the photograph on the right of Figure 4.14.
+TABLE 4.5 Activity Series of Metals in Aqueous Solution
+Metal
+Oxidation Reaction
+Lithium
+Li1s2 ¡ Li+1aq2 + e-
+Potassium
+K1s2 ¡ K+1aq2 + e-
+Barium
+Ba1s2 ¡ Ba2+1aq2 + 2e-
+Calcium
+Ca1s2 ¡ Ca2+1aq2 + 2e-

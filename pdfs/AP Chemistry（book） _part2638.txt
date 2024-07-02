@@ -1,0 +1,34 @@
+rmine 
+the value of the pH of the solution when the concentration 
+is 0.18 M? (c) Would the line go exactly through the origin 
+of the plot? [Sections 16.5 and 16.6]
+0
+0
+0.060
+0.12
+Concentration (M)
+0.18
+[H+]
+ 16.5  The following diagrams represent aqueous solutions of 
+three acids, HX, HY, and HZ. The water molecules have been 
+omitted for clarity, and the hydrated proton is represented 
+as H+ rather than H3O+. (a) Which of the acids is a strong 
+acid? Explain. (b) Which acid would have the smallest acid- 
+dissociation constant, Ka? (c) Which solution would have 
+the highest pH? [Sections 16.5 and 16.6]
+ 16.7  Which of these statements about how the percent ioniza-
+tion of a weak acid depends on acid concentration is true? 
+[Section 16.6]
+Acid concentration
+0
+0
+Percent ionized
+C
+B
+A
+ 
+(a) Line A is most accurate because Ka does not depend on 
+concentration.
+(b) Line A is the most accurate because the percent ioniza-
+tion of the acid does not depend on concentration.
+(c) Line B is the 

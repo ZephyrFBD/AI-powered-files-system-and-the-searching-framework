@@ -1,0 +1,12 @@
+ng organisms that use DNA as their genetic material, viruses may use either DNA or RNA as theirs.
+The virus core contains the genome or total genetic content of the virus. Viral genomes tend to be small, containing only
+those genes that encode proteins that the virus cannot get from the host cell. This genetic material may be single- or double-
+stranded. It may also be linear or circular. While most viruses contain a single nucleic acid, others have genomes that have
+several, which are called segments.
+Chapter 21 | Viruses
+853
+In DNA viruses, the viral DNA directs the host cell’s replication proteins to synthesize new copies of the viral genome
+and to transcribe and translate that genome into viral proteins. DNA viruses cause human diseases such as chickenpox and
+hepatitis B.
+RNA viruses contain only RNA as their genetic material. To replicate their genomes in the host cell, the RNA viruses
+encode enzymes that can replicate RNA into DNA, which cannot be done by the host cell. These RNA

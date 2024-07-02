@@ -1,0 +1,24 @@
+ic determinism.
+(CH3)
+462
+CHAPTER 16
+Electric Charge and Electric Field
+16–1
+1 Photocopy Machines and
+Computer Printers Use Electrostatics
+Photocopy machines and laser printers use electrostatic attraction to print an image.
+They each use a different technique to project an image onto a special cylindrical
+drum (or rotating conveyor belt). The drum is typically made of aluminum, a good
+conductor; its surface is coated with a thin layer of selenium, which has the inter-
+esting property (called “photoconductivity”) of being an electrical nonconductor
+in the dark, but a conductor when exposed to light.
+In a photocopier, lenses and mirrors focus an image of the original sheet of
+paper onto the drum, much like a camera lens focuses an image on an electronic
+detector or film. Step 1, done in the dark, is the placing of a uniform positive
+charge on the drum’s selenium layer by a charged roller or rod: see Fig. 16–41.
+*
+P H Y S I C S  A P P L I E D
+Photocopy machines
+
+
+

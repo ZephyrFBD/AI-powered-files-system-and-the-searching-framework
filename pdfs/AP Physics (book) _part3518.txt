@@ -1,0 +1,29 @@
+909
+A nuclear reaction occurs when two nuclei collide and two or
+more other nuclei (or particles) are produced. In this process,
+as in radioactivity, transmutation (change) of elements occurs.
+The 
+reaction 
+energy
+or
+Q-value
+of 
+a 
+reaction
+is
+(31;2a)
+(31;2b)
+In fission, a heavy nucleus such as uranium splits into two
+intermediate-sized nuclei after being struck by a neutron.
+is
+fissionable by slow neutrons, whereas some fissionable nuclei
+require fast neutrons. Much energy is released in fission
+per fission) because the binding energy per
+nucleon is lower for heavy nuclei than it is for intermediate-
+sized nuclei, so the mass of a heavy nucleus is greater than the
+total mass of its fission products. The fission process releases
+neutrons, so that a chain reaction is possible. The critical mass
+is the minimum mass of fuel needed so that enough emitted
+neutrons go on to produce more fissions and sustain a chain
+reaction. In a nuclear reactor or nuclear weapon, a moderator
+is used to slo

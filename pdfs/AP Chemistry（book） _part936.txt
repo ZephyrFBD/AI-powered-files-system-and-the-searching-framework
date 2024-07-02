@@ -1,0 +1,24 @@
+al. The value of l for a particular orbital is generally des-
+ignated by the letters s, p, d, and f,** corresponding to l values of 0, 1, 2, and 3:
+Value of l
+0
+1
+2
+3
+Letter used
+s
+p
+d
+f
+3. The magnetic quantum number, ml, can have integral values between -l and 
+l, including zero. This quantum number describes the orientation of the orbital in 
+space, as we discuss in Section 6.6.
+Notice that because the value of n can be any positive integer, there is an infinite 
+number of orbitals for the hydrogen atom. At any given instant, however, the elec-
+tron in a hydrogen atom is described by only one of these orbitals—we say that the 
+electron occupies a certain orbital. The remaining orbitals are unoccupied for that par-
+ticular state of the hydrogen atom. We will focus mainly on orbitals that have small 
+values of n.
+*Hermanns, William, Einstein and the Poet: In Search of the Cosmic Man, 1st edition, Branden 
+Books, 1983.
+**The letters come from the words sharp, principal, diffuse, and fu

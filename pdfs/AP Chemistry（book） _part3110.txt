@@ -1,0 +1,24 @@
+Kc = 1, which box represents the 
+system at Q 6 Kc? (c) Rank the boxes in order of increasing 
+magnitude of ∆G for the reaction. [Sections 19.5 and 19.7]
+(2)
+(3)
+(1)
+ 
+19.7  The accompanying diagram shows how ∆H (red line) 
+and T∆S (blue line) change with temperature for a 
+hypothetical reaction. (a) What is the significance 
+of the point at 300 K, where ∆H and T∆S are equal? 
+(b) In what temperature range is this reaction sponta-
+neous? [Section 19.6]
+ 19.10  The accompanying diagram shows how the free 
+energy, G, changes during a hypothetical reaction 
+A1g2 + B1g2 ¡ C1g2. On the left are pure reactants A 
+840 
+CHAPTER 19 Chemical Thermodynamics
+and B, each at 1 atm, and on the right is the pure product, 
+C, also at 1 atm. Indicate whether each of the following 
+statements is true or false. (a) The minimum of the graph 
+corresponds to the equilibrium mixture of reactants and 
+products for this reaction. (b) At equilibrium, all of A and B 
+have reacted to give pure C. (c) The entropy c

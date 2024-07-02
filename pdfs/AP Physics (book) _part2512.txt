@@ -1,0 +1,40 @@
+d other applications use this principle.
+u5 = 75°
+u4 = u3 = 15°,
+15°.
+u3 = 180° - 90° - 75° =
+u2 + u3 + 90° = 180°
+u2 = u1 = 75°
+u1 = 75°;
+u1 + 15° = 90°,
+A
+do
+di
+C
+B
+D
+B′ 
+Plane mirror 
+Reflecting
+surface 
+θ 
+i
+θ 
+r
+FIGURE 23–7 Formation of a virtual
+image by a plane mirror. Only the bundle
+of rays from the top and bottom of the
+object which reach the eye is shown.
+Let us concentrate on the two rays that leave point A on the object in
+Fig. 23–7, and strike the mirror at points B and 
+We use geometry now, for the
+rays at B. The angles ADB and CDB are right angles; and because of the law of
+reflection,
+at point B. Therefore, by geometry, angles ABD and CBD are
+also equal. The two triangles ABD and CBD are thus congruent, and the length
+That is, the image appears as far behind the mirror as the object is 
+in front. The image distance,
+(perpendicular distance from mirror to image,
+Fig.23–7), equals the object distance,
+(perpendicular distance from object to mir-
+ror). From the geometry, w

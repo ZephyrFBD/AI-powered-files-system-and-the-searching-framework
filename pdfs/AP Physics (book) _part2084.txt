@@ -1,0 +1,47 @@
+hemical reac-
+tions in many cannot be reversed. In such cases, the arrangement of Fig. 19–14b
+would simply waste energy.
+Sources of emf can also be arranged in parallel, Fig. 19–14c, which—if the
+emfs are the same—can provide more energy when large currents are needed.
+Each of the cells in parallel has to produce only a fraction of the total current, so
+the energy loss due to internal resistance is less than for a single cell; and the 
+batteries will go dead less quickly.
+20 V - 12 V = 8 V.
+V
+ca
+Rs = 0.15 Ω
+RJ
+B
+A
+D
+C
+S
+I2
+I1
+I3
+Starter
+motor
+Good battery
+Weak battery
+Starter
+switch
+(closed)
+Jumper cables
+e =
+10.1 V
+r =
+0.10 Ω
+e =
+12.5 V
+r1 =
+0.020 Ω
+RJ
+FIGURE 19–15 Example 19–9,
+a jump start.
+Jump starting a car. A good car battery is being used to
+jump start a car with a weak battery. The good battery has an emf of 12.5 V and
+internal resistance 
+Suppose the weak battery has an emf of 10.1 V and
+internal resistance 
+Each copper jumper cable is 3.0 m long and 0.50 cm
+in diameter, and 

@@ -1,0 +1,28 @@
+ing and to the particular time at which that 
+amount remained. (A heavy dot is made opposite both of these two related quantities.) 
+When all the measurements have been recorded in this way, we connect the dots with a 
+line, shown in Figure A.3. (Figures A.21–A.23 explain when to connect the data points.) 
+100 
+80 
+60 
+40 
+20 
+0 
+0 
+Time (hours) 
+Mg of A Remaining
+Y 
+X 
+1 
+2
+3
+4
+5  
+Figure A.3 
+It should be clear by looking at our graph that the only measurements we actually made 
+are those indicated by the dots. However, because the information on both scales of the 
+graph is assumed to be continuous, we can use the graph to find out how much A would 
+have been found if we had made our measurements at some other time, say 2.5 hours. 
+We merely locate the line that corresponds to 2.5 hours on our time scale and follow 
+it up until it crosses our line graph at the point X; then we look opposite X to the “Mg 
+of A Remaining” scale, and read off 50 mg. We conclude, then, that if we had ma

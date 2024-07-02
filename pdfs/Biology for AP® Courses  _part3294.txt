@@ -1,0 +1,28 @@
+the phylogenetic relationships among these groups.
+Annotate your representation to show gene additions and
+deletions. To your representation also add annotation that
+connects the phenotype to the environment.
+58. When you get cold you may shiver. The shivering
+response is a reflex in which the hypothalamus in the brain
+integrates sensory input, comparing input against a
+temperature set point. When a threshold signal is detected,
+nerves of the somatic nervous system that innervate
+skeletal muscle are stimulated. The extension and
+contraction of muscle cells releases heat energy that
+elevates the body temperature.
+A. Construct a representation of the information flow
+for the shivering response. Annotate your representation to
+include
+•
+the sensory input
+•
+signal transmission to the hypothalamus
+•
+signal transmission from the hypothalamus to the
+somatic nervous system
+•
+transmission to muscle tissue
+•
+and output response.
+Include in your annotation the negative feedback loop that
+is estab

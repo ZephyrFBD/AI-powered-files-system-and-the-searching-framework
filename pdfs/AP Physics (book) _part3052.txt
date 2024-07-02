@@ -1,0 +1,15 @@
+a
+crucial stepping stone to our present understanding. And some aspects of the
+Bohr model are still useful today, so we examine it in detail in the next Section.
+27–12 The Bohr Model
+Bohr had studied in Rutherford’s laboratory for several months in 1912 and was
+convinced that Rutherford’s planetary model of the atom had validity. But in
+order to make it work, he felt that the newly developing quantum theory would
+somehow have to be incorporated in it. The work of Planck and Einstein had
+shown that in heated solids, the energy of oscillating electric charges must change
+discontinuously—from one discrete energy state to another, with the emission of
+a quantum of light. Perhaps, Bohr argued, the electrons in an atom also cannot
+lose energy continuously, but must do so in quantum “jumps.” In working out his
+model during the next year, Bohr postulated that electrons move about the nucleus
+in circular orbits, but that only certain orbits are allowed. He further postulated
+that an electron in

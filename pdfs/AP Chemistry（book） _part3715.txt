@@ -1,0 +1,16 @@
+etism of Coordination Compounds
+Many transition-metal complexes exhibit paramagnetism, as described in Sections 9.8 
+and 23.1. In such compounds, the metal ions possess some number of unpaired elec-
+trons. It is possible to experimentally determine the number of unpaired electrons per 
+metal ion from the measured degree of paramagnetism, and experiments reveal some 
+interesting comparisons.
+Compounds of the complex ion 3Co(CN)643- have no unpaired electrons, for exam-
+ple, but compounds of the 3CoF643- ion have four unpaired electrons per metal ion. Both 
+complexes contain Co(III) with a 3d6 electron configuration. 
+ (Section 7.4) Clearly, 
+there is a major difference in the ways in which the electrons are arranged in these two 
+cases. Any successful bonding theory must explain this difference, and we present such a 
+theory in the next section.
+23.6 ∣ Crystal-Field Theory
+Scientists have long recognized that many of the magnetic properties and colors of 
+transition-metal complexes are 

@@ -1,0 +1,34 @@
+d is 2.64, but the 
+pH of a 0.30 M solution of a strong acid such as HCl is -log10.302 = 0.52. As expected, 
+the pH of a solution of a weak acid is higher than that of a solution of a strong acid of the 
+same molarity. (Remember, the higher the pH value, the less acidic the solution.)
+tells us that for each molecule of CH3COOH that ionizes, one H+1aq2 and one 
+CH3COO-1aq2 are formed. Consequently, if x moles per liter of H+1aq2 form at equi-
+librium, x moles per liter of CH3COO-1aq2 must also form and x moles per liter of 
+CH3COOH must be ionized:
+CH3COOH1aq2  ∆  H+1aq2 +  
+CH3COO-1aq2
+Initial concentration (M)
+0.30
+0
+0
+Change in concentration (M)
+-x
++x
++x
+Equilibrium concentration (M)
+10.30 - x2
+x
+x
+ 4. Finally, we substitute the equilibrium concentrations into the equilibrium-constant 
+expression and solve for x:
+ 
+Ka =
+3H+43CH3COO-4
+3CH3COOH4
+=
+1x21x2
+0.30 - x = 1.8 * 10-5 
+[16.30]
+This expression leads to a quadratic equation in x, which we can solve by using either 
+an equation-so

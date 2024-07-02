@@ -1,0 +1,15 @@
+ temperature change produced by a given 
+quantity of heat varies from substance to substance. The temperature change experi-
+enced by an object when it absorbs a certain amount of heat is determined by its heat 
+capacity, denoted C. The heat capacity of an object is the amount of heat required to 
+raise its temperature by 1 K (or 1 °C). The greater the heat capacity, the greater the heat 
+required to produce a given increase in temperature.
+For pure substances the heat capacity is usually given for a specified amount of the 
+substance. The heat capacity of one mole of a substance is called its molar heat capac-
+ity, Cm. The heat capacity of one gram of a substance is called its specific heat capacity, 
+or merely its specific heat, Cs. The specific heat, Cs, of a substance can be determined 
+experimentally by measuring the temperature change, ∆T, that a known mass m of the 
+substance undergoes when it gains or loses a specific quantity of heat q:
+ 
+Specific heat =
+1quantity of heat tran

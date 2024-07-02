@@ -1,0 +1,39 @@
+olvent 
+intermolecular
+ attractions
+ broken
+Solute
+ intermolecular
+ attractions
+ broken
+Enthalpy, H
+∆Hsolvent
+∆Hsolute
+∆Hsolute + ∆Hsolvent
+∆Hsoln > 0
+∆Hmix
+Hinitial
+Hfinal
+Endothermic solution process
+Enthalpy, H
+∆Hsolvent
+∆Hsolute
+∆Hsolute + ∆Hsolvent
+Solute
+ intermolecular
+ attractions
+ broken
+▲ Figure 13.4 Enthalpy changes accompanying the solution process.
+530 
+CHAPTER 13 Properties of Solutions
+Solution Formation and Chemical Reactions
+In discussing solutions, we must be careful to distinguish the physical process of solution 
+formation from chemical reactions that lead to a solution. For example, nickel metal dis-
+solves on contact with an aqueous hydrochloric acid solution because the following reac-
+tion occurs:
+ 
+Ni1s2 + 2 HCl1aq2 ¡ NiCl21aq2 + H21g2 
+[13.2]
+In this instance, one of the resulting solutes is not Ni metal but rather its salt NiCl2. 
+If the solution is evaporated to dryness, NiCl2 # 6 H2O1s2 is recovered (Figure 13.6). Com-
+pounds such as NiCl2 # 6 H2O1s2 that h

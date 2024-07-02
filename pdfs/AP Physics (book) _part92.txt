@@ -1,0 +1,83 @@
+
+kilo
+k
+hecto
+h
+deka
+da
+deci
+d
+centi
+c
+milli
+m
+micro†
+nano
+n
+pico
+p
+femto
+f
+atto
+a
+zepto
+z
+yocto
+y
+†
+is the Greek letter “mu.”
+m
+10–24
+10–21
+10–18
+10–15
+10–12
+10–9
+10–6
+m
+10–3
+10–2
+10–1
+101
+102
+103
+106
+109
+1012
+1015
+1018
+1021
+1024
+TABLE 1–5 SI Base Quantities and Units
+Quantity
+Unit
+Unit Abbreviation
+Length
+meter
+m
+Time
+second
+s
+Mass
+kilogram
+kg
+Electric current
+ampere
+A
+Temperature
+kelvin
+K
+Amount of substance
+mole
+mol
+Luminous intensity
+candela
+cd
+P R O B L E M  S O L V I N G
+Always use a consistent set of units
+All other quantities can be defined in terms of these seven base quantities,† and
+hence are referred to as derived quantities. An example of a derived quantity is
+speed, which is defined as distance divided by the time it takes to travel that
+distance. A Table inside the front cover lists many derived quantities and their
+units in terms of base units. To define any quantity, whether base or derived,
+we can specify a rule or procedure, and this is called an operational definit

@@ -1,0 +1,22 @@
+ is easier to next find 
+(part c) using Eq. 25–4 before we find 
+SOLUTION (a) The overall magnification is
+(b) The eyepiece focal length is (Eq. 25–5)
+Next we solve Eq. 25–4 for 
+and find
+Then, from the thin lens equation for the objective with
+(see Fig. 25–24a),
+so
+(c) We just calculated
+which is very close to 
+25–6 Aberrations of Lenses and Mirrors
+In Chapter 23 we developed a theory of image formation by a thin lens. We found,
+for example, that all rays from each point on an object are brought to a single
+point as the image point. This result, and others, were based on approximations for
+a thin lens, mainly that all rays make small angles with the axis and that we can 
+use
+Because of these approximations, we expect deviations from the
+simple theory, which are referred to as lens aberrations. There are several types of
+aberration; we will briefly discuss each of them separately, but all may be present
+at one time.
+Consider an object at any point (even at infinity) on the axis of a le

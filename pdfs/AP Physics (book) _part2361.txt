@@ -1,0 +1,25 @@
+usly with the coil
+(and case), so there is relative
+motion between magnet and coil.
+(a)
+(b)
+FIGURE 21–34 (a) A GFCI wall
+outlet. GFCIs can be recognized 
+by their “test” and “reset” buttons.
+(b) Add-on GFCI that plugs into outlet.
+P H Y S I C S  A P P L I E D
+GFCI
+P H Y S I C S  A P P L I E D
+Seismograph
+Seismograph
+In geophysics, a seismograph measures the intensity of earthquake waves using a
+magnet and a coil of wire. Either the magnet or the coil is fixed to the case, and
+the other is inertial (suspended by a spring; Fig. 21–32). The relative motion of
+magnet and coil when the surface of the Earth shakes induces an emf output.
+Ground Fault Circuit Interrupter (GFCI)
+Fuses and circuit breakers (Sections 18–6 and 20–7) protect buildings from 
+electricity-induced fire, and apparatus from damage, due to undesired high cur-
+rents. But they do not turn off the current until it is very much greater than that
+which can cause permanent damage to humans or death 
+If fast
+enough, they may pro

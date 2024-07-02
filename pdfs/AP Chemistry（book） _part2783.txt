@@ -1,0 +1,18 @@
+r that appears to have contributed to the problem 
+is a drop in the pH of the water, from 8.0 in December 2014 to 7.3 in 
+August 2015. Because the insoluble lead salts that form the passivat-
+ing layer, like Pb31PO422, PbHSO4, and PbCO3, contain anions that 
+can act as weak bases, anything that makes the water more acidic 
+increases their solubility.
+Another contributing factor was the presence of high levels 
+of chloride ions. The treated water from Detroit had chloride lev-
+els of about 11 ppm, whereas the treated Flint water had chloride 
+levels of 85 ppm in August 2015. While PbCl2 is fairly insoluble 
+1Ksp = 1.7 * 10 - 52, high concentrations of chloride ions can lead to 
+the formation of soluble complex ions such as PbCl3
+-  and PbCl4
+2 - . 
+The increased chloride levels were due in part to the addition of FeCl3, 
+which was used to help coagulate and ﬁlter out unwanted organic 
+matter that was leading to problems with E. coli contamination. 
+Chloride ions are also produced when u

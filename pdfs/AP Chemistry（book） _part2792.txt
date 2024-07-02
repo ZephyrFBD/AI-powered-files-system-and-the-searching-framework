@@ -1,0 +1,44 @@
+ation of AgCl 
+can be calculated from the Ksp expression:
+ 
+Ksp = 11.0 * 10-223Cl-4 = 1.8 * 10-10
+ 
+3Cl-4 = 1.8 * 10-10
+1.0 * 10-2 = 1.8 * 10-8 M
+Go Figure
+Why is the sulfide reagent HS- in the third test tube and not H2S?
+Zn2+
+HS−
+Cu2+
+pH ≈ 1
+pH ≈ 1
+pH ≈ 8
+H+
+H2S
+CuS(s)
+ZnS(s)
+When H2S is added to a 
+solution whose pH exceeds 0.6, 
+CuS precipitates
+Solution containing Zn2+(aq) 
+and Cu2+(aq)
+After CuS is removed, the pH 
+is increased, allowing ZnS to 
+precipitate
+Add H2S
+Remove CuS
+and
+increase pH
+▲ Figure 17.22 Selective precipitation. In this example, Cu2 +  ions are separated from Zn2 +  ions.
+ 
+SECTION 17.7   
+Qualitative Analysis for Metallic Elements 
+753
+Any Cl-1aq2 in excess of this very small concentration will cause AgCl 
+to precipitate from solution. Proceeding similarly for PbCl2, we have
+ Ksp = 3Pb2 +43Cl-42 = 1.7 * 10-5
+ 12.0 * 10-223Cl-42 = 1.7 * 10-5
+ 3Cl-42 = 1.7 * 10-5
+2.0 * 10-2 = 8.5 * 10-4
+ 3Cl-4 = 28.5 * 10-4 = 2.9 * 10-2 M
+Thus, a concentration of Cl-1aq2 in exce

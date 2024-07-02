@@ -1,0 +1,11 @@
+ special form of RNA called messenger RNA (mRNA); the cell uses
+information in the mRNA (which moves out into the cytoplasm and associates with ribosomes) to link specific amino acids
+in the correct order, producing a protein. Internal receptors can directly influence gene expression without having to pass
+the signal on to other receptors or messengers.
+Figure 9.4 Hydrophobic signaling molecules typically diffuse across the plasma membrane and interact with
+intracellular receptors in the cytoplasm. Many intracellular receptors are transcription factors that interact with DNA in
+the nucleus and regulate gene expression.
+Cell-Surface Receptors
+Cell-surface receptors, also known as transmembrane receptors, are cell surface, membrane-anchored (integral) proteins
+that bind to external ligand molecules. This type of receptor spans the plasma membrane and performs signal transduction,
+in which an extracellular signal is converted into an intracellular signal. Ligands that interact with cell-s

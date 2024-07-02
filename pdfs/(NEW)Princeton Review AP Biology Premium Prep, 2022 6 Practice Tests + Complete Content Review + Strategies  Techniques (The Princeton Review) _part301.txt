@@ -1,0 +1,14 @@
+ound more often in offspring than
+they should (based on Mendelian ratios), this is a red flag that the two genes are close together and linked.
+Look at the example below from a cross of TtGg and ttgg. If you draw out the Punnett square, you should get equal
+numbers of each phenotype occurring if the genes are assumed to be unlinked. Yet, what if the numbers below were
+the actual numbers of offspring of each phenotype?
+Tall and Green: 6 offspring
+short and Green: 37 offspring
+Tall and yellow: 45 offspring
+short and yellow: 3 offspring
+There are more Green/short and yellow/Tall offspring. This is a sign that these alleles are linked on a chromosome
+because they occur more often than they statistically should. This shows that most of the gametes of the TtGg parent
+had tG together and Tg together since those gamete combinations would result in Green/short and yellow/Tall
+offspring.
+So, where did the Green/Tall and yellow/short plants come from? They are the result of gametes from the TtGg

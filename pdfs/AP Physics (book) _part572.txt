@@ -1,0 +1,21 @@
+rough a distance. We consider
+only translational motion for now and, unless otherwise explained, objects are
+assumed to be rigid with no complicating internal motion, and can be treated like
+particles. Then the work done on an object by a constant force (constant in both
+magnitude and direction) is defined to be the product of the magnitude of the
+displacement times the component of the force parallel to the displacement. In
+equation form, we can write
+where 
+is the component of the constant force 
+parallel to the displacement 
+We can also write
+(6;1)
+where F is the magnitude of the constant force, d is the magnitude of the displace-
+ment of the object, and is the angle between the directions of the force and the
+displacement (Fig. 6–1). The 
+factor appears in Eq. 6–1 because 
+is the component of 
+that is parallel to 
+Work is a scalar quantity—it
+has no direction, but only magnitude, which can be positive or negative.
+Let us consider the case in which the motion and the force are in th

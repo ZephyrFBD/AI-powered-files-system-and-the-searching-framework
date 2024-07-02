@@ -1,0 +1,17 @@
+h the polymer, like tiny “meatballs” in the polymer “spaghetti.” 
+When sulfide is added, CdS particles grow, but the polymer keeps them from forming 
+large crystals. A great deal of fine-tuning of reaction conditions is necessary to produce 
+nanocrystals that are of uniform size and shape.
+As we learned in Section 12.7, some semiconductor devices can emit light when 
+a voltage is applied. Another way to make semiconductors emit light is to illuminate 
+▲ Figure 12.43 Plastic electronics. 
+Flexible organic solar cells are made from 
+conducting polymers.
+ 
+SECTION 12.9  Nanomaterials 
+507
+them with light whose photons have energies larger than the energy of the band gap of 
+the semiconductor, a process called photoluminescence. A valence-band electron absorbs 
+a photon and is promoted to the conduction band. If the excited electron then falls 
+back down into the hole it left in the valence band, it emits a photon having energy 
+equal to the band gap energy. In the case of quantum dots, th

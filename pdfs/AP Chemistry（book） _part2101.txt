@@ -1,0 +1,25 @@
+n’s molar mass. The 
+solution contained 3.50 mg of protein dissolved in sufficient water to form 5.00 mL of solution. The osmotic pressure of the 
+solution at 25 °C was found to be 1.54 torr. Treating the protein as a nonelectrolyte, calculate its molar mass.
+use Equation 13.14 to calculate the molarity of the solution, M. 
+In doing so, we must convert temperature from °C to K and the 
+osmotic pressure from torr to atm. We then use the molarity 
+and the volume of the solution 15.00 mL2 to determine the 
+number of moles of solute. Finally, we obtain the molar mass 
+by dividing the mass of the solute 13.50 mg2 by the number of 
+moles of solute.
+Solve
+ Solving Equation 13.14 for molarity gives:
+Molarity =
+Π
+iRT =
+11.54 torr2a 1 atm
+760 torrb
+112a0.0821L@atm
+mol@K b1298 K2
+= 8.28 * 10-5 mol
+L  
+Because the volume of the solution is 5.00 mL = 5.00 * 10-3 L, 
+the number of moles of protein must be:
+Moles = 18.28 * 10-5 mol>L215.00 * 10-3 L2 = 4.14 * 10-7 mol
+The molar mass is the number of g

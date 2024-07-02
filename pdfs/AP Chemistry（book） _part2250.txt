@@ -1,0 +1,21 @@
+ 
+[14.25]
+appears to proceed in two elementary reactions (or two elementary steps), each of which 
+is bimolecular. First, two NO2 molecules collide, and an oxygen atom is transferred from 
+one to the other. The resultant NO3 then collides with a CO molecule and transfers an 
+oxygen atom to it:
+NO21g2 + NO21g2 ¡ NO31g2 + NO1g2
+NO31g2 + CO1g2 ¡ NO21g2 + CO21g2
+594 
+CHAPTER 14 Chemical Kinetics
+Thus, we say that the reaction occurs by a two-step mechanism.
+The chemical equations for the elementary reactions in a  
+multistep mechanism must always add to give the chemical  
+equation of the overall process.
+In the present example, the sum of the two elementary reactions is
+ 
+2 NO21g2 + NO31g2 + CO1g2 ¡ NO21g2 + NO31g2 + NO1g2 + CO21g2 
+Simplifying this equation by eliminating substances that appear on both 
+sides gives Equation 14.25, the net equation for the process.
+Because NO3 is neither a reactant nor a product of the reaction—it is 
+formed in one elementary reaction and consumed in the 

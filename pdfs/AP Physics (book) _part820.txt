@@ -1,0 +1,120 @@
+. Then we draw another line,
+perpendicular to this line of action, that goes to the axis of rotation and is 
+perpendicular also to it. The length of this second line is the lever arm for 
+and
+is labeled
+in Fig. 8–12b. The lever arm for 
+is the full distance from the hinge
+to the doorknob,
+(just as in Fig. 8–10). Thus 
+is much smaller than .
+r
+A
+rC
+r
+A
+F
+B
+A
+rC
+F
+B
+C
+F
+B
+C
+F
+B
+C
+F
+B
+C
+F
+B
+D,
+F
+B
+A
+F
+B
+C
+a r F.
+a r t,
+t:
+a
+t
+F
+A
+F
+B
+r
+A = 3rB ,
+rB ,
+r
+A
+rB
+r
+A
+F
+B
+B
+F
+A ,
+F
+B
+A
+206
+CHAPTER 8
+Rotational Motion
+A
+rB
+rA
+B
+F
+B
+F
+B
+FIGURE 8;10 Top view of a door.
+Applying the same force with 
+different lever arms,
+and 
+If
+then to create the same
+effect (angular acceleration),
+needs to be three times F
+A.
+F
+B
+r
+A = 3rB,
+rB.
+r
+A
+(a)
+(b)
+FIGURE 8;11 (a) A plumber can
+exert greater torque using a wrench
+with a long lever arm. (b) A tire 
+iron too can have a long lever arm.
+rC
+(a)
+(b)
+       Line of action of
+C
+A
+F
+B
+C
+F
+B
+C
+F
+B
+B
+F
+D
+F
+B
+rA
+FIGURE 8;12 (a) Forces acting at 
+different angles at th

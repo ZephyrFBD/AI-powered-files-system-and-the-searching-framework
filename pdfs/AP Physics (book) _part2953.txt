@@ -1,0 +1,21 @@
+f Velocities
+Consider a rocket ship that travels away from the Earth with speed v, and assume
+that this rocket has fired off a second rocket that travels at speed 
+with 
+respect to the first (Fig. 26–11). We might expect that the speed u of rocket 2 
+with respect to Earth is 
+which in the case shown in Fig. 26–11 is
+But, as discussed in Section 26–8, no object can travel
+faster than the speed of light in any reference frame. Indeed, Einstein showed
+that since length and time are different in different reference frames, the classical
+addition-of-velocities formula is no longer valid. Instead, the correct formula is
+(26–10)
+for motion along a straight line. We derive this formula in Appendix E. If 
+is in
+the opposite direction from v, then 
+must have a minus sign in the above equation
+so
+Relative velocity, relativistically. Calculate the speed of
+rocket 2 in Fig. 26–11 with respect to Earth.
+APPROACH We combine the speed of rocket 2 relative to rocket 1 with the
+speed of rocket 1 relativ

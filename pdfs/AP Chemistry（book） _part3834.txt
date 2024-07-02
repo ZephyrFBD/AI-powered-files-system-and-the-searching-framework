@@ -1,0 +1,49 @@
+ssures. One reason for the lack of reactivity of H2 toward 
+alkenes is the stability of the H2 bond. To promote the reaction, the reaction temperature 
+must be raised 1500 °C2, and a catalyst (such as Ni) is used to assist in rupturing the H¬H 
+bond. We write such conditions over the reaction arrow to indicate they must be present 
+in order for the reaction to occur. The most widely used catalysts are finely divided metals 
+on which H2 is adsorbed. 
+ (Section 14.7)
+Hydrogen halides and water can also add to the double bond of alkenes, as in these 
+reactions of ethylene:
+ 
+CH2 “CH2 + HBr ¡ CH3CH2Br 
+[24.3]
+ 
+ CH2 “CH2 + H2O ¡
+H2SO4  CH3CH2OH 
+[24.4]
+The addition of water is catalyzed by a strong acid, such as H2SO4.
+The addition reactions of alkynes resemble those of alkenes, as shown in these 
+examples:
+ 
+CH3C
+CH3
+CH3
+CCH3         Cl2
+Cl
+Cl
+C
+C
+2-Butyne
+trans-2,3-Dichloro-2-butene
++
+ 
+[24.5]
+ 
+CH3C
+CCH3          2 Cl2
+CH3
+CH3
+Cl
+Cl
+C
+Cl
+Cl
+C
+2-Butyne
+2,2,3,3-Tetrachlorobutane
++
+ 
+[24.6

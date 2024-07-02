@@ -1,0 +1,30 @@
+ound these two 
+elements form must be NF3:
+Check The Lewis structure in the center shows that each atom is 
+surrounded by an octet of electrons. Once you are accustomed to 
+thinking of each line in a Lewis structure as representing two elec-
+trons, you can just as easily use the structure on the right to check 
+for octets.
+ 
+SECTION 8.4   
+Bond Polarity and Electronegativity 
+309
+average distance between bonded nitrogen atoms varies with the number of shared 
+electron pairs:
+N
+N
+1.47 Å
+N
+N
+1.24 Å
+N
+N
+1.10 Å
+Give It Some Thought
+The C ¬ O bond length in carbon monoxide, CO, is 1.13 Å, whereas the C ¬ O 
+bond length in CO2 is 1.24 Å. Without drawing a Lewis structure, do you think that 
+CO contains a single, double, or triple bond?
+As a general rule, the length of the bond between two atoms decreases as the number of 
+shared electron pairs increases. We will explore this point in greater detail in Section 8.8.
+8.4 ∣ Bond Polarity and Electronegativity
+When two identical atoms bond, as in

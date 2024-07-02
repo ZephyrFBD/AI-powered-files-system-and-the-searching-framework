@@ -1,0 +1,11 @@
+earning
+Objective
+4.11 The student is able to justify the selection of the kind of data needed to answer
+scientific questions about the interactions of populations within communities.
+The logistic model of population growth, while valid in many natural populations and a useful model, is a simplification
+of real-world population dynamics. Implicit in the model is that the carrying capacity of the environment does not change,
+which is not the case. The carrying capacity varies annually: for example, some summers are hot and dry whereas others
+are cold and wet. In many areas, the carrying capacity during the winter is much lower than it is during the summer.
+Also, natural events such as earthquakes, volcanoes, and fires can alter an environment and hence its carrying capacity.
+Additionally, populations do not usually exist in isolation. They engage in interspecific competition: that is, they share
+the environment with other species, competing with them for the same resources. These factor

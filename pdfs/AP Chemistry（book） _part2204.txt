@@ -1,0 +1,47 @@
+.11 is ﬁrst 
+order in CHCl3 and one-half order in Cl2. The overall reaction 
+order is three halves.
+(b) For the rate law for Equation 14.9, we have
+Units of rate = 1units of rate constant21units of concentration2 
+so
+Units of rate constant =
+units of rate
+units of concentration =
+M>s
+M
+= s-1
+Note that if the reaction order changes, the units of the rate con-
+stant change.
+ 
+▶Practice Exercise 1
+Which of the following are the units of the rate constant for 
+Equation 14.11?
+(a) M
+- 1
+&2s
+-1 (b) M
+-1&2 s
+-1&2 (c) M
+1
+&2s
+-1 (d) M
+- 3
+&2s
+-1 (e) M
+-3&2s
+-1&2
+ 
+▶Practice Exercise 2
+(a) What is the reaction order of the reactant H2 in Equa-
+tion 14.10? (b) What are the units of the rate constant for 
+Equation 14.10?
+ 
+SECTION 14.3   
+Concentration and Rate Laws 
+579
+Solve Box 1 contains 5 red spheres and 5 purple spheres, giving 
+the following rate:
+Box 1: Rate = k1521522 = 125k
+Box 2 contains 7 red spheres and 3 purple spheres:
+Box 2: Rate = k1721322 = 63k
+Box 3 contains 3 red spheres and 7

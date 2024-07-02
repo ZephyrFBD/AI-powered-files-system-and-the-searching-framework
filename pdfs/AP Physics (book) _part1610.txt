@@ -1,0 +1,34 @@
+ process.
+A
+B
+C
+Isothermal
+Adiabatic
+0
+V
+P
+FIGURE 15–3 PV diagram for
+adiabatic (AC) and isothermal (AB)
+processes on an ideal gas.
+d
+P
+area A
+FIGURE 15–5 Work is done on the
+piston when the gas expands, moving
+the piston a distance d.
+Work in isothermal and adiabatic
+processes. In Fig. 15–3 we saw the PV diagrams for a gas expanding in two
+ways, isothermally and adiabatically. The initial volume 
+was the same in each
+case, and the final volumes were the same
+In which process was more
+work done by the gas?
+RESPONSE Our system is the gas. More work was done by the gas in the
+isothermal process, which we can see in two simple ways by looking at Fig. 15–3.
+First, the “average” pressure was higher during the isothermal process AB, so
+was greater (
+is the same for both processes). Second, we can
+look at the area under each curve as we showed in Fig. 15–7b: the area under
+curve AB, which represents the work done, is greater (because curve AB is higher)
+than the area under AC in Fig. 15–3.
+¢V

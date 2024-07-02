@@ -1,0 +1,19 @@
+ to
+avoid underexposure (too little light so the picture is dark and only the brightest
+objects show up) or overexposure (too much light, so that bright objects have a
+lack of contrast and “washed-out” appearance). A high quality camera con-
+trols the exposure with a “stop” or iris diaphragm, whose opening is of variable
+diameter, placed behind the lens (Fig. 25–1). The lens opening is controlled
+(automatically or manually) to compensate for bright or dark lighting conditions,
+the sensitivity of the sensor or film,† and for different shutter speeds. The size of
+the opening is specified by the f-stop or f-number, defined as
+where f is the focal length of the lens and D is the diameter of the lens opening
+(see Fig. 25–1). For example, when a 50-mm-focal-length lens has an opening
+then
+so we say it is set at 
+. When 
+this lens is set at 
+, the opening is only 
+For faster shutter
+speeds, or low light conditions, a wider lens opening must be used to get a proper
+exposure, which corresponds 

@@ -1,0 +1,63 @@
+ of lines crossing unit
+area perpendicular to 
+is proportional to the magnitude of the electric field.
+E
+B
+AF r 1r2B,
+E
+B
+C
+E
+B
+B,
+E
+B
+A,
+E
+B.
+F
+B
+E
+B
+C
+E
+B
+B,
+E
+B
+A,
+P R O B L E M  S O L V I N G
+Use symmetry to save work,
+when possible
++Q
+A
+C
+B
+A
+B
+C
+E
+B
+E
+B
+E
+B
+FIGURE 16–30 Electric field vector,
+shown at three points, due to a
+single point charge Q. (Compare to
+Fig. 16–23.)
+–
++
+(a)
+(b)
+FIGURE 16–31 Electric field lines
+(a) near a single positive point
+charge, (b) near a single negative
+point charge.
+Figure 16–32a shows the electric field lines due to two equal charges of
+opposite sign, a combination known as an electric dipole. The electric field lines
+are curved in this case and are directed from the positive charge to the negative
+charge. The direction of the electric field at any point is tangent to the field line at
+that point as shown by the vector arrow 
+at point P. To satisfy yourself that this
+is the correct pattern for the electric field lines, you can make a few calculati

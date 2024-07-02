@@ -1,0 +1,48 @@
+tandard molar 
+entropies
+t ∆Ssurr =
+- ∆Hsys
+T
+ 
+[19.9]  
+ 
+The entropy change of the surroundings for a process at constant 
+temperature and pressure
+t ∆G = ∆H - T∆S 
+[19.11]  
+ 
+Calculating the Gibbs free-energy change from enthalpy and en-
+tropy changes at constant temperature
+t ∆G° = a n∆G°
+f 1products2 - a m∆G°
+f 1reactants2 
+[19.14]  
+ 
+Calculating the standard free-energy change from standard free 
+energies of formation
+t Reversible process:  ∆G = ∆Hsys - T∆Ssys = 0  
+¶
+t Irreversible process: ∆G = ∆Hsys - T∆Ssys 6 0 
+[19.17]  
+ 
+Relating the free-energy change to the reversibility of a process at 
+constant temperature and pressure
+t ∆G = -wmax 
+[19.18]  
+ 
+Relating the free-energy change to the maximum work a system 
+can perform
+t ∆G = ∆G° + RT ln Q 
+[19.19]  
+ 
+Calculating the free-energy change under nonstandard 
+conditions
+t ∆G° = -RT ln K 
+[19.20]  
+ 
+Relating the standard free-energy change and the equilibrium 
+constant
+Exercises
+Visualizing Concepts
+ 
+19.1  Two dif

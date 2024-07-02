@@ -1,0 +1,78 @@
+e see from Eq. 11–20 that if the velocity increases,
+the angle increases, and vice versa.
+ur 7 ui.
+u1
+u2
+u2
+u1
+AurB,
+u2
+AuiB,
+u1
+sin u2
+sin u1
+= v2
+v1
+.
+sin u2 = l2
+a
+= v2t
+a
+.
+sin u1 = l1
+a
+= v1t
+a
+l2 = v2t.
+A2
+l1 = v1t,
+A1
+t
+ui,
+ur
+ui.
+ur ,
+*
+†This Section and the next are covered in more detail in Chapters 23 and 24 on optics.
+FIGURE 11–43 Water waves refract
+gradually as they approach the
+shore, as their velocity decreases.
+There is no distinct boundary, as in
+Fig. 11–42, because the wave 
+velocity changes gradually.
+Incident
+ray
+θi
+θr
+θr
+θi
+1
+2
+Wave   fronts
+Incident waves
+Refracted waves
+Refracted ray
+FIGURE 11–42 Refraction of waves
+passing a boundary.
+Firm
+ground
+Mud
+A
+a
+A
+(a)
+(b)
+Row of soldiers
+θ2
+A2
+A1
+l1
+l2
+θ1
+θ2
+θ1
+FIGURE 11–44 (a) Marching soldier analogy to derive 
+(b) law of refraction for waves.
+Earthquake waves refract within the Earth as they travel through rock layers
+of different densities (which have different velocities) just as water waves do. Light
+waves refrac

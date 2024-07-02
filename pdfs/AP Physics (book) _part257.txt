@@ -1,0 +1,124 @@
+.
+u =
+tan–1
+ 
+tan u =
+DRy
+DRx
+=
+–18.7 km
+   23.5 km =
+–0.796.
+DR = 3DRx
+2
++ DRy
+2
+= 3(23.5 km)2 + (–18.7 km)2 = 30.0 km
+DRx = 23.5 km,  DRy =
+–18.7 km.
+DRy = D1y + D2y = 22.0 km + (–40.7 km) =
+–18.7 km.
+DRx = D1x + D2x =
+0 km  +    23.5 km  =
+±23.5 km
+D
+B
+R,
+D2y
+D2y =
+–(47.0 km)(sin 60°)
+=
+–(47.0 km)(0.866) =
+–40.7 km.
+D2x =
+±(47.0 km)(cos 60°) =
+±(47.0 km)(0.500) =
+±23.5 km
+D
+B
+2
+D1x = 0,  D1y = 22.0 km.
+D
+B
+1
+EXAMPLE 3;2
+56
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+P R O B L E M  S O L V I N G
+Identify the correct quadrant by
+drawing a careful diagram
+y
+x
+East
+(a)
+y
+x
+(b)
+0
+0
+0
+D2x
+y
+x
+(c)
+D2y
+Post
+ofﬁce
+North
+60°
+θ
+60°
+1
+2
+2
+2
+1
+1
+D
+B
+D
+B
+D
+B
+D
+B
+D
+B
+DR
+B
+D
+B
+FIGURE 3;15 Example 3–2.
+(a) The two displacement vectors,
+and 
+(b) 
+is resolved into 
+its components. (c) 
+and 
+are
+added to obtain the resultant 
+The component method of adding
+the vectors is explained in the 
+Example.
+D
+B
+R.
+D
+B
+2
+D
+B
+1
+D
+B
+2
+D
+B
+2.
+D
+B
+1
+Three short trips. An airplane trip involves three legs, with
+t

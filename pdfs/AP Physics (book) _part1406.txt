@@ -1,0 +1,21 @@
+e volume increase of the gasoline minus the
+increase in volume of the tank.
+SOLUTION The gasoline expands by
+The tank also expands. We can think of it as a steel shell that undergoes volume
+expansion
+If the tank were solid, the surface layer
+(the shell) would expand just the same (as in Example 13–4). Thus the tank
+increases in volume by
+so the tank expansion has little effect. More than a liter of gas could spill out.
+¢V = A35 * 10–6C°B(70 L)(40°C - 20°C) = 0.049 L,
+Ab = 35 * 10–6C° L 3aB.
+= 1.3 L.
+¢V = bV
+0 ¢T = A950 * 10–6C°B(70 L)(40°C - 20°C)
+EXAMPLE 13;7
+Anomalous Behavior of Water Below 4°C
+Most substances expand more or less uniformly with an increase in temperature,
+as long as no phase change occurs. Water, however, does not follow the usual pat-
+tern. If water at 0°C is heated, it actually decreases in volume until it reaches 4°C.
+Above 4°C water behaves normally and expands in volume as the temperature is
+increased, Fig. 13–13. Water thus has its greatest density at 4°C. 

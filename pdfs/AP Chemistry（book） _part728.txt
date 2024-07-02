@@ -1,0 +1,29 @@
+t 
+not the magnitude of the enthalpy change: 
+∆H2 = - ∆H1.
+ 
+SOLUTION
+Analyze Our goal is to use a thermochemical equation to calculate 
+the heat produced when a specific amount of methane gas is 
+combusted. According to Equation 5.17, 890 kJ is released by the 
+system when 1 mol CH4 is burned at constant pressure.
+Sample Exercise 5.4 
+Relating 횫H to Quantities of Reactants and Products
+How much heat is released when 4.50 g of methane gas is burned in a constant-pressure system? (Use the information given in 
+Equation 5.17.)
+Plan Equation 5.17 provides us with a stoichiometric conversion 
+factor: (1 mol CH4 ] -890 kJ). Thus, we can convert moles of CH4 
+to kJ of energy. First, however, we must convert grams of CH4 to 
+moles of CH4.
+Solve 
+The conversion sequence is:
+By adding the atomic weights 
+of C and 4 H, we have 
+1 mol CH4 = 16.0 CH4. We can use 
+the appropriate conversion factors 
+to convert grams of CH4 to moles of 
+CH4 to kilojoules:
+Heat = 14.50 g CH42a
+1 mol CH4
+16.0 g CH4
+b 

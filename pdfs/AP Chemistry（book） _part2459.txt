@@ -1,0 +1,20 @@
+2
+▲ Figure 15.17 Equilibrium and temperature. The equilibrium 
+constant increases with increasing temperature because the reaction is 
+endothermic. It is necessary to use a log scale for Kp because the values 
+vary over such a large range.
+temperature of the exhaust gas. Some catalysts developed for this reaction 
+are reasonably effective under the grueling conditions in automotive ex-
+haust systems. Nevertheless, scientists and engineers are continuously 
+searching for new materials that provide even more effective catalysis of 
+the decomposition of nitrogen oxides.
+ 
+Key Equations 
+655
+contains less products than reactants and therefore lies toward the 
+reactant side. The equilibrium-constant expression and the equilib-
+rium constant of the reverse of a reaction are the reciprocals of those 
+of the forward reaction. If a reaction is the sum of two or more reac-
+tions, its equilibrium constant will be the product of the equilibrium 
+constants for the individual reactions.
+HETEROGENEOU

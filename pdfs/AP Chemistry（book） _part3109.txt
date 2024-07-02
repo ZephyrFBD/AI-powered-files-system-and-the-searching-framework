@@ -1,0 +1,42 @@
+ghest temperature shown. (a) What processes corre-
+spond to the entropy increases along the vertical lines 
+labeled 1 and 2? (b) Why is the entropy change for 2 
+larger than that for 1? (c) If this substance is a perfect 
+crystal at T = 0 K, what is the value of S at this tempera-
+ture? [Section 19.3]
+Temperature (K)
+Entropy, S
+1
+2
+ 
+19.6  Isomers are molecules that have the same chemical formula 
+but different arrangements of atoms, as shown here for 
+two isomers of pentane, C5H12. (a) Do you expect a sig-
+nificant difference in the enthalpy of combustion of the 
+two isomers? Explain. (b) Which isomer do you expect 
+to have the higher standard molar entropy? Explain. 
+[Section 19.4]
+CH3
+CH2
+CH2
+CH2
+CH3
+C
+CH3
+CH3
+CH3
+CH3
+n-Pentane
+Neopentane
+Temperature
+T∆S
+∆H
+300 K
+Temperature
+250 K
+∆G 0
+ 
+19.9  Consider a reaction A21g2 + B21g2 ∆2 AB1g2, with 
+atoms of A shown in red in the diagram and atoms of B 
+shown in blue. (a) If Kc = 1, which box represents the sys-
+tem at equilibrium? (b) If 

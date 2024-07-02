@@ -1,0 +1,37 @@
+ities. Thus, we must draw a Lewis 
+structure for each molecule containing three or more atoms and 
+determine its molecular geometry. We then use electronegativity 
+values to determine the direction of the bond dipoles. Finally, we 
+see whether the bond dipoles cancel to give a nonpolar molecule 
+or reinforce each other to give a polar one.
+Solve
+(a) Chlorine is more electronegative than bromine. All diatomic 
+molecules with polar bonds are polar molecules. Conse-
+quently, BrCl is polar, with chlorine carrying the partial nega-
+tive charge:
+Br
+Cl
+ 
+The measured dipole moment m of BrCl is 0.57 D.
+(b) Because oxygen is more electronegative than sulfur, SO2 has 
+polar bonds. Three resonance forms can be written:
+S
+O
+O
+S
+O
+O
+S
+O
+O
+ 
+For each of these, the VSEPR model predicts a bent molecular 
+geometry. Because the molecule is bent, the bond dipoles do 
+not cancel, and the molecule is polar:
+O
+O
+S
+ 
+Experimentally, the dipole moment m of SO2 is 1.63 D.
+Continued
+the molecule is bent, howeve

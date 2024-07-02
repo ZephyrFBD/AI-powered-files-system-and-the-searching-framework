@@ -1,0 +1,19 @@
+NH4
++ is a weak acid and will donate a proton to water, producing hydronium 
+ions and thereby lowering the pH:
+ 
+NH4
++1aq2 + H2O1l2 ∆ NH31aq2 + H3O+1aq2 
+[16.45]
+ 
+SECTION 16.9  Acid–Base Properties of Salt Solutions 
+697
+A more unusual situation is encountered with some metal salts. For instance, if you dis-
+solve Fe1NO323 in water, the solution is quite acidic. Why would this be the case?
+You might think that the nitrate ion is somehow producing nitric acid, but you 
+would be wrong. Recall that nitrate is the conjugate base of a strong acid, and therefore 
+its reaction with water is negligible. Instead, we have to consider what Fe3+ is doing in 
+solution. It turns out that other small, highly charged metal cations like Fe3+ also create 
+surprisingly acidic solutions in water (Table 16.6). A comparison of Fe2+ and Fe3+ values 
+in the table illustrates how acidity increases as ionic charge increases.
+Notice that Ka values for the 3+ ions in Table 16.6 are comparable to the values for 

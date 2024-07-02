@@ -1,0 +1,16 @@
+ nature of energy, the first law of thermo-
+dynamics, and the concept of enthalpy. In this chapter, we discuss the second law 
+of thermodynamics and the concept of entropy, a thermodynamic quantity that we 
+encountered briefly in Chapter 13. 
+ (Section 13.1)
+19.1 ∣ Spontaneous Processes
+If you release a brick from your hand, it will fall. It never jumps back into your hand 
+no matter how long you wait. Likewise, if you let a nail sit in the rain, it will even-
+tually rust. The rusted nail will never convert to its original condition even when 
+the sun shines and time passes. These are but two examples illustrating that there 
+is directionality to events. We say that events like the falling brick and rusting nail 
+occur spontaneously. A spontaneous process is one that occurs on its own with-
+out any outside assistance.
+A spontaneous process occurs in one direction only, and the reverse of any 
+spontaneous process is always nonspontaneous. Drop an egg above a hard surface, for 
+example, 

@@ -1,0 +1,26 @@
+M is located at the geometric center of the object.
+To locate the center of mass of a group of extended objects, we can use
+Eqs. 7–9, where the m’s are the masses of these objects and the x’s, y’s, and z’s 
+are the coordinates of the CM of each of the objects.
+186
+CHAPTER 7
+Linear Momentum
+†There would be a difference between the CM and CG only in the unusual case of an object so large
+that the acceleration due to gravity, g, was different at different parts of the object.
+Pivot point
+m
+CG
+g
+B
+FIGURE 7;24 The force of gravity,
+considered to act at the CG, causes
+this object to rotate about the pivot
+point; if the CG were on a vertical
+line directly below the pivot, the
+object would remain at rest.
+CG
+FIGURE 7;25 Finding the CG.
+7–9 CM for the Human Body
+For a group of extended objects, each of whose CM is known, we can find the 
+CM of the group using Eqs. 7–9a and b. As an example, we consider the human 
+body. Table 7–1 indicates the CM and hinge points (joints) for the different compo

@@ -1,0 +1,67 @@
+
+2
+sin
+cos
+1
+tan
+1
+sec
+1 cot
+csc
+t
+t
+t
+t
+t
+t
++
+=
++ =
++
+=
+ 
+ 
+Example 5 
+If cost = 3/5 and t is in Quadrant IV, find the values of all the trigonometric functions at t. 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+116 
+3.3 Sine and Cosine Function Graphs and Transformations 
+3.3.1 Graphs of Sine and Cosine 
+To help us graph the sine and cosine functions, we first observe that these functions 
+repeat their values in a regular fashion. 
+In other words, 
+ 
+Thus, the sine and cosine functions are periodic according to the following definition: A 
+function f is periodic if there is a positive number p such that f (t + p) = f (t) for every t. 
+ 
+PERIODIC PROPERTIES OF SINE AND COSINE 
+The functions sine and cosine have period 2π: 
+ 
+So the sine and cosine functions repeat their values in any interval of length 2π. To sketch 
+their graphs, we first graph one period. 
+To sketch the graphs , we could try to make a table of values of those points to draw the 
+graph. 
+ 
+Now we use this

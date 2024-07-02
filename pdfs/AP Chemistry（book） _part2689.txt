@@ -1,0 +1,35 @@
+to decrease and 3A-4 to increase. As long as the 
+amounts of HA and A- in the buffer are large relative to the amount of OH- added, the 
+ratio 3HA4>3A-4 does not change much and, thus, the change in pH is small.
+If H+ ions are added, they react with the base component of the buffer:
+ 
+H+1aq2 + A-1aq2 ¡ HA1aq2  
+[17.7]
+This reaction can also be represented using H3O+:
+H3O+1aq2 + A-1aq2 ¡ HA1aq2 + H2O1l2
+Using either equation, we see that this reaction causes 3A-4 to decrease and 3HA4 to in-
+crease. As long as the change in the ratio 3HA4>3A-4 is small, the change in pH will be small.
+An example of an HA>A- buffer is the HF>F- buffered solution shown in Figure 17.2. 
+The buffer consists of equal concentrations of hydrofluoric acid, HF, and fluoride ion, 
+ 
+added base
+added acid
+After addition
+of OH−
+Add OH−
+Add H+
+After addition
+of H+
+Initial buffered solution
+HF
+F−
+HF
+[HF] = [F−]
+F−
+HF
+F−
+Presence of HF counteracts 
+addition of base; pH 
+increase is small.
+Presence of F– counteracts 
+ad

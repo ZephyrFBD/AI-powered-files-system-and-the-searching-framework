@@ -1,0 +1,45 @@
+n field can be noted from Fig. 22–6. First, the
+electric and magnetic fields at any point are perpendicular to each other, and to the
+direction of wave travel. Second, we can see that the fields alternate in direction
+(
+is into the page at some points and out of the page at others;
+points up at
+some points and down at others). Thus, the field strengths vary from a maximum
+in one direction, to zero, to a maximum in the other direction. The electric and
+magnetic fields are “in phase”: that is, they each are zero at the same points and
+reach their maxima at the same points in space. Finally, very far from the antenna
+(Fig. 22–6b) the field lines are quite flat over a reasonably large area, and the
+waves are referred to as plane waves.
+E
+B
+B
+B
+1r2.
+B2,
+E2
+1r2.
+E
+B
+1r.
+B
+B
+E
+B
+y
+x
+z
+Direction
+of motion
+of wave
+E
+B
+E
+B
+B
+B
+B
+B
+SECTION 22–3
+629
+If the source voltage varies sinusoidally, then the electric and magnetic field
+strengths in the radiation field will also vary sinusoidally. The s

@@ -1,0 +1,24 @@
+led the newton (N).
+One newton is the force required to impart an acceleration of 
+to a 
+mass of 1 kg. Thus  
+In cgs units, the unit of mass is the gram† (g). The unit of force is the dyne, which
+is defined as the net force needed to impart an acceleration of 
+to a mass
+of 1 g. Thus  
+Because  
+and  
+then  
+In the British system, which we rarely use, the unit of force is the pound
+(abbreviated lb), where  
+The unit of mass is the slug,
+which is defined as that mass which will undergo an acceleration of 
+when 
+a force of 1 lb is applied to it. Thus  
+Table 4–1 summarizes the
+units in the different systems.
+It is very important that only one set of units be used in a given calculation 
+or Problem, with the SI being what we almost always use. If the force is given in,
+say, newtons, and the mass in grams, then before attempting to solve for the
+acceleration in SI units, we must change the mass to kilograms. For example, if the
+force is given as 2.0 N along the x axis and the mass is 500 g,

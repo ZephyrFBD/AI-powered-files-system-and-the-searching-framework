@@ -1,0 +1,34 @@
+.
+E
+B
+(a)
+(b)
+Antenna
+Direction
+of
+wave travel
+FIGURE 22–6 (a) The radiation fields (far from the antenna)
+produced by a sinusoidal signal on the antenna. The red
+closed loops represent electric field lines. The magnetic field
+lines, perpendicular to the page and represented by blue 
+and 
+also form closed loops. (b) Very far from the antenna,
+the wave fronts (field lines) are essentially flat over a fairly
+large area, and are referred to as plane waves.
+,
+z
+The magnitudes of both 
+and 
+in the radiation field are found to decrease
+with distance as 
+(Compare this to the static electric field given by Coulomb’s
+law where 
+decreases as 
+) The energy carried by the electromagnetic wave
+is proportional (as for any wave, Chapter 11) to the square of the amplitude,
+or 
+as will be discussed further in Section 22–7, so the intensity of the wave
+decreases as 
+Thus the energy carried by EM waves follows the inverse
+square law just as for sound waves (Eqs. 11–16).
+Several things about the radiatio

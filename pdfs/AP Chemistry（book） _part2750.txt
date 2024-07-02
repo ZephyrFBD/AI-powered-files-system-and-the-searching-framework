@@ -1,0 +1,18 @@
+ility and Ksp. 
+Starting from the mass solubility, follow the green arrows to determine 
+Ksp. Starting from Ksp, follow the red arrows to determine either molar 
+solubility or mass solubility.
+The solubility of a substance can change considerably in 
+response to a number of factors. For example, the solubilities of 
+ 
+hydroxide salts, like Mg1OH22, are dependent upon the pH of 
+the solution. The solubility is also affected by concentrations 
+of other ions in solution, especially common ions. In other 
+words, the numeric value of the solubility of a given solute does 
+change as the other species in solution change. In contrast, the 
+solubility-product constant, Ksp, has only one value for a given 
+solute at any specific temperature.* Figure 17.16 summarizes the 
+relationships among various expressions of solubility and Ksp.
+In principle, it is possible to use the Ksp value of a salt to cal-
+culate solubility under a variety of conditions. In practice, great 
+care must be taken in doing 

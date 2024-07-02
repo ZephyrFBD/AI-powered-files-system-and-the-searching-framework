@@ -1,0 +1,27 @@
+es and the axes wherever you
+like to make your calculations easier. You also choose
+which direction is positive and which is negative.
+Usually we choose the x axis to the right as positive.]
+4. Write down what quantities are “known” or “given,”
+and then what you want to know. Consider quan-
+tities both at the beginning and at the end of the
+chosen time interval. You may need to “translate”
+language into physical terms, such as “starts from
+rest” means
+5. Think about which principles of physics apply in
+this problem. Use common sense and your own
+experiences. Then plan an approach.
+6. Consider which equations (and/or definitions) relate
+the quantities involved. Before using them, be sure
+their range of validity includes your problem (for
+example, Eqs. 2–11 are valid only when the accel-
+eration is constant). If you find an applicable
+v0 = 0.
+t = 0.
+FIGURE 2;14 Read the book, study
+carefully, and work the Problems using
+your reasoning abilities.
+SECTION 2–6
+Solving Problems
+31
+Accelerati

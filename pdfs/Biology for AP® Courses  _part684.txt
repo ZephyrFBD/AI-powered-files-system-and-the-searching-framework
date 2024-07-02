@@ -1,0 +1,17 @@
+ion. Exergonic reactions are said to be spontaneous, because their products have
+less energy than their reactants. The products of endergonic reactions have a higher energy state than the reactants, and so
+Chapter 6 | Metabolism
+251
+these are nonspontaneous reactions. However, all reactions (including spontaneous –∆G reactions) require an initial input
+of energy in order to reach the transition state, at which they’ll proceed. This initial input of energy is called the activation
+energy.
+6.3 | The Laws of Thermodynamics
+In this section, you will explore the following questions:
+•
+What is entropy?
+•
+What is the difference between the first and second laws of thermodynamics?
+Connection for AP® Courses
+In studying energy, scientists use the term system to refer to the matter and its environment involved in energy transfers,
+such as an ecosystem. Even single cells are biological systems and all systems require energy to maintain order. The more
+ordered a system is, the lower its entropy. E

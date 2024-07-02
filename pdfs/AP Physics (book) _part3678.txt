@@ -1,0 +1,16 @@
+nd certain variable stars). Although stars
+seem fixed in relation to each other, many move sufficiently for the motion to be
+detected. Speeds of stars relative to neighboring stars can be hundreds of 
+but at their great distance from us, this motion is detectable only by careful
+measurement. There is also a great range of brightness among stars, due to
+differences in the rate stars emit energy and to their different distances from us.
+Luminosity and Brightness of Stars
+Any star or galaxy has an intrinsic luminosity, L (or simply luminosity), which is its 
+total power radiated in watts. Also important is the apparent brightness, b, defined
+as the power crossing unit area at the Earth perpendicular to the path of the light.
+Given that energy is conserved, and ignoring any absorption in space, the total
+emitted power L when it reaches a distance d from the star will be spread over a
+sphere of surface area 
+If d is the distance from the star to the Earth, then 
+L must be equal to 
+times b 

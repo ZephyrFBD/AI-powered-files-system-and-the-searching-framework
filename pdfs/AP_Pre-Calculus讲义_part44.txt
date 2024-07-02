@@ -1,0 +1,74 @@
+tain from it the graphs of 
+( )
+( )
+(
+)
+and
+0
+y
+f x
+c
+y
+f x
+c
+c
+=
++
+=
+-
+>
+ 
+Suppose c > 0. 
+To graph y = f(x) + c, shift the graph of y = f(x) upward c units. 
+To graph y = f(x) − c, shift the graph of y = f(x) downward c units. 
+ 
+ 
+Example 1 
+Use the graph of f(x) = x2 to sketch the following functions. 
+(a) g(x) = x2 +3 
+(b) h(x) = x2 -2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+56 
+1.10.2 Horizontal Shifting 
+Suppose c > 0. 
+To graph y = f(x − c), shift the graph of y = f(x) to the right c units. 
+To graph y = f(x + c), shift the graph of y = f(x) to the left c units. 
+ 
+ 
+Example 2 
+Use the graph of f(x) = x2 to sketch the following functions. 
+(a) g(x) = (x +4)2 
+(b) h(x) = (x -2)2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.10.3 Reflecting Graphs 
+To graph y = −f(x), reflect the graph of y = f(x) in the x-axis. 
+To graph y = f(−x), reflect the graph of y = f(x) in the y-axis. 
+ 
+ 
+57 
+Example 3 
+Sketch the following functions. 
+ 
+ 
+ 
+ 
+ 
+ 
+1.10.4 Vertical Stretching and Shrinking 
+To graph y = cf(x): 
+If c > 1, stretch the gr

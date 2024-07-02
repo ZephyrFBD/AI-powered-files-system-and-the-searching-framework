@@ -1,0 +1,23 @@
+circle of radius 0.600 m. The ball makes 2.00 revo-
+lutions per second  
+as in Example 5–1. Ignore the string’s mass.
+APPROACH First we need to draw the free-body diagram for the ball. The forces
+acting on the ball are the force of gravity,
+downward, and the tension force 
+that the string exerts toward the hand at the center (which occurs because the
+person exerts that same force on the string). The free-body diagram for the ball is
+shown in Fig. 5–7. The ball’s weight complicates matters and makes it impos-
+sible to revolve a ball with the cord perfectly horizontal. We estimate the force
+assuming the weight is small, and letting
+in Fig. 5–7. Then 
+will act
+nearly horizontally and, in any case, provides the force necessary to give the ball
+its centripetal acceleration.
+SOLUTION We apply Newton’s second law to the radial direction, which we
+assume is horizontal:
+where  
+and  
+Thus
+NOTE We keep only two significant figures in the answer because we ignored the
+ball’s weight; it is  
+about

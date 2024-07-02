@@ -1,0 +1,45 @@
+s from the average, or most probable, arrangement. In
+ordinary systems we are not dealing with only 100 molecules, but with extremely
+large numbers of molecules: in 1 mole alone there are 
+molecules. Hence
+the probability of deviation far from the average is incredibly tiny. For example, it
+has been calculated that the probability that a stone resting on the ground could
+transform 1 cal of thermal energy into mechanical energy and rise up into the air
+is much less likely than the probability that a group of monkeys typing randomly
+would by chance produce the complete works of Shakespeare. Put another way,
+the probability is less than once in the entire age of the universe; this could be what
+“never” means.
+6 * 1023
+*SECTION 15–10
+Statistical Interpretation of Entropy and the Second Law
+433
+TABLE 15–3 Probabilities of Various Macrostates 
+for 100 Coin T
+osses
+Macrostate
+Number of 
+Heads
+Tails
+Microstates
+Probability
+100
+0
+1
+99
+1
+90
+10
+80
+20
+60
+40
+0.011
+55
+45
+0.047
+50
+50
+0.077
+45
+55
+0.04

@@ -1,0 +1,18 @@
+edication in the epidemic area at time t. 
+3.4.2 Assumptions 
+1) L&K are constant, which means that the labor force and capital stay 
+unchanged. 
+2) α&βare constant, which means the weight of labor force and capital in 
+the production process is always stable. 
+3) One production process continues for one week. 
+3.4.3 The Foundation of Model 
+We divide the whole produce process into four stages. In stageⅠ, Y grows 
+with high-increasing speed due to the high development of technology. In 
+stageⅡ, Y grows with low-increasing speed due to the speed of technology 
+development slows down as a result of some constraints. Due to the 
+constraints, Y finally becomes stable in StageⅢ( Now we suppose that Y is 
+still less than D at the end of StageⅡ, if Y>D at that time, StageⅢcan be 
+deleted ). StageⅣ: Y declines due to the decreasing demand of the medication 
+declines. The demand of the medication in the epidemic area at time t is 
+decided by the improved modelⅡ . 
+StageⅠ:Y grows with high-incre

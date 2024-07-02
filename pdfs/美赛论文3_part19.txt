@@ -1,0 +1,51 @@
+ of 26
+that the cube
+BCDEFGHI
+is the water in the bathtub while the cube
+'
+'
+' '
+BCDEF G H I
+is the bathtub.
+graph 1：bathtub when added with hot water
+2.2.5 Model analysis
+From Equations of Mathematical Physics, we can know the equation:
+2
+2
+2
+2
+2
+2
+2
+(
+)
+u
+u
+u
+u
+a
+t
+x
+y
+z
+
+
+
+
+
+
+
+
+
+
+
+With the initial conditions, we know the temperature of every single position in the
+bathtub with filled water, which means knowing the 3D temperature distribution in
+the bathtub. Through the equation above, we can figure out the temperature of any
+position in the bathtub filled with water at any moment.
+The bathtub is filled with water. Once the hot water from the single faucet strikes
+the cold water in the bathtub, the kinetic energy that emerges will force the cold water
+to float into the overflow drain.
+Adding hot water can be divided into three stages:
+(1) At first, it is the initial stage of adding hot water. The speed of draining away
+water will increase from zero to a stable number. Duri

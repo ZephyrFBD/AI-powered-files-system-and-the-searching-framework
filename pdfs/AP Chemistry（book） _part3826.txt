@@ -1,0 +1,35 @@
+C
+H
+H
+H
+3
+2
+C
+trans-2-Butene
+bp +1 °C
+C
+3
+2
+H
+Red numbers mark longest 
+chain containing C=C.
+Methyl group branching 
+off longest chain
+No methyl group 
+branching off
+Methyl groups on same 
+side of double bond
+Methyl groups on opposite 
+sides of double bond
+▲ Figure 24.7 The alkene C4H8 has four structural isomers.
+Give It Some Thought
+How many distinct locations are there for a double bond in a five-carbon linear chain?
+1042 
+CHAPTER 24 The Chemistry of Life: Organic and Biological Chemistry
+If a substance contains two or more double bonds, the location of each is indi-
+cated by a numerical prefix, and the ending of the name is altered to identify the 
+number of double bonds: diene (two), triene (three), and so forth. For example, 
+CH2 “CH¬CH2¬CH“CH2 is 1,4-pentadiene.
+The two isomers on the right in Figure 24.7 differ in the relative locations of their 
+methyl groups. These two compounds are geometric isomers, compounds that have 
+the same molecular formula and the same groups bonded

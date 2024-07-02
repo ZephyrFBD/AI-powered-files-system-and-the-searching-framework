@@ -1,0 +1,28 @@
+ kJ 
+for the combustion of 1 mol of propane. In part (a) of 
+this exercise we determined that ∆H° = -3267 kJ for the 
+combustion of 1 mol benzene. To determine the heat of 
+combustion per gram of each substance, we use the molar 
+masses to convert moles to grams:
+ C3H81g2: 1-2220 kJ>mol211 mol>44.1 g2 = -50.3 kJ>g 
+ C6H61l2: 1-3267 kJ>mol211 mol>78.1 g2 = -41.8 kJ>g
+Comment Both propane and benzene are hydrocarbons. As a rule, 
+the energy obtained from the combustion of a gram of hydrocar-
+bon is between 40 and 50 kJ.
+ 
+▶Practice Exercise 1
+Calculate the enthalpy change for the reaction
+2 H2O21l2 ¡ 2 H2O1l2 + O21g2
+using enthalpies of formation:
+∆Hf°3H2O21l24 = -187.8 kJ>mol ∆Hf°3H2O1l24 = -285.8 kJ>mol
+(a) -88.0 kJ 
+(b) -196.0 kJ 
+(c) +88.0 kJ 
+(d) +196.0 kJ  
+(e) more information needed
+ 
+▶Practice Exercise 2
+Use Table 5.3 to calculate the enthalpy change for the com-
+bustion of 1 mol of ethanol:
+C2H5OH1l2 + 3 O21g2 ¡  2 CO21g2 + 3 H2O1l2
+Plan We begin by writing the expression for t

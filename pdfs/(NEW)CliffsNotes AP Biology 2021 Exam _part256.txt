@@ -1,0 +1,14 @@
+ent assortment of alleles (and their chromosomes).
+The process is independent because the migration of homologues within one pair of homologous chromosomes to
+opposite poles does not influence the migration of homologues of other homologous pairs.
+Mendel mated, or crossed, two varieties of pea plants to form offspring, or hybrids. In these kinds of experiments,
+the P generation represents the parents, the F1 generation represents the offspring from the crossing of the
+parents, and the F2generation represents the offspring produced from
+ 
+crosses among the F1. (The letter F stands for filial, which refers to sons
+ 
+and daughters.) Two kinds of genetic experiments are common:
+1. A monohybrid cross is an experiment in which only one trait is being investigated. For example, a cross between
+a tall pea plant and a dwarf pea plant is a monohybrid cross because it is investigating a gene for only one trait, the
+gene for stem length.
+2. A dihybrid cross occurs when two traits are involved. A c

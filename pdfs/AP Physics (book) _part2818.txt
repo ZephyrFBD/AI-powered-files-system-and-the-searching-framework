@@ -1,0 +1,17 @@
+he blue and violet wavelengths. This is just the region of the spectrum
+where dispersion—and thus chromatic aberration—is greatest (Fig. 24–14).
+Spherical mirrors (Section 23–3) also suffer aberrations including spherical
+aberration (see Fig. 23–13). Mirrors can be ground in a parabolic shape to correct
+for aberrations, but they are much harder to make and therefore very expensive.
+Spherical mirrors do not, however, exhibit chromatic aberration because the
+light does not pass through them (no refraction, no dispersion).
+25–7 Limits of Resolution;
+Circular Apertures
+The ability of a lens to produce distinct images of two point objects very close
+together is called the resolution of the lens. The closer the two images can be and
+still be seen as distinct (rather than overlapping blobs), the higher the resolution.
+The resolution of a camera lens, for example, is often specified as so many dots or
+lines per millimeter, as mentioned in Section 25–1.
+(b)
+(a)
+Two principal factors limit the r

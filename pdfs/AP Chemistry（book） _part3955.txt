@@ -1,0 +1,57 @@
+722 = 0.005
+42.28
+42.28 - 42.08 = 0.20
+10.2022 = 0.040
+41.79
+41.79 - 42.08 = -0.29
+1-0.2922 = 0.084
+42.25
+42.25 - 42.08 = 0.17
+10.1722 = 0.029
+The sum of the quantities in the last column is
+a
+N
+i = 1
+1xi - x22 = 0.005 + 0.040 + 0.084 + 0.029 = 0.16
+Thus, the standard deviation is
+s = H
+a
+N
+i = 1
+1xi - x22
+N - 1
+= A
+0.16
+4 - 1 = A
+0.16
+3
+= 20.053 = 0.23
+Based on these measurements, it would be appropriate to represent 
+the measured percent carbon as 42.08 { 0.23.
+Sample Exercise 4 
+Calculating an Average and Standard Deviation
+1086 
+APPENDIX A Mathematical Operations
+  
+ 
+1087
+APPENDIX
+A
+Density:
+0.99987 g>mL at 0 °C
+1.00000 g>mL at 4 °C
+0.99707 g>mL at 25 °C
+0.95838 g>mL at 100 °C
+Heat 1enthalpy2 of fusion:
+6.008 kJ>mol at 0 °C
+Heat 1enthalpy2 of vaporization:
+44.94 kJ>mol at 0 °C
+44.02 kJ>mol at 25 °C
+40.67 kJ>mol at 100 °C
+Ion@product constant, Kw: 
+1.14 * 10-15 at 0 °C
+1.01 * 10-14 at 25 °C
+5.47 * 10-14 at 50 °C
+Specific heat:
+2.092 J>g@K = 2.092 J>g # °C for ice at -3 °C
+4.184 J>g

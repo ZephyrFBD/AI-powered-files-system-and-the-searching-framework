@@ -1,0 +1,73 @@
+nzene
+ 
+[24.10]
+More vigorous treatment results in substitution of a second nitro group into the molecule:
+ 
+HNO3
+NO2
++
+ H2O
+NO2
+NO2
+H2SO4
++
+ 
+[24.11]
+There are three isomers of benzene that contain two nitro groups—the 1,2- or ortho- 
+isomer, the 1,3- or meta-isomer, and the 1,4- or para-isomer of dinitrobenzene:
+NO2
+NO2
+NO2
+NO2
+NO2
+NO2
+ortho-Dinitrobenzene
+1,2-Dinitrobenzene
+mp 118 °C
+meta-Dinitrobenzene
+1,3-Dinitrobenzene
+mp 90 °C
+para-Dinitrobenzene
+1,4-Dinitrobenzene
+mp 174 °C
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+In the reaction of Equation 24.11, the principal product is the meta isomer.
+Bromination of benzene, carried out with FeBr3 as a catalyst, is another substitution 
+reaction:
+ 
+ Br2
+HBr
+Br
++
++
+FeBr3
+Benzene
+Bromobenzene
+ 
+[24.12]
+In a similar substitution reaction, called the Friedel–Crafts reaction, alkyl groups can 
+be substituted onto an aromatic ring by reacting an alkyl halide with an aromatic com-
+pound in the presence of AlCl3 as a catalyst:
+ 
+CH3CH2
+CH2CH3
+Cl
+ HCl
++

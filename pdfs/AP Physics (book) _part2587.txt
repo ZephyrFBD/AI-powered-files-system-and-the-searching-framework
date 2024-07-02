@@ -1,0 +1,42 @@
+n by the mirror equation:
+(23;2)
+1
+do
++ 1
+di
+=
+1
+f
+.
+do,
+di
+f =
+r
+2
+The ratio of image height 
+to object height 
+which
+equals the magnification m of a mirror, is
+(23;3)
+If the rays that converge to form an image actually pass
+through the image, so the image would appear on a screen or
+film placed there, the image is said to be a real image. If the
+light rays do not actually pass through the image, the image is a
+virtual image.
+The speed of light v depends on the index of refraction, n, of
+the material:
+(23;4)
+where c is the speed of light in vacuum.
+When light passes from one transparent medium into
+another, the rays bend or refract. The law of refraction
+(Snell’s law) states that
+(23;5)
+where 
+and 
+are the index of refraction and angle with the
+normal (perpendicular) to the surface for the incident ray, and
+and 
+are for the refracted ray.
+When light rays reach the boundary of a material where the
+index of refraction decreases, the rays will be totally internally
+reflected if the incid

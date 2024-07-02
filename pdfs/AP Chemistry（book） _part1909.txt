@@ -1,0 +1,15 @@
+und semiconductors maintain the same average valence electron count as 
+elemental semiconductors—four per atom. For example, in gallium arsenide, GaAs, 
+each Ga atom contributes three electrons and each As atom contributes five, which 
+averages out to four per atom—the same number as in silicon or germanium. Hence, 
+GaAs is a semiconductor. Other examples are InP
+, where indium contributes three 
+valence electrons and phosphorus contributes five, and CdTe, where cadmium pro-
+vides two valence electrons and tellurium contributes six. In both cases, the average 
+is again four valence electrons per atom. GaAs, InP
+, and CdTe all crystallize with a zinc 
+blende structure.
+The band gap of a compound semiconductor tends to increase as the difference in 
+group numbers increases. For example, Eg = 0.67 eV in Ge, but Eg = 1.43 eV in GaAs. 
+If we increase the difference in group number to four, as in ZnSe (groups 2B and 6A), 
+the band gap increases to 2.70 eV. This progression is a result of the

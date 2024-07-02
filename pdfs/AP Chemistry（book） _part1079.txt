@@ -1,0 +1,129 @@
+rt of the periodic table (top/bottom, left/right) has the elements 
+with the largest atoms?
+H
+0.31
+Li
+1.28
+Na
+1.66
+K
+2.03
+Rb
+2.20
+Be
+0.96
+Mg
+1.41
+Ca
+1.76
+Sr
+1.95
+Sc
+1.70
+Y
+1.90
+Ti
+1.60
+Zr
+1.75
+Nb
+1.64
+Mo
+1.54
+Tc
+1.47
+Ru
+1.46
+Fe
+1.32
+Rh
+1.42
+Pd
+1.39 Ag
+1.45
+Cd
+1.44
+He
+0.28
+Ne
+0.58
+Ar
+1.06
+Xe
+1.40
+B
+0.84
+Al
+1.21
+In
+1.42
+C
+0.76
+Si
+1.11
+Sn
+1.39
+N
+0.71
+P
+1.07
+Sb
+1.39
+O
+0.66
+S
+1.05
+Te
+1.38
+F
+0.57
+Cl
+1.02
+V
+1.53
+Cr
+1.39
+Mn
+1.39
+Co
+1.26
+Ni
+1.24
+Cu
+1.32
+Zn
+1.22
+Kr
+1.16
+Ga
+1.22
+Ge
+1.20
+As
+1.19
+Se
+1.20
+Br
+1.20
+I
+1.39
+1A
+2A
+3A 4A 5A 6A
+7A
+8A
+Increasing radius
+Radius (Å)
+Increasing 
+radius
+0
+1
+2
+▲ Figure 7.7 Trends in bonding atomic radii for periods 1 through 5.
+264 
+CHAPTER 7 Periodic Properties of the Elements
+Give It Some Thought
+In Section 7.2 we said that Zeff generally increases when you move down a column 
+of the periodic table, whereas in Chapter 6 we saw that the “size” of an orbital 
+increases as the principal quantum number n increases. With respect to atomic 
+radii, do these trends wor

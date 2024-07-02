@@ -1,0 +1,23 @@
+so it can’t build up a high voltage.
+14. When capacitors are connected in series, the effective
+capacitance is __________ the smallest capacitance; when
+capacitors are connected in parallel, the effective capaci-
+tance is __________ the largest capacitance.
+(a) greater than; equal to.
+(d) equal to; less than.
+(b) greater than; less than.
+(e) equal to; equal to.
+(c) less than; greater than.
+15. If ammeters and voltmeters are not to significantly alter the
+quantities they are measuring,
+(a) the resistance of an ammeter and a voltmeter should be
+much higher than that of the circuit element being
+measured.
+(b) the resistance of an ammeter should be much lower,
+and the resistance of a voltmeter should be much
+higher, than those of the circuit being measured.
+(c) the resistance of an ammeter should be much higher,
+and the resistance of a voltmeter should be much
+lower, than those of the circuit being measured.
+(d) the resistance of an ammeter and a voltmeter should
+be much lower than that of

@@ -1,0 +1,15 @@
+asses is less than the mass of the uranium. The difference in mass,
+or energy, between the original uranium nucleus and the fission fragments is about
+per nucleon. Because there are 236 nucleons involved in
+each fission, the total energy released per fission is
+(31;5)
+This is an enormous amount of energy for one single nuclear event. At a practical
+level, the energy from one fission is tiny. But if many such fissions could occur 
+in a short time, an enormous amount of energy at the macroscopic level would 
+be available. A number of physicists, including Fermi, recognized that the 
+neutrons released in each fission (Eqs. 31–3 and 31–4) could be used to create a
+chain reaction. That is, one neutron initially causes one fission of a uranium
+nucleus; the two or three neutrons released can go on to cause additional fissions,
+so the process multiplies as shown schematically in Fig. 31–5.
+If a self-sustaining chain reaction was actually possible in practice, the
+enormous energy available in f

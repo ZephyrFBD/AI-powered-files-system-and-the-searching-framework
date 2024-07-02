@@ -1,0 +1,11 @@
+is random—that is, either chromosome of a homologous pair can migrate to either pole (Mendel’s law of
+segregation).
+Different homologous pairs of chromosomes act independently of other homologous chromosome pairs. Thus, genes
+that are on different chromosomes (unlinked) migrate independently of genes on other chromosomes (Mendel’s law
+of independent assortment).
+b. When two genes are linked, they are on the same chromosome. If they are on the same chromosome, they migrate
+together to either pole (unless crossing over occurs). Thus, they violate Mendel’s law of independent assortment and
+are inherited together as if they were a single gene in a monohybrid cross. If the dominant alleles A and B are on one
+chromosome and the recessive alleles a and b are on the homologous chromosome, they produce only two kinds of
+gametes, AB and ab. Then, the dihybrid cross AaBb × AaBb would produce a 1:2:1 genotypic ratio for AABB, AaBb,
+and aabb with a phenotypic ratio of 3:1, not the typical 9:3:3:1 p

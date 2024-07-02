@@ -1,0 +1,35 @@
+ -10.211 V2a
+2
+0.0592 Vb = -7.13
+ 
+Q = 10-7.13 = 7.4 * 10-8
+Because electrons flow from electrode 1 to electrode 2, elec-
+trode 1 is the anode of the cell and electrode 2 is the cathode. 
+The electrode reactions are therefore as follows, with the 
+concentration of H+1aq2 in electrode 1 represented with the 
+unknown x:
+Electrode 1:       H21g, 1.00 atm2 ¡ 2 H+1aq, x M2 + 2 e- E°
+red = 0
+Electrode 2:  2 H+1aq, 1.00 M2 + 2 e- ¡ H21g, 1.00 atm2 
+E°
+red = 0
+Overall:      2 H+1aq, 1.00 M2 ¡ 2 H+1aq, x M2
+Thus,
+ 
+Q =
+3H+ 1aq, x M242
+3H+ 1aq, 1.00 M242
+ =
+x2
+11.0022 = x2 = 7.4 * 10-8
+ 
+x = 3H+4 = 27.4 * 10-8 = 2.7 * 10-4
+At electrode 1, therefore, the pH of the solution is:
+pH = -log3H+4 = -log12.7 * 10-42 = 3.57
+Comment The concentration of H+ at electrode 1 is lower than that 
+in electrode 2, which is why electrode 1 is the anode of the cell: 
+The oxidation of H2 to H+1aq2 increases 3H+4 at electrode 1.
+ 
+▶Practice Exercise 1
+A concentration cell constructed from two hydrogen elec-
+trodes, b

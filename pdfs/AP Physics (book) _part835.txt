@@ -1,0 +1,23 @@
+he object under 
+consideration (or for each object, if more than one),
+showing all (and only) the forces acting on that
+object and exactly where they act, so you can deter-
+mine the torque due to each. Gravity acts at the CM
+of the object (Section 7–8).
+4. Identify the axis of rotation and determine the
+torques about it. Choose positive and negative
+A heavy pulley. A 15.0-N force (represented by 
+) is applied
+to a cord wrapped around a pulley of mass 
+and radius 
+Fig. 8–21. The pulley accelerates uniformly from rest to an angular speed of
+in 3.00 s. If there is a frictional torque 
+at the axle,
+determine the moment of inertia of the pulley. The pulley rotates about its center.
+APPROACH We follow the steps of the Problem Solving Strategy above.
+SOLUTION
+1. Draw a diagram. The pulley and the attached cord are shown in Fig. 8–21.
+2. Choose the system: the pulley.
+3. Draw a free-body diagram. The force that the cord exerts on the pulley is
+shown as 
+in Fig. 8–21. The friction force acts al

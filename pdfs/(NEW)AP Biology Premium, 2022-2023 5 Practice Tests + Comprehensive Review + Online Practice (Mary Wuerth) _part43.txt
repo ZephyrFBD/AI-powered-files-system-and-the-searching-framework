@@ -1,0 +1,16 @@
+rately describe a data set. It is also important to
+use descriptive statistics that describe the spread of a data set. Standard deviation and standard error of the mean can
+be used to describe how spread out the data points are.
+You will not be required to calculate standard deviation or standard error of the mean on the AP Biology exam. However, it is important to understand
+what standard deviation and standard error of the mean can tell you about a data set. You also must be able to use standard error of the mean to
+construct 95% confidence intervals.
+Standard deviation (s) averages how far each data point is from the mean of the data set. The formula for
+standard deviation is:
+Here’s how you would calculate the standard deviation for data set A and data set B:
+Data Set A: 1, 2, 3, 4, 5; 
+ and n = 5
+Data Set B: 3, 3, 3, 3, 3; 
+ and n = 5
+If a data set is more spread out, the standard deviation will be larger. The less spread out the data points, the
+smaller the standard deviation.
+Th

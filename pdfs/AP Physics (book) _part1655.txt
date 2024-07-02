@@ -1,0 +1,14 @@
+ces of a broken cup. Cups break
+when they fall, but they do not spontaneously mend themselves (as faked in 
+Fig. 15–10). Again, the normal course of events is an increase of disorder.
+Let us consider some processes for which we have actually calculated the
+entropy change, and see that an increase in entropy results in an increase in dis-
+order (or vice versa). When ice melts to water at 0°C, the entropy of the water
+increases (Example 15–13). Intuitively, we can think of solid water, ice, as being
+more ordered than the less orderly fluid state which can flow all over the place.
+This change from order to disorder can be seen more clearly from the molecular
+point of view: the orderly arrangement of water molecules in an ice crystal has
+changed to the disorderly and somewhat random motion of the molecules in the
+fluid state.
+When a hot substance is put in contact with a cold substance,heat flows from the high 
+temperature to the low until the two substances reach the same intermediate tem

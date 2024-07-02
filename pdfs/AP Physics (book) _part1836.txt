@@ -1,0 +1,18 @@
+nergy,
+is equal to the negative of the work,
+done by the electric field to move the
+charge from a to b; so the potential difference 
+is
+(17;2b)
+Note that electric potential, like electric field, does not depend on our test charge q.
+V depends on the other charges that create the field, not on the test charge q;
+q acquires potential energy by being in the potential V due to the other charges.
+We can see from our definition that the positive plate in Fig. 17–1 is at a higher
+potential than the negative plate. Thus a positively charged object moves naturally
+from a high potential to a low potential. A negative charge does the reverse.
+The unit of electric potential, and of potential difference, is joules/coulomb
+and is given a special name, the volt, in honor of Alessandro Volta (1745–1827)
+who is best known for inventing the electric battery. The volt is abbreviated V,
+so 
+Potential difference, since it is measured in volts, is often referred
+to as voltage. (Be careful not to confuse V f

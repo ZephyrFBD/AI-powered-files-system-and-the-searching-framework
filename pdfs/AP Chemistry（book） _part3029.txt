@@ -1,0 +1,16 @@
+tion of molecu-
+lar speeds presented in Figure 10.13(a). An increase in temperature increases the most 
+probable speed of the molecules and also broadens the distribution of speeds. Hence, 
+the molecules have a greater number of possible kinetic energies, and the number 
+of microstates increases. Thus, the entropy of the system increases with increasing 
+temperature.
+Molecular Motions and Energy
+When a substance is heated, the motion of its molecules increases. In Section 10.7, 
+we found that the average kinetic energy of the molecules of an ideal gas is directly 
+proportional to the absolute temperature of the gas. That means the higher the 
+temperature, the faster the molecules move and the more kinetic energy they pos-
+sess. Moreover, hotter systems have a broader distribution of molecular speeds, as 
+ 
+Figure 10.12(a) shows.
+The particles of an ideal gas are idealized points with no volume and no bonds, 
+however—points that we visualize as flitting around through space. Any real mo

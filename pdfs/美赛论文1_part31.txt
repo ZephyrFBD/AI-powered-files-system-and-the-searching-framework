@@ -1,0 +1,18 @@
+Between 2020 and 2025 years, it is obvious that all the indexes 
+have a twist towards an increase direction. 
+ 
+4.2 Additional factors 
+  In Task1, we consider many factors in the secondary criteria layer, but actually 
+these factors are certain factors. Their indexes are equivalent and will not fluctuate 
+greatly in a short period. However, for the sake of the condition of Haiti, we need to 
+Team#36961 
+ 
+Page 15 of 20 
+consider uncertain factors such as earthquake, flood, storm, foreign investment, 
+government aid, kidnapping and government instability. These uncertain factors have 
+a certain probability of occurrence, but when they don’t happen, we can nearly neglect 
+their influences, while when they happen, they would undoubtedly become the 
+determining factors. Then we make the following assumption: 
+ Every factor in the first criteria layer has an uncertain factor in the secondary 
+criteria layer. We consider the government instability, government aid and natural 
+hazard as the

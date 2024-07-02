@@ -1,0 +1,16 @@
+example, is 6.01 kJ>mol:
+H2O1s2 S H2O1l2   ∆Hfus = 6.01 kJ
+As the temperature of the liquid increases, the particles move about more vig-
+orously. The increased motion allows some particles to escape into the gas phase. As 
+a result, the concentration of gas-phase particles above the liquid surface increases 
+with temperature. These gas-phase particles exert a pressure called vapor pressure. We 
+explore vapor pressure in Section 11.5. For now we just need to understand that vapor 
+pressure increases with increasing temperature until it equals the external pressure 
+above the liquid, typically atmospheric pressure. At this point the liquid boils—bub-
+bles of the vapor form within the liquid. The energy required to cause the transition 
+of a given quantity of the liquid to the vapor is called either the heat of vapor-
+ization or the enthalpy of vaporization, ∆Hvap. For water, the heat of vaporization is 
+40.7 kJ>mol.
+ 
+H2O1l2 ¡ H2O1g2   ∆Hvap = 40.7 kJ 
+Figure 11.21 shows ∆Hfus and ∆Hvap

@@ -1,0 +1,10 @@
+ls, beginning with control of access to DNA. Because genomic DNA is folded around histone proteins to
+create nucleosome complexes, nucleosomes physically regulate the access of proteins, such as transcription factors and
+enzymes, to the underlying DNA. Methylation of DNA and histones causes nucleosomes to pack tightly together, preventing
+transcription factors from binding to the DNA. Methylated nucleosomes contain DNA that is not expressed. On the other
+hand, histone acetylation results in loose packing of nucleosomes, allowing transcription factors to bind to DNA. Acetylated
+nucleosomes contain DNA that may be expressed.
+Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP®
+Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent
+foundation for the AP® Biology course, an inquiry-based laboratory experience, instructional activities, and AP® exam
+questions. A Learning O

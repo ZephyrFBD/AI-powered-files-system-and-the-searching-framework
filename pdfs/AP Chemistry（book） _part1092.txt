@@ -1,0 +1,20 @@
+thium-ion battery.
+Chemistry Put to Work Ionic Size and Lithium-Ion Batteries
+Notice the positions and atomic numbers of these elements in the periodic table. The 
+nonmetal anions precede the noble gas Ne in the table. The metal cations follow Ne. Oxygen, 
+the largest ion in this isoelectronic series, has the lowest atomic number, 8. Aluminum, the 
+smallest of these ions, has the highest atomic number, 13.
+Arrange the ions K+, Cl-, Ca2+, and S2 - in order of decreasing size.
+Sample Exercise 7.4 
+Ionic Radii in an Isoelectronic Series
+SOLUTION
+This is an isoelectronic series, with all ions having 18 elec-
+trons. In such a series, size decreases as nuclear charge (atomic 
+number) increases. The atomic numbers of the ions are S 16, 
+Cl 17, K 19, Ca 20. Thus, the ions decrease in size in the order 
+S2 - 7 Cl- 7 K+ 7 Ca2+.
+(a) Sr2 + 6 Rb+ 6 Br- 6 Se2 - 6 Te2 -
+(b) Br- 6 Sr2 + 6 Se2 - 6 Te2 - 6 Rb+
+(c) Rb+ 6 Sr2+ 6 Se2 - 6 Te2 - 6 Br-
+(d) Rb+ 6 Br- 6 Sr2+ 6 Se2 - 6 Te2 -
+(e) Sr2 + 6 Rb+ 6 Br

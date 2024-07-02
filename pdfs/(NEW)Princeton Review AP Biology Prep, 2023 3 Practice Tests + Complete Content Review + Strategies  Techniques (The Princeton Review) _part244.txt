@@ -1,0 +1,15 @@
+ow we’re ready to tally up the number of ATP produced.
+So far, we’ve made only four ATP—two ATP from glycolysis and two ATP from the Krebs cycle.
+Although that seems like a lot of work for only four ATP, we have also produced hydrogen and electron carriers in
+the form of 10 NADH and 2 FADH2. These molecules will, in turn, produce lots of ATP in the next stage of cellular
+respiration.
+Stage 4: Oxidative Phosphorylation
+Electron Transport Chain
+As electrons (and the hydrogen atoms to which they belong) are removed from a molecule of glucose, they carry
+with them much of the energy that was originally stored in their chemical bonds. These electrons—and their
+accompanying energy—are then transferred to readied hydrogen carrier molecules. In the case of cellular
+respiration, these charged carriers are the coenzymes NADH and FADH2.
+Let’s see how many “loaded” electron carriers we’ve produced. We now have:
+2 NADH molecules from glycolysis
+2 NADH from the production of acetyl-CoA
+6 NADH from t

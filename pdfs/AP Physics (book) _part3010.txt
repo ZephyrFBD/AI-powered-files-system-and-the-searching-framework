@@ -1,0 +1,23 @@
+. In 1913–1914, careful experiments were carried out by R. A.
+Millikan. The results were fully in agreement with Einstein’s photon theory.
+One other aspect of the photoelectric effect also confirmed the photon
+theory. If extremely low light intensity is used, the wave theory predicts a time
+delay before electron emission so that an electron can absorb enough energy to
+exceed the work function. The photon theory predicts no such delay—it only
+takes one photon (if its frequency is high enough) to eject an electron—and
+experiments showed no delay. This too confirmed Einstein’s photon theory.
+Photon energy. Calculate the energy of a photon of blue
+light,
+in air (or vacuum).
+APPROACH The photon has energy 
+(Eq. 27–4) where 
+(Eq. 22–4).
+SOLUTION Since
+we have
+or 
+(See definition of eV in
+Section 17–4,
+)
+Photons from a lightbulb. Estimate how
+many visible light photons a 100-W lightbulb emits per second. Assume the bulb
+has a typical efficiency of about 3% (that is, 97% of the energy goes to 

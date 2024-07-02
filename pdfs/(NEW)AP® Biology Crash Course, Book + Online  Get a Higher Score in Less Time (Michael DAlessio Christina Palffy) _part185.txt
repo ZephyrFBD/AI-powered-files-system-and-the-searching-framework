@@ -1,0 +1,30 @@
+ort-tailed mice, 14 – 25 = –11. –11 squared is
+121. 121 divided by 25 is 4.84. Add 1.62 and 4.84.
+4. (C) is correct. The null hypothesis states that there is no difference between the observed and the
+expected values. If the p-value is below 0.05, the null hypothesis is rejected. If the p-value is above
+0.05, then the null hypothesis is not rejected. Another way to analyze the p-value is based on the
+critical value. The critical value is the chi-square value equivalent to 0.05. If the chi-square is above
+the critical value, the null is rejected. The following chart will be given to you on the exam. It shows
+the critical values for p-values of 0.05 and 0.10. Since the chi-square is above the critical value of
+0.05, the null is rejected. When reading the chart, it is important to use the correct degrees of freedom.
+This is 1 subtracted from the number of categories, so in this case it is 1.
+Chi-Square Table
+Degrees of Freedom
+p
+1
+2
+3
+4
+5
+6
+7
+8
+0.05
+3.84
+5.99
+7.82
+9.49
+11.07
+12.59
+14.07
+1

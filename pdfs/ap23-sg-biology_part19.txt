@@ -1,0 +1,24 @@
+). A high Cq value 
+for a sample indicates the gene was expressed at a low level.  
+To analyze whether any of the examined variables affected expression of the housekeeping genes, 
+researchers examined the range of Cq values for each gene in response to each variable. Genes with a wide 
+range of Cq values were determined to be affected by the variable, while genes with a narrow range of Cq 
+values were determined to be unaffected by the variable. 
+ 
+Figure 1. The effect of developmental stage, sex, and cell type on the Cq value of four housekeeping genes 
+ 
+ 
+AP® Biology 2023 Scoring Guidelines 
+ 
+© 2023 College Board 
+ 
+(a) 
+Based on the data in Figure 1, identify the gene that had the lowest median Cq value 
+when bees of different developmental stages were compared. 
+• 
+RPS5 
+1 point 
+(b) 
+ The Cq value is inversely proportional to the amount of mRNA from that gene in the 
+starting sample. Based on the data in Figure 1, identify the gene that has the lowest level 
+of gene expression 

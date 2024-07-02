@@ -1,0 +1,32 @@
+cific Heat (J/g-K)
+Substance
+Specific Heat (J/g-K)
+N21g2
+1.04
+H2O1l2
+4.18
+Al(s)
+0.90
+CH41g2
+2.20
+Fe(s)
+0.45
+CO21g2
+0.84
+Hg(l)
+0.14
+CaCO31s2
+0.82
+180 
+CHAPTER 5 Thermochemistry
+Constant-Pressure Calorimetry
+The techniques and equipment employed in calorimetry depend on the nature of the 
+process being studied. For many reactions, such as those occurring in solution, it is easy 
+to control pressure so that ∆H is measured directly. Although the calorimeters used for highly 
+accurate work are precision instruments, a simple “coffee-cup” calorimeter (Figure 5.18) is of-
+ten used in general chemistry laboratories to illustrate the principles of calorimetry. Be-
+cause the calorimeter is not sealed, the reaction occurs under the essentially constant 
+pressure of the atmosphere.
+Imagine adding two aqueous solutions, each containing a reactant, to a coffee-cup 
+calorimeter. Once mixed, a reaction occurs. In this case, there is no physical boundary 
+between the system and the surroundings. The re

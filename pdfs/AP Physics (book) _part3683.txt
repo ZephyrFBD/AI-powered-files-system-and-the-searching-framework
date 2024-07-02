@@ -1,0 +1,34 @@
+ussell (H–R)
+diagram. On the H–R diagram, the horizontal axis shows the surface tempera-
+ture T and the vertical axis is the luminosity L; each star is represented by a point
+43 = 64
+116 = 4
+4pr2,
+1
+16
+AT
+bT
+rB4 = 24 = 16
+T4.
+T
+b = 8280 K.
+T
+r = 2.90 * 10–3 mK
+lP
+= 2.90 * 10–3 mK
+700 * 10–9 m
+= 4140 K.
+lPT = 2.90 * 10–3 mK.
+r AT4 where A = surface area of emitter
+EXAMPLE 33;4
+lPT = 2.90 * 10–3 mK.
+lP
+on the diagram, Fig. 33–6. Most stars fall along the diagonal band termed the
+main sequence. Starting at the lower right we find the coolest stars: by Wien’s
+law,
+constant, their light output peaks at long wavelengths, so they are red-
+dish in color. They are also the least luminous and therefore of low mass. Farther
+up toward the left we find hotter and more luminous stars that are whitish, like our
+Sun. Still farther up we find even more luminous and more massive stars, bluish in
+color. Stars that fall on this diagonal band are called main-sequence stars. There
+are also stars that f

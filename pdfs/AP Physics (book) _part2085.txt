@@ -1,0 +1,26 @@
+can be attached as shown in Fig. 19–15. Assume the starter
+motor can be represented as a resistor 
+Determine the current
+through the starter motor (a) if only the weak battery is connected to it, and (b) if
+the good battery is also connected, as shown in Fig. 19–15.
+APPROACH We apply Kirchhoff’s rules, but in (b) we will first need to deter-
+mine the resistance of the jumper cables using their dimensions and the resistivity
+as discussed in Section 18–4.
+SOLUTION (a) The circuit with only the weak battery and no jumper cables is
+simple: an emf of 10.1 V connected to two resistances in series,
+Hence the current is
+(b) We need to find the resistance of the jumper cables that connect the 
+good battery to the weak one. From Eq. 18–3, each has resistance 
+Kirchhoff’s loop rule for the full outside loop gives
+(i)
+since (2RJ + r) = (0.0052  + 0.020 ) = 0.025 .
+12.5 V - I
+1(0.025 ) - I
+3(0.15 ) = 0
+12.5 V - I
+1A2RJ + r1B - I
+3 RS = 0
+A1.68 * 10–8 mB(3.0 m)
+(p)A0.25 * 10–2 mB
+2
+= 0.0026 

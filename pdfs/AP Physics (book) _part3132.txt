@@ -1,0 +1,49 @@
+is not simply a particle). Similarly, the
+energy can be uncertain (or nonconserved) by an amount 
+for a time
+Because Planck’s constant, h, is so small, the uncertainties expressed in the
+uncertainty principle are usually negligible on the macroscopic level. But at the
+level of atomic sizes, the uncertainties are significant. Because we consider
+ordinary objects to be made up of atoms containing nuclei and electrons, the
+uncertainty principle is relevant to our understanding of all of nature. The
+uncertainty principle expresses, perhaps most clearly, the probabilistic nature of
+quantum mechanics. It thus is often used as a basis for philosophic discussion.
+¢t L U¢E.
+¢E
+(¢E)(¢t) g U.
+(¢x)A¢pxB g U
+= 1.055 * 10–34 Js.
+U
+=
+h
+2p
+= 6.626 * 10–34 Js
+2p
+U
+(h2p)
+¢t L h(2p ¢E).
+¢E
+(¢E)(¢t) g
+h
+2p
+.
+(¢E)(¢t) L
+a hc
+l b a l
+c b
+L h.
+¢E L hc
+l
+.
+(= hf = hcl)
+¢t L l
+c
+.
+¢t L ¢xc L lc
+¢x L l.
+808
+CHAPTER 28
+Quantum Mechanics of Atoms
+UNCERTAINTY PRINCIPLE 
+(energy and time)
+Position uncertain

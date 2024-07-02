@@ -1,0 +1,15 @@
+t relates electric field to its source,
+electric charge (
+Gauss’s law, Section 16–12);
+(2) a similar law for the magnetic field, except that magnetic field lines are always
+continuous—they do not begin or end (as electric field lines do, on charges);
+(3) an electric field is produced by a changing magnetic field (Faraday’s law);
+(4) a magnetic field is produced by an electric current (Ampère’s law), or by a
+changing electric field.
+Law (3) is Faraday’s law (see Chapter 21, especially Section 21–4). The first part
+of law (4), that a magnetic field is produced by an electric current, was discovered by
+Oersted, and the mathematical relation is given by Ampère’s law (Section 20–8).
+But the second part of law (4) is an entirely new aspect predicted by Maxwell:
+Maxwell argued that if a changing magnetic field produces an electric field, as
+given by Faraday’s law, then the reverse might be true as well: a changing electric
+field will produce a magnetic field. This was an hypothesis by Maxwell

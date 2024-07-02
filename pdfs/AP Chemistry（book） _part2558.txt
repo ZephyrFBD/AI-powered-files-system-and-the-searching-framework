@@ -1,0 +1,33 @@
+ percent ionization of the acid.
+Plan The percent ionization is given by Equation 16.27.
+Solve
+Percent ionization =
+3H+4equilibrium
+3HCOOH4initial
+* 100%
+= 4.2 * 10-3 M
+0.10 M
+* 100% = 4.2%
+ 
+▶Practice Exercise 1
+A 0.077 M solution of an acid HA has pH = 2.16. What is 
+the percentage of the acid that is ionized?
+(a) 0.090% (b) 0.69% (c) 0.90% (d) 3.6% (e) 9.0%
+ 
+▶Practice Exercise 2
+A 0.020 M solution of niacin (see Sample Exercise 16.10) has 
+a pH of 3.26. Calculate the percent ionization of the niacin.
+Using Ka to Calculate ph
+Knowing the value of Ka and the initial concentration of a weak acid, we can calculate 
+the concentration of H+1aq2 in a solution of the acid.
+How to Calculate pH Using Ka
+ 
+1. Write the ionization equilibrium.
+ 
+2. Write the equilibrium-constant expression and the value for the equilibrium 
+constant.
+ 
+3. Express the concentrations involved in the equilibrium reaction.
+ 
+4. Substitute the equilibrium concentrations into the equilibrium-constant expres-
+sion an

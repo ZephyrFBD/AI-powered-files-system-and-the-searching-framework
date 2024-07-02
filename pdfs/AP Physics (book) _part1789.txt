@@ -1,0 +1,17 @@
+dark, electrically
+charged areas. The drum then transfers the image to paper, as in a photocopier.
+An inkjet printer does not use a drum. Instead nozzles spray tiny droplets of
+ink directly at the paper. The nozzles are swept across the paper, each sweep just
+above the previous one as the paper moves down. On each sweep, the ink makes
+dots on the paper, except for those points where no ink is desired, as directed by
+the computer. The image consists of a huge number of very tiny dots. The quality
+or resolution of a printer is usually specified in dots per inch (dpi) in each (linear)
+direction.
+P H Y S I C S  A P P L I E D
+Inkjet printer
+16–12 Gauss’s Law
+An important relation in electricity is Gauss’s law, developed by the great mathe-
+matician Karl Friedrich Gauss (1777–1855). It relates electric charge and electric
+field, and is a more general and elegant form of Coulomb’s law.
+Gauss’s law involves the concept of electric flux, which refers to the electric
+field passing through a give

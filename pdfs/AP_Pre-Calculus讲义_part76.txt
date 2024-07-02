@@ -1,0 +1,34 @@
+ from the special terminal 
+points. 
+ 
+ 
+DOMAINS OF THE TRIGONOMETRIC FUNCTIONS 
+ 
+ 
+3.2.2 Values of the Trigonometric Functions 
+To compute values of the trigonometric functions for any real number t, we first determine 
+their signs. 
+The signs of the trigonometric functions depend on the quadrant in which the terminal 
+point of t lies. 
+For example, if the terminal point P(x, y) determined by t lies in Quadrant III, then its 
+coordinates are both negative. 
+So sin t, cos t, csc t, and sec t are all negative, whereas tan t and cot t are positive. 
+ 
+113 
+SIGNS OF THE TRIGONOMETRIC FUNCTIONS 
+ 
+EVALUATING TRIGONOMETRIC FUNCTIONS FOR REAL NUMBER 
+1. Find the reference number. Find the reference number t bar associated with t. 
+2. Find the sign. Determine the sign of the trigonometric function of t by noting the 
+quadrant in which the terminal point lies. 
+3. Find the value. The value of the trigonometric function of t is the same. 
+ 
+Example 2 
+Find each value.  
+ 
+ 
+ 
+ 
+ 
+ 
+To find val

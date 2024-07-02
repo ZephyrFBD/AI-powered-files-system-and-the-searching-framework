@@ -1,0 +1,90 @@
+l to the net force
+applied to it.
+We can write this as an equation,
+(7;2)
+where 
+is the net force applied to the object (the vector sum of all forces acting
+on it) and 
+is the resulting momentum change that occurs during the time
+interval†
+We can readily derive the familiar form of the second law,
+from
+Eq. 7–2 for the case of constant mass. If 
+is the initial velocity of an object and
+is its velocity after a time interval 
+has elapsed, then
+By definition,
+so
+[constant mass]
+Equation 7–2 is a more general statement of Newton’s second law than the more
+familiar version  
+because it includes the situation in which the mass
+may change. A change in mass occurs in certain circumstances, such as for rockets
+which lose mass as they expel burnt fuel.
+A©F
+B = ma
+BB
+©F
+B = ma
+B.
+a
+B = ¢v
+B¢t,
+= m ¢v
+B
+¢t
+.
+©F
+B =
+¢p
+B
+¢t
+= mv
+B
+2 - mv
+B
+1
+¢t
+=
+mAv
+B
+2 - v
+B
+1B
+¢t
+¢t
+v
+B
+2
+v
+B
+1
+©F
+B = ma
+B,
+¢t.
+¢p
+B
+©F
+B
+©F
+B =
+¢p
+B
+¢t
+,
+kgms.
+mass * velocity,
+p = mv.
+p
+B
+= mv
+B.
+p
+B
+v
+B
+p
+B.
+SECTION 7–1
+Momen

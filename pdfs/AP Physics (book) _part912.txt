@@ -1,0 +1,23 @@
+orces are up and 
+is larger than 
+(c)
+is down,
+is up, and 
+is larger than 
+(d) Both forces are down and approximately equal.
+(e)
+is down,
+is up, and they are equal.
+I
+n this Chapter, we will study a special case in mechanics—when the net force
+and the net torque on an object, or system of objects, are both zero. In this
+case both the linear acceleration and the angular acceleration of the object or
+system are zero. The object is either at rest, or its center of mass is moving at con-
+stant velocity. We will be concerned mainly with the first situation, in which the
+object or objects are all at rest, or static (
+).
+The net force and the net torque can be zero, but this does not imply that no
+forces at all act on the objects. In fact it is virtually impossible to find an object on
+which no forces act. Just how and where these forces act can be very important,
+both for buildings and other structures, and in the human body.
+Sometimes, as we shall see in this Chapter, the forces may be so g

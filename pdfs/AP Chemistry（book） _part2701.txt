@@ -1,0 +1,33 @@
+ log 10 = 1, buffers usually have a usable 
+range within {1 pH unit of pKa (that is, a range of pH = pKa {1).
+Solve
+We obtain 3OH-4 from the given pH:
+pOH = 14.00 - pH = 14.00 - 9.00 = 5.00
+and so:
+3OH-4 = 1.0 * 10-5 M
+Because Kb is small and the common ion 3NH4
++4 is present, the 
+equilibrium concentration of NH3 essentially equals its initial 
+concentration:
+3NH34 = 0.10 M
+We now use the expression for Kb to calculate 3NH4
++4 :
+3NH4
++4 = Kb
+3NH34
+3OH-4 = 11.8 * 10-52
+10.102
+11.0 * 10-52
+= 0.18 M
+Thus, for the solution to have pH = 9.00, 3NH4
++4 must equal 
+0.18 M. The number of moles of NH4Cl needed to produce this 
+concentration is given by the product of the volume of the solu-
+tion and its molarity:
+12.0 L210.18 mol NH4Cl>L2 = 0.36 mol NH4Cl
+Comment Because NH4
++ and NH3 are a conjugate acid–base pair, we 
+could use the Henderson–Hasselbalch equation (Equation 17.9) to 
+solve this problem. To do so requires first using Equation 16.41 to 
+calculate pKa for NH4
++ from the value of p

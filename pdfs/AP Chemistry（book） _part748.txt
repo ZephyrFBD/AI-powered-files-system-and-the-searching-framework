@@ -1,0 +1,36 @@
+he heat capacity of the calorimeter is measured to be 7.794 kJ>°C. Calculate the heat of 
+reaction for the combustion of a mole of CH6N2.
+SOLUTION
+Analyze We are given a temperature change and the total heat 
+capacity of the calorimeter. We are also given the amount of reac-
+tant combusted. Our goal is to calculate the enthalpy change per 
+mole for combustion of the reactant.
+Plan We will first calculate the heat evolved for the combustion 
+of the 4.00-g sample. We will then convert this heat to a molar 
+quantity.
+Solve
+For combustion of the 4.00-g sample of methylhydrazine, the 
+temperature change of the calorimeter is:
+∆T = 139.50 °C - 25.00 °C2 = 14.50 °C
+Go Figure
+Is the water surrounding the reaction 
+chamber part of the system or the 
+surroundings?
+Stirrer
+Sample
+ignition wires
+Thermometer
+Insulated
+container
+Bomb (reaction
+chamber)
+Sample
+Water
++ −
+▲ Figure 5.19 Bomb calorimeter.
+ 
+SECTION 5.6   
+Hess’s Law 
+183
+5.6 ∣ Hess’s Law
+It is often possible to calculate the ∆H for a rea

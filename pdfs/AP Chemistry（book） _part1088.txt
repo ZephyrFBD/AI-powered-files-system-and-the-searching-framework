@@ -1,0 +1,40 @@
+0
+Sr
+1.95
+In
+1.42
+Te
+1.38
+I
+1.39
+Rb1
+1.66
+5 cation
+5 anion
+5 neutral atom
+Sr21
+1.32
+In31
+0.94
+Te22
+2.07
+I2
+2.06
+▲ Figure 7.8 Cation and anion size. Radii, in angstroms, of atoms and their ions for five groups  
+of representative elements.
+ 
+SECTION 7.3   
+Sizes of Atoms and Ions 
+267
+Ionic size plays a major role in determining the properties of devices 
+that rely on movement of ions, such as batteries. “Lithium-ion” batter-
+ies, which have become common energy sources for electronic devices 
+such as cell phones, iPads, laptop computers, and electric vehicles rely 
+in part on the small size of the lithium ion for their operation.
+A fully charged battery spontaneously produces an electric 
+ 
+current and, therefore, power when its positive and negative elec-
+trodes are connected to an electrical load, such as a device to be 
+powered. The positive electrode is called the anode, and the negative 
+electrode is called the cathode. The materials used for the electrodes 
+in lithium-ion batteri

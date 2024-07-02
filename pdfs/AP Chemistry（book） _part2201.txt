@@ -1,0 +1,22 @@
+es the same as the coefficients in the 
+balanced equation, this is not necessarily the case, as Equations 14.9 and 14.11 show.
+For any reaction, the rate law must be determined experimentally.
+In most rate laws, reaction orders are 0, 1, or 2. However, we also occasionally encounter 
+rate laws in which the reaction order is fractional (as is the case with Equation 14.11) or 
+even negative.
+Give It Some Thought
+The experimentally determined rate law for the reaction 
+2 NO1g2 + 2 H21g2 ¡ N21g2 + 2  H2O1g2 
+is Rate = k3NO423H24.
+If the concentration of H2 is doubled, will the reaction rate quadruple, double, or 
+remain the same?
+Consider a reaction A + B ¡ C for which 
+rate = k3A43B42. Each of the following boxes 
+represents a reaction mixture in which A is 
+shown as red spheres and B as purple ones. 
+Rank these mixtures in order of increasing rate 
+of reaction.
+Sample Exercise 14.4
+ Relating a Rate Law to the Effect of Concentration on Rate
+SOLUTION
+Analyze We are given three boxes conta

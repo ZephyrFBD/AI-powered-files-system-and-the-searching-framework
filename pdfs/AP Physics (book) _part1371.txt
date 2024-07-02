@@ -1,0 +1,34 @@
+d low-tension string.
+79. A tuning fork is set into vibration above a vertical open
+tube filled with water (Fig.12–40). The water level is allowed
+to drop slowly.As it does so, the air in the tube above the water
+level is heard to resonate with the
+tuning fork when the distance from
+the tube opening to the water level
+is 0.125 m and again at 0.395 m.
+What is the frequency of the
+tuning fork?
+r
+P
+out
+P
+in
+b = 10 log ¢ P
+out
+P
+in
+≤,
+b,
+82. A particular whistle produces sound by setting up the 
+fundamental standing wave in an air column 7.10 cm long.
+The tube is closed at one end. The whistle blower is riding
+in a car moving away from you at 
+What frequency
+do you hear?
+83. The diameter D of a tube does affect the node at the open
+end of a tube. The end correction can be roughly approxi-
+mated as adding 
+to to give us an effective length for
+the tube in calculations. For a closed tube of length 0.55 m
+and diameter 3.0 cm, what are the frequencies of the first
+four harmonics, taking the en

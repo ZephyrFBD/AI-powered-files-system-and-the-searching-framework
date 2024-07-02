@@ -1,0 +1,76 @@
+2
+2I l(l + 1) - U 2
+2I (l - 1)(l)
+l - 1
+l
+¢l = &1.
+Erot =
+(Iv)2
+2I
+= l(l + 1) U 2
+2I
+.   l = 0,  1,  2, p.
+l
+Iv =
+2l(l + 1) U,   
+l = 0,  1,  2, p,
+Iv
+Erot = 1
+2 Iv2 =
+(Iv)2
+2I
+,
+*
+838
+CHAPTER 29
+ΔE  5h2 I
+ΔE  4h2 I
+ΔE  3h2 I
+ΔE  2h2 I
+ΔE  h2 I
+l = 5
+0
+l = 0
+l = 4
+l = 3
+l = 2
+l = 1
+h2
+h2
+15
+h2
+10
+h2
+6
+h2
+3
+1 h2
+I
+I
+I
+I
+I
+FIGURE 29–16 Rotational energy
+levels and allowed transitions
+(emission and absorption) for a
+diatomic molecule. Upward-pointing
+arrows represent absorption of a
+photon, and downward arrows
+represent emission of a photon.
+cm
+Rotation
+axis
+m1
+r1
+r2
+m2
+r
+FIGURE 29–15 Diatomic molecule
+rotating about a vertical axis.
+inertia of the CO molecule about its 
+is then (see Example 8–9)
+We solve for r and use the result of part (a) for I:
+EXERCISE B What are the wavelengths of the next three rotational transitions for CO?
+Vibrational Energy Levels in Molecules
+The potential energy of the two atoms in a typical diatomic molecule has the shape
+shown in Fig.29–8 or 29–9, and F

@@ -1,0 +1,18 @@
+ mass) is swung in a vertical circle. (a) Deter-
+mine the minimum speed the ball must have at the top of its arc so that the ball
+continues moving in a circle. (b) Calculate the tension in the cord at the bottom
+of the arc, assuming the ball is moving at twice the speed of part (a).
+APPROACH The ball moves in a vertical circle and is not undergoing uniform
+circular motion. The radius is assumed constant, but the speed v changes
+because of gravity. Nonetheless, Eq. 5–1  
+is valid at each point along
+the circle, and we use it at the top and bottom points. The free-body diagram is
+shown in Fig. 5–8 for both positions.
+SOLUTION (a) At the top (point 1), two forces act on the ball:
+the force of
+gravity, and
+the tension force the cord exerts at point 1. Both act down-
+ward, and their vector sum acts to give the ball its centripetal acceleration 
+We apply Newton’s second law, for the vertical direction, choosing downward as
+positive since the acceleration is downward (toward the center):
+[at 

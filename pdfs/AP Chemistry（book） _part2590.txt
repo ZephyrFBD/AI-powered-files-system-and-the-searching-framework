@@ -1,0 +1,27 @@
+hlorides as active ingredients are shown in Figure 16.16.
+Related Exercises: 16.9, 16.73, 16.74, 16.101, 16.114, 16.124
+Calculate (a) Kb for the fluoride ion, (b) Ka for the ammonium ion.
+Solve
+(a) For the weak acid HF
+, Table 16.2 and Appendix D give 
+Ka = 6.8 * 10-4. We can use Equation 16.40 to calculate Kb 
+for the conjugate base, F -:
+(b) For NH3, Table 16.4 and Appendix D give Kb = 1.8 * 10-5, 
+and this value in Equation 16.40 gives us Ka for the conjugate 
+acid, NH4
++:
+Analyze We are asked to determine dissociation constants for F -, 
+the conjugate base of HF
+, and NH4
++, the conjugate acid of NH3.
+Check The respective K values for F - and NH4
++ are listed in  
+Table 16.5, where we see that the values calculated here agree with 
+those in Table 16.5.
+ 
+▶Practice Exercise 1
+By using information from Appendix D, put the following 
+three substances in order of weakest to strongest base:  
+(i) 1CH323N, (ii) HCOO-, (iii) BrO-.
+(a) i 6 ii 6 iii (b) ii 6 i 6 iii (c) iii 6 i 6 ii 
+(d) ii

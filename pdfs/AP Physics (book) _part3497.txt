@@ -1,0 +1,28 @@
+y
+decays per second correspond to 4 pCi, then Eq. 30–3b to determine how 
+many nuclei of radon it takes to have this activity 
+SOLUTION (a) We saw at the start of this Section that
+Thus
+per liter of air. In 1 m3 of air (1 m3
+106 cm3
+103 L) there would be 
+(b) From Eqs. 30–3b and 30–6
+Appendix B tells us
+for radon, so
+The molar mass (222 u) and Avogadro’s number are used to find the mass:
+or 26 attograms in 1 L of air at the limit of 
+This
+is
+grams of radon per m3 of air.
+NOTE Each radon atom emits 4 
+particles and 4 
+particles, each one capable
+of causing many harmful ionizations, before the sequence of decays reaches a
+stable element.
+3
+1–6 Radiation Therapy
+The medical application of radioactivity and radiation to human beings involves
+two basic aspects: (1) radiation therapy—the treatment of disease (mainly
+cancer)—which we discuss in this Section; and (2) the diagnosis of disease, which
+we discuss in the following Sections of this Chapter.
+Radiation can cause cancer. It can also be

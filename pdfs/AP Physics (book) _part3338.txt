@@ -1,0 +1,24 @@
+then has a meas-
+ured mass of 1.008665 u, a proton 1.007276 u, and a neutral hydrogen atom 
+(proton plus electron) 1.007825 u. The masses of many nuclides are given in
+Appendix B. It should be noted that the masses in this Table, as is customary, are for
+the neutral atom (including electrons), and not for a bare nucleus.
+Masses may be specified using the electron-volt energy unit,
+(Section 17–4). This can be done because mass and energy are related, and the
+precise relationship is given by Einstein’s equation
+(Chapter 26). Since
+the mass of a proton is 
+or 1.007276 u, then 1 u is equal to
+this is equivalent to an energy (see Table inside front cover) in 
+of
+Thus,
+The rest masses of some of the basic particles are given in Table 30–1. As a rule
+of thumb, to remember, the masses of neutron and proton are about 
+which is about 2000 times the mass of an electron AL
+1
+2 MeVc2B.
+A= 1000 MeVc2B
+1 GeVc2
+1 u = 1.6605 * 10–27 kg = 931.5 MeVc2.
+E = mc2 =
+A1.66054 * 10–27 kgBA2.9979 * 108 msB

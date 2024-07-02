@@ -1,0 +1,22 @@
+e body, which have a total cross-sectional area
+of about 
+Use the data of Example 10–12.
+43. (I) How fast does water flow from a hole at the bottom of 
+a very wide, 4.7-m-deep storage tank filled with water?
+Ignore viscosity.
+44. (I) Show that Bernoulli’s equation reduces to the hydro-
+static variation of pressure with depth (Eq. 10–3b) when
+there is no flow
+45. (II) What is the volume rate of flow of water from a
+1.85-cm-diameter faucet if the pressure head is 12.0 m?
+46. (II) A fish tank has dimensions 36 cm wide by 1.0 m long
+by 0.60 m high. If the filter should process all the water in
+the tank once every 3.0 h, what should the flow speed be 
+in the 3.0-cm-diameter input tube for the filter?
+47. (II) What gauge pressure in the water pipes is necessary if
+a fire hose is to spray water to a height of 16 m?
+48. (II) A
+(inside) diameter garden hose is used to fill a
+round swimming pool 6.1 m in diameter. How long will it
+take to fill the pool to a depth of 1.4 m if water flows from
+the

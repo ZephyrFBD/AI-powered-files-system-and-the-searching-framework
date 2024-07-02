@@ -1,0 +1,32 @@
+006
+Nobel Prize, given for their
+discovery of the spectrum and
+anisotropy of the CMB using the
+COBE instrument.
+10
+1
+100
+1000
+10
+1.0
+0.1
+Wavelength (cm)
+Blackbody spectrum
+(T=2.725 K)
+Intensity
+Frequency (GHz)
+Penzias and 
+Wilson
+The intensity of this CMB measured at 
+corresponds to black-
+body radiation (see Section 27–2) at a temperature of about 3 K. When radiation
+at other wavelengths was measured by the COBE satellite (COsmic Background
+Explorer), the intensities were found to fall on a nearly perfect blackbody curve
+as shown in Fig. 33–24, corresponding to a temperature of 2.725 K 
+.
+The remarkable uniformity of the CMB was in accordance with the
+cosmological principle. But theorists felt that there needed to be some small
+inhomogeneities, or “anisotropies,” in the CMB that would have provided
+“seeds” at which galaxy formation could have started. Small areas of slightly
+higher density, which could have contracted under gravity to form clusters of
+galaxies, were indeed found. Thes

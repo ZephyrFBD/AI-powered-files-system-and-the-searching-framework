@@ -1,0 +1,22 @@
+The significant figures are correct (3), and the units are the 
+requested ones for energy (J). The negative sign is consistent with 
+an expanding gas doing work on its surroundings.
+Enthalpy Change
+Let’s now return to our discussion of enthalpy. When a change occurs at constant pres-
+sure, the change in enthalpy, ∆H, is given by the relationship
+∆H = ∆1E + PV2 
+ 
+ = ∆E + P∆V 1constant pressure2 
+[5.8]
+That is, the change in enthalpy equals the change in internal energy plus the product of 
+the constant pressure and the change in volume.
+Recall that ∆E = q + w (Equation 5.4) and that the work involved in the expansion 
+or compression of a gas is w = -P∆V (at constant pressure). Substituting -w for P∆V 
+and q + w for ∆E into Equation 5.8, we have
+ 
+∆H = ∆E + P∆V = 1qP + w2 - w = qP 
+[5.9]
+The subscript P on q indicates that the process occurs at constant pressure. Thus, the equa-
+tions show: 
+The change in enthalpy equals the heat qP gained or lost at constant pressure. 
+Because qP is so

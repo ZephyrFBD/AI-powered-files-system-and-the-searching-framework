@@ -1,0 +1,107 @@
+f functions of the form y = a sin k(x − b) and  
+y = a cos k(x − b) are simply sine and cosine curves shifted horizontally by an amount |b|. 
+They are shifted to the right if b > 0 or to the left if b < 0. 
+SHIFTED SINE AND COSINE CURVES 
+The sine and cosine curves y = a sin k (x − b) and y = a cos (x − b) (k > 0) have amplitude 
+|a|, period 2π/k and horizontal shift b.   
+An appropriate interval on which to graph one complete period is 
+2
+, 
+.
+b b
+k
+p
+é
+ù
+æ
+ö
++ ç
+÷
+ê
+ú
+è
+ø
+ë
+û  
+ 
+ 
+ 
+ 
+ 
+120 
+Example 4 
+Find the amplitude, period, and horizontal shift of y = 3sin2(x – π/4) and graph one 
+complete period. 
+ 
+ 
+ 
+ 
+ 
+Example 5 
+For the function 
+3
+2
+cos 2
+,
+4
+3
+y
+x
+p
+æ
+ö
+=
++
+ç
+÷
+è
+ø  
+Find the amplitude, period, horizontal shift, and graph one complete period. 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+121 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+122 
+3.4 Tangent Function Graphs and Transformations 
+3.4.1 Graphs of Tangent 
+The functions tangent and cotangent ha

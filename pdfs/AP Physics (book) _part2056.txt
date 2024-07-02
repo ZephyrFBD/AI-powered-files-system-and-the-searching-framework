@@ -1,0 +1,19 @@
+equate this expression with Eq. 19–2,
+and find
+[series] (19;3)
+When we put several resistances in series, the total or equivalent resistance 
+is the sum of the separate resistances. (Sometimes we call it “net resistance.”)
+This sum applies to any number of resistances in series. Note that when you add
+more resistance to the circuit, the current through the circuit will decrease. For
+example, if a 12-V battery is connected to a 
+resistor, the current will be 3 A.
+But if the 12-V battery is connected to three 
+resistors in series, the total 
+resistance is 
+and the current through the entire circuit will be only 1 A.
+Another way to connect resistors is in parallel, so that the current from the source
+splits into separate branches or paths (Fig.19–4a). Wiring in houses and buildings is
+arranged so all electric devices are in parallel, as we saw in Chapter 18, Fig. 18–20.
+With parallel wiring, if you disconnect one device (say,
+in Fig. 19–4a), the cur-
+rent to the other devices is not inter

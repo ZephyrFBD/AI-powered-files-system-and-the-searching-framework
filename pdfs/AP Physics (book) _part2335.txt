@@ -1,0 +1,24 @@
+l rail below. Eddy currents can also be used to
+dampen (reduce) the oscillation of a vibrating system, which is referred to as
+magnetic damping.
+F
+B
+B
+B
+B
+B
+SECTION 21–7
+Transformers and Transmission of Power
+601
+Eddy currents, however, can be a problem. For example, eddy currents induced
+in the armature of a motor or generator produce heat 
+and waste energy.
+To reduce the eddy currents, the armatures are laminated; that is, they are made of
+very thin sheets of iron that are well insulated from one another (used also in
+transformers, Fig. 21–23). The total path length of the eddy currents is confined
+to each slab, which increases the total resistance; hence the current is less and
+there is less wasted energy.
+Walk-through metal detectors (Fig. 21–21) use electromagnetic induction and
+eddy currents to detect metal objects. Several coils are situated in the walls of the
+walk-through at different heights. In one technique, the coils are given brief pulses
+of current, hundreds or thousands

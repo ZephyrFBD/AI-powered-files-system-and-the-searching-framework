@@ -1,0 +1,49 @@
+ =2; Absolute min: f(x) =3 
+C. Absolute max: f(6) =5; Absolute min: f(1) =2 
+D. Absolute max: f(2) =7; Absolute min: f(3) =0 
+ 
+ 
+5.  
+ 
+Match the graph to one of the listed functions. 
+A. f(x) = x2 +2x +1 
+B. (x) = x2 -2x -1 
+C. f(x) = x2 +2x  
+D. f(x) = x2 -2x  
+ 
+ 
+ 
+63 
+1.11 推送练习题 
+6.  
+ 
+Find the slope of the line. 
+A. -6. 
+B. – 1/6. 
+C. 6. 
+D. 1/6. 
+ 
+ 
+7. Find f(x+h) when f(x) = 3x2 -4x -3. 
+A. 3x2 +6xh +3h2 -4x -4h -3 
+B. 3x2 +3h2 -4x -4h -3 
+C. 3x2 +3h2 +2x +2h -3 
+D. 3x2 +3xh +3h2 -4x -4h -3  
+ 
+ 
+8. List the real zero and multiplicity of the polynomial and determine whether the graph 
+crosses or touches the x-axis.  
+f(x) = 3(x2+4)(x+2)2 
+A. 4: multiplicity 1, crosses x-axis; -2: multiplicity 2, touches x-axis. 
+B. -4: multiplicity 1, touches x-axis; -2: multiplicity 2, crosses x-axis. 
+C. -2: multiplicity 2, crosses x-axis. 
+D. -2: multiplicity 2, touches x-axis. 
+ 
+ 
+64 
+ 
+9.  
+ 
+For the graph of the function y=f(x), find the absolute maximum and the absolute 
+minimum. 
+A.

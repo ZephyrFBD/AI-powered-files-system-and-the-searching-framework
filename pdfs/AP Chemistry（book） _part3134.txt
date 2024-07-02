@@ -1,0 +1,29 @@
+reactions:
+(a) H21g2 + I21g2 ∆2 HI1g2
+(b) C2H5OH1g2 ∆C2H41g2 + H2O1g2
+(c) 3 C2H21g2 ∆C6H61g2
+ 19.80  Using data from Appendix C, write the equilibrium-constant 
+ 
+expression and calculate the value of the equilibrium 
+ 
+Exercises 
+843
+844 
+CHAPTER 19 Chemical Thermodynamics
+constant and the free-energy change for these reactions at 
+298 K:
+(a) NaHCO31s2 ∆NaOH1s2 + CO21g2
+(b) 2 HBr1g2 + Cl21g2 ∆2 HCl1g2 + Br21g2
+(c) 2 SO21g2 + O21g2 ∆2 SO31g2
+ 19.81  Consider the decomposition of barium carbonate:
+BaCO31s2 ∆BaO1s2 + CO21g2
+Using data from Appendix C, calculate the equilibrium 
+pressure of CO2 at (a) 298 K and (b) 1100 K.
+ 19.82  Consider the reaction
+PbCO31s2 ∆PbO1s2 + CO21g2
+Using data in Appendix C, calculate the equilibrium pres-
+sure of CO2 in the system at (a) 400 °C and (b) 180 °C.
+ 19.83  The value of Ka for nitrous acid 1HNO22 at 25 °C is given in 
+Appendix D. (a) Write the chemical equation for the equi-
+librium that corresponds to Ka. (b) By using the value of Ka, 
+calculate ∆

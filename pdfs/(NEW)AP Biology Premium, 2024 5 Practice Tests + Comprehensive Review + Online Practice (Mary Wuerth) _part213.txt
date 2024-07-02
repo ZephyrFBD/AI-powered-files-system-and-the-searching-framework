@@ -1,0 +1,26 @@
+l of the carbon that was originally in the glucose molecule at the start
+of glycolysis has been released as carbon dioxide. (See Figure 9.3 and Table 9.4.)
+During one turn of the Krebs cycle, four electron carriers are reduced. Three molecules of NAD+ are reduced to
+NADH, and one molecule of FAD+ is reduced to FADH2. In addition, one molecule of ATP is produced through
+substrate-level phosphorylation (the direct addition of a phosphate group to ADP without the use of an electron
+transport chain or chemiosmosis).
+There are two methods of ATP production you need to understand for the AP Biology exam: substrate-level phosphorylation and oxidative
+phosphorylation. Substrate-level phosphorylation is a simpler process, but oxidative phosphorylation allows for the production of greater
+amounts of ATP.
+Figure 9.3 Krebs Cycle
+Table 9.4 Krebs Cycle
+Location
+Inputs
+Outputs
+Matrix of the mitochondria
+Acetyl group (2C)
+2 carbon dioxides (1C each)
+ 
+3 NAD+
+3 NADH
+ 
+1 FAD+
+1 FADH2
+ 
+1 ADP + Pi
+1 ATP

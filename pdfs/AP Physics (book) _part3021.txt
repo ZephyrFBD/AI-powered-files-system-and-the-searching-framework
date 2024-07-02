@@ -1,0 +1,39 @@
+oton is scattered backward, returning in
+the direction from which it came (a direct “head-on” collision),
+and
+So
+NOTE The maximum shift in wavelength occurs for backward scattering, and it
+is twice the Compton wavelength.
+The Compton effect has been used to diagnose bone disease such as osteoporo-
+sis. Gamma rays, which are photons of even shorter wavelength than X-rays, coming
+from a radioactive source are scattered off bone material. The total intensity of
+the scattered radiation is proportional to the density of electrons, which is in turn
+proportional to the bone density. A low bone density may indicate osteoporosis.
+l¿ = l + 2
+h
+mec = 0.140 nm + 2(0.0024 nm) = 0.145 nm.
+1 - cos f = 2.
+cos f = –1,
+f = 180°,
+= 0.0024 nm
+(= hmec2
+= 0.140 nm + 2.4 * 10–12 m = 0.142 nm;
+l¿ = l +
+h
+mec = 0.140 nm +
+6.63 * 10–34 Js
+A9.11 * 10–31 kgBA3.00 * 108 msB
+1 - cos f = 1.
+f = 90°, cos f = 0,
+f = 0°,
+l¿ = l = 0.140 nm.
+1 - cos f = 0.
+f = 0°, cos f = 1
+EXAMPLE 27;8
+(f).
+f
+hmec,
+me
+l¿ = l +
+h
+mec

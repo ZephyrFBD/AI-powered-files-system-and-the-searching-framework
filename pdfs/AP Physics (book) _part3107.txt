@@ -1,0 +1,30 @@
+raction pattern as the visible light?
+1350 Wm2.
+1-m2
+1.0 * 1012 photons
+1-m2
+n = 1
+n = 3
+(radius L 7.0 * 10–15 m, charge = ±79e)?
+Amass = 6.64 * 10–27 kgB
+a
+General Problems
+802
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+90. (a) Suppose an unknown element has an absorption spec-
+trum with lines corresponding to 2.5, 4.7, and 5.1 eV above
+its ground state and an ionization energy of 11.5 eV. Draw
+an energy level diagram for this element. (b) If a 5.1-eV
+photon is absorbed by an atom of this substance, in which
+state was the atom before absorbing the photon? What will
+be the energies of the photons that can subsequently be
+emitted by this atom?
+91. A photon of momentum 
+is emitted
+from a hydrogen atom. To what spectrum series does this
+photon belong, and from what energy level was it ejected?
+92. Light of wavelength 464 nm falls on a metal which has a
+work function of 2.28 eV. (a) How much voltage should be
+applied to bring the current to zero? (b) What is the
+maximum speed 

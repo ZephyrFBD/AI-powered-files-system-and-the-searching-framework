@@ -1,0 +1,83 @@
+ow, we use Eq.2–11b (Tables 3–1 and 3–2)
+for the vertical (y) direction with
+and
+or
+We solve for and set
+To calculate the initial velocity,
+we again use Eq. 2–11b, but this time for
+the horizontal (x) direction, with
+and
+or
+Then
+which is about 
+(roughly 
+).
+NOTE In the time interval of the projectile motion, the only acceleration is g in
+the negative y direction. The acceleration in the x direction is zero.
+60 mih
+100 kmh
+vx 0 = x
+t
+= 90.0 m
+3.19 s
+= 28.2 ms,
+x = vx 0t.
+=
+0 + vx 0t +  0
+x = x0 + vx 0t + 1
+2 axt2
+x0 = 0:
+ax = 0
+vx0 ,
+t = B
+2y
+–g = B
+2(–50.0 m)
+–9.80 ms2
+= 3.19 s.
+y = –50.0 m:
+t
+y =
+– 1
+2 gt2.
+=
+0 +    0  + 1
+2 (–g)t2
+y = y0 + vy 0t + 1
+2 ayt2
+vy 0 = 0:
+y0 = 0
+vx
+t
+vx 0
+vy 0 = 0.
+vx 0 ;
+y = –50.0 m.
+ay = –g = –9.80 ms2.
+x = ±90.0 m.
+ax = 0,
+x0 = 0, y0 = 0.
+(t = 0)
+x0 = 0
+y0 = 0.
+EXAMPLE 3;5
+SECTION 3–6
+Solving Projectile Motion Problems
+61
+Known 
+Unknown
+vy 0 = 0
+ay = –g = –9.80 ms2
+ax = 0
+y = –50.0 m
+t
+x = 90.0 m
+vx 0
+x0 = y0 = 0
+y = −50.0 m
+50.0 m
+= g
+B
+a
+B
+90.0 

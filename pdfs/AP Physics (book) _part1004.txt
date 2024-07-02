@@ -1,0 +1,24 @@
+or whose total
+(loaded) mass is not to exceed 3100 kg. If the maximum
+acceleration of the elevator is 
+calculate the diam-
+eter of cable required. Assume a safety factor of 8.0.
+*9–7 Arches and Domes
+*57. (II) How high must a pointed arch be if it is to span a space
+8.0 m wide and exert one-third the horizontal force at its
+base that a round arch would?
+*58. (II) The subterranean tension ring that exerts the balancing
+horizontal force on the abutments for the dome in Fig. 9–34
+is 36-sided, so each segment makes a 10° angle with the
+adjacent one (Fig. 9–77). Calculate the tension F that must
+exist in each segment so that the required force of
+can be exerted at each corner (Example 9–13).
+4.2 * 105 N
+1.8 ms2,
+59. A woman holds a 2.0-m-long uniform 10.0-kg pole as shown
+in Fig. 9–78. (a) Determine the forces she must exert with
+each hand (magnitude and direction). To what position
+should she move her left hand so that 
+neither hand has to exert a force
+greater than (b) 150 N? (c) 85 N?
+G

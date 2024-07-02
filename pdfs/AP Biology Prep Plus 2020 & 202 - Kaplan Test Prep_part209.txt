@@ -1,0 +1,17 @@
+r plasmids to be taken up by other bacteria. The
+uptake and incorporation of the exogenous (foreign) DNA into a host
+(recipient) bacterium is called transformation. For transformation to
+occur, the host cell must be competent—the cell membrane becomes
+more permeable to allow the DNA to pass from the environment into the
+cell. Transformation works best between closely-related species and
+results in a stable genetic change. In a laboratory setting, artificial
+competence can be obtained by exposing cells to calcium chloride and
+heat shock or by using electrical pulses to create pores in the cell
+membrane.
+Transduction
+Introducing exogenous DNA into a bacterium by a virus is called
+transduction. The bacteriophage (a virus that infects bacteria) injects
+viral DNA into a host bacterium and breaks down the host DNA. Infected
+by the phage, the host cell (donor) creates new phages that may contain
+host DNA packaged in the viral capsid. Bacterial lysis releases the new
+phages, which inject the h

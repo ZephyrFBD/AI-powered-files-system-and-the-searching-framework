@@ -1,0 +1,12 @@
+so be detected and measured by a Geiger counter. The operation 
+of this device is based on the fact that radiation is able to ionize matter. The ions and 
+electrons produced by the ionizing radiation permit conduction of an electrical current. 
+The basic design of a Geiger counter is shown in Figure 21.9. A current pulse between the 
+anode and the metal cylinder occurs whenever entering radiation produces ions. Each 
+pulse is counted in order to estimate the amount of radiation.
+Some substances, called phosphors, emit light when radiation strikes or passes 
+through them. The radioactivity excites the atoms, ions, or molecules of the phosphor to 
+a higher energy state, and they release this energy as light as they return to their ground 
+states. For example, ZnS responds this way to alpha radiation. An instrument called 
+a scintillation counter detects and counts the flashes of light produced when radiation 
+strikes the phosphor. The flashes of light are magnified electronically and cou

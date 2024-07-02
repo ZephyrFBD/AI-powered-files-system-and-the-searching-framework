@@ -1,0 +1,26 @@
+xercise 8.5 we saw that 
+the dipole moment of HCl corresponds to a partial charge of 0.178+ 
+on H and 0.178- on Cl, in remarkably good agreement with our sim-
+ple approximation based on electronegativities. Although our ap-
+proximation method provides ballpark numbers for the magnitude 
+of charge on atoms, the relationship between electronegativities and 
+charge separation is generally more complicated. As we have already 
+seen, computer programs employing quantum-mechanical princi-
+ples have been developed to obtain more accurate estimates of the 
+partial charges on atoms, even in complex molecules. A computer- 
+graphical representation of the calculated charge distribution in HCl 
+is shown in Figure 8.12(c).
+Related Exercises: 8.8, 8.49–8.52, 8.86, 8.87, 8.90, 8.91
+a Closer look Oxidation Numbers, Formal Charges, and Actual Partial Charges
+(b)
+(c)
+(a)
+H
+Cl
+H
+Cl
+1
+2
+▲ Figure 8.12 (a) Oxidation number, (b) formal charge, and (c) electron-density distribution 
+for the HCl molecule.
+8.6 

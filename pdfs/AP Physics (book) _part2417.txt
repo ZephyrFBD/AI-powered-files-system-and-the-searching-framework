@@ -1,0 +1,24 @@
+coil operates at 240 V and 60.0 Hz. It
+draws 12.2 A. What is the coil’s inductance?
+*59. (II) (a) What is the reactance of a well-insulated 
+capacitor connected to a 2.0-kV (rms) 720-Hz line? (b)What
+will be the peak value of the current?
+*21–14 LRC Circuits
+*60. (II) For a 120-V rms 60-Hz voltage, an rms current of 70 mA
+passing through the human body for 1.0 s could be lethal.
+What must be the impedance of the body for this to occur?
+*61. (II) A 
+resistor is in series with a 55-mH inductor and
+an ac source. Calculate the impedance of the circuit if the
+source frequency is (a) 50 Hz, and (b)
+*62. (II) A 
+resistor and a
+capacitor are connected
+in series to an ac source. Calculate the impedance of the
+circuit if the source frequency is (a) 60 Hz, and (b) 60,000 Hz.
+*63. (II) Determine the resistance of a coil if its impedance is
+and its reactance is 
+*64. (II) Determine the total impedance, phase angle, and rms
+current in an LRC circuit connected to a 10.0-kHz,
+725-V (rms) source if 
+an

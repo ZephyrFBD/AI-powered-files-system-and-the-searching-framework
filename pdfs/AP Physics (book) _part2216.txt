@@ -1,0 +1,30 @@
+g current 
+has magnitude
+Note that the force on 
+is due only to the field produced by 
+Of course,
+also
+produces a field, but it does not exert a force on itself. We substitute 
+into the
+formula for 
+and find that the force on a length 
+of wire 2 is
+[parallel wires] (20;7)
+If we use right-hand-rule-1 of Fig. 20–8d, we see that the lines of 
+are as shown 
+in Fig. 20–26b. Then using right-hand-rule-2 of Fig. 20–11c, we see that the force
+exerted on 
+will be to the left in Fig. 20–26b. That is,
+exerts an attractive force
+on 
+(Fig. 20–27a). This is true as long as the currents are in the same direction.
+If 
+is in the opposite direction from 
+right-hand-rule-2 indicates that the force 
+is in the opposite direction. That is,
+exerts a repulsive force on 
+(Fig. 20–27b).
+Reasoning similar to that above shows that the magnetic field produced by 
+exerts an equal but opposite force on 
+We expect this to be true also from
+Newton’s third law. Thus, as shown in Fig. 20–27, parallel currents in the sam

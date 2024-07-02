@@ -1,0 +1,12 @@
+tracellular receptor, activating it. The receptor may be in the cytoplasm
+or in the nucleus. In some cases, activation of the receptor triggers the release of an inhibitor that prevented the
+receptor from functioning.
+3. The receptor-signaling molecule complex acts as a transcription factor. The receptor-signal complex binds to
+the DNA, promoting (or suppressing) the transcription of genes.
+4. Deactivation of the pathway can occur when signaling molecules or receptor proteins are enzymatically
+degraded. In some cases, phosphorylation of the receptor protein results in deactivation. In addition, the release of
+hormones into the blood is typically shut down by negative feedback mechanisms.
+Figure 6-3
+Steroid hormones, such as testosterone or estrogen, are examples of ligands that bind to intracellular receptors.
+These signaling molecules diffuse across the plasma membrane and bind to a specific receptor protein in the
+cytoplasm. The now activated complex (hormone + receptor protein) move

@@ -1,0 +1,19 @@
+ere by rainfall or by dissolution in the oceans. Unfor-
+tunately, the lack of reactivity that makes them commercially useful also allows them to 
+survive in the atmosphere and to diffuse into the stratosphere. It is estimated that several 
+million tons of chlorofluorocarbons are now present in the atmosphere.
+As CFCs diffuse into the stratosphere, they are exposed to high-energy radiation, 
+which can cause photodissociation. Because C¬Cl bonds are considerably weaker than 
+C¬F bonds, free chlorine atoms are formed readily in the presence of light with wave-
+lengths in the range from 190 to 225 nm, as shown in this typical reaction:
+ 
+CF2Cl21g2 + hn ¡ CF2Cl1g2 + Cl1g2 
+[18.6]
+Calculations suggest that chlorine atom formation occurs at the greatest rate at an alti-
+tude of about 30 km, the altitude at which ozone is at its highest concentration.
+Atomic chlorine reacts rapidly with ozone to form chlorine monoxide and molecu-
+lar oxygen:
+ 
+Cl1g2 + O31g2 ¡ ClO1g2 + O21g2 
+[18.7]
+This reacti

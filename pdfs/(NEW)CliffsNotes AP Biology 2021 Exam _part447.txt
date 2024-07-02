@@ -1,0 +1,9 @@
+s change from generation to generation in a group of interbreeding
+organisms. When evolution occurs as a result of natural selection, alleles of those individuals with traits enabling
+them to survive and reproduce better than others get passed on to the next generation. Over time, the best alleles
+accumulate in the population. Natural selection acts upon the available traits in the population. Mutations add new
+alleles, increase variation, and may introduce traits that are more successful that others in the population. Variation
+can be introduced into the population by mixing up existing alleles through genetic recombination, but mutation is
+the raw material for variation. It is the only mechanism that can introduce new alleles that didn’t previously exist.
+b. Genetic drift is another mechanism that can cause evolution, that is, cause allele frequencies to change. Genetic
+drift describes random changes in allele frequencies. This is especially influential in evolution when populations 

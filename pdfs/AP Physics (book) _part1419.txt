@@ -1,0 +1,25 @@
+d the universal gas constant because its value is found experimentally to
+be the same for all gases. The value of R, in several sets of units (only the first is
+the proper SI unit), is
+[SI units]
+†
+Equation 13–3 is called the ideal gas law, or the equation of state for an ideal gas.
+We use the term “ideal” because real gases do not follow Eq. 13–3 precisely, par-
+ticularly at high pressure (and density) or when the gas is near the liquefaction point
+However, at pressures less than an atmosphere or so, and when
+T is not close to the liquefaction point of the gas, Eq. 13–3 is quite accurate and
+useful for real gases.
+Always remember, when using the ideal gas law, that temperatures must be
+given in kelvins (K) and that the pressure P must always be absolute pressure, not
+gauge pressure (Section 10–4).
+(= boiling point).
+= 1.99 calories(molK).
+= 0.0821 (Latm)(molK)
+R = 8.314 J(molK)
+PV = nRT,
+(PV r mT)
+370
+CHAPTER 13
+Temperature and Kinetic Theory
+C A U T I O N
+Always give T in kelv

@@ -1,0 +1,38 @@
+.5 atm) and tempera-
+ture 125 °C2 of the gas and asked for the pressure at a higher tem-
+perature 1450 °C2.
+Plan The volume and number of moles of gas do not change, so 
+we must use a relationship connecting pressure and temperature. 
+Converting temperature to the Kelvin scale and tabulating the 
+given information, we have
+P
+T
+Initial
+1.5 atm
+298 K
+Final
+P
+2
+723 K
+Solve To determine how P and T are related, we start with the  
+ideal-gas equation and isolate the quantities that do not change (n, 
+V, and R) on one side and the variables (P and T) on the other side.
+P
+T = nR
+V = constant
+Because the quotient P>T is a constant, we can write
+P
+1
+T
+1
+= P
+2
+T
+2
+(where the subscripts 1 and 2 represent the initial and final states, 
+respectively). Rearranging to solve for P
+2 and substituting the 
+The gas pressure in an aerosol can is 1.5 atm at 25 °C. Assuming that the gas obeys the ideal-gas equation, what is the 
+pressure when the can is heated to 450 °C?
+Sample Exercise 10.5 
+Calculating th

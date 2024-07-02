@@ -1,0 +1,55 @@
+
+C
+Light
+C
+Retinal
+H
+H
+H
+C
+C
+H
+C
+H3C
+H
+H
+C
+H
+C
+H
+H
+CH3
+CH3
+CH3
+C
+C
+C
+H
+H3C
+C
+H
+H
+H
+C
+H
+C
+CH3
+CH3
+Opsin
+Opsin
+180° rotation about this
+bond when light absorbed
+▲ Figure 9.30 The rhodopsin molecule, the chemical basis of vision. When rhodopsin absorbs visible light, the p component of the double bond 
+shown in red breaks, allowing rotation that produces a change in molecular geometry before the p bond re-forms. The hexagonal part of the 
+structure is a short-hand way of drawing C¬C bonds with attendant H’s. 
+Give It Some Thought
+When two atoms are bonded by a triple bond, what is the hybridization of the 
+orbitals that make up the s-bond component of the bond?
+ 
+SECTION 9.7   
+Molecular Orbitals 
+369
+the two atomic orbitals so that the atomic orbital wave functions combine in the region 
+between the two nuclei. Because an electron in this MO is attracted to both nuclei, the 
+electron is more stable (it has lower energy) than it is in the 1s atomic orbital of an iso-
+lated hydrogen atom. 

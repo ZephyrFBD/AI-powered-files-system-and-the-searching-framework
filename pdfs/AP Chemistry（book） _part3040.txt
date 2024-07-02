@@ -1,0 +1,21 @@
+l1s2
+(d) 2 SO21g2 + O21g2 ¡ 2 SO31g2
+ 
+▶Practice Exercise 2
+Since the entropy of the universe increases for spontaneous 
+processes, does it mean that the entropy of the universe 
+decreases for nonspontaneous processes?
+In each pair, choose the system that has greater entropy and explain your choice: (a) 1 mol of NaCl(s) or 1 mol of HCl(g) at 25 °C, 
+(b) 2 mol of HCl(g) or 1 mol of HCl(g) at 25 °C, (c) 1 mol of HCl(g) or 1 mol of Ar(g) at 298 K.
+Sample Exercise 19.4 
+Predicting Relative Entropies
+SOLUTION
+Analyze We need to select the system in each pair that has the 
+greater entropy.
+Plan We examine the state of each system and the complexity of 
+the molecules it contains.
+Solve (a) HCl(g) has the higher entropy because the particles in  
+gases are more disordered and have more freedom of motion than 
+the particles in solids. (b) When these two systems are at the  
+same pressure, the sample containing 2 mol of HCl has twice the 
+number of molecules as the sample containing 1 mol. Thus,

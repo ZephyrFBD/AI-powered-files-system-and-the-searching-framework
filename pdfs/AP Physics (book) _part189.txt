@@ -1,0 +1,57 @@
+
+v0 = 15.0 ms,
+a = –9.80 ms2,
+Ay0 = 0B;
+y = –50.0 m,
++
+15.0 ms
+EXAMPLE 2;16
+y
+y = 0
+y = 50 m
+(a)
+(b)
+1
+0
+2
+4
+5
+3
+6
+−40
+−50
+−30
+−20
+−10
+0
+10
+t (s)
+y (m)
+Base
+of cliff
+Hand
+t =
+5.07 s
+FIGURE 2;25 Example 2–16.
+(a) A person stands on the edge 
+of a cliff. A ball is thrown upward,
+then falls back down past the
+thrower to the base of the cliff,
+50.0 m below. (b) The y vs.
+graph.
+t
+Additional Example—Using the Quadratic Formula
+EXERCISE F Two balls are thrown from a cliff. One is thrown directly up, the other
+directly down. Both balls have the same initial speed, and both hit the ground below the
+cliff but at different times. Which ball hits the ground at the greater speed: (a) the ball
+thrown upward, (b) the ball thrown downward, or (c) both the same? Ignore air resistance.
+C A U T I O N
+Sometimes a solution to a
+quadratic equation does not
+apply to the actual physical
+conditions of the Problem
+SECTION 2–8
+Graphical Analysis of Linear Motion
+39
+2–8 Graphical Analysis of Linear Motion
+Ve

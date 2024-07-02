@@ -1,0 +1,59 @@
+R O B L E M  S O L V I N G
+Cords can pull but can’t push;
+tension exists throughout a taut cord
+mB
+40.0 N
+Box A
+(b)
+y
+x
+(a)
+Box B
+(c)
+x
+y
+mB
+mA
+P
+T
+BN
+F
+B
+F
+B
+F
+B
+g
+B
+g
+B
+P
+AN
+T
+F
+B
+F
+B
+F
+B
+y
+x
+mA
+mB =
+12.0 kg
+mA =
+10.0 kg
+Our next Example involves two boxes connected by a cord. We can refer to
+this group of objects as a system. A system is any group of one or more objects we
+choose to consider and study.
+T
+wo boxes connected by a cord. Two boxes, A and B, are
+connected by a lightweight cord and are resting on a smooth (frictionless) table.
+The boxes have masses of 12.0 kg and 10.0 kg. A horizontal force 
+of 40.0 N is
+applied to the 10.0-kg box, as shown in Fig. 4–22a. Find (a) the acceleration of
+each box, and (b) the tension in the cord connecting the boxes.
+APPROACH We streamline our approach by not listing each step. We have two
+boxes so we draw a free-body diagram for each. To draw them correctly, we
+must consider the forces on each box by itself, so that Newton’s second law 
+can 

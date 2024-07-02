@@ -1,0 +1,50 @@
+ the distance between two successive
+nodes, or between two successive antinodes, is 
+there is one-half of a wave-
+length within the length of the tube for the simplest case of the fundamental (top
+diagram in Fig. 12–11a):
+or
+So the fundamental frequency is
+where v is the velocity of sound in air (the air in the tube). The
+standing wave with two nodes is the first overtone or second harmonic and has
+half the wavelength
+and twice the frequency of the fundamental. Indeed,
+in a uniform tube open at both ends, the frequency of each overtone is an integral
+multiple of the fundamental frequency, as shown in Fig. 12–11a. This is just what
+is found for a string.
+(l = l)
+f
+1 = vl = v2l,
+l = 2l.
+l = 1
+2 l,
+1
+2 l,
+338
+CHAPTER 12
+Sound
+P H Y S I C S  A P P L I E D
+Wind instruments
+l
+l
+First harmonic = fundamental
+node
+node
+node
+antinode
+[motion of air molecules]
+Displacement of air
+TUBE OPEN AT BOTH ENDS
+Pressure variation in the air
+Second harmonic
+Third harmonic
+Overtones
+v
+v
+v
+(a)
+(b)
+A
+A
+B
+B

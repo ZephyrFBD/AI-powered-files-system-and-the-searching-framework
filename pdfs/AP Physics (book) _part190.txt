@@ -1,0 +1,29 @@
+locity as Slope
+Analysis of motion using graphs can give us additional insight into kinematics.
+Let us draw a graph of x vs.
+making the choice that at  
+the position of an
+object is  
+and the object is moving at a constant velocity,
+Our graph starts at  
+(the origin). The graph of the
+position increases linearly in time because, by Eq. 2–2,
+and 
+is a
+constant. So the graph of x vs.
+is a straight line, as shown in Fig. 2–26. The
+small (shaded) triangle on the graph indicates the slope of the straight line:
+We see, using the definition of average velocity (Eq. 2–2), that the slope of the
+x vs.
+graph is equal to the velocity. And, as can be seen from the small triangle
+on the graph,
+which is the given velocity.
+If the object’s velocity changes in time, we might have an x vs.
+graph like 
+that shown in Fig. 2–27. (Note that this graph is different from showing the
+“path” of an object on an x vs. y plot.) Suppose the object is at position 
+at time 
+and at position 
+at time 
+and 
+represent th

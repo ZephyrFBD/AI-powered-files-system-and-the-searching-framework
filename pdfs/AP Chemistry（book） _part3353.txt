@@ -1,0 +1,58 @@
+
+Change in  
+Atomic Number
+Change in  
+Mass Number
+Alpha emission
+A
+ZX ¡ A-4
+Z-2Y + 4
+2He
+-2
+-4
+Beta emission
+A
+ZX ¡
+A
+Z+1Y +
+0
+-1e
++1
+Unchanged
+Positron emission
+A
+ZX ¡
+A
+Z-1Y +  0
++1e
+-1
+Unchanged
+Electron capture*
+A
+ZX +
+0
+-1e ¡
+A
+Z-1Y
+-1
+Unchanged
+*The electron captured comes from the electron cloud surrounding the nucleus.
+Give It Some Thought
+Which type of radioactive decay converts a neutron into a proton?
+Write nuclear equations for (a) mercury-201 undergoing electron capture; (b) thorium-231 decaying to protactinium-231.
+Sample Exercise 21.2 
+Writing Nuclear Equations
+SOLUTION
+Analyze We must write balanced nuclear equations in which the 
+masses and charges of reactants and products are equal.
+Plan We can begin by writing the complete chemical symbols for 
+the nuclei and decay particles that are given in the problem.
+Solve
+(a) The information given in the question can be summarized as
+201
+80Hg +
+0
+-1e ¡ A
+ZX
+The mass numbers must have the same sum on both sides of 
+the equatio

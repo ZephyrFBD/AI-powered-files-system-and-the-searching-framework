@@ -1,0 +1,37 @@
+ given the equilibrium con-
+stant and all but one equilibrium concentration. (Section 15.6) 
+Related Exercises: 15.47–15.50
+t Calculate equilibrium concentrations, given the equilibrium 
+constant and the starting concentrations. (Section 15.6) 
+Related Exercises: 15.51, 15.52, 15.57, 15.59
+t Use Le Châtelier’s principle to predict how changing the con-
+centrations, volume, or temperature of a system at equilibrium 
+affects the equilibrium position. (Section 15.7) 
+Related Exercises: 15.61, 15.62, 15.65, 15.68
+Key Equations
+t Kc =
+3D4d3E4e
+3A4a3B4b 
+[15.8]  
+ 
+The equilibrium-constant expression for a general reaction of the 
+type a A + b B ∆ d D + e E, the concentrations are equilib-
+rium concentrations only
+t Kp =
+1P
+D2d1P
+E2e
+1P
+A2a1P
+B2b 
+[15.11]  
+ 
+The equilibrium-constant expression in terms of equilibrium par-
+tial pressures
+t Kp = Kc1RT2∆n 
+[15.15]  
+ 
+Relating the equilibrium constant based on pressures to the equi-
+librium constant based on concentrations
+t Q c =
+3D4d3E

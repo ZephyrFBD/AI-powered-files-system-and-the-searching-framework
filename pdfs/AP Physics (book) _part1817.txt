@@ -1,0 +1,31 @@
+FIGURE 16–60
+Problem 35.
+l
+3
+Q1
+Q2
+E = 0
+l
+FIGURE 16–59
+Problem 34.
+*40. (II) A cube of side 8.50 cm is placed in a uniform field
+with edges parallel to the field lines.
+(a) What is the net flux through the cube? (b) What is the
+flux through each of its six faces?
+*41. (II) The electric field between two parallel square metal
+plates is 
+The plates are 0.85 m on a side and are
+separated by 3.0 cm. What is the charge on each plate
+(assume equal and opposite)? Neglect edge effects.
+*42. (II) The field just outside a 3.50-cm-radius metal ball is
+and points toward the ball. What charge
+resides on the ball?
+*43. (III) A point charge Q rests at the center of an uncharged
+thin spherical conducting shell. (See Fig. 16–34.) What is
+the electric field E as a function of r (a) for r less than 
+the inner radius of the shell, (b) inside the shell, and
+(c) beyond the shell? (d) How does the shell affect the field
+due to Q alone? How does the charge Q affect the shell?
+3.75 * 102 NC
+130 NC.
+E = 7.50

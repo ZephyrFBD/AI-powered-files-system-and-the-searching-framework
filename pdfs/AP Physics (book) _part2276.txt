@@ -1,0 +1,33 @@
+of the wire?
+46. (I) A 42-cm-long solenoid, 1.8 cm in diameter, is to produce
+a 0.030-T magnetic field at its center. If the maximum cur-
+rent is 4.5 A, how many turns must the solenoid have?
+I
+I
+2.8 mm
+10.0 cm
+FIGURE 20–57
+Problems 40 and 41.
+13.0 cm
+6.0 cm
+10.0 cm
+P
+FIGURE 20–58
+Problem 42.
+586
+CHAPTER 20
+Magnetism
+53. (I) A galvanometer needle deflects full scale for a 
+current. What current will give full-scale deflection if the
+magnetic field weakens to 0.760 of its original value?
+54. (II) A circular coil 12.0 cm in diameter and containing nine
+loops lies flat on the ground. The Earth’s magnetic field at
+this location has magnitude 
+and points into
+the Earth at an angle of 56.0° below a line pointing due
+north. If a 7.20-A clockwise current passes through the coil,
+(a) determine the torque on the coil, and (b) which edge of
+the coil rises up: north, east, south, or west?
+*20–11 Mass Spectrometer
+*55. (I) Protons move in a circle of radius 6.10 cm in a 0.566-T
+magnetic field. What

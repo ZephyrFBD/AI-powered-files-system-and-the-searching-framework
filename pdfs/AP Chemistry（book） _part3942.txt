@@ -1,0 +1,22 @@
+ EXP or EE 
+button.
+In working with exponents, it is important to recall that 100 = 1. The following 
+rules are useful for carrying exponents through calculations.
+1. Addition and Subtraction In order to add or subtract numbers expressed in 
+ 
+exponential notation, the powers of 10 must be the same.
+ 15.22 * 1042 + 13.21 * 1022 = 1522 * 1022 + 13.21 * 1022
+  = 525 * 102 13 significant figures2
+ = 5.25 * 104
+ 16.25 * 10-22 - 15.77 * 10-32 = 16.25 * 10-22 - 10.577 * 10-22
+ = 5.67 * 10-2 13 significant figures2
+ 
+ 
+When you use a calculator to add or subtract, you need not be concerned with hav-
+ing numbers with the same exponents because the calculator automatically takes 
+care of this matter.
+2. Multiplication and Division When numbers expressed in exponential notation 
+are multiplied, the exponents are added; when numbers expressed in exponential 
+notation are divided, the exponent of the denominator is subtracted from the expo-
+nent of the numerator.
+ 15.4 * 102212.1 * 1032 = 15.4212.

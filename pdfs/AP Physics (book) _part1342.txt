@@ -1,0 +1,33 @@
+ 
+sound
+levels are specified on a logarithmic scale. The sound level
+specified in decibels, is defined in terms of intensity I as
+(12;1)
+where the reference intensity 
+is usually taken to be
+Musical instruments are simple sources of sound in which
+standing waves are produced.
+The strings of a stringed instrument may vibrate as a
+whole with nodes only at the ends; the frequency at which this
+standing wave occurs is called the fundamental. The funda-
+mental frequency corresponds to a wavelength equal to twice
+the length of the string,
+The string can also vibrate at
+higher frequencies, called overtones or harmonics, in which
+l1 = 2l.
+10–12 Wm2.
+I0
+b (in dB) = 10 log ¢ I
+I0
+≤,
+b,
+1 Wm2,
+10–12 Wm2
+1 Hz = 1
+343 ms.
+there are one or more additional nodes. The frequency of each
+harmonic is a whole-number multiple of the fundamental.
+In wind instruments, standing waves are set up in the col-
+umn of air within the tube.
+The vibrating air in an open tube (open at both ends) has
+displacement a

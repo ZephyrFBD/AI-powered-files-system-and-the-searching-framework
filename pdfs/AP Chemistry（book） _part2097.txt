@@ -1,0 +1,18 @@
+ive properties can be used, as shown in Sample 
+Exercises 13.10 and 13.11.
+A solution of an unknown nonvolatile nonelectrolyte was prepared by dissolving 0.250 g of the substance in 40.0 g of CCl4. The 
+boiling point of the resulting solution was 0.357 °C higher than that of the pure solvent. Calculate the molar mass of the solute.
+Sample Exercise 13.10 
+Molar Mass from Freezing-Point Depression or Boiling-Point Elevation
+SOLUTION
+Analyze Our goal is to calculate the molar mass of a solute based 
+on knowledge of the boiling-point elevation of its solution in 
+CCl4, ∆T
+b = 0.357 °C, and the masses of solute and solvent. Table 
+13.3 gives Kb for the solvent 1CCl42, Kb = 5.02 °C>m.
+Plan We can use Equation 13.12, ∆T
+b = iKbm, to calculate the mo-
+lality of the solution. Because the solute is a nonelectrolyte, i = 1. 
+Then we can use molality and the quantity of solvent 140.0 g CCl42 
+to calculate the number of moles of solute. Finally, the molar mass 
+of the solute equals the number of gr

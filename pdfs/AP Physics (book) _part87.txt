@@ -1,0 +1,34 @@
+sium atoms when they pass between
+two particular states. [Specifically, one second is defined as the time required
+for 9,192,631,770 oscillations of this radiation.] There are, by definition, 60 s in
+one minute (min) and 60 minutes in one hour (h). Table 1–2 presents a range of
+measured time intervals, rounded off to the nearest power of 10.
+86,400 sday).
+=
+(24 hday * 60 minh * 60 smin
+186,400
+1 cm = 0.01 m
+1299,792,458
+1 ms
+299,792,458 ms,
+SECTION 1–5
+Units, Standards, and the SI System
+9
+(a)
+(b)
+FIGURE 1;8 Some lengths:
+(a) viruses (about 
+long) 
+attacking a cell; (b) Mt. Everest’s 
+height is on the order of 
+(8850 m above sea level, to be precise).
+104 m
+10–7 m
+†Modern measurements of the Earth’s circumference reveal that the intended length is off by about
+one-fiftieth of 1%. Not bad!
+‡The new definition of the meter has the effect of giving the speed of light the exact value of
+299,792,458 ms.
+TABLE 1;1 Some T
+ypical Lengths or Distances 
+(order of magnitude)
+Length (or D

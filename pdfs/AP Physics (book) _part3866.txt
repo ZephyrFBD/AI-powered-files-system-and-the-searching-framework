@@ -1,0 +1,20 @@
+nd 
+In summary,
+(E;3)
+These are called the Lorentz transformation equations. They were first pro-
+posed, in a slightly different form, by Lorentz in 1904 to explain the null result of
+the Michelson–Morley experiment and to make Maxwell’s equations take the
+same form in all inertial reference frames. A year later, Einstein derived them
+independently based on his theory of relativity. Notice that not only is the x equa-
+tion modified as compared to the Galilean transformation, but so is the equation.
+Indeed, we see directly in this last equation how the space and time coordinates mix.
+The relativistically correct velocity equations are obtained using Eqs.E–3
+(we let 
+) and 
+The others are obtained in the same way, and we collect them here:
+(E;4)
+The first of these equations is Eq. 26–11, which we used in Section 26–10 where
+we discussed how velocities do not add in our commonsense (Galilean) way,
+because of the denominator 
+We can now also see that the y and z
+components of velocity are 

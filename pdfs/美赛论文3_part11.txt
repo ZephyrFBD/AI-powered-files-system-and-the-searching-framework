@@ -1,0 +1,35 @@
+ to deal with the different situations.
+2. Model 1: Even loop model
+2.1 Cooling model
+2.1.1 Variable declaration
+Symbol
+Definition
+Q
+The heat of the water in the bathtub
+m
+The weight of the water which fills the bathtub
+c
+The specific heat capacity of the water in the bathtub
+t
+The time
+0
+T
+The initial temperature(average) of the water in the bathtub
+T
+The temperature(average) of the water in the bathtub at the moment
+t (the time t mentioned above)
+
+The temperature of the air above the bathtub
+0
+k
+A parameter related to the area and properties of the interface
+Table 1: variable declaration
+2.1.2 Hypothesis of model
+During the process of water being cool in the bathtub, the temperature of the water
+is the same throughout the whole bathtub and changes at the same pace.
+The temperature of the air does not change as the time flows. In other words,
+during the process of heat exchange between the water and the air, the temperature
+of the air is literal.
+
+0
+k is only related to the area a

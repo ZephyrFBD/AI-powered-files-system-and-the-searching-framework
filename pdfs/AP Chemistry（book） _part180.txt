@@ -1,0 +1,25 @@
+rature to be 27 °C, 
+being uncertain of the second digit of our measurement. By uncertain we mean that the 
+temperature is reliably 27 °C and not 28 °C or 26 °C, but we can’t say that it is exactly 27 °C.
+All digits of a measured quantity, including the uncertain one, are called signifi-
+cant figures. A measured mass reported as 2.2 g has two significant figures, whereas 
+one reported as 2.2405 g has five significant figures. The greater the number of signifi-
+cant figures, the greater the precision implied for the measurement.
+Second digit in 27 8C is
+estimated and therefore
+uncertain
+100 8C
+80 8C
+60 8C
+40 8C
+20 8C
+30 8C
+27 8C
+25 8C
+0 8C
+▲ Figure 1.25 Uncertainty and significant figures in a measurement.
+26 
+CHAPTER 1 Introduction: Matter, Energy, and Measurement
+A problem arises when a number ends with zeros but contains no decimal point. 
+In such cases, it is normally assumed that the zeros are not significant. Exponential 
+notation (Appendix A.1) can be used to indicate whether end

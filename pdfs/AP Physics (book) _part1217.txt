@@ -1,0 +1,18 @@
+1
+1–13 Refraction
+†
+When any wave strikes a boundary, some of the energy is reflected and some is
+transmitted or absorbed. When a two- or three-dimensional wave traveling in one
+medium crosses a boundary into a medium where its speed is different, the trans-
+mitted wave may move in a different direction than the incident wave, as shown
+in Fig. 11–42. This phenomenon is known as refraction. One example is a water
+wave; the velocity decreases in shallow water and the waves refract, as shown in
+Fig. 11–43. [When the wave velocity changes gradually, as in Fig. 11–43, without
+a sharp boundary, the waves change direction (refract) gradually.]
+In Fig. 11–42, the velocity of the wave in medium 2 is less than in medium 1.
+In this case, the wave front bends so that it travels more nearly parallel to the
+boundary. That is, the angle of refraction,
+is less than the angle of incidence,
+To see why this is so, and to help us get a quantitative relation between 
+and 
+let us think of each wave front as

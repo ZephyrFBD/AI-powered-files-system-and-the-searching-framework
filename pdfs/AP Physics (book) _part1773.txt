@@ -1,0 +1,16 @@
+ached positions where the electric
+field, and therefore the electric force on them, did become zero.
+This reasoning has some interesting consequences. For one, any net charge on
+a conductor distributes itself on the surface. For a negatively charged conductor,
+you can imagine that the negative charges repel one another and race to the sur-
+face to get as far from one another as possible. Another consequence is the following.
+Suppose that a positive charge Q is surrounded by an isolated uncharged metal
+conductor whose shape is a spherical shell, Fig. 16–34. Because there can be no
+field within the metal, the lines leaving the central positive charge must end on
+negative charges on the inner surface of the metal. That is, the encircled charge
+induces an equal amount of negative charge,
+on the inner surface of 
+the spherical shell. Since the shell is neutral, a positive charge of the same
+magnitude,
+must exist on the outer surface of the shell. Thus, although no
+field exists in the metal 

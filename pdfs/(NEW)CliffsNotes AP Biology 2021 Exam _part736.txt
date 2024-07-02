@@ -1,0 +1,10 @@
+ot, identify each plot. If you plot more than one set of data on the same graph,
+identify each plot with a short phrase. Alternately, you can draw the points of each plot with different symbols (for
+example, circles, squares, or triangles) or connect the plotted points using different kinds of lines (solid line, dashed
+line, or dash-dot line) and then identify each kind of symbol or line in a legend.
+6. Provide a title for the graph. Your title should be brief but descriptive.
+7. Use bar graphs for discrete data. Line graphs, as described above, are appropriate for displaying data when the
+independent variable is continuous; that is, the independent variable has a countless number of values in an interval.
+Time, temperature, concentration, and light intensity are examples of continuous variables. For discrete variables,
+variables that have a limited number of values, a bar graph is more appropriate. A discrete variable may represent
+drug treatments, diets, genotypes (such as blood type

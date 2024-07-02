@@ -1,0 +1,16 @@
+e equals the amount of carbon lost during respiration. To calculate the gross primary productivity
+(GPP), the absolute value of the lost carbon needs to be added back to the carbon produced from net primary
+productivity (NPP):
+GPP = NPP + R = 0.056 + 0.030 = 0.086, which rounds to 0.09 mg fixed carbon/L
+3. Answer: 0.80
+The data from the electrophoresis banding patterns represent phenotypic frequencies of an enzyme trait, that is, p2,
+2pq, and q2. The lane that has two bands represents the heterozygous individuals (2pq). If
+then q = 0.2; and if
+ 
+Note that p +
+q = 1.
+4. Answer: 1.00
+To solve this problem, look at each gene separately. For the first gene, the cross AA × aa produces offspring that are
+all Aa, so the probability for Aa among offspring is 1. Repeating this for B, C, and D gives probabilities for Bb, Cc,
+and Dd among offspring each equal to 1. Multiplying the probability for each gene, 1 × 1 × 1 × 1 gives a probability
+of 1 for the AaBbCcDd genotype. You could have also just

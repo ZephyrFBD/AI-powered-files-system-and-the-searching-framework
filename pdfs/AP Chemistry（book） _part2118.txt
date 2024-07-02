@@ -1,0 +1,29 @@
+1calculated for nonelectrolyte2
+=
+2.56 atm
+10.0397 mol>L210.0821 L@atm>mol@K21300 K2 = 2.62
+SOLUTION
+Sample Integrative Exercise 
+Putting Concepts Together
+(b) The actual values of colligative properties of electrolytes 
+are less than those calculated because the electrostatic 
+interactions between ions limit their independent move-
+ments. In this case, the van’t Hoff factor, which measures 
+the extent to which electrolytes actually dissociate into 
+ions, is given by:
+Thus, the solution behaves as if the CaCl2 has dissociated 
+into 2.62 particles instead of the ideal 3.
+(c) If the solution is 0.0397 M in CaCl2 and has a total volume 
+of 0.100 L, the number of moles of solute is: 
+10.00397 mol21-81.3 kJ>mol2 = -0.323 kJ 
+ 
+The heat absorbed by the solution is 
+q = +0.323 kJ = 323 J. The mass of the 0.100 L of solu-
+tion is 1100 mL211.00 g>mL2 = 100 g (to three signiﬁcant 
+ﬁgures). Thus, the temperature change is:
+∆T =
+q
+1specific heat of solution21grams of solution2
+=
+323 J
+14.18 J>g@K2

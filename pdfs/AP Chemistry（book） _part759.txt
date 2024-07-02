@@ -1,0 +1,26 @@
+raphite is -393.5 kJ>mol, and 
+that of diamond is -395.4 kJ>mol:
+C1graphite2 + O21g2 ¡ CO21g2  
+∆H = -393.5 kJ 
+C1diamond2 + O21g2 ¡ CO21g2  
+∆H = -395.4 kJ
+Calculate ∆H for the conversion of graphite to diamond:
+C1graphite2 ¡  C1diamond2 ∆H = ?
+ 
+Sample Exercise 5.9 
+Using Hess’s Law with Three Equations to Calculate 횫H
+Calculate ∆H for the reaction
+2 C1s2 + H21g2 ¡  C2H21g2
+given the following chemical equations and their respective enthalpy changes:
+C2H21g2 + 5
+2 O21g2 ¡  2 CO21g2 + H2O1l2  ∆H = -1299.6 kJ
+C1s2 + O21g2 ¡  CO21g2        ∆H = -393.5 kJ
+H21g2 + 1
+2 O21g2 ¡  H2O1l2        ∆H = -285.8 kJ
+SOLUTION
+Analyze We are given a chemical equation and asked to calculate its ∆H 
+using three chemical equations and their associated enthalpy changes.
+Plan We will use Hess’s law, summing the three equations or their 
+reverses and multiplying each by an appropriate coefficient so 
+that they add to give the net equation for the reaction of interest. 
+At the same time, we keep track of the

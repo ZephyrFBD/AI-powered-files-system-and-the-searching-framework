@@ -1,0 +1,21 @@
+ferent energy. (As we saw, only one of these states,
+has low
+enough energy to give a bound 
+molecule.) Figure 29–23a shows this situation
+for 1s and 2s states for two atoms: as the two atoms get closer (toward the left in
+Fig. 29–23a), the 1s and 2s states split into two levels. If six atoms come together,
+as in Fig. 29–23b, each of the states splits into six levels. If a large number of
+atoms come together to form a solid, then each of the original atomic levels
+becomes a band as shown in Fig. 29–23c. The energy levels are so close together
+in each band that they seem essentially continuous. This is why the spectrum of
+heated solids (Section 27–2) appears continuous. (See also Fig. 29–14 and its
+discussion at start of Section 29–4.)
+H2
+S = 0,
+*
+842
+CHAPTER 29
+Molecules and Solids
+FIGURE 29–23 The splitting of 1s and 2s atomic energy levels as (a) two atoms approach each other
+(the atomic separation decreases toward the left on the graph); (b) the same for six atoms, and (c) for
+many a

@@ -1,0 +1,17 @@
+charge and 
+extent of orbital overlap.
+Bonding in O2 provides an interesting test case for molecular orbital theory. The 
+Lewis structure for this molecule shows a double bond and complete pairing of electrons:
+O
+O
+The short O ¬O bond distance (1.21 Å) and relatively high bond enthalpy 1495 kJ>mol2 
+are in agreement with the presence of a double bond. However, Figure 9.43 tells us that 
+the molecule contains two unpaired electrons and should therefore be paramagnetic, a 
+detail not discernible in the Lewis structure. The paramagnetism of O2 is demonstrated 
+in Figure 9.45, which confirms the prediction from MO theory. The MO description also 
+correctly predicts a bond order of 2 as did the Lewis structure.
+Going from O2 to F2, we add two electrons, completely filling the p*
+2p MOs. Thus, 
+F2 is expected to be diamagnetic and have an F¬F single bond, in accord with its Lewis 
+structure. Finally, the addition of two more electrons to make Ne2 fills all the bonding 
+and antibonding MOs. T

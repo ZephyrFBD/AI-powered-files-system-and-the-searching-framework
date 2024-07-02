@@ -1,0 +1,36 @@
+logous curve of pH versus added acid. In this case, how-
+ever, the pH is high at the outset of the titration and low at its comple-
+tion (Figure 17.8). The pH at the equivalence point is still 7.0 (at 25 °C), 
+ 
+just like the strong acid–strong base titration.
+0
+2
+4
+6
+8
+pH
+10
+12
+14
+10
+20
+30
+40
+mL acid
+50
+60
+70
+80
+Equivalence point
+▲ Figure 17.8 Titration of a strong base with a strong acid. The 
+pH curve for titration of 50.0 mL of a 0.100 M solution of a 
+strong base with a 0.100 M solution of a strong acid.
+Give It Some Thought
+What is the pH at the equivalence point when 0.10 M HNO3 is used 
+to titrate a volume of solution containing 0.30 g of KOH?
+Weak Acid–Strong Base Titrations
+The curve for titration of a weak acid by a strong base is similar to the 
+curve in Figure 17.7. Consider, for example, the curve for titration of 
+50.0 mL of 0.100 M acetic acid with 0.100 M NaOH shown in Figure 17.9. 
+We can calculate the pH at points along this curve, using principles 
+we discussed earl

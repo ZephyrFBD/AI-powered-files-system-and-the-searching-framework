@@ -1,0 +1,17 @@
+ss the membrane reestablishes the resting potential, a graded potential is a local event, with the
+magnitude of the stimulus decaying as the stimulus flows along the neuron.
+Figure 13-1
+2. Depolarization and action potentials. In response to a stimulus, voltage-gated ion channels in the membrane
+suddenly open and permit the Na+on the outside to rush into the cell. As the positively charged
+ 
+Na+ rush in, the charge on the cell membrane becomes depolarized
+ 
+(from −70 toward 0 millivolts). If the stimulus is strong enough—that is, if it is above a certain threshold level—
+more Na+ gates open,
+ 
+increasing the inflow of Na+ even more, causing an action potential, or
+ 
+complete depolarization (reversing polarity to about +30 millivolts).
+Once this action potential is attained, the Na+ channels become inactivated (Na+ flow stops and the channel cannot
+respond to new stimuli), but neighboring Na+ channels are activated. In a
+positivefeedback fashion, the action potential travels down the le

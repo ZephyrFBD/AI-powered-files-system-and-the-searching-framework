@@ -1,0 +1,11 @@
+e and is incorrect. Choice (C) is incorrect because 54% is the frequency of
+the dominant allele, not the homozygous dominant genotype. The frequency of the dominant phenotype is 79%,
+so choice (D) is also incorrect.
+9. (B) If 19% of the individuals have the recessive genetic disease, q2 = 0.19 and q = 0.436. Then since p + q = 1,
+p = 0.564. The heterozygous individuals are resistant to the parasites and have a frequency of 2pq = 2 × 0.564 ×
+0.436 = 0.492. Choice (A) is the frequency of the recessive allele and is incorrect. Choice (C) is the frequency
+of the dominant allele and is incorrect. The frequency of individuals who do not have the recessive disease
+(some of whom may be heterozygous and others who may be homozygous dominant) is 81%, so choice (D) is
+incorrect.
+10. (A) If the parasite was totally eliminated from this environment, there would no longer be any advantage to
+being heterozygous for the recessive allele. So over time, natural selection would increase the frequencies o

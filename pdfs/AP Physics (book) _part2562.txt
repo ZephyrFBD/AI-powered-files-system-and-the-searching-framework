@@ -1,0 +1,17 @@
+ Fig. 23–35, they
+focus at a point 
+The plane containing all focus points, such as F and 
+in
+Fig. 23–35, is called the focal plane of the lens.
+Any lens (in air) that is thicker in the center than at the edges will make par-
+allel rays converge to a point, and is called a converging lens (see Fig. 23–31a).
+Lenses that are thinner in the center than at the edges (Fig. 23–31b) are called
+diverging lenses because they make parallel light diverge, as shown in Fig. 23–36.
+The focal point, F, of a diverging lens is defined as that point from which refracted
+rays, originating from parallel incident rays, seem to emerge as shown in Fig.23–36.
+And the distance from F to the center of the lens is called the focal length, f, just
+as for a converging lens.
+EXERCISE F Return to Chapter-Opening Question 2, page 644, and answer it again
+now. Try to explain why you may have answered differently the first time.
+Optometrists and ophthalmologists, instead of using the focal length, use the
+reciprocal of 

@@ -1,0 +1,21 @@
+eat engines, we usually consider the heat intake,
+the heat exhausted, and the work done as positive.
+3. Watch the units used for work and heat; work is most
+often expressed in joules, and heat can be in calories,
+kilocalories, or joules. Be consistent: choose only one
+unit for use throughout a given problem.
+MisConceptual Questions
+437
+1. In an isothermal process, 3700 J of work is done by an ideal
+gas. Is this enough information to tell how much heat has
+been added to the system? If so, how much? If not, why not?
+2. Can mechanical energy ever be transformed completely
+into heat or internal energy? Can the reverse happen? In
+each case, if your answer is no, explain why not; if yes,
+give one or two examples.
+3. Can the temperature of a system remain constant even
+though heat flows into or out of it? If so, give examples.
+4. Explain why the temperature of a gas increases when it is
+compressed adiabatically.
+5. An ideal monatomic gas expands slowly to twice its volume
+(1) isothermally; (2

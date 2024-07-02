@@ -1,0 +1,18 @@
+ gas. One potential way 
+to reduce the amount of CO2 added to the atmosphere is 
+to store it as a compressed gas in underground formations. 
+Consider a 1000-megawatt coal-fired power plant that pro-
+duces about 6 * 106 tons of CO2 per year. (a) Assuming 
+ideal-gas behavior, 1.00 atm, and 27 °C, calculate the vol-
+ume of CO2 produced by this power plant. (b) If the CO2 is 
+stored underground as a liquid at 10 °C and 120 atm and a 
+density of 1.2 g>cm3, what volume does it possess? (c) If it 
+is stored underground as a gas at 30 °C and 70 atm, what 
+volume does it occupy?
+ 10.102 Propane, C3H8, liquefies under modest pressure, allowing 
+a large amount to be stored in a container. (a) Calculate 
+the number of moles of propane gas in a 110-L container at 
+3.00 atm and 27 °C. (b) Calculate the number of moles of 
+liquid propane that can be stored in the same volume if the 
+density of the liquid is 0.590 g>mL. (c) Calculate the ratio 
+of the number of moles of liquid to moles of gas. Discuss

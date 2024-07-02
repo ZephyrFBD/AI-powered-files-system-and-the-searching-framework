@@ -1,0 +1,14 @@
+k together or against each other? Which effect is larger?
+Periodic Trends in Atomic Radii
+Figure 7.7 shows two interesting trends:
+1. Within each group, bonding atomic radius tends to increase from top to bottom. This trend 
+results primarily from the increase in the principal quantum number 1n2 of the 
+outer electrons. As we go down a column, the outer electrons have a greater proba-
+bility of being farther from the nucleus, causing the atomic radius to increase.
+2. Within each period, bonding atomic radius tends to decrease from left to right (although 
+there are some minor exceptions, such as for Cl to Ar or As to Se). The major factor 
+influencing this trend is the increase in effective nuclear charge Zeff across a period. 
+The increasing effective nuclear charge steadily draws the valence electrons closer to 
+the nucleus, causing the bonding atomic radius to decrease.
+Periodic Trends in Ionic Radii
+Just as bonding atomic radii can be determined from interatomic distances in molecu

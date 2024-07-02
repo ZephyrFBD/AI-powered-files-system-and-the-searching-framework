@@ -1,0 +1,18 @@
+ndamental,which were used to 
+describe certain features of spectra before quantum mechanics was developed.
+Give It Some Thought
+Is the distance between the electron and the nucleus fixed for an electron in a 
+specific orbit in the Bohr model of the atom? Is this distance fixed for an electron in 
+a specific orbital?
+230 
+CHAPTER 6 Electronic Structure of Atoms
+The collection of orbitals with the same value of n is called an electron shell. 
+All the orbitals that have n = 3, for example, are said to be in the third shell. The set of 
+ 
+orbitals that have the same n and l values is called a subshell. Each subshell is desig-
+nated by a number (the value of n) and a letter (s, p, d, or f, corresponding to the value of 
+l). For example, the orbitals that have n = 3 and l = 2 are called 3d orbitals and are in the 
+3d subshell.
+Table 6.2 summarizes the possible values of l and ml for values 
+of n through n = 4. The restrictions on possible values give rise to 
+the following very important obs

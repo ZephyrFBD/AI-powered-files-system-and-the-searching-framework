@@ -1,0 +1,18 @@
+V)
+= 720 turns.
+EXAMPLE 21;10
+EXERCISE E How many turns would you want in the secondary coil of a transformer
+having
+if it were to reduce the voltage from 120-V ac to 3.0-V ac?
+N
+P = 400 turns
+A transformer operates only on ac. A dc current in the primary coil does not
+produce a changing flux and therefore induces no emf in the secondary. How-
+ever, if a dc voltage is applied to the primary through a switch, at the instant the
+switch is opened or closed there will be an induced voltage in the secondary. For
+example, if the dc is turned on and off as shown in Fig. 21–24a, the voltage
+induced in the secondary is as shown in Fig. 21–24b. Notice that the secondary
+voltage drops to zero when the dc voltage is steady. This is basically how, in the
+ignition system of an automobile, the high voltage is created to produce the spark
+across the gap of a spark plug that ignites the gas-air mixture. The transformer is
+referred to as an “ignition coil,” and transforms the 12 V dc of the battery (whe

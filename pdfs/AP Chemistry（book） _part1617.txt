@@ -1,0 +1,17 @@
+of urms to ump for a sample of  O21g2 at 300 K? Will this ratio 
+change as the temperature changes? Will it be different for a different gas?
+The dependence of molecular speed on mass has two interesting consequences. The 
+first is effusion, which is the escape of gas molecules through a tiny hole (Figure 10.14). 
+The second is diffusion, which is the spread of one substance throughout a space 
+or throughout a second substance. For example, the molecules of a perfume diffuse 
+throughout a room.
+Graham’s Law of Effusion
+In 1846, Thomas Graham (1805–1869) discovered that the effusion rate of a gas is 
+inversely proportional to the square root of its molar mass. Assume we have two gases at 
+Sample Exercise 10.13 
+Calculating a Root-Mean-Square Speed
+Calculate the rms speed of the molecules in a sample of N2 gas at 25 °C.
+SOLUTION
+Analyze We are given the identity of a gas and the temperature, the 
+two quantities we need to calculate the rms speed.
+Plan We calculate the rms speed using Equ

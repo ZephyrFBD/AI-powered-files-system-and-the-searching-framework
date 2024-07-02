@@ -1,0 +1,16 @@
+ The clarinet is a bit
+complicated: it acts like a closed tube
+at lower frequencies, having only odd
+harmonics, but at higher frequencies
+all harmonics occur as for an open tube.
+The manner in which an instrument is played strongly influences the sound
+quality. Plucking a violin string, for example, makes a very different sound than
+pulling a bow across it. The sound spectrum at the very start (or end) of a note (as
+when a hammer strikes a piano string) can be very different from the subsequent
+sustained tone. This too affects the subjective tone quality of an instrument.
+An ordinary sound, like that made by striking two stones together, is a noise
+that has a certain quality, but a clear pitch is not discernible. Such a noise is a
+mixture of many frequencies which bear little relation to one another. A sound
+spectrum made of that noise would not show discrete lines like those of Fig.12–15.
+Instead it would show a continuous, or nearly continuous, spectrum of frequencies.
+Such a sound w

@@ -1,0 +1,115 @@
+  cos u
+ 
+cos(180° - u) = –cos u
+ 
+sin(180° - u) =  sin u
+ 
+tan(A6B) =
+tan A6tan B
+17tan A tan B
+ 
+cos(A6B) =  cos A cos B7sin A sin B
+ 
+sin(A6B) =  sin A cos B6cos A sin B
+ 
+tan 2u =
+2 tan u
+1 - tan2 u
+ 
+cos 2u =  cos2 u - sin2 u = 2 cos2 u - 1 =  1 - 2 sin2 u
+ 
+sin 2u =  2 sin u cos u
+ 
+sin2 u + cos2 u = 1
+±330°,
+
+–30°
+u
+(± or –)
+adj2 + opp2 = hyp2
+ 
+tan u = opp
+adj
+=
+sin u
+cos u   cot u =
+1
+tan u =
+adj
+opp
+ 
+cos u =
+adj
+hyp
+ 
+sec u =
+1
+cos u = hyp
+adj
+ 
+sin u = opp
+hyp
+ 
+csc u =
+1
+sin u = hyp
+opp
+u,
+u
+c2 = a2 + b2.
+A-8
+APPENDIX A
+Mathematical Review
+FIGURE A–5
+FIGURE A–6
+FIGURE A–7
+FIGURE A–8
+First Quadrant
+(0° to 90°)
+x > 0
+y > 0
+Second Quadrant
+(90° to 180°)
+x < 0
+y > 0
+Third Quadrant
+(180° to 270°)
+x < 0
+y < 0
+Fourth Quadrant
+(270° to 360°)
+x > 0
+y < 0
+y
+x
+θ
+r
+θ
+r
+x
+y
+θ
+r
+x
+y
+θ
+r
+x
+y
+sin  = y/r > 0
+cos  = x/r > 0
+tan  = y/x > 0
+sin  > 0
+cos  < 0
+tan  < 0
+sin  < 0
+cos  < 0
+tan  > 0
+sin  < 0
+cos  > 0
+tan  < 0
+SECTION A–7
+Trigonometric Functions and Identities
+A-9
+T
+rig

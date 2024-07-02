@@ -1,0 +1,20 @@
+s can exist together in a volume in-
+deﬁnitely without noticeable reaction occurring. Once the reaction is 
+initiated, however, energy is rapidly transferred from the system (the 
+reactants) to the surroundings as heat. The system thus loses enthalpy 
+by transferring the heat to the surroundings. (Recall that the ﬁrst law 
+of thermodynamics tells us that the total energy of the system plus 
+the surroundings does not change; energy is conserved.)
+Enthalpy change is not the only consideration in the spon-
+taneity of reactions, nor is it a foolproof guide. For example, even 
+though ice melting is an endothermic process,
+H2O1s2 ¡  H2O1l2    ∆H = +6.01 kJ
+this process is spontaneous at temperatures above the freezing point 
+of water 10 °C2. The reverse process, water freezing, is spontaneous at 
+ 
+SECTION 5.5   
+Calorimetry 
+179
+Heat Capacity and specific Heat
+The more heat an object gains, the hotter it gets. All substances change temperature 
+when they are heated, but the magnitude of the

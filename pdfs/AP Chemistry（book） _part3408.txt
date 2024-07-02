@@ -1,0 +1,26 @@
+additional fissions, each producing two neutrons. The four neutrons thereby released 
+Go Figure
+What is the relationship between the sum of the mass 
+numbers on the two sides of this reaction?
+0n
+1
+0n
+1
+92U
+235
+36Kr
+91
+56Ba
+142
+▲ Figure 21.14 Uranium-235 fission. This is just one of many fission patterns. In this reaction, 
+3.5 * 10-11 J of energy is released per 235U nucleus that is split.
+*Other heavy nuclei can also undergo fission. However, these three are the only ones of practical 
+importance.
+924 
+CHAPTER 21 Nuclear Chemistry
+can produce four fissions, and so forth, as shown in Figure 21.15. The number of fissions 
+and the energy released quickly escalate, and if the process is unchecked, the result is a 
+violent explosion. Reactions that multiply in this fashion are called chain reactions.
+For a fission chain reaction to occur, the sample of fissionable material must have 
+a certain minimum mass. Otherwise, neutrons escape from the sample before they 
+have the opportunity to st

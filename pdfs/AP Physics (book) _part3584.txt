@@ -1,0 +1,21 @@
+tates are normally occupied. That is, what we
+thought was the vacuum is instead a vast sea of electrons in negative energy
+states (Fig. 32–13a). These electrons are not normally observable. But if a photon
+strikes one of these negative energy electrons, that electron can be knocked up to
+a normal 
+energy state as shown in Fig. 32–13b. Note in Fig. 32–13
+that there are no energy states between 
+and 
+(because 
+cannot be negative in the equation 
+). The photon that
+knocks an 
+from the negative sea up to a normal state (Fig. 32–13b) must have
+an energy greater than 
+What is left behind is a hole (as in semiconductors,
+Sections 29–7 and 29–8) with positive charge. We call that “hole” a positron, and
+it can move around as a free particle with positive energy. Thus Fig. 32–13b
+represents (Section 27–6) pair production:
+The vast sea of electrons with negative energy in Fig. 32–13 is the vacuum (or
+vacuum state). According to quantum mechanics, the vacuum is not empty, but
+contains electrons an

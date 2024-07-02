@@ -1,0 +1,40 @@
+plates. The next day,
+the capacitor has lost half its stored energy. Calculate the
+amount of charge lost.
+87. Two point charges are fixed 4.0 cm apart from each other.
+Their charges are
+and their masses are
+and 
+(a) If 
+is released from
+rest, what will be its speed after a very long time? (b) If
+both charges are released from rest at the same time, what
+will be the speed of 
+after a very long time?
+88. Two charges are placed as shown in Fig. 17–49 with
+and 
+Find the potential differ-
+ence between points A and B.
+q2 = –3.3 mC.
+q1 = 1.2 mC
+Q1
+Q1
+m2 = 2.5 mg.
+m1 = 1.5 mg
+Q1 = Q2 = 6.5 mC,
+2.1-mF
+3.0 cm2
+–7.2 mC
+±3.5 mC
+82. Paper has a dielectric constant 
+and a dielectric
+strength of 
+Suppose that a typical sheet of
+paper has a thickness of 0.11 mm. You make a “homemade”
+capacitor by placing a sheet of 
+paper between
+two aluminum foil sheets (Fig. 17–48) of the same size.
+(a) What is the capacitance 
+of your device? (b) About
+how much charge could you store on your capacitor before
+it wou

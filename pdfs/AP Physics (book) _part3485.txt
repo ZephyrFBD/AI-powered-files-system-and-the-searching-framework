@@ -1,0 +1,22 @@
+ Radiation—Dosimetry
+899
+P H Y S I C S  A P P L I E D
+Biological radiation damage
+P H Y S I C S  A P P L I E D
+Dosimetry
+The strength of a source can be specified at a given time by stating the 
+source activity: how many nuclear decays (or disintegrations) occur per second.
+The traditional unit is the curie (Ci), defined as
+(This number comes from the original definition as the activity of exactly one
+gram of radium.) Although the curie is still in common use, the SI unit for source
+activity is the becquerel (Bq), defined as
+Commercial suppliers of radionuclides (radioactive nuclides) used as tracers spec-
+ify the activity at a given time. Because the activity decreases over time, more so
+for short-lived isotopes, it is important to take this decrease into account.
+The magnitude of the source activity,
+is related to the number of
+radioactive nuclei present, N, and to the half-life,
+by (see Section 30–8):
+Radioactivity taken up by cells. In a certain experiment,
+of 
+is injected into a m

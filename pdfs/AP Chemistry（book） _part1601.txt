@@ -1,0 +1,46 @@
+mixture behaves independently, we can relate the amount of a 
+given gas in a mixture to its partial pressure. For an ideal gas, we can write
+ 
+P
+1
+P
+t
+=
+n1RT>V
+nt RT>V = n1
+nt
+ 
+[10.14]
+The ratio n1>nt is called the mole fraction of gas 1, which we denote X1. The mole frac-
+tion, X, is a dimensionless number that expresses the ratio of the number of moles of 
+one component in a mixture to the total number of moles in the mixture. Thus, for gas 1 
+we have
+ 
+X1 =
+Moles of compound 1
+Total moles
+= n1
+nt
+ 
+[10.15]
+We can combine Equations 10.14 and 10.15 to give
+ 
+P
+1 = an1
+nt
+bP
+t = X1P
+t 
+[10.16]
+The mole fraction of N2 in air is 0.78—that is, 78% of the molecules in air are N2. This 
+means that if the barometric pressure is 760 torr, the partial pressure of N2 is
+P
+N2 = 10.7821760 torr2 = 590 torr
+This result makes intuitive sense: Because N2 makes up 78% of the mixture, it contributes 
+78% of the total pressure.
+412 
+CHAPTER 10 Gases
+10.7 ∣  
+The Kinetic-Molecular Theory  
+of Gases
+The

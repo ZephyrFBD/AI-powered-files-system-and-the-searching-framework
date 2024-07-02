@@ -1,0 +1,53 @@
+l friction and air resistance. These forces depend on the conditions and
+speed of the car, but are typically in the range 400 N to 1000 N.
+It is often convenient to write power in terms of the net force F applied to an
+object and its speed v. This is readily done because  
+and  
+where
+d is the distance traveled. Then
+(6;18)
+where  
+is the average speed of the object.
+v = dt
+g = W
+t
+= Fd
+t
+= Fv,
+W = Fd,
+g = Wt
+160
+CHAPTER 6
+Work and Energy
+10°
+sin 10°
+y
+x
+N
+m
+R
+m
+F
+B
+F
+B
+F
+B
+g
+B
+g
+B
+FIGURE 6–29 Example 6–14.
+Calculation of power needed for a
+car to climb a hill.
+Power needs of a car. Calculate the power required of a
+1400-kg car under the following circumstances: (a) the car climbs a 10° hill 
+(a fairly steep hill) at a steady 
+and (b) the car accelerates along a level
+road from 90 to 
+in 6.0 s to pass another car. Assume the average
+retarding force on the car is  
+throughout. See Fig. 6–29.
+APPROACH First we must be careful not to confuse 
+which is due to air
+resistance and friction 

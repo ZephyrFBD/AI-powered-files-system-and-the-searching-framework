@@ -1,0 +1,24 @@
+ite both res-
+onance structures and use a double-headed arrow to indicate that the real molecule 
+is described by an average of the two:
+1.278 Å
+1178
+1.278 Å
+▲ Figure 8.13 Molecular structure of ozone.
+ 
+ 
+ 
+ 
+Go Figure
+What feature of this structure suggests 
+that the two outer O atoms are in some 
+way equivalent to each other?
+To understand why certain molecules require more than one resonance 
+structure, we can draw an analogy to mixing paint (Figure 8.14). Blue and yel-
+low are both primary colors of paint pigment. An equal blend of blue and yellow 
+pigments produces green pigment. We cannot describe green paint in terms of a 
+single primary color, yet it still has its own identity. Green paint does not oscil-
+late between its two primary colors: It is not blue part of the time and yellow the 
+rest of the time. Similarly, molecules such as ozone cannot be described as oscil-
+lating between the two individual Lewis structures shown previously—there are 
+two equivalent dominant Lewis

@@ -1,0 +1,13 @@
+an 
+in compounds with C ¬C single bonds (1.54 Å), consistent with the presence of a 
+stronger C “C double bond. Second, all six atoms in C2H4 lie in the same plane. The 
+p orbitals on each C atom that make up the p bond can achieve a good overlap only 
+when the two CH2 fragments lie in the same plane. Because p bonds require that por-
+tions of a molecule be planar, they can introduce rigidity into molecules.
+Triple bonds can also be explained using hybrid orbitals. Acetylene 1C2H22, for exam-
+ple, is a linear molecule containing a triple bond: H¬C ‚C ¬H. The linear geometry 
+suggests that each carbon atom uses sp hybrid orbitals to form s bonds with the other car-
+bon and one hydrogen. Each carbon atom thus has two unhybridized 2p orbitals at right 
+angles to each other and to the axis of the sp hybrid set (Figure 9.23). Thus, there are two p 
+orbitals remaining on an sp-hybridized carbon atom. These p orbitals overlap to form a pair 
+of p bonds. The triple bond in acetylene therefore 

@@ -1,0 +1,31 @@
+l efficiency
+to 42%, what must be the temperature of the heat source?
+31. (III) A typical compact car experiences a total drag force 
+of about 350 N at 
+If this car gets 32 miles per
+gallon of gasoline at this speed, and a liter of gasoline
+releases about 
+when burned,
+what is the car’s efficiency?
+3.2 * 107 J
+(1 gal = 3.8 L)
+55 mih.
+20. (I) The exhaust temperature of a heat engine is 230°C. What
+is the high temperature if the Carnot efficiency is 34%?
+21. (I) A heat engine does 9200 J of work per cycle while absorb-
+ing 25.0 kcal of heat from a high-temperature reservoir.
+What is the efficiency of this engine?
+22. (I) A heat engine’s high temperature 
+could be ambient
+temperature, because liquid nitrogen at 77 K could be 
+and is cheap. What would be the efficiency of a Carnot
+engine that made use of heat transferred from air at room
+temperature (293 K) to the liquid nitrogen “fuel”(Fig.15–25)?
+T
+L
+T
+H
+440
+CHAPTER 15
+The Laws of Thermodynamics
+*54. (II) Energy may be stored by pumping

@@ -1,0 +1,56 @@
+ incident projectile particles will
+pass through the target without colliding. If 
+is the rate at which the projectile
+particles strike the target (number second), the rate at which collisions occur, R,
+is
+so
+Thus, by measuring the collision rate, R, we can determine 
+The cross section 
+is an “effective” target area. It is a measure of the probability
+of a collision or of a particular reaction occurring per target nucleus, independent
+of the dimensions of the entire target. The concept of cross section is useful
+s
+s =
+R
+R0 nl
+.
+s:
+R = R0 nls.
+R = R0
+A¿
+A
+= R0
+nAls
+A
+
+R0
+A¿ V A,
+s
+nAl = (n)(volume)
+A¿ = nAls
+10–10 m
+10–14 m
+l
+s,
+l,
+*
+(Z = 94).
+(Z = 93)
+888
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation
+†That is, positively charged particles. Electrons rarely cause nuclear reactions because they do not
+interact via the strong nuclear force.
+FIGURE 31–1 Neptunium and
+plutonium are produced in this
+series of reactions, after
+bombardment of 
+by neutrons.
+ 92
+238U
+n
+U
+92
+238
+U
+92

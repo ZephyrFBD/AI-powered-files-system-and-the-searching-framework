@@ -1,0 +1,32 @@
+a liquid. 
+ (Section 11.4) Water and carbon dioxide are the two most pop-
+ular choices as supercritical fluid solvents. One recently developed industrial process, 
+for example, replaces chlorofluorocarbon solvents with liquid or supercritical CO2 in 
+the production of polytetrafluoroethylene 13CF2CF24n, sold as Teflon®2. Though CO2 is 
+a greenhouse gas, no new CO2 need be manufactured for use as a supercritical fluid 
+solvent.
+As a further example, para-xylene is oxidized to form terephthalic acid, which is used 
+to make polyethylene terephthalate (PET) plastic and polyester fiber 
+ (Section 12.8, 
+ 
+Table 12.5):
+CH3
+CH3
+190 °C, 20 atm
+Catalyst
+3 O2
++
+2 H2O
++
+C
+HO
+OH
+O
+para-Xylene
+C
+O
+Terephthalic acid
+This commercial process requires pressurization and a relatively high temperature. Oxy-
+gen is the oxidizing agent, and acetic acid 1CH3COOH2 is the solvent. An alternative 
+route employs supercritical water as the solvent and hydrogen peroxide as the oxidant. 
+This alternative process h

@@ -1,0 +1,13 @@
+mercury surface in the 
+dish experiences the full force of Earth’s atmosphere, which pushes the mercury up the 
+tube until the pressure exerted by the mercury column downward, due to gravity, equals 
+the atmospheric pressure at the base of the tube. Therefore the height, h, of the mercury 
+column is a measure of atmospheric pressure and changes as atmospheric pressure changes.
+Standard atmospheric pressure, which corresponds to the typical pressure at 
+sea level, is the pressure sufficient to support a column of mercury 760 mm high. In SI 
+units, this pressure is 1.01325 * 105 Pa. Standard atmospheric pressure defines some 
+common non-SI units used to express gas pressure, such as the atmosphere (atm) and 
+the millimeter of mercury (mm Hg). The latter unit is also called the torr, after Torricelli: 
+1 torr = 1 mm Hg. Thus, we have
+1 atm = 760. mm Hg = 760. torr = 1.01325 * 105 Pa = 101.325 kPa = 1.01325 bar
+We will express gas pressure in a variety of units throughout this chapter, so 

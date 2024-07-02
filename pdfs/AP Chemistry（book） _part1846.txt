@@ -1,0 +1,43 @@
+, γ = arbitrary)
+Centered rectangular lattice
+▲ Figure 12.4 The five two-dimensional lattices. The primitive unit cell for each lattice is shaded in  
+blue. For the rhombic lattice the centered rectangular unit cell is shaded in green. Unlike the primitive  
+rhombic unit cell, the centered cell has two lattice points per unit cell.
+Go Figure
+Why is there a centered rectangular 
+lattice but not a centered square 
+lattice?
+▲ Figure 12.5 Not all shapes tile space. 
+Tiling means covering a surface entirely, 
+which is impossible for some geometric 
+shapes, as shown here for pentagons.
+Cubic
+a = b = c
+α = β = γ = 90°
+Rhombohedral
+a = b = c
+α = β = γ ≠ 90°
+Hexagonal
+a = b ≠ c
+α = β = 90°, γ = 120°
+Monoclinic
+a ≠ b ≠ c
+α = γ = 90°, β ≠ 90°
+Triclinic
+a ≠ b ≠ c
+α ≠ β ≠ γ
+Tetragonal
+a = b ≠ c
+α = β = γ = 90°
+Orthorhombic
+a ≠ b ≠ c
+α = β = γ = 90°
+a
+b
+c
+β
+α
+γ
+▲ Figure 12.6 The seven three-dimensional primitive lattices. 
+Give It Some Thought
+Imagine you generate a three-dimensional lattice by taki

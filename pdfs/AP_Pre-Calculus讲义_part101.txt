@@ -1,0 +1,71 @@
+
++
+ 
+If  is an angle in standard position whose terminal side coincides with this line segment, 
+then by the definitions of sine and cosine 
+cos
+and
+sin
+a
+r
+b
+r
+q
+q
+=
+=
+ 
+so 
+z = r cos  + ir sin  = r(cos  + i sin ). 
+A complex number z = a + bi has the polar form (or trigonometric form) 
+z = r(cos θ + i sin θ) 
+where 
+2
+2  and tan
+.
+b
+r
+z
+a
+b
+a
+q
+=
+=
++
+=
+ 
+ 
+Example 5 
+Write each complex number in polar form. 
+ 
+ 
+ 
+ 
+ 
+155 
+Exercise 1 
+ 
+Exercise 2 
+ 
+Exercise 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+156 
+3.12 Polar Function Graphs 
+3.12.1 Graphs of Polar Equations 
+The graph of a polar equation r = f () consists of all points P that have at least one polar 
+representation (r, ) whose coordinates satisfy the equation.  
+Many curves that arise in mathematics and its applications are more easily and naturally 
+represented by polar equations than by rectangular equations. 
+A rectangular grid is helpful for plotting points in rectangular coordinates. To plot points in 
+polar coordinates, it is con

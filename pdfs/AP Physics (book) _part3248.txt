@@ -1,0 +1,16 @@
+ule can absorb a photon of just the right frequency to
+excite one of its ground-state electrons to an excited state. The excited electron
+can then return to the ground state, emitting a photon. The energy of photons
+emitted by molecules can be of the same order of magnitude as for atoms,
+typically 1 to 10 eV, or less.
+Additional energy levels become possible for molecules (but not for atoms)
+because the molecule as a whole can rotate, and the atoms of the molecule can
+vibrate relative to each other. The energy levels for both rotational and vibrational
+levels are quantized, and are generally spaced much more closely (
+to 
+)
+than the electronic levels. Each atomic energy level thus becomes a set of closely
+spaced levels corresponding to the vibrational and rotational motions, Fig. 29–14.
+Transitions from one level to another appear as many very closely spaced lines.
+In fact, the lines are not always distinguishable, and these spectra are called 
+band spectra. Each type of molecule has i

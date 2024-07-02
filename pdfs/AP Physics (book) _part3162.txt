@@ -1,0 +1,121 @@
+ and “spin down” electrons.
+(b) This is allowed, but it is an excited state. One of the electrons from the 
+3p subshell has jumped up to the 4s subshell. Since there are 19 electrons, the
+element is potassium.
+(c) This is not allowed, because there is no d
+subshell in the 
+shell
+(Table 28–1). The outermost electron will have to be (at least) in the 
+shell.
+n = 3
+n = 2
+(l = 2)
+ml = 0,
+(n = 3)
+1s22s22p62d1?
+1s22s22p63s23p54s2;
+1s22s22p63s3;
+CONCEPTUAL EXAMPLE 28;6
+1s22s22p63s1.
+l,
+l,
+2(5) = 10
+– 1
+2
+± 1
+2
+ms
+(2, 1, 0, –1, –2),
+ml
+l = 2,
+l
+2(2l + 1)
+ms
+–l,
+–1
+l,
+ml
+ml
+2l + 1
+l,
+l = 3,
+l = 2
+l = 1
+l = 0
+l
+l
+n = 3
+n = 2
+n = 1
+p
+1
+2 , 3
+2 ,
+816
+CHAPTER 28
+Quantum Mechanics of Atoms
+TABLE 28–3 Value of 
+Maximum
+Number of
+Value 
+Letter
+Electrons in 
+of 
+Symbol
+Subshell
+0
+s
+2
+1
+p
+6
+2
+d
+10
+3
+f
+14
+4
+g
+18
+5
+h
+22
+o
+o
+o
+L
+L
+TABLE 28–4
+Electron Configuration 
+of Some Elements
+Ground
+State
+Z
+Configuration
+(Number of 
+(outer 
+Electrons)
+Element†
+electrons)
+1
+H
+2
+He
+3
+Li
+4
+Be
+5
+B
+6
+C
+7
+N
+8
+O
+9
+F
+10
+Ne
+1

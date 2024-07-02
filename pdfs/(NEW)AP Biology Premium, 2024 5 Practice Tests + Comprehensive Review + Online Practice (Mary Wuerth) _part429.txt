@@ -1,0 +1,12 @@
+ntibiotics.
+If no growth occurred on that plate after bacteria that did not receive the plasmid were plated upon it, that
+would confirm there was no previous antibiotic resistance.
+(c) Not every bacterium is expected to absorb the plasmid. So far fewer bacteria colonies would be expected on
+plate #4 (which contains ampicillin and tetracycline) than on plate #3 (which does not contain any
+antibiotic). All bacteria, regardless of whether they absorbed the plasmid, would grow on the LB agar in
+plate #3, while only bacteria that absorbed the plasmid could grow on plate #4. Based on what is shown in
+the figure, the relative numbers of bacteria colonies on these two plates meets expectations, and thus this
+bacterial transformation procedure was successful.
+(d) The bacteria would now be resistant to three antibiotics: ampicillin, tetracycline, and streptomycin. The
+bacteria taken from plate #4 would be resistant to ampicillin and tetracycline, and after successful
+conjugation with the bacteri

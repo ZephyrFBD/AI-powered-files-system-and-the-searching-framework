@@ -1,0 +1,24 @@
+x axis to be east and the positive y axis to
+be north, since those are the compass directions used on most maps. The origin
+of the xy coordinate system is at the post office. We resolve each vector into its
+x and y components. We add the x components together, and then the y compo-
+nents together, giving us the x and y components of the resultant.
+SOLUTION Resolve each displacement vector into its components, as shown
+in Fig. 3–15b. Since 
+has magnitude 22.0 km and points north, it has only a 
+y component:
+has both x and y components:
+Notice that 
+is negative because this vector component points along the
+negative y axis. The resultant vector,
+has components:
+This specifies the resultant vector completely:
+We can also specify the resultant vector by giving its magnitude and angle using
+Eqs. 3–4:
+A calculator with a key labeled INV TAN, or ARC
+TAN, or
+gives
+The negative sign means
+below the 
+x axis, Fig. 3–15c. So, the resultant displacement is 30.0 km directed at 38.5°
+in a southeaster

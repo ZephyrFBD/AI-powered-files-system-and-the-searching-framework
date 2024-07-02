@@ -1,0 +1,14 @@
+ smaller and denser means
+the Sun gets hotter. For astronomical objects, when heat flows from a hot object to a cooler object,
+the hot object gets hotter and the cool one cooler. That is, the temperature difference increases.
+15–10 Statistical Interpretation of
+Entropy and the Second Law
+The ideas of entropy and disorder are made clearer with the use of a statistical or
+probabilistic analysis of the molecular state of a system. This statistical approach,
+which was first applied toward the end of the nineteenth century by Ludwig
+Boltzmann (1844–1906), makes a clear distinction between the “macrostate” and
+the “microstate” of a system. The microstate of a system would be specified by
+giving the position and velocity of every particle (or molecule). The macrostate
+of a system is specified by giving the far fewer macroscopic properties of the
+system—the temperature, pressure, number of moles, and so on. In reality, we
+can know only the macrostate of a system. There are generally far too ma

@@ -1,0 +1,36 @@
+ (eV) associated with this state?
+62. (II) An excited hydrogen atom could, in principle, have a
+radius of 1.00 cm. What would be the value of n for a Bohr
+orbit of this size? What would its energy be?
+63. (II) Is the use of nonrelativistic formulas justified in the
+Bohr atom? To check, calculate the electron’s velocity, v,
+in terms of c, for the ground state of hydrogen, and then
+calculate
+64. (III) Show that the magnitude of the electrostatic potential
+energy of an electron in any Bohr orbit of a hydrogen atom
+is twice the magnitude of its kinetic energy in that orbit.
+65. (III) Suppose an electron was bound to a proton, as in the
+hydrogen atom, but by the gravitational force rather than
+by the electric force. What would be the radius, and energy,
+of the first Bohr orbit?
+21 - v2c2 .
+5.273 * 10–34 kgm2s.
+Li2± .
+He±
+n = 2
+n = 6
+AHe±B
+R = 1.0974 * 107 m–1.
+n = 2
+n = 4
+Z = 3
+Li2±,
+n = 3
+n¿ = 5.
+n = 4,
+n = 6, n¿ = 2;
+n = 1, n¿ = 3;
+n¿
+General Problems
+801
+66. The Big Bang theory (Chapt

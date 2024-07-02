@@ -1,0 +1,71 @@
+.0 ?
+V
+T
+14.5 ?
+R1
+R2
+V
+T = 3.5 V
+10 kΩ
+12 kΩ
+18 kΩ
+13 kΩ
+21 V
+b
+a
+12 V
+16 V
+FIGURE 19–80
+Problem 82.
+6.0 V
+12 Ω
+14 Ω
+22 Ω
+4.5 Ω
+FIGURE 19–82
+Problem 84.
+R
+(a)
+R
+(b)
+A
+A
+V
+V
+FIGURE 19–83
+Problem 85.
+85. (a) A voltmeter and an ammeter can be connected as shown
+in Fig. 19–83a to measure a resistance R. If V is the voltmeter
+reading, and I is the ammeter reading, the value of R will not
+quite be 
+(as in Ohm’s law) because some current goes
+through the voltmeter. Show that the actual value of R is
+where 
+is the voltmeter resistance. Note that
+if
+(b) A voltmeter and an ammeter can also be
+connected as shown in Fig.19–83b to measure a resistance R.
+Show in this case that
+where V and I are the voltmeter and ammeter readings and
+is the resistance of the ammeter. Note that
+if
+RA V R.
+R L VI
+RA
+R = V
+I - RA,
+RV W R.
+R L VI
+RV
+1
+R =
+I
+V -
+1
+RV
+,
+VI
+86. The circuit shown in Fig. 19–84 uses a neon-filled tube as in
+Fig. 19–23a. This neon lamp has a threshold voltage 
+for
+conduction, because no

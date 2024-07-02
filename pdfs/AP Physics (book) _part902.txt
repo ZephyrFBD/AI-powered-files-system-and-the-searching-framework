@@ -1,0 +1,30 @@
+to a sling of length
+1.5 m and begins whirling the rock in a nearly horizontal
+circle, accelerating it from rest to a rate of 75 rpm after
+5.0 s. What is the torque required to achieve this feat, and
+where does the torque come from?
+81. Bicycle gears: (a) How is the angular velocity 
+of the
+rear wheel of a bicycle related to the angular velocity 
+of the front sprocket and pedals? Let 
+and 
+be the
+number of teeth on the front and rear sprockets, respec-
+tively, Fig. 8–58. The teeth are spaced the same on both
+sprockets and the rear sprocket is firmly attached to the
+rear wheel. (b) Evaluate the ratio 
+when the front
+and rear sprockets have 52 and 13 teeth, respectively, and
+(c) when they have 42 and 28 teeth.
+vRvF
+N
+R
+N
+F
+vF
+vR
+78. (a) A yo-yo is made of two solid cylindrical disks, each of
+mass 0.050 kg and diameter 0.075 m, joined by a (concen-
+tric) thin solid cylindrical hub of mass 0.0050 kg and
+diameter 0.013 m. Use conservation of energy to calculate
+the linear speed of the yo-y

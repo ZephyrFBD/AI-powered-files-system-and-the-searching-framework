@@ -1,0 +1,15 @@
+t as well, and when we discuss light, we shall find Eq.11–20 very useful.
+1
+1–14 Diffraction
+Waves spread as they travel. When waves encounter an obstacle, they bend around
+it somewhat and pass into the region behind it, as shown in Fig. 11–45 for water
+waves. This phenomenon is called diffraction.
+The amount of diffraction depends on the wavelength of the wave and on the
+size of the obstacle, as shown in Fig. 11–46. If the wavelength is much larger than
+the object, as with the grass blades of Fig. 11–46a, the wave bends around them
+almost as if they are not there. For larger objects, parts (b) and (c), there is more
+of a “shadow” region behind the obstacle where we might not expect the waves
+to penetrate—but they do, at least a little. Then notice in part (d), where the
+obstacle is the same as in part (c) but the wavelength is longer, that there is more
+diffraction into the shadow region. As a rule of thumb, only if the wavelength
+is smaller than the size of the object will there be a

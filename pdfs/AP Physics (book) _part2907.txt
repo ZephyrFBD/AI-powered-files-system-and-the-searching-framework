@@ -1,0 +1,23 @@
+calculate back to find
+out when they actually occurred. For example, if two events are observed to
+occur at the same time, but one actually took place farther from the observer
+than the other, then the more distant one must have occurred earlier, and the two
+events were not simultaneous.
+FIGURE 26–3 A moment after
+lightning strikes at points A and B, the
+pulses of light (shown as blue waves)
+are traveling toward the observer O,
+but O “sees” the lightning only when
+the light reaches O.
+A
+Light coming from
+the two events
+at A and B
+O
+B
+We now imagine a simple thought experiment. Assume an observer, called O,
+is located exactly halfway between points A and B where two events occur,
+Fig. 26–3. Suppose the two events are lightning that strikes the points A and B, as
+shown. For brief events like lightning, only short pulses of light (blue in
+Fig. 26–3) will travel outward from A and B and reach O. Observer O “sees” the
+events when the pulses of light reach point O. If the two pulses reach O 

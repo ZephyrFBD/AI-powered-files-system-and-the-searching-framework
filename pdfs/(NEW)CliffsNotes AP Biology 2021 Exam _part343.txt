@@ -1,0 +1,12 @@
+new viruses then infect other cells, and
+the process repeats. There are variations of this theme, depending upon whether the nucleic acid of the virus is DNA
+or RNA, double-stranded or singlestranded. Some important variations follow.
+For most DNA viruses, the DNA is replicated to form new viral DNA and the DNA is transcribed to produce viral
+proteins. The DNA and proteins are assembled into new viruses.
+For some RNA viruses, the RNA serves as mRNA or as a template to make mRNA. The mRNA is translated to
+make proteins, and these proteins are assembled with RNA to make new viruses.
+2. In the lysogenic cycle, the viral DNA is temporarily incorporated into the DNA of the host cell. A virus in this
+dormant state is called a provirus (or, if a bacteriophage, a prophage). The virus remains inactive until some
+trigger, often an external environmental stimulus (such as radiation or certain chemicals), causes the virus to begin
+the destructive lytic cycle.
+Retroviruses are ssRNA viruses that us

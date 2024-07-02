@@ -1,0 +1,14 @@
+ime Spent in Cell Cycle Stages
+Problem: How long does a cell spend in interphase compared to each stage of mitosis?
+Background: A prepared microscope slide of blastula cross-sections will show cells arrested in various stages of the
+cell cycle. It is not visually possible to separate the stages of interphase from each other, but the mitotic stages are
+readily identifiable. If 100 cells are examined, the number of cells in each identifiable cell cycle stage will give an
+estimate of the time it takes for the cell to complete that stage.
+Problem Statement: Given the events included in all of interphase and those that take place in each stage of mitosis,
+estimate the length of each stage based on a 24-hour cell cycle. Before proceeding, state your hypothesis.
+Test your hypothesis: Test your hypothesis by doing the following:
+1.
+Place a fixed and stained microscope slide of whitefish blastula cross-sections under the scanning objective of a
+light microscope.
+2.
+Locate and focus on one of th

@@ -1,0 +1,14 @@
+bstance is present—and for following substances along a natural
+metabolic pathway in biological organisms. For detection of a given compound, the
+stimulating light must be monochromatic, and solvents or other materials present
+must not fluoresce in the same region of the spectrum. Sometimes the observation
+of fluorescent light being emitted is sufficient to detect a compound. In other
+cases, spectrometers are used to measure the wavelengths and intensities of the
+emitted light.
+Fluorescent lightbulbs work in a two-step process. The applied voltage accel-
+erates electrons that strike atoms of the gas in the tube and cause them to be
+excited. When the excited atoms jump down to their normal levels, they emit UV 
+photons which strike a fluorescent coating on the inside of the tube. The light we
+see is a result of this material fluorescing in response to the UV light striking it.
+Materials such as those used for luminous watch dials, and other glow-in-
+the-dark products, are said to be pho

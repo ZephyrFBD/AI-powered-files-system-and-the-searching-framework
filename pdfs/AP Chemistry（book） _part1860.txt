@@ -1,0 +1,12 @@
+ that lie directly over the spheres in the first 
+layer. This is done on the left-hand side of Figure 12.13, as shown by the dashed red lines 
+in the side view. Continuing with this pattern, the fourth layer would lie directly over the 
+spheres in the second layer, leading to the ABAB stacking pattern seen on the left, which 
+is called hexagonal close packing (hcp). Alternatively, the third-layer spheres could 
+lie directly over the depressions that were marked with red dots in the first layer. In this 
+arrangement, the spheres in the third layer do not sit directly above the spheres in either 
+of the first two layers, as shown by the dashed red lines on the lower right-hand side of 
+Figure 12.13. If this sequence is repeated in subsequent layers, we derive an ABCABC stack-
+ing pattern shown on the right known as cubic close packing (ccp). In both hexagonal 
+close packing and cubic close packing, each sphere has 12 equidistant nearest neighbors: 
+six neighbors in the same layer, three 

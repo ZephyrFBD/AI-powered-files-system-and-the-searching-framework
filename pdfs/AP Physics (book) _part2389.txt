@@ -1,0 +1,47 @@
+[resonance]
+f
+0 =
+1
+2p A
+1
+LC
+.
+f
+0 :
+2pfL -
+1
+2pfC = 0.
+I
+rms = V
+rms
+Z
+=
+V
+rms
+C
+R2 + a2pfL -
+1
+2pfC b
+2
+.
+*
+The magnetic flux passing through a loop is equal to the prod-
+uct of the area of the loop times the perpendicular component
+of the magnetic field:
+(21;1)
+If the magnetic flux through a coil of wire changes in time,
+an emf is induced in the coil. The magnitude of the induced
+emf equals the time rate of change of the magnetic flux through
+the loop times the number N of loops in the coil:
+(21;2b)
+This is Faraday’s law of induction.
+The induced emf can produce a current whose magnetic
+field opposes the original change in flux (Lenz’s law).
+Faraday’s law also tells us that a changing magnetic field
+produces an electric field; and that a straight wire of length 
+moving with speed 
+perpendicular to a magnetic field of
+strength B has an emf induced between its ends equal to
+(21;3)
+An electric generator changes mechanical energy into
+electric energy. Its operation is based on Faraday’

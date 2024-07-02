@@ -1,0 +1,33 @@
+Tetrahedral shape of CCI4.
+Tetrahedron
+Ball and stick model
+Space-filling model
+Three-dimensional
+atomic model
+CCl4
+CCl4
+All C —Cl bond
+lengths 1.78 Å
+Four equivalent 
+faces
+All Cl —C —Cl
+angles 109.5°
+C
+Cl
+Cl
+Cl
+Cl
+ 
+SECTION 9.1   
+Molecular Shapes 
+341
+We begin our discussion of molecular shapes with molecules (and ions) that, like 
+CCl4, have a single central atom bonded to two or more atoms of the same type. Such 
+molecules have the general formula ABn in which the central atom A is bonded to n B 
+atoms. Both CO2 and H2O are AB2 molecules, for example, whereas SO3 and NH3 are AB3 
+molecules, and so on.
+The number of shapes possible for ABn molecules depends on the value of n. Those 
+commonly found for AB2 and AB3 molecules are shown in Figure 9.2. An AB2 molecule 
+must be either linear 1bond angle = 180°2 or bent 1bond angle ≠180°2. For AB3 mole-
+cules, the two most common shapes place the B atoms at the corners of an equilateral 
+triangle. If the A atom lies in the same plane as t

@@ -1,0 +1,35 @@
+ith the speeds 
+of a dropped ball.
+APPROACH Again we use Eq. 2–11b, but now 
+is not zero, it is
+SOLUTION (a) At
+the position of the ball as given by Eq. 2–11b is
+At
+(time interval
+to
+), the position is
+As expected, the ball falls farther each second than if it were dropped with
+(b) The velocity is obtained from Eq. 2–11a:
+[at 
+]
+[at 
+]
+In Example 2–10, when the ball was dropped  
+the first term 
+in
+these equations was zero, so
+[at 
+]
+[at 
+]
+NOTE For both Examples 2–10 and 2–11, the speed increases linearly in time by
+during each second. But the speed of the downwardly thrown ball at
+any instant is always 
+(its initial speed) higher than that of a dropped ball.
+Ball thrown upward. A person throws a ball upward
+into the air with an initial velocity of 
+Calculate how high it goes. Ignore
+air resistance.
+APPROACH We are not concerned here with the throwing action, but only
+with the motion of the ball after it leaves the thrower’s hand (Fig. 2–23) and
+until it comes back to the hand again. 

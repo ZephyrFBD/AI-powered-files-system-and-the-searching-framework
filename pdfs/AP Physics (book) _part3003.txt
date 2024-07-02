@@ -1,0 +1,19 @@
+box can have only certain discrete
+amounts of potential energy, as shown in Fig. 27–5.
+27–3 Photon Theory of Light and
+the Photoelectric Effect
+In 1905, the same year that he introduced the special theory of relativity, Einstein
+made a bold extension of the quantum idea by proposing a new theory of light.
+Planck’s work had suggested that the vibrational energy of molecules in a radiat-
+ing object is quantized with energy
+where n is an integer and f is the
+frequency of molecular vibration. Einstein argued that when light is emitted by a
+molecular oscillator, the molecule’s vibrational energy of nhf must decrease by an
+amount hf (or by 2hf, etc.) to another integer times hf, such as 
+Then
+to conserve energy, the light ought to be emitted in packets, or quanta, each with
+an energy
+(27;4)
+where f is here the frequency of the emitted light. Again h is Planck’s constant.
+Because all light ultimately comes from a radiating source, this idea suggests that
+light is transmitted as tiny particles

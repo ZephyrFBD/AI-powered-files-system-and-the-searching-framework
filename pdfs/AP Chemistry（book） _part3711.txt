@@ -1,0 +1,14 @@
+ changes when the ligand changes.
+1010 
+CHAPTER 23 Transition Metals and Coordination Chemistry
+When an object absorbs some portion of the visible spectrum, the color we perceive 
+is the sum of the unabsorbed portions, which are either reflected or transmitted by the 
+object and strike our eyes. (Opaque objects reflect light, and transparent ones transmit it.) 
+If an object absorbs all wavelengths of visible light, none reaches our eyes and the object 
+appears black. If it absorbs no visible light, it is white if opaque or colorless if transparent. 
+If it absorbs all but orange light, the orange light is what reaches our eye and therefore is 
+the color we see.
+An interesting phenomenon of vision is that we also perceive an orange color when 
+an object absorbs only the blue portion of the visible spectrum and all the other colors 
+strike our eyes. This is because orange and blue are complementary colors, which 
+means that the removal of blue from white light makes the light look orange 

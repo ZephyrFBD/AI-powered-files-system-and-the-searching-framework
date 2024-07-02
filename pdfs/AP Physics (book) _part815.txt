@@ -1,0 +1,27 @@
+ll without slipping and the tire is
+in firm contact with the ground. The speed of the bike v and the angular velocity
+of the wheels 
+are related by 
+The bike slows down uniformly, so the
+angular acceleration is constant and we can use Eqs. 8–9.
+SOLUTION (a) The initial angular velocity of the wheel, whose radius is 34.0 cm, is
+(b) In coming to a stop, the bike passes over 115 m of ground. The circumference
+of the wheel is 
+so each revolution of the wheel corresponds to a distance
+traveled of 
+Thus the number of revolutions the wheel
+makes in coming to a stop is
+(c) The angular acceleration of the wheel can be obtained from Eq. 8–9c, for
+which we set 
+and 
+Because each revolution corresponds
+to 
+radians of angle, then 
+and
+(d) Equation 8–9a or b allows us to solve for the time. The first is easier:
+NOTE When the bike tire completes one revolution, the bike advances linearly
+a distance equal to the outer circumference 
+of the tire, as long as there is
+no slipping or sliding.
+(2pr)
+t = v 

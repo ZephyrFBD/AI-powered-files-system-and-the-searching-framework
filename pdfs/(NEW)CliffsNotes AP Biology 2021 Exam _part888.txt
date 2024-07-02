@@ -1,0 +1,13 @@
+re is not too hot.
+50. B. A diploid cell with 2n = 46 has 46 chromosomes, each with 2 chromatids. At the beginning of meiosis, each
+chromosome consists of 2 chromatids. In anaphase I, the two members of each pair of homologous chromosomes
+move to opposite poles. Each daughter cell formed at the end of meiosis I (interphase II) will be haploid with n = 23
+(23 chromosomes, each with 2 chromatids).
+During the second division of meiosis, at anaphase II, the 2 chromatids of each chromosome separate and move to
+opposite poles. The daughter cells that result will be n = 23 (23 chromosomes, each with 1 chromatid).
+51. A. See explanation for question 50.
+52. C. If N is used to represent the normal allele and n is the allele that expresses the disease, then the cross for this
+question is XNXn × XnY.
+The offspring will be ¼ XNXn + ¼ XnXn + ¼ XNY + ¼ XnY. Half the offspring will be males, and of those, half the
+males will have the disease (XnY).
+53. B. Because males have one X chromosome and femal

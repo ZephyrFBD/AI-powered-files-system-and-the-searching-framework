@@ -1,0 +1,15 @@
+ns with
+spherical surfaces. Rays from this point that pass through the outer regions of the
+lens are brought to a focus at a different point from those that pass through the
+center of the lens. This is called spherical aberration, and is shown exaggerated in
+Fig. 25–25. Consequently, the image seen on a screen or film will not be a point
+but a tiny circular patch of light. If the sensor or film is placed at the point C, as
+indicated, the circle will have its smallest diameter, which is referred to as the
+circle of least confusion. Spherical aberration is present whenever spherical 
+surfaces are used. It can be reduced by using nonspherical 
+lens 
+surfaces, but grinding such lenses is difficult and expensive. Spherical aberration
+can be reduced by the use of several lenses in combination, and by using primarily
+the central part of lenses.
+For object points off the lens axis, additional aberrations occur. Rays passing
+through the different parts of the lens cause spreading of the image t

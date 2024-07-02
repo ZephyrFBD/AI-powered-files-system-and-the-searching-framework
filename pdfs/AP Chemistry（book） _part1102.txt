@@ -1,0 +1,81 @@
+0
+Ir
+880
+Au
+890
+Ag
+731
+Cu
+746
+Hg
+1007
+Cd
+868
+Zn
+906
+B
+801
+Al
+578
+Ga
+579
+In
+558
+Tl
+589 
+C
+1086
+Si
+786
+Ge
+762
+Sn
+709
+Pb
+716
+Bi
+703
+Sb
+834
+As
+947
+P
+1012
+N
+1402
+Po
+812
+Te
+869
+Se
+941
+S
+1000
+O
+1314
+I
+1008
+Br
+1140
+Cl
+1251
+F
+1681
+▲ Figure 7.10 The first ionization energies of the elements in kJ/mol.
+Go Figure
+Why is it easier to remove a 2p 
+electron from an oxygen atom than 
+from a nitrogen atom?
+2p
+Oxygen
+2p
+Nitrogen
+▲ Figure 7.11 2p orbital filling in nitrogen 
+and oxygen.
+It may seem odd that 4s electrons are removed before 3d electrons in forming tran-
+sition-metal cations. After all, in writing electron configurations, we added the 4s elec-
+trons before the 3d ones. In writing electron configurations for atoms, however, we are 
+going through an imaginary process in which we move through the periodic table from 
+one element to another. In doing so, we are adding both an electron to an orbital and 
+a proton to the nucleus to change the identity of the element. In ionization, we do not 
+rev

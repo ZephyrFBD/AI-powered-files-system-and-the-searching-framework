@@ -1,0 +1,75 @@
+ith those for energy and linear momentum.
+When there is zero net torque acting on an object, and the object is rotating
+about a fixed axis or about an axis through its center of mass whose direction
+doesn’t change, we can write
+(8;20)
+and 
+are the moment of inertia and angular velocity, respectively, about that
+axis at some initial time 
+and I and 
+are their values at some other time.
+The parts of the object may alter their positions relative to one another, so that I
+changes. But then 
+changes as well, so that the product 
+remains constant.
+Iv
+v
+v
+(t = 0),
+v0
+I
+0
+Iv = I
+0 v0 = constant.
+¢L = 0,
+¢L¢t
+©t
+©t =
+¢L
+¢t
+= Iv - Iv0
+¢t
+=
+IAv - v0B
+¢t
+= I ¢v
+¢t
+= Ia,
+a =
+¢v
+¢t
+= v - v0
+¢t
+.
+¢t,
+v
+t = 0,
+v0
+©t = Ia,
+¢t.
+¢L
+©t
+©t =
+¢L
+¢t
+,
+©t = Ia,
+©F = ¢p¢t.
+©F = ma
+kgm2s,
+v
+L = Iv,
+p = mv,
+1
+2 mv2.
+1
+2 Iv2,
+SECTION 8–8
+Angular Momentum and Its Conservation
+215
+NEWTON’S SECOND LAW 
+FOR ROTATION
+CONSERV
+ATION OF 
+ANGULAR MOMENTUM
+Many interesting phenomena can be understood on the basis of co

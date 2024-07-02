@@ -1,0 +1,17 @@
+not vertical, we could not have used Eqs. 2–11 because a is not constant on the
+curved track of Example 6–8. But energy conservation readily gives us the answer.
+y
+FIGURE 6–18 A roller-coaster car
+moving without friction illustrates
+the conservation of mechanical
+energy.
+Equation 6–13 can be applied to any object moving without friction under
+the action of gravity. For example, Fig. 6–18 shows a roller-coaster car starting
+from rest at the top of a hill and coasting without friction to the bottom and up
+the hill on the other side. True, there is another force besides gravity acting 
+on the car, the normal force exerted by the tracks. But the normal force
+acts perpendicular to the direction of motion at each point and so does zero
+work. We ignore rotational motion of the car’s wheels and treat the car as a 
+particle undergoing simple translation. Initially, the car has only potential energy.
+As it coasts down the hill, it loses potential energy and gains in kinetic energy,
+but the sum o

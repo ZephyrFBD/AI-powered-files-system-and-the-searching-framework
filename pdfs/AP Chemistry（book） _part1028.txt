@@ -1,0 +1,38 @@
+er of the text.) (c) Based on your answers to 
+parts (a) and (b), which can we know with greater precision, 
+the position of the electron or of the neutron?
+Quantum Mechanics and Atomic Orbitals 
+(Sections 6.5 and 6.6)
+ 6.53  Classify the following statements 
+as either true or false: (a) In a con-
+tour representation of an orbital, 
+such as the one shown here for 
+a 2p orbital, the electron is con-
+fined to move about the nucleus 
+on the outer surface of the shape. 
+(b) The probability density [c(r)]2 
+gives the probability of finding 
+the electron at a specific distance 
+from the nucleus.
+x
+y
+z
+ 6.54  The radial probability function for a 2s orbital is shown here.
+0
+1
+2
+3
+4
+5
+Distance from the nucleus, r (Å)
+Probability
+6
+7
+8
+9 10
+2s
+ 
+ Classify the following statements as either true or false: (a) There 
+are two maxima in this function because one electron spends 
+most of its time at an approximate distance of 0.5 Å from the 
+nucleus and the other electron spends most of its time at

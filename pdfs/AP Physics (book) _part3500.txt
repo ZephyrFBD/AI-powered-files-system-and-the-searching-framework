@@ -1,0 +1,25 @@
+se
+5
+15
+10
+20
+100
+75
+50
+25
+0
+Protons used to kill tumors have a special property that makes them particu-
+larly useful. As shown in Fig. 31–18, when protons enter tissue, most of their
+energy is deposited at the end of their path. The protons’ initial kinetic energy
+can be chosen so that most of the energy is deposited at the depth of the tumor
+itself, to destroy it. The incoming protons deposit only a small amount of energy
+in the tissue in front of the tumor, and none at all behind the tumor, thus having
+less negative effect on healthy tissue than X- or 
+rays. Because tumors have
+physical size, even several centimeters in diameter, a range of proton energies is
+often used. Heavier ions, such as 
+particles or carbon ions, are similarly useful.
+This proton therapy technique is more than a half century old, but the necessity
+of having a large accelerator has meant that few hospitals have used the tech-
+nique until now. Many such “proton centers” are now being built.
+Another form of trea

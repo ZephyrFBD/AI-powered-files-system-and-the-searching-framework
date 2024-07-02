@@ -1,0 +1,23 @@
+ 2 both undergo a change of phase by cycle
+when they reflect from the coating’s front and rear surfaces, respectively (at
+both surfaces the index of refraction increases). Thus there is no net change in
+phase due to the reflections. The net phase difference will be due to the extra
+path 
+taken by ray 2 in the coating, where 
+We want 
+to equal 
+so that destructive interference occurs, where 
+is the wavelength 
+in the coating. With
+then
+NOTE We could have set
+where m is an integer. The smallest
+thickness 
+is usually chosen because destructive interference will occur
+over the widest angle.
+NOTE Complete destructive interference occurs only for the given wavelength of
+visible light. Longer and shorter wavelengths will have only partial cancellation.
+24–9 Michelson Interferometer
+A useful instrument involving wave interference is the Michelson interferometer
+(Fig. 24–37),† invented by the American Albert A. Michelson (Section 22–4).
+Monochromatic light from a single point on an extended sou

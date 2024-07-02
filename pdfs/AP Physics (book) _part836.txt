@@ -1,0 +1,23 @@
+l around the axle, retarding
+the motion, as suggested by 
+in Fig. 8–21. We are given only its torque,
+which is what we need. Two other forces could be included in the diagram:
+the force of gravity mg down and whatever force keeps the axle in place
+(they balance each other). They do not contribute to the torque (their lever
+arms are zero) and so we omit them to keep our diagram simple.
+4. Determine the torques. The cord exerts a force 
+that acts at the edge of the
+pulley, so its lever arm is R. The torque exerted by the cord equals 
+and 
+is counterclockwise, which we choose to be positive. The frictional torque is
+given as  
+it opposes the motion and is negative.
+5. Apply Newton’s second law for rotation. The net torque is
+The angular acceleration 
+is found from the given data that it takes 3.00 s to
+accelerate the pulley from rest to
+Newton’s second law,
+can be solved for I which is the unknown:
+6. Other calculations: None needed.
+7. Solve for unknowns. From Newton’s second law,
+8. Do 

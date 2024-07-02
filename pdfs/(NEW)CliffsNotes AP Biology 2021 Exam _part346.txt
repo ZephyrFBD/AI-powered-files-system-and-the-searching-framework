@@ -1,0 +1,11 @@
+
+each cell bearing one chromosome. The spindle apparatus, microtubules, and centrioles found in eukaryotic cell
+divisions are lacking, since in prokaryotes, there is no nucleus to divide.
+Prokaryotes may also contain plasmids, short, circular dsDNA molecules outside the chromosome. Plasmids carry
+genes that are beneficial but not normally essential to the survival of the prokaryote. A group of plasmids, called R
+plasmids, provide bacteria with resistance against antibiotics. Plasmids replicate independently of the chromosome.
+Some plasmids, called episomes, can become incorporated into the prokaryotic chromosome.
+DNA replication in prokaryotic and eukaryotic organisms is basically the same. But because prokaryotic
+chromosomes are circular, replication begins at a single, unique origin, progressing in both directions until they meet
+at the termination site. In contrast, eukaryotes, with much larger chromosomes, have multiple points of origin. Also,
+prokaryotes do not have the eukaryotic

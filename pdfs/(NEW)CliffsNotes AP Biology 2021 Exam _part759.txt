@@ -1,0 +1,14 @@
+ce for the
+fossil and the higher on the list. Clicking on this number will take you to a location (lower on this same page) that
+provides a comparison of the submitted and matching sequences, nucleotide by nucleotide.
+9. Expect Value (E Value). The E value provides a numeric value for alignments that are expected by chance. If an
+alignment occurs by chance, then it is unlikely to indicate a biological relationship. The smaller the E value, the
+more likely the alignment is the result of common ancestry. Small E values use a notation where e represents the
+logarithmic base of 10. Thus, the expression “3e–08” represents 3 ×
+10−8.
+ 
+10. Related Databases. Clicking on the icons (U, E, G, M) in this column takes you to relevant information in other
+databases.
+In the bottom section of the BLAST report, the matching sequence from each of the other organisms is paired with
+the submitted sequence of the fossil, nucleotide by nucleotide.
+11. DNA Sequences. The matching sequence and the submitted 

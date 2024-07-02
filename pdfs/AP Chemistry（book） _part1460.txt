@@ -1,0 +1,19 @@
+ent charge, as they did in the 
+ 
+plots in Figures 9.10 and 9.11.) As with the sine function, the 
+origin is a node.
+The third graph in Figure 9.38 shows that when we square 
+the wave function of the 2pz orbital, we get two peaks that 
+are symmetrical about the origin. Both peaks are positive because 
+squaring a negative number produces a positive number. Thus, 
+we lose the phase information of the function upon squaring it just as we 
+did for the sine function. When we square the wave function for 
+the pz orbital, we get the probability density for the orbital, which 
+is given as a contour representation in Figure 9.38. This is what we 
+saw in the earlier presentation of p orbitals. 
+ (Section 6.6) For 
+this squared wave function, both lobes have the same phase and 
+therefore the same sign. We use this representation throughout 
+most of this book because it has a simple physical interpretation: 
+The square of the wave function at any point in space represents 
+the electron density at 

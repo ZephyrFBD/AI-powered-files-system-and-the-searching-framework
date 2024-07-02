@@ -1,0 +1,58 @@
+ts? Must any existing connections be broken
+to accomplish this?
+42. (II) An electric circuit was accidentally constructed using 
+a 
+capacitor instead of the required 
+value.
+Without removing the 
+capacitor, what can a techni-
+cian add to correct this circuit?
+43. (II) Consider three capacitors, of capacitance 3200 pF,
+5800 pF, and 
+What maximum and minimum
+capacitance can you form from these? How do you make
+the connection in each case?
+44. (II) Determine the equivalent capacitance between 
+points a and b for the combination of capacitors shown in
+Fig. 19–64.
+0.0100 mF.
+7.0-mF
+16-mF
+7.0-mF
+r
+r
+e = 2.00 V
+e = 3.00 V
+R = 4.00 Ω
+FIGURE 19–62
+Problem 36.
+V =
+21.0 V
+C3 =
+2.00 mF
+C1 =
+3.00 mF
+C2 =
+4.00 mF
+FIGURE 19–63
+Problems 39 and 40.
+10 V
+C3 = 1.0 mF
+C1 =
+1.0 mF
+C2 = 1.0 mF
+FIGURE 19–65
+Problem 45.
+45. (II) What is the ratio of the voltage 
+across capacitor 
+in Fig. 19–65 to the voltage 
+across capacitor C2?
+V
+2
+C1
+V
+1
+46. (II) A 
+and a 
+capacitor are connected in series
+to a 9.0-V batte

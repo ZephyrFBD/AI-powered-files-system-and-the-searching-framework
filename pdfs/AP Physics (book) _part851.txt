@@ -1,0 +1,29 @@
+n be written as 
+can also be written in
+terms of angular momentum:
+(8;19)
+where 
+is the net torque acting to rotate the object, and 
+is the change in
+angular momentum in a time interval 
+Equation 8–14,
+is a special
+case of Eq. 8–19 when the moment of inertia is constant. This can be seen as 
+follows. If an object has angular velocity 
+at time 
+and angular velocity 
+after a time interval 
+then its angular acceleration (Eq. 8–3) is
+Then from Eq. 8–19, we have
+which is Eq. 8–14.
+Angular momentum is an important concept in physics because, under 
+certain conditions, it is a conserved quantity. We can see from Eq. 8–19 that if 
+the net torque 
+on an object is zero, then 
+equals zero. That is,
+so L does not change. This is the law of conservation of angular momentum for
+a rotating object:
+The total angular momentum of a rotating object remains constant if the net
+torque acting on it is zero.
+The law of conservation of angular momentum is one of the great conservation
+laws of physics, along w

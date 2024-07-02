@@ -1,0 +1,46 @@
+e kept an extra digit because this is an intermediate result. To find
+the total number of revolutions, we divide by 
+and obtain
+NOTE Let us calculate using Eq. 8–9c:
+which checks our answer above from Eq. 8–9b perfectly.
+u = v2 - v0
+2
+2a
+= (2100 rads)2 - 0
+2A70 rads2B
+= 3.15 * 104 rad
+u
+3.15 * 104 rad
+2p radrev
+= 5.0 * 103 rev.
+2p radrev
+0 + 1
+2 A70 rads2BA30 sB
+2 = 3.15 * 104 rad,
+u = v0t + 1
+2 at2 =
+u
+(70 rads)(1 rev2p rad) = 11
+70 rads,
+k = v - v0
+¢t
+= 2100 rads - 0
+30 s
+= 70 rads2.
+¢t = 30 s,
+k = ¢v¢t
+v = 2pf = (2p radrev) (20,000 revmin)
+(60 smin)
+= 2100 rads.
+v0 = 0.
+u = 2p rad
+k = ¢v¢t,
+EXAMPLE 8;6
+SECTION 8–3
+Rolling Motion (Without Slipping)
+205
+Figure 8–8a shows a wheel rolling to the right without slipping. At the instant
+shown, point P on the wheel is in contact with the ground and is momentarily 
+at rest. (If P was not at rest, the wheel would be slipping.) The velocity of the axle
+at the wheel’s center C is 
+In Fig. 8–8b we have put ourselves in the refere

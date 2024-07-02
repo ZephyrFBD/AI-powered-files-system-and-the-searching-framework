@@ -1,0 +1,29 @@
+
+B
+High PE
+for negative
+charge here
+FIGURE 17–2 Central part of
+Fig. 17–1, showing a negative point
+charge near the negative plate.
+Example 17–1.
+A negative charge. Suppose a negative
+charge, such as an electron, is placed near the negative plate in Fig. 17–1, at 
+point b, shown here in Fig. 17–2. If the electron is free to move, will its electric
+potential energy increase or decrease? How will the electric potential change?
+RESPONSE An electron released at point b will be attracted to the positive plate.
+As the electron accelerates toward the positive plate, its kinetic energy increases,
+so its potential energy decreases:
+and
+But
+note that the electron moves from point b at low potential to point a at higher
+potential:
+(Potentials 
+and 
+are due to the charges on
+the plates, not due to the electron.) The signs of 
+and 
+are opposite
+because of the negative charge of the electron.
+NOTE A positive charge placed next to the negative plate at b would stay there,
+with no acceleration. A posi

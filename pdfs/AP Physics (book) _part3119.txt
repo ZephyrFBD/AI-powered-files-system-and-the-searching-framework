@@ -1,0 +1,19 @@
+n
+Chapter 22. That is,
+where E is the electric field strength. From the particle point of view, the intensity
+of a light beam (of given frequency) is proportional to the number of photons, N,
+that pass through a given area per unit time. The more photons there are, the
+greater the intensity. Thus
+This proportion can be turned around so that we have
+That is, the number of photons (striking a page of this book, say) is proportional
+to the square of the electric field strength.
+If the light beam is very weak, only a few photons will be involved. Indeed, it
+is possible to “build up” a photograph in a camera using very weak light so the
+effect of photons arriving can be seen. If we are dealing with only one photon,
+the relationship above 
+can be interpreted in a slightly different way. At
+any point, the square of the electric field strength 
+is a measure of the probability
+that a photon will be at that location. At points where 
+is large, there is a high
+probability the photon will be there

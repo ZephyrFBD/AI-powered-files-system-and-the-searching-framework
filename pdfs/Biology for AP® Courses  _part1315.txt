@@ -1,0 +1,9 @@
+ely and for the offspring to exhibit a ratio of YY:Yy:yy genotypes of 1:2:1 (Figure 12.4). Furthermore, because
+the YY and Yy offspring have yellow seeds and are phenotypically identical, applying the sum rule of probability, we expect
+the offspring to exhibit a phenotypic ratio of 3 yellow:1 green. Indeed, working with large sample sizes, Mendel observed
+approximately this ratio in every F2 generation resulting from crosses for individual traits.
+Mendel validated these results by performing an F3 cross in which he self-crossed the dominant- and recessive-expressing
+F2 plants. When he self-crossed the plants expressing green seeds, all of the offspring had green seeds, confirming that all
+green seeds had homozygous genotypes of yy. When he self-crossed the F2 plants expressing yellow seeds, he found that
+one-third of the plants bred true, and two-thirds of the plants segregated at a 3:1 ratio of yellow:green seeds. In this case,
+the true-breeding plants had homozygous (YY) genotypes, w

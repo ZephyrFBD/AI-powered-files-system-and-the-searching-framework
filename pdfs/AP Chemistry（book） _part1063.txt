@@ -1,0 +1,16 @@
+etween an electron and the nucleus depends on the magnitude of 
+the nuclear charge and on the average distance between the nucleus and the electron. 
+The force increases as the nuclear charge increases and decreases as the electron moves 
+farther from the nucleus.
+Understanding the attraction between the electron and the nucleus in a hydro-
+gen atom is straightforward because we have only one electron and one proton. In a 
+many-electron atom, however, the situation is more complicated. In addition to the 
+260 
+CHAPTER 7 Periodic Properties of the Elements
+attraction of each electron to the nucleus, each electron experiences the  
+repulsion due 
+to other electrons. These electron–electron repulsions cancel some of the attraction of 
+the electron to the nucleus so that the electron experiences less  
+attraction than it would 
+if the other electrons weren’t there. In essence, each electron in a many-electron atom is 
+screened from the nucleus by the other electrons. It therefore experienc

@@ -1,0 +1,107 @@
+ –
+–
+– –
+–
+–
+–
+–
+–
+–
++
++
++ +
++
++
++ +
++
++
++
++
++
++
++
++ +
++
++
++ +
++
++
++
++
+E
+B
+I
+S
+I
+I
+(a)
+(b)
++
+–
++
+–
++
++
+–
+–
++
+–
+is in
+is out
+E
+B
+E
+B
+E
+B
+B
+B
+B
+B
+FIGURE 22–4 Fields produced by
+charge flowing into conductors. It
+takes time for the 
+and 
+fields to
+travel outward to distant points. The
+fields are shown to the right of the
+antenna, but they move out in all
+directions, symmetrically about the
+(vertical) antenna.
+B
+B
+E
+B
+FIGURE 22–3 A capacitor
+discharging. A conduction current
+passes through surface 1, but no
+conduction current passes through
+the sacklike surface 2. An extra term
+is needed in Ampère’s law.
+628
+CHAPTER 22
+Electromagnetic Waves
+(a)
+(b)
++
++
++
++
+–
+–
+–
+–
+I
+I
+–
+I
+I
++
+FIGURE 22–5 Sequence showing
+electric and magnetic fields that
+spread outward from oscillating
+charges on two conductors (the
+antenna) connected to an ac source
+(see the text).
+Now we look at the situation of Fig. 22–5, where our antenna is connected to
+an ac generator. In Fig. 22–5a, the connection has just been comp

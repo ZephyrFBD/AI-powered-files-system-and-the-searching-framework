@@ -1,0 +1,49 @@
+fraction grating
+principal maxima d
+sin u = ml
+d ,  
+m = 0,  1,  2,  p
+¢l = d sin u,
+¢l = ml,
+u
+(u = 0°)
+690
+CHAPTER 24
+The Wave Nature of Light
+C A U T I O N
+Diffraction grating is analyzed
+using interference formulas,
+not diffraction formulas
+FIGURE 24–24 Diffraction grating.
+u
+u
+d
+Δl = d sin u
+Δl
+Δl
+Δl
+FIGURE 24–25 Intensity as a 
+function of viewing angle (or
+position on the screen) for (a) two
+slits, (b) six slits. For a diffraction
+grating, the number of slits is very
+large 
+and the peaks are
+narrower still.
+AL  104B
+u
+m  1
+m  0
+m  1
+(a)
+m  1
+m  0
+m  1
+(b)
+†Depending on the total number of slits, there may or may not be complete cancellation for such an
+angle, so there will be very tiny peaks between the main maxima (see Fig. 24–25b), but they are usually
+much too small to be seen.
+If white light strikes a grating, the central 
+maximum will be a sharp
+white line. But for all other orders, there will be a distinct spectrum of colors spread
+out over a certain angular width, F

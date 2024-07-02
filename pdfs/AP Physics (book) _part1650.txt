@@ -1,0 +1,20 @@
+ections 14–3 and 14–4) to determine the heat
+transferred. Then we use the average temperature of each sample of water to
+estimate the entropy change (¢QT).
+EXAMPLE 15;14
+ESTIMATE
+The temperature in Example 15–13 was constant, so the calculation was short.
+If the temperature varies during a process, a summation of the heat flow over the
+changing temperature can often be calculated using calculus or a computer. How-
+ever, if the temperature change is not too great, a reasonable approximation can be
+made using the average value of the temperature, as indicated in the next Example.
+SOLUTION A quantity of heat,
+flows out of the hot water as it cools down from 24°C to 22°C, and this heat flows
+into the cold water as it warms from 20°C to 22°C. The total change in entropy,
+will be the sum of the changes in entropy of the hot water,
+and that 
+of the cold water,
+We estimate entropy changes by writing
+where 
+is an “average”
+temperature for each process, which ought to give a reasonable estimate

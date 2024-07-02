@@ -1,0 +1,65 @@
+A4
+∆t
+= -  1
+b  
+∆3B4
+∆t
+= 1
+c  
+∆3C4
+∆t
+= 1
+d  
+∆3D4
+∆t  
+[14.4]  
+ 
+Definition of reaction rate in terms of the components of the bal-
+anced chemical equation a A + b B ¡ c C + d D
+t Rate = k3A4m3B4n 
+[14.7]  
+General form of a rate law for the reaction A + B ¡ products
+t ln3A4t - ln3A40 = -kt or ln 
+3A4t
+3A40
+= -kt 
+[14.12]  
+ 
+The integrated form of a first-order rate law for the reaction 
+A ¡ products
+t
+1
+3A4t
+= kt +
+1
+3A40
+ 
+[14.14]  
+ 
+The integrated form of a second-order rate law for the reaction 
+A ¡ products
+t 3A4t = -kt + 3A40 
+[14.16]  
+ 
+The integrated form of a zero-order rate law for the reaction 
+A ¡ products
+t t1>2 = 0.693
+k
+ 
+[14.17]  
+ 
+Relating the half-life and rate constant for a first-order reaction
+t k = Ae-Ea>RT 
+[14.21]  
+ 
+The Arrhenius equation, which expresses how the rate constant 
+depends on temperature
+t ln k = -  
+Ea
+RT + ln A 
+[14.22]  
+Logarithmic form of the Arrhenius equation
+Exercises
+Visualizing Concepts
+ 
+14.1 An automotive fuel injector 

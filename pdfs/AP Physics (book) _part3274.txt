@@ -1,0 +1,36 @@
+on that fills a hole moves a very short distance 
+whereas holes move
+much larger distances and so are the real carriers of the current. We can tell the current is carried by
+positive charges (holes) by using the Hall effect, Section 20–4.
+(1 atom 6 1 nm)
+Electron
+Silicon atom
+(a)
+Arsenic
+atom
+(b)
+Extra
+electron
+Silicon atom
+FIGURE 29–26 Two-dimensional
+representation of a silicon crystal.
+(a) Four (outer) electrons surround
+each silicon atom. (b) Silicon crystal
+doped with a small percentage of
+arsenic atoms: the extra electron
+doesn’t fit into the crystal lattice and
+so is free to move about. This is an
+n-type semiconductor.
+Silicon atom
+(a)
+(b)
+Boron atom
+Hole
+FIGURE 29–27 A p-type semiconductor,
+boron-doped silicon. (a) Boron has only three
+outer electrons, so there is an empty spot, or
+hole in the structure. (b) Electrons from
+silicon atoms can jump into the hole and fill it.
+As a result, the hole moves to a new location
+(to the right in this diagram), to where the
+electron used t

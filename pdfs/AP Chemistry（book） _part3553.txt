@@ -1,0 +1,25 @@
+ 
+this reaction.
+Sample Exercise 22.5 
+Writing a Balanced Equation
+964 
+CHAPTER 22 Chemistry of the Nonmetals
+Nitric oxide (NO) is also a colorless gas but, unlike N2O, it is slightly toxic. It can be 
+prepared in the laboratory by reduction of dilute nitric acid, using copper or iron as a 
+reducing agent:
+ 
+3 Cu1s2 + 2 NO3
+-1aq2 + 8 H+1aq2 ¡ 3 Cu2 +1aq2 + 2 NO1g2 + 4 H2O1l2 [22.36]
+Nitric oxide is also produced by direct reaction of N2 and O2 at high temperatures. This 
+reaction is a significant source of nitrogen oxide air pollutants. 
+ (Section 18.2) The 
+direct combination of N2 and O2 is not used for commercial production of NO, however, 
+because the yield is low, the equilibrium constant Kp at 2400 K being only 0.05. 
+ (Sec-
+tion 15.7, “Chemistry Put to Work: Controlling Nitric Oxide Emissions”)
+The commercial route to NO (and hence to other oxygen-containing compounds of 
+nitrogen) is via the catalytic oxidation of NH3:
+ 
+4 NH31g2 + 5 O21g2 ¡
+Pt catalyst
+850 °C   4 NO1g2 + 6 H2O

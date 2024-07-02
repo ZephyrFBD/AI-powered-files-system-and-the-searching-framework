@@ -1,0 +1,59 @@
+s a smooth curve; that is, it has no corners 
+or sharp points (cusps) as shown below. 
+ 
+The domain of a polynomial function is the set of all real numbers, so we can sketch only a 
+small portion of the graph. However, for values of x outside the portion of the graph we 
+have drawn, we can describe the behavior of the graph. 
+The end behavior of a polynomial is a description of what happens as x becomes large in 
+the positive or negative direction. To describe end behavior, we use the following arrow 
+notation. 
+ 
+For example, the monomial y = x2 has the following end behavior. 
+ as  
+and
+ as 
+y
+x
+y
+x
+® ¥
+® ¥
+® ¥
+® -¥ 
+P has odd degree 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+P has even degree 
+ 
+ 
+Example 2 
+Determine the end behavior of the polynomial 
+4
+3
+( )
+2
+5
+4
+7
+P x
+x
+x
+x
+= -
++
++
+-  
+ 
+ 
+ 
+ 
+ 
+1.6.4 Using Zeros to Graph Polynomial 
+If P is a polynomial function, then c is called a zero of P if P (c) = 0.  
+Note that if P(c) = 0, then the graph of P has an x-intercept at x = c, so the x-intercepts of

@@ -1,0 +1,21 @@
+or step 1, and k2 
+is the rate constant for step 2. A negative subscript refers to the rate constant for the reverse of an 
+elementary step. For example, k - 1 is the rate constant for the reverse of the first step.
+Sample Exercise 14.14
+ Determining the Rate Law for a Multistep Mechanism
+The decomposition of nitrous oxide, N2O, is believed to occur by a two-step mechanism:
+N2O1g2 ¡ N21g2 + O1g2 1slow2
+N2O1g2 + O1g2 ¡ N21g2 + O21g2 1fast2
+(a) Write the equation for the overall reaction. (b) Write the rate law for the overall reaction.
+Continued
+ 
+SECTION 14.6   
+Reaction Mechanisms 
+597
+598 
+CHAPTER 14 Chemical Kinetics
+Mechanisms with a Fast Initial Step
+It is possible, but not particularly straightforward, to derive the rate law for a mechanism 
+in which an intermediate is a reactant in the rate-determining step. This situation arises 
+in multistep mechanisms when the first step is fast and therefore not the rate-determining 
+step. Let’s consider one example: the gas-phase reaction o

@@ -1,0 +1,68 @@
+timate by 17.92 atm (b) Overestimate by 21.87 atm
+(c) Underestimate by 0.06 atm (d) Overestimate by 0.06 atm
+ 
+▶Practice Exercise 2
+A sample of 1.000 mol of CO2 1g2 is confined to a 3.000-L  
+container at 0.000 °C. Calculate the pressure of the gas 
+using (a) the ideal-gas equation and (b) the van der Waals 
+equation.
+ 
+TABLE 10.3 Van der Waals Constants for Gas Molecules
+Substance
+a 1L2@atm,mol22
+b 1L>mol2
+He
+0.0341
+0.02370
+Ne
+0.211
+0.0171
+Ar
+1.34
+0.0322
+Kr
+2.32
+0.0398
+Xe
+4.19
+0.0510
+H2
+0.244
+0.0266
+N2
+1.39
+0.0391
+O2
+1.36
+0.0318
+F2
+1.06
+0.0290
+Cl2
+6.49
+0.0562
+H2O
+5.46
+0.0305
+NH3
+4.17
+0.0371
+CH4
+2.25
+0.0428
+CO2
+3.59
+0.0427
+CCl4
+20.4
+0.1383
+    
+Chapter Summary and Key Terms 
+423
+ 
+Sample Integrative Exercise 
+Putting Concepts Together
+Cyanogen, a highly toxic gas, is 46.2%  C and 53.8%  N by mass. At 25 °C and 751 torr, 1.05 g of cyanogen occupies 0.500 L. 
+(a) What is the molecular formula of cyanogen? Predict (b) its molecular structure and (c) its polarity.
+SOLUTION
+Analyze We need 

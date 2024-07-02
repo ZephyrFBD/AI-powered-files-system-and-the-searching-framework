@@ -1,0 +1,35 @@
+rain set up a resonant oscillation in the bridge. Marching soldiers break step when
+crossing a bridge to avoid the possibility that their rhythmic march might match a
+resonant frequency of the bridge. The famous collapse of the Tacoma Narrows
+Bridge (Fig. 11–20a) in 1940 occurred as a result of strong gusting winds driving
+the span into large-amplitude oscillatory motion. Bridges and tall buildings are
+now designed with more inherent damping. The Oakland freeway collapse in 
+the 1989 California earthquake (Fig. 11–20b) involved resonant oscillation of a
+section built on mudfill that readily transmitted that frequency.
+Resonance can be very useful, too, and we will meet important examples
+later, such as in musical instruments and tuning a radio. We will also see that
+vibrating objects often have not one, but many resonant frequencies.
+f
+0
+f = f
+0
+f L f
+0 ,
+f = f
+0 .
+f
+0 ,
+f
+0 =
+1
+2p B
+k
+m
+.
+f
+0 ,
+304
+CHAPTER 11
+Oscillations and Waves
+FIGURE 11–19 This goblet breaks as it
+vibrates in res

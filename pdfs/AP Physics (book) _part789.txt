@@ -1,0 +1,33 @@
+ 
+details.
+Assume
+equal-mass balls and an
+elastic collision.Ignore spin.
+1. Consider the Examples in this Chapter involving
+Provide some general guidelines as to
+when it is best to solve the problem using  
+so
+and when to use the principle of impulse
+instead so that
+2. A 6.0-kg object moving in the 
+direction at 
+collides head-on with an 8.0-kg object moving in the 
+direction at 
+Determine the final velocity of each
+object if: (a) the objects stick together; (b) the collision is
+elastic; (c) the 6.0-kg object is at rest after the collision;
+(d) the 8.0-kg object is at rest after the collision; (e) the
+6.0-kg object has a velocity of 
+in the 
+direction
+after the collision. Finally, (f) are the results in (c), (d), and (e)
+“reasonable”? Explain.
+3. In a physics lab, a cube slides down a frictionless incline as
+shown in Fig. 7–50 and elas-
+tically strikes another cube 
+at the bottom that is only
+one-half its mass.
+If the
+incline is 35 cm high and the
+table is 95 cm off the floor,
+where do

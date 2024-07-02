@@ -1,0 +1,13 @@
+electrodes.
+The electrodes are immersed in a solution or paste, such as a dilute acid, called
+the electrolyte. Such a device is properly called an electric cell, and several cells 
+connected together is a battery, although today even a single cell is called a 
+battery. The chemical reactions involved in most electric cells are quite complicated.
+Here we describe how one very simple cell works, emphasizing the physical aspects.
+The cell shown in Fig. 18–3 uses dilute sulfuric acid as the electrolyte. One of
+the electrodes is made of carbon, the other of zinc. The part of each electrode
+outside the solution is called the terminal, and connections to wires and circuits
+are made here. The acid tends to dissolve the zinc electrode. Each zinc atom leaves
+two electrons behind on the electrode and enters the solution as a positive ion. The
+zinc electrode thus acquires a negative charge. The electrolyte becomes positively
+charged, and can pull electrons off the carbon electrode. Thus the carbon

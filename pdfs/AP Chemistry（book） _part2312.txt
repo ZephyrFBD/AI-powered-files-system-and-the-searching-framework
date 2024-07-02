@@ -1,0 +1,24 @@
+he entire time for the data 
+from t = 0.0 min  to t = 430.0 min. (c) Which is greater, 
+the average rate between t = 54.0 and t = 215.0 min, or 
+between t = 107.0 and t = 430.0 min? (d) Graph [HCl] 
+versus time and determine the instantaneous rates in 
+M>min and M>s at t = 75.0 min and t = 250 min.
+ 14.23 For each of the following gas-phase reactions, indicate 
+how the rate of disappearance of each reactant is related 
+to the rate of appearance of each product:
+(a) H2O21g2 ¡ H21g2 + O21g2
+(b) 2 N2O1g2 ¡ 2 N21g2 + O21g2
+(c) N21g2 + 3 H21g2 ¡ 2 NH31g2
+(d) C2H5NH21g2 ¡ C2H41g2 + NH31g2
+ 14.24 For each of the following gas-phase reactions, write the 
+rate expression in terms of the appearance of each prod-
+uct and disappearance of each reactant:
+(a) 2 H2O1g2 ¡ 2 H21g2 + O21g2
+(b) 2 SO21g2 + O21g2 ¡ 2 SO31g2
+(c) 2 NO1g2 + 2 H21g2 ¡  N21g2 + 2 H2O1g2
+(d) N21g2 + 2 H21g2 ¡  N2H41g2
++
++
+ 14.15 The following diagram represents an imaginary two-step 
+mechanism. Let the red spheres represent elem

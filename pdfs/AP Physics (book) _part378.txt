@@ -1,0 +1,23 @@
+hat friction can be neglected.
+APPROACH We follow the Problem Solving Strategy on the previous page.
+SOLUTION
+1. Draw a sketch: The situation is shown in Fig. 4–21a; it shows the box and the
+force applied by the person,
+2. Free-body diagram: Figure 4–21b shows the free-body diagram of the box. To
+draw it correctly, we show all the forces acting on the box and only the forces
+acting on the box. They are: the force of gravity 
+the normal force exerted by
+the table 
+and the force exerted by the person 
+We are interested only in
+translational motion, so we can show the three forces acting at a point, Fig.4–21c.
+3. Choose axes and resolve vectors: We expect the motion to be horizontal, so
+we choose the x axis horizontal and the y axis vertical. The pull of 40.0 N has
+components
+In the horizontal (x) direction,
+and 
+have zero components. Thus the
+horizontal component of the net force is 
+4. (a) Apply Newton’s second law to get the x component of the acceleration:
+5. (a) Solve:
+The accelerati

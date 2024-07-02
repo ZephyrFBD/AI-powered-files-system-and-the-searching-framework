@@ -1,0 +1,16 @@
+is shown
+in Fig. 25–35. Light from a source is split into two equal beams by a half-silvered
+mirror,
+One beam passes through the object, and the second (comparison
+beam) passes through an identical system without the object. The two meet again
+and are superposed by the half-silvered mirror 
+before entering the eyepiece
+and eye. The path length (and amplitude) of the comparison beam is adjustable so
+that the background can be dark; that is, full destructive interference occurs. Light
+passing through the object (beam bd in Fig. 25–34) will also interfere with the com-
+parison beam. But because of its different phase, the interference will not be
+completely destructive. Thus it will appear brighter than the background. Where the
+object varies in thickness, the phase difference between beams ac and bd in Fig.25–34
+will be different, thus affecting the amount of interference. Hence variation in the
+thickness of the object will appear as variations in brightness in the image.
+A phase-contras

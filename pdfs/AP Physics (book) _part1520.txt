@@ -1,0 +1,13 @@
+t” (or the “surroundings”). There are several cate-
+gories of systems. A closed system is one for which no mass enters or leaves (but
+energy may be exchanged with the environment). In an open system, mass may
+enter or leave (as may energy). Many (idealized) systems we study in physics 
+are closed systems. But many systems, including plants and animals, are open 
+systems since they exchange materials (food, oxygen, waste products) with the
+environment. A closed system is said to be isolated if no energy in any form 
+(as well as no mass) passes across its boundaries; otherwise it is not isolated.
+A perfectly isolated system is an ideal, but we often try to set up a system that
+can be closely approximated as an isolated system (preferably one we can deal with
+fairly easily). When different parts of an isolated system are at different tempera-
+tures, heat will flow (energy is transferred) from the part at higher temperature to
+the part at lower temperature—that is, within the system—until 

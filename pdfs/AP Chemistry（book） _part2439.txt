@@ -1,0 +1,36 @@
+l species at the different temperatures. 
+ 
+ (Section 14.2) We can then calculate the equilibrium constant at each temperature. 
+How do we explain why the equilibrium constants and therefore the position of equilib-
+rium both depend on temperature?
+We can deduce the rules for the relationship between K and temperature from Le 
+Châtelier’s principle. We do this by treating heat as a chemical reagent. In an endother-
+mic (heat-absorbing) reaction, we consider heat a reactant, and in an exothermic (heat- 
+releasing) reaction, we consider heat a product:
+ 
+Endothermic: 
+Reactants + heat ∆ products
+ 
+Exothermic:  
+Reactants ∆ products + heat
+Pale pink
+Deep blue
+Cool
+Heat
+∆H > 0, endothermic reaction
+Pink
+Blue
+CoCl42–
+Solution appears violet because 
+appreciable amounts of both pink 
+Co(H2O)6
+2+ and blue CoCl4
+2– are 
+present.
+Solution appears pink because 
+lowering the temperature shifts the 
+equilibrium to favor formation of 
+the pink Co(H2O)6
+2+ ion.
+Solution appears blue because 
+raising

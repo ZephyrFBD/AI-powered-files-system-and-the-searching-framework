@@ -1,0 +1,44 @@
+t on this thin film does 
+not reflect at the top part of the film, so the top is transparent and we see the
+background which is black.
+Below the black area at the top, there is a thin blue line, and then a white
+band. The film has thickened to perhaps 75 to 100 nm, so the shortest wavelength
+(blue) light begins to partially interfere constructively. But just below, where the
+thickness is slightly greater (100 nm), the path difference is reasonably close to
+for much of the spectrum and we see white or silver.†
+Immediately below the white band in this Figure we see a brown band, where
+200 nm, and many wavelengths (not all) are close to —and those colors destruc-
+tively interfere, leaving only a few colors to partially interfere constructively,
+giving us murky brown.
+l
+t L
+l2
+V l
+*
+ln
+l = 540 nm
+t = 3l4n = 300 nm
+t
+2t = 3l2n,
+t = ln
+4
+=
+l
+4n =
+(540 nm)
+(4)(1.35) = 100 nm.
+2t = ln2,
+1
+2 ln.
+1
+2 l
+(n = 1.35).
+t
+t
+2t,
+n = 1.35.
+(l = 540 nm)
+EXAMPLE 24;11
+696
+CHAPTER 24
+FIGURE 24–29b (Re

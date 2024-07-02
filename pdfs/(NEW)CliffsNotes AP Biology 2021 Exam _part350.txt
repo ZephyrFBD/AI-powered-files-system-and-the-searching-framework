@@ -1,0 +1,11 @@
+ide the operon region, produces a regulatory protein that engages the operator
+region and governs whether RNA polymerase can attach to the promoter region and begin transcription. Regulatory
+proteins are allosteric, that is, they become active (or inactive) only when they bind to some specific substrate
+molecule. A regulatory protein can be one of two kinds.
+A repressor protein blocks the attachment of RNA polymerase to the promoter region. Repressor proteins
+characterize negative regulation because they must be inactive in order for transcription to occur.
+An activator protein promotes the attachment of RNA polymerase to the promoter region. Activator proteins
+characterize positive regulation because they must be active in order for transcription to occur.
+Three examples of gene regulation in bacteria follow (summarized in Figure 9-7):
+1. The trp operon in E. coli produces enzymes for the synthesis of the amino acid tryptophan. A regulatory gene
+produces an inactive repressor that doe

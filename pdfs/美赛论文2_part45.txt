@@ -1,0 +1,15 @@
+tion, the number of the vaccines sent to 
+the epidemic areas in one week equals to the number of one-week output of 
+the medication. With the advance of technology, supply will first grow with 
+high-increasing speed and then grows with low-increasing speed. Finally, the 
+speed will become stable as a result of more and more constraints. When 
+supply meets demand, though more medication is able to be produced, supply 
+will change with the demand in the future in order to avoid waste.  
+4.3 Delivery model: 
+Our delivery model consists of vertical transport（drugs distribute from the 
+treatment center to epidemic areas）and lateral transport(drugs distribute from 
+one epidemic area to another). We take Sierra Leone as an example, making 
+assumptions that one week is a vertical transport cycle and every country has 
+one treatment center. During every vertical transport cycle, we use lateral 
+transport. Firstly, we estimate the weight of each city in country according to 
+the infective and su

@@ -1,0 +1,16 @@
+ic pressure, Π, of the solution. 
+If an external pressure equal to the osmotic pressure is applied to the solution, the liquid 
+levels in the two arms can be equalized, as shown in the right panel of Figure 13.22.
+The osmotic pressure obeys a law similar in form to the ideal-gas law, ΠV = inRT
+where Π is the osmotic pressure, V is the volume of the solution, i is the van’t Hoff factor, 
+n is the number of moles of solute, R is the ideal-gas constant, and T is the absolute tem-
+perature. From this equation, we can write
+ 
+Π = ia n
+V bRT = iMRT 
+[13.14]
+where M is the molarity of the solution. Because the osmotic pressure for any solution 
+depends on the solution concentration, osmotic pressure is a colligative property.
+If two solutions of identical osmotic pressure are separated by a semipermeable mem-
+brane, no osmosis will occur. The two solutions are isotonic with respect to each other. If one 
+solution is of lower osmotic pressure, it is hypotonic with respect to the more concentra

@@ -1,0 +1,26 @@
+e 
+upward. We can safely predict that the teacher
+(and turntable) will begin revolving in the same direction the wheel was spinning 
+originally.
+±2L
+B
+–L
+B
+L
+B
+L
+B
+CONCEPTUAL EXAMPLE 8;16
+Angular momentum, like linear momentum, is a vector quantity. For a sym-
+metrical object rotating about a symmetry axis (such as a wheel, cylinder, hoop,
+or sphere), we can write the vector angular momentum as
+(8;21)
+The angular velocity vector 
+(and therefore also ) points along the axis of rota-
+tion in the direction given by the right-hand rule (Fig. 8–30b).
+The vector nature of angular momentum can be used to explain a number 
+of interesting (and sometimes surprising) phenomena. For example, consider a
+person standing at rest on a circular platform capable of rotating without fric-
+tion about an axis through its center (that is, a simplified merry-go-round). If 
+the person now starts to walk along the edge of the platform, Fig. 8–31a, the 
+platform starts rotating in the opposite direction. Why? O

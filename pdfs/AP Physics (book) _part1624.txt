@@ -1,0 +1,22 @@
+nd a practical device to do so was
+invented only about 1700 with the development of the steam engine.
+The basic idea behind any heat engine is that mechanical energy can be
+obtained from thermal energy only when heat is allowed to flow from a high 
+temperature to a low temperature. In the process, some of the heat can then be
+transformed to mechanical work, as diagrammed schematically in Fig. 15–11.
+Useful heat engines run in a repeating cycle: that is, the system returns repeat-
+edly to its starting point, and thus can run continuously. In each cycle the change
+in internal energy of the system is 
+because it returns to the starting state.
+Thus a heat input 
+at a high temperature 
+is partly transformed into work W and
+partly exhausted as heat 
+at a lower temperature 
+(Fig. 15–11). By conservation
+of energy,
+The high and low temperatures,
+and 
+are called
+the operating temperatures of the engine. Note carefully that we are now using a
+new (and intuitive) sign convention for heat engines:

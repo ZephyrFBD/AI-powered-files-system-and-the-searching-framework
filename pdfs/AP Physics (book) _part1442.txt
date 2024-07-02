@@ -1,0 +1,47 @@
+37°C)
+v
+FIGURE 13–20 Distribution of
+molecular speeds for two different
+temperatures. Color shading shows
+proportions of molecules above a
+certain speed (corresponding to an
+activation energy
+).
+EA = 1
+2 mv2
+P
+Gas
+B′ A′
+a
+c
+b
+A
+B
+C
+D
+Liquid-
+vapor
+region
+Liquid
+V
+Vapor
+FIGURE 13–21 PV diagram for a
+real substance. Curves A, B, C,
+and D represent the same substance
+at different temperatures
+(T
+A 7 T
+B 7 T
+C 7 T
+D).
+13–1
+1 Real Gases and Changes of Phase
+The ideal gas law,
+, is an accurate description of the behavior of a
+real gas as long as the pressure is not too high and the temperature is far from 
+the liquefaction point. But what happens when these two criteria are not satisfied?
+First we discuss real gas behavior, and then we examine how kinetic theory can
+help us understand this behavior.
+Let us look at a graph of pressure plotted against volume for a given amount
+of gas. On such a PV diagram, Fig. 13–21, each point represents the pressure and
+volume of an equilibrium state of the

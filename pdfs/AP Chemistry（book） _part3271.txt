@@ -1,0 +1,27 @@
+d in 1.00 h by the electrolysis of molten AlCl3 if the electrical current is 
+10.0 A.
+Analyze We are told that AlCl3 is electrolyzed to form Al and asked 
+to calculate the number of grams of Al produced in 1.00 h with 
+10.0 A.
+Plan Figure 20.30 provides a roadmap for this problem. Using the 
+current, time, a balanced half-reaction, and the atomic weight of 
+aluminum we can calculate the mass of Al produced.
+SOLUTION
+Sample Exercise 20.14 
+Relating Electrical Charge and Quantity of Electrolysis
+Solve 
+First, we calculate the coulombs of electrical 
+charge passed into the electrolytic cell (note 
+that 10.0 A = 10.0 C/s):
+ 
+▶Practice Exercise 1
+How much time is needed to deposit 1.0 g of chromium 
+metal from an aqueous solution of CrCl3 using a current  
+of 1.5 A? 
+(a) 3.8 * 10-2 s (b) 21 min (c) 62 min (d) 139 min  
+(e) 3.2 * 103 min
+ 
+▶Practice Exercise 2
+(a) The half-reaction for formation of magnesium metal 
+upon electrolysis of molten MgCl2 is Mg2+ + 2 e- ¡ Mg. 
+Calculate the mass of

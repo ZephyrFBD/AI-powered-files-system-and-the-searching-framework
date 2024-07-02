@@ -1,0 +1,26 @@
+owing equations can be used to
+describe population growth.
+General rate equation:
+dY is change in Y.
+dt is change in time.
+The population growth rate can measured by comparing the birth rate and the death rate in a population:
+dN is change in population size.
+dt is change in time.
+B is the birth rate.
+D is the death rate.
+If a population is growing exponentially, you may use the following equation:
+rmax is the maximum per capita growth rate of a population.
+N is population size.
+If a population is growing logistically, you may use the following equation:
+K is the carrying capacity.
+Equations for Surface Area and Volume
+The surface area to volume ratio of a cell has a big effect on how efficiently it can exchange materials with its
+environment. The table lists some commonly used surface area formulas and volume formulas for various shapes. In
+these formulas, note the following:
+h is height.
+l is length.
+r is radius.
+s is length of one side of a cube.
+w is width.
+Shape
+Surface Area Formu

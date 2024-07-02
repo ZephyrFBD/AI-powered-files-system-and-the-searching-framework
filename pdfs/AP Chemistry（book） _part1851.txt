@@ -1,0 +1,18 @@
+2   
+Structures of Solids 
+477
+478 
+CHAPTER 12 Solids and Modern Materials
+A Closer look X-ray Diffraction
+12.3 ∣ Metallic Solids
+Metallic solids, also simply called metals, consist entirely of metal atoms. The bond-
+ing in metals is too strong to be due to dispersion forces, and yet there are not enough 
+valence electrons to form covalent bonds between atoms. The bonding, called metallic 
+bonding, happens because the valence electrons are delocalized throughout the entire 
+solid. That is, the valence electrons are not associated with specific atoms or bonds but 
+are spread throughout the solid. In fact, we can visualize a metal as an array of positive 
+ions immersed in a “sea” of delocalized valence electrons.
+When light waves pass through a narrow slit, they are scattered in such 
+a way that the wave seems to spread out. This physical phenomenon 
+is called diffraction. When light passes through many evenly spaced 
+narrow slits (a diffraction grating), the scattered waves interact to 

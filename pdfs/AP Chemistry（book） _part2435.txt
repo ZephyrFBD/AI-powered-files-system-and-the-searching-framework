@@ -1,0 +1,18 @@
+ a gaseous equilib-
+rium mixture causes the system to shift in the direction that reduces the number of moles of gas. 
+Increasing the volume causes a shift in the direction that produces more gas molecules 
+(Figure 15.13).
+ 
+SECTION 15.7  Le Châtelier’s Principle 
+647
+648 
+CHAPTER 15 Chemical Equilibrium
+In the reaction N21g2 + 3 H21g2 ∆ 2 NH31g2, four molecules of reactant are 
+consumed for every two molecules of product produced. Consequently, an increase in 
+pressure (caused by a decrease in volume) shifts the reaction in the direction that pro-
+duces fewer gas molecules, which leads to the formation of more NH3, as indicated in 
+Figure 15.10. In the reaction H21g2 + I21g2 ∆ 2 HI1g2, the number of molecules of 
+gaseous products (two) equals the number of molecules of gaseous reactants; therefore, 
+changing the pressure does not influence the position of equilibrium.
+Keep in mind that, as long as temperature remains constant, pressure–volume 
+changes do not change the value of K. Rat

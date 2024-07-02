@@ -1,0 +1,15 @@
+of light entering a gas will emerge with dark
+(absorption) lines at frequencies that correspond to emission lines (Fig. 27–23c).
+The Bohr theory also ensures the stability of atoms. It establishes stability by
+decree: the ground state is the lowest state for an electron and there is no lower
+energy level to which it can go and emit more energy. Finally, as we saw above,
+the Bohr theory accurately predicts the ionization energy of 13.6 eV for hydro-
+gen. However, the Bohr model was not so successful for other atoms, and has
+been superseded as we shall discuss in the next Chapter. We discuss the Bohr
+model because it was an important start and because we still use the concept of
+stationary states, the ground state, and transitions between states. Also, the ter-
+minology used in the Bohr model is still used by chemists and spectroscopists.
+Wavelength of a Lyman line. Use Fig. 27–29 to deter-
+mine the wavelength of the first Lyman line, the transition from
+to
+In what region of the electrom

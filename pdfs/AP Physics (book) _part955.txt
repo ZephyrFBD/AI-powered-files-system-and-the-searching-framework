@@ -1,0 +1,15 @@
+is a straight line. Beyond this point, the graph deviates from
+a straight line, and no simple relationship exists between F and 
+Nonetheless,
+up to a point farther along the curve called the elastic limit, the object will return
+to its original length if the applied force is removed. The region from the origin 
+to the elastic limit is called the elastic region. If the object is stretched beyond 
+the elastic limit, it enters the plastic region: it does not return to the original length
+upon removal of the external force, but remains permanently deformed (such as
+a bent paper clip). The maximum elongation is reached at the breaking point. The
+maximum force that can be applied without breaking is called the ultimate strength
+of the material (actually, force per unit area, as we discuss in Section 9–6).
+Young’s Modulus
+The amount of elongation of an object, such as the rod shown in Fig. 9–18,
+depends not only on the force applied to it, but also on the material of which it is
+made and on i

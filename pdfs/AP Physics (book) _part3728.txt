@@ -1,0 +1,14 @@
+axies very near us seem to be moving randomly relative to us: some move
+towards us (blueshifted), others away from us (redshifted); their speeds are on
+the order of 0.001c. But for more distant galaxies, the velocity of recession is much
+greater than the velocity of local random motion, and so is dominant and Hubble’s
+law (Eq. 33–4) holds very well. More distant galaxies have higher recession
+velocity and a larger redshift, and we call their redshift a cosmological redshift.
+We interpret this redshift today as due to the expansion of space itself. We can
+think of the originally emitted wavelength 
+as being stretched out (becoming
+longer) along with the expanding space around it, as suggested in Fig. 33–21.
+Although Hubble thought of the redshift as a Doppler shift, now we prefer to
+understand it in this sense of expanding space. (But note that atoms in galaxies
+do not expand as space expands; they keep their regular size.)
+There is a third way to produce a redshift, which we mention fo

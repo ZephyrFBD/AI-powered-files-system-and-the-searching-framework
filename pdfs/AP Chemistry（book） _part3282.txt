@@ -1,0 +1,16 @@
+
+separately, and the two are brought together with proper coefficients 
+to balance the electrons on each side of the equation, so the elec-
+trons cancel when the half-reactions are added.
+VOLTAIC CELLS (SECTION 20.3) A voltaic (or galvanic) cell uses a 
+spontaneous oxidation–reduction reaction to generate electricity. In 
+a voltaic cell the oxidation and reduction half-reactions often occur 
+in separate half-cells. Each half-cell has a solid surface called an elec-
+trode, where the half-reaction occurs. The electrode where oxidation 
+occurs is called the anode, and the electrode where reduction occurs is 
+called the cathode. The electrons released at the anode flow through 
+an external circuit (where they do electrical work) to the cathode. 
+Electrical neutrality in the solution is maintained by the migration of 
+ions between the two half-cells through a device such as a salt bridge.
+CELL POTENTIALS UNDER STANDARD CONDITIONS (SEC- 
+TION 20.4) A voltaic cell generates an electromotive f

@@ -1,0 +1,20 @@
+, a region about a central 
+atom in which an electron pair is concentrated. (Section 9.2)
+electron-domain geometry The three-dimensional arrangement 
+of the electron domains around an atom according to the VSEPR 
+model. (Section 9.2)
+electronegativity A measure of the ability of an atom that 
+is bonded to another atom to attract electrons to itself. 
+(Section 8.4)
+electronic charge The negative charge carried by an electron; it 
+has a magnitude of 1.602 * 10-19 C. (Section 2.3)
+electronic structure The arrangement of electrons in an atom or 
+molecule. (Chapter 6: Introduction)
+electron-sea model A model for the behavior of electrons in 
+metals. (Section 12.4)
+electron shell A collection of orbitals that have the same value 
+of n. For example, the orbitals with n = 3 (the 3s, 3p, and 3d 
+orbitals) comprise the third shell. (Section 6.5)
+electron spin A property of the electron that makes it behave as 
+though it were a tiny magnet. The electron behaves as if it were 
+spinning on its axis

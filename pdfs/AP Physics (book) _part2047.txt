@@ -1,0 +1,54 @@
+ velocity in an oscillation is
+related to the maximum displacement; see Chapter 11.]
+*8. Capacitance of an axon. (a) Do an order-of-magnitude esti-
+mate for the capacitance of an axon 10 cm long of radius
+The thickness of the membrane is about 
+and the dielectric constant is about 3. (b) By what factor
+does the concentration (number of ions per volume) of 
+ions in the cell change as a result of one action potential?
+Na±
+10–8 m,
+10 mm.
+Search and Learn
+A:
+B: 3600 C.
+C:
+D: (b), (c).
+E: (c).
+240 .
+1.6 * 10–13 A.
+F: 110 m.
+G: (d).
+H: 370,000 kg, or about 5000 people.
+I:
+(e) 40.
+ANSWERS TO EXERCISES
+2.2 mF
+2.2mF
+2.2 mF
+470 mF
+0.1 mF
+470 mF
+IC3
+50 kΩ
+47 kΩ
+2.7 kΩ
+15 V
+Headset or speaker
+8 Ω
+Input to
+each
+channel
+DC Circuits
+526
+CONTENTS
+19–1 EMF and Terminal Voltage
+19–2 Resistors in Series and in
+Parallel
+19–3 Kirchhoff’s Rules
+19–4 EMFs in Series and in Parallel;
+Charging a Battery
+19–5 Circuits Containing Capacitors
+in Series and in Parallel
+19–6 RC Circuits—Resistor and
+Capacitor in Ser

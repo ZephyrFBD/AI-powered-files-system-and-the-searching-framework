@@ -1,0 +1,31 @@
+constant, Kp, and the equilib-
+rium partial pressures of two of the three substances in the equa-
+tion 1N2 and H22, and we are asked to calculate the equilibrium 
+partial pressure for the third substance 1NH32.
+Plan We can set Kp equal to the equilibrium-constant expression 
+and substitute in the partial pressures that we know. Then we can 
+solve for the only unknown in the equation.
+Solve 
+We tabulate the equilibrium pressures:
+N21g2+ 3 H21g2 ∆ 2 NH31g2
+Equilibrium pressure 1atm2  0.432  0.928       x
+Because we do not know the equilibrium pressure of NH3, we 
+represent it with x. At equilibrium, the pressures must satisfy 
+the equilibrium-constant expression:
+Kp =
+1P
+NH322
+P
+N21P
+H223 =
+x2
+10.432210.92823 = 1.45 * 10-5
+We now rearrange the equation to solve for x:
+ x2 = 11.45 * 10-5210.432210.92823 = 5.01 * 10-6
+ x = 25.01 * 10-6 = 2.24 * 10-3 atm = P
+NH3
+Check We can always check our answer by using it to recalculate 
+the value of the equilibrium constant:
+Kp =
+12.24 * 10-322
+10.432

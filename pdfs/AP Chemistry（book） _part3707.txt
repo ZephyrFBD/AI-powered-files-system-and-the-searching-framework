@@ -1,0 +1,24 @@
+at the mirror image of the isomer is identical to the 
+original. Consequently trans-3Co(en)2Cl24+ does not exhibit opti-
+cal isomerism.
+Analyze We are given the chemical formula for two geometric 
+isomers and asked to determine whether either one has optical 
+isomers. Because en is a bidentate ligand, we know that both  
+complexes are octahedral and both have coordination  
+number 6.
+Plan We need to sketch the structures of the cis and trans isomers 
+and their mirror images. We can draw the en ligand as two N at-
+oms connected by an arc. If the mirror image cannot be superim-
+posed on the original structure, the complex and its mirror image 
+are optical isomers.
+ 
+▶Practice Exercise 1
+Which of the following complexes has an optical isomer? 
+(a) Tetrahedral 3CdBr2Cl242- (b) Octahedral 3CoCl4(en)42-  
+(c) Octahedral 3Co(NH3)4Cl242+ (d) Tetrahedral 
+3Co(NH3)BrClI4-
+ 
+▶Practice Exercise 2
+Does the square-planar complex ion 3Pt(NH3)(N3)ClBr4- have 
+optical isomers? Explain your answer.
+SOLU

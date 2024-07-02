@@ -1,0 +1,54 @@
+n
+action potential, so the action potential moves down the axon (Figs. 18–31c and d).
+You may wonder if the number of ions that pass through the membrane would
+significantly alter the concentrations. The answer is no; and we can show why (and
+again show the power and usefulness of physics) by treating the axon as a capacitor
+as we do in Search and Learn Problem 8 (the concentration changes by less than
+1 part in 104).
+Action potential moving right
+Point of stimulation
+Membrane
+Exterior
+Interior
+(a)
+(b)
+(c)
+(d)
+–
++
++
++ + + + + + + + +
+–
+– + + – – – – – – – – – –
+–
++
++
++ + + + + + + + +
+–
+– + + – – – – – – – – – –
++
++ + + + + + +
+– – – – – – – –
+– + +
++ – –
++
++ + + + + +
+– – – – – – –
++ +
+– –
++
++
+–
+–
++ –
++ –
++
+–
++
+–
+An electric battery serves as a source of nearly constant poten-
+tial difference by transforming chemical energy into electric
+energy. A simple battery consists of two electrodes made of
+different metals immersed in a solution or paste known as an
+electrolyte.
+Electric curren

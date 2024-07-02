@@ -1,0 +1,13 @@
+cids
+are specified by more than one codon.
+The mRNA attaches to the ribosome to initiate translation and “waits” for the appropriate amino acids to come to the
+ribosome. That’s where tRNA comes in. A tRNA molecule has a unique three-dimensional structure that resembles
+a four-leaf clover:
+One end of the tRNA carries an amino acid. The other end, called an anticodon, has three nitrogenous bases that can
+complementarily base pair with the codon in the mRNA. Usually, the normal rules of base pairing are set in stone,
+but tRNA anticodons can be a bit flexible when they bind with a codon on an mRNA, especially the third nucleotide
+in an anticodon. The third position is said to experience wobble pairing. Things that don’t normally bind will pair
+up, like guanine and uracil.
+Transfer RNAs are the “go-betweens” in protein synthesis. Each tRNA becomes charged and enzymatically attaches
+to an amino acid in the cell’s cytoplasm and “shuttles” it to the ribosome. The charging enzymes involved in
+f

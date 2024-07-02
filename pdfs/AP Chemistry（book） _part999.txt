@@ -1,0 +1,23 @@
+ectron 
+configurations, 1s22s22p1, because each has five electrons.
+(b) The complete orbital diagram is
+2p
+2s
+1s
+The valence electrons are the ones in the outermost occupied 
+shell, the 2s2 and 2p1 electrons. The 1s2 electrons constitute 
+the core electrons, which we represent as 3He4 when we write 
+the  
+condensed electron configuration, 3He42s22p1.
+(c) The 1s and 2s orbitals are both spherical, but they differ in 
+three important respects: First, the 1s orbital is lower in energy 
+than the 2s orbital. Second, the average distance of the 2s elec-
+trons from the nucleus is greater than that of the 1s electrons, 
+so the 1s orbital is smaller than the 2s. Third, the 2s orbital has 
+one node, whereas the 1s orbital has no nodes (Figure 6.19).
+(d) The balanced chemical equation is
+2 B1s2 + 3 F21g2 ¡ 2 BF31g2
+(e)  ∆H ° = 21-1135.62 - 30 + 04 = -2271.2 kJ. The reaction is 
+strongly exothermic.
+(f) As we saw in Equation 3.10 (Section 3.3), the mass percent-
+age of an element in a substance de

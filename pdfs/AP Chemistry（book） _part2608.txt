@@ -1,0 +1,24 @@
+acid, contain one or more O ¬H bonds:
+O
+O
+O
+O
+H
+H
+S
+Acids in which OH groups and possibly additional oxygen atoms are bound to a central 
+atom are called oxyacids. At first it may seem confusing that the OH group, which we 
+know behaves as a base, is also present in some acids. Let’s take a closer look at what fac-
+tors determine whether a given OH group behaves as a base or as an acid.
+Consider an OH group bound to some atom Y, which might in turn have other 
+groups attached to it:
+O
+H
+Y
+At one extreme, Y might be a metal, such as Na or Mg. Because of the low electronegativ-
+ity of metals, the pair of electrons shared between Y and O is completely transferred to 
+oxygen, and an ionic compound containing OH- is formed. Such compounds are there-
+fore sources of OH- ions and behave as bases, as in NaOH and Mg1OH22.
+When Y is a nonmetal, the bond to O is covalent and the substance does not read-
+ily lose OH-. Instead, these compounds are either acidic or neutral. Generally, as the 
+electr

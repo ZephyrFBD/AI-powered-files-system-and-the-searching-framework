@@ -1,0 +1,22 @@
+chlorous acid. Conse-
+quently, the ClO- ion acts as a weak base in water:
+ 
+ClO-1aq2 + H2O1l2 ∆ HClO1aq2 + OH-1aq2  Kb = 3.3 * 10-7 
+[16.37]
+In Figure 16.6 we saw that bleach is quite basic (pH values of 12–13). Common chlo-
+rine bleach is typically a 5% NaOCl solution.
+Check The value obtained for x is only about 1% of the NH3 concen-
+tration, 0.15 M. Therefore, neglecting x relative to 0.15 was justified.
+Comment You may be asked to find the pH of a solution of 
+a weak base. Once you have found 3OH-4, you can proceed 
+as in Sample Exercise 16.9, where we calculated the pH of a 
+strong base. In the present sample exercise, we have seen that 
+the 0.15 M solution of NH3 contains 3OH-4 =  1.6 * 10-3 M. 
+Thus, pOH = -log11.6 * 10-32 = 2.80, and pH =
+14.00 - 2.80 = 11.20. The pH of the solution is above 7 because 
+we are dealing with a solution of a base.
+ 
+▶Practice Exercise 1
+What is the pH of a 0.65 M solution of pyridine, C5H5N? (See 
+Table 16.4 for Kb.)
+(a) 4.48 (b) 8.96 (c) 9.52 (d) 

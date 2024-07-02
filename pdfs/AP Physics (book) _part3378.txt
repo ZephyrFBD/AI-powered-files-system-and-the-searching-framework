@@ -1,0 +1,19 @@
+umber. This simple unit of activity is called the
+becquerel:
+as discussed in Chapter 31.
+Safety: Activity versus half-life. One
+might think that a short half-life material is safer than a long half-life material
+because it will not last as long. Is that true?
+RESPONSE No. A shorter half-life means the activity is higher and thus more
+“radioactive” and can cause more biological damage. In contrast, a longer half-life
+for the same sample size N means a lower activity but we have to worry about it
+for longer and find safe storage until it reaches a safe (low) level of activity.
+A sample of radioactive 
+A laboratory has 
+of pure 
+which has a half-life of 10.0 min (600 s). (a) How many nuclei are
+present initially? (b) What is the rate of decay (activity) initially? (c) What is the
+activity after 1.00 h? (d) After approximately how long will the activity drop to less
+than one per second
+APPROACH We use the definition of the mole and Avogadro’s number
+(Sections 13–6 and 13–8) to find (a) the

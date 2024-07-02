@@ -1,0 +1,15 @@
+n object is at
+rest on the Earth, the gravitational force on it does not disappear, as we know if
+we weigh it on a spring scale. The same force, given by Eq. 4–3, continues to act.
+Why, then, doesn’t the object move? From Newton’s second law, the net force 
+on an object that remains at rest is zero. There must be another force on the
+object to balance the gravitational force. For an object resting on a table, the table
+exerts this upward force; see Fig. 4–14a. The table is compressed slightly beneath
+the object, and due to its elasticity, it pushes up on the object as shown. The force
+exerted by the table is often called a contact force, since it occurs when two objects
+are in contact. (The force of your hand pushing on a cart is also a contact force.)
+When a contact force acts perpendicular to the common surface of contact, it 
+is referred to as the normal force (“normal” means perpendicular); hence it is
+labeled 
+in Fig. 4–14a.
+The two forces shown in Fig. 4–14a are both acting on th

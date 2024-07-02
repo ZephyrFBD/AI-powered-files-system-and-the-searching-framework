@@ -1,0 +1,30 @@
+l bipyramidal. The O atom can be either equatorial or axial.
+F
+F
+O
+S
+F
+F
+or
+F
+F
+S
+F
+O
+F
+(e) In the structure on the left, there are 3 equatorial and 1 axial ﬂuo-
+rine atoms. In the structure on the right, there are 2 equatorial and 
+2 axial ﬂuorine atoms. 9.118 ∆H from bond enthalpies is 5364 kJ; 
+∆H from ∆H°
+f values is 5535 kJ. The difference in the two results, 
+171 kJ  >  mol C6H6, is due to the resonance stabilization in benzene. 
+Because the p electrons are delocalized, the molecule has a lower 
+overall energy than that predicted using bond enthalpies for localized 
+C ¬ C and C “C bonds. Thus, the amount of energy actually required 
+to decompose 1 mole of C6H6(g), represented by the Hess’ law calcula-
+tion, is greater than the sum of the localized bond enthalpies.
+A-12 
+Answers to Selected Exercises
+(c) Cyclopropane would effuse through a pinhole slower than meth-
+ane, because it has the greater molar mass. 10.120 (a) 44.58% C, 
+6.596% H, 16.44% Cl, 32.38% N (b) C8H14N5Cl (c) Mol

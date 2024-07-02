@@ -1,0 +1,30 @@
+ction. There is no contradiction, however, because the relationship between ∆H and 
+qP has special limitations that only P–V work is involved and that the pressure is constant.
+Continued
+ Magnitude of work = F * ∆h = P * A * ∆h 
+ = P * ∆V
+Because the system (the conﬁned gas) does work on the 
+surroundings, the work is a negative quantity:
+ 
+w = -P∆V 
+[5.11]
+Now, if P–V work is the only work that can be done, we 
+can substitute Equation 5.11 into Equation 5.4 to give
+ 
+∆E = q + w = q - P∆V 
+[5.12]
+When a reaction is carried out in a constant-volume container 
+1∆V = 02, the heat transferred equals the change in internal 
+energy:
+∆E = q - P∆V = q - P102 = qV 
+1constant volume2  
+[5.13]
+The subscript V indicates that the volume is constant.
+Most reactions are run under constant pressure, so that 
+Equation 5.12 becomes
+ ∆E = qP - P∆V
+ 
+ qP = ∆E + P∆V 1constant pressure2 
+[5.14]
+We see from Equation 5.8 that the right side of Equation 5.14 
+is the enthalpy change under constant-pressure cond

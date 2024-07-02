@@ -1,0 +1,28 @@
+ates the difference between these two concepts.
+In the laboratory, we often perform several “trials” of an experiment and average the 
+results. The precision of the measurements is often expressed in terms of the standard 
+deviation (Appendix A.5), which reflects how much the individual measurements differ 
+from the average. We gain confidence in our measurements if we obtain nearly the same 
+value each time—that is, when the standard deviation is small. Figure 1.24 reminds us, 
+High precision can be achieved on a scale 
+like this one, which has 0.1 mg accuracy.
+effective therapies. This work illustrates the complex and sometimes 
+tortuous path that takes the scientist from promising beginnings to a 
+much desired goal.
+ 
+SECTION 1.6   
+Uncertainty in Measurement 
+25
+Good accuracy
+Good precision
+Poor accuracy
+Good precision
+Poor accuracy
+Poor precision
+▲ Figure 1.24 Precision and accuracy.
+ 
+ 
+Go Figure
+How would the darts be positioned 
+on the target for the case of “good 
+accuracy, po

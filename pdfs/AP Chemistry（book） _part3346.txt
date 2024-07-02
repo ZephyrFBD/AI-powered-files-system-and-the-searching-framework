@@ -1,0 +1,24 @@
+nucleus. We represent this reaction by 
+the nuclear equation
+ 
+238
+92U ¡ 234
+90Th +  4
+2He 
+[21.1]
+*As noted in Section 2.3, we often do not explicitly write the atomic number of an isotope be-
+cause the element symbol is specific to the atomic number. In studying nuclear chemistry, how-
+ever, it is often useful to include the atomic number in order to help us keep track of changes in 
+the nuclei.
+ 
+SECTION 21.1   
+Radioactivity and Nuclear Equations 
+903
+In Equation 21.1 the sum of the mass numbers is the same on both sides of the equa-
+tion 1238 = 234 + 42. Likewise, the sum of the atomic numbers on both sides of the 
+equation is equal 192 = 90 + 22. Mass numbers and atomic numbers must be balanced 
+in all nuclear equations.
+The radioactive properties of the nucleus in an atom are independent of the chemi-
+cal state of the atom. In writing nuclear equations, therefore, we are not concerned with 
+the chemical form (element or compound) of the atom in which the nucleus resides.
+Give It

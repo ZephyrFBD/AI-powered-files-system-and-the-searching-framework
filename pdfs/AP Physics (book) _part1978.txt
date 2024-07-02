@@ -1,0 +1,29 @@
+ase in temperature.
+a
+a
+rT
+T
+0
+r0
+rT = r0C1 + aAT - T
+0B D
+Resistance thermometer. The variation in electrical resis-
+tance with temperature can be used to make precise temperature measurements.
+Platinum is commonly used since it is relatively free from corrosive effects and has
+a high melting point. Suppose at 20.0°C the resistance of a platinum resistance
+thermometer is 
+When placed in a particular solution, the resistance is
+What is the temperature of this solution?
+APPROACH Since the resistance R is directly proportional to the resistivity 
+we can combine Eq. 18–3 with Eq. 18–4 to find R as a function of temperature T,
+and then solve that equation for T.
+SOLUTION Equation 18–3 tells us 
+so we multiply Eq. 18–4 by
+to obtain 
+Here 
+is the resistance of the wire at 
+We solve this
+equation for T and find (see Table 18–1 for )
+NOTE Resistance thermometers have the advantage that they can be used at
+very high or low temperatures where gas or liquid thermometers would be useless.
+NOTE Mor

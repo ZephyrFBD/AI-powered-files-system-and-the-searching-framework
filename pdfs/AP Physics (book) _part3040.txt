@@ -1,0 +1,13 @@
+y probe, whose tip may be only one (or a few) atoms wide, that is
+moved across the specimen to be examined in a series of linear passes. The tip, as
+it scans, remains very close to the surface of the specimen, about 1 nm above it,
+Fig. 27–17. A small voltage applied between the probe and the surface causes
+electrons to leave the surface and pass through the vacuum to the probe, by a
+process known as tunneling (discussed in Section 30–12). This “tunneling”
+current is very sensitive to the gap width, so a feedback mechanism can be used
+to raise and lower the probe to maintain a constant electron current. The probe’s
+vertical motion, following the surface of the specimen, is then plotted as a
+function of position, scan after scan, producing a three-dimensional image of the
+surface. Surface features as fine as the size of an atom can be resolved: a resolu-
+tion better than 50 pm (0.05 nm) laterally and 0.01 to 0.001 nm vertically. This
+kind of resolution has given a great impetus to the st

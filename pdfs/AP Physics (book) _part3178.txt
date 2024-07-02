@@ -1,0 +1,46 @@
+transition sooner to the lower state,
+Fig. 28–16b. This phenomenon is called stimulated emission: not only do we still
+have the original photon, but also a second one of the same frequency as a result
+10–8 s.
+10–8 s.
+*
+820
+CHAPTER 28
+P H Y S I C S  A P P L I E D
+Fluorescence analysis and
+fluorescent lightbulbs
+FIGURE 28–14 Fluorescence.
+FIGURE 28–15 When UV light 
+(a range of wavelengths) illuminates
+these various “fluorescent” rocks,
+they fluoresce in the visible region
+of the spectrum.
+FIGURE 28–16 (a) Absorption of a
+photon. (b) Stimulated emission.
+and 
+refer to “upper” and
+“lower” energy states.
+El
+Eu
+One
+photon
+absorbed
+Two
+photons
+emitted
+(a)
+hf = Eu −El
+hf = Eu −El
+Eu
+hf
+El
+(b)
+Eu
+hf
+El
+†See also Section 24–3.
+of the atom’s transition. These two photons are exactly in phase, and they are
+moving in the same direction. This is how coherent light is produced in a laser.
+The name “laser” is an acronym for Light Amplification by Stimulated Emission
+of Radiation.
+Normally, most atoms

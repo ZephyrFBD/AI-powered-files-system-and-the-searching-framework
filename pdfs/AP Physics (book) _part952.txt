@@ -1,0 +1,14 @@
+ipped
+further, the CG goes past the pivot point and the torque causes the object to topple,
+Fig. 9–16c. In general, an object whose center of gravity is above its base of support
+will be stable if a vertical line projected downward from the CG falls within the base
+of support. This is because the normal force upward on the object (which balances
+out gravity) can be exerted only within the area of contact, so if the force of gravity
+acts beyond this area, a net torque will act to topple the object.
+Stability, then, can be relative. A brick lying on its widest face is more stable
+than a brick standing on its end, for it will take more of an effort to tip it over. In
+the extreme case of the pencil in Fig. 9–15b, the base is practically a point and the
+slightest disturbance will topple it. In general, the larger the base and the lower
+the CG, the more stable the object.
+In this sense, humans are less stable than four-legged mammals, which have a
+larger base of support because of their four

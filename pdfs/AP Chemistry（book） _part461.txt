@@ -1,0 +1,52 @@
+lustrated in Figure 3.16. These three 
+conversions can be combined in a single equation:
+ Grams CO2 = 11.00 g C4H102a 1 mol C4H10
+58.0 g C4H10
+b a 8 mol CO2
+2 mol C4H10
+b a
+44.0 g CO2
+1 mol CO2
+b 
+ = 3.03 g CO2
+To calculate the amount of O2 consumed in the reaction of Equation 3.13, we 
+again rely on the coefficients in the balanced equation for our stoichiometric factor, 
+2 mol C4H10 ] 13 mol O2:
+ Grams O2 = 11.00 g C4H102a 1 mol C4H10
+58.0 g C4H10
+b a 13 mol O2
+2 mol C4H10
+b a
+32.0 g O2
+1 mol O2
+b 
+ = 3.59 g O2
+Grams of
+substance A
+Given:
+Find:
+Use
+molar
+mass of A
+Use coefficients
+from balanced
+equation
+Moles of
+substance A
+Moles of
+substance B
+Use
+molar
+mass of B
+Grams of
+substance B
+1
+2
+3
+Give It Some Thought 
+In the previous example, 1.00 g of C4H10 reacts with 3.59 g of O2 to form 3.03 g of 
+CO2. Using only addition and subtraction, calculate the amount of H2O produced.
+ 
+Sample Exercise 3.16 
+Calculating Amounts of Reactants and Products
+Determine how many grams of water are pro

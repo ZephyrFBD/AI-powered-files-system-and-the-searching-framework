@@ -1,0 +1,19 @@
+on the top of Mt. Wilson in southern California
+and the stationary mirror on Mt. Baldy (Mt. San Antonio) 35 km away. He later
+measured the speed of light in vacuum using a long evacuated tube.
+Today the speed of light, c, in vacuum is taken as
+and is defined to be this value. This means that the standard for length, the meter,
+is no longer defined separately. Instead, as we noted in Section 1–5, the meter is
+now formally defined as the distance light travels in vacuum in 1 299,792,458 of
+a second.
+We usually round off c to
+when extremely precise results are not required. In air, the speed is only slightly
+less.
+22–5 Energy in EM Waves
+Electromagnetic waves carry energy from one region of space to another. This
+energy is associated with the moving electric and magnetic fields. In Section 17–9,
+we saw that the energy density 
+stored in an electric field E is
+(Eq. 17–11). The energy density stored in a magnetic field B, as we discussed in
+Section 21–11, is given by 
+(Eq. 21–10). Thus, the

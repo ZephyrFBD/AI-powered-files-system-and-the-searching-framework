@@ -1,0 +1,20 @@
+ upper left cell in Fig. 21–29, word-line-1 is given
+a high enough pulse of voltage to “turn on” the transistor. That is, the high gate
+voltage attracts charge and allows bit-line-1 and the capacitor to be connected. Thus
+charge can flow from bit-line-1 to the capacitor, charging it either to V or to 0,
+depending on the bit-line-1 voltage at that moment, thus writing a “1” or a “0”.
+The lower left cell in Fig. 21–29 can be written at the same time by setting
+bit-line-2 voltage to V or zero.
+Now let us see a simple way to read a cell. In order to read the data stored
+(“1” or “0”) on the upper left cell, a voltage of about 
+is given to bit-line-1.
+Then word-line-1 is given enough voltage to turn on the transistor and connect
+bit-line-1 to the capacitor. The capacitor, if uncharged (
+“0”), will now drag
+charge from bit-line-1 and the bit-line voltage will drop below
+If the capacitor
+is already charged to 
+(
+“1”), the connection to bit-line-1 will raise bit-line-1’s
+voltage to above
+A sens

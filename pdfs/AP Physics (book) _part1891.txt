@@ -1,0 +1,32 @@
+y distortion or unwanted
+(external) electrical signal that intrudes from outside, broadly called noise, can
+badly corrupt an analog signal: Fig. 17–27a shows a time-varying analog signal, and
+Fig. 17–27b shows nasty outside noise interfering with it. But a digital signal is
+still readable unless the noise is very large, on the order of half the bit signal itself
+(Figs. 17–27c and d).
+*
+t
+V
+0
+FIGURE 17–26  This type of complex
+signal is much more normal than the
+pure sine wave of Fig. 17–25.
+Sampling may not catch all the details,
+especially because the waveform is
+changing very fast in time.
+(a) Analog signal
+(b) Analog signal plus noise
+(c) Digital signal
+(d) Digital signal plus noise
+FIGURE 17–27 (a) Original analog
+signal and (b) the same signal dirtied up
+by outside signals (
+noise). (c) A digital
+signal is still readable (d) without 
+error if the noise is not too great.
+=
+490
+CHAPTER 17
+17–11 TV and Computer Monitors:
+CRTs, Flat Screens
+The first television receivers used a cathod

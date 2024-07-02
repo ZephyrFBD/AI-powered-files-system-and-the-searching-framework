@@ -1,0 +1,15 @@
+dic Properties of the Elements
+The irregularities in a given period are subtle but still readily explained. For exam-
+ple, the decrease in ionization energy from beryllium 13He42s22 to boron 13He42s22p12, 
+shown in Figure 7.10, occurs because the third valence electron of B must occupy the 2p 
+subshell, which is empty for Be. Recall that the 2p subshell is at a higher energy than 
+the 2s subshell (Figure 6.25). The slight decrease in ionization energy when moving from 
+nitrogen 13He42s22p32 to oxygen 13He42s22p42 is the result of the repulsion of paired 
+electrons in the p4 configuration (Figure 7.11). Remember that according to Hund’s rule, 
+each electron in the p3 configuration resides in a different p orbital, which minimizes the 
+ 
+electron–electron repulsion among the three 2p electrons. 
+ (Section 6.8)
+Electron Configurations of Ions
+When electrons are removed from an atom to form a cation, they are always removed first 
+from the occupied orbitals having the largest principal qua

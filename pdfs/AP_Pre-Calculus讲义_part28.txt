@@ -1,0 +1,86 @@
+.5.1 Forms of Quadratic Functions 
+A quadratic function is a polynomial function of degree 2. So a quadratic function is a 
+function of the form 
+2
+( )
+0
+f x
+ax
+bx
+c
+a
+=
++
++
+¹
+ 
+If we take a = 1 and b = c = 0 in the quadratic function 
+2
+( )
+,
+f x
+ax
+bx
+c
+=
++
++
+ 
+We get the quadratic function f(x) =x2, whose graph is the parabola.  
+A quadratic function f(x) = ax2 + bx + c can be expressed in the standard form 
+2
+( )
+(
+)
+f x
+a x
+h
+k
+=
+-
++
+ 
+by completing the square. The graph of f is a parabola with vertex (h, k); the parabola 
+opens upward if a > 0 or downward if a < 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 1 
+Let f(x) = 2x2 -12x +23. 
+(a) Express f in standard form. 
+(b) Find the vertex and x- and y-intercepts of f. 
+(c) Sketch the graph of f. 
+(d) Find the domain and range of f. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+1.5.2 Maximum and Minimum Values 
+Let f be a quadratic function with standard form 
+( )
+(
+)
+2
+.
+f x
+a x
+h
+k
+=
+-
++
+ 
+The maximum or minimum value of f occurs at x = h. 
+ 
+If a > 0, then the minimum

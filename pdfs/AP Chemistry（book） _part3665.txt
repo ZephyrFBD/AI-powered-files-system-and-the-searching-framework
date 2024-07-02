@@ -1,0 +1,33 @@
+nter-
+action. 
+ (Section 16.11) Because the ligands have available pairs of electrons, they can 
+function as Lewis bases (electron-pair donors). Metal ions (particularly transition-metal 
+ions) have empty valence orbitals, so they can act as Lewis acids (electron-pair acceptors). 
+We can picture the bond between the metal ion and ligand as the result of their sharing a 
+pair of electrons initially on the ligand:
+ 
+Ag+(aq) + 2
+H(aq)
+(aq)
+Ag
+N
+H
+H
+N
+H
+H
+H
+N
+H
+H
+H
++
+  
+[23.1]
+The formation of metal–ligand bonds can markedly alter the properties we observe 
+for the metal ion. A metal complex is a distinct chemical species that has physical and 
+chemical properties different from those of the metal ion and ligands from which it is 
+formed. As one example, Figure 23.9 shows the color change that occurs when aqueous 
+solutions of NCS- (colorless) and Fe3+ (yellow) are mixed, forming 3Fe(H2O)5NCS42+.
+Complex formation can also significantly change other properties of metal ions, 
+such as their

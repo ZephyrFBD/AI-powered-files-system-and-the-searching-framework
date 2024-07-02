@@ -1,0 +1,31 @@
+ergy of p (MeV)
+400
+600
+800
+p p
+p p
+Width
+
+The width of a resonance—in Fig. 32–14 the full width of the 
+peak at half
+the maximum is on the order of 100 MeV—is an interesting application of the
+uncertainty principle. If a particle lives only 
+then its mass (i.e., its rest
+energy) will be uncertain by an amount
+which is what is observed. Actually, the lifetimes of
+for such resonances
+are inferred by the reverse process: from the measured width being
+32–8 Strangeness? Charm?
+Towards a New Model
+In the early 1950s, the newly found particles K,
+and 
+were found to behave
+rather strangely in two ways. First, they were always produced in pairs. For
+example, the reaction
+occurred with high probability, but the similar reaction 
+was
+never observed to occur even though it did not violate any known conservation law.
+The second feature of these strange particles, as they came to be called, was that
+they were produced via the strong interaction (that is, at a high interaction rate),
+K0 + n
+S

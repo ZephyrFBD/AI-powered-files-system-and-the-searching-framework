@@ -1,0 +1,20 @@
+106
+(read “one point two multi ten to the sixth power”)
+0.000604 is 6.04 * 10-4
+(read “six point zero four times ten to the negative fourth 
+power”)
+A positive exponent, as in the first example, tells us how many times a number must 
+be multiplied by 10 to give the long form of the number:
+ 1.2 * 106 = 1.2 * 10 * 10 * 10 * 10 * 10 * 10 1six tens2
+ = 1,200,000
+It is also convenient to think of the positive exponent as the number of places the decimal 
+point must be moved to the left to obtain a number greater than 1 and less than 10. For 
+example, if we begin with 3450 and move the decimal point three places to the left, we 
+end up with 3.45 * 103.
+In a related fashion, a negative exponent tells us how many times we must divide a 
+number by 10 to give the long form of the number.
+6.04 * 10-4 =
+6.04
+10 * 10 * 10 * 10 = 0.000604
+It is convenient to think of the negative exponent as the number of places the decimal 
+point must be moved to the right to obtain a number greater than 1 but les

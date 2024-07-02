@@ -1,0 +1,26 @@
+he correct
+number of significant figures.
+Physical quantities are always specified relative to a
+particular standard or unit, and the unit used should always
+be stated. The commonly accepted set of units today is the
+Système International (SI), in which the standard units of
+length, mass, and time are the meter, kilogram, and second.
+When converting units, check all conversion factors for
+correct cancellation of units.
+Making rough, order-of-magnitude estimates is a very
+useful technique in science as well as in everyday life.
+[*The dimensions of a quantity refer to the combination
+of base quantities that comprise it. Velocity, for example, has
+dimensions of 
+or 
+Working with only the
+dimensions of the various quantities in a given relationship
+(this technique is called dimensional analysis) makes it
+possible to check a relationship for correct form.]
+[LT].
+[lengthtime]
+&
+Summary
+1. What are the merits and drawbacks of using a person’s
+foot as a standard?
+Consider both (a) a particul

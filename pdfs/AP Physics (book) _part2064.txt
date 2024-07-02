@@ -1,0 +1,78 @@
+I
+=
+24.0 V
+0.48 A = 50 .
+= 0.24 A + 0.24 A = 0.48 A.
+I = I
+1 + I
+2 =
+V
+R1
++ V
+R2
+= 24.0 V
+100  + 24.0 V
+100 
+V = 24.0 V.
+I = I
+1 + I
+2 .
+100-
+EXAMPLE 19;3
+RP =
+(a)
+ 12.0 V
+700 Ω
+500 Ω
+400 Ω
+I1
+I2
+I
+I
+b
+a
+12.0 V
+400 Ω
+a
+b
+c
+c
+290 Ω
+(b)
+FIGURE 19–7 (a) Circuit for
+Examples 19–4 and 19–5.
+(b) Equivalent circuit, showing the
+equivalent resistance of 
+for
+the two parallel resistors in (a).
+290 
+(a)
+(b)
+R1
+R1
+R2
+R2
+V = 24.0 V
+V = 24.0 V
+I
+I
+I1
+I2
+FIGURE 19–6 Example 19–3.
+Circuit with series and parallel resistors. How much
+current is drawn from the battery shown in Fig. 19–7a?
+APPROACH The current I that flows out of the battery all passes through the
+resistor, but then it splits into 
+and 
+passing through the 
+and
+resistors. The latter two resistors are in parallel with each other. We look
+for something that we already know how to treat. So let’s start by finding the
+equivalent resistance,
+of the parallel resistors,
+and 
+Then we
+can consider this 
+to be in series with the 
+resistor.
+S

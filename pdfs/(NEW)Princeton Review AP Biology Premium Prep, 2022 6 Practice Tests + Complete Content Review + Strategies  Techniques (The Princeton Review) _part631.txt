@@ -1,0 +1,13 @@
+
+an example of uniparental inheritance in which all progeny have the genotype and phenotype of the female
+parent.
+Maternal inheritance can be demonstrated in the haploid fungus Neurospora by crossing the fungi in such a
+way that one parent contributes the bulk of the cytoplasm to the progeny. This cytoplasm-contributing parent is
+called the female parent, even though no true sexual reproduction occurs. The inheritance patterns of a mutant
+strain of Neurospora called poky have been studied using such crosses. Poky differs from the wild-type in that
+it is slow-growing and has abnormal quantities of cytochromes.
+Investigators suspected that the poky mutation was carried in the mitochondria, instead of in the nuclear
+genome. The following experiments were designed to test this hypothesis.
+Step 1: Mitochondria were extracted from poky Neurospora mutants.
+Step 2: An ultrafine needle and syringe was used to inject these mitochondria into wild-type Neurospora cells.
+Step 3: These recipient cel

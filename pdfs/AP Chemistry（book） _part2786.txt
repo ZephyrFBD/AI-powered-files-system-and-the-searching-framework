@@ -1,0 +1,15 @@
+ on either side of a chemical 
+equation. For example, the equilibrium that exists between BaSO41s2, Ba2 +1aq2, and 
+SO4
+2 -1aq2 (Equation 17.15), can be achieved by starting either with BaSO41s2 or with 
+solutions containing Ba2 +  and SO4
+2 -. If we mix, say, a BaCl2 aqueous solution with a 
+Na2SO4 aqueous solution, BaSO4 might precipitate out. How can we predict whether a 
+precipitate will form under various conditions?
+Recall that we used the reaction quotient Q in Section 15.6 to determine the direc-
+tion in which a reaction must proceed to reach equilibrium. The form of Q is the same as 
+the equilibrium-constant expression for a reaction, but instead of only equilibrium con-
+centrations, you can use whatever concentrations are being considered. The direction 
+in which a reaction proceeds to reach equilibrium depends on the relationship between 
+Q and K for the reaction. If Q 6 K, the product concentrations are too low and reac-
+tant concentrations are too high relative to the equi

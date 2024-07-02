@@ -1,0 +1,30 @@
+ies
+19–7 Electric Hazards
+19–8 Ammeters and Voltmeters—
+Measurement Affects the
+Quantity Being Measured
+19
+C
+H
+A
+P
+T
+E
+R
+†AC circuits that contain only a voltage source and resistors can be analyzed like the dc circuits in this
+Chapter. However, ac circuits that contain capacitors and other circuit elements are more compli-
+cated, and we discuss them in Chapter 21.
+CHAPTER-OPENING QUESTION—Guess now!
+The automobile headlight bulbs 
+shown in the circuits here are 
+identical. The battery connection 
+which produces more light is
+(a) circuit 1.
+(b) circuit 2.
+(c) both the same.
+(d) not enough information.
+This cell phone has an attachment that measures a person’s blood sugar level, and plots it over a period
+of days. All electronic devices contain circuits that are dc, at least in part. The circuit diagram below
+shows a possible amplifier circuit for an audio output (cell
+phone ear piece). We have already met two of the circuit
+elements shown: resistors and capacitors, and we discuss them

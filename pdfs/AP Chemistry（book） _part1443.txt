@@ -1,0 +1,12 @@
+Further, because this bonding MO concentrates electron density 
+between the nuclei, it holds the atoms together in a covalent bond.
+By contrast, the antibonding MO has very little electron density between the nuclei. 
+Instead of combining in the region between the nuclei, the atomic orbital wave functions 
+cancel each other in this region, leaving the greatest electron density on opposite sides 
+of the two nuclei. Thus, an antibonding MO excludes electrons from the very region in 
+which a bond must be formed. Antibonding orbitals invariably have a plane in the region 
+between the nuclei where the electron density is zero. This plane is called a nodal plane 
+of the MO. (The nodal plane is shown as a dashed line in Figure 9.31 and subsequent fig-
+ures.) An electron in an antibonding MO is repelled from the bonding region and is there-
+fore less stable (it has higher energy) than it is in the 1s atomic orbital of a hydrogen atom.
+Notice from Figure 9.31 that the electron density in both t

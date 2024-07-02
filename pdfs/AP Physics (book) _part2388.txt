@@ -1,0 +1,31 @@
+ and C. For
+smaller R compared to 
+and 
+the resonance peak will be higher and sharper.
+When R is very small, we speak of an LC circuit. The energy in an LC circuit
+oscillates, at frequency 
+between the inductor and the capacitor, with some being
+dissipated in R (some resistance is unavoidable). This is called an LC oscillation
+or an electromagnetic oscillation. Not only does the charge oscillate back and forth,
+but so does the energy, which oscillates between being stored in the electric field
+of the capacitor and in the magnetic field of the inductor.
+Electric resonance is used in many circuits. Radio and TV sets, for example,
+use resonant circuits for tuning in a station. Many frequencies reach the circuit
+from the antenna, but a significant current flows only for frequencies at or near
+the resonant frequency chosen (the station you want). Either L or C is variable
+so that different stations can be tuned in (more on this in Chapter 22).
+f
+0 ,
+X
+C ,
+X
+L
+I
+rms
+X
+C = X
+L,
+f
+0
+f = f
+0 ,

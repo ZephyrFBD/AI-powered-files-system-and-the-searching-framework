@@ -1,0 +1,17 @@
+cause
+of their great gravitational mass. But on Earth, containment of the fast-moving
+nuclei at the high temperatures and densities required has proven difficult.
+It was realized after World War II that the temperature produced within a
+fission (or “atomic”) bomb was close to 
+This suggested that a fission bomb
+could be used to ignite a fusion bomb (popularly known as a thermonuclear or
+hydrogen bomb) to release the vast energy of fusion. The uncontrollable release
+of fusion energy in an H-bomb (in 1952) was relatively easy to obtain. But to
+realize usable energy from fusion at a slow and controlled rate has turned out to
+be a serious challenge.
+Temperature needed for d–t fusion.
+Estimate the temperature required for deuterium–tritium fusion (d–t) to occur.
+APPROACH We assume the nuclei approach head-on, each with kinetic energy 
+,
+and that the nuclear force comes into play when the distance between their cen-
+ters equals the sum of their nuclear radii. The electrostatic potential ener

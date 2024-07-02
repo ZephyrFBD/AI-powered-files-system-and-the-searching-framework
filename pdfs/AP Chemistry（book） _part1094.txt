@@ -1,0 +1,20 @@
+ove the first elec-
+tron from a neutral atom. For example, the first ionization energy for the sodium atom is 
+the energy required for the process
+ 
+Na1g2 ¡ Na+1g2 + e- 
+[7.2]
+The second ionization energy, I2, is the energy needed to remove the second electron, 
+and so forth, for successive removals of additional electrons. Thus, I2 for the sodium atom 
+is the energy associated with the process
+ 
+Na+1g2 ¡ Na2+1g2 + e- 
+[7.3]
+Variations in Successive Ionization Energies
+The magnitude of the ionization energy tells us how much energy is required to remove 
+an electron; the greater the ionization energy, the more difficult it is to remove an elec-
+tron. Notice in Table 7.2 that ionization energies for a given element increase as succes-
+sive electrons are removed: I1 6 I2 6 I3, and so forth. This trend makes sense because 
+with each successive removal, an electron is being pulled away from an increasingly pos-
+itive ion, requiring increasingly more energy.
+TABLE 7.2 Successive Values of I

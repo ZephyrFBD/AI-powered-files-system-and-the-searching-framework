@@ -1,0 +1,20 @@
+otein. In an
+approach called reverse genetics, investigations attempt to
+determine the function of the gene, often by silencing the
+gene using RNAi technology. Assume that you have the
+ability to synthesize dsRNA from a DNA segment taken
+from an organism whose whole genome has been
+determined. Design a plan for collecting data that could
+be used to assign a function to the protein encoded by this
+sequence. (Hint: Don’t worry about the number of
+experiments that might need to be conducted to implement
+your plan. An automated technique called high-throughput
+screening robotically supports thousands of simultaneous
+experiments.)
+718
+Chapter 17 | Biotechnology and Genomics
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+18 | EVOLUTION AND
+ORIGIN OF SPECIES
+Figure 18.1 All organisms are products of evolution adapted to their environment. (a) Saguaro (Carnegiea gigantea)
+can soak up 750 liters of water in a single rain storm, enabling these cacti to survive th

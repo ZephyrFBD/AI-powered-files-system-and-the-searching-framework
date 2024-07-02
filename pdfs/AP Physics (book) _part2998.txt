@@ -1,0 +1,13 @@
+ in a toaster. At temperatures above 2000 K, objects glow with
+a yellow or whitish color, such as white-hot iron and the filament of a lightbulb.
+The light emitted contains a continuous range of wavelengths or frequencies, and
+the spectrum is a plot of intensity vs. wavelength or frequency. As the temperature
+increases, the electromagnetic radiation emitted by objects not only increases in
+total intensity but has its peak intensity at higher and higher frequencies.
+The spectrum of light emitted by a hot dense object is shown in Fig. 27–4 for
+an idealized blackbody. A blackbody is a body that, when cool, would absorb all
+the radiation falling on it (and so would appear black under reflection when
+illuminated by other sources). The radiation such an idealized blackbody would
+emit when hot and luminous, called blackbody radiation (though not necessarily
+black in color), approximates that from many real objects. The 6000-K curve in
+Fig. 27–4, corresponding to the temperature of the surface

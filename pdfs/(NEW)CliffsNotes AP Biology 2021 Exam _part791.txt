@@ -1,0 +1,19 @@
+ia
+by ampicillin treatment. Only those bacteria that have the pAMP plasmid survive the ampicillin treatment. In
+addition, you may use plasmids that also have a colored-marker gene, such as green fluorescent protein (GFP), that
+allows you to observe the growth of transformed cells.
+Many bacteria take up extracellular DNA readily and thus transform naturally. Others can be induced to absorb
+DNA only under specific laboratory conditions. In either case, cells that are able to absorb DNA are designated
+competent cells.
+Part I: Transferring a Plasmid into a Bacterium
+In the first part of this lab, the bacterial plasmid, pAMP, is transferred to E. coli bacteria. The following steps
+summarize the procedure:
+ 
+1. Add CaCl2 to two tubes. CaCl2 induces competence in the bacteria.
+ 
+2. Add E. coli bacteria to both tubes. One tube will be transformed with pAMP plasmids. The second will be a
+control.
+ 
+3. Transfer pAMP plasmids to one of the test tubes.
+ 
+4. Facilitate the absorption of DNA (transf

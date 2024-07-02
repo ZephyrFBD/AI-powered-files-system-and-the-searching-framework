@@ -1,0 +1,46 @@
+The distance between the first two fringes (say) can be
+found using right triangles as shown in Fig. 24–10.
+SOLUTION Given
+and
+the first-order fringe 
+occurs at an angle given by
+This is a very small angle, so we can take
+with in radians. The first-
+order fringe will occur a distance 
+above the center of the screen (see
+Fig. 24–10), given by
+so
+The second-order fringe 
+will occur at
+above the center, and so on. Thus the lower-order fringes are 6.00 mm apart.
+NOTE The spacing between fringes is essentially uniform until the approxima-
+tion
+is no longer valid.
+sin u L u
+x2 L lu2 = l 2l
+d
+= 12.0 mm
+(m = 2)
+x1 L lu1 = (1.20 m)A5.00 * 10–3B
+= 6.00 mm.
+x1l = tan u1 L u1,
+x1
+u
+sin u L u,
+sin u1 = ml
+d
+=
+(1)A500 * 10–9 mB
+1.00 * 10–4 m
+= 5.00 * 10–3.
+u
+(m = 1)
+l = 1.20 m,
+l = 500 * 10–9 m,
+d = 0.100 mm = 1.00 * 10–4 m,
+l = 500 nm
+EXAMPLE 24;1
+(m = 0)
+Changing the wavelength. (a) What
+happens to the interference pattern shown in Fig. 24–10, Example 24–1, if the inci-
+dent light (500 nm) is rep

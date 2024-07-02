@@ -1,0 +1,22 @@
+rmation given
+ 
+▶Practice Exercise 2
+Calculate the change in the internal energy for a process in 
+which a system absorbs 140 J of heat from the surroundings 
+and does 85 J of work on the surroundings.
+Solve Heat is transferred from the system to the surroundings, and 
+work is done on the system by the surroundings, so q is negative 
+and w is positive: q = -1150 J and w = 480 J. Thus,
+ 
+∆E = q + w = 1-1150 J2 + 1480 J2 = -670 J 
+The negative value of ∆E tells us that a net quantity of 670 J of en-
+ergy has been transferred from the system to the surroundings.
+Comment You can think of this change as a decrease of 670 J in the 
+net value of the system’s energy bank account (hence, the nega-
+tive sign); 1150 J is withdrawn in the form of heat, while 480 J is 
+deposited in the form of work. Notice that as the volume of the 
+gases decreases, work is being done on the system by the surround-
+ings, resulting in a deposit of energy.
+ 
+▶Practice Exercise 1
+A mixture of gases A2 and B2 are intro

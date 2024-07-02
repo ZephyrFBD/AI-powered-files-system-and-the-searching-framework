@@ -1,0 +1,19 @@
+gs will be separated by dark bands which
+occur when the path difference BCD in Fig. 24–31a is equal to an integral number
+of wavelengths.)
+Returning for a moment to Fig. 24–30, the light reflecting at both interfaces,
+air–oil and oil–water, each underwent a phase shift of 180° equivalent to a path
+difference of
+since we assumed
+Because the two phase
+shifts were equal, they didn’t affect our analysis.
+Thin film of air, wedge-shaped. A very fine wire
+in diameter is placed between two flat glass plates as in 
+Fig. 24–33a. Light whose wavelength in air is 600 nm falls (and is viewed) per-
+pendicular to the plates and a series of bright and dark bands is seen, Fig. 24–33b.
+How many light and dark bands will there be in this case? Will the area next to
+the wire be bright or dark?
+APPROACH We need to consider two effects: (1) path differences for rays
+reflecting from the two close surfaces (thin wedge of air between the two glass
+plates), and (2) the 
+phase shift at the lower surface (point E

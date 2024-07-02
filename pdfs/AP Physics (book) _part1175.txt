@@ -1,0 +1,22 @@
+amount of damping
+(i.e., critical) is desired. Well-designed damping is needed for all kinds of applica-
+tions. Large buildings, especially in California, are now built (or retrofitted) with
+huge dampers to reduce possible earthquake damage (Fig. 11–17).
+FIGURE 11–17 These huge dampers 
+placed in a building look a lot like 
+huge automobile shock absorbers,
+and they serve a similar purpose—to
+reduce the amplitude and the 
+acceleration of movement when the 
+shock of an earthquake hits.
+P H Y S I C S  A P P L I E D
+Shock absorbers and 
+building dampers
+1
+1–6 Forced Oscillations; Resonance
+When an oscillating system is set into motion, it oscillates at its natural frequency
+(Eqs. 11–6b and 11–11b). However, a system may have an external force applied
+to it that has its own particular frequency. Then we have a forced oscillation.
+For example, we might pull the mass on the spring of Fig. 11–1 back and forth
+at an externally applied frequency f. The mass then oscillates at the external fre-
+q

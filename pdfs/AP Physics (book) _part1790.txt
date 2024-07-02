@@ -1,0 +1,62 @@
+n area. For a uniform electric field 
+passing through
+an area A, as shown in Fig. 16–43a, the electric flux 
+is defined as
+where 
+is the angle between the electric field direction and a line drawn per-
+pendicular to the area. The flux can be written equivalently as
+(16;7)
+where 
+is the component of 
+perpendicular to the area 
+(Fig. 16–43b) and, similarly,
+is the projection of the area A
+perpendicular to the field 
+(Fig. 16–43c).
+Electric flux can be interpretated in terms of field lines. We mentioned in
+Section 16–8 that field lines can always be drawn so that the number (N) passing
+through unit area perpendicular to the field 
+is proportional to the magnitude
+of the field (E): that is,
+Hence,
+(16;8)
+so the flux through an area is proportional to the number of lines passing through
+that area.
+N r EA⊥= £E,
+E r NA⊥.
+AA⊥B
+E
+B
+A⊥= A cos u
+E
+B
+E⊥= E cos u
+£E = E⊥A = EA⊥= EA cos u,
+u
+£E = EA cos u,
+£E
+E
+B
+*
+θ
+Area A
+(a)
+Area A
+A⊥
+θ
+θ
+(b)
+(c)
+Perpendicular to area
+E⊥
+E
+B
+E
+B
+E
+B
+E
+B
+A
+B
+FIGU

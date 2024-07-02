@@ -1,0 +1,35 @@
+.
+Piano strings. The highest key on a piano corresponds to a
+frequency about 150 times that of the lowest key. If the string for the highest note
+is 5.0 cm long, how long would the string for the lowest note have to be if it had
+the same mass per unit length and was under the same tension?
+APPROACH Since
+the velocity would be the same on each 
+string. So the frequency is inversely proportional to the length 
+of the string
+SOLUTION We can write, for the fundamental frequencies of each string, the ratio
+where the subscripts L and H refer to the lowest and highest notes, respectively.
+Thus
+or 7.5 m. This would be ridic-
+ulously long
+for a piano.
+NOTE The longer strings of lower frequency are made heavier (higher mass per
+unit length), so even on grand pianos the strings are less than 3 m long.
+(L 25 ft)
+lL = lHAf
+Hf
+LB = (5.0 cm)(150) = 750 cm,
+lLlH = f
+Hf
+L,
+(f = vl = v2l).
+l
+v = 2F
+Tm,
+EXAMPLE 12;8
+SECTION 12–4
+337
+FIGURE 12–10 Wind instruments:
+flute (left) and clarinet.
+(a)
+(b)

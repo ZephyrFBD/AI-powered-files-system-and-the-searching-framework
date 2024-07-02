@@ -1,0 +1,15 @@
+the observer and follows a
+straight-line path, and represents the normal view of the distant car. Ray B is a
+ray initially directed slightly downward but, instead of hitting the road, it bends
+slightly as it moves through layers of air of different index of refraction. The wave
+fronts, shown in blue in Fig. 24–4b, move slightly faster in the layers of (less dense)
+air nearer the ground. Thus ray B is bent as shown, and seems to the observer to
+be coming from below (dashed line) as if reflected off the road. Hence the mirage.
+24–3 Interference—Young’s
+Double-Slit Experiment
+In 1801, the Englishman Thomas Young (1773–1829) obtained convincing evidence
+for the wave nature of light and was even able to measure wavelengths for visible
+light. Figure 24–5a shows a schematic diagram of Young’s famous double-slit
+experiment. To have light from a single source, Young used the sunlight passing
+through a very narrow slit in a window covering. This beam of parallel rays falls
+on a screen containing

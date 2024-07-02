@@ -1,0 +1,38 @@
+sn’t change 
+significantly when different voltage scales are selected. A 
+digital meter
+draws very little current when connected across even a 
+resistance.
+The precision of digital meters is exceptional, often one part in 
+or better. This precision is not the same as accuracy, however. A precise meter of
+internal resistance 
+will not give accurate results if used to measure a voltage
+across a 
+resistor—in which case it is necessary to do a calculation like that in
+Example 19–17.
+108-
+108 
+104 (= 0.01%)
+1-M
+100-M
+A107–108 B,
+100 M
+10 M
+Rsh
+ARserB
+1000-V meter.
+50,000-V
+C A U T I O N
+Measurements affect the 
+quantity being measured
+11. Different lamps might have batteries connected in either
+of the two arrangements
+shown in Fig. 19–37.
+What would be the
+advantages of each
+scheme?
+Questions
+549
+A device that transforms another type of energy into electrical
+energy is called a source of emf. A battery behaves like a source
+of emf in series with an internal resistance. The emf is

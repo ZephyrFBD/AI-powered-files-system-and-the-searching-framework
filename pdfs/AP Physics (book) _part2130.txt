@@ -1,0 +1,23 @@
+ the
+potential difference determined by the chemical reactions in
+the battery and equals the terminal voltage when no current is
+drawn. When a current is drawn, the voltage at the battery’s ter-
+minals is less than its emf by an amount equal to the potential
+decrease Ir across the internal resistance.
+When resistances are connected in series (end to end in a
+single linear path), the equivalent resistance is the sum of the
+individual resistances:
+(19;3)
+In a series combination,
+is greater than any component
+resistance.
+When resistors are connected in parallel, it is the reciprocals
+that add up:
+(19;4)
+In a parallel connection, the net resistance is less than any of
+the individual resistances.
+Kirchhoff’s rules are useful in determining the currents and
+voltages in circuits. Kirchhoff’s junction rule is based on conser-
+vation of electric charge and states that the sum of all currents
+entering any junction equals the sum of all currents leaving that
+junction. The second, or loop rule, is

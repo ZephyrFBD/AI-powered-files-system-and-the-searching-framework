@@ -1,0 +1,24 @@
+r completeness:
+a gravitational redshift. Light leaving a massive star is gaining in gravitational
+potential energy (just like a stone thrown upward from Earth). So the kinetic
+energy of each photon, hf, must be getting smaller (to conserve energy). A smaller
+frequency f means a larger (longer) wavelength 
+which is a redshift.
+The amount of a redshift is specified by the redshift parameter, z, defined as
+(33;5a)
+where 
+is a wavelength as seen by an observer at rest relative to the source,
+and 
+is the wavelength measured by a moving observer. Equation 33–5a can
+be written as
+(33;5b)
+and
+(33;5c)
+For low speeds not close to the speed of light 
+, the Doppler formula
+(Eq. 33–3) can be used to show (Problem 32) that z is proportional to the speed
+of the source toward or away from us:
+(33;6)
+But redshifts are not always small, in which case the approximation of Eq. 33–6 is
+not valid. For high z galaxies, not even Eq. 33–3 applies because the redshift is due
+to the expansion of space (cosmolog

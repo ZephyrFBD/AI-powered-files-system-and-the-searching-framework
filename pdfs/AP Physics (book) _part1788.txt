@@ -1,0 +1,23 @@
+P P L I E D
+Laser printer
+Laser
+Movable
+mirror
+Heater rollers
+Toner hopper
+Laser beam scans
+Paper
+FIGURE 16–42 Inside a laser
+printer: a movable mirror sweeps
+the laser beam in horizontal lines
+across the drum.
+A laser printer uses a computer output to program the intensity of a laser
+beam onto the selenium-coated drum of Fig. 16–42. The thin beam of light from
+the laser is scanned (by a movable mirror) from side to side across the drum in a
+series of horizontal lines, each line just below the previous line. As the beam
+sweeps across the drum, the intensity of the beam is varied by the computer
+output, being strong for a point that is meant to be white or bright, and weak or zero
+for points that are meant to come out dark. After each sweep, the drum rotates very
+slightly for additional sweeps, Fig. 16–42, until a complete image is formed on it.
+The light parts of the selenium become conducting and lose their (previously
+given) positive electric charge, and the toner sticks only to the 

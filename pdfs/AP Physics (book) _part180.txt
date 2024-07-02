@@ -1,0 +1,61 @@
+.80 ms2,
+v = 0,
+t
+a = –9.80 ms2.
+v0 = 15.0 ms,
+y0 = 0,
+t = 0
+v = 0
+a = –g = –9.80 ms2.
+15.0 ms.
+EXAMPLE 2;12
+3.00 ms
+9.80 ms
+t2 = 2.00 s
+= A9.80 ms2B(2.00 s) = 19.6 ms.
+t1 = 1.00 s
+= A9.80 ms2B(1.00 s) = 9.80 ms
+v = 0 + at
+Av0B
+Av0 = 0B,
+t2 = 2.00 s
+= 3.00 ms + A9.80 ms2B(2.00 s) = 22.6 ms.
+t1 = 1.00 s
+= 3.00 ms + A9.80 ms2B(1.00 s) = 12.8 ms
+v = v0 + at
+v0 = 0.
+y = v0t +
+1
+2 at2 = (3.00 ms)(2.00 s) +
+1
+2 A9.80 ms2B(2.00 s)2 = 25.6 m.
+t = 2.00 s
+t = 0
+t2 = 2.00 s
+y = v0t +
+1
+2 at2 = (3.00 ms)(1.00 s) +
+1
+2 A9.80 ms2B(1.00 s)2 = 7.90 m.
+t1 = 1.00 s,
+v0 = 3.00 ms.
+v0
+3.00 ms,
+EXAMPLE 2;11
+A
+C
+(v = 0)
+B
+v
+v
+g
+g
+FIGURE 2;23 An object thrown 
+into the air leaves the thrower’s 
+hand at A, reaches its maximum 
+height at B, and returns to the 
+original position at C.
+Examples 2–12, 2–13, 2–14, and 2–15.
+Ball thrown upward, II. In Fig. 2–23, Example 2–12, how
+long is the ball in the air before it comes back to the hand?
+APPROACH We need to choose a time interval to calcul

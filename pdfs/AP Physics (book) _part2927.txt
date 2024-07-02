@@ -1,0 +1,14 @@
+ivity—in this case, time
+dilation—can be applied only by observers in an inertial reference frame. The
+Earth is such a frame (or nearly so), whereas the spacecraft is not. The spacecraft
+accelerates at the start and end of its trip and when it turns around at the far
+point of its journey. Part of the time, the astronaut twin may be in an inertial
+frame (and is justified in saying the Earth twin’s clocks run slow). But during the
+accelerations, the twin on the spacecraft is not in an inertial frame. So she cannot
+use special relativity to predict their relative ages when she returns to Earth. The
+Earth twin stays in the same inertial frame, and we can thus trust her predictions
+based on special relativity. Thus, there is no paradox. The prediction of the Earth
+twin that the traveling twin ages less is the correct one.
+Global Positioning System (GPS)
+Airplanes, cars, boats, and hikers use global positioning system (GPS) receivers
+to tell them quite accurately where they are at a given mo

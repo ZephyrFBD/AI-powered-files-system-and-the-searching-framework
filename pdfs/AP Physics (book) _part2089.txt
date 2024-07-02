@@ -1,0 +1,68 @@
+nd cable first).
+In the photo of Fig. 19–15, the above procedure is not being followed. Note
+the safety error: with ground terminals connected, if the red clamp 
+touches a metal part
+, even if dropped by the person, a short circuit
+with damaging high electric current can occur (hundreds of amps).
+(= ground)
+(±12 V)
+H2
+(±)
+±
+(±)
+(–)
+538
+CHAPTER 19
+DC Circuits
+Q2
+Q3
+a
+b
+Q1
+C1
+C2
+C3
+V = Vab
++
+–
++
+–
++
+–
+V = Vab
++Q
+–Q
+–Q
+–Q
++Q
+a
+A
+B
+b
+C1
+C3
+C2
++Q
+FIGURE 19–18 Capacitors in series:
+1
+Ceq
+= 1
+C1
++ 1
+C2
++ 1
+C3
+.
+FIGURE 19–17 Capacitors in
+parallel: Ceq = C1 + C2 + C3.
+C A U T I O N
+Formula for capacitors in
+series resembles formula
+for resistors in parallel
+19–5 Circuits Containing Capacitors
+in Series and in Parallel
+Just as resistors can be placed in series or in parallel in a circuit, so can capacitors
+(Chapter 17). We first consider a parallel connection as shown in Fig. 19–17. If
+a battery supplies a potential difference V to points a and b, this same potential
+difference 
+exists across e

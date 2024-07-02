@@ -1,0 +1,32 @@
+hase shaded and one un-
+shaded, to denote the two phases.
+When we square the wave function of the s
+1s
+*  MO, we get 
+the electron density representation which we saw earlier, in 
+Figure 9.32. Notice once again that we lose the phase informa-
+tion when we look at the electron density.
+The wave functions of atomic and molecular orbitals are used 
+by chemists to understand many aspects of chemical bonding, 
+spectroscopy, and reactivity. If you take a course in organic chem-
+istry, you will probably see orbitals drawn to show the phases as in 
+this box.
+Related Exercises: 9.107, 9.119, 9.121
+s1s molecular orbital
+1s atomic
+orbital
+1s atomic
+orbital
+2
+s1s molecular orbital
+1s atomic
+orbital
+1s atomic
+orbital
+1
+Destructive addition
+Constructive addition
+▲ Figure 9.40 Molecular orbitals from atomic orbital wave functions.
+Electron Configurations for B2 through Ne2
+We can combine our analyses of MOs formed from s orbitals (Figure 9.32) and from p 
+orbitals (Figure 9.36) to construct an energy

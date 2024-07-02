@@ -1,0 +1,14 @@
+me amount of matter as on Earth, and will have
+just as much inertia—in the absence of friction, it will be just as hard to start it
+moving on the Moon as on Earth, or to stop it once it is moving. (More on weight
+in Section 4–6.)
+4–4 Newton’s Second Law of Motion
+Newton’s first law states that if no net force is acting on an object at rest, the
+object remains at rest; or if the object is moving, it continues moving with constant
+speed in a straight line. But what happens if a net force is exerted on an object?
+Newton perceived that the object’s velocity will change (Fig. 4–5). A net force
+exerted on an object may make its velocity increase. Or, if the net force is in a
+direction opposite to the motion, that force will reduce the object’s velocity. If the
+net force acts sideways on a moving object, the direction of the object’s velocity
+changes. That change in the direction of the velocity is also an acceleration. So a
+sideways net force on an object also causes acceleration. In general

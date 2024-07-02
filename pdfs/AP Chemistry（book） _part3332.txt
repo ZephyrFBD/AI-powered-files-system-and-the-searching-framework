@@ -1,0 +1,19 @@
+ent.
+ 20.110  Some years ago a unique proposal was made to raise the 
+Titanic. The plan involved placing pontoons within the 
+ship using a surface-controlled submarine-type vessel. 
+The pontoons would contain cathodes and would be 
+ﬁlled with hydrogen gas formed by the electrolysis of 
+water. It has been estimated that it would require about 
+7 * 108 mol of H2 to provide the buoyancy to lift the ship 
+(J. Chem. Educ., 1973, Vol. 50, 61). (a) How many cou-
+lombs of electrical charge would be required? (b) What 
+is the minimum voltage required to generate H2 and O2 if 
+the pressure on the gases at the depth of the wreckage (2 
+mi) is 300 atm? (c) What is the minimum electrical energy 
+required to raise the Titanic by electrolysis? (d) What is 
+the minimum cost of the electrical energy required to 
+generate the necessary H2 if the electricity costs 85 cents 
+per kilowatt-hour to generate at the site?
+Integrative Exercises
+ 20.111  The Haber process is the principal industrial route for co

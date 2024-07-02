@@ -1,0 +1,14 @@
+ domain. Because the domains from nonbonding pairs exert larger 
+repulsions than those from bonding pairs, nonbonding domains always occupy the 
+equatorial positions in a trigonal bipyramid.
+Give It Some Thought
+It might seem that a square-planar geometry of four electron domains around a 
+central atom would be more favorable than a tetrahedron. Can you rationalize why 
+the tetrahedron is preferred, based on angles between electron domains?
+The most stable electron-domain geometry for six electron domains is the octahedron. 
+An octahedron is a polyhedron with six vertices and eight faces, each an equilateral trian-
+gle. An atom with six electron domains around it can be visualized as being at the center 
+of the octahedron with the electron domains pointing toward the six vertices, as shown 
+in Table 9.3. All the bond angles are 90°, and all six vertices are equivalent. Therefore, if an 
+atom has five bonding electron domains and one nonbonding domain, we can put the 
+nonbonding domain 

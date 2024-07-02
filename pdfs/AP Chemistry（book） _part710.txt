@@ -1,0 +1,16 @@
+oundings only as heat; no work is  
+performed. (b) A battery discharged through  
+a motor loses energy as work (to make the  
+fan turn) and also loses some energy as heat.  
+The value of ∆E is the same for both  
+processes even though the values of q and w  
+in (a) are different from those in (b).
+5.3 ∣ Enthalpy
+The chemical and physical changes that occur around us, such as photosynthesis in the leaves 
+of a plant, evaporation of water from a lake, or a reaction in an open beaker in a laboratory, 
+occur under the essentially constant pressure of Earth’s atmosphere.* These changes can result 
+in the release or absorption of heat and can be accompanied by work done by or on the system. 
+In exploring these changes, it is useful to have a thermodynamic function that is a state func-
+tion and relates mainly to heat flow. Under conditions of constant pressure, a thermodynamic 
+quantity called enthalpy (from the Greek enthalpein, “to warm”) provides such a function.
+Enthalpy, which we denote

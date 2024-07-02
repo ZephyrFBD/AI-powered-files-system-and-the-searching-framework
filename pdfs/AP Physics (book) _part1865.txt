@@ -1,0 +1,19 @@
+ude of the potential difference V between
+the plates:
+(17;7)
+The constant of proportionality, C, in Eq. 17–7 is called the capacitance of
+the capacitor. The unit of capacitance is coulombs per volt, and this unit is 
+called a farad (F). Common capacitors have capacitance in the range of 1 pF
+to 
+The relation, Eq. 17–7,
+was first suggested by Volta in the late eighteenth century.
+In Eq. 17–7 and from now on, we will use simply V (in italics) to represent a
+potential difference, such as that produced by a battery, rather than 
+or
+as previously.
+Also, be sure not to confuse italic letters V and C which stand for voltage and
+capacitance, with non-italic V and C which stand for the units volts and coulombs.
+The capacitance C does not in general depend on Q or V. Its value depends
+only on the size, shape, and relative position of the two conductors, and also on the
+material that separates them. For a parallel-plate capacitor whose plates have area A
+and are separated by a distance d of air (

@@ -1,0 +1,34 @@
+acetone, 1CH322CO, is 360 
+torr, and that of chloroform, CHCl3, is 300 torr. Acetone 
+and chloroform can form very weak hydrogen bonds be-
+tween one another; the chlorines on the carbon give the 
+carbon a sufficient partial positive charge to enable this 
+behavior:
+CH3
+CH3
+O
+H
+C
+C
+Cl
+Cl
+Cl
+ 
+ A solution composed of an equal number of moles of 
+acetone and chloroform has a vapor pressure of 250 torr 
+at 35 °C. (a) What would be the vapor pressure of the 
+solution if it exhibited ideal behavior? (b) Based on the 
+behavior of the solution, predict whether the mixing of 
+acetone and chloroform is an exothermic 1∆Hsoln 6 02 or 
+endothermic 1∆Hsoln 7 02 process.
+ 
+Design an Experiment 
+567
+ 
+ 
+(a) The turbidity (the amount of light scattering) of solu-
+tions increases dramatically at the cmc. Suggest an ex-
+planation. (b) The ionic conductivity of the solution 
+dramatically changes at the cmc. Suggest an explanation. 
+(c) Chemists have developed fluorescent dyes that glow 
+brightly only when

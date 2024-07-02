@@ -1,0 +1,22 @@
+g log
+(a) Water waves passing
+        blades of grass
+FIGURE 11–46 Water waves, coming from upper left, pass objects of 
+various sizes. Note that the longer the wavelength compared to the 
+size of the object, the more diffraction there is into the “shadow region.”
+Cell phones. Cellular phones operate by
+radio waves with frequencies of about 1 or 2 GHz
+These
+waves cannot penetrate objects that conduct electricity, such as a sheet of metal or
+a tree trunk. The sound quality is best if the transmitting antenna is within clear
+view of the handset. Yet it is possible to carry on a phone conversation even if
+the tower is blocked by trees, or if the handset is inside a car. Why?
+RESPONSE If the radio waves have a frequency of about 2 GHz, and the speed
+of propagation is equal to the speed of light,
+(Section 1–5), then
+the wavelength is
+The waves
+can diffract readily around objects 15 cm in diameter or smaller.
+l = vf = A3 * 108 msBA2 * 109 HzB = 0.15 m.
+3 * 108 ms
+A1 gigahertz = 109 HzB.

@@ -1,0 +1,37 @@
+1 = 0.
+v1 = 0
+Average acceleration. A car accelerates on a straight road from
+rest to 
+in 5.0 s, Fig.2–10. What is the magnitude of its average acceleration?
+APPROACH Average acceleration is the change in velocity divided by the elapsed
+time, 5.0 s. The car starts from rest, so 
+The final velocity is 
+.
+SOLUTION From Eq. 2–4, the average acceleration is
+This is read as “fifteen kilometers per hour per second” and means that, on
+average, the velocity changed by 15 km h during each second. That is, assuming
+the acceleration was constant, during the first second the car’s velocity increased
+from zero to 15 km h. During the next second its velocity increased by another
+15 km h, reaching a velocity of 30 km h at
+and so on. See Fig. 2–10.
+t = 2.0 s,
+
+
+
+
+a = v2 - v1
+t2 - t1
+= 75 kmh - 0 kmh
+5.0 s
+= 15 kmh
+s
+.
+v2 = 75 kmh
+v1 = 0.
+75 kmh
+EXAMPLE 2;4
+SECTION 2–4
+Acceleration
+27
+Our result in Example 2–4 contains two different time units: hours and seconds.
+We usually prefer to use only 

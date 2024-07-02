@@ -1,0 +1,33 @@
+n have any size or mass, but the density will be the same for each.
+We can use the concept of density, Eq. 10–1, to write the mass of an object as
+and the weight of an object as
+The SI unit for density is 
+Sometimes densities are given in 
+Note that a density given in 
+must be multiplied by 1000 to give the result
+in
+For 
+example, the density of aluminum is
+which equals 
+The densities of various substances are given in Table 10–1. The Table specifies
+temperature and atmospheric pressure because they affect density (the effect is
+slight for liquids and solids). Note that air is about 1000 times less dense than water.
+2700 kgm3.
+r = 2.70 gcm3,
+C1 kgm3 = 1000 g(100 cm)3 = 103 g106 cm3 = 10–3 gcm3D.
+kgm3
+gcm3
+gcm3.
+kgm3.
+mg = rVg.
+m = rV,
+r = m
+V
+,
+r
+r,
+Mass, given volume and density. What is the mass of a
+solid iron wrecking ball of radius 18 cm?
+APPROACH First we use the standard formula
+(see inside rear cover)
+to obtain the sphere’s volume. Then Eq. 10–1 and Table 10–1 give us

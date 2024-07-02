@@ -1,0 +1,30 @@
+ process. The rate 
+constant for the decomposition at 660 K is 4.5 * 10-2 s-1. 
+(a) If we begin with an initial SO2Cl2 pressure of 450 torr, 
+what is the partial pressure of this substance after 60 s? 
+(b) At what time will the partial pressure of SO2Cl2 de-
+cline to one-tenth its initial value?
+ 14.44 The first-order rate constant for the decomposition of 
+N2O5, 2 N2O51g2 ¡ 4 NO21g2 + O21g2,  a t  70 °C  i s 
+6.82 * 10-3 s-1. Suppose we start with 0.0250 mol of 
+N2O51g2 in a volume of 2.0 L. (a) How many moles of 
+N2O5 will remain after 5.0 min? (b) How many minutes 
+will it take for the quantity of N2O5 to drop to 0.010 mol? 
+(c) What is the half-life of N2O5 at 70 °C ?
+ 14.45 The reaction SO2Cl21g2 ¡ SO21g2 + Cl21g2 is first 
+order in SO2Cl2. Using the following kinetic data, de-
+termine the magnitude and units of the first-order rate 
+constant:
+Time (s)
+Pressure SO2Cl2 (atm)
+0
+1.000
+2500
+0.947
+5000
+0.895
+7500
+0.848
+10,000
+0.803
+ 14.46 From the following data for the first-order gas

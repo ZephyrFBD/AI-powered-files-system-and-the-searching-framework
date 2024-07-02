@@ -1,0 +1,33 @@
+ on 
+1 mol of electrons is 96,485 C. A coulomb is the quantity of charge passing a point in a 
+circuit in 1 s when the current is 1 ampere (A). Therefore, the number of coulombs pass-
+ing through a cell can be obtained by multiplying the current in amperes by the elapsed 
+time in seconds.
+ 
+coulombs = amperes * seconds 
+[20.21]
+Figure 20.30 shows how the quantities of substances produced or consumed in elec-
+trolysis are related to the quantity of electrical charge used. The same relationships can 
+also be applied to voltaic cells. In other words, electrons can be thought of as “reagents” 
+in electrolysis reactions.
+Quantity of charge 
+(coulombs) =
+current (amperes)
+× time (seconds)
+Moles of electrons
+Faraday
+constant
+Balanced
+half-reaction
+Moles of
+substance oxidized
+or reduced
+Grams of
+substance oxidized
+or reduced
+Formula
+weight
+▲ Figure 20.30 Relationship between charge 
+and amount of reactant and product in 
+electrolysis reactions.
+Calculate the number of grams of aluminum produce

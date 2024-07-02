@@ -1,0 +1,64 @@
+in Fig. 6–2
+exerts an upward force
+on the bag equal to its weight. But this upward 
+force is perpendicular to the horizontal displacement of the bag and thus is doing 
+no work. This conclusion comes from our definition of work, Eq. 6–1:
+because
+and
+Thus, when a particular force is perpendicu-
+lar to the displacement, no work is done by that force. When you start or stop
+walking, there is a horizontal acceleration and you do briefly exert a horizontal
+force, and thus do work on the bag.
+cos 90° = 0.
+u = 90°
+W = 0,
+F
+B
+P
+W = 0.
+1 J = 107 erg = 0.7376 ftlb.
+1 erg = 1 dynecm.
+1 J = 1 Nm.
+(Nm).
+30 N * 50 m = 1500 Nm
+W = Fd.
+cos u = 1;
+u = 0
+d
+B.
+F
+B
+A= F
+∑∑B
+F cos u
+cos u
+u
+W = Fd cos u,
+d
+B.
+F
+B
+F
+∑∑
+W = F
+∑∑d,
+m
+P
+F
+B
+g
+B
+d
+B
+FIGURE 6–2 The person does no
+work on the bag of groceries because 
+is perpendicular to the 
+displacement d
+B.
+F
+B
+P
+C A U T I O N
+Force without work
+When we deal with work, as with force, it is necessary to specify whether you
+are talking about work done by a s

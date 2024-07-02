@@ -1,0 +1,48 @@
+short
+feathered-tailed female and a short straight-tailed male produces
+30 short straight-tailed guppies, 42 short feathered-tailed guppies,
+10 long straight-tailed guppies, and 14 long feathered-tailed
+guppies. Calculate the chi-square value for the null hypothesis
+that the short feathered-tailed guppy was heterozygous for the
+feathered-tail allele. 
+0
+(A)
+1.33
+(B)
+2.67
+(C)
+24
+(D)
+60. The table shows properties of water, isopropanol, and benzene.
+Liquid
+Molecular
+Formula
+Boiling
+Point (°C)
+Melting
+Point (°C)
+Specific Heat
+Capacity (kJ/kg°C)
+Water
+H2O
+100.0
+0.0
+4.18
+Isopropanol
+C3H8O
+82.6
+–89.0
+2.68
+Benzene
+C6H6
+80.1
+5.5
+1.73
+Based on the information provided in the table, which of the
+following best explains why living systems depend on the
+properties of water, rather than those of other liquids?
+Water is composed of hydrogen and oxygen, the two most
+important essential elements found in living organisms.
+(A)
+Water’s high specific heat capacity enables water to buﬀer
+temperature chang

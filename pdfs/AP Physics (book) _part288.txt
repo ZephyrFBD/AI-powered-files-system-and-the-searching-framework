@@ -1,0 +1,59 @@
+al and can be extended to three or more
+velocities. For example, if a fisherman on the boat walks with a velocity 
+rela-
+tive to the boat, his velocity relative to the shore is  
+The
+equations involving relative velocity will be correct when adjacent inner subscripts
+are identical and when the outermost ones correspond exactly to the two on the
+velocity on the left of the equation. But this works only with plus signs (on the
+right), not minus signs.
+It is often useful to remember that for any two objects or reference frames,
+A and B, the velocity of A relative to B has the same magnitude, but opposite
+direction, as the velocity of B relative to A:
+(3;8)
+For example, if a train is traveling 
+relative to the Earth in a certain
+direction, objects on the Earth (such as trees) appear to an observer on the train
+to be traveling 
+in the opposite direction.
+100 kmh
+100 kmh
+v
+B
+BA =
+–v
+B
+AB .
+v
+B
+FS = v
+B
+FB + v
+B
+BW + v
+B
+WS.
+v
+B
+FB
+v
+B
+BS.
+v
+B
+BS = v
+B
+BW + v
+B
+WS.
+v
+B
+WS.
+v
+B
+BW
+v
+B
+BS
+v
+B

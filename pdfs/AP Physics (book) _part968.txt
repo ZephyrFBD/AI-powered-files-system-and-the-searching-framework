@@ -1,0 +1,33 @@
+brium; Elasticity and Fracture
+P H Y S I C S  A P P L I E D
+Reinforced concrete 
+and
+prestressed concrete
+P H Y S I C S  A P P L I E D
+A tragic collapse
+FIGURE 9–26 Steel rods around
+which concrete is poured for strength.
+(a)
+A
+(b)
+(c) Force on pin A
+      exerted by
+      vertical rod
+(d) Forces on pins
+      at A exerted by
+      vertical rods
+mg
+2mg
+mg
+A
+FIGURE 9–27 Example 9–12.
+A tragic substitution. Two walkways, one
+above the other, are suspended from vertical rods attached to the ceiling of a
+high hotel lobby, Fig. 9–27a. The original design called for single rods 14 m long,
+but when such long rods proved to be unwieldy to install, it was decided to replace
+each long rod with two shorter ones as shown schematically in Fig. 9–27b.
+Determine the net force exerted by the rods on the supporting pin A (assumed to
+be the same size) for each design. Assume each vertical rod supports a mass m
+of each bridge.
+RESPONSE The single long vertical rod in Fig. 9–27a exerts an upward force
+equ

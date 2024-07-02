@@ -1,0 +1,81 @@
+Q1 = –32 mC
+34. (II) You are given two unknown point charges,
+and 
+At a point on the line joining them, one-third of the way
+from 
+to 
+the electric field is zero (Fig. 16–59). What
+is the ratio Q1Q2?
+Q2,
+Q1
+Q2 .
+Q1
+35. (III) Use Coulomb’s law to determine the magnitude and
+direction of the electric field at points A and B in Fig. 16–60
+due to the two positive charges 
+shown. Are
+your results consistent with Fig. 16–32b?
+(Q = 4.7 mC)
+36. (III) An electron (mass 
+) is acceler-
+ated in the uniform field 
+between
+two thin parallel charged plates.
+The separation of the plates is
+1.60 cm.The electron is accelerated
+from rest near the negative plate
+and passes through a tiny hole 
+in the positive plate, Fig. 16–61.
+(a) With what speed does it leave
+the hole? (b) Show that the 
+gravitational force can be ignored.
+AE = 1.45 * 104 NCB
+E
+B
+m = 9.11 * 10–31 kg
+5.0 cm
++Q
++Q
+5.0 cm
+10.0 cm
+5.0 cm
+B
+A
+e−
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+E
+v
+B
+B
+FIGURE 16–61
+Problem 36.

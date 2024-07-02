@@ -1,0 +1,28 @@
+= 3Ba2 +43SO4
+2 -4, 
+and compare this quantity to the Ksp for barium sulfate.
+Does a precipitate form when 0.10 L of 8.0 * 10-3 M Pb1NO322 is added to 0.40 L of 5.0 * 10-3 M Na2SO4?
+Solve 
+When the two solutions are mixed, the 
+volume is 0.10 L + 0.40 L = 0.50 L. The 
+number of moles of Pb2 +  in 0.10 L of 
+8.0 * 10-3 M Pb1NO322 is:
+Analyze The problem asks us to determine whether a precipitate 
+forms when two salt solutions are combined.
+Plan We should determine the concentrations of all ions just af-
+ter the solutions are mixed and compare the value of Q with Ksp 
+for any potentially insoluble product. The possible metathesis 
+products are PbSO4 and NaNO3. Like all sodium salts NaNO3 is 
+soluble, but PbSO4 has a Ksp of 6.3 * 10-7 (Appendix D) and will 
+precipitate if the Pb2+ and SO4
+2 - concentrations are high enough 
+for Q to exceed Ksp.
+10.10 L2a 8.0 * 10-3 mol
+L
+b = 8.0 * 10-4 mol
+3Pb2 +4 = 8.0 * 10-4 mol
+0.50 L
+= 1.6 * 10-3 M
+SOLUTION
+Sample Exercise 17.16 
+Predicting Whether a 

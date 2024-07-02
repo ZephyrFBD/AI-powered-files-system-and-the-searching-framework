@@ -1,0 +1,39 @@
+tions, we can find I at 300 m and again apply Eq. 12–1 to obtain the sound
+level.
+SOLUTION The intensity I at 30 m is
+or, dividing through by 10,
+Recall that
+means
+(Appendix A–8). Then
+so
+At 300 m, 10 times as far, the intensity,
+which decreases as 
+, will be
+as much, or 
+Hence, the
+sound level is
+Even at 300 m, the sound is at the threshold of pain. This is why workers at air-
+ports wear ear covers to protect their ears from damage (Fig. 12–4).
+NOTE Here is a simpler approach that avoids Eq. 12–1. Because the intensity
+decreases as the square of the distance, at 10 times the distance the intensity
+decreases by
+We can use the result that 10 dB corresponds to 
+an intensity change by a factor of 10 (see just before Example 12–3). Then an
+intensity change by a factor of 100 corresponds to a sound-level change of
+This confirms our result above: 140 dB - 20 dB = 120 dB.
+(2)(10 dB) = 20 dB.
+A 1
+10B
+2 =
+1
+100 .
+b = 10 log ¢
+1 Wm2
+10–12 Wm2 ≤
+= 120 dB.
+1 Wm2.
+A 1
+10B
+2 = 1100
+1r2
+I = A101

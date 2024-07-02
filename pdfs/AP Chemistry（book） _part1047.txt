@@ -1,0 +1,26 @@
+nter-
+prise to another location, such as the surface of a planet. The 
+writers of the show put a “Heisenberg compensator” into the 
+transporter beam mechanism. Explain why such a compen-
+sator (which is entirely ﬁctional) would be necessary to get 
+around Heisenberg’s uncertainty principle.
+ [6.97]  As discussed in the A Closer Look box on “Measurement and 
+the Uncertainty Principle,” the essence of the uncertain-
+ty principle is that we can’t make a measurement without 
+Slit
+Beam of
+atoms
+Magnet
+Beam collector
+plate
+ 
+Design an Experiment 
+255
+Integrative Exercises
+ 6.105  Microwave ovens use microwave radiation to heat food. The 
+energy of the microwaves is absorbed by water molecules in 
+food and then transferred to other components of the food. 
+(a) Suppose that the microwave radiation has a wavelength 
+of 11.2 cm. How many photons are required to heat 200 mL of 
+coffee from 23 to 60 °C? (b) Suppose the microwave’s power is 
+900 W 11 watt = 1 joule@second2. How long would you have 

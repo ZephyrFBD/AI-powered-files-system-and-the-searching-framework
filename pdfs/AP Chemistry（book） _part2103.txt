@@ -1,0 +1,24 @@
+of an aqueous solution. How many 
+protein monomers form the quaternary protein structure in 
+solution? Treat the protein as a nonelectrolyte.  
+(a) 1 (b) 2 (c) 3 (d) 4 (e) 8
+ 
+▶Practice Exercise 2
+A sample of 2.05 g of polystyrene of uniform polymer chain 
+length was dissolved in enough toluene to form 0.100 L of solu-
+tion. The osmotic pressure of this solution was found to be 1.21 
+kPa at 25 °C. Calculate the molar mass of the polystyrene.
+reduction in the freezing-point depression (as well as in boiling-point 
+elevation, vapor–pressure reduction, and osmotic pressure).
+We have been assuming that the van’t Hoff factor, i, is equal to 
+the number of ions per formula unit of the electrolyte. The true (mea-
+sured) value of this factor, however, is given by the ratio of the mea-
+sured value of a colligative property to the value calculated when the 
+substance is assumed to be a nonelectrolyte. Using the freezing-point 
+depression, for example, we have
+     
+ i =
+∆T
+f 1measured2
+∆T
+f 1cal

@@ -1,0 +1,28 @@
+ntum of any particle of mass m is given by
+Since 
+for a photon, the denominator is zero. To
+avoid having an infinite momentum, we conclude that the photon’s mass must be
+zero:
+This makes sense too because a photon can never be at rest (it
+always moves at the speed of light). A photon’s kinetic energy is its total energy:
+[photon]
+The momentum of a photon can be obtained from the relativistic formula
+(Eq. 26–9)
+where we set
+so
+or
+[photon]
+Since
+for a photon, its momentum is related to its wavelength by
+(27;6)
+Photon momentum and force. Suppose the
+photons emitted per second from the 100-W lightbulb in Example 27–4 were
+all focused onto a piece of black paper and absorbed. (a) Calculate the momentum
+of one photon and (b) estimate the force all these photons could exert on the
+paper.
+APPROACH Each photon’s momentum is obtained from Eq. 27–6,
+Next, each absorbed photon’s momentum changes from
+to zero. We
+use Newton’s second law,
+to get the force. Let
+SOLUTION (a) Each photon has a momentum

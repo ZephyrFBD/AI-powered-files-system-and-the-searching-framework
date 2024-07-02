@@ -1,0 +1,11 @@
+ming that the probabilities of individual outcomes are equal. A probability
+of one for some event indicates that it is guaranteed to occur, whereas a probability of zero indicates that it is guaranteed not
+to occur. An example of a genetic event is a round seed produced by a pea plant. In his experiment, Mendel demonstrated
+that the probability of the event “round seed” occurring was one in the F1 offspring of true-breeding parents, one of which
+has round seeds and one of which has wrinkled seeds. When the F1 plants were subsequently self-crossed, the probability of
+any given F2 offspring having round seeds was now three out of four. In other words, in a large population of F2 offspring
+chosen at random, 75 percent were expected to have round seeds, whereas 25 percent were expected to have wrinkled seeds.
+Using large numbers of crosses, Mendel was able to calculate probabilities and use these to predict the outcomes of other
+crosses.
+The Product Rule and Sum Rule
+Mendel demonstrated th

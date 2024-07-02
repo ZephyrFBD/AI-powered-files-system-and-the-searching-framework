@@ -1,0 +1,45 @@
+Sodium
+Na1s2 ¡ Na+1aq2 + e-
+Magnesium
+Mg1s2 ¡ Mg2+1aq2 + 2e-
+Aluminum
+Al1s2 ¡ Al3+1aq2 + 3e-
+Manganese
+Mn1s2 ¡ Mn2+1aq2 + 2e-
+Zinc
+Zn1s2 ¡ Zn2+1aq2 + 2e-
+Chromium
+Cr1s2 ¡ Cr3+1aq2 + 3e-
+Iron
+Fe1s2 ¡ Fe2+1aq2 + 2e-
+Cobalt
+Co1s2 ¡ Co2+1aq2 + 2e-
+Nickel
+Ni1s2 ¡ Ni2+1aq2 + 2e-
+Tin
+Sn1s2 ¡ Sn2+1aq2 + 2e-
+Lead
+Pb1s2 ¡ Pb2+1aq2 + 2e-
+Hydrogen
+H21g2 ¡ 2 H+1aq2 + 2e-
+Copper
+Cu1s2 ¡ Cu2+1aq2 + 2e-
+Silver
+Ag1s2 ¡ Ag+1aq2 + e-
+Mercury
+Hg1l2 ¡ Hg2+1aq2 + 2e-
+Platinum
+Pt1s2 ¡ Pt2+1aq2 + 2e-
+Gold
+Au1s2 ¡ Au3+1aq2 + 3e-
+Ease of oxidation increases
+Give It Some Thought
+Does a reaction occur (a) when an aqueous solution of NiCl2(aq) is added to a test 
+tube containing strips of metallic zinc, and (b) when NiCl2(aq) is added to a test tube 
+containing Zn(NO3)2(aq)?
+Only metals above hydrogen in the activity series are able to react with acids to form H2. 
+For example, Ni reacts with HCl(aq) to form H2:
+ 
+Ni1s2 + 2 HCl1aq2 ¡ NiCl21aq2 + H21g2 
+[4.29]
+Because elements below hydrogen in the activity series 

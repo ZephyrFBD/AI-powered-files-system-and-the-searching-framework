@@ -1,0 +1,14 @@
+of a unit cell is shared 
+among eight unit cells, and only 1>8 of the atom is in one particular unit cell. Because a 
+cube has eight corners, each primitive cubic unit cell contains 11>82 * 8 = 1 atom, as 
+shown in Figure 12.12(a). Similarly, each body-centered cubic unit cell [Figure 12.12(b)] 
+contains two atoms, 11>82 * 8 = 1 from the corners and 1 at the center of the unit 
+cell. Atoms that lie on the face of a unit cell, as they do in a face-centered cubic metal, 
+are shared by two unit cells so that only one-half of the atom belongs to each unit 
+cell. Therefore, a face-centered cubic unit cell [Figure 12.12(c)] contains four atoms, 
+11>82 * 8 = 1 atom from the corners and 11>22 * 6 = 3 atoms from the faces.
+Table 12.1 summarizes how the fractional part of each atom that resides within a 
+unit cell depends on the atom’s location within the cell.
+Close Packing
+The shortage of valence electrons and the fact that they are collectively shared make it 
+favorable for the atoms in a met

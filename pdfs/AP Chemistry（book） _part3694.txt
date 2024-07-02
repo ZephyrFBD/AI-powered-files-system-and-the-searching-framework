@@ -1,0 +1,26 @@
+try
+ 
+4. Greek prefixes (di-, tri-, tetra-, penta-, hexa-) are used to indicate the 
+number of each kind of ligand when more than one is present. If the 
+ligand contains a Greek prefix (for example, ethylenediamine) or is 
+polydentate, the alternate prefixes bis-, tris-, tetrakis-, pentakis-, and 
+hexakis- are used and the ligand name is placed in parentheses. For exam-
+ple, the name for 3Co(en)34Br3 is tris(ethylenediamine)cobalt(III) bromide.
+ 
+5. If the complex is an anion, its name ends in -ate. The compound 
+K43Fe(CN)64 is potassium hexacyanoferrate(II), for example, and the ion 3CoCl442 -  
+is tetrachlorocobaltate(II) ion.
+ 
+6. The oxidation number of the metal is given in parentheses in Roman 
+numerals following the name of the metal.
+ 
+ Three examples for applying these rules are
+3Ni(NH3)64Br2  
+ 
+Hexaamminenickel(II) bromide
+3Co(en)2(H2O)(CN)4Cl2  
+Aquacyanobis(ethylenediamine)cobalt(III) chloride
+Na23MoOCl44  
+ 
+Sodium tetrachlorooxomolybdate(IV)
+TABLE 23.5 Some Common Ligand

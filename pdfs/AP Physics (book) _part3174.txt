@@ -1,0 +1,24 @@
+GURE 28–13 Bremsstrahlung
+photon produced by an electron
+decelerated by interaction with a
+target atom.
+KE
+KE
+Photon
+hf = KE −KE
++
+–
+–
+28–10 Fluorescence and Phosphorescence
+When an atom is excited from one energy state to a higher one by the absorption
+of a photon, it may return to the lower level in a series of two (or more) 
+transitions if there is at least one energy level in between (Fig. 28–14). The 
+photons emitted will consequently have lower energy and frequency than the
+absorbed photon. When the absorbed photon is in the UV and the emitted photons
+are in the visible region of the spectrum, this phenomenon is called fluorescence
+(Fig. 28–15).
+The wavelength for which fluorescence will occur depends on the energy levels
+of the particular atoms. Because the frequencies are different for different sub-
+stances, and because many substances fluoresce readily, fluorescence is a powerful
+tool for identification of compounds. It is also used for assaying—determining
+how much of a su

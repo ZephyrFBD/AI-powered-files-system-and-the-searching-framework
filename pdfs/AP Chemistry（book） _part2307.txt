@@ -1,0 +1,32 @@
+n, 
+(ii) [M] would increase with the same slope as t = 0 to 
+ 
+15 min, until t = 45 min at which point the plot be-
+comes horizontal again, or (iii) [M] decreases and reaches 
+0 at t = 45 min. [Section 14.2]
+ 
+14.5 The following diagrams represent mixtures of NO(g) and 
+O21g2. These two substances react as follows:
+2 NO1g2 + O21g2 ¡ 2 NO21g2
+ 
+ It has been determined experimentally that the rate is 
+second order in NO and first order in O2. Based on this 
+(1)
+(2)
+(3)
+ 
+14.6 A friend studies a first-order reaction and obtains the 
+following three graphs for experiments done at two dif-
+ferent temperatures. (a) Which two graphs represent 
+experiments done at the same temperature? What ac-
+counts for the difference in these two graphs? In what 
+way are they the same? (b) Which two graphs represent 
+experiments done with the same starting concentration 
+but at different temperatures? Which graph probably 
+represents the lower temperature? How do you know? 
+[Section 14.4]
+Time
+1
+2
+3
+ln [A]

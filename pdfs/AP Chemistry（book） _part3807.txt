@@ -1,0 +1,76 @@
+e alkanes given in Table 24.2 are written in a notation called con-
+densed structural formulas. This notation reveals the way in which atoms are bonded to 
+one another but does not require drawing in all the bonds. For example, the structural 
+formula and the condensed structural formulas for butane 1C4H102 are
+TABLE 24.2 First Ten Members of the Straight-Chain Alkane Series
+Molecular 
+Formula
+Condensed Structural Formula
+Name
+Boiling  
+Point 1°C2
+CH4
+CH4
+Methane
+-161
+C2H6
+CH3CH3
+Ethane
+-89
+C3H8
+CH3CH2CH3
+Propane
+-44
+C4H10
+CH3CH2CH2CH3
+Butane
+-0.5
+C5H12
+CH3CH2CH2CH2CH3
+Pentane
+36
+C6H14
+CH3CH2CH2CH2CH2CH3
+Hexane
+68
+C7H16
+CH3CH2CH2CH2CH2CH2CH3
+Heptane
+98
+C8H18
+CH3CH2CH2CH2CH2CH2CH2CH3
+Octane
+125
+C9H20
+CH3CH2CH2CH2CH2CH2CH2CH2CH3
+Nonane
+151
+C10H22
+CH3CH2CH2CH2CH2CH2CH2CH2CH2CH3
+Decane
+174
+Give It Some Thought
+How many C ¬ H and C ¬ C bonds are formed by the middle carbon atom of 
+propane?
+C
+C
+C
+C
+H3C
+CH2
+CH2
+CH3
+CH3CH2CH2CH3
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+or
+structures of Alkanes
+According to the VS

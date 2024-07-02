@@ -1,0 +1,28 @@
+ three antibonding molecular orbitals. 
+ (Section 9.8) The extended network of 
+bonds leads to the formation of the same type of bands we saw for metals in Section 12.4. 
+However, unlike metals, in semiconductors an energy gap develops between the filled 
+and empty states, much like the energy gap between bonding and antibonding orbit-
+als. 
+ (Section 9.6) The band that forms from bonding molecular orbitals is called the 
+3.35 Å
+Each carbon atom is 
+bonded to four other carbon 
+atoms, forming a 
+tedrahedron.
+Sheets are held 
+together by 
+dispersion 
+forces.
+(a) Diamond
+(b) Graphite
+ 
+SECTION 12.7  Covalent-Network Solids 
+495
+◀ Figure 12.29 The structures of (a) 
+diamond and (b) graphite.
+496 
+CHAPTER 12 Solids and Modern Materials
+valence band, and the band that forms the antibonding orbitals is called the conduc-
+tion band (Figure 12.30). In a semiconductor, the valence band is filled with electrons 
+and the conduction band is empty. These two bands are separated by the energy band 

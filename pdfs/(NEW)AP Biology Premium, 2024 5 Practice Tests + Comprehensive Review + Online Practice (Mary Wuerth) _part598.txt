@@ -1,0 +1,11 @@
+are exposed to a heat shock for too long, the cells may lyse, and no transformed bacteria will
+result. If the amount of time of the heat shock is too short, the plasmids may not be able to enter the bacteria cells.
+So it is important to have appropriate controls for this investigation so that one can ascertain which bacteria were
+successfully transformed and to confirm that the heat shock procedure did not kill the bacteria. The following table
+and Figure 24.9 show the components of a typical bacterial transformation experiment (that used a plasmid that
+contains a gene for ampicillin resistance) and the expected results.
+Figure 24.9 Expected Results
+Test tube A does not contain the plasmid. Its contents are grown on LB agar, upon which both bacteria with or
+without the plasmid will grow, so it is expected that there will be robust growth of bacteria on this plate.
+Test tube B does not contain the plasmid. Its contents are grown on LB agar to which ampicillin has been
+added. Ampicillin 

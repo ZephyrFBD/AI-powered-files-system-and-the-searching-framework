@@ -1,0 +1,30 @@
+ * 103 NC
+A2
+A1
+O3
+O2
+O1 +1.0 mC
+−2.0 mC
+FIGURE 16–62
+Problem 39.
+26. (II) What is the electric field strength at a point in space
+where a proton experiences an acceleration of 2.4 million
+“g’s”?
+27. (II) An electron is released from rest in a uniform electric
+field and accelerates to the north at a rate of 
+Find the magnitude and direction of the electric field.
+28. (II) The electric field midway between two equal but oppo-
+site point charges is 
+and the distance between
+the charges is 16.0 cm. What is the magnitude of the charge
+on each?
+29. (II) Calculate the electric field at one corner of a square
+1.22 m on a side if the other three corners are occupied by
+charges.
+30. (II) Calculate the electric field at the center of a square
+42.5 cm on a side if one corner is occupied by a 
+charge and the other three are occupied by 
+charges.
+31. (II) Determine the direction and magnitude of the electric
+field at the point P in Fig. 16–56. The charges are separated
+by a distance 2a, and point 

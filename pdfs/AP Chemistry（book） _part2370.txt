@@ -1,0 +1,34 @@
+). However, the fact that the composition of the 
+Go Figure
+Why does the rate of the forward reaction slow down as the 
+reaction proceeds?
+Time
+(a)
+0
+Concentration
+Equilibrium
+achieved
+(concentrations 
+stop changing)
+Equilibrium
+achieved
+(rates are equal)
+Time
+(b)
+0
+Rate
+kf [N2O4]
+kr[NO2]2
+NO2
+N2O4
+▲ Figure 15.3 Achieving chemical equilibrium in the N2O41g2 ¡  2 NO21g2 reaction. Equilibrium 
+occurs when the rate of the forward reaction equals the rate of the reverse reaction.
+equilibrium mixture remains constant with time does not mean that N2O4 and NO2 
+stop reacting. On the contrary, the equilibrium is dynamic—which means some N2O4 is 
+always converting to NO2 and some NO2 is always converting to N2O4. At equilibrium, 
+however, the two processes occur at the same rate, as shown in Figure 15.3(b).
+We learn several important lessons about equilibrium from this example:
+t At equilibrium, the concentrations of reactants and products no longer change 
+ 
+with time.
+t For equilibrium to o

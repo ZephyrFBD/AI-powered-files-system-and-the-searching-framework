@@ -1,0 +1,67 @@
+ various distances from a lamp, and then all samples were exposed to white light from the 
+lamp for 60 minutes at room temperature. Sample 3 was wrapped in foil to prevent any light from reaching the 
+solution. At 20-minute intervals, the photosynthetic activity in each sample was determined by measuring the 
+relative absorbance of 605 nm light. The results of the experiment are provided below. 
+ 
+ 
+ 
+Relative Absorbance of 605 nm Light 
+(arbitrary units) 
+Sample 
+Distance from Lamp 
+(cm) 
+0 min 
+20 min 
+40 min 
+60 min 
+1 
+15 
+0.89 
+0.61 
+0.34 
+0.04 
+2 
+30 
+0.90 
+0.67 
+0.41 
+0.14 
+3* 
+30 
+0.88 
+0.87 
+0.86 
+0.87 
+4 
+45 
+0.86 
+0.69 
+0.47 
+0.26 
+5 
+60 
+0.92 
+0.75 
+0.59 
+0.41 
+6 
+75 
+0.88 
+0.79 
+0.71 
+0.58 
+* wrapped in foil 
+ 
+ 
+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+ 
+GO ON TO THE NEXT PAGE. 
+-29- 
+41. Which of the following provides the best 
+indication that light is required for the activation 
+of electron transfer reactions in chloroplasts? 
+(A) Calc

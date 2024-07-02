@@ -1,0 +1,25 @@
+OP = T
+HAT
+H - T
+LB.
+–15°C?
+COP = 7.0
+–8°C
+*15–10 Statistical Interpretation
+*49. (II) Calculate the probabilities, when you throw two dice,
+of obtaining (a) a 4, and (b) a 10.
+*50. (II) Suppose that you repeatedly shake six coins in your hand
+and drop them on the floor. Construct a table showing the
+number of microstates that correspond to each macrostate.
+What is the probability of obtaining (a) three heads and
+three tails, and (b) six heads?
+*51. (III) A bowl contains many red, orange, and green jelly beans,
+in equal numbers. You are to make a line of 3 jelly beans by
+randomly taking 3 beans from the bowl. (a) Construct a table
+showing the number of microstates that correspond to
+each macrostate. Then determine the probability of (b) all
+3 beans red, and (c) 2 greens, 1 orange.
+*52. (III) Rank the following five-card hands in order of
+increasing probability: (a) four aces and a king; (b) six of
+hearts, eight of diamonds, queen of clubs, three of hearts,
+jack of spades; (c) two jack

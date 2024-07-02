@@ -1,0 +1,44 @@
+s a whole range of frequencies, only specific wavelengths
+will destructively interfere completely at a given point.
+p
+2 1
+2 ,
+1 1
+2 ,
+1
+2 ,
+p
+342
+CHAPTER 12
+Sound
+(a)
+(b)
+D
+C
+E
+A
+B
+A
+B
+d
+d
+FIGURE 12–17 Sound waves of a
+single frequency from loudspeakers
+A and B (see Fig. 12–16)
+constructively interfere at C and
+destructively interfere at D. [Shown
+here are graphical representations,
+not the actual longitudinal sound
+waves.]
+Loudspeakers’ interference. Two loudspeakers are 1.00 m
+apart. A person stands 4.00 m from one speaker. How far should this person be
+from the second speaker to detect destructive interference when the speakers
+emit an 1150-Hz sound? Assume the temperature is 20°C.
+APPROACH To sense destructive interference, the person should be one-half 
+wavelength closer to or farther from one speaker than from the other—that is,
+at a
+We can determine because we know f and v.
+SOLUTION The speed of sound at 20°C is 
+so the wavelength of this
+sound is (Eq. 11–12)
+For destructive int

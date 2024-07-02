@@ -1,0 +1,39 @@
+?
+8. How can a neutron, with practically no kinetic energy,
+excite a nucleus to the extent shown in Fig. 31–3?
+9. Why would a porous block of uranium be more likely to
+explode if kept under water rather than in air?
+10. A reactor that uses highly enriched uranium can use ordi-
+nary water (instead of heavy water) as a moderator and
+still have a self-sustaining chain reaction. Explain.
+ 92
+235U
+Q = 0.
+Q 7 0.
+Q 6 0.
+a
+A1
+2HB,
+11
+22Na
+a +  79
+197Au S ? + d
+d + 1
+2H S 2
+4He + ?;
+n +  56
+137Ba S
+ 55
+137Cs + ?;
+n +  90
+232Th S ? + g;
+11. Why must the fission process release neutrons if it is to be
+useful?
+12. Why are neutrons released in a fission reaction?
+13. What is the reason for the “secondary system” in a nuclear
+reactor, Fig. 31–8? That is, why is the water heated by the
+fuel in a nuclear reactor not used directly to drive the
+turbines?
+14. What is the basic difference between fission and fusion?
+15. Discuss the relative merits and disadvantages, including
+pollution and safety, of powe

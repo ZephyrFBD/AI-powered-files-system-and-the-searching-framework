@@ -1,0 +1,34 @@
+.
+(c) increasing A.
+(d) More than one of the above.
+(e) None of the above will work.
+x 6 0.
+x = 0.
+x 6 A.
+x 7 0
+x = A.
+MisConceptual Questions
+5. When you use the approximation
+for a pendulum,
+you must specify the angle in
+(a) radians only.
+(b) degrees only.
+(c) revolutions or radians.
+(d) degrees or radians.
+6. Suppose you pull a simple pendulum to one side by an
+angle of 5°, let go, and measure the period of oscillation
+that ensues. Then you stop the oscillation, pull the pendu-
+lum to an angle of 10°, and let go. The resulting oscillation
+will have a period about ________ the period of the first 
+oscillation.
+(a) four times
+(b) twice
+(c) half
+(d) one-fourth
+(e) the same as
+7. At a playground, two young children are on identical swings.
+One child appears to be about twice as heavy as the other. If
+you pull them back together the same distance and release
+them to start them swinging, what will you notice about
+the oscillations of the two children?
+(a) The heavier child swings with a p

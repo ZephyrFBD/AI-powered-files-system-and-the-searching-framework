@@ -1,0 +1,10 @@
+the molecule’s
+double-helix shape and dimensions. The two strands that make up the double helix are complementary and anti-parallel in
+nature. That is, one strand runs in the 5' to 3' direction, whereas the complementary strand runs in the 3' to 5' direction.
+(The significance of directionality will be important when we explore how DNA copies itself.) DNA is a polymer of
+nucleotides that consists of deoxyribose sugar, a phosphate group, and one of four nitrogenous bases—A, T, C, and G—with
+a purine always pairing with a pyrimidine (as Chargaff found). The genetic “language” of DNA is found in sequences of
+the nucleotides. During cell division each daughter cell receives a copy of DNA in a process called replication. In the years
+since the discovery of the structure of DNA, many technologies, including DNA sequencing, have been developed that
+enable us to better understand DNA and its role in our genomes.
+Information presented and the examples highlighted in the section support concepts

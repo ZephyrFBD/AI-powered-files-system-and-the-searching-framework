@@ -1,0 +1,12 @@
+K activates nuclear regulatory proteins,
+called transcription factors, which turn genes on or off. These genes manage cell division and cell differentiation.
+Note that the Ras protein associated with the RTK receptor and the G protein associated with a GPCR are both G
+proteins because they are activated when a GTP replaces a GDP, but the series of steps that define the pathways of
+these two receptors is very different. Ras is the first cytoplasmic enzyme in a kinase cascade, whereas the G protein
+associated with a GPCR is membrane bound and activates another membrane-bound effector protein.
+Intracellular Receptors
+In contrast to the membrane-bound receptor proteins discussed earlier, intracellular receptors are positioned in the
+cytoplasm or nucleus. The ligands for these intracellular receptor proteins are small molecules or lipidsoluble,
+nonpolar molecules that can passively diffuse across the plasma
+membrane. Ligands also include second messengers, like IP3, that are
+products of a s

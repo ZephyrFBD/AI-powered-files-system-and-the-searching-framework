@@ -1,0 +1,65 @@
+rt in energy than those of an atom:
+on the order of keV or MeV, as compared to a few eV for electrons in an atom.
+Hence, the emitted photons have energies that can range from a few keV to
+several MeV. For a given decay, the 
+ray always has the same energy. Since a 
+ray carries no charge, there is no change in the element as a result of a decay.
+How does a nucleus get into an excited state? It may occur because of a vio-
+lent collision with another particle. More commonly, the nucleus remaining after
+a previous radioactive decay may be in an excited state. A typical example is shown
+g
+g
+g
+g
+e-
+[electron capture]
+Z
+AN + e– S
+Z - 1
+A
+N¿ + n.
+4
+7Be + e– S
+3
+7Li + n,
+3
+7Li.
+4
+7Be,
+b±
+b–
+N¿
+Cb± decayD
+Z
+AN S
+Z - 1
+A
+N¿ + e± + n,
+Cb– decayD
+Z
+AN S
+Z + 1
+A
+N¿ + e– + R
+b±
+b–
+(= positron)
+b–
+n
+e±
+10
+19Ne S
+ 9
+19F + e± + n,
+10
+19Ne:
+b±
+±1e.
+b±
+e±
+B
+b
+868
+CHAPTER 30
+Nuclear Physics and Radioactivity
+†Discussed in Chapter 32. Briefly, an antiparticle has the same mass as its corresponding particle

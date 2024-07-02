@@ -1,0 +1,22 @@
+warf whose mass is
+equal to the Sun’s and whose radius is equal to the Earth’s.
+How many times larger than Earth’s density is this?
+10. (II) A neutron star whose mass is 1.5 solar masses has a
+radius of about 11 km. Calculate its average density and
+compare to that for a white dwarf (Problem 9) and to that
+of nuclear matter.
+*11. (II) A star is 56 pc away. What is its parallax angle? State
+(a) in seconds of arc, and (b) in degrees.
+*12. (II) What is the parallax angle for a star that is 65 ly away?
+How many parsecs is this?
+*13. (II) A star is 85 pc away. How long does it take for its light
+to reach us?
+1.3 * 103 Wm2.
+6 * 1010 m
+14. (III) Suppose two stars of the same apparent brightness b
+are also believed to be the same size. The spectrum of one
+star peaks at 750 nm whereas that of the other peaks at
+450 nm. Use Wien’s law and the Stefan-Boltzmann equation
+(Eq. 14–6) to estimate their relative distances from us.
+[Hint: See Examples 33–4 and 33–5.]
+15. (III) Stars located in a certai

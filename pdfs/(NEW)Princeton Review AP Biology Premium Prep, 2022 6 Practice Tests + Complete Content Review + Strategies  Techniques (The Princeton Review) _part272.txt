@@ -1,0 +1,11 @@
+ in unregulated cell division and cancer. Cancer
+means “crab,” as in the zodiac sign. The name comes from the observation that malignant tumors grow into
+surrounding tissue, embedding themselves like clawed crabs. Cancer occurs when normal cells start behaving and
+growing very abnormally and spread to other parts of the body.
+Mutated genes that induce cancer are called oncogenes (“onco-” is a prefix denoting cancer). Normally, these genes
+are required for proper growth of the cell and regulation of the cell cycle. Oncogenes, then, are genes that can
+convert normal cells into cancerous cells. Often these are abnormal or mutated versions of normal genes. The
+normal healthy version is called a proto-oncogene.
+Tumor suppressor genes produce proteins that prevent the conversion of normal cells into cancer cells. They can
+detect damage to the cell and work with CDK/cyclin complexes to stop cell growth until the damage can be repaired.
+They can also trigger apoptosis if the damage is too seve

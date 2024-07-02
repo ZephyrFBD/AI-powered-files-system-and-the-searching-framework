@@ -1,0 +1,52 @@
+ CBA1.76 * 1011 CkgB =
+em,
+1.6 * 10–19 C.
+q = mgE.
+qE = mg
+em = 1.76 * 1011 Ckg.
+em
+e
+m
+=
+E
+B2r
+.
+v = E
+B
+.
+eE = evB,
+F = evB.
+F = eE,
+SECTION 27–1
+773
+FIGURE 27–3 Millikan’s oil-drop
+experiment.
+–
+–
+
+ 
+  
+Atomizer
+Droplets
+Telescope
+–
+–
+ 
+
+
++
++ +
++
+27–2 Blackbody Radiation;
+Planck’s Quantum Hypothesis
+Blackbody Radiation
+One of the observations that was unexplained at the end of the nineteenth cen-
+tury was the spectrum of light emitted by hot objects. We saw in Section 14–8
+that all objects emit radiation whose total intensity is proportional to the fourth
+power of the Kelvin (absolute) temperature 
+At normal temperatures
+we are not aware of this electromagnetic radiation because of its low
+intensity. At higher temperatures, there is sufficient infrared radiation that we
+can feel heat if we are close to the object. At still higher temperatures (on the
+order of 1000 K), objects actually glow, such as a red-hot electric stove burner or
+the heating element

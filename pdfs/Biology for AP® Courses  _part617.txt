@@ -1,0 +1,10 @@
+trical gradient. When dealing with ions in aqueous solutions, a
+combination of the electrochemical and concentration gradients, rather than just the concentration gradient alone, must be
+considered. Living cells need certain substances that exist inside the cell in concentrations greater than they exist in the
+extracellular space. Moving substances up their electrochemical gradients requires energy from the cell. Active transport
+uses energy stored in ATP to fuel this transport. Active transport of small molecular-sized materials uses integral proteins
+in the cell membrane to move the materials: These proteins are analogous to pumps. Some pumps, which carry out
+primary active transport, couple directly with ATP to drive their action. In co-transport (or secondary active transport),
+energy from primary transport can be used to move another substance into the cell and up its concentration gradient.
+5.4 Bulk Transport
+Active transport methods require the direct use of ATP to fuel the tran

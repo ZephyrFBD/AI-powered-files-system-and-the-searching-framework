@@ -1,0 +1,41 @@
+ out 
+to determine. At the same time, we will see that the relation
+follows
+directly from Newton’s second law,
+We first examine a very simple case: a particle of mass m revolving in a circle
+of radius r at the end of a string or rod whose mass we can ignore compared to m
+(Fig.8–17). Consider a force F that acts on the mass m tangent to the circle as shown.
+The torque that gives rise to an angular acceleration is 
+If we use Newton’s
+second law for linear quantities,
+and Eq. 8–5 relating the angular
+acceleration to the tangential linear acceleration,
+then we have
+When we multiply both sides of this equation by r, we find that the torque 
+or
+[single particle] (8;11)
+Here at last we have a direct relation between the angular acceleration and the
+applied torque 
+The quantity 
+represents the rotational inertia of the particle
+and is called its moment of inertia.
+mr2
+t.
+t = mr2a.
+t = rF = r(mra),
+= mra.
+F = ma
+atan = ra,
+©F = ma,
+t = rF.
+©F = ma.
+a r ©t
+a = ©Fm
+a r ©F.
+a.
+©t
+a r ©t.
+t
+a
+F
+B

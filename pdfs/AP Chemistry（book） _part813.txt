@@ -1,0 +1,17 @@
+ts. The internal energy of a system can 
+change because of energy transferred between the system and the 
+surroundings.
+According to the first law of thermodynamics, the change in 
+the internal energy of a system, ∆E, is the sum of the heat, q, 
+transferred into or out of the system and the work, w, done on 
+or by the system: ∆E = q + w. Both q and w have a sign that in-
+dicates the direction of energy transfer. When heat is transferred 
+from the surroundings to the system, q 7 0. Likewise, when the 
+surroundings do work on the system, w 7 0. In an endothermic 
+process the system absorbs heat from the surroundings; in an exo-
+thermic process the system releases heat to the surroundings.
+The internal energy, E, is a state function. The value of any 
+state function depends only on the state or condition of the sys-
+tem and not on the details of how it came to be in that state. Heat, 
+q, and work, w, are not state functions; their values depend on the 
+particular way by which a system cha

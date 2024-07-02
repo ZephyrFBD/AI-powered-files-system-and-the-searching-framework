@@ -1,0 +1,17 @@
+ch reaction rates are 
+studied. Factors that affect reaction rate are the physical state of the 
+reactants; concentration; temperature; and the presence of catalysts.
+REACTION RATES (SECTION 14.2) Reaction rates are usually 
+expressed as changes in concentration per unit time: Typically, for 
+reactions in solution, rates are given in units of molarity per second 
+1M>s2. For most reactions, a plot of molarity versus time shows that 
+the rate slows down as the reaction proceeds. The instantaneous rate 
+is the slope of a line drawn tangent to the concentration-versus-time 
+curve at a specific time. Rates can be written in terms of the appear-
+ance of products or the disappearance of reactants; the stoichiometry 
+of the reaction dictates the relationship between rates of appearance 
+and disappearance.
+RATES AND CONCENTRATION (SECTION 14.3) The quantitative 
+relationship between rate and concentration is expressed by a rate 
+law, which usually has the following form:
+Rate = k3reactant 14m3r

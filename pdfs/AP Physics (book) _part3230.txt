@@ -1,0 +1,18 @@
+ the distance between the charges, and the constant 
+is
+equal to 
+If the two charges have the same sign, the potential
+energy is positive for all values of r, and a graph of PE versus r in this case is
+shown in Fig. 29–7a. The force is repulsive (the charges have the same sign) and
+the curve rises as r decreases; this makes sense because if one particle moves
+freely toward the other (r getting smaller), the repulsion slows it down so its KE
+gets smaller, meaning PE gets larger. If, on the other hand, the two charges are of
+the opposite sign, the potential energy is negative because the product 
+is
+negative. The force is attractive in this case, and the graph of PE
+versus r
+looks like Fig. 29–7b. The potential energy becomes more negative as r decreases.
+Now let us look at the potential-energy diagram for the formation of a cova-
+lent bond, such as for the hydrogen molecule,
+The potential energy PE of one
+H atom in the presence of the other is plotted in Fig. 29–8. Starting at large r, 

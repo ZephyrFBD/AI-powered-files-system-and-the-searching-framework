@@ -1,0 +1,16 @@
+ss
+Much of the remainder of this Chapter will deal with optical devices that are used
+to produce magnified images of objects. We first discuss the simple magnifier,
+or magnifying glass, which is simply a converging lens (see Chapter-Opening
+Photo, page 713).
+How large an object appears, and how much detail we can see on it, depends
+on the size of the image it makes on the retina. This, in turn, depends on the
+angle subtended by the object at the eye. For example, a penny held 30 cm from
+the eye looks twice as tall as one held 60 cm away because the angle it subtends is
+twice as great (Fig. 25–16). When we want to examine detail on an object, we
+bring it up close to our eyes so that it subtends a greater angle. However, our
+eyes can accommodate only up to a point (the near point), and we will assume
+a standard distance of
+as the near point in what follows.
+A magnifying glass allows us to place the object closer to our eye so that it
+subtends a greater angle. As shown in Fig. 25–17a, the

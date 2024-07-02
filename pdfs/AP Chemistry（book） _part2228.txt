@@ -1,0 +1,25 @@
+4.3 to estimate the half-life for this reaction. (b) Use 
+the half-life from (a) to calculate the rate constant.
+Sample Exercise 14.9
+ Determining the Half-Life of a First-Order Reaction
+SOLUTION
+Analyze We are asked to estimate the half-life of a reaction from a 
+graph of concentration versus time and then to use the half-life to 
+calculate the rate constant for the reaction.
+Plan
+(a) To estimate a half-life, we can select a concentration and then 
+determine the time required for the concentration to decrease 
+to half of that value.
+(b) Equation 14.17 is used to calculate the rate constant from the 
+half-life.
+Solve
+(a) From the graph, we see that the initial value of 3C4H9Cl4 is 
+0.100 M. The half-life for this ﬁrst-order reaction is the time 
+required for 3C4H9Cl4 to decrease to 0.050 M, which we can 
+read off the graph. This point occurs at approximately 340 s.
+(b) Solving Equation 14.17 for k, we have
+k = 0.693
+t1>2
+= 0.693
+340 s = 2.0 * 10-3 s-1
+Check At the end of the second hal

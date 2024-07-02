@@ -1,0 +1,13 @@
+scribed by wave functions, which we call atomic orbitals. In a similar way, molecular 
+orbital theory describes the electrons in molecules by using specific wave functions, each 
+of which is called a molecular orbital (MO).
+Molecular orbitals have many of the same characteristics as atomic orbitals. For 
+example, an MO can hold a maximum of two electrons (with opposite spins), it has a 
+definite energy, and we can visualize its electron-density distribution by using a contour 
+representation, as we did with atomic orbitals. Unlike atomic orbitals, however, MOs are 
+associated with an entire molecule, not with a single atom.
+Molecular Orbitals of the Hydrogen Molecule
+We begin our study of MO theory with the hydrogen molecule, H2. We will use the two 1s 
+atomic orbitals (one on each H atom) to construct molecular orbitals for H2. Whenever two 
+atomic orbitals overlap, two molecular orbitals form. Thus, the overlap of the 1s orbitals of two 
+hydrogen atoms to form H2 produces two MOs. Th

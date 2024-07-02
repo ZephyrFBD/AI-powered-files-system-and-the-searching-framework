@@ -1,0 +1,45 @@
+60.0 cm
+in front of the mirror, on the same side as the object.
+(b) From Eq. 23–3, the magnification is
+The image is 3.0 times larger than the object, and its height is
+The minus sign reminds us that the image is inverted, as shown in Fig. 23–16.
+NOTE When an object is further from a concave mirror than the focal point, we
+can see from Fig. 23–15 or 23–16 that the image is always inverted and real.
+Reversible rays. If the object in Example23–4
+is placed instead where the image is (see Fig. 23–16), where will the new image be?
+RESPONSE The mirror equation is symmetric in 
+and 
+Thus the new image
+will be where the old object was. Indeed, in Fig. 23–16 we need only reverse the
+direction of the rays to get our new situation.
+di .
+do
+CONCEPTUAL EXAMPLE 23;5
+hi = mho = (–3.00)(1.5 cm) =
+–4.5 cm.
+m =
+– di
+do
+=
+– 60.0 cm
+20.0 cm =
+–3.00.
+di
+di = 1A0.0167 cm–1B = 60.0 cm.
+1
+di
+=
+1
+f - 1
+do
+=
+1
+15.0 cm -
+1
+20.0 cm = 0.0167 cm–1.
+A1doB
+OA = do = 20.0 cm.
+15.0 cm,
+FA = f =
+CA = r = 30.0 cm,
+f = 

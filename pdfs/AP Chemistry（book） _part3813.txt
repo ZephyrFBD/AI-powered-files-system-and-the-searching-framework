@@ -1,0 +1,18 @@
+ in the longest chain, beginning with the end 
+nearest a substituent. In our example, we number the C atoms beginning at the 
+upper right because that places the CH3 substituent on C2 of the chain. (If we had 
+numbered from the lower right, the CH3 would be on C5.) The chain is numbered 
+from the end that gives the lower number to the substituent position.
+ 
+3. Name each substituent. A substituent formed by removing an H atom from an 
+alkane is called an alkyl group. Alkyl groups are named by replacing the -ane end-
+ing of the alkane name with -yl. The methyl group 1CH32, for example, is derived 
+from methane 1CH42 and the ethyl group 1C2H52 is derived from ethane 1C2H62. 
+Table 24.4 lists six common alkyl groups.
+ 
+4. Begin the name with the number or numbers of the carbon or carbons to 
+which each substituent is bonded. For our compound, the name 2-methylhexane 
+ 
+indicates the presence of a methyl group on C2 of a hexane (six-carbon) chain.
+TABLE 24.4 Condensed 
+Structural Formulas 

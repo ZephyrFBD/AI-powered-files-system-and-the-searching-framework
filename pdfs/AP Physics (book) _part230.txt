@@ -1,0 +1,22 @@
+ld the bolts be tied
+so that the clinks occur at equal intervals? (Assume the
+string is vertical with the bottom bolt touching the tin plate
+when the string is released.)
+3. A police car at rest is passed by a speeder traveling at a
+constant 
+. The police officer takes off in hot pursuit
+and catches up to the speeder in 850 m, maintaining a
+constant acceleration. (a) Qualitatively plot the position
+vs. time graph for both cars from the police car’s start to
+the catch-up point. Calculate (b) how long it took the
+police officer to overtake the speeder, (c) the required
+police car acceleration, and (d) the speed of the police car
+at the overtaking point.
+140 kmh
+g = 9.8 ms2
+4. Figure 2–51 is a position versus time graph for the motion of
+an object along the x axis. Consider the time interval from
+A to B. (a) Is the object moving in the positive or negative
+x direction? (b) Is the object speeding up or slowing down?
+(c) Is the acceleration of the object positive or negative? Now
+consider

@@ -1,0 +1,35 @@
+s law, which states that the partial pressure 
+exerted by solvent vapor above the solution, P
+solution, equals the product of the mole frac-
+tion of the solvent, Xsolvent, times the vapor pressure of the pure solvent, P°
+solvent:
+ 
+P
+solution = XsolventP°
+solvent 
+[13.10]
+For example, the vapor pressure of pure water at 20 °C is P°
+H2O = 17.5 torr. Imagine 
+holding the temperature constant while adding glucose 1C6H12O62 to the water so that 
+the mole fractions in the resulting solution are XH2O = 0.800 and XC6H12O6 = 0.200. 
+Equilibrium
+Volatile solvent particles
+Nonvolatile solute particles
+Rate of vaporization
+reduced by presence
+of nonvolatile solute
+Add
+nonvolatile
+solute
+Equilibrium reestablished
+with fewer molecules in
+gas phase
+▶ Figure 13.18 Vapor–pressure lowering.The 
+presence of nonvolatile solute particles in a 
+liquid solvent results in a reduction of the 
+vapor pressure above the liquid.
+ 
+SECTION 13.5   
+Colligative Properties 
+543
+According to Equation 13.10, the vapor 

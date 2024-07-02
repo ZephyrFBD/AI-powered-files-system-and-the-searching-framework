@@ -1,0 +1,20 @@
+enetics. Given a multihybrid cross that obeys independent assortment and follows a dominant and recessive
+pattern, several generalized rules exist; you can use these rules to check your results as you work through genetics
+calculations (Table 12.5). To apply these rules, first you must determine n, the number of heterozygous gene pairs (the
+number of genes segregating two alleles each). For example, a cross between AaBb and AaBb heterozygotes has an n of 2.
+In contrast, a cross between AABb and AABb has an n of 1 because A is not heterozygous.
+General Rules for Multihybrid Crosses
+General Rule
+Number of Heterozygous Gene
+Pairs
+Number of different F1 gametes
+2n
+Number of different F2 genotypes
+3n
+Given dominant and recessive inheritance, the number of different F2
+phenotypes
+2n
+Table 12.5
+Linked Genes Violate the Law of Independent Assortment
+Although all of Mendel’s pea characteristics behaved according to the law of independent assortment, we now know
+that some allele combinations are

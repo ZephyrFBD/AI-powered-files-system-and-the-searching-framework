@@ -1,0 +1,11 @@
+living cells. ATP is made up of a nucleotide, a five-carbon sugar, and
+three phosphate groups. The bonds that connect the phosphates (phosphoanhydride bonds) have high-energy content. The
+energy released from the hydrolysis of ATP into ADP + Pi is used to perform cellular work. Cells use ATP to perform
+work by coupling the exergonic reaction of ATP hydrolysis with endergonic reactions. ATP donates its phosphate group to
+another molecule via a process known as phosphorylation. The phosphorylated molecule is at a higher-energy state and is
+less stable than its unphosphorylated form, and this added energy from the addition of the phosphate allows the molecule
+to undergo its endergonic reaction.
+6.5 Enzymes
+Enzymes are chemical catalysts that accelerate chemical reactions at physiological temperatures by lowering their
+activation energy. Enzymes are usually proteins consisting of one or more polypeptide chains. Enzymes have an active site
+that provides a unique chemical environment, made u

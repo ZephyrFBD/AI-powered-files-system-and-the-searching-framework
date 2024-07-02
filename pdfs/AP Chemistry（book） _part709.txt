@@ -1,0 +1,28 @@
+eat. (The wire gets warmer and releases heat to the surroundings.) In Figure 
+5.10(b), the battery is used to make a motor turn and the discharge produces 
+work. Some heat is released, but not as much as when the battery is shorted 
+out. We see that the magnitudes of q and w must be different for these two 
+cases. If the initial and final states of the battery are identical in the two cases, 
+however, then ∆E = q + w must be the same in both cases because E is a state 
+function. Remember: ∆E depends only on the initial and final states of the system, 
+not on the specific path taken from the initial to the final state.
+Go Figure
+If the battery is defined as the system, 
+what is the sign on w in part (b)?
+Energy lost only as heat
+Energy lost as both heat and work
+Charged battery
+Discharged battery
+Energy
+lost by
+battery
+Heat
+Heat
+Work
+DE
+(b)
+(a)
+▲ Figure 5.10 Internal energy is a state  
+function, but heat and work are not. (a) A  
+battery shorted out by a wire loses energy to  
+the surr

@@ -1,0 +1,33 @@
+rms of radioactivity, and how radioactive
+decay can be used in a variety of fields to
+determine the age of old objects, from bones and
+trees to rocks and other mineral substances, and
+obtain information on the history of the Earth.
+Shown is one version of a Chart of the Nuclides.
+Each horizontal row has a square for each known
+isotope (nuclide) of one element with a particular
+Z value (
+number of electrons in the neutral
+atom
+number of protons in the nucleus). At the
+far left is a white box with the average atomic
+weight (or a range if uncertain) of the naturally
+occurring isotopes of that element. Each vertical
+column contains nuclides with the same neutron
+number N. For 
+(to right of pencil), starting at
+the bottom, there is a lone neutron, then above 
+it 
+, then 
+and 
+. Each square is color coded:
+black means a stable nuclide. Radioactive nuclides
+are blue green for 
+decay, pink for 
+decay or
+electron capture ( ) such as 
+, yellow for 
+decay, and so on. Thus 
+and 
+are stable but
+(tr

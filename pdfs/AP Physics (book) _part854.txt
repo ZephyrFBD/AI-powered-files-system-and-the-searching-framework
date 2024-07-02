@@ -1,0 +1,19 @@
+tucked in
+than when they are outstretched.
+Angular momentum is conserved.
+MB
+MA
+v1
+FIGURE 8;29 Example 8–14.
+EXERCISE D When a spinning figure skater pulls in her arms, her moment of inertia
+decreases; to conserve angular momentum, her angular velocity increases. Does her
+rotational kinetic energy also increase? If so, where does the energy come from?
+A similar example is the diver shown in Fig. 8–28. The push as she leaves the
+board gives her an initial angular momentum about her center of mass. When 
+she curls herself into the tuck position, she rotates quickly one or more times. She
+then stretches out again, increasing her moment of inertia which reduces the
+angular velocity to a small value, and then she enters the water. The change in
+moment of inertia from the straight position to the tuck position can be a factor
+of as much as 
+Note that for angular momentum to be conserved, the net torque must be
+zero; but the net force does not necessarily have to be zero. The net force on the

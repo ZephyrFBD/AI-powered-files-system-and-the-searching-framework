@@ -1,0 +1,31 @@
+king the negative logarithm of both sides of Equation 17.5, we have
+-log3H+4 = -logaKa
+3HA4
+3A-4 b = -logKa - log 
+3HA4
+3A-4
+Because -log3H+4 = pH and -logKa = pKa, we have
+ 
+pH = pKa - log 
+3HA4
+3A-4 = pKa + log 
+3A-4
+3HA4 
+[17.8]
+(Remember the logarithm rules in Appendix A.2, if you are not sure how this calculation 
+works.)
+In general,
+ 
+pH = pKa + log 
+3base4
+3acid4 
+[17.9]
+where [acid] and [base] refer to the equilibrium concentrations of the conjugate acid–base 
+pair. Note that when 3base4 = 3acid4, we have pH = pKa.
+Equation 17.9 is known as the Henderson–Hasselbalch equation. Biologists, 
+ 
+biochemists, and others who work frequently with buffers often use this equation to cal-
+culate the pH of buffers. In doing equilibrium calculations, we have seen that we can nor-
+mally neglect the amounts of the acid and  base of the buffer that ionize. Therefore, we 
+can usually use the initial concentrations of the acid and base components of the buffer 
+directly in Equation 17.9, as seen

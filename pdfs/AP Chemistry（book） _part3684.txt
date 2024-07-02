@@ -1,0 +1,20 @@
+3 ligands at 27 °C:
+3Cu(H2O)442+(aq) + 2 NH3(aq) ∆
+ 
+ 3Cu(H2O)2(NH3)242+(aq) + 2 H2O(l)
+∆H° = -46 kJ; ∆S° = -8.4 J>K; ∆G° = -43 kJ
+The thermodynamic data tell us about the relative abilities of 
+H2O and NH3 to serve as ligands in this reaction. In general, NH3 
+binds more tightly to metal ions than does H2O, so this substitution 
+reaction is exothermic (∆H 6 0). The stronger bonding of the NH3 
+ligands also causes the 3Cu(H2O)2(NH3)242+ ion to be more rigid, 
+which is probably the reason ∆S° is slightly negative.
+We can use Equation 19.20, ∆G° = -RT ln K, to calculate 
+the equilibrium constant of the reaction at 27 °C. The result, 
+K = 3.1 * 107, tells us that the equilibrium lies far to the right, 
+favoring replacement of H2O by NH3. For this equilibrium, therefore, 
+the enthalpy change, ∆H° = -46 kJ, is large enough and negative 
+enough to overcome the entropy change, ∆S° = -8.4 J>K.
+Now let’s use a single bidentate ethylenediamine (en) ligand in 
+our substitution reaction:
+3Cu(H2O)4

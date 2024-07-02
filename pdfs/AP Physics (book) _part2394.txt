@@ -1,0 +1,36 @@
+r answers.
+7. The battery mentioned in Question 6 is disconnected. Will
+a current be induced in the second loop? If so, when does
+it start and stop? In what direction is this current?
+8. In Fig. 21–49, determine the direction of the induced cur-
+rent in resistor 
+(a) when coil B is moved toward coil A,
+(b) when coil B is moved away from A, (c) when the resis-
+tance 
+is increased but the coils remain fixed. Explain
+your answers.
+RB
+RA
+Questions
+I
+FIGURE 21–47
+Question 4.
+N
+S
+FIGURE 21–48
+Question 5.
+5. (a) If the north pole of a thin flat magnet moves on a table
+toward a loop also on the table (Fig. 21–48), in what direc-
+tion is the induced current in the loop? Assume the magnet
+is the same thickness as the wire. (b) What if the magnet is
+four times thicker than the wire loop? Explain 
+your answers.
+RB
+RA
+Coil B
+Coil A
+FIGURE 21–49
+Question 8.
+9. In situations where a small signal must travel over a distance,
+a shielded cable is used in which the signal wire is sur-
+rounded by an insul

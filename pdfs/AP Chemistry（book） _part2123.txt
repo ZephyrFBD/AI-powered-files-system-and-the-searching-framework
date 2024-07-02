@@ -1,0 +1,18 @@
+ssure lowering, freezing-point 
+lowering, boiling-point elevation, and osmotic pressure. Raoult’s 
+law expresses the lowering of vapor pressure. An ideal solution obeys 
+Raoult’s law. Differences in solvent–solute as compared with solvent–
+solvent and solute–solute intermolecular forces cause many solu-
+tions to depart from ideal behavior.
+A solution containing a nonvolatile solute possesses a higher 
+boiling point than the pure solvent. The molal boiling-point-elevation 
+constant, Kb, represents the increase in boiling point for a 1 m solution 
+of solute particles as compared with the pure solvent. Similarly, the 
+molal freezing-point-depression constant, Kf, measures the lowering of 
+the freezing point of a solution for a 1 m solution of solute particles. 
+The temperature changes are given by the equations ∆T
+b = iKbm and 
+∆T
+f = -iKf m where i is the van’t Hoff factor, which represents how 
+many particles the solute breaks up into in the solvent. When NaCl 
+dissolves in water, two m

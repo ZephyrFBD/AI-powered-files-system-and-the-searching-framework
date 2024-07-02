@@ -1,0 +1,24 @@
+of the principal quantum 
+number, n. We need to determine the allowed values of l and ml 
+for this given value of n and then count the number of orbitals in 
+each subshell.
+Solve There are four subshells in the fourth shell, corresponding to 
+the four possible values of l (0, 1, 2, and 3).
+These subshells are labeled 4s, 4p, 4d, and 4f. The number 
+given in the designation of a  
+subshell is the principal quan-
+tum number, n; the letter designates the value of the angular 
+ 
+momentum quantum number, l: for l = 0, s; for l = 1, p; for 
+l = 2, d; for l = 3, f.
+There is one 4s orbital (when l = 0, there is only one possible 
+value of ml: 0). There are three 4p orbitals (when l = 1, there are 
+ 
+▶Practice Exercise 1
+An orbital has n = 4 and ml = -1. What are the possible values 
+of l for this orbital? (a) 0, 1, 2, 3 (b) -3, -2, -1, 0, 1, 2, 3  
+(c) 1, 2, 3 (d) -3, -2  (e) 1, 2, 3, 4
+ 
+▶Practice Exercise 2
+(a) What is the designation for the subshell with n = 5 and 
+l = 1? (b) How many orbi

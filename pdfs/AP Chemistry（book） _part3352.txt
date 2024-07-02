@@ -1,0 +1,57 @@
+m the electron 
+cloud surrounding the nucleus, as in this rubidium-81 decay:
+ 
+81
+37Rb +
+0
+-1e 1orbital electron2 ¡ 81
+36Kr 
+[21.6]
+Because the electron is consumed rather than formed in the process, it is shown on the 
+reactant side of the equation. Electron capture, like positron emission, has the effect of 
+converting a proton to a neutron:
+ 
+1
+1p +
+0
+-1e ¡ 1
+0n 
+[21.7]
+Table 21.2 summarizes the symbols used to represent the particles commonly 
+encountered in nuclear reactions. The various types of radioactive decay are summarized 
+in Table 21.3.
+TABLE 21.2 Particles Found in 
+Nuclear Reactions
+Particle
+Symbol
+Neutron
+1
+0n or n
+Proton
+1
+1H or p
+Electron
+0
+-1e
+Alpha particle
+4
+2He or a
+Beta particle
+0
+-1e or b-
+Positron
+0
++1e or b+
+*The positron has a very short life because it is annihilated when it collides with an electron, 
+producing gamma rays: 0
++1e +
+0
+-1e ¡ 2 0
+0g.
+ 
+SECTION 21.2   
+Patterns of Nuclear Stability 
+905
+TABLE 21.3 Types of Radioactive Decay
+Type
+Nuclear Equation

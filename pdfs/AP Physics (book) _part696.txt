@@ -1,0 +1,26 @@
+ies and masses are, experiments
+show that the total momentum before the collision is the same as afterward,
+whether the collision is head-on or not, as long as no net external force acts:
+(7;3)
+That is, the total vector momentum of the system of two colliding balls is conserved:
+it stays constant. (We saw this result in this Chapter’s opening photograph.)
+Although the law of conservation of momentum was discovered experimen-
+tally, it can be derived from Newton’s laws of motion, which we now show.
+Let us consider two objects of mass 
+and 
+that have momenta
+and
+before they collide and 
+and 
+after they
+collide, as in Fig. 7–4. During the collision, suppose that the force exerted by
+object A on object B at any instant is 
+Then, by Newton’s third law, the force
+exerted by object B on object A is 
+During the brief collision time, we assume
+no other (external) forces are acting (or that 
+is much greater than any other
+external forces acting). Over a very short time interval 
+we have
+and
+We a

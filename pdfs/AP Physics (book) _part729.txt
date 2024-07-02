@@ -1,0 +1,54 @@
+ which a moving object (called
+the “projectile”) strikes a second object initially at rest (the “target”). This is the
+common situation in games such as billiards and pool, and for experiments in
+atomic and nuclear physics (the projectiles, from radioactive decay or a high-
+energy accelerator, strike a stationary target nucleus, Fig. 7–17).
+Figure 7–18 shows the incoming projectile,
+heading along the x axis
+toward the target object,
+which is initially at rest. If these are billiard balls,
+strikes 
+not quite head-on and they go off at the angles 
+and 
+respectively, which are measured relative to 
+’s initial direction (the x axis).†
+mA
+uB
+œ ,
+uA
+œ
+mB
+mA
+mB ,
+mA,
+*
+*SECTION 7–7
+Collisions in Two Dimensions
+183
+  A
+B
+B
+A
+A
+′A = 45°
+θ
+   ′B = ?
+   ′
+A = ?
+′B = −45°
+θ
+v
+B
+v
+B
+v
+B
+y
+x
+FIGURE 7;19 Example 7–11.
+C A U T I O N
+Equation 7–7 applies only in 1-D
+The y component equation of momentum conservation is then
+or
+(7;8b)
+When we have two independent equations, we can solve for two unknowns 

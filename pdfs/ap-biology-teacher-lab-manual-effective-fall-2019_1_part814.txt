@@ -1,0 +1,26 @@
+ion 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Set your machine at zero absorbance using a blank containing all the appropriate 
+materials 
+ except the substrate (i.e., 13.3 mL of distilled water, 0.2 mL of guaiacol, and 
+1.5 mL of enzyme extract = 15 mL total). 
+4. Determine the baseline. 
+A.Using two 16 x 150 mm test tubes, label one “substrate” and the other “enzyme.” 
+Substrate tube: 7 mL of distilled water, 0.3 mL of hydrogen peroxide, and 0.2 mL 
+guaiacol (total volume 7.5 mL) Enzyme tube:  6 mL of distilled water and 1.5 mL 
+of peroxidase (total volume 7.5 mL) 
+B. Combine the materials of the substrate and enzyme tubes. Mix the tubes twice 
+and pour into a cuvette. (When mixing or rotating always cover the opening of 
+the cuvette with Parafilm.) 
+C. Place the cuvette into the spectrophometer and record absorbance; this is your 
+initial or “0” time reading. Remove the tube. Repeat recording absorbance at 1, 
+2, 3, 4, and 5 minutes. Be sure to rotate (use Parafilm to cover) the tube and also 
+clean

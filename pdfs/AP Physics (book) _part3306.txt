@@ -1,0 +1,17 @@
+pied energy band (the valence band) is completely
+full, and there is a large energy gap (5 to 10 eV) to the next highest
+band, the conduction band. At room temperature, molecular
+kinetic energy (thermal energy) available due to collisions is only
+about 0.04 eV, so almost no electrons can jump from the valence
+to the conduction band in an insulator. In a semiconductor, the
+gap between valence and conduction bands is much smaller,
+on the order of 1 eV, so a few electrons can make the transition
+from the essentially full valence band to the nearly empty
+conduction band, allowing a small amount of conductivity.
+In a doped semiconductor, a small percentage of impurity
+atoms with five or three valence electrons replace a few of the
+normal silicon atoms with their four valence electrons. A five-
+electron impurity produces an n-type semiconductor with
+negative electrons as carriers of current. A three-electron
+impurity produces a p-type semiconductor in which positive
+holes carry the current. 

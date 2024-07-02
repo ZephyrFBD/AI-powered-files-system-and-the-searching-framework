@@ -1,0 +1,15 @@
+e fraction is as a
+whole. For example, is less than 
+Thus, if the speed is doubled, the time is halved,
+which is what we want to express by this inverse proportionality relationship.
+If you suspect that a relationship exists between two or more quantities, you
+can try to determine the precise nature of this relationship by varying one of the
+quantities and measuring how the other varies as a result. Sometimes a given
+quantity is affected by two or more quantities; for instance, the acceleration of an
+object is related to both its mass and the applied force. In such a case, only one
+quantity is varied at a time, while the others are held constant.
+When one quantity affects another, we often use the expression is a function of
+to indicate this dependence; for example, we say that the pressure in a tire is a
+function of the temperature.
+Whatever kind of proportion is found to hold, it can be changed to an equality
+by finding the proper proportionality constant. Quantitative statements or

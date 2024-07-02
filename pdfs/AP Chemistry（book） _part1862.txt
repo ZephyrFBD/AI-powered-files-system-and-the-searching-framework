@@ -1,0 +1,36 @@
+or 100%
+*It is only the position of the center of the atom that matters. Atoms that reside near the 
+boundary of the unit cell but not on a corner, edge, or face are counted as residing 100% 
+within the unit cell.
+Go Figure
+What type of two-dimensional lattice describes the structure of a single 
+layer of close-packed atoms?
+Hexagonal close packing (hcp)
+Cubic close packing (ccp)
+Spheres sit in depressions
+marked with yellow dots.
+Spheres sit in depressions
+marked with yellow dots.
+Spheres sit in depressions
+that lie directly over spheres of
+first layer, ABAB stacking.
+First layer
+top view
+Second layer
+top view
+Third layer
+top view
+Side view
+A
+B
+A
+A
+B
+C
+Spheres sit in depressions
+marked with red dots; centers of 
+third-layer spheres offset from centers 
+of spheres in first two layers, 
+ABCABC stacking.
+▲ Figure 12.13 Close packing of equal-sized spheres. Hexagonal (left) close packing and cubic  
+(right) close packing are equally efficient ways of packing spheres. The red and yellow do

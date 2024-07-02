@@ -1,0 +1,28 @@
+ mass of the parent nucleus is greater than the mass of the daughter
+nucleus plus the mass of the 
+particle. The mass difference appears as kinetic
+energy, which is carried away by the 
+particle and the recoiling daughter nucleus.
+The total energy released is called the disintegration energy, Q, or the Q-value
+of the decay. From conservation of energy,
+where Q equals the kinetic energy of the daughter and 
+particle, and 
+and 
+are the masses of the parent, daughter, and 
+particle, respectively. Thus
+(30;2)
+If the parent had less mass than the daughter plus the 
+particle (so 
+), the
+decay would violate conservation of energy. Such decays have never been
+observed, another confirmation of this great conservation law.
+Uranium decay energy release. Calculate the disintegra-
+tion energy when 
+decays to 
+(228.028741 u)
+with the emission of an 
+particle. (As always, masses given are for neutral atoms.)
+APPROACH We use conservation of energy as expressed in Eq. 30–2.
+is the
+parent,
+is the daught

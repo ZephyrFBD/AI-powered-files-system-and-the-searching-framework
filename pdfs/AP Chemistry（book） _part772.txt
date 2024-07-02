@@ -1,0 +1,19 @@
+ion reaction: -∆Hf°3C3H81g24.
+Formation of CO2. Equation 5.27 is the formation reaction for 3 mol of CO21g2. 
+Because enthalpy is an extensive property, the enthalpy change for this step is 
+3∆Hf°3CO21g24.
+Formation of H2O. The enthalpy change for Equation 5.28, formation of 4 mol of 
+H2O, is 4∆Hf°3H2O1l24. The reaction specifies that H2O1l2 is produced, so be careful 
+to use the value of ∆Hf° for H2O1l2 and not the value for H2O1g2.
+Note that in this analysis we assume that the stoichiometric coefficients in the bal-
+anced equation represent the number of moles of each substance. For Equation 5.29, 
+therefore, ∆H°
+rxn = -2220 kJ represents the enthalpy change for the reaction of 1 mol 
+C3H8 and 5 mol O2 to form 3 mol CO2 and 4 mol H2O.
+We can break down any reaction into formation reactions as we have done here. 
+When we do, we obtain the general result that the standard enthalpy change of a 
+1  
+2  
+3  
+Give It Some Thought
+Ozone, O3(g), is a form of elemental oxygen produced during 

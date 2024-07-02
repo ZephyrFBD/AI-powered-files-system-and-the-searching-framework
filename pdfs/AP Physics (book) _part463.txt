@@ -1,0 +1,59 @@
+The ball makes 2.00 revolutions in a second. What is its 
+centripetal acceleration?
+APPROACH The centripetal acceleration is  
+We are given r, and we
+can find the speed of the ball, v, from the given radius and frequency.
+SOLUTION If the ball makes 2.00 complete revolutions per second, then the
+ball travels in a complete circle in a time interval equal to 0.500 s, which is its
+period T. The distance traveled in this time is the circumference of the circle,
+where r is the radius of the circle. Therefore, the ball has speed
+The centripetal acceleration† is
+EXERCISE A In Example 5–1, if the radius is doubled to 1.20 m, but the period stays 
+the same, the centripetal acceleration will change by a factor of:
+(a) 2; (b) 4; (c) 
+(d) 
+(e) none of these.
+1
+4 ;
+1
+2 ;
+aR = v2
+r
+= (7.54 ms)2
+(0.600 m)
+= 94.7 ms2.
+v = 2pr
+T
+= 2p(0.600 m)
+(0.500 s)
+= 7.54 ms.
+2pr,
+aR = v2r.
+EXAMPLE 5;1
+v = distance
+time
+= 2pr
+T
+.
+2pr
+2pr
+1
+3 s.
+(= rev)
+3 revs,
+T =
+1
+f
+.
+v
+B
+a
+B
+v
+B
+a
+B
+aR = v2r.
+aR = v2
+r .
+SE

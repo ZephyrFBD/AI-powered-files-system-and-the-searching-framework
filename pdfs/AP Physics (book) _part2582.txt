@@ -1,0 +1,20 @@
+he light from the first lens before it forms an image, this technique still
+works.
+*
+Measuring f for a diverging lens. To measure the focal
+length of a diverging lens, a converging lens is placed in contact with it, as shown
+in Fig. 23–45. The Sun’s rays are focused by this combination at a point 28.5 cm
+behind the lenses as shown. If the converging lens has a focal length 
+of 16.0 cm,
+what is the focal length 
+of the diverging lens? Assume both lenses are thin
+and the space between them is negligible.
+APPROACH The image distance for the first lens equals its focal length (16.0 cm)
+since the object distance is infinity 
+The position of this image, even though
+it is never actually formed, acts as the object for the second (diverging) lens. We
+apply the thin lens equation to the diverging lens to find its focal length, given
+that the final image is at
+SOLUTION Rays from the Sun are focused 28.5 cm behind the combination,
+so the focal length of the total combination is
+If the diverging le

@@ -1,0 +1,23 @@
+Aqueous Equilibria
+Sample Exercises 17.1 and 17.2 both involve weak acids. The ionization of a weak 
+base is also decreased by the addition of a common ion. For example, the addition of 
+NH4
++ (as from the strong electrolyte NH4Cl) causes the equilibrium concentrations of 
+the reagents in Equation 17.2 to shift to the left, decreasing the equilibrium concentra-
+tion of OH- and lowering the pH:
+ 
+NH31aq2 + H2O1l2 ∆ NH4
+  +1aq2 + OH -1aq2 
+[17.2]
+Addition of NH4+ shifts equilibrium
+concentrations, lowering [OH−]
+Calculate the fluoride ion concentration and pH of a solution that is 0.20 M in HF and 0.10 M in HCl.
+Sample Exercise 17.2 
+Calculating Ion Concentrations When a Common Ion Is Involved
+SOLUTION
+Analyze We are asked to determine the concentration of F- and the 
+pH in a solution containing the weak acid HF and the strong acid 
+HCl. In this case the common ion is H+.
+Plan We can again use the four steps outlined in Sample Exercise 17.1.
+Solve 
+Because HF is a weak acid and HCl is a 

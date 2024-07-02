@@ -1,0 +1,32 @@
+surface, the maximum kinetic energy of emitted electrons
+is 1.40 eV. What is the work function of the metal?
+25. (II) The threshold wavelength for emission of electrons
+from a given surface is 340 nm. What will be the maximum
+kinetic energy of ejected electrons when the wavelength is
+changed to (a) 280 nm, (b) 360 nm?
+26. (II) A certain type of film is sensitive only to light whose
+wavelength is less than 630 nm. What is the energy (eV and
+) needed for the chemical reaction to occur which
+causes the film to change?
+27. (II) When 250-nm light falls on a metal, the current through a
+photoelectric circuit (Fig.27–6) is brought to zero at a stopping
+voltage of 1.64 V. What is the work function of the metal?
+28. (II) In a photoelectric experiment using a clean sodium
+surface, the maximum energy of the emitted electrons was
+measured for a number of different incident frequencies,
+with the following results.
+Frequency 
+Energy (eV)
+11.8
+2.60
+10.6
+2.11
+9.9
+1.81
+9.1
+1.47
+8.2
+1.10
+6.9
+0.57
+Plot t

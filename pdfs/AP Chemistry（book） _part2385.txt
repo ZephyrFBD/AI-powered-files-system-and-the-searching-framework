@@ -1,0 +1,30 @@
+us reactants.) The tempera-
+ture is 273 + 300 = 573 K. The value for the ideal-gas constant, R, 
+is 0.08206 L@atm>mol@K. Using Kc = 9.60, we therefore have
+Kp = Kc 1RT2∆n = 19.60210.08206 * 5732-2
+=
+19.602
+10.08206 * 57322 = 4.34 * 10-3
+ 
+▶Practice Exercise 1
+For which of the following reactions is the ratio Kp>Kc largest 
+at 300 K?
+(a) N21g2 + O21g2 ∆ 2 NO1g2
+(b) CaCO31s2 ∆ CaO1s2 + CO21g2
+(c) Ni1CO241g2 ∆ Ni1s2 + 4 CO1g2
+(d) C1s2 + 2 H21g2 ∆ CH41g2
+ 
+▶Practice Exercise 2
+For the equilibrium 2 SO31g2 ∆ 2 SO21g2 + O21g2,
+Kc is 4.08 * 10-3 at 1000 K. Calculate the value for Kp.
+Equilibrium Constants and Units
+You may wonder why equilibrium constants are reported without units. The equilib-
+rium constant is related to the kinetics of a reaction as well as to the thermodynamics. 
+(We explore this latter connection in Chapter 19.) Equilibrium constants derived from 
+ 
+SECTION 15.2   
+The Equilibrium Constant 
+631
+632 
+CHAPTER 15 Chemical Equilibrium
+thermodynamic measurements are defined i

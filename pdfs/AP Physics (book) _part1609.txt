@@ -1,0 +1,48 @@
+exam-
+ple, if the gas in Fig. 15–5 expands very slowly against the piston, the work done
+by the gas to raise the piston is the force F times the distance d. But the force 
+is just the pressure P of the gas times the area A of the piston,
+Thus,
+Note that
+the change in volume of the gas, so
+[constant pressure] (15;3)
+Equation 15–3 also holds if the gas is compressed at constant pressure, in which
+case 
+is negative (since V decreases); W is then negative, which indicates 
+that work is done on the gas. Equation 15–3 is also valid for liquids and solids,
+as long as the pressure is constant during the process.
+In an isovolumetric process (Fig. 15–4b) the volume does not change, so no
+work is done, W = 0.
+¢V
+W = P ¢V.
+Ad = ¢V,
+W = Fd = PAd.
+F = PA.
+¢T = 0.
+¢U = 0
+(= nRT)
+¢U = 3
+2 nR ¢T
+¢U = –W.
+Q = 0,
+Q = 0.
+(Q  0)
+W = Q:
+¢U = Q - W = 0,
+¢U = 3
+2 nR ¢T = 0.
+A
+B
+P
+P
+0
+0
+B
+A
+V
+V
+(a) Isobaric
+(b) Isovolumetric
+FIGURE 15–4 (a) Isobaric (“same
+pressure”) process. (b) Isovolumetric
+(“same volume”)

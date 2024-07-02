@@ -1,0 +1,31 @@
+.
+FIGURE 23–48
+Question 12.
+†Students at MIT did a feasibility study. See 
+www.mit.edu/2.009/www/experiments/deathray/10_ArchimedesResult.html.
+predict
+This occurs if 
+exceeds the critical angle 
+given by
+(23;6)
+A lens uses refraction to produce a real or virtual image.
+Parallel rays of light are focused to a point, the focal point, by a
+converging lens. The distance of the focal point from the lens is
+the focal length f of the lens. It is the same on both sides of the lens.
+After parallel rays pass through a diverging lens, they
+appear to diverge from a point in front of the lens, which is its
+focal point; and the corresponding focal length is considered
+negative.
+The power P of a lens, which is 
+(Eq. 23–7), is
+given in diopters, which are units of inverse meters 
+For a given object, the position and size of the image formed
+by a lens can be found approximately by ray tracing. Algebrai-
+cally, the relation between image and object distances,
+and do,
+di
+Am–1B.
+P = 1f
+sin uC = n2
+n1
+.

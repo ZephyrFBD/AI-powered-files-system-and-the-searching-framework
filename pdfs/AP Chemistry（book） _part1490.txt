@@ -1,0 +1,20 @@
+on 
+between the nuclei and is called an antibonding molecular orbital. 
+Antibonding MOs exclude electron density from the region between 
+the nuclei and have a nodal plane—a place at which the electron den-
+sity is zero—between the nuclei. Occupation of bonding MOs favors 
+bond formation, whereas occupation of antibonding MOs is unfa-
+vorable. The bonding and antibonding MOs formed by the combi-
+nation of s orbitals are sigma 1S2  molecular orbitals; they lie on the 
+internuclear axis.
+The combination of atomic orbitals and the relative energies of 
+the molecular orbitals are shown by an energy-level (or molecular or-
+bital) diagram. When the appropriate number of electrons is put into 
+the MOs, we can calculate the bond order of a bond, which is half 
+ 
+the difference between the number of electrons in bonding MOs 
+ 
+and the number of electrons in antibonding MOs. A bond order of 1 
+corresponds to a single bond, and so forth. Bond orders can be frac-
+tional numbers.
+BONDING IN PERIOD 

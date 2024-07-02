@@ -1,0 +1,17 @@
+ox would have been zero. For a hollow box, the external field is not
+changed since the electrons in the metal can move just as freely as before to the
+surface. Hence the field inside the hollow metal box is also zero, and the field lines
+are shown in Fig. 16–36b. A conducting box is an effective device for shielding
+delicate instruments and electronic circuits from unwanted external electric fields.
+We also can see that a relatively safe place to be during a lightning storm is inside
+a parked car, surrounded by metal. See also Fig. 16–37, where a person inside a
+porous “cage” is protected from a strong electric discharge. (It is not safe in a
+lightning storm to be near a tree which can conduct, or out in the open where
+you are taller than the surroundings.)
+CONCEPTUAL EXAMPLE 16;11
+FIGURE 16–37 High-voltage “Van 
+de Graaff” generators create strong
+electric fields in the vicinity of the
+“Faraday cage” below. The strong field
+accelerates stray electrons in the
+atmosphere to the KE neede

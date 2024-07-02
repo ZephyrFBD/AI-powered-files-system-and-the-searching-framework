@@ -1,0 +1,91 @@
+mg C fixed
+mg C fixed
+×
+  
+L
+mL O  
+L
+=
+(at standard temperature and pressure) 
+dY = 
+dt = 
+amount of change 
+change in time 
+B = birth rate 
+D = death rate 
+N = population size 
+K = carrying capacity 
+rmax = maximum per capita  
+growth rate of population 
+Surface Area and Volume 
+Volume of a Sphere 
+3
+4
+3
+V
+r
+p
+=
+ 
+Volume of a Rectangular Solid 
+V
+wh
+= 
+ 
+Volume of a Right Cylinder 
+V
+r
+= p 2  
+h
+Surface Area of a Sphere 
+2
+4
+A
+r
+p
+=
+ 
+Surface Area of a Cube 
+2
+6
+A
+s
+=
+ 
+Surface Area of a Rectangular Solid 
+surface area of each side  
+A = Â
+r = radius  
+ = length 
+h = height 
+w = width 
+s = length of one 
+side of a cube 
+A = surface area 
+V = volume 
+ = sum of all 
+Gibbs Free Energy 
+ΔG = ΔH – TΔS 
+ΔG = change in Gibbs free energy 
+ΔS = change in entropy 
+ΔH = change in enthalpy  
+T = absolute temperature (in Kelvin) 
+Water Potential ( Y ) 
+ 
+P
+Y
+Y
+Y
+=
++
+ 
+S
+ 
+P
+Y  = pressure potential 
+ 
+S
+Y  = solute potential 
+ 
+The water potential will be equal to 
+the solute potential of a sol

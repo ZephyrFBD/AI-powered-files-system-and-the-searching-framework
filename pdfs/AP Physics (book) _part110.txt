@@ -1,0 +1,75 @@
+ back-and-forth swing) is
+or 
+where g is the
+acceleration due to gravity and, like all accelerations, has dimensions 
+(Do not worry about these formulas—the correct one will be derived in 
+Chapter 11; what we are concerned about here is a person’s recalling whether it
+contains 
+or 
+) A dimensional check shows that the former 
+is correct:
+whereas the latter 
+is not:
+The constant 
+has no dimensions and so can’t be checked using dimensions.
+2p
+[T] Z
+D
+CLT2D
+[L]
+=
+C
+1
+CT2D
+=
+1
+[T]
+.
+(gl)
+[T] =
+C
+[L]
+CLT2D
+= 3CT2D
+= [T],
+(lg)
+gl.
+lg
+CLT2D.
+T = 2p1gl ,
+T = 2p1lg
+l
+2p
+1
+2
+ B L
+T R + [L].
+B L
+T R  B L
+T R + B L
+T2 R CT2D
+CLT2D:
+[LT]
+1
+2
+v0
+t
+v
+v = v0 + 1
+2 at2,
+CL2D.
+A = pr2.
+A = 1
+2 bh,
+[LT].
+mih,
+kmh, ms,
+cm2,
+CL2D,
+*
+MisConceptual Questions
+17
+[The Summary that appears at the end of each Chapter in this book
+gives a brief overview of the main ideas of the Chapter. The Summary
+cannot serve to give an understanding of the material, which can be
+accomplished only by a detailed

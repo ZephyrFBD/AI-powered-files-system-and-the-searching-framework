@@ -1,0 +1,20 @@
+yellow?
+(A) 0%
+(B) 25%
+(C) 66%
+(D) 75%
+Questions 4-6 refer to the following pedigree tree and paragraph.
+Figure 1. Pedigree tree of family members with an X-linked disease
+Hemophilia is an X-linked disease associated with the inability to produce specific proteins in the blood-clotting
+pathway. In Figure 1, the family members afflicted with the disease are shown with filled-in squares (male) or
+circles (females). A couple is trying to determine the likelihood of passing on the disease to their future children
+(represented by the ? symbol above) because the hemophilia runs in the woman’s family.
+4. Assuming that the woman in the couple is a carrier, what is the probability that the couple’s first son will have
+hemophilia?
+(A) 0%
+(B) 25%
+(C) 50%
+(D) 100%
+5. Why were both women in the family tree above free of the disease?
+(A) They were lucky because they didn’t receive an X chromosome with the diseased allele.
+(B) They cannot get hemophilia because it is associated only with a diseased Y

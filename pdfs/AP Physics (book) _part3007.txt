@@ -1,0 +1,15 @@
+he wave theory makes the following predictions:
+1. If the light intensity is increased, the number of electrons ejected and their
+maximum kinetic energy should be increased because the higher intensity
+means a greater electric field amplitude, and the greater electric field should
+eject electrons with higher speed.
+2. The frequency of the light should not affect the kinetic energy of the ejected
+electrons. Only the intensity should affect 
+The photon theory makes completely different predictions. First we note that
+in a monochromatic beam, all photons have the same energy 
+Increasing
+the intensity of the light beam means increasing the number of photons in the
+beam, but does not affect the energy of each photon as long as the frequency is
+not changed. According to Einstein’s theory, an electron is ejected from the metal
+by a collision with a single photon. In the process, all the photon energy is trans-
+ferred to the electron and the photon ceases to exist. Since electrons are held in

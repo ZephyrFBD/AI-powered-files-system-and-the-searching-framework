@@ -1,0 +1,27 @@
+rief
+description of the role of each modification in either
+regulating oxygen or synthesizing ammonia.
+The Krebs cycle in prokaryotes and eukaryotes differs. In
+prokaryotes, the Krebs cycle occurs in the cytoplasm and
+the intermediate 2-oxoglutarate (?-ketoglutarate) is absent.
+C. Construct a representation of the regulation of genes
+encoding the nitrogen fixation system using the elements
+below. The irregular shapes are either metabolites or
+transcription factors, NtcA, HetR, and PatS. In your
+representation, label each shape using the names on the
+left in the figure below. Your representation must account
+for these observations:
+•
+when nitrogen is limiting, 2-oxoglutarate
+concentration in the cytoplasm increases
+•
+HetR is transcribed when 2-oxoglutarate
+concentrations are low
+•
+PatS is transcribed when 2-oxoglutarate
+concentrations are low
+•
+nitrogenase is transcribed when HetR concentrations
+are high and PatS concentrations are low
+•
+when PatS concentrations are high, nifX genes are

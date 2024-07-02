@@ -1,0 +1,29 @@
+ water 
+the density can be determined using Archimedes’
+principle, as the following Example shows. The quantity 
+is called the apparent
+weight in water, and is what a scale reads when the object is submerged in water
+(see Fig. 10–13);
+equals the true weight 
+minus the buoyant force.
+(w = mg)
+w¿
+w¿
+(= w¿),
+(= w)
+270
+CHAPTER 10
+Fluids
+Archimedes: Is the crown gold? When a crown of mass
+14.7 kg is submerged in water, an accurate scale reads only 13.4 kg. Is the crown
+made of gold?
+APPROACH If the crown is gold, its density and specific gravity must be very high,
+(see Section 10–2 and Table 10–1). We determine the specific gravity
+using Archimedes’ principle and the two free-body diagrams shown in Fig. 10–13.
+SOLUTION The apparent weight of the submerged object (the crown) is 
+(what the scale reads), and is the force pulling down on the scale hook. By
+Newton’s third law,
+equals the force 
+that the scale exerts on the crown in
+Fig. 10–13b. The sum of the forces on the crown is zero, so 
+equ

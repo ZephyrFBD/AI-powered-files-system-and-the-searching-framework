@@ -1,0 +1,35 @@
+article
+duality and the unavoidable interaction between an observed
+object and the observer.
+One form of the uncertainty principle states that the
+position x and momentum 
+of an object cannot both be
+measured precisely at the same time. The products of the
+uncertainties,
+can be no less than 
+(28;1)
+Another form of the uncertainty principle states that the
+energy can be uncertain (or nonconserved) by an amount 
+for a time 
+where
+(28;2)
+According to quantum mechanics, the state of an electron in
+an atom is specified by four quantum numbers: n,
+and 
+(1) n, the principal quantum number, can take on any integer
+value 
+and corresponds to the quantum number
+of the old Bohr model;
+(2)
+the orbital quantum number, can take on values from 0
+up to 
+(3)
+the magnetic quantum number, can take on integer
+values from 
+to 
+(4)
+the spin quantum number, can be 
+or 
+The energy levels in the hydrogen atom depend on n,
+whereas in other atoms they depend on n and
+The orbital angular momentum of an atom has ma

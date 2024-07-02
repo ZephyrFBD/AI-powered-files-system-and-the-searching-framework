@@ -1,0 +1,29 @@
+se half-cell reactions leads to the cell 
+reaction with the smallest positive cell potential and calcu-
+late the value.
+ 20.40  Given the following half-reactions and associated standard 
+reduction potentials:
+AuBr4
+-1aq2 + 3 e- ¡ Au1s2 + 4 Br-1aq2 
+ 
+ E°
+red = -0.86 V
+Eu3+1aq2 + e- ¡ Eu2+1aq2 
+ 
+E°
+red = -0.43 V
+IO-1aq2 + H2O1l2 + 2 e- ¡ I-1aq2 + 2 OH-1aq2 
+ 
+E°
+red = +0.49 V
+(a) Write the equation for the combination of these half-
+cell reactions that leads to the largest positive emf and cal-
+culate the value. (b) Write the equation for the combina-
+tion of half-cell reactions that leads to the smallest positive 
+emf and calculate that value.
+ 20.41  A 1 M solution of Cu1NO322 is placed in a beaker with a 
+strip of Cu metal. A 1 M solution of SnSO4 is placed in a 
+second beaker with a strip of Sn metal. A salt bridge con-
+nects the two beakers, and wires to a voltmeter link the two 
+metal electrodes. (a) Which electrode serves as the anode, 
+and which as the cathode? (b) Which elect

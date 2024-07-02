@@ -1,0 +1,16 @@
+7 for lighting a flashlight bulb with a
+flashlight battery and a single wire?
+RESPONSE (a) There is no closed path for charge to flow around. Charges
+might briefly start to flow from the battery toward the lightbulb, but there they
+run into a “dead end,” and the flow would immediately come to a stop.
+(b) Now there is a closed path passing to and from the lightbulb; but the wire
+touches only one battery terminal, so there is no potential difference in the cir-
+cuit to make the charge move. Neither here, nor in (a), does the bulb light up.
+(c) Nothing is wrong here. This is a complete circuit: charge can flow out from
+one terminal of the battery, through the wire and the bulb, and into the other
+terminal. This scheme will light the bulb.
+CONCEPTUAL EXAMPLE 18;2
+In many real circuits, wires are connected to a common conductor that pro-
+vides continuity. This common conductor is called ground, usually represented as
+or 
+, and really is connected to the ground for a building or house. In a 

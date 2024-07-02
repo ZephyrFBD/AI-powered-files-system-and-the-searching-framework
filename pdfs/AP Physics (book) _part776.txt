@@ -1,0 +1,48 @@
+line as shown in Fig. 7–38. What is the position, along this
+line, of the CM of this system? Assume the cubes are made of
+the same uniform material.
+3l0 ,
+l0 , 2l0 ,
+0.50 m
+0.25 m
+1.00 kg
+1.50 kg
+1.10 kg
+FIGURE 7;37 Problem 50.
+l0
+2l0
+x = 0
+3l0
+x
+FIGURE 7;38
+Problem 52.
+53. (II) A (lightweight) pallet has a load of ten identical cases of
+tomato paste (see Fig. 7–39),
+each of which is a cube of
+length 
+Find the center of
+gravity in the horizontal plane,
+so that the crane operator can
+pick up the load without tip-
+ping it.
+l.
+l
+FIGURE 7;39
+Problem 53.
+FIGURE 7;36
+Problem 46.
+(Ball A after 
+the collision is 
+not shown.)
+43. (III) A bullet of mass
+embeds itself in a
+wooden block with mass
+which then com-
+presses a spring 
+by a distance 
+before coming to rest. The coefficient of kinetic friction
+between the block and table is  
+(a) What is the
+initial velocity (assumed horizontal) of the bullet? (b) What
+fraction of the bullet’s initial kinetic energy is dissipated
+(in damage to the wooden 

@@ -1,0 +1,23 @@
+calculate the energy gap between the t2 and 
+e orbitals from this diagram?
+Light
+of
+495 nm
+Energy
+e
+t2
+Give It Some Thought
+Why are compounds of Ti(IV) colorless?
+The magnitude of the crystal-field splitting energy and, consequently, the color 
+of a complex depend on both the metal and the ligands. For example, we saw in Fig-
+ure 23.4 that the color of 3M(H2O)642+ complexes changes from reddish-pink when the 
+metal ion is Co2+, to green for Ni2+, to pale blue for Cu2+. If we change the ligands in 
+the 3Ni(H2O)642+ ion, the color also changes. 3Ni(NH3)642+ has a blue-violet color, while 
+3Ni(en)342+ is purple (Figure 23.30). In a ranking called the spectrochemical series, 
+ligands are arranged in order of their abilities to increase the crystal-field splitting energy, 
+as in this abbreviated list:
+::Increasing ∆¡
+Cl- 6 F- 6 H2O 6 NH3 6 en 6 NO2
+-1N@bonded2 6 CN-
+The magnitude of ∆ increases by roughly a factor of 2 from the far left to the far right 
+of the spectrochemical series. Ligan

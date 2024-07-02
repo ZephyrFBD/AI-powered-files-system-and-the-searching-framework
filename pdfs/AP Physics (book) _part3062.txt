@@ -1,0 +1,46 @@
+and Paschen series
+(Fig. 27–25). Each vertical arrow
+represents an atomic transition that
+gives rise to the photons of one spectral
+line (a single wavelength or frequency).
+–15
+Energy (eV)
+−13.6
+–10
+–5
+−3.4
+−1.5
+−0.85
+E = 0
+Excited
+states
+Paschen
+series
+Balmer
+series
+Lyman
+series
+Ground state
+Ionized atom
+(continuous energy levels)
+n = 2
+n = 1
+n = 3
+n = 4
+n = 5
+The vertical arrows in Fig. 27–29 represent the transitions or jumps that
+correspond to the various observed spectral lines. For example, an electron
+jumping from the level
+to
+would give rise to the 656-nm line in the
+Balmer series, and the jump from
+to
+would give rise to the 486-nm
+line (see Fig. 27–24). We can predict wavelengths of the spectral lines emitted
+according to Bohr theory by combining Eq. 27–10 with Eq. 27–15. Since
+we have from Eq. 27–10
+where n refers to the upper state and 
+to the lower state. Then using Eq. 27–15,
+(27;16)
+This theoretical formula has the same form as the experimental Balmer formula,
+Eq. 27–9, w

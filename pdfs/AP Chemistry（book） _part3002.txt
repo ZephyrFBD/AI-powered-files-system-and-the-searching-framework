@@ -1,0 +1,14 @@
+f the 
+surroundings are at temperature T and the system is at an infinitesimally higher tem-
+perature T + dT, then an infinitesimal amount of heat flows from the system to sur-
+roundings. We can reverse the direction of heat flow by making an infinitesimal change 
+of temperature in the opposite direction, lowering the system temperature to T - dT. 
+Now the direction of heat flow is from surroundings to system. Thus, for the process to 
+be reversible, the amounts of heat must be infinitesimally small and the transfer of heat 
+must occur infinitely slowly.
+Reversible processes are those that reverse direction whenever an infinitesimal  
+change is made in some property of the system.
+Now let’s consider another example, the expansion of an ideal gas at constant tem-
+perature (referred to as an isothermal process). In the cylinder-piston arrangement of 
+Figure 19.4, when the partition is removed, the gas expands spontaneously to fill the 
+evacuated space. Can we determine whether this parti

@@ -1,0 +1,25 @@
+ simple acid–base, precipitation, and redox reactions. (Sections 
+ 4.2–4.4) Related Exercises: 4.39–4.44, 4.53–4.58
+t Calculate molarity and use it to convert between moles of a 
+substance in solution and volume of the solution. (Section 4.5) 
+ 
+Related Exercises: 4.61–4.72
+t Describe how to carry out a dilution to achieve a desired solution 
+concentration. (Section 4.5) Related Exercises: 4.73–4.78
+t Describe how to perform and interpret the results of a titration. 
+(Section 4.6) Related Exercises: 4.83–4.90
+Key equations
+t Molarity =
+moles solute
+volume of solution in liters         [4.31] 
+Molarity is the most commonly used unit of concentration in 
+chemistry.
+t Mconc * Vconc = Mdil * Vdil               [4.33]
+When adding solvent to a concentrated solution to make a dilute 
+solution, molarities and volumes of both concentrated and dilute 
+solutions can be calculated if three of the quantities are known.
+ 
+Exercises 
+155
+ 
+4.6 Which of the following ions will always be a spectat

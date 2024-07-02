@@ -1,0 +1,13 @@
+is nearly a“point source”) casts distinct shadows, and the beam from
+a laser pointer appears to be a straight line. In fact, we infer the positions of objects
+in our environment by assuming that light moves from the object to our eyes in
+straight-line paths. Our orientation to the physical world is based on this assumption.
+This reasonable assumption is the basis of the ray model of light. This model
+assumes that light travels in straight-line paths called light rays. Actually, a ray is
+an idealization; it is meant to represent an extremely narrow beam of light. When
+we see an object, according to the ray model, light reaches our eyes from each point
+on the object. Although light rays leave each point in many different directions,
+normally only a small bundle of these rays can enter the pupil of an observer’s
+eye, as shown in Fig. 23–1. If the person’s head moves to one side, a different
+bundle of rays will enter the eye from each point.
+We saw in Chapter 22 that light can be considere

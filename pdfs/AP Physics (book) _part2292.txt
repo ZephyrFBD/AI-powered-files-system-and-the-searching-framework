@@ -1,0 +1,27 @@
+ wire is 1.00-mm-diameter copper wire
+and is suspended in air due to the two magnetic forces
+from the bottom two wires. The current flow through the
+two bottom wires is 75 A in each. Calculate the required
+current flow in the suspended wire (M).
+8.20 cm
+13.0 cm
+12.0 cm
+P
+FIGURE 20–74
+Problem 92.
+1. How many magnetic force equations are there in
+Chapter 20? List each one and explain when it applies. For
+each magnetic force equation, show how the units work
+out to give force in newtons.
+2. An electron is moving north at a constant speed of
+(a) In what direction should an electric field
+point if the electron is to be accelerated to the east? (b) In
+what direction should a magnetic field point if the electron
+is to be accelerated to the west? (c) If the electric field of
+part a has a strength of 
+what magnetic field
+(magnitude and direction) will produce zero net force on
+the electron? (d) If the electron in part c is moving faster
+than 
+in which direction will it be accel-
+erated? What if

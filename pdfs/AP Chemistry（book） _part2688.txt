@@ -1,0 +1,34 @@
+d NO3 
+-? Explain.
+722 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+To understand how a buffer works, let’s consider one composed of a weak acid HA 
+and one of its salts MA, where M+ could be Na+, K+, or any other cation that does not 
+react with water. The acid-dissociation equilibrium in this buffered solution involves 
+both the acid and its conjugate base:
+ 
+HA1aq2 ∆ H+1aq2 + A-1aq2 
+[17.3]
+The corresponding acid-dissociation-constant expression is
+ 
+Ka =
+3H+43A-4
+3HA4
+ 
+[17.4]
+Solving this expression for 3H+4, we have
+ 
+3H+4 = Ka
+3HA4
+3A-4  
+[17.5]
+We see from this expression that 3H+4 and, thus, the pH are determined by two factors:
+t
+the value of Ka for the weak-acid component of the buffer;
+t the ratio of the concentrations of the conjugate acid–base pair, 3HA4>3A-4.
+If OH- ions are added to this buffered solution, they react with the buffer acid com-
+ponent to produce water and A-:
+ 
+OH-1aq2 + HA1aq2 ¡ H2O1l2 + A-1aq2  
+[17.6]
+This neutralization reaction causes 3HA4 

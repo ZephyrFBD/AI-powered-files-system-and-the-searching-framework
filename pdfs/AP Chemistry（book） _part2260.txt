@@ -1,0 +1,14 @@
+ traf-
+fic backs up behind the gates, as depicted in Figure 14.20(a). The rate at which cars can 
+get to point 3 is limited by the rate at which they can get through the traffic jam at plaza 
+A. Thus, step 1 is the rate-determining step of the journey along the toll road. If, however, 
+all gates at A are functioning but one or more at B are not, traffic flows quickly through 
+A but gets backed up at B, as depicted in Figure 14.20(b). In this case, step 2 is the rate- 
+determining step.
+In the same way, the slowest step in a multistep reaction determines the overall rate. By 
+analogy to Figure 14.20(a), the rate of a fast step following the rate-determining step does 
+not speed up the overall rate. If the slow step is not the first one, as is the case in Fig-
+ure 14.20(b), the faster preceding steps produce intermediate products that accumulate 
+before being consumed in the slow step. In either case, the rate-determining step governs the 
+rate law for the overall reaction.
+Mechanisms wi

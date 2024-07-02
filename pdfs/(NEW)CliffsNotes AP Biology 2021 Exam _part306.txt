@@ -1,0 +1,18 @@
+
+1. Answer: 0.11
+Without crossing over, the homozygous recessive parent can only produce one gamete genotype and the
+heterozygous parent can only produce two gamete genotypes (see Figure 8-6). Without crossing over, then, only two
+kinds of progeny phenotypes are produced and they would be produced in equal numbers. These would be the
+progeny in the table with the largest numbers, 652 and 683. The smaller numbers, then, represent the progeny that
+are produced as a result of crossing
+over. The total number of crossover progeny produced is 77 + 88, or 165. Since the total number of progeny is 77 +
+88 + 652 + 683, or 1,500, the crossover frequency is 165 ÷ 1,500, or 0.11 (11%).
+2. Answer:
+First, find the probabilities for each gene:
+Aa × Aa → ¼ AA + ½ Aa + ¼aa
+Bb × Bb → ¼ BB + ½ Bb + ¼bb
+CC × Cc →½ CC + ½Cc
+dd × Dd → ½ Dd + ½dd
+EE × EE → 1 EE
+Then multiply the probabilities for each gene in the offspring: aa × BB × CC × dd × EE = ¼ × ¼ × ½ × ½ × 1 = .
+Some Typical Answers to Short Question

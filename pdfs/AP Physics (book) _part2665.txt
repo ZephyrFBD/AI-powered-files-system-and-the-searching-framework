@@ -1,0 +1,20 @@
+ysis is basically the same as for a transmission grating, which
+we now discuss.
+The analysis of a diffraction grating is much like that of Young’s double-slit
+experiment. We assume parallel rays of light are incident on the grating as shown
+in Fig. 24–24. We also assume that the slits are narrow enough so that diffraction
+by each of them spreads light over a very wide angle on a distant screen beyond
+the grating, and interference can occur with light from all the other slits. Light rays
+that pass through each slit without deviation 
+interfere constructively 
+to produce a bright maximum at the center of the screen. Constructive interfer-
+ence also occurs at an angle 
+such that rays from adjacent slits travel an extra
+distance of 
+where m is an integer. If d is the distance between slits,
+then we see from Fig. 24–24 that 
+and
+(24;4)
+is the criterion to have a brightness maximum. This is the same equation as for
+the double-slit situation, and again m is called the order of the pattern.
+Th

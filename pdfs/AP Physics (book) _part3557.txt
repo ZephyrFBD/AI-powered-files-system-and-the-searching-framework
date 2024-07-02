@@ -1,0 +1,40 @@
+gth of a proton with
+A major reason today for building high-energy accelerators is that new par-
+ticles of greater mass can be produced at higher collision energies, transforming
+the kinetic energy of the colliding particles into massive particles by 
+as
+we will discuss shortly. Now we look at particle accelerators.
+Cyclotron
+The cyclotron was developed in 1930 by E. O. Lawrence (1901–1958; Fig. 32–1)
+at the University of California, Berkeley. It uses a magnetic field to maintain
+charged ions—usually protons—in nearly circular paths. Although particle physi-
+cists no longer use simple cyclotrons, they are used in medicine for treating cancer,
+and their operating principles are useful for understanding modern accelerators.
+E = mc2,
+ke = 1.00 TeV?
+(l L 500 nm).
+l =
+A6.63 * 10–34 JsBA3.0 * 108 msB
+A1.3 * 109 eVBA1.6 * 10–19 JeVB
+= 0.96 * 10–15 m,
+E = 1.3 GeV.
+l =
+h
+p = hc
+E
+,
+p = B
+E2 - m2c4
+c2
+L B
+E2
+c2
+= E
+c
+.
+E2 = p2c2 + m2c4,
+Amc2B
+2
+Amc2 = 0.51 MeVB.
+ke = 1.3 GeV = 1300 MeV,
+l = h

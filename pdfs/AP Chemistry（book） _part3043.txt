@@ -1,0 +1,18 @@
+   
+The Molecular Interpretation of Entropy and the Third Law of Thermodynamics 
+821
+822 
+CHAPTER 19 Chemical Thermodynamics
+19.4 ∣  
+Entropy Changes in Chemical 
+Reactions
+In Section 5.5 we discussed how calorimetry can be used to measure ∆H for chemical reac-
+tions. No comparable method exists for measuring ∆S for a reaction. However, because 
+the third law establishes a zero point for entropy, we can use experimental measurements 
+to determine the absolute value of the entropy, S. To see schematically how this is done, let’s 
+review in greater detail the variation in the entropy of a substance with temperature.
+Temperature Variation of Entropy
+We know that the entropy of a pure, perfect crystalline solid at 0 K is zero and that the 
+entropy increases as the temperature of the crystal is increased. Figure 19.12 shows that 
+the entropy of the solid increases steadily with increasing temperature up to the melting 
+point of the solid. When the solid melts, the atoms or molecules are fre

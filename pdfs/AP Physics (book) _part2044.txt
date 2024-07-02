@@ -1,0 +1,25 @@
+ xl
+l
+L 4 K
+1. Why is Ohm’s law less of a law than Newton’s laws?
+2. A traditional incandescent lamp filament may have been lit
+to a temperature of 2700 K. A contemporary halogen
+incandescent lamp filament may be at around 2900 K.
+(a) Estimate the percent improvement of the halogen bulb
+over the traditional one. [Hint: See Section 14–8.] (b) To
+produce the same amount of light as a traditional 100-W
+bulb, estimate what wattage a halogen bulb should use.
+3. You find a small cylindrical resistor that measures 9.00 mm
+in length and 2.15 mm in diameter, and it has a color code
+of red, yellow, brown, and gold. What is the resistor made
+of primarily?
+4. Small changes in the length of an object can be measured
+using a strain gauge sensor, which is a wire that when
+undeformed has length 
+cross-sectional area 
+and
+resistance 
+This sensor is rigidly affixed to the object’s
+surface, aligning its length in the direction in which length
+changes are to be measured. As the object deforms, the
+length

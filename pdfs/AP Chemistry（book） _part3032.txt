@@ -1,0 +1,14 @@
+reedom of motion that causes molecules to 
+spread out when not restrained by physical barriers or chemical bonds.
+The most common way of describing an increase in entropy is the increase in the 
+randomness, or disorder, of the system. Another way likens an entropy increase to an 
+increased dispersion (spreading out) of energy because there is an increase in the number 
+of ways the positions and energies of the molecules can be distributed throughout the 
+system. Each description (randomness or energy dispersal) is conceptually helpful if 
+applied correctly.
+Making Qualitative Predictions about ∆S
+It is usually not difficult to estimate qualitatively how the entropy of a system changes 
+during a simple process. As noted earlier, an increase in either the temperature or the vol-
+ume of a system leads to an increase in the number of microstates, and hence an increase 
+in the entropy. One more factor that correlates with number of microstates is the num-
+ber of independently moving particl

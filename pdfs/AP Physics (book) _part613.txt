@@ -1,0 +1,45 @@
+ng on the rock. We choose the ground as our 
+reference level
+SOLUTION At the moment of release (point 1) the rock’s position is
+and it is at rest:
+We want to find 
+when the rock is at posi-
+tion  
+Equation 6–13 gives
+The m’s cancel out and 
+, so
+Solving for 
+we find
+The rock’s velocity 1.0 m above the ground is 
+downward.
+NOTE The velocity of the rock is independent of the rock’s mass.
+6.3 ms
+v2 = 32gAy1 - y2B
+= 32A9.8 ms2BC(3.0 m) - (1.0 m)D
+= 6.3 ms.
+v2
+gy1 = 1
+2 v2
+2 + gy2 .
+v1 = 0
+1
+2 mv1
+2 + mgy1 =
+1
+2 mv2
+2 + mgy2 .
+y2 = 1.0 m.
+v2
+v1 = 0.
+y1 = 3.0 m
+(y = 0).
+y1 = h = 3.0 m,
+EXAMPLE 6;7
+To say it another way, consider Eq. 6–11a which tells us
+that is,
+if the kinetic energy KE of a system increases, then the potential energy PE must
+decrease by an equivalent amount to compensate. Thus, the total,
+remains constant:
+If only conservative forces do work, the total mechanical energy of a system
+neither increases nor decreases in any process. It stays constant—it is conserved.
+This is

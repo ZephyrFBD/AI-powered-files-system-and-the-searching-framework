@@ -1,0 +1,59 @@
+ts valence shell. 
+ (Section 8.7) It therefore 
+acts as an electron-pair acceptor (a Lewis acid) toward NH3, which donates the electron pair:
+F
+F
+B
+F
+F
+F
+B
+F
+H
+H
+N
+H
+H
+H
+N
+H
+Lewis
+acid
+Lewis
+base
++
+C
+C
+H
+H
+H
+H
+H
+O
+O
+N
+C
+C
+H
+N+
+H
+OH
+H
+H
+O
+Neutral molecule
+Zwitterion
+proton transfer
+−
+Although the form of the amino acid on the right in this equation 
+is electrically neutral overall, it has a positively charged end and a 
+negatively charged end. A molecule of this type is called a zwitterion 
+(German for “hybrid ion”).
+Do amino acids exhibit any properties indicating that they 
+behave as zwitterions? If so, their behavior should be similar to that 
+of ionic substances. 
+ (Section 8.2) Crystalline amino acids have 
+relatively high melting points, usually above 200 °C, which is charac-
+teristic of ionic solids. Amino acids are far more soluble in water than 
+in nonpolar solvents. In addition, the dipole moments of amino acids 
+are large, consistent with a large separation of charge in the m

@@ -1,0 +1,23 @@
+d for disk or tape.
+In writing or recording, the electric input signal
+to the head, which acts as an electromagnet,
+magnetizes the passing tape or disk. In reading
+or playback, the changing magnetic field of the
+passing tape or disk induces a changing magnetic
+field in the head, which in turn induces in the
+coil an emf that is the output signal.
+
+
+
+P H Y S I C S  A P P L I E D
+Hard drive
+*SECTION 21–8
+605
+CD-ROMs, CDs (audio compact discs), and DVDs (digital video discs) are read
+by an optical drive (not magnetic): a laser emits a narrow beam of light that reflects
+off the “grooves”of the rotating disc containing “pits”as described in Section 28–11.
+Semiconductor Memory: DRAM, Flash
+Basic to your computer is its random access memory (RAM). This is where the 
+information you are working with at any given time is temporarily stored and
+manipulated by you. Each data storage location can be accessed and read 
+(or written) directly and quickly, so you don’t have to wait. In contrast, har

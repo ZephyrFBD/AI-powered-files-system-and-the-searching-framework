@@ -1,0 +1,33 @@
+the time it takes
+the ball to rise to its highest point and then fall to the base of the cliff. To rise
+and fall back to the top of the cliff took 3.06 s (Example 2–13); so it took 
+an additional 2.01 s to fall to the base. But what is the meaning of the other
+solution,
+This is a time before the throw, when our calculation
+begins, so it isn’t relevant here. It is outside our chosen time interval, and so is
+an unphysical solution (also in Example 2–8).
+(b) From Example 2–12, the ball moves up 11.5 m, falls 11.5 m back down to
+the top of the cliff, and then down another 50.0 m to the base of the cliff, for a
+total distance traveled of 73.0 m. [Note that the displacement, however, was
+] Figure 2–25b shows the y vs.
+graph for this situation.
+t
+–50.0 m.
+t = –2.01 s?
+t = 5.07 s,
+t = –2.01 s.
+t = 5.07 s
+A4.90 ms2Bt2 - (15.0 ms)t - (50.0 m) = 0.
+at2 + bt + c = 0:
+t =
+–b63b2 - 4ac
+2a
+.
+at2 + bt + c = 0,
+–50.0 m = 0 + (15.0 ms)t - 1
+2 A9.80 ms2Bt2.
+y = y0 + v0t +
+1
+2 at2
+y = –50.0 m:
+y0 = 0,

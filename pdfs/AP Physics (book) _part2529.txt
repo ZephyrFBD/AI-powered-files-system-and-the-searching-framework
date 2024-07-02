@@ -1,0 +1,40 @@
+y when the eye is placed to
+the left of the image, so that some of the rays diverging from each point on the image
+(as point ) can enter the eye as shown in Fig.23–15c (just as in Figs.23–1 and 23–7).
+I¿
+I¿.
+O¿
+O¿
+O¿
+O¿
+Mirror equation
+I
+O
+O′
+F
+A
+C
+I′
+B
+di
+do
+f
+hi
+ho
+θ
+θ
+FIGURE 23–16 Diagram for 
+deriving the mirror equation. For the 
+derivation, we assume the mirror 
+size is small compared to its radius 
+of curvature.
+Mirror Equation and Magnification
+Image points can be determined, roughly, by drawing the three rays as just described,
+Fig. 23–15. But it is difficult to draw small angles for the “paraxial” rays as we
+assumed. For more accurate results, we now derive an equation that gives the image
+distance if the object distance and radius of curvature of the mirror are known.
+To do this, we refer to Fig.23–16. The object distance,
+is the distance of the object
+(point O) from the center of the mirror. The image distance,
+is the distance of
+the image (point I) from the center of the m

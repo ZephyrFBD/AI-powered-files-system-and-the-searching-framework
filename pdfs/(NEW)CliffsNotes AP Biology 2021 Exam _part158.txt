@@ -1,0 +1,18 @@
+osphorylation, where electrons become
+incorporated into NADPH, electrons in cyclic photophosphorylation return to PS I. Here they can be energized again
+to participate in cyclic or noncyclic photophosphorylation. Cyclic photophosphorylation occurs simultaneously with
+noncyclic photophosphorylation to generate additional ATP. Two electrons passing through cyclic
+photophosphorylation generate, on average, about 1 ATP.
+Calvin Cycle
+The Calvin cycle “fixes” CO2. That is, it takes chemically unreactive, inorganic CO2and incorporates it into an
+organic molecule that can be used
+ 
+in biological systems. The biosynthetic pathway produces a single molecule
+ 
+of glucose (C6H12O6). In order to accomplish this, the Calvin cycle must repeat six times, and use 6
+CO2molecules. Thus, in Figure 5-1 and the
+ 
+discussion that follows, all the molecules involved have been multiplied by6. Only the most important molecules are
+discussed:
+ 
+1. Carbon fixation: 6 CO2 combine with 6 RuBP to produce 12 PGA. The

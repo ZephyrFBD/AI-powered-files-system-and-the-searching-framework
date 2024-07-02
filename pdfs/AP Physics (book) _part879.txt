@@ -1,0 +1,21 @@
+ng to the Moon, astronauts aboard the
+Apollo spacecraft put the spacecraft into a slow rotation to
+distribute the Sun’s energy evenly (so one side would not
+become too hot). At the start of their trip, they accelerated
+from no rotation to 1.0 revolution every minute during a 
+12-min time interval. Think of the spacecraft as a cylinder 
+with a diameter of 8.5 m rotating about its cylindrical axis.
+Determine (a) the angular acceleration, and (b) the radial
+and tangential components of the linear acceleration of a
+point on the skin of the ship 6.0 min after it started this
+acceleration.
+16. (II) A turntable of radius 
+is turned by a circular rubber
+roller of radius 
+in contact with it at their outer edges.
+What is the ratio of their angular velocities,
+8;2 and 8;3 Constant Angular Acceleration; Rolling
+17. (I) An automobile engine slows down from 3500 rpm to
+1200 rpm in 2.5 s. Calculate (a) its angular acceleration,
+assumed constant, and (b) the total number of revolutions
+the engine make

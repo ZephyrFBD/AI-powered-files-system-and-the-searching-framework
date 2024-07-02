@@ -1,0 +1,47 @@
+
+Na±
+3 * 10–7 molm2s.
+Na± ions
+–70 mV?
+1.0 * 10–8 m
+AAm2B.
+6.2 * 106 ms.
+O2
+– ions
+7.0 * 1011m3
+2.0 * 106 ms.
+2.4 * 1012m3
+He2± ions
+r,
+1.7 * 10–5 ms,
+2.7 mA.
+38 .
+240-Vrms
+61. A person accidentally leaves a car with the lights on. If each
+of the two headlights uses 40 W and each of the two taillights
+6 W, for a total of 92 W, how long will a fresh 12-V battery
+last if it is rated at 
+Assume the full 12 V appears
+across each bulb.
+62. A sequence of potential differences V is applied across 
+a wire 
+and the
+resulting currents I are measured as follows:
+V (V) 
+0.100 
+0.200 
+0.300 
+0.400 
+0.500
+I (mA) 
+72 
+142 
+218 
+290 
+357
+(a) If this wire obeys Ohm’s law, graphing I vs. V will result
+in a straight-line plot. Explain why this is so and determine
+the theoretical predictions for the straight line’s slope and
+y-intercept. (b) Plot I vs. V. Based on this plot, can you
+conclude that the wire obeys Ohm’s law (i.e., did you
+obtain a straight line with the expected y-intercept, within

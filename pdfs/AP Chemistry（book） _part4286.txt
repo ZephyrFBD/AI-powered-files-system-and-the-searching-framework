@@ -1,0 +1,22 @@
+rum A spectrum that contains radiation 
+distributed over all wavelengths. (Section 6.3)
+conversion factor A fraction whose numerator and denominator 
+are the same quantity expressed in different units. (Section 1.7)
+coordination compound A compound containing a complex. 
+(Section 23.2)
+coordination number The number of adjacent atoms in a crystal 
+structure to which an atom is directly bonded. In a complex, the 
+coordination number of the metal ion is the number of atoms 
+bonded to the metal ion. (Sections 12.3 and 24.2)
+ 
+GLOSSARY 
+G-5
+coordination sphere The central metal ion and its surrounding 
+ligands. (Section 23.2)
+coordination-sphere isomers Structural isomers that differ in 
+which species in the complex are ligands and which are outside 
+the coordination sphere in the solid. (Section 23.4)
+copolymer A complex polymer resulting from the 
+polymerization of two or more chemically different monomers. 
+(Section 12.8)
+core electrons The electrons that are not in the outermost shell 

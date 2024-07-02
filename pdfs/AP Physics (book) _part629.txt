@@ -1,0 +1,14 @@
+annot be ignored.
+In a real situation, the roller-coaster car in Fig. 6–18, for example, will not in fact
+reach the same height on the second hill as it had on the first hill because of fric-
+tion. In this, and in other natural processes, the mechanical energy (sum of the
+kinetic and potential energies) does not remain constant but decreases. Because
+frictional forces reduce the mechanical energy (but not the total energy), they are
+called dissipative forces. Historically, the presence of dissipative forces hindered
+the formulation of a comprehensive conservation of energy law until well into 
+the nineteenth century. It was only then that heat, which is always produced
+when there is friction (try rubbing your hands together), was interpreted in terms
+of energy. Quantitative studies by nineteenth-century scientists (discussed in
+Chapters 14 and 15) demonstrated that if heat is considered as a transfer of
+energy (thermal energy), then the total energy is conserved in any process. For
+exa

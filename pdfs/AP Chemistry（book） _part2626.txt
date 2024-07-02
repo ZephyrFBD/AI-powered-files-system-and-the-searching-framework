@@ -1,0 +1,54 @@
+e equilibrium 
+concentration of H3PO3 equals the initial concentra-
+tion minus the amount that ionizes to form H+ and 
+H2PO3
+-: 3H3PO34 = 0.0476 M - 0.026 M = 0.022 M 
+(two signiﬁcant ﬁgures). These results can be tabulated 
+as follows:
+H3PO31aq2  ∆  H+1aq2 +  H2PO3
+-1aq2
+Initial  
+concentration (M)
+  0.0476
+0
+0
+Change in  
+concentration (M)
+-0.026
++0.026
++0.026
+Equilibrium  
+concentration (M)
+  0.022
+ 0.026
+  0.026
+The percent ionization is:
+percent ionization =
+3H+4equilibrium
+3H3PO34initial
+* 100% = 0.026 M
+0.0476 M * 100% = 55%
+ 
+The ﬁrst acid-dissociation constant is:
+Ka1 =
+3H+43H2PO3
+-4
+3H3PO34
+=
+10.026210.0262
+0.022
+= 0.031
+P
+H
+H
+H
+O
+O
+O
+Chapter Summary and Key Terms
+ARRHENIUS ACIDS AND BASES (SECTION 16.1) Acids and 
+bases were first recognized by the properties of their aqueous 
+solutions. For example, acids turn litmus red, whereas bases turn 
+litmus blue. Arrhenius recognized that the properties of acidic 
+solutions are due to H+1aq2 ions and those of basic solutions are 
+du

@@ -1,0 +1,12 @@
+mbination
+frequencies indicate greater distances between genes, then B and V are separated by the greatest distance. Using the
+frequencies as a direct measure of distance (so that a 1% crossover frequency represents 1 map unit), B and V are 18
+map units apart, A and V are 12 map units apart, and B and A are 6 map units apart (Figure 8-7). This suggests that
+the three genes are arranged in the order B-A-V (or alternatively, V-A-B), with B and A separated by 6 units and A
+and V separated by 12 units. The sum of these two distances, 18 (or 6 + 12), is the map distance between B and V
+(other positions for A do not preserve the frequencies of AV and AB). A chromosome map created in this fashion is a
+linkage map and is a portrayal of the sequence of genes on a chromosome. A map portraying the true relative
+positions of the genes, a cytological map, requires additional experimental analyses.
+Figure 8-7
+Sex Chromosomes and Sex-Linked Inheritance
+There is one pair of homologous chromosomes in a

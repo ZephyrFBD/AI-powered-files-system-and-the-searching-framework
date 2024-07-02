@@ -1,0 +1,18 @@
+isions 
+from the higher temperature (greater average kinetic energy) to lower temperature (lesser 
+average kinetic energy) until the tea and its surroundings reach the same temperature. This 
+natural tendency for energy to spread from a more concentrated form to a less concentrated 
+form renders some of the energy unavailable to do work. Interestingly, a reversible process 
+produces the maximum amount of work that can be done by a system on its surroundings.
+19.2 ∣  
+Entropy and the Second Law  
+of Thermodynamics
+In order to apply what we have learned about irreversible processes to predict whether 
+an unfamiliar process is spontaneous, we must examine the thermodynamic quantity 
+called entropy. 
+ (Section 13.1)
+Entropy is a measure of the tendency for energy to spread or disperse, thereby 
+reducing its ability to accomplish work. In a general sense, it reflects the degree of 
+ 
+randomness or disorder associated with the particles that carry the energy.
+In this section, we consider how

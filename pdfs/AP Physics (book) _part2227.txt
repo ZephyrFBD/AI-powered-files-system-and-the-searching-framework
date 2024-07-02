@@ -1,0 +1,13 @@
+ a long coil of wire with many loops or turns, Fig. 20–32. Each
+loop produces a magnetic field as was shown in Fig. 20–9, and the total field
+inside the solenoid will be the sum of the fields due to each current loop as shown
+in Fig. 20–32a for a few loops. If the solenoid has many loops and they are close
+together, the field inside will be nearly uniform and parallel to the solenoid axis
+except at the ends, as shown in Fig. 20–32b. Outside the solenoid, the field lines
+spread out in space, so the magnetic field is much weaker than inside. For apply-
+ing Ampère’s law, we choose the path abcd shown in Fig. 20–33 far from either
+end. We consider this path as made up of four straight segments, the sides of the
+rectangle: ab, bc, cd, da. Then Ampère’s law, Eq. 20–9, becomes
+The first term in the sum on the left will be (nearly) zero because the 
+field outside the solenoid is negligible compared to the field inside. Furthermore,
+is perpendicular to the segments bc and da, so these terms are

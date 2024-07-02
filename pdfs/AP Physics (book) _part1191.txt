@@ -1,0 +1,35 @@
+representation
+at a particular instant in time.
+Wave along a wire. A wave whose wavelength is 0.30 m
+is traveling down a 300-m-long wire whose total mass is 15 kg. If the wire is under
+a tension of 1000 N, what are the speed and frequency of this wave?
+APPROACH We assume the velocity of this wave on a wire is given by
+Eq. 11–13. We get the frequency from Eq. 11–12,
+SOLUTION From Eq. 11–13, the velocity is
+The frequency is
+NOTE A higher tension would increase both v and f, whereas a thicker, denser
+wire would reduce v and f.
+f =
+v
+l = 140 ms
+0.30 m
+= 470 Hz.
+v = B
+1000 N
+(15 kg)(300 m) = B
+1000 N
+(0.050 kgm) = 140 ms.
+f = vl.
+EXAMPLE 11;11
+Speed of Longitudinal Waves
+The speed of a longitudinal wave has a form similar to that for a transverse wave
+on a cord (Eq. 11–13); that is,
+In particular, for a longitudinal wave traveling down a long solid rod,
+(11;14a)
+where E is the elastic modulus (Section 9–5) of the material and 
+is its density.
+r
+clongitudinal wave
+in a long rod
+d
+v = B

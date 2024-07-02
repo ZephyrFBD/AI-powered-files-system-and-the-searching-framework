@@ -1,0 +1,25 @@
+o. The synthesis of mRNA encoding antiviral proteins is
+measured in all cells at the 1 and 2 hour time points.
+Adapted from A. K. Shalek et al., “Single-Cell RNA-Seq
+Reveals Dynamic Paracrine Control of Cellular Variation,”
+Nature 510, no. 7505 (June 2014): 363–369.
+Answers to this quiz can be found at the end of this chapter.
+Which of the following best explains the results of the
+experiment?
+Cell A is secreting a diﬀusible signal that acts in an endocrine
+way.
+(A)
+Cell A is secreting a diﬀusible signal that acts in a paracrine
+way.
+(B)
+Cell A is transmitting an electric signal that acts through a
+synapse.
+(C)
+Cell A is shedding viruses that spread through the medium.
+(D)
+Signal Transduction
+GENERAL PRINCIPLES OF SIGNALING
+Two main ways that animal cells communicate with one another are (1)
+via signaling molecules that are secreted by the cells and (2) through
+receptor molecules that rest on the cells’ surfaces and remain attached to
+the cell even as they signal other cells. The targe

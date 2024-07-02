@@ -1,0 +1,43 @@
+Forces on the assistant are
+shown as red (magenta) arrows.
+Forces on the sled are purple arrows.
+Forces acting on the ground are
+orange arrows. Action–reaction
+forces that are equal and opposite
+are labeled by the same subscripts
+but reversed (such as 
+and 
+)
+and are of different colors because
+they act on different objects.
+F
+B
+AG
+F
+B
+GA
+Force on
+assistant
+exerted
+by sled
+Force on
+assistant
+exerted
+by ground
+AG
+AS
+F
+B
+F
+B
+FIGURE 4;13 Example 4–5. The
+horizontal forces on the assistant.
+4–6 Weight—the Force of Gravity;
+and the Normal Force
+As we saw in Chapter 2, Galileo claimed that all objects dropped near the surface
+of the Earth would fall with the same acceleration,
+if air resistance was negligible.
+The force that causes this acceleration is called the force of gravity or gravitational
+force. What exerts the gravitational force on an object? It is the Earth, as we will
+discuss in Chapter 5, and the force acts vertically† downward, toward the center of
+the Earth. Let us apply Newto

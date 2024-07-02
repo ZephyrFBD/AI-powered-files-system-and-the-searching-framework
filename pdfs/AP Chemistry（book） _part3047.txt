@@ -1,0 +1,15 @@
+other change occurring at higher temperatures is the skewing of molecular speeds 
+toward higher values (Figure 10.13(a)). The expansion of the range of speeds leads to 
+increased kinetic energy and increased disorder and, hence, increased entropy. The con-
+clusions we reach in examining Figure 10.13 are consistent with what we noted earlier: 
+Entropy generally increases with increasing temperature because the increased motional 
+energy leads to a greater number of possible microstates.
+Entropy versus temperature graphs such as Figure 19.12 can be obtained by carefully 
+measuring how the heat capacity of a substance 
+ (Section 5.5) varies with tempera-
+ture, and we can use the data to obtain the absolute entropies at different temperatures. 
+(The theory and methods used for these measurements and calculations are beyond the 
+scope of this text.) Entropies are usually tabulated as molar quantities, in units of joules 
+per mole-kelvin 1J>mol@K2.
+Standard Molar Entropies
+Molar entropies fo

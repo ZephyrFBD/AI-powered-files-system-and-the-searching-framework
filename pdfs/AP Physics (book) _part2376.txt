@@ -1,0 +1,32 @@
+tor is connected to an alternating
+source of voltage, as in Fig. 21–41a, an alternating current will flow continuously.
+This can happen because when the ac voltage is first turned on, charge begins 
+to flow and one plate acquires a negative charge and the other a positive charge.
+But when the voltage reverses itself, the charges flow in the opposite direction.
+Thus, for an alternating applied voltage, an ac current is present in the circuit
+continuously.
+*
+X
+L = 2pfL = (6.28)A60.0 s–1B(0.300 H) = 113 .
+v = 2pf
+X
+L = vL = 2pfL,
+(V = IR).
+X
+L
+X
+L
+crms or peak values,
+not at any instant
+d
+V = IX
+L,
+V = IR.
+612
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+The applied voltage must equal the voltage across the capacitor:
+where C is the capacitance and Q the charge on the plates. Thus the charge Q on
+the plates is in phase with the voltage. But what about the current I? At point a in
+Fig. 21–41b, when the voltage is zero and starts increasing, the charge on the plates
+is zero. Thus

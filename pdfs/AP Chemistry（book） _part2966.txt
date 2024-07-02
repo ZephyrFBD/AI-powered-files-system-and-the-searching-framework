@@ -1,0 +1,18 @@
+l surface temperature of a 1.00 square meter patch 
+of ocean is 26 °C, what is its final temperature after being in 
+sunlight for 12 h, assuming no phase changes and assuming 
+that sunlight penetrates uniformly to depth of 10.0 cm?
+ [18.40]  The enthalpy of fusion of water is 6.01 kJ>mol. Sunlight 
+striking Earth’s surface supplies 168 W per square meter 
+11 W = 1 watt = 1 J>s2. (a) Assuming that melting of ice 
+is due only to energy input from the Sun, calculate how 
+many grams of ice could be melted from a 1.00 square 
+meter patch of ice over a 12-h day. (b) The specific heat 
+capacity of ice is 2.032 J>g °C. If the initial temperature of 
+a 1.00 square meter patch of ice is -5.0 °C, what is its final 
+temperature after being in sunlight for 12 h, assuming no 
+phase changes and assuming that sunlight penetrates uni-
+formly to a depth of 1.00 cm?
+ 18.41  A first-stage recovery of magnesium from seawater is pre-
+cipitation of Mg1OH22 with CaO:
+Mg2+1aq2 + CaO1s2 + H2O1l2 ¡ Mg1OH221s2 + 

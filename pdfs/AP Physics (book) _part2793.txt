@@ -1,0 +1,27 @@
+ig. 25–14a, 17 cm in front of the eye. We can
+use the thin lens equation to find the focal length of the lens, and from this its
+lens power. The new near point (as shown in Fig. 25–14b) can be calculated for
+the lens by again using the thin lens equation.
+SOLUTION (a) For an object at infinity 
+the image must be in front
+of the lens 17 cm from the eye or
+from the lens; hence
+We use the thin lens equation to solve for the focal length of the
+needed lens:
+So
+or
+The minus sign indicates
+that it must be a diverging lens for the myopic eye.
+(b) The near point when glasses are worn is where an object is placed 
+so
+that the lens forms an image at the “near point of the naked eye,” namely 12 cm
+from the eye. That image point is
+in front of the lens,
+so
+and the thin lens equation gives
+So 
+which means the near point when the person is wearing glasses
+is 30 cm in front of the lens, or 32 cm from the eye.
+Contact Lenses
+Suppose contact lenses are used to correct the eye in Example 25–6. Since 
+co

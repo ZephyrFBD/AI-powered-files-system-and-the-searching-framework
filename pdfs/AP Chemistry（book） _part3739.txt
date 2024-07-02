@@ -1,0 +1,45 @@
+t the metal ion such 
+that all five species are in the xy plane. The resulting energy levels of the d orbitals are 
+ 
+▶Practice Exercise 1
+Which of the following octahedral complex ions will have 
+the fewest number of unpaired electrons?  
+(a) 3Cr(H2O)643+ (b) 3V(H2O)643+ (c) 3FeF643- (d) 3RhCl643-  
+(e) 3Ni(NH3)642+
+ 
+▶Practice Exercise 2
+Consider the colors of the ammonia complexes of Co3+ given 
+in Table 23.3. Based on the change in color would you expect 
+3Co(NH3)5Cl42+ to have a larger or smaller value of ∆ than 
+3Co(NH3)643+? Is this prediction consistent with the spectro-
+chemical series?
+e set (dz2, dx2−y2)
+t2 set (dxy, dxz, dyz)
+∆
+In spherical
+crystal field
+In tetrahedral
+crystal field
+x
+x
+x
+z
+z
+z
+y
+y
+x
+z
+y
+x
+z
+y
+y
+dz2
+dx2−y2
+dxy
+dxz
+dyz
+▲ Figure 23.33 Energies of the d orbitals in a tetrahedral crystal-field. The splitting of the e and t2  
+sets of orbitals is inverted with respect to the splitting associated with an octahedral crystal-field.  
+The crystal-field splitting ene

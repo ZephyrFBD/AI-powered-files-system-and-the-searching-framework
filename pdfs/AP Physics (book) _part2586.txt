@@ -1,0 +1,20 @@
+lection
+equals the angle of incidence. This law of reflection explains why
+mirrors can form images.
+In a plane mirror, the image is virtual, upright, the same size
+as the object, and as far behind the mirror as the object is in front.
+A spherical mirror can be concave or convex. A concave
+spherical mirror focuses parallel rays of light (light from a very
+distant object) to a point called the focal point. The distance of
+this point from the mirror is the focal length f of the mirror and
+(23;1)
+where r is the radius of curvature of the mirror.
+Parallel rays falling on a convex mirror reflect from the
+mirror as if they diverged from a common point behind the
+mirror. The distance of this point from the mirror is the focal
+length and is considered negative for a convex mirror.
+For a given object, the approximate position and size of the
+image formed by a mirror can be found by ray tracing. Algebrai-
+cally, the relation between image and object distances,
+and 
+and the focal length f, is give

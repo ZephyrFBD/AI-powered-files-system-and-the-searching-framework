@@ -1,0 +1,32 @@
+ts own characteristic spectrum, which
+can be used for identification and for determination of structure. We now look in
+more detail at rotational and vibrational states in molecules.
+10–1 eV
+10–3
+H2
+*
+*SECTION 29–4
+Molecular Spectra
+837
+2s
+Isolated atom
+3p
+Atom in a molecule
+(a)
+(b)
+FIGURE 29–14 (a) The individual
+energy levels of an isolated atom
+become (b) bands of closely spaced
+levels in molecules, as well as in
+solids and liquids.
+Rotational Energy Levels in Molecules
+We consider only diatomic molecules, although the analysis can be extended to
+polyatomic molecules. When a diatomic molecule rotates about its center of mass
+as shown in Fig. 29–15, its kinetic energy of rotation (see Section 8–7) is
+where 
+is the angular momentum (Section 8–8). Quantum mechanics predicts
+quantization of angular momentum just as in atoms (see Eq. 28–3):
+where is an integer called the rotational angular momentum quantum number.
+Thus the rotational energy is quantized:
+(29;1)
+Transitions between rotati

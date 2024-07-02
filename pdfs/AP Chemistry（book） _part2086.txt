@@ -1,0 +1,47 @@
+ CCl4
+ 76.8
+5.02
+-22.3
+29.8
+Chloroform, CHCl3
+ 61.2
+3.63
+-63.5
+ 4.68
+Temperature
+ 1 atm
+Liquid
+Gas
+Solid
+Solution triple
+point
+Vapor pressure
+of pure liquid
+solvent
+Vapor pressure
+of pure solid
+solvent
+Pure solvent
+triple point
+Solution freezing
+point
+Pure solvent
+freezing point
+Vapor pressure
+of solution
+∆Tf
+Pressure
+▶ Figure 13.21 Phase diagram illustrating 
+freezing-point depression. The black lines 
+show the pure solvent’s phase equilibria 
+curves, and the blue lines show the 
+solution’s phase equilibria curves.
+Give It Some Thought
+A solute dissolved in water causes the boiling point to increase by 0.51 °C. Does 
+this necessarily mean that the concentration of the solute is 1.0 m (Table 13.3)?
+Automotive antifreeze contains ethylene glycol, CH21OH2CH21OH2, a nonvolatile nonelectrolyte, in water. Calculate the boiling 
+point and freezing point of a 25.0% by mass solution of ethylene glycol in water.
+Solve
+The molality of the solution is calculated 
+as follows:
+We can now use Equati

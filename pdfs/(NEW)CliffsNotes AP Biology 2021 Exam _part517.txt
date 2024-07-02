@@ -1,0 +1,20 @@
+ngth of
+ 
+the neuron as opened Na+ gates stimulate neighboring Na+ gates to open. Note that because Na+ channels become
+inactivated with the
+passing of the action potential, the nerve impulse can travel only in the forward direction. The action potential is an
+all-or-nothing event: When the stimulus fails to produce a depolarization that exceeds the threshold value (that is, it
+is a graded potential), no action potential results, but when the threshold potential is exceeded, complete
+depolarization occurs.
+3. Repolarization. In response to the inflow of Na+, another kind of
+ 
+voltage-gated channel opens, this time allowing the K+on the inside to
+exit the cell. The movement of K+ out of the cell causes repolarization
+ 
+by restoring the original membrane polarization. Unlike the resting
+ 
+potential, however, the K+ ions are on the outside and the Na+ ions are
+ 
+on the inside.
+ 
+4. Hyperpolarization. By the time the K+ voltage-gated channels close, more K+ ions have moved out of the cell

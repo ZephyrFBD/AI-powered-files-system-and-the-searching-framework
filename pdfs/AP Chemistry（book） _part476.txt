@@ -1,0 +1,26 @@
+ficients in the balanced equation. We then use the quantity  
+of the limiting reactant to calculate the mass of water that forms.
+Solve From the balanced equation, we have the stoichiometric 
+relations
+2 mol H2 ] 1 mol O2 ] 2 mol H2O
+Using the molar mass of each substance, we calculate the number 
+of moles of each reactant:
+ 
+Moles H2 = 1150 g H22a
+1 mol H2
+2.02 g H2
+b = 74 mol H2  
+ 
+Moles O2 = 11500 g O22a
+1 mol O2
+32.0 g O2
+b = 47 mol O2
+The coefficients in the balanced equation indicate that the reaction 
+requires 2 mol of H2 for every 1 mol of O2. Therefore, for all the 
+O2 to completely react, we would need 2 * 47 = 94 mol of H2. 
+Since there are only 74 mol of H2, all of the O2 cannot react, so it is 
+the excess reactant, and H2 must be the limiting reactant. (Notice 
+that the limiting reactant is not necessarily the one present in the 
+lowest amount.)
+We use the given quantity of H2 (the limiting reactant) to calcu-
+late the quantity of water formed. We could begin this calcula

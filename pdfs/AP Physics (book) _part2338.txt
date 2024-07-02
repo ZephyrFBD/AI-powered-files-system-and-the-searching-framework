@@ -1,0 +1,93 @@
+ied voltage 
+if the resistance of the primary can be ignored (Kirchhoff’s
+rules). We divide these two equations, assuming little or no flux is lost, to find
+(21;6)
+This transformer equation tells how the secondary (output) voltage is related to
+the primary (input) voltage;
+and 
+in Eq. 21–6 can be the rms values 
+(Section 18–7) for both, or peak values for both. Steady dc voltages don’t work
+in a transformer because there would be no changing magnetic flux.
+V
+P
+V
+S
+V
+S
+V
+P
+=
+N
+S
+N
+P
+.
+V
+P
+N
+P ¢£B¢t,
+N
+P
+V
+P = N
+P
+¢£B
+¢t
+,
+V
+P,
+¢£B¢t
+N
+S
+V
+S = N
+S
+¢£B
+¢t
+,
+(P = Ie)
+P H Y S I C S  A P P L I E D
+Metal detector
+FIGURE 21–22 Repairing a step-
+down transformer on a utility pole.
+FIGURE 21–21 Metal detector.
+V
+S
+(output)
+Primary
+coil
+Secondary
+coil
+Laminated
+iron core
+VP
+(input)
+NP
+turns
+NS
+turns
+FIGURE 21–23 Step-up transformer
+AN
+P = 4,  N
+S = 12B.
+602
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+Time
+0
+0
+(a)
+Time
+(b)
+Switch
+closed
+Switch
+opened
+ 12 V
+10 kV
+10 kV
+20 kV
+V
+S
+V
+P

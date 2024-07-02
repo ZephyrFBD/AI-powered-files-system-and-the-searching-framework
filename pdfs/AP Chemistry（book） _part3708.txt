@@ -1,0 +1,61 @@
+TION
+Sample Exercise 23.5 
+Predicting Whether a Complex Has Optical Isomers
+Cl
+Cl
+Co
+N
+N
+N
+N
+Cl
+Cl
+Co
+N
+N
+N
+N
+Mirror
+The cis isomer of 3Co(en)2Cl24+ and its mirror image are shown 
+here.  In this case the two cannot be superimposed on each other. 
+Thus, the two cis structures are optical isomers (enantiomers). We 
+say that cis-3Co(en)2Cl24+ is a chiral complex.
+Cl
+Cl
+Co
+N
+N
+N
+N
+Mirror
+Cl
+Cl
+Co
+N
+N
+N
+N
+Light
+source
+Polarizer
+axis
+Polarized
+light
+Rotated
+polarized light
+Angle of
+rotation of
+plane of
+polarization
+Analyzer
+Optically active
+solution
+Polarizing
+film
+Unpolarized
+light
+▲ Figure 23.23 Using polarized light to detect optical activity.
+When a substance with optical isomers is prepared in the laboratory, the chemical envi-
+ronment during the synthesis is not usually chiral. Consequently, equal amounts of the two 
+isomers are obtained, and the mixture is said to be racemic. A racemic mixture does not 
+rotate polarized light because the rotatory effects of the two isomers cancel eac

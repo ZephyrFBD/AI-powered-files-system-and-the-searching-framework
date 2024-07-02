@@ -1,0 +1,11 @@
+ a gray, crescent-shaped region that appears in a frog egg during a reorganization of the
+cytoplasm following the penetration by a sperm. Embryologist Hans Spemann, in a famous experiment, separated
+the cells formed during early cleavages and showed that each individual cell could develop into a normal frog only if
+it contained a portion of the gray crescent.
+Morphogens are proteins whose asymmetrical distribution in the cytoplasm of the oocyte determines the
+anterior/posterior and dorsal/ventral axes of the cell. Subsequent cell divisions result in morphogen gradients across
+the developing embryo. Then, in each cell, the morphogens act as transcription factors, activating or inhibiting DNA
+expression specific for that part of the embryo.
+3. Embryonic induction. Embryonic induction is the influence of one cell or group of cells over neighboring cells.
+Cells that exert this influence are called organizers. This cell-to-cell communication can occur by way of diffusible
+chemicals or by in

@@ -1,0 +1,51 @@
+ough a substance is proportional to the difference in
+temperature between its ends. The rate of heat flow also depends on the size and
+shape of the object. To investigate this quantitatively, let us consider the heat flow
+through a uniform cylinder, as illustrated in Fig. 14–6. It is found experimentally
+that the heat flow Q over a time interval is given by the relation
+(14;5)
+where A is the cross-sectional area of the object,
+is the distance between the two
+ends, which are at temperatures 
+and 
+and k is a proportionality constant
+called the thermal conductivity which is characteristic of the material. From
+Eq. 14–5, we see that the rate of heat flow (units of 
+) is directly proportional
+to the cross-sectional area and to the temperature gradient† AT
+1 - T
+2Bl.
+Js
+T
+2 ,
+T
+1
+l
+Q
+t
+= kA T
+1 - T
+2
+l
+t
+= 
+FIGURE 14;6 Heat conduction
+between regions at temperatures 
+and 
+If 
+is greater than 
+the
+heat flows to the right; the rate is
+given by Eq. 14–5.
+T
+2,
+T
+1
+T
+2.
+T
+1
+Hotter
+Cooler
+T1
+T2

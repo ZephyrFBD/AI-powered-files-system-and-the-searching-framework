@@ -1,0 +1,69 @@
+perty
+Series
+Parallel
+Equivalent resistance
+Current through equivalent 
+resistance
+Voltage across equivalent 
+resistance
+Voltage across the pair of 
+resistors
+Voltage across each resistor
+Voltage at a point between 
+the resistors 
+Not applicable
+Current through each resistor
+I
+2 =
+I
+2 =
+I
+1 =
+I
+1 =
+V
+2 =
+V
+2 =
+V
+1 =
+V
+1 =
+2. Fill in the Table below for a combination of two unequal
+resistors of resistance 
+and 
+Assume the electric poten-
+tial on the low-voltage end of the combination is 
+volts
+and the potential at the high-voltage end of the combination
+is 
+volts. First draw diagrams.
+V
+B
+V
+A
+R2 .
+R1
+Series
+Parallel
+Ceq
+Req
+A:
+and
+B: (b).
+C: (a) 60-W bulb; (b) 100-W bulb. [Can you explain why?
+In (a), recall
+]
+D:
+E: 180 A; this high current through the batteries could cause
+them to become very hot (and dangerous—possibly
+exploding): the power dissipated in the weak battery
+would be 
+!
+P = I2r = (180 A)2(0.10 ) = 3200 W
+41I3 - 45 + 21I2 - 80 = 0.
+P = I2R.
+25 .
+6 
+F: (e).
+G: L 500 k.

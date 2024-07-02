@@ -1,0 +1,31 @@
+uit B in Fig. 21–42a consists of a resis-
+tance 
+The filter capacitor has capacitance
+Will this capacitor act to eliminate 60-Hz ac
+but pass a high-frequency signal of frequency 6.0 kHz? To
+check this, determine the voltage drop across R for a
+130-mV signal of frequency (a) 60 Hz; (b) 6.0 kHz.
+*21–15 Resonance in AC Circuits
+*69. (I) A 3500-pF capacitor is connected in series to a
+coil of resistance 
+What is the resonant frequency of
+this circuit?
+*70. (II) The variable capacitor in the tuner of an AM radio has a
+capacitance of 2800 pF when the radio is tuned to a station
+at 580 kHz. (a) What must be the capacitance for a station at
+1600 kHz? (b) What is the inductance (assumed constant)?
+*71. (II) An LRC circuit has 
+and 
+(a) What value must C have to produce resonance at
+3600 Hz? (b) What will be the maximum current at
+resonance if the peak external voltage is 150 V?
+R = 4.10 .
+L = 14.8 mH
+4.00 .
+55.0-mH
+C = 1.2 mF.
+R = 520 .
+R = 6.60 k, C = 1.80 mF,
+L = 350 mH?
+R = 2.80 k
+650-

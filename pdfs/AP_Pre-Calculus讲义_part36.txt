@@ -1,0 +1,37 @@
+3. 
+ 
+ 
+ 
+ 
+ 
+1.7.3 Real Zeros 
+To help us understand the next theorem, let’s consider the polynomial 
+ 
+ 
+If the polynomial P(x) = anxn + an-1xn-1 + … + a1x +a0 has integer coefficients, (where an ≠ 0 
+and a0 ≠ 0), then every rational zero of P is of the form p/q 
+where p and q are integers and p is a factor of the constant coefficient a0 and q is a factor 
+of the leading coefficient an. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44 
+Example 3 
+Find the rational zeros of P(x) = x3 – 3x +2. 
+ 
+ 
+ 
+ 
+ 
+ 
+FINDING THE RATIONAL ZEROS OF A POLYNOMIAL 
+1. List Possible Zeros. List all possible rational zeros, using the Rational Zeros Theorem. 
+2. Divide. Use synthetic division to evaluate the polynomial at each of the candidates for 
+the rational zeros that you found in Step 1. When the remainder is 0, note the quotient 
+you have obtained. 
+3. Repeat. Repeat Steps 1 and 2 for the quotient. Stop when you reach a quotient that is 
+quadratic or factors easily, and use the quadratic formula or factor to find the remaining 

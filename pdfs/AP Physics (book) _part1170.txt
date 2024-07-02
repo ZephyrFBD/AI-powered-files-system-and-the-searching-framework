@@ -1,0 +1,90 @@
+ndulum does not depend
+on the amplitude (like any SHM, Section 11–3), as long as the amplitude is small.
+Galileo is said to have first noted this fact while watching a swinging lamp in the
+cathedral at Pisa (Fig. 11–13). This discovery led to the invention of the pendulum
+clock, the first really precise timepiece, which became the standard for centuries.
+u
+[u small]
+f =
+1
+2p A
+g
+l
+.
+f = 1T,
+[u small]
+T = 2p B
+l
+g
+.
+T = 2p A
+m
+k
+= 2p A
+m
+mgl
+k = mgl
+k = mgl.
+F = –kx,
+F L – mg
+l s.
+u = sl,
+s = lu,
+F =
+–mg sin u L –mgu.
+sin u
+u
+u
+(= l sin u)
+s (= lu)
+u
+sin u
+u
+u
+u
+u.
+F =
+–mg sin u,
+u,
+l
+u
+s = lu,
+302
+CHAPTER 11
+Oscillations and Waves
+TABLE 11–1
+Sin
+at Small Angles
+%
+(degrees) (radians)
+Difference
+0 
+0 
+0 
+0
+1°
+0.01745 0.01745 
+0.005%
+5°
+0.08727 0.08716 
+0.1%
+10°
+0.17453 0.17365 
+0.5%
+15°
+0.26180 0.25882 
+1.1%
+20°
+0.34907 0.34202 
+2.0%
+30°
+0.52360 0.50000 
+4.5%
+sin U
+U
+U
+U
+FIGURE 11–13 The swinging motion
+of this elaborate lamp, hanging by a
+very long cord from the ceiling of the
+cath

@@ -1,0 +1,35 @@
+ths
+lie in the X-ray region of the spectrum.
+10–1 nm.
+(100 nm)(2500) L 10–2
+502 = 2500
+Z = 50,
+Z2
+n = 1
+*
+±2.
+±1
+(n = 3, l = 2)
+±1.
+±1e,
+–1e.
+–1,
+*SECTION 28–9
+X-Ray Spectra and Atomic Number
+817
+C A U T I O N
+Subshells are not always
+filled in “order”
+X-rays are produced when electrons accelerated by a high voltage strike the
+metal target inside an X-ray tube (Section 25–11). If we look at the spectrum of
+wavelengths emitted by an X-ray tube, we see that the spectrum consists of two
+parts: a continuous spectrum with a cutoff at some 
+which depends only on the
+voltage across the tube, and a series of peaks superimposed. A typical example is
+shown in Fig. 28–11. The smooth curve and the cutoff wavelength 
+move to the
+left as the voltage across the tube increases. The sharp lines or peaks (labeled 
+and 
+in Fig. 28–11), however, remain at the same wavelength when the voltage
+is changed, although they are located at different wavelengths when different tar-
+get materials are used. This ob

@@ -1,0 +1,35 @@
+ION (a) Both weights are the same distance, 2.0 m, from the axis of rota-
+tion. Thus
+(b) The 5.0-kg mass is now 0.50 m from the axis, and the 7.0-kg mass is 4.50 m
+from the axis. Then
+NOTE This Example illustrates two important points. First, the moment of
+inertia of a given system is different for different axes of rotation. Second, we
+see in part (b) that mass close to the axis of rotation contributes little to the total
+moment of inertia; here, the 5.0-kg object contributed less than 1% to the total.
+= 1.3 kgm2 + 142 kgm2 = 143 kgm2.
+I = ©mr2 = (5.0 kg)(0.50 m)2 + (7.0 kg)(4.5 m)2
+= 20 kgm2 + 28 kgm2 = 48 kgm2.
+I = ©mr2 = (5.0 kg)(2.0 m)2 + (7.0 kg)(2.0 m)2
+EXAMPLE 8;9
+a
+©t = Ia.
+I = ©mr2 = m1 r1
+2 + m2 r2
+2 + p.
+m1 r1
+2 + m2 r2
+2 + m3 r3
+2 + p.
+©mr2 =
+(1,  2,  3, p ),
+©mr2 a
+©t = A©mr2Ba
+©t,
+SECTION 8–5
+Rotational Dynamics; Torque and Rotational Inertia
+209
+FIGURE 8;18 A large-diameter
+cylinder has greater rotational iner-
+tia than one of smaller diameter but
+equal mass.
+5.0 

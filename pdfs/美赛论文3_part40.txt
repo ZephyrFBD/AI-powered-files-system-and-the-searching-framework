@@ -1,0 +1,41 @@
+t from the equation.
+Accordingly, the shape of bathtub actually has some impact on even time, but it
+can be evaluated that these impacts will not be very huge. More importantly, normally
+there are regular models to describe the shape of bathtub, and little difference varies
+from each side of bathtub. Consequently, the shape of bathtub will not have great
+impact on this element.
+(2)Suffering degree:
+The shape of bathtub will affect the surface between water and air, and we name
+this area as S. We can learn from the modification of cooling model that
+relates to S,
+while the cooling time t affects the value of
+and
+which appears in suffering degree.
+As a result, S affects E indirectly.
+In simulation, we change the value of
+S
+and calculate
+E . We get some useful
+information below.
+S
+8
+8.4
+9
+9.5
+E
+2.034
+1.929
+1.969
+1.993
+The most
+efficient
+strategy
+（36.7，
+6.7，
+7.1,1）（36.3，
+7，
+7,1）（37.3，
+8.2，
+7.4,1）（37.5，8.9，7.8,1）
+Table 8: data information
+We find that when S changes, E changes, and the best

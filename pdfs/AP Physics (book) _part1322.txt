@@ -1,0 +1,53 @@
+y 
+toward the observer.
+vsource
+T =
+1
+f =
+l    
+vsnd
+.
+f,
+l,
+vsnd,
+d = l
+Source
+(a) Source fixed
+l′
+(b) Source moving
+dsource = vsourceT
+source
+Crest emitted
+when source
+was at point 1.
+Next crest emitted
+when source
+was at point 2.
+1
+2
+v
+B
+FIGURE 12–20 Determination of
+the frequency shift in the Doppler
+effect (see text). The red dot is the
+source.
+In a time T (just defined), the first wave crest has moved a distance
+where 
+is the velocity of the sound wave in air (which is the same whether 
+the source is moving or not). In this same time, the source has moved a distance
+Then the distance between successive wave crests, which is the
+wavelength 
+the observer on the right will perceive, is
+We subtract 
+from both sides of this equation and find that the shift in wave-
+length,
+is
+So the shift in wavelength is directly proportional to the source speed 
+The
+frequency 
+that will be perceived by our stationary observer on the ground is
+given by (Eq. 11–12)
+Because
+then
+(12;2a)
+Because the den

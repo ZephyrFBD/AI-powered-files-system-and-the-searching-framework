@@ -1,0 +1,18 @@
+intensity of the detector signal versus ion atomic 
+mass is called a mass spectrum (Figure 2.12). Analysis of a mass spec-
+trum gives both the masses of the ions reaching the detector and 
+their relative abundances, which are obtained from the signal 
+ 
+intensities. Knowing the atomic mass and the abundance of each 
+ 
+isotope allows us to calculate the atomic weight of an element, as 
+shown in Sample Exercise 2.4.
+Mass spectrometers are used extensively today to identify chemi-
+cal compounds and analyze mixtures of substances. Any molecule that 
+loses electrons can fall apart, forming an array of positively charged frag-
+ments. The mass spectrometer measures the masses of these fragments, 
+producing a chemical “fingerprint” of the molecule and providing clues 
+about how the atoms were connected in the original molecule. Thus, a 
+chemist might use this technique to determine the molecular structure 
+of a newly synthesized compound, to analyze proteins in the human ge-
+nome, or to identi

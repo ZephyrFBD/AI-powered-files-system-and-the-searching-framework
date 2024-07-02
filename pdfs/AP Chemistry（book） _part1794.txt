@@ -1,0 +1,44 @@
+of pressure at a temperature of -170 °C, 
+what are the ﬁnal state and temperature of the methane 
+once the system equilibrates? Assume no heat is lost to 
+the surroundings. The normal boiling point of methane is 
+-161.5 °C. The speciﬁc heats of liquid and gaseous meth-
+ane are 3.48 and 2.22 J>g@K, respectively. [Section 11.4]
+P = 1.00 atm
+32.0 g CH4
+∆Hvap = 8.20 kJ/mol
+T = −170 °C
+42.0 kJ
+ 11.5  Using this graph of CS2 data, 
+400
+500
+600
+700
+800
+300
+200
+Vapor pressure (torr)
+100
+0
+−10
+−30
+10
+30
+Temperature (°C)
+50
+464 
+CHAPTER 11 Liquids and Intermolecular Forces
+ 
+ determine (a) the approximate vapor pressure of CS2 
+at 30 °C, (b) the temperature at which the vapor pres-
+sure equals 300 torr, (c) the normal boiling point of CS2. 
+[Section 11.5]
+ 11.6  The molecules 
+Propanol
+Ethyl methyl ether
+   
+ 
+ have the same molecular formula 1C3H8O2 but different 
+chemical structures. (a) Which molecule(s), if any, can 
+engage in hydrogen bonding? (b) Which molecule do you 
+expect to have a lar

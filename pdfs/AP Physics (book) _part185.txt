@@ -1,0 +1,27 @@
+when it returns to the thrower’s hand
+(point C).
+APPROACH Again we assume the acceleration is constant, so we can use 
+Eqs. 2–11. We have the maximum height of 11.5 m and initial speed of 
+from Example 2–12. Again we take y as positive upward.
+SOLUTION (a) We consider the time interval between the throw
+and the top of the path  
+and we want
+to find 
+The acceleration is constant at
+Both 
+Eqs. 2–11a and 2–11b contain the time with other quantities known. Let us
+use Eq. 2–11a with  
+and  
+setting
+gives
+, which we rearrange to solve for :
+or
+This is just half the time it takes the ball to go up and fall back to its original
+position [3.06 s, calculated in Example 2–13]. Thus it takes the same time to
+reach the maximum height as to fall back to the starting point.
+(b) Now we consider the time interval from the throw  
+until the ball’s return to the hand, which occurs at  
+(as calculated in
+Example 2–13), and we want to find 
+when  
+NOTE The ball has the same speed (magnitude of velocity) wh

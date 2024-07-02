@@ -1,0 +1,91 @@
+ometry
+Bonding  
+Domains
+Nonbonding  
+Domains
+Molecular  
+Geometry
+Example
+2
+2
+0
+3
+3
+0
+2
+1
+4
+4
+0
+3
+1
+2
+2
+Linear
+Trigonal planar
+Tetrahedral
+F
+H
+F
+F
+O
+O
+B
+O
+O
+C
+N
+C
+H
+H
+H
+H
+H
+N
+H
+H
+O
+H
+Linear
+Trigonal planar
+Bent
+Tetrahedral
+Trigonal
+pyramidal
+Bent
+−
+1
+2
+3
+N
+H
+H
+H
+NH3
+Draw Lewis
+structure.
+N
+H
+H
+H
+Determine molecular
+geometry by counting only
+bonding electron domains to
+see the arrangement of 
+bonded atoms (trigonal 
+pyramidal).
+Determine electron-domain 
+geometry by counting all electron 
+domains; then use Table 9.1 to 
+determine the appropriate 
+electron domain geometry.
+◀ Figure 9.6 Determining 
+the molecular geometry 
+of NH3.
+Figure 9.6 shows how to use the three steps in the VSEPR model to predict the geom-
+etry of the NH3 molecule. The three bonds and one nonbonding pair in the Lewis struc-
+ture tell us we have four electron domains. Thus, from Table 9.1, the electron-domain 
+ 
+346 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+geometry of NH3 is tetrahedral. We know from the 

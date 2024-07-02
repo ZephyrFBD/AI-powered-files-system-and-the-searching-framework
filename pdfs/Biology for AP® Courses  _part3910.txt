@@ -1,0 +1,12 @@
+ly from viruses, by the altered expression of major histocompatibility class (MHC) I molecules on
+the surface of infected cells. MHC I molecules are proteins on the surfaces of all nucleated cells, thus they are scarce on
+red blood cells and platelets which are non-nucleated. The function of MHC I molecules is to display fragments of proteins
+from the infectious agents within the cell to T-cells; healthy cells will be ignored, while “non-self” or foreign proteins will
+be attacked by the immune system. MHC II molecules are found mainly on cells containing antigens (“non-self proteins”)
+and on lymphocytes. MHC II molecules interact with helper T-cells to trigger the appropriate immune response, which
+may include the inflammatory response.
+Chapter 33 | The Immune System
+1443
+Figure 33.6 Lymphocytes, such as NK cells, are characterized by their large nuclei that actively absorb Wright stain
+and therefore appear dark colored under a microscope.
+An infected cell (or a tumor cell) is usually 

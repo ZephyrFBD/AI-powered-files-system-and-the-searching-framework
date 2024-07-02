@@ -1,0 +1,68 @@
+= 0,
+©F = ma
+(a = 0),
+124
+CHAPTER 5
+Circular Motion; Gravitation
+(c)
+(a)
+3
+2
+m
+w  0
+m
+w  mg
+m
+w  mg
+0
+50
+0
+50
+0
+50
+(b)
+ 0
+1
+2
+(up)
+
+
+(down)
+w
+B
+w
+B
+g
+B
+g
+B
+g
+B
+a
+a
+a
+g
+g
+FIGURE 5;24 (a) A bag in an 
+elevator at rest exerts a force on a
+spring scale equal to its weight.
+(b) In an elevator accelerating
+upward at
+the bag’s apparent
+weight is
+times larger than its 
+true weight. (c) In a freely falling
+elevator, the bag experiences
+“weightlessness”: the scale reads
+zero.
+1 1
+2
+1
+2 g,
+The “weightlessness” experienced by people in a satellite orbit close to the
+Earth (Fig. 5–25) is the same apparent weightlessness experienced in a freely
+falling elevator. It may seem strange, at first, to think of a satellite as freely falling.
+But a satellite is indeed falling toward the Earth, as was shown in Fig. 5–23. The
+force of gravity causes it to “fall” out of its natural straight-line path. The accel-
+eration of the satellite must be the acceleration due to gravity at that point, because
+the o

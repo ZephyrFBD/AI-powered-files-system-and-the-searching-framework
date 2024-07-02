@@ -1,0 +1,33 @@
+ the
+whole Earth receives energy from the Sun. (b) Assume the
+Earth radiates an equal amount back into space (that is,
+the Earth is in equilibrium). Then, assuming the Earth is a
+perfect emitter 
+estimate its average surface
+temperature. [Hint: Discuss why you use area
+or
+in each part.]
+3. Calculate what will happen when 1000 J of heat is added to
+100 grams of (a) ice at 
+, (b) ice at 0°C, (c) water at
+10°C, (d) water at 100°C, and (e) steam at 110°C.
+–20°C
+A = 4pr2
+E
+A = pr2
+E
+( = 1.0),
+4. A house has well-insulated walls 19.5 cm thick (assume
+conductivity of air) and area 
+a roof of wood 5.5 cm
+thick and area 
+and uncovered windows 0.65 cm
+thick and total area 
+(a) Assuming that heat is lost
+only by conduction, calculate the rate at which heat must
+be supplied to this house to maintain its inside tempera-
+ture at 23°C if the outside temperature is
+(b) If 
+the house is initially at 15°C, estimate how much heat 
+must be supplied to raise the temperature to 23°C within
+30 min. Assume t

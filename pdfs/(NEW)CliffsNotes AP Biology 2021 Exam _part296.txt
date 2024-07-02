@@ -1,0 +1,10 @@
+three is 1 in 6, or 1/6. For both dice to turn up a three, the probability is
+determined by multiplying the probability of each event happening independently, or 1/6 × 1/6 = 1/36.
+2. B. Alleles refer to the various forms of a gene, or the various forms in which a particular gene can be expressed.
+Wrinkled and round are alleles that refer to two forms of a single gene (at a particular locus) that code for seed
+texture. Answer choice A is incorrect because wrinkled and yellow refer to two different genes (at different loci),
+one for seed texture and the other for seed color.
+3. D. If you let T represent the dominant allele for the ability to taste PTC, then the cross would be Tt × Tt. The
+Punnett square that follows shows that ¾ of the offspring have ability to taste PTC (¼ TT + ½ Tt).
+4. C. If both parents have normal wings (DD or Dd), there are three possible parent crosses: DD × DD, DD × Dd, or
+Dd × Dd. All of the progeny of DD × DD and of DD × Dd would have normal wings. Only the pro

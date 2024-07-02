@@ -1,0 +1,19 @@
+epression constants (Table 13.3) to calculate ∆T
+b 
+and ∆T
+f. We add ∆T
+b to the boiling point and ∆T
+f to the freezing 
+point of the solvent to obtain the boiling point and freezing point 
+of the solution.
+Osmosis
+Certain materials, including many membranes in biological systems and synthetic sub-
+stances such as cellophane, are semipermeable. When in contact with a solution, these 
+materials allow only ions or small molecules—water molecules, for instance—to pass 
+through their network of tiny pores.
+Consider a situation in which only solvent molecules are able to pass through a semi-
+permeable membrane placed between two solutions of different concentrations. The rate 
+at which the solvent molecules pass from the less concentrated solution (lower solute con-
+centration but higher solvent concentration) to the more concentrated solution (higher 
+solute concentration but lower solvent concentration) is greater than the rate in the oppo-
+site direction. Thus, there is a net movement of

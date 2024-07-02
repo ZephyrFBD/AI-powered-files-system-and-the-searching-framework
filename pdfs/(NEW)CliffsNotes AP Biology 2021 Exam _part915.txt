@@ -1,0 +1,15 @@
+hondria
+in this manner to investigate respiration.
+During the Krebs cycle, succinate is oxidized to fumarate as
+electrons
+ 
+are transferred to FAD for its reduction to FADH2(see figure above). In
+this experiment, DPIP is provided as a substitute electron acceptor for FAD. DPIP, which is blue in its oxidized
+state, accepts electrons from succinate. After accepting the electrons, DPIP turns clear, its reduced state. A
+spectrophotometer is used to quantify the degree of color change by measuring the amount of light that is
+transmitted through a cuvette. A cuvette with a higher transmittance percentage indicates a solution with more
+reduced DPIP.
+Three cuvettes are prepared at low temperatures with an appropriate buffer. The contents of a fourth cuvette is
+similarly prepared except that the mitochondrial suspension is first preheated to 100°C and then returned to a low
+temperature. Distilled water was added to bring the contents of all cuvettes to the same volume. A summary of the
+contents

@@ -1,0 +1,16 @@
+ the history of science who 
+could truly be called an adventurer. In 1804, he ascended to 23,000 ft in a hot-air bal-
+loon—an exploit that held the altitude record for several decades. To better control the 
+balloon, Gay-Lussac studied the properties of gases. In 1808, he observed the law of 
+combining volumes: At a given pressure and temperature, the volumes of gases that react 
+with one another are in the ratios of small whole numbers. For example, two volumes of 
+hydrogen gas react with one volume of oxygen gas to form two volumes of water vapor. 
+ (Section 3.1)
+Three years later, Amedeo Avogadro interpreted Gay-Lussac’s observation by propos-
+ing what is now known as Avogadro’s hypothesis:
+Equal volumes of gases at the same temperature and pressure contain  
+equal numbers of molecules.
+For example, 22.4 L of any gas at 0 °C and 1 atm contain 6.02 * 1023 gas molecules (that 
+is, 1 mol), as depicted in Figure 10.8.
+Avogadro’s law follows from Avogadro’s hypothesis:
+The volume of a ga

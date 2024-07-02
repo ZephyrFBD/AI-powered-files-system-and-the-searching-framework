@@ -1,0 +1,15 @@
+ight contain
+about 4000 pixels horizontally by 3000 pixels vertically over an area of perhaps
+and preferably larger such as 
+like 35-mm film. Light
+reaching any pixel liberates electrons within the semiconductor‡ which are stored
+as charge in that pixel’s capacitance. The more intense the light, the more charge 
+accumulates during the brief exposure time. After exposure, the charge on each
+pixel has to be “read” (measured) and stored. A reader circuit first reads the
+charge on the pixel capacitance right next to it. Immediately after, the charge on
+each pixel is electronically transferred to its adjacent pixel, towards the reader
+which reads each pixel charge in sequence, one-by-one. Hence the name 
+“charge-coupled device.” All this information (the brightness of each pixel) goes to
+a central processor that stores it and allows re-formation of the image later onto
+the camera’s screen, a computer screen, or a printer. After all the pixel charge
+information is transferred to memory (Sect

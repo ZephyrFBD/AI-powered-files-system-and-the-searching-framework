@@ -1,0 +1,13 @@
+late comprising two consensus
+sequences that recruit RNA polymerase. The prokaryotic polymerase consists of a core enzyme of four protein subunits
+Chapter 15 | Genes and Proteins
+623
+and a σ protein that assists only with initiation. Elongation synthesizes mRNA in the 5' to 3' direction at a rate of 40
+nucleotides per second. Termination liberates the mRNA and occurs either by rho protein interaction or by the formation
+of an mRNA hairpin.
+15.3 Eukaryotic Transcription
+Transcription in eukaryotes involves one of three types of polymerases, depending on the gene being transcribed. RNA
+polymerase II transcribes all of the protein-coding genes, whereas RNA polymerase I transcribes rRNA genes, and RNA
+polymerase III transcribes rRNA, tRNA, and small nuclear RNA genes. The initiation of transcription in eukaryotes
+involves the binding of several transcription factors to complex promoter sequences that are usually located upstream of
+the gene being copied. The mRNA is synthesized in the 5' t

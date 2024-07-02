@@ -1,0 +1,19 @@
+h
+Summary
+765
+26–1
+1 The Impact of Special Relativity
+A great many experiments have been performed to test the predictions of the special
+theory of relativity. Within experimental error, no contradictions have been found.
+Scientists have therefore accepted relativity as an accurate description of nature.
+At speeds much less than the speed of light, the relativistic formulas reduce to
+the old classical ones, as we have discussed. We would, of course, hope—or rather,
+insist—that this be true since Newtonian mechanics works so well for objects
+moving with speeds
+This insistence that a more general theory (such as
+relativity) give the same results as a more restricted theory (such as classical
+mechanics which works for
+) is called the correspondence principle. The 
+two theories must correspond where their realms of validity overlap. Relativity
+thus does not contradict classical mechanics. Rather, it is a more general theory,
+of which classical mechanics is now considered to be a limiting c

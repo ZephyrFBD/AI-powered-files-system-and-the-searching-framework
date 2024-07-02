@@ -1,0 +1,42 @@
+ following in scientific notation and state the number of
+significant figures for each: (a) 0.0258; (b) 42,300; (c) 344.50.
+3.690 * 104.
+3.69 * 104,
+2.1 * 10–3.
+3.69 * 104,
+CONCEPTUAL EXAMPLE 1;2
+2.5 * 3.2,
+36 + 8.2 = 44,
+15 cm2.
+14.6 cm2;
+14.63 cm2;
+14.625 cm2;
+77 cm2.
+76.84 cm2
+76.84 cm2
+2 cm2.
+77 cm2,
+11.4 cm * 6.9 cm = 78.66 cm2.
+11.2 cm * 6.7 cm = 75.04 cm2
+0.01 cm2
+76.84 cm2.
+SECTION 1–4
+Measurement and Uncertainty; Significant Figures
+7
+P R O B L E M  S O L V I N G
+Report only the proper number of
+significant figures in the final result. But
+keep extra digits during the calculation
+FIGURE 1;7 Example 1–2.
+A protractor used to measure an
+angle.
+(a)
+(b)
+FIGURE 1;6 These two calculations
+show the wrong number of significant
+figures. In (a), 2.0 was divided by 3.0.
+The correct final result would be
+0.67. In (b), 2.5 was multiplied by 3.2.
+The correct result is 8.0.
+Percent Uncertainty vs. Significant Figures
+The significant figures rule is only approximate, and in some cases may und

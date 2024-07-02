@@ -1,0 +1,33 @@
+n also refer to the amount of heat released
+by a substance when it changes from a gas to a liquid, or from a liquid to a solid.
+Thus, steam releases 
+when it changes to water, and water releases
+when it becomes ice. [In these cases of heat release,
+when using
+the 
+approach, Eq. 14–3.]
+The heat involved in a change of phase depends not only on the latent heat
+but also on the total mass of the substance. That is,
+(14;4)
+where L is the latent heat of the particular process and substance, m is the mass
+of the substance, and Q is the heat added or released during the phase change.
+For example, when 5.00 kg of water freezes at 0°C,
+of energy is released.
+1.67 * 106 J
+(5.00 kg)A3.33 * 105 JkgB =
+Q = mL,
+©Q = 0
+Q 6 0
+333 kJkg
+2260 kJkg
+SECTION 14–5
+Latent Heat
+399
+P R O B L E M  S O L V I N G
+Then determine the 
+final temperature
+SOLUTION To determine the final temperature T, we apply conservation of
+energy. We present both of the techniques discussed in Section 14–4.
+Method 1: “
+” gives
+Us

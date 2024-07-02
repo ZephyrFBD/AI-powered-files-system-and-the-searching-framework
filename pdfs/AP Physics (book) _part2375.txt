@@ -1,0 +1,24 @@
+edes the
+flow of charge in an alternating current due to the back emf produced. For a
+resistor R, the current and voltage are related by
+We can write a similar
+relation for an inductor:
+(21;11a)
+where 
+is called the inductive reactance.
+has units of ohms. The quantities
+V and I in Eq. 21–11a can refer either to rms for both, or to peak values for both
+(see Section 18–7). Although this equation can relate the peak values, the peak
+current and voltage are not reached at the same time; so Eq. 21–11a is not valid at
+a particular instant, as is the case for a resistor 
+Careful calculation
+(using calculus), as well as experiment, shows that
+(21;11b)
+where
+and f is the frequency of the ac.
+For example, the inductive reactance of a 0.300-H inductor at 120 V and 60.0 Hz
+is
+Capacitor
+When a capacitor is connected to a battery, the capacitor plates quickly acquire
+equal and opposite charges; but no steady current flows in the circuit. A capacitor
+prevents the flow of a dc current. But if a capaci

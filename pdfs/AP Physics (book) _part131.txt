@@ -1,0 +1,49 @@
+the shuttle’s velocity and 
+acceleration are shown by the 
+green 
+and gold 
+arrows.
+Motion is described using 
+the concepts of velocity and 
+acceleration. In the case 
+shown here, the velocity 
+is 
+to the right, in the direction
+of motion. The acceleration 
+is in the opposite direction 
+from the velocity 
+which 
+means the object is slowing 
+down.
+We examine in detail motion
+with constant acceleration,
+including the vertical motion 
+of objects falling under gravity.
+v
+B,
+a
+B
+v
+B
+Aa
+BB
+Av
+BB
+21
+CONTENTS
+2–1 Reference Frames and
+Displacement
+2–2 Average Velocity
+2–3 Instantaneous Velocity
+2–4 Acceleration
+2–5 Motion at Constant 
+Acceleration
+2–6 Solving Problems
+2–7 Freely Falling Objects
+2–8 Graphical Analysis of 
+Linear Motion
+CHAPTER-OPENING QUESTION—Guess now!
+[Don’t worry about getting the right answer now—you will get another chance later in the
+Chapter. See also p. 1 of Chapter 1 for more explanation.]
+Two small heavy balls have the same diameter but one weighs twice as much as
+the

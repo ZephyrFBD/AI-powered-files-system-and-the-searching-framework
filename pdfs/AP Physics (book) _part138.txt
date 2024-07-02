@@ -1,0 +1,26 @@
+e later time,
+suppose the object 
+has moved to position 
+The displacement of our object is
+and is
+represented by the arrow pointing to the right in Fig. 2–5. It is convenient to write
+where the symbol 
+(Greek letter delta) means “change in.” Then 
+means
+“the change in x,” or “change in position,” which is the displacement. The change in
+any quantity means the final value of that quantity, minus the initial value.
+Suppose
+and 
+as in Fig. 2–5. Then
+so the displacement is 20.0 m in the positive direction, Fig. 2–5.
+Now consider an object moving to the left as shown in Fig. 2–6. Here the
+object, a person, starts at
+and walks to the left to the point
+In this case her displacement is
+and the blue arrow representing the vector displacement points to the left. For
+one-dimensional motion along the x axis, a vector pointing to the right is 
+positive, whereas a vector pointing to the left has a negative sign.
+EXERCISE A An ant starts at
+on a piece of graph paper and walks along
+the x axis to
+It t

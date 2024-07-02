@@ -1,0 +1,62 @@
+ost useful equation in geometric optics.
+(Interestingly, it is exactly the same as the mirror equation, Eq. 23–2.)
+If the object is at infinity, then 
+so
+Thus the focal length is
+the image distance for an object at infinity, as mentioned earlier.
+di = f.
+1do = 0,
+do
+di
+1
+do
++ 1
+di
+=
+1
+f
+.
+1
+f - 1
+di
+=
+1
+do
+di
+hi
+ho
+=
+di
+do
+.
+IAI¿
+OAO¿
+AB = ho.
+hi
+ho
+= di - f
+f
+,
+IFI¿;
+FI¿I
+hi
+ho
+SECTION 23–8
+The Thin Lens Equation
+665
+We can derive the lens equation for a diverging lens using Fig. 23–41. Trian-
+gles 
+and 
+are similar; and triangles 
+and AFB are similar. Thus
+(noting that length
+)
+and
+When we equate the right sides of these two equations and simplify, we obtain
+This equation becomes the same as Eq. 23–8 if we make f and 
+negative. That is,
+we take f to be negative for a diverging lens, and 
+negative when the image is on
+the same side of the lens as the light comes from. Thus Eq. 23–8 will be valid for
+both converging and diverging lenses, and for all situations, if we use the follow-
+i

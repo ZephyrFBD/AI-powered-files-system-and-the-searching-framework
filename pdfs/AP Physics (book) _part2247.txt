@@ -1,0 +1,25 @@
+ic
+field lines which begin on positive charges and end on negative charges.
+Magnetic Permeability
+If a piece of ferromagnetic material like iron is placed inside a solenoid to 
+form an electromagnet (Section 20–7), the magnetic field increases greatly over
+that produced by the current in the solenoid coils alone, often by hundreds
+or thousands of times. This happens because the domains in the iron become
+aligned by the external field produced by the current in the solenoid coil.
+*
+*
+*
+†The name “spin” comes from an early suggestion that this intrinsic magnetic field arises from the
+electron “spinning” on its axis (as well as “orbiting” the nucleus) to produce the extra field. However,
+this view of a spinning electron is oversimplified and not valid (see Chapter 28).
+C A U T I O N
+lines form closed loops,
+lines start on
+and end on 
+
+E
+B
+B
+B
+†All materials are slightly magnetic. Nonferromagnetic materials fall into two principal classes:
+(1) paramagnetic materials consist of atoms that

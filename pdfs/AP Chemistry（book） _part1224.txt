@@ -1,0 +1,29 @@
+them in the periodic table. The noble gases have very stable 
+electron arrangements, as evidenced by their high ionization energies, low affinity for 
+additional electrons, and general lack of chemical reactivity. 
+ (Section 7.8) Because 
+all the noble gases except He have eight valence electrons, many atoms undergoing 
+reactions end up with eight valence electrons. This observation has led to a guide-
+line known as the octet rule: Atoms tend to gain, lose, or share electrons until they are 
+surrounded by eight valence electrons.
+An octet of electrons consists of full s and p subshells in an atom. In a Lewis symbol, 
+an octet is shown as four pairs of valence electrons arranged around the element symbol, 
+as in the Lewis symbols for Ne and Ar in Figure 8.2. There are exceptions to the octet rule, 
+as we will see in Section 8.7, but it provides a useful framework for introducing many 
+Give It Some Thought
+Are all these Lewis symbols for Cl correct?
+Cl
+Cl
+Cl
+Li
+Be
+B
+C
+N
+O
+F
+Ne
+Na
+Mg
+Al
+S

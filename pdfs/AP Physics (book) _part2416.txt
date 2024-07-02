@@ -1,0 +1,37 @@
+5. (III) A physics professor wants to demonstrate the large size
+of the henry unit. On the outside of a 12-cm-diameter plastic
+hollow tube, she wants to wind an air-filled solenoid with
+self-inductance of 1.0 H using copper wire with a 0.81-mm
+diameter. The solenoid is to be tightly wound with each turn
+touching its neighbor (the wire has a thin insulating layer
+on its surface so the neighboring turns are not in electrical
+contact). How long will the plastic tube need to be and how
+many kilometers of copper wire will be required? What will
+be the resistance of this solenoid?
+*46. (III) A long thin solenoid of length 
+and cross-sectional
+area A contains 
+closely packed turns of wire. Wrapped
+tightly around it is an insulated coil of 
+turns, Fig. 21–63.
+Assume all the flux from
+coil 1 (the solenoid)
+passes through coil 2,
+and calculate the
+mutual inductance.
+N
+2
+N
+1
+l
+l
+N1
+A
+I1
+N2
+FIGURE 21–63
+Problem 46.
+622
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+*58. (II) An inductance 

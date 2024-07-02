@@ -1,0 +1,16 @@
+e sim-
+ilar and have about the same intrinsic luminosity. Consequently, their apparent
+brightness would be a measure of how far away they were.
+Another technique makes use of the H–R diagram. Measurement of a star’s
+surface temperature (from its spectrum) places it at a certain point (within 20%)
+on the H–R diagram, assuming it is a main-sequence star, and then its luminosity
+can be estimated from the vertical axis (Fig. 33–6). Its apparent brightness and
+Eq. 33–1 give its approximate distance; see Example 33–5.
+A better estimate comes from comparing variable stars, especially Cepheid
+variables whose luminosity varies over time with a period that is found to be
+related to their average luminosity. Thus, from their period and apparent bright-
+ness we get their distance.
+Distance via SNIa, Redshift
+The largest distances are estimated by comparing the apparent brightnesses 
+of Type Ia supernovae (“SNIa”). Type Ia supernovae all have a similar origin (as
+described on the previous page and 

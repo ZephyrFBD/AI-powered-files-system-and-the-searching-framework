@@ -1,0 +1,27 @@
+ll increase, decrease, or 
+stay the same as the cell operates.
+ 20.71  The cell in Figure 20.9 could be used to provide a mea-
+sure of the pH in the cathode half-cell. Calculate the pH 
+of the cathode half-cell solution if the cell emf at 298 K 
+is measured to be +0.684 V when 3Zn2+4 = 0.30 M and 
+P
+H2 = 0.90 atm.
+ 20.72  A voltaic cell is constructed that is based on the following 
+reaction:
+Sn2+1aq2 + Pb1s2 ¡ Sn1s2 + Pb2+1aq2
+(a) If the concentration of Sn2+ in the cathode half-cell is 
+1.00 M and the cell generates an emf of +0.22 V, what is 
+the concentration of Pb2+ in the anode half-cell? (b) If the 
+anode half-cell contains 3SO4
+2-4 = 1.00 M in equilibrium 
+with PbSO41s2, what is the Ksp of PbSO4?
+Batteries and Fuel Cells (Section 20.7)
+ 20.73  During a period of discharge of a lead–acid battery, 402 g 
+of Pb from the anode is converted into PbSO41s2. (a) What 
+ 
+Exercises 
+895
+896 
+CHAPTER 20 Electrochemistry
+mass of PbO21s2 is reduced at the cathode during this same 
+period? (

@@ -1,0 +1,16 @@
+andard enthalpies of formation and standard 
+entropies in Appendix C, calculate ∆H° and ∆S° at 298 K for 
+the reaction 2 SO21g2 + O21g2 ¡ 2 SO31g2. (b) Use your 
+values from part (a) to estimate ∆G at 400 K.
+(a) Write the chemical equation that defines the normal boiling point of liquid carbon tetrachloride, CCl41l2. (b) What is the value of 
+∆G° for the equilibrium in part (a)? (c) Use data from Appendix C and Equation 19.12 to estimate the normal boiling point of CCl4.
+Solve
+(a) The normal boiling point is the temperature at which a pure 
+liquid is in equilibrium with its vapor at a pressure of 1 atm:
+Analyze (a) We must write a chemical equation that describes 
+the physical equilibrium between liquid and gaseous CCl4 at the 
+normal boiling point. (b) We must determine the value of ∆G° for 
+CCl4, in equilibrium with its vapor at the normal boiling point. 
+(c) We must estimate the normal boiling point of CCl4, based on 
+available thermodynamic data.
+Plan (a) The chemical equation is t

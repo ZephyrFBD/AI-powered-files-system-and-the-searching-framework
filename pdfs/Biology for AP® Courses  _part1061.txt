@@ -1,0 +1,18 @@
+ria following exposure to autoinducers can be quite extensive. The pathogenic bacterium Pseudomonas aeruginosa
+has 616 different genes that respond to autoinducers.
+388
+Chapter 9 | Cell Communication
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 9.17 Autoinducers are small molecules or proteins produced by bacteria that regulate gene expression.
+Which of the following statements about quorum sensing is false?
+a.
+Autoinducers must bind to receptors to turn on transcription of genes responsible for the production of more
+autoinducers.
+b.
+Autoinducers can only act on a different cell. It cannot act on the cell in which it is made.
+c.
+Autoinducers turn on genes that enable the bacteria to form a biofilm.
+d.
+The receptor stays in the bacterial cell, but the autoinducers diffuse out.
+Some species of bacteria that use quorum sensing form biofilms, complex colonies of bacteria (often containing several
+species) that exchange chemical signals to coordina

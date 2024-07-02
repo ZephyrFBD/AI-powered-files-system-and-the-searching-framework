@@ -1,0 +1,63 @@
+a factor of 10 corresponds to a sound level increase of 10 dB. An
+increase in intensity by a factor of 100 corresponds to a sound level increase of
+20 dB. Thus a 50-dB sound is 100 times more intense than a 30-dB sound, and so on.
+Intensities and sound levels for some common sounds are listed in Table 12–2.
+log 1 = 0.
+b = 10 log 10–1210–12 = 10 log 1 = 0
+b = 10 log a 1.0 * 10–10 Wm2
+1.0 * 10–12 Wm2 b
+= 10 log 100 = 20 dB,
+I = 1.0 * 10–10 Wm2
+I
+0 = 1.0 * 10–12 Wm2.
+I
+0
+I
+0
+b (in dB) = 10 log I
+I
+0
+,
+b,
+(10 dB = 1 bel).
+1
+10
+10–4 Wm2.
+10–3 Wm2,
+10–2 Wm2
+1012
+1 Wm2
+10–12 Wm2
+wattsmeter2 AWm2B.
+SECTION 12–2
+Intensity of Sound: Decibels
+331
+C A U T I O N
+0 dB does not mean zero intensity
+P H Y S I C S  A P P L I E D
+Wide range of human hearing
+TABLE 12–2
+Intensity of Various Sounds
+Sound
+Source
+Level
+Intensity
+of the Sound
+(dB)
+Jet plane at 30 m
+140
+100
+Threshold of pain
+120
+1
+Loud rock concert
+120
+1
+Siren at 30 m
+100
+Busy street traffic
+80
+Noisy restaurant 
+70
+Talk, at 50 cm
+65

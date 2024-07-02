@@ -1,0 +1,12 @@
+cause the mutation will not be carried forward. If a
+cell cannot reproduce, the mutation is not propagated and the damage is minimal. Occasionally, however, a gene mutation
+causes a change that increases the activity of a positive regulator. For example, a mutation that allows Cdk to be activated
+Chapter 10 | Cell Reproduction
+427
+without being partnered with cyclin could push the cell cycle past a checkpoint before all of the required conditions are
+met. If the resulting daughter cells are too damaged to undergo further cell divisions, the mutation would not be propagated
+and no harm would come to the organism. However, if the atypical daughter cells are able to undergo further cell divisions,
+subsequent generations of cells will probably accumulate even more mutations, some possibly in additional genes that
+regulate the cell cycle.
+The Cdk gene in the above example is only one of many genes that are considered proto-oncogenes. In addition to the
+cell cycle regulatory proteins, any pr

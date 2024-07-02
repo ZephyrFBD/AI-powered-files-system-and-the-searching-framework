@@ -1,0 +1,23 @@
+e. If the
+frequency, f, of this pulse corresponds precisely to the energy difference between
+the two energy levels (Fig. 31–24), so that
+(31;11)
+then the photons of the RF beam will be absorbed, exciting many of the nuclei
+from the lower state to the upper state. This is a resonance phenomenon because
+there is significant absorption only if f is very near
+Hence the name
+“nuclear magnetic resonance.” For free 
+nuclei, the frequency is 42.58 MHz for
+a magnetic field
+If the H atoms are bound in a molecule the total
+magnetic field 
+at the H nuclei will be the sum of the external applied field
+plus the local magnetic field 
+due to electrons and nuclei of neigh-
+boring atoms. Since f is proportional to 
+the value of f for a given external
+field will be slightly different for bound H atoms than for free atoms:
+This small change in frequency can be measured, and is called the “chemical
+shift.”A great deal has been learned about the structure of molecules and bonds
+using this NMR technique.
+Mag

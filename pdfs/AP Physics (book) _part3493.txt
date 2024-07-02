@@ -1,0 +1,39 @@
+Type
+RBE
+X- and 
+rays
+1
+(electrons)
+1
+Protons
+2
+Slow neutrons
+5 
+Fast neutrons
+particles and 
+heavy ions
+L 20
+a
+L 10
+b
+g
+P H Y S I C S  A P P L I E D
+Radon
+P H Y S I C S  A P P L I E D
+Human radiation exposure
+P H Y S I C S  A P P L I E D
+Radiation worker exposure
+Film badge
+P H Y S I C S  A P P L I E D
+Radiation sickness
+Limiting the dose. A worker in an
+environment with a radioactive source is warned that she is accumulating a dose
+too quickly and will have to lower her exposure by a factor of ten to continue
+working for the rest of the year. If the worker is able to work farther away from
+the source, how much farther away is necessary?
+RESPONSE If the energy is radiated uniformly in all directions, then the
+intensity (dose area) should decrease as the distance squared, just as it does for
+sound and light. If she can work four times farther away, the exposure lowers by
+a factor of sixteen, enough to make her safe.
+Whole-body dose. What whole-body dose is received by
+a 70-kg laborator

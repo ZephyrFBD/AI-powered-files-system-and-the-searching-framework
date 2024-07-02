@@ -1,0 +1,29 @@
+-constant expression. 
+Substituting the equilibrium partial pressures of the other species 
+into the equilibrium-constant expression for the reaction gives:
+ 
+Multiplying through by the denominator gives a quadratic 
+equation in x:
+x2  = 114.1218.81 - x2
+x2 + 14.1x - 124.22  = 0
+Solving this equation for x using the quadratic formula 
+yields x = 6.14 atm. Hence, the equilibrium partial pres-
+sures are P
+CO = x = 6.14 atm, P
+H2 = x = 6.14 atm, and 
+P
+H2O = 18.81 - x2 = 2.67 atm.
+(b) Part (a) shows that x = 6.14 atm of H2O must react for the sys-
+tem to achieve equilibrium. We can use the ideal-gas equation to 
+convert this partial pressure into a mole amount.
+n = PV
+RT
+=
+16.14 atm211.00 L2
+10.08206 L@atm>mol@K211073 K2 = 0.0697 mol
+ 
+Thus, 0.0697 mol of H2O and the same amount of C must react 
+to achieve equilibrium. As a result, there must be at least 0.0697 
+mol of C (0.836 g C) present among the reactants at the start of 
+the reaction.
+(c) The total pressure in the vessel at equilibr

@@ -1,0 +1,15 @@
+to say, if 
+susceptible people are vaccinated, they will be immune to Ebola and not seriously 
+infected people can be cured with the drugs. But patients whose disease is advanced 
+will die of Ebola even though they take the medication. In this problem, we need to 
+set up a reasonable system to deliver the medication to eradicate Ebola or relieve 
+current intense strain. To optimize the delivery system, we need to take factors like 
+the spread of the disease, the quantity of the medication needed, the locations of 
+delivery, the speed of manufacturing vaccines or drugs and so on into account. 
+The analytical procedure is as follows: 
+ Since West Africa has suffered most from Ebola and countries in this 
+region have many similarities, we use Sierra Leone as an example to 
+show the accurate value of the results in our models. 
+ Set up Disease Spread Model on the basis of SIR Model and simulate 
+the number of infected people in the future. The forecast statistics will 
+affect the demand 

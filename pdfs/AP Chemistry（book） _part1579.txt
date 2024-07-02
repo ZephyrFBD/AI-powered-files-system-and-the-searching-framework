@@ -1,0 +1,24 @@
+the correct units.
+ 
+▶Practice Exercise 1
+The Goodyear blimp contains 5.74 * 106 L of helium at 
+25 °C and 1.00 atm. What is the mass in grams of the helium 
+inside the blimp? 
+(a) 2.30 * 107 g (b) 2.80 * 106 g (c) 1.12 * 107 g  
+(d) 2.34 * 105 g (e) 9.39 * 105 g
+ 
+▶Practice Exercise 2
+Tennis balls are usually filled with either air or N2 gas to 
+a pressure above atmospheric pressure to increase their 
+bounce. If a tennis ball has a volume of 144 cm3 and con-
+tains 0.33 g of N2 gas, what is the pressure inside the ball at 
+24 °C?
+In this chapter, we encounter a variety of problems based on the 
+ideal-gas equation, which contains four variables—P, V, n, and 
+ 
+T—and one constant, R. Depending on the type of problem, we 
+might need to solve for any of the four variables.
+To extract the necessary information from problems involving 
+more than one variable, we suggest the following steps:
+ 1. Tabulate information. Read the problems carefully to deter-
+mine which variable is the unknown and

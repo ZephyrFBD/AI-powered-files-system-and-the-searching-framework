@@ -1,0 +1,35 @@
+ of the wire sensor changes by 
+and the resulting
+change 
+in the sensor’s resistance is measured. Assuming
+that as the solid wire is deformed to a length
+its density
+and volume remain constant (only approximately valid),
+show that the strain 
+of the wire sensor, and 
+thus of the object to which it is attached, is approximately
+[See Sections 18–4 and 9–5.]
+5. An electric heater is used to heat a room of volume 
+Air is brought into the room at 5°C and is completely
+replaced twice per hour. Heat loss through the walls amounts
+to approximately 
+If the air is to be maintained 
+at 22°C, what minimum wattage must the heater have?
+(The specific heat of air is about 
+Reread 
+parts of Chapter 14 and Section 18–5.)
+0.17 kcalkgC°.
+850 kcalh.
+65 m3.
+¢R2R0.
+A= ¢ll0B
+l,
+¢R
+¢l,
+R0 .
+A0 ,
+l0,
+6. Household wiring has sometimes used aluminium instead of
+copper. (a) Using Table 18–1, find the ratio of the resistance
+of a copper wire to that of an aluminum wire of the same
+length and diameter. (b) Typ

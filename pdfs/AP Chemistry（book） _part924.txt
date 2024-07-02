@@ -1,0 +1,22 @@
+nature. This limit has no 
+practical consequences when dealing with ordinary-sized objects, 
+but its implications are enormous when dealing with subatomic 
+particles, such as electrons.
+To measure an object, we must disturb it, at least a little, with 
+our measuring device. Imagine using a flashlight to locate a large 
+rubber ball in a dark room. You see the ball when the light from 
+the flashlight bounces off the ball and strikes your eyes. When a 
+beam of photons strikes an object of this size, it does not alter its 
+position or momentum to any practical extent. Imagine, however, 
+ 
+that you wish to locate an electron by similarly bouncing light 
+off it into some detector. Objects can be located to an accuracy 
+ 
+SECTION 6.5  Quantum Mechanics and Atomic Orbitals 
+227
+6.5 ∣  
+Quantum Mechanics  
+and Atomic Orbitals
+In 1926, the Austrian physicist Erwin Schrödinger (1887–1961) proposed an equation, 
+now known as Schrödinger’s wave equation, that incorporates both the wave-like and 
+pa

@@ -1,0 +1,26 @@
+00 g of O21g2 and 9.00 g of CH41g2 is placed in a 15.0-L vessel at 0 °C. What is the partial pressure of each 
+gas, and what is the total pressure in the vessel?
+According to Dalton’s law of partial pressures (Equation 10.12), 
+the total pressure in the vessel is the sum of the partial pressures:
+P
+t = P
+O2 + P
+CH4
+= 0.281 atm + 0.841 atm = 1.122 atm
+Check A pressure of roughly 1 atm seems right for a mixture of 
+about 0.2 mol O2 and a bit more than 0.5 mol CH4, together in a 
+15-L volume, because 1 mol of an ideal gas at 1 atm pressure and 
+0 °C occupies about 22 L.
+ 
+▶Practice Exercise 1
+A 15-L cylinder contains 4.0 g of hydrogen and 28 g of  
+nitrogen. If the temperature is 27 °C what is the total pressure  
+of the mixture? 
+(a) 0.44 atm (b) 1.6 atm (c) 3.3 atm  
+(d) 4.9 atm (e) 9.8 atm
+ 
+▶Practice Exercise 2
+What is the total pressure exerted by a mixture of 2.00 g of 
+H21g2 and 8.00 g of N21g2 at 273 K in a 10.0-L vessel?
+Partial Pressures and Mole Fractions
+Because each gas in a 

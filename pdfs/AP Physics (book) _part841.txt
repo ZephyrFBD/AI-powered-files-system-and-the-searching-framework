@@ -1,0 +1,87 @@
+show that this is true.
+v
+1
+2 Iv2,
+1
+2 mv2
+F
+T
+a = Ra = (0.330 m)A6.98 rads2B
+= 2.30 ms2.
+F
+T (= mg - ma = 15.0 N - ma)
+10.0 rads2
+a =
+(15.0 N)(0.330 m) - 1.10 mN
+0.385 kgm2 + (1.53 kg)(0.330 m)2
+= 6.98 rads2.
+tfr = 1.10 mN
+I = 0.385 kgm2
+(m = 1.53 kg)
+mg = 15.0 N
+AI + mR2B
+AmgR - tfrB
+a = mgR - tfr
+I + mR2 .
+a:
+a
+Ia = ©t = RF
+T - tfr = R(mg - mRa) - tfr = mgR - mR2a - tfr .
+F
+T = mg - ma = mg - mRa
+atan = a = Ra.
+a,
+F
+T = mg - ma.
+F
+T 6 mg.
+(= mg = 15.0 N).
+F
+T,
+mg - F
+T = ma.
+©F = ma,
+F
+T
+Ia = ©t = RF
+T - tfr .
+F
+T
+F
+T
+©F = ma.
+©t = Ia,
+tfr = 1.10 mN
+a
+m = wg = 1.53 kg
+w = 15.0 N
+EXAMPLE 8;11
+212
+CHAPTER 8
+   T
+   fr
+m
+(a)
+(b)
+R
+   T
+F
+B
+F
+B
+F
+B
+g
+B
+FIGURE 8;22 Example 8–11.
+(a) Pulley and falling bucket of 
+mass m. This is also the free-body
+diagram for the pulley. (b) Free-
+body diagram for the bucket.
+θ
+R
+H
+H
+Consider any rigid rotating object as made up of many tiny particles, each of
+mass m. If we let r represent the distance of any one particle from the axis of
+rotati

@@ -1,0 +1,29 @@
+sect (or focus) at precisely a
+single point. (This “defect” is referred
+to as “spherical aberration.”)
+Principal
+axis
+F
+A
+B
+C
+θ
+θ
+θ
+f
+r
+r
+FIGURE 23–14 Rays parallel to the principal 
+axis of a concave spherical mirror come to a 
+focus at F, the focal point, as long as the mirror 
+is small in width as compared to its radius of 
+curvature, r, so that the rays are “paraxial”—
+that is, make only small angles with the 
+horizontal axis.
+Now we will show, for a mirror whose reflecting surface is small compared to
+its radius of curvature, that the rays very nearly meet at a common point, F, and
+we will also determine the focal length f. In this approximation, we consider only
+rays that make a small angle with the principal axis; such rays are called paraxial
+rays, and their angles are exaggerated in Fig. 23–14 to make the labels clear. First
+we consider a ray that strikes the mirror at B in Fig. 23–14. The point C is the
+center of curvature of the mirror (the center of the sphere of which the 

@@ -1,0 +1,29 @@
+H3COO- (the common 
+ion) is the initial concentration that is due to CH3COONa 
+(0.30 M) plus the change in concentration (x) that is due to the 
+ionization of CH3COOH.
+Ka = 1.8 * 10-5 =
+3H+43CH3COO-4
+3CH3COOH4
+The dissociation constant for CH3COOH at 25 °C is from Table 
+16.2, or Appendix D; addition of CH3COONa does not change 
+the value of this constant. Substituting the equilibrium-constant 
+concentrations from our table into the equilibrium expression 
+gives:
+Ka = 1.8 * 10-5 =
+x10.30 + x2
+0.30 - x
+Because Ka is small, we assume that x is small compared to the 
+original concentrations of CH3COOH and CH3COO- (0.30 M 
+each). Thus, we can ignore the very small x relative to 0.30 M, 
+giving:
+ Ka = 1.8 * 10-5 =
+x10.302
+0.30
+The resulting value of x is indeed small relative to 0.30, justify-
+ing the approximation made in simplifying the problem.
+ x = 1.8 * 10-5 M = 3H+4
+Finally, we calculate the pH from the equilibrium concentra-
+tion of H+1aq2:
+pH = -log11.8 * 10-52 = 4.74
+Comment In Sec

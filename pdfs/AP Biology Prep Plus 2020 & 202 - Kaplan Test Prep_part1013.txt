@@ -1,0 +1,38 @@
+ the diets of several vertebrates, as well as the
+average length of the cecum as measured in 20 individuals of that
+species.
+Species
+Average Cecum Length
+Diet
+1
+40.1 cm
+herbivore
+2
+5.7 cm
+omnivore
+3
+6.8 cm
+carnivore
+4
+30.2 cm
+ruminant
+Based on the table, which of the following conclusions is most
+plausible? 
+The cecum can become a vestigial structure in meat eaters,
+since it is shorter in species 2 and 3 than in species 1 and 4.
+(A)
+The cecum evolved to have an important role in the digestion
+of protein, since it is shorter in species 2 and 3 than in species
+1 and 4.
+(B)
+Species 1 is more closely related to species 4 than to species
+2, because 1 and 4 are both herbivores.
+(C)
+Species 2 and 3 have a recent common ancestor, since the
+average cecum lengths in species 2 and 3 are approximately
+equal.
+(D)
+Questions 54-56
+Sickle cell anemia is caused by mutant hemoglobin DNA, which is
+more common in humans with African ancestry than in those with
+European ancestry. The sickle cell allele cre

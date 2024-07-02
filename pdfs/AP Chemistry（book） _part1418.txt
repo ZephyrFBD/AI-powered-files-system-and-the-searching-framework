@@ -1,0 +1,24 @@
+ure 9.19 Hybrid orbital description of bonding in NH3. Note the comparison with Figure 9.6.  
+Here we focus on the hybrid orbitals used to make bonds and to hold nonbonding electron pairs.
+How would we modify the figure if we were looking at PH3 rather than NH3?
+ 
+SECTION 9.6    
+Multiple Bonds 
+361
+SOLUTION
+Analyze We are given the chemical formula for a polyatomic anion 
+and asked to describe the type of hybrid orbitals surrounding the 
+central atom.
+Plan To determine the central atom hybrid orbitals, we must know 
+the electron-domain geometry around the atom. Thus, we draw 
+the Lewis structure to determine the number of electron domains 
+around the central atom. The hybridization conforms to the num-
+ber and geometry of electron domains around the central atom as 
+predicted by the VSEPR model.
+Solve The Lewis structure is
+H
+H N
+2
+Because there are four electron domains around N, the electron- 
+domain geometry is tetrahedral. The hybridization that gives a tet-
+rahedral electron-doma

@@ -1,0 +1,30 @@
+rray
+is rectangular and is split through the middle by the x axis.
+(c) About which axis would it be harder to accelerate this
+array?
+m = 2.2 kg,  M = 3.4 kg,
+2.6 revs
+FIGURE 8;49
+Problem 43.
+End view of
+cylindrical
+satellite
+R
+FIGURE 8;50
+Problem 45.
+44. (II) A centrifuge rotor rotating at 9200 rpm is shut off and
+is eventually brought uniformly to rest by a frictional
+torque of 
+If the mass of the rotor is 3.10 kg and
+it can be approximated as a solid cylinder of radius
+0.0710 m, through how many revolutions will the rotor
+turn before coming to rest, and how long will it take?
+45. (II) To get a flat, uniform cylindrical satellite spinning at
+the correct rate, engineers fire four tangential rockets as
+shown in Fig. 8–50. Suppose that the satellite has a mass of
+3600 kg and a radius of 4.0 m, and that the rockets each
+add a mass of 250 kg. What is the steady force required of
+each rocket if the satellite is to reach 32 rpm in 5.0 min,
+starting from rest?
+1.20 mN.
+46. (III) Two blocks 

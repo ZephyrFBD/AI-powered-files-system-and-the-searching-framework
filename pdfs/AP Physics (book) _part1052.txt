@@ -1,0 +1,42 @@
+ has magnitude equal to the weight of the object. For example,
+a log whose specific gravity is 0.60 and whose volume is 
+has a mass
+If the log is fully submerged, it will displace a mass of water
+Hence the buoyant force on the log will be greater than its weight, and it will
+float upward to the surface (Fig. 10–14). The log will come to equilibrium 
+when it displaces 1200 kg of water, which means that 
+of its volume 
+will be submerged. This 
+corresponds to 60% of the volume of the log
+so 60% of the log is submerged.
+In general when an object floats, we have
+which we can write as
+(see Fig. 10–15)
+where 
+is the full volume of the object and 
+is the volume of fluid it 
+displaces (
+volume submerged). Thus
+That is, the fraction of the object submerged is given by the ratio of the object’s
+density to that of the fluid. If the fluid is water, this fraction equals the specific
+gravity of the object.
+V
+displ
+V
+O
+= rO
+rF
+.
+=
+V
+displ
+V
+O
+rFV
+displ g = rOV
+Og,
+F
+B = mO g
+F
+B = mO g,
+(= 1.22.0 = 0

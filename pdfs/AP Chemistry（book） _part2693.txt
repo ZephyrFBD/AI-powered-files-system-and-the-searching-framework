@@ -1,0 +1,50 @@
+us, pH; 3H+4 can be determined using the acid-dissociation 
+equilibrium of lactic acid.
+ 
+SECTION 17.2   
+Buffers 
+723
+Continued
+724 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+Solve 
+The initial and equilibrium concentrations 
+of the species involved in this equilibrium 
+are:
+CH3CH1OH2COOH1aq2 ∆ H+1aq2 + CH3CH1OH2COO-1aq2
+Initial (M)
+0.12
+0
+0.10
+Change (M)
+-x
++x
++x
+Equilibrium (M)
+(0.12 - x)
+x
+(0.10 + x)
+The equilibrium concentrations are gov-
+erned by the equilibrium expression:
+Ka = 1.4 * 10-4 =
+3H+43C3H5O3
+-4
+3HC3H5O34
+=
+x10.10 + x2
+0.12 - x
+Because Ka is small and a common ion is 
+present, we expect x to be small relative to 
+either 0.12 or 0.10 M. Thus, our equation 
+can be simplified to give:
+Ka = 1.4 * 10-4 =
+x10.102
+0.12
+Solving for x gives a value that justifies our 
+approximation:
+ 3H+4 = x = a 0.12
+0.10 b11.4 * 10-42 = 1.7 * 10-4 M
+Then, we can solve for pH:
+ pH = -log11.7 * 10-42 = 3.77
+Alternatively, we can use the Henderson–
+Hasselbalch equation with the initial

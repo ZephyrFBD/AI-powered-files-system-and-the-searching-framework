@@ -1,0 +1,51 @@
+ugh the lightbulb?
+(a) 0 A.
+(b) 1 A.
+(c) 2 A.
+(d) 4 A.
+10-
+10-
+610 A.
+710 A.
+100-
+10,000-
+100-
+10,000-
+1. In which circuits shown in Fig. 19–40 are resistors connected
+in series?
+R
+C
+S
+FIGURE 19–47
+MisConceptual
+Question 11.
+C
+A
+B
+V
+6. Figure 19–44 shows three identical bulbs in a circuit. What
+happens to the brightness of bulb A if you replace bulb B
+with a short circuit?
+(a) Bulb A gets brighter.
+(b) Bulb A gets dimmer.
+(c) Bulb A’s brightness
+does not change.
+(d) Bulb A goes out.
+MisConceptual Questions
+551
+8. When the switch shown in Fig. 19–45 is closed, what will
+happen to the voltage across resistor 
+It will
+(a) increase.
+(b) decrease.
+(c) stay the same.
+9. As a capacitor is being charged in an RC circuit, the current
+flowing through the resistor is
+(a) increasing.
+(c) constant.
+(b) decreasing.
+(d) zero.
+10. For the circuit shown in Fig. 19–46, what happens when the
+switch S is closed?
+(a) Nothing. Current cannot flow through the capacitor.
+(b) The capacitor immediately ch

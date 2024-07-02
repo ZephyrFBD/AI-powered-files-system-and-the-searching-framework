@@ -1,0 +1,18 @@
+he infective rate and the proportion 
+of susceptible people are changing with time. It can predict future trend at 
+a nature spread of disease, including the proportion that the patients will 
+reach. Due to the use of the method of data fitting, the margin of error is 
+small. To sum up, this model is simple, accurate and practical. 
+ Weakness: This model just applies to the nature spread, it is more suitable 
+for natural environment without the external factors. But in fact, we would 
+Team   #37232                                                              Page 6 of 22   
+face more complex problems, such as isolation and medical cure. Under 
+these circumstances, we can’t use this model, that’s what we need to 
+improve in the next models.  
+ 
+3.2 
+Improved Model Ⅰ( Spread Model considering vaccines) 
+3.2.1 Additional Assumptions 
+1) We divide people into 3 types, including susceptible people, infective 
+people and dead, cured or vaccinated people. 
+2) θ will change with t, and the co

@@ -1,0 +1,51 @@
+ture
+Formula
+Name
+Characteristics
+HCN
+Hydrogen cyanide
+Very toxic, slight odor of bitter almonds
+H2S
+Hydrogen sulfide
+Very toxic, odor of rotten eggs
+CO
+Carbon monoxide
+Toxic, colorless, odorless
+CO2
+Carbon dioxide
+Colorless, odorless
+CH4
+Methane
+Colorless, odorless, flammable
+C2H4 
+Ethene (Ethylene)
+Colorless, ripens fruit
+C3H8
+Propane
+Colorless, odorless, bottled gas
+N2O
+Nitrous oxide
+Colorless, sweet odor, laughing gas
+NO2
+Nitrogen dioxide
+Toxic, red-brown, irritating odor
+NH3 
+Ammonia
+Colorless, pungent odor
+SO2
+Sulfur dioxide
+Colorless, irritating odor
+ 
+SECTION 10.2   
+Pressure 
+397
+10.2 ∣ Pressure
+The molecules of a gas move chaotically, colliding with each other and with the walls 
+of their container. The impacts with the container walls exert a force—an outward push 
+against the walls. The pressure, P, that a gas exerts is defined as the force, F, divided by 
+the area, A, of the surface on which the force is acting:
+ 
+P = F
+A 
+[10.1]
+Gases exert a pressure on any surface with 

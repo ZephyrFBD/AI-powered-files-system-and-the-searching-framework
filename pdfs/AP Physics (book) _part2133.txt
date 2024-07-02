@@ -1,0 +1,21 @@
+r lines safely, even
+though the wires have no insulation around them, whereas
+leaning a metal ladder up against a power line is extremely
+dangerous.
+2. Discuss the advantages and disadvantages of Christmas tree
+lights connected in parallel versus those connected in series.
+3. If all you have is a 120-V line, would it be possible to light
+several 6-V lamps without burning them out? How?
+4. Two lightbulbs of resistance 
+and 
+and a
+battery are all connected in series. Which bulb is brighter?
+What if they are connected in parallel? Explain.
+5. Household outlets are often double outlets. Are these
+connected in series or parallel? How do you know?
+6. With two identical lightbulbs and two identical batteries,
+explain how and why you would arrange the bulbs and bat-
+teries in a circuit to get the maximum possible total power
+to the lightbulbs. (Ignore internal resistance of batteries.)
+7. If two identical resistors are connected in series to a battery,
+does the battery have to supply more powe

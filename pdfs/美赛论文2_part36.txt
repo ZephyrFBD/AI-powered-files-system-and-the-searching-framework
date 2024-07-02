@@ -1,0 +1,17 @@
+can refer to Model 3 to get 
+the optimal strategy to get drugs. 
+ Distribution Strategy of Vaccine 
+Assume P
+i as the density of population of Ai (the code of epidemic cities 
+(i=1, 2, 3 …14)) (constant)  
+According to the Improved ModelⅡ, we can predict the number of reduced 
+susceptible people (also called the number of people who would be infected ) 
+the next week. To prevent the part of people from being infected, the vaccine 
+can be used. Due to the limitation of the level of production in early stage, the 
+supply is supposed to be less than demand, during the time the total number of 
+the vaccine distributed to Sierra Leone equals to the total output of the world 
+medical association. 
+With the development of the technology and equipment, the supply would 
+increase. With time going by, the supply would meet the demand. From then 
+on, to avoid wasting, the total output should be made according to the demand. 
+So at the later stage, the number of the vaccine (later stage) is assum

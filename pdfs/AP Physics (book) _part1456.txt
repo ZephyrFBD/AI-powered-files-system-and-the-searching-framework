@@ -1,0 +1,14 @@
+gh elevations, because the boiling water is cooking at a lower
+temperature. Pressure cookers reduce cooking time because they build up a 
+pressure as high as 2 atm, allowing a higher boiling (and cooking) temperature to
+be attained (Problem 64 and Fig. 13–32).
+Partial Pressure and Humidity
+When we refer to the weather as being dry or humid, we are referring to the
+water vapor content of the air. In a gas such as air, which is a mixture of several
+types of gases, the total pressure is the sum of the partial pressures of each gas
+present.† By partial pressure, we mean the pressure each gas would exert if it
+alone were present. The partial pressure of water in the air can be as low as zero
+and can vary up to a maximum equal to the saturated vapor pressure of water at
+the given temperature. Thus, at 20°C, the partial pressure of water cannot exceed
+17.5 torr (see Table 13–3) or about 0.02 atm. The relative humidity is defined as
+the ratio of the partial pressure of water vapor to the satur

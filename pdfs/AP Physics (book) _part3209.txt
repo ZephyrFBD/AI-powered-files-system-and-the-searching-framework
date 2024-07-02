@@ -1,0 +1,53 @@
+f a photon. (b) How many
+different wavelengths are there (ignoring fine structure)?
+(n, l)
+l
+ml = 2
+4s S 2p.
+5d S 3s;
+4d S 2d;
+3p S 1s;
+4p S 3p;
+±1e.
+n = 2
+l,
+ms?
+l,
+ml = –3,
+ms?
+ml,
+l = 4,
+n = 5,  l = 3
+(Z = 8).
+(Z = 13).
+(Z = 6),
+n = 4?
+n = 5,  l = 3
+ms?
+ml
+n = 6,  l = 3,
+l
+n = 6,
+*28–9 X-Rays
+*33. (I) What are the shortest-wavelength X-rays emitted by
+electrons striking the face of a 28.5-kV TV picture tube?
+What are the longest wavelengths?
+*34. (I) If the shortest-wavelength bremsstrahlung X-rays emitted
+from an X-ray tube have 
+what is the voltage
+across the tube?
+*35. (I) Show that the cutoff wavelength 
+in an X-ray spectrum
+is given by
+where V is the X-ray tube voltage in volts.
+*36. (I) For the spectrum of X-rays emitted from a molybdenum
+target (Fig. 28–11), determine the maximum and minimum
+energy.
+*37. (II) Use the result of Example 28–7 
+to estimate
+the X-ray wavelength emitted when a cobalt atom 
+makes a transition from
+to
+*38. (II) Estimate the wavelength for an
+to 
+tran

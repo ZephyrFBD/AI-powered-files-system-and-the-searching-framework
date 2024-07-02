@@ -1,0 +1,18 @@
+ndothermic 
+1∆H 7 02 or exothermic 1∆H 6 02, even if we do not know ∆H °
+f  for all of the species 
+involved.
+Our strategy for estimating reaction enthalpies is a straightforward application 
+of Hess’s law. We use the fact that breaking bonds is always endothermic and forming 
+bonds is always exothermic. We therefore imagine that the reaction occurs in two 
+steps:
+1. We supply enough energy to break those bonds in the reactants that are not present 
+in the products. The enthalpy of the system is increased by the sum of the bond en-
+thalpies of the bonds that are broken.
+2. We form the bonds in the products that were not present in the reactants. This step 
+releases energy and therefore lowers the enthalpy of the system by the sum of the 
+bond enthalpies of the bonds that are formed.
+The enthalpy of the reaction, ∆Hrxn, is estimated as the sum of the bond enthalpies of 
+the bonds broken minus the sum of the bond enthalpies of the bonds formed:
+ 
+∆Hrxn = g (bond enthalpies - g (bond enth

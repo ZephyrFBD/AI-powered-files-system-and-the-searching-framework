@@ -1,0 +1,20 @@
+
+state, for which the spins are the same. The two
+electrons cannot both be in the lowest energy state and be attached to the same
+atom, for then they would have identical quantum numbers in violation of the
+exclusion principle. The exclusion principle tells us that, because no two electrons
+can occupy the same quantum state, if two electrons have the same quantum
+numbers, they must be different in some other way—namely, by being in different
+places in space (for example, attached to different atoms). Thus, for 
+when
+the two atoms approach each other, the electrons will stay away from each other
+as shown by the probability distribution of Fig. 29–1. The electrons spend very
+little time between the two nuclei, so the positively charged nuclei repel each
+other and no bond is formed.
+For the 
+state, on the other hand, the spins are opposite and the two
+electrons are consequently in different quantum states (
+is different,
+for
+one,
+for the other). Hence the two electrons can come close toge

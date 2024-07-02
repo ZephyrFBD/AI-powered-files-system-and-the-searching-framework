@@ -1,0 +1,16 @@
+, 
+but not so much that they are insensitive to surrounding atoms. As a result, electrons in 
+these orbitals behave sometimes like valence electrons and sometimes like core electrons. 
+The details depend on location in the periodic table and the atom’s environment.
+When transition metals are oxidized, they lose their outer s electrons before they lose elec-
+trons from the d subshell. 
+ (Section 7.4) The electron configuration of Fe is 3Ar43d 64s2, 
+for example, whereas that of Fe2+ is 3Ar43d 6. Formation of Fe3+ requires loss of one 3d 
+electron, giving 3Ar43d 5. Most transition-metal ions contain partially occupied d sub-
+shells, which are responsible in large part for three characteristics:
+1. Transition metals often have more than one stable oxidation state.
+2. Many transition-metal compounds are colored, as shown in Figure 23.4.
+3. Transition metals and their compounds often exhibit magnetic properties.
+Go Figure
+In which transition-metal ion of this group are the 3d orbitals 
+comp

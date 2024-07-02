@@ -1,0 +1,15 @@
+am to locate (approximately) the position of
+the image. (b) Determine the position of the image and the magnification analytically.
+APPROACH We draw the ray diagram using the rays as in Fig. 23–15, page 651.
+An analytic solution uses Eqs. 23–1, 23–2, and 23–3.
+SOLUTION (a) Since
+the object is between the mirror and
+the focal point. We draw the three rays as described earlier (Fig. 23–15); they are
+shown leaving the tip of the object in Fig.23–17. Ray 1 leaves the tip of our object
+heading toward the mirror parallel to the axis, and reflects through F. Ray 2
+cannot head toward F because it would not strike the mirror; so ray 2 must
+point as if it started at F (dashed line in Fig. 23–17) and heads to the mirror, and
+then is reflected parallel to the principal axis. Ray 3 is perpendicular to the
+mirror and reflects back on itself. The rays reflected from the mirror diverge and
+so never meet at a point. They appear to be coming from a point behind the
+mirror (dashed lines). This point loca

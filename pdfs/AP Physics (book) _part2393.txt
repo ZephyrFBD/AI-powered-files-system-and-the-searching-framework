@@ -1,0 +1,43 @@
+largest when the applied
+voltage has a frequency equal to 
+]
+f
+0 .
+f
+0 =
+1
+2p A
+1
+LC
+.
+Z =
+3R2 + AXL - XCB
+2 .
+V
+0 = I0 Z  or  V
+rms = IrmsZ;
+V = IR
+XC =
+1
+2pfC
+.
+XL = 2pfL,
+V = IXC.
+V = IXL,
+1. What would be the advantage, in Faraday’s experiments
+(Fig. 21–1), of using coils with many turns?
+2. What is the difference between magnetic flux and magnetic
+field?
+3. Suppose you are holding a circular ring of wire in front of you
+and (a) suddenly thrust a magnet, south pole first, away from
+you toward the center of the circle. Is a current induced in
+the wire? (b) Is a current induced when the magnet is held
+steady within the ring? (c) Is a current induced when you
+withdraw the magnet? For each yes answer, specify the
+direction. Explain your answers.
+4. (a) A wire loop is pulled away from a current-carrying wire
+(Fig. 21–47). What is the direction of the induced current
+in the loop: clockwise or counterclockwise?
+(b) What if the wire loop stays fixed as the
+current I decreases? Explain 
+you

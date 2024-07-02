@@ -1,0 +1,30 @@
+ transition from pure 
+covalent bonding in elemental semiconductors to polar covalent bonding in compound 
+semiconductors. As the difference in electronegativity of the elements increases, the 
+bonding becomes more polar and the band gap increases.
+Go Figure
+If you draw a second diagram next to this one to represent 
+an insulator, what aspect of the second diagram would be 
+different?
+Valence band
+Occupied bonding
+molecular orbitals
+Conduction
+band
+Unoccupied antibonding
+molecular orbitals
+Energy
+s orbitals
+p orbitals
+s orbitals
+p orbitals
+Band gap,
+Si, Ge, or Sn
+Eg
+▲ Figure 12.30 The electronic band structure of semiconductors that have the diamond crystal 
+structure.
+Electrical engineers manipulate both the orbital overlap and the bond polarity to 
+control the band gaps of compound semiconductors for use in a wide range of electrical 
+and optical devices. The band gaps of several elemental and compound semiconductors 
+are given in Table 12.4.
+TABLE 12.4 Band Gaps of Select Elemental 

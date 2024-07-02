@@ -1,0 +1,26 @@
+m)
+4s band
+(holds 2e− per atom)
+Band structure of
+nickel crystal
+Filled MOs
+Atomic orbitals of
+single nickel atom
+4s orbitals
+The dotted line 
+seRarates ﬁlleF 
+molecular orbitals 
+from empty 
+molecular 
+orbitals.
+▲ Figure 12.23 The electronic band structure of nickel.
+*This is strictly true only for chains with an even number of atoms.
+metals are similar. The electron configuration of a nickel atom is 3Ar44s23d8, as shown 
+on the left side of the figure. The energy bands that form from each of these orbitals 
+are shown on the right side. The 4s, 4p, and 3d orbitals are treated independently, each 
+giving rise to a band of molecular orbitals. In practice, these overlapping bands are 
+not completely independent of each other, but for our purposes this simplification is 
+reasonable.
+The 4s, 4p, and 3d bands differ from one another in the energy range they span (rep-
+resented by the heights of the rectangles on the right side of Figure 12.23) and in the 
+number of electrons they can hold (

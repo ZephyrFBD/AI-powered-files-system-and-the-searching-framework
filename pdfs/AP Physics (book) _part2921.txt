@@ -1,0 +1,44 @@
+ numbers into a calculator, you will obtain 
+because
+the denominator differs from 1 by such a tiny amount. The time measured by an
+observer fixed on Earth would show no difference from that measured by the
+driver, even with the best instruments. A computer that could calculate to a large
+number of decimal places would reveal a slight difference between 
+and 
+NOTE We can estimate the difference using the binomial expansion (Appendix A–5),
+In our time dilation formula, we have the factor
+Thus†
+So the difference between 
+and 
+is predicted to be 
+an extremely
+small amount.
+EXERCISE B A certain atomic clock keeps precise time on Earth. If the clock is taken
+on a spaceship traveling at a speed
+does this clock now run slow according to
+the people (a) on the spaceship, (b) on Earth?
+v = 0.60c,
+4 * 10–14 s,
+¢t0
+¢t
+L  10.00 s + 4 * 10–14 s.
+L  10.00 s c1 + 1
+2 ¢
+27.8 ms
+3.00 * 108 ms
+≤
+2
+d
+L
+¢t0 ¢1 + 1
+2
+v2
+c2 ≤
+¢t = g ¢t0 = ¢t0 ¢ 1 - v2
+c2 ≤
+– 1
+2
+g = A1 - v2c2B– 1
+2.
+[for x V 1]
+(16x)n L  1

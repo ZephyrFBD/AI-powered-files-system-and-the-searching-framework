@@ -1,0 +1,24 @@
+me conditions, what exposure time would be needed
+for a pinhole camera (Problem 64) if the pinhole diameter is
+1.0 mm and the film is 7.0 cm from the hole?
+66. An astronomical telescope has a magnification of 
+If
+the two lenses are 28 cm apart, determine the focal length
+of each lens.
+67. (a) How far away can a human eye distinguish two car
+headlights 2.0 m apart? Consider only diffraction effects and
+assume an eye pupil diameter of 6.0 mm and a wavelength
+of 560 nm. (b) What is the minimum angular separation an
+eye could resolve when viewing two stars, considering only
+diffraction effects? In reality, it is about 
+of arc. Why is it
+not equal to your answer in (b)?
+68. Figure 25–48 was taken from the NIST Laboratory (National
+Institute of Standards and Technology) in Boulder, CO,
+2.0 km from the hiker in the photo. The Sun’s image was
+15 mm across on the film. Estimate the focal length of the
+camera lens (actually a telescope). The Sun has diameter
+and it is 
+away.
+1.5 * 108 km
+1.4 * 1

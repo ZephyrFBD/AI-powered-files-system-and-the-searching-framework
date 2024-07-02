@@ -1,0 +1,34 @@
+ower if loaded with 300 kg rather than 200 kg?
+APPROACH We use Hooke’s law: the weight of the people, mg, causes a 3.0-cm
+displacement.
+SOLUTION (a) The added force of
+causes the
+springs to compress
+Therefore (Eq. 11–1), the spring constant is
+(b) If the car is loaded with 300 kg, Hooke’s law gives
+or 4.5 cm.
+NOTE In (b), we could have obtained x without solving for k: since x is propor-
+tional to F, if 200 kg compresses the spring 3.0 cm, then 1.5 times the force will
+compress the spring 1.5 times as much, or 4.5 cm.
+x = F
+k
+=
+(300 kg)A9.8 ms2B
+A6.5 * 104 NmB
+= 4.5 * 10–2 m,
+k = F
+x
+=
+1960 N
+3.0 * 10–2 m = 6.5 * 104 Nm.
+3.0 * 10–2 m.
+(200 kg)A9.8 ms2B = 1960 N
+EXAMPLE 11;1
+SECTION 11–2
+Energy in Simple Harmonic Motion
+295
+†The word “harmonic” refers to the motion being sinusoidal, which we discuss in Section 11–3. It is
+“simple” when the motion is sinusoidal of a single frequency. This can happen only if friction or other
+forces are not acting.
+P H Y S I C S  A P P L I E D
+Car spr

@@ -1,0 +1,61 @@
+17 Potential energy for
+the 
+molecule and for a simple
+harmonic oscillator (
+with
+).
+∑x∑= @r - r0@
+pe = 1
+2 kx2,
+H2
+pe
+r
+0
+0.1 nm
+4.5 eV
+r0 
+ 0.074 nm
+(1
+2 kx2)
+H2
+molecule
+SHO
+Energy
+11
+2
+1
+2
+hf
+Vibrational
+quantum
+number v
+Vibrational
+energy
+5
+hf
+0
+3
+2hf
+1
+5
+2hf
+2
+7
+2hf
+3
+9
+2hf
+4
+E
+E
+29–5 Bonding in Solids
+Quantum mechanics has been a great tool for understanding the structure 
+of solids. This active field of research today is called solid-state physics, or
+condensed-matter physics so as to include liquids as well. The rest of this Chapter
+is devoted to this subject, and we begin with a brief look at the structure of solids
+and the bonds that hold them together.
+Although some solid materials are amorphous in structure (such as glass), in
+that the atoms and molecules show no long-range order, we are interested here
+in the large class of crystalline substances whose atoms, ions, or molecules are
+generally accepted to form an orderly array known as a lattice. Figure 29–19
+shows thre

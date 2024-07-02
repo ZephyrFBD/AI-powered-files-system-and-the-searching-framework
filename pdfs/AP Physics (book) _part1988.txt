@@ -1,0 +1,54 @@
+nd can 
+make a wire hot enough to start a fire. Short circuits should be remedied immediately.
+I2R,
+SECTION 18–6
+Power in Household Circuits
+513
+P H Y S I C S  A P P L I E D
+Proper fuses and shorts
+Contact
+points
+Outside
+switch
+Bimetallic
+strip
+Fuse
+ribbon or
+fine wire
+(a) Types of fuses
+(b) Circuit breaker
+             (closed)
+(c) Circuit breaker
+              (open)
+Compressed
+spring
+Metal
+rod
+To electric
+circuit
+Contacts open
+Switch
+Lightbulb
+100 W
+Electric heater
+1800 W
+Power amplifier
+175 W
+Hair dryer
+1500 W
+Fuse or
+circuit
+breaker
+120 V
+(from electric company)
+FIGURE 18–20 Connection of
+household appliances.
+FIGURE 18–19 (a) Fuses. When current
+exceeds a certain value, the metallic 
+ribbon or wire inside melts and the circuit
+opens. Then the fuse must be replaced.
+(b) One type of circuit breaker. Current
+passes through a bimetallic strip. When 
+the current exceeds a safe level, the heating
+of the bimetallic strip causes the strip to
+bend so far to the left that the notch in the

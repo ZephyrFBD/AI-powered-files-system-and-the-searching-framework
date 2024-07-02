@@ -1,0 +1,39 @@
+c friction. If
+the objects are at rest relative to each other, then 
+is just 
+large enough to hold them at rest and satisfies the inequality
+where 
+is the coefficient of static friction.
+For solving problems involving the forces on one or more
+objects, it is essential to draw a free-body diagram for each
+object, showing all the forces acting on only that object.
+Newton’s second law can be applied to the vector components
+for each object.
+ms
+F
+fr 6 msF
+N,
+F
+fr
+mk
+F
+N
+F
+fr = mkF
+N,
+F
+B
+G = mg
+B.
+g
+B:
+Summary
+1. Why does a child in a wagon seem to fall backward when
+you give the wagon a sharp pull forward?
+2. A box rests on the (frictionless) bed of a truck. The truck
+driver starts the truck and accelerates forward. The box
+immediately starts to slide toward the rear of the truck bed.
+Discuss the motion of the box, in terms of Newton’s laws, as
+seen (a) by Mary standing on the ground beside the truck,
+and (b) by Chris who is riding on the truck (Fig.4–35).
+7. If you walk along a log float

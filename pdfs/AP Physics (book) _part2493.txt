@@ -1,0 +1,22 @@
+ssigned homework and other learning materials, go to the MasteringPhysics website.
+642
+CHAPTER 22
+Electromagnetic Waves
+38. (I) The variable capacitor in the tuner of an AM radio has a
+capacitance of 2500 pF when the radio is tuned to a station
+at 550 kHz. What must the capacitance be for a station near
+the other end of the dial, 1610 kHz?
+39. (I) The oscillator of a 98.3-MHz FM station has an induc-
+tance of 
+What value must the capacitance be?
+40. (II) A certain FM radio tuning circuit has a fixed capacitor
+Tuning is done by a variable inductance. What
+range of values must the inductance have to tune stations
+from 88 MHz to 108 MHz?
+41. (II) An amateur radio operator wishes to build a receiver that
+can tune a range from 14.0 MHz to 15.0 MHz. A variable
+capacitor has a minimum capacitance of 86 pF. (a) What 
+is the required value of the inductance? (b) What is the 
+maximum capacitance used on the variable capacitor?
+42. (II) A satellite beams microwave radiation with a power of
+13 kW 

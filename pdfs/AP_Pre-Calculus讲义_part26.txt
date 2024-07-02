@@ -1,0 +1,55 @@
+ in the expression defining a linear function the variable occurs to the first power only. 
+We can also express a linear function in equation form as  
+y = ax + b. 
+ 
+A linear function is a function of the form f(x) = ax + b. 
+The graph of a linear function is a line with slope a and y-intercept b. 
+ 
+Example 1: 
+Determine whether the given function is linear. If the function is linear, express the function 
+in the form f (x) = ax + b. 
+(a) f (x) = 2 + 3x 
+(b) g(x) = 3(1 − 2x)  
+(c) h(x) = x(4 + 3x) 
+ 
+ 
+ 
+ 
+ 
+1.4.2 Rate of Change in Linear Functions 
+Let f (x) = ax + b be a linear function. 
+If x1 and x2 are two different values for x and if y1 = f (x1) and y2 = f (x2), then the points (x1, 
+y1) and (x2, y2) lie on the graph of f. 
+From the definitions of slope and average rate of change we have 
+(
+)
+(
+)
+2
+1
+2
+1
+2
+1
+2
+1
+slope
+average rate of change
+f x
+f x
+y
+y
+x
+x
+x
+x
+-
+-
+=
+=
+=
+-
+-
+ 
+We know that the slope of a linear function is the same between any two points. 
+From the above equati

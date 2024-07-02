@@ -1,0 +1,27 @@
+round the circle (Fig. 5–1). Because acceleration is defined as the rate of change
+of velocity, a change in direction of velocity is an acceleration, just as a change in
+its magnitude is. Thus, an object revolving in a circle is continuously accelerating,
+even when the speed remains constant (
+in Fig. 5–1). We now investi-
+gate this acceleration quantitatively.
+Acceleration is defined as
+where 
+is the change in velocity during the short time interval 
+We will
+eventually consider the situation in which 
+approaches zero and thus obtain
+the instantaneous acceleration. But for purposes of making a clear drawing,
+Fig. 5–2, we consider a nonzero time interval. During the time interval 
+the
+particle in Fig. 5–2a moves from point A to point B, covering a distance 
+along the arc which subtends an angle 
+The change in the velocity vector is
+and is shown in Fig. 5–2b (note that  
+).
+Now we let 
+be very small, approaching zero. Then 
+and 
+are also 
+very small, and 
+will be almost parallel to 
+Fig.

@@ -1,0 +1,13 @@
+es as the cell operates. At the same time, the Cu electrode gains 
+mass, and the Cu2+1aq2 solution becomes less concentrated as Cu2+1aq2 is reduced to Cu(s).
+For a voltaic cell to work, the solutions in the two half-cells must remain electrically neu-
+tral. As Zn is oxidized in the anode half-cell, Zn2+1aq2 ions enter the solution, upsetting the 
+initial Zn2+>SO4
+2- charge balance. To keep the solution electrically neutral, there must be some 
+means for Zn2+1aq2 cations to migrate out of the anode half-cell and for anions to migrate in. 
+Similarly, the reduction of Cu2+1aq2 at the cathode removes these cations from the solution, 
+leaving an excess of SO4
+2- anions in that half-cell. To maintain electrical neutrality, some of 
+these anions must migrate out of the cathode half-cell, and positive ions must migrate in. In 
+fact, no measurable electron flow occurs between electrodes unless a means is provided for ions 
+to migrate through the solution from one half-cell to the other, thereby

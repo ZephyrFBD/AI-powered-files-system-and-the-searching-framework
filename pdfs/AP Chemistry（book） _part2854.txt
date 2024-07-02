@@ -1,0 +1,19 @@
+0 km to 50 km is the stratosphere, 
+and above it are the mesosphere and thermosphere. Notice in Figure 18.1 that the tempera-
+ture extremes that form the boundaries between adjacent regions are denoted by the 
+ 
+suffix -pause. The boundaries are important because gases mix across them relatively 
+slowly. For example, pollutant gases generated in the troposphere pass through the tro-
+popause and find their way into the stratosphere only very slowly.
+768 
+ 
+SECTION 18.1   
+Earth’s Atmosphere 
+769
+Atmospheric pressure decreases with increasing elevation (Figure 18.1), declining 
+much more rapidly at lower elevations than at higher ones because of the atmosphere’s 
+compressibility. Thus, the pressure decreases from an average value of 760 torr at sea level 
+to 2.3 * 10-3 torr at 100 km, to only 1.0 * 10-6 torr at 200 km.
+The troposphere and stratosphere together account for 99.9% of the mass of the 
+atmosphere, 75% of which is the mass in the troposphere. Nevertheless, the thin upper 
+atmo

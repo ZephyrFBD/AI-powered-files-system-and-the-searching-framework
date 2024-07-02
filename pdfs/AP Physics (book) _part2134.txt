@@ -1,0 +1,36 @@
+r or less power
+than when only one of the resistors is connected? Explain.
+8. You have a single 60-W bulb lit in your room. How does
+the overall resistance of your room’s electric circuit change
+when you turn on an additional 100-W bulb? Explain.
+9. Suppose three identical capacitors are connected to a battery.
+Will they store more energy if connected in series or in parallel?
+AR2 7 R1B
+R2
+R1
+Questions
+10. When applying Kirchhoff’s loop rule (such as in Fig. 19–36),
+does the sign (or direction) of a battery’s emf depend on
+the direction of current through the battery? What about
+the terminal voltage?
+(a)
+(b)
++
+–
++
+–
++
+–
++
+–
+FIGURE 19–37
+Question 11.
+12. For what use are batteries connected in series? For what
+use are they connected in parallel? Does it matter if the
+batteries are nearly identical or not in either case?
+550
+CHAPTER 19
+DC Circuits
+18. Why is it more dangerous to turn on an electric appliance
+when you are standing outside in bare feet than when you
+are inside wearing shoe

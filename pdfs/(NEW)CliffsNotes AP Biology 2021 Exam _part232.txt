@@ -1,0 +1,14 @@
+a cyclin-Cdk complex that advances the
+cell cycle
+through the G2 checkpoint. Each checkpoint has its own
+ 
+combination of a specific Cdk and a specific cyclin that advances the cell cycle through the checkpoint.
+Concentrations of different cyclins vary (“cycle”) during the cell cycle with a regular pattern. As the cell cycle
+approaches each checkpoint, a specific cyclin combines with a specific Cdk. The conformation change that results
+unblocks an active site on the Cdk, readying it for activation. If checkpoint conditions are met, the Cdk is activated,
+often by phosphorylation, and the activated cyclin-Cdk complex initiates activity that advances the cell cycle
+through the checkpoint. Once through the cycle phase, the cyclins are destroyed, and new cyclins, specific for the
+next checkpoint, begin to accumulate.
+Various external factors also influence the cell cycle:
+1. Growth factors. The plasma membranes of cells have receptors for growth factors that stimulate a cell to divide.
+For 

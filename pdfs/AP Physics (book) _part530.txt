@@ -1,0 +1,32 @@
+ forces like the normal force and friction, are today
+considered to be due to the electromagnetic force acting at the atomic level. For
+example, the force your fingers exert on a pencil is the result of electrical repulsion
+between the outer electrons of the atoms of your finger and those of the pencil.
+©F
+B = ma
+B,
+L
+=
+=
+130
+CHAPTER 5
+Circular Motion; Gravitation
+B
+C
+A
+R
+R
+FIGURE 5;34 Question 10.
+An object moving in a circle of radius r with constant speed v is
+said to be in uniform circular motion. It has a radial acceleration
+that is directed radially toward the center of the circle (also
+called centripetal acceleration), and has magnitude
+(5;1)
+The velocity vector and the acceleration vector 
+are continu-
+ally changing in direction, but are perpendicular to each other
+at each moment.
+A force is needed to keep an object revolving in a circle,
+and the direction of this force is toward the center of the circle.
+This force could be due to gravity (as for the Moon), to tension
+in a cor

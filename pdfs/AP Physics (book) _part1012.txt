@@ -1,0 +1,27 @@
+g? (b) If the Tyrolean traverse is set up incorrectly
+so that the rope sags by only one-fourth the distance found in
+(a), determine the tension in the rope. Ignore stretching of
+the rope. Will the rope break?
+25 m
+75 kg
+x
+6.0 m
+FIGURE 9–88
+Problem 73.
+75. A tightly stretched horizontal “high wire” is 36 m long. It
+sags vertically 2.1 m when a 60.0-kg tightrope walker stands
+at its center. What is the tension in the wire? Is it possible
+to increase the tension in the wire so that there is no sag?
+76. Parachutists whose chutes have failed to open have been
+known to survive if they land in deep snow. Assume that a
+75-kg parachutist hits the ground with an area of impact 
+of 
+at a velocity of 
+and that the ultimate
+strength of body tissue is
+Assume that the
+person is brought to rest in 1.0 m of snow. Show that the
+person may escape serious injury.
+77. If the left vertical support column in Example 9–5 is made
+of steel, what is its cross-sectional area? Assume that a safety
+factor of 3 was 

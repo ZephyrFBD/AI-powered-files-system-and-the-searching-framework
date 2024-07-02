@@ -1,0 +1,14 @@
+he spectrum. For 
+3Ni(H2O)642+ the IR peak is found at 1176 nm and the UV peak at 388 nm.
+Electron Configurations in Octahedral Complexes
+Crystal-field theory helps us understand the magnetic properties and some important 
+chemical properties of transition-metal ions. From Hund’s rule, we expect electrons to 
+always occupy the lowest-energy vacant orbitals first and to occupy a set of degenerate 
+(same-energy) orbitals one at a time with their spins parallel. 
+ (Section 6.8) Thus, 
+if we have a d1, d2, or d3 octahedral complex, the electrons go into the lower-energy t2 
+orbitals, with their spins parallel. When a fourth electron must be added, we have the 
+two choices shown in Figure 23.31: The electron can either go into an e orbital, where 
+it will be the sole electron in the orbital or become the second electron in a t2 orbital. 
+Because the energy difference between the t2 and e sets is the splitting energy ∆, the 
+energy cost of going into an e orbital rather than a t2 orbital is 

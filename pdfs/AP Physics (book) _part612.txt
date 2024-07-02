@@ -1,0 +1,48 @@
+
+it at some other point, then we can write
+or (see also Eq. 6–12a)
+(6;13)
+Just before the rock hits the ground, where we chose 
+all of the initial poten-
+tial energy will have been transformed into kinetic energy.
+y = 0,
+[gravity only]
+1
+2 mv1
+2 + mgy1 =
+1
+2 mv2
+2 + mgy2 .
+total mechanical energy at point 1 = total mechanical energy at point 2
+E = ke + pe =
+1
+2 mv2 + mgy
+h
+half pe,
+half ke
+all kinetic
+energy
+y1 = h
+y2 = 0
+y
+all potential
+energy
+pe ke
+pe ke
+pe ke
+FIGURE 6–17 The rock’s potential
+energy changes to kinetic energy as
+it falls. Note bar graphs representing
+potential energy pe and kinetic
+energy ke for the three different
+positions.
+SECTION 6–7
+Problem Solving Using Conservation of Mechanical Energy
+151
+CONSERVATION OF
+MECHANICAL ENERGY
+Falling rock. If the initial height of the rock in Fig. 6–17 is
+calculate the rock’s velocity when it has fallen to 1.0 m above
+the ground.
+APPROACH We apply the principle of conservation of mechanical energy,
+Eq. 6–13, with only gravity acti

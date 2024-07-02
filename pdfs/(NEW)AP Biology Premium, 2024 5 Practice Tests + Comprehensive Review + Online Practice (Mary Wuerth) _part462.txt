@@ -1,0 +1,21 @@
+an number
+of spots per male guppy decreases.
+(b)
+(c) There is a statistically significant difference between the mean number of spots per guppy in the
+environment without predators and in the environment with C. alta. This claim is supported by the data
+because the 95% confidence intervals of the two groups do not overlap.
+(d) If the guppies were moved out of the environment that had the predator C. alta and were placed into an
+environment without predators, over time, it would be expected that the mean number of spots per male
+guppy would increase. This is because there would no longer be a disadvantage to having spots, and spots
+would attract mates, increasing the likelihood that the guppies with spots would reproduce.
+20
+Population Genetics
+Learning Objectives
+In this chapter, you will learn:
+➜
+Population Genetics and Genetic Drift
+➜
+Hardy-Weinberg Equilibrium
+Overview
+Evolution is driven by both random and nonrandom events. Mutations are random, but natural selection, which acts
+up

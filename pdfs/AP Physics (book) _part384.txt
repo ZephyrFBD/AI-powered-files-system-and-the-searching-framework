@@ -1,0 +1,62 @@
+0 kg.
+mA = 10.0 kg
+aA = aB = a.
+©F
+x = F
+T = mBaB.
+F
+T,
+©F
+x = F
+P - F
+T = mAaA.
+©F
+x = max
+F
+B
+BN.
+F
+B
+T, mB g
+B,
+F
+T
+F
+B
+AN
+mAg
+B
+F
+T
+F
+T
+F
+P
+F
+P
+EXAMPLE 4;12
+90
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+C A U T I O N
+For any object, use only 
+the forces on that object in
+calculating ©F = ma
+FIGURE 4;22 Example 4–12. (a) Two boxes,
+A and B, are connected by a cord. A person pulls 
+horizontally on box A with force
+(b) Free-body diagram for box A. (c) Free-body 
+diagram for box B.
+F
+P = 40.0 N.
+Elevator and counterweight (Atwood machine). A system
+of two objects suspended over a pulley by a flexible cable, as shown in Fig. 4–23a,
+is sometimes referred to as an Atwood machine. Consider the real-life appli-
+cation of an elevator 
+and its counterweight 
+To minimize the work
+done by the motor to raise and lower the elevator safely,
+and 
+are made
+similar in mass. We leave the motor out of the system for this calculation, and
+assume that the cable’s mass is negligible and that the mass of 

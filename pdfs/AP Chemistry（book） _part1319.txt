@@ -1,0 +1,34 @@
+ises: 8.63, 8.64
+t Predict the relationship between bond type (single, double, 
+ 
+and triple), bond strength (or enthalpy), and bond length. 
+ 
+(Section 8.8) Related Exercises: 8.71–8.74
+Exercises
+Visualizing Concepts
+ 
+8.1  For each of these Lewis symbols, indicate the group in the 
+periodic table in which the element X belongs: [Section 8.1]
+(a) X   (b) X   (c) X
+ 
+8.2 Illustrated are four ions — A, B, X, and Y— showing their rela-
+tive ionic radii. The ions shown in red carry positive charges: a 
+2+ charge for A and a 1+ charge for B. Ions shown in blue carry 
+negative charges: a 1- charge for X and a 2- charge for Y. 
+(a) Which combinations of these ions produce ionic com-
+pounds where there is a 1:1 ratio of cations and anions? 
+ 
+(b) Among the combinations in part (a), which leads to 
+the ionic compound having the largest lattice energy? 
+[Section 8.2]
+A
+B
+X
+Y
+21
+11
+12
+22
+ 
+8.3 A portion of a two-dimensional “slab” of NaCl(s) is shown 
+here (see Figure 8.2) in which the ions are

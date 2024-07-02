@@ -1,0 +1,20 @@
+built 2500 years ago, shows the post-and-beam 
+construction. The columns are under compression.
+Stress and Strain
+From Eq. 9–4, we see that the change in length of an object is directly propor-
+tional to the product of the object’s length 
+and the force per unit area 
+applied to it. It is general practice to define the force per unit area as the stress:
+which has SI units of 
+Also, the strain is defined to be the ratio of the change
+in length to the original length:
+and is dimensionless (no units). Strain is thus the fractional change in length of the
+object, and is a measure of how much the object has been deformed. Stress is applied
+to the material by external agents, whereas strain is the material’s response to the
+stress. Equation 9–4 can be rewritten as
+(9;5)
+or
+Thus we see that the strain is directly proportional to the stress, in the linear
+(elastic) region of Fig. 9–19.
+Tension, Compression, and Shear Stress
+The rod shown in Fig. 9–20a is said to be under tension or tensile str

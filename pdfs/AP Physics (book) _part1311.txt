@@ -1,0 +1,16 @@
+e call “noise” in comparison with the more harmonious sounds
+which contain frequencies that are simple multiples of the fundamental.
+12–6 Interference of Sound Waves;
+Beats
+Interference in Space
+We saw in Section 11–11 that when two waves simultaneously pass through the
+same region of space, they interfere with one another. Interference also occurs
+with sound waves.
+Consider two large loudspeakers, A and B, a distance d apart on the stage of
+an auditorium as shown in Fig. 12–16. Let us assume the two speakers are emit-
+ting sound waves of the same single frequency and that they are in phase: that is,
+when one speaker is forming a compression, so is the other. (We ignore reflections
+from walls, floor, etc.) The curved lines in the diagram represent the crests of
+sound waves from each speaker at one instant in time. We must remember that
+for a sound wave, a crest is a compression in the air whereas a trough—which
+falls between two crests—is a rarefaction. A human ear or detector at a poi

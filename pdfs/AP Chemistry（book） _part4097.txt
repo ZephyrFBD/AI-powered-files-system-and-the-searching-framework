@@ -1,0 +1,22 @@
+4 = 3C6H5COO-4 = 1.8 * 10-3 M, 
+3C6H5COOH4 = 0.048 M  
+16.59 (a) 3H+4 = 1.1 * 10-3 M, pH = 2.95
+(b) 3H+4 = 1.7 * 10-4 M, pH = 3.76
+(c) 3OH-4 = 1.4 * 10-5 M, pH = 9.15
+16.61 3H+4 = 2.0 * 10-2 M, pH = 1.71
+16.63 (a) 3H+4 = 2.8 * 10-3 M, 0.69% ionization 
+(b) 3H+4 = 1.4 * 10-3 M, 1.4% ionization
+(c) 3H+4 = 8.7 * 10-4 M, 2.2% ionization
+16.65 (a) 3H+4 = 5.1 * 10-3 M, pH = 2.30. (b) Yes. We started the 
+calculation by assuming that only the ﬁrst step made a signiﬁcant 
+contribution to [H+] and pH. Calculation proved this assumption to 
+be true. Next we assumed [H+] from the ﬁrst ionization was small rela-
+tive to 0.040 M citric acid; this assumption was not valid. Finally we 
+assumed that additional ionization of 3H2C6H5O7
+2-4 was small, which 
+was true. (c) 3C6H5O7
+3 -4 is much less than 3H+4. 16.67 (a) HONH3
++ 
+(b) When hydroxylamine acts as a base, the nitrogen atom accepts a 
+proton. (c) In hydroxylamine, O and N are the atoms with nonbond-
+ing electron pairs; in the neutral molecule bo

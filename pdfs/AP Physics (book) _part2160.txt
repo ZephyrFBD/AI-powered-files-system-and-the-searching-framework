@@ -1,0 +1,21 @@
+eral Problems
+72. Suppose that a person’s body resistance is 
+(moist skin).
+(a) What current passes through the body when the person
+accidentally is connected to 120 V? (b) If there is an alterna-
+tive path to ground whose resistance is 
+, what then is
+the current through the body? (c) If the voltage source can
+produce at most 1.5 A, how much current passes through the
+person in case (b)?
+73. One way a multiple-speed ventilation fan for a car can be
+designed is to put resistors in series with the fan motor.
+The resistors reduce the current through the motor and
+make it run more slowly. Suppose the current in the motor
+is 5.0 A when it is connected directly across a 12-V battery.
+(a) What series resistor should be used to reduce the
+current to 2.0 A for low-speed operation? (b) What power
+rating should the resistor have? Assume that the motor’s
+resistance is roughly the same at all speeds.
+74. A Wheatstone bridge is a type of “bridge circuit” used to
+make measurements of resistance. The

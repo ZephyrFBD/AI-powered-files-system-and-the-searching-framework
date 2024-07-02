@@ -1,0 +1,10 @@
+ mutant allele is expressed as black (b). The second mutation, for wing structure, transforms normal
+wings (V) into vestigial wings (v) (small, underdeveloped, and nonfunctional). (Note that for Drosophila mutations,
+the gene notation uses letters that denote the name for the mutation.) Since these two genes are linked, a fly
+heterozygous for a gray body and normal wings (called gray-normal), indicated by BbVv, would have the BV on one
+chromosome and the bv on the homologous chromosome. If the linkage between these genes were not known, then
+the expected results from a cross between this gray-normal fly (BbVv) and a black fly with vestigial wings (called
+black-vestigial, bbvv) would be ¼BbVv, ¼bbvv, ¼Bbvv, and ¼bbVv (Figure 8-6). However, since the two genes are
+on the same chromosome and cannot assort independently, the gray-normal fly produces only two kinds of gametes,
+BV and bv. Bv and bV gametes are not produced. Taking linkage into consideration, the expected offspring would be
+½

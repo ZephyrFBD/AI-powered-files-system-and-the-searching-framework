@@ -1,0 +1,15 @@
+e plots are noteworthy: the 
+number of peaks, the number of points at which the probability function goes to zero (called 
+nodes), and how spread out the distribution is, which gives a sense of the size of the orbital.
+For the 1s orbital, we see that the probability rises rapidly as we move away from the 
+nucleus, maximizing at about 0.5 Å. Thus, when the electron occupies the 1s orbital, it 
+is most likely to be found this distance from the nucleus*—we still use the probabilistic 
+description, consistent with the uncertainty principle. Notice also that in the 1s orbital 
+the probability of finding the electron at a distance greater than about 3 Å from the 
+nucleus is essentially zero.
+*In the quantum-mechanical model, the most probable distance at which to find the electron in 
+the 1s orbital is actually 0.529 Å, the same as the radius of the orbit predicted by Bohr for n = 1. 
+The distance 0.529 Å is often called the Bohr radius.
+232 
+CHAPTER 6 Electronic Structure of Atoms
+Comparing

@@ -1,0 +1,22 @@
+. Because the force of static
+friction can vary from zero to this maximum value, we write
+[static friction]
+You may have noticed that it is often easier to keep a heavy object sliding
+than it is to start it sliding in the first place. This is consistent with 
+generally
+being greater than 
+(see Table 4–2).
+Friction: static and kinetic. Our 10.0-kg mystery box rests
+on a horizontal floor. The coefficient of static friction is  
+and the 
+coefficient of kinetic friction is 
+Determine the force of friction,
+acting on the box if a horizontal applied force 
+is exerted on it of magnitude:
+(a) 0, (b) 10 N, (c) 20 N, (d) 38 N, and (e) 40 N.
+APPROACH We don’t know, right off, if we are dealing with static friction or
+kinetic friction, nor if the box remains at rest or accelerates. We need to draw a
+free-body diagram, and then determine in each case whether or not the box will
+move: the box starts moving if 
+is greater than the maximum static friction
+force (Newton’s second law). The forces on the

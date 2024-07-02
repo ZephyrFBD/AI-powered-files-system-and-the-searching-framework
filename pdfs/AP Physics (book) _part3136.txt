@@ -1,0 +1,14 @@
+versus Determinism
+The classical Newtonian view of the world is a deterministic one (see Section 5–8).
+One of its basic ideas is that once the position and velocity of an object are
+known at a particular time, its future position can be predicted if the forces on it
+are known. For example, if a stone is thrown a number of times with the same
+initial velocity and angle, and the forces on it remain the same, the path of the
+projectile will always be the same. If the forces are known (gravity and air resis-
+tance, if any), the stone’s path can be precisely predicted. This mechanistic view
+implies that the future unfolding of the universe, assumed to be made up of
+particulate objects, is completely determined.
+This classical deterministic view of the physical world has been radically altered
+by quantum mechanics. As we saw in the analysis of the double-slit experiment
+(Section 28–2), electrons all treated in the same way will not all end up in the same
+place. According to quantum mechanics

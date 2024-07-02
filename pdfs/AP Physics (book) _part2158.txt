@@ -1,0 +1,28 @@
+use
+this galvanometer to make (a) an ammeter to read currents
+up to 25 A, and (b) a voltmeter to give a full-scale deflection
+of 250 V.
+63. (III) A battery with
+and internal resistance
+is connected to two 
+resistors in series. An
+ammeter of internal resistance 
+measures the current,
+and at the same time a voltmeter with internal resistance
+measures the voltage across one of the 
+resis-
+tors in the circuit. What do the ammeter and voltmeter read?
+What is the % “error” from the current and voltage without
+meters?
+64. (III) What internal resistance should the voltmeter of
+Example 19–17 have to be in error by less than 5%?
+65. (III) Two 
+resistors are placed in series and connected
+to a battery.A voltmeter of sensitivity 
+is on the 3.0-V
+scale and reads 1.9 V when placed across either resistor. What
+is the emf of the battery? (Ignore its internal resistance.)
+66. (III) When the resistor R in Fig. 19–73 is 
+the high-
+resistance voltmeter reads 9.7 V. When R is replaced by a
+resistor, the vo

@@ -1,0 +1,17 @@
+ides as Fe2O3, LaFeO3, and MnO.
+A substance that exhibits ferrimagnetism [Figure 23.6(d)] has both ferromagnetic 
+and antiferromagnetic characteristics. Like an antiferromagnet, the unpaired electrons 
+align so that the spins in adjacent atoms or ions point in opposite directions. However, 
+unlike an antiferromagnet, the net magnetic moments of the spin-up electrons are not 
+fully canceled by the spin-down electrons. This can happen because the magnetic cen-
+ters have different numbers of unpaired electrons (NiMnO3), because the number of 
+magnetic sites aligned in one direction is larger than the number aligned in the other 
+direction (Y
+3Fe5O12), or because both of these conditions apply (Fe3O4). Because the mag-
+netic moments do not cancel, the properties of ferrimagnetic materials are similar to the 
+properties of ferromagnetic materials.
+▲ Figure 23.7 A permanent magnet. 
+Permanent magnets are made from 
+ferromagnetic and ferrimagnetic materials.
+Give It Some Thought
+How do you th

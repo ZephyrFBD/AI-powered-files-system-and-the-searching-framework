@@ -1,0 +1,33 @@
+ 
+ 
+ 
+  
+ 
+2. Scientists studied soybean plants grown in sunlit, controlled-environment chambers with a carbon dioxide 
+(CO2) concentration of 700 μmol CO2 / mol of air. The CO2 concentration in the chambers was approximately 
+double that of normal concentrations of environmental CO2. 
+Photosynthetic rate is measured by the amount of CO2 exchanged in an area of leaf surface over time. The rate 
+is directly influenced by the activity of the plant enzyme rubisco. During photosynthesis, rubisco fixes 
+atmospheric carbon into an organic molecule as one of the first steps in the Calvin cycle. 
+Scientists measured the amount of carbon fixation that occurred in the leaves of soybean plants grown at each 
+temperature shown in Table 1. 
+Table 1. Carbon Fixation by Rubisco Under Different Temperatures 
+Temperature (°C) 
+Carbon Fixation 
+2
+±2SE μmol / m /s 
+x( 
+) 
+25 
+91 ± 9 
+30 
+96 ± 5 
+35 
+93 ± 8 
+40 
+104 ± 7 
+45 
+71 ± 7 
+50 
+59 ± 4 
+(a) Describe the effect on an enzyme of an increase in enviro

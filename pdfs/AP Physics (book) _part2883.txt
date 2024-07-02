@@ -1,0 +1,28 @@
+o avoid
+interception. If their cameras are to discern features as
+small as 5 cm, what is the minimum aperture of the camera
+lens to afford this resolution? (Use
+)
+l = 580 nm.
+±3.50-D
+±19 D,
+0.11 kcalkgC°,
+25*,
+f = 48 cm,
+f = 4.0 cm
+84. X-rays of wavelength 0.0973 nm are directed at an unknown
+crystal. The second diffraction maximum is recorded when
+the X-rays are directed at an angle of 21.2° relative to the
+crystal surface. What is the spacing between crystal planes?
+85. The Hubble Space Telescope, with an objective diameter of
+2.4 m, is viewing the Moon. Estimate the minimum distance
+between two objects on the Moon that the Hubble can
+distinguish. Consider diffraction of light with wavelength
+550 nm. Assume the Hubble is near the Earth.
+86. The Earth and Moon are separated by about 
+When Mars is 
+from Earth, could a person stand-
+ing on Mars resolve the Earth and its Moon as two separate
+objects without a telescope? Assume a pupil diameter of
+5 mm and
+87. You want to design a spy s

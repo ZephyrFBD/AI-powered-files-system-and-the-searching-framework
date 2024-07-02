@@ -1,0 +1,17 @@
+se a plant population consists of 84% plants with red flowers and 16% with white flowers.
+Assume the red allele (R) is dominant and the white allele (r) is recessive. Using the above notation and converting
+percentages to decimals:
+q2 = 0.16 = white flowered plants (rr trait)
+p 2 + 2pq = 0.84 = red flowered plants (RR and Rr trait) To determine the allele frequency of the white flower allele,
+calculate q by finding the square root of q2.
+Since p + q = 1, p must equal 0.6.
+ 
+You can also determine the frequency (or percentages) of individuals with the homozygous dominant and
+heterozygous condition.
+ 
+2pq = (2)(0.6)(.4) = 0.48 or 48% = heterozygotes
+ 
+p2 = (0.6)(0.6) = 0.36 or 36% = homozygotes dominant
+In most natural populations, the conditions of Hardy-Weinberg equilibrium are not obeyed. However, the Hardy-
+Weinberg calculations serve as a starting point that reveal how allele frequencies are changing, which equilibrium
+conditions are being violated, and what mechanisms are driving t

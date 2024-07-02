@@ -1,0 +1,15 @@
+ore mechanical energy input is needed to produce more
+electric energy output.
+EXERCISE D A bicycle headlight is powered by a generator that is turned by the bicycle
+wheel. (a) If you speed up, how does the power to the light change? (b) Does the gener-
+ator resist being turned as the bicycle’s speed increases, and if so how?
+Eddy Currents
+Induced currents are not always confined to well-defined paths such as in wires.
+Consider, for example, the rotating metal wheel in Fig. 21–20a. An external mag-
+netic field is applied to a limited area of the wheel as shown and points into the
+page. The section of wheel in the magnetic field has an emf induced in it because the
+conductor is moving, carrying electrons with it. The flow of induced (conventional)
+current in the wheel is upward in the region of the magnetic field (Fig. 21–20b),
+and the current follows a downward return path outside that region. Why?
+According to Lenz’s law, the induced currents oppose the change that causes them.
+Conside

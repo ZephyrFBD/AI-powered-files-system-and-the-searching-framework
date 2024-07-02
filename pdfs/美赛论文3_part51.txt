@@ -1,0 +1,41 @@
+ the
+heat exchange between the water in the bathtub and the outside from four aspects.
+6.1 Variable declaration
+Symbol
+Definition
+Team#44509
+Page 21 of 26
+aw
+
+Heat flux made by the air’s long-wave radiation to water and
+water’s reflection to air’s long-wave radiation
+wa
+
+Heat flux made by the radiation of the water’s long-wave return
+e
+
+Heat flux made by the evaporation of the water in the bathtub
+c
+
+Heat flux made by the heat conduction between water and air
+a
+T
+The temperature of the air
+T
+The temperature of the water in the bathtub
+a
+e
+Vapor pressure of the air above the water
+m
+The weight of the water filled the bathtub
+c
+The specific heat capacity of the water in the bathtub
+S
+The contact area of water and air
+6.2 Model assumption
+
+Considering the process of cooling in the natural condition, the temperature of the
+water in the bathtub is equal and changes at the same time consistently regardless
+of its position.
+
+The temperature of the air doesn’t change as the time flows. T

@@ -1,0 +1,18 @@
+y the same discussion as we used around Fig. 11–42.)
+Newton favored a particle theory of light which predicted the opposite result,
+that the speed of light would be greater in the second medium 
+Thus the
+wave theory predicts that the speed of light in water, for example, is less than in air;
+and Newton’s particle theory predicts the reverse. An experiment to actually meas-
+ure the speed of light in water was performed in 1850 by the French physicist Jean
+Foucault, and it confirmed the wave-theory prediction. By then, however, the wave
+theory was already fully accepted, as we shall see in the next Section.
+Snell’s law of refraction follows directly from Huygens’ principle, given that
+the speed of light in any medium is related to the speed in a vacuum, c, and the
+index of refraction, n, by Eq. 23–4: that is,
+From the Huygens’ con-
+struction of Fig. 24–3, angle ADC is equal to 
+and angle BAD is equal to 
+Then
+for the two triangles that have the common side AD, we have
+We divide these two

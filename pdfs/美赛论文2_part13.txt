@@ -1,0 +1,82 @@
+a from the WHO: 
+ 
+Table 1 
+Sierra Leone 
+date 
+11.5 
+11.7 
+11.12 
+11.14 
+11.19 
+11.21 
+11.26 
+12.3 
+12.8 
+cases 
+4759 
+4862 
+5368 
+5586 
+6073 
+6190 
+6599 
+7312 
+7897 
+deaths 
+1070 
+1130 
+1169 
+1187 
+1250 
+1267 
+1398 
+1583 
+1768 
+date 
+12.15 
+12.22 
+12.29 
+1.4 
+1.11 
+1.18 
+1.25 
+2.1 
+ 
+cases 
+8356 
+9004 
+9446 
+9780 
+10124 
+10340 
+10518 
+10740 
+ 
+deaths 
+2058 
+2582 
+2758 
+2943 
+3062 
+3145 
+3199 
+3276 
+ 
+Through the method of data fitting we can estimate that λ= 0.13, μ= 0.018. 
+The figure of parameter estimation is as follow: 
+Figure 1 
+ 
+The figure of I(t) and s(t) is as follows: 
+ 
+ 
+ 
+ 
+ 
+Team   #37232                                                              Page 5 of 22   
+Figure 2 
+ 
+3.1.6 Analysis of the Result 
+According to the result, when Ebola virus was first reported in Sierra 
+Leone on 1st March in 2014, the infective rate was increasing if there were no 
+vaccines or drugs to cure the disease. Then we fitting the curve to the statistics 
+of Sierra Leone’s cases from the 

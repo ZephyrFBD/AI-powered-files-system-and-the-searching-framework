@@ -1,0 +1,24 @@
+= 0.80mg,
+F
+N = mg - 0.20mg
+F
+N:
+mg - F
+N = m(0.20g).
+©F = ma
+2.0 ms?
+EXAMPLE 4;8
+4–7 Solving Problems with Newton’s Laws:
+Free-Body Diagrams
+Newton’s second law tells us that the acceleration of an object is proportional to
+the net force acting on the object. The net force, as mentioned earlier, is the
+vector sum of all forces acting on the object. Indeed, extensive experiments have
+shown that forces do add together as vectors precisely according to the rules 
+we developed in Chapter 3. For example, in Fig. 4–18, two forces of equal magni-
+tude (100 N each) are shown acting on an object at right angles to each other.
+Intuitively, we can see that the object will start moving at a 45° angle and thus 
+the net force acts at a 45° angle. This is just what the rules of vector addition 
+give. From the theorem of Pythagoras, the magnitude of the resultant force is
+Adding force vectors. Calculate the sum of the two forces
+exerted on the boat by workers A and B in Fig. 4–19a.
+APPROACH We add f

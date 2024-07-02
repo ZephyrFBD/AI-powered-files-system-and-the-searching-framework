@@ -1,0 +1,22 @@
+pectrophotometer can be used to determine the amount of
+tetraguaiacol product produced by measuring the absorbance of the solution. The darker the solution, the greater its
+absorbance, and the more product produced.
+3. O2 generation. An oxygen probe can be used to measure the oxygen product directly as it is being produced. In
+this case, an organic reducing agent (like guaiacol) is not used.
+ 
+To determine the rate of a reaction in the presence of an enzyme using a color palette, follow these steps.
+ 
+1. Mix the reactants (H2O2, guaiacol) with the enzyme (peroxidase).
+ 
+2. Take pictures at 1-minute intervals.
+ 
+3. Compare pictures with the color palette to determine the amount of product formed at the end of each time
+interval.
+ 
+4. Plot product accumulation vs. time.
+ 
+5. The rate of the reaction is the slope of the line of best fit through the plotted points.
+Part II: The Effect of pH on Enzyme Activity
+Now that you have a baseline for comparison, you can investigate the effect
+ 
+of 

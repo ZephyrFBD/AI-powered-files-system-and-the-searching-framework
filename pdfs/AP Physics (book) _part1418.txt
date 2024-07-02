@@ -1,0 +1,34 @@
+mes from measurements. The mole’s
+precise definition is the number of atoms in exactly 12 grams of carbon-12 
+(page 360).
+Equivalently, 1 mol is that amount of substance whose mass in grams is
+numerically equal to the molecular mass of the substance (Section 13–1). For
+example, the mass of 1 mole of 
+is
+because carbon
+has atomic mass of 12 and oxygen 16 (see Periodic Table inside the rear cover).
+In general, the number of moles, n, in a given sample of a pure substance is
+equal to the mass of the sample in grams divided by the molecular mass specified
+as grams per mole:
+For example, the number of moles in 132 g of 
+(molecular mass 44 u) is
+n =
+132 g
+44 gmol = 3.0 mol.
+CO2
+n (mole) =
+mass (grams)
+molecular mass (gmol)
+.
+[12 + (2 * 16)] = 44 g
+CO2
+6.02 * 1023
+PV r mT.
+PV r T.
+P H Y S I C S  A P P L I E D
+Throwing a jar into a campfire
+We can now write the proportion above 
+as an equation:
+(13;3)
+where n represents the number of moles and R is the constant of proportionality.
+R is calle

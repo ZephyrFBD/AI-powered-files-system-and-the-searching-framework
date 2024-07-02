@@ -1,0 +1,22 @@
+s with
+conjugate base component of buffer
+Strong base reacts with
+weak acid component of buffer
+Stoichiometry
+calculation
+Equilibrium
+calculation
+1
+2
+▲ Figure 17.3 Calculating the pH of a buffer after addition of a strong acid or strong base.
+A buffer is made by adding 0.300 mol CH3COOH and 0.300 mol CH3COONa to enough water to make 1.000 L of solution. The 
+pH of the buffer is 4.74 (Sample Exercise 17.1). (a) Calculate the pH of this solution after 5.0 mL of 4.0 M NaOH1aq2 solution 
+is added. (b) For comparison, calculate the pH of a solution made by adding 5.0 mL of 4.0 M NaOH1aq2 solution to 1.000 L of 
+pure water.
+Analyze We are asked to determine the pH of a buffer after addition 
+of a small amount of strong base and to compare the pH change 
+with the pH that would result if we were to add the same amount 
+of strong base to pure water.
+Plan Solving this problem involves the two steps outlined in 
+Figure 17.3. First we do a stoichiometry calculation to determine 
+how the added OH- 

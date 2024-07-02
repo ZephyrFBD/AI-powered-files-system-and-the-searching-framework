@@ -1,0 +1,14 @@
+uct a triangle on a curved surface, say the sphere
+of Fig. 33–16, we must use the equivalent of a straight line: that is, the shortest
+distance between two points, which is called a geodesic. On a sphere, a geodesic
+is an arc of a great circle (an arc in a plane passing through the center of the
+sphere) such as the Earth’s equator and the Earth’s longitude lines. Consider, for
+example, the large triangle of Fig. 33–16: its sides are two longitude lines passing
+from the north pole to the equator, and the third side is a section of the equator
+as shown. The two longitude lines make 90° angles with the equator (look at
+a world globe to see this more clearly). They make an angle with each other at
+the north pole, which could be, say, 90° as shown; the sum of these angles is
+This is clearly not a Euclidean space. Note, however,
+that if the triangle is small in comparison to the radius of the sphere, the angles
+will add up to nearly 180°, and the triangle (and space) will seem flat.
+90° + 90

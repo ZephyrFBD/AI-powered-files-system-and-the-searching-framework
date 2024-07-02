@@ -1,0 +1,48 @@
+s with thick soles?
+19. What is the main difference between an analog voltmeter
+and an analog ammeter?
+20. What would happen if you mistakenly used an ammeter
+where you needed to use a voltmeter?
+21. Explain why an ideal ammeter would have zero resistance
+and an ideal voltmeter infinite resistance.
+22. A voltmeter connected across a resistor always reads less
+than the actual voltage (i.e., when the meter is not present).
+Explain.
+23. A small battery-operated flashlight requires a single 1.5-V
+battery. The bulb is barely glowing. But when you take the
+battery out and check it with a digital voltmeter, it regis-
+ters 1.5 V. How would you explain this?
+17. Design a circuit in which two different switches of the type
+shown in Fig.19–39 can
+be used to operate the
+same lightbulb from
+opposite sides of a
+room.
+R5
+R1
+R2
+R7
+R3
+R6
+R4
+C
+D
+A
+E
+e
+B
+A
++ –
+FIGURE 19–38 Question 16.
+and 
+are variable
+resistors (you can change 
+their resistance), given the 
+symbol 
+.
+R7
+R2, R5,
+Wire
+Wire
+Wire
+FIGURE 19

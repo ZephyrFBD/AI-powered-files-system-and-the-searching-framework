@@ -1,0 +1,23 @@
+of this Section by setting 
+or 
+as needed. We let 
+and 
+represent the voltage
+across each element at a given instant in time; and 
+and 
+represent 
+the maximum (peak) values of these voltages. The voltage across each of the 
+elements will follow the phase relations we discussed in the previous Section. At
+any instant the voltage V supplied by the source will be, by Kirchhoff’s loop rule,
+(21;13a)
+Because the various voltages are not in phase, they do not reach their peak values at
+the same time, so the peak voltage of the source 
+will not equal
+Phasor Diagrams
+The current in an LRC circuit at any instant is the same at all points in the circuit
+(charge does not pile up in the wires). Thus the currents in each element are in
+phase with each other, even though the voltages are not. We choose our origin 
+in time 
+so that the current I at any time is
+AC circuits are complicated to analyze. The easiest approach is to use a sort
+of vector device known as a phasor diagram. Arrows (treated like

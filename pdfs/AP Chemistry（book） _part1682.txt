@@ -1,0 +1,22 @@
+ for Xe, cal-
+culate the radius of a Xe atom and compare it to the value 
+found in Figure 7.7, that is, 1.40 Å. Recall that the volume of 
+a sphere is 14>32pr3.
+[10.96]   
+Table 10.3 shows that the van der Waals b parameter has 
+units of L/mol. This means that we can calculate the sizes 
+of atoms or molecules from the b parameter. Refer back to 
+the discussion in Section 7.3. Is the van der Waals radius we 
+calculate from the b parameter of Table 10.3 more closely 
+associated with the bonding or nonbonding atomic radius 
+discussed there? Explain.
+Additional Exercises
+ 
+10.97 Torricelli, who invented the barometer, used mercury in 
+its construction because mercury has a very high density, 
+which makes it possible to make a more compact barome-
+ter than one based on a less dense fluid. Calculate the den-
+sity of mercury using the observation that the column of 
+mercury is 760 mm high when the atmospheric pressure is 
+1.01 * 105 Pa. Assume the tube containing the mercury is 
+a cylinder wi

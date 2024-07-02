@@ -1,0 +1,14 @@
+question to represent bond enthalpies. For example, D(Cl—Cl) is the bond en-
+thalpy for the Cl2 bond, and D(H—Br) is the bond enthalpy for the HBr bond.
+value to specific bonds. The bond enthalpy is the enthalpy change, ∆H, for the break-
+ing of a particular bond in one mole of a gaseous substance. It is easiest to determine 
+bond enthalpies from simple reactions where only one bond is broken, such as the dis-
+sociation of Cl2(g). A Cl2 molecule is held together by a single covalent bond, which is 
+represented as Cl—Cl. The dissociation of Cl2(g) into chlorine atoms results when the 
+Cl—Cl bond is broken:
+Cl21g2 ¡ 2Cl1g2
+Because there are four equivalent C—H bonds in methane, the enthalpy of this reaction is 
+four times the enthalpy needed to break a single C—H bond. Therefore, the average C—H 
+bond enthalpy in CH4 is D1C ¬H2 = (1660/4) kJ/mol = 415 kJ/mol.
+The exact bond enthalpy for a given pair of atoms, say C—H, depends on the rest 
+of the molecule containing the atom pair. However

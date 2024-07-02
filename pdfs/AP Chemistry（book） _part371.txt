@@ -1,0 +1,36 @@
+rue or false. 
+ 
+If false, correct the statement to make it true: (a) The paths 
+of neutral (uncharged) atoms are not affected by the magnet. 
+(b) The height of each peak in the mass spectrum is inversely 
+proportional to the mass of that isotope. (c) For a given 
+ 
+element, the number of peaks in the spectrum is equal to the 
+number of naturally occurring isotopes of that element.
+ 2.39 Naturally occurring magnesium has the following isotopic 
+abundances:
+Isotope
+Abundance (%)
+Atomic mass (amu)
+24Mg
+78.99
+23.98504
+25Mg
+10.00
+24.98584
+26Mg
+11.01
+25.98259
+ 
+ (a) What is the average atomic mass of Mg? (b) Sketch the 
+mass spectrum of Mg.
+78 
+CHAPTER 2 Atoms, Molecules, and Ions
+ 2.40  Mass spectrometry is more often applied to molecules 
+than to atoms. We will see in Chapter 3  that the molecular 
+weight of a molecule is the sum of the atomic weights of the 
+ 
+atoms in the molecule. The mass spectrum of H2 is taken 
+ 
+under conditions that prevent decomposition into H atoms. 
+The two nat

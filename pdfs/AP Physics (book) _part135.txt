@@ -1,0 +1,20 @@
+kmh
+80 kmh,
+(a)
+(b)
+FIGURE 2;1 A falling pinecone
+undergoes (a) pure translation;
+(b) it is rotating as well as translating.
+When specifying the motion of an object, it is important to specify not only
+the speed but also the direction of motion. Often we can specify a direction by
+using north, east, south, and west, and by “up” and “down.” In physics, we
+often draw a set of coordinate axes, as shown in Fig. 2–3, to represent a frame
+of reference. We can always place the origin 0, and the directions of the x and
+y axes, as we like for convenience. The x and y axes are always perpendicular
+to each other. The origin is where
+Objects positioned to the right
+of the origin of coordinates (0) on the x axis have an x coordinate which we
+almost always choose to be positive; then points to the left of 0 have a negative
+x coordinate. The position along the y axis is usually considered positive when
+above 0, and negative when below 0, although the reverse convention can be used
+if convenient. An

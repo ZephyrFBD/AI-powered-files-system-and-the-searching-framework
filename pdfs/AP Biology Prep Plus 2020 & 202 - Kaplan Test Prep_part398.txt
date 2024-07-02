@@ -1,0 +1,15 @@
+ugh an electron transport chain, then back to the
+same reaction center again (see figure below). The reaction center in
+photosystem I includes a chlorophyll called P700 because its maximal
+light absorbance occurs at 700 nm. This process does not produce oxygen
+and does not produce NADPH.
+Noncyclic photophosphorylation starts in photosystem II (see figure on
+the following page). In noncyclic photophosphorylation, chlorophyll
+pigment absorbs light and passes excited electrons to a reaction center, a
+process equivalent to cyclic photophosphorylation. The photosystem II
+reaction center contains a P680 chlorophyll, distinct from photosystem I.
+From the photosystem II reaction center, the electrons are passed to an
+electron transport chain. In this case, however, the electrons are not
+returned to the reaction center at the end of the electron transport chain
+but are passed to photosystem I. Photosystem II replaces the electrons it
+lost by getting them from water, producing oxygen in the proc

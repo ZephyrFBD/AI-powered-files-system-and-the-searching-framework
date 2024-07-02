@@ -1,0 +1,30 @@
+ensions follows the same reasoning.
+*
+188
+CHAPTER 7
+Linear Momentum
+Suppose the three particles lie on the x axis and have masses 
+and positions 
+From Eq. 7–9a for the center of mass, we can write
+where
+is the total mass of the system. If these particles
+are in motion (say, along the x axis with velocities 
+and 
+respectively),
+then in a short time interval 
+each particle and the CM will have traveled a dis-
+tance  
+so that
+We cancel 
+and get
+(7;10)
+Since
+is the sum of the momenta of the particles 
+of the system, it represents the total momentum of the system. Thus we see from
+Eq. 7–10 that the total (linear) momentum of a system of particles is equal to the
+product of the total mass M and the velocity of the center of mass of the system.
+Or, the linear momentum of an extended object is the product of the object’s mass
+and the velocity of its CM.
+If forces are acting on the particles, then the particles may be accelerating. In 
+a short time interval 
+each particle’s velocity will change

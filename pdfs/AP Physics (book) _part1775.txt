@@ -1,0 +1,104 @@
+urfaces. The electric
+field exists even beyond the shell,
+but not within the conductor itself.
+Good conductor
+E
+B
+E
+B
+E
+B
+FIGURE 16–35 If the electric field 
+at the surface of a conductor had a
+component parallel to the surface,
+the latter would accelerate electrons
+into motion. In the static case,
+must
+be zero, and the electric field must be
+perpendicular to the conductor’s
+surface: E
+B = E
+B
+⊥.
+E
+B
+7
+E
+B
+7 ,
+E
+B
+(a)
+(b)
++
++
++
++
+−
+−
+−
+−
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+FIGURE 16–36 Example 16–11.
+Shielding, and safety in a storm. A neu-
+tral hollow metal box is placed between two parallel charged plates as shown in
+Fig. 16–36a. What is the field like inside the box?
+RESPONSE If our metal box had been solid, and not hollow, free electrons in
+the box would have redistributed themselves along the surface until all their
+individual fields would have canceled each other inside the box. The net field
+inside the b

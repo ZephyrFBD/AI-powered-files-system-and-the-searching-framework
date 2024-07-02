@@ -1,0 +1,11 @@
+ a model of a cell with a
+semipermeable membrane. Each of six pieces of dialysis tubing are filled with one of six different unknown
+solutions with various sucrose concentrations (0.0, 0.2, 0.4, 0.6, 0.8, and 1.0 molar). The sucrose molecule is
+approximately twice as large as a glucose molecule and is too large to pass through the pores in the dialysis tubing.
+Each model cell is massed and then placed in a beaker of distilled water for at least 30 minutes. Then they are
+massed again, and the percent change in mass for each bag is calculated. Water will move into the dialysis bags.
+Bags that contain a solution with the highest sucrose concentration (lowest water potential) will gain more mass and
+have a greater percent change in mass during the allotted time than bags that contain a solution with a lower sucrose
+concentration (and a relatively higher water potential). By comparing the percent changes in mass of each bag, the
+concentration of sucrose in each bag can be identified.
+Part 4

@@ -1,0 +1,35 @@
+rent mirrors.
+Describe (b) what type of mirror each is, and (c) her
+position relative to the focal point and center of curvature.
+1
+2 f
+1
+2 f
+f = 12 cm
+678
+CHAPTER 23
+Light: Geometric Optics
+A: No.
+B: (b).
+C: Toward.
+D: None.
+E: No total internal reflection,
+F: (c).
+G: Closer to it.
+uC 7 45°.
+ANSWERS TO EXERCISES
+FIGURE 23–69 Search and Learn 4.
+5. Justify the second part of sign convention 3, page 665,
+starting “Equivalently.” Use ray diagrams for all possible
+situations. Cite Figures already in the text and draw any
+others needed.
+6. The only means to create a real image with a single lens
+would be to place 
+(a) the object inside the focal length of a converging lens;
+(b) the object inside the focal length of a diverging lens;
+(c) the object outside the focal length of a converging lens;
+(d) the object outside the focal length of a diverging lens;
+(e) any of the above, given the correct distance from the
+focal point.
+7. Make a table showing the sign conventions for mirrors and
+lenses

@@ -1,0 +1,52 @@
+ 0.48 rads.
+v2,
+v1 = 0.
+0.060 rads2,
+k =
+¢t = 8.0 s,
+k = Av2 - v1B¢t,
+v = rv
+v
+t = 8.0 s.
+v
+a = ¢v¢t
+a
+t = 8.0 s,
+a = 0.060 rads2,
+t = 0
+EXAMPLE 8;4
+a
+B
+aR
+B
+atan
+B
+O
+P
+(b)
+θ
+(a)
+FIGURE 8;7 Examples 8–4 and 8–5.
+The total acceleration vector is
+at t = 8.0 s.
+a
+B = a
+B
+tan + a
+B
+R,
+(c) The two components of linear acceleration calculated in parts (a) and (b) are
+perpendicular to each other. Thus the total linear acceleration at 
+has
+magnitude
+NOTE The linear acceleration at this chosen instant is mostly centripetal, and
+keeps the child moving in a circle with the carousel. The tangential component
+that speeds up the circular motion is smaller.
+NOTE The direction of the linear acceleration (magnitude calculated above as
+) is at the angle shown in Fig. 8–7b:
+so
+We can relate the angular velocity 
+to the frequency of rotation, f. The 
+frequency is the number of complete revolutions (rev) per second, as we saw in
+Chapter 5. One revolution (of a wheel, say) corresponds to an angle of 
+r

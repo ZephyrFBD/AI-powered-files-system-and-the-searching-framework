@@ -1,0 +1,36 @@
+which we call an “echo.”
+A wave pulse traveling along a cord is reflected as shown in Fig. 11–33 (time
+increases going downward in both a and b). The reflected pulse returns inverted
+as in Fig. 11–33a if the end of the cord is fixed; it returns right side up if the end is
+free as in Fig. 11–33b. When the end is fixed to a support, as in Fig. 11–33a, the
+pulse reaching that fixed end exerts a force (upward) on the support. The support
+exerts an equal but opposite force downward on the cord (Newton’s third law).
+This downward force on the cord is what “generates” the inverted reflected pulse.
+312
+CHAPTER 11
+Oscillations and Waves
+Ray
+Ray
+Ray
+Wave  fronts 
+(a)
+(b)
+W
+a
+v
+e
+fr
+on
+ts
+FIGURE 11–35 Rays, signifying the direction of wave
+motion, are always perpendicular to the wave fronts
+(wave crests). (a) Circular or spherical waves near the
+source. (b) Far from the source, the wave fronts are
+nearly straight or flat, and are called plane waves.
+Light
+section
+Heavy
+section
+Reﬂected
+pulse
+Tran

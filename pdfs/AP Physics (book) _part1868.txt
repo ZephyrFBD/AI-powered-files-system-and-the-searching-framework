@@ -1,0 +1,43 @@
+n a side. That is inconven-
+iently large. Large-capacitance capacitors will not be simple parallel plates.
+103 m
+A = Cd
+ 0
+L
+(1 F)A1.0 * 10–5 mB
+A9 * 10–12 C2Nm2B
+L 106 m2.
+d = 1.0 * 10–5 m
+C = 1.0 F
+E = V
+d
+=
+12 V
+1.0 * 10–3 m = 1.2 * 104 Vm.
+= A53 * 10–12 FB(12 V) = 6.4 * 10–10 C.
+Q = CV
+= A8.85 * 10–12 C2Nm2B 6.0 * 10–3 m2
+1.0 * 10–3 m
+= 53 pF.
+C =  0
+A
+d
+A = A20 * 10–2 mBA3.0 * 10–2 mB = 6.0 * 10–3 m2
+E = Vd.
+Q = CV.
+C =  0 Ad.
+= 1 mm = 10–6 m)
+20 cm * 3.0 cm
+EXAMPLE 17;8
+484
+CHAPTER 17
+Electric Potential
+P H Y S I C S  A P P L I E D
+Capacitor as power backup;
+condenser microphone;
+computer keyboard
+Not long ago, a capacitance greater than a few mF was unusual. Today capacitors
+are available that are 1 or 2 F, yet they are just a few cm on a side. Such capacitors are
+used as power backups, for example, in computer memory and electronics where
+the time and date can be maintained through tiny charge flow. [Capacitors are
+superior to rechargable batteries for this purpose be

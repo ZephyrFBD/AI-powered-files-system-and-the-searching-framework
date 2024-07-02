@@ -1,0 +1,32 @@
+tween 
+the gravitational potential-energy change 
+of a boulder rolling down a hill and the 
+free-energy change in a spontaneous 
+reaction. Free energy always decreases in 
+a spontaneous process when pressure and 
+temperature are held constant.
+Give It Some Thought
+What are the criteria for spontaneity
+(a) in terms of entropy and
+(b) in terms of free energy?
+This is a good time to remind ourselves of the significance of the reaction quotient, 
+Q, for a system that is not at equilibrium. 
+ (Section 15.6) Recall that when Q 6 K, there 
+is an excess of reactants relative to products, and the reaction proceeds spontaneously in 
+the forward direction to reach equilibrium, as noted in Figure 19.15. When Q 7 K, the 
+reaction proceeds spontaneously in the reverse direction. At equilibrium Q = K.
+Go Figure
+Why are the spontaneous processes shown sometimes said to be 
+“downhill” in free energy?
+Equilibrium
+mixture
+(Q = K, ∆G = 0)
+Pure
+N2 + H2
+Pure
+NH3
+Q > K
+Q < K
+Free energy
+Spontaneous
+N2(g) + 3

@@ -1,0 +1,52 @@
+ircular 
+arrows show convective air currents in
+the rooms.
+P H Y S I C S  A P P L I E D
+Body heat:
+convection by blood
+R-values for Building Materials
+The insulating properties of building materials are often specified by R-values
+(or “thermal resistance”), defined for a given thickness of material as:
+The R-value of a given piece of material combines the thickness and the thermal
+conductivity k in one number. Larger R means better insulation from heat or cold.
+In the United States, R-values are given in British units as 
+(for
+example, R-19 means 
+). Table 14–5 gives R-values for some
+common building materials. R-values increase directly with material thickness:
+for example, 2 inches of fiberglass is R-6, whereas 4 inches is R-12.
+R = 19 ft2hF°
+Btu
+ft2hF°
+Btu
+l
+R =
+l
+k
+.
+l
+*
+TABLE 14;5 R-values
+R-value 
+Material 
+Thickness
+Glass 
+1
+Brick
+–1
+Plywood 
+0.6
+Fiberglass 
+insulation 
+4 inches
+12
+1
+2 inch
+0.6
+3 1
+2 inches
+1
+8 inch
+(ft2hF°Btu)
+P H Y S I C S  A P P L I E D
+Ocean current

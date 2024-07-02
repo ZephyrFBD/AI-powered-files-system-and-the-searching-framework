@@ -1,0 +1,42 @@
+ars, and now 16-nm technology
+which—being only a few atoms wide—may involve new structures and quantum-
+mechanical effects. Smaller means more diodes and transistors per 
+and
+therefore greater speed (faster response time) because the distance signals have
+to travel is less. Smaller also means lower power consumption. Size, speed, and
+power have all been improved 10 to 100 million times in the last 40 years.
+mm2
+elementsmm2
+(= conductors)
+*
+bV =
+output (collector) ac voltage
+input (base) ac voltage
+.
+bI
+bI =
+output (collector) ac current
+input (base) ac current
+= iC
+iB
+ .
+iB.
+iC
+I
+B
+I
+C
+= changes
+iB
+RC.
+*SECTION 29–11
+Integrated Circuits, 22-nm Technology
+851
+†The “MOS” comes from a version with a Metal gate, silicon diOxide insulator, and a Semiconductor
+(p-type shown in Fig. 29–42a). The gate can also be heavily doped silicon (= good conductor).
+FIGURE 29–42 (a) Construction of
+a MOSFET of n- and p-type
+semiconductors and a gate of metal
+or heavily doped silicon
+(b) Symbol
+for a MOSF

@@ -1,0 +1,11 @@
+ion proceeds with charged tRNAs entering the A site and then shifting to the P site followed by the E site with each
+single-codon “step” of the ribosome. Ribosomal steps are induced by conformational changes that advance the ribosome by
+three bases in the 3' direction. The energy for each step of the ribosome is donated by an elongation factor that hydrolyzes
+GTP. Peptide bonds form between the amino group of the amino acid attached to the A-site tRNA and the carboxyl group
+of the amino acid attached to the P-site tRNA. The formation of each peptide bond is catalyzed by peptidyl transferase,
+an RNA-based enzyme that is integrated into the 50S ribosomal subunit. The energy for each peptide bond formation is
+618
+Chapter 15 | Genes and Proteins
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+derived from GTP hydrolysis, which is catalyzed by a separate elongation factor. The amino acid bound to the P-site tRNA
+is also linked to the growing polypeptide chain

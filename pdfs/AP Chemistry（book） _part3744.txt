@@ -1,0 +1,20 @@
+provides an adequate and useful first description of the electronic structure of complexes.
+A Closer look Charge-Transfer Color
+KMnO4
+K2CrO4
+KClO4
+▲ Figure 23.35 The colors of compounds can arise from charge-transfer transitions. KMnO4 and  
+K2CrO4 are colored due to ligand-to-metal charge-transfer transitions in their anions. Higher  
+energy ultraviolet photons are needed to excite the charge-transfer transition in the  
+perchlorate ion, therefore KClO4 is white.
+In the laboratory portion of your course, you have probably seen 
+many colorful transition-metal compounds, including those shown 
+in Figure 23.35. Many of these compounds are colored because of d-d 
+transitions. Some colored complexes, however, including the violet 
+permanganate ion, MnO4
+-, and the yellow chromate ion, CrO4
+2-, 
+derive their color from a different type of excitation involving the d 
+orbitals.
+The permanganate ion strongly absorbs visible light, with a 
+maximum absorption at 565 nm. Because violet is complem

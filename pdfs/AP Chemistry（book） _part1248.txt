@@ -1,0 +1,50 @@
+he nonmetals of the second row of the 
+periodic table:
+H
+F
+H
+H
+O
+H
+H
+H
+N
+H
+H
+H
+H
+C
+308 
+CHAPTER 8 Basic Concepts of Chemical Bonding
+Multiple Bonds
+A shared electron pair constitutes a single covalent bond, generally referred to simply 
+as a single bond. In many molecules, atoms attain complete octets by sharing more 
+than one pair of electrons. When two electron pairs are shared by two atoms, two lines 
+are drawn in the Lewis structure, representing a double bond. In carbon dioxide, for 
+example, bonding occurs between carbon, with four valence electrons, and oxygen, 
+with six:
+F
+F
+F
+F
+F
+F
+N
+N
+F
+3
+1
+N
+1
+1
+O
+O
+C
+O C O
+(or  O     C     O)
+As the diagram shows, each oxygen atom acquires an octet by sharing two elec-
+tron pairs with carbon. In the case of CO2, carbon acquires an octet by sharing two 
+electron pairs with each of the two oxygen atoms; each double bond involves four 
+electrons.
+A triple bond corresponds to the sharing of three pairs of electrons, such as in the 
+N2 molecule:

@@ -1,0 +1,27 @@
+is lower in energy than the p
+2p MOs, and the antibo-
+nding s*
+2p MO is higher in energy than the p*
+2p MOs.
+t Both the p
+2p and p*
+2p MOs are doubly degenerate; that is, there are two degenerate 
+MOs of each type.
+Before we can add electrons to Figure 9.41, we must consider one more effect. We 
+have constructed the diagram assuming no interaction between the 2s orbital on one 
+atom and the 2p orbitals on the other. In fact, such interactions can and do take place. 
+Figure 9.42 shows the overlap of a 2s orbital on one of the atoms with a 2p orbital on the 
+other. These interactions increase the energy difference between the s
+2s and s
+2p MOs, 
+with the s
+2s energy decreasing and the s
+2p energy increasing (Figure 9.42). These 2s–2p 
+interactions can be strong enough that the energetic ordering of the MOs can be altered: 
+For B2, C2, and N2, the s
+2p MO is above the p
+2p MOs in energy. For O2, F2, and Ne2, the s
+2p 
+MO is below the p
+2p MOs.
+Given the energy ordering of the molecular o

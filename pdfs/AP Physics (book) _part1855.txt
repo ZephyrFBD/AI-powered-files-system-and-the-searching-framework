@@ -1,0 +1,39 @@
+ntial can be positive or negative, and we always include a charge’s
+sign when we find electric potential.
+V = A9.0 * 109 Nm2C2B ¢ –20 * 10–6 C
+0.50 m
+≤
+=
+–3.6 * 105 V.
+= A9.0 * 109 Nm2C2B ¢ 20 * 10–6 C
+0.50 m
+≤
+= 3.6 * 105 V.
+V = k Q
+r
+20 mC
+V = kQr.
+–20 mC
+±20 mC
+EXAMPLE 17;4
+P R O B L E M  S O L V I N G
+Keep track of charge signs 
+for electric potential
+Work required to bring two positive charges close
+together. What minimum work must be done by an external force to bring a
+charge
+from a great distance away (take
+) to a point 0.500 m
+from a charge 
+APPROACH To find the work we cannot simply multiply the force times distance
+because the force is proportional to 
+and so is not constant. Instead we can
+set the change in potential energy equal to the (positive of the) work required of an
+external force (Chapter 6, Eq. 6–7a), and Eq. 17–3:
+We get the potentials 
+and 
+using Eq. 17–5.
+SOLUTION The external work required is equal to the change in potential energy:
+where
+and
+The right-ha

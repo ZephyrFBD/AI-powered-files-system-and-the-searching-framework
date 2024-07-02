@@ -1,0 +1,75 @@
+1) U
+l
+n = 3, l
+n = 1, l
+(n - 1).
+l
+l,
+q.
+En =
+– 13.6 eV
+n2
+,  
+n = 1, 2, 3, p ,
+812
+CHAPTER 28
+Quantum Mechanics of Atoms
+†This replaces Bohr theory, which assigned
+to the ground state (Eq. 27–11).
+l = 1
+FIGURE 28–7 Quantization of
+angular momentum direction for
+(Magnitude of 
+is
+)
+L = 16 U.
+L
+B
+l = 2.
+FIGURE 28–8 Energy levels (not 
+to scale). When a magnetic field is
+applied, the
+energy
+level is split into five separate levels,
+corresponding to the five values of
+An
+level is split into three levels
+Transitions can occur
+between levels (not all transitions are
+shown), with photons of several
+slightly different frequencies being
+given off (the Zeeman effect).
+Aml = 1, 0, –1B.
+l = 1
+n = 2,
+ml (2, 1, 0, –1, –2).
+n = 3,  l = 2
+ml = 0
+ml = 1
+ml = 2
+ml = −2
+ml = −1
+2
+Lz
+0
+1
+−1
+−2
+ml = 2
+1
+0
+−1
+−2
+n = 3,
+l = 2
+ml = 1
+0
+−1
+n = 2,
+l = 1
+(4) Finally, there is the spin quantum number,
+which for an electron can have
+only two values,
+and 
+The existence of this quantum
+number did not come out of S

@@ -1,0 +1,55 @@
+
+3 -1aq2 + e- ¡ Ag1s2 + 2 S2O3
+2 -1aq2
++0.01
+Al3 +1aq2 + 3 e- ¡ Al1s2
+-1.66
+H3AsO41aq2 + 2 H+1aq2 + 2 e- ¡ H3AsO31aq2 + H2O1l2
++0.56
+Ba2+1aq2 + 2 e- ¡ Ba1s2
+-2.90
+BiO+1aq2 + 2 H+1aq2 + 3 e- ¡ Bi1s2 + H2O1l2
++0.32
+Br21l2 + 2 e- ¡ 2 Br-1aq2
++1.07
+2 BrO3
+-1aq2 + 12 H+1aq2 + 10 e- ¡ Br21l2 + 6 H2O1l2
++1.52
+2 CO21g2 + 2 H+1aq2 + 2 e- ¡ H2C2O41aq2
+-0.49
+Ca2+1aq2 + 2 e- ¡ Ca1s2
+-2.87
+Cd2+1aq2 + 2 e- ¡ Cd1s2
+-0.40
+Ce4+1aq2 + e- ¡ Ce3+1aq2
++1.61
+Cl21g2 + 2 e- ¡ 2 Cl-1aq2
++1.36
+2 HClO1aq2 + 2 H+1aq2 + 2 e- ¡ Cl21g2 + 2 H2O1l2
++1.63
+ClO-1aq2 + H2O1l2 + 2 e- ¡ Cl-1aq2 + 2 OH-1aq2
++0.89
+2 ClO3 -1aq2 + 12 H+1aq2 + 10 e- ¡ Cl21g2 + 6 H2O1l2
++1.47
+Co2 +1aq2 + 2 e- ¡ Co1s2
+-0.28
+Co3 +1aq2 + e- ¡ Co2+1aq2
++1.84
+Cr3 +1aq2 + 3 e- ¡ Cr1s2
+-0.74
+Cr3 +1aq2 + e- ¡ Cr2 +1aq2
+-0.41
+Cr2O7
+2 -1aq2 + 14 H+1aq2 + 6 e- ¡ 2 Cr3 +1aq2 + 7 H2O1l2
++1.33
+CrO4
+2 -1aq2 + 4 H2O1l2 + 3 e- ¡  
+Cr1OH231s2 + 5 OH-1aq2
+-0.13
+Cu2+1aq2 + 2 e- ¡ Cu1s2
++0.34
+Cu2 +1aq2 + e- ¡ Cu+1aq2
++0.15
+Cu+1aq2 + e- ¡ Cu1s2
++0.52
+CuI1s2 + e- ¡ Cu1

@@ -1,0 +1,70 @@
+he presence of an iron core.
+An ac circuit (Section 18–7) always contains some inductance, but often it is
+quite small unless the circuit contains a coil of many loops or turns. A coil that
+has significant self-inductance L is called an inductor. It is shown on circuit
+diagrams by the symbol
+.
+[inductor symbol]
+e =
+–L ¢I
+¢t
+.
+e
+*
+e1 =
+–M ¢I
+2
+¢t
+.
+I
+1 ;
+1 H = 1 s.
+VsA = s,
+¢t
+e2 =
+–M ¢I
+1
+¢t
+,
+e2
+I
+1
+e2
+*
+*
+608
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+Coil 1
+I1
+2
+(induced)
+Coil 2
+e
+FIGURE 21–35 A changing current
+in one coil will induce a current in
+the second coil.
+P H Y S I C S  A P P L I E D
+Pacemaker
+*SECTION 21–10
+Inductance
+609
+I
++ 
+−
+B
+A
+I
+−
++
+B
+A
+(a)
+(b)
+increasing
+decreasing
+FIGURE 21–36 Example 21–12.
+Direction of emf in inductor. Current
+passes through the coil in Fig.21–36 from left to right as shown. (a) If the current is
+increasing with time, in which direction is the induced emf? (b) If the current 
+is decreasing in time, what then is the direction of

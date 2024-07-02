@@ -1,0 +1,16 @@
+slational motion, all the forces on a
+given object can be drawn as acting at the center of the object, thus treating the
+object as a point particle. However, for problems involving rotation or statics, the
+place where each force acts is also important, as we shall see in Chapters 8 and 9.
+In the Examples in this Section, we assume that all surfaces are very smooth so
+that friction can be ignored. (Friction, and Examples using it, are discussed in
+Section 4–8.)
+Pulling the mystery box. Suppose a friend asks to examine
+the 10.0-kg box you were given (Example 4–6, Fig. 4–15), hoping to guess what
+is inside; and you respond, “Sure, pull the box over to you.” She then pulls 
+the box by the attached cord, as shown in Fig. 4–21a, along the smooth surface 
+of the table. The magnitude of the force exerted by the person is  
+and it is exerted at a 30.0° angle as shown. Calculate (a) the acceleration of the
+box, and (b) the magnitude of the upward force 
+exerted by the table on the 
+box. Assume t

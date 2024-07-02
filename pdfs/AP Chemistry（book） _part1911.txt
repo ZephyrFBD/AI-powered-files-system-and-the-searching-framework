@@ -1,0 +1,66 @@
+and Compound Semiconductors
+13
+Al
+31
+Ga
+49
+In
+14
+Si
+32
+Ge
+50
+Sn
+15
+P
+33
+As
+51
+Sb
+34
+Se
+52
+Te
+30
+Zn
+48
+Cd
+Material
+Si
+AlP
+Ge
+GaAs
+ZnSe
+Sn‡
+InSb
+CdTe
+Structure
+Type
+Diamond
+Zinc blende
+Diamond
+Zinc blende
+Zinc blende
+Diamond
+Zinc blende
+Zinc blende
+Eg, eV†
+1.11
+2.43
+0.67
+1.43
+2.58
+0.08
+0.18
+1.50
+† Band gap energies are room temperature values, 1 eV = 1.602 × 10−19 J.
+‡ These data are for gray tin, the semiconducting allotrope of tin. The other allotrope, white tin, is a metal.
+Will GaP have a larger or smaller band gap than ZnS? Will it have a larger or smaller band gap than GaN?
+Sample Exercise 12.3 
+Qualitative Comparison of Semiconductor Band Gaps
+SOLUTION
+Analyze The size of the band gap depends on the vertical and hor-
+izontal positions of the elements in the periodic table. The band 
+gap will increase when either of the following conditions is met: 
+(1) The elements are located higher up in the periodic table, where 
+enhanced orbital overlap leads to a larger splitting between bond

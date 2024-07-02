@@ -1,0 +1,19 @@
+210.92823 = 1.45 * 10-5
+ 
+▶Practice Exercise 1
+At 500 K, the reaction 2 NO1g2 + Cl21g2 ∆ 2 NOCl1g2 has 
+Kp = 51. In an equilibrium mixture at 500 K, the partial pres-
+sure of NO is 0.125 atm and Cl2 is 0.165 atm. What is the par-
+tial pressure of NOCl in the equilibrium mixture? (a) 0.13 atm 
+(b) 0.36 atm (c) 1.0 atm (d) 5.1 * 10-5 atm (e) 0.125 atm
+ 
+▶Practice Exercise 2
+At 500 K, the reaction PCl51g2 ∆ PCl31g2 + Cl21g2 has 
+Kp = 0.497. In an equilibrium mixture at 500 K, the partial 
+pressure of PCl5 is 0.860 atm and that of PCl3 is 0.350 atm. 
+What is the partial pressure of Cl2 in the equilibrium mixture?
+In many situations, we know the value of the equilibrium constant and the ini-
+tial amounts of all species. We must then solve for the equilibrium amounts. Solv-
+ing this type of problem usually entails treating the change in concentration as a 
+variable. The stoichiometry of the reaction gives us the relationship between the 
+changes in the amounts of all the reactants and produc

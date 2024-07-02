@@ -1,0 +1,26 @@
+acid Battery
+A 12-V lead–acid automotive battery consists of six voltaic cells in series, each producing 
+2 V. The cathode of each cell is lead dioxide 1PbO22 packed on a lead grid (Figure 20.19). 
+The anode of each cell is lead. Both electrodes are immersed in sulfuric acid.
+The reactions that occur during discharge are
+Cathode:  
+     PbO21s2 + HSO4
+-1aq2 + 3 H+1aq2 + 2 e- ¡ PbSO41s2 + 2 H2O1l2
+Anode:   
+ 
+  Pb1s2 + HSO4
+-1aq2 ¡ PbSO41s2 + H+1aq2 + 2 e-
+Overall: PbO21s2 + Pb1s2 + 2 HSO4
+-1aq2 + 2 H+1aq2 ¡ 2 PbSO41s2 + 2 H2O1l2 
+[20.20]
+The standard cell potential can be obtained from the standard reduction 
+potentials in Appendix E:
+ 
+E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2 = 1+1.69 V2 - 1-0.36 V2 = +2.05 V 
+The reactants Pb and PbO2 are the electrodes. Because these reactants are 
+solids, there is no need to separate the cell into half-cells; the Pb and PbO2 
+cannot come into contact with each other unless one electrode touches 
+another. To keep the electrodes from touching, woo

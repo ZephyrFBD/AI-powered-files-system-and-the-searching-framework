@@ -1,0 +1,29 @@
+the wood; so the pails have the same weight.
+Recovering a submerged statue. A 70-kg ancient statue
+lies at the bottom of the sea. Its volume is
+How much force is
+needed to lift it (without acceleration)?
+APPROACH The force F needed to lift the statue is equal to the statue’s 
+weight mg minus the buoyant force 
+Figure 10–12 is the free-body diagram.
+SOLUTION We apply Newton’s second law,
+which gives
+or
+The buoyant force on the statue due to the water is equal to the weight of
+of water (for seawater,
+where we use the chemical symbol for water,
+, as a subscript. The weight of
+the statue is
+Hence the force F needed
+to lift it is
+It is as if the statue had a mass of only
+NOTE Here
+is the force needed to lift the statue without accelera-
+tion when it is under water. As the statue comes out of the water, the force F
+increases, reaching 690 N when the statue is fully out of the water.
+F = 390 N
+(390 N)A9.8 ms2B = 40 kg.
+690 N - 300 N = 390 N.
+mg = (70 kg)A9.8 ms2B = 6.9 * 102 N.
+H2O
+= 3.0 *

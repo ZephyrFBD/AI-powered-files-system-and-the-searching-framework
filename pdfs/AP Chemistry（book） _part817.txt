@@ -1,0 +1,22 @@
+rd states. The standard 
+state of a substance is its pure, most stable form at 1 atm and the 
+temperature of interest (usually 298 K). Thus, the standard en-
+thalpy change of a reaction, ∆H°, is the enthalpy change when all 
+reactants and products are in their standard states. The standard 
+enthalpy of formation, ∆Hf°, of a substance is the change in en-
+thalpy for the reaction that forms one mole of the substance from 
+its elements in their standard states. For any element in its stan-
+dard state, ∆Hf° = 0.
+ 
+Key Equations 
+201
+The standard enthalpy change for any reaction can be readily 
+calculated from the standard enthalpies of formation of the reac-
+tants and products in the reaction:
+ 
+∆H°
+rxn = Σn∆Hf°1products2 - Σm∆Hf°1reactants2 
+BOND ENTHALPIES (SECTION 5.8) The strength of a covalent 
+bond is measured by its bond enthalpy, which is the molar enthalpy 
+change required to break a particular bond. Average bond enthalpies 
+can be determined for a wide variety of covalent bonds. 

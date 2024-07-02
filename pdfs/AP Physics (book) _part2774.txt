@@ -1,0 +1,22 @@
+h the circles of confusion will be small enough that the images will be
+reasonably sharp. This is called the depth of field. For a sensor or film width of
+36 mm (including 35-mm film cameras), the depth of field is usually based on
+a maximum circle of confusion diameter of 0.030 mm, even 0.02 mm or 0.01 mm
+for critical work or very large photographs. The depth of field varies with the 
+lens opening. If the lens opening is smaller, only rays through the central part 
+of the lens are accepted, and these form smaller circles of confusion for a given
+object distance. Hence, at smaller lens openings, a greater range of object dis-
+tances will fit within the circle of confusion criterion, so the depth of field is greater.
+Smaller lens openings, however, result in reduced resolution due to diffraction
+(discussed later in this Chapter). Best resolution is typically found around 
+or
+.
+f8
+f5.6
+1f = 1do + 1di
+q
+716
+CHAPTER 25
+Optical Instruments
+FIGURE 25–6 Photos taken with a
+camera lens (a

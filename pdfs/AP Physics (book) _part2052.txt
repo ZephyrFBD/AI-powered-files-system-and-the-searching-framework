@@ -1,0 +1,19 @@
+eries with a resistor r,
+as shown in Fig. 19–1. Since this resistance r is inside the battery, we can never sepa-
+rate it from the battery. The two points a and b in Fig. 19–1 represent the two
+terminals of the battery. What we measure is the terminal voltage
+When no current is drawn from the battery, the terminal voltage equals the emf,
+which is determined by the chemical reactions in the battery:
+However,
+when a current I flows from the battery there is an internal drop in voltage 
+equal to Ir. Thus the terminal voltage (the actual voltage applied to a circuit) is
+[current I flows from battery] (19;1)
+For example, if a 12-V battery has an internal resistance of 
+then when 10 A
+flows from the battery, the terminal voltage is 
+The
+internal resistance of a battery is usually small. For example, an ordinary flashlight
+battery when fresh may have an internal resistance of perhaps 
+(However, as
+it ages and the electrolyte dries out, the internal resistance increases to many ohms.)
+0.05 .

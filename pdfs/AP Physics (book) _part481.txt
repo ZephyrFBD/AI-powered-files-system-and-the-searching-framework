@@ -1,0 +1,69 @@
+ where sliding
+would occur, by means of delicate sensors and a fast computer.
+54 kmh.
+AF
+frBmax = ms F
+N = (0.25)(9800 N) = 2450 N.
+AF
+frBmax = ms F
+N = (0.60)(9800 N) = 5880 N.
+F
+fr  ms F
+N
+ms = 0.60,
+(©F)R = maR = m v2
+r
+= (1000 kg) (15 ms)2
+(50 m)
+= 4500 N.
+F
+N = mg = (1000 kg)A9.80 ms2B
+= 9800 N.
+ 
+0 = ©F
+y = F
+N - mg
+F
+N
+F
+N
+ms = 0.25.
+ms = 0.60;
+15 ms (54 kmh).
+EXAMPLE 5;6
+mv2r
+116
+CHAPTER 5
+Circular Motion; Gravitation
+P H Y S I C S  A P P L I E D
+Antilock brakes
+(b)
+(a)
+g
+B
+N
+fr
+fr
+m
+F
+B
+F
+B
+F
+B
+FIGURE 5;13 Example 5–6.
+Forces on a car rounding a curve on
+a flat road. (a) Front view, (b) top
+view.
+FIGURE 5;12 Race car heading
+into a curve. From the tire marks 
+we see that most cars experienced a
+sufficient friction force to give them
+the needed centripetal acceleration
+for rounding the curve safely. But,
+we also see tire tracks of cars on
+which there was not sufficient
+force—and which unfortunately 
+followed more nearly straight-line
+paths.
+The banking of curves can redu

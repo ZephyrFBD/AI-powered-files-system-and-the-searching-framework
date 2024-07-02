@@ -1,0 +1,15 @@
+of diodes can be used to accurately regulate a voltage supply.
+A diode designed for this purpose is called a zener diode. When placed across 
+the output of an unregulated power supply, a zener diode can maintain the voltage
+at its own breakdown voltage as long as the supply voltage is always above this
+point. Zener diodes can be obtained corresponding to voltages of a few volts to
+hundreds of volts.
+A diode is called a nonlinear device because the current is not proportional
+to the voltage. That is, a graph of current versus voltage (Fig. 29–30) is not a
+straight line, as it is for a resistor (which ideally is linear).
+Rectifiers
+Since a pn junction diode allows current to flow only in one direction (as long 
+as the voltage is not too high), it can serve as a rectifier—to change ac into dc.
+A simple rectifier circuit is shown in Fig. 29–31a. The ac source applies a voltage
+across the diode alternately positive and negative. Only during half of each cycle
+will a current pass through the

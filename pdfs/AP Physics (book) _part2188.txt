@@ -1,0 +1,25 @@
+ (
+is the
+symbol for magnetic field.)
+B
+B
+Magnetic
+field
+I
+FIGURE 20–10 Right-hand rule 
+for determining the direction of the 
+magnetic field relative to the current 
+in a loop of wire.
+20–3 Force on an Electric Current in a
+Magnetic Field; Definition of 
+In Section 20–2 we saw that an electric current exerts a force on a magnet, such as
+a compass needle. By Newton’s third law, we might expect the reverse to be true
+as well: we should expect that a magnet exerts a force on a current-carrying wire.
+Experiments indeed confirm this effect, and it too was first observed by Oersted.
+Suppose a straight wire is placed in the magnetic field between the poles of a
+horseshoe magnet as shown in Fig. 20–11, where the vector symbol 
+represents
+the magnitude and direction of the magnetic field. When a current flows in the wire,
+experiment shows that a force is exerted on the wire. But this force is not toward
+one or the other pole of the magnet. Instead, the force is directed at right angles
+to the 

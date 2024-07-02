@@ -1,0 +1,24 @@
+= 6.01 kJ
+∆H = 0.91 kJ + 6.01 kJ + 7.52 kJ + 40.7 kJ + 0.83 kJ = 56.0 kJ
+SOLUTION
+Sample Exercise 11.3 
+Calculating ∆H for Temperature and Phase Changes
+For line BC in Figure 11.22, in which we convert ice to water at 
+0 °C, we can use the molar enthalpy of fusion directly:
+The enthalpy changes for lines CD, DE, and EF can be calculated 
+in similar fashion:
+The total enthalpy change is the sum of the changes of the  
+individual steps:
+Check The components of the total enthalpy change are reason-
+able relative to the horizontal lengths (heat added) of the lines 
+in Figure 11.22. Notice that the largest component is the heat of 
+vaporization.
+ 
+▶Practice Exercise 1
+What information about water is needed to calculate the 
+enthalpy change for converting 1 mol H2O1g2 at 100 °C to 
+H2O1l2 at 80 °C?
+(a) heat of fusion (b) heat of vaporization (c) heat of vapor-
+ization and specific heat of H2O1g2 (d) heat of vaporization 
+and specific heat of H2O1l2 (e) heat of fusion and specific 
+heat of H2

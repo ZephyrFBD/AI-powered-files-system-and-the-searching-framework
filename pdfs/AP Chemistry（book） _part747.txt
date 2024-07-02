@@ -1,0 +1,18 @@
+ the heat evolved in the reaction, qrxn:
+ 
+qrxn = -Ccal * ∆T 
+[5.23]
+Because reactions in a bomb calorimeter are carried out at constant volume, the heat 
+transferred corresponds to the change in internal energy, ∆E, rather than the change in 
+enthalpy, ∆H (Equation 5.13). For most reactions, however, the difference between ∆E 
+and ∆H is very small. For the reaction discussed in Sample Exercise 5.7, for example, the 
+difference between ∆E and ∆H is about 1 kJ>mol:a difference of less than 0.1%. It is 
+possible to calculate ∆H from ∆E, but we need not concern ourselves with how these 
+small corrections are made.
+ 
+Sample Exercise 5.7 
+Measuring qrxn Using a Bomb Calorimeter
+The combustion of methylhydrazine 1CH6N22, a liquid rocket fuel, produces N21g2, CO21g2, and H2O1l2:
+2 CH6N21l2 + 5 O21g2 ¡  2 N21g2 + 2 CO21g2 + 6 H2O1l2
+When 4.00 g of methylhydrazine is combusted in a bomb calorimeter, the temperature of the calorimeter increases from 25.00 
+to 39.50 °C. In a separate experiment t

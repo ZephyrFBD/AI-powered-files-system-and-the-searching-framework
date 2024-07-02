@@ -1,0 +1,15 @@
+tructure shown (and 
+the similar one that has a triple bond to the left O and a single bond to the right O) con-
+tribute to the actual structure to a much smaller extent.
+Although the concept of formal charge helps us to arrange alternative Lewis struc-
+tures in order of importance, it is important to remember that formal charges do not rep-
+resent real charges on atoms. These charges are just a bookkeeping convention. The actual 
+charge distributions in molecules and ions are determined not by formal charges but by a 
+number of other factors, including electronegativity differences between atoms.
+Give It Some Thought
+Suppose a Lewis structure for a neutral fluorine-containing molecule results in a 
+formal charge of +1 on the fluorine atom. What conclusion would you draw?
+Three possible Lewis structures for the thiocyanate ion, NCS-, are
+(a) Neutral N, C, and S atoms have five, four, and six valence electrons, 
+respectively. We can determine the formal charges in the three 
+structures 

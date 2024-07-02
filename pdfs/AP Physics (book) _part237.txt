@@ -1,0 +1,20 @@
+ring the length of the corresponding arrow and using the scale
+shown
+When we write the symbol for a vector, we will always use boldface type, with a
+tiny arrow over the symbol. Thus for velocity we write 
+If we are concerned only
+with the magnitude of the vector, we will write simply v, in italics, as we do for
+other symbols.
+3–2 Addition of Vectors—Graphical
+Methods
+Because vectors are quantities that have direction as well as magnitude, they must
+be added in a special way. In this Chapter, we will deal mainly with displacement
+vectors, for which we now use the symbol 
+and velocity vectors,
+But the results
+will apply for other vectors we encounter later.
+We use simple arithmetic for adding scalars. Simple arithmetic can also be
+used for adding vectors if they are in the same direction. For example, if a 
+person walks 8 km east one day, and 6 km east the next day, the person will be
+east of the point of origin. We say that the net or resultant
+displacement is 14 km to the east (Fig. 3–

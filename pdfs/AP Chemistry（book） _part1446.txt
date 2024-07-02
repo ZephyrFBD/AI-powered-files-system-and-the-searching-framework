@@ -1,0 +1,31 @@
+gure
+What would happen to the energy of the s
+1s MO if the  
+H atoms in H2 were pulled apart to a distance twice as long  
+as its normal bond length?
+Energy
+Antibonding MO vacant
+H atom
+H2 molecule
+H atom
+1s
+1s
+1s
+s1s
+2
+s1s
+s
+▲ Figure 9.32 Energy-level diagram and electron configuration for H2.
+Bond Order
+In molecular orbital theory, the stability of a covalent bond is related to its bond order, 
+defined as half the difference between the number of bonding electrons and the number 
+of antibonding electrons:
+  Bond 
+order = 1
+2 1number of bonding electrons - number of antibonding electrons2 
+[9.1]
+We take half the difference because we are used to thinking of bonds as pairs of elec-
+trons. A bond order of 1 represents a single bond, a bond order of 2 represents a double bond, and 
+a bond order of 3 represents a triple bond. Because MO theory also treats molecules contain-
+ing an odd number of electrons, bond orders of 1>2, 3>2, or 5>2 are possible.
+Let’s now consider the bond order in H

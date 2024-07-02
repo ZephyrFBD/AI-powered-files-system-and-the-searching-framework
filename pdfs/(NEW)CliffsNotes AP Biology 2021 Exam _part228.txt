@@ -1,0 +1,15 @@
+mit growth or
+influence the start of a new cell division, as follows:
+1. Surface-to-volume ratio (S/V). When a cell grows, the volume of a
+cell increases faster than the surface area of the plasma membrane enclosing it. This is because volume increases by
+the cube of the radius
+(volume of a sphere
+ 
+, where r is the radius), whereas the surface
+area increases by only the square of the radius (surface area = 4π r2). When S/V is large, the surface area is large
+relative to the volume. Under these conditions, the cell can efficiently react with the outside environment. For
+example, adequate amounts of oxygen (for respiration) can diffuse into the cell, and waste products can be rapidly
+eliminated. When S/V is small, the surface area is small compared to the volume. When this occurs, the surface area
+might be unable to exchange enough substances with the outside environment to service the large volume of the cell.
+At this point, cell growth stops or cell division begins.
+2. Genome-to-volum

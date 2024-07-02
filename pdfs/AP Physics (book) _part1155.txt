@@ -1,0 +1,82 @@
+energy for a mass–spring system, Eqs.11–3
+and 11–4.
+SOLUTION (a) With
+and
+the total energy E from
+Eq. 11–4a is
+(b) At
+we have
+By conservation of energy, the kinetic energy must be
+ke = E - pe = 7.35 * 10–2 J.
+pe =
+1
+2 kx2 =
+1
+2 (19.6 Nm)(0.050 m)2 = 2.45 * 10–2 J.
+x = A2 = 0.050 m,
+E =
+1
+2 kA2 =
+1
+2 (19.6 Nm)(0.100 m)2 = 9.80 * 10–2 J.
+A = 0.100 m,
+k = 19.6 Nm
+(x = &A2).
+EXAMPLE 11;5
+amax = F
+max
+m
+= kA
+m
+=
+(19.6 Nm)(0.100 m)
+0.300 kg
+= 6.53 ms2.
+x = A = 0.100 m.
+F = ma.
+v = vmax B1 - x2
+A2
+= (0.808 ms) C1 -
+(0.050 m)2
+(0.100 m)2
+= 0.700 ms.
+vmax = A B
+k
+m
+= (0.100 m) B
+19.6 Nm
+0.300 kg
+= 0.808 ms.
+vmax
+A = 0.100 m.
+1
+2 mvmax
+2
++ 0 = 0 + 1
+2 kA2,
+vmax
+A = 0.100 m.
+k =
+F
+x0
+= mg
+x0
+=
+(0.300 kg)A9.80 ms2B
+0.150 m
+= 19.6 Nm.
+F = ma.
+k = mgx0 .
+mg - kx0 ,
+©F = 0 =
+amax
+vmax;
+EXAMPLE 11;4
+SECTION 11–2
+Energy in Simple Harmonic Motion
+297
+1
+1–3 The Period and 
+Sinusoidal Nature of SHM
+The period of a simple harmonic oscillator is found to depend on the stiffness of
+the spring a

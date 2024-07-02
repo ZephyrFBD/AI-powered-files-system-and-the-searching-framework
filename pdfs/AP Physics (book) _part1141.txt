@@ -1,0 +1,17 @@
+ of
+returning the mass to the equilibrium position; hence it is called a restoring force.
+We consider the common situation where we can assume the restoring force F
+is directly proportional to the displacement x the spring has been stretched 
+(Fig. 11–1b) or compressed (Fig. 11–1c) from the equilibrium position:
+[force exerted by spring]
+(11;1)
+Note that the equilibrium position has been chosen at
+and the minus sign
+in Eq. 11–1 indicates that the restoring force is always in the direction opposite 
+to the displacement x. For example, if we choose the positive direction to the
+right in Fig. 11–1, x is positive when the spring is stretched (Fig. 11–1b), but the
+direction of the restoring force is to the left (negative direction). If the spring 
+is compressed, x is negative (to the left) but the force F acts toward the right
+(Fig. 11–1c).
+Equation 11–1 is often referred to as Hooke’s law (Sections 6–4 and 9–5), and
+is accurate only if the spring is not compressed to where the coils are cl

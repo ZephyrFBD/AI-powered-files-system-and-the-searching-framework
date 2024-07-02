@@ -1,0 +1,12 @@
+r data given to you in the problem.
+Problems that Involve a Dihybrid Cross
+A dihybrid cross looks at the result when two organisms (that are both heterozygous for the same two traits) are
+crossed. When solving dihybrid crosses, math is your friend! Treat each trait separately, find the probabilities of
+each outcome for each trait, and use the laws of probability to solve the problem.
+Refer to the Appendix of this book for the relevant probability equations (and those same equations will be supplied to you on test day). The
+probability of two independent events occurring simultaneously is the product of their individual probabilities:
+Try the following example. Two pea plants that are both heterozygous for purple flower color and plant height
+are crossed. The genotypes of the parents are PpTt × PpTt.
+Recall from the monohybrid cross of Pp × Pp (Figure 13.1) that the probability of offspring with purple flowers
+is  and the probability of offspring with white flowers is .
+Also recall from

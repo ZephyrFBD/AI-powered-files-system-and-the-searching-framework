@@ -1,0 +1,52 @@
+s of pKa and pKb by 
+taking the negative logarithm of both sides:
+ 
+pKa + pKb = pKw = 14.00 at 25 °C 1conjugate acid9base pair2 
+[16.42]
+Give It Some Thought
+Ka for acetic acid is 1.8 * 10-5. What is the first digit of the pKa value for acetic acid?
+TABLE 16.5 Some Conjugate Acid–Base Pairs
+Acid
+Ka
+Base
+Kb
+HNO3
+(Strong acid)
+NO3
+-
+(Negligible basicity)
+HF
+6.8 * 10-4
+F -
+1.5 * 10-11
+CH3COOH
+1.8 * 10-5
+CH3COO-
+5.6 * 10-10
+H2CO3
+4.3 * 10-7
+HCO3
+-
+2.3 * 10-8
+NH4
++
+5.6 * 10-10
+NH3
+1.8 * 10-5
+HCO3
+-
+5.6 * 10-11
+CO3
+2-
+1.8 * 10-4
+OH-
+(Negligible acidity)
+O2 -
+(Strong base)
+Many low-molecular-weight amines have a fishy odor. Amines and NH3 
+are produced by the anaerobic (absence of O2) decomposition of dead 
+animal or plant matter. Two such amines with very disagreeable aromas 
+are H2N1CH224NH2, putrescine, and H2N1CH225NH2, cadaverine. The 
+names of these substances are testaments to their repugnant odors!
+Many drugs, including quinine, codeine, caffeine, and amphet-
+amine, are amines. Like o

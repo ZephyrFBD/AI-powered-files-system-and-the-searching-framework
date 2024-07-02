@@ -1,0 +1,15 @@
+particle moving in a plane perpendicular to a uniform
+magnetic field is a circle as we shall now show. In Fig. 20–17 the magnetic field is
+directed into the paper, as represented by :’s. An electron at point P is moving to
+the right, and the force on it at this point is toward the bottom of the page as
+shown (use the right-hand rule and reverse the direction for negative charge).
+The electron is thus deflected toward the page bottom. A moment later, say,
+when it reaches point Q, the force is still perpendicular to the velocity and is in
+the direction shown. Because the force is always perpendicular to 
+the mag-
+nitude of 
+does not change—the electron moves at constant speed. We saw in
+Chapter 5 that if the force on a particle is always perpendicular to its velocity 
+the particle moves in a circle and has a centripetal acceleration of magnitude
+(Eq. 5–1). Thus a charged particle moves in a circular path with a
+constant magnitude of centripetal acceleration in a uniform magnetic field (s

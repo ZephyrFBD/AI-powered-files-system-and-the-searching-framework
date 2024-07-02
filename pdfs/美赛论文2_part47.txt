@@ -1,0 +1,21 @@
+remain unchanged. In fact, the relationships between λ 
+and t, μ and t will change with time goes by. Consequently, we will spare 
+much more effort to determine the concrete relationships between λ and t, 
+μ and t in the future. 
+ The Delivery Model has only considered the situation that there is one 
+treatment center in one country. But in fact, there can be no or more than 
+one treatment center in one country. In the future we would improve our 
+model to make it be able to apply to more situations. 
+ 
+VI. The Non-technical Letter 
+ 
+WMA Announcement on Ebola Treatment 
+9 February 2015 
+ 
+Ladies and gentlemen: 
+The outbreak of Ebola Virus Disease (EVD) in West Africa is a crisis, which is 
+unprecedented in its size, severity, and complexity. Up to 1 February 2015, a total of 
+22,495 people have been reported confirmed, probable, and suspected cases of EVD 
+in Guinea, Liberia and Sierra Leone, with 8,981 reported deaths.  
+ 
+Ebola spreads through contact with the blood or other fluids

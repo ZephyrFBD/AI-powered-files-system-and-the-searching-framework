@@ -1,0 +1,29 @@
+mperature increases (positive ∆T). 
+Rearranging Equation 5.20, we get
+ 
+q = Cs * m * ∆T 
+[5.21]
+Thus, we can calculate the quantity of heat a substance gains or loses by using its specific 
+heat together with its measured mass and temperature change.
+Table 5.2 lists the specific heats of several substances. Notice that the specific heat of 
+liquid water is higher than those of the other substances listed. The high specific heat of 
+water affects Earth’s climate because it makes the temperatures of the oceans relatively 
+resistant to change.
+Give It Some Thought
+Which substance in Table 5.2 undergoes the greatest temperature change when the 
+same mass of each substance absorbs the same quantity of heat?
+1.000 g H2O(l)
+Tfinal 5 15.5 °C
+1.000 g H2O(l)
+Tinitial 5 14.5 °C
+1 4.184 J (1 cal)
+of heat
+▲ Figure 5.17 Specific heat of water.
+Go Figure
+Is the process shown in the figure 
+endothermic or exothermic?
+TABLE 5.2 Specific Heats of Some Substances at 298 K
+Elements
+Compounds
+Substance
+Spe

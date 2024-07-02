@@ -1,0 +1,72 @@
+
+–mgh
+W
+G = mg(–d cos u)
+cos(180° - u) = –cos u
+W
+G = mg d cos(180° - u).
+u.
+= (147 N)(10.0 m) = 1470 J.
+W
+H = F
+H(d cos u) = F
+Hh = mgh
+d cos u = h.
+W
+H = F
+H(d cos u),
+u
+F
+H = mg = (15.0 kg)A9.80 ms2B = 147 N.
+F
+H - mg = 0.
+©F
+y = may
+ay = 0
+F
+B
+H,
+mg
+B,
+h = 10.0 m,
+EXAMPLE 6;2
+P R O B L E M  S O L V I N G
+Work done by gravity depends on 
+height of hill (not on angle)
+y
+x
+θ
+(a)
+(b)
+h
+θ
+θ
+(c)
+θ
+180° −
+m
+m
+H
+H
+F
+B
+F
+B
+g
+B
+g
+B
+d
+B
+d
+B
+FIGURE 6–4 Example 6–2.
+Does the Earth do work on the Moon?
+The Moon revolves around the Earth in a nearly circular orbit, kept there by the
+gravitational force exerted by the Earth. Does gravity do (a) positive work,
+(b) negative work, or (c) no work on the Moon?
+RESPONSE The gravitational force 
+exerted by the Earth on the Moon 
+(Fig. 6–5) acts toward the Earth and provides its centripetal acceleration, inward
+along the radius of the Moon’s orbit. The Moon’s displacement at any moment is
+tangent to the circle, in the direction of its velocity, perpendic

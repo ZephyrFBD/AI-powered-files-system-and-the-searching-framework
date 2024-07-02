@@ -1,0 +1,19 @@
+two molecules of water, 3 H2O means three molecules of water, and so forth.
+*Lavoisier, Antoine. “Elements of Chemistry.” 1790.
+ 
+SECTION 3.1   
+Chemical Equations 
+85
+A Step-by-Step Example of Balancing a Chemical Equation 
+To illustrate the process of balancing an equation, consider the reaction that occurs when 
+methane 1CH42, the principal component of natural gas, burns in air to produce carbon 
+dioxide gas 1CO22 and water vapor 1H2O2 (Figure 3.4). Both products contain oxygen at-
+oms that come from O2 in the air. Thus, O2 is a reactant, and the unbalanced equation is
+ 
+CH4 + O2 ¡ CO2 + H2O 1unbalanced2 
+[3.2] 
+It is usually best to balance first those elements that occur in the fewest chemical 
+formulas in the equation. In our example, C appears in only one reactant 1CH42 and one 
+product 1CO22. The same is true for H 1CH4 and H2O2. Notice, however, that O appears 
+in one reactant 1O22 and two products 1CO2 and H2O2. So, let’s begin with C. Because 
+one molecule of CH4 contains t

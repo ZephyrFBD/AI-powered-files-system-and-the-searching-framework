@@ -1,0 +1,16 @@
+l21g2, the equi-
+librium constant Kp is 0.497 at 500 K. A gas cylinder at 500 K is 
+charged with PCl51g2 at an initial pressure of 1.66 atm. What 
+are the equilibrium pressures of PCl5, PCl3, and Cl2 at this 
+temperature?
+15.7 ∣ Le Châtelier’s Principle
+Many of the products we use in everyday life are obtained from the chemical industry. 
+Chemists and chemical engineers in industry spend a great deal of time and effort to 
+maximize the yield of valuable products and minimize waste. For example, when Haber 
+developed his process for making ammonia from N2 and H2, he examined how reaction 
+conditions might be varied to increase yield. Using the values of the equilibrium con-
+stant at various temperatures, he calculated the equilibrium amounts of NH3 formed 
+under a variety of conditions. Some of Haber’s results are shown in Figure 15.10.
+Notice that the percent of NH3 present at equilibrium decreases with increasing 
+temperature and increases with increasing pressure.
+We can understand t

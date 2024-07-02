@@ -1,0 +1,110 @@
+dd these two equations together and find
+This means  
+or
+This is Eq. 7–3. The total momentum is conserved.
+We have put this derivation in the context of a collision. As long as no exter-
+nal forces act, it is valid over any time interval, and conservation of momentum is
+always valid as long as no external forces act on the chosen system. In the real world,
+external forces do act: friction on billiard balls, gravity acting on a tennis ball, and so
+on. So we often want our “observation time” (before and after) to be small.
+When a racket hits a tennis ball or a bat hits a baseball, both before and after the
+“collision”the ball moves as a projectile under the action of gravity and air resistance.
+p
+Bœ
+A + p
+B
+B
+œ
+= p
+B
+A + p
+B
+B.
+p
+B
+B
+œ - p
+B
+B + p
+B
+A
+œ - p
+B
+A = 0,
+0 =
+¢p
+B
+B + ¢p
+B
+A
+¢t
+=
+Ap
+B
+B
+œ
+- p
+B
+BB + Ap
+B
+A
+œ
+- p
+B
+AB
+¢t
+.
+–F
+B =
+¢p
+B
+A
+¢t
+= p
+Bœ
+A - p
+B
+A
+¢t
+.
+F
+B =
+¢p
+B
+B
+¢t
+= p
+Bœ
+B - p
+B
+B
+¢t
+¢t
+F
+B
+–F
+B.
+F
+B.
+p
+B
+B
+œ
+p
+B
+A
+œ
+p
+B
+B A= mBv
+B
+BB
+p
+B
+A A= mAv
+B
+AB
+mB
+mA
+C ©F
+B

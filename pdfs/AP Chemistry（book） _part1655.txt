@@ -1,0 +1,20 @@
+face 
+of the water when the atmospheric pressure is 742 torr?
+ 10.19  The typical atmospheric pressure on top of Mount Everest 
+ 
+129,028 ft2 is about 265 torr. Convert this pressure to (a) atm, 
+(b) mm Hg, (c) pascals, (d) bars, (e) psi.
+ 10.20  Perform the following conversions: (a) 0.912 atm to torr, 
+ 
+(b) 0.685 bar to kilopascals, (c) 655 mm Hg to atmospheres, 
+(d) 1.323 * 105 Pa to atmospheres, (e) 2.50 atm to psi.
+ 10.21  In the United States, barometric pressures are generally reported 
+in inches of mercury (in. Hg). On a beautiful summer day in 
+Chicago, the barometric pressure is 30.45 in. Hg. (a) Convert 
+this pressure to torr. (b) Convert this pressure to atm.
+ 10.22  Hurricane Wilma of 2005 is the most intense hurricane on 
+record in the Atlantic basin, with a low-pressure reading of 
+882 mbar (millibars). Convert this reading into (a) atmo-
+spheres, (b) torr, and (c) inches of Hg.
+ 10.23  If the atmospheric pressure is 0.995 atm, what is the pressure 
+of the enclosed gas 

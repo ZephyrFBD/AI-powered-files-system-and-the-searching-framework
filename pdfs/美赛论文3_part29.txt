@@ -1,0 +1,19 @@
+e
+Trying to maintaining the best temperature as long as possible, which is also the
+initial temperature, aims to let people have the most comfort. Once the temperature is
+away from the best temperature, which is also the initial temperature, people will feel
+less comfortable or even bad. For this, we use ‘Suffering degree’ to describe the level
+people feel uncomfortable with the temperature of the water in the bathtub. There is
+one thing we have to mention is that ‘suffering degree’ does not mean that the user
+feels uncomfortable and bad. Once the user’s feeling is away from the best comfort,
+the ‘suffering degree’ will be positive instead of zero.
+From Weber-Fechner law, we know that the feeling intensity is proportional to
+the common logarithm of stimulus intensity. Hence, we use the common logarithm of
+temperature difference to evaluate the ‘suffering degree’. We will use D to represent
+the ‘suffering degree’.
+3.2 Body feeling model
+3.2.1 Variable declaration
+Symbol
+Definition
+31
+t

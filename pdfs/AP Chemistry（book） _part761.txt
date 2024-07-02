@@ -1,0 +1,31 @@
+ you should go back over the 
+numerical manipulations of the ∆H values to ensure that you did 
+not make an inadvertent error with signs.
+ 
+▶Practice Exercise 1
+Calculate ∆H for the reaction
+C1s2 + H2O1g2 ¡  CO1g2 + H21g2
+given the following thermochemical equations:
+C1s2 + O21g2 ¡ CO21g2       ∆H1 = -393.5 kJ 
+2 CO1g2 + O21g2 ¡ 2 CO21g2     
+∆H2 = -566.0 kJ 
+2 H21g2 + O21g2 ¡ 2 H2O1g2     
+∆H3 = -483.6 kJ
+(a) -1443.1 kJ (b) -918.3 kJ (c) 131.3 kJ (d) 262.6 kJ (e) 656.1 kJ
+ 
+▶Practice Exercise 2
+Calculate ∆H for the reaction
+NO1g2 + O1g2 ¡  NO21g2
+given the following information:
+NO1g2 + O31g2 ¡  NO21g2 + O21g2    ∆H = -198.9 kJ 
+      O31g2 ¡  3
+2 O21g2       ∆H = -142.3 kJ
+     O21g2 ¡  2 O1g2        ∆H = 495.0 kJ
+186 
+CHAPTER 5 Thermochemistry
+The key point of these examples is that H is a state function. 
+ 
+Because H is a state function, for a particular set of reactants and 
+products, ∆H is the same whether the reaction takes place in one step 
+or in a series of steps. 
+We reinforc

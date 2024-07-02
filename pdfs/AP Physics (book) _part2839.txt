@@ -1,0 +1,14 @@
+ a crystal did indeed show the peaks and valleys of a diffraction pattern
+(Fig. 25–37). Thus it was shown, in a single blow, that X-rays have a wave nature
+and that atoms are arranged in a regular way in crystals. Today, X-rays are
+recognized as electromagnetic radiation with wavelengths in the range of about
+to 10 nm, the range readily produced in an X-ray tube.
+X-Ray Diffraction
+We saw in Sections 25–7 and 25–8 that light of shorter wavelength provides
+greater resolution when we are examining an object microscopically. Since
+X-rays have much shorter wavelengths than visible light, they should in principle
+offer much greater resolution. However, there seems to be no effective material
+to use as lenses for the very short wavelengths of X-rays. Instead, the clever but
+complicated technique of X-ray diffraction (or crystallography) has proved very
+effective for examining the microscopic world of atoms and molecules. In
+a simple crystal such as NaCl, the atoms are arranged in an orderly c

@@ -1,0 +1,15 @@
+ electrical insulators and are colorless (which 
+implies a large band gap). However, if the backbone of the polymer has resonance 
+ (Sections 8.6 and 9.6), the electrons can become delocalized over long distances, 
+which can lead to semiconducting behavior in the polymer. Such “plastic electronics” 
+are of great current interest for lightweight and flexible organic solar cells, organic tran-
+sistors, organic light-emitting diodes, and other devices that are based on carbon rather 
+than inorganic semiconductors like silicon (Figure 12.43).
+12.9 ∣ Nanomaterials
+The prefix nano means 10-9. 
+ (Section 1.4) When people speak of “nanotechnology,” 
+they usually mean making devices that are on the 1–100-nm scale. It turns out that the 
+properties of semiconductors and metals change in this size range. Nanomaterials—
+materials that have dimensions on the 1–100-nm scale—are under intense investiga-
+tion in research laboratories around the world, and chemistry plays a central role in this 
+invest

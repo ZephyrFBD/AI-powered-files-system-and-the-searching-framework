@@ -1,0 +1,45 @@
+ce equation. All the forces are in the y (vertical) direction, so
+where
+and
+.
+F
+B = mBg
+F
+A = mAg
+©F
+y = 0
+F
+N - mAg - mBg - Mg = 0,
+A= Mg
+BB
+F
+B
+N,
+F
+B
+B,
+F
+B
+A
+M = 4.0 kg
+EXAMPLE 9;4
+4. Torque equation. Let us calculate the torque about an axis through the board
+at the pivot point, P
+. Then the lever arms for 
+and for the weight of the
+board are zero, and they will contribute zero torque about point P. Thus the
+torque equation will involve only the forces 
+and 
+which are equal to
+the weights of the children. The torque exerted by each child will be mg times
+the appropriate lever arm, which here is the distance of each child from the
+pivot point.
+tends to rotate the board counterclockwise 
+and 
+clockwise 
+, so the torque equation is
+or
+where two terms were dropped because their lever arms were zero.
+5. Solve. We solve the torque equation for x and find
+To balance the seesaw, child B must sit so that her CG is 3.0 m from the pivot
+point. This makes sense: since she is lighter, she must

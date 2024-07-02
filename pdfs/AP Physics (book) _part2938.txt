@@ -1,0 +1,19 @@
+nd time
+are intimately connected. Just as when we squeeze a balloon we make one
+dimension larger and another smaller, so when we examine objects and events
+from different reference frames, a certain amount of space is exchanged for time,
+or vice versa.
+SECTION 26–7
+Relativistic Momentum
+759
+Although the idea of four dimensions may seem strange, it refers to the idea
+that any object or event is specified by four quantities—three to describe where
+in space, and one to describe when in time. The really unusual aspect of four-
+dimensional space–time is that space and time can intermix: a little of one can be
+exchanged for a little of the other when the reference frame is changed.
+[In Galilean–Newtonian relativity, the time interval between two events,
+and the distance between two events or points,
+are invariant quantities no
+matter what inertial reference frame they are viewed from. Neither of these
+quantities is invariant according to Einstein’s relativity. But there is an invariant
+quant

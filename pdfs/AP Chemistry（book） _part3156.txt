@@ -1,0 +1,53 @@
+ns that would otherwise be 
+non-spontaneous.
+What’S ahEad
+850
+20.1 ∣  
+Oxidation States and Oxidation–
+Reduction Reactions
+We determine whether a given chemical reaction is an oxidation–reduction reaction 
+by keeping track of the oxidation numbers (oxidation states) of the elements involved in 
+the reaction. 
+ (Section 4.4) This procedure identifies whether the oxidation number 
+changes for any elements involved in the reaction. For example, consider the net reac-
+tion that occurs spontaneously when zinc metal is added to a strong acid (Figure 20.1):
+ 
+Zn1s2 + 2 H+1aq2 ¡  Zn2+1aq2 + H21g2 
+[20.1]
+Assigning oxidation numbers to all species in the reaction, we have
+ 
+Zn(s)
+Zn2+(aq)
+H2(g)
+0
+0
++2
++1
++
+2 H+(aq)
++
+H+ reduced
+Zn oxidized
+ 
+[20.2]
+Go Figure
+Is this reaction exothermic or endothermic?
+Zn(s)
+2 HCl(aq)
++
+ZnCl2(aq)
+2+
+−
+−
+−
++
+H2(g)
++
++
+−
+▲ Figure 20.1 Oxidation of zinc by hydrochloric acid.
+ 
+SECTION 20.1   
+Oxidation States and Oxidation–Reduction Reactions 
+851
+The oxidation num

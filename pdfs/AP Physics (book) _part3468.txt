@@ -1,0 +1,24 @@
+hese very high tempera-
+tures); the first reaction can be written as
+where
+proton and
+deuteron. The net effect of this sequence, which is
+called the proton;proton chain, is for four protons to combine to form one 
+nucleus plus two positrons, two neutrinos, and two gamma rays:
+(31;7)
+Note that it takes two of each of the first two reactions (Eqs.31–6a and b) to produce
+the two 
+for the third reaction. So the total energy release for the net reaction,
+Eq. 31–7, is
+In addi-
+tion, each of the two 
+(Eq.31–6a) quickly annihilates with an electron to produce
+rays (Section 27–6) with total energy
+so the total energy
+released is
+The first reaction, the
+formation of deuterium from two protons (Eq. 31–6a), has a very low probability,
+and so limits the rate at which the Sun produces energy. (Thank goodness! This 
+is why the Sun is still shining brightly.)
+EXERCISE D Return to the Chapter-Opening Question, page 885, and answer it again
+now. Try to explain why you may have answered it differently th

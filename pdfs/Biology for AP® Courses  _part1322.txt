@@ -1,0 +1,13 @@
+d Heredity
+485
+the expression of two contrasting alleles such that the individual displays an intermediate phenotype. The allele for red
+flowers is incompletely dominant over the allele for white flowers. However, the results of a heterozygote self-cross can still
+be predicted, just as with Mendelian dominant and recessive crosses. In this case, the genotypic ratio would be 1 CRCR:2
+CRCW:1 CWCW, and the phenotypic ratio would be 1:2:1 for red:pink:white.
+Figure 12.7 These pink flowers of a heterozygote snapdragon result from incomplete dominance. (credit:
+“storebukkebruse”/Flickr)
+Codominance
+A variation on incomplete dominance is codominance, in which both alleles for the same characteristic are simultaneously
+expressed in the heterozygote. An example of codominance is the MN blood groups of humans. The M and N alleles
+are expressed in the form of an M or N antigen present on the surface of red blood cells. Homozygotes (LMLM and
+LNLN) express either the M or the N allele, and heterozy

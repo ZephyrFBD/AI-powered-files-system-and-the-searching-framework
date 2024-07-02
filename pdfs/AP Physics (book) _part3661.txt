@@ -1,0 +1,38 @@
+–?
+p± S m± + nm.
+p±
+p– + p S p + e– + Re
+p± + p S ©0 + p0
+p– + p S ¶0 + K0 + p0
+p± + p S K± + ©±
+p– + p S K± + ©–
+p± S e± + ne
+K± S p0 + p0 + p±
+K± + n S ©± + p0 + g
+K– + p S ¶0 + p0
+p– + p S K0 + p + p0
+54. Calculate the Q-value for the reaction
+when negative pions strike stationary protons. Estimate
+the minimum pion kinetic energy needed to produce this
+reaction. [Hint: Assume 
+and 
+move off with the same
+velocity.]
+55. A proton and an antiproton annihilate each other at rest
+and produce two pions,
+and 
+What is the kinetic
+energy of each pion?
+56. For the reaction
+where one of the ini-
+tial protons is at rest, use relativistic formulas to show that
+the threshold energy is 
+equal to three times the
+magnitude of the Q-value of the reaction, where 
+is the
+proton mass. [Hint: Assume all final particles have the
+same velocity.]
+57. At about what kinetic energy (in eV) can the rest energy
+of a proton be ignored when calculating its wavelength, if
+the wavelength is to be within 
+of its true

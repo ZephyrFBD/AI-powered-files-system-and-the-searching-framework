@@ -1,0 +1,66 @@
+ human.
+*
+A1 cP = 10–2 P = 10–3 Pa # sB.
+dyne # scm2,
+Apascal # secondB.
+N # sm2 = Pa # s
+h
+h = FlvA.
+h,
+F = hA v
+l
+.
+h:
+F r vAl.
+l,
+vl
+h
+*
+Moving plate
+Stationary plate
+Fluid
+Velocity
+gradient
+F
+l
+v
+B
+FIGURE 10–31 Determination of
+viscosity.
+TABLE 10–3
+Coefficients of Viscosity
+Fluid
+Coefficient
+(temperature 
+of Viscosity,
+in °C)
+†
+Water (0°)
+(20°)
+(100°)
+Whole blood (37°)
+Blood plasma (37°)
+Ethyl alcohol (20°)
+Engine oil (30°) 
+(SAE 10)
+Glycerine (20°)
+Air (20°)
+Hydrogen (0°)
+Water vapor (100°)
+†1 Pa # s = 10 poise (P) = 1000 cP.
+0.013 * 10–3
+0.009 * 10–3
+0.018 * 10–3
+1500 * 10–3
+200 * 10–3
+1.2 * 10–3
+L 1.5 * 10–3
+L 4 * 10–3
+0.3 * 10–3
+1.0 * 10–3
+1.8 * 10–3
+H (Pa # s)
+‡The Society of Automotive Engineers assigns numbers to represent the viscosity of oils: 30-weight
+(SAE 30) is more viscous than 10-weight. Multigrade oils, such as 20–50, are designed to maintain
+viscosity as temperature increases; 20–50 means the oil acts like 20-weight when cool and is like 
+50-weight when it is

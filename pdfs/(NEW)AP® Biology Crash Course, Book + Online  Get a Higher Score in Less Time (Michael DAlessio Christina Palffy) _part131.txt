@@ -1,0 +1,47 @@
+= frequency of aa
+2pq = frequency of Aa
+Keep in mind: the combined gene frequency must be 100% so that p + q = 1.
+Sample Problem #1: Assume a population of 500 pea plants in which green is dominant to yellow. Use the
+chart below to see how to calculate the frequencies of all phenotypes.
+A = green, a = yellow
+Phenotype
+Green
+Green
+Yellow
+Genotype
+AA
+Aa
+aa
+Number of pea
+plants (total = 500)
+320
+160
+20
+Genotypic
+frequencies
+320/500 = 0.64 AA
+160/500 = 0.32
+Aa
+20/500 = 0.04 aa
+Number of alleles
+in gene pool
+320 x 2 = 640 A
+160 A + 160 a
+= 320 A & a
+20 x 2 = 40 aa 40 a
+Allelic frequencies
+640 A + 160A = 800 A 800/1000 =
+160a + 40aa = 200 a 200/1000 = 0.2
+0.8A p = frequency of A = 0.8
+a q = frequency of a = 0.2
+p2 + 2pq + q2 = 1
+•
+p2 = frequency of AA = 0.8 3 0.8 = 0.64 = 64%
+•
+2pq = frequency of Aa = 2 3 0.8 3 0.2 = 0.32 = 32%
+•
+q2 = frequency of aa = 0.2 3 0.2 = 0.04 = 4%
+p + q = 1
+•
+0.8 + 0.2 = 1 (Always check to make sure these numbers equal 1.)
+Sample Problem #2: Assume that in a popula

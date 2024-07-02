@@ -1,0 +1,18 @@
+olfgang Pauli (right).
+FIGURE 28–1 Erwin Schrödinger with Lise Meitner
+(codiscoverers of nuclear fission, Chapter 31).
+For material particles such as electrons, quantum mechanics relates the 
+wavelength to momentum according to de Broglie’s formula,
+Eq. 27–8.
+But what corresponds to the amplitude or displacement of a matter wave? The ampli-
+tude of an electromagnetic wave is represented by the electric and magnetic fields,
+E and B. In quantum mechanics, this role is played by the wave function, which 
+is given the symbol 
+(the Greek capital letter psi, pronounced “sigh”). Thus 
+represents the wave displacement, as a function of time and position, of a new
+kind of field which we might call a “matter” field or a matter wave.
+To understand how to interpret the wave function 
+we make an analogy
+with light using the wave–particle duality.
+We saw in Chapter 11 that the intensity I of any wave is proportional to the
+square of the amplitude. This holds true for light waves as well, as we saw i

@@ -1,0 +1,41 @@
+te the value of Kp at 500 K.
+ 
+H21g2  +   I21g2  ∆  2 HI1g2
+Initial concentration (M)
+1.000 * 10-3
+2.000 * 10-3
+0
+Change in concentration (M)
+ 
+ 
+ 
+Equilibrium concentration (M)
+ 
+ 
+1.87 * 10-3
+SOLUTION
+(2) We calculate the change in HI concentra-
+tion, which is the difference between the 
+equilibrium and initial values:
+Change in 3HI4 = 1.87 * 10-3 M - 0 = 1.87 * 10-3 M
+(3) We use the coefficients in the balanced 
+equation to relate the change in 3HI4 to 
+the changes in 3H24 and 3I24:
+a1.87 * 10-3 mol HI
+L
+b a 1 mol H2
+2 mol HI b = 0.935 * 10-3 mol H2
+L
+a1.87 * 10-3 mol HI
+L
+b a 1 mol I2
+2 mol HI b = 0.935 * 10-3 mol I2
+L
+(4) We calculate the equilibrium concentra-
+tions of H2 and I2, using initial concentra-
+tions and changes in concentration. The 
+equilibrium concentration equals the ini-
+tial concentration minus that consumed:
+3H24 = 11.000 * 10-3 M2 - 10.935 * 10-3 M2 = 0.065 * 10-3 M
+   3I24 = 12.000 * 10-3 M2 - 10.935 * 10-3 M2 = 1.065 * 10-3 M
+(5) Our table now is complete (wit

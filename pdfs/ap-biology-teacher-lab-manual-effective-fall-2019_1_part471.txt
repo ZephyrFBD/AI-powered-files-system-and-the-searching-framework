@@ -1,0 +1,27 @@
+ phases. The cyclins 
+determine which processes in cell division are turned on or off and in what order by 
+CDK. As each cyclin is turned on or off, CDK causes the cell to move through the stages 
+in the cell cycle. 
+G1 
+G1
+G2
+S 
+Metaphase 
+Anaphase 
+G1 CDKs 
+S-phase CDKs 
+Mitotic CDKs 
+G1 CDKs 
+Figure 3. Levels of CDKs During the Cell Cycle 
+S84 Investigation 7 
+Bio_T_Lab07_04
+  
+ 
+Cyclins and CDKs do not allow the cell to progress through its cycle automatically. 
+There are three checkpoints a cell must pass through: the G1 checkpoint, G2 checkpoint, 
+and the M-spindle checkpoint (Figure 4). At each of the checkpoints, the cell checks 
+that it has completed all of the tasks needed and is ready to proceed to the next step in 
+its cycle. Cells pass the G1 checkpoint when they are stimulated by appropriate external 
+growth factors; for example, platelet-derived growth factor (PDGF) stimulates cells 
+near a wound to divide so that they can repair the injury. The G2 checkpoint checks 
+for

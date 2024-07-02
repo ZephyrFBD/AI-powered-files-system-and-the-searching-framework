@@ -1,0 +1,33 @@
+specific 
+wavelengths of light. “Flux,” the unit on the vertical axis, is light energy per area per unit of time.
+What is the maximum wavelength of light, in nanometers, that has enough energy per photon to dissociate the O2 molecule?
+Solve
+The dissociation energy of O2 is 495 kJ>mol. Using this value 
+and Avogadro’s number, we can calculate the amount of en-
+ergy needed to break the bond in a single O2 molecule:
+Analyze We are asked to determine the wavelength of a  
+photon that has just enough energy to break the O “O double 
+bond in O2.
+Plan We first need to calculate the energy required to break the 
+O “O double bond in one molecule and then find the wave-
+length of a photon of this energy.
+a495 * 103 
+J
+mol b a
+1 mol
+6.022 * 1023 molecules
+b
+= 8.22 * 10-19
+J
+molecule
+SOLUTION
+Sample Exercise 18.2 
+Calculating the Wavelength Required to Break a Bond
+ 
+SECTION 18.1   
+Earth’s Atmosphere 
+771
+Continued
+772 
+CHAPTER 18 Chemistry of the Environment
+Fortunately for us, O2 absorbs much o

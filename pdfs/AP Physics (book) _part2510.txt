@@ -1,0 +1,30 @@
+rror.) When a narrow beam of light shines on a mirror, the light 
+will not reach your eye unless your eye is positioned at just the right place where
+the law of reflection is satisfied, as shown in Fig. 23–4b. This is what gives rise to
+the special image-forming properties of mirrors.
+646
+CHAPTER 23
+Light: Geometric Optics
+FIGURE 23–3 Diffuse reflection
+from a rough surface.
+Eye at both
+positions sees
+reflected
+light
+The eye here
+does not see
+reflected light
+The eye here
+does see
+reflected light
+(a)
+(b)
+Source
+Source
+FIGURE 23–4 A narrow beam of light shines on (a) white paper, and (b) a mirror. In part (a),
+you can see with your eye the white light (and printed words) reflected at various positions
+because of diffuse reflection. But in part (b), you see the reflected light only when your eye is
+placed correctly 
+mirror reflection is also known as specular reflection. (Galileo, using
+similar arguments, showed that the Moon must have a rough surface rather than a highly
+polished surface

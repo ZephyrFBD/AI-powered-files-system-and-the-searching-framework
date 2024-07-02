@@ -1,0 +1,13 @@
+ nematic liquid crystal, the molecules are aligned so that their long axes tend 
+to point in the same direction but the ends are not aligned with one another. In smec-
+tic A and smectic C liquid crystals, the molecules maintain the long-axis alignment 
+seen in nematic crystals, but in addition they pack into layers.
+Two molecules that exhibit liquid crystalline phases are shown in Figure 11.33. 
+The lengths of these molecules are much greater than their widths. The double 
+bonds, including those in the benzene rings, add rigidity to the molecules, and the 
+rings, because they are flat, help the molecules stack with one another. The polar 
+—OCH3 and —COOH groups give rise to dipole–dipole interactions and promote 
+alignment of the molecules. Thus, the molecules order themselves quite natu-
+rally along their long axes. They can, however, rotate around their axes and slide 
+parallel to one another. In smectic liquid crystals, the intermolecular forces (disper-
+sion forces, dipole–dipole a

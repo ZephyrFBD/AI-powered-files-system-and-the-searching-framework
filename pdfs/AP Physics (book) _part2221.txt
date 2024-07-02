@@ -1,0 +1,24 @@
+. Such an
+iron-core solenoid is an electromagnet.
+Electromagnets have many practical applications, from use in motors and
+generators to producing large magnetic fields for research. Sometimes an iron
+core is not present—the magnetic field then comes only from the current in the
+wire coils. A large field B in this case requires a large current I, which produces a
+large amount of waste heat 
+But if the current-carrying wires are made
+of superconducting material kept below the transition temperature (Section 18–9),
+very high fields can be produced, and no electric power is needed to maintain 
+the large current in the superconducting coils. Energy is required, however, to
+refrigerate the coils at the low temperatures where they superconduct.
+AP = I2RB.
+B = m0NI
+l
+.
+l,
+P H Y S I C S  A P P L I E D
+Solenoids and electromagnets
+SECTION 20–8
+Ampère’s Law
+573
+Another useful device consists of a solenoid into which a rod of iron is
+partially inserted. This combination is also referred to as a so

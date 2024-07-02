@@ -1,0 +1,18 @@
+ther elements to avoid making the periodic table unduly wide. The properties 
+of the lanthanide elements are all quite similar, and these elements occur together in 
+nature. For many years it was virtually impossible to separate them from one another.
+Because the energies of the 4f and 5d orbitals are very close to each other, the elec-
+tron configurations of some of the lanthanides involve 5d electrons. For example, the 
+elements lanthanum (La), cerium (Ce), and praseodymium (Pr) have the following elec-
+tron configurations:
+3Xe46s25d1
+3Xe46s25d14f 1
+3Xe46s24f 3
+Lanthanum
+Cerium
+Praseodymium
+Because La has a single 5d electron, it is sometimes placed below yttrium (Y) as 
+the first member of the third series of transition elements; Ce is then placed as the first 
+member of the lanthanides. Based on its chemical properties, however, La can be con-
+sidered the first element in the lanthanide series. Arranged this way, there are fewer 
+apparent exceptions to the regular filling of the 4f

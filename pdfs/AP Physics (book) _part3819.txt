@@ -1,0 +1,24 @@
+at there are two solutions for x: one where the plus sign 
+is used, the other where the minus sign is used.
+Find the solutions for x in the equation
+APPROACH Here x appears both to the first power and squared, so we use 
+the quadratic equation.
+SOLUTION First we write this equation in the standard form
+by subtracting 2 from both sides:
+In this case, a, b, and c in the standard formula take the values
+and
+The two solutions for x are, using Eq.A–4,
+and
+In this Example, the two solutions are
+and
+In physics
+problems, it sometimes happens that only one of the solutions corresponds to a
+real-life situation; in this case, the other solution is discarded. In other cases,
+both solutions may correspond to physical reality.
+Notice, incidentally, that 
+must be greater than 4ac, so that
+yields a real number. If
+is less than zero (negative), there is no real
+solution. The square root of a negative number is called imaginary.
+A second-order equation—one in which the highest power of x is 2—has two
+so

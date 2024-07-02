@@ -1,0 +1,41 @@
+r the following questions. (a) What are the 
+approximate temperature and pressure of the critical point? 
+(b) What are the approximate temperature and pressure of 
+the triple point? (c) Is methane a solid, liquid, or gas at 1 
+atm and 0 °C? (d) If solid methane at 1 atm is heated while 
+the pressure is held constant, will it melt or sublime?  
+(e) If methane at 1 atm and 0 °C is compressed until a phase 
+change occurs, in which state is the methane when the 
+compression is complete?
+Sample Exercise 11.5 
+Interpreting a Phase Diagram
+SOLUTION
+Analyze We are asked to identify key features of the phase diagram 
+and to use it to deduce what phase changes occur when specific 
+pressure and temperature changes take place.
+Plan We must identify the triple and critical points on the dia-
+gram and also identify which phase exists at specific temperatures 
+and pressures.
+Solid
+Gas
+Liquid
+Supercritical
+fluid
+1
+3
+2
+Temperature (°C)
+Pressure (atm)
+−200
+−100
+0
+100
+103
+102
+10
+1
+10−1
+10−2
+10−3
+10−4
+▲ F

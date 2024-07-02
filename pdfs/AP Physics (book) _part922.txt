@@ -1,0 +1,19 @@
+therefore changes the ratio of 
+dramatically. In order
+to pry the rock, the torque due to 
+must at least balance the torque due to mg;
+that is,
+and
+With r smaller, the weight mg can be balanced with less force 
+The ratio 
+is the mechanical advantage of the system. A lever is a “simple machine.” We
+discussed another simple machine, the pulley, in Chapter 4, Example 4–14.
+EXERCISE B For simplicity, we wrote the equation in Example 9–3 as if the lever were
+perpendicular to the forces. Would the equation be valid even for a lever at an angle as
+shown in Fig. 9–6?
+9–2 Solving Statics Problems
+The subject of statics is important because it allows us to calculate certain forces
+on (or within) a structure when some of the forces on it are already known. We
+will mainly consider situations in which all the forces act in a plane, so we can
+have two force equations (x and y components) and one torque equation, for a
+total of three equations. Of course, you do not have to use all three equations if

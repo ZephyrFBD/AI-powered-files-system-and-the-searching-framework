@@ -1,0 +1,22 @@
+it and sent to its own solenoid circuit breaker that opens the circuit at the
+switch S, thus protecting your life.
+If the case of the faulty device is grounded, the difference in current is even
+higher when there is a fault, and the GFCI trips very quickly.
+GFCIs can sense current differences as low as 5 mA and react in 1 ms, saving
+lives. They can be small to fit as a wall outlet (Fig. 21–34a), or as a plug-in unit
+into which you plug a hair dryer or toaster (Fig.21–34b).It is especially important to
+have GFCIs installed in kitchens, in bathrooms, outdoors, and near swimming pools,
+where people are most in danger of touching ground. GFCIs always have a “test”
+button (to be sure the GFCI itself works) and a “reset” button (after it goes off).
+100 mA (= 0.1 A),
+Suspension
+springs
+Coil
+Permanent
+magnet
+FIGURE 21–32 One type of
+seismograph, in which the coil is fixed
+to the case and moves with the Earth’s
+surface. The magnet, suspended by
+springs, has inertia and does not
+move instantaneo

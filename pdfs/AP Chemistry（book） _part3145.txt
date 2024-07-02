@@ -1,0 +1,40 @@
+r fluid at body temperature 37 °C? (b) What is the 
+minimum amount of work that must be used to transfer 
+this K+?
+ 
+Additional Exercises 
+845
+846 
+CHAPTER 19 Chemical Thermodynamics
+Integrative Exercises
+ 19.103  Most liquids follow Trouton’s rule (see Exercise 19.93), 
+which states that the molar entropy of vaporization is 
+approximately 88 { 5 J>mol@K. The normal boiling points 
+and enthalpies of vaporization of several organic liquids 
+are as follows:
+Substance
+Normal Boiling 
+Point 1°C2
+∆Hvap 1kJ>mol2
+Acetone, 1CH322CO
+    56.1
+29.1
+Dimethyl ether, 1CH322O
+ -24.8
+21.5
+Ethanol, C2H5OH
+ 78.4
+38.6
+Octane, C8H18
+  125.6
+34.4
+Pyridine, C5H5N
+    115.3
+35.1
+ 
+ (a) Calculate ∆Svap for each of the liquids. Do all the liquids 
+obey Trouton’s rule? (b) With reference to intermolecular 
+forces (Section 11.2), can you explain any exceptions to the 
+rule? (c) Would you expect water to obey Trouton’s rule? By 
+using data in Appendix B, check the accuracy of your con-
+clusion. (d) Chlorobenzene 

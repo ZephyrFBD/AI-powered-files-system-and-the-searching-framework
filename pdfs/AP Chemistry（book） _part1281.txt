@@ -1,0 +1,23 @@
+r valence electrons. There are six electrons in the cyanide 
+triple bond and two nonbonding electrons on C. We calculate the formal charge on C as 
+4 - 1
+2162 - 2 = -1. For N, the valence electron count is five; there are six electrons in the 
+cyanide triple bond, and two nonbonding electrons on the N. The formal charge on N is 
+5 - 1
+2162 - 2 = 0. We can draw the whole ion with its formal charges as
+N
+[
+]
+C
+21
+0
+2
+Notice that the sum of the formal charges equals the overall charge on the ion, 1-. 
+The formal charges on a neutral molecule must add to zero, whereas those on an ion add 
+to give the charge on the ion.
+318 
+CHAPTER 8 Basic Concepts of Chemical Bonding
+If we can draw several Lewis structures for a molecule, the concept of formal charge 
+can help us decide which is the most important, which we shall call the dominant Lewis 
+structure. One Lewis structure for CO2, for instance, has two double bonds. However, we 
+can also satisfy the octet rule by drawing a Lewis structure hav

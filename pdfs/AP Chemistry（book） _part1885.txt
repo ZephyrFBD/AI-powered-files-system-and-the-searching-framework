@@ -1,0 +1,14 @@
+represented by the area of the rectangles). The 4s, 
+4p, and 3d bands can hold 2, 6, and 10 electrons per atom, respectively, corresponding to 
+two per orbital, as dictated by the Pauli exclusion principle. 
+ (Section 6.7) The energy 
+range spanned by the 3d band is smaller than the range spanned by the 4s and 4p bands 
+because the 3d orbitals are smaller and, therefore, overlap with orbitals on neighboring 
+atoms less effectively.
+Many properties of metals can be understood from Figure 12.23. We can think of 
+the energy band as a partially filled container for electrons. The incomplete filling of 
+the energy band gives rise to characteristic metallic properties. The electrons in orbitals 
+near the top of the occupied levels require very little energy input to be “promoted” to 
+higher-energy orbitals that are unoccupied. Under the influence of any source of exci-
+tation, such as an applied electrical potential or an input of thermal energy, electrons 
+move into previously vacant levels

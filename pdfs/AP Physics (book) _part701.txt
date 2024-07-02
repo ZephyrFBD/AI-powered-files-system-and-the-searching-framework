@@ -1,0 +1,74 @@
+n Newton’s laws.
+¢p
+B = ©F
+B ¢t = 0,
+F
+B + (–F
+B) = 0
+©F
+B
+p
+B = mAv
+B
+A + mBv
+B
+B.
+(©F
+B = ¢p
+B¢t)
+p
+B
+p
+B
+B
+œ .
+p
+B
+A
+œ
+p
+B
+B
+œ
+p
+B
+A
+œ
+p
+B
+B
+p
+B
+A
+174
+CHAPTER 7
+Linear Momentum
+LAW OF CONSERVATION 
+OF MOMENTUM
+vB = 0
+(at rest)
+v′ = ?
+(b)  After collision
+(a)  Before collision
+x
+x
+vA = 24.0 m/s
+A
+B
+B
+A
+FIGURE 7;5 Example 7–3.
+Railroad cars collide: momentum conserved. A 10,000-kg
+railroad car, A, traveling at a speed of 
+strikes an identical car, B, at 
+rest. If the cars lock together as a result of the collision, what is their common
+speed just afterward? See Fig. 7–5.
+APPROACH We choose our system to be the two railroad cars. We consider a very
+brief time interval, from just before the collision until just after, so that external
+forces such as friction can be ignored. Then we apply conservation of momentum.
+24.0 ms
+EXAMPLE 7;3
+SOLUTION The initial total momentum is
+because car B is at rest initially  
+The direction is to the right in the 
+direction. After the collision, the two 

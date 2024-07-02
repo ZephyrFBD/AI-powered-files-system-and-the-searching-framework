@@ -1,0 +1,91 @@
+function is the function cos-1 with domain [-1,1] and range [0,  ]  
+defined by   
+1
+cos
+cos
+x
+y
+y
+x
+-
+=
+Û
+=
+ 
+The inverse cosine function is also called arccosine, denoted by arccos. 
+The cancellation properties follow from the inverse function properties. 
+1
+1
+cos(cos
+)
+for
+1
+1
+cos (cos )
+for
+0
+x
+x
+x
+x
+x
+x
+p
+-
+-
+=
+- £
+£
+=
+£
+£
+ 
+ 
+ 
+Example 2 
+Find each value. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+127 
+3.5.4 The Inverse Tangent Function 
+The inverse tangent function is the function tan-1 with domain (-∞, +∞) and range (-/2, 
+/2) defined by  
+1
+tan
+tan
+x
+y
+y
+x
+-
+=
+Û
+=
+ 
+The inverse tangent function is also called arctangent, denoted by arctan. 
+The following cancellation properties follow from the inverse function properties. 
+ 
+ 
+ 
+Example 3 
+Find each value. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+128 
+3.5.5 The Inverse of Other Trigonometric Functions 
+To define the inverse functions of the secant, cosecant, and cotangent functions, we 
+restrict the domain of each function to a set on which it is one-to-one and on whic

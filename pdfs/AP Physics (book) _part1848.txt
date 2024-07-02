@@ -1,0 +1,15 @@
+ial lines or, in three
+dimensions, equipotential surfaces.An equipotential surface is one on which all points
+are at the same potential. That is, the potential difference between any two points
+on the surface is zero, so no work is required to move a charge from one point on the
+surface to the other. An equipotential surface must be perpendicular to the electric field
+at any point. If this were not so—that is, if there were a component of 
+parallel to
+the surface—it would require work to move the charge along the surface against this
+component of 
+and this would contradict the idea that it is an equipotential surface.
+The fact that the electric field lines and equipotential surfaces are mutually
+perpendicular helps us locate the equipotentials when the electric field lines are
+known. In a normal two-dimensional drawing, we show equipotential lines, which
+are the intersections of equipotential surfaces with the plane of the drawing. In
+Fig. 17–6, a few of the equipotential lines are dra

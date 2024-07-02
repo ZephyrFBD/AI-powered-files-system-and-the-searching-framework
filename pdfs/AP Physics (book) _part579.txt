@@ -1,0 +1,21 @@
+he work a hiker must
+do on a 15.0-kg backpack to carry it up a hill of height  
+as shown in
+Fig. 6–4a. Determine also (b) the work done by gravity on the backpack, and 
+(c) the net work done on the backpack. For simplicity, assume the motion is
+smooth and at constant velocity (i.e., acceleration is zero).
+APPROACH We explicitly follow the steps of the Problem Solving Strategy above.
+SOLUTION
+1. Draw a free-body diagram. The forces on the backpack are shown in Fig.6–4b:
+the force of gravity,
+acting downward; and 
+the force the hiker must
+exert upward to support the backpack. The acceleration is zero, so horizontal
+forces on the backpack are negligible.
+2. Choose a coordinate system. We are interested in the vertical motion of the
+backpack, so we choose the y coordinate as positive vertically upward.
+3. Apply Newton’s laws. Newton’s second law applied in the vertical direction
+to the backpack gives (with  
+)
+So,
+4. Work done by a specific force. (a) To calculate the work done by the hike

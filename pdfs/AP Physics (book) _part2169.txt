@@ -1,0 +1,59 @@
+f the switch is
+then connected upward, determine
+the charge on each capacitor after
+the switching.
+V
+0.
+C2
+94. The performance of the starter circuit in a car can be signif-
+icantly degraded by a small amount of corrosion on a battery
+terminal. Figure 19–91a depicts a properly functioning 
+circuit with a battery (12.5-V emf,
+internal resistance)
+attached via corrosion-free cables to a starter motor of 
+resistance 
+Sometime later, corrosion between 
+a battery terminal and a starter cable introduces an extra
+series resistance of only
+into the
+circuit as suggested in
+Fig. 19–91b. Let 
+be
+the power delivered to
+the starter in the circuit
+free of corrosion, and
+let
+P
+be the power
+delivered to the circuit
+with corrosion. Determine
+the ratio PP
+0 .
+P
+0
+RC = 0.10 
+RS = 0.15 .
+0.02-
+24 V
+(a) Initial configuration.
+C2
+C1
+–Q1
++Q1
+–Q2
++Q2
+–Q1
++Q1
++Q2
+–Q2
+(b) At the instant of reconnection only.
+C2
+C1
+(c) Later, after charges move.
+–q1
+–q2
+q1
+q2
+FIGURE 19–89
+Problem 92.
+95. The variable capacit

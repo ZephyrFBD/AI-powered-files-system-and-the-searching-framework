@@ -1,0 +1,14 @@
+d geometric 
+isomerism. The isomer with like ligands in adjacent positions is the cis isomer, 
+and the isomer with like ligands across from one another is the trans isomer.
+Geometric isomers generally have different physical properties and may also 
+have markedly different chemical reactivities. For example, cis@3Pt(NH3)2Cl24, 
+also called cisplatin, is effective in the treatment of testicular, ovarian, and certain 
+other cancers, whereas the trans isomer is ineffective. This is because cisplatin 
+forms a chelate with two nitrogens of DNA, displacing the chloride ligands. The 
+chloride ligands of the trans isomer are too far apart to form the N-Pt-N chelate 
+with the nitrogen donors in DNA.
+Geometric isomerism is also possible in octahedral complexes when two or 
+more different ligands are present, as in the cis and trans tetraamminedichloroco-
+balt(III) ion in Figure 23.8. Because all four corners of a tetrahedron are adjacent to 
+one another, cis–trans isomerism is not observed in te

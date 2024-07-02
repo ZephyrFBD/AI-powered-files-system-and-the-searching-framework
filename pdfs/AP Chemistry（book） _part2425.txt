@@ -1,0 +1,45 @@
+
+643
+644 
+CHAPTER 15 Chemical Equilibrium
+ 
+H21g2  +  I21g2  ∆  2 HI1g2
+Initial concentration (M)
+1.000
+2.000
+0
+Change in concentration (M)
+-x
+-x
++2x
+Equilibrium concentration (M)
+1.000 - x
+2.000 - x
+2x
+(4) We use initial concentrations and 
+changes in concentrations, as dictated by 
+stoichiometry, to express the equilibrium 
+concentrations. With all our entries, our 
+table now looks like this:
+(5) We substitute the equilibrium concen-
+trations into the equilibrium-constant 
+expression and solve for x:
+Kc =
+3HI42
+3H243I24 =
+12x22
+11.000 - x212.000 - x2 = 50.5 
+If you have an equation-solving calcula-
+tor, you can solve this equation directly 
+for x. If not, expand this expression to 
+obtain a quadratic equation in x:
+4x2 = 50.51x2 - 3.000x + 2.0002
+46.5x2 - 151.5x + 101.0 = 0
+Solving the quadratic equation (Appen-
+dix A.3) leads to two solutions for x:
+x =
+-1-151.52 { 21-151.522 - 4146.521101.02
+2146.52
+= 2.323   or   0.935
+When we substitute x = 2.323 into the 
+expressions for the equ

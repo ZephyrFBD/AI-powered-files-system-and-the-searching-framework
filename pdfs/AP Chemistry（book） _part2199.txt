@@ -1,0 +1,36 @@
+Equation 
+14.7 with k = 2.7 * 10-4 M-1 s-1, m = 1, and n = 1, we can calculate the rate for 
+3NH4
++4 = 0.100 M and 3NO2
+-4 = 0.100 M:
+ Rate = 12.7 * 10-4M-1 s-1210.100 M210.100 M2 = 2.7 * 10-6M>s 
+Give It Some Thought
+Does the rate constant have the same units as the rate?
+Reaction Orders: The Exponents in the Rate Law
+The rate law for most reactions has the form
+ 
+Rate = k3reactant 14m3reactant 24n c  
+[14.8]
+ 
+SECTION 14.3   
+Concentration and Rate Laws 
+577
+578 
+CHAPTER 14 Chemical Kinetics
+The exponents m and n are called reaction orders. For example, consider again 
+the rate law for the reaction of NH4
++ with NO2
+-:
+ 
+Rate = k3NH4
++43NO2
+-4 
+Because the exponent of 3NH4
++4 is 1, the rate is first order in NH4
++. The rate is also first 
+order in NO2
+-. (The exponent 1 is not shown in rate laws.) The overall reaction order 
+is the sum of the orders with respect to each reactant represented in the rate law. Thus, 
+for the reaction between NH4
++ and NO2
+-  the rate law has an overall 

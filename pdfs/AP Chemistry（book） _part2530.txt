@@ -1,0 +1,21 @@
+
+[16.14]
+Because we use H+1aq2 and H3O+1aq2 interchangeably to represent the hydrated pro-
+ton, the autoionization reaction for water can also be written as
+ 
+H2O1l2 ∆ H+1aq2 + OH-1aq2 
+[16.15]
+Likewise, the expression for Kw can be written in terms of either H3O+ or H+, and Kw has 
+the same value in either case:
+ 
+Kw = 3H3O+43OH -4 = 3H+43OH -4 = 1.0 * 10-14 1at 25 °C2 
+[16.16]
+This equilibrium-constant expression and the value of Kw at 25 °C are extremely import-
+ant, and you should commit them to memory.
+A solution in which 3H+4 = 3OH -4 is said to be neutral. In most solutions, however, 
+the H+ and OH - concentrations are not equal. As the concentration of one of these ions 
+increases, the concentration of the other must decrease, so that the product of their concen-
+trations always equals 1.0 * 10-14 (Figure 16.5). Aqueous solutions in which 3H+4 7 3OH -4 
+are called acidic, and aqueous solutions in which 3OH-4 7 3H+4 are called basic.
+Go Figure
+Suppose that equal volumes of the m

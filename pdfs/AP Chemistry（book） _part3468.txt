@@ -1,0 +1,36 @@
+rgy from solar radiation falling on Earth is 
+1.07 * 1016 kJ>min. (a) How much loss of mass from 
+the Sun occurs in one day from just the energy falling on 
+Earth? (b) If the energy released in the reaction
+235U + 1
+0n ¡ 141
+56Ba + 92
+36Kr + 31
+0n
+(235U nuclear mass, 234.9935 amu; 141Ba nuclear mass, 
+140.8833 amu; 92Kr nuclear mass, 91.9021 amu) is taken as 
+typical of that occurring in a nuclear reactor, what mass of 
+uranium-235 is required to equal 0.10% of the solar energy 
+that falls on Earth in 1.0 day?
+ 21.52  Based on the following atomic mass values:1H, 1.00782 
+amu; 2H, 2.01410 amu; 3H, 3.01605 amu; 3He, 3.01603 
+amu; 4He, 4.00260 amu—and the mass of the neutron 
+given in the text, calculate the energy released per mole 
+in each of the following nuclear reactions, all of which are 
+possibilities for a controlled fusion process:
+(a) 2
+1H + 3
+1H ¡ 4
+2He + 1
+0n
+(b) 2
+1H + 2
+1H ¡ 3
+2He + 1
+0n
+(c) 2
+1H + 3
+2He ¡ 4
+2He + 1
+1H
+ 21.53  Using Figure 21.12, predict which of the follow

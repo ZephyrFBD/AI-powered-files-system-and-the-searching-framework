@@ -1,0 +1,28 @@
+ilibrium concentra-
+tions, we find negative concentrations of 
+H2 and I2. Because a negative concentra-
+tion is not chemically meaningful, we re-
+ject this solution. We then use x = 0.935 
+to find the equilibrium concentrations:
+ 
+3H24 = 1.000 - x = 0.065 M
+ 
+3I24 = 2.000 - x = 1.065 M
+ 
+3HI4 = 2x = 1.87 M
+Comment Whenever you use a quadratic equation to solve an 
+equilibrium problem, one of the solutions to the equation will 
+give you a value that leads to negative concentrations and thus is 
+not chemically meaningful. Reject this solution to the quadratic 
+equation.
+ 
+▶Practice Exercise 1
+For the equilibrium Br21g2 + Cl21g2 ∆ 2 BrCl1g2, the equi-
+librium constant Kp is 7.0 at 400 K. If a cylinder is charged 
+with BrCl(g) at an initial pressure of 1.00 atm and the system is 
+allowed to come to equilibrium what is the final (equilibrium) 
+pressure of BrCl? (a) 0.57 atm (b) 0.22 atm (c) 0.45 atm 
+ (d) 0.15 atm (e) 0.31 atm
+ 
+▶Practice Exercise 2
+For the equilibrium PCl51g2 ∆ PCl31g2 + C

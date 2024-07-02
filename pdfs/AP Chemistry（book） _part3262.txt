@@ -1,0 +1,19 @@
+iron, which is iron coated with a thin layer of zinc, the iron is pro-
+tected from corrosion even after the surface coat is broken. The standard reduction 
+potentials are
+Fe2+1aq2 + 2 e- ¡ Fe1s2 E°
+red = -0.44 V
+Zn2+1aq2 + 2 e- ¡ Zn1s2 E°
+red = -0.76 V
+Because E°
+red for Fe2+ is less negative (more positive) than E°
+red for Zn2+, Zn1s2 is more read-
+ily oxidized than Fe(s). Thus, even if the zinc coating is broken and the galvanized iron is 
+exposed to oxygen and water, as in Figure 20.26, the zinc serves as the anode and is cor-
+roded (oxidized) instead of the iron. The iron serves as the cathode at which O2 is reduced.
+Protecting a metal from corrosion by making it the cathode in an electrochemical 
+cell is known as cathodic protection. The metal that is oxidized while protecting the 
+cathode is called the sacrificial anode. Underground pipelines 
+and storage tanks made of iron are often protected against 
+corrosion by making the iron the cathode of a voltaic cell. For 
+example, piec

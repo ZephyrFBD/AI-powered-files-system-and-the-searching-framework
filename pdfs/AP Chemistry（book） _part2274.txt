@@ -1,0 +1,14 @@
+ reaction without itself undergoing any net change. In con-
+trast, Br2 is an intermediate because it is first formed (Equation 14.32) and then con-
+sumed (Equation 14.33). The color change we see in Figure 14.22 illustrates that the 
+presence of intermediates can in some cases be readily detected. Neither the catalyst 
+nor the intermediate appears in the equation for the overall reaction. Notice, how-
+ever, that the catalyst is present at the start of the reaction, whereas the intermediate is 
+formed during the course of the reaction.
+How does a catalyst work? If we think about the general form of rate laws 1Equa-
+tion 14.7, rate = k3A4m3B4n2, we conclude that the catalyst must affect the numerical 
+value of k, the rate constant. On the basis of the Arrhenius equation (Equation 14.21, 
+k = Ae-Ea>RT2, k is determined by the activation energy 1Ea2 and the frequency factor 1A2. 
+ 
+A catalyst may affect the rate of reaction by altering the value of either Ea or A. We can 
+envision this hap

@@ -1,0 +1,55 @@
+6nx.
+¢t0 .
+¢t
+¢t = 10.00 s,
+=
+10.00 s
+31 - A8.59 * 10–15B
+.
+¢t =
+¢t0
+C1 - v2
+c2
+=
+10.00 s
+C
+1 - ¢
+27.8 ms
+3.00 * 108 ms ≤
+2
+¢t0 = 10.00 s
+= 27.8 ms.
+100 kmh = A1.00 * 105 mBA3600 sB
+100 kmh
+EXAMPLE 26;2
+¢t
+¢t0
+2.2 * 10–6 s
+¢t
+¢t0
+¢t
+¢t0 ,
+¢t0
+¢t0 .
+¢t
+¢t = g ¢t0 ,
+P R O B L E M  S O L V I N G
+Use of the binomial expansion
+†Recall that 
+is written as 
+such as 
+Appendix A–2.
+1x2 = x–2,
+x–n,
+1xn
+Reading a magazine on a spaceship. A passenger on a
+fictional high-speed spaceship traveling between Earth and Jupiter at a steady
+speed of 0.75c reads a magazine which takes 10.0 min according to her watch.
+(a) How long does this take as measured by Earth-based clocks? (b) How much
+farther is the spaceship from Earth at the end of reading the article than it 
+was at the beginning?
+APPROACH (a) The time interval in one reference frame is related to the time
+interval in the other by Eq. 26–1a or b. (b) At constant speed, distance is
+Because there are two time intervals (
+and 
+) we will get

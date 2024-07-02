@@ -1,0 +1,16 @@
+possible to shift the luminescence so 
+that the emitted photons are in the visible region of the spectrum 
+by making appropriately sized nanocrystals?
+Quantum dots are being explored for applications ranging from 
+electronics to lasers to medical imaging because they are very bright, 
+very stable, and small enough to be taken up by living cells even after 
+being coated with a biocompatible surface layer.
+Semiconductors do not have to be shrunk to the nanoscale in all 
+three dimensions to show new properties. They can be laid down in 
+relatively large two-dimensional areas on a substrate but be only a few 
+nanometers thick to make quantum wells. Quantum wires, in which the 
+semiconductor wire diameter is only a few nanometers but its length 
+is very long, have also been made by various chemical routes. In both 
+quantum wells and quantum wires, measurements along the nanoscale 
+dimension(s) show quantum behavior, but in the long dimension, the 
+properties seem to be just like those of th

@@ -1,0 +1,79 @@
+oon. 
+(a) Express the distance s between the lighthouse and the ship as a function of d, the 
+distance the ship has traveled since noon; that is, find f so that s = f (d). 
+(b) Express d as a function of t, the time elapsed since noon; that is, find g so that d = g(t). 
+(c) Find f(g)What does the function represent? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+79 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5 Inverse Functions 
+ 
+80 
+2.5.1 One-to-One Functions 
+Let’s compare the functions f and g whose arrow diagrams are shown below. 
+ 
+A function with domain A is called a one-to-one function if no two elements of A have the 
+same image, that is, 
+(
+)
+(
+)
+1
+2
+1
+2
+, whenever 
+f x
+f x
+x
+x
+¹
+¹
+ 
+An equivalent way of writing the condition for a one-to-one function is this: 
+If f (x1) = f (x2), then x1 = x2. 
+If a horizontal line intersects the graph of f at more than one point, then we see from the 
+figure that there are numbers x1 ≠ x2 such that f (x1) = f (x2). 
+ 
+Thi

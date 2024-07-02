@@ -1,0 +1,33 @@
+nitrate ions 1NO3
+-), so its chemical formula is Ca1NO322. Because 
+there are two NO3
+- ions for each Ca2+ ion, each mole of Ca(NO322 
+that dissolves dissociates into 1 mol of Ca2+ and 2 mol of NO3
+-. 
+Thus, a solution that is 0.025 M in Ca(NO322 is 0.025 M in Ca2+ 
+and 2 * 0.025 M = 0.050 M in NO3
+-:
+mol NO3
+-
+L
+= a
+0.025 mol Ca1NO322
+L
+b a
+2 mol NO3
+-
+1 mol Ca1NO322
+b
+= 0.050 M
+Check The concentration of NO3
+- ions is twice that of Ca2+ ions, as the 
+subscript 2 after the NO3
+- in the chemical formula Ca(NO322 suggests.
+146 
+CHAPTER 4 Reactions in Aqueous Solution
+Interconverting Molarity, Moles, and Volume
+If we know any two of the three quantities in the definition of molarity (Equation 4.31), 
+we can calculate the third. For example, if we know the molarity of an HNO3 solution to 
+be 0.200 M, which means 0.200 mol of HNO3 per liter of solution, we can calculate the 
+number of moles of solute in a given volume, say 2.0 L. Molarity therefore is a conversion 
+factor between volume of

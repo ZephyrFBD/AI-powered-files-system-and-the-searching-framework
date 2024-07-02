@@ -1,0 +1,21 @@
+r. To do this we can draw several rays and make sure these reflect 
+from the mirror such that the angle of reflection equals the angle of incidence.
+O¿
+f = r2.
+R A Y  D I A G R A M
+Finding the image position
+for a curved mirror
+Many rays could be drawn leaving any point on an object, but determining the image
+position is faster if we deal with three particular rays. These are the rays labeled 
+1, 2, and 3 in Fig. 23–15 and we draw them leaving object point 
+as follows:
+Ray 1 leaving 
+is drawn parallel to the axis; therefore after reflection it must
+pass along a line through F, Fig. 23–15a (just as parallel rays did in Fig. 23–14).
+Ray 2 leaves 
+and is made to pass through F (Fig. 23–15b); therefore it must
+reflect so it is parallel to the axis. (In reverse, a parallel ray passes through F.)
+Ray 3 is drawn along a radius of the spherical surface (Fig. 23–15c) and is
+perpendicular to the mirror, so it is reflected back on itself and passes
+through C, the center of curvature.
+All three r

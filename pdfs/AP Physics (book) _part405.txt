@@ -1,0 +1,64 @@
+Next consider box B. The force of gravity
+pulls downward; and the cord pulls upward with a force 
+So we can write
+Newton’s second law for box B (taking the downward direction as positive):
+[box B]
+[Notice that if
+then 
+is not equal to 
+]
+We have two unknowns, a and 
+and we also have two equations. We solve
+the box A equation for 
+and substitute this into the box B equation:
+Now we solve for a and put in numerical values:
+which is the acceleration of box A to the right, and of box B down.
+If we wish, we can calculate 
+using the third equation up from here:
+NOTE Box B is not in free fall. It does not fall at
+because an additional
+force,
+is acting upward on it.
+F
+T ,
+a = g
+F
+T = F
+fr + mAa = 9.8 N + (5.0 kg)A1.4 ms2B
+= 17 N.
+F
+T
+a = mBg - F
+fr
+mA + mB
+=
+19.6 N - 9.8 N
+5.0 kg + 2.0 kg
+= 1.4 ms2,
+mBg - F
+fr - mAa = mBa.
+F
+T = F
+fr + mAa,
+F
+T :
+F
+T,
+mB g.
+F
+T
+a Z 0,
+©F
+By = mBg - FT = mBa.
+F
+T.
+mBg = (2.0 kg)A9.8 ms2B = 19.6 N
+©F
+Ax = F
+T - Ffr = mAa.
+aAx = a
+©F
+Ax = mAax,
+F
+fr = mkF
+N = 

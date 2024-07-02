@@ -1,0 +1,17 @@
+bnormal p53 protein cannot repair damaged DNA and thus cannot signal apoptosis.
+Cells with abnormal p53 can become cancerous. (credit: modification of work by Thierry Soussi)
+Human papillomavirus can cause cervical cancer. The virus encodes E6, a protein that binds p53. Based on this fact
+and what you know about p53, what effect do you think E6 binding has on p53 activity?
+a.
+E6 activates p53
+b.
+E6 inactivates p53
+c.
+E6 mutates p53
+d.
+E6 binding marks p53 for degradation
+The loss of p53 function has other repercussions for the cell cycle. Mutated p53 might lose its ability to trigger p21
+production. Without adequate levels of p21, there is no effective block on Cdk activation. Essentially, without a fully
+functional p53, the G1 checkpoint is severely compromised and the cell proceeds directly from G1 to S regardless of internal
+and external conditions. At the completion of this shortened cell cycle, two daughter cells are produced that have inherited
+the mutated p53 gene. Given the non

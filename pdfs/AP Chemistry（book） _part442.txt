@@ -1,0 +1,23 @@
+ many moles of water are in 1.00 L of water, whose density is 
+1.00 g/mL?
+Use
+molar
+mass
+Use
+Avogadro’s
+number
+Grams
+Formula units
+Moles
+▲ Figure 3.12 Procedure for interconverting mass and number of formula units. The number of moles  
+of the substance is central to the calculation. Thus, the mole concept can be thought of as the bridge  
+between the mass of a sample in grams and the number of formula units contained in the sample.
+Go Figure 
+What units would you put under “molar mass” and “Avogadro’s number” 
+on this diagram?
+We have rounded our answer to one significant figure because we used only one signif-
+icant figure for the mass of the penny. Notice how dimensional analysis provides a straight-
+forward route from grams to numbers of atoms. The molar mass and Avogadro’s number are 
+used as conversion factors to convert grams to moles and then moles to atoms. Notice also 
+that our answer is a very large number. Any time you calculate the number of atoms, mole-
+cules, or ions in 

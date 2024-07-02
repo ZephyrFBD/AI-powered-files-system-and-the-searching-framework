@@ -1,0 +1,34 @@
+cises: 3.23, 3.24
+• Convert grams to moles and vice versa using molar masses. 
+(Section 3.4) Related Exercises: 3.35, 3.36
+• Convert number of molecules to moles and vice versa using 
+Avogadro’s number. (Section 3.4) Related Exercises: 3.39, 3.40
+• Calculate the empirical and molecular formulas of a com-
+pound from percentage composition and molecular weight. 
+(Section 3.5) Related Exercises: 3.53, 3.54
+• Identify limiting reactants and calculate amounts, in grams or 
+moles, of reactants consumed and products formed for a reac-
+tion. (Section 3.6) Related Exercises: 3.65, 3.66
+• Calculate the percent yield of a reaction. (Section 3.7) 
+ 
+Related Exercises: 3.83, 3.84
+Key Equations
+•  
+ 
+   
+=
+anumber of atoms
+of element
+b a
+atomic weight
+of element
+b
+formula weight of compound
+* 100% [3.10] 
+% mass composition  
+of element
+This is the formula to calculate the mass percentage 
+of each element in a compound. The sum of all the 
+percentages of all the elements in a  
+compound should 
+add 

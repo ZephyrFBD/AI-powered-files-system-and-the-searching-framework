@@ -1,0 +1,28 @@
+alf-reactions and overall cell reaction repre-
+sented by Zn& Zn2+ & & H+ &H2; calculate the standard cell emf 
+using data in Appendix E and use Pt for the hydrogen elec-
+trode. (c) Using the notation just described, represent a cell 
+based on the following reaction:
+ClO3
+-1aq2 + 3 Cu1s2 + 6 H+1aq2
+ 
+¡ Cl-1aq2 + 3 Cu2+1aq2 + 3 H2O1l2
+Pt is used as an inert electrode in contact with the ClO3
+- 
+and Cl-. Calculate the standard cell emf given: ClO3
+-1aq2 +
+6 H+1aq2 + 6 e- ¡ Cl-1aq2 + 3 H2O1l2; E° = 1.45 V.
+ 
+20.99  Predict whether the following reactions will be spon-
+taneous in acidic solution under standard conditions: 
+ 
+(a) oxidation of Sn to Sn2+ by I2 (to form I-), (b) reduction 
+of Ni2+ to Ni by I- (to form I2), (c) reduction of Ce4+ to Ce3+ 
+by H2O2, (d) reduction of Cu2+ to Cu by Sn2+ (to form Sn4+).
+ 
+[20.100]  Gold exists in two common positive oxidation states, +1 
+and +3. The standard reduction potentials for these oxida-
+tion states are
+Au+1aq2 + e-
+ ¡ Au1s2 E°
+red = +1.69 V

@@ -1,0 +1,13 @@
+related to the presence of d electrons in the metal cat-
+ion. In this section, we consider a model for bonding in transition-metal complexes, 
+crystal-field theory, that accounts for many of the observed properties of these sub-
+stances.* Because many predictions of crystal-field theory are qualitatively the same 
+as those obtained with more advanced molecular-orbital theories, crystal-field theory 
+is an excellent place to start in considering the electronic structure of coordination 
+compounds.
+The attraction of a ligand to a metal ion is essentially a Lewis acid–base interaction in 
+which the base—that is, the ligand—donates a pair of electrons to an empty orbital on the 
+metal ion (Figure 23.27). Much of the attractive interaction between the metal ion and the 
+ligands is due, however, to the electrostatic forces between the positive charge on the metal 
+ion and negative charges on the ligands. An ionic ligand, such as Cl- or SCN-, experiences 
+the usual cation–anion attraction. Wh

@@ -1,0 +1,33 @@
+e rate at which the electric
+potential decreases over distance in that direction. For example, the x component
+of the electric field is given by 
+where 
+is the change in poten-
+tial over a very short distance 
+Breakdown Voltage
+When very high voltages are present, air can become ionized due to the high electric
+fields. Any odd free electron can be accelerated to sufficient kinetic energy to
+knock electrons out of 
+and 
+molecules of the air. This breakdown of air occurs
+when the electric field exceeds about
+When electrons recombine with
+their molecules, light is emitted. Such breakdown of air is the source of lightning,
+the spark of a car’s spark plug, and even short sparks between your fingers and a
+doorknob after you walk across a synthetic rug or slide across a car seat (which can
+result in a significant transfer of charge to you).
+3 * 106 Vm.
+N2
+O2
+¢x.
+¢V
+Ex = –¢V¢x,
+E
+B
+E
+B
+E
+B
+*
+17–3 Equipotential Lines and Surfaces
+The electric potential can be represented by drawing equipotent

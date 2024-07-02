@@ -1,0 +1,17 @@
+
+Equation 5.22 makes it possible to calculate qrxn from the temperature change of the 
+solution in which the reaction occurs. A temperature increase 1∆T 7 02 means the reac-
+tion is exothermic 1qrxn 6 02.
+Sample Exercise 5.6 
+Measuring 횫H Using a Coffee-Cup Calorimeter
+When a student mixes 50 mL of 1.0 M HCl and 50 mL of 1.0 M NaOH in a coffee-cup calorimeter, the temperature of the 
+resultant solution increases from 21.0 to 27.5 °C. Calculate the enthalpy change for the reaction in kJ>mol HCl, assuming 
+that the calorimeter loses only a negligible quantity of heat, that the total volume of the solution is 100 mL, that its density is 
+1.0 g>mL, and that its specific heat is 4.18 J>g@K.
+SOLUTION
+Analyze Mixing solutions of HCl and NaOH results in an acid-base 
+reaction:
+HCl1aq2 + NaOH1aq2 ¡  H2O1l2 + NaCl1aq2
+We need to calculate the heat produced per mole of HCl, given the 
+temperature increase of the solution, the number of moles of HCl and 
+NaOH involved, and the density and specific

@@ -1,0 +1,26 @@
+er base sometimes used is the exponential base
+a natural
+number.† Such logarithms are called natural logarithms and are written “ln”. Thus,
+For any number y, the two types of logarithm are related by
+Some simple rules for logarithms include:
+(A;7)
+This is true because if 
+and
+then
+From the
+definition of logarithm,
+and
+hence,
+In a similar way, we can show the rules
+(A;8)
+and
+(A;9)
+These three rules apply not only to common logs but to natural or any other 
+kind of logarithm.
+Logs were once used as a technique for simplifying certain types of calcu-
+lation. Because of the advent of electronic calculators and computers, they 
+are not often used any more for that purpose. However, logs do appear in 
+certain physical equations, so it is helpful to know how to deal with them. If
+you do not have a calculator that calculates logs, you can use a log table,
+such as the small one shown here (Table A–1). The number N is given to 
+two digits (some tables give N to three or more digits); the first d

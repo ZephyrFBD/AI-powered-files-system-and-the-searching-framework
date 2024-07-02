@@ -1,0 +1,20 @@
+ator and then enclosed by a cylindrical
+conductor (shield) carrying the return current. Why is a
+“shield” necessary?
+10. What is the advantage of placing the two insulated electric
+wires carrying ac close together or even twisted about each
+other?
+11. Explain why, exactly, the lights may dim briefly when a
+refrigerator motor starts up. When an electric heater is
+turned on, the lights may stay dimmed as long as the heater
+is on. Explain the difference.
+12. Use Figs. 21–14 and 21–17 plus the right-hand rules to show
+why the counter torque in a generator opposes the motion.
+13. Will an eddy current brake (Fig. 21–20) work on a copper
+or aluminum wheel, or must the wheel be ferromagnetic?
+Explain.
+6. Suppose you are looking along a line through the centers of
+two circular (but separate) wire loops, one behind the other.
+A battery is suddenly connected to the front loop, establish-
+ing a clockwise current. (a) Will a current be induced in the
+second loop? (b) If so, when does this current s

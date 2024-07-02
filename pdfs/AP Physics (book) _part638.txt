@@ -1,0 +1,49 @@
+ot to scale.)
+5. Is mechanical energy conserved? If no friction or
+other nonconservative forces act, then conservation
+of mechanical energy holds:
+(6;12a)
+6. Apply conservation of energy. If friction (or other
+nonconservative forces) are present, then an addi-
+tional term 
+will be needed:
+(6;10)
+For a constant friction force acting over a distance d
+(6;16b)
+For other nonconservative forces use your intuition
+for the sign of 
+is the total mechanical energy
+increased or decreased in the process?
+7. Use the equation(s) you develop to solve for the
+unknown quantity.
+W
+NC:
+ke1 + pe1 = ke2 + pe2 + F
+frd.
+W
+NC = ¢ke + ¢pe.
+AW
+NCB
+ke1 + pe1 = ke2 + pe2 .
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Conservation of Energy
+1. Draw a picture of the physical situation.
+2. Determine the system for which you will apply energy
+conservation: the object or objects and the forces
+acting.
+3. Ask yourself what quantity you are looking for, and
+choose initial (point 1) and final (point 2) positions.
+4. If the object under 

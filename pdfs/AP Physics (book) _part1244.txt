@@ -1,0 +1,30 @@
+s2.
+t = 0,
+x = 0.360 m.
+t
+x = 0.650 cos(8.40t)
+22. (III) Agent Arlene devised the following method of 
+measuring the muzzle velocity of a rifle (Fig. 11–52). She
+fires a bullet into a 4.148-kg wooden block resting on a
+smooth surface, and attached to a spring of spring constant
+The bullet, whose mass is 7.870 g, remains
+embedded in the wooden block. She measures the maximum
+distance that the block compresses the spring to be 9.460 cm.
+What is the speed v of the bullet?
+k = 162.7 Nm.
+m
+k
+M
+M + m
+9.460 cm
+v
+B
+FIGURE 11–52 Problem 22.
+23. (III) A bungee jumper with mass 65.0 kg jumps from a
+high bridge. After arriving at his lowest point, he oscillates
+up and down, reaching a low point seven more times in
+43.0 s. He finally comes to rest 25.0 m below the level of
+the bridge. Estimate the spring stiffness constant and the
+unstretched length of the bungee cord assuming SHM.
+24. (III) A block of mass m is supported by two identical
+parallel vertical springs, each with spring stiffness con-

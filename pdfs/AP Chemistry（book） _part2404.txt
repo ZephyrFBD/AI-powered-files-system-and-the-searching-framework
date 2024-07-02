@@ -1,0 +1,21 @@
+ stand:
+(a) CaCO31s2
+(b) CaO(s) and CO21g2 at a pressure greater than the value of Kp
+(c) CaCO31s2 and CO21g2 at a pressure greater than the value of Kp
+(d) CaCO31s2 and CaO1s2
+Determine whether or not each mixture can attain the equilibrium
+CaCO31s2 ∆ CaO1s2 + CO21g2
+Sample Exercise 15.6
+ Analyzing a Heterogeneous Equilibrium
+SOLUTION
+Analyze We are asked which of several combinations of species can 
+establish an equilibrium between calcium carbonate and its de-
+composition products, calcium oxide and carbon dioxide.
+Plan For equilibrium to be achieved, it must be possible for both 
+the forward process and the reverse process to occur. For the for-
+ward process to occur, some calcium carbonate must be present. 
+For the reverse process to occur, both calcium oxide and carbon 
+dioxide must be present. In both cases, either the necessary com-
+pounds may be present initially or they may be formed by reac-
+tion of the other species.
+Solve Equilibrium can be reached in all cases except (c) 

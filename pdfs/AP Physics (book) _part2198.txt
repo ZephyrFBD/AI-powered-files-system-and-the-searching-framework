@@ -1,0 +1,78 @@
+= IlB sin u = (Nqt)(vt)B sin u = NqvB sin u.
+v
+B
+v
+l = vt
+B
+B;
+l
+t
+I = Nqt.
+t
+B
+B.
+566
+CHAPTER 20
+Magnetism
+Right-hand-rule-3:
+Force on moving charge
+exerted by B
+B
+N
+–
++
+S
+F
+B
+B
+B
+B
+B
+Right-hand rule
+F
+B
+F
+B
+q
+q
+v
+B
+v
+B
+v
+B
++
++ Moving into
+page (north)
+(a) 
+(b)
+(west)
+   (up)
+F
+B
+v
+B
+FIGURE 20–16 Example 20–4.
+FIGURE 20–15 Force on charged
+particles due to a magnetic field is
+perpendicular to the magnetic field
+direction. If is horizontal, then 
+is
+vertical. The right-hand rule is
+shown for the force on a positive
+charge, ±q.
+F
+B
+v
+B
+Negative charge near a magnet. A nega-
+tive charge 
+is placed at rest near a magnet. Will the charge begin to move? Will
+it feel a force? What if the charge were positive,
+RESPONSE No to all questions. A charge at rest has velocity equal to zero.
+Magnetic fields exert a force only on moving electric charges (Eq. 20–3).
+±Q?
+–Q
+CONCEPTUAL EXAMPLE 20;3
+EXERCISE E Return to the Chapter-Opening Question, page 560, and answer it again
+now. Try to explain why 

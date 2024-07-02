@@ -1,0 +1,15 @@
+ts
+time around another atom, forming a molecule. This is why the alkali metals are
+very chemically reactive and have a valence of 
+The other columns of the
+Periodic Table can be treated similarly.
+The presence of the transition elements in the center of the Periodic Table, as
+well as the lanthanides (rare earths) and actinides below, is a result of incomplete
+inner shells. For the lowest Z elements, the subshells are filled in a simple order:
+first 1s, then 2s, followed by 2p, 3s, and 3p. You might expect that 3d
+would be filled next, but it isn’t. Instead, the 4s level actually has a slightly lower
+energy than the 3d (due to electrons interacting with each other), so it fills first
+(K and Ca). Only then does the 3d shell start to fill up, beginning with Sc, as can
+be seen in Table 28–4. (The 4s and 3d levels are close, so some elements have
+only one 4s electron, such as Cr.) Most of the chemical properties of these transi-
+tion elements are governed by the relatively loosely held 4s e

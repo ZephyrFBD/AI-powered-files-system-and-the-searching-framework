@@ -1,0 +1,52 @@
+, which is when
+Thus,
+From
+Eq. 11–6b,
+so
+NOTE The maximum acceleration is a little over g, so when the floor acceler-
+ates down, objects sitting on the floor will actually lose contact with the floor
+momentarily, which will cause noise and serious wear.
+= 12 ms2.
+amax = F
+max
+m
+= a k
+m bA = (2pf)2A = (2p)2
+ A10 s–1B 2
+ A3.0 * 10–3 mB
+(km) = (2pf)2,
+amax = F
+maxm = kAm = (km)A.
+x = A.
+(F = kx)
+F = ma
+EXAMPLE 11;7
+ESTIMATE
+SECTION 11–3
+The Period and Sinusoidal Nature of SHM
+299
+θ
+(a)
+(b)
+A
+x
+θ
+√ A2 −x2
+vmax
+v
+v
+x
+A
+y
+x
+FIGURE 11–7 (a) Circular motion
+of a small (red) object. (b) Side view
+of circular motion (x component) is
+simple harmonic motion.
+P H Y S I C S  A P P L I E D
+Unwanted floor vibrations
+Period and Frequency—Derivation
+We can derive a formula for the period of simple harmonic motion (SHM) by
+comparing SHM to an object rotating uniformly in a circle. From this same
+“reference circle” we can obtain a second useful result—a formula for the posi-
+tion of an oscillating ma

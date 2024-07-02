@@ -1,0 +1,20 @@
+ modulus developed in Chapter 9. To calculate the internal
+stress in a beam, we can think of this process as occurring in two steps: (1) the
+beam tries to expand (or contract) by an amount 
+given by Eq. 13–1; (2) the
+solid in contact with the beam exerts a force to compress (or expand) it, keeping
+it at its original length. The force F required is given by Eq. 9–4:
+where E is Young’s modulus for the material. To calculate the internal stress,
+we then set 
+in Eq. 13–1a equal to 
+in the equation above and find
+Hence, the stress is
+For example, if 10-m-long concrete slabs are placed touching each other in a new
+park you are designing, a 30°C increase in temperature would produce a stress
+That
+stress would exceed the shear strength of concrete (Table 9–2), no doubt causing
+fracture and cracks. This is why soft spacers (or expansion joints) are placed between
+slabs on sidewalks and highways.
+13–5 The Gas Laws and 
+Absolute Temperature
+Equation 13–2 is not useful for describing the expansion

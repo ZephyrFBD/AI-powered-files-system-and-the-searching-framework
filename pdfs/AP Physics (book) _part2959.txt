@@ -1,0 +1,42 @@
+ of the objects or events. The
+quantity 
+is shorthand for
+(26–2)
+The theory of relativity has changed our notions of space
+and time, and of momentum, energy, and mass. Space and time
+g =
+1
+31 - v2c2
+.
+g
+¢t0
+l0
+¢t
+l
+l = l0 31 - v2c2 = l0
+g
+¢t =
+¢t0
+31 - v2c2 = g ¢t0
+are seen to be intimately connected, with time being the fourth
+dimension in addition to the three dimensions of space.
+The momentum of an object is given by
+(26–4)
+Mass and energy are interconvertible. The equation
+(26–7)
+tells how much energy E is needed to create a mass 
+or vice
+versa. Said another way,
+is the amount of energy an
+object has because of its mass m. The law of conservation of
+energy must include mass as a form of energy.
+The kinetic energy ke of an object moving at speed v is
+given by
+(26–5)
+where m is the mass of the object. The total energy E, if there
+is no potential energy, is
+(26–6)
+The momentum p of an object is related to its total 
+energy E (assuming no potential energy) by
+(26–9)
+Velocity additio

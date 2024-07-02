@@ -1,0 +1,43 @@
+30;12
+226
+88Ra
+226
+88Ra,
+238
+92U
+226
+88Ra
+A226
+88RaB,
+238
+92U
+4.5 * 109 yr,
+238
+92U
+874
+CHAPTER 30
+Nuclear Physics and Radioactivity
+P H Y S I C S  A P P L I E D
+Carbon-14 dating
+Organisms cannot distinguish†
+from 
+and because the ratio of 
+to 
+in the atmosphere remains nearly constant, the ratio of the two isotopes within
+the living organism remains nearly constant as well. When an organism dies,
+carbon dioxide is no longer taken in and utilized. Because the 
+decays
+radioactively, the ratio of 
+to 
+in a dead organism decreases over time. The
+half-life of 
+is about 5730 yr, so the 
+ratio decreases by half every 
+5730 yr. If, for example, the 
+ratio of an ancient wooden tool is half of
+what it is in living trees, then the object must have been made from a tree that
+was felled about 5730 years ago.
+Actually, corrections must be made for the fact that the 
+ratio in the
+atmosphere has not remained precisely constant over time. The determination of
+what this ratio has been over the centurie

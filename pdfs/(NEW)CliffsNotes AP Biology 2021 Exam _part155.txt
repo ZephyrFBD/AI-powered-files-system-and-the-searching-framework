@@ -1,0 +1,14 @@
+sine
+diphosphate (ADP) and Pi (phosphorylation). Noncyclic photophosphorylation begins with PS II and follows these
+seven steps:
+ 
+1. Photosystem II. Electrons trapped by P680 in photosystem II are
+ 
+energized by light. In Figure 5-1, two electrons are shown “moving” up, signifying an increase in their energy.
+2. Primary electron acceptor. Two energized electrons are passed to a molecule called the primary electron
+acceptor. This electron acceptor is called “primary” because it is the first in a chain of electron acceptors.
+3. Electron transport chain. Electrons pass through an electron transport chain (ETC). This chain consists of
+proteins in the thylakoid membrane of the chloroplast that pass electrons from one carrier protein to the next. Some
+carrier proteins, such as the cytochromes, include nonprotein parts containing iron. The electron transport chains in
+photosynthesis are analogous to those in the inner mitochondrial membrane in oxidative phosphorylation.
+4. Phosphorylation. A

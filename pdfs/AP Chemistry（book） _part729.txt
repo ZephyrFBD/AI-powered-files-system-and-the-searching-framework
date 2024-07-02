@@ -1,0 +1,32 @@
+a
+-890 kJ
+1 mol CH4
+b = -250 kJ
+The negative sign indicates that the system released 250 kJ 
+into the surroundings.
+Molar
+mass CH4
+16.0 g/mol
+DH =
+2890
+kJ/mol
+Grams CH4
+(given)
+Moles CH4
+kJ of heat
+(unkown)
+Continued
+178 
+CHAPTER 5 Thermochemistry
+In many situations, we will find it valuable to know the sign and magnitude of the 
+enthalpy change associated with a given chemical process. As we see in the following 
+sections, ∆H can be either determined directly by experiment or calculated from known 
+enthalpy changes of other reactions.
+5.5 ∣ Calorimetry
+The value of ∆H can be determined experimentally by measuring the heat flow accompanying 
+a reaction at constant pressure. Typically, we can determine the magnitude of the heat flow 
+by measuring the magnitude of the temperature change the heat flow produces. The measure-
+ment of heat flow is calorimetry; a device used to measure heat flow is a calorimeter.
+ 
+▶Practice Exercise 1
+The complete combustion of ethanol, C2H5OH 1molar mass =

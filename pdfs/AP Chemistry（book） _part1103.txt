@@ -1,0 +1,15 @@
+erse this process because no protons are being removed. For example, both Ca and 
+Ti2 +  have 20 electrons, but a Ti2 +  ion has more protons than a Ca atom 122 vs. 202. That 
+changes the relative energy levels of the orbitals enough that the two species have differ-
+ent electron configurations: Ca13Ar44s22 and Ti2 +  13Ar43d22.
+If there is more than one occupied subshell for a given value of n, the electrons are 
+first removed from the orbital with the highest value of l. For example, a tin atom loses its 
+5p electrons before it loses its 5s electrons:
+Sn13Kr45s24d105p22 1  Sn2+13Kr45s24d102 + 2 e- 1  Sn4+
+13Kr44d102 + 4 e-
+Electrons added to an atom to form an anion are added to the empty or partially 
+filled orbital having the lowest value of n. For example, an electron added to a fluorine 
+atom to form the F- ion goes into the one remaining vacancy in the 2p subshell:
+F11s22s22p52 + e- 1  F-11s22s22p62
+Give It Some Thought
+Do Cr3+ and V2+ have the same or different electron configu

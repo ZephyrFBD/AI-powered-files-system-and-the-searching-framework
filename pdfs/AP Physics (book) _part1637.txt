@@ -1,0 +1,22 @@
+o is unattainable. This result is known as the third law of thermodynamics.
+Because no engine can be 100% efficient, it can be stated that
+no device is possible whose sole effect is to transform a given amount of heat
+completely into work.
+This is known as the Kelvin-Planck statement of the second law of thermodynamics.
+Figure 15–15 diagrams the ideal perfect heat engine, which can not exist.
+]
+T
+L,
+15–6 Refrigerators, Air Conditioners,
+and Heat Pumps
+The operating principle of refrigerators, air conditioners, and heat pumps is just
+the reverse of a heat engine. Each operates to transfer heat out of a cool environ-
+ment into a warm environment. As diagrammed in Fig. 15–16, by doing work W,
+heat is taken from a low-temperature region,
+(such as inside a refrigerator),
+and a greater amount of heat is exhausted at a high temperature,
+(the room).
+Heat 
+is removed from cooling coils inside the refrigerator and heat 
+is given
+off by coils outside the rear of the refrigerator, Fig. 15–17. You 

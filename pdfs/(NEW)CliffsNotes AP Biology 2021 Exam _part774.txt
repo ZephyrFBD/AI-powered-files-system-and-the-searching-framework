@@ -1,0 +1,16 @@
+ion) = Ψs + Ψp = Ψs(isotonic
+solution) + 0 = Ψs(isotonic
+ 
+solution)
+ 
+Now, the water potential of the sucrose solution and the cell can be calculated using Ψs = −iCRT.
+Ψ (potato cell) = Ψs(isotonic solution) = −iCRT Note that the pressure potential (Ψp) of the potato cell is not equal
+to zero due to the turgor pressure exerted by the contents of the water on the cell wall. Thus, the individual values of
+Ψsand Ψpof the potato cell remain unknown. Only the sum, Ψ, can be determined in this investigation.
+In some alternative forms of this investigation, you may not be given any information about the sucrose
+concentrations of the four solutions. One way of dealing with this is to mix your own solutions, observe their effects,
+and compare them to the unknown solutions. Plotting the weight changes (Ψs. concentrations) for both your
+solutions and the unknown solutions together on the same graph will reveal approximations for the unknown
+concentrations.
+Investigation 5: Photosynthesis
+In this

@@ -1,0 +1,17 @@
+ other. The balls are dropped from a second-story balcony at the exact same
+time. The time to reach the ground below will be:
+(a) twice as long for the lighter ball as for the heavier one.
+(b) longer for the lighter ball, but not twice as long.
+(c) twice as long for the heavier ball as for the lighter one.
+(d) longer for the heavier ball, but not twice as long.
+(e) nearly the same for both balls.
+T
+he motion of objects—baseballs, automobiles, joggers, and even the Sun
+and Moon—is an obvious part of everyday life. It was not until the
+sixteenth and seventeenth centuries that our modern understanding of
+motion was established. Many individuals contributed to this understanding,
+particularly Galileo Galilei (1564–1642) and Isaac Newton (1642–1727).
+The study of the motion of objects, and the related concepts of force and energy,
+form the field called mechanics. Mechanics is customarily divided into two parts:
+kinematics, which is the description of how objects move, and dynamics, which
+de

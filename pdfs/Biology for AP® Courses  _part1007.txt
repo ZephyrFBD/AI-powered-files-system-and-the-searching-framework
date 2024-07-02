@@ -1,0 +1,11 @@
+tersecting lines are those that cross
+each other) and intra- means "inside" (like intravenous).
+Chemical signals are released by signaling cells in the form of small, usually volatile or soluble molecules called ligands.
+A ligand is a molecule that binds another specific molecule, in some cases, delivering a signal in the process. Ligands can
+thus be thought of as signaling molecules. Ligands interact with proteins in target cells, which are cells that are affected
+by chemical signals; these proteins are also called receptors. Ligands and receptors exist in several varieties; however, a
+specific ligand will have a specific receptor that typically binds only that ligand.
+Forms of Signaling
+There are four categories of chemical signaling found in multicellular organisms: paracrine signaling, endocrine signaling,
+autocrine signaling, and direct signaling across gap junctions (Figure 9.2). The main difference between the different
+categories of signaling is the distance that the signal tra

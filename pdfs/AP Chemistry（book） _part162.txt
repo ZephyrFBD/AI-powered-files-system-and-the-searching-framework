@@ -1,0 +1,35 @@
+ 
+chemistry is the liter (L), which equals a cubic decimeter, dm3, and is slightly larger than 
+a quart. (The liter is the first metric unit we have encountered that is not an SI unit.) There 
+are 1000 milliliters (mL) in a liter, and 1 mL is the same volume as 1 cm3: 1 mL = 1 cm3.
+ 
+SECTION 1.5   
+Units of Measurement 
+21
+Give It Some Thought
+Which of the following quantities represents a volume measurement: 
+15 m2; 2.5 * 102 m3; 5.77 L>s?
+Burette
+Stopcock
+controls
+ﬂoY
+Pipette
+Volumetric flask
+Used to deliver variable volumes
+Used to deliver a
+sReEKﬁE XoluOe
+Used to hold a
+sReEKﬁE XoluOe
+Graduated cylinder
+Syringe
+▲ Figure 1.21 Common volumetric glassware.
+Density
+Density is defined as the amount of mass in a unit volume of a substance:
+ 
+density =
+mass
+volume 
+[1.5]
+In the lab, you will likely use the devices in Figure 1.21 to measure and deliver volumes 
+of liquids. Syringes, burettes, and pipettes deliver amounts of liquids with more precision 
+than graduated cylinders. Volumetric 

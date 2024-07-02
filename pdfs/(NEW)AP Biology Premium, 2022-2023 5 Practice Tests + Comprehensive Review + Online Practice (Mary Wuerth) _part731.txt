@@ -1,0 +1,11 @@
+es P has traits 2, 3, and 4, so trait 1 is placed after the
+branch point for P but before the branch point for L. Species O has traits 2 and 3, so trait 4 is placed after the
+branch point for O but before the branch point for P. The only trait species N has is trait 2, so trait 3 is placed
+after the branch point for N but before the branch point for O. Trait 2 is placed before the branch point for N.
+Choices (A), (C), and (D) are incorrect in their placements of the traits and the species.
+9. (B) Species N is the outgroup because it has the least in common with the other species, sharing only trait 2.
+Choices (A), (C), and (D) are incorrect because every other species shares two or more traits with the others in
+the cladogram.
+10. (B) Sympatric speciation occurs when two species are separated by genetic differences. Choice (A) is incorrect
+because allopatric speciation requires geographic separation, which is not the case in this example. Polygenic
+inheritance is when more than one gen

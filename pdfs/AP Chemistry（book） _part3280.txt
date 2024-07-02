@@ -1,0 +1,24 @@
+n 3, the one we want, is 
+the sum of the ∆G° values for reactions 1 and 2:
+We can convert this to E ° from the relation-
+ship ∆G° = -nFE °:
+ 1.17 * 105 J>mol = -122196,485 C>mol2E °
+ E ° =
+1.17 * 105 J>mol
+-122196,485 C>mol2 = -0.606 J>C = -0.606 V
+(c) The standard reduction potential for 
+FeF21-0.606 V2 is more negative than that 
+for Fe2+1-0.440 V2, telling us that the re-
+duction of FeF2 is the less favorable process. 
+When FeF2 is reduced, we not only reduce 
+the Fe2+ but also break up the ionic solid. 
+Because this additional energy must be over-
+come, the reduction of FeF2 is less favorable 
+than the reduction of Fe2+.
+Chapter Summary and Key terms
+OXIDATION STATES AND OXIDATION–REDUCTION REACTIONS 
+(INTRODUCTION AND SECTION 20.1) In this chapter, we have 
+focused on electrochemistry, the branch of chemistry that relates elec-
+tricity and chemical reactions. Electrochemistry involves oxidation– 
+reduction reactions, also called redox reactions. These reactions 
+involve a change i

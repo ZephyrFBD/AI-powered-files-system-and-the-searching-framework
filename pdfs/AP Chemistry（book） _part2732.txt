@@ -1,0 +1,31 @@
+0 L2
+= 5.00 * 10-3 mol CH3COOH
+Hence, 5.00 * 10-3 mol of CH3COO- is formed. It will 
+take 50.0 mL of NaOH to reach the equivalence point (Fig-
+ure 17.9). The volume of this salt solution at the equiva-
+lence point is the sum of the volumes of the acid and base, 
+50.0 mL + 50.0 mL = 100.0 mL = 0.1000 L. Thus, the con-
+centration of CH3COO- is:
+3CH3COO-4 = 5.00 * 10-3 mol
+0.1000 L
+= 0.0500 M
+The CH3COO- ion is a weak base:
+CH3COO-1aq2 + H2O1l2 ∆ CH3COOH1aq2 + OH-1aq2
+The Kb for CH3COO- can be calculated from the Ka value 
+of its conjugate acid, Kb = Kw>Ka = 11.0 * 10-142>
+11.8 * 10-52 = 5.6 * 10-10. Using the Kb expression,  
+we have:
+Kb =
+3CH3COOH43OH-4
+3CH3COO-4
+=
+1x21x2
+0.0500 - x = 5.6 * 10-10
+Making the approximation that 0.0500 - x ≃0.0500, and 
+then solving for x, we have: 
+Check The pH is above 7, as expected for the salt of a weak acid and 
+strong base.
+ 
+▶Practice Exercise 1
+Why is pH at the equivalence point larger than 7 when you 
+titrate a weak acid with a strong base? (a) T

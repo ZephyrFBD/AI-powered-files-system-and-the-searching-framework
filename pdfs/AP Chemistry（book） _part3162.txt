@@ -1,0 +1,14 @@
+own as products in the oxidation process and as reactants in 
+the reduction process.
+Equations that show either oxidation or reduction alone, such as Equations 20.4 
+and 20.5, are called half-reactions. In the overall redox reaction, the number of elec-
+trons lost in the oxidation half-reaction must equal the number of electrons gained in 
+the reduction half-reaction. When this condition is met and each half-reaction is bal-
+anced, the electrons on the two sides cancel when the two half-reactions are added to 
+give the balanced oxidation–reduction equation.
+Balancing Equations by the Method of half-Reactions
+In the half-reaction method, we usually begin with a “skeleton” ionic equation show-
+ing only the substances undergoing oxidation and reduction. In such cases, we assign 
+oxidation numbers only when we are unsure whether the reaction involves oxidation–
+reduction. We will find that H+ (for acidic solutions), OH- (for basic solutions), and H2O 
+are often involved as reactants or pro

@@ -1,0 +1,16 @@
+metals 
+can be accounted for in a qualitative way by the electron-sea model, in 
+which the electrons are visualized as being free to move throughout 
+the metal. In the molecular orbital model the valence atomic orbit-
+als of the metal atoms interact to form energy bands that are incom-
+pletely filled by valence electrons. Consequently, the electronic 
+structure of a bulk solid is referred to as a band structure. The orbitals 
+that constitute the energy band are delocalized over the atoms of the 
+metal, and their energies are closely spaced. In a metal the valence 
+shell s, p, and d orbitals form bands, and these bands overlap, result-
+ing in one or more partially filled bands. Because the energy differ-
+ences between orbitals within a band are extremely small, promoting 
+electrons to higher-energy orbitals requires very little energy. This 
+gives rise to high electrical and thermal conductivity, as well as other 
+characteristic metallic properties.
+IONIC SOLIDS (SECTION 12.5) Ionic sol

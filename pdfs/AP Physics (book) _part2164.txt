@@ -1,0 +1,54 @@
+he circuit shown in Fig. 19–80, determine (a) the
+current through the 16-V battery and (b) the potential
+difference between
+points a and b,
+V
+a - V
+b.
+83. The current through the 
+resistor in Fig. 19–81 does
+not change whether the two switches 
+and 
+are both
+open or both closed.
+Use this clue to
+determine the value
+of 
+the 
+unknown
+resistance R.
+S2
+S1
+20-
+10
+Ω
+20 Ω
+50 Ω
+6.0 V
+S2
+S1
+R
+FIGURE 19–81
+Problem 83.
+84. (a) What is the equivalent resistance of the circuit shown in
+Fig. 19–82? [Hint: Redraw the circuit to see series and
+parallel better.] (b) What is the current in the 
+resis-
+tor? (c) What is the current in the 
+resistor? (d) What
+is the power dissipation in the 
+resistor?
+4.5-
+12-
+14-
+79. A power supply has a fixed output voltage of 12.0 V, but you
+need 
+output for an experiment. (a) Using the
+voltage divider shown in Fig. 19–78, what should 
+be if 
+is 
+(b) What will the terminal voltage 
+be if you
+connect a load to the 3.5-V
+output, assuming the load
+has a resistance of 7

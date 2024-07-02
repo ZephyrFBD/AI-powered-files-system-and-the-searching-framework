@@ -1,0 +1,21 @@
+FIGURE 10–23 Torricelli’s theorem:
+v1 = 22gAy2 - y1B .
+EXERCISE F As water in a level pipe passes from a narrow cross section of pipe to a wider
+cross section, how does the pressure against the walls change?
+Flow and pressure in a hot-water heating system.
+Water circulates throughout a house in a hot-water heating system. If the water
+is pumped at a speed of 
+through a 4.0-cm-diameter pipe in the base-
+ment under a pressure of 3.0 atm, what will be the flow speed and pressure in a
+2.6-cm-diameter pipe on the second floor 5.0 m above? Assume the pipes do not
+divide into branches.
+APPROACH We use the equation of continuity at constant density to determine
+the flow speed on the second floor, and then Bernoulli’s equation to find the
+pressure.
+SOLUTION We take 
+in the equation of continuity, Eq. 10–4, as the flow speed
+on the second floor, and 
+as the flow speed in the basement. Noting that the
+areas are proportional to the radii squared
+we obtain
+To find the pressure on the second floor, 

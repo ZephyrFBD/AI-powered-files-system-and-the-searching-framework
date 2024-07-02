@@ -1,0 +1,40 @@
+nces between adjacent receptors as the lens is automatically moved back and
+forth, choosing the lens position that provides maximum intensity differences
+(sharpest focus).
+Av = 3 * 108 msB
+t =
+40 m
+343 ms = 0.12 s = 120 ms.
+2 * 20 m = 40 m,
+t = d
+v
+=
+2.0 m
+343 ms = 0.0058 s = 5.8 ms.
+v = dt:
+t
+(v = dt).
+343 ms.
+EXAMPLE 12;2
+x (cm)
+0
++0.0005
+−0.0005
+Displacement (cm)
+(a)
+x (cm)
+1.0000
+1.0002
+0.9998
+Pressure (atm)
+(b)
+FIGURE 12–3 Representation of 
+a sound wave in space at a given
+instant in terms of (a) displacement,
+and (b) pressure.
+We often describe a sound wave in terms of the vibration of the molecules of
+the medium in which it travels—that is, in terms of the motion or displacement 
+of the molecules. Sound waves can also be analyzed from the point of view of
+pressure. Indeed, longitudinal waves are often called pressure waves. The pressure
+variation is usually easier to measure than the displacement. As Fig. 12–2 shows,
+in a wave “compression” (where molecules are closest to

@@ -1,0 +1,45 @@
+, but
+opposite charge. A particle and its antiparticle can quickly annihilate each other, releasing energy 
+in the form of two rays:
+.
+e± + e– S 2g
+g
+Proton number (Z)
+Neutron number (NAZ)
+20
+60
+40
+80
+120
+100
+80
+60
+40
+20
+0 0
+N  Z
+Stable
+nuclei
+FIGURE 30–2 (Repeated.)
+Number of neutrons versus number
+of protons for stable nuclides, which
+are represented by dots. The straight
+line represents N = Z.
+in the energy-level diagram of Fig. 30–8.
+can decay by 
+decay directly to the
+ground state of 
+or it can go by 
+decay to an excited state of 
+written 
+which itself decays by emission of a 4.4-MeV
+ray to the ground state of 
+.
+We can write decay as
+where the asterisk means “excited state” of that nucleus.
+What, you may wonder, is the difference between a 
+ray and an X-ray? They
+both are electromagnetic radiation (photons) and, though 
+rays usually have
+higher energy than X-rays, their range of energies overlap to some extent. The
+difference is not intrinsic. We use the term X-ray if the phot

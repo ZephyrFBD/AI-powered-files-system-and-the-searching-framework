@@ -1,0 +1,124 @@
+us may give a useful conclusion as well as saving calculation, is a big advantage
+of working with the algebraic equations and putting in the numbers only at the end.
+a = (0.41)A9.8 ms2B = 4.0 ms2.
+= 0.50g - (0.10)(0.866)g = 0.41g.
+ax = g sin 30° - mkg cos 30°
+mk = 0.10
+u = 30°
+mg sin u - mkAmg cos uB
+= max.
+max:
+F
+N = mg cos u
+F
+N:
+ay = 0
+F
+N - mg cos u = may = 0
+©F
+y = may
+F
+N
+F
+N
+ax,
+–x
+±x
+mg sin u - mkF
+N = max
+©F
+x = max
+ax,
+F
+Gy
+F
+Gy =
+–mg cos u
+F
+Gx = mg sin u,
+u
+F
+B
+G,
+F
+B
+G = mg
+B,
+EXAMPLE 4;21
+SECTION 4–8
+97
+30°
+F
+B
+(a)
++ y
++ y
++ x
+(b)
+30°
+(Ffr =   
+ kFN)
+μ
+(Ffr =   
+ kFN)
+μ
+N
+fr
+G 
+F
+B
+F
+B
+F
+B
+(c)
+90°
++ x
+–θ
+θ
+θ
+fr
+N
+Gx
+Gy
+G
+F
+B
+F
+B
+F
+B
+F
+B
+mg
+B
+FIGURE 4;34 Example 4–21. Skier
+descending a slope;
+is the
+force of gravity (weight) on the skier.
+F
+B
+G = mg
+B
+y
+x
+Motion
+N
+fr
+G = m
+F
+B
+F
+B
+F
+B
+g
+B
+FIGURE 4;33 Forces on an object
+sliding down an incline.
+P R O B L E M  S O L V I N G
+Good choice of coordinate
+system simplifies the calculation
+P H Y S I C S  A P P L I E D
+Skiing
+P

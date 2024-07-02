@@ -1,0 +1,29 @@
+ibrium (d) ∆G = -2.7 kJ 19.85 (a) The ther-
+modynamic quantities T, E, and S are state functions. (b) The 
+quantities q and w depend on the path taken. (c) There is only one 
+reversible path between states. (d) ∆E = qrev + wmax, ∆S = qrev
+ >  T. 
+19.94 (a) 1
+2 N21g2 + 3
+2 H21g2 S  NH31g2; C1s2 + 1
+2 O21g2 S CO1g2  
+(b) In the ﬁrst reaction, ∆G °
+f   will be more positive (less nega-
+tive) than ∆H °
+f . (c) Condition (iii), when ∆S °
+f  is negative.  
+19.99 (a) For the oxidation of glucose in the body, ∆G° = -2878.8 kJ,
+K = 5 * 10504; for the anaerobic decomposition of glucose, 
+∆G° = -228.0 kJ, K = 9 * 1039
+(b) A greater maximum amount of work at standard condi-
+tions can be obtained from the oxidation of glucose in the 
+body, because ∆G° is much more negative. 19.103 (a) Acetone, 
+∆S°
+vap = 88.4 J>mol@K; dimethyl ether, ∆S°
+vap = 86.6 J>mol@K; eth-
+anol, ∆S°
+vap = 110 J>mol@K; octane, ∆S°
+vap = 86.3 J>mol@K; pyri-
+dine, ∆S°
+vap = 90.4 J>mol@K. Ethanol does not obey Trouton’s rule.  
+(

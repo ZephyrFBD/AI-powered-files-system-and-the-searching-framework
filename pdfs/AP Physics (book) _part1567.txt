@@ -1,0 +1,28 @@
+truction of sensitive plants due to freezing
+can be reduced by watering them in the evening. Explain.
+5. The specific heat of water is quite large. Explain why this
+fact makes water particularly good for heating systems
+(that is, hot-water radiators).
+6. Why does water in a metal canteen stay cooler if the cloth
+jacket surrounding the canteen is kept moist?
+7. Explain why burns caused by steam at 100°C on the skin
+are often more severe than burns caused by water at 100°C.
+Questions
+P H Y S I C S  A P P L I E D
+Astronomy—size 
+of a star
+Star radius. The giant star Betelgeuse emits
+radiant energy at a rate 
+times greater than our Sun, whereas its surface temper-
+ature is only half (2900 K) that of our Sun. Estimate the radius of Betelgeuse,
+assuming
+The Sun’s radius is
+APPROACH We assume both stars are spherical, with surface area 
+SOLUTION We solve Eq. 14–6 for A:
+Then
+Hence 
+If Betelgeuse
+were our Sun, it would envelop us (Earth is 
+from the Sun).
+1.5 * 1011 m
+rB = 316 * 104 rS = (400)

@@ -1,0 +1,44 @@
+al 
+1.7.1 Long Division 
+Dividing polynomials is much like the familiar process of dividing numbers. When we divide 
+38 by 7, the quotient is 5 and the remainder is 3.  
+ 
+If P(x) and D(x) are polynomials, with D(x) ≠ 0, then there exist unique polynomials Q(x) 
+and R(x), where R(x) is either 0 or of degree less than the degree of D(x), such that 
+ 
+The polynomials P(x) and D(x) are called the dividend and divisor, respectively, Q(x) is 
+the quotient, and R(x) is the remainder. 
+ 
+Example 1 
+Divide 6x2 -26x +12 by x-4. 
+Express the result in each of the two forms of division algorithm. 
+ 
+ 
+ 
+ 
+ 
+1.7.2 Long Division 
+Synthetic division is a quick method of dividing polynomials; it can be used when the 
+divisor is of the form x − c.  
+In synthetic division we write only the essential parts of the long division.  
+Compare the following long and synthetic divisions, in which we divide 
+3
+2
+2
+7
+5 by 
+3.
+x
+x
+x
+-
++
+-
+ 
+ 
+ 
+43 
+ 
+ 
+Example 2 
+Use synthetic division to divide 2x3 -7x2 +5 by x-

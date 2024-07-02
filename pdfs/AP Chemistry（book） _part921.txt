@@ -1,0 +1,23 @@
+ of an electron). Heisenberg’s principle is called the uncertainty principle. When 
+applied to the electrons in an atom, this principle states that it is impossible for us to 
+know simultaneously both the exact momentum of an electron and its exact location in 
+space.
+Heisenberg mathematically related the uncertainty in position, ∆x, and the 
+uncertainty in momentum, ∆1mv2, to a quantity involving the Planck constant:
+ 
+∆x # ∆1mv2 Ú
+h
+4p 
+[6.9]
+A brief calculation illustrates the dramatic implications of the uncertainty prin-
+ciple. The electron has a mass of 9.11 * 10 - 31 kg and moves at an average speed of 
+about 5 * 106 m>s in a hydrogen atom. Let’s assume that we know the speed to an 
+uncertainty of 1% [that is, an uncertainty of 10.01215 * 106 m>s2 = 5 * 104 m>s] 
+and that this is the only important source of uncertainty in the momentum, so that 
+∆1mv2 = m ∆v. We can use Equation 6.9 to calculate the uncertainty in the position 
+of the electron:
+ 
+∆x Ú
+h
+4pm∆v = a
+6.626 * 10 - 34

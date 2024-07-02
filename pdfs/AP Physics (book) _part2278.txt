@@ -1,0 +1,26 @@
+c field and q is their charge.
+*59. (II) An unknown particle moves in a straight line through
+crossed electric and magnetic fields with 
+and 
+If the electric field is turned off, the par-
+ticle moves in a circular path of radius 
+What
+might the particle be?
+*60. (III) A mass spectrometer is monitoring air pollutants. It is
+difficult, however, to separate molecules of nearly equal mass
+such as CO (28.0106 u) and 
+How large a
+radius of curvature must a spectrometer have (Fig. 20–41)
+if these two molecules are to be separated on the film by
+0.50 mm?
+*20–12 Ferromagnetism, Hysteresis
+*61. (I) A long thin iron-core solenoid has 380 loops of wire per
+meter, and a 350-mA current flows through the wire. If the
+permeability of the iron is 
+what is the total field B
+inside the solenoid?
+*62. (II) An iron-core solenoid is 38 cm long and 1.8 cm in
+diameter, and has 780 turns of wire. The magnetic field
+inside the solenoid is 2.2 T when 48 A flows in the wire.
+What is the permeability 
+at this high

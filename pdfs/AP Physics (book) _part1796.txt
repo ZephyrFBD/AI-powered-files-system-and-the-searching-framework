@@ -1,0 +1,28 @@
+ion 16–9).
+Cr 6 r0D
+E = 0
+= EA4pr2B
+= Qencl
+0
+= 0.
+a E⊥¢A = E a ¢A
+A2
+Qencl = 0
+A2
+E near any conducting surface. Show that the magnitude
+of the electric field just outside the surface of a good conductor of any shape is
+given by
+where 
+is defined as the surface charge density,
+on the conductor’s surface
+at that point.
+APPROACH We choose as our gaussian surface a small cylindrical box, very
+small in height so that one of its circular ends is just above the conductor 
+(Fig. 16–46). The other end is just below the conductor’s surface, and the very
+short sides are perpendicular to it.
+SOLUTION The electric field is zero inside a conductor and is perpendicular to
+the surface just outside it (Section 16–9), so electric flux passes only through
+the outside end of our cylindrical box; no flux passes through the very short sides
+or through the inside end of our gaussian box. We choose the area A (of the flat
+cylinder end above the conductor surface) small enough so that E is essentially
+unifo

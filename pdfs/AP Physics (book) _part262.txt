@@ -1,0 +1,14 @@
+s moving through the air in two dimensions near the
+Earth’s surface, such as a golf ball, a thrown or batted baseball, kicked footballs,
+and speeding bullets. These are all examples of projectile motion (see Fig. 3–17),
+which we can describe as taking place in two dimensions if there is no wind.
+Although air resistance is often important, in many cases its effect can be
+ignored, and we will ignore it in the following analysis. We will not be concerned 
+now with the process by which the object is thrown or projected. We consider only 
+its motion after it has been projected, and before it lands or is caught—that is,
+we analyze our projected object only when it is moving freely through the air under
+the action of gravity alone. Then the acceleration of the object is that due to gravity,
+which acts downward with magnitude 
+and we assume it is constant.†
+Galileo was the first to describe projectile motion accurately. He showed that
+it could be understood by analyzing the horizontal and vert

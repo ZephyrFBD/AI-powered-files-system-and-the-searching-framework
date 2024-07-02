@@ -1,0 +1,27 @@
+charges” that each particle has. Each
+fundamental particle can thus have electric charge, weak charge, color charge, and
+gravitational mass, although one or more of these could be zero. For example, all
+leptons have color charge of zero, so they do not interact via the strong force.
+Z0
+W±,  W–,
+AE = mc2B.
+938
+CHAPTER 32
+Elementary Particles
+Beta decay. Draw a Feynman diagram,
+showing what happens in beta decay using quarks.
+RESPONSE Beta decay is a result of the weak interaction, and the mediator is
+either a 
+or 
+particle. What happens, in part, is that a neutron (udd quarks)
+decays into a proton (uud). Apparently a d quark (charge 
+) has turned 
+into a u quark (charge 
+). Charge conservation means that a negatively
+charged particle, namely a 
+was emitted by the d quark. Since an electron
+and an antineutrino appear in the final state, they must have come from the
+decay of the virtual 
+as shown in Fig. 32–18.
+To summarize, the Standard Model says that the truly fundamental particles
+(Ta

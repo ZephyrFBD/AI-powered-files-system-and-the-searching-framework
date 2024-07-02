@@ -1,0 +1,20 @@
+ hour?
+26. (II) A heat engine exhausts its heat at 340°C and has a
+Carnot efficiency of 36%. What exhaust temperature would
+enable it to achieve a Carnot efficiency of 42%?
+27. (II) A Carnot engine’s operating temperatures are 210°C
+and 45°C. The engine’s power output is 910 W. Calculate
+the rate of heat output.
+28. (II) A four-cylinder gasoline engine has an efficiency of 0.22
+and delivers 180 J of work per cycle per cylinder. If the engine
+runs at 25 cycles per second (1500 rpm), determine (a) the
+work done per second, and (b) the total heat input per
+second from the gasoline. (c) If the energy content of 
+gasoline is 130 MJ per gallon, how long does one gallon
+last?
+29. (II) A Carnot engine performs work at the rate of 520 kW
+with an input of 950 kcal of heat per second. If the tem-
+perature of the heat source is 520°C, at what temperature
+is the waste heat exhausted?
+30. (II) A heat engine uses a heat source at 580°C and has an ideal
+(Carnot) efficiency of 22%. To increase the idea

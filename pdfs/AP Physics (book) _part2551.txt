@@ -1,0 +1,29 @@
+hat is the angle of
+refraction 
+in the glass; (b) what is the angle 
+at which the ray emerges from
+the glass?
+APPROACH We apply Snell’s law twice: at the first surface, where the light enters
+the glass, and again at the second surface where it leaves the glass and enters the air.
+SOLUTION (a) The incident ray is in air, so
+and
+Applying
+Snell’s law where the light enters the glass
+gives
+or
+and
+(b) Since the faces of the glass are parallel, the incident angle at the second surface
+is also 
+(geometry), so 
+At this second interface,
+and
+Thus the ray re-enters the air at an angle 
+given by
+and 
+The direction of a light ray is thus unchanged by passing
+through a flat piece of glass of uniform thickness.
+NOTE This result is valid for any angle of incidence. The ray is displaced slightly
+to one side, however. You can observe this by looking through a piece of glass
+(near its edge) at some object and then moving your head to the side slightly so
+that you see the object directly. It “jumps.”
+uB 

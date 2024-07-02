@@ -1,0 +1,18 @@
+usion, vaporization, and sublimation.
+heating Curves
+When we heat an ice cube initially at -25 °C and 1 atm pressure, the temperature of the 
+ice increases. As long as the temperature is below 0 °C, the ice cube remains in the solid 
+state. When the temperature reaches 0 °C, the ice begins to melt. Because melting is an 
+endothermic process, the heat we add at 0 °C is used to convert ice to liquid water, and 
+the temperature remains constant until all the ice has melted. Once all the ice has melted, 
+adding more heat causes the temperature of the liquid water to increase.
+A graph of temperature versus amount of heat added is 
+called a heating curve. Figure 11.22 shows the heating curve for 
+transforming ice, H2O1s2, initially at -25 °C to steam, H2O1g2, 
+at 125 °C. As heat is added at a constant rate, the heating curve 
+forms distinct regions:
+t  
+Line AB: Heating increases the temperature of H2O(s) from 
+–25 to 0 °C.
+t Line BC: Heating converts H2O(s) to H2O( l ) as the ice melts 
+a

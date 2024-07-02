@@ -1,0 +1,19 @@
+ direction. It is possible to state 
+the second law in many different forms, but they all relate 
+back to the same idea about spontaneity. One of the most 
+common statements found in chemical contexts is that in any 
+spontaneous process the entropy of the universe increases. 
+(Section 19.2)
+second-order reaction A reaction in which the rate depends 
+either on a reactant concentration raised to the second power 
+or on the concentrations of two reactants each raised to the first 
+power. (Section 14.4)
+semiconductor A material that has electrical conductivity 
+between that of a metal and that of an insulator. (Section 12.7)
+sigma 1S2 bond A covalent bond in which electron density is 
+concentrated along the internuclear axis. (Section 9.6)
+sigma 1S2 molecular orbital A molecular orbital that centers the 
+electron density about an imaginary line passing through two 
+nuclei. (Section 9.7)
+significant figures The digits that indicate the precision with 
+which a measurement is made; all digits

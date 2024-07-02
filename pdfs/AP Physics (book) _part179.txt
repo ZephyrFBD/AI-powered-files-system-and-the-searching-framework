@@ -1,0 +1,31 @@
+Let us choose y to be positive in the
+upward direction and negative in the downward direction. (This is a different
+convention from that used in Examples 2–10 and 2–11, and so illustrates our
+options.) The acceleration due to gravity is downward and so will have a nega-
+tive sign,
+As the ball rises, its speed decreases until it
+reaches the highest point (B in Fig. 2–23), where its speed is zero for an
+instant; then it descends, with increasing speed.
+SOLUTION We consider the time interval from when the ball leaves the
+thrower’s hand until the ball reaches the highest point. To determine the
+maximum height, we calculate the position of the ball when its velocity equals
+zero (
+at the highest point). At  
+(point A in Fig. 2–23) we have
+and
+At time 
+(maximum height),
+and we wish to find y. We use Eq. 2–11c, replacing x
+with y:
+We solve this equation for y:
+The ball reaches a height of 11.5 m above the hand.
+y = v2 - v0
+2
+2a
+=
+0 - (15.0 ms)2
+2A –9.80 ms2B
+= 11.5 m.
+v2 = v0
+2 + 2ay.
+a = –9

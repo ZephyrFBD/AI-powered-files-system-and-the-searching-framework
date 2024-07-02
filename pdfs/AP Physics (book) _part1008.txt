@@ -1,0 +1,29 @@
+ling, and it is independent of the cross-sectional area (why?).
+Calculate this height for (a) steel (density
+),
+and (b) granite (density
+).
+2.7 * 103 kgm3
+7.8 * 103 kgm3
+25 kg
+FIGURE 9–86 Problem 69.
+68. The roof over a 9.0-m
+10.0-m room in a school has a
+total mass of 13,600 kg. The roof is to be supported by 
+vertical wooden “
+” (actually about 
+)
+equally spaced along the 10.0-m sides. How many supports
+are required on each side, and how far apart must they be?
+Consider only compression, and assume a safety factor of 12.
+69. A 25-kg object is being lifted by two people pulling on the
+ends of a 1.15-mm-diameter nylon cord that goes over two
+3.00-m-high poles 4.0 m apart, as shown in Fig. 9–86. How
+high above the floor will the object be when the cord breaks?
+4.0 cm * 9.0 cm
+2 * 4s
+*
+70. A 23.0-kg backpack is suspended midway between two
+trees by a light cord as in Fig. 9–51. A bear grabs the back-
+pack and pulls vertically downward with a constant force,
+so that each section of cord

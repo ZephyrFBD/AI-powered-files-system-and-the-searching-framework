@@ -1,0 +1,15 @@
+-out Examples, including
+an Approach and Solution, which should be studied as an integral part of 
+the text; (b) some of the worked-out Examples are Estimation Examples,
+which show how rough or approximate results can be obtained even if 
+the given data are sparse (see Section 1–7); (c) Problem Solving Strategies
+placed throughout the text to suggest a step-by-step approach to problem
+solving for a particular topic—but remember that the basics remain the
+same; most of these “Strategies” are followed by an Example that is solved
+by explicitly following the suggested steps; (d) special problem-solving
+Sections; (e) “Problem Solving” marginal notes which refer to hints within
+the text for solving Problems; (f) Exercises within the text that you should
+work out immediately, and then check your response against the answer
+given at the bottom of the last page of that Chapter; (g) the Problems them-
+selves at the end of each Chapter (point 4 above).
+6. Conceptual Examples pose a question whic

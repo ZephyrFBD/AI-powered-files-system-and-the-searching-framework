@@ -1,0 +1,46 @@
+by a cube 10 cm on a side with five
+sides exposed, has a surface area of about
+The
+rate of heat loss would be about
+or about 20 W for the ceramic pot 
+and 3 W for the shiny one 
+(b) To estimate the temperature drop, we use the specific heat of water and
+ignore the contribution of the pots. The mass of 0.75 L of water is 0.75 kg. (Recall
+that 
+and
+) Using Eq. 14–2
+and Table 14–1, we get
+Then
+After 30 min (1800 s),
+or about 12 C° for the ceramic pot 
+and about 2 C° for the shiny one
+The shiny one clearly has an advantage, at least in terms of radiation.
+NOTE Convection and conduction could play a greater role than radiation.
+( = 0.10).
+( = 0.70)
+¢T = (0.01 C°s) t = (0.01 C°s)(1800 s) L 18 C°,
+¢T
+t
+= Qt
+mc
+L
+(30) Js
+(0.75 kg)A4186 JkgC°B L (0.01) C°s.
+Q
+t
+= mc ¢T
+t
+.
+r = 1000 kgm3.
+1.0 L = 1000 cm3 = 1 * 10–3 m3
+( = 0.10).
+( = 0.70)
+L (30) W,
+=  A5.67 * 10–8 Wm2K4BA5 * 10–2 m2B C(368 K)4 - (293 K)4D
+Q
+t
+= sAAT1
+4 - T2
+4B
+5 * (0.1 m)2 = 5 * 10–2 m2.
+(volume = 1.0 L),

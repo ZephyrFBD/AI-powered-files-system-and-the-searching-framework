@@ -1,0 +1,34 @@
+ mass and gravitational mass. (For
+example, in the absence of air resistance, all objects fall at the same acceleration, g,
+on Earth.) This is another way to state the equivalence principle: gravitational mass
+is equivalent to inertial mass.
+F = Gm1 m2r2,
+F = ma,
+960
+CHAPTER 33
+FIGURE 33–13 (a) Light beam goes straight
+across an elevator which is not accelerating.
+(b) The light beam bends (exaggerated) according
+to an observer in an accelerating elevator whose
+speed increases in the upward direction.
+Observer
+on Earth
+2
+1
+Stars
+(a)
+Observer
+on Earth
+(b)
+Sun
+Moon
+Apparent
+position
+of star
+θ
+The principle of equivalence can be used to show that light ought to be
+deflected by the gravitational force due to a massive object. Consider another
+thought experiment, in which an elevator is in free space where virtually no
+gravity acts. If a light beam is emitted by a flashlight attached to the side of the
+elevator, the beam travels straight across the elevator and makes a spot on the
+opposite 

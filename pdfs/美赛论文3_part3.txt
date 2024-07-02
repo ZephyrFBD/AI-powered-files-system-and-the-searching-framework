@@ -1,0 +1,13 @@
+ the strategy is efficient or not. Based on the
+data and simulation, we use our model to find the best strategy of having a hot bath.
+Besides, we need to consider many additional factors such as the bathtub, the
+person and the bubble. We use controlling variables method and sensitivity analysis to
+describe and analyze the influences additional factors have on the strategy. We
+surprisingly find that many additional factors will have huge impacts on the initial
+best strategy. This reminds us of the difficulty to evenly maintain the initial
+temperature without wasting too much water, which proves that our model works but
+some parameters are greatly sensitive to the model, so it may be wise for the user to
+have a spa-style tub with a secondary heating system if he often gets a bath.
+Moreover, we make improvements about the process of cooling to revise the
+rough detail. We deeply know that our model approximatively simulate the scene of
+the problem and strike out the main body of the proble

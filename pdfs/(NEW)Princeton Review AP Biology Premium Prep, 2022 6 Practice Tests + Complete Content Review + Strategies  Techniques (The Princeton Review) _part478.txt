@@ -1,0 +1,18 @@
+ and a spade consecutively from a deck of cards if the first draw
+was replaced before the second draw?
+Solution:
+P(heart) = 
+ = 
+P(spade) = 
+ = 
+P(heart and spade) = P(heart) × P(spade)
+Sum Rule
+The sum rule is used for studying two mutually exclusive events, and can be thought of as the “EITHER” rule. The
+probability of either of two events occurring is the sum of their individual probabilities.
+Example: What is the probability of drawing a diamond or a heart from a deck of cards?
+Solution:
+If the events you are studying are not mutually exclusive, such as having brown hair and brown eyes, then you could
+have both occur at the same time. If you are trying to determine the likelihood of EITHER occurring but NOT
+BOTH, then you must calculate using the sum rule (odds of either occurring) and the product rule (odds of both
+occurring). Then, take the result using the product rule and subtract it from the result when using the sum rule since
+you want the odds of either occurring but not bot

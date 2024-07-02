@@ -1,0 +1,51 @@
+the x axis before the collision, Fig. 7–13a. After the collision,
+their velocities are 
+and 
+Fig.7–13b. For any
+the object is moving to the
+right (increasing x), whereas for
+the object is moving to the left (toward
+decreasing values of x).
+From conservation of momentum, we have
+Because the collision is assumed to be elastic, kinetic energy is also conserved:
+We have two equations, so we can solve for two unknowns. If we know the masses
+and velocities before the collision, then we can solve these two equations for the
+velocities after the collision,
+and 
+We derive a helpful result by rewriting the
+momentum equation as
+(i)
+and we rewrite the kinetic energy equation as
+Noting that algebraically  
+we write this last equation as
+(ii)
+We divide Eq. (ii) by Eq. (i), and (assuming
+and
+)† obtain
+vA + vA
+œ
+= vB
+œ + vB .
+vB Z vB
+œ
+vA Z vA
+œ
+mAAvA - vA
+œ BAvA + vA
+œ B
+= mBAvB
+œ - vBBAvB
+œ + vBB.
+Aa2 - b2B = (a - b)(a + b),
+mAAvA
+2 - vA
+œ2B
+= mBAvB
+œ2 - vB
+2 B.
+mAAvA - vA
+œ B
+= mBAvB
+œ - vBB,
+vB
+œ 

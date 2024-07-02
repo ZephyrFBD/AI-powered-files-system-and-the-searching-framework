@@ -1,0 +1,16 @@
+eath, such as a famine would be. (B) and (C) are factually
+inaccurate.
+29. A
+The region labeled A is composed of long fatty acid tails of the phospholipids that make
+up the cell plasma membrane. These tails are nonpolar, so (A) is correct. Region B is the
+polar, hydrophilic region of the molecule, so (B) is incorrect. The structure labeled C is a
+membrane-bound protein, making (C) incorrect. The lipid portion of the membrane is
+nonpolar and thus hydrophobic, which prevents charged ions such as Na+ from crossing
+the membrane, so (D) is incorrect.
+30. C
+You might have been tempted to choose (D) if you simply added the frequency of
+individuals expressing blood type r (0.24 + 0.01) and did the same for blood type F (0.24 +
+0.60). This type of addition can lead you to the frequency of the recessive r allele, but it
+does not work for the F allele. The frequency of the r blood type (q2 in the Hardy-
+Weinberg equation, p2 + 2pq + q2 = 1) is equal to the sum of the last two rows in the table,
+o

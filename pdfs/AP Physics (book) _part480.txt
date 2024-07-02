@@ -1,0 +1,13 @@
+ient force (4500 N is
+needed) to keep it moving in a curve of radius 50 m at a speed of 
+The possibility of skidding is worse if the wheels lock (stop rotating) when the
+brakes are applied too hard. When the tires are rolling, static friction exists. But 
+if the wheels lock (stop rotating), the tires slide and the friction force, which is
+now kinetic friction, is less. More importantly, the direction of the friction force
+changes suddenly if the wheels lock. Static friction can point perpendicular to the
+velocity, as in Fig. 5–13b; but if the car slides, kinetic friction points opposite to
+the velocity. The force no longer points toward the center of the circle, and the car
+cannot continue in a curved path (see Fig. 5–12). Even worse, if the road is wet 
+or icy, locking of the wheels occurs with less force on the brake pedal since there 
+is less road friction to keep the wheels turning rather than sliding. Antilock brakes
+(ABS) are designed to limit brake pressure just before the point

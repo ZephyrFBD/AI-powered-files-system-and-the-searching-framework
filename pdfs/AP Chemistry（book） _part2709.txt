@@ -1,0 +1,42 @@
+OH to 1.000 L  
+of pure water, we ﬁrst determine the con-
+centration of OH- ions in solution:
+3OH-4 = 0.020 mol>1.005 L = 0.020 M
+ 
+We use this value in Equation 16.18 to 
+calculate pOH and then use our calcu-
+lated pOH value to obtain pH:
+ pOH = -log3OH-4 = -log10.0202 = +1.70
+ pH = 14 - 1+1.702 = 12.30
+1.000 L buffer
+0.300 M CH3COOH
+0.300 M CH3COO−
+Add 5.0 mL of
+4.0 M NaOH(aq)
+pH increases by
+0.06 pH units
+1.000 L H2O
+Add 5.0 mL of
+4.0 M NaOH(aq)
+pH increases by
+5.30 pH units
+pH 
+4.74
+pH 
+4.80
+pH 
+7.00
+pH 
+12.30
+(a)
+(b)
+▲ Figure 17.4 Effect of adding a strong base to (a) a buffered solution and to (b) water.
+ 
+SECTION 17.3   
+Acid–Base Titrations 
+729
+Chemical reactions that occur in living systems are often extremely 
+sensitive to pH. Many of the enzymes that catalyze important bio-
+chemical reactions are effective only within a narrow pH range. For 
+this reason, the human body maintains a remarkably intricate sys-
+tem of buffers, both within cells and in the ﬂuids that transport ce

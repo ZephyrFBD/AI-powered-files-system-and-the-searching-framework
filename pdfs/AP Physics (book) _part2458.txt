@@ -1,0 +1,21 @@
+y is noticeable. The length of time between the end of when you speak and
+your friend receives it and replies, and then you hear the reply, would be about
+a half second beyond the normal time in a conversation, as we just calculated.
+This is enough to be noticeable, and you have to adjust for it so you don’t start
+talking again while your friend’s reply is on the way back to you.
+L 1
+2 s.
+t = dc L A7.2 * 107 mBA3 * 108 msB L 0.24 s
+0.017 s.
+t = dc L A5 * 106 mBA3.0 * 108 msB =
+c = 3.0 * 108 ms.
+EXAMPLE 22;3
+ESTIMATE
+EXERCISE E If you are on the phone via satellite to someone only 100 km away, would
+you notice the same effect discussed in the NOTE above?
+EXERCISE F If your voice traveled as a sound wave, how long would it take to go from
+New York to London?
+22–4 Measuring the Speed of Light
+Galileo attempted to measure the speed of light by trying to measure the time
+required for light to travel a known distance between two hilltops. He stationed
+an assistant on one hilltop and h

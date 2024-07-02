@@ -1,0 +1,41 @@
+discussed in Chapter 31, Eqs. 31–6 and 31–7.
+The neutrinos emitted in these reactions are all 
+(accompanied by 
+). But 
+the rate at which 
+arrive at Earth was measured starting in the late 1960s to be
+much less than expected based on the power output of the Sun. It was then pro-
+posed that, on the long trip between Sun and Earth,
+might turn into 
+or 
+Subsequent experiments, definitive only in 2001, confirmed this hypothesis. Thus
+the three neutrinos,
+can change into one another in certain cir-
+cumstances, a phenomenon called neutrino flavor oscillation†. (Each of the three
+neutrino types is called, whimsically, a different “flavor.”) This result suggests
+that the lepton numbers 
+and 
+are not perfectly conserved. But the sum,
+is believed to be always conserved.
+Le + Lm + Lt,
+Lt
+Le, Lm,
+ne, nm, nt,
+nt.
+nm
+ne
+ne
+e±
+ne
+b
+kep = 116 MeV - 97 MeV = 19 MeV.
+kep0 = 97 MeV.
+kep0 =
+Q2 + 2Qmpc2
+2mp0c2 + 2Q + 2mpc2
+=
+(116 MeV)2 + 2(116 MeV)(938 MeV)
+2(135 MeV) + 2(116 MeV) + 2(938 MeV)
+kep0:
+ke2
+p0

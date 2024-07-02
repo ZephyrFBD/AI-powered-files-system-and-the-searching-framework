@@ -1,0 +1,27 @@
+.
+Rolling without slipping involves both rotation and translation. There is a simple
+relation between the linear speed v of the axle and the angular velocity 
+of the
+rotating wheel or sphere: namely,
+(where r is the radius) as we now show.
+v = rv
+v
+Centrifuge acceleration. A centrifuge rotor is accelerated
+for 30 s from rest to 20,000 rpm (revolutions per minute). (a) What is its average
+angular acceleration? (b) Through how many revolutions has the centrifuge rotor
+turned during its acceleration period, assuming constant angular acceleration?
+APPROACH To determine 
+we need the initial and final angular
+velocities. For (b), we use Eqs. 8–9 (recall that one revolution corresponds to
+).
+SOLUTION (a) The initial angular velocity is 
+The final angular velocity is
+Then, since 
+and 
+we have
+That is, every second the rotor’s angular velocity increases by 
+or by
+revolutions per second.
+(b) To find we could use either Eq. 8–9b or 8–9c (or both to check our answer).
+The former gives
+where we hav

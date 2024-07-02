@@ -1,0 +1,26 @@
+ is 31+12 + 1-22 = +1, which equals the net charge 
+of the ion. This rule is useful in obtaining the oxidation number of one atom in a 
+compound or ion if you know the oxidation numbers of the other atoms, as illus-
+trated in Sample Exercise 4.8.
+ 
+Sample Exercise 4.8 
+Determining Oxidation Numbers
+Determine the oxidation number of sulfur in (a) H2S, (b) S8, (c) SCl2, (d) Na2SO3, (e) SO4
+2-.
+ 
+▶Practice Exercise 1
+In which compound is the oxidation state of oxygen -1?  
+(a) O2 (b) H2O (c) H2SO4 (d) H2O2 (e) KCH3COO
+ 
+▶Practice Exercise 2
+What is the oxidation state of the boldfaced element in  
+(a) P
+2O5, (b) NaH, (c) Cr2O7
+2-, (d) SnBr4, (e) BaO2?
+SOLUTION
+Analyze We are asked to determine the oxidation number of sulfur 
+in two molecular species, in the elemental form, and in two  
+substances containing ions.
+Plan In each species, the sum of oxidation numbers of all the  
+atoms must equal the charge on the species. We will use the rules 
+outlined previously to assign oxidation numbers

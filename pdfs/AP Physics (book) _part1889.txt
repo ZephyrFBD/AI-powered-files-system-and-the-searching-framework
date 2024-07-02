@@ -1,0 +1,14 @@
+omewhat well. But many sounds only last milliseconds, like the initial
+attack of a piano note or plucked guitar string. Many audiophiles hear the difference
+between an original vinyl record and its subsequent release as a CD at 44.1 kHz.
+Digital audio signals must be converted back to analog (digital-to-analog converter,
+DAC) before being sent to a loudspeaker or headset. Even in a TV, the digital
+signals are converted to analog voltages before addressing the pixels (next 
+Section), although the picture itself might be said to be digital since it is made up
+of separate pixels.
+Digital photographs are made up of millions of “pixels” to produce a sharp
+image that is not “pixelated” or blurry. Also important (and complicated) are the
+number of bits provided for colors, plus the ability of the sensors (Chapter 25) to
+sustain a wide range of brightnesses under dim and bright light conditions.
+Digital data has some real advantages: for one, it can be compressed, in the
+sense that repeated in

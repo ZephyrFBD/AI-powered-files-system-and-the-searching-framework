@@ -1,0 +1,18 @@
+ntacts are placed directly on the cornea, we would not subtract out the 2.0 cm
+for the image distances. That is, for distant objects 
+so
+The new near point would be 41 cm. Thus we see that a
+contact lens and an eyeglass lens will require slightly different powers, or focal
+lengths, for the same eye because of their different placements relative to the eye.
+We also see that glasses in this case give a better near point than contacts.
+EXERCISE C What power of contact lens is needed for an eye to see distant objects if its
+far point is 25 cm?
+Underwater Vision
+When your eyes are under water, distant underwater objects look blurry because
+at the water–cornea interface, the difference in indices of refraction is very small:
+for water, 1.376 for the cornea. Hence light rays are bent very little and
+are focused far behind the retina, Fig. 25–15a. If you wear goggles or a face mask,
+you restore an air–cornea interface (
+and 1.376, respectively) and the
+rays can be focused, Fig. 25–15b.
+n = 1.0

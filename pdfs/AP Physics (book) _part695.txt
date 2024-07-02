@@ -1,0 +1,17 @@
+ts on a system, the total momentum of the system is a conserved quantity.
+This was expressed in Eq. 7–2 for a single object, but it holds also for a system as
+we shall see.
+Consider the head-on collision of two billiard balls, as shown in Fig. 7–3.
+We assume the net external force on this system of two balls is zero—that is,
+the only significant forces during the collision are the forces that each ball 
+exerts on the other. Although the momentum of each of the two balls changes 
+as a result of the collision, the sum of their momenta is found to be the same
+before as after the collision. If 
+is the momentum of ball A and 
+the momentum of ball B, both measured just before the collision, then the 
+total momentum of the two balls before the collision is the vector sum
+Immediately after the collision, the balls each have a different
+velocity and momentum, which we designate by a “prime” on the velocity:
+and 
+The total momentum after the collision is the vector sum
+No matter what the velocit

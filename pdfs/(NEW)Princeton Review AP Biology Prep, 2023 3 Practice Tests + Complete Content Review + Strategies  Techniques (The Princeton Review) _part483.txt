@@ -1,0 +1,25 @@
+ow p-values are calculated and t-tests are performed is not important here. Instead,
+it’s important that you understand how these values are used to interpret data.
+Let’s work through an example to demonstrate how common statistics are used in biological labs.
+A researcher has sections of two different types of skin cancers from human patients. She stains them for the protein
+CD31, which is a marker of endothelial cells. She then takes digital pictures of the immunofluorescent sections and
+counts the number of blood vessels present in each picture. She takes five pictures of each slide.
+Slide A
+Slide B
+10
+3
+8
+2
+7
+4
+8
+4
+11
+4
+(a) ​ What is the mean, median, and mode for each dataset?
+(b) ​ The standard error of group A is 0.735, and the standard error for group B is 0.400. What does this tell you
+about the data?
+(c) ​ What assumptions are made about the data in performing these tests?
+(d) ​ What could the researcher do to increase her confidence in the results?
+Solutions:
+(a) ​ The means

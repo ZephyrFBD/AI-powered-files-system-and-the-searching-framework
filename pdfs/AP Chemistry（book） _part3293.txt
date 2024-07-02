@@ -1,0 +1,26 @@
+n the cell voltage when the ion 
+concentrations in the anode half-cell are increased by 
+a factor of 10? [Sections 20.4 and 20.6]
+ 
+20.9  Consider the half-reaction Ag+1aq2 + e- ¡ Ag1s2. 
+(a) Which of the lines in the following diagram indi-
+cates how the reduction potential varies with the con-
+centration of Ag+1aq2? (b) What is the value of Ered when 
+log3Ag+4 = 0? [Section 20.6]
+1
+2
+3
+log[Ag+]
+Ered
+ 20.10  The electrodes in a silver oxide battery are silver oxide 
+1Ag2O2 and zinc. (a) Which electrode acts as the anode? 
+(b) Which battery do you think has an energy density most 
+similar to the silver oxide battery: a Li-ion battery, a nickel–
+cadmium battery, or a lead–acid battery? [Section 20.7]
+ 20.11  Bars of iron are put into each of the three beakers as shown 
+here. In which beaker—A, B, or C—would you expect the 
+iron to show the most corrosion ? [Section 20.8]
+892 
+CHAPTER 20 Electrochemistry
+ 20.12  Magnesium, the element, is produced commercially by 
+electrolysis from a mol

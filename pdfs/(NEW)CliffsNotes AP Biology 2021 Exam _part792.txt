@@ -1,0 +1,14 @@
+ormation) by giving the bacteria a heat-shock (short pulse of heat).
+5. Incubate both tubes overnight to allow for the growth of bacterial colonies. Then, transfer bacteria from one of the
+tubes to an agar plate with ampicillin and to an agar plate without ampicillin. Repeat for the second tube.
+6. Record your results in a table (Table 17-2).
+7. Interpret you results: Only bacteria transformed with pAMP plasmids can grow in the presence of ampicillin and
+form colonies. The control tube of bacteria confirms that without pAMP, growth cannot occur in the presence of
+ampicillin. It also confirms that the untransformed E. coli are not ampicillin resistant.
+Table 17-2
+Part II: Determine Transformation Efficiency
+The transformation efficiency is a quantitative measurement of the effectiveness of the DNA transfer procedure. It is
+defined as follows:
+ 
+Each colony of bacteria on a plate is a population that began with the reproduction of a single bacterium. So the
+number of colonies is equivale

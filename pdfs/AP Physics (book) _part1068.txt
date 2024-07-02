@@ -1,0 +1,96 @@
+t of the center of the tube above a
+fixed reference level. [Note that if there is no flow
+then Eq. 10–5
+reduces to the hydrostatic equation, Eq. 10–3b or c:
+]
+P
+1 - P
+2 = rgAy2 - y1B.
+Av1 = v2 = 0B,
+P + 1
+2 rv2 + rgy = constant
+P
+2 + 1
+2 rv2
+2 + rgy2 = P
+1 + 1
+2 rv1
+2 + rgy1 .
+1
+2 rv2
+2 - 1
+2 rv1
+2 = P
+1 - P
+2 - rgy2 + rgy1 ,
+A1 ¢l1 = A2 ¢l2 ,
+m = rA1 ¢l1 = rA2 ¢l2 ,
+A1 ¢l1 = A2 ¢l2
+1
+2 mv2
+2 - 1
+2 mv1
+2 = P
+1 A1 ¢l1 - P
+2 A2 ¢l2 - mgy2 + mgy1 .
+W = P
+1 A1 ¢l1 - P
+2 A2 ¢l2 - mgy2 + mgy1 .
+W = W
+1 + W
+2 + W
+3
+y2
+y1
+W
+3 =
+–mgAy2 - y1B,
+= A2 ¢l2 ,
+A1 ¢l1
+W
+2 =
+–P
+2 A2 ¢l2 .
+P = FA
+W
+1 = F
+1 ¢l1 = P
+1 A1 ¢l1 ,
+P
+1
+A1
+¢l2 .
+A2
+¢l1
+A1
+Δl2
+Δl1
+A2
+P2
+  2
+  1
+(a)
+y2
+Δl1
+Δl2
+(b)
+A1
+P1
+y1
+v
+B
+v
+B
+FIGURE 10–22 Fluid flow: for
+derivation of Bernoulli’s equation.
+Bernoulli’s equation
+Bernoulli’s equation is an expression of the law of energy conservation, since
+we derived it from the work-energy principle.
+276
+CHAPTER 10
+Fluids
+P H Y S I C S  A P P L I E D
+Hot-water heating system
+v1
+v2 ≈ 0
+y2 −y1

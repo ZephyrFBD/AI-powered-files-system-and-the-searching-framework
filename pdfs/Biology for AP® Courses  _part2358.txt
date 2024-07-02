@@ -1,0 +1,12 @@
+le of a lysogenic bacteriophage is the λ (lambda) virus, which also infects
+Chapter 21 | Viruses
+861
+the E. coli bacterium. Viruses that infect plant or animal cells may also undergo infections where they are not producing
+virions for long periods. An example is the animal herpesviruses, including herpes simplex viruses, the cause of herpes in
+humans. In a process called latency, these viruses can exist in nervous tissue for long periods of time without producing
+new virions, only to leave latency periodically and cause lesions in the skin where the virus replicates. Even though there are
+similarities between lysogeny and latency, the term lysogenic cycle is usually reserved to describe bacteriophages. Latency
+will be described in more detail below.
+Figure 21.10 A temperate bacteriophage has both lytic and lysogenic cycles. In the lytic cycle, the phage
+replicates and lyses the host cell. In the lysogenic cycle, phage DNA is incorporated into the host genome,
+where it is passed on to s

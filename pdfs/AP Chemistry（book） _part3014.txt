@@ -1,0 +1,32 @@
+ that the expand-
+ing gas does work on the surroundings.
+One characteristic of an ideal gas is that its internal energy 
+depends only on temperature, not on pressure. Thus, when an ideal 
+gas expands isothermally, ∆E = 0. Because ∆E = qrev + wrev = 0, we 
+see that qrev = -wrev = nRT  ln1V2>V12. Then, using Equation 19.2, 
+we can calculate the entropy change in the system:
+∆Ssys =
+qrev
+T
+=
+nRT  ln 
+V2
+V1
+T
+= nR ln 
+V2
+V1
+ 
+[19.3]
+Let’s calculate the entropy change for 1.00 L of an ideal gas at 1.00 
+atm pressure, 0 °C  temperature, expanding to 2.00 L. From the ide-
+al-gas equation, we can calculate the number of moles in 1.00 L of an 
+ideal gas at 1.00 atm and 0 °C as we did in Chapter 10:
+n = PV
+RT =
+11.00 atm211.00 L2
+10.08206 L@atm>mol@K21273 K2 = 4.46 * 10-2 mol
+The gas constant, R, can also be expressed as 8.314 J>mol@K  
+(Table 10.2), and this is the value we must use in Equation 19.3 because 
+we want our answer to be expressed in terms of J rather than in L-atm. 
+Thus, for the e

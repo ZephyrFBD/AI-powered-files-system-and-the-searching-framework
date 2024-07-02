@@ -1,0 +1,16 @@
+ter than that of B.
+C10.76 Å2 6 B 10.84 Å2 6 Si 11.11 Å2 6 Al 11.21 Å2
+If you examine Figure 7.7 carefully, you will discover that for the s- 
+and p-block elements the increase in radius moving one element 
+down a column tends to be greater than the increase moving one 
+element left across a row. There are exceptions, however.
+Comment Note that the trends we have just discussed are for the 
+s- and p-block elements. As seen in Figure 7.7, the transition ele-
+ments do not show a regular decrease moving across a period.
+266 
+CHAPTER 7 Periodic Properties of the Elements
+For ions carrying the same charge, ionic radius increases as we move down a column in the 
+periodic table (Figure 7.8). In other words, as the principal quantum number of the outer-
+most occupied orbital of an ion increases, the radius of the ion increases.
+An isoelectronic series is a group of ions all containing the same number of elec-
+trons. For example, each ion in the isoelectronic series O2 -, F-, Na+, Mg2+, and Al3

@@ -1,0 +1,44 @@
+r2
+v
+L = Iv,
+h2p.
+El
+Eu
+hf = Eu - El,
+SECTION 27–12
+The Bohr Model
+789
+FIGURE 27–26 An atom emits a
+photon 
+when its
+energy changes from 
+to a lower
+energy El.
+Eu
+(energy = hf)
+Eu
+hf
+El
+An electron in a circular orbit of radius r (Fig. 27–27) would have a centripetal
+acceleration 
+produced by the electrical force of attraction between the 
+negative electron and the positive nucleus. This force is given by Coulomb’s law,
+where 
+The charge on the electron is
+and that on the nucleus is
+where Ze is the charge on the
+nucleus:
+is the charge on a proton, Z is the number of protons in the nucleus
+(called “atomic number,” Section 28–7).† For the hydrogen atom,
+In Newton’s second law,
+we substitute Coulomb’s law for F and
+for a particular allowed orbit of radius 
+and obtain
+We solve this for 
+and then substitute for v from Eq. 27–11 (which says
+):
+We solve for 
+(it appears on both sides, so we cancel one of them) and find
+(27;12)
+where n is an integer (Eq. 27–11), and 
+Equation 27–12 gives the 

@@ -1,0 +1,51 @@
+ Absolute max: f(3) =6; Absolute min: f(5) =1 
+B. Absolute max: f(3) =6; Absolute min: none 
+C. Absolute max: f(7) =4; Absolute min: f(0) =2 
+D. Absolute max: f(3) =6; Absolute min: f(0) =2 
+ 
+10.  
+ 
+Match the graph to one of the listed functions. 
+A. f(x) = x2 +4 
+B. f(x) = x2 +4x 
+C. f(x) = -x2 +4x  
+D. f(x) = -x2 +4 
+ 
+Unit 2 Exponential and Logarithmic Functions 
+ 
+65 
+2.1 Arithmetic Sequences and Geometric Sequences 
+Roughly speaking, a sequence is an infinite list of numbers. The numbers in the sequence 
+are often written as a1, a2, a3, . . . . The dots mean that the list continues forever. A simple 
+example is the sequence 
+ 
+A sequence is a function a whose domain is the set of natural numbers. The terms of the 
+sequence are the function values 
+( )
+( )
+( )
+1 ,
+2 ,
+3 , . . .
+( )
+ ,
+, . . .
+a
+a
+a
+a n
+ 
+We usually write an instead of the function notation a(n). So the terms of the sequence are 
+written as 
+1
+2
+3
+,
+,
+, . . . ,
+, . . .
+n
+a a a
+a
+ 
+The number a1 is called the first

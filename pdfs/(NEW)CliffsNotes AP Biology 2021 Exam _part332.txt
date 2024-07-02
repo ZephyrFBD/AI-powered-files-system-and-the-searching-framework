@@ -1,0 +1,21 @@
+script, different mRNAs can be produced, each coding for a different
+protein product.
+Figure 9-5
+Translation
+After transcription, the mRNA, tRNA, and ribosomal subunits are transported across the nuclear envelope and into
+the cytoplasm. Once in the cytoplasm, a specific amino acid attaches to each of the tRNAs using energy from ATP.
+As an introduction, this is what happens during translation:
+1. The mRNA attaches to the ribosome.
+2. The sequence of codons on the mRNA determines the sequence of amino acids in the polypeptide to be
+synthesized.
+ 
+3. One by one, a tRNA brings an amino acid to the ribosome such that the anticodon of the tRNA base-pairs with the
+codon of the mRNA. 4. The newly-arrived amino acid is attached with a peptide bond to other amino acids already
+present.
+ 
+5. A tRNA is released from the ribosome.
+ 
+6. The process is repeated until a “stop” codon on the mRNA has been reached and the completed polypeptide is
+released.
+ 
+The details are slightly more complicated. As 

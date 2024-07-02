@@ -1,0 +1,39 @@
+magnetic field B. The particles are
+accelerated to higher speeds each time they pass through
+the gap between the metal “dees,” where there is an electric
+field E. (There is no electric field inside the hollow metal
+dees where the electrons move in circular paths.) The 
+electric field changes direction each half-cycle, owing 
+to an ac voltage
+so that the particles 
+are increased in speed at each passage through the gap.
+(a) Show that the frequency f of the voltage must be
+where q is the charge on the particles and 
+m their mass. (b) Show that the kinetic energy of the 
+particles increases by 
+each revolution, assuming that
+the gap is small. (c) If the radius of the cyclotron is 2.0 m 
+and the magnetic field
+strength is 0.50 T, what
+will be the maximum
+kinetic energy of
+accelerated protons
+in MeV?
+2qV
+0
+f = Bq2pm,
+V = V
+0 sin 2pft,
+E
+B
+“Dees”
+Gap
+∼
+A
+B
+B
+FIGURE 20–72
+A cyclotron.
+Problem 88.
+78. Two long straight aluminum wires, each of diameter 0.42 mm,
+carry the same current but in op

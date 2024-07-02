@@ -1,0 +1,21 @@
+the surroundings?
+APPROACH We apply conservation of energy to our system of tea plus cup,
+which we are assuming is isolated: all of the heat that leaves the tea flows into
+the cup. We can use the specific heat equation, Eq. 14–2, to determine how the
+heat flow is related to the temperature changes.
+SOLUTION Because tea is mainly water, we can take its specific heat as
+(Table 14–1), and its mass m is its density times its volume
+We use Eq. 14–2, apply conservation of energy, and let T be the as yet
+unknown final temperature:
+Putting in numbers and using Table 14–1 (
+for glass), we
+solve for T, and find
+The tea drops in temperature by 9 C° by coming into equilibrium with the cup.
+NOTE The cup increases in temperature by
+Its much
+greater change in temperature (compared with that of the tea water) is due to
+its much smaller specific heat compared to that of water.
+NOTE In this calculation, the 
+(of Eq. 14–2,
+) is a positive quan-
+tity on both sides of our conservation of energy equation. O

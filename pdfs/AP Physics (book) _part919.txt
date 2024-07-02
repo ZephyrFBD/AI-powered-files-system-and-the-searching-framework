@@ -1,0 +1,41 @@
+ection, with
+Thus
+The magnitudes of 
+and 
+determine the strength of cord or wire that must be
+used. In this case, the cord must be able to support a mass of more than 230 kg.
+NOTE We didn’t insert the value of g, the acceleration due to gravity, until the
+end. In this way we found the magnitude of the force in terms of g times the
+number of kilograms (which may be a more familiar quantity than newtons).
+EXERCISE A In Example 9–2,
+has to be greater than the chandelier’s weight, mg.
+Why?
+The Second Condition for Equilibrium
+Although Eqs. 9–1 are a necessary condition for an object to be in equilibrium,
+they are not always a sufficient condition. Figure 9–5 shows an object on which
+the net force is zero. Although the two forces labeled 
+add up to give zero net
+force on the object, they do give rise to a net torque that will rotate the object.
+F
+B
+F
+A
+F
+B
+B
+F
+B
+A
+F
+B = F
+A cos 60° = (231 kg)(g)(0.500) = (115 kg)g = 1130 N.
+©F
+x = F
+B - F
+A cos 60° = 0.
+©F
+x = 0,
+F
+A = (200 kg)g
+sin 60°
+= (

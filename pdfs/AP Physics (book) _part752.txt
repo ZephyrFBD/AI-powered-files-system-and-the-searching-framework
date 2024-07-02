@@ -1,0 +1,54 @@
+The center of mass of a system of total mass M moves in
+the same path that a particle of mass M would move if subjected
+to the same net external force. In equation form, this is Newton’s
+second law for a system of particles (or extended objects):
+(7;11)
+where M is the total mass of the system,
+is the acceleration
+of the CM of the system, and 
+is the total (net) external 
+force acting on all parts of the system.]
+F
+net
+aCM
+MaCM = F
+net
+xCM = mAxA + mB xB + p
+mA + mB + p
+.
+p ,
+mB,
+mA,
+1
+2 mAvA
+2 + 1
+2 mBvB
+2
+=
+1
+2 mAvA
+œ2 + 1
+2 mBvB
+œ2 .
+mAv
+B
+A + mBv
+B
+B = mAv
+B
+A
+œ
++ mBv
+B
+B
+œ
+mBv
+B
+B
+œ
+RESPONSE After the rocket is fired, the path of the CM of the system contin-
+ues to follow the parabolic trajectory of a projectile acted on by only a constant
+gravitational force. The CM will thus land at a point 2d from the starting 
+point. Since the masses of I and II are equal, the CM must be midway between
+them at any time. Therefore, part II lands a distance 3d from the starting point.
+NOTE If par

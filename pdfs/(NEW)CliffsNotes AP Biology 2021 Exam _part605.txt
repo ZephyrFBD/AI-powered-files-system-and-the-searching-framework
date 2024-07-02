@@ -1,0 +1,11 @@
+elegans, has been an important model for the study of development. A complete
+lineage map tracing the fates of every cell during its development has been described. Every one of the 959 cells in
+an adult are traced back to the egg, cell division by cell division.
+Since all of the cells created during embryonic development originate from the same original zygote, they each
+contain copies of the same chromosomes with the same DNA sequences. What, then, causes cells to become
+structurally and functionally different within the same individual? Why does one cell mature into a muscle cell and
+another into a nerve cell? A summary of mechanisms responsible for influencing cell development and
+differentiation follows:
+1. Indeterminate and determinate cleavages. Cleavages do not necessarily divide a cell into equal parts. Instead,
+cells acquire variations based upon the orientation of the cleavage. A cleavage is indeterminate if it produces
+daughter cells that, if separated, can individually com

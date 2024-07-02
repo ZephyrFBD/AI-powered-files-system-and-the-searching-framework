@@ -1,0 +1,39 @@
+monic Motion—Spring Oscillations
+293
+(a)
+x
+x = 0
+m
+(b)
+(c)
+(> 0)
+m
+x
+(< 0)
+F
+B
+F
+B
+m
+FIGURE 11–1 An object of mass m
+oscillating at the end of a uniform 
+spring. The force on the object at the 
+different positions is shown above the
+object.
+F
+B
+C A U T I O N
+Eqs. 2–11 for constant acceleration
+do not apply to a spring
+Let us examine what happens when our uniform spring is initially compressed
+a distance
+as shown in Fig. 11–2a, and then our object of mass m is
+released on the frictionless surface. The spring exerts a force on the mass that accel-
+erates it toward the equilibrium position. Because the mass has inertia, it passes
+the equilibrium position with considerable speed. Indeed, as the mass reaches the
+equilibrium position, the force on it decreases to zero, but its speed at this point is
+a maximum,
+(Fig. 11–2b). As the mass moves farther to the right, the force 
+on it acts to slow it down, and it stops for an instant at 
+(Fig. 11–2c). It
+then begins moving back in the opposite di

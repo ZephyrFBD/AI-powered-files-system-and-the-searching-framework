@@ -1,0 +1,14 @@
+nergy to reach
+the conduction band, and so a very small current may flow when a voltage is
+applied. At higher temperatures, more electrons have enough energy to jump the
+gap (top end of thermal distribution—see Fig. 13–20). Often this effect can more
+than offset the effects of more frequent collisions due to increased disorder at
+higher temperature, so the resistivity of semiconductors can decrease with increas-
+ing temperature (see Table 18–1). But this is not the whole story of semiconductor
+conduction. When a potential difference is applied to a semiconductor, the few
+electrons in the conduction band move toward the positive electrode. Electrons
+in the valence band try to do the same thing, and a few can because there are 
+a small number of unoccupied states which were left empty by the electrons
+reaching the conduction band. Such unfilled electron states are called holes.
+Each electron in the valence band that fills a hole in this way as it moves toward
+the positive electrode leave

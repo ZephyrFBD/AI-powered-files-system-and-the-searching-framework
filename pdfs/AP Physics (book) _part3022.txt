@@ -1,0 +1,46 @@
+ (1 - cos f),
+*
+780
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+P H Y S I C S  A P P L I E D
+Measuring bone density
+FIGURE 27–9 The Compton effect.
+A single photon of wavelength 
+strikes an electron in some material,
+knocking it out of its atom. The
+scattered photon has less energy
+(some energy is given to the
+electron) and hence has a longer
+wavelength 
+(shown exaggerated).
+Experiments found scattered X-rays
+of just the wavelengths predicted by
+conservation of energy and
+momentum using the photon model.
+l¿
+l
+θ
+φ
+e−
+Electron
+at rest
+initially
+Incident
+photon (  )
+Scattered
+photon ( ')
+λ
+λ
+x
+y
+BEFORE
+COLLISION
+AFTER
+COLLISION
+27–6 Photon Interactions; Pair Production
+When a photon passes through matter, it interacts with the atoms and electrons.
+There are four important types of interactions that a photon can undergo:
+1. The photoelectric effect: A photon may knock an electron out of an atom and
+in the process the photon disappears.
+2. The photon may knock an atomic electron 

@@ -1,0 +1,17 @@
+ong base, and (3) polyprotic acid–strong base. We will also briefly consider 
+how these curves relate to those involving weak bases.
+Strong Acid–Strong Base Titrations
+The titration curve produced when a strong base is added to a strong acid has the gen-
+eral shape shown in Figure 17.7, which depicts the pH change that occurs as 0.100 M 
+NaOH is added to 50.0 mL of 0.100 M HCl. The pH can be calculated at various stages 
+of the titration. To help understand these calculations, we can divide the curve into 
+four regions:
+ 1. Initial pH: The pH of the solution before the addition of any base is deter-
+mined by the initial concentration of the strong acid. For a solution of 
+0.100 M HCl, 3H+4 = 0.100 M and pH = -log10.1002 = 1.000. Thus, the initial 
+pH is low.
+ 2. Between initial pH and equivalence point: As NaOH is added, the pH 
+increases slowly at first and then rapidly in the vicinity of the equivalence point. 
+Go Figure
+In which direction do you expect the 
+pH to change as NaOH is a

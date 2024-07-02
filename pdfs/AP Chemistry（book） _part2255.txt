@@ -1,0 +1,19 @@
+start by examining the rate laws of 
+elementary reactions.
+Elementary reactions are significant in a very important way: If a reaction is elemen-
+tary, its rate law is based directly on its molecularity. For example, consider the unimolecular 
+reaction
+ 
+A ¡ products 
+As the number of A molecules increases, the number that reacts in a given time interval 
+increases proportionally. Thus, the rate of a unimolecular process is first order:
+ 
+Rate = k3A4 
+For bimolecular elementary steps, the rate law is second order, as in the reaction
+ 
+A + B ¡ products  Rate = k3A43B4 
+The second-order rate law follows directly from collision theory. If we double the concen-
+tration of A, the number of collisions between the molecules of A and B doubles; likewise, 
+if we double [B], the number of collisions between A and B doubles. Therefore, the rate law 
+is first order in both [A] and [B] and second order overall.
+The rate laws for all feasible elementary reactions are given in Table 14.3. Notice how 

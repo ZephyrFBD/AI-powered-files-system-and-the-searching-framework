@@ -1,0 +1,140 @@
+he efficiency of the strategy, so the smaller the index is,
+the more efficient the strategy is. Due to the different properties the index show, we
+should choose different functions that best fit the character of the index to process the
+data. Owing to the monotonous negative impact, we establish an extreme membership
+function to transfer the data into an index that belongs to [0, 1].
+For example, the upper limit of wasting water is
+0
+Q and the lower limit of wasting
+water is zero, so we assign M the value of zero. Then we use the extreme model to
+process the data to calculate the final index that shows the level of wasting water,
+which belongs to [0, 1].
+Type
+Corresponding function
+Extreme
+
+f x =
+2
+1
+arctan(
+)
+x
+M
+
+
+
+
+Intermediate
+
+
+
+
+
+2
+1
+,
+(
+)
+2
+2
+1
+,
+(
+)
+2
+m
+x
+M
+m
+M
+m
+M
+m
+x
+m
+f x
+M
+x
+M
+M
+m
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interval
+
+1
+,
+1,
+1
+,
+a
+x x
+a
+c
+a
+x
+b
+x
+b x
+b
+f
+x
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fuzzy
+1
+2
+1
+(
+)
+,1
+3
+( )
+ln
+,3
+5
+x
+x
+f x
+x
+x
+
+
+
+
+
+
+
+
+

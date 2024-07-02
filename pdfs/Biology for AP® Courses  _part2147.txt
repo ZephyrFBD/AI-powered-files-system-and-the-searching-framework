@@ -1,0 +1,17 @@
+ new individuals to migrate into it.
+b.
+The more individuals in a population, the more alleles are present in its gene pool.
+c.
+The fewer individuals in a population, the more likely it is to go extinct.
+d.
+The more individuals in a population, the larger and more stable is its gene pool.
+Small populations are more susceptible to the forces of genetic drift. Large populations, on the other hand, are buffered
+against the effects of chance. If one individual of a population of 10 individuals happens to die at a young age before it
+leaves any offspring to the next generation, all of its genes—1/10 of the population’s gene pool—will be suddenly lost. In
+a population of 100, that’s only 1 percent of the overall gene pool; therefore, it is much less impactful on the population’s
+genetic structure.
+Go to this site (http://openstaxcollege.org/l/genetic_drift) to watch an animation of random sampling and genetic drift
+in action.
+Describe an example of genetic drift.
+a.
+Immigration of new indivi

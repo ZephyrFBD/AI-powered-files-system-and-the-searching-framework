@@ -1,0 +1,12 @@
+ral selection can change allele frequencies and thus cause evolution.
+These factors, together with natural selection, are given here: 1. Natural selection is the increase or decrease in
+allele frequencies due
+to the impact of the environment.
+2. Mutations introduce new alleles that may provide a selective advantage. In general, however, most mutations are
+deleterious, or harmful.
+3. Gene flow describes the movement of individuals between populations resulting in the removal of alleles from a
+population when they leave (emigration) or the introduction of alleles when they enter (immigration).
+4. Genetic drift is a random increase or decrease of alleles. In other words, some alleles may increase or decrease
+for no other reason than by chance. When populations are small (usually fewer than 100 individuals), the effect of
+genetic drift can be very strong and can dramatically influence evolution.
+An analogy of genetic drift can be made with the chances associated with flipping a coin. If a 

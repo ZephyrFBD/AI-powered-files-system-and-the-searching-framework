@@ -1,0 +1,96 @@
+th a ruler and compared to the scale. Angles can be measured 
+with a protractor. This method is known as the tail-to-tip method of adding 
+vectors.
+The resultant is not affected by the order in which the vectors are added.
+For example, a displacement of 5.0 km north, to which is added a displacement
+of 10.0 km east, yields a resultant of 11.2 km and angle
+(see Fig. 3–4),
+the same as when they were added in reverse order (Fig. 3–3). That is, now
+using
+to represent any type of vector,
+[Mathematicians call this equation the commutative property of vector addition.]
+V
+B
+1 + V
+B
+2 = V
+B
+2 + V
+B
+1 .
+V
+B
+u = 27°
+D
+B
+2 ,
+D
+B
+1
+D
+B
+R = D
+B
+1 + D
+B
+2 = (11.2 km,  27° N of E).
+D
+B
+R
+D1 + D2
+DR = 11.2 km,
+DR 
+AD1 + D2B ,
+D
+B
+R = D
+B
+1 + D
+B
+2 .
+D
+B
+2 .
+D
+B
+1
+D
+B
+R,
+= 3125 km2 = 11.2 km.
+DR = 3D1
+2 + D2
+2 = 3(10.0 km)2 + (5.0 km)2
+DR
+DR
+D1 , D2 ,
+D
+B
+R
+u = 27°
+u = 27°
+D
+B
+R
+SECTION 3–2
+Addition of Vectors—Graphical Methods
+51
+0
+West
+South
+1
+     R=     2 +
+1
+θ
+2
+2
+4
+6
+4
+6
+8
+10
+2
+x (km)
+East
+North

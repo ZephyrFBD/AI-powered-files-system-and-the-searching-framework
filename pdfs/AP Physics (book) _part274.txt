@@ -1,0 +1,23 @@
+ches the ground below.
+5. Examine x and y motions. In the horizontal (x) direction, the acceleration
+so the velocity is constant. The value of x when the motorcycle
+reaches the ground is
+In the vertical direction, the accelera-
+tion is the acceleration due to gravity,
+The value of
+y when the motorcycle reaches the ground is
+The initial veloc-
+ity is horizontal and is our unknown,
+the initial vertical velocity is zero,
+6. List knowns and unknowns. See the Table in the margin. Note that in addition
+to not knowing the initial horizontal velocity 
+(which stays constant until
+landing), we also do not know the time 
+when the motorcycle reaches the
+ground.
+7. Apply relevant equations.The motorcycle maintains constant 
+as long as it
+is in the air. The time it stays in the air is determined by the y motion—when
+it reaches the ground. So we first find the time using the y motion, and then
+use this time value in the x equations. To find out how long it takes the
+motorcycle to reach the ground bel

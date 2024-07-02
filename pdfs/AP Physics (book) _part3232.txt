@@ -1,0 +1,22 @@
+ 
+molecule; r is the separation of the two H atoms.
+The binding energy (the energy difference between
+and the lowest energy state near the bottom
+of the well) is 4.5 eV, and r0 = 0.074 nm.
+pe = 0
+H2
+There is an optimum separation of the atoms,
+in Fig. 29–8, at which the energy
+is lowest. This is the point of greatest stability for the hydrogen molecule, and 
+is the average separation of atoms in the 
+molecule. The depth of this 
+“well” is the binding energy,† as shown. This is how much energy must be put 
+into the system to separate the two atoms to infinity, where the 
+For the
+molecule, the binding energy is about 4.5 eV and
+For many bonds, the potential-energy curve has the shape shown in Fig. 29–9.
+There is still an optimum distance 
+at which the molecule is stable. But when 
+the atoms approach from a large distance, the force is initially repulsive rather than
+attractive. The atoms thus do not form a bond spontaneously. Some additional
+energy must be injected into the system to get

@@ -1,0 +1,15 @@
+nt
+such as C, which is the same distance from each speaker, will experience a loud
+sound because the interference will be constructive—two crests reach it at one
+moment, two troughs reach it a moment later. On the other hand, at a point 
+such as D in the diagram, little if any sound will be heard because destructive
+interference occurs—compressions of one wave meet rarefactions of the other
+and vice versa (see Fig. 11–38 and the related discussion on water waves in 
+Section 11–11).
+An analysis of this situation is perhaps clearer if we graphically represent 
+the waveforms as in Fig. 12–17. In Fig. 12–17a it can be seen that at point C,
+constructive interference occurs because both waves simultaneously have crests or
+simultaneously have troughs when they arrive at C. In Fig. 12–17b we see that, to
+reach point D, the wave from speaker B must travel a greater distance than the wave
+from A. Thus the wave from B lags behind that from A. In this diagram, point E is
+chosen so that the distanc

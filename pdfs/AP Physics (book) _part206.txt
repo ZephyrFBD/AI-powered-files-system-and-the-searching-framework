@@ -1,0 +1,33 @@
+Chapter and sometimes earlier Chapters.]
+(Note: In Problems, assume a number like 6.4 is accurate to
+and 950 is 
+unless 950 is said to be “precisely” or “very
+nearly” 950, in which case assume 
+. See Section 1–4.)
+2;1 to 2;3 Speed and Velocity
+1. (I) If you are driving 
+along a straight road and
+you look to the side for 2.0 s, how far do you travel during
+this inattentive period?
+2. (I) What must your car’s average speed be in order to
+travel 235 km in 2.75 h?
+3. (I) A particle at
+is at
+and at
+is at
+What is its average velocity
+over this time interval? Can you calculate its average speed
+from these data?Why or why not?
+4. (I) A rolling ball moves from
+to
+during the time from  
+to
+What is its
+average velocity over this time interval?
+5. (I) A bird can fly 
+How long does it take to fly
+3.5 km?
+6. (II) According to a rule-of-thumb, each five seconds
+between a lightning flash and the following thunder gives
+the distance to the flash in miles. (a) Assuming that the
+flash of light arrives in

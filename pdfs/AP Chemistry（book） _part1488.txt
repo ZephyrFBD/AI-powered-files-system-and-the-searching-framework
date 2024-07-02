@@ -1,0 +1,16 @@
+n-domain geometries 1linear = sp; trigonal planar =
+sp2; tetrahedral = sp32. The bonding in hypervalent molecules—
+those with more than an octet of electrons—is not as readily dis-
+cussed in terms of hybrid orbitals.
+MULTIPLE BONDS (SECTION 9.6) Covalent bonds in which the 
+electron density lies along the line connecting the atoms (the inter-
+nuclear axis) are called sigma 1S2  bonds. Bonds can also be formed 
+from the sideways overlap of p orbitals. Such a bond is called a pi 
+1P2  bond. A double bond, such as that in C2H4, consists of one s 
+bond and one p bond; each carbon atom has an unhybridized p or-
+bital, and these are the orbitals that overlap to form p bonds. A tri-
+ple bond, such as that in C2H2, consists of one s and two p bonds. 
+The formation of a p bond requires that molecules adopt a specific 
+orientation; the two CH2 groups in C2H4, for example, must lie in 
+the same plane. As a result, the presence of p bonds introduces ri-
+gidity into molecules. In molecules that hav

@@ -1,0 +1,38 @@
+m HF to HI, even though the bond 
+length is increasing. Calculations identical to those used in Sample Exercise 8.5 show 
+that the charges on the atoms decrease from 0.41+ and 0.41- in HF to 0.057+ and 
+0.057- in HI. We can visualize the varying degree of electronic charge shift in these 
+substances from computer-generated renderings based on calculations of electron 
+distribution, as shown in Figure 8.11. For these molecules, the change in the electro-
+negativity difference has a greater effect on the dipole moment than does the change 
+in bond length.
+TABLE 8.2 Bond Lengths, Electronegativity Differences, and Dipole 
+Moments of the Hydrogen Halides
+ 
+Compound
+ 
+Bond Length (Å)
+Electronegativity 
+Difference
+ 
+Dipole Moment (D)
+HF
+0.92
+1.9
+1.82
+HCl
+1.27
+0.9
+1.08
+HBr
+1.41
+0.7
+0.82
+HI
+1.61
+0.4
+0.44
+Give It Some Thought
+The bond between carbon and hydrogen is one of the most important types 
+of bonds in chemistry. The length of an H ¬ C bond is approximately 1.1 Å. 
+Based on this distance

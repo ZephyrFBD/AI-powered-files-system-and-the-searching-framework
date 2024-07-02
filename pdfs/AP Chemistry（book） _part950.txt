@@ -1,0 +1,41 @@
+ in Figure 6.22 shows 
+that the function generally gets smaller the farther we go from the 
+nucleus. But when we multiply by 4pr2, we see peaks that get larger 
+and larger (up to a certain point) as we move away from the nucleus 
+ 
+( Figure 6.19).
+A Closer look Probability Density and Radial Probability Functions
+ [
+ c(r)]2 is probability density 
+at aPy sReEKﬁE RoKPt oP the 
+sRhere
+4pr2[
+ c(r)]2 is radial probability
+function 5 sum of all [
+ c(r)]2
+haXKPI aPy IKXeP Xalue of r
+▲ Figure 6.21 Comparin g probability density 3C1r2 42 and radial 
+probability function 4Pr 23C1r2 42.
+n = 1, l = 0
+r
+n = 2, l = 0
+Node
+Nodes
+r
+n = 3, l = 0
+1s
+2s
+3s
+r
+2
+    c3s
+2
+    c2s
+2
+    c1s
+▲ Figure 6.22 Probability density 3C1r2 42 in the 1s, 2s, and 3s orbitals  
+of hydrogen.
+The radial probability functions in Figure 6.19 provide us with 
+the more use ful information because they tell us the probability of 
+ﬁnding the electron at all points a distance r from the nucleus, not 
+just one particular point

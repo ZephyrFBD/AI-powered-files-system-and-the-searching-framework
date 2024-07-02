@@ -1,0 +1,24 @@
+le to 
+rewrite a complicated-looking expression as a much simpler one. 
+To simplify algebraic expressions, we used factoring, common denominators, and the 
+Special Product Formulas. 
+To simplify trigonometric expressions, we use these same techniques together with the 
+fundamental trigonometric identities. 
+ 
+137 
+Example 1 
+Simplify the expression cos t + tan t sin t 
+ 
+ 
+ 
+ 
+ 
+3.7.3 Proving Trigonometric Identities 
+ 
+To verify that a trigonometric equation is an identity, we transform one side of the equation 
+into the other side by a series of steps, each of which is itself an identity. 
+GUIDELINES FOR PROVING TRIGONOMETRIC IDENTITIES 
+1. Start with one side. Pick one side of the equation, and write it down. Your goal is to 
+transform it into the other side. It’s usually easier to start with the more complicated side. 
+2. Use known identities. Use algebra and the identities you know to change the side you 
+started with. Bring fractional expressions to a common denominator, factor, 

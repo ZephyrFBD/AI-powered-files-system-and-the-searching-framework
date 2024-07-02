@@ -1,0 +1,43 @@
+irror. The height of the object 
+is
+called 
+and the height of the image,
+is 
+Two rays leaving 
+are shown:
+(same as ray 2 in Fig. 23–15) and 
+which is a fourth type of ray that
+reflects at the center of the mirror and can also be used to find an image point.
+O¿AI¿,
+O¿FBI¿
+O¿
+hi.
+I¿I,
+ho
+OO¿
+di,
+do,
+652
+CHAPTER 23
+Light: Geometric Optics
+The ray 
+obeys the law of reflection, so the two right triangles 
+and
+are similar. Therefore, we have
+For the other ray shown,
+the triangles 
+and AFB are also similar
+because the angles at F are equal and we use the approximation
+(mirror
+small compared to its radius). Furthermore 
+the focal length of the
+mirror, so
+The left sides of the two preceding expressions are the same, so we can equate
+the right sides:
+We now divide both sides by 
+and rearrange to obtain
+(23;2)
+This is the equation we were seeking. It is called the mirror equation and relates
+the object and image distances to the focal length f (where
+).
+The mirror equation also holds for a plane 

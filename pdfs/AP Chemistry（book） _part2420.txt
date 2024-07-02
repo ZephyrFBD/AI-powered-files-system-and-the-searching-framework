@@ -1,0 +1,23 @@
+ction would proceed in the 
+opposite direction (from right to left) if the container volume 
+were reduced sufficiently. (b) The reaction would proceed 
+in the opposite direction if the container volume were ex-
+panded sufficiently. (c) The direction of this reaction does 
+not depend on the volume of the container.
+ 
+▶Practice Exercise 2
+At 1000 K, the value of Kp for the reaction 2 SO31g2 ∆  
+2 SO21g2 + O21g2 is 0.338. Calculate the value for Q p, and 
+predict the direction in which the reaction proceeds toward 
+equilibrium if the initial partial pressures are P
+SO3 = 0.16 atm;  
+P
+SO2 = 0.41 atm; P
+O2 = 2.5 atm.
+For the Haber process, N21g2 + 3 H21g2 ∆ 2 NH31g2, Kp = 1.45 * 10-5, at 500 °C. In an equilibrium mixture of the three 
+gases at 500 °C, the partial pressure of H2 is 0.928 atm and that of N2 is 0.432 atm. What is the partial pressure of NH3 in this 
+equilibrium mixture?
+Sample Exercise 15.10
+ Calculating Equilibrium Concentrations
+SOLUTION
+Analyze We are given an equilibrium 

@@ -1,0 +1,29 @@
+So we need to consider 
+whether the three equations we are working 
+with can be combined in a similar fashion. 
+Notice that if we add the Ksp reaction to the 
+standard reduction half-reaction for Fe2+, we 
+get the half-reaction we want:
+Reaction 3 is still a half-reaction, so we do 
+see the free electrons.
+ 
+Chapter Summary and Key Terms 
+889
+ 
+If we knew ∆G° for reactions 1 and 2, we 
+could add them to get ∆G° for reaction 3. 
+We can relate ∆G° to E° by ∆G° = -nFE° 
+(Equation 20.12) and to K by ∆G° = -RT 
+ln K (Equation 19.20; see also Figure 20.13). 
+Furthermore, we know that K for reaction 1 
+is the Ksp of FeF2, and we know E° for  
+reaction 2. Therefore, we can calculate ∆G° 
+for reactions 1 and 2:
+Reaction 1:
+∆G° = -RT ln K = -18.314 J>K mol21298 K2 ln12.4 * 10-62 = 3.21 * 104 J>mol 
+Reaction 2:
+∆G° = -nFE ° = -122196,485 C>mol21-0.440 J>C2 = 8.49 * 104 J>mol
+(Recall that 1 volt is 1 joule per coulomb.)
+3.21 * 104 J>mol + 8.49 * 104 J>mol = 1.17 * 105 J>mol 
+ 
+Then ∆G° for reactio

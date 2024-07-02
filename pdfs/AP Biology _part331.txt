@@ -1,0 +1,27 @@
+nemia results from a single
+point mutation in a single base pair in the gene that codes for hemoglobin.
+This point mutation is responsible for the production of abnormal
+hemoglobin that can cause red blood cells to sickle when oxygen tension is
+low. When red blood cells sickle, a variety of tissues may be deprived of
+oxygen and suffer severe, permanent damage. The possibility exists,
+however, that a point mutation could result in a beneficial change for an
+organism or, because of wobble in the genetic code, result in no change in
+the proteins produced. (Wobble is the relaxation of the base pairing rules
+for the third base in a codon.) Here is an example of wobble:
+DNA
+mRNA
+Amino Acid Produced
+******ebook converter DEMO Watermarks*******
+AAA
+UUU
+Phenylalanine
+AAG
+UUC
+Phenylalanine
+  ↑ mutation
+ 
+No change occurs in the amino acid.
+The mutation shown above is called a silent mutation because it does not
+result in any change in the amino acid sequence.
+Insertion or Deletion
+A second type 

@@ -1,0 +1,59 @@
+lied to the
+parallel plates produces an electric field 
+and a pair of coils produces a
+magnetic field 
+If 
+the cathode rays follow path b in Fig. 27–2.
+E = B = 0,
+B
+B.
+E
+B,
+em
+em,
+772
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+FIGURE 27–1 Discharge tube. In
+some models, one of the screens is
+the anode (positive plate).
+High
+voltage
+Cathode
+Screens
+Glow
+Anode
+–
++
+FIGURE 27–2 Cathode rays
+deflected by electric and magnetic
+fields. (See also Section 17–11 on
+the CRT.)
+I
+High
+voltage
+Electric field
+plates
+Coils to produce
+magnetic field
+Anode
+I
+a
+c
+b
+–
+–
+–
+–
++
++
++
++
++
+When only the electric field is present, say with the upper plate positive, the
+cathode rays are deflected upward as in path a in Fig. 27–2. If only a magnetic
+field exists, say inward, the rays are deflected downward along path c. These
+observations are just what is expected for a negatively charged particle. The force
+on the rays due to the magnetic field is
+where e is the charge and v is
+the velocity of the c

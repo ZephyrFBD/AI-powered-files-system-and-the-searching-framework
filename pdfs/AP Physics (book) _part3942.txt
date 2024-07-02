@@ -1,0 +1,53 @@
+(electroluminescent)
+device, 849
+Elapsed time, 23–24
+Elastic collisions, 178–80, 183
+Elastic limit, 241
+Elastic moduli, 241
+and speed of sound waves,
+308–9
+Elastic potential energy, 148,
+154–55, 295
+Elastic region, 241
+Elasticity, 241–45
+Electric battery, 476, 502–3,
+507, 527
+Electric car, 504, 524 pr, 604
+Electric cell, 505, 527
+Electric charge, 444 ff
+in atom, 445
+conservation of, 444, 869, 926
+and Coulomb’s law, 447–53
+of electron, 448, 579
+elementary, 448
+induced, 446–47, 486
+motion of, in magnetic field,
+566–69
+negative, 444, 475, 503, 505
+point (defn), 449
+positive, 444, 475, 503, 505
+quantization of, 448
+test, 453
+types of, 444
+Electric circuits, 504–5, 512–15,
+526–48, 610–16
+ac, 514–15, 526 fn, 611–16
+complete, 504
+containing capacitors,
+538–43, 612 ff
+dc, 514, 526–48
+digital, 851
+induced, 590 ff
+integrated, 851
+and Kirchhoff’s rules, 532–35
+LC, 616
+LR, 610
+LRC, 614–16
+open, 504
+A-48
+Index
+Electric circuits (continued)
+parallel, 513, 528
+RC, 538–43
+rectifier, 846–47
+resonant, 6

@@ -1,0 +1,30 @@
+ture contains 125 loops and rotates in a field of
+0.200 T at a rate of 
+*88. Typical large values for electric and magnetic fields
+attained in laboratories are about 
+and
+2.0 T. (a) Determine the energy density for each field and
+compare. (b) What magnitude electric field would be
+needed to produce the same energy density as the 2.0-T
+magnetic field?
+*89. Determine the inductance L of the primary of a transformer
+whose input is 220 V at 60.0 Hz if the current drawn is 6.3 A.
+Assume no current in the secondary.
+1.0 * 104 Vm
+120 revs.
+Ts
+120 
+120 ms.
+*73. (III) A 2200-pF capacitor is charged to 120 V and then
+quickly connected to an inductor. The frequency of oscilla-
+tion is observed to be 19 kHz. Determine (a) the inductance,
+(b) the peak value of the current, and (c) the maximum
+energy stored in the magnetic field of the inductor.
+FIGURE 21–65
+Problem 84.
+I
+624
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+*92. The Q factor of a resonant ac circuit (Section 21–15) can
+be 

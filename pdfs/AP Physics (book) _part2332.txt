@@ -1,0 +1,13 @@
+nerator, the situation is the reverse of that for a motor. As we saw, the
+mechanical turning of the armature induces an emf in the loops, which is the
+output. If the generator rotates but is not connected to an external circuit,
+the emf exists at the terminals but there is no current. In this case, it takes little effort
+to turn the armature. But if the generator is connected to a device that draws cur-
+rent, then a current flows in the coils of the armature. Because this current-carrying
+coil is in an external magnetic field, there will be a torque exerted on it (as in
+a motor), and this torque opposes the motion (use right-hand-rule-2, page 568,
+for the force on a wire in Fig. 21–14 or 21–17). This is called a counter torque.
+The greater the electrical load—that is, the more current that is drawn—the
+greater will be the counter torque. Hence the external applied torque will have to
+be greater to keep the generator turning. This makes sense from the conservation
+of energy principle. M

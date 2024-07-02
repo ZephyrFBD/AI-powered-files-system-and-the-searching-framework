@@ -1,0 +1,28 @@
+the number of elec-
+tron domains surrounding the middle atom in the angle. The 
+ideal angle corresponds to the electron-domain geometry around 
+the atom. The angle will be compressed somewhat by nonbond-
+ing electrons or multiple bonds.
+Solve In H ¬ O¬C, the O atom has four electron domains (two 
+bonding, two nonbonding). The electron-domain geometry around 
+O is therefore tetrahedral, which gives an ideal angle of 109.5°. 
+The H ¬O¬ C angle is compressed somewhat by the nonbonding 
+pairs, so we expect this angle to be slightly less than 109.5°.
+To predict the O¬C ¬C bond angle, we examine the middle 
+atom in the angle. In the molecule, there are three atoms bonded 
+to this C atom and no nonbonding pairs, and so it has three elec-
+tron domains about it. The predicted electron-domain geometry is 
+trigonal planar, resulting in an ideal bond angle of 120°. Because 
+of the larger size of the C “ C domain, the bond angle should be 
+slightly greater than 120°.
+C
+N
+H
+H
+H
+H
+H
+N
+H
+ 
+▶Practice E

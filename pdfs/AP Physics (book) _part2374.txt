@@ -1,0 +1,90 @@
+e does. We say
+that the
+current lags the voltage by 90° for an inductor.
+Because the current and voltage in an inductor are out of phase by 90°, the product
+is as often positive as it is negative (Fig.21–40b). So no energy is trans-
+formed in an inductor on average; and no energy is dissipated as thermal energy.
+IV (= power)
+1
+4
+t
+t
+V = –V
+0 .
+V = V
+0 .
+L ¢I¢t
+¢I
+¢t
+= V
+L
+V - L ¢I
+¢t = 0
+*
+g = q = Irms
+2
+R = Vrms
+2
+R.
+V
+0 = I
+0R
+V = IR = I
+0R cos 2pft = V
+0 cos 2pft
+*
+I
+rms = I
+012
+V
+rms = V
+012
+I
+0
+t
+I = I
+0 cos 2pft,
+*
+t
+V0
+0
+I0
+V
+I
+V
+I
+I = I0 cos 2
+V = V0 cos 2π ft
+π ft
+R
+(a)
+(b)
+t
+V
+I
+V
+I
+I = I0 cos 2π ft
+V = –V
+0 sin 2π ft
+L
+(a)
+(b)
+a
+b
+c
+d
+e
+V0
+0
+I0
+FIGURE 21–40 (a) Inductor
+connected to an ac source.
+(b) Current (blue curve) lags voltage
+(red curve) by a quarter cycle, or 90°.
+FIGURE 21–39 (a) Resistor
+connected to an ac source.
+(b) Current (blue curve) is in phase
+with the voltage (red) across a
+resistor.
+Just as a resistor impedes the flow of charge, so too an inductor imp

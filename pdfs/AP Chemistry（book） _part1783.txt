@@ -1,0 +1,23 @@
+.6 
+Properties of Liquid Crystals
+SOLUTION
+Analyze We have three molecules with different structures, and 
+we are asked to determine which one is most likely to be a liquid 
+crystalline substance.
+Plan We need to identify all structural features that might induce 
+liquid crystalline behavior.
+Solve Molecule (i) is not likely to be liquid crystalline because 
+the absence of double and/or triple bonds makes this molecule 
+flexible rather than rigid. Molecule (iii) is ionic, and the generally 
+high melting points of ionic materials make it unlikely that this 
+substance is liquid crystalline. Molecule (ii) possesses the charac-
+teristic long axis and the kinds of structural features often seen 
+in liquid crystals: The molecule has a rod-like shape, the double 
+bonds and benzene rings provide rigidity, and the polar COOCH3 
+group creates a dipole moment.
+ 
+▶Practice Exercise 1
+Liquid crystalline phases are produced by which of the 
+following?
+(a) short, flexible molecules 
+(b) complete lack

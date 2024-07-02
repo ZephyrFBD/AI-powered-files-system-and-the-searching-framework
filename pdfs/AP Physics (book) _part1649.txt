@@ -1,0 +1,23 @@
+ice/water.
+APPROACH We consider the 56 g of water, initially in the form of ice, as our
+system. To determine the entropy change, we first must find the heat needed to
+melt the ice, which we do using the latent heat of fusion of water,
+(Section 14–5). The heat Q required comes from the surroundings.
+SOLUTION The heat required to melt 28 g of ice (half of the 56-g ice cube) is
+The temperature remains constant in our process, so we can find the change in
+entropy from Eq. 15–8:
+NOTE The change in entropy of the surroundings (cup, air) has not been computed.
+¢S = Q
+T
+=
+9.3 kJ
+273 K = 34 JK.
+Q = mL = (0.028 kg)(333 kJkg) = 9.3 kJ.
+L = 333 kJkg
+EXAMPLE 15;13
+Entropy change when water samples are
+mixed. A sample of 50.0 kg of water at 20.00°C is mixed with 50.0 kg of water
+at 24.00°C. Estimate the change in entropy.
+APPROACH The final temperature of the mixture will be 22.00°C, since we
+started with equal amounts of water. We use the specific heat of water and 
+the methods of calorimetry (S

@@ -1,0 +1,14 @@
+s. When a potential difference is applied across
+the metal, electrons can respond by accelerating and increasing their energy, since
+there are plenty of unoccupied states of slightly higher energy available. Hence,
+a current flows readily and sodium is a good conductor. The characteristic of all
+good conductors is that the highest energy band is only partially filled, or two
+bands overlap so that unoccupied states are available. An example of the latter 
+is magnesium, which has two 3s electrons, so its 3s band is filled. But the unfilled
+3p band overlaps the 3s band in energy, so there are lots of available states for the
+electrons to move into. Thus magnesium, too, is a good conductor.
+In a material that is a good insulator, on the other hand, the highest band
+containing electrons, called the valence band, is completely filled. The next
+highest energy band, called the conduction band, is separated from the valence
+band by a “forbidden” energy gap (or band gap),
+of typically 5 to 10 eV

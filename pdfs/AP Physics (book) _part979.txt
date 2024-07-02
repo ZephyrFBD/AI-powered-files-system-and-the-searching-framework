@@ -1,0 +1,23 @@
+nd states 
+that the change in length of an object is proportional to the
+©F
+x = 0,  ©F
+y = 0,    ©t = 0.
+applied force:
+(9;3)
+If the force is too great, the object will exceed its elastic limit,
+which means it will no longer return to its original shape when
+the distorting force is removed. If the force is even greater, the
+ultimate strength of the material can be exceeded, and the
+object will fracture. The force per unit area acting on an object
+is the stress, and the resulting fractional change in length is the
+strain.
+The stress on an object is present within the object and
+can be of three types: compression, tension, or shear. The ratio
+of stress to strain is called the elastic modulus of the material.
+Young’s modulus applies for compression and tension, and the
+shear modulus for shear. Bulk modulus applies to an object
+whose volume changes as a result of pressure on all sides. All
+three moduli are constants for a given material when distorted
+within the elastic region.
+[*Arches an

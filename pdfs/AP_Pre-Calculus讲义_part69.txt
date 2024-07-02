@@ -1,0 +1,78 @@
+ur times as intense. What was the magnitude of the Colombia-Ecuador earthquake 
+on the Richter scale? 
+ 
+ 
+ 
+ 
+ 
+2.10.5 The Decibel Scale 
+The ear is sensitive to an extremely wide range of sound intensities. We take as a 
+reference intensity  
+-
+=
+12
+0
+2
+W
+10
+m
+I
+ 
+(watts per square meter) at a frequency of 1000 hertz, which measures a sound that is just 
+barely audible (the threshold of hearing). 
+The psychological sensation of loudness varies with the logarithm of the intensity (the 
+Weber-Fechner Law), so the decibel level B, measured in decibels (dB), is defined as 
+=
+0
+10log I
+B
+I  
+The decibel level of the barely audible reference sound is 
+=
+=
+=
+0
+0
+10log
+10log1
+0 dB
+I
+B
+I
+ 
+ 
+Example 4 
+(a) Find the decibel level of a jet engine at takeoff if the intensity was measured at 
+100W/m2. 
+(b) Find the intensity level of a motorcycle engine at full throttle if the decibel level was 
+measured at 90 dB. 
+ 
+ 
+ 
+ 
+ 
+102 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

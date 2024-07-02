@@ -1,0 +1,30 @@
+. 18–5.
+SOLUTION The circuit in Fig. 18–20 draws the following currents: the light-
+bulb draws 
+the heater draws 
+the power amplifier draws a maximum of
+and
+the hair dryer draws
+The total current drawn, if all
+devices are used at the same time, is
+NOTE The heater draws as much current as 18 100-W lightbulbs. For safety, the
+heater should probably be on a circuit by itself.
+0.8 A + 15.0 A + 1.5 A + 12.5 A = 29.8 A.
+1500 W120 V = 12.5 A.
+175 W120 V = 1.5 A;
+15.0 A;
+1800 W120 V =
+I = PV = 100 W120 V = 0.8 A;
+I = PV,
+EXAMPLE 18;11
+A dangerous extension cord. Your
+1800-W portable electric heater is too far from your desk to warm your feet. Its 
+cord is too short, so you plug it into an extension cord rated at 11 A. Why is this
+dangerous?
+RESPONSE 1800 W at 120 V draws a 15-A current. The wires in the extension
+cord rated at 11 A could become hot enough to melt the insulation and cause a fire.
+CONCEPTUAL EXAMPLE 18;12
+P H Y S I C S  A P P L I E D
+Extension cords and possible
+danger
+EXE

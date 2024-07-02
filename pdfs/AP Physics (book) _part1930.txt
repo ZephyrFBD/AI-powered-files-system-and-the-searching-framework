@@ -1,0 +1,24 @@
+tance of this capacitor and the area of each plate.
+0.675 mC.
+8.24 * 104 Vm.
+(K = 3.75)
+498
+CHAPTER 17
+Electric Potential
+17–9 Electric Energy Storage
+52. (I) 650 V is applied to a 2800-pF capacitor. How much
+energy is stored?
+53. (I) A cardiac defibrillator is used to shock a heart that is
+beating erratically. A capacitor in this device is charged to
+5.0 kV and stores 1200 J of energy. What is its capacitance?
+54. (II) How much energy is stored by the electric field
+between two square plates, 8.0 cm on a side, separated by a
+1.5-mm air gap? The charges on the plates are equal and
+opposite and of magnitude 
+55. (II) A homemade capacitor is assembled by placing two 9-in.
+pie pans 4 cm apart and connecting them to the opposite ter-
+minals of a 9-V battery. Estimate (a) the capacitance, (b) the
+charge on each plate, (c) the electric field halfway between the
+plates, and (d) the work done by the battery to charge them.
+(e) Which of the above values change if a dielectric is inserted?
+56. 

@@ -1,0 +1,9 @@
+nability to predict the consequences of changes in ecosystem species
+and/or environment. Ecosystems are dynamic entities and subject to a variety of abiotic and biotic disturbances caused by
+natural forces and/or human activity. Ecosystems altered from their initial equilibrium state can often recover from such
+disturbances and return to a state of equilibrium. As most ecosystems are subject to periodic disturbances and are often
+in a state of change, they are usually either moving toward or away from their equilibrium state. There are many of these
+equilibrium states among the various components of an ecosystem, which affects the ecosystem overall. Furthermore, as
+humans have the ability to greatly and rapidly alter the species content and habitat of an ecosystem, the need for predictive
+models that enable understanding of how ecosystems respond to these changes becomes more crucial.
+Analytical models often use simple, linear components of ecosystems, such as food chains, and are know

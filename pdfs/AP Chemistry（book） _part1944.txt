@@ -1,0 +1,24 @@
+e bulk material.
+Metals on the Nanoscale
+Metals also have unusual properties on the 1–100-nm-length scale. Fun-
+damentally, this is because the mean free path 
+ (Section 10.8) of an 
+electron in a metal at room temperature is typically about 1–100 nm. 
+So when the particle size of a metal is 100 nm or less, one might expect 
+unusual effects because the “sea of electrons” encounters a “shore” (the 
+surface of the particle).
+◀ Figure 12.44 Cd3P
+2 powders with 
+different particle sizes. The arrow indicates 
+decreasing particle size and a corresponding 
+increase in the band gap energy, resulting in 
+different colors.
+508 
+CHAPTER 12 Solids and Modern Materials
+Macroporous materials have pores that are visible to the 
+naked eye. Examples include the everyday synthetic sponge 
+ 
+[Figure 12.46(a)] and the honeycomb-like cordierite core of an 
+automobile catalytic converter [Figure 12.46(b)], with pore sizes 
+in the mm size range and the tens of μm size range, respectively. 
+Microporous and me

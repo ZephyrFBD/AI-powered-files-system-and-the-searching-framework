@@ -1,0 +1,27 @@
+ femtowatt (fW)
+= 1 * 10-15 watt
+Atto
+a
+10-18
+1 attowatt (aW)
+= 1 * 10-18 watt
+Zepto
+z
+10-21
+1 zeptowatt (zW)
+= 1 * 10-21 watt
+a 
+The watt (W) is the SI unit of power, which is the rate at which energy is either generated or consumed. 
+The SI unit of energy is the joule (J); 1 J = 1 kg # m2>s2 and 1 W = 1 J>s.
+bGreek letter mu, pronounced “mew.”
+With SI units, prefixes are used to indicate decimal fractions or multiples of various 
+units. For example, the prefix milli- represents a 10-3 fraction, one-thousandth, of a unit: A 
+milligram (mg) is 10-3 gram (g), a millimeter (mm) is 10-3 meter (m), and so forth. Table 1.4 
+presents the prefixes commonly encountered in chemistry. In using SI units and in working 
+problems throughout this text, you must be comfortable using exponential notation. If you 
+are unfamiliar with exponential notation or want to review it, refer to Appendix A.1.
+ 
+SECTION 1.5   
+Units of Measurement 
+19
+Although non–SI units are being phased out, some are still comm

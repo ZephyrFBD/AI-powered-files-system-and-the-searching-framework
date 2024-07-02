@@ -1,0 +1,65 @@
+that point.
+The lobes of the wave functions for the d orbitals also have 
+different phases. For example, the wave function for a dxy orbital 
+has four lobes, with the phase of each lobe opposite the phase 
+of its nearest neighbors (Figure 9.39). The wave functions for the 
+*The mathematical development of this three-dimensional func-
+tion (and its square) is beyond the scope of this book, and, as is 
+typically done by chemists, we have used lobes that are the same 
+shape as in Figure 6.23.
+ 
+SECTION 9.8   
+Bonding in Period 2 Diatomic Molecules 
+375
+1s orbital
+6
+4
+2
+0
+z (Å)
+22
+24
+26
+Wave function (    )
+Wave function (    )
+Probability density (      )
+2
+6
+4
+2
+0
+z (Å)
+2pz orbital
+22
+24
+26
+xy nodal plane
+   5 0
+No nodal plane
+xy nodal plane
+  2 5 0
+6
+4
+2
+0
+z (Å)
+22
+24
+26
+(2pz)2 orbital
+z
+x
+y
+z
+x
+y
+z
+x
+y
+▲ Figure 9.38 Phases in wave functions of s and p atomic orbitals. Red shading means a positive value for the wave function, and blue shading 
+means a negative value.
+y
+z
+x
+Lobes have
+al

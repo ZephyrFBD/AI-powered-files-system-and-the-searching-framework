@@ -1,0 +1,13 @@
+acidic.
+A pH greater than 7 is basic.
+A pH of 7 is neutral.
+Due to the negative sign in the formula for pH, a higher [H+] leads to a lower pH value and a lower [H+] leads to
+a higher pH value. Thus, a solution with a pH of 3 would have a higher [H+] than that of a solution with a pH of 5.
+Also, because the pH scale is a logarithmic scale, a pH change of one unit corresponds to a tenfold difference in H+
+concentration. For example, a pH of 3 would have 10 times the H+ concentration of a pH of 4 and 100 times the
+concentration of a pH of 5.
+The pH of a water-based solution depends on how many of the water molecules are dissociated (separated into
+H+ ions and OH– ions) and the relative numbers of these ions. Pure water will dissociate and produce equal
+concentrations of H+ ions and OH– ions, resulting in a pH of 7. Acids increase the relative concentration of H+ ions
+in a solution, and bases increase the relative concentration of OH– ions in a solution.
+Biological systems can be very sens

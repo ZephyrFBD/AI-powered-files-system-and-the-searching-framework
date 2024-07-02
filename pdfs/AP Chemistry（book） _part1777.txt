@@ -1,0 +1,22 @@
+, liquid, and gas-
+eous phases coexist. It is marked point 1 in the phase diagram 
+and located at approximately -180 °C and 0.1 atm.
+(c) The intersection of 0 °C and 1 atm is marked point 2 in the 
+phase diagram. It is well within the gaseous region of the 
+phase diagram.
+(d) If we start in the solid region at P = 1 atm and move hor-
+izontally (this means we hold the pressure constant), we 
+cross ﬁrst into the liquid region, at T ≈-180 °C, and then 
+into the gaseous region, at T ≈-160 °C. Therefore, solid 
+methane melts when the pressure is 1 atm. (For methane  
+to sublime, the pressure must be below the triple point 
+pressure.)
+(e) Moving vertically up from point 2, which is 1 atm and 0 °C, 
+the ﬁrst phase change we come to is from gas to supercritical 
+ﬂuid. This phase change happens when we exceed the critical 
+pressure 1∼50 atm2.
+ 
+▶Practice Exercise 1
+Based on the phase diagram for methane (Figure 11.30), what 
+happens to methane as it is heated from -250 to 0 °C at a 
+pressure of

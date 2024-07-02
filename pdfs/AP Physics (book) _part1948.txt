@@ -1,0 +1,23 @@
+ance?
+(a)
+(c)
+(b)
+(d)
+Current
+Current
+Current
+Current
+I
+n the previous two Chapters we have been studying static electricity: electric
+charges at rest. In this Chapter we begin our study of charges in motion, and
+we call a flow of charge an electric current.
+In everyday life we are familiar with electric currents in wires and other
+conductors. Most practical electrical devices depend on electric current: current
+through a lightbulb, current in the heating element of a stove, hair dryer, or elec-
+tric heater, as well as currents in electronic devices. Electric currents can exist in
+conductors such as wires, but also in semiconductor devices, human cells and
+their membranes (Section 18–10), and in empty space.
+In electrostatic situations, we saw in Section 16–9 that the electric field must
+be zero inside a conductor (if it weren’t, the charges would move). But when
+charges are moving along a conductor, an electric field is needed to set charges
+into motion, and to keep them in motion aga

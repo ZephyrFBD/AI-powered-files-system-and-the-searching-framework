@@ -1,0 +1,38 @@
+What are the identities of isotopes Q and Z? (b) Iso-
+tope Q is unusual in that it is very long-lived (its half-life 
+is on the order of 1019 yr) in spite of having an unfavorable 
+neutron-to-proton ratio (Figure 21.1). Can you propose a 
+reason for its unusual stability? (c) Collision of ions of iso-
+tope Q with a target was also used to produce the ﬁrst atoms 
+of livermorium, Lv. The initial product of this collision was 
+296
+116Lv. What was the target isotope with which Q collided in 
+this experiment?
+ 21.78  The synthetic radioisotope technetium-99, which decays 
+by beta emission, is the most widely used isotope in nuclear 
+medicine. The following data were collected on a sample 
+ 
+of 99Tc:
+Disintegrations  
+per Minute
+Time (h)
+180
+ 0
+130
+ 2.5
+104
+ 5.0
+ 77
+ 7.5
+ 59
+10.0
+ 46
+12.5
+ 24
+17.5
+Using these data, make an appropriate graph and curve ﬁt 
+to determine the half-life.
+940 
+CHAPTER 21 Nuclear Chemistry
+ [21.79]  According to current regulations, the maximum per-
+missible dose of

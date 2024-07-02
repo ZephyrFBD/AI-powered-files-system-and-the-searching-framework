@@ -1,0 +1,24 @@
+ 3.6 * 10–4 V
+0.012 
+= 0.030 A = 30 mA.
+e =
+¢£B
+¢t
+=
+A4.0 * 10–4 Tm2B - A3.5 * 10–4 Tm2B
+0.14 s
+= 3.6 * 10–4 V.
+The minus signs in Eqs. 21–2a and b are there to remind us in which direction
+the induced emf acts. Experiments show that
+a current produced by an induced emf moves in a direction so that the
+magnetic field created by that current opposes the original change in flux.
+This is known as Lenz’s law. Be aware that we are now discussing two distinct mag-
+netic fields: (1) the changing magnetic field or flux that induces the current, and
+(2) the magnetic field produced by the induced current (all currents produce a
+magnetic field). The second (induced) field opposes the change in the first.
+Lenz’s law can be said another way, valid even if no current can flow (as when
+a circuit is not complete):
+An induced emf is always in a direction that opposes the original change in
+flux that caused it.
+Let us apply Lenz’s law to the relative motion between a magnet and a coil,
+Fig. 21–2. The

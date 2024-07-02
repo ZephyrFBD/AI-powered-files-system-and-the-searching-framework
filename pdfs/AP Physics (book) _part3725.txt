@@ -1,0 +1,19 @@
+is lower and the wavelength longer. The Doppler effect
+occurs also for light, but the formula for light is slightly different than for sound
+and is given by†
+(33;3)
+where 
+is the emitted wavelength as seen in a reference frame at rest with
+respect to the source, and 
+is the wavelength observed in a frame moving with
+velocity 
+away from the source along the line of sight. (For relative motion
+toward each other,
+in this formula.) When a distant source emits light of
+a particular wavelength, and the source is moving away from us, the wavelength
+appears longer to us: the color of the light (if it is visible) is shifted toward the red
+end of the visible spectrum, an effect known as a redshift. (If the source moves
+toward us, the color shifts toward the blue or shorter wavelength.)
+In the spectra of stars in other galaxies, lines are observed that correspond to
+lines in the known spectra of particular atoms (see Section 27–11 and Figs. 24–28
+and 27–23). What Hubble found was that the lines s

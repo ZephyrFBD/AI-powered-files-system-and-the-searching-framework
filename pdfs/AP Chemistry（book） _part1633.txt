@@ -1,0 +1,14 @@
+y, from 200 to 1000 K in Figure 10.19—
+the negative deviation of PV>RT from the ideal value of 1 disappears. As noted earlier, 
+the deviations seen at high temperatures stem mainly from the effect of the finite vol-
+umes of the molecules.
+The van der Waals Equation
+Engineers and scientists who work with gases at high pressures often cannot use the 
+ideal-gas equation because departures from ideal behavior are too large. One useful 
+equation developed to predict the behavior of real gases was proposed by the Dutch 
+scientist Johannes van der Waals (1837–1923).
+As we have seen, a real gas has a lower pressure due to intermolecular forces, and a 
+larger volume due to the finite volume of the molecules, relative to an ideal gas. Van der 
+Waals recognized that it would be possible to retain the form of the ideal-gas equation, 
+PV = nRT, if corrections were made to the pressure and the volume. He introduced two 
+constants for these corrections: a, a measure of how strongly the gas molecules 

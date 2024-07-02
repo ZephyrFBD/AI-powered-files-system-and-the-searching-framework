@@ -1,0 +1,12 @@
+ is the rate at which producers acquire chemical energy through photosynthesis
+before any of this energy is used for metabolism.
+2. Net primary productivity (NPP) is the rate at which producers acquire chemical energy through photosynthesis
+less the rate at which they consume energy through respiration.
+3. Respiratory rate is the rate at which energy is consumed through respiration.
+Part I: Estimating Net Primary Productivity
+Net primary productivity for Wisconsin Fast Plants is evaluated at various intervals by weighing them. This provides
+the mass of a live plant, which contains a considerable amount of water. Dry mass can be determined by weighing a
+group of live plants, then drying them in an oven, and weighing the dry matter to determine the percent of dry matter
+in the live plants. Chemical energy can be determined by multiplying biomass by 4.35 kcal/g. The net rate of
+chemical energy gain can be determined by calculating the change in energy per day.
+Part II: Estimating Energy F

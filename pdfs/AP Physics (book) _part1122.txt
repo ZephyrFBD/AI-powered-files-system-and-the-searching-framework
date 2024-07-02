@@ -1,0 +1,45 @@
+ and determine if the flow is laminar or turbulent.
+*64. (II) Assuming a constant pressure gradient, if blood flow 
+is reduced by 65%, by what factor is the radius of a blood
+vessel decreased?
+*65. (II) Calculate the pressure drop per cm along the aorta
+using the data of Example 10–12 and Table 10–3.
+*66. (III) A patient is to be given a blood transfusion. The blood
+is to flow through a tube from a raised bottle to a needle
+inserted in the vein (Fig. 10–55). The inside
+diameter of the 25-mm-long needle is
+0.80 mm, and the required flow rate is
+of blood per minute. How high h
+should the bottle be placed above the
+needle? Obtain and 
+from the
+Tables. Assume the blood
+pressure is 78 torr above
+atmospheric pressure.
+h
+r
+2.0 cm3
+35 cms.
+(r = 0.80 cm)
+h
+r
+v
+Re = 2vrr
+h
+,
+650 cm3s?
+Ar = 950 kgm3, h = 0.20 Pa # sB
+0.710 * 10–3 atm.
+8.0 m * 14.0 m * 4.0 m
+5
+8-in.-diameter
+3
+8-in.-diameter
+6.2 mLmin?
+57 revmin.
+0.024 m # N
+FIGURE 10–54
+Problem 55.
+FIGURE 10–53
+Problem 53.
+54. (II) Show that

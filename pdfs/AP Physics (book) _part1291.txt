@@ -1,0 +1,20 @@
+11–19b), where
+refers to the fundamental and
+are
+the overtones. All of the standing waves,
+are called harmonics†,
+as we saw in Section 11–12.
+When a finger is placed on the string of a guitar or violin, the effective length
+of the vibrating string is shortened. So its fundamental frequency, and pitch, is
+higher since the wavelength of the fundamental is shorter (Fig. 12–8). The strings
+on a guitar or violin are all the same length. They sound at a different pitch
+because the strings have different mass per unit length,
+which affects
+the velocity on the string, Eq. 11–13,
+[stretched string]
+Thus the velocity on a heavier string is lower and the frequency will be lower for
+the same wavelength. The tension 
+also has an effect: indeed, adjusting the ten-
+sion is the means for tuning the pitch of each string. In pianos and harps the strings
+are of different lengths. For the lower notes the strings are not only longer, but
+heavier as well, and the reason is illustrated in the following Examp

@@ -1,0 +1,19 @@
+itals 
+can be hybridized to obtain different geometries, such as sp2 and sp3.
+In BF3, for example, mixing the 2s and two of the 2p atomic orbitals yields three 
+equivalent sp2 (pronounced “s-p-two”) hybrid orbitals (Figure 9.16). The three sp2 hybrid 
+orbitals lie in the same plane, 120° apart from one another. They are used to make three 
+equivalent bonds with the three fluorine atoms, leading to the trigonal-planar molecular 
+geometry of BF3. Notice that an unfilled 2p atomic orbital remains unhybridized; it is ori-
+ented perpendicular to the plane defined by the three sp2 hybrid orbitals, with one lobe 
+above and one below the plane. This unhybridized orbital will be important when we 
+discuss double bonds in Section 9.6.
+An s atomic orbital can mix with all three p atomic orbitals in the same subshell. For 
+example, the carbon atom in CH4 forms four equivalent bonds with the four hydrogen 
+Large lobes from two Be sp hybrid orbitals
+F
+F
+Be
+F 2p atomic orbital
+F 2p atomic orbital
+Ove

@@ -1,0 +1,43 @@
+ight LED. White light can be approximated by LEDs in two ways:
+(1) using a red, a yellow–green, and a blue LED; (2) using a blue LED with
+coatings of “powders” or “phosphors” that are fluorescent (Section 28–10). For
+the latter, the high-energy blue LED photons are themselves emitted, plus they
+can excite the various phosphors to excited states which decay in two or more
+steps, emitting light of lower energy and longer wavelengths. Figure 29–34 shows
+typical spectra of both types.
+Eg
+848
+CHAPTER 29
+Wavelength (nm)
+400
+500
+600
+700
+Light intensity 
+(a)
+Wavelength (nm)
+400
+500
+600
+800
+700
+Light intensity 
+(b)
+Blue
+Red
+Yellowish
+green
+Blue LED
+Fluorescent
+phosphors
+(powders)
+FIGURE 29–34 (a) A combination of
+three LEDs of three different colors
+gives a sort of white color, but there
+are large wavelength gaps, so some
+colors would not be reflected and
+would appear black; this type is 
+rarely used now. (b) A blue LED with
+fluorescent phosphors or powders
+gives a better approximation of 
+whit

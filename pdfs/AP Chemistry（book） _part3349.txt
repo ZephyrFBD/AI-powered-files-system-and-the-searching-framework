@@ -1,0 +1,33 @@
+equation is
+226
+88Ra ¡ 222
+86Rn + 4
+2He
+ 
+▶Practice Exercise 1
+What product forms when plutonium-238 undergoes alpha 
+emission?
+(a) Plutonium-234 (b) Uranium-234 (c) Uranium-238
+(d) Thorium-236 (e) Neptunium-237
+ 
+▶Practice Exercise 2
+Which element undergoes alpha emission to form lead-208?
+904 
+CHAPTER 21 Nuclear Chemistry
+Beta Radiation Beta radiation consists of streams of beta (B) particles, which are 
+high-speed electrons emitted by an unstable nucleus. Beta particles are represented in 
+nuclear equations by 0
+-1e or more commonly by b-. The superscript 0 indicates that the 
+mass of the electron is exceedingly small relative to the mass of a nucleon. The sub-
+script -1 represents the negative charge of the beta particle, which is opposite that of 
+the proton.
+Iodine-131 is an isotope that undergoes decay by beta emission:
+ 
+131
+53I ¡ 131
+54Xe +
+0
+-1e 
+[21.2]
+We see from this equation that beta decay causes the atomic number of the reactant to 
+increase from 53 to 54, which means a

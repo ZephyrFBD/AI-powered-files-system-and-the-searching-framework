@@ -1,0 +1,80 @@
+Question, page 744, and answer it again
+now. Try to explain why you may have answered differently the first time.
+v = 6000 kms = 0.020c.
+u¿ = 3000 kms = 0.010c.
+u =
+0.60c + c
+1 +
+(0.60c)(c)
+c2
+= 1.60c
+1.60
+= c,
+u¿ = c.
+u L v + u¿,
+u¿ V c.
+1 + vu¿c2 L 1
+u =
+0.60c + 0.60c
+1 +
+(0.60c)(0.60c)
+c2
+= 1.20c
+1.36
+= 0.88c.
+v = 0.60c
+u¿ = 0.60c
+EXAMPLE 26;12
+u = (v - u¿)A1 - vu¿c2B.
+u¿
+u¿
+cu
+B and v
+B along
+the same directiond
+u =
+v + u¿
+1 + vu¿c2
+u = 0.60c + 0.60c = 1.20c.
+u = v + u¿,
+u¿
+ke = 100 eV
+Akemc2B g 0.1.
+g  1.01
+ke
+mc2
+= g - 1 =
+1
+31 - v2c2 - 1.
+kemc2
+764
+CHAPTER 26
+C A U T I O N
+Relative velocities do 
+not add simply, as 
+in classical mechanics (v V c)
+Relativistic addition of velocities
+formula (
+and along same line)
+v
+B
+u
+B
+FIGURE 26–11 Rocket 1 leaves Earth
+at
+Rocket 2 is fired from
+rocket 1 with speed 
+What
+is the speed of rocket 2 with respect to
+the Earth? Example 26–12.
+u¿ = 0.60c.
+v = 0.60c.
+0.60c with
+respect to Earth
+u' = 0.60c with
+respect to
+rocket 1
+v =
+1
+2
+Eart

@@ -1,0 +1,26 @@
+of the X operon.
+(A)
+Protein X induces a positive feedback loop on itself, while protein Y
+promotes transcription of the X operon.
+(B)
+Protein X induces a negative feedback loop on itself, while protein Y
+inhibits transcription of the X operon.
+(C)
+Protein X induces a negative feedback loop on itself, while protein Y
+promotes transcription of the X operon.
+(D)
+24. The researcher does a fourth experiment in which they add high amounts
+of lactose to E. coli cells. Aȇerward, the researcher sees an increase in
+protein Y levels. How does lactose increase protein Y levels?
+Lactose acts as an enhancer of the Y operon.
+(A)
+Lactose decreases transcription of the X operon, thereby stopping
+protein X from acting as a repressor for the Y operon.
+(B)
+Lactose binds to the Y operon repressor as an inducer.
+(C)
+Lactose inhibits RNA polymerase from binding to the Y operon
+promoter.
+(D)
+25. In a later discovery, the researcher learns that glucose acts as a
+corepressor for the Y operon. How would high le

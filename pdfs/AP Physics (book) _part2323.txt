@@ -1,0 +1,46 @@
+gs are
+replaced by split-ring commutators, Fig. 21–15a, just as in a dc motor (Figs. 20–37
+and 20–38). The output of such a generator is as shown and can be smoothed out
+by placing a capacitor in parallel with the output.† More common is the use of
+many armature windings, as in Fig. 21–15b, which produces a smoother output.
+E = F
+q
+= qvB
+q
+= vB,
+F = qvB
+E = Fq,
+(= induced)
+†A capacitor tends to store charge and, if the time constant RC
+is long enough, helps to smooth out the voltage as shown in 
+the figure to the right.
+I
+I
+I
+I
+Brushes
+Slip rings
+Axle rotated
+mechanically
+N
+S
+a
+b
+Armature
+a
+b
+FIGURE 21–14 An ac generator.
+(b)
+V
+t
+(a)
+V
+t
+FIGURE 21–15 (a) A dc generator
+with one set of commutators, and
+(b) a dc generator with many sets of
+commutators and windings.
+Alternators
+Automobiles used to use dc generators. Today they mainly use alternators, which
+avoid the problems of wear and electrical arcing (sparks) across the split-ring
+commutators of dc generators. Alternators differ from

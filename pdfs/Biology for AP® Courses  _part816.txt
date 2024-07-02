@@ -1,0 +1,10 @@
+curs during which pyruvic acid is converted to acetyl CoA.
+Then, the first step of the cycle begins: This is a condensation step, combining the two-carbon acetyl group with a four-
+carbon oxaloacetate molecule to form a six-carbon molecule of citrate. CoA is bound to a sulfhydryl group (-SH) and
+diffuses away to eventually combine with another acetyl group. This step is irreversible because it is highly exergonic. The
+rate of this reaction is controlled by negative feedback and the amount of ATP available. If ATP levels increase, the rate of
+this reaction decreases. If ATP is in short supply, the rate increases.
+Step 2. In step two, citrate loses one water molecule and gains another as citrate is converted into its isomer, isocitrate.
+Step 3. In step three, isocitrate is oxidized, producing a five-carbon molecule, α-ketoglutarate, together with a molecule of
+CO2 and two electrons, which reduce NAD+ to NADH. This step is also regulated by negative feedback from ATP and
+NADH, and a posit

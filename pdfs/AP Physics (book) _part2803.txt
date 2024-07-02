@@ -1,0 +1,18 @@
+eyepiece and therefore is refracted through the eyepiece
+focal point 
+on the far side. Thus,
+and the total magnifying power
+(that is, angular magnification, which is what is always quoted) of this telescope is
+(25;3)
+where we used Eq. 23–1 and we inserted a minus sign to indicate that the image is
+inverted. To achieve a large magnification, the objective lens should have a long
+focal length and the eyepiece a short focal length.
+Telescope magnification. The largest optical refracting
+telescope in the world is located at the Yerkes Observatory in Wisconsin,
+Fig. 25–21. It is referred to as a “40-inch” telescope, meaning that the diameter of
+the objective is 40 in., or 102 cm. The objective lens has a focal length of 19 m,
+and the eyepiece has a focal length of 10 cm. (a) Calculate the total magnifying
+power of this telescope. (b) Estimate the length of the telescope.
+APPROACH Equation 25–3 gives the magnification. The length of the telescope
+is the distance between the two lenses.
+SOLUT

@@ -1,0 +1,80 @@
+east. (b) The
+components of 
+are 
+and 
+whose magnitudes are given on 
+the right in the diagram.
+V
+B
+y,
+V
+B
+x
+V
+B
+V
+B
+†In three dimensions, the theorem of Pythagoras becomes
+where 
+is the
+component along the third, or z, axis.
+V
+z
+V = 3V
+x
+2 + V
+y
+2 + V
+z
+2 ,
+y
+x
+VRx
+VRy
+V1x
+V2x
+V1y
+V2y
+0
+1
+=
++
+1
+2
+2
+VR
+B
+V
+B
+V
+B
+V
+B
+V
+B
+FIGURE 3;14 The components of
+are
+and V
+Ry = V
+1y + V
+2y.
+V
+Rx = V
+1x + V
+2x
+V
+B
+R = V
+B
+1 + V
+B
+2
+The components of a given vector depend on the choice of coordinate axes.
+You can often reduce the work involved in adding vectors by a good choice of
+axes—for example, by choosing one of the axes to be in the same direction as one
+of the vectors. Then that vector will have only one nonzero component.
+Mail carrier’s displacement. A rural mail carrier leaves the
+post office and drives 22.0 km in a northerly direction. She then drives in a direc-
+tion 60.0° south of east for 47.0 km (Fig. 3–15a). What is her displacement from
+the post office?
+APPROACH We choose the positive 

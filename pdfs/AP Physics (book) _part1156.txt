@@ -1,0 +1,15 @@
+nd also on the mass m that is oscillating. But—strange as it may
+seem—the period does not depend on the amplitude. You can find this out for
+yourself by using a watch and timing 10 or 20 cycles of an oscillating spring for a
+small amplitude and then for a large amplitude.
+The period T is given by (see derivation on next page):
+(11;6a)
+We see that the larger the mass, the longer the period; and the stiffer the spring
+(larger k), the shorter the period. This makes sense since a larger mass means
+more inertia and therefore slower response (smaller acceleration). And larger k
+means greater force and therefore quicker response (larger acceleration). Notice
+that Eq. 11–6a is not a direct proportion: the period varies as the square root
+of m/k. For example, the mass must be quadrupled to double the period.
+Equation 11–6a is fully in accord with experiment and is valid not only for a
+spring, but for all kinds of simple harmonic motion—that is, for motion subject
+to a restoring force proportion

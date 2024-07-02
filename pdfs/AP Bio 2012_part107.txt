@@ -1,0 +1,18 @@
+udent can use representations to describe how 
+gene regulation influences cell products and function.
+(A)
+This option is incorrect because lactose has bonded with the repressor protein, 
+resulting in its release from the operator. This will allow RNA polymerase to 
+transcribe the lac operon because the molecular barrier no longer exists.
+(B)
+This option is incorrect because if lactose did bind with the repressor protein, then 
+it would result in a conformational change and the repressor protein would no 
+longer bind to the operator portion of the operon. No transcription would occur.
+(C)
+This option is incorrect because with no repressor in place, the operon would be 
+turned on, and the genes would be transcribed.
+(D)
+This option is correct because the lac operon is an inducible operon, which 
+means that the regulatory system is turned off until lactose or its analog turns 
+it on. The mechanism for preventing its transcription is the binding of a 
+repressor protein to the operator regi

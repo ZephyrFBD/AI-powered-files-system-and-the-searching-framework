@@ -1,0 +1,100 @@
+f the masses is zero (say,
+), then the other mass  
+would be predicted by our equation to
+accelerate at 
+again as expected.
+a = g,
+AmE Z 0B
+mC = 0
+a = 0,
+AmE = mCB,
+= 1000 kg A9.80 ms2 + 0.68 ms2B
+= 10,500 N,
+F
+T = mCg + mC a = mC(g + a)
+= 1150 kg A9.80 ms2 - 0.68 ms2B
+= 10,500 N,
+F
+T = mEg - mE a = mE(g - a)
+a = 0.070g = 0.68 ms2
+©F = ma
+F
+T
+a = 0.070g = 0.68 ms2.
+mC
+AmEB
+a = mE - mC
+mE + mC
+g = 1150 kg - 1000 kg
+1150 kg + 1000 kg g = 0.070g = 0.68 ms2.
+AmE - mCBg = AmE + mCBa,
+F
+T - mCg = mCaC =
+±mC a.
+F
+T - mEg = mEaE =
+–mE a
+mE
+aE = –a
+mC
+aC = a
+©F = ma,
+F
+T
+F
+T
+mE
+F
+T
+m Eg = (1150 kg)A9.80 ms2B = 11,300 N,
+mC
+F
+T
+mCg = (1000 kg)A9.80 ms2B = 9800 N,
+AmCB.
+AmEB
+F
+B
+T .
+AmE = 1150 kgB,
+mE = 1150 kg.
+mC = 1000 kg.
+F
+T
+mC
+mE
+AmCB.
+AmEB
+EXAMPLE 4;13
+SECTION 4–7
+Solving Problems with Newton’s Laws: Free-Body Diagrams
+91
+P H Y S I C S  A P P L I E D
+Elevator (as Atwood machine)
+y
+x
+(b)
+(c)
+(a)
+Elevator
+car
+mE =
+1150 kg
+Counterweight
+mC = 1000 kg
+mE
+mC
+E
+C
+T
+T
+F
+B
+F
+B
+g
+B
+g
+B
+a
+B

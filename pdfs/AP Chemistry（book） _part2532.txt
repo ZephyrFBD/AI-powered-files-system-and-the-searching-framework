@@ -1,0 +1,21 @@
+ution 3H+4 is greater than 1.0 * 10-7 M; in a basic 
+solution 3H+4 is less than 1.0 * 10-7 M.
+ 
+▶Practice Exercise 1
+In a certain acidic solution at 25 °C, 3H+4 is 100 times greater 
+than 3OH -4. What is the value for 3OH -4 for the solution?
+(a) 1.0 * 10-8 M (b) 1.0 * 10-7 M (c) 1.0 * 10-6 M 
+(d) 1.0 * 10-2 M (e) 1.0 * 10-9 M
+ 
+▶Practice Exercise 2
+Indicate whether solutions with each of the following ion 
+concentrations are neutral, acidic, or basic at 25 °C:  
+(a) 3H+4 = 4 * 10-9 M; (b) 3OH -4 = 1 * 10-7 M;  
+(c) 3OH -4 = 1 * 10-13 M.
+674 
+CHAPTER 16 Acid–Base Equilibria
+What makes Equation 16.16 particularly useful is that it is applicable both to pure water 
+and to any aqueous solution. Although the equilibrium between H+1aq2 and OH -1aq2 as 
+well as other ionic equilibria are affected somewhat by the presence of additional ions in 
+solution, it is customary to ignore these ionic effects except in work requiring exceptional 
+accuracy. Thus, Equation 16.16 is taken to be valid for 

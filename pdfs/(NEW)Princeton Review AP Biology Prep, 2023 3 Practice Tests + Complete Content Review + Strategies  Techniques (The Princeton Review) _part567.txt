@@ -1,0 +1,20 @@
+g illustration and information.
+The cell cycle is a series of events in the life of a dividing eukaryotic cell. It consists of four
+stages: G1, S, G2, and M. The duration of the cell cycle varies from one species to another and
+from one cell type to another. The G1 phase varies the most. For example, embryonic cells can
+pass through the G1 phase so quickly that it hardly exists, whereas neurons are arrested in the cell
+cycle and do not divide.
+49. During which phase do chromosomes replicate?
+(A) G1
+(B) S
+(C) G2
+(D) M
+50. In mammalian cells, the first sign of mitosis beginning is the
+(A) appearance of chromosomes
+(B) separation of chromatids
+(C) disappearance of the cell membrane
+(D) replication of chromosomes
+51. If the cell cycle fails to progress, which of the following is a possible explanation?
+(A) There are adequate phosphate groups available for the cyclin-dependent kinase.
+(B) An oncogene inhibits the signal for apoptosis.
+(C) A cyclin is unable to release from its cyclin depend

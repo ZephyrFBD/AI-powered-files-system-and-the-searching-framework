@@ -1,0 +1,101 @@
+ value of f is f(h) = k. 
+ 
+If a < 0, then the maximum value of f is f(h) = k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+Consider the quadratic function f(x) = 5x2 -30x +49 
+(a) Express f in standard form. 
+(b) Sketch a graph of f. 
+(c) Find the minimum value of f. 
+ 
+ 
+ 
+ 
+ 
+This formula is obtained by completing the square for the general quadratic function as 
+follows. 
+ 
+ 
+33 
+This equation is in standard form with 
+(
+)
+(
+)
+2
+ and 
+.
+2
+4
+b
+b
+h
+k
+c
+a
+a
+= -
+=
+-
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+1.6 Polynomial Function and Its Properties 
+1.6.1 Polynomial Functions 
+A polynomial function of degree n is a function of the form 
+1
+1
+1
+0
+( )
+n
+n
+n
+n
+P x
+a x
+a
+x
+a x
+a
+-
+-
+=
++
++ ××× +
++
+ 
+where n is a nonnegative integer and an ≠ 0. 
+The numbers a0, a1, a2, . . . , an are called the coefficients of the polynomial. 
+The number a0 is the constant coefficient or constant term. 
+The number an, the coefficient of the highest power, is the leading coefficient, and the 

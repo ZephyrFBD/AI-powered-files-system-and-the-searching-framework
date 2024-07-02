@@ -1,0 +1,58 @@
+ the circuit being 
+measured.
+(e) None of the above.
+7. When the switch shown in Fig. 19–45 is closed, what will
+happen to the voltage across resistor 
+It will
+(a) increase.
+(b) decrease.
+(c) stay the same.
+R4?
+5. Which resistor shown in Fig. 19–43 has the greatest current
+going through it? Assume that all the resistors are equal.
+(a)
+(d)
+(b)
+and 
+.
+(e) All of them the same.
+(c)
+and R4 .
+R3
+R2
+R1
+R5.
+R1 .
+FIGURE 19–44
+MisConceptual
+Question 6.
+V
+R
+R
+R
+R
+A
+R
+R
+B
+C
+19. (II) What is the net resistance of the circuit connected to the
+battery in Fig. 19–50?
+552
+CHAPTER 19
+DC Circuits
+19–1 Emf and 
+T
+erminal Voltage
+1. (I) Calculate the terminal voltage for a battery with an
+internal resistance of 
+and an emf of 6.00 V when
+the battery is connected in series with (a) a 
+resistor,
+and (b) a 
+resistor.
+2. (I) Four 1.50-V cells are connected in series to a 
+light-
+bulb. If the resulting current is 0.45 A, what is the internal
+resistance of each cell, assuming they are identical and
+neglecting t

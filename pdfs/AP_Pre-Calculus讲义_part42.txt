@@ -1,0 +1,36 @@
+ntervals determined by the real zeros. 
+4. Make a Table or Diagram. Use test values to make a table or diagram of the signs of 
+each factor in each interval. In the last row of the table determine the sign of the 
+polynomial on that interval. 
+5. Solve. Determine the solutions of the inequality from the last row of the table. Check 
+whether the endpoints of these intervals satisfy the inequality. (This may happen if the 
+inequality involves ≤ or ≥.) 
+ 
+ 
+53 
+Example 1 
+Solve the inequality 
+3
+2
+2
+6
+13 .
+x
+x
+x
++
++
+³
+ 
+ 
+ 
+ 
+ 
+ 
+1.9.2 Rational Inequalities 
+1. Move All Terms to One Side. Rewrite the inequality so that all nonzero terms appear 
+on one side of the inequality symbol. Bring all quotients to a common denominator. 
+2. Factor Numerator and Denominator. Factor the numerator and denominator into 
+irreducible factors, and then find the cut points. 
+3. Find the Intervals. List the intervals determined by the cut points. 
+4. Make a Table or Diagram. Use test values to make a table o

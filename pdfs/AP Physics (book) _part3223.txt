@@ -1,0 +1,18 @@
+
+nuclei for the negative charge concentration between them.
+Why a bond is formed can also be understood from the energy point of view.
+When the two H atoms approach close to one another, if the spins of their elec-
+trons are opposite, the electrons can occupy the same space, as discussed above.
+This means that each electron can now move about in the space of two atoms
+instead of in the volume of only one. Because each electron now occupies more
+space, it is less well localized. From the uncertainty principle with 
+larger, we
+see that 
+and the minimum momentum can be less. With less momentum, each
+electron has less energy when the two atoms combine than when they are separate.
+That is, the molecule has less energy than the two separate atoms, and so is 
+more stable. An energy input is required to break the 
+molecule into two separate
+H atoms, so the 
+molecule is a stable entity. This is what we mean by a bond.
+The energy required to break a bond is called the bond energy, the binding en

@@ -1,0 +1,15 @@
+like the collisions of perfectly elastic billiard balls (Chapter 7).
+We assume the collisions are of very short duration compared to the time
+between collisions. Then we can ignore the potential energy associated with
+collisions in comparison to the kinetic energy between collisions.
+71025m3
+We can see how this kinetic view of a gas can explain Boyle’s law (Section 13–5).
+The pressure exerted on a wall of a container of gas is due to the constant bom-
+bardment of molecules. If the volume is reduced by (say) half, the molecules are
+closer together and twice as many will be striking a given area of the wall per second.
+Hence we expect the pressure to be twice as great, in agreement with Boyle’s law.
+Now let us calculate quantitatively the pressure a gas exerts on its container in
+terms of microscopic quantities.We imagine that the molecules are inside a rectangular
+container (at rest) whose ends have area A and whose length is 
+as shown in 
+Fig. 13–18a. The pressure exerted by the gas o

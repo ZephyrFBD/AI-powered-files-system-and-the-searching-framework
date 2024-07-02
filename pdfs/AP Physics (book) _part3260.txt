@@ -1,0 +1,35 @@
+s and Solids
+FIGURE 29–20 Diagram of an NaCl
+crystal, showing the “packing” of
+atoms.
+(a)
+(c)
+(b)
+Na
+Cl
+Cl Na
+Na
+Cl
+Cl Na
+Na
+FIGURE 29–19 Arrangement of
+atoms in (a) a simple cubic crystal,
+(b) face-centered cubic crystal
+(note the atom at the center of
+each face), and (c) body-centered
+cubic crystal. Each of these “cells”
+is repeated in three dimensions to
+the edges of the macroscopic
+crystal.
+EXERCISE D Return to the Chapter-Opening Question, page 829, and answer it again
+now. Try to explain why you may have answered differently the first time.
+29–6 Free-Electron Theory of Metals;
+Fermi Energy
+The free-electron theory of metals considers electrons in a metal as being in con-
+stant motion like an ideal gas, which we discussed in Chapter 13. For a classical
+ideal gas, at very low temperatures near absolute zero,
+all the particles
+would be in the lowest state, with zero kinetic energy 
+But the
+situation is vastly different for an electron gas because, according to quantum
+mecha

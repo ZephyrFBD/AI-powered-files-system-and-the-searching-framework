@@ -1,0 +1,23 @@
+ate the pressure exerted by 1.00 mol Cl2 
+confined to a smaller volume, 5.00 L, at 25 °C. (a) First use 
+the ideal-gas equation and (b) then use the van der Waals 
+equation for your calculation. (Values for the van der Waals 
+constants are given in Table 10.3.) (c) Why is the difference 
+between the result for an ideal gas and that calculated us-
+ing the van der Waals equation greater when the gas is con-
+fined to 5.00 L compared to 22.4 L?
+ 
+10.94     
+Calculate the pressure that CCl4 will exert at 80 °C if 
+ 
+1.00 mol occupies 33.3 L, assuming that (a) CCl4 obeys the 
+ideal-gas equation; (b) CCl4 obeys the van der Waals equa-
+tion. (Values for the van der Waals constants are given in 
+ 
+Table 10.3.) (c) Which would you expect to deviate more 
+from ideal behavior under these conditions, Cl2 or CCl4? 
+Explain.
+[10.95]  
+Table 10.3 shows that the van der Waals b parameter has 
+units of L/mol. This implies that we can calculate the size of 
+atoms or molecules from b. Using the value of b

@@ -1,0 +1,72 @@
+C°kg
+J
+kgC°
+JkgC°
+TABLE 14;1 Specific Heats 
+(at 1 atm constant pressure and 20°C 
+unless otherwise stated)
+Specific Heat, c
+Substance
+Aluminum 
+900 
+0.22
+Alcohol
+(ethyl) 
+2400 
+0.58
+Copper 
+390 
+0.093
+Glass 
+840 
+0.20
+Iron or steel 
+450 
+0.11
+Lead 
+130 
+0.031
+Marble 
+860 
+0.21
+Mercury 
+140 
+0.033
+Silver 
+230 
+0.056
+Wood 
+1700 
+0.4
+Water 
+Ice (
+5°C) 
+2100 
+0.50
+Liquid (15°C) 4186 
+1.00
+Steam (110°C) 2010 
+0.48
+Human body 
+(average) 
+3470 
+0.83
+Protein 
+1700 
+0.4
+–
+( calg  C°)
+Jkg  C°
+kcalkg  C°
+(a)
+(b)
+FIGURE 14;2 Besides translational
+kinetic energy, molecules can have 
+(a) rotational kinetic energy, and 
+(b) vibrational energy (both kinetic
+and potential).
+How heat transferred depends on specific heat. (a) How
+much heat input is needed to raise the temperature of an empty 20-kg vat made of
+iron from 10°C to 90°C? (b) What if the vat is filled with 20 kg of water?
+APPROACH We apply Eq. 14–2 to the different materials involved.
+SOLUTION (a) Our system is the iron vat alone. 

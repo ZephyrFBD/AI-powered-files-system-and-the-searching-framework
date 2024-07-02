@@ -1,0 +1,36 @@
+
+95 kmh
+72. Spiderman uses his spider webs to save a runaway train
+moving about 
+Fig. 6–44. His web stretches a few
+city blocks (500 m) before the 
+train comes to a stop.
+Assuming the web acts like a spring, estimate the effective
+spring constant.
+104-kg
+60 kmh,
+75. A mass m is attached to a spring which is held stretched a
+distance x by a force F, Fig. 6–45, and then released.
+The spring pulls the mass to the left, towards its natural
+equilibrium length. Assuming there is no friction, determine
+the speed of the mass m when the spring returns: (a) to its
+normal length
+(b) to half its original extension
+(x2).
+(x = 0);
+General Problems
+m
+x
+x  0
+F
+B
+FIGURE 6–45 Problem 75.
+General Problems
+167
+76. An elevator cable breaks when a 925-kg elevator is 28.5 m
+above the top of a huge spring  
+at the
+bottom of the shaft. Calculate (a) the work done by gravity
+on the elevator before it hits the spring; (b) the speed of the
+elevator just before striking the spring; (c) the amount the
+spring co

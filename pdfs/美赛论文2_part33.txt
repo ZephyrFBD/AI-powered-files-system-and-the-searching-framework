@@ -1,0 +1,20 @@
+rve of Ai. The constraint function (9) makes sense that only 
+when epidemic area Ai meets the demand of itself, than Ai may deliver 
+surplus medication to other epidemic area. Function (10) prevent cross 
+delivering, and if Ai deliver medication to Aj, than Aj will not deliver 
+medication to Ai in this circle. 
+ 
+3.5.3 Delivery Model Ⅱ(vertical transportation happens first and lateral 
+transportation happens later in a circle) 
+3.5.3.1 Terms , Definitions and Symbols 
+ S(t): The proportion of susceptible people. 
+ I(t): The proportion of infective people. 
+ R(t): The proportion of dead and cured people. 
+ I(0): The proportion of patients in the initial time. 
+ S(0): The proportion of susceptible people in the initial time. 
+ N: The total number of people in the epidemic area.  
+ λ: The number of susceptible people infected by one infective person every 
+week. 
+ μ: The proportion of dead and cured people in patients every week. 
+3.5.3.2 Assumptions 
+Team   #37232                

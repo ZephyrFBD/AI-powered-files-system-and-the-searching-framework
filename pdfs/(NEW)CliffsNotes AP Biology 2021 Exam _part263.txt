@@ -1,0 +1,12 @@
+Figure 8-5
+Test Crosses
+Suppose that you wanted to know the genotype of a dwarf pea plant. That would easily be identified as tt because
+dwarf-stemmed plants must have two copies of the recessive allele. Suppose, however, you wanted to know the
+genotype of a plant with the dominant trait, tall stems. Would it be TT or Tt ? To determine which genotype is
+correct, you would perform a test cross. A test cross is a mating of an individual whose genotype you are trying to
+determine with an individual whose genotype is known. You will always know the genotype of the individual that
+expresses the recessive trait (dwarf stems). So the cross is T ___ × tt. Since you do not know the second allele for the
+first individual, represent it with an underscore, leaving a blank space for the unknown allele. The next step is to
+perform both
+possible crosses, TT × tt and Tt × tt. For the first cross, all F1will be tall
+( Tt). For the second cross, ½ will be tall (Tt) and ½ will be dwarf (tt). A farmer wou

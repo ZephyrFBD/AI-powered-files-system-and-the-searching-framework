@@ -1,0 +1,23 @@
+till an ambiguity
+since 
+could point in either direction along the axis of rotation (up or down 
+in Fig. 8–30a). The convention we use, called the right-hand rule, is this: when 
+the fingers of the right hand are curled around the rotation axis and point in the
+direction of the rotation, then the thumb points in the direction of 
+This is
+shown in Fig. 8–30b. Note that 
+points in the direction a right-handed screw
+would move when turned in the direction of rotation. Thus, if the rotation of the
+wheel in Fig. 8–30a is counterclockwise, the direction of 
+is upward as shown in
+Fig. 8–30b. If the wheel rotates clockwise, then 
+points in the opposite direction,
+downward. Note that no part of the rotating object moves in the direction of 
+If the axis of rotation is fixed, then 
+can change only in magnitude. Thus
+must also point along the axis of rotation. If the rotation is counter-
+clockwise as in Fig. 8–30a and the magnitude of 
+is increasing, then 
+points
+upward; but if 
+is decreasing (the

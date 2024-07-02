@@ -1,0 +1,79 @@
+s initially zero
+but increases continually in the downward direction (until the ball hits the
+ground). Let us take y to be positive upward. Then the acceleration due to gravity
+is in the 
+direction, so 
+From Eq. 2–11a (using y in place of x) we 
+can write
+since we set 
+The vertical displacement
+is given by Eq. 2–11b written in terms of y:
+Given
+and
+then y = – 1
+2 gt 2.
+ay = –g,
+vy 0 = 0,
+y0 = 0,
+y = y0 + vy 0 + 1
+2 ay t2.
+vy 0 = 0.
+vy = vy 0 + ay t = –gt
+ay = –g.
+–y
+Avy 0 = 0B
+vy
+t = 0
+(t = 0),
+v
+B
+v
+B
+x 0 .
+x0 = y0 = 0
+t = 0
+g = 9.80 ms2,
+58
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+†This restricts us to objects whose distance traveled and maximum height above the Earth are small
+compared to the Earth’s radius (6400 km).
+(b)
+(a)
+FIGURE 3;17 Photographs of 
+(a) a bouncing ball and (b) a thrown
+basketball, each showing the
+characteristic “parabolic” path of
+projectile motion.
+y
+x
+Vertical
+fall
+Projectile
+motion
+=
+x0
+x
+x
+y
+y
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+a
+B
+g
+B
+FIGURE 3;18 Project

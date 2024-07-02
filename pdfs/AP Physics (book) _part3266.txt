@@ -1,0 +1,30 @@
+toms when they come together to form a solid.
+FIGURE 29–24 Energy bands for
+sodium (Na).
+Atomic separation
+molecule
+atoms
+(a)
+Energy
+Atomic separation
+(b)
+Energy
+Atomic separation
+(c)
+Energy
+2s
+1s
+Allowed
+energy
+bands
+Energy gap
+The crucial aspect of a good conductor is that the highest energy band con-
+taining electrons is only partially filled. Consider sodium metal, for example, whose
+energy bands are shown in Fig. 29–24. The 1s, 2s, and 2p bands are full (just as in
+a sodium atom) and don’t concern us. The 3s band, however, is only half full. To
+see why, recall that the exclusion principle stipulates that in an atom, only two
+electrons can be in the 3s state, one with spin up and one with spin down. These
+two states have slightly different energy. For a solid consisting of N atoms, the 3s
+band will contain 2N possible energy states. A sodium atom has a single 3s electron,
+so in a sample of sodium metal containing N atoms, there are N electrons in the
+3s band, and N unoccupied state

@@ -1,0 +1,28 @@
+. Model the hallway as a tube closed at both ends.
+43. (III) When a player’s finger presses a guitar string down
+onto a fret, the length of the vibrating portion of the string
+is shortened, thereby increasing the string’s fundamental
+frequency (see Fig.12–36). The string’s tension and mass per
+unit length remain unchanged. If the unfingered length of
+the string is 
+determine the positions x of the
+first six frets, if each fret raises the pitch of the fundamental
+by one musical note compared to the neighboring fret. On
+the equally tempered
+chromatic scale, the
+ratio of frequencies
+of neighboring notes
+is 2112.
+l = 75.0 cm,
+l  75.0 cm
+x
+FIGURE 12–36
+Problem 43.
+FIGURE 12–35
+Problem 32.
+33. (II) An unfingered guitar string is 0.68 m long and is tuned
+to play E above middle C (330 Hz). (a) How far from the
+end of this string must a fret (and your finger) be placed to
+play A above middle C (440 Hz)? (b) What is the wave-
+length on the string of this 440-Hz wave? (c) What are the
+frequency

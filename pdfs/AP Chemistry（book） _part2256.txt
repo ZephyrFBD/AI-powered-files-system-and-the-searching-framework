@@ -1,0 +1,35 @@
+
+each rate law follows directly from the molecularity of the reaction. It is important to 
+remember, however, that we cannot tell by merely looking at a balanced, overall chemi-
+cal equation whether the reaction involves one or several elementary steps.
+TABLE 14.3 Elementary Reactions and Their Rate Laws
+Molecularity
+Elementary Reaction
+Rate Law
+Unimolecular
+A ¡ products
+Rate = k3A4
+Bimolecular
+A + A ¡ products
+Rate = k3A42
+Bimolecular
+A + B ¡ products
+Rate = k3A43B4
+Termolecular
+A + A + A ¡ products
+Rate = k3A43
+Termolecular
+A + A + B ¡ products
+Rate = k3A423B4
+Termolecular
+A + B + C ¡ products
+Rate = k3A43B43C4
+If the following reaction occurs in a single elementary reaction, predict its rate law:
+H21g2 + Br21g2 ¡ 2 HBr1g2
+Sample Exercise 14.13
+ Predicting the Rate Law for an Elementary Reaction
+SOLUTION
+Analyze We are given the equation and asked for its rate law, as-
+suming that it is an elementary process.
+Plan Because we are assuming that the reaction occurs as a sin-
+gle element

@@ -1,0 +1,15 @@
+istical knowledge. 
+We therefore speak of the probability that the electron will be in a certain region of 
+space at a given instant. As it turns out, the square of the wave function, c2, at a 
+given point in space represents the probability that the electron will be found at 
+that location. For this reason, c2 is called either the probability density or the 
+electron density.
+Give It Some Thought
+What is the difference between stating “The electron is located at a particular point 
+in space” and “There is a high probability that the electron is located at a particular 
+point in space”?
+One way of representing the probability of finding the electron in various regions of 
+an atom is shown in Figure 6.17, where the density of the dots represents the probability 
+of finding the electron. The regions with a high density of dots correspond to relatively 
+large values for c2 and are therefore regions where there is a high probability of finding 
+the electron. Based on this representation, w

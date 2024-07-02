@@ -1,0 +1,17 @@
+lly consider and measure three main factors of the sustainable 
+development, we find that there are relations with each main factor. One of main 
+factor is in the condition of sustainable development, which will bring positive effect 
+on the remaining main factor, and vice versa. We use the linear weighted method to 
+process the dynamic weighting indexes gained in Chapter 2.3 and the weights gained 
+in the secondary criteria layer to describe three main factors of the sustainable 
+development in the first criteria layer. So we make the following assumptions: 
+ The connection between the one main factor and another main factor can 
+correspond to the proportion of one main factor and the proportion of main factor 
+Team#36961 
+ 
+Page 8 of 20 
+for each other.  
+ The proportion of the main factor to the influence of one part can correspond to 
+the function of [0, 1]*[0, 1], and the opposite of proportion influence will be its 
+inverse function.  
+ The selection and formation of the influ

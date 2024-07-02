@@ -1,0 +1,11 @@
+ PCR, over one million copies of the DNA sequence can be generated.
+PCR can also be used to rapidly sequence segments of DNA. DNA sequencing is important in forensics,
+bioinformatics, medicine, and evolutionary biology.
+CRISPR-Cas9
+The clustered regularly interspaced short palindromic repeats (CRISPR)-Cas9 system functions in nature as an
+adaptive immune system in bacteria. Bacteria can be infected by viruses called bacteriophages. When a
+bacteriophage infects a bacterium, it cuts up the viral DNA and inserts those pieces between short palindromic
+repeats in the bacteria’s DNA. This allows the bacteria to store information on which viruses have previously
+infected its cell. When another virus infects the bacteria, the bacteria compare the DNA from the new virus to these
+stored DNA sequences. If it finds a match, it cuts the DNA of the virus with the Cas9 enzyme.
+While CRISPR-Cas9 is not part of the latest AP Biology Course and Exam Description and likely will not be tested on the AP Bi

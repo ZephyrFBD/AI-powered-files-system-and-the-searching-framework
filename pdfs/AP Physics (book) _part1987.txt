@@ -1,0 +1,13 @@
+e less resistance (see Eq. 18–3) and thus
+can carry more current without becoming too hot. When a wire carries more
+current than is safe, it is said to be “overloaded.” To prevent overloading, fuses or
+circuit breakers are installed in circuits. They are basically switches (Fig. 18–19, top
+of next page) that open the circuit when the current exceeds a safe value.
+A 20-A fuse or circuit breaker, for example, opens when the current passing
+through it exceeds 20 A. If a circuit repeatedly burns out a fuse or opens a circuit
+breaker, and no connected device requires more than 20 A, there are two possi-
+bilities: there may be too many devices drawing current in that circuit; or there is
+a fault somewhere, such as a “short.” A short, or “short circuit,” means that two
+wires have touched that should not have (perhaps because the insulation has worn
+through) so the path of the current is shortened through a path of very low 
+resistance. With reduced resistance, the current becomes very large a

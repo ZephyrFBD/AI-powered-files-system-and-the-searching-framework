@@ -1,0 +1,16 @@
+ons is used to bond a phosphate group to ADP, making it ATP (adenosine
+triphosphate). The process is called phosphorylation, and the result is that energy (originally from light) from the
+two electrons is trapped in an ATP molecule. The cycle is completed when the two electrons return to the
+photosystem pigments.
+Noncyclic photophosphorylation is a more advanced system involving both
+ 
+photosystems I and II. It begins when chlorophyll P680in photosystem II
+traps photon energy and energizes two electrons. These two electrons are passed to a primary electron acceptor, then
+through an electron transport chain, producing, on average, 1.5 ATP and are then finally returned to photosystem I.
+Here the electrons are energized again (by light) and are received by another primary electron acceptor. These two
+electrons then
+combine with 2 H+ to form NADPH.
+ 
+Meanwhile, a water molecule is split producing 2 electrons, 2 H+, and
+ 
+½O2. The 2 electrons replace the electrons energized from photosystem

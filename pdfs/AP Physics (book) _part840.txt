@@ -1,0 +1,27 @@
+o the first equation above (Newton’s second
+law for rotation of the pulley), we obtain
+The unknown 
+appears on the left and in the second term on the far right, so we
+bring that term to the left side and solve for 
+The numerator 
+is the net torque, and the denominator 
+is the total rotational inertia of the system. With 
+and, from Example 8–10,
+and 
+, then
+The angular acceleration is somewhat less in this case than the 
+of
+Example 8–10. Why? Because 
+is less than the
+15.0-N force in Example 8–10. The linear acceleration of the bucket is
+NOTE The tension in the cord 
+is less than mg because the bucket accelerates.
+8–7 Rotational Kinetic Energy
+The quantity 
+is the kinetic energy of an object undergoing translational
+motion. An object rotating about an axis is said to have rotational kinetic energy.
+By analogy with translational kinetic energy, we might expect this to be given 
+by the expression 
+where I is the moment of inertia of the object and 
+is 
+its angular velocity. We can indeed 

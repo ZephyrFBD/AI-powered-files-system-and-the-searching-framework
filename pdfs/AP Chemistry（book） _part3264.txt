@@ -1,0 +1,15 @@
+es in Table 20.1, which of these metals 
+could provide cathodic protection to iron: Al, Cu, Ni, Zn?
+20.9 ∣ Electrolysis
+Voltaic cells are based on spontaneous redox reactions. It is also 
+possible for nonspontaneous redox reactions to occur, however, 
+by using electrical energy to drive them. For example, electric-
+ity can be used to decompose molten sodium chloride into its 
+component elements Na and Cl2. Such processes driven by an outside source of electrical 
+energy are called electrolysis reactions and take place in electrolytic cells.
+An electrolytic cell consists of two electrodes immersed either in a molten salt or in 
+a solution. A battery or some other source of electrical energy acts as an electron pump, 
+pushing electrons into one electrode and pulling them from the other. Just as in voltaic 
+cells, the electrode at which reduction occurs is called the cathode, and the electrode at 
+which oxidation occurs is called the anode.
+In the electrolysis of molten NaCl, Na+ ions gai

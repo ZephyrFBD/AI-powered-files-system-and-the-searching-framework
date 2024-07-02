@@ -1,0 +1,33 @@
+y 1.0 h to travel 100 km.We use the defintion of average velocity, Eq. 2–2.
+SOLUTION Average velocity (Eq. 2–2) is
+NOTE Averaging the two speeds,
+gives
+a wrong answer. Can you see why? You must use the definition of 
+Eq. 2–2.
+v,
+75 kmh,
+(50 kmh + 100 kmh)2 =
+v =
+¢x
+¢t
+=
+100 km + 100 km
+2.0 h + 1.0 h
+= 67 kmh.
+100 kmh
+50 kmh,
+100 kmh
+50 kmh
+EXAMPLE 2;3
+2–3 Instantaneous Velocity
+If you drive a car along a straight road for 150 km in 2.0 h, the magnitude of
+your average velocity is 
+It is unlikely, though, that you were moving
+at precisely 
+at every instant. To describe this situation we need the
+concept of instantaneous velocity, which is the velocity at any instant of time.
+(Its magnitude is the number, with units, indicated by a speedometer, Fig. 2–8.)
+More precisely, the instantaneous velocity at any moment is defined as the
+average velocity over an infinitesimally short time interval. That is, Eq. 2–2 is to be
+evaluated in the limit of 
+becoming extremely small, approaching

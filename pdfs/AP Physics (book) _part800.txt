@@ -1,0 +1,63 @@
+tion
+in the object moves through the same angle in the same time interval.
+An object such as the wheel in Fig. 8–3 can rotate about a fixed axis either
+clockwise or counterclockwise. The direction can be specified with a
+or 
+sign.
+The usual convention is to choose the angular displacement 
+and angular velocity 
+as positive when the wheel rotates counterclockwise. If the rotation is clockwise,
+then would decrease, so 
+and 
+would be negative.
+v
+¢u
+u
+v
+¢u
+–
+±
+v =
+lim
+¢t S 0
+¢u
+¢t
+.
+¢t
+¢t.
+¢u
+j =
+¢u
+¢t
+,
+v,
+¢u = u2 - u1 .
+u2,
+u1 ,
+l = ru = (100 m)A3 * 10–4 radB
+= 3 * 10–2 m = 3 cm.
+u = 3 * 10–4 rad,
+r = 100 m
+l
+l = ru.
+A3 * 10–4 radB a 360°
+2p rad b
+= 0.017°.
+3 * 10–4 rad
+l = ru,
+360° = 2p rad.
+3 * 10–4 rad.
+EXAMPLE 8;2
+200
+CHAPTER 8
+Rotational Motion
+†Even for an angle as large as 15°, the error in making this estimate is only 1%, but for larger angles
+the error increases rapidly. (The chord is the straight-line distance between the ends of the arc.)
+θ
+Chord
+Arc length
+(a)
+(b)
+r
+l
+FIGURE 

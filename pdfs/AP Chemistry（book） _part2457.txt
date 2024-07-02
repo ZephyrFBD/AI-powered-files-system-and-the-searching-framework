@@ -1,0 +1,17 @@
+he fact that equilibrium constants and reaction rates 
+change with temperature. By applying Le Châtelier’s principle 
+to this endothermic reaction and treating heat as a reactant, 
+we deduce that an increase in temperature shifts the equilib-
+rium in the direction of more NO. The equilibrium constant 
+Kp for formation of 1 mol of NO from its elements at 300 K is 
+only about 1 * 10-15 (Figure 15.17). At 2400 K, however, the 
+equilibrium constant is about 0.05, which is 1013 times larger 
+than the 300 K value.
+Figure 15.17 helps explain why NO is a pollution prob-
+lem. In the cylinder of a modern high-compression automo-
+bile engine, the temperature during the fuel-burning part of 
+the cycle is approximately 2400 K. Also, there is a fairly large 
+excess of air in the cylinder. These conditions favor the for-
+mation of NO. After combustion, however, the gases cool 
+quickly. As the temperature drops, the equilibrium in Equa-
+tion 15.26 shifts to the left (because the reactant heat is being

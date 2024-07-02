@@ -1,0 +1,14 @@
+. Descriptive statistics are used to summarize data. In particular, you may need to calculate averages (mean,
+median, and mode) or measures of variation (range, standard error, and standard deviation). Definitions and
+formulas for these statistics are provided on the equations and formulas pages.
+2. The chi-square (χ2) test for goodness-of-fit is used to compare
+observed results with expected results. The statistic tells you whether the two are significantly different. In
+particular, the statistic determines whether the difference is due to chance (at an accepted probability) or whether
+some other factor is responsible. To understand this statistic,
+consider the following two values of χ2:
+ χ2 = 0. In this case, the observed results and the expected results
+ 
+are exactly the same.
+ χ2 = 100. In most cases, this value of χ2 is a relatively large value
+and will indicate that the difference between the observed and expected results did not occur by chance and that they
+should be considere

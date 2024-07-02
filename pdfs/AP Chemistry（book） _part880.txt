@@ -1,0 +1,16 @@
+other wave characteristics of electro-
+magnetic radiation are due to the periodic oscillations in the intensities of the electric 
+and magnetic fields associated with the radiation.
+The speed of water waves can vary depending on how they are created—for example, 
+the waves produced by a speed boat travel faster than those produced by a rowboat. In 
+contrast, all electromagnetic radiation moves at the same speed, namely, the speed of light. As a 
+result, the wavelength and frequency of electromagnetic radiation are always related in a 
+straightforward way. If the wavelength is long, fewer cycles of the wave pass a given point 
+per second, and so the frequency is low. Conversely, for a wave to have a high frequency, 
+it must have a short wavelength. This inverse relationship between the frequency and 
+wavelength of electromagnetic radiation is expressed by the equation
+ 
+ln = c 
+[6.1]
+where l 1lambda2 is wavelength, n (nu) is frequency, and c is the speed of light.
+Why do different types

@@ -1,0 +1,13 @@
+e absence of the Coriolis effect, air would rush directly into a
+region of low pressure, as shown in Fig. C–3a. But because of the Coriolis effect,
+the winds are deflected to the right in the Northern Hemisphere (Fig. C–3b),
+since the Earth rotates from west to east. So there tends to be a counterclockwise
+wind pattern around a low-pressure area. The reverse is true in the Southern
+Hemisphere. Thus cyclones rotate counterclockwise in the Northern Hemisphere
+and clockwise in the Southern Hemisphere. The same effect explains the easterly
+trade winds near the equator: any winds heading south toward the equator will be
+deflected toward the west (that is, as if coming from the east).
+The Coriolis effect also acts on a falling object. An object released from the
+top of a high tower will not hit the ground directly below the release point, but will
+be deflected slightly to the east. Viewed from an inertial frame, this happens
+because the top of the tower revolves with the Earth at a slightly 

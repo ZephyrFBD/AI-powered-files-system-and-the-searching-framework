@@ -1,0 +1,36 @@
+n
+Sedimentation tanks
+Aeration
+Chlorine
+sterilizers
+Storage
+tank
+To users
+Sand
+filter
+CaO,
+Al2(SO4)3
+added
+2
+1
+3
+4
+5
+▲ Figure 18.21 Common steps in treating water for a public water system.
+ 
+SECTION 18.4  Human Activities and Water Quality 
+789
+790 
+CHAPTER 18 Chemistry of the Environment
+5. The final step normally involves treating the water with a chemical agent to ensure 
+the destruction of bacteria. Ozone is more effective, but chlorine is less expensive. 
+Liquefied Cl2 is dispensed from tanks through a metering device directly into the 
+water supply. The amount used depends on the presence of other substances with 
+which the chlorine might react and on the concentrations of bacteria and viruses to 
+be removed.
+The sterilizing action of chlorine is not due to Cl2 itself but to hypochlorous acid, 
+which forms when chlorine reacts with water:
+ 
+Cl21aq2 + H2O1l2 ¡ HClO1aq2 + H+1aq2 + Cl-1aq2 
+[18.15]
+It is estimated that about 800 million people worldwide lack access to clean water. 

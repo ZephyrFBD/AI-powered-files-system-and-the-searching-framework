@@ -1,0 +1,25 @@
+ Fig. 3–3. (The subscript R stands for resultant.) Using a ruler and a protractor,
+you can measure on this diagram that the person is 11.2 km from the origin at an
+angle
+north of east. In other words, the resultant displacement vector has
+a magnitude of 11.2 km and makes an angle
+with the positive x axis. The
+magnitude (length) of 
+can also be obtained using the theorem of Pythagoras
+in this case, because 
+and 
+form a right triangle with 
+as the 
+hypotenuse. Thus
+You can use the Pythagorean theorem only when the vectors are perpendicular
+to each other.
+The resultant displacement vector,
+is the sum of the vectors 
+and 
+That is,
+This is a vector equation. An important feature of adding two vectors that are not
+along the same line is that the magnitude of the resultant vector is not equal to the
+sum of the magnitudes of the two separate vectors, but is smaller than their sum.
+That is,
+where the equals sign applies only if the two vectors point in the same direction.
+In our example (Fig. 3

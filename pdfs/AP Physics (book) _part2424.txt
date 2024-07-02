@@ -1,0 +1,22 @@
+1–9 states that an overloaded motor
+may burn out due to high currents. Suppose you have a
+blender with an internal resistance of 
+(a) At 120 V,
+what is the initial current through the blender? (b) The
+blender is rated at 2.0 A for continuous use. What is the back
+emf of the blender? (c) At what rate is heat dissipated in the
+blender during normal use? (d) If the blender jams and stops
+turning, at what rate is heat dissipated in the motor coils?
+79. Power is generated at 24 kV at a generating plant located
+56 km from a town that requires 55 MW of power at 
+12 kV. Two transmission lines from the plant to the town
+each have a resistance of 
+What should the
+output voltage of the transformer at the generating plant be
+for an overall transmission efficiency of 98.5%, assuming
+a perfect transformer?
+80. The primary windings of a transformer which has an 88%
+efficiency are connected to 110-V ac. The secondary 
+windings are connected across a
+75-W lightbulb.
+(a) Calculate the current through th

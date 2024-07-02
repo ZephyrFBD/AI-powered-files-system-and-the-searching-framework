@@ -1,0 +1,21 @@
+ed of a car is increased by 50%, by what factor
+will its minimum braking distance be increased, assuming
+all else is the same? Ignore the driver’s reaction time.
+23. (II) At an accident scene on a level road, investigators
+measure a car’s skid mark to be 78 m long. It was a rainy
+day and the coefficient of friction was estimated to be 0.30.
+Use these data to determine the speed of the car when the
+driver slammed on (and locked) the brakes. (Why does the
+car’s mass not matter?)
+24. (III) One car has twice the mass of a second car, but only
+half as much kinetic energy. When both cars increase their
+speed by 
+they then have the same kinetic energy.
+What were the original speeds of the two cars?
+25. (III) A 265-kg load is lifted 18.0 m vertically with an accel-
+eration  
+by a single cable. Determine (a) the
+tension in the cable; (b) the net work done on the load;
+(c) the work done by the cable on the load; (d) the work
+done by gravity on the load; (e) the final speed of the load
+assuming i

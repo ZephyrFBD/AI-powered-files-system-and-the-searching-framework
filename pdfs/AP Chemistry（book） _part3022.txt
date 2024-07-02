@@ -1,0 +1,14 @@
+bability that both are there is 11>222 = 1>4. If we apply the same 
+analysis to three gas molecules, we find that the probability that all three are in the left 
+flask at the same time is 11>223 = 1>8.
+Now let’s consider a mole of gas. The probability that all the molecules are in the 
+left flask at the same time is 11>22N, where N = 6.02 * 1023. This is a vanishingly small 
+number! Thus, there is essentially zero likelihood that all the gas molecules will be 
+in the left flask at the same time. This analysis of the microscopic behavior of the 
+gas molecules leads to the expected macroscopic behavior: The gas spontaneously 
+expands to fill both the left and right flasks, and it does not spontaneously all go back 
+in the left flask.
+This molecular view of gas expansion shows the tendency of the molecules to 
+“spread out” among the different arrangements they can take. Before the stopcock is 
+opened, there is only one possible arrangement: all molecules in the left flask. When 
+the stopc

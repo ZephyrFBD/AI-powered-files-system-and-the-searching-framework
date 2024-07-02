@@ -1,0 +1,22 @@
+he Lewis 
+structure for naphthalene and the average bond enthalpies 
+in Table 8.3, estimate the heat of combustion of naphtha-
+lene in kJ>mol. (e) Benzene, naphthalene, and anthracene 
+are colorless, but tetracene is orange. What does this imply 
+about the relative HOMO–LUMO energy gaps in these mol-
+ecules? See the “Chemistry Put to Work” box on orbitals 
+and energy.
+ 
+[9.121]  Antibonding molecular orbitals can be used to make bonds 
+to other atoms in a molecule. For example, metal atoms 
+can use appropriate d orbitals to overlap with the p*
+2p or-
+bitals of the carbon monoxide molecule. This is called 
+d@p backbonding. (a) Draw a coordinate axis system in 
+which the y-axis is vertical in the plane of the paper and 
+the x-axis horizontal. Write “M” at the origin to denote a 
+metal atom. (b) Now, on the x-axis to the right of M, draw 
+the Lewis structure of a CO molecule, with the carbon 
+nearest the M. The CO bond axis should be on the x-axis. 
+(c) Draw the CO p*
+2p orbital, with pha

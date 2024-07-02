@@ -1,0 +1,18 @@
+monuclear diatomic molecules (those composed of two identi-
+cal atoms) of period 2 elements.
+Period 2 atoms have valence 2s and 2p orbitals, and we need to consider how they 
+interact to form MOs. The following rules summarize some of the guiding principles for 
+the formation of MOs and for how they are populated by electrons:
+1. The number of MOs formed equals the number of atomic orbitals combined.
+2. Atomic orbitals combine most effectively with other atomic orbitals of similar 
+energy.
+3. The effectiveness with which two atomic orbitals combine is proportional to their 
+overlap. That is, as the overlap increases, the energy of the bonding MO is lowered 
+and the energy of the antibonding MO is raised.
+4. Each MO can accommodate, at most, two electrons, with their spins paired (Pauli 
+exclusion principle). 
+ (Section 6.7)
+5. When MOs of the same energy are populated, one electron enters each orbital (with 
+the same spin) before spin pairing occurs (Hund’s rule). 
+ (Section 6.8)
+Go Fi

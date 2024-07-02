@@ -1,0 +1,60 @@
+hen we find R from
+SOLUTION (a) We solve Eq. 18–9a for the rms current:
+Then
+The resistance is
+The resistance could equally well be calculated using peak values:
+(b) When connected to a 240-V line, more current would flow and the resistance
+would change with the increased temperature (Section 18–4). But let us make
+an estimate of the power transformed based on the same 
+resistance.
+The average power would be
+This is four times the dryer’s power rating and would undoubtedly melt the
+heating element or the wire coils of the motor.
+This Section has given a brief introduction to the simpler aspects of alternat-
+ing currents. We will discuss ac circuits in more detail in Chapter 21. In Chapter 19
+we will deal with the details of dc circuits only.
+=
+(240 V)2
+(9.6 )
+= 6000 W.
+P = Vrms
+2
+R
+9.6-
+R = V
+0
+I
+0
+=
+170 V
+17.7 A = 9.6 .
+R = V
+rms
+I
+rms
+=
+120 V
+12.5 A = 9.6 .
+I
+0 =
+22 I
+rms = 17.7 A.
+I
+rms =
+P
+V
+rms
+= 1500 W
+120 V
+= 12.5 A.
+V = IR.
+I
+0 = 12 I
+rms .
+I
+rms = PV
+rms
+V
+rms ,
+P
+EXAMPLE

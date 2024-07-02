@@ -1,0 +1,12 @@
+hemical reactions by lowering activation energy (that is, the energy 
+needed for a reaction to begin). In every chemical reaction, the starting materials (the 
+substrate(s) in the case of enzymes) can take many different paths to forming products. 
+For each path, there is an intermediate or transitional product between reactants and 
+final products. The energy needed to start a reaction is the energy required to form that 
+transitional product. Enzymes make it easier for substrates to reach that transitional 
+state. The easier it is to reach that state, the less energy the reaction needs. 
+Enzymes are biological catalysts. They are large protein molecules, folded so that they 
+have very specifically shaped substrate binding sites. These binding sites make substrates 
+go into the transition state. To catalyze the reaction, several regions of the binding site 
+must be precisely positioned around the substrate molecules. Any change in the shape of 
+the overall folded enzyme molecule can c

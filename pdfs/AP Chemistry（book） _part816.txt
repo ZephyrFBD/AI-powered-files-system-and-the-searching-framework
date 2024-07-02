@@ -1,0 +1,16 @@
+f fixed volume called a bomb calorimeter. 
+The heat transferred under constant-volume conditions is equal 
+to ∆E. Corrections can be applied to ∆E values to yield ∆H.
+HESS’S LAW (SECTION 5.6) Because enthalpy is a state func-
+tion, ∆H depends only on the initial and final states of the system. 
+Thus, the enthalpy change of a process is the same whether the 
+process is carried out in one step or in a series of steps. Hess’s law 
+states that if a reaction is carried out in a series of steps, ∆H for the 
+reaction will be equal to the sum of the enthalpy changes for the 
+steps. We can therefore calculate ∆H for any process, as long as we 
+can write the process as a series of steps for which ∆H is known.
+ENTHALPIES OF FORMATION (SECTION 5.7) The enthalpy of 
+formation, ∆Hf, of a substance is the enthalpy change for the re-
+action in which the substance is formed from its constituent el-
+ements. Usually, enthalpies are tabulated for reactions where 
+reactants and products are in their standa

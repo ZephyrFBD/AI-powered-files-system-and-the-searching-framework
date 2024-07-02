@@ -1,0 +1,26 @@
+ ,
+n2
+n1
+u2
+u1
+n1 sin u1 = n2 sin u2 .
+u2
+u1
+FIGURE 23–23 A straw in water
+looks bent even when it isn’t.
+SNELL’S LAW 
+(LAW OF REFRACTION)
+Apparent depth of a pool. A swimmer has dropped her
+goggles to the bottom of a pool at the shallow end, marked as 1.0 m deep. But
+the goggles don’t look that deep. Why? How deep do the goggles appear to be
+when you look straight down into the water?
+APPROACH We draw a ray diagram showing two rays going upward from a point
+on the goggles at a small angle, and being refracted at the water’s (flat) surface,
+Fig. 23–25. The two rays traveling upward from the goggles are refracted away
+from the normal as they exit the water, and so appear to be diverging from a
+point above the goggles (dashed lines), which is why the water seems less deep
+than it actually is. We are looking straight down, so all angles are small (but exag-
+gerated in Fig. 23–25 for clarity).
+SOLUTION To calculate the apparent depth 
+(Fig. 23–25), given a real depth
+we use Snell’s law wit

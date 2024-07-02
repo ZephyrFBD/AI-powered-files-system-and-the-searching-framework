@@ -1,0 +1,19 @@
+l frame), there exists another pseudoforce known as the Coriolis force. It
+appears to act on an object in a rotating reference frame only if the object is
+moving relative to that rotating reference frame, and it acts to deflect the object
+sideways. It, too, is an effect of the rotating reference frame being noninertial
+and hence is referred to as an inertial force. It also affects the weather.
+To see how the Coriolis force arises, consider two people, A and B, at rest 
+on a platform rotating with angular speed 
+as shown in Fig. C–2a. They are 
+situated at distances 
+and 
+from the axis of rotation (at O). The woman at A
+throws a ball with a horizontal velocity (in her reference frame) radially outward
+toward the man at B on the outer edge of the platform. In Fig. C–2a, we view 
+the situation from an inertial reference frame. The ball initially has not only the
+velocity 
+radially outward, but also a tangential velocity 
+due to the rotation 
+of the platform. Now Eq. 8–4 tells us that
+wher

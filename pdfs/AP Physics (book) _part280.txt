@@ -1,0 +1,42 @@
+ the humiliation.
+y = 1
+2 gt2,
+t
+CONCEPTUAL EXAMPLE 3;7
+Level Horizontal Range
+The total distance the football traveled in Example 3–6 is called the horizontal
+range R. We now derive a formula for the range, which applies to a projectile that
+lands at the same level it started 
+: that is,
+(see Fig. 3–25a).
+Looking back at Example 3–6 part (c), we see that
+where (from
+part b)
+Thus
+[
+]
+where
+and
+This can be rewritten, using the trigon-
+ometric identity
+(Appendix A or inside the rear cover):
+[only if
+]
+Note that the maximum range, for a given initial velocity 
+is obtained when
+takes on its maximum value of 1.0, which occurs for
+so
+The maximum range increases by the square of 
+so doubling the muzzle velocity
+of a cannon increases its maximum range by a factor of 4.
+When air resistance is important, the range is less for a given 
+and the maxi-
+mum range is obtained at an angle smaller than 45°.
+v0 ,
+v0 ,
+u0 = 45°  for maximum range,  and  Rmax = v0
+2g.
+2u0 = 90°;
+sin 2u
+v0 ,
+y (final) = y0

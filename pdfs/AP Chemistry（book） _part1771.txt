@@ -1,0 +1,41 @@
+ithmic scale is used to represent pressure. The melting curve 
+(blue line) of H2O is atypical, slanting slightly to the left with increasing pressure, indi-
+cating that for water the melting point decreases with increasing pressure. This unusual 
+behavior occurs because water is among the very few substances whose liquid form is 
+more compact than its solid form, as we learned in Section 11.2.
+ 
+SECTION 11.6  Phase Diagrams 
+457
+Solid
+Gas
+Liquid
+Supercritical
+fluid
+Triple point
+(0.0098 °C, 0.00603 atm)
+Critical point
+(374.4 °C, 217.7 atm)
+Temperature (°C)
+Pressure (atm)
+−200
+0
+200
+400
+600
+103
+102
+10
+1
+10−1
+10−2
+10−3
+10−4
+◀ Figure 11.28 Phase diagram of H2O. 
+Note that a linear scale is used to represent 
+temperature and a logarithmic scale to 
+represent pressure.
+458 
+CHAPTER 11 Liquids and Intermolecular Forces
+If the pressure is held constant at 1 atm, it is possible to move from the solid to 
+liquid to gaseous regions of the phase diagram by changing the temperature, as we 
+expect f

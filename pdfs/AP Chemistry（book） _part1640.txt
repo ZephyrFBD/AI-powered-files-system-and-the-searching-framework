@@ -1,0 +1,22 @@
+
+linear, causing the overall molecule to be linear.
+ 
+Plan To determine the polarity of the molecule, we must ex-
+amine the polarity of the individual bonds and the overall 
+geometry of the molecule.
+Solve Because the molecule is linear, we expect the two dipoles 
+created by the polarity in the carbon–nitrogen bond to cancel 
+each other, leaving the molecule with no dipole moment.
+(a)
+(b)
+(c)
+Chapter Summary and Key Terms
+CHARACTERISTICS OF GASES (SECTION 10.1) Substances that 
+are gases at room temperature tend to be molecular substances with 
+low molar masses. Air, a mixture composed mainly of N2 and O2, is 
+the most common gas we encounter. Some liquids and solids can also 
+exist in the gaseous state, where they are known as vapors. Gases are 
+compressible; they mix in all proportions because their component 
+molecules are far apart from each other.
+PRESSURE (SECTION 10.2) To describe the state or condition of a gas, 
+we must specify four variables: pressure (P), volume (V), tempera

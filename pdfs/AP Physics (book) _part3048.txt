@@ -1,0 +1,17 @@
+ charged nucleus.
+a
+In low-density gases, the atoms are far apart on average and hence the light
+emitted or absorbed is assumed to be by individual atoms rather than through
+interactions between atoms, as in a solid, liquid, or dense gas. Thus the line
+spectra serve as a key to the structure of the atom: any theory of atomic structure
+must be able to explain why atoms emit light only of discrete wavelengths, and it
+should be able to predict what these wavelengths are.
+Hydrogen is the simplest atom—it has only one electron orbiting its nucleus.
+It also has the simplest spectrum. The spectrum of most atoms shows little
+apparent regularity. But the spacing between lines in the hydrogen spectrum
+decreases in a regular way, Fig. 27–24. Indeed, in 1885, J. J. Balmer (1825–1898)
+showed that the four lines in the visible portion of the hydrogen spectrum (with
+measured wavelengths 656 nm, 486 nm, 434 nm, and 410 nm) have wavelengths
+that fit the formula
+(27;9)
+Here n takes on the values 3, 4, 5

@@ -1,0 +1,66 @@
+e in the presence and absence of a mag-
+netic field. A paramagnetic substance appears to weigh more in the magnetic field; a 
+diamagnetic substance appears to weigh less. The magnetic behaviors observed for the 
+period 2 diatomic molecules agree with the electron configurations shown in Figure 9.43.
+Electron configurations in molecules can also be related to bond distances and bond 
+enthalpies. 
+ (Sections 5.8 and 8.8) As bond order increases, bond distances decrease 
+and bond enthalpies increase. N2, for example, whose bond order is 3, has a short bond 
+distance and a large bond enthalpy. The N2 molecule does not react readily with other 
+Go Figure
+B2
+Large 2s–2p interaction
+Small 2s–2p interaction
+C2
+N2
+O2
+F2
+Ne2
+*
+s2p
+*
+*
+s2s
+s2s
+*
+s2p
+s2p
+s2s
+*
+p2p
+*
+s2p
+s2s
+p2p
+p2p
+p2p
+Bond order
+Bond enthalpy (kJ/mol)
+Bond length (Å)
+Magnetic behavior
+1
+290
+1.59
+Paramagnetic
+2
+620
+1.31
+Diamagnetic
+3
+941
+1.10
+Diamagnetic
+2
+495
+1.21
+Paramagnetic
+1
+155
+1.43
+Diamagnetic
+0
+—
+—
+—
+Energy
+▲ Figure 9.43 M

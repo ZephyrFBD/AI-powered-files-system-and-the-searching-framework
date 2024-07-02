@@ -1,0 +1,27 @@
+ cup that holds 500 mL of 
+hot water, initially at 83 °C. What is the final temperature 
+in the cup? The density of liquid water is 1.00 g>mL; the 
+specific heat capacity of ice is 2.03 J>g@C; the specific heat 
+capacity of liquid water is 4.184 J>g@C; the enthalpy of 
+fusion of water is 6.01 kJ>mol.
+ 19.108  Carbon disulfide 1CS22 is a toxic, highly flammable sub-
+stance. The following thermodynamic data are available 
+for CS21l2 and CS21g2 at 298 K:
+∆Hf° 1kJ>mol2
+∆Gf° 1kJ>mol2
+CS21l2
+ 89.7
+65.3
+CS21g2
+ 117.4
+ 67.2
+ 
+ (a) Draw the Lewis structure of the molecule. What do you 
+predict for the bond order of the C ¬ S bonds? (b) Use the 
+VSEPR method to predict the structure of the CS2 mole-
+cule. (c) Liquid CS2 burns in O2 with a blue flame, forming 
+CO21g2 and SO21g2. Write a balanced equation for this reac-
+tion. (d) Using the data in the preceding table and in Appen-
+dix C, calculate ∆H° and ∆G° for the reaction in part (c). 
+ 
+Is the reaction exothermic? Is it spontaneous at 298 K? 

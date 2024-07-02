@@ -1,0 +1,30 @@
+des. If not, try the slower 
+merry-go-round or Ferris 
+wheel. Rotating carnival rides 
+have rotational kinetic energy 
+as well as angular momentum.
+Angular acceleration is 
+produced by a net torque, and 
+rotating objects have rotational 
+kinetic energy.
+CONTENTS
+8–1 Angular Quantities
+8–2 Constant Angular Acceleration
+8–3 Rolling Motion 
+(Without Slipping)
+8–4 Torque
+8–5 Rotational Dynamics;
+Torque and Rotational Inertia
+8–6 Solving Problems in 
+Rotational Dynamics
+8–7 Rotational Kinetic Energy
+8–8 Angular Momentum and 
+Its Conservation
+*8–9 Vector Nature of 
+Angular Quantities
+8–1 Angular Quantities
+The motion of a rigid object can be analyzed as the translational motion of the
+object’s center of mass, plus rotational motion about its center of mass (Section 7–8).
+We have already discussed translational motion in detail, so now we focus on
+purely rotational motion. By purely rotational motion we mean that all points in
+the object move in circles, such as the point P in the rotating wh

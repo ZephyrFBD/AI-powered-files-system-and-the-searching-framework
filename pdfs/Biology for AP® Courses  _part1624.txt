@@ -1,0 +1,11 @@
+ available for free at http://cnx.org/content/col12078/1.6
+demonstrated that three nucleotides specify each amino acid. These nucleotide triplets are called codons. The insertion of
+one or two nucleotides completely changed the triplet reading frame, thereby altering the message for every subsequent
+amino acid (Figure 15.4). Though insertion of three nucleotides caused an extra amino acid to be inserted during translation,
+the integrity of the rest of the protein was maintained.
+Figure 15.4 The deletion of two nucleotides shifts the reading frame of an mRNA and changes the entire protein
+message, creating a nonfunctional protein or terminating protein synthesis altogether.
+Scientists painstakingly solved the genetic code by translating synthetic mRNAs in vitro and sequencing the proteins they
+specified (Figure 15.5).
+Figure 15.5 This figure shows the genetic code for translating each nucleotide triplet in mRNA into an amino acid or a
+termination signal in a nascent protein. (credit: mo

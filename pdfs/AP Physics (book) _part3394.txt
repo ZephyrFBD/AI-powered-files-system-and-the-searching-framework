@@ -1,0 +1,19 @@
+nd wider the barrier, the less time the 
+particle has to escape and the less likely
+it is to do so. It is therefore the height and width of this barrier that control the
+rate of decay and half-life of an isotope.
+30–13 Detection of Particles
+Individual particles such as electrons, protons,
+particles, neutrons, and 
+rays
+are not detected directly by our senses. Consequently, a variety of instruments
+have been developed to detect them.
+Counters
+One of the most common detectors is the Geiger counter. As shown in Fig. 30–13,
+it consists of a cylindrical metal tube filled with a certain type of gas. A long 
+wire runs down the center and is kept at a high positive voltage 
+with
+respect to the outer cylinder. The voltage is just slightly less than that required 
+to ionize the gas atoms. When a charged particle enters through the thin “window”
+at one end of the tube, it ionizes a few atoms of the gas. The freed electrons are
+attracted toward the positive wire, and as they are accelerated they 

@@ -1,0 +1,48 @@
+pecific object or done on a specific object. It is
+also important to specify whether the work done is due to one particular force (and
+which one), or the total (net) work done by the net force on the object.
+140
+CHAPTER 6
+C A U T I O N
+Negative work
+C A U T I O N
+State that work is done 
+on or by an object
+y
+x
+37°
+   (40 m)
+P
+S
+S
+m
+N
+S
+S
+θ =
+F
+F
+fr
+S
+S
+F
+g
+B
+x
+B
+FIGURE 6–3 Example 6–1.
+A 50-kg crate is pulled 
+along a floor.
+Work done on a crate. A person pulls a 50-kg crate 40 m
+along a horizontal floor by a constant force  
+which acts at a 37° angle
+as shown in Fig. 6–3. The floor is rough and exerts a friction force  
+Determine (a) the work done by each force acting on the crate, and (b) the net
+work done on the crate.
+APPROACH We choose our coordinate system so that the vector that repre-
+sents the 40-m displacement is 
+(that is, along the x axis). Four forces act on 
+the crate, as shown in the free-body diagram in Fig. 6–3: the force exerted by
+the person 
+the friction force 
+the 

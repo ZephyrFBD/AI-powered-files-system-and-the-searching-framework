@@ -1,0 +1,24 @@
+.
+s
+Q
+t
+= sAT4.
+Qt,
+24 = 16
+(L 300 K)
+P H Y S I C S  A P P L I E D
+Dark vs. light clothing
+404
+CHAPTER 14
+Heat
+A resting person naturally produces heat internally at a rate of about 100 W, as
+we will see in Section 15–3, less than the heat loss by radiation as calculated in
+Example 14–9. Hence, our person’s temperature would drop, causing considerable
+discomfort. The body responds to excessive heat loss by increasing its metabolic rate,
+and shivering is one method by which the body increases its metabolism. Naturally,
+clothes help a lot. Example 14–9 illustrates that a person may be uncomfortable
+even if the temperature of the air is, say, 25°C, which is quite a warm room. If 
+the walls or floor are cold, radiation to them occurs no matter how warm the air 
+is. Indeed, it is estimated that radiation accounts for about 50% of the heat loss
+from a sedentary person in a normal room. Rooms are most comfortable when the
+walls and floor are warm and the air is not so warm. Floors and walls

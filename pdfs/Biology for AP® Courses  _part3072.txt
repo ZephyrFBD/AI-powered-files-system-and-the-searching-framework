@@ -1,0 +1,11 @@
+ynapses depend on the release
+of neurotransmitter molecules from synaptic vesicles to pass on their signal, there is an approximately one millisecond
+delay between when the axon potential reaches the presynaptic terminal and when the neurotransmitter leads to opening
+of postsynaptic ion channels. Additionally, this signaling is unidirectional. Signaling in electrical synapses, in contrast,
+is virtually instantaneous (which is important for synapses involved in key reflexes), and some electrical synapses are
+bidirectional. Electrical synapses are also more reliable as they are less likely to be blocked, and they are important for
+synchronizing the electrical activity of a group of neurons. For example, electrical synapses in the thalamus are thought to
+regulate slow-wave sleep, and disruption of these synapses can cause seizures.
+Signal Summation
+Sometimes a single excitatory postsynaptic potential (EPSP) is strong enough to induce an action potential in the
+postsynaptic neuron, but oft

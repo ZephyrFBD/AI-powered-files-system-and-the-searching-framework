@@ -1,0 +1,33 @@
+3 1aq2 ∆ Ni1NH326
+2 + 1aq2
+Fe1CN26
+4 -
+1 * 1035
+Fe2 +1aq2 + 6 CN- 1aq2 ∆ Fe1CN26
+4 -1aq2
+Fe1CN26
+3 -
+1 * 1042
+Fe3 +1aq2 + 6 CN- 1aq2 ∆ Fe1CN26
+3 - 1aq2
+Zn1OH24
+2-
+4.6 * 1017
+Zn2+1aq2 + 4 OH-1aq2 ∆ Zn1OH24
+2- 1aq2
+Calculate the concentration of Ag+ present in solution at equilibrium when concentrated ammonia is added to a 0.010 M solution 
+of AgNO3 to give an equilibrium concentration of 3NH34 = 0.20 M. Neglect the small volume change that occurs when NH3 is 
+added.
+Sample Exercise 17.15 
+Evaluating an Equilibrium Involving a Complex Ion
+SOLUTION
+Analyze Addition of NH31aq2 to Ag+1aq2 forms Ag1NH322
++1aq2, as 
+shown in Equation 17.22. We are asked to determine what  
+concentration of Ag+1aq2 remains uncombined when the NH3 
+concentration is brought to 0.20 M in a solution originally  
+0.010 M in AgNO3.
+Plan We assume that the AgNO3 is completely dissociated, giv-
+ing 0.010 M Ag+. Because Kf for the formation of Ag1NH322
++ is 
+quite large, we assume that essentially all the Ag+ is conver

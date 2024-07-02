@@ -1,0 +1,32 @@
+ue equation,
+, with the counterclockwise direction
+as positive, gives
+Solving for 
+we find 
+To find 
+we use
+with 
+upward:
+Putting in
+we find that
+Figure 9–9 shows a uniform beam that extends beyond its support like a
+diving board. Such a beam is called a cantilever. The forces acting on the beam 
+in Fig. 9–9 are those due to the supports,
+and 
+and the force of gravity
+which acts at the CG, 5.0 m to the right of the right-hand support. If you follow
+the procedure of the last Example and calculate 
+and 
+assuming they point
+upward as shown in Fig. 9–9, you will find that 
+comes out negative. If the
+beam has a mass of 1200 kg and a weight
+then
+and
+(see Problem 10). Whenever an unknown force comes out
+negative, it merely means that the force actually points in the opposite direction
+from what you assumed. Thus in Fig. 9–9,
+actually must pull downward (by
+means of bolts, screws, fasteners, and/or glue). To see why 
+has to act downward,
+note that the board’s weight acting at the CG would othe

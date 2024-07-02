@@ -1,0 +1,31 @@
+4BA10–12 Wm2B = 102 Wm2.
+1014 =
+I
+10–12 Wm2 ,
+10y = x
+y = log x
+14 = log ¢
+I
+10–12 Wm2 ≤.
+140 dB = 10 log ¢
+I
+10–12 Wm2 ≤
+EXAMPLE 12;6
+Intensity Related to Amplitude
+The intensity I of a wave is proportional to the square of the wave amplitude, A,
+as we saw in Section 11–9. We can therefore relate the amplitude quantitatively
+to the intensity I or sound level 
+as the following Example shows.
+b,
+P H Y S I C S  A P P L I E D
+Incredible sensitivity of the ear
+How tiny the displacement is. Calculate the displacement
+of air molecules for a sound of frequency 1000 Hz at the threshold of hearing.
+APPROACH In Section 11–9 we found a relation between intensity I and
+displacement amplitude A of a wave, Eq. 11–18. The amplitude of oscillation 
+of air molecules is what we want to solve for, given the intensity. Assume the
+temperature is 20°C so the speed of sound is 
+SOLUTION At the threshold of hearing,
+(Table 12–2).
+We solve for the amplitude A in Eq. 11–18:
+where we have taken the density 

@@ -1,0 +1,19 @@
+reference) will mea-
+sure a speed of 
+for the train approaching them.
+Similarly, when one car traveling 
+passes a second car traveling in
+the same direction at 
+the first car has a speed relative to the second car
+of
+When the velocities are along the same line, simple addition or subtraction is
+sufficient to obtain the relative velocity. But if they are not along the same line, we
+must make use of vector addition. We emphasize, as mentioned in Section 2–1, that
+when specifying a velocity, it is important to specify what the reference frame is.
+When determining relative velocity, it is easy to make a mistake by adding
+or subtracting the wrong velocities. It is important, therefore, to draw a diagram
+and use a careful labeling process. Each velocity is labeled by two subscripts:
+the first refers to the object, the second to the reference frame in which it has this
+velocity. For example, suppose a boat heads directly across a river, as shown 
+in Fig. 3–28. We let 
+be the velocity of the B

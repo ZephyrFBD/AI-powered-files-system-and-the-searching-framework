@@ -1,0 +1,20 @@
+10−6
+10−8
+10 −10
+10−12
+FIGURE 12–6 Sensitivity of the human ear as a function of
+frequency (see text). Note that the frequency scale is 
+“logarithmic” in order to cover a wide range of frequencies.
+Stringed Instruments
+We saw in Chapter 11, Fig. 11–41, how standing waves are established on a string,
+and we show this again here in Fig. 12–7. Such standing waves are the basis for all
+stringed instruments. The pitch is normally determined by the lowest resonant
+frequency, the fundamental, which corresponds to nodes occurring only at the
+ends. The string vibrating up and down as a whole corresponds to a half wave-
+length as shown at the top of Fig. 12–7; so the wavelength of the fundamental on
+the string is equal to twice the length of the string. Therefore, the fundamental
+frequency is
+where v is the velocity of the wave on the string
+(not in the air). The possible frequencies for standing waves on a stretched string
+are whole-number multiples of the fundamental frequency:
+(just as in Eq.

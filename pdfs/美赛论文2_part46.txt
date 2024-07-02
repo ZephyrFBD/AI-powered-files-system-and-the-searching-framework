@@ -1,0 +1,16 @@
+sceptible people in these cities at present so that we can 
+Team   #37232                                                              Page 21 of 22   
+determine the suitable position of the treatment center. Secondly, we make a 
+table based on the improved EVA spread model 2 to predict the total number 
+of the drugs and the vaccines needed to be distributed from the treatment 
+center in the next week. Thirdly, we predict the proportion of medication 
+needed to be distributed to each city based on the improved EVA spread model 
+2. There are two objectives in our delivery model: To minimize the total cost 
+of the transport and to minimize the distribution time. 
+ 
+V. Future work 
+ The Spread Model using actual data to simulate future trend provides a 
+practical way of thinking which could be applied to many fields such as 
+finance, administration etc. The Spread Model needs to be improved 
+because the relationships between λ and t, μ and t are so sophisticated that 
+they cannot always 

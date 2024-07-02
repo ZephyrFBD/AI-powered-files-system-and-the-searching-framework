@@ -1,0 +1,16 @@
+ heart pacemakers are given power inductively: power
+in an external coil is transmitted to a secondary coil in the pacemaker (Fig. 19–25)
+inside the person’s body near the heart. Inductive charging is also a possible
+means for recharging an electric car’s batteries.
+Wireless transmission of power must be done over short distances to maintain
+a reasonable efficiency. Wireless transmission of signals (information) can be done
+over great distances (Section 22–7) because even fairly low power signals can be
+detected, and it is the information in the signal voltages that counts, not power.
+2
+1–8 Information Storage: Magnetic and
+Semiconductor; Tape, Hard Drive, RAM
+Magnetic Storage: Read/Write on Tape and Disks
+Recording and playback on tape or disk is done by magnetic heads. Magnetic
+tapes contain a thin layer of ferromagnetic oxide on a thin plastic tape. Computer
+hard drives (HD) store digital information (applications and data): they have a
+thin layer of ferromagnetic material on the su

@@ -1,0 +1,20 @@
+is magnifying part of
+page 722 of this Chapter, which
+describes how the magnifying glass
+works according to the ray model.
+In this Chapter we examine film
+and digital cameras, the human
+eye, eyeglasses, telescopes, and
+microscopes as well as image
+resolution, X-rays, and CT scans.
+Film contains a thin emulsion (
+a coating) with light-sensitive chemicals that
+change when light strikes them. The film is then developed by chemicals dissolved
+in water, which causes the most changed areas (brightest light) to turn opaque,
+so the image is recorded on the film.† We might call film “chemical photography”
+as compared to digital, which is electronic.
+Digital Cameras, Electronic Sensors (CCD, CMOS)
+In a digital camera, the film is replaced by a semiconductor sensor. Two types are
+common: CCD (charge-coupled device) and CMOS (complementary metal oxide
+semiconductor). A CCD sensor is made up of millions of tiny semiconductor pixels
+(“picture elements”)—see Fig.24–49. A 12-MP (12-megapixel) sensor m

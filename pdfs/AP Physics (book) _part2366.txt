@@ -1,0 +1,17 @@
+ the induced emf?
+RESPONSE (a) From Lenz’s law we know that the induced emf must oppose
+the change in magnetic flux. If the current is increasing, so is the magnetic flux.
+The induced emf acts to oppose the increasing flux, which means it acts like a
+source of emf that opposes the outside source of emf driving the current. So 
+the induced emf in the coil acts to oppose I in Fig. 21–36a. In other words, the
+inductor might be thought of as a battery with a positive terminal at point A
+(tending to block the current entering at A), and negative at point B.
+(b) If the current is decreasing, then by Lenz’s law the induced emf acts to
+bolster the flux—like a source of emf reinforcing the external emf. The induced
+emf acts to increase I in Fig. 21–36b, so in this situation you can think of the
+induced emf as a battery with its negative terminal at point A to attract more
+current (conventional,
+) to move to the right.
+±
+CONCEPTUAL EXAMPLE 21;12
+Solenoid inductance. (a) Determine a formula for t

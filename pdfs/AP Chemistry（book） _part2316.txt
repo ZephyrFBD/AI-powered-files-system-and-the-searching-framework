@@ -1,0 +1,19 @@
+ection 14.3)
+ 14.27 A reaction A + B ¡ C obeys the following rate law: 
+Rate = k3B42. (a) If [A] is doubled, how will the rate 
+change? Will the rate constant change? (b) What are the 
+reaction orders for A and B? What is the overall reaction 
+order? (c) What are the units of the rate constant?
+ 14.28 Consider a hypothetical reaction between A, B, and C 
+that is first order in A, zero order in B, and second order 
+in C. (a) Write the rate law for the reaction. (b) How does 
+the rate change when [A] is doubled and the other reac-
+tant concentrations are held constant? (c) How does the 
+rate change when [B] is tripled and the other reactant 
+concentrations are held constant? (d) How does the rate 
+change when [C] is tripled and the other reactant con-
+centrations are held constant? (e) By what factor does the 
+rate change when the concentrations of all three reac-
+tants are tripled? (f) By what factor does the rate change 
+when the concentrations of all three reactants are cut in 
+half?

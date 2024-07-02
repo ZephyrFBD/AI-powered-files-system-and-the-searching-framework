@@ -1,0 +1,18 @@
+y plane. The choice of this axis is arbitrary. If the object is at rest,
+then
+is valid about any axis. Therefore we can choose any axis that
+makes our calculation easier. Once the axis is chosen, all torques must be calcu-
+lated about that axis.
+A lever. The bar in Fig. 9–6 is being used 
+as a lever to pry up a large rock. The small rock acts as a fulcrum (pivot point).
+The force 
+required at the long end of the bar can be quite a bit smaller than 
+the rock’s weight mg, since it is the torques that balance in the rotation about 
+the fulcrum. If, however, the leverage isn’t sufficient, and the large rock isn’t
+budged, what are two ways to increase the lever arm?
+RESPONSE One way is to increase the lever arm of the force 
+by slipping a
+pipe over the end of the bar and thereby pushing with a longer lever arm.
+A second way is to move the fulcrum closer to the large rock. This may change
+the long lever arm R only a little, but it changes the short lever arm r by a 
+substantial fraction and 

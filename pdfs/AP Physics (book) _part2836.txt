@@ -1,0 +1,15 @@
+t microscope also makes use of interference and differences
+in phase to produce a high-contrast image. Contrast is achieved by a circular
+glass phase plate that has a groove (or a raised portion) in the shape of a ring,
+positioned so undeviated source rays pass through it, but rays deviated by the
+object do not pass through this ring. Because the rays deviated by the object travel
+through a different thickness of glass than the undeviated source rays, the two can
+be out of phase and can interfere destructively at the object image plane. Thus the
+image of the object can contrast sharply with the background. Phase-contrast
+microscope images tend to have “halos”around them (as a result of diffraction from
+the phase-plate opening), so care must be taken in the interpretation of images.
+25–1
+1 X-Rays and X-Ray Diffraction
+In 1895, W. C. Roentgen (1845–1923) discovered that when electrons were accel-
+erated by a high voltage in a vacuum tube and allowed to strike a glass or metal
+surface ins

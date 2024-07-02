@@ -1,0 +1,54 @@
+ V - I
+3(0.175 ) + a
+10.1 V - I
+3(0.15 )
+0.10 
+b (0.025 ) = 0
+12.5 V - I
+3(0.175 ) + I
+2(0.025 ) = 0.
+12.5 V - AI
+3 - I
+2B(0.025 ) - I
+3(0.15 ) = 0,
+I
+1 = I
+3 - I
+2
+I
+1 + I
+2 = I
+3 .
+10.1 V - I
+3(0.15 ) - I
+2(0.10 ) = 0.
+Rs
+RJ
+B
+S
+A
+C
+D
+I
+Starter
+motor
+10.1 V
+12.5 V
+0.10 Ω
+0.020 Ω
+RJ
+DON'T
+TRY
+THIS
+FIGURE 19–16 Exercise E.
+EXERCISE E If the jumper cables of Example 19–9 were mistakenly connected in reverse,
+the positive terminal of each battery would be connected to the negative terminal of the
+other battery (Fig. 19–16). What would be the current I even before the starter motor 
+is engaged (the switch S in Fig. 19–16 is open)? Why could this cause the batteries to
+explode?
+Safety when Jump Starting
+Before jump starting a car’s weak battery, be sure both batteries are 12 V and
+check the polarity of both batteries. The following (cautious) procedure applies if
+the negative 
+terminal is ground (attached by a cable to the metal car frame
+and motor), and the “hot” terminal is pos

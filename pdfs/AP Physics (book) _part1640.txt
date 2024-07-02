@@ -1,0 +1,18 @@
+urn to the Chapter-Opening Question, page 412, and answer it again
+now. Try to explain why you may have answered differently the first time.
+If the second law were not true, so that a perfect engine could be built, rather
+remarkable things could happen. For example, if the engine of a ship did not
+need a low-temperature reservoir to exhaust heat into, the ship could sail across
+the ocean using the vast resources of the internal energy of the ocean water.
+Indeed, we would have no fuel problems at all!
+The coefficient of performance (COP) of a refrigerator is defined as the 
+heat 
+removed from the low-temperature area (inside a refrigerator) divided
+by the work W done to remove the heat (Fig. 15–16):
+(15;6a)
+We use 
+because it is the heat removed from inside that matters from a practical
+point of view. This makes sense because the more heat
+that can be removed
+from inside the refrigerator for a given amount of work, the better (more efficient)
+the refrigerator is. Energy is conserved, so

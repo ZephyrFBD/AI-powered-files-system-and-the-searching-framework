@@ -1,0 +1,25 @@
+hese effects in terms of a principle first put forward by 
+ 
+Henri-Louis Le Châtelier* (1850–1936), a French industrial chemist:
+If a system at equilibrium is disturbed by a change in temperature, pressure,  
+or a component concentration, the system will shift its equilibrium position  
+so as to counteract the effect of the disturbance.
+Check We can check our solution by putting 
+these numbers into the equilibrium-constant 
+expression to assure that we correctly calcu-
+late the equilibrium constant:
+Kc =
+3HI42
+3H243I24 =
+11.8722
+10.065211.0652 = 51
+* Pronounced “le-SHOT-lee-ay.”
+ 
+SECTION 15.7  Le Châtelier’s Principle 
+645
+In this section, we use Le Châtelier’s principle to make qualitative predictions about 
+how a system at equilibrium responds to various changes in external conditions. We 
+consider three ways in which a chemical equilibrium can be disturbed: (1) adding or 
+removing a reactant or product, (2) changing the pressure by changing the volume, and 
+ 
+(3) changing the tempe

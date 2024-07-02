@@ -1,0 +1,28 @@
+
+2 kx2.
+H2
+Problems
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+General Problems
+855
+*29–9 Diodes
+24. (I) At what wavelength will an LED radiate if made from a
+material with an energy gap
+25. (I) If an LED emits light of wavelength 
+what
+is the energy gap (in eV) between valence and conduction
+bands?
+26. (I) A semiconductor diode laser emits 
+light.
+Assuming that the light comes from electrons and holes
+recombining, what is the band gap in this laser material?
+27. (II) A silicon diode, whose current–voltage characteristics
+are given in Fig. 29–30, is connected in series with a battery
+and a 
+resistor. What battery voltage is needed to
+produce a 14-mA current?
+28. (II) An ac voltage of 120-V rms is to be rectified. Estimate
+very roughly the average current in the output resistor R
+for (a) a half-wave rectifier (Fig. 29–31), and 
+(b) a full-wave rectifier (Fig. 29–32) without capacitor.
+29. (III) Suppose that the diode of Fig. 29–30 is connecte

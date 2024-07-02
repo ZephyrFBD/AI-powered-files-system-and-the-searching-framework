@@ -1,0 +1,29 @@
+ occur 5000 times faster than when it 
+is uncatalyzed. By how many kJ>mol must an enzyme lower 
+the activation energy of the reaction to make it useful?
+ 14.116 Enzymes are often described as following the two-step 
+mechanism:
+E + S ∆ ES 1fast2
+ES ¡  E + P 1slow2
+ 
+ where E = enzyme, S = substrate,
+ 
+ ES = enzyme9substrate complex, and P = product.
+ 
+ (a) If an enzyme follows this mechanism, what rate law 
+is expected for the reaction? (b) Molecules that can bind 
+to the active site of an enzyme but are not converted into 
+product are called enzyme inhibitors. Write an additional 
+elementary step to add into the preceding mechanism to 
+account for the reaction of E with I, an inhibitor.
+ 
+Additional Exercises 
+619
+620 
+CHAPTER 14 Chemical Kinetics
+Integrative Exercises
+ 
+[14.117] Dinitrogen pentoxide 1N2O52 decomposes in chloroform 
+as a solvent to yield NO2 and O2. The decomposition is 
+ﬁrst order with a rate constant at 45 °C of 1.0 * 10-5 s-1. 
+Calculate the partial pressure of O2 p

@@ -1,0 +1,21 @@
+Sound; Decibels
+8. (I) What is the intensity of a sound at the pain level of
+120 dB? Compare it to that of a whisper at 20 dB.
+9. (I) What is the sound level of a sound whose intensity is
+10. (II) You are trying to decide between two new stereo
+amplifiers. One is rated at 75 W per channel and the other
+is rated at 120 W per channel. In terms of dB, how much
+louder will the more powerful amplifier be when both are
+producing sound at their maximum levels?
+11. (II) If two firecrackers produce a combined sound level of
+85 dB when fired simultaneously at a certain place, what
+will be the sound level if only one is exploded? [Hint: Add
+intensities, not dBs.]
+1.5 * 10–6 Wm2?
+17. (II) If the amplitude of a sound wave is made 3.5 times
+greater, (a) by what factor will the intensity increase? (b) By
+how many dB will the sound level increase?
+18. (II) Two sound waves have equal displacement amplitudes,
+but one has 2.2 times the frequency of the other. What is
+the ratio of their intensities?
+19. 

@@ -1,0 +1,16 @@
+to make 
+the buffer?
+Addition of Strong Acids or Bases to Buffers
+Let’s now consider in a more quantitative way how a buffered solution responds to 
+addition of a strong acid or base. In this discussion, it is important to understand that 
+neutralization reactions between strong acids and weak bases proceed essentially to completion, 
+as do those between strong bases and weak acids. This is because water is a product of the 
+reaction, and you have an equilibrium constant of 1>Kw = 1014 in your favor when mak-
+ing water. 
+ (Section 16.3) Thus, as long as we do not exceed the buffering capacity of 
+the buffer, we can assume that the strong acid or strong base is completely consumed by 
+reaction with the buffer.
+Consider a buffer that contains a weak acid HA and its conjugate base A-. When a 
+strong acid is added to this buffer, the added H+ is consumed by A- to produce HA; thus, 
+3HA4 increases and 3A-4 decreases. (See Equation 17.7.) Upon addition of a strong base, 
+the added OH- is con

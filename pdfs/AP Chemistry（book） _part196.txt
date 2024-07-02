@@ -1,0 +1,15 @@
+ in the numerator.
+Note that you could have used 100 cm = 1 m as a conversion factor as well in the 
+second parentheses. As long as you keep track of your given units and cancel them prop-
+erly to obtain the desired units, you are likely to be successful in your calculations.
+Calculators are wonderful devices; they enable you to get to the 
+wrong answer very quickly. Of course, that’s not the destination you 
+want. You can take certain steps to avoid putting that wrong answer 
+into your homework set or on an exam. One is to keep track of the 
+units in a calculation and use the correct conversion factors. Second, 
+you can do a quick mental check to be sure that your answer is rea-
+sonable: you can try to make a “ballpark” estimate.
+A ballpark estimate involves making a rough calculation using 
+numbers that are rounded off in such a way that the arithmetic can 
+be done without a calculator. Even though this approach does not 
+give an exact answer, it gives one that is roughly the correct

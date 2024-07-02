@@ -1,0 +1,101 @@
+ ms.
+11 s,
+35 ms
+EXAMPLE 5;8
+a = 3atan
+2
++ aR
+2 .
+a
+B
+a
+B
+tan
+a
+B
+R
+a
+B = a
+B
+tan + a
+B
+R.
+a
+B
+a
+B
+R
+a
+B
+tan
+v
+B.
+a
+B
+tan
+v
+B,
+aR = v2
+r
+.
+atan =
+¢v
+¢t
+.
+atan,
+a
+B
+tan.
+F
+B
+tan,
+a
+B
+R,
+F
+B
+R,
+*
+118
+CHAPTER 5
+Circular Motion; Gravitation
+tan
+R
+tan
+R
+F
+B
+F
+B
+F
+B
+a
+B
+a
+B
+a
+B
+(a)
+(b)
+FIGURE 5;15 The speed of an
+object moving in a circle changes if
+the force on it has a tangential 
+component,
+Part (a) shows the
+force 
+and its vector components;
+part (b) shows the acceleration
+vector and its vector components.
+F
+B
+F
+tan.
+SECTION 5–5
+Newton’s Law of Universal Gravitation
+119
+5–5 Newton’s Law of Universal Gravitation
+Besides developing the three laws of motion, Isaac Newton also examined the motion
+of the planets and the Moon. In particular, he wondered about the nature of the
+force that must act to keep the Moon in its nearly circular orbit around the Earth.
+Newton was also thinking about the problem of gravity. Since falling objects
+accelerate, Newton had concluded that they must have a fo

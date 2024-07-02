@@ -1,0 +1,24 @@
+energy levels
+of the outer electrons are altered because they now interact
+with each other. Additional energy levels also become possible
+because the atoms can vibrate with respect to each other, and
+the molecule as a whole can rotate. The energy levels for both
+vibrational and rotational motion are quantized, and are very
+close together (typically,
+to 
+apart). Each
+atomic energy level thus becomes a set of closely spaced levels
+corresponding to the vibrational and rotational motions. Tran-
+sitions from one level to another appear as many very closely
+spaced lines. The resulting spectra are called band spectra.
+The quantized rotational energy levels are given by
+(29;1)
+where I is the moment of inertia of the molecule.
+The energy levels for vibrational motion are given by
+(29;3)
+where f is the classical natural frequency of vibration for the
+molecule. Transitions between energy levels are subject to the
+selection rules 
+and 
+Some solids are bound together by covalent and ionic bonds,
+ju

@@ -1,0 +1,16 @@
+smosis, and plasmolysis.
+In animal cells, the direction of osmosis, in or out of a cell, depends on the concentration of solutes inside and
+outside the plasma membrane. In plant cells, however, osmosis is also influenced by turgor pressure, the internal
+pressure of water exerted on the cell wall. To account for differences in both concentration and pressure, a more
+general term, water potential, is used to describe the tendency of water to move across a selectively permeable
+membrane. Water potential is the sum of the pressure potential (from any externally applied force) and the solute
+potential (osmotic potential):
+Water potential has the following properties:
+ 
+1. Water moves across a selectively permeable membrane from an area of higher water potential to an area of lower
+water potential.
+ 
+2. Water potential can be positive or negative. Negative water potential is called tension.
+ 
+3. In a living cell, water potential is always zero or negative.
+4. Solute potential results from th

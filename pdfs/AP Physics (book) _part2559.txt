@@ -1,0 +1,15 @@
+ section.
+Converging lenses are thicker at the center whereas diverging lenses are thicker at the edges.
+(c) Photo of a converging lens (on the left) and a diverging lens (right). (d) Converging lenses
+(above), and diverging lenses (below), lying flat, and raised off the paper to form images.
+FIGURE 23–33 Parallel rays are
+brought to a focus by a converging
+thin lens.
+Consider parallel rays striking the double convex lens shown in cross section in
+Fig. 23–33. We assume the lens is made of transparent material such as glass or
+transparent plastic with index of refraction greater than that of the air outside. The
+axis of a lens is a straight line passing through the center of the lens and perpen-
+dicular to its two surfaces (Fig.23–33). From Snell’s law, we can see that each ray in
+Fig. 23–33 is bent toward the axis when the ray enters the lens and again when it
+leaves the lens at the back surface. (Note the dashed lines indicating the normals to
+each surface for the top ray.) If rays pa

@@ -1,0 +1,45 @@
+locity
+of the car changes. (How else could your car start forward if its velocity weren’t
+changing—that is, accelerating?) (b) As you cruise along a straight highway at
+a constant velocity of 
+, your acceleration is zero: a = 0,  v Z 0.
+100 kmh
+CONCEPTUAL EXAMPLE 2;5
+C A U T I O N
+Distinguish velocity from
+acceleration
+C A U T I O N
+If v or a is zero, is the other zero too?
+Acceleration
+a = −2.0 m/s2
+v1 =  15.0 m/s
+at t1 =  0
+v2 =  5.0 m/s
+at t2 =  5.0 s
+FIGURE 2;11 Example 2–6,
+showing the position of the car at 
+times 
+and 
+as well as the car’s 
+velocity represented by the green 
+arrows. The acceleration vector 
+(orange) points to the left because the 
+car slows down as it moves to the right.
+t2 ,
+t1
+v1 = −15.0 m/s
+v2 = −5.0 m/s
+a
+FIGURE 2;12 The car of 
+Example 2–6, now moving to the left
+and decelerating. The acceleration is
+, or
+= ±2.0 ms2.
+= –5.0 ms + 15.0 ms
+5.0 s
+a =
+(–5.0 ms) - (–15.0 ms)
+5.0 s
+a = (v2 - v1)¢t
+Car slowing down. An automobile is moving to the right
+along

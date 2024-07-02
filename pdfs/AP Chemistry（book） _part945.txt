@@ -1,0 +1,16 @@
+ the radial probability distributions for the 1s, 2s, and 3s orbitals reveals 
+three trends:
+1. For an ns orbital, the number of peaks is equal to n, with the outermost peak being larger 
+than inner ones.
+2. For an ns orbital, the number of nodes is equal to n - 1.
+3. As n increases, the electron density becomes more spread out; that is, there is a greater prob-
+ability of finding the electron further from the nucleus.
+One widely used method of representing orbital shape is to draw a boundary  
+surface 
+that encloses some substantial portion, say 90%, of the electron density for the orbital. 
+This type of drawing is called a contour representation, and the contour representations 
+for the s orbitals are spheres (Figure 6.20). All the orbitals have the same shape, but 
+they differ in size, becoming larger as n increases, reflecting the fact that the electron 
+ 
+density becomes more spread out as n increases. Although the details of how electron 
+density varies within a given contour rep

@@ -1,0 +1,22 @@
+ion in the body. How much energy is
+transformed in 24 h by a 65-kg person who spends 8.0 h sleeping, 1.0 h at moderate
+physical labor, 4.0 h in light activity, and 11.0 h working at a desk or relaxing?
+APPROACH The energy transformed during each activity equals the metabolic
+rate (Table 15–2) multiplied by the time.
+SOLUTION Table 15–2 gives the metabolic rate in watts 
+Since there are
+3600 s in an hour, the total energy transformed is
+NOTE Since 
+this is equivalent to 2800 kcal; a food
+intake of 2800 Cal would compensate for this energy output. A 65-kg person
+who wanted to lose weight would have to eat less than 2800 Cal a day, or
+increase his or her level of activity. Exercise beats any diet technique.
+4.186 * 103 J = 1 kcal,
+c(8.0 h)(70 Js) + (1.0 h)(460 Js)
++ (4.0 h)(230 Js) + (11.0 h)(115 Js)d(3600 sh) = 1.15 * 107 J.
+(Js).
+EXAMPLE 15;7
+15–4 The Second Law of
+Thermodynamics—Introduction
+The first law of thermodynamics states that energy is conserved. There are, how-
+ever, ma

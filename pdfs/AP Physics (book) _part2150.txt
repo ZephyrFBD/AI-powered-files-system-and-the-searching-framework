@@ -1,0 +1,76 @@
+ to
+a battery 
+as shown in Fig. 19–60. Determine the current I
+that flows out of the
+battery. (b) Use the
+value 
+determined
+for I to find the
+single resistor 
+that is equivalent 
+to the five-resistor
+network.
+Req
+e
+r = 1.4 .
+35. (III) What would the current 
+be in Fig. 19–61 if the 
+resistor is shorted out (resistance
+)? Let r = 1.0 .
+= 0
+12-
+I1
+12.0 V
+12.0 V
+6.0 V
+r
+r
+r
+28 Ω
+12 Ω
+16 Ω
+22 Ω
+11 Ω
+I2
+I1
+I3
+FIGURE 19–61
+Problems 34 and 35.
+34. (III) (a) Determine the currents 
+and 
+in Fig. 19–61.
+Assume the internal resistance
+of 
+each 
+battery 
+is
+(b) What is
+the terminal voltage
+of the 6.0-V battery?
+r = 1.0 .
+I3
+I2 ,
+I1 ,
+R
+R
+R
+R
+R
+e
+I
+FIGURE 19–60
+Problem 33.
+554
+CHAPTER 19
+DC Circuits
+19–4 Emfs Combined, Battery Charging
+36. (II) Suppose two batteries, with unequal emfs of 2.00 V and
+3.00 V, are connected as shown 
+in Fig. 19–62. If each internal
+resistance is 
+and
+what is the voltage
+across the resistor R?
+R = 4.00 ,
+r = 0.350 ,
+37. (II) A battery for a proposed electric car i

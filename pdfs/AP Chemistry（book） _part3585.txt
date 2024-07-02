@@ -1,0 +1,16 @@
+to make solar cells and transistors for computer chips. To be 
+used as a semiconductor, it must be extremely pure, possessing less than 10 - 7% (1 ppb) 
+impurities. One method of purification is to treat the element with Cl2 to form SiCl4, a 
+volatile liquid that is purified by fractional distillation and then converted back to ele-
+mental silicon by reduction with H2:
+ 
+SiCl41g2 + 2 H21g2 ¡ Si1s2 + 4 HCl1g2 
+[22.67]
+The process known as zone refining can further purify the element (Figure 22.31). As a 
+heated coil is passed slowly along a silicon rod, a narrow band of the element is melted. As 
+the molten section is swept slowly along the length of the rod, the impurities concentrate 
+in this section, following it to the end of the rod. The purified top portion of the rod crys-
+tallizes as 99.999999999% pure silicon.
+Silicates
+Silicon dioxide and other compounds that contain silicon and oxygen make up over 90% 
+of Earth’s crust. In silicates, a silicon atom is surrounded by four oxyge

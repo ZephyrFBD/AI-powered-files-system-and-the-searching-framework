@@ -1,0 +1,56 @@
+= 0.
+©F
+y = 0
+©t = 0.
+©F
+y = 0,
+©F
+x = 0,
+u
+F
+T
+F
+Hy,
+F
+Hx,
+F
+B
+H.
+F
+B
+T
+F
+T
+F
+B
+H
+M = 28.0 kg
+u = 30.0°.
+m = 25.0 kg,
+EXAMPLE 9;6
+†Our calculation used numbers rounded off to 3 significant figures. If you keep an extra digit, or leave
+the numbers in your calculator, you get 
+and 
+all within
+the expected precision of 3 significant figures (Section 1–4).
+F
+T = 793 N,
+F
+Ty = 396.5 N, F
+Tx = 686.8 N,
+Alternate Solution Let us see the effect of choosing a different axis for calcu-
+lating torques, such as an axis through the hinge. Then the lever arm for 
+is
+zero, and the torque equation
+becomes
+We solve this for 
+and find
+We get the same result, within the precision of our significant figures.
+NOTE It doesn’t matter which axis we choose for
+. Using a second axis
+can serve as a check.
+A More Difficult Example—The Ladder
+Ladder. A 5.0-m-long ladder leans against a wall at a point
+4.0 m above a cement floor as shown in Fig. 9–11. The ladder is uniform and has
+mass
+Assuming the wall is frictio

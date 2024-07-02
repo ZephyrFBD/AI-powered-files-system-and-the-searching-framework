@@ -1,0 +1,20 @@
+little heat, LEDs are replacing standard incan-
+descent and fluorescence light bulbs in many applications.
+Related Exercises: 12.73–12.76
+▲ Figure 12.33 LEDs are all around us.
+ 
+SECTION 12.8   
+Polymers 
+501
+Some polymers, such as nylon and polyesters, both of which are thermosetting plas-
+tics, can be formed into fibers that, like hair, are very long relative to their cross-sectional 
+area. These fibers can be woven into fabrics and cords and fashioned into clothing, tire 
+cord, and other useful objects.
+Making Polymers
+A good example of a polymerization reaction is the formation of polyethylene from 
+ethylene molecules (Figure 12.35). In this reaction, the double bond in each ethylene 
+molecule “opens up,” and two of the electrons originally in this bond are used to form 
+new C ¬C single bonds with two other ethylene molecules. This type of polymeriza-
+tion, in which monomers are coupled through their multiple bonds, is called addition 
+polymerization.
+We can write the equation for 

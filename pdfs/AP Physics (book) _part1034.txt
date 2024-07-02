@@ -1,0 +1,25 @@
+ut
+Aout
+   in
+Ain
+P
+in
+F
+B
+F
+B
+FIGURE 10–6 Applications of Pascal’s principle: (a) hydraulic lift;
+(b) hydraulic brakes in a car.
+10–5 Pascal’s Principle
+The Earth’s atmosphere exerts a pressure on all objects with which it is in con-
+tact, including other fluids. External pressure acting on a fluid is transmitted
+throughout that fluid. For instance, according to Eq. 10–3a, the pressure due to
+the water at a depth of 100 m below the surface of a lake is 
+or 9.7 atm. However, the
+total pressure at this point is due to the pressure of water plus the pressure of 
+the air above it. Hence the total pressure (if the lake is near sea level) is
+This is just one example of a general principle
+attributed to the French philosopher and scientist Blaise Pascal (1623–1662).
+Pascal’s principle states that if an external pressure is applied to a confined fluid,
+the pressure at every point within the fluid increases by that amount.
+A number of practical devices make use of Pascal’s principle. One examp

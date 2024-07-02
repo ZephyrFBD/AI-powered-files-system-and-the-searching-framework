@@ -1,0 +1,41 @@
+culating f for a converging lens. A convex meniscus
+lens (Figs. 23–31a and 23–46) is made from glass with
+The radius of
+curvature of the convex surface (left in Fig. 23–46) is 22 cm. The surface on the
+right is concave with radius of curvature 46 cm. What is the focal length?
+APPROACH We use the lensmaker’s equation, Eq. 23–10, to find f.
+SOLUTION
+and
+(concave surface). Then
+So
+and the lens is converging since
+NOTE If we turn the lens around so that
+and
+we
+get the same result.
+NOTE Because Eq.23–10 gives 1/f, it gives directly the power of a lens in diopters,
+Eq. 23–7. The power of this lens is about 1.2 D.
+R2 = ±22 cm,
+R1 = –46 cm
+f 7 0.
+f =
+1
+1.19 m–1
+= 0.84 m,
+1
+f = (1.50 - 1.00) a
+1
+0.22 m -
+1
+0.46 m b
+= 1.19 m–1.
+R2 = –0.46 m
+R1 = 0.22 m
+n = 1.50.
+EXAMPLE 23;17
+670
+CHAPTER 23
+Light: Geometric Optics
+Light appears to travel along straight-line paths, called rays,
+through uniform transparent materials including air and glass.
+When light reflects from a flat surface, the angle of ref

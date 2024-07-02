@@ -1,0 +1,39 @@
+n target (protons). The number of
+interactions (
+scattered) plotted versus the pion’s kinetic energy is shown in
+Fig. 32–14. The large number of interactions around 200 MeV led Fermi to
+conclude that the 
+and proton combined momentarily to form a short-lived
+particle before coming apart again, or at least that they resonated together for a
+short time. Indeed, the large peak in Fig. 32–14 resembles a resonance curve (see
+Figs. 11–18 and 21–46), and this new “particle”—now called the 
+—is referred
+to as a resonance. Hundreds of other resonances have been found, and are
+regarded as excited states of lighter mass particles such as a nucleon.
+¢
+p±
+p±
+p±
+10–23 s.
+g
+10–19 s,
+10–16
+10–13 s
+932
+CHAPTER 32
+FIGURE 32–14 Number of 
+particles
+scattered elastically by a proton target
+as a function of the incident 
+kinetic energy. The resonance shape
+represents the formation of a short-
+lived particle, the 
+which has a
+charge in this case of ±2e A¢±±B.
+¢,
+p±
+p±
+200
+0
+Number of interactions
+Kinetic en

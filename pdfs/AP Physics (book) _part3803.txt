@@ -1,0 +1,38 @@
+estions as in Problem 49.
+ 8
+16O +
+ 8
+16O S 14
+28Si + 2
+4He,
+ 6
+12C +  6
+12C S 12
+24Mg + g.
+51. Use dimensional analysis with the fundamental constants
+c, G, and 
+to estimate the value of the so-called Planck time.
+It is thought that physics as we know it can say nothing
+about the universe before this time.
+52. Estimate the mass of our observable universe using the
+following assumptions: Our universe is spherical in shape,
+it has been expanding at the speed of light since the Big
+Bang, and its density is the critical density.
+U
+A: Our Earth and ourselves, 2 years ago.
+B: 600 ly (estimating L from Fig. 33–6 as
+note that on a log scale, 6000 K is closer to 7000 K than it
+is to 5000 K).
+L L 8 * 1026 W;
+C: 30 km.
+D: (a); not the usual 
+but R: see formula for the
+Schwarzschild radius.
+E: (c); (d).
+R3,
+ANSWERS TO EXERCISES
+1. Estimate what neutrino mass (in 
+) would provide the
+critical density to close the universe. Assume the neutrino
+density is, like photons, about 
+times that of nucleons

@@ -1,0 +1,34 @@
+us. (Section 19.5) Related Exercises: 19.55, 19.56
+t Calculate standard free-energy changes using standard free 
+energies of formation. (Section 19.5) 
+Related Exercises: 19.59, 19.60
+t Predict the effect of temperature on spontaneity given ∆H and 
+∆S. (Section 19.6) Related Exercises: 19.63, 19.64, 19.69, 19.70
+t Calculate ∆G under nonstandard conditions. (Section 19.7) 
+Related Exercises: 19.77, 19.78
+t Relate ∆G° and equilibrium constant. (Section 19.7) 
+Related Exercises: 19.79–19.82
+Key Equations
+t ∆S =
+qrev
+T  1constant T2 
+[19.2]  
+ 
+Relating entropy change to the heat absorbed or released in a 
+ 
+reversible process
+t Reversible process:  ∆Suniv = ∆Ssys + ∆Ssurr = 0  
+¶
+ 
+Irreversible process:  ∆Suniv = ∆Ssys + ∆Ssurr 7 0 
+[19.4]  
+The second law of thermodynamics
+838 
+CHAPTER 19 Chemical Thermodynamics
+t S = k ln W 
+[19.5]  
+Relating entropy to the number of microstates
+t ∆S° = a nS°1products2 - a mS°1reactants2 
+[19.8]  
+ 
+Calculating the standard entropy change from s

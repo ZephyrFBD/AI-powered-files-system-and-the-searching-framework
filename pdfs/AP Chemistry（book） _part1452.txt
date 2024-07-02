@@ -1,0 +1,30 @@
+(rule 1).
+The Li 1s orbitals combine to form s
+1s and s
+1s
+*  bonding and antibonding MOs, as they 
+did for H2. The 2s orbitals interact with one another in exactly the same way, producing 
+bonding 1s
+2s2 and antibonding 1s
+2s
+*2 MOs. In general, the separation between bonding 
+and antibonding MOs depends on the extent to which the constituent atomic orbitals 
+overlap. Because the Li 2s orbitals extend farther from the nucleus than the 1s orbitals do, 
+the 2s orbitals overlap more effectively. As a result, the energy difference between the s
+2s 
+and s
+2s
+* orbitals is greater than the energy difference between the s
+1s and s
+1s
+*  orbitals. The 
+1s orbitals of Li are much lower in energy than the 2s orbitals; therefore, the energy of the 
+s
+1s
+*  antibonding MO is much lower than the energy of the s
+2s bonding MO.
+Each Li atom has three electrons, so six electrons must be placed in Li2 MOs. As 
+shown in Figure 9.35, these electrons occupy the s
+1s, s1s
+* , and s
+2s MOs, each with two 

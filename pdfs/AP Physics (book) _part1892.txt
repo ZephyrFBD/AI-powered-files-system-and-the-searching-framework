@@ -1,0 +1,15 @@
+e ray tube (CRT), and as recently as
+2008 they accounted for half of all new TV sales. Two years later it was tough to
+find a new CRT set to buy. Even though new TV sets are flat screen plasma or
+liquid crystal displays (LCD), an understanding of how a CRT works is useful.
+CRT
+The operation of a CRT depends on thermionic emission, discovered by Thomas
+Edison (1847–1931). Consider a voltage applied to two small electrodes inside an
+evacuated glass “tube” as shown in Fig. 17–28: the cathode is negative, and the
+anode is positive. If the cathode is heated (usually by an electric current) so that
+it becomes hot and glowing, it is found that negative charges leave the cathode
+and flow to the positive anode. These negative charges are now called electrons,
+but originally they were called cathode rays because they seemed to come from
+the cathode (more detail in Section 27–1 on the discovery of the electron).
+Figure 17–29 is a simplified sketch of a CRT which is contained in an evacuated
+glass

@@ -1,0 +1,16 @@
+imagine
+a stream of charged particles approaching the Earth. The velocity component
+perpendicular to the field for each particle becomes a circular orbit around the
+field lines, whereas the velocity component parallel to the field carries the particle
+along the field lines toward the poles. As a particle approaches the Earth’s North
+Pole, the magnetic field is stronger and the radius of the helical path becomes
+smaller (see Example 20–6,
+).
+A high concentration of high-speed charged particles ionizes the air, and as
+the electrons recombine with atoms, light is emitted (Chapter 27) which is the
+aurora. Auroras are especially spectacular during periods of high sunspot activity
+when more charged particles are emitted and more come toward Earth.
+The Hall Effect
+When a current-carrying conductor is held fixed in a magnetic field, the field
+exerts a sideways force on the charges moving in the conductor. For example, if
+electrons move to the right in the rectangular conductor shown in Fig. 20

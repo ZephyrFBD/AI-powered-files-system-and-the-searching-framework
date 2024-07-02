@@ -1,0 +1,55 @@
+
+form circles around the wire, and the field exerts a force on
+magnets (or currents) near it.
+A magnetic field exerts a force on an electric current. For
+a straight wire of length 
+carrying a current I, the force has
+magnitude
+(20;1)
+where is the angle between the magnetic field 
+and the cur-
+rent direction. The direction of the force is perpendicular to the
+current-carrying wire and to the magnetic field, and is given 
+by a right-hand rule. Equation 20–1 serves as the definition of
+magnetic field 
+Similarly, a magnetic field exerts a force on a charge q
+moving with velocity of magnitude
+(20;3)
+where 
+is the angle between 
+and 
+The direction of 
+is
+perpendicular to 
+and to 
+(again a right-hand rule). The 
+path of a charged particle moving perpendicular to a uniform
+magnetic field is a circle.
+The magnitude of the magnetic field produced by a cur-
+rent I in a long straight wire, at a distance r from the wire, is
+(20;6)
+B =
+m0
+2p
+I
+r
+.
+B
+B
+v
+B
+F
+B
+B
+B.
+v
+B
+u
+F = qvB sin u,
+v
+B
+B.
+B
+B
+u
+F

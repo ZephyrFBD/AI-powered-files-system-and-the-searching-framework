@@ -1,0 +1,13 @@
+ozygous at A, and 2)
+homozygous at B or heterozygous at B, and so on. Noting the “or” and “and” in each circumstance makes clear where to
+498
+Chapter 12 | Mendel's Experiments and Heredity
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+apply the sum and product rules. The probability of a homozygous dominant at A is 1/4 and the probability of a heterozygote
+at A is 1/2. The probability of the homozygote or the heterozygote is 1/4 + 1/2 = 3/4 using the sum rule. The same probability
+can be obtained in the same way for each of the other genes, so that the probability of a dominant phenotype at A and B and
+C and D is, using the product rule, equal to 3/4 × 3/4 × 3/4 × 3/4, or 27/64. If you are ever unsure about how to combine
+probabilities, returning to the forked-line method should make it clear.
+Rules for Multihybrid Fertilization
+Predicting the genotypes and phenotypes of offspring from given crosses is the best way to test your knowledge of
+Mendelian g

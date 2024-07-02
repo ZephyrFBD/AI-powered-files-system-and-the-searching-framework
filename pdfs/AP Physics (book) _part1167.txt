@@ -1,0 +1,106 @@
+dulum
+301
+†Simple harmonic motion can be defined as motion that is sinusoidal. This definition is fully consistent
+with our earlier definition in Section 11–1.
+Displacement x
+Velocity v
+(a)
+0
+Acceleration a
+(c)
+(b)
+−
+A
+0
+−A
+T
+t
+−vmax
+0
+T
+t
+T
+T
+t
+vmax
+amax
+amax
+1
+2
+T
+1
+4
+T
+T
+1
+4
+1
+2T
+3
+2T
+3
+2T
+3
+4
+3
+4
+T
+1
+2
+T
+1
+4
+T
+3
+2T
+3
+4T
+FIGURE 11–10 Graphs showing 
+(a) displacement x as a function of
+time
+(b) velocity as a function of time:
+where
+(c) acceleration 
+as a function of time:
+where
+amax = Akm.
+a = –amax cos(2ptT),
+vmax = A1km;
+v = –vmax sin(2ptT),
+x = A cos(2ptT);
+t:
+x(t)
+A
+0
+−A
+T
+T
+1
+4
+3
+4
+3
+2
+1
+2T
+T
+T
+t
+FIGURE 11–9 Sinusoidal nature of SHM,
+position as a function of time. In this case,
+because at 
+the
+mass is at the equilibrium position
+and has (or is given) an initial speed at
+that carries it to
+at t = 1
+4 T.
+x = A
+t = 0
+x = 0
+t = 0
+x = A sin(2ptT)
+FIGURE 11–11 Strobe-light photo
+of an oscillating pendulum, at 
+equal time intervals.
+EXERCISE F If a simple pendulum is taken from 

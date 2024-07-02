@@ -1,0 +1,28 @@
+of continuity states
+that for an incompressible fluid flowing in an enclosed tube,
+the product of the velocity of flow and the cross-sectional area
+of the tube remains constant:
+(10;4)
+Bernoulli’s principle tells us that where the velocity of a
+fluid is high, the pressure in it is low, and where the velocity is
+low, the pressure is high. For steady laminar flow of an incom-
+pressible and nonviscous fluid, Bernoulli’s equation, which is
+based on the law of conservation of energy, is
+(10;5)
+for two points along the flow.
+[*Viscosity refers to friction within a fluid and is essentially
+a frictional force between adjacent layers of fluid as they move
+past one another.]
+[*Liquid surfaces hold together as if under tension 
+(surface tension), allowing drops to form and objects like needles
+and insects to stay on the surface.]
+P
+2 + 1
+2 rv2
+2 + rgy2 = P
+1 + 1
+2 rv1
+2 + rgy1,
+Av = constant.
+Summary
+†When the blood starts flowing through the constriction caused by the tight cuff, its velocity is

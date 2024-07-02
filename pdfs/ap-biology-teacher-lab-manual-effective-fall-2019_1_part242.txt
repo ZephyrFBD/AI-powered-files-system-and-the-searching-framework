@@ -1,0 +1,16 @@
+a that predicts genotypes is 
+(p + q)2 = 1, which works out to: p2 + 2pq + q2. 
+Based on the calculations you made while testing your model, how would you answer 
+the following questions? 
+•  In the absence of random events (an infinitely large population), are the allele  
+frequencies of the original population expected to change from generation to  
+generation?  
+•  How does this compare to a population that has random gamete selection but is 
+small? 
+•  What happens to allele frequencies in such a population? Is it predictable? 
+This mathematical model can predict allele frequencies from generation to 
+generation. In fact, it is a null model. That is, in the absence of random events or other 
+real-life factors that affect populations, the allele frequencies do not change from 
+generation to generation. This is known as the Hardy-Weinberg equilibrium (H-W 
+equilibrium). The H-W equilibrium is a valuable tool for population biologists because 
+it serves as a baseline to measure change

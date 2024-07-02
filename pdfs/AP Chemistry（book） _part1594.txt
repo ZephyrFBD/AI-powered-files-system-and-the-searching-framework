@@ -1,0 +1,24 @@
+NaN3
+The conversion sequence is:
+Continued
+SOLUTION
+Analyze We are given the temperature 131 °C2 and pressure (735 torr) 
+for a gas, together with information to determine its volume and 
+mass, and we are asked to calculate its molar mass.
+Plan The data obtained when the flask is filled with water can be 
+used to calculate the volume of the container. The mass of the 
+empty flask and of the flask when filled with gas can be used to 
+calculate the mass of the gas. From these quantities we calculate 
+the gas density and then apply Equation 10.11 to calculate the mo-
+lar mass of the gas.
+Solve The gas volume equals the volume of water the flask can 
+hold, calculated from the mass and density of the water. The mass 
+of the water is the difference between the masses of the full and 
+evacuated flask:
+1067.9 g - 134.567 g = 933.3 g
+Rearranging the equation for density 1d = m>V2, we have
+V = m
+d =
+1933.3 g2
+10.997 g>mL2 = 936 mL = 0.936 L
+The gas mass is the difference between the mass of the 

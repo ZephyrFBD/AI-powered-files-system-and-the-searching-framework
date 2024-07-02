@@ -1,0 +1,21 @@
+as that on the
+original object since the surrounding fluid, which exerts 
+is in exactly the same
+configuration. This body of fluid 
+is in equilibrium (the fluid as a whole is at rest).
+Therefore,
+where 
+is the weight of the body of fluid 
+Hence the
+buoyant force 
+is equal to the weight of the body of fluid whose volume equals
+the volume of the original submerged object, which is Archimedes’ principle.
+Archimedes’ discovery was made by experiment. What we have done is show
+that Archimedes’ principle can be derived from Newton’s laws.
+Two pails of water. Consider two iden-
+tical pails of water filled to the brim. One pail contains only water, the other has
+a piece of wood floating in it. Which pail has the greater weight?
+RESPONSE Both pails weigh the same. Recall Archimedes’ principle: the wood
+displaces a volume of water with weight equal to the weight of the wood. Some
+water will overflow the pail, but Archimedes’ principle tells us the spilled water
+has weight equal to the weight of 

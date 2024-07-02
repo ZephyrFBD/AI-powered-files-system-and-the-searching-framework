@@ -1,0 +1,27 @@
+lt of the perchlorate ion 
+(ClO4
+-). Like MnO4
+-, ClO4
+- is tetrahedral and has its central atom in 
+the +7 oxidation state. However, because the Cl atom does not have 
+low-lying d orbitals, exciting an electron from O to Cl requires a more 
+energetic photon than does it does in MnO4
+-. The ﬁrst absorption for 
+ClO4
+- is in the ultraviolet portion of the spectrum, so no visible light 
+is absorbed and the salt appears white.
+Other complexes exhibit charge-transfer excitations in which 
+an electron from the metal atom is excited to an empty orbital on a 
+ligand. Such an excitation is called a metal-to-ligand charge-transfer 
+(MLCT) transition.
+Charge-transfer transitions are generally more intense than d-d 
+transitions. Many metal-containing pigments used for oil paint-
+ing, such as cadmium yellow (CdS), chrome yellow (PbCrO4), and 
+red ochre (Fe2O3), have intense colors because of charge-transfer 
+ 
+transitions.
+Related Exercises: 23.84, 23.85
+t2 set
+e set
+Filled ligand orbitals
+Empty M

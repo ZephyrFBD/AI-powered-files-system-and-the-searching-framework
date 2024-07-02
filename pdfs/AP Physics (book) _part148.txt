@@ -1,0 +1,26 @@
+e direction? (a) Depends on how quickly you turn around; (b) always zero;
+(c) always negative; (d) none of the above.
+26
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+2–4 Acceleration
+An object whose velocity is changing is said to be accelerating. For instance, a car
+whose velocity increases in magnitude from zero to 
+is accelerating.
+Acceleration specifies how rapidly the velocity of an object is changing.
+Average acceleration is defined as the change in velocity divided by the 
+time taken to make this change:
+In symbols, the average acceleration,
+, over a time interval
+during
+which the velocity changes by
+is defined as
+[average acceleration]
+(2;4)
+We saw that velocity is a vector (it has magnitude and direction), so acceleration
+is a vector too. But for one dimensional motion, we need only use a plus or minus
+sign to indicate acceleration direction relative to a chosen coordinate axis.
+(Usually, right is 
+left is 
+.)
+The instantaneous acceleration, a, can be defined in an

@@ -1,0 +1,39 @@
+is
+housed at Yerkes Observatory in
+Wisconsin. The objective lens is
+102 cm (40 inches) in diameter, and
+the telescope tube is about 19 m
+long. Example 25–8.
+P R O B L E M  S O L V I N G
+Distance between lenses
+for relaxed eye
+= f
+o + f
+e
+Eyepiece
+Objective
+lens
+Final image (virtual)
+Final image (virtual)
+Parallel 
+rays from 
+distant
+object
+(a)
+Eyepiece
+Objective
+lens
+(b)
+Third
+lens
+Fo
+EXERCISE D A 
+telescope has a 1.2-cm focal length eyepiece. What is the focal
+length of the objective lens?
+For an astronomical telescope to produce bright images of faint stars, the
+objective lens must be large to allow in as much light as possible. Indeed, the diam-
+eter of the objective lens (and hence its “light-gathering power”) is an important
+parameter for an astronomical telescope, which is why the largest ones are specified
+by giving the objective diameter (such as the 10-meter Keck telescope in Hawaii).
+The construction and grinding of large lenses is very difficult. Therefore, the
+largest teles

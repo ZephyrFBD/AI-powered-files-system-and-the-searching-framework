@@ -1,0 +1,35 @@
+ of Darwin’s theory, but not
+directly connected to the idea of geologic gradualism.
+59. C
+The question posed asks for the chi-square value for a null hypothesis that concerns only
+the feathered-tail and straight-tail alleles, so ignore the role that the long and short
+alleles play. Out of 96 total oﬀspring, 30 + 10 = 40 had straight tails and 42 + 14 = 56 had
+feathered tails. Using F to represent the feathered-tail allele and f to represent the
+straight-tail allele, a cross between an Ff female and an ﬀ male would be expected to
+produce half feathered tails (Ff) and half straight tails (ﬀ), or 48 of each. This gives a chi-
+square calculation as follows:
+phenotype
+observed
+expected
+obs–exp
+(obs–exp)2
+(obs–exp)2/exp
+feathered
+tail
+56
+48
+8
+64
+1.333
+straight tail
+40
+48
+–8
+64
+1.333
+Answers and Explanations
+χ2 = 2.666
+Rounding to the nearest hundredth gives a chi-square value of 2.67. Therefore, (C) is
+correct.
+60. B
+In living systems, water acts as a solvent for chemical reactions in cells 

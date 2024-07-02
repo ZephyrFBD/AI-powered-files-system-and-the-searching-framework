@@ -1,0 +1,14 @@
+thase, a channel protein in the inner membrane, allows the protons in the
+intermembrane compartment to flow back into the matrix. The protons moving through the channel generate the
+energy for ATP synthase to generate ATP. It is similar to how a dam generates electricity when water passing
+through turbines forces them to turn.
+Figure 4-4
+How Many ATP?
+How many ATP can theoretically be made from the energy released from the breakdown of 1 glucose molecule? In
+the cytoplasm, 1 glucose produces 2 NADH, 2 ATP, and 2 pyruvate during glycolysis. When the 2 pyruvate (from 1
+glucose) are converted to 2 acetyl CoA, 2 more NADH are produced. From 2 acetyl CoA, the Krebs cycle produces
+6 NADH, 2
+FADH2, and 2 ATP. If each NADH produces 3 ATP during oxidative phosphorylation, and FADH2produces 2
+ATP, the total ATP count from 1
+original glucose molecule appears to be 38. However, this number is reduced to 36 because the 2 NADH that are
+produced in the cytoplasm during glycolysis must be transported 

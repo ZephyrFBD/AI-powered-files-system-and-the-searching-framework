@@ -1,0 +1,22 @@
+ 18;13
+Electron speed in wire. A copper wire 3.2 mm in diameter
+carries a 5.0-A current. Determine the drift velocity of the free electrons. Assume
+that one electron per Cu atom is free to move (the others remain bound to the atom).
+APPROACH We apply Eq. 18–10 to find the drift velocity 
+if we can determine
+the number n of free electrons per unit volume. Since we assume there is one
+free electron per atom, the density of free electrons, n, is the same as the number
+of Cu atoms per unit volume. The atomic mass of Cu is 63.5 u (see Periodic Table
+inside the back cover), so 63.5 g of Cu contains one mole or 
+free
+electrons. To find the volume V of this amount of copper, and then
+we use the mass density of copper (Table 10–1),
+where
+(We use 
+to distinguish it here from for resistivity.)
+SOLUTION The number of free electrons per unit volume,
+(where
+), is
+The cross-sectional area of the wire is 
+Then, by Eq. 18–10, the drift velocity has magnitude
+NOTE The actual speed of electrons bouncing 

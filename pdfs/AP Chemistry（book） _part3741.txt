@@ -1,0 +1,26 @@
+nd 6, such as 
+Pd2+, Pt2+, Ir+, and Au3+.
+Go Figure
+For which d orbital(s) do the lobes 
+point directly at the ligands in a 
+square-planar crystal-field?
+Energy
+Square planar
+dxz, dyz
+dxy
+d  2
+dx2−y2
+▲ Figure 23.34 Energies of the d orbitals 
+in a square-planar crystal-field.
+Give It Some Thought
+Why is the energy of the dxz and dyz orbitals in a square-planar complex lower than 
+that of the dxy orbital?
+Nickel(II) complexes in which the metal coordination number is 4 can have either square-planar or tetrahedral geometry. 
+3NiCl442- is paramagnetic, and 3Ni(CN)442- is diamagnetic. One of these complexes is square planar, and the other is tetrahedral. 
+Use the relevant crystal-field splitting diagrams in the text to determine which complex has which geometry.
+Sample Exercise 23.8 
+Populating d Orbitals in Tetrahedral and Square-Planar Complexes
+SOLUTION
+Analyze We are given two complexes containing Ni2+ and their 
+magnetic properties. We are given two molecular geometry 
+choices and ask

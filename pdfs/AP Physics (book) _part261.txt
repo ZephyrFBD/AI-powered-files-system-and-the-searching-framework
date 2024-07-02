@@ -1,0 +1,96 @@
+work easier. (For example, choose
+one axis along the direction of one of the vectors, which
+then will have only one component.)
+3. Resolve each vector into its x and y components,
+showing each component along its appropriate
+(x or y) axis as a (dashed) arrow.
+4. Calculate each component (when not given) using
+sines and cosines. If 
+is the angle that vector 
+makes with the positive x axis, then:
+V
+1x = V
+1 cos u1 ,  V
+1y = V
+1 sin u1 .
+V
+B
+1
+u1
+Components
+Vector
+x (km)
+y (km)
+620 
+0
+311
+600
+–750
+D
+B
+R
+–439
+–331
+D
+B
+3
+–311
+D
+B
+2
+D
+B
+1
+= ?
+θ
+45°
+–x
+0
+53°
++x
++y
+–y
+(a)
+D2y
+D3y
+D3x
+–x
+0
++x
++y
+–y
+(b)
+45°
+D2x
+53°
+North
+East
+East
+North
+1
+D
+B
+2
+D
+B
+3
+D
+B
+R
+D
+B
+1
+D
+B
+3
+D
+B
+2
+D
+B
+FIGURE 3;16 Example 3–3.
+3–5 Projectile Motion
+In Chapter 2, we studied the one-dimensional motion of an object in terms of dis-
+placement, velocity, and acceleration, including purely vertical motion of a falling
+object undergoing acceleration due to gravity. Now we examine the more general
+translational motion of object

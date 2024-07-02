@@ -1,0 +1,19 @@
+ed to the paradox 
+discussed in the Closer Look box on “Thought Experiments 
+and Schrödinger’s Cat”?
+ [6.98]  Consider the discussion of radial probability functions in 
+“A Closer Look” in Section 6.6. (a) What is the difference 
+between the probability density as a function of r and the 
+radial probability function as a function of r ? (b) What is the 
+signiﬁcance of the term 4pr2 in the radial probability func-
+tions for the s orbitals? (c) Based on Figures 6.19 and 6.22, 
+make sketches of what you think the probability density as a 
+function of r and the radial probability function would look 
+like for the 4s orbital of the hydrogen atom.
+ [6.99]  For orbitals that are symmetric but not spherical, the contour 
+representations (as in Figures 6.23 and 6.24) suggest where 
+nodal planes exist (that is, where the electron density is 
+zero). For  
+example, the px orbital has a node wherever x = 0. 
+This equation is satisﬁed by all points on the yz plane, so this 
+plane is called a nodal p

@@ -1,0 +1,16 @@
+n the height of the cliff and the mass m of the
+rock. A large rock and a small rock can be at the same height h (Fig. 17–3a) and
+thus have the same “gravitational potential,” but the larger rock has the greater
+potential energy (it has more mass). The electrical case is similar (Fig. 17–3b):
+the potential energy change, or the work that can be done, depends both on the
+potential difference (corresponding to the height of the cliff) and on the charge
+(corresponding to mass), Eq. 17–3. But note a significant difference: electric
+charge comes in two types,
+and 
+whereas gravitational mass is always 
+Sources of electrical energy such as batteries and electric generators are meant
+to maintain a potential difference. The actual amount of energy transformed by
+such a device depends on how much charge flows, as well as the potential dif-
+ference (Eq. 17–3). For example, consider an automobile headlight connected 
+to a 12.0-V battery. The amount of energy transformed (into light and thermal
+ener

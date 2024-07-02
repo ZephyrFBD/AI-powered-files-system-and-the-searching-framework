@@ -1,0 +1,31 @@
+
+x = ?
+1.5 m
+3 m
+(a)
+1.5 m
+?
+2 m
+It cannot be emphasized enough how important it is to draw a diagram
+when solving a physics Problem, as the next Example shows.
+14
+CHAPTER 1
+Introduction, Measurement, Estimating
+FIGURE 1;12 Example 1–8.
+Diagrams are really useful!
+FIGURE 1;13 Enrico Fermi. Fermi
+contributed significantly to both
+theoretical and experimental physics,
+a feat almost unique in modern times.
+FIGURE 1;11 Example 1–7.
+Micrometer used for measuring
+small thicknesses.
+Thickness of a sheet of paper. Estimate the
+thickness of a page of this book.
+APPROACH At first you might think that a special measuring device, a
+micrometer (Fig. 1–11), is needed to measure the thickness of one page since
+an ordinary ruler can not be read so finely. But we can use a trick or, to put it in
+physics terms, make use of a symmetry: we can make the reasonable assump-
+tion that all the pages of this book are equal in thickness.
+SOLUTION We can use a ruler to measure hundreds of pages at once. If you
+me

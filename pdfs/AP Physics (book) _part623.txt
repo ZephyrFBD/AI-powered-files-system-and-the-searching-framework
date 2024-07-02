@@ -1,0 +1,100 @@
+50 m)2 C(3.283 ms)2 + 2A9.80 ms2B(0.150 m)D
+= 1590 Nm.
+k =
+2
+Y2 C 1
+2 mv2
+2 + mgYD
+=
+m
+Y2 Cv2
+2 + 2gYD
+v2 ,
+1
+2 mv2
+2 + 0 + 0 = 0 - mgY +
+1
+2 k(–Y)2.
+y3 = –Y = –0.150 m,
+v3 = 0
+v2 = 3.283 ms,
+y2 = 0,
+1
+2 mv2
+2 + mgy2 +
+1
+2 ky2
+2 =
+1
+2 mv3
+2 + mgy3 +
+1
+2 ky3
+2 .
+E2 (ball touches spring) = E3 (spring compressed)
+v2 = 12gh = 32A9.80 ms2B(0.550 m) = 3.283 ms L 3.28 ms.
+=
+1
+2 mv2
+2 +
+0.
+ 
+0 
++ mgh
+=
+1
+2 mv2
+2 + mgy2
+1
+2 mv1
+2 + mgy1
+y2 = 0,
+y1 = h = 0.550 m,
+y = 0
+y = 0
+Y = 15.0 cm
+h = 55.0 cm
+m = 2.60 kg,
+EXAMPLE 6;11
+154
+CHAPTER 6
+h
+Y
+y = y2 = 0
+y = y3 = −Y
+y = y1 = h
+h
+m
+m
+m
+(a)
+(c)
+(b)
+FIGURE 6–23 Example 6–11.
+A falling ball compresses a spring.
+pe ke
+pe ke
+6.0
+cm
+(a)
+= 0
+2
+1
+kx1
+2
+E = 1
+2
+(b)
+mv2
+2
+v
+v
+E = 1
+2
+FIGURE 6–22 Example 6–10.
+(a) A dart is pushed against a 
+spring, compressing it 6.0 cm. The
+dart is then released, and in (b) it
+leaves the spring at velocity v2.
+Toy dart gun. A dart of mass 0.100 kg is pressed against
+the spring of a toy dart gun as shown in Fig. 6–22a

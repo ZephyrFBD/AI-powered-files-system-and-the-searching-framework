@@ -1,0 +1,12 @@
+ molecules that allow communication with another cell
+(also signaling cascade) chain of events that occurs in the cytoplasm of the cell to propagate the
+signal from the plasma membrane to produce a response
+chemical signal (neurotransmitter) that travels between nerve cells
+cell that has a receptor for a signal or ligand from a signaling cell
+CHAPTER SUMMARY
+9.1 Signaling Molecules and Cellular Receptors
+Cells communicate by both inter- and intracellular signaling. Signaling cells secrete ligands that bind to target cells and
+initiate a chain of events within the target cell. The four categories of signaling in multicellular organisms are paracrine
+signaling, endocrine signaling, autocrine signaling, and direct signaling across gap junctions. Paracrine signaling takes
+place over short distances. Endocrine signals are carried long distances through the bloodstream by hormones, and
+autocrine signals are received by the same cell that sent the signal or other nearby cells of the same kind

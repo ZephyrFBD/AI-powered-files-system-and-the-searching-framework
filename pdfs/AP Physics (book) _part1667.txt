@@ -1,0 +1,15 @@
+with greatest
+entropy, or greatest disorder and randomness. The processes we actually observe
+are those where the entropy increase is greatest.
+In terms of probability, the second law of thermodynamics—which tells us
+that entropy increases in any process—reduces to the statement that those
+processes occur which are most probable.
+There is an additional element, however. The second law in terms of prob-
+ability does not forbid a decrease in entropy. Rather, it says the probability 
+is extremely low. It is not impossible that salt and pepper could separate 
+spontaneously into layers, or that a broken cup could mend itself (Fig. 15–10). It is
+even possible that a lake could freeze over on a hot summer day (that is, for heat
+to flow out of the cold lake into the warmer surroundings). But the probability for
+such events occurring is almost always miniscule. In our coin examples, we saw
+that increasing the number of coins from 4 to 100 drastically reduced the proba-
+bility of large deviation

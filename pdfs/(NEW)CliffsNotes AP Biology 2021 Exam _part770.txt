@@ -1,0 +1,9 @@
+on surrounding the cell is hypotonic (lower solute concentration) relative to the contents of the
+cell, the net movement of water is into the cell. A healthy cell may not appear to change because the cell is already
+exerting its maximum turgor pressure. To observe a change, replace a hypertonic solution (when the cell is
+exhibiting plasmolysis) with a hypotonic solution to observe the expansion of the cell as turgor pressure is restored.
+Note, however, that the plasmolyzed cell is not equivalent to the healthy cell, as the plasmolyzed cell has a lower
+(more negative) solute potential as a result of having lost water (solutes are more concentrated).
+3. When the solution surrounding the cell is isotonic (equal solute concentration) relative to the contents of the cell,
+there is no net movement of water into or out of the cell. Similar to the hypotonic solution above, no observable
+changes will occur in a healthy cell. But unlike the hypotonic solution, no change will also be observed if 

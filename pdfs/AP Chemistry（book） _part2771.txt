@@ -1,0 +1,31 @@
+H2O1l2
+Ni1OH221s2 + 2 H+1aq2 ∆ Ni2 +1aq2 + 2 H2O1l2
+SOLUTION
+Sample Exercise 17.14 
+Predicting the Effect of Acid on Solubility
+dissolves in the presence of aqueous ammonia because Ag+ interacts with the Lewis base 
+NH3, as shown in Figure 17.19. This process can be viewed as the sum of two reactions:
+AgCl1s2 ∆ Ag+1aq2 + Cl-1aq2 
+[17.21]
+Ag+1aq2 + 2 NH31aq2 ∆ Ag1NH322
++1aq2 
+[17.22]
+ 
+Overall: AgCl1s2 + 2 NH31aq2 ∆
+ 
+ Ag1NH322
++1aq2 + Cl -1aq2 
+[17.23]
+The presence of NH3 drives the reaction, the dissolution of AgCl, to the right as Ag+1aq2 is 
+consumed to form Ag1NH322
++, which is a very soluble species.
+For a Lewis base such as NH3 to increase the solubility of a metal salt, the base must 
+be able to interact more strongly with the metal ion than water does. In other words, the 
+NH3 must displace solvating H2O molecules  
+ (Sections 13.1 and 16.11) in order to 
+form 3Ag1NH3224+:
+ 
+Ag+1aq2 + 2 NH31aq2 ∆ Ag1NH322
++1aq2 
+[17.24]
+An assembly of a metal ion and the Lewis bases bonded to i

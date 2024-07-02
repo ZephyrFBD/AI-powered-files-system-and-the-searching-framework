@@ -1,0 +1,30 @@
+ Then the mass flow rate 
+through area 
+is
+where
+is the volume of mass 
+Similarly, at point 2 (through
+area 
+), the flow rate is 
+Since no fluid flows in or out the sides of the
+tube, the flow rates through 
+and 
+must be equal. Thus
+and
+(10;4a)
+This is called the equation of continuity.
+If the fluid is incompressible (
+doesn’t change with pressure), which is an
+excellent approximation for liquids under most circumstances (and sometimes
+for gases as well), then
+and the equation of continuity becomes
+(10;4b)
+The product Av represents the volume rate of flow (volume of fluid passing a given
+point per second), since 
+which in SI units is 
+Equation 10–4b tells us that where the cross-sectional area is large, the velocity 
+is small, and where the area is small, the velocity is large. That this is reasonable
+can be seen by looking at a river. A river flows slowly through a meadow where it
+is broad, but speeds up to torrential speed when passing through a narrow gorge.
+m3s.
+¢V¢t = A ¢l¢t = 

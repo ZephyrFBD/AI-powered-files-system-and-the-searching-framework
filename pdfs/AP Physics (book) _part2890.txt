@@ -1,0 +1,19 @@
+
+E = mc2;
+26
+SECTION 26–1
+Galilean–Newtonian Relativity
+745
+It did not turn out so simply. Instead, these puzzles were to be solved only by
+the introduction, in the early part of the twentieth century, of two revolutionary
+new theories that changed our whole conception of nature: the theory of relativity
+and quantum theory.
+Physics as it was known at the end of the nineteenth century (what we’ve
+covered up to now in this book) is referred to as classical physics. The new
+physics that grew out of the great revolution at the turn of the twentieth century
+is now called modern physics. In this Chapter, we present the special theory of
+relativity, which was first proposed by Albert Einstein (1879–1955; Fig. 26–1) in
+1905. In Chapter 27, we introduce the equally momentous quantum theory.
+†A reference frame is a set of coordinate axes fixed to some object such as the Earth, a train, or the
+Moon. See Section 2–1.
+‡On a rotating platform (say a merry-go-round), for example, a ball at rest start

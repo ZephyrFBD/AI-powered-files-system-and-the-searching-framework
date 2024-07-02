@@ -1,0 +1,23 @@
+onization will have energy
+and wavelength
+If 
+, ionization can not occur.
+NOTE If the atom absorbed a photon of greater energy (wavelength shorter
+than 22.8 nm), the atom could still be ionized and the freed electron would have
+kinetic energy of its own.
+In this Example 27–16, we saw that 
+for the 
+ion is four times more
+negative than that for hydrogen. Indeed, the energy-level diagram for 
+looks
+just like that for hydrogen, Fig. 27–29, except that the numerical values for each
+energy level are four times larger. Note, however, that we are talking here about
+the
+ion. Normal (neutral) helium has two electrons and its energy level
+diagram is entirely different.
+Hydrogen at 20°C. (a) Estimate the
+average kinetic energy of whole hydrogen atoms (not just the electrons) at room
+temperature. (b) Use the result to explain why, at room temperature, very few
+H atoms are in excited states and nearly all are in the ground state, and hence
+emit no light.
+RESPONSE According to kinetic theory (Chapte

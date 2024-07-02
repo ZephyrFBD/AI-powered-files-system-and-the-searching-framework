@@ -1,0 +1,93 @@
+recoils in the
+opposite direction, carries off only 0.1 MeV.
+
+a
+kea = 57 keD = 57
+58 Q = 5.3 MeV.
+Q = kea + keD = 57 keD + keD = 58 keD.
+=
+a 228.028741 u
+4.002603 u b keD = 57 keD.
+kea =
+1
+2 mava
+2
+=
+1
+2 ma ¢ mDvD
+ma
+≤
+2
+=
+1
+2 mDvD
+2 ¢ mD
+ma
+≤
+=
+¢ mD
+ma
+≤keD
+a’s
+va = mDvDma
+mava = mDvD.
+a
+a
+ 92
+232U
+ 92
+232U
+A
+EXAMPLE 30;7
+a
+Q = (0.005812 u)(931.5 MeVu) = 5.4 MeV
+1 u = 931.5 MeV,
+232.037156 u - 232.031344 u = 0.005812 u.
+AmU - mTh - mHeB
+ 92
+232U
+228.028741 u + 4.002603 u = 232.031344 u.
+AmTh + mHeB
+2
+4He
+ 90
+228Th
+ 92
+232U
+a
+ 90
+228Th
+ 92
+232U (mass = 232.037156 u)
+EXAMPLE 30;6
+Q 6 0
+a
+Q = MPc2 - AMD + maB c2.
+a
+ma
+MP, MD,
+a
+MPc2 = MDc2 + mac2 + Q,
+a
+a
+SECTION 30–4
+Alpha Decay
+865
+FIGURE 30–6 Momentum
+conservation in Example 30–7.
+mv
+B
+vD
+mD
+B
+Daughter
+nucleus
+
+particle
+Why 
+Particles?
+Why, you may wonder, do nuclei emit this combination of four nucleons called
+an 
+particle? Why not just four separate nucleons, or even one? The answer is
+that the 
+particle is very strongly bound

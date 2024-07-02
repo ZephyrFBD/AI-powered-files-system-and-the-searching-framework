@@ -1,0 +1,49 @@
+and
+right of the energy equation. Let us write the energy equation for points 1 and 3 in
+Fig. 6–23. Point 1 is the initial point just before the ball starts to fall (Fig. 6–23a),
+so  
+and  
+Point 3 is when the spring is fully compressed
+(Fig. 6–23c), so  
+The forces on the ball in this
+process are gravity and (at least part of the time) the spring. So conservation of
+energy tells us
+where we have set
+for the spring at point 1 because it is not acting and is
+not compressed or stretched. We solve for k:
+just as in our first method of solution.
+k =
+2mg(h + Y)
+Y2
+=
+2(2.60 kg)A9.80 ms2B(0.550 m + 0.150 m)
+(0.150 m)2
+= 1590 Nm
+y = 0
+ 
+0 
++ mgh +  0 
+=  0 
+- mgY +
+1
+2 kY2
+1
+2 mv1
+2 + mgy1 +
+1
+2 k(0)2 =
+1
+2 mv3
+2
++ mgy3 +
+1
+2 ky3
+2
+y3 = –Y = –0.150 m.
+v3 = 0,
+y1 = h = 0.550 m.
+v1 = 0,
+6–9 Energy Conservation with
+Dissipative Forces: Solving Problems
+In our applications of energy conservation in Section 6–7, we neglected friction
+and other nonconservative forces. But in many situations they c

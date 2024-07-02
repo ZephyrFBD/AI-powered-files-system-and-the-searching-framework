@@ -1,0 +1,15 @@
+0 mrem (1 mSv) per year in addition to natural back-
+ground. It is believed that even low doses of radiation increase the chances of
+cancer or genetic defects; there is no safe level or threshold of radiation exposure.
+The upper limit for people who work around radiation—in hospitals, in
+power plants, in research—has been set higher, a maximum of 20 mSv (2 rem)
+whole-body dose, averaged over some years (a maximum of 
+in
+any one year). To monitor exposure, those people who work around radiation
+generally carry some type of dosimeter, one common type being a radiation film
+badge which is a piece of film wrapped in light-tight material. The passage of
+ionizing radiation through the film changes it so that the film is darkened upon
+development, and thus indicates the received dose. Newer types include the
+thermoluminescent dosimeter (TLD). Dosimeters and badges do not protect the
+worker, but high levels detected suggest reassignment or modified work practices
+to reduce radiation exposure t

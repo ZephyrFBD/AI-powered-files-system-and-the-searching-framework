@@ -1,0 +1,21 @@
+uming that the collision fac-
+tor remains the same, by how much must an enzyme 
+lower the activation energy of the reaction to achieve a 
+1 * 105@fold increase in the reaction rate?
+Additional Exercises
+ 
+14.89 Consider the reaction A + B ¡ C + D. Is each of the fol-
+lowing statements true or false? (a) The rate law for the reac-
+tion must be Rate = k3A43B4. (b) If the reaction is an elemen-
+tary reaction, the rate law is second order. (c) If the reaction is 
+an elementary reaction, the rate law of the reverse reaction is 
+ﬁrst order. (d) The activation energy for the reverse reaction 
+must be greater than that for the forward reaction.
+ 14.90 Hydrogen sulﬁde 1H2S2 is a common and troublesome 
+pollutant in industrial wastewaters. One way to remove 
+H2S is to treat the water with chlorine, in which case the 
+following reaction occurs:
+H2S1aq2 + Cl21aq2 ¡ S1s2 + 2 H+1aq2 + 2 Cl -1aq2
+ 
+ The rate of this reaction is ﬁrst order in each reactant. 
+The rate constant for the disappearance of 

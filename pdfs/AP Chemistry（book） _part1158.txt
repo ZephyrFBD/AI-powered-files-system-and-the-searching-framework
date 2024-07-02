@@ -1,0 +1,16 @@
+s in their valence orbitals. This 
+similarity in valence electronic structure leads to the similarities among 
+elements in the same group. Differences among elements in the same 
+group arise because their valence orbitals are in different shells.
+EFFECTIVE NUCLEAR CHARGE (SECTION 7.2) Many properties of 
+atoms depend on the effective nuclear charge, which is the portion of 
+the nuclear charge that an outer electron experiences after account-
+ing for repulsions by other electrons in the atom. The core electrons 
+are very effective in screening the outer electrons from the full charge 
+of the nucleus, whereas electrons in the same shell do not screen 
+each other very effectively. Because the actual nuclear charge in-
+creases as we progress through a period, the effective nuclear charge 
+experienced by valence electrons increases as we move left to right 
+across a period.
+SIZES OF ATOMS AND IONS (SECTION 7.3) The size of an atom 
+can be gauged by its bonding atomic radius, which is based 

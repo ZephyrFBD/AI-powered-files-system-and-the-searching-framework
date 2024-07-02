@@ -1,0 +1,53 @@
+ total energy stored
+per unit volume in a region of space where there is an electromagnetic wave is
+(22;5)
+In this equation, E and B represent the electric and magnetic field strengths of
+the wave at any instant in a small region of space. We can write Eq. 22–5 in 
+terms of the E field only using Eqs. 22–2 
+and 22–3 
+to
+obtain
+(22;6a)
+Note here that the energy density associated with the B field equals that due to
+the E field, and each contributes half to the total energy. We can also write the
+energy density in terms of the B field only:
+(22;6b)
+or in one term containing both E and B,
+or
+(22;6c)
+Equations 22–6 give the energy density of EM waves in any region of space at
+any instant.
+u = B
+ 0
+m0 EB.
+u =  0 E2 =  0 EcB =
+ 0 EB
+2 0 m0
+u =  0 E2 =  0 c2B2 = B2
+m0
+,
+u = 1
+2  0 E2 + 1
+2
+ 0 m0 E2
+m0
+=  0 E2.
+(c = 11 0 m0)
+(B = Ec)
+u = uE + uB = 1
+2  0 E2 + 1
+2
+B2
+m0
+.
+uB = 1
+2 B2m0
+uE = 1
+2  0 E2
+uE AJm3B
+c = 3.00 * 108 ms
+
+c = 2.99792458 * 108 ms,
+35 km
+Stationary
+mirro

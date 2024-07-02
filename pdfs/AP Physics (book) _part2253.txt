@@ -1,0 +1,29 @@
+ = IlB sin u,
+l
+Summary
+Two currents exert a force on each other via the magnetic
+field each produces. Parallel currents in the same direction
+attract each other; currents in opposite directions repel.
+The magnetic field inside a long tightly wound solenoid is
+(20;8)
+where N is the number of loops in a length of coil, and I is the
+current in each loop.
+Ampère’s law states that around any chosen closed loop
+path, the sum of each path segment 
+times the component 
+of 
+parallel to the segment equals 
+times the current I
+enclosed by the closed path:
+(20;9)
+The torque on N loops of current I in a magnetic field 
+is
+(20;10)
+The force or torque exerted on a current-carrying wire by a
+magnetic field is the basis for operation of many devices, such
+as motors, loudspeakers, and galvanometers used in analog
+electric meters.
+[*A mass spectrometer uses electric and magnetic fields to
+determine the mass of ions.]
+[*Iron and a few other materials that are ferromagnetic
+can be made into strong permane

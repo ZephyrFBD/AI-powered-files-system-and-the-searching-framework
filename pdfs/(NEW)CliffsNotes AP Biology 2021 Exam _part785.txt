@@ -1,0 +1,11 @@
+
+Part III: Cancer and the Cell Cycle
+The cell cycle is tightly controlled by checkpoints and other mechanisms that evaluate cell status to ensure that each
+stage of the cell cycle is complete before advancing to the next stages. When DNA is damaged from replication
+errors or from radiation, chemicals, or other environmental effects, the mechanisms that monitor cell cycle status
+may fail. Cancer, characterized by uncontrolled cell division, may result.
+This part of the investigation involves a discussion of two kinds of cancer: 1. HeLa cells. HeLa cells are cancer cells
+taken from Henrietta Lacks, an African-American woman, who died of cervical cancer in 1951. Although normal
+cells will divide only up to 50 times in culture, HeLa cells have been dividing continuously in culture in labs all over
+the world since they were removed from Lacks. Even for cancer cells, the tenacity of HeLa cells is exceptional. As a
+result, these “immortal” cells have been used for research and have contribute

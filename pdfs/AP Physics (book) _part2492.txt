@@ -1,0 +1,35 @@
+ 1800-W
+source. At a distance of 5.0 m, what is the intensity, and
+what is the rms value of the electric field?
+26. (II) If the amplitude of the B field of an EM wave is
+(a) what is the amplitude of the E field?
+(b) What is the average power transported across unit area
+by the EM wave?
+27. (II) What is the average energy contained in a
+volume near the Earth’s surface due to radiant energy
+from the Sun? See Example 22–4.
+28. (II) A 15.8-mW laser puts out a narrow beam 2.40 mm in
+diameter. What are the rms values of E and B in the beam?
+29. (II) Estimate the average power output of the Sun, given
+that about 
+reaches the upper atmosphere of
+the Earth.
+30. (II) A high-energy pulsed laser emits a 1.0-ns-long pulse of
+average power 
+The beam is nearly a cylinder
+in radius. Determine (a) the energy deliv-
+ered in each pulse, and (b) the rms value of the electric field.
+2.2 * 10–3 m
+1.5 * 1011 W.
+1350 Wm2
+1.00-m3
+2.2 * 10–7 T,
+30.8 mVm?
+1.00-cm2
+1.00 cm2
+22.5 mVm.
+E
+B
+
+L 230 * 106 km
+For a

@@ -1,0 +1,102 @@
+= v
+v =
+¢l
+¢t
+= r ¢u
+¢t
+¢l = r ¢u.
+¢u
+v = ¢l¢t.
+v,
+a,
+v
+Arads2B.
+a
+t
+v
+a
+v
+a
+v
+a =
+lim
+¢t S 0
+¢v
+¢t
+.
+¢t
+¢t.
+v2
+v1
+k = v2 - v1
+¢t
+=
+¢v
+¢t
+,
+a,
+SECTION 8–1
+Angular Quantities
+201
+θ
+ω
+B
+A
+A′
+B′
+rA
+O
+rB
+v
+B
+v
+B
+v
+B
+v
+B
+FIGURE 8;5 A wheel rotating 
+uniformly counterclockwise. Two
+points on the wheel, at distances 
+and 
+from the center, have the
+same angular velocity 
+because
+they travel through the same angle 
+in the same time interval. But the
+two points have different linear
+velocities because they travel 
+different distances in the same time
+interval. Since 
+and
+then vB 7 vA.
+rB 7 r
+A,
+v = rv
+u
+v
+rB
+r
+A
+O
+P
+r
+x
+ω
+l
+θ
+
+
+v
+B
+FIGURE 8;4 A point P on a 
+rotating wheel has a linear 
+velocity at any moment.
+v
+B
+If the angular velocity of a rotating object changes, the object as a whole—
+and each point in it—has an angular acceleration. Each point also has a linear
+acceleration whose direction is tangent to that point’s circular path. We use 
+Eq. 8–4
+to see that the angular acceleration 
+i

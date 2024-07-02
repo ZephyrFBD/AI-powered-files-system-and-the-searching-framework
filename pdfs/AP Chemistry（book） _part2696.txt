@@ -1,0 +1,22 @@
+0-52, 
+so we know pKa 1pKa = -log Ka = 4.742. 
+We know the initial concentrations of 
+the base, sodium acetate, and the acid, 
+acetic acid, which we will assume are the 
+same as the equilibrium concentrations.
+In Sample Exercise 17.3 we calculated the pH of a buffered solution. Often we will need 
+to work in the opposite direction by calculating the amounts of the acid and its conjugate 
+base needed to achieve a specific pH. This calculation is illustrated in Sample Exercise 17.5.
+How many moles of NH4Cl must be added to 2.0 L of 0.10 M NH3 to form a buffer whose pH is 9.00? (Assume that the addition 
+of NH4Cl does not change the volume of the solution.)
+Sample Exercise 17.5 
+Preparing a Buffer
+SOLUTION
+Analyze We are asked to determine the amount of NH4
++ ion re-
+quired to prepare a buffer of a specific pH.
+Plan The major species in the solution will be NH4
++, Cl-, and 
+NH3. Of these, the Cl- ion is a spectator (it is the conjugate base 
+of a strong acid). Thus, the NH4
++>NH3 conjugat

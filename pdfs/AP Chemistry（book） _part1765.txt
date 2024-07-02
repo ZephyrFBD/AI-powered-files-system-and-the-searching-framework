@@ -1,0 +1,32 @@
+11.25 are 
+graphed as ln P versus 1>T in Figure 11.26. The data lie on a straight 
+line with a negative slope. We can use the slope to determine ∆Hvap 
+for ethanol, 38.56 kJ>mol. We can also extrapolate the line to obtain 
+the vapor pressure of ethanol at temperatures above and below the 
+temperature range for which we have data.
+Related Exercises: 11.84–11.86
+A Closer look The Clausius–Clapeyron Equation
+0.0028
+0.0030
+0.0032
+0.0034
+3
+4
+ln P 5
+6
+7
+1/T  (1/K)
+Slope = −∆Hvap/R
+▲ Figure 11.26 The natural logarithm of vapor pressure versus 1,T   
+for ethanol.
+ 
+SECTION 11.5  Vapor Pressure 
+455
+Use Figure 11.25 to estimate the boiling point of diethyl ether under an external pressure of 0.80 atm.
+Sample Exercise 11.4 
+Relating Boiling Point to Vapor Pressure
+SOLUTION
+Analyze We are asked to read a graph of vapor pressure versus 
+temperature to determine the boiling point of a substance at a par-
+ticular pressure. The boiling point is the temperature at which the 
+vapor pressure is equal to

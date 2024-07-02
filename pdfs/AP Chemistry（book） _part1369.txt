@@ -1,0 +1,25 @@
+he B atoms, the shape is called trigonal 
+planar. If the A atom lies above the plane of the B atoms, the shape is called trigonal pyra-
+midal (a pyramid with an equilateral triangle as its base). Some AB3 molecules, such as 
+ClF3, are T-shaped, a relatively unusual shape shown in Figure 9.2. The atoms lie in one 
+plane with two B¬A¬B angles of about 90°, and a third angle close to 180°.
+Quite remarkably, the shapes of most ABn molecules can be derived from just five 
+basic geometric arrangements, shown in Figure 9.3. All of these are highly symmetric 
+arrangements of the n B atoms around the central A atom. We have already seen the first 
+three shapes: linear, trigonal planar, and tetrahedral. The trigonal bipyramid shape for 
+Go Figure
+▲ Figure 9.2 Shapes of AB2 and AB3 molecules.
+Which of these structures is not planar?
+AB2 linear
+CO2
+AB2 bent
+SO2
+AB3 T-shaped
+ClF3
+AB3 trigonal planar
+SO3
+AB3 trigonal
+pyramidal
+NF3
+Go Figure
+▲ Figure 9.3 Shapes allowing maximum distances between B at

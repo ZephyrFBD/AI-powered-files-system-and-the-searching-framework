@@ -1,0 +1,14 @@
+t even low levels of radiation present some danger.
+Radiation Doses
+Two units are commonly used to measure exposure to radiation. The gray (Gy), the SI 
+unit of absorbed dose, corresponds to the absorption of 1 J of energy per kilogram of tis-
+sue. The rad (radiation absorbed dose) corresponds to the absorption of 1 * 10-2 J of 
+energy per kilogram of tissue. Thus, 1 Gy = 100 rad. The rad is the unit most often used 
+in medicine.
+Not all forms of radiation harm biological materials to the same extent even at the 
+same level of exposure. For example, 1 rad of alpha radiation can produce more damage 
+than 1 rad of beta radiation. To correct for these differences, the radiation dose is multi-
+plied by a factor that measures the relative damage caused by the radiation. This multipli-
+cation factor is known as the relative biological effectiveness, RBE. The RBE is approximately 
+1 for gamma and beta radiation, and 10 for alpha radiation.
+The exact value of the RBE varies with dose rate, tot

@@ -1,0 +1,51 @@
+ctionless horizontal surface are 
+in contact with each other as shown in Fig. 4–54. A force 
+is applied to block A (mass 
+). (a) Draw a free-body dia-
+gram for each block. Determine (b) the acceleration of the
+system (in terms of 
+and 
+), (c) the net force on
+each block, and (d) the force of contact that each block
+exerts on its neighbor. (e) If
+and
+give numerical answers to (b), (c), and (d).
+Explain how your answers make sense intuitively.
+F = 96.0 N,
+mA = mB = mC = 10.0 kg
+mC
+mB,
+mA,
+mA
+F
+B
+1
+100 g?
+mA
+mB = 1.0 kg,
+mA
+mB = 5.0 kg
+mA = 13.0 kg
+mA
+mC
+mB
+F
+B
+FIGURE 4;54
+Problem 34.
+35. (III) Suppose the pulley in
+Fig. 4–55 is suspended by
+a cord C. Determine the
+tension in this cord after
+the masses are released
+and before one hits the
+ground. Ignore the mass
+of the pulley and cords.
+3.2 kg
+C
+1.2 kg
+FIGURE 4;55
+Problem 35.
+4;8 Newton’s Laws with Friction, Inclines
+36. (I) If the coefficient of kinetic friction between a 22-kg
+crate and the floor is 0.30, what horizontal force is requir

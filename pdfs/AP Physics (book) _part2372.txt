@@ -1,0 +1,22 @@
+source of alternating voltage that produces an alternating current (ac).
+First we examine, one at a time, how a resistor, a capacitor, and an inductor
+behave when connected to a source of alternating voltage, represented by the symbol
+[alternating voltage]
+which produces a sinusoidal voltage of frequency f. We assume in each case that
+the emf gives rise to a current
+where 
+is time and 
+is the peak current. Remember (Section 18–7) that
+and
+(Eq. 18–8).
+Resistor
+When an ac source is connected to a resistor as in Fig.21–39a, the current increases
+and decreases with the alternating voltage according to Ohm’s law,
+where
+is the peak voltage. Figure 21–39b shows the voltage (red curve)
+and the current (blue curve) as a function of time. Because the current is zero
+when the voltage is zero and the current reaches a peak when the voltage does,
+we say that the current and voltage are in phase. Energy is transformed into heat
+(Section 18–7), at an average rate
+Inductor
+In Fig. 21–40a an inductor o

@@ -1,0 +1,51 @@
+when a photon is emitted or
+absorbed, transitions can occur only between states with values of that differ by
+exactly one unit:
+According to this selection rule, an electron in an 
+state can jump only to a
+state with
+or 
+It cannot jump to a state with
+or
+A tran-
+sition such as 
+to 
+is called a forbidden transition. Actually, such a
+transition is not absolutely forbidden and can occur, but only with very low
+probability compared to allowed transitions—those that satisfy the selection rule
+Since the orbital angular momentum of an H atom must change by
+one unit when it emits a photon, conservation of angular momentum tells us that
+the photon must carry off angular momentum. Indeed, experimental evidence of
+many sorts shows that the photon can be assigned a spin angular momentum of 1U.
+¢l = &1.
+l = 0
+l = 2
+l = 0.
+l = 2
+l = 3.
+l = 1
+l = 2
+¢l =
+&1.
+l
+ml = –1,
+ml = ±1
+(l = 1)
+(l = 0)
+ms = – 1
+2
+ms = ± 1
+2
+ml,
+l,
+–1
+ml = ±1
+ml = 0
+n = 2,  l = 1,
+n = 2,  l = 0
+n = 2,  l
+ml
+n = 1,  l
+ml
+l
+n = 6,

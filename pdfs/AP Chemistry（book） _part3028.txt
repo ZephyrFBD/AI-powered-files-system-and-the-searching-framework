@@ -1,0 +1,21 @@
+inal - k ln Winitial = k ln Wfinal
+Winitial
+ 
+[19.6]
+Any change in the system that leads to an increase in the number of microstates 
+1Wfinal 7 Winitial2 leads to a positive value of ∆S:
+Entropy increases with the number of microstates of the system.
+Let’s consider two modifications to our ideal-gas sample and see how the entropy 
+changes in each case. First, suppose we increase the volume of the system, which is anal-
+ogous to allowing the gas to expand isothermally. A greater volume means a greater num-
+ber of positions available to the gas atoms and therefore a greater number of microstates. 
+The entropy therefore increases as the volume increases, as we saw in the “A Closer Look” 
+box in Section 19.2.
+ 
+SECTION 19.3   
+The Molecular Interpretation of Entropy and the Third Law of Thermodynamics 
+817
+818 
+CHAPTER 19 Chemical Thermodynamics
+Second, suppose we keep the volume fixed but increase the temperature. How 
+does this change affect the entropy of the system? Recall the distribu

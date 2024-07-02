@@ -1,0 +1,28 @@
+xample, for
+five 
+values are possible 
+and for each 
+of these,
+can be 
+or 
+for a total of
+states. Table 28–3 lists the
+maximum number of electrons that can occupy each subshell.
+Because the energy levels depend almost entirely on the values of n and 
+it
+is customary to specify the electron configuration simply by giving the n value and
+the appropriate letter for 
+with the number of electrons in each subshell given as 
+a superscript. The ground-state configuration of sodium, for example, is written as
+This is simplified in the Periodic Table by specifying the configuration
+only of the outermost electrons and any other nonfilled subshells (see Table 28–4
+here, and the Periodic Table inside the back cover).
+Electron configurations. Which of the
+following electron configurations are possible, and which are not: (a)
+(b) 
+(c)
+RESPONSE (a) This is not allowed, because too many electrons (three) are
+shown in the s subshell of the M 
+shell. The s subshell has 
+with
+two slots only, for “spin up”

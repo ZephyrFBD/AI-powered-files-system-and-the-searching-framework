@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+(2) Lens focuses image of original
+(5) Heater rollers
+Charging rod
+(4) Paper
+(3) Toner hopper
+(1) Charging rod or roller
+FIGURE 16–41 Inside a photocopy
+machine: (1) the selenium drum is given
+(2) the lens focuses image
+on drum—only dark spots stay charged;
+(3) toner particles (negatively charged)
+are attracted to positive areas on drum;
+(4) the image is transferred to paper;
+(5) heat binds the image to the paper.
+a + charge;
+In step 2, the image to be copied is projected onto the drum. For simplicity, let us
+assume the image is a dark letter A on a white background (as on the page of a
+book) as shown in Fig. 16–41. The letter A on the drum is dark, but all around it
+is light. At all these light places, the selenium becomes conducting and electrons
+flow in from the aluminum beneath, neutralizing those positive areas. In the dark
+areas of the letter A, the selenium is nonconducting and so retains the positive
+charge already p

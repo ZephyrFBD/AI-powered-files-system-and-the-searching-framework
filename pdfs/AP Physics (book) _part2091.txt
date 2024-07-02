@@ -1,0 +1,25 @@
+ral, so the net charge there must still be zero. The 
+on the left plate of 
+attracts a charge of 
+on the opposite plate. Because region A must have a zero
+net charge, there is 
+on the left plate of 
+The same considerations apply to
+the other capacitors, so we see that the charge on each capacitor plate has the same
+magnitude Q. A single capacitor that could replace these three in series without
+affecting the circuit (that is, Q and V the same) would have a capacitance 
+where
+The total voltage V across the three capacitors in series must equal the sum of the
+voltages across each capacitor:
+We also have for each capacitor
+and
+so we
+substitute for 
+and V into the last equation and get
+or
+[series] (19;6)
+Notice that the equivalent capacitance 
+is smaller than the smallest contributing
+capacitance. Notice also that the forms of the equations for capacitors in series or
+in parallel are the reverse of their counterparts for resistance. That is, the formula
+for capacitors in series resembles t

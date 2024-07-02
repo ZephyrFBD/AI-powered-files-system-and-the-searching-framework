@@ -1,0 +1,17 @@
+ctrical phenomena. The energy concept is also a tool in solving Problems
+more easily in many cases than by using forces and electric fields.
+17–1 Electric Potential Energy and
+Potential Difference
+Electric Potential Energy
+To apply conservation of energy, we need to define electric potential energy as we
+did for other types of potential energy. As we saw in Chapter 6, potential energy
+can be defined only for a conservative force. The work done by a conservative
+force in moving an object between any two positions is independent of the path
+taken. The electrostatic force between any two charges (Eq. 16–1,
+)
+is conservative because the dependence on position is just like the gravitational
+force (Eq. 5–4), which is conservative. Hence we can define potential energy PE
+for the electrostatic force.
+We saw in Chapter 6 that the change in potential energy between any two
+points, a and b, equals the negative of the work done by the conservative force on
+an object as it moves from point a to poi

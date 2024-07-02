@@ -1,0 +1,24 @@
+ically and is then mixed with a radio-frequency (RF) signal called its
+carrier frequency, which represents that station. AM radio stations have carrier
+frequencies from about 530 kHz to 1700 kHz. For example, “710 on your dial”
+means a station whose carrier frequency is 710 kHz. FM radio stations have much
+higher carrier frequencies, between 88 MHz and 108 MHz. The carrier frequencies
+for broadcast TV stations in the United States lie between 54 MHz and 72 MHz,
+between 76 MHz and 88 MHz, between 174 MHz and 216 MHz, and between 
+470 MHz and 698 MHz. Today’s digital broadcasting (see Sections 17–10 and 17–11)
+uses the same frequencies as the pre-2009 analog transmission.
+
+Program (audio)
+Carrier
+Total signal (AM)
+FIGURE 22–14 In amplitude modulation (AM),
+the amplitude of the carrier signal is made 
+to vary in proportion to the audio signal’s
+amplitude.
+P H Y S I C S  A P P L I E D
+AM and FM
+Program (audio)
+Carrier
+Total signal (FM)
+FIGURE 22–15 In frequency modulation (FM),
+the freque

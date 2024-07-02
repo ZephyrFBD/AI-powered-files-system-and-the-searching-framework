@@ -1,0 +1,37 @@
+ross the resistor in an LR circuit like
+that in Fig. 21–37 to drop to 2.5% of its original value, after
+the switch is moved to the upper position, removing 
+from
+the circuit?
+*52. (III) Determine 
+at
+(when the battery is con-
+nected) for the LR circuit of Fig. 21–37 and show that if 
+I continued to increase at this rate, it would reach its
+maximum value in one time constant.
+*53. (III) After how many time constants does the current in
+Fig. 21–37 reach within (a) 10%, (b) 1.0%, and (c) 0.1% of
+its maximum value?
+*21–13 AC Circuits and Reactance
+*54. (I) What is the reactance of a
+capacitor at a
+frequency of (a) 60.0 Hz, (b) 1.00 MHz?
+*55. (I) At what frequency will a 32.0-mH inductor have a reac-
+tance of 
+*56. (I) At what frequency will a
+capacitor have a
+reactance of 
+*57. (II) Calculate the reactance of, and rms current in, a 260-mH
+radio coil connected to a 240-V (rms) 10.0-kHz ac line. Ignore
+resistance.
+6.10 k?
+2.40-mF
+660 ?
+6.20-mF
+t = 0
+¢I¢t
+V
+0
+L = 31.0 mH.
+0.50 * 10–4 T
+115

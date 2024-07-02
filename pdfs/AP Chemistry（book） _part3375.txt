@@ -1,0 +1,70 @@
+ons such as temperature, 
+pressure, or state of chemical combination. Unlike toxic chemicals, 
+therefore, radioactive atoms cannot be rendered harmless by chemical 
+reaction or by any other practical treatment.
+Go Figure
+If we start with a 50.0-g sample, how much remains 
+after three half-lives have passed?
+0
+20
+40
+60
+80
+100
+120
+2.0
+4.0
+6.0
+8.0
+10.0
+Time (yr)
+Mass of 90Sr (g)
+▲ Figure 21.6 Decay of a 10.0-g sample of strontium-90 
+1t1/2 = 28.8 yr2. The 10 * 10 grids show how much of the 
+radioactive isotope remains after various amounts of time.
+TABLE 21.5 The Half-Lives and Type of Decay  
+for Several Radioisotopes
+Isotope
+Half-Life (yr)
+Type of Decay
+Natural 
+radioisotopes
+238
+92U
+4.5 * 109
+Alpha
+235
+92U
+7.0 * 108
+Alpha
+232
+90Th
+1.4 * 1010
+Alpha
+40
+19K
+1.3 * 109
+Beta
+14
+6C
+5700
+Beta
+Synthetic 
+radioisotopes
+239
+94Pu
+24,000
+Alpha
+137
+55Cs
+30.2
+Beta
+90
+38Sr
+28.8
+Beta
+131
+53I
+0.022
+Beta
+The half-life of cobalt-60 is 5.27 yr. How much of a 1.000-mg sample of cobalt-60 is left after 15.81

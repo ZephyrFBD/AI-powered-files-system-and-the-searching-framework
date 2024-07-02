@@ -1,0 +1,57 @@
+quation 2–11c,
+is what we want; after setting
+we solve 
+for x, the final position of the car (when it stops):
+The car traveled 7.0 m while the driver was reacting and another 16 m during
+the braking period before coming to a stop, for a total distance traveled of
+23 m. Figure 2–17 shows a graph of 
+vs.
+is constant from
+until
+and after 
+it decreases linearly to zero.
+NOTE From the equation above for x, we see that the stopping distance after
+the driver hit the brakes  
+increases with the square of the initial
+speed, not just linearly with speed. If you are traveling twice as fast, it takes
+four times the distance to stop.
+A= x - x0B
+t = 0.50 s
+t = 0.50 s,
+t = 0
+v
+t:
+v
+ 
+ 
+ = 7.0 m + 16 m = 23 m.
+= 7.0 m +
+0 - (14 ms)2
+2A –6.0 ms2B
+= 7.0 m + –196 m2s2
+–12 ms2
+v2 - v0
+2
+2a
++
+x =
+x0
+x0 = 7.0 m,
+v2 - v0
+2 = 2aAx - x0B,
+t.
+x0 = 7.0 m
+x = v0t + 0 = (14 ms)(0.50 s) = 7.0 m.
+t = 0.50 s
+a = 0.
+14 ms
+x0 = 0
+a = –6.0 ms2
+a = 0.
+14 ms,
+–6.0 ms2
+(= 14 ms L 31 mih)
+50 kmh
+8 ms2.
+5 ms2
+(

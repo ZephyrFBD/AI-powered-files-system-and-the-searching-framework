@@ -1,0 +1,15 @@
+gical diseases. We all have prion proteins in our brains, and for nearly all 
+of us, they cause no harmful effects. For a small fraction of people, though, 
+something causes the prions to change form and to adopt an incorrectly 
+folded molecular shape. This process, once begun, is cumulative, propa-
+gating throughout the brain; the misfolded proteins somehow trigger the 
+same misfolding in other prion proteins. Eventually, the misfolded proteins 
+aggregate into clusters that can destroy neurons, producing symptoms such 
+as those seen in Alzheimer’s and Parkinson’s diseases.
+24 
+CHAPTER 1 Introduction: Matter, Energy, and Measurement
+1.6 ∣ Uncertainty in Measurement
+Two kinds of numbers are encountered in scientific work: exact numbers (those whose values 
+are known exactly) and inexact numbers (those whose values have some uncertainty). Most of 
+the exact numbers we will encounter in this book have defined values. For example, there are 
+exactly 12 eggs in a dozen, exactly 1000 g in a 

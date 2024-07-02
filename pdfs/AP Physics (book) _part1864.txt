@@ -1,0 +1,18 @@
+es of area A separated by
+a small distance d (Fig. 17–13a). Often the two plates are rolled into the form of a
+cylinder with paper or other insulator separating the plates, Fig. 17–13b; Fig. 17–13c
+is a photo of some actual capacitors used for various applications. In circuit diagrams,
+the symbol
+or             
+[capacitor symbol]
+represents a capacitor. A battery, which is a source of voltage, is indicated by the
+symbol
+[battery symbol]
+with unequal arms.
+If a voltage is applied across a capacitor by connecting the capacitor to a bat-
+tery with conducting wires as in Fig. 17–14, charge flows from the battery to each
+of the two plates: one plate acquires a negative charge, the other an equal amount
+of positive charge. Each battery terminal and the plate of the capacitor connected
+to it are at the same potential; hence the full battery voltage appears across the
+capacitor. For a given capacitor, it is found that the amount of charge Q acquired
+by each plate is proportional to the magnit

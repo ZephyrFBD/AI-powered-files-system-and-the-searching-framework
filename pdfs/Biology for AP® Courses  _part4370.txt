@@ -1,0 +1,13 @@
+uce an environment’s carrying capacity.
+Examples of Logistic Growth
+Yeast, a microscopic fungus used to make bread, exhibits the classical S-shaped curve when grown in a test tube (Figure
+36.10a). Its growth levels off as the population depletes the nutrients that are necessary for its growth. In the real world,
+however, there are variations to this idealized curve. Examples in wild populations include sheep and harbor seals (Figure
+36.10b). In both examples, the population size exceeds the carrying capacity for short periods of time and then falls below
+the carrying capacity afterwards. This fluctuation in population size continues to occur as the population oscillates around
+its carrying capacity. Still, even with this oscillation, the logistic model is confirmed.
+Think About It
+Describe the rate of population growth that would be expected at various parts of the S-shaped curve of logistic growth.
+1608
+Chapter 36 | Population and Community Ecology
+This OpenStax book is available for 

@@ -1,0 +1,41 @@
+ it? [Hint: See Example 4–15.]
+32. (II) Figure 4–53 shows a block (mass 
+) on a smooth hori-
+zontal surface, connected by a thin cord that passes over 
+a pulley to a second block 
+which hangs vertically.
+(a) Draw a free-body diagram for each block, showing the
+force of gravity on each, the force (tension) exerted by the
+cord, and any normal force. (b) Apply Newton’s second law
+to find formulas for the acceleration of the system and for
+the tension in the cord. Ignore friction and the masses of
+the pulley and cord.
+AmBB,
+mA
+25 ms
+Problems
+103
+mB
+mA
+FIGURE 4;53
+Problems 32 and 33.
+Mass 
+rests on a 
+smooth horizontal 
+surface;
+hangs 
+vertically.
+mB
+mA
+33. (II) (a) If
+and
+in Fig. 4–53,
+determine the acceleration of each block. (b) If initially
+is at rest 1.250 m from the edge of the table, how long
+does it take to reach the edge of the table if the system is
+allowed to move freely? (c) If
+how large
+must 
+be if the acceleration of the system is to be kept
+at
+34. (III) Three blocks on a fri

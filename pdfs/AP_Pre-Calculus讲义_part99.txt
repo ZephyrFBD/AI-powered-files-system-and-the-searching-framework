@@ -1,0 +1,39 @@
+alled the pole (or origin) 
+and draw from O a ray (half-line) called the polar axis. 
+ 
+Then each point P can be assigned polar coordinates P(r,  ), where 
+r is the distance from O to P 
+ is the angle 
+OP
+between the polar axis and the segment 
+ 
+We use the convention that  is positive if measured in a counterclockwise direction from 
+the polar axis or negative if measured in a clockwise direction. 
+If r is negative, then P(r,  ) is defined to be the point that lies |r| units from the pole in the 
+direction opposite to that given by  . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+152 
+Example 1 
+Plot the points whose polar coordinates are given. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.11.2 Relationship Between Polar and Rectangular Coordinates 
+The connection between the two systems is illustrated in the figure below, where the polar 
+axis coincides with the positive x-axis 
+ 
+The formulas in the box are obtained from the figure using the definitions of the 
+trigonometric functions and the Pythagorean Theorem. 
+1. To change from

@@ -1,0 +1,20 @@
+ compound, which Appendix D gives as 
+3.9 * 10-11. The value of Ksp is unchanged by the presence of 
+additional solutes. Because of the common-ion effect, however, 
+the solubility of the salt decreases in the presence of common 
+ions. We use our standard equilibrium techniques of starting 
+with the equation for CaF2 dissolution, setting up a table of 
+initial and equilibrium concentrations, and using the Ksp expres-
+sion to determine the concentration of the ion that comes only 
+from CaF2.
+SOLUTION
+Sample Exercise 17.13 
+Calculating the Effect of a Common Ion on Solubility
+Continued
+744 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+Solubility and pH
+The solubility of almost any ionic compound is affected if the solution is made suffi-
+ciently acidic or basic. The effects are noticeable, however, only when one (or both) 
+ions in the compound is at least moderately acidic or basic. The metal hydroxides, such 
+as Mg1OH22, are examples of compounds containing a strongly basic ion, t

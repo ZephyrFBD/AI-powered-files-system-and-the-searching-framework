@@ -1,0 +1,39 @@
+ce. The primary valence is the oxidation 
+TABLE 23.3 Properties of Some Ammonia Complexes of Cobalt(III)
+Original 
+Formulation
+Color
+Ions per 
+Formula Unit
+“Free” Cl− Ions  
+per Formula Unit
+Modern Formulation
+CoCl3 # 6 NH3
+Orange
+4
+3
+3Co(NH3)64Cl3
+CoCl3 # 5 NH3
+Purple
+3
+2
+3Co(NH3)5Cl4Cl2
+CoCl3 # 4 NH3
+Green
+2
+1
+trans@3Co(NH3)4Cl24Cl
+CoCl3 # 4 NH3
+Violet
+2
+1
+cis@3Co(NH3)4Cl24Cl
+994 
+CHAPTER 23 Transition Metals and Coordination Chemistry
+state of the metal, which is +3 for the complexes in Table 23.3. The secondary valence is 
+the number of atoms bonded to the metal ion, which is also called the coordination 
+number. For these cobalt complexes, Werner deduced a coordination number of 6 with 
+the ligands in an octahedral arrangement around the Co3+ ion.
+Werner’s theory provided a beautiful explanation for the results in Table 23.3. The 
+NH3 molecules are ligands bonded to the Co3+ ion (through the nitrogen atom as we will 
+see later); if there are fewer than six NH3 molecules, the remai

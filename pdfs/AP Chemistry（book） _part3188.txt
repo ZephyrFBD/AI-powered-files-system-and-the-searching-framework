@@ -1,0 +1,23 @@
+he cathode and anode, the concentra-
+tions of reactants and products, and the temperature, which we will assume to be 
+25 °C unless otherwise noted. In this section, we focus on cells that are operated 
+at 25 °C under standard conditions. Recall from Table 19.2 that standard conditions 
+include 1 M concentration for reactants and products in solution and 1 atm pressure 
+for gaseous reactants and products. The cell potential under standard conditions is 
+called either the standard cell potential or standard emf and is denoted E°
+cell. 
+Cathode
+Anode
++
+−
+Flow of electrons
+Low potential energy
+High potential energy
+▲ Figure 20.7 Water analogy for electron flow. Just as water spontaneously flows downhill, electrons 
+flow spontaneously from the anode to the cathode in a voltaic cell.
+For the Zn–Cu voltaic cell in Figure 20.5, for example, the standard cell potential at 
+25 °C is +1.10 V:
+ 
+Zn1s2 + Cu2+1aq, 1 M2 ¡ Zn2+1aq, 1 M2 + Cu1s2  E°
+cell = +1.10 V 
+Recall that the superscript ° indica

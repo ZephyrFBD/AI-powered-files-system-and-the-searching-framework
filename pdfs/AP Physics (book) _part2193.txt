@@ -1,0 +1,29 @@
+aces of a
+magnet. The wire is at an angle
+to the field (Fig. 20–13). The magnetic
+field is approximately uniform at 0.90 T. We ignore the field beyond the pole
+pieces. Determine the magnitude and direction of the force on the wire.
+APPROACH We use Eq. 20–1,
+SOLUTION The force F on the 12-cm length of wire within the uniform field B
+is
+We use right-hand-rule-2 to find the direction of 
+Hold your right hand flat,
+pointing your fingers in the direction of the current. Then bend your fingers
+(maybe needing to rotate your hand) so they point along 
+Fig. 20–13. Your
+thumb then points into the page, which is thus the direction of the force F.
+B
+B,
+F
+B.
+= (30 A)(0.12 m)(0.90 T)(sin 60°) = 2.8 N.
+F = IlB sin u
+F = IlB sin u.
+u = 60°
+l = 12 cm
+EXAMPLE 20;1
+EXERCISE D A straight power line carries 30 A and is perpendicular to the Earth’s mag-
+netic field of 
+What magnitude force is exerted on 100 m of this power line?
+0.50 * 10–4 T.
+On a diagram, when we want to represent an electric current or a

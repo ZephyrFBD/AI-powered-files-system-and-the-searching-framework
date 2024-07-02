@@ -1,0 +1,29 @@
+ the mass m.
+SOLUTION The volume of the sphere is
+From Table 10–1, the density of iron is
+so Eq. 10–1 gives
+m = rV = A7800 kgm3BA0.024 m3B
+= 190 kg.
+r = 7800 kgm3,
+V =
+4
+3 pr3 =
+4
+3 (3.14)(0.18 m)3 = 0.024 m3.
+V = 4
+3 pr3
+EXAMPLE 10;1
+†Section 9–5.
+The specific gravity of a substance is defined as the ratio of the density 
+of that substance to the density of water at 4.0°C. Because specific gravity 
+(abbreviated SG) is a ratio, it is a simple number without dimensions or 
+units. For example (see Table 10–1), the specific gravity of lead is 11.3
+The SG of alcohol is 0.79.
+The concepts of density and specific gravity are especially helpful in the study
+of fluids because we are not always dealing with a fixed volume or mass.
+10–3 Pressure in Fluids
+Pressure and force are related, but they are not the same thing. Pressure is defined
+as force per unit area, where the force F is understood to be the magnitude of 
+the force acting perpendicular to the surface area A:
+(10;2)
+Although force i

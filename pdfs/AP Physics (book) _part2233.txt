@@ -1,0 +1,62 @@
+Maximum and minimum torque are determined by the angle 
+the coil
+makes with the magnetic field.
+SOLUTION The area of one loop of the coil is
+The maximum torque occurs when the coil’s face is parallel to the magnetic
+field, so
+in Fig. 20–34c, and
+in Eq. 20–10:
+The minimum torque occurs if
+for which
+and then
+from
+Eq. 20–10.
+NOTE If the coil is free to turn, it will rotate toward the orientation with u = 0°.
+t = 0
+u = 0°,
+sin u = 0,
+t = NIAB sin u = (10)(3.00 A)A3.14 * 10–2 m2B(2.00 T)(1) = 1.88 Nm.
+sin u = 1
+u = 90°
+A = pr2 = p(0.100 m)2 = 3.14 * 10–2 m2.
+u
+EXAMPLE 20;13
+576
+CHAPTER 20
+Magnetism
+2
+1
+0
+3
+4
+S
+N
+I
+I
+Pivot
+b
+a
+Spring
+Pivot
+F
+B
+F
+B
+Pointer
+Iron core
+N
+S
+F
+B
+B
+B
+F
+B
+FIGURE 20–36 Galvanometer coil
+(3 loops shown) wrapped on an iron
+core.
+FIGURE 20–35 Galvanometer.
+20–10 Applications: Motors,
+Loudspeakers, Galvanometers
+There are many practical applications of the forces related to magnetism. Among
+the most common are motors and loudspeakers. First we look at the galvanometer,

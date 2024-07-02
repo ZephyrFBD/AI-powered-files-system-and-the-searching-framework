@@ -1,0 +1,106 @@
+ls. For example, 
+between 2:00 P.M. and 3:00 P.M. we find that  
+( )
+( )
+3
+2
+140
+75
+average speed
+65 mi/h
+3
+2
+1
+s
+s
+-
+-
+=
+=
+=
+-
+ 
+ 
+25 
+Finding average rates of change is important in many contexts.  
+The average rate of change of the function y = f(x) between x = a and x = b is 
+( )
+( )
+change in 
+average rate of change
+change in 
+f b
+f a
+y
+x
+b
+a
+-
+=
+=
+-
+ 
+The average rate of change is the slope of the secant line between x = a and x = b on the 
+graph of f, that is, the line that passes through (a, f(a)) and (b, f(b)). 
+ 
+ 
+Example 1 
+For the function f(x) = (x-3)2 whose graph is shown below, find the net change and the 
+average rate of change between the following points: 
+(a) x = 1 and x = 3 
+(b) x = 4 and x = 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+Exercise3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+1.4 Rate of Change in Linear Functions 
+1.4.1 Linear Functions 
+Note that a linear function is a function of the form f (x) = ax + b. 
+So

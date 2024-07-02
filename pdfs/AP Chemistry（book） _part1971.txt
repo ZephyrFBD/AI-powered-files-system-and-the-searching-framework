@@ -1,0 +1,18 @@
+. 
+They can behave as either semiconductors or metals depending on 
+how the sheet was rolled. Graphene, which is an isolated layer from 
+graphite, is a two-dimensional form of carbon. These nanomaterials 
+are being developed now for many applications in electronics, batter-
+ies, solar cells, and medicine.
+Learning Outcomes after studying this chapter, you should be able to:
+t Classify solids based on their bonding/intermolecular forces 
+and understand how differences in bonding relate to physical 
+properties. (Section 12.1) Related Exercises: 12.12–12.16
+t Describe the difference between crystalline and amorphous solids. 
+(Section 12.2) Related Exercises: 12.19, 12.20 
+t Define and describe the relationships between unit cells, crystal 
+lattice, lattice vectors, and lattice points. (Section 12.2) 
+Related Exercises: 12.21, 12.22
+t Explain why there are a limited number of lattices. Recognize 
+the five two-dimensional and the seven three-dimensional 
+primitive lattices. Describe the

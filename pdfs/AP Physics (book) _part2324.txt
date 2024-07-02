@@ -1,0 +1,15 @@
+ generators in that an electro-
+magnet, called the rotor, is fed by current from the battery and is made to rotate
+by a belt from the engine. The magnetic field of the turning rotor passes through
+a surrounding set of stationary coils called the stator (Fig. 21–16), inducing an
+alternating current in the stator coils, which is the output. This ac output is changed
+to dc for charging the battery by the use of semiconductor diodes, which allow
+current flow in one direction only.
+Deriving the Generator Equation
+Figure 21–17 shows the wire loop on a generator armature. The loop is being
+made to rotate clockwise in a uniform magnetic field 
+The velocity of the two
+lengths ab and cd at this instant are shown. Although the sections of wire bc and da
+are moving, the force on electrons in these sections is toward the side of the wire,
+not along the wire’s length. The emf generated is thus due only to the force on
+charges in the sections ab and cd. From right-hand-rule-3, we see that the direc-

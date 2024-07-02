@@ -1,0 +1,17 @@
+ase.
+The importance of relativity is not simply that it gives more accurate results,
+especially at very high speeds. Much more than that, it has changed the way we
+view the world. The concepts of space and time are now seen to be relative, and
+intertwined with one another, whereas before they were considered absolute and
+separate. Even our concepts of matter and energy have changed: either can be
+converted to the other. The impact of relativity extends far beyond physics. It has
+influenced the other sciences, and even the world of art and literature; it has,
+indeed, entered the general culture.
+The special theory of relativity we have studied in this Chapter deals with
+inertial (nonaccelerating) reference frames. In Chapter 33 we will discuss briefly
+the more complicated “general theory of relativity” which can deal with non-
+inertial reference frames.
+v V c
+v V c.
+An inertial reference frame is one in which Newton’s law of
+inertia holds. Inertial reference frames move at constant velo

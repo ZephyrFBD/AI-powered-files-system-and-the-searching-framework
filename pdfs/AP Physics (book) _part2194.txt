@@ -1,0 +1,45 @@
+ magnetic
+field that is pointing out of the page (toward us) or into the page, we use 
+or
+,
+respectively. The 
+is meant to resemble the tip of an arrow pointing directly
+toward the reader, whereas the
+or 
+resembles the tail of an arrow pointing
+away. See Fig. 20–14.
+z
+*
+
+*
+
+   (toward viewer)
+10.0 cm
+I
+I
+a
+b
+F
+B
+B
+B
+FIGURE 20–14 Measuring a
+magnetic field 
+Example 20–2.
+B
+B.
+Measuring a magnetic field. A rectangular loop of wire
+hangs vertically as shown in Fig. 20–14. A magnetic field 
+is directed horizontally,
+perpendicular to the plane of the loop, and points out of the page as represented
+by the symbol 
+The magnetic field 
+is very nearly uniform along the horizontal
+portion of wire ab (length
+) which is near the center of the gap of a
+large magnet producing the field. The top portion of the wire loop is out of the
+field. The loop hangs from a balance (reads 0 when 
+) which measures a
+downward magnetic force of
+when the wire carries a current
+What is the magnitude of the magnetic 

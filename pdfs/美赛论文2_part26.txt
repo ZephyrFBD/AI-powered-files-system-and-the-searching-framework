@@ -1,0 +1,18 @@
+ C2ij: The cost of each vehicle every time carrying medication from 
+epidemic area Ai to epidemic area Aj( i, j=1, 2, …, 14) 
+ t1j: The time of each vehicle every time carrying medication from 
+Team   #37232                                                              Page 13 of 22   
+treatment center to epidemic area Aj(j=1, 2, …, 14) 
+ t2ij: The time of each vehicle every time carrying medication from 
+epidemic area Ai to epidemic area Aj( i, j=1, 2, …, 14) 
+ c1 : The capacity of each vehicle from treatment center. 
+ c2i: The capacity of each vehicle from epidemic area Ai(i=1, 2, …, 14) 
+ w: The volume of each unit of medication. 
+ q1: The storage of medication in treatment center. 
+ q2i: The current storage of medication in epidemic area Ai (i=1, 2, …, 
+14) 
+ di: The medication demand of epidemic area Ai in this circle (i=1, 2, …, 
+14) 
+ ui: The medication demand of epidemic area Ai in next circle (i=1, 2, …, 
+14), it a random variable. 
+ Eui: The expected medication deman

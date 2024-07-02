@@ -1,0 +1,14 @@
+th flower types.
+(d) Using your chi-squared analysis data, explain if you can reject the null hypothesis that flowers do not prefer
+the western side.
+3. Schizosaccharomyces pombe, or fission yeast, has a cell cycle that resembles that of mammalian cells. During
+interphase, fission yeast grow to twice their normal size, and at the end of mitosis, both daughter offspring are
+equal in size to the original parent cell. Genes that regulate the division of fission yeast are known as cell-
+division cycle, or cdc, genes.
+The following experiments were conducted to determine the effect of cdc gene mutations on yeast cell
+division.
+Experiment 1
+In order to determine the effect of cdc mutations, wild-type cells and mutants were grown at 37°C in the
+presence of a radioactive drug that specifically binds to the spindle apparatus. Stages of the cell cycle were
+elucidated for both cell types incubated at this temperature. At 37°C, temperature-sensitive cdc mutants were
+unable to re-enter interphase a

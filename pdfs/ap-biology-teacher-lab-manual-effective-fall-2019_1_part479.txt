@@ -1,0 +1,33 @@
+e this value to the critical value in Table 2. 
+Table 2. Table of Observed Values (o) 
+Interphase 
+Mitosis 
+Total 
+Control 
+A 
+B 
+A + B 
+Treated 
+C 
+D 
+C + D 
+Total 
+A + C 
+B + D 
+A + B + C + D = N 
+1. Collect the class data and enter the values into Table 1; these are the observed values 
+for the four groups. 
+2. Use the data from Table 1 to calculate the totals using the formulas found in Table 2. 
+(For example, A equals the number of interphase cells in the control group.) 
+3. Use the totals from Table 2 to calculate the expected values (e) using the formulas  
+from Table 3.  
+4. Enter the observed values (o) from Table 2 and expected values (e) from Table 3 for 
+each group into Table 4. Calculate the chi-square (χ2) value for the data by adding 
+together the numbers in the right column. 
+5. Compare this value to the critical value in Table 5. 
+Table 3. Table of Expected Values (e) 
+Interphase 
+Mitosis 
+Control 
+Start fraction l
+eft parenthesis A plus B right parenthesis left parent

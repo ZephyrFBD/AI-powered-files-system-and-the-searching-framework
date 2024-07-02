@@ -1,0 +1,10 @@
+s yellow peas) produced
+first generation (F1) offspring that all expressed the trait of one parent (e.g., all green or all yellow). Mendel used the
+term dominant to refer to the trait that was observed, and recessive to denote that non-expressed trait, or the trait that had
+“disappeared” in this first generation. When the F1 offspring were crossed with each other, the F2 offspring exhibited both
+traits in a 3:1 ratio. Other crosses (e.g., height: tall plants versus short plants) generated the same 3:1 ratio (in this example,
+tall to short) in the F2 offspring. By mathematically examining sample sizes, Mendel showed that genetic crosses behaved
+according to the laws of probability, and that the traits were inherited as independent events. In other words, Mendel used
+statistical methods to build his model of inheritance.
+As you have likely noticed, the AP Biology course emphasizes the application of mathematics. Two rules of probability can
+be used to find the expected proportions of dif

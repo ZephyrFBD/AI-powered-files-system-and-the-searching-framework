@@ -1,0 +1,15 @@
+cible
+(positive) and repressible (negative) systems is the lac (lactose) operon in
+E. coli, which is required to transport and metabolize lactose for carbon
+and energy. An operon is a series of genes (including a promoter, an
+operator, and a terminator) that synchronize to perform a biological
+function. The following diagram shows that when lactose is not present in
+the growth medium, a protein repressor binds to the operator (regulatory
+site) to inhibit the transcription of the operon. When lactose (the inducer)
+is present, it binds to the repressor. The release of the repressor from the
+operator causes the transcription of the operon by RNA polymerase to
+commence. The transcribed mRNA codes for the proteins that metabolize
+lactose, which eventually leads to the removal of lactose from the
+medium. When lactose is gone, the repressor binds to the operator again
+and the operon is back to square one. This is a classic example of a
+negative feedback loop. Aȇer all, there is no need for th

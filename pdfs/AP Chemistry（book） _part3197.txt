@@ -1,0 +1,26 @@
+V (e) 0.07 V
+ 
+▶Practice Exercise 2
+The standard cell potential is 1.46 V for a voltaic cell based on 
+the following half-reactions:
+In+1aq2 ¡ In3+1aq2 + 2 e-
+Br21l2 + 2 e- ¡ 2 Br-1aq2
+Using Table 20.1, calculate E°
+red for the reduction of In3+ to In+.
+Use Table 20.1 to calculate E °
+cell for the voltaic cell described in Sample Exercise 20.4, which is based on the reaction
+Cr2O7
+2-1aq2 + 14 H+1aq2 + 6 I-1aq2 ¡ 2 Cr3+1aq2 + 3 I21s2 + 7 H2O1l2
+Solve
+The half-reactions are:
+Analyze We are given the equation for a redox reaction and asked 
+to use data in Table 20.1 to calculate the standard cell potential for 
+the associated voltaic cell.
+Plan Our first step is to identify the half-reactions that occur at the 
+cathode and anode, which we did in Sample Exercise 20.4. Then 
+we use Table 20.1 and Equation 20.8 to calculate the standard cell 
+potential.
+Check The cell potential, 0.79 V, is a positive number. As noted ear-
+lier, a voltaic cell must have a positive potential.
+ 
+▶Practice Exerc

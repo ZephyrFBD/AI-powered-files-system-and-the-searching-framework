@@ -1,0 +1,30 @@
+e each person as a point particle.
+Equivalently, the location of each person is the position of that person’s own CM.
+SOLUTION We use Eq. 7–9a with three terms:
+The CM is 4.0 m from the left-hand end of the boat.
+EXERCISE G Calculate the CM of the three people in Example 7–12, taking the origin
+at the driver
+on the right. Is the physical location of the CM the same?
+Note that the coordinates of the CM depend on the reference frame or coordinate
+system chosen. But the physical location of the CM is independent of that choice.
+If the particles are spread out in two or three dimensions, then we must specify
+not only the x coordinate of the CM
+but also the y and z coordinates, which will
+be given by formulas like Eq. 7–9a. For example, the y coordinate of the CM will be
+(7;9b)
+where M is the total mass of all the particles.
+ycm = mAyA + mByB + p
+mA + mB + p
+= mAyA + mByB + p
+M
+AxcmB,
+AxC = 0B
+= (1.0 m + 5.0 m + 6.0 m)
+3
+= 12.0 m
+3
+= 4.0 m.
+xcm = mxA + mxB + mxC
+m + m + m
+=
+mAxA + xB + xCB

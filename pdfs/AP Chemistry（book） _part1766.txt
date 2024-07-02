@@ -1,0 +1,19 @@
+ the external pressure.
+Plan We need to convert 0.80 atm to torr because that is the 
+pressure scale on the graph. We estimate the location of that 
+pressure on the graph, move horizontally to the vapor–pressure 
+curve, and then drop vertically from the curve to estimate the 
+temperature.
+Continued
+456 
+CHAPTER 11 Liquids and Intermolecular Forces
+11.6 ∣ Phase Diagrams
+The equilibrium between a liquid and its vapor is not the only dynamic equilibrium 
+that can exist between states of matter. Under appropriate conditions, a solid can be 
+in equilibrium with its liquid or even with its vapor. The temperature at which solid 
+and liquid phases coexist at equilibrium is the melting point of the solid or the freezing 
+point of the liquid. Solids can also undergo evaporation and therefore possess a vapor 
+pressure.
+A phase diagram is a graphic way to summarize the conditions under which equi-
+libria exist between the different states of matter. Such a diagram also allows us to predict 
+which 

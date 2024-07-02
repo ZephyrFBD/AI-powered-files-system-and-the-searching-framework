@@ -1,0 +1,62 @@
+
+E h
+S x y
+t
+x
+y
+x
+x
+y
+y
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2.7 Problem solving
+2.2.7.1 Analysis of process
+(1) The process of cooling
+This step refers to: Firstly, add water into the bathtub until the bathtub is full.
+Secondly, start to have a bath until the temperature reaches the predesigned water
+temperature
+2
+u . This period of time is
+0
+t .
+(2) The Process of Looping
+This part is a process of cycle. The first step is the three stages of adding water
+into the bathtub. The moment the user stop adding water, the fusion of water starts
+until the temperature becomes even. The final step is to take the bath until the water
+temperature drops to
+2
+u .
+2.2.7.2 Analysis of model
+Assuming that
+2
+n 
+, which means adding water twice, the whole process needs
+to go through the loop twice.
+First step is the process of cooling, which lasts for
+0
+t . In the end, the water’s
+temperature in the bathtub is
+2
+u . Then it goes through the loop twice. The whole
+process can be divided into th

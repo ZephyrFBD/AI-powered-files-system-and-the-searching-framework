@@ -1,0 +1,15 @@
+ncy of the carrier signal is made 
+to change in proportion to the audio signal’s
+amplitude. This method is used by FM radio 
+and television.
+The mixing of the audio and carrier frequencies is done in two ways. In
+amplitude modulation (AM), the amplitude of the high-frequency carrier wave 
+is made to vary in proportion to the amplitude of the audio signal, as shown in 
+Fig.22–14. It is called “amplitude modulation” because the amplitude of the car-
+rier is altered (“modulate”means to change or alter). In frequency modulation (FM),
+the frequency of the carrier wave is made to change in proportion to the audio
+signal’s amplitude, as shown in Fig. 22–15. The mixed signal is amplified further
+and sent to the transmitting antenna (Fig. 22–13), where the complex mixture 
+of frequencies is sent out in the form of EM waves. In digital communication,
+the signal is put into digital form (Section 17–10) which modulates the carrier.
+A television transmitter works in a similar way, using FM for audi

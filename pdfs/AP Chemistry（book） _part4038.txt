@@ -1,0 +1,47 @@
+es 
+A-11
+9.122
+(a)  
+N
+O
+C
+C
+H
+H
+H
+N
+O
+C
+C
+H
+H
+H
+(The structure on the right does not minimize formal charges and will 
+make a minor contribution to the true structure.)
+(b)  
+C
+N
+H
+H
+H
+109°
+120°
+180°
+109°
+109°
+109°
+C
+O
+ 
+Both resonance structures predict the same bond angles. (c) The two 
+extreme Lewis structures predict different bond lengths. These bond 
+length estimates assume that the structure minimizing formal charge 
+makes a larger contribution to the true structure. C ¬ O, 1.28 Å; 
+C “N, 1.33 Å; C ¬N, 1.43 Å; C ¬ H, 1.07 Å (d) The molecule will 
+have a dipole moment. The C “N and C “O bond dipoles are oppo-
+site each other, but they are not equal. And, there are nonbonding elec-
+tron pairs that are not directly opposite each other and will not cancel.
+Chapter 10
+10.1 It would be much easier to drink from a straw on Mars. When a straw 
+is placed in a glass of liquid, the atmosphere exerts equal pressure inside 
+and outside the straw. When we drink through a straw, we withdraw a

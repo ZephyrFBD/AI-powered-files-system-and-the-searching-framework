@@ -1,0 +1,73 @@
+ill
+pass through the cross section A of wire, as shown in Fig. 18–25. If there 
+are n free electrons (each with magnitude of charge e) per unit volume, then the
+total number of electrons is 
+(V is volume, not voltage) and the total
+charge 
+that passes through the area A in a time 
+is
+The magnitude of the current I in the wire is thus
+(18;10)
+I =
+¢Q
+¢t
+= neAvd.
+= (nV)(e) = AnAvd ¢tB(e).
+¢Q = (number of charges, N) * (charge per particle)
+¢t
+¢Q
+N = nV
+Avd ¢t
+V = Al =
+¢t,
+l = vd ¢t
+¢t,
+vd
+vd
+*
++
+–
+E
+B
+d
+v
+B
+l = vd Δt
+A
+A
+d
+v
+B
+FIGURE 18–25 Electrons in the
+volume 
+will all pass through the
+cross section indicated in a time 
+where l = vd ¢t.
+¢t,
+Al
+FIGURE 18–24 Electric field 
+in a
+wire gives electrons in random
+motion a drift velocity 
+Note 
+is
+in the opposite direction of 
+because electrons have a negative
+charge AF
+B = qE
+B B.
+E
+B
+v
+B
+d
+v
+B
+d.
+E
+B
+*SECTION 18–10
+Electrical Conduction in the Human Nervous System
+517
+18–9 Superconductivity
+At very low temperatures, well below 0°C, the res

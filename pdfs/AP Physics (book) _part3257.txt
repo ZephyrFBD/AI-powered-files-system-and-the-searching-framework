@@ -1,0 +1,21 @@
+e of the possible arrangements of atoms in a crystal: simple cubic,
+face-centered cubic, and body-centered cubic. The NaCl crystal lattice is shown 
+in Fig. 29–20.
+The molecules of a solid are held together in a number of ways. The most
+common are by covalent bonding (such as between the carbon atoms of the diamond
+crystal) and by ionic bonding (as in a NaCl crystal). Often the bonds are partially
+covalent and partially ionic. Our discussion of these bonds earlier in this Chapter
+for molecules applies equally well to solids.
+Let us look for a moment at the NaCl crystal of Fig. 29–20. Each 
+ion
+feels an attractive Coulomb potential due to each of the six “nearest neighbor”
+ions surrounding it. Note that one 
+does not “belong” exclusively to 
+one 
+so we must not think of ionic solids as consisting of individual mole-
+cules. Each 
+also feels a repulsive Coulomb potential due to other 
+ions,
+although this is weaker since the 
+ions are farther away.
+A different type of bond occurs in metals

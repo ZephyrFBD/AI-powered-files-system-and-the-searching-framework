@@ -1,0 +1,19 @@
+t exactly is a Carnot engine and why is it important?
+How practical is it?
+4. (a) Make up an advertisement for a refrigerator or air con-
+ditioner that violates the first law of thermodynamics (see
+Section 15–6). (b) Make up an ad for a car engine that vio-
+lates the second law of thermodynamics (see Section 15–5).
+*5. One day a person sleeps for 7.0 h, goes running for an hour,
+gets dressed and eats breakfast for an hour, sits at work for
+the next 9.0 h, does household chores for a couple of hours,
+eats dinner for an hour, surfs the Internet and watches TV
+for a couple of hours, and finally takes an hour for a bath
+and getting ready for bed. If all of the energy associated
+with these activities is considered as heat that the body out-
+puts to the environment, estimate the change in entropy the
+person has provided. (See Sections 15–3 and 15–7.)
+6. A particular 
+photovoltaic panel operating in direct
+sunlight produces electricity at 20% efficiency. The resulting
+electricity is used to o

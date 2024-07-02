@@ -1,0 +1,24 @@
+nsity between the 
+two atoms—a node. Notice the similarity between this figure 
+and Figure 9.32. In Figure 9.40, we use red and blue shading to 
+denote positive and negative phases in the H atomic orbitals. 
+other d orbitals likewise have lobes in which the phase in one lobe is 
+opposite that in an adjacent lobe.
+Why do we need to consider the complexity introduced by 
+considering the phase of the wave function? While it is true that 
+the phase is not necessary to visualize the shape of an atomic or-
+bital in an isolated atom, it does become important when we con-
+sider overlap of orbitals in molecular orbital theory. Let’s use the 
+sine function as an example again. If you add two sine functions 
+having the same phase, they add constructively, resulting in in-
+creased amplitude:
+Constructive
+combination
+Destructive
+combination
+1
+1
+376 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+However, chemists may alternatively draw contour representa-
+tions in different colors, or with one p

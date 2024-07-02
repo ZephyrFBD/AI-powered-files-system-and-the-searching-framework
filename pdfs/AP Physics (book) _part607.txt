@@ -1,0 +1,48 @@
+
+propulsion
+Push or pull by 
+a person
+1
+2
+fr
+F
+B
+fr
+F
+B
+fr
+F
+B
+P
+F
+B
+P
+F
+B
+P
+F
+B
+FIGURE 6–16 A crate is pushed slowly at 
+constant speed across a rough floor from 
+position 1 to position 2 via two paths, one
+straight and one curved. The pushing 
+force 
+is in the direction of motion at 
+each point. (The friction force opposes the 
+motion.) Hence for a constant magnitude 
+pushing force, the work it does is  
+so if the distance traveled d is greater (as for
+the curved path), then W is greater. The work
+done does not depend only on points 1 and 2;
+it also depends on the path taken.
+W = F
+Pd,
+F
+B
+P
+You do more work on the curved path because the distance is greater and, unlike
+the gravitational force, the pushing force 
+is in the direction of motion at 
+each point. Thus the work done by the person in Fig.6–16 does not depend only on
+points 1 and 2; it depends also on the path taken. The force of kinetic friction, also
+shown in Fig. 6–16, always opposes the motion; it too is a nonconservativ

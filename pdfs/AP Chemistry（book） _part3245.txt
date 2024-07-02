@@ -1,0 +1,39 @@
+tweight, readily rechargable batteries. 
+Go Figure
+What is the oxidation state of lead in the 
+cathode of this battery?
+Lead grid filled with
+spongy lead (anode)
++
+−
+Lead grid filled with
+PbO2 (cathode)
+H2SO4
+electrolyte
+▲ Figure 20.19 A 12-V automotive lead–acid 
+battery. Each anode/cathode pair in this schematic 
+cutaway produces a voltage of about 2 V. Six pairs 
+of electrodes are connected in series, producing 
+12 V.
+Go Figure
+What substance is oxidized as the 
+battery discharges?
+Cathode (MnO2
+plus graphite)
+Anode
+(Zn plus KOH)
++
+−
+Separator
+▲ Figure 20.20 Cutaway view of a 
+miniature alkaline battery.
+One relatively common rechargeable battery is the nickel–cadmium (nicad) battery. 
+During discharge, cadmium metal is oxidized at the anode while nickel oxyhydroxide 
+3NiO1OH21s24 is reduced at the cathode:
+Cathode:   
+2 NiO1OH21s2 + 2 H2O1l2 + 2 e- ¡ 2 Ni1OH221s2 + 2 OH-1aq2
+Anode:   
+ 
+ 
+    Cd1s2 + 2 OH-1aq2 ¡ Cd1OH221s2 + 2 e-
+As in the lead–acid battery, the solid reaction prod

@@ -1,0 +1,32 @@
+tive charge tends to move from high potential to low.
+¢V
+¢pe
+V
+b
+V
+a
+¢V = V
+a - V
+b 7 0.
+¢pe = pea - peb 6 0.
+pea 6 peb
+CONCEPTUAL EXAMPLE 17;1
+Because the electric potential difference is defined as the potential energy
+difference per unit charge, then the change in potential energy of a charge q
+when it moves from point a to point b is
+(17;3)
+That is, if an object with charge q moves through a potential difference 
+its
+potential energy changes by an amount 
+For example, if the potential dif-
+ference between the two plates in Fig. 17–1 is 6 V, then a 
+charge moved
+from point b to point a will gain 
+of electric potential energy.
+(And it will lose 6 J of electric potential energy if it moves from a to b.) Similarly,
+a
+charge will gain
+, and so on. Thus, electric potential
+difference is a measure of how much energy an electric charge can acquire in a
+given situation. And, since energy is the ability to do work, the electric potential
+difference is also a measure of how much work a given 

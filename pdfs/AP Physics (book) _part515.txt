@@ -1,0 +1,26 @@
+1024 km3
+yr2 b
+(106 km)
+s3T 2
+Sun
+1
+4
+3
+2
+FIGURE 5;29 Kepler’s second law.
+The two shaded regions have equal
+areas. The planet moves from point 1
+to point 2 in the same time it takes to
+move from point 3 to point 4. Planets
+move fastest when closest to the Sun.
+Kepler’s Laws
+Also about 1600, more than a half century before Newton proposed his three laws
+of motion and his law of universal gravitation, the German astronomer Johannes
+Kepler (1571–1630) had worked out a detailed description of the motion of the
+planets around the Sun. Kepler’s work resulted in part from the many years he
+spent examining data collected (without a telescope) by Tycho Brahe (1546–1601)
+on the positions of the planets in their motion through the night sky.
+Among Kepler’s writings were three empirical findings that we now refer to
+as Kepler’s laws of planetary motion. These are summarized as follows, with
+additional explanation in Figs. 5–28 and 5–29.
+Kepler’s first law: The path of each planet around the Sun 

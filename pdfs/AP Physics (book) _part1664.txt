@@ -1,0 +1,17 @@
+ the number of microstates that give the same macrostate
+corresponds to the relative probability of that macrostate occurring. The macrostate
+of two heads and two tails is the most probable one in our case of tossing four coins;
+out of the total of 16 possible microstates, six correspond to two heads and two tails,
+so the probability of throwing two heads and two tails is 6 out of 16, or 38%. The
+probability of throwing one head and three tails is 4 out of 16, or 25%. The prob-
+ability of four heads is only 1 in 16, or 6%. If you threw the coins 16 times, you
+might not find that two heads and two tails appear exactly 6 times, or four tails
+exactly once. These are only probabilities or averages. But if you made 1600 throws,
+very nearly 38% of them would be two heads and two tails. The greater the number
+of tries, the closer the percentages are to the calculated probabilities.
+EXERCISE G In the Table above, what is the probability that there will be at least two
+heads? (a) 
+(b)
+(c)
+(d)
+(

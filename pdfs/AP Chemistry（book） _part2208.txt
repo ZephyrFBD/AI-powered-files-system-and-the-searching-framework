@@ -1,0 +1,28 @@
+ng how changes in the concen-
+tration change the rate. (b) Once we know m and n, we can use the 
+rate law and one of the sets of data to determine the rate constant 
+k. (c) Upon determining both the rate constant and the reaction 
+orders, we can use the rate law with the given concentrations to 
+calculate rate.
+Inserting values of rate and concentration from the  
+experiments gives:
+The only way this equation can be true is if n = 0. Therefore, 
+the rate law is zero order in B, which means that the rate is 
+independent of [B].
+Inserting values of rate and concentration from the  
+experiments gives:
+16.0 * 10-5 M>s
+4.0 * 10-5 M>s
+=
+k30.200M4m30.100M4n
+k30.100M4m30.100M4n
+4 = (2)m
+ 
+In experiments 1 and 3, [B] is held constant, so these data allow 
+us to determine the order of the rate law with respect to [A].
+ 
+Combining these results, we arrive at the rate law:
+Rate = k3A423B40 = k3A42
+ 
+Because the rate increases by a factor of four when [A] is dou-
+bled, we can conclude that m = 2 an

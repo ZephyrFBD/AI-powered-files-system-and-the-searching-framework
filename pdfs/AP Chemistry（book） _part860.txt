@@ -1,0 +1,37 @@
+ Calculate the ∆H° for this reaction using the following ther-
+mochemical data:
+ CH41g2 + 2 O21g2 ¡ CO21g2 + 2 H2O1l2     ∆H° = -890.3 kJ
+   C2H41g2 + H21g2 ¡ C2H61g2            ∆H° = -136.3 kJ
+   2 H21g2 + O21g2 ¡ 2 H2O1l2           ∆H° = -571.6 kJ
+2 C2H61g2 + 7 O21g2 ¡ 4 CO21g2 + 6 H2O1l2      
+ ∆H°
+ = -3120.8 kJ
+ 5.111 From the following data for three prospective fuels, calculate 
+which could provide the most energy per unit volume:
+ 
+ 
+Fuel
+Density  
+at 20 
+ºC  
+(g/cm3)
+Molar Enthalpy  
+of Combustion  
+(kJ/mol)
+Nitroethane, C2H5NO21l2
+1.052
+-1368
+Ethanol, C2H5OH1l2
+0.789
+-1367
+Methylhydrazine, CH6N21l2
+0.874
+-1307
+ 5.112 The hydrocarbons acetylene 1C2H22 and benzene 1C6H62 
+have the same empirical formula. Benzene is an “aromatic” 
+hydrocarbon, one that is unusually stable because of its struc-
+ture. (a) By using data in Appendix C, determine the standard 
+enthalpy change for the reaction 3 C2H21g2 ¡  C6H61l2. 
+(b) Which has greater enthalpy, 3 mol of acetylene gas or 
+ 
+1 mol of 

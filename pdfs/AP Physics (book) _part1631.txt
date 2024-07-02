@@ -1,0 +1,46 @@
+ll have stated it in terms of power, since 1 Js = 1 watt.
+92 kJs = 92 kW.
+= 92 kJ.
+QL = (1 - e)QH = (0.80)115 kJ
+QL
+QH
+= 1 - e
+QL:
+Ae = 1 - QLQHB
+115 kJs = 115 kW
+= 1.15 * 105 J = 115 kJ.
+QH = W
+e
+= 23,000 J
+0.20
+QH:
+e = WQH,
+QL .
+QH
+e = 0.20.
+W = 23,000 J
+QL,
+QH
+EXAMPLE 15;8
+Carnot Engine
+To see how to increase efficiency, the French scientist Sadi Carnot (1796–1832)
+examined the characteristics of an ideal engine, now called a Carnot engine. No
+Carnot engine actually exists, but as a theoretical idea it played an important role
+in the development and understanding of the second law of thermodynamics.
+High
+temperature, TH
+Low
+temperature, TL
+Engine
+QH
+QL
+W
+FIGURE 15–11 (Repeated.)
+Schematic diagram of energy
+transfers for a heat engine.
+The idealized Carnot engine consisted of four processes done in a cycle, two
+of which are adiabatic 
+and two are isothermal 
+This idealized
+cycle is shown in Fig. 15–14. Each of the processes was considered to be done
+reversibly. That is, each of 

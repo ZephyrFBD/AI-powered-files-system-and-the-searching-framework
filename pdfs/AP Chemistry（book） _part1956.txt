@@ -1,0 +1,29 @@
+ectronics, sensors, batteries, and solar cells.
+▲ Figure 12.50 Atomic models of carbon 
+nanotubes. Left: “Armchair” nanotube, 
+which shows metallic behavior. Right: 
+“Zigzag” nanotube, which can be either 
+semiconducting or metallic, depending on 
+tube diameter.
+▲ Figure 12.51 A portion of a two-dimensional 
+graphene sheet.
+Polymers that can conduct electricity are called conducting polymers. Some polymers can be made semiconducting; others can be 
+nearly metallic. Polyacetylene is an example of a polymer that is a semiconductor. It can also be doped to increase its conductivity.
+ 
+Polyacetylene is made from acetylene in a reaction that looks simple but is actually tricky to do:
+CH
+CH
+n
+Acetylene
+Polyacetylene
+H
+H
+C
+C
+[
+]
+(a) What is the hybridization of the carbon atoms, and the geometry around those atoms, in acetylene and in polyacetylene?
+(b) Write a balanced equation to make polyacetylene from acetylene.
+Sample Integrative Exercise 
+Putting Concepts Together
+Analyze For part (a), 

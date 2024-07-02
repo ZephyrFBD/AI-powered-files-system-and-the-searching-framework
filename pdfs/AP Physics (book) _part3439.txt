@@ -1,0 +1,51 @@
+is reaction requires
+energy, and the 2.0-MeV protons do not have enough to make it go.
+NOTE The incoming proton in this Example would need more than 3.00 MeV
+of kinetic energy to make this reaction go; 3.00 MeV would be enough to
+conserve energy, but a proton of this energy would produce the 
+and n with
+no kinetic energy and hence no momentum. Since an incident 3.0-MeV proton
+has momentum, conservation of momentum would be violated. A calculation
+using conservation of energy and of momentum, as we did in Examples 30–7
+and 31–2, shows that the minimum proton energy, called the threshold energy,
+is 3.23 MeV in this case.
+ 7
+13N
+Q = –3.00 MeV,
+(14.014404 - 14.011180)u = 0.003224 u * 931.5 MeVu = 3.00 MeV.
+ 7
+13N
+ 6
+13C
+1
+1H
+MA 6
+13CB
+=
+MA1
+1HB
+=
+13.003355  MA 7
+13NB = 13.005739
+   1.007825   M(n) =  1.008665
+14.011180   
+14.014404
+.
+Q 6 0
+(Q 7 0)
+ 6
+13C
+p +  6
+13C S
+ 7
+13N + n
+EXAMPLE 31;3
+Q = 1.02 MeV + 1.80 MeV = 2.82 MeV.
+= 2.87 * 10–13 J = 1.80 MeV.
+keHe =
+1
+2 MHevHe
+2
+=
+1
+2 (4.0026 

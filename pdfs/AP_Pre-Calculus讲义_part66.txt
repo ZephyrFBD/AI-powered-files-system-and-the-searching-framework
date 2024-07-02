@@ -1,0 +1,28 @@
+tions 
+Many processes that occur in nature, such as population growth, radioactive decay, heat 
+diffusion, and numerous others, can be modeled by using exponential functions. 
+In this section we study exponential models. 
+Suppose we start with a single bacterium, which divides every hour. After one hour we 
+have 2 bacteria, after two hours we have 4 bacteria, after three hours we have 8 bacteria, 
+and so on. 
+We see that we can model the bacteria population after t hours by f(t) = 2t. 
+ 
+ 
+2.10.2 Exponential Growth (Doubling Time) 
+If we start with 10 of these bacteria, then the population is modeled by f(t) =10* 2t. 
+A slower-growing strain of bacteria doubles every 3 hours; in this case the population is 
+modeled by f(t) =10* 2t/3. 
+If the initial size of a population is n0 and the doubling time is a, then the size of the 
+population at time t is 
+=
+0
+( )
+2t a
+n t
+n
+ 
+where a and t are measured in the same time units (minutes, hours, days, years, and so 
+on). 
+ 
+Example 1 
+Under idea

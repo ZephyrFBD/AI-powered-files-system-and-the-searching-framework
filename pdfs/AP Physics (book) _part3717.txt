@@ -1,0 +1,27 @@
+° + 90° = 270°.
+FIGURE 33–16 On a
+two-dimensional curved surface,
+the sum of the angles of a triangle
+may not be 180°.
+“North pole”
+Earth
+90°
+90°
+90°
+Equator
+Another way to test the curvature of space is to measure the radius r and
+circumference C of a large circle. On a plane surface,
+But on a two-
+dimensional spherical surface, C is less than 
+as can be seen in Fig. 33–17.
+The proportionality between C and r is less than 
+Such a surface is said to have
+positive curvature. On the saddlelike surface of Fig. 33–18, the circumference of a
+circle is greater than 
+and the sum of the angles of a triangle is less than 180°.
+Such a surface is said to have a negative curvature.
+Curvature of the Universe
+What about our universe? On a large scale (not just near a large mass), what is
+the overall curvature of the universe? Does it have positive curvature, negative
+curvature, or is it flat (zero curvature)? We perceive our world as Euclidean
+(flat), but we can not exclude the possibility that spac

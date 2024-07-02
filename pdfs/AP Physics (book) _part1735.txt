@@ -1,0 +1,16 @@
+n one is directed toward the other (they attract). See Fig. 16–15.
+Notice that the force one charge exerts on the second is equal but opposite to
+that exerted by the second on the first, in accord with Newton’s third law.
+The SI unit of charge is the coulomb (C). The precise definition of the coulomb
+today is in terms of electric current and magnetic field, and will be discussed later
+(Section 20–6). In SI units, the constant k in Coulomb’s law has the value
+or, when we only need two significant figures,
+Thus, 1 C is that amount of charge which, if placed on each of two point 
+objects that are 1.0 m apart, will result in each object exerting a force of
+on the other. This
+would be an enormous force, equal to the weight of almost a million tons. We
+rarely encounter charges as large as a coulomb.†
+Charges produced by rubbing ordinary objects (such as a comb or plastic
+ruler) are typically around a microcoulomb 
+or less. Objects that
+carry a positive charge have a deficit of electrons, whe

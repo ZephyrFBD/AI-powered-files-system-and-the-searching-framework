@@ -1,0 +1,18 @@
+irection in which 
+∆G changes as temperature increases. In part (b) we need to deter-
+mine ∆G for the reaction at two temperatures.
+Plan We can answer part (a) by determining the sign of ∆S for  
+the reaction and then using that information to analyze  
+Equation 19.12. In part (b) we use the given ∆H ° and ∆S° values 
+for the reaction together with Equation 19.12 to calculate ∆G.
+Solve
+(a) The temperature dependence of ∆G comes from the entropy 
+term in Equation 19.12, ∆G = ∆H - T∆S. We expect ∆S for 
+this reaction to be negative because the number of molecules 
+of gas is smaller in the products. Because ∆S is negative, -T∆S 
+is positive and increases with increasing temperature. As a re-
+sult, ∆G becomes less negative (or more positive) with increas-
+ing temperature. Thus, the driving force for the production of 
+NH3 becomes smaller with increasing temperature.
+(b) If we assume that the values for ∆H ° and ∆S° do not change 
+with temperature, we can calculate ∆G at any temperature by 

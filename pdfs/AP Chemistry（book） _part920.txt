@@ -1,0 +1,16 @@
+ It Some Thought
+226 
+CHAPTER 6 Electronic Structure of Atoms
+The Uncertainty Principle
+The discovery of the wave properties of matter raised some new and interesting ques-
+tions. Consider, for example, a ball rolling down a ramp. Using the equations of classical 
+physics, we can calculate, with great accuracy, the ball’s position, direction of motion, 
+and speed at any instant. Can we do the same for an electron, which exhibits wave prop-
+erties? A wave extends in space, and its location is not precisely defined. We might there-
+fore anticipate that it is impossible to determine exactly where an electron is located at a 
+specific instant.
+The German physicist Werner Heisenberg (Figure 6.15) proposed that the dual nature 
+of matter places a fundamental limitation on how precisely we can know both the loca-
+tion and the momentum of an object at a given instant. The limitation becomes import-
+ant only when we deal with matter at the subatomic level (that is, with masses as small as 
+that

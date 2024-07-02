@@ -1,0 +1,69 @@
+l a force and would move. Indeed
+the entire volume of a conductor must be entirely at the same potential in the static case.
+The surface of a conductor is thus an equipotential surface. (If it weren’t, the free
+electrons at the surface would move, because whenever there is a potential difference
+between two points, free charges will move.) This is fully consistent with our result in
+Section 16–9 that the electric field at the surface of a conductor must be perpendicular
+to the surface.
+–
+±
+E
+B
+E
+B;
+E
+B
+478
+CHAPTER 17
+–
++
+FIGURE 17–7 Equipotential lines
+(green, dashed) are always
+perpendicular to the electric field
+lines (solid red), shown here for two
+equal but oppositely charged
+particles (an “electric dipole”).
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+20 V15 V10 V
+0
+ V
+5 V
+E
+B
+FIGURE 17–6 Equipotential lines
+(the green dashed lines) between
+two charged parallel plates are
+always perpendicular to the electric
+field (solid red lines).
+FIGURE 17–8 A topographic ma

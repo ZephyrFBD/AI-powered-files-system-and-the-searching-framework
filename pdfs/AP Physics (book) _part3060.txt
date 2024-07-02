@@ -1,0 +1,72 @@
+That is, energy must be added to bring its energy up, from a negative
+value to at least zero in order to free it.
+The minimum energy required to remove an electron from an atom initially
+in the ground state is called the binding energy or ionization energy. The ionization
+energy for hydrogen has been measured to be 13.6 eV, and this corresponds
+precisely to removing an electron from the lowest state,
+up to
+where it can be free.
+E = 0
+E1 = –13.6 eV,
+E 6 0
+E 	 0
+E 7 0.
+n = q
+E = ke + pe = 0 + 0 = 0,
+r = q
+pe = kq1 q2r
+Ar1B
+–13.6 eV.
+–3.4 eV
+E2, E3 ,
+E1 ,
+E3 =
+–13.6 eV
+9
+=
+–1.51 eV.
+E2 =
+–13.6 eV
+4
+=
+–3.40 eV,
+En =
+–13.6 eV
+n2
+.
+(Z = 1)
+n2
+E1 =
+–13.6 eV.
+(Z = 1)
+(n = 1)
+En =
+–(13.6 eV) Z2
+n2 ,   n = 1, 2, 3, p .
+En =
+– 2p2Z2e4mk2
+h2
+1
+n2   n = 1, 2, 3, p .
+rn
+En =
+1
+2 mv2 - kZe2
+rn
+.
+rn
+En
+pe =
+–eV =
+–k Ze2
+r
+.
+V = kQr = kZer.
+±Ze
+pe = qV = –eV,
+SECTION 27–12
+The Bohr Model
+791
+Spectra Lines Explained
+It is useful to show the various possible energy values as horizontal lines on an
+ene

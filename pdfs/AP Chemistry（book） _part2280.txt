@@ -1,0 +1,21 @@
+utely specific, operating for only one substance in only one reaction. The decom-
+position of hydrogen peroxide, for example, is an important biological process. 
+Because hydrogen peroxide is strongly oxidizing, it can be physiologically harmful. 
+For this reason, the blood and liver of mammals contain an enzyme, catalase, that 
+ 
+SECTION 14.7   
+Catalysis 
+603
+◀ Figure 14.23 Heterogeneous 
+catalysis. Mechanism for reaction 
+of ethylene with hydrogen on a  
+catalytic surface.
+604 
+CHAPTER 14 Chemical Kinetics
+catalyzes the decomposition of hydrogen peroxide into water and oxy-
+gen (Equation 14.31). Figure 14.25 shows the dramatic acceleration of this 
+chemical reaction by the catalase in beef liver.
+The reaction any given enzyme catalyzes takes place at a specific location 
+in the enzyme called the active site. The substances that react at this site are 
+called substrates. The lock-and-key model provides a simple explanation 
+for the specificity of an enzyme (Figure 14.26). The substra

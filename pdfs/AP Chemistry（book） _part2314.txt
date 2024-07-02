@@ -1,0 +1,44 @@
+ac-
+tion rate increase or decrease?
+ 14.19 Consider the following hypothetical aqueous reaction: 
+A1aq2 S B1aq2. A flask is charged with 0.065 mol of A 
+in a total volume of 100.0 mL. The following data are 
+collected:
+Time (min)
+0
+10
+20
+30
+40
+Moles of A
+0.065
+ 0.051
+ 0.042
+ 0.036
+ 0.031
+ 
+ (a) Calculate the number of moles of B at each time in 
+the table, assuming that there are no molecules of B at 
+time zero and that A cleanly converts to B with no inter-
+mediates. (b) Calculate the average rate of disappearance 
+of A for each 10-min interval in units of M>s. (c) Between 
+t = 10 min and t = 30 min, what is the average rate of 
+appearance of B in units of M>s? Assume that the volume 
+of the solution is constant.
+ 14.20 A flask is charged with 0.100 mol of A and allowed to react 
+to form B according to the hypothetical gas-phase reac-
+tion A1g2 ¡ B1g2. The following data are collected:
+Time (s)
+0
+40
+80
+120
+160
+Moles of A
+0.100
+0.067
+0.045
+0.030
+0.020
+ 
+ (a) Calculate the number of mol

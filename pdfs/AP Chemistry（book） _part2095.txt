@@ -1,0 +1,29 @@
+blood at 25 °C is 7.7 atm.
+Plan Because we are given the osmotic pressure and temperature, 
+we can solve for the concentration, using Equation 13.14. Because 
+glucose is a nonelectrolyte, i = 1.
+Solve
+Π = iMRT
+M =
+Π
+iRT =
+17.7 atm2
+112a0.0821L@atm
+mol@K b1298 K2
+= 0.31 M
+Comment In clinical situations, the concentrations of solutions are 
+generally expressed as mass percentages. The mass percentage of a 
+0.31 M solution of glucose is 5.3%. The concentration of NaCl that 
+is isotonic with blood is 0.16 M, because i = 2 for NaCl in water  
+(a 0.155 M solution of NaCl is 0.310 M in particles). A 0.16 M solu-
+tion of NaCl is 0.9% mass in NaCl. This kind of solution is known 
+as a physiological saline solution.
+ 
+▶Practice Exercise 1
+Which of the following actions will raise the osmotic pres-
+sure of a solution? (a) decreasing the solute concentration  
+(b) decreasing the temperature (c) adding more solvent
+(d) increasing the temperature (e) none of the above
+ 
+▶Practice Exercise 2
+What is 

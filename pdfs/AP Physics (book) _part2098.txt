@@ -1,0 +1,89 @@
+rrent decreases in time. That is exactly what Eq. 19–7d and
+Fig. 19–20c tell us.
+I = V
+R
+R
+=
+e
+R e–tRC.
+V
+R = e - V
+C = e A1 - 1 + e–tRCB = ee–tRC.
+e,
+V
+R
+0.60 s.
+A2.0 * 105 BA3.0 * 10–6 FB =
+C = 3.0 mF,
+R = 200 k
+A1 - e–tRCB = A1 - e–1B = (1 - 0.37) = 0.63.
+t = RC,
+e–1 = 0.37,
+ex
+F = (VA)(CV) = C(Cs) = s.
+t = RC.
+t
+Q0
+Q = Q0 A1 - e–tRCB,
+A= CVCB
+e = 2.718 p.
+V
+C
+V
+C = eA1 - e–tRCB,
+V
+C = QC,
+V
+C
+e.
+(V
+C = QC),
+540
+CHAPTER 19
+DC Circuits
+t = RC
+t = 0
+2RC
+3RC
+t
++
+–
+R
+S
+C
+(b)
+(c)
+Time
+(a)
+VC
+0.63e
+e/R
+RC
+t
+Time
+0
+Current
+Current I
+2RC
+3RC
+0.37e/R
+e
+e
+FIGURE 19–20 After the switch S
+closes in the RC circuit shown in (a),
+the voltage 
+across the capacitor
+increases with time as shown in (b),
+and the current through the resistor
+decreases with time as shown in (c).
+V
+C
+C A U T I O N
+Don’t confuse e for exponential
+with e for electron charge
+†The derivation uses calculus.
+‡More simply, since
+then
+Note that e is the inverse opera-
+tion to the natural logarithm
+and lnAexB = x.

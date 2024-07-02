@@ -1,0 +1,29 @@
+  
+is also a conser-
+vative force. An object that starts at a given point and returns to that same point
+under the action of a conservative force has no net work done on it because the
+potential energy is the same at the start and the finish of such a round trip.
+Many forces, such as friction and a push or pull exerted by a person, are 
+nonconservative forces since any work they do depends on the path. For example,
+if you push a crate across a floor from one point to another, the work you do
+depends on whether the path taken is straight or is curved. As shown in Fig. 6–16,
+if a crate is pushed slowly from point 1 to point 2 along the longer semicircular
+path, you do more work against friction than if you push it along the straight path.
+F = –kx,
+(= mgh)
+SECTION 6–5
+Conservative and Nonconservative Forces
+149
+TABLE 6–1 Conservative and
+Nonconservative Forces
+Conservative
+Nonconservative
+Forces
+Forces
+Gravitational
+Friction
+Elastic
+Air resistance
+Electric
+Tension in cord
+Motor or rocket 

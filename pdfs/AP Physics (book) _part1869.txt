@@ -1,0 +1,19 @@
+cause they can be recharged
+more than 
+times with no degradation.] Such high-capacitance capacitors can
+be made of activated carbon which has very high porosity, so that the surface area
+is very large; one-tenth of a gram of activated carbon can have a surface area of
+Furthermore, the equal and opposite charges exist in an electric “double
+layer” about 
+thick. Thus, the capacitance of 0.1 g of activated carbon,
+whose internal area can be 
+is equivalent to a parallel-plate capacitor with
+The proportionality,
+in Eq. 17–8, is valid also for a parallel-plate
+capacitor that is rolled up into a spiral cylinder, as in Fig. 17–13b. However, the
+constant factor,
+must be replaced if an insulator such as paper separates the
+plates, as is usual, as discussed in the next Section.
+One type of microphone is a condenser, or capacitor, microphone, diagrammed
+in Fig. 17–16. The changing air pressure in a sound wave causes one plate of the
+capacitor C to move back and forth. The voltage across the capaci

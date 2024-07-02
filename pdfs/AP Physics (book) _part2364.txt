@@ -1,0 +1,17 @@
+heart. This type has
+the advantage over battery-powered pacemakers in that surgery is not needed to
+replace a battery when it wears out.
+Self-Inductance
+The concept of inductance applies also to an isolated single coil. When a changing
+current passes through a coil or solenoid, a changing magnetic flux is produced
+inside the coil, and this in turn induces an emf. This induced emf opposes the
+change in flux (Lenz’s law); it is much like the back emf generated in a motor.
+(For example, if the current through the coil is increasing, the increasing mag-
+netic flux induces an emf that opposes the original current and tends to retard 
+its increase.) The induced emf 
+is proportional to the rate of change in current
+(and is in the direction opposed to the change, hence the minus sign):
+(21;9)
+The constant of proportionality L is called the self-inductance, or simply the
+inductance of the coil. It, too, is measured in henrys. The magnitude of L depends
+on the size and shape of the coil and on t

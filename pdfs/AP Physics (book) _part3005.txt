@@ -1,0 +1,14 @@
+de an evacuated glass tube, called a photocell. The two electrodes are
+connected to an ammeter and a source of emf, as shown. When the photocell is in
+the dark, the ammeter reads zero. But when light of sufficiently high frequency
+illuminates the plate, the ammeter indicates a current flowing in the circuit. We
+explain completion of the circuit by imagining that electrons, ejected from the
+plate by the impinging light, flow across the tube from the plate to the “collector” C
+as indicated in Fig. 27–6.
+That electrons should be emitted when light shines on a metal is consistent
+with the electromagnetic (EM) wave theory of light: the electric field of an 
+EM wave could exert a force on electrons in the metal and eject some of them.
+Einstein pointed out, however, that the wave theory and the photon theory of
+light give very different predictions on the details of the photoelectric effect. For
+example, one thing that can be measured with the apparatus of Fig. 27–6 is the
+maximum kinetic ene

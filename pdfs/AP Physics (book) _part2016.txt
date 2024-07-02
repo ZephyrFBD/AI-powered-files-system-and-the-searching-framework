@@ -1,0 +1,28 @@
+
+ampere-hours 
+Explain.
+4. Can a copper wire and an aluminum wire of the same
+length have the same resistance? Explain.
+5. One terminal of a car battery is said to be connected to
+“ground.” Since it is not really connected to the ground,
+what is meant by this expression?
+6. The equation 
+indicates that the power dissipated
+in a resistor decreases if the resistance is increased, whereas
+the equation
+implies the opposite. Is there a
+contradiction here? Explain.
+7. What happens when a lightbulb burns out?
+8. If the resistance of a small immersion heater (to heat water
+for tea or soup, Fig. 18–32) was increased, would it speed up
+or slow down the heating process? Explain.
+P = I2R
+P = V2R
+(Ah)?
+Questions
+9. If a rectangular solid made of carbon has sides of lengths a,
+2a, and 3a, to which faces would you connect the wires
+from a battery so as to obtain (a) the least resistance, (b) the
+greatest resistance?
+10. Explain why lightbulbs almost always burn out just as they
+are turned on and no

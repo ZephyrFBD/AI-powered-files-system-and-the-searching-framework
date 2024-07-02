@@ -1,0 +1,30 @@
+ mark be placed?
+APPROACH The hydrometer will float in water if its density 
+is less than
+the density of water. The fraction of the hydrometer sub-
+merged 
+is equal to the density ratio 
+SOLUTION The hydrometer has an overall density
+Thus, when placed in water, it will come to equilibrium when 0.900 of its volume
+is submerged. Since it is of uniform cross section,
+of its length will be submerged. The specific gravity of water is defined to be
+1.000, so the mark should be placed 22.5 cm from the weighted end.
+NOTE Hydrometers can be used to measure the density of liquids like car
+antifreeze coolant, car battery acid (a measure of its charge), wine fermenting
+in casks, and many others.
+(0.900)(25.0 cm) = 22.5 cm
+r = m
+V
+=
+45.0 g
+A2.00 cm2B(25.0 cm) = 0.900 gcm3.
+rrH2O.
+AV
+displacedV
+totalB
+rH2O = 1.000 gcm3,
+r
+2.00 cm2
+EXAMPLE 10;9
+EXERCISE C Which of the following objects, submerged in water, experiences the largest
+magnitude of the buoyant force? (a) A 1-kg helium balloon; (b) 1 kg

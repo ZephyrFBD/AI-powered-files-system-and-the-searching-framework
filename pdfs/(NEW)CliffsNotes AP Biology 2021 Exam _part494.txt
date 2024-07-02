@@ -1,0 +1,11 @@
+sure to the red light in
+sunlight. Some far-red light is also present in sunlight, so some of the Pfr is converted back into Pr.
+4. Pr accumulates at night. At night, the levels of Pfr drop. This is because there is no sunlight to make the
+conversion from Pr to Pfr and Pfr breaks down faster than Pr. Furthermore, the cell continues to make Pr at night.
+5. At daybreak, light rapidly converts the accumulated Pr to Pfr.
+6. Night length is responsible for resetting the circadian-rhythm clock. If daylight is interrupted with a brief dark
+period, there is no effect on the circadian-rhythm clock. In contrast, flashes of red or farred light during the night
+period can reset the clock. If a plant is exposed
+to a flash of red light during the night, Pr is converted back to Pfr, a
+shorter night period is measured, and the circadian rhythm is reset. If a flash of far-red light follows the red light,
+then the effect of the red light is reversed, and the night length is restored to the night length 

@@ -1,0 +1,59 @@
+ Fig. 26–4b.
+Both viewpoints are legitimate according to the relativity principle. [There is no
+third point of view that will tell us which one is “really” moving.]
+O2
+O1
+O1
+O2
+O2
+O1
+FIGURE 26–4 Observers 
+and 
+on two different trains (two different
+reference frames), are moving with
+relative speed v. (a) 
+says that 
+is moving to the right. (b) 
+says
+that 
+is moving to the left. Both
+viewpoints are legitimate: it all
+depends on your reference frame.
+O2
+O1
+O1
+O2
+O2 ,
+O1
+(a)
+(b)
+O1
+O2
+O1
+O2
+v
+B
+v
+B
+Now suppose that observers 
+and 
+observe and measure two lightning
+strikes. The lightning bolts mark both trains where they strike: at 
+and 
+on
+train, and at 
+and 
+on 
+train, Fig. 26–5a. For simplicity, we assume that
+is exactly halfway between 
+and 
+and 
+is halfway between 
+and 
+Let us first put ourselves in 
+reference frame, so we observe 
+moving to the
+right with speed v. Let us also assume that the two events occur simultaneously in
+frame, and just at the instant when 
+and 
+are opposite ea

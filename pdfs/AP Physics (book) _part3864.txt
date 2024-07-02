@@ -1,0 +1,26 @@
+ulate in the theory of relativity). That is, light traveling in 
+with speed
+will have speed 
+in S, according to Eq.E–2, whereas the theory of
+relativity insists it must be c in S. Clearly, then, a new set of transformation equa-
+tions is needed to deal with relativistic velocities.
+We will derive the required equations, again looking at Fig. E–1. We assume
+the transformation is linear and for x is of the form
+(i)
+That is, we modify the first of Eqs.E–1 by multiplying by a factor which is yet to
+be determined.† We assume the y and z equations are unchanged 
+because there is no length contraction in these directions. We will not assume a
+form for , but will derive it. The inverse equations must have the same form with
+v replaced by
+(The principle of relativity demands it, since 
+moving to the
+right with respect to S is equivalent to S moving to the left with respect to 
+)
+Therefore
+(ii)
+Suppose a light pulse leaves the common origin of S and 
+at time t = t¿ = 0.
+S¿
+x¿ = g(x - vt).
+S¿.
+S¿

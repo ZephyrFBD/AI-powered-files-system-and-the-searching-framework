@@ -1,0 +1,55 @@
+sores; slows down cooling
+winds; hazardous to migratory
+birds; winds not always strong.
+Space limitations; may require
+back-up; relatively expensive;
+less effective when cloudy.
+Almost
+none, but 
+other
+methods
+needed
+too.
+Expensive; chemical pollution at
+manufacture; much land needed
+as Sun’s energy not concentrated;
+absorption (dark color) without
+warming.
+reemission = global
+72
+66
+20
+17
+0
+0
+7
+16
+61
+61
+61
+L 1
+61
+61
+Summer
+sun shield
+Energy-absorbing ﬂoor
+Summer
+sun
+Winter
+sun
+Window
+436
+CHAPTER 15
+The Laws of Thermodynamics
+The first law of thermodynamics states that the change in inter-
+nal energy 
+of a system is equal to the heat added to the
+system, Q, minus the work done by the system, W:
+(15;1)
+This important law is a statement of the conservation of energy,
+and is found to hold for all processes.
+An isothermal process is a process carried out at constant
+temperature.
+In an adiabatic process, no heat is exchanged 
+The work W done by a gas at constant pressure P is given by
+(15;3)

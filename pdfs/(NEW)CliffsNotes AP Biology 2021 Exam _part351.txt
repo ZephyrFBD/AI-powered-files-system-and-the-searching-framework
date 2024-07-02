@@ -1,0 +1,10 @@
+s not bind to the operator. As a result, the RNA polymerase proceeds to
+transcribe the structural genes necessary to produce enzymes that synthesize tryptophan. When tryptophan is
+available to E. coli from the surrounding environment, the bacterium no longer needs to manufacture its own
+tryptophan. In this case, rising levels of tryptophan induce some tryptophan to react with the inactive repressor and
+make it active. Here, tryptophan is acting as a corepressor. The active repressor now binds to the operator region,
+which, in turn, prevents the transcription of the structural genes. Since these structural genes stop producing
+enzymes only in the presence of an active repressor, they are called repressible enzymes, and the operon is a
+repressible operon. Because a repressor protein is involved, it is an example of negative regulation.
+2. The lac operon in E. coli controls the breakdown of lactose. A regulatory gene produces an active repressor that
+binds to the operator region. When the

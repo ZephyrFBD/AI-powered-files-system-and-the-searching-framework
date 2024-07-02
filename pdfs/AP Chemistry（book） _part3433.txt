@@ -1,0 +1,16 @@
+iation, is far more harmful to biological systems than radiation that does not cause 
+ionization. The latter, called nonionizing radiation, is generally of lower energy, such 
+as radiofrequency electromagnetic radiation 
+ (Section 6.7) or slow-moving neutrons.
+Most living tissue contains at least 70% water by mass. When living tissue is irra-
+diated, water molecules absorb most of the energy of the radiation. Thus, it is com-
+mon to define ionizing radiation as radiation that can ionize water, a process requiring 
+a minimum energy of 1216 kJ/mol. Alpha, beta, and gamma rays (as well as X rays and 
+higher-energy ultraviolet radiation) possess energies in excess of this quantity and are 
+therefore forms of ionizing radiation.
+When ionizing radiation passes through living tissue, electrons are removed from 
+water molecules, forming highly reactive H2O+ ions. An H2O+ ion can react with another 
+water molecule to form an H3O+ ion and a neutral OH molecule:
+ 
+H2O+ + H2O ¡ H3O+ + OH 
+[21.31]

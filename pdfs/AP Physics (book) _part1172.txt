@@ -1,0 +1,40 @@
+or extinguish, as to “dampen one’s spirits.”
+t
+A
+B
+C
+x
+FIGURE 11–15 Graphs that represent 
+(A) underdamped, (B) critically damped,
+and (C) overdamped oscillatory motion.
+x
+t
+0
+FIGURE 11–14 Damped harmonic
+motion.
+Piston
+Viscous
+ﬂuid
+Attached to
+car axle
+Attached to
+car frame
+FIGURE 11–16 Automobile spring 
+and shock absorber provide damping 
+so that a car won’t bounce up and 
+down so much.
+Measuring g. A geologist uses a simple pendulum that has
+a length of 37.10 cm and a frequency of 0.8190 Hz at a particular location on the
+Earth. What is the acceleration due to gravity at this location?
+APPROACH We can use the length 
+and frequency f of the pendulum in
+Eq. 11–11b, which contains our unknown, g.
+SOLUTION We solve Eq. 11–11b for g and obtain
+g = (2pf)2l = (2p)2
+ A0.8190 s–1)2(0.3710 m) = 9.824 ms2.
+l
+EXAMPLE 11;9
+1
+1–5 Damped Harmonic Motion
+The amplitude of any real oscillating spring or swinging pendulum slowly decreases
+in time until the oscillations stop altogether. Figure 11–14 

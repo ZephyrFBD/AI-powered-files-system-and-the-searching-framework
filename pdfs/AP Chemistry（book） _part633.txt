@@ -1,0 +1,34 @@
+, the balanced molecular equation for the 
+reaction is:
+(b)  
+To determine the limiting reactant, we must examine the 
+number of moles of each reactant. 
+ (Section 3.7) The num-
+ber of moles of K3PO4 is calculated from the mass of the sample 
+using the molar mass as a conversion factor. 
+ (Section 3.4)  
+The molar mass of K3PO4 is 3139.12 + 31.0 + 4116.02 =
+212.3 g>mol. Converting milligrams to grams and then to 
+moles, we have:
+We determine the number of moles of AgNO3 from the vol-
+ume and molarity of the solution. (Section 4.5) Converting 
+milliliters to liters and then to moles, we have:
+K3PO41aq2 + 3 AgNO31aq2 ¡ Ag3PO41s2 + 3 KNO31aq2
+170.5 mg K3PO42a
+10-3 g K3PO4
+1 mg K3PO4
+b a
+1 mol K3PO4
+212.3 g K3PO4
+b 
+= 3.32 * 10-4 mol K3PO4
+115.0 mL2a 10-3 L
+1 mL b a
+0.050 mol AgNO3
+L
+b 
+= 7.5 * 10-4 mol AgNO3
+Comparing the amounts of the two reactants, we find that 
+there are 17.5 * 10-42>13.32 * 10-42 = 2.3 times as many 
+moles of AgNO3 as there are moles of K3PO4. According to 
+the balan

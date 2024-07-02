@@ -1,0 +1,39 @@
+d) The current is a maximum at
+(the moment when the switch is closed)
+and there is no charge yet on the capacitor
+I
+max =
+e
+R =
+12 V
+2.0 * 104  = 600 mA.
+(Q = 0):
+t = 0
+1
+30 s
+t = 4.6RC = (4.6)(6.0 * 10–3 s) = 28 * 10–3 s
+t
+RC
+=
+–ln(0.01) = 4.6
+ln ex = x:
+e–tRC = 1 - 0.99 = 0.01.
+0.99Ce = CeA1 - e–tRCB,
+Q = 0.99Ce:
+3.6 mC.
+Q0 = Ce = A3.0 * 10–7 FB(12 V) =
+6.0 * 10–3 s = 6.0 ms.
+RC = A2.0 * 104 BA3.0 * 10–7 FB =
+R = 20 k,
+C = 0.30 mF,
+EXAMPLE 19;12
+Capacitor Discharging
+The circuit just discussed involved the charging of a capacitor by a battery
+through a resistance. Now let us look at another situation: a capacitor is already
+charged to a voltage 
+and charge 
+and it is then allowed to discharge through
+a resistance R as shown in Fig. 19–21a. In this case there is no battery. When the
+switch S is closed, charge begins to flow through resistor R from one side of 
+the capacitor toward the other side, until the capacitor is fully discharged.
+The voltage across the capacitor decreases,

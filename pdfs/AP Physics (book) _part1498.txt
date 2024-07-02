@@ -1,0 +1,22 @@
+ one atom per
+mainly hydrogen atoms, and the temperature is about
+2.7 K. Calculate the rms speed of these hydrogen atoms,
+and the pressure (in atmospheres).
+85. (a) Estimate the rms speed of an amino acid, whose molecular
+mass is 89 u, in a living cell at 37°C. (b) What would be the
+rms speed of a protein of molecular mass 85,000 u at 37°C?
+86. The escape speed from the Earth is
+so that
+a gas molecule traveling away from Earth near the outer
+boundary of the Earth’s atmosphere would, at this speed,
+be able to escape from the Earth’s gravitational field and be
+lost to the atmosphere. At what temperature is the rms
+speed of (a) oxygen molecules, and (b) helium atoms 
+equal to 
+(c) Can you explain why our
+atmosphere contains oxygen but not helium?
+87. Consider a container of oxygen gas at a temperature of 23°C
+that is 1.00 m tall. Compare the gravitational potential energy
+of a molecule at the top of the container (assuming the
+potential energy is zero at the bottom) with the average
+kinet

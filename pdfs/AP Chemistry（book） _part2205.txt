@@ -1,0 +1,28 @@
+ purple spheres:
+Box 3: Rate = k1321722 = 147k
+The slowest rate is 63k (Box 2), and the highest is 147k (Box 3). 
+Thus, the rates vary in the order 2 6 1 6 3.
+Check Each box contains 10 spheres. The rate law indicates that 
+in this case [B] has a greater influence on rate than [A] because B 
+has a larger reaction order. Hence, the mixture with the highest 
+concentration of B (most purple spheres) should react fastest. This 
+analysis confirms the order 2 6 1 6 3.
+ 
+▶Practice Exercise 1
+Suppose the rate law for the reaction in this Sample Exercise 
+were rate = k3A423B4. What would be the ordering of the 
+rates for the three mixtures shown above, from slowest to 
+fastest?
+(a) 1 6 2 6 3
+(b) 1 6 3 6 2 
+(c) 3 6 2 6 1 
+(d) 2 6 1 6 3
+(e) 3 6 1 6 2
+ 
+▶Practice Exercise 2
+Assuming that rate = k3A43B4, rank the mixtures represented 
+in this Sample Exercise in order of increasing rate.
+580 
+CHAPTER 14 Chemical Kinetics
+Using Initial Rates to Determine Rate Laws
+We have seen that the rate law for m

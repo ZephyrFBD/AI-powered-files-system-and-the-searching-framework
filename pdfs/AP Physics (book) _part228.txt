@@ -1,0 +1,32 @@
+n inter-
+section just as the traffic light turns yellow. She knows that
+the yellow light lasts only 2.0 s before turning to red, and
+she is 28 m away from the near side of the intersection
+(Fig. 2–49). Should she try to stop, or should she speed up
+to cross the intersection before the light turns red? The
+intersection is 15 m wide. Her car’s maximum deceleration
+is 
+whereas it can accelerate from 
+to
+in 6.0 s. Ignore the length of her car and her
+reaction time.
+65 kmh
+45 kmh
+–5.8 ms2,
+35 kmh
+A
+0
+B
+x
+t
+70. In putting, the force with which a golfer strikes a ball is
+planned so that the ball will stop within some small distance
+of the cup, say 1.0 m long or short, in case the putt is missed.
+Accomplishing this from an uphill lie (that is, putting the
+ball downhill, see Fig. 2–47) is more difficult than from a
+downhill lie. To see why, assume that on a particular green
+the ball decelerates constantly at 
+going downhill,
+and constantly at 
+going uphill. Suppose we have an
+uphill lie 7.0

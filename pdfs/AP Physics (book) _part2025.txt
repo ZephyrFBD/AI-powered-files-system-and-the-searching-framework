@@ -1,0 +1,20 @@
+ery that can hold 16 kWh of
+energy (approximately 
+). If the battery is designed
+to operate at 340 V, how many coulombs of charge would
+need to leave the battery at 340 V and return at 0 V to equal
+the stored energy of the battery?
+32. (I) An electric car uses a 45-kW (160-hp) motor. If the bat-
+tery pack is designed for 340 V, what current would the motor
+need to draw from the battery? Neglect any energy losses
+in getting energy from the battery to the motor.
+33. (II) A 120-V hair dryer has two settings: 950 W and 1450 W.
+(a) At which setting do you guess the resistance to be higher?
+After making a guess, determine the resistance at (b) the
+lower setting, and (c) the higher setting.
+34. (II) A 12-V battery causes a current of 0.60 A through a
+resistor. (a) What is its resistance, and (b) how many joules
+of energy does the battery lose in a minute?
+35. (II) A 120-V fish-tank heater is rated at 130 W. Calculate
+(a) the current through the heater when it is operating, and
+(b) its resista

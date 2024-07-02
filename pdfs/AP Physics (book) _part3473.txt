@@ -1,0 +1,83 @@
+inetic energy means higher temperatures.
+1
+1H,
+1
+2H
+ 92
+235U,
+1
+2H +
+1
+3H S
+2
+4He + n.                  (17.59 MeV)
+1
+2H +
+1
+2H S
+2
+3He + n
+ (3.27 MeV)
+1
+2H +
+1
+2H S
+1
+3H +
+1
+1H
+ (4.03 MeV)
+1
+3H
+1
+2H
+A L 56
+CONCEPTUAL EXAMPLE 31;8
+g
+ 7
+15N +
+1
+1H S
+ 6
+12C +
+2
+4He.
+ 8
+15O S
+ 7
+15N + e± + n
+ 7
+14N +
+1
+1H S
+ 8
+15O + g
+ 6
+13C +
+1
+1H S
+ 7
+14N + g
+ 7
+13N S
+ 6
+13C + e± + n
+ 6
+12C +
+1
+1H S
+ 7
+13N + g
+896
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation
+P H Y S I C S  A P P L I E D
+Fusion energy reactors
+Carbon
+cycle
+Indeed, very high temperatures are required for sustained fusion to occur, and
+fusion devices are often referred to as thermonuclear devices. The interiors of the
+Sun and other stars are very hot, many millions of degrees, so the nuclei are
+moving fast enough for fusion to take place, and the energy released keeps the
+temperature high so that further fusion reactions can occur. The Sun and the stars
+represent huge self-sustaining thermonuclear reactors that stay together be

@@ -1,0 +1,39 @@
+stant of 3.0 s is typical and
+allows rapid changes in potential to be recorded accurately.
+If
+what value must R have? [Hint: Consider
+each leg as a separate circuit.]
+C = 3.0 mF,
+54. (II) In Fig. 19–69 (same as Fig. 19–20a), the total resistance
+is 
+and the battery’s emf is 24.0 V. If the time con-
+stant is measured to be 
+calculate
+(a) the total capacitance of the circuit and
+(b) the time it takes for the voltage across
+the resistor to reach 16.0 V after the switch
+is closed.
+18.0 ms,
+15.0 k,
+55. (II) Two 
+capacitors, two 
+resistors, and a
+16.0-V source are connected in series. Starting from the
+uncharged state, how long does it take for the current to
+drop from its initial value to 1.50 mA?
+56. (II) The RC circuit of Fig. 19–70 (same as Fig. 19–21a) has
+and
+The capacitor is at voltage 
+at
+when the switch is
+closed. How long does it take
+the capacitor to discharge to
+0.25% of its initial voltage?
+t = 0,
+V
+0
+C = 3.0 mF.
+R = 8.7 k
+2.2-k
+3.8-mF
+57. (III) Consider the circuit shown in 

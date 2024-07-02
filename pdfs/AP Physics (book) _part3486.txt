@@ -1,0 +1,22 @@
+edium containing a culture of bacteria. After
+1.0 h the cells are washed and a 70% efficient detector (counts 70% of emitted 
+rays) records 720 counts per minute from the cells. What percentage of the
+original 
+was taken up by the cells?
+APPROACH The half-life of 
+is about 14 days (Appendix B), so we can ignore
+any loss of activity over 1 hour. From the given activity, we find how many
+rays
+are emitted. We can compare 70% of this to the 
+second detected.
+SOLUTION The total number of decays per second originally was
+The counter could be expected to count 70%
+of this, or 410 per second. Since it counted 
+per second, then
+or 2.9% was incorporated into the cells.
+Another type of measurement is the exposure or absorbed dose—that is, the
+effect the radiation has on the absorbing material. The earliest unit of dosage was
+the roentgen (R), defined in terms of the amount of ionization produced by the
+radiation (
+ion pairs per gram of dry air at standard conditions).
+Today, 1 R is defined as the

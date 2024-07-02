@@ -1,0 +1,42 @@
+our Solar
+System. Estimate the fraction of the Solar System’s total
+angular momentum that is possessed by planets using a
+simplified model which includes only the large outer plan-
+ets with the most angular momentum. The central Sun
+(mass 
+radius 
+) spins about its
+axis once every 25 days and the planets Jupiter, Saturn,
+Uranus, and Neptune move in nearly circular orbits
+around the Sun with orbital data given in the Table below.
+Ignore each planet’s spin about its own axis.
+Mean Distance from Orbital Period 
+Mass 
+Planet
+Sun 
+(Earth Years)
+Jupiter
+778
+11.9
+190
+Saturn
+1427
+29.5
+56.8
+Uranus
+2870
+84.0
+8.68
+Neptune
+4500
+165
+10.2
+95. Water drives a waterwheel (or turbine) of radius 
+as shown in Fig. 8–66. The water enters at a speed
+and exits from the waterwheel at a speed
+(a) If 85 kg of water passes through per
+second, what is the rate at which the water delivers angu-
+lar momentum to the waterwheel? (b) What is the torque
+the water applies to the
+waterwheel? (c) If the water
+causes the w

@@ -1,0 +1,28 @@
+essure in the arm cuff which can be read off the gauge.
+The air pressure is subsequently reduced further, and the tapping sound disappears
+when blood at low pressure can enter the artery. At this point, the gauge indicates
+the diastolic pressure. Normal systolic pressure is around 120 mm-Hg, whereas
+normal diastolic pressure is around 70 or 80 mm-Hg. Blood pressure is reported
+in the form 120 70.
+
+Questions
+283
+Cuff
+Hand
+pump
+Gauge
+FIGURE 10–42 Device for
+measuring blood pressure.
+The three common phases of matter are solid, liquid, and gas.
+Liquids and gases are collectively called fluids, meaning they
+have the ability to flow. The density of a material is defined as
+its mass per unit volume:
+(10;1)
+Specific gravity (SG) is the ratio of the density of the material to
+the density of water (at 4°C).
+Pressure is defined as force per unit area:
+(10;2)
+The pressure P at a depth h in a liquid of constant density , due
+to the weight of the liquid, is given by
+(10;3a)
+where g is the accelera

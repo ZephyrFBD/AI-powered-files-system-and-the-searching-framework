@@ -1,0 +1,23 @@
+he same number of C atoms as one molecule of CO2, the 
+coefficients for these substances must be the same in the balanced equation. Therefore, 
+we start by choosing the coefficient 1 (unwritten) for both CH4 and CO2.
+Next we focus on H. On the left side of the equation we have CH4, which has four H 
+atoms, whereas on the right side of the equation we have H2O, containing two H atoms. 
+To balance the H atoms in the equation we place the coefficient 2 in front of H2O. Now 
+there are four H atoms on each side of the equation:
+ 
+CH4 + O2 ¡ CO2 + 2 H2O 1unbalanced2  
+[3.3] 
+While the equation is now balanced with respect to hydrogen and carbon, it is not yet 
+balanced for oxygen. Adding the coefficient 2 in front of O2 balances the equation by 
+giving four O atoms on each side 12 * 2 left, 2 + 12 * 12 right2: 
+ 
+CH4 + 2 O2 ¡ CO2 + 2 H2O 1balanced2  
+[3.4] 
+The molecular view of the balanced equation is shown in Figure 3.5.
+H2O
+2 H2O
+H2O2
+Changing EoeƞEKePt
+changes aOouPt  
+Changing suDsErK

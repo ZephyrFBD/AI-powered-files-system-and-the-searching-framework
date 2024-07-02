@@ -1,0 +1,42 @@
+ for a reaction by manipulating the Arrhenius 
+equation. Taking the natural log of both sides of Equation 14.21, we obtain
+ln k = ln Ae - Ea>RT
+ln k = ln e - Ea>RT + ln A
+ 
+ln k = −Ea
+–––
+RT
+=
++
++
+ln A
+mx
+b
+y
+ 
+[14.22]
+which has the form of the equation for a straight line. A graph of ln k versus 1>T is a line 
+with a slope equal to -Ea>R and a y-intercept equal to ln A. Thus, the activation energy 
+can be determined by measuring k at a series of temperatures, graphing ln k versus 1>T, 
+and calculating Ea from the slope of the resultant line.
+We can also use Equation 14.22 to evaluate Ea in a nongraphical way if we know the 
+rate constant of a reaction at two or more temperatures. For example, suppose that at two 
+different temperatures T
+1 and T
+2 a reaction has rate constants k1 and k2. For each condi-
+tion, we have
+ 
+ln k1 = - Ea
+RT
+1
++ ln A and ln k2 = - Ea
+RT
+2
++ ln A 
+ 
+SECTION 14.5   
+Temperature and Rate 
+591
+592 
+CHAPTER 14 Chemical Kinetics
+Subtracting ln k2 from ln k1 gives

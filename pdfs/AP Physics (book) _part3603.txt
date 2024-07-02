@@ -1,0 +1,160 @@
+0
+0
+0
+0
+Stable
+Neutrino (e)
+‡ 0
+0
+0
+0
+Stable
+Muon
+105.7
+0
+0
+0
+0
+Neutrino
+‡ 0
+0
+0
+0
+Stable
+Tau
+1777
+0
+0
+0
+0
+hadrons
+Neutrino
+‡ 0
+0
+0
+0
+Stable
+Quarks
+w, em, str
+(see Table 32–3)
+Hadrons (composite), selected
+Mesons
+str, em, w
+Pion
+0
+139.6
+0
+0
+0
+0
+0
+(quark–
+Self
+0
+135.0
+0
+0
+0
+0
+0
+antiquark)
+Kaon
+0
+493.7
+0
+0
+0
+0
+0
+497.6
+0
+0
+0
+0
+0
+497.6
+0
+0
+0
+0
+Eta
+Self
+0
+547.9
+0
+0
+0
+0
+0
+Rho
+Self
+1
+775
+0
+0
+0
+0
+0
+1
+775
+0
+0
+0
+0
+0
+and others
+Baryons 
+str, em, w
+Proton
+p
+938.3
+0
+0
+0
+0
+Stable
+(3 quarks)
+Neutron
+n
+939.6
+0
+0
+0
+0
+882
+Lambda
+1115.7
+0
+0
+0
+Sigma
+1189.4
+0
+0
+0
+1192.6
+0
+0
+0
+1197.4
+0
+0
+0
+Xi
+1314.9
+0
+0
+0
+1321.7
+0
+0
+0
+Omega 
+1672.5
+0
+0
+0
+and others
+†See also Table 32–4 for particles with charm and bottom. S in this Table stands for “strangeness” (see Section 32–8). More detail online at: pdg.lbl.gov.
+‡Neutrinos partake only in the weak interaction. Experimental upper limits on neutrino masses are given in parentheses, as obtained mainly from the WMAP 
+survey (Chapter 33). Detection of neutrino oscillations 

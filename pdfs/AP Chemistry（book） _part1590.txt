@@ -1,0 +1,21 @@
+ 714 torr and 125 °C?
+ 
+▶Practice Exercise 1
+What is the density of methane, CH4, in a vessel where the 
+pressure is 910 torr and the temperature is 255 K?  
+(a) 0.92 g/L (b) 697 g/L (c) 0.057 g/L (d) 16 g/L  
+(e) 0.72 g/L
+ 
+▶Practice Exercise 2
+The mean molar mass of the atmosphere at the surface of 
+Titan, Saturn’s largest moon, is 28.6 g>mol. The surface tem-
+perature is 95 K, and the pressure is 1.6 atm. Assuming ideal 
+behavior, calculate the density of Titan’s atmosphere.
+Sample Exercise 10.7 
+Calculating Gas Density
+mixtures, a less dense gas will lie above a denser gas in the absence of mixing. For exam-
+ple, CO2 has a higher molar mass than N2 or O2 and is therefore denser than air. For this 
+reason, CO2 released from a CO2 fire extinguisher blankets a fire, preventing O2 from 
+reaching the combustible material. “Dry ice,” which is solid CO2, converts directly to 
+CO2 gas at room temperature, and the resulting “fog” (which is actually condensed 
+water droplets cooled by the CO

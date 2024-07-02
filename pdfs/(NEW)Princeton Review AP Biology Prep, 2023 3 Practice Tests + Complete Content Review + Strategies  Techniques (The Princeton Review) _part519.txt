@@ -1,0 +1,13 @@
+TY
+This lab demonstrates how an enzyme catalyzes a reaction and what can influence rates of catalysis. In this lab, the
+enzyme peroxidase is used to catalyze the conversion of hydrogen peroxide to water and oxygen.
+H2O2 + peroxidase → 2H2O + O2 + peroxidase
+The following are the major concepts you need to understand for the AP Exam:
+Enzymes are proteins that increase the rate of biological reactions. They accomplish this by lowering the
+activation energy of the reaction.
+Enzymes have active sites, which are pockets that the substrates (reactants) can enter that are specific to one
+substrate or set of substrates.
+Enzymes have optimal temperature and pH ranges at which they catalyze reactions. Enzyme concentration and
+substrate concentration can also influence the rates of reaction.
+If you’re asked to design an experiment to measure the effect of these four variables on enzyme activity, keep
+all the conditions constant except for the variable of interest. For example, to measure the effe

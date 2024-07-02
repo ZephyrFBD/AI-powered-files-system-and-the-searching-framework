@@ -1,0 +1,20 @@
+eightlessness
+45. (I) A space shuttle releases a satellite into a circular orbit
+780 km above the Earth. How fast must the shuttle be
+moving (relative to Earth’s center) when the release occurs?
+46. (I) Calculate the speed of a satellite moving in a stable 
+circular orbit about the Earth at a height of 4800 km.
+47. (II) You know your mass is 62 kg, but when you stand on a
+bathroom scale in an elevator, it says your mass is 77 kg.
+What is the acceleration of the elevator, and in which
+direction?
+48. (II) A 12.0-kg monkey hangs from a cord suspended from
+the ceiling of an elevator. The cord can withstand a tension
+of 185 N and breaks as the elevator accelerates. What 
+was the elevator’s minimum acceleration (magnitude and
+direction)?
+49. (II) Calculate the period of a satellite orbiting the Moon,
+95 km above the Moon’s surface. Ignore effects of the
+Earth. The radius of the Moon is 1740 km.
+50. (II) Two satellites orbit Earth at altitudes of 7500 km and
+15,000 km above the Earth’s surfac

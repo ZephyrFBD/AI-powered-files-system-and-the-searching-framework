@@ -1,0 +1,23 @@
+ sled. When she drops off, does 
+the sled speed up, slow down, or keep the same speed?
+RESPONSE (a) Because Susan falls vertically onto the sled, she has no initial
+horizontal momentum. Thus the total horizontal momentum afterward equals the
+momentum of the sled initially. Since the mass of the system
+has
+increased, the speed must decrease.
+(b) At the instant Susan falls off, she is moving with the same horizontal speed
+as she was while on the sled. At the moment she leaves the sled, she has the
+same momentum she had an instant before. Because her momentum does not
+change, neither does the sled’s (total momentum conserved); the sled keeps the
+same speed.
+(sled + person)
+CONCEPTUAL EXAMPLE 7;4
+C A U T I O N
+A rocket does not push on the Earth;
+it is propelled by pushing out the
+gases it burned as fuel
+EXERCISE E Return to the Chapter-Opening Questions, page 170, and answer them
+again now. Try to explain why you may have answered differently the first time.
+176
+CHAPTER 7
+Linear Momentum

@@ -1,0 +1,17 @@
+.
+Give It Some Thought
+The normal boiling point of benzene is 80 °C. At 100 °C and 1 atm, which term is 
+greater in magnitude for the vaporization of benzene, ∆H or -T∆S?
+Our discussion of the temperature dependence of ∆G is also relevant to standard 
+free-energy changes. We can calculate the values of ∆H ° and ∆S° at 298 K from the data 
+in Appendix C. If we assume that these values do not change with temperature, we can 
+then use Equation 19.12 to estimate ∆G at temperatures other than 298 K.
+The Haber process for the production of ammonia involves the equilibrium
+N21g2 + 3 H21g2 ∆2 NH31g2
+For this reaction, ∆H ° = -92.38 kJ and ∆S° = -198.3 J>K. Assume that ∆H ° and ∆S° for this reaction do not change with 
+temperature. (a) Predict the direction in which ∆G for the reaction changes with increasing temperature. (b) Calculate ∆G at 
+25 °C and at 500 °C.
+Sample Exercise 19.9 
+Determining the Effect of Temperature on Spontaneity
+SOLUTION
+Analyze In part (a) we are asked to predict the d

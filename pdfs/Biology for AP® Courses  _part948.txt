@@ -1,0 +1,11 @@
+ captures the energy to reduce NADP+ into NADPH. The two photosystems work in concert, in part, to guarantee
+that the production of NADPH will roughly equal the production of ATP. Other mechanisms exist to fine tune that ratio to
+exactly match the chloroplast’s constantly changing energy needs.
+Generating an Energy Carrier: ATP
+As in the intermembrane space of the mitochondria during cellular respiration, the buildup of hydrogen ions inside the
+thylakoid lumen creates a concentration gradient. The passive diffusion of hydrogen ions from high concentration (in the
+thylakoid lumen) to low concentration (in the stroma) is harnessed to create ATP, just as in the electron transport chain of
+cellular respiration. The ions build up energy because of diffusion and because they all have the same electrical charge,
+repelling each other.
+To release this energy, hydrogen ions will rush through any opening, similar to water jetting through a hole in a dam. In the
+thylakoid, that opening is a passag

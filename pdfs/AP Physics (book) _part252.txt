@@ -1,0 +1,46 @@
+= 1.
+o2 + a2 = h2
+sin2 u + cos2 u = 1
+oa = o¿a¿.
+oh = o¿h¿;
+ah = a¿h¿;
+ 
+tan u = side opposite
+side adjacent
+= o
+a
+.
+ 
+cos u = side adjacent
+hypotenuse
+=
+a
+h
+ 
+sin u = side opposite
+hypotenuse
+=
+o
+h
+Using Eqs. 3–3, we can calculate 
+and 
+for any vector, such as that illus-
+trated in Fig. 3–10 or Fig. 3–12. Suppose 
+represents a displacement of 500 m in
+a direction 30° north of east, as shown in Fig. 3–13. Then
+From a
+calculator or Tables,
+and
+Then
+There are two ways to specify a vector in a given coordinate system:
+1. We can give its components,
+and 
+2. We can give its magnitude V and the angle it makes with the positive x axis.
+We can shift from one description to the other using Eqs. 3–3, and, for the reverse,
+by using the theorem of Pythagoras† and the definition of tangent:
+(3;4a)
+(3;4b)
+as can be seen in Fig. 3–12.
+Adding Vectors
+We can now discuss how to add vectors using components. The first step is to
+resolve each vector into its components. Next we can see, using Fig. 3

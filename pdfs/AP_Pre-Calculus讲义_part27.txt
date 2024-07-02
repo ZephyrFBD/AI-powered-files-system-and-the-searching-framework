@@ -1,0 +1,58 @@
+on we conclude that the average rate of change of a linear function 
+is the same between any two points. 
+Moreover, the average rate of change is equal to the slope. 
+Since the average rate of change of a linear function is the same between any two points, 
+it is simply called the rate of change. 
+ 
+29 
+For the linear function f(x) = ax + b, the slope of the graph of f and the rate of change of f 
+are both equal to a, the coefficient of x. 
+a = slope of graph of f = rate of change of f 
+ 
+Example 2 
+A dam is built on a river to create a reservoir. The water level f (t) in the reservoir at time t 
+is given by f (t) = 4.5t + 28, where t is the number of years since the dam was constructed 
+and f (t) is measured in feet. 
+(a) Sketch a graph of f. 
+(b) What is the slope of the graph? 
+(c) At what rate is the water level in the reservoir changing? 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+1.5 Quadratic Function and Its Properties 
+1

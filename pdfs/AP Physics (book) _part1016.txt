@@ -1,0 +1,48 @@
+ same answer as in Example 9–6 if you solve
+the problem as in part (b). (d) In general, do you see any
+patterns in Sections 9–2 and 9–3 for choosing the axis of
+rotation to solve Problems in this Chapter?
+5. Consider a ladder with a painter climbing up it (Fig. 9–94).
+The mass of the uniform ladder
+is 12.0 kg, and the mass of the
+painter is 55.0 kg. If the ladder
+begins to slip at its base when
+the painter’s feet are 70%
+of the way up the length of
+the ladder, what is the coef-
+ficient 
+of 
+static 
+friction
+between the ladder and the
+floor? Assume the wall is
+frictionless.
+©t = 0
+Search and Learn
+FIGURE 9–94
+Search and Learn 5.
+FIGURE 9–93
+Search and Learn 3.
+A:
+also has a component to balance the sideways 
+force
+B: Yes:
+(angle of bar with ground) appears on both sides
+and cancels out.
+cos u
+F
+B.
+F
+A
+C:
+D: (a).
+E: (b).
+= (30 kg + 25 kg + 4.0 kg) g = 560 N.
+F
+N = mA g + mB g + Mg
+ANSWERS TO EXERCISES
+260
+CONTENTS
+10–1 Phases of Matter
+10–2 Density and Specific Gravity
+10–3 Pressure in F

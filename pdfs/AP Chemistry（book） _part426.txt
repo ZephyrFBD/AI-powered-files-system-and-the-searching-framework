@@ -1,0 +1,20 @@
+ding atomic weights to one digit beyond the decimal 
+point.
+% mass composition  
+of element
+ 
+SECTION 3.4   
+Avogadro’s Number and the Mole 
+93
+3.4 ∣ Avogadro’s Number and the Mole
+Even the smallest samples we deal with in the laboratory contain enormous numbers 
+of atoms, ions, or molecules. For example, a teaspoon of water (about 5 mL) contains 
+2 * 1023 water molecules, a number so large it almost defies comprehension. Chem-
+ists therefore have devised a counting unit for describing large numbers of atoms or 
+molecules.
+In everyday life we use such familiar counting units as dozen (12 objects) and gross 
+(144 objects). In chemistry the counting unit for numbers of atoms, ions, or molecules 
+in a laboratory-size sample is the mole, abbreviated mol. One mole is the amount of 
+matter that contains as many objects (atoms, molecules, or whatever other objects we 
+are considering) as the number of atoms in exactly 12 g of isotopically pure 12C. From 
+experiments, scientists have determine

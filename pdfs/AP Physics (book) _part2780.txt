@@ -1,0 +1,27 @@
+P each of red and blue). There are
+more green pixels because they are most important in our eyes’ ability to note resolution. So the
+distance between green pixels is a rough guide to the sharpness of a Bayer. To match a
+Foveon (36 MP, or 12 MP of tri-pixel sites), a Bayer would need to have about 24 MP (because it
+would then have 12 MP of green). This “equivalence” is only a rough approximation.
+4000 * 3000
+4000 * 3000
+4000 * 3000 * 3 = 36 MP.
+4000 * 3000
+Blown-up photograph. A photograph looks sharp 
+at normal viewing distances if the dots or lines are resolved to perhaps
+Would an 
+enlargement of a photo taken by the camera
+in Example 25–3 seem sharp?
+APPROACH We assume the image is 
+on a
+sensor as in Example 25–3, or 
+We make an enlarged photo
+SOLUTION The short side of the sensor is 
+long, and that side
+of the photograph is 8 inches or 20 cm. Thus the size is increased by a factor of
+To fill the 
+paper, we
+assume the enlargement is 
+The pixels are thus enlarged 
+So the pixel
+count o

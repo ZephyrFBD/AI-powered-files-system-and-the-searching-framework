@@ -1,0 +1,40 @@
+t in it. Discuss 
+the angles at which there are diffraction minima for wave-
+lengths of (a) 0.50 cm, (b) 1.0 cm, and (c) 3.0 cm.
+27. (II) (a) For a given wavelength 
+what is the minimum slit
+width for which there will be no diffraction minima?
+(b) What is the minimum slit width so that no visible light
+exhibits a diffraction minimum?
+28. (II) Light of wavelength 620 nm falls on a slit that is
+wide. Estimate how far the first bright 
+diffraction fringe is from the strong central maximum if the
+screen is 10.0 m away.
+3.80 * 10–3 mm
+l,
+2.60 * 10–3 mm
+Water
+nw = 1.33
+Oil
+no = 1.50
+t
+Air
+Dark
+A
+B
+Blue
+Yellow
+Red
+Blue
+Yellow
+Problems
+709
+29. (II) Monochromatic light of wavelength 633 nm falls on a
+slit. If the angle between the first two bright fringes on either
+side of the central maximum is 32°, estimate the slit width.
+30. (II) Coherent light from a laser diode is emitted through
+a
+rectangular area 
+(horizontal-by-
+vertical). If the laser light has a wavelength of 780 nm,
+determine the an

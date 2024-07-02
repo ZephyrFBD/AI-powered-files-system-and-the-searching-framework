@@ -1,0 +1,14 @@
+that is required, the chemical equation needs to be balanced.
+To construct a balanced chemical equation we start by writing the formulas for the 
+reactants on the left-hand side of the arrow and the products on the right-hand side. 
+Next we balance the equation by determining the coefficients that provide equal num-
+bers of each type of atom on both sides of the equation. For most purposes, a balanced 
+equation should contain the smallest possible whole-number coefficients.
+In balancing an equation, you need to understand the difference between 
+ 
+coefficients and subscripts. As Figure 3.3 illustrates, changing a subscript in a  
+formula—
+from H2O to H2O2, for example—changes the identity of the substance. The substance 
+H2O2, hydrogen peroxide, is quite different from the substance H2O, water. Never change 
+subscripts when balancing an equation. In contrast, placing a coefficient in front of a for-
+mula changes only the amount of the substance and not its identity. Thus, 2 H2O means 

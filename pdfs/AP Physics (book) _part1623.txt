@@ -1,0 +1,15 @@
+o R. J. E. Clausius (1822–1888), is that
+heat can flow spontaneously from a hot object to a cold object; heat will not
+flow spontaneously from a cold object to a hot object.
+Since this statement applies to one particular process, it is not obvious how it
+applies to other processes. A more general statement is needed that will include
+other possible processes in a more obvious way.
+The development of a general statement of the second law of thermodynamics
+was based partly on the study of heat engines. A heat engine is any device that
+changes thermal energy into mechanical work, such as a steam engine or an auto-
+mobile engine. We now examine heat engines, both from a practical point of view
+and to show their importance in developing the second law of thermodynamics.
+15–5 Heat Engines
+It is easy to produce thermal energy by doing work—for example, by simply rub-
+bing your hands together briskly, or indeed by any frictional process. But to get
+work from thermal energy is more difficult, a

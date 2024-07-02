@@ -1,0 +1,44 @@
+
+from rest to 
+in
+0.38 s, at which point it
+is released. Calculate (a) the angular acceleration of the arm,
+and (b) the force required of the triceps muscle. Assume
+that the forearm has a mass of 3.7 kg and rotates like a uni-
+form rod about an axis at its end.
+8.5 ms
+7.0 ms2
+1.9 * 10–46 kgm2.
+5.3 * 10–26 kg
+0.68 rads
+FIGURE 8;46
+Problems 35 and 36.
+m
+m
+M
+M
+x
+0.50 m
+1.50 m
+0.50 m
+y
+Axis
+Axis
+FIGURE 8;47 Problem 39.
+Rotor
+m = 135 kg
+3.75 m
+224
+CHAPTER 8
+Rotational Motion
+42. (II) A 0.72-m-diameter solid sphere can be rotated about
+an axis through its center by a torque of 
+which
+accelerates it uniformly from rest through a total of
+160 revolutions in 15.0 s. What is the mass of the sphere?
+43. (II) Let us treat a helicopter rotor blade as a long thin 
+rod, as shown in Fig. 8–49. (a) If each of the three rotor
+helicopter blades is 3.75 m long and has a mass of 135 kg,
+calculate the moment of inertia of the three rotor blades
+about the axis of rotation. (b) How much torque must the
+mo

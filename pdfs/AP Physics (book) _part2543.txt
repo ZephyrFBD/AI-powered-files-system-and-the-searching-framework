@@ -1,0 +1,79 @@
+same orientation as object, which is useful) and about half what it would be
+in a plane mirror.
+4. Check. Our results are consistent with Fig. 23–19b.
+m = ±0.44,
+–4.4 m,
+m =
+– di
+do
+=
+–
+(–4.4 m)
+(10.0 m)
+=
+±0.44.
+di = –80.0 m18 = –4.4 m.
+1
+di
+=
+1
+f - 1
+do
+=
+1
+–8.0 m -
+1
+10.0 m =
+–10.0 - 8.0
+80.0 m
+=
+–
+18
+80.0 m
+.
+1di
+do = 10.0 m.
+f = r2 = –8.0 m.
+r = –16.0 m
+Ado = 10.0 mB
+EXAMPLE 23;7
+P H Y S I C S  A P P L I E D
+Convex rearview mirror
+TABLE 23–1 Indices of
+Refraction†
+Material
+Vacuum
+1.0000
+Air (at STP)
+1.0003
+Water
+1.33
+Ethyl alcohol
+1.36
+Glass
+Fused quartz
+1.46
+Crown glass
+1.52
+Light flint
+1.58
+Plastic
+Acrylic, Lucite, CR-39 1.50
+Polycarbonate
+1.59
+“High-index”
+1.6–1.7
+Sodium chloride
+1.53
+Diamond
+2.42
+†l = 589 nm.
+n  c
+£
+FIGURE 23–20 Example 23–7.
+Convex rearview mirrors on vehicles sometimes come with a warning that
+objects are closer than they appear in the mirror. The fact that 
+may be smaller
+than 
+(as in Example 23–7) seems to contradict this observation. The real reason
+t

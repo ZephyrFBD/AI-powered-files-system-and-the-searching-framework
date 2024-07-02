@@ -1,0 +1,23 @@
+tly high, the Coulomb repulsion between the positive charges 
+is not strong enough to keep all the hydrogen nuclei apart, and nuclear fusion can
+take place.
+In a star like our Sun, the fusion of hydrogen (sometimes referred to as
+“burning”)† occurs via the proton–proton chain (Section 31–3, Eqs. 31–6), in which
+four protons fuse to form a
+nucleus with the release of 
+rays, positrons,
+and neutrinos:
+These reactions require a tem-
+perature of about 
+corresponding to an average kinetic energy 
+of
+about 1 keV (Eq. 13–8). In more massive stars, the carbon cycle produces the
+same net effect: four 
+produce a
+—see Section 31–3. The fusion reactions
+take place primarily in the core of a star, where T may be on the order of 
+to
+(The surface temperature is much lower—on the order of a few thousand
+kelvins.) The tremendous release of energy in these fusion reactions produces 
+an outward pressure sufficient to halt the inward gravitational contraction. Our
+protostar, now really a young star, stabil

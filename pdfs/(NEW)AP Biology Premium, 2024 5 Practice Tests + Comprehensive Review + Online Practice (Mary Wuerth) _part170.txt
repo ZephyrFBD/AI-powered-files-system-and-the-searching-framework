@@ -1,0 +1,13 @@
+ car needs to
+proceed over it. The higher the activation energy, the slower the chemical reaction.
+All chemical reactions require an input of energy to reach a transition state to get the reaction started. The
+activation energy (EA) is the difference between the energy level of the reactants and the transition state of the
+reaction. (See Figure 7.3.) Higher activation energies result in slower chemical reactions; lower activation energies
+allow chemical reactions to proceed at a faster rate. The enzymes speed up chemical reactions by lowering the
+activation energy of the reaction.
+Enzymes can lower the activation energy of a reaction in a number of ways:
+1. Bringing substrates together in the proper orientation for a reaction to occur
+2. Destabilizing chemical bonds in the substrate by bending the substrate
+3. Forming temporary ionic or covalent bonds with the substrate
+While enzymes can lower the activation energy of reactions, enzymes cannot change an endergonic reaction into
+an exer

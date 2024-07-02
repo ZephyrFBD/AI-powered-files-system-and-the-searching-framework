@@ -1,0 +1,70 @@
+ Brønsted–Lowry acid  An acid is a substance (molecule or ion) that donates a 
+proton to another substance.
+t Brønsted–Lowry base  A base is a substance that accepts a proton.
++
+−
++
++
+O
+H
+H
+H
+O
+H
+H
+Cl
+Cl    
+H
++
++
++
+HCl(g)
+Cl−(aq)
+H2O(l)
+Acid
+Base
+H3O+(aq)
++
++
+ −
+Go Figure
+Which type of intermolecular force 
+do the dotted lines in this figure 
+represent?
+O
+O
+H
+H
+H
+H
+H
++
+H5O2+
++
+O
+H
+H
+H
+O
+H
+O
+H
+H
+O
+H
+H
+H
+H9O4+
++
++
+▲ Figure 16.2 Ball-and-stick models 
+and Lewis structures for two hydrated 
+hydronium ions.
+668 
+CHAPTER 16 Acid–Base Equilibria
+Thus, when HCl dissolves in water (Equation 16.3), HCl acts as a Brønsted–Lowry acid 
+(it donates a proton to H2O), and H2O acts as a Brønsted–Lowry base (it accepts a proton 
+from HCl). We see that the H2O molecule serves as a proton acceptor by using one of the 
+nonbonding pairs of electrons on the O atom to “attach” the proton.
+Because the emphasis in the Brønsted–Lowry concept is on proton transfer, the 
+concept also applies to reactions that do

@@ -1,0 +1,26 @@
+iffer from that for the ground state (Fig. 28–6), although it is still
+spherically symmetric. For 
+the distributions are not spherically
+symmetric as shown in Figs. 28–9b (for 
+) and 28–9c (for
+or 
+).
+Although the spatial distributions of the electron can be calculated for the
+various states, it is difficult to measure them experimentally. Most of the experi-
+mental information about atoms has come from a careful examination of the
+emission spectra under various conditions as in Figs. 27–23 and 24–28.
+[Chemists refer to atomic states, and especially the shape in space of their
+probability distributions, as orbitals. Each atomic orbital is characterized by its
+quantum numbers n,
+and 
+and can hold one or two electrons (
+or
+); s-orbitals 
+are spherically symmetric, Figs. 28–6 and 28–9a;
+p-orbitals 
+can be dumbbell shaped with lobes, Fig. 28–9b, or donut shaped
+if combining
+and 
+Fig. 28–9c.]
+Selection Rules: Allowed and Forbidden Transitions
+Another prediction of quantum mechanics is that 

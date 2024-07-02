@@ -1,0 +1,13 @@
+ chromosome.
+(C) They are carriers and will get the disease only if they have children.
+(D) They have at least one normal (unaffected) copy of the X chromosome.
+6. Turner syndrome is a disease in which an individual is born with only a single X chromosome. Suppose the
+woman in the couple is a carrier for hemophilia and has a child with Turner syndrome. Would this child have
+the disease?
+(A) Yes, because the child would have only one copy of the X chromosome and it would be affected.
+(B) No, because women cannot be affected by hemophilia.
+(C) No, because the child would have to receive a normal copy of the X chromosome from its mother.
+(D) Maybe, it depends on which X chromosome she receives from her mother.
+7. Neuronal ceroid lipofuscinosis (NCL) is a group of autosomal recessive diseases characterized by blindness,
+loss of cognitive and motor function, and early death. One of the genes that is mutated in this disease is CLN3.
+When functional CLN3 protein is absent, neurons die because

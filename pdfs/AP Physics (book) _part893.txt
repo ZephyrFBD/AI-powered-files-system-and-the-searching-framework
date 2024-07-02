@@ -1,0 +1,41 @@
+TB
+F
+B
+F
+B
+FIGURE 8;52 Problem 47.
+Atwood machine.
+8;8 Angular Momentum
+60. (I) What is the angular momentum of a 0.270-kg ball revolv-
+ing on the end of a thin string in a circle of radius 1.35 m at
+an angular speed of 
+61. (I) (a) What is the angular momentum of a 2.8-kg uniform
+cylindrical grinding wheel of radius 28 cm when rotating at
+1300 rpm? (b) How much torque is required to stop it in
+6.0 s?
+62. (II) A person stands, hands at his side, on a platform that 
+is rotating at a rate of 
+If he raises his arms to a
+horizontal position, Fig. 8–55, the speed of rotation
+decreases to 
+(a) Why? (b) By what factor has
+his moment of inertia changed?
+0.60 revs.
+0.90 revs.
+10.4 rads?
+mB
+mA
+R
+2.5 m
+FIGURE 8;54
+Problem 58.
+90°
+R
+R
+FIGURE 8;53 Problem 57.
+FIGURE 8;55
+Problem 62.
+59. (III) A 1.80-m-long pole is balanced vertically with its tip
+on the ground. It starts to fall and its lower end does not slip.
+What will be the speed of the upper end of the pole just
+before it hits the ground? [

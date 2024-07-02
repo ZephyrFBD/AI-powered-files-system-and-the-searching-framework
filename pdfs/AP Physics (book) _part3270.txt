@@ -1,0 +1,20 @@
+s behind its own hole, so the holes migrate toward 
+the negative electrode. As the electrons tend to accumulate at one side of the
+material, the holes tend to accumulate on the opposite side. We will look at this
+phenomenon in more detail in the next Section.
+Calculating the energy gap. It is found that the conduc-
+tivity of a certain semiconductor increases when light of wavelength 345 nm or
+shorter strikes it, suggesting that electrons are being promoted from the valence
+band to the conduction band. What is the energy gap,
+for this semiconductor?
+APPROACH The longest wavelength (lowest energy) photon to cause an
+increase in conductivity has 
+and its energy 
+equals the
+energy gap.
+SOLUTION The gap energy equals the energy of a 
+photon:
+Which is transparent? The energy gap
+for silicon is 1.12 eV at room temperature, whereas that of zinc sulfide (ZnS) is
+3.6 eV. Which one of these is opaque to visible light, and which is transparent?
+RESPONSE Visible-light photons span energies from rou

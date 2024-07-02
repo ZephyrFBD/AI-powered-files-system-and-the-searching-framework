@@ -1,0 +1,40 @@
+intake of 
+14C ceases and its concentration 
+decreases through beta emission 
+to form 14N.
+1n
+0
+1n
+0
+14N +
+  7
+1p
+1
+14C +
+  6
+14C
+  6
+14N +
+  7
+0e
+1
+−
+14C + O2
+14CO2
+5
+▲ Figure 21.7 Creation and distribution of carbon-14. The ratio of carbon-14 to carbon-12 in a  
+dead animal or plant is related to the time since death occurred.
+Calculations Based on Half-Life
+The rate at which a sample decays is called its activity, and it is often expressed as 
+number of disintegrations per unit time. The becquerel (Bq) is the SI unit for express-
+ing activity. A becquerel is defined as one nuclear disintegration per second. An older, 
+but still widely used, unit of activity is the curie (Ci), defined as 3.7 * 1010 disintegra-
+tions per second, which is the rate of decay of 1 g of radium. Thus, a 4.0-mCi sample of 
+cobalt-60 undergoes
+ 
+4.0 * 10-3 Ci *
+3.7 * 1010 disintegrations>s
+1 Ci
+= 1.5 * 108 disintegrations>s 
+and so has an activity of 1.5 * 108 Bq.
+As a radioactive sample decays, the amount of

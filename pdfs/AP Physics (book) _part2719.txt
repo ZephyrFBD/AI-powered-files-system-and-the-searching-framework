@@ -1,0 +1,14 @@
+ instead be provided by the number of nearby subpixels of the same
+color that are turned on or off; this third system lets the eye “average” over many
+pixels, but reduces the sharpness or resolution of the picture.]
+24–12 Scattering of Light by the Atmosphere
+Sunsets are red, the sky is blue, and skylight is polarized (at least partially).
+These phenomena can be explained on the basis of the scattering of light by the
+molecules of the atmosphere. In Fig. 24–54 we see unpolarized light from the Sun
+impinging on a molecule of the Earth’s atmosphere. The electric field of the EM
+wave sets the electric charges within the molecule into oscillation, and the mole-
+cule absorbs some of the incident radiation. But the molecule quickly reemits this
+light since the charges are oscillating. As discussed in Section 22–2, oscillating
+electric charges produce EM waves. The intensity is strongest along the direction
+perpendicular to the oscillation, and drops to zero along the line of oscillation
+(Sec

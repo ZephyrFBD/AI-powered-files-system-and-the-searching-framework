@@ -1,0 +1,14 @@
+icle’s path is revealed.
+In a cloud chamber, used in the early days of nuclear physics, a gas is cooled
+to a temperature slightly below its usual condensation point (“supercooled”).
+Tiny droplets form around ions produced when a charged particle passes through
+(Fig. 30–15). Light scattering from these droplets reveals the track of the particle.
+The bubble chamber, invented in 1952 by Donald A. Glaser (1926–2013),
+makes use of a superheated liquid kept close to its normal boiling point. Bubbles
+characteristic of boiling form around ions produced by the passage of a charged
+particle, revealing paths of particles that recently passed through. Because a
+bubble chamber uses a liquid, often liquid hydrogen, many more interactions can
+occur than in a cloud chamber. A magnetic field applied across the chamber
+makes charged particle paths curve (Chapter 20) and allows the momentum of
+charged particles to be determined from the radius of curvature of their paths.
+A multiwire† chamber consists of

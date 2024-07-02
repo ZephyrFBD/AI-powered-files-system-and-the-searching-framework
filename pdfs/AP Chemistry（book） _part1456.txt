@@ -1,0 +1,36 @@
+MOs that are perpendicular to each other like the 2p orbitals from which 
+they were made. These p*
+2p orbitals have four lobes, pointing away from the two nuclei, as 
+shown in Figure 9.36.
+The 2pz orbitals on two atoms point directly at each other. Hence, overlap of two 
+2pz orbitals is greater than that of two 2px or 2py orbitals. We therefore expect the s
+2p MO 
+to be lower in energy (more stable) than the p
+2p MOs. Similarly, the s*
+2p MO should be 
+higher in energy (less stable) than the p*
+2p MOs.
+2p
+p
+x
+y
+y
+x
+2p
+p
+Full cycle of a sine wave
+sin x
+sin2 x
+Negative phase
+Nodal point
+(sin x 5 0)
+Nodal point
+(sin2 x = 0)
+Positive phase
+▲ Figure 9.37 Graphs for a sine function and the same function 
+squared.
+a CLoser Look Phases in Atomic and Molecular Orbitals
+Our discussion of atomic orbitals in Chapter 6 and molecular orbitals 
+in this chapter highlights some of the most important applications 
+of quantum mechanics in chemistry. In the quantum-mechanical 
+treatment of electrons in at

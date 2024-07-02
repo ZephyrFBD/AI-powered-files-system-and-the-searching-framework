@@ -1,0 +1,113 @@
+MATLAB 神经网络工具箱函数 
+说明：
+本文档中所列出的函数适用于MATLAB5.3 以上版本，
+为了简明起见，
+只列出了函数名，
+若需要进一步的说明，请参阅MATLAB 的帮助文档。 
+ 
+1. 网络创建函数 
+newp 
+ 
+ 
+创建感知器网络 
+newlind  
+设计一线性层 
+newlin  
+创建一线性层 
+newff 
+ 
+创建一前馈BP 网络 
+newcf 
+ 
+创建一多层前馈BP 网络 
+newfftd  
+创建一前馈输入延迟BP 网络 
+newrb 
+ 
+设计一径向基网络 
+newrbe  
+设计一严格的径向基网络 
+newgrnn  
+设计一广义回归神经网络 
+newpnn  
+设计一概率神经网络 
+newc 
+ 
+ 
+创建一竞争层 
+ 
+newsom  
+创建一自组织特征映射 
+newhop  
+创建一Hopfield 递归网络 
+newelm  
+创建一Elman 递归网络 
+2. 网络应用函数 
+sim  
+ 
+仿真一个神经网络 
+init 
+ 
+ 
+初始化一个神经网络 
+adapt 
+ 
+ 
+神经网络的自适应化 
+train 
+ 
+ 
+训练一个神经网络 
+3. 权函数 
+dotprod  
+权函数的点积 
+ddotprod 
+ 
+权函数点积的导数 
+dist 
+ 
+ 
+Euclidean 距离权函数 
+normprod 
+ 
+规范点积权函数 
+negdist  
+Negative 距离权函数 
+mandist  
+Manhattan 距离权函数 
+linkdist 
+ 
+Link 距离权函数 
+4. 网络输入函数 
+netsum  
+网络输入函数的求和 
+dnetsum  
+网络输入函数求和的导数 
+5. 传递函数 
+hardlim  
+硬限幅传递函数 
+hardlims 
+ 
+对称硬限幅传递函数 
+purelin  
+线性传递函数 
+tansig  
+正切S 型传递函数 
+logsig  
+对数S 型传递函数 
+dpurelin 
+ 
+线性传递函数的导数 
+dtansig  
+正切S 型传递函数的导数 
+dlogsig  
+对数S 型传递函数的导数 
+compet  
+竞争传递函数 
+radbas  
+径向基传递函数 
+satlins  
+对称饱和线性传递函数 
+6. 初始化函数 
+initlay  
+层与层之间的网络初始化函数 

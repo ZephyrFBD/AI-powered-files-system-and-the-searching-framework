@@ -1,0 +1,12 @@
+dies of
+evolution in populations in the real word (in the “wild”) generally demonstrate that natural selection is the strongest
+driving force for evolution.
+Investigation 3: Comparing DNA Sequences
+In this investigation, you use bioinformatics to establish evolutionary relationships. Bioinformatics is the computer
+analysis of biological information, such as DNA or protein sequences, for understanding biological processes.
+Part I: Using BLAST to Find Evolutionary Relationships
+You begin this investigation by observing an image of a fossil obtained from an excavation in China. Using features
+that you’ve detected in the image, you decide where on a provided cladogram the fossil organism should be
+positioned. A cladogram (or phylogenetic tree) is a “tree-like” graphical representation of the relatedness of species.
+Each branch of the phylogenetic tree represents the divergence of a species (or group of species) from a common
+ancestor. Each branch may also show the shared derived character 

@@ -1,0 +1,48 @@
+, 6 for the four visible lines, and R, called the
+Rydberg constant, has the value 
+Later it was found that
+this Balmer series of lines extended into the UV region, ending at 
+as shown in Fig. 27–24. Balmer’s formula, Eq. 27–9, also worked for these lines
+with higher integer values of n. The lines near 365 nm become too close together
+to distinguish, but the limit of the series at 365 nm corresponds to 
+(so
+in Eq. 27–9).
+Later experiments on hydrogen showed that there were similar series of lines
+in the UV and IR regions, and each series had a pattern just like the Balmer
+series, but at different wavelengths, Fig. 27–25. Each of these series was found to
+1n2 = 0
+n = q
+l = 365 nm,
+R = 1.0974 * 107 m–1.
+1
+l = R ¢ 1
+22 - 1
+n2 ≤,   n = 3, 4, p .
+788
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+FIGURE 27–24 Balmer series of
+lines for hydrogen.
+(nm)
+365
+410
+434
+486
+Violet
+Blue
+Blue-
+green
+UV
+Red
+656
+λ
+Lyman
+series
+UV
+IR
+Visible light
+Balmer series
+Paschen series
+91 nm
+122 nm
+365 nm

@@ -1,0 +1,18 @@
+e Greek letter psi (Ψ)] predicts which
+way water diﬀuses. Water potential is calculated from the solute potential
+(ΨS), which is dependent on solute concentration, and the pressure
+potential (ΨP), which results from the exertion of pressure on a solution.
+When a solution is open to the atmosphere, the pressure potential is
+equal to 0 because there is no tension on that solution.
+Ψ = ΨP + ΨS
+water potential = pressure potential + solute potential
+In an open beaker of pure water, the water potential is equal to zero.
+There is no solute and no tension on the solution, so the solute and
+pressure potentials are zero. If you add solute in a measured
+concentration to the beaker, you can calculate the solute potential using
+the following formula:
+ΨS = –iCRT
+where i is equal to the number of particles the molecule will dissolve into
+in water, C is the molar concentration, R is the pressure constant (equal to
+0.0831 L·bar/mol·K), and T is the temperature of the solution in Kelvins.
+For example, 

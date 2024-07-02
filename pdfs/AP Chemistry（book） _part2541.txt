@@ -1,0 +1,13 @@
+dicators can be used to measure pH. An acid–base 
+indicator is a colored substance that can exist in either an acid or a base form. The two 
+forms have different colors. Thus, the indicator has one color at lower pH and another at 
+higher pH. If you know the pH at which the indicator turns from one form to the other, 
+you can determine whether a solution has a higher or lower pH than this value. Litmus, 
+for example, changes color in the vicinity of pH 7. The color change, however, is not very 
+sharp. Red litmus indicates a pH of about 5 or lower, and blue litmus indicates a pH of 
+about 8 or higher.
+Some common indicators are listed in Figure 16.8. The chart tells us, for instance, 
+that methyl red changes color over the pH interval from about 4.5 to 6.0. Below pH 
+4.5 it is in the acid form, which is red. In the interval between 4.5 and 6.0, it is grad-
+ually converted to its basic form, which is yellow. Once the pH rises above 6 the con-
+version is complete, and the solution is yell

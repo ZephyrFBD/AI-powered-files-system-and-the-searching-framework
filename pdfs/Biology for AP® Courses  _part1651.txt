@@ -1,0 +1,13 @@
+d transcribe the eukaryotic gene.
+The mouse genome includes one gene and two pseudogenes for cytoplasmic thymidine kinase. Pseudogenes are genes that
+have lost their protein-coding ability or are no longer expressed by the cell. These pseudogenes are copied from mRNA and
+606
+Chapter 15 | Genes and Proteins
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+incorporated into the chromosome. For example, the mouse thymidine kinase promoter also has a conserved CAAT box
+(GGCCAATCT) at approximately -80. This sequence is essential and is involved in binding transcription factors. Further
+upstream of the TATA box, eukaryotic promoters may also contain one or more GC-rich boxes (GGCG) or octamer boxes
+(ATTTGCAT). These elements bind cellular factors that increase the efficiency of transcription initiation and are often
+identified in more “active” genes that are constantly being expressed by the cell.
+Transcription Factors for RNA Polymerase II
+The complexity of e

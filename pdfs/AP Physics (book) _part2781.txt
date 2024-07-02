@@ -1,0 +1,23 @@
+f 125 mm on the sensor becomes 
+per mm on the print.
+Hence an 
+print would be a sharp photograph. We could go 50%
+larger—11
+14 or maybe even 12
+18 inches.
+In order to make very large photographic prints, large-format cameras are used
+such as 
+film or sensor—and even 
+and 
+(using sheet film or glass plates).
+EXERCISE B The criterion of 0.030 mm as the diameter of a circle of confusion as
+acceptable sharpness is how many dots per mm on the sensor?
+Telephotos and Wide-angles
+Camera lenses are categorized into normal, telephoto, and wide angle, according
+to focal length and film size. A normal lens covers the sensor or film with a field
+of view that corresponds approximately to that of normal vision. A “normal” lens
+for 35-mm film has a focal length of 50 mm. The best digital cameras aim for a
+sensor of the same size†
+. (If the sensor is smaller, digital cam-
+eras sometimes specify focal lengths to correspond with classic 35-mm cameras.)
+Telephoto lenses act like telescopes to magnify imag

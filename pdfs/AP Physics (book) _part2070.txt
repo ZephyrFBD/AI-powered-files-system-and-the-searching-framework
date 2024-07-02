@@ -1,0 +1,23 @@
+ is
+(b) The terminal voltage of the battery is
+(c) Now we can work back and get the current in the 
+resistor. It must be
+the same as the current through the 
+shown in Fig. 19–10c (why?). The
+voltage across that 
+will be the emf of the battery minus the voltage 
+drops across r and the 
+resistor:
+Applying Ohm’s law, we get the current (call it 
+)
+This is the current through the 
+resistor.
+19–3 Kirchhoff’s Rules
+In the last few Examples we have been able to find the currents in circuits by com-
+bining resistances in series and parallel, and using Ohm’s law. This technique can
+be used for many circuits. However, some circuits are too complicated for that
+analysis. For example, we cannot find the currents in each part of the circuit shown
+in Fig. 19–11 simply by combining resistances as we did before.
+To deal with complicated circuits, we use Kirchhoff’s rules, devised by G. R.
+Kirchhoff (1824–1887) in the mid-nineteenth century. There are two rules, and they
+are simply convenient applicati

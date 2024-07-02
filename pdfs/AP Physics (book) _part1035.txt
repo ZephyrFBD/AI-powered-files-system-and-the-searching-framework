@@ -1,0 +1,43 @@
+le is
+the hydraulic lift, illustrated in Fig. 10–6a, in which a small input force is used to
+exert a large output force by making the area of the output piston larger than the area
+of the input piston. To see how this works, we assume the input and output
+pistons are at the same height (at least approximately). Then the external input
+force 
+by Pascal’s principle, increases the pressure equally throughout.
+Therefore, at the same level (see Fig. 10–6a),
+where the input quantities are represented by the subscript “in” and the output
+by “out.” Since
+we write the above equality as
+or
+The quantity 
+is called the mechanical advantage of the hydraulic lift, and
+it is equal to the ratio of the areas. For example, if the area of the output piston 
+is 20 times that of the input cylinder, the force is multiplied by a factor of 20.
+Thus a force of 200 lb could lift a 4000-lb car.
+F
+outF
+in
+F
+out
+F
+in
+= Aout
+Ain
+.
+F
+out
+Aout
+=
+F
+in
+Ain
+,
+P = FA,
+P
+out = P
+in
+F
+in,
+9.7 atm + 1.0 atm = 10.7 atm.
+A1

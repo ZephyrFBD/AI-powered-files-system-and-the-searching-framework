@@ -1,0 +1,19 @@
+ ingenuity. The substances oxidized at the anode and reduced by the cathode 
+determine the voltage, and the usable life of the battery depends on the quantities of 
+these substances packaged in the battery. Usually, a barrier analogous to the porous bar-
+rier of Figure 20.6 separates the anode and cathode half-cells.
+Different applications require batteries with different properties. The battery 
+required to start a car, for example, must be capable of delivering a large electrical cur-
+rent for a short time period, whereas the battery that powers a heart pacemaker must be 
+very small and capable of delivering a small but steady current over an extended time 
+period. Some batteries are primary cells, meaning they cannot be recharged and must 
+be either discarded or recycled after the voltage drops to zero. A secondary cell can be 
+recharged from an external power source after its voltage has dropped.
+Solve 
+Using the Nernst equation, we have:
+ 
+0.211 V = 0 - 0.0592 V
+2
+ log Q
+ 
+log Q =

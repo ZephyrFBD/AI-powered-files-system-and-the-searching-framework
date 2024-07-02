@@ -1,0 +1,24 @@
+ bond enthalpies (Table 8.3) of the carbon–
+carbon single, double, and triple bonds to deduce an aver-
+age p@bond contribution to the enthalpy. What fraction of 
+a single bond does this quantity represent? (b) Make a sim-
+ilar comparison of nitrogen–nitrogen bonds. What do you 
+observe? (c) Write Lewis structures of N2H4, N2H2, and N2, 
+and determine the hybridization around nitrogen in each 
+case. (d) Propose a reason for the large difference in your 
+observations of parts (a) and (b).
+ 9.118 
+Use average bond enthalpies (Table 8.3) to estimate ∆H for 
+the atomization of benzene, C6H6:
+C6H61g2 ¡ 6 C1g2 + 6 H1g2
+ 
+ 
+Compare the value to that obtained by using ∆Hf° data 
+given in Appendix C and Hess’s law. To what do you attri-
+bute the large discrepancy in the two values?
+ 
+[9.119]  Many compounds of the transition-metal elements con-
+tain direct bonds between metal atoms. We will assume 
+that the z-axis is defined as the metal–metal bond axis. 
+ 
+(a) Which of the 3d orbitals (Figure 6

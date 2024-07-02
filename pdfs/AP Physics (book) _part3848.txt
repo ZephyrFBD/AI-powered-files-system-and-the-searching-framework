@@ -1,0 +1,25 @@
+ in a short time given by
+During this time, the ball moves to the side a distance 
+given by
+The man at B, in this time , moves a distance
+The ball therefore passes behind him a distance s (Fig. C–2a) given by
+We saw earlier that
+and
+so
+We substitute
+(see above) and get
+(C–1)
+This same s equals the sideways displacement as seen from the noninertial rotat-
+ing system (Fig. C–2b).
+Equation C–1 corresponds to motion at constant acceleration, because as we
+saw in Chapter 2 (Eq. 2–11b),
+for a constant acceleration (with zero ini-
+tial velocity in the y direction). Thus, if we write Eq. C–1 in the form
+we see that the Coriolis acceleration
+is
+(C–2)
+This relation is valid for any velocity in the plane of rotation perpendicular to the
+axis of rotation (in Fig. C–2, the axis through point O perpendicular to the page).
+Because the Earth rotates, the Coriolis effect has some interesting manifesta-
+tions on the Earth. It affects the movement of air masses and thus has an influence
+on weather. In th

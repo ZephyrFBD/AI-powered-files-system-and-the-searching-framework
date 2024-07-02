@@ -1,0 +1,63 @@
+19–4:
+so
+(b) All the current that flows out of the battery passes first through 
+and then
+through 
+because they lie along a single path, Fig. 19–6b. So the current I is
+the same in both resistors; the potential difference V across the battery equals
+the total change in potential across the two resistors:
+Ohm’s law gives
+Hence
+The equivalent resistance, using Eq. 19–3, is 
+We 
+can also get 
+by thinking from the point of view of the battery: the total
+resistance 
+must equal the battery voltage divided by the current it delivers:
+NOTE The voltage across 
+is 
+and that
+across 
+is 
+each being half of the battery voltage. A simple
+circuit like Fig. 19–6b is thus often called a simple voltage divider.
+V
+2 = IR2 = 12.0 V,
+R2
+V
+1 = IR1 = (0.120 A)(100 ) = 12.0 V,
+R1
+Req = V
+I
+=
+24.0 V
+0.120 A = 200 .
+Req
+Req
+Req = R1 + R2 = 200 .
+I =
+V
+R1 + R2
+=
+24.0 V
+100  + 100  = 0.120 A.
+V = IR1 + IR2 = IAR1 + R2B.
+V = V
+1 + V
+2 .
+R2
+R1
+Req = 50 .
+1
+Req
+=
+1
+100  +
+1
+100  =
+2
+100  =
+1
+50 
+,
+Req = V

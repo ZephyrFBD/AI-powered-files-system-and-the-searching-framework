@@ -1,0 +1,19 @@
+ Thermodynamics 
+815
+◀ Figure 19.6 Possible arrangements of two  
+gas molecules in two flasks. (a) Before the 
+stopcock is opened, both molecules are 
+in the left flask. (b) After the stopcock 
+is opened, there are four possible 
+arrangements of the two molecules.
+816 
+CHAPTER 19 Chemical Thermodynamics
+possible arrangements for the two molecules once both flasks are available to them. 
+Because the molecular motion is random, all four arrangements are equally likely. 
+Note that now only one arrangement corresponds to the situation before the stopcock 
+was opened: both molecules in the left flask.
+Figure 19.6(b) shows that with both flasks available to the molecules, the probability 
+of the red molecule being in the left flask is two in four (top right and bottom left arrange-
+ments), and the probability of the blue molecule being in the left flask is the same (top 
+left and bottom left arrangements). Because the probability is 2>4 = 1>2 that each molecule 
+is in the left flask, the pro

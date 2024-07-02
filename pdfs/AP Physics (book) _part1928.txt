@@ -1,0 +1,26 @@
+air-filled parallel-plate capacitor for a circuit
+you are building. To make it a reasonable size, suppose you
+limit the plate area to 
+What would the gap have to
+be between the plates? Is this practically achievable?
+44. (II) How strong is the electric field between the plates of a
+air-gap capacitor if they are 2.0 mm apart and each
+has a charge of 
+45. (III) A 
+capacitor is charged to 746 V and a 
+capacitor is charged to 562 V. These capacitors are then dis-
+connected from their batteries. Next the positive plates are
+connected to each other and the negative plates are connected
+to each other. What will be the potential difference across
+each and the charge on each? [Hint: Charge is conserved.]
+46. (III) A 
+capacitor is charged by a 165-V battery 
+(Fig. 17–43a) and then is disconnected from the battery.
+When this capacitor 
+is then connected (Fig. 17–43b) to
+a second (initially uncharged)
+capacitor,
+the final voltage
+on each capacitor is 15 V.
+What is the value of 
+[Hint: Charge is co

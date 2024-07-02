@@ -1,0 +1,24 @@
+e molar mass: urms = 13RT>ℳ. The 
+most probable speed of a gas molecule is given by ump = 12RT>ℳ.
+MOLECULAR EFFUSION AND DIFFUSION (SECTION 10.8) It follows 
+from kinetic-molecular theory that the rate at which a gas undergoes 
+effusion (escapes through a tiny hole) is inversely proportional to the 
+square root of its molar mass (Graham’s law). The diffusion of one gas 
+through the space occupied by a second gas is another phenomenon re-
+lated to the speeds at which molecules move. Because moving molecules 
+undergo frequent collisions with one another, the mean free path—the 
+mean distance traveled between collisions—is short. Collisions between 
+molecules limit the rate at which a gas molecule can diffuse.
+REAL 
+GASES: 
+DEVIATIONS 
+FROM 
+IDEAL 
+BEHAVIOR 
+(SECTION 
+10.9) 
+ 
+Departures from ideal behavior increase in magnitude as pressure 
+increases and as temperature decreases. Real gases depart from ideal 
+behavior because (1) the molecules possess finite volume and (2) the 
+molecules

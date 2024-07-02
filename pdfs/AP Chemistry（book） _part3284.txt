@@ -1,0 +1,20 @@
+the tendency 
+of the reduction to occur; the more positive the value for E°
+red, the 
+greater the tendency of the substance to be reduced. Substances 
+that are easily reduced act as strong oxidizing agents; thus, E°
+red pro-
+vides a measure of the oxidizing strength of a substance. Substances 
+that are strong oxidizing agents produce products that are weak re-
+ducing agents and vice versa.
+FREE ENERGY AND REDOX REACTIONS (SECTION 20.5) The 
+emf, E, is related to the change in the Gibbs free energy, ∆G = -nFE, 
+where n is the number of moles of electrons transferred during the 
+redox process and F is the Faraday constant, defined as the quantity 
+890 
+CHAPTER 20 Electrochemistry
+of electrical charge on one mole of electrons: F = 96,485 C>mol. 
+Because E is related to ∆G, the sign of E indicates whether a redox 
+process is spontaneous: E 7 0 indicates a spontaneous process, and 
+E 6 0 indicates a nonspontaneous one. Because ∆G is also related to 
+the equilibrium constant for a reaction 1

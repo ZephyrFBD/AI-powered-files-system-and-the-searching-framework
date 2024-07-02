@@ -1,0 +1,96 @@
+
+n = 1.33
+P = 1f = –5.9 D.
+di = f = –17 cm,
+do = 30 cm,
+1
+do
+=
+1
+f - 1
+di
+=
+–
+1
+0.15 m +
+1
+0.10 m =
+–2 + 3
+0.30 m
+=
+1
+0.30 m
+.
+di = –0.10 m
+(12 cm - 2 cm) = 10 cm
+AdoB
+P = 1f = –6.7 D.
+f = –15 cm = –0.15 m
+1
+f =
+1
+do
++ 1
+di
+=
+1
+q +
+1
+–15 cm =
+–
+1
+15 cm
+.
+di = –15 cm.
+(17 cm - 2 cm) = 15 cm
+Ado = qB,
+Ado = qB,
+EXAMPLE 25;6
+SECTION 25–2
+The Human Eye; Corrective Lenses
+721
+P H Y S I C S  A P P L I E D
+Contact lenses—different
+f and P
+P H Y S I C S  A P P L I E D
+Underwater vision
+FIGURE 25–14 Example 25–6.
+2 cm
+(a)
+12 cm
+(Near point)
+17 cm
+(Far point)
+I
+(b)
+O
+Object
+at ∞
+I
+FIGURE 25–17 Leaf viewed (a) through a magnifying glass, and (b) with the unaided eye. The eye is
+focused at its near point in both cases.
+Image
+h
+F
+θ′
+θ′
+Object
+(a)
+(b)
+N
+( 25 cm for normal eye)
+h
+θ
+di
+do
+θ′
+θ′
+F
+h
+Image at ∞
+FIGURE 25–18 With the eye relaxed,
+the object is placed at the focal point,
+and the image is at infinity. Compare
+to Fig. 25–17a where the image is at
+the eye’s near point.
+25–3 Magnifying Gla

@@ -1,0 +1,25 @@
+ght (not shown), thus making
+north and south poles of the plates attached at either end. These end plates are made with triangular fingers that are bent 
+over the coil—hence there are alternating N and S poles quite close to one another, with magnetic field lines between 
+them as shown by the blue lines. As the rotor turns, these field lines pass through the fixed stator coils (shown on the 
+right for clarity, but in operation the rotor rotates within the stator), inducing a current in them, which is the output.
+P H Y S I C S  A P P L I E D
+Alternators
+SECTION 21–6
+599
+for a rectangle as derived. Thus, the output emf of the generator is sinusoidally alter-
+nating (see Fig.21–18 and Section 18–7). Since 
+is expressed in radians per second,
+we can write 
+where f is the frequency (in
+). The rms output (see
+Section 18–7, Eq. 18–8b) is 
+V
+rms = NBvA
+22
+.
+Hz = s–1
+v = 2pf,
+v
+An ac generator. The armature of a 60-Hz ac generator
+rotates in a 0.15-T magnetic field. If the area of the coil is 

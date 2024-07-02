@@ -1,0 +1,31 @@
+e band gap is tunable with 
+the crystal size, and thus all the colors of the rainbow can be obtained from just one 
+material, as shown for CdSe in Figure 12.45.
+Bulk
+Molecular
+limit
+Increasing
+band gap
+energy
+Semiconductor particles ~1–10 nm 
+diameter are “quantum dots.”
+Decreasing size
+Go Figure
+As the size of the quantum dots decreases, does the 
+wavelength of the emitted light increase or decrease?
+Size of CdSe quantum dots
+Band gap energy, Eg
+2 nm
+7 nm
+2.7 eV
+2.0 eV
+▲ Figure 12.45 Photoluminescence depends on particle 
+size at the nanoscale. When illuminated with ultraviolet 
+light, these solutions, each containing nanoparticles of the 
+semiconductor CdSe, emit light that corresponds to their 
+respective band gap energies. The wavelength of the light 
+emitted depends on the size of the CdSe nanoparticles.
+Give It Some Thought
+Large crystals of ZnS can show photoluminescence, emitting 
+ultraviolet photons with energies equal to the band gap energy and 
+a wavelength of 340 nm. Is it 

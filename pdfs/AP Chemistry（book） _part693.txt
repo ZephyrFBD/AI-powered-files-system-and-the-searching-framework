@@ -1,0 +1,18 @@
+ comes into the system from the stove, and water is released 
+to the surroundings as steam. 
+The systems we can most readily study in thermochemistry are called closed 
+ 
+systems—systems that can exchange energy but not matter with their surroundings. For 
+example, consider a mixture of hydrogen gas, H2, and oxygen gas, O2, in a cylinder fit-
+ted with a piston (Figure 5.4). The system is just the hydrogen and oxygen; the cylinder, 
+ 
+piston, and everything beyond them (including us) are the surroundings. If the gases 
+react to form water, energy is liberated:
+2 H21g2 + O21g2 ¡ 2 H2O1g2 + energy
+Although the chemical form of the hydrogen and oxygen atoms in the system is 
+changed by this reaction, the system has not lost or gained mass, which means it has not 
+ 
+exchanged any matter with its surroundings. However, it can exchange energy with its 
+surroundings in the form of work and heat.
+An isolated system is one in which neither energy nor matter can be exchanged with 
+the surrounding

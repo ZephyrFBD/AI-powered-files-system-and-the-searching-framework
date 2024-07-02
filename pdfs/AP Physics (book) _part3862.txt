@@ -1,0 +1,48 @@
+ coordinates of an event in the S frame when those in the
+frame are known. If those in the S frame are known, then the 
+coordinates
+are obtained from
+[Galilean]
+These four equations are the “inverse” transformation, and are obtained from
+Eqs. E–1 by exchanging primed and unprimed quantities and replacing v by
+This makes sense because, as seen from the 
+frame, S moves to the left 
+(negative x direction) with speed v.
+S¿
+–v.
+x¿ = x - vt,  y¿ = y,  z¿ = z,  t¿ = t.
+S¿
+S¿
+t = t¿.
+z = z¿
+y = y¿
+x = x¿ + vt¿
+t = t¿.
+z = z¿.
+y = y¿
+t¿, x = x¿ + vt¿.
+vt¿.
+t¿, S¿
+S¿
+t¿.
+S¿
+x¿, y¿, z¿
+APPENDIX E
+Galilean and Lorentz Transformations
+A-23
+Now suppose that the point P in Fig. E–1 represents an object that is 
+moving. Let the components of its velocity vector in 
+be 
+and 
+.
+(We use u to distinguish it from the relative velocity of the two frames, v.) Now
+and 
+where all quantities are as
+measured in the 
+frame. For example, if at time 
+the particle is at 
+and a
+short time later,
+it is at 
+then
+The ve

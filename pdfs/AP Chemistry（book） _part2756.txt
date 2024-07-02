@@ -1,0 +1,42 @@
+x = 2
+3 3.9 * 10-11
+4
+= 2.1 * 10-4 
+a
+2.1 * 10-4 mol CaF2
+1 L soln
+b a
+78.1 g CaF2
+1 mol CaF2
+b = 1.6 * 10-2 g CaF2>L soln
+SOLUTION
+Sample Exercise 17.12 
+Calculating Solubility from Ksp
+for the dissolution and set up a table of initial and equilibrium 
+concentrations. We then use the equilibrium-constant expression. 
+In this case we know Ksp, and so we solve for the concentrations of 
+the ions in solution. Once we know these concentrations, we use 
+the formula weight to determine solubility in g>L.
+Solve
+Assume that initially no salt has dissolved, 
+and then allow x mol/L of CaF2 to dissociate 
+completely when equilibrium is achieved:
+CaF21s2 ∆ Ca2 +1aq2 + 2 F-1aq2
+Initial concentration (M)
+—
+0
+0
+Change (M)
+—
++x
++2x
+Equilibrium concentration (M)
+—
+x
+2x
+The stoichiometry of the equilibrium dictates 
+that 2x mol>L of F- are produced for each 
+x mol>L of CaF2 that dissolve. We now use the 
+expression for Ksp and substitute the equilib-
+rium concentrations to solve for the value of x:
+ Ks

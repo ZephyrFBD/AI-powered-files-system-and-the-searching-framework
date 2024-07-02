@@ -1,0 +1,46 @@
+
+will
+a beam of protons
+traveling 
+at
+be bent?
+76. The magnetic field B at the center of a circular coil of wire
+carrying a current I (as in Fig. 20–9) is
+where N is the number of loops in the coil and r is its radius.
+Imagine a simple model in which the Earth’s magnetic
+field of about 1 G 
+near the poles is produced
+by a single current loop around the equator. Roughly
+estimate the current this loop would carry.
+77. A proton follows a spiral path through a gas in a uniform
+magnetic field of 0.010 T, perpendicular to the plane of 
+the spiral, as shown in Fig. 20–66. In two successive loops,
+at points P and Q, the radii are
+10.0 mm and 8.5 mm, respectively.
+Calculate the change in the kinetic
+energy of the proton as it travels
+from P to Q.
+A= 1 * 10–4 TB
+B = m0 NI
+2r
+,
+2.5 * 106 ms
+u
+12,000 Vm
+4.8 * 106 ms,
+I = 330 A
+FIGURE 20–63
+Problem 67.
+Q
+P
+FIGURE 20–66
+Problem 77.
+I = 5.0 A
+I
+I
+B
+B
+FIGURE 20–62
+Problem 66.
+73. Four very long straight parallel wires, located at the corners
+of a s

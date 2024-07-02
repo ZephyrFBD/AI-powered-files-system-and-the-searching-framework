@@ -1,0 +1,36 @@
+athode rays (Eq. 20–4). In the absence of an electric field, the
+rays are bent into a curved path, and applying Newton’s second law 
+with
+acceleration gives
+and thus
+The radius of curvature r can be measured and so can B. The velocity v can be
+found by applying an electric field in addition to the magnetic field. The electric
+e
+m
+=
+v
+Br
+.
+evB = m v2
+r
+,
+a = centripetal
+F = ma
+F = evB,
+field E is adjusted so that the cathode rays are undeflected and follow path b in
+Fig. 27–2. In this situation the upward force due to the electric field,
+is
+balanced by the downward force due to the magnetic field,
+We equate
+the two forces,
+and find
+Combining this with the above equation we have
+(27;1)
+The quantities on the right side can all be measured, and although e and m could
+not be determined separately, the ratio 
+could be determined. The accepted
+value today is 
+Cathode rays soon came to be called
+electrons.
+Discovery in Science
+The “discovery” of the electron, like many others in science, is no

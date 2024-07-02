@@ -1,0 +1,29 @@
+ an area and the number of members of each of those species in
+the area. Species diversity gives a more accurate assessment of the variety of organisms found in an area. One way
+of representing species diversity is the equation for Simpson’s Diversity Index:
+where n = the total number of organisms of a particular species and N = the total number of organisms of all the
+species. The higher Simpson’s Diversity Index, the more diverse the community.
+Practice with Simpson’s Diversity Index
+The equation for Simpson’s Diversity Index can be used to compare the diversity of two communities, as in the
+following example.
+Community A is in a suburban backyard, and Community B is in a forest. The species composition and the
+number of organisms of each species in each community are shown in the following tables.
+Community A
+Species
+Number of Organisms
+Grass
+11,000
+Camellia Shrubs
+4
+Elm Tree
+1
+Total Number of Organisms
+11,005
+Community B
+Species
+Number of Organisms
+Oak Trees
+2
+Earthworms
+500
+Ferns

@@ -1,0 +1,53 @@
+CTION 5–1
+Kinematics of Uniform Circular Motion
+111
+C A U T I O N
+The direction of motion 
+and 
+the acceleration 
+are not in 
+the same direction; instead, a
+B ⊥v
+B
+(a
+B)
+(v
+B)
+†Differences in the final digit can depend on whether you keep all digits in your calculator for v
+(which gives  
+), or if you use  
+(which gives  
+). Both results
+are valid since our assumed accuracy is about 
+(see Section 1–4).
+&0.1 ms
+aR = 94.8 ms2
+v = 7.54 ms
+aR = 94.7 ms2
+2
+2
+1
+1
+v
+B
+v
+B
+a
+B
+a
+B
+FIGURE 5;3 For uniform circular
+motion,
+is always perpendicular to v
+B.
+a
+B
+C A U T I O N
+In uniform circular motion, the speed is
+constant, but the acceleration is not zero
+Moon’s centripetal acceleration. The Moon’s nearly circu-
+lar orbit around the Earth has a radius of about 384,000 km and a period T of
+27.3 days. Determine the acceleration of the Moon toward the Earth.
+APPROACH Again we need to find the velocity v in order to find 
+SOLUTION In one orbit around the Earth, the Moon travels a distance 
+where  

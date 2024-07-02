@@ -1,0 +1,18 @@
+u can see that we obtain the ideal-gas equation:
+ 
+P = nRT
+V  
+[10.19]
+Related Exercises: 10.75, 10.76
+a cloSer look The Ideal-Gas Equation
+In any graph of the distribution of molecular speeds in a gas sample, the peak of 
+the curve represents the most probable speed, ump [Figure 10.12(b)]. The most prob-
+able speeds in Figure 10.12(a), for instance, are 4 * 102 m>s for the 0 °C sample and 
+5 * 102 m>s for the 100 °C sample. Figure 10.12(b) also shows the root-mean-square 
+(rms) speed, urms, of the molecules. This is the speed of a molecule possessing a kinetic 
+energy identical to the average kinetic energy of the sample. The rms speed is not quite 
+the same as the average (mean) speed, uav. The difference between the two is small, how-
+ever. In Figure 10.12(b), for example, the root-mean-square speed is about 4.9 * 102 m>s 
+and the average speed is about 4.5 * 102 m>s.
+If you calculate the rms speeds (as we will in Section 10.8), you will find that the rms 
+speed is almost 6 * 102 m>

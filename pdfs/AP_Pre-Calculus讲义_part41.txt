@@ -1,0 +1,20 @@
+ Inequalities 
+1.9.1 Polynomial Inequalities 
+An important consequence of the Intermediate Value Theorem is that the values of a 
+polynomial function P do not change sign between successive zeros. 
+In other words, the values of P between successive zeros are either all positive or all 
+negative. 
+Graphically, this means that between successive x-intercepts, the graph of P is entirely 
+above or entirely below the x-axis. 
+ 
+This property of polynomials allows us to solve polynomial inequalities like P(x) ≥ 0 by 
+finding the zeros of the polynomial and using test points between successive zeros to 
+determine the intervals that satisfy the inequality. 
+ 
+P(x) > 0 or P(x) < 0 for x between successive zeros of P. 
+ 
+1. Move All Terms to One Side. Rewrite the inequality so that all nonzero terms appear 
+on one side of the inequality symbol. 
+2. Factor the Polynomial. Factor the polynomial into irreducible factors, and find the real 
+zeros of the polynomial. 
+3. Find the Intervals. List the i

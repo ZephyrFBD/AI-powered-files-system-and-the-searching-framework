@@ -1,0 +1,20 @@
+ chemistry is an im-
+portant theme throughout all of chemistry that we begin to explore here.
+When a solution of an acid and a solution of a base are mixed, a neutralization 
+reaction occurs. The products of the reaction have none of the characteristic properties 
+of either the acidic solution or the basic solution. For example, when hydrochloric acid is 
+mixed with a solution of sodium hydroxide, the reaction is
+ 
+HCl1aq2 + NaOH1aq2 ¡ H2O1l2 + NaCl1aq2   
+[4.11]
+ 
+(acid)  
+(base)  
+(water)  
+(salt)
+Water and table salt, NaCl, are the products of the reaction. By analogy to this reaction, the 
+term salt has come to mean any ionic compound whose cation comes from a base (for exam-
+ple, Na+ from NaOH) and whose anion comes from an acid (for example, Cl- from HCl). In 
+general, a neutralization reaction between an acid and a metal hydroxide produces water and a salt.
+Because HCl, NaOH, and NaCl are all water-soluble strong electrolytes, the complete 
+ionic equation associated with Equatio

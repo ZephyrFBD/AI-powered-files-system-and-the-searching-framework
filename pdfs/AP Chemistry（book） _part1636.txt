@@ -1,0 +1,19 @@
+ Notice that the term 10.26 atm is the pressure corrected 
+for molecular volume. This value is higher than the ideal value, 
+10.00 atm, because the volume in which the molecules are free 
+to move is smaller than the container volume, 22.41 L. Thus, the 
+molecules collide more frequently with the container walls and 
+the pressure is higher than that of a real gas. The term 1.29 atm 
+makes a correction in the opposite direction for intermolecular 
+forces. The correction for intermolecular forces is the larger of the 
+two, and thus the pressure 8.97 atm is smaller than would be  
+observed for an ideal gas.
+ 
+▶Practice Exercise 1
+Calculate the pressure of a 2.975-mol sample of N2 in a 
+0.7500-L flask at 300.0 °C using the van der Waals equation 
+and then repeat the calculation using the ideal-gas equation. 
+Within the limits of the significant figures justified by these 
+parameters, will the ideal-gas equation overestimate or un-
+derestimate the pressure, and if so by how much?
+(a) Underes

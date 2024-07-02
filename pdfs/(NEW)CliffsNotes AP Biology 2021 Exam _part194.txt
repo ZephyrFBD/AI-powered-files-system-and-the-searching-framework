@@ -1,0 +1,15 @@
+Pi), the G protein-coupled receptor
+pathway is deactivated. The released GDP is free to reassociate with the G protein.
+Glycogen breakdown in muscle and liver cells is an example of a cAMP signaling pathway. When a G protein is
+activated by a signaling molecule (the hormone epinephrine), the G protein exchanges GTP for GDP on the effector
+protein (adenylyl cyclase), which, in turn converts ATP to cAMP, a second messenger. The cAMP phosphorylates
+(thus activating) a protein kinase (called PKA). Protein kinase activity leads to the activation of an enzyme that
+removes single units of glucose from glycogen. (See Chapter 13, “Animal Form and Function,” for details
+concerning the action of hormones.)
+Protein Kinase Receptors
+A protein kinase receptor is a transmembrane-protein enzyme. These enzymes are kinases, enzymes that add a
+phosphate group to a protein.
+ 
+Phosphorylation replaces the hydroxyl (OH−) group that occurs in an R
+ 
+group of an amino acid with a phosphate (PO43−) group. Such

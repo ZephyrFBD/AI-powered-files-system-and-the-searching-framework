@@ -1,0 +1,33 @@
+st points to determine 
+whether the graph of the polynomial lies above or below the x-axis on the intervals 
+determined by the zeros. Include the y-intercept in the table. 
+3. End Behavior. Determine the end behavior of the polynomial. 
+4. Graph. Plot the intercepts and other points you found in the table. Sketch a smooth 
+curve that passes through these points and exhibits the required end behavior. 
+ 
+Example 3 
+Let P(x) = x3 – 2x3 – 3x. 
+(a) Find the zeros of P. 
+(b) Sketch a graph of P. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39 
+1.6.5 Shape of the Graph Near a Zero 
+In general, if c is a zero of P and the corresponding factor x − c occurs exactly m times in 
+the factorization of P, then we say that c is a zero of multiplicity m. 
+Moreover, it can be shown by using calculus that near x = c the graph has the same 
+general shape as y = A (x-c)m. 
+If c is a zero of P of multiplicity m, then the shape of the graph of P near c is as follows. 
+ 
+ 
+Example 4 
+Graph the polynomial P(x) = x4 (x-2)3 (x+1)2 
+ 
+ 
+ 

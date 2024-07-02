@@ -1,0 +1,30 @@
+he 
+cathode:
+Analyze We have to look up E°
+red for two half-reactions. We then 
+use these values first to determine the cathode and the anode and 
+then to calculate the standard cell potential, E°
+cell.
+Plan The cathode will have the reduction with the more positive 
+E°
+red value, and the anode will have the less positive E°
+red. To write 
+the half-reaction at the anode, we reverse the half-reaction writ-
+ten for the reduction, so that the half-reaction is written as an 
+oxidation.
+Cathode: Sn2+1aq2 + 2 e- ¡ Sn1s2
+E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2
+= 1-0.14 V2 - 1-0.40 V2 = 0.26 V
+Anode: Cd1s2 ¡ Cd2+1aq2 + 2 e-
+SOLUTION
+Sample Exercise 20.7 
+Determining Half-Reactions at Electrodes and Calculating Cell Potentials
+The anode reaction, therefore, is the loss of electrons by Cd:
+(b) The cell potential is given by the difference in the standard re-
+duction potentials at the cathode and anode (Equation 20.8):
+Notice that it is unimportant that the E°
+red values of both half- 
+reacti

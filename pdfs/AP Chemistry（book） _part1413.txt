@@ -1,0 +1,29 @@
+rbitals.
+Which of the p orbitals do you think contributes the most in 
+the mixing that leads to the right-most  sp3 hybrid orbital in the 
+second row of the figure?
+ 
+SECTION 9.5   
+Hybrid Orbitals 
+359
+Go Figure
+Two O sp3 orbitals contain
+nonbonding electron pairs.
+O—H single bonds
+Tetrahedral arrangement
+of four sp3 hybrid orbitals
+about oxygen
+H
+H
+O
+▲ Figure 9.18 Hybrid orbital description of H2O.
+Does it matter which of the two sp3 hybrid orbitals are used to 
+hold the two nonbonding electron pairs?
+Hypervalent Molecules
+So far our discussion of hybridization has extended only to period 2 elements, spe-
+cifically carbon, nitrogen, and oxygen. The elements of period 3 and beyond intro-
+duce a new consideration because in many of their compounds these elements are 
+hypervalent— 
+they have more than an octet of electrons around the central atom. 
+ (Section 8.7) We saw in Section 9.2 that the VSEPR model works well to predict 
+the geometries of hypervalent molecules such as PCl5, SF6, 

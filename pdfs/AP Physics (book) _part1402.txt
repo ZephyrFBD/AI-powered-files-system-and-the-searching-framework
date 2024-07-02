@@ -1,0 +1,21 @@
+on in structures
+(a)
+(b)
+FIGURE 13–10 Example 13–4.
+FIGURE 13–12 Example 13–6.
+6.445 cm
+6.420 cm
+Do holes expand or contract? If you heat a
+thin, circular ring (Fig.13–10a) in the oven, does the ring’s hole get larger or smaller?
+RESPONSE If you guessed that the metal expands into the hole, making the
+hole smaller, it is not so. Imagine the ring is solid, like a coin (Fig. 13–10b).
+Draw a circle on it with a pen as shown. When the metal expands, the material
+inside the circle will expand along with the rest of the metal; so the dashed circle
+expands. Cutting the metal where the circle is shows that the hole in Fig. 13–10a
+increases in diameter.
+CONCEPTUAL EXAMPLE 13;4
+Ring on a rod. An iron ring is to fit snugly on a cylindrical
+iron rod (Fig. 13–11). At 20°C, the diameter of the rod is 6.445 cm and the inside
+diameter of the ring is 6.420 cm. To slip over the rod, the ring must be slightly
+larger than the rod diameter by about 0.008 cm. To what temperature must the ring
+be brought if 

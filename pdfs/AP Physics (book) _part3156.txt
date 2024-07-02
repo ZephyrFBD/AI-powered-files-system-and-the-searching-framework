@@ -1,0 +1,25 @@
+phenomena as well. (See also note at end of this Section.)
+Let us now look at the structure of some of the simpler atoms when they are
+in the ground state. After hydrogen, the next simplest atom is helium with two
+electrons. Both electrons can have
+because one can have spin up 
+and the other spin down 
+thus satisfying the exclusion principle.
+Since 
+then and 
+must be zero (Table 28–1, page 813). Thus the two
+electrons have the quantum numbers indicated at the top of Table 28–2.
+Lithium has three electrons, two of which can have 
+But the third
+cannot have 
+without violating the exclusion principle. Hence the third
+electron must have 
+It happens that the 
+level has a lower
+energy than 
+So the electrons in the ground state have the quantum
+numbers indicated in Table 28–2. The quantum numbers of the third electron
+could also be, say,
+But the atom in this case would
+be in an excited state, because it would have greater energy. It would not be long
+before it jumped to the ground state with t

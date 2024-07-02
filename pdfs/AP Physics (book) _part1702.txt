@@ -1,0 +1,32 @@
+s, two queens, and an ace; and
+(d) any hand having no two equal-value cards (no pairs,
+etc.). Discuss your ranking in terms of microstates and
+macrostates.
+*15–11 Energy Resources
+*53. (I) Solar cells (Fig. 15–26) can produce about 40 W of elec-
+tricity per square meter of surface area if directly facing the
+Sun. How large an area is required to supply the needs of 
+a house that requires 
+Would this fit on the
+roof of an average house? (Assume the Sun shines about
+)
+9 hday.
+24 kWhday?
+FIGURE 15–27
+Problem 55:
+Flaming Gorge
+Dam on the
+Green River in
+Utah.
+General Problems
+441
+56. An inventor claims to have built an engine that produces
+2.00 MW of usable work while taking in 3.00 MW of thermal
+energy at 425 K, and rejecting 1.00 MW of thermal energy
+at 215 K. Is there anything fishy about his claim? Explain.
+57. When 
+of heat is added to a gas enclosed in a
+cylinder fitted with a light frictionless piston maintained at
+atmospheric pressure, the volume is observed to increase
+from 
+to 

@@ -1,0 +1,17 @@
+e multiple bonds and 
+more than one resonance structure, such as C6H6, the p bonds are 
+delocalized; that is, the p bonds are spread among several atoms.
+MOLECULAR ORBITALS (SECTION 9.7) Molecular orbital theory is 
+another model used to describe the bonding in molecules. In this 
+model, the electrons exist in allowed energy states called molecular 
+orbitals (MOs). An MO can extend over all the atoms of a molecule. 
+Like an atomic orbital, a molecular orbital has a definite energy 
+and can hold two electrons of opposite spin. We can build mo-
+lecular orbitals by combining atomic orbitals on different atomic 
+centers. In the simplest case, the combination of two atomic or-
+bitals leads to the formation of two MOs, one at lower energy and 
+one at higher energy relative to the energy of the atomic orbitals. 
+ 
+The lower-energy MO concentrates charge density in the re-
+gion between the nuclei and is called a bonding molecular or-
+bital. The higher-energy MO excludes electrons from the regi

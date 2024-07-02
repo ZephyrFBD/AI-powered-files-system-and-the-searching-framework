@@ -1,0 +1,62 @@
+.
+vA
+œ
+1
+2 mAvA
+2 + 1
+2 mB vB
+2
+=
+1
+2 mAvA
+œ2 + 1
+2 mB vB
+œ2 .
+mAvA + mB vB = mA vA
+œ + mBvB
+œ .
+v 6 0,
+v 7 0,
+vB
+œ ,
+vA
+œ
+vB
+vA
+keA + keB = keA
+œ + keB
+œ + thermal and other forms of energy.
+(¿)
+1
+2 mAvA
+2 + 1
+2 mB vB
+2
+=
+1
+2 mAvA
+œ2 + 1
+2 mB vB
+œ2 .
+ 
+total ke before = total ke after
+SECTION 7–5
+Elastic Collisions in One Dimension
+179
+C A U T I O N
+Relative speeds (one dimension only)
+We can rewrite this equation as
+or
+[head-on (1-D) elastic collision] (7;7)
+This is an interesting result: it tells us that for any elastic head-on collision, the
+relative speed of the two objects after the collision  
+has the same magnitude
+(but opposite direction) as before the collision, no matter what the masses are.
+Equation 7–7 was derived from conservation of kinetic energy for elastic 
+collisions, and can be used in place of it. Because the v’s are not squared in
+Eq. 7–7, it is simpler to use in calculations than the conservation of kinetic 
+energy equation (Eq. 7–6) directly.
+AvA
+œ - vB
+œ B
+vA -

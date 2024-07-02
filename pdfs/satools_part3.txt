@@ -1,0 +1,24 @@
+’s running some form of the Windows® operating system: put the uncompressed 
+“satools” folder in the “Program Files” directory on your “C:” drive. 
+ 
+• 
+On Macintosh computers, put the uncompressed “satools” folder in your “Applications” 
+folder. 
+ 
+• 
+On Unix systems, put the uncompressed directory “satools” in your home directory. 
+ 
+2.1.  Completing the installation for Matlab 
+ 
+You need to have Matlab version 6 (SR12) or better installed on your computer. 
+ 
+Add the “m” directory of “satools” to your Matlab path.  Typically this is done by adding an addpath 
+command to your Matlab startup file.  If you are not sure whether or not you have a startup.m file: 
+ 
+1. Start Matlab. 
+2. By default, the initial directory is probably your working directory.  On a PC, this is probably 
+something like C:\matlab_sv12\work.  To check, try 
+>> pwd 
+at the Matlab prompt. 
+3. Edit (or create a new) startup.m file in this directory.  Add an addpath statement for the “m” 
+directory of “satools”.  O

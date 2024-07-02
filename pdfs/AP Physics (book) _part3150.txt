@@ -1,0 +1,166 @@
+each of these, we
+have 6 more possible states. Finally, for 
+can only be 0, and there are
+only 2 states corresponding to
+and 
+The total number of states is
+as detailed in the following Table:
+10 + 6 + 2 = 18,
+– 1
+2 .
+ms = ± 1
+2
+l = 0,  ml
+– 1
+2
+± 1
+2
+ms
+1, 0, –1,
+l = 1,  ml
+2 * 5 = 10
+l = 2,
+– 1
+2
+± 1
+2
+ms
+2, 1, 0, –1, –2,
+l = 2,  ml
+l = 2, 1, 0.
+n = 3, l
+n = 3?
+n  3.
+CONCEPTUAL EXAMPLE 28;4
+TABLE 28–1 Quantum Numbers for an Electron
+Name
+Symbol
+Possible Values
+Principal
+n
+Orbital
+For a given n:
+can be 
+Magnetic
+For given n and 
+can be 
+Spin
+For each set of n,
+and 
+can be 
+or – 1
+2 .
+± 1
+2
+ml: ms
+l,
+ms
+l, l - 1, p, 0, p, –l.
+l: ml
+ml
+0, 1, 2, p, n - 1.
+l
+l
+1, 2, 3, p , q.
+n
+3
+2
+2
+3
+2
+2
+3
+2
+1
+3
+2
+1
+3
+2
+0
+3
+2
+0
+3
+2
+3
+2
+3
+2
+3
+2
+– 1
+2
+–2
+1
+2
+–2
+– 1
+2
+–1
+1
+2
+–1
+– 1
+2
+1
+2
+– 1
+2
+1
+2
+– 1
+2
+1
+2
+ms
+mL
+L
+n
+3
+1
+1
+3
+1
+1
+3
+1
+0
+3
+1
+0
+3
+1
+3
+1
+3
+0
+0
+3
+0
+0
+– 1
+2
+1
+2
+– 1
+2
+–1
+1
+2
+–1
+– 1
+2
+1
+2
+– 1
+2
+1
+2
+ms
+mL
+L
+EXERCISE C An electron has
+Which of the following values of 
+are
+possible: 4, 3, 2, 1, 0, –1, 

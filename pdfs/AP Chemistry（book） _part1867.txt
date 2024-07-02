@@ -1,0 +1,27 @@
+possible compositions. When two metals differ in 
+radii by more than about 15%, solubility is generally more limited.
+For an interstitial alloy to form, the solute atoms must have a much smaller bond-
+ing atomic radius than the solvent atoms. Typically, the interstitial element is a non-
+metal that makes covalent bonds to the neighboring metal atoms. The presence of the 
+Therefore, a diagonal across a face of the unit cell is equal to four 
+times the atomic radius, r. Using simple trigonometry, and the 
+identity cos145°2 = 12>2, we can show that
+ 
+a = 4r  cos145°2 = 4r122>22 = 12222r 
+Finally, we calculate the packing efficiency by dividing the vol-
+ume occupied by atoms by the volume of the cubic unit cell, a3:
+Packing efficiency =
+volume of atoms
+volume of unit cell =
+116
+3 2pr3
+122223r3
+ 
+ 
+  
+= 0.74 or 74%
+ 
+▶Practice Exercise 1
+Consider the two-dimensional square lattice of Figure 12.4. The 
+“packing efficiency” for a two-dimensional structure would be 
+the area of the atoms divid

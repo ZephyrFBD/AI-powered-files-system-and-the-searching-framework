@@ -1,0 +1,41 @@
+ and the lever arm in (a) is given. In (b) we have
+to take into account the angle to get the lever arm.
+SOLUTION (a) 
+and 
+so
+(b) Because the arm is at an angle below the horizontal, the lever arm is shorter
+(Fig. 8–14c) than in part (a):
+where 
+is the
+angle between 
+and r. F is still 700 N, so
+The arm can exert less torque at this angle than when it is at 90°. Weight machines
+at gyms are often designed to take this variation with angle into account.
+NOTE In (b), we could instead have used 
+As shown in Fig. 8–14d,
+Then 
+gives the
+same result.
+t = rF
+⊥= rF sin u = (0.050 m)(700 N)(0.866)
+F
+⊥= F sin 60°.
+t = rF
+⊥.
+t = (0.050 m)(0.866)(700 N) = 30 mN.
+F
+B
+u = 60°
+r⊥= (0.050 m)(sin 60°),
+t = r⊥F = (0.050 m)(700 N) = 35 mN.
+r⊥= 0.050 m,
+F = 700 N
+EXAMPLE 8;8
+EXERCISE B Two forces (
+and 
+) are applied to a meter stick which
+can rotate about its left end, Fig. 8–15. Force 
+is applied perpendicularly at the mid-
+point. Which force exerts the greater torque:
+or both the same?
+When more than o

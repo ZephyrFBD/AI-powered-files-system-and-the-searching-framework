@@ -1,0 +1,17 @@
+terozygous genotype.
+q2 is the frequency of the homozygous recessive genotype.
+Water Equations
+The total water potential is the sum of the pressure potential and the solute potential:
+In open containers in equilibrium with their environment:
+Solute potential can be calculated with the following equation:
+i = ionization constant for the solute
+C = concentration of the solute in moles per liter
+R = pressure constant 
+T = temperature in Kelvin (Note: Kelvin = °C + 273)
+pH balance is vital to living organisms and can be calculated with the following equation:
+Equations Related to Ecology
+Greater biodiversity can help ecosystems withstand disruptions (environmental changes). One way to measure the
+biodiversity of an ecosystem is by using the Simpson’s Diversity Index:
+N = the total number of organisms of all species in an entire ecosystem
+n = the total number of organisms of one particular species in an ecosystem
+Measuring population growth is important in understanding ecosystems. The foll

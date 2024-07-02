@@ -1,0 +1,24 @@
+horter the wavelength, the
+finer the detail that can be obtained. This is one reason why particle accelerators
+of higher and higher energy have been built in recent years: to probe ever deeper
+into the structure of matter, to smaller and smaller size.
+High resolution with electrons. What is the wavelength,
+and hence the expected resolution, for 1.3-GeV electrons?
+APPROACH Because 1.3 GeV is much larger than the electron mass, we must
+be dealing with relativistic speeds. The momentum of the electrons is found from
+Eq. 26–9, and the wavelength is
+SOLUTION Each electron has 
+which is about
+2500 times the rest energy of the electron 
+Thus we can
+ignore the term 
+in Eq. 26–9,
+and we solve for p:
+Therefore the de Broglie wavelength is
+where
+Hence
+or 0.96 fm. This resolution of about 1 fm is on the order of the size of nuclei (see
+Eq. 30–1).
+NOTE The maximum possible resolution of this beam of electrons is far greater
+than for a light beam in a light microscope 
+EXERCISE A What is the wavelen

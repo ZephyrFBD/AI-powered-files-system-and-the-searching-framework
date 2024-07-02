@@ -1,0 +1,16 @@
+of these rates are the same.
+Table 14.2 shows that changing the initial concentration of either reactant changes 
+the initial reaction rate. If we double 3NH4
++4 while holding 3NO2
+-4 constant, the rate 
+doubles (compare experiments 1 and 2). If we increase 3NH4
++4 by a factor of 4 but 
+*Equation 14.4 does not hold true if substances other than C and D are formed in significant 
+amounts. For example, sometimes intermediate substances build in concentration before form-
+ing the final products. In that case, the relationship between the rate of disappearance of reac-
+tants and the rate of appearance of products is not given by Equation 14.4. All reactions whose 
+rates we consider in this chapter obey Equation 14.4.
+When we speak of the rate of a reaction without specifying a particular reactant or 
+product, we utilize the definition in Equation 14.4.*
+(a) How is the rate at which ozone disappears related to the rate at which oxygen appears in the reaction 2 O31g2 ¡ 3 O21g2?
+(b) If the ra

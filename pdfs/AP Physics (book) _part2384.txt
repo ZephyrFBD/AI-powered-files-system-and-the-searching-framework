@@ -1,0 +1,77 @@
+
+(a)
+y
+x
+VL0 = I0XL
+VR0 = I0R
+VC0 = I0XC
+I0
+(b)
+ft
+2π
+y
+x
+VL0
+VL
+VR
+VC
+VR0
+VC0
+I0
+I
+ft
+2π
+(c)
+FIGURE 21–44 Phasor diagram for a
+series LRC circuit at (a) 
+(b) time 
+later. (c) Projections on the x axis
+which give I,
+at time .
+t
+V
+L
+V
+C,
+V
+R,
+t
+t = 0,
+FIGURE 21–43 An LRC circuit.
+y
+x
+VL0 − VC0
+V
+VR0
+I0
+V0
+f
+2 ft
+π
+FIGURE 21–45 Phasor diagram for a
+series LRC circuit showing the sum
+vector, V
+0.
+C A U T I O N
+Peak voltages do not add to yield
+source voltage
+*SECTION 21–14
+LRC Series AC Circuit
+615
+right triangle), that (use Eq. 21–13b)
+Thus, from Eq. 21–14, the total impedance Z is
+(21;15)
+Also from Fig. 21–45, we can find the phase angle 
+between voltage and current:
+(21;16a)
+and
+(21;16b)
+Figure 21–45 was drawn for the case 
+and the current lags the source
+voltage by 
+When the reverse is true,
+then 
+in Eqs. 21–16 is less
+than zero, and the current leads the source voltage.
+We saw earlier that power is dissipated only by a resistance; none is dissipated
+by inductance or capacitance. Ther

@@ -1,0 +1,26 @@
+ 103 cm3
+Mass: 837.63 g
+▲ Figure 1.26 Uncertainty and significant figures in a measurement.
+ 
+SECTION 1.7   
+Dimensional Analysis 
+29
+2.54 cm
+Number of centimeters 5 (8.50 in.)
+21.6 cm
+5
+1 in.
+Desired unit
+Given unit
+The unit inches in the denominator of the conversion factor cancels the unit inches 
+in the given data (8.50 inches), so that the centimeters unit in the numerator of the 
+conversion factor becomes the unit of the final answer. Because the numerator and 
+denominator of a conversion factor are equal, multiplying any quantity by a con-
+version factor is equivalent to multiplying by the number 1 and so does not change 
+the intrinsic value of the quantity. The length 8.50 in. is the same as the length 
+ 
+21.6 cm.
+In general, we begin any conversion by examining the units of the given data and 
+the units we desire. We then ask ourselves what conversion factors we have available to 
+take us from the units of the given quantity to those of the desired one. When we mul-
+tiply a qu

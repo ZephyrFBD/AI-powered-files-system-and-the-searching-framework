@@ -1,0 +1,24 @@
+ges in enthalpy. For example, when 
+NaCl dissolves in water, the process is slightly endothermic, ∆Hsoln = 3.9 kJ>mol. We can 
+use Hess’s law to analyze how the solute–solute, solvent–solvent, and solute–solvent inter-
+actions influence the enthalpy of solution. 
+ (Section 5.6)
+We can imagine the solution process as having three components, each with an 
+associated enthalpy change: A cluster of n solute particles must separate from one 
+another 1∆Hsolute2, a cluster of m solvent particles separate from one another 1∆Hsolvent2, 
+and these solute and solvent particles mix 1∆Hmix2.
+1. 1solute2n ∆ n solute 
+ 
+   ∆Hsolute
+2. 1solvent2m ∆ m solvent 
+ 
+   ∆Hsolvent
+3. n solute +  m solvent ∆ solution  
+   ∆Hmix
+4. 1solute2n +  1solvent2m ∆ solution 
+∆Hsoln = ∆Hsolute + ∆Hsolvent + ∆Hmix
+As seen above, the overall enthalpy change, ∆Hsoln, is the sum of the three steps:
+ 
+∆Hsoln = ∆Hsolute + ∆Hsolvent + ∆Hmix 
+[13.1]
+Separation of the solute particles from one another always requires an input o

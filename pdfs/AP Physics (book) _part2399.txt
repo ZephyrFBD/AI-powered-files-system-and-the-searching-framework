@@ -1,0 +1,24 @@
+circuit is often called an oscillator
+circuit. What is it that oscillates?
+*29. Is the ac current in the inductor always the same as the
+current in the resistor of an LRC circuit? Explain.
+1. A coil rests in the plane of the page while a magnetic field
+is directed into the page. A clockwise current is induced
+(a) when the magnetic field gets stronger.
+(b) when the size of the coil decreases.
+(c) when the coil is moved sideways across the page.
+(d) when the magnetic field is tilted so it is no longer
+perpendicular to the page.
+2. A wire loop moves at constant velocity without rotation
+through a constant magnetic field. The induced current in
+the loop will be
+(a) clockwise.
+(b) counterclockwise.
+(c) zero.
+(d) We need to know the orientation of the loop relative to
+the magnetic field.
+3. A square loop moves to the right from an area where
+completely through a region containing a uniform
+magnetic field directed into the page (Fig. 21–52), and then
+out to
+after point L. A current is induced

@@ -1,0 +1,19 @@
+ on the value of a quantum number, n, called the 
+principal quantum number. The value of n must be a positive integer 
+(1, 2, 3, . . .), and each value of n corresponds to a different specific 
+energy, En. The energy of the atom increases as n increases. The low-
+est energy is achieved for n = 1; this is called the ground state of the 
+ 
+hydrogen atom. Other values of n correspond to excited states. Light 
+is emitted when the electron drops from a higher-energy state to a 
+lower-energy state; light is absorbed to excite the electron from a 
+lower-energy state to a higher one. The frequency of light emitted or 
+absorbed is such that hn equals the difference in energy between two 
+allowed states.
+WAVE BEHAVIOR OF MATTER (SECTION 6.4) De Broglie  
+proposed 
+that matter, such as electrons, should exhibit wave-like proper-
+ties. This hypothesis of matter waves was proved experimentally by 
+ 
+observing the diffraction of electrons. An object has a characteristic 
+wavelength that depends on i

@@ -1,0 +1,22 @@
+of the stomata, then, is controlled by the movement of water into and out of the guard cells.
+Following is a description of the significant events that control that water movement:
+1. An electrical gradient is established. The opening of stomata is
+ 
+initiated by the active pumping of H+ out of the guard cells by H+
+ 
+ATPase proton pumps. This establishes an electrical gradient across the
+ 
+cell membrane. The H+ pump is activated by sunlight (specifically,
+ 
+blue-light sensing by the chloroplast).
+ 
+2. An osmotic gradient is established. The electrical gradient drives the
+ 
+uptake of potassium ions (K+) into the guard cells. Chloride ions (Cl−)
+ 
+follow, driven by the electrical imbalance. This influx of ions creates a solute gradient that drives osmosis.
+3. Water enters the guard cells and the stomata open. As a result of the osmotic gradient, water enters the cell,
+guard cells expand, and the stomata open.
+4. Water exits the guard cells and the stomata close. Closing of the
+ 
+stomata

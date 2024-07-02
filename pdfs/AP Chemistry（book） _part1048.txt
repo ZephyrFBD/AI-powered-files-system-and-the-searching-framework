@@ -1,0 +1,21 @@
+
+to heat the coffee in part (a)?
+ 6.106  The stratospheric ozone 1O32 layer helps to protect us 
+from harmful ultraviolet radiation. It does so by absorbing 
+ultraviolet light and falling apart into an O2 molecule and an 
+oxygen atom, a process known as photodissociation.
+O31g2 ¡ O21g2 + O1g2
+ 
+ Use the data in Appendix C to calculate the enthalpy change 
+for this reaction. What is the maximum wavelength a pho-
+ton can have if it is to possess sufficient energy to cause this 
+dissociation? In what portion of the spectrum does this 
+wavelength occur?
+ 6.107  The discovery of hafnium, element number 72, provided 
+a controversial episode in chemistry. G. Urbain, a French 
+chemist, claimed in 1911 to have isolated an element 
+number 72 from a sample of rare earth (elements 58–71) 
+compounds. However, Niels Bohr believed that hafnium 
+was more likely to be found along with zirconium than 
+with the rare earths. D. Coster and G. von Hevesy, working 
+in Bohr’s laboratory in Copenhagen, showed 

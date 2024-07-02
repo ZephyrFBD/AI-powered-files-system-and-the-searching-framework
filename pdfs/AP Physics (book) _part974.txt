@@ -1,0 +1,19 @@
+ light, was painted about 
+1740 by Panini. Photographs do not 
+capture its grandeur as well as this 
+painting does.
+To make an accurate analysis of a stone arch is quite difficult in practice.
+But if we make some simplifying assumptions, we can show why the horizontal
+component of the force at the base is less for a pointed arch than for a round 
+one. Figure 9–31 shows a round arch and a pointed arch, each with an 8.0-m
+span. The height of the round arch is thus 4.0 m, whereas that of the pointed arch
+is larger and has been chosen to be 8.0 m. Each arch supports a weight of
+which, for simplicity, we have divided into two
+parts (each
+) acting on the two halves of each arch as shown. To be in
+equilibrium, each of the supports must exert an upward force of 
+For
+rotational equilibrium, each support also exerts a horizontal force,
+at the
+base of the arch, and it is this we want to calculate. We focus only on the right half
+of each arch. We set equal to zero the total torque calculated about

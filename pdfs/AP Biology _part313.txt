@@ -1,0 +1,16 @@
+e X-ray
+diffraction analysis of DNA (from Rosalind Franklin). However, the fact
+that much of the components of DNA were known before Watson and
+Crick began their model building does not detract from the brilliance of
+their achievement. Understanding the structure of DNA gives a foundation
+to understand how DNA could replicate itself. Watson and Crick received
+******ebook converter DEMO Watermarks*******
+the Nobel prize in 1962 for correctly describing the structure of DNA.
+Meselson and Stahl (1958) proved that DNA replicates in a
+semiconservative fashion, as Francis Crick predicted. They cultured
+bacteria in a medium containing heavy nitrogen (15N), allowing the
+bacteria to incorporate this heavy nitrogen into their DNA as they
+replicated and divided. These bacteria were then transferred to a medium
+containing light nitrogen (14N) and allowed to replicate and divide only
+once. The bacteria that resulted from this final replication were spun in a
+centrifuge and found to be midway in den

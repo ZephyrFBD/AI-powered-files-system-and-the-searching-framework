@@ -1,0 +1,31 @@
+6; for every 6 units increase in x, y will increase by 1 unit. 
+B. 6; for every 1 unit increase in x, y will increase by 6 units. 
+C. -1/6; for every 6 units increase in x, y will decrease by 1 unit. 
+D. -6; for every 1 unit increase in x, y will decrease by 6 units. 
+ 
+ 
+2. Find -f(x) when f(x) = 2x2 +5x +2. 
+A. 2x2 -5x -2 
+B. 2x2 -5x +2 
+C. 2x2 -5x -2 
+D. -2x2 -5x +2 
+ 
+ 
+3. List the real zero and multiplicity of the polynomial and determine whether the graph 
+crosses or touches the x-axis. 
+f(x) = 2(x+4)(x-5)2 
+A. 4: multiplicity 1, crosses x-axis; -5: multiplicity 2, touches x-axis. 
+B. -4: multiplicity 1, crosses x-axis; 5: multiplicity 2, touches x-axis. 
+C. 4: multiplicity 1, touches x-axis; -5: multiplicity 2, crosses x-axis. 
+D. -4: multiplicity 1, touches x-axis; 5: multiplicity 2, crosses x-axis. 
+ 
+ 
+ 
+62 
+ 
+4. 
+ 
+For the graph of the function y=f(x), find the absolute maximum and the absolute 
+minimum. 
+A. Absolute max: f(5) =6; Absolute min: f(2) =1 
+B. Absolute max: f(7)

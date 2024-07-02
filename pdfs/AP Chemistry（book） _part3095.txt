@@ -1,0 +1,27 @@
+
+of ∆G° to calculate the Ksp values for the two salts at 298 K. (d) Sodium chloride is considered a soluble salt, whereas silver 
+chloride is considered insoluble. Are these descriptions consistent with the answers to part (c)? (e) How will ∆G° for the solution 
+process of these salts change with increasing T 
+? What effect should this change have on the solubility of the salts?
+Sample Integrative Exercise 
+Putting Concepts Together
+SOLUTION
+(a) We will use Equation 19.14 along with ∆Gf° values from Ap-
+pendix C to calculate the ∆G°
+soln values for each equilibrium. 
+(As we did in Section 13.1, we use the subscript “soln” to indi-
+cate that these are thermodynamic quantities for the forma-
+tion of a solution.) We find
+ ∆G°
+soln1NaCl2 = 1-261.9 kJ>mol2 + 1-131.2 kJ>mol2
+- 1-384.0 kJ>mol2
+ = -9.1 kJ>mol
+ ∆G°
+soln1AgCl2 = 1+77.11 kJ>mol2 + 1-131.2 kJ>mol2
+   - 1-109.70 kJ>mol2
+ = +55.6 kJ>mol
+(b) We can write ∆G°
+soln as the sum of an enthalpy term, ∆H°
+soln, 
+and an entropy term, -T∆S°
+s

@@ -1,0 +1,31 @@
+cline.) If the collision is elastic, and friction can be ignored,
+determine (a) the speeds of the two blocks after the collision,
+and (b) how far back up the incline the smaller mass will go.
+M = 7.00 kg
+m = 2.50 kg
+3.60 m
+M
+30.0°
+m
+FIGURE 7;47
+Problem 79.
+78. Two balls, of masses  
+and  
+are sus-
+pended as shown in Fig. 7–46. The lighter ball is pulled away
+to a 66° angle with the vertical and released. (a) What is
+the velocity of the lighter ball before impact? (b) What is
+the velocity of each ball after the elastic collision? (c) What
+will be the maximum
+height of each ball after
+the elastic collision?
+mB = 65 g,
+mA = 45 g
+80. The space shuttle launches an 850-kg satellite by ejecting it
+from the cargo bay. The ejection mechanism is activated
+and is in contact with the satellite for 4.8 s to give it a velocity
+of 
+in the x direction relative to the shuttle. The mass
+of the shuttle is 92,000 kg. (a) Determine the component of
+velocity 
+of the shuttle in the minus x direction resultin

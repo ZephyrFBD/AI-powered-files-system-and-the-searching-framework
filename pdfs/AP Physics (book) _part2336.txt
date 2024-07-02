@@ -1,0 +1,16 @@
+ of times per second. When a person passes
+through the walk-through, any metal object being carried will have eddy currents
+induced in it, and the small magnetic field produced by that eddy current can be
+detected, setting off an alert or alarm.
+2
+1–7 Transformers and
+Transmission of Power
+A transformer is a device for increasing or decreasing an ac voltage. Transformers
+are found everywhere: on utility poles (Fig. 21–22) to reduce the high voltage from
+the electric company to a usable voltage in houses (120 V or 240 V), in chargers for
+cell phones, laptops, and other electrical devices, in your car to give the needed
+high voltage to the spark plugs, and in many other applications. A transformer
+consists of two coils of wire known as the primary and secondary coils. The 
+two coils can be interwoven (with insulated wire); or they can be linked by an
+iron core which is laminated to minimize eddy-current losses (Section 21–6),
+as shown in Fig. 21–23. Transformers are designed so that (nea

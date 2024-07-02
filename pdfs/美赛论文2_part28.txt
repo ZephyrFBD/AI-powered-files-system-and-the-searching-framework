@@ -1,0 +1,17 @@
+reported confirmed Ebola cases as 
+the epidemic areas. According to the WHO’s reports, there are 14 cities 
+have been infected in Sierra Leone until now. We mark these epidemic 
+areas with A1, A2,…, A14. Details refer to Table 2. 
+3) We simplify the distance between epidemic areas or treatment center and 
+epidemic area as the linear distance between two points on Rectangular 
+Plane Coordinate System. 
+4) The demand of drugs of each epidemic area is relation to the confirmed 
+cases in this area. Assume they have a linear relation. 
+5) The increase cases of next circle will obey the SIR model. 
+6) There are enough vehicles in treatment center and epidemic areas to 
+ensure all of the drugs and vaccines could be delivered once every time. 
+7) Each infected person needs a unit of drugs, and each susceptible person 
+need a unit of vaccine. 
+8) The cost of every unit of distance is the same. 
+9) Only if one epidemic area can meet the demand of itself, that it can 
+deliver vaccines and drugs t

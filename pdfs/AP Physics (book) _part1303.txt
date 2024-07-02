@@ -1,0 +1,64 @@
+ of a tube is open to the atmosphere. Hence the pressure variation
+at an open end must be a node: the pressure does not alternate, but remains at
+the outside atmospheric pressure. If a tube has a closed end, the pressure at that
+closed end can readily alternate to be above or below atmospheric pressure.
+Hence there is a pressure antinodeat a closed end of a tube.There can be pressure nodes
+and antinodes within the tube. Some of the possible vibrational modes in terms of
+pressure are shown in Fig.12–11b for an open tube, and in Fig.12–12b for a closed tube.
+2, 4, 6, p
+3, 5, 7, p
+f
+1 = v4l,
+l = 4l.
+l = l4,
+1
+4 l,
+SECTION 12–4
+Sources of Sound: Vibrating Strings and Air Columns
+339
+Fifth harmonic
+Pressure variation in the air
+(b)
+First harmonic = fundamental
+l
+l
+TUBE CLOSED AT ONE END
+Overtones
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+Displacement of air
+(a)
+v
+v
+v
+Third harmonic
+f3 =
+f5 =
+3
+5
+4l
+5
+4l
+3
+= 3f1
+= 5f1
+f1 = 4l
+l = 1
+4 l
+l = 3
+4 l
+1
+l = 5
+4 l
+FIGURE 12–12 Modes of vibration
+(standing waves) f

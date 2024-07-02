@@ -1,0 +1,44 @@
+oln: ∆G°
+soln = ∆H°
+soln + 1-T∆S°
+soln2. 
+We can calculate the values of ∆H°
+soln and ∆S°
+soln by using 
+Equations 5.31 and 19.8. We can then calculate -T∆S°
+soln at 
+T = 298 K. The results are summarized in the following table:
+Salt
+∆H °
+soln
+∆S°
+soln
+T∆S°
+soln
+NaCl
++3.6 kJ>mol
++43.2 J>mol@K
+-12.9 kJ>mol
+AgCl
++65.7 kJ>mol
++34.3 J>mol@K
+-10.2 kJ>mol
+The entropy terms for the solution of the two salts are very 
+similar. That seems sensible because each solution process 
+should lead to a similar increase in randomness as the salt dis-
+solves, forming hydrated ions. 
+ (Section 13.1) In contrast, 
+we see a very large difference in the enthalpy term for the 
+solution of the two salts. The difference in the values of ∆G°
+soln 
+is dominated by the difference in the values of ∆H°
+soln.
+(c) The solubility product, Ksp, is the equilibrium constant for the 
+solution process. 
+ (Section 17.4) As such, we can relate Ksp 
+directly to ∆G°
+soln by using Equation 19.21:
+Ksp = e-∆G°
+so 
+ln >RT
+We can ca

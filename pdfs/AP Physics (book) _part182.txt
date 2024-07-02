@@ -1,0 +1,46 @@
+tuation.
+y = 0.
+t = 3.06 s,
+y = 0.
+(t = 0)
+t = 0 and t =
+15.0 ms
+4.90 ms2
+= 3.06 s.
+A15.0 ms - 4.90 ms2 tBt = 0.
+t
+ 
+0 = 0 + (15.0 ms)t +
+1
+2 A –9.80 ms2Bt2.
+y = y0 + v0t +
+1
+2 at2
+a = –9.80 ms2
+y = 0.
+EXAMPLE 2;13
+36
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+C A U T I O N
+Quadratic equations have two
+solutions. Sometimes only one
+corresponds to reality,
+sometimes both
+C A U T I O N
+(1) Velocity and acceleration are 
+not always in the same direction;
+the acceleration (of gravity) always
+points down
+(2)
+even at the highest point 
+of a trajectory
+a Z 0
+Two possible misconceptions. Give
+examples to show the error in these two common misconceptions: (1) that
+acceleration and velocity are always in the same direction, and (2) that 
+an object thrown upward has zero acceleration at the highest point (B in 
+Fig. 2–23).
+RESPONSE Both are wrong. (1) Velocity and acceleration are not necessarily
+in the same direction. When the ball in Fig. 2–23 is moving upward, its
+velocity

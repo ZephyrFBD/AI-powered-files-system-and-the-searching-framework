@@ -1,0 +1,16 @@
+H when small amounts of strong 
+acid or strong base are added to them are called buffered solutions (or merely buf-
+fers). Human blood, for example, is a complex buffered solution that maintains the 
+blood pH at about 7.4 (The Chemistry and Life box, “Blood as a Buffered Solution” 
+later in this section). Much of the chemical behavior of seawater is determined by its 
+pH, buffered at about 8.1 to 8.3 near the surface due to the HCO3
+->CO3 
+2- acid-base 
+pair. Buffers find many important applications in the laboratory and in medicine 
+(Figure 17.1). Many biological reactions occur at the optimal rates only when properly 
+buffered. If you ever work in a biochemistry lab, you will very likely have to prepare 
+specific buffers in which to run your biochemical reactions.
+Composition and Action of Buffers
+A buffer resists changes in pH because it contains both an acid to neutralize added 
+OH- ions and a base to neutralize added H+ ions. The acid and base that make up the 
+buffer, however, mu

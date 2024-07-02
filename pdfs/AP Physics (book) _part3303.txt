@@ -1,0 +1,34 @@
+ET which suggests its
+function.
+(= a good conductor).
+p
+n
+n
+(a)
+(b)
+Drain
+Insulator
+Gate
+Source
+Gate
+Drain
+Source
+852
+CHAPTER 29
+Molecules and Solids
+Quantum mechanics explains the bonding together of atoms to
+form molecules. In a covalent bond, the atoms share electrons.
+The electron clouds of two or more atoms overlap because of
+constructive interference between the electron waves. The
+positive nuclei are attracted to this concentration of negative
+charge between them, forming the bond.
+An ionic bond is an extreme case of a covalent bond in
+which one or more electrons from one atom spend much more
+time around the other atom than around their own. The atoms
+then act as oppositely charged ions that attract each other,
+forming the bond.
+These strong bonds hold molecules together, and also hold
+atoms and molecules together in solids. Also important are
+weak bonds (or van der Waals bonds), which are generally dipole
+attractions between molecules.
+When atoms combine to form molecules, the 

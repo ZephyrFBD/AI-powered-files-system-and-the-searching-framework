@@ -1,0 +1,20 @@
+of radiation is the subject of
+dosimetry. The curie (Ci) and the becquerel (Bq) are units 
+that measure the source activity or rate of decay of a sample:
+decays per second, whereas 
+The absorbed dose, often specified in rads, measures the amount
+of energy deposited per unit mass of absorbing material: 1 rad
+is the amount of radiation that deposits energy at the rate of
+of material. The SI unit of absorbed dose is the gray:
+The effective dose is often specified
+by the 
+where RBE is the “relative bio-
+logical effectiveness” of a given type of radiation; 1 rem of any
+type of radiation does approximately the same amount of
+biological damage. The average dose received per person per
+year in the United States is about 360 mrem. The SI unit for
+effective dose is the sievert:
+[*Nuclear radiation is used in medicine for cancer therapy,
+and for imaging of biological structure and processes.
+Tomographic imaging of the human body, which can provide 
+3-dimensional detail, includes several types: PE

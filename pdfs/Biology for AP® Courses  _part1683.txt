@@ -1,0 +1,12 @@
+ differences between prokaryotic and eukaryotic translation.
+Initiation of Translation
+Protein synthesis begins with the formation of an initiation complex. In E. coli, this complex involves the small 30S
+ribosome, the mRNA template, three initiation factors (IFs; IF-1, IF-2, and IF-3), and a special initiator tRNA, called
+tRNAf
+Met . The initiator tRNA interacts with the start codon AUG (or rarely, GUG), links to a formylated methionine
+called fMet, and can also bind IF-2. Formylated methionine is inserted by fMet −tRNAf
+Met at the beginning of every
+polypeptide chain synthesized by E. coli, but it is usually clipped off after translation is complete. When an in-frame AUG
+is encountered during translation elongation, a non-formylated methionine is inserted by a regular Met-tRNAMet.
+In E. coli mRNA, a sequence upstream of the first AUG codon, called the Shine-Dalgarno sequence (AGGAGG), interacts
+with the rRNA molecules that compose the ribosome. This interaction anchors the 30S riboso

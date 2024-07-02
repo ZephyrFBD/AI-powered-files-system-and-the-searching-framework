@@ -1,0 +1,20 @@
+le
+(Section 19–6). Initially, when the capacitor is uncharged, no work is required to
+move the first bit of charge over. As more charge is transferred, work is needed
+to move charge against the increasing voltage V. The work needed to add a small
+amount of charge 
+when a potential difference V is across the plates, is
+The total work needed to move total charge Q is equivalent to
+moving all the charge Q across a voltage equal to the average voltage during 
+the process. (This is just like calculating the work done to compress a spring,
+Section 6–4, page 148.) The average voltage is
+where 
+is the
+final voltage; so the work to move the total charge Q from one plate to the other is
+Thus we can say that the electric potential energy, PE, stored in a capacitor is
+where V is the potential difference between the plates (we dropped the subscript),
+and Q is the charge on each plate. Since
+we can also write
+(17;10)
+Energy stored in a capacitor. A camera flash unit
+(Fig. 17–20) stores energy in a 

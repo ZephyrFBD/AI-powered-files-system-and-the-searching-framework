@@ -1,0 +1,36 @@
+
+656 nm
+820 nm
+1875 nm
+Wavelength,   
+λ
+FIGURE 27–25 Line spectrum of
+atomic hydrogen. Each series fits the
+formula
+where
+for the Lyman series,
+for the Balmer series,
+for the Paschen series,
+and so on; n can take on all integer
+values from 
+up to infinity.
+The only lines in the visible region 
+of the electromagnetic spectrum are
+part of the Balmer series.
+n = n¿ + 1
+n¿ = 3
+n¿ = 2
+n¿ = 1
+1
+l = R ¢ 1
+nœ2 - 1
+n2 ≤
+fit a formula with the same form as Eq. 27–9 but with the 
+replaced by
+and so on. For example, the Lyman series contains lines with
+wavelengths from 91 nm to 122 nm (in the UV region) and fits the formula
+The wavelengths of the Paschen series (in the IR region) fit
+The Rutherford model was unable to explain why atoms emit line spectra. It
+had other difficulties as well. According to the Rutherford model, electrons orbit
+the nucleus, and since their paths are curved the electrons are accelerating. Hence
+they should give off light like any other accelerating electric charge (Chapt

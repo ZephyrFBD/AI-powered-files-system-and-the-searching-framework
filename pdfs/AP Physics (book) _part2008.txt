@@ -1,0 +1,15 @@
+at it has a resting potential
+(most cells do), but rather that it can respond to a stimulus and conduct an elec-
+trical signal along its length. The stimulus could be thermal (when you touch a
+hot stove) or chemical (as in taste buds); it could be pressure (as on the skin or at
+the eardrum), or light (as in the eye); or it could be the electric stimulus of a
+signal coming from the brain or another neuron. In the laboratory, the stimulus is
+usually electrical and is applied by a tiny probe at some point on the neuron. If
+the stimulus exceeds some threshold, a voltage pulse will travel down the axon.
+This voltage pulse can be detected at a point on the axon using a voltmeter or an
+oscilloscope connected as in Fig. 18–29. This voltage pulse has the shape shown
+in Fig. 18–30, and is called an action potential. As can be seen, the potential
+increases from a resting potential of about 
+and becomes a positive
+30 mV or 40 mV. The action potential lasts for about 1 ms and travels down an
+axon w

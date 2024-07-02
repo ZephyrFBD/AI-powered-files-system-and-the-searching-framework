@@ -1,0 +1,14 @@
+tively fixed positions
+in any direction. But only longitudinal waves can propagate through a fluid,
+because any transverse motion would not experience any restoring force since 
+a fluid is readily deformable. This fact was used by geophysicists to infer that a
+portion of the Earth’s core must be liquid: after an earthquake, longitudinal waves
+are detected diametrically across the Earth, but not transverse waves.
+Besides these two types of waves that can pass through the body of the Earth
+(or other substance), there can also be surface waves that travel along the bound-
+ary between two materials. A wave on water is actually a surface wave that moves
+on the boundary between water and air. The motion of each particle of water at
+the surface is circular or elliptical (Fig. 11–29), so it is a combination of horizontal
+and vertical motions. Below the surface, there is also horizontal plus vertical
+motion, as shown. At the bottom, the motion is only horizontal. (When a wave
+approaches shore, 

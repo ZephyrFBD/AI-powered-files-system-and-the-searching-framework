@@ -1,0 +1,16 @@
+constant 
+and not on the initial concentration: t1>2 = 0.693>k. The half-life of 
+a second-order reaction depends on both the rate constant and the 
+initial concentration of A: t1>2 = 1>1k3A402.
+THE EFFECT OF TEMPERATURE ON RATES (SECTION 14.5) The 
+collision model, which assumes that reactions occur as a result of 
+collisions between molecules, helps explain why the magnitudes of 
+rate constants increase with increasing temperature. The greater the 
+kinetic energy of the colliding molecules, the greater is the energy 
+of collision. The minimum energy required for a reaction to occur is 
+called the activation energy, Ea. A collision with energy Ea or greater 
+can cause the atoms of the colliding molecules to reach the activated 
+complex (or transition state), which is the highest energy arrangement 
+in the pathway from reactants to products. Even if a collision is ener-
+getic enough, it may not lead to reaction; the reactants must also be 
+correctly oriented relative to one another in 

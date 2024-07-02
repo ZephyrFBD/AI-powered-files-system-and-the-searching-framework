@@ -1,0 +1,25 @@
+ 
+scaled up in size (Figure 2.18). These models show the relative sizes of the atoms, 
+but the angles between atoms, which help define their molecular geometry, are 
+often more difficult to see than in ball-and-stick models. Because space-filling 
+models give a good representation of the true size of a molecule, they are useful 
+for picturing how two molecules might fit together or pack in the solid state. As with 
+ball-and-stick models, the identities of the atoms are typically indicated by color.
+Give It Some Thought 
+The structural formula for ethane is
+C
+C
+H
+H
+H
+H
+H
+H
+(a) What is the molecular formula for ethane?
+(b) What is its empirical formula?
+(c) Can we infer from this drawing that the H—C—H bond angles are 90 degrees?
+2.7 ∣ Ions and Ionic Compounds
+If electrons are removed from or added to an atom, a charged particle called an ion is 
+formed. An ion with a positive charge is a cation (pronounced CAT-ion); a negatively 
+charged ion is an anion (AN-ion).
+To see how ions form, c

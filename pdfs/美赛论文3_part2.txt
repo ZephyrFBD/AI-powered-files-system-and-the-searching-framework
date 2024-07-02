@@ -1,0 +1,13 @@
+xes, we make a quantification analysis to find a specific index to assess. Finally,
+we use ‘even time’, ‘suffering degree’ and ‘wasting water’ to evaluate whether a
+strategy is good or efficient to have a sensible and enjoyable hot bath.
+Next, we use three hierarchical models to solve the problem. The first model is
+called the ‘even loop model’, including the process of cooling and looping, which
+extremely simplifies and clarifies the problem to describe the change of the
+temperature. We regard the floating water as a river to model the movement of the
+liquid and take the heat conduction and the time as well as the space into
+consideration. The second model is called the ‘suffering degree model’. Based on the
+theory of Weber-Fechner law, we successfully use temperature difference and
+integration for curved surface to show whether people suffers from cold water. The
+last model is the comprehensive evaluation model. Three key factors are weighted to
+form a final index to evaluate whether

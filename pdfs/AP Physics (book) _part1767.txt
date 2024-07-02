@@ -1,0 +1,13 @@
+o the given field on a
+positive test charge. The lines of force due to a single isolated positive charge are
+shown in Fig. 16–31a, and for a single isolated negative charge in Fig. 16–31b. In
+part (a) the lines point radially outward from the charge, and in part (b) they point
+radially inward toward the charge because that is the direction the force would be
+on a positive test charge in each case (as in Fig. 16–26). Only a few representative
+lines are shown. We could draw lines in between those shown since the electric field
+exists there as well. We can draw the lines so that the number of lines starting on a
+positive charge, or ending on a negative charge, is proportional to the magnitude 
+of the charge. Notice that nearer the charge, where the electric field is greater
+the lines are closer together. This is a general property of electric
+field lines: the closer together the lines are, the stronger the electric field in that
+region. In fact, field lines can be drawn so that the number

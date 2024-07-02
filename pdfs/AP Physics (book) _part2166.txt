@@ -1,0 +1,43 @@
+ current flows until the neon gas in the
+tube is ionized by a sufficiently strong electric field. Once the
+threshold voltage is exceeded, the lamp has negligible resis-
+tance. The capacitor stores electrical energy, which can be
+released to flash the lamp. Assume that 
+and 
+(a) Assum-
+ing the circuit is hooked up to the emf at time
+at what
+time will the light first flash? (b) If the value of R is increased,
+will the time you found in part (a) increase or decrease?
+(c) The flashing of the lamp is very brief. Why? (d) Explain
+what happens after the lamp
+flashes for the first time.
+t = 0,
+e = 105 V.
+V
+0 = 90.0 V,
+R = 2.35 * 106 ,
+C = 0.150 mF,
+V
+0
+C
+R
+e = 105 V
+Neon
+lamp
+FIGURE 19–84
+Problem 86.
+9.0 V
+R
+FIGURE 19–85
+Problem 87.
+88. In Fig. 19–86, let
+and
+How much energy is stored in the capacitor network 
+(a) as shown, (b) if the capacitors were all in series, and 
+(c) if the capacitors were all in parallel?
+C1 = C2 = C3 = 25.4 mF.
+V = 10.0 V
+General Problems
+557
+87. A flashlight bulb ra

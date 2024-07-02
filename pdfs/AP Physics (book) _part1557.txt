@@ -1,0 +1,18 @@
+ can be heated
+by means of hot-water conduits or electric heating elements. Such first-rate heat-
+ing systems are becoming more common today, and it is interesting to note that
+2000 years ago the Romans, even in houses in the remote province of Great Britain,
+made use of hot-water and steam conduits in the floor to heat their houses.
+T
+wo teapots. A ceramic teapot 
+and a shiny one 
+each hold 0.75 L of tea at 95°C. (a) Estimate the rate
+of heat loss from each, and (b) estimate the temperature drop after 30 min for
+each. Consider only radiation, and assume the surroundings are at 20°C.
+APPROACH We are given all the information necessary to calculate the heat
+loss due to radiation, except for the area. The teapot holds 0.75 L, and we can
+approximate it as a cube 10 cm on a side 
+with five sides
+exposed. To estimate the temperature drop in (b), we use the concept of spe-
+cific heat and ignore the contribution of the pots compared to that of the water.
+SOLUTION (a) The teapot, approximated 

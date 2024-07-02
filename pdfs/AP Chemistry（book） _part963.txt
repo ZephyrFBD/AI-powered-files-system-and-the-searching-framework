@@ -1,0 +1,40 @@
+tal, the 2s.
+We can represent any electron configuration by writing the symbol for the  
+occupied 
+subshell and adding a superscript to indicate the number of electrons in that subshell. 
+For example, for lithium we write 1s22s1 (read “1s two, 2s one”). We can also show the 
+arrangement of the electrons as
+Li
+1s
+2s
+N
+(a) No external
+      magnetic field
+(b) External magnetic
+      field applied
+External
+magnetic
+field
+S
+1
+N
+S
+S
+Antiparallel
+DE
+1
+S
+N
+N
+Parallel
+1
+1
+Energy
+▲ Figure 6.27 Nuclear spin. Like electron spin, nuclear spin generates 
+a small magnetic field and has two allowed values. (a) In the absence 
+of an external magnetic field, the two spin states have the same 
+energy. (b) When an external magnetic field is applied, the spin state 
+in which the spin direction is parallel to the direction of the external 
+field is lower in energy than the spin state in which the spin direction is 
+antiparallel to the field direction. The energy difference, ∆E, is in the 
+radio frequency p

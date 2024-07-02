@@ -1,0 +1,17 @@
+electron clouds are distributed
+preferentially along the lines (bonds) joining the atoms in the crystal. In a similar
+way, at 
+the force between elementary particles is theorized to be a single
+force—it is symmetrical and does not single out one type of “charge” over
+another. But at larger distances, that symmetry is broken and we see three dis-
+tinct forces. (In the “Standard Model” of electroweak interactions, Section 32–10,
+the symmetry breaking between the electromagnetic and the weak interactions
+occurs at about 
+)
+Symmetry. The table in Fig. 32–21 has
+four identical place settings. Four people sit down to eat. Describe the symmetry
+of this table and what happens to it when someone starts the meal.
+RESPONSE The table has several kinds of symmetry. It is symmetric to
+rotations of 90°: that is, the table will look the same if everyone moved one
+chair to the left or to the right. It is also north–south symmetric and east–west
+symmetric, so that swaps across the table don’t affect the

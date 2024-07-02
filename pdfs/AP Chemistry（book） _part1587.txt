@@ -1,0 +1,39 @@
+ass, and temperature. The higher the molar mass and pressure, the denser the gas. 
+The higher the temperature, the less dense the gas. Although gases form homogeneous 
+An inflated balloon has a volume of 6.0 L at sea level (1.0 atm) and is allowed to ascend until the pressure is 0.45 atm. During 
+ascent, the temperature of the gas falls from 22 °C to -21 °C. Calculate the volume of the balloon at its final altitude.
+Sample Exercise 10.6 
+Using the Combined Gas Law
+SOLUTION
+Analyze We need to determine a new volume for a gas sample 
+when both pressure and temperature change.
+Plan Let’s again proceed by converting temperatures to kelvins and 
+tabulating our information.
+P
+V
+T
+Initial
+1.0 atm
+6.0 L
+295 K
+Final
+0.45 atm
+V2
+252 K
+Because n is constant, we can use Equation 10.8.
+Solve Rearranging Equation 10.8 to solve for V2 gives
+V2 = V1 *
+P
+1
+P
+2
+*
+T
+2
+T
+1
+= 16.0 L2a 1.0 atm
+0.45 atmb a 252 K
+295 K b = 11 L
+Check The result appears reasonable. Notice that the calculation 
+involves multipl

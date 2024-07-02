@@ -1,0 +1,15 @@
+ach color
+segment in the key provides an alignment score range; the higher the alignment score, the greater the similarity
+between the submitted sequence (from the fossil) and the sequence of another organism.
+2. Query bar. The bar below the color key represents the DNA sequence submitted for the fossil.
+ 
+3. Nucleotide Number. The numbers below the query bar enumerate the nucleotides in the submitted sequence.
+ 
+Figure 17-5
+4. Aligning Sequences. Each bar in the group shown here represents a sequence in another organism that matches
+the submitted sequence. Match the color of the sequence to the color key to get an alignment score range for the
+sequence. Bars are arranged so that the best matches are at the top. The span of each bar can be compared to the
+submitted sequence in the query bar to determine the parts of the sequences that match and parts that are absent
+(gaps).
+5. Distance Tree. You can click in this area to see a cladogram of the results (not shown here). The displayed
+cl

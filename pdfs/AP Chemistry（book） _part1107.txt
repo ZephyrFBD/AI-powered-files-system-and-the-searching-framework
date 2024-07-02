@@ -1,0 +1,25 @@
+ energy is released during the process. We therefore say that the electron 
+affinity of Cl is -349 kJ>mol.*
+ 
+Electron affinity:  Cl1g2 + e- ¡ Cl-1g2  
+EA = -349 kJ>mol  
+[7.5]
+                   3Ne43s23p5   3Ne43s23p6
+It is important to understand the difference between ionization energy and electron 
+affinity:
+t
+Ionization energy measures the energy change when an atom loses an electron.
+t Electron affinity measures the energy change when an atom gains an electron.
+Write the electron configurations for (a) Ca2+, (b) Co3+, and (c) S2-.
+Sample Exercise 7.7 
+Electron Configurations of Ions
+SOLUTION
+Analyze and Plan We are asked to write electron configurations 
+for three ions. To do so, we first write the electron configuration 
+of each parent atom and then remove or add electrons to form 
+the ions.  
+Electrons are first removed from the orbitals having the 
+highest value of n. They are added to the empty or partially filled 
+orbitals having the lowest value of n.
+Solve
+(a) Calcium (

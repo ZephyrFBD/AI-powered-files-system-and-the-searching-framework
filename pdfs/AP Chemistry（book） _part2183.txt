@@ -1,0 +1,26 @@
+ even larger intervals 
+through the remaining measurements. It is typical for rates to decrease as a reaction 
+From the data in Figure 14.2, calculate the average rate at which A disappears over the time interval from 20 s to 40 s.
+Sample Exercise 14.1
+ Calculating an Average Rate of Reaction
+SOLUTION
+Analyze We are given the concentration of A at 20 s 10.54 M2 and 
+at 40 s 10.30 M2 and asked to calculate the average rate of reaction 
+over this time interval.
+Plan The average rate is given by the change in concentration, ∆3A4, 
+divided by the change in time, ∆t. Because A is a reactant, a minus 
+sign is used in the calculation to make the rate a positive quantity.
+Solve
+Average rate =  
+-  
+∆3A4
+∆t
+= -  0.30 M - 0.54 M
+40 s - 20 s
+= 1.2 * 10-2 M>s
+ 
+▶Practice Exercise 1
+If the experiment in Figure 14.2 is run for 60 s, 0.16 mol A re-
+main. Which of the following statements is or are true?
+ (i) After 60 s there are 0.84 mol B in the ﬂask.
+ (ii) The decrease in the number of moles of A f

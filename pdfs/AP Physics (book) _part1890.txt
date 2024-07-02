@@ -1,0 +1,14 @@
+formation can be reduced so that less memory space is
+required—fewer bits and bytes. For example, adjacent “pixels” on a photograph
+that includes a blue sky may be essentially identical. If 200 almost identical pixels
+can be coded as identical, that takes up less memory (or “size”) than to specify all
+the 200 pixels individually. Compression schemes, like jpeg for photos, lose some
+information and may be noticeable. In audio, MP3 players use one-tenth the space
+that a CD does, but many listeners don’t notice. Compression is one reason that
+more data or “information” can be transmitted digitally for a given bandwidth.
+[Bandwidth is the fixed range of frequencies allotted to each radio or TV station
+or Internet connection, and limits the number of bits transmitted per second.] 
+In audio, many listeners claim that digital does not match analog in full sound
+quality. And what about movies? Will digital ever match Technicolor?
+Noise
+Digital information transmission has another advantage: an

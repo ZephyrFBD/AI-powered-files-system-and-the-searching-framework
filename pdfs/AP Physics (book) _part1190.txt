@@ -1,0 +1,36 @@
+f small amplitude, the wave speed is
+(11;13)
+This formula makes sense qualitatively on the basis of Newtonian mechanics.
+That is, we do expect the tension to be in the numerator and the mass per unit
+length in the denominator. Why? Because when the tension is greater, we expect
+the speed to be greater since each segment of cord is in tighter contact with its
+neighbor. Also, the greater the mass per unit length, the more inertia the cord
+has and the more slowly the wave would be expected to propagate.
+ctransverse wave
+on a cord
+d
+v = B
+F
+T
+m
+.
+m = ml.
+l
+m
+F
+T,
+308
+CHAPTER 11
+A longitudinal wave can be represented graphically by plotting the density of
+air molecules (or coils of a Slinky) versus position at a given instant, as shown in
+Fig. 11–27. Such a graphical representation makes it easy to illustrate what is
+happening. Note that the graph looks much like a transverse wave.
+x
+High
+Density of air
+(a)
+Normal
+Low
+(b)
+FIGURE 11–27 (a) A longitudinal wave
+in air, with (b) its graphical 

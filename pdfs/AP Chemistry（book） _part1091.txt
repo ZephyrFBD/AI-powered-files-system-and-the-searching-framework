@@ -1,0 +1,36 @@
+discover new cathode and an-
+ode materials that will easily accept and release lithium ions with-
+out falling apart over many repeated cycles. New separator materials 
+that allow for faster passage of lithium ions with less heat genera-
+tion are also  
+under development. Some research groups are looking 
+at  
+using sodium ions instead of lithium ions because sodium is far 
+more  
+abundant than  
+lithium, although the larger size of sodium ions 
+poses additional challenges. In the coming years, look for continued 
+advances in battery technology based on alkali metal ions.
+Related Exercise: 7.89
+Anode LixC6
+Cathode LixCoO2
+Sheets of graphite, 
+with Li1 between
+Sheets of CoO2, 
+with Li1 between
+Separator, which separates the anode 
+and the cathode but allows the passage 
+of Li1 ions.
+On discharge, Li1 ions migrate through the 
+separator from the anode to the cathode.  
+Charging reverses the migration.
+charge
+charge
+discharge
+discharge
+e2
+e2
+Li1
+Load/
+Charger
+▲ Figure 7.9 Schematic of a li

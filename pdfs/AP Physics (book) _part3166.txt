@@ -1,0 +1,22 @@
+lectrons, and hence
+they usually have valences of 
+or 
+A similar effect is responsible for the
+lanthanides and actinides, which are shown at the bottom of the Periodic Table
+for convenience. All have very similar chemical properties, which are determined
+by their two outer 6s or 7s electrons, whereas the different numbers of electrons
+in the unfilled inner shells have little effect.
+28–9 X-Ray Spectra and 
+Atomic Number
+The line spectra of atoms in the visible, UV, and IR regions of the EM spectrum
+are mainly due to transitions between states of the outer electrons. Much of the
+positive charge of the nucleus is shielded from these electrons by the negative
+charge on the inner electrons. But the innermost electrons in the 
+shell “see”
+the full charge of the nucleus. Since the energy of a level is proportional to 
+(see Eq. 27–15), for an atom with 
+we would expect wavelengths about
+times shorter than those found in the Lyman series of hydrogen
+(around 100 nm), or 
+to 
+Such short waveleng

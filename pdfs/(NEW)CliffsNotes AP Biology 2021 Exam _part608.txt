@@ -1,0 +1,11 @@
+teraction between cell surfaces. Communication leads to specific gene expression and cell
+differentiation.
+In an early stage of embryonic development, an opening, the blastopore, leads to the inside of a sphere of cells.
+Spemann discovered that the dorsal lip of the blastopore of a newt (an amphibian) induced the formation of the
+notochord, a stiff strip of cells that provides support in the developing embryo. When Spemann transplanted a
+second dorsal lip into the embryo (taken from a second newt), a second notochord developed. Thus, the dorsal lip is
+an organizer.
+During embryonic development in the roundworm, C. elegans, a cell, called the anchor cell, secretes an inducer
+molecule. The inducer is a signaling molecule that binds to receptors on the plasma membrane of adjacent cells. In
+those cells closest to the anchor cell and receiving a high concentration of the inducer, receptor molecules on their
+plasma membranes activate the production of transcription factors that bind to a pro

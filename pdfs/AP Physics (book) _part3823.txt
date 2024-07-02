@@ -1,0 +1,76 @@
+e equal (“side-angle-side”).
+(c) Two angles and the enclosed side are equal (“angle-side-angle”).
+a1
+b1
+= a2
+b2
+= a3
+b3
+.
+u3 = f3
+u2 = f2 ,
+u1 = f1 ,
+11.02 L 1.01.
+11.02 = (1.02)
+1
+2 = (1 + 0.02)
+1
+2 L 1 + 1
+2 (0.02) = 1.01.
+x = 0.02
+11.02
+x V 1.
+1
+11 + x = (1 + x)– 1
+2 L 1 - 1
+2 x,
+11 + x = (1 + x)
+1
+2 L 1 + 1
+2 x,
+1
+1 + x = (1 + x)–1 L  1 - x,
+(1 + x)2 L  1 + 2x,
+(1 + x)n L  1 + nx.
+(0.01)2 = 0.0001,
+[(2)(1)2]
+(0.01) = 0.02,
+nx = (2)
+n = 2.
+x = 0.01,
+SECTION A–6
+Plane Geometry
+A-7
+FIGURE A–1
+FIGURE A–2
+FIGURE A–3
+FIGURE A–4
+θ
+θ
+θ
+Right
+angle
+θ
+Right
+angle
+c
+α
+γ
+β
+a
+b
+90
+hyp
+adj
+opp
+θ
+a
+b
+c
+90
+5. Right triangles. A right triangle has one angle that is 90° (a right angle); that
+is, the two sides that meet at the right angle are perpendicular (Fig. A–5).
+The two other (acute) angles in the right triangle add up to 90°.
+6. Pythagorean theorem. In any right triangle, the square of the length of the
+hypotenuse (the side opposite the right angle) is equal to the sum of the
+squares of the l

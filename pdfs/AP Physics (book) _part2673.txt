@@ -1,0 +1,15 @@
+ grating, or sometimes a prism. A prism works because of dispersion
+(Section 24–4), bending light of different wavelengths into different angles. A prism
+is not a linear device and must be calibrated because is not
+; see Fig.24–14.
+An important use of a spectrometer is for the identification of atoms or 
+molecules. When a gas is heated or an electric current is passed through it, the gas
+emits a characteristic line spectrum. That is, only certain discrete wavelengths of
+light are emitted, and these are different for different elements and compounds.†
+Figure 24–28 shows the line spectra for a number of elements in the gas state.
+Line spectra occur only for gases at high temperatures and low pressure and 
+density. The light from heated solids, such as a lightbulb filament, and even from
+a dense gaseous object such as the Sun, produces a continuous spectrum including
+a wide range of wavelengths.
+Figure 24–28 also shows the Sun’s “continuous spectrum,”which contains a num-
+ber of dark line

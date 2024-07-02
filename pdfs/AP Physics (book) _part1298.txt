@@ -1,0 +1,13 @@
+tube of uniform diameter, but
+we must remember that it is now air itself that is vibrating. We can describe the
+waves either in terms of the flow of the air—that is, in terms of the displacement
+of air—or in terms of the pressure in the air (see Figs. 12–2 and 12–3). In terms of
+displacement, the air at the closed end of a tube is a displacement node since the
+air is not free to move there, whereas near the open end of a tube there will be 
+an antinode because the air can move freely in and out. The air within the tube
+vibrates in the form of longitudinal standing waves. A few of the possible modes
+of vibration for a tube open at both ends (called an open tube) are shown graphi-
+cally in Fig. 12–11. Possible vibration modes for a tube that is open at one end but
+closed at the other (called a closed tube) are shown in Fig. 12–12. [A tube closed
+at both ends, having no connection to the outside air, would be useless as an
+instrument.] The graphs in part (a) of each Figure (left-hand side

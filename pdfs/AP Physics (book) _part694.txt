@@ -1,0 +1,59 @@
+r must exert to change
+the momentum of the water is
+The minus sign indicates that the force exerted by the car on the water is oppo-
+site to the water’s original velocity. The car exerts a force of 30 N to the left to
+stop the water, so by Newton’s third law, the water exerts a force of 30 N to the
+right on the car.
+NOTE Keep track of signs, although common sense helps too. The water is
+moving to the right, so common sense tells us the force on the car must be to 
+the right.
+F =
+¢p
+¢t
+= pfinal - pinitial
+¢t
+= 0 - 30 kgms
+1.0 s
+=
+–30 N.
+mvinitial = (1.5 kg)(20 ms) = 30 kgms.
+¢t = 1.0 s,
+F = ¢p¢t
+Apfinal = 0B.
+pinitial
+20 ms
+1.5 kgs
+EXAMPLE 7;2
+SECTION 7–2
+Conservation of Momentum
+173
+CONSERV
+ATION OF MOMENTUM 
+(two objects colliding)
+mA A
+mB B
+A
+B
+B
+B
+x
+A
+A
+mA 
+A
+v
+B
+mB 
+B
+v
+B
+v
+B
+v
+B
+FIGURE 7;3 Momentum is 
+conserved in a collision of two balls,
+labeled A and B.
+7–2 Conservation of Momentum
+The concept of momentum is particularly important because, if no net external
+force ac

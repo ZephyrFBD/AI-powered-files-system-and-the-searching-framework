@@ -1,0 +1,16 @@
+se include chlorophyll a and b and various
+carotenoids. The purpose of a variety of pigments is to absorb light energy (photons) of different wavelengths. The
+absorption spectrums of the pigments overlap so that they maximize the energy absorbed. When light energy is
+absorbed, the pigment becomes energized. The energy is then bounced around among pigments until it is absorbed
+by either of two special kinds of chlorophyll a, P700or
+P680.
+ 
+P700 and P680are organized into separate photosystems (pigment systems)
+ 
+I and II. Cyclic photophosphorylation involves photosystem I. In cyclic photophosphorylation, the energy absorbed
+by the pigment system is
+ 
+captured by the P700. As a result, two electrons are excited to a higher
+energy level, where they are absorbed by a primary electron acceptor. From here, the electrons are passed through an
+electron transport chain from electron acceptor to electron acceptor (some of which are cytochromes). During this
+transit, the energy loss of the electr

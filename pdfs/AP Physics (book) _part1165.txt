@@ -1,0 +1,28 @@
+, shows a graph of displacement x vs. time , as 
+given by Eqs. 11–8. We can also find the velocity v as a function of time from 
+Fig. 11–7a. For the position shown (red dot in Fig. 11–7a), the magnitude of v
+is 
+but 
+points to the left, so 
+Again setting
+we have
+(11;9)
+Just after
+the velocity is negative (points to the left) and remains so until
+(corresponding to
+radians). After 
+until 
+the
+velocity is positive. The velocity as a function of time (Eq. 11–9) is plotted in 
+Fig. 11–10b. From Eqs. 11–6b and 11–7,
+For a given spring–mass system, the maximum speed 
+is higher if the ampli-
+tude is larger, and always occurs as the mass passes the equilibrium point.
+Newton’s second law and Eqs.11–8 give us the acceleration as a function of time:
+(11;10)
+where the maximum acceleration is
+Equation 11–10 is plotted in Fig. 11–10c. Because the acceleration of a SHO is not
+constant, the equations for uniformly accelerated motion do not apply to SHM.
+1
+1–4 The Simple Pendulum
+A simple pendulum consi

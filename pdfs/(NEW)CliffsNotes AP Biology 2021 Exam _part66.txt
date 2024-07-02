@@ -1,0 +1,13 @@
+revents the enzyme from catalyzing the substrate.
+4. In noncompetitive inhibition, a substance inhibits the action of an enzyme by binding to the enzyme at a location
+other than the active site (i.e., allosteric site). The inhibitor changes the shape of the enzyme which disables its
+enzymatic activity. Many toxins and antibiotics are noncompetitive inhibitors.
+5. In cooperativity, an enzyme becomes more receptive to additional substrate molecules after one substrate
+molecule attaches to an active site. This occurs, for example, in enzymes that consist of two or more subunits
+(quaternary structure), each with its own active site. A common example of this process (though not an enzyme) is
+hemoglobin, whose binding capacity to additional oxygen molecules increases after the first oxygen binds to an
+active site.
+Review Questions
+Multiple-Choice Questions
+Directions: Each of the following questions or statements is followed by four possible answers or sentence
+completions. Choose the one be

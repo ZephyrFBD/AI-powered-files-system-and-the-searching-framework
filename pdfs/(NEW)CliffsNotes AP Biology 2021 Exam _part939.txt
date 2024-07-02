@@ -1,0 +1,9 @@
+e first activated protein kinase is able to activate multiple copies of the second protein
+kinase. Then, each copy of the second protein kinase is able to activate multiple copies of the third. Because each
+protein kinase functions repeatedly until it is dephosphorylated, each step of the cascade magnifies the response.
+6. D. The purpose of a signaling cascade (or any signal transduction pathway) is to elicit a cellular response. In
+general, these cellular responses include the activation of cytoplasmic enzymatic activity, the activation of a second
+messenger, or the activation or inhibition of transcription factors that regulate transcription. The product of the
+signaling cascade shown in the figure is an activated protein that enters the nucleus. Since the figure designates a
+mitogen-activated protein signaling cascade, the cellular response is to stimulate cell division. Cell division can be
+initiated by activating transcription factors that regulate transcription of DNA. The produc

@@ -1,0 +1,16 @@
+f ammonia is spontaneous, they do not tell us anything about the rate at which ammo-
+nia is formed. Establishing equilibrium in this system within a reasonable period requires 
+a catalyst, as discussed in Section 15.7.
+19.5 ∣ Gibbs Free Energy
+We have seen examples of endothermic processes that are spontaneous, such as the dis-
+solution of ammonium nitrate in water. 
+ (Section 13.1) We learned in our discussion 
+of the solution process that a spontaneous process that is endothermic must be accom-
+panied by an increase in the entropy of the system. However, we have also encountered 
+processes that are spontaneous and yet proceed with a decrease in the entropy of the 
+system, such as the highly exothermic formation of sodium chloride from its constitu-
+ent elements. 
+ (Section 8.2) Spontaneous processes that result in a decrease in the 
+system’s entropy are always exothermic. Thus, the spontaneity of a reaction seems to 
+involve two thermodynamic concepts, enthalpy and entropy.
+How can w

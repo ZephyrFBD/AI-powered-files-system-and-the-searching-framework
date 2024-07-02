@@ -1,0 +1,12 @@
+his field collaborate with other scientists, usually chemists, to
+design drugs.
+Consider statins for example—which is the name given to the class of drugs that reduces cholesterol levels.
+These compounds are essentially inhibitors of the enzyme HMG-CoA reductase. HMG-CoA reductase is
+the enzyme that synthesizes cholesterol from lipids in the body. By inhibiting this enzyme, the levels of
+cholesterol synthesized in the body can be reduced. Similarly, acetaminophen is an inhibitor of the enzyme
+cyclooxygenase. While it is effective in providing relief from fever and inflammation (pain), its mechanism of
+action is still not completely understood.
+How are drugs developed? One of the first challenges in drug development is identifying the specific
+molecule that the drug is intended to target. In the case of statins, HMG-CoA reductase is the drug target.
+Drug targets are identified through painstaking research in the laboratory. Identifying the target alone is not
+sufficient; scientists also

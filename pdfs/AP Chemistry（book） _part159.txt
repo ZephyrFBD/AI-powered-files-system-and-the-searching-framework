@@ -1,0 +1,48 @@
+ do not use a 
+degree sign 1°2 with temperatures on the Kelvin scale.
+The common temperature scale in the United States is the Fahrenheit scale, which is 
+not generally used in science. Water freezes at 32 °F and boils at 212 °F. The Fahrenheit 
+and Celsius scales are related according to
+ 
+°C = 5
+9 1°F - 322 or °F = 9
+5 1°C2 + 32 
+[1.4]
+20 
+CHAPTER 1 Introduction: Matter, Energy, and Measurement
+Fahrenheit scale
+Water boils
+Normal body temperature
+Water freezes
+212 8F
+32 8F
+98.6 8F
+Celsius scale
+Kelvin scale
+100 8C
+0 8C
+100 degree-interval
+100 degree-interval
+180 degree-interval
+373 K
+273 K
+310 K
+37.0 8C
+▲ Figure 1.19 Comparison of the Kelvin, Celsius, and Fahrenheit temperature scales.
+Go Figure
+True or false: The “size” of a degree on the Celsius scale is the 
+same as the “size” of a degree on the Kelvin scale.
+1 cm
+1 cm
+1 cm
+1 m
+1 m
+1 m
+1 dm3 5 1 
+L
+1 cm3 5 1 
+mL
+▲ Figure 1.20 Volume relationships. The 
+volume occupied by a cube 1 m on each 
+edge is one cubic meter, 1 m3. Each  
+cu

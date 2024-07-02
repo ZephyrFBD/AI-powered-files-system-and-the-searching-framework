@@ -1,0 +1,17 @@
+librium concentrations, and so the 
+reaction will proceed to the right (toward products) to achieve equilibrium. If Q 7 K, 
+product concentrations are too high and reactant concentrations are too low, and so 
+the reaction will proceed to the left to achieve equilibrium. If Q = K, the reaction is at 
+equilibrium.
+For solubility-product equilibria, the relationship between Q and Ksp is exactly like 
+that for other equilibria. For Ksp reactions, products are always the soluble ions, and the 
+reactant is always the solid.
+Therefore, for solubility equilibria,
+t
+If Q = Ksp, the system is at equilibrium, which means the solution is saturated; 
+this is the highest concentration the solution can have without precipitating.
+t If Q 6 Ksp, the reaction will proceed to the right, toward the soluble ions; no 
+precipitate will form.
+t If Q 7 Ksp, the reaction will proceed to the left, toward the solid; precipitate will 
+form.
+For the case of the barium sulfate solution, then we would calculate Q 

@@ -1,0 +1,41 @@
+new 
+substance? (c) Suppose that in changing samples, a portion 
+of the water in the calorimeter were lost. In what way, if any, 
+would this change the heat capacity of the calorimeter?
+Hess’s Law (section 5.6)
+ 5.61 Can you use an approach similar to Hess’s law to calculate 
+the change in internal energy, ∆E, for an overall reaction by 
+summing the ∆E values of individual reactions that add up 
+to give the desired overall reaction?
+ 5.62 Consider the following hypothetical reactions:
+ 
+A  ¡ B
+ 
+∆H = +30 kJ 
+B  ¡  C  
+∆H = +60 kJ
+ 
+ (a)  
+Use Hess’s law to calculate the enthalpy change for the 
+reaction A ¡  C.
+ 
+ (b)  
+Construct an enthalpy diagram for substances A, B, and 
+C, and show how Hess’s law applies.
+ 5.63 Calculate the enthalpy change for the reaction
+ 
+ 
+P4O61s2 + 2 O21g2 ¡  P4O101s2
+ 
+ given the following enthalpies of reaction:
+ 
+ 
+P41s2 + 3 O21g2 ¡ P4O61s2  
+∆H = -1640.1 kJ 
+ 
+ 
+P41s2 + 5 O21g2 ¡ P4O101s2  
+∆H = -2940.1 kJ
+ 5.64 From the enthalpies of reaction
+ 
+    2 C1

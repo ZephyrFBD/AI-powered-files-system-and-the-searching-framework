@@ -1,0 +1,40 @@
+.
+28. Why does the cutoff wavelength in Fig. 28–11 imply a
+photon nature for light?
+29. Why do we not expect perfect agreement between meas-
+ured values of characteristic X-ray line wavelengths and
+those calculated using the Bohr model, as in Example 28–7?
+30. How would you figure out which lines in an X-ray spec-
+trum correspond to 
+etc., transitions?
+Ka ,  Kb, L,
+*
+*
+*
+(Z = 11)
+(Z = 10)
+1s22s22p63s23p64s1?
+1s22s22p63s23p6;
+1s22s22p63s2;
+1s22s22p5;
+1s22s22p63s23p54s24d54f1?
+1s22s22p83s1;
+1s22s22p43s24p2;
+Questions
+1. An atom has the electron configuration 
+How many electrons does this atom have?
+(a) 15.
+(b) 19.
+(c) 30.
+(d) 46.
+2. For the electron configuration of MisConceptual Question 1,
+what orbital quantum numbers do the electrons have?
+(a) 0.
+(d) 0 and 1 and 2 and 3.
+(b) 0 and 1.
+(e) 0 and 1 and 2 and 3 and 4.
+(c) 0 and 1 and 2.
+3. If a beam of electrons is fired through a slit,
+(a) the electrons can be deflected because of their wave
+properties.
+(b) only electrons that hit the ed

@@ -1,0 +1,32 @@
+n
+switched off in the primary) into a spike of as much as 30 kV in the secondary.
+SECTION 21–7
+Transformers and Transmission of Power
+603
+12,000 V
+240,000 V
+7200 V 240 V
+Power
+plant
+Step-up
+transformer
+Step-down
+transformer
+(substation)
+Step-down
+transformer
+Home
+High voltage
+transmission line
+FIGURE 21–25 The transmission of electric power from power plants to homes makes use of transformers
+at various stages.
+P H Y S I C S  A P P L I E D
+Transformers help power
+transmission
+Transformers play an important role in the transmission of electricity. Power
+plants are often situated some distance from metropolitan areas, so electricity
+must then be transmitted over long distances (Fig. 21–25). There is always some
+power loss in the transmission lines, and this loss can be minimized if the power is
+transmitted at high voltage, using transformers, as the following Example shows.
+Transmission lines. An average of 120 kW of electric
+power is sent to a small town from a power plant 10 km away. T

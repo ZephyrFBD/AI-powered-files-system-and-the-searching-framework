@@ -1,0 +1,18 @@
+ lines in the emis-
+sion spectrum shown in Figure 6.11.
+ 6.42  The Lyman series of emission lines of the hydrogen atom are 
+those for which nf = 1. (a) Determine the region of the elec-
+tromagnetic spectrum in which the lines of the Lyman series 
+are observed. (b) Calculate the wavelengths of the ﬁrst three 
+lines in the Lyman series—those for which ni = 2, 3, and 4.
+ 6.43  One of the emission lines of the hydrogen atom has a 
+wavelength of 93.07 nm. (a) In what region of the electro-
+magnetic spectrum is this emission found? (b) Determine 
+the initial and final values of n associated with this emission.
+ 6.44  The hydrogen atom can absorb light of wavelength 1094 nm. 
+(a) In what region of the electromagnetic spectrum is this 
+absorption found? (b) Determine the initial and ﬁnal values 
+of n associated with this absorption.
+ 6.45  Order the following transitions in the hydrogen atom from 
+smallest to largest frequency of light absorbed: n = 3 to 
+n = 6, n = 4 to n = 9, n = 2 to n = 3,

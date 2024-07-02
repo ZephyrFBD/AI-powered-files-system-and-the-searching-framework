@@ -1,0 +1,29 @@
+st when an electron is emitted, and the total number
+of nucleons, A, is the same in the daughter nucleus as in the parent. But because
+an electron has been emitted from the nucleus itself, the charge on the daughter
+nucleus is 
+greater than that on the parent. The parent nucleus in the decay
+written above had
+so from charge conservation the nucleus remaining
+behind must have a charge of 
+So the daughter nucleus has 
+which is
+nitrogen.
+It must be carefully noted that the electron emitted in 
+decay is not an orbital
+electron. Instead, the electron is created within the nucleus itself. What happens is
+that one of the neutrons changes to a proton and in the process (to conserve
+charge) emits an electron. Indeed, free neutrons actually do decay in this fashion:
+To remind us of their origin in the nucleus, the electrons emitted in 
+decay are
+often referred to as “
+particles.” They are, nonetheless, indistinguishable from
+orbital electrons.
+b
+b
+n S p + e– + neutrino.
+b
+Z = 7,
+±7e.
+Z = ±6,
+±1e

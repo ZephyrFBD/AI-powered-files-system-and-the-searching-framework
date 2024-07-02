@@ -1,0 +1,81 @@
+t law is wrong in 
+some way.
+Related Exercises: 1.66, 1.88
+Collect information
+(via observations of natural
+phenomena and experiments)
+Formulate a hypothesis
+(or hypotheses)
+Test the hypothesis
+(via experiments)
+Formulate a theory
+(based on the most successful
+hypotheses)
+Repeatedly test theory
+(modify as needed to match
+experimental results, or reject)
+▲ Figure 1.18 The scientific method.
+TABLE 1.4 Prefixes Used in the Metric System and with SI Units
+Prefix
+Abbreviation
+Meaning
+Example
+Peta
+P
+1015
+1 petawatt (PW)
+= 1 * 1015 wattsa
+Tera
+T
+1012
+1 terawatt (TW)
+= 1 * 1012 watts
+Giga
+G
+109
+1 gigawatt (GW)
+= 1 * 109 watts
+Mega
+M
+106
+1 megawatt (MW)
+= 1 * 106 watts
+Kilo
+k
+103
+1 kilowatt (kW)
+= 1 * 103 watts
+Deci
+d
+10-1
+1 deciwatt (dW)
+= 1 * 10-1 watt
+Centi
+c
+10-2
+1 centiwatt (cW)
+= 1 * 10-2 watt
+Milli
+m
+10-3
+1 milliwatt (mW)
+= 1 * 10-3 watt
+Micro
+mb
+10-6
+1 microwatt 1mW2
+= 1 * 10-6 watt
+Nano
+n
+10-9
+1 nanowatt (nW)
+= 1 * 10-9 watt
+Pico
+p
+10-12
+1 picowatt (pW)
+= 1 * 10-12 watt
+Femto
+f
+10-15
+1

@@ -1,0 +1,10 @@
+es its strategy for maximum fitness. Reproductive success, a measure of
+fitness, depends upon four variables: the age of reproductive maturity, the frequency of reproduction, the number of
+offspring per reproductive event, and how long the organism lives. There are various ways in which these four
+variables can combine to maximize fitness given the resources available under different environmental conditions.
+In general, two major strategies emerge, as follows:
+1. An r-selected species exhibits rapid growth (J-shaped curve). This type of reproductive strategy is characterized
+by opportunistic species, such as grasses and many insects, that quickly invade a habitat, quickly reproduce, and
+then die. They produce many offspring that are small, mature quickly, and require little, if any, parental care.
+2. A K-selected species exhibits logistic growth (S-shaped curve), and the size of a mature population remains
+relatively constant (at the carrying capacity, K). Species of this type, such a

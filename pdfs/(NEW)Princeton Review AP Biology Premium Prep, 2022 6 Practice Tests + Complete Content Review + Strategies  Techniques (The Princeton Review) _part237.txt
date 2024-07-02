@@ -1,0 +1,13 @@
+sn’t produce any sugars.
+Plants that live in hot climates have evolved two different ways around this: CAM plants deal with this problem by
+temporally separating carbon fixation and the Calvin cycle. They open their stomata at night and incorporate CO2
+into organic acids. During the day, they close their stomata and release CO2 from the organic acids while the light
+reactions run. In contrast, C4 plants have slightly different leaf anatomy that allows them to perform CO2 fixation in
+a different part of the leaf from the rest of the Calvin cycle. This prevents photorespiration. C4 plants produce a four-
+carbon molecule as the first product of carbon fixation and perform cyclic electron flow in the light reactions
+(discussed above).
+CELLULAR RESPIRATION
+In the shorthand version, cellular respiration looks something like this:
+C6H12O6+ 6O2 → 6CO2 + 6H2O + ATP
+Notice that we’ve taken a sugar, perhaps a molecule of glucose, and combined it with oxygen to produce carbon
+dioxide, water, and e

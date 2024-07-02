@@ -1,0 +1,28 @@
+............................................................ 4 
+5.  Copyright, Trademarks, and License Fees................................................................................. 5 
+ 
+1.  What is it? 
+ 
+A suite of software modules to supplement the book: 
+ 
+ 
+P. Salamon, P. Sibani, and R. Frost. Facts, Conjectures, and 
+Improvements for Simulated Annealing. SIAM Monographs on 
+Mathematical Modeling and Computation. 
+ISBN 0-89871-508-3. 
+ 
+Updates to the software are maintained at http://www.frostconcepts.com/software/. 
+ 
+This version is a source code release in  
+ 
+Matlab® (requires version 6) 
+ 
+It consists of 1driver plus many annealing-specific methods and support routines.  Like-methods use a 
+common calling interface so that users can easily substitute their own methods for those provided with the 
+package.  Examples of applications are also included in the release. 
+2.  How do I set it up? 
+ 
+Uncompress the package into a folder or directory on your system. 
+ 
+• 
+On PC

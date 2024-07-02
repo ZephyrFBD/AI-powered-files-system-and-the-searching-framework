@@ -1,0 +1,19 @@
+urce is
+What is the intensity of that wave if detected 400 km from the
+source?
+APPROACH We assume the wave is spherical, so the intensity decreases as the
+square of the distance from the source.
+SOLUTION At 400 km the distance is 4 times greater than at 100 km, so the
+intensity will be
+of its value at 100 km, or
+NOTE Using Eq. 11–16c directly gives:
+The situation is different for a one-dimensional wave, such as a transverse
+wave on a string or a longitudinal wave pulse traveling down a thin uniform metal
+rod. The area remains constant, so the amplitude A also remains constant (ignoring
+friction). Thus the amplitude and the intensity do not decrease with distance.
+In practice, frictional damping is generally present, and some of the energy 
+is transformed into thermal energy. Thus the amplitude and intensity of a 
+one-dimensional wave will decrease with distance from the source. For a
+three-dimensional wave, the decrease will be greater than that discussed above,
+more than 
+although the

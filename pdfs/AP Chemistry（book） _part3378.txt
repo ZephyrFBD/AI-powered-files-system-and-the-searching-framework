@@ -1,0 +1,26 @@
+y constant source of car-
+bon-14, which is radioactive and undergoes beta decay with a half-life of 5700 yr (to 
+two significant figures):
+ 
+14
+6C ¡ 14
+7N +
+0
+-1e 
+[21.17]
+Because a living plant or animal has a constant intake of carbon compounds, it is 
+able to maintain a ratio of carbon-14 to carbon-12 that is nearly identical with that of the 
+atmosphere. Once the organism dies, however, it no longer ingests carbon compounds 
+ 
+SECTION 21.4  Rates of Radioactive Decay 
+913
+914 
+CHAPTER 21 Nuclear Chemistry
+to replenish the carbon-14 lost through radioactive decay. The ratio of carbon-14 to 
+carbon-12 therefore decreases. By measuring this ratio and comparing it with that of 
+the atmosphere, we can estimate the age of an object. For example, if the ratio dimin-
+ishes to half that of the atmosphere, we can conclude that the object is one half-life, or 
+ 
+5700 yr, old.
+This method cannot be used to date objects older than about 50,000 yr because after 
+this length of time the radioacti

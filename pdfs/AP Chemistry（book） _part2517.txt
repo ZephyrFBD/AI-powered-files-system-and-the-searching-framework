@@ -1,0 +1,16 @@
+ Pairs
+In any acid–base equilibrium, both the forward reaction (to the right) and the reverse 
+reaction (to the left) involve proton transfer. For example, consider the reaction of an 
+acid HA with water:
+ 
+HA1aq2 + H2O1l2 ∆ A-1aq2 + H3O+1aq2 
+[16.6]
+In the forward reaction, HA donates a proton to H2O. Therefore, HA is the Brønsted–
+Lowry acid and H2O is the Brønsted–Lowry base. In the reverse reaction, the H3O+ ion 
+donates a proton to the A-  ion, so H3O+ is the acid and A-  is the base. When the acid HA 
+donates a proton, it leaves behind a substance, A-, that can act as a base. Likewise, when 
+H2O acts as a base, it generates H3O+, which can act as an acid.
+An acid and a base such as HA and A-  that differ only in the presence or absence 
+of a proton are called a conjugate acid–base pair. Every acid has a conjugate base, 
+formed by removing a proton from the acid. For example, OH -  is the conjugate base of 
+H2O, and A-  is the conjugate base of HA. Every base has a conjugate acid,

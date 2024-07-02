@@ -1,0 +1,17 @@
+nal to the resistance.
+The scale calibration depends on the value of its series resistor, which is 
+changeable in a multimeter. Because an ohmmeter sends a current through the
+device whose resistance is to be measured, it should not be used on very delicate
+devices that could be damaged by the current.
+Digital Meters
+Digital meters (see Fig. 19–30b) are used in the same way as analog meters: they
+are inserted directly into the circuit, in series, to measure current (Fig. 19–33b),
+and connected “outside,” in parallel with the circuit, to measure voltage (Fig.19–33c).
+The internal construction of digital meters is very different from analog
+meters. First, digital meters do not use a galvanometer, but rather semiconductor
+devices (Chapter 29). The electronic circuitry and digital readout are more 
+sensitive than a galvanometer, and have less effect on the circuit to be meas-
+ured. When we measure dc voltages, a digital meter’s resistance is very high,
+commonly on the order of 
+to 
+and doe

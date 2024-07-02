@@ -1,0 +1,13 @@
+ex, we select appropriate functions to 
+process these data, and get all the processed indexes between zero and one. 
+Through the analytic hierarchy process, we can get the weight vector of all the 
+factors in the criteria layer. Dynamic weighted comprehensive model is used to revise 
+the indexes of the secondary criterion layer. The first criterion layer can be confirmed 
+by weighted calculation and connection model between three main factors. After that, 
+we will get the index of the target layer, which must be between zero and one.  
+We establish the reasonable assumptions through calculation and analysis. If the 
+index of the target or first criterion layer is less than 0.4, which means this country or 
+some main factors is unsustainable. Otherwise, we can consider it to be sustainable. 
+On behalf of the state, we select Haiti. We search for the original data of each 
+factor of the secondary criteria layer about Haiti between 2005 and 2012, through 
+which we gain its processed index

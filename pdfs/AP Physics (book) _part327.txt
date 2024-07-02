@@ -1,0 +1,34 @@
+ Eliot (from Murder in the Cathedral) has the women of
+Canterbury say “the earth presses up against our feet.” What force is this?
+(a) Gravity.
+(b) The normal force.
+(c) A friction force.
+(d) Centrifugal force.
+(e) No force—they are being poetic.
+F
+B = 0.
+F
+B 7 F
+A.
+F
+B 6 F
+A.
+F
+B = F
+A.
+F
+B
+F
+A
+W
+e have discussed how motion is described in terms of velocity and
+acceleration. Now we deal with the question of why objects move as
+they do: What makes an object at rest begin to move? What causes 
+an object to accelerate or decelerate? What is involved when an object moves 
+in a curved path? We can answer in each case that a force is required. In this
+Chapter†, we will investigate the connection between force and motion, which is
+the subject called dynamics.
+4–1 Force
+Intuitively, we experience force as any kind of a push or a pull on an object. When
+you push a stalled car or a grocery cart (Fig. 4–1), you are exerting a force on it.
+When a motor lifts an elevator, or a hammer hits a nail, 

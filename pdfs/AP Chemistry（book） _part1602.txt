@@ -1,0 +1,14 @@
+ ideal-gas equation describes how gases behave but not why they behave as they do. 
+Why does a gas expand when heated at constant pressure? Or why does its pressure 
+increase when the gas is compressed at constant temperature? To understand the phys-
+ical properties of gases, we need a model that helps us picture what happens to gas par-
+ticles when conditions such as pressure or temperature change. Such a model, known 
+as the kinetic-molecular theory of gases, was developed over a period of about 100 
+years, culminating in 1857 when Rudolf Clausius (1822–1888) published a complete and 
+satisfactory form of the theory.
+The kinetic-molecular theory (the theory of moving molecules) is summarized by 
+the following statements:
+1. Random motion Gases consist of large numbers of molecules that are in con-
+tinuous, random motion. (The word molecule is used here to designate the smallest 
+particle of any gas even though some gases, such as the noble gases, consist of in-
+dividual atoms. All we

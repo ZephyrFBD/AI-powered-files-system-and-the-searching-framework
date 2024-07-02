@@ -1,0 +1,16 @@
+t Hoff factor. For a non-
+electrolyte, we can always assume i = 1; for an electrolyte, i will depend on how the sub-
+stance ionizes in that solvent. For instance, i = 2 for NaCl in water, assuming complete 
+dissociation of ions. As a result, we expect the boiling-point elevation of a 1 m aqueous 
+solution of NaCl to be twice as large as the boiling-point elevation of a 1 m solution of a 
+nonelectrolyte such as sucrose. Thus, to properly predict the effect of a particular solute 
+on boiling-point elevation (or any other colligative property), it is important to know 
+whether the solute is an electrolyte or a nonelectrolyte. 
+ (Sections 4.1 and 4.3)
+Freezing-Point Depression
+The vapor–pressure curves for the liquid and solid phases meet at the triple point. 
+ (Section 11.6) In Figure 13.21 we see that the triple-point temperature of the solution 
+is lower than the triple-point temperature of pure liquid because the solution has a lower 
+vapor pressure than the pure liquid.
+Temperature
+ 1

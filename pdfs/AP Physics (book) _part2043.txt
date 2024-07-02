@@ -1,0 +1,44 @@
+08 msB
+(q = 1.6 * 10–19 C)
+Search and Learn
+525
+l
+x
+V
+Normal
+Superconducting
+Helium
+vapor
+(10 K)
+I
+Constant I
+Liquid
+helium
+(   4 K)
+FIGURE 18–38 Problem 91.
+*91. The level of liquid helium (temperature
+) in its storage
+tank can be monitored using a vertically aligned niobium–
+titanium (NbTi) wire, whose length 
+spans the height of
+the tank. In this level-sensing setup, an electronic circuit
+maintains a constant electrical current I at all times in the
+NbTi wire and a voltmeter monitors the voltage differ-
+ence V across this wire. Since the superconducting critical
+temperature for NbTi is 10 K, the portion of the wire
+immersed in the liquid helium is in the superconducting
+state, while the portion above the liquid (in helium vapor
+with temperature above 10 K) is in the normal state. Define
+to be the fraction of the tank filled with liquid
+helium (Fig. 18–38) and 
+to be the value of V when the
+tank is empty 
+Determine the relation between 
+f and V (in terms of 
+).
+V
+0
+(f = 0).
+V
+0
+f =

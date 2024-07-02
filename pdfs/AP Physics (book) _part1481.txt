@@ -1,0 +1,26 @@
+hanges between
+January (average temper-
+ature of 2°C) and July
+(average temperature of
+25°C). Ignore the angles
+of the iron beams and
+treat the tower as a verti-
+cal beam.
+AT
+C = T
+FB.
+18. (II) A certain car has 14.0 L of liquid coolant circulating at a
+temperature of 93°C through the engine’s cooling system.
+Assume that, in this normal condition, the coolant com-
+pletely fills the 3.5-L volume of the aluminum radiator and
+the 10.5-L internal cavities within the aluminum engine. When
+a car overheats, the radiator, engine, and coolant expand
+and a small reservoir connected to the radiator catches any
+resultant coolant overflow. Estimate how much coolant
+overflows to the reservoir if the system goes from 93°C 
+to 105°C. Model the radiator and engine as hollow shells
+of aluminum. The coefficient of volume expansion for
+coolant is
+*19. (II) An aluminum bar has the desired length when at 12°C.
+How much stress is required to keep it at this length if the
+temperature increases to 35°C? [See T

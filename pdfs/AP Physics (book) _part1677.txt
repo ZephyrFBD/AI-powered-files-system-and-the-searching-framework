@@ -1,0 +1,29 @@
+
+where 
+is the change in volume of the gas.
+A heat engine is a device for changing thermal energy, by
+means of heat flow, into useful work.
+The efficiency e of a heat engine is defined as the ratio of
+the work W done by the engine to the high temperature heat
+input 
+Because of conservation of energy, the work output
+equals 
+where 
+is the heat exhausted at low tem-
+perature to the environment; hence
+(15;4)
+and W, as defined for heat engines, are positive.
+The upper limit on the efficiency (the Carnot efficiency)
+can be written in terms of the higher and lower operating 
+temperatures (in kelvins) of the engine,
+and 
+as
+(15;5)
+Real (irreversible) engines always have an efficiency less than this.
+The operation of refrigerators and air conditioners is the
+reverse of a heat engine: work is done to extract heat 
+from a cool region and exhaust it to a region at a higher temper-
+ature. The coefficient of performance (COP) for either is
+(15;6a)
+where W is the work needed to remove heat 
+from the

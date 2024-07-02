@@ -1,0 +1,17 @@
+n series.
+NUCLEAR TRANSMUTATIONS (SECTION 21.3) Nuclear trans-
+mutations, induced conversions of one nucleus into another, can 
+be brought about by bombarding nuclei with either charged parti-
+cles or neutrons. Particle accelerators increase the kinetic energies of 
+positively charged particles, allowing these particles to overcome 
+their electrostatic repulsion by the nucleus. Nuclear transmutations 
+are used to produce the transuranium elements, those elements with 
+atomic numbers greater than that of uranium.
+RADIOACTIVE DECAY RATES AND DETECTION OF RADIOACTIV-
+ITY (SECTIONS 21.4 AND 21.5) The SI unit for the activity of 
+a radioactive source is the becquerel (Bq), defined as one nuclear 
+disintegration per second. A related unit, the curie (Ci), corre-
+sponds to 3.7 * 1010 disintegrations per second. Nuclear decay is 
+a first-order process. The decay rate (activity) is therefore directly 
+proportional to the number of radioactive nuclei. The half-life of a 
+radionuclide, which is a

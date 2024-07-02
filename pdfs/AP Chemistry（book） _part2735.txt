@@ -1,0 +1,17 @@
+lence point when pKa is 10 or higher because the pH change is too small and 
+gradual.
+pH titration experiments are an excellent way to measure the pKa of a weak acid. 
+Look at Figure 17.11. Notice that for each acid solution, 50 mL of strong base is required 
+to reach the equivalence point. This means, of course, that 50 mL of base is required to 
+ 
+convert the HA molecules into A- conjugate base anions. Also notice that halfway 
+ 
+to each equivalence point (at 25 mL base added), the pH of the solution is nearly equal 
+to the pKa of the acid. Is this a coincidence? No! Recall that Ka = 3H+43A-4>3HA4, where 
+all concentrations are those at equilibrium. Halfway to the equiv-
+alence point, half of 3HA4 has been converted to 3A-4. In other 
+words, 3HA4 = 3A-4. Therefore, 3HA4>3A-4 = 1. In which case, 
+Ka = 3H+4, and therefore pKa = pH.
+It becomes possible, then, to determine the pKa of a weak 
+acid from its pH titration curve. Once you identify the amount 
+of base needed to reach the equiv

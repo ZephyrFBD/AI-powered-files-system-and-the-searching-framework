@@ -1,0 +1,15 @@
+lenoid. One simple
+use is as a doorbell (Fig. 20–29). When the circuit is closed by pushing the button,
+the coil effectively becomes a magnet and exerts a force on the iron rod. The rod
+is pulled into the coil and strikes the bell. A large solenoid is used for the starter
+of a car: when you engage the starter, you are closing a circuit that not only turns
+the starter motor, but first activates a solenoid that moves the starter into direct
+contact with the gears on the engine’s flywheel. Solenoids are used a lot as switches
+in cars and many other devices. They have the advantage of moving mechanical
+parts quickly and accurately.
+Magnetic Circuit Breakers
+Modern circuit breakers that protect houses and buildings from overload and fire
+contain not only a “thermal” part (bimetallic strip as described in Section 18–6,
+Fig. 18–19) but also a magnetic sensor. If the current is above a certain level, the
+magnetic field the current produces pulls an iron plate that breaks the same contact
+point

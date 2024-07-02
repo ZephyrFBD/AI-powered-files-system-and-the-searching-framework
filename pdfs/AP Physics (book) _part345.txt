@@ -1,0 +1,40 @@
+on the dashboard starts sliding—it accelerates—even though the net force on
+it is zero. Thus 
+does not work in such an accelerating reference frame
+(
+but
+in this noninertial frame).
+EXERCISE A Suppose you watch a cup slide on the (smooth) dashboard of an acceler-
+ating car as we just discussed, but this time from an inertial reference frame outside the
+car, on the street. From your inertial frame, Newton’s laws are valid. What force pushes
+the cup off the dashboard?
+a
+B Z 0
+©F
+B = 0,
+©F
+B = ma
+B
+11,000 N.
+©F = ma = (1500 kg)A –7.0 ms2B
+=
+–1.1 * 104 N,
+a =
+v2 - v0
+2
+2(x - x0) =
+0 - (27.8 ms)2
+2(55 m)
+=
+–7.0 ms2.
+v2 = v0
+2 + 2aAx - x0B,
+x - x0 = 55 m.
+v = 0,
+v0 = 100 kmh = 27.8 ms
+±x
+4–5 Newton’s Third Law of Motion
+Newton’s second law of motion describes quantitatively how forces affect motion.
+But where, we may ask, do forces come from? Observations suggest that a force
+exerted on any object is always exerted by another object. A horse pulls a wagon,
+a person pushes a grocery cart

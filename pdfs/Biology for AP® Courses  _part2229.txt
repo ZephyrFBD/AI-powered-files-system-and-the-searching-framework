@@ -1,0 +1,9 @@
+ the "trunk" of the tree, one can discover that species' ancestors, as
+well as where lineages share a common ancestry. In addition, the tree can be used to study entire groups of organisms.
+Another point to mention on phylogenetic tree structure is that rotation at branch points does not change the information.
+For example, if a branch point was rotated and the taxon order changed, this would not alter the information because the
+evolution of each taxon from the branch point was independent of the other.
+Many disciplines within the study of biology contribute to understanding how past and present life evolved over time; these
+disciplines together contribute to building, updating, and maintaining the “tree of life.” Information is used to organize and
+classify organisms based on evolutionary relationships in a scientific field called systematics. Data may be collected from
+fossils, from studying the structure of body parts or molecules used by an organism, and by DNA analysis. By combin

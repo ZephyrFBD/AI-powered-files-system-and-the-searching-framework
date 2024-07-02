@@ -1,0 +1,50 @@
+w the plot goes above the 
+line for 1:1 neutron-to-proton for heavier elements. The dark blue dots in the figure rep-
+resent stable (nonradioactive) isotopes. The region of the graph covered by these dark 
+blue dots is known as the belt of stability. The belt of stability ends at element 83 (bis-
+muth), which means that all nuclei with 84 or more protons are radioactive. For example, all 
+isotopes of uranium, Z = 92, are radioactive.
+Different radionuclides decay in different ways. The type of decay that occurs 
+depends largely on a nuclide’s neutron-to-proton ratio and how it compares with the 
+Go Figure
+Estimate the optimal number of neutrons for a nucleus containing 70 protons.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Number of protons, p
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+Number of neutrons, n
+Nuclei below belt of stability, 
+dominant decay mode = positron 
+emission or electron capture
+Nuclei with Z ≥ 84, dominant 
+decay mode = alpha emission
+Bi
+83
+209
+(n/p = 1.52)
+I
+53

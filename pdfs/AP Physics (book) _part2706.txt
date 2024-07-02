@@ -1,0 +1,18 @@
+ransmits only the vertical component of
+a wave (electric field) incident upon it.
+FIGURE 24–42 Unpolarized light
+has equal intensity vertical and
+horizontal components. After passing
+through a polarizer, one of these
+components is eliminated. The
+intensity of the light is reduced to half.
+You can try this with Polaroid sunglasses (Fig. 24–44). Note that Polaroid sun-
+glasses eliminate 50% of unpolarized light because of their polarizing property;
+they absorb even more because they are colored. Plane-polarized light in any
+direction is also stopped by crossed Polaroids.
+Two Polaroids at 60°. Unpolarized light passes through
+two Polaroids; the axis of the first is vertical and that of the second is at 60° to
+the vertical. Describe the orientation and intensity of the transmitted light.
+APPROACH Half of the unpolarized light is absorbed by the first Polaroid, and the
+remaining light emerges plane-polarized vertically. When that light passes through
+the second Polaroid, the intensity is fu

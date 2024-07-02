@@ -1,0 +1,18 @@
+; a tRNA that interacts with a start codon,
+binds directly to the ribosome P site, and links to a special methionine to begin a polypeptide chain
+non–protein-coding intervening sequences that are spliced from mRNA during processing
+determines the correct initiation AUG in a eukaryotic mRNA; the following consensus sequence must
+appear around the AUG: 5’-GCC(purine)CCAUGG-3’; the bolded bases are most important
+one of the three mRNA codons that specifies termination of translation
+strand of DNA that is not used to transcribe mRNA; this strand is identical to the mRNA except that
+T nucleotides in the DNA are replaced by U nucleotides in the mRNA
+(ATTTGCAT) nonessential eukaryotic promoter sequence that binds cellular factors to increase the
+efficiency of transcription; may be present several times in a promoter
+622
+Chapter 15 | Genes and Proteins
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+peptidyl transferase
+plasmid
+poly-A tail
+polysome
+preinitiation

@@ -1,0 +1,45 @@
+ite 
+9 
+Gold 
+5%
+Silver 
+10%
+No color 
+20%
+10–2
+10–1
+109
+108
+107
+106
+105
+104
+103
+102
+101
+I
+A
+B
+R
+FIGURE 18–13 Example 18–4.
+First digit
+Second digit
+Multiplier
+Tolerance
+FIGURE 18–12 The resistance value of a given resistor is written on 
+the exterior, or may be given as a color code as shown below and in 
+the Table: the first two colors represent the first two digits in the value 
+of the resistance, the third color represents the power of ten that it 
+must be multiplied by, and the fourth is the manufactured tolerance.
+For example, a resistor whose four colors are red, green, yellow, and
+silver has a resistance of
+plus or
+minus 10%. [An alternative code is a number such as 104, which means
+]
+R = 1.0 * 104 .
+25 * 104  = 250,000  = 250 k,
+FIGURE 18–11 Photo of resistors (striped),
+plus other devices on a circuit board.
+Current and potential. Current I enters
+a resistor R as shown in Fig. 18–13. (a) Is the potential higher at point A or at
+point B? (b) Is the current greater at point

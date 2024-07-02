@@ -1,0 +1,36 @@
+ B; (2) by changing the area A of the loop in the field;
+or (3) by changing the loop’s orientation with respect to the field. Figures 21–1
+and 21–2 showed case 1. Cases 2 and 3 are illustrated in Figs. 21–5 and 21–6.
+u
+£B = BA cos u,
+594
+CHAPTER 21
+2. The magnetic field due to the induced current:
+(a) points in the same direction as the external field if
+the flux is decreasing; (b) points in the opposite direc-
+tion from the external field if the flux is increasing;
+or (c) is zero if the flux is not changing.
+3. Once you know the direction of the induced magnetic
+field, use right-hand-rule-1 (page 563, Chapter 20) to
+find the direction of the induced current.
+4. Always keep in mind that there are two magnetic
+fields: (1) an external field whose flux must be
+changing if it is to induce an electric current, and
+(2) a magnetic field produced by the induced current.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Lenz’s Law
+Lenz’s law is used to determine the direction of the
+(conventional) electric current i

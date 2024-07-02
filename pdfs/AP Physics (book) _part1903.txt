@@ -1,0 +1,38 @@
+ to be displayed is applied (after amplifi-
+cation) to the vertical deflection plates.]
+*
+1
+60 s
+1
+60 s
+1
+60 s
+480 * 704 pixels.
+720 * 1280,
+1080 * 1920 pixels
+1
+60 s
+
+(L  17 ms)
+1
+60 s
+C= A 1
+60 sBA
+1
+1080 linesB D.
+15 ms
+(L  17 ms)
+1
+60 s
+¢V
+492
+Then a new frame is started.The addressing of subpixels for each row of each frame
+serves the same purpose as the sweep of the electron beam in a CRT, Fig. 17–30.
+Active Matrix (advanced)
+High-definition displays use an active matrix, meaning that a tiny thin-film
+transistor (TFT) is attached to a corner of the back of each subpixel. (Transistors
+are discussed in Section 29–10.) One electrode of each TFT, called the “source,” is
+connected to the vertical wire which addresses that subpixel, Fig. 17–34, and the
+“drain” electrode is connected to the back of the subpixel. The horizontal wire that
+serves the subpixel is connected to the transistor’s gate electrode.The gate’s voltage,
+by attracting charge or not, functions as a switch to connect o

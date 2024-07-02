@@ -1,0 +1,10 @@
+eces are present from each copy.
+The person then mixes all of the pieces together and asks you to reconstruct the photograph. In one of the smaller pieces
+you see a mountain. In a larger piece, you see that the same mountain is behind a lake. A third fragment shows only the
+lake, but it reveals that there is a cabin on the shore of the lake. Therefore, from looking at the overlapping information in
+these three fragments, you know that the picture contains a mountain behind a lake that has a cabin on its shore. This is the
+principle behind reconstructing entire DNA sequences using shotgun sequencing.
+Originally, shotgun sequencing only analyzed one end of each fragment for overlaps. This was sufficient for sequencing
+small genomes. However, the desire to sequence larger genomes, such as that of a human, led to the development of double-
+barrel shotgun sequencing, more formally known as pairwise-end sequencing. In pairwise-end sequencing, both ends of
+each fragment are analyzed for overl

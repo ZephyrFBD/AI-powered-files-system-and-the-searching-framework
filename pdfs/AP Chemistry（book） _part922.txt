@@ -1,0 +1,16 @@
+ J@s
+4p19.11 * 10 - 31 kg215 * 104 m>s2
+b = 1 * 10 - 9 m 
+Because the diameter of a hydrogen atom is about 1 * 10 - 10 m, the uncertainty in 
+the position of the electron in the atom is an order of magnitude greater than the size 
+of the atom. Thus, we have essentially no idea where the electron is located in the atom. 
+On the other hand, if we were to repeat the calculation with an object of ordinary mass, 
+such as a tennis ball, the uncertainty would be so small that it would be inconsequential. 
+In that case, m is large and ∆x is out of the realm of measurement and therefore of no 
+practical consequence.
+De Broglie’s hypothesis and Heisenberg’s uncertainty principle set the stage for 
+a new and more broadly applicable theory of atomic structure. In this approach, any 
+attempt to define precisely the instantaneous location and momentum of the elec-
+tron is abandoned. The wave nature of the electron is recognized, and its behavior is 
+described in terms  
+appropriate to waves. The res

@@ -1,0 +1,11 @@
+pter 5 | Structure and Function of Plasma Membranes
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+In living systems, diffusion of substances into and out of cells is mediated by the plasma membrane. Some materials
+diffuse readily through the membrane, but others are hindered, and their passage is made possible by specialized proteins,
+such as channels and transporters. The chemistry of living things occurs in aqueous solutions, and balancing the
+concentrations of those solutions is an ongoing problem. In living systems, diffusion of some substances would be slow or
+difficult without membrane proteins that facilitate transport.
+5.3 Active Transport
+The combined gradient that affects an ion includes its concentration gradient and its electrical gradient. A positive ion, for
+example, might tend to diffuse into a new area, down its concentration gradient, but if it is diffusing into an area of net
+positive charge, its diffusion will be hampered by its elec

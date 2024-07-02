@@ -1,0 +1,26 @@
+n. In the 
+2000s, a new technique was developed, called prepolarized MRI, that 
+ 
+requires much less expensive equipment and will lead to an even 
+greater  
+application of this important diagnostic tool.
+Related Exercise: 6.100
+Chemistry And life Nuclear Spin and Magnetic Resonance Imaging
+ 
+SECTION 6.8  Electron Configurations 
+237
+238 
+CHAPTER 6 Electronic Structure of Atoms
+In this representation, which we call an orbital diagram, each orbital is denoted by 
+a box and each electron by a half arrow. A half arrow pointing up 1
+t
+ 2 represents an electron 
+with a positive spin magnetic quantum number 1ms = + 1
+22, and a half arrow pointing down 
+1 
+t
+2 represents an electron with a negative spin magnetic quantum number 1ms = - 1
+22. 
+This pictorial representation of electron spin, which corresponds to the directions of the 
+ magnetic fields in Figure 6.26, is quite convenient. Chemists refer to the two possible spin 
+states as “spin-up” and “spin-down” corresponding to the directions o

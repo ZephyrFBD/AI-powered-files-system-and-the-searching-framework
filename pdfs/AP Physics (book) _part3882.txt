@@ -1,0 +1,96 @@
+ther = 1300 N,  down.
+F
+closer = 2900 N,  down;
+F
+B = 2.6 * 103 N,  up.
+F
+A = 1.8 * 103 N,  down;
+F
+B = 2.0 * 103 N,  up;
+F
+A = 1.5 * 103 N,  down;
+F
+B
+A.
+820 mN;
+820 kgm2s2;
+l2;  l2.
+3
+2 g.
+3g2l;
+F
+4 kg = 26.3 N,  F
+3 kg = 19.8 N.
+Mg 32Rh - h2
+R - h
+.
+vRvF = N
+FN
+R;
+4.50 ms.
+f
+R1 = 480 rpm,  f
+R2 = 210 rpm.
+A3.2 * 10–16B%.
+kef = 2 * 104 kei.
+5 * 10–2 rads;
+0.80 rads.
+0.43 rads;
+keafter = 2.0 * 102 J.
+kebefore = 370 J,
+0.52 rads;
+1.2 kgm2;
+1
+2 v.
+–2.5 mN.
+15 kgm2s;
+7.27 ms.
+3
+10
+7 gAR0 - r0B .
+1.63 * 104 J.
+2.7 * 1033 J.
+2.6 * 1029 J;
+9.70 ms.
+aB = 0.69 ms2,
+aA = 0.69 ms2,
+8.9 * 103 mN.
+1.90 * 103 kgm2;
+320 mN;
+0.70 kgm2;
+7.0 kgm2;
+22 mN.
+7.8 mN;
+1.2 * 10–10 m.
+0.12 kgm2.
+–13 mN.
+14 mN;
+Answers to Odd-Numbered Problems
+A-31
+31. 10.5%.
+33. 32 bottles.
+35. 0.88.
+37. (a)
+(b) 1.07;
+(c) 12%.
+39. 9 N, down, 21 N, up.
+41.
+43.
+45.
+47.
+49.
+51.
+53.
+2.2 atm.
+57. 1100 N.
+59.
+61. 0.094 m.
+63. (a) Laminar;
+(b) 2940, turbulent.
+65.
+67.
+69. (a)
+(b)
+71. 1.5 mm.
+73. (a)
+(b

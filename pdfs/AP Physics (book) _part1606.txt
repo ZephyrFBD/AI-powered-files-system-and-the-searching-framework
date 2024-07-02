@@ -1,0 +1,22 @@
+g isothermal
+processes at two different temperatures.
+Ideal gas
+Movable
+piston
+FIGURE 15–1 An ideal gas in a
+cylinder fitted with a movable piston.
+†If a gas expands or is compressed quickly, there is turbulence and different parts of the gas in its 
+container would be at different pressures and temperatures.
+SECTION 15–2
+Thermodynamic Processes and the First Law
+415
+If the gas is initially in a state represented by point A in Fig. 15–2, and an amount
+of heat Q is added to the system, the pressure and volume will change and 
+the state of the system will be represented by another point, B, on the diagram.
+If the temperature is to remain constant, the gas will expand and do an amount 
+of work W on the environment (it exerts a force on the piston in Fig. 15–1
+and moves it through a distance). The temperature and mass are kept constant
+so, from Eq. 14–1, the internal energy does not change:
+Hence, by the first law of thermodynamics, Eq. 15–1,
+so
+the work done by the gas in an isothermal pr

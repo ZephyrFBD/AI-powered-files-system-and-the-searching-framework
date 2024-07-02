@@ -1,0 +1,28 @@
+W
+OF INDUCTION
+2
+1–2 Faraday’s Law of Induction; Lenz’s Law
+Faraday investigated quantitatively what factors influence the magnitude of the emf
+induced. He found first of all that the more rapidly the magnetic field changes, the
+greater the induced emf. He also found that the induced emf depends on the area
+of the circuit loop (and also the angle it makes with ). In fact, it is found that the
+emf is proportional to the rate of change of the magnetic flux,
+passing through
+the circuit or loop of area A. Magnetic flux for a uniform magnetic field through
+a loop of area A is defined as
+(21;1)
+Here 
+is the component of the magnetic field 
+perpendicular to the face of the
+loop, and 
+is the angle between 
+and a line perpendicular to the face of the
+loop. These quantities are shown in Fig. 21–3 for a square loop of side whose
+area is 
+When the face of the loop is parallel to 
+and 
+When 
+is perpendicular to the face of the loop,
+and
+As we saw in Chapter 20, the lines of 
+(like lines of ) can be

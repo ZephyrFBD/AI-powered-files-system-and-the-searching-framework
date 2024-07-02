@@ -1,0 +1,35 @@
+rom athletics is shown in Fig. 7–27.
+If high jumpers can get into the position shown, their CM can pass below the 
+bar which their bodies go over, meaning that for a particular takeoff speed, they
+can clear a higher bar. This is indeed what they try to do.
+50.3
+33.9
+9.6
+23.6
+9.6
+28.5
+18.2
+1.8
+(a)
+(b)
+y
+x
+FIGURE 7;26 Example 7–13:
+finding the CM of a leg in two 
+different positions using percentages
+from Table 7–1. (
+represents the
+calculated CM.)
+
+CM
+FIGURE 7;27 A high jumper’s CM
+may actually pass beneath the bar.
+P H Y S I C S  A P P L I E D
+The high jump
+7–10 CM and Translational Motion
+As mentioned in Section 7–8, a major reason for the importance of the concept
+of center of mass is that the motion of the CM for a system of particles (or an
+extended object) is directly related to the net force acting on the system as a
+whole. We now show this, taking the simple case of one-dimensional motion
+(x direction) and only three particles, but the extension to more objects and to
+three dim

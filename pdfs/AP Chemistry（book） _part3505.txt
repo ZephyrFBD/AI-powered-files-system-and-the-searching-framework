@@ -1,0 +1,23 @@
+ brine (NaCl) solutions in the course of commercial Cl2 and NaOH manufacture:
+ 
+2 NaCl1aq2 + 2 H2O1l2 ¡
+electrolysis H21g2 + Cl21g2 + 2 NaOH1aq2 
+[22.11]
+Give It Some Thought
+What are the oxidation states of the H atoms in Equations 22.7–22.11?
+A Closer look The Hydrogen Economy
+The reaction of hydrogen with oxygen is highly exothermic:
+   
+2 H21g2 + O21g2 ¡ 2 H2O1g2 ∆H = -483.6 kJ 
+[22.12]
+Because H2 has a low molar mass and a high enthalpy of combus-
+tion, it has a high energy density by mass. (That is, its combustion 
+produces high energy per gram.) The only product of the reaction 
+is water vapor, which means that hydrogen is environmentally 
+cleaner than fossil fuels. Thus, the prospect of using hydrogen 
+widely as a fuel is attractive. Furthermore, the hydrogen can be uti-
+lized as a fuel in hydrogen fuel cells, enhancing the efficiency of its 
+use. 
+ (Section 20.7)
+The term hydrogen economy is used to describe the concept of 
+delivering and using hydrogen as a fuel in place of f

@@ -1,0 +1,32 @@
+pe 5.0 cm in diame-
+ter. The pipe tapers down to 2.8 cm in
+diameter by the top floor, 16 m above
+(Fig. 10–53), where the faucet has been
+left open. Calculate the flow velocity and
+the gauge pressure in the pipe on the top
+floor. Assume no branch pipes and ignore
+viscosity.
+0.78 ms
+150 ms,
+280 ms
+88 m2
+*10–11 Viscosity
+*58. (II) A viscometer consists of two concentric cylinders,
+10.20 cm and 10.60 cm in diameter. A liquid fills the space
+between them to a depth of 12.0 cm. The outer cylinder is
+fixed, and a torque of 
+keeps the inner cylinder
+turning at a steady rotational speed of 
+What is
+the viscosity of the liquid?
+*10–12 Flow in 
+T
+ubes; Poiseuille’s Equation
+*59. (I) Engine oil (assume SAE 10, Table 10–3) passes through
+a fine 1.80-mm-diameter tube that is 10.2 cm long. What
+pressure difference is needed to maintain a flow rate of
+*60. (I) A gardener feels it is taking too long to water a garden
+with a
+hose. By what factor will the time be
+cut using a
+hose instead? Assume nothi

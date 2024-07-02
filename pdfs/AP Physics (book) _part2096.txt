@@ -1,0 +1,27 @@
+o 
+further current flow, and no potential difference across the resistor. The potential
+difference 
+across the capacitor, which is proportional to the charge on it
+(
+Eq. 17–7), thus increases in time as shown in Fig. 19–20b. The shape
+of this curve is a type of exponential, and is given by the formula†
+(19;7a)
+where we use the subscript C to remind us that 
+is the voltage across the
+capacitor and is given here as a function of time t. [The constant e, known as the
+base for natural logarithms, has the value
+Do not confuse this e with
+e for the charge on the electron.]
+We can write a similar formula for the charge Q
+on the capacitor:
+(19;7b)
+where 
+represents the maximum charge.
+The product of the resistance R times the capacitance C, which appears in
+the exponent, is called the time constant
+of the circuit:
+(19;7c)
+The time constant is a measure of how quickly the capacitor becomes charged.
+[The units of RC are
+] Specifically, it 
+can be shown that the product RC gives the time required

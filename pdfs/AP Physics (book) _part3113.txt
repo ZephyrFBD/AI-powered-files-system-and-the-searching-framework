@@ -1,0 +1,17 @@
+explanations for why there is emission and absorp-
+tion of light by atoms at only certain wavelengths. The wavelengths of the
+line spectra and the ionization energy for hydrogen (and one-electron ions) are
+in excellent agreement with experiment. But the Bohr model had important 
+limitations. It was not able to predict line spectra for more complex atoms—atoms
+with more than one electron—not even for the neutral helium atom, which has only
+two electrons. Nor could it explain why emission lines, when viewed with great
+precision, consist of two or more very closely spaced lines (referred to as fine
+structure). The Bohr model also did not explain why some spectral lines were
+brighter than others. And it could not explain the bonding of atoms in molecules
+or in solids and liquids.
+From a theoretical point of view, too, the Bohr model was not satisfactory: it
+was a strange mixture of classical and quantum ideas. Moreover, the wave–particle
+duality was not really resolved.
+803
+CONTENTS
+28–1 Q

@@ -1,0 +1,28 @@
+ry. Calculate (a) the potential difference
+across each capacitor and (b) the charge on each. (c) Repeat
+parts (a) and (b) assuming the two capacitors are in parallel.
+47. (II) A circuit contains a single 250-pF capacitor hooked
+across a battery. It is desired to store four times as much
+energy in a combination of two capacitors by adding a
+single capacitor to this one. How would you hook it up, and
+what would its value be?
+48. (II) Suppose three parallel-plate capacitors, whose plates
+have areas 
+and 
+and separations 
+and 
+are connected in parallel. Show, using only Eq. 17–8, that
+Eq. 19–5 is valid.
+49. (II) Two capacitors connected in parallel produce an
+equivalent capacitance of 
+but when connected in
+series the equivalent capacitance is only 
+What is
+the individual capacitance of each capacitor?
+50. (III) Given three capacitors,
+and 
+what arrangement of parallel and series
+connections with a 12-V battery will give the minimum
+voltage drop across the 
+capacitor? What is the
+minimum v

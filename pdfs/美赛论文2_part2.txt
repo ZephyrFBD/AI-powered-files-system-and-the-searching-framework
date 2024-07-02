@@ -1,0 +1,16 @@
+example to show 
+the accurate value of the results in our models. 
+We set up our Spread Model on the basis of SIR Model, adding the 
+influence of both the drugs and vaccines. In other words, the parameters in 
+the original SIR Model are not constant, they will change with time. This 
+model can be used to forecast the demand of medication in the future. 
+In our Production Model, We divide the whole produce process into four 
+stages. On stageⅠ~ Ⅲ, the output of the medication is determined by 
+technology and is smaller than the demand. On stage Ⅳ, the output of the 
+medication is determined by the demand. 
+Our Delivery Model consists of vertical transport（medication distributes 
+from the treatment center to epidemic areas）and lateral transport(medication 
+distributes from one epidemic area to another). There are two objectives in 
+our Delivery Model: To minimize the total cost of the transport and to 
+minimize the distribution time. 
+Key word: SIR Model, Production Model, Delivery Model,

@@ -1,0 +1,22 @@
+
+using Equation 19.12. At T = 25 °C = 298 K, we have
+ ∆G° = -92.38 kJ - 1298 K21-198.3 J>K2a 1 kJ
+1000 J b
+ = -92.38 kJ + 59.1 kJ = -33.3 kJ
+At T = 500 °C = 773 K, we have
+ ∆G = -92.38 kJ - 1773 K21-198.3 J>K2a 1 kJ
+1000 J b
+ = -92.38 kJ + 153 kJ = 61 kJ
+Notice that we had to convert the units of -T∆S° to kJ in both cal-
+culations so that this term can be added to the ∆H ° term, which 
+has units of kJ.
+Comment Increasing the temperature from 298 K to 773 K changes 
+∆G from -33.3 kJ to +61 kJ. Of course, the result at 773 K assumes 
+that ∆H° and ∆S° do not change with temperature. Although 
+these values do change slightly with temperature, the result at 
+773 K should be a reasonable approximation.
+The positive increase in ∆G with increasing T agrees with our 
+prediction in part (a). Our result indicates that in a mixture of 
+N21g2, H21g2, and NH31g2, each present at a partial pressure of  
+1 atm, the N21g2 and H21g2 react spontaneously at 298 K to form 
+more NH31g2. At 773 K, the positi

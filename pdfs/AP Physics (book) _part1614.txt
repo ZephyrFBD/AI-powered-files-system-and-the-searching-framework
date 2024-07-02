@@ -1,0 +1,38 @@
+of process BDA is
+the same, there is no change in internal energy:
+From the first law of
+thermodynamics we have
+so
+Because Q is negative, 1600 J of heat flows out of the gas for the whole process,
+BDA.
+Q = W =
+–1.6 * 103 J.
+ 
+0 = ¢U = Q - W,
+¢U = 0.
+±1.6 * 103 J
+–1.6 * 103 J,
+=
+–1.6 * 103 J.
+= A2.02 * 105 Nm2B C A2.0 * 10–3 m3B - A10.0 * 10–3 m3B D
+W = P ¢V
+A1 L = 103 cm3 = 10–3 m3B
+2A1.01 * 105 Nm2B
+2.0 atm =
+¢V = 0
+AT
+A = T
+BB.
+EXAMPLE 15;4
+SECTION 15–2
+Thermodynamic Processes and the First Law
+417
+EXERCISE C In Example 15–4, if the heat lost from the gas in the process BD is
+what is the change in internal energy of the gas during process BD?
+8.4 * 103 J,
+Work done in an engine. In an engine, 0.25 mol of an 
+ideal monatomic gas in the cylinder expands rapidly and adiabatically against
+the piston. In the process, the temperature of the gas drops from 1150 K to 400 K.
+How much work does the gas do?
+APPROACH We take the gas as our system (the piston is part of the surround-
+ings). The

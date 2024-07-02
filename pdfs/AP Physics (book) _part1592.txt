@@ -1,0 +1,21 @@
+A house thermostat is normally set to 22°C, but at night it
+is turned down to 16°C for 9.0 h. Estimate how much more
+heat would be needed (state as a percentage of daily usage)
+if the thermostat were not turned down at night. Assume that
+the outside temperature averages 0°C for the 9.0 h at night
+and 8°C for the remainder of the day, and that the heat loss
+from the house is proportional to the temperature difference
+inside and out. To obtain an estimate from the data, you must
+make other simplifying assumptions; state what these are.
+0.80 kcalkgK.
+4.5 * 10–4 kg
+40 cm2
+160 ms.
+220 ms
+1. Create graphs similar to Fig.14–5, but for lead and ethyl alco-
+hol. Compare and contrast them with each other and with the
+graph for water. Are there any temperature ranges for which
+all three substances are liquids? All vapors? All solids?
+For convenience, use the specific heats given in Table 14–1
+for all states of lead and ethyl alcohol.
+2. (a) Using the solar constant, estimate the rate at which

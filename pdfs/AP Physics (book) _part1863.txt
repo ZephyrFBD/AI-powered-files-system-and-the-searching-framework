@@ -1,0 +1,35 @@
+
+»C(±) “ O(–)
+L 3.0 * 10–30
+»N(–) ¬ H(±)
+5.0 * 10–30
+N(–)H3
+(±)
+3.4 * 10–30
+H(±)Cl(–)
+6.1 * 10–30
+H2
+(±)O(–)
+(C  m)
+r
+r
+l
+P
+u
+Δr
+−Q
++Q
+FIGURE 17–12 Electric dipole.
+Calculation of potential V at point P.
+17–7 Capacitance
+A capacitor is a device that can store electric charge, and normally consists of two
+conducting objects (usually plates or sheets) placed near each other but not
+touching. Capacitors are widely used in electronic circuits and sometimes are
+called condensers. Capacitors store charge for later use, such as in a camera flash,
+and as energy backup in devices like computers if the power fails. Capacitors 
+also block surges of charge and energy to protect circuits. Very tiny capacitors
+serve as memory for the “ones” and “zeros” of the binary code in the random
+access memory (RAM) of computers and other electronic devices (as in
+Fig. 17–35). Capacitors serve many other applications as well, some of which we
+will discuss.
+A simple capacitor consists of a pair of parallel plat

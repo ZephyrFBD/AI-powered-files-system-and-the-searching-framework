@@ -1,0 +1,42 @@
+with object B, the target. After
+the collision, they move off with
+momenta 
+and 
+at angles 
+and uB
+œ .
+uA
+œ
+p
+B
+B
+œ
+p
+B
+A
+œ
+Let us apply the law of conservation of momentum to a collision like that of
+Fig. 7–18. We choose the xy plane to be the plane in which the initial and final
+momenta lie. Momentum is a vector, and because the total momentum is 
+conserved, its components in the x and y directions also are conserved. The
+x component of momentum conservation gives
+or, with  
+(7;8a)
+where primes 
+refer to quantities after the collision.There is no motion in the y direc-
+tion initially, so the y component of the total momentum is zero before the collision.
+(¿)
+mAvA = mA vA
+œ cos uA
+œ + mBvB
+œ cos uB
+œ ,
+pBx = mB vBx = 0,
+pAx + pBx = pAx
+œ
++ pBx
+œ
+7–7 Collisions in Two Dimensions
+Conservation of momentum and energy can also be applied to collisions in two or
+three dimensions, where the vector nature of momentum is especially important.
+One common type of non-head-on collision is that in

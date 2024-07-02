@@ -1,0 +1,32 @@
+–2, –3, –4?
+ml
+n = 4, l = 2.
+E and L for
+Determine (a) the energy and (b) the
+orbital angular momentum for an electron in each of the hydrogen atom states
+with 
+, as in Example 28–4.
+APPROACH The energy of a state depends only on n, except for the very small
+corrections mentioned above, which we will ignore. Energy is calculated as in the
+Bohr model,
+For angular momentum we use Eq. 28–3.
+SOLUTION (a) Since 
+for all these states, they all have the same energy,
+(b) For
+Eq. 28–3 gives
+For
+For
+NOTE Atomic angular momenta are generally given as a multiple of 
+(
+or
+in this case), rather than in SI units.
+EXERCISE D What are the energy and angular momentum of the electron in a hydrogen
+atom with
+Although and 
+do not significantly affect the energy levels in hydrogen,
+they do affect the electron probability distribution in space. For 
+and 
+can only be zero and the electron distribution is as shown in Fig. 28–6. For
+can be 0 or 1. The distribution for
+is shown in Fig. 28–9a,
+and it is seen to d

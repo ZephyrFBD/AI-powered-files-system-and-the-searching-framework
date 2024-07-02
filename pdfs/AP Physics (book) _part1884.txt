@@ -1,0 +1,28 @@
+solution or bit depth, which 
+is the number of bits or values for the voltage of each sample (
+measurement);
+(ii) the sampling rate, which is the number of times per second the original analog
+voltage is measured (“sampled”).
+Consider a digital approximation for a 100-Hz sine wave: Figure 17–24 shows 
+(i) a 0 to 6-V, 2-bit depth, measuring only 4 possible voltages (00, 01, 10, 11,
+or 0, 1, 2, 3 in decimal), and (ii) a sampling rate of (9 samples in one cycle or
+wavelength
+100 cycles
+) which is 900 samples s or 900 Hz. This is very
+poor quality. For high quality reproduction, a greater bit depth and higher sampling
+rate are needed, which requires more memory, and more data to be transmitted.
+
+s = 100 Hz
+) * (
+=
+
+19 * 106 bits
+19 Mbs = 19 
+(256)3 = 17 * 106
+28 = 256
+0 V
+±5 V
+17–10 Digital; Binary Numbers;
+Signal Voltage
+Batteries and a wall plug are meant to provide a constant supply voltage as power
+to operate a flashlight, an electric heater, and other electric and electronic devic

@@ -1,0 +1,18 @@
+ht (actually X-rays) at various
+materials, and detected light scattered at various angles. He found that the scattered
+light had a slightly longer wavelength than did the incident light, and therefore a
+slightly lower frequency indicating a loss of energy. He explained this result on the
+basis of the photon theory as incident photons colliding with electrons of the
+material, Fig. 27–9. Using Eq. 27–6 for momentum of a photon, Compton applied
+the laws of conservation of momentum and energy to the collision of Fig. 27–9
+and derived the following equation for the wavelength of the scattered photons:
+(27;7)
+where 
+is the mass of the electron. (The quantity 
+which has the dimen-
+sions of length, is called the Compton wavelength of the electron.) We see that
+the predicted wavelength of scattered photons depends on the angle 
+at which
+they are detected. Compton’s measurements of 1923 were consistent with this
+formula. The wave theory of light predicts no such shift: an incoming electro-
+magne

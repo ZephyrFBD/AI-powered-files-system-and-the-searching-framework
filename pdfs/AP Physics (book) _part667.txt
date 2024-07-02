@@ -1,0 +1,30 @@
+–41 is pulled up to
+point 1 where it is released from rest. Assuming no friction,
+calculate the speed at points 2, 3, and 4.
+875 Nm,
+32 m
+26 m
+1
+2
+3
+4
+14 m
+FIGURE 6–41 Problems 40 and 50.
+42. (II) What should be the spring constant k of a spring
+designed to bring a 1200-kg car to rest from a speed of
+so that the occupants undergo a maximum accel-
+eration of 4.0 g?
+43. (III) An engineer is designing a spring to be placed at the
+bottom of an elevator shaft. If the elevator cable breaks
+when the elevator is at a height h above the top of the
+spring, calculate the value that the spring constant k should
+have so that passengers undergo an acceleration of no more
+than 5.0 g when brought to rest. Let M be the total mass 
+of the elevator and passengers.
+44. (III) A block of mass m is attached to the end of a spring
+(spring stiffness constant k), Fig. 6–43. The mass is given
+an initial displacement 
+from equilibrium, and an initial
+speed 
+Ignoring friction and the mass of the spring, use
+energ

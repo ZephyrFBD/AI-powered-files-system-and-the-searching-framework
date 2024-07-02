@@ -1,0 +1,36 @@
+PROACH We need to convert meters to feet, and we can start with the
+conversion factor
+which is exact. That is,
+to any number of significant figures, because it is defined to be.
+SOLUTION One foot is 12 in., so we can write
+which is exact. Note how the units cancel (colored slashes). We can rewrite
+this equation to find the number of feet in 1 meter:
+(We could carry the result to 6 significant figures because 0.3048 is exact,
+0.304800....) We multiply this equation by 8000.0 (to have five significant figures):
+An elevation of 8000 m is 26,247 ft above sea level.
+NOTE We could have done the conversion all in one line:
+The key is to multiply conversion factors, each equal to one
+and
+to make sure which units cancel.
+(= 1.0000),
+8000.0 m = (8000.0 m ) ¢ 100 cm
+1 m
+≤¢
+1 in.
+2.54 cm ≤¢
+1 ft
+12 in. ≤
+= 26,247 ft.
+8000.0 m = (8000.0 m ) ¢3.28084 ft
+m ≤
+= 26,247 ft.
+1 m =
+1 ft
+0.3048
+= 3.28084 ft.
+1 ft = (12 in. ) ¢2.54 cm
+in. ≤
+= 30.48 cm = 0.3048 m,
+1 in. = 2.5400 cm
+1 in. = 2.54 cm,
+EXAMPLE 1

@@ -1,0 +1,53 @@
+.28 15.09 16.81 18.48 20.09 
+LAWS OF PROBABILITY 
+If A and B are mutually exclusive, then: 
+P(A or B) = P(A) + P(B) 
+If A and B are independent, then: 
+P(A and B) = P(A) × P(B) 
+HARDY-WEINBERG EQUATIONS 
+p = frequency of allele 1 in a 
+population 
+q = frequency of allele 2 in a 
+ 
+population 
+METRIC PREFIXES 
+Factor 
+Prefix 
+Symbol 
+109 
+giga 
+G 
+106 
+mega 
+M 
+103 
+kilo 
+k 
+10-2 
+centi 
+c 
+10-3 
+milli 
+m 
+10-6 
+micro 
+μ 
+10-9 
+nano 
+n 
+10-12 
+pico 
+p 
+Mode = value that occurs most frequently in a data set 
+Median = middle value that separates the greater and lesser halves of a data set 
+Mean = sum of all data points divided by number of data points 
+Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum) 
+*For the purposes of the AP Exam, students will not be required to perform calculations using this equation; however, 
+they must understand the underlying concepts and applications. 
+Appendix A A1 
+dY 
+dt 
+dN  = B − D 
+dt 
+(
+2

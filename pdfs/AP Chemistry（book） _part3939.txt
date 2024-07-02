@@ -1,0 +1,24 @@
+o the same hydrogen 
+bonding, electrostatic, and dispersion forces we have seen before. 
+Hemoglobin, the protein used to transport oxygen molecules in 
+our blood, is an example of a protein that has quaternary structure. 
+Hemoglobin is a tetramer; it is made of four smaller polypeptides, 
+two “alphas” and two “betas.” (These names do not imply anything 
+about the number of alpha helices or beta sheets in the individ-
+ual polypeptides.) Design a set of experiments that would provide 
+sound evidence that hemoglobin exists as a tetramer and not as one 
+enormous polypeptide chain.
+ 
+Design an Experiment 
+1079
+1080
+MATHEMATICAL OPERATIONS
+A
+APPENDIX 
+A.1 | Exponential Notation
+The numbers used in chemistry are often either extremely large or extremely small. Such 
+numbers are conveniently expressed in the form
+N * 10n
+where N is a number between 1 and 10, and n is the exponent. Some examples of this 
+exponential notation, which is also called scientific notation, follow.
+1,200,000 is 1.2 * 

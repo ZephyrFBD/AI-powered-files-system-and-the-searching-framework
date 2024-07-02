@@ -1,0 +1,16 @@
+re the
+velocity is low, the pressure is high. For example, if the pressure in the fluid is
+measured at points 1 and 2 of Fig. 10–19, it will be found that the pressure is
+lower at point 2, where the velocity is greater, than it is at point 1, where the
+velocity is smaller. At first glance, this might seem strange; you might expect that
+the greater speed at point 2 would imply a higher pressure. But this cannot be the case:
+SECTION 10–9
+Bernoulli’s Equation
+275
+if the pressure in the fluid at point 2 were higher than at point 1, this higher 
+pressure would slow the fluid down, whereas in fact it has sped up in going from
+point 1 to point 2. Thus the pressure at point 2 must be less than at point 1, to be
+consistent with the fact that the fluid accelerates.
+To help clarify any misconceptions, a faster fluid might indeed exert a greater
+force bouncing off an obstacle placed in its path. But that is not what we mean 
+by the pressure in a fluid. We are examining smooth streamline flow, with

@@ -1,0 +1,12 @@
+yzed into ADP in the following reaction:
+ATP + H2 O →ADP + Pi + free energy
+Like most chemical reactions, the hydrolysis of ATP to ADP is reversible. The reverse reaction regenerates ATP from ADP
++ Pi. Indeed, cells rely on the regeneration of ATP just as people rely on the regeneration of spent money through some sort
+of income. Since ATP hydrolysis releases energy, ATP regeneration must require an input of free energy. The formation of
+ATP is expressed in this equation:
+ADP + Pi + free energy →ATP + H2 O
+Two prominent questions remain with regard to the use of ATP as an energy source. Exactly how much free energy is
+released with the hydrolysis of ATP, and how is that free energy used to do cellular work? The calculated ∆G for the
+hydrolysis of one mole of ATP into ADP and Pi is −7.3 kcal/mole (−30.5 kJ/mol). Since this calculation is true under
+standard conditions, it would be expected that a different value exists under cellular conditions. In fact, the ∆G for the
+hydrolysis of one

@@ -1,0 +1,40 @@
+ mass and energy changes for nuclear reactions. (Sec-
+tion 21.6) Related Exercises: 21.45, 21.51
+t Calculate the binding energies for nuclei. (Section 21.6) 
+Related Exercises: 21.47, 21.49
+t Describe the difference between fission and fusion and explain 
+how a nuclear power plant operates. (Sections 21.7 and 21.8) 
+ 
+Related Exercises: 21.57, 21.65
+t Compare different measurements and units of radiation dosage 
+and describe the biological effects of radiation. (Section 21.9) 
+ 
+Related Exercises: 21.67, 21.69
+ 
+Exercises 
+935
+Key Equations
+t k = 0.693
+t1>2
+ 
+[21.19]  
+ 
+Relationship between nuclear decay constant and half-life; this is 
+derived from the following equation at Nt = 1
+2N0
+t ln
+Nt
+N0
+ = -kt 
+[21.20]  
+First-order rate law for nuclear decay 
+t E = mc2 
+[21.22]  
+Einstein’s equation that relates mass and energy
+Exercises
+Visualizing Concepts
+ 
+21.1  Indicate whether each of the following nuclides lies 
+within the belt of stability in Figure 21.2: (a) neon-24, 
+ 
+(b) c

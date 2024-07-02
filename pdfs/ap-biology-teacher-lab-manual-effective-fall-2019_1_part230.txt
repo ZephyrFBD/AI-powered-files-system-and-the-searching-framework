@@ -1,0 +1,21 @@
+rns in a population, 
+you need to make some important assumptions — all the gametes go into one infinite 
+pool, and all have an equal chance of taking part in fertilization or formation of a zygote. 
+For now, all zygotes live to be juveniles, all juveniles live to be adults, and no individuals 
+enter or leave the population; there is also no mutation. Make sure to record these 
+assumptions in your notebook; later, you will need to explore how your model responds 
+as you change or modify these assumptions. 
+Investigation 2 S29 
+INVESTIGATION 2
+S30  Investigation 2 
+ 
+ 
+ 
+ 
+ 
+Step 4 Quantitatively describe the biological system. 
+Spreadsheets are valuable tools that allow us to ask What if? questions. They can 
+repeatedly make a calculation based on the results of another calculation. They can also 
+model the randomness of everyday events. Our goal is to model how allele frequencies 
+change through one life cycle of this imaginary population in the spreadsheet. Use 
+the diagram in Figure

@@ -1,0 +1,76 @@
+hen 
+and 
+are
+very small (they are in the denominator of Eq. 25–6b). To make lenses of very
+short focal length, compound lenses involving several elements must be used to
+avoid serious aberrations, as discussed in the next Section.
+f
+e
+f
+o
+do L f
+o
+Fo
+l - f
+e L l,
+l,
+f
+o
+f
+e
+f
+e V l
+f
+o
+L
+Nl
+f
+ef
+o
+.
+c microscope
+magnificationd
+M = Memo =
+¢ N
+f
+e
+≤¢ l - f
+e
+do
+≤
+Me,
+mo,
+N = 25 cm
+Me = N
+f
+e
+,
+Me
+Fe.
+I1
+di = l - f
+e,
+l
+di
+do
+mo =
+hi
+ho
+=
+di
+do
+= l - f
+e
+do
+,
+mo
+I1
+Microscope. A compound microscope consists of a
+eyepiece and a
+objective 17.0 cm apart. Determine (a) the overall magnifi-
+cation, (b) the focal length of each lens, and (c) the position of the object when the
+final image is in focus with the eye relaxed. Assume a normal eye, so 
+APPROACH The overall magnification is the product of the eyepiece magnifica-
+tion and the objective magnification. The focal length of the eyepiece is found
+from Eq. 25–2a or 25–5 for the magnification of a simple magnifier. For the
+objective lens, it

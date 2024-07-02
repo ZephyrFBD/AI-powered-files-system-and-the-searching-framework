@@ -1,0 +1,63 @@
+ed as indicated in Fig. 9–22c. Note that 
+A is the area of the surface parallel to the applied force (and not perpendicular as
+for tension and compression), and 
+is perpendicular to 
+The constant of pro-
+portionality G is called the shear modulus and is generally one-half to one-third
+the value of Young’s modulus E (see Table 9–1). Figure 9–23 suggests why
+the fatter book shifts more for the same shearing force.
+l0 :
+¢l r
+l0 .
+¢l
+l0 ,
+¢l,
+¢l =
+1
+G
+F
+A l0
+244
+CHAPTER 9
+Static Equilibrium; Elasticity and Fracture
+l0
+Tension
+(a)
+Compression
+(b)
+l
+A
+l0
+Shear
+(c)
+A
+A
+l0
+Δ
+l
+Δ
+l
+Δ
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 9–22 The three types of
+stress for rigid objects.
+(a)
+(b)
+FIGURE 9–23 The fatter book (a) shifts 
+more than the thinner book (b) with the 
+same applied shear force.
+Volume Change—Bulk Modulus
+If an object is subjected to inward forces from all sides, its volume will decrease.
+A common situation is an object submerged in a fluid. In this case, the fluid exerts
+a pressure on the object 

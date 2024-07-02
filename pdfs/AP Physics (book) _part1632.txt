@@ -1,0 +1,21 @@
+the processes (say, during expansion of the gases
+against a piston) was done so slowly that the process could be considered a series
+of equilibrium states, and the whole process could be done in reverse with no
+change in the magnitude of work done or heat exchanged. A real process, on the
+other hand, would occur more quickly; there would be turbulence in the gas, fric-
+tion would be present, and so on. Because of these factors, a real process cannot
+be done precisely in reverse—the turbulence would be different and the heat lost
+to friction would not reverse itself. Thus, real processes are irreversible.
+The isothermal processes of a Carnot engine, where heats 
+and 
+are
+transferred, are assumed to be done at constant temperatures 
+and 
+. That is,
+the system is assumed to be in contact with idealized heat reservoirs (page 414)
+which are so large their temperatures don’t change significantly when 
+and 
+are transferred.
+Carnot showed that for an ideal reversible engine, the heats 
+and 
+ar

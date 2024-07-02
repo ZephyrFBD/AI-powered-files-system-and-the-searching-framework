@@ -1,0 +1,21 @@
+ a pulse containing 5.0 * 1017 photons of this 
+radiation, what is the total energy of that pulse? (c) If the 
+laser emits 1.3 * 10 - 2 J of energy during a pulse, how many 
+photons are emitted?
+Solve The frequency, n, is calculated from the given wavelength, as 
+shown in Sample Exercise 6.2:
+n = 13.00 * 108 m>s2>1589 * 10-9 m2 = 5.09 * 1014 s - 1
+The value of the Planck constant, h, is given both in the text and 
+in the table of physical constants on the inside back cover of the 
+text; thus we can easily calculate E:
+E = 16.626 * 10 - 34 J@s215.09 * 1014 s - 12 = 3.37 * 10 - 19 J
+ 
+ 
+SECTION 6.3   
+Line Spectra and the Bohr Model 
+219
+6.3 ∣ Line Spectra and the Bohr Model
+The work of Planck and Einstein paved the way for understanding how electrons are 
+arranged in atoms. In 1913, the Danish physicist Niels Bohr (Figure 6.8) offered a theoret-
+ical explanation of line spectra, another phenomenon that had puzzled scientists during 
+the nineteenth century. We will see that Bohr used the

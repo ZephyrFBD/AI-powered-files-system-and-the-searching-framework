@@ -1,0 +1,23 @@
+ crest moves) is equal to the
+product of wavelength and frequency,
+(11;12)
+In a transverse wave, the oscillations are perpendicular to
+the direction in which the wave travels. An example is a wave
+on a cord.
+In a longitudinal wave, the oscillations are along (parallel
+to) the line of travel; sound is an example.
+Waves carry energy from place to place without matter
+being carried. The intensity of a wave is the energy per unit time
+carried across unit area (in 
+). For three-dimensional
+waves traveling outward from a point source, the intensity
+decreases inversely as the square of the distance from the source
+(ignoring damping):
+(11;16b)
+Wave intensity is proportional to the amplitude squared
+and to the frequency squared.
+Waves reflect off objects in their path. When the wave front
+(of a two- or three-dimensional wave) strikes an object, the
+angle of reflection is equal to the angle of incidence. This is 
+the law of reflection. When a wave strikes a boundary between
+two materials in whic

@@ -1,0 +1,14 @@
+three nucleotides that gets read by the ribosome
+when the protein is made. If the codon changes, it might change the amino acid that gets added to the protein. It could
+also make the chain shorter if it changes to a stop codon.
+(b) Given what is known about the neuraminidase enzyme, describe what is measured to provide the results in
+Figure 2 and Figure 3.
+The neuraminidase enzyme cleaves a tether that holds the viral particle to the membrane. To measure the
+“neuraminidase activity” for Figure 2 and Figure 3, the cleavage action of the enzyme must be measured.
+(c) Will an NAH virus with an N234Y substitution be a rapid spreading or slow spreading virus?
+It will be a slow spreading virus.
+(d) Justify your prediction.
+The N234Y causes the enzyme activity to decrease, and this would mean that the viral particles do not get
+released. This means that the virus should not spread quickly. NAH has high enzyme activity and spreads quickly, but
+the N234Y version should not spread quickly.
+Questi

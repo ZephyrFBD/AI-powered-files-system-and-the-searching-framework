@@ -1,0 +1,23 @@
+y-axis—is 
+0.112 atm. Therefore, the equation for the line is
+P = a4.10 * 10-4 atm
+°C bT + 0.112 atm
+A.5 | Standard Deviation
+The standard deviation from the mean, s, is a common method for describing precision 
+in experimentally determined data. We define the standard deviation as
+s = H
+a
+N
+i = 1
+1xi - x22
+N - 1
+where N is the number of measurements, x is the average (also called the mean) of the 
+measurements, and xi represent the individual measurements. Electronic calculators 
+with built-in statistical functions can calculate s directly by inputting the individual 
+measurements.
+A smaller value of s indicates a higher precision, meaning that the data are more 
+closely clustered around the average. The standard deviation has statistical significance. 
+If a large number of measurements is made, 68% of the measured values is expected to be 
+within one standard deviation of the average, assuming only random errors are associ-
+ated with the measurements.
+TABLE A.1 Interrelation between 

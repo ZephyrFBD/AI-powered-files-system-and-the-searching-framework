@@ -1,0 +1,88 @@
+4–8
+93
+v
+B
+FIGURE 4;26 An object moving to
+the right on a table. The two surfaces
+in contact are assumed smooth, but
+are rough on a microscopic scale.
+F
+B
+A
+F
+B
+N
+fr
+F
+B
+mg
+B
+FIGURE 4;27 When an object is
+pulled along a surface by an applied
+force 
+the force of friction 
+opposes the motion. The magnitude
+of 
+is proportional to the 
+magnitude of the normal force AF
+NB.
+F
+B
+fr
+F
+B
+fr
+AF
+B
+AB,
+TABLE 4;2 Coefficients of Friction†
+Coefficient of 
+Coefficient of 
+Surfaces
+Static Friction,
+Kinetic Friction,
+Wood on wood
+0.4
+0.2
+Ice on ice
+0.1
+0.03
+Metal on metal (lubricated)
+0.15
+0.07
+Steel on steel (unlubricated)
+0.7
+0.6
+Rubber on dry concrete
+1.0
+0.8
+Rubber on wet concrete
+0.7
+0.5
+Rubber on other solid surfaces
+1–4
+1
+Teflon® on Teflon in air
+0.04
+0.04
+Teflon on steel in air
+0.04
+0.04
+Lubricated ball bearings
+0.01
+0.01
+Synovial joints (in human limbs)
+0.01
+0.01
+† Values are approximate and intended only as a guide.
+6
+6
+Mk
+Ms
+C A U T I O N
+F
+B
+fr ⊥ F
+B
+N
+What we have been discussing up to now

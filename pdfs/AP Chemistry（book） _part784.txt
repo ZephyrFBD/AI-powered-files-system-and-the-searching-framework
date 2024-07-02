@@ -1,0 +1,26 @@
+alpies 
+[5.32]
+of bonds broken)
+of bonds formed)
+ 
+SECTION 5.8   
+Bond Enthalpies 
+193
+If the total enthalpy of the broken bonds is larger, the reaction is endothermic 
+1∆Hrxn 7 02; if the total enthalpy of the newly formed bonds is larger, the reaction is 
+ 
+exothermic 1∆Hrxn 6 02.
+Consider for example, the gas-phase reaction between methane, CH4, and chlorine 
+to produce methyl chloride, CH3Cl, and hydrogen chloride, HCl:
+ 
+H¬CH31g2 + Cl ¬Cl1g2 ¡ Cl ¬CH31g2 + H¬Cl1g2  
+∆Hrxn = ? 
+[5.33]
+Our two-step procedure is outlined in Figure 5.24. We note that the following bonds are 
+broken and formed:
+Bonds broken: 1 mol C—H, 1 mol Cl—Cl
+Bonds formed: 1 mole C—Cl, 1 mol H—Cl
+We first supply enough energy to break the C—H and Cl—Cl bonds, which raises 
+the enthalpy of the system (indicated as ∆H1 7 0 in Figure 5.24). We then form the 
+C—Cl and H—Cl bonds, which release energy and lower the enthalpy of the system 
+(∆H2 6 0 in Figure 5.24). We then use Equation 5.32 to estimate the enthalpy of t

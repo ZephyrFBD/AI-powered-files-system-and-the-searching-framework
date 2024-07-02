@@ -1,0 +1,73 @@
+1
+Na
+12
+Mg
+13
+Al
+14
+Si
+15
+P
+16
+S
+17
+Cl
+18
+Ar
+19
+K
+20
+Ca
+21
+Sc
+22
+Ti
+23
+V
+24
+Cr
+25
+Mn
+26
+Fe
+†Names of elements can be found in
+Appendix B.
+3d64s2
+3d54s2
+3d54s1
+3d34s2
+3d24s2
+3d14s2
+4s2
+3d0
+4s1
+3d0
+3s23p6
+3s23p5
+3s23p4
+3s23p3
+3s23p2
+3s23p1
+3s2
+3s1
+2s22p6
+2s22p5
+2s22p4
+2s22p3
+2s22p2
+2s22p1
+2s2
+2s1
+1s2
+1s1
+EXERCISE F Write the complete ground-state configuration for gallium, with its 31
+electrons.
+The grouping of atoms in the Periodic Table is according to increasing atomic
+number, Z. It was designed to also show regularity according to chemical prop-
+erties. Although this is treated in chemistry textbooks, we discuss it here briefly
+because it is a result of quantum mechanics. See the Periodic Table inside the
+back cover.
+All the noble gases (in column VIII of the Periodic Table) have completely
+filled shells or subshells. That is, their outermost subshell is completely full, and
+the electron distribution is spherically symmetric. With such full spherical sym-
+metry, other electrons are n

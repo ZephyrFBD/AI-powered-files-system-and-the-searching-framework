@@ -1,0 +1,39 @@
+ across each wire is
+NOTE The voltage drop across the wires reduces the voltage that reaches the
+speakers from the stereo amplifier, thus reducing the sound level a bit.
+V = IR = (4.0 A)(0.10 ) = 0.40 V.
+V = IR
+2r = 2.1 mm.
+r = B
+A
+p
+= 1.04 * 10–3 m = 1.04 mm.
+A = pr2.
+A = r l
+R
+=
+A1.68 * 10–8 mB(20 m)
+(0.10 )
+= 3.4 * 10–6 m2.
+r
+V = IR.
+A = pr2.
+0.10 
+EXAMPLE 18;5
+Stretching changes resistance. Suppose
+a wire of resistance R could be stretched uniformly until it was twice its original
+length. What would happen to its resistance? Assume the amount of material,
+and therefore its volume, doesn’t change.
+RESPONSE If the length doubles, then the cross-sectional area A is halved,
+because the volume 
+of the wire remains the same. From Eq. 18–3 we
+see that the resistance would increase by a factor of four A21
+2 = 4B.
+(V = Al)
+l
+CONCEPTUAL EXAMPLE 18;6
+EXERCISE F Copper wires in houses typically have a diameter of about 1.5 mm. How
+long a wire would have a 
+resistance?
+1.0-
+Temperature D

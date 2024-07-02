@@ -1,0 +1,67 @@
+by using the rules we just discussed:
+SOLUTION
+Sample Exercise 8.9 
+Lewis Structures and Formal Charges
+S
+[
+]
+C
+N
+N
+S
+[
+]
+C
+N
+S
+[
+]
+C
+2
+2
+2
+(a) Determine the formal charges in each structure.
+(b) Based on the formal charges, which Lewis structure is the dominant one?
+S
+[
+]
+C
+N
+N
+S
+[
+]
+C
+N
+S
+[
+]
+C
+2
+0
+0
+0
+0
+0
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+As they must, the formal charges in all three structures 
+sum to 1-, the overall charge of the ion.
+(b) The dominant Lewis structure generally produces 
+formal charges of the smallest magnitude (guideline 
+1). That eliminates the left structure as the dominant 
+one. Further, as discussed in Section 8.4, N is more 
+In Chapter 4 we introduced the rules for assigning oxidation num-
+bers to atoms. The concept of electronegativity is the basis of these 
+numbers. An atom’s oxidation number is the charge the atom would 
+have if its bonds were completely ionic. That is, in determining oxi-
+dation number, all shared electrons are counted with the more elec-
+tronegative a

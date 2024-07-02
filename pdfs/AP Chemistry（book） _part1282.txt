@@ -1,0 +1,44 @@
+ing one single bond and 
+one triple bond. Calculating formal charges in these structures, we have
+1
+O
+O
+4
+6
+6
+4
+6
+6
+4
+6
+6
+4
+7
+5
+0
+0
+Valence electrons:
+2(Electrons assigned to atom):
+Formal charge:
+0
+0
+1
+1
+C
+O
+C
+O
+2
+Note that in both cases the formal charges add up to zero, as they must because CO2 is a neu-
+tral molecule. So, which is the dominant structure? As a general rule, when more than one 
+Lewis structure is possible, we will use the following guidelines to choose the dominant one:
+How to Identify the Dominant Lewis Structure 
+ 
+1. The dominant Lewis structure is generally the one in which the atoms bear formal 
+charges closest to zero.
+ 
+2. A Lewis structure in which any negative charges reside on the more electronegative 
+atoms is generally more dominant than one that has negative charges on the less 
+electronegative atoms.
+Thus, the first Lewis structure of CO2 is the dominant one because the atoms carry no 
+formal charges and so satisfy the first guideline. The other Lewis s

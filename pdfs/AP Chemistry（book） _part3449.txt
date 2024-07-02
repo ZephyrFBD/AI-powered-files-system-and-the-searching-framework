@@ -1,0 +1,17 @@
+ constant independent of temperature, is 
+the time needed for one-half of the nuclei to decay. Some radioiso-
+topes can be used to date objects; 14C, for example, is used to date 
+organic objects. Geiger counters and scintillation counters count 
+the emissions from radioactive samples. The ease of detection of 
+radioisotopes also permits their use as radiotracers to follow ele-
+ments through reactions.
+ENERGY CHANGES IN NUCLEAR REACTIONS (SECTION 21.6)  
+The energy produced in nuclear reactions is accompanied by 
+measurable changes of mass in accordance with Einstein’s rela-
+tionship, ∆E = c2∆m. The difference in mass between nuclei and 
+the nucleons of which they are composed is known as the mass 
+defect. The mass defect of a nuclide makes it possible to calculate 
+its nuclear binding energy, the energy required to separate the nu-
+cleus into individual nucleons. Because of trends in the nuclear 
+binding energy with atomic number, energy is produced when 
+heavy nuclei split (fission) 

@@ -1,0 +1,21 @@
+ reasonably heavy object if the velocity becomes
+large.† Acceleration due to gravity is a vector, as is any acceleration, and its
+direction is downward toward the center of the Earth.
+When dealing with freely falling objects we can make use of Eqs. 2–11,
+where for a we use the value of g given above. Also, since the motion is vertical
+we will substitute y in place of x, and 
+in place of 
+We take
+unless
+otherwise specified. It is arbitrary whether we choose y to be positive in the
+upward direction or in the downward direction; but we must be consistent about
+it throughout a problem’s solution.
+EXERCISE E Return to the Chapter-Opening Question, page 21, and answer it again
+now, assuming minimal air resistance. Try to explain why you may have answered
+differently the first time.
+Falling from a tower. Suppose that a ball is dropped
+from a tower. How far will it have fallen after a time  
+and  
+Ignore air resistance.
+APPROACH Let us take y as positive downward, so the acceleration is
+We set

@@ -1,0 +1,20 @@
+t, I, refers to the rate of flow of electric
+charge and is measured in amperes (A): 1 A equals a flow of
+past a given point.
+The direction of conventional current is that of positive
+charge flow. In a wire, it is actually negatively charged elec-
+trons that move, so they flow in a direction opposite to the
+conventional current. A positive charge flow in one direction is
+almost always equivalent to a negative charge flow in the
+opposite direction. Positive conventional current always flows
+from a high potential to a low potential.
+The resistance R of a device is defined by the relation
+(18–2)
+where I is the current in the device when a potential difference V
+is applied across it. For materials such as metals, R is a constant
+independent of V (thus 
+), a result known as Ohm’s law.
+Thus, the current I coming from a battery of voltage V depends
+on the resistance R of the circuit connected to it.
+Voltage is applied across a device or between the ends of a
+wire. Current passes through a wire

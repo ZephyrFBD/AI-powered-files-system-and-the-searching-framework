@@ -1,0 +1,19 @@
+ere is an important difference between a double-slit and a multiple-slit
+pattern. The bright maxima are much sharper and narrower for a grating. Why?
+Suppose the angle 
+in Fig. 24–24 is increased just slightly beyond 
+required 
+for a maximum. For only two slits, the two waves will be only slightly out of 
+phase, so nearly full constructive interference occurs. This means the maxima are
+wide (see Fig. 24–9). For a grating, the waves from two adjacent slits will also 
+not be significantly out of phase. But waves from one slit and those from a
+second one a few hundred slits away may be exactly out of phase; all or nearly 
+all the light can cancel in pairs in this way. For example, suppose the angle 
+is very slightly different from its first-order maximum, so that the extra path
+length for a pair of adjacent slits is not exactly 
+but rather 
+The wave
+through one slit and another one 500 slits below will have a path difference of
+or
+wavelengths, so the two will be out of phase
+and cancel. A

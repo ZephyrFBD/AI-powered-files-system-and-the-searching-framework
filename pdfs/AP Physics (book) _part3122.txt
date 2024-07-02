@@ -1,0 +1,22 @@
+elength. An interference pattern
+is observed.
+Light or
+electrons
+Intensity
+on screen
+If we reduced the flow of electrons (or photons) so they passed through the
+slits one at a time, we would see a flash each time one struck the screen. At first,
+the flashes would seem random. Indeed, there is no way to predict just where any
+one electron would hit the screen. If we let the experiment run for a long time,
+and kept track of where each electron hit the screen, we would soon see a pattern
+emerging—the interference pattern predicted by the wave theory; see Fig. 28–4.
+Thus, although we could not predict where a given electron would strike the
+screen, we could predict probabilities. (The same can be said for photons.) The
+probability, as we saw, is proportional to 
+Where 
+is zero, we would get a
+minimum in the interference pattern. And where 
+is a maximum, we would get
+a peak in the interference pattern.
+The interference pattern would thus occur even when electrons (or photons)
+passed through

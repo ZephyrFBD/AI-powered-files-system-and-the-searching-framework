@@ -1,0 +1,57 @@
+0)
+14.0
+13.0
+12.0
+11.0
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+13.0
+14.0
+Milk
+Tomatoes
+Black coffee
+Cola, vinegar
+Lemon juice
+Stomach acid
+Saliva
+Rain
+Wine
+Household ammonia
+Household bleach
+Lime water
+Human blood
+Seawater
+Borax
+Increasing base strength
+Increasing acid strength
+▲ Figure 16.6 Concentrations of H+ and OH −, and pH and pOH values of some common substances at 25 °C.
+Measuring ph
+The pH of a solution can be measured with a pH meter (Figure 16.7). A complete under-
+standing of how this important device works requires knowledge of electrochemistry, 
+a subject we take up in Chapter 20. In brief, a pH meter consists of a pair of electrodes 
+connected to a meter capable of measuring small voltages, on the order of millivolts. 
+A voltage, which varies with pH, is generated when the electrodes are placed in a solu-
+tion. This voltage is read by the meter, which is calibrated to give pH.
+Although less precise, acid–base in

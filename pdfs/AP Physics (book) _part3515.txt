@@ -1,0 +1,14 @@
+roper value of 
+to absorb photons of a particular frequency f. By varying f,
+absorption by different planes can be measured. Alternately, if the field 
+gradient is applied after the RF pulse, the frequency of the emitted photons 
+will be a measure of where they were emitted. If a magnetic field gradient 
+in one direction is applied during excitation (absorption of photons) and photons
+of a single frequency are transmitted, only H nuclei in one thin slice will be
+excited. By applying a gradient during reemission in a direction perpendicular to
+the first, the frequency f of the reemitted radiation will represent depth in that
+slice. Other ways of varying the magnetic field throughout the volume of the
+body can be used in order to correlate NMR frequency with position.
+A reconstructed image based on the density of H atoms (that is, the intensity
+of absorbed or emitted radiation) is not very interesting. More useful are images
+based on the rate at which the nuclei decay back to the ground 

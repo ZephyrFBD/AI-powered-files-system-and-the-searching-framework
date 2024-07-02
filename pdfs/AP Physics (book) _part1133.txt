@@ -1,0 +1,40 @@
+force wind of 
+blows across the 
+face of a storefront window. Estimate the force on the
+window due to the difference in air pres-
+sure inside and outside the window. Assume the store is
+airtight so the inside pressure remains at 1.0 atm. (This is
+why you should not tightly seal a building in preparation
+for a hurricane.)
+2.0 m * 3.0 m
+180 kmh
+mg
+B
+B
+F
+B
+FIGURE 10–61
+Search and Learn 2.
+50 N
+FIGURE 10–63 Search and Learn 5.
+Search and Learn
+291
+3. In working out his principle, Pascal showed dramatically
+how force can be multiplied with fluid pressure. He placed
+a long, thin tube of radius
+vertically into a
+wine barrel of radius 
+Fig. 10–62. He found
+that when the barrel was filled
+with water and the tube filled to a
+height of 12 m, the barrel burst.
+Calculate (a) the mass of water in
+the tube, and (b) the net force
+exerted by the water in the barrel
+on the lid just before rupture.
+R = 21 cm,
+r = 0.30 cm
+Search and Learn
+A: (d).
+B: The same. Pressure depends on depth, not on length.
+C: 

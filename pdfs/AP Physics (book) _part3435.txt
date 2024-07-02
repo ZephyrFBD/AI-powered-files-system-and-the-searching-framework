@@ -1,0 +1,23 @@
+results?
+RESPONSE We have the reaction
+The total number of
+nucleons initially is
+and the total charge is
+The same
+totals apply after the reaction. Hence the product nucleus must have 
+and 
+From the Periodic Table, we find that it is nitrogen that has
+so the nucleus produced is 
+EXERCISE A Determine the resulting nucleus in the reaction
+Energy and momentum are also conserved in nuclear reactions, and can be
+used to determine whether or not a given reaction can occur. For example, if the
+total mass of the final products is less than the total mass of the initial particles,
+this decrease in mass (recall 
+) is converted to kinetic energy (
+) of
+the outgoing particles. But if the total mass of the products is greater than the
+total mass of the initial reactants, the reaction requires energy. The reaction will
+then not occur unless the bombarding particle has sufficient kinetic energy.
+Consider a nuclear reaction of the general form
+(31;1)
+where particle a is a moving projectile particle (or

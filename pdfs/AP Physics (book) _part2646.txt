@@ -1,0 +1,25 @@
+laced by light of wavelength 700 nm? (b) What happens
+instead if the wavelength stays at 500 nm but the slits are moved farther apart?
+RESPONSE (a) When increases in Eq. 24–2a but d stays the same, the angle 
+for bright fringes increases and the interference pattern spreads out. (b) Increasing
+the slit spacing d reduces for each order, so the lines are closer together.
+From Eqs. 24–2 we can see that, except for the zeroth-order fringe at the
+center, the position of the fringes depends on wavelength. When white light falls
+on the two slits, as Young found in his experiments, the central fringe is white, but
+the first (and higher) order fringes contain a spectrum of colors like a rainbow.
+u
+u
+l
+CONCEPTUAL EXAMPLE 24;2
+SECTION 24–4
+685
+FIGURE 24–11 First-order fringes
+for a double slit are a full spectrum,
+like a rainbow. Also Example 24–3.
+White
+2.0 mm
+3.5 mm
+FIGURE 24–12 The spectrum of visible
+light, showing the range of frequencies
+and wavelengths in air for the various
+colors. Many c

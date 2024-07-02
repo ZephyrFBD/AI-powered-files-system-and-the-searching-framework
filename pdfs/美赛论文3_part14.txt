@@ -1,0 +1,37 @@
+nterface will also influence the value of
+0
+k . For example,
+when bubbles are floating on the water, this will greatly hinder water vapor from
+evaporation, radiation, convection and many other forms of heat conduction as well as
+hinder the heat of the water from the conduction. At this time, the value of
+0
+k
+will
+decrease.
+2.1.6
+Brief explanation about precondition
+From one essay, we know that the temperature of the most part of the room keeps
+at about 12 C
+
+in winter[3].It is common sense that the temperature will be higher in
+summer. However, the best temperature of the water in the bathtub that fits people
+well is 38 C
+
+, so 
+
+T
+
+
+will be about 26 C
+
+. Actually in most situations, 
+
+T
+
+
+will be less than or equal to 25 C
+
+. Moreover, we can reason that the bathroom’s
+condition won’t be too bad if there is a bathtub, so somehow the bathtub will have a
+bath heater. Based on this, if the temperature of the room is much lower, we can use
+the bath heater to ensure that the te

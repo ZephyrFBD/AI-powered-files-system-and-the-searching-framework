@@ -1,0 +1,20 @@
+xide) An oxide that forms a base when 
+added to water; soluble metal oxides are basic anhydrides. 
+(Section 22.5)
+basic oxide (basic anhydride) An oxide that either reacts with 
+water to form a base or reacts with an acid to form a salt and 
+water. (Section 22.5)
+battery A portable, self-contained electrochemical power source 
+that contains one or more voltaic cells. (Section 20.7)
+becquerel The SI unit of radioactivity. It corresponds to one 
+nuclear disintegration per second. (Section 21.4)
+Beer’s law The light absorbed by a substance (A) equals the 
+product of its extinction coefficient 1e2, the path length through 
+which the light passes (b), and the molar concentration of the 
+substance (c): A = ebc. (Section 14.3)
+beta emission A nuclear decay process where a beta particle is 
+emitted from the nucleus; also called beta decay. (Section 21.1)
+beta particles Energetic electrons emitted from the nucleus, 
+symbol 0
+- 1e or b -.  (Section 21.1)
+beta sheet A structural form of protein i

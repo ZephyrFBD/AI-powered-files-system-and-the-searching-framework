@@ -1,0 +1,19 @@
+her
+Is the result of the combined effects of solute concentration and
+pressure
+Water potential=pressure potential+solute potentialΨ=Ψp+Ψs
+Water moves from high water potential to low water potential
+Water potential (Ψ) is a physical property that predicts the direction in
+which water will flow. Water flows from a region of high water potential
+******ebook converter DEMO Watermarks*******
+to low water potential. Think of Ψ as water’s potential energy. It is a
+powerful force and is measured in megapascals (MPa). One MPa equals
+approximately 10× atmospheric pressure. By definition, the Ψ of water in
+an open container under standard conditions of temperature and pressure
+(at sea level and at room temperature) is 0 MPa.
+Water potential (Ψ) results from the interaction of two components:
+solute potential (Ψs) and pressure potential (Ψp).
+Ψ=Ψs+Ψp
+The solute potential (Ψs), also known as osmotic potential, of a
+solution is directly proportional to its molarity. By definition, the Ψs of
+pure wa

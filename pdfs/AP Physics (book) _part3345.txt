@@ -1,0 +1,14 @@
+equire 4.95 MeV input of energy to remove one neutron from 
+Nuclear Forces
+We can analyze nuclei not only from the point of view of energy, but also from
+the point of view of the forces that hold them together. We might not expect a
+collection of protons and neutrons to come together spontaneously, since protons
+are all positively charged and thus exert repulsive electric forces on each other.
+Since stable nuclei do stay together, another force must be acting. This new force
+has to be stronger than the electric force in order to hold the nucleus together, and
+is called the strong nuclear force. The strong nuclear force acts as an attractive
+force between all nucleons, protons and neutrons alike. Thus protons attract 
+each other via the strong nuclear force at the same time they repel each other 
+via the electric force. Neutrons, because they are electrically neutral, only attract
+other neutrons or protons via the strong nuclear force.
+The strong nuclear force turns out to be far more c

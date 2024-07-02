@@ -1,0 +1,31 @@
+tion, we ﬁrst 
+calculate the amount of each reactant and each 
+product present at the completion of the reac-
+tion. Because you can assume this neutralization 
+reaction proceeds as far toward the product side 
+as possible, this is a limiting reactant problem.
+Thus, the reaction produces a solution contain-
+ing a mixture of NH3, NH4
++, and Cl-. The NH3 is 
+a weak base 1Kb = 1.8 * 10-52, NH4
++ is its con-
+jugate acid, and Cl- is neither acidic nor basic. 
+Consequently, the pH depends on 3NH34 and 
+3NH4
++4:
+ 3NH34 =
+0.0258 mol NH3
+0.500 L soln
+= 0.0516 M
+ 3NH4
++4 = 0.0492 mol NH4
++
+0.500 L soln
+= 0.0984 M
+Chapter Summary and Key Terms
+THE COMMON ION EFFECT (SECTION 17.1) In this chapter, we 
+have considered several types of important equilibria that occur in 
+aqueous solution. Our primary emphasis has been on acid–base equi-
+libria in solutions containing two or more solutes and on solubility 
+equilibria. The dissociation of a weak acid or weak base is repressed 
+by the presence of a stro

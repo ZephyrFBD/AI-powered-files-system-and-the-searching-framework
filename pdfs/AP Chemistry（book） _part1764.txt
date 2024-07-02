@@ -1,0 +1,23 @@
+r to cook food 
+at high elevations than it does at sea level. The atmospheric pressure is lower at higher 
+altitudes, so water boils at a temperature lower than 100 °C, and foods generally take lon-
+ger to cook.
+Notice that the plots in Figure 11.25 have a distinct shape: For each 
+substance, the vapor–pressure curves sharply upward with increasing 
+temperature. The relationship between vapor pressure and tempera-
+ture is given by the Clausius–Clapeyron equation:
+ 
+ln P =
+- ∆Hvap
+RT
++ C 
+[11.1]
+where P is the vapor pressure, T is the absolute temperature, R is the 
+gas constant 18.314 J>mol@K2, ∆Hvap is the molar enthalpy of vapor-
+ization, and C is a constant. This equation predicts that a graph of ln 
+P versus 1>T should give a straight line with a slope equal to ∆Hvap>R. 
+Using this plot, we can determine the enthalpy of vaporization of a 
+substance:
+∆Hvap = -slope * R
+As an example of how we use the Clausius–Clapeyron equa-
+tion, the vapor–pressure data for ethanol shown in Figure 

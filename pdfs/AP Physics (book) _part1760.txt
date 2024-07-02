@@ -1,0 +1,24 @@
+ vector sum of the fields created
+separately by 
+and 
+The field due to the negative charge 
+points toward 
+and the field due to the positive charge 
+points away from 
+Thus both
+fields point to the left as shown in Fig. 16–27b, and we can add the magnitudes
+of the two fields together algebraically, ignoring the signs of the charges. In (b) we
+use Newton’s second law
+to find the acceleration, where
+SOLUTION (a) Each field is due to a point charge as given by Eq. 16–4,
+The total field points to the left and has magnitude
+(b) The electric field points to the left, so the electron will feel a force to the
+right since it is negatively charged. Therefore the acceleration
+(Newton’s
+second law) will be to the right. The force on a charge q in an electric field E is
+(Eq. 16–5). Hence the magnitude of the electron’s initial acceleration is
+NOTE By considering the directions of each field (
+and 
+) before doing any
+calculations, we made sure our calculation could be done simply and correctly.
+EXERC

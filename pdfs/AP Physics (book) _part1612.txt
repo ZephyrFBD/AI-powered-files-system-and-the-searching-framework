@@ -1,0 +1,45 @@
+
+process ADB.
+If the pressure varies during a process, such as for the isothermal process AB
+in Fig. 15–6 (and Fig. 15–2), Eq. 15–3 cannot be used directly to determine the
+work. A rough estimate can be obtained, however, by using an “average” value
+for P in Eq. 15–3. More accurately, the work done is equal to the area under the
+PV curve. This is obvious when the pressure is constant: as Fig. 15–7a shows, the
+shaded area is just 
+and this is the work done. Similarly, the work
+done during an isothermal process is equal to the shaded area shown in
+Fig. 15–7b. The calculation of work done in this case can be carried out using 
+calculus, or by estimating the area on graph paper.
+P
+BAV
+B - V
+AB,
+P
+BAV
+B - V
+AB,
+TABLE 15–1 Simple Thermodynamic Processes and the First Law
+Process
+What is constant:
+The first law,
+predicts:
+Isothermal
+makes
+so
+Isobaric
+Isovolumetric
+makes
+so
+Adiabatic
+¢U = –W
+Q = 0
+Q = ¢U
+W = 0,
+¢V = 0
+V = constant
+Q = ¢U + W = ¢U + P ¢V
+P = constant
+Q = W
+¢U = 0,
+¢T = 0
+T = co

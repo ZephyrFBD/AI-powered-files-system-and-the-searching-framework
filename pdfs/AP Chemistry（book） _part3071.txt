@@ -1,0 +1,20 @@
+e standard temperature of 25 °C, but we are often interested in examin-
+ing reactions at other temperatures. To see how ∆G is affected by temperature, let’s look 
+again at Equation 19.11:
+∆G = ∆H - T∆S = ∆H + 1-T∆S2
+ 
+ 
+Enthalpy       Entropy
+ 
+ 
+term    term
+Notice that we have written the expression for ∆G as a sum of two contributions, an 
+enthalpy term, ∆H, and an entropy term, -T∆S. Because the value of -T∆S depends 
+directly on the absolute temperature T, ∆G varies with temperature. We know that the 
+enthalpy term, ∆H, can be either positive or negative and that T is positive at all tempera-
+tures other than absolute zero. The entropy term, -T∆S, can also be positive or negative. 
+When ∆S is positive, which means the final state has greater randomness (a greater num-
+ber of microstates) than the initial state, the term -T∆S is negative. When ∆S is negative, 
+-T∆S is positive.
+The sign of ∆G, which tells us whether a process is spontaneous, depends on the 
+signs and magnitudes of 

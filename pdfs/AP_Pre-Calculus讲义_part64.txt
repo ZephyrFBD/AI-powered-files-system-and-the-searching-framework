@@ -1,0 +1,58 @@
+he equation e2x – ex – 6=0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95 
+2.8.2 Logarithmic Equations 
+A logarithmic equation is one in which a logarithm of the variable occurs.  
+Some logarithmic equations can be solved by using the fact that logarithmic functions are 
+one-to-one. 
+This means that 
+log
+log
+a
+a
+x
+y
+x
+y
+=
+Þ
+=
+ 
+GUIDELINES FOR SOLVING LOGARITHMIC EQUATIONS 
+1. Isolate the logarithmic term on one side of the equation; you might first need to 
+combine the logarithmic terms. 
+2. Write the equation in exponential form (or raise the base to each side of the 
+equation). 
+3. Solve for the variable. 
+ 
+Example 3 
+Solve each equation for x. 
+(a) lnx = 8 
+(b) log2 (25-x) =3 
+ 
+ 
+ 
+ 
+ 
+2.8.3 Compound Interest 
+If a principal P is invested at an interest rate r for a period of t years, then the amount A of 
+the investment is given by 
+ 
+ 
+ 
+ 
+ 
+96 
+Example 4 
+A sum of $5000 is invested at an interest rate of 5% per year.  
+Find the time required for the money to double if the interest is compounded acc

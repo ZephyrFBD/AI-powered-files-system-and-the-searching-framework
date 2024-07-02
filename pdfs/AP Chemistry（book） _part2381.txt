@@ -1,0 +1,59 @@
+ons.
+Notice that no units are given for Kc either in Table 15.1 or in the calcula-
+tion we just did using Experiment 1 data. It is common practice to write equi-
+librium constants without units for reasons that we address later in this section.
+TABLE 15.1 Initial and Equilibrium Concentrations of N2O41g2 and NO21g2 
+at 100 °C
+Experiment
+Initial 
+3N2O44 1M 2
+Initial 
+3NO24 1M 2
+Equilibrium 
+3N2O44 1M 2
+Equilibrium 
+3NO24 1M 2
+Kc
+1
+0.0
+0.0200
+0.00140
+0.0172
+0.211
+2
+0.0
+0.0300
+0.00280
+0.0243
+0.211
+3
+0.0
+0.0400
+0.00452
+0.0310
+0.213
+4
+0.0200
+0.0
+0.00452
+0.0310
+0.213
+Go Figure
+In which experiment, 3 or 4, does the 
+concentration of N2O4 decrease to reach 
+equilibrium?
+0
+0.0100
+0.0200
+0.0300
+0.0400
+[NO2] (M)
+Time
+Experiment 4
+Experiment 3
+▲ Figure 15.6 The same equilibrium mixture is 
+produced regardless of the initial NO2 concentration. 
+The concentration of NO2 either increases or 
+decreases until equilibrium is reached.
+Give It Some Thought
+Does the value of Kc in Equation 15.10 depend on 

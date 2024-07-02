@@ -1,0 +1,49 @@
+ing the high-temperature behavior of ni-
+trogen oxides is essential for controlling pollution 
+generated in automobile engines. The decomposi-
+tion of nitric oxide (NO) to N2 and O2 is second order 
+with a rate constant of 0.0796 M -1s-1 at 737 °C and 
+0.0815 M -1s-1 at 947 °C. Calculate the activation en-
+ergy for the reaction.
+ 14.63 The rate of the reaction
+CH3COOC2H51aq2 + OH -1aq2 ¡ CH3COO -1aq2 + C2H5OH1aq2
+ 
+ was measured at several temperatures, and the following 
+data were collected:
+Temperature 1°C2
+k 1M −
+1 s−12
+15
+0.0521
+25
+0.101
+35
+0.184
+45
+0.332
+ 
+ Calculate the value of Ea by constructing an appropriate 
+graph.
+ 14.64 The temperature dependence of the rate constant for a re-
+action is tabulated as follows:
+Temperature (K)
+k 1M −
+1 s−
+12
+600
+0.028
+650
+0.22
+700
+1.3
+750
+6.0
+800
+23
+ 
+ Calculate Ea and A.
+Reaction Mechanisms (Section 14.6)
+ 14.65 (a) What is meant by the term elementary reaction? 
+ 
+(b) What is the difference between a unimolecular 
+and a bimolecular elementa

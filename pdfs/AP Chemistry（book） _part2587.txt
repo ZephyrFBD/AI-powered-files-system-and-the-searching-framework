@@ -1,0 +1,18 @@
+gets smaller), 
+so that the product Ka * Kb remains 1.0 * 10-14 at 25 °C. Table 16.5 demonstrates this 
+relationship.
+By using Equation 16.40, we can calculate Kb for any weak base if we know Ka for its 
+conjugate acid. Similarly, we can calculate Ka for a weak acid if we know Kb for its conju-
+gate base. As a practical consequence, ionization constants are often listed for only one 
+member of a conjugate acid–base pair. For example, Appendix D does not contain Kb val-
+ues for the anions of weak acids because they can be readily calculated from the tabu-
+lated Ka values for their conjugate acids.
+Recall that we often express 3H+4 as pH: pH = -log 3H+4. 
+ (Section 16.4) This “p” 
+nomenclature is often used for other very small numbers. For example, if you look up the 
+values for acid- or base-dissociation constants in a chemistry handbook, you may find 
+them expressed as pKa or pKb:
+ 
+pKa = -log Ka  and  pKb = -log Kb 
+[16.41]
+Using this nomenclature, we can write Equation 16.40 in term

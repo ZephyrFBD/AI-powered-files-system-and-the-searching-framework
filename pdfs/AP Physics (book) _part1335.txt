@@ -1,0 +1,20 @@
+at the moment an aircraft is breaking through the sound barrier.
+Actually, a shock wave follows the aircraft at all times it is traveling at supersonic
+speeds. A series of observers on the ground will each hear a loud “boom” as the
+shock wave passes, Fig. 12–25. The shock wave consists of a cone whose apex is at
+the aircraft. The angle of this cone,
+(see Fig. 12–23d), is given by
+(12;5)
+where 
+is the velocity of the object (the aircraft) and 
+is the velocity of
+sound in the medium (air for an airplane).
+12–9 Applications: Sonar, Ultrasound,
+and Medical Imaging
+Sonar
+The reflection of sound is used in many applications to determine distance. The
+sonar† or pulse-echo technique is used to locate underwater objects. A transmitter
+sends out a sound pulse through the water, and a detector receives its reflection,
+or echo, a short time later. This time interval is carefully measured, and from it
+the distance to the reflecting object can be determined since the speed of sound
+in water is known

@@ -1,0 +1,14 @@
+MFGUNPTUEJHJUSFNPWFEJTMFTTUIBOUIFQSFDFEJOHOVNCFSJTMFGUVODIBOHFE
+Thus, rounding off 7.248 to two significant figures gives 7.2.
+t 
+*GUIFMFGUNPTUEJHJUSFNPWFEJTPSHSFBUFSUIFQSFDFEJOHOVNCFSJTJODSFBTFECZ
+Rounding off 4.735 to three significant figures gives 4.74, and rounding 2.376 to 
+two significant figures gives 2.4.*
+*Your instructor may want you to use a slight variation on the rule when the leftmost digit to be 
+removed is exactly 5, with no following digits or only zeros following. One common practice is to 
+round up to the next higher number if that number will be even and down to the next lower num-
+ber otherwise. Thus, 4.7350 would be rounded to 4.74, and 4.7450 would also be rounded to 4.74.
+Give It Some Thought
+The mass of a glass beaker is known to be 25.1 g. Approximately 5 mL of water are 
+added, and the mass of the beaker and water is measured on an analytical balance 
+to be 30.625 g. How many significant figures are there in the mass of 

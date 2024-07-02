@@ -1,0 +1,13 @@
+actants and products of the reaction are 
+the system, and the water in which they are dissolved is part of the surroundings. (The 
+calorimeter apparatus is also part of the surroundings.) If we assume that the calorime-
+ter is perfectly insulated, then any heat released or absorbed by the reaction will raise 
+or lower the temperature of the water in the solution. Thus, we measure the tempera-
+ture change of the solution and assume that any changes are due to heat transferred 
+from the reaction to the water (for an exothermic process) or transferred from the 
+water to the reaction (endothermic). In other words, by monitoring the temperature 
+of the solution, we are seeing the flow of heat between the system (the reactants and 
+products in the solution) and the surroundings (the water that forms the bulk of the 
+solution).
+For an exothermic reaction, heat is “lost” by the reaction and “gained” by the water 
+in the solution, so the temperature of the solution rises. The opposite occurs fo

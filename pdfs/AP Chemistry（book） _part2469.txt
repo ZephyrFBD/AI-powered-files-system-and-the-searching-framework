@@ -1,0 +1,28 @@
+ A2 + B ∆ A + AB at 300 K and 500 K. 
+The A atoms are red, and the B atoms are blue. Is the reac-
+tion exothermic or endothermic? [Section 15.7]
+300 K
+500 K
+ 15.12 The following graph represents the yield of the compound 
+AB at equilibrium in the reaction A1g2 + B1g2 ¡  AB1g2 
+at two different pressures, x and y, as a function of 
+temperature.
+Temperature
+[AB]
+P=x
+P=y
+ 
+ (a) Is this reaction exothermic or endothermic? (b) Is 
+P = x greater or smaller than P = y? [Section 15.7]
+Equilibrium; The Equilibrium Constant 
+(sections 15.1–15.4)
+ 15.13 Suppose that the gas-phase reactions A ¡  B and 
+B ¡  A are both elementary processes with rate con-
+stants of 4.7 * 10-3 s-1 and 5.8 * 10-1 s-1, respectively. 
+(a) What is the value of the equilibrium constant for the 
+equilibrium A1g2 ∆ B1g2? (b) Which is greater at equi-
+librium, the partial pressure of A or the partial pressure of B?
+658 
+CHAPTER 15 Chemical Equilibrium
+ 15.24 Consider the following equilibrium:
+2 H21g2 + S21g2 ∆ 2 H2S1g2 Kc =

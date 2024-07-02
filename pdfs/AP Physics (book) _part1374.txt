@@ -1,0 +1,33 @@
+at the echo from one
+pulse returns before the next pulse is emitted?
+90. Two loudspeakers face each other at opposite ends of a
+long corridor. They are connected to the same source which
+produces a pure tone of 282 Hz. A person walks from one
+speaker toward the other at a speed of 
+What “beat”
+frequency does the person hear?
+91. A sound-insulating door reduces the sound level by 30 dB.
+What fraction of the sound intensity passes through this
+door?
+1.6 ms.
+5.0 ms.
+7.8 ms
+358
+CHAPTER 12
+Sound
+A: 4 times as intense.
+B: (b).
+C: 7 octaves, plus. [Note: This is like counting in binary,
+for more see Section 17–10.]
+27 = 128;
+D: (b).
+E: 257 Hz.
+F: (a) 1717 Hz, (b) 1483 Hz.
+G: (a).
+ANSWERS TO EXERCISES
+FIGURE 12–42 Problem 92.
+92. The “alpenhorn” (Fig. 12–42) was once used to send signals
+from one Alpine village to another. Since lower frequency
+sounds are less susceptible to intensity loss, long horns
+were used to create deep sounds. When played as a musical
+instrument, the alpenhorn must b

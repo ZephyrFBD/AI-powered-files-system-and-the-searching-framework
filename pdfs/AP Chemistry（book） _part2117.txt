@@ -1,0 +1,29 @@
+thalpy of solution for CaCl2 is ∆H = -81.3 kJ>mol. If the final temperature of the solution is 27 °C, what 
+was its initial temperature? (Assume that the density of the solution is 1.00 g>mL, that its specific heat is 4.18 J>g@K, and that 
+the solution loses no heat to its surroundings.)
+ 
+Soluble ionic compounds are strong electrolytes. 
+ (Sec-
+tions 4.1 and 4.3) Thus, CaCl2 consists of metal cations 
+1Ca2+2 and nonmetal anions 1Cl-2. When completely 
+dissociated, each CaCl2 unit forms three ions (one Ca2+ 
+and two Cl-). Hence, the calculated osmotic pressure is:
+(a) The osmotic pressure is given by Equation 13.14, 
+Π = iMRT. We know the temperature, 
+T = 27 °C = 300 K, and the gas constant, 
+R = 0.0821 L@atm/mol@K. We can calculate the molarity 
+of the solution from the mass of CaCl2 and the volume of 
+the solution:
+Π = iMRT = 13210.0397 mol>L210.0821 L@atm>mol@K21300 K2
+= 2.93 atm
+Molarity = a
+0.441 g CaCl2
+0.100 L
+b a
+1 mol CaCl2
+110 g CaCl2
+b
+= 0.0397 mol CaCl2>L
+i =
+Π1measured2
+Π

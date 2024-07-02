@@ -1,0 +1,40 @@
+p edge of the mirror only needs to
+reach point F, which is 5 cm below the top of her head (half of
+).
+Thus,
+and the mirror needs to have a vertical height of only
+And the mirror’s bottom edge must be 0.75 m
+above the floor.
+NOTE We see that a mirror, if positioned at the correct height (as in Fig. 23–8),
+need be only half as tall as a person for that person to be able to see all of himself
+or herself.
+(1.55 m - 0.75 m) = 0.80 m.
+DF = 1.55 m,
+GE = 10 cm
+BD = 0.75 m.
+AE = 1.60 m - 0.10 m = 1.50 m,
+EXAMPLE 23;2
+648
+CHAPTER 23
+Light: Geometric Optics
+P H Y S I C S  A P P L I E D
+How tall a mirror do you need to
+see a reflection of your entire self?
+G
+Mirror
+Image
+E
+F
+H
+B
+A
+D
+C
+0.10 m
+1.50 m
+FIGURE 23–8 Seeing oneself in a 
+mirror. Example 23–2.
+EXERCISE A Does the result of Example 23–2 depend on your distance from the mir-
+ror? (Try it and see, it’s fun.)
+EXERCISE B Return to Chapter-Opening Question 1, page 644, and answer it again now.
+Try to explain why you may have answered differentl

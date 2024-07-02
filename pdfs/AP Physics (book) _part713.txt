@@ -1,0 +1,21 @@
+(ii), which are the conservation laws for momentum and kinetic energy, are
+both satisfied by the solution  
+and  
+This is a valid solution, but not very interesting.
+It corresponds to no collision at all—when the two objects miss each other.
+vB
+œ = vB.
+vA
+œ = vA
+But if we compare the total kinetic energy just before the collision with the 
+total kinetic energy just after the collision, and they are found to be the same,
+then we say that the total kinetic energy is conserved. Such a collision is called 
+an elastic collision. If we use the subscripts A and B to represent the two objects,
+we can write the equation for conservation of total kinetic energy as
+[elastic collision] (7;6)
+Primed quantities 
+mean after the collision, and unprimed mean before the
+collision, just as in Eq. 7–3 for conservation of momentum.
+At the atomic level the collisions of atoms and molecules are often elastic.
+But in the “macroscopic” world of ordinary objects, an elastic collision is an ideal
+that is never q

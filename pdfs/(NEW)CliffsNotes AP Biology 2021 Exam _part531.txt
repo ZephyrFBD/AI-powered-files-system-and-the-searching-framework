@@ -1,0 +1,13 @@
+ntical copies of the parent cell. This process is called clonal selection,
+since only the B or T cell that bears the effective antigen receptor is “selected” and reproduces to make clones, or
+identical copies of itself. Clonal selection results in a proliferation of B cells and T cells that will engage a specific,
+invading antigen.
+The responses of the immune system are categorized into two kinds of reactions, as follows:
+1. The cell-mediated response uses mostly T cells and responds to any nonself cell, including cells invaded by
+pathogens. When a nonself cell binds to a T cell, the T cell undergoes clonal selection, initiating the following chain
+of events:
+T cells produce cytotoxic T cells. These cells destroy nonself cells.
+T cells produce helper T cells.
+Helper T cells bind to macrophages. Macrophages that have engulfed pathogens display aberrant plasma
+membrane markers. Helper T cells identify these marker combinations as nonself and bind to these macrophages.
+Helper T cells prod

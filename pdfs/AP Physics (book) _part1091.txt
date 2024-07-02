@@ -1,0 +1,39 @@
+ound a
+circle of radius r, at an angle 
+as shown in Fig. 10–36a. Only the vertical compo-
+nent,
+acts to balance the weight mg. We set the length in Eq. 10–10
+equal to the circumference of the circle,
+Then the net upward force
+due to surface tension is
+We set this surface tension
+force equal to one-sixth the weight of the insect since it has six legs:
+So
+If 
+had come out greater than 1, the surface tension would not
+have been great enough to support the insect’s weight.
+NOTE Our estimate ignored the buoyant force and ignored any difference
+between the radius of the insect’s “foot” and the radius of the surface depression.
+cos u
+u L 57°.
+ 
+cos u L  0.54.
+(6.28)(2.0 * 10–5 m)(0.072 Nm) cos u L
+1
+6 A3.0 * 10–6 kgBA9.8 ms2B
+ 
+2prg cos u L
+1
+6 mg
+F
+y L (g cos uB l L 2prg cos u.
+l L 2pr.
+l
+g cos u,
+u,
+u
+2.0 * 10–5 m.
+EXAMPLE 10;15
+ESTIMATE
+Soaps and detergents lower the surface tension of water. This is desirable for
+washing and cleaning since the high surface tension of pure water prevents

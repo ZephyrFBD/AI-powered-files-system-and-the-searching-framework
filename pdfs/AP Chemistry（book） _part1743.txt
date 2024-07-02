@@ -1,0 +1,16 @@
+of mat-
+ter—solid, liquid, gas—can transform into either of the other two 
+states. Figure 11.20 shows the names associated with these trans-
+formations, which are called either phase changes or changes 
+of state.
+energy Changes Accompany Phase Changes
+Every phase change is accompanied by a change in the energy of the system. In a solid, 
+for example, the particles (molecules, ions, or atoms) are in more or less fixed positions 
+with respect to one another and closely arranged to minimize the energy of the sys-
+tem. As the temperature of the solid increases, the particles vibrate about their equilib-
+rium positions with increasing energetic motion. When the solid melts, the particles 
+begin moving freely relative to one another, which means their average kinetic energy 
+increases.
+Melting is called (somewhat confusingly) fusion. The increased freedom of motion 
+of the particles requires energy, measured by the heat of fusion or enthalpy of fusion, 
+∆Hfus. The heat of fusion of ice, for 

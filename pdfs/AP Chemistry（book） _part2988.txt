@@ -1,0 +1,32 @@
+eriment 
+805
+19 
+807
+CHEMICAL 
+THERMODYNAMICS
+ 19.1 ▶  Spontaneous Processes Note 
+that changes that occur in nature have 
+a directional character. They move 
+spontaneously in one direction but not in 
+the reverse direction.
+ 19.2 ▶  Entropy and the Second Law 
+of Thermodynamics Learn that 
+entropy is a thermodynamic state function 
+important in determining whether a 
+process is spontaneous. The second law 
+of thermodynamics tells us that in any 
+spontaneous process, the entropy of 
+the universe (system plus surroundings) 
+increases.
+ 19.3 ▶  The Molecular Interpretation  
+of Entropy and the Third Law  
+of Thermodynamics On the molecular 
+level, consider that the entropy of a system 
+is related to the number of accessible 
+microstates. The entropy of the system 
+increases as the randomness of the system 
+increases. The third law of thermodynamics 
+states that, at 0 K, the entropy of a perfect 
+crystalline solid is zero.
+ 19.4 ▶  Entropy Changes in Chemical 
+Reactions Calculate the stan

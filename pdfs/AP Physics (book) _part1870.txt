@@ -1,0 +1,55 @@
+tor changes at
+the same frequency as the sound wave.
+Some computer keyboards operate by capacitance. As shown in Fig. 17–17,
+each key is connected to the upper plate of a capacitor. The upper plate moves
+down when the key is pressed, reducing the spacing between the capacitor plates,
+and increasing the capacitance (Eq. 17–8: smaller d, larger C). The change
+in capacitance results in an electric signal that is detected by an electronic 
+circuit.
+ 0,
+C r Ad
+C L  0 Ad = A8.85 * 10–12 C2Nm2BA102 m2BA10–9 mB L 1 F.
+102 m2,
+10–9 m
+100 m2.
+105
+Key
+Insulator
+(ﬂexible)
+Movable
+plate
+Fixed
+plate
+Capacitor
+FIGURE 17–17 Key on a computer
+keyboard. Pressing the key reduces the
+plate spacing, increasing the capacitance.
+FIGURE 17–16 Diagram of a
+condenser microphone.
+Sound
+pressure
+R
+V
++
+–
+Voutput
+C
+Movable plate
+(diaphragm)
+SECTION 17–8
+485
+TABLE 17–3
+Dielectric Constants (at 20°C)
+Dielectric 
+Dielectric
+constant 
+strength
+Material
+K
+Vacuum 
+1.0000 
+Air (1 atm) 
+1.0006 
+Paraffin 
+2.2 
+Polyst

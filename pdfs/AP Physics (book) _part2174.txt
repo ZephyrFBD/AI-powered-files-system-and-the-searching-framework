@@ -1,0 +1,47 @@
+e defibrillator discharges with a time constant of 10 ms,
+what is the effective capacitance of the human body?
+1.0-mF
+Magnetism
+560
+20
+C
+H
+A
+P
+T
+E
+R
+CONTENTS
+20–1 Magnets and Magnetic Fields
+20–2 Electric Currents Produce
+Magnetic Fields
+20–3 Force on an Electric Current
+in a Magnetic Field;
+Definition of 
+20–4 Force on an Electric Charge
+Moving in a Magnetic Field
+20–5 Magnetic Field Due to a
+Long Straight Wire
+20–6 Force between Two Parallel
+Wires
+20–7 Solenoids and Electromagnets
+20–8 Ampère’s Law
+20–9 Torque on a Current Loop;
+Magnetic Moment
+20–10 Applications: Motors,
+Loudspeakers, Galvanometers
+*20–11 Mass Spectrometer
+*20–12 Ferromagnetism: Domains
+and Hysteresis
+B
+B
+Magnets produce magnetic fields,
+but so do electric currents. Compass
+needles are magnets, and they align
+along the direction of any magnetic
+field present. Here, the compasses
+show the presence (and direction) 
+of a magnetic field near a current-
+carrying wire. We shall see in this
+Chapter how magnetic field is
+de

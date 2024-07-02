@@ -1,0 +1,56 @@
+ the speed):
+(13;9)
+vrms =
+3 O = B
+3kT
+m
+.
+vrms
+O
+376
+CHAPTER 13
+Temperature and Kinetic Theory
+† Mathematically, the distribution is given by 
+where 
+is the num-
+ber of molecules with speed between v and 
+is a constant, and exp means the expression 
+in parentheses is an exponent on the “natural number” e = 2.718 p .
+C
+v + ¢v,
+¢N
+¢N = Cv2 expA– 1
+2 mv2kTB¢v,
+0
+vP vrms
+Speed, v
+Relative number
+of molecules
+FIGURE 13–19 Distribution of
+speeds of molecules in an ideal gas.
+Note that 
+is not at the peak of
+the curve (that speed is called the
+“most probable speed,”
+). This is
+because the curve is skewed to the
+right: it is not symmetrical.
+vP
+vrms
+Speeds of air molecules. What is the rms speed of air
+molecules (
+and 
+) at room temperature (20°C)?
+APPROACH To obtain 
+we need the masses of 
+and 
+molecules and
+then apply Eq. 13–9 to oxygen and nitrogen separately, since they have differ-
+ent masses.
+SOLUTION The masses of one molecule of 
+(molecular
+) and
+(molecular
+) are (where
+)
+Thus, for o

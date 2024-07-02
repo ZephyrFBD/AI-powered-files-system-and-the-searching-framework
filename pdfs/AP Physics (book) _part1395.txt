@@ -1,0 +1,51 @@
+ C
+50  C
+50  F
+0  C
+32  F
+FIGURE 13–7 Celsius and
+Fahrenheit scales compared.
+FIGURE 13–6 Photograph of a
+thermometer using a coiled
+bimetallic strip.
+FIGURE 13–5 (a) Mercury- or
+alcohol-in-glass thermometer;
+(b) bimetallic strip.
+Taking your temperature. Normal body temperature is
+98.6°F. What is this on the Celsius scale?
+APPROACH We recall that
+and that a change of
+SOLUTION First we relate the given temperature to the freezing point of water
+(0°C). That is, 98.6°F is
+above the freezing point of water.
+Since each F° is equal to 
+this corresponds to 
+Celsius
+degrees above the freezing point. The freezing point of water is 0°C, so normal
+body temperature is 37.0°C.
+66.6 * 5
+9 = 37.0
+5
+9 C°,
+98.6 - 32.0 = 66.6 F°
+5 C° = 9 F°.
+0°C = 32°F
+EXAMPLE 13;2
+SECTION 13–3
+Thermal Equilibrium and the Zeroth Law of Thermodynamics
+363
+C A U T I O N
+Convert temperature by 
+remembering
+and a 
+change of 5 C° = 9 F°
+0°C = 32°F
+h
+Reference
+mark
+Connecting
+hose
+Mercury
+Bulb
+Gas
+FIGURE 13–8 Constant-volume

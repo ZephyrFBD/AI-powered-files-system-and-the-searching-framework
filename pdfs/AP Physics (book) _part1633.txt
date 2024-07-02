@@ -1,0 +1,62 @@
+e proportional to the operating temperatures 
+and 
+(in kelvins):
+So the efficiency can be written as
+(15;5)
+Equation 15–5 expresses the fundamental upper limit to the efficiency of any heat
+engine. A higher efficiency would violate the second law of thermodynamics.†
+Real engines always have an efficiency lower than this because of losses due to
+friction and the like. Real engines that are well designed reach 60 to 80% of the
+Carnot efficiency.
+cCarnot (ideal)
+efficiency
+d
+eideal = T
+H - T
+L
+T
+H
+= 1 - T
+L
+T
+H
+.
+QHQL = T
+HT
+L .
+T
+L
+T
+H
+QL
+QH
+QL
+QH
+T
+L
+T
+H
+QL
+QH
+(¢T = 0).
+(Q = 0)
+SECTION 15–5
+Heat Engines
+423
+†If an engine had a higher efficiency than Eq. 15–5, it could be used in conjunction with a Carnot
+engine that is made to work in reverse as a refrigerator. If W was the same for both, the net result
+would be a flow of heat at a low temperature to a high temperature without work being done. That
+would violate the Clausius statement of the second law.
+TH
+TL
+P
+0
+V
+QH
+TH
+TL
+a
+d
+b
+QL
+c

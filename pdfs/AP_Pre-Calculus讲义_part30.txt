@@ -1,0 +1,37 @@
+term anxn is the leading term. 
+ 
+ 
+ 
+If a polynomial consists of just a single term, then it is called a monomial.  
+For example, P(x) = x3 and Q(x) = -6x5 are monomials 
+ 
+1.6.2 Graphing Basic Polynomial Functions 
+The simplest polynomial functions are the monomials P(x) = xn. 
+ 
+ 
+ 
+35 
+ 
+ 
+As the figure suggests, the graph of P(x) = xn has the same general shape as the graph of 
+y = x2 when n is even and the same general shape as the graph as y = x3 when n is odd. 
+ 
+Example 1 
+Sketch graphs of the following functions. 
+(a) P(x) = - x3 
+(b) Q(x) = (x - 2)4 
+(c) R(x) = - 2x5 + 4 
+ 
+ 
+ 
+ 
+1.6.3 End Behavior of Polynomial Functions 
+The graphs of polynomials of degree 0 or 1 are lines, and the graphs of polynomials of 
+degree 2 are parabolas. The greater the degree of a polynomial, the more complicated its 
+graph can be. 
+However, the graph of a polynomial function is continuous. This means that the graph 
+has no breaks or holes. 
+ 
+ 
+36 
+Moreover, the graph of a polynomial function i

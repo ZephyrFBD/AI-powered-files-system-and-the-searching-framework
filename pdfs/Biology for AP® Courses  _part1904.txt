@@ -1,0 +1,17 @@
+ helps with the research
+efforts in these model organisms. The process of attaching biological information to gene sequences is called genome
+annotation. Annotation of gene sequences helps with basic experiments in molecular biology, such as designing PCR
+primers and RNA targets.
+700
+Chapter 17 | Biotechnology and Genomics
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Click through each step of genome sequencing at this site (http://openstaxcollege.org/l/DNA_sequence) .
+How is deep sequencing an improvement on Sanger sequencing?
+a.
+Deep sequencing allows for much faster sequencing of short strands of DNA as compared to Sanger
+sequencing which, reads only short sequences of DNA at a slow rate. Also, there is a high risk of chain
+termination and problems with separation during Sanger sequencing.
+b.
+Sequence coverage is higher in Sanger sequencing as compared to deep sequencing.
+c.
+Sanger sequencing is suitable when there is only one nucleotide different 

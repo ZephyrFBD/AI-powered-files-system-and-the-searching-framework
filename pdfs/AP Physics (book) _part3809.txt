@@ -1,0 +1,40 @@
+predictions about the physical world can then be made with the equation.
+1
+2 .
+1
+4
+r 1speed.
+A = pr2.
+p
+A r r2,
+C = pD.
+.
+r
+p
+C r D.
+p.
+r
+C r D,
+Mathematical Review A
+A–2 Exponents
+When we write 
+we mean that you multiply 10 by itself four times:
+The superscript 4 is called an exponent, and 
+10 is said to be raised to the fourth power. Any number or symbol can be
+raised to a power. Special names are used when the exponent is 2 (
+is “a squared”)
+or 3 (
+is “a cubed”). For any other power, we say 
+is “a to the nth power.” If the
+exponent is 1, it is usually dropped:
+since no multiplication is involved.
+The rules for multiplying numbers expressed as powers are as follows: first,
+(A;1)
+That is, the exponents are added. To see why, consider the result of the multipli-
+cation of 
+by 
+Here the sum of the exponents is
+so rule A–1 works. Notice that 
+this rule works only if the base numbers (a in Eq. A–1) are the same. Thus we
+cannot use the rule of summing exponents for 
+these numbers would 

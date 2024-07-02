@@ -1,0 +1,22 @@
+ity * liters:
+Moles solute in conc soln = moles solute in dilute soln
+ 
+ Mconc * Vconc = Mdil * Vdil 
+[4.33]
+Although we derived Equation 4.33 in terms of liters, any volume unit can be used as 
+long as it is used on both sides of the equation. For example, in the calculation we did for 
+the CuSO4 solution, we have
+11.00 M)1Vconc2 = 10.100 M)1250.0 mL2
+Solving for Vconc gives Vconc = 25.0 mL as before.
+4.6 ∣  
+Solution Stoichiometry and  
+Chemical Analysis
+In Chapter 3 we learned that given the chemical equation for a reaction and the amount of 
+one reactant consumed in the reaction, you can calculate the quantities of other reactants 
+and products. In this section we extend this concept to reactions involving solutions.
+Recall that the coefficients in a balanced equation give the relative number of moles 
+of reactants and products. 
+(Section 3.6) To use this information, we must convert the 
+Sample Exercise 4.14 
+Preparing a Solution by Dilution
+How many milliliters of 3.0 M H2SO4 are

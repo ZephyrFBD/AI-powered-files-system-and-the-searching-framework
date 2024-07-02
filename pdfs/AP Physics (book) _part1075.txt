@@ -1,0 +1,48 @@
+ Bernoulli effect, by 
+setting the sails at an angle, as shown in Fig. 10–26. The air traveling rapidly over 
+the bulging front surface of the mainsail exerts a smaller pressure than the relatively
+still air behind the sail. The result is a net force on the sail,
+as shown in 
+Fig. 10–26b. This force would tend to make the boat move sideways if it weren’t
+for the keel that extends vertically downward beneath the water: the water exerts
+a force 
+on the keel nearly perpendicular to the keel. The resultant of
+these two forces 
+is almost directly forward as shown.
+AF
+B
+RB
+AF
+B
+waterB
+F
+B
+wind,
+AA1v1 = A2v2B,
+P
+1 + 1
+2 rv1
+2 = P
+2 + 1
+2 rv2
+2 ,
+y1 = y2 .
+P H Y S I C S  A P P L I E D
+Airplanes and dynamic lift
+(a)
+Low P
+(high ﬂow)
+High P
+(b)
+FIGURE 10–24 Examples of
+Bernoulli’s principle: (a) atomizer,
+(b) Ping-Pong ball in jet of air.
+Higher pressure
+Lower pressure
+FIGURE 10–25 Lift on an airplane
+wing. We are in the reference frame
+of the wing, seeing the air flow by.
+  R
+Wind
+   water
+   w

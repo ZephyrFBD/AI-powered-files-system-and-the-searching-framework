@@ -1,0 +1,30 @@
+tion due to gravity.
+Pascal’s principle says that an external pressure applied to
+a confined fluid is transmitted throughout the fluid.
+Pressure is measured using a manometer or other type of
+gauge. A barometer is used to measure atmospheric pressure.
+Standard atmospheric pressure (average at sea level) is
+Gauge pressure is the total (absolute) pres-
+sure minus atmospheric pressure.
+Archimedes’ principle states that an object submerged
+wholly or partially in a fluid is buoyed up by a force equal to
+the weight of fluid it displaces (F
+B = mFg = rFV
+displ g).
+1.013 * 105 Nm2.
+P = rgh,
+r
+P =
+F
+A
+.
+r = m
+V
+.
+Fluid flow can be characterized either as streamline
+(also called laminar), in which the layers of fluid move
+smoothly and regularly along paths called streamlines, or as
+turbulent, in which case the flow is not smooth and regular but
+is characterized by irregularly shaped whirlpools.
+Fluid flow rate is the mass or volume of fluid that passes a
+given point per unit time. The equation 

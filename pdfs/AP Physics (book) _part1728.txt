@@ -1,0 +1,18 @@
+causes
+a charge separation within the
+nonconductor’s molecules.
+FIGURE 16–8 Inducing a 
+charge on an object connected 
+to ground.
+Another way to induce a net charge on a metal object is to first connect it
+with a conducting wire to the ground (or a conducting pipe leading into the
+ground) as shown in Fig. 16–8a (the symbol 
+means connected to “ground”).
+The object is then said to be grounded or “earthed.” The Earth, because it is so
+large and can conduct, easily accepts or gives up electrons; hence it acts like a
+reservoir for charge. If a charged object—say negative this time—is brought up
+close to the metal object, free electrons in the metal are repelled and many of
+them move down the wire into the Earth, Fig. 16–8b. This leaves the metal posi-
+tively charged. If the wire is now cut, the metal object will have a positive induced
+charge on it (Fig. 16–8c). If the wire is cut after the negative object is moved
+away, the electrons would all have moved from the ground back into the meta

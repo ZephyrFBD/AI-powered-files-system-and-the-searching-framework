@@ -1,0 +1,87 @@
+e first time.
+Estimating fusion energy. Estimate the
+energy released if the following reaction occurred:
+APPROACH We use Fig. 31–12 for a quick estimate.
+SOLUTION We see in Fig. 31–12 that each 
+has a binding energy of about
+which for 2 nuclei of mass 2 is 
+The 
+has
+a binding energy per nucleon (Fig.31–12) of about 7 MeV for a total of 
+Hence the energy release is about 28 MeV - 5 MeV L 23 MeV.
+28 MeV.
+4 * 7 MeV L
+2
+4He
+4 * A1 1
+4B L 5 MeV.
+1 1
+4 MeVnucleon,
+1
+2H
+1
+2H + 1
+2H S
+2
+4He.
+EXAMPLE 31;7
+ESTIMATE
+26.7 MeV.
+(24.7 MeV + 2 * 1.02 MeV) =
+2mec2 = 1.02 MeV;
+2 g
+e±
+(2 * 0.42 MeV + 2 * 5.49 MeV + 12.86 MeV) = 24.7 MeV.
+2
+3He
+4 1
+1H S
+2
+4He + 2e± + 2n + 2g.
+2
+4He
+d =
+p =
+p + p S d + e± + n
+2
+3He +
+2
+3He S
+2
+4He +
+1
+1H +
+1
+1H.
+(12.86 MeV)
+1
+1H +
+1
+2H S
+2
+3He + g
+ (5.49 MeV)
+1
+1H +
+1
+1H S
+1
+2H + e± + n
+ (0.42 MeV)
+g
+1
+2H
+(¢m)c2 = (0.002388 u)(931.5 MeVu) = 2.22 MeV,
+2.016490 u - 2.014102 u = 0.002388 u,
+g
+1
+2H,
+1.007825 u + 1.008665 u = 2.016490 u,
+c2
+1
+1H + n S
+1
+2H + g.
+1
+2H,
+EXAMPLE

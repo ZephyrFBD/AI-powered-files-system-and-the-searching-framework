@@ -1,0 +1,25 @@
+ frequently collide with O2 molecules 
+and form ozone:
+ 
+O2
+O3*
+O +
+ 
+[18.2]
+The asterisk on O3 denotes that the product contains an excess of energy, because the re-
+action is exothermic. The 105 kJ/mol that is released must be transferred away from the 
+O3* molecule quickly or else the molecule will fly apart into O2 and atomic O—a decom-
+position that is the reverse of the reaction by which O3* is formed.
+An energy-rich O3* molecule can release its excess energy by colliding with another 
+atom or molecule and transferring some of the excess energy to it. Let’s use M to repre-
+sent the atom or molecule with which O3* collides. (Usually, M is N2 or O2 because these 
+are the most abundant molecules in the atmosphere.) The formation of O3* and the 
+transfer of excess energy to M are summarized by the equations
+O1g2 + O21g2 ∆O3*1g2 
+[18.3]
+ O3*1g2 + M1g2 ¡ O31g2 + M*1g2  
+[18.4]
+ 
+O1g2 + O21g2 + M1g2 ¡ O31g2 + M*1g2 
+[18.5]
+The rate at which the reactions of Equations 18.3 and 18.4 proce

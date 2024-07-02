@@ -1,0 +1,43 @@
+o just before it reaches the end
+of its 1.0-m-long string, if it is released from rest. (b) What
+fraction of its kinetic energy is rotational?
+79. A cyclist accelerates from rest at a rate of 
+How
+fast will a point at the top of the rim of the tire
+be moving after 2.25 s? [Hint: At
+any moment, the lowest point on the tire is in contact with
+the ground and is at rest—see Fig. 8–57.]
+(diameter = 68.0 cm)
+1.00 ms2.
+228
+CHAPTER 8
+Rotational Motion
+l
+M
+l
+2
+CM
+g
+B
+FIGURE 8;63
+Problem 89.
+2
+R
+1
+v
+B
+v
+B
+FIGURE 8;66
+Problem 95.
+89. A uniform rod of mass M and length 
+can pivot freely 
+(i.e., we ignore friction) about a hinge attached to a wall,
+as in Fig. 8–63. The rod is held horizontally and then
+released. At the moment of release, determine (a) the angular
+acceleration of the rod, and (b) the linear acceleration 
+of the tip of the rod. Assume that the force of gravity 
+acts at the center of mass of the rod, as shown. [Hint: See
+Fig. 8–20g.]
+l
+90. Suppose a star the size of our Sun, but with

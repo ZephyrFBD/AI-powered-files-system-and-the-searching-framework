@@ -1,0 +1,48 @@
+? 
+ 
+(b) What are the possible values of ms for the orbital?
+ 6.60  A hydrogen atom orbital has n = 5 and ml = -2. (a) What 
+are the possible values of l for this orbital? (b) What are the 
+possible values of ms for the orbital?
+ 6.61  Which of the following represent impossible combinations 
+of n and l? (a) 1p, (b) 4s, (c) 5f, (d) 2d
+ 6.62  For the table that follows, write which orbital goes with the 
+quantum numbers. Don’t worry about x, y, z subscripts. If the 
+quantum numbers are not allowed, write “not allowed.”
+n
+l
+ml
+Orbital
+2
+1
+-1
+2p (example)
+1
+0
+0
+3
+-3
+2
+3
+2
+-2
+2
+0
+-1
+0
+0
+0
+4
+2
+1
+5
+3
+0
+ 6.63  Sketch the shape and orientation of the following types of 
+ 
+orbitals: (a) s, (b) pz, (c) dxy.
+ 6.64  Sketch the shape and orientation of the following types of 
+orbitals: (a) px, (b) dz2, (c) dx2 - y2.
+ 6.65  (a) What are the similarities of and differences between the 
+1s and 2s orbitals of the hydrogen atom? (b) In what sense 
+does a 2p orbital have directional character? Compare th

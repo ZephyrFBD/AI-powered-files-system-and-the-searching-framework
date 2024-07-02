@@ -1,0 +1,14 @@
+s) represent the
+displacement amplitude of the vibrating air in the tube. Note that these are graphs,
+and that the air molecules themselves oscillate horizontally, parallel to the tube
+length, as shown by the small arrows in the top diagram of Fig. 12–11a (on the
+left). The exact position of the antinode near the open end of a tube depends on
+the diameter of the tube, but if the diameter is small compared to the length,
+which is the usual case, the antinode occurs very close to the end as shown.† We
+assume this is the case in what follows. (The position of the antinode may also
+depend slightly on the wavelength and other factors.)
+Let us look in detail at the open tube, in Fig. 12–11a, which might be an
+organ pipe or a flute. An open tube has displacement antinodes at both ends
+since the air is free to move at open ends. There must be at least one node within
+an open tube if there is to be a standing wave at all. A single node corresponds to
+the fundamental frequency of the tube. Since

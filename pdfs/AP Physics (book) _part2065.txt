@@ -1,0 +1,75 @@
+OLUTION The equivalent resistance,
+of the 
+and 
+resistors in
+parallel is
+This is 
+so we take the reciprocal to find RP.
+1RP,
+1
+RP
+=
+1
+500  +
+1
+700  = 0.0020 –1 + 0.0014 –1 = 0.0034 –1.
+700-
+500-
+RP,
+400-
+RP
+700 .
+500 
+RP,
+700-
+500-
+I
+2
+I
+1
+400-
+EXAMPLE 19;4
+60 W
+100 W
+60 W
+100 W
+120 V
+120 V
+(a)
+(b)
+It is a common mistake to forget to take this reciprocal. The units of reciprocal
+ohms,
+are a reminder. Thus
+This 
+is the equivalent resistance of the two parallel resistors, and is in series
+with the 
+resistor (see equivalent circuit, Fig. 19–7b). To find the total equiva-
+lent resistance 
+we add the 
+and 
+resistances, since they are in series:
+The total current flowing from the battery is then
+NOTE This I is also the current flowing through the 
+resistor, but not through
+the 
+and 
+resistors (both currents are less—see the next Example).
+700-
+500-
+400-
+I =
+V
+Req
+= 12.0 V
+690 
+= 0.0174 A L 17 mA.
+Req = 400  + 290  = 690 .
+290-
+400-
+Req,
+400-
+290 
+RP =
+1
+0.0034 –1
+= 

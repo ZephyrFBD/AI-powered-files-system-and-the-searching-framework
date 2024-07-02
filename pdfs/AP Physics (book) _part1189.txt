@@ -1,0 +1,29 @@
+scillates over a very small distance, whereas the wave
+itself can travel large distances. Wavelength, frequency, and wave speed all 
+have meaning for a longitudinal wave. The wavelength is the distance between
+successive compressions (or between successive expansions), and frequency is
+the number of compressions that pass a given point per second. The wave speed
+is the speed with which each compression appears to move; it is equal to the
+product of wavelength and frequency,
+(Eq. 11–12).
+v = lf
+Drum
+membrane
+Compression
+Expansion
+FIGURE 11–26 Production of a
+sound wave, which is longitudinal,
+shown at two moments in time about
+a half period 
+apart.
+A1
+2 TB
+Speed of Transverse Waves
+The speed of a wave depends on the properties of the medium in which it travels.
+The speed of a transverse wave on a stretched string or cord, for example, depends
+on the tension in the cord,
+and on the mass per unit length of the cord,
+(the Greek letter mu). If m is the mass of a length 
+of wire,
+For
+waves o

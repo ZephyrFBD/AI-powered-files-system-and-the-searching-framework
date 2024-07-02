@@ -1,0 +1,29 @@
+ine. The slope of 
+this line is -5.1 * 10-5 s-1. (You should verify this for yourself, remembering that your 
+result may vary slightly from ours because of inaccuracies associated with reading the 
+graph.) Because the slope of the line equals -k, the rate constant for this reaction equals 
+5.1 * 10-5 s-1.
+Second-Order Reactions
+A second-order reaction is one for which the rate depends either on a reactant concen-
+tration raised to the second power or on the concentrations of two reactants each raised 
+to the first power. For simplicity, let’s consider reactions of the type A ¡ products or 
+A + B ¡ products that are second order in just one reactant, A:
+ 
+Rate = - 
+∆3A4
+∆t
+= k3A42 
+With the use of calculus, this differential rate law can be used to derive the integrated rate 
+law for second-order reactions:
+ 
+1
+3A4t
+= kt +
+1
+3A40
+ 
+[14.14]
+584 
+CHAPTER 14 Chemical Kinetics
+This equation, like Equation 14.13, has four variables, k, t, 3A40, and 3A4t, and any one of 
+these can be calculat

@@ -1,0 +1,30 @@
+ve interference (maximum amplitude
+of vibration) are called antinodes.
+[ Waves change direction, or refract, when traveling from
+one medium into a second medium where their speed is different.
+Waves spread, or diffract, as they travel and encounter obstacles.
+A rough guide to the amount of diffraction is
+where 
+is the wavelength and the width of an obstacle or opening.
+There is a significant “shadow region” only if the wavelength 
+is smaller than the size of the obstacle.]
+[ A traveling wave can be represented mathematically as
+]
+y = A sin E(2pl)(x & vt)F.
+*
+l
+l
+l
+u L ll,
+*
+=
+1. Is the acceleration of a simple harmonic oscillator ever
+zero? If so, where?
+2. Real springs have mass. Will the true period and frequency
+be larger or smaller than given by the equations for a mass
+oscillating on the end of an idealized massless spring?
+Explain.
+3. How could you double the maximum speed of a simple
+harmonic oscillator (SHO)?
+4. If a pendulum clock is accurate at sea level, will it gain or
+lo

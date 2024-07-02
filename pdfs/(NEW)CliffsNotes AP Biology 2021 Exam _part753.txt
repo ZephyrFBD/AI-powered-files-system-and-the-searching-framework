@@ -1,0 +1,16 @@
+manipulate the formula in your spreadsheet that determines whether or not an individual passes on its alleles to the
+next generation. To simulate selection against BB individuals, for example, adjust the formula that counts the
+number of BB individuals that contribute gametes to the next generation. In the spreadsheet in Figure 17-2, if no
+selection occurs, then the number of BB individuals is calculated in cell G261 with the following formula:
+2*SUM(G5:G254) + SUM(F5:F254)
+ 
+If only 50% of the BB individuals survive, the formula becomes the following:
+ 
+05*2*SUM(G5:G254) + SUM(F5:F254) The formulas for all the cells are shown in Figure 17-3. 
+Figure 17-2
+Figure 17-3
+4. Investigate the effect of mutation and gene flow. You can simulate a mutation of A to B or B to A in ways
+similar to an investigation of natural selection, above.
+By manipulating your population model, you should make the following conclusions:
+ 
+1. The frequencies of alleles should remain unchanged over time unless one

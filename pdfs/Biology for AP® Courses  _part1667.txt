@@ -1,0 +1,10 @@
+otes their intervening role), which may be involved in gene
+regulation but are removed from the pre-mRNA during processing. Intron sequences in mRNA do not encode functional
+proteins.
+The discovery of introns came as a surprise to researchers in the 1970s who expected that pre-mRNAs would specify protein
+sequences without further processing, as they had observed in prokaryotes. The genes of higher eukaryotes very often
+contain one or more introns. These regions may correspond to regulatory sequences; however, the biological significance of
+having many introns or having very long introns in a gene is unclear. It is possible that introns slow down gene expression
+because it takes longer to transcribe pre-mRNAs with lots of introns. Alternatively, introns may be nonfunctional sequence
+remnants left over from the fusion of ancient genes throughout evolution. This is supported by the fact that separate exons
+often encode separate protein subunits or domains. For the most part, the sequences

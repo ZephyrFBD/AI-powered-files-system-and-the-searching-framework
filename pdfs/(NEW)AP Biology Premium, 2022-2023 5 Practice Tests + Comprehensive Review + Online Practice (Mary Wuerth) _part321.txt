@@ -1,0 +1,19 @@
+d Recombination Frequencies
+Genes
+Recombination Frequency
+A and B
+10%
+B and C
+15%
+A and C
+25%
+Figure 14.1 Genetic Map from Recombination Frequencies
+Sex-Linked Genes
+Most genes are located on autosomes, chromosomes that are not directly involved in sex determination. Males and
+females are equally likely to inherit genes located on autosomes. Sex chromosomes are involved in sex
+determination, and genes on sex chromosomes have different inheritance patterns than genes on autosomes.
+A special case of linked genes are sex-linked genes. Sex-linked genes are genes that are located on sex
+chromosomes. Sex chromosomes are nonhomologous in humans; females typically have two X chromosomes, and
+males have one X and one Y chromosome. For this reason, traits that are coded for by sex-linked recessive alleles
+are more likely to be expressed in males since males have only one X chromosome. Females could also express a
+sex-linked recessive trait, but since females have two X chromosomes, a female woul

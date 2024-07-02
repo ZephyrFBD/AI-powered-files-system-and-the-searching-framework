@@ -1,0 +1,93 @@
+is the first fringe on each side of the central fringe (which
+is at 
+). Destructive interference occurs when the path difference
+is 
+and so on:
+(24;2b)
+The bright fringes are peaks or maxima of light intensity, the dark fringes are minima.
+£
+destructive
+interference
+AdarkB
+§
+d sin u = Am +
+1
+2Bl,  
+m = 0, 1, 2, p.
+1
+2 l,
+3
+2 l,
+d sin u
+u = 0,  m = 0
+(m = 1),
+£
+constructive
+interference
+(bright)
+§
+d sin u = ml,  
+m = 0, 1, 2, p.
+d sin u,
+d sin u
+u
+l
+3
+2 l,
+5
+2 l,
+(u = 0°).
+u.
+S2 ,
+S1
+l
+SECTION 24–3
+Interference—Young’s Double-Slit Experiment
+683
+(a)
+S1
+Bright (constructive
+interference)
+S2
+Screen
+l
+l
+l
+(b)
+Bright
+(constructive
+interference)
+Screen
+(c)
+d
+d
+s1
+s2
+S1
+S2
+1
+2
+Dark
+(destructive
+interference)
+d
+d
+Extra distance
+=
+Extra distance
+=
+Screen
+(d)
+s2 − s1 = d sinu
+u
+u
+u
+u
+u
+l
+l
+u
+u
+u  0o
+FIGURE 24–7 How the wave theory explains the pattern of lines seen in the double-slit experiment.
+(a) At the center of the screen, waves from each slit travel the same distance and are in phase. [As

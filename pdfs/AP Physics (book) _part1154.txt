@@ -1,0 +1,23 @@
+is found from
+SOLUTION (a) The spring stretches 0.150 m due to the 0.300-kg load, so
+(b) The spring is now horizontal (on a table). It is stretched 0.100 m from
+equilibrium and is given no initial speed, so
+(c) The maximum velocity 
+is attained as the mass passes through the 
+equilibrium point where all the energy is kinetic. By comparing the total energy
+(see Eq. 11–3) at equilibrium with that at full extension, conservation of energy
+tells us that
+where
+Solving for 
+(or using Eq. 11–5a), we have
+(d) We use conservation of energy, or Eq. 11–5b derived from it, and find that
+(e) By Newton’s second law,
+So the maximum acceleration occurs
+where the force is greatest—that is, when 
+Thus
+NOTE We cannot use the kinematic equations, Eqs. 2–11, because the accelera-
+tion is not constant in SHM.
+Energy calculations. For the simple harmonic oscillator 
+of Example 11–4, determine (a) the total energy, and (b) the kinetic and poten-
+tial energies at half amplitude
+APPROACH We use conservation of 

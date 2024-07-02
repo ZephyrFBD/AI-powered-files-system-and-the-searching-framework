@@ -1,0 +1,15 @@
+ hearing, the softest sound that is just
+audible by a very good ear. Note that the ear is most sensitive to sounds of fre-
+quency between 2000 and 4000 Hz, which are common in speech and music. Note
+too that whereas a 1000-Hz sound is audible at a level of 0 dB, a 100-Hz sound
+must be nearly 40 dB to be heard. The top curve in Fig. 12–6, labeled 120 phons,
+represents the threshold of pain. Sounds above this level can actually be felt and
+cause pain.
+Figure 12–6 shows that at lower sound levels, our ears are less sensitive to the
+high and low frequencies relative to middle frequencies. The “loudness” control
+on some stereo systems is intended to compensate for this low-volume insensitivity.
+As the volume is turned down, the loudness control boosts the high and low 
+frequencies relative to the middle frequencies so that the sound will have a more
+“normal-sounding” frequency balance. Many listeners, however, find the sound
+more pleasing or natural without the loudness control.
+12–4 Source

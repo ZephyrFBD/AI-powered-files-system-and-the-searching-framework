@@ -1,0 +1,143 @@
+78
+9.2
+(20.85
+)
+273.3
+4.324
+a
+a
+a
+a
+exp
+T
+T
+T
+exp
+e
+T
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+6.4 Heat exchange between the bathtub and outside
+Team#44509
+Page 23 of 26
+The width of most bathtubs is higher than eight centimeters, and the material of
+the bathtub is usually acrylic and has good insulation effect. We find that when the
+bathtub is filled with water, the temperature of the inner casing wall is the same as the
+temperature of the water in the bathtub while the temperature of the outer casing wall
+is the same as the temperature of the air. That is why we think the bathtub has no heat
+exchange with the outside.
+6.5 Calculating the time of cooling
+Due to the relationship between heat flux and heat, wo can know that
+dQ
+cm dT
+S dt
+S dt
+
+
+
+
+
+
+，
+cm
+dt
+dT
+S
+
+
+，
+0
+T
+T
+cm
+t
+dT
+S
+
+
+
+，
+where
+
+
+
+
+
+
+4
+8
+4
+2
+4
+8
+5.5 10
+1 0.261
+( 0.74 10
+)
+273
+5.5 10
+273
+5278
+9.2
+(20.85
+)
+273.3
+4.324
+a
+a
+a
+a
+exp
+T
+T
+T
+exp
+e
+T
+T
+T
+
+
+
+
+
+
+
+

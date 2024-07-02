@@ -1,0 +1,16 @@
+104 s 14.43 (a) P = 30 torr (b) t = 51 s 14.45 Plot 
+(ln P
+SO2Cl2) versus time, k = -slope = 2.19 * 10-5s-1 14.47 (a) The 
+plot of 1>3A4 versus time is linear, so the reaction is second order in 
+[A]. (b) k = 0.040 M-1 min-1 (c) t1>2 = 38 min  14.49 (a) The plot 
+of 1>3NO24 versus time is linear, so the reaction is second order in 
+NO2.  (b) k = slope = 10 M-1s-1 (c) rate at 0.200 M = 0.400 M  >  s, 
+rate at 0.100 M = 0.100 M  >  s; rate at 0.050 M = 0.025 M  >  s  
+14.51 (a) The energy of the collision and the orientation of the 
+molecules when they collide determine whether a reaction will 
+occur. (b) The rate constant usually increases with an increase in 
+reaction temperature. (c) The fraction of molecules with energy 
+greater than the activation energy changes most dramatically with 
+temperature. Frequency of collision and the orientation factor are 
+lumped into the frequency factor, A, which is considered to be con-
+stant with temperature. 14.53 f = 4.94 * 10-2. At 400 K, approxi

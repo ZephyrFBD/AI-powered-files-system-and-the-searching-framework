@@ -1,0 +1,18 @@
+s definition. Instead, substances that function as electron-pair 
+acceptors are referred to explicitly as “Lewis acids.”
+ 
+SECTION 16.11  Lewis Acids and Bases 
+705
+Lewis acids include molecules that, like BF3, have an incomplete octet of electrons. 
+In addition, many simple cations can function as Lewis acids. For example, Fe3+ interacts 
+strongly with cyanide ions to form the ferricyanide ion:
+ 
+Fe3+ + 6 3:C ‚N:4- ¡  3Fe1C ‚N:2643- 
+The Fe3 + ion has vacant orbitals that accept the electron pairs donated by the cya-
+nide ions. (We will learn more in Chapter 23 about just which orbitals are used by the 
+Fe3+ ion.) The metal ion is highly charged, too, which contributes to the interaction with 
+CN- ions.
+Some compounds containing multiple bonds can behave as Lewis acids. For exam-
+ple, the reaction of carbon dioxide with water to form carbonic acid 1H2CO32 can be pic-
+tured as an attack by a water molecule on CO2, in which the water acts as an electron-pair 
+donor and the CO2 as an ele

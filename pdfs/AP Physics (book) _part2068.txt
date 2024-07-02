@@ -1,0 +1,31 @@
+he switch closed, so the current leaving the battery
+is reduced. Thus, bulb C will be dimmer when we open the switch, but bulb B 
+will be brighter because it gets more current when the switch is open (you may
+want to use some mathematics here).
+(= R + R)
+(P = I2R).
+CONCEPTUAL EXAMPLE 19;6
+C
+A
+S
+B
+FIGURE 19–8 Example 19–6, three
+identical lightbulbs. Each yellow
+circle with 
+inside represents a
+lightbulb and its resistance.
+EXERCISE C A 100-W, 120-V lightbulb and a 60-W, 120-V lightbulb are connected in
+two different ways as shown in Fig. 19–9. In each case, which bulb glows more brightly?
+Ignore change of filament resistance with current (and temperature).
+SECTION 19–2
+Resistors in Series and in Parallel
+531
+FIGURE 19–9 Exercise C.
+532
+CHAPTER 19
+DC Circuits
+Analyzing a circuit. A 9.0-V battery whose internal resis-
+tance r is 
+is connected in the circuit shown in Fig. 19–10a. (a) How much
+current is drawn from the battery? (b) What is the terminal voltage of the battery?
+(c) What is t

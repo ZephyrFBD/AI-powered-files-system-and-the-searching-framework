@@ -1,0 +1,16 @@
+al shapes, 
+such as bent and trigonal pyramidal, by starting with one of our five basic arrangements. 
+Starting with a tetrahedron, for example, we can remove atoms successively from the ver-
+tices, as shown in Figure 9.4. When an atom is removed from one vertex of a tetrahedron, 
+the remaining AB3 fragment has a trigonal-pyramidal geometry. When a second atom is 
+removed, the remaining AB2 fragment has a bent geometry.
+Why do most ABn molecules have shapes related to those shown in Figure 9.3? Can 
+we predict these shapes? When A is a representative element (one from the s block or p 
+block of the periodic table), we can answer these questions by using the valence-shell 
+electron-pair repulsion (VSEPR) model. Although the name is rather imposing, the 
+model is quite simple. It has useful predictive capabilities, as we will see in Section 9.2.
+Octahedron
+Go Figure
+In going from the tetrahedral shape to the bent shape, does it  
+matter which two of the atoms we choose to remove?
+Give It

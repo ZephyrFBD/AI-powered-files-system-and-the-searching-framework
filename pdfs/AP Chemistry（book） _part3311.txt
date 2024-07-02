@@ -1,0 +1,22 @@
+1s2 + I21s2 ¡ Sn2+1aq2 + 2 I-1aq2
+Under standard conditions, what is the maximum electri-
+cal work, in joules, that the cell can accomplish if 75.0 g of 
+Sn is consumed?
+ 20.60  Consider the voltaic cell illustrated in Figure 20.5, which is 
+based on the cell reaction
+Zn1s2 + Cu2+1aq2 ¡ Zn2+1aq2 + Cu1s2
+Under standard conditions, what is the maximum electri-
+cal work, in joules, that the cell can accomplish if 50.0 g of 
+copper is formed?
+Cell EMF under Nonstandard Conditions  
+(Section 20.6)
+ 20.61  (a) In the Nernst equation, what is the numerical value 
+of the reaction quotient, Q, under standard conditions? 
+(b) Can the Nernst equation be used at temperatures other 
+than room temperature?
+ 20.62  A voltaic cell is constructed with all reactants and prod-
+ucts in their standard states. Will the concentration of the 
+reactants increase, decrease, or remain the same as the cell 
+operates?
+ 20.63  What is the effect on the emf of the cell shown in Figure 
+20.9, which has the overall re

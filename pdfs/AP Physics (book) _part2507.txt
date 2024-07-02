@@ -1,0 +1,20 @@
+d as an electromagnetic wave.
+Although the ray model of light does not deal with this aspect of light (we discuss
+the wave nature of light in Chapter 24), the ray model has been very successful 
+in describing many aspects of light such as reflection, refraction, and the formation
+of images by mirrors and lenses. Because these explanations involve straight-line
+rays at various angles, this subject is referred to as geometric optics.
+23–2 Reflection; Image Formation
+by a Plane Mirror
+When light strikes the surface of an object, some of the light is reflected. The rest
+can be absorbed by the object (and transformed to thermal energy) or, if the object
+is transparent like glass or water, part can be transmitted through. For a very
+smooth shiny object such as a silvered mirror, over 95% of the light may be reflected.
+SECTION 23–2
+Reflection; Image Formation by a Plane Mirror
+645
+This bundle
+enters the eye
+FIGURE 23–1 Light rays come from
+each single point on an object. A small
+bundle of ray

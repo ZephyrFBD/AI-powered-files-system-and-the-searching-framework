@@ -1,0 +1,33 @@
+rom our everyday encounters with water. The triple point of H2O falls at a rel-
+atively low pressure, 0.00603 atm. Below this pressure, liquid water is not stable and 
+ice sublimes to water vapor on heating. This property of water is used to “freeze-dry” 
+foods and beverages. The food or beverage is frozen to a temperature below 0 °C. Next 
+it is placed in a low-pressure chamber (below 0.00603 atm) and then warmed so that 
+the water sublimes, leaving behind dehydrated food or beverage.
+The phase diagram for CO2 is shown in Figure 11.29. The melting curve (blue line) 
+behaves typically, slanting to the right with increasing pressure, telling us that the 
+melting point of CO2 increases with increasing pressure. Because the pressure at the 
+Solid
+Gas
+Liquid
+Supercritical
+fluid
+Triple point
+(−56.4 °C, 5.11 atm)
+Critical point
+(31.1 °C, 73.0 atm)
+Temperature (°C)
+Pressure (atm)
+−200
+−100
+0
+100
+200
+103
+102
+10
+1
+10−1
+10−2
+Use the phase diagram for methane, CH4, shown in Figure 
+11.30 to answe

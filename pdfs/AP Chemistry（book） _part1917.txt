@@ -1,0 +1,19 @@
+ies of the material.
+*This movement is analogous to watching people changing seats in a classroom; you can watch 
+the people (electrons) move about the seats (atoms), or you can watch the empty seats (holes) 
+“move.”
+conductivity decreases. When an appropriate voltage is applied, elec-
+trons are driven from the conduction band of the n-doped side into 
+the junction, where they meet holes that have been driven from the 
+valence band of the p-doped side. The electrons fall into the empty 
+holes, and their energy is converted into light whose photons have 
+energy equal to the band gap (Figure 12.32). In this way electrical en-
+ergy is converted into optical energy.
+Because the wavelength of light that is emitted depends on the 
+band gap of the semiconductor, the color of light produced by the 
+LED can be controlled by appropriate 
+choice of semiconductor. Most red 
+LEDs are made of a mixture of GaP and 
+GaAs. The band gap of GaP is 2.26 eV 
+13.62 * 10-19 J2, which corresponds 
+to a green 

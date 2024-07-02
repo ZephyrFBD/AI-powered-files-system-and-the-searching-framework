@@ -1,0 +1,20 @@
+gy our bodies need comes from carbohydrates and fats. The carbohy-
+drates known as starches are decomposed in the intestines into glucose, C6H12O6. 
+Glucose is soluble in blood, and in the human body it is known as blood sugar. It is trans-
+ported by the blood to cells where it reacts with O2 in a series of steps, eventually produc-
+ing CO21g2, H2O1l2, and energy:
+ 
+C6H12O61s2 + 6 O21g2 ¡ 6 CO21g2 + 6 H2O1l2   ∆H° = -2803 kJ 
+ 
+Sample Exercise 5.13 
+Estimating Reaction Enthalpies from Bond Enthalpies
+Use Table 5.4 to estimate ∆H for the following combustion reaction.
+SOLUTION
+Check This estimate can be compared with the value of -2856 kJ 
+calculated from more accurate thermochemical data; the  
+agreement is good.
+Analyze We are asked to use average bond enthalpies to estimate 
+the enthalpy change for a chemical reaction.
+Plan Energy is required to break twelve C—H bonds and two C—C 
+bonds in the two molecules of C2H6, and seven O “O bonds in 
+the seven O2 molecules. Energy is released 

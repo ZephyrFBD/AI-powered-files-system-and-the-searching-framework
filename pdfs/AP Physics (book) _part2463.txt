@@ -1,0 +1,36 @@
+r
+Eight-sided
+rotating
+mirror
+Light
+source
+(Mt. Wilson)
+(Mt. Baldy)
+Observer
+FIGURE 22–10 Michelson’s speed-
+of-light apparatus (not to scale).
+634
+CHAPTER 22
+Electromagnetic Waves
+†The intensity I for EM waves is often called the Poynting vector and given the symbol 
+Its direction
+is that in which the energy is being transported, which is the direction the wave is traveling, and its
+magnitude is the intensity (S = I).
+S
+B.
+The energy a wave transports per unit time per unit area is the intensity I, as
+defined in Sections 11–9 and 12–2.† The units of I are 
+The energy 
+is
+the energy density (Eq. 22–6a) times the volume V. Hence the energy passing
+through an area A in a time 
+(see Fig. 22–11) is
+because 
+Therefore, the magnitude of the intensity (energy per unit area
+per time 
+or power per unit area) is
+From Eqs. 22–2 and 22–3, this can also be written
+(22;7)
+We can also find the average intensity over an extended period of time, if E and B
+are sinusoidal. Then
+, just as for electric cu

@@ -1,0 +1,36 @@
+
+tube (CRT) which accelerates electrons by high voltage, and
+sweeps them across the screen in a regular way using magnetic
+coils or electric deflection plates. LCD flat screens contain
+millions of pixels,each with a red,green,and blue subpixel whose
+brightness is addressed every 
+via a matrix of horizontal and
+vertical wires using a digital (binary) code.]
+[ An electrocardiogram (ECG or EKG) records the
+potential changes of each heart beat as the cells depolarize 
+and repolarize.]
+*
+1
+60 s
+*
+28 = 256
+electric pe
+volume
+=
+1
+2 0 E2.
+MisConceptual Questions
+495
+1. A 
+charge is in an electric field. What happens if
+that charge is replaced by a 
+charge?
+(a) The electric potential doubles, but the electric potential
+energy stays the same.
+(b) The electric potential stays the same, but the electric
+potential energy doubles.
+(c) Both the electric potential and electric potential
+energy double.
+(d) Both the electric potential and electric potential
+energy stay the same.
+2. Two identical positi

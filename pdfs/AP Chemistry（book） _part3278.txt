@@ -1,0 +1,32 @@
+ated with the Ksp and see how it relates to E ° for 
+the reduction half-reaction in (a). For (c) we need to compare E° 
+from (b) with the value for the reduction of Fe2+.
+FeF21s2 + 2 e- ¡ Fe1s2 + 2 F -1aq2
+Fe2+1aq2 + 2 e- ¡ Fe1s2  E = -0.440 V
+FeF21s2 ∆Fe2+1aq2 + 2 F-1aq2  Ksp = 3Fe2+43F-42 = 2.4 * 10-6 
+    
+ 
+1.                   FeF21s2 ¡ Fe2+1aq2 + 2 F-1aq2
+  
+ 
+2.    Fe2+1aq2 + 2 e- ¡ Fe1s2
+Overall: 
+ 
+3.       FeF21s2 + 2 e- ¡ Fe1s2 + 2 F-1aq2
+SOLUTION
+Sample Integrative Exercise 
+Putting Concepts Together
+(b) The Ksp for FeF2 refers to the following equi-
+librium:  
+ (Section 17.4)
+We were also asked to use the standard 
+reduction potential of Fe2+, whose half- 
+reaction and standard reduction potentials 
+are listed in Appendix E:
+According to Hess’s law, if we can add chemical 
+equations to get a desired equation, then we 
+can add their associated thermodynamic state 
+functions, like ∆H or ∆G, to determine the 
+thermodynamic quantity for the desired reac-
+tion. 
+ (Section 5.6) 

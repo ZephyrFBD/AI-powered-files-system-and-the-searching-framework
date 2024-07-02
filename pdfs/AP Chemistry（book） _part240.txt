@@ -1,0 +1,18 @@
+oduction: Matter, Energy, and Measurement
+ 1.69 Two students determine the percentage of lead in a sample 
+as a laboratory exercise. The true percentage is 22.52%. The 
+students’ results for three determinations are as follows:
+(1) 22.52, 22.48, 22.54
+(2) 22.64, 22.58, 22.62
+(a) Calculate the average percentage for each set of data and 
+state which set is the more accurate based on the average.  
+(b) Precision can be judged by examining the average of the 
+deviations from the average value for that data set. (Calcu-
+late the average value for each data set; then calculate the av-
+erage value of the absolute deviations of each measurement 
+from the average.) Which set is more precise?
+ 1.70  Is the use of significant figures in each of the following state-
+ments appropriate? (a) The 2005 circulation of National Geo-
+graphic was 7,812,564. (b) On July 1, 2005, the population 
+of Cook County, Illinois, was 5,303,683. (c) In the United 
+States, 0.621% of the population has the surname Brow

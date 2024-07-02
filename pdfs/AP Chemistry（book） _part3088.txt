@@ -1,0 +1,24 @@
+e value for ∆G indicates a larger “driving force” to 
+produce NH3.
+We would make the same prediction based on Le Châtelier’s 
+principle. 
+ (Section 15.7) Relative to standard conditions, we 
+have increased the pressure of a reactant 1H22 and decreased the 
+pressure of the product 1NH32. Le Châtelier’s principle predicts 
+that both changes shift the reaction to the product side, thereby 
+forming more NH3.
+ 
+▶Practice Exercise 1
+Which of the following statements is true? (a) The larger 
+the Q, the larger the ∆G°. (b) If Q = 0, the system is at equi-
+librium. (c) If a reaction is spontaneous under standard 
+conditions, it is spontaneous under all conditions. (d) The 
+free-energy change for a reaction is independent of tempera-
+ture. (e) If Q 7 1, ∆G 7 ∆G°.
+ 
+▶Practice Exercise 2
+Calculate ∆G at 298 K for the Haber reaction if the reaction 
+mixture consists of 0.50 atm N2, 0.75 atm H2, and 2.0 atm NH3.
+Give It Some Thought
+Can K = 0?
+The standard free-energy change for the Haber process at

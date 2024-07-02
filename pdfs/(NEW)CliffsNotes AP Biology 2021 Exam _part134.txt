@@ -1,0 +1,18 @@
+ommon metabolic pathways,
+alcohol and lactic acid fermentation, are slightly different, the objective of both processes is to
+replenish NAD+so that glycolysis can proceed once again. Anaerobic respiration occurs in the cytosol alongside
+glycolysis.
+Alcohol Fermentation
+Alcohol fermentation (or sometimes, just fermentation) occurs in plants, fungi (such as yeasts), and bacteria. The
+steps, illustrated in Figure 4-3, are as follows:
+1. Pyruvate to acetaldehyde. For each pyruvate, 1 CO2 and 1 acetaldehyde are produced. The CO2 formed is the
+source of
+ 
+carbonation in fermented drinks like beer and champagne. 2. Acetaldehyde to ethanol. The important part of this
+step is that the
+ 
+energy in NADH is used to drive this reaction, releasing NAD+. For each acetaldehyde, 1 ethanol is made and 1
+NAD+ is produced. The
+ 
+ethanol (ethyl alcohol) produced here is the source of alcohol in beer and wine.
+It is important that you recognize the objective of this pathway. At first glance, you should wond

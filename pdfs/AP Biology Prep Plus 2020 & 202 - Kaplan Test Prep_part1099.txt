@@ -1,0 +1,26 @@
+ blocked CDK
+Questions 30–34
+Which of the following statements explains why a cell with damaged DNA
+aﬀects CDKs’ activity?
+The damaged DNA in cells in G1 phase will trigger a response from
+CDK inhibitors such as p53 to repair the damaged DNA before the
+cells progress to G2 phase.
+(A)
+The damaged DNA in cells in G1 phase will trigger a response from
+CDK inhibitors such as p53 to repair the damaged DNA before the
+cells progress to S phase.
+(B)
+The damaged DNA in cells in G2 phase will trigger a response from
+CDK inhibitors such as p53 to repair the damaged DNA before the
+cells progress to G1 phase.
+(C)
+The damaged DNA in cells in G2 phase will trigger a response from
+CDK inhibitors such as p53 to repair the damaged DNA before the
+cells progress to S phase.
+(D)
+29. Why would clumps of overlapping mammalian cells indicate a problem
+with cell cycle regulation?
+Normal cells use cyclin-dependent kinases for regulation.
+(A)
+Normal cell division is stimulated by active anaphase-promoting
+comple

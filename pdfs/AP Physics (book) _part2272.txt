@@ -1,0 +1,24 @@
+tic
+field at a point midway between them if the top one carries
+a current of 20.0 A and
+the bottom one carries
+12.0 A?
+32. (II) A horizontal compass is placed 18 cm due south from
+a straight vertical wire carrying a 48-A current downward.
+In what direction does the compass needle point at this
+location? Assume the horizontal component of the Earth’s
+field at this point is 
+and the magnetic 
+declination is 0°.
+33. (II) A long horizontal wire carries 24.0 A of current due
+north. What is the net magnetic field 20.0 cm due west of the
+wire if the Earth’s field there points downward, 44° below
+the horizontal, and has magnitude 
+34. (II) A straight stream of protons passes a given point in
+space at a rate of 
+What magnetic field
+do they produce 1.5 m from the beam?
+35. (II) Determine the magnetic field midway between two
+long straight wires 2.0 cm apart in terms of the current I in
+one when the other carries 25 A. Assume these currents
+are (a) in the same direction, and (b) in opposite direc

@@ -1,0 +1,42 @@
+u)A1.66 * 10–27 kguBA9.30 * 106 msB
+2
+Q = keLi + keHe,
+kea = keX = 0
+= 1.64 * 10–13 J = 1.02 MeV.
+keLi =
+(4.0026 u)2A1.66 * 10–27 kguB
+2A9.30 * 106 msB
+2
+2(7.0160 u)A1.66 * 10–27 kguB
+1.60 * 10–13 J = 1 MeV:
+keLi = 1
+2 MLi vLi
+2
+= 1
+2 MLi ¢ MHevHe
+MLi
+≤
+2
+= MHe
+2 vHe
+2
+2MLi
+.
+ke
+MLi 7 MHe.
+vLi
+vHe = 9.30 * 106 ms
+vLi
+MLivLi = MHevHe.
+SECTION 31–1
+Nuclear Reactions and the Transmutation of Elements
+887
+Neutron Physics
+The artificial transmutation of elements took a great leap forward in the 1930s
+when Enrico Fermi realized that neutrons would be the most effective projectiles
+for causing nuclear reactions and in particular for producing new elements.
+Because neutrons have no net electric charge, they are not repelled by positively
+charged nuclei as are protons or alpha particles. Hence the probability of a
+neutron reaching the nucleus and causing a reaction is much greater than for
+charged projectiles,† particularly at low energies. Between 1934 and 1936, Fermi
+and his co-workers 

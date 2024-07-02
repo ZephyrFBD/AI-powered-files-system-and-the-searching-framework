@@ -1,0 +1,17 @@
+order for a collision to be 
+effective.
+Because the kinetic energy of molecules depends on tem-
+perature, the rate constant of a reaction is very dependent on 
+temperature. The relationship between k and temperature is given 
+by the Arrhenius equation: k = Ae-Ea>RT. The term A is called the fre-
+quency factor; it relates to the number of collisions that are favorably 
+oriented for reaction. The Arrhenius equation is often used in loga-
+rithmic form: ln k = ln A - Ea>RT. Thus, a graph of ln k versus 1>T 
+yields a straight line with slope -Ea>R.
+REACTION MECHANISMS (SECTION 14.6) A reaction mechanism 
+details the individual steps that occur in the course of a reaction. 
+Each of these steps, called elementary reactions, has a well-defined 
+rate law that depends on the number of molecules (the molecularity) 
+of the step. Elementary reactions are defined as either unimolecular, 
+bimolecular, or termolecular, depending on whether one, two, or three 
+reactant molecules are involved, respectiv

@@ -1,0 +1,37 @@
+ch one(s)?
+I
+0
+(n = 2.42),
+FIGURE 24–61
+Problem 59.
+24–10 Polarization
+60. (I) Two polarizers are oriented at 72° to one another.
+Unpolarized light falls on them. What fraction of the light
+intensity is transmitted?
+61. (I) What is Brewster’s angle for an air–glass
+surface?
+62. (II) At what angle should the axes of two Polaroids be
+placed so as to reduce the intensity of the incident unpo-
+larized light to (a) 
+(b) 1
+10?
+1
+3 ,
+(n = 1.56)
+General Problems
+711
+75. Red light from three separate sources passes through a
+diffraction grating with 
+The wave-
+lengths of the three lines are 
+(hydrogen),
+(neon), and 
+(argon). Calculate
+the angles for the first-order diffraction line of each source.
+76. What is the index of refraction of a clear material if a
+minimum thickness of 125 nm, when laid on glass, is needed
+to reduce reflection to nearly zero when light of 675 nm is
+incident normally upon it? Do you have a choice for an
+answer?
+77. Light of wavelength 650 nm passes through two narrow
+sl

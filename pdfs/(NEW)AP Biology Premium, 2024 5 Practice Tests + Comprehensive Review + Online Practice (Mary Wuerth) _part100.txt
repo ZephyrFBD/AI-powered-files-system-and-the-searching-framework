@@ -1,0 +1,17 @@
+is
+35.6
+0.8
+(a) Using what you know about DNA structure, explain why genomes with a higher GC content might be
+more stable than genomes with a lower GC content.
+(b) On the axes provided, construct an appropriately labeled graph of the mean percent of GC content in each
+species’s genome. Include 95% confidence intervals.
+(c) Do the data support the claim that plants in colder climates have a higher GC content in their genomes?
+Use the data provided to support your answer.
+(d) A plant species has a genome with a GC content of 43.4%. Predict whether that plant is more likely to be
+native to an area with cold winters or an area with warmer winters. Justify your prediction.
+Answer Explanations
+Multiple-Choice
+1. (D) RNA contains ribose and uracil. Choice (A) is incorrect because deoxyribose and thymine are found in
+DNA, not RNA. Deoxyribose is found in DNA, not RNA, so choice (B) is incorrect. Choice (C) is incorrect
+because thymine is not found in RNA; it is found in DNA.
+2. (B) Nucleic ac

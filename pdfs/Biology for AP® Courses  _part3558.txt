@@ -1,0 +1,20 @@
+ilosophical Magazine, 84, 2004) shows that selection
+has conserved a bounding value in the product of these
+parameters; the square root of all of the ratios of toughness
+and elasticity lie above the dashed line. Patterns like this
+lead to new science but, in applications to biomimetics,
+they can also lead to improved technologies.
+Figure 29.39
+Biopolymers like collagen have higher toughness and
+higher elasticity. Biominerals like enamel have lower
+toughness but provide rigidity. Some organisms support
+soft tissue by combining biopolymers and biomaterials.
+Some rely more on biopolymers. Note that this is a
+logarithm scale not a linear scale. So that the difference in
+toughness of keratin and bone is roughly 100 and the
+difference in rigidity of these to materials is nearly that
+large.
+A. Use this graph to pose questions about the fitness of
+various biological solutions to the problem of capturing,
+storing, and using free energy. (Remember that engineers
+define “toughness” as the ability

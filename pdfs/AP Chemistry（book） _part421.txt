@@ -1,0 +1,24 @@
+
+it is inappropriate to speak of molecules of these substances. Instead we use the empirical 
+formula as the formula unit, and the formula weight of an ionic substance is determined 
+by summing the atomic weights of the atoms in the empirical formula. For example, 
+the formula unit of CaCl2 consists of one Ca2 +  ion and two Cl- ions. Thus, the formula 
+weight of CaCl2 is
+FW of CaCl2 = 40.1 amu + 2(35.5 amu) = 111.1 amu
+ 
+Sample Exercise 3.5 
+Calculating Formula Weights
+Calculate the formula weight of (a) sucrose, C12H22O11 (table sugar); and (b) calcium nitrate, Ca1NO322.
+SOLUTION
+(a)  
+By adding the atomic weights of the atoms in sucrose, we find 
+the formula weight to be 342.0 amu:
+12 C atoms = 12112.0 amu2 = 144.0 amu
+ 22 H atoms = 2211.0 amu2 =    22.0 amu
+ 11 O atoms = 11116.0 amu2 = 176.0 amu
+342.0 amu
+(b)  
+If a chemical formula has parentheses, the subscript outside 
+the parentheses is a multiplier for all atoms inside. Thus, for 
+Ca1NO322 we have
+ 1 Ca atom = 1140.1 amu2 =   

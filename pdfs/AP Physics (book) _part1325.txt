@@ -1,0 +1,71 @@
+er is moving toward the source, Fig. 12–21, the speed 
+of the waves rel-
+ative to the observer is a simple addition of velocities:
+where
+is the velocity of sound in air (we assume the air is still) and 
+is the velocity
+of the observer. Hence, the frequency heard is
+Because
+then
+or
+(12;3a)
+If the observer is moving away from the source, the relative velocity is
+so
+(12;3b)
+cobserver moving away
+from stationary sourced
+f¿ =
+a 1 - vobs
+vsnd
+b f.
+vsnd - vobs ,
+v¿ =
+cobserver moving toward
+stationary source
+d
+f¿ =
+a 1 + vobs
+vsnd
+b f.
+f¿ =
+Avsnd + vobsB f
+vsnd
+,
+l = vsndf,
+f¿ = v¿
+l
+= vsnd + vobs
+l
+.
+vobs
+vsnd
+v¿ = vsnd + vobs ,
+v¿
+l,
+346
+CHAPTER 12
+Sound
+l
+  obs
+= 0
+Source
+Observer
+  snd
+vsource
+v
+B
+v
+B
+FIGURE 12–21 Observer moving
+with speed 
+toward a stationary
+source detects wave crests passing
+at speed
+where
+is the speed of the sound
+waves in air.
+vsnd
+v¿ = vsnd + vobs
+vobs
+A moving siren. The siren of a police car at rest emits at a
+predominant frequency of 1600 Hz. What frequency wil

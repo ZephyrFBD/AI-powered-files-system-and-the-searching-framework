@@ -1,0 +1,22 @@
+
+0.60 ms
+331 ms.
+Distance from a lightning strike. A rule
+of thumb that tells how close lightning has struck is “one mile for every five seconds
+before the thunder is heard.” Explain why this works, noting that the speed of
+light is so high (
+almost a million times faster than sound) that the
+time for light to travel to us is negligible compared to the time for the sound.
+RESPONSE The speed of sound in air is about 
+so to travel
+takes about 3 seconds. One mile is about 1.6 kilometers, so the
+time for the thunder to travel a mile is about (1.6)(3) L 5 seconds.
+1 km = 1000 m
+340 ms,
+3 * 108 ms,
+CONCEPTUAL EXAMPLE 12;1
+Two aspects of any sound are immediately evident to a human listener:
+“loudness” and “pitch.” Each refers to a sensation in the consciousness of the 
+listener. But to each of these subjective sensations there corresponds a physically
+measurable quantity. Loudness is related to the intensity (energy per unit time
+crossing unit area) in the sound wave, and we shall discus

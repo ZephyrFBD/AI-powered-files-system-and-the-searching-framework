@@ -1,0 +1,22 @@
+ion of Continuity
+273
+Above a certain speed, the flow becomes turbulent. Turbulent flow is characterized
+by erratic, small, whirlpool-like circles called eddy currents or eddies (Fig. 10–18b).
+Eddies absorb a great deal of energy, and although a certain amount of internal
+friction called viscosity is present even during streamline flow, it is much greater
+when the flow is turbulent. A few tiny drops of ink or food coloring dropped into a
+moving liquid can quickly reveal whether the flow is streamline or turbulent.
+Let us consider the steady laminar flow of a fluid through an enclosed tube
+or pipe as shown in Fig. 10–19. First we determine how the speed of the fluid
+changes when the diameter of the tube changes. The mass flow rate is defined as the
+mass 
+of fluid that passes a given point per unit time 
+In Fig. 10–19, the volume of fluid passing point 1 (through area 
+) in a time 
+is 
+where 
+is the distance the fluid moves in time 
+The velocity† of fluid
+(density 
+) passing point 1 is
+.

@@ -1,0 +1,57 @@
+ge acceleration
+is the same for both cars. (b) Instantaneous acceleration is the slope of the tangent
+to the 
+vs. curve. For the first 4 s or so, the top curve (car A) is steeper than the
+bottom curve, so car A has a greater acceleration during this interval. The
+bottom curve is steeper during the last 6 s, so car B has the larger acceleration
+for this period. (c) Except at
+and
+car A is always going 
+faster than car B. Since it is going faster, it will go farther in the same time.
+t = 10.0 s,
+t = 0
+t
+v
+¢t =
+(100 kmh)
+¢v
+¢v¢t.
+100 kmh
+CONCEPTUAL EXAMPLE 2;17
+P1
+P2
+Slope of P1P2 is average
+acceleration during Δt = t2 − t1
+Slope of tangent
+is instantaneous
+acceleration at t1
+Δ =
+t2
+0
+t1
+v2 v1
+v1
+v2
+v
+v
+t
+−
+Δt = t2 − t1
+10
+8
+6
+4
+2
+0
+100
+t (s)
+v (km/h)
+Car A
+Car B
+FIGURE 2;31 (below) Example 2–17.
+Slope and Acceleration
+We can also draw a graph of the velocity,
+vs. time, , as shown in Fig. 2–30. Then the
+average acceleration over a time interval 
+is represented by the slope
+of the straig

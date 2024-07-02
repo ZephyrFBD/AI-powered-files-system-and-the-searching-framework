@@ -1,0 +1,29 @@
+e
+How does the energy spacing between molecular orbitals 
+change as the number of atoms in the chain increases?
+Energy
+Band of molecular orbitals
+Li
+Li2
+Li4
+Li∞
+Most
+antibonding
+Most
+bonding
+Filled MOs
+Empty MOs
+Number of atoms increasing
+Remember, dots represent 
+nuclei and half-arrows 
+represent electrons.
+▲ Figure 12.22 Discrete energy levels in individual molecules become continuous energy bands in a 
+solid. Occupied orbitals are shaded blue, and empty orbitals pink.
+488 
+CHAPTER 12 Solids and Modern Materials
+Each lithium atom contains a half-filled 2s orbital in its valence shell. The molecular- 
+orbital diagram for Li2 is analogous to that of an H2 molecule: one filled bonding molecular 
+orbital and one empty antibonding molecular orbital with a nodal plane between the atoms. 
+ (Section 9.7) For Li4, there are four molecular orbitals, ranging from the lowest-energy 
+orbital, where the orbital interactions are completely bonding (zero nodal planes), to the 
+highest-energy orbital

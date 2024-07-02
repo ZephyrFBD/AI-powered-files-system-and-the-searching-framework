@@ -1,0 +1,15 @@
+ted in two spaces at the top of
+the diagram (t and t in in 3). The gametes of the second parent are represented at the left side (T and t in Figure 8-3).
+In the middle are four boxes, each box combining the allele found at the top with the allele found to the left. The
+four boxes represent all of the possibilities of combining the two gametes from one parent with the two gametes
+from the second parent. In Figure 8-3, the results of the cross Tt × tt are ½ Tt and ½ tt. These results represent the
+genotypic frequencies of the offspring. The phenotypic results are ½ tall and ½ dwarf plants. Results can be given as
+frequencies (fractions), as percents (½ = 50%), or as ratios. The ratio of dwarf to tall plants is 1:1.
+Suppose that you were asked to find the frequencies of the F2generation for
+ 
+the cross TT × tt. Following the procedures above, all of the F1progeny
+ 
+would have the genotype Tt.
+ 
+To find the F2generation, cross the F1offspring with themselves, Tt × Tt
+( Figure 8-4). The gen

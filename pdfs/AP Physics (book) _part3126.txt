@@ -1,0 +1,28 @@
+nd the reflected
+photon must enter your eye or some other detector. When a photon strikes an
+ordinary-sized object, it only slightly alters the motion or position of the object.
+1
+2 mm
+°2,
+°
+°2
+°2
+°2.
+806
+CHAPTER 28
+Quantum Mechanics of Atoms
+FIGURE 28–4 Young’s double-slit
+experiment done with electrons—
+note that the pattern is not evident
+with only a few electrons (top
+photo), but with more and more
+electrons (second and third photos),
+the familiar double-slit interference
+pattern (Chapter 24) is seen.
+But a photon striking a tiny object like an electron transfers enough momentum
+to greatly change the electron’s motion and position in an unpredictable way. The
+mere act of measuring the position of an object at one time makes our knowledge
+of its future position imprecise.
+Now let us see where the wave–particle duality comes in. Imagine a thought
+experiment in which we are trying to measure the position of an object, say an
+electron, with photons, Fig. 28–5. (The arguments would be s

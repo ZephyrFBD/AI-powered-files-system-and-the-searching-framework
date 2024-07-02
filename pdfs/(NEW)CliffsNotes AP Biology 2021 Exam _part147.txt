@@ -1,0 +1,18 @@
+ membranes create an intermembrane space between them,
+ 
+where H+ (protons), transported from the matrix, accumulate. This
+creates a proton gradient, which drives the movement of protons thru ATP synthase back into the matrix. As protons
+pass through the ATP synthase channel, ATP is generated from ADP and Pi.
+Some Typical Answers to Long Questions
+Question 1
+a. The Krebs cycle and oxidative phosphorylation are the oxygenrequiring processes involved in obtaining ATP
+from pyruvate. Pyruvate is derived from glucose through glycolysis, a process that does not require oxygen.
+Before pyruvate enters the Krebs cycle, it combines with coenzyme A.
+ 
+During this initial reaction with coenzyme A, 2 electrons and 2 H+ removed from pyruvate combine with NAD+ to
+form 1 NADH + H+.
+ 
+NADH is a coenzyme storing enough energy to generate 3 ATP in
+ 
+oxidative phosphorylation. A CO2 molecule is also released. The end
+product of this reaction is acetyl CoA. To begin the Krebs cycle, acetyl CoA combines wit

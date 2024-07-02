@@ -1,0 +1,33 @@
+.30 m,
+x = A cos(2pft),
+x = A cos(2pft).
+x = (0.30 m) cos(8.0 t).
+t
+x  A cos V
+EXAMPLE 11;8
+Sinusoidal Motion
+Equation 11–8a,
+assumes that the oscillating object starts from rest
+at its maximum displacement 
+at
+Other equations for SHM
+are also possible, depending on the initial conditions (when you choose to be zero).
+t
+t = 0.
+(x = A)
+(v = 0)
+x = A cos vt,
+For example, if at 
+the object is at the equilibrium position and the oscilla-
+tions are begun by giving the object a push to the right 
+the equation would be
+This curve, shown in Fig. 11–9, has the same shape as the cosine curve shown in
+Fig. 11–8, except it is shifted to the right by a quarter cycle. Hence at 
+it
+starts out at
+instead of at
+Both sine and cosine curves are referred to as being sinusoidal (having the
+shape of a sine function). Thus simple harmonic motion† is said to be sinusoidal
+because the position varies as a sinusoidal function of time.
+Velocity and Acceleration as Functions of Time
+Figure 11–10a, like Fig. 11–8

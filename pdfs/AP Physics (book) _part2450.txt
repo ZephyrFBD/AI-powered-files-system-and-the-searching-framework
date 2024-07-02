@@ -1,0 +1,26 @@
+f light,
+and to exhibit all the characteristics of light such as reflection, refraction, and
+interference. The only difference was that they were not visible. Hertz’s experiment
+was a strong confirmation of Maxwell’s theory.
+The wavelengths of visible light were measured in the first decade of the nine-
+teenth century, long before anyone imagined that light was an electromagnetic
+wave. The wavelengths were found to lie between
+and 
+or 
+to 
+The frequencies of visible light can be
+found using Eq. 11–12, which we rewrite here:
+(22;4)
+where f and are the frequency and wavelength, respectively, of the wave. Here,
+c is the speed of light,
+it gets the special symbol c because of its
+universality for all EM waves in free space. Equation 22–4 tells us that the 
+frequencies of visible light are between 
+and
+(Recall
+that
+)
+But visible light is only one kind of EM wave. As we have seen, Hertz 
+produced EM waves of much lower frequency, about 
+These are now called
+radio waves, because frequencies i

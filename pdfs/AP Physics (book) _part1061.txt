@@ -1,0 +1,94 @@
+Av,
+[r = constant]
+A1 v1 = A2 v2 .
+r1 = r2 ,
+r
+r1 A1 v1 = r2 A2 v2 .
+¢m1
+¢t
+=
+¢m2
+¢t
+,
+A2
+A1
+r2 A2 v2 .
+A2
+¢m1 .
+¢V
+1 = A1 ¢l1
+¢m1
+¢t
+= r1 ¢V
+1
+¢t
+= r1 A1 ¢l1
+¢t
+= r1 A1 v1 ,
+A1
+¢m1¢t
+v1 = ¢l1¢t
+r1
+¢t.
+¢l1
+A1 ¢l1,
+¢t
+A1
+mass flow rate =
+¢m
+¢t
+.
+¢t:
+¢m
+†If there were no viscosity, the velocity would be the same across a cross section of the tube. Real
+fluids have viscosity, and this internal friction causes different layers of the fluid to flow at different
+speeds. In this case 
+and 
+represent the average speeds at each cross section.
+v2
+v1
+(b)
+(a)
+FIGURE 10–18 (a) Streamline,
+or laminar, flow; (b) turbulent
+flow. The photos show airflow
+around an airfoil or airplane
+wing (more in Section 10–10).
+Δl2
+Δl1
+A2
+A1
+  1
+  2
+v
+B
+v
+B
+FIGURE 10–19 Fluid flow through a
+pipe of varying diameter.
+274
+CHAPTER 10
+Fluids
+P H Y S I C S  A P P L I E D
+Blood flow
+P H Y S I C S  A P P L I E D
+Heating duct
+c
+Head
+Arms
+Lungs
+Aorta
+Heart
+Body organs
+Arteries
+Veins
+Trunk
+Kidneys
+Legs
+c
+c
+c
+c
+c
+v = valves
+c 

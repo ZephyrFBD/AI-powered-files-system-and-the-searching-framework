@@ -1,0 +1,20 @@
+the surroundings. Any spontaneous process is 
+irreversible. A process that occurs at a constant temperature is said to 
+be isothermal.
+ENTROPY AND THE SECOND LAW OF THERMODYNAMICS (SEC-
+TION 19.2) The spontaneous nature of processes is related to a ther-
+modynamic state function called entropy, denoted S. For a process that 
+occurs at constant temperature, the entropy change of the system is 
+given by the heat absorbed by the system along a reversible path, di-
+vided by the temperature: ∆S = qrev>T. For any process, the entropy 
+ 
+Key Equations 
+837
+change of the universe equals the entropy change of the system plus 
+the entropy change of the surroundings: ∆Suniv = ∆Ssys + ∆Ssurr. The 
+way entropy controls the spontaneity of processes is given by the sec-
+ond law of thermodynamics, which states that in an irreversible (spon-
+taneous) process ∆Suniv 7 0. Entropy values are usually expressed in 
+units of joules per kelvin, J>K.
+THE MOLECULAR INTERPRETATION OF ENTROPY AND THE 
+THIRD LAW O

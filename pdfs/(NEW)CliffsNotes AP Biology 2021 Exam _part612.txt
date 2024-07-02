@@ -1,0 +1,12 @@
+y causing the breakdown of the mRNA.
+3. Homeotic genes are master genes that specify the developmental patterns of groups of cells. For example, in fruit
+flies, these genes drive the formation of basic body structures such as body segments and antennae. Mutant homeotic
+genes in fruit flies are responsible for producing body parts in the wrong places, such as legs where antennae should
+be. Features of homeotic genes follow.
+A homeobox is a 180-nucleotide sequence found in all homeotic genes. It codes for a protein that is 60 amino acids
+long.
+Hox genes are genes that contain the homeobox and direct the development of a specific body part. The proteins for
+which Hox genes code act as transcription factors that control gene expression.
+Hox genes occur in clusters. The order of the Hox genes on the DNA dictates the spatial order of their expression.
+For example, the order of Hox genes in the fruit fly mirror the spatial order of the body segments for which the
+genes code. Thus, the order o

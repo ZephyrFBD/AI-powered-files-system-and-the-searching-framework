@@ -1,0 +1,58 @@
+ Fig. 22–4b. While the charges are flowing, a current exists whose
+direction is indicated by the black arrows. A magnetic field is therefore produced
+near the antenna. The magnetic field lines encircle the rod-like antenna and there-
+fore, in Fig. 22–4,
+points into the page 
+on the right and out of the page 
+on the left. Now we ask, how far out do these electric and magnetic fields extend?
+In the static case, the fields would extend outward indefinitely far. However, when
+the switch in Fig. 22–4 is closed, the fields quickly appear nearby, but it takes time 
+for them to reach distant points. Both electric and magnetic fields store energy,
+and this energy cannot be transferred to distant points at infinite speed.
+()
+(z)
+B
+B
+©B|| ¢l = m0 I + m0  0
+¢£E
+¢t
+.
+£E = EA
+I
+D =
+¢Q
+¢t
+=  0
+¢£E
+¢t
+,
+I
+D
+Q = CV = ( 0 Ad)(Ed) =  0 AE.
+V = Ed,
+C =  0 Ad,
+Q = CV,
+I
+D
+©B|| ¢l = m0AI + I
+DB.
+I
+D.
+©B|| ¢l = m0 I
+Ampère’s law
+(general form)
+Closed
+path
+Surface 2
+Surface 1
+I
+– –
+–
+– –
+–
+–
+–
+–
+–
+–
+–

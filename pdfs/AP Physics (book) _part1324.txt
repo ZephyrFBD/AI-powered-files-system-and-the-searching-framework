@@ -1,0 +1,60 @@
+e
+dsource
+l¿
+vsource
+f¿ =
+400 Hz
+1 - 30 ms
+343 ms
+= 438 Hz.
+30 ms,
+f¿ 7 f.
+f¿
+csource moving toward
+stationary observer
+d
+f¿ =
+f
+a 1 - vsource
+vsnd   b
+.
+vsndl = f,
+f¿ = vsnd
+l¿
+=
+vsnd
+l a1 - vsource
+vsnd   b
+.
+f¿
+vsource.
+¢l = l¿ - l =
+–l vsource
+vsnd   
+.
+¢l,
+l
+= l a1 - vsource
+vsnd     
+b.
+= l - vsource
+l   
+vsnd
+= l - vsource T
+l¿ = d - dsource
+l¿
+dsource = vsource T.
+vsnd
+d = vsnd T = l,
+SECTION 12–7
+Doppler Effect
+345
+The Doppler effect also occurs when the source is at rest and the observer is
+in motion. If the observer is traveling toward the source, the pitch heard is higher
+than that of the emitted source frequency. If the observer is traveling away from
+the source, the pitch heard is lower. Quantitatively the change in frequency is 
+different than for the case of a moving source. With a fixed source and a moving
+observer, the distance between wave crests, the wavelength 
+is not changed.
+But the velocity of the crests with respect to the observer is changed. If the
+observ

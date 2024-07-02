@@ -1,0 +1,43 @@
+ the initial rate of disappear-
+ance of S2O8
+2 -  varies with reactant concentrations in the 
+following manner:
+Experiment
+3S2O8
+2−4 1M 2
+3I−4 1M 2
+Initial Rate 1M,s2
+1
+0.018
+0.036
+2.6 * 10-6
+2
+0.027
+0.036
+3.9 * 10-6
+3
+0.036
+0.054
+7.8 * 10-6
+4
+0.050
+0.072
+1.4 * 10-5
+ 
+ (a) Determine the rate law for the reaction and state the 
+units of the rate constant. (b) What is the average value 
+of the rate constant for the disappearance of S2O8
+2 -  
+based on the four sets of data? (c) How is the rate of dis-
+appearance of S2O8
+2 -  related to the rate of disappearance 
+of I -? (d) What is the rate of disappearance of I -  when 
+3S2O8
+2-4 = 0.025 M and 3I -4 = 0.050 M ?
+Change of Concentration with Time (Section 14.4)
+ 14.39 (a) For the generic reaction A S B what quantity, when 
+graphed versus time, will yield a straight line for a 
+first-order reaction? (b) How can you calculate the rate 
+constant for a first-order reaction from the graph you 
+made in part (a)?
+ 14.40 (a) For a generic second-

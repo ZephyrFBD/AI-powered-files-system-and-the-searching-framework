@@ -1,0 +1,22 @@
+. 
+Go Figure 
+If the amount of H2 is doubled, how many moles of H2O would 
+have formed?
+ 
+SECTION 3.7   
+Limiting Reactants 
+107
+The second line in the table (Change) summarizes the amounts of reactants con-
+sumed (where this consumption is indicated by the minus signs) and the amount of the 
+product formed (indicated by the plus sign). These quantities are restricted by the quan-
+tity of the limiting reactant and depend on the coefficients in the balanced equation. 
+The mole ratio H2:O2:H2O = 10:5:10 is a multiple of the ratio of the coefficients in the 
+balanced equation, 2:1:2. The after quantities, which depend on the before quantities 
+and their changes, are found by adding the before quantity and change quantity for each 
+column. The amount of the limiting reactant 1H22 must be zero at the end of the reac-
+tion. What remains is 2 mol O2 (excess reactant) and 10 mol H2O (product).
+ 
+ 
+Sample Exercise 3.18
+Calculating the Amount of Product Formed from a Limiting Reactant
+Sample Exe

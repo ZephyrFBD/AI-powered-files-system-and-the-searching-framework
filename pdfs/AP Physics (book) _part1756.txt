@@ -1,0 +1,58 @@
+ 103 NC.
+q = 20e.
+qE = 2mg
+F = qE,
+q = 20e
+9.0 * 10–16 kg
+EXAMPLE 16;6
+454
+CHAPTER 16
+– q
++ q
+(a)
+(b)
+(c)
+F
+B
+F
+B
+E
+B
+E
+B
+E
+B
+Surface of 
+drum
+Toner particles
+held to drum surface
+by electric ﬁeld E
+B
+E
+B
+30 cm
+Q = −3.0 × 10–6 C
+(a)
+(b)
+E = 3.0 × 105 N/C
+Q = +3.0 × 10–6 C
+E = 3.0 × 105 N/C
+P
+P
+FIGURE 16–26 Example 16–7.
+Electric field at point P (a) due to a
+negative charge Q, and (b) due to a
+positive charge Q, each 30 cm from P
+.
+FIGURE 16–25 Example 16–6.
+FIGURE 16–24 (a) Electric field at
+a given point in space. (b) Force on a
+positive charge at that point. (c) Force
+on a negative charge at that point.
+Electric field of a single point charge. Calculate the 
+magnitude and direction of the electric field at a point P which is 30 cm to the
+right of a point charge
+APPROACH The magnitude of the electric field due to a single point charge is
+given by Eq. 16–4. The direction is found using the sign of the charge Q.
+SOLUTION The magnitude of the electric field is:
+The direction of the ele

@@ -1,0 +1,33 @@
+is an ellipse with the
+Sun at one focus (Fig. 5–28).
+Kepler’s second law: Each planet moves so that an imaginary line drawn from the
+Sun to the planet sweeps out equal areas in equal periods of time (Fig. 5–29).
+Kepler’s third law: The ratio of the squares of the periods T of any two planets
+revolving around the Sun is equal to the ratio of the cubes of their mean dis-
+tances from the Sun. [The mean distance equals the semimajor axis s (
+the distance from the planet’s near point N and far point M from the Sun,
+Fig. 5–28).] That is, if 
+and 
+represent the periods (the time needed for 
+one revolution about the Sun) for any two planets, and 
+and 
+represent their
+mean distances from the Sun, then
+We can rewrite Kepler’s third law as
+meaning that 
+should be the same for each planet. Present-day data are
+given in Table 5–2; see the last column.
+In Examples and Problems we usually will assume the orbits are circles,
+although it is not quite true in general.
+s3T2
+s1
+3
+T1
+2
+=
+s2
+3
+T2
+2 ,
+¢ T
+1

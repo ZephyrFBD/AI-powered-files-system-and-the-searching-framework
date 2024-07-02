@@ -1,0 +1,26 @@
+aram.mc = 0.9; 
+net.trainParam.epochs = 300; 
+net.trainParam.goal = 1e-5; 
+p = [-1 -1 2 2;0 5 0 5]; 
+t = [-1 -1 1 1]; 
+net=train(net,p,t); 
+TRAINGDM, Epoch 0/300, MSE 3.6913/1e-05, Gradient 4.54729/ 
+1e-10 
+TRAINGDM, Epoch 50/300, MSE 0.00532188/1e-05, Gradient 
+0.213222/1e-10 
+TRAINGDM, Epoch 100/300, MSE 6.34868e-05/1e-05, Gradient 
+0.0409749/1e-10 
+TRAINGDM, Epoch 114/300, MSE 9.06235e-06/1e-05, Gradient 
+0.00908756/1e-10 
+TRAINGDM, Performance goal met. 
+a = sim(net,p) 
+a = 
+-1.0026 -1.0044 0.9969 0.9992 
+  注意，既然我们在训练前重新初始化了权重和偏置，我们就得到了一个和使用traingd
+不同的均方误差。
+如果我们想用traingdm重新初始化并且重新训练,我们仍将得到不同的军方
+误差。
+初始化权重和偏置的随机选择将影响算法的性能。
+如果我们希望比较不同算法的性能，
+我们应该测试每一个使用着的不同的权重和偏值的设置。 
+  用nnd12mo来演示批处理最速下降法的性能。

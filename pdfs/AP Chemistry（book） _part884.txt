@@ -1,0 +1,47 @@
+elength and Frequency
+Two electromagnetic waves are represented in the margin. (a) Which 
+wave has the higher frequency? (b) If one wave represents visible 
+light and the other represents infrared radiation, which wave is 
+which?
+ 
+▶Practice Exercise 2
+Which type of visible light has a longer wavelelength, red 
+or blue light?
+SOLUTION
+(a) Wave 1 has a longer wavelength (greater distance between 
+peaks). The longer the wavelength, the lower the frequency 
+1n = c>l2. Thus, Wave 1 has the lower  
+frequency, and Wave 2 
+has the higher frequency.
+(b) The electromagnetic spectrum (Figure 6.4) indicates that 
+infrared radiation has a longer wavelength than visible light. 
+Thus, Wave 1 is infrared radiation.
+TABLE 6.1 Common Wavelength Units for Electromagnetic Radiation
+Unit
+Symbol
+Length (m)
+Type of Radiation
+Angstrom
+Å
+10 - 10
+X ray
+Nanometer
+nm
+10 - 9
+Ultraviolet, visible
+Micrometer
+mm
+10 - 6
+Infrared
+Millimeter
+mm
+10 - 3
+Microwave
+Centimeter
+cm
+10 - 2
+Microwave
+Meter
+m
+1
+Television, radio

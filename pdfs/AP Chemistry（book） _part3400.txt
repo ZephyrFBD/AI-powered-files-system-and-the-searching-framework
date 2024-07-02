@@ -1,0 +1,36 @@
+9.919007 amu 1or 59.919007 g>mol2
+∆m = -0.003030 g
+59.930788 amu - 128215.4858 * 10-4 amu2
+ 
+= 59.915428 amu 1or 59.915428 g>mol2
+ 
+∆E = c2 ∆m
+ = 12.9979 * 108 m/s221-0.003030 g2a
+1 kg
+1000 gb
+ = -2.723 * 1011 
+kg@m2
+s2
+= -2.723 * 1011  J
+SOLUTION
+Sample Exercise 21.8 
+Calculating Mass Change in a Nuclear Reaction
+Likewise, for 60
+28Ni, the mass of the nucleus is:
+The mass change in the nuclear reaction is 
+the total mass of the products minus the mass 
+of the reactant:
+ 
+∆m = mass of electron + mass 60
+28Ni nucleus - mass of 60
+27Co nucleus
+ = 0.00054858 amu + 59.915428 amu - 59.919007 amu
+ = -0.003030 amu
+Thus, when a mole of cobalt-60 decays,
+Because the mass decreases 1∆m 6 02, energy 
+is released 1∆E 6 02. The quantity of energy 
+released per mole of cobalt-60 is calculated  
+using Equation 21.22:
+Nuclear Binding Energies
+Scientists discovered in the 1930s that the masses of nuclei are always less than the 
+masses of the individual nucleons of which they are composed. For example,

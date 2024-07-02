@@ -1,0 +1,43 @@
+ier.
+B0 = E0
+c
+= 1.01 * 103 Vm
+3.00 * 108 ms
+= 3.37 * 10–6 T.
+B = Ec,
+= 1.01 * 103 Vm.
+E0 = C
+2I
+ 0 c = C
+2A1350 Jsm2B
+A8.85 * 10–12 C2Nm2BA3.00 * 108 msB
+I = 1350 Jsm2.
+I
+E0
+AI = 1
+2  0 cE0
+2B
+1350 Jsm2.
+1350 Wm2 =
+EXAMPLE 22;4
+C A U T I O N
+E and B have very different 
+values (due to how units are defined),
+but E and B contribute equal energy
+SECTION 22–6
+635
+22–6 Momentum Transfer and
+Radiation Pressure
+If electromagnetic waves carry energy, then we would expect them to also carry
+linear momentum. When an electromagnetic wave encounters the surface of an
+object, a force will be exerted on the surface as a result of the momentum trans-
+fer 
+just as when a moving object strikes a surface. The force per
+unit area exerted by the waves is called radiation pressure, and its existence was
+predicted by Maxwell. He showed that if a beam of EM radiation (light, for
+example) is completely absorbed by an object, then the momentum transferred is
+c
+d
+(22;9a)
+where 
+is the energy a

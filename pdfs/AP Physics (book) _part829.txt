@@ -1,0 +1,20 @@
+The sum 
+represents the sum of the masses of each particle in the
+object multiplied by the square of the distance of that particle from the axis 
+of rotation. If we assign each particle a number 
+then 
+This sum is called the moment of inertia (or rotational
+inertia) I of the object:
+(8;13)
+Combining Eqs. 8–12 and 8–13, we can write
+(8;14)
+This is the rotational equivalent of Newton’s second law. It is valid for the rota-
+tion of a rigid object about a fixed axis. [It is also valid when the object is rotating
+while translating with acceleration, as long as I and 
+are calculated about the
+center of mass of the object, and the rotation axis through the CM doesn’t change
+direction. A ball rolling down a ramp is an example.]
+We see that the moment of inertia, I, which is a measure of the rotational
+inertia of an object, plays the same role for rotational motion that mass does for
+translational motion. As can be seen from Eq. 8–13, the rotational inertia of a
+rigid object depends not only on

@@ -1,0 +1,17 @@
+nd 16-bit resolution, meaning each sampled voltage can have
+different voltage levels between, say, 0 and 5 volts. See Fig. 17–25 for details.
+Audio recording today typically uses 96 kHz and 24-bit (
+voltage
+levels) to give a better approximation of the original analog signal (on super-CDs
+or solid-state memory), but must be transferred down to 44.1 kHz and 16-bit to
+produce ordinary CDs. (DVDs can use 192 kHz sampling rate for sound.) But
+iPods and MP3 players have lower sampling rates and much less detail, which many
+listeners can notice.
+224 L 17 * 106
+28 * 28 = 216 L 65,000
+FIGURE 17–25  The sine wave shown could represent the analog electric 
+signal from a microphone due to a pure 2000-Hz tone. (See Chapters 11 
+and 12.) The analog-to-digital electronics samples the signal—that is,
+measures and records the signal’s voltage at intervals, many times per second.
+Each dot on the curve represents the voltage measured (sampled) at that 
+point. The sampling rate in this diagram is 44,100 

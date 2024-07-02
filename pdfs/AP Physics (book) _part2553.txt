@@ -1,0 +1,31 @@
+ds away from
+the normal, as for rays I and J in Fig. 23–26. At a particular incident angle, the
+angle of refraction will be 90°, and the refracted ray would skim the surface (ray K).
+C A U T I O N
+Total internal reflection 
+(occurs only if refractive
+index is smaller beyond boundary)
+(b)
+(a)
+49° 49°
+FIGURE 23–27 (a) Light rays entering
+submerged person’s eye, and (b) view
+looking upward from beneath the 
+water (the surface of the water must 
+be very smooth). Example 23–10.
+The incident angle at which this occurs is called the critical angle,
+From
+Snell’s law,
+is given by
+(23;6)
+For any incident angle less than 
+there will be a refracted ray, although part of
+the light will also be reflected at the boundary. However, for incident angles 
+greater than 
+Snell’s law would tell us that 
+(
+) would be
+greater than 1.00 when 
+Yet the sine of an angle can never be greater
+than 1.00. In this case there is no refracted ray at all, and all of the light is
+reflected, as for ray L in Fig. 23–26. Thi

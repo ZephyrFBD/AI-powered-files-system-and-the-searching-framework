@@ -1,0 +1,43 @@
+sing Newton’s second law,
+Thus the observer
+in the noninertial frame of Fig. C–1a uses Newton’s second law for the ball’s 
+outward motion by assuming that a force equal to 
+acts on it. Such 
+pseudoforces are also called inertial forces since they arise only because the 
+reference frame is not an inertial one.
+mv2r
+©F = ma.
+mv2r
+mv2r
+©F = ma
+Rotating Frames of Reference;
+Inertial Forces; Coriolis Effect
+People on ground
+appear to move
+this way
+Path of ball
+with respect
+to rotating
+platform (i.e.,
+as seen by
+observer on
+platform)
+(a) Rotating reference frame
+Path of ball
+with respect
+to ground
+(i.e., as seen 
+by observers
+on the ground)
+(b) Earth reference frame
+Platform rotating
+counterclockwise
+FIGURE C–1 Path of a ball released
+on a rotating merry-go-round 
+(a) in the reference frame of the 
+merry-go-round, and (b) in a 
+reference frame fixed on the ground.
+APPENDIX C
+Rotating Frames of Reference; Inertial Forces; Coriolis Effect
+A-17
+In Section 5–3 we discussed the forces on a pers

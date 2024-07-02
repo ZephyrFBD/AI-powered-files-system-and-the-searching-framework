@@ -1,0 +1,58 @@
+
+q = 0
+e–
+ 6
+14C S
+ 7
+14N + e– + neutrino,
+ 6
+14C,
+b–
+b
+B
+AmO2 .
+ 95
+241Am,
+ 92
+232U S
+ 90
+228Th + 2p + 2n.
+ 92
+232U
+228.028741 u + 2(1.007825 u) + 2(1.008665 u) = 232
+ 90
+228Th
+2p + 2n
+92
+232U
+a
+a
+a
+A
+866
+CHAPTER 30
+Nuclear Physics and Radioactivity
+P H Y S I C S  A P P L I E D
+Smoke detector
+C A U T I O N
+comes from nucleus
+(it is not an orbital electron)
+b-decay e–
+Energy release in 
+decay. How much energy is released
+when 
+decays to 
+by 
+emission?
+APPROACH We find the mass difference before and after decay,
+The energy
+released is 
+The masses given in Appendix B are those of the neutral
+atom, and we have to keep track of the electrons involved. Assume the parent
+nucleus has six orbiting electrons so it is neutral; its mass is 14.003242 u. The
+daughter in this decay,
+is not neutral because it has the same six orbital elec-
+trons circling it but the nucleus has a charge of 
+However, the mass of this
+daughter with its six electrons, plus the mass of the emitted electron (which makes
+a

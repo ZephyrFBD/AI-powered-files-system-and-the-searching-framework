@@ -1,0 +1,23 @@
+d
+*65. (II) An ac voltage source is connected in series with a
+capacitor and a
+resistor. Using a digital ac
+voltmeter, the amplitude of the voltage source is measured
+to be 4.0 V rms, while the voltages across the resistor and
+across the capacitor are found to be 3.0 V rms and 2.7 V rms,
+respectively. Determine the frequency of the ac voltage
+source. Why is the voltage measured across the voltage source
+not equal to the sum of the voltages measured across the
+resistor and across the capacitor?
+*66. (III) (a) What is the rms current in an LR circuit when a
+60.0-Hz 120-V rms ac voltage is applied, where 
+and 
+(b) What is the phase angle between
+voltage and current? (c) How much power is dissipated?
+(d) What are the rms voltage readings across R and L?
+*67. (III) (a) What is the rms current in an RC circuit if
+and the rms applied voltage is
+120 V at 60.0 Hz? (b) What is the phase angle between
+voltage and current? (c) What are the voltmeter readings
+across R and C?
+*68. (III) Suppose circ

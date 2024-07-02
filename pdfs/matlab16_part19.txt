@@ -1,0 +1,33 @@
+ 2.76799/ 
+1e-10 
+TRAINGD, Epoch 50/300, MSE 0.00236382/1e-05, Gradient 
+0.0495292/1e-10 
+TRAINGD, Epoch 100/300, MSE 0.000435947/1e-05, Gradient 
+0.0161202/1e-10 
+TRAINGD, Epoch 150/300, MSE 8.68462e-05/1e-05, Gradient 
+0.00769588/1e-10 
+TRAINGD, Epoch 200/300, MSE 1.45042e-05/1e-05, Gradient 
+0.00325667/1e-10 
+TRAINGD, Epoch 211/300, MSE 9.64816e-06/1e-05, Gradient 
+0.00266775/1e-10 
+TRAINGD, Performance goal met. 
+a = sim(net,p) 
+a = 
+-1.0010 -0.9989 1.0018 0.9985 
+  用nnd12sd1 来演示批处理最速下降法的性能。 
+  带动量的批处理梯度下降法（TRAINGDM） 
+  带动量的批处理梯度下降法用训练函数traingdm触发。这种算法除了两个例外和
+learmgdm是一致的。第一．梯度是每一个训练例子中计算的梯度的总和，并且权重和偏置
+仅仅在训练例子全部提交以后才更新。
+第二．
+如果在给定重复次数中新的性能函数超过了以
+前重复次数中的性能函数的预定义速率max_perf_inc(典型的是1.04)倍，那么新的权重和偏
+置就被丢弃，并且动量系数mc就被设为0。 
+  在下面的代码重，我们重建了以前的网络并用带动量的梯度下降算法重新训练。
+Traingdm的训练参数和traingd的一样，动量系数mc和性能最大增量max_perf_inc也是如此。
+（无论什么时候，只要net.trainFcn倍设为traingdm,训练参数就被设为缺省值。
+） 
+net=newff([-1 2; 0 5],[3,1],{'tansig','purelin'},'traingdm'); 
+net.trainParam.show = 50; 
+net.trainParam.lr = 0.05; 
+net.trainP

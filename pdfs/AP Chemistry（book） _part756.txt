@@ -1,0 +1,17 @@
+ate 
+function. We can therefore calculate ∆H for any process as long as we find 
+a route for which ∆H is known for each step. This means that a relatively 
+small number of experimental measurements can be used to calculate ∆H 
+for a vast number of reactions.
+Hess’s law provides a useful means of calculating energy changes that are 
+difficult to measure directly. For instance, it is impossible to measure directly 
+the enthalpy for the combustion of carbon to form carbon monoxide. Combus-
+tion of 1 mol of carbon with 0.5 mol of O2 produces both CO and CO2, leaving 
+some carbon unreacted. However, solid carbon and carbon monoxide can both 
+be completely burned in O2 to produce CO2. We can therefore use the enthalpy 
+changes of these reactions to calculate the heat of combustion of carbon as 
+illustrated in Sample Exercise 5.8.
+ 
+Sample Exercise 5.8 
+Using Hess’s Law to Calculate 횫H
+The enthalpy of reaction for the combustion of C to CO2 is -393.5 kJ>mol C, and the enthalpy for the combust

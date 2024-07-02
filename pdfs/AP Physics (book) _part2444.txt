@@ -1,0 +1,18 @@
+longer depending on the antenna charges.
+The fields not far from the antenna, referred to as the near field, become
+quite complicated, but we are not so interested in them. We are mainly interested
+in the fields far from the antenna (they are generally what we detect), which we
+refer to as the radiation field. The electric field lines form loops, as shown in
+Fig.22–6a, and continue moving outward. The magnetic field lines also form closed
+loops, but are not shown because they are perpendicular to the page. Although the
+lines are shown only on the right of the source, fields also travel in other directions.
+The field strengths are greatest in directions perpendicular to the oscillating
+charges; and they drop to zero along the direction of oscillation—above and below
+the antenna in Fig. 22–6a.
+()
+(z)
+–
+±
+†We are considering waves traveling through empty space. There are no charges for lines of 
+to start
+or stop on, so they form closed loops. Magnetic field lines always form closed loops

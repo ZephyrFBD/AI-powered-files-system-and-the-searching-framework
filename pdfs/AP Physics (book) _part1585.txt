@@ -1,0 +1,20 @@
+ heat can be conducted from the
+interior of the body to the surface. As a model, assume that
+the thickness of tissue is 4.0 cm, that the skin is at 34°C 
+and the interior at 37°C, and that the surface area is 
+Compare this to the measured value of about 230 W that
+must be dissipated by a person working lightly. This clearly
+shows the necessity of convective cooling by the blood.
+53. A bicyclist consumes 9.0 L of water over the span of 3.5 hours
+during a race. Making the approximation that 80% of the
+cyclist’s energy goes into evaporating this water (at 20°C)
+as sweat, how much energy in kcal did the rider use during
+the ride? [Hint: See page 399.]
+54. If coal gives off 
+when burned, how much coal is
+needed to heat a house requiring 
+for the whole
+winter? Assume that 30% of the heat is lost up the chimney.
+55. A 15-g lead bullet is tested by firing it into a fixed block of
+wood with a mass of 35 kg. The block and imbedded bullet
+together absorb all the heat generated. After thermal equi

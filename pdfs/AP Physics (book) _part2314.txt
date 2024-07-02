@@ -1,0 +1,61 @@
+top and
+bottom sections of the square coil of Fig. 21–9 are in opposite directions and
+cancel each other. The magnetic force 
+exerted on the left vertical section of
+the square coil acts to the left as shown because the current is up (clockwise).
+The right side of the loop is in the region where 
+Hence the external
+force to the right,
+needed to just overcome the magnetic force to the left 
+(on 
+), is
+which is the same answer, confirming our use of energy conservation above.
+F
+ext = NIlB = (100)(0.0150 A)(0.0500 m)(0.600 T) = 0.0450 N,
+N = 100 loops
+F
+B
+ext,
+B
+B = 0.
+F
+B
+M
+B
+B, F = IlB.
+fext = W
+d
+=
+2.25 * 10–3 J
+5.00 * 10–2 m = 0.0450 N.
+d = 5.00 cm,
+W = fext d
+E = Pt = I2Rt = A1.50 * 10–2 AB2(100 )(0.100 s) = 2.25 * 10–3 J.
+A= I2RB
+B
+B
+I =
+e
+R
+= 1.50 V
+100 
+= 1.50 * 10–2 A = 15.0 mA.
+100-
+e =
+–N ¢£B
+¢t
+=
+–(100)A–1.50 * 10–2 WbsB
+= 1.50 V.
+¢£B
+¢t
+=
+0 - A1.50 * 10–3 WbB
+0.100 s
+=
+–1.50 * 10–2 Wbs.
+1.50 * 10–3 Wb.
+A2.50 * 10–3 m2B =
+£B = BA = (0.600 T)
+2.50 * 10–3 m2.
+A = l2 = A5.00

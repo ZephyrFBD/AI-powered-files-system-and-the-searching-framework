@@ -1,0 +1,42 @@
+.8 ms down,  a = 0.
+v = 9.8 ms up,  a = 0.
+a = 9.8 ms2 down.
+v = 0,
+a = 9.8 ms2 up.
+v = 0,
+a = 0.
+v = 0,
+–2.0 ms2.
+10.0 ms
+±x
+t = 0
+±x
+–x
+±x
+–x
+20 ms.
+–x
+7. A ball is dropped from the top of a tall building. At the
+same instant, a second ball is thrown upward from the
+ground level. When the two balls pass one another, one on
+the way up, the other on the way down, compare the magni-
+tudes of their acceleration:
+(a) The acceleration of the dropped ball is greater.
+(b) The acceleration of the ball thrown upward is greater.
+(c) The acceleration of both balls is the same.
+(d) The acceleration changes during the motion, so you
+cannot predict the exact value when the two balls
+pass each other.
+(e) The accelerations are in opposite directions.
+8. A ball is thrown downward at a speed of 
+Choosing
+the
+y axis pointing up and neglecting air resistance, which
+equation(s) could be used to solve for other variables? The
+acceleration due to gravity is
+downward.
+(a)
+(b)
+(c)
+(d)
+(e) All of the ab

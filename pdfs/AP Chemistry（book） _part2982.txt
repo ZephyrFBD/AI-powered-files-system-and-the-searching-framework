@@ -1,0 +1,20 @@
+ repair their 
+environment in response, for example, to an oil spill. The 
+efficiency of bacteria for “eating” hydrocarbons depends 
+on the amount of oxygen in the system, pH, temperature, 
+and many other factors. In a certain oil spill, hydrocarbons 
+from the oil disappeared with a first-order rate constant of 
+2 * 10-6 s-1. At that rate, how many days would it take for 
+the hydrocarbons to decrease to 10% of their initial value?
+ 18.84  The standard enthalpies of formation of ClO and ClO2 are 
+101 and 102 kJ>mol, respectively. Using these data and the 
+thermodynamic data in Appendix C, calculate the overall 
+enthalpy change for each step in the following catalytic 
+cycle:
+ClO1g2 + O31g2 ¡ ClO21g2 + O21g2
+ClO21g2 + O1g2 ¡ ClO1g2 + O21g2
+What is the enthalpy change for the overall reaction that 
+results from these two steps?
+ 18.85  The main reason that distillation is a costly method for 
+purifying water is the high energy required to heat and 
+vaporize water. (a) Using the density, s

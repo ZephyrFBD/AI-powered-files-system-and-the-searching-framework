@@ -1,0 +1,15 @@
+use ∆G as a criterion for spontaneity than to use ∆Suniv 
+because ∆G relates to the system alone and avoids the complication of having to exam-
+ine the surroundings.
+An analogy is often drawn between the free-energy change during a spontaneous 
+reaction and the potential-energy change when a boulder rolls down a hill (Figure 19.14). 
+Potential energy in a gravitational field “drives” the boulder until it reaches a state of 
+minimum potential energy in the valley. Similarly, the free energy of a chemical system 
+decreases until it reaches a minimum value. When this minimum is reached, a state of 
+equilibrium exists. In any spontaneous process carried out at constant temperature and pres-
+sure, the free energy always decreases.
+To illustrate these ideas, let’s return to the Haber process for the synthesis of ammo-
+nia from nitrogen and hydrogen, which we discussed extensively in Chapter 15:
+ 
+N21g2 + 3 H21g2 ∆2 NH31g2 
+Imagine that we have a reaction vessel that allows us to maintain a c

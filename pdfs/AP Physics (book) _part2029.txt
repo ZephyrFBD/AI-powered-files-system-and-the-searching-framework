@@ -1,0 +1,33 @@
+ a 3.0-V port-
+able CD player that draws a maximum of 240 mA of current?
+28. (I) The heating element of an electric oven is designed to
+produce 3.3 kW of heat when connected to a 240-V source.
+What must be the resistance of the element?
+29. (I) What is the maximum voltage that can be applied across
+a 
+resistor rated at
+watt?
+30. (I) (a) Determine the resistance of, and current through,
+a 75-W lightbulb connected to its proper source voltage of
+110 V. (b) Repeat for a 250-W bulb.
+1
+4
+3.9-k
+3.20-k
+a = 0.0045 (C°)–1.
+140 
+12 
+19. (II) A rectangular solid made of carbon has sides of lengths
+1.0 cm, 2.0 cm, and 4.0 cm, lying
+along the x, y, and z axes,
+respectively (Fig. 18–35).
+Determine the resistance for
+current that passes through
+the solid in (a) the x direc-
+tion, (b) the y direction,
+and (c) the z direction.
+Assume the resistivity is
+r = 3.0 * 10–5 m.
+41. (II) How many 75-W lightbulbs, connected to 120 V as in
+Fig. 18–20, can be used without blowing a 15-A fuse?
+42. (II) An ext

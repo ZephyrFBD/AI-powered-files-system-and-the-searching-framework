@@ -1,0 +1,23 @@
+are
+circles around their respective wires.
+I2
+I1
+FIGURE 20–23 Example 20–9.
+FIGURE 20–22 Same as Fig. 20–8c,
+magnetic field lines around a long
+straight wire carrying an electric
+current I.
+Calculation of 
+near a wire. An electric wire in the wall
+of a building carries a dc current of 25 A vertically upward. What is the magnetic
+field due to this current at a point P, 10 cm due north of the wire (Fig. 20–23)?
+APPROACH We assume the wire is much longer than the 10-cm distance to the
+point P so we can apply Eq. 20–6.
+SOLUTION According to Eq. 20–6:
+or 0.50 G. By right-hand-rule-1 (page 568), the field points to the west (into 
+the page in Fig. 20–23) at point P.
+NOTE The magnetic field at point P produced by the wire has about the same
+magnitude as Earth’s, so a compass at P would not point north but to the northwest.
+NOTE Most electrical wiring in buildings consists of cables with two wires in each
+cable. Since the two wires carry current in opposite directions, their magnetic
+fields ca

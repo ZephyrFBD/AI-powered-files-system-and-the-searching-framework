@@ -1,0 +1,24 @@
+ ideal behavior.
+ 10.90  The planet Jupiter has a surface temperature of 140 K and a 
+mass 318 times that of Earth. Mercury (the planet) has a sur-
+face temperature between 600 K and 700 K and a mass 0.05 
+times that of Earth. On which planet is the atmosphere 
+more likely to obey the ideal-gas law? Explain.
+ 
+10.91 Which statement concerning the van der Waals constants a 
+and b is true?
+(a) The magnitude of a relates to molecular volume, 
+whereas b relates to attractions between molecules.
+(b) The magnitude of a relates to attractions between 
+molecules, whereas b relates to molecular volume.
+(c) The magnitudes of a and b depend on pressure.
+(d) The magnitudes of a and b depend on temperature.
+ 
+10.92 Based on their respective van der Waals constants 
+( 
+Table 10.3), is Ar or CO2 expected to behave more nearly 
+like an ideal gas at high pressures?
+ 
+10.93 In Sample Exercise 10.16, we found that one mole of Cl2 
+confined to 22.41 L at 0 °C deviated slightly from ideal 
+behavior. Calcul

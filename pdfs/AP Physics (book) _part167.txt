@@ -1,0 +1,18 @@
+fety and traffic design.
+The problem is best dealt with in two parts, two separate time intervals. (1) The
+first time interval begins when the driver decides to hit the brakes, and ends 
+when the foot touches the brake pedal. This is the “reaction time” during which
+the speed is constant, so 
+(2) The second time interval is the actual 
+braking period when the vehicle slows down
+and comes to a stop. The
+stopping distance depends on the reaction time of the driver, the initial speed of
+the car (the final speed is zero), and the deceleration of the car. For a dry road 
+and good tires, good brakes can decelerate a car at a rate of about 
+to
+Calculate the total stopping distance for an initial velocity of 
+and assume the acceleration of the car is
+(the minus sign appears because the velocity is taken to be in the positive 
+x direction and its magnitude is decreasing). Reaction time for normal drivers
+varies from perhaps 0.3 s to about 1.0 s; take it to be 0.50 s.
+APPROACH During the “reacti

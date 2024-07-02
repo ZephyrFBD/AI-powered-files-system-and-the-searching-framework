@@ -1,0 +1,38 @@
+16
+6C
+11
+6C,  12
+6C,  13
+6C,  14
+6C,  15
+6C,
+15N;
+15
+7N
+Z = 7.
+15
+7N
+A
+ZX,
+N = A - Z.
+A = 15.
+Z = 7
+mn = 1.67493 * 10–27 kg.
+(q = 0),
+mp = 1.67262 * 10–27 kg.
+= ±e = ±1.60 * 10–19 C,
+858
+CHAPTER 30
+Nuclear Physics and Radioactivity
+†The mass value for each element as given in the Periodic Table (inside back cover) is an average
+weighted according to the natural abundances of its isotopes.
+Many isotopes that do not occur naturally can be produced in the laboratory
+by means of nuclear reactions (more on this later). Indeed, all elements beyond
+uranium 
+do not occur naturally on Earth and are only produced artifi-
+cially (in the laboratory), as are many nuclides with
+The approximate size of nuclei was determined originally by Rutherford from
+the scattering of charged particles by thin metal foils. We cannot speak about a
+definite size for nuclei because of the wave–particle duality (Section 27–7): their
+spatial extent must remain somewhat fuzzy. Nonetheless a rough “size” can be
+measured 

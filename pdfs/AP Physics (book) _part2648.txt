@@ -1,0 +1,23 @@
+and red light.
+APPROACH We find the angles for violet and red light from the distances given
+and the diagram of Fig. 24–10. Then we use Eq. 24–2a to obtain the wavelengths.
+Because 3.5 mm is much less than 2.5 m, we can use the small-angle approximation.
+SOLUTION We use Eq.24–2a 
+with
+,
+and
+Also
+(Fig. 24–10), so for violet light,
+and
+or 400 nm. For red light,
+so
+EXERCISE B For the setup in Example 24–3, how far from the central white fringe is
+the first-order fringe for green light
+Coherence
+The two slits in Figs. 24–6 and 24–7 act as if they were two sources of radiation.
+They are called coherent sources because the waves leaving them have the same
+wavelength and frequency, and bear the same phase relationship to each other at
+all times. This happens because the waves come from a single source to the left 
+of the two slits. An interference pattern is observed only when the sources are
+coherent. If two tiny lightbulbs replaced the two slits, an interference pattern
+would not be seen. T

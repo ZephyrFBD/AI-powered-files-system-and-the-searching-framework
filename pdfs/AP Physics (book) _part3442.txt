@@ -1,0 +1,20 @@
+ke that of an atom, is not a clearly defined quantity since
+the edges are not distinct like those of a tennis ball or baseball, we can nonethe-
+less define a cross section for nuclei undergoing collisions by using an analogy.
+Suppose that projectile particles strike a stationary target of total area A and
+thickness 
+as shown in Fig. 31–2. Assume also that the target is made up of
+identical objects (such as marbles or nuclei), each of which has a cross-sectional
+area 
+and we assume the incoming projectiles are small by comparison. We
+assume that the target objects are fairly far apart and the thickness is so small
+that we don’t have to worry about overlapping. This is often a reasonable
+assumption because nuclei have diameters on the order of 
+but are at least
+(atomic size) apart even in solids. If there are n nuclei per unit volume,
+the total cross-sectional area of all these tiny targets is
+since
+is the total number of targets and 
+is the cross-
+sectional area of each. If 
+most of the

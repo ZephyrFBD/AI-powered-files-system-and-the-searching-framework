@@ -1,0 +1,33 @@
+int 
+That is, we let the interval 
+which we now call 
+to become smaller and
+smaller. The slope of the line connecting the two points becomes closer and
+closer to the slope of a line tangent† to the curve at point 
+The average
+velocity (equal to the slope of the chord) thus approaches the slope of 
+the tangent at point 
+The definition of the instantaneous velocity (Eq. 2–3) is
+the limiting value of the average velocity as 
+approaches zero. Thus the
+instantaneous velocity equals the slope of the tangent to the curve of x vs.
+at any
+chosen point (which we can simply call “the slope of the curve” at that point).
+t
+¢t
+P1 .
+P1 .
+¢t,
+t3 - t1 ,
+P1 .
+P3
+P R O B L E M  S O L V I N G
+Velocity equals slope of 
+x vs. graph at any instant
+t
+40
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+[The Summary that appears at the end of each Chapter in this book
+gives a brief overview of the main ideas of the Chapter. The Summary
+cannot serve to give an understanding of the material, which can be

@@ -1,0 +1,21 @@
+ vectors) are
+drawn in an xy coordinate system to represent each voltage. The length of each
+arrow represents the magnitude of the peak voltage across each element:
+(21;13b)
+is in phase with the current and is initially 
+drawn along the positive
+x axis, as is the current 
+leads the current by 90°, so it leads 
+by 90° and 
+is initially drawn along the positive y axis.
+lags the current by 90°, so 
+is
+drawn initially along the negative y axis. See Fig. 21–44a. If we let the vector
+diagram rotate counterclockwise at frequency f, we get the diagram shown in
+Fig. 21–44b; after a time, , each arrow has rotated through an angle 
+Then
+the projections of each arrow on the x axis represent the voltages across each
+element at the instant , as can be seen in Fig. 21–44c. For example 
+The sum of the projections of the three voltage vectors represents the instanta-
+neous voltage across the whole circuit, V. Therefore, the vector sum of these
+vectors will be the vector that represents the peak source 

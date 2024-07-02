@@ -1,0 +1,53 @@
+s
+1.00 * 103 kg per m3.
+1.0-m2
+8.0 ms,
+2.5 cmh
+2.50 ms
+45°
+45°
+FIGURE 7;32
+Problem 18.
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+Problems
+193
+   grd
+m
+F
+B
+g
+B
+FIGURE 7;34
+Problem 24.
+*23. (III) Suppose the force acting on a tennis ball (mass
+0.060 kg) points in the 
+direction and is given by the
+graph of Fig. 7–33 as a function of time. (a) Use graphical
+methods (count squares) to estimate the total impulse given
+the ball. (b) Estimate the
+velocity of the ball after
+being struck, assuming
+the ball is being served
+so it is nearly at rest
+initially.
+[Hint:
+See
+Section 6–2.]
+±x
+0
+0.05
+0.10
+t (s)
+300
+200
+100
+0
+F (N)
+FIGURE 7;33
+Problem 23.
+24. (III) (a) Calculate the impulse experienced when a 55-kg
+person lands on firm ground after jumping from a height
+of 2.8 m. (b) Estimate the average force exerted on the
+person’s feet by the ground if the landing is stiff-legged,
+and again (c) with bent legs. With stiff legs, assume the
+body moves 1.0 

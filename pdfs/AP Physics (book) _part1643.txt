@@ -1,0 +1,26 @@
+ors and air conditioners do work to accomplish the opposite: to make heat flow
+from cold to hot. We might say they “pump” heat from cold areas to hotter areas,
+against the natural tendency of heat to flow from hot to cold, just as water can 
+be pumped uphill, against the natural tendency to flow downhill. The term 
+heat pump is usually reserved for a device that can heat a house in winter by using
+an electric motor that does work W to take heat 
+from the outside at low tem-
+perature and delivers heat 
+to the warmer inside of the house; see Fig. 15–18.
+QH
+QL
+W
+Refrigerator or
+air conditioner
+TH
+QH
+QL
+TL
+FIGURE 15–16 (Repeated.)
+Schematic diagram of energy
+transfers for a refrigerator or air
+conditioner (AC).
+Heat pump. A heat pump has a coefficient of performance
+of 3.0 and is rated to do work at 1500 watts. (a) How much heat can it add to a
+room per second? (b) If the heat pump were turned around to act as an air condi-
+tioner in the summer, what would you expect its coefficient of per

@@ -1,0 +1,20 @@
+only used by scien-
+tists. Whenever we first encounter a non–SI unit in the text, the SI unit will also be given. The 
+relations between the non–SI and SI units we will use most frequently in this text appear on 
+the back inside cover. We will discuss how to convert from one to the other in Section 1.7.
+Give It Some Thought
+How many mg are there in 1 mg?
+Length and Mass
+The SI base unit of length is the meter, a distance slightly longer than a yard. Mass* is a measure 
+of the amount of material in an object. The SI base unit of mass is the kilogram (kg), which is 
+equal to about 2.2 pounds (lb). This base unit is unusual because it uses a prefix, kilo-, instead of 
+the word gram alone. We obtain other units for mass by adding prefixes to the word gram.
+ 
+Sample Exercise 1.2 
+Using SI Prefixes
+What is the name of the unit that equals (a) 10-9 gram, (b) 10-6 second, (c) 10-3 meter?
+(a) 2.0 * 107 mg (b) 2500 mg (c) 5 * 10-4 kg (d) 4 * 106 cg  
+(e) 5.5 * 108 dg
+ 
+▶Practice Exercise 2
+(a) H

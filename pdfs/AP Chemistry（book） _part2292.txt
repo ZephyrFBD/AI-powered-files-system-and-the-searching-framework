@@ -1,0 +1,14 @@
+units of mol>L. What effect would this have had on the calculated value of k?
+(d) The pressure of formic acid vapor at the start of the reaction is 3.00 * 102 torr. Assuming constant temperature and 
+ideal-gas behavior, what is the pressure in the system at the end of the reaction? If the volume of the reaction chamber is 
+436 cm3, how many moles of gas occupy the reaction chamber at the end of the reaction?
+(e) The standard heat of formation of formic acid vapor is ∆Hf° = -378.6 kJ>mol. Calculate ∆H° for the overall reaction. If 
+the activation energy 1Ea2 for the reaction is 184 kJ>mol, sketch an approximate energy profile for the reaction, and label 
+Ea, ∆H °, and the transition state.
+Sample Integrative Exercise
+Putting Concepts Together
+SOLUTION
+(a) The initial pressure of HCOOH is 3.00 * 102 torr. On the graph 
+we move to the level at which the partial pressure of HCOOH 
+is 1.50 * 102 torr, half the initial value. This corresponds to a 
+time of about 6.60 * 102 s, which is theref

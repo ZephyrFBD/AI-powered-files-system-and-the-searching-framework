@@ -1,0 +1,21 @@
+discussion, therefore, it becomes important to note the units used to 
+calculate Q when using Equation 19.19. The convention used for standard states is used 
+when applying this equation: In determining the value of Q, the concentrations of gases 
+are always expressed as partial pressures in atmospheres and solutes are expressed as their 
+concentrations in molarities.
+Check The experimental normal boiling point of CCl41l2 is 
+76.5 °C. The small deviation of our estimate from the experimen-
+tal value is due to the assumption that ∆H° and ∆S° do not change 
+with temperature.
+ 
+▶Practice Exercise 1
+If the normal boiling point of a liquid is 67 °C, and the 
+standard molar entropy change for the boiling process is 
++100 J>K, estimate the standard molar enthalpy change for 
+the boiling process.
+(a) +6700 J (b) -6700 J (c) +34,000 J (d) -34,000 J
+ 
+▶Practice Exercise 2
+Use data in Appendix C to estimate the normal boiling point, 
+in K, for elemental bromine, Br21l2. (The experimental value 
+i

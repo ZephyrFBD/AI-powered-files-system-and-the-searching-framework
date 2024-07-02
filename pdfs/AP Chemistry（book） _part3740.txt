@@ -1,0 +1,16 @@
+rgy ∆ is smaller than it is in an octahedral crystal-field.
+ 
+SECTION 23.6  Crystal-Field Theory 
+1017
+1018 
+CHAPTER 23 Transition Metals and Coordination Chemistry
+illustrated in Figure 23.34. Note in particular that the dz2 orbital is considerably lower in 
+energy than the dx2 - y2 orbital. To understand why this is so, recall from Figure 23.28 that 
+in an octahedral field the dz2 orbital of the metal ion interacts with the ligands positioned 
+above and below the xy plane. There are no ligands in these two positions in a square- 
+planar complex, which means that the dz2 orbital experiences less repulsion and so 
+remains in a lower-energy, more stable state.
+Square-planar complexes are characteristic of metal ions with a d8 electron config-
+uration. They are nearly always low spin, with the eight d electrons spin-paired to form 
+a diamagnetic complex. This pairing leaves the dx2 - y2 orbital empty. Such an electronic 
+arrangement is particularly common among the d8 ions of periods 5 a

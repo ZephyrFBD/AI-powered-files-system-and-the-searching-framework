@@ -1,0 +1,17 @@
+ plane, along the y axis in Fig. 4–33.
+EXERCISE H Is the normal force always perpendicular to an inclined plane? Is it always
+vertical?
+The skier. The skier in Fig. 4–34a has begun descending the
+30° slope. If the coefficient of kinetic friction is 0.10, what is her acceleration?
+APPROACH We choose the x axis along the slope, positive downslope in the
+direction of the skier’s motion. The y axis is perpendicular to the surface. The
+forces acting on the skier are gravity,
+which points vertically down-
+ward (not perpendicular to the slope), and the two forces exerted on her skis by
+the snow—the normal force perpendicular to the snowy slope (not vertical), and
+the friction force parallel to the surface. These three forces are shown acting 
+at one point in Fig. 4–34b, which is our free-body diagram for the skier.
+SOLUTION We have to resolve only one vector into components, the weight 
+and its components are shown as dashed lines in Fig. 4–34c. To be general, we
+use 
+rather than 30° for now.

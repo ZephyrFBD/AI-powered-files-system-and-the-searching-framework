@@ -1,0 +1,32 @@
+ Design an ammeter to read 1.0 A at
+full scale using a galvanometer with a full-scale sensitivity of 
+and a
+resistance
+Check if the scale is linear.
+APPROACH Only 
+of the 1.0-A current passes
+through the galvanometer to give full-scale deflection. The rest of the current
+passes through the small shunt resistor,
+Fig. 19–31. The
+potential difference across the galvanometer equals that across the shunt
+resistor (they are in parallel). We apply Ohm’s law to find 
+SOLUTION Because 
+when
+flows into the meter, we
+want 
+through the shunt resistor to be 
+The potential differ-
+ence across the shunt is the same as across the galvanometer, so
+Then
+or 
+The shunt resistor must thus have a very low resistance and most of
+the current passes through it.
+Because 
+and 
+is constant, we see that the scale is 
+linear (needle deflection is proportional to 
+). If the current 
+into the 
+meter is half of full scale, 0.50 A, the current to the galvanometer will be
+which would make
+the needle deflect halfway, as 

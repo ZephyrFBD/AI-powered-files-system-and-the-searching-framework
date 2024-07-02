@@ -1,0 +1,31 @@
+E
+r
+,
+v = B
+elastic force factor
+inertia factor
+.
+SECTION 11–8
+Types of Waves and Their Speeds: Transverse and Longitudinal
+309
+For a longitudinal wave traveling in a liquid or gas,
+(11;14b)
+where B is the bulk modulus (Section 9–5) and again is the density.
+r
+clongitudinal wave
+in a fluid
+d
+v = B
+B
+r
+,
+Echolocation. Echolocation is a form of sensory percep-
+tion used by animals such as bats, dolphins, and toothed whales (Fig. 11–28). The
+animal emits a pulse of sound (a longitudinal wave) which, after reflection from
+objects, returns and is detected by the animal. Echolocation waves can have
+frequencies of about 100,000 Hz. (a) Estimate the wavelength of a sea animal’s
+echolocation wave. (b) If an obstacle is 100 m from the animal, how long after
+the animal emits a wave is its reflection detected?
+APPROACH We first compute the speed of longitudinal (sound) waves in sea
+water, using Eq. 11–14b and Tables 9–1 and 10–1. The wavelength is
+SOLUTION (a) The speed of longitudinal waves in se

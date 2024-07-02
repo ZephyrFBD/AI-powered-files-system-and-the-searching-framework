@@ -1,0 +1,39 @@
+ mole percent is the mole fraction times 100. Therefore, the 
+mole fraction of O2 is 0.180. Equation 10.16 gives:
+P
+O2 = 10.18021745 torr2 = 134 torr
+(b) Tabulating the given variables and converting to appropriate 
+units, we have:
+ P
+O2 = 1134 torr2a 1 atm
+760 torrb = 0.176 atm
+ 
+V = 121 L
+ 
+nO2 = ?
+ 
+R = 0.08206 L@atm
+mol@K
+ 
+T = 295 K
+Solving the ideal-gas equation for nO2, we have:
+ 
+nO2 = P
+O2a V
+RT b
+ = 10.176 atm2
+121 L
+10.08206 L@atm>mol@K21295 K2 = 0.880 mol
+Check The units check out, and the answer seems to be the right 
+order of magnitude.
+ 
+▶Practice Exercise 1
+A 4.0-L vessel containing N2 at STP and a 2.0-L vessel containing 
+H2 at STP are connected by a valve. If the valve is opened allowing 
+the two gases to mix, what is the mole fraction of hydrogen in the 
+mixture? (a) 0.034 (b) 0.33 (c) 0.50 (d) 0.67 (e) 0.96
+ 
+▶Practice Exercise 2
+From data gathered by Voyager 1, scientists have estimated 
+the composition of the atmosphere of Titan, Saturn’s largest 
+moon. The pressu

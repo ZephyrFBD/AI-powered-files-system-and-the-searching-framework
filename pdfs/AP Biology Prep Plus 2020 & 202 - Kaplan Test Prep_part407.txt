@@ -1,0 +1,18 @@
+tion of a large number of NADH and FADH2, which ultimately
+contribute to the production of a large number of ATP molecules.
+AP EXPERT NOTE
+The exam will not test you on the details of pyruvate
+decarboxylation or the steps and intermediates of the citric acid
+cycle, so just be aware of the role each process plays in the larger
+process of aerobic respiration.
+The net reaction of the citric acid cycle per glucose molecule is:
+2 Acetyl-CoA + 6 NAD+ + 2 FAD + 2 GDP + 2 Pi + 4 H2O → 4 CO2 + 6 NADH + 2
+FADH2 + 2 ATP + 4 H+ + 2 CoA
+ELECTRON TRANSPORT CHAIN
+The electron transport chain (ETC) is a complex carrier mechanism
+located on the inside of the inner mitochondrial membrane. During
+oxidative phosphorylation, ATP is produced when high-energy-potential
+electrons are transferred from NADH and FADH2 to oxygen by a series of
+carrier molecules located in the inner mitochondrial membrane. As the
+electrons are transferred from carrier to carrier, free energy is released,
+which is then used to form

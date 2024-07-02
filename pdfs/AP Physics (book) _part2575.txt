@@ -1,0 +1,60 @@
+istent with the 
+ray diagram, Fig. 23–42: the image is behind the lens and inverted.
+NOTE Part (a) tells us that the image is 2.6 mm farther from the lens than the
+image for an object at infinity, which would equal the focal length, 50.0 mm.
+Indeed, when focusing a camera lens, the closer the object is to the camera, the
+farther the lens must be from the sensor or film.
+hi = –0.40 cm;
+di
+hi = mho = (–0.0526)(7.6 cm) =
+–0.40 cm.
+m =
+– di
+do
+=
+– 5.26 cm
+100 cm
+=
+–0.0526,
+di = 100 cm
+19.0
+= 5.26 cm,
+= 20.0 - 1.0
+100 cm
+=
+19.0
+100 cm
+.
+1
+di
+=
+1
+f - 1
+do
+=
+1
+5.00 cm -
+1
+100 cm
+do = 100 cm,
+f = ±5.00 cm,
+±50.0
+EXAMPLE 23;12
+666
+CHAPTER 23
+Light: Geometric Optics
+Image
+Leaf
+100 cm
+Axis
+1
+3
+F
+F'
+O'
+FIGURE 23–42 Example 23–12.
+(Not to scale.)
+EXERCISE G If the leaf (object) of Example 23–12 is moved farther from the lens, does
+the image move closer to or farther from the lens? (Don’t calculate!)
+2. For analytic solutions, solve for unknowns in the
+thin lens equation (Eq. 23–8) and the magnifica

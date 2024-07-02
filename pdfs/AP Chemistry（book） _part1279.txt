@@ -1,0 +1,23 @@
+Lewis structures is the most important? One approach is to do some “bookkeeping” of 
+the valence electrons to determine the formal charge of each atom in each Lewis structure. 
+The formal charge of any atom in a molecule is the charge the atom would have if each 
+bonding electron pair in the molecule were shared equally between its two atoms.
+How to Calculate the Formal Charges of Atoms in Lewis Structures
+  
+1. All unshared (nonbonding) electrons are assigned to the atom on which they are 
+found.
+  
+2. For any bond—single, double, or triple—half of the bonding electrons are assigned 
+to each atom in the bond.
+  
+3. The formal charge of each atom is calculated by subtracting the number of electrons 
+assigned to the atom from the number of valence electrons in the neutral atom:
+ 
+Sample Exercise 8.8
+Lewis Structure for a Polyatomic Ion
+Draw the Lewis structure for the BrO3
+- ion.
+ 
+▶Practice Exercise 1
+How many nonbonding electron pairs are there in the Lewis 
+structure of the peroxide 

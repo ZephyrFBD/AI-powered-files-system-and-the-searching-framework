@@ -1,0 +1,23 @@
+rcury 
+manometer (Figure 10.3), and a meter stick is used to measure the height of the 
+mercury in the two arms of the U tube. The height of the mercury in the open-ended 
+arm is 136.4 mm, and the height in the arm in contact with the gas in the flask is 
+103.8 mm. What is the pressure of the gas in the flask (a) in atmospheres, (b) in 
+kilopascals?
+SOLUTION
+Analyze We are given the atmospheric pressure 1764.7 torr2 and 
+the mercury heights in the two arms of the manometer and asked 
+to determine the gas pressure in the flask. Recall that millimeters 
+of mercury is a pressure unit. We know that the gas pressure from 
+the flask must be greater than atmospheric pressure because the 
+mercury level in the arm on the flask side 1103.8 mm2 is lower 
+than the level in the arm open to the atmosphere 1136.4 mm2. 
+Therefore, the gas from the flask is pushing mercury from the arm 
+in contact with the flask into the arm open to the atmosphere.
+Pgas
+Open end
+Patm
+P     5 P        1 Ph
+h
+103.8 mm
+13

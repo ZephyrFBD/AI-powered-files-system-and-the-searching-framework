@@ -1,0 +1,14 @@
+rror is small compared to its radius of curvature. The reflected rays
+diverge, but seem to come from point F behind the mirror, Fig. 23–19a. This is
+the focal point, and its distance from the center of the mirror (point A) is the
+focal length, f. The equation
+is valid also for a convex mirror. We see
+that an object at infinity produces a virtual image in a convex mirror. Indeed, no
+matter where the object is placed on the reflecting side of a convex mirror, the
+image will be virtual and upright, as indicated in Fig. 23–19b. To find the image
+we draw rays 1 and 3 according to the rules used before on the concave mirror, as
+shown in Fig. 23–19b. Note that although rays 1 and 3 don’t actually pass through
+points F and C, the line along which each is drawn does (shown dashed).
+The mirror equation, Eq. 23–2, holds for convex mirrors but the focal length f
+and radius of curvature must be considered negative. The proof is left as a Problem.
+It is also left as a Problem to show that Eq. 23–3 f

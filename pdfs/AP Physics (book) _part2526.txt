@@ -1,0 +1,59 @@
+is.
+(a)
+(b)
+(c)
+Ray 1 goes out from
+O′ parallel to the axis 
+and reflects through F.
+f
+I
+O
+O′
+F
+3
+2
+2
+1
+A
+C
+I′
+O
+O′
+F
+2
+1
+A
+C
+1
+2
+O
+O′
+F
+1
+A
+C
+1
+FIGURE 23–15 Rays leave point 
+on the object (an arrow). Shown 
+are the three most useful rays for 
+determining where the image 
+is 
+formed. [Note that our mirror is not 
+small compared to f, so our diagram 
+will not give the precise position of 
+the image.]
+I¿
+O¿
+P R O B L E M  S O L V I N G
+Image point is where
+reflected rays intersect
+Image Formation—Ray Diagrams
+We saw that for an object at infinity, the image is located at the focal point of a
+concave spherical mirror, where
+But where does the image lie for an
+object not at infinity? First consider the object shown as an arrow in Fig. 23–15a,
+which is placed between F and C at point O (O for object). Let us determine where
+the image will be for a given point 
+at the top of the object, by finding the point
+where rays drawn from the tip of the arrow converge after reflecting from 
+the mirro

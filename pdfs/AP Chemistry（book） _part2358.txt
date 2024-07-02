@@ -1,0 +1,26 @@
+ed as a function of time.
+ 
+[14.125] As shown in Figure 14.23, the ﬁrst step in the heteroge-
+neous hydrogenation of ethylene is adsorption of the 
+ethylene molecule on a metal surface. One proposed 
+ 
+1/T
+ln k
+ 
+ Suggest a molecular-level interpretation of these unusual 
+data.
+ 14.120  The gas-phase reaction of NO with F2 to form NOF and F 
+has an activation energy of Ea = 6.3 kJ>mol. and a fre-
+quency factor of A = 6.0 * 108 M -1 s-1. The reaction is 
+believed to be bimolecular:
+NO1g2 + F21g2 ¡  NOF1g2 + F1g2
+ 
+ (a) Calculate the rate constant at 100 °C. (b) Draw the 
+Lewis structures for the NO and the NOF molecules, giv-
+en that the chemical formula for NOF is misleading be-
+cause the nitrogen atom is actually the central atom in 
+the molecule. (c) Predict the shape for the NOF molecule. 
+(d) Draw a possible transition state for the formation of 
+NOF, using dashed lines to indicate the weak bonds that 
+are beginning to form. (e) Suggest a reason for the low ac-
+tivation energy for 

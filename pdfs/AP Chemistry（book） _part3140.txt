@@ -1,0 +1,28 @@
+porization 
+is about 88 J>mol@K. (a) Estimate the normal boiling point 
+of bromine, Br2, by determining ∆H°
+vap for Br2 using data 
+from Appendix C. Assume that ∆H°
+vap remains constant 
+with temperature and that Trouton’s rule holds. (b) Look up 
+the normal boiling point of Br2 in a chemistry handbook or 
+at the WebElements website (www.webelements.com) and 
+compare it to your calculation. What are the possible sources 
+of error, or incorrect assumptions, in the calculation?
+ [19.94]  (a) Write the chemical equations that correspond to ∆G°
+f  
+for NH3( g) and for CO( g). (b) For which of these formation 
+reactions will the value of ∆G°
+f  be more positive (less neg-
+ative) than ∆H°
+f  ? (c) In general, under which condition is 
+∆G°
+f  more positive (less negative) than ∆H°
+f  ? (i) When the 
+temperature is high, (ii) when the reaction is reversible, (iii) 
+when ∆S°
+f  is negative.
+ 19.95  Consider the following three reactions:
+(i) 
+Ti1s2 + 2 Cl21g2 ¡ TiCl41g2
+(ii) C2H61g2 + 7 Cl21g2 

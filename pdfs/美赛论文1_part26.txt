@@ -1,0 +1,67 @@
+y) 
+P2(Economy) 
+P3(Ecology) 
+P4(Total) 
+2005 
+ 
+0.1130 
+0.1643 
+0.0579 
+0.1174 
+2006 
+ 
+0.1203 
+0.1658 
+0.0589 
+0.1221 
+2007 
+ 
+0.1260 
+0.1750 
+0.0606 
+0.1280 
+2008 
+ 
+0.1174 
+0.1522 
+0.0568 
+0.1164 
+2009 
+ 
+0.1326 
+0.1864 
+0.0629 
+0.1352 
+2010 
+ 
+0.1049 
+0.1231 
+0.0527 
+0.1009 
+2011 
+ 
+0.1172 
+0.1566 
+0.0527 
+0.1176 
+2012 
+ 
+0.1207 
+0.1642 
+0.0586 
+0.1218 
+*P4 comes from P1, P2 and P3, and their relationship have been introduced in our model. 
+ 
+ 
+Team#36961 
+ 
+Page 13 of 20 
+According to the model we design, indexes represent whether a country is 
+sustainable. If index is less than 0.4, which means this country or one main factor of it 
+is unsustainable.  
+From the index we could know that Haiti’s society, economy and ecology were 
+all in unsustainable condition between 2005 and 2012 years. In conclusion, Haiti is an 
+unsustainable country now. 
+ 
+3.3 Third question: What to do to let Haiti become sustainable?    
+    The answer is a 20 year sustainable development plan for Haiti. 

@@ -1,0 +1,15 @@
+n, as in the present example. Over the course of the reaction, the Zn electrode 
+gradually disappears and the copper electrode gains mass. More typically, the electrodes 
+are made of a conducting material, such as platinum or graphite, that does not gain or lose 
+mass during the reaction but serves as a surface at which electrons are transferred.
+Each compartment of a voltaic cell is called a half-cell. One half-cell is the site of the 
+oxidation half-reaction, and the other is the site of the reduction half-reaction. In our 
+present example, Zn is oxidized and Cu2+ is reduced:
+Anode 1oxidation half@reaction2  
+Zn1s2 ¡ Zn2+1aq2 + 2 e-
+Cathode 1reduction half@reaction2  
+Cu2+1aq2 + 2 e- ¡ Cu1s2
+Electrons become available as zinc metal is oxidized at the anode. They flow through 
+the external circuit to the cathode, where they are consumed as Cu2+1aq2 is reduced. 
+Because Zn(s) is oxidized in the cell, the zinc electrode loses mass, and the concentration of 
+the Zn2+1aq2 solution increas

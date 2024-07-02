@@ -1,0 +1,34 @@
+les, 
+ionic radii can be determined from interatomic distances in ionic compounds. Like the 
+Natural gas used in home heating and cooking is odorless. Because natural gas 
+leaks pose the danger of explosion or suffocation, various smelly substances 
+are added to the gas to allow detection of a leak. One such substance is methyl 
+mercaptan, CH3SH. Use Figure 7.7 to predict the lengths of the C¬ S, C¬ H, 
+and S¬ H bonds in this molecule.
+Sample Exercise 7.1 
+Bond Lengths in a Molecule
+SOLUTION
+Analyze and Plan We are given three bonds and told to use 
+Figure 7.7 for bonding atomic radii. We will assume that each 
+bond length is the sum of the bonding atomic radii of the two 
+atoms involved.
+Solve
+    C ¬S bond length = bonding atomic radius of C
+ 
+ 
+ 
++ bonding atomic radius of S 
+  = 0.76 A
+° + 1.05 A
+° = 1.81 A
+°    
+  C ¬ H bond length = 0.76 A
+° + 0.31 A
+° = 1.07 A
+°   
+   S ¬H bond length = 1.05 A
+° + 0.31 A
+° = 1.36 A
+°
+Check The experimentally determined bond lengths are 
+C¬S = 1.

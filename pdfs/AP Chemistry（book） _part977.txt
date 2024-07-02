@@ -1,0 +1,24 @@
+re known as either transition elements or 
+transition metals. Note the position of these elements in the periodic table.
+In writing the electron configurations of the transition elements, we fill orbitals in 
+accordance with Hund’s rule—we add them to the 3d orbitals singly until all five orbitals 
+have one electron each and then place additional electrons in the 3d orbitals with spin 
+pairing until the shell is completely filled. The condensed electron configurations and the 
+corresponding orbital diagram representations of two transition elements are as follows:
+3d
+4s
+Mn:
+Zn:
+or    [Ar]
+or    [Ar]
+[Ar]4s23d5
+[Ar]4s23d10
+ 
+ 
+SECTION 6.9  Electron Configurations and the Periodic Table 
+241
+Give It Some Thought
+Based on the structure of the periodic table, which becomes occupied first, the 6s 
+orbital or the 5d orbitals?
+Once all the 3d orbitals have been filled with two electrons each, the 4p orbitals 
+begin to be occupied until the completed octet of outer electrons 14s24p62 is reache

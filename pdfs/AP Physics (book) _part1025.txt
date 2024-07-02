@@ -1,0 +1,14 @@
+ is still equal to the person’s
+weight, but the area will be half as much, so the pressure will be twice as much:
+Pressure is particularly useful for dealing with fluids. It is an experimental
+observation that a fluid exerts pressure in every direction. This is well known to
+swimmers and divers who feel the water pressure on all parts of their bodies. At
+any depth in a fluid at rest, the pressure is the same in all directions at that given
+depth. To see why, consider a tiny cube of the fluid (Fig. 10–1) which is so small
+that we can consider it a point and can ignore the force of gravity on it. The pres-
+sure on one side of it must equal the pressure on the opposite side. If this weren’t
+true, there would be a net force on the cube and it would start moving. If the fluid
+is not flowing, then the pressures must be equal.
+For a fluid at rest, the force due to fluid pressure always acts perpendicular
+to any solid surface it touches. If there were a component of the force parallel 
+to the 

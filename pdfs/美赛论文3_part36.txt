@@ -1,0 +1,88 @@
+
+
+1
+1
+2
+2
+3
+3
+n
+e
+E
+f t
+f
+D
+f
+Q
+
+
+
+
+
+
+
+
+min
+n
+E
+E
+
+The smaller E is, the more efficient our strategy is. Hence, what really matters is
+the minimum of E . That is to say, what we should do is to find the extreme point of
+function E and confirm the minimum of E so that we could find the most efficient
+strategy to have a both sensible and enjoyable hot bath.
+4.3 Simulation and Strategy
+01
+u
+he initial temperature of
+the water
+40 C
+
+
+The temperature of the air
+around the tub
+18 C
+
+l
+The length of the bathtub
+140cm
+w
+The width of the bathtub
+60cm
+h
+The height of the bathtub
+35cm
+m
+Mass of the water full of
+the tub
+294kg
+2
+v
+The initial volume of the
+water in the tub
+294L
+c
+Specific heat capacity of
+the water in the tub
+3
+4.2 10
+/ (
+)
+J
+kg
+C
+
+
+0
+k
+A Parameter
+0.03
+n
+The times of adding hot
+water into the bathtub
+2
+Team#44509
+Page 16 of 26
+Table 7: data table for simulation
+Put the data above into our models and we get the value of E is
+1.929 and the model shows that it’s b

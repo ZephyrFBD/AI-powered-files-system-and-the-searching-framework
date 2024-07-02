@@ -1,0 +1,67 @@
+heat).
+APPROACH Let’s assume an average wavelength in the middle of the visible
+spectrum,
+The energy of each photon is 
+Only
+3% of the 100-W power is emitted as visible light, or 
+The number
+of photons emitted per second equals the light output of 
+divided by 
+the energy of each photon.
+SOLUTION The energy emitted in one second 
+is
+where N is
+the number of photons emitted per second and 
+Hence
+per second, or almost 
+photons emitted per second, an enormous number.
+1019
+N =
+E
+hf = El
+hc
+=
+(3 J)A500 * 10–9 mB
+A6.63 * 10–34 JsBA3.00 * 108 msB
+L 8 * 1018
+f = cl.
+E = Nhf
+(= 3 J)
+3 Js
+3 W = 3 Js.
+E = hf = hcl.
+l L 500 nm.
+EXAMPLE 27;4
+ESTIMATE
+1 eV = 1.60 * 10–19 J.
+A4.4 * 10–19 JBA1.60 * 10–19 JeVB = 2.8 eV.
+E = hf = hc
+l
+=
+A6.63 * 10–34 JsBA3.00 * 108 msB
+A4.5 * 10–7 mB
+= 4.4 * 10–19 J,
+f = cl,
+f = cl
+E = hf
+l = 450 nm
+EXAMPLE 27;3
+hf
+0 = W
+0 ,
+f
+0,
+kemax = hf - W
+0 .
+AW
+0B
+hf = kemax + W
+0 .
+kemax:
+ke
+W
+0 ,
+SECTION 27–3
+Photon Theory of Light and the Photoelectric Effect
+777
+Ph

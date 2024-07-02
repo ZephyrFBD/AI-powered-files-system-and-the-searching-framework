@@ -1,0 +1,36 @@
+ C is in column 4A, and so 
+has four valence electrons. Therefore, As, if doped into silicon, 
+would yield an n-type semiconductor.
+ 
+▶Practice Exercise 1
+Which of these doped semiconductors would yield a p-type 
+material? (These choices are written as host atom:dopant 
+atom.)
+(a) Ge:P (b) Si:Ge (c) Si:Al (d) Ge:S (e) Si:N
+ 
+▶Practice Exercise 2
+Compound semiconductors can be doped to make n-type and 
+p-type materials, but the scientist has to make sure that the 
+proper atoms are substituted. For example, if Ge were doped 
+into GaAs, Ge could substitute for Ga, making an n-type semi-
+conductor; but if Ge substituted for As, the material would be 
+p-type. Suggest a way to dope CdSe to create a p-type material.
+500 
+CHAPTER 12 Solids and Modern Materials
+TABLE 12.5 Categories Used for Recycling Polymeric Materials  
+in the United States
+Number
+Abbreviation
+Polymer
+1
+PET or PETE
+Polyethylene terephthalate
+2
+HDPE
+High-density polyethylene
+3
+PVC
+Polyvinyl chloride
+4
+LDPE
+Low-density polyeth

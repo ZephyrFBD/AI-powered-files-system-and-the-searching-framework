@@ -1,0 +1,33 @@
+d potential energy. [Note:
+dissociates into 
+two atoms at about 3200 K, so the last part of the 
+curve is shown dashed.]
+H2
+AH2B.
+CV
+Solids
+The principle of equipartition of energy can be applied to solids as well. The molar
+specific heat of any solid at high temperature is close to 3R
+Fig. D–4. This is called the Dulong and Petit value after the scientists who first
+measured it in 1819. (Note that Table 14–1 gave the specific heats per kilogram,
+not per mole.) At high temperatures, each atom apparently has six degrees of
+freedom, although some are not active at low temperatures. Each atom in a crys-
+talline solid can vibrate about its equilibrium position as if it were connected by
+springs to each of its neighbors (Fig. D–5). Thus it can have three degrees of 
+freedom for kinetic energy and three more associated with potential energy 
+of vibration in each of the x, y, and z directions, which is in accord with measured
+values.
+(6.0 calmolK),
+0 100
+300
+900
+700
+500
+6
+5
+4
+2
+3
+1
+0
+Temper

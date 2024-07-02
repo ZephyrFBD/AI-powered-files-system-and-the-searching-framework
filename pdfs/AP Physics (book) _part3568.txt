@@ -1,0 +1,35 @@
+Fig. 32–5a
+which accelerates protons from 28 GeV to the 450 GeV at which they are injected
+into the LHC itself.
+FIGURE 32–5 (a) The large circle
+represents the position of the tunnel,
+about 100 m below the ground at
+CERN (near Geneva) on the
+French–Swiss border, which houses
+the LHC. The smaller circle shows
+the position of the Super Proton
+Synchrotron used for accelerating
+protons prior to injection into the
+LHC. (b) Circulating proton beams,
+in opposite directions, inside the
+vacuum tube within the LHC tunnel.
+(a)
+(b)
+ALICE
+Superconducting
+coils
+Protons moving
+counterclockwise
+Protons moving
+clockwise
+Vacuum tube
+ATLAS
+CMS
+Switzerland
+France
+SPS
+Figure 32–6 shows part of one of the detectors (ATLAS) as it was being con-
+structed at the LHC. The detectors within ATLAS include silicon semiconductor
+detectors with huge numbers of pixels used to track particle paths and find their
+point of interaction, and to measure their radius of curvature in a magnetic field and
+thus determine their 

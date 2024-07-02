@@ -1,0 +1,17 @@
+e 
+was used to illustrate Beer’s law in Chapter 14 (Figure 14.5). The reac-
+tion can be monitored using visible-light spectroscopy because I2 has 
+a violet color while H2 and HI are colorless. At 300 K, the equilibrium 
+constant for the reaction H21g2 + I21g2 ∆ 2 HI1g2 is Kc = 794. 
+To answer the following questions assume you have access to hydro-
+gen, iodine, hydrogen iodide, a transparent reaction vessel, a visible- 
+light spectrometer, and a means for changing the temperature. 
+(a) Which gas or gases concentration could you readily moni-
+tor with the spectrometer? (b) To use Beer’s law (Equation 14.5) 
+you need to determine the extinction coefficient, e, for the sub-
+stance in question. How would you determine e? (c) Describe an 
+experiment for determining the equilibrium constant at 600 K. 
+ 
+(d) Use the bond enthalpies in Table 8.4 to estimate the enthalpy 
+of this reaction. (e) Based on your answer to part (d), would you 
+expect Kc at 600 K to be larger or smaller than at 300 K?

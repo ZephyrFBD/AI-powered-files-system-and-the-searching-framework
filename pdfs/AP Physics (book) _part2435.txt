@@ -1,0 +1,14 @@
+f electric
+and magnetic fields. The idea of the field was introduced somewhat later by 
+Faraday, and was not generally used until Maxwell showed that all electric and
+magnetic phenomena could be described using only four equations involving elec-
+tric and magnetic fields. These equations, known as Maxwell’s equations, are the
+basic equations for all electromagnetism. They are fundamental in the same sense
+that Newton’s three laws of motion and the law of universal gravitation are for
+mechanics. In a sense, they are even more fundamental, because they are consistent
+with the theory of relativity (Chapter 26), whereas Newton’s laws are not. Because
+all of electromagnetism is contained in this set of four equations, Maxwell’s equa-
+tions are considered one of the great triumphs of the human intellect.
+Although we will not present Maxwell’s equations in mathematical form
+since they involve calculus, we will summarize them here in words. They are:
+(1) a generalized form of Coulomb’s law tha

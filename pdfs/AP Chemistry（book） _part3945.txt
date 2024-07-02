@@ -1,0 +1,19 @@
+ of 
+1000 (written log 1000) is 3 because raising 10 to the third power gives 1000.
+103 = 1000, therefore, log 1000 = 3
+Further examples are
+ log 105 = 5
+ log 1 = 0 Remember that 100 = 1
+ log 10-2 = -2
+In these examples the common logarithm can be obtained by inspection. However, it is 
+not possible to obtain the logarithm of a number such as 31.25 by inspection. The loga-
+rithm of 31.25 is the number x that satisfies the following relationship:
+10x = 31.25
+Most electronic calculators have a key labeled LOG that can be used to obtain logarithms. 
+For example, on many calculators we obtain the value of log 31.25 by entering 31.25 and 
+pressing the LOG key. We obtain the following result:
+log 31.25 = 1.4949
+Notice that 31.25 is greater than 10 11012 and less than 100 11022. The value for log 
+31.25 is accordingly between log 10 and log 100, that is, between 1 and 2.
+Significant Figures and Common Logarithms
+For the common logarithm of a measured quantity, the number of digits after the d

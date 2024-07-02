@@ -1,0 +1,40 @@
+Name of Unit
+Abbreviation
+Length
+Meter
+m
+Mass
+Kilogram
+kg
+Temperature
+Kelvin
+K
+Time
+Second
+s or sec
+Amount of substance
+Mole
+mol
+Electric current
+Ampere
+A or amp
+Luminous intensity
+Candela
+cd
+Give It Some Thought
+The package of a fluorescent bulb for a table lamp lists the light output in terms 
+of lumens, lm. Which of the seven SI units would you expect to be part of the 
+definition of a lumen?
+18 
+CHAPTER 1 Introduction: Matter, Energy, and Measurement
+ 
+Einstein’s theory of relativity represented a fundamental shift in 
+how we think of space and time. He predicted where the excep-
+tions to predictions based on Newton’s theory might be found. 
+Although only small departures from Newton’s theory were pre-
+dicted, they were observed. Einstein’s theory of relativity became 
+accepted as the correct model. However, for most uses, Newton’s 
+laws of motion are quite accurate enough.
+The overall process we have just considered, illustrated in 
+ 
+Figure 1.18, is often referred to as the scien

@@ -1,0 +1,20 @@
+ force when placed in a mag-
+netic field. Since a current in a wire consists of moving electric charges, we might
+expect that freely moving charged particles (not in a wire) would also experience a
+force when passing through a magnetic field. Free electric charges are not as easy to
+produce in the lab as a current in a wire, but it can be done, and experiments do
+show that moving electric charges experience a force in a magnetic field.
+From what we already know, we can predict the force on a single electric charge
+moving in a magnetic field 
+If N such particles of charge q pass by a given point
+in time , they constitute a current
+We let be the time for a charge q
+to travel a distance in a magnetic field 
+then
+where is the magnitude
+of the velocity of the particle. Thus, the force on these N particles is, by Eq. 20–1,
+The force on one of the N parti-
+cles is then
+(20;3)
+This equation gives the magnitude of the force exerted by a magnetic field on a
+particle of charge q moving with veloc

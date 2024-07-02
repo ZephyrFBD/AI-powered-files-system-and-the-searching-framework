@@ -1,0 +1,22 @@
+ergy of a
+1-kg stone traveling almost 90 ms.
+A6.42 * 10–21 JBA6.02 * 1023B = 3860 J,
+G =
+3
+2 kT =
+3
+2 A1.38 * 10–23 JKB(310 K) = 6.42 * 10–21 J.
+EXAMPLE 13;15
+EXERCISE E If molecules of hydrogen gas and oxygen gas were placed in the same balloon
+at room temperature, how would the average kinetic energies of the molecules compare?
+(a) They would be the same. (b) The hydrogen molecules would have greater kinetic energy.
+(c) The oxygen molecules would have greater kinetic energy. (d) Need more information.
+Equation 13–8 holds not only for gases, but also applies reasonably accurately
+to liquids and solids. Thus the result of Example 13–15 would apply to molecules
+within living cells at body temperature (37°C).
+We can use Eq. 13–8 to calculate how fast molecules are moving on average.
+Notice that the average in Eqs. 13–5 through 13–8 is over the square of the speed.
+The square root of 
+is called the root-mean-square speed,
+(since we are
+taking the square root of the mean of the square of

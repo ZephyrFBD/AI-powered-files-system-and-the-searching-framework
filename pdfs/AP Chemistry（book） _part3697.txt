@@ -1,0 +1,28 @@
+nate(III).
+Isomerism
+When two or more compounds have the same com-
+position but a different arrangement of atoms, we 
+call them isomers. 
+ (Section 2.9) Here we con-
+sider two main kinds of isomers in coordination 
+compounds: structural isomers (which have dif-
+ferent bonds) and stereoisomers (which have the 
+same bonds but different ways in which the ligands 
+occupy the space around the metal center). Each 
+of these classes also has subclasses, as shown in 
+ 
+Figure 23.19.
+Structural Isomerism
+Many types of structural isomerism are known 
+in coordination chemistry, including the two 
+named in Figure 23.19: linkage isomerism and 
+ 
+coordination-sphere isomerism. Linkage isom-
+erism is a relatively rare but interesting type that 
+arises when a particular ligand is capable of coor-
+dinating to a metal in two ways. The nitrite ion, 
+NO2
+-, for example, can coordinate to a metal ion 
+through either its nitrogen or one of its oxygens 
+(Figure 23.20). When it coordinates through the 
+nitroge

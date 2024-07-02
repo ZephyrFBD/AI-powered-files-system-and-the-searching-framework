@@ -1,0 +1,23 @@
+er of the spacing
+between atoms in the lattice, about 0.3 nm, what should
+the speed of the neutrons be?
+83. In Chapter 22, the intensity of light striking a surface was
+related to the electric field of the associated electro-
+magnetic wave. For photons, the intensity is the number of
+photons striking a 
+area per second.
+Suppose
+of 497-nm light are incident on a 
+surface every second. What is the intensity of the light?
+Using the wave model of light, what is the maximum
+electric field of the electromagnetic wave?
+84. The intensity of the Sun’s light in the vicinity of the Earth
+is about 
+Imagine a spacecraft with a mirrored
+square sail of dimension 1.0 km. Estimate how much thrust
+(in newtons) this craft will experience due to collisions with
+the Sun’s photons. [Hint: Assume the photons bounce off the
+sail with no change in the magnitude of their momentum.]
+85. Light of wavelength 280 nm strikes a metal whose work
+function is 2.2 eV. What is the shortest de Broglie wave-
+length for the 

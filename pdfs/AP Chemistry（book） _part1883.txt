@@ -1,0 +1,24 @@
+e. Consequently, the electronic structure of the crystal is 
+like that of the infinite chain, consisting of bands, as shown on the right-hand side of 
+Figure 12.22.
+The electronic structures of most metals are more complicated than those shown in 
+Figure 12.22 because we have to consider more than one type of atomic orbital on each 
+atom. Because each type of orbital can give rise to its own band, the electronic structure 
+of a solid usually consists of a series of bands. The electronic structure of a bulk solid is 
+referred to as a band structure.
+The band structure of a typical metal is shown schematically in Figure 12.23. The 
+electron filling depicted corresponds to nickel metal, but the basic features of other 
+Go Figure
+If the metal were potassium rather than nickel, which bands—4s, 4p,  
+and/or 3d—would be partially occupied?
+Energy
+MOs become
+increasingly bonding
+MOs become
+increasingly antibonding
+3d orbitals
+4p orbitals
+4p band
+(holds 6e− per atom)
+3d band
+(holds 10e− per ato

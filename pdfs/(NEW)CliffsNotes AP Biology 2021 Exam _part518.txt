@@ -1,0 +1,17 @@
+than are actually necessary to
+ 
+establish the original polarized potential. Thus, the membrane becomes hyperpolarized (about −90 millivolts).
+ 
+5. Refractory period. With the passage of the action potential, the Na+
+ 
+voltage-gated ion channels remain inactivated, and the neuron persists in a refractory state in which it cannot
+respond to new stimuli. Also, the
+ 
+cell membrane is polarized, but some of the Na+ and K+ ions are on the
+ 
+wrong sides of the membrane. To reestablish the original distribution of
+these ions, the Na+ and K+ are returned to their resting potential location by Na+/K+ active-transport pumps in the
+cell membrane. Not until after the resting potential is reestablished do the Na+ voltage-gate
+ion channels become responsive to a stimulus once again.
+Some neurons possess a myelin sheath, which consists of a series of Schwann cells that encircle the axon. The
+Schwann cells act as insulators and are separated by gaps of unsheathed axon called nodes of Ranvier. Instead 

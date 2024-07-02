@@ -1,0 +1,42 @@
+
+stant k (Fig. 11–53). What will be the frequency of vertical
+oscillation?
+m
+k
+k
+FIGURE 11–53
+Problem 24.
+25. (III) A 1.60-kg object oscillates at the end of a vertically
+hanging light spring once every 0.45 s. (a) Write down the
+equation giving its position 
+as a function of
+time 
+Assume the object started by being compressed
+16 cm from the equilibrium position (where
+), and
+released. (b) How long will it take to get to the equilibrium
+position for the first time? (c) What will be its maximum
+speed? (d) What will be the object’s maximum accelera-
+tion, and where will it first be attained?
+26. (III) Consider two objects, A and B, both undergoing
+SHM, but with different frequencies, as described by the equa-
+tions 
+and
+where 
+is in seconds. After
+find the next three 
+times at which both objects simultaneously pass through
+the origin.
+t
+t = 0,
+t
+xB = (5.0 m) sin(3.0 t),
+xA = (2.0 m) sin(4.0 t)
+y = 0
+t.
+y (± upward)
+324
+CHAPTER 11
+Oscillations and Waves
+11–4 Simple Pendulum
+27. (I) A pend

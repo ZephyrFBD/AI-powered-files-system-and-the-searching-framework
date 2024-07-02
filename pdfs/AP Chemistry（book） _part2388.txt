@@ -1,0 +1,16 @@
+s important infor-
+mation about the composition of the equilibrium mixture. For example, consider 
+the experimental data for the reaction of carbon monoxide gas and chlorine gas at 
+100 °C to form phosgene 1COCl22, a toxic gas used in the manufacture of certain 
+polymers and insecticides:
+CO1g2 + Cl21g2 ∆ COCl21g2  Kc =
+3COCl24
+3CO43Cl24 = 4.56 * 109
+For the equilibrium constant to be so large, the numerator of the equilibrium- 
+constant expression must be approximately a billion 11092 times larger than the 
+denominator. Thus, the equilibrium concentration of COCl2 must be much greater 
+than that of CO or Cl2, and in fact, this is just what we find experimentally. We 
+say that this equilibrium lies to the right (that is, toward the product side). Likewise, 
+a very small equilibrium constant indicates that the equilibrium mixture contains 
+mostly reactants. We then say that the equilibrium lies to the left. In general,
+If K W 1 (large K): Equilibrium lies to right, products predominate

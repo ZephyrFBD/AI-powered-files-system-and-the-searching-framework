@@ -1,0 +1,20 @@
+8 K, it is always a positive number. We 
+can predict the sign of ∆S° by looking at the reaction.
+Solve
+(a) The reactants are six molecules of gas, and the products are 
+three molecules of gas and four molecules of liquid. Thus,  
+the number of molecules of gas has decreased signiﬁcantly 
+during the reaction. By using the general rules discussed in  
+Section 19.3, we expect a decrease in the number of gas mol-
+ecules to lead to a decrease in the entropy of the system—the 
+products have fewer possible microstates than the reactants. 
+We therefore expect ∆S° and T∆S° to be negative. Because we 
+are subtracting T∆S°, which is a negative number, we predict 
+that ∆G° is less negative than ∆H°.
+(b) Using Equation 19.14 and values from Appendix C, we have
+ ∆G° = 3 ∆Gf°3CO21g24 + 4 ∆Gf°3H2O1l24
+- ∆Gf°3C3H81g24 - 5 ∆Gf°3O21g24
+ = 3 mol1-394.4 kJ>mol2 + 4 mol1-237.13 kJ>mol2 -
+1 mol1-23.47 kJ>mol2 - 5 mol10 kJ>mol2 = -2108 kJ 
+Notice that we have been careful to use the value of ∆Gf° for 
+H2O1l2.

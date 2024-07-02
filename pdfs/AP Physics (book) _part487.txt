@@ -1,0 +1,36 @@
+er, the magnitude of 
+at
+any moment is
+Two components of acceleration. A race car starts from
+rest in the pit area and accelerates at a uniform rate to a speed of 
+in 
+moving on a circular track of radius 500 m. Assuming constant tangential 
+acceleration, find (a) the tangential acceleration, and (b) the radial acceler-
+ation, at the instant when the speed is  
+APPROACH The tangential acceleration relates to the change in speed of the car,
+and can be calculated as  
+The centripetal acceleration relates to the
+change in the direction of the velocity vector and is calculated using
+SOLUTION (a) During the 11-s time interval, we assume the tangential accel-
+eration 
+is constant. Its magnitude is
+(b) When
+the centripetal acceleration is
+NOTE The radial (centripetal) acceleration increases continually, whereas the
+tangential acceleration stays constant.
+aR = v2
+r
+= (15 ms)2
+(500 m)
+= 0.45 ms2.
+v = 15 ms,
+atan =
+¢v
+¢t
+= (35 ms - 0 ms)
+11 s
+= 3.2 ms2.
+atan
+aR = v2r.
+atan = ¢v¢t.
+v = 15

@@ -1,0 +1,29 @@
+olts, but a typical event might transfer 
+of energy
+across a potential difference of perhaps 
+during a time interval of about
+0.2 s. Use this information to estimate (a) the total amount of charge transferred
+between cloud and ground, (b) the current in the lightning bolt, and (c) the
+average power delivered over the 0.2 s.
+APPROACH We estimate the charge Q, recalling that potential energy change
+equals the potential difference 
+times the charge Q, Eq. 17–3. We equate
+with the energy transferred,
+Next, the current I is
+(Eq. 18–1) and the power P is energy/time.
+SOLUTION (a) From Eq. 17–3, the energy transformed is 
+We
+solve for Q:
+(b) The current during the 0.2 s is about
+(c) The average power delivered is
+We can also use Eq. 18–5:
+NOTE Since most lightning bolts consist of several stages, it is possible that indi-
+vidual parts could carry currents much higher than the 100 A calculated above.
+P = IV = (100 A)(5 * 107 V) = 5 GW.
+P = energy
+time
+= 109 J
+0.2 s
+= 5 * 109 W = 5 GW.
+I = Q
+t

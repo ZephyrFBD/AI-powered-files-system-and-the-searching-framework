@@ -1,0 +1,35 @@
+ressure of the water is 0.80 torr 
+and the total pressure of the air is 735 torr?
+Sample Exercise 18.1 
+Calculating Concentration from Partial Pressure
+SOLUTION
+Analyze We are given the partial pressure of water vapor and the 
+total pressure of an air sample and asked to determine the water 
+vapor concentration.
+Plan Recall that the partial pressure of a component in a mixture 
+of gases is given by the product of its mole fraction and the total 
+pressure of the mixture 
+ (Section 10.6):
+P
+H2O = XH2OP
+t
+Solve Solving for the mole fraction of water vapor in the mixture, 
+XH2O, gives
+XH2O =
+P
+H2O
+P
+t
+= 0.80 torr
+735 torr = 0.0011
+The concentration in ppm is the mole fraction times 106:
+0.0011 * 106 = 1100 ppm
+ 
+▶Practice Exercise 1
+From the data in Table 18.1, the partial pressure of argon in 
+dry air at an atmospheric pressure of 668 mm Hg is  
+(a) 3.12 mm Hg, (b) 7.09 mm Hg, (c) 6.24 mm Hg,  
+(d) 9.34 mm Hg, (e) 39.9 mm Hg.
+ 
+▶Practice Exercise 2
+The concentration of CO in a sample of a

@@ -1,0 +1,73 @@
+ in which 
+the out-
+going helium (
+) is observed to have a speed of 
+Determine (a) the kinetic energy of the lithium 
+and (b) the
+Q-value of the reaction.
+AMLi = 7.0160 uB,
+9.30 * 106 ms.
+MHe = 4.0026 u
+ken L 0,
+Mn = 1.0087 u
+n +
+ 5
+10B S
+3
+7Li +
+2
+4He
+EXAMPLE 31;2
+Q 7 0,
+keX = 0.
+Q = keb + keY - kea - keX.
+Q 6 0.
+Q 7 0.
+M = 0.
+g
+Q = AMa + MX - Mb - MYB c2.
+a, g
+a + X S Y + b,
+ke
+¢E = ¢m c2
+n +  56
+137Ba S ? + g.
+ 7
+15N.
+Z = 7,
+A = 15.
+Z = 7
+0 + 8 = 8.
+1 + 16 = 17,
+n +  8
+16O S ? + 1
+2H.
+1
+2H;
+ 8
+16O
+CONCEPTUAL EXAMPLE 31;1
+ 7
+14N (n,  p)  6
+14C.
+n +
+ 7
+14N S
+ 6
+14C + p
+n +  7
+14N S
+ 6
+14C + p.
+ 6
+14C
+886
+CHAPTER 31
+APPROACH Since the neutron and boron are both essentially at rest, the total
+momentum before the reaction is zero; momentum is conserved and so must be
+zero afterward as well. Thus,
+We solve this for 
+and substitute it into the equation for kinetic energy. In (b)
+we use Eq. 31–2b.
+SOLUTION (a) We can use classical kinetic energy with little error, rather than
+relativistic 

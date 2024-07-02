@@ -1,0 +1,15 @@
+ormally
+one lens is converging and the other diverging, and they are often cemented
+together (Fig. 25–28). Such a lens combination is called an achromatic doublet
+(or “color-corrected” lens).
+To reduce aberrations, high-quality lenses are compound lenses consisting of
+many simple lenses, referred to as elements. A typical high-quality camera lens
+may contain six to eight (or more) elements. For simplicity we will usually indi-
+cate lenses in diagrams as if they were simple lenses.
+The human eye is also subject to aberrations, but they are minimal. Spherical
+aberration, for example, is minimized because (1) the cornea is less curved at the
+edges than at the center, and (2) the lens is less dense at the edges than at the center.
+Both effects cause rays at the outer edges to be bent less strongly, and thus help
+to reduce spherical aberration. Chromatic aberration is partially compensated for
+because the lens absorbs the shorter wavelengths appreciably and the retina is less
+sensitive to t

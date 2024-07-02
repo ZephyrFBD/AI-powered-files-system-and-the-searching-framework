@@ -1,0 +1,113 @@
+= (40.0 N)(0.707) = 28.3 N.
+F
+Ax = F
+A cos 45.0° = (40.0 N)(0.707) = 28.3 N,
+F
+B
+A
+EXAMPLE 4;9
+F
+R = 3(100 N)2 + (100 N)2 = 141 N.
+SECTION 4–7
+Solving Problems with Newton’s Laws: Free-Body Diagrams
+87
+FB = 100 N
+FA = 100 N
+(a)
+(b)
+45°
+B
+A
+R =
++
+B
+A
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 4;18 (a) Two horizontal
+forces,
+and 
+exerted by 
+workers A and B, act on a crate 
+(we are looking down from above).
+(b) The sum, or resultant, of 
+and 
+is F
+B
+R.
+F
+B
+B
+F
+B
+A
+F
+B
+B,
+F
+B
+A
+(b)
+(c)
+(a)
+y
+x
+y
+x
+θ
+45.0°
+37.0°
+FA  =  40.0 N
+FB  =  30.0 N
+y
+x
+A
+B
+A
+By
+Bx
+Ry
+Rx
+R
+B
+Ax
+Ay
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 4;19 Example 4–9: Two
+force vectors act on a boat.
+P R O B L E M  S O L V I N G
+Free-body diagram
+88
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+C A U T I O N
+Treating an object as a particle
+The hockey puck. A hockey puck is 
+sliding at constant velocity across a flat horizontal ice surface that is assumed 
+to be frictionless. Which of the sketches in Fig. 4–20 is the correct free-body 
+diagram 

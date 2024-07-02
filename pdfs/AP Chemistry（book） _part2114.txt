@@ -1,0 +1,22 @@
+Brownian motion. In 1905, Einstein developed an equation for the 
+average square of the displacement of a colloidal particle, a historically very important 
+development. As you might expect, the larger the colloidal particle, the shorter its mean 
+free path in a given liquid (Table 13.6). Today, the understanding of Brownian motion is 
+applied to diverse problems in everything from cheese-making to medical imaging.
+Our blood contains the complex protein hemoglobin, which car-
+ries oxygen from the lungs to other parts of the body. In the genetic 
+disease sickle-cell anemia, hemoglobin molecules are abnormal and 
+have a lower solubility in water, especially in their unoxygenated 
+form. Consequently, as much as 85% of the hemoglobin in red blood 
+cells crystallizes out of solution.
+The cause of the insolubility is a structural change in one part 
+of an amino acid. Normal hemoglobin molecules contain an amino 
+acid that has a ¬CH2CH2COOH group:
+O
+C
+OH
+CH2
+CH2
+Normal
+Normal
+The polarity of 

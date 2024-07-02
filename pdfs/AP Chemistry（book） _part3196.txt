@@ -1,0 +1,43 @@
+u2+ is E °
+red (cathode). Know-
+ing E °
+cell and E °
+red (anode), we can use Equation 20.8 to solve for 
+E °
+red (cathode).
+ 
+SECTION 20.4   
+Cell Potentials under Standard Conditions 
+863
+Continued
+864 
+CHAPTER 20 Electrochemistry
+Solve
+ 
+E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2
+ 
+1.10 V = E°
+red 1cathode2 - 1-0.76 V2
+ 
+E°
+red 1cathode2 = 1.10 V - 0.76 V = 0.34 V
+Check This standard reduction potential agrees with the one listed 
+in Table 20.1.
+Comment The standard reduction potential for Cu2+ can be rep-
+resented as E°
+Cu2+ = 0.34 V and that for Zn2+ as E°
+Zn2+ = -0.76 V. 
+The subscript identifies the ion that is reduced in the reduction 
+half-reaction.
+ 
+▶Practice Exercise 1
+A voltaic cell based on the reaction 
+2 Eu2+1aq2 + Ni2+1aq2 ¡ 2 Eu3+1aq2 + Ni1s2 generates 
+E°
+cell = 0.07 V. Given the standard reduction potential of 
+Ni2+ given in Table 20.1, what is the standard reduction 
+potential for the reaction Eu3+1aq2 + e- ¡ Eu2+1aq2?  
+(a) -0.35 V (b) 0.35 V (c) -0.21 V (d) 0.21 

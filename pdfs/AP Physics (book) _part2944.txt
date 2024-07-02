@@ -1,0 +1,27 @@
+
+C A U T I O N
+Most physicists prefer
+to consider the mass
+of a particle as fixed
+SECTION 26–9
+E = mc2; Mass and Energy
+761
+We can rearrange Eq. 26–5b to get
+We call 
+the total energy E of the particle (assuming no potential energy),
+because it equals the rest energy plus the kinetic energy:
+(26–6a)
+The total energy† can also be written, using Eqs. 26–5, as
+(26–6b)
+For a particle at rest in a given reference frame, ke is zero in Eq. 26–6a, so
+the total energy is its rest energy:
+(26–7)
+Here we have Einstein’s famous formula,
+This formula mathematically
+relates the concepts of energy and mass. But if this idea is to have any physical
+meaning, then mass ought to be convertible to other forms of energy and vice
+versa. Einstein suggested that this might be possible, and indeed changes of mass
+to other forms of energy, and vice versa, have been experimentally confirmed
+countless times in nuclear and elementary particle physics. For example, an elec-
+tron and a positron (
+a positive electron

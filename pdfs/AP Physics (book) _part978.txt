@@ -1,0 +1,25 @@
+at is, at a 38° angle (Fig. 9–34b).
+F
+V,
+F
+H
+1.2 * 106 kg
+EXAMPLE 9;13
+An object at rest is said to be in equilibrium. The subject con-
+cerned with the determination of the forces within a structure
+at rest is called statics.
+The two necessary conditions for an object to be in equi-
+librium are (1) the vector sum of all the forces on it must 
+be zero, and (2) the sum of all the torques (calculated about
+any arbitrary axis) must also be zero. For a two-dimensional
+problem we can write
+(9;1, 9;2)
+It is important when doing statics problems to apply the
+equilibrium conditions to only one object at a time.
+An object in static equilibrium is said to be in (a) stable,
+(b) unstable, or (c) neutral equilibrium, depending on whether a
+slight displacement leads to (a) a return to the original position,
+(b) further movement away from the original position, or 
+(c) rest in the new position. An object in stable equilibrium is
+also said to be in balance.
+Hooke’s law applies to many elastic solids, a

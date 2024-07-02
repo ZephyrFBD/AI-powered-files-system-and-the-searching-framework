@@ -1,0 +1,53 @@
+ holes into the
+valence band, and before the electrons have time to combine with holes, they
+form an inverted population. When one electron drops down into a hole and
+emits a photon, that photon stimulates other electrons to drop down as well,
+in phase, creating coherent laser light. Opposite ends of the crystal are made 
+parallel and very smooth so they act as the mirrors needed for lasing, as shown 
+in our laser diagram, Fig. 28–18.
+*
+O2
+
+(O2)
+*
+FIGURE 29–35 LED flashlights.
+Note the tiny LEDs, each maybe
+in diameter.
+1
+2 cm
+FIGURE 29–36 A pulse oximeter.
+*SECTION 29–9
+849
+FIGURE 29–39 Head up displays 
+on curved windshields can use
+curved OLEDs to show, for
+example, your speed without having
+to look down at the speedometer.
+Diamine
+Alq3
+CH3
+CH3
+CH3
+CH3
+N
+N
+N
+N
+N
+O
+O
+O
+Al
+FIGURE 29–37 These two organic
+molecules were used in the first
+OLEDs (1987). The hexagons have
+carbon at each corner, and an
+attached hydrogen, unless otherwise
+noted.
+
+
+p-type
+n-type
+Cathode
+Emissive layer
+Cond

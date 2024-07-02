@@ -1,0 +1,21 @@
+re, ∆n = 2 - 1 = 1,  and Kp = Kc1RT2, for this re-
+action. In our derivation gas pressures are expressed as atmospheres and concentra-
+tions in moles per liter, thus the appropriate form of the gas constant is R = 0.08206 
+L-atm/mol-K.
+Give It Some Thought
+Is it possible to have a reaction where Kc = Kp? If so, under what conditions would 
+this relationship hold?
+For the Haber process,
+N21g2 + 3 H21g2 ∆ 2 NH31g2
+Kc = 9.60 at 300 °C. Calculate Kp for this reaction at this temperature.
+Sample Exercise 15.2
+ Converting between Kc and Kp
+SOLUTION
+Analyze We are given Kc for a reaction and asked to calculate Kp.
+Plan The relationship between Kc and Kp is given by Equation 15.15. 
+To apply that equation, we must determine ∆n by comparing the 
+number of moles of product with the number of moles of reactants 
+(Equation 15.16).
+Solve With 2 mol of gaseous products 12 NH32 and 4 mol of gaseous 
+reactants 11 N2 + 3 H22, ∆n = 2 - 4 = -2. (Remember that ∆ 
+functions are always based on products min

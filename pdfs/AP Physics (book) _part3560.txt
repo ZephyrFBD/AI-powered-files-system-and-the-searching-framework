@@ -1,0 +1,39 @@
+e the cyclotron.
+APPROACH The frequency of the protons revolving within the dees (Eq. 32–2)
+must equal the frequency of the voltage applied across the gap if the protons are
+going to increase in speed.
+SOLUTION (a) From Eq. 32–2,
+which is in the radio-wave region of the EM spectrum (Fig. 22–8).
+(b) The protons leave the cyclotron at 
+From 
+(see above), we have
+so their kinetic energy is
+NOTE The kinetic energy is much less than the rest energy of the proton
+(938 MeV), so relativity is not needed.
+NOTE The magnitude of the voltage applied to the dees does not appear in the
+formula for 
+, and so does not affect the final energy. But the higher this
+voltage, the fewer the revolutions required to bring the protons to full energy.
+ke
+=
+A1.6 * 10–19 CB
+2(1.7 T)2(0.25 m)2
+(2)A1.67 * 10–27 kgB
+= 1.4 * 10–12 J = 8.7 MeV.
+ke = 1
+2 mv2 = 1
+2 m q2B2R2
+m2
+= q2B2R2
+2m
+v = qBrm,
+qvB = mv2r
+r = R = 0.25 m.
+=
+A1.6 * 10–19 CB(1.7 T)
+(6.28)A1.67 * 10–27 kgB
+= 2.6 * 107 Hz = 26 MHz,
+f =
+qB
+2pm
+R = 0.25 

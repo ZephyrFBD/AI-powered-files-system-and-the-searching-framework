@@ -1,0 +1,18 @@
+ure 6.7). Light 
+shining on a clean metal surface causes electrons to be emitted from the surface. 
+A minimum frequency of light, different for different metals, is required for the 
+ 
+emission of electrons. For example, light with a frequency of 4.60 * 1014 s - 1 or 
+greater causes cesium metal to emit electrons, but if the light has frequency less than 
+that, no electrons are emitted.
+To explain the photoelectric effect, Einstein assumed that the radiant energy strik-
+ing the metal surface behaves like a stream of tiny energy packets. Each packet, which is 
+like a “particle” of energy, is called a photon. Extending Planck’s quantum theory, Ein-
+stein deduced that each photon must have an energy equal to the Planck constant times 
+the frequency of the light:
+ 
+Energy of photon = E = hn 
+[6.3]
+Thus, radiant energy itself is quantized.
+Under the right conditions, photons striking a metal surface can transfer their 
+energy to electrons in the metal. A certain amount of energy—called the 

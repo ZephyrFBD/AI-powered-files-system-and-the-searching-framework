@@ -1,0 +1,18 @@
+buted in energy over a wide 
+range. 
+ (Section 10.7) Figure 14.17 shows the distribution of kinetic energies for two 
+temperatures, comparing them with the minimum energy needed for reaction, Ea. At the 
+higher temperature a much greater fraction of the molecules have kinetic energy greater 
+than Ea, which leads to a greater rate of reaction.
+Give It Some Thought
+Suppose we have two reactions, A ¡ B and B ¡ C. You can isolate B, and it 
+is stable. Is B the transition state for the reaction A ¡ C?
+For a collection of molecules in the gas phase, the fraction of molecules that have 
+kinetic energy equal to or greater than Ea is given by the expression
+ 
+f = e-Ea>RT 
+[14.20]
+In this equation, R is the gas constant 18.314 J>mol@K2 and T is the absolute temperature. To 
+get an idea of the magnitude of f, let’s suppose that Ea is 100 kJ>mol, a value typical of many 
+reactions, and that T is 300 K. The calculated value of f is 3.9 * 10-18, an extremely small 
+number! At 320 K, f = 4.7 * 10-17.

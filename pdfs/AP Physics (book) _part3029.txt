@@ -1,0 +1,34 @@
+ this equation, E refers to the energy of a
+particle; and on the other side of the equation, we have the frequency f of the
+corresponding wave.
+27–8 Wave Nature of Matter
+In 1923, Louis de Broglie (1892–1987) extended the idea of the wave–particle
+duality. He appreciated the symmetry in nature, and argued that if light some-
+times behaves like a wave and sometimes like a particle, then perhaps those things
+in nature thought to be particles—such as electrons and other material objects—
+might also have wave properties. De Broglie proposed that the wavelength of a
+material particle would be related to its momentum in the same way as for a photon,
+Eq. 27–6,
+That is, for a particle having linear momentum 
+the wavelength is given by
+(27;8)
+and is valid classically (
+for 
+) and relativistically
+This is sometimes called the de Broglie wavelength of a 
+particle.
+mv31 - v2c2B.
+Ap = gmv =
+v V c
+p = mv
+l =
+h
+p
+,
+l
+p = mv,
+p = hl.
+E = hf
+782
+CHAPTER 27
+Early Quantum Theory and Models of the Atom

@@ -1,0 +1,13 @@
+in Kb denotes that the equilibrium constant refers 
+to a particular type of reaction, namely, the ionization of a weak base in water. The con-
+stant Kb, the base-dissociation constant, always refers to the equilibrium in which a base 
+reacts with H2O to form the corresponding conjugate acid and OH-.
+Table 16.4 lists the Lewis structures, conjugate acids, and Kb values for a number of 
+weak bases in water. Appendix D includes a more extensive list. These bases contain one 
+or more lone pairs of electrons because a lone pair is necessary to form the bond with H+. 
+Notice that in the neutral molecules in Table 16.4, the lone pairs are on nitrogen atoms. 
+The other bases listed are anions derived from weak acids.
+Types of Weak Bases
+Weak bases fall into two general categories. The first category is neutral substances that 
+have an atom with a nonbonding pair of electrons that can accept a proton. Most of these 
+bases, including all uncharged bases in Table 16.4, contain a nitrogen atom. Th

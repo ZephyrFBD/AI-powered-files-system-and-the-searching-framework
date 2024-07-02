@@ -1,0 +1,30 @@
+ in the H2O—the masses of C and H in the alcohol 
+before combustion. The mass of O in the compound equals the mass 
+of the original sample minus the sum of the C and H masses. Once we 
+have the C, H, and O masses, we can proceed as in Sample Exercise 3.13.
+ 
+Check We can have confidence in the result because dividing mo-
+lecular weight by empirical formula weight yields nearly a whole 
+number.
+ 
+▶Practice Exercise 1
+Cyclohexane, a commonly used organic solvent, is 85.6% C 
+and 14.4% H by mass with a molar mass of 84.2 g>mol.  
+What is its  
+molecular formula?  
+(a) C6H (b) CH2 (c) C5H24 (d) C6H12 (e) C4H8
+ 
+▶Practice Exercise 2
+Ethylene glycol, used in automobile antifreeze, is 38.7% C, 
+9.7% H, and 51.6% O by mass. Its molar mass is 62.1 g/mol.  
+(a) What is the empirical formula of ethylene glycol? (b) What 
+is its molecular formula?
+O2
+Sample
+Furnace
+H2O absorber
+CO2 absorber
+Sample combusted,
+producing CO2 and H2O
+Mass gained by each absorber corresponds to mass of
+CO2 or H2O produ

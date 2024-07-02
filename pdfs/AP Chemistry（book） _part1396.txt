@@ -1,0 +1,13 @@
+ual in magnitude. A plot of the molecule’s electron density clearly 
+shows that the individual bonds are polar, but what can we say about the overall dipole 
+moment of the molecule?
+Bond dipoles and dipole moments are vector quantities; that is, they have both a mag-
+nitude and a direction. The dipole moment of a polyatomic molecule is the vector sum 
+of its bond dipoles. Both the magnitudes and the directions of the bond dipoles must 
+be considered when summing vectors. The two bond dipoles in CO2, although equal 
+in magnitude, are opposite in direction. Adding them is the same as adding two num-
+bers that are equal in magnitude but opposite in sign, such as 100 + 1-1002. The bond 
+dipoles, like the numbers, “cancel” each other. Therefore, the dipole moment of CO2 is 
+zero, even though the individual bonds are polar. The geometry of the molecule dictates 
+that the overall dipole moment be zero, making CO2 a nonpolar molecule.
+Now let’s consider H2O, a bent molecule with two polar bond

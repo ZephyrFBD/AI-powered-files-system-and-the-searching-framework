@@ -1,0 +1,30 @@
+How many elementary reactions are in the reaction 
+mechanism? (b) How many intermediates are formed in 
+the reaction? (c) Which step is rate limiting? (d) For the 
+overall reaction, is ∆E positive, negative, or zero?
+ 14.71 The following mechanism has been proposed for the gas-
+phase reaction of H2 with ICl:
+ H21g2 + ICl1g2 ¡ HI1g2 + HCl1g2
+HI1g2 + ICl1g2 ¡ I21g2 + HCl1g2
+ 
+ (a) Write the balanced equation for the overall reaction. 
+(b) Identify any intermediates in the mechanism. (c) If 
+Time
+(under conditions
+of constant [Cl2])
+1/[NO]
+(a) Is the following mechanism consistent with the data?
+ 
+   NO1g2 + Cl21g2 ∆NOCl21g2  1fast2
+ 
+NOCl21g2 + NO1g2 ¡ 2 NOCl1g2  1slow2
+(b) Does the linear plot guarantee that the overall rate 
+law is second order?
+ 14.74 You have studied the gas-phase oxidation of HBr by O2:
+4 HBr1g2 + O21g2 ¡ 2 H2O1g2 + 2 Br21g2
+ 
+ You find the reaction to be first order with respect to HBr 
+and first order with respect to O2. You propose the follow-
+ing mechanism:
+ 
+ 

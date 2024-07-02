@@ -1,0 +1,31 @@
+s than 10. For 
+example, if we begin with 0.0048 and move the decimal point three places to the right, 
+we end up with 4.8 * 10-3.
+In the system of exponential notation, with each shift of the decimal point one 
+place to the right, the exponent decreases by 1:
+4.8 * 10-3 = 48 * 10-4
+Similarly, with each shift of the decimal point one place to the left, the exponent 
+increases by 1:
+4.8 * 10-3 = 0.48 * 10-2
+Many scientific calculators have a key labeled EXP or EE, which is used to enter num-
+bers in exponential notation. To enter the number 5.8 * 103 on such a calculator, the 
+key sequence is
+5
+8
+.
+EE
+or
+3
+1
+2
+EXP
+On some calculators the display will show 5.8, then a space, followed by 03, the 
+exponent. On other calculators, a small 10 is shown with an exponent 3.
+To enter a negative exponent, use the key labeled + > - . For example, to enter the 
+number 8.6 * 10-5, the key sequence is
+8
+EXP
+6
+.
++ > - 5
+When entering a number in exponential notation, do not key in the 10 if you use the

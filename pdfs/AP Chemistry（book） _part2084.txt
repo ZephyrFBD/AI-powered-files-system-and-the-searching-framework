@@ -1,0 +1,20 @@
+-
+resenting the solid–liquid equilibrium rises nearly vertically from the triple point. It is 
+easy to see in Figure 13.21 that the triple-point temperature of the solution is lower than 
+that of the pure liquid, but it is also true for all points along the solid–liquid equilibrium 
+curve: the freezing point of the solution is lower than that of the pure liquid.
+Like the boiling-point elevation, the change in freezing point ∆T
+f is directly propor-
+tional to solute molality, taking into account the van’t Hoff factor i:
+ 
+∆T
+f = T
+f 1solution2 -  T
+f 1solvent2 = -iKf m 
+[13.13]
+The proportionality constant Kf is the molal freezing-point-depression constant, 
+analogous to Kb for boiling-point elevation. Note that because the solution freezes at a 
+lower temperature than does the pure solvent, the value of ∆T
+f is negative.
+Some typical values of Kb and Kf for several common solvents are given in Table 13.3. 
+For water, the table shows Kb = 0.51 °C>m, which means that the boiling point of

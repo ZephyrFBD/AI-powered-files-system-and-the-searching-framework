@@ -1,0 +1,18 @@
+ts, as illustrated in Sample 
+Exercise 15.11. The calculations frequently involve the quadratic formula, as you will 
+see in this exercise.
+A 1.000-L flask is filled with 1.000 mol of H21g2 and 2.000 mol of I21g2 at 448 °C. The value of the equilibrium constant Kc for 
+the reaction
+H21g2 + I21g2 ∆ 2 HI1g2
+at 448 °C is 50.5. What are the equilibrium concentrations of H2, I2, and HI in moles per liter?
+Solve
+(1) We note the initial concentrations of 
+H2 and I2:
+Analyze We are given the volume of a container, an equilibrium 
+constant, and starting amounts of reactants in the container and 
+are asked to calculate the equilibrium concentrations of all species.
+Plan In this case, we are not given any of the equilibrium concen-
+trations. We must develop some relationships that relate the initial 
+concentrations to those at equilibrium. The procedure is similar in 
+many regards to that outlined in Sample Exercise 15.8, where we 
+calculated an equilibrium constant using initial concentrations.

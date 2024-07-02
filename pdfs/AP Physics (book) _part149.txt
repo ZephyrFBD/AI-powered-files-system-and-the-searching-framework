@@ -1,0 +1,63 @@
+alogy to instantaneous
+velocity as the average acceleration over an infinitesimally short time interval at
+a given instant:
+[instantaneous acceleration]
+(2;5)
+Here 
+is the very small change in velocity during the very short time interval ¢t.
+¢v
+a =
+lim
+¢t S 0
+¢v
+¢t
+.
+–
+±,
+a = v2 - v1
+t2 - t1
+=
+¢v
+¢t
+.
+¢v = v2 - v1 ,
+¢t = t2 - t1,
+a
+average acceleration = change of velocity
+time elapsed
+.
+80 kmh
+Acceleration
+a =  15 km/h
+s
+v1 =  0
+t1 =  0
+at t =  2.0 s
+    v =  30 km/h
+at t =  1.0 s
+    v =  15 km/h
+at t = t2 =  5.0 s
+    v = v2 =  75 km/h
+FIGURE 2;10 Example 2–4. The car
+is shown at the start with
+at
+The car is shown three more
+times, at
+and at
+the end of our time interval,
+The green arrows represent the
+velocity vectors, whose length 
+represents the magnitude of the
+velocity at that moment. The 
+acceleration vector is the orange
+arrow, whose magnitude is constant
+and equals 
+or 
+(see top of next page). Distances are
+not to scale.
+4.2 ms2
+15 kmhs
+t2 = 5.0 s.
+t = 2.0 s,
+t = 1.0 s,
+t

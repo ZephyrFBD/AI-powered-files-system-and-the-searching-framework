@@ -1,0 +1,42 @@
+am
+scanner, there are detectors around 
+the entire 360° of the circle which 
+remain fixed as the source moves.
+(b) In still another type, a beam of
+electrons from a source is directed by
+magnetic fields at tungsten targets
+surrounding the patient.
+Detector
+array
+(a)
+(b)
+Detector ring
+Tungsten
+target rings
+(X-rays created)
+Patient table
+Electron
+source
+Electron
+beam
+Magnetic
+deflection
+coil
+X-rays
+X-ray
+source
+FIGURE 25–44 Two CT images,
+with different resolutions, each
+showing a cross section of a brain.
+Photo (a) is of low resolution;
+photo (b), of higher resolution, shows
+a brain tumor, and uses false color to
+highlight it.
+(b)
+(a)
+To suggest how mathematical reconstruction is done, we consider a very simple
+case using the iterative technique (“to iterate” is from the Latin “to repeat”).
+Suppose our sample slice is divided into the simple 
+pixels as shown in
+Fig. 25–45. The number inside each pixel represents the amount of absorption by
+the material in that area (say, in tenths of a 

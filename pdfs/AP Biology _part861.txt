@@ -1,0 +1,24 @@
+solution; rerun
+the same DNA at a lower voltage.
+You have two identical cultures of E. coli bacteria: culture A and
+culture B. You transform culture A, heat shocking it in the presence
+of a plasmid that is resistant to ampicillin. You transform culture B,
+heat shocking it in the presence of a plasmid that is resistant to
+tetracycline. You then prepare four agar Petri dishes, with and
+without antibiotic, as shown on the following table.
+Plate I
+With ampicillin only
+Plate II
+With tetracycline only
+Plate III
+With no antibiotics
+Plate IV
+With both antibiotics
+What do you predict will be the results of plating the bacteria from
+culture A and culture B on all four agar Petri dishes, if both cultures
+of bacteria took up the plasmids they were exposed to?
+Bacteria B will grow on plates II and III only.
+Bacteria A will grow on plate I only.
+Bacteria B will grow on plate III only.
+Bacteria A will grow on plates I, II, and III.
+The allele for the hair pattern called widow’s peak is dominant over

@@ -1,0 +1,17 @@
+drogen 
+atom. You will notice that these plots look distinctly different from 
+the radial probability functions shown in Figure 6.19.
+As shown in Figure 6.21, the collection of points a distance r 
+from the nucleus is the surface of a sphere of radius r. The prob-
+ability density at each point on that spherical surface is 3c1r242. To 
+add up all the individual probability densities requires calculus 
+and so is beyond the scope of this text. However, the result of 
+that calculation tells us that the radial probability function is the 
+probability density, 3c1r242, multiplied by the surface area of the 
+sphere, 4pr2:
+Radial probability function at distance r = 4pr23c1r242
+Thus, the plots of radial probability function in Figure 6.19 are 
+equal to the plots of 3c1r242 in Figure 6.22 multiplied by 4pr2. The 
+fact that 4pr2 increases rapidly as we move away from the nucleus 
+makes the two sets of plots look very different from each other. For 
+example, the plot of 3c1r242 for the 3s orbital

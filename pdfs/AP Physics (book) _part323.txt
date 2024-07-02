@@ -1,0 +1,32 @@
+peed.
+74. A ball is shot from the top of a building with an initial
+velocity of 
+at an angle
+above the horizontal.
+(a) What are the horizontal and vertical components of the
+initial velocity? (b) If a nearby building is the same height
+and 55 m away, how far below the top of the building will
+the ball strike the nearby building?
+75. If a baseball pitch leaves the pitcher’s hand horizontally at
+a velocity of 
+by what % will the pull of gravity
+change the magnitude of the velocity when the ball reaches
+the batter, 18 m away? For this estimate, ignore air resis-
+tance and spin on the ball.
+150 kmh,
+u = 42°
+18 ms
+28 ms
+θ
+v0
+0
+h
+FIGURE 3;59 Search and Learn 1.
+1. Here is something to try at a sporting event. Show that
+the maximum height h attained by an object projected
+into the air, such as a baseball, football, or soccer ball, is
+approximately given by
+where 
+is the total time of flight for the object in sec-
+onds. Assume that the object returns to the same level
+as that from which it 

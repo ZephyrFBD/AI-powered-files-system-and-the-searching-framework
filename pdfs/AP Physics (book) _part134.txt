@@ -1,0 +1,21 @@
+le model is useful in
+many real situations where we are interested only in translational motion and
+the object’s size is not significant. For example, we might consider a billiard ball,
+or even a spacecraft traveling toward the Moon, as a particle for many purposes.
+2–1 Reference Frames and Displacement
+Any measurement of position, distance, or speed must be made with respect to a
+reference frame, or frame of reference. For example, while you are on a train
+traveling at 
+suppose a person walks past you toward the front of the
+train at a speed of, say,
+(Fig. 2–2). This 
+is the person’s speed 
+with respect to the train as frame of reference. With respect to the ground,
+that person is moving at a speed of 
+It is always
+important to specify the frame of reference when stating a speed. In everyday
+life, we usually mean “with respect to the Earth” without even thinking about it,
+but the reference frame must be specified whenever there might be confusion.
+80 kmh + 5 kmh = 85 kmh.
+5 kmh
+5 

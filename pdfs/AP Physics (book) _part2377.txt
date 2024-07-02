@@ -1,0 +1,45 @@
+ charge flows readily toward the plates and the current I is large.
+As the voltage approaches its maximum of 
+(point b in Fig. 21–41b), the charge
+that has accumulated on the plates tends to prevent more charge from flowing, so
+the current I drops to zero at point b. Thus the current follows the blue curve in
+Fig. 21–41b. Like an inductor, the voltage and current are out of phase by 90°.
+But for a capacitor, the current reaches its peaks
+cycle before the voltage does,
+so we say that the
+current leads the voltage by 90° for a capacitor.
+Because the current and voltage are out of phase, the average power dissipated is
+zero, just as for an inductor. Thus only a resistance will dissipate energy as thermal
+energy in an ac circuit.
+1
+4
+V
+0
+V = QC,
+0
+t
+V
+I
+I
+C
+(a)
+(b)
+a
+b
+c
+d
+V
+I = I0 cos 2π ft
+V = V
+0 sin 2π ft
+V0
+I0
+FIGURE 21–41 (a) Capacitor
+connected to an ac source.
+(b) Current leads voltage by
+a quarter cycle, or 90°.
+C A U T I O N
+Only resistance dissipates
+energy
+*SECTION 21–13
+AC Ci

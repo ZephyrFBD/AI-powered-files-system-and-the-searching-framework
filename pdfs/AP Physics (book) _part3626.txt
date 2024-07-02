@@ -1,0 +1,33 @@
+ent agreement with the
+measured values of 
+(and similar accuracy for the 
+).
+The combination of electroweak theory plus QCD for the strong interaction
+is referred to today as the Standard Model (SM) of fundamental particles.
+Range of weak force. The weak nuclear force
+is of very short range, meaning it acts over only a very short distance. Estimate
+its range using the masses (Table 32–2) of the 
+and Z:
+or
+APPROACH We assume the 
+or 
+exchange particles can exist for a 
+time 
+given by the uncertainty principle (Section 28–3),
+where
+is the energy needed to create the virtual particle 
+that
+carries the weak force.
+SOLUTION Let 
+be the distance the virtual W or Z can move before it must
+be reabsorbed within the time 
+To find an upper limit on 
+and
+hence the maximum range of the weak force, we let the W or Z travel close to
+the speed of light, so
+Recalling that 
+then
+This is indeed a very small range.
+NOTE Compare this to the range of the electromagnetic force whose range is
+infinite (
+never

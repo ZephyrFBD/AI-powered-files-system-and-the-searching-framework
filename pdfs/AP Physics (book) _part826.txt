@@ -1,0 +1,21 @@
+–16 is an example. Since we are
+assuming the axis remains fixed in direction, either there can be no such forces 
+or else the axis must be mounted in bearings or hinges that hold the axis fixed.
+Thus, only a force, or component of a force (
+in Fig. 8–16), in a plane perpen-
+dicular to the axis will give rise to rotational acceleration about the axis.
+8–5 Rotational Dynamics;
+Torque and Rotational Inertia
+We discussed in Section 8–4 that the angular acceleration 
+of a rotating object is
+proportional to the net torque applied to it:
+We write 
+to remind us that it is the net torque (sum of all torques acting on 
+the object) that is proportional to 
+This corresponds to Newton’s second law 
+for translational motion,
+In the translational case, the acceleration is
+not only proportional to the net force, but it is also inversely proportional to the
+inertia of the object, which we call its mass, m. Thus we wrote 
+. But
+what plays the role of mass for the rotational case? That is what we now set

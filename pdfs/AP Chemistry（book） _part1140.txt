@@ -1,0 +1,61 @@
+e Earth Metals
+Element
+Electron 
+Configuration
+Melting  
+Point 1°C2
+Density 
+1g,cm32
+Atomic 
+Radius (Å)
+I1  
+1kJ,mol2
+Beryllium
+3He42s2
+1287
+1.85
+0.96
+899
+Magnesium
+3Ne43s2
+650
+1.74
+1.41
+738
+Calcium
+3Ar44s2
+842
+1.55
+1.76
+590
+Strontium
+3Kr45s2
+777
+2.63
+1.95
+549
+Barium
+3Xe46s2
+727
+3.51
+2.15
+503
+ 
+SECTION 7.8   
+Trends for Selected Nonmetals 
+283
+Equations 7.22 and 7.23 illustrate the dominant pattern in the reactivity of the alka-
+line earth elements: They tend to lose their two outer s electrons and form 2+ ions. For 
+example, magnesium reacts with chlorine at room temperature to form MgCl2 and burns 
+with dazzling brilliance in air to give MgO:
+ 
+Mg1s2 + Cl21g2 ¡ MgCl21s2 
+[7.24]
+ 
+2 Mg1s2 + O21g2 ¡ 2 MgO1s2 
+[7.25]
+In the presence of O2, magnesium metal is protected by a thin coating of water- 
+insoluble MgO. Thus, even though Mg is high in the activity series 
+ (Section 4.4), it 
+can be incorporated into lightweight structural alloys used in, for example, automobile 
+wheels. The heav

@@ -1,0 +1,19 @@
+ electrical resistors in parallel.
+530
+CHAPTER 19
+DC Circuits
+Series and parallel resistors. Two 
+resistors are con-
+nected (a) in parallel, and (b) in series, to a 24.0-V battery (Fig. 19–6). What is the
+current through each resistor and what is the equivalent resistance of each circuit?
+APPROACH We use Ohm’s law and the ideas just discussed for series and parallel
+connections to get the current in each case. We can also use Eqs. 19–3 and 19–4.
+SOLUTION (a) Any given charge (or electron) can flow through only one or
+the other of the two resistors in Fig. 19–6a. Just as a river may break into two
+streams when going around an island, here too the total current I from the
+battery (Fig. 19–6a) splits to flow through each resistor, so I equals the sum of
+the separate currents through the two resistors:
+The potential difference across each resistor is the battery voltage 
+Applying Ohm’s law to each resistor gives
+The equivalent resistance is
+We could also have obtained this result from Eq. 

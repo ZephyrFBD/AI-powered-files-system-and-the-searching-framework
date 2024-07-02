@@ -1,0 +1,121 @@
+th 
+(
+)
+dN
+K
+N
+r
+N
+dt
+K
+-
+max
+=
+ 
+Temperature Coefficient Q10 
+2
+1
+10
+2
+10
+1
+Q
+T
+T
+k
+k
+
+
+
+
+
+
+
+ 
+Primary Productivity Calculation 
+2
+2
+mg O
+mL O
+0.698 mL
+×
+ = 
+L
+mg
+L
+ 
+2
+2
+mL O
+0.536 mg C fixed
+mg C fixed
+×
+ = 
+L
+mL O  
+L
+(at standard temperature and pressure) 
+dY = amount of change 
+dt = change in time 
+B = birth rate 
+D = death rate 
+N = population size 
+K = carrying capacity 
+rmax = maximum per capita  
+growth rate of population 
+Surface Area and Volume 
+Volume of a Sphere 
+3
+4
+3
+V
+r
+p
+=
+ 
+Volume of a Rectangular Solid 
+V
+wh
+= 
+ 
+Volume of a Right Cylinder 
+2
+V
+r h
+p
+=
+ 
+Surface Area of a Sphere 
+2
+4
+A
+r
+p
+=
+ 
+Surface Area of a Cube 
+2
+6
+A
+s
+=
+ 
+Surface Area of a Rectangular Solid 
+surface area of each side
+A = Â
+ 
+r = radius  
+ = length 
+h = height 
+w = width 
+s = length of one 
+side of a cube 
+A = surface area 
+V = volume 
+ = sum of all 
+Gibbs Free Energy 
+ΔG = ΔH – TΔS 
+ΔG = change in Gibbs free energy 
+ΔS = change in entropy 
+ΔH = change in enthalpy  
+T = absolute tem

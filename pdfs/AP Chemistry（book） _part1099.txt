@@ -1,0 +1,17 @@
+fluence atomic size also influence ionization energies. The energy needed to remove 
+an electron from the outermost occupied shell depends on both the effective nuclear 
+charge and the average distance of the electron from the nucleus. Either increasing the 
+effective nuclear charge or decreasing the distance from the nucleus increases the attrac-
+tion between the electron and the nucleus. As this attraction increases, it becomes more 
+difficult to remove the electron, and, thus, the ionization energy increases. As we move 
+across a period, there is both an increase in effective nuclear charge and a decrease in 
+atomic radius, causing the ionization energy to increase. As we move down a column, 
+the atomic radius increases, while the effective nuclear charge increases only gradually. 
+The increase in radius dominates, so the attraction between the nucleus and the electron 
+decreases, causing the ionization energy to decrease.
+ 
+SECTION 7.4   
+Ionization Energy 
+269
+270 
+CHAPTER 7 Perio

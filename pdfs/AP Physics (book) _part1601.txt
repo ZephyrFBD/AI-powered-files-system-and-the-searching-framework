@@ -1,0 +1,17 @@
+ts validity rests on experiments (such as Joule’s) to
+which no exceptions have been seen. Since Q and W represent energy transferred
+into or out of the system, the internal energy changes accordingly. Thus, the first
+law of thermodynamics is a general statement of the law of conservation of energy.
+Note that the conservation of energy law was not able to be formulated until
+the 1800s, because it depended on the interpretation of heat as a transfer of energy.
+A given system does not “have”a certain amount of heat or work. Rather, work
+and heat are involved in thermodynamic processes that can change the system
+from one state to another; they are not characteristic of the state itself. Quantities
+which describe the state of a system, such as internal energy U, pressure P, volume V,
+temperature T, and mass m or number of moles n, are called state variables.
+Q and W are not state variables.
+¢U = Q + W.
+¢U = Q - W
+¢U,
+Using the first law. 2500 J of heat is added to a system,
+and 1800 J of wo

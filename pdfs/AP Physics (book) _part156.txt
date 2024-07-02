@@ -1,0 +1,29 @@
+so
+A common problem is to determine the velocity of an object after any elapsed
+time 
+when we are given the object’s constant acceleration. We can solve such
+problems† by solving for 
+in the last equation: first we multiply both sides by ,
+Then, adding 
+to both sides, we obtain
+[constant acceleration]
+(2;6)
+If an object, such as a motorcycle (Fig. 2–13), starts from rest
+and
+accelerates at 
+after an elapsed time
+its velocity will be
+Next, let us see how to calculate the position x of an object after a time when
+it undergoes constant acceleration. The definition of average velocity (Eq. 2–2)
+is
+which we can rewrite by multiplying both sides by
+(2;7)
+Because the velocity increases at a uniform rate, the average velocity,
+will be
+midway between the initial and final velocities:
+[constant acceleration]
+(2;8)
+(Careful: Equation 2–8 is not necessarily valid if the acceleration is not constant.)
+We combine the last two Equations with Eq. 2–6 and find, starting with Eq. 2–7,
+or
+[constant accel

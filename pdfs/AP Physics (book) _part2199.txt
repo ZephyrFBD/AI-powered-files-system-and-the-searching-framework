@@ -1,0 +1,36 @@
+you may have answered differently the first time.
+Magnetic force on a proton. A magnetic field exerts a
+force of 
+toward the west on a proton moving vertically upward at a
+speed of 
+(Fig. 20–16a). When moving horizontally in a northerly
+direction, the force on the proton is zero (Fig. 20–16b). Determine the magnitude
+and direction of the magnetic field in this region. (The charge on a proton is
+)
+APPROACH Since the force on the proton is zero when moving north, the field
+must be in a north–south direction (
+in Eq. 20–3). To produce a force to
+the west when the proton moves upward, right-hand-rule-3 tells us that 
+must
+point toward the north. (Your thumb points west and the outstretched fingers
+of your right hand point upward only when your bent fingers point north.)
+The magnitude of 
+is found using Eq. 20–3.
+SOLUTION Equation 20–3 with
+gives
+B =
+F
+qv =
+8.0 * 10–14 N
+A1.6 * 10–19 CBA5.0 * 106 msB
+= 0.10 T.
+u = 90°
+B
+B
+B
+B
+u = 0°
+q = ±e = 1.6 * 10–19 C.
+5.0 * 106 ms
+8.0 * 10–14 N
+EXAMP

@@ -1,0 +1,14 @@
+ed together at the
+axon hillock. If the EPSPs are strong enough to overcome the IPSPs and reach the threshold of excitation, the neuron
+will fire.
+1126
+Chapter 26 | The Nervous System
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Brain-computer interface
+Amyotrophic lateral sclerosis (ALS, also called Lou Gehrig’s Disease) is a neurological disease
+characterized by the degeneration of the motor neurons that control voluntary movements. The disease
+begins with muscle weakening and lack of coordination and eventually destroys the neurons that control
+speech, breathing, and swallowing; in the end, the disease can lead to paralysis. At that point, patients
+require assistance from machines to be able to breathe and to communicate. Several special technologies
+have been developed to allow “locked-in” patients to communicate with the rest of the world. One
+technology, for example, allows patients to type out sentences by twitching their cheek. These sentences

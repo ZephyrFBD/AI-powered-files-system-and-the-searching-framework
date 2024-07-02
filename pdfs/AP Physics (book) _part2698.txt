@@ -1,0 +1,68 @@
+s can be made with an interferometer. The
+motion of mirror 
+by only 
+produces a clear difference between brightness
+and darkness. For 
+this means a precision of 100 nm, or 
+If
+mirror 
+is tilted very slightly, the bright or dark spots are seen instead as a
+series of bright and dark lines or “fringes” that move as 
+moves. By counting
+the number of fringes (or fractions thereof) that pass a reference line, extremely
+precise length measurements can be made.
+M1
+M1
+10–4 mm!
+l = 400 nm,
+1
+4 l
+M1
+l
+M1
+l4
+l2
+l4,
+MS
+MS
+M1
+MS
+M2 ,
+MS
+MS.
+*
+(m = 0)
+2t = Am + 1
+2Bln,
+t = ln
+4
+=
+l
+4n =
+(550 nm)
+(4)(1.38) = 99.6 nm.
+2t = ln2 = l2n,
+ln = ln
+1
+2 ln
+2t
+n = 1.38.
+2t
+1
+2
+2t
+1
+2
+n = 1.50?
+n = 1.38
+MgF2
+EXAMPLE 24;12
+698
+CHAPTER 24
+†There are other types of interferometer, but Michelson’s is the best known.
+FIGURE 24–36 Lens coating,
+Example 24–12. Incident ray of light
+is partially reflected at the front
+surface of a lens coating (ray 1) and
+again partially reflected at the rear
+surface of the coatin

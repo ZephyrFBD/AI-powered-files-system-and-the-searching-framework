@@ -1,0 +1,35 @@
+ter pouring
+▲ Figure 11.16 Comparing viscosities. The 
+Society of Automotive Engineers (SAE) has 
+established a numeric scale to indicate 
+motor-oil viscosity.
+TABLE 11.3 Viscosities of a Series of Hydrocarbons at 20 °C
+Substance
+Formula
+Viscosity (kg/m-s)
+Hexane
+CH3CH2CH2CH2CH2CH3
+3.26 * 10-4
+Heptane
+CH3CH2CH2CH2CH2CH2CH3
+4.09 * 10-4
+Octane
+CH3CH2CH2CH2CH2CH2CH2CH3
+5.42 * 10-4
+Nonane
+CH3CH2CH2CH2CH2CH2CH2CH2CH3
+7.11 * 10-4
+Decane
+CH3CH2CH2CH2CH2CH2CH2CH2CH2CH3
+1.42 * 10-3
+SOLUTION
+Analyze We need to assess the intermolecular forces in these sub-
+stances and use that information to determine the relative boiling 
+points.
+Plan The boiling point depends in part on the attractive forces 
+in each substance. We need to order these substances according 
+to the relative strengths of the different kinds of intermolecular 
+attractions.
+Solve The attractive forces are stronger for ionic substances than 
+for molecular ones, so BaCl2 should have the highest boiling 
+point. The intermolecular force

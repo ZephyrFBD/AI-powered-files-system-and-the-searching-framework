@@ -1,0 +1,27 @@
+ com-
+pound is a low-spin or high-spin complex. (c) Since there is a 
+single peak in the visible absorption spectrum, the color of the 
+compound should be complementary to the color of light that is 
+absorbed most strongly. (d) Ethylenediamine is a stronger field 
+ligand than NH3, so we expect a larger ∆ for 3Co(en)343+ than for 
+3Co(NH3)643+.
+Solve
+(a) Co has an electron conﬁguration of 3Ar44s23d7, and Co3+ has 
+three fewer electrons than Co. Because transition-metal ions 
+always lose their valence shell s electrons, the electron conﬁg-
+uration of Co3+ is 3Ar43d6.
+(b) There are six valence electrons in the d orbitals. The ﬁlling of 
+the t2 and e orbitals for both high-spin and low-spin com-
+plexes is shown below. Because the compound is diamagnetic, 
+we know all of the electrons must be paired up, which allows 
+us to determine that 3Co(NH3)643+ is a low-spin complex.
+Low spin
+t2
+e
+∆
+High spin
+t2
+e
+∆
+(c) We are told that the compound is orange and has a single 
+absorption peak in the v

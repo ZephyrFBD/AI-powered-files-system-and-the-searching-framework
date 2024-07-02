@@ -1,0 +1,18 @@
+mes been inter-
+preted as an increase in the mass of an object. In this interpretation, a particle
+can have a relativistic mass,
+which increases with speed according to
+In this “mass-increase” formula, m is referred to as the rest mass of the object.
+With this interpretation, the mass of an object appears to increase as its speed
+increases. But there are problems with relativistic mass. If we plug it into formu-
+las like
+or
+we obtain formulas that do not agree with
+experiment. (If we write Newton’s second law in its more general form,
+that would get a correct result.) Also, be careful not to think a mass acquires
+more particles or more molecules as its speed becomes very large. It doesn’t.
+Today, most physicists prefer not to use relativistic mass, so an object has only
+one mass (its rest mass), and it is only the momentum that increases with speed.
+Whenever we talk about the mass of an object, we will always mean its rest
+mass (a fixed value). [But see Problem 46.]
+26–8 The Ultimate S

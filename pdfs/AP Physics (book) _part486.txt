@@ -1,0 +1,22 @@
+on the string with
+your hand displaced from the center of the circle. In athletics, a hammer thrower
+accelerates the hammer tangentially in a similar way so that it reaches a high speed
+before release.
+The tangential component of the acceleration,
+has magnitude equal to
+the rate of change of the magnitude of the object’s velocity:
+The radial (centripetal) acceleration arises from the change in direction of the
+velocity and, as we have seen (Eq. 5–1), has magnitude
+The tangential acceleration always points in a direction tangent to the circle, and
+is in the direction of motion (parallel to 
+which is always tangent to the circle) 
+if the speed is increasing, as shown in Fig. 5–15b. If the speed is decreasing,
+points antiparallel to 
+In either case,
+and 
+are always perpendicular 
+to each other; and their directions change continually as the object moves along
+its circular path. The total vector acceleration is the sum of the two components:
+Since 
+and 
+are always perpendicular to each oth

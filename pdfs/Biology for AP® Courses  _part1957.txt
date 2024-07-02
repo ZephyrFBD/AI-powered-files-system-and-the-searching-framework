@@ -1,0 +1,22 @@
+A biologist wants to determine whether a new protocol
+is successful in constructing and amplifying a molecular
+clone of a segment of DNA introduced as a plasmid. After
+the procedure is complete, the bacterial cells containing
+the plasmid with the inserted segment are lysed, and a gel
+is run into which samples of the lysate and the sequences
+to be cloned have been pipetted. Use the data displayed in
+the developed gel shown below to evaluate the question
+of whether the protocol was successful.
+Figure 17.19
+Chapter 17 | Biotechnology and Genomics
+717
+C. Design a plan to answer the question of whether the
+new DNA has been incorporated into the DNA of the host
+organism.
+52. Genetic engineering can be applied to heritable
+information to produce what is referred to as a
+“knockdown organism.” Biotechnology also can be
+applied to produce nonheritable changes in a “knockdown
+gene.” Post-transcriptional strategies target the mRNA
+product of a gene. One such strategy uses the conserved
+genes that 

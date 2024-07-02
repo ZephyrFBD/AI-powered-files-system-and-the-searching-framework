@@ -1,0 +1,56 @@
+
+), and 
+is the temperature of the surroundings. This equation
+is consistent with the experimental fact that equilibrium between the object and
+its surroundings is reached when they come to the same temperature. That is,
+must equal zero when 
+so 
+must be the same for emission and
+absorption. This confirms the idea that a good emitter is a good absorber. Because
+both the object and its surroundings radiate energy, there is a net transfer of energy
+from one to the other unless everything is at the same temperature. From Eq. 14–7
+it is clear that if 
+the net flow of heat is from the object to the surroundings,
+so the object cools. But if 
+the net heat flow is from the surroundings into
+the object, and the object’s temperature rises. If different parts of the surroundings
+are at different temperatures, Eq. 14–7 becomes more complicated.
+T
+1 6 T
+2 ,
+T
+1 7 T
+2 ,
+
+T
+1 = T
+2 ,
+Qt
+T
+2
+T
+1
+
+T
+1
+Q
+t
+= sAAT1
+4 - T2
+4B,
+T2
+4.
+T2
+4;
+T
+2 ,
+sAT1
+4 .
+T
+1 ,
+
+( L 1);
+
+
+,
+s = 5.67 * 10–8 Wm2K4

@@ -1,0 +1,18 @@
+J/kg of tissue. It is the SI 
+unit of radiation dose. The rad is a smaller unit; 100 rad = 1 Gy. The 
+effective dose, which measures the biological damage created by the 
+deposited energy, is measured in units of rem or sievert (Sv). The rem 
+is obtained by multiplying the number of rad by the relative biologi-
+cal effectiveness (RBE); 100 rem = 1 Sv.
+Learning Outcomes After studying this chapter, you should be able to:
+t Write balanced nuclear equations. (Section 21.1) 
+Related Exercises: 21.14, 21.15
+t Predict nuclear stability and expected type of nuclear decay 
+from the neutron-to-proton ratio of an isotope. (Section 21.2) 
+Related Exercises: 21.1, 21.19
+t Write balanced nuclear equations for nuclear transmutations. 
+(Section 21.3) Related Exercises: 21.29, 21.31
+t Calculate ages of objects and/or the amount of a radionuclide re-
+maining after a given period of time using the half-life of the ra-
+dionuclide in question. (Section 21.4) Related Exercises: 21.6, 21.37
+t Calculate

@@ -1,0 +1,29 @@
+. Fish is often served with a wedge of 
+lemon, which contains citric acid. The amine and the acid 
+react forming a product with no odor, thereby making 
+the less-than-fresh fish more appetizing. Using data from 
+Appendix D, calculate the equilibrium constant for the 
+reaction of citric acid with methylamine, if only the first 
+proton of the citric acid 1Ka12 is important in the neutral-
+ization reaction.
+ 16.102  Which, if any, of the following statements are true?
+ 
+ (a) The stronger the base, the smaller the pKb.
+ 
+ (b) The stronger the base, the larger the pKb.
+ 
+ (c) The stronger the base, the smaller the Kb.
+ 
+ (d) The stronger the base, the larger the Kb.
+ 
+ (e)  
+The stronger the base, the smaller the pKa of its conju-
+gate acid.
+ 
+ (f)  
+The stronger the base, the larger the pKa  of its conjugate 
+acid.
+ 16.103  Predict how each molecule or ion would act, in the Brønsted- 
+Lowry sense, in aqueous solution by writing “acid,” “base,” 
+“both,” or “neither” on the line provided.
+ 

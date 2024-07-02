@@ -1,0 +1,46 @@
+the equivalent capacitance.
+Then we find the charge on each separate capacitor and the voltage across each.
+Each step uses Eq. 17–7,
+SOLUTION The 4.0-V battery behaves as if it is connected to a capacitance
+Therefore the charge Q that leaves the battery,
+by Eq. 17–7, is
+From Fig. 19–19a, this charge arrives at the negative plate of
+so
+The charge Q that leaves the positive plate of the battery is split evenly between
+and 
+(symmetry:
+) and is
+Next, the volt-
+ages across 
+and 
+have to be the same. The voltage across each capacitor is
+obtained using
+So
+V
+3 = Q3C3 = (4.0 mC)(3.0 mF) = 1.3 V.
+V
+2 = Q2C2 = (4.0 mC)(3.0 mF) = 1.3 V
+V
+1 = Q1C1 = (8.0 mC)(3.0 mF) = 2.7 V
+V = QC.
+C3
+C2
+Q2 = Q3 = 1
+2 Q = 4.0 mC.
+C2 = C3
+C3
+C2
+Q1 = 8.0 mC.
+C1 ,
+Q = CV = (2.0 mF)(4.0 V) = 8.0 mC.
+Ceq = 2
+3 C = 2
+3 (3.0 mF) = 2.0 mF.
+Q = CV.
+V = 4.0 V.
+C = 3.0 mF
+EXAMPLE 19;11
+19–6 RC Circuits—Resistor and
+Capacitor in Series
+Capacitor Charging
+Capacitors and resistors are often found together in a circuit. Su

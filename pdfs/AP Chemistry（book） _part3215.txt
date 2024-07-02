@@ -1,0 +1,26 @@
+ represent in the ∆G° and E° 
+equations?
+∆G°
+∆G° = −nFE°
+∆G° =−RT ln K
+E°
+K
+E° = RT ln K
+nF
+▲ Figure 20.13 Relationships of E°, 횫G°, and K. Any one of these important parameters can 
+be used to calculate the other two. The signs of E° and ∆G° determine the direction in which 
+the reaction proceeds under standard conditions. The magnitude of K determines the relative 
+amounts of reactants and products in an equilibrium mixture.
+(a) Use the standard reduction potentials in Table 20.1 to calculate the standard free-energy change, ∆G°, and the equilibrium 
+constant, K, at 298 K for the reaction
+4 Ag1s2 + O21g2 + 4 H+1aq2 ¡ 4 Ag+1aq2 + 2 H2O1l2
+(b) Suppose the reaction in part (a) is written
+2 Ag1s2 + 1
+2 O21g2 + 2 H+1aq2 ¡ 2 Ag+1aq2 + H2O1l2
+What are the values of E °, ∆G°, and K when the reaction is written in this way?
+Solve
+(a) We ﬁrst calculate E ° by breaking the equa-
+tion into two half-reactions and obtaining 
+E°
+red values from Table 20.1 (or Appendix E):
+Analyze We are asked to de

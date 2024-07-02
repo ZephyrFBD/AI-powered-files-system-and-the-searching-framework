@@ -1,0 +1,20 @@
+eration.
+SOLUTION In the vertical direction (y) there is no acceleration. Newton’s second
+law tells us that the normal force 
+on the car is equal to the weight mg since
+the road is flat:
+so
+In the horizontal direction the only force is friction, and we must compare it to
+the force needed to produce the centripetal acceleration to see if it is sufficient.
+The net horizontal force required to keep the car moving in a circle around the
+curve is
+Now we compute the maximum total static friction force (the sum of the friction
+forces acting on each of the four tires) to see if it can be large enough to provide
+a safe centripetal acceleration. For (a),
+and the maximum friction
+force attainable (recall from Section 4–8 that
+) is
+Since a force of only 4500 N is needed, and that is, in fact, how much will be
+exerted by the road as a static friction force, the car can follow the curve. But in
+(b) the maximum static friction force possible is
+The car will skid because the ground cannot exert suffic

@@ -1,0 +1,19 @@
+ V. Many are connected in series to
+produce a higher voltage. Such series strings are connected in parallel within 
+a photovoltaic panel. Research includes experimenting with combinations of
+semiconductors. A good photovoltaic panel can have an output of perhaps
+averaged over day and night, sunny and cloudy. The world’s total elec-
+tricity demand is on the order of 
+which could be met with solar cells
+covering an area of only about 
+of Earth’s surface.†
+Photodiodes (Section 27–3) and semiconductor particle detectors (Section 30–13)
+operate similarly.
+LEDs
+A light-emitting diode (LED) is sort of the reverse of a photovoltaic cell. When a
+pn junction is forward biased, a current begins to flow. Electrons cross from the
+n-region into the p-region, recombining with holes, and a photon can be emitted
+with an energy about equal to the band gap energy,
+This does not work well with
+silicon diodes.‡ But high light-emission is achieved with compound semiconductors,
+typically involving a group II

@@ -1,0 +1,31 @@
+ires some explanation. Electrons with the same value of n are referred to as
+being in the same shell. Electrons with
+are in one shell (the K shell), those
+with
+are in a second shell (the L shell), those with
+are in the 
+third (M) shell, and so on. Electrons with the same values of n and are referred
+to as being in the same subshell. Letters are often used to specify the value of 
+as shown in Table 28–3. That is,
+is the s subshell;
+is the p subshell;
+is the d subshell; beginning with
+the letters follow the alphabet,
+f, g, h, i, and so on. (The first letters s, p, d, and f were originally abbreviations 
+of “sharp,”“principal,”“diffuse,” and “fundamental,” terms referring to the experi-
+mental spectra.)
+The Pauli exclusion principle limits the number of electrons possible in each
+shell and subshell. For any value of 
+there are 
+possible 
+values (
+can
+be any integer from 1 to 
+from 
+to 
+or zero), and two possible 
+values.
+There can be, therefore, at most 
+electrons in any 
+subshell. For 
+e

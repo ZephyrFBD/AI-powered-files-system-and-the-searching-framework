@@ -1,0 +1,12 @@
+ apoptosis, which destroys the cells between the developing digits.
+Chapter 9 | Cell Communication
+385
+Figure 9.15 The histological section of a foot of a 15-day-old mouse embryo, visualized using light microscopy, reveals
+areas of tissue between the toes, which apoptosis will eliminate before the mouse reaches its full gestational age at 27
+days. (credit: modification of work by Michal Mañas)
+Termination of the Signal Cascade
+The aberrant signaling often seen in tumor cells is proof that the termination of a signal at the appropriate time can be just
+as important as the initiation of a signal. One method of stopping a specific signal is to degrade the ligand or remove it so
+that it can no longer access its receptor. One reason that hydrophobic hormones like estrogen and testosterone trigger long-
+lasting events is because they bind carrier proteins. These proteins allow the insoluble molecules to be soluble in blood, but
+they also protect the hormones from degradation by circulating e

@@ -1,0 +1,32 @@
+surface is above a certain
+threshold value, the photomultiplier will only function for
+incident ultraviolet wavelengths and be unresponsive to
+visible light. Determine this threshold value (eV).
+74. If a 100-W lightbulb emits 3.0% of the input energy as
+visible light (average wavelength 550 nm) uniformly in all
+directions, estimate how many photons per second of
+visible light will strike the pupil (4.0 mm diameter) of the
+eye of an observer, (a) 1.0 m away, (b) 1.0 km away.
+75. An electron and a positron collide head on, annihilate, and
+create two 0.85-MeV photons traveling in opposite direc-
+tions. What were the initial kinetic energies of electron
+and positron?
+76. By what potential difference must (a) a proton 
+and (b) an electron 
+be accelerated from rest to have a wavelength
+l = 4.0 * 10–12 m?
+Am = 9.11 * 10–31 kgB,
+1.67 * 10–27 kgB,
+Am =
+W
+0
+W
+0
+F = 5.8 nN
+(l = 633 nm)
+1300 Wm2.
+l = 12.2 cm
+u = 38°.
+77. In some of Rutherford’s experiments (Fig. 27–19) the 
+particles 
+had a kinet

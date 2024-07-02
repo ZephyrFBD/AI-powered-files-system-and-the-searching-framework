@@ -1,0 +1,28 @@
+ as many,
+nuclei. After another 5730 years it will
+contain 
+nuclei, and so on. This is shown in Fig. 30–10a. Since the rate
+of decay 
+is proportional to N, it, too, decreases by a factor of 2 every 
+half-life (Fig. 30–10b).
+The half-lives of known radioactive isotopes vary from very short (
+s) 
+to more than 
+The half-lives of many isotopes are given 
+in Appendix B. It should be clear that the half-life (which we designate 
+) 
+bears an inverse relationship to the decay constant. The longer the half-life of an
+isotope, the more slowly it decays, and hence is smaller. Conversely, very active
+isotopes (large ) have very short half-lives. The precise relationship between
+half-life and decay constant is
+(30;6)
+We derive this in the next (optional) subsection.
+EXERCISE D The half-life of 
+is 2.6 years. How much 
+will be left of a pure 
+sample after 7.8 yr? (a) None. (b) 
+(c) 
+(d) 
+(e)
+EXERCISE E Return to the Chapter-Opening Question, page 857, and answer it again
+now. Try to explain why you 

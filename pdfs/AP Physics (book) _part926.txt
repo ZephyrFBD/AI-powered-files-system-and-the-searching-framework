@@ -1,0 +1,22 @@
+o children on a
+seesaw, Example 9–4. (b) Free-body
+diagram of the board.
+Balancing a seesaw. A board of mass
+serves
+as a seesaw for two children, as shown in Fig. 9–7a. Child A has a mass of 30 kg
+and sits 2.5 m from the pivot point, P (his center of gravity is 2.5 m from the
+pivot). At what distance x from the pivot must child B, of mass 25 kg, place herself
+to balance the seesaw? Assume the board is uniform and centered over the pivot.
+APPROACH We follow the steps of the Problem Solving Strategy above.
+SOLUTION
+1. Free-body diagram. We choose the board as our object, and assume it is hor-
+izontal. Its free-body diagram is shown in Fig. 9–7b. The forces acting on the
+board are the forces exerted downward on it by each child,
+and 
+the
+upward force exerted by the pivot 
+and the force of gravity on the board
+which acts at the center of the uniform board.
+2. Coordinate system. We choose y to be vertical, with positive upward, and x
+horizontal to the right, with origin at the pivot.
+3. For

@@ -1,0 +1,21 @@
+ing-shaped iron core around which the wire was wrapped.
+Faraday hoped that a strong steady current in X would produce a great enough mag-
+netic field to produce a current in a second coil Y wrapped on the same iron ring.
+C A U T I O N
+Changing 
+not 
+itself,
+induces current
+B
+B
+B
+B,
+This second circuit, Y, contained a galvanometer to detect any current but contained
+no battery. He met no success with constant currents. But the long-sought effect was
+finally observed when Faraday noticed the galvanometer in circuit Y deflect strongly
+at the moment he closed the switch in circuit X. And the galvanometer deflected
+strongly in the opposite direction when he opened the switch in X. A constant
+current in X produced a constant magnetic field which produced no current in Y.
+Only when the current in X was starting or stopping was a current produced in Y.
+Faraday concluded that although a constant magnetic field produces no current
+in a conductor, a changing magnetic field can produce an electric

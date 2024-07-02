@@ -1,0 +1,13 @@
+hase-contrast microscopes.
+An interference microscope makes use of the wave properties of light in a
+direct way to increase contrast in a transparent object. Consider a transparent
+object—say, a bacterium in water (Fig. 25–34). Coherent light enters uniformly
+from the left and is in phase at all points such as a and b. If the object is as trans-
+parent as the water, the beam leaving at d will be as bright as that at c. There will
+be no contrast and the object will not be seen. However, if the object’s refractive
+index is slightly different from that of the surrounding medium, the wavelength
+within the object will be altered as shown. Hence light waves at points c and d
+will differ in phase, if not in amplitude. The interference microscope changes this
+difference in phase into a difference of amplitude which our eyes can detect. Light
+that passes through the sample is superimposed onto a reference beam that does
+not pass through the object, so that they interfere. One way of doing this 

@@ -1,0 +1,22 @@
+he hydroxide 
+ion. Let’s look at Mg1OH22, for which the solubility equilibrium is
+ 
+Mg1OH221s2 ∆ Mg2 +1aq2 + 2 OH-1aq2 Ksp = 1.8 * 10-11 
+[17.17]
+A saturated solution of Mg1OH22 has a calculated pH of 10.52, and its Mg2 + concentration 
+is 1.7 * 10-4 M. Now suppose that solid Mg1OH22 is equilibrated with a solution buff-
+ered at pH 9.0. The pOH, therefore, is 5.0, so 3OH-4 = 1.0 * 10-5. Inserting this value for 
+3OH-4 into the solubility-product expression, we have
+ Ksp = 3Mg2 +43OH-42 = 1.8 * 10-11
+ 3Mg2 +411.0 * 10-522 = 1.8 * 10-11
+ 3Mg2 +4 =
+1.8 * 10-11
+11.0 * 10-522 = 0.18 M
+Solve
+(a) The initial concentration of Ca2 +  is 0.010 M 
+because of the dissolved Ca1NO322:
+Comment The molar solubility of CaF2 in water is 2.1 * 10-4 M 
+(Sample Exercise 17.12). By comparison, our calculations here 
+give a CaF2 solubility of 3.1 * 10-5 M in the presence of 0.010 M 
+Ca2 +  and 3.9 * 10-7 M in the presence of 0.010 M F- ion. Thus, 
+the addition of either Ca2 +  or F- to a solution of CaF2 dec

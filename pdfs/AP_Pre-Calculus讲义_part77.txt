@@ -1,0 +1,108 @@
+ues of cosecant, secant, and cotangent using a calculator, we need to use the 
+following reciprocal relations: 
+1
+1
+1
+csc
+sec
+cot
+sin
+cos
+tan
+t
+t
+t
+t
+t
+t
+=
+=
+=
+ 
+These identities follow from the definitions of the trigonometric functions.  
+ 
+Example 3 
+Using a calculator, find the following. 
+ 
+ 
+ 
+114 
+Let’s consider the relationship between the trigonometric functions of t and those of −t . 
+sin(−t) = −y = −sin t 
+cos(−t) = x = cos t 
+tan(
+)
+tan
+y
+y
+t
+t
+x
+x
+-
+-
+=
+= -
+= -
+ 
+ 
+These equations show that sine and tangent are odd functions, whereas cosine is an even 
+function. 
+EVEN-ODD PROPERTIES 
+Sine, cosecant, tangent, and cotangent are odd functions; cosine and secant are even 
+functions. 
+ 
+ 
+Example 4 
+Use the even-odd properties of the trigonometric function to determine each value. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+115 
+3.2.3 Fundamental Identities 
+Reciprocal Identities 
+1
+1
+1
+sin
+sin
+csc
+sec
+cot
+tan
+cot
+sin
+cos
+tan
+cos
+cos
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+=
+=
+=
+=
+=
+ 
+Pythagorean Identities 
+2
+2
+2
+2
+2

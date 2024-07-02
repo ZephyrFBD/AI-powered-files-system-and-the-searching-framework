@@ -1,0 +1,26 @@
+red lines occur at wavelengths 
+present in the emission. The black regions 
+are wavelengths for which no light is 
+produced in the emission.
+ 
+SECTION 6.3   
+Line Spectra and the Bohr Model 
+221
+Give It Some Thought
+With reference to Figure 6.6, are the allowed energy states in the Bohr model for the 
+H atom more like steps or more like a ramp?
+The Energy States of the Hydrogen Atom
+Starting with his three postulates and using classical equations for motion and for  
+interacting 
+electrical charges, Bohr calculated the energies corresponding to the  
+allowed orbits for the 
+electron in the hydrogen atom. Ultimately, the calculated energies fit the formula
+ 
+E = 1-hcRH2a 1
+n2 b = 1-2.18 * 10 - 18 J2a 1
+n2 b 
+[6.5]
+where h, c, and RH are the Planck constant, the speed of light, and the Rydberg constant, 
+respectively. The integer n, which can have whole-number values of 1, 2, 3, …∞, is called 
+the principal quantum number.
+Each allowed orbit corresponds to a different value of n. The rad

@@ -1,0 +1,12 @@
+sequence are paired, nucleotide by nucleotide, for
+each species. A fraction and percentage are given for the nucleotides that are identical (e.g., 5575/5575, 100%) and
+for the gaps that occur where parts of the sequence is missing (e.g., 0/5575, 0%). The alignment score takes into
+account both of these values.
+Once you’ve obtained a BLAST result for your sequence, use the alignment scores to support your placement of the
+fossil on your cladogram. Only consider sequences with E values smaller than 0.01% (0.0001 or 1e-04), as values
+larger than this suggest that the match occurs by chance and not from a biological relationship.
+Part II: Additional Investigations Using BLAST
+For the remainder of the lab, you explore a gene or protein of your choice using the BLAST resource.
+Investigation 4: Diffusion and Osmosis
+This investigation provides exercises that examine the movement of water across selectively permeable membranes.
+Refer to Chapter 3, “Cells,” for a complete review of diffusion, o

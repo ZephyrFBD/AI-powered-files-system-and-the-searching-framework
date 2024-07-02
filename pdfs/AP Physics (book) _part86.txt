@@ -1,0 +1,22 @@
+ter was again redefined, this time in terms of the
+speed of light (whose best measured value in terms of the older definition of the
+meter was 
+with an uncertainty of 
+). The new definition
+reads: “The meter is the length of path traveled by light in vacuum during a
+time interval of 
+of a second.”‡
+British units of length (inch, foot, mile) are now defined in terms of the
+meter. The inch (in.) is defined as exactly 2.54 centimeters (cm;
+).
+Other conversion factors are given in the Table on the inside of the front cover
+of this book. Table 1–1 presents some typical lengths, from very small to very
+large, rounded off to the nearest power of 10. See also Fig. 1–8. [Note that the
+abbreviation for inches (in.) is the only one with a period, to distinguish it from
+the word “in”.]
+Time
+The standard unit of time is the second (s). For many years, the second was
+defined as 
+of a mean solar day
+The standard second is now defined more precisely in terms of
+the frequency of radiation emitted by ce

@@ -1,0 +1,14 @@
+a
+single host species, and others attack similar cells from a range of closely related species. Bacteriophages, or
+phages, for example, are viruses that attack only bacteria.
+Viruses consist of the following structures:
+ 
+1. A nucleic acid, either RNA or DNA (but not both), contains the hereditary information of the virus. The DNA or
+RNA may be doublestranded (dsDNA or dsRNA) or single-stranded (ssDNA or ssRNA). 2. A capsid, or protein
+coat, encloses the nucleic acid.
+3. An envelope surrounds the capsid of some viruses. Envelopes incorporate phospholipids and proteins obtained
+from the cell membrane of the host cell.
+Replication of viruses occurs by one of the following two cycles:
+1. In the lytic cycle, a virus penetrates the cell membrane of the host and uses the enzymes of the host to produce
+viral nucleic acids and viral proteins. The nucleic acids and proteins are then assembled into new viruses, which
+subsequently erupt from the host cell, destroying the cell in the process. The 

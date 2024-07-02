@@ -1,0 +1,27 @@
+ng Interphase, Mitosis, and Cytokinesis 
+Bio_T_Lab07_02ab
+NOTE: To keep proper relationships among elements, and to keep
+circles concentric, a little more depth was needed than specified.
+ 
+ 
+ 
+ 
+Cell division is tightly controlled by complexes made of several specific proteins. 
+These complexes contain enzymes called cyclin-dependent kinases (CDKs), which turn 
+on or off the various processes that take place in cell division. CDK partners with a 
+family of proteins called cyclins. One such complex is mitosis-promoting factor (MPF), 
+sometimes called maturation-promoting factor, which contains cyclin A or B and cyclin­
+dependent kinase (CDK). (See Figure 2a.) CDK is activated when it is bound to cyclin, 
+interacting with various other proteins that, in this case, allow the cell to proceed from 
+G2 into mitosis. The levels of cyclin change during the cell cycle (Figure 2b). In most 
+cases, cytokinesis follows mitosis. 
+G1
+M 
+M
+S G2 
+G1 
+M
+S G2 
+MPF activity 
+Cyclin
+Relative concentratio

@@ -1,0 +1,26 @@
+ork is done by the gas.
+2. Which is possible: converting (i) 100 J of work entirely into
+100 J of heat, (ii) 100 J of heat entirely into 100 J of work?
+(a) Only (i) is possible.
+(b) Only (ii) is possible.
+(c) Both (i) and (ii) are possible.
+(d) Neither (i) nor (ii) is possible.
+3. An ideal gas undergoes an isobaric compression and then an
+isovolumetric process that brings it back to its initial temper-
+ature. Had the gas undergone one isothermal process instead,
+(a) the work done on the gas would be the same.
+(b) the work done on the gas would be less.
+(c) the work done on the gas would be greater.
+(d) Need to know the temperature of the isothermal process.
+MisConceptual Questions
+4. An ideal gas undergoes an isothermal expansion from
+state A to state B. In this process (use sign conventions,
+page 413),
+(a)
+(b)
+(c)
+(d)
+(e)
+5. An ideal gas undergoes an isothermal process. Which of the
+following statements are true? (i) No heat is added to or
+removed from the gas. (ii) The internal energ

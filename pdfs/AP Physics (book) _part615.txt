@@ -1,0 +1,57 @@
+nce level,
+so  
+In part (b) we let 
+be the unknown.
+SOLUTION (a) We use Eq. 6–13 with 
+and
+which gives
+or
+(b) Now 
+will be an unknown. We again use conservation of energy,
+but now
+and
+Solving for the unknown 
+gives 
+That is, the car has a speed of 
+when it is 30 vertical meters above the lowest
+point, both when descending the left-hand hill and when ascending the right-hand
+hill.
+14 ms
+(14 ms)2
+2(9.8 ms2) = 30 m.
+y2 = y1 - v2
+2
+2g = 40 m -
+y2
+v1 = 0.
+v2 = 1
+2 (28 ms) = 14 ms
+1
+2 mv1
+2 + mgy1 =
+1
+2 mv2
+2 + mgy2 ,
+y2
+= 32A9.8 ms2B(40 m) = 28 ms.
+v2 =
+22gy1
+mgy1 =
+1
+2 mv2
+2
+y2 = 0,
+v1 = 0
+y2
+y2 = 0.
+Ay1 = 40 mB.
+Av1 = 0B
+y = 0
+EXAMPLE 6;8
+152
+CHAPTER 6
+Work and Energy
+The mathematics of the roller-coaster Example 6–8 is almost the same as in
+Example 6–7. But there is an important difference between them. In Example 6–7
+the motion is all vertical and could have been solved using force, acceleration,
+and the kinematic equations (Eqs.2–11). For the roller coaster, where the motion is

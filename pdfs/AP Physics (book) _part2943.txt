@@ -1,0 +1,46 @@
+oping it is still valid in
+relativity and will give verifiable results. That is, we assume the net work done on
+a particle is equal to its change in kinetic energy (ke). Using this principle, Einstein
+showed that at high speeds the formula 
+is not correct. Instead,
+Einstein showed that the kinetic energy of a particle of mass m traveling at speed v
+is given by
+(26–5a)
+In terms of
+we can rewrite Eq. 26–5a as
+(26–5b)
+Equation 26–5a requires some interpretation. The first term increases with the
+speed v of the particle. The second term,
+is constant; it is called the rest energy
+of the particle, and represents a form of energy that a particle has even when at rest.
+Note that if a particle is at rest 
+the first term in Eq. 26–5a becomes 
+so 
+as it should.
+ke = 0
+mc2,
+(v = 0)
+mc2,
+ke = gmc2 - mc2 = (g - 1)mc2.
+g = 131 - v2c2
+ke =
+mc2
+31 - v2c2 - mc2.
+ke = 1
+2 mv2
+E  mc2
+v = c
+F
+B = ¢p
+B¢t,
+ke = 1
+2 mv2,
+F = ma
+mrel =
+m
+31 - v2c2 .
+mrel,
+*
+760
+CHAPTER 26
+The Special Theory of Relativity

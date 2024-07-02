@@ -1,0 +1,21 @@
+m dot? 
+(d) CdSe quantum dots that are 6.5 nm in diameter emit 
+red light upon stimulation. Assuming that the dot is a 
+perfect sphere, calculate how many Cd atoms are in one 
+quantum dot of this size.   
+(e) If you wanted to make one 6.5-nm dot from multiple 2.5-
+nm dots, how many 2.5-nm dots would you need, and 
+how many CdSe formula units would be left over, if any?
+ 3.92 (a) One molecule of the antibiotic penicillin G has a mass 
+of 5.342 * 10-21 g. What is the molar mass of penicillin G? 
+ 
+(b) Hemoglobin, the oxygen-carrying protein in red blood cells, 
+has four iron atoms per molecule and contains 0.340% iron by 
+mass. Calculate the molar mass of hemoglobin.
+ 3.93 Serotonin is a compound that conducts nerve impulses in the 
+brain. It contains 68.2% C, 6.86% H, 15.9% N, and 9.08% O. 
+ 
+Its molar mass is 176 g>mol. Determine its molecular 
+formula.
+ 3.94 The koala dines exclusively on eucalyptus leaves. Its digestive 
+system detoxifies the eucalyptus oil, a poison to other animals

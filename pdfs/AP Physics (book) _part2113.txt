@@ -1,0 +1,51 @@
+CTION 19–7
+Electric Hazards
+545
+C A U T I O N
+Black wire may be either
+ground or hot. Beware!
+C A U T I O N
+Necessity of third (ground) wire
+120 Vrms
+Black (or red)
+From
+electric
+company
+Black
+White
+Hot
+Hot
+120 V
+120 V
+120 V
+120 V
+120 Vrms
+240 Vrms
+Neutral0 V
+0
+0 V
+Ground at
+electric pole
+Ground at
+house
+Green or bare
+
+
+
+
+
+
+
+
+FIGURE 19–29 Four wires entering
+a typical house. The color codes for
+wires are not always as shown
+here—be careful!
+Safe Wiring
+Why is a third wire needed? The 120 V is carried by the other two wires—one
+hot (120 V ac), the other neutral, which is itself grounded. The third “dedicated”
+ground wire with the round prong may seem redundant. But it is protection for
+two reasons: (1) It protects against internal wiring that may have been done
+incorrectly or is faulty as discussed above, Fig. 19–26. (2) The neutral wire carries
+the full normal current (“return” current from the hot 120 V) and it does have
+resistance—so there can be a voltage drop along the neut

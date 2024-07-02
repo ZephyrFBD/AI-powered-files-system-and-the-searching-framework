@@ -1,0 +1,45 @@
+be quantized. For 
+the five different directions allowed can
+be represented by the diagram of Fig. 28–7. This limitation on the direction
+of 
+is often called space quantization. In quantum mechanics, the direction
+of the angular momentum is usually specified by giving its component 
+along the z axis (this choice is arbitrary). Then 
+is related to 
+by the
+equation
+The values of 
+and 
+are not definite, however. The name for 
+derives not
+from theory (which relates it to 
+), but from experiment. It was found that
+when a gas-discharge tube was placed in a magnetic field, the spectral lines
+were split into several very closely spaced lines. This splitting, known as the
+Zeeman effect, implies that the energy levels must be split (Fig. 28–8), and thus
+that the energy of a state depends not only on n but also on 
+when a mag-
+netic field is applied—hence the name “magnetic quantum number.”
+ml
+Lz
+ml
+Ly
+Lx
+Lz = ml U.
+ml
+Lz
+L
+B
+l = 2,
+±2.
+–2, –1, 0, ±1,
+ml
+l = 2,
+±l.
+–l
+ml,
+l
+l
+U = h2p
+L =
+2l(l + 

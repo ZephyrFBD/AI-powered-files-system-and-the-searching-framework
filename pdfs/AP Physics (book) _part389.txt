@@ -1,0 +1,58 @@
+ the piano with constant speed (set 
+in this equation) thus requires
+a tension in the rope, and hence a pull on the rope, of
+The piano
+mover can exert a force equal to half the piano’s weight.
+NOTE We say the pulley has given a mechanical advantage of 2, since without
+the pulley the mover would have to exert twice the force.
+F
+T = mg2.
+a = 0
+2F
+T - mg = ma.
+(= mg)
+F
+T
+CONCEPTUAL EXAMPLE 4;14
+92
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+P H Y S I C S  A P P L I E D
+Accelerometer
+(b)
+(a)
+u
+T
+F
+B
+mg
+B
+a
+B
+y
+x
+u
+T sin u
+F
+T cosu
+F
+FIGURE 4;25 Example 4–15.
+T
+T
+T
+m
+F
+B
+F
+B
+F
+B
+g
+B
+FIGURE 4;24 Example 4–14.
+Accelerometer. A small mass m hangs from a thin string
+and can swing like a pendulum. You attach it above the window of your car 
+as shown in Fig. 4–25a. When the car is at rest, the string hangs vertically.
+What angle does the string make (a) when the car accelerates at a constant
+and (b) when the car moves at constant velocity,
+APPROACH The free-body diagram of Fig. 4–25b shows the p

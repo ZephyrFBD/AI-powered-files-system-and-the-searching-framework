@@ -1,0 +1,17 @@
+oms and molecules, we are mainly inter-
+ested in determining two characteristics of the electrons—their ener-
+gies and their distribution in space. Recall that solving Schrödinger’s 
+wave equation yields the electron’s energy, E, and wave function, c, 
+but that c does not have a direct physical meaning.
+ (Section 6.5) 
+The contour representations of atomic and molecular orbitals we 
+have presented thus far are based on c2 (the probability density), 
+which gives the probability of finding the electron at a given point 
+in space.
+Because probability densities are squares of functions, their val-
+ues must be nonnegative (zero or positive) at all points in space. How-
+ever, the functions themselves can have negative values. The situation 
+is like that of the sine function plotted in Figure 9.37. In the top 
+graph, the sine function is negative for x between 0 and -p and pos-
+itive for x between 0 and +p. We say that the phase of the sine func-
+tion is negative between 0 and -p and positive

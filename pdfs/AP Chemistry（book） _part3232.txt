@@ -1,0 +1,18 @@
+hen the concentrations in 
+the two half-cells become the same, Q = 1 and E = 0.
+The idea of generating a potential by a concentration difference is the basis for 
+the operation of pH meters. It is also a critical aspect in biology. For example, nerve 
+cells in the brain generate a potential across the cell membrane by having different 
+concentrations of ions on the two sides of the membrane. Electric eels use cells called 
+electrocytes that are based on a similar principle to generate short, but intense, pulses 
+of electricity to stun prey and dissuade predators (Figure 20.15). The regulation of 
+the heartbeat in mammals, as discussed in the following Chemistry and Life box, is 
+another example of the importance of electrochemistry to living organisms.
+ 
+SECTION 20.6   
+Cell Potentials under Nonstandard Conditions 
+875
+◀ Figure 20.15 An electric eel. Differences 
+in ion concentrations, mainly Na+ and K+, 
+in special cells called electrocytes produce 
+an emf on the order of 0.1 V. By co

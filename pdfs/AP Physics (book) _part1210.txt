@@ -1,0 +1,14 @@
+e cord simply appears to have segments that oscillate up and down in a fixed
+pattern. The points of destructive interference, where the cord remains still at 
+all times, are called nodes. Points of constructive interference, where the cord
+oscillates with maximum amplitude, are called antinodes. The nodes and antinodes
+remain in fixed positions for a particular frequency.
+Standing waves can occur at more than one frequency. The lowest frequency
+of oscillation that produces a standing wave gives rise to the pattern shown in 
+Fig. 11–40a. The standing waves shown in Figs. 11–40b and 11–40c are produced
+at precisely twice and three times the lowest frequency, respectively, assuming
+the tension in the cord is the same. The cord can also oscillate with four loops
+(four antinodes) at four times the lowest frequency, and so on.
+The frequencies at which standing waves are produced are the natural
+frequencies or resonant frequencies of the cord, and the different standing wave
+patterns shown in

@@ -1,0 +1,14 @@
+or BrF5. But can we extend 
+the use of hybrid orbitals to describe the bonding in these molecules? In short, the 
+answer is no; hybrid orbitals should not be used for hypervalent molecules. Let’s ex-
+amine the reasons.
+The valence-bond model we developed for period 2 elements works well for com-
+pounds of period 3 elements so long as we have no more than an octet of electrons in 
+the valence-shell orbitals. Thus, for example, it is appropriate to discuss the bonding in 
+PF3 or H2Se in terms of hybridized s and p orbitals on the central atom.
+For compounds with more than an octet, we could imagine increasing the number 
+of hybrid orbitals formed by including valence-shell d orbitals. For example, for SF6 we 
+could envision mixing in two sulfur 3d orbitals in addition to the 3s and three 3p orbit-
+als to make a total of six hybrid orbitals. However, the sulfur 3d orbitals are substantially 
+higher in energy than the 3s and 3p orbitals, so the amount of energy needed to form the 
+six hybr

@@ -1,0 +1,16 @@
+fissionable fuel
+acts as the heat input for a heat engine (Chapter 15).
+There are problems associated with nuclear power plants. Besides the usual
+thermal pollution associated with any heat engine (Section 15–11), there is the
+serious problem of disposal of the radioactive fission fragments produced in 
+the reactor, plus radioactive nuclides produced by neutrons interacting with the
+structural parts of the reactor. Fission fragments, like their uranium or plutonium
+parents, have about 50% more neutrons than protons. Nuclei with atomic
+number in the typical range for fission fragments 
+are stable only
+if they have more nearly equal numbers of protons and neutrons (see Fig. 30–2).
+Hence the highly neutron-rich fission fragments are very unstable and decay
+radioactively. The accidental release of highly radioactive fission fragments into
+the atmosphere poses a serious threat to human health (Section 31–4), as does
+possible leakage of the radioactive wastes when they are disposed of. The
+a

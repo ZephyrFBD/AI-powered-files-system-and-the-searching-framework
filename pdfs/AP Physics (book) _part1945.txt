@@ -1,0 +1,31 @@
+bytes of memory can be placed on a 
+silicon 
+wafer.
+96. A parallel-plate capacitor with plate area 
+and
+plate separation 
+is connected to a 35-V battery
+(Fig.17–51a). (a) Determine the charge on the capacitor, the
+electric field, the capacitance, and the energy stored in 
+the capacitor. (b) With the capacitor still connected to the
+battery, a slab of plastic with dielectric strength 
+is placed between the plates of the capacitor, so that the gap is
+completely filled with the dielectric (Fig. 17–51b). What are
+the new values of charge,
+electric field, capacitance,
+and the energy stored in
+the capacitor?
+K = 3.2
+d = 3.0 mm
+A = 2.0 m2
+(1 byte = 8 bits.)
+3.0-cm2
+Ain mm2B
+K = 25.
+94. In the dynamic random access memory (DRAM) of a
+computer, each memory cell contains a capacitor for
+charge storage. Each of these cells represents a single binary-
+bit value of “1” when its 35-fF capacitor 
+is
+charged at 1.5 V, or “0” when uncharged at 0 V. (a) When
+fully charged, how many excess electrons are 

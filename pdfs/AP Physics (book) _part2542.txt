@@ -1,0 +1,28 @@
+or the magnification is also valid.
+f = r2
+656
+CHAPTER 23
+Light: Geometric Optics
+Convex rearview mirror. An external rearview car mirror
+is convex with a radius of curvature of 16.0 m (Fig. 23–20). Determine the loca-
+tion of the image and its magnification for an object 10.0 m from the mirror.
+APPROACH We follow the steps of the Problem Solving Strategy explicitly.
+SOLUTION
+1. Draw a ray diagram. The ray diagram will be like Fig. 23–19b, but the large
+object distance 
+makes a precise drawing difficult. We have a
+convex mirror, so r is negative by convention.
+2. Mirror and magnification equations. The center of curvature of a convex mir-
+ror is behind the mirror, as is its focal point, so we set
+so that
+the focal length is
+The object is in front of the mirror,
+Solving the mirror equation, Eq. 23–2, for 
+gives
+Thus
+Equation 23–3 gives the magnification
+3. Sign conventions. The image distance is negative,
+so the image is
+behind the mirror. The magnification is
+so the image is upright
+(

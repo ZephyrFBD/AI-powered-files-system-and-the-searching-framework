@@ -1,0 +1,20 @@
+wo stopovers, as shown in Fig. 3–16a. The first leg is due east for 620 km; the
+second leg is southeast (45°) for 440 km; and the third leg is at 53° south of 
+west, for 550 km, as shown. What is the plane’s total displacement?
+APPROACH We follow the steps in the Problem Solving Strategy above.
+SOLUTION
+1. Draw a diagram such as Fig. 3–16a, where 
+and 
+represent the
+three legs of the trip, and 
+is the plane’s total displacement.
+2. Choose axes:Axes are also shown in Fig. 3–16a: x is east, y north.
+3. Resolve components: It is imperative to draw a good diagram. The components
+are drawn in Fig. 3–16b. Instead of drawing all the vectors starting from
+a common origin, as we did in Fig. 3–15b, here we draw them “tail-to-tip”
+style, which is just as valid and may make it easier to see.
+4. Calculate the components:
+We have given a minus sign to each component that in Fig. 3–16b points in the
+or 
+direction. The components are shown in the Table in the margin.
+5. Add the components: We add the 

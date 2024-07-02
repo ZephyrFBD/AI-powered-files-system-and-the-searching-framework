@@ -1,0 +1,56 @@
+ formed by 
+adding a proton to the base. Thus, H3O+ is the conjugate acid of H2O, and HA is the con-
+jugate acid of A-.
+In any acid–base (proton-transfer) reaction, we can identify two sets of conjugate 
+acid–base pairs. For example, consider the reaction between nitrous acid and water:
+ 
+ 
+[16.7]
+Likewise, for the reaction between NH3 and H2O (Equation 16.5), we have
+ 
+[16.8]
+HNO2(aq)     H2O(l)
+NO2  (aq)     H3O  (aq)
+Acid
+Base
+Conjugate
+base
+Conjugate
+acid
+remove H
+add H
+−
++
++
++
++
++
+NH3(aq)     H2O(l)
+NH4  (aq)     OH  (aq)
+Acid
+Base
+Conjugate
+base
+Conjugate
+acid
+remove H
+add H
+−
++
++
++
++
++
+(a) What is the conjugate base of HClO4, H2S, PH4
++, HCO3
+-?
+(b) What is the conjugate acid of CN -, SO4
+2 -, H2O, HCO3
+-?
+Sample Exercise 16.1 
+Identifying Conjugate Acids and Bases
+SOLUTION
+Analyze We are asked to give the conjugate base for several acids 
+and the conjugate acid for several bases.
+Plan The conjugate base of a substance is simply the parent sub-
+stance minus one proton, and the c

@@ -1,0 +1,41 @@
+reaction proceeds?
+0.09 V
+0.00 V
+[Ni2+] = 1.00 M
+[Ni2+] = 1.00 × 10−3 M
+Ni
+cathode
+Salt bridge
+(a)
+Ni
+anode
+[Ni2+] = 0.5 M
+[Ni2+] = 0.5 M
+(b)
+Discharge
+e−
+e−
+▲ Figure 20.14 Concentration cell based on Ni2+-Ni cell reaction. (a) Concentrations of Ni2+1aq2  
+in the two half-cells are unequal, and the cell generates an electrical current and a voltage. (b) The  
+cell operates until 3Ni2+4 is the same in the two half-cells, at which point the cell has reached  
+equilibrium and the emf goes to zero.
+external wire running through a voltmeter. The half-cell reactions are the reverse of 
+each other:
+Anode: 
+ 
+  Ni1s2 ¡ Ni2+1aq2 + 2 e- 
+ 
+E°
+red = -0.28 V
+Cathode: 
+Ni2+1aq2 + 2 e- ¡ Ni1s2  
+ E°
+red = -0.28 V
+Although the standard emf for this cell is zero,
+ 
+E °
+cell = E °
+red 1cathode2 - E °
+red 1anode2 = 1-0.28 V2 - 1-0.28 V2 = 0 V 
+the cell operates under nonstandard conditions because the concentration of Ni2+1aq2 is 
+not 1 M in both half-cells. In fact, the cell operates until 3Ni2+4anode 

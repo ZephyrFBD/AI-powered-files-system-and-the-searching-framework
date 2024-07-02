@@ -1,0 +1,24 @@
+e. This is the principle of superposition.
+Electric fields are represented by electric field lines that
+start on positive charges and end on negative charges. Their
+direction indicates the direction the force would be on a tiny
+positive test charge placed at each point. The lines can be drawn
+so that the number per unit area is proportional to the magni-
+tude of E.
+The static electric field inside a conductor is zero, and the
+electric field lines just outside a charged conductor are perpen-
+dicular to its surface.
+[*In the replication of DNA, the electrostatic force plays 
+a crucial role in selecting the proper molecules so that the
+genetic information is passed on accurately from generation to
+generation.]
+[*Photocopiers and computer printers use electric charge
+placed on toner particles and a drum to form an image.]
+[*The electric flux passing through a small area A for a
+uniform electric field 
+is
+(16;7)
+where 
+is the component of 
+perpendicular to the surface.
+The flux through a su

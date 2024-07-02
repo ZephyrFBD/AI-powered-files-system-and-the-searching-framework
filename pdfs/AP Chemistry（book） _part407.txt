@@ -1,0 +1,17 @@
+egin by counting each kind of atom on the two sides of the arrow. 
+There are one Na, one O, and two H on the left side, and one Na, one 
+O, and three H on the right. The Na and O atoms are balanced, but 
+the number of H atoms is not. To increase the number of H atoms on 
+the left, let’s try placing the coefficient 2 in front of H2O:
+Na1s2 + 2 H2O1l2 ¡  NaOH1aq2 + H21g2
+We now have two Na atoms, four H atoms, and two O atoms on 
+each side. The equation is balanced.
+Comment Notice that we moved back and forth, placing a  
+coefficient in front of H2O, then NaOH, and finally Na. In balanc-
+ing equations, we often find ourselves following this pattern of 
+moving back and forth from one side of the arrow to the other, 
+placing coefficients first in front of a formula on one side and 
+then in front of a formula on the other side until the equation is 
+balanced. You can always tell if you have balanced your equation 
+correctly by checking that the number of atoms of each element 
+is the same o

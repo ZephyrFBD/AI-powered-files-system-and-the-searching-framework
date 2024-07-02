@@ -1,0 +1,35 @@
+een in the spectra from
+distant galaxies were generally redshifted, and that the amount of shift seemed to
+be approximately proportional to the distance of the galaxy from us. That is, the
+velocity of a galaxy moving away from us is proportional to its distance d from us:
+(33;4)
+This is Hubble’s law, one of the most fundamental astronomical ideas. It was first
+suggested, in 1927, by Georges Lemaître, a Belgian physics professor and priest,
+who also first proposed what later came to be called the Big Bang. The con-
+stant 
+is called the Hubble parameter.
+The value of 
+until recently was uncertain by over 20%, and thought to be
+between 15 and 
+But recent measurements now put its value more
+precisely at
+(that is,
+per million light-years of distance). The current uncertainty is
+about 2%, or 
+[
+can be written in terms of parsecs (Section 33–3)
+as 
+(that is,
+per megaparsec of distance) with an
+uncertainty of about 
+]
+&1.2 kmsMpc.
+67 kms
+H
+0 = 67 kmsMpc
+H
+0
+&0.5 kmsMly.
+21 kms
+H
+0 = 21

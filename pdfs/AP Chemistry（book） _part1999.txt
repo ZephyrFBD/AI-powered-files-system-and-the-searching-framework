@@ -1,0 +1,20 @@
+ correspond to: ul-
+traviolet, visible, or infrared?
+ 12.79  GaAs and GaP make solid solutions that have the same 
+crystal structure as the parent materials, with As and P ran-
+domly distributed throughout the crystal. GaPxAs1 - x exists 
+for any value of x. If we assume that the band gap varies lin-
+early with composition between x = 0 and x = 1, estimate 
+the band gap for GaP0.5As0.5. (GaAs and GaP band gaps are 
+1.43 eV and 2.26 eV, respectively.) What wavelength of light 
+does this correspond to?
+ 12.80  Red light-emitting diodes are made from GaAs and GaP 
+solid solutions, GaPxAs1 - x (see Exercise 12.79). The original 
+red LEDs emitted light with a wavelength of 660 nm. If we 
+assume that the band gap varies linearly with composition 
+between x = 0 and x = 1, estimate the composition (the 
+value of x) that is used in these LEDs.
+Polymers (Section 12.8)
+ 12.81  (a) What is a monomer? (b) Which of these molecules can 
+be used as a monomer: ethanol, ethene (also called eth-
+ylene), 

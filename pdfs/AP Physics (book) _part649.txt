@@ -1,0 +1,30 @@
+
+(6;10, 6;15)
+where 
+is the work done by nonconservative forces.
+Power is defined as the rate at which work is done, or the
+rate at which energy is transformed. The SI unit of power is 
+the watt (1 W = 1 Js).
+W
+NC
+W
+NC = ¢ke + ¢pe,
+ke + pe = constant.
+Summary
+1. In what ways is the word “work” as used in everyday lan-
+guage the same as it is defined in physics? In what ways is
+it different? Give examples of both.
+2. Can a centripetal force ever do work on an object?
+Explain.
+3. Why is it tiring to push hard against a solid wall even though
+you are doing no work?
+4. Can the normal force on an object ever do work? Explain.
+5. You have two springs that are identical except that spring 1
+is stiffer than spring 2 
+On which spring is more
+work done: (a) if they are stretched using the same force;
+(b) if they are stretched the same distance?
+6. If the speed of a particle triples, by what factor does its
+kinetic energy increase?
+7. List some everyday forces that are not conservative, and
+expl

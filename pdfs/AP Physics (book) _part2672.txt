@@ -1,0 +1,14 @@
+ narrow slit S in the “collimator.”
+The slit is at the focal point of the lens L, so parallel light falls on the grating. The
+movable telescope can bring the rays to a focus. Nothing will be seen in the viewing
+telescope unless it is positioned at an angle that corresponds to a diffraction peak
+(first order is usually used) of a wavelength emitted by the source. The angle can be
+measured to very high accuracy, so the wavelength can be determined to high accuracy
+using Eq. 24–4:
+where m is an integer representing the order, and d is the distance between grating
+slits. The bright line you see in a spectrometer corresponding to a discrete particular
+wavelength is actually an image of the slit S.A narrower slit results in dimmer light, but
+we can measure the angular position more precisely. If the light contains a continu-
+ous range of wavelengths, then a continuous spectrum is seen in the spectroscope.
+The spectrometer in Fig. 24–27 uses a transmission grating. Others may use a
+reflection

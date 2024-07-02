@@ -1,0 +1,27 @@
+ a bat and pops straight up to a height of 31.5 m. If
+the contact time between bat and ball is 2.5 ms, calculate
+the average force between the ball and bat during contact.
+13. (III) Air in a 120-km/h wind strikes head-on the face of a
+building 45 m wide by 75 m high and is brought to rest. If
+air has a mass of 1.3 kg per cubic meter, determine the
+average force of the wind on the building.
+27.0 ms
+150 ms.
+240 ms
+280 ms.
+320 ms
+2.8 * 105 ms?
+Problems
+14. (III) A 725-kg two-stage rocket is traveling at a speed of
+away from Earth when a predesigned
+explosion separates the rocket into two sections of equal
+mass that then move with a speed of 
+relative
+to each other along the original line of motion. (a) What is
+the speed and direction of each section (relative to Earth)
+after the explosion? (b) How much energy was supplied by
+the explosion? [Hint: What is the change in kinetic energy
+as a result of the explosion?]
+7;3 Collisions and Impulse
+15. (I) A 0.145-kg baseball pitched at 
+is 

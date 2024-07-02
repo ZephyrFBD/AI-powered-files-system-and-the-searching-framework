@@ -1,0 +1,34 @@
+tant expression is 
+written as
+Kc =
+3D4d3E4e
+3A4a3B4b
+where Kc is a dimensionless constant called the equilibrium constant. 
+When the equilibrium system of interest consists of gases, it is often 
+convenient to express the concentrations of reactants and products 
+in terms of gas pressures:
+Kp =
+1P
+D2d1P
+E2e
+1P
+A2a1P
+B2b
+Kc and Kp are related by the expression Kp = Kc1RT2∆n. To do this 
+conversion properly, use R = 0.08206 L@atm>mol@K and temperature 
+in kelvins.
+UNDERSTANDING AND WORKING WITH EQUILIBRIUM CON-
+STANTS (SECTION 15.3) The value of the equilibrium constant 
+changes with temperature. A large value of Kc indicates that the 
+equilibrium mixture contains more products than reactants and 
+therefore lies toward the product side of the equation. A small value 
+for the equilibrium constant means that the equilibrium mixture 
+The formation of NO from N2 and O2,
+ 
+1
+2  N21g2 + 1
+2 O21g2 ∆NO1g2  ∆H° = 90.4 kJ
+ 
+[15.31]
+provides an interesting example of the practical importance 
+of t

@@ -1,0 +1,14 @@
+he
+intensity is what is heard as beats.† In this case the beats are 0.10 s apart. That is,
+the beat frequency is ten per second, or 10 Hz. This result, that the beat frequency
+equals the difference in frequency of the two waves, is valid in general.
+The phenomenon of beats can occur with any kind of wave and is a very 
+sensitive method for comparing frequencies. For example, to tune a piano, a piano
+tuner listens for beats produced between his standard tuning fork and the frequency
+of a particular string on the piano, and knows it is in tune when the beats disappear.
+The members of an orchestra tune up by listening for beats between their instru-
+ments and the frequency of a standard tone (usually A above middle C at 440 Hz)
+produced by a piano or an oboe. Humans hear the individual beats if they are only
+a few per second. For higher beat frequencies, they run together and up to about
+20 Hz or so you hear an intensity modulation (a wavering between loud and soft);
+above 20 Hz you hear 

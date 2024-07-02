@@ -1,0 +1,84 @@
+also altered and that they depend on the 
+compo-
+nent of velocity.
+x¿
+A1 + vux
+œ c2B.
+uz =
+uz
+œ 31 - v2c2
+1 + vux
+œ c2
+.
+uy =
+uy
+œ 31 - v2c2
+1 + vux
+œ c2
+ux =
+ux
+œ + v
+1 + vux
+œ c2
+=
+uœ
+x + v
+1 + vuœ
+xc2 .
+ux =
+¢x
+¢t
+=
+gA¢x¿ + v ¢t¿B
+gA¢t¿ + v ¢x¿c2B =
+A¢x¿¢t¿B + v
+1 + Avc2BA¢x¿¢t¿B
+ux = ¢x¢t, u¿
+x = ¢x¿¢t¿:
+g = 121 - v2c2
+t
+t =
+1
+31 - v2c2 ¢t¿ + vx¿
+c2 ≤.
+z = z¿
+y = y¿
+x =
+1
+31 - v2c2 Ax¿ + vt¿B
+t = gAt¿ + vx¿c2B.
+t
+x¿ = g(x - vt) = gCgAx¿ + vt¿B - vtD.
+x = gAx¿ + vt¿B:
+x¿ = g(x - vt)
+t¿.
+t
+g,
+g
+g
+g =
+1
+31 - v2c2 .
+g
+t
+g2Ac2 - v2Btc.
+ct = g(c + v)g(c - v)(tc) =
+t¿ = g(c - v)(tc),
+ct¿ = x¿ = g(ct - vt) = g(c - v)t.
+ct = x = gAct¿ + vt¿B = g(c + v)t¿,
+S¿
+x¿ = ct¿
+x = ct
+t
+A-24
+APPENDIX E
+Galilean and Lorentz Transformations
+LORENTZ
+TRANSFORMATIONS
+RELATIVISTIC 
+VELOCITY
+TRANSFORMATIONS
+Length contraction. Derive the length contraction formula,
+Eq. 26–3, from the Lorentz transformation equations.
+APPROACH We consider measurements in two reference frames, S and 
+, th

@@ -1,0 +1,43 @@
+ard. Use conservation of energy
+to determine h in each case. The acceleration due to gravity
+at the surface of the Moon is 1.62 ms2.
+2.0 ms
+2.0 ms
+3.0 ms
+165 ms.
+11.0 ms.
+11.0 ms
+1.30 ms.
+8.00 ms,
+1.25 ms.
+85 kmh
+(a)
+(c)
+15 m
+y = 0
+(b)
+y = ?
+y
+d
+FIGURE 6–42
+Problem 41. (a) Bungee 
+jumper about to jump.
+(b) Bungee cord at its 
+unstretched length.
+(c) Maximum stretch 
+of cord.
+41. (II) Chris jumps off a bridge with a bungee cord (a heavy
+stretchable cord) tied around his ankle, Fig. 6–42. He falls
+for 15 m before the bungee cord begins to stretch. Chris’s
+mass is 75 kg and we assume the cord obeys Hooke’s law,
+with  
+If we neglect air resistance,
+estimate what distance d below the bridge Chris’s foot will
+be before coming to a stop. Ignore the mass of the cord
+(not realistic, however) and treat Chris as a particle.
+k = 55 Nm.
+F = –kx,
+FIGURE 6–44
+Problem 72.
+56. (III) Early test flights for the space shuttle used a “glider”
+(mass of 980 kg including pilot). After a horizonta

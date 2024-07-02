@@ -1,0 +1,26 @@
+f potential energy and thus gain 1000 eV or 1 keV (kiloelectron volt) of kinetic energy.
+1 eV = 1.6022 * 10–19 L  1.60 * 10–19 J.
+A1.6022 * 10–19 CB(1.00 V) = 1.6022 * 10–19 J:
+1.6022 * 10–19 C,
+(q = e)
+Electron volt
+On the other hand, if a particle with a charge equal to twice the magnitude of the
+charge on the electron 
+moves through a potential differ-
+ence of 1000 V, its kinetic energy will increase by
+Although the electron volt is handy for stating the energies of molecules and
+elementary particles, it is not a proper SI unit. For calculations, electron volts should
+be converted to joules using the conversion factor just given. In Example 17–2, for
+example, the electron acquired a kinetic energy of 
+We can quote
+this energy as 5000 eV
+but when determining
+the speed of a particle in SI units, we must use the KE in joules (J).
+A= 8.0 * 10–16 J1.6 * 10–19 JeVB,
+8.0 * 10–16 J.
+2000 eV = 2 keV.
+A= 2e = 3.2 * 10–19 CB
+SECTION 17–5
+Electric Potential Due to Point Charges
+479
+C A U T I 

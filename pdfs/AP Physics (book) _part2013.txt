@@ -1,0 +1,31 @@
+ or device. Resistance is a
+property of the wire or device.
+The unit of resistance is the ohm
+where
+See Table 18–3.
+1  = 1 VA.
+(),
+I r V
+V = IR,
+1 Cs
+is equal to the product of current and voltage. That is, the power
+transformed, measured in watts, is given by
+(18–5)
+which for resistors can be written as
+(18–6)
+The SI unit of power is the watt
+The total electric energy transformed in any device equals
+the product of the power and the time during which the device
+is operated. In SI units, energy is given in joules
+but electric companies use a larger unit, the kilowatt-hour
+Electric current can be direct current (dc), in which the 
+current is steady in one direction; or it can be alternating
+current (ac), in which the current reverses direction at a particular
+frequency f, typically 60 Hz. Alternating currents are typically
+sinusoidal in time,
+(18–7b)
+where 
+and are produced by an alternating voltage.
+The rms values of sinusoidally alternating currents and
+voltages are given by
+(18–8

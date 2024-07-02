@@ -1,0 +1,24 @@
+ble 10.3 that a and b generally 
+increase with increasing molecular mass. Larger, more massive molecules have larger vol-
+umes and tend to have greater intermolecular attractive forces.
+Sample Exercise 10.15 
+Using the van der Waals Equation
+If 10.00 mol of an ideal gas were confined to 22.41 L at 0.0 °C, it would exert a pressure of 10.00 atm. Use the van der Waals 
+equation and Table 10.3 to estimate the pressure exerted by 1.000 mol of Cl21g2 in 22.41 L at 0.0 °C.
+SOLUTION
+Analyze We need to determine a pressure. Because we will use the 
+van der Waals equation, we must identify the appropriate values 
+for the constants in the equation.
+Plan Rearrange Equation 10.25 to isolate P.
+Solve Substituting n = 10.00 mol, R = 0.08206 L@atm>mol@K,
+T = 273.2 K, V = 22.41 L, a = 6.49 L2@atm>mol2, and 
+b = 0.0562 L>mol:
+ P =
+110.00 mol210.08206 L@atm>mol@K21273.2 K2
+22.41 L - 110.00 mol210.0562 L>mol2
+ 
+     -
+110.00 mol2216.49 L2@atm>mol22
+122.41 L22
+    = 10.26 atm - 1.29 atm = 8.97 atm
+Comment

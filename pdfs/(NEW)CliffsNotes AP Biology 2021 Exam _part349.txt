@@ -1,0 +1,13 @@
+gulation of Gene Expression
+Although some genes, like those that code for ribosomal proteins, are always turned on, most are not. That is
+because a cell is constantly modifying biochemical activities to respond to varying internal and external conditions.
+In order to accomplish this feat, mechanisms exist to turn genes on and off at appropriate times.
+Regulatory mechanisms in prokaryotes occur as part of operons. An operon is a unit of DNA that contains multiple
+genes whose products work together to direct a single metabolic pathway. It contains the following components:
+1. The promoter region is a sequence of DNA to which the RNA polymerase attaches to begin transcription.
+ 
+2. The operator region is engaged by a regulatory protein to either block or promote the action of the RNA
+polymerase.
+3. The structural genes contain coding DNA, that is, DNA sequences that code for various related enzymes that
+direct the production of some particular end product.
+4. A regulatory gene, lying outs

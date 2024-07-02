@@ -1,0 +1,22 @@
+te that the equilibrium constant itself does not change; it is the relative concentrations 
+of products and reactants in the equilibrium expression that change.
+What is the pH of a solution made by adding 0.30 mol of acetic acid and 0.30 mol of sodium acetate to enough water  
+to make 1.0 L of solution?
+Sample Exercise 17.1 
+Calculating the pH When a Common Ion Is Involved
+718 
+ 
+SECTION 17.1  The Common-Ion Effect 
+719
+Analyze We are asked to determine the pH of a solution of a weak 
+electrolyte 1CH3COOH2 and a strong electrolyte 1CH3COONa2 
+that share a common ion, CH3COO-.
+Plan In any problem in which we must determine the pH of a solu-
+tion containing a mixture of solutes, it is helpful to proceed by a 
+series of logical steps:
+(1) Consider which solutes are strong electrolytes and which are 
+weak electrolytes, and identify the major species in solution.
+SOLUTION
+(2) Identify the important equilibrium reaction that is the source 
+of H+ and therefore determines pH.
+(3) Tabulate the 

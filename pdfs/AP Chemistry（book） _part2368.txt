@@ -1,0 +1,25 @@
+ NO2 and N2O4.
+626 
+CHAPTER 15 Chemical Equilibrium
+The equilibrium mixture results because the reaction is reversible: N2O4 can form NO2, 
+and NO2 can form N2O4. Dynamic equilibrium is represented by writing the equation for 
+the reaction with two half arrows pointing in opposite directions  
+ (Section 4.1):
+ 
+N2O41g2 ∆ 2 NO21g2 
+[15.1]
+We can analyze this equilibrium using our knowledge of kinetics. Let’s call the 
+decomposition of N2O4 the forward reaction and the formation of N2O4 the reverse reac-
+tion. In this case, both the forward reaction and the reverse reaction are elementary reac-
+tions. As we learned in Section 14.6, the rate laws for elementary reactions can be written 
+from their chemical equations:
+ 
+Forward reaction: N2O41g2 ¡ 2 NO21g2   Ratef = kf3N2O44 
+[15.2]
+ 
+Reverse reaction: 2 NO21g2 ¡  N2O41g2   Rater = kr3NO242 
+[15.3]
+At equilibrium, the rate at which NO2 forms in the forward reaction equals the rate 
+at which N2O4 forms in the reverse reaction:
+ 
+kf3N2O44 = 

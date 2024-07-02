@@ -1,0 +1,19 @@
+rence of the reproduction and
+death rates),
+t = the number of chronological steps of reproduction (seconds,
+minutes, years, etc.), and
+e = Euler’s number (approximately 2.71828).
+The three lines on the above graph show the exponential increase in
+population size with no limits according to the equation Nt = N0ert. Each
+line represents a population increasing at the rate indicated, having
+started with two individuals.
+This graph shows how rapidly populations can grow when the increase is
+exponential. Remember that t is a measure of the population’s rate of
+Exponential Population Increase
+producing another generation, which is very fast for bacteria. Some
+bacteria can reproduce every 10 to 30 minutes, so 30 time steps would
+only take between 5 and 15 hours. The upshot is that bacteria can grow to
+numbers in the millions in only a matter of hours!
+In reality, populations do not grow exponentially without limits. Most
+reach a size at which they plateau, called the carrying capacity. This
+t

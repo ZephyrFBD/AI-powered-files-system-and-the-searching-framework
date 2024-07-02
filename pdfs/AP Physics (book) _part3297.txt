@@ -1,0 +1,19 @@
+iciency.
+29–10 Transistors: Bipolar and MOSFETs
+The bipolar junction transistor was invented in 1948 by J. Bardeen, W. Shockley,
+and W. Brattain. It consists of a crystal of one type of doped semiconductor
+sandwiched between two of the opposite type. Both npn and pnp transistors can
+be made, and they are shown schematically in Fig. 29–40a. The three semicon-
+ductors are given the names collector, base, and emitter. The symbols for npn and
+pnp transistors are shown in Fig. 29–40b. The arrow is always placed on the emitter
+and indicates the direction of (conventional) current flow in normal operation.
+The operation of an npn transistor as an amplifier is shown in Fig. 29–41.
+A dc voltage 
+is maintained between the collector and emitter by battery 
+The voltage applied to the base is called the base bias voltage,
+If 
+is
+positive, conduction electrons in the emitter are attracted into the base. The base
+region is very thin, much less than 
+, so most of these electrons flow right
+across into

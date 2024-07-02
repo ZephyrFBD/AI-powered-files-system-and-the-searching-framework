@@ -1,0 +1,51 @@
+hat is
+noncircular. There are two effects: coma (because the image of a point is comet-
+shaped rather than a tiny circle) and off-axis astigmatism.† Furthermore, the
+image points for objects off the axis but at the same distance from the lens do not
+fall on a flat plane but on a curved surface—that is, the focal plane is not flat. (We
+expect this because the points on a flat plane, such as the film in a camera, are not
+equidistant from the lens.) This aberration is known as curvature of field and is
+a problem in cameras and other devices where the sensor or film is a flat plane.
+In the eye, however, the retina is curved, which compensates for this effect.
+(= aspherical)
+sin u L u.
+f
+o.
+do = 0.29 cm,
+f
+o = 1A3.52 cm–1B = 0.28 cm.
+1
+f
+o
+=
+1
+do
++ 1
+di
+=
+1
+0.29 cm +
+1
+14.5 cm = 3.52 cm–1;
+di = l - f
+e = 14.5 cm
+do = l - f
+e
+mo
+=
+(17.0 cm - 2.5 cm)
+50
+= 0.29 cm.
+do,
+f
+e = NMe = 25 cm10 = 2.5 cm.
+(10*)(50*) = 500*.
+f
+o.
+do
+N = 25 cm.
+50*
+10*
+EXAMPLE 25;9
+SECTION 25–6
+Aberrations of Lenses

@@ -1,0 +1,15 @@
+∆H and -T∆S. The various combinations of ∆H and -T∆S 
+signs are given in Table 19.3.
+Note in Table 19.3 that when ∆H and -T∆S have opposite signs, the sign of ∆G 
+depends on the magnitudes of these two terms. In these instances, temperature is an 
+important consideration. Generally, ∆H and ∆S change very little with temperature. 
+However, the value of T directly affects the magnitude of -T∆S. As the temperature 
+increases, the magnitude of -T∆S increases, and this term becomes relatively more 
+important in determining the sign and magnitude of ∆G.
+As an example, let’s consider once more the melting of ice to liquid water at 1 atm:
+ 
+H2O1s2 ¡ H2O1l2 ∆H 7 0, ∆S 7 0 
+This process is endothermic, which means that ∆H is positive. Because the entropy 
+increases during the process, ∆S is positive, which makes -T∆S negative. At tempera-
+tures below 0 °C 1273 K2, the magnitude of ∆H is greater than that of -T∆S. Hence, the 
+the process as written is nonspontaneous, but its reverse reaction will

@@ -1,0 +1,20 @@
+e first MO, which is shown at the bottom 
+right of Figure 9.31, is formed by adding the wave functions for the two 1s orbitals. We refer 
+to this as constructive combination. The energy of the resulting MO is lower in energy than the 
+two atomic orbitals from which it was made. It is called the bonding molecular orbital.
+The second MO is formed by what is called destructive combination: combining the 
+two atomic orbitals in a way that causes the electron density to be canceled in the central 
+region where the two overlap. The process is discussed more fully in the “Closer Look” 
+box later in the chapter. The energy of the resulting MO, referred to as the antibonding 
+molecular orbital, is higher than the energy of the atomic orbitals. The antibonding 
+MO of H2 is shown at the top right in Figure 9.31.
+As illustrated in Figure 9.31, in the bonding MO electron density is concentrated 
+in the region between the two nuclei. This sausage-shaped MO results from summing 
+CH3
+CH3
+C
+C
+C
+C
+C
+H3C

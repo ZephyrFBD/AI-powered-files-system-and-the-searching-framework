@@ -1,0 +1,14 @@
+he band gap changes substantially with size in the 1–10-nm range. As the particle 
+gets smaller, the band gap gets larger, an effect observable by the naked eye, as shown 
+in Figure 12.44. On the macro level, the semiconductor cadmium phosphide looks black 
+because its band gap is small 1Eg = 0.5 eV2, and it absorbs all wavelengths of visible light. 
+As the crystals are made smaller, the material progressively changes color until it looks 
+white! It looks white because now no visible light is absorbed. The band gap is so large 
+that only high-energy ultraviolet light can excite electrons into the conduction band 
+1Eg 7 3.0 eV2.
+Making quantum dots is most easily accomplished using chemical reactions in solu-
+tion. For example, to make CdS, you can mix Cd1NO322 and Na2S in water. If you do not 
+do anything else, you will precipitate large crystals of CdS. However, if you first add a 
+negatively charged polymer to the water (such as polyphosphate, ¬1OPO2
+-2n¬2, the 
+Cd2 +  associates wit

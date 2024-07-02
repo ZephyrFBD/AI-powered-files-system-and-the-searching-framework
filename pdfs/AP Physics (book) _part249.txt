@@ -1,0 +1,86 @@
+ther they point along the positive or negative x or y axis. As can be seen in
+Fig. 3–10,
+by the parallelogram method of adding vectors.
+Space is made up of three dimensions, and sometimes it is necessary to
+resolve a vector into components along three mutually perpendicular directions.
+In rectangular coordinates the components are 
+and V
+B
+z.
+V
+B
+x, V
+B
+y,
+V
+B
+x + V
+B
+y = V
+B
+V
+y,
+V
+x
+V
+B
+y.
+V
+B
+x
+V
+B,
+V
+B
+u = 30°
+V
+B
+V
+B
+54
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+Vy
+V
+sin    =
+Vx
+V
+cos    =
+Vy
+Vx
+tan    =
+V2 = V2 + V2
+θ
+θ
+θ
+θ
+90°
+y
+x
+x
+y
+0
+x
+y
+V
+B
+V
+B
+V
+B
+FIGURE 3;12 Finding the 
+components of a vector using
+trigonometric functions. The 
+equations are valid only if is the
+angle 
+makes with the positive 
+x axis.
+V
+B
+u
+To add vectors using the method of components, we need to use the trigo-
+nometric functions sine, cosine, and tangent, which we now review.
+Given any angle 
+as in Fig. 3–11a, a right triangle can be constructed by
+drawing a line perpendicular to one of its sides,

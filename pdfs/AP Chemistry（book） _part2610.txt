@@ -1,0 +1,54 @@
+n
+constant
+3.0
+2.8
+2.5
+2.1
+Cl—OH
+Br—OH
+I—OH
+H—OH
+Y—OH
+▲ Figure 16.20 Acidity of the hypohalous oxyacids (YOH) and water as a function of electronegativity of Y.
+Go Figure
+At equilibrium, which of the two species with a halogen atom 
+(green) is present in greater concentration?
+702 
+CHAPTER 16 Acid–Base Equilibria
+O
+O
+O
+Increasing acid strength
+H
+Cl
+O
+H
+Cl
+O
+O
+O
+H
+Cl
+O
+O
+O
+H
+Cl
+Ka     3.0     10−8
+Ka     1.1     10−2
+Strong acid
+Strong acid
+Hypochlorous
+Chlorous
+Chloric
+Perchloric
+×
+=
+=
+×
+Many oxyacids contain additional oxygen atoms bonded to the central atom Y. 
+These atoms pull electron density from the O ¬H bond, further increasing its polar-
+ity. Increasing the number of oxygen atoms also helps stabilize the conjugate base by 
+increasing its ability to “spread out” its negative charge. Thus, the strength of an acid 
+increases as additional electronegative atoms bond to the central atom Y. For example, the 
+strength of the chlorine oxyacids 1Y = Cl2 steadily increases as O atoms are

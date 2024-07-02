@@ -1,0 +1,36 @@
+he number of moles n using the given volume.
+Then we can multiply by the mass of one mole to get the total mass.
+SOLUTION Example 13–9 told us that 1 mol of a gas at 0°C has a volume of
+22.4 L
+The room’s volume is
+so
+Air is a mixture of about 20% oxygen 
+and 80% nitrogen 
+The molecular
+masses are 
+and
+respectively, for an average
+of about 29 u. Thus, 1 mol of air has a mass of about
+so our
+room has a mass of air
+NOTE That is roughly 100 lb of air!
+m L (1700 mol)(0.029 kgmol) L 50 kg.
+29 g = 0.029 kg,
+2 * 14 u = 28 u,
+2 * 16 u = 32 u
+AN2B.
+AO2B
+n =
+(5 m)(3 m)(2.5 m)
+22.4 * 10–3 m3mol L 1700 mol.
+5 m * 3 m * 2.5 m,
+= 22.4 * 10–3 m3.
+5 m * 3 m * 2.5 m
+EXAMPLE 13;11
+ESTIMATE
+EXERCISE D At 20°C, would there be (a) more, (b) less, or (c) the same mass of air in a
+room than at 0°C?
+Frequently, volume is specified in liters and pressure in atmospheres. Rather
+than convert these to SI units, we can instead use the value of R given in 
+Section 13–6 as
+In many situations it is not necessary to 

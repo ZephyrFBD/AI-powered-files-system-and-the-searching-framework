@@ -1,0 +1,20 @@
+oint should be employed or the number written in 
+exponential notation. Thus, 5000. has four significant figures, 
+whereas 5.00 * 103 has three.
+ 
+▶Practice Exercise 1
+An object is determined to have a mass of 0.01080 g. How many 
+significant figures are there in this measurement?  
+(a) 2 (b) 3 (c) 4 (d) 5 (e) 6
+ 
+▶Practice Exercise 2
+How many significant figures are in each of the following  
+measurements? (a) 3.549 g, (b) 2.3 * 104 cm, (c) 0.00134 m3.
+Significant Figures in Calculations
+Apply the following rule when carrying measured quantities through calculations. 
+The least certain measurement limits the certainty of the calculated quantity and  
+thereby determines the number of significant figures in the final answer. 
+The final answer should be reported with only one uncertain digit. To keep track of sig-
+nificant figures in calculations, we will make frequent use of two rules: one for addition and 
+subtraction, and another for multiplication and division.
+1. For addition and su

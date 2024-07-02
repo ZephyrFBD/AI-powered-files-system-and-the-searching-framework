@@ -1,0 +1,28 @@
+ociated with two charged particles is 
+ 
+proportional to their electrical charges, Q1 and Q2, and is inversely proportional to the 
+distance, d, separating them:
+ 
+Eel = kQ 1Q 2
+d
+ 
+[5.2]
+where k is a proportionality constant whose value is 8.99 * 109 J-m/C2.* Recall from 
+Chapter 1 that the units used to measure energy are joules, where 1 J = 1 kg@m2/s2 . At the 
+164 
+*We read the combined units J-m/C2 as joule-meters per coulomb squared. You may see com-
+binations of units such as J-m/C2 expressed with dots separating units instead of short dashes, 
+ 
+J∙m/C2, or with dashes and dots totally absent, J m/C2.
+(a)
+(b)
+Chemical reactions that release heat
+Chemical reactions that do work
+▲ Figure 5.1 Chemical reactions and energy. Energy changes in chemical reactions can be used to 
+transfer heat or do work.
+ 
+SECTION 5.1   
+The Nature of Chemical Energy 
+165
+atomic level, the charges Q1 and Q2 are typically on the order of magnitude of the charge 
+of an electron 11.60 * 10-19 C2, while di

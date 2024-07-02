@@ -1,0 +1,15 @@
+EPR model, the molecular geometry about each carbon atom in an alkane 
+is tetrahedral. 
+ (Section 9.2) The bonding may be described as involving sp3@hybridized 
+orbitals on the carbon, as pictured in Figure 24.3 for methane. 
+ (Section 9.5)
+Rotation about a carbon–carbon single bond is relatively easy and occurs rapidly at 
+room temperature. To visualize such rotation, imagine grasping either methyl group of 
+the propane molecule in Figure 24.4 and rotating the group relative to the rest of the 
+molecule. Because motion of this sort occurs rapidly in alkanes, a long-chain alkane 
+molecule is constantly undergoing motions that cause it to change its overall shape.
+structural Isomers
+The alkanes in Table 24.2 are called straight-chain or linear hydrocarbons because all the 
+carbon atoms are joined in a continuous chain. Alkanes consisting of four or more car-
+bon atoms can also form branched chains, and when they do, they are called branched-
+chain hydrocarbons. (The branches in organic 

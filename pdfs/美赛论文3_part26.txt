@@ -1,0 +1,43 @@
+y using two sets of equations above. Assuming this process continues for
+2
+t ，the temperature in the end of this process is
+4
+u , so
+4
+u
+is a constant function about
+space, which means the temperature of every point is
+4
+u .
+Team#44509
+Page 11 of 26
+(3) The process of cooling
+This part is the same as the process of cooling above.
+2.2.7.3 Analysis of answer
+(1) Even time
+In the model above,
+1
+2
+e
+t
+t
+t
+
+
+is the time we spend in the whole process of
+looping.
+(2) Wasting water
+When it comes to the whole processes, the volume of wasting water
+is
+1
+Q
+v t n
+.
+2.2.8 Further discussion
+The position of the faucet and overflow drain only affects the process of adding
+water in the whole loop. When the overflow drain is in the opposite side of the faucet,
+it starts to drain away the water the moment the user adds water into the bathtub and
+all the water drained away is the cold water without heat exchange with the adding
+water.
+Picture 1: the bathtub Ⅱ
+However, when the overflow drain is in t

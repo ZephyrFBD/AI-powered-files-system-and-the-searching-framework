@@ -1,0 +1,29 @@
+ we
+must use the distance from the axis of rotation that is perpendicular to the line of
+action of the force (Fig. 8–13a).
+An equivalent way of determining the torque associated with a force is to
+resolve the force into components parallel and perpendicular to the line that con-
+nects the axis to the point of application of the force, as shown in Fig. 8–13b. The
+component 
+exerts no torque since it is directed at the rotation axis (its lever
+arm is zero). Hence the torque will be equal to 
+times the distance r from the
+axis to the point of application of the force:
+(8;10b)
+This gives the same result as Eq. 8–10a because 
+and 
+Thus
+(8;10c)
+in either case. [Note that is the angle between the directions of 
+and r (radial
+line from the axis to the point where 
+acts).] We can use any of Eqs. 8–10 to 
+calculate the torque, whichever is easiest.
+Because torque is a distance times a force, it is measured in units of 
+in
+SI units,†
+in the cgs system, and 
+in the English system.
+ftlb
+cmdyne
+m

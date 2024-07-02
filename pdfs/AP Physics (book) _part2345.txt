@@ -1,0 +1,14 @@
+ 21
+Wireless Transmission of Power—Inductive Charging
+Many devices with rechargeable batteries, like cell phones, cordless phones, and even
+electric cars, can be recharged using a direct metal contact between the device
+and the charger. But devices can also be charged “wirelessly” by induction, with-
+out the need for exposed electric contacts. The electric toothbrush shown in
+Fig. 21–26 sits on a plastic base. Inside the base is a “primary coil” connected to an
+ac outlet. Inside the toothbrush is a “secondary coil” in which a current is induced
+due to the changing magnetic field produced by the changing current in the primary
+coil. The current induced in the secondary coil charges the rechargeable batteries.
+(Not an option for ordinary AA or AAA batteries which are not rechargeable.) The
+effect is like a transformer—except here there is no iron to contain the field lines, so
+there is less efficiency. But you can separate the two parts (toothbrush and charger)
+and brush your teeth. Many

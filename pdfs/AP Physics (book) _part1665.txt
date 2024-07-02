@@ -1,0 +1,36 @@
+e)
+If we toss more coins—say, 100 all at the same time—the relative probability
+of throwing all heads (or all tails) is greatly reduced. There is only one microstate
+corresponding to all heads. For 99 heads and 1 tail, there are 100 microstates
+because each of the coins could be the one tail. The relative probabilities for other
+macrostates are given in Table 15–3 (top of next page). About 
+microstates are possible.† Thus the relative probability of finding all heads is
+about 1 in 
+an incredibly unlikely event! The probability of obtaining 50 heads
+and 50 tails (see Table 15–3) is
+or 8%. The
+probability of obtaining anything between 45 and 55 heads is about 70%.
+A1.0 * 1029BA1.3 * 1030B = 0.08
+1030,
+1.3 * 1030
+11
+16 .
+3
+8 ;
+1
+8 ;
+1
+16 ;
+1
+2 ;
+
+
+*
+432
+CHAPTER 15
+The Laws of Thermodynamics
+†Each coin has two possibilities, heads or tails. Then the possible number of microstates is
+(using a calculator or logarithms).
+2 * 2 * 2 * p = 2100 = 1.3 * 1030
+C A U T I O N
+Careful use of probab

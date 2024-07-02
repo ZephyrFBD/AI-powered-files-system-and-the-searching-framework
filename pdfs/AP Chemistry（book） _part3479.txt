@@ -1,0 +1,25 @@
+. (b) How does this mass loss arise? (c) It is esti-
+mated that the Sun contains 9 * 1056 free protons. How 
+many protons per second are consumed in nuclear reac-
+tions in the Sun?
+ 21.85  The average energy released in the fission of a single 
+uranium-235 nucleus is about 3 * 10-11 J. If the conver-
+sion of this energy to electricity in a nuclear power plant is 
+40% efficient, what mass of uranium-235 undergoes fission 
+in a year in a plant that produces 1000 megawatts? Recall 
+that a watt is 1 J/s.
+ 21.86  Tests on human subjects in Boston in 1965 and 1966, fol-
+lowing the era of atomic bomb testing, revealed average 
+quantities of about 2 pCi of plutonium radioactivity in the 
+average person. How many disintegrations per second does 
+this level of activity imply? If each alpha particle deposits 
+8 * 10-13 J of energy and if the average person weighs 75 
+kg, calculate the number of rads and rems of radiation in 1 
+yr from such a level of plutonium.
+CH3COH
+H18OCH3
++
+O
+CH3C18OCH3
+H2O
++

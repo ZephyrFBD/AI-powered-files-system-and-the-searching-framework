@@ -1,0 +1,19 @@
+asure the thickness of the first 500 pages of this book (page 1 to page 500),
+you might get something like 1.5 cm. Note that 500 numbered pages, counted
+front and back, is 250 separate pieces of paper. So one sheet must have a
+thickness of about
+or less than a tenth of a millimeter (0.1 mm).
+1.5 cm
+250 sheets L  6 * 10–3 cm = 6 * 10–2 mm,
+EXAMPLE 1;7
+ESTIMATE
+Height by triangulation. Estimate the height
+of the building shown in Fig. 1–12, by “triangulation,” with the help of a bus-stop
+pole and a friend.
+APPROACH By standing your friend next to the pole, you estimate the height
+of the pole to be 3 m. You next step away from the pole until the top of the
+pole is in line with the top of the building, Fig. 1–12a. You are 5 ft 6 in. tall, so
+your eyes are about 1.5 m above the ground. Your friend is taller, and when
+she stretches out her arms, one hand touches you, and the other touches the
+pole, so you estimate that distance as 2 m (Fig. 1–12a). You then pace off the
+distance from the pol

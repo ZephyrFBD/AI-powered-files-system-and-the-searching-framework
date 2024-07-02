@@ -1,0 +1,16 @@
+electron domains, 
+are summarized in Table 9.1. If you compare the geometries in Table 9.1 with those in 
+ 
+Figure 9.3, you will see that they are the same.
+The shapes of different ABn molecules or ions depend on the number  
+of electron domains surrounding the central atom.
+The arrangement of electron domains about the central atom of an ABn molecule or 
+ion is called its electron-domain geometry. In contrast, the molecular geometry 
+is the arrangement of only the atoms in a molecule or ion—any nonbonding pairs in the 
+molecule are not part of the description of the molecular geometry.
+Applying the VSEpr Model to Determine Molecular Shapes
+In determining the shape of any molecule, we first use the VSEPR model to predict the 
+ 
+electron-domain geometry. From knowing how many of the domains are due to nonbond-
+ing pairs, we can then predict the molecular geometry. When all the electron domains in a 
+molecule arise from bonds, the molecular geometry is identical to the electron-domain ge

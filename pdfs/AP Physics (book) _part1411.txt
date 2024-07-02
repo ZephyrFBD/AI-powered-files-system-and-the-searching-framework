@@ -1,0 +1,37 @@
+er of an atmosphere 
+or less) and not close to the liquefaction (boiling) point.
+FA = aE ¢T = (12 * 10–6C°)(20 * 109 Nm2)(30 C°) = 7.2 * 106 Nm2.
+F
+A = aE ¢T.
+al0 ¢T =
+1
+E
+F
+A l0 .
+¢l
+¢l
+FA,
+¢l =
+1
+E
+F
+A l0 ,
+¢l
+*
+SECTION 13–5
+The Gas Laws and Absolute Temperature
+367
+P H Y S I C S  A P P L I E D
+Life under ice
+For a given quantity of gas it is found experimentally that, to a good approxi-
+mation, the volume of a gas is inversely proportional to the absolute pressure
+applied to it when the temperature is kept constant. That is,
+[constant T]
+where P is the absolute pressure (not “gauge pressure”—see Section 10–4). For
+example, if the pressure on a gas is doubled, the volume is reduced to half its
+original volume. This relation is known as Boyle’s law, after the Englishman
+Robert Boyle (1627–1691), who first stated it on the basis of his own experiments.
+A graph of P vs. V for a fixed temperature is shown in Fig. 13–14. Boyle’s law can
+also be written
+[constant T]
+for a fixed quanti

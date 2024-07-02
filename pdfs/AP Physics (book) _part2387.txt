@@ -1,0 +1,41 @@
+
+R = 25.0 , L = 30.0 mH,
+EXAMPLE 21;15
+C A U T I O N
+Individual peak or rms voltages
+do NOT add up to source voltage
+(due to phase differences)
+616
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+0.90 f0
+Irms
+0
+f0
+1.10 f0
+For
+small R
+For
+large R
+FIGURE 21–46 Current in an LRC
+circuit as a function of frequency,
+showing resonance peak at
+f = f
+0 = 1(2p1LC).
+2
+1–15 Resonance in AC Circuits
+The rms current in an LRC series circuit is given by (see Eqs. 21–14, 21–15, 21–11b,
+and 21–12b):
+(21;18)
+Because the reactance of inductors and capacitors depends on the frequency f of
+the source, the current in an LRC circuit depends on frequency. From Eq. 21–18
+we see that the current will be maximum at a frequency that satisfies
+We solve this for f, and call the solution 
+(21;19)
+When 
+the circuit is in resonance, and 
+is the resonant frequency of the
+circuit. At this frequency,
+so the impedance is purely resistive. A graph
+of 
+versus f is shown in Fig. 21–46 for particular values of R, L,

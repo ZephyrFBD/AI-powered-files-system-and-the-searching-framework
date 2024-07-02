@@ -1,0 +1,18 @@
+EGULATION
+When glucose and lactose are both present in the intestine, E. coli
+preferentially metabolize glucose and the enzymes for breaking down
+glucose are always present. However, when lactose is present and glucose
+is in short supply, E. coli switch to lactose as an energy source. This ability
+depends on the interaction of an allosteric regulatory protein, CAP
+(catabolite activator protein), and cAMP (cyclic-AMP). Since the
+attachment of CAP to the promoter directly stimulates gene expression,
+this mechanism is an example of positive gene regulation.
+VOCABULARY FOR THE OPERON
+RNA polymerase: Enzyme that transcribes a new RNA chain by
+linking ribonucleotides to nucleotides on a DNA template.
+Operator: Sequence of nucleotides near the start of an operon to
+which the active repressor can attach. The binding of the repressor
+prevents RNA polymerase from attaching to the promoter and
+transcribing the operon’s genes.
+Promoter: Nucleotide sequence in the DNA of a gene that is the
+binding 

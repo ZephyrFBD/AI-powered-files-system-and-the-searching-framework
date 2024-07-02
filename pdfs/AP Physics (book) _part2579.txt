@@ -1,0 +1,83 @@
+tive:
+The image
+distance must be negative too because the image is in front of the lens (sign 
+conventions), so 
+The lens equation, Eq. 23–8, gives
+So the object must be 100 cm in front of the lens.
+1
+do
+=
+1
+f - 1
+di
+=
+–
+1
+25 cm +
+1
+20 cm =
+–4 + 5
+100 cm
+=
+1
+100 cm
+.
+di = –20 cm.
+f = –25 cm.
+do,
+EXAMPLE 23;14
+668
+CHAPTER 23
+Light: Geometric Optics
+C A U T I O N
+Object distance 
+for second lens is not
+equal to the image 
+distance for first lens
+FA
+A
+3
+1
+3'
+1'
+1'
+1
+4
+2
+B
+Lens A
+Lens B
+OB
+(= IA)
+FB
+(b)
+(a)
+80.0 cm
+doA
+diA
+diB
+doB
+FA
+FB
+F'
+B
+F'
+B
+IB
+IA
+O
+F'
+A
+F'
+A
+FIGURE 23–44 Two lenses,
+A and B, used in combination,
+Example 23–15. The small numbers
+refer to the easily drawn rays.
+A two-lens system. Two converging lenses, A and B, with
+focal lengths
+and
+are placed 80.0 cm apart, as shown
+in Fig. 23–44a. An object is placed 60.0 cm in front of the first lens as shown in
+Fig. 23–44b. Determine (a) the position, and (b) the magnification, of the final
+image formed by the combination of the t

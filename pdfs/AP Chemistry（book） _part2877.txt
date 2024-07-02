@@ -1,0 +1,25 @@
+on follows a second-order rate law with a very large rate constant:
+ 
+Rate = k3Cl43O34 k = 7.2 * 109 M-1 s-1 at 298 K 
+[18.8]
+Under certain conditions, the ClO generated in Equation 18.7 can react to regener-
+ate free Cl atoms. One way that this can happen is by photodissociation of ClO:
+ 
+ClO1g2 + hn ¡  Cl1g2 + O1g2 
+[18.9]
+The Cl atoms generated in Equations 18.6 and 18.9 can react with more O3, 
+according to Equation 18.7. The result is a sequence of reactions that accomplishes the 
+Cl-catalyzed decomposition of O3 to O2:
+           2 Cl1g2 + 2 O31g2 ¡ 2 ClO1g2 + 2 O21g2
+               2 ClO1g2 + hn ¡ 2 Cl1g2 + 2 O1g2
+                O1g2 + O1g2 ¡ O21g2
+ 
+2 Cl1g2 + 2 O31g2 + 2 ClO1g2 + 2 O1g2 ¡ 2 Cl1g2 + 2 ClO1g2 + 3 O21g2 + 2 O1g2
+The equation can be simplified by eliminating like species from each side to give
+ 
+2 O31g2 ¡
+Cl
+3 O21g2 
+[18.10]
+Because the rate of Equation 18.7 increases linearly with [Cl], the rate at which ozone is 
+destroyed increases as the quantity of Cl atoms i

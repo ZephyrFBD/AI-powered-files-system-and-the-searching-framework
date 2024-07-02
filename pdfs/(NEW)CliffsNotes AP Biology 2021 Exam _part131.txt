@@ -1,0 +1,19 @@
+t chain, from one protein complex to the next (shown as a shaded strip within the inner membrane).
+3. H+ ions (protons) are transported from the matrix to the intermembrane compartment. Protein complexes
+transport H+ ions
+ 
+from the matrix, across the inner membrane, and to the intermembrane space (3A, 3B, 3C).
+ 
+4. A pH and electrical gradient across the inner membrane is created.
+ 
+As H+ are transferred from the matrix to the intermembrane space, the concentration of H+ increases (pH decreases)
+in the intermembrane
+ 
+space (4A) and decreases in the matrix (pH increases). The
+ 
+concentration of H+ in the matrix decreases further as electrons at the end of the electron transport chain (PC IV)
+combine with H+ and
+oxygen to form water (4B). The result is a proton gradient (equivalent to a pH gradient) and an electric charge (or
+voltage) gradient. These gradients are potential energy reserves in the same manner as water behind a dam is stored
+energy.
+5. ATP synthase generates ATP. ATP syn

@@ -1,0 +1,44 @@
+ predict the molecular geometry.
+(b) The Lewis structure for SnCl3
+- is:
+Cl
+Cl
+Cl
+Sn
+2
+ 
+The central Sn atom is bonded to the three Cl atoms and has one nonbonding 
+pair; thus, we have four electron domains, meaning a tetrahedral electron- 
+domain geometry (Table 9.1) with one vertex occupied by a nonbonding pair 
+of electrons. A tetrahedral electron-domain geometry with three bonding and 
+one nonbonding domains leads to a trigonal-pyramidal molecular geometry 
+(Table 9.2).
+ 
+ 
+SECTION 9.2    
+The VSEPR Model 
+347
+Effect of Nonbonding Electrons and  
+Multiple Bonds on Bond Angles
+We can refine the VSEPR model to explain slight distortions from the ideal geometries 
+summarized in Table 9.2. For example, consider methane 1CH42, ammonia 1NH32, and 
+water 1H2O2. All three have a tetrahedral electron-domain geometry, but their bond 
+ 
+angles differ slightly:
+H
+H
+109.58
+H
+H
+H
+C
+1078
+104.58
+H
+H
+N
+H
+H
+O
+Notice that the bond angles decrease as the number of nonbonding electron pairs 
+increases.

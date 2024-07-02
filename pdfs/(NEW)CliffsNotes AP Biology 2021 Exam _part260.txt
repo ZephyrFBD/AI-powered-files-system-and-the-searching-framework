@@ -1,0 +1,11 @@
+otypic results of this cross would produce ¼ TT, ½ Tt, and ¼ tt, while the phenotypic
+frequencies would be ¾ tall and ¼ dwarf because both TT and Tt genotypes produce tall plants.
+Figure 8-4
+Complete Dominance, Dihybrid Cross
+For a dihybrid cross, genes for two different traits are observed at the same time. In peas, seed color can be yellow
+(Y) or green (y), and seed texture can be round (R) or wrinkled (r). Thus, Y and y are used to represent the two alleles
+(yellow and green) for the gene for seed color, and R and r (round and wrinkled) are used for the alleles for seed
+texture. A cross between one pea plant homozygous dominant for both traits and a second plant homozygous
+recessive for both traits would be given as YYRR × yyrr. The first step in analyzing this cross is to determine the
+alleles of all possible gametes. The YYRR plant can produce only one kind of gamete, YR. This is determined by the
+law of segregation; that is, one allele of each allele pair migrates to opposite pol

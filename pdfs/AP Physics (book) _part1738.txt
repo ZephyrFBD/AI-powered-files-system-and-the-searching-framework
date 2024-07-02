@@ -1,0 +1,63 @@
+ue to 2
+12
+21
+2
+1
+12
+F21 = force on 2
+         due to 1
+(a)
+(b)
+(c)
+21
+1
+2
+2
+1
+12
+21
+
+
+
+
+
+
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 16–15 The direction of the
+static electric force one point charge
+exerts on another is always along the
+line joining the two charges, and
+depends on whether the charges
+have the same sign as in (a) and (b),
+or opposite signs (c).
+†In the once common cgs system of units, k is set equal to 1, and the unit of electric charge is called the
+electrostatic unit (esu) or the statcoulomb. One esu is defined as that charge, on each of two point
+objects 1 cm apart, that gives rise to a force of 1 dyne.
+‡According to the Standard Model of elementary particle physics, subnuclear particles called quarks
+have a smaller charge than the electron, equal to
+or 
+Quarks have not been detected directly as
+isolated objects, and theory indicates that free quarks may not be detectable.
+2
+3 e.
+1
+3 e
+COULOMB’S LAW
+(in terms of 
+)
+0
+SECTION 16–5
+Coulomb’s Law
+449
+EXERCISE B In Example 1

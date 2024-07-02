@@ -1,0 +1,19 @@
+htlessness”
+Satellite Motion
+Artificial satellites circling the Earth are now commonplace (Fig. 5–21). A satellite
+is put into orbit by accelerating it to a sufficiently high tangential speed with the use
+of rockets, as shown in Fig. 5–22. If the speed is too high, the spacecraft will not be
+confined by the Earth’s gravity and will escape, never to return. If the speed is too
+low, it will return to Earth. Satellites are typically put into circular (or nearly circu-
+lar) orbits, because such orbits require the least takeoff speed.
+122
+CHAPTER 5
+Circular Motion; Gravitation
+P H Y S I C S  A P P L I E D
+Artificial Earth satellites
+FIGURE 5;21 A satellite, the International Space Station,
+circling the Earth.
+It is sometimes asked: “What keeps a satellite up?” The answer is: its high
+speed. If a satellite in orbit stopped moving, it would fall directly to Earth. But at
+the very high speed a satellite has, it would quickly fly out into space (Fig. 5–23)
+if it weren’t for the gravitational fo

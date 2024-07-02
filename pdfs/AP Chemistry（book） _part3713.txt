@@ -1,0 +1,28 @@
+ion is at 680 nm). What is the color of the complex ion?
+Sample Exercise 23.6 
+Relating Color Absorbed to Color Observed
+SOLUTION
+Analyze We need to relate the color absorbed by a complex (red) to 
+the color observed for the complex.
+Plan For an object that absorbs only one color from the visible 
+spectrum, the color we see is complementary to the color ab-
+sorbed. We can use the color wheel of Figure 23.25 to determine 
+the complementary color.
+Solve From Figure 23.25, we see that green is complementary to 
+red, so the complex appears green.
+Comment As noted in Section 23.2, this green complex was one 
+of those that helped Werner establish his theory of coordina-
+tion (Table 23.3). The other geometric isomer of this complex, 
+cis@3Co(NH3)4Cl24+, absorbs yellow light and therefore appears 
+violet.
+ 
+▶Practice Exercise 1
+A solution containing a certain transition-metal complex ion 
+has the absorption spectrum shown here.
+400
+500
+600
+700
+Wavelength (nm)
+Absorbance
+What color would you ex

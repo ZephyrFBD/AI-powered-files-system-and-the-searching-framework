@@ -1,0 +1,17 @@
+When waves reflect from an obstacle, the angle of incidence
+equals the angle of reflection (Fig. 11–36). The same is true of particles—think
+of a tennis ball without spin striking a flat surface.
+The law of refraction is another matter. Consider a ray of light entering a
+medium where it is bent toward the normal, as when traveling from air into water.
+As shown in Fig. 24–3, this bending can be constructed using Huygens’ principle if
+we assume the speed of light is less in the second medium 
+In time ,
+point B on wave front AB (perpendicular to the incoming ray) travels a distance 
+to reach point D. Point A on the wave front, traveling in the second medium, goes
+a distance 
+to reach point C, and 
+Huygens’ principle is applied to
+points A and B to obtain the curved wavelets shown at C and D. The wave front is
+tangent to these two wavelets, so the new wave front is the line CD. Hence the rays,
+which are perpendicular to the wave fronts, bend toward the normal if
+as drawn. (This is basicall

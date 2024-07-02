@@ -1,0 +1,26 @@
+ of an element with a body-centered 
+cubic lattice? (a) 1, (b) 2, (c) 3, (d) 4, (e) 5.
+ 12.28  What is the minimum number of atoms that could be con-
+tained in the unit cell of an element with a face-centered cu-
+bic lattice? (a) 1, (b) 2, (c) 3, (d) 4, (e) 5.
+ 12.29  The unit cell of nickel arsenide is shown here. (a) What type 
+of lattice does this crystal possess? (b) What is the empirical 
+formula?
+Ni
+As
+120°
+3.57 Å
+side view
+top view
+5.10 Å
+3.57 Å
+ 12.30  The unit cell of a compound containing potassium, alumi-
+num, and fluorine is shown here. (a) What type of lattice 
+does this crystal possess (all three lattice vectors are mutu-
+ally perpendicular)? (b) What is the empirical formula?
+Metallic Solids (Section 12.3)
+12.31  The densities of the elements K, Ca, Sc, and Ti are 0.86, 1.5, 
+3.2, and 4.5 g>cm3, respectively. One of these elements crys-
+tallizes in a body-centered cubic structure; the other three 
+crystallize in a face-centered cubic structure. Which one 
+crystallizes in

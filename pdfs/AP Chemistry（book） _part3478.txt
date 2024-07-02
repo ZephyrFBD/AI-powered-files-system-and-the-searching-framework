@@ -1,0 +1,20 @@
+ strontium-90 in the body of an adult is 
+1 mCi 11 * 10-6 Ci2. Using the relationship rate = kN, cal-
+culate the number of atoms of strontium-90 to which this 
+dose corresponds. To what mass of strontium-90 does this 
+correspond? The half-life for strontium-90 is 28.8 yr.
+ 21.80  Methyl acetate 1CH3COOCH32 is formed by the reaction 
+of acetic acid with methyl alcohol. If the methyl alcohol 
+is labeled with oxygen-18, the oxygen-18 ends up in the 
+methyl acetate:
+ 21.82  The nuclear masses of 7Be, 9Be, and 10Be are 7.0147, 9.0100, 
+and 10.0113 amu, respectively. Which of these nuclei has 
+the largest binding energy per nucleon?
+ 21.83  A 26.00-g sample of water containing tritium, 3
+1H, emits 
+1.50 * 103 beta particles per second. Tritium is a weak beta 
+emitter with a half-life of 12.3 yr. What fraction of all the 
+hydrogen in the water sample is tritium?
+ 21.84  The Sun radiates energy into space at the rate of 
+3.9 * 1026 J/s. (a) Calculate the rate of mass loss from the 
+Sun in kg/s

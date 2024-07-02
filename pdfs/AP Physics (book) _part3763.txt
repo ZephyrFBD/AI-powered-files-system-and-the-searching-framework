@@ -1,0 +1,17 @@
+g three neutrino types, which is the number we observe. And it sets an upper limit of
+four to the maximum number of possible neutrino types. This is a striking example of the powerful
+connection between particle physics and cosmology.
+Flatness
+First of all, our best measurements suggest that the universe is flat, that it has zero
+curvature. As scientists, we would like some reason for this remarkable result. To
+see how inflation explains flatness, consider a simple 2-dimensional model of the
+universe as we did earlier in Figs. 33–16 and 33–21. A circle in this 2-dimensional
+universe (
+surface of a sphere, Fig. 33–30a) represents the observable universe as
+seen by an observer at the blue dot. A possible hypothesis is that inflation occurred
+over a time interval that very roughly doubled the age of the universe from, let us
+say,
+to 
+The size of the observable universe
+would have increased by a factor of two during inflation, while the radius
+of curvature of the entire universe increased 

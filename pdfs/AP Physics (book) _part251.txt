@@ -1,0 +1,43 @@
+of the angle. The values of sine, cosine, and
+tangent for different angles can be found using a scientific calculator, or from the
+Table in Appendix A.
+A useful trigonometric identity is
+(3;2)
+which follows from the Pythagorean theorem (
+in Fig. 3–11). That is:
+(See Appendix A and inside the rear cover for other details on trigonometric
+functions and identities.)
+The use of trigonometric functions for finding the components of a vector is
+illustrated in Fig. 3–12, where a vector and its two components are thought of as
+making up a right triangle. We then see that the sine, cosine, and tangent are as
+given in Fig. 3–12, where is the angle 
+makes with the 
+axis. If we multiply
+the definition of
+by V on both sides, we get
+(3;3a)
+Similarly, from the definition of 
+we obtain
+(3;3b)
+Note that if is not the angle the vector makes with the positive x axis, Eqs. 3–3
+are not valid.
+u
+V
+x = V cos u.
+cos u,
+V
+y = V sin u.
+sin u = V
+yV
+±x
+V
+B
+u
+sin2 u + cos2 u =
+o2
+h2 + a2
+h2
+= o2 + a2
+h2
+= h2
+h2

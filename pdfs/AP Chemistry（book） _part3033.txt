@@ -1,0 +1,14 @@
+es.
+We can usually make qualitative predictions about entropy changes by focusing on 
+these factors. For example, when water vaporizes, the molecules spread out into a larger vol-
+ume. Because they occupy a larger volume, there is an increase in their freedom of motion, 
+giving rise to a greater number of possible microstates, and hence an increase in entropy.
+Now consider the phases of water. In ice, hydrogen bonding leads to the rigid 
+structure shown in Figure 19.9. Each molecule in the ice is free to vibrate, but its transla-
+tional and rotational motions are much more restricted than in liquid water. Although 
+there are hydrogen bonds in liquid water, the molecules can more readily move about 
+relative to one another (translation) and tumble around (rotation). During melting, 
+therefore, the number of possible microstates increases, and so does the entropy. In 
+water vapor, the molecules are essentially independent of one another and have their 
+Go Figure
+In which phase are water 

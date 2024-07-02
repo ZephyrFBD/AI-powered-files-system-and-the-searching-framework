@@ -1,0 +1,17 @@
+ossil fuels. In order 
+to develop a hydrogen economy, it would be necessary to generate 
+elemental hydrogen on a large scale and arrange for its transport and 
+storage. These matters provide signiﬁcant technical challenges.
+Figure 22.4 illustrates various sources and uses of H2 fuel. The gen-
+eration of H2 through electrolysis of water is in principle the cleanest 
+route, because this process—the reverse of Equation 22.11—produces 
+only hydrogen and oxygen. 
+ (Figure 1.7 and Section 20.9) How-
+ever, the energy required to electrolyze water must come from some-
+where. If we burn fossil fuels to generate this energy, we have not 
+advanced very far toward a true hydrogen economy. If the energy for 
+electrolysis came instead from a hydroelectric or nuclear power plant, 
+solar cells, or wind generators, consumption of nonrenewable energy 
+sources and undesired production of CO2 could be avoided.
+The storage of hydrogen is another technical obstacle that must 
+be overcome in developing a hyd

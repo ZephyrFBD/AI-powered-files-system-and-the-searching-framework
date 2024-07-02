@@ -1,0 +1,18 @@
+ly
+more advanced physics material, or material not usually covered in typical 
+courses and/or interesting applications; they contain no material needed in later
+Chapters (except perhaps in later optional Sections).
+For a brief course, all optional material could be dropped as well as significant
+parts of Chapters 1, 10, 12, 22, 28, 29, 32, and selected parts of Chapters 7, 8, 9,
+15, 21, 24, 25, 31. Topics not covered in class can be a valuable resource for later
+study by students. Indeed, this text can serve as a useful reference for years because
+of its wide range of coverage.
+†It is fine to take a calculus course. But mixing calculus with physics for these students may often
+mean not learning the physics because of stumbling over the calculus.
+Edward Adelson, The Ohio State University
+Lorraine Allen, United States Coast Guard Academy
+Zaven Altounian, McGill University 
+Leon Amstutz, Taylor University
+David T. Bannon, Oregon State University
+Bruce Barnett, Johns Hopkins University
+Mic

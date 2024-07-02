@@ -1,0 +1,13 @@
+ amino (NH2) terminus and a carboxyl (COOH) terminus. The order of the amino acids in the
+polypeptide chain determines the primary structure of the protein.
+Figure 4.6 Peptide Bond
+A change in the primary structure of a protein may have severe effects on the function of the protein, as seen in
+sickle cell disease. Just one amino acid is changed out of over 140 amino acids in sickle cell hemoglobin.
+Secondary Structure
+Once the primary structure is formed, hydrogen bonds may form between adjacent amino acids in the polypeptide
+chain. This drives the formation of the secondary structure of the protein. These secondary structures include alpha
+helixes and beta-pleated sheets.
+Tertiary Structure
+Tertiary structure is the three-dimensional folded shape of the protein, often determined by the
+hydrophobic/hydrophilic interactions between R-groups in the polypeptide. The most stable tertiary structures will
+have hydrophilic R-groups on the surface of the protein (in contact with the watery env

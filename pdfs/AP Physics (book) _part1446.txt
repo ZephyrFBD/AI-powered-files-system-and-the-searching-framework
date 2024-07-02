@@ -1,0 +1,31 @@
+239.9
+33.3
+12.8
+Helium
+267.9
+5.3
+2.3
+–
+–
+–
+–
+CO2
+Often a distinction is made between the terms “gas” and “vapor”: a substance
+below its critical temperature in the gaseous state is called a vapor; above the
+critical temperature, it is called a gas.
+The behavior of a substance can be diagrammed not only on a PV diagram but
+also on a PT diagram. A PT diagram, often called a phase diagram, is particu-
+larly convenient for comparing the different phases of a substance. Figure 13–22
+is the phase diagram for water. The curve labeled 
+represents those points
+where the liquid and vapor phases are in equilibrium—it is thus a graph of the 
+boiling point versus pressure. Note that the curve correctly shows that at a pres-
+sure of 1 atm the boiling point is 100°C and that the boiling point is lowered 
+for a decreased pressure. The curve 
+represents points where solid and liquid
+exist in equilibrium and thus is a graph of the freezing point versus pressure.
+s-l
+l-v
+378
+CHAPTER 13
+Temperature and Ki

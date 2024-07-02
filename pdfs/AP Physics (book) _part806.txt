@@ -1,0 +1,67 @@
+= v2r.
+v
+aR = v2r.
+a
+B
+R,
+a
+B = a
+B
+tan + a
+B
+R,
+202
+CHAPTER 8
+Rotational Motion
+TABLE 8;1 Linear and Rotational Quantities
+Linear
+Type
+Rotational
+Relation‡
+x
+displacement
+v
+velocity
+acceleration
+‡ You must use radians.
+atan = ra
+a
+atan
+v = rv
+v
+x = ru
+u
+ω
+P
+   R
+   tan
+a
+B
+a
+B
+FIGURE 8;6 On a rotating wheel
+whose angular speed is increasing,
+a point P has both tangential and
+radial (centripetal) components of
+linear acceleration. (See also 
+Chapter 5.)
+Angular and linear velocities. A carousel is initially at rest.
+At 
+it is given a constant angular acceleration 
+which
+increases its angular velocity for 8.0 s. At 
+determine (a) the angular
+velocity of the carousel, and (b) the linear velocity of a child (Fig. 8–7a) located
+2.5 m from the center, point P in Fig. 8–7b.
+APPROACH The angular acceleration 
+is constant, so we can use 
+(Eq. 8–3a) to solve for 
+after a time 
+With this , we determine the
+linear velocity using Eq. 8–4,
+.
+SOLUTION (a) In Eq. 8–3a,
+we put
+and
+Solving for 
+we get

@@ -1,0 +1,164 @@
+ N.
+F
+31x = F
+31 cos 30° = (140 N) cos 30° = 120 N,
+F
+B
+31
+F
+32 = k Q3 Q2
+r32
+2
+=
+A9.0 * 109 Nm2C2BA6.5 * 10–5 CBA5.0 * 10–5 CB
+(0.30 m)2
+= 325 N.
+F
+31 = k Q3 Q1
+r31
+2
+=
+A9.0 * 109 Nm2C2BA6.5 * 10–5 CBA8.6 * 10–5 CB
+(0.60 m)2
+= 140 N,
+F
+B
+32
+F
+B
+31
+F
+B
+32
+F
+B
+31
+Q3
+F
+B
+32
+F
+B
+31
+Q2
+Q3 ,
+Q1
+F
+B
+32
+F
+B
+31
+Q2 .
+Q1
+Q3
+Q2 .
+Q1
+Q3
+EXAMPLE 16;4
+F31x
+y
+x
+32
+31
+F31y
+Q3 = +65    C
+Q2 = +50    C
+52 cm
+60 cm
+90°
+30°
+30°
+30 cm
+Q1 = −86    
+ C
+m
+m
+m
+(a)
+(b)
+y
+x
+32
+31
+Q3
+u
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 16–20 Determining the
+forces for Example 16–4. (a) The
+directions of the individual forces
+are as shown because 
+is repulsive
+(the force on 
+is in the direction
+away from 
+because 
+and 
+are
+both positive) whereas 
+is
+attractive (
+and 
+have opposite
+signs), so
+points toward 
+(b) Adding 
+to 
+to obtain the
+net force F
+B.
+F
+B
+31
+F
+B
+32
+Q1 .
+F
+B
+31
+Q1
+Q3
+F
+B
+31
+Q2
+Q3
+Q2
+Q3
+F
+B
+32
+SECTION 16–7
+The Electric Field
+453
+y
+x
+=
+31 +
+32
+34
+u = 65°
+Q4
+Q3
+115°
+F
+B
+F
+B
+F
+B
+F
+B
+r  ?
+FIGURE 16–21 Example 16–5 and
+Exer

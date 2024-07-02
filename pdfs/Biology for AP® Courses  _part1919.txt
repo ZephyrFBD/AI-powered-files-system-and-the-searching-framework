@@ -1,0 +1,12 @@
+res techniques
+704
+Chapter 17 | Biotechnology and Genomics
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+for protein analysis. The basic technique for protein analysis, analogous to DNA sequencing, is mass spectrometry. Mass
+spectrometry is used to identify and determine the characteristics of a molecule. Advances in spectrometry have allowed
+researchers to analyze very small samples of protein. X-ray crystallography, for example, enables scientists to determine the
+three-dimensional structure of a protein crystal at atomic resolution. Another protein imaging technique, nuclear magnetic
+resonance (NMR), uses the magnetic properties of atoms to determine the three-dimensional structure of proteins in aqueous
+solution. Protein microarrays have also been used to study interactions between proteins. Large-scale adaptations of the
+basic two-hybrid screen (Figure 17.16) have provided the basis for protein microarrays. Computer software is used to
+analyze the

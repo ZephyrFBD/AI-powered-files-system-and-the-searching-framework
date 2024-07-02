@@ -1,0 +1,18 @@
+cording 
+to the assumptions, its inverse function naturally described the opposite effect. Firstly, 
+society influences the development of economy. In the early stage of social 
+development, society drives little to economy, but with the progress of the society, 
+economic development will improve rapidly. We select the exponential function to 
+simulate. Ecological effect to the society is almost synchronous, which means if 
+ecological development is well, society will develop excellent, too. Therefore, we 
+select a linear function to simulate. Economic effect to the ecology is evident. 
+Economy is the key to the early stage of the ecological development, while relatively 
+well ecological development to some extent doesn’t rely on the economy anymore 
+and will enter into the steady stage. According to this, we select sine function to 
+simulate. 
+ 
+Table 5: The proportion of impact between two factors and corresponding function 
+The proportion 
+Function 
+Figure 
+The impact of the society

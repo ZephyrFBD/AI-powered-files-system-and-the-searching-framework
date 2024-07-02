@@ -1,0 +1,81 @@
+adi-
+ene or pentatriene, we know that the five-carbon chain contains 
+only one carbon–carbon double bond. Thus, we begin by placing 
+the double bond in various locations along the chain, remember-
+ing that the chain can be numbered from either end. After finding 
+the different unique locations for the double bond, we consider 
+whether the molecule can have cis and trans isomers.
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+5
+4
+3
+2
+1
+5
+4
+3
+2
+1
+renumbered as
+renumbered as
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+SOLUTION
+Sample Exercise 24.3 
+Drawing Isomers
+▶ Figure 24.8 Cis and trans isomers of 
+alkenes. Geometric isomers of alkenes exist 
+because rotation about a carbon–carbon 
+double bond requires too much energy to 
+occur at ordinary temperatures.
+Alkynes
+Alkynes are unsaturated hydrocarbons containing one or more C ‚C bonds. The simplest alkyne is 
+acetylene (C2H2, systematic name ethyne), a highly reactive molecule. When acetylene is burned in 
+a stream of oxygen in 

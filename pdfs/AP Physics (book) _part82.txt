@@ -1,0 +1,24 @@
+er-
+estimate the accuracy (or uncertainty) of the answer. Suppose for example we
+divide 97 by 92:
+Both 97 and 92 have two significant figures, so the rule says to give the answer
+as 1.1. Yet the numbers 97 and 92 both imply an uncertainty of 
+if no other
+uncertainty is stated. Both
+and
+imply an uncertainty of 
+about 1%
+But the final result to two significant figures 
+is 1.1, with an implied uncertainty of 
+which is an uncertainty of about 10%
+It is better in this case to give the answer as 1.05 (which
+is three significant figures). Why? Because 1.05 implies an uncertainty of 
+which is
+just like the uncertainty in the original
+numbers 92 and 97.
+SUGGESTION: Use the significant figures rule, but consider the % uncertainty
+too, and add an extra digit if it gives a more realistic estimate of uncertainty.
+Approximations
+Much of physics involves approximations, often because we do not have the
+means to solve a problem precisely. For example, we may choose to ignore air
+resistance or friction

@@ -1,0 +1,15 @@
+c, such as NaOH 
+and NH3. However, our discussion up to this point in the chapter has indicated that ions 
+can also exhibit acidic or basic properties. For example, we calculated Ka for NH4
++ and Kb 
+for F - in Sample Exercise 16.17. Such behavior implies that salt solutions can be acidic or 
+basic. Before proceeding with further discussions of acids and bases, let’s examine the 
+way dissolved salts can affect pH.
+Because nearly all salts are strong electrolytes, we can assume that any salt dissolved 
+in water is completely dissociated. Consequently, the acid–base properties of salt solu-
+tions are due to the behavior of the cations and anions. Many ions react with water to 
+generate H+1aq2 or OH-1aq2 ions. This type of reaction is often called hydrolysis. The 
+pH of an aqueous salt solution can be predicted qualitatively by considering the salt’s 
+cations and anions.
+An Anion’s Ability to React with Water
+In general, an anion A- in solution can be considered the conjugate base of an a

@@ -1,0 +1,25 @@
+From Table 14–1, the specific
+heat of iron is 
+The change in temperature is 
+Thus,
+(b) Our system is the vat plus the water. The water alone would require
+or almost 10 times what an equal mass of iron requires. The total, for the vat
+plus the water, is
+NOTE In (b), the iron vat and the water underwent the same temperature
+change,
+but their specific heats are different.
+¢T = 80 C°,
+720 kJ + 6700 kJ = 7400 kJ.
+Qw = mc ¢T = (20 kg)(4186 JkgC°)(80 C°) = 6.7 * 106 J = 6700 kJ,
+Qvat = mc ¢T = (20 kg)(450 JkgC°)(80 C°) = 7.2 * 105 J = 720 kJ.
+80 C°.
+(90°C - 10°C) =
+450 JkgC°.
+EXAMPLE 14;2
+14–3 Specific Heat
+If heat flows into an object, the object’s temperature rises (assuming no phase
+change). But how much does the temperature rise? That depends. As early as the
+eighteenth century, experimenters had recognized that the amount of heat Q
+required to change the temperature of a given material is proportional to the mass m
+of the material present and to the temperature change 
+This remarka

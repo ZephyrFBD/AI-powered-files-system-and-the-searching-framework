@@ -1,0 +1,54 @@
+of DNA
+Analysis Question: How can we use genetic information to profile individuals?
+Exercise 9A: Restriction Enzyme Cleavage of DNA and Electrophoresis
+HindIII
+Actual bp Measured Distance in cm
+21,130
+3.0
+9,416
+3.9
+6,557
+4.8
+4,361
+6.1
+2,322
+9.1
+2,027
+9.6
+570
+Cannot see on gel
+125
+Cannot see on gel
+EcoRI
+Band Measured Distance in cm Actual bp Interpolated bp from Graph
+1
+2.8
+21,226
+19,000
+2
+4.4
+7,421
+9,000
+3
+4.9
+5,804
+7,000
+4
+5.1
+5,643
+6,800
+5
+5.7
+4,878
+5,000
+6
+6.9
+3,530
+4,300
+Interpretation of this Exercise
+Lambda phage DNA was incubated with restriction enzymes HindIII and EcoRI separately. The
+migration distance of the DNA bands produced by HindIII were measured in centimeters and were
+plotted against bare paper size using semi-log paper. This was accomplished with DNA gel
+electrophoresis.
+Drawing the line of best fits allows for interpolation of the same DNA cut with EcoRI. Based on the
+line of best fit, the base pairs of the lambda DNA can be found and compared to the known value.

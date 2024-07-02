@@ -1,0 +1,38 @@
+s effect is called total internal reflection.
+Total internal reflection occurs only when light strikes a boundary where the
+medium beyond has a lower index of refraction.
+View up from under water. Describe
+what a person would see who looked up at the world from beneath the perfectly
+smooth surface of a lake or swimming pool.
+RESPONSE For an air–water interface, the critical angle is given by
+Therefore,
+Thus the person would see the outside world compressed
+into a circle whose edge makes a 49° angle with the vertical. Beyond this angle,
+the person would see reflections from the sides and bottom of the lake or pool
+(Fig. 23–27).
+uC = 49°.
+sin uC = 1.00
+1.33
+= 0.750.
+CONCEPTUAL EXAMPLE 23;10
+n2 6 n1.
+= n1 sin u1n2
+sin u2
+uC,
+u1
+uC,
+sin uC = n2
+n1 sin 90° = n2
+n1
+.
+uC
+uC .
+EXERCISE D Light traveling in air strikes a glass surface with
+For what range
+of angles will total internal reflection occur?
+n = 1.48.
+660
+CHAPTER 23
+Light: Geometric Optics
+P H Y S I C S  A P P L I E D
+Fiber optics in

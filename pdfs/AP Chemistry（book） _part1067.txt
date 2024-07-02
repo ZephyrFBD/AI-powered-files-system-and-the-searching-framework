@@ -1,0 +1,32 @@
+lass
+(core electrons)
+Observer
+(valence
+electron)
+▲ Figure 7.2 An analogy for effective 
+nuclear charge. We envision the nucleus as 
+a light bulb, the core electrons as a frosted 
+glass lampshade, and a valence electron as 
+an observer. The amount of light seen by 
+the observer depends on the intensity of the 
+light bulb and the screening by the frosted 
+glass lampshade.
+Valence electron (3s)
+Ten core electrons (1s22s22p6)
+screen the nucleus from the
+valence electron (102).
+Sodium nucleus contains
+11 protons (111). 
+▶ Figure 7.3 Effective nuclear charge. The 
+effective nuclear charge experienced by the 
+3s electron in a sodium atom depends on 
+the 11+ charge of the nucleus and the 10- 
+charge of the core electrons.
+ 
+SECTION 7.2   
+Effective Nuclear Charge 
+261
+probability that the 3s electron is close to the nucleus, the value of S in Equation 7.1 
+changes from 10 to 8.5.
+The notion of effective nuclear charge also explains an important effect we noted 
+in Section 6.7: For a many-elec

@@ -1,0 +1,121 @@
+H H
+H H
+C
+C
+C
+C
+C
+C
+C
+CH3
+C
+H
+H
+H
+H
+H
+H
+H
+H
+O
+O
+C
+Cl
+Cl
+Cl
+Cl
+ 
+▶Practice Exercise 2
+Arrange the following substances in order of increasing solu-
+bility in water:
+(a) 
+H
+C
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+C
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+OH
+HO
+C
+C
+C
+C
+C
+OH
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+C
+C
+C
+C
+C
+Cl
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+(b) 
+(c) 
+(d) 
+(a) Hexane
+(c) Acetone
+(e) Water
+(b) Benzene
+(d) Carbon tetrachloride
+536 
+CHAPTER 13 Properties of Solutions
+escape from the solution. Thus, the solubility of a gas in a liquid solvent increases in 
+direct proportion to the partial pressure of the gas above the solution (Figure 13.13).
+The relationship between pressure and gas solubility is expressed by Henry’s law:
+ 
+Sg = kP
+g 
+[13.4]
+Here, Sg is the solubility of the gas in the solvent (usually expressed as molarity), P
+g is 
+the partial pressure of the gas over the solution, and k is a proportionality constant 
+known as the Henry’s law constant. The value of this constant depends on the solute, 
+solvent, and tempe

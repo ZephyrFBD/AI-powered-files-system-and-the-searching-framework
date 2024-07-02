@@ -1,0 +1,20 @@
+
+The rat has a mass of 385 g and is exposed to the radiation 
+for 14.0 s, absorbing 35% of the emitted alpha particles, 
+each having an energy of 9.12 * 10-13 J. Calculate the 
+absorbed dose in millirads and grays. (c) If the RBE of the 
+radiation is 9.5, calculate the effective absorbed dose in 
+mrem and Sv.
+ 21.70  A 65-kg person is accidentally exposed for 240 s to a 
+15-mCi source of beta radiation coming from a sample 
+of 90Sr. (a) What is the activity of the radiation source in 
+disintegrations per second? In becquerels? (b) Each beta 
+particle has an energy of 8.75 * 10-14 J. and 7.5% of the 
+radiation is absorbed by the person. Assuming that the 
+absorbed radiation is spread over the person’s entire body, 
+calculate the absorbed dose in rads and in grays. (c) If the 
+RBE of the beta particles is 1.0, what is the effective dose 
+in mrem and in sieverts? (d) Is the radiation dose equal to, 
+greater than, or less than that for a typical mammogram 
+(300 mrem)?
+Additional Exercises

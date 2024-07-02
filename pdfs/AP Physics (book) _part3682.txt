@@ -1,0 +1,20 @@
+perature of the reddish star is
+The temperature of the bluish star will be double this because its peak wavelength
+is half (350 nm vs. 700 nm):
+(b) The Stefan-Boltzmann equation, Eq. 14–6, states that the power radiated
+per unit area of surface from a blackbody is proportional to the fourth power of
+the Kelvin temperature,
+The temperature of the bluish star is double that of
+the reddish star, so the bluish one must radiate 
+times as
+much energy per unit area. But we are given that they have the same luminosity
+(the same total power output); so the surface area of the blue star must be 
+that of the red one. The surface area of a sphere is 
+so the radius of the
+reddish star is 
+times larger than the radius of the bluish star (or 
+times the volume).
+H–R Diagram
+An important astronomical discovery, made around 1900, was that for most stars,
+the color is related to the intrinsic luminosity and therefore to the mass. A useful
+way to present this relationship is by the so-called Hertzsprung–R

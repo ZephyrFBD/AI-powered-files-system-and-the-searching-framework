@@ -1,0 +1,28 @@
+ particular TV station’s signal 
+is 
+when it arrives at a 33-cm-diameter
+satellite TV antenna. (a) Calculate the total energy received
+by the antenna during 4.0 hours of viewing this station’s
+programs. (b) Estimate the amplitudes of the E and B fields
+of the EM wave.
+54. What length antenna would be appropriate for a portable
+device that could receive satellite TV?
+55. A radio station is allowed to broadcast at an average
+power not to exceed 25 kW. If an electric field amplitude
+of 
+is considered to be acceptable for receiving
+the radio transmission, estimate how many kilometers away
+you might be able to detect this station.
+0.020 Vm
+1.0 * 10–13 Wm2
+1350 Wm2
+B0
+E0
+4 * 10–14 Jm3.
+FIGURE 22–22
+Problem 47.
+56. The radiation pressure (Section 22–6) created by electro-
+magnetic waves might someday be used to power spacecraft
+through the use of a“solar sail,”Example 22–6. (a) Assuming
+total reflection, what would be the pressure on a solar sail
+located at the same distance from the Sun 

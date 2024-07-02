@@ -1,0 +1,29 @@
+um of an electron in 
+an atom (Heisenberg’s uncertainty principle).
+ 
+6.5 ▶ Quantum Mechanics and Atomic 
+Orbitals Describe how the electron 
+exists in the hydrogen atom by treating it 
+as if it were a wave. The wave functions 
+that mathematically describe the electron’s 
+position and energy in an atom are called 
+atomic orbitals. Each orbital is characterized 
+by a set of quantum numbers.
+ 
+6.6 ▶ Representations of Orbitals  
+Consider the three-dimensional shapes of 
+orbitals and how they can be represented by 
+graphs of electron density.
+ 
+6.7 ▶ Many-Electron Atoms Learn that the 
+energy levels of an atom having more than 
+one electron are different from those of the 
+hydrogen atom, and that each electron has an 
+additional quantum-mechanical property called 
+spin. The Pauli exclusion principle states that 
+no two electrons in an atom can have the same 
+four quantum numbers. Therefore, each orbital 
+can hold a maximum of two electrons.
+ 
+6.8 ▶ Electron Configurations Learn how 
+the o

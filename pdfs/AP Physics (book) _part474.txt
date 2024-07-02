@@ -1,0 +1,95 @@
+ 
+= (0.150 kg) (6.566 ms)2
+(1.10 m)
++ (0.150 kg)A9.80 ms2B
+= 7.35 N.
+F
+T 2 = m v2
+2
+r
++ mg
+F
+T 2:
+6.566 ms.
+v2
+F
+T2 - mg = m v2
+2
+r .
+ 
+(©F)R = maR
+mg
+B,
+F
+T 2
+= 3.283 ms L  3.28 ms.
+v1 =
+1gr = 3A9.80 ms2B(1.10 m)
+v1 ,
+mg = m v1
+2
+r .
+F
+T 1 = 0
+v1
+v1
+F
+T1
+F
+T1 + mg = m v1
+2
+r .
+ 
+(©F)R = maR
+aR.
+F
+B
+T1 ,
+mg
+B,
+(aR = v2r)
+EXAMPLE 5;4
+114
+CHAPTER 5
+Circular Motion; Gravitation
+C A U T I O N
+Circular motion only if cord 
+is under tension
+N
+F
+B
+N
+F
+B
+mg
+B
+mg
+B
+a
+B
+a
+B
+FIGURE 5;9 Exercise C.
+1
+2
+m
+m
+T2
+T1
+F
+B
+F
+B
+g
+B
+g
+B
+FIGURE 5;8 Example 5–4. Free-
+body diagrams for positions 1 and 2.
+EXERCISE C A rider on a Ferris wheel moves in a vertical circle of radius r at constant
+speed v (Fig. 5–9). Is the normal force that the seat exerts on the rider at the top of 
+the wheel (a) less than, (b) more than, or (c) the same as, the force the seat exerts at the
+bottom of the wheel?
+T
+etherball. The game of tetherball is played
+with a ball tied to a pole with a cord. After the ball is struck, i

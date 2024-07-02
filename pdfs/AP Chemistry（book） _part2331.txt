@@ -1,0 +1,25 @@
+ry reaction? (c) What is a 
+ 
+Exercises 
+615
+616 
+CHAPTER 14 Chemical Kinetics
+the first step is slow and the second one is fast, which rate 
+law do you expect to be observed for the overall reaction?
+ 14.72 The decomposition of hydrogen peroxide is catalyzed by 
+iodide ion. The catalyzed reaction is thought to proceed 
+by a two-step mechanism:
+  H2O21aq2 + I -1aq2 ¡ H2O1l2 + IO -1aq2 1slow2
+ IO -1aq2 + H2O21aq2 ¡ H2O1l2 + O21g2 + I -1aq2 1fast2
+ 
+ (a) Write the chemical equation for the overall process. 
+(b) Identify the intermediate, if any, in the mechanism. 
+(c) Assuming that the first step of the mechanism is rate 
+determining, predict the rate law for the overall process.
+ [14.73] The reaction 2 NO1g2 + Cl21g2 ¡ 2 NOCl1g2 was per-
+formed and the following data were obtained under con-
+ditions of constant 3Cl24:
+reaction mechanism? (d) What is meant by the term rate- 
+determining step?
+ 14.66 (a) Can an intermediate appear as a reactant in the first 
+step of a reaction mechanism? 

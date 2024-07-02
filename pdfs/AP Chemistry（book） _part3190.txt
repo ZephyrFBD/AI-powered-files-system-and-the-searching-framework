@@ -1,0 +1,24 @@
+ standard reduction potential of the 
+cathode reaction, E°
+red (cathode), minus the standard reduction potential of the anode 
+reaction, E°
+red (anode):
+ 
+E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2 
+[20.8]
+It is not possible to measure the standard reduction potential of a half-reaction directly. 
+If we assign a standard reduction potential to a certain reference half-reaction, however, we 
+can then determine the standard reduction potentials of other half-reactions relative to 
+that reference value. The reference half-reaction is the reduction of H+1aq2 to H21g2 under 
+standard conditions, which is assigned a standard reduction potential of exactly 0 V:
+ 
+2 H+1aq, 1 M2 + 2 e- ¡ H21g, 1 atm2 E°
+red = 0 V 
+[20.9]
+An electrode designed to produce this half-reaction is called a standard hydrogen 
+electrode (SHE). A SHE consists of a platinum wire connected to a piece of platinum 
+foil covered with finely divided platinum that serves as an inert surface for the reaction 
+(Figure 20.8). Th

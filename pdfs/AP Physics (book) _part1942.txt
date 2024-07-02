@@ -1,0 +1,26 @@
+itor (Section 17–9) can
+be written as either 
+or 
+In the first case the
+energy is proportional to C; in the second case the energy is
+proportional to 1 C. (a) Explain how both of these equations
+can be correct. (b) When might you use the first equation
+and when might you use the second equation? (c) If a paper
+dielectric is inserted into a parallel-plate capacitor that is
+attached to a battery (V does not change), by what factor
+will the energy stored in the capacitor change? (d) If a
+quartz dielectric is inserted into a charged parallel-plate
+capacitor that is isolated from any battery, by what factor will
+the energy stored in the capacitor change?
+
+Q22C.
+CV22
+110 km2.
+±x,
+±y,
+5. Suppose it takes 75 kW of power for your car to travel at a
+constant speed on the highway. (a) What is this in horse-
+power? (b) How much energy in joules would it take for
+your car to travel at highway speed for 5.0 hours? (c) Suppose
+this amount of energy is to be stored in the electric field of a
+parall

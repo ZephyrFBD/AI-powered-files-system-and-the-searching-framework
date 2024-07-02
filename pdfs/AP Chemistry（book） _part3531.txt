@@ -1,0 +1,20 @@
+e, poisonous gas with a sharp, irritating odor. Many people can detect 
+as little as 0.01 ppm in air. Exposure to 0.1 to 1 ppm produces headaches, burning eyes, 
+and irritation to the respiratory passages.
+The O3 molecule possesses p electrons that are delocalized over the three oxygen 
+atoms. 
+ (Section 8.6) The molecule dissociates readily, forming reactive oxygen atoms:
+ 
+O31g2 ¡ O21g2 + O1g2 ∆H° = 105 kJ 
+[22.21]
+Ozone is a stronger oxidizing agent than dioxygen. Ozone forms oxides with many 
+elements under conditions where O2 will not react; indeed, it oxidizes all the common 
+metals except gold and platinum.
+Ozone can be prepared by passing electricity through dry O2. During thunderstorms, 
+ozone is generated (and can be smelled, if you are too close) from lightning strikes:
+ 
+3 O21g2 ¡
+electricity2 O31g2 ∆H° = 285 kJ 
+[22.22]
+Ozone is sometimes used to treat drinking water. Like Cl2, ozone kills bacteria and 
+oxidizes organic compounds. The largest use of ozone, however, is in t

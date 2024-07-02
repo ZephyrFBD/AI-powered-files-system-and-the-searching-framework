@@ -1,0 +1,28 @@
+e Effect of Temperature Changes on Pressure
+ 
+▶Practice Exercise 1
+If you fill your car tire to a pressure of 32 psi (pounds per 
+square inch) on a hot summer day when the temperature is 
+35 °C 195 °F2, what is the pressure (in psi) on a cold winter 
+day when the temperature is -15 °C 15 °F2? Assume no gas 
+leaks out between measurements and the volume of the  
+tire does not change.  
+(a) 38 psi (b) 27 psi (c) -13.7 psi (d) 1.8 psi  
+(e) 13.7 psi
+ 
+▶Practice Exercise 2
+The pressure in a natural-gas tank is maintained at 2.20 atm. 
+On a day when the temperature is -15 °C, the volume of gas 
+in the tank is 3.25 * 103 m3. What is the volume of the same 
+quantity of gas on a day when the temperature is 31 °C?
+given data give
+P
+2 = 11.5 atm2a 723 K
+298 K b = 3.6 atm
+Check This answer is intuitively reasonable—increasing the tem-
+perature of a gas increases its pressure.
+Comment It is evident from this example why aerosol cans carry a 
+warning not to incinerate.
+ 
+SECTION 10.5   
+Further App

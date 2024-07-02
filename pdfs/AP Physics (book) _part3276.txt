@@ -1,0 +1,16 @@
+both p-type and n-type semiconductors have no net charge on them.
+According to the band theory (Section 29–7), in a doped semiconductor the
+impurity provides additional energy states between the bands as shown in
+Fig. 29–28. In an n-type semiconductor, the impurity energy level lies just below
+the conduction band, Fig. 29–28a. Electrons in this energy level need only about
+0.05 eV in Si to reach the conduction band which is on the order of the thermal
+energy,
+At room temperature, the small % of electrons
+in this donor level 
+can readily make the transition upward. This
+energy level can thus supply electrons to the conduction band, so it is called a
+donor level. In p-type semiconductors, the impurity energy level is just above the
+valence band (Fig. 29–28b). It is called an acceptor level because electrons from
+the valence band can jump into it with only average thermal energy. Positive
+holes are left behind in the valence band, and as other electrons move into these
+holes, the holes mo

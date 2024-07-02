@@ -1,0 +1,41 @@
+of the throw, so we set  
+and we assume  
+is in the horizontal direction. We ignore all other
+forces on the ball during this brief time interval, such as gravity, in comparison
+to the force exerted by the tennis racket.
+SOLUTION The force exerted on the ball by the racket is
+This is a large force, larger than the weight of a 60-kg person, which would
+require a force  
+to lift.
+NOTE The force of gravity acting on the tennis ball is
+which justifies our ignoring it compared to the enormous force the
+racket exerts.
+NOTE High-speed photography and radar can give us an estimate of the contact
+time and the velocity of the ball leaving the racket. But a direct measure-
+ment of the force is not practical. Our calculation shows a handy technique for 
+determining an unknown force in the real world.
+0.59 N,
+mg = (0.060 kg)A9.8 ms2B =
+mg = (60 kg)A9.8 ms2B L 600 N
+L 800 N.
+F
+avg =
+¢p
+¢t
+= mv2 - mv1
+¢t
+= (0.060 kg)(55 ms) - 0
+0.004 s
+v2 = 55 ms
+v1 = 0,
+v1
+mv2
+mv1
+F
+avg =
+¢p
+¢t
+= mv2 - mv1
+¢t
+,
+A

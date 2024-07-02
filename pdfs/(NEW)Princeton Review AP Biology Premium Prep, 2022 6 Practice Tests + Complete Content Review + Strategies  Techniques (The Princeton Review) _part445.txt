@@ -1,0 +1,14 @@
+ia begin to compete with each other for
+resources. When the resources become limited, the population reaches its carrying capacity, and the curve levels off.
+This kind of logistic growth can be calculated with the following equation:
+The population becomes restricted in size because of limited resources. This is referred to as logistic growth. Notice
+from the graph on the previous page that the growth forms an S-shaped curve.
+One More Equation for the Road
+On the AP Exam, you may see the logistic growth equation written as 
+Essentially it’s the same as the exponential equation except when the
+population size approaches the carrying capacity, the growth rate approaches
+zero.
+These growth patterns are associated with two kinds of life-history strategies: r-selected species and k-selected
+species.
+Those who thrive in areas that are barren or uninhabited are known as r-strategists. Once they colonize an area,
+they reproduce as quickly as possible. Why? They know they’ve got to multiply bef

@@ -1,0 +1,16 @@
+e? The radius increases and the energy of 
+attraction between the electron and the nucleus approaches zero, so when n = ∞ the 
+electron is completely separated from the nucleus and the energy of the electron is zero:
+ 
+E = 1-2.18 * 10 - 18 J2a 1
+∞2 b = 0
+The state in which the electron is completely separated from the nucleus is called the refer-
+ence, or zero-energy, state of the hydrogen atom.
+In his third postulate, Bohr assumed that the electron can “jump” from one 
+allowed orbit to another by either absorbing or emitting photons whose radiant 
+energy corresponds exactly to the energy difference between the two orbits. The elec-
+tron must absorb energy in order to move to a higher-energy state (higher value of n). 
+Conversely, radiant energy is emitted when the electron jumps to a lower-energy state 
+(lower value of n).
+Let’s consider a case in which the electron jumps from an initial state with principal 
+quantum number ni and energy Ei to a final state with principal quantum numb

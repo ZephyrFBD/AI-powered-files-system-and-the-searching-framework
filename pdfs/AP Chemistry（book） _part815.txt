@@ -1,0 +1,17 @@
+he enthalpy of reaction de-
+pends on the physical states of the reactants and products.
+CALORIMETRY (SECTION 5.5) The amount of heat transferred 
+between the system and the surroundings is measured experi-
+mentally by calorimetry. A calorimeter measures the temperature 
+change accompanying a process. The temperature change of a 
+calorimeter depends on its heat capacity, the amount of heat re-
+quired to raise its temperature by 1 K. The heat capacity for one 
+mole of a pure substance is called its molar heat capacity; for one 
+gram of the substance, we use the term specific heat. Water has 
+a very high specific heat, 4.18 J>g@K. The amount of heat, q, ab-
+sorbed by a substance is the product of its specific heat (Cs), its 
+mass, and its temperature change: q = Cs * m * ∆T.
+If a calorimetry experiment is carried out under a constant 
+pressure, the heat transferred provides a direct measure of the en-
+thalpy change of the reaction. Constant-volume calorimetry is 
+carried out in a vessel o

@@ -1,0 +1,25 @@
+ium is simply the sum of 
+the equilibrium partial pressures:
+P
+total = P
+H2O + P
+CO + P
+H2
+= 2.67 atm + 6.14 atm + 6.14 atm = 14.95 atm
+(d) In discussing Le Châtelier’s principle, we saw that endothermic 
+reactions exhibit an increase in Kp with increasing temperature. 
+Because the equilibrium constant for this reaction increases as 
+temperature increases, the reaction must be endothermic. From 
+the enthalpies of formation given in Appendix C, we can verify 
+our prediction by calculating the enthalpy change for the reaction:
+∆H ° = ∆Hf°1CO1g22 + ∆Hf°1H21g22 - ∆Hf°1C1s, graphite22
+- ∆Hf°1H2O1g22 = +131.3 kJ
+ 
+SECTION 15.7  Le Châtelier’s Principle 
+653
+The positive sign for ∆H ° indicates that the reaction is 
+endothermic.
+(e) According to Le Châtelier’s principle, a decrease in the pressure 
+causes a gaseous equilibrium to shift toward the side of the equa-
+tion with the greater number of moles of gas. In this case, there 
+are 2 mol of gas on the product side and only one on the reacta

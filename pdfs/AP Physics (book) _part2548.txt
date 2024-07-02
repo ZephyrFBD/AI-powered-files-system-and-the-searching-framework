@@ -1,0 +1,27 @@
+Snell’s Law
+The angle of refraction depends on the speed of light in the two media and on the
+incident angle. An analytic relation between 
+and 
+in Fig. 23–21 was arrived 
+at experimentally about 1621 by Willebrord Snell (1591–1626). Known as Snell’s law,
+it is written:
+(23;5)
+is the angle of incidence and 
+is the angle of refraction;
+and 
+are the respec-
+tive indices of refraction in the materials. See Fig. 23–21. The incident and refracted
+rays lie in the same plane, which also includes the perpendicular to the surface.
+Snell’s law is the law of refraction. (Snell’s law was derived in Section 11–13
+for water waves where Eq. 11–20 is just a combination of Eqs. 23–5 and 23–4,
+and we derive it again in Chapter 24 using the wave theory of light.)
+Snell’s law shows that if
+then
+Thus, if light enters a medium
+where n is greater (and its speed is less), the ray is bent toward the normal. And if
+then
+so the ray bends away from the normal. See Fig. 23–21.
+u2 7 u1 ,
+n2 6 n1 ,
+u2 6 u1 .
+n2 7 n1

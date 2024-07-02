@@ -1,0 +1,39 @@
+c table.
+In many instances later in the text, you will find that knowing the number and 
+shapes of atomic orbitals will help you understand chemistry at the molecular level. You 
+will therefore find it useful to memorize the shapes of the s, p, and d orbitals shown in 
+Figures 6.20, 6.23, and 6.24.
+6.7 ∣ Many-Electron Atoms
+One of our goals in this chapter has been to determine the electronic structures of 
+ 
+atoms. So far, we have seen that quantum mechanics leads to an elegant descrip-
+tion of the hydrogen atom. This atom, however, has only one electron. How does 
+ 
+SECTION 6.7  Many-Electron Atoms 
+235
+How many nodal planes, two-dimensional sheets where the 
+probability density goes to zero, are there for the dxy orbital?
+z
+z
+z
+z
+z
+x
+x
+x
+x
+x
+y
+y
+y
+y
+y
+dyz
+dxz
+dxy
+dz2
+dx2−y2
+▲ Figure 6.24 Contour representations of the five d orbitals.
+Go Figure
+our description change when we consider an atom with two or more electrons (a 
+many-electron atom)? To describe such an atom, we must consid

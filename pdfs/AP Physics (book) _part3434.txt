@@ -1,0 +1,17 @@
+ctive isotopes used in the laboratory are made by means of nuclear
+reactions. Nuclear reactions can be made to occur in the laboratory, but they also
+occur regularly in nature. In Chapter 30 we saw an example:
+is continually
+being made in the atmosphere via the reaction
+Nuclear reactions are sometimes written in a shortened form: for example,
+can be written
+The symbols outside the parentheses on the left and right represent the initial
+and final nuclei, respectively. The symbols inside the parentheses represent the
+bombarding particle (first) and the emitted small particle (second).
+In any nuclear reaction, both electric charge and nucleon number are con-
+served. These conservation laws are often useful, as the following Example shows.
+Deuterium reaction. A neutron is
+observed to strike an 
+nucleus, and a deuteron is given off. (A deuteron, or
+deuterium, is the isotope of hydrogen containing one proton and one neutron,
+it is sometimes given the symbol d or D.) What is the nucleus that 

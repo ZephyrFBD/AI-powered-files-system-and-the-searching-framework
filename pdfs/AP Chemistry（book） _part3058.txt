@@ -1,0 +1,26 @@
+onstant temperature 
+and pressure and that we have a catalyst that allows the reaction to proceed at a reason-
+able rate. What happens when we load the vessel with a certain number of moles of N2 
+and three times that number of moles of H2? As we saw in Figure 15.4, the N2 and H2 react 
+spontaneously to form NH3 until equilibrium is achieved. Similarly, Figure 15.4 shows 
+that if we load the vessel with pure NH3, it decomposes spontaneously to N2 and H2 until 
+equilibrium is reached. In each case, the free energy of the system gets progressively lower 
+and lower as the reaction moves toward equilibrium, which represents a minimum in the 
+free energy. We illustrate these cases in Figure 19.15.
+Go Figure
+Are the processes that move 
+a system toward equilibrium 
+spontaneous or nonspontaneous?
+Course of reaction
+Equilibrium
+mixture
+Reactants
+Products
+Free energy
+Position
+Equilibrium
+position in
+valley
+Potential energy
+▲ Figure 19.14 Potential energy and free 
+energy. An analogy is shown be

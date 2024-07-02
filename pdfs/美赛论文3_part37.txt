@@ -1,0 +1,18 @@
+est to keep the water in the speed of
+for 7 minutes when the temperature is down to
+36.3 C
+
+. And water is
+added only once. We regard the strategy as (36.3,7,7,1) .
+5. Additional factors
+Our model emphasizes three elements: even time, wasting water, and suffering
+degree. In the model above, we ignore some minor factors to simplify the model to
+some extent. These include that we regard the shape of bathtub as a rectangle, while
+hot water column is a cylinder. When we back to the model mentioned above, we can
+obtain the temperature at any time and position easily and gain the three elements we
+focus on.
+However, is this model sensitive and firm enough? How this kind of model
+affects to conclusions? As a result, we will research the following seven elements in
+seven different aspects to study sensitivity and reliability of our model. What’s more,
+the third model---Analytic hierarchy process model---is based on the previous two
+models, and we can abstract and evaluate three elements, so w

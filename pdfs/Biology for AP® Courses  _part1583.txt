@@ -1,0 +1,29 @@
+DNA
+primer which is used by RNA polymerase to
+form a parent strand. If helicase is mutated, the
+DNA strands will be separated at the beginning
+of replication.
+45. What are Okazaki fragments and how they are formed?
+a.
+Okazaki fragments are short stretches of DNA
+on the lagging strand, which is synthesized in
+the direction away from the replication fork.
+b.
+Okazaki fragments are long stretches of DNA on
+the lagging strand, which is synthesized in the
+direction of the replication fork.
+c.
+Okazaki fragments are long stretches of DNA on
+the leading strand, which is synthesized in the
+direction away from the replication fork.
+d.
+Okazaki fragments are short stretches of DNA
+on the leading strand, which is synthesized in the
+direction of the replication fork.
+46. Compare and contrast the roles of DNA polymerase I
+and DNA ligase in DNA replication.
+a.
+DNA polymerase I removes the RNA primers
+from the developing copy of DNA. DNA ligase
+seals the ends of the new segment, especially the
+Okazaki f

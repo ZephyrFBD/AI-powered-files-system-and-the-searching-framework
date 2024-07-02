@@ -1,0 +1,55 @@
+creases.
+F
+B
+P
+u
+F
+B
+P
+u
+F
+B
+P
+3. Apply Newton’s laws to determine unknown forces.
+4. Find the work done by a specific force on the object by
+using  
+for a constant force. The work
+done is negative when a force opposes the displacement.
+5. To find the net work done on the object, either
+(a) find the work done by each force and add the
+results algebraically; or (b) find the net force on the
+object,
+and then use it to find the net work
+done, which for constant net force is:
+W
+net = F
+netd cos u.
+F
+net,
+W = Fd cos u
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Work
+1. Draw a free-body diagram showing all the forces act-
+ing on the object you choose to study.
+2. Choose an xy coordinate system. If the object is in
+motion, it may be convenient to choose one of the
+coordinate directions as the direction of one of the
+forces, or as the direction of motion. [Thus, for an
+object on an incline, you might choose one coordinate
+axis to be parallel to the incline.]
+SECTION 6–1
+141
+Work on a backpack. (a) Determine t

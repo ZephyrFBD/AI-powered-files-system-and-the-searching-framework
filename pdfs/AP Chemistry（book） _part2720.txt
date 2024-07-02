@@ -1,0 +1,33 @@
+ion of all solutes 
+present. Therefore, it is best to deal with moles first, and then 
+convert to molarities using total solution volumes (volume of acid 
+plus volume of base). (b) We proceed in the same way as in part (a) 
+except we are now past the equivalence point and have more OH- 
+in the solution than H+.
+10.0500 L soln2a 0.100 mol H+
+1 L soln
+b = 5.00 * 10-3 mol H+
+SOLUTION
+Sample Exercise 17.7 
+Calculations for a Strong Acid–Strong Base Titration
+Likewise, the number of moles of OH- in 
+49.0 mL of 0.100 M NaOH is:
+10.0490 L soln2a 0.100 mol OH-
+1 L soln
+b = 4.90 * 10-3 mol OH-
+Because we have not reached the equiva-
+lence point, there are more moles of H+ pres-
+ent than OH-. Therefore, OH- is the limiting 
+reactant. Each mole of OH- reacts with 1 
+mol of H+. Using the convention introduced 
+in Sample Exercise 17.6, we have:
+H+1aq2 + OH-1aq2 ¡  H2O1l2
+Before reaction (mol)
+5.00 * 10-3
+4.90 * 10-3
+—
+Change (limiting reactant) (mol)
+-4.90 * 10-3
+-4.90 * 10-3
+—
+After reaction (mol)

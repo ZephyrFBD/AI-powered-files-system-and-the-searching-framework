@@ -1,0 +1,18 @@
+treated before piping it to Flint. The source of the 
+lead was not the Flint River itself, but corrosion from lead pipes that 
+are present in the underground water distribution network. Why did 
+the change in water supply dramatically increase the leaching of lead 
+from the old pipes? Many factors were at play, but basically they all 
+came down to solubility considerations.
+When water is properly treated, a passivation layer of insoluble 
+lead salts builds up on the inner surface of the lead pipes (Figure 17.21). 
+This layer prevents corrosion that would otherwise allow lead to be 
+oxidized and dissolve into the water as Pb2+ ions. The water treatment 
+facility in Detroit was adding phosphate ions, PO4
+3 - , to their water to 
+inhibit corrosion, whereas the people managing water treatment in 
+Flint elected not to do so. The presence of PO4
+3 -  ions promotes the 
+formation of highly insoluble phosphate salts on the inner surface of 
+the pipes that helps prevent corrosion.
+Another facto

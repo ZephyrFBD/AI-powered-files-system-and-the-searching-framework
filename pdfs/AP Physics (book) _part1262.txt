@@ -1,0 +1,21 @@
+he springs are underdamped. (See 
+Sections 11–3 and 11–5.)
+2. A particular unbalanced wheel of a car shakes when the car
+moves at 
+The wheel plus tire has mass 17.0 kg
+and diameter 0.58 m. By how much will the springs of this
+car compress when it is loaded with 280 kg? (Assume the
+280 kg is split evenly among all four springs, which are iden-
+tical.) [Hint: Reread Sections 11–1, 11–3, 11–6, and 8–3.]
+3. Sometimes a car develops a pronounced rattle or vibration
+at a particular speed, especially if the road is hot enough
+that the tar between concrete slabs bumps up at regularly
+spaced intervals. Reread Sections 11–5 and 11–6, and
+decide whether each of the following is a factor and, if so,
+how: underdamping, overdamping, critical damping, and
+forced resonance.
+4. Destructive interference occurs where two overlapping
+waves are wavelength or 180° out of phase. Explain why
+180° is equivalent to wavelength.
+5. Estimate the effective spring constant of a trampoline.
+[Hint: Go and jump, or wat

@@ -1,0 +1,32 @@
+stion here is whether the accuracy of the measurements is 
+good to six significant figures. It would be possible to achieve such 
+ 
+▶Practice Exercise 1
+Which of the following numbers in your personal life are exact 
+numbers? 
+(a) Your cell phone number (b) your weight (c) your IQ  
+(d) your driver’s license number (e) the distance you walked yesterday
+ 
+▶Practice Exercise 2
+The back inside cover of the book tells us that there are 5280 ft in 
+1 mile. Does this make the mile an exact distance?
+accuracy using satellite technology, provided the legal boundaries 
+are known with sufficient accuracy.
+ 
+SECTION 1.6   
+Uncertainty in Measurement 
+27
+the correct number of significant figures, it must be rounded off. Consider the fol-
+lowing example in which the uncertain digits appear in color:
+This number limits
+the number of the significant
+figures in the result
+two decimal places
+three decimal places
+one decimal places
+round off to one decimal place (104.8)
+20.42
+1.322
+83.1
+104.842
+We repor

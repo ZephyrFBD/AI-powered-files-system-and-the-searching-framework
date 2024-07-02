@@ -1,0 +1,21 @@
+orporated into NADPH. The loss of
+these two electrons from PS II is
+ 
+replaced when H2O is split into two electrons, 2 H+ and ½O2. The two electrons from H2O replace the lost
+electrons from PS II, one of the H+
+ 
+provides the H in NADPH, and the ½O2 contributes to the oxygen gas
+ 
+that is released.
+ 
+In summary, photophosphorylation takes the energy in light and the
+ 
+electrons in H2O to make the energy-rich molecules ATP and NADPH.
+Because the reactions require light, they are often called the lightdependent reactions or, simply, light reactions.
+The following equation informally summarizes the process:
+H2O + ADP + Pi + NADP+ + light → ATP + NADPH + O2+ H+ 
+Figure 5-1
+Cyclic Photophosphorylation
+A second photophosphorylation sequence (shown in Figure 5-1) occurs when the electrons energized in PS I are
+“recycled.” In this sequence, energized electrons from PS I join with protein carriers and generate ATP as they pass
+along the electron transport chain. In contrast to noncyclic photoph

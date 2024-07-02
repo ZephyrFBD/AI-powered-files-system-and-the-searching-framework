@@ -1,0 +1,13 @@
+nds.
+The body can perform difficult endergonic reactions by coupling them to ATP
+hydrolysis, which is very exergonic.
+When a cell needs energy, it takes one of these potential-packed molecules of ATP and splits off the third phosphate,
+forming adenosine diphosphate (ADP) and one loose phosphate (Pi), while releasing energy in the process.
+ATP → ADP + Pi + energy
+The energy released from this reaction can then be put to whatever use the cell pleases. Of course, this doesn’t mean
+that the cell is above the laws of thermodynamics. But within those constraints, ATP is the best source of energy the
+cell has available. It is relatively neat (only one bond needs to be broken to release that energy) and relatively easy to
+form. Organisms can use exergonic processes that increase energy, like breaking down ATP, to power endergonic
+reactions, like building organic macromolecules.
+Sources of ATP
+But where does all this ATP come from? It can be formed in several ways, but the bulk of it comes from

@@ -1,0 +1,17 @@
+atron accelerated protons
+to about
+(hence its name,
+). It was shut down
+in 2011.
+These large synchrotrons use a narrow ring of magnets (see Fig. 32–3) with
+each magnet placed at the same radius from the center of the circle. The magnets
+are interrupted by gaps where high voltage accelerates the particles to higher
+speeds. Another way to describe the acceleration is to say the particles “surf” on
+a traveling electromagnetic wave within radiofrequency (RF) cavities. (The par-
+ticles are first given considerable energy in smaller accelerators, “injectors,”
+before being injected into the large ring of the large synchrotron.)
+One problem of any accelerator is that accelerating electric charges radiate
+electromagnetic energy (see Chapter 22). Since ions or electrons are accelerated
+in an accelerator, we can expect considerable energy to be lost by radiation.
+The effect increases with energy and is especially important in circular machines
+where centripetal acceleration is present, such as sy

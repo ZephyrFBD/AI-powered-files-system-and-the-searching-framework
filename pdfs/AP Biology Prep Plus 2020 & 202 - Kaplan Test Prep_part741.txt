@@ -1,0 +1,21 @@
+ude taxon 1.
+The following is an example of a cladogram showing the relationships
+among primates.
+         
+Cladogram of Primates
+AP Biology Lab 3: Comparing DNA
+Sequences to Understand
+Evolutionary Relationships with
+BLAST Investigation
+Since 1990, scientists have been working to develop a comprehensive
+library of genes from several species, including humans, mice, fruit flies,
+and E. coli. BLAST (Basic Local Alignment Search Tool) is a powerful
+bioinformatics program that helps scientists to compare genes from
+diﬀerent organisms cataloged in this library. Information derived from
+BLAST can, therefore, show scientists the evolutionary relationships
+between diﬀerent organisms.
+In this investigation, you will use BLAST to compare several genes from
+diﬀerent organisms and then construct a cladogram to represent the
+evolutionary relationships among these diﬀerent species. While
+cladograms can be constructed using many diﬀerent factors, including
+the presence of diﬀerent morphological trai

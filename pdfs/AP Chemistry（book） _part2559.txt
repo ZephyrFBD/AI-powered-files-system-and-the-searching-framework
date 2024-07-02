@@ -1,0 +1,28 @@
+d solve for x.
+Let’s use this process to calculate the pH at 25 °C of a 0.30 M solution of acetic acid 
+1CH3COOH2.
+ 1. The ionization equilibrium is :
+ 
+CH3COOH1aq2 ∆ H+1aq2 + CH3COO-1aq2 
+[16.28]
+Notice that the hydrogen that ionizes is the one attached to an oxygen atom.
+ 2. Taking Ka = 1.8 * 10-5 from Table 16.2, we write the equilibrium-constant expres-
+sion and its value.
+ 
+Ka =
+3H+43CH3COO-4
+3CH3COOH4
+= 1.8 * 10-5 
+[16.29]
+ 3. Next we express the concentrations involved in the equilibrium reaction. This can 
+be done with a little accounting, as described in Sample Exercise 16.10. Because 
+we want to find the equilibrium value for 3H+4, let’s call this quantity x. The con-
+centration of acetic acid before any of it ionizes is 0.30 M. The chemical equation 
+ 
+SECTION 16.6   
+Weak Acids 
+683
+684 
+CHAPTER 16 Acid–Base Equilibria
+Finally, we can compare the pH value of this weak acid with the pH of a solution of 
+a strong acid of the same concentration. The pH of the 0.30 M acetic aci

@@ -1,0 +1,15 @@
+ 
+3A4t. Thus, you can use these equations to determine (1) the concentration of a reactant 
+remaining at any time after the reaction has started, (2) the time interval required for a 
+given fraction of a sample to react, or (3) the time interval required for a reactant concen-
+tration to fall to a certain level.
+The decomposition of a certain insecticide in water at 12 °C follows first-order kinetics with a rate constant of 1.45 yr-1. A 
+quantity of this insecticide is washed into a lake on June 1, leading to a concentration of 5.0 * 10-7 g>cm3. Assume that 
+the temperature of the lake is constant (so that there are no effects of temperature variation on the rate). (a) What is the 
+concentration of the insecticide on June 1 of the following year? (b) How long will it take for the insecticide concentration to 
+decrease to 3.0 * 10 - 7 g>cm3?
+Sample Exercise 14.7
+ Using the Integrated First-Order Rate Law
+SOLUTION
+Analyze We are given the rate constant for a reaction that obeys 
+first-or

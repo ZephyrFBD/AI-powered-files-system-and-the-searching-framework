@@ -1,0 +1,23 @@
+ same ratio of 
+for an average person of any
+height, and the result in the following Example is then independent of the height
+of the person.
+Forces on your back. Calculate the magnitude and direc-
+tion of the force
+acting on the fifth lumbar vertebra as represented in Fig. 9–14b.
+APPROACH We use the model of the upper body described above and shown
+in Fig. 9–14b. We can calculate 
+using the torque equation if we take the axis
+at the base of the spine (point S); with this choice, the other unknown,
+doesn’t
+appear in the equation because its lever arm is zero. To figure the lever arms, we
+need to use trigonometric functions.
+SOLUTION For 
+the lever arm (perpendicular distance from axis to line of
+action of the force) will be the real distance to where the force acts (48 cm) mul-
+tiplied by 
+as shown in Fig. 9–14c. The lever arms for 
+and 
+can be seen from Fig. 9–14b to be their respective distances from S times 
+tends to rotate the trunk counterclockwise, which we take to be positive.
+T

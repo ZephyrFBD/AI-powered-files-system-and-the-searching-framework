@@ -1,0 +1,49 @@
+ht line connecting the two points 
+and 
+as shown. [Compare this to
+the position vs. time graph of Fig. 2–27 for which the slope of the straight line
+represents the average velocity.] The instantaneous acceleration at any time, say 
+is the slope of the tangent to the 
+vs.
+curve at that time, which is also shown in
+Fig. 2–30. Using this fact for the situation graphed in Fig. 2–30, as we go from
+time 
+to time 
+the velocity continually increases, but the acceleration (the rate at
+which the velocity changes) is decreasing since the slope of the curve is decreasing.
+t2
+t1
+t
+v
+t1 ,
+P2
+P1
+¢t = t2 - t1
+t
+v,
+FIGURE 2;30 A graph of velocity 
+vs. time . The average acceleration
+over a time interval 
+is
+the slope of the straight line 
+The instantaneous
+acceleration at time 
+is the slope of
+the 
+vs.
+curve at that instant.
+t
+v
+t1
+a = ¢v¢t.
+P1P2 :
+¢t = t2 - t1
+t
+v
+Questions
+41
+Acceleration is the change of velocity per unit time. An
+object’s average acceleration over a time interval 
+is
+(2;4)
+where 

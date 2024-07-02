@@ -1,0 +1,33 @@
+nd with two hydrogens. Because carbon has four 
+valence electrons, after sp2 hybridization one electron in each carbon remains in the 
+unhybridized 2p orbital. Note that this unhybridized 2p orbital is directed perpendicular 
+to the plane that contains the three sp2 hybrid orbitals.
+Let’s go through the steps of building the bonds in the ethylene molecule. Each sp2 
+hybrid orbital on a carbon atom contains one electron. Figure 9.22 shows how we can first 
+Go Figure
+sp2 hybrid orbitals
+ Unhybridized 2p orbitals
+C — C p bond
+form C — C p bond
+C
+C
+C
+C
+C
+C
+C — C s bond
+C — H s bond
+form C — C and C — H s bonds
+Remember that p orbitals 
+have two lobes, so the p 
+bond also has two lobes, one 
+above and the other below 
+the molecular plane.
+▲ Figure 9.22 Hybrid orbital bonding in ethylene.
+Why is it important that the sp2 hybrid orbitals of the two  
+carbon atoms lie in the same plane?
+ 
+SECTION 9.6    
+Multiple Bonds 
+363
+envision forming the C ¬C s bond by the overlap of two sp2 hybrid orbi

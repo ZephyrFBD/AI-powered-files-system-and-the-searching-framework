@@ -1,0 +1,24 @@
+changes during the time interval 
+Faraday’s law then gives the
+induced emf and Ohm’s law gives the current.
+SOLUTION (a) The coil’s area is 
+The flux through one loop is initially 
+After 0.100 s, the flux is zero. The rate of change in flux is con-
+stant (because the coil is square), and for one loop is equal to
+(b) The emf induced (Eq. 21–2) in the 100-loop coil during this 0.100-s interval
+is
+The current is found by applying Ohm’s law to the 
+coil:
+By Lenz’s law, the current must be clockwise to produce more 
+into the page
+and thus oppose the decreasing flux into the page.
+(c) The total energy dissipated in the coil is the product of the power 
+and the time:
+(d) We can use the result of part (c) and apply the work-energy principle: the
+energy dissipated E is equal to the work W needed to pull the coil out of the
+field (Chapter 6). Because
+where
+then
+Alternate Solution (d) We can also calculate the force directly using Eq. 20–2
+for constant 
+The force the magnetic field exerts on the 

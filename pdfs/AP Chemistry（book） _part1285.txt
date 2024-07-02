@@ -1,0 +1,17 @@
+tom. For example, consider the Lewis structure of HCl 
+in Figure 8.12(a). To assign oxidation numbers, both electrons in the 
+covalent bond between the atoms are assigned to the more electro-
+negative Cl atom. This procedure gives Cl eight valence electrons, 
+one more than in the neutral atom. Thus, its oxidation number is 
+-1. Hydrogen has no valence electrons when they are counted this 
+way, giving it an oxidation number of +1.
+In assigning formal charges to the atoms in HCl [Figure 8.12(b)], 
+we ignore electronegativity; the electrons in bonds are assigned 
+equally to the two bonded atoms. In this case Cl has seven assigned 
+electrons, the same as that of the neutral Cl atom, and H has one as-
+signed electron. Thus, the formal charges of both Cl and H in this 
+compound are 0.
+Neither oxidation number nor formal charge gives an accurate 
+depiction of the actual charges on atoms because oxidation num-
+bers overstate the role of electronegativity and formal charges ig-
+nore it. It seem

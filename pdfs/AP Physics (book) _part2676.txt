@@ -1,0 +1,22 @@
+isible part of the 
+spectrum, such as in the UV and IR regions. Glass absorbs light in these regions, so
+reflection gratings and mirrors (in place of lenses) are used. Special types of film
+or sensors are used for detection.
+Hydrogen spectrum. Light emitted by hot hydrogen gas is
+observed with a spectroscope using a diffraction grating having 
+The spectral lines nearest to the center (0°) are a violet line at 24.2°, a blue line
+at 25.7°, a blue-green line at 29.1°, and a red line at 41.0° from the center. What
+are the wavelengths of these spectral lines of hydrogen?
+APPROACH We get the wavelengths from the angles by using
+where d is the spacing between slits, and m is the order of the spectrum (Eq.24–4).
+SOLUTION Since these are the closest lines to 
+this is the first-order 
+spectrum 
+The slit spacing is
+The wavelength of the violet line is
+The other wavelengths are:
+blue:
+blue-green:
+red:
+NOTE In an unknown mixture of gases, these four spectral lines need to be
+seen to identify that t

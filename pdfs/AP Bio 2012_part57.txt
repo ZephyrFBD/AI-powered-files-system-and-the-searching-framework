@@ -1,0 +1,41 @@
+ence of arabinose. 
+  If a gene that encodes a green fluorescent protein (GFP) is substituted for the structural genes of the operon, 
+activation of the regulatory sequences can be assayed by GFP expression. A culture of E. coli cells underwent a 
+transformation procedure with a plasmid containing the regulatory sequences of the ara operon directly upstream 
+of the gene encoding the GFP. The plasmid also confers ampicillin resistance to bacteria. Samples were then 
+plated on different types of culture media. (Note: The GFP fluoresces only under UV light, not under white 
+light.) The table below shows the results. 
+ 
+Transformation Results 
+ 
+Type of Culture Media 
+Agar 
+Ampicillin 
+Arabinose 
+Color of Colonies 
+Under White Light 
+Color of Colonies 
+Under UV Light 
++ 
+- 
+- 
+All white 
+All white 
++ 
++ 
+- 
+All white 
+All white 
++ 
+- 
++ 
+All white 
+Mostly white,  
+some green 
++ 
++ 
++ 
+All white 
+All green 
++ Indicates the presence of the indicated substance in the culture media 
+- Indicate

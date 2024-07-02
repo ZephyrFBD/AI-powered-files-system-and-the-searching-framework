@@ -1,0 +1,37 @@
+and satellite
+communication, are based on Marconi’s pioneering work.
+SECTION 22–7
+Radio and Television; Wireless Communication
+637
+AF
+amplifier
+RF
+amplifier
+RF
+oscillator
+Mixer
+Sound
+waves
+Microphone
+Audio
+signal
+(amplified)
+Modulated
+signal
+Transmitting
+antenna
+RF signal = carrier
+Audio
+signal
+(electrical)
+FIGURE 22–13 Block diagram of
+a radio transmitter.
+The next decade saw the development of vacuum tubes. Out of this early
+work radio and television were born. We now discuss briefly (1) how radio and
+TV signals are transmitted, and (2) how they are received at home.
+The process by which a radio station transmits information (words and music)
+is outlined in Fig. 22–13. The audio (sound) information is changed into an elec-
+trical signal of the same frequencies by, say, a microphone, a laser, or a magnetic
+read write head. This electrical signal is called an audiofrequency (AF) signal,
+because the frequencies are in the audio range (20 to 20,000 Hz). The signal is ampli-
+fied electron

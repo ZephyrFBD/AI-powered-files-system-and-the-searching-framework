@@ -1,0 +1,28 @@
+ compounds. Two of these 
+that you might encounter in the laboratory are the sulfide ion and the carbonate 
+ion. Both of these anions react with acids to form gases that have low solubilities in 
+water.
+Hydrogen sulfide 1H2S), the substance that gives rotten eggs their foul odor, forms 
+when an acid such as HCl(aq) reacts with a metal sulfide such as Na2S:
+Molecular equation:
+ 
+2 HCl1aq2 + Na2S1aq2 ¡ H2S1g2 + 2 NaCl1aq2 
+[4.16]
+Net ionic equation:
+ 
+2 H+1aq2 + S2-1aq2 ¡ H2S1g2 
+[4.17]
+Carbonates and bicarbonates react with acids to form CO21g2. Reaction of CO3
+2- or 
+HCO3
+- with an acid first gives carbonic acid 1H2CO32. For example, when hydrochloric 
+acid is added to sodium bicarbonate, the reaction is
+ 
+HCl1aq2 + NaHCO31aq2 ¡ NaCl1aq2 + H2CO31aq2 
+[4.18]
+Carbonic acid is unstable. If present in solution in sufficient concentrations, it decom-
+poses to H2O and CO2, which escapes from the solution as a gas:
+ 
+H2CO31aq2 ¡ H2O1l2 + CO21g2 
+[4.19]
+The overall reaction is summarized by th

@@ -1,0 +1,18 @@
+attract 
+one another, and b, a measure of the finite volume occupied by the molecules. His 
+description of gas behavior is known as the van der Waals equation:
+ 
+aP + n 2a
+V2 b1V - nb2 = nRT 
+[10.25]
+422 
+CHAPTER 10 Gases
+The term n 2a>V2 accounts for the attractive forces. The equation adjusts the pressure upward 
+by adding n 2a>V2 because attractive forces between molecules tend to reduce the pressure 
+(Figure 10.21). The added term has the form n 2a>V2 because the attractive force between pairs 
+of molecules increases as the square of the number of molecules per unit volume, 1n>V22.
+The term nb accounts for the small but finite volume occupied by the gas molecules 
+(Figure 10.20). The van der Waals equation subtracts nb to adjust the volume downward 
+to give the volume that would be available to the molecules in the ideal case. The con-
+stants a and b, called van der Waals constants, are experimentally determined positive 
+quantities that differ from one gas to another. Notice in Ta

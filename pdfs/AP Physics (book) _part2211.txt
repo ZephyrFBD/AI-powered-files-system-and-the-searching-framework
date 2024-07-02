@@ -1,0 +1,48 @@
+agnetic field B due to the current in a long 
+straight wire is directly proportional to the current I in the wire and inversely
+proportional to the distance r from the wire:
+This relation is valid as long as r, the perpendicular distance to the wire, is much
+less than the distance to the ends of the wire (i.e., the wire is long).
+The proportionality constant is written as 
+, so
+(20;6)
+The value of the constant 
+which is called the permeability of free space, is†
+m0 = 4p * 10–7 TmA.
+m0 ,
+[near a long straight wire]
+B =
+m0
+2p
+I
+r
+.
+m02p
+B r I
+r
+.
+570
+CHAPTER 20
+Magnetism
+C A U T I O N
+A compass, near a current,
+may not point north
+†The constant is chosen in this complicated way so that Ampère’s law (Section 20–8), which is consid-
+ered more fundamental, will have a simple and elegant form.
+I
+10 cm
+I
+P
+5.0 cm
+5.0 cm
+B1
+I1 (out)
+I2 (in)
+B2
+FIGURE 20–24 Example 20–10.
+Wire 1 carrying current 
+out
+towards us, and wire 2 carrying
+current 
+into the page, produce
+magnetic fields whose lines 

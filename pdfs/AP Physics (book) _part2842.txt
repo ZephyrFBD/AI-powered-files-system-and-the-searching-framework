@@ -1,0 +1,37 @@
+e that can be put in crystalline form.
+0.10 * 10–9 m
+X-ray
+source
+*SECTION 25–12
+X-Ray Imaging and Computed Tomography (CT Scan)
+735
+P H Y S I C S  A P P L I E D
+Normal X-ray image
+P H Y S I C S  A P P L I E D
+Computed tomography images
+(CT or CAT scans)
+FIGURE 25–40 X-ray diffraction photo
+of DNA molecules taken by Rosalind
+Franklin in the early 1950s. The cross 
+of spots suggested that DNA is a helix.
+FIGURE 25–41 Conventional X-ray
+imaging, which is essentially
+shadowing.
+FIGURE 25–42 Tomographic imaging: the
+X-ray source and detector move together
+across the body, the transmitted intensity
+being measured at a large number of 
+points. Then the “source–detector” assembly 
+is rotated slightly (say, 1°) around a vertical
+axis, and another scan is made. This process
+is repeated for perhaps 180°. The computer
+reconstructs the image of the slice and it is
+presented on a TV or computer monitor.
+Video monitor
+Computer
+Detector
+Collimator
+Collimator
+X-ray
+source
+X-ray diffraction has been ve

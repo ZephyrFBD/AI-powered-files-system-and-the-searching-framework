@@ -1,0 +1,56 @@
+ion. This can be achieved in a dc motor with the use
+of commutators and brushes: as shown in Fig. 20–38, input current passes through
+stationary brushes that rub against the conducting commutators mounted on the
+motor shaft. At every half revolution, each commutator changes its connection
+over to the other brush. Thus the current in the coil reverses every half revolution
+as required for continuous rotation.
+B
+B
+SECTION 20–10
+Applications: Motors, Loudspeakers, Galvanometers
+577
+F
+B
+F
+B
+N
+S
+Armature
+I
+Brushes
+Voltage source
+–
++
+Lead wires to armature coil
+Commutator
+Brushes
+Battery (dc)
+Coil of wire
+(attached to
+speaker cone)
+Rigid
+metal
+frame
+Magnet
+Lead-in
+       wires
+Cone
+N
+S
+S
+I
+I
+B
+B
+B
+B
+FIGURE 20–40 Loudspeaker.
+FIGURE 20–39 Motor with many
+windings.
+FIGURE 20–38 Commutator-brush
+arrangement in a dc motor ensures
+alternation of the current in the
+armature to keep rotation continuous
+in one direction. The commutators are
+attached to the motor shaft and turn
+with it, whereas the b

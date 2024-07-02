@@ -1,0 +1,27 @@
+charges. One way of initiating the discharge of the capacitor
+is by the use of a gas-filled tube which has an electrical breakdown when the 
+voltage across it reaches a certain value 
+After the discharge is finished, the
+tube no longer conducts current and the recharging process repeats itself, starting
+at a lower voltage 
+Figure 19–23 shows a possible circuit, and the sawtooth
+voltage it produces.
+A simple blinking light can be an application of a sawtooth oscillator circuit.
+Here the emf is supplied by a battery; the neon bulb flashes on at a rate of perhaps
+1 cycle per second. The main component of a “flasher unit” is a moderately large
+capacitor.
+Vœ
+0 .
+V
+0 .
+P H Y S I C S  A P P L I E D
+Sawtooth voltage
+P H Y S I C S  A P P L I E D
+Blinking flashers
+SECTION 19–7
+Electric Hazards
+543
+P H Y S I C S  A P P L I E D
+Windshield wipers on “intermittent”
+†Larger currents apparently bring the entire heart to a standstill. Upon release of the current, the
+heart returns to its normal rhythm.

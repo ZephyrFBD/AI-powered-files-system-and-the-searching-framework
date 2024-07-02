@@ -1,0 +1,22 @@
+d at the joint by the bone in the upper arm (all
+assumed to act vertically). We wish to find the magnitude of 
+which can be done
+using the torque equation and by choosing our axis through the joint so that 
+contributes zero torque.
+SOLUTION (a) We calculate torques about the point where 
+acts in Fig.9–13a.
+The
+equation gives
+We solve for 
+(b) The lever arm, as calculated about the joint, is reduced by the factor 
+for all three forces. Our torque equation will look like the one just above, except
+that each term will have its lever arm reduced by the same factor, which will
+cancel out. The same result is obtained,
+NOTE The force required of the muscle (400 N) is quite large compared to the
+weight of the object lifted
+Indeed, the muscles and joints of the
+body are generally subjected to quite large forces.
+NOTE Forces exerted on joints can be large and even painful or injurious. Using
+we calculate for this case
+The point of insertion of a muscle varies from person to person. A slight
+incr

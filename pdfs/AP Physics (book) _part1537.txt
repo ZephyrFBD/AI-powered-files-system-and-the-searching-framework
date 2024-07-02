@@ -1,0 +1,24 @@
+ergy
+transfer?
+2. Apply conservation of energy. Either write
+or use 
+3. If no phase changes occur, each term in the energy
+conservation equation will have the form
+Q = mc ¢T.
+©Q = 0.
+heat gained = heat lost,
+Evaporation
+The latent heat to change a liquid to a gas is needed not only at the boiling point.
+Water can change from the liquid to the gas phase even at room temperature.
+This process is called evaporation (see previous Chapter, Section 13–12).The value of
+the heat of vaporization of water increases slightly with a decrease in temperature:
+at 20°C, for example, it is 
+compared to 
+at 100°C. When water evaporates, the remaining liquid cools,
+because the energy required (the latent heat of vaporization) comes from the
+water itself; so its internal energy, and therefore its temperature, must drop.‡
+(= 539 kcalkg)
+2260 kJkg
+2450 kJkg (585 kcalkg)
+‡Also from the point of view of kinetic theory, evaporation is a cooling process because it is the fastest-
+moving molecules that escap

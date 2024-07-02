@@ -1,0 +1,16 @@
+r orbitals make up the conduction band. The valence and 
+conduction bands are separated by an energy that is referred to as the 
+band gap, Eg. The size of the band gap increases as the bond length 
+decreases and as the difference in electronegativity between the two 
+elements increases.
+Doping semiconductors changes their ability to conduct electric-
+ity by orders of magnitude. An n-type semiconductor is one that is 
+doped so that there are excess electrons in the conduction band; a 
+p-type semiconductor is one that is doped so that there are missing 
+electrons, which are called holes, in the valence band.
+POLYMERS (SECTION 12.8) Polymers are molecules of high molec-
+ular weight formed by joining large numbers of small molecules 
+called monomers. Plastics are materials that can be formed into various 
+shapes, usually by the application of heat and pressure. Thermoplastic
+polymers can be reshaped, typically through heating, in contrast to 
+thermosetting plastics, which are formed into o

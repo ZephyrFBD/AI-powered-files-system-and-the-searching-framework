@@ -1,0 +1,103 @@
+–14, that the
+addition of any two vectors 
+and 
+to give a resultant,
+implies that
+(3;5)
+That is, the sum of the x components equals the x component of the resultant vector,
+and the sum of the y components equals the y component of the resultant, as can
+be verified by a careful examination of Fig. 3–14. Note that we do not add x compo-
+nents to y components.
+If the magnitude and direction of the resultant vector are desired, they can
+be obtained using Eqs. 3–4.
+V
+Ry = V
+1y + V
+2y.
+V
+Rx = V
+1x + V
+2x
+V
+B
+R = V
+B
+1 + V
+B
+2 ,
+V
+B
+2
+V
+B
+1
+ 
+tan u =
+V
+y
+V
+x
+V = 3V
+x
+2 + V
+y
+2
+u
+V
+y.
+V
+x
+V
+y = V sin u = (500 m)(0.500) = 250 m (north).
+V
+x = V cos u = (500 m)(0.866) = 433 m (east),
+cos 30° = 0.866.
+sin 30° = 0.500
+V = 500 m.
+V
+B
+V
+y
+V
+x
+SECTION 3–4
+55
+Vy = V sin
+= 250 m
+θ
+Vx = V cos
+= 433 m
+θ
+V
+   =   V 2 + V 2
+y
+x
+= 500 m
+North
+East
+(a)
+y
+x
+(b)
+0
+θ = 30°
+North
+East
+y
+x
+0
+θ = 30°
+(V = 500 m)
+x
+y
+V
+B
+V
+B
+V
+B
+V
+B
+FIGURE 3;13 (a) Vector 
+represents a displacement of 500 m
+at a 30° angle north of 

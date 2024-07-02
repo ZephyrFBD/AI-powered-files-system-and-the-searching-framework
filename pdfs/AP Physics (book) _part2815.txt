@@ -1,0 +1,25 @@
+ and Mirrors
+727
+P H Y S I C S  A P P L I E D
+Lens aberrations
+FIGURE 25–25 Spherical aberration
+(exaggerated). Circle of least confusion
+is at C.
+C
+†Although the effect is the same as for astigmatism in the eye (Section 25–2), the cause is different.
+Off-axis astigmatism is no problem in the eye because objects are clearly seen only at the fovea, on
+the lens axis.
+Another aberration, distortion, is a result of variation of magnification at
+different distances from the lens axis. Thus a straight-line object some distance
+from the axis may form a curved image. A square grid of lines may be distorted
+to produce “barrel distortion,” or “pincushion distortion,” Fig. 25–26. The former
+is common in extreme wide-angle lenses.
+728
+CHAPTER 25
+Optical Instruments
+P H Y S I C S  A P P L I E D
+Aberration in the human eye
+FIGURE 25–26 Distortion: lenses may image
+a square grid of perpendicular lines to
+produce (a) barrel distortion or (b) pincushion
+distortion. These distortions can be seen in the

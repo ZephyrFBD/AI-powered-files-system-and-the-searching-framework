@@ -1,0 +1,17 @@
+uclear fuel.
+(e) None of the above.
+T
+hermodynamics is the name we give to the study of processes in which
+energy is transferred as heat and as work.
+In Chapter 6 we saw that work is done when energy is transferred from one
+object to another by mechanical means. In Chapter 14 we saw that heat is a trans-
+fer of energy from one object to a second one at a lower temperature. Thus, heat
+is much like work. To distinguish them, heat is defined as a transfer of energy due
+to a difference in temperature, whereas work is a transfer of energy that is not due
+to a temperature difference.
+In discussing thermodynamics, we often refer to particular systems. A system
+is any object or set of objects that we wish to consider (see Section 14–4). Every-
+thing else in the universe is referred to as its “environment” or the “surroundings.”
+In this Chapter, we examine the two great laws of thermodynamics. The first
+law of thermodynamics relates work and heat transfers to the change in internal
+energy of a 

@@ -1,0 +1,25 @@
+ward rate constants from smallest to largest assuming all three reactions have nearly the same value for the frequency factor A.
+Sample Exercise 14.10
+ Activation Energies and Speeds of Reaction
+SOLUTION
+The lower the activation energy, the larger the rate constant and the 
+faster the reaction. The value of ∆E does not affect the value of the 
+rate constant. Hence, the order of the rate constants is 2 6 3 6 1.
+ 
+▶Practice Exercise 1
+Which of the following changes always leads to an increase in 
+the rate constant for a reaction:
+ (i) Decreasing the temperature
+ (ii) Decreasing the activation energy
+(iii) Making the value of ∆E more negative
+(a) Only one—(i), or (ii), or (iii)—increases the reaction rate.
+(b) (i) and (ii)
+(c) (i) and (iii)
+(d) (ii) and (iii)
+(e) All three—(i), (ii), and (iii)—increase the reaction rate.
+ 
+▶Practice Exercise 2
+Rank the rate constants of the reverse reactions from slowest 
+to fastest.
+Determining the Activation Energy
+We can calculate the activation energy

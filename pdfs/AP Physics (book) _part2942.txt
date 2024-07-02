@@ -1,0 +1,17 @@
+peed
+A basic result of the special theory of relativity is that the speed of an object
+cannot equal or exceed the speed of light. That the speed of light is a natural
+speed limit in the universe can be seen from any of Eqs. 26–1, 26–3, or 26–4. It is
+perhaps easiest to see from Eq. 26–4. As an object is accelerated to greater and
+greater speeds, its momentum becomes larger and larger. Indeed, if v were to
+equal c, the denominator in this equation would be zero, and the momentum
+would be infinite. To accelerate an object up to
+would thus require infinite
+energy, and so is not possible.
+26–9
+; Mass and Energy
+If momentum needs to be modified to fit with relativity as we just saw in Eq. 26–4,
+then we might expect that energy would also need to be rethought. Indeed, Einstein
+not only developed a new formula for kinetic energy, but also found a new rela-
+tion between mass and energy, and the startling idea that mass is a form of energy.
+We start with the work-energy principle (Chapter 6), h

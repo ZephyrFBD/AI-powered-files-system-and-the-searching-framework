@@ -1,0 +1,40 @@
+hose of other organic compounds, have 
+three parts:
+What
+substituents?
+How many
+carbons?
+What family?
+prefix
+base
+suffix
+The following steps summarize the procedures used to name alkanes, which all have 
+names ending with -ane. We use a similar approach to write the names of other organic 
+compounds.
+How to Name Alkanes
+ 
+1. Find the longest continuous chain of carbon atoms, and use the name of 
+this chain (given in Table 24.2) as the base name. Be careful in this step because 
+the longest chain may not be written in a straight line, as in the following structure:
+CH
+CH3
+CH3
+CH3
+CH2
+CH2
+CH2
+1
+2
+3
+4
+5
+6
+2-Methylhexane
+ 
+ Because the longest continuous chain contains six C atoms, this isomer is named 
+as a substituted hexane. Groups attached to the main chain are called substituents 
+because they are substituted in place of an H atom on the main chain. In this mol-
+ecule, the CH3 group not enclosed by the blue outline is the only substituent in the 
+molecule.
+ 
+2. Number the carbon atoms

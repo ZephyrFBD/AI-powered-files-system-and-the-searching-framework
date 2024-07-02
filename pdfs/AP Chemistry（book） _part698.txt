@@ -1,0 +1,15 @@
+energy of the system (negative ∆E).
+We can use these ideas to write a useful algebraic expression of the first law of ther-
+modynamics. When a system undergoes any chemical or physical change, the accompa-
+nying change in internal energy, ∆E, is the sum of the heat added to or liberated from the 
+system, q, and the work done on or by the system, w:
+ 
+∆E = q + w 
+[5.4]
+When heat is added to a system or work is done on a system, its internal energy increases. There-
+fore, when heat is transferred to the system from the surroundings, q has a positive value. 
+Adding heat to the system is like making a deposit to the energy account—the energy of 
+the system increases (Figure 5.7). Likewise, when work is done on the system by the sur-
+roundings, w has a positive value. Conversely, both the heat lost by the system to the sur-
+roundings and the work done by the system on the surroundings have negative values; 
+that is, they lower the internal energy of the system. They are energy withdrawals a

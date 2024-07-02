@@ -1,0 +1,25 @@
+ion of CO to CO2 
+is -283.0 kJ>mol CO:
+(1)   C1s2 + O21g2 ¡  CO21g2   ∆H = -393.5 kJ
+(2) CO1g2 + 1
+2 O21g2 ¡  CO21g2   ∆H = -283.0 kJ
+Using these data, calculate the enthalpy for the combustion of C to CO:
+(3)  C1s2 + 1
+2 O21g2 ¡  CO1g2    ∆H = ?
+ 
+SECTION 5.6   
+Hess’s Law 
+185
+ SOLUTION
+Analyze We are given two thermochemical equations, and our goal 
+is to combine them in such a way as to obtain the third equation 
+and its enthalpy change.
+Plan We will use Hess’s law. In doing so, we first note the number of 
+moles of substances among the reactants and products in the target 
+equation (3). We then manipulate equations (1) and (2) to give the 
+same number of moles of these substances, so that when the result-
+ing equations are added, we obtain the target equation. At the same 
+time, we keep track of the enthalpy changes, which we add.
+Solve To use equations (1) and (2), we arrange them so that C(s) is 
+on the reactant side and CO(g) is on the product side of the arrow, 
+as in the targ

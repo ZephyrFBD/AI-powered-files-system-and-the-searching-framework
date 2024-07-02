@@ -1,0 +1,35 @@
+oduce the required torque? (b) What is the back emf?
+(c) How much power is dissipated in the coils? (d) What
+percent of the input power is used to drive the car? [Hint:
+Check Sections 6–10, 18–5, 20–9, 20–10, and 21–6.]
+4. Explain the advantage of using ac rather than dc current
+when electric power needs to be transported long distances.
+(See Section 21–7.)
+35 kmh.
+129 JkgC°.
+55 m
+5. A power line carrying a sinusoidally varying current with
+frequency 
+and peak value 
+runs at
+a height of 7.0 m across a farmer’s land (Fig. 21–66).
+The farmer constructs a vertical 2.0-m-high 2000-turn 
+rectangular wire coil below the power line. The farmer
+hopes to use the induced voltage in this coil to power
+120-V electrical equipment, which requires a sinusoidally
+varying voltage with frequency 
+and peak value
+Estimate the length of the coil needed. Would
+this be stealing? [Hint: Consider 
+over one-quarter of
+a cycle 
+See Sections 20–5 and 18–7.]
+A 1
+240 sB.
+¢B
+l
+V
+0 = 170 V.
+f = 60 Hz
+I0 = 155 A
+f

@@ -1,0 +1,29 @@
+ sack-shaped
+surface 2 in Fig. 22–2 as the surface for Ampère’s law because the same current I
+passes through it.
+m0
+¢l,
+©B|| ¢l = m0 I.
+*
+
+Closed
+path
+Surface 2
+Surface 1
+I
+I
+FIGURE 22–2 Ampère’s law
+applied to two different surfaces
+bounded by the same closed path.
+SECTION 22–2
+Production of Electromagnetic Waves
+627
+Now consider the closed path for the situation of Fig. 22–3 where a capacitor
+is being discharged. Ampère’s law works for surface 1 (current I passes through
+surface 1), but it does not work for surface 2 because no current passes through
+surface 2. There is a magnetic field around the wire, so the left side of Ampère’s law
+is not zero around the circular closed path; yet no current flows through sur-
+face 2, so the right side is zero for surface 2. We seem to have a contradiction of
+Ampère’s law. There is a magnetic field present in Fig. 22–3, however, only if
+charge is flowing to or away from the capacitor plates. The changing charge on
+the plates means that the elect

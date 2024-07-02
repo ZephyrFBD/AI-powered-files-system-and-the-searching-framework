@@ -1,0 +1,30 @@
+ ms?
+*41. (I) Determine the inductance L of a 0.60-m-long air-filled
+solenoid 2.9 cm in diameter containing 8500 loops.
+*42. (I) How many turns of wire would be required to make a
+130-mH inductor out of a 30.0-cm-long air-filled solenoid
+with a diameter of 5.8 cm?
+*43. (II) An air-filled cylindrical inductor has 2600 turns, and it is
+2.5 cm in diameter and 28.2 cm long. (a) What is its induc-
+tance? (b) How many turns would you need to generate the
+same inductance if the core were iron-filled instead? Assume
+the magnetic permeability of iron is about 1200 times that of
+free space.
+*44. (II) A coil has 
+resistance and 112-mH inductance.
+If the current is 3.00 A and is increasing at a rate of
+what is the potential difference across the coil at
+this moment?
+3.80 As,
+2.25-
+±31.0 mA
+–28.0 mA
+0.100-
+N
+SN
+P
+5 * 10–5 m.
+4.6-
+16. (II) In Fig. 21–11, the moving rod has a resistance of 
+and moves on rails 20.0 cm apart. The stationary 
+conductor has negligible resistance. When a force of 0

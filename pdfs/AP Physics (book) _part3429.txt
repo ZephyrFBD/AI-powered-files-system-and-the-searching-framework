@@ -1,0 +1,23 @@
+to four families, depending on whether the mass
+numbers have the form 4n,
+or 
+where n is an integer. Justify this statement and show that
+for a nuclide in any family, all its daughters will be in the
+same family.
+4n + 3,
+4n + 1,  4n + 2,
+1. Describe in detail why we think there is a strong nuclear
+force.
+2. (a) Under what circumstances could a fermium nucleus
+decay into an einsteinium nucleus? (b) What about the
+reverse, an Es nucleus decaying into Fm?
+3. Using the uncertainty principle and the radius of a nucleus,
+estimate the minimum possible kinetic energy of a nucleon
+in, say, iron. Ignore relativistic corrections. [Hint: A particle
+can have a momentum at least as large as its momentum
+uncertainty.]
+4. In Fig. 30–17, a nucleus decays and emits a particle that
+enters a region with a uniform magnetic field of 0.012 T
+directed into the page. The path of the detected particle is
+shown. (a) What type of radioactive decay is this? (b) If
+the radius of the circular arc is 4.7 mm, what is 

@@ -1,0 +1,46 @@
+ANSWERS TO EXERCISES
+G
+R'
+R
+RV
+A
+B
+C
+S
+ex
+or
+es
++
+–
+Working
+battery
+FIGURE 19–94
+Potentiometer circuit.
+Search and Learn 4.
+5. The circuit shown in Fig. 19–95 is a primitive 4-bit digital-
+to-analog converter (DAC). In this circuit, to represent
+each digit 
+of a binary number, a “1” has the nth switch
+closed whereas zero (“0”) has the switch open. For
+example, 0010 is represented by closing switch 
+while all other switches are open. Show that the voltage V
+across the 
+resistor for the
+binary numbers 0001, 0010,
+0100, and 1001 (which in
+decimal represent 1, 2, 4, 9)
+follows the pattern that
+you expect for a 4-bit DAC.
+(Section 17–10 may help.)
+1.0-
+n = 1,
+A2nB
+FIGURE 19–95
+Search and Learn 5.
+3. Cardiac defibrillators are discussed in Section 17–9.
+(a) Choose a value for the resistance so that the 
+capaci-
+tor can be charged to 3000 V in 2.0 seconds. Assume that
+this 3000 V is 95% of the full source voltage. (b) The effective
+resistance of the human body is given in Section 19–7.
+If th

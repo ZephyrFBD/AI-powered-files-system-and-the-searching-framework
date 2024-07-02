@@ -1,0 +1,26 @@
+y principle, solving for 
+SOLUTION The uncertainty in the momentum is
+Hence the uncertainty in a position measurement could be as small as
+NOTE This distance is far smaller than any we could imagine observing or
+measuring. It is trillions of trillions of times smaller than an atom. Indeed, the
+uncertainty principle sets no relevant limit on measurement for macroscopic objects.
+lifetime calculated. The 
+meson,
+discovered in 1974, was measured to have an average mass of 
+(note
+the use of energy units since 
+) and a mass “width” of 
+By 
+this we mean that the masses of different 
+mesons were actually measured to
+be slightly different from one another. This mass “width” is related to the very
+short lifetime of the 
+before it decays into other particles. From the uncertainty
+principle, if the particle exists for only a time 
+its mass (or rest energy) will
+be uncertain by
+Estimate the 
+lifetime.
+APPROACH We use the energy–time version of the uncertainty principle,
+Eq. 28–2.
+SOLUTION The uncer

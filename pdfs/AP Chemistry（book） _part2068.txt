@@ -1,0 +1,32 @@
+
+has two significant figures, corresponding to the number of signif-
+icant figures in the mass of solute 122.
+Comment Because the mass of the solvent 10.225 kg2 and the 
+volume of the solution 10.2632 are similar in magnitude, 
+the molarity and molality are also similar in magnitude: 
+10.054 mol C7H82>10.225 kg solvent2 = 0.24 m.
+ 
+▶Practice Exercise 1
+Maple syrup has a density of 1.325 g>mL, and 100.00 g of ma-
+ple syrup contains 67 mg of calcium in the form of Ca2+ ions. 
+What is the molarity of calcium in maple syrup?
+(a) 0.017 M (b) 0.022 M (c) 0.89 M (d) 12.6 M (e) 45.4 M
+ 
+▶Practice Exercise 2
+A solution containing equal masses of glycerol 1C3H8O32 and 
+water has a density of 1.10 g>mL. Calculate (a) the molality 
+of glycerol, (b) the mole fraction of glycerol, (c) the molarity 
+of glycerol in the solution.
+Moles C7H8 = 15.0 g C7H82a
+1 mol C7H8
+92 g C7H8
+b = 0.054 mol
+Molarity = a
+moles C7H8
+liter soln b = a
+0.054 mol C7H8
+263 mL soln
+b a 1000 mL soln
+1 L soln
+b = 0.21 M 
+Millili

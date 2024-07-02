@@ -1,0 +1,42 @@
+ of
+NOTE Even taking into account the fact that only 60 to 80% of the engine’s
+power output reaches the wheels, it is clear from these calculations that an engine
+of 75 to 100 kW (100 to 130 hp) is adequate from a practical point of view.
+g = (2000 N)(30.6 ms) = 6.1 * 104 W = 61 kW = 82 hp.
+g = Fv,
+= 1300 N + 700 N = 2000 N.
+= (1400 kg)A0.93 ms2B + 700 N
+F = max + F
+R
+F:
+max = ©F
+x = F - F
+R.
+ax =
+(30.6 ms - 25.0 ms)
+6.0 s
+= 0.93 ms2.
+110 kmh
+30.6 ms
+25.0 ms
+g = Fv = (3100 N)(22 ms) = 6.8 * 104 W = 68 kW = 91 hp.
+F
+B,
+v = 80 kmh = 22 ms
+= 700 N + (1400 kg)A9.80 ms2B(0.174) = 3100 N.
+F = 700 N + mg sin 10°
+F
+B
+F
+B
+R,
+F
+R = 700 N
+110 kmh
+80 kmh;
+EXAMPLE 6;14
+†Recall 1 kmh = 1000 m3600 s = 0.278 ms.
+We mentioned in Example 6–14 that only part of the energy output of a car
+engine reaches the wheels. Not only is some energy wasted in getting from the
+engine to the wheels, in the engine itself most of the input energy (from the burning
+of gasoline or other fuel) does not do 

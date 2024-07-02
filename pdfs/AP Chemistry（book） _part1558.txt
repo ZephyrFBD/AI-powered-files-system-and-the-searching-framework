@@ -1,0 +1,22 @@
+ice Exercise 1
+What would be the height of the column in a barometer 
+if the external pressure was 101 kPa and water 
+1d = 1.00 g>cm32 was used in place of mercury?  
+(a) 0.0558 m (b) 0.760 m (c) 1.03 * 104 m  
+(d) 10.3 m (e) 0.103 m
+ 
+▶Practice Exercise 2
+Gallium melts just above room temperature and is liquid over 
+a very wide temperature range 130–2204 °C2, which means it 
+would be a suitable fluid for a high-temperature barometer. 
+Given its density, dGa = 6.0 g>cm3, what would be the height 
+of the column if gallium is used as the barometer fluid and 
+the external pressure is 9.5 * 104 Pa?
+ 
+Sample Exercise 10.1 
+Calculating Pressure
+What is the pressure, in kilopascals, on the body of a diver if she is 31.0 m below the surface of the water when the atmospheric 
+pressure on the surface is 98 kPa? Assume that the density of the water is 1.00 g>cm3 = 1.00 * 103 kg>m3. The gravitational 
+constant is 9.81 m>s2, and 1 Pa = 1 kg>m@s2.
+SOLUTION
+Analyze We are asked to calculate the press

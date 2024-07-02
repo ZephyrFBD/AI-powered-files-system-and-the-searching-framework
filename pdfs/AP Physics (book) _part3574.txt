@@ -1,0 +1,25 @@
+her’s hands)
+FIGURE 32–8 Feynman diagram showing a photon
+acting as the carrier of the electromagnetic force
+between two electrons. This is sort of an x vs. graph,
+with increasing upward. Starting at the bottom, two
+electrons approach each other. As they get close,
+momentum and energy get transferred from one to
+the other, carried by a photon (or more than one),
+and the two electrons bounce apart.
+t
+t
+e
+Photon
+e
+e
+e
+Time
+Position
+Figure 32–8 represents the simplest case in QED, in which a single photon is
+exchanged. One of the charged particles emits the photon and recoils somewhat
+as a result; and the second particle absorbs the photon. In such a collision or
+interaction, energy and momentum are transferred from one charged particle to
+the other, carried by the photon. The photon is absorbed by the second particle
+after it is emitted by the first particle and is not observable. Hence the photon is
+referred to as a virtual photon, in contrast to one that is free and can be detected

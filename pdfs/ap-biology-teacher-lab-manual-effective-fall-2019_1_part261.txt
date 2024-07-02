@@ -1,0 +1,17 @@
+e first link that appears and scroll down to the section “NCBI Reference 
+Sequences.” 
+3. Under “mRNA and Proteins,” click on the first file name “NM 001100.3.” 
+4. Just below the gene title, click on “FASTA.” 
+5. The nucleotide sequence displayed is that of the actin gene in humans. 
+6. Copy the gene sequence and go to the BLAST homepage   
+(http://blast.ncbi.nlm.nih.gov/Blast.cgi).  
+7. Click on “nucleotide blast” under the Basic BLAST menu. 
+8. Paste the sequence into the box where it says “Enter Query Sequence.” 
+9. Give the query a title in the box provided if you plan on saving it for later. 
+10. Under “Choose Search Set,” select whether you want to search the human genome 
+only, mouse genome only, or all genomes available. 
+11. Under “Program Selection,” choose whether you want highly similar sequences or 
+somewhat similar sequences. Choosing somewhat similar sequences will provide 
+you with more results. 
+12. Click BLAST. 
+*Entrez Gene is a global database of genetic informatio

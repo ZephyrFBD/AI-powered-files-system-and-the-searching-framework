@@ -1,0 +1,88 @@
+ main uncertain factors. 
+ Some uncertain factors are positive while others are negative. We set their indexes 
+as the dispersion index which only contains zero and one. 
+ The possibility of the occurrence of the uncertain factor is influenced by the 
+potential possibility and the effect of the index of the main factor in the first 
+criteria layer that the uncertain factor belongs to. Usually we consider the effect to 
+be linear. 
+ The weight of the uncertain factor is influenced by the original weight and the 
+effect from the rest main factor. Usually we consider the effect to be linear. 
+Table12: Symbol Table 
+Symbol 
+Definition 
+C  
+The potential 
+w  
+Weight 
+δ  
+The proportion other factors impact on X  
+α  
+Proportion 
+i
+U  
+The weight of 
+i
+X  
+We can have: 
+s
+1,the influence of X
+0,the influence of X
+s
+s
+is positive
+x
+is negative
+ 
+ 
+ 
+  
+
+= 
+ 
+ 
+ 
+  
+
+ , 
+s
+j
+x
+X
+∈
+ 
+0
+0
+0
+(1 C )(1
+y )
+C
+C
+=
++
+−
+−
+ 
+0
+0
+0
+0
+,
+-(1-
+* *
+0
+0
+)* * ,
+w
+w
+w
+w
+w
+-
+δ α δ >=
+
+= 
+δ α δ <
+
+ 
+1
+2

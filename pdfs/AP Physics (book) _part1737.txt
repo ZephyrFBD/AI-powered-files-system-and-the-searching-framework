@@ -1,0 +1,46 @@
+re inverse square laws
+Both also have a
+proportionality to a property of each object—mass for gravity, electric charge for
+electricity. And both act over a distance (that is, there is no need for contact).
+A major difference between the two laws is that gravity is always an attractive force,
+whereas the electric force can be either attractive or repulsive. Electric charge
+comes in two types, positive and negative; gravitational mass is only positive.
+The constant k in Eq. 16–1 is often written in terms of another constant,
+called the permittivity of free space. It is related to k by  
+Coulomb’s
+law can be written
+(16;2)
+where
+ 0 =
+1
+4pk
+= 8.85 * 10–12 C2Nm2.
+F =
+1
+4p 0
+Q1 Q2
+r2
+,
+k = 14p 0 .
+ 0 ,
+AF r 1r2B.
+m2
+m1
+F = Gm1 m2r2,
+1013
+1 mC
+±e.
+–e.
+e = 1.6022 * 10–19 C L  1.6 * 10–19 C.
+1.6022 * 10–19 C,
+A1 mC = 10–6 CB
+A9.0 * 109 Nm2C2B(1.0 C)(1.0 C)(1.0 m)2 = 9.0 * 109 N
+k L 9.0 * 109 Nm2C2.
+k = 8.988 * 109 Nm2C2
+F = k Q1 Q2
+r2
+,
+448
+CHAPTER 16
+F12 = force on 1
+         d

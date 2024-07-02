@@ -1,0 +1,56 @@
+owth—
+(d  N
+)
+/ 
+(d x) = r_max N 
+where:
+dt = change in time
+N = population size
+r max equ
+als maximum per capita growth r
+ate of population
+157
+Course Framework V.1 | 
+AP Biology Course and Exam Description
+Return to Table of Contents
+© 2019 College Board
+Ecology
+UNIT
+8
+	
+	
+	
+   
+	
+    
+	
+	
+    
+SUGGESTED SKILL
+Required Course Content 
+TOPIC 8.4
+Effect of Density 
+of Populations
+ENDURING UNDERSTANDING
+SYI-1
+Living systems are organized in a hierarchy of structural levels that interact.
+LEARNING OBJECTIVE
+SYI-1.H
+Explain how the density 
+of a population affects 
+and is determined by 
+resource availability in 
+the environment.
+ESSENTIAL KNOWLEDGE
+SYI-1.H.1
+RELEVANT EQUATION
+A population can produce a density of 
+individuals that exceeds the system’s resource 
+availability.
+SYI-1.H.2 
+As limits to growth due to density-dependent 
+and density-independent factors are imposed, a 
+logistic growth model generally ensues.(d N)/ (d x) = r_max N (K minus N/K)
+where:
+dt = change in time
+N = popul

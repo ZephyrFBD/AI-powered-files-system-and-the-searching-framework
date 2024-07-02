@@ -1,0 +1,23 @@
+ learn about gas behavior from the kinetic-molecular theory 
+applies equally to atomic gases.)
+SOLUTION
+Analyze For (a) we need to calculate the partial pressure of O2 given its 
+mole percent and the total pressure of the mixture. For (b) we need to 
+calculate the number of moles of O2 in the mixture given its volume 
+(121 L), temperature (295 K),  and partial pressure from part (a).
+ 
+ 
+ 
+ 
+ 
+Sample Exercise 10.11 
+Relating Mole Fractions and Partial Pressures
+A study of the effects of certain gases on plant growth requires a synthetic atmosphere composed of 1.5 mol % CO2, 18.0 mol % 
+O2 and 80.5 mol % Ar. (a) Calculate the partial pressure of O2 in the mixture if the total pressure of the atmosphere is to be  
+745 torr. (b) If this atmosphere is to be held in a 121-L space at 295 K, how many moles of O2 are needed?
+Plan We calculate the partial pressures using Equation 10.16, and 
+then use P
+O2, V, and T in the ideal-gas equation to calculate the 
+number of moles of O2.
+Solve
+(a) The

@@ -1,0 +1,15 @@
+shows a typical graph of
+the displacement as a function of time. This is called damped harmonic motion. The
+damping† is generally due to the resistance of air and to internal friction within the
+oscillating system. The energy that is dissipated to thermal energy results in a
+decreased amplitude of oscillation.
+Since natural oscillating systems are damped in general, why do we even talk
+about (undamped) simple harmonic motion? The answer is that SHM is much
+easier to deal with mathematically. And if the damping is not large, the oscillations
+can be thought of as simple harmonic motion on which the damping is super-
+posed, as represented by the dashed curves in Fig. 11–14. Although damping
+does alter the frequency of vibration, the effect can be small if the damping is
+small; then Eqs. 11–6 can still be useful approximations.
+Sometimes the damping is so large, however, that the motion no longer resem-
+bles simple harmonic motion. Three common cases of heavily damped systems are
+shown in 

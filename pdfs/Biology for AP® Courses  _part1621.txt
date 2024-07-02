@@ -1,0 +1,14 @@
+nt chemistries (such as acidic versus basic, or polar and nonpolar)
+and different structural constraints. Variation in amino acid sequence gives rise to enormous variation in protein structure
+and function.
+Figure 15.2 Structures of the 20 amino acids found in proteins are shown. Each amino acid is composed of an amino
+group ( NH3
++ ), a carboxyl group (COO-), and a side chain (blue). The side chain may be nonpolar, polar, or charged,
+as well as large or small. It is the variety of amino acid side chains that gives rise to the incredible variation of protein
+structure and function.
+Chapter 15 | Genes and Proteins
+595
+The Central Dogma: DNA Encodes RNA; RNA Encodes Protein
+The flow of genetic information in cells from DNA to mRNA to protein is described by the Central Dogma (Figure 15.3),
+which states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins. The decoding of
+one molecule to another is performed by specific proteins and RNAs. Because the in

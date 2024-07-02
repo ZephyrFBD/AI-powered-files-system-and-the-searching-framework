@@ -1,0 +1,24 @@
+ant expression as either:
+ 
+Ka =
+3H3O+43A-4
+3HA4
+ or Ka =
+3H+43A-4
+3HA4
+ 
+[16.25]
+Ka is called the acid-dissociation constant for acid HA.
+Table 16.2 shows the structural formulas, conjugate bases, and Ka values for a number 
+of weak acids. Appendix D provides a more complete list. Many weak acids are organic 
+compounds composed entirely of carbon, hydrogen, and oxygen. These compounds usu-
+ally contain some hydrogen atoms bonded to carbon atoms and some bonded to oxygen 
+atoms. In almost all cases, the hydrogen atoms bonded to carbon do not ionize in water; 
+instead, the acidic behavior of these compounds is due to the hydrogen atoms attached 
+to oxygen atoms.
+The magnitude of Ka indicates the tendency of the acid to ionize in water: The larger 
+the value of Ka, the stronger the acid. Chlorous acid 1HClO22, for example, is the strongest 
+acid in Table 16.2, and phenol 1HOC6H52 is the weakest. For most weak acids Ka values 
+range from 10-2 to 10-10.
+Give It Some Thought
+Based on the en

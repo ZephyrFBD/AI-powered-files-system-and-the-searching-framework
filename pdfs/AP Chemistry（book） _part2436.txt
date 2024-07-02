@@ -1,0 +1,26 @@
+her, these changes alter the partial pressures 
+of the gaseous substances. In Sample Exercise 15.7, we calculated Kp = 2.79 * 10-5 
+for the Haber reaction, N21g2 + 3 H21g2 ∆ 2 NH31g2, in an equilibrium mixture at 
+472 °C containing 7.38 atm H2, 2.46 atm N2, and 0.166 atm NH3. Consider what happens 
+when we suddenly reduce the volume of the system by one-half. If there were no shift 
+in equilibrium, this volume change would cause the partial pressures of all substances 
+to double, giving P
+H2 = 14.76 atm, PN2 = 4.92 atm, and P
+NH3 = 0.332 atm. The reaction 
+quotient would then no longer equal the equilibrium constant:
+Q p =
+1P
+NH322
+P
+N21P
+H223 =
+10.33222
+14.922114.7623 = 6.97 * 10-6 ≠Kp
+Because Q p 6 Kp, the system would no longer be at equilibrium. Equilibrium 
+would be reestablished by increasing P
+NH3 and decreasing both P
+N2 and P
+H2 until 
+Q p = Kp = 2.79 * 10-5. Therefore, the equilibrium shifts to the right in the reaction as 
+written, as Le Châtelier’s principle predicts.
+It is

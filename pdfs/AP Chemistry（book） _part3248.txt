@@ -1,0 +1,14 @@
+ll than other batteries. A Li-ion battery produces a maximum voltage of 3.7 V 
+ 
+per cell, nearly three times higher than the 1.3 V per cell that nickel–cadmium and 
+nickel–metal hydride batteries generate. As a result, a Li-ion battery can deliver more 
+power than other batteries of comparable size, which leads to a higher volumetric energy 
+density—the amount of energy stored per unit volume.
+The technology of Li-ion batteries is based on the ability of Li+ ions to be 
+inserted into and removed from certain layered solids. In most commercial cells, 
+the anode is made of graphite, which contains layers of sp2 bonded carbon atoms 
+[Figure 12.29(b)]. The cathode is made of a transition metal oxide that also has a 
+layered structure, typically lithium cobalt oxide 1LiCoO22. The two electrodes are 
+separated by an electrolyte, which functions like a salt bridge by allowing Li+ ions to 
+pass through it. When the cell is being charged, cobalt ions are oxidized and Li+ ions 
+migrate out of L

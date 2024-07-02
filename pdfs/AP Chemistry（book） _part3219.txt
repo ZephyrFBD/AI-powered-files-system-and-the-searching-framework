@@ -1,0 +1,24 @@
+e value of ∆G° is half that in part (a) 
+because the coefficients in the chemical 
+equation are half those in (a).
+ -8.3 * 104 J>mol = -18.314 J>K mol21298 K2 ln K
+ 
+K = 4 * 1014
+For any spontaneous process, ∆G is a measure of the maximum use-
+ful work, wmax, that can be extracted from the process: ∆G = wmax.  
+(Section 19.5) Because ∆G = -nFE, the maximum useful electri-
+cal work obtainable from a voltaic cell is
+            wmax = -nFEcell 
+ 
+[20.14]
+Because cell emf, Ecell, is always positive for a voltaic cell, wmax is neg-
+ative, indicating that work is done by a system on its surroundings, as 
+we expect for a voltaic cell. 
+ (Section 5.2)
+As Equation 20.14 shows, the more charge a voltaic cell moves 
+through a circuit (that is, the larger nF is) and the larger the emf 
+pushing the electrons through the circuit (that is, the larger E°
+cell is), 
+the more work the cell can accomplish. In Sample Exercise 20.10, 
+we calculated ∆G° = -170 kJ>mol for the reaction 4 Ag1s2 +
+O21g2 + 4 H+

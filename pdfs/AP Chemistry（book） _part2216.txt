@@ -1,0 +1,39 @@
+ple of N2O5 with an initial 
+pressure of 760 torr decomposes at 25 °C until its partial pres-
+sure is 650 torr. How much time (in seconds) has elapsed?
+(a) 5.3 * 10-6 (b) 2000 (c) 4600 (d) 34,000 (e) 190,000
+ 
+▶Practice Exercise 2
+The decomposition of dimethyl ether, 1CH322O, at 510 °C is a 
+first-order process with a rate constant of 6.8 * 10-4 s-1:
+1CH322O1g2 ¡ CH41g2 + H21g2 + CO1g2
+If the initial pressure of 1CH322O is 135 torr, what is its pres-
+sure after 1420 s?
+Equation 14.13 can be used to verify whether a reaction is first order and to determine 
+its rate constant. This equation has the form of the general equation for a straight line, 
+y = mx + b, in which m is the slope and b is the y-intercept of the line (Appendix A.4):
+Methyl isonitrile
+Acetonitrile
+▲ Figure 14.6 The first-order reaction of 
+CH3NC conversion into CH3CN.
+ln [A]t= −
+=
++
++
+ln [A]0
+mx
+b
+y
+kt
+Go Figure
+What can you conclude given that the plot of ln P versus t is 
+linear?
+10,000
+0
+20,000
+30,000
+0
+20
+40
+60
+80

@@ -1,0 +1,29 @@
+2 - E1 = E–3.4 eV - (–13.6 eV)F = 10.2 eV =
+hf = Eu - El,
+n = 1.
+n = 2
+EXAMPLE 27;13
+SECTION 27–12
+793
+ionization energy. (a) Use the Bohr model to deter-
+mine the ionization energy of the 
+ion, which has a single electron. (b) Also
+calculate the maximum wavelength a photon can have to cause ionization. The
+helium atom is the second atom, after hydrogen, in the Periodic Table (next
+Chapter); its nucleus contains 2 protons and normally has 2 electrons circulating
+around it, so 
+APPROACH We want to determine the minimum energy required to lift the
+electron from its ground state and to barely reach the free state at 
+The
+ground state energy of 
+is given by Eq. 27–15b with 
+and 
+SOLUTION (a) Since all the symbols in Eq. 27–15b are the same as for the
+calculation for hydrogen, except that Z is 2 instead of 1, we see that 
+will be
+times the 
+for hydrogen:
+Thus, to ionize the 
+ion should require 54.4 eV, and this value agrees with
+experiment.
+(b) The maximum wavelength photon that can cause i

@@ -1,0 +1,14 @@
+n. If the 
+external pressure is reduced infinitely slowly, the piston will move outward, allowing the 
+pressure of the confined gas to readjust to maintain the pressure balance. This infinitely 
+slow process in which the external pressure and internal pressure are always in equilib-
+rium is reversible. If we reverse the process and compress the gas in the same infinitely 
+slow manner, we can return the gas to its original volume. The complete cycle of expan-
+sion and compression in this hypothetical process, moreover, is accomplished without 
+any net change to the surroundings.
+From these and other examples we learn two important facts:
+t Because real processes can at best only approximate the inﬁnitesimal changes associ-
+ated with reversible processes, all real processes are irreversible.
+t Because spontaneous processes are real processes, all spontaneous processes are irreversible.
+Thus, for any spontaneous change, returning the system to its original condition results 
+in a net ch

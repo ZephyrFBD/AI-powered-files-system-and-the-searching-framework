@@ -1,0 +1,16 @@
+vector sum of the forces due to each of the
+others. This principle of superposition is based on experiment, and tells us that
+electric force vectors add like any other vector. For example, if you have a system
+of four charges, the net force on charge 1, say, is the sum of the forces exerted on
+charge 1 by charges 2, 3, and 4. The magnitudes of these three forces are determined
+from Coulomb’s law, and then are added vectorially.
+16–6 Solving Problems Involving
+Coulomb’s Law and Vectors
+The electric force between charged particles at rest (sometimes referred to as the
+electrostatic force or as the Coulomb force) is, like all forces, a vector: it has both
+magnitude and direction. When several forces act on an object (call them 
+etc.), the net force 
+on the object is the vector sum of all the forces acting on it:
+This is the principle of superposition for forces. We studied how to add vectors in
+Chapter 3; then in Chapter 4 we used the rules for adding vectors to obtain the
+net force on an

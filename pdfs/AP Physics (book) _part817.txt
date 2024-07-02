@@ -1,0 +1,17 @@
+ics—the description of rotational
+motion in terms of angular position, angular velocity, and angular acceleration.
+Now we discuss the dynamics, or causes, of rotational motion. Just as we found
+analogies between linear and rotational motion for the description of motion, so
+rotational equivalents for dynamics exist as well.
+To make an object start rotating about an axis clearly requires a force. But 
+the direction of this force, and where it is applied, are also important. Take, for
+example, an ordinary situation such as the overhead view of the door in Fig. 8–10.
+If you apply a force
+perpendicular to the door as shown, you will find that the
+greater the magnitude,
+the more quickly the door opens. But now if you apply
+the same force at a point closer to the hinge—say,
+in Fig. 8–10—the door 
+will not open so quickly. The effect of the force is less: where the force acts, as
+well as its magnitude and direction, affects how quickly the door opens. Indeed,
+if only this one force acts, the 

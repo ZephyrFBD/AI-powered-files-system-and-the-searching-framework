@@ -1,0 +1,15 @@
+, a hammer pushes on a nail, a magnet attracts a
+paper clip. In each of these examples, a force is exerted on one object, and that
+force is exerted by another object. For example, the force exerted on the nail is
+exerted by the hammer.
+But Newton realized that things are not so one-sided. True, the hammer exerts
+a force on the nail (Fig. 4–7). But the nail evidently exerts a force back on the
+hammer as well, for the hammer’s speed is rapidly reduced to zero upon contact.
+Only a strong force could cause such a rapid deceleration of the hammer. Thus,
+said Newton, the two objects must be treated on an equal basis. The hammer
+exerts a force on the nail, and the nail exerts a force back on the hammer. This 
+is the essence of Newton’s third law of motion:
+Whenever one object exerts a force on a second object, the second object
+exerts an equal force in the opposite direction on the first.
+This law is sometimes paraphrased as “to every action there is an equal and oppo-
+site reaction.” This is

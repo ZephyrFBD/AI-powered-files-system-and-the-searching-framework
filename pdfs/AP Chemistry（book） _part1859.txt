@@ -1,0 +1,12 @@
+al to pack together closely. Because we can consider the 
+shape of an atom to be a sphere, we can understand the structures of metals by consider-
+ing how spheres pack. The most efficient way to pack one layer of equal-sized spheres is 
+to surround each sphere by six neighbors, as shown at the top of Figure 12.13. To form a 
+three-dimensional structure, we need to stack additional layers on top of this base layer. 
+To maximize packing efficiency, the second layer of spheres must sit in the depressions 
+formed by the spheres in the first layer. We can either put the next layer of atoms into 
+the depressions marked by the yellow dot or the depressions marked by the red dot (real-
+izing that the spheres are too large to simultaneously fill both sets of depressions). For 
+the sake of discussion we arbitrarily put the second layer in the yellow depressions.
+For the third layer, we have two choices for where to place the spheres. One possibil-
+ity is to put the third layer in the depressions

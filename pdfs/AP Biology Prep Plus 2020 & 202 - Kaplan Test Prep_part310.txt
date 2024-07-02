@@ -1,0 +1,16 @@
+ to amplify and/or regulate their signal transduction. In
+some cases, a measure of safety requires that two diﬀerent receptors on
+the cell surface become activated to turn on a particular intracellular
+protein. In other cases, signals at diﬀerent receptors lead to the
+phosphorylation of diﬀerent proteins that activate together only when
+both proteins have been phosphorylated. This signal integration leads to
+a measure of control over reactions and the ability to use multiple inputs
+to cause a certain eﬀect that can vary in degree.
+Signal transduction pathways that are blocked or defective can be
+deleterious (harmful) or prophylactic (preventative). For example, type I
+and type II diabetes arise from blocked signal transduction and blocked
+Enzyme-Linked Receptors
+signal reception, respectively. Normally, the pancreas releases insulin,
+which signals liver, muscle, and fat cells to store sugar. In type I diabetes,
+pancreatic cells that produce insulin are destroyed by the immune
+system, s

@@ -1,0 +1,104 @@
+y (km)
+D
+B
+D
+B
+D
+B
+D
+B
+D
+B
+FIGURE 3;4 If the vectors are
+added in reverse order, the resultant
+is the same. (Compare to Fig. 3–3.)
+The tail-to-tip method of adding vectors can be extended to three or more
+vectors. The resultant is drawn from the tail of the first vector to the tip of the last
+one added. An example is shown in Fig. 3–5; the three vectors could represent
+displacements (northeast, south, west) or perhaps three forces. Check for yourself
+that you get the same resultant no matter in which order you add the three vectors.
+52
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
++
++
+=
+1
+1
+R
+2
+2
+3
+3
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+FIGURE 3;5 The resultant of three
+vectors: V
+B
+R = V
+B
+1 + V
+B
+2 + V
+B
+3.
+C A U T I O N
+Be sure to use the correct diagonal on
+the parallelogram to get the resultant
+INCORRECT
+(a)
+(b)
+(c)
+Tail-to-tip
+Parallelogram
+Wrong
++
+=
+=
+=
+1
+1
+1
+1
+2
+2
+2
+2
+R
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+R
+V
+B
+V
+B
+V
+B
+V
+B
+FIGURE 3;6 Vector addition by two
+different methods, (a) and (b).
+Part (c

@@ -1,0 +1,28 @@
+ulley,
+and the linear version to the bucket,
+SOLUTION Let 
+be the tension in the cord.Then a force 
+acts at the edge of the
+pulley, and we apply Newton’s second law, Eq. 8–14, for the rotation of the pulley:
+[pulley]
+Next we look at the (linear) motion of the bucket of mass m. Figure 8–22b, the
+free-body diagram for the bucket, shows that two forces act on the bucket:
+the force of gravity mg acts downward, and the tension of the cord 
+pulls
+upward. Applying Newton’s second law,
+for the bucket, we have
+(taking downward as positive):
+[bucket]
+Note that the tension 
+which is the force exerted on the edge of the pulley, is
+not equal to the weight of the bucket 
+There must be a net
+force on the bucket if it is accelerating, so 
+We can also see this from
+the last equation above,
+To obtain 
+we note that the tangential acceleration of a point on the 
+edge of the pulley is the same as the acceleration of the bucket if the cord 
+doesn’t stretch or slip. Hence we can use Eq. 8–5,
+Substituting
+int

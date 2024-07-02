@@ -1,0 +1,24 @@
+uon traveling at 65% the
+speed of light. The two muons (each of mass 
+)
+annihilate, and produce how much electromagnetic energy?
+43. (II) Two identical particles of mass m approach each other
+at equal and opposite speeds, v. The collision is completely
+inelastic and results in a single particle at rest. What is the
+mass of the new particle? How much energy was lost in the
+collision? How much kinetic energy was lost in this collision?
+44. (III) The americium nucleus,
+decays to a neptunium
+nucleus,
+by emitting an alpha particle of mass
+4.00260 u and kinetic energy 5.5 MeV. Estimate the mass
+of the neptunium nucleus, ignoring its recoil, given that the
+americium mass is 241.05682 u.
+45. (III) Show that the kinetic energy ke of a particle of mass m
+is related to its momentum p by the equation
+*46. (III) What magnetic field B is needed to keep 998-GeV
+protons revolving in a circle of radius 1.0 km? Use the
+relativistic mass. The proton’s “rest mass” is 
+[Hint: In relativity,
+is
+still valid 

@@ -1,0 +1,34 @@
+ 6.1 km.
+EXAMPLE 1;9
+ESTIMATE
+EXERCISE F Return to the second Chapter-Opening Question, page 1, and answer it
+again now. Try to explain why you may have answered differently the first time.
+Earth
+Center
+of Earth
+Lake
+R
+R
+d
+h
+FIGURE 1;14 Example 1–9, but
+not to scale. You can just barely see
+rocks at water level on the opposite
+shore of a lake 6.1 km wide if you
+stand on a stepladder.
+16
+CHAPTER 1
+Introduction, Measurement, Estimating
+*Some Sections of this book, such as this one, may be considered optional at the discretion of the
+instructor, and they are marked with an asterisk 
+See the Preface for more details.
+(*).
+1–8 Dimensions and 
+Dimensional Analysis
+When we speak of the dimensions of a quantity, we are referring to the type of
+base units or base quantities that make it up. The dimensions of area, for
+example, are always length squared, abbreviated 
+using square brackets;
+the units can be square meters, square feet,
+and so on. Velocity, on the
+other hand, can be measured in uni

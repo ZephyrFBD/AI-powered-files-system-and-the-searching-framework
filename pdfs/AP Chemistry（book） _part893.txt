@@ -1,0 +1,18 @@
+work function— 
+is required for the electrons to overcome the attractive forces holding them in 
+ 
+the metal. If the photons striking the metal have less energy than the work function, 
+the electrons do not acquire sufficient energy to escape from the metal. Increasing the 
+intensity of the light source doesn’t lead to emission of electrons from the metal; only 
+changing the frequency of the incoming light has that effect. The intensity (bright-
+ness) of the light is related to the number of photons striking the surface per unit time 
+but not to the energy of each photon. When the frequency is such that photons have 
+energy greater than the work function of the particular metal, electrons are emitted; 
+any excess energy of the photon is converted into kinetic energy of the emitted elec-
+tron. Einstein won the Nobel Prize in Physics in 1921 primarily for his explanation of 
+the photoelectric effect.
+Photon hits surface 
+with energy hn
+Electrons emitted 
+from surface by 
+energy of photon

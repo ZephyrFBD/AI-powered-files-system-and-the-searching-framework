@@ -1,0 +1,10 @@
+st efficiently at optimum temperatures and pHs that are specific to the enzyme. If the
+temperature in the environment is too low, the rate of collisions between the enzyme and its substrate will be
+reduced, and the reaction will slow down. If the temperature is too high, bonds that hold the enzyme together may be
+disrupted, and the shape of the enzyme can be altered. Similarly, a pH that is too far from optimum can disrupt
+bonds in the enzyme and result in a change in its tertiary structure. Changes to the ionic environment of an enzyme
+can also disrupt bonds in the enzyme. A change to an enzyme’s structure is called denaturation, and this can limit
+the enzyme’s ability to catalyze chemical reactions. Sometimes, but not always, denaturation can be reversed when
+the environment returns to more optimum conditions.
+Competitive inhibitors are similar in shape to substrates and compete with substrates for the active site of an
+enzyme, see Figure 7.2. This competition lowers the rate of enzy

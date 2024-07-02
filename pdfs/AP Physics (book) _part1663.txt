@@ -1,0 +1,33 @@
+ny mol-
+ecules in a system to be able to know the velocity and position of every one at a
+given moment. Nonetheless, we can hypothesize a great many different micro-
+states that can correspond to the same macrostate.
+Let us take a very simple example. Suppose you repeatedly shake four coins
+in your hand and drop them on a table. Specifying the number of heads and the
+number of tails that appear on a given throw is the macrostate of this system.
+Specifying each coin as being a head or a tail is the microstate of the system. In
+the following Table we see how many microstates correspond to each macrostate:
+Possible Microstates 
+Number of 
+Macrostate
+(H
+heads, T
+tails)
+Microstates
+4 heads
+H H H H
+1
+3 heads, 1 tail
+H H H T, H H T H, H T H H, T H H H
+4
+2 heads, 2 tails
+H H T T, H T H T, T H H T, H T T H, T H T H, T T H H
+6
+1 head, 3 tails
+T T T H, T T H T, T H T T, H T T T
+4
+4 tails
+T T T T
+1
+A basic assumption behind the statistical approach is that each microstate is
+equally probable. Thus

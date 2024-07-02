@@ -1,0 +1,12 @@
+t be added later, once the tRNA is processed and exported to the cytoplasm. Through
+the process of tRNA “charging,” each tRNA molecule is linked to its correct amino acid by a group of enzymes called
+Chapter 15 | Genes and Proteins
+617
+aminoacyl tRNA synthetases. At least one type of aminoacyl tRNA synthetase exists for each of the 20 amino acids; the
+exact number of aminoacyl tRNA synthetases varies by species. These enzymes first bind and hydrolyze ATP to catalyze a
+high-energy bond between an amino acid and adenosine monophosphate (AMP); a pyrophosphate molecule is expelled in
+this reaction. The activated amino acid is then transferred to the tRNA, and AMP is released.
+The Mechanism of Protein Synthesis
+As with mRNA synthesis, protein synthesis can be divided into three phases: initiation, elongation, and termination. The
+process of translation is similar in prokaryotes and eukaryotes. Here we’ll explore how translation occurs in E. coli, a
+representative prokaryote, and specify any

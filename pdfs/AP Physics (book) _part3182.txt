@@ -1,0 +1,38 @@
+y
+chromium (Cr) atoms. The Cr atoms are the ones involved in lasing. In a process
+called optical pumping, the atoms are excited by strong flashes of light of wave-
+length 550 nm, which corresponds to a photon energy of 2.2 eV. As shown in
+Fig. 28–19, the atoms are excited from state 
+to state 
+The atoms quickly
+decay either back to 
+or to the intermediate state 
+which is metastable with a
+lifetime of about 
+(compared to 
+for ordinary levels). With strong
+pumping action, more atoms can be found in the 
+state than are in the 
+state.
+Thus we have the inverted population needed for lasing. As soon as a few atoms
+in the 
+state jump down to 
+they emit photons that produce stimulated 
+emission of the other atoms, and the lasing action begins. A ruby laser thus emits a
+beam whose photons have energy 1.8 eV and a wavelength of 694.3 nm (or
+“ruby-red” light).
+E0 ,
+E1
+E0
+E1
+10–8 s
+3 * 10–3 s
+E1,
+E0
+E2 .
+E0
+Al2O3
+L lD
+FIGURE 28–19 Energy levels of
+chromium in a ruby crystal. Photons
+of energy 2.2

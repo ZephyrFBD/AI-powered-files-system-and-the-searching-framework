@@ -1,0 +1,32 @@
+mplex ion is a mixture of the 
+complementary colors—blue and violet. Finally, for 3Ni(en)342+ the peak shifts to an 
+even shorter wavelength, 540 nm, which lies near the boundary between green and 
+yellow. The resulting color purple is a mixture of the complementary colors red and 
+violet.
+Go Figure
+If you were to use a ligand L that was a stronger field ligand 
+than ethylenediamine, what color would you expect the 
+3NiL642+ complex ion to have?
+Energy
+[Ni(H2O)6]2+
+Max absorption in 
+the visible at 720 nm
+[Ni(NH3)6]2+
+Max absorption in
+the visible at 570 nm
+t2
+e
+e
+∆
+∆
+t2
+[Ni(en)3]2+
+Max absorption in 
+the visible at 545 nm
+e
+∆
+t2
+▲ Figure 23.30 Effect of ligand on crystal-field splitting. The greater the crystal-field strength of 
+the ligand, the greater the energy gap ∆ it causes between the t2 and e sets of the metal ion’s 
+orbitals. This shifts the wavelength of the absorption maximum to shorter values.
+*The other two peaks fall in the infrared (IR) and ultraviolet (UV) regions of t

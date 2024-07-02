@@ -1,0 +1,85 @@
+he nuclear force is a short-range force: it acts only
+between neighboring nucleons. But the electric force acts all the way across a
+large nucleus. For very large nuclei, the large Z means the repulsive electric force
+becomes so large (Coulomb’s law) that the strong nuclear force is unable to hold
+the nucleus together.
+a
+ 66
+154Dy
+N¿
+[a decay]
+Z
+AN S
+Z-2
+A - 4N¿ +
+2
+4He
+ 88
+226Ra
+ 86
+222Rn
+a
+ 88
+226Ra S
+ 86
+222Rn +
+2
+4He.
+a
+Z = 86
+A = 226 - 4 = 222.
+Z = 88 - 2 = 86
+a
+( 88
+226Ra),
+(2
+4He),
+a
+(= Ze).
+= mass
+a
+2
+4He;
+a
+g
+b
+a
+864
+CHAPTER 30
+Nuclear Physics and Radioactivity
+FIGURE 30–4 Alpha and beta rays
+are bent in opposite directions by a
+magnetic field, whereas gamma rays
+are not bent at all.
+FIGURE 30–5 Radioactive decay of
+radium to radon with emission of an
+alpha particle.
+Radioactive
+sample (radium)
+Magnetic ﬁeld
+(into page)
+Lead block
+g
+b
+a
+226
+88Ra
+222
+86Rn
+4
+2He
+n
+n
+n
+p
+138
+88
+p
+136
+86
+p
+2
+2
++
+We can express the instability of the parent nucleus in terms of energy (or
+mass): the

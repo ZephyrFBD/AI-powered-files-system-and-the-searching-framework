@@ -1,0 +1,37 @@
+oton
+theory
+predictions
+FIGURE 27–7 Photoelectric effect:
+the maximum kinetic energy of
+ejected electrons increases linearly
+with the frequency of incident light.
+No electrons are emitted if f 6 f
+0.
+KE max
+of electrons
+Frequency of light f
+f0
+EXERCISE B A beam contains infrared light of a single wavelength, 1000 nm, and
+monochromatic UV at 100 nm, both of the same intensity. Are there more 100-nm photons
+or more 1000-nm photons?
+Photoelectron speed and energy. What is the kinetic
+energy and the speed of an electron ejected from a sodium surface whose work
+function is
+when illuminated by light of wavelength (a) 410 nm,
+(b) 550 nm?
+APPROACH We first find the energy of the photons 
+If the
+energy is greater than 
+then electrons will be ejected with varying amounts
+of 
+with a maximum of
+SOLUTION (a) For
+The maximum kinetic energy an electron can have is given by Eq. 27–5b,
+or
+Since 
+where
+Most ejected electrons will have less 
+and less speed than these maximum
+values.
+(b) For
+Since this ph

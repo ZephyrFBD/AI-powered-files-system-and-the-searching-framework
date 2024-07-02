@@ -1,0 +1,17 @@
+ shape. Enzymes do not increase the number of collisions; rather,
+an increase in heat does. Enzymes make collisions more effective,
+not faster. (ENE-1)
+(B) The key to understanding graphs that depict enzyme reactions—
+whether they are endergonic or exergonic—is that the potential
+energy (PE) of the reactants and of the products is the same before
+and after the reaction. The only thing that differs between enzyme-
+catalyzed reactions and reactions without enzymes is the PE of the
+transition state. It is lower in enzyme-catalyzed reactions. Choice A
+is not correct because enzymes do not make a reaction occur (that
+would not occur naturally); they only increase the number of
+effective collisions. Choice C is not correct because enzymes
+decrease the energy of activation. Choice D is not correct because
+the potential energy of the reactants remains the same with or
+without an enzyme present. (SP 4)
+(D) Substrate is used up as the product is formed. Enzymes are never
+used up; they are reused

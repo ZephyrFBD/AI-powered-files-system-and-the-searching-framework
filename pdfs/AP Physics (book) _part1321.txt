@@ -1,0 +1,15 @@
+so the frequency heard is higher. The wavefronts emitted behind the
+truck, on the other hand, are farther apart than when the truck is at rest because
+the truck is speeding away from them. Each new wavefront emitted is farther from
+the preceding one than when the truck is at rest. Hence, fewer wave crests per second
+pass by an observer behind the moving truck (Fig. 12–19b) and the perceived
+pitch is lower.
+We can calculate the frequency shift by making use of Fig. 12–20. We assume
+the air (or other medium) is at rest in our reference frame. We consider first the sta-
+tionary observer off to the right in Fig.12–19. In Fig.12–20a, the source of the sound
+is shown as a red dot, and is at rest. Two successive wave crests are shown, the
+second of which has just been emitted and is still near the source. The distance
+between these crests is 
+the wavelength. If the frequency of the source is 
+then the time between emissions of wave crests is
+In Fig. 12–20b, the source is moving with a velocit

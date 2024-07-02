@@ -1,0 +1,18 @@
+ J2>16.626 * 10−34 J@s2 = 3.02 * 1015 s−1
+Finally, we use the frequency to determine the wavelength.
+l = c>n = 12.998 * 108 m>s2>13.02 * 1015 s-12
+= 9.72 * 10-8 m = 97.2 nm
+Light with this wavelength falls in the ultraviolet region of the 
+electromagnetic spectrum.
+Continued
+224 
+CHAPTER 6 Electronic Structure of Atoms
+Limitations of the Bohr Model
+Although the Bohr model explains the line spectrum of the hydrogen atom, it can not 
+explain the spectra of other atoms, except in a crude way. Bohr also avoided the problem 
+of why the negatively charged electron would not just fall into the positively charged 
+nucleus, by simply assuming it would not happen. Furthermore, we will see that Bohr’s 
+model of an electron orbiting the nucleus at a fixed distance is not a realistic picture. 
+As we will see in Section 6.4, the electron exhibits wave-like properties, a fact that any 
+acceptable model of electronic structure must accommodate.
+As it turns out, the Bohr model was only an important ste

@@ -1,0 +1,29 @@
+ information to graph the functions sin t and cos t for t between 0 and 2π 
+in the figure below. 
+ 
+ 
+ 
+ 
+117 
+ 
+These are the graphs of one period. Using the fact that these functions are periodic with 
+period 2π, we get their complete graphs by continuing the same pattern to the left and to 
+the right in every successive interval of length 2π. 
+The graph of the sine function is symmetric with respect to the origin. This is as expected, 
+since sine is an odd function.  
+Cosine function is an even function, its graph is symmetric with respect to the y-axis. 
+ 
+3.3.2 Transformations of Graphs of Sine and Cosine 
+We now consider graphs of functions that are transformations of the sine and cosine 
+functions. 
+ 
+Example 1 
+Sketch the graph of each function. 
+(a) f (x) = 2 + cos x 
+(b) g(x) = −cos x 
+ 
+ 
+ 
+ 
+Let’s graph y = 2 sin x. We start with the graph of y = sin x and multiply the y-coordinate of 
+each point by 2. This has the effect of stretching the graph vertically by a factor of 2.

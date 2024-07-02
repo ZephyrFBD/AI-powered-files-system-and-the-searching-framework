@@ -1,0 +1,23 @@
+ability of the
+dominant allele A, p, and the recessive allele a, q. The
+Hardy-Weinberg model of population dynamics is based
+on several assumptions. One of these assumptions is
+“random mating.” If all genes in a population are equally
+able to reproduce, this means that all genes are equally fit
+and equally fertile. Consequently, the population never
+evolves.
+Populations do evolve and the Hardy-Weinberg model can
+be modified slightly to allow evolution to occur. Suppose
+that there is an initial population at generation zero and the
+probability of the dominant allele at that time is p0. Later,
+at population k the probability is different. But if the
+frequencies of the three different combinations of alleles is
+known then the probabilities pk and qk can be calculated at
+generation k
+(1) pk = Fk(AA) + ½Fk(Aa) qk = Fk(aa) + ½Fk(Aa)
+And since p and q are probabilities for a case where only
+two alleles exist, p+q=1. Then also (p+q)2=1, leading the
+Hardy-Weinberg equation
+p2
+k + 2pk qk + q2
+k 

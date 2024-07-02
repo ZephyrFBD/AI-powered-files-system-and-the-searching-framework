@@ -1,0 +1,49 @@
+ our estimates).
+Go Figure
+pKa1
+pKa2
+0
+10
+20
+30
+40
+60
+70
+80
+90
+110
+100
+50
+0
+2
+4
+6
+pH
+8
+10
+12
+14
+−
+2−
+mL NaOH
+Starting point
+First equivalence point
+Second equivalence point
+▲ Figure 17.15 Titration curve for a diprotic acid. The curve shows the pH change when 50.0 mL 
+of 0.10 M H3PO3 is titrated with 0.10 M NaOH.
+What is/are the dominant species in solution at pH = 4: H3PO3, 
+H2PO3
+-, HPO3 
+2-, and/or PO3
+3-? At pH = 11?
+Give It Some Thought
+Sketch an approximate titration curve for the titration of Na2CO3 with HCl and 
+indicate where HCO3
+- is the dominant species.
+17.4 ∣ Solubility Equilibria
+The equilibria we have considered thus far in this chapter have involved acids and bases. 
+Furthermore, they have been homogeneous; that is, all the species have been in the same 
+phase. Through the rest of the chapter, we will consider the equilibria involved in the dis-
+solution or precipitation of ionic compounds. These reactions are heterogeneous.
+740 
+CHAPTER 17 Additional Aspects of Aqueou

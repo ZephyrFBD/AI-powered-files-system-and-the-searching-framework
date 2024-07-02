@@ -1,0 +1,16 @@
+age weight change can be plotted on a
+graph, as shown on the following page.
+An imaginary line can be drawn that nearly bisects all data points. Note
+where the line crosses the x-axis. At this point, there is no change in
+weight of the unknown sample, which represents the point at which the
+osmolarity/water potential of the unknown is the same as a known
+solution equal to that point on the x-axis (on the graph, this is about
+0.675 M). By assuming change in weight is linear with respect to change in
+concentration, the expected concentration of a theoretical solution can
+be determined. The concentration of the unknown can be estimated by
+comparing it to the concentration of the theoretical solution (as we saw
+in the graph above, this is approximately 0.675 M). This type of
+experimental design and interpolation is very common in biological
+research. The College Board expects you to be able to design simple
+experiments like this to test simple hypotheses.
+Water potential [represented by th

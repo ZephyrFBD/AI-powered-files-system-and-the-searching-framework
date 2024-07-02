@@ -1,0 +1,22 @@
+each second, or 44.1 kHz,
+like a CD. That is, a sample is taken every 
+.
+In 0.50 ms, as shown here, 22 samples (black dots) are taken. This is an
+alternate way to represent sampling compared to Fig. 17-24, and shows that 
+we cannot see any changes that might happen between the samplings (dots).
+(1 s)44,100 = 0.000023 s = 0.023 ms
+t
+V
+0
+0.25 ms
+0.50 ms
+Voltage
+Figure 17–25 gives some details about a pure 2000-Hz sound sampled at 
+44.1 kHz. Normal musical sounds are a complex summation of many such sine
+waves of different frequencies and amplitudes. A simple summation was shown in
+Fig. 12–14. Another example is shown in Fig. 17–26, where we can see that the
+fine details may be missed by a digital conversion. Look at Fig. 17–25: if that were
+20,000 Hz (highest frequency of human hearing), it would be sampled only about
+two times per wavelength. Both those samples might be zero volts—obviously missing
+the entire waveform. Over many wavelengths, it might eventually reproduce the
+waveform s

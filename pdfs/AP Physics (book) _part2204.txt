@@ -1,0 +1,40 @@
+ (⊥v
+B)
+v
+568
+CHAPTER 20
+Magnetism
+2. The right-hand rule, in its different forms, is intended
+to help you determine the directions of magnetic
+field, and the forces they exert, and/or the directions
+of electric current or charged particle velocity. The
+right-hand rules (Table 20–1) are designed to deal
+with the “perpendicular” nature of these quantities.
+3. The equations in this Chapter are generally not
+printed as vector equations, but involve magnitudes
+only. Right-hand rules are to be used to find direc-
+tions of vector quantities.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Magnetic Fields
+Magnetic fields are somewhat analogous to the electric
+fields of Chapter 16, but there are several important
+differences to recall:
+1. The force experienced by a charged particle moving
+in a magnetic field is perpendicular to the direction
+of the magnetic field (and to the direction of the
+velocity of the particle), whereas the force exerted
+by an electric field is parallel to the direction of the
+field (and in

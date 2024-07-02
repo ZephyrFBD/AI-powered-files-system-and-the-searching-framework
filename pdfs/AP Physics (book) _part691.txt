@@ -1,0 +1,31 @@
+tum and Its Relation to Force
+171
+NEWTON’S SECOND LAW
+C A U T I O N
+The change in the momentum vector
+is in the direction of the net force
+NEWTON’S SECOND LAW
+†Normally we think of 
+as being a small time interval. If it is not small, then Eq. 7–2 is valid if 
+is constant during that time interval, or if 
+is the average net force during that time interval.
+©F
+B
+©F
+B
+¢t
+EXERCISE B If the water splashes back from the car in Example 7–2, would the force
+on the car be larger or smaller?
+Force of a tennis serve. For a top player, a ten-
+nis ball may leave the racket on the serve with a speed of 
+(about 
+), Fig. 7–1. If the ball has a mass of 0.060 kg and is in contact with the
+racket for about 4 ms
+estimate the average force on the ball. Would
+this force be large enough to lift a 60-kg person?
+APPROACH We write Newton’s second law, Eq. 7–2, for the average force as
+where 
+and 
+are the initial and final momenta. The tennis ball is hit when
+its initial velocity 
+is very nearly zero at the top 

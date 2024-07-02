@@ -1,0 +1,13 @@
+n terms of activities rather than concentra-
+tions or partial pressures.
+The activity of any substance in an ideal mixture is the ratio of the concentration 
+or pressure of the substance either to a reference concentration 11 M2 or to a reference 
+pressure (1 atm). For example, if the concentration of a substance in an equilibrium mix-
+ture is 0.010 M, its activity is 0.010 M>1 M = 0.010. The units of such ratios always can-
+cel and, consequently, activities have no units. Furthermore, the numerical value of the 
+activity equals the concentration. For pure solids and pure liquids, the situation is even 
+simpler because the activities then merely equal 1 (again with no units).
+In real systems, activities are also ratios that have no units. Even though these activ-
+ities may not be exactly numerically equal to concentrations, we will assume those dif-
+ferences are small enough that we can neglect them. All we need to know at this point 
+is that activities have no units. As a result, the 

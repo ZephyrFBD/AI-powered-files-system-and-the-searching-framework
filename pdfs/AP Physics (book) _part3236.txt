@@ -1,0 +1,15 @@
+ATP and energy in the cell
+In living cells, many chemical reactions have activation energies that are
+often on the order of several eV. Such energy barriers are not easy to overcome
+in the cell. This is where enzymes come in. They act as catalysts, which means
+they act to lower the activation energy so that reactions can occur that otherwise
+would not. Enzymes act via the electrostatic force to distort the bonding electron
+clouds, so that the initial bonds are easily broken.
+29–3 Weak (van der Waals) Bonds
+Once a bond between two atoms or ions is made, energy must normally be sup-
+plied to break the bond and separate the atoms. As mentioned in Section 29–1,
+this energy is called the bond energy or binding energy. The binding energy for
+covalent and ionic bonds is typically 2 to 5 eV. These bonds, which hold atoms
+together to form molecules, are often called strong bonds to distinguish them
+from so-called “weak bonds.” The term weak bond, as we use it here, refers to an
+attachment betwe

@@ -1,0 +1,34 @@
+ever, that
+no vector is ever negative in the sense of its magnitude: the magnitude of every
+vector is positive. Rather, a minus sign tells us about its direction.
+V
+B
+A –V
+B B
+V
+B,
+0 (= 3.0 - 3.0)
+6.0 (= 3.0 + 3.0)
+CONCEPTUAL EXAMPLE 3;1
+V
+B
+2 - V
+B
+1 ,
+–V
+B
+V
+B
+A second way to add two vectors is the parallelogram method. It is fully equiva-
+lent to the tail-to-tip method. In this method, the two vectors are drawn starting
+from a common origin, and a parallelogram is constructed using these two vectors
+as adjacent sides as shown in Fig. 3–6b. The resultant is the diagonal drawn from
+the common origin. In Fig.3–6a, the tail-to-tip method is shown, and we can see that
+both methods yield the same result.
+FIGURE 3;7 The negative of a
+vector is a vector having the same
+length but opposite direction.
+We can now define the subtraction of one vector from another: the difference
+between two vectors 
+is defined as
+That is, the difference between two vectors is equal to the sum of the first plus

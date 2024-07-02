@@ -1,0 +1,31 @@
+hite rods are employed as anodes and are con-
+sumed in the electrolysis:
+Anode: 
+ C1s2 + 2 O2 -1l2 ¡ CO21g2 + 4 e-
+Cathode: 
+ 
+ 3 e- + Al3+1l2 ¡ Al1l2
+A large amount of electrical energy is needed in the Hall–Héroult 
+process, with the result that the aluminum industry consumes about 
+2% of the electrical energy generated in the United States. Because 
+recycled aluminum requires only 5% of the energy needed to pro-
+duce “new” aluminum, considerable energy savings can be realized 
+by increasing the amount of aluminum recycled. Approximately 65% 
+of aluminum beverage containers are recycled in the United States.
+Molten
+aluminum
+metal
+Carbon-lined
+iron cathode
+Al2O3
+dissolved
+in molten
+cryolite
+Graphite
+anodes
++
+–
+▲ Figure 20.32 The Hall–Héroult process. Because molten 
+aluminum is denser than the mixture of cryolite 1Na3AlF62 and 
+Al2O3, the metal collects at the bottom of the cell.
+The Ksp at 298 K for iron(II) fluoride is 2.4 * 10-6. (a) Write a half-reaction that gives the likely prod

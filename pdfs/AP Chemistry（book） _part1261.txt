@@ -1,0 +1,21 @@
+ account for many properties of liquids, solids, and 
+solutions, as you will see in Chapters 11, 12, and 13. Charge separation within mole-
+cules plays an important role in energy conversion processes such as photosynthesis 
+and in solar cells.
+How can we quantify the polarity of a molecule? Whenever two electrical charges of 
+equal magnitude but opposite sign are separated by a distance, a dipole is established. 
+The quantitative measure of the magnitude of a dipole is called its dipole moment, 
+denoted with the Greek letter mu, m. If two equal and opposite charges Q+ and Q- are 
+separated by a distance r, as in Figure 8.10, the magnitude of the dipole moment is the 
+product of Q and r:
+ 
+m = Qr 
+[8.10]
+This expression tells us that the dipole moment increases as the magnitude of 
+ 
+Q increases and as r increases. The larger the dipole moment, the more polar the bond. 
+For a nonpolar molecule, such as F2, the dipole moment is zero because there is no charge 
+separation.
+Q2
+r
+Dipole mo

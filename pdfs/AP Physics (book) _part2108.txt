@@ -1,0 +1,14 @@
+ of R with fixed C, determines the rate at which the wipers come on.
+EXERCISE G A typical turn signal flashes perhaps twice per second, so its time constant
+is on the order of 0.5 s. Estimate the resistance in the circuit, assuming a moderate
+capacitor of 
+An important medical use of an RC circuit is the electronic heart pacemaker,
+which can make a stopped heart start beating again by applying an electric stim-
+ulus through electrodes attached to the chest. The stimulus can be repeated at the
+normal heartbeat rate if necessary. The heart itself contains pacemaker cells,
+which send out tiny electric pulses at a rate of 60 to 80 per minute. These signals
+induce the start of each heartbeat. In some forms of heart disease, the natural
+pacemaker fails to function properly, and the heart loses its beat. Such patients
+use electronic pacemakers which produce a regular voltage pulse that starts and
+controls the frequency of the heartbeat. The electrodes are implanted in or near
+the heart (Fig. 

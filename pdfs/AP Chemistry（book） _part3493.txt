@@ -1,0 +1,20 @@
+tifying Elemental Properties
+SOLUTION
+Analyze We are given a list of elements and asked to predict several 
+properties that can be related to periodic trends.
+Plan We can use Figures 22.1 and 22.2 to guide us to the answers.
+Solve
+(a) Electronegativity increases as we proceed toward the upper 
+right portion of the periodic table, excluding the noble 
+gases. Thus, N is the most electronegative element of our 
+choices.
+(b) Metallic character correlates inversely with electronegativity—the 
+less electronegative an element, the greater its metallic character. 
+The element with the greatest metallic character is therefore K, 
+which is closest to the lower left corner of the periodic table.
+(c) Nonmetals tend to form molecular compounds, so we can 
+narrow our choice to the three nonmetals on the list: N, P
+, 
+and Ne. To form more than four bonds, an element must be 
+able to expand its valence shell to allow more than an octet of 
+electrons around it. Valence-shell expansion occurs for period

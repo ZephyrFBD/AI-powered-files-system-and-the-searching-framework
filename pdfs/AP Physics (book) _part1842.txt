@@ -1,0 +1,68 @@
+- 0 =
+–qAV
+b - V
+aB
+=
+–qV
+ba,
+¢ke =
+–¢pe
+¢ke + ¢pe = 0,
+V
+a.
+V
+b
+V
+ba,
+¢pe = qV
+ba = A –1.6 * 10–19 CB(±5000 V) =
+–8.0 * 10–16 J.
+q = –e = –1.6 * 10–19 C.
+¢pe = qV
+ba
+Am = 9.1 * 10–31 kgB
+V
+b - V
+a = V
+ba = ±5000 V
+EXAMPLE 17;2
+EXERCISE A Instead of the electron in Example 17–2,
+suppose a proton
+was accelerated from rest by a potential difference
+What would be the proton’s (a) change in PE, and (b) final speed?
+V
+ba = –5000 V.
+Am = 1.67 * 10–27 kgB
+High
+voltage
+
+5000 V
+a
+b
+e−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
++
++
++
++
++
++
+Vba
+FIGURE 17–4 Electron accelerated,
+Example 17–2.
+To better understand electric potential, let’s make a comparison to the gravi-
+tational case when a rock falls from the top of a cliff. The greater the height, h,
+of a cliff, the more potential energy 
+the rock has at the top of the cliff
+relative to the bottom, and the more kinetic energy it will have when it reaches
+the bottom. The actual amount of kinetic energy it will acquire, and the amount
+of work it can do, depends both o

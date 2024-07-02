@@ -1,0 +1,23 @@
+on of a car. How long does it take a car to cross 
+a 30.0-m-wide intersection after the light turns green, if the car accelerates from
+rest at a constant 
+APPROACH We follow the Problem Solving Strategy on the previous page,
+step by step.
+SOLUTION
+1. Reread the problem. Be sure you understand what it asks for (here, a time
+interval: “how long does it take”).
+2. The object under study is the car. We need to choose the time interval
+during which we look at the car’s motion: we choose
+the initial time,
+to be the moment the car starts to accelerate from rest
+the time 
+is the instant the car has traveled the full 30.0-m width of the intersection.
+3. Draw a diagram: the situation is shown in Fig. 2–15, where the car is shown
+moving along the positive x axis. We choose
+at the front bumper of
+the car before it starts to move.
+4. The “knowns” and the “wanted” information are shown in the Table in the
+margin. Note that “starting from rest” means
+at
+that is,
+The wanted time is how long it takes t

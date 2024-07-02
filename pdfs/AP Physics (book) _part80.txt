@@ -1,0 +1,19 @@
+asure an angle is about one degree (certainly not 0.1°).
+So you can quote two significant figures, namely 30° (not 30.0°). (b) If you
+enter cos 30° in your calculator, you will get a number like 0.866025403.
+But the angle you entered is known only to two significant figures, so its cosine
+is correctly given by 0.87; you must round your answer to two significant figures.
+NOTE T
+rigonometric functions, like cosine, are reviewed in Chapter 3 and Appendix A.
+Scientific Notation
+We commonly write numbers in “powers of ten,” or “scientific” notation—for
+instance 36,900 as
+or 0.0021 as
+One advantage of
+scientific notation (reviewed in Appendix A) is that it allows the number of
+significant figures to be clearly expressed. For example, it is not clear whether
+36,900 has three, four, or five significant figures. With powers of 10 notation 
+the ambiguity can be avoided: if the number is known to three significant
+figures, we write
+but if it is known to four, we write
+EXERCISE C Write each of the

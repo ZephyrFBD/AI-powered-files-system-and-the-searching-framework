@@ -1,0 +1,26 @@
+able, you have 
+probably used the equation correctly.
+Sometimes you will not be given explicit values for several vari-
+ables, making it look like a problem that cannot be solved. In these 
+cases, however, you should look for information that can be used to 
+determine the needed variables. For example, suppose you are using 
+the ideal-gas equation to calculate a pressure in a problem that gives 
+a value for T but not for n or V. However, the problem states that “the 
+sample contains 0.15 mol of gas per liter.” You can turn this state-
+ment into the expression
+ 
+n
+V = 0.15 mol>L 
+Solving the ideal-gas equation for pressure yields
+P = nRT
+V  
+which we can rewrite as follows:
+ 
+P = a n
+VbRT 
+Thus, we can solve the equation even though we are not given values 
+for n and V.
+As we have continuously stressed, the most important thing 
+you can do to become proficient at solving chemistry problems is 
+to do the practice exercises and end-of-chapter exercises. By using 
+systematic procedures, su

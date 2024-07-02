@@ -1,0 +1,70 @@
+oltage drop?
+51. (III) In Fig. 19–66, suppose 
+(a) Determine the equivalent capacitance between points a
+and b. (b) Determine the charge
+on each capacitor and the potential
+difference across each in terms 
+of V.
+C1 = C2 = C3 = C4 = C.
+2.0-mF
+C3 = 3.0 mF,
+C2 = 1.5 mF,
+C1 = 2.0 mF,
+4.8 mF.
+35.0 mF
+d3 ,
+d1 , d2 ,
+A3
+A1 , A2 ,
+1.4-mF
+0.50-mF
+b
+a
+C4
+C3
+C2
+C1
+FIGURE 19–64
+Problem 44.
+b
+a
+C4
+C3
+C2
+C1
+V
+FIGURE 19–66
+Problem 51.
+19–6 RC Circuits
+52. (I) Estimate the value of resistances needed to make a
+variable timer for intermittent windshield wipers: one
+wipe every 15 s, 8 s, 4 s, 2 s, 1 s. Assume the capacitor used is
+on the order of 
+See Fig. 19–67.
+1 mF.
+FIGURE 19–67
+Problem 52.
+V
+R
+r
+FIGURE 19–73
+Problem 66.
+Problems
+555
+Recorder
+Ampliﬁer
+To left-leg
+electrode
+To right-leg
+electrode
+(ground)
+To arm electrode
+R
+R
+C
+C
+FIGURE 19–68
+Problem 53.
+53. (II) Electrocardiographs are often connected as shown in
+Fig. 19–68. The lead wires to the legs are said to be capac-
+itively coupled. A time con

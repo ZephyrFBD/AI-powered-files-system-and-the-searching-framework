@@ -1,0 +1,19 @@
+19 Chemical Thermodynamics
+In general, the entropy of any system increases as the system becomes 
+more random or more spread out. Thus, we expect the spontaneous 
+expansion of a gas to result in an increase in entropy. To see how this 
+entropy increase can be calculated, consider the expansion of an ideal 
+gas that is initially constrained by a piston, as in the rightmost part 
+of Figure 19.4. Imagine that we allow the gas to undergo a reversible 
+isothermal expansion by inﬁnitesimally decreasing the external pres-
+sure on the piston. The work done on the surroundings by the revers-
+ible expansion of the system against the piston can be calculated with 
+the aid of calculus (we do not show the derivation):
+wrev = -nRT  ln 
+V2
+V1
+In this equation, n is the number of moles of gas, R is the ideal-gas 
+constant 
+ (Section 10.4), T is the absolute temperature, V1 is the 
+initial volume, and V2 is the ﬁnal volume. Notice that if V2 7 V1, as it 
+must be in our expansion, then wrev 6 0, meaning

@@ -1,0 +1,38 @@
+a radius of 5.0 cm, and a resistance of
+surrounds a solenoid with 
+and a radius
+of 4.5 cm (Fig. 21–65). The current in the solenoid changes
+at a constant rate from 0 to
+2.0 A in 0.10 s. Calculate the
+magnitude and direction
+of the induced current
+in the outer coil.
+230 turnscm
+12 
+RL
+P
+T
+P
+L = AP
+TB2 RLV2,
+P
+L,
+0.60-
+0.95-
+85. A certain electronic device needs to be protected against
+sudden surges in current. In particular, after the power is
+turned on, the current should rise no more than 7.5 mA in
+the first 
+The device has resistance 
+and is
+designed to operate at 55 mA. How would you protect this
+device?
+86. A 35-turn 12.5-cm-diameter coil is placed between the pole
+pieces of an electromagnet. When the electromagnet is
+turned on, the flux through the coil changes, inducing an
+emf. At what rate (in 
+) must the magnetic field change
+if the emf is to be 120 V?
+87. Calculate the peak output voltage of a simple generator
+whose square armature windings are 6.60 cm on a side;
+the arma

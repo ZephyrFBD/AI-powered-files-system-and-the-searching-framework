@@ -1,0 +1,10 @@
+ates the Ras protein. The Ras protein then initiates a MAK cascade,
+which ultimately activates a transcription factor. One such transcription factor binds to DNA at the gene called p53.
+The product of p53, protein 53, checks for DNA damage. If the DNA is damaged, p53 directs enzymes to repair the
+DNA. Once repaired, p53 permits cell division to proceed. If repair is unsuccessful, it directs other enzymes to kill
+the cell, thus preventing the proliferation of damaged cells. Such programed cell death is called apoptosis. If a
+member protein in the MAP signal transduction pathway is damaged or if the DNA contains a mutated version of
+p53, the p53 protein product may be critically altered or nonexistent. As a result, DNA surveillance does not occur
+and cell division progresses even if the DNA is damaged. Continued uncontrolled cell division leads to a
+proliferation of cancer cells. Although mutations in p53 and other genes can be inherited, they are also caused by the
+ultraviolet radiation

@@ -1,0 +1,25 @@
+ty of electron. An electron moves in a
+straight line with a constant speed
+which has been measured
+to a precision of 0.10%. What is the maximum precision with which its position
+could be simultaneously measured?
+APPROACH The momentum is 
+and the uncertainty in p is
+The uncertainty principle (Eq. 28–1) gives us the smallest uncer-
+tainty in position 
+using the equals sign.
+SOLUTION The momentum of the electron is
+The uncertainty in the momentum is 0.10% of this, or
+From the uncertainty principle, the best simultaneous position measurement will
+have an uncertainty of
+or 110 nm.
+NOTE This is about 1000 times the diameter of an atom.
+EXERCISE B An electron’s position is measured with a precision of 
+Find the minimum uncertainty in its momentum and velocity.
+Position uncertainty of a baseball. What is the uncertainty
+in position, imposed by the uncertainty principle, on a 150-g baseball thrown at
+APPROACH The uncertainty in the speed is 
+We multiply 
+by m
+to get 
+and then use the uncertaint

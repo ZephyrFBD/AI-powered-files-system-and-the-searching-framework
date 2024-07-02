@@ -1,0 +1,24 @@
+ small nucleus) that strikes
+nucleus X, producing nucleus Y and particle b (typically, p, n,
+). We define
+the reaction energy, or Q-value, in terms of the masses involved, as
+(31;2a)
+For a 
+ray,
+If energy is released by the reaction,
+If energy is
+required,
+Because energy is conserved, Q has to be equal to the change in kinetic
+energy (final minus initial):
+(31;2b)
+If X is a target nucleus at rest (or nearly so) struck by incoming particle a, then
+For 
+the reaction is said to be exothermic or exoergic; energy is
+released in the reaction, so the total kinetic energy is greater after the reaction
+than before. If Q is negative, the reaction is said to be endothermic or endoergic:
+an energy input is required to make the reaction happen. The energy input comes
+from the kinetic energy of the initial colliding particles (a and X).
+A slow-neutron reaction. The nuclear reaction
+is observed to occur even when very slow-moving neutrons (mass 
+)
+strike boron atoms at rest. For a particular reaction

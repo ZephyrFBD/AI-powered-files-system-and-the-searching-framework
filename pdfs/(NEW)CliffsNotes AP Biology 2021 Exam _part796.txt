@@ -1,0 +1,14 @@
+ratus. Other samples can be
+loaded in additional wells, including a sample of DNA of known fragment sizes to be used as a comparison
+standard.
+4. Begin electrophoresis. The electrophoresis apparatus applies a voltage to opposite ends of the gel. DNA carries an
+overall negative charge due to its phosphate groups, and, as a result, fragments migrate from the negative to the
+positive electrode. Turn off the apparatus when the tracking dye nears the end of the gel.
+5. Immerse the gel in methylene blue, a dye that allows the fragments to be observed.
+ 
+6. Record the distance each fragment has migrated from the well. The
+ 
+migration distance for a fragment is inversely proportional to the log10
+of its molecular weight—longer, heavier fragments move more slowly and travel shorter distances than smaller
+fragments. The number of base pairs (bp length) in a fragment can be substituted for its molecular weight.
+7. Using semi-log graph paper, prepare a standard curve using the observed migration d

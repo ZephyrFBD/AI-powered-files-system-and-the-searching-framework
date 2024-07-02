@@ -1,0 +1,14 @@
+three-dimensional arrangement has the Cl atoms at the corners of a 
+ 
+tetrahedron, a geometric object with four corners and four faces, each an equilateral triangle.
+The shape of a molecule is determined by its bond angles, the angles made by the 
+lines joining the nuclei of the atoms in the molecule. The bond angles of a molecule, 
+together with the bond lengths 
+ (Section 8.8), define the shape and size of the mol-
+ecule. In Figure 9.1, you should be able to see that there are six Cl ¬C ¬Cl bond angles 
+in CCl4, all of which have the same value. That bond angle, 109.5°, is characteristic of a 
+tetrahedron. In addition, all four C ¬Cl bonds are of the same length (1.78 Å). Thus, the 
+shape and size of CCl4 are completely described by stating that the molecule is tetrahe-
+dral with C ¬Cl bonds of length 1.78 Å. To draw the three-dimensional structure of a 
+molecule on paper, chemists use a convention shown in Figure 9.1: Regular lines imply 
+the bond is the plane of the paper, a heavy 

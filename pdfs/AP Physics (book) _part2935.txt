@@ -1,0 +1,44 @@
+ the train inside
+the tunnel at the same time. Recall that observers moving relative to each other
+do not agree about simultaneity. (See Example 26–7, next.)
+EXERCISE C What is the length of the tunnel as measured by observers on the train in
+Example 26–6?
+v = 0.92c.
+v
+c
+= 31 - (0.40)2
+(0.40)2 = 1 - v2
+c2
+200 m = 500 m C1 - v2
+c2 ;
+l0 = 500 m
+l = 200 m
+l = 200 m.
+l0 = 500 m
+EXAMPLE 26;6
+1.00 m * 0.65 m
+= (1.50 m)31 - (0.90)2 = 0.65 m.
+l = l0 C
+1 - v2
+c2
+(v = 0)
+EXAMPLE 26;5
+21 - v2c2
+758
+CHAPTER 26
+The Special Theory of Relativity
+(a)
+7
+(b)
+7
+FIGURE 26–10 According to an
+accurate clock on a fast-moving train,
+a person (a) begins dinner at 7:00 and
+(b) finishes at 7:15. At the beginning
+of the meal, two observers on Earth
+set their watches to correspond with
+the clock on the train. These observers
+measure the eating time as 20 minutes.
+Resolving the train and tunnel length.
+Observers at rest on the Earth see a very fast 200-m-long train pass through a
+200-m-long tunnel (as in Example 2

@@ -1,0 +1,31 @@
+ir.
+Show that this is consistent with the two definitions of the
+roentgen given in the text.
+46. (II) A 1.6-mCi source of 
+(in 
+), a 
+emitter, is
+implanted in a tumor where it is to administer 32 Gy. The
+half-life of 
+is 14.3 days, and 1.0 mCi delivers about
+Approximately how long should the source
+remain implanted?
+47. (II) What is the mass of a 2.50-
+source?
+48. (II) 
+emits 122-keV 
+rays. If a 65-kg person swallowed
+of 
+what would be the dose rate 
+averaged over the whole body? Assume that 50% of the 
+-ray energy is deposited in the body. [Hint: Determine
+the rate of energy deposited in the body and use the defi-
+nition of the gray.]
+49. (II) Ionizing radiation can be used on meat products to
+reduce the levels of microbial pathogens. Refrigerated
+meat is limited to 4.5 kGy. If 1.6-MeV electrons irradiate
+5 kg of beef, how many electrons would it take to reach the
+allowable limit?
+50. (III) Huge amounts of radioactive 
+were released in the
+accident at Chernobyl in 1986. Chemically, io

@@ -1,0 +1,36 @@
+ple, the theoretical 
+maximum work obtained for the combustion of gasoline is given by 
+the value of ∆G for the combustion reaction. On average, standard 
+internal combustion engines are inefficient in utilizing this poten-
+tial work—more than 60% of the potential work is lost (primarily as 
+heat) in converting the chemical energy of the gasoline to mechan-
+ical energy to move the vehicle. When other losses are considered—
+idling time, braking, aerodynamic drag, and so forth—only about 
+15% of the potential work from the gasoline is used to move the car. 
+Advances in automobile design—such as hybrid technology, and 
+new lightweight materials—have the potential to increase the per-
+centage of useful work obtained from the gasoline.
+TABLE 19.3 How Signs of ∆H and ∆S Affect Reaction Spontaneity
+∆H
+∆S
+-T∆S
+∆G = ∆H - T∆S
+Reaction Characteristics
+Example
+-
++
+-
+-
+Spontaneous at all temperatures
+2 O31g2 ¡ 3 O21g2
++
+-
++
++
+Nonspontaneous at all temperatures
+3 O21g2 ¡ 2 O31g2
+-
+-
++
++ or -
+Spontan

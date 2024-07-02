@@ -1,0 +1,26 @@
+ the position of a particle,
+the less well you can know the momentum of the
+particle.
+(d) The better you know the position of a particle, the
+better you can know the momentum of the particle.
+(e) How well you can determine the position and
+momentum of a particle depends on the particle’s
+quantum numbers.
+7. Which of the following is required by the Pauli exclusion
+principle?
+(a) No electron in an atom can have the same set of
+quantum numbers as any other electron in that 
+atom.
+(b) Each electron in an atom must have the same n value.
+(c) Each electron in an atom must have different 
+values.
+(d) Only two electrons can be in any particular shell of an
+atom.
+(e) No two electrons in a collection of atoms can have the
+exact same set of quantum numbers.
+ml
+8. Under what condition(s) can the exact location and velocity
+of an electron be measured at the same time?
+(a) The electron is in the ground state of the atom.
+(b) The electron is in an excited state of the atom.
+(c) The electron is free 

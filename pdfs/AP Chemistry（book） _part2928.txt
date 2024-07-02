@@ -1,0 +1,18 @@
+e 
+THMs.
+Some THMs and other halogenated organic substances are suspected carcinogens; 
+others interfere with the body’s endocrine system. As a result, the World Health Organi-
+zation and the U.S. Environmental Protection Agency have placed concentration limits 
+of 80 mg>L (80 ppb) on the total quantity of THMs in drinking water. The goal is to reduce 
+the levels of THMs and other disinfection by-products in the drinking water supply while 
+preserving the antibacterial effectiveness of the water treatment. In some cases, lower-
+ing the concentration of chlorine may provide adequate disinfection while reducing the 
+concentrations of THMs formed. Alternative oxidizing agents, such as ozone or chlorine 
+dioxide, produce less of the halogenated substances but have their own disadvantages. 
+For example, each is capable of oxidizing dissolved bromide, as shown here for ozone:
+ 
+O31aq2 + Br-1aq2 + H2O1l2 ¡ HBrO1aq2 + O21aq2 + OH-1aq2 
+[18.17]
+ 
+   HBrO1aq2 + 2 O31aq2 ¡ BrO3
+-1aq2 + 2 O21aq2 +

@@ -1,0 +1,22 @@
+y of the whole system was positive. This result, which we have
+calculated for a specific case in Example 15–14, has been found to hold in all
+other cases tested. That is, the total entropy of an isolated system is found to
+increase in all natural processes. The second law of thermodynamics can be stated
+in terms of entropy as follows: The entropy of an isolated system never decreases.
+It can only stay the same or increase. Entropy can remain the same only for an
+idealized (reversible) process. For any real process, the change in entropy 
+is
+greater than zero:
+(15;9)
+If the system is not isolated, then the change in entropy of the system,
+plus
+the change in entropy of the environment,
+must be greater than or equal
+to zero:
+(15;10)
+Only idealized processes can have 
+Real processes always have 
+This, then, is the general statement of the second law of thermodynamics:
+the total entropy of any system plus that of its environment increases as a
+result of any natural process.
+Although the ent

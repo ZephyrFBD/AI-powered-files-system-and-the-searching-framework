@@ -1,0 +1,27 @@
+y treating the acid as if it were a monoprotic acid.
+Solve
+Proceeding as in Sample Exercises 16.12 and 
+16.13, we can write the equilibrium reaction 
+and equilibrium concentrations as:
+We see that the value for y is indeed very small compared with 
+4.0 * 10-5, showing that our assumption was justified. It also 
+shows that the ionization of HCO3
+- is negligible relative to that of 
+H2CO3, as far as production of H+ is concerned. However, it is the 
+only source of CO3
+2-, which has a very low concentration in the 
+solution. Our calculations thus tell us that in a solution of carbon 
+dioxide in water, most of the CO2 is in the form of CO2 or H2CO3, 
+only a small fraction ionizes to form H+ and HCO3
+-, and an even 
+smaller fraction ionizes to give CO3
+2-. Notice also that 3CO3
+2-4 is 
+numerically equal to Ka2.
+ 
+▶Practice Exercise 1
+What is the pH of a 0.28 M solution of ascorbic acid  
+(Vitamin C)? (See Table 16.3 for Ka1 and Ka2.)
+(a) 2.04 (b) 2.32 (c) 2.82 (d) 4.65 (e) 6.17
+ 
+▶Practice 

@@ -1,0 +1,22 @@
+nd subshells (according
+to ).
+Electron configurations are specified using the numerical
+values of n, and using letters for 
+s, p, d, f, etc., for
+and so on, plus a superscript for the number of
+electrons in that subshell. Thus, the ground state of hydrogen 
+is 
+whereas that for oxygen is 
+In the Periodic Table, the elements are arranged in horizontal
+rows according to increasing atomic number (
+number of elec-
+trons in the neutral atom). The shell structure gives rise to a
+periodicity in the properties of the elements, so that each vertical
+column can contain elements with similar chemical properties.
+X-rays, which are a form of electromagnetic radiation of
+very short wavelength, are produced when high-speed electrons
+strike a target. The spectrum of X-rays so produced consists of
+two parts, a continuous spectrum produced when the electrons
+are decelerated by atoms of the target, and peaks representing
+photons emitted by atoms of the target after being excited by
+collision with the hig

@@ -1,0 +1,14 @@
+lid and pure water, as shown for KCl in Figure 19.10. The ions in the liquid move 
+in a volume that is larger than the volume in which they were able to move in the crys-
+tal lattice and so undergo more motion. This increased motion might lead us to con-
+clude that the entropy of the system has increased. We have to be careful, however, 
+because some of the water molecules have lost some freedom of motion because they 
+are now held around the ions as water of hydration. 
+ (Section 13.1) These water 
+molecules are in a more ordered state than before because they are now confined to the 
+immediate environment of the ions. Therefore, the dissolving of a salt involves both 
+a disordering process (the ions become less confined) and an ordering process (some 
+water molecules become more confined). The disordering processes are usually dom-
+inant, and so the overall effect is an increase in the randomness of the system when 
+most salts dissolve in water.
+Now, imagine arranging biomolecules in

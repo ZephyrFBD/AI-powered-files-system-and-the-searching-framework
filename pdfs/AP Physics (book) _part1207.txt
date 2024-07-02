@@ -1,0 +1,13 @@
+multaneously, the two sets of circu-
+lar waves that move outward interfere with one another as shown in Fig.11–38a. In
+some areas of overlap, crests of one wave repeatedly meet crests of the other (and
+troughs meet troughs), Fig. 11–38b. Constructive interference is occurring at these
+points, and the water continuously oscillates up and down with greater amplitude
+than either wave separately. In other areas, destructive interference occurs where the
+water does not move up and down at all over time. This is where crests of one wave
+meet troughs of the other, and vice versa. Figure 11–39a shows the displacement
+of two identical waves graphically as a function of time, as well as their sum, for
+the case of constructive interference. For any two such waves, we use the term
+phase to describe the relative positions of their crests. When the crests and troughs
+are aligned as in Fig.11–39a, for constructive interference, the two waves are in phase.
+At points where destructive interference occu

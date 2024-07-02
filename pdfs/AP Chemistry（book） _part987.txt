@@ -1,0 +1,21 @@
+ice Exercise 2
+Which group of elements is characterized by an ns2np2 elec-
+tron configuration in the outermost occupied shell?
+(a) Based on its position in the periodic table, write the condensed electron configuration for bismuth, element 83. (b) How many 
+unpaired electrons does a bismuth atom have?
+Sample Exercise 6.9 
+Electron Configurations from the Periodic Table
+SOLUTION
+(a)  Our first step is to write the noble-gas core. We do this by 
+locating bismuth, element 83, in the periodic table. We then 
+move backward to the nearest noble gas, which is Xe, element 
+54. Thus, the noble-gas core is [Xe].
+Next, we trace the path in order of increasing atomic numbers 
+from Xe to Bi. Moving from Xe to Cs, element 55, we find ourselves 
+in period 6 of the s block. Knowing the block and the period iden-
+tifies the subshell in which we begin placing outer electrons, 6s. As 
+we move through the s block, we add two electrons: 6s2.
+Continued
+244 
+CHAPTER 6 Electronic Structure of Atoms
+Figure 6.3

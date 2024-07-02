@@ -1,0 +1,56 @@
+us, we can express the concentration of OH- as pOH:
+ 
+pOH = -log 3OH-4 
+[16.18]
+Likewise, pKw equals -log Kw.
+By taking the negative logarithm of both sides of the equilibrium-constant expres-
+sion for water, Kw = 3H+43OH -4, we obtain
+ 
+-log3H+4+ 1-log 3OH-42 = -log Kw 
+[16.19]
+from which we obtain the useful expression
+ 
+pH + pOH = 14.00 1at 25 °C2 
+[16.20]
+The pH and pOH values characteristic of a number of familiar solutions are shown in 
+Figure 16.6. Notice that a change in 3H+4 by a factor of 10 causes the pH to change by 1. 
+Thus, the concentration of H+1aq2 in a solution of pH 5 is 10 times the H+1aq2 concentra-
+tion in a solution of pH 6.
+Go Figure
+Which is more acidic, black coffee or lemon juice?
+[H+] (M)
+[OH−] (M)
+pH + pOH = 14
+[H+][OH−] = 1×10−14
+pOH
+pH
+1 (1×100)
+1×10−1
+1×10−2
+1×10−3
+1×10−4
+1×10−5
+1×10−6
+1×10−7
+1×10−8
+1×10−9
+1×10−10
+1×10−11
+1×10−12
+1×10−13
+1×10−14
+1×10−14
+1×10−13
+1×10−12
+1×10−11
+1×10−10
+1×10−9
+1×10−8
+1×10−7
+1×10−6
+1×10−5
+1×10−4
+1×10−3
+1×10−2
+1×10−1
+1 (1×10

@@ -1,0 +1,20 @@
+ on
+and the charging system is in operation, a difference of
+15%. By what percentage does the power delivered to the
+headlights vary as the voltage changes from 12 V to 13.8 V?
+Assume the headlight resistance remains constant.
+82. A tungsten filament used in a flashlight bulb operates at
+0.20 A and 3.0 V. If its resistance at 20°C is 
+what is
+the temperature of the filament when the flashlight is on?
+83. Lightbulb A is rated at 120 V and 40 W for household appli-
+cations. Lightbulb B is rated at 12 V and 40 W for automotive
+applications. (a) What is the current through each bulb?
+(b) What is the resistance of each bulb? (c) In one hour,
+how much charge passes through each bulb? (d) In one
+hour, how much energy does each bulb use? (e) Which bulb
+requires larger diameter wires to connect its power source
+and the bulb?
+84. An air conditioner draws 18 A at 220-V ac. The connecting
+cord is copper wire with a diameter of 1.628 mm. (a) How
+much power does the air conditioner draw? (b) If the 

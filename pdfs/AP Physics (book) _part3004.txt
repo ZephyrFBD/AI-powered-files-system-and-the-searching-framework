@@ -1,0 +1,28 @@
+, or photons as they are now called, as well as via
+the waves predicted by Maxwell’s electromagnetic theory. The photon theory of
+light was also a radical departure from classical ideas. Einstein proposed a test of the
+quantum theory of light: quantitative measurements on the photoelectric effect.
+E = hf,
+(n - 1)hf.
+E = nhf,
+E = hf,
+E = nhf,   n = 1, 2, 3, p ,
+h = 6.626 * 10–34 Js.
+E = hf.
+SECTION 27–3
+Photon Theory of Light and the Photoelectric Effect
+775
+Photon energy
+FIGURE 27–5 Ramp versus stair
+analogy. (a) On a ramp, a box can have
+continuous values of potential energy.
+(b) But on stairs, the box can have
+only discrete (quantized) values of
+energy.
+(a)
+(b)
+When light shines on a metal surface, electrons are found to be emitted from
+the surface. This effect is called the photoelectric effect and it occurs in many
+materials, but is most easily observed with metals. It can be observed using the
+apparatus shown in Fig. 27–6. A metal plate P and a smaller electrode C are
+placed insi

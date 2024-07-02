@@ -1,0 +1,35 @@
+ 
+removed). However, the lower temperature also means that 
+the reaction rate decreases, so the NO formed at 2400 K is es-
+sentially “trapped” in that form as the gas cools.
+The gases exhausting from the cylinder are still quite 
+hot, perhaps 1200 K. At this temperature, as shown in Fig-
+ure 15.17, the equilibrium constant for formation of NO is 
+about 5 * 10-4, much smaller than the value at 2400 K. How-
+ever, the rate of conversion of NO to N2 and O2 is too slow to 
+permit much loss of NO before the gases are cooled further.
+As discussed in the “Chemistry Put to Work” box in Sec-
+tion 14.7, one of the goals of automotive catalytic convert-
+ers is to achieve rapid conversion of NO to N2 and O2 at the 
+Chemistry Put to Work Controlling Nitric Oxide Emissions
+Go Figure
+Estimate the value of Kp at 1200 K, the 
+exhaust gas temperature.
+0
+1000
+2000
+1 × 10−15
+1 × 10−10
+1 × 10−5
+1
+Temperature (K)
+N2(g) +     O2(g)
+NO(g)
+1
+2
+Kp
+Cylinder temperature
+during combustion
+Exhaust gas
+temperature
+1

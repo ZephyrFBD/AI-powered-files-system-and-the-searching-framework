@@ -1,0 +1,20 @@
+xponents m and n are typically small whole numbers, whose values are not necessarily 
+equal to the coefficients a and b from the balanced equation. As we will learn shortly, if we 
+know m and n for a reaction, we can gain great insight into the individual steps that occur 
+during the reaction.
+Give It Some Thought
+Does the rate constant depend on the concentrations of the reactants?
+Once we know the rate law for a reaction and the reaction rate for a set of reactant 
+concentrations, we can calculate the value of k. For example, using the values for experi-
+ment 1 in Table 14.2, we can substitute into Equation 14.6:
+ 
+5.4 * 10-7 M>s = k10.0100 M210.200 M2 
+ 
+ 
+    k =
+5.4 * 10-7 M>s
+10.0100 M210.200 M2 = 2.7 * 10-4 M-1s-1 
+You should verify that this same value of k is obtained using any of the other experimen-
+tal results in Table 14.2. 
+Once we have both the rate law and the k value for a reaction, we can calcu-
+late the reaction rate for any set of concentrations. For example, using 

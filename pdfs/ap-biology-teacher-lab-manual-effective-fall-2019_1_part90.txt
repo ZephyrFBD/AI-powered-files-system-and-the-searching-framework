@@ -1,0 +1,13 @@
+uitive to most students to add one mL of media to 9 mL of water to get 
+a 1-to-10 dilution. Or, if they compound two successive serial dilutions by adding 10 mL 
+to 1 mL, mix, remove a 1 mL aliquot, and then dilute with 10 mL of water, students will 
+get a 1-to-121 dilution instead of the 1-to-100 dilution they were anticipating. 
+The point is to emphasize that mathematics underlies almost every biological 
+experiment performed, even before any analysis of results. Too often, laboratory 
+investigations are designed and implemented in a manner where most of these 
+preliminary calculations are done for the student. By having the students work through 
+these skills, you are laying the foundation for further work. 
+3  
+N = MC/R, where N = estimate of total population size, M = total number of animals captured 
+and marked on the first visit, C = total number of animals captured on the second visit, and  
+R = number of animals captured on the first visit that were then recaptured on the seco

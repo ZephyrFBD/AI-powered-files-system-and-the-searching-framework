@@ -1,0 +1,29 @@
+ the Ger-
+man scientists Max Born (1882–1970) and Fritz Haber (1868–1934), 
+who introduced it to analyze the factors contributing to the stability 
+of ionic compounds.
+Let’s use NaCl as an example. In Equation 8.3, which defines lattice 
+energy, NaCl(s) is the reactant, and the gas-phase ions Na+1g2 and Cl-1g2 
+are the products. This equation is our target as we apply Hess’s Law.
+In seeking a set of other equations that can be added up to give 
+our target equation, we can use the heat of formation for NaCl 
+  
+(Section 5.7):
+ 
+Na1s2 + 1
+2 Cl21g2 ¡ NaCl1s2  ∆H°
+f 3NaCl1s24 = -411 kJ [8.5]
+Of course, we will have to turn this equation around so that we have 
+NaCl(s) as the reactant as we do in the equation for the lattice energy. 
+We can use two other equations to arrive at our target, as shown below:
+1. NaCl1s2 ¡ Na1s2+ 1
+2 Cl21g2    
+∆H1 = - ∆Hf° 3NaCl1s24 
+= +411 kJ
+2. Na1s2 ¡ Na+1g2 + e- 
+∆H2 = ??
+3. e- + 1
+2 Cl21g2 ¡ Cl-1g2 
+∆H3 = ???
+4. NaCl1s2 ¡ Na+1g2 + Cl-1g2 
+∆H4 = ∆H1 + ∆H2 + 

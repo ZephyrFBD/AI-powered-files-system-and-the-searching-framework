@@ -1,0 +1,50 @@
+50.0
+0.00787
+100.0
+0.00649
+200.0
+0.00481
+300.0
+0.00380
+Plan We can plot ln3NO24 and 1>3NO24 against time. If one plot 
+or the other is linear, we will know the reaction is either first or 
+second order.
+Time 1s2
+3NO24 1M2
+ln3NO24
+1, 3NO24 11,M2
+0.0
+0.01000
+-4.605
+100
+50.0
+0.00787
+-4.845
+127
+100.0
+0.00649
+-5.037
+154
+200.0
+0.00481
+-5.337
+208
+300.0
+0.00380
+-5.573
+263
+As Figure 14.8 shows, only the plot of 
+1>3NO24 versus time is linear. Thus, 
+the reaction obeys a second-order 
+rate law: Rate = k3NO242. From the 
+slope of this straight-line graph, we 
+determine that k = 0.543 M -1 s-1 
+for the disappearance of NO2.
+Zero-Order Reactions
+We have seen that in a first-order reaction the concentration of a reactant A 
+decreases nonlinearly, as shown by the red curve in Figure 14.9. As [A] declines, 
+the rate at which it disappears declines in proportion. A zero-order reaction is 
+one in which the rate of disappearance of A is independent of [A]. The rate law for 
+a zero-order reaction is
+ 
+Rat

@@ -1,0 +1,46 @@
+ced.
+H2O and CO2 are trapped
+in separate absorbers
+Solve Because all of the carbon in the sample is converted to CO2, we can use dimensional  
+analysis and the following steps to calculate the 
+mass C in the sample.
+Molar
+mass CO2
+44.0 g/mol
+1 C atom
+per CO2
+molecule
+Mass CO2
+produced
+Moles CO2
+produced
+Moles of C
+original sample
+Molar
+mass C
+12.0 g/mol
+Mass C in
+original sample
+Using the values given in this example, the mass of C is
+ Grams C = 10.561 g CO22a 1 mol CO2
+44.0 g CO2
+b a 1 mol C
+1 mol CO2
+b a
+12.0 g C
+1 mol C b 
+ = 0.153 g C
+◀ Figure 3.14 Apparatus for combustion 
+analysis.
+Continued
+102 
+CHAPTER 3 Chemical Reactions and Reaction Stoichiometry
+3.6 ∣  
+Quantitative Information  
+from Balanced Equations
+The coefficients in a chemical equation represent the relative numbers of molecules in 
+a reaction. The mole concept allows us to convert this information to the masses of the 
+substances in the reaction. For instance, the coefficients in the  
+balanced equation
+ 
+2 H21g2 + 

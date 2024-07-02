@@ -1,0 +1,15 @@
+ause during the reaction some energy will be lost as heat (as entropy increases).
+The value of ΔG can be negative or positive:
+When Δ G is negative for a reaction, there is a net release of free energy. This reaction is said to be exergonic and
+can occur spontaneously (that is, without an input of energy). For the process of respiration, for example, the
+breakdown of glucose to CO2 and H2O, ΔG = −686 kcal/mol:
+C6H12O6 + 6 O2 → 6 CO2 + 6 H2O
+ 
+When Δ G is positive for a reaction, free energy must be added to the reaction for it to occur. This reaction is said to
+be endergonic. For the process of photosynthesis, for example, the making of
+glucose from CO2 and H2O, ΔG = +686 kcal/mol:
+ 
+6 CO2 + 6 H2O → C6H12O6 + 6 O2
+Note that the overall equation for photosynthesis is the reverse of that for respiration. But because ΔG is positive for
+photosynthesis, the reaction cannot occur spontaneously and energy, at least equal to ΔG, must be provided for the
+reaction to occur. This energy comes fro

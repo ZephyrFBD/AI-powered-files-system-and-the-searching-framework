@@ -1,0 +1,28 @@
+points from right to left
+B
+B
+FIGURE 21–8 Example 21–3.
+FIGURE 21–7 Example 21–2:
+An induction stove.
+C A U T I O N
+Magnetic field created by induced
+current opposes change in external
+flux, not necessarily opposing 
+the external field
+SECTION 21–2
+Faraday’s Law of Induction; Lenz’s Law
+595
+Pulling a coil from a magnetic field. A 100-loop square
+coil of wire, with side
+and total resistance
+is positioned
+perpendicular to a uniform magnetic field 
+as shown in Fig. 21–9.
+It is quickly pulled from the field at constant speed (moving perpendicular to )
+to a region where B drops abruptly to zero. At
+the right edge of the coil is
+at the edge of the field. It takes 0.100 s for the whole coil to reach the field-free
+region. Determine (a) the rate of change in flux through one loop of the coil,
+and (b) the total emf and current induced in the 100-loop coil. (c) How much
+energy is dissipated in the coil? (d) What was the average force required 
+APPROACH We start by finding how the magnetic flux,

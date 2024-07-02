@@ -1,0 +1,37 @@
+out 5% of total global energy use.
+‡Electron-hole recombination in silicon results mostly in heat, as lattice vibrations called phonons.
+FIGURE 29–32 (a) Full-wave
+rectifier circuit (including a
+transformer so the magnitude of the
+voltage can be changed). (b) Output
+voltage in the absence of capacitor C.
+(c) Output voltage with the capacitor
+in the circuit.
+Voutput
+Voutput
+(b) Without capacitor
+Time
+(c) With capacitor
+Time
+R
+(a)
+C
+Output
+Silicon
+(a)
+Gallium
+Arsenic
+(b)
+FIGURE 29–33 (a) Two Si atoms
+forming the covalent bond showing the
+electrons in different colors for each of
+the two separate atoms. (In Fig. 29–26a
+we showed each atom separately to
+emphasize the four outer electrons in
+each.) (b) A gallium–arsenic pair, also
+covalently bonded.
+digital clocks (brighter than the dimmer LCD readouts). Further development
+led to LEDs with higher 
+and shorter wavelengths: first yellow, then finally in
+1995, blue (InGaN). A blue LED was important because it gave the possibility of
+a white-l

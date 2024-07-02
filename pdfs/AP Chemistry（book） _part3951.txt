@@ -1,0 +1,37 @@
+t is the one 
+you should use; a “negative concentration” has no physical meaning.
+Find the values of x that satisfy the equation 2x2 + 4x = 1.
+SOLUTION
+To solve the given equation for x, we must first put it in the form
+ax2 + bx + c = 0
+and then use the quadratic formula. If
+2x2 + 4x = 1
+then
+2x2 + 4x - 1 = 0
+Using the quadratic formula, where a = 2, b = 4, and c = -1, we 
+have
+ 
+x =
+-4 { 242 - 41221-12
+2122
+ = -4 { 216 + 8
+4
+= -4 { 224
+4
+= -4 { 4.899
+4
+The two solutions are
+x = 0.899
+4
+= 0.225 and x = -8.899
+4
+= -2.225
+If this was a problem in which x represented a concentration, we 
+would say x = 0.225 (in the appropriate units), since a negative 
+number for concentration has no physical meaning.
+Sample Exercise 3 
+Using the Quadratic Formula
+A.4 | Graphs
+Often the clearest way to represent the interrelationship between two variables is 
+to graph them. Usually, the variable that is being experimentally varied, called the 
+independent variable, is shown along the horizontal axis (x-ax

@@ -1,0 +1,18 @@
+ion.
+1–6 Converting Units
+Any quantity we measure, such as a length, a speed, or an electric current,
+consists of a number and a unit. Often we are given a quantity in one set of
+units, but we want it expressed in another set of units. For example, suppose we
+measure that a shelf is 21.5 inches wide, and we want to express this in centi-
+meters. We must use a conversion factor, which in this case is, by definition, exactly
+or, written another way,
+Since multiplying by the number one does not change anything, the width of our
+shelf, in cm, is
+Note how the units (inches in this case) cancelled out (thin red lines). A Table
+containing many unit conversions is found inside the front cover of this book.
+Let’s consider some Examples.
+The 8000-m peaks. There are only 14 peaks whose sum-
+mits are over 8000 m above sea level. They are the tallest peaks in the 
+world (Fig. 1–9 and Table 1–6) and are referred to as “eight-thousanders.”
+What is the elevation, in feet, of an elevation of 8000 m?
+AP

@@ -1,0 +1,29 @@
+atom falls from one such excited state 
+to a lower one, and emits a photon of wavelength about
+500 nm. Find the fractional energy uncertainty 
+and
+wavelength uncertainty 
+of this photon.
+¢ll
+¢EE
+n = 2.
+2.0 * 10–6 m
+2n2.
+l = 0,
+2(2l + 1).
+l
+(Z = 92).
+(n = 1)
+59. A 1300-kg car is traveling with a speed of 
+With what maximum precision can its position be determined?
+60. An atomic spectrum contains a line with a wavelength
+centered at 488 nm. Careful measurements show the line is
+really spread out between 487 and 489 nm. Estimate the
+lifetime of the excited state that produced this line.
+61. An electron and a proton, each initially at rest, are acceler-
+ated across the same voltage. Assuming that the uncertainty
+in their position is given by their de Broglie wavelength,
+find the ratio of the uncertainty in their momentum.
+62. If the principal quantum number n were limited to the range
+from 1 to 6, how many elements would we find in nature?
+63. If your de Broglie wavelength were 0.50 m, h

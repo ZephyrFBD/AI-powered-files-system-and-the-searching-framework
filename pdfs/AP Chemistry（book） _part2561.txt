@@ -1,0 +1,23 @@
+lving calculator or the quadratic formula. We can simplify the problem, 
+however, by noting that the value of Ka is quite small. As a result, the equilibrium lies far 
+to the left and x is much smaller than the initial concentration of acetic acid. Thus, we 
+assume that x is negligible relative to 0.30, so that 0.30 - x is essentially equal to 0.30. We 
+can (and should!) check the validity of this assumption when we finish the problem. By 
+using this assumption, Equation 16.30 becomes
+ 
+Ka =
+x2
+0.30 = 1.8 * 10-5 
+Solving for x, we have
+ 
+x2 = 10.30211.8 * 10-52 = 5.4 * 10-6
+ 
+x = 25.4 * 10-6 = 2.3 * 10-3
+ 
+3H+4 = x = 2.3 * 10-3 M
+ 
+pH = -log12.3 * 10-32 = 2.64
+Now we check the validity of our simplifying assumption that 0.30 - x ≃0.30. 
+The value of x we determined is so small that, for this number of significant figures, the 
+assumption is entirely valid. We are thus satisfied that the assumption was a reasonable 
+one to make. Because x represents the moles per liter of acetic acid th

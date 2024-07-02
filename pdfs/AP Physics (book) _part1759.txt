@@ -1,0 +1,66 @@
+harge,
+the individual fields (call them 
+etc.) due to each charge are added vecto-
+rially to get the total field at that point:
+The validity of this superposition principle for electric fields is fully confirmed by
+experiment.
+E
+B
+= E
+B
+1 + E
+B
+2 + p .
+E
+B
+1 , E
+B
+2 ,
+–2.5 mC
+E
+B
+E
+B
+at a point between two charges. Two point charges
+are separated by a distance of 10.0 cm. One has a charge of 
+and the 
+other 
+(a) Determine the direction and magnitude of the electric field at
+a point P between the two charges that is 2.0 cm from the negative charge 
+(Fig. 16–27a). (b) If an electron
+is placed at rest at P
+and then released, what will be its initial acceleration (direction and magnitude)?
+(mass = 9.11 * 10–31 kg)
+±50 mC.
+–25 mC
+E
+B
+EXAMPLE 16;8
+r1 = 2.0 cm
+r2 = 8.0 cm
+P
+(a)
+Q1
+Q2
+(b)
+1
+2
+Q1 = –25    C
+Q2 = +50    C
+m
+m
+E
+B
+E
+B
+FIGURE 16–27 Example 16–8. In (b),
+we don’t know the relative lengths of 
+and 
+until we do the calculation.
+E
+B
+2
+E
+B
+1
+APPROACH The electric field at P will be the

@@ -1,0 +1,44 @@
+ the mileage  
+in kilometers per liter?
+m/s
+Given:
+Use
+Use
+Use
+Use
+km/s
+mi/s
+Find:
+mi/hr
+mi/min
+1 km
+103 m
+1 mi
+1.6093 km
+60 s
+1 min
+60 min
+1 hr
+Applying first the conversions for distance and then those for 
+time, we can set up one long equation in which unwanted 
+units are canceled:
+ Speed in mi>hr = a515m
+s b a 1 km
+103 m
+b a
+1 mi
+1.6093 kmb a 60 s
+1 minb a 60 min
+1 hr
+b
+ = 1.15 * 103 mi>hr
+Our answer has the desired units. We can check our calculation, 
+using the estimating procedure described in the “Strategies in Chem-
+istry” box. The given speed is about 500 m>s. Dividing by 1000 
+converts m to km, giving 0.5 km>s. Because 1 mi is about 1.6 km, 
+this speed corresponds to 0.5>1.6 = 0.3 mi>s. Multiplying by 60 
+gives about 0.3 * 60 = 20 mi>min. Multiplying again by 60 gives 
+20 * 60 = 1200 mi>hr. The approximate solution (about 1200 mi/
+hr) and the detailed solution (1
+150 mi/hr) are reasonably close. The  
+answer to the detailed solution has three significant figures, correspond-

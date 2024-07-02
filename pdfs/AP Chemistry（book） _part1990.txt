@@ -1,0 +1,20 @@
+it feel hot or cold? Justify your answer in terms of thermal 
+conductivity.
+12.51  The molecular-orbital diagrams for two- and four-atom 
+linear chains of lithium atoms are shown in Figure 12.22. 
+Construct a molecular-orbital diagram for a chain contain-
+ing six lithium atoms and use it to answer the following 
+questions: (a) How many molecular orbitals are there in 
+the diagram? (b) How many nodes are in the lowest-energy 
+molecular orbital? (c) How many nodes are in the highest-
+energy molecular orbital? (d) How many nodes are in the 
+highest-energy occupied molecular orbital (HOMO)? (e) 
+How many nodes are in the lowest-energy unoccupied mo-
+lecular orbital (LUMO)? (f) How does the HOMO–LUMO 
+energy gap for this case compare to that of the four-atom 
+case?
+12.52  Repeat Exercise 12.51 for a linear chain of eight lithium 
+atoms.
+12.53  Which would you expect to be the more ductile element, 
+(a) Ag or Mo, (b) Zn or Si? In each case explain your reasoning.
+12.54  Which of the followin

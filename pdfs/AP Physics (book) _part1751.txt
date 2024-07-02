@@ -1,0 +1,48 @@
+cise D:
+exerts force 
+that
+makes the net force on 
+zero.
+Q3
+AF
+B
+34B
+Q4
+Make the force on 
+zero. In Fig. 16–20,
+where could you place a fourth charge,
+so that the net force on 
+would be zero?
+RESPONSE By the principle of superposition, we need a force in exactly the
+opposite direction to the resultant 
+due to 
+and 
+that we calculated in
+Example 16–4, Fig. 16–20b. Our force must have magnitude 290 N, and must
+point down and to the left of 
+in Fig. 16–20b, in the direction opposite to 
+So 
+must be along this line. See Fig. 16–21.
+Q4
+F
+B.
+Q3
+Q1
+Q2
+F
+B
+Q3
+Q4 = –50 mC,
+Q3
+CONCEPTUAL EXAMPLE 16;5
+EXERCISE D In Example 16–5, what distance r must 
+be from Q3 ?
+Q4
+EXERCISE E (a) Consider two point charges,
+which are fixed a distance d
+apart. Can you find a location where a third positive charge Q could be placed so that
+the net electric force on this third charge is zero? (b) What if the first two charges were
+both ±Q?
+±Q and –Q,
+16–7 The Electric Field
+Many common forces might be referred to a

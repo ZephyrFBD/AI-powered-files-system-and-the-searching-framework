@@ -1,0 +1,19 @@
+other substance, say an oil whose
+index of refraction is less than that of water (we’ll see why we assume this shortly);
+see Fig. 24–30. Assume for now that the incident light is of a single wavelength.
+Part of the incident light is reflected at A on the top surface, and part of the light
+transmitted is reflected at B on the lower surface. The part reflected at the lower
+surface must travel the extra distance ABC. If this path difference ABC equals one
+or a whole number of wavelengths in the film 
+the two waves will reach the
+eye in phase and interfere constructively. Hence the region AC on the surface
+film will appear bright. But if ABC equals
+and so on, the two waves
+will be exactly out of phase and destructive interference occurs: the area AC 
+on the film will show no reflection—it will be dark (transparent to the dark 
+material below). The wavelength 
+is the wavelength in the film:
+where n is the index of refraction in the film and 
+is the wavelength in vacuum.
+See Eq. 24–1.
+When w

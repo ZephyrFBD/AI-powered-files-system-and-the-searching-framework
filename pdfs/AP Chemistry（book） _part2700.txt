@@ -1,0 +1,12 @@
+ to prepare the buffer. According to Equation 17.5, for example, the pH of a 1-L 
+solution that is 1 M in CH3COOH and 1 M in CH3COONa is the same as the pH of a 1-L 
+solution that is 0.1 M in CH3COOH and 0.1 M in CH3COONa. The first solution has a 
+greater buffering capacity, however, because it contains more CH3COOH and CH3COO-.
+The pH range of any buffer is the pH range over which the buffer acts effectively. Buf-
+fers most effectively resist a change in pH in either direction when the concentrations of 
+weak acid and conjugate base are about the same. From Equation 17.9 we see that when 
+the concentrations of weak acid and conjugate base are equal, pH = pKa. This relation-
+ship gives the optimal pH of any buffer. Thus, we usually try to select a buffer whose acid 
+form has a pKa close to the desired pH. In practice, we find that if the concentration of 
+one component of the buffer is more than 10 times the concentration of the other com-
+ponent, the buffering action is poor. Because

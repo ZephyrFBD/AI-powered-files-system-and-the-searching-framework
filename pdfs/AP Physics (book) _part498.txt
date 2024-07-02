@@ -1,0 +1,49 @@
+force of gravity 
+decreases as
+the square of the distance 
+the force of gravity on the satellite will
+be only one-fourth its weight at the Earth’s surface.
+SOLUTION At the surface of the Earth,
+At a distance from the Earth’s
+center of 
+is as great:
+F
+G =
+1
+4 mg =
+1
+4 (2000 kg)A9.80 ms2B
+= 4900 N.
+1
+4
+2rE, F
+G
+F
+G = mg.
+1
+22 = 1
+4B,
+Aand
+F
+G
+mE = 5.98 * 1024 kg.
+rE = 6380 km
+2rE.
+EXAMPLE 5;10
+Motion
+2rE
+rE
+FIGURE 5;19 Example 5–10;
+a spacecraft in orbit at r = 2rE.
+Note carefully that the law of universal gravitation describes a particular
+force (gravity), whereas Newton’s second law of motion
+tells how an
+object accelerates due to any type of force.
+5–6 Gravity Near the Earth’s Surface
+When Eq. 5–4 is applied to the gravitational force between the Earth and an
+object at its surface,
+becomes the mass of the Earth 
+becomes the mass
+of the object m, and r becomes the distance of the object from the Earth’s center,
+which is the radius of the Earth 
+This force of gravity due to the Earth i

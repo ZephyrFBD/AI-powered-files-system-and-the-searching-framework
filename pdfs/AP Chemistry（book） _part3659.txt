@@ -1,0 +1,28 @@
+f the coordination compounds we examine in this chapter contain transition-metal 
+ions, although ions of other metals can also form complexes.
+ 
+SECTION 23.2  Transition-Metal Complexes 
+993
+The molecules or ions that bond to the metal ion in a complex are known as 
+ligands (from the Latin word ligare, “to bind”). There are two NH3 ligands bonded to 
+Ag+ in the complex ion 3Ag(NH3)24+, for instance, and six H2O ligands bonded to Fe3+ 
+in 3Fe(H2O)643+. Each ligand functions as a Lewis base and so donates a pair of electrons 
+to form the ligand–metal bond. 
+ (Section 16.11) Thus, every ligand has at least one 
+unshared pair of valence electrons. Four of the most frequently encountered ligands,
+O
+H
+H
+N
+H
+H
+H
+Cl
+C
+N −
+−
+illustrate that most ligands are either polar molecules or anions. In forming a complex, 
+the ligands are said to coordinate to the metal.
+Give It Some Thought
+Is the interaction between an ammonia ligand and a metal cation a Lewis acid–base 
+interaction? If so, which speci

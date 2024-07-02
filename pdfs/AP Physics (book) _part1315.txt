@@ -1,0 +1,24 @@
+erference to occur, the person must be one-half wavelength
+farther from one loudspeaker than from the other, or 0.15 m. Thus the person
+must be 3.85 m or 4.15 m from the second speaker.
+NOTE If the speakers are less than 0.15 m apart, there will be no location that
+is 0.15 m farther from one speaker than the other, and there will be no place
+where destructive interference could occur.
+=
+343 ms
+1150 Hz = 0.30 m.
+l =
+v
+f
+343 ms,
+l
+distance = 4.00 m6l2.
+EXAMPLE 12;13
+Beats—Interference in Time
+We have been discussing interference of sound waves that takes place in space.
+An interesting and important example of interference that occurs in time is the
+phenomenon known as beats: if two sources of sound—say, two tuning forks—
+are close in frequency but not exactly the same, sound waves from the two sources
+interfere with each other. The sound level at a given position alternately rises and
+falls in time, because the two waves are sometimes in phase and sometimes out of
+phase due to their d

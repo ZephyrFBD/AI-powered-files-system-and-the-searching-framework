@@ -1,0 +1,23 @@
+on is 1000 kg, about 2200 lb, slightly larger than a 
+British ton, 2000 lb.)]
+A103 kgm3BA107 m3B L 1010 kg,
+1000 kgm3,
+1–7 Order of Magnitude:
+Rapid Estimating
+We are sometimes interested only in an approximate value for a quantity. This
+might be because an accurate calculation would take more time than it is worth
+or would require additional data that are not available. In other cases, we may
+want to make a rough estimate in order to check a calculation made on a calcu-
+lator, to make sure that no blunders were made when the numbers were entered.
+A rough estimate can be made by rounding off all numbers to one significant
+figure and its power of 10, and after the calculation is made, again keeping only
+one significant figure. Such an estimate is called an order-of-magnitude estimate
+and can be accurate within a factor of 10, and often better. In fact, the phrase
+“order of magnitude” is sometimes used to refer simply to the power of 10.
+Let’s do some Examples.
+16 m
+18 m
+2 
+m
+1.5 m
+(b)

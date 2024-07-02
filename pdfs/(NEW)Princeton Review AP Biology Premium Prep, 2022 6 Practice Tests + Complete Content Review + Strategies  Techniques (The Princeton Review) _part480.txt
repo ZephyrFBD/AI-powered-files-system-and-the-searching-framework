@@ -1,0 +1,38 @@
+igital pictures of the immunofluorescent sections and
+counts the number of blood vessels present in each picture. She takes five pictures of each slide.
+Slide A
+Slide B
+10
+3
+8
+2
+7
+4
+8
+4
+11
+4
+(a) What is the mean, median, and mode for each dataset?
+(b) The standard error of group A is 0.735, and the standard error for group B is 0.400. What does this tell you
+about the data?
+(c) What assumptions are made about the data in performing these tests?
+(d) What could the researcher do to increase her confidence in the results?
+Solutions:
+(a) The means are
+Remember, the median is the middle number, so it’s best to put the data in order first.
+Slide A
+Slide B
+7
+2
+8
+3
+8
+4
+10
+4
+11
+4
+The median of group A is 8, and the median of group B is 4.
+The mode is the most frequent value. For group A, this is 8. For group B, the mode is 4.
+(b) Standard error is the standard deviation divided by the square root of the sample size. The sample size is five
+for both group A and group B because five pictures were

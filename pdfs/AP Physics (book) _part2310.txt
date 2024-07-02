@@ -1,0 +1,18 @@
+make up for the flux decrease.
+(c) Magnetic field lines point into the S pole of a magnet, so as the magnet
+moves toward us and the loop, the magnet’s field points into the page and is
+getting stronger. The current in the loop will be induced in the counterclock-
+wise direction in order to produce a field 
+out of the page.
+(d) The field is in the plane of the loop, so no magnetic field lines pass through
+the loop and the flux through the loop is zero throughout the process; hence
+there is no change in flux and no induced emf or current in the loop.
+(e) Initially there is no flux through the loop. When you start to rotate the loop,
+the external field through the loop begins increasing to the left. To counteract
+this change in flux, the loop will have current induced in a counterclockwise
+direction so as to produce its own field to the right.
+B
+B
+CONCEPTUAL EXAMPLE 21;3
+Induction stove. In an induction stove
+(Fig. 21–7), an ac current exists in a coil that is the “burner” (a burner that 

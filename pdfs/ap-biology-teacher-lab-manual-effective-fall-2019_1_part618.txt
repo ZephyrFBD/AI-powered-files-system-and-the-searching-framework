@@ -1,0 +1,46 @@
+ size and serves as a 
+standard for comparison. 
+  
+ 
+Ideal Restriction Digest of Lambda DNA 
+A 
+B
+C
+D 
+BamHI 
+EcoRI 
+Hindlll No Enzyme 
+Reprinted with permission from Micklos and Freyer, DNA 
+Science 2e, © 2003 Cold Spring Harbor Laboratory Press. 
+ 
+ 
+ 
+Figure 5. Ideal Gel 
+2. Using the ideal gel shown in Figure 5, measure the distance (in cm) that each 
+fragment migrated from the origin (the well). (Hint: For consistency, measure from 
+the front end of each well to the front edge of each band, i.e., the edge farthest from 
+the well.). Enter the measured distances into Table 1. (See * and ** notes below the 
+table for an explanation for why there are only six bands seen but more fragments.) 
+Table 1. DNA Fragment Migration Distance 
+HINDIII 
+BAMHI 
+ECORI 
+Distance 
+Traveled 
+BP Length 
+Distance 
+Traveled 
+BP Length 
+Distance 
+Traveled 
+BP Length 
+*27,491 
+*23,130 
+9,416 
+6,557 
+4,361 
+2,322 
+2,027 
+**564 
+**125 
+*For this “ideal” gel, assume that these two bands appear as a single ba

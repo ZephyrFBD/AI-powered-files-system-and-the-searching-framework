@@ -1,0 +1,17 @@
+iodic table. (iii) Valence 
+electrons screen the nuclear charge more effectively than do 
+core electrons. (iv) The effective nuclear charge shows a sudden 
+decrease when we go from the end of one row to the beginning 
+of the next row of the periodic table. (v) The change in effec-
+tive nuclear charge going down a column of the periodic table is 
+generally less than that going across a row of the periodic table.
+ 7.15  Detailed calculations show that the value of Zeff for the 
+outermost electrons in Na and K atoms is 2.51+ and 3.49+, 
+respectively. (a) What value do you estimate for Zeff expe-
+rienced by the outermost electron in both Na and K by 
+assuming core electrons contribute 1.00 and valence elec-
+trons contribute 0.00 to the screening constant? (b) What 
+values do you estimate for Zeff using Slater’s rules? (c) Which 
+approach gives a more accurate estimate of Zeff? (d) Does 
+either method of approximation account for the gradual 
+increase in Zeff that occurs upon moving down a 

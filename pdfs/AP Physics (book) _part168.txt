@@ -1,0 +1,23 @@
+on time,” part (1), the car moves at constant
+speed of 
+so  
+Once the brakes are applied, part (2), the acceler-
+ation is  
+and is constant over this time interval. For both parts
+a is constant, so we can use Eqs. 2–11.
+SOLUTION Part (1). We take  
+for the first time interval, when the driver
+is reacting (0.50 s): the car travels at a constant speed of 
+so
+See Fig. 2–16 and the Table in the margin. To find x, the position of the car 
+at
+(when the brakes are applied), we cannot use Eq. 2–11c because
+x is multiplied by a, which is zero. But Eq. 2–11b works:
+Thus the car travels 7.0 m during the driver’s reaction time, until the instant
+the brakes are applied. We will use this result as input to part (2).
+Part (2). During the second time interval, the brakes are applied and the car is
+brought to rest. The initial position is 
+(result of part (1)), and other
+variables are shown in the second Table in the margin. Equation 2–11a doesn’t
+contain x; Eq. 2–11b contains x but also the unknown 
+E

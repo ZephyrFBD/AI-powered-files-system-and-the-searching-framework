@@ -1,0 +1,21 @@
+3.3)
+mixture A combination of two or more substances in which 
+each substance retains its own chemical identity. (Section 1.2)
+molal boiling-point-elevation constant (Kb) A constant 
+characteristic of a particular solvent that gives the increase 
+in boiling point as a function of solution molality: ∆T
+b = iKbm. 
+(Section 13.5)
+molal freezing-point-depression constant (Kf) A constant 
+characteristic of a particular solvent that gives the decrease in 
+freezing point as a function of solution molality: ∆T
+f = -iKf m. 
+(Section 13.5)
+molality The concentration of a solution expressed as moles of 
+solute per kilogram of solvent; abbreviated m. (Section 13.4)
+molar heat capacity The heat required to raise the temperature 
+of one mole of a substance by 1 °C. (Section 5.5)
+molarity The concentration of a solution expressed as moles of 
+solute per liter of solution; abbreviated M. (Section 4.5)
+molar mass The mass of one mole of a substance in grams; it is 
+numerically equal to the formula weig

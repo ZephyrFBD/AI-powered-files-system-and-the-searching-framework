@@ -1,0 +1,41 @@
+every
+second. (b) The audio information is sent to each of the
+two loudspeakers 44,100 times per second. Each of these
+samplings requires 16 bits, and so you might expect the
+required bit rate for a CD player to be
+where the 2 is for the 2 loudspeakers (the 2 stereo channels).
+Note that 
+is less than the number N of bits actually
+read per second by a CD player. The excess number of
+bits
+is needed for encoding and error-
+correction. What percentage of the bits on a CD are
+dedicated to encoding and error-correction?
+A= N - N
+0B
+N
+0
+= 1.4 * 106 bits
+s
+,
+N
+0 = 2 a44,100 samplings
+s
+b a16
+bits
+samplingb
+1.2 ms
+0.28 mm.
+5. The position of a ball rolling in a straight line is given by
+where x is in meters and in seconds.
+(a) What do the numbers 2.0, 3.6, and 1.7 refer to? (b) What
+are the units of each of these numbers? (c) Determine the
+position of the ball at
+2.0 s, and 3.0 s. (d) What is
+the average velocity over the interval
+to t = 3.0 s?
+t = 1.0 s
+t = 1.0 s,
+t
+x = 2.0 - 3.6t + 1.7t2,
+C

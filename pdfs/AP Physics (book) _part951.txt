@@ -1,0 +1,18 @@
+
+FIGURE 9–16 Equilibrium of a
+refrigerator resting on a flat floor.
+Total
+CG
+FIGURE 9–17 Humans adjust their
+posture to achieve stability when
+carrying loads.
+In most situations, such as in the design of structures and in working with the
+human body, we are interested in maintaining stable equilibrium, or balance, as we
+sometimes say. In general, an object whose center of gravity (CG) is below its point
+of support, such as a ball on a string, will be in stable equilibrium. If the CG is above
+the base of support, we have a more complicated situation. Consider a standing
+refrigerator (Fig. 9–16a). If it is tipped slightly, it will return to its original 
+position due to the torque on it as shown in Fig. 9–16b. But if it is tipped too far,
+Fig. 9–16c, it will fall over. The critical point is reached when the CG shifts from
+one side of the pivot point to the other. When the CG is on one side, the torque pulls
+the object back onto its original base of support, Fig. 9–16b. If the object is t

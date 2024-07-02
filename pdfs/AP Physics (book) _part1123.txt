@@ -1,0 +1,39 @@
+ the power needed to drive a fluid through 
+a pipe with uniform cross-section is equal to the volume
+rate of flow, Q, times the pressure difference,
+Ignore
+viscosity.
+55. (III) In Fig. 10–54, take into account the speed of the top
+surface of the tank and show that the speed of fluid leaving
+an opening near the bottom is
+where
+and 
+and 
+are the areas of the
+opening and of the top sur-
+face, respectively. Assume
+so that the flow
+remains nearly steady and
+laminar.
+A1 V A2
+A2
+A1
+h = y2 - y1,
+v1 = B
+2gh
+A1 - A1
+2A2
+2B
+,
+P
+1 - P
+2 .
+56. (III) (a) Show that the flow speed measured by a venturi
+meter (see Fig. 10–29) is given by the relation
+(b) A venturi meter is measuring the flow of water; it has a
+main diameter of 3.5 cm tapering down to a throat diam-
+eter of 1.0 cm. If the pressure difference is measured to be
+18 mm-Hg, what is the speed of the water entering the
+venturi throat?
+57. (III) A fire hose exerts a force on the person holding it.
+This is because the water accelerates as it go

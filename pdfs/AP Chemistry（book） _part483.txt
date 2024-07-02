@@ -1,0 +1,38 @@
+ulated by using Equation 3.14  to com-
+pare the given actual yield (33.5 g) with the theoretical yield.
+Check We can check our answer in (a) by doing a ballpark calcula-
+tion. From the balanced equation we know that each mole of cy-
+clohexane gives 1 mol adipic acid. We have 25>84 ≈25>75 = 0.3 
+mol hexane, so we expect 0.3 mol adipic acid, which equals about 
+0.3 * 150 = 45 g, about the same magnitude as the 43.5 g  
+obtained in the more detailed calculation given previously. In 
+ 
+addition, our answer has the appropriate units and number of sig-
+nificant figures. In (b) the answer is less than 100%, as it must be 
+from the definition of percent yield.
+ 
+ 
+ 
+ 
+ 
+Grams H2C6H8O4 = 125.0 g C6H122a
+1 mol C6H12
+84.0 g C6H12
+b a
+2 mol H2C6H8O4
+2 mol C6H12
+b a
+146.0 g H2C6H8O4
+1 mol H2C6H8O4
+b 
+ 
+      = 43.5 g H2C6H8O4
+(b) The percent yield is: 
+Percent yield =
+actual yield
+theoretical yield * 100% =
+33.5 g
+43.5 g * 100% = 77.0%
+110 
+CHAPTER 3 Chemical Reactions and Reaction Stoichiometry
+Ch

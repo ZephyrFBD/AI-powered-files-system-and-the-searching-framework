@@ -1,0 +1,48 @@
+hat would work?
+APPROACH Maximum wavelength corresponds to minimum energy, and this
+would be the jump from the ground state up to the first excited state
+(Fig. 27–29). The next smaller wavelength occurs for the jump from the ground
+state to the second excited state.
+SOLUTION The energy needed to jump from the ground state to the first excited
+state is
+the required wavelength, as we saw in
+Example 27–13, is 122 nm. The energy to jump from the ground state to the second
+excited state is 
+which corresponds to a wavelength
+=
+A6.63 * 10–34 JsBA3.00 * 108 msB
+(12.1 eV)A1.60 * 10–19 JeVB
+= 103 nm.
+l =
+c
+f =
+hc
+hf =
+hc
+E3 - E1
+13.6 eV - 1.5 eV = 12.1 eV,
+13.6 eV - 3.4 eV = 10.2 eV;
+EXAMPLE 27;15
+l = 1A2.44 * 106 m–1B = 4.10 * 10–7 m
+1
+l = A1.097 * 107 m–1B ¢ 1
+4 - 1
+36 ≤
+= 2.44 * 106 m–1 .
+R = 1.097 * 107 m–1 .
+n = 2
+n = 6
+EXAMPLE 27;14
+l,
+l =
+c
+f =
+hc
+E2 - E1
+=
+A6.63 * 10–34 JsBA3.00 * 108 msB
+1.63 * 10–18 J
+= 1.22 * 10–7 m,
+l = cf,
+(10.2 eV)A1.60 * 10–19 JeVB = 1.63 * 10–18 J.
+hf = E

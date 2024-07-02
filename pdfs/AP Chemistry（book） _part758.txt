@@ -1,0 +1,32 @@
+et reaction, equation (3). Because equation (1) has 
+C(s) as a reactant, we can use that equation just as it is. We need to 
+turn equation (2) around, however, so that CO(g) is a product. Re-
+member that when reactions are turned around, the sign of ∆H is 
+reversed. We arrange the two equations so that they can be added  
+to give the desired equation:
+ C1s2 + O21g2 ¡ CO21g2  
+∆H = -393.5 kJ
+ 
+CO21g2 ¡  CO1g2 + 1
+2 O21g2 
+- ∆H =    283.0 kJ
+C1s2 + 1
+2 O21g2 ¡  CO1g2  
+∆H = -110.5 kJ
+When we add the two equations, CO21g2 appears on both sides 
+of the arrow and therefore cancels out. Likewise, 1
+2 O21g2 is elimi-
+nated from each side.
+ 
+▶Practice Exercise 1
+Calculate ∆H for 2 NO1g2 + O21g2 ¡ N2O41g2, using the 
+following information:
+N2O41g2 ¡ 2 NO21g2   
+∆H = +57.9 kJ
+2 NO1g2 + O21g2 ¡ 2 NO21g2   
+∆H = -113.1 kJ
+(a) 2.7 kJ  (b) -55.2 kJ  (c) -85.5 kJ  (d) -171.0 kJ  (e) +55.2 kJ
+ 
+▶Practice Exercise 2
+Carbon occurs in two forms, graphite and diamond. The en-
+thalpy of the combustion of g

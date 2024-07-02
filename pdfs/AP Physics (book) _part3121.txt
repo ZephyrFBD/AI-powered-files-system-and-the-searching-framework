@@ -1,0 +1,36 @@
+ht and for electrons.
+Consider two slits whose size and separation are on the order of the wave-
+length of whatever we direct at them, either light or electrons, Fig. 28–3. We
+know very well what would happen in this case for light, since this is just Young’s
+double-slit experiment (Section 24–3): an interference pattern would be seen 
+on the screen behind. If light were replaced by electrons with wavelength
+comparable to the slit size, they too would produce an interference pattern
+(recall Fig. 27–12). In the case of light, the pattern would be visible to the eye or
+could be recorded on film, semiconductor sensor, or screen. For electrons, a fluores-
+cent screen could be used (it glows where an electron strikes).
+°2
+°2
+°2
+°,
+°2
+°2
+°
+°
+E2
+E2
+E2
+AN r E2B
+N r E2.
+I r E2 r N.
+I r E2,
+°,
+°
+°
+l = hp,
+SECTION 28–2
+The Wave Function and Its Interpretation; the Double-Slit Experiment
+805
+FIGURE 28–3 Parallel beam, of
+light or electrons, falls on two slits
+whose sizes are comparable to the
+wav

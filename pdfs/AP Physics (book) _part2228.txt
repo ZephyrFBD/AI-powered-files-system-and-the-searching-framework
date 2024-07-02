@@ -1,0 +1,67 @@
+ zero, too.
+B
+B
+AB|| ¢lBab + AB|| ¢lBbc + AB|| ¢lBcd + AB|| ¢lBda = m0 I
+encl.
+B = m0 I
+2pr
+.
+B(2pr) = m0 I,
+2pr.
+¢l
+BA¢l1 + ¢l2 + ¢l3 + p + ¢l100B
+= m0 I.
+(B ¢l)1 + (B ¢l)2 + (B ¢l)3 + p + (B ¢l)100 = m0 I.
+B|| = B.
+B
+B
+B
+B
+574
+CHAPTER 20
+Magnetism
+(a)
+(b)
+I
+B
+B
+B
+B
+B
+B
+FIGURE 20–32 (a) Magnetic field
+due to several loops of a solenoid.
+(b) For many closely spaced loops,
+the field is very nearly uniform.
+l
+c
+d
+b
+a
+Current
+into
+page
+Current
+out of
+page
+B
+B
+FIGURE 20–33 Cross-sectional view into a 
+solenoid. The magnetic field inside is straight
+except at the ends. Red dashed lines indicate
+the path chosen for use in Ampère’s law.
+and 
+are electric current direction (in the
+wire loops) out of the page and into the page.
+z
+
+†Actually, Ampère’s law is precisely accurate when there is an infinite number of infinitesimally short
+segments, but that leads into calculus.
+I
+I
+r
+P
+FIGURE 20–31 Circular path of
+radius r.
+Thus the left side of our Ampère equation we just wrote becomes
+where B is 

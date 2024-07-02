@@ -1,0 +1,28 @@
+t identifying conjugate acid–base pairs it is not 
+difficult to write equations for reactions involving Brønsted–Lowry acids and bases 
+(proton-transfer reactions).
+The hydrogen sulfite ion 1HSO3
+-2 is amphiprotic. Write an equation for the reaction of HSO3
+- with water (a) in which the ion acts 
+as an acid and (b) in which the ion acts as a base. In both cases identify the conjugate acid–base pairs.
+Sample Exercise 16.2 
+Writing Equations for Proton-Transfer Reactions
+SOLUTION
+Analyze and Plan We are asked to write two equations representing 
+reactions between HSO3
+-  and water, one in which HSO3
+-  should 
+donate a proton to water, thereby acting as a Brønsted–Lowry 
+acid, and one in which HSO3
+-  should accept a proton from water, 
+thereby acting as a base. We are also asked to identify the conju-
+gate pairs in each equation.
+Solve
+(a)  
+HSO3
+-1aq2 + H2O1l2 ∆ SO3
+2 -1aq2 + H3O+1aq2 
+The conjugate pairs in this equation are HSO3
+-  (acid) and SO3
+2 -  
+(conjugate base), and H2O (base

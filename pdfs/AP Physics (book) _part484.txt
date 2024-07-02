@@ -1,0 +1,39 @@
+rces on the car are the Earth’s gravity mg
+downward, and the normal force 
+exerted by the road perpendicular to its
+surface. See Fig. 5–14, where the components of 
+are also shown. We don’t
+need to consider the friction of the road because we are designing a road to be
+banked so as to eliminate dependence on friction.
+SOLUTION (a) Since there is no vertical motion,
+and
+gives
+or
+[Note in this case that  
+because  
+]
+We substitute this relation for 
+into the equation for the horizontal motion,
+which becomes
+or
+This is the formula for the banking angle 
+no friction needed at this speed v.
+(b) For  
+and  
+(
+),
+so
+We have been using the centripetal acceleration 
+where r is the
+radius of a circle. For a road, and in many other situations, we don’t have a full
+circle, but only a portion of a circle:
+still works and we often call r the
+radius of curvature of that portion of a circle we are dealing with.
+a = v2r
+a = v2r
+u = tan–1(0.40) = 22°.
+tan u =
+(14 ms)2
+(50 m)A9.8 ms2B
+= 0.40,
+ 14 m

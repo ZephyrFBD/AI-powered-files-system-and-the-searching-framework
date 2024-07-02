@@ -1,0 +1,31 @@
+e other conditions. For example,
+the mist condition shows that the transpiration rate is much slower than it would otherwise be in the
+room; this is also in stark contrast to the light and fan conditions.
+Another interesting conclusion that can be made is that the transpiration rate in the room continues to
+steadily rise over the 30 minute time period; however, the mist condition shows a slight increase of
+transpiration after 20 minutes had passed.
+LAB 12  Fruit Fly Behavior
+Analysis Question: What environmental factors affect fruit fly responses?
+Exercise 12A:  Environmental Factors
+Environmental Factor
+10 minutes
+20 minutes
+Salt
+0
+2
+White Vinegar
+25
+60
+Ripened Fruit
+28
+64
+Sugar
+10
+18
+Apple Cider Vinegar and Dish Soap
+27
+58
+Interpretation of this Exercise
+The above chart shows how many fruit flies were present around or on the substance after 10
+minutes and 20 minutes time. Since fruit flies are attracted to both overly sweet and vinegar-smelling
+substances, it is no surprise that the

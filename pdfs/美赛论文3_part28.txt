@@ -1,0 +1,25 @@
+1 Suffering degree
+3.1.1 Weber-Fechner law
+Weber-Fechner law tells us that the increase in a geometric ratio of the
+stimulation will only result in the increase in a linear ratio of the visual response. The
+formulation is
+C
+
+
+, where , , C respectively stand for the difference
+threshold, the standard stimulus intensity and the Weber rate.
+Fechner, a German psychologist, proposed the law of logarithm to revise the
+Weber-Fechner law. The law of logarithm describes the quantity relationship between
+material stimulants and mental impression, whose formulation is
+lg
+S
+K
+R
+
+,
+where R , S , K respectively stands for the stimulus intensity, the feeling intensity and
+the constant. This law states that all the feeling of people including visual sense,
+auditory sense, cutaneous sensation, gustation, smell, shock sense and so on are not
+proportional to the corresponding physical quantity, but proportional to the common
+logarithm of the corresponding physical quantity.
+3.1.2 Suffering degre

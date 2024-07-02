@@ -1,0 +1,39 @@
+presents a CH group, not a CH2 group.)
+Carbon rings containing fewer than five carbon atoms are strained because the 
+C ¬C ¬C bond angles must be less than the 109.5 
+° tetrahedral angle. The amount of 
+strain increases as the rings get smaller. In cyclopropane, which has the shape of an equi-
+lateral triangle, the angle is only 60 
+°; this molecule is therefore much more reactive than 
+propane, its straight-chain analog.
+Go Figure
+The general formula for straight-chain alkanes is CnH2n +2. 
+What is the general formula for cycloalkanes?
+Cyclopentane
+CH2
+CH2
+H2C
+H2C
+Cyclohexane
+CH2
+CH2
+CH2
+CH2
+CH2
+CH2
+H2C
+H2C
+Cyclopropane
+H2C
+CH2
+Each vertex 
+represents one 
+CH2 group
+Five vertices = 
+five CH2 groups
+Three vertices = 
+three CH2 groups
+▲ Figure 24.5 Condensed structural formulas and line structures for three cycloalkanes.
+(Table 24.2). There are two alkyl groups specified, an ethyl group 
+(two carbon atoms, C2H5) and a methyl group (one carbon atom, 
+CH3). Counting from left to right alo

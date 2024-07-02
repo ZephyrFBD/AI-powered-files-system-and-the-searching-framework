@@ -1,0 +1,30 @@
+quilibrium,
+which is why (c) does not produce SHM.
+F = –4u?
+F = 8.6x,
+F = –2.3y,
+F = –0.5x2,
+CONCEPTUAL EXAMPLE 11;2
+1
+1–2 Energy in Simple Harmonic Motion
+With forces that are not constant, such as here with simple harmonic motion, it is
+often convenient and useful to use the energy approach, as we saw in Chapter 6.
+To stretch or compress a spring, work has to be done. Hence potential
+energy is stored in a stretched or compressed spring. We have already seen in
+Section 6–4 that elastic potential energy is given by
+The total mechanical energy E is the sum of the kinetic and potential energies,
+(11;3)
+where v is the speed of the mass m at a distance x from the equilibrium position.
+E =
+1
+2 mv2 + 1
+2 kx2,
+pe =
+1
+2 kx2.
+SHM can occur only if friction is negligible so that the total mechanical energy E
+remains constant. As the mass oscillates back and forth, the energy continuously
+changes from potential energy to kinetic energy, and back again (Fig. 11–5). At
+the extreme points,
+and
+(Fig.

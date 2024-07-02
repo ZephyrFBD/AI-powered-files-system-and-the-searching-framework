@@ -1,0 +1,11 @@
+all uncorrected errors are
+passed from the parent cell to the daughter cells and amplified as each generation produces more non-functional proteins
+from uncorrected DNA damage. Eventually, the pace of the cell cycle speeds up as the effectiveness of the control and
+repair mechanisms decreases. Uncontrolled growth of the mutated cells outpaces the growth of normal cells in the area, and
+a tumor (“-oma”) can result.
+Proto-oncogenes
+The genes that code for the positive cell cycle regulators are called proto-oncogenes. Proto-oncogenes are normal genes
+that, when mutated in certain ways, become oncogenes, genes that cause a cell to become cancerous. Consider what might
+happen to the cell cycle in a cell with a recently acquired oncogene. In most instances, the alteration of the DNA sequence
+will result in a less functional (or non-functional) protein. The result is detrimental to the cell and will likely prevent the cell
+from completing the cell cycle; however, the organism is not harmed be

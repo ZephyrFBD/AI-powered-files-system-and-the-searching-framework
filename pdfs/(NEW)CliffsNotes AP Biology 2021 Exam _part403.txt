@@ -1,0 +1,10 @@
+lection eliminates individuals that have extreme or unusual traits. Under this condition, individuals
+with the most common form of a trait are the best adapted, while individuals who differ from the common form are
+poorly adapted. As a result, stabilizing selection maintains the existing population frequencies of common traits
+while selecting against all other trait variations.
+2. Directional selection favors traits that are at one extreme of a range of traits. Traits at the opposite extreme are
+selected against. If directional selection continues for many generations, favored traits become more and more
+extreme, leading to distinct changes in the allele frequencies of the population.
+The Darwin finches described at the beginning of this chapter were an example of directional selection. Beak size
+increased because only large seeds with hard seed coats were available due to a drought. However, when rains
+returned, directional selection reversed direction toward smaller beaks as smaller 

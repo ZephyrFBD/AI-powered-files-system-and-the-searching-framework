@@ -1,0 +1,33 @@
+flasks are used to contain specific volumes of liquid.
+TABLE 1.5 Densities of Selected 
+Substances at 25 ºC
+Substance
+Density (g/cm3)
+Air
+0.001
+Balsa wood
+0.16
+Ethanol
+0.79
+Water
+1.00
+Ethylene glycol
+1.09
+Table sugar
+1.59
+Table salt
+2.16
+Iron
+7.9
+Gold
+19.32
+The densities of solids and liquids are commonly expressed in either grams per 
+cubic centimeter 1g>cm32 or grams per milliliter 1g>mL2. The densities of some com-
+mon substances are listed in Table 1.5. It is no coincidence that the density of water 
+is 1.00 g>mL; the gram was originally defined as the mass of 1 mL of water at a spe-
+cific temperature. Because most substances change volume when they are heated or 
+cooled, densities are temperature dependent, and so temperature should be specified 
+when reporting densities. If no temperature is reported, we assume 25 °C, close to 
+normal room temperature.
+The terms density and weight are sometimes confused. A person who says that iron 
+weighs more than air generally means that iron 

@@ -1,0 +1,20 @@
+energy. (a) What color is the emitted light? 
+(b) Would appropriately sized CdS quantum dots be able to 
+emit blue light? (c) What about red light?
+ 12.97  Indicate whether each statement is true or false:
+(a) The band gap of a semiconductor decreases as the parti-
+cle size decreases in the 1–10-nm range.
+(b) The light that is emitted from a semiconductor, upon 
+external stimulation, becomes longer in wavelength as 
+the particle size of the semiconductor decreases.
+ 12.98  Indicate whether this statement is true or false:
+ 
+ If you want a semiconductor that emits blue light, you 
+could either use a material that has a band gap correspond-
+ing to the energy of a blue photon or you could use a mate-
+rial that has a smaller band gap but make an appropriately 
+sized nanoparticle of the same material.
+ 12.99 Gold adopts a face-centered cubic structure with a unit cell 
+edge of 4.08 Å (Figure 12.11). How many gold atoms are 
+there in a sphere that is 20 nm in diameter? Recall that the 
+volum

@@ -1,0 +1,64 @@
+tainty of 
+in the 
+’s mass is an uncertainty in
+its rest energy, which in joules is
+Then we expect its lifetime 
+to be
+Lifetimes this short are difficult to measure directly, and the assignment of very
+short lifetimes depends on this use of the uncertainty principle.
+t
+L
+U
+¢E = 1.055 * 10–34 Js
+1.01 * 10–14 J
+L
+1 * 10–20 s.
+t (= ¢t using Eq. 28–2)
+¢E = A63 * 103 eVB A1.60 * 10–19 JeVB
+= 1.01 * 10–14 J.
+Jc
+63 keVc2
+Jc
+¢E L U¢t.
+¢t,
+Jc
+Jc
+63 keVc2.
+E = mc2
+3100 MeVc2
+Jc
+JC
+EXAMPLE 28;3
+ESTIMATE
+¢x =
+U
+¢p
+= 1.055 * 10–34 Js
+0.15 kgms
+= 7 * 10–34 m.
+¢p = m ¢v = (0.150 kg)(1 ms) = 0.15 kgms.
+¢x.
+¢p
+¢v
+¢v = 1 ms.
+(9362) mih = (4261) ms?
+EXAMPLE 28;2
+0.50 * 10–10 m.
+¢x L
+U
+¢p =
+1.055 * 10–34 Js
+1.0 * 10–27 kgms = 1.1 * 10–7 m,
+¢p = 1.0 * 10–27 kgms.
+p = mv = A9.11 * 10–31 kgB A1.10 * 106 msB
+= 1.00 * 10–24 kgms.
+¢x
+¢p = 0.0010p.
+p = mv,
+v = 1.10 * 106 ms
+EXAMPLE 28;1
+SECTION 28–3
+The Heisenberg Uncertainty Principle
+809
+28–4 Philosophic Implications;
+Probability 

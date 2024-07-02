@@ -1,0 +1,14 @@
+c properties of water, for example, 
+addressed the behavior of bulk water (or ice or water vapor) as a substance without con-
+sidering any specific properties of individual H2O molecules.
+To connect the microscopic and macroscopic descriptions of matter, scientists have 
+developed the field of statistical thermodynamics, which uses the tools of statistics and 
+probability to link the microscopic and macroscopic worlds. Here we show how entropy, 
+which is a property of bulk matter, can be connected to the behavior of atoms and mole-
+cules. Because the mathematics of statistical thermodynamics is complex, our discussion 
+will be largely conceptual.
+In our discussion of two gas molecules in the two-flask system in Figure 19.6, we saw 
+that the number of possible arrangements helped explain why the gas expands.
+Suppose we now consider one mole of an ideal gas in a particular thermodynamic 
+state, which we can define by specifying the temperature, T, and volume, V, of the gas. 
+What is happ

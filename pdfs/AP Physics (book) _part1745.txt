@@ -1,0 +1,86 @@
+ion of 
+is specified by the angle that 
+makes with the x axis, which is
+given by
+Adding Electric Forces; Principle of Superposition
+When dealing with several charges, it is helpful to use double subscripts on each
+of the forces involved. The first subscript refers to the particle on which the force
+acts; the second refers to the particle that exerts the force. For example, if we
+have three charges,
+means the force exerted on particle 3 by particle 1.
+F
+B
+31
+tan u =
+F
+y
+F
+x
+.
+F
+B
+u
+F
+B
+F = 3Fx
+2 + Fy
+2 .
+F
+B
+F
+y = F
+1y + F
+2y = F
+1 sin u1 - F
+2 sin u2 .
+F
+x = F
+1x + F
+2x = F
+1 cos u1 + F
+2 cos u2 ,
+F
+B,
+F
+1y = F
+1 sin u1  F
+2y =
+–F
+2 sin u2 .
+F
+1x = F
+1 cos u1  F
+2x = F
+2 cos u2
+F
+B
+2
+F
+B
+1
+F
+B
+2 ,
+F
+B
+1
+F
+B
+net = F
+B
+1 + F
+B
+2 + p .
+F
+B
+net
+F
+B
+1 , F
+B
+2 ,
+SECTION 16–6
+Solving Problems Involving Coulomb’s Law and Vectors
+451
+As in all problem solving, it is very important to draw a diagram, in particular
+a free-body diagram (Chapter 4) for each object, showing all the forces acting on

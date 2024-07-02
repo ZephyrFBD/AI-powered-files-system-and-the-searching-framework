@@ -1,0 +1,58 @@
+(power per unit area at Earth). That is,
+(33;1)
+Apparent brightness. Suppose a star has luminosity equal
+to that of our Sun. If it is 10 ly away from Earth, how much dimmer will it appear?
+APPROACH We use the inverse square law in Eq. 33–1 to determine the relative
+brightness 
+since the luminosity L is the same for both stars.
+SOLUTION Using the inverse square law, the star appears dimmer by a factor
+bstar
+bSun
+= dSun
+2
+dstar
+2
+=
+A1.5 * 108 kmB
+2
+(10 ly)2A1013 kmlyB2
+L 2 * 10–12.
+Ab r 1d2B
+EXAMPLE 33;3
+b =
+L
+4pd2 .
+4pd2
+4pd2.
+kms,
+13 * 109 yr
+13 * 109 years
+CONCEPTUAL EXAMPLE 33;2
+SECTION 33–2
+951
+T
+able 33–1 Astronomical
+Distances
+Approx. Distance
+Object
+from Earth (ly)
+Moon
+Sun
+Size of solar system 
+(distance to Pluto)
+Nearest star 
+(Proxima Centauri)
+4.2
+Center of our Galaxy
+Nearest large galaxy
+Farthest galaxies
+13.4 * 109
+2.4 * 106
+2.6 * 104
+6 * 10–4
+1.6 * 10–5
+4 * 10–8
+952
+CHAPTER 33
+Astrophysics and Cosmology
+†Applies to “main-sequence” stars (see next page). The mass of a st

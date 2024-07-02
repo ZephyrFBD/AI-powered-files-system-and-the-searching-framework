@@ -1,0 +1,33 @@
+ stronger than
+any external forces. We can then ignore the effects of any other forces during the
+brief time interval of the collision.
+During a collision of two ordinary objects, both objects are deformed, often
+considerably, because of the large forces involved (Fig. 7–8). When the collision
+occurs, the force each exerts on the other usually jumps from zero at the moment
+of contact to a very large force within a very short time, and then rapidly 
+returns to zero again. A graph of the magnitude of the force that one object
+exerts on the other during a collision, as a function of time, is something like 
+the red curve in Fig. 7–9. The time interval 
+is usually very distinct and very
+small, typically milliseconds for a macroscopic collision.
+¢t
+SECTION 7–4
+177
+F
+F
+0
+ti
+t
+tf
+t
+Δ
+FIGURE 7;10 The average force 
+acting over a very brief time 
+interval 
+gives the same impulse
+as the actual force.
+(f ¢t)
+¢t
+f
+From Newton’s second law, Eq. 7–2, the net force on an object is equal to the
+rate o

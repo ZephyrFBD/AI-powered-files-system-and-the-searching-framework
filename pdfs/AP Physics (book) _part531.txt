@@ -1,0 +1,26 @@
+d, to a component of the normal force, or to another
+type of force or combination of forces.
+[*When the speed of circular motion is not constant, the
+acceleration has two components, tangential as well as 
+centripetal.]
+Newton’s law of universal gravitation states that every 
+particle in the universe attracts every other particle with a force
+a
+B
+R
+aR = v2
+r
+.
+aR
+proportional to the product of their masses and inversely pro-
+portional to the square of the distance between them:
+(5;4)
+The direction of this force is along the line joining the two 
+particles, and the force is always attractive. It is this gravitational
+force that keeps the Moon revolving around the Earth, and the
+planets revolving around the Sun.
+Satellites revolving around the Earth are acted on by
+gravity, but “stay up” because of their high tangential speed.
+Newton’s three laws of motion, plus his law of universal
+gravitation, constituted a wide-ranging theory of the universe.
+With them, motion of objects on Earth and 

@@ -1,0 +1,19 @@
+2 DIATOMIC MOLECULES (SECTION 9.8) 
+ 
+Electrons in core orbitals do not contribute to the bonding between 
+atoms, so a molecular orbital description usually needs to consider 
+only electrons in the outermost electron subshells. To describe the 
+MOs of period 2 homonuclear diatomic molecules, we need to con-
+sider the MOs that can form by the combination of p orbitals. The p 
+orbitals that point directly at one another can form s bonding and 
+s* antibonding MOs. The p orbitals that are oriented perpendicu-
+lar to the internuclear axis combine to form pi 1P2 molecular orbitals. 
+In diatomic molecules, the p molecular orbitals occur as a pair of 
+degenerate (same energy) bonding MOs and a pair of degenerate 
+antibonding MOs. The s
+2p bonding MO is expected to be lower in 
+energy than the p
+2p bonding MOs because of larger orbital overlap of 
+the p orbitals directed along the internuclear axis. However, this order-
+ing is reversed in B2, C2, and N2 because of interaction between the 2s 
+an

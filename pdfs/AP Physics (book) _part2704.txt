@@ -1,0 +1,14 @@
+en the plane of
+polarization is parallel to the Polaroid’s transmission axis, and a minimum when
+perpendicular to it. If you do this while looking at the sky, preferably at right
+angles to the Sun’s direction, you will see that skylight is polarized. (Direct sunlight
+is unpolarized, but don’t look directly at the Sun, even through a polarizer, for
+damage to the eye may occur.) If the light transmitted by an analyzer Polaroid
+falls to zero at one orientation, then the light is 100% plane-polarized. If it merely
+reaches a minimum, the light is partially polarized.
+Unpolarized light consists of light with random directions of polarization.
+Each of these polarization directions can be resolved into components along two
+mutually perpendicular directions. On average, an unpolarized beam can be
+thought of as two plane-polarized beams of equal magnitude perpendicular to
+one another. When unpolarized light passes through a polarizer, one component
+is eliminated. So the intensity of the light pa

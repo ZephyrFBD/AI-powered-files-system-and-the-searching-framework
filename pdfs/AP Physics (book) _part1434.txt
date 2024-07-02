@@ -1,0 +1,83 @@
+on average, nearly
+constant. To calculate the force due to all the molecules in the container, we have
+to add the contributions of each. If all N molecules have the same mass m, the net
+force on the wall is
+where 
+means 
+for molecule number 1 (we arbitrarily assign each molecule 
+a number) and the sum extends over the total number of molecules N in the 
+container. The average value of the square of the x component of velocity is
+(13;5)
+where the overbar 
+means “average.” Thus we can write the force as
+(i)
+We know that the square of any vector is equal to the sum of the squares of its
+components (theorem of Pythagoras). Thus
+for any velocity v.
+v2 = vx
+2 + vy
+2 + vz
+2
+F = m
+l NO
+x .
+( )
+O
+x = vx1
+2
++ vx2
+2
++ p + vxN
+2
+N
+,
+vx
+vx1
+F = m
+l Avx1
+2
++ vx2
+2
++ p + vxN
+2 B,
+vx.
+F =
+¢(mv)
+¢t
+=
+2mvx
+2lvx
+= mvx
+2
+l
+.
+¢t
+¢t =
+2l
+vx
+.
+2l = vx ¢t,
+2l.
+¢t,
+¢(mv) = mvx - A –mvxB
+= 2mvx
+¢(mv),
+±mvx.
+–mvx
+F = ¢(mv)¢t
+l,
+374
+CHAPTER 13
+Temperature and Kinetic Theory
+z
+(a)
+(b)
+y
+x
+A
+l
+z
+y
+x
+l
+FIGURE 13–1

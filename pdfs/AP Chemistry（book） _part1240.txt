@@ -1,0 +1,38 @@
+ + 411 kJ
+2. Na1s2 ¡ Na+1g2 + e-  
+∆H2 = 604 kJ
+3. e- + 1
+2 Cl21g2 ¡ Cl-1g2  
+∆H3 = -227 kJ
+4. NaCl1s2 ¡ Na+1g2+ Cl-1g2  
+∆H4 = 788 kJ = ∆Hlattice
+This process is described as a “cycle” because it corresponds to 
+the scheme in Figure 8.6, which shows how all the quantities we have 
+just calculated are related. The sum of all the blue “up” arrow ener-
+gies has to be equal to the sum of all the red “down” arrow energies 
+in this cycle. Born and Haber recognized that if we know the value of 
+every quantity in the cycle except the lattice energy, we can calculate 
+it from this cycle.
+Related Exercises: 8.28–8.30, 8.83
+a Closer look Calculation of Lattice Energies: The Born–Haber Cycle
+Na1(g) 1 e2 1 Cl(g)
+Na1(g) 1 Cl2(g)
+EA(Cl)
+Na(g) 1 Cl(g)
+I1(Na)
+DH8f[Cl(g)]
+DH8f[Na(g)]
+2DH8f[NaCl(s)]
+NaCl(s)
+Na(g) 1   Cl2(g)
+1
+–
+2
+Na(s) 1   Cl2(g)
+2Lattice energy of NaCl
+1
+–
+2
+Energy
+▲ Figure 8.6 Born–Haber cycle for formation of NaCl. This Hess’s law 
+representation shows the energetic relationships in 

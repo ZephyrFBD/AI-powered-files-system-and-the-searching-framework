@@ -1,0 +1,14 @@
+dent upon it. Good-quality cameras, microscopes, and other 
+optical devices may contain six to ten thin lenses. Reflection from all these surfaces
+can reduce the light level considerably, and multiple reflections produce a
+background haze that reduces the quality of the image. By reducing reflection,
+transmission and sharpness are increased.
+A very thin coating on the lens surfaces can reduce reflections considerably.
+The thickness of the coating is chosen so that light (at least for one wavelength)
+reflecting from the front and rear surfaces of the film destructively interferes.
+Destructive interference can occur nearly completely for one particular wavelength
+depending on the thickness of the coating. Nearby wavelengths will at least 
+partially destructively interfere, but a single coating cannot eliminate reflections
+for all wavelengths. Nonetheless, a single coating can reduce total reflection 
+from 4% to 1% of the incident light. Often the coating is designed to eliminate
+the cent

@@ -1,0 +1,15 @@
+ried) and data is transmitted at a much higher rate and with less loss and 
+less interference than an electrical signal in a copper wire. Fibers have been devel-
+oped that can support over one hundred separate wavelengths, each modulated to
+carry more than 10 gigabits 
+of information per second. That amounts to a
+terabit 
+per second for one hundred wavelengths.
+The use of fiber optics to transmit a clear picture is particularly useful in medicine,
+Fig. 23–30. For example, a patient’s lungs can be examined by inserting a fiber-optic
+cable known as a bronchoscope through the mouth and down the bronchial tube.
+Light is sent down an outer set of fibers to illuminate the lungs. The reflected light
+returns up a central core set of fibers. Light directly in front of each fiber travels up
+that fiber. At the opposite end, a viewer sees a series of bright and dark spots, much
+like aTV screen—that is, a picture of what lies at the opposite end. Lenses are used
+at each end of the cable. The image 

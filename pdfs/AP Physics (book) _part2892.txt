@@ -1,0 +1,15 @@
+an inertial frame. The
+Earth, though not quite an inertial frame (it rotates), is close enough that for
+most purposes we can approximate it as an inertial frame. Rotating or otherwise
+accelerating frames of reference are noninertial frames,‡ and won’t concern us in
+this Chapter (they are dealt with in Einstein’s general theory of relativity, as we
+will see in Chapter 33).
+A reference frame that moves with constant velocity with respect to an
+inertial frame is itself also an inertial frame, since Newton’s laws hold in it as well.
+When we say that we observe or make measurements from a certain reference
+frame, it means that we are at rest in that reference frame.
+Both Galileo and Newton were aware of what we now call the relativity principle
+applied to mechanics: that the basic laws of physics are the same in all inertial
+reference frames. You may have recognized its validity in everyday life. For
+example, objects move in the same way in a smoothly moving (constant-velocity)
+train or air

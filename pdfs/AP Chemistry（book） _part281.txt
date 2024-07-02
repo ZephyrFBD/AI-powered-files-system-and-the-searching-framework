@@ -1,0 +1,39 @@
+6
+Atomic number (number
+of protons or electrons)
+Because all atoms of a given element have the same atomic number, the subscript is redun-
+dant and is often omitted. Thus, the symbol for carbon-12 can be represented simply as 12C.
+Atoms with identical atomic numbers but different mass numbers (that is, the 
+same number of protons but different numbers of neutrons) are called isotopes of one 
+another. Several isotopes of carbon are listed in Table 2.2. We will generally use the nota-
+tion with superscripts only when referring to a particular isotope of an element. It is 
+important to keep in mind that the isotopes of any given element are all alike chemically. 
+A carbon dioxide molecule that contains a 13C atom behaves for all practical purposes 
+identically to one that contains a 12C atom.
+TABLE 2.2 Some Isotopes of Carbona
+ 
+Symbol
+Number of  
+Protons
+Number of  
+Electrons
+Number of 
+Neutrons
+11C
+6
+6
+5
+12C
+6
+6
+6
+13C
+6
+6
+7
+14C
+6
+6
+8
+a Almost 99% of the carbon found in nature is 12C.
+ 

@@ -1,0 +1,24 @@
+ity, tending to pull it back to the vertical position); so for
+part (2), we cannot use conservation of momentum. But we can use conservation
+of mechanical energy because gravity is a conservative force (Chapter 6). The
+kinetic energy immediately after the collision is changed entirely to gravitational
+potential energy when the pendulum reaches its maximum height, h.
+SOLUTION In part (1) momentum is conserved:
+(i)
+where 
+is the speed of the block and embedded projectile just after the colli-
+sion, before they have moved significantly.
+In part (2), mechanical energy is conserved. We choose
+when the
+pendulum hangs vertically, and then
+when the pendulum–projectile
+system reaches its maximum height. Thus we write
+or
+(ii)
+We solve for 
+Inserting this result for 
+into Eq. (i) above, and solving for v, gives 
+which is our final result.
+NOTE The separation of the process into two parts was crucial. Such an analysis is
+a powerful problem-solving tool. But how do you decide how to make such a
+div

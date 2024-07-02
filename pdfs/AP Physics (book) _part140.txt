@@ -1,0 +1,67 @@
+e elapsed
+.
+80 kmh.
+x = –10 cm.
+x = –20 cm.
+x = 20 cm
+¢x = x2 - x1 = 10.0 m - 30.0 m =
+–20.0 m,
+x2 = 10.0 m.
+x1 = 30.0 m
+¢x = x2 - x1 = 30.0 m - 10.0 m = 20.0 m,
+x2 = 30.0 m,
+x1 = 10.0 m
+¢x
+¢
+¢x = x2 - x1 ,
+x2 - x1 ,
+x2 .
+t2 ,
+x1
+t1 ,
+y
+x
+x2
+x1
+10
+0
+20
+30
+40
+Distance (m)
+x
+x
+0
+70 m
+West
+East
+40 m
+Displacement
+30 m
+y
+FIGURE 2;4 A person walks 70 m 
+east, then 30 m west. The total distance
+traveled is 100 m (path is shown dashed
+in black); but the displacement, shown 
+as a solid blue arrow, is 40 m to the east.
+x
+y
+x1
+x2
+10
+0
+20
+30
+40
+Distance (m)
+FIGURE 2;5 The arrow represents
+the displacement
+Distances are in meters.
+x2 - x1.
+FIGURE 2;6 For the displacement
+the displacement vector points left.
+¢x = x2 - x1 = 10.0 m - 30.0 m,
+There is a second difference between speed and velocity: namely, the average
+velocity is defined in terms of displacement, rather than total distance traveled:
+Average speed and average velocity have the same magnitude when the
+motion is all in one direction. In

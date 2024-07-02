@@ -1,0 +1,59 @@
+i
+i
+j
+i
+i
+j
+U
+U
+≠
+=
+α =
+∑
+∑
+ 
+0
+0
+(1 C)X
+((1
+w)X
+wX )
+j
+j
+j
+s
+X
+C
+=
+−
++
+−
++
+ 
+We combine this sub model into our total model. According to the history of the 
+Haiti, we search the data to determine the potential possibility and the original weight. 
+For example, we use the days that people are suffering from the natural hazards in a 
+year to determine the potential possibility of the natural hazard. Finally, we revise the 
+data and abandon the strange data, so we gain 
+0
+C =[0.03 0.01 0.05],
+0
+w =[0.6 0.1 
+0.8].Then we can use the data in our model and gain the result. 
+4.3 What effect will cause if additional environmental factors occur? 
+We just consider three major uncertain factors: natural hazards, development aid 
+and government instability. Here we show our transformation data in natural hazards 
+and regime coups. 
+Team#36961 
+ 
+Page 16 of 20 
+Table 13: Natural hazards in Haiti transformation data 
+Years 
+Accident 
+Flood 
+Storm 
+Earthquake Epidemic 
+2004-2005 
+1 
+0.155958 
+0.090

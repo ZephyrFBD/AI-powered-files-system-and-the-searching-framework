@@ -1,0 +1,26 @@
+, unchanged, as cop-
+per is oxidized, or do they go into solution as ions? If they 
+go into solution, do they plate out on the cathode?
+additional Exercises
+ 
+20.97  A disproportionation reaction is an oxidation–reduction 
+reaction in which the same substance is oxidized and 
+reduced. Complete and balance the following dispropor-
+tionation reactions:
+(a) Ni+1aq2 ¡ Ni2+1aq2 + Ni1s2 (acidic solution)
+(b) MnO4
+2-1aq2 ¡ MnO4
+-1aq2 + MnO21s2 (acidic  
+solution)
+(c) H2SO31aq2 ¡ S1s2 + HSO4
+-1aq2 (acidic solution)
+(d) Cl21aq2 ¡ Cl-1aq2 + ClO-1aq2 (basic solution)
+ 
+20.98  A common shorthand way to represent a voltaic cell is
+anode& anode solution& & cathode solution&cathode
+A double vertical line represents a salt bridge or a porous 
+barrier. A single vertical line represents a change in phase, 
+such as from solid to solution. (a) Write the half-reactions 
+and overall cell reaction represented by Fe& Fe2+ & & Ag+ &Ag; 
+calculate the standard cell emf using data in Appendix E. 
+(b) Write the h

@@ -1,0 +1,19 @@
+ity of any value (say, in a handbook
+of physical data). If the temperature range is wide, Eq. 18–4 is not adequate and
+terms proportional to the square and cube of the temperature are needed, but
+these terms are generally very small except when 
+is large.
+T - T
+0
+a
+18–5 Electric Power
+Electric energy is useful to us because it can be easily transformed into other
+forms of energy. Motors transform electric energy into mechanical energy, and
+are examined in Chapter 20.
+In other devices such as electric heaters, stoves, toasters, and hair dryers,
+electric energy is transformed into thermal energy in a wire resistance known as a
+“heating element.” And in an ordinary lightbulb, the tiny wire filament (Fig. 18–5
+and Chapter-Opening Photo) becomes so hot it glows; only a few percent of the
+energy is transformed into visible light, and the rest, over 90%, into thermal energy.
+Lightbulb filaments and heating elements (Fig.18–16) in household appliances have
+resistances typically of a few ohms t

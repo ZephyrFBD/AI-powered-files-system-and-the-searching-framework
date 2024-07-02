@@ -1,0 +1,13 @@
+s
+of enzyme regulatory molecules, with respect to cellular metabolism, are the products of the cellular metabolic reactions
+themselves. In a most efficient and elegant way, cells have evolved to use the products of their own reactions for feedback
+inhibition of enzyme activity. Feedback inhibition involves the use of a reaction product to regulate its own further
+production (Figure 6.21). The cell responds to the abundance of specific products by slowing down production during
+anabolic or catabolic reactions. Such reaction products may inhibit the enzymes that catalyzed their production through the
+mechanisms described above.
+266
+Chapter 6 | Metabolism
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 6.21 Metabolic pathways are a series of reactions catalyzed by multiple enzymes. Feedback inhibition, where
+the end product of the pathway inhibits an upstream step, is an important regulatory mechanism in cells.
+The production of both amino acids and 

@@ -1,0 +1,19 @@
+en
+the molecules. This effect is called surface tension. More specifically, a quantity
+called the surface tension,
+(the Greek letter gamma), is defined as the force F
+per unit length 
+that acts perpendicular to any line or cut in a liquid surface,
+tending to pull the surface closed:
+(10;10)
+To understand this, consider the 
+apparatus shown in Fig.10–34 which
+encloses a thin film of liquid (such as a liquid soap film). Because of surface tension,
+a force F is required to pull the movable wire and thus increase the surface area of
+the liquid. The liquid contained by the wire apparatus is a thin film having both a
+top and a bottom surface. Hence the total length of the surface being increased is 
+and the surface tension is
+A delicate apparatus of this type can be used
+to measure the surface tension of various liquids. The surface tension of water is
+at 20°C. Table 10–4 (next page) gives the values for several substances.
+Note that temperature has a considerable effect on the surface tensi

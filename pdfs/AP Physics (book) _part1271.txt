@@ -1,0 +1,31 @@
+peed of sound). Many animals can hear ultrasonic frequen-
+cies; dogs, for example, can hear sounds as high as 50,000 Hz, and bats can detect
+frequencies as high as 100,000 Hz. Ultrasonic waves have many useful applications
+in medicine and other fields, which we will discuss later in this Chapter.
+C A U T I O N
+Do not confuse 
+ultrasonic (high frequency) 
+with supersonic (high speed)
+330
+CHAPTER 12
+Sound
+P H Y S I C S  A P P L I E D
+Autofocusing camera
+Compression
+(pressure higher)
+Drum
+membrane
+Motion of a molecule
+Expansion
+(pressure lower)
+FIGURE 12–2 The membrane of a 
+drum, as it vibrates, alternately 
+compresses the air and, as it recedes 
+(moves to the left), leaves a 
+rarefaction or expansion of air. See 
+also Fig. 11–26.
+FIGURE 12–1 Example 12–2. Autofocusing camera emits an 
+ultrasonic pulse. Solid lines represent the wave front of the 
+outgoing wave pulse moving to the right; dashed lines represent 
+the wave front of the pulse reflected off the person’s face,
+returning to the

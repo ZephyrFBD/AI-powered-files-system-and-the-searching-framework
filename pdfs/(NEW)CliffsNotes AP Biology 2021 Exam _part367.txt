@@ -1,0 +1,13 @@
+ies faster than the
+DNA cloning process previously described. Steps of the process are outline here:
+1. DNA is heated. Heating denatures (separates) the hydrogen bonding holding the double-stranded DNA (dsDNA)
+together and forms two single-stranded DNA (ssDNA) molecules.
+2. DNA is cooled and single-stranded DNA primers are added. Two primers are added, each complementary to
+the 3′ end of the single strands of DNA. These single-stranded DNA primers serve the same purpose as RNA
+primers during normal DNA replication
+3. DNA polymerase is added. A special, heat-tolerant, DNA polymerase derived from bacteria adapted to living in
+hot springs is added. The DNA polymerase attaches to the primers at each end of a single strand of DNA and
+synthesizes a complementary DNA strand. At the end of this step, the one initial dsDNA molecule becomes two
+dsDNA molecules.
+4. Repeat the above steps. Each repetition of the sequence doubles the number of DNA molecules, and the total
+number of molecules increa

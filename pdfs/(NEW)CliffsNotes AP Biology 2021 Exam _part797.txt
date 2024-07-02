@@ -1,0 +1,16 @@
+istances and known fragment
+sizes for the standard sample. The standard curve is a plot of fragment size (base pairs) against migration distance.
+Since migration distance is inversely proportional to fragment size, plotting migration distance against the log of the
+number of base pairs produces a straight line.
+8. Use the standard curve to determine the size of each fragment produced by the sample under investigation.
+Investigation 10: Energy Dynamics
+The primary productivity of a community is a measure of the amount of biomass produced by autotrophs through
+photosynthesis (or chemosynthesis) per unit of time. Primary productivity can be determined
+by measuring the rate at which CO2is consumed, O2is produced, or
+ 
+biomass is stored. In this investigation, primary productivity is determined by the amount of biomass produced by
+plants.
+ 
+Primary productivity can be examined with respect to the following factors. (Note that the term rate means per unit
+time.)
+1. Gross primary productivity

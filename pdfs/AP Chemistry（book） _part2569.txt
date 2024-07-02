@@ -1,0 +1,35 @@
+ibrium  
+concentration (M)
+10.10 - x2
+x
+x
+The equilibrium-constant expression is:
+Ka =
+3H+43F-4
+3HF4
+=
+1x21x2
+0.10 - x = 6.8 * 10-4
+When we try solving this equation using the approximation 
+0.10 - x ≃0.10 (that is, by neglecting the concentration of 
+acid that ionizes), we obtain:
+x = 8.2 * 10-3 M
+Because this approximation is greater than 5% of 0.10 M, how-
+ever, we should work the problem in standard quadratic form. 
+Rearranging, we have:
+ x2 = 10.10 - x216.8 * 10-42
+ = 6.8 * 10-5 - 16.8 * 10-42x
+x2 + 16.8 * 10-42x - 6.8 * 10-5 = 0
+Substituting these values in the standard quadratic formula 
+gives:
+x =
+-6.8 * 10-4 { 216.8 * 10-422 - 41-6.8 * 10-52
+2
+= -6.8 * 10-4 { 1.6 * 10-2
+2
+Of the two solutions, only the positive value for x is chemically 
+reasonable. From that value, we can determine 3H+4 and hence 
+the pH:
+x = 3H+4 = 3F-4 = 7.9 * 10-3 M, so pH = -log3H+4 = 2.10
+From our result, we can calculate the percent of molecules ionized:
+Percent ionization of HF = concentration ionized

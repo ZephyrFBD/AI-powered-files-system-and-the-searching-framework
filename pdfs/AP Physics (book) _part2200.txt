@@ -1,0 +1,46 @@
+LE 20;4
+SECTION 20–4
+Force on an Electric Charge Moving in a Magnetic Field
+567
+P
+–
+Q
+–
+is into the page
+Path of electron
+F
+B
+F
+B
+B
+B
+v
+B
+v
+B
+FIGURE 20–17 Force exerted by a
+uniform magnetic field on a moving
+charged particle (in this case, an
+electron) produces a circular path.
+EXERCISE F Determine the force on the proton of Example 20–4 if it heads horizon-
+tally south.
+Magnetic force on ions during a nerve pulse.
+Estimate the magnitude of the magnetic force due to the Earth’s magnetic field
+on ions crossing a cell membrane during an action potential (Section 18–10).
+Assume the speed of the ions is 
+.
+APPROACH Using
+set the magnetic field of the Earth to be roughly
+and the charge
+SOLUTION
+NOTE This is an extremely small force. Yet it is thought that migrating animals
+do somehow detect the Earth’s magnetic field, and this is an area of active
+research.
+F L A10–19 CBA10–2 msBA10–4 TB = 10–25 N.
+q L e L 10–19 C.
+B L 10–4 T,
+F = qvB,
+10–2 ms
+EXAMPLE 20;5
+ESTIMATE
+The path of a charged 

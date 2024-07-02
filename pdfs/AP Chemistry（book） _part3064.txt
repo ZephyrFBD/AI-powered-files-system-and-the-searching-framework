@@ -1,0 +1,23 @@
+ for the reverse of this reaction?
+Sample Exercise 19.7 
+Calculating Standard Free-Energy Change from Free Energies of Formation
+SOLUTION
+Analyze We are asked to calculate the free-energy change for a reac-
+tion and then to determine the free-energy change for the reverse 
+reaction.
+Plan We look up the free-energy values for the products and reac-
+tants and use Equation 19.14. We multiply the molar quantities by 
+the coefficients in the balanced equation and subtract the total for 
+the reactants from that for the products.
+Solve
+(a) Cl21g2 is in its standard state, so ∆Gf° is zero for this reactant. 
+P41g2, however, is not in its standard state, so ∆Gf° is not zero 
+for this reactant. From the balanced equation and values from 
+Appendix C, we have
+ 
+∆G°
+rxn = 4 ∆Gf°3PCl31g24 - ∆Gf°3P41g24 - 6 ∆Gf°3Cl21g24
+ = 14 mol21-269.6 kJ>mol2 - 11 mol2124.4 kJ>mol2 - 0
+ = -1102.8 kJ
+That ∆G° is negative tells us that a mixture of P41g2, Cl21g2, and 
+PCl31g2 at 25 °C, each present at a partial pres

@@ -1,0 +1,54 @@
+ gas as in a discharge tube (Fig. 27–22).
+10.2 eV).
+(13.6 eV - 3.4 eV =
+ke
+G =
+6.2 * 10–21 J
+1.6 * 10–19 JeV = 0.04 eV.
+G =
+3
+2 A1.38 * 10–23 JKB(300 K) = 6.2 * 10–21 J,
+T = 300 K,
+k = 1.38 * 10–23 JK
+G =
+3
+2 kT,
+CONCEPTUAL EXAMPLE 27;17
+He±
+He±
+He±
+E1
+l 7 22.8 nm
+l =
+c
+f =
+hc
+hf =
+A6.63 * 10–34 JsBA3.00 * 108 msB
+(54.4 eV)A1.60 * 10–19 JeVB
+= 22.8 nm.
+hf = 54.4 eV
+He±
+E1 = 4(–13.6 eV) =
+–54.4 eV.
+E1
+Z2 = 22 = 4
+E1
+Z = 2.
+n = 1
+He±
+E = 0.
+Z = 2.
+He±
+He
+EXAMPLE 27;16
+794
+CHAPTER 27
+Correspondence Principle
+We should note that Bohr made some radical assumptions that were at variance
+with classical ideas. He assumed that electrons in fixed orbits do not radiate light
+even though they are accelerating (moving in a circle), and he assumed that
+angular momentum is quantized. Furthermore, he was not able to say how an
+electron moved when it made a transition from one energy level to another. On
+the other hand, there is no real reason to expect that in the tiny world of the atom
+electro

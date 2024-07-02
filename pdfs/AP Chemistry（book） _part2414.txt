@@ -1,0 +1,19 @@
+the reactant side of the equation.
+The equilibrium constant also allows us to (1) predict the direction in which a reaction 
+mixture achieves equilibrium and (2) calculate equilibrium concentrations of reactants 
+and products.
+Predicting the direction of Reaction
+For the formation of NH3 from N2 and H2 (Equation 15.6), Kc = 0.105 at 472 °C. Suppose 
+we place 2.00 mol of H2, 1.00 mol of N2, and 2.00 mol of NH3 in a 1.00-L container at 
+472 °C. How will the mixture react to reach equilibrium? Will N2 and H2 react to form 
+more NH3, or will NH3 decompose to N2 and H2?
+To answer this question, we substitute the starting concentrations of N2, H2, and NH3 
+into the equilibrium-constant expression and compare its value to the equilibrium constant:
+ 
+3NH342
+3N243H243 =
+12.0022
+11.00212.0023 = 0.500 whereas Kc = 0.105 
+[15.23]
+To reach equilibrium, the quotient 3NH342>3N243H243 must decrease from the starting 
+value of 0.500 to the equilibrium value of 0.105. Because the system is closed, this 

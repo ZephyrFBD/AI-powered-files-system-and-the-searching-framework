@@ -1,0 +1,38 @@
+the new
+sound level?
+RESPONSE The intensity of four trumpets is four times the intensity of one
+trumpet
+or
+The sound level of the four trumpets would be
+since log 4 = 0.60.
+= 6.0 dB  + 75 dB = 81 dB,
+b = 10 log 4I
+1
+I
+0
+= 10 log 4 + 10 log I
+1
+I
+0
+4I
+1 .
+A= I
+1B
+CONCEPTUAL EXAMPLE 12;5
+EXERCISE B From Table 12–2, we see that ordinary conversation corresponds to a
+sound level of about 65 dB. If two people are talking at once, the sound level is 
+(a) 65 dB, (b) 68 dB, (c) 75 dB, (d) 130 dB, (e) 62 dB.
+SECTION 12–2
+Intensity of Sound: Decibels
+333
+P H Y S I C S  A P P L I E D
+Jet plane noise
+FIGURE 12–4 Example 12–6.
+Airport worker with sound-intensity-
+reducing ear covers (headphones).
+Airplane roar. The sound level measured 30 m from a jet
+plane is 140 dB. Estimate the sound level at 300 m. (Ignore reflections from the
+ground.)
+APPROACH Given the sound level, we can determine the intensity at 30 m using
+Eq. 12–1. Because intensity decreases as the square of the distance, ignoring
+reflec

@@ -1,0 +1,15 @@
+d viruses; these changes mean that the viral proteins that interact with cell-surface receptors
+may evolve in such a way that they can bind to receptors in a new host. Such changes happen randomly
+and quite often in the reproductive cycle of a virus, but the changes only matter if a virus with new binding
+properties comes into contact with a suitable host. In the case of influenza, this situation can occur in
+settings where animals and people are in close contact, such as poultry and swine farms. [1] Once a virus
+jumps to a new host, it can spread quickly. Scientists watch newly appearing viruses (called emerging
+viruses) closely in the hope that such monitoring can reduce the likelihood of global viral epidemics.
+What requirements must be met for a new virus to emerge and spread?
+a.
+The virus must infect at least two different animals before infecting humans.
+b.
+The virus must come into contact with a new host so mutations will occur which allow the virus to bind to
+that host.
+c.
+A mu

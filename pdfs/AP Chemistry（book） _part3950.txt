@@ -1,0 +1,28 @@
+The pH is obtained 
+by changing the sign of the value obtained. (Be sure to change 
+the sign after taking the logarithm.)
+ 3H+4 = 0.015
+ log[H+] = -1.82 12 significant figures2
+ pH = -1-1.822 = 1.82
+(2)  
+To obtain the hydrogen ion concentration when given the pH, 
+we must take the antilog of -pH.
+ pH = -log3H+4 = 3.80
+ log3H+4 = -3.80
+ 3H+4 = antilog1-3.802 = 10-3.80 = 1.6 * 10-4 M
+▶ Practice Exercise
+Perform the following operations: 
+(a) log12.5 * 10-52 
+(b) ln 32.7 
+(c) antilog -3.47
+(d) e-1.89
+Sample Exercise 2 
+Using Logarithms
+A.3 | Quadratic Equations
+An algebraic equation of the form ax2 + bx + c = 0 is called a quadratic equation. The two 
+solutions to such an equation are given by the quadratic formula:
+x = -b { 2b2 - 4ac
+2a
+Many calculators today can calculate the solutions to a quadratic equation with one or 
+two keystrokes. Most of the time, x corresponds to the concentration of a chemical spe-
+cies in solution. Only one of the solutions will be a positive number, and tha

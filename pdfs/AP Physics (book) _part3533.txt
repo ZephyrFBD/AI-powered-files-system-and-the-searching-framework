@@ -1,0 +1,27 @@
+gPhysics website.
+912
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation
+30. (II) Verify the Q-value stated for each of the reactions of
+Eqs. 31–6. [Hint: Use Appendix B; be careful with electrons
+(included in mass values except for p, d, t).]
+31. (II) (a) Calculate the energy release per gram of fuel for the
+reactions of Eqs. 31–8a, b, and c. (b) Calculate the energy
+release per gram of uranium 
+in fission, and give its
+ratio to each reaction in (a).
+32. (II) How much energy is released when 
+absorbs a
+slow neutron 
+and becomes 
+33. (II) If a typical house requires 960 W of electric power on
+average, what minimum amount of deuterium fuel would
+have to be used in a year to supply these electrical needs?
+Assume the reaction of Eq. 31–8b.
+34. (II) If 
+is struck by a slow neutron, it can form 
+and
+another nucleus. (a) What is the second nucleus? (This is a
+method of generating this isotope.) (b) How much energy
+is released in the process?
+35. (II) Suppose a fusion reactor ran on “d–

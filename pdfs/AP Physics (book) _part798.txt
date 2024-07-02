@@ -1,0 +1,22 @@
+out 
+(a) How many degrees is this? (b) How small an object can the bird just distin-
+guish when flying at a height of 100 m (Fig. 8–2a)?
+APPROACH For (a) we use the relation 
+For (b) we use Eq.8–1b,
+to find the arc length.
+SOLUTION (a) We convert 
+to degrees:
+(b) We use Eq. 8–1b,
+For small angles, the arc length and the chord
+length are approximately† the same (Fig. 8–2b). Since
+and
+we find
+A bird can distinguish a small mouse (about 3 cm long) from a height of 100 m.
+That is good eyesight.
+NOTE Had the angle been given in degrees, we would first have had to convert
+it to radians to make this calculation. Equations 8–1 are valid only if the angle is
+specified in radians. Degrees (or revolutions) won’t work.
+To describe rotational motion, we make use of angular quantities, such as
+angular velocity and angular acceleration. These are defined in analogy to the
+corresponding quantities in linear motion, and are chosen to describe the rotat-
+ing object as a whole, so they are the same for e

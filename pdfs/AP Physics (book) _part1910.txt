@@ -1,0 +1,28 @@
+t is
+where is the distance between
+the two equal but opposite charges of magnitude Q.]
+A capacitor is a device used to store charge (and electric
+energy), and consists of two nontouching conductors. The two
+conductors hold equal and opposite charges, of magnitude Q.
+The ratio of this charge Q to the potential difference V between
+the conductors is called the capacitance, C:
+(17;7)
+The capacitance of a parallel-plate capacitor is proportional
+to the area A of each plate and inversely proportional to their
+separation d:
+(17;8)
+The space between the two conductors of a capacitor 
+contains a nonconducting material such as air, paper, or plastic.
+These materials are referred to as dielectrics, and the capaci-
+tance is proportional to a property of dielectrics called the
+dielectric constant, K (equal to 1 for air).
+A charged capacitor stores an amount of electric energy
+given by
+(17;10)
+This energy can be thought of as stored in the electric field
+between the plates.
+pe =
+1
+2 QV =
+1
+2 CV2 =

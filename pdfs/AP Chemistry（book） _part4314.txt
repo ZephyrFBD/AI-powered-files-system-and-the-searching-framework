@@ -1,0 +1,21 @@
+ = Kw = 1.0 * 10-14 at 25 °C. (Section 16.3)
+irreversible process A process that leaves the surroundings 
+somehow changed when the system is restored to its original 
+state. (Section 19.1)
+isoelectronic series A series of atoms, ions, or molecules having 
+the same number of electrons. (Section 7.3)
+isomers Compounds whose molecules have the same overall 
+composition but different structures. (Sections 2.9 and 23.4)
+isothermal process A process that occurs at constant 
+temperature. (Section 19.1)
+G-10 
+GLOSSARY
+isotopes Atoms of the same element containing different numbers 
+of neutrons and therefore having different masses. (Section 2.3)
+joule (J) The SI unit of energy, 1 kg@m2>s2. A related unit is the 
+calorie: 4.184 J = 1 cal. (Section 1.5)
+Kelvin scale The SI temperature scale; the SI unit for 
+temperature is the kelvin. Zero on the Kelvin scale corresponds 
+to -273.15 °C. (Section 1.5)
+ketone A compound in which the carbonyl group 1C “O2 occurs 
+at the interior of a carbon chain a

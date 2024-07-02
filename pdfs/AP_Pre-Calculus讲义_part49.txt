@@ -1,0 +1,54 @@
+ term, a2 is called the second term, and in general, an is 
+called the nth term. 
+ 
+2.1.1 Arithmetic Sequences 
+An arithmetic sequence is a sequence of the form 
+a, a + d, a + 2d, a + 3d, a + 4d, ... 
+The number a is the first term, and d is the common difference of the sequence. The 
+nth term of an arithmetic sequence is given by 
+an = a + (n − 1)d 
+ 
+Example 1 
+Find the common difference, the first six terms, the nth term, and the 300th term of the 
+arithmetic sequence 
+13, 7, 1, −5, . . . 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+ 
+66 
+The 11th term of an arithmetic sequence is 52, and the 19th term is 92. Find the 1000th 
+term. 
+ 
+ 
+ 
+ 
+ 
+2.1.2 Geometric Sequences 
+A geometric sequence is a sequence of the form 
+ 
+The number a is the first term, and r is the common ratio of the sequence. The nth term 
+of an arithmetic sequence is given by 
+ 
+ 
+Example 3 
+Find the common ratio, the first term, the nth term, and the 8th term of the geometric 
+sequence 
+5, 15, 45, 135, . . . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

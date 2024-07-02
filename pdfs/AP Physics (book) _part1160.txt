@@ -1,0 +1,17 @@
+ss as a function of time. There is nothing actually rotating
+in a circle when a spring oscillates linearly, but it is the mathematical similarity
+that we find useful.
+Consider a small object of mass m revolving counterclockwise in a circle of
+radius A, with constant speed 
+on top of a table as shown in Fig. 11–7. As
+viewed from above, the motion is a circle in the xy plane. But a person who looks
+at the motion from the edge of the table sees an oscillatory motion back and
+forth, and this one-dimensional motion corresponds precisely to simple harmonic
+motion, as we shall now see.
+What the person sees, and what we are interested in, is the projection of the cir-
+cular motion onto the x axis (Fig. 11–7b). To see that this x motion is analogous to
+SHM, let us calculate the magnitude of the x component of the velocity 
+which
+is labeled v in Fig. 11–7. The two triangles involving in Fig. 11–7a are similar, so
+or
+This is exactly the equation for the speed of a mass oscillating with SHM, as we

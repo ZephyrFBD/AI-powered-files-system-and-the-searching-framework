@@ -1,0 +1,10 @@
+gated ion channels open in response to changes in membrane voltage. After activation, they
+become inactivated for a brief period and will no longer open in response to a signal.
+This video (http://openstaxcollege.org/l/resting_neuron) discusses the basis of the resting membrane potential.
+Resting Membrane Potential
+A neuron at rest is negatively charged: the inside of a cell is approximately 70 millivolts more negative than the outside
+(−70 mV, note that this number varies by neuron type and by species). This voltage is called the resting membrane potential;
+it is caused by differences in the concentrations of ions inside and outside the cell. If the membrane were equally permeable
+to all ions, each type of ion would flow across the membrane and the system would reach equilibrium. Because ions cannot
+simply cross the membrane at will, there are different concentrations of several ions inside and outside the cell, as shown in
+Table 26.1. The difference in the number of positively charge

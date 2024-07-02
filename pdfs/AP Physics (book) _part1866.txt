@@ -1,0 +1,67 @@
+Fig. 17–13a), the capacitance is given by
+[parallel-plate capacitor]
+(17;8)
+We see that C depends only on geometric factors, A and d, and not on Q or V.
+We derive this useful relation in the optional subsection at the end of this Section.
+The constant 
+is the permittivity of free space, which, as we saw in Chapter 16,
+has the value 8.85 * 10–12 C2Nm2.
+ 0
+C =  0
+A
+d
+.
+V
+b - V
+a,
+V
+ba, ¢V,
+Amicrofarad = 10–6 FB.
+103 mF
+Apicofarad = 10–12 FB
+Q = CV.
+ 
+SECTION 17–7
+Capacitance
+483
+C A U T I O N
+difference from here on
+V = potential
+d
+(a)
+(b)
+(c)
+Insulator
+A
+FIGURE 17–13
+Capacitors: diagrams of 
+(a) parallel plate,
+(b) cylindrical (rolled up 
+parallel plate). (c) Photo 
+of some real capacitors.
+EXERCISE E Graphs for charge versus voltage are shown in Fig. 17–15 for three capac-
+itors, A, B, and C. Which has the greatest capacitance?
+12 V
+Q Q
+C
+V
+ 
+ 
+(a)
+(b)
+−
+−
+−
+−
+−
+−
++
++
++
++
++
++
+FIGURE 17–14 (a) Parallel-plate
+capacitor connected to a battery.
+(b) Same circuit shown using
+symb

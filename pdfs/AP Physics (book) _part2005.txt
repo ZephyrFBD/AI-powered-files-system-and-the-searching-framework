@@ -1,0 +1,23 @@
+ugh in fragile compounds.
+To develop 
+superconductors for use as wires (such as for wires in
+“superconducting electromagnets”—Section 20–7), many applications today
+utilize a bismuth-strontium-calcium-copper oxide (BSCCO). A major challenge
+is how to make a useable, bendable wire out of the BSCCO, which is very brittle.
+(One solution is to embed tiny filaments of the 
+superconductor in a metal
+alloy, which is not resistanceless but has resistance much less than a conventional
+copper cable.)
+high-T
+C
+high-T
+C
+A neuron, before transmitting an electrical signal, is in the so-called “resting
+state.” Like nearly all living cells, neurons have a net positive charge on the outer
+surface of the cell membrane and a negative charge on the inner surface.
+This difference in charge, or dipole layer, means that a potential difference 
+exists across the cell membrane. When a neuron is not transmitting a signal, this
+resting potential, normally stated as
+is typically 
+to 
+depending on the type of orga

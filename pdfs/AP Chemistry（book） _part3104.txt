@@ -1,0 +1,20 @@
+21, 19.22
+t Calculate ∆S for a phase change. (Section 19.2) 
+Related Exercises: 19.23, 19.24
+t Explain how the entropy of a system is related to the number of 
+possible microstates. (Section 19.3) Related Exercises: 19.30, 19.31
+t Describe the kinds of molecular motion that a molecule can 
+possess. (Section 19.3) Related Exercise: 19.37
+t Predict the sign of ∆S for physical and chemical processes. (Sec-
+tion 19.3) Related Exercises: 19.35, 19.36, 19.41, 19.42
+t State the third law of thermodynamics. (Section 19.3) 
+Related Exercise: 19.37
+t Compare the values of standard molar entropies. (Section 19.4) 
+Related Exercises: 19.45–19.48
+t Calculate standard entropy changes for a system from standard 
+molar entropies. (Section 19.4) Related Exercises: 19.53, 19.54
+t Calculate the Gibbs free energy from the enthalpy change and 
+entropy change at a given temperature. (Section 19.5) 
+Related Exercises: 19.55–19.58
+t Use free-energy changes to predict whether reactions are spon-
+taneo

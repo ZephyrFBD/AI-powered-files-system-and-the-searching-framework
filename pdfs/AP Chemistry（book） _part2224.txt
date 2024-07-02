@@ -1,0 +1,37 @@
+er than concen-
+tration in this graph. The first half-life occurs at 13,600 s (3.78 h). At a time 
+13,600 s later, the methyl isonitrile pressure (and therefore, concentration) 
+has decreased to half of one-half, or one-fourth, of the initial value.
+ 
+In a first-order reaction, the concentration of the reactant decreases 
+by one-half in each of a series of regularly spaced time intervals, 
+each interval equal to t1>2.
+Go Figure
+At which times during the reaction would 
+you have trouble distinguishing a zero-order 
+reaction from a first-order reaction?
+Time
+[A]
+A0
+First-order reaction
+Zero-order reaction
+Slope = −kt
+▲ Figure 14.9 Comparison of first-order and zero-
+order reactions for the disappearance of reactant A 
+with time.
+t1/2
+t1/2
+10,000
+20,000
+30,000
+0
+37.5
+75
+150
+Time (s)
+Pressure, CH3NC (torr)
+▲ Figure 14.10 Kinetic data for the rearrangement of methyl 
+isonitrile to acetonitrile at 199 °C, showing the half-life of the 
+reaction.
+Give It Some Thought
+If a solution containing 1

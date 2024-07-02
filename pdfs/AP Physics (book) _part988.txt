@@ -1,0 +1,59 @@
+e will
+(a) rise.
+(b) fall.
+(c) neither rise nor fall.
+1.0 m
+3.0 m
+A
+B
+252
+CHAPTER 9
+Static Equilibrium; Elasticity and Fracture
+9–1 and 9–2 Equilibrium
+1. (I) Three forces are applied to a
+tree sapling, as shown in Fig. 9–46,
+to stabilize it. If
+and
+find 
+in magnitude
+and direction.
+F
+B
+C
+F
+B
+B = 475 N,
+F
+B
+A = 385 N
+4. (I) What is the mass of the diver in Fig. 9–49 if she
+exerts a torque of 
+on the board, relative
+to the left (A) support post?
+1800 mN
+Problems
+   C
+   B
+  A
+105°
+?
+F
+B
+F
+B
+F
+B
+FIGURE 9–46
+Problem 1.
+Hip joint
+m
+CG
+FIGURE 9–47 Problem 2.
+2. (I) Calculate the mass m needed in order to suspend the
+leg shown in Fig. 9–47. Assume the leg (with cast) has a
+mass of 15.0 kg, and its CG is 35.0 cm from the hip joint; the
+cord holding the sling is 78.0 cm from the hip joint.
+3. (I) A tower crane (Fig. 9–48a) must always be carefully
+balanced so that there is no net torque tending to tip it.
+A particular crane at a building site is about to lift a 
+2800-kg air-conditioning unit.

@@ -1,0 +1,22 @@
+ey do have one important short-
+coming—the capacity of batteries made from LiMn2O4 is only 
+about two-thirds that of batteries with LiCoO2 cathodes. Scientists 
+and engineers are intensively looking for new materials that will 
+lead to further improvements in the energy density, cost, lifetime, 
+and safety of batteries.
+Related Exercises: 20.10, 20.79, 20.80
+a higher rate of conversion of chemical energy to electrical energy. Voltaic cells that per-
+form this conversion using conventional fuels, such as H2 and CH4, are called fuel cells. 
+Fuel cells are not batteries because they are not self-contained systems—the fuel must be 
+continuously supplied to generate electricity.
+The most common fuel-cell systems involve the reaction of H21g2 and O21g2 to form 
+H2O1l2. These cells can generate electricity twice as efficiently as the best internal com-
+bustion engine. Under acidic conditions, the reactions are
+Cathode:  
+ 
+O21g2 + 4 H+ + 4 e- ¡ 2 H2O1l2
+Anode:  
+ 
+ 
+  2 H21g2 ¡ 4 H+ + 4 e-
+Ov

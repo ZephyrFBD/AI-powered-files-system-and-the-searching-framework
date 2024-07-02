@@ -1,0 +1,90 @@
+chain
+0.290 nm
+H
+C
+C
+C
+C
+N
+C
+H
+N
+N
+N
+O
+N
+H
+H
+H
+H
+O
+N
+C
+H
+C
+C
+H
+C
+N
+N
++
+–
+–
++
+–
++
+–
++
+–
++
+–
+0.300 nm
+0.290 nm
+(b)
+T
+G
+C
+A
+C
+G
+T
+G
+C
+A
+A
+C
+G
+T
+(a)
+C
+T
+A
+G
+C
+A
+T
+T
+A
+A
+T
+G
+FIGURE 16–39 (a) Schematic diagram of a section of DNA
+double helix. (b) “Close-up” view of the helix, showing how 
+A and T attract each other and how G and C attract each other
+through electrostatic forces. The 
+and 
+signs indicated on
+certain atoms represent net charges, usually a fraction of e,
+due to uneven sharing of electrons. The red dots indicate the
+electrostatic attraction (often called a “weak bond” or
+“hydrogen bond”—Section 29–3). Note that there are two
+weak bonds between A and T, and three between C and G.
+–
+±
+460
+CHAPTER 16
+Electric Charge and Electric Field
+The electrostatic force between A and T, and between C and G, exists because
+these molecules have charged parts. These charges are due to some electrons in
+each of these molecules spending more time orbiting one atom than another.
+For example, the el

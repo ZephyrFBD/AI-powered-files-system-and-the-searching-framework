@@ -1,0 +1,61 @@
+olecules.
+We already saw that water (Fig. 16–4) is a polar molecule, and we have encoun-
+tered others in our discussion of molecular biology (Section 16–10). Table 17–2
+gives the dipole moments for several molecules. The 
+and 
+signs indicate on
+which atoms these charges lie. The last two entries are a part of many organic
+molecules and play an important role in molecular biology.
+–
+±
+1 debye = 3.33 * 10–30 Cm.
+(Cm),
+[dipole; r W l]
+V L kp cos u
+r2
+.
+Ql
+[dipole; r W l]
+V L
+kQl cos u
+r2
+.
+¢r
+r W ¢r = l cos u,
+¢r = l cos u;
+r W l.
+r + ¢r
+V =
+kQ
+r
++
+k(–Q)
+r + ¢r
+= kQ a 1
+r -
+1
+r + ¢r b
+= kQ
+¢r
+r(r + ¢r)
+,
+l,
+*
+482
+CHAPTER 17
+Electric Potential
+P H Y S I C S  A P P L I E D
+Dipoles in molecular biology
+P H Y S I C S  A P P L I E D
+Uses of capacitors
+TABLE 17–2 Dipole Moments
+of Selected Molecules
+Dipole Moment 
+Molecule
+‡
+‡
+‡ These last two groups often appear on
+larger molecules; hence the value for the
+dipole moment will vary somewhat,
+depending on the rest of the molecule.
+L 8.0 * 10–30

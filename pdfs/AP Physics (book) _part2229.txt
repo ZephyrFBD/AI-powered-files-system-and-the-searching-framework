@@ -1,0 +1,28 @@
+the field inside the solenoid, and is the length cd. We set 
+equal to 
+times the current enclosed by our chosen rectangular loop: if a current I flows
+in the wire of the solenoid, the total current enclosed by our path abcd is NI,
+where N is the number of loops (or turns) our path encircles (five in Fig. 20–33).
+Thus Ampère’s law gives us
+so
+(20;8 again)
+as we quoted in the previous Section. This is the magnetic field magnitude inside
+a solenoid. B depends only on the number of loops per unit length,
+and the
+current I. The field does not depend on the position within the solenoid, so B is
+uniform inside the solenoid. This is strictly true only for an infinite solenoid, but
+it is a good approximation for real ones at points not close to the ends.
+The direction of the magnetic field inside the solenoid is found by applying
+right-hand-rule-1, Fig. 20–8d (see also Figs. 20–9 and 20–10), and is as shown in
+Fig. 20–33.
+Nl,
+[solenoid]
+B = m0 IN
+l
+,
+Bl = m0 NI,
+m0
+Bl
+l
+AB|| ¢lBcd = Bl,
+SECTIO

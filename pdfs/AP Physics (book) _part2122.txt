@@ -1,0 +1,54 @@
+ecting for meter resistance
+R2
+R1
+R1
+R2
+R1
+R2
+(a)
+V
+a
+b
+c
+(b)
+V
+b
+a
+c
+(c)
+V
+V
+A
+a
+b
+c
+FIGURE 19–33 Measuring current
+and voltage.
+Voltmeter design. Using a galvanometer with internal
+resistance
+and full-scale current sensitivity of 
+design a voltmeter
+that reads from 0 to 15 V. Is the scale linear?
+APPROACH When a potential difference of 15 V exists across the terminals of our
+voltmeter, we want 
+to be passing through it so as to give a full-scale deflection.
+SOLUTION From Ohm’s law,
+we have (Fig. 19–32)
+so
+Notice that 
+is so small compared to the value of 
+that it doesn’t
+influence the calculation significantly. The scale will again be linear: if the volt-
+age to be measured is 6.0 V, the current passing through the voltmeter will be
+or 
+This will produce two-fifths
+of full-scale deflection, as required (6.0 V15.0 V = 25).
+20 mA.
+(6.0 V)A3.0 * 105 B = 2.0 * 10–5 A,
+Rser
+r = 30 
+Rser = (15 V)(5.0 * 10–5 A) - r = 300 k - 30  L  300 k.
+15 V = (50 mA)Ar + RserB,
+V = IR,
+50 mA
+50 

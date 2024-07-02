@@ -1,0 +1,45 @@
+ volume needed to reach the equivalence point. The point 
+in a titration where the indicator changes color is called the end 
+point to distinguish it from the equivalence point that it closely 
+approximates.
+Go Figure
+How does the pH at the equivalence point change as the 
+acid being titrated becomes weaker? How does the volume 
+of NaOH(aq) needed to reach the equivalence point change?
+0
+10
+20
+30
+40
+50
+60
+14
+12
+10
+8
+6
+4
+2
+0
+mL NaOH
+Equivalence point
+Ka = 10−8
+Ka = 10−6
+Ka = 10−4
+Ka = 10−2
+pH
+Strong acid
+Initial pH 
+increases as 
+Ka decreases.
+pH at equivalence 
+point (marked with 
+circles) increases 
+as Ka decreases.
+▲ Figure 17.11 A set of curves showing the effect of acid strength 
+on the characteristics of the titration curve when a weak acid is 
+titrated by a strong base. Each curve represents titration of 50.0 mL 
+of 0.10 M acid with 0.10 M NaOH.
+Figure 17.12 shows the curve for titration of a 
+strong base (NaOH) with a strong acid (HCl). We 
+see from the vertical part of the curv

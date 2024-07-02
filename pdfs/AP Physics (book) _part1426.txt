@@ -1,0 +1,18 @@
+r all gases is a remarkable
+reflection of simplicity in nature. It was first recognized, although in a slightly 
+different form, by the Italian scientist Amedeo Avogadro (1776–1856). Avogadro
+stated that equal volumes of gas at the same pressure and temperature contain
+equal numbers of molecules. This is sometimes called Avogadro’s hypothesis.
+That this is consistent with R being the same for all gases can be seen as follows.
+From Eq. 13–3,
+we see that for the same number of moles, n, and the
+same pressure and temperature, the volume will be the same for all gases as long
+as R is the same. Second, the number of molecules in 1 mole is the same for all
+gases (see page 369). Thus Avogadro’s hypothesis is equivalent to R being the same
+for all gases.
+The number of molecules in one mole of any pure substance is known as
+Avogadro’s number,
+Although Avogadro conceived the notion, he was not
+able to actually determine the value of 
+Indeed, precise measurements were
+not done until the twentieth

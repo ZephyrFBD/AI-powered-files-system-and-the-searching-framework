@@ -1,0 +1,19 @@
+lying the volume of plasmid solution added by the mass
+concentration of the plasmid: 10 μL × 0.005 μg/μL = 0.05 μg. The
+question stem also states that 150 μL of a 600 μL suspension was
+plated, so the total amount of plasmid that was spread on the plate is
+equal to the plasmid mass multiplied by the fraction of the suspension
+that was spread: 0.05 μg × (150 μL/600 μL) = 0.0125 μg of plasmid
+plated.
+Plugging in these values to the equation for transformation eﬀiciency
+gives the following result: 35/0.0125 = 2800 colonies per microgram of
+plasmid. (D) is correct.
+13. A
+Learning Objective: 6.3
+Viral replication allows for mutations, such as those caused by
+environmental factors like UV radiation from the Sun and those
+resulting from mismatches between nitrogenous bases. However, the
+unique method of replication used by RNA viruses does not include the
+error-checking mechanisms that are present in DNA viruses, which can
+undo the eﬀects of mutation. As a result, RNA viruses are observed to
+h

@@ -1,0 +1,44 @@
+10
+0
+0
+Change in  
+concentration (M)
+-4.2 * 10-3
++4.2 * 10-3
++4.2 * 10-3
+Equilibrium  
+concentration (M)
+10.10 - 4.2 * 10-32
+4.2 * 10-3
+4.2 * 10-3
+Notice that we have neglected the very small con-
+centration of H+1aq2 due to H2O autoionization. 
+Notice also that the amount of HCOOH that 
+ionizes is very small compared with the initial con-
+centration of the acid. To the number of significant 
+figures we are using, the subtraction yields 0.10 M:
+10.10 - 4.2 * 10-32 M ≃ 0.10 M
+We can now insert the equilibrium concentrations 
+into the expression for Ka:
+Ka =
+14.2 * 10-3214.2 * 10-32
+0.10
+= 1.8 * 10-4 
+ 
+▶Practice Exercise 2
+Niacin, one of the B vitamins, 
+has the molecular structure 
+shown at the right. A 0.020 M 
+solution of niacin has a pH of 
+3.26. What is the acid-dissocia-
+tion constant for niacin?
+C
+O
+O
+H
+N
+Percent Ionization
+We have seen that the magnitude of Ka indicates the strength of a weak acid. Another 
+measure of acid strength is percent ionization, defined as
+ 
+Percent ion

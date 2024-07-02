@@ -1,0 +1,19 @@
+d of epidemic area Ai in next circle 
+(i=1, 2, …, 14). 
+ TC1j: The total cost of carrying medication from treatment center to 
+epidemic area Aj(j=1, 2, …, 14). 
+ TC2ij: The total cost of carrying medication from epidemic area Ai to 
+epidemic area Aj( i, j=1, 2, …, 14) 
+ T1j: The actual time of carrying medication from treatment center to 
+epidemic area Aj(j=1, 2, …, 14) 
+ T2ij: The time of each vehicle every time carrying medication from 
+epidemic area Ai to epidemic area Aj( i, j=1, 2, …, 14) 
+ y1j: The quantity of medication carried from treatment center to epidemic 
+area Aj(j=1, 2, …, 14) 
+ y2ij: The quantity of medication carried from epidemic area Ai to 
+epidemic area Aj( i, j=1, 2, …, 14) 
+3.5.2.2 Assumptions 
+1) There is only one treatment center in every country, and vaccines and 
+Team   #37232                                                              Page 14 of 22   
+drugs are distributed from the center to the epidemic areas. 
+2) We choose the cities which have been 

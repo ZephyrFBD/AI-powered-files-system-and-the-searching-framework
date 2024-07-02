@@ -1,0 +1,20 @@
+because the box remains
+at rest  
+Newton’s second law gives
+We solve this equation for the normal force:
+which is greater than in (a). The table pushes back with more force when a person
+pushes down on the box. The normal force is not always equal to the weight!
+(c) The box’s weight is still 98.0 N and acts downward. The force exerted by
+your friend and the normal force both act upward (positive direction), as shown
+in Fig. 4–15c. The box doesn’t move since your friend’s upward force is less 
+than the weight. The net force, again set to zero in Newton’s second law because
+is
+so
+The table does not push against the full weight of the box because of the upward
+force exerted by your friend.
+NOTE The weight of the box 
+does not change as a result of your friend’s
+push or pull. Only the normal force is affected.
+Recall that the normal force is elastic in origin (the table in Fig. 4–15 sags
+slightly under the weight of the box). The normal force in Example 4–6 is verti-
+cal, perpendicular to 

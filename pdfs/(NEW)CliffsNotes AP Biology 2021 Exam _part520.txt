@@ -1,0 +1,13 @@
+synaptic cleft.
+3. Neurotransmitter binds with postsynaptic receptors. The neurotransmitter diffuses across the synaptic cleft
+and binds with receptor proteins on the postsynaptic membrane. Different proteins are receptors for different
+neurotransmitters.
+4. The postsynaptic membrane is excited or inhibited. Depending upon the kind of neurotransmitter and the kind
+of membrane receptors, there are two possible outcomes for the postsynaptic membrane.
+If Na+gates open, the membrane becomes depolarized and results in an excitatory postsynaptic potential (EPSP).
+If the threshold potential is exceeded, an action potential is generated.
+If K + or Cl−gates open, the membrane becomes more polarized (hyperpolarized) and results in an inhibitory
+postsynaptic potential (IPSP). As a result, it becomes more difficult to generate an action potential on this
+membrane.
+5. The neurotransmitter is degraded and recycled. After the neurotransmitter binds to the postsynaptic membrane
+receptors, it is broken

@@ -1,0 +1,16 @@
+ 8.2-megapixel camera has a detector with 8,200,000 pixels
+(individual “picture elements”).
+In common usage,
+is called 1micron.
+Systems of Units
+When dealing with the laws and equations of physics it is very important to use a
+consistent set of units. Several systems of units have been in use over the years.
+Today the most important is the Système International (French for International
+System), which is abbreviated SI. In SI units, the standard of length is the meter,
+the standard for time is the second, and the standard for mass is the kilogram.
+This system used to be called the MKS (meter-kilogram-second) system.
+A second metric system is the cgs system, in which the centimeter, gram, and
+second are the standard units of length, mass, and time, as abbreviated in the title.
+The British engineering system (although more used in the U.S. than Britain) has 
+as its standards the foot for length, the pound for force, and the second for time.
+We use SI units almost exclusively in this book

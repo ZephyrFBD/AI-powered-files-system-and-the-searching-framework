@@ -1,0 +1,25 @@
+he transmission
+lines have a total resistance of 
+Calculate the power loss if the power is
+transmitted at (a) 240 V and (b) 24,000 V.
+APPROACH We cannot use 
+because if R is the resistance of the
+transmission lines, we don’t know the voltage drop along them. The given voltages
+are applied across the lines plus the load (the town). But we can determine the
+current I in the lines 
+and then find the power loss from
+for
+both cases (a) and (b).
+SOLUTION (a) If 120 kW is sent at 240 V, the total current will be
+The power loss in the lines,
+is then
+Thus, over 80% of all the power would be wasted as heat in the power lines!
+(b) If 120 kW is sent at 24,000 V, the total current will be
+The power loss in the lines is then
+which is less than
+of 1%: a far better efficiency.
+NOTE We see that the higher voltage results in less current, and thus less
+power is wasted as heat in the transmission lines. It is for this reason that power
+is usually transmitted at very high voltages, as high as 700 kV.
+1
+10

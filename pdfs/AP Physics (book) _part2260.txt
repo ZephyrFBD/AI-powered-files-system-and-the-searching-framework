@@ -1,0 +1,38 @@
+ path the charged particle will take.
+17. A charged particle moves in a straight line through a partic-
+ular region of space. Could there be a nonzero magnetic field
+in this region? If so, give two possible situations.
+18. If a moving charged particle is deflected sideways in some
+region of space, can we conclude, for certain, that 
+in that region? Explain.
+19. Two insulated long wires carrying equal currents I cross at
+right angles to each other. Describe the magnetic force one
+exerts on the other.
+B
+B Z 0
+I
+A
+B
++
+v
+B
+a
+e
+b
+d
+c
+FIGURE 20–49
+Question 12.
+12. A positively charged particle in a nonuniform magnetic
+field follows the trajectory shown in Fig. 20–49. Indicate
+the direction of the magnetic field at points near the path,
+assuming the path is always in the plane of the page, and
+indicate the relative magnitudes of the field in each region.
+Explain your answers.
+(a)
+(b)
+(c)
+(d)
+(e) None of these.
+*23. Two ions have the same mass, but one is singly ionized and
+the other is doubly

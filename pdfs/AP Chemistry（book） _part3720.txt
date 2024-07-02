@@ -1,0 +1,13 @@
+e repulsion from the 
+ligands and, therefore, do not all have the same energy under the influence of the octa-
+hedral crystal-field. To see why, we must consider the shapes of the d orbitals and how 
+their lobes are oriented relative to the ligands.
+Figure 23.28 shows that the lobes of the dz2 and dx2 - y2 orbitals are directed along 
+the x-, y-, and z-axes and so point directly toward the ligand point charges. The lobes of 
+the dxy, dxz, and dyz orbitals, however, are directed between the axes and so do not point 
+directly toward the charges. The result of this difference in orientation—dx2 - y2 and dz2 
+lobes point directly toward the ligand charges; dxy, dxz, and dyz lobes do not—is that an 
+electron residing in either the dx2 - y2 or dz2 orbitals feels more repulsion from the nega-
+tively charged ligands. Hence the energy of the dx2 - y2 and dz2 orbitals is higher than the 
+energy of the dxy, dxz, and dyz orbitals. This difference in energy is represented by the red 
+boxes in the e

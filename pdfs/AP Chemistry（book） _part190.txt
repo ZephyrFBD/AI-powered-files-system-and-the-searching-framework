@@ -1,0 +1,24 @@
+ in Figure 1.26. From the data provided, 
+calculate the density of the gas at 25 °C.
+SOLUTION
+To calculate the density, we must know both the mass and the 
+volume of the gas. The mass of the gas is just the difference in the 
+masses of the full and empty container:
+837.63 g
+-836.25 g
+1.38 g
+In subtracting numbers, we determine the number of significant 
+figures in our result by counting decimal places in each quantity. 
+ 
+▶Practice Exercise 1
+You are asked to determine the mass of a piece of copper using its 
+reported density, 8.96 g/mL, and a 150-mL graduated cylinder. 
+First, you add 105 mL of water to the graduated cylinder; then 
+you place the piece of copper in the cylinder and record a volume 
+of 137 mL. What is the mass of the copper reported with the cor-
+rect number of significant figures? (a) 287 g (b) 3.5 * 10-3 g/mL 
+(c) 286.72 g/mL (d) 3.48 * 10-3 g/mL (e) 2.9 * 102 g/mL
+ 
+▶Practice Exercise 2
+If the mass of the container in the sample exercise (Figure 1.26) 
+were measured

@@ -1,0 +1,78 @@
+er in the rest of the circuit are unaffected.
+R = rl
+A,
+Req = 2 .
+1
+Req
+=
+1
+4  +
+1
+4  =
+2
+4  =
+1
+2 
+,
+4-
+4-
+1
+Req
+=
+1
+R1
++ 1
+R2
++ 1
+R3
+.
+V
+Req
+=
+V
+R1
++ V
+R2
++ V
+R3
+.
+I = I
+1 + I
+2 + I
+3 ,
+I =
+V
+Req
+.
+Req
+SECTION 19–2
+Resistors in Series and in Parallel
+529
++
+–
+(1) Series
+(2) Parallel
+12 V
++
+–
+12 V
+FIGURE 19–5 Example 19–2.
+EXERCISE A You have a 
+and a 
+resistor. What is the smallest and largest
+equivalent resistance that you can make with these two resistors?
+15-
+10-
+Series or parallel? (a) The lightbulbs in
+Fig. 19–5 are identical. Which configuration produces more light? (b) Which way
+do you think the headlights of a car are wired? Ignore change of filament
+resistance R with current.
+RESPONSE (a) The equivalent resistance of the parallel circuit is found from
+Eq. 19–4,
+Thus
+The parallel com-
+bination then has lower resistance 
+than the series combination
+There will be more total current in the parallel configu-
+ration (2), since 
+and V is the same for both circuits. The tot

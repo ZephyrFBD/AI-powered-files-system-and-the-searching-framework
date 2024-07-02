@@ -1,0 +1,35 @@
+ve period π : 
+tan(x + π ) = tan x 
+We first sketch the graph of tangent. Since it has period π, we need to only sketch the 
+graph on any interval of length π and then repeat the pattern to the left and to the right.  
+We sketch the graph on the interval (-π/2, π/2) 
+Since tan(π/2)  and tan(-π/2) are not defined, we need to be careful in sketching the graph 
+at points near -π/2 and π/2. 
+Thus, the graph of y = tan x approaches the vertical lines  
+ and 
+.
+2
+2
+x
+x
+p
+p
+=
+= -
+ 
+So these lines are vertical asymptotes. 
+With the information we have so far, we sketch the graph of y = tan x on the interval (-π/2, 
+π/2). 
+ 
+The complete graph of tangent is now obtained by using the fact that tangent is periodic 
+with period π. 
+ 
+ 
+ 
+ 
+123 
+3.4.2 Transformations of Graphs of Tangent 
+We now consider graphs of transformations of the tangent functions. 
+Since the tangent functions have period , the functions y = a tan kx (k > 0), complete one 
+period as kx varies from 0 to . 
+The functions y =

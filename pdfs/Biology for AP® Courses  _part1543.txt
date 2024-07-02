@@ -1,0 +1,38 @@
+in these
+cells can be inhibited by drugs during cancer therapy, then the cancerous cells could potentially be stopped from further
+division.
+Difference between Prokaryotic and Eukaryotic Replication
+Property
+Prokaryotes
+Eukaryotes
+Origin of replication
+Single
+Multiple
+Rate of replication
+1000 nucleotides/s
+50 to 100 nucleotides/s
+DNA polymerase types
+5
+14
+Telomerase
+Not present
+Present
+RNA primer removal
+DNA pol I
+RNase H
+Strand elongation
+DNA pol III
+Pol δ, pol ε
+Sliding clamp
+Sliding clamp
+PCNA
+Table 14.2
+14.6 | DNA Repair
+In this section, you will explore the following questions:
+•
+What are different types of mutations in DNA and the significance of mutations?
+•
+What are examples of mechanisms that repair mutations in DNA?
+Connection for AP® Courses
+DNA polymerase is an efficient enzyme but it can make mistakes while adding nucleotides during replication. It edits the
+DNA by proofreading every newly added base. An incorrect base is removed and replaced by the correct base. If a base

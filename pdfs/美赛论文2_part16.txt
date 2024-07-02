@@ -1,0 +1,75 @@
+nnection between θ and t is linear. 
+( θ(t)=k*t ) 
+3) When people are vaccinated, they will never be infected and then they 
+belong to Type R. 
+4) If the peak of infective rate is under 0.2, the epidemic situation can be 
+under control. 
+3.2.2 The Process of the Model 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.3 The Foundation of Model 
+{
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N dI(t)
+dt
+= λ(1 −θ(t))NS(t)I(t) −μNI(t)
+N dS(t)
+dt
+= −λ(1 −θ(t))NS(t)I(t) −θNS(t)
+N dR(t)
+dt
+= μNI(t) + θNS(t)
+dθ(t)
+dt
+= k
+ 
+S(t) + I(t) + R(t) = 1
+ 
+ 
+Then : 
+{
+ 
+ 
+ 
+ 
+ 
+ dI(t)
+dt
+= λ(1 −θ)S(t)I(t) −μI(t), I(0) = I0
+dS(t)
+dt
+= −λ(1 −θ)S(t)I(t) −θS(t), S(0) = S0
+dθ(t)
+dt
+= k
+ 
+ 
+Since we assume that if the peak of infective rate is under 0.2, the epidemic 
+situation can be under control, then k=0.00011. 
+3.2.4 Solution and Result 
+S(t) 
+I(t) 
+R(t) 
+λ(1 −θ(t))S(t)I(t) 
+μI(t) 
+θ(t)S(t) 
+Team   #37232                                                              Page 7 of 22   
+ 
+Figure 3 
+ 
+ 
+3.2.5 Analysis of the Result 
+When we vaccinate people in the ep

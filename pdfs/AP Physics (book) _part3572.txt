@@ -1,0 +1,16 @@
+r a distance, we used the idea
+of a field. The force that one charged particle exerts on a second can be said to be
+due to the electric field set up by the first. Similarly, the magnetic field can be
+said to carry the magnetic force. Later (Chapter 22), we saw that electromagnetic
+(EM) fields can travel through space as waves. Finally, in Chapter 27, we saw that
+electromagnetic radiation (light) can be considered as either a wave or as a
+collection of particles called photons. Because of this wave–particle duality, it is
+possible to imagine that the electromagnetic force between charged particles is
+due to
+(1) the EM field set up by one charged particle and felt by the other, or
+(2) an exchange of photons (
+particles) between them.
+It is (2) that we want to concentrate on here, and a crude analogy for how an
+exchange of particles could give rise to a force is suggested in Fig. 32–7. In part (a),
+two children start throwing heavy pillows at each other; each throw and each
+catch results 

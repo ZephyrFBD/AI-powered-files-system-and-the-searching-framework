@@ -1,0 +1,20 @@
+hat move out from a source in all direc-
+tions, such as sound from a loudspeaker or earthquake waves through the Earth,
+are three-dimensional waves.
+1
+1–9 Energy Transported by Waves
+Waves transport energy from one place to another. As waves travel through a
+medium, the energy is transferred as vibrational energy from particle to particle
+of the medium. For a sinusoidal wave of frequency f, the particles move in SHM
+as a wave passes, so each particle has an energy
+where A is the
+amplitude of its motion, either transversely or longitudinally. See Eq. 11–4a.
+Thus, we have the important result that the energy transported by a wave is
+proportional to the square of the amplitude. The intensity I of a wave is defined
+as the power (energy per unit time) transported across unit area perpendicular 
+to the direction of energy flow:
+The SI unit of intensity is watts per square meter 
+Since the energy is
+proportional to the wave amplitude squared, so too is the intensity:
+(11;15)
+If a wave flows o

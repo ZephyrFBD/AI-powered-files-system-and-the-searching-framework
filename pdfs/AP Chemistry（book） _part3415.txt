@@ -1,0 +1,15 @@
+
+Nuclear Reactors
+Nuclear power plants use nuclear fission to generate energy. The core of a typical nuclear 
+reactor consists of four principal components: fuel elements, control rods, a moder-
+ator, and a primary coolant (Figure 21.19). The fuel is a fissionable substance, such as 
+uranium-235. The natural isotopic abundance of uranium-235 is only 0.7%, too low to 
+sustain a chain reaction in most reactors. Therefore, the 235U content of the fuel must be 
+926 
+CHAPTER 21 Nuclear Chemistry
+enriched to 3–5% for use in a reactor. The fuel elements contain enriched uranium in the 
+form of UO2 pellets encased in zirconium or stainless steel tubes.
+The control rods are composed of materials that absorb neutrons, such as boron-10 or 
+an alloy of silver, indium, and cadmium. These rods regulate the flux of neutrons to keep 
+the reaction chain self-sustaining and also prevent the reactor core from overheating.*
+The probability that a neutron will trigger fission of a 235U nucleus depends on t

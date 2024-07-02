@@ -1,0 +1,26 @@
+ose that you wish to construct a telescope that can
+resolve features 6.5 km across on the Moon, 384,000 km
+away. You have a 2.0-m-focal-length objective lens whose
+diameter is 11.0 cm. What focal-length eyepiece is needed
+if your eye can resolve objects 0.10 mm apart at a distance
+of 25 cm? What is the resolution limit set by the size of the
+objective lens (that is, by diffraction)? Use
+*25–11 X-Ray Diffraction
+*60. (II) X-rays of wavelength 0.138 nm fall on a crystal whose
+atoms, lying in planes, are spaced 0.285 nm apart. At what
+angle 
+(relative to the surface, Fig.25–38) must the X-rays be
+directed if the first diffraction maximum is to be observed?
+f
+l = 560 nm.
+l = 560 nm.
+f
+f
+f
+f
+*61. (II) First-order Bragg diffraction is observed at 23.8° rela-
+tive to the crystal surface, with spacing between atoms of
+0.24 nm. (a) At what angle will second order be observed?
+(b) What is the wavelength of the X-rays?
+*62. (II) If X-ray diffraction peaks corresponding to the first
+three orde

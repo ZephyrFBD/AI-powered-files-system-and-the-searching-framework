@@ -1,0 +1,10 @@
+g two diagrams show the trp operon when tryptophan is absent (C) and when tryptophan is present (D).
+Post-transcriptional regulation occurs when the cell creates an RNA, but then decides that it should not be
+translated into a protein. This is where RNAi comes into play. RNAi molecules can bind to an RNA via
+complementary base pairing. This creates a double-stranded RNA (remember RNA is usually single stranded).
+When a double-stranded RNA is formed, this signals to some special destruction machinery that the RNA should be
+destroyed. This would prevent it from going on to be translated.
+Post-translational regulation can also occur if a cell has already made a protein, but doesn’t yet need to use it. This
+is an especially common regulation for enzymes because when the cell needs them, it needs them ASAP. It is easier
+to make them ahead of time and then just turn them on or off as needed. This can involve binding with other
+proteins, phosphorylation, pH changes, cleavage, etc. Remember, e

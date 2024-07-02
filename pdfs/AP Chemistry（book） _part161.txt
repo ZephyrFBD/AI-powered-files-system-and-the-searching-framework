@@ -1,0 +1,13 @@
+ other reference, determine which of these elements 
+Derived SI Units
+The SI base units are used to formulate derived units. A derived unit is obtained by multipli-
+cation or division of one or more of the base units. We begin with the defining equation for 
+a quantity and, then substitute the appropriate base units. For example, speed is defined as 
+the ratio of distance traveled to elapsed time. Thus, the derived SI unit for speed is the SI unit 
+for distance (length), m, divided by the SI unit for time, s, which gives m/s, read “meters per 
+second.” Two common derived units in chemistry are those for volume and density.
+Volume
+The volume of a cube is its length cubed, length3. Thus, the derived SI unit of volume is 
+the SI unit of length, m, raised to the third power. The cubic meter, m3, is the volume of a 
+cube that is 1 m on each edge (Figure 1.20). Smaller units, such as cubic centimeters, cm3 
+(sometimes written cc), are frequently used in chemistry. Another volume unit used in

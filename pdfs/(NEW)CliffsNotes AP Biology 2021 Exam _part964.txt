@@ -1,0 +1,24 @@
+the plotted curve between 0 and 2 seconds. Since the plot is a straight line over
+this interval, the rate of the reaction is constant and the slope at any point along this portion of the line will provide
+the rate. For the entire interval from 0 to 2 seconds, the slope, determined by the change in product formed divided
+by the
+change in time, is
+ 
+.
+ 
+4. Answer: 1.6 (acceptable range: 1.5-1.6)
+ 
+The energy taken in by producers is 20,950 kcal and that taken in by carnivores is 328 kcal. The fraction of
+carnivores obtained from producers is
+ 
+. Converted to a percent, 0.0157 × 100 =
+1.6%.
+5. Answer: 273
+The question gives the allele frequency of the recessive (white) allele, so q = 0.3. Since the population is in Hardy-
+Weinberg equilibrium, p + q = 1 or
+ 
+p = 1 − q = 1 − 0.3 = 0.7
+ 
+Then, the frequency of the white individuals is q2, or 0.09, and the frequency of remaining black individuals must be
+1 − 0.09 = 0.91. (The
+frequency of the black individuals can also be calculated from p2 

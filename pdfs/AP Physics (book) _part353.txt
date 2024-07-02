@@ -1,0 +1,67 @@
+ ground by
+the person is 
+By Newton’s third law
+(4;2)
+and 
+have the same magnitude (Newton’s third law), and the minus sign
+reminds us that these two forces are in opposite directions.
+Note carefully that the two forces shown in Fig. 4–11 act on different
+objects—to emphasize this we used slightly different colors for the vector arrows
+representing these forces. These two forces would never appear together in a 
+sum of forces in Newton’s second law,
+Why not? Because they act on
+different objects:
+is the acceleration of one particular object, and 
+must
+include only the forces on that one object.
+©F
+B
+a
+B
+©F
+B = ma
+B.
+F
+B
+PG
+F
+B
+GP
+F
+B
+GP =
+–F
+B
+PG.
+F
+B
+GP.
+F
+B
+PG.
+CONCEPTUAL EXAMPLE 4;4
+82
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+NEWTON’S THIRD LAW 
+OF MOTION
+Horizontal
+force exerted
+on the ground
+by person’s
+foot
+Horizontal
+force exerted
+on the
+person’s foot
+by the ground
+GP
+PG
+F
+B
+F
+B
+FIGURE 4;11 We can walk forward
+because, when one foot pushes
+backward against the ground, the
+gro

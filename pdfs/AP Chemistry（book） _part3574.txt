@@ -1,0 +1,26 @@
+rbon (compared with either N or O), 
+however, the carbon nonbonding pair is not held as strongly as that on N or O. Conse-
+quently, CO is better able to function as a Lewis base than is N2; for example, CO can coor-
+dinate its nonbonding pair to the iron of hemoglobin, displacing O2, but N2 cannot.
+Carbon monoxide has several commercial uses. Because it burns readily, forming 
+CO2, it is employed as a fuel:
+ 
+2 CO1g2 + O21g2 ¡ 2 CO21g2  ∆H° = -566 kJ 
+[22.53]
+Carbon monoxide is an important reducing agent, widely used in metallurgical opera-
+tions to reduce metal oxides, such as the iron oxides:
+ 
+Fe3O41s2 + 4 CO1g2 ¡ 3 Fe1s2 + 4 CO21g2 
+[22.54]
+Carbon dioxide is produced when carbon-containing substances are burned in excess 
+oxygen, such as in this reaction involving ethanol:
+ 
+C2H5OH1l2 + 3 O21g2 ¡ 2 CO21g2 + 3 H2O1g2 
+[22.55]
+It is also produced when many carbonates are heated:
+ 
+CaCO31s2 ¡
+∆
+CaO1s2 + CO21g2 
+[22.56]
+The properties of graphite are anisotropic; that is, they differ 

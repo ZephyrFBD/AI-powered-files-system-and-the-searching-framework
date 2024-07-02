@@ -1,0 +1,23 @@
+n by 3 to obtain a balanced equa-
+tion, we do not multiply the E°
+red value by 3. 
+As we have noted, the standard reduction 
+potential is an intensive property and so is in-
+dependent of the stoichiometric coefficients.
+For each half-cell in a voltaic cell, the standard reduction potential provides a 
+ 
+measure of the tendency for reduction to occur: The more positive the value of E°
+red, the 
+greater the tendency for reduction under standard conditions. In any voltaic cell operating 
+under standard conditions, the E°
+red value for the reaction at the cathode is more posi-
+tive than the E°
+red value for the reaction at the anode. Thus, electrons flow spontaneously 
+through the external circuit from the electrode with the more negative value of E°
+red to 
+the electrode with the more positive value of E°
+red. Figure 20.10 graphically illustrates the 
+relationship between the standard reduction potentials for the two half-reactions in the 
+Zn–Cu voltaic cell of Figure 20.5. 
+More
+negative

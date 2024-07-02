@@ -1,0 +1,14 @@
+mes
+In Chapters 5 and 8 we examined the motion of objects, including circular and
+rotational motion, from the outside, as observers fixed on the Earth. Sometimes
+it is convenient to place ourselves (in theory, if not physically) into a reference
+frame that is rotating. Let us examine the motion of objects from the point of
+view, or frame of reference, of persons seated on a rotating platform such as a
+merry-go-round. It looks to them as if the rest of the world is going around them.
+But let us focus on what they observe when they place a tennis ball on the floor of
+the rotating platform, which we assume is frictionless. If they put the ball down
+gently, without giving it any push, they will observe that it accelerates from rest
+and moves outward as shown in Fig. C–1a. According to Newton’s first law, an
+object initially at rest should stay at rest if no net force acts on it. But, according
+to the observers on the rotating platform, the ball starts moving even though
+there is no net for

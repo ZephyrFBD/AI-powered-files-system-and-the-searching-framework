@@ -1,0 +1,15 @@
+ays leave a single point 
+on the object. After reflection from a (small)
+mirror, the point at which these rays cross is the image point 
+All other rays
+from the same object point will also pass through this image point. To find the
+image point for any object point, only these three types of rays need to be drawn.
+Only two of these rays are needed, but the third serves as a check.
+We have shown the image point in Fig. 23–15 only for a single point on the
+object. Other points on the object are imaged nearby. For instance, the bottom of
+the arrow, on the principal axis at point O, is imaged on the axis at point I. So a
+complete image of the object is formed (dashed arrow in Fig. 23–15c). Because the
+light actually passes through the image, this is a real image that will appear on a
+white surface or film placed there. This can be compared to the virtual image
+formed by a plane mirror (the light does not pass through that image, Fig. 23–7).
+The image in Fig. 23–15 can be seen by the eye onl

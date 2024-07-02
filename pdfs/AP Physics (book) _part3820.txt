@@ -1,0 +1,74 @@
+lutions; a third-order equation—involving
+—has three solutions; and so on.
+A–5 The Binomial Expansion
+Sometimes we end up with a quantity of the form 
+That is, the quantity
+is raised to the nth power. This can be written as an infinite sum of 
+terms known as the binomial expansion:
+(A;5)
+This formula is useful for us mainly when x is very small compared to one
+In this case, each successive term is much smaller than the preceding
+(x V 1).
+(1 + x)n = 1 + nx +
+n(n - 1)
+2
+x2 + p.
+(1 + x)
+(1 + x)n.
+x3
+Ab2 - 4acB
+3b2 - 4ac
+b2
+x = – 1
+3 .
+x = 2
+x =
+±5 - 325 - (4)(3)(–2)
+(2)(3)
+= 5 - 7
+6
+=
+– 1
+3
+.
+x =
+±5 + 325 - (4)(3)(–2)
+(2)(3)
+= 5 + 7
+6
+= 2
+c = –2.
+b = –5,
+a = 3,
+3x2 - 5x - 2 = 0.
+ax2 + bx + c = 0
+3x2 - 5x = 2.
+EXAMPLE A;4
+P
+x =
+–b P3b2 - 4ac
+2a
+.
+ax2 + bx + c = 0.
+A-6
+APPENDIX A
+Mathematical Review
+†Or one or more of them could be variables, in which case additional equations are needed.
+θ1
+θ2
+θ3
+φ1
+φ2
+φ3
+a1
+a2
+a3
+b1
+b2
+b3
+θ
+θ
+term. For example, let
+and 
+Then whereas the first term 
+equals

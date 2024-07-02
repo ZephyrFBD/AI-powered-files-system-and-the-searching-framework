@@ -1,0 +1,22 @@
+angular acceleration of the door is proportional 
+not only to the magnitude of the force, but is also directly proportional to 
+the perpendicular distance from the axis of rotation to the line along which the
+force acts. This distance is called the lever arm, or moment arm, of the force,
+and is labeled 
+and 
+for the two forces in Fig. 8–10. Thus, if 
+in Fig. 8–10
+is three times larger than 
+then the angular acceleration of the door will be
+three times as great, assuming that the magnitudes of the forces are the same.
+To say it another way, if 
+then 
+must be three times as large as 
+to
+give the same angular acceleration. (Figure 8–11 shows two examples of tools
+whose long lever arms are very effective.)
+The angular acceleration, then, is proportional to the product of the force
+times the lever arm. This product is called the moment of the force about the 
+axis, or, more commonly, it is called the torque, and is represented by 
+(Greek
+lowercase letter tau). Thus, the angular acceleration

@@ -1,0 +1,32 @@
+COOH + H2O ∆
+ 
+ 
++H3N¬CH2¬COOH + OH-  Kb = 6.0 * 10-5
+ 
+ (a)   
+Use the values of Ka and Kb to estimate the equilibrium 
+constant for the intramolecular proton transfer to form 
+a zwitterion:
+ 
+ 
+H2N ¬CH2¬ COOH ∆ +H3N ¬ CH2¬ COO-
+ 
+ (b)  
+What is the pH of a 0.050 M aqueous solution of glycine?
+ 
+ (c)   
+What would be the predominant form of glycine in a 
+solution with pH 13? With pH 1?
+ 16.115  The pKb of water is _______.
+ 
+ (a) 1  (b) 7  (c) 14  (d) not defined  (e) none of the above
+ 16.113  
+Many moderately large organic molecules containing basic 
+nitrogen atoms are not very soluble in water as neutral mol-
+ecules, but they are frequently much more soluble as their 
+acid salts. Assuming that pH in the stomach is 2.5, indicate 
+whether each of the following compounds would be pres-
+ent in the stomach as the neutral base or in the protonated 
+form: nicotine, Kb = 7 * 10-7; caffeine, Kb = 4 * 10-14; 
+strychnine, Kb = 1 * 10-6; quinine, Kb = 1.1 * 10-6.
+ 16.114  The amino acid glycin

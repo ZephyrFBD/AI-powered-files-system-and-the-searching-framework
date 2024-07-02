@@ -1,0 +1,19 @@
+tals are in this subshell? (c) Indicate 
+the values of ml for each of these orbitals.
+three possible values of ml: 1, 0, -1). There are five 4d orbitals 
+(when l = 2, there are five allowed values of ml: 2, 1, 0, -1, -2). 
+There are seven 4f  
+orbitals (when l = 3, there are seven permitted 
+values of ml: 3, 2, 1, 0, -1, -2, -3).
+ 
+SECTION 6.6  Representations of Orbitals 
+231
+6.6 ∣ Representations of Orbitals
+So far we have emphasized orbital energies, but the wave function also provides infor-
+mation about an electron’s probable location in space. Let’s examine the ways in which 
+we can picture orbitals, because their shapes help us visualize how the electron density is 
+distributed around the nucleus.
+The s Orbitals
+We have already seen one representation of the lowest-energy orbital of the hydrogen 
+atom, the 1s (Figure 6.17). The first thing we notice about the electron density for the 1s 
+orbital is that it is spherically symmetric—in other words, the electron density at a given 

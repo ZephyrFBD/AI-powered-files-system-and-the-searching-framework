@@ -1,0 +1,18 @@
+,
+is related to the (non-relativistic) kinetic energy 
+by
+Thus
+The surface inter-atomic spacing is
+NOTE Experiments of this type verify both the wave nature of electrons and
+the orderly array of atoms in crystalline solids.
+What Is an Electron?
+We might ask ourselves: “What is an electron?” The early experiments of 
+J. J. Thomson (Section 27–1) indicated a glow in a tube, and that glow moved when
+a magnetic field was applied. The results of these and other experiments were best
+interpreted as being caused by tiny negatively charged particles which we now call
+electrons. No one, however, has actually seen an electron directly. The drawings we
+sometimes make of electrons as tiny spheres with a negative charge on them are
+merely convenient pictures (now recognized to be inaccurate). Again we must rely
+on experimental results, some of which are best interpreted using the particle
+model and others using the wave model. These models are mere pictures that we
+use to extrapolate from the macro

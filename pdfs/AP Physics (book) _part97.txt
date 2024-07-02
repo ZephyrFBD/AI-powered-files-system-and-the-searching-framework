@@ -1,0 +1,55 @@
+n look up most conver-
+sion factors in the Table inside the front cover.
+= 88 km
+h
+.
+ 
+55 mi
+h
+=
+¢ 55 mi
+h ≤¢1.609 km
+mi ≤
+1 mi = 1609 m = 1.609 km;
+= 25 m
+s ,
+ 
+55 mi
+h
+=
+¢ 55 mi
+h ≤¢1609 m
+mi ≤¢ 1 h
+3600 s ≤
+= 1609 m.
+ 
+1 mi = (5280 ft ) ¢12 in.
+ft ≤¢2.54 cm
+in. ≤¢
+1 m
+100 cm ≤
+(60 minh) * (60 smin) = 3600 sh.
+1 in. = 2.54 cm,
+(kmh)?
+(ms)
+mih
+EXAMPLE 1;5
+EXERCISE D Return to the first Chapter-Opening Question, page 1, and answer it
+again now. Try to explain why you may have answered differently the first time.
+EXERCISE E Would a driver traveling at 
+in a 
+zone be exceeding the
+speed limit? Why or why not?
+35 mih
+15 ms
+When changing units, you can avoid making an error in the use of conver-
+sion factors by checking that units cancel out properly. For example, in our
+conversion of 1 mi to 1609 m in Example 1–5(a), if we had incorrectly used the
+factor 
+instead of 
+the centimeter units would not have cancelled
+out; we would not have ended up with meters.
+A 1 m
+100 cmB,
+A100 cm
+1

@@ -1,0 +1,14 @@
+c” factors such as the size, shape, number of turns, and
+relative positions of the two coils, and also on whether iron (or other ferromagnetic
+material) is present. For example, the farther apart the two coils are in Fig. 21–35,
+the fewer lines of flux can pass through coil 2, so M will be less. If we consider the
+inverse situation—a changing current in coil 2 inducing an emf in coil 1—the
+proportionality constant, M, turns out to have the same value,
+(21;8b)
+A transformer is an example of mutual inductance in which the coupling is
+maximized so that nearly all flux lines pass through both coils. Mutual inductance
+has other uses as well, including inductive charging of cell phones, electric cars,
+and other devices with rechargeable batteries, as we discussed in Section 21–7.
+Some types of pacemakers used to maintain blood flow in heart patients 
+(Section 19–6) receive their power from an external coil which is transmitted via
+mutual inductance to a second coil in the pacemaker near the 

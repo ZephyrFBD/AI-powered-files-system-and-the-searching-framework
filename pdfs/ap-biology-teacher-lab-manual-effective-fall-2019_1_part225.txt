@@ -1,0 +1,13 @@
+derstand how microscopes opened up an entire new world of biological 
+understanding. For some, it is not as easy to see the value of mathematics to the study 
+of biology, but, like the microscope, math and computers provide tools to explore 
+the complexity of biology and biological systems — providing deeper insights and 
+understanding of what makes living systems work. 
+To explore how allele frequencies change in populations of organisms, you will first 
+build a computer spreadsheet that models the changes in a hypothetical gene pool from 
+one generation to the next. You need a basic familiarity with spreadsheet operations 
+to complete this lab successfully. You may have taken a course that introduced you to 
+spreadsheets before. If so, that will be helpful, and you may want to try to design and 
+build your model on your own after establishing some guidelines and assumptions. 
+Otherwise, you may need more specific guidance from your teacher. You can use almost 
+any spreadsheet program

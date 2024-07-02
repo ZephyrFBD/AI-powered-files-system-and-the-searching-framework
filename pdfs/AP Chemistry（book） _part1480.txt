@@ -1,0 +1,34 @@
+bital (HOMO) is the MO of highest energy that has electrons 
+in it. The lowest unoccupied molecular orbital (LUMO) is the MO 
+ 
+of lowest energy that does not have electrons in it. In N2, for ex-
+ample, the HOMO is the s
+2p MO and the LUMO is the p
+2p
+*  MO 
+ 
+(Figure 9.43).
+Continued
+382 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+SOLUTION
+(a) Sulfur is a group 6A element with an 3Ne43s23p4 electron con-
+figuration. It is expected to be most similar electronically to 
+oxygen (electron configuration, 3He42s22p4), which is imme-
+diately above it in the periodic table.
+(b) The Lewis structure of S8 is
+S
+S
+S
+S
+S
+S
+S
+S
+ 
+There is a single bond between each pair of S atoms and two 
+nonbonding electron pairs on each S atom. Thus, we see four 
+electron domains around each S atom and expect a tetrahedral 
+electron-domain geometry corresponding to sp3 hybridiza-
+tion. Because of the nonbonding pairs, we expect the S ¬ S ¬S 
+angles to be somewhat less than 109.5°, the tetrahedral angle. 

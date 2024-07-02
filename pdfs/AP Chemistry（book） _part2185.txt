@@ -1,0 +1,23 @@
+-
+ness of the curve decreases with time, indicating a decreasing 
+reaction rate.
+Instantaneous Rate
+Graphs such as Figure 14.3 that show how the concentration 
+of a reactant or product changes with time allow us to evalu-
+ate the instantaneous rate of a reaction, which is the rate 
+at a particular instant during the reaction. The instantaneous 
+rate is determined from the slope of the curve at a particular 
+point in time. We have drawn two tangent lines in Figure 14.3, 
+a dashed line running through the point at t = 0 s and a solid 
+line running through the point at t = 600 s. The slopes of 
+these tangent lines give the instantaneous rates at these two 
+time points.* To determine the instantaneous rate at 600 s, for 
+example, we construct horizontal and vertical lines to form the 
+blue right triangle in Figure 14.3. The slope of the tangent line 
+is the ratio of the height of the vertical side to the length of the 
+horizontal side:
+Instantaneous rate  = - 
+∆3C4H9Cl4
+∆t
+= - 
+10.017 - 0.

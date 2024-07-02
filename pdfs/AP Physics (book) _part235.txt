@@ -1,0 +1,19 @@
+We now consider the
+motion of objects that move in paths in two (or three) dimensions. In par-
+ticular, we discuss an important type of motion known as projectile motion:
+objects projected outward near the Earth’s surface, such as struck baseballs and
+golf balls, kicked footballs, and other projectiles. Before beginning our discussion
+of motion in two dimensions, we will need a new tool,vectors, and how to add them.
+g
+B
+CHAPTER-OPENING QUESTION—Guess now!
+[Don’t worry about getting the right answer now—you will get another chance later in the
+Chapter. See also p. 1 of Chapter 1 for more explanation.]
+A small heavy box of emergency supplies is dropped from a moving helicopter at
+point A as it flies at constant speed in a horizontal direction. Which path in the
+drawing below best describes the path of the box (neglecting air resistance) as
+seen by a person standing on the ground?
+*
+3–1 Vectors and Scalars
+We mentioned in Chapter 2 that the term velocity refers not only to how fast an
+obj

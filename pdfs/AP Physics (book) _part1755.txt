@@ -1,0 +1,23 @@
+ machine. A photocopy machine works by
+arranging positive charges (in the pattern to be copied) on the surface of a drum,
+then gently sprinkling negatively charged dry toner (ink) particles onto the drum.
+The toner particles temporarily stick to the pattern on the drum (Fig. 16–25) and
+are later transferred to paper and “melted” to produce the copy. Suppose each
+toner particle has a mass of 
+and carries an average of 20 extra
+electrons to provide an electric charge. Assuming that the electric force on a
+toner particle must exceed twice its weight in order to ensure sufficient attraction,
+compute the required electric field strength near the surface of the drum.
+APPROACH The electric force on a toner particle of charge 
+is
+where E is the needed electric field. This force needs to be at least as great as
+twice the weight (mg) of the particle.
+SOLUTION The minimum value of electric field satisfies the relation
+where  
+Hence
+E = 2mg
+q
+=
+2A9.0 * 10–16 kgBA9.8 ms2B
+20A1.6 * 10–19 CB
+= 5.5 *

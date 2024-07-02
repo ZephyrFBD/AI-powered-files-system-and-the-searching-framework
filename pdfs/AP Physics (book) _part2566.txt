@@ -1,0 +1,39 @@
+
+behind the lens.
+(b)
+1
+2
+O
+F
+1
+F′
+Object
+Ray 1 leaves one point on object
+going parallel to the axis, then
+refracts through focal point behind
+the lens.
+Center line
+(a)
+I
+FIGURE 23–37 Finding the 
+image by ray tracing for a 
+converging lens. Rays are 
+shown leaving one point on 
+the object (an arrow). Shown 
+are the three most useful 
+rays, leaving the tip of the 
+object, for determining 
+where the image of that 
+point is formed. (Note that 
+the focal points F and 
+on 
+either side of the lens are 
+the same distance f from
+the center of the lens.)
+F¿
+Using these three rays for one object point, we can find the image point for
+that point of the object (the top of the arrow in Fig. 23–37). The image points for
+all other points on the object can be found similarly to determine the complete
+image of the object. Because the rays actually pass through the image for the case
+shown in Fig. 23–37, it is a real image (see pages 647 and or 651). The image
+could be detected by film or electronic s

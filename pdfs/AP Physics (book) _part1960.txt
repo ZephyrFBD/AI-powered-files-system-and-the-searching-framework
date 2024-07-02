@@ -1,0 +1,27 @@
+al charge passes by a given point in the
+circuit during those 4.0 min? (b) How many electrons would this be?
+APPROACH (a) Current is flow of charge per unit time, Eq.18–1, so the amount of
+charge passing a point is the product of the current and the time interval. (b) To get
+the number of electrons, we divide the total charge by the charge on one electron.
+SOLUTION (a) Since the current was 2.5 A, or 
+then in 4.0 min 
+the total charge that flowed past a given point in the wire was, from Eq. 18–1,
+(b) The charge on one electron is 
+so 600 C would consist of
+600 C
+1.6 * 10–19 Celectron = 3.8 * 1021 electrons.
+1.60 * 10–19 C,
+¢Q = I ¢t = (2.5 Cs)(240 s) = 600 C.
+(= 240 s)
+2.5 Cs,
+EXAMPLE 18;1
+P H Y S I C S  A P P L I E D
+Electric cars
+EXERCISE A If 1 million electrons per second pass a point in a wire, what is the current?
+SECTION 18–3
+505
+C A U T I O N
+Distinguish conventional current
+from electron flow
+How to connect a battery. What is wrong
+with each of the schemes shown in Fig. 18–

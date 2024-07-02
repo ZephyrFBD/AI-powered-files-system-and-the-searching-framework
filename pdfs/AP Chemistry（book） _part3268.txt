@@ -1,0 +1,29 @@
+oxidized (because 
+both already have their elements in their highest common oxidation state). Both the 
+H2O solvent and the Ni atoms in the anode, however, can undergo oxidation:
+ 
+ 
+2 H2O1l2 ¡ O21g2 + 4 H+1aq2 + 4 e- 
+E°
+red = +1.23 V
+ 
+ 
+  Ni1s2 ¡ Ni2+1aq2 + 2 e- 
+E°
+red = -0.28 V
+We saw in Section 20.4 that the half-reaction with the more negative E°
+red undergoes 
+oxidation more readily. (Remember Figure 20.11: The strongest reducing agents, which 
+are the substances oxidized most readily, have the most negative E°
+red values.) Thus, it is 
+the Ni(s), with its E°
+red = -0.28 V, that is oxidized at the anode rather than the H2O. If 
+we look at the overall reaction, it appears as if nothing has been accomplished. However, 
+this is not true because Ni atoms are transferred from the Ni anode to the steel cathode, 
+plating the steel with a thin layer of nickel atoms.
+The standard emf for the overall reaction is
+ E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2 = 1-0.28 V2 - 1-0.28 V2 = 0 
+Be

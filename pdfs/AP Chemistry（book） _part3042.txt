@@ -1,0 +1,14 @@
+ble. If we keep lowering the temperature, do we reach a state in which these 
+motions are essentially shut down, a point described by a single microstate? This ques-
+tion is addressed by the third law of thermodynamics:
+The entropy of a pure, perfect crystalline substance at absolute zero is zero: S10 K2 = 0.
+Consider a pure, perfect crystalline solid. At absolute zero, the individual atoms or 
+molecules in the lattice would be perfectly ordered in position. Because none of them 
+would have thermal motion, there is only one possible microstate. As a result, Equa-
+tion 19.5 becomes S = k ln W = k ln 1 = 0. As the temperature is increased from abso-
+lute zero, the atoms or molecules in the crystal gain energy in the form of vibrational 
+motion about their lattice positions. This means that the degrees of freedom and the 
+entropy both increase. What happens to the entropy, however, as we continue to heat 
+the crystal? We consider this important question in the next section.
+ 
+SECTION 19.3

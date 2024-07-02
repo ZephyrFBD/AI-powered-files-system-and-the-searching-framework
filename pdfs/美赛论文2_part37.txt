@@ -1,0 +1,16 @@
+ed to be 
+linear with the number of reduced susceptible people next week which would 
+Team   #37232                                                              Page 18 of 22   
+be predicted according to the model. Considering the actual situation, we set 
+the linear relationship between the number N of reduced susceptible people 
+every week and the total number V of the vaccine set to Sierra Leone: 
+V=1.3N 
+So we have the forecast of the total number of the vaccine set to Sierra 
+Leone every week in the future in Table 3. 
+After the vaccine set to the treatment center in Sierra Leone, the 
+treatment center would estimate the different demand for drugs of 14 cities. 
+Then make the distribution of drugs. Considering that the vaccine distribution 
+not only has contact with the number of reduced susceptible people every 
+week, but also depends on the density of population of 14 cities, we make the 
+assumption that the weight of each city equals to pi*the number  of the 
+patient of each ci

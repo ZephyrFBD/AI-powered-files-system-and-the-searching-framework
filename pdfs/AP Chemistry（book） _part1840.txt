@@ -1,0 +1,19 @@
+n and examples of solids according to predominant bonding type.
+474 
+ 
+SECTION 12.2   
+Structures of Solids 
+475
+12.2 ∣ Structures of Solids
+Crystalline and amorphous Solids
+Solids contain large numbers of atoms. For example, a 1-carat diamond has a volume of 
+57mm3 and contains 1.0 * 1022 carbon atoms. How can we hope to describe such a large 
+collection of atoms? Fortunately, the structures of many solids have patterns that repeat 
+over and over in three dimensions. We can visualize the solid as being formed by stacking 
+a large number of small, identical structural units, much like a wall can be built by stack-
+ing identical bricks.
+Solids in which atoms are arranged in an orderly repeating pattern are called crys-
+talline solids. These solids usually have flat surfaces, or faces, that make definite angles 
+with one another. The orderly arrangements of atoms that produce these faces also 
+cause the solids to have highly regular shapes (Figure 12.2). Examples of crystalline solids 
+i

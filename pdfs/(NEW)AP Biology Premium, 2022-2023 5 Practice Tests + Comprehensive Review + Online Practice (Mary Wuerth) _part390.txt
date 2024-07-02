@@ -1,0 +1,14 @@
+e interactions between regulatory sequences and regulatory proteins to turn genes on or
+off and to regulate the levels of gene expression.
+The following are some examples of regulatory sequences used in eukaryotes:
+■Promoters—sequences that serve as binding sites for RNA polymerase.
+■Regulatory switches—sequences to which activator proteins or repressor proteins may bind. Enhancers are
+regulatory switches to which activator proteins or transcription factors bind. Silencers are regulatory switches
+to which repressor proteins bind.
+Some examples of regulatory proteins include:
+■Repressors—These bind to regulatory switches and turn off or suppress gene expression.
+■Activators—These bind to regulatory switches and upregulate gene expression.
+■Transcription factors—These help RNA polymerase bind to the promoter and start transcription.
+■Mediators—These serve as “connectors” between other regulatory proteins and allow regulatory proteins to
+communicate.
+Epigenetic changes can also affect gen

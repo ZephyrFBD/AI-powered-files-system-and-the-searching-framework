@@ -1,0 +1,112 @@
+orms: 
+ 
+It is often important to know whether two waves with the same period (modeled by sine 
+curves) are in phase or out of phase. For the curves 
+(
+)
+(
+)
+1
+2
+sin
+and
+sin
+y
+A
+kt
+b
+y
+A
+kt
+c
+=
+-
+=
+-
+ 
+the phase difference between y1 and y2 is b − c. If the phase difference is a multiple of 
+2, the waves are in phase; otherwise, the waves are out of phase. If two sine curves are 
+in phase, then their graphs coincide. 
+ 
+Example 3 
+Objects are in harmonic motion modeled by the following curves: 
+1
+2
+3
+23
+10sin 3
+10sin 3
+10sin 3
+6
+2
+6
+y
+t
+y
+t
+y
+t
+p
+p
+p
+æ
+ö
+æ
+ö
+æ
+ö
+=
+-
+=
+-
+=
++
+ç
+÷
+ç
+÷
+ç
+÷
+è
+ø
+è
+ø
+è
+ø 
+(a) Find the amplitude, period, phase, and horizontal shift of the curve y1. 
+(b) Find the phase difference between the curves y1 and y2. Are the two curves in phase? 
+(c) Find the phase difference between the curves y1 and y3. Are the two curves in phase? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+135 
+Exercise 1 
+ 
+ 
+Exercise 2 
+ 
+ 
+Exercise 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+136 
+3.7 Trigonometric Identities 
+3.7.1

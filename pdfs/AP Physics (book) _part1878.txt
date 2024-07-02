@@ -1,0 +1,71 @@
+capacitor at 330 V. (a) How much electric
+energy can be stored? (b) What is the power output if nearly all this energy is
+released in 1.0 ms?
+APPROACH We use Eq. 17–10 in the form 
+because we are given 
+C and V.
+pe = 1
+2 CV2
+660-mF
+EXAMPLE 17;11
+pe =
+1
+2 QV =
+1
+2 CV2 =
+1
+2
+Q2
+C
+.
+Q = CV,
+pe = energy =
+1
+2 QV,
+W = Q V
+f
+2
+.
+V
+f
+AV
+f - 0B2 = V
+f2,
+¢W = V ¢q.
+¢q,
+separating + and - charges.
+Q = CV,
+V = Ed
+Q = C0 V
+0 ,
+V
+0 ,
+–Q
+±Q
+C0
+*
+SECTION 17–9
+Storage of Electric Energy
+487
+FIGURE 17–20 A camera flash unit.
+The 
+capacitor is the black
+cylinder.
+660-mF
+SOLUTION (a) The energy stored is
+(b) If this energy is released in 
+of a second
+the
+power output is P = pet = (36 J)A1.0 * 10–3 sB = 36,000 W.
+A = 1.0 ms = 1.0 * 10–3 sB,
+1
+1000
+pe =
+1
+2 CV2 =
+1
+2 A660 * 10–6 FB(330 V)2 = 36 J.
+EXERCISE G A capacitor stores 0.50 J of energy at 9.0 V. What is its capacitance?
+Capacitor plate separation increased.
+A parallel-plate capacitor carries charge Q and is then disconnected from a
+battery. The

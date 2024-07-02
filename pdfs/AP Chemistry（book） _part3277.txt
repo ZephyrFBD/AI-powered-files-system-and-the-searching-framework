@@ -1,0 +1,19 @@
+ucts of the two-electron 
+reduction of FeF21s2 in water. (b) Use the Ksp value and the standard reduction potential of Fe2+1aq2 to calculate the standard 
+reduction potential for the half-reaction in part (a). (c) Rationalize the difference between the reduction potential in part (a) and 
+the reduction potential for Fe2+1aq2.
+Solve
+(a) Iron(II) ﬂuoride is an ionic substance that 
+consists of Fe2+ and F- ions. We are asked to 
+predict where two electrons could be added 
+to FeF2. We cannot envision adding the elec-
+trons to the F- ions to form F2 -, so it seems 
+likely that we could reduce the Fe2+ ions to 
+Fe1s2. We therefore predict the half-reaction:
+Analyze We are going to combine what we know about equi-
+librium constants and electrochemistry to obtain reduction 
+potentials.
+Plan For (a) we need to determine which ion, Fe2+ or F -, is more 
+likely to be reduced by two electrons and complete the overall 
+reaction FeF2 + 2 e- ¡ ?. For (b) we need to write the chemical 
+equation associ

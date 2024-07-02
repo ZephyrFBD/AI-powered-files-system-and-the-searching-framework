@@ -1,0 +1,47 @@
+A P P L I E D
+Opening a tight lid
+FIGURE 13–11
+Example 13–5.
+Volume Expansion
+The change in volume of a material which undergoes a temperature change is
+given by a relation similar to Eq. 13–1a, namely,
+(13;2)
+where 
+is the original volume,
+is the change in volume when the tempera-
+ture changes by 
+, and 
+is the coefficient of volume expansion. The units of 
+are
+Values of 
+for various materials are given in Table 13–1. Notice that for
+solids,
+is normally equal to approximately 
+Note also that linear expansion
+has no meaning for liquids and gases because they do not have fixed shapes.
+Equations 13–1 and 13–2 are accurate only if 
+(or 
+) is small compared
+to 
+(or 
+). This is of particular concern for liquids and even more so for gases
+because of the large values of 
+Furthermore,
+itself varies substantially with
+temperature for gases. Therefore, a more convenient way of dealing with gases is
+needed, and will be discussed starting in Section 13–5.
+b
+b.
+V
+0
+l0
+¢V
+¢l
+3a.
+b
+b
+(C°)–1.
+b
+b
+¢T
+¢

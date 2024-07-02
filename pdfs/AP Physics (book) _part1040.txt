@@ -1,0 +1,15 @@
+6 cm high (exactly 76.0 cm at standard atmospheric pres-
+sure). That is, a column of mercury 76 cm high exerts the same pressure as the
+atmosphere†:
+Household barometers are usually of the aneroid type (Fig.10–7b), either mechan-
+ical (with dial) or electronic.
+A calculation similar to that just done will show that atmospheric pressure
+can maintain a column of water 10.3 m high in a tube whose top is under vacuum
+(Fig. 10–9). No matter how good a vacuum pump is, water cannot be made to 
+rise more than about 10 m under normal atmospheric pressure. To pump water
+out of deep mine shafts with a vacuum pump requires multiple stages for depths
+greater than 10 m. Galileo studied this problem, and his student Torricelli was
+the first to explain it. The point is that a pump does not really suck water up a
+tube—it merely reduces the pressure at the top of the tube. Atmospheric air
+pressure pushes the water up the tube if the top end is at low pressure (under a
+vacuum), just as it is air pressure

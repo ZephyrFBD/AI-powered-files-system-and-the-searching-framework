@@ -1,0 +1,21 @@
+, so that its mass is significantly less than
+that of four separate nucleons. That helps the final state in 
+decay to have less
+total mass, thus allowing certain nuclides to decay which could not decay to,
+say, 2 protons plus 2 neutrons. For example,
+could not decay to 
+because the masses of the daughter 
+plus four separate nucleons is
+.061721 u, which is greater
+than the mass of the 
+parent (232.037156 u). Such a decay would violate the
+conservation of energy. Indeed, we have never seen 
+Similarly, it is almost always true that the emission of a single nucleon is energet-
+ically not possible; see Example 30–5.
+Smoke Detectors—An Application
+One widespread application of nuclear physics is present in nearly every home in
+the form of an ordinary smoke detector. One type of smoke detector contains
+about 0.2 mg of the radioactive americium isotope,
+in the form of 
+The radiation continually ionizes the nitrogen and oxygen molecules in
+the air space between two oppositely charged plates. Th

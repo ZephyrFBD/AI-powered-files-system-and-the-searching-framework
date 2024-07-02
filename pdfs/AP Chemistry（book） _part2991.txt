@@ -1,0 +1,17 @@
+g the general laws that govern chemical reactions. There are two 
+basic questions that chemists ask when studying reactions: “How fast 
+is the reaction?” and “How far does it proceed?” The first question is 
+addressed by chemical kinetics, which we discussed in Chapter 14. 
+The second question relates to the equilibrium constant, the focus of 
+Chapter 15.
+The rate of any reaction is controlled largely by the activation 
+energy of the reaction. 
+ (Section 14.5) Chemical equilibrium is 
+reached when a given reaction and its reverse reaction occur at the 
+same rate. 
+ (Section 15.1) Because reaction rates depend on activation energy, it is 
+logical to expect that equilibrium also depends in some way on energy.
+In this chapter, we explore the connection between energy and the extent of 
+a reaction. Doing so requires a deeper look at chemical thermodynamics, the area of 
+chemistry that deals with energy relationships. We first considered thermodynam-
+ics in Chapter 5, where we discussed the

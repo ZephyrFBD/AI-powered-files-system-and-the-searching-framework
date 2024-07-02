@@ -1,0 +1,19 @@
+ 
+done here, to keep track of the associations between reactions and their ∆H values.)
+Notice that we have used Hess’s law to write the standard enthalpy change for Equa-
+tion 5.29 as the sum of the enthalpy changes for Equations 5.26 through 5.28. We can 
+use values from Table 5.3 to calculate ∆H°
+rxn:
+∆H°
+rxn = ∆H1 + ∆H2 + ∆H3
+= -∆Hf°3C3H81g24 + 3∆Hf°3CO21g24 + 4∆Hf°3H2O1l24
+= -1-103.85 kJ2 + 31-393.5 kJ2 + 41-285.8 kJ2 = -2220 kJ 
+[5.30]
+The enthalpy diagram in Figure 5.23 shows the components of this calculation. In 
+Step 1  the reactants are decomposed into their constituent elements in their standard 
+states. In Steps 2  and 3  the products are formed from the elements. Several aspects of 
+how we use enthalpy changes in this process depend on the guidelines we discussed in 
+Section 5.4.
+Decomposition. Equation 5.26 is the reverse of the formation reaction for C3H81g2, 
+so the enthalpy change for this decomposition reaction is the negative of the ∆Hf° 
+value for the propane format

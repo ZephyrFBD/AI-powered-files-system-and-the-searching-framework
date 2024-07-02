@@ -1,0 +1,15 @@
+ is constant in a process, as in our preceding 
+example, the sign and magnitude of the pressure–volume work are given by
+ 
+w = -P ∆V 
+[5.7]
+where P is pressure and ∆V = Vfinal - Vinitial is the change in volume of the system. The 
+pressure P is always either a positive number or zero. If the volume of the system expands, 
+then ∆V is positive as well. The negative sign in Equation 5.7 is necessary to conform to 
+the sign convention for w (Table 5.1). When a gas expands, the system does work on the 
+surroundings, as indicated by a negative value of w. (The negative sign *  positive P *  
+positive ∆V results in a negative number for w.) On the other hand, if the gas is compressed, 
+∆V is negative (the volume decreases), and Equation 5.7 indicates that w is therefore positive, 
+meaning work is done on the system by the surroundings. The box “A Closer Look: Energy, 
+Enthalpy, and P–V Work” discusses pressure–volume work in detail, but all you need to keep 
+in mind for now is Equation 5.7, w

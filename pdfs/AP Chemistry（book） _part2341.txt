@@ -1,0 +1,25 @@
+H2S at 28 °C is 
+3.5 * 10-2 M -1 s-1. If at a given time the concentration of 
+H2S is 2.0 * 10 - 4 M and that of Cl2 is 0.025 M, what is the 
+rate of formation of Cl -?
+ 14.91  The reaction 2 NO1g2 + O21g2 ¡ 2 NO21g2 is second 
+order in NO and ﬁrst order in O2. When 3NO4 = 0.040 M, 
+and 3O24 = 0.035 M, the observed rate of disappearance 
+of NO is 9.3 * 10-5 M>s. (a) What is the rate of disappear-
+ance of O2 at this moment? (b) What is the value of the 
+rate constant? (c) What are the units of the rate constant? 
+(d) What would happen to the rate if the concentration of 
+NO were increased by a factor of 1.8?
+618 
+CHAPTER 14 Chemical Kinetics
+ 14.100 Urea 1NH2CONH22 is the end product in protein metabo-
+lism in animals. The decomposition of urea in 0.1 M HCl 
+occurs according to the reaction
+NH2CONH21aq2 + H +1aq2 +  
+2 H2O1l2 ¡ 2 NH4
++1aq2 + HCO -
+3 1aq2
+ 
+ The reaction is ﬁrst order in urea and ﬁrst order overall. 
+When 3NH2CONH24 = 0.200 M, the rate at 61.05 °C 
+is 8.56 * 10-5 M>s. (a

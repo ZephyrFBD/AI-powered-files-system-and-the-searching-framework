@@ -1,0 +1,25 @@
+211.00 A
+° 2a10-10 m
+1 A
+°
+b a
+1 D
+3.34 * 10-30 C@m
+b = 4.79 D
+Measurement of the dipole moments can provide us with valuable information about 
+the charge distributions in molecules, as illustrated in Sample Exercise 8.5.
+The bond length in the HCl molecule is 1.27 Å. (a) Calculate the dipole moment, in debyes, that results if the charges on the 
+H and Cl atoms were 1+ and 1- respectively. (b) The experimentally measured dipole moment of HCl(g) is 1.08 D. What 
+magnitude of charge, in units of e, on the H and Cl atoms leads to this dipole moment?
+Analyze and Plan We are asked in part (a) to calculate the dipole 
+moment of HCl that would result if there were a full charge trans-
+ferred from H to Cl. We can use Equation 8.10 to obtain this result. 
+In part (b), we are given the actual dipole moment for the mole-
+cule and will use that value to calculate the actual partial charges 
+on the H and Cl atoms.
+SOLUTION
+Sample Exercise 8.5
+Dipole Moments of Diatomic Molecules
+ 
+SECTION 8.4   
+B

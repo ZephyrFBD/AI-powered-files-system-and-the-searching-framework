@@ -1,0 +1,29 @@
+ination
+number
+Anion radius, r− (Å)
+r+/r−
+CsCl
+NaCl
+ZnS
+Decreasing r+/r−
+Cs
+Cl
+Cl
+Na
+S
+Zn
+▲ Figure 12.26 Coordination environments in CsCl, NaCl, and ZnS. The sizes of the ions have been 
+reduced to show the coordination environments clearly.
+ 
+SECTION 12.5  Ionic Solids 
+491
+492 
+CHAPTER 12 Solids and Modern Materials
+For a given ionic compound, we might ask which type of structure is most favorable. 
+A number of factors come into play, but two of the most important are the relative sizes 
+of the ions and the stoichiometry. Consider first ion size. Notice in Figure 12.26 that the 
+coordination number changes from 8 to 6 to 4 on moving from CsCl to NaCl to ZnS. This 
+trend is driven in part by the fact that for these three compounds the ionic radius of the 
+cation gets smaller while the ionic radius of the anion changes very little. When the cation 
+and anion are similar in size, a large coordination number is favored and the CsCl struc-
+ture is often realized. As the relative size of 

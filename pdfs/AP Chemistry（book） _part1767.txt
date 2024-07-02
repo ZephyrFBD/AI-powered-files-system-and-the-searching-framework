@@ -1,0 +1,29 @@
+phase of a substance is present at any given temperature and pressure.
+The phase diagram for any substance that can exist in all three phases of matter 
+is shown in Figure 11.27. The diagram contains three important curves, each of which 
+represents the temperature and pressure at which the various phases can coexist at equi-
+librium. The only substance present in the system is the one whose phase diagram is 
+under consideration. The pressure shown in the diagram is either the pressure applied 
+Go Figure
+Imagine that the pressure on the solid phase in the figure is decreased at 
+constant temperature. If the solid eventually sublimes, what must be true 
+about the temperature?
+Solid
+Gas
+Liquid
+Supercritical
+fluid
+C
+T
+Sublimation
+Deposition
+Triple point
+Critical point
+Condensation
+Vaporization
+Melting
+Freezing
+Temperature
+Pressure
+▲ Figure 11.27 Generic phase diagram for a pure substance. The green line is the sublimation  
+curve, the blue line is the melting curve, and the red line is th

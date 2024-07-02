@@ -1,0 +1,102 @@
+2 kT L 0.04 eV
+(T L 300 K)
+*SECTION 29–3
+Weak (van der Waals) Bonds
+835
+=
+–1.86 * 10–20 J =
+–0.12 eV.
+= A9.0 * 109 Nm2C2BA6.7BA3.0B
+A10–20 CB2
+A10–9 mB
+¢
+1
+0.31 -
+1
+0.41 -
+1
+0.19 +
+1
+0.29 ≤
+= (9.0 * 109 Nm2C2)(6.7 * 10–20 C)(3.0 * 10–20 C) ¢ 1
+rCH
+-
+1
+rCN
+-
+1
+rOH
++
+1
+rON
+≤
+pe = kB qCqH
+rCH
++ qC qN
+rCN
++ qOqH
+rOH
++ qOqN
+rON R
+The potential energy is negative, meaning 0.12 eV of work (or energy input) is
+required to separate the dipoles. That is, the binding energy of this “weak” or
+hydrogen bond is 0.12 eV. This is only an estimate, of course, since other
+charges in the vicinity would have an influence too.
+836
+CHAPTER 29
+Molecules and Solids
+t-RNA
+Anticodons
+G
+C
+A
+A
+U
+G
+New protein chain of
+4 amino acids 
+(a 5th is being added)
+Ribosome
+1
+2
+3
+4
+5
+m-RNA
+Codon
+4
+Codon
+5
+C
+G
+U
+U
+A
+C
+C
+G
+U
+U
+A
+C
+A
+C
+A
+C
+C
+T
+G
+C
+A
+A
+T
+G
+T
+G
+A
+Growing end
+of m-RNA
+DNA
+Protein Synthesis
+Weak bonds, especially hydrogen bonds, are crucial to the process of protein
+synthesis. Proteins serve as structural par

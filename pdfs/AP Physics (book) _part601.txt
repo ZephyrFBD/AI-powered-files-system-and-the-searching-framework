@@ -1,0 +1,17 @@
+t to a second point (as in Eq. 6–7b
+for gravity). Alternatively, we can define the change in potential energy as the
+work required of an external force to move the object without acceleration between
+the two points, as in Eq. 6–7a.
+Potential Energy of Elastic Spring
+We now consider potential energy associated with elastic materials, which includes
+a great variety of practical applications. Consider the simple coil spring shown 
+in Fig. 6–13. The spring has potential energy when compressed (or stretched),
+because when it is released, it can do work on a ball as shown. To hold a spring either
+stretched or compressed an amount x from its natural (unstretched) length requires
+the hand to exert an external force on the spring of magnitude 
+which is
+directly proportional to x. That is,
+where k is a constant, called the spring stiffness constant (or simply spring constant),
+and is a measure of the stiffness of the particular spring. The stretched or compressed
+spring itself exerts a force 
+in

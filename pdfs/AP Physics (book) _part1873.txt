@@ -1,0 +1,19 @@
+nce d is
+connected to a battery of constant voltage V and acquires a charge Q. While it
+is still connected to the battery, a slab of dielectric material with
+is inserted
+between the plates of the capacitor. Will Q increase, decrease, or stay the same?
+RESPONSE Since the capacitor remains connected to the battery, the voltage
+stays constant and equal to the battery voltage V. The capacitance C increases
+when the dielectric material is inserted because K in Eq. 17–9 has increased.
+From the relation
+if V stays constant, but C increases, Q must increase
+as well. As the dielectric is inserted, more charge will be pulled from the battery
+and deposited onto the plates of the capacitor as its capacitance increases.
+Q = CV,
+K = 3
+CONCEPTUAL EXAMPLE 17;9
+EXERCISE F If the dielectric in Example 17–9 fills the space between the plates, by
+what factor does (a) the capacitance change, (b) the charge on each plate change?
+Inserting a dielectric into an isolated
+capacitor. Suppose the air-filled capac

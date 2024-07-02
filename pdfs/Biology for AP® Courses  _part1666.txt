@@ -1,0 +1,12 @@
+' Capping
+While the pre-mRNA is still being synthesized, a 7-methylguanosine cap is added to the 5' end of the growing transcript
+by a phosphate linkage. This moiety (functional group) protects the nascent mRNA from degradation. In addition, factors
+involved in protein synthesis recognize the cap to help initiate translation by ribosomes.
+3' Poly-A Tail
+Once elongation is complete, the pre-mRNA is cleaved by an endonuclease between an AAUAAA consensus sequence and
+a GU-rich sequence, leaving the AAUAAA sequence on the pre-mRNA. An enzyme called poly-A polymerase then adds
+a string of approximately 200 A residues, called the poly-A tail. This modification further protects the pre-mRNA from
+degradation and signals the export of the cellular factors that the transcript needs to the cytoplasm.
+Pre-mRNA Splicing
+Eukaryotic genes are composed of exons, which correspond to protein-coding sequences (ex-on signifies that they are
+expressed), and intervening sequences called introns (int-ron den

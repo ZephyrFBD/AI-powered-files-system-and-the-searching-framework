@@ -1,0 +1,17 @@
+ive: 5.5
+Albumin does not permeate either type of membrane due to its size.
+The dialysis tube selects only according to size, so NaCl is small
+enough to cross it. A red blood cell membrane, in contrast, selects
+according to both hydrophobicity and size; because NaCl is polar, it is
+not permeable across the plasma membrane, though it can be
+transported with carrier proteins. Hence, (D) is correct. (A) is incorrect
+because carrier proteins can allow NaCl to exit a red blood cell. (B) is
+incorrect because albumin is not permeable across a cell membrane (it
+would require an alternative mechanism of transport). (C) is incorrect
+because a red blood cell membrane is not permeable to NaCl.
+1. D
+Learning Objective: 5.4
+The results in the table for chlorophenyl hydrazone suggest that the
+protein requires energy in the form of ATP to transport sucrose. Thus,
+the most justifiable conclusion is that the protein is involved in the
+active transport of sucrose, (D). (A) and (C) are incorrect because t

@@ -1,0 +1,12 @@
+hosphorylation
+Oxidative phosphorylation involves the electron transport chain (ETC) and chemiosmosis, both of which occur
+on the inner membrane of the mitochondria. Oxidative phosphorylation yields the vast majority of ATP in cellular
+respiration.
+The electron carriers (NADH and FADH2) that were generated during glycolysis, the oxidation of pyruvate, and
+the Krebs cycle bring their electrons to the electron transport chain on the inner mitochondrial membrane. (See
+Figure 9.4.) As these electron carriers deliver their hydrogen atoms and electrons to the ETC, NADH and FADH2
+are oxidized to NAD+ and FAD+, respectively. NAD+ and FAD+ can then be reused in the earlier processes of
+cellular respiration.
+As the electrons travel through the electron transport chain, their potential energy decreases, and energy is
+released. This energy is used to pump protons (H+) out of the matrix and into the intermembrane space of the
+mitochondria, creating a proton gradient. The concentration of protons in

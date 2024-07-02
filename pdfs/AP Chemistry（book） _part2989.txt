@@ -1,0 +1,26 @@
+dard entropy 
+changes for systems undergoing reaction, 
+using tabulated standard molar entropies.
+ 19.5 ▶  Gibbs Free Energy Learn that another 
+thermodynamic state function, free energy 
+(or Gibbs free energy), is a measure of how 
+far removed a system is from equilibrium. 
+The change in free energy measures the 
+maximum amount of useful work obtainable 
+from a process and tells us the direction in 
+which a chemical reaction is spontaneous.
+ 19.6 ▶  Free Energy and Temperature  
+Consider how the relationship among 
+free-energy change, enthalpy change, and 
+entropy change provides insight into how 
+temperature affects the spontaneity of a 
+process.
+ 19.7 ▶  Free Energy and the Equilibrium 
+Constant Examine how the standard 
+free-energy change for a chemical reaction 
+can be used to calculate the equilibrium 
+constant for the reaction.
+WhaT’S ahEad
+◀ THE NUCLEOSOME Inside the nucleus of a living cell, DNA (the gray 
+outer double-helical portion) surrounds eight protein molecules (the 
+c

@@ -1,0 +1,17 @@
+) An electrolysis reaction, which is 
+carried out in an electrolytic cell, employs an external source of elec-
+tricity to drive a nonspontaneous electrochemical reaction. The 
+current-carrying medium within an electrolytic cell may be either a 
+molten salt or an electrolyte solution. The electrodes in an electro-
+lytic cell can be inert or active, meaning that the electrode can be 
+involved in the electrolysis reaction. Active electrodes are important 
+in electroplating and in metallurgical processes.
+The quantity of substances formed during electrolysis can be 
+calculated by considering the number of electrons involved in the 
+redox reaction and the amount of electrical charge that passes into 
+the cell. The amount of electrical charge is measured in coulombs 
+and is related to the magnitude of the current and the time it flows 
+11 C = 1 A@s2.
+Learning Outcomes after studying this chapter, you should be able to:
+t Identify oxidation, reduction, oxidizing agent, and reducing 
+agent in

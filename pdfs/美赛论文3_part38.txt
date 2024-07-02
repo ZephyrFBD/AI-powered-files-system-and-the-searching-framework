@@ -1,0 +1,100 @@
+hen thinking about
+effects, we can only take the influence of previous two models into consideration.
+'
+h
+The height of the overflow
+drain
+28cm
+s
+K
+Average water coefficient
+of heat transfer
+1.4
+x
+E
+Hydrodynamic
+diffusion
+coefficient in the direction
+of x coordinate axis
+0.8
+y
+E
+Hydrodynamic
+diffusion
+coefficient in the direction
+of y coordinate axis
+0.6
+'
+S
+The source intensity
+0.12
+p
+C
+Specific heat of water at
+constant pressure
+1
+1
+1Kcal kg
+K
+
+
+
+
+q
+The source intensity
+2.9
+g
+Gravitational acceleration
+2
+9.8
+/
+m s
+f
+Cauchy coefficient
+0.68
+'
+m
+Roughness coefficient of
+the river bed
+0.17
+'
+n
+Viscidity coefficient
+3.1
+
+an
+approximate
+smooth
+curve made by the surface
+of the person
+Regard the person
+as a cuboid
+
+
+3
+170 52 15 cm
+
+
+
+the area of the curve
+3
+2.434m
+W
+The weight of the three
+key indexes
+15: 21: 4
+a
+e
+Vapor pressure of the air
+above the water
+9.81kpa
+S
+The contact area of water
+and air
+2
+8.4m
+Team#44509
+Page 17 of 26
+5.1 The shape of the tub
+(1)Even time：
+In the firs

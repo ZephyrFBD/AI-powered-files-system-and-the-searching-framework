@@ -1,0 +1,39 @@
+tributions; a concave upward curve is associated with 
+exponentially increasing functions, such as occur in the early stages of bacterial growth; 
+an S-shaped curve is associated with a carrying capacity of the environment (a logistic 
+curve); and a sine-wave-like curve (see Figure 4) is associated with a biological rhythm. 
+Such shapes are quite familiar to a biologist, and with more frequent exposures, your 
+students will become familiar with these shapes and their biological implications. 
+Chapter 5 T27 
+ 
+Figure 3 
+6000  
+5000  
+4000  
+3000  
+Source: Andrew J. Millar 
+0 
+24 
+36 
+48 
+60 
+72 
+84 
+96 
+108  
+Wild-type 
+(24-hour period) 
+toc1 mutant 
+(21-hour period)
+Photons/seedling/image
+2000  
+1000  
+0  
+Time (hours) 
+Figure 4. A graph of circadian rhythms in Arabidopsis (Note the sinusoidal behavior over time.) 
+T28 Chapter 5  
+ 
+  
+ 
+Mapping is an extremely important tool in biology — from localization of organelles 
+in a cell to world mapping of biodiversity. Some of the easily ad

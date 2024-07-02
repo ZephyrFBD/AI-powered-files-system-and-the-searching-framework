@@ -1,0 +1,51 @@
+e within a 
+few hours.
+Chemistry and Life Medical Applications of Radiotracers
+TABLE 21.6 Some Radionuclides Used  
+as Radiotracers
+Nuclide
+Half-Life
+Area of the Body Studied
+Iodine-131
+8.04 days
+Thyroid
+Iron-59
+44.5 days
+Red blood cells
+Phosphorus-32
+14.3 days
+Eyes, liver, tumors
+Technetium-99a
+6.0 hours
+Heart, bones, liver, and lungs
+Thallium-201
+73 hours
+Heart, arteries
+Sodium-24
+14.8 hours
+Circulatory system
+aThe isotope of technetium is actually a special isotope of Tc-99 
+called Tc-99m, where the m indicates a so-called metastable isotope.
+Go Figure
+Which property of the atoms of gas inside a Geiger counter is most 
+relevant to the operation of the device?
+High
+voltage
+Amplifier
+and counter
+Thin window
+penetrated by
+radiation
+γ-ray
+Argon gas
+Metal cylinder
+acting as
+cathode (−)
+Anode (+)
+Radiation (α-, β-, or γ-rays) 
+penetrates thin window.
+Current is amplified and measured 
+as series of pulses. The greater the 
+amount of radiation, the greater the 
+number of pulses.
+Radiation i

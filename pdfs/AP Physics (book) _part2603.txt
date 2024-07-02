@@ -1,0 +1,20 @@
+ a concave mirror (radius 21.0 cm) must an
+object be placed if its image is to be at infinity?
+10. (II) A small candle is 38 cm from a concave mirror having
+a radius of curvature of 24 cm. (a) What is the focal length
+of the mirror? (b) Where will the image of the candle be
+located? (c) Will the image be upright or inverted?
+11. (II) An object 3.0 mm high is placed 16 cm from a convex
+mirror of radius of curvature 16 cm. (a) Show by ray tracing
+that the image is virtual, and estimate the image distance.
+(b) Show that the (negative) image distance can be computed
+from Eq. 23–2 using a focal length of 
+(c) Compute
+the image size, using Eq. 23–3.
+12. (II) A dentist wants a small mirror that, when 2.00 cm from
+a tooth, will produce a
+upright image. What kind of
+mirror must be used and what must its radius of curvature be?
+13. (II) You are standing 3.4 m from a convex security mirror
+in a store. You estimate the height of your image to be half
+of your actual height. Estimate the radius of c

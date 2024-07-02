@@ -1,0 +1,13 @@
+is in Kelvin, NOT degrees Celsius. There are two reasons
+why temperature must be stated in Kelvin:
+■The pressure constant, R, uses temperature units of Kelvin, so consistent units for temperature are needed
+throughout the formula.
+■The Kelvin temperature scale is an absolute scale, meaning there are no negative numbers in the Kelvin scale.
+Using negative temperatures in this formula would result in incorrect water potential calculations.
+Converting temperatures from Celsius to Kelvin is simple: Kelvin = °C + 273.
+The reference solution for solute potential is distilled water. Because distilled water has no solutes, C = 0, and the
+solute potential for distilled water is 0 bars at any temperature. As soon as any amount of solute is added to distilled
+water, the solution’s solute potential will become negative. The more solute that is added, the more negative the
+solute potential becomes.
+Try the following sample calculation for water potential.
+A solution of 0.50 molar glucose is at a te

@@ -1,0 +1,41 @@
+er
+output
+High-pass filter
+Low-pass filter
+L
+Circuit
+A
+Circuit
+B
+Signal
+C
+C
+(a)
+(b)
+(c)
+A
+B
+Signal
+FIGURE 21–42 (a) and (b): Two 
+common uses for a capacitor as a filter.
+(c) Simple loudspeaker cross-over.
+P H Y S I C S  A P P L I E D
+Capacitors as filters
+P H Y S I C S  A P P L I E D
+Loudspeaker cross-over
+Loudspeakers having separate “woofer”(low-frequency speaker) and “tweeter”
+(high-frequency speaker) may use a simple “cross-over” that consists of a capaci-
+tor in the tweeter circuit to impede low-frequency signals, and an inductor in the
+woofer circuit to impede high-frequency signals 
+Hence mainly low-
+frequency sounds reach and are emitted by the woofer. See Fig. 21–42c.
+AX
+L = 2pfLB.
+614
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+2
+1–14 LRC Series AC Circuit
+Let us examine a circuit containing all three elements in series: a resistor R, an
+inductor L, and a capacitor C, Fig. 21–43. If a given circuit contains only two of
+these elements, we can still use the results 

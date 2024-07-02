@@ -1,0 +1,35 @@
+he current in the 
+resistor?
+APPROACH To find the current out of the battery, we first need to determine
+the equivalent resistance 
+of the entire circuit, including r, which we do by
+identifying and isolating simple series or parallel combinations of resistors.
+Once we find I from Ohm’s law,
+we get the terminal voltage using
+For (c) we apply Ohm’s law to the 
+resistor.
+SOLUTION (a) We want to determine the equivalent resistance of the circuit.
+But where do we start? We note that the 
+and 
+resistors are in parallel,
+and so have an equivalent resistance 
+given by
+so 
+This 
+is in series with the 
+resistor, as shown in the
+equivalent circuit of Fig. 19–10b. The net resistance of the lower arm of the
+circuit is then
+as shown in Fig. 19–10c. The equivalent resistance 
+of the 
+and 
+resistances in parallel is given by
+so 
+This 
+is in series with the 
+resistor
+and the 
+internal resistance of the battery (Fig. 19–10d), so the total
+equivalent resistance 
+of the circuit is
+Hence the current drawn

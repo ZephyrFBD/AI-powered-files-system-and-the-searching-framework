@@ -1,0 +1,21 @@
+ dis-
+cussed in later Chapters. In this Chapter we discuss only charges at rest, the study
+of which is called electrostatics, and Coulomb’s law gives the electrostatic force.
+When calculating with Coulomb’s law, we usually use magnitudes, ignoring
+signs of the charges, and determine the direction of a force separately based on
+whether the force is attractive or repulsive.
+ 0
+ 0
+EXERCISE A Return to the Chapter-Opening Question, page 443, and answer it again
+now. Try to explain why you may have answered differently the first time.
+Electric force on electron by proton. Determine the
+magnitude and direction of the electric force on the electron of a hydrogen 
+atom exerted by the single proton  
+that is the atom’s nucleus. Assume
+the average distance between the revolving electron and the proton is
+Fig. 16–16.
+APPROACH To find the force magnitude we use Coulomb’s law,
+(Eq. 16–1), with  
+The electron and proton
+have the same magnitude of charge, e, so  
+SOLUTION The magnitude of the force

@@ -1,0 +1,40 @@
+ 6 iii 6 i (e) iii 6 ii 6 i
+ 
+▶Practice Exercise 2
+(a) Based on information in Appendix D, which of these anions 
+has the largest base-dissociation constant: NO2
+-, PO4
+3 -, or N3
+-?
+(b) The base quinoline has the structure
+N
+Its conjugate acid is listed in handbooks as having a pKa of 4.90. 
+What is the base-dissociation constant for quinoline?
+Kb =
+Kw
+Ka
+= 1.0 * 10-14
+6.8 * 10-4 = 1.5 * 10-11
+Ka =
+Kw
+Kb
+= 1.0 * 10-14
+1.8 * 10-5 = 5.6 * 10-10
+SOLUTION
+Sample Exercise 16.17 
+Calculating Ka or Kb for a Conjugate Acid–Base Pair
+Plan We can use the tabulated K values for HF and NH3 and the 
+relationship between Ka and Kb to calculate the dissociation con-
+stants for their conjugates, F - and NH4
++.
+ 
+SECTION 16.8   
+Relationship Between Ka and Kb 
+695
+696 
+CHAPTER 16 Acid–Base Equilibria
+16.9 ∣  
+Acid–Base Properties  
+of Salt Solutions
+Even before you began this chapter, you were undoubtedly aware of many substances 
+that are acidic, such as HNO3, HCl, and H2SO4, and others that are basi

@@ -1,0 +1,17 @@
+al)
+energy due to compression and to thermal energy by friction can be taken into
+account by adding terms to Eq. 10–5. These terms are difficult to calculate
+theoretically and are normally determined empirically for given situations. They
+do not significantly alter the explanations for the phenomena described above.
+10–1
+1 Viscosity
+Real fluids have a certain amount of internal friction called viscosity, as men-
+tioned in Section 10–8. Viscosity exists in both liquids and gases, and is essentially
+a frictional force between adjacent layers of fluid as the layers move past one
+another. In liquids, viscosity is due to the electrical cohesive forces between the
+molecules. In gases, it arises from collisions between the molecules.
+The viscosity of different fluids can be expressed quantitatively by a coeffi-
+cient of viscosity,
+(the Greek lowercase letter eta), which is defined in the
+following way. A thin layer of fluid is placed between two flat plates. One plate 
+is stationary and the o

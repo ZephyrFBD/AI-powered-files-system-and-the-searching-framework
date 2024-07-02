@@ -1,0 +1,70 @@
+x components together, and we add the 
+y components together to obtain the x and y components of the resultant:
+The x and y components of the resultant are 600 km and 
+and point
+respectively to the east and south. This is one way to give the answer.
+6. Magnitude and direction:We can also give the answer as
+Thus, the total displacement has magnitude 960 km and points 51° below the
+x axis (south of east), as was shown in our original sketch, Fig. 3–16a.
+so u =
+–51°.
+ 
+tan u =
+DRy
+DRx
+=
+–750 km
+600 km =
+–1.25,
+DR = 3DRx
+2
++ DRy
+2
+= 3(600)2 + (–750)2 km = 960 km
+–750 km,
+DRy = D1y + D2y + D3y =
+0 km - 311 km - 439 km =
+–750 km.
+DRx = D1x + D2x + D3x = 620 km + 311 km - 331 km =
+600 km
+–y
+–x
+D3y =
+–D3 sin 53°  =
+–(550 km)(0.799) =
+–439 km.
+D
+B
+3 : D3x =
+–D3 cos 53° =
+–(550 km)(0.602) =
+–331 km
+D2y =
+–D2 sin 45°  =
+–(440 km)(0.707) =
+–311 km
+D
+B
+2 : D2x =
+±D2 cos 45° =
+±(440 km)(0.707) =
+±311 km
+D1y =
+±D1 sin 0°  = 0 km
+ 
+D
+B
+1 : D1x =
+±D1 cos 0°  = D1 = 620 km
+ 
+D
+B
+R
+D
+B
+3
+D
+B
+1 , D
+B
+2 ,

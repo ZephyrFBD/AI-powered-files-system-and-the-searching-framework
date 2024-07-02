@@ -1,0 +1,18 @@
+opes? (b) Which one decays at 
+a faster rate? (c) How much of a 1.00-mg sample of each 
+isotope remains after three half-lives? (d) How much of a 
+1.00-mg sample of each isotope remains after 4 days?
+ 14.105 At 28 °C, raw milk sours in 4.0 h but takes 48 h to sour 
+in a refrigerator at 5 °C. Estimate the activation energy in 
+kJ>mol for the reaction that leads to the souring of milk.
+ 
+[14.106] The following is a quote from an article in the August 18, 
+1998, issue of The New York Times about the breakdown of 
+cellulose and starch: “A drop of 18 degrees Fahrenheit [from 
+77 °F to 59 °F4 lowers the reaction rate six times; a 36-degree 
+drop [from 77 °F to 41°F] produces a fortyfold decrease in 
+the rate.” (a) Calculate activation energies for the breakdown 
+process based on the two estimates of the effect of tempera-
+ture on rate. Are the values consistent? (b) Assuming the 
+value of Ea calculated from the 36° drop and that the rate of 
+breakdown is ﬁrst order with a half-life at 25 °C 

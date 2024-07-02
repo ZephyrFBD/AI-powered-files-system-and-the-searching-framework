@@ -1,0 +1,28 @@
+han one of these.
+ 
+▶Practice Exercise 2
+Using Figure 14.3, determine the instantaneous rate of disap-
+pearance of C4H9Cl at t = 300 s.
+Give It Some Thought
+In Figure 14.3, order the following three rates from fastest to slowest: (i) The average 
+rate of the reaction between 0 s and 600 s, (ii) the instantaneous rate at t = 0 s, and 
+(iii) the instantaneous rate at t = 600 s. You should not have to do any calculations.
+ 
+SECTION 14.3   
+Concentration and Rate Laws 
+575
+14.3 ∣ Concentration and Rate Laws
+One way of studying the effect of concentration on reaction rate is to determine the way 
+in which the initial rate of a reaction depends on the initial concentrations. For example, 
+we might study the rate of the reaction
+ 
+NH4
++1aq2 + NO2  
+-1aq2 ¡ N21g2 + 2 H2O1l2 
+by measuring the concentration of NH4
++ or NO2
+-  as a function of time or by measuring 
+the volume of N2 collected as a function of time. Because the stoichiometric coefficients 
+on NH4
++, NO2
+-, and N2 are the same, all 

@@ -1,0 +1,16 @@
+eactant 24n c
+The constant k in the rate law is called the rate constant; the expo-
+nents m, n, and so forth are called reaction orders for the reactants. The 
+sum of the reaction orders gives the overall reaction order. Reaction or-
+ders must be determined experimentally. The units of the rate con-
+stant depend on the overall reaction order. For a reaction in which 
+the overall reaction order is 1, k has units of s-1; for one in which the 
+overall reaction order is 2, k has units of M -1 s-1.
+Spectroscopy is one technique that can be used to monitor the 
+course of a reaction. According to Beer’s law, the absorption of elec-
+tromagnetic radiation by a substance at a particular wavelength is di-
+rectly proportional to its concentration.
+CONCENTRATION AND TIME (SECTION 14.4) Rate laws can be 
+used to determine the concentrations of reactants or products at any 
+time during a reaction. In a first-order reaction the rate is proportional 
+to the concentration of a single reactant raised to 

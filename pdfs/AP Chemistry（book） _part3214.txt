@@ -1,0 +1,33 @@
+ a reaction by the expres-
+sion ∆G° = -RT ln K (Equation 19.20), we can relate E ° to K by solving Equation 20.12 
+for E° and then substituting the Equation 19.20 expression for ∆G°.
+ 
+E° = ∆G°
+-nF = -RT ln K
+-nF
+= RT
+nF ln K 
+[20.13]
+Figure 20.13 summarizes the relationships among E°, ∆G°, and K.
+▲ Figure 20.12 Michael Faraday. Faraday 
+(1791–1867) was born in England, a child 
+of a poor blacksmith. At the age of 14 he 
+was apprenticed to a bookbinder who gave 
+him time to read and to attend lectures. In 
+1812 he became an assistant in Humphry 
+Davy’s laboratory at the Royal Institution. 
+He succeeded Davy as the most famous and 
+influential scientist in England, making an 
+amazing number of important discoveries, 
+including his formulation of the quantitative 
+relationships between electrical current 
+and the extent of chemical reaction in 
+electrochemical cells.
+ 
+SECTION 20.5   
+Free Energy and Redox Reactions 
+869
+870 
+CHAPTER 20 Electrochemistry
+Go Figure
+What does the variable n

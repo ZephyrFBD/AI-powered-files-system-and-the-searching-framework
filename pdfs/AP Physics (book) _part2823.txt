@@ -1,0 +1,38 @@
+a lens, showing the diffraction pattern
+of an image for: (a) a single point
+object; (b) two point objects whose
+images are barely resolved.
+u
+
+0
+D
+1.22l
+D
+1.22l
+Intensity
+s
+O′
+O
+u
+u
+FIGURE 25–31 The Rayleigh criterion.
+Two images are just resolvable when
+the center of the diffraction peak of
+one is directly over the first minimum
+in the diffraction pattern of the other.
+The two point objects O and 
+subtend an angle at the lens; only
+one ray (it passes through the center
+of the lens) is drawn for each object,
+to indicate the center of the
+diffraction pattern of its image.
+u
+O¿
+FIGURE 25–30 Intensity of light
+across the diffraction pattern of a
+circular hole.
+Hubble Space Telescope. The Hubble Space Telescope
+(HST) is a reflecting telescope that was placed in orbit above the Earth’s
+atmosphere, so its resolution would not be limited by turbulence in the atmosphere
+(Fig. 25–32). Its objective diameter is 2.4 m. For visible light, say 
+estimate the improvement in resolution the Hubble off

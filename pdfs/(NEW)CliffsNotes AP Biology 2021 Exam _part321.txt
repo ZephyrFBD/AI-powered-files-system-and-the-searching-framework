@@ -1,0 +1,12 @@
+eotides earlier in its synthesis.
+The growing Okazaki fragment on the lagging strand, however, still has its RNA primer attached, because a primer
+must initiate each new fragment. The details of DNA replication are summarized here. Numbers correspond to
+events illustrated in Figure 9-2:
+1. Helicase unwinds the DNA, producing a replication fork (1A, 1B). Single-strand binding proteins prevent the
+single strands of DNA from recombining (1C). Topoisomerase removes twists and knots that form in the double-
+stranded template as a result of the unwinding induced by helicase (1D).
+2. Primase (2A) initiates DNA replication at special nucleotide sequences (called origins of replication) with short
+segments of RNA nucleotides, called RNA primers (2B).
+3. DNA polymerase attaches to the RNA primers and begins elongation, the adding of DNA nucleotides to the
+complementary strand. 4. The leading complementary strand is assembled continuously toward the replication
+fork as the double-helix DNA uncoil

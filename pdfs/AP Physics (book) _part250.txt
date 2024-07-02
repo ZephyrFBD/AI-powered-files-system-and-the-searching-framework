@@ -1,0 +1,37 @@
+ as in Fig. 3–11b. The longest 
+side of a right triangle, opposite the right angle, is called the hypotenuse, which
+we label h. The side opposite the angle 
+is labeled o, and the side adjacent is
+labeled a. We let h, o, and a represent the lengths of these sides, respectively.
+u
+u,
+θ
+θ
+θ
+(c)
+o
+a
+h
+o
+h
+a
+h'
+a'
+(a)
+(b)
+o'
+FIGURE 3;11 Starting with an angle as 
+in (a), we can construct right triangles of 
+different sizes, (b) and (c), but the ratio of
+the lengths of the sides does not depend on
+the size of the triangle.
+u
+We now define the three trigonometric functions, sine, cosine, and tangent (abbre-
+viated sin, cos, tan), in terms of the right triangle, as follows:
+(3;1)
+If we make the triangle bigger, but keep the same angles, then the ratio of the
+length of one side to the other, or of one side to the hypotenuse, remains the same.
+That is, in Fig. 3–11c we have:
+and
+Thus the values of sine, cosine, and tangent do not depend on how big the trian-
+gle is. They depend only on the size 

@@ -1,0 +1,18 @@
+ A or at point B?
+RESPONSE (a) Positive charge always flows from 
+to 
+from high potential
+to low potential. So if current I is conventional (positive) current, point A is at 
+a higher potential than point B.
+(b) Conservation of charge requires that whatever charge flows into the resistor
+at point A, an equal amount of charge emerges at point B. Charge or current
+does not get “used up” by a resistor. So the current is the same at A and B.
+An electric potential decrease, as from point A to point B in Example 18–4,
+is often called a potential drop or a voltage drop.
+Some Helpful Clarifications
+Here we briefly summarize some possible misunderstandings and clarifications.
+Batteries do not put out a constant current. Instead, batteries are intended to
+maintain a constant potential difference, or very nearly so. (Details in the next
+Chapter.) Thus a battery should be considered a source of voltage. The voltage is
+applied across a wire or device.
+Electric current passes through a wire or devic

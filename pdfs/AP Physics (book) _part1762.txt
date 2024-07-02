@@ -1,0 +1,46 @@
+t charges. Calculate the total electric
+field at point A in Fig. 16–28 due to both charges,
+and 
+APPROACH The calculation is much like that of Example 16–4, except now 
+we are dealing with electric fields instead of force. The electric field at point A 
+is the vector sum of the fields 
+due to 
+and 
+due to 
+We find the
+magnitude of the field produced by each point charge, then we add their 
+components to find the total field at point A.
+SOLUTION The magnitude of the electric field produced at point A by each of
+the charges 
+and 
+is given by
+so
+The direction of 
+points from A toward 
+(negative charge), whereas 
+points from A away from 
+as shown; so the total electric field at A,
+has
+components
+Thus the magnitude of 
+is
+and its direction is 
+(Fig. 16–28) given by
+so f = 76°.
+tan f = EAyEAx = 4.41.1 = 4.0,
+f
+EA = 3(1.1)2 + (4.4)2 * 106 NC = 4.5 * 106 NC,
+E
+B
+A
+EAy = EA2 - EA1 sin 30° = 4.4 * 106 NC.
+EAx = EA1 cos 30° = 1.1 * 106 NC,
+E
+B
+A,
+Q2 ,
+EA2
+Q1
+EA1
+EA2 =
+A9.0 * 109 Nm2C2BA50

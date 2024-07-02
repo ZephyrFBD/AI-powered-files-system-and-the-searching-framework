@@ -1,0 +1,28 @@
+e to the base of the building with big, 1-m-long steps, and
+you get a total of 16 steps or 16 m.
+SOLUTION Now you draw, to scale, the diagram shown in Fig. 1–12b using
+these measurements. You can measure, right on the diagram, the last side of
+the triangle to be about
+Alternatively, you can use similar triangles
+to obtain the height x:
+so
+Finally you add in your eye height of 1.5 m above the ground to get your final
+result: the building is about 15 m tall.
+x L  13 1
+2 m.
+1.5 m
+2 m
+=
+x
+18 m
+,
+x = 13 m.
+EXAMPLE 1;8
+ESTIMATE
+Another approach, this one made famous by Enrico Fermi (1901–1954,
+Fig. 1–13), was to show his students how to estimate the number of piano tuners in
+a city, say, Chicago or San Francisco. To get a rough order-of-magnitude estimate
+of the number of piano tuners today in San Francisco, a city of about 800,000
+inhabitants, we can proceed by estimating the number of functioning pianos,
+how often each piano is tuned, and how many pianos each tuner can tune. To
+estimate th

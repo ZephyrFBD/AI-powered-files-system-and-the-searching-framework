@@ -1,0 +1,83 @@
+n 30–4 is called the
+radioactive decay law.
+14
+6C
+e = 2.718 p.
+t
+t = 0,
+N
+0
+N = N
+0 e–lt,
+¢N
+¢t
+870
+CHAPTER 30
+Nuclear Physics and Radioactivity
+1
+2N0
+N0
+1
+4N0
+1
+8N0
+Time, t (yr)
+Time, t (yr)
+5730
+Number of parent nuclei, N
+0
+11,460
+17,190
+(a)
+0
+5730
+4.0 × 1010
+2.0 × 1010
+0
+11,460
+17,190
+(b)
+0
+Decays per second, ΔN/Δt
+(=1.0 × 1022)
+FIGURE 30–9 Radioactive nuclei
+decay one by one. Hence, the
+number of parent nuclei in a sample
+is continually decreasing. When a
+nucleus emits an electron (b),
+the nucleus becomes a 
+nucleus.
+Another decays in (c).
+14
+7N
+14
+6C
+ C atom
+(parent)
+6
+14
+e-
+e-
+(a)
+(b)
+(c)
+Legend
+ N atom
+(daughter)
+14
+7
+FIGURE 30–10 (a) The number N of parent nuclei in a given sample of 
+decreases exponentially.
+We assume a sample that has 
+(b) The number of decays per second also
+decreases exponentially. The half-life of 
+is 5730 yr, which means that the number of parent
+nuclei, N, and the rate of decay,
+decrease by half every 5730 yr.
+¢N¢t,
+14
+6C
+N
+0 = 1.00 * 1022 nuclei.
+14
+6C

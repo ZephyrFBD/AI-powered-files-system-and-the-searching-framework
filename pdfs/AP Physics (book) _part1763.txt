@@ -1,0 +1,54 @@
+ * 10–6 CB
+(0.30 m)2
+= 5.0 * 106 NC.
+EA1 =
+A9.0 * 109 Nm2C2BA50 * 10–6 CB
+(0.60 m)2
+= 1.25 * 106 NC,
+E = kQr2,
+Q2
+Q1
+Q2.
+E
+B
+A2
+Q1 ,
+E
+B
+A1
+Q2 .
+Q1
+E
+B
+EXAMPLE 16;9
+- charge. Show and label each vector force or field
+on your diagram.
+2. Apply Coulomb’s law to calculate the magnitude of
+the force that each contributing charge exerts on a
+charged object, or the magnitude of the electric field
+each charge produces at a given point. Deal only with
+magnitudes of charges (leaving out minus signs), and
+obtain the magnitude of each force or electric field.
+3. Add vectorially all the forces on an object, or the
+contributing fields at a point, to get the resultant. Use
+symmetry (say, in the geometry) whenever possible.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Electrostatics: Electric Forces and
+Electric Fields
+Whether you use electric field or electrostatic forces, the
+procedure for solving electrostatics problems is similar:
+1. Draw a careful diagram—namely, a free-body dia-
+gram for each object, showi

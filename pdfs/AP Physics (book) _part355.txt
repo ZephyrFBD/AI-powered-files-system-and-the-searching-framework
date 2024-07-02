@@ -1,0 +1,18 @@
+tter how hard I pull, the backward reaction force always equals
+my forward force, so the net force must be zero. I’ll never be able to move this
+load.” Is he correct?
+RESPONSE No. Although it is true that the action and reaction forces are equal
+in magnitude, the assistant has forgotten that they are exerted on different
+objects. The forward (“action”) force is exerted by the assistant on the sled 
+(Fig. 4–12), whereas the backward “reaction” force is exerted by the sled on the
+assistant. To determine if the assistant moves or not, we must consider only 
+the forces on the assistant and then apply  
+where 
+is the net force
+on the assistant,
+is the acceleration of the assistant, and m is the assistant’s mass.
+There are two forces on the assistant that affect his forward motion; they are
+shown as bright red (magenta) arrows in Figs.4–12 and 4–13: they are (1) the hori-
+zontal force 
+exerted on the assistant by the ground (the harder he pushes
+backward against the ground, the harder the gr

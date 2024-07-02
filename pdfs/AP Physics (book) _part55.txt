@@ -1,0 +1,16 @@
+ out what you learned and what you didn’t. Discuss
+them with other students. Problem solving is one of the great learning tools.
+Don’t just look for a formula—it might be the wrong one.
+NOTES ON THE FORMAT AND PROBLEM SOLVING
+1. Sections marked with a star (*) are considered optional. They can be omitted
+without interrupting the main flow of topics. No later material depends on
+them except possibly later starred Sections. They may be fun to read, though.
+2. The customary conventions are used: symbols for quantities (such as m for
+mass) are italicized, whereas units (such as m for meter) are not italicized.
+Symbols for vectors are shown in boldface with a small arrow above:
+.
+3. Few equations are valid in all situations. Where practical, the limitations of
+important equations are stated in square brackets next to the equation. The
+equations that represent the great laws of physics are displayed with a tan
+background, as are a few other indispensable equations.
+4. At the end of each Chap

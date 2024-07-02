@@ -1,0 +1,49 @@
+
+3.0 * 10–3 m
+= 2.2 m.
+s = lu = l 1.22l
+D
+D = 3.0 mm
+u
+l = 104 m
+s = lu,
+u.
+l = 550 nm.
+EXAMPLE 25;11
+ESTIMATE
+A2.4 * 10–6 rad2.8 * 10–7 rad L 9*B.
+u = 1.22l
+D
+=
+1.22 A550 * 10–9 mB
+2.4 m
+= 2.8 * 10–7 rad,
+l = 550 nm
+u =
+1
+2 a
+1
+3600 b° a 2p rad
+360° b
+= 2.4 * 10–6 rad.
+1° = 3600 arc
+l = 550 nm,
+EXAMPLE 25;10
+730
+CHAPTER 25
+Optical Instruments
+P H Y S I C S  A P P L I E D
+How well the eye can see
+FIGURE 25–32 Hubble Space
+Telescope, with Earth in the
+background. The flat orange panels
+are solar cells that collect energy
+from the Sun to power the
+equipment.
+To examine this problem, we apply the Rayleigh criterion: two objects (or two
+nearby points on one object) are just resolvable if they are separated by an angle 
+(Fig. 25–31) given by Eq. 25–7:
+This formula is valid for either a microscope or a telescope, where D is the diam-
+eter of the objective lens or mirror. For a telescope, the resolution is specified 
+by stating as given by this equation.†
+Telescope resolution (radio wave vs.

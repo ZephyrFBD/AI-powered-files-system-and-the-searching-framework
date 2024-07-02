@@ -1,0 +1,36 @@
+ object always exerts a
+force on the first object which is equal in magnitude but oppo-
+site in direction:
+(4;2)
+where 
+is the force on object B exerted by object A.
+The tendency of an object to resist a change in its motion
+is called inertia. Mass is a measure of the inertia of an object.
+F
+B
+BA
+F
+B
+AB =
+–F
+B
+BA
+©F
+B = ma
+B.
+Weight refers to the gravitational force on an object, and is
+equal to the product of the object’s mass m and the acceleration
+of gravity 
+(4;3)
+Force, which is a vector, can be considered as a push or pull;
+or, from Newton’s second law, force can be defined as an action
+capable of giving rise to acceleration. The net force on an object
+is the vector sum of all forces acting on that object.
+When two objects slide over one another, the force of 
+friction that each object exerts on the other can be written
+approximately as
+where 
+is the normal force
+(the force each object exerts on the other perpendicular to their
+contact surfaces), and 
+is the coefficient of kineti

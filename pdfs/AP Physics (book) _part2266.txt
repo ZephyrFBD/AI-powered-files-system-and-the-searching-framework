@@ -1,0 +1,37 @@
+ of 
+for each case in
+Fig. 20–53, where 
+represents the maximum magnetic
+force on a positively
+charged particle moving
+with velocity v
+B.
+F
+B
+B
+B
+584
+CHAPTER 20
+Magnetism
+20. (III) A proton (mass 
+), a deuteron 
+and an alpha particle 
+are accelerated
+by the same potential difference V and then enter a uniform
+magnetic field 
+where they move in circular paths per-
+pendicular to 
+Determine the radius of the paths for the
+deuteron and alpha particle in terms of that for the proton.
+21. (III) A 3.40-g bullet moves with a speed of 
+per-
+pendicular to the Earth’s magnetic field of 
+If the bullet possesses a net charge of 
+by
+what distance will it be deflected from its path due to the
+Earth’s magnetic field after it has traveled 1.50 km?
+*22. (III) A Hall probe, consisting of a thin rectangular slab of
+current-carrying material, is calibrated by placing it in
+a known magnetic field of magnitude 0.10 T. When the
+field is oriented normal to the slab’s rectangular face,
+a Hall emf of 12 mV is me

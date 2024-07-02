@@ -1,0 +1,24 @@
+ distance at which to find the electron (the highest peak) moves farther from the nucleus.
+3s
+2s
+1s
+(a) An electron density model
+(b) Contour models
+▶ Figure 6.20 Comparison of the 1s, 2s, and 
+3s orbitals. (a) Electron-density distribution 
+of a 1s orbital. (b) Contour representations 
+of the 1s, 2s, and 3s orbitals. Each sphere 
+is centered on the atom’s nucleus and 
+encloses the volume in which there is a 
+90% probability of finding the electron.
+ 
+SECTION 6.6  Representations of Orbitals 
+233
+According to quantum mechanics, we must describe the position 
+of the electron in the hydrogen atom in terms of probabilities rath-
+er than exact locations. The information about the probability is 
+contained in the wave functions, c, obtained from Schrödinger’s 
+equation. The square of the wave function, c2, called either the 
+probability density or the electron density, as noted earlier, gives the 
+probability that the electron is at any point in space. Because s orbit-
+als are spherically s

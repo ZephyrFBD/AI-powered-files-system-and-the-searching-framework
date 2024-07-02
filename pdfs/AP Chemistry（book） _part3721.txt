@@ -1,0 +1,76 @@
+nergy diagram of Figure 23.28.
+It might seem like the energy of the dx2 - y2 orbital should be different from that of 
+the dz2 orbital because the dx2 - y2 has four lobes pointing at ligands and the dz2 has only 
+two lobes pointing at ligands. However, the dz2 orbital does have electron density in the 
+xy plane, represented by the ring encircling the point where the two lobes meet. More 
+advanced calculations show that two orbitals do indeed have the same energy in the 
+presence of the octahedral crystal-field.
+Go Figure
+Which d orbitals have lobes that point directly toward the ligands in an 
+octahedral crystal-field?
+Energy
+Free metal ion
+t2 set (dxy, dxz, dyz)
+e set (dz2, dx2−y2)
+∆
+Metal ion plus
+ligands (negative
+point charges
+with spherical
+symmetry)
+In octahedral
+crystal field
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
++
+−
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+dz2
+dx2−y2
+dxy
+dxz
+dyz
+▲ Figure 23.28 Energies of d orbitals in a free metal ion, a spherically symmetric crys

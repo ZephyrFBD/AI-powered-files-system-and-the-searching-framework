@@ -1,0 +1,13 @@
+ is often used inconsistently, so it is important for us to define heat clearly,
+and to clarify the phenomena and concepts related to heat.
+We commonly speak of the flow of heat—heat flows from a stove burner to a
+pot of soup, from the Sun to the Earth, from a person’s mouth into a fever ther-
+mometer. Heat flows spontaneously from an object at higher temperature to one
+at lower temperature. Indeed, an eighteenth-century model of heat pictured heat
+flow as movement of a fluid substance called caloric. However, the caloric fluid
+could never be detected. In the nineteenth century, it was found that the various
+phenomena associated with heat could be described consistently using a new
+model that views heat as being akin to work, as we will discuss in a moment. First
+we note that a common unit for heat, still in use today, is named after caloric. It is
+called the calorie (cal) and is defined as the amount of heat necessary to raise the
+temperature of 1 gram of water by 1 Celsius degree. [T

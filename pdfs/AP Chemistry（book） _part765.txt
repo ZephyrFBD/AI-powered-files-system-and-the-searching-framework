@@ -1,0 +1,26 @@
+se graphite is the more stable (lower-energy) form at 298 K and 
+atmospheric pressure. Likewise, the most stable form of hydrogen under standard condi-
+tions is H21g2, so this is used as the source of hydrogen in Equation 5.25.
+The stoichiometry of formation reactions always indicates that one mole of the 
+desired substance is produced, as in Equation 5.25. As a result, standard enthalpies of 
+formation are reported in kJ>mol of the substance being formed. Some values are given 
+in Table 5.3, and a more extensive table is provided in Appendix C.
+11 mol in standard state2
+1in standard state2
+Go Figure
+Suppose the overall reaction were 
+modified to produce 2 H2O(g) rather 
+than 2 H2O(l). Would any of the values 
+of ∆H in the diagram stay the same?
+CO2(g) 1 2 H2O(l)
+DH1 5
+2890 kJ
+DH2 5 2607 kJ
+DH3 5 2283 kJ
+CH4(g) + 2 O2(g)
+Enthalpy
+CO(g) 1 2 H2O(l) 1     O2(g)
+1
+2
+▲ Figure 5.22 Enthalpy diagram illustrating Hess’s law. The 
+net reaction is the same as in Figure 5.21, but here we imagine 

@@ -1,0 +1,21 @@
+ions and Reaction Stoichiometry
+Molecular Formulas from Empirical Formulas
+We can obtain the molecular formula for any compound from its empirical formula if we 
+know either the molecular weight or the molar mass of the compound. The subscripts in 
+the molecular formula of a substance are always whole-number multiples of the subscripts in its 
+empirical formula.  
+(Section 2.6) This multiple can be found by dividing the molecular 
+weight by the empirical formula weight:
+ 
+Whole@number multiple =
+molecular weight
+empirical formula weight 
+[3.11] 
+In Sample Exercise 3.13, for example, the empirical formula of ascorbic acid was de-
+termined to be C3H4O3. This means the empirical formula weight is 3112.0 amu2 +
+411.0 amu2 + 3116.0 amu2 = 88.0 amu. The experimentally determined molecular 
+weight is 176 amu. Thus, we find the whole-number multiple that converts the empirical 
+formula to the molecular formula by dividing
+Whole@number multiple =
+molecular weight
+empirical formula weight = 176 

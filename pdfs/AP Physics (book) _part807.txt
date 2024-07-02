@@ -1,0 +1,33 @@
+
+During the 8.0-s time interval, the carousel accelerates from 
+to
+.
+(b) The linear velocity of the child with 
+at time 
+is found 
+using Eq. 8–4:
+Note that the “rad”has been omitted in the final result because it is dimensionless
+(and only a reminder)—it is a ratio of two distances, Eq. 8–1a.
+Angular and linear accelerations. For the child on the
+rotating carousel of Example 8–4, determine that child’s (a) tangential (linear)
+acceleration, (b) centripetal acceleration, (c) total acceleration.
+APPROACH We use the relations discussed above, Eqs. 8–5 and 8–6.
+SOLUTION (a) The child’s tangential acceleration is given by Eq. 8–5:
+and it is the same throughout the 8.0-s acceleration period.
+(b) The child’s centripetal acceleration at 
+is given by Eq. 8–6:
+aR = v2
+r
+= (1.2 ms)2
+(2.5 m)
+= 0.58 ms2.
+t = 8.0 s
+atan = ra = (2.5 m)A0.060 rads2B
+= 0.15 ms2,
+EXAMPLE 8;5
+v = rv = (2.5 m)(0.48 rads) = 1.2 ms.
+t = 8.0 s
+r = 2.5 m
+v2 = 0.48 rads
+v1 = 0
+v2 = v1 + k ¢t = 0 + A0.060 rads2B(8.0 s) =

@@ -1,0 +1,36 @@
+flask filled 
+with gas and the mass of the evacuated flask:
+137.456 g - 134.567 g = 2.889 g
+Knowing the mass of the gas (2.889 g) and its volume (0.936 L), we 
+can calculate the density of the gas:
+d = 2.889 g>0.936 L = 3.09 g>L
+After converting pressure to atmospheres and temperature to  
+kelvins, we can use Equation 10.11 to calculate the molar mass:
+ 
+ℳ= dRT
+P
+ 
+ =
+13.09 g>L210.08206 L@atm>mol@K21304 K2
+10.967 atm2
+ 
+ = 79.7 g>mol
+Check The units work out appropriately, and the value of molar 
+mass obtained is reasonable for a substance that is gaseous near 
+room temperature.
+ 
+▶Practice Exercise 1
+What is the molar mass of an unknown hydrocarbon whose 
+density is measured to be 1.97 g/L at STP?  
+(a) 4.04 g/mol (b) 30.7 g/mol (c) 44.1 g/mol  
+(d) 48.2 g/mol
+ 
+▶Practice Exercise 2
+Calculate the average molar mass of dry air if it has a density 
+of 1.17 g>L at 21 °C and 740.0 torr.
+410 
+CHAPTER 10 Gases
+10.6 ∣  
+Gas Mixtures and Partial 
+Pressures
+Thus far we have considered mainly p

@@ -1,0 +1,44 @@
+potentials, often called half-cell potentials, can be combined to calculate E°
+cell 
+values for a large variety of voltaic cells.
+Go Figure
+Why do Na+ ions migrate into the cathode half-cell as the cell 
+reaction proceeds?
+0.76 V
+Zn2+
+Na+
+H+
+NO3
+−
+NO3
+−
+NO3
+−
+NO3
+−
+Voltmeter
+−
+Zn
+anode
+2 H+(aq) + 2 e−            H2(g)
+Zn(s)            Zn2+(aq) + 2 e−
+Cathode
+half-cell
+(standard
+hydrogen
+electrode, SHE)
+Anode
+half-cell
+H2(g)
+e−
+e−
++
+▲ Figure 20.9 A voltaic cell using a standard hydrogen electrode (SHE). The anode half-cell is Zn 
+metal in a Zn1NO3221aq2 solution, and the cathode half-cell is the SHE in a HNO31aq2 solution.
+Give It Some Thought
+For the half-reaction Cl21g2 + 2 e- ¡ 2 Cl-1aq2, what are the standard conditions 
+for the reactant and product?
+Because electrical potential measures potential energy per electrical charge, stan-
+dard reduction potentials are intensive properties. 
+ (Section 1.3) In other words, if 
+we increase the amount of substances in a redox reaction, we inc

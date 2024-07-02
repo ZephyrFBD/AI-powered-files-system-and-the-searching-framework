@@ -1,0 +1,18 @@
+The slight difference in energy (0.05 eV) is supplied by the kinetic energy of the
+moving atoms. In this manner, the 
+state in Ne—which is metastable—becomes
+more populated than the 
+level. This inverted population between 
+and 
+is what is needed for lasing.
+Very common now are semiconductor diode lasers, also called pn junction
+lasers, which utilize an inverted population of electrons between the conduction
+band and the lower-energy valence band (Section 29–9). When an electron jumps
+down, a photon can be emitted, which in turn can stimulate another electron to
+make the transition and emit another photon, in phase. The needed mirrors (as in
+Fig. 28–18) are made by the polished ends of the pn crystal. Semiconductor lasers
+are used in CD and DVD players (see below), and in many other applications.
+Other types of laser include: chemical lasers, in which the energy input comes
+from the chemical reaction of highly reactive gases; dye lasers, whose frequency 
+is tunable;
+gas lasers, capable

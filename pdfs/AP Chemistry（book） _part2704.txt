@@ -1,0 +1,29 @@
+sumed by HA to produce A-; in this case 3HA4 decreases and 3A-4 
+increases. (See Equation 17.6.) These two situations are summarized in Figure 17.2.
+To calculate how the pH of the buffer responds to the addition of a strong acid or a 
+strong base, we follow the strategy outlined in Figure 17.3:
+1. Consider the acid–base neutralization reaction and determine its effect on [HA] and 
+3A-4. This step is a limiting reactant stoichiometry calculation. 
+ (Sections 3.6 and 3.7)
+2. Use the calculated values of 3HA4 and 3A-4 along with Ka to calculate 3H+4. This 
+step is an equilibrium calculation and is most easily done using the Henderson–
+Hasselbalch equation (if the concentrations of the weak acid–base pair are very 
+large compared to Ka for the acid).
+1
+Use Ka, [HA],
+and [A−] to
+calculate [H+]
+A−(aq) + H+(aq)
+HA(aq)
+Buffer containing
+weak acid HA
+ and conjugate base A−
+Calculate new
+values of
+[HA] and [A−]
+HA(aq) + OH−(aq)
+A−(aq) + H2O(l)
+pH
+Add strong base
+Add strong acid
+Strong acid react

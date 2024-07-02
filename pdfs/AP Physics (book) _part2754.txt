@@ -1,0 +1,30 @@
+signal? Assume all measurements
+are made much 
+farther than 9.0 m
+from the antenna
+towers.
+u
+(n = 1.58)?
+l = 688.0 nm
+l = 491.4 nm
+6.97 * 10–7 m
+6.50 * 10–7 m
+6.56 * 10–7 m
+3.60 * 105 slitsm.
+86. A series of polarizers are each rotated 10° from the previ-
+ous polarizer. Unpolarized light is incident on this series of
+polarizers. How many polarizers does the light have to go
+through before it is
+of its original intensity?
+87. The wings of a certain beetle have a series of parallel lines
+across them. When normally incident 480-nm light is
+reflected from the wing, the wing appears bright when
+viewed at an angle of 56°. How far apart are the lines?
+88. A teacher stands well back from an outside doorway
+0.88 m wide, and blows a whistle of frequency 950 Hz.
+Ignoring reflections, estimate at what angle(s) it is not
+possible to hear the whistle clearly on the playground outside
+the doorway. Assume 
+for the speed of sound.
+89. Light is incident on a diffraction grating with 
+and the pattern is

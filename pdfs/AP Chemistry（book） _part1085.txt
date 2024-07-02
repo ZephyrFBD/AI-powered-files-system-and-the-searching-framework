@@ -1,0 +1,28 @@
+l and Si are in the same period, with Si to the right of Al.
+radius Si 6 radius Al
+The radius increases as we move down a group with Al and B 
+belonging to the same group, as do C and Si.
+radius B 6 radius Al
+radius C 6 radius Si
+Combining these comparisons, we can conclude that C has the 
+smallest radius and Al the largest. Unfortunately, the two periodic 
+trends available to us do not supply enough information to deter-
+mine the relative sizes of B and Si.
+radius C 6 radius B ∼radius Si 6 radius Al
+ 
+▶Practice Exercise 1
+By referring to the periodic table, but not to Figure 7.7, place 
+the following atoms in order of increasing bonding atomic 
+radius: N, O, P
+, Ge.
+(a) N 6 O 6 P 6 Ge 
+(b) P 6 N 6 O 6 Ge
+(c) O 6 N 6 Ge 6 P
+(d) O 6 N 6 P 6 Ge
+(e) N 6 P 6 Ge 6 O
+ 
+▶Practice Exercise 2
+Arrange Be, C, K, and Ca in order of increasing atomic radius.
+Check Referring back to Figure 7.7, we can obtain numerical values 
+for each atomic radius that allow us to say that the radius of Si is 
+grea

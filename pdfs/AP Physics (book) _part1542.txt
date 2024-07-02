@@ -1,0 +1,27 @@
+Heat
+ﬂow
+A
+l
+†Equation 14–5 is quite similar to the relations describing diffusion (Section 13–13) and the flow of
+fluids through a pipe (Section 10–12). In those cases, the flow of matter was found to be proportional
+to the concentration gradient 
+or to the pressure gradient 
+This close simi-
+larity is one reason we speak of the “flow” of heat. Yet we must keep in mind that no substance is
+flowing in the case of heat—it is energy that is being transferred.
+AP
+1 - P
+2Bl.
+AC1 - C2Bl,
+P H Y S I C S  A P P L I E D
+Body temperature
+SECTION 14–6
+Heat Transfer: Conduction
+401
+Heat loss through windows. A major source of heat loss
+from a house in cold weather is through the windows. Calculate the rate of heat flow
+through a glass window 
+in area and 3.2 mm thick, if the temperatures
+at the inner and outer surfaces are 15.0°C and 14.0°C, respectively (Fig. 14–7).
+APPROACH Heat flows by conduction through the 3.2-mm thickness of glass
+from the higher inside temperature to the lower outside te

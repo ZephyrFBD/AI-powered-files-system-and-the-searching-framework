@@ -1,0 +1,25 @@
+, despite its instability, we can still observe what remains from its 
+formation in the early history of the universe.
+Radioactive decay is a first-order kinetic process. Recall that 
+a first-order process has a characteristic half-life, which is the 
+time required for half of any given quantity of a substance to react. 
+ 
+ (Section 14.4) Nuclear decay rates are commonly expressed in 
+terms of half-lives. Each radioisotope has its own characteristic half-
+life. For example, strontium-90 has a half-life of 28.8 yr:
+       
+90
+38Sr ¡ 90
+39Y +
+0
+-1e  t1>2 = 28.8 yr 
+[21.16]
+Thus, if we start with 10.0 g of strontium-90, only 5.0 g of that isotope 
+remains after 28.8 yr, 2.5 g remains after another 28.8 yr, and so on 
+ 
+(Figure 21.6).
+Half-lives as short as millionths of a second and as long as billions 
+of years are known. The half-lives of some radioisotopes are listed in 
+ 
+Table 21.5. One important feature of half-lives for nuclear decay is 
+that they are unaffected by external conditi

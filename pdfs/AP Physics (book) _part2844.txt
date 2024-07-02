@@ -1,0 +1,16 @@
+ refraction. There is absorption (and scattering), how-
+ever; and the difference in absorption by different structures in the body is what
+gives rise to the image produced by the transmitted rays. The less the absorption,
+the greater the transmission and the darker the film. The image is, in a sense,
+a “shadow” of what the rays have passed through. The X-ray image is not pro-
+duced by focusing rays with lenses as for the instruments discussed earlier in 
+this Chapter.
+Tomography Images (CT)
+In conventional X-ray images, a body’s thickness is projected onto film or a
+sensor; structures overlap and in many cases are difficult to distinguish. In the 1970s,
+a revolutionary X-ray technique was developed called computed tomography (CT),
+which produces an image of a slice through the body. (The word tomography
+comes from the Greek:
+) Structures and lesions
+previously impossible to visualize can now be seen with remarkable clarity. The 
+principle behind CT is shown in Fig. 25–42: a thin collim

@@ -1,0 +1,108 @@
+ is
+There is now a net (horizontal) force on the box of magnitude
+so the box will accelerate at a rate
+as long as the applied force is 40 N. Figure 4–28 shows a graph that summarizes
+this Example.
+ax =
+©F
+m
+=
+11 N
+10.0 kg
+= 1.1 ms2
+F = 40 N - 29 N = 11 N,
+F
+fr = mkF
+N = (0.30)(98.0 N) = 29 N.
+msF
+N = (0.40)(98 N) = 39 N.
+F
+fr = 20 N
+F
+fr = 10 N.
+©F
+x = F
+A - F
+fr = 0,
+F
+A = 10 N,
+msF
+N = (0.40)(98.0 N) = 39 N.
+F
+fr = 0.
+F
+A = 0
+F
+N = mg = (10.0 kg)A9.80 ms2B
+= 98.0 N.
+F
+N - mg = 0.
+©F
+y = may = 0,
+F
+B
+fr,
+F
+B
+A,
+F
+B
+N,
+mg
+B,
+F
+A
+F
+A
+F
+fr,
+mk = 0.30.
+ms = 0.40
+EXAMPLE 4;16
+mk
+ms
+F
+fr  msF
+N.
+ms
+AF
+frBmax = msF
+N,
+94
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+Ffr =
+Applied force, F
+A
+sFN
+μ
+Ffr =
+kFN
+μ
+sFN
+μ
+Static
+friction
+Kinetic
+friction
+Friction force, Ffr
+no
+motion
+sliding
+10
+10
+20
+30
+40 50
+60
+70
+20
+30
+40
+50
+0
+FIGURE 4;28 Example 4–16.
+Magnitude of the force of friction as 
+a function of the external force 
+applied to an object initially at rest.
+As the applied force is increased

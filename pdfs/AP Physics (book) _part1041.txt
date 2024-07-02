@@ -1,0 +1,29 @@
+ that pushes (or maintains) the mercury 76 cm
+high in a barometer. [Force pumps, Section 10–14, can push higher.]
+= 1.00 atm.
+= 1.013 * 105 Nm2
+= A13.6 * 103 kgm3BA9.80 ms2B(0.760 m)
+P = rg ¢h
+†This calculation confirms the entry in Table 10–2, 1 atm = 76.0 cm-Hg.
+FIGURE 10–9 A water barometer:
+a full tube of water (longer than 10 m),
+closed at the top, is inserted into a
+tub of water. When the submerged
+bottom end of the tube is unplugged,
+some water flows out of the tube
+into the tub, leaving a vacuum at the
+top of the tube above the water’s
+upper surface. Why? Because air
+pressure can support a column of
+water only 10 m high.
+P = 0
+P = 1 atm
+76.0 cm
+FIGURE 10–8 A mercury barometer,
+invented by Torricelli, is shown here
+when the air pressure is standard
+atmospheric, 76.0 cm-Hg.
+Suction. A novice engineer proposes suc-
+tion cup shoes for space shuttle astronauts working on the exterior of a spacecraft.
+Having just studied this Chapter, you gently remind him of the fallacy of this
+p

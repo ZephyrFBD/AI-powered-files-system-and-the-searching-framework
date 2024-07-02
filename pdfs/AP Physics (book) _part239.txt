@@ -1,0 +1,89 @@
+y:
+1 cm = 90 km/h
+FIGURE 3;1 Car traveling on a
+road, slowing down to round the
+curve. The green arrows represent
+the velocity vector at each position.
+Resultant = 14 km (east)
+Resultant = 2 km (east)
+6 km
+8 km
+8 km
+6 km
+x (km)
+East
+x (km)
+East
+(a)
+(b)
+0
+0
+FIGURE 3;2 Combining vectors in
+one dimension.
+0
+2
+1
+South
+Resultant displacement
+West
+θ
+2
+2
+4
+6
+4
+6
+8
+10
+D
+B
+D
+B
+y (km)
+North
+x (km)
+East
+     R=     1 +
+2
+D
+B
+D
+B
+D
+B
+FIGURE 3;3 A person walks 10.0 km east and then 5.0 km
+north. These two displacements are represented by the 
+vectors 
+and 
+which are shown as arrows. Also shown
+is the resultant displacement vector,
+which is the 
+vector sum of 
+and 
+Measurement on the graph 
+with ruler and protractor shows that 
+has a magnitude 
+of 11.2 km and points at an angle
+north of east.
+u = 27°
+D
+B
+R
+D
+B
+2.
+D
+B
+1
+D
+B
+R,
+D
+B
+2 ,
+D
+B
+1
+After taking this walk, the person is now 10.0 km east and 5.0 km north of the
+point of origin. The resultant displacement is represented by the arrow labeled 
+in

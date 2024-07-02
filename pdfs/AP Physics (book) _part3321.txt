@@ -1,0 +1,43 @@
+ng
+polarities, etc.
+34. (II) If the current gain of the transistor amplifier in
+Fig. 29–41 is 
+what value must 
+have if a
+ac base current is to produce an ac output voltage
+of 0.42 V?
+35. (II) Suppose that the current gain of the transistor in
+Fig. 29–41 is 
+If 
+calculate
+the ac output voltage for an ac input current of 
+36. (II) An amplifier has a voltage gain of 75 and a 
+load
+(output) resistance. What is the peak output current
+through the load resistor if the input voltage is an ac signal
+with a peak of 0.080 V?
+37. (II) A transistor, whose current gain 
+is
+connected as in Fig. 29–41 with 
+and
+Calculate (a) the voltage gain, and (b) the
+power amplification.
+RC = 7.8 k.
+RB = 3.8 k
+b = iCiB = 65,
+25-k
+2.0 mA.
+RC = 3.8 k,
+b = iCiB = 85.
+1.0-mA
+RC
+b = iCiB = 95,
+iB = iC = 0.
+IE,
+AICB,
+AIBB,
+38. Use the uncertainty principle to estimate the binding
+energy of the 
+molecule by calculating the difference in
+kinetic energy of the electrons between (i) when they are in
+separate atoms 

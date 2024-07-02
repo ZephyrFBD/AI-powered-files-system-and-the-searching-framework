@@ -1,0 +1,21 @@
+ion. The interference pattern in the film emulsion can be thought of as an array
+of bands or ribbons where constructive interference occurred. This array, and the
+reconstruction of the image, can be compared to Bragg scattering of X-rays from
+the atoms in a crystal (see Section 25–11). White light can reconstruct the image
+because the Bragg condition 
+selects out the appropriate single
+wavelength. If the hologram is originally produced by lasers emitting the three
+additive primary colors (red, green, and blue), the three-dimensional image can
+be seen in full color when viewed with white light.
+(ml = 2d sin u)
+MisConceptual Questions
+825
+1. Compare a matter wave 
+to (a) a wave on a string, (b) an
+EM wave. Discuss similarities and differences.
+2. Explain why Bohr’s theory of the atom is not compatible
+with quantum mechanics, particularly the uncertainty
+principle.
+3. Explain why it is that the more massive an object is, the
+easier it becomes to predict its future position.
+4. In view of 

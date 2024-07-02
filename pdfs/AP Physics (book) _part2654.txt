@@ -1,0 +1,23 @@
+herent monochromatic light.
+(a)
+(b)
+(c)
+Observed color of light under water. We
+said that color depends on wavelength. For example, light of wavelength
+650 nm in air, we see red. If we observe the same object when under 
+water, it still looks red. But the wavelength in water 
+is (Eq. 24–1)
+Light with wavelength 489 nm in air
+would appear blue in air. Can you explain why the light appears red rather than
+blue when observed under water?
+RESPONSE Today we have little doubt that it is our brains that express colors,
+based on the wavelengths of light that strike the receptor cells within the retina
+(at the rear of the eyeball, as diagrammed in the next Chapter, Fig. 25–9). For
+objects under water, the water does nothing to change the frequency, but does
+change the wavelength to 
+When that light enters the eye, the frequency
+is still unchanged, but the speed is changed to 
+where 
+is the index of
+refraction of the fluid that fills the interior of the eye and is in contact with the
+retina. The

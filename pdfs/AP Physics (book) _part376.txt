@@ -1,0 +1,21 @@
+ng
+the Problem at least twice.
+2. Consider only one object (at a time), and draw a 
+free-body diagram for that object, showing all the
+forces acting on that object. Include any unknown
+forces that you have to solve for. Do not show any
+forces that the chosen object exerts on other objects.
+Draw the arrow for each force vector reasonably
+accurately for direction and magnitude. Label each
+force acting on the object, including forces you must
+solve for, according to its source (gravity, person,
+friction, and so on).
+If several objects are involved, draw a free-body
+diagram for each object separately. For each object,
+show all the forces acting on that object (and only
+forces acting on that object). For each (and every)
+force, you must be clear about: on what object that
+This Problem Solving Strategy should not be considered a prescription. Rather
+it is a summary of things to do that will start you thinking and getting involved 
+in the problem at hand.
+When we are concerned only about tran

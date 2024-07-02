@@ -1,0 +1,18 @@
+J>K2 = 2.6 J>K 
+If the temperature of the surroundings were not 310 K but rather some temperature infini-
+tesimally above 273 K, the melting would be reversible instead of irreversible. In that case, 
+the entropy change of the surroundings would equal -22.0 J>K and ∆Suniv would be zero.
+In general, any irreversible process results in an increase in the entropy of the uni-
+verse, whereas any reversible process results in no change in the entropy of the universe:
+Reversible Process:   
+∆Suniv = ∆Ssys + ∆Ssurr = 0
+Irreversible Process:   
+∆Suniv = ∆Ssys + ∆Ssurr 7 0 
+[19.4]
+These equations summarize the second law of thermodynamics. Because sponta-
+neous processes are irreversible, we can also state the second law this way:
+The entropy of the universe increases for any spontaneous process.
+Give It Some Thought
+The rusting of iron is spontaneous and is accompanied by a decrease in the entropy 
+of the system (the iron and oxygen). What can we conclude about the entropy 
+change of the surrou

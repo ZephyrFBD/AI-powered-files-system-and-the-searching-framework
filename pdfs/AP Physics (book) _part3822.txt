@@ -1,0 +1,19 @@
+eft side of the other, and the
+right sides are likewise perpendicular (Fig.A–3).
+2. The sum of the angles in any plane triangle is 180°.
+3. Similar triangles. Two triangles are said to be similar if all three of their
+angles are equal (in Fig. A–4,
+and 
+). Similar 
+triangles thus have the same basic shape but may be different sizes and 
+have different orientations. Two useful theorems about similar triangles are:
+(a) Two triangles are similar if any two of their angles are equal. (This
+follows because the third angles must also be equal since the sum of the
+angles of a triangle is 180°.)
+(b) The ratios of corresponding sides of two similar triangles are equal. That
+is (Fig.A–4),
+4. Congruent triangles. Two triangles are congruent if one can be placed
+precisely on top of the other. That is, they are similar triangles and they have
+the same size. Two triangles are congruent if any of the following holds:
+(a) The three corresponding sides are equal.
+(b) Two sides and the enclosed angle ar

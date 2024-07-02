@@ -1,0 +1,49 @@
+scopic world to the tiny microscopic world of
+the atom. And there is no reason to expect that these models somehow reflect the
+reality of an electron. We thus use a wave or a particle model (whichever works
+best in a situation) so that we can talk about what is happening. But we should not
+be led to believe that an electron is a wave or a particle. Instead we could say that
+an electron is the set of its properties that we can measure. Bertrand Russell said
+it well when he wrote that an electron is “a logical construction.”
+d =
+l
+sin u
+= 0.123 nm
+sin 24°
+= 0.30 nm.
+=
+A6.63 * 10–34 JsB
+32A9.11 * 10–31 kgB(100 eV)A1.6 * 10–19 JeVB
+= 0.123 nm.
+l =
+h
+32meke
+ke =
+p2
+2me
+=
+h2
+2mel2 .
+ke
+l
+d sin u = l.
+u
+d sin u
+ke = 100 eV,
+EXAMPLE 27;12
+784
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+P H Y S I C S  A P P L I E D
+Electron diffraction
+FIGURE 27–13 Example 27–12.
+The red dots represent atoms in an
+orderly array in a solid.
+d sin u
+d
+u
+u
+Incident
+electron
+beam
+27–9 Electron Microsco

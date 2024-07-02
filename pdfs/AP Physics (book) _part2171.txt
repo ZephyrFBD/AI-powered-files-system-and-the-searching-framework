@@ -1,0 +1,46 @@
+In the simple
+potentiometer circuit shown in Fig. 19–94,
+represents
+the total resistance of the resistor from A to B (which could
+be a long uniform “slide” wire), whereas R represents the
+resistance of only the part from A to the movable contact
+at C. When the unknown emf to be measured,
+is placed
+into the circuit as shown, the movable contact C is moved
+until the galvanometer G gives a null reading (i.e., zero)
+when the switch S is closed. The resistance between A and C
+for this situation we call 
+Next, a standard emf,
+which is known precisely, is inserted into the circuit in place
+of 
+and again the contact C is moved until zero current
+flows through the galvanometer when the switch S is closed.
+The resistance between A and C now is called 
+Show
+that the unknown emf
+is given by
+where 
+and 
+are 
+all 
+precisely
+known. The working
+battery is assumed to
+be fresh and to give a
+constant voltage.
+es
+Rx, Rs,
+ex =
+¢ Rx
+Rs
+≤es
+Rs.
+ex
+es,
+Rx.
+ex,
+R¿
+Search and Learn
+Resistors in
+Resistors in
+Pro

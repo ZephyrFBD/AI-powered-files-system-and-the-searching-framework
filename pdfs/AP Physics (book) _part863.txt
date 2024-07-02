@@ -1,0 +1,44 @@
+ositely directed downward 
+angular momentum of the platform (Fig. 8–31b), so the total vector angular
+momentum remains zero. Even though the person exerts a force (and torque) 
+on the platform, the platform exerts an equal and opposite torque on the person.
+So the net torque on the system of person plus platform is zero (ignoring 
+friction), and the total angular momentum remains constant.
+mr2
+L = Iv = Amr2B(vr),
+V
+B
+L
+B
+V
+B
+L
+B
+= IV
+B .
+218
+CHAPTER 8
+Rotational Motion
+CM
+person
+Axis
+platform
+m
+(a)
+(b)
+L
+B
+L
+B
+v
+B
+r
+L
+B
+FIGURE 8;32 Example 8–16.
+EXERCISE E In Example 8–16, what if he moves the axis only 90° so it is horizontal?
+(a) The same direction and speed as above; (b) the same as above, but slower; (c) the
+opposite result.
+EXERCISE F Suppose you are standing on the edge of a large freely rotating turntable.
+If you walk toward the center, (a) the turntable slows down; (b) the turntable speeds up;
+(c) its rotation speed is unchanged; (d) you need to know the walking speed to answe

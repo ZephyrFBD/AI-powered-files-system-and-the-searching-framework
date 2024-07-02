@@ -1,0 +1,31 @@
+ genes, three classes of genes (A, B, and C) are responsible
+for the spatial pattern of floral parts. Sepals develop from the
+region where only A genes are active. Petals develop where both A
+and B genes are expressed. Stamens arise where B and C genes
+are active and carpels arise where only C genes are expressed.
+Furthermore, it is observed that if A-gene or C-gene activity is
+missing, then the activity of the other spreads throughout.
+Which of the following could be the floral morphology for a
+mutant lacking C-gene activity?
+Sepal-petal-stamen-carpel-stamen-petal-sepal
+(A)
+Carpel-stamen-carpel-stamen-carpel
+(B)
+Sepal-carpel-sepal
+(C)
+Sepal-petal-sepal-petal-sepal 
+(D)
+Questions 43-44
+The figure illustrates three types of point mutations involving a
+nucleotide base substitution.
+42. What is the probability that the genotype rrss will be produced by
+a cross in which the genotypes of the parents are both RrSs? 
+1/16
+(A)
+1/8
+(B)
+1/4
+(C)
+1/2
+(D)
+43. Hemoglobin is a tetramer, which consist

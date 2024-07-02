@@ -1,0 +1,19 @@
+for all other species 
+in the equilibrium-constant expression.
+ 
+4. Use initial concentrations from step 1 and changes in concentration from step 3 to 
+calculate any equilibrium concentrations not tabulated in step 1.
+ 
+5. Determine the value of the equilibrium constant.
+The best way to illustrate this procedure is by example, as we do in Sample Exercise 15.8.
+After a mixture of hydrogen and nitrogen gases in a reaction vessel is allowed to attain equilibrium at 472 °C, it is found to 
+contain 7.38 atm H2, 2.46 atm N2, and 0.166 atm NH3. From these data, calculate the equilibrium constant Kp for the reaction
+N21g2 + 3 H21g2 ∆ 2 NH31g2
+Sample Exercise 15.7
+ Calculating K When All Equilibrium Concentrations Are Known
+SOLUTION
+Analyze We are given a balanced equation and equilibrium partial 
+pressures and are asked to calculate the value of the equilibrium 
+constant.
+Plan Using the balanced equation, we write the equilibrium- 
+constant expression. We then substitute the equilibrium partia

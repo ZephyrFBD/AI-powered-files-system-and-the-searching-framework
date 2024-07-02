@@ -1,0 +1,31 @@
+ 
+Zn1s2 + Cu2+1aq2 ¡ Zn2+1aq2 + Cu1s2 
+In this case n = 2 (two electrons are transferred from Zn to Cu2+), and the standard emf is 
++1.10 V. 
+ (Section 20.4) Thus, at 298 K the Nernst equation gives
+ 
+E = 1.10 V - 0.0592 V
+2
+ log 
+3Zn2+4
+3Cu2+4
+ 
+[20.19]
+Recall that pure solids are excluded from the expression for Q. 
+ (Section 15.6) Accord-
+ing to Equation 20.19, the emf increases as 3Cu2+4 increases and as 3Zn2+4 decreases. For 
+example, when 3Cu2+4 is 5.0 M and 3Zn2+4 is 0.050 M, we have
+ 
+E = 1.10 V - 0.0592 V
+2
+ log a 0.050
+5.0 b
+ = 1.10 V - 0.0592 V
+2
+1-2.002 = 1.16 V
+Thus, increasing the concentration of reactant Cu2+ and decreasing the concentration of 
+product Zn2+ relative to standard conditions increases the emf of the cell relative to stan-
+dard conditions 1E° = +1.10 V2.
+The Nernst equation helps us understand why the emf of a voltaic cell drops as the 
+cell discharges. As reactants are converted to products, the value of Q increases, so the 
+value of E decreases, eventual

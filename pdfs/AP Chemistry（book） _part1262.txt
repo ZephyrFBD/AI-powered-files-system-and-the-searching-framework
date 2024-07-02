@@ -1,0 +1,25 @@
+ment m 5 Qr
+Q1
+▲ Figure 8.10 Dipole and dipole moment. 
+When charges of equal magnitude and 
+opposite sign Q+ and Q- are separated by 
+a distance r, a dipole is produced.
+ 
+ 
+ 
+ 
+Go Figure
+If the charged particles are moved 
+closer together, does m increase, 
+decrease, or stay the same?
+Give It Some Thought
+Chlorine monofluoride, ClF, and iodine monofluoride, IF, are interhalogen 
+compounds—compounds that contain bonds between different halogen elements. 
+Which of these molecules has the larger dipole moment?
+Dipole moments are experimentally measurable and are usually reported in debyes (D), 
+a unit that equals 3.34 * 10-30 coulomb-meters (C-m). For molecules, we usually measure 
+charge in units of the electronic charge e, 1.60 * 10-19 C, and distance in angstroms. 
+This means we need to convert units whenever we want to report a dipole moment in 
+debyes. Suppose that two charges 1+ and 1- (in units of e) are separated by 1.00 Å. The 
+dipole moment produced is
+m = Qr = 11.60 * 10-19 C

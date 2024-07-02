@@ -1,0 +1,16 @@
+42+(aq) + en(aq) ∆3Cu(H2O)2(en)42+(aq) + 2 H2O(l)
+∆H° = -54 kJ;  ∆S° = +23 J>K;  ∆G° = -61 kJ
+The en ligand binds slightly more strongly to the Cu2+ ion than two 
+NH3 ligands, so the enthalpy change here (-54 kJ) is slightly more 
+negative than for 3Cu(H2O)2(NH3)242+(-46 kJ). There is a big differ-
+ence in the entropy change, however: ∆S° is -8.4 J>K for the NH3 re-
+action but +23 J>K for the en reaction. We can explain the positive 
+∆S° value using concepts discussed in Section 19.3. Because a single 
+en ligand occupies two coordination sites, two molecules of H2O are 
+released when one en ligand bonds. Thus, there are three product 
+molecules in the reaction but only two reactant molecules. The great-
+er number of product molecules leads to the positive entropy change 
+for the equilibrium.
+The slightly more negative value of ∆H° for the en reaction 
+(-54 kJ versus -46 kJ) coupled with the positive entropy change 
+leads to a much more negative value of ∆G° (–61 kJ for en, -43 kJ for 

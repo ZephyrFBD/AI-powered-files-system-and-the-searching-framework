@@ -1,0 +1,41 @@
+es as a base. To be a Brønsted–Lowry acid, a molecule or ion must have a 
+hydrogen atom it can lose as an H+ ion. To be a Brønsted–Lowry base, a molecule or ion 
+must have a nonbonding pair of electrons it can use to bind the H+ ion.
+Some substances can act as an acid in one reaction and as a base in another. For 
+example, H2O is a Brønsted–Lowry base in Equation 16.3 and a Brønsted–Lowry acid in 
+Equation 16.5. A substance capable of acting as either an acid or a base is called amphi-
+protic. An amphiprotic substance acts as a base when combined with something more 
+strongly acidic than itself and as an acid when combined with something more strongly 
+basic than itself.
++
+−
++
++
+N
+H
+H
+H
+N
+H
+H
+H
+H
+Cl
+Cl
+H
++
++
++
+Acid
+Base
+−
+Base
+Acid
+▲ Figure 16.3 Fog of NH4CI1s2 caused by 
+the reaction of HCl(g) and NH31g2.
+Give It Some Thought
+In the forward reaction of this equilibrium, which substance acts as the Brønsted–
+Lowry base?
+H2S1aq2 + CH3NH21aq2 ∆ HS -1aq2 + CH3NH3
++1aq2
+Conjugate Acid–Base

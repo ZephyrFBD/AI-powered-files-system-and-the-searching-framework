@@ -1,0 +1,28 @@
+the values of the significant figures)? If so, determine the
+wire’s resistance R. (c) Calculate the wire’s resistivity and
+use Table 18–1 to identify the solid material from which it
+is composed.
+(diameter = 0.32 mm,  length = 11 cm)
+75 Ah?
+General Problems
+63. What is the average current drawn by a 1.0-hp 120-V motor?
+64. The conductance G of an object is defined as the reciprocal
+of the resistance R; that is,
+The unit of con-
+ductance is a 
+which is also called the
+siemens (S). What is the conductance (in siemens) of an
+object that draws 440 mA of current at 3.0 V?
+65. The heating element of a 110-V, 1500-W heater is 3.8 m long.
+If it is made of iron, what must its diameter be?
+66. (a) A particular household uses a 2.2-kW heater 
+(“on” time), four 100-W lightbulbs 
+a 3.0-kW
+electric stove element for a total of 
+and miscel-
+laneous power amounting to 
+If electricity
+costs $0.115 per kWh, what will be their monthly bill (30 d)?
+(b) How much coal (which produces 
+) must be
+burned by a

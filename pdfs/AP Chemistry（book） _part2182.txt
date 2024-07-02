@@ -1,0 +1,22 @@
+ne molecule of A is consumed for every molecule of B that forms, the aver-
+age rate of disappearance of A equals the average rate of appearance of B:
+ 
+Average rate =  - 
+∆3A4
+∆t
+= - 0.54 M - 1.00 M
+20 s - 0 s
+= 2.3 * 10-2 M>s 
+Change of Rate with Time
+Now let’s consider the reaction between butyl chloride 1C4H9Cl2 and water to form butyl 
+alcohol 1C4H9OH2 and hydrochloric acid:
+ 
+C4H9Cl1aq2 + H2O1l2 ¡ C4H9OH1aq2 + HCl1aq2 
+[14.3]
+Suppose we prepare a 0.1000@M aqueous solution of C4H9Cl and then measure 
+the concentration of C4H9Cl at various times after time zero (which is the instant 
+at which the reactants are mixed, thereby initiating the reaction). We can use the 
+resulting data, shown in the first two columns of Table 14.1, to calculate the average 
+rate of disappearance of C4H9Cl over various time intervals; these rates are given in 
+the third column. Notice that the average rate decreases over each 50-s interval for 
+the first several measurements and continues to decrease over

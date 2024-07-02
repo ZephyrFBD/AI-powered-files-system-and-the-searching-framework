@@ -1,0 +1,118 @@
+
+, so
+
+
+0
+k
+dT
+T dt
+cm 
+
+
+，
+
+
+0
+cm
+dt
+dT
+k
+T
+
+
+
+，
+
+
+
+
+0
+0
+0
+0
+0
+0
+0
+(
+)
+ln
+t
+T
+T
+T
+T
+T
+cm
+cm
+cm
+dt
+dT
+d T
+k
+T
+k
+T
+k
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+，
+Therefore
+0
+0
+ln T
+cm
+t
+k
+T
+
+
+
+
+
+.
+As we can see, in the environment where the temperature of the air is, the time
+enabling the water, whose weight is m and specific heat capacity isc , in the bathtub to
+cool from
+0
+T toT in a natural condition
+0
+0
+ln T
+cm
+t
+k
+T
+
+
+
+
+
+. The water is in the appointed
+bathtub, and the properties of the interface between water and air will not change.
+2.1.5 Brief explanation about influencing factors
+2.1.5.1 The area of the interface
+The volume and shape of the bathtub will influence the area of the interface
+between water and air so as to influence the value of
+0
+k . It is not very hard to find
+that the bigger the area of the interface is, more heat will be lost in the same time,
+which means the value of
+0
+k is bigger.
+2.1.5.2 The properties of the interface
+The properties of the i

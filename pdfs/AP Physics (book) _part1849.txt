@@ -1,0 +1,15 @@
+wn (dashed green lines) for the
+electric field (red lines) between two parallel plates at a potential difference of
+20 V. The negative plate is arbitrarily chosen to be zero volts and the potential of
+each equipotential line is indicated. Note that 
+points toward lower values of V.
+The equipotential lines for the case of two equal but oppositely charged particles
+are shown in Fig. 17–7 as green dashed lines. (This combination of equal 
+and 
+charges is called an “electric dipole,” as we saw in Section 16–8; see Fig. 16–32a.)
+Unlike electric field lines, which start and end on electric charges, equipotential
+lines and surfaces are always continuous and never end, and so continue beyond
+the borders of Figs. 17–6 and 17–7. A useful analogy for equipotential lines is a
+topographic map: the contour lines are gravitational equipotential lines (Fig.17–8).
+We saw in Section 16–9 that there can be no electric field within a conductor in the
+static case, for otherwise the free electrons would fee

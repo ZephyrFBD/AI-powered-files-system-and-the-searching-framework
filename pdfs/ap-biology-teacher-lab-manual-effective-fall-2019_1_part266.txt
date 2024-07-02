@@ -1,0 +1,19 @@
+ation 3  S41
+Investigation 3
+COMPARING DNA SEQUENCES TO 
+UNDERSTAND EVOLUTIONARY 
+RELATIONSHIPS WITH BLAST
+How can bioinformatics be used as a tool  
+to determine evolutionary relationships and  
+to better understand genetic diseases?
+■ BACKGROUND
+Between 1990–2003, scientists working on an international research project known as 
+the Human Genome Project were able to identify and map the 20,000–25,000 genes 
+that define a human being. The project also successfully mapped the genomes of other 
+species, including the fruit fly, mouse, and Escherichia coli. The location and complete 
+sequence of the genes in each of these species are available for anyone in the world to 
+access via the Internet.
+Why is this information important? Being able to identify the precise location 
+and sequence of human genes will allow us to better understand genetic diseases. In 
+addition, learning about the sequence of genes in other species helps us understand 
+evolutionary relationships among organisms. Man

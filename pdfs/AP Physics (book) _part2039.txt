@@ -1,0 +1,33 @@
+glect energy used
+for acceleration. No energy is consumed when the vehicle is
+stopped, since the engine doesn’t need to idle. (a) Determine
+the horsepower required. (b) After approximately how many
+kilometers must the batteries be recharged?
+78. A 
+resistor is made from a coil of copper wire whose
+total mass is 15.5 g. What is the diameter of the wire, and
+how long is it?
+79. A fish-tank heater is rated at 95 W when connected to
+120 V. The heating element is a coil of Nichrome wire.
+When uncoiled, the wire has a total length of 3.5 m. What
+is the diameter of the wire?
+80. A 100-W, 120-V lightbulb has a resistance of 
+when
+cold (20°C) and 
+when on (hot). Calculate its power
+consumption (a) at the instant it is turned on, and (b) after
+a few moments when it is hot.
+140 
+12 
+15.2-
+45 kmh,
+95 Ah.
+11 centskWh?
+¢P = P2RV2.
+¢P = P - P¿
+P¿.
+1.00-
+24.0-
+I = 1.40 sin 210t,
+81. In an automobile, the system voltage varies from about
+12 V when the car is off to about 13.8 V when the car is

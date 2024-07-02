@@ -1,0 +1,21 @@
+d this number to be 6.0221415 * 1023, which 
+we usually round to 6.02 * 1023. Scientists call this value Avogadro’s number, NA, in 
+honor of the Italian scientist Amedeo Avogadro (1776–1856), and it is often cited with 
+units of reciprocal moles, 6.02 * 1023 mol-1.* The unit (read as either “inverse mole” 
+or “per mole”) reminds us that there are 6.02 * 1023 objects per one mole. A mole of 
+atoms, a mole of molecules, or a mole of anything else all contain Avogadro’s number 
+of objects:
+ 1 mol 12C atoms = 6.02 * 1023 12C atoms 
+ 1 mol H2O molecules = 6.02 * 1023 H2O molecules 
+ 1 mol NO3
+- ions = 6.02 * 1023 NO3
+- ions
+Avogadro’s number is so large that it is difficult to imagine. Spreading 6.02 * 1023 
+ 
+marbles over Earth’s surface would produce a layer about 3 miles thick. Avogadro’s num-
+ber of pennies placed side by side in a straight line would encircle Earth 300 trillion 
+13 * 10142 times.
+ 
+Sample Exercise 3.7 
+Estimating Numbers of Atoms
+Without using a calculator, arrange the

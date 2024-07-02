@@ -1,0 +1,23 @@
+he higher states,
+and so on, are called excited states. The
+fixed energy levels are also called stationary states.
+Notice that although the energy for the larger orbits has a smaller numerical
+value, all the energies are less than zero. Thus,
+is a higher energy than
+Hence the orbit closest to the nucleus 
+has the lowest energy (the
+most negative). The reason the energies have negative values has to do with the way
+we defined the zero for potential energy. For two point charges,
+corresponds to zero potential energy when the two charges are infinitely far apart
+(Section 17–5). Thus, an electron that can just barely be free from the atom by
+reaching
+(or, at least, far from the nucleus) with zero kinetic energy will
+have
+corresponding to 
+in Eqs. 27–15. If an
+electron is free and has kinetic energy, then
+To remove an electron that is
+part of an atom requires an energy input (otherwise atoms would not be stable).
+Since 
+for a free electron, then an electron bound to an atom needs to have
+. 

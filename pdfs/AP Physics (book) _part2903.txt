@@ -1,0 +1,15 @@
+postulate (the relati£ity principle): The laws of physics have the same
+form in all inertial reference frames.
+The first postulate can also be stated as: there is no experiment you can do in an
+inertial reference frame to determine if you are at rest or moving uniformly at
+constant velocity.
+The second postulate is consistent with the first:
+Second postulate (constancy of the speed of light): Light propagates through
+empty space with a definite speed c independent of the speed of the source or
+observer.
+These two postulates form the foundation of Einstein’s special theory of relativity.
+It is called “special” to distinguish it from his later “general theory of relativity,”
+which deals with noninertial (accelerating) reference frames (Chapter 33). The
+special theory, which is what we discuss here, deals only with inertial frames.
+The second postulate may seem hard to accept, for it seems to violate common
+sense. First of all, we have to think of light traveling through empty space. Givi

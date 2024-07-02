@@ -1,0 +1,21 @@
+ubstances usually have such a large HOMO–LUMO gap that 
+visible light is not energetic enough to excite an electron to the 
+higher level. The minimum energy needed to excite an electron from 
+the HOMO to the LUMO in N2 corresponds to light with a wave-
+length of less than 200 nm, which is far into the ultraviolet part of 
+the spectrum. 
+ (Figure 6.4) As a result, N2 cannot absorb visible 
+light and is therefore colorless.
+The magnitude of the energy gap between filled and empty 
+electronic states is critical for solar energy conversion. Ideally, we 
+want a substance that absorbs as many solar photons as possible 
+and then converts the energy of those photons into a useful form 
+of energy. Titanium dioxide is a readily available material that can 
+be reasonably efficient at converting light directly into electricity. 
+However, TiO2 is white and absorbs only a small amount of the Sun’s 
+ 
+ 
+Learning Outcomes 
+383
+minimize electrostatic repulsions; that is, they remain as far apart 
+as po

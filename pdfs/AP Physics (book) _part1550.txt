@@ -1,0 +1,21 @@
+dy must be transferred to the outside. Is the heat transferred
+by conduction? The temperature of the skin in a comfortable environment is 
+33 to 35°C, whereas the interior of the body is at 37°C. Calculation shows 
+(Problem 52) that, because of this small temperature difference, plus the low thermal
+conductivity of tissue, direct conduction is responsible for very little of the heat
+that must leave the body. Instead, the heat is carried to the skin by the blood.
+In addition to all its other important responsibilities, blood acts as a convective
+fluid to transfer heat to just beneath the surface of the skin. It is then conducted
+(over a very short distance) to the surface. Once at the surface, the heat is trans-
+ferred to the environment by convection, evaporation, and radiation (Section 14–8).
+Cooler water
+Hotter water
+Radiator
+Hot
+water
+Furnace
+Cool
+FIGURE 14;8 Convection currents in
+a pot of water being heated on a stove.
+FIGURE 14;9 Convection plays a 
+role in heating a house. The c

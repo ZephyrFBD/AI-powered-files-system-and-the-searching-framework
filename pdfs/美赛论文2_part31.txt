@@ -1,0 +1,29 @@
+ time f2 
+   Delivery time refers to the period from the beginning of delivery order to the end 
+of delivering. 
+The total delivery time depends on the reserve of treatment center and epidemic 
+areas and whether each epidemic area demands vaccine and drugs, so: 
+T1j = {
+t1j   ,
+x1j = 1
+0  ,             x1j = 0                                     (3) 
+T2ij = {t2ij   ,
+x2ij = 1
+0  ,             x2ij = 0                                  (4) 
+  Function (3) means the delivery time of delivering vaccine and drugs from 
+treatment center to epidemic area Aj (j=1,2, …, 14) 
+  Function (4) means the delivery time of delivering vaccine and drugs between 
+epidemic areas Ai and Aj ( i, j=1,2, …, 14, i≠j) 
+  So, the objective function is as follows: 
+minf1 = ∑TC1j
+n
+j=1
++ ∑∑TC2ij
+n
+j=1
+n
+i=1
+                      (5) 
+                                                             
+2 Wang Xinping , The Distribution of Emergency Materials under the Law of Infectious Disease Spread. Journal of 
+Southeas

@@ -1,0 +1,47 @@
+ted to 
+Ag1NH322
++ and approach the problem as though we are concerned 
+with the dissociation of Ag1NH322
++ rather than its formation. To 
+facilitate this approach, we need to reverse Equation 17.22 and 
+make the corresponding change to the equilibrium constant:
+Ag1NH322
++1aq2 ∆ Ag+1aq2 + 2 NH31aq2
+1
+Kf
+=
+1
+1.7 * 107 = 5.9 * 10-8
+Solve If 3Ag+4 is 0.010 M initially, 3Ag1NH322
++4 will be 0.010 M 
+following addition of the NH3. We construct a table to solve this 
+equilibrium problem. Note that the NH3 concentration given in 
+the problem is an equilibrium concentration rather than an initial 
+concentration.
+Ag1NH322
++ 1aq2 ∆Ag+1aq2 + 2 NH31aq2
+Initial (M)
+0.010
+0
+—
+Change (M)
+-x
++x
+—
+Equilibrium (M)
+10.010 - x2
+x
+0.20
+Because 3Ag+4 is very small, we can assume x is small compared to 
+0.010. Substituting these  
+values into the equilibrium-constant ex-
+pression for the dissociation of Ag1NH322
++, we obtain
+3Ag+43NH342
+3Ag1NH322
++4 =
+1x210.2022
+0.010
+= 5.9 * 10-8
+x = 1.5 * 10-8 M = 3Ag+4
+Fo

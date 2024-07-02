@@ -1,0 +1,22 @@
+000 kgm3BA9.8 ms2B(100 m) = 9.8 * 105 Nm2,
+P = rg ¢h =
+P H Y S I C S  A P P L I E D
+Hydraulic lift
+P H Y S I C S  A P P L I E D
+Hydraulic brakes
+Figure 10–6b illustrates the brake system of a car. When the driver presses
+the brake pedal, the pressure in the master cylinder increases. This pressure
+increase occurs throughout the brake fluid, thus pushing the brake pads against
+the disk attached to the car’s wheel.
+10–6 Measurement of Pressure;
+Gauges and the Barometer
+Many devices have been invented to measure pressure, some of which are shown
+in Fig. 10–7. The simplest is the open-tube manometer (Fig. 10–7a) which is a
+tube partially filled with a liquid, usually mercury or water. The pres-
+sure P being measured is related (by Eq. 10–3b) to the difference in height 
+of the two levels of the liquid by the relation
+[manometer] (10;3c)
+where 
+is atmospheric pressure (acting on the top of the liquid in the left-hand
+tube), and is the density of the liquid. Note that the quantity 
+is the

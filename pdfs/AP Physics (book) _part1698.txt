@@ -1,0 +1,21 @@
+e?
+34. (II) What is the temperature inside an ideal refrigerator-
+freezer that operates with a
+in a 22°C room?
+35. (II) A heat pump is used to keep a house warm at 22°C.
+How much work is required of the pump to deliver 3100 J
+of heat into the house if the outdoor temperature is 
+(a) 0°C, (b) 
+Assume a COP of 3.0. (c) Redo for
+both temperatures, assuming an ideal (Carnot) coefficient
+of performance
+36. (II) (a) What is the coefficient of performance of an ideal
+heat pump that extracts heat from 6°C air outside and
+deposits heat inside a house at 24°C? (b) If this heat pump
+operates on 1200 W of electrical power, what is the maximum
+heat it can deliver into the house each hour? See Problem 35.
+37. (II) What volume of water at 0°C can a freezer make into
+ice cubes in 1.0 h, if the coefficient of performance of the
+cooling unit is 6.0 and the power input is 1.2 kilowatt?
+38. (II) How much less per year would it cost a family to operate
+a heat pump that has a coefficient of performance of 2

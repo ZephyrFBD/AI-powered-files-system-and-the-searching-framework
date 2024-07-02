@@ -1,0 +1,23 @@
+ process is reversible because we can reverse it by 
+infinitely slowly removing the same amount of heat, ∆Hfusion, from the system, using 
+immediate surroundings that are infinitesimally below 0 °C. Thus, qrev = ∆Hfusion for 
+the melting of ice at T = 0 °C = 273 K.
+The enthalpy of fusion for H2O is ∆Hfusion = 6.01 kJ>mol (a positive value because 
+melting is an endothermic process). Thus, we can use Equation 19.2 to calculate ∆Sfusion 
+for melting 1 mol of ice at 273 K:
+ 
+∆Sfusion =
+qrev
+T
+= ∆Hfusion
+T
+=
+11 mol216.01 * 103 J>mol2
+273 K
+= 22.0 J>K 
+Notice that (1) we must use the absolute temperature in Equation 19.2, and (2) the units 
+for ∆S, J>K, are energy divided by absolute temperature, as we expect from Equation 19.2.
+Elemental mercury is a silver liquid at room temperature. Its normal freezing point is -38.9 °C, and its molar enthalpy of fusion 
+is ∆Hfusion = 2.29 kJ>mol. What is the entropy change of the system when 50.0 g of Hg(l 
+) freezes at the normal freezing point?
+Solve

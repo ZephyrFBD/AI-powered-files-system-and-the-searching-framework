@@ -1,0 +1,17 @@
+lectron domain. Thus, 
+the following resonance structure for O3 has three electron domains around the central 
+oxygen atom (a single bond, a double bond, and a nonbonding pair of electrons):
+O
+O
+O
+In general, each nonbonding pair, single bond, or multiple bond produces a single electron 
+domain around the central atom in a molecule.
+The VSEPR model is based on the idea that electron domains are negatively charged 
+and therefore repel one another. Like the balloons in Figure 9.5, electron domains try to 
+stay out of one another’s way. 
+The best arrangement of a given number of electron domains is the one that  
+minimizes the repulsions among them.
+In fact, the analogy between electron domains and balloons is so close that the same 
+preferred geometries are found in both cases. Like the balloons in Figure 9.5, two electron 
+domains orient linearly, three domains orient in a trigonal-planar fashion, and four orient 
+tetrahedrally. These arrangements, together with those for five- and six-

@@ -1,0 +1,23 @@
+an write:
+n C2H21g2 ¡ ¬
+3 CH “CH 4 n
+ 
+¬  
+Note that all atoms originally present in acetylene end up in 
+the polyacetylene product.
+(c) We can use the ideal-gas equation as follows:
+ 
+PV = nRT
+Acetylene has a molar mass of 26.0 g>mol; therefore, the mass 
+of 0.204 mol is:
+10.204 mol2126.0 g>mol2 = 5.32 g acetylene 
+Note that from the answer to part (b), all the atoms in acet-
+ylene go into polyacetylene. Due to conservation of mass, 
+then, the mass of polyacetylene produced must also be 5.32 g, 
+if we assume 100% yield.
+(c) Acetylene is a gas at room temperature and pressure (298 K, 1.00 atm). How many grams of polyacetylene can you make 
+from a 5.00-L vessel of acetylene gas at room temperature and room pressure? Assume that acetylene behaves ideally and 
+that the polymerization reaction occurs with 100% yield.
+(d) Using the average bond enthalpies in Table 8.4, predict whether the formation of polyacetylene from acetylene is endother-
+mic or exothermic.
+(e) A sample of polyacetylene

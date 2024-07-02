@@ -1,0 +1,50 @@
+is given by the area of a typical capillary multiplied by the
+total number N of capillaries.
+SOLUTION Let 
+be the area of the aorta and 
+be the area of all the capil-
+laries through which blood flows. Then
+where
+is the estimated average radius of one capillary. From the equation of continuity
+(Eq. 10–4b), we have
+so
+or on the order of 10 billion capillaries.
+N = v1
+v2
+raorta
+2
+rcap
+2
+=
+a
+0.40 ms
+5 * 10–4 ms
+b a 1.2 * 10–2 m
+4 * 10–6 m
+b
+2
+L 7 * 109,
+v2 Nprcap
+2
+= v1 praorta
+2
+v2 A2 = v1 A1
+rcap L 4 * 10–4 cm
+A2 = Nprcap
+2
+,
+A2
+A1
+5 * 10–4 ms.
+4 * 10–4 cm,
+40 cms.
+EXAMPLE 10;12
+ESTIMATE
+Heating duct to a room. What area must a heating duct
+have if air moving 
+along it can replenish the air every 15 minutes in a
+room of volume 
+Assume the air’s density remains constant.
+APPROACH We apply the equation of continuity at constant density, Eq. 10–4b,
+to the air that flows through the duct (point 1 in Fig. 10–21) and then into the
+room (point 2). The volume flow rate in the room equals the

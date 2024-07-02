@@ -1,0 +1,17 @@
+gths appear brightest also depends on the viewing angle.
+Thickness of soap bubble skin. A soap bubble appears
+green 
+at the point on its front surface nearest the viewer. What is
+the smallest thickness the soap bubble film could have? Assume 
+APPROACH Assume the light is reflected perpendicularly from the point on a
+spherical surface nearest the viewer, Fig. 24–34. The light rays also reflect from
+the inner surface of the soap bubble film as shown. The path difference of these
+two reflected rays is 
+where is the thickness of the soap film. Light reflected
+from the first (outer) surface undergoes a 180° phase change (index of refraction
+of soap is greater than that of air), whereas reflection at the second (inner) sur-
+face does not. To determine the thickness for an interference maximum, we
+must use the wavelength of light in the soap 
+SOLUTION The 180° phase change at only one surface is equivalent to a
+path
+difference. Therefore, green light is bright when the minimum path difference

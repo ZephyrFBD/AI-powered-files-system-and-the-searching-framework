@@ -1,0 +1,15 @@
+modynamic quantities, such as E, are state functions. Other 
+quantities, such as q and w, are not. This means that, although ∆E = q + w 
+does not depend on how the change occurs, the specific amounts of heat 
+and work depend on the way in which the change occurs. Thus, if changing 
+the path by which a system goes from an initial state to a final state increases 
+ 
+the value of q, that path change will also decrease the value of w by exactly the 
+same amount. The result is that ∆E is the same for the two paths.
+We can illustrate this principle using a flashlight battery as our system. As 
+the battery is discharged, its internal energy decreases as the energy stored in 
+the battery is released to the surroundings. In Figure 5.10, we consider two pos-
+sible ways of discharging the battery at constant temperature. In Figure 5.10(a), 
+a wire shorts out the battery and no work is accomplished because nothing is 
+moved against a force. All the energy lost from the battery is in the form of 
+h

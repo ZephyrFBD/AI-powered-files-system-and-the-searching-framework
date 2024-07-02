@@ -1,0 +1,16 @@
+ration. Because this is a con-
+centration cell, E°
+cell = 0 V.
+20.7 ∣ Batteries and Fuel Cells
+A battery is a portable, self-contained electrochemical power source that consists of 
+one or more voltaic cells. For example, the 1.5-V batteries used to power flashlights 
+and many consumer electronic devices are single voltaic cells. Greater voltages can be 
+achieved by using multiple cells, as in 12-V automotive batteries. When cells are con-
+nected in series (which means the cathode of one attached to the anode of another), the 
+battery produces a voltage that is the sum of the voltages of the individual cells. Higher 
+voltages can also be achieved by using multiple batteries in series (Figure 20.18). Battery 
+electrodes are marked following the convention of Figure 20.6—plus for cathode and 
+minus for anode.
+Although any spontaneous redox reaction can serve as the basis for a voltaic cell, 
+making a commercial battery that has specific performance characteristics requires con-
+siderable

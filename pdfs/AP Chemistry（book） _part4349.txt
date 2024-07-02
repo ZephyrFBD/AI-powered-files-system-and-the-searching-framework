@@ -1,0 +1,21 @@
+ of a measured quantity 
+are significant, including the last digit, which is uncertain. 
+(Section 1.6)
+silica Common name for silicon dioxide. (Section 22.4)
+silicates Compounds containing silicon and oxygen, 
+structurally based on SiO4 tetrahedra. (Section 22.10)
+single bond A covalent bond involving one electron pair. 
+(Section 8.3)
+SI units The preferred metric units for use in science. 
+(Section 1.5)
+smectic A and smectic C liquid crystals Liquid crystals in 
+which the molecules maintain the long-axis alignment seen in 
+nematic crystals, but in addition pack into layers. (Section 11.7)
+solid Matter that has both a definite shape and a definite 
+volume. (Section 1.2)
+solubility The amount of a substance that dissolves in a given 
+quantity of solvent at a given temperature to form a saturated 
+solution. (Sections 4.2 and 13.2)
+solubility-product constant (solubility product) 1Ksp2 An 
+equilibrium constant related to the equilibrium between a solid 
+salt and its ions in solution. It p

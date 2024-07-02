@@ -1,0 +1,49 @@
+ Mv2 + 1
+2 Icmv2 + Mgy,
+EXAMPLE 8;12
+v
+Icm
+vcm
+ke =
+1
+2 Mvcm
+2
++ 1
+2 Icm v2,
+rotational ke =
+1
+2 Iv2.
+©mr2 = I,
+v2
+1
+2
+=
+1
+2 A©mr2Bv2.
+ke = ©A1
+2 mv2B
+= ©A1
+2 mr2v2B
+v = rv.
+SECTION 8–7
+213
+P R O B L E M  S O L V I N G
+Rotational energy adds 
+to other forms of energy 
+to get the total energy 
+which is conserved
+FIGURE 8;23 A sphere rolling
+down a hill has both translational
+and rotational kinetic energy.
+Example 8–12.
+214
+CHAPTER 8
+Which is fastest? Several objects roll with-
+out slipping down an incline of vertical height H, all starting from rest at the
+same moment. The objects are a thin hoop (or a plain wedding band), a spherical
+marble, a solid cylinder (a D-cell battery), and an empty soup can. In addition,
+a greased box slides down without friction. In what order do they reach the
+bottom of the incline?
+RESPONSE We use conservation of energy with gravitational potential energy
+plus rotational and translational kinetic energy. The sliding box would be fastest
+because the potentia

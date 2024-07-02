@@ -1,0 +1,11 @@
+ng the first
+possibility as an example, one would expect only two kinds of gametes in the absence of crossing over— AB and ab
+in equal quantities. Crossing over would produce gametes that are Ab and aB. If the two genes are very close
+together, there would be very few crossovers because there are few places between the genes where the
+chromosomes can break and cross over. If the genes are far apart, there would be many crossovers because there are
+many places for chromosome breaks. When the genes are very far apart, they cross over so frequently that by
+observing the allele frequencies of the gametes the genes seem to assort independently, as if they were on different
+chromosomes (not linked). That is exactly what has happened in this question. The observed frequencies are those
+that would have been expected had the genes been on different chromosomes. Since the question states that the
+genes are linked, they must be far apart to allow so large a number of crossovers.
+Grid-In Questions

@@ -1,0 +1,73 @@
+ small 
+]
+For any triangle:
+(law of cosines)
+(law of sines)
+sin a
+a
+= sin b
+b
+= sin g
+c
+c2 = a2 + b2 - 2ab cos g
+cos(A P B) = cos A cos B7sin A sin B
+sin(A P B) = sin A cos B P cos A sin B
+u f 0.2 rad
+cos u L 1 - u2
+2
+u f 0.2 rad
+sin u L u
+cos 1
+2 u = 3(1 + cos u)2
+sin 1
+2 u = 3(1 - cos u)2
+cos(90° - u) = sin u
+sin(90° - u) = cos u
+cos(180° - u) = –cos u
+sin(180° - u) = sin u
+hyp (hypotenuse)
+adj (adjacent)
+opp (opposite)
+θ
+c
+α
+γ
+β
+a
+b
+(Pythagorean theorem)
+cos 2u = (cos2 u - sin2 u) = (1 - 2 sin2 u) = (2 cos2 u - 1)
+sin 2u = 2 sin u cos u
+sin2 u + cos2 u = 1
+tan u = sin u
+cos u
+adj2 + opp2 = hyp2
+Useful Geometry Formulas—Areas,Volumes
+Circumference of circle
+Area of circle
+Area of rectangle
+Area of parallelogram
+Area of triangle
+Right triangle 
+(Pythagoras)
+Sphere: surface area
+volume
+Rectangular solid:
+volume
+Cylinder (right):
+surface area
+volume
+Right circular cone:
+surface area 
+volume
+ 
+V = 1
+3 pr2h
+A = pr2 + pr 3r2 + h2
+V = pr2l
+A = 2prl + 2pr2
+V = lwh
+V = 4
+3 pr3
+A = 4pr2
+c2 =

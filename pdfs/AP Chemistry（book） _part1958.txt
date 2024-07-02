@@ -1,0 +1,29 @@
+cetylene. For part (d), we 
+need to recall that ∆Hrxn = g1bond enthalpies of bonds broken2
+- g1bond enthalpies of bonds formed2. 
+ (Section 8.8) For 
+part (e), we need to realize that the lowest energy absorbed by 
+a material will tell us its band gap Eg (for a semiconductor or 
+insulator) and combine E = hn and c = ln together 1E = hc>l2 
+to solve for Eg.
+Solve
+(a) Carbon usually forms four bonds. Thus, each C atom must have  
+a single bond to H and a triple bond to the other C atom in 
+acetylene. As a result, each C atom has two electron domains and 
+must be sp hybridized. This sp hybridization also means that the 
+H ¬C ¬ C angles in acetylene are 180° and the molecule is linear.
+ 
+We can write out the partial structure of polyacetylene as follows:
+H
+H
+C
+C
+H
+H
+C
+C
+Each carbon is identical but now has three bonding electron 
+domains that surround it. Therefore, the hybridization of 
+each carbon atom is sp2, and each carbon has local trigonal 
+planar geometry with 120° angles.
+(b) We c

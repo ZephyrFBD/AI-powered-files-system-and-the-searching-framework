@@ -1,0 +1,12 @@
+ A researcher was trying to determine why a strain of influenza spreads more easily than other strains. She
+suspected that the answer might lie in the Influenza Neuraminidase (NA) protein. NA is an enzyme known to
+play a role in releasing viral particles during viral spread. It functions by cleaving an attachment between viral
+particles and the cell membrane. The researcher evaluated the enzyme activity of each of the strains and found
+them to be quite different. She then compared the NA protein from the rapidly spreading strain of flu (NAH)
+with the NA protein from another strain of flu (NAA). The sequences were similar, but there were some
+differences in the amino acid sequence.
+Figure 1. Amino acid sequence alignment between NAH and NAA
+Figure 2. Neuraminidase enzyme activity
+Figure 3. Neuraminidase activity of NAH and NAH with mutations
+Point mutations were introduced in the nucleic acid sequence to modify the sequence of NAH to make it more
+like NAA. The enzyme activity was assess

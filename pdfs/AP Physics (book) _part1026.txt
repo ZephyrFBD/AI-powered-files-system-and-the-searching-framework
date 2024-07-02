@@ -1,0 +1,48 @@
+surface, as shown in Fig. 10–2, then according to Newton’s third law the
+solid surface would exert a force back on the fluid, which would cause the fluid to
+flow—in contradiction to our assumption that the fluid is at rest. Thus the force
+due to the pressure in a fluid at rest is always perpendicular to the surface.
+24 * 103 Nm2.
+P =
+F
+A = mg
+A
+=
+(60 kg)(9.8 ms2)
+(0.050 m2)
+= 12 * 103 Nm2.
+500 cm2 = 0.050 m2.
+1 cm2 = (10–2 m)2 = 10–4 m2,
+500 cm2.
+EXAMPLE 10;2
+lbin.2
+dynescm2,
+Nm2.
+1 Pa = 1 Nm2.
+Nm2.
+pressure = P =
+F
+A
+.
+[A11.3 * 103 kgm3BA1.00 * 103 kgm3B].
+262
+CHAPTER 10
+Fluids
+C A U T I O N
+Pressure is a scalar, not a vector
+FIGURE 10–1 Pressure is the same
+in every direction in a nonmoving
+fluid at a given depth. If this weren’t
+true, the fluid would be in motion.
+F
+F
+FIGURE 10–2 If there were a
+component of force parallel to the
+solid surface of the container, the
+liquid would move in response to it.
+For a liquid at rest, F
+∑∑= 0.
+SECTION 10–3
+Pressure in Fluids
+263
+We n

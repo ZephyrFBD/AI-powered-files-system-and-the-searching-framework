@@ -1,0 +1,45 @@
+A
+B
+A
+B
+A
+B
+A
+B
+antinode
+f2 = l
+f3 = 2l
+3
+= 2f1
+= 3f1
+l = 3
+2 l
+l =
+2
+l
+3
+f1 = 2l
+l = 1
+2 l1
+FIGURE 12–11 Graphs of the 
+three simplest modes of vibration
+(standing waves) for a uniform tube
+open at both ends (“open tube”).
+These simplest modes of vibration
+are graphed in (a), on the left, in
+terms of the motion of the air 
+(displacement), and in (b), on the
+right, in terms of air pressure. Each
+graph shows the wave format at two
+times, A and B, a half period apart.
+The actual motion of molecules for
+one case, the fundamental, is shown
+just below the tube at top left.
+†The diameter D of a tube does affect the node at the open end of a tube. The end correction can be
+roughly approximated as adding 
+to to give us an effective length for the tube in calculations.
+l
+D3
+For a closed tube, shown in Fig. 12–12a, which could be an organ pipe, there
+is always a displacement node at the closed end (because the air is not free to
+move) and an antinode at the open end (where the air can move free

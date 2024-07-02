@@ -1,0 +1,46 @@
+ the corresponding alkane from -ane to -ene. The compound on the left in Figure 24.7, 
+for example, has a double bond as part of a three-carbon chain; thus, the parent alkene 
+is propene.
+The location of the double bond along an alkene chain is indicated by a prefix num-
+ber that designates the double-bond carbon atom that is nearest an end of the chain. The 
+chain is always numbered from the end that brings us to the double bond sooner and 
+hence gives the smallest-numbered prefix. In propene, the only possible location for the 
+double bond is between the first and second carbons; thus, a prefix indicating its loca-
+tion is unnecessary. For butene (Figure 24.7), there are two possible positions for the dou-
+ble bond, either after the first carbon (1-butene) or after the second carbon (2-butene).
+Go Figure
+How many isomers are there for propene, C3H6?
+C
+Methylpropene
+bp −7 °C
+C
+H
+CH3
+CH3
+3
+4
+3
+2
+1
+2
+1
+H
+C
+1-Butene
+bp −6 °C
+C
+H
+H
+CH3
+CH3
+CH3CH2
+CH3
+4
+CH3
+1
+1
+4
+H
+C
+cis-2-Butene
+bp +4 °C

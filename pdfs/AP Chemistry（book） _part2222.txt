@@ -1,0 +1,23 @@
+e =
+-∆3A4
+∆t
+= k 
+[14.15]
+The integrated rate law for a zero-order reaction is
+ 
+3A4t = -kt + 3A40 
+[14.16]
+where 3A4t is the concentration of A at time t and 3A40 is the initial concentration. 
+This is the equation for a straight line with vertical intercept 3A40 and slope -kt, as 
+shown in the blue curve in Figure 14.9.
+The most common type of zero-order reaction occurs when a gas undergoes 
+decomposition on the surface of a solid. If the surface is completely covered by 
+decomposing molecules, the rate of reaction is constant because the number of react-
+ing surface molecules is constant, so long as there is some gas-phase substance left.
+Half-Life
+The half-life of a reaction, t1>2, is the time required for the concentration of a 
+reactant to reach half its initial value, 3A4t1>2 = 1
+23A40. Half-life is a convenient way 
+to describe how fast a reaction occurs, especially if it is a first-order process. A fast 
+reaction has a short half-life.
+We can determine the half-life of a first

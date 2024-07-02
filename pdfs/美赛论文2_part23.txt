@@ -1,0 +1,29 @@
+asing speed 
+{
+u(t) = eγt
+Y = u(t) ∗Lα ∗Kβ    (t ∈(0, t0)) 
+ 
+StageⅡ: Y grows with low-increasing speed 
+{u(t) = u(t0) + (t −t0)ε
+Y = u(t) ∗Lα ∗Kβ
+  (t ∈(t0, t1)) 
+ 
+StageⅢ: Y becomes stable 
+Y = u(t1) ∗Lα ∗Kβ   (t ∈(t1, t2)) 
+ 
+StageⅣ: Y declines due to the decreasing demand of the medication declines 
+ 
+Y = D(t)   (t > t2) 
+3.4.4 Solution and Result 
+Set appropriate values of the parameters (γ and ε), we can draw the yield 
+curve with the help of MATLAB. It is shown in Figure 5. 
+Figure 5 
+Team   #37232                                                              Page 11 of 22   
+ 
+3.5 
+ Delivery Model 
+In this model, our team comes up with two models to design the process of 
+medication distribution. The two models both take vertical and lateral 
+transportation into consideration and t, but one assumes that vertical and lateral 
+transportation can take place at the same time while in the other model vertical 
+transportation happens first and lateral transportation happens later in a

@@ -1,0 +1,14 @@
+del leads 
+us to predict that all the carbon–carbon bond lengths will be identical, with a bond 
+length between that of a C ¬C single bond (1.54 Å) and that of a C “C double bond 
+(1.34 Å). This prediction is consistent with the observed carbon–carbon bond length in 
+benzene (1.40 Å).
+Because we cannot describe the p bonds in benzene as individual bonds between 
+neighboring atoms, we say that benzene has a six-electron p system delocalized among 
+the six carbon atoms. Delocalization of the electrons in its p bonds gives benzene a spe-
+cial stability. Electron delocalization in p bonds is also responsible for the color of many 
+organic molecules. A final important point to remember about delocalized p bonds is the 
+constraint they place on the geometry of a molecule. For optimal overlap of the p orbit-
+als, all the atoms involved in a delocalized p bonding network should lie in the same 
+plane. This restriction imparts a certain rigidity to the molecule that is absent in mole-
+cules con

@@ -1,0 +1,17 @@
+e ED is equal to AD. Thus we see that if the distance BE
+is equal to precisely one-half the wavelength of the sound, the two waves will be
+exactly out of phase when they reach D, and destructive interference occurs.
+This then is the criterion for determining at what points destructive interference
+occurs: destructive interference occurs at any point whose distance from one
+speaker is one-half wavelength greater than its distance from the other speaker.
+Notice that if this extra distance (BE in Fig. 12–17b) is equal to a whole wave-
+length (or 2, 3,
+wavelengths), then the two waves will be in phase and
+constructive interference occurs. If the distance BE equals
+wave-
+lengths, destructive interference occurs.
+It is important to realize that a person sitting at point D in Fig. 12–16 or
+12–17 hears nothing at all (or nearly so), yet sound is coming from both speakers.
+Indeed, if one of the speakers is turned off, the sound from the other speaker will
+be clearly heard.
+If a loudspeaker emit

@@ -1,0 +1,18 @@
+ched, the temperature stops increasing even though heat is still being added.
+The ice gradually changes to water in the liquid state, with no change in tempera-
+ture. After about 40 kcal has been added at 0°C, half the ice remains and half 
+has changed to water. After about 80 kcal, or 330 kJ, has been added, all the ice
+has changed to water, still at 0°C. Continued addition of heat causes the water’s
+temperature to again increase, now at a rate of 
+When 100°C is reached,
+the temperature again remains constant as the heat added changes the liquid water
+to vapor (steam). About 540 kcal (2260 kJ) is required to change the 1.0 kg of
+water completely to steam, after which the graph rises again, indicating that the
+temperature of the steam rises as heat is added.
+The heat required to change 1.0 kg of a substance from the solid to the liquid
+state is called the heat of fusion; it is denoted by 
+The heat of fusion of water 
+is 
+or, in proper SI units,
+The heat
+required to change a substance f

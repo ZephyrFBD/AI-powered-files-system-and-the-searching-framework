@@ -1,0 +1,54 @@
+shows a spaceship traveling past Earth at high speed. The point
+of view of an observer on the spaceship is shown in part (a), and that of an observer
+on Earth in part (b). Both observers have accurate clocks. The person on the space-
+ship (Fig. 26–6a) flashes a light and measures the time it takes the light to travel
+directly across the spaceship and return after reflecting from a mirror (the rays are
+drawn at a slight angle for clarity). In the reference frame of the spaceship, the
+O2?
+O1
+O2 .
+O1,
+A1 .
+B1
+O1
+O1 B1 ,
+O1 A1
+A1 .
+B1
+O1
+O1.
+A1
+O1 ,
+B1
+O2
+B1 .
+A1
+O1
+O1
+O1
+AO2B
+O1
+SECTION 26–4
+Time Dilation and the Twin Paradox
+751
+FIGURE 26–6 Time dilation can be
+shown by a thought experiment: the 
+time it takes for light to travel across
+a spaceship and back is longer for the
+observer on Earth (b) than for the
+observer on the spaceship (a).
+Receiver
+(a)
+Clock timer
+Light
+source
+Mirror
+(b)
+Earth
+l
+l
+D
+D
+D2  l2
+D2  l2
+light travels a distance 2D at speed c, Fig. 26–6a; so the time require

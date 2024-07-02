@@ -1,0 +1,33 @@
+B1
+Q2 ;
+E
+B
+B2
+E
+B
+B ,
+E
+B
+B2 ,
+E
+B
+B1
+16–8 Electric Field Lines
+Since the electric field is a vector, it is sometimes referred to as a vector field. We
+could indicate the electric field with arrows at various points in a given situation,
+such as at A, B, and C in Fig. 16–30. The directions of 
+and 
+are the
+same as for the forces shown earlier in Fig. 16–23, but the magnitudes (arrow
+lengths) are different since we divide 
+by q to get 
+However, the relative
+lengths of 
+and 
+are the same as for the forces since we divide by the
+same q each time. To indicate the electric field in such a way at many points,
+however, would result in many arrows, which would quickly become cluttered and
+confusing. To avoid this, we use another technique, that of field lines.
+To visualize the electric field, we draw a series of lines to indicate the direction
+of the electric field at various points in space. These electric field lines (or lines of
+force) are drawn to indicate the direction of the force due t

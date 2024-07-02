@@ -1,0 +1,43 @@
+ghly 1.8 eV to 3.1 eV.
+(
+where 
+to 700 nm and 
+.)
+Light is absorbed by the electrons in a material. Silicon’s energy gap is small
+enough to absorb these photons, thus bumping electrons well up into the con-
+duction band, so silicon is opaque. On the other hand, zinc sulfide’s energy gap
+is so large that no visible-light photons would be absorbed; they would pass
+right through the material which would thus be transparent.
+1 eV = 1.6 * 10–19 J
+l = 400 nm
+E = hf = hcl
+CONCEPTUAL EXAMPLE 29;5
+Eg = hf = hc
+l
+=
+A6.63 * 10–34 JsBA3.00 * 108 msB
+A345 * 10–9 mBA1.60 * 10–19 JeVB
+= 3.6 eV.
+l = 345-nm
+(= hf)
+l = 345 nm,
+Eg,
+EXAMPLE 29;4
+AG = 3
+2 kTB,
+Eg = 1.12 eV.
+Eg,
+*SECTION 29–7
+Band Theory of Solids
+843
+P H Y S I C S  A P P L I E D
+Transparency
+FIGURE 29–25 Energy bands for
+(a) a conductor, (b) an insulator,
+which has a large energy gap 
+and (c) a semiconductor, which has 
+a small energy gap 
+Shading
+represents occupied states. Pale
+shading in (c) represents electrons
+that can pass from t

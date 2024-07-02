@@ -1,0 +1,10 @@
+on to an earlier state. When the condition returns to its earlier state, the process is terminated. Negative
+feedback is a mechanism that helps maintain homeostasis, or the maintenance of stable, internal conditions within
+narrow limits. Every organ system uses this kind of regulation. An example follows:
+For thermoregulation, humans respond to hot temperatures by sweating. Evaporation of water cools the body. When
+the body returns to the set point temperature, sweating stops. Should body temperature drop below a comfortable
+value, the body responds by shivering. Shivering stops when the body is adequately warmed. (An expanded review
+of thermoregulation is provided later in this chapter.)
+2. In positive feedback, a change in a condition initiates a process that intensifies the condition so that it is driven
+further beyond normal limits. Although uncommon, some important positive feedback mechanisms occur.
+During childbirth (parturition), labor contractions increase in frequency and int

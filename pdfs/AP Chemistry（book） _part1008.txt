@@ -1,0 +1,27 @@
+ (Section 6.5) 
+Related Exercises: 6.55, 6.57, 6.61, 6.62
+t Interpret radial probability function graphs for atomic orbitals. 
+(Section 6.6)  Related Exercises: 6.53, 6.54, 6.66
+t Explain how and why the energies of the orbitals are different 
+in a many-electron atom from those in the hydrogen atom 
+(Section 6.7)  Related Exercises: 6.67, 6.68
+t Draw an energy-level diagram for the orbitals in a many- 
+electron atom and describe how electrons populate the orbit-
+als in the ground state of an atom, using the Pauli exclusion 
+principle and Hund’s rule. (Section 6.8) 
+Related Exercises: 6.11, 6.69
+t Use the periodic table to write condensed electron configura-
+tions and determine the number of unpaired electrons in an 
+atom. (Section 6.9) Related Exercises: 6.75–6.78
+248 
+CHAPTER 6 Electronic Structure of Atoms
+Key Equations
+t ln = c 
+[6.1]  
+ 
+light as a wave: l = wavelength in meters, n = frequency in s - 1, 
+c = speed of light 12.998 * 108 m>s2
+t E = hn 
+[6.2]  
+ 
+light as a part

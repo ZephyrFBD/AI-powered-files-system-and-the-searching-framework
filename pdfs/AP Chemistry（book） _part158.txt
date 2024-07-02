@@ -1,0 +1,15 @@
+ from a substance at 
+higher temperature to one at lower temperature. Thus, the influx of heat we feel when we 
+touch a hot object tells us that the object is at a higher temperature than our hand.
+The temperature scales commonly employed in science are the Celsius and Kelvin 
+scales. The Celsius scale was originally based on the assignment of 0 °C to the freezing 
+point of water and 100 °C to its boiling point at sea level (Figure 1.19).
+The Kelvin scale is the SI temperature scale, and the SI unit of temperature is the 
+kelvin (K). Zero on the Kelvin scale is the temperature at which all thermal motion ceases, a 
+temperature referred to as absolute zero. On the Celsius scale, absolute zero has the value 
+-273.15 °C. The Celsius and Kelvin scales have equal-sized units—that is, a kelvin is the 
+same size as a degree Celsius. Thus, the Kelvin and Celsius scales are related according to
+ 
+K = °C + 273.15 
+[1.3]
+The freezing point of water, 0 °C, is 273.15 K (Figure 1.19). Notice that we

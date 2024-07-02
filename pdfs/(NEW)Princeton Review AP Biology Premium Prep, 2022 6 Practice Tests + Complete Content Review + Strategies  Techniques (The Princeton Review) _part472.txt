@@ -1,0 +1,15 @@
+d Variables): The things that are the same between all your groups. Hint: everything
+should be constant except the independent variable.
+Control Groups: Any group that is needed simply so you can compare your interesting experimental groups to
+it. These are often the “no treatment” group.
+Statistical Significance: The trustworthiness of the results and the certainty you have in your conclusions. This
+can always be increased by including more individuals in the groups or including more trials.
+Most biological experiments do one of three things:
+1. look at how something changes over time
+2. compare groups of some sort
+3. test for an association
+How you present and summarize data depends on what kind of experiment you perform.
+Time-Course Experiments
+Time-course experiments look at how something changes over time. A line graph is usually used to present this
+type of data. Several lines can be plotted on the same graph, but these must be clearly labeled. Also, each dot on a
+line graph coul

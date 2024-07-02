@@ -1,0 +1,22 @@
+locity of P as seen from S will have components 
+and 
+We can show how these are related to the velocity components in 
+by using
+Eqs. E–1. For example,
+For the other components,
+and 
+so we have
+[Galilean] (E;2)
+These are known as the Galilean velocity transformation equations. We see that
+the y and z components of velocity are unchanged, but the x components differ
+by v. This is just what we have used before when dealing with relative velocity
+(Section 3–8). For example, if 
+is a train and S the Earth, and the train moves
+with speed v with respect to Earth, a person walking toward the front of the train
+with speed 
+will have a speed with respect to the Earth of
+The Galilean transformations, Eqs.E–1 and E–2, are accurate only when the
+velocities involved are not relativistic (Chapter 26)—that is, much less than the
+speed of light, c. We can see, for example, that the first of Eqs.E–2 will not work
+for the speed of light, c, which is the same in all inertial reference frames (a basic
+post

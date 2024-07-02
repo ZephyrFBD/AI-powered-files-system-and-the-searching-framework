@@ -1,0 +1,17 @@
+s for the 100 °C sample but slightly less than 5 * 102 m>s for 
+the 0 °C sample. Notice that the distribution curve broadens as we go to a higher tem-
+perature, which tells us that the range of molecular speeds increases with temperature. 
+The rms speed is important because the average kinetic energy of the gas molecules 
+in a sample is equal to 1
+2 m1urms22. 
+ (Section 1.4) Because mass does not change with 
+temperature, the increase in the average kinetic energy 1
+2 m1urms22 as the temperature 
+increases implies that the rms speed of the molecules (as well as uav and ump) increases as 
+temperature increases.
+Application of Kinetic-Molecular Theory to the Gas Laws
+The empirical observations of gas properties as expressed by the various gas laws are read-
+ily understood in terms of the kinetic-molecular theory. The following examples illus-
+trate this point:
+1. An increase in volume at constant temperature causes pressure to de-
+crease. A constant temperature means that the average kin

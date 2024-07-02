@@ -1,0 +1,129 @@
+cos
+x
+x
+x
+x
+x
+-
+=
++
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+146 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+147 
+3.10 Trigonometric Equations 
+3.10.1 Basic Trigonometric Equations 
+Solving any trigonometric equation always reduces to solving a basic trigonometric 
+equation—an equation of the form T( ) = c, where T is a trigonometric function and c is a 
+constant. 
+In the next examples we solve such basic equations. 
+ 
+Example 1 
+Solve the equation 
+1
+sin
+.
+2
+q =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+Solve the equation tan  = 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.10.2 Solving Equations by Factoring 
+Factoring is one of the most useful techniques for solving equations, including 
+trigonometric equations. 
+The idea is to move all terms to one side of the equation, factor, and then use the Zero-
+Product Property. 
+ 
+ 
+ 
+148 
+Example 3 
+Solve the equation 
+2
+2cos
+7cos
+3
+0.
+q
+q
+-
++
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 4 
+Solve the equation 5 sin  cos  + 4 cos  = 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.10.3 Solvin

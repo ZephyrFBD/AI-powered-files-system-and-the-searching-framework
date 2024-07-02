@@ -1,0 +1,19 @@
+he pressure 
+of the gas, (2) the number of moles of gas in the cylinder, and  
+(3) the average distance between molecules.
+Plan We can use the gas laws to evaluate the changes in pressure. 
+The number of moles of gas in the cylinder will not change unless 
+gas is either added or removed. Assessing the average distance 
+between molecules is not quite as straightforward. For a given 
+number of gas molecules, the average distance between mole-
+cules increases as the volume increases. Conversely, for constant 
+volume, the average distance between molecules decreases as the 
+number of moles increases. Thus, the average distance between 
+molecules will be proportional to V/n.
+Solve
+(a)  
+Because it is stipulated that the pressure remains constant, pres-
+sure is not a variable in this problem, and the total number of 
+moles of gas will also remain constant. We know from Charles’s 
+law, however, that heating the gas while maintaining constant 
+pressure will cause the piston to move and the vol

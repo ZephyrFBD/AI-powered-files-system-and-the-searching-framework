@@ -1,0 +1,26 @@
+isplayed
+on the TV screen. (Note: commercial movies on film are 24 frames per second.)
+1
+30 s
+†525 lines in total, but only 480 form the picture; the other 45 lines contain other information such as
+synchronization. The sweep is interlaced: that is, every 
+every other line is traced, and in the 
+next 
+, the lines in between are traced.
+1
+60 s
+1
+60 s
+*SECTION 17–11
+491
+FIGURE 17–31 Close up of a tiny
+section of two typical LCD screens.
+You can even make out wires and 
+transistors in the one on the right.
+†LEDs are discussed in Section 29–9. Home TVs advertised as LED generally mean an LCD screen
+with an LED backlight. LED pixels small enough for home screens are difficult to make, but actual
+LED screens are found in very large displays such as at stadiums.
+Flat Screens and Addressing Pixels
+Today’s flat screens contain millions of tiny picture elements, or pixels. Each pixel
+consists of 3 subpixels, a red, a green, and a blue. A close up of a common arrange-
+ment of pixels is shown in F

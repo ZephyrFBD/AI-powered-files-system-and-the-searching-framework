@@ -1,0 +1,29 @@
+ation 10.20.
+Solve We must convert each quantity in our equation to SI units. 
+We will also use R in units of J>mol@K (Table 10.2) to make the 
+units cancel correctly.
+ T = 25 + 273 = 298 K
+ ℳ= 28.0 g>mol = 28.0 * 10-3 kg>mol
+ R = 8.314 J>mol@K = 8.314 kg@m2>s2@mol@K 
+1Since 1 J = 1 kg@m2>s22
+urms = A
+3RT
+ℳ
+= A
+318.314 kg@m2>s2@mol@K21298 K2
+28.0 * 10-3kg>mol
+= 5.15 * 102 m>s
+Comment This corresponds to a speed of 1150 mi>hr. Because the 
+average molecular weight of air molecules is slightly greater than 
+that of N2, the rms speed of air molecules is a little smaller than 
+that for N2.
+ 
+▶Practice Exercise 1
+Fill in the blanks for the following statement: The rms 
+speed of the molecules in a sample of H2 gas at 300 K will be 
+ times larger than the rms speed of O2 molecules 
+at the same temperature, and the ratio urms1H22>urms1O22 
+ with increasing temperature.  
+(a) four, will not change (b) four, will increase (c) sixteen, 
+will not change (d) sixteen, will decrease (e) Not enough 
+i

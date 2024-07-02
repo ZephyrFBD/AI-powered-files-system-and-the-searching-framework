@@ -1,0 +1,14 @@
+wire is often black (though it may be red), whereas white is neutral and green (or
+bare) is the dedicated ground, Fig. 19–29. But beware: these color codes cannot
+always be trusted.
+[In the U.S., three wires normally enter a house: two hot wires at 120 V each
+(which add together to 240 V for appliances or devices that run on 240 V) plus
+the grounded neutral (carrying return current for the two hot wires). See 
+Fig. 19–29. The “dedicated” ground wire (non-current carrying) is a fourth wire
+that does not come from the electric company but enters the house from a nearby
+heavy stake in the ground or a buried metal pipe. The two hot wires can feed
+separate 120-V circuits in the house, so each 120-V circuit inside the house has
+only three wires, including the dedicated ground.]
+Normal circuit breakers (Sections 18–6 and 20–7) protect equipment and build-
+ings from overload and fires. They protect humans only in some circumstances, such
+as the very high currents that result from a short, if t

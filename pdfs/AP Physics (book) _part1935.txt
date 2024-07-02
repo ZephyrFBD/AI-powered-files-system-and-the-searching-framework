@@ -1,0 +1,47 @@
+7. (III) Electrons are accelerated by 6.0 kV in a CRT. The screen
+is 30 cm wide and is 34 cm from the 2.6-cm-long deflection
+plates. Over what range must the horizontally deflecting
+electric field vary to sweep the beam fully across the screen?
+y
+–Q
+l
+–3Q
+x
++Q
+l
+l
+FIGURE 17–45
+Problem 75.
+76. It takes 15.2 J of energy to move a 13.0-mC charge from
+one plate of a 
+capacitor to the other. How much
+charge is on each plate? Assume constant voltage.
+17.0-mF
+General Problems
+499
+Aluminum
+Aluminum
+Paper
+FIGURE 17–48
+Problem 82.
+12 cm
+14 cm
+24 cm
+A
+B
+38 mC
+38 mC
+FIGURE 17–47
+Problem 81.
+77. A 
+and a 
+charge are placed 2.5 cm apart. At
+what points along the line joining them is (a) the electric
+field zero, and (b) the electric potential zero?
+78. Near the surface of the Earth there is an electric field of
+about 150
+which points downward. Two identical balls
+with mass 
+are dropped from a height of 2.00 m,
+but one of the balls is positively charged with 
+and the second is negatively charged with 

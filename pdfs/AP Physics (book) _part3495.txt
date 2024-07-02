@@ -1,0 +1,17 @@
+OTE This 45-mrem effective dose is almost 50% of the normal allowed dose
+for a whole year 
+or 1% of the maximum one-year allowance for
+radiation workers. This worker should not receive such a large dose every day
+and should seek ways to reduce it (shield the source, vary the work, work
+farther from the source, work less time this close to source, etc.).
+We have assumed that the intensity of radiation decreases as the square of the
+distance. It actually falls off faster than 
+because of absorption in the air, so
+our answers are a slight overestimate of dose received.
+Radon exposure. In the U.S., yearly deaths from radon
+exposure (the second leading cause of lung cancer) are estimated to exceed 
+the yearly deaths from drunk driving. The Environmental Protection Agency
+recommends taking action to reduce the radon concentration in living areas if it
+exceeds 
+of air. In some areas 50% of houses exceed this level from nat-
+urally occurring radon in the soil. Estimate (a) the number of decays

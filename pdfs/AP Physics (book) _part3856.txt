@@ -1,0 +1,42 @@
+ = 8.314 JmolK = 1.99 calmolK,
+CP - CV = R.
+nCP ¢T - nCV ¢T = P a nR ¢T
+P
+b
+¢V = nR ¢TP.
+V = nRTP,
+QP - QV = P ¢V.
+¢T
+¢U
+QP = ¢U + P ¢V.
+¢T,
+W = P ¢V.
+QP,
+QV = ¢U.
+QV
+Q = ¢U + W,
+¢V = 0.
+A-20
+APPENDIX D
+(a)
+Axis
+(b)
+Axis
+FIGURE D;1 A diatomic molecule
+can rotate about two different axes.
+Table D–1 indicates that the 
+for diatomic gases is about
+times as great as
+for a monatomic gas—that is, in the same ratio as their degrees of freedom. This
+result led nineteenth-century physicists to the principle of equipartition of energy.
+This principle states that energy is shared equally among the active degrees of
+freedom, and each active degree of freedom of a molecule has on average an
+energy equal to 
+Thus, the average energy for a molecule of a monatomic 
+gas would be 
+(which we already knew) and of a diatomic gas 
+Hence 
+the internal energy of a diatomic gas would be 
+where n
+is the number of moles. Using the same argument we did for monatomic gases,
+we see that for diatomic gases the

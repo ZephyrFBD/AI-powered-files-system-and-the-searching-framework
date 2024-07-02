@@ -1,0 +1,64 @@
+ass, a little water may leave the bottom of
+the straw, thus increasing the volume of trapped air and reducing its density 
+and pressure.)
+Gauge Pressure
+It is important to note that tire gauges, and most other pressure gauges, register the
+pressure above and beyond atmospheric pressure. This is called gauge pressure.
+Thus, to get the absolute pressure, P, we must add the atmospheric pressure,
+to the gauge pressure,
+If a tire gauge registers 220 kPa, the absolute pressure within the tire is
+equivalent to about 3.2 atm (2.2 atm gauge
+pressure).
+220 kPa + 101 kPa = 321 kPa,
+P = P
+G + P
+0 .
+P
+G:
+P
+0 ,
+P
+0
+P
+0
+l
+CONCEPTUAL EXAMPLE 10;4
+1 bar = 1.000 * 105 Nm2.
+1 atm = 1.013 * 105 Nm2 = 101.3 kPa.
+14.7 lbin.2
+1.013 * 105 Nm2
+P H Y S I C S  A P P L I E D
+Pressure on living cells
+(a)
+(b)
+P
+0
+P=?
+mg =
+rgAh
+P
+0A
+PA
+r
+l
+h
+FIGURE 10–5 Example 10–4.
+264
+CHAPTER 10
+Fluids
+SECTION 10–5
+Pascal’s Principle
+265
+(a)
+(b)
+Pedal
+Disk,
+attached to wheel
+Brake
+pads
+Brake
+cylinder
+Master
+cylinder
+   out
+Po

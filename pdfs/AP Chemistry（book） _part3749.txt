@@ -1,0 +1,26 @@
+
+late ligand, so they both exhibit the chelate effect. Thus, we 
+conclude that ortho-phenanthroline is a stronger Lewis base 
+toward Co2+ than oxalate. This conclusion is consistent with 
+what we learned about bases in Section 16.7, that nitrogen 
+bases are generally stronger than oxygen bases. (Recall, for ex-
+ample, that NH3 is a stronger base than H2O.)
+Na43Co(C2O4)34
+Co2+(aq) + 3 Ox2-(aq) ∆ 3Co(Ox)344-(aq)
+(e) The equilibrium we must consider involves 3 mol of oxalate 
+ion (represented as Ox2 - ).
+Kf =
+33Co(Ox)344-4
+3Co2+43Ox2-43
+The formation-constant expression is:
+3Co2+4 = x M, 3Ox2-4 ≅0.037 M, 33Co(Ox)344-4 ≅0.0010 M
+Because Kf is so large, we can assume that essential-
+ly all the Co2+ is converted to the oxalato complex. 
+Under that assumption, the ﬁnal concentration of 
+3Co(Ox)344- is 0.0010 M and that of oxalate ion is 
+3Ox2-4 = (0.040) - 3(0.0010) = 0.037 M (three Ox2- ions 
+react with each Co2+ ion). We then have:
+Kf =
+(0.0010)
+x(0.037)3 = 5 * 109
+Inserting these values in

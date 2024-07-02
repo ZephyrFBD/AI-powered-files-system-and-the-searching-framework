@@ -1,0 +1,43 @@
+-phase 
+isomerization of CH3NC at 215 °C, calculate the first- 
+order rate constant and half-life for the reaction:
+Time (s)
+Pressure CH3NC (torr)
+0
+502
+2000
+335
+5000
+180
+8000
+95.5
+12,000
+41.7
+15,000
+22.4
+ 14.47 Consider the data presented in Exercise 14.19. (a) By us-
+ing appropriate graphs, determine whether the reaction 
+is first order or second order. (b) What is the rate constant 
+for the reaction? (c) What is the half-life for the reaction?
+ 14.48 Consider the data presented in Exercise 14.20. (a) Deter-
+mine whether the reaction is first order or second order. 
+(b) What is the rate constant? (c) What is the half-life?
+ 14.49 The gas-phase decomposition of NO2, 2 NO21g2 ¡
+2 NO1g2 + O21g2, is studied at 383 °C, giving the follow-
+ing data:
+Time (s)
+3NO24 (M)
+0.0
+0.100
+5.0
+0.017
+10.0
+0.0090
+15.0
+0.0062
+20.0
+0.0047
+ 
+ (a) Is the reaction first order or second order with respect 
+to the concentration of NO2? (b) What is the rate con-
+stant? (c) Predict the reaction rates at the begin

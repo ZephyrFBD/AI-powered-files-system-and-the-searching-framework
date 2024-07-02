@@ -1,0 +1,46 @@
+he
+self-inductance L of a long tightly wrapped solenoid coil of length and cross-
+sectional area A, that contains N turns (or loops) of wire. (b) Calculate the value
+of L if
+and the solenoid is air filled.
+APPROACH The induced emf in a coil can be determined either from Faraday’s
+law 
+or the self-inductance 
+If we equate
+these two expressions, we can solve for the inductance L since we know how to
+calculate the flux 
+for a solenoid using Eq. 20–8 (
+).
+SOLUTION (a) We equate Faraday’s law (Eq. 21–2b) and Eq. 21–9 for the
+inductance:
+and solve for L:
+We know
+(Eq. 21–1), and Eq. 20–8 gives us the magnetic field B for
+a solenoid,
+so the magnetic flux inside the solenoid is
+Any change in current,
+causes a change in flux
+We put this into our equation above for L:
+(b) Using
+and putting in values given,
+L =
+A4p * 10–7 TmAB(100)2A3.0 * 10–5 m2B
+A5.0 * 10–2 mB
+= 7.5 mH.
+m0 = 4p * 10–7 TmA,
+L = N ¢£B
+¢I    
+= m0 N2A
+l
+.
+¢£B = m0 N ¢I A
+l
+.
+¢I,
+£B = m0 NIA
+l
+.
+B = m0NIl,
+£B = BA
+L = N ¢£B
+¢I 

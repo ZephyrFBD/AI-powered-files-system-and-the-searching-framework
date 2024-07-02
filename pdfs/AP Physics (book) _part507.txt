@@ -1,0 +1,18 @@
+and no switching satellites is needed).
+Weightlessness
+People and other objects in a satellite circling the Earth are said to experience
+apparent weightlessness. Let us first look at a simpler case: a falling elevator. In
+Fig. 5–24a, an elevator is at rest with a bag hanging from a spring scale. The 
+scale reading indicates the downward force exerted on it by the bag. This force,
+exerted on the scale, is equal and opposite to the force exerted by the scale
+upward on the bag, and we call its magnitude w (for “weight”). Two forces act on
+the bag: the downward gravitational force and the upward force exerted by the
+scale equal to w. Because the bag is not accelerating
+when we apply
+to the bag in Fig. 5–24a we obtain
+where mg is the weight of the bag. Thus,
+and since the scale indicates
+the force w exerted on it by the bag, it registers a force equal to the weight of the
+bag, as we expect.
+Now let the elevator have an acceleration, a. Applying Newton’s second law,
+to the bag as seen from a

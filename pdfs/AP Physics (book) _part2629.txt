@@ -1,0 +1,15 @@
+he evidence for the wave theory and how it has been used to explain a wide
+range of phenomena.
+24–1 Waves vs. Particles;
+Huygens’ Principle and Diffraction
+The Dutch scientist Christian Huygens (1629–1695), a contemporary of Newton,
+proposed a wave theory of light that had much merit. Still useful today is a
+technique Huygens developed for predicting the future position of a wave front
+when an earlier position is known. By a wave front, we mean all the points along
+a two- or three-dimensional wave that form a wave crest—what we simply call a
+“wave” as seen on the ocean. Wave fronts are perpendicular to rays as discussed
+in Chapter 11 (Fig. 11–35). Huygens’ principle can be stated as follows: Every
+point on a wave front can be considered as a source of tiny wavelets that spread
+out in the forward direction at the speed of the wave itself. The new wave front is
+the envelope of all the wavelets—that is, the tangent to all of them.
+As an example of the use of Huygens’ principle, consider t

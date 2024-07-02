@@ -1,0 +1,24 @@
+  >L = 1.00 M. After 20 s, the concentration of A has fallen to 
+0.54 M and the concentration of B has risen to 0.46 M. The sum of the concentrations is 
+still 1.00 M because 1 mol of B is produced for each mole of A that reacts. After 40 s, the 
+concentration of A is 0.30 M and that of B is 0.70 M.
+The rate of this reaction can be expressed either as the rate of disappearance of reac-
+tant A or as the rate of appearance of product B. The average rate of appearance of B over 
+a particular time interval is given by the change in concentration of B divided by the 
+change in time:
+ 
+ Average rate of appearance of B =
+change in concentration of B
+change in time
+ =
+3B4 at t2 - 3B4 at t1
+t2 - t1
+=
+∆3B4
+∆t  
+[14.1]
+We use brackets around a chemical formula, as in [B], to indicate molarity. The 
+Greek letter delta, ∆, is read “change in” and is always equal to a final value minus an 
+initial value. 
+ (Equation 5.3, Section 5.2) The average rate of appearance of B over the 
+20 s interval from t

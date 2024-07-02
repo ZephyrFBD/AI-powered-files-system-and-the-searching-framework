@@ -1,0 +1,22 @@
+ for 
+From Fig. 17–12 we see that 
+since
+we can neglect 
+in the denominator as compared to r. Then
+we obtain
+(17;6a)
+We see that the potential decreases as the square of the distance from the dipole,
+whereas for a single point charge the potential decreases with the first power of
+the distance (Eq. 17–5). It is not surprising that the potential should fall off faster
+for a dipole: when you are far from a dipole, the two equal but opposite charges
+appear so close together as to tend to neutralize each other.
+The product 
+in Eq. 17–6a is referred to as the dipole moment, p, of the
+dipole. Equation 17–6a in terms of the dipole moment is
+(17;6b)
+A dipole moment has units of coulomb-meters 
+although for molecules a
+smaller unit called a debye is sometimes used:
+In many molecules, even though they are electrically neutral, the electrons spend
+more time in the vicinity of one atom than another, which results in a separation
+of charge. Such molecules have a dipole moment and are called polar m

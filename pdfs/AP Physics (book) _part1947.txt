@@ -1,0 +1,27 @@
+ energy is transformed to
+thermal energy (via collisions 
+between moving electrons and atoms
+of the wire), which causes the wire’s
+temperature to become so high that 
+it glows. In halogen lamps
+(tungsten–halogen), shown on the
+right, the tungsten filament is
+surrounded by a halogen gas such as
+bromine or iodine in a clear tube.
+Halogens, via chemical reactions,
+restore many of the tungsten atoms
+that were evaporated from the 
+hot filament, allowing longer life,
+higher temperature (typically 2900 K
+versus 2700 K), better efficiency, and
+whiter light.
+Electric current and electric power
+in electric circuits are of basic
+importance in everyday life. We
+examine both dc and ac in this
+Chapter, and include the microscopic
+analysis of electric current.
+CHAPTER-OPENING QUESTION—Guess now!
+The conductors shown are all made of copper and are at the same temperature.
+Which conductor would have the greatest resistance to the flow of charge entering
+from the left? Which would offer the least resist

@@ -1,0 +1,29 @@
+wo lenses.
+APPROACH Starting at the tip of our object O, we draw rays 1, 2, and 3 for the
+first lens, A, and also a ray 4 which, after passing through lens A, acts for the
+second lens, B, as ray 
+(through the center). We use primes now for the standard
+rays relative to lens B. Ray 2 for lens A exits parallel, and so is ray 
+for lens B.
+To determine the position of the image 
+formed by lens A, we use Eq. 23–8
+with 
+and
+The distance of 
+(lens A’s image)
+from lens B is the object distance 
+for lens B. The final image is found using
+the thin lens equation, this time with all distances relative to lens B. For (b) the
+magnifications are found from Eq. 23–9 for each lens in turn.
+SOLUTION (a) The object is a distance
+from the first lens, A,
+and this lens forms an image whose position can be calculated using the thin lens
+equation:
+So the first image 
+is at
+behind the first lens. This image
+becomes the object for the second lens,
+B.
+It is a
+distance 
+in front of lens B (Fig. 23–44b). The image

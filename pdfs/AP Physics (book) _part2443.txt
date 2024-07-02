@@ -1,0 +1,18 @@
+leted. Charge
+starts building up, and fields form just as in Fig. 22–4b. The 
+and 
+signs in
+Fig. 22–5a indicate the net charge on each rod at a given instant. The black arrows
+indicate the direction of the current. The electric field is represented by red lines
+in the plane of the page; and the magnetic field, according to the right-hand rule,
+is into 
+or out of 
+the page in blue. In Fig. 22–5b, the voltage of the ac 
+generator has reversed in direction; the current is reversed and the new magnetic
+field is in the opposite direction. Because the new fields have changed direction,
+the old lines fold back to connect up to some of the new lines and form closed
+loops as shown.† The old fields, however, don’t suddenly disappear; they are on
+their way to distant points. Indeed, because a changing magnetic field produces
+an electric field, and a changing electric field produces a magnetic field, this 
+combination of changing electric and magnetic fields moving outward is self-
+supporting, no 

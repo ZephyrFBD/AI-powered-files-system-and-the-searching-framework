@@ -1,0 +1,18 @@
+nes with the improved model 2 effectively and gives a practical 
+distribution way that is based on the demand. On the hand of details, the 
+model gives a more practical way of combining the vertical transport with 
+the lateral transport to save time and cost, having certain guidance 
+meaning to reality. The assumption that one week is a cycle is reasonable. 
+Medical help is timely and it is good for adjusting distribution strategy 
+according to the changing actual situation. The delivery model is practical 
+and reasonable. 
+ Weakness: Due to the lack of data, we can’t predict accurately the 
+Team   #37232                                                              Page 20 of 22   
+demand of each city In the next week. And after drugs used, the situation 
+would change. The model can’t predict the concrete effect. That’s what we 
+need to improve. 
+ 
+IV. Conclusions  
+4.1 Spread Model: 
+To estimate the developments of EVA in the next 200 weeks (from 
+2014/3/1), we use differential equat

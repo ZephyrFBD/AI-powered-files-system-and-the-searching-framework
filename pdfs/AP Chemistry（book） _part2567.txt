@@ -1,0 +1,26 @@
+e the pH and percentage of HF molecules ionized in a 0.10 M HF solution.
+Sample Exercise 16.13 
+Using the Quadratic Equation to Calculate pH and Percent Ionization
+SOLUTION
+Analyze We are asked to calculate the percent ionization of a solu-
+tion of HF
+. From Appendix D, we find Ka = 6.8 * 10-4.
+Plan We approach this problem as for previous equilibrium 
+problems: We write the chemical equation for the equilibrium 
+and tabulate the known and unknown concentrations of all 
+species. We then substitute the equilibrium concentrations into 
+the equilibrium-constant expression and solve for the unknown 
+concentration of H+.
+Polyprotic Acids
+Acids that have more than one ionizable H atom are known as polyprotic acids. Sulfu-
+rous acid 1H2SO32, for example, can undergo two successive ionizations:
+ 
+H2SO31aq2 ∆ H+1aq2 + HSO3
+-1aq2                      Ka1 = 1.7 * 10-2 
+[16.31]
+ 
+HSO3
+-1aq2 ∆ H+1aq2 + SO3
+2-1aq2                        Ka2 = 6.4 * 10-8 
+[16.32]
+Note that the acid-dissociation const

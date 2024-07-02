@@ -1,0 +1,52 @@
+ible microstates also increases. Fig-
+ure 19.13 compares the standard molar entropies of three hydrocarbons in the gas phase. 
+Notice how the entropy increases as the number of atoms in the molecule increases.
+TABLE 19.1 Standard Molar 
+Entropies of Selected 
+Substances at 298 K
+Substance
+S ° 1J,mol@K2
+H21g2
+130.6
+N21g2
+191.5
+O21g2
+205.0
+H2O1g2
+188.8
+NH31g2
+192.5
+CH3OH1g2
+237.6
+C6H61g2
+269.2
+H2O1l2
+ 69.9
+CH3OH1l2
+126.8
+C6H61l2
+172.8
+Li1s2
+ 29.1
+Na1s2
+ 51.4
+K1s2
+ 64.7
+Fe(s)
+ 27.23
+FeCl31s2
+142.3
+NaCl(s)
+ 72.3
+Go Figure
+What might you expect for the value of S° for butane, C4H10?
+Methane, CH4
+S° = 186.3 J/mol-K
+Ethane, C2H6
+S° = 229.6 J/mol-K
+Propane, C3H8
+S° = 270.3 J/mol-K
+▲ Figure 19.13 Entropy increases with increasing molecular complexity.
+* The standard pressure used in thermodynamics is no longer 1 atm but rather is based on the 
+SI unit for pressure, the pascal (Pa). The standard pressure is 105 Pa, a quantity known as a bar: 1 
+bar = 105 Pa = 0.987 atm. Because 1 bar differs fro

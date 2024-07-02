@@ -1,0 +1,16 @@
+f atoms. In 
+1925, the Austrian-born physicist Wolfgang Pauli (1900–1958) discovered the prin-
+ciple that governs the arrangement of electrons in many-electron atoms. The Pauli 
+exclusion principle states that no two electrons in an atom can have the same set of 
+four quantum numbers n, l, ml, and ms. For a given orbital, the values of n, l, and ml 
+are fixed. Thus, if we want to put more than one electron in an orbital and satisfy 
+the Pauli exclusion principle, our only choice is to assign different ms values to the 
+electrons.  
+Because there are only two such values, we conclude that an orbital can 
+hold a maximum of two electrons and they must have opposite spins. This restriction 
+allows us to index the electrons in an atom, giving their quantum numbers and 
+thereby defining the region in space where each electron is most likely to be found. 
+It also provides the key to understanding the remarkable structure of the periodic 
+table of the elements.
+6.8 ∣ Electron Configurations
+Ar

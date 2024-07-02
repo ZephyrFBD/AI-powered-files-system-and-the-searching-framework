@@ -1,0 +1,22 @@
+ation-pressure” force exerted on
+the enemy by the laser beam assuming her suit is perfectly
+reflecting. (b) If the enemy is 30 m from the Shuttle’s
+center of mass, estimate the gravitational force the Shuttle
+exerts on the enemy. (c) Which of the two forces is larger,
+and by what factor?
+3. The Arecibo radio telescope in Puerto Rico can detect
+a radio wave with an intensity as low as 
+Consider a “best-case” scenario for communication with
+extraterrestrials: suppose an advanced civilization a dis-
+tance x away from Earth is able to transform the entire power
+output of a Sun-like star completely into a radio-wave signal
+which is transmitted uniformly in all directions. (a) In order
+for Arecibo to detect this radio signal, what is the maximum
+value for x in light-years 
+(b) How does
+this maximum value compare with the 100,000-ly size of
+our Milky Way galaxy? The intensity of sunlight at Earth’s
+orbital distance from the Sun is 
+[Hint: Assume
+the inverse square law (Eq. 11–16b).]
+1350 Wm2

@@ -1,0 +1,79 @@
+
+zeros. 
+ 
+Example 4 
+Write the polynomial P(x) = 2x3 + x2 -13x +6 in factored form, and find all its zeros. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+1.7.4 Complex Zeros 
+CONJUGATE ZEROS THEOREM 
+If the polynomial P has real coefficients and if the complex number z is a zero of P. 
+Then its complex conjugate z* is also a zero of P. 
+ 
+Example 5 
+Find a polynomial P (x) of degree 3 that has integer coefficients and zeros 1/2 and 3-i. 
+ 
+ 
+ 
+ 
+ 
+1.7.5 Linear and Quadratic Factors 
+LINEAR AND QUADRATIC FACTORS THEOREM 
+Every polynomial with real coefficients can be factored into a product of linear and 
+irreducible quadratic factors with real coefficients. 
+ 
+Example 6 
+Let P(x) = x4 +2x2 -8. 
+(a) Factor P into linear and irreducible quadratic factors with real coefficients. 
+(b) Factor P completely into linear factors with complex coefficients. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+1.8 Rational Functions and Properties 
+1.8.1 Rational Fu

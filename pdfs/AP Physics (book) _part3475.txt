@@ -1,0 +1,24 @@
+gy
+(Chapter 17) of the two particles at this distance equals the minimum total
+kinetic energy of the two particles when far apart. The average kinetic energy is
+related to Kelvin temperature by Eq. 13–8.
+SOLUTION The radii of the two nuclei (
+and 
+) are given by
+Eq. 30–1:
+so
+We equate
+the kinetic energy of the two initial particles to the potential energy when at this
+distance:
+Thus,
+and if we ask that the average kinetic energy be this
+high, then from Eq. 13–8,
+we have a temperature of
+NOTE More careful calculations show that the temperature required for fusion
+is actually about an order of magnitude less than this rough estimate, partly
+because it is not necessary that the average kinetic energy be 0.22 MeV—a small
+percentage of nuclei with this much energy (in the high-energy tail of the Maxwell
+distribution, Fig. 13–20) would be sufficient. Reasonable estimates for a usable
+fusion reactor are in the range
+to
+A high temperature is required for a fusion reactor. But there must also b

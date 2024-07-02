@@ -1,0 +1,25 @@
+e order or disorder of a system.
+When we deal with entropy—as with potential energy—it is the change in
+entropy during a process that is important, not the absolute amount. According
+to Clausius, the change in entropy S of a system, when an amount of heat Q is
+added to it by a reversible† process at constant temperature, is given by
+(15;8)
+where T is the kelvin temperature. (If heat is lost, Q is negative in this equation,
+as per our original sign conventions on page 413.)
+¢S = Q
+T
+,
+428
+CHAPTER 15
+The Laws of Thermodynamics
+†Real processes are irreversible. Because entropy is a state variable, the change in entropy 
+for an
+irreversible process can be determined by calculating 
+for a reversible process between the same
+two states.
+¢S
+¢S
+Entropy change in melting. An ice cube of mass 56 g is
+taken from a storage compartment at 0°C and placed in a paper cup. After a few
+minutes, exactly half of the mass of the ice cube has melted, becoming water at
+0°C. Find the change in entropy of the 

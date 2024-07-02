@@ -1,0 +1,49 @@
+rature.
+Go Figure
+At what combination of pressure and temperature should you run the 
+reaction to maximize NH3 yield?
+60.6%
+54.9%
+47.8%
+38.7%
+48.8%
+42.9%
+35.9%
+27.4%
+37.8%
+32.2%
+26.0%
+18.9%
+20.8%
+16.9%
+12.9%
+8.8%
+450
+Temperature (°C)
+Total pressure (atm)
+500
+550
+400
+500
+400
+300
+200
+Percent NH3 Produced
+Percent of NH3 
+increases with 
+increasing 
+pressure.
+Percent of NH3 
+decreases with 
+increasing 
+temperature.
+▲ Figure 15.10 Effect of temperature and pressure on NH3 yield in the Haber process. Each 
+mixture was produced by starting with a 3 
+: 
+1 molar mixture of H2 and N2.
+If a system at equilibrium is disturbed by a change in concentration, pressure, or temperature,
+the system will shift its equilibrium position so as to counter the effect of the disturbance.
+Le Châtelier’s Principle
+Concentration: adding or removing a reactant or product
+If a substance is added to a system at equilibrium, the system reacts to consume some of the substance.  If a substance is removed
+from a system, 

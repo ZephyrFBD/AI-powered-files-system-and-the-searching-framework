@@ -1,0 +1,36 @@
+he parent hydrocarbon is based on the longest con-
+tinuous chain of carbon atoms. Branches are alkyl groups, named 
+after the number of C atoms in the branch and located by count-
+ing C atoms along the longest continuous chain.
+Solve The longest continuous chain of C atoms extends from the 
+upper left CH3 group to the lower left CH3 group and is seven C 
+atoms long:
+CH3
+5CH2
+6CH2
+7CH3
+4CH
+2CH2
+1CH3
+CH3
+3CH
+The parent compound is thus heptane. There are two methyl 
+groups branching off the main chain. Hence, this compound is 
+a dimethylheptane. To specify the location of the two methyl 
+groups, we must number the C atoms from the end that gives the 
+lower two numbers to the carbons bearing side chains. This means 
+that we should start numbering at the upper left carbon. There 
+is a methyl group on C3 and one on C4. The compound is thus 
+3,4-dimethylheptane.
+ 
+▶Practice Exercise 1
+What is the systematic name of this compound?
+CH3
+CH3
+CH2
+C
+CH2
+CH3
+CH3
+(a) 3-ethyl-3-methylbutane 
+(b) 2-et

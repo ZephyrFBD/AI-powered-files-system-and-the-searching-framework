@@ -1,0 +1,33 @@
+nt magnets. Ferromagnetic
+materials are made up of tiny domains—each a tiny magnet—
+which are preferentially aligned in a permanent magnet. When
+iron or another ferromagnetic material is placed in a magnetic
+field 
+due to a current, the iron becomes magnetized. When
+the current is turned off, the material remains magnetized;
+when the current is increased in the opposite direction, a graph
+of the total field B versus 
+is a hysteresis loop, and the fact
+that the curve does not retrace itself is called hysteresis.]
+B0
+B0
+t = NIAB sin u.
+B
+B
+t
+©B7 ¢l = m0 I
+encl.
+m0
+B
+B
+¢l
+l
+B = m0 NIl,
+1. A compass needle is not always balanced parallel to the
+Earth’s surface, but one end may dip downward. Explain.
+2. Explain why the Earth’s “north pole” is really a magnetic
+south pole. Indicate how north and south magnetic poles
+were defined and how we can tell experimentally that the
+north pole is really a south magnetic pole.
+3. In what direction are the magnetic field lines surrounding
+a straight wir

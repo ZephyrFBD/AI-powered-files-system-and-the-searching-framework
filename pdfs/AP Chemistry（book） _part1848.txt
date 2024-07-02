@@ -1,0 +1,15 @@
+the lattices shown in 
+Figures 12.6 and 12.7.
+Filling the Unit Cell
+The lattice by itself does not define a crystal structure. To generate a crystal structure, 
+we need to associate an atom or group of atoms with each lattice point. In the simplest 
+case, the crystal structure consists of identical atoms, and each atom lies directly on 
+a lattice point. When this happens, the crystal structure and the lattice points have 
+identical patterns. Many metallic elements adopt such structures, as we will see in Sec-
+tion 12.3. Only for solids in which all the atoms are identical can this occur; in other 
+words, only elements can form structures of this type. For compounds, even if we were 
+to put an atom on every lattice point, the points would not be identical because the 
+atoms are not all the same.
+In most crystals, the atoms are not exactly coincident with the lattice points. 
+Instead, a group of atoms, called a motif, is associated with each lattice point. The unit 
+cell contains a speci

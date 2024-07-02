@@ -1,0 +1,20 @@
+ 14.29 The decomposition reaction of N2O5 in carbon tetrachlo-
+ride is 2 N2O5 ¡ 4 NO2 + O2. The rate law is first order 
+in N2O5. At 64 °C the rate constant is 4.82 * 10-3 s-1.  
+(a) Write the rate law for the reaction. (b) What is the rate 
+of reaction when 3N2O54 = 0.0240 M? (c) What happens 
+to the rate when the concentration of N2O5 is doubled to 
+0.0480 M? (d) What happens to the rate when the con-
+centration of N2O5 is halved to 0.0120 M?
+ 14.30 Consider the following reaction:
+2 NO1g2 + 2 H21g2 ¡ N21g2 + 2 H2O1g2
+ 
+ (a) The rate law for this reaction is first order in H2 and 
+second order in NO. Write the rate law. (b) If the rate 
+constant for this reaction at 1000 K is 6.0 * 104 M -2 s-1, 
+what is the reaction rate when 3NO4 = 0.035 M and 
+3H24 = 0.015 M? (c) What is the reaction rate at 1000 K 
+when the concentration of NO is increased to 0.10 M, 
+while the concentration of H2 is 0.010 M? (d) What is the 
+reaction rate at 1000 K if [NO] is decreased to 0.010 M and 
+3H24 is in

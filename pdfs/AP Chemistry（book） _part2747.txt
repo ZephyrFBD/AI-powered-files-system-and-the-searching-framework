@@ -1,0 +1,19 @@
+ilibrium-constant expression. Remember, however, that solids do not appear in 
+the equilibrium-constant expressions for heterogeneous equilibrium. 
+ (Section 15.4)
+Thus, the solubility-product expression for BaSO4, which is based on Equation 17.15, is
+ 
+Ksp = 3Ba2 +43SO4
+2 -4 
+[17.16]
+The coefficient for each ion in the equilibrium equation also equals its subscript in the 
+compound’s chemical formula.
+In general, the solubility product Ksp of a compound equals the product of the  
+concentration of the ions involved in the equilibrium, each raised to the power  
+of its coefficient in the equilibrium equation.
+The values of Ksp at 25 °C for many ionic solids are tabulated in Appendix D. The 
+value of Ksp for BaSO4 is 1.1 * 10-10, a very small number indicating that only a very 
+small amount of the solid dissolves in 25 °C water.
+Write the expression for the solubility-product constant for CaF2, and look up the corresponding Ksp value in Appendix D.
+Sample Exercise 17.10 
+Writing Solubil

@@ -1,0 +1,24 @@
+ates are formed in the reaction A ¡ C? 
+How many transition states are there? Which step, 
+A ¡ B or B ¡ C, is the faster? For the reaction 
+A ¡ C, is ∆E positive, negative, or zero? [Section 14.6]
+Potential energy
+Reaction progress
+A
+B
+C
+612 
+CHAPTER 14 Chemical Kinetics
+ 14.14 Draw a possible transition state for the bimolecular reac-
+tion depicted here. (The blue spheres are nitrogen atoms, 
+and the red ones are oxygen atoms.) Use dashed lines to 
+represent the bonds that are in the process of being bro-
+ken or made in the transition state. [Section 14.6]
+no intermediates. (b) Calculate the average rate of disap-
+pearance of A for each 40 s interval in units of mol>s. (c) 
+Which of the following would be needed to calculate the 
+rate in units of concentration per time: (i) the pressure of 
+the gas at each time, (ii) the volume of the reaction flask, 
+(iii) the temperature, or (iv) the molecular weight of A?
+ 14.21 The isomerization of methyl isonitrile 1CH3NC2 to aceto-
+nitrile 1CH3C

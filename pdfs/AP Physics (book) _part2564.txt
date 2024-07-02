@@ -1,0 +1,16 @@
+efraction) through the focal point.
+To determine an image point, we can consider only the three rays indicated in
+Fig. 23–37, which uses an arrow (on the left) as the object, and a converging lens
+forming an image (dashed arrow) to the right. These rays, emanating from a single
+point on the object, are drawn as if the lens were infinitely thin, and we show only
+a single sharp bend at the center line of the lens instead of the refractions at each
+surface. These three rays are drawn as follows:
+Ray 1 is drawn parallel to the axis, Fig. 23–37a; therefore it is refracted by the
+lens so that it passes along a line through the focal point F behind the lens.
+Ray 2 is drawn to pass through the other focal point 
+(front side of lens 
+in Fig. 23–37) and emerge from the lens parallel to the axis, Fig. 23–37b.
+(In reverse it would be a parallel ray going left and passing through 
+.)
+Ray 3 is directed toward the very center of the lens, where the two surfaces are
+essentially parallel to each other,

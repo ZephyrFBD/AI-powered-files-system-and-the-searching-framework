@@ -1,0 +1,11 @@
+its of the other generation.
+Genetics problems require the application of probability rules. If a coin is tossed, there is a ½ (50%) chance, or
+probability, that it will be heads. If a coin is tossed again, there is, again, a ½ chance that it will be heads. The first
+toss does not affect the second toss; that is, the two tosses are independent. To determine the probability of two or
+more independent events occurring together, you merely multiply the probabilities of each event happening
+separately. This is the multiplication rule of probability. For two consecutive tosses of a coin, the probability of
+getting two heads is ½ × ½ = ¼. For three tosses, the probability of three heads would be ½ × ½ × ½ = ⅛.
+The following terms are used in genetics:
+1. A gene represents the genetic material on a chromosome that contains the instructions for creating a particular
+trait. Since the formula for carrying out these instructions is described by a genetic code, a gene is often said to code
+for a t

@@ -1,0 +1,24 @@
+(Sections 9.7 and 9.8) Related Exercises: 9.71, 9.72
+t Correlate bond order, bond strength (bond enthalpy), bond 
+length, and magnetic properties with molecular orbital descrip-
+tions of molecules. (Section 9.8) Related Exercises: 9.79, 9.80
+Key Equations
+t  
+Bond order = 1
+2 1number of bonding electrons - number of antibonding electrons2 [9.1]
+Exercises
+Visualizing Concepts
+ 
+9.1  A certain AB4 molecule has a “seesaw” shape
+ 
+ From which of the fundamental geometries shown in Figure 
+9.3 could you remove one or more atoms to create a mole-
+cule having this seesaw shape? [Section 9.1]
+ 
+9.2  (a) If these three balloons are all the same size, what angle 
+is formed between the red one and the green one? (b) If ad-
+ditional air is added to the blue balloon so that it gets larger, 
+will the angle between the red and green balloons increase, 
+decrease, or stay the same? (c) Which of the following as-
+pects of the VSEPR model is illustrated by part (b): (i) The 
+electron-domain geometry fo

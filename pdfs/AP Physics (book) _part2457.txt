@@ -1,0 +1,17 @@
+either
+case?
+APPROACH The signal is carried on a telephone wire or in the air via satellite.
+In either case it is an electromagnetic wave. Electronics as well as the wire or
+cable slow things down, but as a rough estimate we take the speed to be
+SOLUTION The distance from New York to London is about 5000 km.
+(a) The time delay via the cable is
+(b) Via satellite the time would be longer because communications satellites,
+which are usually geosynchronous (Example 5–12), move at a height of 
+36,000 km. The signal would have to go up to the satellite and back down, or
+about 72,000 km. The actual distance the signal would travel would be a little
+more than this as the signal would go up and down on a diagonal (5000 km 
+New York to London, small compared to the distance up to the satellite). Thus
+, one way. Both directions
+NOTE When the signal travels via the underwater cable, there is only a hint of a
+delay and conversations are fairly normal. When the signal is sent via satellite, the
+dela

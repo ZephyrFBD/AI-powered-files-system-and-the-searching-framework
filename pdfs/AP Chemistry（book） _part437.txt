@@ -1,0 +1,29 @@
+a and asked to determine 
+its molar mass.
+Plan Because the molar mass of any substance is numerically equal 
+to its formula weight, we first determine the formula weight of 
+glucose by adding the atomic weights of its component atoms. 
+The formula weight will have units of amu, whereas the molar 
+mass has units of grams per mole (g/mol).
+Solve Our first step is to determine the formula weight of glucose:
+ 
+6 C atoms = 6112.0 amu2 =
+72.0 amu 
+ 
+12 H atoms = 1211.0 amu2 =
+12.0 amu 
+ 
+6 O atoms = 6116.0 amu2 =
+96.0 amu 
+ 
+180.0 amu
+SOLUTION
+Analyze We are given the number of grams of a substance and its 
+chemical formula and asked to calculate the number of moles.
+Plan The molar mass of a substance provides the factor for 
+converting grams to moles. The  
+molar mass of C6H12O6 is 
+180.0 g>mol (Sample Exercise 3.9).
+Because glucose has a formula weight of 180.0 amu, 1 mol of this 
+substance 16.02 * 1023 molecules2 has a mass of 180.0 g. In other 
+words, C6H12O6 has a molar mass of 180.0 g>

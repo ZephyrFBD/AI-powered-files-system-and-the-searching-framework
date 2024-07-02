@@ -1,0 +1,15 @@
+cibels
+Loudness is a sensation in the consciousness of a human being and is related to 
+a physically measurable quantity, the intensity of the wave. Intensity is defined 
+as the energy transported by a wave per unit time across a unit area perpendicular to
+the energy flow.As we saw in Chapter 11, intensity is proportional to the square of the
+wave amplitude. Intensity has units of power per unit area, or 
+An average human ear can detect sounds with an intensity as low as
+and as high as 
+(and even higher, although above this it is
+painful). This is an incredibly wide range of intensity, spanning a factor of 
+from lowest to highest. Presumably because of this wide range, what we perceive
+as loudness is not directly proportional to the intensity. To produce a sound that
+sounds about twice as loud requires a sound wave that has about 10 times the
+intensity. This is roughly valid at any sound level for frequencies near the middle
+of the audible range. For example, a sound wave of intensity 

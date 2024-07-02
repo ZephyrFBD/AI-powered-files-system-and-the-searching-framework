@@ -1,0 +1,20 @@
+y. What other assumptions did you make?
+6. (a) The second postulate of kinetic theory is that the molecules
+are, on average, far apart from one another. That is, their
+average separation is much greater than the diameter of
+each molecule. Is this assumption reasonable? To check,
+calculate the average distance between molecules of a gas 
+at STP
+, and compare it to the diameter of a typical gas mole-
+cule, about 0.3 nm. (b) If the molecules were the diameter of
+ping-pong balls, say 4 cm, how far away would the next
+ping-pong ball be on average? (c) Repeat part a, but now
+assume the gas has been compressed so that the pressure is
+now 3 atm but still at 273 K. (d) Estimate what 
+of the
+total volume of gas is taken up by molecules themselves in
+parts a and c. [Note that the volume of the molecules them-
+selves can become a significant part of the total volume at
+lower temperatures and higher pressures. Hence the actual
+volume the molecules have to bounce around in is less than
+the total vol

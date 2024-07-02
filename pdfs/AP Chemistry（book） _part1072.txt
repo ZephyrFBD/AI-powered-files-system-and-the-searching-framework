@@ -1,0 +1,21 @@
+ nuclear 
+charge and number of electrons increase, consider Figure 7.5.  
+Although 
+the details of how the Zeff values in the graph were calculated are 
+ 
+beyond the scope of our discussion, the trends are instructive.
+The effective nuclear charge felt by the outermost electrons is 
+smaller than that felt by inner electrons because of screening by the inner 
+electrons. In addition, the effective nuclear charge felt by the outermost 
+electrons does not increase as steeply with increasing atomic number be-
+cause the valence electrons make a small but nonnegligible contribution 
+to the screening constant S. The most striking feature  
+associated with the 
+Zeff value for the outermost electrons is the sharp drop between the last 
+period 2 element (Ne) and the ﬁrst  
+period 3 element (Na). This drop re-
+ﬂects the fact that the core electrons are much more effective than the 
+valence electrons at screening the  
+nuclear charge.
+Because Zeff can be used to understand many phys-
+ically measura

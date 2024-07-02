@@ -1,0 +1,17 @@
+anges of a solid to liquid (melting), 
+solid to gas (sublimation), and liquid to gas (vaporization) are all 
+endothermic processes. Thus, the heat of fusion (melting), the heat 
+of sublimation, and the heat of vaporization are all positive quantities. 
+The reverse processes (freezing, deposition, and condensation) are 
+exothermic.
+A gas cannot be liquefied by application of pressure if the tem-
+perature is above its critical temperature. The pressure required to 
+liquefy a gas at its critical temperature is called the critical pressure. 
+When the temperature exceeds the critical temperature and the pres-
+sure exceeds the critical pressure, the liquid and gas phases coalesce 
+to form a supercritical fluid.
+VAPOR PRESSURE (SECTION 11.5) The vapor pressure of a liquid 
+is the partial pressure of the vapor when it is in dynamic equilibrium 
+with the liquid. At equilibrium the rate of transfer of molecules from 
+the liquid to the vapor equals the rate of transfer from the vapor to 
+the liqu

@@ -1,0 +1,14 @@
+ns having wavelengths shorter 
+than 240 nm, ozone, O3, is the key absorber of photons whose wavelengths range 
+from 240 to 310 nm, in the ultraviolet region of the electromagnetic spectrum, as 
+illustrated in Figure 18.4. Ozone in the upper atmosphere protects us from these 
+harmful high-energy photons, which would otherwise penetrate to Earth’s sur-
+face. Let’s consider how ozone forms in the upper atmosphere and how it absorbs 
+photons.
+By the time radiation from the Sun reaches an altitude of 90 km above Earth’s 
+surface, most of the short-wavelength radiation capable of photoionization has been 
+absorbed. Nevertheless, radiation capable of dissociating the O2 molecule is sufficiently 
+intense for photodissociation of O2 (Equation 18.1) to remain important down to an alti-
+tude of 30 km. In the region between 30 and 90 km, the concentration of O2 is much 
+greater than the concentration of atomic oxygen. Consequently, the oxygen atoms 
+formed by photodissociation of O2 in this region

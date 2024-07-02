@@ -1,0 +1,26 @@
+g examples. A ball suspended freely from a string is in
+stable equilibrium, for if it is displaced to one side, it will return to its original
+position (Fig. 9–15a) due to the net force and torque exerted on it. On the other
+hand, a pencil standing on its point is in unstable equilibrium. If its center of grav-
+ity is directly over its tip (Fig.9–15b), the net force and net torque on it will be zero.
+But if it is displaced ever so slightly as shown—say, by a slight vibration or tiny air
+current—there will be a torque on it, and this torque acts to make the pencil continue
+to fall in the direction of the original displacement. Finally, an example of an object
+in neutral equilibrium is a sphere resting on a horizontal tabletop. If it is moved
+slightly to one side, it will remain in its new position—no net torque acts on it.
+240
+CHAPTER 9
+P H Y S I C S  A P P L I E D
+Humans and balance
+(a)
+(b)
+Net
+force
+FIGURE 9–15 (a) Stable equilibrium,
+and (b) unstable equilibrium.
+CG
+CG
+(b)
+(a)
+(c)
+CG

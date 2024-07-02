@@ -1,0 +1,59 @@
+ is
+The direction of the force on the electron is toward the proton, because the
+charges have opposite signs so the force is attractive.
+= 8.2 * 10–8 N.
+F = k Q1 Q2
+r2
+=
+A9.0 * 109 Nm2C2BA1.6 * 10–19 CBA1.6 * 10–19 CB
+A0.53 * 10–10 mB2
+Q1 = Q2 = 1.6 * 10–19 C.
+r = 0.53 * 10–10 m.
+F = k Q1 Q2r2
+r = 0.53 * 10–10 m,
+AQ2 = ±eB
+EXAMPLE 16;1
+Which charge exerts the greater force?
+Two positive point charges,
+and  
+are separated by a
+distance 
+Fig. 16–17. Which is larger in magnitude, the force that 
+exerts 
+on 
+or the force that 
+exerts on 
+RESPONSE From Coulomb’s law, the force on 
+exerted by 
+is
+The force on 
+exerted by 
+is
+which is the same magnitude. The equation is symmetric with respect to the two
+charges, so  
+NOTE Newton’s third law also tells us these two forces must have equal magnitude.
+F
+21 = F
+12 .
+F
+21 = k Q2 Q1
+l2
+Q1
+Q2
+F
+12 = k Q1 Q2
+l2
+.
+Q2
+Q1
+Q1 ?
+Q2
+Q2 ,
+Q1
+l,
+Q2 = 1 mC,
+Q1 = 50 mC
+CONCEPTUAL EXAMPLE 16;2
+P R O B L E M  S O L V I N G
+Use magnitudes in Coulomb’s law;
+find

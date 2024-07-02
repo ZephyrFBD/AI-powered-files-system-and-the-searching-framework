@@ -1,0 +1,14 @@
+other molecules
+that may initiate a cellular response or may act as additional second messengers. They have these characteristics:
+They are small, nonprotein molecules.
+ They are hydrophilic, hydrophobic, or gaseous molecules.
+ Examples include Ca2+, IP3 (inositol trisphosphate), cAMP
+ 
+(cyclic adenosine monophosphate), and DAG (diacylglycerol).
+Various other membrane-bound or cytoplasmic proteins are often additional components of a transduction pathway,
+carrying the signal response from the receptor protein to other target proteins that may initiate a cellular response.
+Although these proteins have specific names, they are generally referred to as relay proteins, response proteins,
+substrate proteins, or effector proteins.
+A signaling cascade is a series of enzymatic reactions. The first enzyme in the series activates a second enzyme, the
+second enzyme activates a third, and so forth. Because each enzyme can be used repeatedly, the products of each
+reaction magnify as the sequence pr

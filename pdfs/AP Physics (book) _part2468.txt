@@ -1,0 +1,25 @@
+l. Proposals have been made to use
+the radiation pressure from the Sun to help propel spacecraft around the solar
+system. (a) About how much force would be applied on a
+highly
+reflective sail when about the same distance from the Sun as the Earth is?
+(b) By how much would this increase the speed of a 5000-kg spacecraft in one year?
+(c) If the spacecraft started from rest, about how far would it travel in a year?
+APPROACH (a) Pressure P is force per unit area, so
+We use the estimate
+of Example 22–5, doubling it for a reflecting surface 
+(b) We find the
+acceleration from Newton’s second law, and assume it is constant, and then find
+the speed from
+(c) The distance traveled is given by
+SOLUTION (a) Doubling the result of Example 22–5, we get a solar pressure 
+that is about 
+rounding off. Then the force is 
+(b) The acceleration is 
+One
+year has
+The speed increase is
+(c) Starting from rest, this acceleration would result in a distance traveled of
+about 
+in a year, about seven
+times the Sun–E

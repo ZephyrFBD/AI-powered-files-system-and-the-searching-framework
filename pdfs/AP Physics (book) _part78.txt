@@ -1,0 +1,20 @@
+)
+because they are not significant. As a rough general rule we can say that 
+the final result of a multiplication or division should have no more digits than
+the numerical value with the fewest significant figures.
+In our example, 6.8 cm has the least number of significant figures, namely two. Thus
+the result 
+needs to be rounded off to 
+EXERCISE A The area of a rectangle 4.5 cm by 3.25 cm is correctly given by (a)
+(b) 
+(c) 
+(d)
+When adding or subtracting numbers, the final result should contain no more
+decimal places than the number with the fewest decimal places. For example, the
+result of subtracting 0.57 from 3.6 is 3.0 (not 3.03). Similarly
+not 44.2.
+Be careful not to confuse significant figures with the number of decimal places.
+EXERCISE B For each of the following numbers, state the number of significant
+figures and the number of decimal places: (a) 1.23; (b) 0.123; (c) 0.0123.
+Keep in mind when you use a calculator that all the digits it produces may
+not be significant. When yo

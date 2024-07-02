@@ -1,0 +1,19 @@
+ 
+and possess low melting points. The melting point depends on the 
+strength of the intermolecular forces, as well as the efficiency with 
+which the molecules can pack together.
+COVALENT-NETWORK SOLIDS (SECTION 12.7) Covalent-network 
+solids consist of atoms held together in large networks by cova-
+lent bonds. These solids are much harder and have higher melting 
+points than molecular solids. Important examples include dia-
+mond, where the carbons are tetrahedrally coordinated to each 
+other, and graphite, where the sp2-hybridized carbon atoms form 
+hexagonal layers. Semiconductors are solids that do conduct elec-
+tricity, but to a far lesser extent than metals. Insulators do not con-
+duct electricity at all.
+Elemental semiconductors, like Si and Ge, as well as compound 
+semiconductors, like GaAs, InP
+, and CdTe, are important examples of 
+covalent-network solids. In a semiconductor the filled bonding mo-
+lecular orbitals make up the valence band, while the empty antibond-
+ing molecula

@@ -1,0 +1,18 @@
+Factors
+It is often necessary to use several conversion factors in solving a problem. As an exam-
+ple, let’s convert the length of an 8.00-m rod to inches. The table on the back inside cover 
+does not give the relationship between meters and inches. It does, however, give the re-
+lationship between centimeters and inches 11 in. = 2.54 cm2. From our knowledge of SI 
+prefixes, we know that 1 cm = 10-2 m. Thus, we can convert step by step, first from me-
+ters to centimeters and then from centimeters to inches:
+Combining the given quantity (8.00 m) and the two conversion factors, we have
+Number of inches = 18.00 m2a 1 cm
+10-2 m
+b a
+1 in.
+2.54 cmb = 315 in.
+The first conversion factor is used to cancel meters and convert the length to centime-
+ters. Thus, meters are written in the denominator and centimeters in the numerator. 
+ 
+The second conversion factor is used to cancel centimeters and convert the length to inches, 
+so it has centimeters in the denominator and inches, the desired unit,

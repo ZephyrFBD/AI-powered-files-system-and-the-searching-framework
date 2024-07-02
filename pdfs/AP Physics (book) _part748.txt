@@ -1,0 +1,64 @@
+e system may be complicated, we may often be satisfied with
+knowing the motion of the center of mass. This result also allows us to solve
+certain types of problems very easily, as illustrated by the following Example.
+Macm = F
+net.
+Macm = F
+A + F
+B + F
+C ,
+F
+C
+F
+B,
+F
+A,
+mCaC = F
+C,
+mB aB = F
+B,
+mAaA = F
+A,
+Macm = mAaA + mB aB + mC aC.
+¢v = a ¢t.
+¢t,
+mAvA + mB vB + mC vC
+Mvcm = mAvA + mB vB + mC vC .
+¢t
+Mvcm ¢t = mAvA ¢t + mB vB ¢t + mCvC ¢t.
+¢x = v¢t,
+¢t
+vC ,
+vA, vB,
+M = mA + mB + mC
+Mxcm = mA xA + mB xB + mCxC ,
+xC .
+xA, xB,
+mC ,
+mA, mB ,
+NEWTON’S SECOND LAW
+(for a system)
+d
+I
+II
+II
+Path
+of I
+II
+d
+I
+I
+P
+at
+h
+of
+CM
+Path
+of
+II
+FIGURE 7;28 Example 7–14.
+A two-stage rocket. A rocket is shot into
+the air as shown in Fig. 7–28. At the moment the rocket reaches its highest point,
+a horizontal distance d from its starting point, a prearranged explosion separates
+it into two parts of equal mass. Part I is stopped in midair by the explosion, and
+it falls vertically to Earth. Where does part II 

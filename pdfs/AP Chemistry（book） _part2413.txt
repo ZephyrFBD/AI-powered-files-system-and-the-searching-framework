@@ -1,0 +1,42 @@
+h equilib-
+rium concentrations in blue for emphasis):
+ 
+H21g2  +   I21g2  ∆  2 HI1g2
+Initial concentration (M)
+1.000 * 10-3
+2.000 * 10-3
+0
+Change in concentration (M)
+-0.935 * 10-3
+-0.935 * 10-3
++1.87 * 10-3
+Equilibrium concentration (M)
+0.065 * 10-3
+1.065 * 10-3
+1.87 * 10-3
+Finally, we use the equilibrium-con-
+stant expression to calculate the equi-
+librium constant:
+Kc =
+3HI42
+3H243I24 =
+11.87 * 10-322
+10.065 * 10-3211.065 * 10-32
+= 51
+15.6 ∣  
+Applications of Equilibrium 
+Constants
+We have seen that the magnitude of K indicates the extent to which a reaction proceeds.
+t If K is very large, the equilibrium mixture contains mostly substances on the product 
+side of the equation for the reaction.
+ 
+Notice that the entries for the 
+changes are negative when a reactant 
+is consumed and positive when a 
+product is formed. 
+ 
+SECTION 15.6   
+Applications of Equilibrium Constants 
+641
+t If K is very small (that is, much less than 1), the equilibrium mixture contains mostly 
+substances on 

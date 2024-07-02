@@ -1,0 +1,19 @@
+ H2(g)
+2 NH3(g)
+Spontaneous
+▲ Figure 19.15 Free energy and approaching equilibrium. In the reaction N21g2 + 3 H21g2 ∆2 NH31g2,  
+if the reaction mixture has too much N2 and H2 relative to NH3 (left), Q 6 K and NH3 forms  
+spontaneously. If there is more NH3 in the mixture relative to the reactants N2 and H2 (right),  
+Q 7 K and the NH3 decomposes spontaneously into N2 and H2.
+Calculate the standard free-energy change for the formation of NO(g) from N21g2 and O21g2 at 298 K:
+N21g2 + O21g2 ¡ 2 NO1g2
+given that ∆H ° = 180.7 kJ and ∆S° = 24.7 J>K. Is the reaction spontaneous under these conditions?
+Sample Exercise 19.6 
+Calculating Free-Energy Change from ∆H °, T, and ∆S °
+SOLUTION
+Analyze We are asked to calculate ∆G° for the indicated reaction 
+(given ∆H °, ∆S°, and T ) and to predict whether the reaction is 
+spontaneous under standard conditions at 298 K.
+Plan To calculate ∆G°, we use Equation 19.12, ∆G° = ∆H ° - T∆S°. 
+To determine whether the reaction is spontaneous under standard 
+co

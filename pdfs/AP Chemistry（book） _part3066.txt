@@ -1,0 +1,18 @@
+ calculate ∆H ° for the combustion of propane gas at 298 K:
+C3H81g2 + 5 O21g2 ¡ 3 CO21g2 + 4 H2O1l2 ∆H° = -2220 kJ
+(a) Without using data from Appendix C, predict whether ∆G° for this reaction is more negative or less negative than ∆H°.  
+(b) Use data from Appendix C to calculate ∆G° for the reaction at 298 K. Is your prediction from part (a) correct?
+Sample Exercise 19.8 
+Predicting and Calculating ∆G °
+SOLUTION
+Analyze In part (a) we must predict the value for ∆G° relative to 
+that for ∆H° on the basis of the balanced equation for the reac-
+tion. In part (b) we must calculate the value for ∆G° and compare 
+this value with our qualitative prediction.
+Plan The free-energy change incorporates both the change  
+in enthalpy and the change in entropy for the reaction  
+(Equation 19.11), so under standard conditions
+∆G° = ∆H° - T∆S°
+To determine whether ∆G° is more negative or less negative than 
+∆H°, we need to determine the sign of the term T∆S°. Because T is 
+the absolute temperature, 29

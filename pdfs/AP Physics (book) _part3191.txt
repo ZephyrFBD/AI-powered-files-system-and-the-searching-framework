@@ -1,0 +1,22 @@
+he film to record both the intensity and relative phase of the light
+at each point. It is crucial that the incident light be coherent—that is, in phase at
+all points—which is why a laser is used. After the film is developed, it is placed
+again in a laser beam and a three-dimensional image of the object is created. You
+can walk around such an image and see it from different sides as if it were the
+original object. Yet, if you try to touch it with your hand, there will be nothing
+material there.
+*
+(0.3 mm)
+(0.7 mm)
+FIGURE 28–23 An athlete (race-car
+driver) puts his hand on, or through,
+a holographic image of himself.
+824
+CHAPTER 28
+Quantum Mechanics of Atoms
+In 1925, Schrödinger and Heisenberg separately worked out a
+new theory, quantum mechanics, which is now considered to
+be the fundamental theory at the atomic level. It is a statistical
+theory rather than a deterministic one.
+An important aspect of quantum mechanics is the Heisen-
+berg uncertainty principle. It results from the wave–p

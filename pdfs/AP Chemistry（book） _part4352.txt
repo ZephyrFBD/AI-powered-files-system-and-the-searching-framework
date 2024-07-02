@@ -1,0 +1,23 @@
+ection 20.4)
+standard enthalpy change 1횫H °2 The change in enthalpy in a 
+process when all reactants and products are in their stable forms 
+at 1 atm pressure and a specified temperature, commonly 25 °C. 
+(Section 5.7)
+standard enthalpy of formation 1횫H f°2 The change in enthalpy 
+that accompanies the formation of one mole of a substance 
+from its elements, with all substances in their standard states. 
+(Section 5.7)
+standard free energy of formation 1횫G f°2 The change in free 
+energy associated with the formation of a substance from its 
+elements under standard conditions. (Section 19.5)
+standard hydrogen electrode (SHE) An electrode based on 
+the half-reaction 2 H+11 M2 + 2 e- ¡ H211 atm2. The standard 
+ 
+GLOSSARY 
+G-17
+electrode potential of the standard hydrogen electrode is 
+defined as 0 V. (Section 20.4)
+standard molar entropy 1S°2 The entropy value for a mole of a 
+substance in its standard state. (Section 19.4)
+standard reduction potential 1E °
+red2 The potential of a reduction

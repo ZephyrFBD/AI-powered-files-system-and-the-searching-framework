@@ -1,0 +1,20 @@
+u consume, your weight, or the number of 
+calories burned through exercise?
+ 
+SECTION 5.3   
+Enthalpy 
+173
+by or on the system. Most commonly, the only kind of work produced by chemical or phys-
+ical changes open to the atmosphere is the mechanical work associated with a change in 
+volume. For example, when the reaction of zinc metal with hydrochloric acid solution
+ 
+Zn1s2 + 2 H+1aq2 S Zn2 +1aq2 + H21g2 
+[5.6]
+is run at constant pressure in the apparatus illustrated in Figure 5.11, the piston moves up 
+or down to maintain a constant pressure in the vessel. If we assume for simplicity that 
+the piston has no mass, the pressure in the apparatus is the same as atmospheric pres-
+sure. As the reaction proceeds, H2 gas forms, and the piston rises. The gas within the flask 
+is thus doing work on the surroundings by lifting the piston against the force of atmo-
+spheric pressure.
+The work involved in the expansion or compression of gases is called pressure–
+volume work (P–V work). When pressure

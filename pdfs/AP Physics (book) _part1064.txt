@@ -1,0 +1,42 @@
+ volume of the
+room divided by the 15-min replenishing time.
+SOLUTION Consider the room as a large section of the duct, Fig. 10–21, and
+think of air equal to the volume of the room as passing by point 2 in
+Reasoning in the same way we did to obtain Eq. 10–4a
+(changing 
+to ), we write 
+so 
+where 
+is the volume of the room. Then the equation of continuity becomes
+and
+NOTE If the duct is square, then each side has length
+or
+33 cm. A rectangular duct
+will also do.
+20 cm * 55 cm
+l = 1A = 0.33 m,
+A1 =
+V
+2
+v1t
+=
+300 m3
+(3.0 ms)(900 s) = 0.11 m2.
+A1 v1 = A2 v2 = V
+2t
+V
+2
+A2 v2 = A2 l2t = V
+2t,
+v2 = l2t
+t
+¢t
+t = 15 min = 900 s.
+300 m3?
+3.0 ms
+EXAMPLE 10;13
+10–9 Bernoulli’s Equation
+Have you ever wondered why an airplane can fly, or how a sailboat can move
+against the wind? These are examples of a principle worked out by Daniel
+Bernoulli (1700–1782) concerning fluids in motion. In essence, Bernoulli’s principle
+states that where the velocity of a fluid is high, the pressure is low, and whe

@@ -1,0 +1,31 @@
+.3   
+Alkenes, Alkynes, and Aromatic Hydrocarbons 
+1043
+1044 
+CHAPTER 24 The Chemistry of Life: Organic and Biological Chemistry
+Addition Reactions of Alkenes and Alkynes
+The presence of carbon–carbon double or triple bonds in hydrocarbons markedly 
+increases their chemical reactivity. The most characteristic reactions of alkenes and 
+alkynes are addition reactions, in which a reactant is added to the two atoms that 
+form the multiple bond. A simple example is the addition of elemental bromine to eth-
+ylene to produce 1,2-dibromoethane:
+ 
+H2C
+CH2        Br2
+Br
+H2C
+Br
+CH2
++
+ 
+[24.1]
+The p bond in ethylene is broken, and the electrons that formed the bond are used to form 
+two s bonds to the two bromine atoms. The s bond between the carbon atoms is retained.
+Addition of H2 to an alkene converts it to an alkane:
+ 
+CH3CH“CHCH3 + H2
+¡
+Ni, 500 °C  CH3CH2CH2CH3 
+[24.2]
+The reaction between an alkene and H2, referred to as hydrogenation, does not occur readily 
+at ordinary temperatures and pre

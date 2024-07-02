@@ -1,0 +1,64 @@
+ we take 
+and W as
+always positive. The direction of each energy transfer is shown by the arrow on
+the applicable diagram, such as Fig. 15–11.
+Steam Engine and Internal Combustion Engine
+The operation of a steam engine is shown in Fig.15–12. Steam engines are of two main
+types, each using steam heated by combustion of coal, oil, or gas, or by nuclear energy.
+QL ,
+QH,
+T
+L,
+T
+H
+QH = W + QL .
+T
+L
+QL
+T
+H
+QH
+¢U = 0
+420
+CHAPTER 15
+SECOND LAW OF THERMODYNAMICS
+(Clausius statement)
+C A U T I O N
+Sign convention for heat engines:
+W 7 0
+QL 7 0,
+QH 7 0,
+P H Y S I C S  A P P L I E D
+Engines
+Intake valve
+(open during
+expansion)
+Boiler
+Water
+Heat input
+Pump
+(a) Reciprocating type
+High temperature TH
+Low temperature TL
+High-pressure steam,
+from boiler at TH
+Low-pressure steam,
+exhausted to condenser at TL
+(b) Turbine (boiler and condenser not shown)
+Exhaust valve
+(closed during
+expansion)
+Steam
+Condenser
+Piston
+Water
+FIGURE 15–12
+Steam engines.
+High
+temperature, TH
+Low
+temperature, TL
+Engine
+QH
+QL
+W

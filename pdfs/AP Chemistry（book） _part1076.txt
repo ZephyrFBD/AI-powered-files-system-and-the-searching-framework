@@ -1,0 +1,12 @@
+d balls. This ricocheting happens because the elec-
+tron clouds of the colliding atoms cannot penetrate each other to any significant extent. The 
+shortest distance separating the two nuclei during such collisions is twice the radii of the 
+atoms. We call this radius the nonbonding atomic radius or the van der Waals radius (Figure 7.6).
+In molecules, the attractive interaction between any two adjacent atoms is what we 
+recognize as a chemical bond. We discuss bonding in Chapters 8 and 9. For now, we need 
+to realize that two bonded atoms are closer together than they would be in a nonbonding 
+collision where the atoms ricochet apart. We can therefore define an atomic radius based 
+on the distance between the nuclei when two atoms are bonded to each other, shown as 
+distance d in Figure 7.6. The bonding atomic radius for any atom in a molecule is equal 
+to half of the bond distance d. Note from Figure 7.6 that the bonding atomic radius (also 
+known as the covalent radius) is smaller tha

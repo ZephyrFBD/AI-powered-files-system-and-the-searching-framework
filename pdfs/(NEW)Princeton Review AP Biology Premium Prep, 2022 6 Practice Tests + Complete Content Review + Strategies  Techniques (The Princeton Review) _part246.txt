@@ -1,0 +1,15 @@
+g of ions and diffusion of
+ions to create ATP is chemiosmosis.
+Brown fat, which is found in newborns and hibernating mammals, can also use
+the hydrogen gradient generated from the electron transport chain to generate
+heat. This occurs when they decouple the chemiosmosis from oxidative
+phosphorylation.
+These hydrogen ions can diffuse across the inner membrane only by passing through channels called ATP synthase.
+Meanwhile, ADP and Pi are on the other side of these protein channels. The flow of protons through these channels
+produces ATP by combining ADP and Pi on the matrix side of the channel. Overall, this process is called oxidative
+phosphorylation because when electrons are given up it is called “oxidation” and then ADP is “phosphorylated” to
+make ATP.
+You’re also expected to know the following two things for the AP Biology Exam:
+Every NADH from glycolysis yields 1.5 ATP and all other NADH molecules yield 2.5 ATP.
+Every FADH2 yields 1.5 ATP.
+You will also want to make sure you remem

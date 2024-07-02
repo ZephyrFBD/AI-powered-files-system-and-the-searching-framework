@@ -1,0 +1,32 @@
+ the
+Sun given the Earth’s distance from the Sun as  
+APPROACH Equation 5–7a relates the mass of the Sun 
+to the period and
+distance of any planet. We use the Earth.
+SOLUTION The Earth’s period is 
+We solve Eq. 5–7a for 
+MS = 4p2rES
+3
+GTE
+2
+=
+4p2 A1.5 * 1011 mB
+3
+A6.67 * 10–11 Nm2kg2BA3.16 * 107 sB2
+= 2.0 * 1030 kg.
+MS:
+3.16 * 107 s.
+T
+E = 1 yr = A365 1
+4 dBA24 hdBA3600 shB =
+MS
+rES = 1.5 * 1011 m.
+EXAMPLE 5;14
+Accurate measurements on the orbits of the planets indicated that they did
+not precisely follow Kepler’s laws. For example, slight deviations from perfectly
+elliptical orbits were observed. Newton was aware that this was to be expected
+because any planet would be attracted gravitationally not only by the Sun but also
+(to a much lesser extent) by the other planets. Such deviations, or perturbations,
+in the orbit of Saturn were a hint that helped Newton formulate the law of 
+universal gravitation, that all objects attract each other gravitationally. Observa-
+tion of other pert

@@ -1,0 +1,20 @@
+ion of electron migration, the direction of ion migration, and the signs of the electrodes.
+Sample Exercise 20.4 
+Describing a Voltaic Cell
+SOLUTION
+Analyze We are given the equation for a spontaneous reaction that 
+takes place in a voltaic cell and a description of how the cell is con-
+structed. We are asked to write the half-reactions occurring at the 
+anode and at the cathode, as well as the directions of electron and 
+ion movements and the signs assigned to the electrodes.
+Plan Our first step is to divide the chemical equation into half- 
+reactions so that we can identify the oxidation and the reduction 
+processes. We then use the definitions of anode and cathode and 
+the other terminologies summarized in Figure 20.6.
+Solve In one half-reaction, Cr2O7
+2- 1aq2 is converted into Cr3+1aq2. 
+Starting with these ions and then completing and balancing the 
+half-reaction, we have
+Cr2O7
+2-1aq2 + 14 H+1aq2 + 6 e- ¡ 2 Cr3+1aq2 + 7 H2O1l2
+In the other half-reaction, I-1aq2 is converted to I21

@@ -1,0 +1,37 @@
+ 60 mA.
+NOTE With the smaller current in part (b), the bulb filament’s temperature would
+be lower and the bulb less bright. Also, resistance does depend on temperature
+(Section 18–4), so our calculation is only a rough approximation.
+EXERCISE C What is the resistance of a lightbulb if 0.50 A flows through it when 120 V
+is connected across it?
+All electric devices, from heaters to lightbulbs to stereo amplifiers, offer
+resistance to the flow of current. The filaments of lightbulbs (Fig.18–5) and electric
+heaters are special types of wires whose resistance results in their becoming very 
+hot. Generally, the connecting wires have very low resistance in comparison to the 
+resistance of the wire filaments or coils, so the connecting wires usually have a 
+minimal effect on the magnitude of the current.†
+I = V
+R
+= 1.2 V
+5.0  = 0.24 A = 240 mA,
+R = V
+I
+=
+1.5 V
+0.30 A = 5.0 .
+EXAMPLE 18;3
+1.0 VA.
+1.0 
+R = VI,
+
+L
+V = IR,
+V = IR.
+506
+CHAPTER 18
+Electric Currents
+OHM’S “LAW”
+1.5 V
+on
+off
+FIG

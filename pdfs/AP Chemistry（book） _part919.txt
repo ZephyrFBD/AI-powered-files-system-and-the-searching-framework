@@ -1,0 +1,40 @@
+(iii) A neutron 
+ 
+moving at a speed of 2.3 * 102 m>s. List the three objects in 
+order from shortest to longest de Broglie wavelength.  
+(a) i 6 iii 6 ii (b) ii 6 iii 6 i (c) iii 6 ii 6 i (d) i 6 ii 6 iii  
+(e) iii 6 i 6 ii
+ 
+▶Practice Exercise 2
+Calculate the velocity of a neutron whose de Broglie wave-
+length is 505 pm. The mass of a  
+neutron is given in the table 
+inside the back cover of the text.
+Solve 
+Using the value of the Planck constant:
+h = 6.626 * 10 - 34 J@s
+we have the following:
+ 
+l =
+h
+mv
+ 
+ =
+16.626 * 10 - 34 J@s2
+19.11 * 10 - 31 kg215.97 * 106 m>s2
+a
+1 kg@m2>s2
+1 J
+b 
+ = 1.22 * 10 - 10 m = 0.122 nm = 1.22 A
+°
+ 
+▲ Figure 6.14 Electrons as waves. 
+Transmission electron micrograph 
+of graphene, which has a hexagonal 
+honeycomb arrangement of carbon atoms. 
+Each of the bright yellow “mountains” 
+indicates a carbon atom.
+A baseball pitcher throws a fastball that moves at 95 miles per hour. Does that 
+moving baseball generate matter waves? If so, can we observe them?
+Give

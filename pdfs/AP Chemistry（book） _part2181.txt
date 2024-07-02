@@ -1,0 +1,35 @@
+he beginning of the reaction 1t1 = 0 s to t2 = 20 s2 is
+ 
+Average rate = 0.46 M - 0.00 M
+20 s - 0 s
+= 2.3 * 10-2 M>s 
+Go Figure
+Estimate the number of moles of A in the mixture after 30 s.
+40 s
+20 s
+0 s
+0.54 mol A
+0.46 mol B
+1.00 mol A
+0 mol B
+0.30 mol A
+0.70 mol B
+▲ Figure 14.2 Progress of a hypothetical reaction A ¡ B. The volume of the flask is 1.0 L.
+572 
+CHAPTER 14 Chemical Kinetics
+We could equally well express the reaction rate in terms of the reactant, A. In this 
+case, we would be describing the rate of disappearance of A, which we express as
+ 
+Average rate of disappearance of A = - 
+change in concentration of A
+change in time
+= - 
+∆3A4
+∆t  
+[14.2]
+Notice the minus sign in this equation, which we use to indicate that the concentra-
+tion of A decreases.
+By convention, rates are always expressed as positive quantities.
+Because [A] decreases, ∆3A4 is a negative number. The minus sign we put in the equation 
+converts the negative ∆3A4 to a positive rate of disappearance.
+Because o

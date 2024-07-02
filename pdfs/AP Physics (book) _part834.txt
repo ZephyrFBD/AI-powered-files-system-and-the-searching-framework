@@ -1,0 +1,90 @@
+1
+MR2
+2
+1
+MR2
+5
+2
+Ml2
+12
+1
+Ml2
+3
+1
+R
+R
+Axis
+Axis
+Axis
+Axis
+l
+Axis
+R
+R
+w
++
+M(R2
+2
+1
++
+1
+2
+R2)
+M(l2
+12
+1
++ w2)
+w
+Axis
+R2
+R1
+l
+l
+FIGURE 8;20 Moments of
+inertia for various objects 
+of uniform composition,
+each with mass M.
+SECTION 8–6
+211
+directions of rotation (counterclockwise and clock-
+wise), and assign the correct sign to each torque.
+5. Apply Newton’s second law for rotation,
+If the moment of inertia is not given, and it is not
+the unknown sought, you need to determine it first.
+Use consistent units, which in SI are:
+in 
+in 
+and I in
+6. Also apply Newton’s second law for translation,
+and other laws or principles as needed.
+7. Solve the resulting equation(s) for the unknown(s).
+8. Do a rough estimate to determine if your answer is
+reasonable.
+©F
+B = ma
+B,
+kgm2.
+mN;
+t
+rads2;
+a
+©t = Ia.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Rotational Motion
+1. As always, draw a clear and complete diagram.
+2. Choose the object or objects that will be the system
+to be studied.
+3. Draw a free-body diagram for t

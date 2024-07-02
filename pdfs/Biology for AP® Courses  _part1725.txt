@@ -1,0 +1,20 @@
+yeast cells. UV-c can be used to mutate a
+strain of yeast in which the synthesis of adenine is
+blocked. This mutation is observable because the ade-2
+mutant has a red color when cultured on nutrient-
+containing plates. Exposure to uv-c also can result in
+additional mutations. In particular, one mutant, ade-7,
+changes the color of the ade-2 mutant to white.
+A. You have a uv-c lamp, culture plates, and growth
+chambers at 23 °C and 37 °C. You also have available
+known haploid strains that are (ade-2,+,+), where +
+denotes the wild type. Design a plan to determine the rate
+of uv-c-induced mutations in nutrient-containing plates
+inoculated with yeast.
+Earth's ozone layer removes high-energy ultraviolet
+radiation, uv-c, from the solar radiation received at the
+surface. Lower-energy ultraviolet radiation, uv-b, strikes
+Earth’s surface. Damage to DNA induced by ultraviolet
+radiation occurs with the formation of bonds between an
+adjacent pair of pyrimidine nucleotides, thymine and
+cytosine, on t

@@ -1,0 +1,13 @@
+t cannot function. The substrate can still bind
+at the active site, but the enzyme will not be able to catalyze the reaction.
+Not all molecules that bind to the allosteric site of an enzyme are inhibitors.
+Some enzymes are activated by allosteric regulators.
+REACTION COUPLING AND ATP
+As we just saw, almost everything an organism does requires energy. How, then, can the cell acquire the energy it
+needs without becoming a major mess? Fortunately, it’s through adenosine triphosphate (ATP).
+ATP, as the name indicates, consists of a molecule of adenosine bonded to three phosphates. The great thing about
+ATP is that an enormous amount of energy is packed into those phosphate bonds.
+The body can perform difficult endergonic reactions by coupling them to ATP
+hydrolysis, which is very exergonic.
+When a cell needs energy, it takes one of these potential-packed molecules of ATP and splits off the third phosphate,
+forming adenosine diphosphate (ADP) and one loose phosphate (Pi ), while releasing e

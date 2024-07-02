@@ -1,0 +1,34 @@
+a parallel beam, each having kinetic
+energy 0.025 eV, are directed through two slits 0.40 mm
+apart. How far apart will the interference peaks be on a
+screen 1.0 m away? [Hint: First find the wavelength of the
+neutron.]
+2. (II) Pellets of mass 2.0 g are fired in parallel paths with
+speeds of 
+through a hole 3.0 mm in diameter.
+How far from the hole must you be to detect a 1.0-cm-
+diameter spread in the beam of pellets?
+28–3 Uncertainty Principle
+3. (I) 
+A
+proton 
+is 
+traveling 
+with 
+a 
+speed 
+of
+With what maximum precision
+can its position be ascertained? [Hint:
+]
+4. (I) If an electron’s position can be measured to a precision
+of 
+how precisely can its speed be known?
+5. (I) An electron remains in an excited state of an atom for
+typically 
+What is the minimum uncertainty in the
+energy of the state (in eV)?
+6. (II) The 
+boson, discovered in 1985, is the mediator of
+the weak nuclear force, and it typically decays very quickly.
+Its average rest energy is 91.19 GeV, but its short lifetime

@@ -1,0 +1,33 @@
+works (Section 20.7) Related Exercises: 20.79, 20.80
+t Describe the construction of a fuel cell and explain how it gen-
+erates electrical energy. (Section 20.7) 
+Related Exercises: 20.81, 20.82
+t Explain how corrosion occurs and how it is prevented by ca-
+thodic protection. (Section 20.8) Related Exercises: 20.83, 20.84
+t Describe the reactions in electrolytic cells. (Section 20.9) 
+Related Exercises: 20.89, 20.90
+t Relate amounts of products and reactants in redox reactions to 
+electrical charge. (Section 20.9) Related Exercises: 20.93, 20.94
+Key Equations
+t E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2 
+[20.8]  
+ 
+Relating standard emf to standard reduction potentials of the re-
+duction (cathode) and oxidation (anode) half-reactions
+t ∆G = -nFE 
+[20.11]  
+Relating free-energy change and emf
+t E = E° - 0.0592 V
+n
+ log Q 1at 298 K2 
+[20.18]  
+ 
+The Nernst equation, expressing the effect of concentration on 
+cell potential
+Exercises
+Visualizing Concepts
+ 
+20.1  In the Brønsted–Lowr

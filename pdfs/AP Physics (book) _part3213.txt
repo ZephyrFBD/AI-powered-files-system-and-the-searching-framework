@@ -1,0 +1,25 @@
+this innermost electron?
+52. Protons are accelerated from rest across 480 V. They are
+then directed at two slits 0.70 mm apart. How far apart will
+the interference peaks be on a screen 28 m away?
+53. How many electrons can there be in an “h” subshell?
+54. (a) Show that the number of different states possible for a
+given value of 
+is equal to 
+(b) What is this
+number for
+1, 2, 3, 4, 5, and 6?
+55. Show that the number of different electron states possible
+for a given value of n is 
+(See Problem 54.)
+56. A beam of electrons with kinetic energy 45 keV is shot
+through two narrow slits in a barrier. The slits are a dis-
+tance 
+apart. If a screen is placed 45.0 cm behind
+the barrier, calculate the spacing between the “bright”
+fringes of the interference pattern produced on the screen.
+57. The angular momentum in the hydrogen atom is given
+both by the Bohr model and by quantum mechanics.
+Compare the results for 
+58. The lifetime of a typical excited state in an atom is about
+10 ns. Suppose an 

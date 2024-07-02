@@ -1,0 +1,33 @@
+e two charges shown in Fig. 16–68, at what posi-
+tion(s) x is the electric field zero?
+E = 9.45 * 103 NC.
+v0 = 5.32 * 106 ms
+−Q/2
++Q
+x
+d
+P
+FIGURE 16–68
+Problem 63.
+67. A mole of carbon contains 
+electrons. Two
+electrically neutral carbon spheres, each containing 1 mole
+of carbon, are separated by 15.0 cm (center to center).
+What fraction of electrons would have to be transferred
+from one sphere to the other for the electric force and the
+gravitational force between the spheres to be equal?
+7.22 * 1024
+4. What experimental observations mentioned in the text rule
+out the possibility that the numerator in Coulomb’s law
+contains the sum 
+rather than the product 
+5. Near the surface of the Earth, there is a downward electric
+field of 
+and a downward gravitational field of
+A charged 1.0-kg mass is observed to fall with
+acceleration 
+What are the magnitude and sign of
+its charge?
+6. Identical negative charges 
+are located at two of
+the three vertices of an equilateral triangle. The length o

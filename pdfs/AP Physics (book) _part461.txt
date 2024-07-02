@@ -1,0 +1,30 @@
+
+¢v
+B,
+2
+1
+v
+B
+v
+B
+FIGURE 5;1 A small object 
+moving in a circle, showing how 
+the velocity changes. At each point,
+the instantaneous velocity is in a 
+direction tangent to the circular 
+path.
+acceleration is
+[radial (centripetal) acceleration]
+(5;1)
+[Equation 5–1 is valid at any instant in circular motion, and even when v is not
+constant.]
+To summarize, an object moving in a circle of radius r at constant speed v has
+an acceleration whose direction is toward the center of the circle and whose magni-
+tude is 
+It is not surprising that this acceleration depends on v and r.
+The greater the speed v, the faster the velocity changes direction; and the larger the
+radius, the less rapidly the velocity changes direction.
+The acceleration vector points toward the center of the circle when v is con-
+stant. But the velocity vector always points in the direction of motion, which is
+tangential to the circle. Thus the velocity and acceleration vectors are perpen-
+dicular to each other at every point

@@ -1,0 +1,16 @@
+r the part of the rotating wheel labeled c in Fig. 21–20b, where the magnetic
+field is zero but is just about to enter a region where 
+points into the page. To oppose
+this inward increase in magnetic field, the induced current is counterclockwise 
+to produce a field pointing out of the page (right-hand-rule-1). Similarly, region d is
+about to move to e, where 
+is zero; hence the current is clockwise to produce an
+inward field opposed to this decreasing flux inward. These currents are referred
+to as eddy currents. They can be present in any conductor that is moving across
+a magnetic field or through which the magnetic flux is changing.
+In Fig. 21–20b, the magnetic field exerts a force 
+on the induced currents it
+has created, and that force opposes the rotational motion. Eddy currents can be
+used in this way as a smooth braking device on, say, a rapid-transit car. In order
+to stop the car, an electromagnet can be turned on that applies its field either to
+the wheels or to the moving stee

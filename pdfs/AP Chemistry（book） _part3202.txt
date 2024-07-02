@@ -1,0 +1,22 @@
+ons are negative; the negative values merely indicate 
+how these reductions compare to the reference reaction, the 
+reduction of H+1aq2.
+Continued
+866 
+CHAPTER 20 Electrochemistry
+Strengths of Oxidizing and Reducing agents
+Table 20.1 lists half-reactions in the order of decreasing tendency to undergo reduction. 
+For example, F2 is located at the top of the table, having the most positive value for E °
+red. 
+Thus, F2 is the most easily reduced species in Table 20.1 and therefore the strongest oxi-
+dizing agent listed.
+Among the most frequently used oxidizing agents are the halogens, O2, and oxyan-
+ions such as MnO4
+-, Cr2O7
+2-, and NO3
+-, whose central atoms have high positive oxida-
+tion states. As seen in Table 20.1, all these species have large positive values of E°
+red and 
+therefore easily undergo reduction.
+The lower the tendency for a half-reaction to occur in one direction, the greater the 
+tendency for it to occur in the opposite direction. Thus, the half-reaction with the most

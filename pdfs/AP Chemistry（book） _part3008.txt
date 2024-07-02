@@ -1,0 +1,21 @@
+ entropy changes are related to heat transfer and 
+temperature. Our analysis will bring us to a profound statement about entropy changes 
+and spontaneity known as the second law of thermodynamics.
+The Relationship between Entropy and heat
+The entropy, S, of a system is a state function just like internal energy, E, and enthalpy, 
+H. As with these other quantities, the value of S is a characteristic of the state of a system. 
+ (Section 5.2) Thus, the change in entropy, ∆S, in a system depends only on the ini-
+tial and final states of the system and not on the path taken from one state to the other:
+ 
+∆S = Sfinal - Sinitial 
+[19.1]
+For the special case of an isothermal process, ∆S is equal to the heat that would be 
+transferred if the process were reversible, qrev, divided by the absolute temperature at 
+which the process occurs:
+ 
+∆S =
+qrev
+T   1constant T2 
+[19.2]
+Although many possible paths can take the system from one state to another, only one path is 
+associated with a reversible 

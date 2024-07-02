@@ -1,0 +1,49 @@
+ts critical
+temperature; the point c (the one point where curve C is horizontal) is called the
+critical point. At temperatures less than the critical temperature, a gas will change
+to the liquid phase if sufficient pressure is applied. Above the critical tempera-
+ture (and this is the definition of the term), no amount of pressure can cause a gas
+to change phase and become a liquid. (Thus curves A and B represent the sub-
+stance at temperatures where it can only be a gas.) The critical temperatures for
+various gases are given in Table 13–2. Scientists tried for many years to liquefy
+oxygen without success, which led to the idea that there must be a critical point.
+Oxygen can be liquefied only if first cooled below its critical temperature of –118°C.
+B¿
+PV = constant.
+A¿
+T
+D.
+T
+C ,
+T
+B ,
+T
+A,
+PV = NkT
+TABLE 13–2 Critical
+T
+emperatures and Pressures
+Critical
+Temperature
+Critical 
+Pressure
+Substance
+°C
+K
+(atm)
+Water
+374
+647
+218
+31
+304
+72.8
+Oxygen
+118
+155
+50
+Nitrogen
+147
+126
+33.5
+Hydrogen

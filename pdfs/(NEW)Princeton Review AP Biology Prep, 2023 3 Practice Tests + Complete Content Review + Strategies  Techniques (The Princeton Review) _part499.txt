@@ -1,0 +1,11 @@
+ce of Protein X and Protein Y on the gene expression of Enzyme A
+and Enzyme B. Include at which point in gene expression the regulation likely occurs. (2pts total)
+i. Expression of Enzyme A appears to be stimulated by Protein X and is unaffected by Protein Y. The mRNA,
+protein, and enzyme activity increased with Protein X, so the regulation must be pre-transcriptional.
+ii. The expression of Enzyme B appears to be inhibited by Protein X (mRNA, protein, and enzyme activity
+reduced), so this seems like pre-transcriptional inhibition. The expression of Enzyme B appears to be
+stimulated by Protein Y. The mRNA and Protein Levels are the same, but the Enzyme Level is increased.
+This implies post-translational activation.
+d. Another scientist repeats the experiment with Protein Y and Enzyme C, and adds a known inhibitor to Protein Y
+to the tube. Predict the effect on mRNA, protein, and total enzyme levels as a result. (2pts total)
+i. The mRNA and protein levels would be unchanged. The Total En

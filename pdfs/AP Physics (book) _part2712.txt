@@ -1,0 +1,51 @@
+ lying there, to be
+seen more readily.
+Polarizing angle. (a) At what incident angle is sunlight
+reflected from a lake perfectly plane-polarized? (b) What is the refraction angle?
+APPROACH The polarizing angle at the surface is Brewster’s angle, Eq. 24–6b.
+We find the angle of refraction from Snell’s law.
+SOLUTION (a) We use Eq.24–6b with
+so 
+giving
+(b) From Snell’s law,
+giving 
+NOTE
+as expected.
+up + ur = 53.1° + 36.9° = 90.0°,
+ur = 36.9°.
+sin ur = sin upn = sin 53.1°1.33 = 0.601
+up = 53.1°.
+tan up = 1.33
+n = 1.33,
+EXAMPLE 24;15
+by substituting Eq. 24–6a,
+into Snell’s law,
+which gives
+which can only hold if
+(see Trigonometric identities inside back cover or Appendix page A-8).
+up = 90° - ur
+cos up = sin ur
+n1 sin up = n2 sin ur ,
+n2 = n1 tan up = n1 sin upcos up,
+Unpolarized
+light source
+Glass
+Vertical
+scratches
+on glass
+Vertically
+polarized
+light entering
+liquid crystal
+Vertical
+polarizer
+Horizontal
+scratches
+Horizontal
+polarizer
+Horizontal
+polarizer
+Screen
+or
+mirror
+(a) Voltage of

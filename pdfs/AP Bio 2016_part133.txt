@@ -1,0 +1,54 @@
+ 
+ 
+0 
+1 
+7 
+11 
+Turtle 
+ 
+ 
+0 
+7 
+11 
+Frog 
+ 
+ 
+ 
+0 
+13 
+Zebra fish 
+ 
+ 
+ 
+ 
+ 
+0 
+ 
+  Neuromodulin is an essential protein that is highly conserved among vertebrates. Researchers 
+compared the first 60 amino acids of the neuromodulin protein from each of five different species. The 
+results are shown in the table above. 
+  Based on the data in the table, construct a cladogram on the template provided to represent the 
+evolutionary relatedness of the five species. Using the data, justify the placement of the zebra fish on 
+the cladogram. On the cladogram, circle the position of the most recent common ancestor of the two 
+most closely related species. (3 points) 
+Construction/Circle (2 points)
+ 
+zebrafish 
+ 
+frog 
+ 
+finch 
+ 
+turtle 
+ 
+gecko 
+Correct placement of organisms on the tree: zebrafish, frog, finch, turtle, gecko (from top to 
+bottom; turtle and gecko can be reversed)  
+Circle the node that appears furthest to the right  
+ 
+ 
+• 
+• 
+Justification (1 point) 
+• 
+The zebrafish has 

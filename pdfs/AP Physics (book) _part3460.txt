@@ -1,0 +1,21 @@
+ld’s needs for
+energy is not only technological, but also economic and political. A major factor
+surely is to “conserve”—to minimize our energy use. “Reduce, reuse, recycle.”
+Uranium fuel amount. Estimate the minimum amount of
+that needs to undergo fission in order to run a 1000-MW power reactor per
+year of continuous operation. Assume an efficiency (Chapter 15) of about 33%.
+APPROACH At 33% efficiency, we need 
+input.
+Each fission releases about 200 MeV (Eq. 31–5), so we divide the energy for 
+a year by 200 MeV to get the number of fissions needed per year. Then we 
+multiply by the mass of one uranium atom.
+SOLUTION For 1000 MW output, the total power generation needs to be
+3000 MW, of which 2000 MW is dumped as “waste” heat. Thus the total energy
+release in 
+from fission needs to be about
+If each fission releases 200 MeV of energy, the number of fissions required for a
+year is
+The mass of a single uranium atom is about 
+so the total uranium mass needed is
+or about a ton of 
+NOTE Beca

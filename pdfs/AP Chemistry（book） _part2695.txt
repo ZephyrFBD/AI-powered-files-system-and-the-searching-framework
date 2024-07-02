@@ -1,0 +1,22 @@
+ut quantities (which means 
+you will need to use the quadratic equation). The Ka of CH3COOH is 1.80 * 10-5.
+Analyze We are asked to calculate the pH of a buffer two different 
+ways. We know the initial concentrations of the weak acid and its 
+conjugate base, and the Ka of the weak acid.
+Plan We will first use the Henderson–Hasselbalch equation, which 
+relates pKa and ratio of acid–base concentrations to the pH. This 
+will be straightforward. Then, we will redo the calculation making 
+SOLUTION
+Sample Exercise 17.4 
+Calculating pH When the Henderson–Hasselbalch Equation May Not Be Accurate
+no assumptions about any quantities, which means we will need 
+to write out the initial/change/equilibrium concentrations, as we 
+have done before. In addition, we will need to solve for quantities 
+using the quadratic equation (since we cannot make assumptions 
+about unknowns being small).
+Solve
+(i) The Henderson–Hasselbalch equation is:
+pH = pKa + log
+3base4
+3acid4
+We know the Ka of the acid 11.8 * 1

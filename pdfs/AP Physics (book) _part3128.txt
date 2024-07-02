@@ -1,0 +1,19 @@
+ use light of wavelength 
+the position can be measured at
+best to a precision of about 
+That is, the uncertainty in the position measurement,
+is approximately
+Suppose that the object can be detected by a single photon. The photon has a
+momentum 
+(Eq. 27–6). When the photon strikes our object, it will
+give some or all of this momentum to the object, Fig. 28–5. Therefore, the final
+x momentum of our object will be uncertain in the amount
+since we can’t tell how much momentum will be transferred. The product of
+these uncertainties is
+The uncertainties could be larger than this, depending on the apparatus and the
+number of photons needed for detection. A more careful mathematical calcula-
+tion shows the product of the uncertainties as, at best, about
+(28;1)
+This is a mathematical statement of the Heisenberg uncertainty principle, or, as it
+is sometimes called, the indeterminancy principle. It tells us that we cannot measure
+both the position and momentum of an object precisely at the same 

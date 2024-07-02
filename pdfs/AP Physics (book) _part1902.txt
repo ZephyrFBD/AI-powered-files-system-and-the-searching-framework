@@ -1,0 +1,19 @@
+re allowed to broadcast HD at 
+or at 
+or in standard definition (SD) of 
+[When you read 1080p or 1080i for a TV, the “p” stands for “progressive,”
+meaning an entire frame is made in 
+as described above. The “i” stands for
+“interlaced,” meaning all the odd rows (half the picture) are done in 
+and then
+all the even rows are done in the next 
+, so a full picture is done at 30 per second
+or 30 Hz, thus reducing the data (or bit) rate. Analog TV (US) was 480i.]
+Oscilloscopes
+An oscilloscope is a device for amplifying, measuring, and visually displaying an
+electrical signal as a function of time on an LCD or CRT monitor, or computer
+screen. The visible “trace” on the screen, which could be an electrocardiogram
+(Fig. 17–36), or a signal from an experiment on nerve conduction, is a plot of the
+signal voltage (vertically) versus time (horizontally). [In a CRT, the electron
+beam is swept horizontally at a uniform rate in time by the horizontal deflection
+plates, Figs. 17–29 and 17–30. The signal

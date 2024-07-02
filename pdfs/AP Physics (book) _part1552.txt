@@ -1,0 +1,25 @@
+s and wind
+P H Y S I C S  A P P L I E D
+Convective home heating
+P H Y S I C S  A P P L I E D
+R-values of thermal insulation
+SECTION 14–8
+Heat Transfer: Radiation
+403
+FIGURE 14;10 The Sun’s surface
+radiates at 6000 K—much higher
+than the Earth’s surface.
+† is the Greek letter epsilon.
+
+14–8 Heat Transfer: Radiation
+Convection and conduction require the presence of matter as a medium to carry
+the heat from the hotter to the colder region. But a third type of heat transfer
+occurs without any medium at all. All life on Earth depends on the transfer of
+energy from the Sun, and this energy is transferred to the Earth over empty (or
+nearly empty) space. This form of energy transfer is heat—since the Sun’s surface
+temperature (6000 K) is much higher than Earth’s 
+—and is referred to
+as radiation (Fig. 14–10). The warmth we receive from a fire is mainly radiant
+energy.
+As we shall see in later Chapters, radiation consists essentially of electromag-
+netic waves. Suffice it to say for now that r

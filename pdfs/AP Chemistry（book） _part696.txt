@@ -1,0 +1,16 @@
+s the direction. A 
+positive value of ∆E results when Efinal 7 Einitial, indicating that the system has gained 
+energy from its surroundings. A negative value of ∆E results when Efinal 6 Einitial, indi-
+cating that the system has lost energy to its surroundings. Notice that we are taking the 
+point of view of the system rather than that of the surroundings in discussing the energy 
+*The symbol ∆ is commonly used to denote change. For example, a change in height, h, can be 
+represented by ∆h.
+168 
+CHAPTER 5 Thermochemistry
+changes. We need to remember, however, that any increase in the energy of the system 
+is accompanied by a decrease in the energy of the surroundings, and vice versa. These 
+features of energy changes are summarized in Figure 5.5.
+In a chemical reaction, the initial state of the system refers to the reactants and the 
+final state refers to the products. In the reaction
+2 H21g2 + O21g2 ¡  2 H2O1l2
+for instance, the initial state is 2 H21g2 + O21g2 and the final state is

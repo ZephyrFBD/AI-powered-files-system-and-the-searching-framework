@@ -1,0 +1,26 @@
+top]
+From this equation we can see that the tension force 
+at point 1 will get larger
+if 
+(ball’s speed at top of circle) is made larger, as expected. But we are asked
+for the minimum speed to keep the ball moving in a circle. The cord will remain
+taut as long as there is tension in it. But if the tension disappears (because 
+is 
+too small) the cord can go limp, and the ball will fall out of its circular path. Thus,
+the minimum speed will occur if 
+(the ball at the topmost point), for
+which the equation above becomes
+[minimum speed at top]
+We solve for 
+keeping an extra digit for use in (b):
+This is the minimum speed at the top of the circle if the ball is to continue
+moving in a circular path.
+(b) When the ball is at the bottom of the circle (point 2 in Fig. 5–8), the cord
+exerts its tension force 
+upward, whereas the force of gravity,
+still acts
+downward. Choosing upward as positive, Newton’s second law gives:
+[at bottom]
+The speed 
+is given as twice that in (a), namely 
+We solve for

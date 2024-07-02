@@ -1,0 +1,20 @@
+ The centripetal
+acceleration is horizontal (not
+parallel to the sloping road). The
+friction force on the tires, not 
+shown, could point up or down 
+along the slope, depending on the
+car’s speed. The friction force will 
+be zero for one particular speed.
+EXERCISE D To negotiate a flat (unbanked) curve at a faster speed, a driver puts a couple
+of sand bags in his van aiming to increase the force of friction between the tires and the
+road. Will the sand bags help?
+Banking angle. (a) For a car traveling with speed v around
+a curve of radius r, determine a formula for the angle at which a road should 
+be banked so that no friction is required. (b) What is this angle for a road which
+has a curve of radius 50 m with a design speed of 
+APPROACH Even though the road is banked, the car is still moving along a
+horizontal circle, so the centripetal acceleration needs to be horizontal. We
+choose our x and y axes as horizontal and vertical so that 
+which is hori-
+zontal, is along the x axis. The fo

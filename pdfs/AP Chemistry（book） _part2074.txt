@@ -1,0 +1,19 @@
+xtent, or a greater extent than adding 1 mol of C6H12O6 to 1 kg 
+of water?
+Glycerin 1C3H8O32 is a nonvolatile nonelectrolyte with a density of 1.26 g>mL at 25 °C. Calculate the vapor pressure at 25 °C 
+of a solution made by adding 50.0 mL of glycerin to 500.0 mL of water. The vapor pressure of pure water at 25 °C is 23.8 torr 
+(Appendix B), and its density is 1.00 g>mL.
+Solve
+To calculate the mole fraction of water 
+in the solution, we must determine the 
+number of moles of C3H8O3 and H2O:
+Analyze Our goal is to calculate the vapor pressure of a solution, 
+given the volume of solute and solvent and the density of the 
+solute.
+Comment The vapor pressure of the solution has been lowered by 
+23.8 torr - 23.2 torr = 0.6 torr relative to that of pure water. The 
+vapor–pressure lowering can be calculated directly using Equa-
+tion 13.11 together with the mole fraction of the solute, C3H8O3:  
+∆P = XC3H8O3P°
+H2O = 10.0242123.8 torr2 = 0.57 torr. Notice that 
+the use of Equation 13.11 gives one

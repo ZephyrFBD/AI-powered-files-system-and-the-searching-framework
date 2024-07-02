@@ -1,0 +1,14 @@
+
+uranium sources and potentially reducing radioactive waste. This type of reactor is so 
+named because it creates (“breeds”) more fissionable material than it consumes. The 
+reactor operates without a moderator, which means the neutrons used are not slowed 
+down. In order to capture the fast neutrons, the fuel must be highly enriched with both 
+uranium-235 and plutonium-239. Water cannot be used as a primary coolant because it 
+would moderate the neutrons, and so a liquid metal, usually sodium, is used. The core 
+is surrounded by a blanket of uranium-238 that captures neutrons that escape the core, 
+producing plutonium-239 in the process. The plutonium can later be separated by repro-
+cessing and used as fuel in a future cycle.
+Because fast neutrons are more effective at decaying many radioactive nuclides, the 
+material separated from the uranium and plutonium during reprocessing is less radio-
+active than waste from other reactors. However, generation of relatively high levels of 
+plu

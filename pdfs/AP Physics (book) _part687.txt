@@ -1,0 +1,31 @@
+nter of mass.
+CONTENTS
+7–1 Momentum and Its Relation 
+to Force
+7–2 Conservation of Momentum
+7–3 Collisions and Impulse
+7–4 Conservation of Energy and
+Momentum in Collisions
+7–5 Elastic Collisions in One
+Dimension
+7–6 Inelastic Collisions
+*7–7 Collisions in Two Dimensions
+7–8 Center of Mass (CM)
+*7–9 CM for the Human Body
+*7–10 CM and Translational Motion
+7
+C
+H
+A
+P
+T
+E
+R
+Conservation of linear momentum is another great conservation law of physics.
+Collisions, such as between billiard or pool balls, illustrate this law very nicely: the 
+total vector momentum just before the collision equals the total vector momentum 
+just after the collision. In this photo, the moving cue ball makes a glancing collision with 
+the 11 ball which is initially at rest. After the collision, both balls move at angles, but the 
+sum of their vector momenta equals the initial vector momentum of the incoming cue ball.
+We will consider both elastic collisions (where kinetic energy is also conserved) 
+and inelastic 

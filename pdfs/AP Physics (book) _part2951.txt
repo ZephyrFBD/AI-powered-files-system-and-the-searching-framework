@@ -1,0 +1,45 @@
+
+total energy E and momentum p of a particle will be different in different
+reference frames, but the quantity 
+will have the same value in all
+inertial reference frames. We say that the quantity 
+is invariant.
+When Do We Use Relativistic Formulas?
+From a practical point of view, we do not have much opportunity in our daily lives
+to use the mathematics of relativity. For example, the factor,
+,
+has a value of 1.005 when 
+Thus, for speeds even as high as
+the factor 
+in relativistic formulas gives
+a numerical correction of less than 1%. For speeds less than 0.10c, or unless 
+mass and energy are interchanged, we don’t usually need the more complicated
+relativistic formulas, and can use the simpler classical formulas.
+21 - v2c2
+0.10c = 3.0 * 107 ms,
+v = 0.10c.
+21 - v2c2
+g = 1
+g
+E2 - p2c2
+E2 - p2c2
+E2 - p2c2
+E2 - p2c2 = m2c4.
+*
+E2 = p2c2 + m2c4.
+= p2c2 +
+m2c4A1 - v2c2B
+1 - v2c2
+E2 =
+m2c2c2
+1 - v2c2
+=
+m2c2Ac2 - v2 + v2B
+1 - v2c2
+=
+m2c2v2
+1 - v2c2 +
+m2c2Ac2 - v2B
+1 - v2c2
+v2 - v2
+E =

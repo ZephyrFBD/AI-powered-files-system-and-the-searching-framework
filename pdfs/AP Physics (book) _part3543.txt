@@ -1,0 +1,27 @@
+eleased into the atmosphere.
+Assuming that this radiation was distributed uniformly
+over the surface of the Earth, what was the activity per
+square meter? (The actual activity was not uniform; even
+within Europe wet areas received more radioactivity from
+rainfall.)
+69. A star with a large helium abundance can burn helium in
+the reaction 
+What is the
+Q-value for this reaction?
+70. A 
+source is used for 1.4 hours by a 62-kg
+worker. Radioactive 
+decays by 
+decay with a half-
+life of 30 yr. The average energy of the emitted betas is
+about 190 keV per decay. The 
+decay is quickly followed
+by a 
+with an energy of 660 keV. Assuming the person
+absorbs all emitted energy, what effective dose (in rem) is
+received?
+71. Suppose a future fusion reactor would be able to put out
+1000 MW of electrical power continuously. Assume the
+reactor will produce energy solely through the reaction
+given in Eq. 31–8a and will convert this energy to electrical
+energy with an efficiency of 33%. Estimate the minimum

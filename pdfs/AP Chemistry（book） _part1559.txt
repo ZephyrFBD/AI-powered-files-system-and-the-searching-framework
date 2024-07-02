@@ -1,0 +1,32 @@
+ure on the diver given 
+the atmospheric pressure 198 kPa2 and the depth of the water  
+131.0 m2.
+Plan The total pressure on the diver equals that of the atmosphere 
+plus that of the water. The pressure of the water can be calculated 
+starting with Equation 10.1, P = F>A. The force, F, due to the 
+water above the diver is given by its mass times the acceleration 
+due to gravity, F = mg, where g = 9.81 m>s2.
+Solve The pressure caused by the water is
+P = F
+A =
+mg
+A
+The mass of the water is related to its density 1d = m>V, so  
+m = d * V2. We can treat the water as a column whose volume 
+equals its cross-sectional area times its height: V = A * h. When  
+we make these substitutions for mass 1m = d * V2 and volume  
+1V = A * h2, we have
+P =
+mg
+A
+=
+dVg
+A
+=
+d1Ah2g
+A
+= dhg
+Sample Exercise 10.2 
+Using a Manometer to Measure Gas Pressure
+On a certain day, a laboratory barometer indicates that the atmospheric pressure is 
+764.7 torr. A sample of gas is placed in a flask attached to an open-end me

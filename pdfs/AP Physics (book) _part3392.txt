@@ -1,0 +1,69 @@
+rrier” shown.
+Since the PE just beyond 
+(region B) is greater than the energy of the
+alpha particle (dashed line), the 
+particle could not escape the nucleus if it were
+governed by classical physics. It could escape only if there were an input of energy
+equal to the height of the barrier. Nuclei decay spontaneously, however, without
+any input of energy. How, then, does the 
+particle get from region A to region C?
+It actually passes through the barrier in a process known as quantum-mechanical
+tunneling. Classically, this could not happen, because an 
+particle in region B
+(within the barrier) would be violating the conservation-of-energy principle.†
+a
+a
+a
+r = R0
+a
+234
+90Th
+a
+
+pe
+a
+pe
+R0
+a
+pe
+238
+92U
+a
+238
+92U S
+234
+90Th + 4
+2He.
+AT
+1
+2 = 4.5 * 109 yrB
+238
+92U
+a
+234
+90Th
+238
+92U
+234
+90Th
+238
+92U
+*
+3 1
+2
+4 * 109 yr.
+238
+92U
+238
+92U
+4.5 * 109
+238
+92U,
+14
+6C,
+14
+6C
+876
+CHAPTER 30
+Nuclear Physics and Radioactivity
+†The total energy E (dashed line in Fig. 30–12) would be less than the PE; bec

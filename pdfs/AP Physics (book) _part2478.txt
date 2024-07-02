@@ -1,0 +1,51 @@
+field induces an emf in the coil (Fig. 22–18b). A satellite dish
+(Fig. 22–19) consists of a parabolic reflector that focuses the EM waves onto a
+“horn,” similar to a concave mirror telescope (Fig. 25–22).
+E
+B
+E
+B
+E
+B
+E
+B
+B
+B
+B
+B
+B
+B
+B
+B
+Antenna rod
+Current produced
+by electric field
+I
+To receiver
+To
+receiver
+(TV set)
+Induced
+current
+Loop
+antenna
+(a)
+(b)
+EM wave
+direction
+FIGURE 22–18 Antennas. (a) Electric field of EM wave produces a current in an antenna consisting of 
+straight wire or rods. (b) The moving and changing magnetic field induces an emf and current in a loop antenna.
+Summary
+639
+P H Y S I C S  A P P L I E D
+Cell phones, remote controls,
+cable TV, satellite TV and radio
+T
+uning a station. Calculate the transmitting wavelength of
+an FM radio station that transmits at 100.1 MHz.
+APPROACH Radio is transmitted as an EM wave,
+so the speed is
+The wavelength is found from Eq. 22–4,
+SOLUTION The carrier frequency is
+so
+NOTE The wavelengths of other FM signals (88 MHz to 108 MHz) ar

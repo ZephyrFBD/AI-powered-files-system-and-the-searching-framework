@@ -1,0 +1,20 @@
+adiation from the Sun consists of visible
+light plus many other wavelengths that the eye is not sensitive to, including
+infrared (IR) radiation, which is mainly responsible for heating the Earth.
+The rate at which an object radiates energy has been found to be proportional
+to the fourth power of the Kelvin temperature, T. That is, an object at 2000 K,
+as compared to one at 1000 K, radiates energy at a rate 
+times as much.
+The rate of radiation is also proportional to the area A of the emitting object,
+so the rate at which energy leaves the object,
+is
+(14;6)
+This is called the Stefan-Boltzmann equation, and 
+is a universal constant called
+the Stefan-Boltzmann constant which has the value
+The factor 
+called the emissivity, is a number† between 0 and 1 that is character-
+istic of the surface of the radiating material. Very black surfaces, such as charcoal,
+have emissivity close to 1, whereas shiny metal surfaces have 
+close to zero and
+thus emit correspondingly less radiation. The value o

@@ -1,0 +1,17 @@
+ an intermediate generated in the forward reaction of step 1. Interme-
+diates are usually unstable and have a low, unknown concentration. Thus, the rate law of 
+Equation 14.30 depends on the unknown concentration of an intermediate, which isn’t 
+desirable. We want instead to express the rate law for a reaction in terms of the reactants, 
+or the products if necessary, of the reaction.
+With the aid of some assumptions, we can express the concentration of the inter-
+mediate NOBr2 in terms of the concentrations of the starting reactants NO and Br2. We 
+first assume that NOBr2 is unstable and does not accumulate to any significant extent in 
+the reaction mixture. Once formed, NOBr2 can be consumed either by reacting with NO 
+to form NOBr or by falling back apart into NO and Br2. The first of these possibilities is 
+step 2 of our alternative mechanism, a slow process. The second is the reverse of step 1, a 
+unimolecular process:
+ 
+NOBr21g2 ¡
+k-1
+NO1g2 + Br21g2 
+Because step 2 is slow, we ass

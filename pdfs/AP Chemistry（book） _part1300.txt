@@ -1,0 +1,33 @@
+B
+F
+F
+F
+which has only six electrons around the boron atom. The formal charge is zero on both 
+B and F
+, and we could complete the octet around boron by forming a double bond (recall 
+that if there are not enough electrons to give the central atom an octet, a multiple bond 
+may be the answer). In so doing, we see that there are three equivalent resonance struc-
+tures (the formal charges are shown in red):
+B21
+F 
+11
+F  
+0
+11
+F
+0 F
+0 F
+F  
+0
+F
+11
+B21
+F 0
+F 0
+B21
+Each of these structures forces a fluorine atom to share additional electrons with the bo-
+ron atom, which is inconsistent with the high electronegativity of fluorine. In fact, the 
+formal charges tell us that this is an unfavorable situation. In each structure, the F atom 
+involved in the B “F double bond has a formal charge of +1, while the less electronega-
+tive B atom has a formal charge of -1. Thus, the resonance structures containing a B “F 
+double bond are less important than the one in which there are fewer than an octet 

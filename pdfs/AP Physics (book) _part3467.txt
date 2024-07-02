@@ -1,0 +1,25 @@
+ stars (see Chapter 33) where the temperature is extremely high, corresponding
+to high KE (Eq. 13–8). Today fusion is still producing the prodigious amounts of
+light energy (EM waves) stars emit, including our Sun.
+Fusion energy release. One of the simplest fusion reac-
+tions involves the production of deuterium,
+from a neutron and a proton:
+How much energy is released in this reaction?
+APPROACH The energy released equals the difference in mass (times 
+)
+between the initial and final masses.
+SOLUTION From Appendix B, the initial mass is
+and after the reaction the mass is that of the 
+namely 2.014102 u (the 
+is
+massless). The mass difference is
+so the energy released is
+and it is carried off by the 
+nucleus and the ray.
+The energy output of our Sun is believed to be due principally to the following
+sequence of fusion reactions:
+(31;6a)
+(31;6b)
+(31;6c)
+where the energy released (Q-value) for each reaction is given in parentheses.
+These reactions are between nuclei (without electrons at t

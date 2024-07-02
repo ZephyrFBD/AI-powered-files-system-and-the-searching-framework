@@ -1,0 +1,25 @@
+20–59
+Problem 43.
+38. (II) A power line carries a current of 95 A west along the
+tops of 8.5-m-high poles. (a) What is the magnitude and
+direction of the magnetic field produced by this wire at 
+the ground directly below? How does this compare with the
+Earth’s magnetic field of about
+(b) Where would the
+wire’s magnetic field cancel the Earth’s field?
+39. (II) A compass needle points 17° E of N outdoors. However,
+when it is placed 12.0 cm to the east of a vertical wire inside
+a building, it points 32° E of N. What is the magnitude and
+direction of the current in the wire? The Earth’s field there
+is 
+and is horizontal.
+0.50 * 10–4 T
+1
+2 G?
+20–7 Solenoids and Electromagnets
+44. (I) A thin 12-cm-long solenoid has a total of 460 turns of
+wire and carries a current of 2.0 A. Calculate the field inside
+the solenoid near the center.
+45. (I) A 30.0-cm-long solenoid 1.25 cm in diameter is to
+produce a field of 4.65 mT at its center. How much current
+should the solenoid carry if it has 935 turns 

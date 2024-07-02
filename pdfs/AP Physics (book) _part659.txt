@@ -1,0 +1,31 @@
+und,
+and the remaining four shelves are each spaced 38.0 cm
+above the previous one. If the average book has a mass of
+1.40 kg with a height of 22.0 cm, and an average shelf holds
+28 books (standing vertically), how much work is required
+to fill all the shelves, assuming the books are all laying flat
+on the floor to start?
+8. (II) A lever such as that shown in Fig. 6–35 can be used to
+lift objects we might not otherwise be able to lift. Show
+that the ratio of output force,
+to input force,
+is related to the lengths 
+and 
+from the pivot by
+Ignore friction and the mass of the lever,
+and assume the work output equals the work input.
+F
+OF
+I = lIlO.
+lO
+lI
+F
+I,
+F
+O,
+10. (II) A 380-kg piano slides 2.9 m down a 25° incline and is
+kept from accelerating by a man who is pushing back on 
+it parallel to the incline (Fig. 6–36). Determine: (a) the
+force exerted by the man, (b) the work done on the piano
+by the man, (c) the work done on the piano by the force of
+gravity, and (d) the net work done on

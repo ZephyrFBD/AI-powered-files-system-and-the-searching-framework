@@ -1,0 +1,55 @@
+y endothermic. 
+The 8
+4Be nucleus is highly unstable (half-life of 7 * 10-17 s) and so falls 
+apart almost immediately. In a tiny fraction of cases, however, a third 
+4
+2He collides with a 8
+4Be nucleus before it decays, forming carbon-12:
+4
+2He + 4
+2He ¡ 8
+4Be
+8
+4Be + 4
+2He ¡ 12
+6C
+a CLoser Look Nuclear Synthesis of the Elements
+0
+2
+4
+6
+8
+10
+1 × 10−12
+1 × 10−10
+1 × 10−8
+1 × 10−6
+1 × 10−4
+1 × 10−2
+1 × 100
+Atomic number
+He
+Li
+Be
+B
+C
+N
+O
+F
+Ne
+H
+Relative abundance in solar system
+▲ Figure 21.21 Relative abundance of elements 1–10 in the solar 
+system. Note the logarithmic scale used for the y-axis.
+Some of the 12
+6C nuclei go on to react with alpha particles to form 
+oxygen-16:
+12
+6C + 4
+2He ¡ 16
+8O
+This stage of nuclear fusion is called helium burning. Notice that car-
+bon, element 6, is formed without prior formation of elements 3, 4, 
+and 5, explaining in part their unusually low abundance. Nitrogen is 
+relatively abundant because it can be produced from carbon through 
+a series of rea

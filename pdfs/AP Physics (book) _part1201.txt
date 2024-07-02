@@ -1,0 +1,58 @@
+ted across unit
+area perpendicular to the direction of energy flow:
+(11;18)
+This relation shows explicitly that the intensity of a wave is proportional both to
+the square of the wave amplitude A at any point and to the square of the 
+frequency f.
+I = g
+S
+= 2p2rvf2A2.
+g = E
+t
+= 2p2rSvf2A2.
+g = Et,
+E = 2p2rSv tf2A2.
+m = rV = rSl = rSvt,
+l = vt,
+l
+V = Sl,
+r
+m = rV,
+E =
+1
+2 kA2 = 2p2mf2A2.
+k = 4p2mf2,
+E = 1
+2 kA2,
+1r2,
+I
+2 = I
+1 r1
+2r2
+2 = A1.0 * 106 Wm2BA100 kmB
+2A400 kmB
+2 = 6.3 * 104 Wm2.
+6.3 * 104 Wm2.
+=
+(1.0 * 106 Wm2)16
+A1
+4B
+2 =
+1
+16
+1.0 * 106 Wm2.
+EXAMPLE 11;13
+S
+l = vt
+v
+B
+FIGURE 11–32 Calculating the
+energy carried by a wave moving
+with velocity v.
+1
+1–10 Reflection and Transmission
+of Waves
+When a wave strikes an obstacle, or comes to the end of the medium in which it is
+traveling, at least a part of the wave is reflected. You have probably seen water
+waves reflect off a rock or the side of a swimming pool. And you may have heard
+a shout reflected from a distant cliff—

@@ -1,0 +1,22 @@
+s take?
+61. It has been suggested that a heat engine could be developed
+that made use of the temperature difference between water
+at the surface of the ocean and water several hundred
+meters deep. In the tropics, the temperatures may be 27°C
+and 4°C, respectively. (a) What is the maximum efficiency
+such an engine could have? (b) Why might such an engine
+be feasible in spite of the low efficiency? (c) Can you imagine
+any adverse environmental effects that might occur?
+62. A cooling unit for a new freezer has an inner surface area of
+and is bounded by walls 12 cm thick with a thermal
+conductivity of 
+The inside must be kept 
+at 
+in a room that is at 22°C. The motor for the 
+cooling unit must run no more than 15% of the time. What
+is the minimum power requirement of the cooling motor?
+63. Refrigeration units can be rated in “tons.” A 1-ton air 
+conditioning system can remove sufficient energy to freeze
+1 ton 
+of 0°C water into 0°C ice in
+one 24-h day. If, on a 35°C day, the interior of a 

@@ -1,0 +1,19 @@
+d 2p atomic orbitals of different atoms.
+The molecular orbital description of period 2 diatomic mole-
+cules leads to bond orders in accord with the Lewis structures of these 
+molecules. Further, the model predicts correctly that O2 should ex-
+hibit paramagnetism, which leads to attraction of a molecule into a 
+magnetic field due to the influence of unpaired electrons. Molecules 
+in which all the electrons are paired exhibit diamagnetism, which 
+leads to weak repulsion from a magnetic field. The molecular orbit-
+als of heteronuclear diatomic molecules are often closely related to 
+those of homonuclear diatomic molecules.
+Learning Outcomes After studying this chapter, you should be able to:
+t Draw and name the predicted three-dimensional shapes of 
+molecules using the VSEPR model. (Section 9.2) 
+Related Exercises: 9.25, 9.26
+t Determine whether a molecule is polar or nonpolar based on 
+ 
+its geometry and the individual bond dipole moments. 
+ 
+(Section 9.3) Related Exercises: 9.41, 9.42

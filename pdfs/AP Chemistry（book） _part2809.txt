@@ -1,0 +1,67 @@
+pair
+758 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+ 
+17.6  Match the following descriptions of titration curves 
+with the diagrams: (a) strong acid added to strong base, 
+ 
+(b) strong base added to weak acid, (c) strong base added to 
+strong acid, (d) strong base added to polyprotic acid. [Sec-
+tion 17.3]
+(i)
+(ii)
+(iii)
+(iv)
+= HA
+= A−
+= OH−
+mL titrant
+(i)
+pH
+mL titrant
+(ii)
+pH
+mL titrant
+(iii)
+pH
+mL titrant
+(iv)
+pH
+ 
+17.7  Equal volumes of two acids are titrated with 0.10 M NaOH 
+resulting in the two titration curves shown in the follow-
+ing figure. (a) Which curve corresponds to the more con-
+centrated acid solution? (b) Which corresponds to the acid 
+with the larger Ka? [Section 17.3]
+pH
+0
+2
+4
+6
+8
+10
+12
+0
+10
+20
+30
+40
+50
+mL NaOH
+ 
+17.8  A saturated solution of Cd1OH22 is shown in the middle 
+beaker. If hydrochloric acid solution is added, the solubil-
+ity of Cd1OH22 will increase, causing additional solid to 
+HA
+HA
+(1)
+HA
+(2)
+HA
+A−
+A−
+A−
+A−
+(3)
+ 
+17.5  The following figure 

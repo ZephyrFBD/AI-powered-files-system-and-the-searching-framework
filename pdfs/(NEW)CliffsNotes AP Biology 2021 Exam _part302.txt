@@ -1,0 +1,12 @@
+e L-M frequency
+to determine which configuration of M and L is correct. Since the L-M frequency is 7, only the M and L positions at
+the right are correct. That leaves only one possible sequence, K-J-L-M.
+17. D. In any pedigree problem, you should begin by first identifying genotypes for which there is only one
+possibility. For a sex-linked recessive pattern of inheritance, you can identify the genotypes of all males and of all
+females that express the trait that the pedigree is describing. In this case, color-blind males are XnY (filled boxes, 1,
+10,
+12, 16), normal males are XNY (open boxes, 3,6,8, 13), and color-blind females are XnXn (filled circle, 7).
+18. B. The next step in this pedigree problem is to identify the normal females (open circles). Are they XNXN or
+XNXn? Note that box 12 is a color-blind son (XnY). Since a son can inherit only his Y chromosome
+from his father (box 6), box 12 must have inherited his Xn gene from his mother (circle 5). Thus, you can conclude
+that the m

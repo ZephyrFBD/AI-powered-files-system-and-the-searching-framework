@@ -1,0 +1,68 @@
+iv)
+From Eq. (ii) we have
+(v)
+We substitute Eqs. (iv) and (v) into Eq. (i):
+We solve for 
+collecting terms:
+The negative sign indicates that the direction of 
+is actually opposite to that
+initially assumed and shown in Fig. 19–13. The answer automatically comes
+out in amperes because our voltages and resistances were in volts and ohms.
+From Eq. (iv) we have
+and from Eq. (v)
+This completes the solution.
+NOTE The unknowns in different situations are not necessarily currents. It might
+be that the currents are given and we have to solve for unknown resistance or
+voltage. The variables are then different, but the technique is the same.
+I
+3 = 1.1 - 0.73I
+1 = 1.1 - 0.73(–0.87) = 1.7 A.
+I
+2 = 3.8 + 1.4I
+1 = 3.8 + 1.4(–0.87) = 2.6 A,
+I
+1
+I
+1 =
+–0.87 A.
+ 
+3.1I
+1 =
+–2.7
+I
+1 ,
+I
+1 = I
+3 - I
+2 = 1.1 - 0.73I
+1 - 3.8 - 1.4I
+1 .
+I
+3 = 45 - 30I
+1
+41
+= 1.1 - 0.73I
+1 .
+I
+2 = 80 + 30I
+1
+21
+= 3.8 + 1.4I
+1 .
+–30I
+1 + (20 + 1)I
+2 - 80 = 0.
+V
+ag = 0,
+V
+gf = –80 V.
+±I
+2(1 ).
+V
+fe =
+(20 )
+V
+ed = ±I
+2
+V
+dh = 0

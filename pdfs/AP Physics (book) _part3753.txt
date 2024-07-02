@@ -1,0 +1,19 @@
+ng
+to randomly moving particles with an average kinetic energy KE of about 100 GeV
+(see Eq. 13–8):
+(As an estimate, we usually ignore the factor 
+in Eq. 13–8.) At that time,
+symmetry between weak and electromagnetic forces would have broken down,
+and the weak force separated from the electromagnetic.
+As the universe cooled down to about 
+K (KE
+100 MeV), approxi-
+mately 
+s after the Big Bang, quarks stop moving freely and begin to
+“condense” into more normal particles: nucleons and the other hadrons and their
+antiparticles. With this confinement of quarks, the universe entered the hadron
+era. But it did not last long. Very soon the vast majority of hadrons disappeared.
+To see why, let us focus on the most familiar hadrons: nucleons and their anti-
+particles. When the average kinetic energy of particles was somewhat higher than
+1 GeV, protons, neutrons, and their antiparticles were continually being created
+out of the energies of collisions involving photons and other particles, such as

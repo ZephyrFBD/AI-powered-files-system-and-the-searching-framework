@@ -1,0 +1,50 @@
+3H24 = 1.000 M and 3I24 = 2.000 M
+ 
+H21g2 + I21g2 ∆ 2 HI1g2
+Initial concentration (M)
+1.000
+2.000
+0
+Change in concentration (M)
+-x
+-x
++2x
+Equilibrium concentration (M)
+ 
+ 
+ 
+ 
+H21g2  +  I21g2  ∆  
+2 HI1g2
+Initial concentration (M)
+1.000
+2.000
+0
+Change in concentration (M)
+ 
+ 
+ 
+Equilibrium concentration (M)
+ 
+ 
+ 
+SOLUTION
+Sample Exercise 15.11
+ Calculating Equilibrium Concentrations from Initial Concentrations
+(2) We construct a table in which we tabulate 
+the initial concentrations:
+(3) We use the stoichiometry of the reaction 
+to determine the changes in concentra-
+tion that occur as the reaction proceeds to 
+equilibrium. The H2 and I2 concentrations 
+will decrease as equilibrium is established 
+and that of HI will increase. Let’s repre-
+sent the change in concentration of H2 by 
+x. The balanced chemical equation tells us 
+that for each x mol of H2 that reacts, x mol 
+of I2 are consumed and 2x mol of HI are 
+produced:
+Continued
+ 
+SECTION 15.6   
+Applications of Equilibrium Constants 

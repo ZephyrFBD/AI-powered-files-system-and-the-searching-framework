@@ -1,0 +1,28 @@
+tion, just before
+the interaction (collision, explosion) takes place, and
+represent the momentum of each object with an arrow
+and a label. Do the same for the final situation, just
+after the interaction.
+4. Choose a coordinate system and “
+” and “
+”
+directions. (For a head-on collision, you will need
+–
+±
+¢t
+SECTION 7–8
+Center of Mass (CM)
+185
+FIGURE 7;21 Translation plus 
+rotation: a wrench moving over a
+smooth horizontal surface. The CM,
+marked with a red cross, moves in 
+a straight line because no net 
+force acts on the wrench.
+Figure 7–21 shows a wrench acted on by zero net force, translating and rotating
+along a horizontal surface. Note that its CM, marked by a red cross, moves in a
+straight line, as shown by the dashed white line.
+We will show in Section 7–10 that the important properties of the CM follow from
+Newton’s laws if the CM is defined in the following way. We can consider any extended
+object as being made up of many tiny particles. But first we consider a system made
+up 

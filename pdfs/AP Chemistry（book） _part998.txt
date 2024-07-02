@@ -1,0 +1,18 @@
+ts momentum, mv: l = h>mv.
+Discovery of the wave properties of the electron led to Heisen-
+berg’s uncertainty principle, which states that there is an inherent limit 
+to the accuracy with which the position and momentum of a particle 
+can be measured simultaneously.
+QUANTUM MECHANICS AND ORBITALS (SECTION 6.5) In the 
+quantum-mechanical model of the hydrogen atom, the behavior 
+of the electron is described by mathematical functions called wave 
+functions, denoted with the Greek letter c. Each allowed wave func-
+tion has a precisely known energy, but the location of the electron 
+cannot be determined exactly; rather, the probability of it being at 
+a particular point in space is given by the probability density, c2. The 
+SOLUTION
+(a) The two isotopes of boron differ in the number of neutrons in the 
+nucleus. 
+ (Sections 2.3 and 2.4) Each of the isotopes contains 
+five protons, but 10B contains five neutrons, whereas 11B contains 
+six neutrons. The two isotopes of boron have identical el

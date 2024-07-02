@@ -1,0 +1,16 @@
+                                              Page 17 of 22   
+1) There is only one treatment center in every country, and vaccine and drugs 
+are distributed from the center to the epidemic areas. 
+2) The demand of drugs of each epidemic area is relation to the confirmed 
+cases in this area. Assume they have a linear relation. 
+3) The increase cases of next circle will obey to the SIR model. 
+4) Each infected person need a unit of drugs, and each susceptible person need 
+a unit of vaccine. 
+5) Only if one epidemic area can meet the demand of itself, than it can deliver 
+vaccine and drugs to other epidemic area 
+3.5.3.3 The Foundation of Model 
+ Distribution Strategy of Drugs 
+Step 1: Estimate the total quantity of drugs in demand. On 8th February, 2015, 
+we assume it is the beginning of the 49th week in Improved Model 2, so we only need 
+to forecast the statistics of infected people in Sierra Leone the 50th week and later on. 
+Table 1 shows the forecast through Improved Model 2 with p

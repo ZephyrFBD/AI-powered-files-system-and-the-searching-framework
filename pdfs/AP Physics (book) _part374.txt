@@ -1,0 +1,48 @@
+for this puck? What would your answer be if the puck slowed down?
+RESPONSE Did you choose (a)? If so, can you answer the question: what
+exerts the horizontal force labeled 
+on the puck? If you say that it is the force
+needed to maintain the motion, ask yourself: what exerts this force? Remember
+that another object must exert any force—and there simply isn’t any possibility
+here. Therefore, (a) is wrong. Besides, the force 
+in Fig. 4–20a would give rise to
+an acceleration by Newton’s second law. It is (b) that is correct. No net force
+acts on the puck, and the puck slides at constant velocity across the ice.
+In the real world, where even smooth ice exerts at least a tiny friction force,
+then (c) is the correct answer. The tiny friction force is in the direction opposite
+to the motion, and the puck’s velocity decreases, even if very slowly.
+F
+B
+F
+B
+CONCEPTUAL EXAMPLE 4;10
+(b)
+(c)
+(a)
+Motion
+Motion
+Motion
+N
+N
+G
+G
+N
+G
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 4;20 Example 4–10.
+Which is the c

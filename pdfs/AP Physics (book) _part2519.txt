@@ -1,0 +1,54 @@
+he mirror surface curves away
+from the viewer (like a “cave”), Fig. 23–10b. Concave mirrors are used as shaving
+or cosmetic mirrors (magnifying mirrors), Fig. 23–11a, because they magnify.
+Convex mirrors are sometimes used on cars and trucks (rearview mirrors) and in
+shops (to watch for theft), because they take in a wide field of view, Fig. 23–11b.
+SECTION 23–3
+649
+Water 
+Branches
+Direct ray 
+Reflected ray 
+Camera
+or
+eye 
+Sun
+FIGURE 23–9 Example 23–3.
+(a)
+(b)
+Convex
+mirror
+Normal
+to surface
+Rays
+from
+distant
+source
+Normal
+to surface
+Concave
+mirror
+r
+r
+i
+i
+θ
+θ
+θ
+θ
+FIGURE 23–10 Mirrors with convex
+and concave spherical surfaces. Note
+that
+for each ray. (The dashed
+lines are perpendicular to the mirror
+surface at each point shown.)
+ur = ui
+(b)
+(a)
+FIGURE 23–11 (a) A concave
+cosmetic mirror gives a magnified
+image. (b) A convex mirror in
+a store reduces image size and so
+includes a wide field of view.
+RESPONSE We need to draw two diagrams, one assuming the photo on p. 644
+is right side up

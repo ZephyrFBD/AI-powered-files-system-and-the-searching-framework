@@ -1,0 +1,19 @@
+ial cells become competent (able to
+transport DNA through the cytoplasmic membrane) in
+response to stress such as UV radiation, high population
+density, or heat shock. Such conditions are often difficult
+to model in the laboratory, where competence can be
+induced by high concentrations of divalent cations, Ca+2 or
+Mg+2, or electrical shock. In either setting, extracellular
+DNA can be transported into the cell, and (to a good
+approximation) uptake is proportional to the concentration
+of extracellular DNA.
+D. Identify a factor that might affect transformation or
+HGT. Then, design a plan to evaluate the dependence of
+transformational efficiency (defined as the number of
+transformations per gram of extracellular DNA) of
+plasmids that transfer antibiotic resistance to a particular
+strain of Escherichia coli that is not resistant on that factor.
+71. Prior to the work of Hershey and Chase, scientists
+thought that inheritance involved “nucleoproteins.” The
+amount of information to be transmitt

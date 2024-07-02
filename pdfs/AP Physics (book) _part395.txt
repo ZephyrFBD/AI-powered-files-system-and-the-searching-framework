@@ -1,0 +1,14 @@
+ is kinetic friction, when one object
+slides over another. There is also static friction, which refers to a force parallel to
+the two surfaces that can arise even when they are not sliding. Suppose an object
+such as a desk is resting on a horizontal floor. If no horizontal force is exerted on
+the desk, there also is no friction force. But now suppose you try to push the 
+desk, and it doesn’t move. You are exerting a horizontal force, but the desk isn’t
+moving, so there must be another force on the desk keeping it from moving (the
+net force is zero on an object at rest). This is the force of static friction exerted
+by the floor on the desk. If you push with a greater force without moving the desk,
+the force of static friction also has increased. If you push hard enough, the desk will
+eventually start to move, and kinetic friction takes over. At this point, you have
+exceeded the maximum force of static friction, which is given by  
+where 
+is the coefficient of static friction (Table 4–2)

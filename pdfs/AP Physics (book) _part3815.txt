@@ -1,0 +1,22 @@
+n; this
+equation is true, however, only when 
+Determining what value (or 
+values) the unknown can have to satisfy the equation is called solving the
+equation. To solve an equation, the following rule can be used:
+An equation will remain true if any operation performed on one side is also
+performed on the other side. For example: (a) addition or subtraction of a
+number or symbol; (b) multiplication or division by a number or symbol;
+(c) raising each side of the equation to the same power, or taking the same
+root (such as square root).
+Solve for x in the equation
+APPROACH We perform the same operations on both sides of the equation 
+to isolate x as the only variable on the left side of the equals sign.
+SOLUTION We first subtract 7 from both sides:
+or
+Then we divide both sides by 2 to get
+or, carrying out the divisions,
+and this solves the equation.
+(a) Solve the equation
+for the unknown a in terms of b and c. (b) Solve for a assuming that
+and
+APPROACH We perform operations to isolate a a

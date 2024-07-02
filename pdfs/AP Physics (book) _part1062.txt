@@ -1,0 +1,39 @@
+= capillaries
+v
+v
+FIGURE 10–20 Human circulatory
+system.
+Point 1
+Point 2
+A2
+A1
+v1
+l2
+FIGURE 10–21 Example 10–13.
+Δl2
+Δl1
+A2
+A1
+  1
+  2
+v
+B
+v
+B
+FIGURE 10–19 (Repeated.)
+Fluid flow through a pipe of varying
+diameter.
+Blood flow. In humans, blood flows from
+the heart into the aorta, from which it passes into the major arteries, Fig. 10–20.
+These branch into the small arteries (arterioles), which in turn branch into myriads
+of tiny capillaries. The blood returns to the heart via the veins. The radius of the
+aorta is about 1.2 cm, and the blood passing through it has a speed of about
+A typical capillary has a radius of about 
+and blood flows
+through it at a speed of about 
+Estimate the number of capillaries
+that are in the body.
+APPROACH We assume the density of blood doesn’t vary significantly from the
+aorta to the capillaries. By the equation of continuity, the volume flow rate in
+the aorta must equal the volume flow rate through all the capillaries. The total
+area of all the capillaries 

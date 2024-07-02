@@ -1,0 +1,35 @@
+able:
+N21g2 +  3 H21g2 i 2 NH31g2
+Before reaction:
+    3.0 mol
+    6.0 mol
+        0 mol
+Change (reaction):
+-2.0 mol
+-6.0 mol
++4.0 mol
+After reaction:
+    1.0 mol
+       0 mol
+    4.0 mol
+Continued
+108 
+CHAPTER 3 Chemical Reactions and Reaction Stoichiometry
+theoretical and Percent Yields
+The quantity of product calculated to form when all of a limiting reactant is consumed 
+is called the theoretical yield. The amount of product actually obtained, called the 
+actual yield, is almost always less than (and can never be greater than) the theoretical 
+yield. There are many reasons for this difference. Some of the reactants may not react, for 
+example, or they may react in a way different from that desired (side reactions). In addi-
+tion, it is not always possible to recover all of the product from the reaction  
+mixture. The 
+percent yield of a reaction relates actual and theoretical yields:
+ 
+Percent yield =
+actual yield
+theoretical yield * 100%  
+[3.14] 
+ 
+ 
+▶Practice Exercise 1
+Molten g

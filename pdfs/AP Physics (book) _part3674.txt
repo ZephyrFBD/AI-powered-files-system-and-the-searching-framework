@@ -1,0 +1,19 @@
+are stars in a galaxy. See Fig. 33–5.
+Many galaxies tend to be grouped in galaxy clusters held together by their
+mutual gravitational attraction. There may be anywhere from a few dozen to
+many thousands of galaxies in each cluster. Furthermore, clusters themselves
+seem to be organized into even larger aggregates: clusters of clusters of galaxies,
+or superclusters. The farthest detectable galaxies are more than 
+distant.
+See Table 33–1 (top of next page).
+1010 ly
+1011
+950
+CHAPTER 33
+Astrophysics and Cosmology
+†
+refers to the diameter of the curved objective mirror. The bigger the mirror, the
+more light it collects (greater brightness) and the less diffraction there is (better resolution), so more and
+fainter stars can be seen. See Chapter 25. Until recently, photographic films or plates were used to take
+long time exposures. Now large solid-state CCD or CMOS sensors (Section 25–1) are available con-
+taining hundreds of millions of pixels (compared to 10 million pixels in a good-quality 

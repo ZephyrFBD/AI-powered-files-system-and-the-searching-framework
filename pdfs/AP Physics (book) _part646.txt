@@ -1,0 +1,28 @@
+useful work. An important characteristic of
+all engines is their overall efficiency e, defined as the ratio of the useful power
+output of the engine,
+to the power input,
+(provided by burning of gaso-
+line, for example):
+The efficiency is always less than 1.0 because no engine can create energy, and 
+no engine can even transform energy from one form to another without some
+energy going to friction, thermal energy, and other nonuseful forms of energy.
+For example, an automobile engine converts chemical energy released in the burn-
+ing of gasoline into mechanical energy that moves the pistons and eventually the
+wheels. But nearly 85% of the input energy is “wasted” as thermal energy that
+goes into the cooling system or out the exhaust pipe, plus friction in the moving
+parts. Thus car engines are roughly only about 15% efficient. We will discuss 
+efficiency in more detail in Chapter 15.
+e = P
+out
+P
+in
+.
+P
+in
+P
+out ,
+Questions
+161
+Work is done on an object by a force when the object moves
+t

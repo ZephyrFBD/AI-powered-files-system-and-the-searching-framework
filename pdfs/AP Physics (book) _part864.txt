@@ -1,0 +1,36 @@
+r.
+One final note: the motion of particles and objects in rotating frames of 
+reference is extremely interesting, though a bit advanced and so is treated at the
+end of the book in Appendix C.
+V
+B
+(a)
+(b)
+FIGURE 8;30 (Repeated.)
+(a) Rotating wheel. (b) Right-hand
+rule for obtaining the direction of V
+B .
+FIGURE 8;31 (a) A person standing 
+on a circular platform, initially at 
+rest, begins walking along the edge at
+speed v. The platform, mounted on
+nearly friction-free bearings, begins
+rotating in the opposite direction,
+so that (b) the total angular momentum
+remains zero (
+).
+L
+B
+platform = –L
+B
+person
+Summary
+219
+When a rigid object rotates about a fixed axis, each point of the
+object moves in a circular path. Lines drawn perpendicularly
+from the rotation axis to various points in the object all sweep
+out the same angle in any given time interval.
+Angles are conventionally measured in radians, where one
+radian is the angle subtended by an arc whose length is equal
+to the radius, or
+Ang

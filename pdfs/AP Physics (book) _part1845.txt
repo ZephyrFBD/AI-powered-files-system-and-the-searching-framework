@@ -1,0 +1,46 @@
+eld. Let us consider the case of a uniform electric field, such as
+that between the parallel plates of Fig. 17–1 whose difference of potential is 
+The work done by the electric field to move a positive charge q from point a to
+point b is equal to the negative of the change in potential energy (Eq. 17–2b), so
+We can also write the work done as the force times distance, where the force on q is
+so
+where d is the distance (parallel to the field lines) between points a and b. We
+now set these two expressions for W equal and find
+or
+[uniform ] (17;4a)
+If we solve for E, we find
+[uniform ] (17;4b)
+From Eq. 17–4b we see that the units for electric field can be written as volts 
+per meter 
+, as well as newtons per coulomb (
+, from
+). These
+are equivalent because
+The minus
+sign in Eq. 17–4b tells us that 
+points in the direction of decreasing potential V.
+E
+B
+1 NC = 1 NmCm = 1 JCm = 1 Vm.
+E = Fq
+NC
+(Vm)
+E
+B
+E =
+– V
+ba
+d
+.
+E
+B
+V
+ba =
+–Ed.
+qV
+ba = –qEd,
+W = Fd = qEd,
+F = qE,
+W =
+–qAV
+b -

@@ -1,0 +1,32 @@
+
+3, 5, 4, 1, 6, 2
+c.
+3, 4, 5, 1, 6, 2
+d.
+3, 5, 4, 6, 1, 2
+41. The RAS protein is a G-protein connected with the
+response to RTKs that initiates the MAPK kinase cascade
+when GDP is released and GTP uploaded. Mutations in the
+RAS protein which interfere with its GTPase activity are
+common in cancer. Evaluate the connection between the
+inability of RAS to hydrolyze GTP and uncontrolled cell
+proliferation.
+a.
+RAS, when bound to GTP, becomes permanently
+inactive even in the presence of the ligand, and
+no longer regulates cell division.
+b.
+RAS, when bound to GTP, becomes permanently
+active even in the absence of the ligand, and no
+longer regulates cell division.
+c.
+RAS, when bound to GTP, forms a dimer after
+binding to the ligand, and causes uncontrolled
+division, but it remains inactive when the ligand
+is absent.
+d.
+RAS, when bound to GTP, does not form a
+dimer after binding to the ligand but stimulates
+downstream signaling to occur and causes
+uncontrolled cell division.
+42. Common medicati

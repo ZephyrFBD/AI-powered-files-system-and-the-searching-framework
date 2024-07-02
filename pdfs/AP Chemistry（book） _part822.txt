@@ -1,0 +1,31 @@
+cts
+Internal
+energy, E
+ 
+5.4 The contents of the closed box in each of the following il-
+lustrations represent a system, and the arrows show the 
+changes to the system during some process. The lengths 
+of the arrows represent the relative magnitudes of q and w. 
+(a) Which of these processes is endothermic? (b) For which 
+of these processes, if any, is ∆E 6 0? (c) For which process, 
+if any, does the system experience a net gain in internal en-
+ergy? [Section 5.2]
+q
+w
+(i)
+w
+(ii)
+q
+w
+(iii)
+ 
+5.5  Imagine that you are climbing a mountain. (a) Is the 
+distance you travel to the top a state function? (b) Is the 
+change in elevation between your base camp and the peak 
+a state function? [Section 5.2]
+ 
+5.6  The diagram shows four states of a system, each with dif-
+ferent internal energy, E. (a) Which of the states of the sys-
+tem has the greatest internal energy? (b) In terms of the ∆E 
+values, write two expressions for the difference in internal 
+energy between State A and State B. (c) Writ

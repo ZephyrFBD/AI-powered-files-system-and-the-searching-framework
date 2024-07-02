@@ -1,0 +1,28 @@
+2 that the arc length 
+is nearly the same length as the chord
+indicated by the horizontal
+straight dashed line, if
+is small. For angles less than 15°, the difference between
+(in radians) and 
+is less than 1%—see Table 11–1. Thus, to a very good
+approximation for small angles,
+Substituting
+or
+we have
+Thus, for small displacements, the motion can be modeled as being approximately
+simple harmonic,because this approximate equation fits Hooke’s law,
+where
+in place of x we have arc length s. The effective force constant is 
+If we
+substitute 
+into Eq. 11–6a, we obtain the period of a simple pendulum:
+or
+(11;11a)
+The frequency is
+so
+(11;11b)
+The mass m of the pendulum bob does not appear in these formulas for T and f.
+Thus we have the surprising result that the period and frequency of a simple pen-
+dulum do not depend on the mass of the pendulum bob. You may have noticed
+this if you pushed a small child and then a large one on the same swing.
+We also see from Eq. 11–11a that the period of a pe

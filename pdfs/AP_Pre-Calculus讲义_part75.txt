@@ -1,0 +1,37 @@
+
+ 
+ 
+ 
+Exercise 1 
+ 
+Exercise 2 
+ 
+ 
+ 
+111 
+3.2 Trigonometric Functions 
+3.2.1 Trigonometric Functions 
+A function is a rule that assigns to each real number another real number.  
+In this section we use properties of the unit circle to define the trigonometric functions. 
+We know that to find the terminal point P(x, y) for a given real number t, we move a 
+distance |t| along the unit circle, starting at the point (1, 0). 
+We move in a counterclockwise direction if t is positive and in a clockwise direction if t is 
+negative. 
+ 
+DEFINITION  
+Let t be any real number and let P (x, y) be the terminal point on the unit circle determined 
+by t. We define 
+ 
+Because the trigonometric functions can be defined in terms of the unit circle, they are 
+sometimes called the circular functions. 
+ 
+Example 1 
+Find the six trigonometric functions of each given real number t. 
+ 
+ 
+ 
+ 
+ 
+112 
+SPECIAL VALUES OF THE TRIGONOMETRIC FUNCTIONS 
+The following values of the trigonometric functions are obtained

@@ -1,0 +1,42 @@
+A. Then we use simple circuit
+analysis and Ohm’s law (Chapters 18 and 19).
+SOLUTION The voltage drop across the resistor is
+so
+R = VI = (3.3 V)A1.5 * 10–2 AB = 220 .
+4.0 V - 0.7 V = 3.3 V,
+EXAMPLE 29;6
+(±)
+846
+CHAPTER 29
+Molecules and Solids
+†At room temperature, the reverse current is a few pA in Si; but it increases rapidly with temperature,
+and may render a diode ineffective above 200°C.
+0.2
+0.6
+0.8
+0.4
+0
+12.0
+Reverse
+bias
+0.6
+0.2
+0.4
+0.8
+1.2 1.0
+10
+20
+30
+I (mA)
+Forward
+bias
+V (volts)
+FIGURE 29–30 Current through a
+silicon pn diode as a function of
+applied voltage.
+If the voltage across a diode connected in reverse bias is increased greatly,
+breakdown occurs. The electric field across the junction becomes so large that
+ionization of atoms results. The electrons thus pulled off their atoms contribute
+to a larger and larger current as breakdown continues. The voltage remains con-
+stant over a wide range of currents. This is shown on the far left in Fig. 29–30.
+This property 

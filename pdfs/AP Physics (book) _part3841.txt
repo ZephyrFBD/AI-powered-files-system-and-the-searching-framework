@@ -1,0 +1,13 @@
+ce acting on it. To observers on the ground, this is all very 
+clear: the ball has an initial velocity when it is released (because the platform is
+moving), and it simply continues moving in a straight-line path as shown in 
+Fig. C–1b, in accordance with Newton’s first law.
+But what shall we do about the frame of reference of the observers on the
+rotating platform? Newton’s first law, the law of inertia, does not hold in this
+rotating frame of reference since the ball starts moving with no net force on it.
+For this reason, such a frame is called a noninertial reference frame. An inertial
+reference frame (as discussed in Chapter 4) is one in which the law of inertia—
+Newton’s first law—does hold, and so do Newton’s second and third laws. In a
+noninertial reference frame, such as our rotating platform, Newton’s second law
+also does not hold. For instance in the situation described above, there is no net
+force on the ball; yet, with respect to the rotating platform, the ball accelerates.

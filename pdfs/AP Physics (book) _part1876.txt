@@ -1,0 +1,16 @@
+ge on the opposite side, as shown in Fig. 17–19c.
+Some of the electric field lines, then, do not pass through the dielectric but
+instead end on charges induced on the surface as shown in Fig. 17–19c. Hence 
+the electric field within the dielectric is less than in air. That is, the electric field 
+in the space between the capacitor plates, assumed filled by the dielectric, has
+been reduced by some factor K. The voltage across the capacitor is reduced 
+by the same factor K because
+(Eq.17–4) and hence, by Eq.17–7,
+the capacitance C must increase by that same factor K to keep Q constant.
+17–9 Storage of Electric Energy
+A charged capacitor stores electric energy by 
+The
+energy stored in a capacitor will be equal to the work done to charge it. The net
+effect of charging a capacitor is to remove charge from one plate and add it to the
+other plate. This is what a battery does when it is connected to a capacitor.
+A capacitor does not become charged instantly. It takes some time, often very litt

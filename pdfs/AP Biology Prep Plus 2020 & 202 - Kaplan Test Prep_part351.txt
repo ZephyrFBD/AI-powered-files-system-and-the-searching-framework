@@ -1,0 +1,15 @@
+ negative change in G (ΔG < 0) and will occur spontaneously.
+If products have more free energy than reactants, the reaction is an uphill
+one, needing a great deal of supplied energy to occur. Free energy is a
+measure of the potential energy of the molecules in a reaction. Those
+starting out with high potential energy, or higher G, are more likely to
+react and lower their G through the reaction than vice versa. What that
+means is that reactions having a ΔG < 0 are deemed favorable. Keep in
+mind that most biosynthetic reactions have ΔG > 0 and will not occur
+spontaneously without the help of both enzymes and ATP.
+Even though thermodynamics and ΔG alone may predict that a reaction
+is favorable or can occur spontaneously, the kinetics, or rate, of the
+reaction may be so slow that these reactions are not feasible for living
+systems. Sure, a hamburger will break down eventually if exposed to
+enough acid in your stomach, but without digestive enzymes to help
+speed up this breakdown, the hambu

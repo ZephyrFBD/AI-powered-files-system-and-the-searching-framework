@@ -1,0 +1,22 @@
+nsport. 
+The collaborative optimization scheduling model has two objective functions: 
+Minimizing the total cost of delivery (f1); Minimizing the total delivery time f2 
+Object1: Minimize the total cost of delivery (f1): 
+   The cost can be divided into 2 parts, one contains the cost of delivering vaccine 
+and drugs from treatment center to each epidemic area, and the other part is the cost 
+of delivering vaccine and drugs between epidemic areas. The two parts of cost are 
+respectively as follows: 
+       TC1j = C1j ∗⌈
+w∗y1j
+c1 ⌉                                         （1）
+ 
+      TC2ij = C2ij ∗⌈
+w∗y2ij
+c2 ⌉                                        （2）
+ 
+⌈x⌉ means to round up the value to an integer, e.g.⌈3.2⌉=4 
+Function (1) expresses the cost of delivering vaccine and drugs from treatment 
+ center to epidemic area Aj (j=1,2, …, 14) 
+Function (2) means the cost of delivering vaccine and drugs between epidemic 
+areas Ai and Aj ( i, j=1,2, …, 14, i≠j) 
+Object 2：Minimize the total delivery

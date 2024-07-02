@@ -1,0 +1,79 @@
+.0 Ω
+FIGURE 19–53
+Problem 25.
+R
+R
+R
+R
+a
+b
+1.5 V
+1.5 V
+FIGURE 19–55
+Problem 27.
+28. (II) Determine the magnitudes and directions of the
+currents in each resistor shown in Fig. 19–56. The batteries
+have emfs of
+and
+and the resistors
+have values of 
+and 
+(a) Ignore internal 
+resistance of the batteries. (b) Assume
+each battery has internal resistance
+r = 1.0 .
+R3 = 35 .
+R1 = 25 , R2 = 68 ,
+e2 = 12.0 V
+e1 = 9.0 V
+h
+a
+b
+c
+d
+g
+f
+e
+34 Ω
+47 Ω
+18 Ω
+r =
+1 Ω
+e1 =
+85 V
+r =
+1 Ω
+e2 =
+45 V
+I3
+I1
+I2
+FIGURE 19–57
+Problem 29.
+31. (II) Determine the magnitudes
+and directions of the currents
+through 
+and 
+in Fig. 19–59.
+R2
+R1
+120 Ω
+74 Ω
+25 Ω
+56 Ω
+110 Ω
+5.8 V
+3.0 V
+FIGURE 19–58
+Problem 30.
+30. (II) Calculate the magnitude and direction of the currents
+in each resistor of Fig. 19–58.
+R2 = 18 Ω
+R1 = 22 Ω
+V1 = 9.0 V
+V3 = 6.0 V
+FIGURE 19–59
+Problems 31 and 32.
+32. (II) Repeat Problem 31, now assuming that each battery
+has an internal resistance
+33. (III) (a) A network of five equal resistors R is connected

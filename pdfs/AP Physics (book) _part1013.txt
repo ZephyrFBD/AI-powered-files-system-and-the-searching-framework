@@ -1,0 +1,49 @@
+used in its design to avoid fracture.
+78. The mobile in Fig. 9–90 is in equilibrium. Object B has mass
+of 0.748 kg. Determine the masses of objects A, C, and D.
+(Neglect the weights of the crossbars.)
+5 * 105 Nm2.
+55 ms,
+0.30 m2
+FIGURE 9–91
+Problem 79.
+m
+M
+FW
+3.0 m
+2.1 m
+2.8 m
+4.0 m
+g
+B
+FC
+B
+FCy
+B
+FCx
+B
+B
+g
+B
+v = 0
+v = ?
+y = 0
+Search and Learn
+259
+3.0 cm
+2.0 cm
+32.0 cm
+FIGURE 9–92
+Problem 80.
+80. When a wood shelf of mass 6.6 kg is fastened inside a slot in a
+vertical support as shown in Fig. 9–92, the support exerts a
+torque on the shelf. (a) Draw a free-body diagram for the
+shelf, assuming three vertical forces (two exerted by the
+support slot—explain why). Then calculate (b) the magni-
+tudes of the three forces and (c) the torque exerted by the
+support (about the left end of the shelf).
+81. A cubic crate of side
+is top-heavy: its CG is
+18 cm above its true center. How steep an incline can the
+crate rest on without tipping over? [Hint: The normal force
+would act at the lowest corne

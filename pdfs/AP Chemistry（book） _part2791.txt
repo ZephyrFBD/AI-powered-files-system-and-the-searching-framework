@@ -1,0 +1,18 @@
+
+A solution contains 1.0 * 10-2 M Ag+1aq2 and 2.0 * 10-2 M Pb2 +1aq2. When Cl-1aq2 is added, both AgCl 
+1Ksp = 1.8 * 10-102 and PbCl2 1Ksp = 1.7 * 10-52 can precipitate. What concentration of Cl-1aq2 is necessary to begin the 
+precipitation of each salt? Which salt precipitates first?
+Sample Exercise 17.17 
+Selective Precipitation
+SOLUTION
+Analyze We are asked to determine the concentration of Cl-1aq2 
+necessary to begin the precipitation from a solution containing 
+Ag+1aq2 and Pb2 +1aq2 ions, and to predict which metal chloride 
+will begin to precipitate first.
+Plan We are given Ksp values for the two precipitates. Using these 
+and the metal ion concentrations, we can calculate what Cl-1aq2 
+concentration is necessary to precipitate each salt. The salt requir-
+ing the lower Cl-1aq2 ion concentration precipitates first.
+Solve For AgCl we have Ksp = 3Ag+43Cl-4 = 1.8 * 10-10.
+Because 3Ag+4 = 1.0 * 10-2 M, the greatest concentration of 
+Cl-1aq2 that can be present without causing precipit

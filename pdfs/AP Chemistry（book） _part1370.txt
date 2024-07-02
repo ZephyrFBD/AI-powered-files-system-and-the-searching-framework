@@ -1,0 +1,26 @@
+oms in ABn molecules.
+Which of these molecular shapes do you expect for the SF6 
+molecule?
+AB2 linear
+AB3 trigonal planar
+AB5 trigonal bipyramidal
+AB6 octahedral
+AB4 tetrahedral
+1808
+908
+908
+1208
+908
+1208
+109.58
+342 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+AB5 can be thought of as a trigonal planar AB3 arrangement with two additional atoms, 
+one above and one below the equilateral triangle. The octahedral shape for AB6 has all six 
+B atoms at the same distance from atom A with 90° B¬A¬B angles between all neigh-
+boring B atoms. Its symmetric shape (and its name) is derived from the octahedron, with 
+eight faces, all of which are equilateral triangles.
+You may have noticed that some of the shapes we have already discussed are not 
+among the five shapes in Figure 9.3. For example, in Figure 9.2, neither the bent shape 
+of the SO2 molecule nor the trigonal pyramidal shape of the NF3 molecule is among 
+the shapes in Figure 9.3. However, as we soon will see, we can derive addition

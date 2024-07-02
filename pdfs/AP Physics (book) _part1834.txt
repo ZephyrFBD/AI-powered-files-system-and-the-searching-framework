@@ -1,0 +1,17 @@
+ic field 
+In the case illustrated, the potential
+energy decreases (
+is negative); and as the charged particle accelerates from
+point a to point b in Fig. 17–1, the particle’s kinetic energy KE increases—by an
+equal amount. In accord with the conservation of energy, electric potential energy
+is transformed into kinetic energy, and the total energy is conserved. Note that
+the positive charge q has its greatest potential energy at point a, near the positive
+plate.† The reverse is true for a negative charge: its potential energy is greatest
+near the negative plate.
+Electric Potential and Potential Difference
+In Chapter 16, we found it useful to define the electric field as the force per unit
+charge. Similarly, it is useful to define the electric potential (or simply the
+potential when “electric” is understood) as the electric potential energy per unit
+charge. Electric potential is given the symbol V. If a positive test charge q in an
+electric field has electric potential energy 
+at some po

@@ -1,0 +1,14 @@
+ral wire, normally
+small; but if connections are poor or corroded, or the plug is loose, the resistance
+could be large enough that you might feel that voltage if you touched the neutral
+wire some distance from its grounding point.
+Some electrical devices come with only two wires, and the plug’s two prongs
+are of different widths; the plug can be inserted only one way into the outlet so
+that the intended neutral (wider prong) in the device is connected to neutral in
+the wiring (Fig. 19–28). For example, the screw threads of a lightbulb are meant
+to be connected to neutral (and the base contact to hot), to avoid shocks when
+changing a bulb in a possibly protruding socket. Devices with 2-prong plugs do
+not have their cases grounded; they are supposed to have double electric insulation
+(or have a nonmetal case). Take extra care anyway.
+The insulation on a wire may be color coded. Hand-held meters (Section 19–8)
+may have red (hot) and black (ground) lead wires. But in a U.S. house, the hot

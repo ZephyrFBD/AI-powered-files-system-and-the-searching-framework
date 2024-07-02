@@ -1,0 +1,12 @@
+id orbitals is greater than the amount returned by forming bonds with the six 
+fluorine atoms. Theoretical calculations suggest that the sulfur 3d orbitals do not partici-
+pate to a significant degree in the bonding between sulfur and the six fluorine atoms, and 
+that it would not be valid to describe the bonding in SF6 in terms of six hybrid orbitals. 
+The more detailed bonding model needed to discuss the bonding in SF6 and other hyper-
+valent molecules requires a treatment beyond the scope of a general chemistry text. For-
+tunately, the VSEPR model, which explains the geometrical properties of such molecules 
+in terms of electrostatic repulsions, does a good job of predicting their geometries.
+This discussion reminds us that models in science are not reality but rather are our 
+attempts to describe aspects of reality that we have been able to measure, such as bond 
+distances, bond energies, molecular geometries, and so on. A model may work well 
+up to a certain point but not beyond i

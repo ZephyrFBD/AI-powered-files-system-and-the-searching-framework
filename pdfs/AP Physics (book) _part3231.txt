@@ -1,0 +1,64 @@
+the
+decreases as the atoms approach, because the electrons concentrate between
+the two nuclei (Fig. 29–2), so attraction occurs. However, at very short distances,
+the electrons would be “squeezed out”—there is no room for them between 
+the two nuclei. Without the electrons between them, each nucleus would feel 
+a repulsive force due to the other, so the curve rises as r decreases further.
+pe
+H2 .
+(r –1r)
+q1 q2
+9.0 * 109 Nm2C2.
+k A= 14p 0B
+pe = k q1 q2
+r
+,
+q2 ,
+q1
+*
+±1e
+±4e.
+A1s22s22p4B,
+H2O
+832
+CHAPTER 29
+Molecules and Solids
+H ()
+O ()
+H ()
+1e
+8e
+1e
+0
+Repulsive force
+(two like charges)
+r
+(a)
+Attractive force
+(unlike charges)
+r
+(b)
+0
+pe
+pe
+r
+0
+This part
+corresponds
+to repulsive force
+This part corresponds
+to attractive force
+Lowest energy state
+pe
+r0
+Binding
+energy
+FIGURE 29–6 The water molecule
+is polar.
+H2O
+FIGURE 29–7 Potential energy 
+as a function of separation r for two
+point charges of (a) like sign and
+(b) opposite sign.
+pe
+FIGURE 29–8 Potential-energy diagram for the

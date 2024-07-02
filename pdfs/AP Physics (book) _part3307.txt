@@ -1,0 +1,17 @@
+The energy level of impurity atoms lies
+slightly below the conduction band in an n-type semiconduc-
+tor, and acts as a donor from which electrons readily pass into
+the conduction band. The energy level of impurity atoms in a
+p-type semiconductor lies slightly above the valence band and
+acts as an acceptor level, since electrons from the valence band
+easily reach it, leaving holes behind to act as charge carriers.
+A semiconductor diode consists of a pn junction and allows
+current to flow in one direction only; pn junction diodes are
+used as rectifiers to change ac to dc, as photovoltaic cells to
+produce electricity from sunlight, and as lasers. Light-emitting
+diodes (LED) use compound semiconductors which can emit
+light when a forward-bias voltage is applied; uses include read-
+outs, infrared remote controls, visible lighting (flashlights,
+street lights), and very large TV screens. LEDs using organic
+molecules or polymers (OLED) are used as screens on cell
+phones and other displays. Com

@@ -1,0 +1,19 @@
+eaches a vertical height of only 
+on the
+second hill, where it slows to a momentary stop, Fig. 6–27. It traveled a total
+distance of 400 m. Determine the thermal energy produced and estimate the
+average friction force (assume it is roughly constant) on the car, whose mass is
+1000 kg.
+APPROACH We explicitly follow the Problem Solving Strategy above.
+SOLUTION
+1. Draw a picture. See Fig. 6–27.
+2. The system. The system is the roller-coaster car and the Earth (which exerts
+the gravitational force). The forces acting on the car are gravity and friction.
+(The normal force also acts on the car, but does no work, so it does not affect
+the energy.) Gravity is accounted for as potential energy, and friction as 
+a term 
+3. Choose initial and final positions.We take point 1 to be the instant when the
+car started coasting (at the top of the first hill), and point 2 to be the instant 
+it stopped at a height of 
+up the second hill.
+4. Choose a reference frame. We choose the lowest point in the motion

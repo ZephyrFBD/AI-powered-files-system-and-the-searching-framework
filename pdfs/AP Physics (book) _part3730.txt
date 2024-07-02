@@ -1,0 +1,37 @@
+ical redshift), not the Doppler effect. Our
+Chapter-Opening Photograph, page 947, shows two very distant high z galaxies,
+, which are also shown enlarged.
+Scale Factor (advanced)
+The expansion of space can be described as a scaling of the typical distance between
+two points or objects in the universe. If two distant galaxies are a distance 
+apart at some initial time, then a time later they will be separated by a greater
+distance 
+The scale factor is the same as for light, expressed in Eq. 33–5a:
+or
+Thus, for example, if a galaxy has 
+then the scale factor is now
+times larger than when the light was emitted from that galaxy.
+That is, the average distance between galaxies has become 4 times larger. Thus
+the factor by which the wavelength has increased since it was emitted tells us by
+what factor the universe (or the typical distance between objects) has increased.
+(1 + 3) = 4
+z = 3,
+d(t)
+d0
+= 1 + z.
+d(t) - d0
+d0
+=
+¢l
+l
+= z
+d(t).
+t
+d0
+*
+z = 8.8 and 11.9
+[v V c]
+z = lobs - lrest
+lrest
+=
+¢

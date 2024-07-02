@@ -1,0 +1,20 @@
+de any number of interacting
+objects. To show this, we let in Eq.7–2
+represent the total momen-
+tum of a system—that is, the vector sum of the momenta of all objects in the system.
+(For our two-object system above,
+) If the net force 
+on the
+system is zero [as it was above for our two-object system,
+], then
+from Eq. 7–2,
+so the total momentum doesn’t change. The
+general statement of the law of conservation of momentum is
+The total momentum of an isolated system of objects remains constant.
+By a system, we simply mean a set of objects that we choose, and which may
+interact with each other. An isolated system is one in which the only (significant)
+forces are those between the objects in the system. The sum of all these “internal”
+forces within the system will be zero because of Newton’s third law. If there are
+external forces—by which we mean forces exerted by objects outside the system—
+and they don’t add up to zero, then the total momentum of the system won’t be
+conserved. However, if 

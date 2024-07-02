@@ -1,0 +1,33 @@
+URE 18–10 Flashlight
+(Example 18–3). Note how the circuit
+is completed along the side strip.
+I
+V
+1
+R
+I
+0
+slope
+0
+I
+V
+V
+=
+=
+(a)
+(b)
+Δ
+Δ
+FIGURE 18–9 Graphs of current vs.
+voltage (a) for a metal conductor
+which obeys Ohm’s law, and (b) for
+a nonohmic device, in this case a
+semiconductor diode.
+†A useful analogy compares the flow of electric charge in a wire to the flow of water in a river, or in a
+pipe, acted on by gravity. If the river (or pipe) is nearly level, the flow rate is small. But if one end is
+somewhat higher than the other, the water flow rate—or current—is greater. The greater the differ-
+ence in height, the swifter the current. We saw in Chapter 17 that electric potential is analogous to the
+height of a cliff for gravity. Just as an increase in height can cause a greater flow of water, so a greater
+electric potential difference, or voltage, causes a greater electric current. Resistance in a wire is analogous
+to rocks in a river that retard water flow.
+In many circuits, part

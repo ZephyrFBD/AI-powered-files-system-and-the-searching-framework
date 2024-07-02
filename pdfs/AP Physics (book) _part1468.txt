@@ -1,0 +1,31 @@
+Fahrenheit degrees. Kelvins are
+related to °C by
+When two objects at different temperatures are placed in
+contact, they eventually reach the same temperature and are
+then said to be in thermal equilibrium.
+The change in length,
+of a solid, when its temperature
+changes by an amount 
+is directly proportional to the 
+temperature change and to its original length 
+That is,
+(13–1a)
+where 
+is the coefficient of linear expansion.
+The change in volume of most solids, liquids, and gases is
+proportional to the temperature change and to the original
+volume
+(13–2)
+The coefficient of volume expansion,
+is approximately equal
+to 
+for uniform solids.
+Water is unusual because, unlike most materials whose
+volume increases with temperature, its volume in the range from
+0°C to 4°C actually decreases as the temperature increases.
+The ideal gas law, or equation of state for an ideal gas,
+relates the pressure P, volume V, and temperature T (in kelvins)
+of n moles of gas by the equation
+(13–3)
+where
+for all g

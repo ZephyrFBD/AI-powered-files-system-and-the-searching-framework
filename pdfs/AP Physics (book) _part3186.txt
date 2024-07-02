@@ -1,0 +1,39 @@
+tion on a
+CD or DVD is a series of pits and spaces representing 0s and 1s (or “off” and “on”)
+of a binary code (Section 17–10) that is decoded electronically before being sent
+to the audio or video system. The laser of a CD player starts reading at the inside
+of the disc which rotates at about 500 rpm at the start. As the disc rotates, the
+laser follows the spiral track (Fig. 28–21b), and as it moves outward the disc must
+slow down because each successive circumference 
+is slightly longer
+as r increases; at the outer edge, the disc is rotating about 200 rpm. A 1-hour CD
+has a track roughly 5 km long; the track width is about 
+and
+the distance between pits is about 800 nm. DVDs contain much more information.
+1600 nm (= 1.6 mm)
+(C = 2pr)
+*
+CO2
+Eœ
+2
+Eœ
+3
+Eœ
+2
+Eœ
+3
+Eœ
+3
+E1
+822
+CHAPTER 28
+C A U T I O N
+Laser is not an energy source
+P H Y S I C S  A P P L I E D
+DVD and CD players,
+bar codes
+FIGURE 28–20 Energy levels for
+He and Ne. He is excited in the
+electric discharge to the 
+state.
+This 

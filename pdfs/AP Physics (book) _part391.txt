@@ -1,0 +1,14 @@
+iction
+Until now we have ignored friction, but it must be taken into account in most
+practical situations. Friction exists between two solid surfaces because even the
+smoothest looking surface is quite rough on a microscopic scale, Fig. 4–26. When
+we try to slide an object across a surface, these microscopic bumps impede the
+motion. Exactly what is happening at the microscopic level is not yet fully under-
+stood. It is thought that the atoms on a bump of one surface may come so close to
+the atoms of the other surface that attractive electric forces between the atoms
+could “bond” as a tiny weld between the two surfaces. Sliding an object across a
+surface is often jerky, perhaps due to the making and breaking of these bonds.
+Even when a round object rolls across a surface, there is still some friction, called
+rolling friction, although it is generally much less than when an object slides across
+a surface. We focus now on sliding friction, which is usually called kinetic friction
+(kinetic

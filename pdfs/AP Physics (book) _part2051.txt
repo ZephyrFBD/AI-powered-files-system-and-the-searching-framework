@@ -1,0 +1,15 @@
+e. The symbol 
+is usually used for emf (don’t confuse 
+with E for electric field), and its unit is volts.
+A battery is not a source of constant current—the current out of a battery
+varies according to the resistance in the circuit. A battery is, however, a nearly
+constant voltage source, but not perfectly constant as we now discuss. For example,
+if you start a car with the headlights on, you may notice the headlights dim. This
+happens because the starter draws a large current, and the battery voltage drops below
+its rated emf as a result. The voltage drop occurs because the chemical reactions in
+a battery cannot supply charge fast enough to maintain the full emf. For one thing,
+charge must move (within the electrolyte) between the electrodes of the battery,
+and there is always some hindrance to completely free flow. Thus, a battery itself
+has some resistance, which is called its internal resistance; it is usually designated r.
+A real battery is modeled as if it were a perfect emf 
+in s

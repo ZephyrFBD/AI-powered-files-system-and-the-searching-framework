@@ -1,0 +1,46 @@
+.
+QL
+e = 1 - QL
+QH
+.
+e =
+W
+QH
+= QH - QL
+QH
+W = QH - QL,
+QH = W + QL .
+AQLB:
+QH
+QH
+e =
+W
+QH
+.
+QH
+422
+CHAPTER 15
+The Laws of Thermodynamics
+Car efficiency. An automobile engine has an efficiency of
+20% and produces an average of 23,000 J of mechanical work per second during
+operation. (a) How much heat input is required, and (b) how much heat is
+discharged as waste heat from this engine, per second?
+APPROACH We want to find the heat input 
+as well as the heat output 
+given
+each second and an efficiency
+We can use the def-
+inition of efficiency, Eq. 15–4 in its various forms, to find first 
+and then 
+SOLUTION (a) From Eq. 15–4a,
+we solve for 
+The engine requires
+of heat input.
+(b) Now we use Eq. 15–4b
+and solve for 
+so
+The engine discharges heat to the environment at a rate of
+NOTE Of the 115 kJ that enters the engine per second, only 23 kJ (20%) does
+useful work whereas 92 kJ (80%) is wasted as heat output.
+NOTE The problem was stated in terms of energy per unit time. We could just
+as we

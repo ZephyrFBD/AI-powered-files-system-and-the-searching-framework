@@ -1,0 +1,11 @@
+e the cell cycle. The
+loss of control begins with a change in the DNA sequence of a gene that codes for one of the regulatory molecules. Faulty
+instructions lead to a protein that does not function as it should. Any disruption of the monitoring system can allow other
+mistakes to be passed on to the daughter cells. Each successive cell division will give rise to daughter cells with even more
+accumulated damage. Eventually, all checkpoints become nonfunctional, and rapidly reproducing cells crowd out normal
+cells, resulting in a tumor or leukemia (blood cancer).
+10.5 Prokaryotic Cell Division
+In both prokaryotic and eukaryotic cell division, the genomic DNA is replicated and then each copy is allocated into a
+daughter cell. In addition, the cytoplasmic contents are divided evenly and distributed to the new cells. However, there are
+many differences between prokaryotic and eukaryotic cell division. Bacteria have a single, circular DNA chromosome but
+no nucleus. Therefore, mitosis is not n

@@ -1,0 +1,26 @@
+ure gases—those that consist of only one sub-
+stance in the gaseous state. How do we deal with mixtures of two or more different gases? 
+While studying the properties of air, John Dalton 
+ (Section 2.1) made an important 
+observation:
+The total pressure of a mixture of gases equals the sum of the pressures that  
+each would exert if it were present alone.
+The pressure exerted by a particular component of a mixture of gases is called the par-
+tial pressure of that component. Dalton’s observation is known as Dalton’s law of 
+partial pressures.
+If we let P
+t be the total pressure of a mixture of gases and P
+1, P
+2, P
+3, and so forth be the 
+partial pressures of the individual gases, we can write Dalton’s law of partial pressures as
+ 
+P
+t = P
+1 + P
+2 + P
+3 + c  
+[10.12]
+This equation implies that each gas behaves independently of the others, as we can see 
+by the following analysis. Let n1, n2, n3, and so forth be the number of moles of each of 
+the gases in the mixture and nt be the total

@@ -1,0 +1,53 @@
+ pressure is not constant, so we can’t use Eq. 15–3 
+.
+Instead, we can use the first law of thermodynamics to find W because we can
+determine 
+(from 
+) and
+(the process is adiabatic).
+SOLUTION We determine 
+from Eq. 14–1 for the internal energy of an
+ideal monatomic gas, using subscripts f and i for final and initial states:
+Then, from the first law of thermodynamics, Eq.15–1, the work done by the gas is
+W = Q - ¢U = 0 - (–2300 J) = 2300 J.
+=
+–2300 J.
+=
+3
+2 (0.25 mol)(8.314 JmolK)(400 K - 1150 K)
+¢U = U
+f - U
+i =
+3
+2 nRAT
+f - T
+iB
+¢U
+Q = 0
+¢T
+¢U
+(W = P¢V)
+EXAMPLE 15;5
+A
+B
+P
+P
+A
+P
+B
+D
+Isobaric
+Isothermal
+Isovolumetric
+0
+2
+4
+6
+8
+10 V (L)
+FIGURE 15–8 Example 15–4.
+for boiling water to steam. Determine the change in
+internal energy of 1.00 liter of water (mass 1.00 kg) at 100°C when it is fully boiled
+from liquid to gas, which results in 1671 liters of steam at 100°C. Assume the
+process is done at atmospheric pressure.
+APPROACH Our system is the water. The heat required here does not res

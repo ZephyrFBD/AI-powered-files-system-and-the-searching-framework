@@ -1,0 +1,21 @@
+ds. Oxygen has eight electrons 
+of which four form a spherically
+symmetric core and the other four could have, for example, a doughnut-shaped
+distribution. The barbell-shaped distribution on the z axis (like that shown
+dashed in Fig. 29–5) could be empty, so electrons from hydrogen atoms can be
+attracted by a net charge of 
+They are also attracted by the H nuclei, so they
+partly orbit the H atoms as well as the O atom. The net effect is that there is a net
+positive charge on each H atom (less than 
+), because the electrons spend only
+part of their time there. And, there is a net negative charge on the O atom.
+29–2 Potential-Energy Diagrams
+for Molecules
+It is useful to analyze the interaction between two objects—say, between two
+atoms or molecules—with the use of a potential-energy diagram, which is a plot
+of the potential energy versus the separation distance.
+For the simple case of two point charges,
+and 
+the potential energy PE is
+given by (we combine Eqs. 17–2a and 17–5)
+where r is

@@ -1,0 +1,64 @@
+es of the forces, we omitted the signs of
+the charges. But we must be aware of them to get the direction of each force.
+Let the line joining the particles be the x axis, and we take it positive to the right.
+Then, because 
+is repulsive and 
+is attractive, the directions of the forces
+are as shown in Fig. 16–19b:
+points in the positive x direction (away from 
+)
+and 
+points in the negative x direction (toward 
+). The net force on 
+particle 3 is then
+The magnitude of the net force is 1.5 N, and it points to the left.
+NOTE Charge 
+acts on charge 
+just as if 
+were not there (this is the 
+principle of superposition). That is, the charge in the middle,
+in no way
+blocks the effect of charge 
+acting on 
+Naturally,
+exerts its own force
+on Q3 .
+Q2
+Q3 .
+Q1
+Q2 ,
+Q2
+Q3
+Q1
+=
+–2.7 N + 1.2 N =
+–1.5 N.
+F =
+–F
+32 + F
+31
+Q2
+F
+32
+Q1
+F
+31
+F
+B
+32
+F
+B
+31
+=
+A9.0 * 109 Nm2C2BA4.0 * 10–6 CBA3.0 * 10–6 CB
+(0.20 m)2
+= 2.7 N.
+F
+32 = k Q3 Q2
+r32
+2
+Q1.
+Q3
+r31 = 0.50 m
+=
+A9.0 * 109 Nm2C2BA4.0 * 10–6 CBA8.0 * 10–6 

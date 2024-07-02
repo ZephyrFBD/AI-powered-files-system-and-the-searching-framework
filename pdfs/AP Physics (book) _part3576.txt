@@ -1,0 +1,23 @@
+y as long as the
+meson exists, which is the time 
+required for the meson to pass from one
+nucleon to the other, where it is absorbed and disappears. If we assume the
+meson travels at relativistic speed, close to the speed of light c, then 
+need be
+at most about 
+where d is the maximum distance that can separate the
+interacting nucleons. Thus we can write
+or
+(32;3)
+The range of the strong nuclear force (the maximum distance away it can be felt)
+is small—not much more than the size of a nucleon or small nucleus (see
+Eq. 30–1)—so let us take
+Then from Eq. 32–3,
+The mass of the predicted meson, roughly 
+is about 250 times the
+electron mass of 
+EXERCISE B What effect does an increase in the mass of the virtual exchange particle
+have on the range of the force it mediates? (a) Decreases it; (b) increases it; (c) has no
+appreciable effect; (d) decreases the range for charged particles and increases the range
+for neutral particles.
+Note that since the electromagnetic force has infinite range, E

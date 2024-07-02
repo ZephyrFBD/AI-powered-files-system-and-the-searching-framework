@@ -1,0 +1,33 @@
+equal.
+We use the definitions of average velocity and acceleration to derive a set of
+valuable equations that relate x,
+a, and
+when a is constant, allowing us to
+determine any one of these variables if we know the others. We can then solve
+many interesting Problems.
+Notation in physics varies from book to book; and different instructors use
+different notation. We are now going to change our notation, to simplify it a bit
+for our discussion here of motion at constant acceleration. First we choose the
+initial time in any discussion to be zero, and we call it 
+That is,
+(This is effectively starting a stopwatch at 
+) We can then let 
+be the
+elapsed time. The initial position 
+and the initial velocity 
+of an object
+will now be represented by 
+and 
+since they represent x and 
+at
+At
+time 
+the position and velocity will be called x and 
+(rather than 
+and 
+).
+The average velocity during the time interval
+will be (Eq. 2–2)
+since we chose
+The acceleration, assumed constant in time, is
+(Eq. 2–4), 

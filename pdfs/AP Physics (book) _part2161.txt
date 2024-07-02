@@ -1,0 +1,56 @@
+ unknown resistance
+to be measured,
+is placed in the circuit with accurately
+known resistances 
+and 
+(Fig. 19–76). One of these,
+is a variable resistor which is adjusted so that when the
+switch is closed momentarily, the ammeter 
+shows zero
+current flow. The bridge is then said to be balanced.
+(a) Determine 
+in terms of 
+and 
+(b) If a Wheatstone
+bridge is “balanced”
+when
+and
+what
+is the value of the
+unknown resistance?
+R3 = 78.6 ,
+R2 = 972 ,
+R1 = 590 ,
+R3 .
+R1 , R2 ,
+Rx
+~
+A
+R3 ,
+R3
+R1 , R2 ,
+Rx,
+25 
+950 
+FIGURE 19–74
+Problem 68.
+Bed
+Nurse
+Patient
+(low R)
+104 Ω
+104 Ω
+104 Ω
+240 V
+Motor
+ECG
+apparatus
+(low R)
+FIGURE 19–75 Problem 70.
+69. What are the values of effective capacitance which can be
+obtained by connecting four identical capacitors, each
+having a capacitance C?
+70. Electricity can be a hazard in hospitals, particularly to
+patients who are connected to electrodes, such as an ECG.
+Suppose that the motor of a motorized bed shorts out to the
+bed frame, and the bed frame’s conne

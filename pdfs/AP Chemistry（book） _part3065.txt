@@ -1,0 +1,32 @@
+sure of 1 atm, 
+would react spontaneously in the forward direction to form 
+more PCl3. Remember, however, that the value of ∆G° tells us 
+nothing about the rate at which the reaction occurs.
+(b) When we reverse the reaction, we reverse the roles of the 
+reactants and products. Thus, reversing the reaction changes 
+the sign of ∆G in Equation 19.14, just as reversing the reaction 
+changes the sign of ∆H. 
+ (Section 5.4) Hence, using the 
+result from part (a), we have
+4 PCl31g2 ¡ P41g2 + 6 Cl21g2 ∆G° = +1102.8 kJ
+ 
+▶Practice Exercise 1
+The following chemical equations describe the same chemi-
+cal reaction. How do the free energies of these two chemical 
+equations compare?
+(1) 2 H2O1l2 ¡ 2 H21g2 + O21g2
+(2) H2O1l2 ¡ H21g2 + 1>2 O21g2 
+(a) ∆G°
+1 = ∆G°
+2 (b) ∆G°
+1 = 2 ∆G°
+2 (c) 2 ∆G°
+1 = ∆G°
+2
+(d) None of the above
+ 
+▶Practice Exercise 2
+Use data from Appendix C to calculate ∆G° at 298 K for the 
+combustion of methane:
+CH41g2 + 2 O21g2 ¡ CO21g2 + 2 H2O1g2
+In Section 5.7 we used Hess’s law to

@@ -1,0 +1,9 @@
+t cause them to be sensitive to an antibiotic; others have genotypes
+that confer resistance to an antibiotic. As antibiotics are applied to the environment of a population of bacteria,
+individual bacterium that are sensitive to the antibiotic will die out while bacteria that have resistance to the
+antibiotic will survive and reproduce. With continued exposure to the antibiotic, over time, only the antibiotic-
+resistant bacteria will survive and be present in the population. Note that individual bacterium do not evolve or
+“learn” to be resistant to the antibiotic; some bacteria already possess the variation that gives them resistance.
+Initially, these antibiotic-resistant bacteria are less prevalent in the population, but these bacteria are more likely to
+survive and reproduce in an environment that contains the antibiotic than those that are not antibiotic resistant. Over
+time, as these bacteria reproduce in the presence of the antibiotic, the frequency of bacteria with antibiotic resi

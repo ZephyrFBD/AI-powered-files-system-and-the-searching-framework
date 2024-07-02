@@ -1,0 +1,18 @@
+st not consume each other through a neutralization reaction. 
+ 
+ (Section 4.3) These requirements are fulfilled by a weak acid–base conjugate pair, such 
+as CH3COOH>CH3COO- or NH4
++>NH3. The key is to have roughly equal concentrations 
+of both the weak acid and its conjugate base. There are two ways to make a buffer.
+ • Mix a weak acid or a weak base with a salt of that acid or base. For example, the 
+CH3COOH>CH3COO- buffer can be prepared by adding CH3COONa to a solution 
+of CH3COOH. Similarly, the NH4 
++>NH3 buffer can be prepared by adding NH4Cl to a 
+solution of NH3.
+ • Make the conjugate acid or base from a solution of weak base or acid by the addi-
+tion of a strong acid or base. For example, to make the CH3COOH>CH3COO- buffer, 
+you could start with a solution of CH3COOH and add some NaOH to the solution—
+enough to neutralize about half of CH3COOH according to the reaction
+ 
+CH3COOH1aq2 + OH-1aq2 ¡ CH3COO-1aq2 + H2O1l2 
+ (Section 4.3) Neutralization reactions have very large equil

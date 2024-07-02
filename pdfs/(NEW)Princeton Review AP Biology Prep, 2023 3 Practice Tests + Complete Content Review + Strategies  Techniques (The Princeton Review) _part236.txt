@@ -1,0 +1,22 @@
+ returns to photosystem I, from where it was emitted.
+The Light-Independent Reactions
+Now let’s turn to the dark side. The dark reactions use the products of the light reactions—ATP and NADPH—to
+make sugar. We now have energy to make glucose, but what do plants use as their carbon source? CO2, of course.
+You’ve probably heard of the term carbon fixation. All this means is that CO2 from the air is converted into
+carbohydrates. This step occurs in the stroma of the leaf. The dark reactions are also called the Calvin-Benson
+Cycle (or just Calvin cycle).
+Let’s summarize important facts about the dark reactions:
+The Calvin cycle occurs in the stroma of chloroplasts.
+ATP and NADPH from the light reactions are necessary for carbon fixation.
+CO2 is fixed to form glucose.
+Photosynthesis: A Summary
+The following table summarizes the stages of photosynthesis:
+Stage of Photosynthesis
+Location
+Input
+Output
+Light-Dependent Reactions
+Thylakoid membrane of
+chloroplasts
+Photosystem II (P680)
+Photosyste

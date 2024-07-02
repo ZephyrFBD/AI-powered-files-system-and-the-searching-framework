@@ -1,0 +1,22 @@
+ervations:
+1. 
+The shell with principal quantum number n consists of exactly 
+n subshells. Each subshell corresponds to a different allowed 
+value of l from 0 to 1n - 12. Thus, the first shell 1n = 12 
+consists of only one subshell, the 1s 1l = 02; the second 
+shell 1n = 22 consists of two subshells, the 2s 1l = 02 and 
+2p 1l = 12; the third shell consists of three subshells, 3s, 3p, 
+and 3d, and so forth.
+2. 
+Each subshell consists of a specific number of orbitals. Each  
+orbital 
+corresponds to a different allowed value of ml. For a given value 
+of l, there are 12l + 12 allowed values of ml, ranging from -l to 
++l. Thus, each s 1l = 02 subshell consists of one orbital; each 
+p 1l = 12 subshell consists of three orbitals; each d 1l = 22 
+ 
+subshell consists of five orbitals, and so forth.
+3. 
+The total number of orbitals in a shell is n2, where n is the princi-
+pal quantum number of the shell. The resulting number of or-
+bitals for the shells—1, 4, 9, 16—is related to a pattern seen 

@@ -1,0 +1,20 @@
+h a brief discussion of pumps, including the heart.
+Pumps can be classified into categories according to their function. A vacuum pump
+is designed to reduce the pressure (usually of air) in a given vessel. A force pump,
+on the other hand, is a pump that is intended to increase the pressure—for
+example, to lift a liquid (such as water from a well) or to push a fluid through a
+pipe. Figure 10–39 illustrates the principle behind a simple reciprocating pump.
+It could be a vacuum pump, in which case the intake is connected to the vessel 
+to be evacuated. A similar mechanism is used in some force pumps, and in this
+case the fluid is forced under increased pressure through the outlet.
+Another type of pump is the centrifugal pump, shown in Fig. 10–40. It, or any
+force pump, can be used as a circulating pump—that is, to circulate a fluid around a
+closed path, such as the cooling water or lubricating oil in an automobile.
+*
+282
+CHAPTER 10
+Fluids
+Intake
+Piston
+Outlet
+FIGURE 10–39 One kind of pump

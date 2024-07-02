@@ -1,0 +1,17 @@
+u may have answered differently the first time.
+Electron Diffraction
+From Example 27–11, we see that electrons can have wavelengths on the order
+of 
+and even smaller. Although small, this wavelength can be detected:
+the spacing of atoms in a crystal is on the order of 
+and the orderly array
+of atoms in a crystal could be used as a type of diffraction grating, as was done
+earlier for X-rays (see Section 25–11). C. J. Davisson and L. H. Germer per-
+formed the crucial experiment: they scattered electrons from the surface of a metal
+crystal and, in early 1927, observed that the electrons were scattered into a pattern
+of regular peaks. When they interpreted these peaks as a diffraction pattern, the
+wavelength of the diffracted electron wave was found to be just that predicted by
+de Broglie, Eq. 27–8. In the same year, G. P
+. Thomson (son of J. J. Thomson) used
+a different experimental arrangement and also detected diffraction of electrons.
+(See Fig.27–12. Compare it to X-ray diffraction, Se

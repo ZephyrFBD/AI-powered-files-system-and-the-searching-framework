@@ -1,0 +1,20 @@
+its 0.66 mm apart. The screen is 2.40 m away. A second
+source of unknown wavelength produces its second-order
+fringe 1.23 mm closer to the central maximum than the
+650-nm light. What is the wavelength of the unknown light?
+78. Monochromatic light of variable wavelength is incident
+normally on a thin sheet of plastic film in air. The reflected
+light is a maximum only for
+and
+in the visible spectrum. What is the thickness of the film
+[Hint: Assume successive values of m.]
+79. Show that the second- and third-order spectra of white
+light produced by a diffraction grating always overlap.
+What wavelengths overlap?
+80. A radio station operating at 90.3 MHz broadcasts from two
+identical antennas at the same elevation but separated by a
+9.0-m horizontal distance d, Fig. 24–62. A maximum signal
+is found along the midline, perpendicular to d at its midpoint
+and extending horizontally in both directions. If the midline
+is taken as 0°, at what other angle(s) is a maximum signal
+detected? A minimum 

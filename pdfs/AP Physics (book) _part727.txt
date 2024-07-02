@@ -1,0 +1,52 @@
+original kinetic energy.
+A2.88 * 106 JB - A1.44 * 106 JB
+= 1.44 * 106 J,
+1
+2 (20,000 kg)(12.0 ms)2 = 1.44 * 106 J.
+ke¿ = 1
+2 AmA + mBBv¿2 =
+v¿ = 12.0 ms,
+1
+2 mAvA
+2 = 1
+2 (10,000 kg)(24.0 ms)2 = 2.88 * 106 J.
+EXAMPLE 7;10
+182
+CHAPTER 7
+Linear Momentum
+†The objects may begin to deflect even before they touch if electric, magnetic, or nuclear forces act
+between them. You might think, for example, of two magnets oriented so that they repel each other:
+when one moves toward the other, the second moves away before the first one touches it.
+FIGURE 7;17 A recent color-
+enhanced version of a cloud-chamber
+photograph made in the early days
+(1920s) of nuclear physics. Green
+lines are paths of helium nuclei (He)
+coming from the left. One He,
+highlighted in yellow, strikes a proton
+of the hydrogen gas in the chamber,
+and both scatter at an angle; the 
+scattered proton’s path is shown in red.
+′B
+θ 
+′A
+θ
+mB
+mB
+mA
+  ′
+A
+p
+B
+   
+′B
+p
+B
+   A
+p
+B
+mA
+y
+x
+FIGURE 7;18 Object A, the projectile,
+collides 

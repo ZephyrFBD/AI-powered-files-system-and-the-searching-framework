@@ -1,0 +1,20 @@
+the ele-
+ments out of order relative to the atomic numbers of the 
+elements?
+ [7.80]  Figure 7.4 shows the radial probability distribution func-
+tions for the 2s orbitals and 2p orbitals. (a) Which orbital, 
+2s or 2p, has more electron density close to the nucleus? 
+(b) How would you modify Slater’s rules to adjust for the 
+difference in electronic penetration of the nucleus for the 
+2s and 2p orbitals?
+ 7.81  (a) If the core electrons were totally effective at screening 
+the valence electrons and the valence electrons provided 
+no screening for each other, what would be the effective 
+nuclear charge acting on the 3s and 3p valence electrons 
+in P? (b) Repeat these calculations using Slater’s rules. (c) 
+Detailed calculations indicate that the effective nucle-
+ar charge is 5.6+ for the 3s electrons and 4.9+ for the 3p 
+electrons. Why are the values for the 3s and 3p electrons 
+different? (d) If you remove a single electron from a P atom, 
+which orbital will it come from?
+ 7.82  As we m

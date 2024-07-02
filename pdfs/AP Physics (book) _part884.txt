@@ -1,0 +1,28 @@
+n atoms whose
+total mass is 
+and whose moment of inertia
+about an axis perpendicular to the line joining the two atoms,
+midway between them, is 
+From these
+data, estimate the effective distance between the atoms.
+34. (II) A grinding wheel is a uniform cylinder with a radius of
+8.50 cm and a mass of 0.380 kg. Calculate (a) its moment of
+inertia about its center, and (b) the applied torque needed
+to accelerate it from rest to 1750 rpm in 5.00 s. Take into
+account a frictional torque that has been measured to slow
+down the wheel from 1500 rpm to rest in 55.0 s.
+35. (II) The forearm in Fig. 8–46 accelerates a 3.6-kg ball at
+by means of the triceps muscle, as shown. Calcu-
+late (a) the torque needed, and
+(b) the force that must be exerted
+by the triceps muscle. Ignore the
+mass of the arm.
+36. (II) Assume that a 1.00-kg ball
+is thrown solely by the action
+of the forearm, which
+rotates about the elbow
+joint under the action 
+of the triceps muscle,
+Fig. 8–46. The ball is
+accelerated 
+uniformly

@@ -1,0 +1,12 @@
+ gets a special name, osmosis. This will be discussed in more detail in Chapter 6.
+Molecules that are polar or charged may require a membrane protein in order to diffuse across the cell
+membrane. The process of passive transport that uses a membrane protein is called facilitated diffusion. One
+example is the specialized membrane proteins called aquaporins that allow large quantities of water to move down
+their concentration gradient. Specialized channel proteins can allow the passive transport of ions, such and Ca+2 or
+Cl–1, down their concentration gradients. Because molecules that use facilitated diffusion require a membrane
+protein in order to cross the membrane, the rate of facilitated diffusion is limited by the number of membrane
+proteins available and is said to be saturable.
+Figure 5.14 Passive Transport
+Active Transport
+Active transport moves molecules from areas of low concentration to areas of high concentration, as shown in
+Figure 5.15. This movement of molecules “against” 

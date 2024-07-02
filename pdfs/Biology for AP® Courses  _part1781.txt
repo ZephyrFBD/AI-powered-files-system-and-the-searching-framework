@@ -1,0 +1,14 @@
+ription factors.
+Think About It
+How can cells in a multicellular eukaryotic organism be of different types given that they all share the same genome?
+16.5 | Eukaryotic Post-transcriptional Gene Regulation
+In this section, you will explore the following question:
+•
+How is gene expression controlled through post-transcriptional modifications of RNA molecules?
+Connection for AP® Courses
+Post-transcriptional regulation can occur at any stage after transcription. One important post-transcriptional mechanism is
+RNA splicing. After RNA is transcribed, it is often modified to create a mature RNA that is ready to be translated. As
+we studied in previous chapters, processing messenger RNA involves the removal of introns that do not code for protein.
+Spliceosomes remove the introns and ligate the exons together, often in different sequences than their original order on the
+newly transcribed (immature) messenger RNA. A GTP cap is added to the 5’-end and a poly-A tail is added to the 3’-end.
+This m

@@ -1,0 +1,39 @@
+ed by the area of the unit cell, times 
+100%. What is the packing efficiency for a square lattice for at-
+oms of radius a/2 that are centered at the lattice points?  
+(a) 3.14% (b) 15.7% (c) 31.8% (d) 74.0% (e) 78.5%
+ 
+▶Practice Exercise 2
+Determine the packing efficiency by calculating the fraction 
+of space occupied by atoms in a body-centered cubic metal.
+Give It Some Thought
+For metallic structures, does the packing efficiency (see Sample Exercise 12.1) 
+increase or decrease as the number of nearest neighbors (the coordination number) 
+decreases?
+TABLE 12.2 Some Common Alloys
+Name
+Primary Element
+Typical Composition (by Mass)
+Properties
+Uses
+Wood’s metal
+Bismuth
+50% Bi, 25% Pb, 12.5% Sn, 12.5% Cd
+Low melting point 170 °C2
+Fuse plugs, automatic 
+sprinklers
+Yellow brass
+Copper
+67% Cu, 33% Zn
+Ductile, takes polish
+Hardware items
+Bronze
+Copper
+88% Cu, 12% Sn
+Tough and chemically stable 
+in dry air
+Important alloy for 
+early civilizations
+Stainless steel
+Iron
+80.6% Fe, 0.4% C, 18% Cr, 1

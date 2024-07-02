@@ -1,0 +1,24 @@
+>mol2 and the observed 
+heat of hydrogenation 1-208 kJ>mol2 is due to stabilization of the p electrons through 
+delocalization in the p orbitals that extend around the ring. Chemists call this stabiliza-
+tion energy the resonance energy.
+substitution Reactions of Aromatic Hydrocarbons
+Although aromatic hydrocarbons are unsaturated, they do not readily undergo addi-
+tion reactions. The delocalized p bonding causes aromatic compounds to behave 
+quite differently from alkenes and alkynes. Benzene, for example, does not add Cl2 
+or Br2 to its double bonds under ordinary conditions. In contrast, aromatic hydro-
+carbons undergo substitution reactions relatively easily. In a substitution reac-
+tion, one hydrogen atom of the molecule is removed and replaced (substituted) by 
+another atom or group of atoms. When benzene is warmed in a mixture of nitric and 
+sulfuric acids, for example, one of the benzene hydrogens is replaced by the nitro 
+ 
+group, NO2:
+ 
+HNO3
+ H2O
+NO2
+H2SO4
++
++
+Benzene
+Nitrobe

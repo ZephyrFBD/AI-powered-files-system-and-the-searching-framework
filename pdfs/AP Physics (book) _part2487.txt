@@ -1,0 +1,41 @@
+ave is
+(22;8)
+where 
+and 
+are the peak values of the electric and magnetic
+fields, respectively, in the wave.
+EM waves carry momentum and exert a radiation pressure
+proportional to the intensity I of the wave.
+Radio, TV, cell phone, and other wireless signals are trans-
+mitted through space in the radio-wave or microwave part of
+the EM spectrum.
+B0
+E0
+I = 1
+2 0cE0
+2 = 1
+2
+c
+m0 B0
+2 = 1
+2
+E0B0
+m0
+,
+AWm2B
+c = 3.0 * 108 ms.
+Problems
+641
+22–1
+Produced by Changing 
+*1. (II) Determine the rate at which the electric field changes
+between the round plates of a capacitor, 8.0 cm in diameter,
+if the plates are spaced 1.1 mm apart and the voltage across
+them is changing at a rate of 
+*2. (II) Calculate the displacement current 
+between the
+square plates, 5.8 cm on a side, of a capacitor if the electric
+field is changing at a rate of 
+*3. (II) At a given instant, a 3.8-A current flows in the wires
+connected to a parallel-plate capacitor. What is the rate at
+which the electric field is changing 

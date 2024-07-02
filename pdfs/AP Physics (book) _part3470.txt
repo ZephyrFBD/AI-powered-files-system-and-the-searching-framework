@@ -1,0 +1,21 @@
+ 31;6
+SECTION 31–3
+895
+Proton–
+proton
+chain
+In stars hotter than the Sun, it is more likely that the energy output comes
+principally from the carbon (or CNO) cycle, which comprises the following
+sequence of reactions:
+No net carbon is consumed in this cycle and the net effect is the same as the
+proton–proton chain, Eq. 31–7 (plus one extra ). The theory of the proton–
+proton chain and of the carbon cycle as the source of energy for the Sun and stars
+was first worked out by Hans Bethe (1906–2005) in 1939.
+Stellar fusion. What is the heaviest 
+element likely to be produced in fusion processes in stars?
+RESPONSE Fusion is possible if the final products have more binding energy
+(less mass) than the reactants, because then there is a net release of energy.
+Since the binding energy curve in Fig. 31–12 (or Fig. 30–1) peaks near 
+to 58 which corresponds to iron or nickel, it would not be energetically
+favorable to produce elements heavier than that. Nevertheless, in the center of
+massive stars

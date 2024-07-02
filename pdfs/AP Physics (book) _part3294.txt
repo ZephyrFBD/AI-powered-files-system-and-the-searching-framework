@@ -1,0 +1,17 @@
+(like LCDs) because they emit the light themselves.
+OLEDs can be fabricated as a matrix, usually active matrix (AMOLED), using
+the same type of addressing described in Section 17–11 for LCDs. OLED displays
+are much thinner than LCDs and retain brightness at larger viewing angles. They
+can even be fabricated on curved or flexible substrates—try the windshield of your
+car (Fig. 29–39). The array may be RGBG (similar to a Bayer mosaic, Fig. 25–2)
+or RGBW where 
+is meant to give greater brightness. The subpixels
+can also be stacked, one above the other (similar to the Foveon, Fig. 25–3).
+OLED Functioning (advanced)
+According to band theory, when a voltage is applied 
+electrons 
+are “injected” (engineering term) into energy states of the lowest unoccupied
+molecular orbitals (LUMO) of the emissive layer. At the same time, electrons
+are withdrawn from the highest occupied molecular orbitals (HOMO) of the
+conductive layer at the cathode—which is equivalent to holes being “injected”
+into the co

@@ -1,0 +1,17 @@
+, and/or when
+near their liquefaction point, deviates from the ideal gas law
+due to the attractive forces between molecules. Below the
+critical temperature, a gas can change to a liquid if sufficient
+pressure is applied; but if the temperature is higher than the
+critical temperature, no amount of pressure will cause a liquid
+surface to form. The triple point of a substance is that unique
+temperature and pressure at which all three phases—solid,
+liquid, and gas—can coexist in equilibrium.
+Evaporation of a liquid is the result of the fastest moving
+molecules escaping from the surface. Saturated vapor pressure
+refers to the pressure of the vapor above a liquid when the two
+phases are in equilibrium. The vapor pressure of a substance
+(such as water) depends strongly on temperature, and at the
+boiling point is equal to atmospheric pressure. Relative humidity
+of air is the ratio of the actual partial pressure of water vapor in
+the air to the saturated vapor pressure at that temperature; it i

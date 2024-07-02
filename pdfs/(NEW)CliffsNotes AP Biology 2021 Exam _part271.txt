@@ -1,0 +1,11 @@
+BbVv and ½bbvv (Figure 8-6). If this cross were actually carried out, however, the results would produce a ratio
+among the four offspring BbVv:bbvv:Bbvv:bbVv closer to 41:41:9:9. This is because linked genes cross over
+(recombine) during prophase I—in this case, about 18% of the time. Instead of 50% of the gametes being BV and
+50% bv, an 18% crossover rate would produce 41% BV and 41% bv (which sum to 82%) and 9% Bv and 9% bV
+(which sum to 18%) (Figure 8-6).
+Figure 8-6
+The greater the distance between two genes on a chromosome, the more places between the genes that the
+chromosome can break and thus the more likely the two genes will cross over during synapsis. As a result,
+recombination frequencies are used to give a picture of the arrangement of genes on a chromosome. Suppose you
+knew that for a fly with genotype BBVVAA (where A is the apterous, or wingless, mutant) the crossover frequency
+between B and V was 18%, between A and V was 12%, and between B and A was6%. Since greater reco

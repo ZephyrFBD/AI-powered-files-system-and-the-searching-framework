@@ -1,0 +1,26 @@
+to review graphical determination of slopes in Appendix A. If you are familiar 
+with calculus, you may recognize that the average rate approaches the instantaneous rate as 
+the time interval approaches zero. This limit, in the notation of calculus, is the negative of the 
+derivative of the curve at time t, -d3C4H9Cl4>dt.
+ 
+SECTION 14.2   
+Reaction Rates 
+573
+574 
+CHAPTER 14 Chemical Kinetics
+Reaction Rates and Stoichiometry
+During our discussion of the hypothetical reaction A ¡ B, we saw that the stoichiom-
+etry requires that the rate of disappearance of A equal the rate of appearance of B. Like-
+wise, the stoichiometry of Equation 14.3 indicates that 1 mol of C4H9OH is produced for 
+each mole of C4H9Cl consumed. Therefore, the rate of appearance of C4H9OH equals the 
+rate of disappearance of C4H9Cl:
+ 
+Rate = - 
+∆3C4H9Cl4
+∆t
+=
+∆3C4H9OH4
+∆t
+ 
+What happens when the stoichiometric relationships are not one-to-one? For exam-
+ple, consider the reaction 2 HI1g2 ¡ H21g2 + I21g2. We can measur

@@ -1,0 +1,50 @@
+tities as Vectors
+74. (III) Suppose a 65-kg person stands at the edge of a 5.5-m
+diameter merry-go-round turntable that is mounted on
+frictionless bearings and has a moment of inertia of
+The turntable is at rest initially, but when the
+person begins running at a speed of 
+(with respect
+to the turntable) around its edge, the turntable begins to
+rotate in the opposite direction. Calculate the angular
+velocity of the turntable.
+4.0 ms
+1850 kgm2.
+35 kms
+1.0 * 105 kg,
+FIGURE 8;56
+Problem 72.
+H
+H
+O
+104
+ωF
+v
+B
+ω R
+v
+B
+Rear sprocket
+Front
+sprocket
+RF
+RR
+General Problems
+227
+This point on tire
+at rest momentarily
+a = 1.00 m/s2
+v = ?
+FIGURE 8;57
+Problem 79.
+82. Figure 8–59 illustrates an 
+molecule. The 
+bond
+length is 0.096 nm and the 
+bonds make an
+angle of 104°. Calculate the moment of inertia of the 
+molecule (assume the atoms are points) about an
+axis passing through the center of the oxygen
+atom (a) perpendicular to the plane of the 
+molecule, and (b) in the plane of the molecule,
+bisec

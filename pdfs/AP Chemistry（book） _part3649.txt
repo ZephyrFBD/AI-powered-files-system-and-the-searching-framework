@@ -1,0 +1,12 @@
+om period 5 transition metals to 
+period 6. Thus, the period 5 and period 6 transition metals in each group have very similar 
+radii and chemical properties. For example, the group 4B metals zirconium (period 5) and 
+hafnium (period 6) always occur together in nature and are very difficult to separate.
+Electron Configurations and Oxidation States
+Transition metals owe their location in the periodic table to the filling of the d subshells, as 
+you saw in Figure 6.31. Many of the chemical and physical properties of transition metals 
+result from the unique characteristics of the d orbitals. For a given transition-metal atom, 
+the valence (n - 1)d orbitals are smaller than the corresponding valence ns and np orbitals. 
+In quantum mechanical terms, the (n - 1)d orbital wave functions drop off more rapidly as 
+we move away from the nucleus than do the ns and np orbital wave functions. This charac-
+teristic feature of the d orbitals limits their interaction with orbitals on neighboring atoms

@@ -1,0 +1,42 @@
+(
+will be larger in Eq. 24–3a). This is
+consistent with our study of waves in Chapter 11. The diffraction through the
+rectangular hole will be wider vertically, since the opening is smaller in that
+direction.
+(b) For a stadium loudspeaker, the sound pattern desired is one spread out
+horizontally, so the horn should be tall and narrow (rotate Fig. 24–23 by 90°).
+u
+CONCEPTUAL EXAMPLE 24;6
+(l = 550 nm)
+(l = 750 nm)
+u
+(u L sin u L tan u)
+2x = 2(20 cm)(tan 49°) = 46 cm.
+tan u = x20 cm.
+u = 49°.
+sin u =
+l
+D = 7.5 * 10–7 m
+1.0 * 10–6 m = 0.75.
+1.0 * 10–3 mm
+EXAMPLE 24;5
+m L 3
+2 , 5
+2 , p.
+m = 0
+[minima]
+D sin u = ml,  
+m =
+&1, &2, &3, p,
+SECTION 24–5
+Diffraction by a Single Slit or Disk
+689
+C A U T I O N
+Don’t confuse Eqs. 24–2 for interference
+with Eqs. 24–3 for diffraction;
+note the differences
+FIGURE 24–21 Intensity in the diffraction
+pattern of a single slit as a function of 
+Note that the central maximum is not only
+much higher than the maxima to each side, but
+it is also twice as wide 

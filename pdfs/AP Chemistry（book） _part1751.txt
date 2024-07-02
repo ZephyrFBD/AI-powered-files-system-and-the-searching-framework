@@ -1,0 +1,13 @@
+solid. A supercooled liquid is unstable; particles of dust enter-
+ing the solution or gentle stirring is often sufficient to cause the substance to solidify 
+quickly.
+Critical temperature and Pressure
+A gas normally liquefies at some point when pressure is applied. Suppose we have a cylin-
+der fitted with a piston and the cylinder contains water vapor at 100 °C. If we increase the 
+pressure on the water vapor, liquid water will form when the pressure is 760 torr. However, 
+if the temperature is 110 °C, the liquid phase does not form until the pressure is 1075 torr. 
+At 374 °C the liquid phase forms only at 1.655 * 105 torr 1217.7 atm2. Above this tem-
+perature, no amount of pressure causes a distinct liquid phase to form. Instead, as pressure 
+increases, the gas becomes steadily more compressed. The highest temperature at which 
+a distinct liquid phase can form is called the critical temperature. The critical pres-
+sure is the pressure required to bring about liquefaction at this criti

@@ -1,0 +1,11 @@
+es. The following website uses a software program
+called BLAST (basic local alignment search tool) (http://openstaxcollege.org/l/32blast) .
+Under “Basic Blast,” click “Nucleotide Blast.” Input the following sequence into the large "query sequence"
+box: ATTGCTTCGATTGCA. Below the box, locate the "Species" field and type "human" or "Homo sapiens".
+Then click “BLAST” to compare the inputted sequence against known sequences of the human genome.
+The result is that this sequence occurs in over a hundred places in the human genome. Scroll down below
+the graphic with the horizontal bars and you will see short description of each of the matching hits. Pick one
+of the hits near the top of the list and click on "Graphics". This will bring you to a page that shows where
+the sequence is found within the entire human genome. You can move the slider that looks like a green flag
+back and forth to view the sequences immediately around the selected gene. You can then return to your
+selected sequence by 

@@ -1,0 +1,34 @@
+ free to move.
+(d) Gaining a tiny bit of energy allows their protons to move.
+(e) Electrons are tightly bound to their atoms.
+MisConceptual Questions
+Input
+Output
+FIGURE 29–43
+Question 12.
+13. What is the main difference between n-type and p-type
+semiconductors?
+14. Explain on the basis of energy bands why the sodium
+chloride crystal is a good insulator. [Hint: Consider the
+shells of 
+and 
+ions.]
+Cl–
+Na±
+854
+CHAPTER 29
+Molecules and Solids
+*29–1 to 29–3 Molecular Bonds
+1. (I) Estimate the binding energy of a KCl molecule by
+calculating the electrostatic potential energy when the 
+and 
+ions are at their stable separation of 0.28 nm.
+Assume each has a charge of magnitude 1.0e.
+2. (II) The measured binding energy of KCl is 4.43 eV. From
+the result of Problem 1, estimate the contribution to the
+binding energy of the repelling electron clouds at the
+equilibrium distance 
+3. (II) The equilibrium distance 
+between two atoms in a
+molecule is called the bond length. Using the bond lengths
+of ho

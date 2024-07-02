@@ -1,0 +1,13 @@
+its for the stiffness test are psi * 10-3 1psi = pounds per square 
+inch2; those for the yield stress test are psi. Discussion of the exact meaning and significance 
+of these tests is beyond the scope of this text.
+Polymers can be made stiffer by introducing chemical bonds between chains. Form-
+ing bonds between chains is called cross-linking (Figure 12.41). The greater the number 
+of cross-links, the more rigid the polymer. Whereas thermoplastic materials consist of 
+independent polymer chains, thermosetting plastics become cross-linked when heated; 
+the cross-links allow them to hold their shapes.
+An important example of cross-linking is the vulcanization of natural rubber, a 
+process discovered by Charles Goodyear in 1839. Natural rubber is formed from a liquid 
+resin derived from the inner bark of the Hevea brasiliensis tree. Chemically, it is a polymer 
+of isoprene, C5H8 (Figure 12.42). Because rotation about the carbon–carbon double bond 
+does not readily occur, the orientation o

@@ -1,0 +1,28 @@
+rous barrier
+or salt bridge
+Cathode
+(+)
+Anode
+(−)
+Anions
+Cations
+e−
+e−
+Anode half-cell,
+oxidation occurs
+Cathode half-cell,
+reduction occurs
+Voltmeter
+▲ Figure 20.6 Summary of reactions 
+occurring in a voltaic cell. The half-cells can 
+be separated by either a porous glass disc 
+(as in Figure 20.4) or by a salt bridge (as in 
+Figure 20.5).
+The oxidation–reduction reaction
+Cr2O7
+2-1aq2 + 14 H+1aq2 + 6 I-1aq2 ¡ 2 Cr3+1aq2 + 3 I21s2 + 7 H2O1l2
+is spontaneous. A solution containing K2Cr2O7 and H2SO4 is poured into one beaker, and a solution of KI is poured into another. 
+A salt bridge is used to join the beakers. A metallic conductor that will not react with either solution (such as platinum foil) is 
+suspended in each solution, and the two conductors are connected with wires through a voltmeter or some other device to detect 
+an electric current. The resulting voltaic cell generates an electric current. Indicate the reaction occurring at the anode, the 
+reaction at the cathode, the direct

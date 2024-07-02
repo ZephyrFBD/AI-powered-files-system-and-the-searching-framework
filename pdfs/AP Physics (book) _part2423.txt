@@ -1,0 +1,20 @@
+sistance of 
+It is initially in a 0.665-T magnetic field, with its plane per-
+pendicular to 
+but is removed from the field in 40.0 ms.
+Calculate the electric energy dissipated in this process.
+76. A high-intensity desk lamp is rated at 45 W but requires
+only 12 V. It contains a transformer that converts 120-V
+household voltage. (a) Is the transformer step-up or step-
+down? (b) What is the current in the secondary coil when
+the lamp is on? (c) What is the current in the primary coil?
+(d) What is the resistance of the bulb when on?
+77. A flashlight can be made that is powered by the induced
+current from a magnet moving through a coil of wire. The
+coil and magnet are inside a plastic tube that can be shaken
+causing the magnet to move back and forth through the
+coil. Assume the magnet has a maximum field strength of
+0.05 T. Make reasonable assumptions and specify the size
+of the coil and the number of turns necessary to light a
+standard 1-watt, 3-V flashlight bulb.
+78. Conceptual Example 2

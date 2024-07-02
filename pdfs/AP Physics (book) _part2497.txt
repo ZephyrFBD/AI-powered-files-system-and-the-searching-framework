@@ -1,0 +1,23 @@
+y, however, is introduced
+because this signal must travel from the transmitter to the
+clocks. Assuming Fort Collins is no more than 3000 km from
+any point in the U.S., what is the longest travel-time delay?
+49. If the Sun were to disappear or radically change its output,
+how long would it take for us on Earth to learn about it?
+50. Cosmic microwave background radiation fills space with an
+average energy density of about 
+(a) Find the
+rms value of the electric field associated with this radiation.
+(b) How far from a 7.5-kW radio transmitter emitting uni-
+formly in all directions would you find a comparable value?
+51. What are 
+and 
+at a point 2.50 m from a light source
+whose output is 18 W? Assume the bulb emits radiation of
+a single frequency uniformly in all directions.
+52. Estimate the rms electric field in the sunlight that hits Mars,
+knowing that the Earth receives about 
+and that
+Mars is 1.52 times farther from the Sun (on average) than
+is the Earth.
+53. The average intensity of a

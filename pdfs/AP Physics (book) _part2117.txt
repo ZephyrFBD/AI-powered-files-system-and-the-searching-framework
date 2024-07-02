@@ -1,0 +1,18 @@
+ctually passing through the heart), but as little as 0.02 mA can
+cause fibrillation when passing directly to the heart. Thus, a “wired” patient is in
+considerable danger from leakage current even from as simple an act as touching
+a lamp.
+Finally, don’t touch a downed power line (lethal!) or even get near it. A hot
+power line is at thousands of volts. A huge current can flow along the ground
+from the point where the high-voltage wire touches the ground. This current is great
+enough that the voltage between your two feet could be large and dangerous.
+Tip: stand on one foot, or run so only one foot touches the ground at a time.
+FIGURE 19–28 A polarized 
+2-prong plug.
+P H Y S I C S  A P P L I E D
+Ammeters use shunt resistor in parallel
+19–8 Ammeters and Voltmeters—Measurement
+Affects the Quantity Being Measured
+Measurement is a fundamental part of physics, and is not as simple as you might
+think. Measuring instruments can not be taken for granted; their results are not
+perfect and often ne

@@ -1,0 +1,18 @@
+ that the 
+central atom is generally less electronegative than the atoms surrounding it. In other 
+cases, you may need more information before you can draw the Lewis structure.
+ 
+3. Complete the octets around all the atoms bonded to the central atom. 
+Keep in mind that a hydrogen atom has only a single pair of electrons around it.
+ 
+4. Place any remaining electrons on the central atom, even if doing so results 
+in more than an octet of electrons around the atom.
+ 
+5. If there are not enough electrons to give the central atom an octet, try 
+multiple bonds. Use one or more of the unshared pairs of electrons on the atoms 
+bonded to the central atom to form double or triple bonds.
+The following examples of this procedure will help you put it into practice.
+Give It Some Thought
+You have a yellow solid that melts at 41 °C and boils at 131 °C and a green solid that 
+melts at 2320 °C. If you are told that one of them is Cr2O3 and the other is OsO4, 
+which one do you expect to be the yellow sol

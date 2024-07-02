@@ -1,0 +1,39 @@
+ that flows in the induced current during this
+short “flip” time is proportional to the magnetic field B.
+In particular, show that
+where R is the total resistance of the circuit including the
+coil and ballistic galvanometer which measures charge Q.
+B =
+QR
+2NA
+625
+C
+H
+A
+P
+T
+E
+R
+Electromagnetic Waves
+CONTENTS
+22–1 Changing Electric Fields 
+Produce Magnetic Fields;
+Maxwell’s Equations
+22–2 Production of 
+Electromagnetic Waves
+22–3 Light as an Electromagnetic Wave
+and the Electromagnetic Spectrum
+22–4 Measuring the Speed of Light
+22–5 Energy in EM Waves
+22–6 Momentum Transfer and
+Radiation Pressure
+22–7 Radio and Television;
+Wireless Communication
+22
+CHAPTER-OPENING QUESTION—Guess now!
+Which of the following best describes the difference between radio waves and
+X-rays?
+(a) X-rays are radiation whereas radio waves are electromagnetic waves.
+(b) Both can be thought of as electromagnetic waves. They differ only in wave-
+length and frequency.
+(c) X-rays are pure energy. Radio waves are made of

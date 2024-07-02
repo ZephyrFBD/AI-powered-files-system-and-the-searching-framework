@@ -1,0 +1,34 @@
+toms in the motif with respect to the lattice points. Sec-
+ond, we see that bonds can be formed between atoms in neighboring unit cells and the 
+bonds between atoms need not be parallel to the lattice vectors.
+Face-centered cubic lattice
+Primitive cubic lattice
+Lattice points only at corners
+Body-centered cubic lattice
+Lattice points at corners plus
+one lattice point in the center
+of unit cell
+Lattice points at corners plus
+one lattice point at the center
+of each face
+▲ Figure 12.7 The three types of cubic 
+lattices.
+Lattice points at
+corners of unit cell
+No atom falls on
+a lattice point
+The interconnected hexagonal rings become
+apparent when we connect atoms from
+neighboring unit cells.
+Tile unit cells together to create
+the crystal structure.
+Begin with a single hexagonal
+unit cell containing a motif of
+two carbon atoms.
+Atoms from neighboring
+unit cells can bond
+Motif inside
+unit cell
+▲ Figure 12.8 Two-dimensional structure of graphene built up from a single unit cell.
+ 
+SECTION 12.

@@ -1,0 +1,48 @@
+-1cm-1 at that wave-
+length. You perform the decomposition reaction in a 1-cm 
+cuvette in a spectrometer and obtain the following data:
+Time (min)
+Absorbance at 608 nm
+0
+1.254
+30
+0.941
+60
+0.752
+90
+0.672
+120
+0.545
+ 
+ From these data, determine the rate law for the reaction 
+“dye ¡  product” and determine the rate constant.
+ 14.103  Cyclopentadiene 1C5H62 reacts with itself to form dicy-
+clopentadiene 1C10H122. A 0.0400 M solution of C5H6 
+was monitored as a function of time as the reaction 
+2 C5H6 ¡ C10H12 proceeded. The following data were 
+collected:
+Time (s)
+3C5H64 1M2
+ 0.0
+0.0400
+ 50.0
+0.0300
+100.0
+0.0240
+150.0
+0.0200
+200.0
+0.0174
+ 
+ Plot 3C5H64 versus time, ln3C5H64 versus time, and 
+1>3C5H64 versus time. (a) What is the order of the reac-
+tion? (b) What is the value of the rate constant?
+ 14.104 The ﬁrst-order rate constant for reaction of a particular 
+organic compound with water varies with temperature as 
+follows:
+Temperature (K)
+Rate Constant 1s−12
+300
+3.2 * 10-11
+320
+1.0 * 10

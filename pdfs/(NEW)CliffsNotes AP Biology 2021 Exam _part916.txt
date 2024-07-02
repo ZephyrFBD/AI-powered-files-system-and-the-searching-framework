@@ -1,0 +1,19 @@
+ of the cuvettes follows:
+Cuvette 1: 0.2 ml succinate added to isolated mitochondria Cuvette 2: 0.1 ml succinate added to isolated
+mitochondria Cuvette 3: 0 ml succinate added to isolated mitochondria
+Cuvette 4: 0.1 ml succinate added to isolated mitochondria preheated to 100°C
+ 
+Transmittance in each cuvette is measured every 10 minutes. The results of the experiment are summarized in the
+following graph.
+ 
+26. The results of the experiment indicate that the
+respiratory rate increases as
+A. the concentration of substrate increases
+B. the concentration of DPIP increases
+C. the concentration of enzyme increases
+D. the time increases
+27. Which of the following is true with respect to the availability of electrons from other steps of the Krebs cycle?
+A. No other steps of the Krebs cycle are involved in the reduction of electron acceptors.
+B. Electrons from other steps could also reduce DPIP, but the substrates for these steps are consumed before
+succinate is added.
+C. FAD is the only elec

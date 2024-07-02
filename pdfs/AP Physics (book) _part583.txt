@@ -1,0 +1,25 @@
+
+we plot 
+the component of 
+parallel to the direction of motion 
+at any point) as a function of distance d, as in Fig. 6–6a. We divide the distance
+into small segments 
+For each segment, we indicate the average of 
+by a
+horizontal dashed line. Then the work done for each segment is  
+which is the area of a rectangle 
+wide and 
+high. The total work done to
+move the object a total distance
+is the sum of the areas of the 
+rectangles (five in the case shown in Fig. 6–6a). Usually, the average value of 
+for each segment must be estimated, and a reasonable approximation of the work
+done can then be made.
+If we subdivide the distance into many more segments,
+can be made smaller
+and our estimate of the work done would be more accurate. In the limit as 
+approaches zero, the total area of the many narrow rectangles approaches the
+area under the curve, Fig. 6–6b. That is, the work done by a variable force in
+moving an object between two points is equal to the area under the
+vs. d curve
+between th

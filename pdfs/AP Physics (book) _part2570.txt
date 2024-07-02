@@ -1,0 +1,43 @@
+and the focal length of a thin lens. This equation will make the determination of
+image position quicker and more accurate than doing ray tracing. Let 
+be the
+object distance, the distance of the object from the center of the lens, and 
+be the
+image distance, the distance of the image from the center of the lens, Fig. 23–40.
+di
+do
+O
+I
+F
+F′
+O′
+ho
+B
+A
+hi
+I′
+f
+di
+do
+FIGURE 23–40 Deriving the lens equation 
+for a converging lens.
+THIN LENS EQUATION
+Let 
+and 
+refer to the heights of the object and image. Consider the two rays shown
+in Fig. 23–40 for a converging lens, assumed to be very thin. The right triangles 
+and FBA (highlighted in yellow) are similar because angle AFB equals angle 
+so
+since length
+Triangles 
+and 
+are similar as well. Therefore,
+We equate the right sides of these two equations (the left sides are the same), and
+divide by 
+to obtain
+or
+(23;8)
+This is called the thin lens equation. It relates the image distance 
+to the object
+distance 
+and the focal length f. It is the m

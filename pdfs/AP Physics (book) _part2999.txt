@@ -1,0 +1,22 @@
+ of the Sun, peaks in
+the visible part of the spectrum. For lower temperatures, the total intensity drops
+considerably and the peak occurs at longer wavelengths (or lower frequencies).
+This is why objects glow with a red color at around 1000 K. It is found experimen-
+tally that the wavelength at the peak of the spectrum,
+is related to the Kelvin
+temperature T by
+(27;2)
+This is known as Wien’s law.
+The Sun’s surface temperature. Estimate the tempera-
+ture of the surface of our Sun, given that the Sun emits light whose peak intensity
+occurs in the visible spectrum at around 500 nm.
+APPROACH We assume the Sun acts as a blackbody, and use
+in
+Wien’s law (Eq. 27–2).
+SOLUTION Wien’s law gives
+Star color. Suppose a star has a surface temperature of
+32,500 K. What color would this star appear?
+APPROACH We assume the star emits radiation as a blackbody, and solve for
+in Wien’s law, Eq. 27–2.
+SOLUTION From Wien’s law we have
+The peak is in the UV range of the spectrum, and will be way to the left

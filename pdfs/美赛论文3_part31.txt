@@ -1,0 +1,123 @@
+ the temperature of the
+water in the bathtub reaches
+2
+u , the user starts to add hot water into the bathtub, so
+that the time of the first cooling process in the natural condition
+01
+31
+0
+2
+ln u
+cm
+t
+k
+u
+
+
+
+
+
+.
+During
+the
+first
+cooling
+process,
+we
+have
+the
+time
+01
+0
+ln u
+cm
+t
+k
+T
+
+
+
+
+
+,
+so
+
+
+01
+0
+(
+)
+cm
+T
+u
+exp k t
+
+
+
+
+
+
+. Then during the first cooling process, we can calculate
+
+
+31
+31
+1
+01
+01
+1
+1
+0
+lg(
+)
+lg(
+(1
+(
+)))
+t
+t
+cm
+D
+K
+u
+T dt
+K
+u
+exp
+dt
+k t
+
+
+
+
+
+
+
+
+
+,
+where K and
+2
+u respectively stand for the constant and the temperature of the water in
+the bathtub when adding hot water into the bathtub and
+01
+31
+0
+2
+ln u
+cm
+t
+k
+u
+
+
+
+
+
+.
+3.2.3.2 The ‘suffering degree’ during the adding and fusion process
+From even loop model, the temperature of the water in the bathtub at any time
+after adding water into the bathtub and any position in the bathtub can be confirmed
+by the function ( , , , )
+u x y z t . Hence, the ‘suffering degree’ during this time can be
+de

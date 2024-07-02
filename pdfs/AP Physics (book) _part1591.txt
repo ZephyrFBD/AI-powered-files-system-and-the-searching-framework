@@ -1,0 +1,21 @@
+ly faces
+the Sun on a clear day. The leaf has an emissivity of 0.85 and
+a specific heat of 
+(a) Estimate the energy
+absorbed per second by the leaf from the Sun, and then 
+(b) estimate the rate of rise of the leaf’s temperature. (c) Will
+the temperature rise continue for hours? Why or why not?
+(d) Calculate the temperature the leaf would reach if it lost
+all its heat by radiation to the surroundings at 24°C. (e) In
+what other ways can the heat be dissipated by the leaf?
+66. Using the result of part (a) in Problem 65, take into account
+radiation from the leaf to calculate how much water must
+be transpired (evaporated) by the leaf per hour to maintain
+a temperature of 35°C.
+67. After a hot shower and dishwashing, there seems to be no
+hot water left in the 65-gal (245-L) water heater. This suggests
+that the tank has emptied and refilled with water at roughly
+10°C. (a) How much energy does it take to reheat the water
+to 45°C? (b) How long would it take if the heater output 
+is 9500 W?
+68. 

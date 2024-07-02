@@ -1,0 +1,38 @@
+
+vmax
+vmin
+vmax.
+vmin
+v0
+F
+B
+T ?
+maR;
+F
+B
+T
+F
+B
+T ,
+6. Jupiter is about 320 times as massive as the Earth. Thus, it
+has been claimed that a person would be crushed by the
+force of gravity on a planet the size of Jupiter because 
+people cannot survive more than a few g’s. Calculate the
+number of g’s a person would experience at Jupiter’s 
+equator, using the following data for Jupiter:
+equatorial
+rotation
+55 min. Take the centripetal acceleration into
+account. [See Sections 5–2, 5–6, and 5–7.]
+7. A plumb bob (a mass m hanging on a string) is deflected
+from the vertical by an angle due to a massive mountain
+nearby (Fig. 5–51). (a) Find an approximate formula for 
+in terms of the mass of the mountain,
+the distance to
+its center,
+and the radius and mass of the Earth.
+(b) Make a rough estimate of the mass of Mt. Everest,
+assuming it has the shape of a cone 4000 m high and base
+of diameter 4000 m. Assume its mass per unit volume is
+(c) Estimate the angle of the plumb bob
+if it is 5 km from th

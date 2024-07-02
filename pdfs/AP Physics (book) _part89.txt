@@ -1,0 +1,19 @@
+and Measures near Paris, France, whose mass is defined as exactly 1 kg. A range
+of masses is presented in Table 1–3. [For practical purposes, 1 kg weighs about
+2.2 pounds on Earth.]
+When dealing with atoms and molecules, we usually use the unified atomic
+mass unit (u or amu). In terms of the kilogram,
+The definitions of other standard units for other quantities will be given as
+we encounter them in later Chapters. (Precise values of this and other useful
+numbers are given inside the front cover.)
+Unit Prefixes
+In the metric system, the larger and smaller units are defined in multiples of 10
+from the standard unit, and this makes calculation particularly easy. Thus 
+1 kilometer (km) is 1000 m, 1 centimeter is 
+1 millimeter (mm) is 
+or 
+and so on. The prefixes “centi-,” “kilo-,” and others are listed in Table 1–4 and
+can be applied not only to units of length but to units of volume, mass, or any
+other unit. For example, a centiliter (cL) is 
+(L), and a kilogram (kg) is
+1000 grams (g). An

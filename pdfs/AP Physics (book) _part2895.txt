@@ -1,0 +1,19 @@
+in one reference frame as in another, and that time passes at the
+same rate in different reference frames. In classical mechanics, then, space and
+time intervals are considered to be absolute: their measurement does not change
+from one reference frame to another. The mass of an object, as well as all forces,
+are assumed to be unchanged by a change in inertial reference frame.
+The position of an object, however, is different when specified in different
+reference frames, and so is velocity. For example, a person may walk inside a bus
+toward the front with a speed of 
+But if the bus moves 
+with respect
+to the Earth, the person is then moving with a speed of 
+with respect to the
+Earth. The acceleration of an object, however, is the same in any inertial
+reference frame according to classical mechanics. This is because the change in
+velocity, and the time interval, will be the same. For example, the person in the
+bus may accelerate from 0 to 
+in 1.0 seconds, so 
+in the reference
+frame of the

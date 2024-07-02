@@ -1,0 +1,68 @@
+onization Energies, I, for the Elements Sodium through Argon (kJ/mol)
+Element
+I1
+I2
+I3
+I4
+I5
+I6
+I7
+Na
+496
+4562
+Mg
+738
+1451
+7733
+(inner-shell electrons)
+Al
+578
+1817
+2745
+11,577
+Si
+786
+1577
+3232
+4356
+16,091
+P
+1012
+1907
+2914
+4964
+6274
+21,267
+S
+1000
+2252
+3357
+4556
+7004
+8496
+27,107
+Cl
+1251
+2298
+3822
+5159
+6542
+9362
+11,018
+Ar
+1521
+2666
+3931
+5771
+7238
+8781
+11,995
+Give It Some Thought
+Light can be used to ionize atoms and ions. Which of the two processes shown in 
+Equations 7.2 and 7.3 requires shorter-wavelength radiation?
+A second important feature shown in Table 7.2 is the sharp increase in ionization 
+energy that occurs when an inner-shell electron is removed. For example, consider sili-
+con, 1s22s22p63s23p2. The ionization energies increase steadily from 786 to 4356 kJ>mol 
+for the four electrons in the 3s and 3p subshells. Removal of the fifth electron, which 
+comes from the 2p subshell, requires a great deal more energy: 16,091 kJ>mol. The large 
+increase occurs because the 2p electron i

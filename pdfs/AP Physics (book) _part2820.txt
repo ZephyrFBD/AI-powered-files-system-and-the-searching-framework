@@ -1,0 +1,17 @@
+ion of a
+lens. In Fig. 24–21 we saw that the diffraction pattern produced by light passing
+through a rectangular slit has a central maximum in which most of the light falls. This
+central peak falls to a minimum on either side of its center at an angle given by
+(this is Eq. 24–3a), where D is the slit width and 
+the wavelength of light used.
+is
+the angular half-width of the central maximum, and for small angles (in radians)
+can be written
+There are also low-intensity fringes beyond.
+For a lens, or any circular hole, the image of a point object will consist of a
+circular central peak (called the diffraction spot or Airy disk) surrounded by faint
+circular fringes, as shown in Fig. 25–29a. The central maximum has an angular
+half-width given by
+where D is the diameter of the circular opening. [This is a theoretical result for a
+perfect circle or lens. For real lenses or circles, the factor is on the order of 1 to 2.]
+This formula differs from that for a slit (Eq. 24–3) by the factor 1.22. T

@@ -1,0 +1,18 @@
+d 20 beans of a second color (foxes).  
+•  Mix the bean populations thoroughly, and randomly  
+spread the beans around on the board. (Let students  
+determine how to randomly distribute their beans.)  
+Apply the rules of FOXRAB. 
+1. Rabbits reproduce (births): When a rabbit lands on a  
+dark blue square, add a rabbit.  
+2. Foxes die (deaths): When a fox lands on white square, remove it. 
+3. If a fox lands in a patch of four (outlined in green border) with a rabbit, then remove 
+the rabbit (death), and add a fox (birth). 
+4. Count the new number of foxes and rabbits after these three steps. 
+5. For the next generation, remove all beans, mix the surviving beans thoroughly 
+together, and then randomly spread the beans around on the board again. 
+6. Repeat (iterate) this procedure numerous times to represent new generations. 
+■ Part 2: The FOXRAB Game: 
+Writing Out Assumptions as Word Equations 
+By looking at the board and game rules, since one-half of all space is covered by dark 
+blue sq

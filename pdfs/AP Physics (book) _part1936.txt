@@ -1,0 +1,22 @@
+
+Use conservation of energy to determine the difference in
+the speed of the two balls when they hit the ground. (Neglect
+air resistance.)
+79. The power supply for a pulsed nitrogen laser has a
+capacitor with a maximum voltage rating of
+35 kV. (a) Estimate how much energy could be stored in
+this capacitor. (b) If 12% of this stored electrical energy is
+converted to light energy in a pulse that is 6.2 microseconds
+long, what is the power of the laser pulse?
+80. In a photocell, ultraviolet (UV) light provides enough
+energy to some electrons in barium metal to eject them
+from the surface at high speed. To measure the maximum
+energy of the electrons, another plate above the barium
+surface is kept at a negative enough potential that the emitted
+electrons are slowed down and stopped, and return to the
+barium surface. See Fig.17–46. If the plate voltage is 
+(compared to the barium) when the fastest electrons are
+stopped, what was the speed of these electrons when they
+were emitted?
+–3.02 V
+0.0

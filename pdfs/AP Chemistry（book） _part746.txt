@@ -1,0 +1,15 @@
+ple ignites.
+The heat released when combustion occurs is absorbed by the water and the various 
+components of the calorimeter (which all together make up the surroundings), causing 
+the water temperature to rise. The change in water temperature caused by the reaction is 
+measured very precisely.
+To calculate the heat of combustion from the measured temperature increase, we 
+must know the total heat capacity of the calorimeter, Ccal. This quantity is determined 
+by combusting a sample that releases a known quantity of heat and measuring the tem-
+perature change. For example, combustion of  
+exactly 1 g of benzoic acid, C6H5COOH, in 
+a bomb calorimeter produces 26.38 kJ of heat. Suppose 1.000 g of benzoic acid is com-
+busted in a calorimeter, leading to a temperature increase of 4.857 °C. The heat capacity 
+of the calorimeter is then Ccal = 26.38 kJ>4.857 °C = 5.431 kJ>°C. Once we know Ccal, 
+we can measure temperature changes produced by other reactions, and from these we 
+can calculate

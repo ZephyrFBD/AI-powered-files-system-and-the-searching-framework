@@ -1,0 +1,25 @@
+orce (emf) that 
+moves the electrons from the anode to the cathode through the 
+external circuit. The origin of emf is a difference in the electrical 
+potential energy of the two electrodes in the cell. The emf of a cell 
+is called its cell potential, Ecell and is measured in volts 11 V = 1 J>C2. 
+The cell potential under standard conditions is called the standard 
+emf, or the standard cell potential, and is denoted E°
+cell.
+A standard reduction potential, E°
+red, can be assigned for an individ-
+ual half-reaction. This is achieved by comparing the potential of the 
+half-reaction to that of the standard hydrogen electrode (SHE), which is 
+defined to have E°
+red = 0 V.
+The standard cell potential of a voltaic cell is the difference be-
+tween the standard reduction potentials of the half-reactions that 
+occur at the cathode and the anode:
+E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2.
+The value of E°
+cell is positive for a voltaic cell.
+For a reduction half-reaction, E°
+red is a measure of 

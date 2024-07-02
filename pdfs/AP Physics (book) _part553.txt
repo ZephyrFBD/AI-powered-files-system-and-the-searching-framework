@@ -1,0 +1,27 @@
+). What is the ratio of a person’s apparent
+weight to her real weight at (a) the top, and (b) the bottom?
+55. (II) At what rate must a cylindrical spaceship rotate if occu-
+pants are to experience simulated gravity of 0.70 g? Assume
+the spaceship’s diameter is 32 m, and give your answer as
+the time needed for one revolution. (See Question 9,
+Fig 5–33.)
+56. (III) (a) Show that if a satellite orbits very near the surface
+of a planet with period T, the density (
+mass per unit
+volume) of the planet is  
+(b) Esti-
+mate the density of the Earth, given that a satellite near
+the surface orbits with a period of 85 min. Approximate
+the Earth as a uniform sphere.
+r = mV = 3pGT2.
+
+1.8 ms2?
+5.0 ms,
+5.0 ms,
+1
+10
+37. (II) A hypothetical planet has a mass 2.80 times that of
+Earth, but has the same radius. What is g near its surface?
+38. (II) If you doubled the mass and tripled the radius of a
+planet, by what factor would g at its surface change?
+39. (II) Calculate the effective value of g, the a

@@ -1,0 +1,40 @@
+ave opposite displacements at the
+instant they pass one another, and they add to zero. The result is called destructive
+interference. In Fig. 11–37b, at the instant the two pulses overlap, they produce a
+resultant displacement that is greater than the displacement of either separate
+pulse, and the result is constructive interference.
+You may wonder where the energy is at the moment of destructive interfer-
+ence in Fig. 11–37a; the cord may be straight at this instant, but the central parts 
+of it are still moving up or down (kinetic energy).
+(ur)
+(ui)
+Incident
+ray
+Reﬂected
+ray
+Incident
+wave front
+Reﬂected
+wave front
+θi
+θr
+θi
+θr
+FIGURE 11–36 Law of
+reflection: ur = ui.
+(b)
+(a)
+Time
+Pulses far apart,
+approaching
+Pulses overlap
+precisely
+(for an instant)
+Pulses far apart,
+receding
+FIGURE 11–37 Two wave pulses
+pass each other. Where they overlap,
+interference occurs: (a) destructive,
+and (b) constructive. Read (a) and
+(b) downward (increasing time).
+When two rocks are thrown into a pond si

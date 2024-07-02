@@ -1,0 +1,36 @@
+0
+P
+L = I2R = (5.0 A)2(0.40 ) = 10 W,
+I =
+P
+V
+= 1.2 * 105 W
+2.4 * 104 V
+= 5.0 A.
+P
+L = I2R = (500 A)2(0.40 ) = 100 kW.
+P
+L,
+I =
+P
+V
+= 1.2 * 105 W
+2.4 * 102 V
+= 500 A.
+P
+L = I2R,
+(= PV),
+P = V2R
+0.40 .
+EXAMPLE 21;11
+The great advantage of ac, and a major reason it is in nearly universal use†, is
+that the voltage can easily be stepped up or down by a transformer. The output
+voltage of an electric generating plant is stepped up prior to transmission. Upon
+arrival in a city, it is stepped down in stages at electric substations prior to distri-
+bution. The voltage in lines along city streets is typically 2400 V or 7200 V and is
+stepped down to 240 V or 120 V for home use by transformers (Figs.21–22 and 21–25).
+†DC transmission along wires does exist, and has some advantages (if the current is constant, there is
+no induced current in nearby conductors as there is with ac). But boosting to high voltage and down
+again at the receiving end requires more complicated electronics.
+604
+CHAPTER

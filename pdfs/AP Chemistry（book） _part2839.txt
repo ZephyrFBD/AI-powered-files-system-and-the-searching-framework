@@ -1,0 +1,18 @@
+tically prove that the pH at the halfway point of 
+a titration of a weak acid with a strong base (where the vol-
+ume of added base is half of that needed to reach the equiv-
+alence point) is equal to pKa for the acid.
+ 17.93  A weak monoprotic acid is titrated with 0.100 M NaOH. It 
+requires 50.0 mL of the NaOH solution to reach the equiv-
+alence point. After 25.0 mL of base is added, the pH of the 
+solution is 3.62. Estimate the pKa of the weak acid.
+ 17.94  What is the pH of a solution made by mixing 0.30 mol 
+NaOH, 0.25 mol Na2HPO4, and 0.20 mol H3PO4 with water 
+and diluting to 1.00 L?
+ 17.95  Suppose you want to do a physiological experiment that 
+calls for a pH 6.50 buffer. You find that the organism with 
+which you are working is not sensitive to the weak acid 
+H2A 1Ka1 = 2 * 10-2; Ka2 = 5.0 * 10-72 or its sodium 
+salts. You have available a 1.0 M solution of this acid and a 
+1.0 M solution of NaOH. How much of the NaOH solution 
+should be added to 1.0 L of the acid to give a bu

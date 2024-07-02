@@ -1,0 +1,21 @@
+emiconductor into contact with a p-type semiconduc-
+tor. In the junction where they meet, there are very few electrons or 
+holes to carry the charge across the interface between them, and the 
+Continued
+ 
+SECTION 12.7  Covalent-Network Solids 
+499
+Which of the following elements, if doped into silicon, would yield an n-type semiconductor: Ga, As, or C?
+Sample Exercise 12.4 
+Identifying Types of Semiconductors
+SOLUTION
+Analyze An n-type semiconductor means that the dopant atoms 
+must have more valence electrons than the host material. Silicon 
+is the host material in this case.
+Plan We must look at the periodic table and determine the num-
+ber of valence electrons associated with Si, Ga, As, and C. The ele-
+ments with more valence electrons than silicon are the ones that 
+will produce an n-type material upon doping.
+Solve Si is in column 4A, and so has four valence electrons. Ga is 
+in column 3A, and so has three valence electrons. As is in column 
+5A, and so has five valence electrons;

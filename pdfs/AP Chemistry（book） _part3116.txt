@@ -1,0 +1,19 @@
+entropy change 
+for an isothermal process depends on both the abso-
+lute temperature and the amount of heat reversibly 
+transferred.
+ 19.23  The normal boiling point of Br21l2 is 58.8 °C, and its 
+molar enthalpy of vaporization is ∆Hvap = 29.6 kJ>mol. 
+(a) When Br21l2 boils at its normal boiling point, does its 
+entropy increase or decrease? (b) Calculate the value of ∆S 
+when 1.00 mol of Br21l2 is vaporized at 58.8 °C.
+ 19.24  The element gallium (Ga) freezes at 29.8 °C, and its molar 
+enthalpy of fusion is ∆Hfus = 5.59 kJ>mol. (a) When mol-
+ten gallium solidifies to Ga(s) at its normal melting point, 
+is ∆S positive or negative? (b) Calculate the value of ∆S 
+when 60.0 g of Ga(l) solidifies at 29.8 °C.
+ 19.25  Indicate whether each statement is true or false. (a) The 
+second law of thermodynamics says that entropy is con-
+served. (b) If the entropy of the system increases during a 
+reversible process, the entropy change of the surroundings 
+must decrease by the same amount. (c) In a 

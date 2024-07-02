@@ -1,0 +1,16 @@
+biochem-
+ical reactions that are essential for the formation and maintenance 
+of highly ordered biological structures are not spontaneous. These 
+necessary reactions are made to occur by coupling them with spon-
+taneous reactions that release energy. The metabolism of food is the 
+usual source of the free energy needed to do the work of maintaining 
+biological systems. For example, complete oxidation of the sugar glu-
+cose, C6H12O6, to CO2 and H2O yields substantial free energy:
+C6H12O61s2 + 6 O21g2 ¡ 6 CO21g2 + 6 H2O1l2 ∆G° = -2880 kJ
+This energy can be used to drive nonspontaneous reactions in the 
+body. However, a means is necessary to transport the energy released 
+by glucose metabolism to the reactions that require energy. One way, 
+shown in Figure 19.16, involves the interconversion of adenosine tri-
+phosphate (ATP) and adenosine diphosphate (ADP), molecules that 
+are related to the building blocks of nucleic acids. The conversion of 
+ATP to ADP releases free energy 1∆G° = -30.5 

@@ -1,0 +1,31 @@
+merry-go-round is rotating freely
+with an angular velocity of 
+Its total moment 
+of inertia is 
+Four people standing on the
+ground, each of mass 65 kg, suddenly step onto the edge 
+of the merry-go-round. (a) What is the angular velocity of 
+the merry-go-round now? (b) What if the people were on it
+initially and then jumped off in a radial direction (relative
+to the merry-go-round)?
+1360 kgm2.
+0.80 rads.
+1.5 revs.
+0.95 rads.
+820 kgm2.
+3.0 revs
+4.6 kgm2,
+2.5 revs.
+
+v.
+70. (II) A uniform horizontal rod of mass M and length rotates
+with angular velocity 
+about a vertical axis through its
+center. Attached to each end of the rod is a small mass m.
+Determine the angular momentum of the system about the
+axis.
+71. (II) Suppose our Sun eventually collapses into a white dwarf,
+losing about half its mass in the process, and winding up
+with a radius 1.0% of its existing radius. Assuming the lost
+mass carries away no angular momentum, (a) what would the
+Sun’s new rotation rate be? Take the 

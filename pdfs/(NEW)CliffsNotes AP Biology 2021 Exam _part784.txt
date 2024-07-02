@@ -1,0 +1,12 @@
+ tips of plants.
+In this part of the investigation, you explore the effect of lectins on the roots of onions. The lectins are extracted
+from kidney beans and are used to simulate the effect of fungal lectins. You are provided with two kinds of onion
+roots—roots that have been treated with lectins and roots that have not been treated. You follow the following steps:
+1. Prepare microscope slides of treated root tips (treatment group) and untreated root tips (control group).
+2. Under the microscope, count the number of cells undergoing mitosis (all stages) and the number of cells not
+actively dividing (cells in interphase) for both treated and untreated root tips.
+3. Calculate the percentages of cells undergoing mitosis and cells in
+ 
+interphase for both treated and untreated root tips. Use a chi-square (χ2)
+statistical analysis to evaluate whether the difference between the treated root tips (the observed data) and the
+untreated root tips (the expected data) is statistically significant.

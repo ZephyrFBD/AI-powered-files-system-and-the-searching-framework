@@ -1,0 +1,51 @@
+ mass. The mass change we just calculated for the conversion of 
+helium-4 into separated nucleons is ∆m = 0.03038 amu. Therefore, the energy required 
+for this process is
+ 
+∆E = c2 ∆m
+ = 12.9979 * 108 m>s2210.03038 amu2a
+1 g
+6.022 * 1023 amu
+b a
+1 kg
+1000 gb
+ = 4.534 * 10-12 J
+The energy required to separate a nucleus into its individual nucleons is called the 
+nuclear binding energy. The mass defect and nuclear binding energy for three ele-
+ments are compared in Table 21.7.
+TABLE 21.7 Mass Defects and Binding Energies for Three Nuclei
+Nucleus
+Mass of Nucleus  
+(amu)
+Mass of Individual  
+Nucleons (amu)
+Mass Defect  
+(amu)
+Binding  
+Energy (J)
+Binding Energy  
+per Nucleon (J)
+4
+2He
+  4.00150
+  4.03188
+0.03038
+4.53 * 10-12
+1.13 * 10-12
+56
+26Fe
+ 55.92068
+ 56.44914
+0.52846
+7.90 * 10-11
+1.41 * 10-12
+238
+92U
+238.00031
+239.93451
+1.93420
+2.89 * 10-10
+1.21 * 10-12
+Give It Some Thought
+The mass of a single atom of iron-56 is 55.93494 amu. Why is this number different 
+from the mass of the nucleu

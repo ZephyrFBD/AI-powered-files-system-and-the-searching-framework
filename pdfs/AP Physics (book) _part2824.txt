@@ -1,0 +1,22 @@
+ers over Earth-bound
+telescopes, which are limited in resolution by movement of the Earth’s atmosphere
+to about half an arc second. (Each degree is divided into 60 minutes each
+containing 60 seconds, so 
+seconds.)
+APPROACH Angular resolution for the Hubble is given (in radians) by Eq.25–7.
+The resolution for Earth telescopes is given, and we first convert it to radians so
+we can compare.
+SOLUTION Earth-bound telescopes are limited to an angular resolution of
+The Hubble, on the other hand, is limited by diffraction (Eq. 25–7) which for
+is
+thus giving almost ten times better resolution 
+Eye resolution. You are in an airplane at an
+altitude of 10,000 m. If you look down at the ground, estimate the minimum
+separation s between objects that you could distinguish. Could you count cars in
+a parking lot? Consider only diffraction, and assume your pupil is about 3.0 mm
+in diameter and
+APPROACH We use the Rayleigh criterion, Eq. 25–7, to estimate 
+The
+separation s of objects is
+where 
+and is in 

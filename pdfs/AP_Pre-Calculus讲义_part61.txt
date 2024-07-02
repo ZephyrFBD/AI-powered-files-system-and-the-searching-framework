@@ -1,0 +1,88 @@
+enoted by ln:  
+ln x = loge x 
+The natural logarithmic function y = ln x is the inverse function of the natural exponential 
+function y=ex. 
+ 
+By the definition of inverse functions we have  
+ln
+y
+x
+y
+e
+x
+=
+Û
+=
+ 
+PROPERTIES OF NATURAL LOGARITHMS 
+ 
+88 
+ 
+ 
+Example 4 
+Find the domain of the function f(x) = ln (4-x2). 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+89 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.7 Laws of Logarithms 
+ 
+90 
+2.7.1 Laws of Logarithms 
+Since logarithms are exponents, the laws of exponents give rise to the laws of logarithms. 
+Let a be a positive number, with a ≠ 1. Let A, B, and C be any real numbers with A > 0 and 
+B > 0. 
+ 
+ 
+Example 1 
+Evaluate each expression. 
+ 
+ 
+ 
+ 
+ 
+ 
+2.7.2 Expanding and Combining Logarithmic Expressions 
+The laws of logarithms allow us to write the logarithm of a product or a quotient as the sum 
+or difference of logarithms. 
+This process, called expanding a logarithmic expression, is illustrated in the next exampl

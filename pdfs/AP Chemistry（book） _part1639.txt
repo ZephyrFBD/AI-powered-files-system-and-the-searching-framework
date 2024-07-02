@@ -1,0 +1,21 @@
++ 14.0 = 26.0 g>mol. Dividing the molar mass by that of its 
+empirical formula gives 152.0 g>mol2>126.0 g>mol2 = 2.00. Thus, 
+the molecule has twice as many atoms of each element as the  
+empirical formula, giving the molecular formula C2N2.
+ 
+Plan To determine the molecular structure, we must deter-
+mine the Lewis structure.  
+ (Section 8.5) We can then use 
+the VSEPR model to predict the structure.  
+ (Section 9.2)
+Solve The molecule has 2142 + 2152 = 18 valence-shell electrons. 
+By trial and error, we seek a Lewis structure with 18 valence elec-
+trons in which each atom has an octet and the formal charges are 
+as low as possible. The structure
+:N ‚ C ¬ C ‚ N:
+meets these criteria. (This structure has zero formal charge on 
+each atom.)
+The Lewis structure shows that each atom has two electron 
+domains. (Each nitrogen has a nonbonding pair of electrons and 
+a triple bond, whereas each carbon has a triple bond and a single 
+bond.) Thus, the electron-domain geometry around each atom is 

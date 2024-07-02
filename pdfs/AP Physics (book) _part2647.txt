@@ -1,0 +1,31 @@
+olors, such as brown, do
+not appear in the spectrum; they are
+made from a mixture of wavelengths.
+UV
+IR
+400 nm
+500 nm
+600 nm
+700 nm
+7.5  1014 Hz
+6  1014 Hz
+5  1014 Hz
+4  1014 Hz
+7.5  1014 Hz
+6  1014 Hz
+5  1014 Hz
+4  1014 Hz
+f
+λ
+Using Eq. 24–2a, we can see that 
+is smallest for violet light and largest for red
+(Fig. 24–11). By measuring the position of these fringes, Young was the first to
+determine the wavelengths of visible light. In doing so, he showed that what
+distinguishes different colors physically is their wavelength (or frequency), an
+idea put forward earlier by Grimaldi in 1665.
+Wavelengths from double-slit interference. White light
+passes through two slits 0.50 mm apart, and an interference pattern is observed
+on a screen 2.5 m away. The first-order fringe resembles a rainbow with violet
+and red light at opposite ends. The violet light is about 2.0 mm and the red 3.5 mm
+from the center of the central white fringe (Fig. 24–11). Estimate the wavelengths
+for the violet 

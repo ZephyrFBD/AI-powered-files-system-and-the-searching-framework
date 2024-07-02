@@ -1,0 +1,19 @@
+. Population—a group of individuals in the same geographical area that belong to the same species and
+are capable of interbreeding.
+2. Gene Pool—the total sum of alleles within a population at a given time.
+B. Hardy-Weinberg Equilibrium—a model for the study of the gene pool of a nonevolving population.
+1. Hardy-Weinberg equilibrium indicates that the frequencies of two alleles do not change from
+generation to generation; a population is said to be in Hardy-Weinberg equilibrium if the following
+five conditions are met:
+i.
+A very large population sample
+ii. No migration of individuals into or out of the population
+iii. No mutation
+iv. No natural selection
+v. Random mating
+Note: These conditions are rarely met, but they provide a theoretical basis to test against.
+2. To determine if a population is in Hardy-Weinberg equilibrium, allele frequencies must remain
+constant over generations. To determine allele frequencies, use the following equation.
+p2 + 2pq + q2 = 1
+p2 = frequency of AA
+q2 

@@ -1,0 +1,25 @@
+consumption,
+day and night, in a typical house is 960 W. What initial
+mass of 
+would have to undergo fission to supply the
+electrical needs of such a house for a year? (Assume
+200 MeV is released per fission, as well as 100% efficiency.)
+21. (II) Consider the fission reaction
+(a) How many neutrons are produced in this reaction?
+(b) Calculate the energy release. The atomic masses for 
+Sb and Nb isotopes are 132.915250 u and 97.910328 u,
+respectively.
+22. (II) How much mass of 
+is required to produce the
+same amount of energy as burning 1.0 kg of coal (about
+23. (II) What initial mass of 
+is required to operate a
+950-MW reactor for 1 yr? Assume 34% efficiency.
+24. (II) If a 1.0-MeV neutron emitted in a fission reaction
+loses one-half of its kinetic energy in each collision with
+moderator nuclei, how many collisions must it make to
+reach thermal energy
+25. (II) Assuming a fission of 
+into two roughly equal
+fragments, estimate the electric potential energy just as 
+the fragments separate f

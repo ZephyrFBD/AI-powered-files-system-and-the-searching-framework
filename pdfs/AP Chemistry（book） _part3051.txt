@@ -1,0 +1,30 @@
+ flows from the system 
+to the surroundings). The change in entropy of the surroundings depends on how much 
+heat is absorbed or given off by the system.
+For an isothermal process, the entropy change of the surroundings is given by
+ 
+∆Ssurr =
+qsurr
+T
+=
+-qsys
+T
+ 
+Because in a constant-pressure process, qsys is simply the enthalpy change for the reaction, 
+∆H, we can write
+ 
+∆Ssurr =
+-∆Hsys
+T  3at constant P4 
+[19.9]
+Calculate the change in the standard entropy of the system, ∆S°, for the synthesis of ammonia from N21g2 and H21g2 at 298 K:
+N21g2 + 3 H21g2 ¡ 2 NH31g2
+Solve
+Using Equation 19.8, we have:
+Analyze We are asked to calculate the standard entropy change for 
+the synthesis of NH31g2 from its constituent elements.
+Plan We can make this calculation using Equation 19.8 and the 
+standard molar entropy values in Table 19.1 and Appendix C.
+Check: The value for ∆S° is negative, in agreement with our 
+qualitative prediction based on the decrease in the number of 
+molecules of gas during 

@@ -1,0 +1,25 @@
+n cluster are assumed to be
+about the same distance from us. Two such stars have spec-
+tra that peak at 
+and 
+and the
+ratio of their apparent brightness is 
+Estimate their relative sizes (give ratio of their diameters)
+using Wien’s law and the Stefan-Boltzmann equation,
+Eq. 14–6.
+33–4 General Relativity, Gravity and Curved Space
+16. (I) Show that the Schwarzschild radius for Earth is 8.9 mm.
+17. (II) What is the Schwarzschild radius for a typical galaxy
+(like ours)?
+18. (II) What mass will give a Schwarzschild radius equal to
+that of the hydrogen atom in its ground state?
+19. (II) What is the maximum sum-of-the-angles for a triangle
+on a sphere?
+20. (II) Describe a triangle, drawn on the surface of a sphere,
+for which the sum of the angles is (a) 
+and (b)
+21. (III) What is the apparent deflection of a light beam in an
+elevator (Fig. 33–13) which is 2.4 m wide if the elevator is
+accelerating downward at 
+33–5 Redshift, Hubble’s Law
+22. (I) The redshift of a galaxy indicates a recession 

@@ -1,0 +1,43 @@
+-
+germinating
+Germinating
+5
+0.02
+0.20
+0.10
+0.40
+10
+0.05
+0.40
+0.15
+0.80
+15
+0.08
+0.60
+0.20
+1.20
+20
+0.11
+0.80
+0.25
+1.60
+Construct an appropriately labeled graph to analyze the eﬀect
+of temperature over time on oxygen consumption of
+germinating corn seeds.
+(a)
+Based on the data, explain the diﬀerences in oxygen
+consumption between non-germinating and germinating corn
+seeds. Describe the most likely eﬀect of temperature on the
+rate of cellular respiration. Predict the likely oxygen
+consumption for germinating corn at 20°C aȇer 20 min.
+(b)
+Propose an appropriate control treatment for the experiment,
+and describe how the control treatment would increase the
+validity of the results.
+(c)
+The tetrazolium test is an alternative test for seed viability, in
+which seeds are incubated in tetrazolium, rinsed, and then
+evaluated for color. In the presence of hydrogen ions,
+tetrazolium is reduced from a colorless compound to a red
+compound. Predict the color of non-germinating and
+germinating corn seeds

@@ -1,0 +1,15 @@
+(Fig. 13–5b). When the
+temperature is increased, the different amounts of expansion cause the bimetallic
+strip to bend. Often the bimetallic strip is in the form of a coil, one end of which
+is fixed while the other is attached to a pointer, Fig. 13–6. Such thermometers are
+used as ordinary air thermometers, oven thermometers, automatic off switches 
+in electric coffeepots, and in room thermostats for determining when the heater
+or air conditioner should go on or off. Very precise thermometers make use of
+electrical properties (Chapter 18), such as resistance thermometers, thermocouples,
+and thermistors, often with a digital readout.
+Temperature Scales
+In order to measure temperature quantitatively, some sort of numerical scale must
+be defined. The most common scale today is the Celsius or centigrade scale. In the
+United States, the Fahrenheit scale is common. The most important scale in scientific
+work is the absolute, or Kelvin, scale, and it will be discussed later in this Chapter.
+O

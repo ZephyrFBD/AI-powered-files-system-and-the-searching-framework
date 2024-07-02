@@ -1,0 +1,36 @@
+r sulfuric acid is listed 
+simply as “large.” Sulfuric acid is a strong acid with respect to the removal of the first pro-
+ton. Thus, the reaction for the first ionization step lies completely to the right:
+ 
+H2SO41aq2 ¡  H+1aq2 + HSO4
+-1aq2 1complete ionization2 
+However, HSO4
+- is a weak acid for which Ka2 = 1.2 * 10-2.
+For many polyprotic acids Ka1 is much larger than subsequent dissociation con-
+stants, in which case the H+1aq2 in the solution comes almost entirely from the first 
+ionization reaction. As long as successive Ka values differ by a factor of 103 or more, it is 
+usually possible to obtain a satisfactory estimate of the pH of polyprotic acid solutions by 
+treating the acids as if they were monoprotic, considering only Ka1.
+TABLE 16.3 Acid-Dissociation Constants of Some Common  
+Polyprotic Acids
+Name
+Formula
+Ka1
+Ka2
+Ka3
+Ascorbic
+H2C6H6O6
+8.0 * 10-5
+1.6 * 10-12
+Carbonic
+H2CO3
+4.3 * 10-7
+5.6 * 10-11
+Citric
+H3C6H5O7
+7.4 * 10-4
+1.7 * 10-5
+4.0 * 10-7
+Oxalic
+HOOC ¬COOH
+5.9 * 10

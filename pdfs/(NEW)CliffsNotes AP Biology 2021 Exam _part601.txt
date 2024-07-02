@@ -1,0 +1,13 @@
+s follows (Figure 14-1):
+Figure 14-1
+1. The hypothalamus and anterior pituitary initiate the reproductive cycle. The hypothalamus monitors the
+levels of estrogen and progesterone in the blood. In a negative feedback fashion, low levels of these hormones
+stimulate the hypothalamus to secrete GnRH, which, in turn, stimulates the anterior pituitary to secrete FSH and LH.
+2. The follicle develops. FSH stimulates the development of the follicle and the oocyte.
+ 
+3. The follicle secretes estrogen. LH stimulates the secretion of estrogen from the follicle.
+4. Ovulation occurs. Positive feedback from rising levels of estrogen stimulates the anterior pituitary (through
+GnRH from the hypothalamus) to produce a sudden midcycle surge of LH. This high level of LH triggers ovulation.
+5. The corpus luteum secretes estrogen and progesterone. After ovulation, the follicle, now called the corpus
+luteum, continues to develop under the influence of LH and secretes both estrogen and progesterone.
+6. The en

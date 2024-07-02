@@ -1,0 +1,29 @@
+ significant shadow region.
+This rule applies to reflection from an obstacle as well. Very little of a wave is
+reflected unless the wavelength is smaller than the size of the obstacle.
+A rough guide to the amount of diffraction is
+where is roughly the angular spread of waves after they have passed through an
+opening of width or around an obstacle of width 
+That waves can bend around obstacles, and thus can carry energy to areas
+behind obstacles, is very different from energy carried by material particles.
+A clear example is the following: if you are standing around a corner on one side
+of a building, you cannot be hit by a baseball thrown from the other side, but you
+can hear a shout or other sound because the sound waves diffract around the
+edges of the building.
+l.
+l
+u
+u(radians) L l
+l
+,
+*
+318
+CHAPTER 11
+Oscillations and Waves
+P H Y S I C S  A P P L I E D
+Earthquake wave refraction
+(b) Stick in water
+(c) Short-wavelength 
+      waves passing log
+(d) Long-wavelength 
+     waves passin

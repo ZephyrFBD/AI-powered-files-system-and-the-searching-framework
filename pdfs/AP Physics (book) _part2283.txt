@@ -1,0 +1,30 @@
+5 T
+1280 mC.
+Evacuated tubes, inside
+of which the protons move
+with velocity indicated by
+the green arrows
+Magnet
+B
+B
+u
+General Problems
+587
+64. Two long straight parallel wires are 15 cm apart. Wire A
+carries 2.0-A current. Wire B’s current is 4.0 A in the same
+direction. (a) Determine the magnetic field magnitude due
+to wire A at the position of wire B. (b) Determine the mag-
+netic field due to wire B at the position of wire A. (c) Are
+these two magnetic fields equal and opposite? Why or 
+why not? (d) Determine the force on wire A due to wire B,
+and the force on wire B due to wire A. Are these two forces
+equal and opposite? Why or why not?
+65. Protons with momentum 
+are magnet-
+ically steered clockwise in a circular path 2.2 m in diameter.
+Determine the magnitude and direction of the field in the
+magnets surrounding the beam pipe.
+66. A small but rigid 
+wire carrying a 5.0-A current
+(Fig. 20–62) is placed inside a solenoid. The solenoid is
+15.0 cm long and has 700 loops of wire, and 

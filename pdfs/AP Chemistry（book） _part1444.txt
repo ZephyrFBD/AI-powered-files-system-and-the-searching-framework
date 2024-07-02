@@ -1,0 +1,17 @@
+he bonding MO and the 
+antibonding MO of H2 is centered about the internuclear axis. MOs of this type are called 
+sigma 1S2 molecular orbitals (by analogy to s bonds). The bonding sigma MO of H2 
+is labeled s
+1s; the subscript indicates that the MO is formed from two 1s orbitals. The anti-
+bonding sigma MO of H2 is labeled s
+1s
+*  (read “sigma-star-one-s”); the asterisk denotes that 
+the MO is antibonding.
+The relative energies of two 1s atomic orbitals and the molecular orbitals formed from 
+them are represented by an energy-level diagram (also called a molecular orbital 
+diagram). Such diagrams show the interacting atomic orbitals on the left and right and 
+the MOs in the middle, as shown in Figure 9.32. Like atomic orbitals, each MO can accom-
+modate two electrons with their spins paired (Pauli exclusion principle). 
+ (Section 6.7)
+As the MO diagram for H2 in Figure 9.32 shows, each H atom has one electron, so 
+there are two electrons in H2. These two electrons occupy the lower-ener

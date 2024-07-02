@@ -1,0 +1,21 @@
+elec-
+tron pairs as unshared electron pairs?  
+(a) HCl (b) H2S (c) PF3 (d) CCl2F2 (e) Br2
+ 
+▶Practice Exercise 2
+Compare the Lewis symbol for neon with the Lewis structure 
+for methane, CH4. How many valence electrons are in each 
+structure? How many bonding pairs and how many nonbond-
+ing pairs does each structure have?
+SOLUTION
+Analyze The Lewis symbols for nitrogen and fluorine reveal that 
+nitrogen has five valence electrons and fluorine has seven.
+Plan We need to find a combination of the two elements that results 
+in an octet of electrons around each atom. Nitrogen requires three 
+additional electrons to complete its octet, and fluorine requires one. 
+Sharing a pair of electrons between one N atom and one F atom will 
+result in an octet of electrons for fluorine but not for nitrogen. We 
+therefore need to figure out a way to get two more electrons for the 
+N atom.
+Solve Nitrogen must share a pair of electrons with three fluorine 
+atoms to complete its octet. Thus, the binary comp

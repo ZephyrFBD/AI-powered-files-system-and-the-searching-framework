@@ -1,0 +1,44 @@
+l
+lrest
+L v
+c
+.
+(v f 0.1 c)
+z + 1 =
+lobs
+lrest
+.
+z =
+lobs
+lrest
+- 1
+lobs
+lrest
+z = lobs - lrest
+lrest
+=
+¢l
+lrest
+,
+l (= cf),
+lrest
+SECTION 33–5
+The Expanding Universe: Redshift and Hubble’s Law
+965
+FIGURE 33–21 Simplified model of
+a 2-dimensional universe, imagined
+as a balloon. As you blow up the
+balloon 
+the
+wavelength of a wave on its surface
+gets longer (redshifted).
+(= expanding universe),
+Expansion, and the Cosmological Principle
+What does it mean that distant galaxies are all moving away from us, and with
+ever greater speed the farther they are from us? It seems to suggest some kind of
+explosive expansion that started at some very distant time in the past. And at
+first sight we seem to be in the middle of it all. But we aren’t. The expansion
+appears the same from any other point in the universe. To understand why, see
+Fig. 33–22. In Fig. 33–22a we have the view from Earth (or from our Galaxy).
+The velocities of surrounding galaxies are indicated by arrows, pointing away
+from us

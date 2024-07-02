@@ -1,0 +1,19 @@
+hen turns around and walks back to
+Determine (a) the ant’s displacement and (b) the total distance traveled.
+2–2 Average Velocity
+An important aspect of the motion of a moving object is how fast it is 
+moving—its speed or velocity.
+The term “speed” refers to how far an object travels in a given time interval,
+regardless of direction. If a car travels 240 kilometers (km) in 3 hours (h), we say
+its average speed was 
+In general, the average speed of an object is
+defined as the total distance traveled along its path divided by the time it takes to
+travel this distance:
+(2;1)
+The terms “velocity” and “speed” are often used interchangeably in ordi-
+nary language. But in physics we make a distinction between the two. Speed is
+simply a positive number, with units. Velocity, on the other hand, is used to
+signify both the magnitude (numerical value) of how fast an object is moving
+and also the direction in which it is moving. Velocity is therefore a vector.
+average speed = distance traveled
+tim

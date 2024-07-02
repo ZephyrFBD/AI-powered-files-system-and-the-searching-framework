@@ -1,0 +1,30 @@
+ placed just beyond the objective’s focal point
+as shown in Fig. 25–24a. The image 
+formed by the objective lens is real, quite
+far from the objective lens, and much enlarged. The eyepiece is positioned so that
+this image is near the eyepiece focal point 
+The image 
+is magnified by the
+eyepiece into a very large virtual image,
+which is seen by the eye and is
+inverted. Modern microscopes use a third “tube” lens behind the objective, but
+we will analyze the simpler arrangement shown in Fig. 25–24a.
+I2 ,
+I1
+Fe.
+I1
+726
+CHAPTER 25
+P H Y S I C S  A P P L I E D
+Microscopes
+FIGURE 25–24 Compound microscope:
+(a) ray diagram, (b) photograph
+(illumination comes from below,
+outlined in red, then up through the
+slide holding the sample or object).
+The overall magnification of a microscope is the product of the magnifica-
+tions produced by the two lenses. The image 
+formed by the objective lens is
+a factor 
+greater than the object itself. From Fig. 25–24a and Eq. 23–9 for the
+magnification of a simp

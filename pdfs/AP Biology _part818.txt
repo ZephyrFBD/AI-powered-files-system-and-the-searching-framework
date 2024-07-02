@@ -1,0 +1,21 @@
+sed on the Hardy-
+Weinberg equilibrium to analyze genetic drift and the effect of selection in
+the evolution of specific populations.
+You will build a spreadsheet that models how a hypothetical gene pool
+changes from one generation to the next. Any modern spreadsheet will
+work, including Microsoft Excel, Google’s online Google Docs, and
+Zoho’s online spreadsheet. This spreadsheet will let you explore how
+different factors, such as selection, mutation, and migration, affect allelic
+frequencies in a population.
+You will be able to answer questions such as:
+Why do recessive alleles like the one that causes cystic fibrosis stay
+in the human population?
+Why don’t they gradually disappear?
+Why is the dominant trait polydactyly not a common trait in human
+populations?
+How do inheritance patterns or allelic frequencies change in a
+population?
+LAB #3: BLAST—COMPARING DNA SEQUENCES
+Introduction
+******ebook converter DEMO Watermarks*******
+Bioinformatics is a field that combines statistics, mathe

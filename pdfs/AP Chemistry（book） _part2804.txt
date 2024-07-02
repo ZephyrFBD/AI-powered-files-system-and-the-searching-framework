@@ -1,0 +1,18 @@
+is reason, it is important to choose 
+an indicator whose color change is near the pH at the equivalence 
+point for titrations involving either weak acids or weak bases. It 
+is possible to calculate the pH at any point of the titration curve 
+by first considering the effects of the acid–base reaction on solu-
+tion concentrations and then examining equilibria involving the 
+remaining solute species.
+SOLUBILITY EQUILIBRIA (SECTION 17.4) The equilibrium 
+between a solid compound and its ions in solution provides an 
+example of heterogeneous equilibrium. The solubility-product 
+constant (or simply the solubility product), Ksp, is an equilibrium 
+constant that expresses quantitatively the extent to which the 
+compound dissolves. The Ksp can be used to calculate the solubil-
+ity of an ionic compound, and the solubility can be used to calcu-
+late Ksp.
+FACTORS THAT AFFECT SOLUBILITY (SECTION 17.5) Several 
+experimental factors, including temperature, affect the solubili-
+ties of ionic compounds

@@ -1,0 +1,15 @@
+ed contains 146 amino acids. The substitution of an amino 
+acid with a hydrocarbon side chain for one that has an acidic functional group in the 
+side chain alters the solubility properties of the hemoglobin, and normal blood flow is 
+impeded. 
+ (Section 13.6, “Sickle-Cell Anemia”)
+Proteins in living organisms are not simply long, flexible chains with random 
+shapes. Rather, the chains self-assemble into structures based on the intermolecular 
+forces we learned about in Chapter 11. This self-assembling leads to a protein’s second-
+ary structure, which refers to how segments of the protein chain are oriented in a reg-
+ular pattern, as seen in Figure 24.18.
+One of the most important and common secondary structure arrangements is 
+the A1alpha2@helix. The alpha helix is held in position by hydrogen bonds between 
+amide H atoms and carbonyl O atoms in the main chain, not the side chains, of the 
+protein. The pitch of the helix and its diameter must be such that (1) no bond angles 
+are strai

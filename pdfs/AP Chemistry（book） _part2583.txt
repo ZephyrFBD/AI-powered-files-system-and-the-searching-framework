@@ -1,0 +1,37 @@
+on, we must calculate the number of moles of NaClO needed to 
+increase the pH of 2.00 L of water to 10.50.
+SOLUTION
+Plan From the pH, we can determine the equilibrium concentra-
+tion of OH-. We can then construct a table of initial and equilib-
+rium concentrations in which the initial concentration of ClO- is 
+our unknown. We can calculate 3ClO-4 using the expression for Kb.
+16.8 ∣ Relationship Between Ka and Kb
+We have seen in a qualitative way that the stronger an acid, the weaker its conjugate base. 
+Let us be more quantitative and consider the NH4
++ and NH3 conjugate acid–base pair. 
+Each species reacts with water. For the acid, NH4
++, the equilibrium is
+ 
+NH4
++1aq2 + H2O1l2 ∆ NH31aq2 + H3O+1aq2 
+or written in its simpler form:
+ 
+NH4
++1aq2 ∆ NH31aq2 + H+1aq2 
+[16.38]
+For the base, NH3, the equilibrium is
+ 
+NH31aq2 + H2O1l2 ∆ NH4
++1aq2 + OH-1aq2 
+[16.39]
+Each equilibrium is expressed by a dissociation constant:
+ 
+Ka =
+3NH343H+4
+3NH4
++4   Kb =
+3NH4
++43OH-4
+3NH34
+ 
+When we add Equatio

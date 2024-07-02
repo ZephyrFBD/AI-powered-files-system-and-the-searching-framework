@@ -1,0 +1,25 @@
+tant T, P2
+Now we can see the relationship between ∆Gsys (which we call 
+simply ∆G) and the second law. From Equation 19.11 we know that 
+∆G = ∆Hsys - T∆Ssys. If we multiply Equations 19.16 by -T and rear-
+range, we reach the following conclusion:
+Reversible process:       ∆G = ∆Hsys - T ∆Ssys = 0
+Irreversible process:     ∆G = ∆Hsys - T ∆Ssys 6 0  
+[19.17]
+ 
+1constant T, P2
+Equations 19.17 allow us to use the sign of ∆G to conclude whether a 
+reaction is spontaneous, nonspontaneous, or at equilibrium. When 
+∆G 6 0, a process is irreversible and, therefore, spontaneous. When 
+∆G = 0, the process is reversible and, therefore, at equilibrium. If a 
+process has ∆G 7 0, then the reverse process will have ∆G 6 0; thus, 
+A Closer look What’s “Free” About Free Energy?
+ 
+SECTION 19.5  Gibbs Free Energy 
+829
+Continued
+830 
+CHAPTER 19 Chemical Thermodynamics
+19.6 ∣ Free Energy and Temperature
+Tabulations of ∆Gf°, such as those in Appendix C, make it possible to calculate ∆G° for 
+reactions at th

@@ -1,0 +1,32 @@
+ay of wavelength 5.5 * 10–11 m?
+Cell phone antenna. The antenna of a cell
+phone is often wavelength long. A particular cell phone has an 8.5-cm-long
+straight rod for its antenna. Estimate the operating frequency of this phone.
+APPROACH The basic equation relating wave speed, wavelength, and frequency
+is
+the wavelength 
+equals four times the antenna’s length.
+SOLUTION The antenna is
+long, so
+Then
+NOTE Radio antennas are not always straight conductors. The conductor may
+be a round loop to save space. See Fig. 22–18b.
+f = cl = A3.0 * 108 msB(0.34 m) = 8.8 * 108 Hz = 880 MHz.
+l = 4(8.5 cm) = 34 cm = 0.34 m.
+1
+4 l
+l
+c = lf;
+1
+4
+EXAMPLE 22;2
+ESTIMATE
+EXERCISE D How long should a
+antenna be for an aircraft radio operating at 
+165 MHz?
+1
+4-l
+FIGURE 22–9 Coaxial cable.
+Electromagnetic waves can travel along transmission lines as well as in empty
+space. When a source of emf is connected to a transmission line—be it two parallel
+wires or a coaxial cable (Fig. 22–9)—the electric field within th

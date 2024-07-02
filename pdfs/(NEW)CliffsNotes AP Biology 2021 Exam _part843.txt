@@ -1,0 +1,11 @@
+
+sample remains low (blue).
+In treatment III, no DPIP is reduced because photosynthesis cannot occur in the absence of light. If photosynthesis
+cannot occur, electrons in the pigment systems are not reduced (energized); thus, there are no energized electrons to
+reduce DPIP. The DPIP remains oxidized (blue), and transmittance remains low.
+c. When healthy chloroplasts are exposed to light, electrons of pigment molecules in photosystem II are energized
+(reduced). These electrons are eventually passed to the special chlorophyll a (P680). Two
+electrons are then passed to a primary electron acceptor, the first molecule of an electron transport chain. (An
+electronic transport chain is a series of electron carriers, such as cytochromes.) As the two electrons are passed from
+one carrier to the next, energy from the electrons is used to generate 1.5 ATP molecules (on average). At the end of
+the chain, the two electrons are accepted by pigment molecules in photosystem I, where they are again ener

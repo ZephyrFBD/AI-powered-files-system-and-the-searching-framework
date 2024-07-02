@@ -1,0 +1,17 @@
+inside the house.
+Hence, air and smoke are pushed up the chimney by the higher indoor pressure.
+Even on an apparently still night there is usually enough ambient air flow at the
+top of a chimney to assist upward flow of smoke.
+If gophers, prairie dogs, rabbits, and other animals that live underground are
+to avoid suffocation, the air must circulate in their burrows. The burrows always
+have at least two entrances (Fig. 10–30). The speed of air flow across different
+holes will usually be slightly different. This results in a slight pressure difference,
+which forces a flow of air through the burrow via Bernoulli’s principle. The flow
+of air is enhanced if one hole is higher than the other (animals often build mounds)
+since wind speed tends to increase with height.
+*SECTION 10–12
+Flow in 
+Tubes: Poiseuille’s Equation, Blood Flow
+279
+Bernoulli’s equation ignores the effects of friction (viscosity) and the com-
+pressibility of the fluid. The energy that is transformed to internal (or potenti

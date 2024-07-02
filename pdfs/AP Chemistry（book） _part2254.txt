@@ -1,0 +1,19 @@
+23 + CO
+the proposed mechanism is
+  
+ 
+ 
+  Mo1CO26 ¡ Mo1CO25 + CO
+Mo1CO25 + P1CH323 ¡ Mo1CO25P1CH323
+(a) Is the proposed mechanism consistent with the equation 
+for the overall reaction?  (b) What is the molecularity of each 
+step of the mechanism?  (c) Identify the intermediate(s).
+Rate Laws for Elementary Reactions
+In Section 14.3, we stressed that rate laws must be determined experimentally; they can-
+not be predicted from the coefficients of balanced chemical equations. We are now in a 
+position to understand why this is so. Every reaction is made up of a series of one or more 
+elementary steps, and the rate laws and relative speeds of these steps dictate the overall 
+rate law for the reaction. Indeed, the rate law for a reaction can be determined from its 
+mechanism, as we will see shortly, and compared with the experimental rate law. Thus, 
+our next challenge in kinetics is to arrive at reaction mechanisms that lead to rate laws 
+consistent with those observed experimentally. We 

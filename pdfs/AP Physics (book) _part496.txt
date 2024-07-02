@@ -1,0 +1,26 @@
+hat is, not a point), we must consider how to measure the distance r.
+A correct calculation treats each extended body as a collection of particles, and 
+the total force is the sum of the forces due to all the particles. The sum over all these
+particles is often done using integral calculus, which Newton himself invented.
+When extended bodies are small compared to the distance between them (as for the
+Earth–Sun system), little inaccuracy results from considering them as point particles.
+Newton was able to show that the gravitational force exerted on a particle outside a
+uniform sphere is the same as if the entire mass of the sphere was concentrated at its
+center.† Thus Eq. 5–4 gives the correct force between two uniform spheres where r
+is the distance between their centers.]
+r2.
+G = 6.67 * 10–11 Nm2kg2.
+m1 , m2 ,
+F
+G,
+m2
+m1
+F
+G = G m1 m2
+r2
+,
+120
+CHAPTER 5
+Circular Motion; Gravitation
+Can you attract another person gravita-
+tionally? A 50-kg person and a 70-kg person are sitting on a 

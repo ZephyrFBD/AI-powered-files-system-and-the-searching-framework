@@ -1,0 +1,13 @@
+ population is subject to a limiting resource, there is likely to be competition. In order to
+minimize conflict, the result of competition is often to distribute the resource equally among all individuals in a
+population. By equally apportioning space, the penguins minimize conflict. The desert shrubs minimize competition
+for water. Tropical trees of a single species are also uniformly spaced through the forest, not because of competition,
+but probably because it minimizes the effect of herbivory and the transmission of parasites and disease. The greater
+the distance between trees, the more difficulty herbivores have in locating a tree.
+6. C. The rate of growth, r, equals
+ 
+, or 0.1/year. 7. A. If the reproductive rate is greater than zero (r > 0), then the population is growing
+exponentially.
+8. A. This is an example of commensalism because the seeds are helped (dispersal occurs) and the mammals are not
+harmed or helped by the seeds.
+9. C. This is an example of Batesian mimicry becaus

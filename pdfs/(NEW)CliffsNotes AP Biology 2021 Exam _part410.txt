@@ -1,0 +1,14 @@
+gene pool.
+4. Outbreeding, or mating with unrelated partners, increases the possibility of mixing different alleles and creating
+new allele combinations.
+5. Balanced polymorphism is the maintenance of different phenotypes in a population. Often, a single phenotype
+provides the best adaptation, while other phenotypes are less advantageous. In these cases, the alleles for the
+advantageous trait increase in frequency, while the remaining alleles decrease. However, examples of polymorphism
+(the coexistence of two or more different phenotypes) are observed in many populations. These polymorphisms can
+be maintained in the following ways:
+Heterozygote advantage occurs when the heterozygous condition bears a greater selective advantage than either
+homozygous condition. As a result, both alleles and all three phenotypes are maintained in the population by
+selection. For example, the alleles for normal and sickle-cell hemoglobin
+proteins (HbA and HbS, respectively) produce three genotypes:
+ 
+HbA

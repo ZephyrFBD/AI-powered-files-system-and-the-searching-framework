@@ -1,0 +1,12 @@
+pheric pressure, defined as the force exerted by the atmosphere on a given surface area.
+You can demonstrate the existence of atmospheric pressure with an empty plastic 
+water bottle. If you suck on the mouth of the empty bottle, chances are you can cause 
+the bottle to partially cave in. When you break the partial vacuum you have created, the 
+bottle pops out to its original shape. The bottle caves in because, once you’ve sucked out 
+some of the air molecules, the air molecules in the atmosphere exert a force on the out-
+side of the bottle that is greater than the force exerted by the lesser number of air mole-
+cules inside the bottle. 
+We can calculate the magnitude of the atmospheric pressure using Equation 10.1. 
+The force, F, exerted by any object is the product of its mass, m, and its acceleration, a : 
+F = ma. When applied to our atmosphere, the force is the gravitational force, which is 
+also commonly called weight. The acceleration is that due to gravity, g = 9.8 m>s2. Thus, 

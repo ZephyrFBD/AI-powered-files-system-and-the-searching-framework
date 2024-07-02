@@ -1,0 +1,16 @@
+y deduced. For example, if the volume of 
+the system is reduced, the equilibrium will shift in the direction that 
+decreases the number of gas molecules. While changes in concentra-
+tion or pressure lead to shifts in the equilibrium concentrations, they 
+do not change the value of the equilibrium constant, K.
+Changes in temperature affect both the equilibrium concentrations 
+and the equilibrium constant. We can use the enthalpy change for a 
+reaction to determine how an increase in temperature affects the equi-
+librium: For an endothermic reaction, an increase in temperature shifts 
+the equilibrium to the right; for an exothermic reaction, a temperature 
+increase shifts the equilibrium to the left. Catalysts affect the speed at 
+which equilibrium is reached but do not affect the magnitude of K.
+Learning Outcomes After studying this chapter, you should be able to:
+t Explain what is meant by chemical equilibrium and how it re-
+lates to reaction rates. (Section 15.1) 
+Related Exercises: 

@@ -1,0 +1,27 @@
+in the periodic table: We see that the number of elements in 
+the rows of the periodic table—2, 8, 18, and 32—equals twice 
+these numbers. We will discuss this relationship further in 
+Section 6.9.
+Figure 6.18 shows the relative energies of the hydrogen atom 
+orbitals through n = 3. Each box represents an orbital, and orbit-
+als of the same subshell, such as the three 2p orbitals, are grouped 
+ 
+together. When the electron occupies the lowest-energy orbital 
+(1s), the hydrogen atom is said to be in its ground state. When the 
+electron occupies any other orbital, the atom is in an excited state. 
+(The electron can be excited to a higher-energy orbital by absorp-
+tion of a photon of appropriate energy.) At ordinary temperatures, 
+essentially all hydrogen atoms are in the ground state.
+TABLE 6.2 Relationship among Values of n, l, and ml through n = 4
+n
+Possible 
+Values of l
+Subshell 
+Designation
+Possible  
+Values of ml
+Number of Orbitals  
+in Subshell
+Total Number of 
+Orbitals in Shell
+1

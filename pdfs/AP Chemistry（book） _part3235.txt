@@ -1,0 +1,22 @@
+ernst equation with E° = 0. At physiological temperature 137 °C2 
+the potential in millivolts for moving K+ from the ECF to the ICF is
+ 
+E = E ° - 2.30 RT
+nF
+ log 
+3K+4ICF
+3K+4ECF
+ = 0 - 161.5 mV2 log a 135 mM
+4 mM b = -94 mV
+In essence, the interior of the cell and the ECF together serve as a vol-
+taic cell. The negative sign for the potential indicates that work is re-
+quired to move K+ into the ICF.
+Changes in the relative concentrations of the ions in the ECF 
+and ICF lead to changes in the emf of the voltaic cell. The cells of 
+the heart that govern the rate of heart contraction are called the 
+pacemaker cells. The membranes of the cells regulate the concen-
+trations of ions in the ICF, allowing them to change in a systematic 
+way. The concentration changes cause the emf to change in a cyclic 
+fashion, as shown in Figure 20.16. The emf cycle determines the 
+rate at which the heart beats. If the pacemaker cells malfunction 
+because of disease or injury, an artiﬁcial pacemaker can b

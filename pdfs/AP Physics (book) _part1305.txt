@@ -1,0 +1,27 @@
+to 5 m or more. A flute acts as an open tube, for it is open not only where you blow
+into it, but is open also at the opposite end. The different notes on a flute are
+obtained by shortening the length of the vibrating air column, by uncovering holes
+along the tube (so a displacement antinode can occur at the hole). The shorter
+the length of the vibrating air column, the higher the fundamental frequency.
+340
+CHAPTER 12
+Sound
+Sum of all three
+f1
+f2
+f3
+FIGURE 12–14 The amplitudes of the
+fundamental and first two overtones 
+are added at each point to get the 
+“sum,” or composite waveform.
+Node
+Antinode
+1
+4l
+FIGURE 12–13 Example 12–12.
+Flute. A flute is designed to play middle C (262 Hz) as the
+fundamental frequency when all the holes are covered. Approximately how long
+should the distance be from the mouthpiece to the far end of the flute? (This is
+only approximate since the antinode does not occur precisely at the mouthpiece.)
+Assume the temperature is 20°C.
+APPROACH When all holes are co

@@ -1,0 +1,32 @@
+the motor.
+24 revs
+1.35 rads.
+1.70 rads.
+1260 kgm2
+77. On a 12.0-cm-diameter audio compact disc (CD), digital
+bits of information are encoded sequentially along an 
+outward spiraling path.
+The spiral starts at radius
+and winds its way out to radius 
+To read the digital information, a CD player rotates the
+CD so that the player’s readout laser scans along the
+spiral’s sequence of bits at a constant linear speed of
+Thus the player must accurately adjust the rota-
+tional frequency f of the CD as the laser moves outward.
+Determine the values for f (in units of rpm) when the 
+laser is located at 
+and when it is at R2 .
+R1
+1.25 ms.
+R2 = 5.8 cm.
+R1 = 2.5 cm
+General Problems
+73. (III) An asteroid of mass 
+traveling at a speed
+of 
+relative to the Earth, hits the Earth at the equa-
+tor tangentially, in the direction of Earth’s rotation, and
+is embedded there. Use angular momentum to estimate
+the percent change in the angular speed of the Earth as a
+result of the collision.
+*8;9 Angular Quan

@@ -1,0 +1,20 @@
+ strategy varies from each
+model. That is to say that if the shape of bathtub changes, our strategy changes.
+What’s more, these changes are not the same.
+(3)Wasting water:
+Because the speed of adding water v, the time of draining away water t and the
+frequency of adding water all determines the volumes of wasting water. However, we
+can control these factors, so there is no effect on wasting water.
+(4)Conclusion:
+The shape of bathtub has little impact on the previous strategy, so it is suitable
+for different shaped bathtubs.
+5.2 The volume of the tub
+In the similar way, when it comes to volume, it is the same.
+(1)Even time：
+Team#44509
+Page 18 of 26
+Different volume of bathtubs relate to different lengths, widths and heights.
+Because we assume in the previous strategy that the height of water cylinder is the
+depth of water, this is based on the hypothesis that the height of bathtub is not very
+high. However, different bathtubs relate to different heights. If the height is too high,
+our a

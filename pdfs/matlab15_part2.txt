@@ -1,0 +1,100 @@
+
+initwb  
+阈值与权值的初始化函数 
+initzero 
+ 
+零权/阈值的初始化函数 
+initnw  
+Nguyen_Widrow 层的初始化函数 
+initcon  
+Conscience 阈值的初始化函数 
+midpoint 
+ 
+中点权值初始化函数 
+7. 性能分析函数 
+mae  
+ 
+均值绝对误差性能分析函数 
+mse  
+ 
+均方差性能分析函数 
+msereg  
+均方差w/reg 性能分析函数 
+dmse 
+ 
+ 
+均方差性能分析函数的导数 
+dmsereg  
+均方差w/reg 性能分析函数的导数 
+8. 学习函数 
+learnp  
+感知器学习函数 
+learnpn  
+标准感知器学习函数 
+learnwh  
+Widrow_Hoff 学习规则 
+learngd  
+BP 学习规则 
+learngdm 
+ 
+带动量项的BP 学习规则 
+learnk  
+Kohonen 权学习函数 
+learncon 
+ 
+Conscience 阈值学习函数 
+learnsom 
+ 
+自组织映射权学习函数 
+9. 自适应函数 
+adaptwb  
+网络权与阈值的自适应函数 
+10. 
+训练函数 
+trainwb  
+网络权与阈值的训练函数 
+traingd  
+梯度下降的BP 算法训练函数 
+traingdm 
+ 
+梯度下降w/动量的BP 算法训练函数 
+traingda 
+ 
+梯度下降w/自适应lr 的BP 算法训练函数 
+traingdx 
+ 
+梯度下降w/动量和自适应lr 的BP 算法训练函数 
+trainlm  
+Levenberg_Marquardt 的BP 算法训练函数 
+trainwbl 
+ 
+每个训练周期用一个权值矢量或偏差矢量的训练函数 
+11. 
+分析函数 
+maxlinlr 
+ 
+线性学习层的最大学习率 
+errsurf  
+误差曲面 
+12. 
+绘图函数 
+plotes  
+绘制误差曲面 
+plotep  
+绘制权和阈值在误差曲面上的位置 
+plotsom  
+绘制自组织映射图 
+13. 
+符号变换函数 
+ind2vec  
+转换下标成为矢量 
+vec2ind  
+转换矢量成为下标矢量 
+14. 
+拓扑函数 
+gridtop  
+网络层拓扑函数 
+hextop  
+六角层拓扑函数 
+randtop  
+随机层拓扑函数 

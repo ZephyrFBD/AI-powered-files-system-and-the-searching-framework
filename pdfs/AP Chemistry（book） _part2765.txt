@@ -1,0 +1,20 @@
+ould have to increase to maintain the equilibrium condition. Thus, a 
+sample of Mg1OH221s2 dissolves completely if sufficient acid is added, as we saw in Fig-
+ure 4.9 (page 135).
+As we have seen, the solubility of Mg1OH22 greatly increases as the acidity 
+of the solution increases. Based on this observation we can make the following 
+generalization:
+In general, the solubility of a compound containing a basic anion (that is, the 
+anion of a weak acid) increases as the solution becomes more acidic.
+The solubility of PbF2 increases as the solution becomes more acidic, too, because F - is 
+a base (it is the conjugate base of the weak acid HF). As a result, the solubility equilib-
+rium of PbF2 is shifted to the right as the concentration of F - is reduced by protonation 
+to form HF. Thus, the solution process can be understood in terms of two consecutive 
+reactions:
+PbF21s2 ∆ Pb2 +1aq2 + 2 F -1aq2 
+[17.18]
+F-1aq2 + H+1aq2 ∆ HF1aq2 
+[17.19]
+The equation for the overall process is
+ 
+ PbF21s2 

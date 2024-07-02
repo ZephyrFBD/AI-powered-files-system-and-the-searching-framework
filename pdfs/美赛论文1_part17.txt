@@ -1,0 +1,14 @@
+encing function are agreed by the 
+majority of the people. 
+ We will set a certain index to distinguish sustainable and unsustainable 
+development, which will present whether effects are positive or not. 
+ Combining effects with the last index we gain in the Chapter 2.3, we can gain the 
+final index, which shows that the index of this main factor. If the final index is 
+negative, we will view index as zero. If the final index is more than one, we will 
+view index as one. This kind of situation will only occur in the country which is 
+in zero development or ideal country, not in real life, so there is no differentiation. 
+According to such a situation, we do the approximate processing to ensure that 
+the final index is in the range of zero and one. 
+We consider the relations between society, economy and ecology. Based on the 
+assumptions, we only need to describe the relationship between one part to another, 
+which can be showed in the simulation of the corresponding function. Then ac

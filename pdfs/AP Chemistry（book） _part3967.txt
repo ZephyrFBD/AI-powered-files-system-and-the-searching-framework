@@ -1,0 +1,74 @@
+3 * 10-7
+Nickel(II) hydroxide
+Ni1OH22
+6.0 * 10-16
+Nickel(II) sulfide*
+NiS
+3 * 10-20
+Silver bromate
+AgBrO3
+5.5 * 10-13
+Silver bromide
+AgBr
+5.0 * 10-13
+Silver carbonate
+Ag2CO3
+8.1 * 10-12
+Silver chloride
+AgCl
+1.8 * 10-10
+Silver chromate
+Ag2CrO4
+1.2 * 10-12
+Silver iodide
+AgI
+8.3 * 10-17
+Silver sulfate
+Ag2SO4
+1.5 * 10-5
+Silver sulfide*
+Ag2S
+6 * 10-51
+Strontium carbonate
+SrCO3
+9.3 * 10-10
+Tin(II) sulfide*
+SnS
+1 * 10-26
+Zinc carbonate
+ZnCO3
+1.0 * 10-10
+Zinc hydroxide
+Zn1OH22
+3.0 * 10-16
+Zinc oxalate
+ZnC2O4
+2.7 * 10-8
+Zinc sulfide*
+ZnS
+2 * 10-25
+* For a solubility equilibrium of the type MS1s2 + H2O1l2 ∆ M2+1aq2 + HS-1aq2 + OH-1aq2
+ 
+APPENDIX D Aqueous Equilibrium Constants 
+1093
+1094
+STANDARD REDUCTION 
+POTENTIALS AT 25 °C
+E
+APPENDIX 
+Half-Reaction
+E °1V 2
+Ag+1aq2 + e- ¡ Ag1s2
++0.80
+AgBr1s2 + e- ¡ Ag1s2 + Br-1aq2
++0.10
+AgCl1s2 + e- ¡ Ag1s2 + Cl-1aq2
++0.22
+Ag1CN22 -1aq2 + e- ¡ Ag1s2 + 2 CN-1aq2
+-0.31
+Ag2CrO41s2 + 2 e- ¡ 2 Ag1s2 + CrO4
+2 -1aq2
++0.45
+AgI1s2 + e- ¡ Ag1s2 + I-1aq2
+-0.15
+Ag1S2O322

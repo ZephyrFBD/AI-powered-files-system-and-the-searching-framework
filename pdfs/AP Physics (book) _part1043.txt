@@ -1,0 +1,24 @@
+f a stream. When you lift 
+the rock through the surface of the water, it suddenly seems to be much heavier.
+Many objects, such as wood, float on the surface of water. These are two exam-
+ples of buoyancy. In each example, the force of gravity is acting downward. But
+in addition, an upward buoyant force is exerted by the liquid. The buoyant 
+force on fish and underwater divers almost exactly balances the force of gravity
+downward, and allows them to “hover” in equilibrium.
+The buoyant force occurs because the pressure in a fluid increases with depth.
+Thus the upward pressure on the bottom surface of a submerged object is greater
+than the downward pressure on its top surface. To see this effect, consider a
+cylinder of height 
+whose top and bottom ends have an area A and which is
+completely submerged in a fluid of density 
+as shown in Fig. 10–10. The 
+fluid exerts a pressure
+at the top surface of the cylinder (Eq. 10–3a).
+P
+1 = rFgh1
+rF,
+¢h
+268
+CHAPTER 10
+Fluids
+The force due to this pres

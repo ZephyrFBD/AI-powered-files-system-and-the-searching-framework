@@ -1,0 +1,19 @@
+tes the image of the tip of the arrow. The
+image is thus behind the mirror and is virtual.
+(b) We use Eq. 23–2 to find 
+when
+Therefore,
+The minus sign means the image is behind 
+the mirror,
+which our diagram also showed us. The magnification is
+So the image is 3.00 times
+larger than the object. The plus sign indicates that the image is upright (same as
+object), which is consistent with the ray diagram, Fig. 23–17.
+NOTE The image distance cannot be obtained accurately by measuring on
+Fig. 23–17, because our diagram violates the paraxial ray assumption (we draw
+rays at steeper angles to make them clearly visible).
+NOTE When the object is located inside the focal point of a concave mirror
+the image is always upright and virtual. If the object O in Fig. 23–17 is
+you, you see yourself clearly, because the reflected rays at point O (you) are
+diverging. Your image is upright and enlarged. This is how a shaving or cosmetic
+mirror is used—you must place your head closer to the mirror than the f

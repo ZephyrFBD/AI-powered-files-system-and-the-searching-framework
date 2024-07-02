@@ -1,0 +1,39 @@
+t, then apply f to the result.  
+ 
+ 
+77 
+ 
+The h machine is composed of the g machine (first) and then the f machine. 
+ 
+Given two functions f and g, the composite function (also called the composition of f and 
+g) is defined by 
+ 
+The domain of f(g(x))is the set of all x in the domain of g such that g(x) is in the domain of 
+f. In other words, f(g(x)) is defined whenever both g(x) and f(g(x)) are defined. 
+We can picture f(g(x)) using an arrow diagram. 
+ 
+Example 2 
+Let f(x) = x2 and g(x) = x -3. 
+(a) Find the functions f(g(x)) and g(f(x)). 
+(b) Find f(g(5)) and g(f(7)). 
+ 
+ 
+ 
+ 
+ 
+Example 3 
+ 
+ 
+ 
+ 
+ 
+2.4.3 Application of Composite Functions 
+ 
+78 
+When working with functions that model real-world situations, we name the variables using 
+letters that suggest the quantity being modeled. We may use t for time, d for distance, V 
+for volume, and so on. 
+ 
+Example 4 
+A ship is traveling at 20 mi/h parallel to a straight shoreline. The ship is 5 mi from shore. It 
+passes a lighthouse at n

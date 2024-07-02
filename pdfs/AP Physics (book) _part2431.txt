@@ -1,0 +1,29 @@
+ = 60 Hz
+Search and Learn
+A: (e).
+B: (a) Counterclockwise; (b) clockwise; (c) zero;
+(d) counterclockwise.
+C: Clockwise (conventional current counterclockwise).
+D: (a) Increase (brighter); (b) yes; resists more (counter
+torque).
+E: 10 turns.
+F: From Eq. 21–11b, the higher the frequency the lower the
+reactance, so in (a) more high frequency current flows to
+circuit B. In (b) higher frequencies pass to ground whereas
+lower frequencies pass more easily to circuit B.
+ANSWERS TO EXERCISES
+7.0 m
+2.0 m
+Coil
+l
+I0  155 A
+f  60 Hz
+FIGURE 21–66 Search and Learn 5.
+6. A ballistic galvanometer is a device that measures the total
+charge Q that passes through it in a short time. It is con-
+nected to a search coil that measures B (also called a flip coil)
+which is a small coil with N turns, each of cross-sectional
+area A. The flip coil is placed in the magnetic field to be
+measured with its face perpendicular to the field. It is then
+quickly rotated 180° about a diameter. Show that the total
+charge Q

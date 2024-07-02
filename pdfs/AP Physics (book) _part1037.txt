@@ -1,0 +1,25 @@
+ gauge
+pressure—the amount by which P exceeds atmospheric pressure 
+If the liquid
+in the left-hand column were lower than that in the right-hand column, P would
+have to be less than atmospheric pressure (and 
+would be negative).
+Instead of calculating the product 
+sometimes only the change in height 
+is specified. In fact, pressures are sometimes specified as so many “millimeters 
+of mercury” (mm-Hg) or “mm of water”
+The unit mm-Hg is equivalent
+to a pressure of 
+because 
+for 
+of mercury
+gives
+The unit mm-Hg is also called the torr in honor of Evangelista Torricelli
+(1608–1647), a student of Galileo’s who invented the barometer (see top of next
+page). Conversion factors among the various units of pressure (an incredible
+nuisance!) are given in Table 10–2. It is important that only
+the
+proper SI unit, be used in calculations involving other quantities specified in 
+SI units.
+Another type of pressure gauge is the aneroid gauge (Fig. 10–7b) in which
+the pointer is linked to the flexible e

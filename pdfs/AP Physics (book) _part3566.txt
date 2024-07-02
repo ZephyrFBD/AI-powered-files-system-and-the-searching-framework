@@ -1,0 +1,27 @@
+mall mass, get close to the speed of light quickly,
+and the tubes are nearly equal in length. Linear accelerators are particularly impor-
+tant for accelerating electrons to avoid loss of energy due to synchrotron radiation.
+The largest electron linear accelerator has been at Stanford University (Stanford
+Linear Accelerator Center, or SLAC), about 3 km (2 mi) long, accelerating
+electrons to 50 GeV. Linacs accelerating protons are used as injectors into circular
+machines to provide initial kinetic energy. Many hospitals have 10-MeV electron
+linacs that strike a metal foil to produce ray photons to irradiate tumors.
+g
+v L c,
+920
+CHAPTER 32
+Elementary Particles
+FIGURE 32–4 Diagram of a simple
+linear accelerator.
+∼
+Source
++
++
+–
++
+–
+Colliding Beams
+High-energy physics experiments were once done by aiming a beam of particles
+from an accelerator at a stationary target. But to obtain the maximum possible
+collision energy from a given accelerator, two beams of particles are now acceler-
+ated to 

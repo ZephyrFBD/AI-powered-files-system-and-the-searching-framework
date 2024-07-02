@@ -1,0 +1,26 @@
+.
+Q2,
+Q1
+FIGURE 16–13 Coulomb’s apparatus:
+when an external charged sphere is
+placed close to the charged one on the
+suspended bar, the bar rotates slightly.
+The suspending fiber resists the
+twisting motion, and the angle of twist
+is proportional to the force applied. With 
+this apparatus, Coulomb investigated 
+how the electric force varies as a 
+function of the magnitude of the charges
+and of the distance between them.
+FIGURE 16–12 A previously
+charged electroscope can be used to
+determine the sign of a charged object.
+FIGURE 16–11 Electroscope charged
+(a) by induction, (b) by conduction.
+As we just saw, Coulomb’s law, Eq. 16–1,
+[magnitudes] (16;1)
+gives the magnitude of the electric force that either charge exerts on the other.
+The direction of the electric force is always along the line joining the two charges.
+If the two charges have the same sign, the force on either charge is directed away
+from the other (they repel each other). If the two charges have opposite signs,
+the force o

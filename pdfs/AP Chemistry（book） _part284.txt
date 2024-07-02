@@ -1,0 +1,12 @@
+ineteenth century were aware that atoms of different elements have 
+different masses. They found, for example, that each 100.0 g of water contains 11.1 g 
+of hydrogen and 88.9 g of oxygen. Thus, water contains 88.9>11.1 = 8 times as much 
+oxygen, by mass, as hydrogen. Once scientists understood that water contains two hy-
+drogen atoms for each oxygen atom, they concluded that an oxygen atom must have 
+2 * 8 = 16 times as much mass as a hydrogen atom. Hydrogen, the lightest atom, was 
+arbitrarily assigned a relative mass of 1 (no units). Atomic masses of other elements were 
+at first determined relative to this value. Thus, oxygen was assigned an atomic mass of 16.
+Today we can determine the masses of individual atoms with a high degree of 
+accuracy. For example, we know that the 1H atom has a mass of 1.6735 * 10-24 g and 
+the 16O atom has a mass of 2.6560 * 10-23 g. As we noted in Section 2.3, it is conve-
+nient to use the atomic mass unit when dealing with these extremely small masses

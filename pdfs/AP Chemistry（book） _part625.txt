@@ -1,0 +1,27 @@
+er of moles of NaOH in 20.0 mL of solu-
+tion allows us to calculate the molarity of this solution:
+ Molarity NaOH = mol NaOH
+L soln
+ 
+ = a 4.56 * 10-2 mol NaOH
+20.0 mL soln
+b a 1000 mL soln
+1 L soln
+b
+ = 2.28 mol NaOH
+L soln
+= 2.28 M
+then slowly added until the solution turns pink, telling us that the neutralization reaction 
+between HCl and NaOH is complete. The standard solution is added from a burette so that 
+we can accurately determine the added volume of NaOH solution. Knowing the volumes 
+of both solutions and the concentration of the standard solution, we can calculate the 
+concentration of the unknown solution as diagrammed in Figure 4.19.
+◀ Figure 4.19 Procedure for determining the 
+concentration of a solution from titration with 
+a standard solution.
+152 
+CHAPTER 4 Reactions in Aqueous Solution
+SOLUTION
+Analyze We are given the volume (20.2 mL) and molarity (0.100 M)  
+of a solution of Ag+ and the chemical equation for reaction of this 
+ion with Cl-. We are asked to calculat

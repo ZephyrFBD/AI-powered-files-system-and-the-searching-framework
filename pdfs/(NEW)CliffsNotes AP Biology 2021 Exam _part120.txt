@@ -1,0 +1,10 @@
+conversions occur, more energy becomes unusable, things become disorganized, and disorder or
+randomness increases. That disorder is called entropy. Because energy is constantly moving from one form to
+another, a consequence of the second law of thermodynamics is that entropy increases in the universe.
+Energy conversions are usually discussed within the context of a system, such as a chemical reaction, a cell, a
+multicellular organism, or a planet like Earth. It can be a closed system, where only energy transfers among specific
+items are considered, or it can be an open system, in which exchanges of energy with the surroundings are included.
+Living things and the earth are open systems because they receive energy from sunlight.
+The energy in a system that is available for conversions is called its Gibbs free energy, and the change in free
+energy that occurs as a result of a conversion is represented by ΔG. Not all of this energy, however, is actually
+available for chemical reactions bec

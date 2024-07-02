@@ -1,0 +1,17 @@
+in Rome produced many previously unknown isotopes by
+bombarding different elements with neutrons. Fermi realized that if the heaviest
+known element, uranium, is bombarded with neutrons, it might be possible to
+produce new elements with atomic numbers greater than that of uranium. After
+several years of hard work, it was suspected that two new elements had been
+produced, neptunium 
+and plutonium 
+The full confirmation
+that such “transuranic” elements could be produced came several years later at
+the University of California, Berkeley. The reactions are shown in Fig. 31–1.
+It was soon shown that what Fermi had actually observed when he bom-
+barded uranium was an even stranger process—one that was destined to play an
+extraordinary role in the world at large. We discuss it in Section 31–2.
+Cross Section
+Some reactions have a higher probability of occurring than others. The reaction
+probability is specified by a quantity called the collision cross section. Although
+the size of a nucleus, li

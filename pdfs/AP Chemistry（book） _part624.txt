@@ -1,0 +1,29 @@
+ation reaction is:
+SOLUTION
+Analyze We are given the volume (45.7 mL) and molarity  
+(0.500 M) of an H2SO4 solution (the standard solution) that re-
+acts completely with 20.0 mL of NaOH solution. We are asked to 
+calculate the molarity of the NaOH solution.
+Plan Following the steps given in Figure 4.19, we use the H2SO4 
+volume and molarity to calculate the number of moles of H2SO4. 
+Then we can use this quantity and the balanced equation for the 
+reaction to calculate moles of NaOH. Finally, we can use moles of 
+NaOH and the NaOH volume to calculate NaOH molarity.
+Solve 
+The number of moles of H2SO4 is the product of the volume 
+and molarity of this solution:
+ Moles H2SO4 = (
+45.7 mL soln)a
+1L soln
+1000 mL solnb a 0.500 mol H2SO4
+L soln
+b
+ = 2.28 * 10-2 mol H2SO4
+H2SO41aq2 + 2 NaOH1aq2 ¡ 2 H2O1l2 + Na2SO41aq2
+According to the balanced equation, 
+1 mol H2SO4 ] 2 mol NaOH. Therefore,
+ Moles NaOH = 12.28 * 10-2 mol H2SO42a 2 mol NaOH
+1 mol H2SO4
+b
+ = 4.56 * 10-2 mol NaOH
+Knowing the numb

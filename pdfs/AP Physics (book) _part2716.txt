@@ -1,0 +1,14 @@
+ht passes through the liquid crystal. The light emerges
+with its plane of polarization rotated by 90°, and readily passes through the second
+polarizer, Fig. 24–51a. A tiny LCD pixel in this situation will appear bright.
+*
+Now suppose a voltage is applied to transparent electrodes on each glass
+plate of the pixel. The rod-like molecules are polar (or can acquire an internal
+separation of charge due to the applied electric field). The applied voltage tends
+to align the molecules end-to-end, and they no longer follow the careful twisted
+pattern shown in Fig. 24–51a. Instead the applied electric field tends to align the
+molecules end-to-end, left to right (perpendicular to the glass plates), Fig. 24–51b,
+and then they don’t affect the light polarization significantly. The entering plane-
+polarized light no longer has its plane of polarization rotated as it passes through
+the liquid crystal, and no light can exit through the second (horizontal) polarizer
+(Fig. 24–51b). With the voltage on, 

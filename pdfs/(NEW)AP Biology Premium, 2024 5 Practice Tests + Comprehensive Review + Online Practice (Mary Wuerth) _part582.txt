@@ -1,0 +1,11 @@
+ute is added to a solution, the relative amount of water in the solution decreases. As the amount of solute in
+a solution increases, the solute potential, and consequently the total water potential, decreases. Further details on
+how solute potential is calculated are discussed in Chapter 6.
+This investigation can be divided into multiple parts, as in the following scenario.
+Part 1: Artificial cells are made from agar or gelatin cubes impregnated with an indicator dye that can be used to
+track the movement of a solution into the artificial cell. Cubes of three different sizes, with three different surface
+area to volume ratios, are used, as described in the table.
+The cubes are placed into a solution, and the dye in the cubes is used to track the movement of the solution into
+the cells. This part of the lab demonstrates that smaller cells, with their higher surface area to volume ratios, are
+more efficient at taking in materials from their environment.
+Part 2: In this part of the invest

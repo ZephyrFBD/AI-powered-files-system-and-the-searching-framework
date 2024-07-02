@@ -1,0 +1,14 @@
+ and are thus freed to move through the lattice, giving 
+rise to electrical and thermal conductivity.
+Without the overlap of energy bands, the periodic properties of metals could not 
+be explained. In the absence of the d- and p-bands, we would expect the s-band to be 
+half-filled for the alkali metals (group 1A) and completely filled for the alkaline-earth 
+metals (group 2A). If that were true, metals like magnesium, calcium, and strontium 
+would not be good electrical and thermal conductors, in disagreement with experimen-
+tal observations.
+While the conductivity of metals can be qualitatively understood using either the 
+electron-sea model or the molecular orbital model, many physical properties of transi-
+tion metals, such as the melting points plotted in Figure 12.21, can be explained only 
+with the latter model. The molecular orbital model predicts that bonding first becomes 
+stronger as the number of valence electrons increases and the bonding orbitals are 
+increasingly populate

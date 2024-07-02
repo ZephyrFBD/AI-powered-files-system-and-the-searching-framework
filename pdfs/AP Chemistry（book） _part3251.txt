@@ -1,0 +1,16 @@
+ hybrid electric vehicles and fully electric vehicles are commer-
+cially available. Hybrid electric vehicles can be powered either by 
+electricity from batteries or by a conventional combustion engine, 
+while fully electric vehicles are powered exclusively by the batter-
+ies (Figure 20.22). Hybrid electric vehicles can be further divided 
+into plug-in hybrids, which require the owner to charge the battery 
+by plugging it into a conventional outlet, or regular hybrids, which 
+use regenerative braking and power from the combustion engine to 
+charge the batteries.
+Among the many technological advances needed to make elec-
+tric vehicles practical, none is more important than advances in 
+battery technology. Batteries for electric vehicles must have a high 
+specific energy density, to reduce the weight of the car, as well as 
+a high volumetric energy density, to minimize the space needed 
+for the battery pack. A plot of energy densities for various types 
+of rechargeable batteries is shown 

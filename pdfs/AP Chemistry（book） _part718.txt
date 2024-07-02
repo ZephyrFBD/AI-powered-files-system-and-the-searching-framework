@@ -1,0 +1,28 @@
+rmic reaction
+▲ Figure 5.12 Endothermic and exothermic 
+processes. (a) An endothermic process 
+1∆H 7 02 deposits heat into the system.  
+(b) An exothermic process 1∆H 6 02 
+withdraws heat from the system.
+Give It Some Thought
+When a reaction occurs in a flask, you notice that the flask gets colder. What is the 
+sign of ∆H?
+Because H is a state function, ∆H (which equals qP) depends only on the initial and 
+ 
+final states of the system, not on how the change occurs. At first glance this statement 
+ 
+ 
+SECTION 5.3   
+Enthalpy 
+175
+Sample Exercise 5.3 
+Determining the Sign of 횫H
+Indicate the sign of the enthalpy change, ∆H, in the following processes carried out under  
+atmospheric pressure and indicate 
+whether each process is endothermic or exothermic: (a) An ice cube melts; (b) 1 g of butane 1C4H102 is combusted in sufficient 
+oxygen to give complete combustion to CO2 and H2O.
+ 
+▶Practice Exercise 1
+A chemical reaction that gives off heat to its surroundings is  
+said to be 
+ and has a

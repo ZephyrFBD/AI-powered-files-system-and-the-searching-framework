@@ -1,0 +1,47 @@
+19–24), and the circuit contains a capacitor and a resistor. The
+charge on the capacitor increases to a certain point and then discharges a pulse 
+to the heart. Then it starts charging again. The pulsing rate depends on the time
+constant RC.
+C = 1 mF.
+C A U T I O N
+Keep one hand in your pocket
+when other touches electricity
+544
+CHAPTER 19
+DC Circuits
+(a)
+(b)
+I
+120 V
+“Yikes!”
+FIGURE 19–25 You can receive a
+shock when the circuit is completed.
+Current
+120 V
+(c)
+(b)
+120 V
+(a)
+Current
+120 V
+I
+I
+I
+I
+I
+†Even then you can get a bad shock from a capacitor that hasn’t been discharged until you touch it.
+P H Y S I C S  A P P L I E D
+Grounding and shocks
+(a)
+(b)
+FIGURE 19–27 (a) A 3-prong plug,
+and (b) an adapter (white) for old-
+fashioned 2-prong outlets—be sure to
+screw down the ground tab (green color
+in photo).
+FIGURE 19–26 (a) An electric oven
+operating normally with a 2-prong
+plug. (b) A short to a metal case
+which is ungrounded, causing a shock.
+(c) A short to the case which is
+grounded by

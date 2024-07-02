@@ -1,0 +1,16 @@
+in-
+drical lens focuses a point into a line parallel to its axis. An astigmatic eye may
+focus rays in one plane, such as the vertical plane, at a shorter distance than it does
+for rays in a horizontal plane. Astigmatism is corrected with the use of a compen-
+sating cylindrical lens. Lenses for eyes that are nearsighted or farsighted as well 
+as astigmatic are ground with superimposed spherical and cylindrical surfaces, so
+that the radius of curvature of the correcting lens is different in different planes.
+Farsighted eye. A farsighted eye has a near point of 
+100 cm. Reading glasses must have what lens power so that a newspaper can be
+read at a distance of 25 cm? Assume the lens is very close to the eye.
+APPROACH When the object is placed 25 cm from the lens (
+), we want the
+image to be 100 cm away on the same side of the lens (so the eye can focus it),
+and so the image is virtual, as shown in Fig. 25–13, and
+will be
+negative. We use the thin lens equation (Eq. 23–8) to determine the n

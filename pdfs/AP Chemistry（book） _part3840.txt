@@ -1,0 +1,24 @@
+nscribed inside to denote delocalized p bonds. 
+Each vertex represents a carbon atom. Each carbon is bound to three other atoms—either three 
+carbons, or two carbons and a hydrogen—so that each carbon has the requisite four bonds.
+∆H° = −208 kJ/mol
+3 H2
++
+H2
++
+∆H°
+−120 kJ/mol
+=
+2 H2
++
+∆H°
+        −232 kJ/mol
+=
+From the second and third reactions, it appears that the energy released upon hydroge-
+nation of each double bond is roughly 118 kJ/mol for each bond. Benzene contains the 
+equivalent of three double bonds. We might expect, therefore, the energy released upon 
+hydrogenation of benzene to be about 3 times -118, or -354 kJ>mol, if benzene behaved 
+as though it were “cyclohexatriene,” that is, if it behaved as though it had three isolated 
+double bonds in a ring. Instead, the energy released is 146 kJ less than this, indicating that 
+benzene is more stable than would be expected for three double bonds. The difference of 
+146 kJ>mol between the expected heat of hydrogenation 1-354 kJ

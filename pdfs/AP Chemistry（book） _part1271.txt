@@ -1,0 +1,18 @@
+s 
+structures is an important skill that you should practice. 
+How to Draw Lewis Structures
+ 
+1. Sum the valence electrons from all atoms, taking into account overall 
+charge. Use the periodic table to help you determine the number of valence elec-
+trons in each atom. For an anion, add one electron to the total for each negative 
+charge. For a cation, subtract one electron from the total for each positive charge. 
+Do not worry about keeping track of which electrons come from which atoms. 
+Only the total number is important.
+ 
+2. Write the symbols for the atoms, show which atoms are attached to 
+which, and connect them with a single bond (a line, representing two 
+electrons). Chemical formulas are often written in the order in which the atoms are 
+connected in the molecule or ion. The formula HCN, for example, tells you that the 
+carbon atom is bonded to the H and to the N. In many polyatomic molecules and 
+ions, the central atom is usually written first, as in CO3
+2 - and SF4. Remember

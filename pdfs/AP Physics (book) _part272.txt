@@ -1,0 +1,29 @@
+(2–11a through 2–11c) separately for the vertical and
+horizontal components of the motion. These equations are shown separately for
+the x and y components of the motion in Table 3–1, for the general case of two-
+dimensional motion at constant acceleration. Note that x and y are the respective
+displacements, that 
+and 
+are the components of the velocity, and that 
+and 
+are the components of the acceleration, each of which is constant.
+The subscript 0 means “at
+”
+t = 0.
+ay
+ax
+vy
+vx
+We can simplify Eqs.2–11 to use for projectile motion because we can set
+See Table 3–2, which assumes y is positive upward, so
+–9.80 ms2.
+ay = –g =
+ax = 0.
+If the projection angle 
+is chosen relative to the 
+axis (Fig. 3–20), then
+and
+In doing Problems involving projectile motion, we must consider a time interval for
+which our chosen object is in the air, influenced only by gravity. We do not consider
+the throwing (or projecting) process, nor the time after the object lands or is caught,
+because then other in

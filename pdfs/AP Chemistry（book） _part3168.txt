@@ -1,0 +1,28 @@
+each other.
+We check the balanced equation by counting atoms and charges (Step 5). There are 
+16 H, 2 Mn, 28 O, 10 C, and a net charge of 4+ on each side of the equation, confirming 
+that the equation is correctly balanced.
+Give It Some Thought
+Do free electrons appear anywhere in the balanced equation for a redox reaction?
+Complete and balance this equation by the method of half-reactions:
+Cr2O7
+2-1aq2 + Cl-1aq2 ¡ Cr3+1aq2 + Cl21g2 1acidic solution2
+Solve
+Step 1: We divide the equation into two half- 
+reactions:
+Analyze We are given an incomplete, unbalanced (skeleton) equa-
+tion for a redox reaction occurring in acidic solution and asked to 
+complete and balance it.
+Plan We use the half-reaction procedure we just learned.
+Cr2O7
+2-1aq2 ¡ Cr3+1aq2
+Cl-1aq2 ¡ Cl21g2
+14 H+1aq2 + Cr2O7
+2-1aq2 ¡ 2 Cr3+1aq2 + 7 H2O1l2
+SOLUTION
+Sample Exercise 20.2 
+Balancing Redox Equations in Acidic Solution
+Step 2: We balance each half-reaction. In the 
+ﬁrst half-reaction the presence of one Cr2O7
+2- 
+amon

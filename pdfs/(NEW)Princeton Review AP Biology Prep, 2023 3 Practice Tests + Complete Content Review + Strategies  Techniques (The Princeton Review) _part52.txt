@@ -1,0 +1,28 @@
+time. This process was repeated 50 times at each temperature. The results are indicated in Table 1.
+Table 1. Levels of CO2 over time
+CO2 levels (ppm ± 2 SEx)
+Temperature (°C)
+0 min
+5 min
+10 min
+20
+1034 ± 26
+1074 ± 251
+1112 ± 71
+35
+1560 ± 55
+1670 ± 120
+1785 ± 100
+50
+2021 ± 35
+2040 ± 55
+2051 ± 5
+(a) Describe how CO2 is a measure of respiration. Explain why temperature might affect the rate of
+respiration.
+(b) On a set of axes, construct an appropriately labeled graph to demonstrate the CO2 levels with changing
+temperature. Please include all temperatures, timepoints, and error bars.
+(c) Identify which temperature was associated with the highest respiration rate in the crickets.
+(d) Predict what would happen to the CO2 levels in the chamber with an additional 5°C increase above the
+highest temperature. Justify your prediction with evidence from the data.
+3. A researcher was trying to determine why a strain of influenza spreads more easily than other strains. She
+suspected that the answer 

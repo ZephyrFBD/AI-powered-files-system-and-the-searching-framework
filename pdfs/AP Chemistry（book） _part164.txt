@@ -1,0 +1,22 @@
+has a higher density than air—1 kg of air 
+has the same mass as 1 kg of iron, but the iron occupies a smaller volume, thereby giving 
+it a higher density. If we combine two liquids that do not mix, the less dense liquid will 
+float on the denser liquid.
+Units of Energy
+The SI unit for energy is the joule (pronounced “jool”), J, in honor of James Joule (1818−1889), 
+a British scientist who investigated work and heat. If we return to Equation 1.2 where kinetic 
+energy was defined, we immediately see that joules are a derived unit, 1 J = 1 kg-m2/s2. 
+ 
+Numerically, a 2-kg mass moving at a velocity of 1 m/s possesses a kinetic energy of 1 J:
+Ek = 1
+2 mv2 = 1
+2 (2 kg) (1 m>s)2 = 1 kg@m2>s2 = 1 J
+22 
+CHAPTER 1 Introduction: Matter, Energy, and Measurement
+ 
+ 
+Sample Exercise 1.5
+Identifying and Calculating Energy Changes
+Sample Exercise 1.4
+Determining Density and Using Density to Determine Volume or Mass
+A standard propane (C3H8) tank used in an outdoor grill holds approximately 9.0 kg of p

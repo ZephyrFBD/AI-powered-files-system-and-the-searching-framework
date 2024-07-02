@@ -1,0 +1,12 @@
+way, are encoded together
+in blocks called operons. For example, all of the genes needed to use lactose as an energy source are coded next to each
+other in the lactose (or lac) operon.
+In prokaryotic cells, there are three types of regulatory molecules that can affect the expression of operons: repressors,
+activators, and inducers. Repressors are proteins that suppress transcription of a gene in response to an external stimulus,
+whereas activators are proteins that increase the transcription of a gene in response to an external stimulus. Finally, inducers
+are small molecules that either activate or repress transcription depending on the needs of the cell and the availability of
+substrate.
+The trp Operon: A Repressor Operon
+Bacteria such as E. coli need amino acids to survive. Tryptophan is one such amino acid that E. coli can ingest from the
+environment. E. coli can also synthesize tryptophan using enzymes that are encoded by five genes. These five genes are
+next to each other in what 

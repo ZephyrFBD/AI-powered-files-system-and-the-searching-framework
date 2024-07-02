@@ -1,0 +1,20 @@
+the volume of B is known). Starting from either a known volume or a known molarity of the  
+solution containing B, we follow the green arrows to determine the mass of substance A.
+masses of substances involved in a reaction into moles. When dealing with pure sub-
+stances, as we did in Chapter 3, we use molar mass to convert between grams and moles 
+of the substances. This conversion is not valid when working with a solution because 
+both solute and solvent contribute to its mass. However, if we know the solute con-
+centration, we can use molarity and volume to determine the number of moles (moles 
+solute = M * V). Figure 4.17 summarizes this approach to using stoichiometry for the 
+reaction between a pure substance and a solution.
+ 
+Sample Exercise 4.15 
+Using Mass Relations in a Neutralization Reaction
+How many grams of Ca(OH)2 are needed to neutralize 25.0 mL of 0.100 M HNO3?
+ Moles HNO3 = VHNO3 * MHNO3 = 10.0250 L2a
+0.100 mol HNO3
+L
+b 
+ = 2.50 * 10-3 mol HNO3
+SOLUTION
+Analyze The re

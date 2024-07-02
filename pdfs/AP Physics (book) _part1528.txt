@@ -1,0 +1,70 @@
+f mixtures,” a sample of a substance is
+heated to a high temperature, which is accurately measured, and then quickly
+placed in the cool water of the calorimeter. The heat lost by the sample will be
+gained by the water and the calorimeter cup. By measuring the final temperature
+of the mixture, the specific heat can be calculated, as illustrated in the following
+Example.
+P R O B L E M  S O L V I N G
+Be sure to consider all possible 
+sources of energy transfer
+P H Y S I C S  A P P L I E D
+Measuring Calorie content
+SECTION 14–5
+397
+20
+Ice
+Water
+and
+ice
+Water and steam
+Water
+(all liquid)
+0
+100
+740
+Heat added (kcal)
+Water vapor (steam)
+Temperature (°C)
+120
+100
+80
+60
+40
+20
+0
+−20
+−40
+200
+300
+400
+500
+600
+700
+FIGURE 14;5 Temperature as a
+function of the heat added to bring
+1.0 kg of ice at 
+to steam
+above 100°C.
+–40°C
+TABLE 14;3 Latent Heats (at 1 atm)
+Substance 
+Melting Point
+Heat of Fusion 
+Boiling Point
+Heat of Vaporization
+(°C)
+†
+(°C)
+†
+Oxygen 
+.8
+14 
+3.3 
+210
+51 
+Nitrogen 
+.0
+26 
+6.1 
+.8
+20

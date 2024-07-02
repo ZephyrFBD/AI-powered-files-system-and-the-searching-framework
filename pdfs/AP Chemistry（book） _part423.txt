@@ -1,0 +1,29 @@
+rward if the chemical 
+formula is known. The calculation depends on the formula weight of the substance, the 
+atomic weight of the element of interest, and the number of atoms of that element in the 
+chemical formula:
+ 
+    
+=
+anumber of atoms
+of element
+b a
+atomic weight
+of element
+b
+formula weight of substance
+* 100% 
+[3.10] 
+Practice is the key to success in solving problems. As you practice, 
+you can improve your skills by following these steps:
+1.  
+Analyze the problem. Read the problem carefully. What does 
+it say? Draw a picture or diagram that will help you to visualize 
+the problem. Write down both the data you are given and the 
+quantity you need to obtain (the unknown).
+2.  
+Develop a plan for solving the problem. Consider a possi-
+ble path between the given information and the unknown. What 
+principles or equations relate the known data to the unknown? 
+Recognize that some data may not be given explicitly in the prob-
+lem; you may be expected to know certain quantities or l

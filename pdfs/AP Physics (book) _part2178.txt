@@ -1,0 +1,13 @@
+ two new magnets are produced, Fig. 20–3, each with north (N) and
+south (S) poles. If the cutting operation is repeated, more magnets are produced,
+each with a north and a south pole. Physicists have searched for isolated single
+magnetic poles (monopoles), but no magnetic monopole has ever been observed.
+Besides iron, a few other materials, such as cobalt, nickel, gadolinium, and
+some of their oxides and alloys, show strong magnetic effects. They are said to be
+ferromagnetic (from the Latin word ferrum for iron). Other materials show some
+slight magnetic effect, but it is very weak and can be detected only with delicate
+instruments. We will look in more detail at ferromagnetism in Section 20–12.
+In Chapter 16, we used the concept of an electric field surrounding an electric
+charge. In a similar way, we can picture a magnetic field surrounding a magnet. The
+force one magnet exerts on another can then be described as the interaction between
+one magnet and the magnetic field of the other.

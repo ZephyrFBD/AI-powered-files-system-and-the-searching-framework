@@ -1,0 +1,53 @@
+This process is called charging by
+conduction, or “by contact,” and the two objects end up with the same sign of
+charge.
+Now suppose a positively charged object is brought close to a neutral metal
+rod, but does not touch it. Although the free electrons of the metal rod do not leave
+the rod, they still move within the metal toward the external positive charge,
+leaving a positive charge at the opposite end of the rod (Fig.16–7b). A charge is said
+to have been induced at the two ends of the metal rod. No net charge has been created
+in the rod: charges have merely been separated. The net charge on the metal rod
+is still zero. However, if the metal is separated into two pieces, we would have two
+charged objects: one charged positively and one charged negatively. This is
+charging by induction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+(b)
+(c)
++
+–
++
+–
++
+–
++
+–
++
+–
+Nonconductor
++
++
++
++
++
++
+Insulator
+Metal
+Gold
+leaves
+Glass
+FIGURE 16–10 Electroscope.
+FIGURE 16–9 A charged object
+brought near a nonconductor 

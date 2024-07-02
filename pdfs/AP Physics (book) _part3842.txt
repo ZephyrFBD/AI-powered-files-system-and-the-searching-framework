@@ -1,0 +1,17 @@
+Fictitious (Inertial) Forces
+Because Newton’s laws do not hold when observations are made with respect to
+a rotating frame of reference, calculation of motion can be complicated. How-
+ever, we can still apply Newton’s laws in such a reference frame if we make use 
+of a trick. The ball on the rotating platform of Fig. C–1a flies outward when
+released (even though no force is actually acting on it). So the trick we use is to
+write down the equation
+as if a force equal to 
+(or 
+) were
+acting radially outward on the object in addition to any other forces that may be
+acting. This extra force, which might be designated as “centrifugal force” since it
+seems to act outward, is called a fictitious force or pseudoforce. It is a pseudo-
+force (“pseudo” means “false”) because there is no object that exerts this force.
+Furthermore, when viewed from an inertial reference frame, the effect doesn’t
+exist at all. We have made up this pseudoforce so that we can make calculations
+in a noninertial frame u

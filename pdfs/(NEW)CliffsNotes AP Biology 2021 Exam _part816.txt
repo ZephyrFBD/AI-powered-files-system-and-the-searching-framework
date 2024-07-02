@@ -1,0 +1,14 @@
+art III: Comparing Fruit Fly Preferences
+In this part of the investigation, you design an experiment to determine the degree of preference that fruit flies have
+for chemicals. In other words, you determine which chemical is their favorite, which is their least favorite, and
+preferences of the remaining chemicals that fall in between. Pair each chemical with every other chemical in a two-
+pole (two-ended) choice chamber or test multiple chemicals at once with a multi-pole chamber. Collect your data
+into a table (Figure 17-8).
+Figure 17-8
+Use a χ2statistical analysis to see if the combined data of your class are
+ 
+significant.
+The AP exam may ask you to design an experiment similar to the one you completed in this lab. Begin by selecting
+a type of organism and observing them in the absence of applied stimuli. Then, change the environment by
+introducing a stimulus. Only one stimulus should be applied at a time. In the investigation that you completed above,
+that one stimulus was a chemica

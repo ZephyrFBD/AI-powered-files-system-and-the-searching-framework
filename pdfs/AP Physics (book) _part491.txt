@@ -1,0 +1,38 @@
+ Earth on any object decreases
+with the square of its distance r from the Earth’s center:
+The Moon is 60 Earth radii away, so it feels a gravitational force only
+times as strong as it would if it were at a point on the Earth’s surface.
+Newton realized that the force of gravity on an object depends not only on
+distance but also on the object’s mass. In fact, it is directly proportional to its
+mass, as we have seen (Eq. 4–3). According to Newton’s third law, when the Earth
+exerts its gravitational force on any object, such as the Moon, that object exerts an
+equal and opposite force on the Earth (Fig. 5–17). Because of this symmetry,
+Newton reasoned, the magnitude of the force of gravity must be proportional to
+both masses:
+where 
+and 
+are the masses of the Earth and the other object, respectively,
+and r is the distance from the Earth’s center to the center of the other object.
+mObj
+mE
+F
+G r
+mEmObj
+r2
+,
+1
+602 =
+1
+3600
+F
+G r
+1
+r2 .
+F
+G
+F
+grav
+60 * 60 = 602 = 3600.
+1
+3600
+aR = 0.00272 ms2

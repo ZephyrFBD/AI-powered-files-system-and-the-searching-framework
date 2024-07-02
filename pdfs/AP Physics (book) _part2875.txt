@@ -1,0 +1,38 @@
+ an Earth-based telescope’s
+aperture have to be in order to obtain an image that resolved
+this star–planet system? Assume the light emitted by the
+star and planet has a wavelength of 550 nm.
+57. (II) If you could shine a very powerful flashlight beam
+toward the Moon, estimate the diameter of the beam when
+it reaches the Moon. Assume that the beam leaves the
+flashlight through a 5.0-cm aperture, that its white light has
+an average wavelength of 550 nm, and that the beam
+spreads due to diffraction only.
+l = 550 nm
+f = 9 mm?
+(l = 550 nm)
+(l = 560 nm)?
+R = 14.5 cm.
+f
+2 = ±25.3 cm.
+f
+1 = –27.8 cm
+15*.
+5*
+f = 0.740 cm.
+60.0*
+14.0*
+742
+CHAPTER 25
+Optical Instruments
+58. (II) The normal lens on a 35-mm camera has a focal length
+of 50.0 mm. Its aperture diameter varies from a maximum
+of 25 mm (
+2) to a minimum of 3.0 mm (
+16). Determine
+the resolution limit set by diffraction for (
+2) and (
+16).
+Specify as the number of lines per millimeter resolved on
+the detector or film. Take 
+59. (III) Supp

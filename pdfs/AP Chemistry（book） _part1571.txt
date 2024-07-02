@@ -1,0 +1,24 @@
+
+V ∝nT
+P  
+If we call the proportionality constant R, we obtain an equality:
+ 
+V = RanT
+P b 
+which we can rearrange to
+ 
+PV = nRT 
+[10.5]
+which is the ideal-gas equation (also called the ideal-gas law). An ideal gas is a 
+hypothetical gas whose pressure, volume, and temperature relationships are described 
+completely by the ideal-gas equation.
+Sample Exercise 10.3 
+Evaluating the Effects of Changes in P, V, n, and T  on a Gas
+Suppose we have a gas confined to a cylinder with a movable piston that is sealed so there are no leaks. 
+ (Sections 5.2, 5.3) 
+How will each of the following changes affect (i) the pressure of the gas, (ii) the number of moles of gas in the cylinder, (iii) the 
+average distance between molecules: (a) Heating the gas while maintaining a constant pressure; (b) Reducing the volume while 
+maintaining a constant temperature; (c) Injecting additional gas while keeping the temperature and volume constant.
+ 
+SOLUTION
+Analyze We need to think how each change affects (1) t

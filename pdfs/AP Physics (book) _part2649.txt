@@ -1,0 +1,17 @@
+he light emitted by one lightbulb would have a random
+phase with respect to the second bulb, and the screen would be more or less uni-
+formly illuminated. Two such sources, whose output waves have phases that bear
+no fixed relationship to each other over time, are called incoherent sources.
+24–4 The Visible Spectrum and Dispersion
+Two of the most important properties of light are readily describable in terms of the
+wave theory of light: intensity (or brightness) and color. The intensity of light is the
+energy it carries per unit area per unit time, and is related to the square of the ampli-
+tude of the wave, as for any wave (see Section 11–9, or Eqs. 22–7 and 22–8). The
+color of light is related to the frequency f or wavelength 
+of the light. (Recall
+Eq. 22–4.) Visible light—that to which our eyes are 
+sensitive—consists of frequencies from 
+to 
+correspond-
+ing to wavelengths in air of about 400 nm to 750 nm.† This is the visible spectrum,
+and within it lie the different colors from vi

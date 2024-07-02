@@ -1,0 +1,41 @@
+s2 + O21g2 ¡  2 CO1g2   
+∆H = -221.0 kJ
+2 C1s2 + O21g2 + 4 H21g2 ¡  2 CH3OH1g2 ∆H = -402.4 kJ
+ 
+ calculate ∆H for the reaction
+ 
+ 
+CO1g2 + 2 H21g2 ¡ CH3OH1g2
+ 5.65 From the enthalpies of reaction
+ 
+   H21g2 + F21g2 ¡  2 HF1g2   ∆H = -537 kJ
+  
+   C1s2 + 2 F21g2 ¡  CF41g2  
+ ∆H = -680 kJ
+  
+ 2 C1s2 + 2 H21g2 ¡  C2H41g2  
+∆H = +52.3 kJ
+ 
+ calculate ∆H for the reaction of ethylene with F2:
+ 
+ 
+C2H41g2 + 6 F21g2 ¡  2 CF41g2 + 4 HF1g2
+ 5.66 Given the data
+ 
+   N21g2 + O21g2 ¡  2 NO1g2     ∆H = +180.7 kJ
+ 
+ 2 NO1g2 + O21g2 ¡  2 NO21g2    
+∆H = -113.1 kJ
+ 
+      2 N2O1g2 ¡  2 N21g2 + O21g2   ∆H = -163.2 kJ
+ 
+ use Hess’s law to calculate ∆H for the reaction
+ 
+ 
+N2O1g2 + NO21g2 ¡  3 NO1g2
+Enthalpies of Formation (section 5.7)
+ 5.67 (a) What is meant by the term standard conditions with ref-
+erence to enthalpy changes? (b) What is meant by the term 
+enthalpy of formation? (c) What is meant by the term standard 
+enthalpy of formation?
+ 5.68 (a) What is the value of the standard enthalpy of format

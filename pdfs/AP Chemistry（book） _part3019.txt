@@ -1,0 +1,17 @@
+d 
+to understand his contribution, we need to examine the ways in which we can interpret 
+entropy at the molecular level.
+Expansion of a Gas at the Molecular Level
+Consider a simple spontaneous process—the expansion of a gas into a vacuum as shown 
+in Figure 19.5. Though we now understand that the entropy of the universe increases 
+during the expansion, how can we explain the spontaneity of this process at the molec-
+ular level? We can get a sense of what makes this expansion spontaneous by envision-
+ing the gas as a collection of particles in constant motion, as we did in discussing the 
+ 
+kinetic-molecular theory of gases. 
+ (Section 10.7) When the stopcock in Figure 19.5 is 
+opened, we can view the expansion of the gas as the ultimate result of the gas molecules 
+moving randomly throughout the larger volume.
+Let’s look at this idea more closely by tracking two of the gas molecules as they 
+move around. Before the stopcock is opened, both molecules are confined to the left 
+flask, as

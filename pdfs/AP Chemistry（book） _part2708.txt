@@ -1,0 +1,40 @@
+a) the pH of the original buffer described in Sam-
+ple Exercise 17.6 after the addition of 0.020 mol HCl and  
+(b) the pH of the solution that would result from the addi-
+tion of 0.020 mol HCl to 1.000 L of pure water.
+CH3COOH1aq2 + OH-1aq2 ¡ H2O1l2 + CH3COO-1aq2
+Before reaction (mol)
+0.300
+0.020
+—
+ 0.300
+Change (limiting 
+reactant) (mol)
+-0.020
+-0.020
+—
++0.020
+After reaction (mol)
+0.280
+0
+—
+  0.320
+ 
+Equilibrium Calculation: We now turn 
+our attention to the equilibrium for the 
+ionization of acetic acid, the relationship 
+that determines the buffer pH:
+CH3COOH1aq2 ∆ H+1aq2 + CH3COO-1aq2
+Using the quantities of CH3COOH 
+and CH3COO- remaining in the 
+buffer after the reaction with strong 
+base, we determine the pH using the 
+Henderson–Hasselbalch equation. 
+The volume of the solution is now 
+1.000 L + 0.0050 L = 1.005 L due to 
+addition of the NaOH solution:
+pH = 4.74 + log 
+0.320 mol>1.005 L
+0.280 mol>1.005 L = 4.80
+(b) To determine the pH of a solution made 
+by adding 0.020 mol of Na

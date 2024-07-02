@@ -1,0 +1,19 @@
+electrons. There are four electrons in bonding orbitals and two in antibonding orbitals, 
+so the bond order is 1
+214 - 22 = 1. The molecule has a single bond, in agreement with its 
+Lewis structure.
+Because both the s
+1s and s
+1s
+*  MOs of Li2 are completely filled, the 1s orbitals contribute 
+almost nothing to the bonding. The single bond in Li2 is due essentially to the interaction 
+of the valence 2s orbitals on the Li atoms. This example illustrates the general rule that core 
+electrons usually do not contribute significantly to bonding in molecules. The rule is equivalent 
+to using only the valence electrons when drawing Lewis structures. Thus, we need not con-
+sider further the 1s orbitals while discussing the other period 2 diatomic molecules.
+The MO description of Be2 follows readily from the energy-level diagram for Li2. 
+Each Be atom has four electrons 11s22s22, so we must place eight electrons in molecular 
+orbitals. Therefore, we completely fill the s
+1s, s1s
+* , s
+2s, and s

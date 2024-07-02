@@ -1,0 +1,46 @@
+either tetrahedral or square planar. In complexes having 
+coordination number 6, the geometry is nearly always octahedral.
+ 
+SECTION 23.3   
+Common Ligands in Coordination Chemistry 
+997
+998 
+CHAPTER 23 Transition Metals and Coordination Chemistry
+One common chelating agent is the bidentate ligand ethylenediamine, denoted en:
+CH2
+H2N
+NH2
+CH2
+in which each donor nitrogen atom has one nonbonding electron pair. These donor at-
+oms are sufficiently far apart to allow both of them to bond to the metal ion in adjacent 
+positions. The 3Co(en)343 +  complex ion, which contains three ethylenediamine ligands 
+in the octahedral coordination sphere of cobalt(III), is shown in Figure 23.11. Notice that 
+in the image on the right the en is written in a shorthand notation as two nitrogen atoms 
+connected by an arc.
+TABLE 23.4 Some Common Ligands
+Ligand Type
+Examples
+C
+O
+2−
+Carbonate ion
+4−
+Ethylenediaminetetraacetate ion (EDTA4−)
+O
+O
+C
+C
+O
+O
+C
+O
+O
+O
+O
+2−
+Oxalate ion
+CH2
+H2C
+NH2
+H2N
+Ethylenediamine (e

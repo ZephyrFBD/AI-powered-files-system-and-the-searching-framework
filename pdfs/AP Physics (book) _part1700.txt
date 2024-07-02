@@ -1,0 +1,24 @@
+22°C. Cal-
+culate the rate at which entropy increases in this process.
+45. (II) A 2.8-kg piece of aluminum at 28.5°C is placed in 1.0 kg
+of water in a Styrofoam container at room temperature
+(20.0°C). Estimate the net change in entropy of the system.
+46. (II) A falling rock has kinetic energy KE just before striking
+the ground and coming to rest. What is the total change in
+entropy of rock plus environment as a result of this collision?
+47. (II) 1.0 kg of water at 35°C is mixed with 1.0 kg of water at
+45°C in a well-insulated container. Estimate the net change
+in entropy of the system.
+48. (III) A real heat engine working between heat reservoirs at
+970 K and 650 K produces 550 J of work per cycle for a heat
+input of 2500 J. (a) Compare the efficiency of this real engine
+to that of an ideal (Carnot) engine. (b) Calculate the total
+entropy change of the universe per cycle of the real engine,
+and (c) also if the engine is ideal (Carnot).
+8.40 cals
+–8.0°C,
+–8.0°C
+1.00 m3
+4.0 ms
+1.00 m3
+C

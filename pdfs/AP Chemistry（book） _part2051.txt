@@ -1,0 +1,21 @@
+e solubilities are in millimoles of gas 
+per liter of solution.
+▲ Figure 13.14 Gas solubility decreases as pressure decreases. CO2 bubbles out of solution when 
+a carbonated beverage is opened because the CO2 partial pressure above the solution is reduced.
+Calculate the concentration of CO2 in a soft drink that is bottled with a partial pressure of CO2 of 4.0 atm over the liquid at 25 °C. 
+The Henry’s law constant for CO2 in water at this temperature is 3.4 * 10-2 mol>L@atm.
+Sample Exercise 13.2 
+A Henry’s Law Calculation
+SOLUTION
+Analyze We are given the partial pressure of CO2, P
+CO2, and the 
+Henry’s law constant, k, and asked to calculate the concentration 
+of CO2 in the solution.
+Plan With the information given, we can use Henry’s law, Equa-
+tion 13.4, to calculate the solubility, SCO2.
+Solve  SCO2 = kP
+CO2 = 13.4 * 10-2 mol>L@atm214.0 atm2
+ 
+ = 0.14 mol>L = 0.14 M
+Check The units are correct for solubility, and the answer has two 
+significant figures consistent with both the part

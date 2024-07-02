@@ -1,0 +1,39 @@
+amu
+88.0 amu = 2
+Consequently, we multiply the subscripts in the empirical formula by this multiple, 
+ 
+giving the molecular formula: C6H8O6.
+ 
+(3) We determine the simplest whole-number ratio of moles by dividing each number of moles by the smallest number of moles.
+Assume
+100-g
+sample
+Use
+molar
+mass
+Mass %
+elements
+Grams of
+each element
+Moles of
+each element
+Calculate
+mole ratio
+Empirical
+formula
+C :  3.407
+3.406 = 1.000 H : 4.54
+3.406 = 1.33 O : 3.406
+3.406 = 1.000
+The ratio for H is too far from 1 to attribute the difference to experimental error; in fact, it is quite close to 11
+3. This suggests we should 
+multiply the ratios by 3 to obtain whole numbers:
+C : H : O = 13 * 1 : 3 * 1.33 : 3 * 12 = 13 : 4 : 32
+Thus, the empirical formula is C3H4O3.
+ 
+Sample Exercise 3.14 
+Determining a Molecular Formula
+Mesitylene, a hydrocarbon found in crude oil, has an empirical formula of C3H4 and an experimentally determined molecular 
+weight of 121 amu. What is its molecular formula?
+SOLUTION
+A

@@ -1,0 +1,92 @@
+ult of this analysis, which Galileo himself predicted, is that an object
+projected horizontally will reach the ground in the same time as an object dropped
+vertically. This is because the vertical motions are the same in both cases, as shown
+in Fig. 3–18. Figure 3–19 is a multiple-exposure photograph of an experiment
+that confirms this.
+v
+B
+v
+B
+y,
+v
+B
+x
+x = vx 0t + 1
+2 ax t2 = vx 0t.
+ax = 0
+vx 0 ,
+vx,
+ax = 0,
+SECTION 3–5
+Projectile Motion
+59
+x
+y
+θ
+0
+= 0 at this point
+0
+0
+y
+y
+y0
+x
+v
+S
+y
+x
+y
+x
+x0
+v
+S
+=
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+g
+B
+a
+B
+FIGURE 3;20 Path of a projectile launched with
+initial velocity 
+at angle 
+to the horizontal.
+Path is shown dashed in black, the velocity 
+vectors are green arrows, and velocity 
+components are dashed. The figure does 
+not show where the projectile hits the ground 
+(at that point, projectile motion ceases).
+u0
+v
+B
+0
+FIGURE 3;19 Multiple-exposure
+photograph showing positions of 
+two balls at equal time intervals.
+One ball was d

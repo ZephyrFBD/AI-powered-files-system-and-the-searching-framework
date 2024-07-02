@@ -1,0 +1,17 @@
+to a higher energy state in the atom if
+its energy is not sufficient to knock the electron out altogether. In this process
+the photon also disappears, and all its energy is given to the atom. Such an
+atom is then said to be in an excited state, and we shall discuss it more later.
+3. The photon can be scattered from an electron (or a nucleus) and in the
+process lose some energy; this is the Compton effect (Fig. 27–9). But notice
+that the photon is not slowed down. It still travels with speed c, but its
+frequency will be lower because it has lost some energy.
+4. Pair production: A photon can actually create matter, such as the production
+of an electron and a positron, Fig. 27–10. (A positron has the same mass as
+an electron, but the opposite charge,
+)
+In process 4, pair production, the photon disappears in the process of creating
+the electron–positron pair. This is an example of mass being created from pure
+energy, and it occurs in accord with Einstein’s equation 
+Notice that a
+photon ca

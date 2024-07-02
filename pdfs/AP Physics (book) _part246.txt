@@ -1,0 +1,121 @@
+the negative of the second. Thus our rules for addition of vectors can be applied as
+shown in Fig. 3–8 using the tail-to-tip method.
+V
+B
+2 - V
+B
+1 = V
+B
+2 + A –V
+B
+1B.
+V
+B
+2 - V
+B
+1
+SECTION 3–4
+Adding Vectors by Components
+53
+–
++
+=
+=
+–
+1
+–
+1
+1
+2
+–
+1
+2
+2
+2
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+FIGURE 3;8 Subtracting two 
+vectors: V
+B
+2 - V
+B
+1.
+FIGURE 3;10 Resolving a vector 
+into its 
+components along a chosen set of x and y axes.
+The components, once found, themselves 
+represent the vector. That is, the components 
+contain as much information as the vector itself.
+V
+B
+= 1.5
+2
+= −2.0
+3
+V
+B
+V
+B
+V
+B
+V
+B
+V
+B
+FIGURE 3;9 Multiplying a vector 
+by a scalar c gives a vector whose
+magnitude is c times greater and in 
+the same direction as
+(or opposite
+direction if c is negative).
+V
+B
+V
+B
+θ
+C
+North
+East
+North
+East
+y
+x
+B
+A
+(a)
+y
+x
+(b)
+0
+0
+(= 30°)
+(= 30°)
+θ
+x
+y
+V
+B
+V
+B
+V
+B
+V
+B
+A vector 
+can be multiplied by a scalar c. We define their product so that 
+has the same direction as 
+and has magnitude cV. Tha

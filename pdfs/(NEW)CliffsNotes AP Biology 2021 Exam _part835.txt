@@ -1,0 +1,11 @@
+eaction is the slope of the plotted curve at the beginning of the reaction. Since the straight
+line portion of the curve from 0 to 2 seconds indicates a constant rate of reaction, the slope at any point along this
+portion of the line will provide the initial rate. For the entire interval from 0 to 2 seconds, the slope, determined by
+the change in product formed divided by the change in time, is
+.
+5. C. An enzyme that is heated to 100°C will be structurally damaged. As a result, the reaction, no longer under the
+influence of the enzyme, is not likely to occur. If any activity persists, the reaction rate would be equivalent to the
+same reaction in the absence of the enzyme (extremely slow).
+6. C. Since enzyme-mediated reactions are reversible (they convert product back to substrate), increasing the
+concentration of the product will slow the forward direction of the reaction and accelerate the reverse reaction.
+Conversely, an increase in the substrate concentration will increase the forwa

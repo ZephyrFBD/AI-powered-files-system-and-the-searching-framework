@@ -1,0 +1,18 @@
+ic field has the same magnitude at 
+all points, and we can write
+(16;6)
+The fringing of the field near the edges can often be ignored, particularly if the
+separation of the plates is small compared to their height and width.† We summarize
+the properties of field lines as follows:
+1. Electric field lines indicate the direction of the electric field; the field points
+in the direction tangent to the field line at any point.
+2. The lines are drawn so that the magnitude of the electric field, E, is propor-
+tional to the number of lines crossing unit area perpendicular to the lines.
+The closer together the lines, the stronger the field.
+3. Electric field lines start on positive charges and end on negative charges;
+and the number starting or ending is proportional to the magnitude of the
+charge.
+Also note that field lines never cross. Why not? Because it would not make sense
+for the electric field to have two directions at the same point.
+Gravitational Field
+The field concept can also be appl

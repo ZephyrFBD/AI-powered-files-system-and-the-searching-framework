@@ -1,0 +1,27 @@
+are connected by a light string passing
+over a pulley of radius 0.15 m and moment of inertia I.
+The blocks move (towards the right) with an acceleration
+of 
+along their frictionless inclines (see Fig. 8–51).
+(a) Draw free-body diagrams for each of the two blocks
+and the pulley. (b) Determine 
+and 
+the tensions 
+in the two parts of the string. (c) Find the net torque acting
+on the pulley, and determine its moment of inertia, I.
+F
+TB,
+F
+TA
+1.00 ms2
+41. (II) A dad pushes tangentially on a small hand-driven
+merry-go-round and is able to accelerate it from rest to a
+frequency of 15 rpm in 10.0 s. Assume the merry-go-round
+is a uniform disk of radius 2.5 m and has a mass of 560 kg,
+and two children (each with a mass of 25 kg) sit opposite
+each other on the edge. Calculate the torque required
+to produce the acceleration, neglecting frictional torque.
+What force is required at the edge?
+40. (II) A potter is shaping a bowl on a potter’s wheel rotating at
+constant angular velocity of 
+(Fig.8–48

@@ -1,0 +1,16 @@
+p, ruling out (C) and (D). In
+Experiment 2, the addition of protein Y by itself does not change protein X
+levels, while in Experiment 3, the addition of protein Y with protein X
+prevents an increase in protein X levels over time, indicating protein Y is
+most likely inhibiting rather than promoting the transcription of the X
+operon. This observation is the opposite of (B), but matches (A).
+24. C
+Adding lactose to E. coli cells increases protein Y levels, suggesting lactose
+is increasing the transcription of the Y operon. Inhibiting RNA polymerase
+from binding to the promoter would instead decrease transcription, ruling
+out (D). Experiments 1, 2, and 3 also show that protein X does not aﬀect
+protein Y levels, so even if lactose did decrease transcription of the X
+operon, protein Y levels would not change, eliminating (B). Inducers
+increase gene expression by binding to and disabling repressors, which
+matches (C). While enhancers also increase transcription, they are DNA
+sequences, not di

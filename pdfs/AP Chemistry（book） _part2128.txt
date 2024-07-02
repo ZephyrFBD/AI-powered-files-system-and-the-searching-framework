@@ -1,0 +1,55 @@
+rcent
+t ppm of component =
+mass of component in soln
+total mass of soln
+* 106 
+ 
+[13.6]  
+Concentration in terms of parts per million (ppm)
+t  
+Mole fraction of component =
+moles of component
+total moles of all components 
+[13.7]  
+Concentration in terms of mole fraction
+t Molarity = moles of solute
+liters of soln  
+ 
+[13.8]  
+Concentration in terms of molarity
+t Molality =
+moles of solute
+kilograms of solvent 
+ 
+[13.9]  
+Concentration in terms of molality
+t P
+solution = XsolventP°
+solvent 
+ 
+[13.10]  
+ 
+Raoult’s law, calculating vapor pressure of solvent 
+above a solution
+t ∆T
+b = iKbm 
+ 
+[13.12]  
+The boiling-point elevation of a solution
+t ∆T
+f = -iKfm 
+ 
+[13.13]  
+The freezing-point depression of a solution
+t Π = ia n
+VbRT = iMRT 
+ 
+[13.14]  
+The osmotic pressure of a solution
+Exercises
+Visualizing Concepts
+ 13.1  Rank the contents of the following containers in order of in-
+creasing entropy: [Section 13.1]
+(a) Which atom of water is associated with the cation? 
+Explain.
+(b

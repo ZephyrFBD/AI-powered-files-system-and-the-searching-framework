@@ -1,0 +1,24 @@
+ly dissolved strong electrolytes 
+(such as soluble ionic compounds) are written as separate ions.  
+As the (aq) designations remind us, CaCl2, Na2CO3, and NaCl are 
+all dissolved in the solution. Furthermore, they are all strong  
+electrolytes. CaCO3 is an ionic compound, but it is not soluble. 
+We do not write the formula of any insoluble compound as its 
+component ions. Thus, the complete ionic equation is
+Ca2+1aq2 + 2 Cl-1aq2 + 2 Na+1aq2 + CO3
+2-1aq2 ¡
+CaCO31s2 + 2 Na+1aq2 + 2 Cl-1aq2
+The spectator ions are Na+ and Cl-. Canceling them gives the  
+following net ionic equation:
+ 
+Ca2+1aq2 + CO3
+2-1aq2 ¡ CaCO31s2 
+Check We can check our result by confirming that both the ele-
+ments and the electric charge are balanced. Each side has one Ca, 
+one C, and three O, and the net charge on each side equals 0.
+Comment If none of the ions in an ionic equation is removed from 
+solution or changed in some way, all ions are spectator ions and a 
+reaction does not occur.
+ 
+SECTION 4.3   
+Acids, Bas

@@ -1,0 +1,105 @@
+e, trumpet, and
+pipe organ. We have already seen that the pitch of a pure sound is determined 
+by the frequency. Typical frequencies for musical notes on the “equally tempered
+chromatic scale” are given in Table 12–3 for the octave beginning with middle C.
+Note that one octave corresponds to a doubling of frequency. For example, middle C
+has frequency of 262 Hz whereas 
+(C above middle C) has twice that frequency,
+524 Hz. [Middle C is the C or “do” note at the middle of a piano keyboard.]
+C¿
+SECTION 12–4
+Sources of Sound: Vibrating Strings and Air Columns
+335
+TABLE 12–3 Equally
+T
+empered Chromatic Scale
+Frequency 
+Note
+Name
+(Hz)
+C
+do
+262
+or
+277
+D
+re
+294
+or
+311
+E
+mi
+330
+F
+fa
+349
+or
+370
+G
+sol
+392
+or
+415
+A
+la
+440
+or
+466
+B
+ti
+494
+do
+524
+† Only one octave is included.
+C¿
+B♭
+A♯
+A♭
+G♯
+G♭
+F♯
+E♭
+D♯
+D♭
+C♯
+†
+T
+hr
+esh
+ol
+d
+o
+f
+pain
+Thresh
+old
+of
+he
+ar
+i
+n
+g
+120
+Sound level (dB)
+Intensity (W/m2)
+100
+80
+60
+40
+0
+20
+Frequency (Hz)
+20
+50 100
+500 1000
+5000 10,000
+120 phons
+100
+80
+60
+40
+0
+20
+1
+10−2
+10−4

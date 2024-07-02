@@ -1,0 +1,27 @@
+an electron makes a transition from the ni = 4 level to a lower-energy level, nf = 3, 2, or 1, which transition would 
+produce a photon with the shortest wavelength?
+(b) What are the energy and wavelength of such a photon, and in which region of the electromagnetic spectrum does it lie?
+(c) The image on the right shows the output of a detector that measures the intensity of light emitted from a sample of hydrogen atoms 
+that have been excited so that each atom begins with an electron in the n = 4 state. What is the final state, nf, of the transition being 
+detected?
+e2
+n 5 3
+n 5 4
+n 5 2
+n 5 1
+300
+400
+500
+600
+700
+800
+900
+Wavelength (nm)
+Intensity of emmitted light
+SOLUTION
+Analyze We are asked to determine the energy and wavelength 
+associated with various transitions involving an electron relaxing 
+from the n = 4 state of the hydrogen atom to one of three lower- 
+energy states.
+Plan Given the integers representing the initial and final states of 
+the electron, we can use Equation 6.6 t

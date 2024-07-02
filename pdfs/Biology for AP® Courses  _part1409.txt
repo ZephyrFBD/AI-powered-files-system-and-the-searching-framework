@@ -1,0 +1,33 @@
+, cC)/64 =
+27/64.
+B. Using the probability method, calculate the likelihood
+of these phenotypes from each trihybrid cross:
+•
+recessive in all traits from the cross AaBbCc ×
+aabbcc
+•
+recessive in the gene with alleles C and c and
+dominant in the other two traits from the cross
+AaBbCc × AaBbCc
+•
+dominant in the gene with alleles A and a and
+recessive in the other two traits from the cross
+AaBbcc × AaBbCc
+C. The probability method is an easy way to calculate the
+likelihood of each particular phenotype, but it doesn’t
+simultaneously display the probability of all possible
+phenotypes. The forked line representation described in
+the text allows the entire phenotypic distribution to be
+displayed. Using the forked line method, calculate the
+probabilities in a cross between AABBCc and Aabbcc
+parents:
+•
+all traits are recessive: aabbcc
+•
+traits are dominant at each loci, A?B?C?
+•
+traits are dominant at two genes and recessive at the
+third
+•
+traits are dominant at one gene and recessive at the
+ot

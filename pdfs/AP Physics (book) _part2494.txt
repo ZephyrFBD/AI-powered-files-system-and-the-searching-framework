@@ -1,0 +1,21 @@
+toward the Earth’s surface, 550 km away. When the
+beam strikes Earth, its circular diameter is about 1500 m.
+Find the rms electric field strength of the beam.
+43. (III) A 1.60-m-long FM antenna is oriented parallel to the
+electric field of an EM wave. How large must the electric
+field be to produce a 1.00-mV (rms) voltage between the ends
+of the antenna? What is the rate of energy transport per m2?
+C = 810 pF.
+1.8 mH.
+22–6 Radiation Pressure
+31. (II) Estimate the radiation pressure due to a bulb that emits
+25 W of EM radiation at a distance of 9.5 cm from the center
+of the bulb. Estimate the force exerted on your fingertip if
+you place it at this point.
+32. (II) What size should the solar panel on a satellite orbiting
+Jupiter be if it is to collect the same amount of radiation
+from the Sun as a
+solar panel on a satellite orbiting
+Earth? [Hint: Assume the inverse square law (Eq. 11–16b).]
+33. (III) Suppose you have a car with a 100-hp engine. How large 
+a solar panel would you need to r

@@ -1,0 +1,25 @@
+be out the forward hatch so that its speed relative to
+the planet that you are approaching is 0.95c. With what
+speed must it leave your ship?
+v2 = –0.80c
+v1 = ±0.70c
+54. What is the speed of a particle when its kinetic energy
+equals its rest energy? Does the mass of the particle affect
+the result?
+55. The nearest star to Earth is Proxima Centauri, 4.3 light-
+years away. (a) At what constant velocity must a spacecraft
+travel from Earth if it is to reach the star in 4.9 years, as
+measured by travelers on the spacecraft? (b) How long does
+the trip take according to Earth observers?
+56. According to the special theory of relativity, the factor 
+that determines the length contraction and the time
+dilation is given by 
+Determine the
+numerical values of 
+for an object moving at speed
+0.05c, 0.10c, 0.20c, 0.30c, 0.40c, 0.50c, 0.60c,
+0.70c, 0.80c, 0.90c, 0.95c, and 0.99c. Make a graph of
+versus v.
+57. A healthy astronaut’s heart rate is 
+Flight
+doctors on Earth can monitor an astronaut’s vital 

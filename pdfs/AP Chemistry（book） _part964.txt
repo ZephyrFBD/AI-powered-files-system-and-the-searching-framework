@@ -1,0 +1,18 @@
+ortion of the electromagnetic spectrum.
+▲ Figure 6.28 MRI image. This image of a human head, obtained 
+using magnetic resonance imaging, shows a normal brain, airways, 
+and facial tissues.
+A major challenge facing medical diagnosis is seeing inside the hu-
+man body. Until recently, this was accomplished primarily by X-ray 
+technology. X rays do not, however, give well-resolved images of 
+overlapping physiological structures, and sometimes fail to discern 
+diseased or injured tissue. Moreover, because X rays are high-energy 
+radiation, they potentially can cause physiological harm, even in low 
+doses. An imaging technique developed in the 1980s called magnetic 
+resonance imaging (MRI) does not have these disadvantages.
+The foundation of MRI is a phenomenon called nuclear  
+magnetic 
+resonance (NMR), which was discovered in the mid-1940s. Today NMR 
+has become one of the most important spectroscopic methods used 
+in chemistry. NMR is based on the observation that, like electrons, 
+the nu

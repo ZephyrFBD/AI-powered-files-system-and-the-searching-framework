@@ -1,0 +1,37 @@
+; each carries the same charge Q. (a) What
+is the force sphere B exerts on sphere A? (b) An identical
+sphere with zero charge, sphere C, makes contact with
+sphere B and is then moved very far away. What is the net
+force now acting on sphere A? (c) Sphere C is brought back
+and now makes contact with sphere A and is then moved
+far away. What is the force on sphere A in this third case?
+59. For an experiment, a colleague of yours says he smeared
+toner particles uniformly over the surface of a sphere 1.0 m
+in diameter and then measured an electric field of
+near its surface. (a) How many toner particles
+(Example 16–6) would have to be on the surface to pro-
+duce these results? (b) What is the total mass of the toner
+particles?
+60. A proton 
+is suspended at rest in a
+uniform electric field 
+Take into account gravity at the
+Earth’s surface, and determine E
+B.
+E
+B.
+Am = 1.67 * 10–27 kgB
+5000 NC
+l
+l
+2
+1
+Q1
+Q2
+u
+u
+FIGURE 16–64
+Problem 52.
+53. A positive point charge 
+is fixed at 
+the origin of 

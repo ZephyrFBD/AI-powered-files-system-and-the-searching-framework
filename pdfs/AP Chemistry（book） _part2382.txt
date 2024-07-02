@@ -1,0 +1,35 @@
+the starting 
+concentrations of NO2 and N2O4?
+Equilibrium Constants in Terms of Pressure, Kp
+When the reactants and products in a chemical reaction are gases, we can for-
+mulate the equilibrium-constant expression in terms of partial pressures. When 
+partial pressures in atmospheres are used in the expression, we denote the equi-
+librium constant Kp (where the subscript p stands for pressure). For the general 
+reaction in Equation 15.7, we have
+ 
+Kp =
+1P
+D2d1P
+E2e
+1P
+A2a1P
+B2b 
+[15.11]
+where P
+A is the partial pressure of A in atmospheres, P
+B is the partial pressure of B in atmo-
+spheres, and so forth. For example, for our N2O4>NO2 reaction, we have
+ 
+Kp =
+1P
+NO222
+P
+N2O4
+ 
+For a given reaction, the numerical value of Kc is generally different from the numer-
+ical value of Kp. We must therefore take care to indicate, via subscript c or p, which con-
+stant we are using. It is possible, however, to calculate one from the other using the 
+ideal-gas equation  
+ (Section 10.4):
+ 
+PV = nRT,

@@ -1,0 +1,44 @@
+ 
+If a wrench is 28 cm long,
+what force perpendicular to the wrench must the mechanic
+exert at its end? If the six-sided bolt head is 15 mm across
+(Fig. 8–44), estimate the force applied near each of the six
+points by a wrench.
+95 mN.
+28 cm
+15 mm
+   on bolt
+on wrench
+F
+B
+F
+B
+FIGURE 8;44 Problem 28.
+65 N
+56 N
+52 N
+45°
+58°
+C
+P
+32°
+FIGURE 8;45
+Problem 29.
+Triceps
+muscle
+Axis of rotation
+(at elbow)
+2.5 cm
+31 cm
+8;5 and 8;6 Rotational Dynamics
+30. (I) Determine the moment of inertia of a 10.8-kg sphere of
+radius 0.648 m when the axis of rotation is through its center.
+31. (I) Estimate the moment of inertia of a bicycle wheel 67 cm
+in diameter. The rim and tire have a combined mass of
+1.1 kg. The mass of the hub (at the center) can be ignored
+(why?).
+32. (II) A merry-go-round accelerates from rest to 
+in 34 s. Assuming the merry-go-round is a uniform disk of
+radius 7.0 m and mass 31,000 kg, calculate the net torque
+required to accelerate it.
+33. (II) An oxygen molecule consists of two oxyge

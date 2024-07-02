@@ -1,0 +1,25 @@
+pressure of the water above this solution is 
+ 
+80.0 % of that of pure water:
+ 
+P
+solution = 10.8002117.5 torr2 = 14.0 torr 
+The presence of the nonvolatile solute lowers the vapor pressure of the volatile solvent by 
+17.5 torr - 14.0 torr = 3.5 torr.
+The vapor–pressure lowering, ∆P, is directly proportional to the mole fraction of the 
+solute, Xsolute :
+ 
+∆P = Xsolute P°
+solvent 
+[13.11]
+Thus, for the example of the solution of glucose in water, we have
+ 
+∆P = XC6H12O6 P°
+H2O = 10.2002117.5 torr2 = 3.50 torr 
+The vapor–pressure lowering caused by adding a nonvolatile solute depends on the 
+total concentration of solute particles, regardless of whether they are molecules or ions. 
+Remember that vapor–pressure lowering is a colligative property, so its value for any solu-
+tion depends on the concentration of solute particles and not on their kind or identity.
+Give It Some Thought
+Does adding 1 mol of NaCl to 1 kg of water lower the vapor pressure of water to the 
+same extent, a lesser e

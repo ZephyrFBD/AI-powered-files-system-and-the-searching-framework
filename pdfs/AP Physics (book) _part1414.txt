@@ -1,0 +1,21 @@
+s
+absolute temperature is a straight line that passes through the origin. Thus, to a
+good approximation, the v
+volume of a fixed quantity of gas is directly proportional
+to the absolute temperature w
+when the pressure is kept constant. This is known as
+Charles’s law, and is written
+[constant P]
+A third gas law, known as Gay-Lussac’s law, after Joseph Gay-Lussac
+(1778–1850), states that at constant v
+volume, the absolute pressure of a fixed quantity
+of a gas is directly proportional to the absolute temperature:
+[constant V]
+The laws of Boyle, Charles, and Gay-Lussac are not really laws in the sense
+that we use this term today (precise, deep, wide-ranging validity). They are really
+only approximations that are accurate for real gases only as long as the pressure
+and density of the gas are not too high, and the gas is not too close to liquefaction
+(condensation). The term law applied to these three relationships has become
+traditional, however, so we have stuck with that usage.
+P r T.
+V r

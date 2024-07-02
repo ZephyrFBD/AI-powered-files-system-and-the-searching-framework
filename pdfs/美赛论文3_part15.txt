@@ -1,0 +1,84 @@
+mperature of the room is higher than 15 C
+
+, so
+Team#44509
+Page 6 of 26
+that 
+
+38
+15
+23
+25
+T
+C
+C
+C
+C
+
+
+
+
+
+
+
+
+
+
+. That is why the Newton's law of cooling
+can be used to analyze the problem in such a situation.
+2.2 Even loop model
+2.2.1 Variable declaration
+Symbol
+Definition
+( , ,z,t)
+u
+u x y
+
+The temperature of the water at the position
+
+, ,
+x y z
+in the bathtub
+( ,y,z)
+c x
+The specific heat capacity of the water at the position
+
+, ,
+x y z
+in
+the bathtub
+( ,y,z)
+k x
+The heat conduction modulus at the position
+
+, ,
+x y z
+in the
+bathtub
+01
+u
+The temperature of the water in the bathtub that fits people best
+02
+u
+The lowest temperature of the water in the bathtub that people can
+tolerant（It usually can be 35according to most people.）
+1
+u
+The temperature of adding hot water
+2
+u
+The temperature of the water in the bathtub when adding hot water
+into the bathtub(
+2
+02
+u
+u
+
+)
+3
+u
+The final temperature distribution function when adding hot water
+into the bathtub
+4
+u
+The fina

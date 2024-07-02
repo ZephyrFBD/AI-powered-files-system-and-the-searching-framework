@@ -1,0 +1,55 @@
+es each cube land?
+[Hint: Both leave the incline
+moving horizontally.]
+–x
+4.0 ms
+4.0 ms.
+–x
+6.5 ms
+±x
+©F
+B
+ext ¢t = ¢p
+B.
+©p
+B
+i = ©p
+B
+f,
+©F
+B
+ext = 0
+©F
+B
+ext = ¢p
+B¢t.
+4. The gravitational slingshot effect. Figure 7–51 shows the
+planet Saturn moving in the negative x direction at its
+orbital speed (with respect to the Sun) of 
+The
+mass of Saturn is 
+A spacecraft with mass
+825 kg approaches Saturn. When far from Saturn, it moves
+in the 
+direction at 
+The gravitational attrac-
+tion of Saturn (a conservative force) acting on the spacecraft
+causes it to swing around the planet (orbit shown as dashed
+line) and head off in the opposite direction. Estimate the
+final speed of the spacecraft after it is far enough away to
+be considered free of Saturn’s gravitational pull.
+10.4 kms.
+±x
+5.69 * 1026 kg.
+9.6 kms.
+Search and Learn
+A: Yes, if the sports car’s speed is three times greater.
+B: Larger (
+is greater).
+C: (a) 
+(b) almost zero; (c) almost 
+D: 0.50 ms.
+24.0 ms.
+6.0 ms;
+¢p
+E: (b);

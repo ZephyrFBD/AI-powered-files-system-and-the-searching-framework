@@ -1,0 +1,53 @@
+ward and  
+we have
+so the normal force is  
+Now we apply Newton’s second law for the
+horizontal (x) direction (positive to the right), and include the friction force:
+The friction force is kinetic friction as long as
+is less than
+which it is:
+Hence the box does accelerate:
+In the absence of friction, as we saw in Example 4–11, the acceleration would be
+much greater than this.
+NOTE Our final answer has only two significant figures because our least sig-
+nificant input value
+has two.
+Amk = 0.30B
+ax = F
+Px - F
+fr
+m
+= 34.6 N - 23.4 N
+10.0 kg
+= 1.1 ms2.
+F
+fr = mkF
+N = (0.30)(78.0 N) = 23.4 N.
+(40.0 N) cos 30.0° = 34.6 N,
+F
+Px =
+F
+fr = mkF
+N
+F
+Px - F
+fr = max.
+F
+N = 78.0 N.
+F
+N - 98.0 N + 20.0 N = 0,
+F
+N - mg + F
+Py = may
+ay = 0,
+(40.0 N)(sin 30.0°) = 20.0 N.
+F
+Py =
+mg = (10.0 kg)A9.80 ms2B = 98.0 N
+F
+P
+EXAMPLE 4;18
+T
+o push or to pull a sled? Your little sister
+wants a ride on her sled. If you are on flat ground, will you exert less force if you
+push her or pull her? See Figs. 4–31a and b

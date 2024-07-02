@@ -1,0 +1,14 @@
+ of a gas, partly because
+the expansion can be so great, and partly because gases generally expand to fill
+whatever container they are in. Indeed, Eq. 13–2 is meaningful only if the pres-
+sure is kept constant. The volume of a gas depends very much on the pressure as
+well as on the temperature. It is therefore valuable to determine a relation
+between the volume, the pressure, the temperature, and the quantity of a gas. Such
+a relation is called an equation of state. (By the word state, we mean the physical
+condition of the system.)
+If the state of a system is changed, we will always wait until the pressure and
+temperature have reached the same values throughout. We thus consider only
+equilibrium states of a system—when the variables that describe it (such as tem-
+perature and pressure) are the same throughout the system and are not changing in
+time. We also note that the results of this Section are accurate only for gases that
+are not too dense (the pressure is not too high, on the ord

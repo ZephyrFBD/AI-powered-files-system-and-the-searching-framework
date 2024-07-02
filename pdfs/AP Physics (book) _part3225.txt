@@ -1,0 +1,19 @@
+–3). The chlorine atom acquires a net negative charge
+as a result of the extra electron, whereas the sodium atom is left with a net positive
+charge. The electrostatic attraction between these two charged atoms holds them
+together. The resulting bond is called an ionic bond because it is created by the
+attraction between the two ions (
+and 
+). But to understand the ionic bond,
+we must understand why the extra electron from the sodium spends so much of
+its time around the chlorine. After all, the chlorine atom is neutral; why should 
+it attract another electron?
+The answer lies in the probability distributions of the electrons in the two
+neutral atoms. Sodium contains 11 electrons, 10 of which are in spherically sym-
+metric closed shells (Fig. 29–4). The last electron spends most of its time beyond
+these closed shells. Because the closed shells have a total charge of 
+and the
+nucleus has charge 
+the outermost electron in sodium “feels” a net attraction
+due to 
+It is not held very strongl

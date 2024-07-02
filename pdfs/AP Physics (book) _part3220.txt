@@ -1,0 +1,21 @@
+ng between atoms to form molecules, and how it explains
+molecular behavior. We then examine how atoms and molecules form solids, with
+emphasis on metals as well as on semiconductors and their use in electronics.
+Covalent Bonds
+To understand how covalent bonds are formed, we take the simplest case, the
+bond that holds two hydrogen atoms together to form the hydrogen molecule,
+The mechanism is basically the same for other covalent bonds. As two H atoms
+approach each other, the electron clouds begin to overlap, and the electrons from
+each atom can “orbit” both nuclei. (This is sometimes called sharing electrons.)
+If both electrons are in the ground state 
+of their respective atoms, there
+are two possibilities: their spins can be parallel (both up or both down), in which
+case the total spin is
+or their spins can be opposite (
+for one, and
+for the other), so that the total spin 
+We shall 
+now see that a bond is formed only for the 
+state, when the spins are 
+opposite.
+First we consider the 

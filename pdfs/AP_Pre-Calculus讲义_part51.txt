@@ -1,0 +1,85 @@
+ 1, the exponential function decreases rapidly. 
+If a > 1, the function increases rapidly. 
+The exponential function 
+( )
+0, 
+1
+x
+f x
+a
+a
+a
+=
+>
+¹  
+has domain and range (0, ∞). 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 3 
+ 
+70 
+Find the exponential function f(x) =ax whose graph is given. 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2.3 Compound Interest Rate 
+Exponential functions occur in calculating compound interest. If an amount of money P, 
+called the principal, is invested at an interest rate i per time period, then after one time 
+period the interest is P i, and the amount A of money is 
+A = P + P i = P(1 + i) 
+If the interest is reinvested, then the new principal is P(1 + i), and the amount after another 
+time period is 
+2
+(1
+)(1
+)
+(1
+) .
+A
+P
+i
+i
+P
+i
+=
++
++
+=
++
+ 
+Compound interest is calculated by the formula 
+( )
+1
+nt
+r
+A t
+P
+n
+æ
+ö
+=
++
+ç
+÷
+è
+ø  
+where A(t) = amount after t years 
+P = principal 
+r = interest rate per year 
+n = number of times interest is compounded per year  
+t = number of years 
+ 
+ 
+ 
+ 
+Example 4 
+ 
+71 
+A sum o

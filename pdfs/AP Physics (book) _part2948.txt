@@ -1,0 +1,56 @@
+4)
+can be quoted in units of 
+(or 
+). And mass can be quoted (from
+) in units of 
+(or 
+). Note the use of c to keep the units
+correct. The masses of the electron and the proton can be shown to be 
+and 
+respectively. For example, for the electron,
+See also the Table inside the front cover.
+A 1-TeV proton. The Tevatron accelerator at Fermilab in
+Illinois can accelerate protons to a kinetic energy of 1.0 TeV 
+What is the
+speed of such a proton?
+APPROACH We solve the kinetic energy formula, Eq. 26–5a, for v.
+SOLUTION The rest energy of a proton is 
+or
+Compared to the kinetic energy of 
+the rest energy can be neglected, so
+we simplify Eq. 26–5a to
+We solve this for v in the following steps:
+So the proton is traveling at a speed very nearly equal to c.
+= 0.99999956c.
+v = 31 - A9.38 * 10–4B2 c
+v2
+c2
+= 1 - ¢ mc2
+ke ≤
+2
+= 1 - ¢ 9.38 * 108 eV
+1.0 * 1012 eV
+≤
+2
+;
+ 
+1 - v2
+c2
+=
+¢ mc2
+ke ≤
+2
+;
+C1 - v2
+c2
+= mc2
+ke ;
+ke
+L
+mc2
+31 - v2c2 .
+1012 eV,
+9.38 * 108 eV.
+mc2 = 938 MeV
+A1012 eVB.
+EXAMPLE 26;11

@@ -1,0 +1,15 @@
+percent): that is, 4 represents twice 
+as much absorption as 2. But we cannot directly measure these values—they are
+the unknowns we want to solve for. All we can measure are the projections—the
+total absorption along each beam line—and these are shown in Fig. 25–45 out-
+side the yellow squares as the sum of the absorptions for the pixels along each
+line at four different angles. These projections (given at the tip of each arrow) are
+what we can measure, and we now want to work back from them to see how close
+we can get to the true absorption value for each pixel. We start our analysis with
+each pixel being assigned a zero value, Fig. 25–46a. In the iterative technique, we
+use the projections to estimate the absorption value in each square, and repeat
+for each angle. The angle 1 projections are 7 and 13 (Fig. 25–45). We divide each of
+these equally between their two squares: each square in the left column of Fig.25–46a
+gets 
+(half of 7), and each square in the right column gets 
+(half 

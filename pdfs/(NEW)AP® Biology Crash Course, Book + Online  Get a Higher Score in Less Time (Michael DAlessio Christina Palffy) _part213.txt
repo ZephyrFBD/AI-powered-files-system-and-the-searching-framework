@@ -1,0 +1,16 @@
+ato core is isotonic to the sucrose concentration. A net change of 0% at x = 0.36 M is the
+concentration that the water potential in the potato tissue is equal to the sucrose concentration
+(isotonic).
+Calculation of Water Potential
+If the calculated water potential is less than the water potential surrounding the bag, then water will
+flow into the bag (more solutes/molecules inside the bag). If the calculated water potential is greater
+than the water potential surrounding the bag, water will flow out of the bag (less solute molecules
+inside the bag). Thus, water will flow from high to low water potential.
+Exercise 4E:
+ Plant Cell Plasmolysis
+Interpretation of this Exercise
+Plant cells that are in a hypotonic solution will cause water to diffuse into the cell, thus creating a
+turgid cell.
+Plant cells that are in a hypertonic solution will cause water to diffuse out of the cell, thus creating a
+plasmolyzed cell.
+Plant cells that are in an isotonic solution will cause water to equally dif

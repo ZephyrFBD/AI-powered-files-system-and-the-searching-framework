@@ -1,0 +1,19 @@
+ conservation of nucleon number.
+According to this law, the total number of nucleons (A) remains constant in any
+process, although one type can change into the other type (protons into neutrons
+or vice versa). This law holds in all three types of decay. [In Chapter 32 we will
+generalize this and call it conservation of baryon number.]
+Table 30–2 gives a summary of 
+and decay.
+30–8 Half-Life and Rate of Decay
+A macroscopic sample of any radioactive isotope consists of a vast number of
+radioactive nuclei. These nuclei do not all decay at one time. Rather, they decay
+one by one over a period of time. This is a random process: we can not predict
+exactly when a given nucleus will decay. But we can determine, on a probabilistic
+basis, approximately how many nuclei in a sample will decay over a given time
+period, by assuming that each nucleus has the same probability of decaying in
+each second that it exists.
+The number of decays 
+that occur in a very short time interval 
+is then
+proportional

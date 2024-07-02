@@ -1,0 +1,42 @@
+ product PV is a 
+constant when a gas is held at constant n and T, we know that
+ 
+P
+1V1 = P
+2V2 
+[10.7]
+where P
+1 and V1 are initial values and P
+2 and V2 are final values. Dividing both sides of this 
+equation by P
+2 gives the final volume, V2:
+ 
+V2 = V1 * P
+1
+P
+2
+= 150.0 L2a18.5 atm
+1.00 atmb = 925 L 
+The answer is reasonable because a gas expands as its pressure decreases.
+In a similar way, we can start with the ideal-gas equation and derive relationships 
+between any other two variables, V and T (Charles’s law), n and V (Avogadro’s law), or P and T.
+We are often faced with the situation in which P, V, and T all change for a fixed num-
+ber of moles of gas. Because n is constant in this situation, the ideal-gas equation gives
+PV
+T
+= nR = constant
+If we represent the initial and final conditions by subscripts 1 and 2, respectively, we can 
+write an equation that is often called the combined gas law:
+ 
+P
+1V1
+T
+1
+= P
+2V2
+T
+2
+ 
+[10.8]
+SOLUTION
+Analyze We are given the initial pressure (1

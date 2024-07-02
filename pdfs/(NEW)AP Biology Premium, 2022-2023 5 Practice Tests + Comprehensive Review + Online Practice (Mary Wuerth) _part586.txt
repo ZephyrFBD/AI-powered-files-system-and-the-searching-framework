@@ -1,0 +1,11 @@
+axis and the percent change in mass on the
+y-axis, as shown in Figure 24.5.
+Figure 24.5 Percent Change in Mass vs. Molarity of Sucrose
+When a line of best fit is drawn, the point at which the line crosses the x-axis (the x-intercept) represents the
+concentration of a solution that would be isotonic to a potato cell, with a 0% change in mass expected if a potato cell
+was placed in a solution with that sucrose concentration. The concentration of the isotonic solution can be used to
+estimate the solute concentration of a potato cell and calculate the water potential of a potato cell.
+Part 5: Turgor pressure is the pressure created by the fluids in a cell when the fluid is pressing against the cell
+membrane or cell wall. If a plant cell is placed in an environment with a higher water potential than that of the cell,
+water will move from the environment into the plant cell, creating turgor pressure. Plasmolysis is the shrinking of
+the cytoplasm of a cell away from the cell wall due to the m

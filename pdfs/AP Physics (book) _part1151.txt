@@ -1,0 +1,22 @@
+ back and
+forth, so its velocity can be either in the 
+or 
+direction, but its magnitude
+depends only on its position x.
+Doubling the amplitude. Suppose the
+spring in Fig. 11–5 is stretched twice as far (to 
+). What happens to 
+(a) the energy of the system, (b) the maximum velocity of the oscillating mass,
+(c) the maximum acceleration of the mass?
+RESPONSE (a) From Eq. 11–4a, the total energy is proportional to the square
+of the amplitude A, so stretching it twice as far quadruples the energy
+You may protest, “I did work stretching the spring from 
+to 
+Don’t I do the same work stretching it from A to 2A?” No. The force you exert
+is proportional to the displacement x, so for the second displacement, from
+to 2A, you do more work than for the first displacement (
+to A).
+(b) From Eq. 11–5a, we can see that when the amplitude is doubled, the maxi-
+mum velocity must be doubled.
+(c) Since the force is twice as great when we stretch the spring twice as far 
+the acceleration is also twice as gre

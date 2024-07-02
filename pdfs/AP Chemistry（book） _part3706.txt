@@ -1,0 +1,16 @@
+the electric-field vector of the light is confined to a single plane 
+ 
+(Figure 23.23). If the polarized light is then passed through a solution containing one 
+optical isomer, the plane of polarization is rotated either to the right or to the left. 
+The isomer that rotates the plane of polarization to the right is dextrorotatory; it 
+is the dextro, or d, isomer (Latin dexter, “right”). Its mirror image rotates the plane of 
+polarization to the left; it is levorotatory and is the levo, or l, isomer (Latin laevus, 
+“left”). The 3Co(en)343 +  isomer on the right in Figure 23.22 is found experimentally 
+to be the l isomer of this ion. Its mirror image is the d isomer. Because of their effect 
+on plane-polarized light, chiral molecules are said to be optically active.
+1008 
+CHAPTER 23 Transition Metals and Coordination Chemistry
+Does either cis-3Co(en)2Cl24+ or trans@3Co(en)2Cl24- have optical isomers?
+Solve
+ The trans isomer of 3Co(en)2Cl24+ and its mirror image are shown 
+here. Notice th

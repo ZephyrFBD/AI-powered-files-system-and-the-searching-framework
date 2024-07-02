@@ -1,0 +1,37 @@
+e lens
+to be at least that good.
+SOLUTION We can either take the image height (3000 pixels in 24 mm) or the
+width (4000 pixels in 32 mm):
+We would like the lens to match this resolution of 125 lines or dots per mm,
+which would be a quite good lens. If the lens is not this good, fewer pixels and
+less memory could be used.
+NOTE Increasing lens resolution is a tougher problem today than is squeezing
+more pixels on a CCD or CMOS sensor. The sensor for high quality cameras
+must also be physically larger for better image accuracy and greater light
+sensitivity in low light conditions.
+3000 pixels
+24 mm
+= 125 pixelsmm.
+32 mm * 24 mm
+4000 * 3000 pixels
+EXAMPLE 25;3
+= 100 dotsmm L 2500 dpi
+100 linesmm
+50 linesmm
+
+*
+1
+125 s.
+1
+500 s,
+f
+f
+CONCEPTUAL EXAMPLE 25;2
+SECTION 25–1
+717
+†Consider a 
+pixel array. For a Foveon, each “full pixel” (Fig. 25–3) has all 3 colors, each
+of which can be counted as a pixel, so it may be considered as
+For a
+Bayer sensor, Fig. 25–2,
+is 12 MP (6 MP of green, 3 M

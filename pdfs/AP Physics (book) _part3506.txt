@@ -1,0 +1,25 @@
+ct collimation†. Yet they allow “dynamic” studies: images
+that change in time, like a movie.
+ 43
+99mTc
+42
+99Mo
+ 43
+99mTc,
+3
+1–8 Emission Tomography:
+PET and SPECT
+The images formed using the standard techniques of nuclear medicine, as briefly
+discussed in the previous Section, are produced from radioactive tracer sources
+within the volume of the body. It is also possible to image the radioactive
+emissions from a single plane or slice through the body using the computed
+tomography techniques discussed in Section 25–12. A gamma camera measures
+the radioactive intensity from the tracer at many points and angles around the
+patient. The data are processed in much the same way as for X-ray CT scans
+(Section 25–12). This technique is referred to as single photon emission computed
+tomography (SPECT), or simply SPET (single photon emission tomography).
+Another important technique is positron emission tomography (PET),
+which makes use of positron emitters such as 
+and 
+whose half-
+lives are shor

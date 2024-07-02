@@ -1,0 +1,23 @@
+imase, DNA polymerase, ligase, helicase
+(D) Helicase, RNA primase, DNA polymerase, ligase
+4. If a messenger RNA codon is UAC, which of the following would be the complementary anticodon triplet in
+the transfer RNA?
+(A) ATG
+(B) AUC
+(C) AUG
+(D) ATT
+5. During post-translational modification, the polypeptide from a eukaryotic cell typically undergoes substantial
+alteration that results in
+(A) excision of introns
+(B) addition of a poly(A) tail
+(C) formation of peptide bonds
+(D) a change in the overall conformation of a polypeptide
+6. Which of the following represents the maximum number of amino acids that could be incorporated into a
+polypeptide encoded by 21 nucleotides of messenger RNA?
+(A) 3
+(B) 7
+(C) 21
+(D) 42
+7. A researcher uses molecular biology techniques to insert a human lysosomal membrane protein into bacterial
+cells to produce large quantities of this protein for later study. However, only small quantities of this protein
+result in these cells. What is a possible explanation for

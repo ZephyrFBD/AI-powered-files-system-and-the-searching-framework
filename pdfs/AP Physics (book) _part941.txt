@@ -1,0 +1,53 @@
+
+W.
+m = 12.0 kg.
+EXAMPLE 9;7
+*
+©t = 0
+F
+Ty = m
+2 g + Mg = (12.5 kg + 28.0 kg)A9.80 ms2B = 397 N.
+F
+Ty
+–mg(1.10 m) - Mg(2.20 m) + F
+Ty(2.20 m) = 0.
+(©t = 0)
+F
+H
+SECTION 9–2
+Solving Statics Problems
+237
+y
+x
+m
+   W
+   
+C
+FCy
+F
+Cx
+x0
+4.0 m
+g
+B
+F
+B
+F
+B
+FIGURE 9–11 A ladder leaning
+against a wall. Example 9–7. The
+force 
+that the cement floor exerts
+on the ladder need not be along the
+ladder which (unlike a cord) is rigid.
+F
+B
+C
+9–3 Applications to Muscles and Joints
+The techniques we have been discussing for calculating forces on objects in equi-
+librium can readily be applied to the human (or animal) body, and can be of great
+use in studying the forces on muscles, bones, and joints for organisms in motion
+or at rest. Generally a muscle is attached, via tendons, to two different bones, as
+in Fig. 9–12. The points of attachment are called insertions. Two bones are flexibly
+connected at a joint, such as those at the elbow, knee, and hip. A muscle exerts 
+a pull when its fibers contract under

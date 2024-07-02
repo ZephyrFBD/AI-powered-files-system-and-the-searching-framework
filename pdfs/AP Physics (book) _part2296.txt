@@ -1,0 +1,16 @@
+nd out from the coil. What
+would an observer watching the galvanometer see?
+(a) No change (pointer stays on zero): without a battery there is no current to
+detect.
+(b) A small current flows while the magnet is inside the coil of wire.
+(c) A current spike as the magnet enters the coil, and then nothing.
+(d) A current spike as the magnet enters the coil, and then a steady small current.
+(e) A current spike as the magnet enters the coil, then nothing (pointer at zero),
+then a current spike in the opposite direction as the magnet exits the coil.
+I
+n Chapter 20, we discussed two ways in which electricity and magnetism are
+related: (1) an electric current produces a magnetic field; and (2) a magnetic
+field exerts a force on an electric current or on a moving electric charge. These
+discoveries were made in 1820–1821. Scientists then began to wonder: if electric
+currents produce a magnetic field, is it possible that a magnetic field can produce
+an electric current? Ten years later the American

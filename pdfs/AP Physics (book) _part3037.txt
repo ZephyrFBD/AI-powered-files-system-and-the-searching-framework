@@ -1,0 +1,39 @@
+pes
+The idea that electrons have wave properties led to the development of the
+electron microscope (EM), which can produce images of much greater magnifi-
+cation than a light microscope. Figures 27–14 and 27–15 are diagrams of two types,
+developed around the middle of the twentieth century: the transmission electron
+microscope (TEM), which produces a two-dimensional image, and the scanning
+electron microscope (SEM), which produces images with a three-dimensional quality.
+SECTION 27–9
+785
+P H Y S I C S  A P P L I E D
+Electron microscope
+FIGURE 27–14 Transmission electron
+microscope. The magnetic field coils
+are designed to be “magnetic lenses,”
+which bend the electron paths and
+bring them to a focus, as shown. The
+sensors of the image measure electron
+intensity only, no color.
++
+–
++
+–
++
+–
+Hot filament (source of electrons)
+High
+voltage
+Condensing
+“lens”
+Specimen
+Objective
+“lens”
+Image (on screen, film,
+or semiconductor detector)
+Projection
+“lens”
+(eyepiece)
+Electron source
+Magnetic lens

@@ -1,0 +1,44 @@
+ted at 2.0 W and 3.0 V is operated by
+a 9.0-V battery. To light the bulb at its
+rated voltage and power, a resistor R is
+connected in series as shown
+in Fig. 19–85. What value
+should the resistor have?
+C1
+C3
+C2
+V
+a
+b
+FIGURE 19–86
+Problem 88.
+558
+CHAPTER 19
+DC Circuits
+12.0 V
+1.3 kΩ
+3.3 kΩ
+12 mF
+48 mF
+FIGURE 19–87 Problem 89.
+89. A 12.0-V battery, two resistors, and two capacitors are
+connected as shown in Fig. 19–87. After the circuit has
+been connected for a long time, what is the charge on each
+capacitor?
+91. How much energy must a 24-V battery expend to charge
+a
+and a 
+capacitor fully when they are
+placed (a) in parallel, (b) in series? (c) How much charge
+flowed from the battery in each case?
+92. Two capacitors,
+and 
+are con-
+nected in parallel to a 24-V source as shown in Fig. 19–89a.
+After they are charged they are disconnected from the
+source and from each other, and then reconnected directly
+to each other with
+plates of opposite sign
+connected 
+together
+(see Fig. 19–89b). Find

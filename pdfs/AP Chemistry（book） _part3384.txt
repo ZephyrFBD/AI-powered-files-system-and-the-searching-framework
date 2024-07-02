@@ -1,0 +1,21 @@
+ions (Equations 
+21.19 and 21.20) to calculate the time elapsed since the rock was 
+formed, we first need to calculate how much initial uranium-238 
+there was for every 1 mg that remains today.
+Continued
+ 
+SECTION 21.4  Rates of Radioactive Decay 
+915
+916 
+CHAPTER 21 Nuclear Chemistry
+If we start with 1.000 g of strontium-90, 0.953 g will remain after 2.00 yr. (a) What is the half-life of strontium-90? (b) How 
+much strontium-90 will remain after 5.00 yr?
+Analyze (a) We are asked to calculate a half-life, t1>2, based 
+on data that tell us how much of a radioactive nucleus has 
+decayed in a time interval t = 2.00 yr and the information 
+N0 = 1.000 g, Nt = 0.953 g. (b) We are asked to calculate the 
+amount of a radionuclide remaining after a given period of time.
+Plan (a) We first calculate the rate constant for the decay, k,  
+and then we use that to compute t1>2. (b) We need to calculate  
+Nt, the amount of strontium present at time t, using the initial 
+quantity, N0, and the rate cons

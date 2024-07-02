@@ -1,0 +1,11 @@
+at there is no statistically significant difference between the observed and expected data. This does
+not mean the null hypothesis is proven—it just means you cannot reject the null hypothesis. In other words, the null
+hypothesis cannot be ruled out.
+Here is another example: A coin has heads on one side and tails on the other side. If the coin is flipped 40 times,
+you would expect the coin to come up heads 20 times and come up tails 20 times. These are the expected results.
+The coin is flipped 40 times, and the coin comes up heads 12 times and it comes up tails 28 times. Those are the
+observed results. The null hypothesis is that there is no statistically significant difference between the observed and
+expected numbers of heads and tails. To evaluate this null hypothesis, here are the steps involved:
+1. Calculate the chi-square value.
+2. Determine the number of degrees of freedom (df) in the experiment. There are two possible outcomes in this
+experiment (heads or tails), so the df is 2

@@ -1,0 +1,32 @@
+ connection along
+the semiconductor that connects
+source and drain.
+Gate
+Drain
+Source
+Word-line 1
+C
+C
+C
+C
+Bit-line 1
+Bit-line 2
+Word-line 2
+FIGURE 21–29 A tiny 
+cell,
+part of a simple DRAM array. The
+word-lines and bit-lines do not touch
+each other where they cross.
+2 * 2
+606
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+The transistors are imperfect switches and allow the charge on the tiny capac-
+itors in each cell to be “leaky” and lose charge fairly quickly, so every cell has to
+be read and rewritten (refreshed) many times per second. The D in DRAM stands
+for this “dynamic” refreshing action. If the power is turned off, the capacitors
+lose their charge and the data are lost. DRAM is thus referred to as being volatile
+memory, whereas a hard drive keeps its (magnetic) memory even when the 
+electric power is off and is called nonvolatile memory (doesn’t “evaporate”).
+Flash memory is also made of semiconductor material on tiny “chips.” The
+transistor structures are more compli

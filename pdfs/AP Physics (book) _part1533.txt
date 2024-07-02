@@ -1,0 +1,26 @@
+gnore any heat flow to the surroundings, including the container.
+APPROACH Before we can write down an equation applying conservation of
+energy, we must first check to see if the final state will be all ice, a mixture of ice
+and water at 0°C, or all water. To bring the 3.0 kg of water at 20°C down to 0°C
+would require an energy release of
+On the other hand, to raise the ice from 
+to 0°C would require
+and to change the ice to water at 0°C would require
+The sum of the last two quantities is 
+This is not
+enough energy to bring the 3.0 kg of water at 20°C down to 0°C, so we see that
+the mixture must end up all water, somewhere between 0°C and 20°C.
+10.5 kJ + 167 kJ = 177 kJ.
+miceLF = (0.50 kg)(333 kJkg) = 167,000 J.
+= 10,500 J,
+miceciceC0°C - (–10°C)D
+= (0.50 kg)(2100 JkgC°)(10 C°)
+–10°C
+mw cw(20°C - 0°C) = (3.0 kg)(4186 JkgC°)(20 C°) = 250,000 J.
+–10°C
+EXAMPLE 14;7
+ESTIMATE
+P R O B L E M  S O L V I N G
+First determine (or 
+estimate) the final state
+The heats of vaporization and fusio

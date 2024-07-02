@@ -1,0 +1,16 @@
+ger over the top
+of the straw, capturing some air above the water but preventing any additional air
+from getting in or out, and then you lift the straw from the water. You find that
+the straw retains most of the water (Fig. 10–5a). Does the air in the space between
+your finger and the top of the water have a pressure P that is greater than, equal
+to, or less than, the atmospheric pressure 
+outside the straw?
+RESPONSE Consider the forces on the column of water (Fig.10–5b). Atmospheric
+pressure outside the straw pushes upward on the water at the bottom of the straw,
+gravity pulls the water downward, and the air pressure inside the top of the
+straw pushes downward on the water. Since the water is in equilibrium, the
+upward force due to atmospheric pressure 
+must balance the two downward
+forces. The only way this is possible is for the air pressure P inside the straw at the
+top to be less than the atmosphere pressure outside the straw. (When you initially
+remove the straw from the water gl

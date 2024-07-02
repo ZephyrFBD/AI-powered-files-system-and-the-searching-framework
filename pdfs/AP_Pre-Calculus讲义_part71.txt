@@ -1,0 +1,56 @@
+of a logarithmic function is shown. Select the function which matches the graph. 
+A. y= 3 - logx 
+B. y= log(3 - x) 
+C. y= log(x - 3) 
+D. y= logx - 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+105 
+2.11 推送练习题 
+6. Jacey, a commissioned salesperson, earns $300 base pay plus $50 per item sold. 
+Express Jacey’s gross salary G as a function of the number x of item sold. 
+A. G(x) = 300x + 50 
+B. G(x) = 50(x + 300) 
+C. G(x) =50x + 300 
+D. G(x) = 300(x + 50) 
+ 
+ 
+ 
+7. f(x) = |17x2 -7x|, g(x) = 13x -4. Find f(g(5)). 
+A. 62830 
+B. 5066 
+C. 57764 
+D. 23790 
+ 
+ 
+ 
+8. Find the formula for the inverse of the function described below. 
+A size 60 dress in Country C is size 18 in Country D. A function that converts dress sizes 
+in Country C to Country D is  
+f(x) = 0.5x -12 
+A. f-1(x) =2(x + 12) 
+B. f-1(x) =2(x - 12) 
+C. f-1(x) =2x + 12 
+D. f-1(x) =x + 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+106 
+9. The formula P =14.7e-0.21x gives the average atmospheric pressure, P, in pounds per 
+square inch, at an altitude x, in miles above sea level.

@@ -1,0 +1,16 @@
+and ∆Hvap. Thus, ∆Hsub for water is 
+approximately 47 kJ>mol.
+Phase changes show up in important ways in our everyday experiences. When we 
+use ice cubes to cool a drink, for instance, the heat of fusion of the ice cools the liquid. 
+We feel cool when we step out of a swimming pool or a warm shower because the liq-
+uid water’s heat of vaporization is drawn from our bodies as the water evaporates from 
+our skin. Our bodies use this mechanism to regulate body temperature, especially when 
+we exercise vigorously in warm weather. 
+ (Section 5.5) A refrigerator also relies on 
+the cooling effects of vaporization. Its mechanism contains an enclosed gas that can be 
+liquefied under pressure. The liquid absorbs heat as it subsequently evaporates, thereby 
+cooling the interior of the refrigerator.
+What happens to the heat absorbed when the liquid refrigerant vaporizes? Accord-
+ing to the first law of thermodynamics 
+ (Section 5.2), this absorbed heat must 
+be released when the gas condenses to 

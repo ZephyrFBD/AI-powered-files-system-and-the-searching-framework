@@ -1,0 +1,20 @@
+ is determined by the concentration of acid not 
+yet neutralized. This calculation is illustrated in Sample Exercise 17.7(a).
+ 3. Equivalence point: At the equivalence point an equal number of moles of NaOH 
+and HCl have reacted, leaving only a solution of their salt, NaCl. The pH of the solu-
+tion is 7.00 because the cation of a strong base (in this case Na+) and the anion of 
+a strong acid (in this case Cl-) are neither acids nor bases and, therefore, have no 
+appreciable effect on pH. 
+ (Section 16.9)
+ 4. After equivalence point: The pH of the solution after the equivalence point is 
+determined by the concentration of excess NaOH in the solution. This calculation is 
+illustrated in Sample Exercise 17.7(b).
+ 
+SECTION 17.3   
+Acid–Base Titrations 
+731
+Calculate the pH when (a) 49.0 mL and (b) 51.0 mL of 0.100 M NaOH solution have been added to 50.0 mL of 0.100 M HCl solution.
+Solve
+(a) The number of moles of H+ in the original 
+HCl solution is given by the product of the 
+volume of th

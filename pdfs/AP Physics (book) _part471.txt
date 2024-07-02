@@ -1,0 +1,71 @@
+
+of our result,
+which is small but maybe not so small as to justify stating a more precise answer 
+for F
+T .
+1
+10
+mg = (0.150 kg)A9.80 ms2B = 1.5 N,
+= (0.150 kg) (7.54 ms)2
+(0.600 m)
+L 14 N.
+F
+T = m v2
+r
+v = 2prT = 2p(0.600 m)(0.500 s) = 7.54 ms.
+aR = v2r
+ 
+(©F)R = maR,
+F
+B
+T
+f L 0
+F
+B
+T
+mg
+B
+(T = 0.500 s),
+EXAMPLE 5;3
+ESTIMATE
+SECTION 5–2
+Dynamics of Uniform Circular Motion
+113
+C A U T I O N
+There is no real “centrifugal force”
+Force on hand
+exerted by
+string
+Force on ball
+exerted by
+string
+FIGURE 5;5 Swinging a ball on the
+end of a string (looking down from
+above).
+(b)
+(c)
+(a)
+DOESN’T
+HAPPEN
+HAPPENS
+v
+B
+v
+B
+FIGURE 5;6 If centrifugal force
+existed, the revolving ball would fly
+outward as in (a) when released. In
+fact, it flies off tangentially as in (b).
+In (c) sparks fly in straight lines 
+tangentially from the edge of a 
+rotating grinding wheel.
+r
+φ
+mg
+B
+T
+F
+B
+FIGURE 5;7 Example 5–3.
+Revolving ball (vertical circle). A 0.150-kg ball on the end
+of a 1.10-m-long cord (negligible

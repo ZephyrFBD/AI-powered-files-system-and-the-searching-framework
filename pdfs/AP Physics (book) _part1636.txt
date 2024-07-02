@@ -1,0 +1,36 @@
+ted from the definition,
+Eq. 15–4. It must be less than the maximum possible, Eq. 15–5.
+SOLUTION The claimed efficiency of the engine is (Eq. 15–4b)
+or 56%. The maximum possible efficiency is given by the Carnot efficiency,
+Eq. 15–5:
+or 34%. The manufacturer’s claims violate the second law of thermodynamics
+and cannot be believed.
+= 435 K - 285 K
+435 K
+= 0.34,
+eideal = T
+H - T
+L
+T
+H
+= 9.0 kJ - 4.0 kJ
+9.0 kJ
+= 0.56,
+e = QH - QL
+QH
+EXAMPLE 15;10
+EXERCISE D A motor is running with an intake temperature 
+and an
+exhaust temperature
+Which of the following are not possible efficiencies for
+the engine? (a) 0.10; (b) 0.16; (c) 0.24; (d) 0.30; (e) 0.33.
+T
+L = 300 K.
+T
+H = 400 K
+We can see from Eq. 15–5 that at normal temperatures, a 100% efficient
+engine is not possible. Only if the exhaust temperature,
+were at absolute zero
+would 100% efficiency be reachable. But getting to absolute zero is a practical (as
+well as theoretical) impossibility. [Careful experimentation suggests that abso-
+lute zer

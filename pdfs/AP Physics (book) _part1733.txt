@@ -1,0 +1,106 @@
+e two charges remained the
+same. If the distance between them was allowed to increase, he found that 
+the force decreased with the square of the distance between them. That is, if the
+distance was doubled, the force fell to one-fourth of its original value. Thus,
+Coulomb concluded, the magnitude of the force F that one small charged object
+exerts on a second one is proportional to the product of the magnitude of the
+charge on one,
+times the magnitude of the charge on the other,
+and
+inversely proportional to the square of the distance r between them (Fig. 16–14).
+As an equation, we can write Coulomb’s law as
+[magnitudes] (16;1)
+where k is a proportionality constant.‡
+F = k Q1 Q2
+r2
+,
+Q2 ,
+Q1,
+COULOMB’S LAW
+(a)
+(b)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c)
+(a)
+(b)
+Q2
+Q1
+r
+FIGURE 16–14 Coulomb’s law,
+Eq. 16–1, gives the force between two 
+point charges,
+and 
+a distance r
+apart

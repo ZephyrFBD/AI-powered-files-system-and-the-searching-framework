@@ -1,0 +1,33 @@
+ diode; only then is there a current through the
+resistor R. Hence, a graph of the voltage 
+across R as a function of time looks
+like the output voltage shown in Fig. 29–31b. This half-wave rectification is not
+exactly dc, but it is unidirectional. More useful is a full-wave rectifier circuit, which
+uses two diodes (or sometimes four) as shown in Fig. 29–32a (top of next page).
+At any given instant, either one diode or the other will conduct current to the right.
+V
+ab
+*
+FIGURE 29–31 (a) A simple 
+(half-wave) rectifier circuit using a
+semiconductor diode. (b) AC source
+input voltage, and output voltage
+across R, as functions of time.
+R
+AC source (Vin)
+a
+b
+(a)
+Vin
+Vab
+(b)
+Input
+voltage
+Output
+voltage
+Time
+Diode
+Therefore, the output across the load resistor R will be as shown in Fig. 29–32b.
+Actually this is the voltage if the capacitor C were not in the circuit. The capacitor
+tends to store charge and, if the time constant RC is sufficiently long, helps to
+smooth out the current as show

@@ -1,0 +1,15 @@
+nverts the energy of the
+scintillator-emitted photon(s) into an electric signal. A PM tube is a vacuum 
+tube containing several electrodes (typically 8 to 14), called dynodes, which are
+maintained at successively higher voltages as shown in Fig. 30–14. At its top
+surface is a photoelectric surface, called the photocathode, whose work function
+(Section 27–3) is low enough that an electron is easily released when struck by a
+photon from the scintillator. Such an electron is accelerated toward the positive
+voltage of the first dynode. When it strikes the first dynode, the electron has
+acquired sufficient kinetic energy so that it can eject two to five more electrons.
+These, in turn, are accelerated toward the higher voltage second dynode, and a
+multiplication process begins. The number of electrons striking the last dynode
+may be 
+or more. Thus the passage of a particle through the scintillator results
+in an electric signal at the output of the PM tube that can be sent to an electronic
+co

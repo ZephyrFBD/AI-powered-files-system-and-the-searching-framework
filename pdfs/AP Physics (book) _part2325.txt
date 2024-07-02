@@ -1,0 +1,34 @@
+tion of the induced current in ab is from a toward b. And in the lower section,
+it is from c to d; so the flow is continuous in the loop. The magnitude of the emf
+generated in ab is given by Eq. 21–3, except that we must take the component 
+of the velocity perpendicular to B:
+where is the length of ab. From Fig. 21–17 we see that 
+where is
+the angle the loop’s face makes with the vertical. The emf induced in cd has the same
+magnitude and is in the same direction. Therefore their emfs add, and the total emf is
+where we have multiplied by N, the number of loops in the coil.
+If the coil is rotating with constant angular velocity 
+then the angle 
+From the angular equations (Eq.8–4),
+where r is the distance from
+the rotation axis and h is the length of bc or ad. Thus
+or
+(21;5)
+where 
+is the area of the loop. This equation holds for any shape coil, not just
+A = lh
+e = NBvA sin vt,
+e = 2NBvl(h2) sin vt,
+v = vr = v(h2),
+u = vt.
+v,
+e = 2NBlv sin u,
+u
+v⊥= v sin u,
+l
+e = Blv⊥,
+B
+B.
+*
+598
+CHAPTE

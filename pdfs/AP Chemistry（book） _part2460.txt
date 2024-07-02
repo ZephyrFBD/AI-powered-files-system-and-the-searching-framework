@@ -1,0 +1,18 @@
+S EQUILIBRIA (SECTION 15.4) Equilibria can 
+be divided into two types: homogeneous equilibria where all of the 
+reactants and products are in the same phase, and heterogeneous 
+equilibria where more than one phase is present. Because their activ-
+ities are exactly 1, the concentrations of pure solids and liquids are 
+left out of the equilibrium-constant expression for a heterogeneous 
+equilibrium.
+CALCULATING EQUILIBRIUM CONSTANTS (SECTION 15.5) If 
+the concentrations of all species in an equilibrium are known, the 
+ 
+equilibrium-constant expression can be used to calculate the equilib-
+rium constant. The changes in the concentrations of reactants and 
+products on the way to achieving equilibrium are governed by the 
+stoichiometry of the reaction.
+APPLICATIONS OF EQUILIBRIUM CONSTANTS (SECTION 15.6)  
+The reaction quotient, Q, is found by substituting reactant and product 
+concentrations or partial pressures at any point during a reaction into 
+the equilibrium-constant expression. If t

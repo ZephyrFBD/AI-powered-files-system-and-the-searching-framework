@@ -1,0 +1,25 @@
+
+1 × 10−3
+2 × 10−3
+3 × 10−3
+Temperature (°C)
+k (s–1)
+CH3CN
+CH3NC
+▲ Figure 14.13 Temperature dependence of the rate constant 
+for methyl isonitrile conversion to acetonitrile. The four points 
+indicated are used in Sample Exercise 14.11.
+588 
+CHAPTER 14 Chemical Kinetics
+between H2 and I2 resulted in the formation of HI, the reaction would be over in much 
+less than a second. Instead, at room temperature the reaction proceeds very slowly 
+because only about one in every 1013 collisions produces a reaction. What keeps the reac-
+tion from occurring more rapidly?
+The Orientation Factor
+In most reactions, collisions between molecules result in a chemical reaction only if the 
+molecules are oriented in a certain way when they collide. The relative orientations of 
+the molecules during collision determine whether the atoms are suitably positioned to 
+form new bonds. For example, consider the reaction
+ 
+Cl + NOCl ¡ NO + Cl2 
+which takes place if the collision brings Cl atoms together to form C

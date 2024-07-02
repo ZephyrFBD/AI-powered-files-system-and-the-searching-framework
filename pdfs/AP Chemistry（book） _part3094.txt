@@ -1,0 +1,24 @@
+t
+High
+free energy
+Cell
+ATP
+ADP
+Low
+free energy
+▲ Figure 19.16 Schematic representation of free-energy changes during cell metabolism. The oxidation of 
+glucose to CO2 and H2O produces free energy that is then used to convert ADP into the more energetic 
+ATP. The ATP is then used, as needed, as an energy source to drive nonspontaneous reactions, such as 
+the conversion of simple molecules into more complex cell constituents.
+ 
+SECTION 19.7   
+Free Energy and the Equilibrium Constant 
+835
+836 
+CHAPTER 19 Chemical Thermodynamics
+Consider the simple salts NaCl(s) and AgCl(s). We will examine the equilibria in which these salts dissolve in water to form 
+aqueous solutions of ions:
+NaCl1s2 ∆Na+1aq2 + Cl-1aq2
+AgCl1s2 ∆Ag+1aq2 + Cl-1aq2
+(a) Calculate the value of ∆G° at 298 K for each of the preceding reactions. (b) The two values from part (a) are very different. 
+Is this difference primarily due to the enthalpy term or the entropy term of the standard free-energy change? (c) Use the values 

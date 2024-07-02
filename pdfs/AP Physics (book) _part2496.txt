@@ -1,0 +1,27 @@
+g system (GPS) functions by determining
+the travel times for EM waves from various satellites to a
+land-based GPS receiver. If the receiver is to detect a change
+in travel distance on the order of 3 m, what is the associated
+change in travel time (in ns) that must be measured?
+46. Light is emitted from an ordinary lightbulb filament in wave-
+train bursts about 
+in duration. What is the length in
+space of such wave trains?
+47. The voice from an astronaut on the Moon (Fig. 22–22) was
+beamed to a listening crowd on Earth. If you were standing
+28 m from the loudspeaker on Earth, what was the total
+time lag between when
+you heard the sound and
+when the sound entered
+a microphone on the
+Moon? Explain whether
+the 
+microphone 
+was
+inside the space helmet,
+or outside, and why.
+10–8 s
+48. Radio-controlled clocks throughout the United States receive
+a radio signal from a transmitter in Fort Collins, Colorado,
+that accurately (within a microsecond) marks the beginning
+of each minute. A slight dela

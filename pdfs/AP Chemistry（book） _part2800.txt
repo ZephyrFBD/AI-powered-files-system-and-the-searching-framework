@@ -1,0 +1,70 @@
+ because the ﬂame turns a characteristic violet 
+color if K+1aq2 is present (Figure 7.22).
+756 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+We can calculate the pH using either Kb for NH3 
+or Ka for NH4
++. Using the Kb expression, we have:
+NH31aq2 +  H2O1l2  ∆     NH4
++ 1aq2   +     OH -1aq2 
+Initial (M)
+0.0516
+—
+0.0984
+0
+Change (M)
+-x
+—
++x
++x
+Equilibrium (M)
+10.0516 - x2
+—
+10.0984 + x2
+x
+ 
+Kb =
+3NH4
++43OH-4
+3NH34
+=
+10.0984 + x21x2
+10.0516 - x2
+_
+10.09842x
+0.0516
+= 1.8 * 10-5
+ 
+x = 3OH-4 =
+10.0516211.8 * 10-52
+0.0984
+= 9.4 * 10-6 M
+Hence, pOH = -log19.4 * 10-62 = 5.03  
+and pH = 14.00 - pOH = 14.00 - 5.03 = 8.97.
+HCl1g2 +  NH31aq2  ¡   NH4
++1aq2  + Cl-1aq2
+Before reaction 
+(mol)
+0.0492
+0.0750
+0
+0
+Change (limiting 
+reactant) (mol)
+-0.0492
+-0.0492
++0.0492
++0.0492
+After reaction 
+(mol)
+0
+0.0258
+0.0492
+0.0492
+HCl1g2 + NH31aq2 ¡  NH4
++1aq2 + Cl-1aq2
+The acid HCl and base NH3 react, transferring a 
+proton from HCl to NH3, producing NH4
++ and 
+Cl- ions:
+To determine the pH of the solu

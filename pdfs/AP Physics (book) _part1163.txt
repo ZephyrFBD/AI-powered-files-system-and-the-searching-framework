@@ -1,0 +1,57 @@
+ variable (time);
+T is a constant for a given situation
+t
+x
+A
+Paper motion
+0
+−A
+T
+T
+1
+4
+3
+4
+1
+2
+3
+2
+T
+T
+T
+t
+FIGURE 11–8 Position as a function
+of time for a simple harmonic
+oscillator, x = A cos(2ptT).
+Starting with
+t. The displacement of an object
+is described by the following equation, where x is in meters and is in seconds:
+Determine the oscillating object’s (a) amplitude, (b) frequency, (c) period,
+(d) maximum speed, and (e) maximum acceleration.
+APPROACH We start by comparing the given equation for x with Eq. 11–8b,
+SOLUTION From
+we see by inspection that (a) the amplitude
+and (b) 
+so 
+(c) Then
+(d) The maximum speed (see Eq. 11–7) is
+(e) The maximum acceleration, by Newton’s second law, is 
+because
+is greatest when x is greatest. From Eq. 11–6b we
+see that
+Hence
+= (2p)2(1.27 s–1)2(0.30 m) = 19 ms2.
+amax =
+k
+m A = (2pf)2A
+km = (2pf)2.
+F (= kx)
+kAm,
+amax = F
+maxm =
+= (2p)(0.30 m)(1.27 s–1) = 2.4 ms.
+vmax = 2pAf
+T = 1f = 0.79 s.
+f = (8.0 s–12p) = 1.27 Hz.
+2pf = 8.0 s–1;
+A = 0

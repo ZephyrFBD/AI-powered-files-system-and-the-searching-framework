@@ -1,0 +1,39 @@
+ blue arrow 
+pointing upward from 
+KPKtKal state to ﬁPal state
+▲ Figure 5.5 Changes in internal energy.
+ 
+SECTION 5.2   
+The First Law of Thermodynamics 
+169
+The sign conventions for q, w, and ∆E are summarized in Table 5.1. Notice that any 
+energy entering the system as either heat or work carries a positive sign.
+Go Figure
+Suppose a system receives a “deposit” of 50 J of work from the 
+surroundings and loses a “withdrawal” of 85 J of heat to the surroundings. 
+What is the magnitude and the sign of ∆E for this process?
+System is interior of vault
+Energy deposited into system
+DE . 0
+Energy withdrawn from system
+DE , 0
+q . 0
+w . 0
+q , 0
+w , 0
+Internal
+energy
+Internal
+energy
+Internal
+energy
+Heat gained
+Work done on system
+Heat lost
+Work done on system
+Work done by system
+Heat lost
+Work done on system
+Heat gained
+▲ Figure 5.7 Sign conventions for heat and work. Heat, q, transferred into a system and work, w, done  
+on a system are both positive quantities, corresponding to “deposits” of i

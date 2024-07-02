@@ -1,0 +1,43 @@
+= 12.00 u);
+m = 2.01 u
+1
+2H
+(m = 1.01 u);
+1
+1H
+Am1 = 1.01 uB
+3.8 ms.
+5.5 ms
+194
+CHAPTER 7
+Linear Momentum
+M
+m
+v
+B
+l
+42. (III) A pendulum consists of a mass M hanging at the bottom
+end of a massless rod of length 
+which has a frictionless
+pivot at its top end. A mass m,
+moving as shown in Fig. 7–35
+with velocity v, impacts M
+and becomes embedded. What
+is the smallest value of v
+sufficient to cause the pendulum
+(with embedded mass m) to
+swing clear over the top of its
+arc?
+l,
+FIGURE 7;35
+Problem 42.
+*47. (III) An atomic nucleus of mass m traveling with speed v
+collides elastically with a target particle of mass 2m (ini-
+tially at rest) and is scattered at 90°. (a) At what angle does
+the target particle move after the collision? (b) What are
+the final speeds of the two particles? (c) What fraction of the
+initial kinetic energy is transferred to the target particle?
+*48. (III) A neon atom  
+makes a perfectly elastic
+collision with another atom at rest. After the impact, the
+neon atom tra

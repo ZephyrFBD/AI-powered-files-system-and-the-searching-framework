@@ -1,0 +1,47 @@
+all coil of wire
+To recorder or amplifier
+N
+S
+Magnet
+FIGURE 21–31 Diagram of a
+microphone that works by induction.
+Semiconductor
+Drain
+Floating gate
+Gate
+Source
+Thin insulator
+Insulator
+FIGURE 21–30 A floating gate
+nonvolatile memory cell (NVM).
+†Why the name “Flash”? It may come from the erase process: large blocks erased “in a flash,” and or
+because the earliest floating gate memories were erased by a flash of UV light which ejected the
+stored electrons.
+
+*SECTION 21–9
+Applications of Induction: Microphone, Seismograph, GFCI
+607
+120 V
+Hot
+Neutral
+Power lines
+Iron ring
+Sensing
+coil
+Solenoid
+circuit breaker
+Electric circuit with
+one or more devices 
+(possible sources
+of trouble)
+Simple electronic circuit
+I
+S
+I
+I
+I
+FIGURE 21–33 A ground fault circuit
+interrupter (GFCI).
+Electromagnetic induction is the physical basis of a GFCI. As shown in 
+Fig.21–33,the two conductors of a power line connected to an electric circuit or device
+(red) pass through a small iron ring.Around the ring are ma

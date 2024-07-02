@@ -1,0 +1,28 @@
+pose you
+throw caution to the wind and eat 500 Calories of ice cream and cake. To compen-
+sate, you want to do an equivalent amount of work climbing stairs or a mountain.
+How much total height must you climb?
+APPROACH The work W you need to do in climbing stairs equals the change in
+gravitational potential energy:
+where h is the vertical height
+climbed. For this estimate, let us approximate your mass as  
+SOLUTION 500 food Calories is 500 kcal, which in joules is
+The work done to climb a vertical height h is
+We solve for h:
+This is a huge elevation change (over 11,000 ft).
+NOTE The human body does not transform food energy with 100% efficiency—
+it is more like 20% efficient. As we shall discuss in the next Chapter, some
+energy is always “wasted,” so you would actually have to climb only about
+which is more reasonable (about 2300 ft of elevation gain).
+(0.2)(3600 m) L 700 m,
+h =
+W
+mg
+=
+2.1 * 106 J
+(60 kg)A9.80 ms2B
+= 3600 m.
+W = mgh.
+(500 kcal)A4.186 * 103 JkcalB
+= 2.1 * 106 J.
+m L 60

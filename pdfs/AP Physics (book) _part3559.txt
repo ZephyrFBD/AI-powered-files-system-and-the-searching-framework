@@ -1,0 +1,20 @@
+ust be equal to the frequency of the
+circulating protons. When ions of charge q are circulating within the hollow dees,
+the net force F on each ion is due to the magnetic field B, so
+where v is
+the speed of the ion at a given moment (Eq. 20–4). The magnetic force is perpen-
+dicular to both and , and does not speed up the ions but causes them to move
+in circles; the acceleration within the dees is centripetal and equals 
+where r
+is the radius of the ion’s path at a given moment. We use Newton’s second law,
+and find that
+when the protons are within the dees (not the gap), so their (constant) speed at
+radius r is
+The time required for a complete revolution is the period T and is equal to
+Hence the frequency of revolution f is
+(32;2)
+This is known as the cyclotron frequency.
+Cyclotron. A small cyclotron of maximum radius
+accelerates protons in a 1.7 T magnetic field. Calculate (a) the
+frequency needed for the applied alternating voltage, and (b) the kinetic energy
+of protons when they leav

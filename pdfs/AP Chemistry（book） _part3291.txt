@@ -1,0 +1,28 @@
+      E°
+red = -0.10 V
+B2+1aq2 + 2 e- ¡ B1s2                 E°
+red = -1.10 V
+You begin with the incomplete cell pictured here in which 
+the electrodes are immersed in water.
+Voltmeter
+A
+B
+(a) What additions must you make to the cell for it to gen-
+erate a standard emf? (b) Which electrode functions as the 
+cathode? (c) Which direction do electrons move through 
+the external circuit? (d) What voltage will the cell generate 
+under standard conditions? [Sections 20.3 and 20.4]
+ 
+20.5  For a spontaneous reaction A1aq2 + B1aq2 ¡ A-1aq2 +
+B+1aq2, answer the following questions:
+(a) If you made a voltaic cell out of this reaction, what half- 
+reaction would be occurring at the cathode, and what 
+half-reaction would be occurring at the anode?
+(b) Which half-reaction from (a) is higher in potential energy?
+(c) What is the sign of E°
+cell? [Section 20.3]
+ 
+20.6  Consider the following table of standard electrode poten-
+tials for a series of hypothetical reactions in aqueous 
+solution:
+Reduction

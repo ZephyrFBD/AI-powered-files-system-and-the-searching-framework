@@ -1,0 +1,50 @@
+ of incidence. Angle 
+is the angle of refraction, the angle the refracted ray
+makes with the normal to the surface. Notice that the ray bends toward the normal
+when entering the water. This is always the case when the ray enters a medium where
+the speed of light is less (and the index of refraction is greater, Eq. 23–4). If light
+travels from one medium into a second where its speed is greater, the ray bends away
+from the normal; this is shown in Fig. 23–21b for a ray traveling from water to air.
+u2
+u1
+SECTION 23–5
+657
+Normal
+Source
+Source
+Air (n1)
+Water (n2)
+Incident
+ray
+Refracted
+ray
+Normal
+Air (n2)
+Water (n1)
+Refracted
+ray
+Reflected
+ray
+Reflected
+ray
+Incident
+ray
+θ2
+θ2
+θ1
+θ1
+(a) n2 > n1: Ray bends toward)
+(b) n1 > n2: Ray bends away from)
+FIGURE 23–21 Refraction.
+(a) Light refracted when passing from
+air 
+into water 
+(b) Light refracted when passing from
+water 
+into air An2B: n1 7 n2 .
+An1B
+An2B: n2 7 n1 .
+An1B
+C A U T I O N
+Angles of incidence and refraction
+are measured from the p

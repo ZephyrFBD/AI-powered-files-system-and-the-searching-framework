@@ -1,0 +1,40 @@
+gure
+What is the electron configuration  
+of the He2
++ ion?
+1s
+s
+He    ion
+He2    ion
+Energy
+He atom
+1s
+1s
+s1s
+1
+1
+▲ Figure 9.34 Energy-level diagram for the 
+He2
++ ion.
+Sample Exercise 9.8 
+Bond Order
+SOLUTION
+Analyze We will determine the bond order for the He2
++ ion and use 
+it to predict whether the ion is stable.
+Plan To determine the bond order, we must determine the number 
+of electrons in the molecule and how these electrons populate the 
+available MOs. The valence electrons of He are in the 1s orbital, 
+and the 1s orbitals combine to give an MO diagram like that for H2 
+or He2 (Figure 9.33). If the bond order is greater than 0, we expect 
+a bond to exist, and the ion is stable.
+Solve The energy-level diagram for the He2
++
+ ion is shown in  
+Figure 9.34. This ion has three electrons. Two are placed in the 
+bonding orbital and the third in the antibonding orbital. Thus, 
+the bond order is
+Bond order = 1
+2 12 - 12 = 1
+2
+Because the bond order is greater than 0, we predict the He2

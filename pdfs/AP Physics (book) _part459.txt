@@ -1,0 +1,28 @@
+ 5–2c;
+will be essentially
+perpendicular to them. Thus 
+points toward the center of the circle. Since 
+by definition, is in the same direction as 
+(equation above), it too must point
+toward the center of the circle. Therefore, this acceleration is called centripetal
+acceleration (“center-pointing” acceleration) or radial acceleration (since it is
+directed along the radius, toward the center of the circle), and we denote it by 
+Now that we have determined the direction, next we find the magnitude of the
+radial (centripetal) acceleration,
+Because the line CA in Fig. 5–2a is perpen-
+dicular to 
+and line CB is perpendicular to 
+then the angle 
+between CA and
+CB is also the angle between 
+and 
+Hence the vectors 
+and 
+in 
+Fig. 5–2b form a triangle that is geometrically similar† to triangle ACB in Fig. 5–2a.
+If we take 
+to be very small (letting 
+be very small) and set 
+because the magnitude of the velocity is assumed not to change, we can write
+This is an exact equality when 
+approaches zero

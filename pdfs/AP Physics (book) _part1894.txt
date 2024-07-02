@@ -1,0 +1,22 @@
+ used in place of the electric
+deflection plates shown here. The
+relative positions of the elements 
+have been exaggerated for clarity.
+FIGURE 17–30 Electron beam sweeps
+across a CRT television screen in a
+succession of horizontal lines. Each
+horizontal sweep is made by varying
+the voltage on the horizontal deflection
+plates (Fig. 17–29). Then the electron
+beam is moved down a short distance
+by a change in voltage on the vertical
+deflection plates, and the process
+(referred to as a raster) is repeated.
+P H Y S I C S  A P P L I E D
+TV and computer monitors
+In TV and computer monitors, the CRT electron beam sweeps over the screen
+in the manner shown in Fig. 17–30 by carefully synchronized voltages applied to
+the deflection plates (more commonly by magnetic deflection coils—Chapter 20).
+During each horizontal sweep of the electron beam, the grid (Fig.17–29) receives a
+signal voltage that limits the flow of electrons at each instant during the sweep;
+the more negative the grid voltage is, 

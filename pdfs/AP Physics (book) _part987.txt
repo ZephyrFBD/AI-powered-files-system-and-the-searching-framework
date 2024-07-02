@@ -1,0 +1,24 @@
+ the size of the gar-
+age in each dimension (length, width, and number of levels).
+For the support columns to hold up four floors instead of
+two, how should he change the columns’ diameter?
+(a) Double the area of the columns by increasing their
+diameter by a factor of 2.
+(b) Double the area of the columns by increasing their
+diameter by a factor of 
+.
+(c) Quadruple the area of the columns by increasing their
+diameter by a factor of 2.
+(d) Increase the area of the columns by a factor of 8 by
+increasing their diameter by a factor of
+(e) He doesn’t need to increase the diameter of the
+columns.
+10. A rubber band is stretched by 1.0 cm when a force of 0.35 N
+is applied to each end. If instead a force of 0.70 N is applied
+to each end, estimate how far the rubber band will stretch
+from its unstretched length:
+(a) 0.25 cm. (b) 0.5 cm. (c) 1.0 cm. (d) 2.0 cm. (e) 4.0 cm.
+212.
+12
+5. Two children are balanced on opposite sides of a seesaw. If
+one child leans inward toward the pivot point, her sid

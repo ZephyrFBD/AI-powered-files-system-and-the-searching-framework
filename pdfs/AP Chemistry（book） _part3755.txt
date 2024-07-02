@@ -1,0 +1,16 @@
+s a particular color because it either 
+reflects or transmits light of that color or absorbs light of the comple-
+mentary color. The amount of light absorbed by a sample as a function 
+of wavelength is known as its absorption spectrum. The light absorbed 
+provides the energy to excite electrons to higher-energy states.
+It is possible to determine the number of unpaired electrons in 
+a complex from its degree of paramagnetism. Compounds with no 
+unpaired electrons are diamagnetic.
+CRYSTAL-FIELD THEORY (SECTION 23.6) Crystal-field theory suc-
+cessfully accounts for many properties of coordination compounds, 
+including their color and magnetism. In crystal-field theory, the 
+interaction between metal ion and ligand is viewed as electrostatic. 
+Because some d orbitals point directly at the ligands whereas oth-
+ers point between them, the ligands split the energies of the metal 
+d orbitals. For an octahedral complex, the d orbitals are split into a 
+lower-energy set of three degenerate orbi

@@ -1,0 +1,17 @@
+s
+often an average with nearest-neighbor colors to reduce memory size 
+(
+compression, see page 489).
+Each different color of pixel in a Bayer array is counted as a separate pixel.
+In contrast, in an LCD screen (Sections 17–11 and 24–11), a group of three
+subpixels is counted as one pixel, a more conservative count.
+An alternative technology, called “Foveon,” uses a semiconductor layer sys-
+tem. Different wavelengths of light penetrate silicon to different depths, as shown in
+Fig. 25–3: blue wavelengths are absorbed in the top layer, allowing green and red
+light to pass through. Longer wavelengths (green) are absorbed in the second
+layer, and the bottom layer detects the longest wavelengths (red). All three colors
+are detected by each “tri-pixel” site, resulting in better color resolution and fewer
+artifacts.
+Digital Artifacts
+Digital cameras can produce image artifacts (artificial effects in the image not
+present in the original) resulting from the electronic sensing of the image. One

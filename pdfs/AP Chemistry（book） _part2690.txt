@@ -1,0 +1,25 @@
+dition of acid; pH 
+decrease is small.
+F−(aq) + H+(aq)
+HF(aq)
+HF(aq) +
+H2O(l)
+F−(aq)
++
+OH−(aq)
+▲ Figure 17.2 Buffer action. The pH of an HF>F- buffered solution changes by only a small amount 
+in response to addition of an acid or base.
+F- (center). The addition of OH- reduces 3HF4 and slightly increases 3F-4, whereas the 
+addition of H+ reduces 3F-4 and slightly increases 3HF4.
+It is possible to overwhelm a buffer by adding too much strong acid or strong base. 
+We will examine this in more detail a little later in this chapter.
+Give It Some Thought
+(a)  
+What happens when NaOH is added to a buffer composed of CH3COOH and
+CH3COO-?
+(b) What happens when HCl is added to this buffer?
+Calculating the pH of a Buffer
+Because conjugate acid–base pairs share a common ion, we can use the same procedures 
+to calculate the pH of a buffer that we used to treat the common-ion effect in Sample 
+Exercise 17.1. Alternatively, we can take an approach based on an equation derived from 
+Equation 17.5. Ta

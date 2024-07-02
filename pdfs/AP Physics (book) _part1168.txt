@@ -1,0 +1,20 @@
+sea level to the top of a high moun-
+tain and started at the same angle of 5°, it would oscillate at the top of the mountain 
+(a) slightly slower; (b) slightly faster; (c) at exactly the same frequency; (d) not at all—it
+would stop; (e) none of these.
+The displacement s of the pendulum along the arc is given by
+where
+is the angle (in radians) that the cord makes with the vertical and is the length
+of the cord (Fig. 11–12). If the restoring force is proportional to s or to 
+the
+motion will be simple harmonic. The restoring force is the net force on the bob,
+which equals the component of the weight (mg) tangent to the arc:
+where g is the acceleration due to gravity. The minus sign here, as in Eq. 11–1,
+means the force is in the direction opposite to the angular displacement 
+Since
+F is proportional to the sine of 
+and not to 
+itself, the motion is not SHM.
+However, if is small, then 
+is very nearly equal to when the angle is speci-
+fied in radians. This can be seen by noting in Fig. 11–1

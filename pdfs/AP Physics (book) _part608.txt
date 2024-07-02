@@ -1,0 +1,22 @@
+e force,
+and we discuss how to treat it later in this Chapter (Section 6–9). Table 6–1 lists a
+few conservative and nonconservative forces.
+Because potential energy is energy associated with the position or configura-
+tion of objects, potential energy can only make sense if it can be stated uniquely
+for a given point. This cannot be done with nonconservative forces because the
+work done depends on the path taken (as in Fig. 6–16). Hence, potential energy
+can be defined only for a conservative force. Thus, although potential energy is
+always associated with a force, not all forces have a potential energy. For example,
+there is no potential energy for friction.
+F
+B
+P
+EXERCISE E An object acted on by a constant force F moves from point 1 to point 2
+and back again. The work done by the force F in this round trip is 60 J. Can you deter-
+mine from this information if F is a conservative or nonconservative force?
+150
+CHAPTER 6
+Work and Energy
+CONSERVATION OF
+MECHANICAL ENERGY
+Work-Energy Exte

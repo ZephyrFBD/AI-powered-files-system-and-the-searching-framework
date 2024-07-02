@@ -1,0 +1,25 @@
+n the two sides of the arrow, and that you’ve  
+chosen 
+the smallest set of coefficients that balances the equation.
+2 Na1s2 + 2 H2O1l2 ¡  2 NaOH1aq2 + H21g2
+Balancing H in this way brings O into  
+balance, but now Na is 
+unbalanced, with one Na on the left and two on the right. To 
+ 
+rebalance Na, we put the coefficient 2 in front of the reactant:
+Na1s2 + 2 H2O1l2 ¡  2 NaOH1aq2 + H21g2
+Although beginning this way does not balance H, it does increase 
+the number of reactant H atoms, which we need to do. (Also, add-
+ing the coefficient 2 on H2O unbalances O, but we will take care of 
+that after we balance H.) Now that we have 2 H2O on the left, we 
+ 
+balance H by putting the coefficient 2 in front of NaOH:
+__ CH41g2 + __ Br21l2 ¡ __ CBr41s2 + __ HBr1g2
+Once this equation is balanced, what is the value of the  
+coefficient in front of bromine Br2?
+(a) 1 (b) 2 (c) 3 (d) 4 (e) 6
+ 
+▶Practice Exercise 2
+Balance these equations by providing the missing 
+coefficients:
+(a) __ Fe1s2 + __O21g2 ¡ 

@@ -1,0 +1,58 @@
+on.
+Q1
+E = 53,000 NC.
+x = 0.47 m.
+Q2 = 1.8 mC,
+Q1 = –6.7 mC
+3 * 106 NC.
+x
+Q1
+Q2
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+FIGURE 16–65
+Problem 55.
+56. Packing material made of pieces of foamed polystyrene can
+easily become charged and stick to each other. Given that
+the density of this material is about 
+estimate
+how much charge might be on a 2.0-cm-diameter foamed
+polystyrene sphere, assuming the electric force between two
+spheres stuck together is equal to the weight of one sphere.
+57. A point charge 
+at the end of an insulating
+cord of length 55 cm is observed to be in equilibrium in a
+uniform horizontal electric field of 
+when the
+pendulum’s position is as shown in Fig. 16–66, with the
+charge 12 cm above the lowest
+(vertical) position. If the field
+points to the right in Fig. 16–66,
+determine the magnitude and
+sign of the point charge.
+9500 NC,
+(m = 1.0 gram)
+35 kgm3,
+Q
+m
+l = 55 cm
+12 cm
+u
+E
+B
+FIGURE 16–66
+Problem 57.
+58. Two small, identical conducting spheres A and B are a
+distance R apart

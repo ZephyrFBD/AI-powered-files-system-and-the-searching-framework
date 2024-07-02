@@ -1,0 +1,16 @@
+d or glass-fiber spacers 
+are placed between them (Figure 20.19). Using a reaction whose reactants 
+and products are solids has another benefit. Because solids are excluded from 
+the reaction quotient Q, the relative amounts of Pb1s2, PbO21s2, and PbSO41s2 
+have no effect on the voltage of the lead storage battery, helping the battery 
+maintain a relatively constant voltage during discharge. The voltage does 
+vary somewhat with use because the concentration of H2SO4 varies with the 
+extent of discharge. As Equation 20.20 indicates, H2SO4 is consumed during 
+the discharge.
+A major advantage of the lead–acid battery is that it can be recharged. During 
+recharging, an external source of energy is used to reverse the direction of the cell 
+reaction, regenerating Pb(s) and PbO21s2:
+2 PbSO41s2 + 2 H2O1l2 ¡ PbO21s2 + Pb1s2 + 2 HSO4
+-1aq2 + 2 H+1aq2
+In an automobile, the alternator provides the energy necessary for recharging the 
+battery. Recharging is possible because PbSO4 formed during dis

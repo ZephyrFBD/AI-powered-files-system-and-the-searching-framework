@@ -1,0 +1,53 @@
+ln: ln(e) = 1,
+e–1 = 1e = 12.718 = 0.37.
+e = 2.718 p,
+SECTION 19–6
+RC Circuits—Resistor and Capacitor in Series
+541
+(a)
+S
+R
+0.37V0
+V0
+t = RC
+t
+(b)
+Time
+2RC
+3RC
+VC
+0
+C
+V0
++
+–
+FIGURE 19–21 For the RC circuit
+shown in (a), the voltage 
+across
+the capacitor decreases with time t,
+as shown in (b), after the switch S is
+closed at
+The charge on the
+capacitor follows the same curve
+since Q r V
+C.
+t = 0.
+V
+C
+RC circuit, with emf. The capacitance in the circuit of
+Fig. 19–20a is 
+the total resistance is
+and the battery
+emf is 12 V. Determine (a) the time constant, (b) the maximum charge the
+capacitor could acquire, (c) the time it takes for the charge to reach 99% of this
+value, and (d) the maximum current.
+APPROACH We use Fig. 19–20 and Eqs. 19–7a, b, c, and d.
+SOLUTION (a) The time constant is 
+(b) The maximum charge would occur when no further current flows, so
+(c) In Eq. 19–7b, we set
+or
+We take the natural logarithm of both sides (Appendix A–8), recalling that
+so
+or 28 ms (less than 
+).
+(

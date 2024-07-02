@@ -1,0 +1,24 @@
+t determined in 
+part (a)? (c) If the sled slides back down, what is its speed
+when it returns to its starting point?
+mk = 0.25.
+2.3 ms.
+79. An airplane pilot fell 370 m after jumping from an aircraft
+without his parachute opening. He landed in a snowbank,
+creating a crater 1.1 m deep, but survived with only minor
+injuries. Assuming the pilot’s mass was 88 kg and his speed
+at impact was 
+estimate: (a) the work done by the
+snow in bringing him to rest; (b) the average force exerted
+on him by the snow to stop him; and (c) the work done on
+him by air resistance as he fell. Model him as a particle.
+80. Many cars have “
+bumpers”that are designed
+to compress and rebound elastically without any physical
+damage at speeds below 
+If the material of the
+bumpers permanently deforms after a compression of
+1.5 cm, but remains like an elastic spring up to that point,
+what must be the effective spring constant of the bumper
+material, assuming the car has a mass of 1050 kg and is
+tested by ramming int

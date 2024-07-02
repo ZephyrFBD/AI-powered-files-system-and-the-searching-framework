@@ -1,0 +1,70 @@
+harge is also conserved: before the reaction, the total charge is 92e.
+After the reaction the total charge is 
+and must equal 92e. Thus
+The element with 
+is xenon (see Appendix B or
+the Periodic Table inside the back cover), so the isotope is 
+EXERCISE B In the fission reaction
+neutrons, how many
+neutrons are produced?
+Figure 31–4 shows the measured distribution of 
+fission fragments accord-
+ing to mass. Only rarely (about 1 in 
+) does a fission result in equal mass fragments
+(arrow in Fig. 31–4).
+104
+ 92
+235U
+n + 235
+92U S
+137
+53I + 96
+39Y +
+ 54
+141Xe.
+Z = 54
+Z = 92 - 38 = 54.
+(Z + 38)e
+A = 236 - 95 = 141.
+235 + 1 = 236
+n +  92
+235U S
+Z
+AX + 38
+93Sr + 2n.
+CONCEPTUAL EXAMPLE 31;4
+n +
+ 92
+235U S
+ 56
+141Ba +
+36
+92Kr + 3n,
+X2,
+X1
+10–12 s,
+ 92
+236U,
+n +
+ 92
+235U S
+ 92
+236U S X1 + X2 + neutrons.
+X2 ,
+X1
+ 92
+236U
+ 92
+235U
+ 92
+238U.
+ 92
+235U
+a
+s
+SECTION 31–2
+Nuclear Fission; Nuclear Reactors
+889
+FIGURE 31–3 Fission of a 
+nucleus after capture of a neutron,
+according to the liquid-drop model.

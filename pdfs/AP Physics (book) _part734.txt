@@ -1,0 +1,20 @@
+ational motion of the CM, plus rotational, vibrational, or other types of motion
+about the CM.
+As an example, consider the motion of the center of mass of the diver in 
+Fig. 7–20; the CM follows a parabolic path even when the diver rotates, as shown
+in Fig. 7–20b. This is the same parabolic path that a projected particle follows
+when acted on only by the force of gravity (projectile motion, Chapter 3).
+Other points in the rotating diver’s body, such as her feet or head, follow more
+complicated paths.
+184
+CHAPTER 7
+Linear Momentum
+only an x axis.) It is often convenient to choose the
+axis in the direction of one object’s initial velocity.
+5. Apply the momentum conservation equation(s):
+You have one equation for each component (x, y, z):
+only one equation for a head-on collision. [Don’t for-
+get that it is the total momentum of the system that
+is conserved, not the momenta of individual objects.]
+6. If the collision is elastic, you can also write down a
+conservation of kinetic energy equ

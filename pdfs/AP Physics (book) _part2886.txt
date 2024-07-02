@@ -1,0 +1,21 @@
+ Explain the different results and their impact
+on finished photographs.
+4. Describe at least four advantages of using mirrors rather
+than lenses for an astronomical telescope.
+5. An astronomical telescope, Fig. 25–20, produces an inverted
+image. One way to make a telescope that produces an upright
+image is to insert a third lens between the objective and
+the eyepiece, Fig. 25–23b. To have the same magnification,
+the non-inverting telescope will be longer. Suppose lenses
+of focal length 150 cm, 1.5 cm, and 10 cm are available.
+Where should these three lenses be placed to make a
+non-inverting telescope with magnification 
+6. Mizar, the second star from the end of the Big Dipper’s
+handle, appears to have a companion star,Alcor. From Earth,
+Mizar and Alcor have an angular separation of 12 arc 
+minutes (1 arc 
+). Using Examples 25–10 and
+25–11, estimate the angular resolution of the human eye
+(in arc min). From your estimate, explain if these two stars
+can be resolved by the naked eye.
+min

@@ -1,0 +1,17 @@
+tinue through the cell cycle. The three checkpoints are as follows (through the cell
+cycle. The three checkpoints are as follows ( 6):
+The G1 checkpoint occurs near the end of the G1 phase. Here,
+the quality of the DNA is evaluated; if DNA damage is detected, DNA repair is attempted. If that fails, apoptosis, a
+program for self-destruction, ensues. If nutrients or growth factors are absent, the cell proceeds no further through
+the cell cycle, remaining in
+an extended G1 phase until conditions are appropriate. Some
+ 
+cells, like nerve or muscle cells, are genetically programmed not to divide, and remain in a G0 phase, rarely
+dividing after they
+ 
+have matured. Liver cells, on the other hand, can leave the G0
+ 
+phase and return to dividing if they need to replace injured liver tissue.
+ The G2 checkpoint, occurring at the end of the G2 phase of the
+cell cycle, evaluates the accuracy of DNA replication and signals whether or not to begin mitosis. If DNA damage is
+detected, DNA repair is at

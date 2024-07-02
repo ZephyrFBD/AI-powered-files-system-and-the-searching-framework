@@ -1,0 +1,14 @@
+hat changes in gravitational potential energy depend only
+on the change in vertical height and not on the path taken.
+Potential energy belongs to a system, and not to a single object alone. Poten-
+tial energy is associated with a force, and a force on one object is always exerted
+by some other object. Thus potential energy is a property of the system as a
+whole. For an object raised to a height y above the Earth’s surface, the change in
+gravitational potential energy is mgy. The system here is the object plus the
+Earth, and properties of both are involved: object (m) and Earth (g).
+Potential Energy Defined in General
+There are other kinds of potential energy besides gravitational. Each form of
+potential energy is associated with a particular force, and can be defined analo-
+gously to gravitational potential energy. In general, the change in potential energy
+associated with a particular force is equal to the negative of the work done by 
+that force when the object is moved from one poin

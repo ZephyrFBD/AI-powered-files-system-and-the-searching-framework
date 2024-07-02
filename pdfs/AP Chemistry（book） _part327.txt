@@ -1,0 +1,81 @@
+
+Formula
+Name
+Formula
+Name
+1+ 
+H+
+hydrogen ion
+NH4
++
+ammonium ion
+Li+
+lithium ion
+Cu+
+copper(I) or cuprous ion
+Na+
+sodium ion
+K+
+potassium ion
+Cs+
+cesium ion
+Ag+
+silver ion
+2+
+Mg2+
+magnesium ion
+Co2+
+cobalt(II) or cobaltous ion
+Ca2+
+calcium ion
+Cu2+
+copper(II) or cupric ion
+Sr2+
+strontium ion
+Fe2+
+iron(II) or ferrous ion
+Ba2+
+barium ion
+Mn2+
+manganese(II) or manganous ion
+Zn2+
+zinc ion
+Hg2
+2+
+mercury(I) or mercurous ion
+Cd2+
+cadmium ion
+Hg2+
+mercury(II) or mercuric ion
+Ni2+
+nickel(II) or nickelous ion
+Pb2+
+lead(II) or plumbous ion
+Sn2+
+tin(II) or stannous ion
+3+
+Al3+
+aluminum ion
+Cr3+
+chromium(III) or chromic ion
+Fe3+
+iron(III) or ferric ion
+aThe ions we use most often in this course are in boldface. Learn them first.
+2. Anions
+a.  
+The names of monatomic anions are formed by replacing the ending of the name of the 
+element with -ide:
+H-
+hydride ion
+O2-
+oxide ion
+N3-
+nitride ion
+A few polyatomic anions also have names ending in -ide:
+OH-
+hydroxide ion
+CN-
+cyanide ion
+O2
+2-
+peroxide ion

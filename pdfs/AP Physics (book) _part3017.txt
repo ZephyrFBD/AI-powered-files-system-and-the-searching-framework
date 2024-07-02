@@ -1,0 +1,22 @@
+
+(b) Using Newton’s second law for 
+photons (Example 27–4) whose
+momentum changes from 
+to 0, we obtain
+NOTE This is a tiny force, but we can see that a very strong light source could
+exert a measurable force, and near the Sun or a star the force due to photons in
+electromagnetic radiation could be considerable. See Section 22–6.
+Photosynthesis. In photosynthesis, pigments such as 
+chlorophyll in plants capture the energy of sunlight to change 
+to useful
+carbohydrate. About nine photons are needed to transform one molecule of 
+to carbohydrate and 
+Assuming light of wavelength
+(chlorophyll
+absorbs most strongly in the range 650 nm to 700 nm), how efficient is the
+photosynthetic process? The reverse chemical reaction releases an energy of
+of 
+so 4.9 eV is needed to transform CO2 to carbohydrate.
+APPROACH The efficiency is the minimum energy required (4.9 eV) divided
+by the actual energy absorbed, nine times the energy (hf) of one photon.
+SOLUTION The energy of nine photons, each of energ

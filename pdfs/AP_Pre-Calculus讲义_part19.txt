@@ -1,0 +1,50 @@
+
+(c) Find the domain and range of f.  
+(d) Draw a machine diagram for f. 
+ 
+ 
+ 
+ 
+ 
+16 
+1.1.3 Evaluating a Function 
+In the definition of a function the independent variable x plays the role of a placeholder.  
+For example, the function f(x) = 3x2 + x - 5 can be thought of as   
+ 
+To evaluate f at a number, we substitute the number for the placeholder.  
+ 
+Example 2 
+f(x) = 3x2 + x – 5. Evaluate each function value/ 
+(a) f(-2) 
+(b) f(0) 
+(c) f(4) 
+ 
+ 
+ 
+ 
+ 
+1.1.4 Domain of a Function 
+We know that the domain of a function is the set of all inputs for the function. The domain 
+of a function may be stated explicitly.  
+For example, if we write 
+( )
+2
+0
+5
+f x
+x
+x
+=
+£
+£
+ 
+then the domain is the set of all real numbers x for which 
+0
+5.
+x
+£
+£
+ 
+If the function is given by an algebraic expression and the domain is not stated explicitly, 
+then by convention the domain of the function is the domain of the algebraic expression—
+that is, the set of all real numbers for which the expression is de

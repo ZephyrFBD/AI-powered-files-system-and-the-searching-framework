@@ -1,0 +1,10 @@
+rection of the lagging strand will be 3' to 5', and that of the leading strand 5' to 3'. A
+protein called the sliding clamp holds the DNA polymerase in place as it continues to add nucleotides. The sliding clamp is
+a ring-shaped protein that binds to the DNA and holds the polymerase in place. Topoisomerase prevents the over-winding
+of the DNA double helix ahead of the replication fork as the DNA is opening up; it does so by causing temporary nicks
+in the DNA helix and then resealing it. As synthesis proceeds, the RNA primers are replaced by DNA. The primers are
+removed by the exonuclease activity of DNA pol I, and the gaps are filled in by deoxyribonucleotides. The nicks that remain
+between the newly synthesized DNA (that replaced the RNA primer) and the previously synthesized DNA are sealed by the
+enzyme DNA ligase that catalyzes the formation of phosphodiester linkage between the 3'-OH end of one nucleotide and
+the 5' phosphate end of the other fragment.
+Once the chromosome has been 

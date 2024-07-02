@@ -1,0 +1,33 @@
+er of the reflected spectrum (around 550 nm). The extremes of the
+spectrum—red and violet—will not be reduced as much. Since a mixture of red
+and violet produces purple, the light seen reflected from such coated lenses is
+purple (Fig. 24–35). Lenses containing two or three separate coatings can more
+effectively reduce a wider range of reflecting wavelengths.
+5
+2 l
+3
+2 l
+change = constructive
+1
+2 l
+3
+2 l
+3
+2 l
+2t = 510 nm
+t
+SECTION 24–8
+Interference in Thin Films
+697
+wave. The amplitudes add, but they are of opposite
+sign, so the total amplitude is reduced to zero if the
+two amplitudes are equal. Destructive interference
+occurs whenever the phase difference is half a wave
+cycle, or the path difference is a half-integral number
+of wavelengths. Thus, the total amplitude will be zero
+if two identical waves arrive one-half wavelength
+out of phase, or 
+out of phase, where m is
+an integer.
+4. For thin-film interference, an extra half-wavelength
+phase shift occurs when light reflects from an o

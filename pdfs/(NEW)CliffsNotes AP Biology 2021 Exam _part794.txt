@@ -1,0 +1,11 @@
+with one strand of the DNA
+molecule extending beyond the second strand. These jagged ends, or “sticky ends,” allow DNA fragments with
+complimentary jagged ends to fit back together. This technique is important for inserting genes (DNA fragments)
+into bacterial plasmids. When a plasmid and a foreign source of DNA (with a gene of interest) are treated with the
+same restriction enzyme and mixed together, the sticky ends of the foreign DNA will match the sticky ends of the
+plasmid DNA. The foreign DNA fragment can then be bonded to the plasmid DNA by treatment with DNA ligase.
+The recombinant plasmid can then be used to introduce the foreign DNA into a cell.
+Part II: DNA Mapping
+When DNA is collected at a crime scene, its analysis requires that it be cut up into pieces and then separated. The
+pieces are arranged by size to form a DNA chart or map. Because the DNA of every individual (except identical
+twins) is different, the map of DNA pieces from the crime scene can be compared to other D

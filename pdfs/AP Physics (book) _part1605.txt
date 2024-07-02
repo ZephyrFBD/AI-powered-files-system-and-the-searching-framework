@@ -1,0 +1,29 @@
+ph of pressure P vs. volume V, a PV diagram, would
+follow a curve like AB in Fig. 15–2 for an isothermal process. Each point on the
+curve, such as point A, represents the state of the system at a given moment—
+that is, its pressure P and volume V. At a lower temperature, another isothermal
+process would be represented by a curve like 
+in Fig. 15–2 (the product
+is less when T is less). The curves shown in Fig. 15–2
+are referred to as isotherms.
+We assume the gas is in contact with a heat reservoir (a body whose mass is so
+large that, ideally, its temperature does not change significantly when heat is exchanged
+with our system). We also assume that a process of compression (volume decrease) 
+or expansion (volume increase) is done very slowly, so that the process can be
+considered a series of equilibrium states all at the same constant temperature.†
+PV = nRT = constant
+A¿ B¿
+PV = constant.
+PV = nRT
+(T  0)
+A
+0
+A′
+B
+B′
+V
+P
+Higher T
+Lower T
+FIGURE 15–2 PV diagram for an
+ideal gas undergoin

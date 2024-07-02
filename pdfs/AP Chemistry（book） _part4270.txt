@@ -1,0 +1,18 @@
+of bonded atoms. Such orbitals, designated as s* or p*, are less stable 
+(of higher energy) than bonding molecular orbitals. (Section 9.7)
+antiferromagnetism A form of magnetism in which unpaired 
+electron spins on adjacent sites point in opposite directions and 
+cancel each other’s effects. (Section 23.1)
+aqueous solution A solution in which water is the solvent. 
+(Chapter 4: Introduction)
+aromatic hydrocarbons Hydrocarbon compounds that contain 
+a planar, cyclic arrangement of carbon atoms linked by both s 
+and delocalized p bonds. (Section 24.2)
+Arrhenius equation An equation that relates the rate constant 
+for a reaction to the frequency factor, A, the activation energy, 
+Ea, and the temperature, T: k = Ae-Ea>RT. In its logarithmic form it is 
+written ln k = -Ea>RT + ln A. (Section 14.5)
+atmosphere (atm) A unit of pressure equal to 760 torr; 
+1 atm = 101.325 kPa. (Section 10.2)
+atom The smallest representative particle of an element. The 
+almost infinitesimally small building block

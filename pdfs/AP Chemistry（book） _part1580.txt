@@ -1,0 +1,23 @@
+ which variables have 
+numeric values given. Every time you encounter a numerical 
+value, jot it down. In many cases, constructing a table of the 
+given information will be useful.
+ 2. Convert to consistent units. Make certain that quantities are 
+converted to the proper units. In using the ideal-gas equation, for 
+example, we usually use the value of R that has units of L-atm/
+mol-K. If you are given a pressure in torr, you will need to convert 
+it to atmospheres before using this value of R in your calculations.
+ 3. If a single equation relates the variables, solve the equation 
+for the unknown. For the ideal-gas equation, these algebraic re-
+arrangements will all be used at one time or another:
+ 
+P = nRT
+V , V = nRT
+P , n = PV
+RT
+  , T = PV
+nR 
+ 4. Use dimensional analysis. Carry the units through your cal-
+culation. Using dimensional analysis enables you to check that 
+you have solved an equation correctly. If the units in the equa-
+tion cancel to give the units of the desired vari

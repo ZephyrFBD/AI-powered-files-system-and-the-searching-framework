@@ -1,0 +1,15 @@
+by the wing (we are in the reference frame of the
+wing, as if sitting on the wing). The upward tilt, as well as the rounded upper
+surface of the wing, causes the streamlines to be forced upward and to be crowded
+together above the wing. The area of air flowing between any two streamlines is
+smaller as the streamlines get closer together, so from the equation of contin-
+uity
+the air speed increases above the wing where the streamlines
+are squished together. (Recall also how the crowded streamlines in a pipe
+constriction, Fig. 10–19, indicate the velocity is higher in the constriction.)
+Thus the air speed is greater above the wing than below it, so the pressure above
+the wing is less than the pressure below the wing (Bernoulli’s principle). Hence
+there is a net upward force on the wing called dynamic lift. Experiments show
+that the speed of air above the wing can even be double the speed of the air
+below it. (Friction between the air and wing exerts a drag force, toward the rear,
+which m

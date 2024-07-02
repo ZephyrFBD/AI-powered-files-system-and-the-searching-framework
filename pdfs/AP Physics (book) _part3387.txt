@@ -1,0 +1,31 @@
+s has required techniques such as com-
+paring the expected ratio to the actual ratio for objects whose age is known, such
+as very old trees whose annual rings can be counted reasonably accurately.
+An ancient animal. The mass of carbon in an animal bone
+fragment found in an archeological site is 200 g. If the bone registers an activity
+of 
+what is its age?
+APPROACH First we determine how many 
+atoms there were in our 200-g
+sample when the animal was alive, given the known fraction of 
+to 
+Then we use Eq. 30–3b to find the activity back then, and Eq. 30–5
+to find out how long ago that was by solving for the time .
+SOLUTION The 200 g of carbon is nearly all 
+12.0 g of 
+contains
+atoms, so 200 g contains
+When the animal was alive, the ratio of 
+to 
+in the bone was 
+The number of 
+nuclei at that time was
+From Eq. 30–3b with 
+(Example 30–9) the magnitude of
+the activity when the animal was still alive 
+was
+From Eq. 30–5
+where R, its activity now, is given as 
+Then
+or
+We take the natural logs 

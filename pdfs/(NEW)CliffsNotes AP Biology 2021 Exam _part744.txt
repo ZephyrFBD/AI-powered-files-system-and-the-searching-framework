@@ -1,0 +1,22 @@
+ation if you
+counted 55 redeyed flies and 45 brown-eyed flies from this cross when you expected
+50 of each (½ and ½)? To calculate the χ2 statistic, create a contingency table of all the values that are needed to
+calculate the χ2 statistic, where
+ 
+O and E represent observed values and expected values, respectively:
+ 
+Next, you need to
+determine the degrees of freedom (df) of the data using the formula provided on the equations and formulas pages:
+df = number of E values − 1 = 2 − 1 = 1
+ 
+To determine if the observed data values obtained in the fruit fly cross differ from the expected values by chance or
+for another reason, you
+ 
+compare your calculated value of χ2 to the table of critical values in the
+ 
+chi-square table provided on the equations and formulas pages:
+ 
+The table provides critical values for χ2 for two
+values of probability, p, and at eight different degrees of freedom. A critical value of χ2 at p =
+ 
+0.05 indicates that 95% of the difference between observed and expect

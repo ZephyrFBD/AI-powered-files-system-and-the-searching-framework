@@ -1,0 +1,26 @@
+t only for
+transverse waves, and not for longitudinal waves such as sound. The latter oscillate
+only along the direction of motion, and neither orientation of slit would stop them.
+SECTION 24–10
+Polarization
+699
+FIGURE 24–39 (a) A vertically polarized
+wave passes through a vertical slit, but
+(b) a horizontally polarized wave will not.
+(a)
+(b)
+(a)
+(b)
+FIGURE 24–40 (a) Oscillation 
+of the electric field vectors in
+unpolarized light. The light is traveling
+into or out of the page. (b) Electric
+field in linear polarized light.
+(a)
+(b)
+Maxwell’s theory of light as electromagnetic (EM) waves predicted that light can
+be polarized since an EM wave is a transverse wave. The direction of polarization in
+a plane-polarized EM wave is taken as the direction of the electric field vector 
+Light is not necessarily polarized. It can also be unpolarized, which means
+that the source has oscillations in many planes at once, as shown in Fig. 24–40.
+Ordinary lightbulbs emit unpolarized light, as does the Su

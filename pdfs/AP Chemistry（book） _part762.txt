@@ -1,0 +1,15 @@
+e this point by giving one more example of an enthalpy 
+diagram and Hess’s law. Again we use combustion of methane to form 
+CO2 and H2O, our reaction from Figure 5.21. This time we envision a dif-
+ferent two-step path, with the initial formation of CO, which is then com-
+busted to CO2 (Figure 5.22). Even though the two-step path is different 
+from that in Figure 5.21, the overall reaction again has ∆H1 = -890 kJ. 
+Because H is a state function, both paths must produce the same value 
+of ∆H. In Figure 5.22, that means ∆H1 = ∆H2 + ∆H3. We will soon see 
+that breaking up reactions in this way allows us to derive the enthalpy 
+changes for reactions that are hard to carry out in the laboratory.
+5.7 ∣ Enthalpies of Formation
+We can use the methods just discussed to calculate enthalpy changes for 
+a great many reactions from tabulated ∆H values. For example, exten-
+sive tables exist of enthalpies of vaporization (∆H for converting liquids to 
+gases), enthalpies of fusion (∆H for melting solid

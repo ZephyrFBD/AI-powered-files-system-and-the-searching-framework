@@ -1,0 +1,19 @@
+ total of seven electrons), is just the mass of a neutral nitrogen atom.
+SOLUTION The total mass in the final state is
+and this is equal to
+which from Appendix B is a mass of 14.003074 u. So the mass difference is
+which is equivalent to an energy
+change
+or 156 keV.
+NOTE The neutrino doesn’t contribute to either the mass or charge balance
+because it has
+and 
+According to Example 30–8, we would expect the emitted electron to have a
+kinetic energy of 156 keV. (The daughter nucleus, because its mass is very much
+larger than that of the electron, recoils with very low velocity and hence gets very
+little of the kinetic energy—see Example 30–7.) Indeed, very careful measure-
+ments indicate that a few emitted 
+particles do have kinetic energy close to this
+calculated value. But the vast majority of emitted electrons have somewhat less
+energy. In fact, the energy of the emitted electron can be anywhere from zero up
+to the maximum value as calculated above. This range of electron kinetic energy

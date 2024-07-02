@@ -1,0 +1,28 @@
+nchrotrons, and hence is called
+synchrotron radiation. Synchrotron radiation can be useful, however. Intense 
+beams of photons (
+rays) are sometimes needed, and they are often obtained
+from an electron synchrotron. Strong sources of such photons are referred to as 
+light sources.
+g
+1 TeV = 1012 eV
+1000 GeV = 1 TeV
+ke
+gm
+g
+gm
+p = gmv = mv11 - v2c2 ,
+SECTION 32–1
+High-Energy Particles and Accelerators
+919
+†Robert Wilson, who helped design the Tevatron, and founded the field of proton therapy 
+(Section 31–6), expressed his views on accelerators and national security in this exchange with Senator
+John Pastore during testimony before a Congressional Committee in 1969:
+Pastore: “Is there anything connected with the hopes of this accelerator [the Tevatron] that in
+any way involves the security of the country?”
+Robert Wilson: “No sir, I don’t believe so.”
+Pastore: “Nothing at all?”
+Wilson: “Nothing at all.
+”
+Pastore: “It has no value in that respect?”
+Wilson: “It has only to do with the resp

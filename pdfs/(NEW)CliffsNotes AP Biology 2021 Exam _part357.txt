@@ -1,0 +1,11 @@
+.
+4. Transcription initiation is regulated by a transcription complex, a group of various proteins that are associated
+with RNA polymerase activity. The makeup of the transcription complex determines the degree to which
+transcription is activated or repressed. There are several components to the complex:
+General transcription factors are proteins that are required by all transcription events to successfully initiate
+transcription by RNA polymerase. General transcription factors attach with the RNA polymerase to the promoter
+region upstream and adjacent to the gene to be transcribed. Some general transcription factors target the TATA box
+sequence associated with the promoter region.
+Specific transcription factors are additional proteins associated with regulating specific transcription activities—
+specific to cell type, specific to the particular genes, or specific to the timing of the transcription. There are two
+kinds of specific transcription factors: activators and repressors. Speci

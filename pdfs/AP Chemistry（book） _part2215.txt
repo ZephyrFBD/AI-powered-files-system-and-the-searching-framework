@@ -1,0 +1,25 @@
+ = 1 yr, we use the inverse natural loga-
+rithm, or ex, function on the calculator:
+3insecticide4t = 1 yr = e - 15.96 = 1.2 * 10 - 7g>cm3
+ 
+Note that the concentration units for 3A4t and 3A40 must be 
+the same.
+(b) Again substituting into Equation 14.13, with 
+3insecticide4t = 3.0 * 10-7 g>cm3, gives:
+ 
+Solving for t gives:
+ln13.0 * 10-72 = -11.45 yr-121t2 + ln15.0 * 10-72
+ 
+t = -3ln13.0 * 10-72 - ln15.0 * 10-724>1.45 yr-1
+ = -1-15.02 + 14.512>1.45 yr-1 = 0.35 yr
+Check In part (a) the concentration remaining after 1.00 yr (that 
+is, 1.2 * 10 - 7 g>cm3) is less than the original concentration 
+15.0 * 10 - 7 g>cm32, as it should be. In (b) the given concen-
+tration 13.0 * 10-7 g>cm32 is greater than that remaining after 
+1.00 yr, indicating that the time must be less than a year. Thus, 
+t = 0.35 yr is a reasonable answer.
+ 
+▶Practice Exercise 1
+At 25 °C, the decomposition of dinitrogen pentoxide, 
+N2O51g2, into NO21g2 and O21g2 follows first-order kinetics 
+with k = 3.4 * 10-5 s-1. A sam

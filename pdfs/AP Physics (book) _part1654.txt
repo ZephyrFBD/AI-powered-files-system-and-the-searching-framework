@@ -1,0 +1,14 @@
+In fact,
+the entropy of a system can be considered a measure of the disorder of the system.
+Then the second law of thermodynamics can be stated simply as:
+natural processes tend to move toward a state of greater disorder.
+Exactly what we mean by disorder may not always be clear, so we now consider a
+few examples. Some of these will show us how this very general statement of the
+second law applies beyond what we usually consider as thermodynamics.
+Let us look at the simple processes mentioned in Section 15–4. First, a jar
+containing separate layers of salt and pepper is more orderly than a jar in which the
+salt and pepper are all mixed up. Shaking a jar containing separate layers results in
+a mixture, and no amount of shaking brings the orderly layers back again. The
+natural process is from a state of relative order (layers) to one of relative disorder
+(a mixture), not the reverse. That is, disorder increases. Second, a solid coffee cup
+is a more “orderly” and useful object than the pie

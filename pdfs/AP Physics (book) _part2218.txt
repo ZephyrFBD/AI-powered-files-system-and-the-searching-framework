@@ -1,0 +1,45 @@
+ the other when the current is
+on, so we can apply Eq. 20–7.
+SOLUTION Equation 20–7 gives
+The currents are in opposite directions (one toward the appliance, the other away
+from it), so the force would be repulsive and tend to spread the wires apart.
+F =
+m0
+2p
+I
+1 I
+2
+d l2 =
+A4p * 10–7 TmAB(8.0 A)2(2.0 m)
+(2p)A3.0 * 10–3 mB
+= 8.5 * 10–3 N.
+EXAMPLE 20;12
+572
+CHAPTER 20
+I
+I
+S
+N
+l
+(a)
+(b)
+FIGURE 20–28 (a) Magnetic field
+of a solenoid. The north pole of this
+solenoid, thought of as a magnet, is
+on the right, and the south pole is on
+the left. (b) Photo of iron filings
+aligning along 
+field lines of a
+solenoid with loosely spaced loops.
+The field is smoother if the loops are
+closely spaced.
+B
+B
+Definition of the Ampere and the Coulomb
+You may have wondered how the constant 
+in Eq. 20–6 could be exactly
+Here is how it happened. With an older definition of the
+ampere,
+was measured experimentally to be very close to this value. Today,
+is defined to be exactly
+This could not be done if the amp

@@ -1,0 +1,40 @@
+ns of
+muons pass through your body. If a muon is created 30 km
+above the Earth’s surface, what minimum speed and kinetic
+energy must the muon have in order to hit Earth’s surface?
+A muon’s mean lifetime (at rest) is 
+and its mass is
+6. As a rough rule, anything traveling faster than about 0.1c
+is called relativistic—that is, special relativity is a significant
+effect. Determine the speed of an electron in a hydrogen
+atom (radius 
+) and state whether or not it 
+is relativistic. (Treat the electron as though it were in a
+circular orbit around the proton. See hint for Problem 46.)
+0.53 * 10–10 m
+105.7 MeVc2.
+2.20 ms
+30°
+Search and Learn
+A: (c).
+B: (a) No; (b) yes.
+C: 80 m.
+D: No: kemc2 L 2 * 10–4.
+E: 0.030c, same as classical, to an accuracy of better than
+0.1%.
+F: (d).
+ANSWERS TO EXERCISES
+C
+H
+A
+P
+T
+E
+R
+Early Quantum Theory
+and Models of the Atom
+CHAPTER-OPENING QUESTION—Guess now!
+It has been found experimentally that
+(a) light behaves as a wave.
+(b) light behaves as a particle.
+(c) e

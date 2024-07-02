@@ -1,0 +1,24 @@
+liquid benzene? (c) Determine the fuel value, in 
+kJ>g, for acetylene and benzene.
+ 5.113 Ammonia 1NH32 boils at -33 °C; at this temperature it has a 
+density of 0.81 g>cm3. The enthalpy of formation of NH31g2 
+is -46.2 kJ>mol, and the enthalpy of vaporization of NH31l2 
+is 23.2 kJ>mol. Calculate the enthalpy change when 1 L of 
+liquid NH3 is burned in air to give N21g2 and H2O1g2. How 
+does this compare with ∆H for the complete combustion of 
+1 L of liquid methanol, CH3OH1l2? For CH3OH1l2, the den-
+sity at 25 °C is 0.792 g>cm3, and ∆Hf° = -239 kJ>mol.
+ 5.103 Limestone stalactites and stalagmites are formed in caves by 
+the following reaction:
+Ca2 +1aq2 + 2 HCO3
+-1aq2 ¡ CaCO31s2 + CO21g2 + H2O1l2
+ 
+ If 1 mol of CaCO3 forms at 298 K under 1 atm pressure, the 
+ 
+reaction performs 2.47 kJ of P–V work, pushing back the atmo-
+sphere as the gaseous CO2 forms. At the same time, 38.95 kJ 
+ 
+of heat is absorbed from the environment. What are the 
+ 
+values of ∆H and of ∆E for this reaction?
+ 5.1

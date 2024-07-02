@@ -1,0 +1,33 @@
+d Example 32–12).
+¢N = lN ¢t = N ¢tt
+1031
+1031 yr
+AL  14 * 109 yrB.
+FIGURE 32–21 Symmetry around
+a table. Example 32–11.
+Proton decay. An experiment uses 3300 tons
+of water waiting to see a proton decay of the type
+If the experi-
+ment is run for 4 years without detecting a decay, estimate the lower limit on the
+proton mean life.
+APPROACH As with radioactive decay, the number of decays is proportional
+to the number of parent species (N), the time interval 
+and the decay
+constant 
+which is related to the mean life by (see Eqs. 30–3 and 30–7):
+SOLUTION Dealing only with magnitudes, we solve for 
+Thus for
+(we don’t see even one decay) over the four-year trial,
+where N is the number of protons in 3300 tons of water. To determine N, we note
+that each molecule of 
+contains 
+protons. So one mole of water
+contains 
+protons in 18 g of
+water (
+of a kg), or about 
+protons per kilogram. One
+ton is 
+so the 3300 tons contains 
+Then our very rough estimate for a lower limit on the proton
+mean life is

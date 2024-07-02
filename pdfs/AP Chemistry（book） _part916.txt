@@ -1,0 +1,47 @@
+m? (a) 3 (b) 4 (c) 5 (d) 6 (e) 7
+ 
+▶Practice Exercise 2
+For each of the following transitions, give the sign of ∆E and 
+indicate whether a photon is emitted or absorbed. (a) n = 3 to 
+n = 1 (b) n = 2 to n = 4
+Rearranging:
+1
+n2
+f
+= 1
+n2
+i
++
+1
+RHl = 1
+42 +
+1
+11.097 * 107 m-121480 * 10-9 m2
+1
+n2
+f
+= 0.25
+So nf = 2, and the photons seen by the detector are those emit-
+ted when an electron transitions from the nf = 4 to the nf = 2 
+state.
+1
+l = RH a 1
+n2
+f
+- 1
+n2
+i
+b
+(c)  
+From the graph, we estimate the wavelength of the photon to 
+be approximately 480 nm. Starting from the wavelength, it is 
+easiest to estimate nf using Equation 6.4:
+ 
+ 
+SECTION 6.4   
+The Wave Behavior of Matter 
+225
+Because de Broglie’s hypothesis is applicable to all matter, any object of mass m and 
+velocity v would give rise to a characteristic matter wave. However, Equation 6.8 indi-
+cates that the wavelength associated with an object of ordinary size, such as a golf ball, is 
+so tiny as to be completely unobservabl

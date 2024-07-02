@@ -1,0 +1,12 @@
+ine
+deaminase (ADA), which breaks down purine bases. To treat this disease by gene therapy, bone marrow
+cells are taken from a SCID patient and the ADA gene is inserted. This is where viruses come in, and
+their use relies on their ability to penetrate living cells and bring genes in with them. Viruses such as
+adenovirus, an upper respiratory human virus, are modified by the addition of the ADA gene, and the virus
+then transports this gene into the cell. The modified cells, now capable of making ADA, are then given
+back to the patients in the hope of curing them. Gene therapy using viruses as carrier of genes (viral
+vectors), although still experimental, holds promise for the treatment of many genetic diseases. Still, many
+technological problems need to be solved for this approach to be a viable method for treating genetic
+disease.
+Another medical use for viruses relies on their specificity and ability to kill the cells they infect. Oncolytic
+viruses are engineered in the laboratory spe

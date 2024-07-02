@@ -1,0 +1,75 @@
+⊥
+F
+B
+∑∑
+*
+u
+a
+F
+B,
+F
+A,
+F
+B
+B
+F
+A = 30 N
+F
+B = 20 N
+208
+CHAPTER 8
+Rotational Motion
+30°
+Axis
+B
+F
+B
+A
+F
+B
+FIGURE 8;15 Exercise B.
+Axis of
+rotation
+⊥
+||
+F
+B
+F
+B
+F
+B
+FIGURE 8;16 Only the component
+of 
+that acts in the plane perpen-
+dicular to the rotation axis,
+acts to 
+accelerate the wheel about the axis.
+The component parallel to the axis,
+would tend to move the axis
+itself, which we assume is held fixed.
+F
+B
+∑∑,
+F
+B
+⊥,
+F
+B
+r
+m
+C
+F
+B
+FIGURE 8;17 A mass m revolving
+in a circle of radius r about a fixed
+point C.
+Now let us consider a rotating rigid object, such as a wheel rotating about a
+fixed axis (an axle) through its center. We can think of the wheel as consist-
+ing of many particles located at various distances from the axis of rotation.
+We can apply Eq. 8–11 to each particle of the object, and then sum over all the
+particles. The sum of the various torques is the net torque,
+so we obtain:
+(8;12)
+where we factored out 
+because it is the same for all the particles of a rigid
+object. 

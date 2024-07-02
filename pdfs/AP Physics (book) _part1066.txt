@@ -1,0 +1,22 @@
+ no
+obstacles that interrupt the flow. The fluid pressure is exerted on the walls of a
+tube or pipe, or on the surface of a material the fluid passes over.
+Bernoulli developed an equation that expresses this principle quantitatively.
+To derive Bernoulli’s equation, we assume the flow is steady and laminar, the
+fluid is incompressible, and the viscosity is small enough to be ignored. To be
+general, we assume the fluid is flowing in a tube of nonuniform cross section that
+varies in height above some reference level, Fig. 10–22. We will consider the
+volume of fluid shown in color and calculate the work done to move it from the
+position shown in Fig. 10–22a to that shown in Fig. 10–22b. In this process, fluid
+entering area 
+flows a distance 
+and forces the fluid at area 
+to move a
+distance 
+The fluid to the left of area 
+exerts a pressure 
+on our section 
+of fluid and does an amount of work
+(since
+). At point 2, the work done on our section of fluid is
+The negative sign is present because 

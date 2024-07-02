@@ -1,0 +1,17 @@
+y diagram even though you are
+going to make an analytic calculation—the diagram
+serves as a check, even if not precise. From one point
+on the object, draw at least two, preferably three, of
+the easy-to-draw rays using the rules described in
+Fig.23–15. The image point is where the reflected rays
+intersect (real image) or appear to intersect (virtual).
+2. Apply the mirror equation, Eq.23–2, and the magni-
+fication equation, Eq. 23–3. It is crucially important
+to follow the sign conventions—see the next point.
+†Object distances are positive for material objects, but can be negative in systems with more than one mirror or lens—see Section 23–9.
+Convex Mirrors
+The analysis used for concave mirrors can be applied to convex mirrors. Even the
+mirror equation (Eq. 23–2) holds for a convex mirror, although the quantities
+involved must be carefully defined. Figure 23–19a shows parallel rays falling on
+a convex mirror. Again spherical aberration is significant (Fig. 23–13), unless we
+assume the mi

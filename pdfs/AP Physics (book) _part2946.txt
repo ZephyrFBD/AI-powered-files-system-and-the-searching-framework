@@ -1,0 +1,61 @@
+ a nuclear reaction where an energy E is required or released, the masses of the
+reactants and the products will be different by 
+Pion’s kinetic energy. A 
+meson
+travels at a speed 
+What is its kinetic energy?
+Compare to a classical calculation.
+APPROACH We use Eq. 26–5 and compare to 
+SOLUTION We substitute values into Eq. 26–5a
+Notice that the units of 
+are 
+which is the joule.
+NOTE Classically
+about half as much, but this is not a correct result. Note that
+also does
+not work.
+1
+2 gmv2
+6.9 * 10–12 J,
+A2.4 * 108 msB2 =
+1
+2 A2.4 * 10–28 kgB
+ke = 1
+2 mv2 =
+kgm2s2,
+mc2
+= 1.4 * 10–11 J.
+= A2.4 * 10–28 kgBA3.0 * 108 msB2 ¢
+1
+(1 - 0.64)
+1
+2 - 1 ≤
+¢
+1
+31 - v2c2 - 1 ≤
+ke = mc2
+1
+2 mv2.
+v = 0.80c = 2.4 * 108 ms.
+Am = 2.4 * 10–28 kgB
+p0
+EXAMPLE 26;9
+¢m = ¢Ec2.
+¢E = (¢m)Ac2B.
+¢m
+¢E,
+E = mc2
+E = mc2;
+E = mc2.
+= 
+E = mc2.
+E = mc2.
+E = gmc2 =
+mc2
+31 - v2c2 .
+E = ke + mc2.
+gmc2
+gmc2 = mc2 + ke.
+P R O B L E M  S O L V I N G
+Relativistic kinetic energy
+†This is for a “free particle,” without f

@@ -1,0 +1,15 @@
+ Thus, only a 20° increase in temperature produces a more 
+than tenfold increase in the fraction of molecules possessing at least 100 kJ>mol of energy.
+The Arrhenius Equation
+Arrhenius noted that for most reactions the increase in rate with increasing temperature 
+is nonlinear (Figure 14.13). He found that most reaction-rate data obeyed an equation 
+based on (a) the fraction of molecules possessing energy Ea or greater, (b) the number of 
+collisions per second, and (c) the fraction of collisions that have the appropriate orienta-
+tion. These three factors are incorporated into the Arrhenius equation:
+ 
+k = Ae-Ea>RT 
+[14.21]
+In this equation, k is the rate constant, Ea is the activation energy, R is the gas constant 
+18.314 J>mol@K2, and T is the absolute temperature. The frequency factor, A, is constant, 
+or nearly so, as temperature is varied. This factor is related to the frequency of collisions and 
+the probability that the collisions are favorably oriented for reaction.* As the mag

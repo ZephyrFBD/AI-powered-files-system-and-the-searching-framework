@@ -1,0 +1,27 @@
+ mAs.
+t = 0,
+General Problems
+623
+*72. (III) A resonant circuit using a 260-nF capacitor is to reso-
+nate at 18.0 kHz. The air-core inductor is to be a solenoid
+with closely packed coils made from 12.0 m of insulated
+wire 1.1 mm in diameter. How many loops will the inductor
+contain?
+S
+−
++
+FIGURE 21–64
+Problem 74.
+74. Suppose you are looking at two wire loops in the plane 
+of the page as shown in Fig. 21–64. When switch S is closed
+in the left-hand coil, (a) what is the direction of the induced
+current in the other loop? (b) What is the situation after
+a “long” time? (c) What is the direction of the induced 
+current in the right-hand loop if that loop is quickly pulled
+horizontally to the right? (d) Suppose the right-hand loop
+also has a switch like the left-hand loop. The switch in the
+left-hand loop has been closed a long time when the switch
+in the right-hand loop is closed. What happens in this case?
+Explain each answer.
+General Problems
+75. A square loop 24.0 cm on a side has a re

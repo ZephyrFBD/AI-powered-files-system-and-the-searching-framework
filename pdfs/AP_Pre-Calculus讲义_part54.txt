@@ -1,0 +1,105 @@
+       t  = number of years 
+ 
+Example 3 
+Find the amount after 3 years if $1000 is invested at an interest rate of 12% per year, 
+compounded continuously. 
+ 
+ 
+ 
+ 
+ 
+If the interest is reinvested, then the new principal is P(1 + i), and the amount after another 
+time period is 
+2
+(1
+)(1
+)
+(1
+) .
+A
+P
+i
+i
+P
+i
+=
++
++
+=
++
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+75 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4 Composite Functions 
+ 
+76 
+2.4.1 Sums, Differences, Products and Quotients 
+Two functions f and g can be combined to form new functions f + g, f − g, fg, and f/g in a 
+manner similar to the way we add, subtract, multiply and divide real numbers. 
+ 
+ 
+Example 1 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4.2 Composite Functions 
+Now let’s consider a very important way of combining two functions to get a new function.  
+Suppose  
+ 
+then 
+( )
+( )
+(
+)
+(
+)
+2
+2
+1
+1
+g x
+x
+h
+f
+x
+x
+f
+=
+=
+=
++
++  
+The function h is made up of the functions f and g in an interesting way: Given a number x, 
+we first apply the function g to i

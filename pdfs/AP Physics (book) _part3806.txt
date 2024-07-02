@@ -1,0 +1,15 @@
+r relationships between
+different quantities—that is, determining how one quantity affects another.
+As a simple example, the ancients found that if one circle has twice the
+diameter of a second circle, the first also has twice the circumference. If the
+diameter is three times as large, the circumference is also three times as large. In
+other words, an increase in the diameter results in a proportional increase in the
+circumference. We say that the circumference is directly proportional to the
+diameter. This can be written in symbols as
+where “ ” means “is
+proportional to,” and C and D refer to the circumference and diameter of a circle,
+respectively. The next step is to change this proportionality to an equation,
+which will make it possible to link the two quantities numerically. This means
+inserting a proportionality constant, which in many cases is determined by meas-
+urement. The ancients found that the ratio of the circumference to the diameter
+of any circle was 3.1416 (to keep onl

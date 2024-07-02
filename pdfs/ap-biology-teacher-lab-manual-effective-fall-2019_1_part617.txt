@@ -1,0 +1,15 @@
+d is then used to create a standard curve. 
+The standard curve, in this case a straight line, is created by graphing the distance each 
+fragment traveled through the gel versus the log10 of its base pair length. 
+Creating the Standard Curve 
+As explained above, base pair (bp) length is substituted for molecular weight. Note 
+that in plotting the standard curve, calculating the log10 of the base pair length of each 
+fragment is unnecessary because the base pair size is plotted on the logarithmic axis 
+of semi-log paper. Examine your stained gel on a light box or other surface that helps 
+visualize the bands. 
+• What observations can you make? 
+• What quantitative measurements can you make? 
+1. Examine the “ideal” or mock gel shown in Figure 5 that includes DNA samples 
+that have been cut with three restriction enzymes, BamHI, EcoRI, and HindIII, to 
+produce RFLPs (fragments). Sample D is DNA that has not been cut with enzyme(s). 
+DNA cut with HindIII provides a set of fragments of known

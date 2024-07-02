@@ -1,0 +1,33 @@
+ node, whereas the
+other end is free to move and therefore is an antinode; the tree limb is thus about
+(Fig. 12–13).
+SOLUTION We estimate
+for the speed of sound in wood 
+(Table 12–1). Suppose that a tree limb has length
+then
+and
+NOTE Wind can excite air oscillations in a chimney, much like in an organ pipe
+or flute. A chimney is a fairly long tube, perhaps 3 m in length, acting like a tube
+open at either one end or even both ends. If open at both ends
+with
+we find
+which is a fairly low note—no
+wonder chimneys “moan”!
+f
+1 L v2l L 57 Hz,
+v L 340 ms,
+(l = 2l),
+f = vl = (4000 ms)(8 m) L 500 Hz.
+l = 4l = 8 m
+l L 2 m;
+v L 4000 ms
+1
+4 l
+EXAMPLE 12;12
+ESTIMATE
+12–5 Quality of Sound, and Noise;
+Superposition
+Whenever we hear a sound, particularly a musical sound, we are aware of its
+loudness, its pitch, and also of a third aspect called “quality.” For example, when a
+piano and then a flute play a note of the same loudness and pitch (say, middle C),
+there is a clear difference in the overa

@@ -1,0 +1,10 @@
+ (the formation of glycogen from glucose monomers) for short-term energy storage, another to
+the transport of glucose into the cell. In liver cells, glycogen synthesis is also stimulated, and in addition, glucose
+synthesis from smaller molecules is inhibited. In fat cells, the pathway leads to triglyceride formation (for long term
+energy storage) instead of glycogen formation.
+The mitogen-activated protein (MAP) kinases are an example of a kinase cascade activated by a G protein.
+Mitogens (mitosis + generating) are substances that stimulate cell division. After a protein kinase receptor is
+activated by a signaling molecule, the receptor dimerizes, autophosphorylates, and activates Ras, a G protein, by
+exchanging a GTP for a GDP. The Ras protein then activates a mitogen-kinase (MK) cascade, where one mitogen
+kinase catalyzes the phosphorylation of the next mitogen kinase in the sequence. In this fashion, mitogen kinase
+kinase kinase (MKKK) activates MKK, which activates MK. This final M

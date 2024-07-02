@@ -1,0 +1,14 @@
+describe how you are manipulating the independent
+variable.
+In the Daphnia experiment, the different temperature values (5°C, 10°C, 15°C, 20°C, 25°C, and 30°C) represent six
+experimental treatments.
+In the experiment on physiological conditions, the experimental treatments are exercise and recovery at various
+intervals following exercise.
+3. Identify a control treatment. The control treatment, or control, is the independent variable at some normal or
+standard value. The results of the control are used for comparison with the results of the experimental treatments.
+In the Daphnia experiment, you choose the temperature of 20°C as the control because that is the average
+temperature of the pond where you obtained the culture.
+In the experiment on physiological conditions, the control is sitting, when the subject is not influenced by
+exercising.
+4. Use only one independent variable. Only one independent variable can be tested at a time. If you manipulate
+two independent variables at the sam

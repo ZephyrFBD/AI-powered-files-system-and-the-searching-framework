@@ -1,0 +1,16 @@
+ered in the text, students find an
+Exercise asking them to return to the COQ to rethink and answer again.
+4. Digital. Biggest of all. Crucial new applications. Today we are surrounded by
+digital electronics. How does it work? If you try to find out, say on the
+Internet, you won’t find much physics: you may find shallow hand-waving
+with no real content, or some heavy jargon whose basis might take months or
+years to understand. So, for the first time, I have tried to explain
+• The basis of digital in bits and bytes, how analog gets transformed into
+digital, sampling rate, bit depth, quantization error, compression, noise
+(Section 17–10).
+• How digital TV works, including how each pixel is addressed for each frame,
+data stream, refresh rate (Section 17–11).
+• Semiconductor computer memory, DRAM, and flash (Section 21–8).
+• Digital cameras and sensors—revised and expanded Section 25–1.
+• New semiconductor physics, some of which is used in digital devices,
+including LED and OLED—how they wo

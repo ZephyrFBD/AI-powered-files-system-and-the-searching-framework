@@ -1,0 +1,23 @@
+d by B cells.
+63. B. When B cells encounter an antigen, they divide, and produce two kinds of daughter B cells—plasma cells and
+memory cells. Plasma cells release antibodies immediately, but memory cells circulate in the blood for years. When
+an antigen is introduced into the body a second time, antibodies from the memory cells respond to the antigens
+immediately.
+Grid-In Questions
+1. Answer: 5.8 (acceptable range: 5.7-5.8)
+ 
+First, find the expected number of each kind of seed by making a Punnett square of the cross Yy × yy:
+ 
+The cross yields ½ Yy and ½ yy. For the 100 seeds that
+were observed,
+ 
+then, the expected numbers for the two F1 phenotypes are 50 and 50. Calculations for determining χ2 are shown in
+the following table:
+ 
+Completing the calculation:
+ 
+Although not requested in this question, you should also know that the degrees of freedom
+(df) is the number of observed phenotypic
+ 
+categories minus 1, or 2 − 1 = 1. Also, the critical value for χ2 (for df =
+1), found on the e

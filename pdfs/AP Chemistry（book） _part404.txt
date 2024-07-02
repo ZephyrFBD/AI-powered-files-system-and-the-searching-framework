@@ -1,0 +1,20 @@
+ our present 
+case, let’s start by increasing the number of O atoms on the right 
+side of the equation by placing the coefficient 2 in front of NO2:
+O2 + NO ¡  2 NO2 1unbalanced2
+ 
+Now the equation gives two N atoms and four O atoms on the 
+right, so we go back to the left side. Placing the coefficient 2 in 
+front of NO balances both N and O:
+O2 + 2 NO ¡  2 NO2 1balanced2 
+(2 N, 4 O)    (2 N, 4 O)
+(c) The reactants box contains four O2 and eight NO. Thus, the 
+molecular ratio is one O2 for each two NO, as required by the 
+balanced equation. The products box contains eight NO2, which 
+means the number of NO2 product molecules equals the num-
+ber of NO reactant molecules, as the balanced equation requires.
+There are eight N atoms in the eight NO molecules in the 
+reactants box. There are also 4 * 2 = 8 O atoms in the O2 mol-
+ecules and 8 O atoms in the NO molecules, giving a total of 16 O 
+atoms. In the products box, we find eight NO2 molecules, which 
+contain eight N atoms and 8 * 2 = 1

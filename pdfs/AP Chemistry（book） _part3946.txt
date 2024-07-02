@@ -1,0 +1,21 @@
+eci-
+mal point equals the number of significant figures in the original number. For example, 
+if 23.5 is a measured quantity (three significant figures), then log 23.5 = 1.371 (three sig-
+nificant figures after the decimal point).
+Antilogarithms
+The process of determining the number that corresponds to a certain logarithm is known 
+as obtaining an antilogarithm. It is the reverse of taking a logarithm. For example, we saw 
+previously that log 23.5 = 1.371. This means that the antilogarithm of 1.371 equals 23.5.
+ log 23.5 = 1.371
+ antilog 1.371 = 23.5
+(b) To add these numbers longhand, we must convert them to the 
+same exponent.
+15.0 * 10-22 + 10.47 * 10-22 = 15.0 + 0.472 * 10-2 = 5.5 * 10-2
+(c) Performing this operation longhand, we have
+15.98 * 2.772 * 1012-5 = 16.6 * 107 = 1.66 * 108
+(d) To perform this operation on a calculator, we enter the number, 
+press the 1
+x y key (or the INV and yx keys), enter 4, and press the = 
+key. The result is 1.15 * 10-3.
+▶Practice Exercise
+Perform the

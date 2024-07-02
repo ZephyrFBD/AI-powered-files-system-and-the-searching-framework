@@ -1,0 +1,42 @@
+ving obstacle, the frequency of the
+reflected wave will, because of the Doppler effect, be different from that of the inci-
+dent wave. This is illustrated in the following Example.
+SECTION 12–7
+Doppler Effect
+347
+P H Y S I C S  A P P L I E D
+Doppler blood-flow meter
+and other medical uses
+P R O B L E M  S O L V I N G
+Getting the signs right
+(b)
+(a)
+Object
+Object
+Original
+Source
+and
+detector
+source
+   obs =
+3.50 m/s
+  source =
+3.50 m/s
+Wave
+velocity
+Wave
+velocity
+v
+B
+v
+B
+FIGURE 12–22 Example 12–16.
+Two Doppler shifts. A 5000-Hz sound wave is emitted 
+by a stationary source. This sound wave reflects from an object moving 
+toward the source (Fig. 12–22). What is the frequency of the wave reflected by
+the moving object as detected by a detector at rest near the source?
+APPROACH There are actually two Doppler shifts in this situation. First, the
+moving object acts like an observer moving toward the source with speed
+(Fig. 12–22a) and so “detects” a sound wave of frequency
+(Eq. 12–3a)
+Second

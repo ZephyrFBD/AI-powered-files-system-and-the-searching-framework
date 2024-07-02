@@ -1,0 +1,14 @@
+re tinkering
+with it. (Always unplug an electrical device before investigating its insides!)† Also,
+a wire inside a device may break or lose its insulation and come in contact with the
+case. If the case is metal, it will conduct electricity. A person could then suffer a
+severe shock merely by touching the case, as shown in Fig. 19–26b. To prevent 
+an accident, metal cases are supposed to be connected directly to ground by a
+separate ground wire. Then if a “hot” wire touches the grounded case, a short 
+circuit to ground immediately occurs internally, as shown in Fig. 19–26c, and most
+of the current passes through the low-resistance ground wire rather than through
+the person. Furthermore, the high current should open a fuse or circuit breaker.
+Grounding a metal case is done by a separate ground wire connected to the third
+(round) prong of a 3-prong plug. Never cut off the third prong of a plug—it could
+save your life. A three-prong plug, and an adapter, are shown in Figs.19–27a and b.
+SE

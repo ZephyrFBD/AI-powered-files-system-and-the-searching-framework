@@ -1,0 +1,27 @@
+of only two particles (or small objects), of masses 
+and 
+We choose a coor-
+dinate system so that both particles lie on the x axis at positions 
+and 
+Fig.7–22.
+The center of mass of this system is defined to be at the position 
+given by
+where
+is the total mass of the system. The center of mass lies on
+the line joining 
+and 
+If the two masses are equal
+then
+is midway between them, because in this case
+If one mass is greater than the other, then the CM is closer to the larger mass.
+If there are more than two particles along a line, there will be additional terms:
+(7;9a)
+where M is the total mass of all the particles.
+CM of three guys on a raft. On a lightweight (air-filled)
+“banana boat,” three people of roughly equal mass m sit along the x axis at posi-
+tions
+and
+measured from the left-hand
+end as shown in Fig. 7–23. Find the position of the CM. Ignore the mass of the boat.
+APPROACH We are given the mass and location of the three people, so we 
+use three terms in Eq. 7–9a. We approximat

@@ -1,0 +1,78 @@
+valent capacitance of the entire combination is
+and it
+is smaller than any of the contributing capacitances, C1 = C2 = C3 = C.
+Ceq = 2
+3 C,
+1
+Ceq
+=
+1
+C1
++
+1
+C23
+=
+1
+C +
+1
+2C
+=
+3
+2C
+.
+Ceq,
+C1 ,
+C23
+C23 = C2 + C3 = C + C = 2C.
+C3
+C2
+C1 .
+C3
+C2
+C1 = C2 = C3 = C.
+EXAMPLE 19;10
+P R O B L E M  S O L V I N G
+Remember to take the reciprocal
+b
+C2
+C3
+C1
+V
+a
+a
+b
+C23
+C1
+(b)
+(a)
+V
+FIGURE 19–19
+Examples 19–10 and 19–11.
+EXERCISE F Consider two identical capacitors 
+What are the 
+smallest and largest capacitances that can be obtained by connecting these in series or
+parallel combinations? (a) 
+(b) 
+(c) 
+(d)
+(e) 
+(f)
+20 mF.
+10 mF,
+20 mF;
+5 mF,
+10 mF;
+5 mF,
+20 mF;
+0.2 mF,
+10 mF;
+0.2 mF,
+5 mF;
+0.2 mF,
+C1 = C2 = 10 mF.
+Charge and voltage on capacitors. Determine the charge
+on each capacitor in Fig. 19–19a of Example 19–10 and the voltage across each,
+assuming
+and the battery voltage is
+APPROACH We have to work “backward” through Example 19–10. That is, we
+find the charge Q that leaves the battery, using 

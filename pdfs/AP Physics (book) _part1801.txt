@@ -1,0 +1,36 @@
+rface is proportional to the number of
+field lines passing through it.]
+[*Gauss’s law states that the total flux summed over any
+closed surface (considered as made up of many small areas 
+)
+is equal to the net charge 
+enclosed by the surface divided
+by
+(16;9)
+Gauss’s law can be used to determine the electric field due to
+given charge distributions, but its usefulness is mainly limited to
+cases where the charge distribution displays much symmetry. The
+real importance of Gauss’s law is that it is a general and elegant
+statement of the relation between electric charge and electric field.]
+a
+closed
+surface
+E⊥¢A = Qencl
+0
+.
+0 :
+Qencl
+¢A
+E
+B
+E⊥
+£E = E⊥A,
+E
+B
+E = k Q
+r2 .
+Summary
+This last Example also gives us the field between the two parallel plates we
+discussed in Fig. 16–32d. If the plates are large compared to their separation,
+then the field lines are perpendicular to the plates and, except near the edges,
+they are parallel to each other. Therefore the electric field (see Fig. 16–47,

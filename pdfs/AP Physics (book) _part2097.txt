@@ -1,0 +1,24 @@
+ for the capacitor’s 
+voltage (and charge) to reach 63% of the maximum. This can be checked‡
+using any calculator with an 
+key:
+so for 
+then
+In a circuit, for example, where
+and
+the time constant is
+If the resistance is much smaller, the time constant is much smaller and
+the capacitor becomes charged much more quickly. This makes sense, because 
+a lower resistance will retard the flow of charge less. All circuits contain some
+resistance (if only in the connecting wires), so a capacitor can never be charged
+instantaneously when connected to a battery.
+Finally, what is the voltage 
+across the resistor in Fig. 19–20a? The imposed
+battery voltage is 
+so
+This is called an exponential decay. The current I flowing in the circuit is that 
+flowing through the resistor and is also an exponential decay:
+(19;7d)
+When the switch of the circuit in Fig. 19–20a is closed, the current is largest at
+first because there is no charge on the capacitor to impede it. As charge builds on
+the capacitor, the cu

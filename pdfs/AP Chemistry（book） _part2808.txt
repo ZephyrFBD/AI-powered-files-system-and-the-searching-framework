@@ -1,0 +1,24 @@
+e, calculate the other two quantities. (Section 17.4) 
+ 
+Related Exercises: 17.49, 17.50, 17.53, 17.54
+t Qualitatively predict, and quantitatively calculate, the molar 
+solubility of a substance in the presence of a common ion or at 
+different pH values. (Section 17.5) 
+Related Exercises: 17.55, 17.56, 17.63, 17.64, 17.67, 17.68
+t Qualitatively predict whether a precipitate will form when solu-
+tions are mixed, and quantitatively calculate the ion concentra-
+tions required to initiate precipitation. (Section 17.6) 
+Related Exercises: 17.69, 17.70, 17.73, 17.74
+t Explain the effect of complex-ion formation on solubility. (Sec-
+tion 17.6) Related Exercises: 17.65, 17.66
+t Predict how to separate and identify cations based on their 
+solubility characteristics. (Section 17.7) 
+Related Exercises: 17.79, 17.80
+Key Equations
+t pH = pKa + log
+3base4
+3acid4 
+[17.9]  
+ 
+The Henderson–Hasselbalch equation, used to estimate the pH of 
+a buffer from the concentrations of a conjugate acid–base 

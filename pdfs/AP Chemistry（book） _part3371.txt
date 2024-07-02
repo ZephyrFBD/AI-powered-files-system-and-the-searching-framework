@@ -1,0 +1,57 @@
+odic 
+table. Elements 93 (neptunium, Np) 
+and 94 (plutonium, Pu) were produced 
+in 1940 by bombarding uranium-238 with neutrons:
+ 
+238
+92U + 1
+0n ¡ 239
+92U ¡ 239
+93Np +
+0
+-1e 
+[21.12]
+ 
+239
+93Np ¡ 239
+94Pu +
+0
+-1e 
+[21.13]
+Elements with still larger atomic numbers are normally formed in small quantities 
+in particle accelerators. Curium-242, for example, is formed when a plutonium-239 tar-
+get is bombarded with accelerated alpha particles:
+ 
+239
+94Pu + 4
+2He ¡ 242
+96Cm + 1
+0n 
+[21.14]
+ 
+SECTION 21.3   
+Nuclear Transmutations 
+911
+Target
+(a)
+(b)
+(+/-)
+Proton source
+Path of 
+proton beam
+Alternating
+ voltage source
+(+/-)
+Semicircular halves
+Magnet
+(top magnet 
+not shown)
+Evacuated chamber
+Path of 
+particle
+▲ Figure 21.5 The cyclotron.
+912 
+CHAPTER 21 Nuclear Chemistry
+New advances in the detection of the decay patterns of single atoms have led to recent 
+additions to the periodic table. Between 1994 and 2010, elements 110 through 118 were 
+discovered via the nuclear reactions that occur w

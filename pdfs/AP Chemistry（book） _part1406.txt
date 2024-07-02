@@ -1,0 +1,32 @@
+he total number 
+of atomic orbitals on an atom remains constant, so the number of hybrid orbitals on an 
+atom equals the number of atomic orbitals that are mixed.
+As we examine the common types of hybridization, notice the connection between 
+the type of hybridization and some of the molecular geometries predicted by the VSEPR 
+model: linear, bent, trigonal planar, and tetrahedral.
+sp Hybrid Orbitals
+To illustrate the process of hybridization, consider the BeF2 molecule, which has the 
+Lewis structure
+F
+Be
+F
+Go Figure
+Energy (kJ/mol)
+H distance
+H
+0.74 Å
+0
+2436
+Potential energy decreases
+with increasing orbital overlap.
+Balance between attractive
+and repulsive forces
+Nucleus–nucleus 
+repulsion increasingly 
+important
+▲ Figure 9.13 Formation of the H2 molecule as atomic orbitals overlap.
+From this graph, what are the bond length and bond strength  
+in the H2 molecule?
+356 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+The VSEPR model predicts that BeF2 is linear with two identical Be

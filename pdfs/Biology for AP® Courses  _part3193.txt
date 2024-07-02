@@ -1,0 +1,11 @@
+bag and a larger bag is 0.2 pounds (that is, 20 percent; 1.0 pound feels the same as 1.1 pounds, but 1.0
+pound feels less than 1.2 pounds), then the JND between the 20-pound bag and a larger bag will also be
+20 percent. (So, 20 pounds feels the same as 22 pounds or 23 pounds, but 20 pounds feels less than 24
+pounds.)
+Test the hypothesis: Enlist 24 participants, and split them into two groups of 12. To set up the
+demonstration, assuming a 10 percent increment was selected, have the first group be the one-pound
+group. As a counter-balancing measure against a systematic error, however, six of the first group will
+compare one pound to two pounds, and step down in weight (1.0 to 2.0, 1.0 to 1.9, and so on.), while the
+other six will step up (1.0 to 1.1, 1.0 to 1.2, and so on). Apply the same principle to the 20-pound group (20
+to 40, 20 to 38, and so on, and 20 to 22, 20 to 24, and so on). Given the large difference between 20 and 40
+pounds, you may wish to use 30 pounds as your larger weig

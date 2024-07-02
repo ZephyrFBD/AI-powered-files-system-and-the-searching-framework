@@ -1,0 +1,20 @@
+n the walls of its container is,
+according to our model, due to the collisions of the molecules with the walls. Let
+us focus our attention on the wall, of area A, at the left end of the container and
+examine what happens when one molecule strikes this wall, as shown in Fig.13–18b.
+This molecule exerts a force on the wall, and according to Newton’s third law 
+the wall exerts an equal and opposite force back on the molecule. The magnitude 
+of this force on the molecule, according to Newton’s second law, is equal to the
+molecule’s rate of change of momentum,
+(Eq. 7–2). Assuming
+the collision is elastic, only the x component of the molecule’s momentum changes,
+and it changes from 
+(it is moving in the negative x direction) to 
+Thus
+the change in the molecule’s momentum,
+which is the final momentum
+minus the initial momentum, is
+for one collision. This molecule will make many collisions with the wall, each
+separated by a time 
+which is the time it takes the molecule to travel across 
+the co

@@ -1,0 +1,31 @@
+= 3Ni2+4cathode. Oxida-
+tion of Ni(s) occurs in the half-cell containing the more dilute solution, which means this 
+is the anode of the cell. Reduction of Ni2+1aq2 occurs in the half-cell containing the more 
+concentrated solution, making it the cathode. The overall cell reaction is therefore
+Anode: 
+ 
+ 
+   Ni1s2 ¡ Ni2+1aq, dilute2 + 2 e- 
+Cathode: 
+Ni2+1aq, concentrated2 + 2 e- ¡ Ni1s2 
+Overall:  
+    Ni2+1aq, concentrated2 ¡ Ni2+1aq, dilute2 
+We can calculate the emf of a concentration cell by using the Nernst equation. For 
+this particular cell, we see that n = 2. The expression for the reaction quotient for the 
+overall reaction is Q = 3Ni2+4dilute>3Ni2+4concentrated. Thus, the emf at 298 K is
+ 
+E = E° - 0.0592 V
+n
+ log Q
+ = 0 - 0.0592 V
+2
+ log 
+3Ni2+4dilute
+3Ni2+4concentrated
+= -0.0592 V
+2
+ log 1.00 * 10-3 M
+1.00 M
+ = +0.089 V
+This concentration cell generates an emf of nearly 0.09 V, even though E° = 0. The differ-
+ence in concentration provides the driving force for the cell. W

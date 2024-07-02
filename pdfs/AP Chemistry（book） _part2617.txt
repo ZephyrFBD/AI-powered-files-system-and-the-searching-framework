@@ -1,0 +1,25 @@
+r binding the proton, as, for example, in NH3. Using Lewis 
+structures, we can write the reaction between H+ and NH3 as
+H
+H
+H
+H
+H
+H
+N
+H
+H+
+N
++
++
+G. N. Lewis was the first to notice this aspect of acid–base reactions. He proposed a more 
+general definition of acids and bases that emphasizes the shared electron pair:
+t A Lewis acid is an electron-pair acceptor.
+t A Lewis base is an electron-pair donor.
+Every base that we have discussed thus far—whether OH-, H2O, an amine, or an 
+anion—is an electron-pair donor. Everything that is a base in the Brønsted–Lowry sense (a 
+proton acceptor) is also a base in the Lewis sense (an electron-pair donor). In the Lewis the-
+ory, however, a base can donate its electron pair to something other than H+. The Lewis defi-
+nition therefore greatly increases the number of species that can be considered acids; in other 
+words, H+ is a Lewis acid but not the only one. For example, the reaction between NH3 and 
+BF3 occurs because BF3 has a vacant orbital in i

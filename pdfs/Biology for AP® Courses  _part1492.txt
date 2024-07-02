@@ -1,0 +1,12 @@
+oactivity was detected in the pellet. In the tube that contained the phage labeled with 32P, the radioactivity
+was detected in the pellet that contained the heavier bacterial cells, and no radioactivity was detected in the supernatant.
+Hershey and Chase concluded that it was the phage DNA that was injected into the cell and carried information to produce
+more phage particles, thus providing evidence that DNA was the genetic material and not proteins (Figure 14.4).
+548
+Chapter 14 | DNA Structure and Function
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 14.4 In Hershey and Chase's experiments, bacteria were infected with phage radiolabeled with either 35S,
+which labels protein, or 32P, which labels DNA. Only 32P entered the bacterial cells, indicating that DNA is the genetic
+material.
+Around this same time, Austrian biochemist Erwin Chargaff examined the content of DNA in different species and found
+that the amounts of adenine, thymine, guanine, 

@@ -1,0 +1,23 @@
+ standing wave
+on the string because the speed of sound in air (
+at 20°C) is different
+from the speed of the wave on the string
+which depends on the tension in the string and its mass per unit length.
+NOTE The frequencies on the string and in the air are the same: the string and
+air are in contact, and the string “forces” the air to vibrate at the same fre-
+quency. But the wavelengths are different because the wave speed on the string
+is different than that in air.
+(= fl = 440 Hz * 0.64 m = 280 ms)
+343 ms
+l =
+v
+f = 343 ms
+440 Hz
+= 0.78 m = 78 cm,
+l = 2l = 2(0.32 m) = 0.64 m = 64 cm.
+EXAMPLE 12;9
+EXERCISE D Return to the Chapter-Opening Question, page 328, and answer it again
+now. Try to explain why you may have answered differently the first time.
+Stringed instruments would not be very loud if they relied on their vibrating
+strings to produce the sound waves since the strings are too thin to compress and
+expand much air. Stringed instruments therefore make use of a kind of mechanica

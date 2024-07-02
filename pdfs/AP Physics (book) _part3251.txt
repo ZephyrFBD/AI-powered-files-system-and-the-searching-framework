@@ -1,0 +1,68 @@
+ we can then calculate the moment of inertia, I, from
+Eq. 29–2. The moment of inertia is related to the CO separation (bond length r).
+SOLUTION (a) The photon energy,
+equals the rotational
+energy level difference,
+From Eq. 29–2, we can write
+With
+(the upper state) in this case, we solve for I:
+(b) The molecule rotates about its center of mass (
+) as shown in Fig. 29–15.
+Let 
+be the mass of the C atom,
+and let 
+be the mass of the O,
+The distance of the 
+from the C atom, which is 
+in Fig. 29–15, is
+given by the 
+formula, Eq. 7–9:
+The O atom is a distance
+from the 
+. The moment of
+cm
+r2 = r - r1 = 0.43r
+r1 =
+0 + m2r
+m1 + m2
+=
+16
+12 + 16 r = 0.57r.
+cm
+r1
+cm
+m2 = 16 u.
+m2
+m1 = 12 u,
+m1
+cm
+= 1.46 * 10–46 kgm2.
+I =
+U 2l
+hc l1 =
+hl1
+4p2c =
+A6.63 * 10–34 JsBA2.60 * 10–3 mB
+4p2A3.00 * 108 msB
+l = 1
+U 2
+I l = ¢Erot = hf = hc
+l1
+.
+¢Erot.
+E = hf = hcl,
+l1 = 2.60 mm
+l = 0
+l = 1
+EXAMPLE 29;2
+I = 1.39 * 10–46 kgm2.
+4, p
+L 10–3 eV
+l.
+cl is for upper
+energy state d
+=
+U 2
+I l.
+¢Erot = El - El-1 =
+U 

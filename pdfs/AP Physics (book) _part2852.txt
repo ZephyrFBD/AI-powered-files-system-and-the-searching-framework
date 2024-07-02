@@ -1,0 +1,43 @@
+orresponds exactly to the true values. (In real
+situations, the true values are not known, which is why these computer tech-
+niques are required.) To obtain these numbers exactly, we used six pieces of
+information (two each at angles 1 and 2, one each at angles 3 and 4). For the
+much larger number of pixels used for actual images, exact values are generally
+not attained. Many iterations may be needed, and the calculation is considered
+sufficiently precise when the difference between calculated and measured
+projections is sufficiently small. The above example illustrates the “convergence”
+of the process: the first iteration (b to c in Fig. 25–46) changed the values by 2,
+the last iteration (c to d) by only 1
+2 .
+(lower left) 5 1
+2 + 9 - 10
+2
+= 5  and  (upper right) 4 1
+2 + 9 - 10
+2
+= 4.
+(upper left)  1 1
+2 + 11 - 10
+2
+= 2     and     (lower right)  8 1
+2 + 11 - 10
+2
+= 9;
+= 11
+3 1
+2 + 14 - 10
+2
+= 5 1
+2  and  6 1
+2 + 14 - 10
+2
+= 8 1
+2 .
+3 1
+2 + 6 - 10
+2
+= 1 1
+2  and  6 1
+2 + 6 - 10
+2
+= 4 

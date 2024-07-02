@@ -1,0 +1,39 @@
+ have to use it twice.
+SOLUTION Because
+then
+So
+NOTE As a rule of thumb, an area given in 
+is roughly 10 times the number
+of square meters (more precisely, about 
+).
+10.8 *
+ft2
+880 ft2 = A880 ft2BA0.0929 m2ft2B L 82 m2.
+1 ft2 = (12 in.)2(0.0254 min.)2 = 0.0929 m2.
+1 in. = 2.54 cm = 0.0254 m,
+1 in. = 2.54 cm,
+Aft2B.
+EXAMPLE 1;4
+12
+CHAPTER 1
+Introduction, Measurement, Estimating
+P R O B L E M  S O L V I N G
+Conversion factors = 1
+P R O B L E M  S O L V I N G
+Unit conversion is wrong if 
+units do not cancel
+Speeds. Where the posted speed limit is 55 miles per hour
+(
+or mph), what is this speed (a) in meters per second 
+and (b) in 
+kilometers per hour 
+APPROACH We again use the conversion factor
+and we
+recall that there are 5280 ft in a mile and 12 inches in a foot; also, one hour
+contains
+SOLUTION (a) We can write 1 mile as
+We also know that 1 hour contains 3600 s, so
+where we rounded off to two significant figures.
+(b) Now we use
+then
+NOTE Each conversion factor is equal to one. You ca

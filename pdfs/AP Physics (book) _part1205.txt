@@ -1,0 +1,19 @@
+dence.
+The angle of incidence is defined as the angle 
+the incident ray makes with 
+the perpendicular to the reflecting surface (or the wave front makes with the sur-
+face). The angle of reflection is the corresponding angle 
+for the reflected wave.
+1
+1–1
+1 Interference;
+Principle of Superposition
+Interference refers to what happens when two waves pass through the same region
+of space at the same time. Consider, for example, the two wave pulses on a cord
+traveling toward each other as shown in Fig. 11–37 (time increases downward in
+both a and b). In Fig. 11–37a the two pulses have the same amplitude, but one is
+a crest and the other a trough; in Fig. 11–37b they are both crests. In both cases,
+the waves meet and pass right by each other. However, in the region where they
+overlap, the resultant displacement is the algebraic sum of their separate displace-
+ments (a crest is considered positive and a trough negative). This is the principle of
+superposition. In Fig. 11–37a, the two waves h

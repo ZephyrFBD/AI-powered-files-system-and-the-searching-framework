@@ -1,0 +1,35 @@
+y-product 
+expression gives:
+Ksp = 3.9 * 10-11 = 3Ca2 +43F-42 = 10.010 + x212x22
+If we assume that x is small compared to 
+0.010, we have:
+ 
+3.9 * 10-11 = 10.010212x22
+ 
+x2 = 3.9 * 10-11
+410.0102
+= 9.8 * 10-10
+ 
+x = 29.8 * 10-10 = 3.1 * 10-5 M
+This very small value for x validates the 
+simplifying assumption we made. Our calcu-
+lation indicates that 3.1 * 10-5 mol of solid 
+CaF2 dissolves per liter of 0.010 M Ca1NO322 
+solution.
+3Ca2 +4 = x and 3F-4 = 0.010 + 2x
+Assuming that 2x is much smaller than 0.010 M  
+(that is, 0.010 + 2x ≃0.010), we have:
+ 
+3.9 * 10-11 = 1x210.010 + 2x22 ≃x10.01022
+ 
+x = 3.9 * 10-11
+10.01022
+= 3.9 * 10-7 M
+Thus, 3.9 * 10-7 mol of solid CaF2 should 
+dissolve per liter of 0.010 M NaF solution.
+(b) The common ion is F-, and at equilibrium 
+we have:
+Thus, the Mg1OH22 dissolves until 3Mg2 +4 = 0.18 M. It is apparent that Mg1OH22 is 
+much more soluble in this solution.
+If 3OH-4 were reduced further by making the solution even more acidic, the Mg2 +  
+concentration w

@@ -1,0 +1,20 @@
+nderstood.
+Scientists normally do their research as if the accepted laws and theories
+were true. But they are obliged to keep an open mind in case new information
+should alter the validity of any given law or theory.
+1–4 Measurement and Uncertainty;
+Significant Figures
+In the quest to understand the world around us, scientists seek to find relation-
+ships among physical quantities that can be measured.
+Uncertainty
+Reliable measurements are an important part of physics. But no measurement is
+absolutely precise. There is an uncertainty associated with every measurement.
+F = ma
+SECTION 1–4
+Measurement and Uncertainty; Significant Figures
+5
+Among the most important sources of uncertainty, other than blunders, are the
+limited accuracy of every measuring instrument and the inability to read an
+instrument beyond some fraction of the smallest division shown. For example,
+if you were to use a centimeter ruler to measure the width of a board (Fig. 1–5),
+the result could be claimed to be precise 

@@ -1,0 +1,16 @@
+An intermediate complex is a temporary structure, and it allows one of the substrates
+(such as ATP) and reactants to more readily react with each other; in reactions involving ATP, ATP is one of the substrates
+and ADP is a product. During an endergonic chemical reaction, ATP forms an intermediate complex with the substrate and
+enzyme in the reaction. This intermediate complex allows the ATP to transfer its third phosphate group, with its energy,
+to the substrate, a process called phosphorylation. Phosphorylation refers to the addition of the phosphate (~P). This is
+illustrated by the following generic reaction:
+A + enzyme + ATP → 
+⎡
+⎣A − enzyme − ∼P
+⎤
+⎦ → B + enzyme + ADP + phosphate ion
+When the intermediate complex breaks apart, the energy is used to modify the substrate and convert it into a product of the
+reaction. The ADP molecule and a free phosphate ion are released into the medium and are available for recycling through
+cell metabolism.
+Substrate Phosphorylation
+ATP is generate

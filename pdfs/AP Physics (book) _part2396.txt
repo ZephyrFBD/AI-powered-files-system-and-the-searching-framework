@@ -1,0 +1,35 @@
+tart? (c) When
+does it stop? (d) In what direction is this current? (e) Is there
+a force between the two loops? (f) If so, in what direction?
+(a)
+(b)
+N
+S
+N
+S
+Wire
+loop
+J
+K
+L
+618
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+14. A bar magnet falling inside a vertical metal tube reaches a
+terminal velocity even if the tube is evacuated so that there
+is no air resistance. Explain.
+15. It has been proposed that eddy currents be used to help sort
+solid waste for recycling. The waste is first ground into tiny
+pieces and iron removed with a magnet. The waste then 
+is allowed to slide down an incline over permanent magnets.
+How will this aid in the separation of nonferrous metals
+(Al, Cu, Pb, brass) from nonmetallic materials?
+16. The pivoted metal bar with slots in Fig. 21–50 falls much
+more quickly through
+a magnetic field than
+does a
+solid bar.
+Explain.
+17. If an aluminum sheet is held between the poles of a large
+bar magnet, it requires some force to pull it out of the mag-
+netic 

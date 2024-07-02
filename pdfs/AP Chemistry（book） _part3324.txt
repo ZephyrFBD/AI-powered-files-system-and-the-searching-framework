@@ -1,0 +1,21 @@
+period of 
+24 h. Assume the electrolytic cell is 85% efficient. (b) What 
+is the minimum voltage required to drive the reaction?
+ 20.94  Elemental calcium is produced by the electrolysis of mol-
+ten CaCl2. (a) What mass of calcium can be produced 
+by this process if a current of 7.5 * 103 A is applied for 
+48 h? Assume that the electrolytic cell is 68% efficient. 
+(b) What is the minimum voltage needed to cause the 
+electrolysis?
+ 20.95  Metallic gold is collected from below the anode when a 
+mixture of copper and gold metals is refined by electrolysis. 
+Explain this behavior.
+ 20.96  A mixture of copper and gold metals that is subjected to 
+electrorefining contains tellurium as an impurity. The stan-
+dard reduction potential between tellurium and its lowest 
+common oxidation state, Te4+, is
+Te4+1aq2 + 4 e- ¡ Te1s2 E°
+red = 0.57 V
+Given this information, describe the probable fate of tellu-
+rium impurities during electroreﬁning. Do the impurities 
+fall to the bottom of the reﬁning bath

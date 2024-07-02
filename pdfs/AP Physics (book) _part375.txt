@@ -1,0 +1,42 @@
+orrect free-body
+diagram for a hockey puck sliding
+across frictionless ice?
+force acts, and by what object that force is exerted.
+Only forces acting on a given object can be included
+in  
+for that object.
+3. Newton’s second law involves vectors, and it is usu-
+ally important to resolve vectors into components.
+Choose x and y axes in a way that simplifies the
+calculation. For example, it often saves work if you
+choose one coordinate axis to be in the direction of
+the acceleration (if known).
+4. For each object, apply Newton’s second law to the 
+x and y components separately. That is, the x compo-
+nent of the net force on that object is related to 
+the x component of that object’s acceleration:
+and similarly for the y direction.
+5. Solve the equation or equations for the unknown(s).
+Put in numerical values only at the end, and keep
+track of units.
+©F
+x = max,
+©F
+B = ma
+B
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Newton’s Laws; Free-Body Diagrams
+1. Draw a sketch of the situation, after carefully readi

@@ -1,0 +1,25 @@
+fluences act on the object, and we can no longer set a
+B = g
+B.
+vy 0 = v0 sin u0 .
+vx 0 = v0 cos u0,
+±x
+u0
+Driving off a cliff. A movie stunt driver on a motorcycle
+speeds horizontally off a 50.0-m-high cliff. How fast must the motorcycle leave
+the cliff top to land on level ground below, 90.0 m from the base of the cliff where
+the cameras are? Ignore air resistance.
+APPROACH We explicitly follow the steps of the Problem Solving Strategy 
+on the previous page.
+SOLUTION
+1. and 2. Read, choose the object, and draw a diagram. Our object is the motor-
+cycle and driver, taken as a single unit. The diagram is shown in Fig. 3–22.
+3. Choose a coordinate system. We choose the y direction to be positive
+upward, with the top of the cliff as
+The x direction is horizontal with
+at the point where the motorcycle leaves the cliff.
+4. Choose a time interval. We choose our time interval to begin
+just as
+the motorcycle leaves the cliff top at position
+Our time
+interval ends just before the motorcycle tou

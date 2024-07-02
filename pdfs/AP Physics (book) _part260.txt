@@ -1,0 +1,56 @@
+EXAMPLE 3;3
+SECTION 3–4
+Adding Vectors by Components
+57
+Pay careful attention to signs: any component that
+points along the negative x or y axis gets a minus sign.
+5. Add the x components together to get the x compo-
+nent of the resultant. Similarly for y:
+This is the answer: the components of the resultant
+vector. Check signs to see if they fit the quadrant
+shown in your diagram (point 1 above).
+6. If you want to know the magnitude and direction of
+the resultant vector, use Eqs. 3–4:
+The vector diagram you already drew helps to obtain
+the correct position (quadrant) of the angle u.
+V
+R = 3V
+Rx
+2
++ V
+Ry
+2 ,  tan u =
+V
+Ry
+V
+Rx
+.
+V
+Ry = V
+1y + V
+2y + any others.
+V
+Rx = V
+1x + V
+2x + any others
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Adding Vectors
+Here is a brief summary of how to add two or more
+vectors using components:
+1. Draw a diagram, adding the vectors graphically by
+either the parallelogram or tail-to-tip method.
+2. Choose x and y axes. Choose them in a way, if possible,
+that will make your 

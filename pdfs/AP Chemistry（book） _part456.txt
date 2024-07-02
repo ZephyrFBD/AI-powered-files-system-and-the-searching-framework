@@ -1,0 +1,30 @@
+O21g2 ¡ 2 H2O1l2  
+[3.12] 
+indicate that two molecules of H2 react with one molecule of O2 to form two  
+molecules of 
+H2O. It follows that the relative numbers of moles are identical to the relative numbers of 
+molecules:
+2 H21g2
++
+O21g2
+¡
+2 H2O1l2
+2 molecules
+1 molecule
+2 molecules
+216.02 * 1023 molecules2
+116.02 * 1023 molecules2
+216.02 * 1023 molecules2
+2 mol
+1 mol
+2 mol
+We can generalize this observation to all balanced chemical equations: The coefficients in a 
+balanced chemical equation indicate both the relative numbers of molecules (or formula units) in 
+the reaction and the relative numbers of moles. Figure 3.15 shows how this result corresponds 
+to the law of conservation of mass.
+ 
+Because all of the hydrogen in the sample is converted to H2O, we can use dimensional analysis and the following steps to calculate the mass 
+H in the sample. We use three significant figures for the atomic mass of H to match the significant figures in the mass of H2O produced.
+Molar
+mass H2O
+18.

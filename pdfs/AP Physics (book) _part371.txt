@@ -1,0 +1,22 @@
+orce vectors like any other vectors as described in
+Chapter 3. The first step is to choose an xy coordinate system (see Fig. 4–19a),
+and then resolve vectors into their components.
+SOLUTION The two force vectors are shown resolved into components in 
+Fig. 4–19b. We add the forces using the method of components. The compo-
+nents of 
+are
+The components of 
+are
+is negative because it points along the negative y axis. The components of
+the resultant force are (see Fig. 4–19c)
+To find the magnitude of the resultant force, we use the Pythagorean theorem,
+The only remaining question is the angle that the net force 
+makes with the
+x axis. We use:
+and  
+The net force on the boat has magnitude 53.3 N and
+acts at an 11.0° angle to the x axis.
+When solving problems involving Newton’s laws and force, it is very important
+to draw a diagram showing all the forces acting on each object involved. Such a dia-
+gram is called a free-body diagram, or force diagram: choose one object, and draw
+an arrow to r

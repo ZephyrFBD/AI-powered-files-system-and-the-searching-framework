@@ -1,0 +1,18 @@
+der kinetics, as well as information about concentrations 
+and times, and asked to calculate how much reactant (insecti-
+cide) remains after 1 yr. We must also determine the time interval 
+needed to reach a particular insecticide concentration.
+Plan In part (a) we are given the rate constant, a period of time, 
+and the initial concentration of the reactant, so we can use Equa-
+tion 14.13 to determine the concentration of the reactant after  
+1 year has passed.  In part (b) we are given the initial and final con-
+centrations and the rate constant.  In this case we can use Equa-
+tion 14.13 to calculate the time that must pass to reach the desired 
+concentration.
+Solve
+(a) Substituting the known quantities into Equation 14.13, we have:
+ln3insecticide4t = 1 yr = -11.45 yr-1211.00 yr2 + ln15.0 * 10-72
+We use the ln function on a calculator to evaluate the second 
+term on the right [that is, ln15.0 * 10-724, giving:
+ln3insecticide4t = 1 yr = -1.45 + 1-14.512 = -15.96
+To obtain 3insecticide4t

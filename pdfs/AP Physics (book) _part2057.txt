@@ -1,0 +1,40 @@
+rupted. Compare to a series circuit, where if
+one device (say,
+in Fig.19–3a) is disconnected, the current is stopped to all others.
+In a parallel circuit, Fig. 19–4a, the total current I that leaves the battery
+splits into three separate paths. We let 
+and 
+be the currents through each
+of the resistors,
+and 
+respectively. Because electric charge is conserved,
+the current I flowing into junction A (where the different wires or conductors
+meet, Fig. 19–4a) must equal the current flowing out of the junction. Thus
+[parallel]
+When resistors are connected in parallel, each has the same voltage across it.
+(Indeed, any two points in a circuit connected by a wire of negligible resistance
+are at the same potential.) Hence the full voltage of the battery is applied to each
+resistor in Fig. 19–4a. Applying Ohm’s law to each resistor, we have
+Let us now determine what single resistor 
+(Fig. 19–4c) will draw the same
+Req
+I
+1 =
+V
+R1
+, I
+2 =
+V
+R2
+, and I
+3 =
+V
+R3
+.
+I = I
+1 + I
+2 + I
+3.
+R3 ,
+R1, R2,
+I

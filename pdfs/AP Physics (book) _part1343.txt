@@ -1,0 +1,21 @@
+ntinodes at both ends. The fundamental 
+frequency corresponds to a wavelength equal to twice the 
+tube length:
+The harmonics have frequencies that are
+times the fundamental frequency, just as for
+strings.
+For a closed tube (closed at one end), the fundamental
+corresponds to a wavelength four times the length of the tube:
+Only the odd harmonics are present, equal to
+times the fundamental frequency.
+Sound waves from different sources can interfere with
+each other. If two sounds are at slightly different frequencies,
+beats can be heard at a frequency equal to the difference in fre-
+quency of the two sources.
+The Doppler effect refers to the change in pitch of a sound
+due to the motion either of the source or of the observer. If source
+and observer are approaching each other, the perceived pitch is
+higher. If they are moving apart, the perceived pitch is lower.
+[*Shock waves and a sonic boom occur when an object
+moves at a supersonic speed—faster than the speed of sound.
+Ultrasonic-frequen

@@ -1,0 +1,14 @@
+ld steadily increase as the number of 
+valence electrons increases, resulting in a corresponding increase in the melting points. 
+However, elements near the middle of the transition metal series, rather than those at 
+the end, have the highest melting points in their respective periods (Figure 12.21). This 
+trend implies that the strength of metallic bonding first increases with increasing num-
+ber of electrons and then decreases. Similar trends are seen in other physical properties of 
+the metals, such as the boiling point, heat of fusion, and hardness.
+To obtain a more accurate picture of the bonding in metals, we must turn to molec-
+ular orbital theory. In Sections 9.7 and 9.8, we learned how molecular orbitals are created 
+from the overlap of atomic orbitals. Let’s briefly review some of the rules of molecular 
+orbital theory:
+1. Atomic orbitals combine to make molecular orbitals that can extend over the entire 
+molecule.
+2. A molecular orbital can contain zero, one, or two electro

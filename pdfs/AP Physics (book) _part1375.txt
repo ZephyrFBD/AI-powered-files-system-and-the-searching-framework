@@ -1,0 +1,24 @@
+e blown in such a way
+that only one of the overtones is resonating. The most 
+popular alpenhorn is about 3.4 m long, and it is called the
+(or 
+) horn. What is the fundamental frequency 
+of this horn, and which overtone is close to 
+? (See 
+Table 12–3.) Model as a tube open at both ends.
+F♯
+G♭
+F♯
+93. Room acoustics for stereo listening can be compromised by
+the presence of standing waves, which can cause acoustic
+“dead spots” at the locations of the pressure nodes. Con-
+sider a living room 4.7 m long, 3.6 m wide, and 2.8 m high.
+Calculate the fundamental frequencies for the standing
+waves in this room.
+94. A dramatic demonstration, called “singing rods,” involves
+a long, slender aluminum rod held in the hand near the
+rod’s midpoint. The rod is stroked with the other hand.
+With a little practice, the rod can be made to “sing,” or
+emit a clear, loud, ringing sound. For an 80-cm-long rod,
+(a) what is the fundamental frequency of the sound?
+(b) What is its wavelength in the rod, and (c) wha

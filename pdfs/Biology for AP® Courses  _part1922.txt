@@ -1,0 +1,11 @@
+arly detection of cancer; this is achieved by identifying proteins whose expression
+is affected by the disease process. An individual protein is called a biomarker, whereas a set of proteins with altered
+expression levels is called a protein signature. For a biomarker or protein signature to be useful as a candidate for early
+screening and detection of a cancer, it must be secreted in body fluids, such as sweat, blood, or urine, such that large-
+scale screenings can be performed in a non-invasive fashion. The current problem with using biomarkers for the early
+detection of cancer is the high rate of false-negative results. A false negative is an incorrect test result that should have
+been positive. In other words, many cases of cancer go undetected, which makes biomarkers unreliable. Some examples of
+Chapter 17 | Biotechnology and Genomics
+705
+protein biomarkers used in cancer detection are CA-125 for ovarian cancer and PSA for prostate cancer. Protein signatures
+may be more reliable t

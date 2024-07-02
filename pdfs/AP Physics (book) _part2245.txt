@@ -1,0 +1,14 @@
+larger (compare Figs. 20–42a and b).
+We can now explain how a magnet can pick up unmagnetized pieces of iron
+like paper clips. The magnet’s field causes a slight realignment of the domains in
+the unmagnetized object so that it becomes a temporary magnet with its north pole
+facing the south pole of the permanent magnet; thus, attraction results. Similarly,
+elongated iron filings in a magnetic field acquire aligned domains and align them-
+selves to reveal the shape of the magnetic field, Fig. 20–43.
+An iron magnet can remain magnetized for a long time, and is referred to as
+a “permanent magnet.” But if you drop a magnet on the floor or strike it with a
+hammer, you can jar the domains into randomness and the magnet loses some or
+all of its magnetism. Heating a permanent magnet can also cause loss of magnetism,
+for raising the temperature increases the random thermal motion of atoms, which
+tends to randomize the domains. Above a certain temperature known as the
+Curie temperature (1043 K fo

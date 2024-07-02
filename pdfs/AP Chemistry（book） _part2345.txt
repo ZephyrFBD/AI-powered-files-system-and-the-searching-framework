@@ -1,0 +1,36 @@
+ (b) What is the 
+value of the rate constant with proper units? (c) What is 
+the reaction rate when the initial concentration of HgCl2 
+is 0.100 M and that of C2O4
+2- is 0.25 M if the temperature 
+is the same as that used to obtain the data shown?
+ 14.94 The following kinetic data are collected for the initial rates 
+of a reaction 2 X + Z ¡ products:
+Experiment
+3X401M 2
+3Z401M 2
+Rate 1M,s2
+1
+0.25
+0.25
+4.0 * 101
+2
+0.50
+0.50
+3.2 * 102
+3
+0.50
+0.75
+7.2 * 102
+ 
+ (a) What is the rate law for this reaction? (b) What is the 
+value of the rate constant with proper units? (c) What is 
+the reaction rate when the initial concentration of X is 
+0.75 M and that of Z is 1.25 M?
+ 14.95  The reaction 2 NO2 ¡ 2 NO + O2 has the rate con-
+stant k = 0.63 M - 1s - 1. (a) Based on the units for k, is the 
+reaction ﬁrst or second order in NO2? (b) If the initial con-
+centration of NO2 is 0.100 M, how would you determine 
+how long it would take for the concentration to decrease 
+to 0.025 M?
+ 14.96 Consider two

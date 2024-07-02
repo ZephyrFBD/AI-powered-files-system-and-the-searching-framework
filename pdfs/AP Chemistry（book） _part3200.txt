@@ -1,0 +1,36 @@
+
+E°
+cell  = (+0.34) − (−0.76)
+         = +1.10 V
+E°
+red (V)
+Anode
+Cathode
++0.34
+−0.76 Zn          Zn2+ + 2 e−
+Cu2+ +  2 e−          Cu
+▲ Figure 20.10 Half-cell potentials and 
+standard cell potential for the Zn–Cu voltaic 
+cell.
+Give It Some Thought
+The standard reduction potential of Ni2+1aq2 is E°
+red = -0.28 V, and that of 
+Fe2+1aq2 is E°
+red = -0.44 V. In a Ni–Fe voltaic cell, which electrode is the cathode, 
+Ni or Fe?
+ 
+SECTION 20.4   
+Cell Potentials under Standard Conditions 
+865
+A voltaic cell is based on the two standard half-reactions
+Cd2+1aq2 + 2 e- ¡ Cd1s2
+Sn2+1aq2 + 2 e- ¡ Sn1s2
+Use data in Appendix E to determine (a) which half-reaction occurs at the cathode and which occurs at the anode and (b) the 
+standard cell potential.
+Solve
+(a) According to Appendix E, E°
+red1Cd2+>Cd2 = -0.40 V and 
+E°
+red1Sn2+>Sn2 = -0.14 V. The standard reduction potential 
+for Sn2+ is more positive (less negative) than that for Cd2+. 
+Hence, the reduction of Sn2+ is the reaction that occurs at t

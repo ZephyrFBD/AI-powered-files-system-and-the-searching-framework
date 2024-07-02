@@ -1,0 +1,24 @@
+the concentrations of Mg2+ and 
+Ca2+ in the hard water in mg>L.
+ 23.99  Carbon monoxide is toxic because it binds more strongly to 
+the iron in hemoglobin (Hb) than does O2, as indicated by 
+these approximate standard free-energy changes in blood:
+Hb + O2 ¡  HbO2   ∆G° = -70 kJ
+Hb + CO ¡  HbCO  ∆G° = -80 kJ
+Using these data, estimate the equilibrium constant at 298 
+K for the equilibrium
+HbO2 + CO ∆ HbCO + O2
+ 23.100  The value of ∆ for the 3CrF643- complex is 182 kJ>mol. 
+Calculate the expected wavelength of the absorption cor-
+responding to promotion of an electron from the lower- 
+energy to the higher-energy d-orbital set in this complex. 
+Should the complex absorb in the visible range?
+ 
+[23.101]  
+A Cu electrode is immersed in a solution that is 1.00 M 
+in 3Cu(NH3)442+ and 1.00 M in NH3. When the cathode 
+is a standard hydrogen electrode, the emf of the cell is 
+found to be +0.08 V. What is the formation constant for 
+3Cu(NH3)442+?
+Design an Experiment
+Following a procedure found 

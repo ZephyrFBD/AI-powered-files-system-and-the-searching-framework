@@ -1,0 +1,52 @@
+. 21–11b). There must thus be an induced emf. If the rod is in
+contact with the 
+conductor (Fig.21–11a), the electrons will flow into the 
+There will then be a clockwise (conventional) current in the loop. To calculate the 
+emf, we determine the work W needed to move a charge q from one end of the rod
+to the other against this potential difference:
+The emf equals the work done per unit charge, so
+the same result as from Faraday’s law above, Eq. 21–3.
+qvBlq = Blv,
+e = Wq =
+(qvB)(l).
+W = force * distance =
+U.
+U-shaped
+U-shaped
+F = qvB,
+v
+B ⊥B
+B,
+v,
+F = qvB
+v
+v
+l,
+e =
+¢£B
+¢t
+= B ¢A
+¢t
+= Blv ¢t
+¢t
+= Blv.
+e
+¢t.
+¢A = l ¢x = lv ¢t
+¢t.
+¢x = v ¢t
+v
+U-shaped
+B
+B
+596
+CHAPTER 21
+P H Y S I C S  A P P L I E D
+Blood-flow measurement
+EXERCISE C In what direction will the electrons flow in Fig. 21–11 if the rod moves to
+the left, decreasing the area of the current loop?
+Does a moving airplane develop a large emf?
+An airplane travels 
+in a region where the Earth’s magnetic field is
+about 
+and is nearl

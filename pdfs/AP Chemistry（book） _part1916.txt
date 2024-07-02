@@ -1,0 +1,30 @@
+ jumps into the hole leaves behind a new hole. Thus, 
+the positive hole moves about in the lattice like a particle.* A material like this is called a 
+p-type semiconductor, p signifying that the number of positive holes in the material has 
+increased.
+As with n-type conductivity, p-type dopant levels of only parts per million can lead 
+to a millionfold increase in conductivity—but in this case, the holes in the valence band 
+are doing the conduction [Figure 12.31(c)].
+The junction of an n-type semiconductor with a p-type semiconductor forms the 
+basis for diodes, transistors, solar cells, and other devices.
+Go Figure
+Predict what would happen in panel (b) if you doubled the 
+amount of doping shown in the n-type semiconductor.
+Energy
+Conduction band
+Valence band
+Undoped
+semiconductor
+(a)
+Band
+gap, Eg
+p-type
+semiconductor
+(c)
+n-type
+semiconductor
+(b)
+Empty MOs
+Filled MOs
+▲ Figure 12.31 The addition of small amounts of impurities (doping) to a semiconductor changes 
+the electronic propert

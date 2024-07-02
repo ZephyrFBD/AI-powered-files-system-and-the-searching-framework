@@ -1,0 +1,21 @@
+nd the Earth
+in jet planes. The speed of the planes 
+was much less than c, so the clocks
+had to be accurate to nanoseconds 
+in order to detect any time dilation.
+They were this accurate, and they confirmed Eqs.26–1 to within experimental error.
+Time dilation had been confirmed decades earlier, however, by observations on
+“elementary particles”which have very small masses (typically 
+to 
+) and
+so require little energy to be accelerated to speeds close to the speed of light, c.
+Many of these elementary particles are not stable and decay after a time into
+lighter particles. One example is the muon, whose mean lifetime is 
+when at
+rest. Careful experiments showed that when a muon is traveling at high speeds,
+its lifetime is measured to be longer than when it is at rest, just as predicted by the
+time dilation formula.
+Lifetime of a moving muon. (a) What will be the mean
+lifetime of a muon as measured in the laboratory if it is traveling at
+with respect to the laboratory? A muon’s mean
+lifet

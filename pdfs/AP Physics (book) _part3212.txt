@@ -1,0 +1,31 @@
+
+l,
+2.11 * 10–34 Js.
+6.84 * 10–34 Js
+48. A 12-g bullet leaves a rifle at a speed of 
+(a) What
+is the wavelength of this bullet? (b) If the position of the
+bullet is known to a precision of 0.60 cm (radius of the
+barrel), what is the minimum uncertainty in its momentum?
+49. If an electron’s position can be measured to a precision of
+what is the uncertainty in its momentum?
+Assuming its momentum must be at least equal to its
+uncertainty, estimate the electron’s wavelength.
+50. The ionization (binding) energy of the outermost electron
+in boron is 8.26 eV. (a) Use the Bohr model to estimate the
+“effective charge,”
+seen by this electron. (b) Estimate
+the average orbital radius.
+Zeff ,
+2.0 * 10–8 m,
+150 ms.
+General Problems
+828
+CHAPTER 28
+Quantum Mechanics of Atoms
+51. Using the Bohr formula for the radius of an electron orbit,
+estimate the average distance from the nucleus for an
+electron in the innermost 
+orbit of a uranium atom
+Approximately how much energy would be
+required to remove 

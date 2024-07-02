@@ -1,0 +1,43 @@
+ove.
+9. A car travels along the x axis with increasing speed. We
+don’t know if to the left or the right. Which of the graphs
+in Fig. 2–34 most closely represents the motion of the
+car?
+(20 ms) = (v + v0)2.
+v2 = (20 ms)2 - 2g(y - y0).
+y = y0 + (–20 ms)t - (12)gt2.
+v = (20 ms) - gt.
+g = 9.8 ms2
+±
+20 ms.
+MisConceptual Questions
+[List all answers that are valid.]
+x
+t
+(a)
+x
+t
+(b)
+x
+t
+(c)
+x
+t
+(d)
+x
+t
+(e)
+FIGURE 2;34
+MisConceptual
+Question 9.
+Problems
+43
+[The Problems at the end of each Chapter are ranked I, II, or III
+according to estimated difficulty, with level I Problems being easiest.
+Level III are meant as challenges for the best students. The Prob-
+lems are arranged by Section, meaning that the reader should 
+have read up to and including that Section, but not only that
+Section—Problems often depend on earlier material. Next is 
+a set of “General Problems” not arranged by Section and not
+ranked. Finally, there are “Search and Learn” Problems that require
+rereading parts of the 

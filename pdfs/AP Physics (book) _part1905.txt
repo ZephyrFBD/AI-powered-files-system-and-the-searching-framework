@@ -1,0 +1,45 @@
+subpixel is at 
+. If the TFT gate is at 
+(horizontal wire activated), the data stream voltage is applied 
+to the back of the subpixel, and determines the brightness of that
+subpixel. If the gate is at 
+(horizontal wire not activated), the
+TFT is “off”: no charge passes through, and the capacitance
+helps maintain
+until the subpixel is updated
+later.
+1
+60 s
+¢V
+0 V
+20 V
+±5 V
+FIGURE 17–36 An electrocardiogram
+(ECG) trace displayed on a CRT.
+P H Y S I C S  A P P L I E D
+Oscilloscope
+Summary
+493
+The electric potential V at any point in space is defined as the
+electric potential energy per unit charge:
+(17;2a)
+The electric potential difference between any two points 
+is defined as the work done to move a 1C electric charge
+between the two points. Potential difference is measured in
+volts
+and is often referred to as voltage.
+The change in potential energy when a charge q moves
+through a potential difference 
+is
+(17;3)
+¢pe = qV
+ba.
+V
+ba
+(1 V = 1 JC)
+V
+a = pea
+q
+.
+The potential difference 
+betw

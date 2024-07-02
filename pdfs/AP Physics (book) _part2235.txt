@@ -1,0 +1,40 @@
+ the torques balance. When the needle is in equilibrium
+at rest, the torques have equal magnitude:
+so
+The deflection of the pointer,
+is directly proportional to the current I flowing
+in the coil, but also depends on the angle 
+the coil makes with 
+For a useful
+meter we need 
+to depend only on the current I, independent of 
+To solve this
+problem, magnets with curved pole pieces are used and the galvanometer coil is
+wrapped around a cylindrical iron core as shown in Fig. 20–36. The iron tends to
+concentrate the magnetic field lines so that 
+always points parallel to the face of
+the coil at the wire outside the core. The force is then always perpendicular to the
+face of the coil, and the torque will not vary with angle. Thus 
+will be propor-
+tional to I, as required for a useful meter.
+f
+B
+B
+u.
+f
+B
+B.
+u
+f,
+f = NIAB sin u
+k
+.
+kf = NIAB sin u,
+ts = kf,
+f
+ts
+t = NIAB sin u.
+t
+Electric Motors
+An electric motor changes electric energy into (rotational) mechanical energy.
+A motor works on the s

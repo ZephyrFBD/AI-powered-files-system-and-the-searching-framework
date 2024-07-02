@@ -1,0 +1,11 @@
+parent that are TG and tg, respectively. If the Tg and tG alleles were linked in that parent, how could they produce a
+few TG and tg gametes? The answer is through recombination! Even though those alleles were not found on the
+same chromosome, recombination must have occurred during meiosis to swap them. This allowed gametes to be
+formed with TG and tg, and offspring to occur that were Tall/Green and short/yellow. The offspring formed from
+recombination events are called recombinants. The percentage of recombination (recombination frequency) can
+be determined by adding up the recombinants and dividing by the total number of offspring.
+9/91 = 9.9%
+This percentage can also be used as a measure of how far apart the genes are. The distance on a chromosome is
+measured in map units, or centimorgans.
+The frequency of crossing-over between any two linked alleles is proportional to the distance between them. That is,
+the farther apart two linked alleles are on a chromosome, the more often the c

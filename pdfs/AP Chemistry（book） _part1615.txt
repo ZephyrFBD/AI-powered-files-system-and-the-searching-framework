@@ -1,0 +1,19 @@
+ore frequently. (d) The number 
+of collisions with a unit area of wall per unit time increases because 
+the total number of collisions with the walls per unit time in-
+creases and the area of the walls decreases. (e) Although the aver-
+age force with which the molecules collide with the walls remains 
+constant, the pressure increases because there are more collisions 
+per unit area of wall per unit time.
+Check In a conceptual exercise of this kind, there is no numerical 
+answer to check. All we can check in such cases is our reasoning in 
+the course of solving the problem. The increase in pressure seen in 
+part (e) is consistent with Boyle’s law.
+ 
+▶Practice Exercise 1
+Consider two gas cylinders of the same volume and tempera-
+ture, one containing 1.0 mol of propane, C3H8, and the other 
+2.0 mol of methane, CH4. Which of the following statements 
+is true? (a) The C3H8 and CH4 molecules have the same urms 
+(b) The C3H8 and CH4 molecules have the same average ki-
+netic energy (c) The rat

@@ -1,0 +1,23 @@
+ water
+calorimeter.
+Unknown specific heat determined by calorimetry. An
+engineer wishes to determine the specific heat of a new metal alloy. A 0.150-kg
+sample of the alloy is heated to 540°C. It is then quickly placed in 0.400 kg of
+water at 10.0°C, which is contained in a 0.200-kg aluminum calorimeter cup. The
+final temperature of the system is 30.5°C. Calculate the specific heat of the alloy.
+APPROACH We apply conservation of energy to our system, which we take to
+be the alloy sample, the water, and the calorimeter cup. We assume this system
+is isolated, and apply Eq. 14–3,
+SOLUTION Each term is of the form
+Thus 
+gives
+where the subscripts a, w, and cal refer to the alloy, water, and calorimeter,
+respectively, and each 
+is the final temperature (30.5°C) minus the initial
+temperature for each object. When we put in values and use Table 14–1, this
+equation becomes
+or
+Solving for 
+we obtain:
+NOTE We rounded off because we have ignored any heat transferred to the
+thermometer and the stir

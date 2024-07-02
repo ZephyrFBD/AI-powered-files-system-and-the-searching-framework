@@ -1,0 +1,39 @@
+ful result using the work-energy principle, but only if we model the car as a
+particle or simple rigid object.
+SOLUTION The net work needed is equal to the increase in kinetic energy:
+= 2.5 * 105 J.
+=
+1
+2 (1000 kg)(30 ms)2 -
+1
+2 (1000 kg)(20 ms)2
+=
+1
+2 mv2
+2 -
+1
+2 mv1
+2
+W = ke2 - ke1
+30 ms
+20 ms
+EXAMPLE 6;4
+ESTIMATE
+EXERCISE B (a) Make a guess: will the work needed to accelerate the car in Example 6–4
+from rest to 
+be more than, less than, or equal to the work already calculated to
+accelerate it from 
+to 
+(b) Make the calculation.
+30 ms?
+20 ms
+20 ms
+Work to stop a car. A car traveling 
+can brake to a stop in a distance d of 20 m (Fig. 6–10a). If the car is going 
+twice as fast,
+what is its stopping distance (Fig. 6–10b)? Assume the
+maximum braking force is approximately independent of speed.
+RESPONSE Again we model the car as if it were a particle. Because the net stop-
+ping force F is approximately constant, the work needed to stop the car,
+is
+proportional to the distance trave

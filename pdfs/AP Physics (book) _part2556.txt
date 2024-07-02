@@ -1,0 +1,13 @@
+al internal reflection is the principle behind fiber optics. Glass and plastic
+fibers as thin as a few micrometers in diameter are commonly used. A bundle 
+of such slender transparent fibers is called a light pipe or fiber-optic cable.
+Light† can be transmitted along the fiber with almost no loss because of total internal
+reflection. Figure 23–29 shows how light traveling down a thin fiber makes only
+glancing collisions with the walls so that total internal reflection occurs. Even if
+the light pipe is bent gently into a complicated shape, the critical angle still won’t be
+exceeded, so light is transmitted practically undiminished to the other end. Very
+small losses do occur, mainly by reflection at the ends and absorption within the fiber.
+Important applications of fiber-optic cables are in communications and med-
+icine. They are used in place of wire to carry telephone calls, video signals, and
+computer data. The signal is a modulated light beam (a light beam whose intensity
+can be va

@@ -1,0 +1,15 @@
+o consideration. The 
+blue line in the figure shows that infective rate will increase at first and reach 
+the maximum value and then decline. Just like Improved ModelⅠ, the 
+maximum of I(t) decrease a lot compared to the Basic Model. However, the 
+reason is that drugs can directly deduct the number of infected people，while 
+vaccines can firstly deduct the number of susceptible people remarkably, then, 
+deduct the number of infected people. In comparisons among the three models, 
+we have a conclusion that human intervention has huge impact on EVD. 
+3.3.5 Strength and Weakness 
+ Strength: Improved Model Ⅱ considers both two factors, including the 
+drugs which have influence on the patient and the vaccines which have 
+influence on the susceptible people. The assumption that the relationships 
+between λ and t, μ and t are index is reasonable. At the same time, 
+the model reflects clearly how the drugs and the vaccine work, which 
+provides the world medical association with data when makin

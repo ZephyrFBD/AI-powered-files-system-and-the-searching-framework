@@ -1,0 +1,63 @@
+tal leaders: Each decision should reflect 
+the costs versus the benefits of our choices. Unfortunately, the environ-
+mental impacts of our decisions are often subtle and not immediately 
+evident.
+The richness of life on Earth, 
+represented in the chapter-opening photograph, 
+is made possible by our planet’s supportive 
+atmosphere, the energy received from the Sun, 
+and an abundance of water. These are the 
+signature environmental features believed to be 
+necessary for life.
+170
+190
+210
+230
+250
+270
+290
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+Temperature (K)
+Troposphere
+Stratosphere
+Mesosphere
+Thermosphere
+Altitude (km)
+Mesopause
+Stratopause
+Tropopause
+200
+400
+600
+800
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+Pressure (torr)
+Altitude (km)
+▲ Figure 18.1 Temperature and pressure in the atmosphere vary as a function of altitude above 
+sea level.
+Go Figure
+At what altitude is the atmospheric temperature lowest?
+18.1 ∣ Earth’s Atmosphere
+Because most of us have never been very far from Earth’s surfac

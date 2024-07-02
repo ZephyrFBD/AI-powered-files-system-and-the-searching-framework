@@ -1,0 +1,30 @@
+te function, its value is the same regardless 
+of whether the process is reversible or irreversible. Earlier (just before Sample Exercise 19.2) 
+ 
+we calculated the entropy change of this system:
+ 
+∆Ssys =
+qrev
+T
+=
+11 mol216.01 * 103 J>mol2
+273 K
+= 22.0 J>K 
+The portion of the surroundings immediately in contact with the ice is your palm, which 
+we assume is at body temperature, 37  °C = 310 K. We will use this as the temperature of 
+the surroundings. The quantity of heat lost by your palm is -6.01 * 103 J>mol, which is 
+equal in magnitude to the quantity of heat gained by the ice but has the opposite sign. 
+Hence, the entropy change of the surroundings is
+ 
+∆Ssurr =
+qrev
+T
+=
+11 mol21-6.01 * 103 J>mol2
+310 K
+= -19.4 J>K 
+We can consider that everything in the universe consists of the system of inter-
+est and its surroundings. Therefore, ∆Suniv = ∆Ssys + ∆Ssurr. Thus, the overall entropy 
+change of the universe is positive in our example:
+ 
+∆Suniv = ∆Ssys + ∆Ssurr = 122.0 J>K2 + 1-19.4 

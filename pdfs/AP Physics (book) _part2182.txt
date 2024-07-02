@@ -1,0 +1,16 @@
+eographic poles, which are on the Earth’s axis of rotation. The north magnetic
+pole, for example, is in the Canadian Arctic, now on the order of 1000 km† from the
+geographic north pole, or true north. This difference must be taken into account
+for accurate use of a compass (Fig. 20–6). The angular difference between the
+direction of a compass needle (which points along the magnetic field lines) at any
+location and true (geographical) north is called the magnetic declination. In the
+U.S. it varies from 0° to about 20°, depending on location.
+Notice in Fig. 20–5 that the Earth’s magnetic field at most locations is not
+tangent to the Earth’s surface. The angle that the Earth’s magnetic field makes
+with the horizontal at any point is referred to as the angle of dip, or the
+“inclination.” It is 67° at New York, for example, and 55° at Miami.
+562
+CHAPTER 20
+Magnetism
+†Earth’s north magnetic pole has been moving over time, on the order of 10 km per year in recent
+decades. Magnetism in rocks s

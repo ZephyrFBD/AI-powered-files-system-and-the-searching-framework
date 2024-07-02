@@ -1,0 +1,11 @@
+d enter the cell. Consequently, hydrophilic ligands interact with
+receptors located on the cell membrane (cell membrane receptors), as shown in Figure 10.5. The binding of the
+ligand to the cell membrane receptor then triggers a series of chemical reactions inside the cell (the series of
+chemical reactions are shown as A ® B, C ® D, and E ® F in Figure 10.5). Hydrophobic ligands may enter the cell
+by sliding between the phospholipids of the cell membrane. These hydrophobic ligands then bind to intracellular
+receptors in the cytosol of the cell, as shown in Figure 10.5. Once bound to the intracellular receptor, the ligand can
+then cross the nuclear membrane and bind to DNA in the nucleus, changing the expression of genes.
+Figure 10.5 Hydrophilic Ligands vs. Hydrophobic Ligands
+Signal transduction has three major steps:
+1. Reception: The ligand binds to a specific receptor on or in the target cell. The receptor may be located on the
+cell membrane (as is the case for hydrophilic ligands) 

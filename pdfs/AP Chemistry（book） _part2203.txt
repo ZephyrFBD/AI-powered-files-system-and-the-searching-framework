@@ -1,0 +1,22 @@
+tant21units of concentration22 
+Hence, in our usual units of molarity for concentration and seconds for time, we have
+ Units of rate constant =
+units of rate
+1units of concentration22 =
+M>s
+M2 = M-1 s-1 
+(a) What are the overall reaction orders for the reactions described in Equations 14.9 and 14.11?
+(b) What are the units of the rate constant for the rate law in Equation 14.9?
+Sample Exercise 14.5
+ Determining Reaction Orders and Units for Rate Constants
+SOLUTION
+Analyze We are given two rate laws and asked to express (a) the 
+overall reaction order for each and (b) the units for the rate con-
+stant for the first reaction.
+Plan The overall reaction order is the sum of the exponents in the 
+rate law. The units for the rate constant, k, are found by using the 
+normal units for rate 1M>s2 and concentration (M) in the rate law 
+and applying algebra to solve for k.
+Solve
+(a) The rate of the reaction in Equation 14.9 is ﬁrst order in N2O5 
+and ﬁrst order overall. The reaction in Equation 14

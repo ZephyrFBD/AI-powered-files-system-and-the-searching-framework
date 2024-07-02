@@ -1,0 +1,24 @@
+alicized (or boldface when shown as a vector).
+Force to accelerate a fast car. Estimate the
+net force needed to accelerate (a) a 1000-kg car at
+(b) a 200-gram apple at
+the same rate.
+APPROACH We use Newton’s second law to find the net force needed for each
+object; we are given the mass and the acceleration. This is an estimate (the
+is
+not said to be precise) so we round off to one significant figure.
+SOLUTION (a) The car’s acceleration is
+We
+use Newton’s second law to get the net force needed to achieve this acceleration:
+(If you are used to British units, to get an idea of what a 5000-N force is, you can
+divide by 
+and get a force of about 1000 lb.)
+(b) For the apple,
+so
+Force to stop a car. What average net force is required to
+bring a 1500-kg car to rest from a speed of 
+within a distance of 55 m?
+APPROACH We use Newton’s second law,
+to determine the force,
+but first we need to calculate the acceleration a. We assume the acceleration is
+constant so that we can use the kinematic equa

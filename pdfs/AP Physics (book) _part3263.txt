@@ -1,0 +1,23 @@
+gy
+increases directly with T. Nonetheless, this behavior is readily understood as
+follows. Energy of thermal motion at 
+is about
+The
+Fermi level, on the other hand, is on the order of several eV: for copper it is
+An electron at 
+may have 7 eV of energy, but it can
+acquire at most only a few times 0.1 eV of energy by a (thermal) collision with
+the lattice. Only electrons very near the Fermi level would find vacant states
+close enough to make such a transition. Essentially none of the electrons could
+increase in energy by, say, 3 eV, so electrons farther down in the electron gas are
+unaffected. Only electrons near the top of the energy distribution can be ther-
+mally excited to higher states. And their new energy is on the average only
+slightly higher than their old energy. This model of free electrons in a metal as a
+“gas,” though incomplete, provides good explanations for the thermal and
+electrical conductivity of metals.
+T = 1200 K
+EF L 7.0 eV.
+3
+2 kT L 0.1 eV.
+T = 1200 K
+T = 1200 K.

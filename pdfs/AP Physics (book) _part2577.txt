@@ -1,0 +1,23 @@
+ial rays 1, 2, and 3
+for a single object point.
+SOLUTION (a) Given 
+and
+then
+and 
+(Remember to take the reciprocal!) Because 
+is negative,
+the image must be virtual and on the same side of the lens as the object (sign
+convention 3, page 665). The magnification
+The image is three times as large as the object and is upright. This lens is being
+used as a magnifying glass, which we discuss in more detail in Section 25–3.
+(b) The ray diagram is shown in Fig. 23–43 and confirms the result in part (a). We
+choose point 
+on the top of the object and draw ray 1. Ray 2, however, may
+take some thought: if we draw it heading toward 
+it is going the wrong way—so
+we have to draw it as if coming from 
+(and so dashed), striking the lens, and
+then going out parallel to the lens axis. We project it backward, with a dashed
+line, as we must do also for ray 1, in order to find where they cross. Ray 3 is drawn
+through the lens center, and it crosses the other two rays at the image point,
+NOTE From Fig. 23–43

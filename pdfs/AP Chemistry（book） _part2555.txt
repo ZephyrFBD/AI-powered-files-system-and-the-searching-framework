@@ -1,0 +1,27 @@
+0-3 M
+SOLUTION
+Sample Exercise 16.10 
+Calculating Ka from Measured pH
+Plan Although we are dealing specifically with the ionization of a 
+weak acid, this problem is similar to the equilibrium problems in 
+Chapter 15. We can solve this problem using the method outlined 
+in Sample Exercise 15.8, starting with the chemical reaction and a 
+tabulation of initial and equilibrium concentrations.
+The equilibrium-constant expression is:
+Ka =
+3H+43HCOO-4
+3HCOOH4
+From the measured pH, we can calculate 3H+4:
+To determine the concentrations of the species 
+involved in the equilibrium, we consider that the 
+solution is initially 0.10 M in HCOOH molecules. 
+We then consider the ionization of the acid into 
+H+ and HCOO-. For each HCOOH molecule that 
+ionizes, one H+ ion and one HCOO- ion are pro-
+duced in solution. Because the pH measurement 
+indicates that 3H+4 = 4.2 * 10-3 M at equilib-
+rium, we can construct the following table:
+HCOOH1aq2   ∆   H+1aq2   +    HCOO-1aq2
+Initial  
+concentration (M)
+0.

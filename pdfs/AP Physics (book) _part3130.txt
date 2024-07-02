@@ -1,0 +1,29 @@
+t inherent in nature (wave–particle)
+FIGURE 28–5 Thought experiment
+for observing an electron with a
+powerful light microscope. At least
+one photon must scatter from the
+electron (transferring some
+momentum to it) and enter the
+microscope.
+Electron
+Light
+source
+Light
+source
+(a)
+(b)
+EXERCISE A Return to the Chapter-Opening Question, page 803, and answer it again
+now. Try to explain why you may have answered differently the first time.
+Another useful form of the uncertainty principle relates energy and time,
+and we examine this as follows. The object to be detected has an uncertainty in
+position 
+The photon that detects it travels with speed c, and it takes a
+time 
+to pass through the distance of uncertainty. Hence, the
+measured time when our object is at a given position is uncertain by about
+Since the photon can transfer some or all of its energy 
+to our
+object, the uncertainty in energy of our object as a result is
+The product of these two uncertainties is
+A more careful calculation g

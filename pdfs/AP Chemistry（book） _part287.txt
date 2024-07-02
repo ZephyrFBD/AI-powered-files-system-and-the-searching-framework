@@ -1,0 +1,42 @@
+ue?
+(a) 65Cu contains two more protons than 63Cu.
+(b) 63Cu must be more abundant than 65Cu.
+(c) All copper atoms have a mass of 63.546 amu.
+ 
+▶Practice Exercise 2
+Three isotopes of silicon occur in nature: 28Si 192.23%2, atomic 
+mass 27.97693 amu; 29Si 14.68%2, atomic mass 28.97649 amu; 
+and 30Si 13.09%2, atomic mass 29.97377 amu. Calculate the 
+atomic weight of silicon.
+SOLUTION
+We can calculate the atomic weight by multiplying the abun-
+dance of each isotope by its mass and summing these products. 
+Because 75.78% = 0.7578 and 24.22% = 0.2422,  
+we have
+ Atomic weight = 10.75782134.969 amu2 + 10.24222136.966 amu2 
+ = 26.50 amu + 8.953 amu 
+ = 35.45 amu
+This answer makes sense: The atomic weight, which is actually 
+the average atomic mass, is between the masses of the two isotopes 
+and is closer to the value of 35Cl, the more abundant isotope.
+Magnet
+Sample
+Ionization
+stage
+To vacuum
+pump
+Accelerating grid
+Heated
+filament
+N
+S
+Slit
+37Cl1
+35Cl1
+Detector
+Beam
+of positive
+ions
+(2)
+(2)
+(1)

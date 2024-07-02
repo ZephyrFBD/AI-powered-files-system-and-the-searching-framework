@@ -1,0 +1,10 @@
+iduals do not randomly mate with others in the group.
+19.3 Adaptive Evolution
+Because natural selection acts to increase the frequency of beneficial alleles and traits while decreasing the frequency of
+deleterious qualities, it is adaptive evolution. Natural selection acts at the level of the individual, selecting for those that
+have a higher overall fitness compared to the rest of the population. If the fit phenotypes are those that are similar, natural
+selection will result in stabilizing selection, and an overall decrease in the population’s variation. Directional selection
+works to shift a population’s variance toward a new, fit phenotype, as environmental conditions change. In contrast,
+diversifying selection results in increased genetic variance by selecting for two or more distinct phenotypes.
+Other types of selection include frequency-dependent selection, in which individuals with either common (positive
+frequency-dependent selection) or rare (negative frequency-dependent selec

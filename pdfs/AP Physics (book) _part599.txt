@@ -1,0 +1,34 @@
+which is the same as in part (b).
+NOTE Work done by gravity depends only on the vertical height, so changes in
+gravitational potential energy do not depend on the path taken.
+pe3 - pe2 = 0 - 2.5 * 105 J =
+–2.5 * 105 J,
+y3 = 0,
+pe2 = 2.5 * 105 J.
+y2 = 25 m,
+pe1 = (1000 kg)A9.8 ms2)(15 m) = 1.5 * 105 J.
+y1 = ±15 m
+y3 = 0.
+2.5 * 105 J.
+=
+–2.5 * 105 J.
+pe3 - pe2 =
+A –1.5 * 105 JB - A9.8 * 104 JB
+Apefinal - peinitialB
+pe3 = mgy3 = (1000 kg)A9.8 ms2B(–15 m) =
+–1.5 * 105 J.
+y3 = –15 m,
+pe2 = mgy2 = (1000 kg)A9.8 ms2B(10 m) = 9.8 * 104 J.
+y2 = 10 m,
+Ay1 = 0B,
+(y = 0)
+y = 0
+EXAMPLE 6;6
+C A U T I O N
+Potential energy belongs to a system,
+not to a single object
+An important result we discussed earlier (see Example 6–2 and Fig. 6–4)
+concerns the gravity force, which does work only in the vertical direction: the
+work done by gravity depends only on the vertical height h, and not on the path
+taken, whether it be purely vertical motion or, say, motion along an incline. Thus,
+from Eqs. 6–7 we see t

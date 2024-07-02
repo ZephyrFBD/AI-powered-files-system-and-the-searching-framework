@@ -1,0 +1,16 @@
+s observed. We will 
+find it helpful to keep this analogy in mind as we discuss trends in effective nuclear charge.
+Let’s consider what we would expect for the magnitude of Zeff for the sodium 
+atom. Sodium has the electron configuration 3Ne43s1. The nuclear charge is Z = 11+, 
+and there are 10 core electrons 11s22s22p62, which serve as a “lampshade” to screen 
+the nuclear charge “seen” by the 3s electron. Therefore, in the simplest approach, we 
+expect S to equal 10 and the 3s electron to experience an effective nuclear charge of 
+Zeff = 11 - 10 = 1+ (Figure 7.3). The situation is more complicated, however, because 
+the 3s electron has a small probability of being very close to the nucleus, in the region 
+occupied by the core electrons. 
+ (Section 6.6) Thus, this electron experiences 
+a greater net attraction than our simple S = 10 model suggests: The actual value of 
+Zeff for the 3s electron in Na is Zeff = 2.5+. In other words, because there is a small 
+Lightbulb
+(nucleus)
+Frosted g

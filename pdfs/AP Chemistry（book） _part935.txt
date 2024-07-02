@@ -1,0 +1,21 @@
+weaknesses in 
+some interpretations of quantum results, but the paradox has led 
+ 
+instead to a continuing and lively debate about the fate and meaning 
+of Schrödinger’s cat. In 2012, the Nobel Prize in Physics was awarded 
+to Serge Haroche of France and David Wineland of the United States 
+for their ingenious methods for observing the  
+quantum states of 
+photons or particles without having the act of observation  
+destroy 
+the states. In so doing, they observed what is generally called the 
+“cat state” of the systems, in which the photon or particle exists 
+ 
+simultaneously in two different quantum states. A puzzling paradox, 
+indeed, but one that might ultimately lead to new ways to harness 
+the simultaneous states to create so-called quantum computers and 
+more accurate clocks.
+Related Exercise: 6.97
+2. The second quantum number—the angular momentum quantum number, l—
+can have integral values from 0 to 1n - 12 for each value of n. This quantum number 
+defines the shape of the orbit

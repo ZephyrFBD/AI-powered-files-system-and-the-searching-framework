@@ -1,0 +1,51 @@
+ crest the dam.
+Figure 19.13
+To evaluate the geographic isolation of invertebrate
+populations in these two habitats, copepods are sampled at
+the points labeled 1 and 2 on the photograph. These points
+lie at either ends of the Carrying Place Inlet. Enzymes
+encoded by three alleles, labeled A, B, and C, were
+determined by gel electrophoresis of equal numbers of the
+organisms collected at the two sites. Numbers of each
+genotype are given in the following table:
+Site
+1
+2
+AA
+82
+96
+AB
+114
+108
+AC
+102
+92
+BB
+74
+54
+BC
+98
+110
+CC
+30
+40
+Total 500
+500
+Table 19.4
+A. Calculate the frequencies, f, of each allele and complete
+the following table:
+Chapter 19 | The Evolution of Populations
+803
+Site
+f(A)
+f(B)
+f(C)
+1
+2
+Table 19.5
+B. Using a χ2 test, evaluate these data to determine if the
+aminopeptidase gene in these two populations is evolving.
+State your conclusion as claims supported by evidence at
+both the 95% and 99% confidence levels. The formula for
+the χ2 test is provided on the AP Biology Exam.
+χ2 

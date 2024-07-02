@@ -1,0 +1,11 @@
+gger
+metabolic activities that direct or influence the expression of its genes.
+Signals from the external environment come from biological sources, such as chemicals from a pathogen or a bee
+sting, or from physical sources, such as light or heat. Within a multicellular organism, cells also receive signals from
+other cells. This can happen in several ways, depending upon how far the signal needs to travel:
+1. Direct contact between animal cells allows proteins, carbohydrates,
+and lipids of the plasma membranes to transmit information. This kind of communication is common among cells
+during early development. Information is also transmitted through two kinds of communication junctions:
+Gap junctions in animal cells allow for chemical and electrical signaling between cells. Ions and small molecules
+can pass through gap junctions, but larger molecules, like proteins and nucleic acids, cannot.
+Plasmodesmata in plant cells are tunnels of cytoplasm between cells. They provide passageways acro

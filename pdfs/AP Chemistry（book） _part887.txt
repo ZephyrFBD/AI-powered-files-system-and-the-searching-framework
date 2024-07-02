@@ -1,0 +1,26 @@
+E, of a single quantum equals a 
+constant times the  
+frequency of the radiation:
+ 
+E = hn 
+[6.2]
+The constant h is called the Planck constant and has a value of 6.626 * 10 - 34 joule@ 
+second 1J@s2.
+ 
+Sample Exercise 6.2 
+Calculating Frequency from Wavelength
+The yellow light given off by a sodium vapor lamp used for public lighting has a wavelength of 589 nm. What is the frequency  
+of this radiation?
+ 
+▶Practice Exercise 1
+Consider the following three statements: (i) For any electro-
+magnetic radiation, the product of the wavelength and the  
+frequency is a constant. (ii) If a source of light has a wavelength 
+of 3.0 Å, its frequency is 1.0 * 1018 Hz. (iii) The speed of ultra-
+violet light is greater than the speed of microwave radiation. 
+Which of these three statements is or are true? 
+(a) Only one statement is true. (b) Statements (i) and (ii) are 
+true. (c) Statements (i) and (iii) are true. (d) Statements (ii) and 
+(iii) are true. (e) All three statements are true.
+ 
+▶Practice 

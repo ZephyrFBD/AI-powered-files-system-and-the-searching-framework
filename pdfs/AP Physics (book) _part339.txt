@@ -1,0 +1,29 @@
+ slowly.
+3 kmh
+3 kmh.
+78
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+C A U T I O N
+Distinguish mass from weight
+†A review of proportionality is given in Appendix A.
+FIGURE 4;5 The bobsled 
+accelerates because the team exerts 
+a force.
+The greater the mass, the less the acceleration for the same net force. The mathe-
+matical relation, as Newton argued, is that the acceleration of an object is inversely
+proportional to its mass. These relationships are found to hold in general and can
+be summarized as follows:
+The acceleration of an object is directly proportional to the net force acting
+on it, and is inversely proportional to the object’s mass. The direction of the
+acceleration is in the direction of the net force acting on the object.
+This is Newton’s second law of motion.
+Newton’s second law can be written as an equation:
+where 
+stands for acceleration, m for the mass, and 
+for the net force on the
+object. The symbol 
+(Greek “sigma”) stands for “sum of”;
+stands for force,
+so 
+means 

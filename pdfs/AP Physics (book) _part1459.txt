@@ -1,0 +1,14 @@
+ we
+see that the saturated vapor pressure of water at 20°C is 17.5 torr. Hence the 
+relative humidity would be greater than 100%, and the supersaturated air cannot
+hold this much water vapor. The excess water may condense and appear as dew,
+clouds, or as fog or rain (Fig. 13–26).
+When air containing a given amount of water is cooled, a temperature is
+reached where the partial pressure of water equals the saturated vapor pressure.
+This is called the dew point. Measurement of the dew point is the most accurate
+means of determining the relative humidity. One method uses a polished metal sur-
+face which is gradually cooled down while in contact with air. The temperature at
+which moisture begins to appear on the surface is the dew point, and the partial
+pressure of water can then be obtained from saturated vapor pressure Tables. If, for
+example, on a given day the temperature is 20°C and the dew point is 5°C, then the
+partial pressure of water (Table 13–3) in the 20°C air is 6.54 torr, wher

@@ -1,0 +1,31 @@
+s given in Figure 11.5.)
+∆G° = ∆H° - T
+b ∆S° = 0
+(c) Combining Equation 19.12 with the result from part (b), 
+we see that the equality at the normal boiling point, T
+b, of 
+CCl41l2 (or any other pure liquid) is:
+Solving the equation for T
+b, we obtain:
+T
+b = ∆H°>∆S°
+Strictly speaking, we need the values of ∆H° and ∆S° for the 
+CCl41l2>CCl41g2 equilibrium at the normal boiling point 
+to do this calculation. However, we can estimate the boiling 
+point by using the values of ∆H° and ∆S° for the phases of 
+CCl4 at 298 K, which we obtain from Appendix C and Equa-
+tions 5.31 and 19.8:
+ 
+∆H° = 11 mol21-106.7 kJ>mol2 - 11 mol21-139.3 kJ>mol2 = +32.6 kJ
+ 
+∆S° = 11 mol21309.4 J>mol@K2 - 11 mol21214.4 J>mol@K2 = +95.0 J>K 
+As expected, the process is endothermic 1∆H 7 02 and pro-
+duces a gas, thus increasing the entropy 1∆S 7 02. We now 
+use these values to estimate T
+b for CCl41l2:
+T
+b = ∆H °
+∆S° = a 32.6 kJ
+95.0 J>Kb a 1000 J
+1 kJ b = 343 K = 70 °C
+Note that we have used the conversion factor b

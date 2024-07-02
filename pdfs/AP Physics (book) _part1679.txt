@@ -1,0 +1,33 @@
+sult
+of any natural process:
+(15;9)
+The change in entropy in a process that transfers heat Q at
+a constant temperature T is
+(15;8)
+Entropy is a quantitative measure of the disorder of a
+system. The second law of thermodynamics also indicates that
+as time goes on, energy is degraded to less useful forms—that is,
+it is less available to do useful work.
+The second law of thermodynamics tells us in which direction
+processes tend to proceed; hence entropy is called “time’s arrow.”
+[*Entropy can be examined from a statistical point of view,
+considering macrostates (for example, P, V, T) and microstates
+(state of each molecule). The most probable processes are the
+ones we observe. They are the ones that increase entropy the
+most. Processes that violate the second law “could” occur,
+but only with extremely low probability.]
+[*All heat engines give rise to thermal pollution because
+they exhaust heat to the environment.]
+¢S = Q
+T
+.
+¢S 7 0.
+QH
+[heat pump]
+COP = QH
+W
+,
+QH
+QL
+Summary
+4. Temperature

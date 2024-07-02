@@ -1,0 +1,40 @@
+0 g/mol
+2 H atoms
+per H2O
+molecule
+Mass H2O
+produced
+Moles H2O
+produced
+Moles H in
+original sample
+Molar
+mass H
+1.01 g/mol
+Mass H in
+original sample
+Using the values given in this example, we find that the mass of H is
+ Grams H = 10.306 g H2O2a 1 mol H2O
+18.0 g H2O b a 2 mol H
+1 mol H2O b a
+1.01 g H
+1 mol H b = 0.0343 g H
+The mass of the sample, 0.255 g, is the sum of the masses of C, H, and O. Thus, the O mass is
+Mass of O = mass of sample - 1mass of C + mass of H2 = 0.255 g - 10.153 g + 0.0343 g2 = 0.068 g O
+The number of moles of C, H, and O in the sample is therefore
+ 
+Moles C = 10.153 g C2a 1 mol C
+12.0 g C b = 0.0128 mol C  
+ 
+Moles H = 10.0343 g H2a 1 mol H
+1.01 g H b = 0.0340 mol H 
+ 
+Moles O = 10.068 g O2a 1 mol O
+16.0 g O b = 0.0043 mol O
+To find the empirical formula, we must compare the relative number of moles of each element in the sample, as illustrated in Sample  
+Exercise 3.13.
+C : 0.0128
+0.0043 = 3.0 H : 0.0340
+0.0043 = 7.9 O : 0.0043
+0.0043 = 1.0
+The first two number

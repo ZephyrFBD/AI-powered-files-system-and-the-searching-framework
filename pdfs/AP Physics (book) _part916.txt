@@ -1,0 +1,23 @@
+ force is
+adding
+the two together, we get a resultant force
+1.4 N as shown in Fig. 9–3b.
+We assume that the tooth is in equilibrium because the gums exert a nearly
+equal magnitude force in the opposite direction. Actually that is not quite so
+since the objective is to move the tooth ever so slowly.
+NOTE If the wire is firmly attached to the tooth, the tension to the right, say,
+can be made larger than that to the left, and the resultant force would corre-
+spondingly be directed more toward the right.
+F
+R =
+(2.0 N)(cos 70°) = 0.68 N:
+F
+T
+The First Condition for Equilibrium
+For an object to be at rest, Newton’s second law tells us that the sum of the forces
+acting on it must add up to zero. Since force is a vector, the components of the
+net force must each be zero. Hence, a condition for equilibrium is that
+(9;1)
+We will mainly be dealing with forces that act in a plane, so we usually need only
+the x and y components. We must remember that if a particular force component
+points along the

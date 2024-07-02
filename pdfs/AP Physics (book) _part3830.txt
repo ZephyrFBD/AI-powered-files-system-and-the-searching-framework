@@ -1,0 +1,61 @@
+igit is in 
+the vertical column to the left, the second digit is in the horizontal row across
+the top. For example, the Table tells us that
+and
+The Table gives logs for numbers between 1.0 and 9.9; for
+larger or smaller numbers, we use rule A–7:
+For example,
+From the Table,
+and from rule A–9,
+since 
+[This follows from the definition of the logarithm: if 
+log (10) = 1.
+2 log (10) = 2,
+log A102B
+=
+log 3.8 = 0.580;
+log (380) = log A3.8 * 102B
+= log (3.8) + log A102B.
+log (ab) = log a + log b.
+log 4.1 = 0.613.
+log 1.1 = 0.041,
+log 1.0 = 0.000,
+log an = n log a.
+log ¢ a
+b ≤
+= log a - log b
+log b.
+±
+log a
+
+n + m
+
+log (ab)
+log (ab) = n + m;
+log b = m,
+log a = n,
+ab = 10n+m.
+b = 10m,
+a = 10n
+log (ab) = log a + log b.
+ln y = 2.3026 log y.
+if y = ex,  then x = ln y.
+e = 2.718 p,
+log10
+if y = 10x,  then x = log y.
+if y = A
+x,  then x = logA y.
+A-10
+APPENDIX A
+Mathematical Review
+†The exponential base e can be written as an infinite series:
+e = 1 + 1
+1 +
+1
+12 +
+1
+123 +
+1
+1234 + p.
+then
+] T

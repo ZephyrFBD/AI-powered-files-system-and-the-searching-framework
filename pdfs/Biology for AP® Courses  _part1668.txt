@@ -1,0 +1,13 @@
+ of introns can be mutated without
+ultimately affecting the protein product.
+All of a pre-mRNA’s introns must be completely and precisely removed before protein synthesis. If the process errs by even
+a single nucleotide, the reading frame of the rejoined exons would shift, and the resulting protein would be dysfunctional.
+The process of removing introns and reconnecting exons is called splicing (Figure 15.14). Introns are removed and
+degraded while the pre-mRNA is still in the nucleus. Splicing occurs by a sequence-specific mechanism that ensures introns
+will be removed and exons rejoined with the accuracy and precision of a single nucleotide. The splicing of pre-mRNAs is
+conducted by complexes of proteins and RNA molecules called spliceosomes.
+612
+Chapter 15 | Genes and Proteins
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 15.14 Pre-mRNA splicing involves the precise removal of introns from the primary RNA transcript. The
+splicing process is c

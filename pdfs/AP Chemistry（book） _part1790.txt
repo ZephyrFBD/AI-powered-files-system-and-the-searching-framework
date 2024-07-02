@@ -1,0 +1,26 @@
+ly composed of molecules with fairly rigid, elon-
+gated shapes, as well as polar groups to help align molecules through 
+dipole–dipole interactions.
+SOLUTION
+(a) The compound is named carbon disulfide, in analogy with the 
+naming of other binary molecular compounds such as carbon 
+dioxide. 
+ (Section 2.8)
+(b) Because there is no H atom, there can be no hydrogen bond-
+ing. If we draw the Lewis structure, we see that carbon forms 
+double bonds with each sulfur:
+S
+C
+S
+Using the VSEPR model  
+ (Section 9.2), we conclude that 
+the molecule is linear and therefore has no dipole moment.  
+ (Section 9.3) Thus, there are no dipole–dipole forces. 
+Only dispersion forces operate between the CS2 molecules.
+(c) The most likely products of the combustion will be CO2 and 
+SO2.  
+ (Section 3.2) Under some conditions, SO3 might be 
+formed, but this would be the less likely outcome. Thus, we 
+have the following equation for combustion:
+CS21l2 + 3 O21g2 S CO21g2 + 2 SO21g2
+(d) The critical temperature an

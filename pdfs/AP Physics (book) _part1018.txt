@@ -1,0 +1,25 @@
+solid and assumed to
+maintain their shape except for a small amount of elastic deformation. We
+sometimes treated objects as point particles. Now we are going to shift our
+attention to materials that are very deformable and can flow. Such “fluids” include
+liquids and gases. We will examine fluids both at rest (fluid statics) and in motion
+(fluid dynamics).
+1
+0
+(a)
+(b)
+(c)
+(d)
+(e)
+The
+pressures
+are
+equal.
+We start our study with fluids at rest, such as water in a glass or a lake. Pressure in a fluid
+increases with depth, a fact that allows less dense objects to float—the pressure
+underneath is higher than on top. When fluids flow, such as water or air, interesting
+effects occur because the pressure in the fluid is lower where the fluid velocity is higher
+(Bernoulli’s principle).
+The great mass of a glacier’s ice (photos here) moves slowly, like a viscous liquid. The
+dark lines are “moraines,” made up of rock broken off mountain walls by the moving ice,
+and represent streamlines. The two 

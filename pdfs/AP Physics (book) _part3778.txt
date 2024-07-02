@@ -1,0 +1,31 @@
+Dark
+energy
+70%
+Dark
+matter
+25%
+Normal matter = 5%
+Stars and galaxies
+FIGURE 33–33 Portions of total
+mass–energy in the universe
+(approximate).
+0
+(Our Galaxy)
+1.0 Gly
+2.0 Gly
+3.0 Gly
+3.8 Gly
+simulations predict a large-scale distribution of galaxies very similar to what is
+seen today (Fig. 33–34). These simulations are very successful if they contain
+dark energy and dark matter; and the dark matter needs to be cold (slow
+speed—think of Eq. 13–8,
+where T is temperature), rather than
+“hot” dark matter such as neutrinos which move at or very near the speed of
+light. Indeed, the modern cosmological model is called the 
+model, where
+lambda 
+stands for the cosmological constant, and CDM is cold dark matter.
+Cosmologists have gained substantial confidence in this cosmological model
+from such a precise fit between observations and theory. They can also extract
+very precise values for cosmological parameters which previously were only
+known with low accuracy. The CMB is such an important cosmol

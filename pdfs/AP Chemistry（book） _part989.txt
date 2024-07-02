@@ -1,0 +1,39 @@
+ment 79), we see that Au has a completely full 4f 14 subshell 
+beyond its noble-gas core, but those 4f electrons are not involved in bonding. In general, 
+for representative elements we do not consider the electrons in completely filled d or f subshells to 
+be valence electrons, and for transition elements we do not consider the electrons in a completely 
+filled f subshell to be valence electrons.
+Anomalous Electron Configurations
+The electron configurations of certain elements appear to violate the rules we have 
+just discussed. For example, Figure 6.31 shows that the electron configuration of 
+chromium (element 24) is 3Ar43d54s1 rather than the 3Ar43d44s2 configuration we 
+1A
+1
+2
+3
+4
+5
+6
+7
+2A
+6s2
+6p3
+5d10
+4f 14
+3A 4A 5A
+Noble-
+gas core
+6A
+Bi
+Xe
+7A
+8A
+s
+d
+p
+f
+(b) We see from the condensed electron configuration that the 
+only partially occupied subshell is 6p. The orbital diagram rep-
+resentation for this subshell is
+In accordance with Hund’s rule, the three 6p electrons occupy the 
+t

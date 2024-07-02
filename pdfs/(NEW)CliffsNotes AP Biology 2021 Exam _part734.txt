@@ -1,0 +1,14 @@
+and in what unit of measurement. For example,
+“Time (minutes),” “Distance
+ 
+(meters),” or “Water Loss (ml/m2)” are appropriate labels.
+2. Provide values along each axis at regular intervals. Select values and spacing that will allow your graph to fill
+as much of the graphing grid as possible. Be sure that the units on each axis are linear—that is, one unit on the axis
+must have the same length anywhere on the axis.
+3. Use the x-axis for the independent variable and the y-axis for the dependent variable.
+ 
+The independent variable is the variable that you choose to manipulate—that is, the variable to which you assign
+values. For example, suppose you wanted to investigate fruit fly longevity as a function of diet. The independent
+variable is the type of diet. You choose to investigate diet and you assign different “values” of diet (for example,
+high protein, high calorie, etc.).
+The dependent variable is how the experiment responds to the independent variable. Its values are the data tha

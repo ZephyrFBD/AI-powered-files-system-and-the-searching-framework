@@ -1,0 +1,73 @@
+surface for flatness. Spherical lens
+surfaces can be tested for precision by placing the lens on a flat glass surface 
+and observing Newton’s rings (Fig. 24–31b) for perfect circularity.
+(m = 0).
+0l, 1l, 2l, 3l, p, 24l,
+(2)A7.35 * 10–6 mBA6.00 * 10–7 mB = 24.5
+2tl =
+t = 7.35 * 10–6 m.
+2t = Am + 1
+2Bl,
+2t = ml,  
+m = 0,  1,  2,  p.
+t
+t
+0,  l,  2l,  3l,
+1
+2-cycle
+7.35 * 10–3 mm
+EXAMPLE 24;10
+nwater 7 noil 7 nair .
+1
+2 l,
+1
+2 l A= 1
+2 cycleB.
+1
+2 l,
+3
+2 l,
+1
+2 l
+1
+2-cycle
+1
+2 l.
+1
+2
+1
+2 l
+SECTION 24–8
+Interference in Thin Films
+695
+(a)
+n1
+n2 > n1
+(b)
+n1
+n2 < n1
+A
+(b)
+(a)
+(c)
+B
+C
+D
+E
+F
+FIGURE 24–32 (a) Reflected ray
+changes phase by 180° or
+cycle if
+but (b) does not if n2 6 n1.
+n2 7 n1 ,
+1
+2
+FIGURE 24–33 (a) Light rays reflected
+from the upper and lower surfaces of
+a thin wedge of air (between two glass
+plates) interfere to produce bright and
+dark bands. (b) Pattern observed 
+when glass plates are optically flat;
+(c) pattern when plates are not so flat.
+See Example 24–10.
+†This result co

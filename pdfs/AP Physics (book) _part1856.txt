@@ -1,0 +1,57 @@
+nd term within the parentheses is
+zero
+so
+NOTE We could not use Eqs. 17–4 here because they apply only to uniform
+fields. But we did use Eq. 17–3 because it is always valid.
+W
+ext = A3.00 * 10–6 CB
+A8.99 * 109 Nm2C2BA2.00 * 10–5 CB
+(0.500 m)
+= 1.08 J.
+(1q = 0)
+ra = q.
+rb = 0.500 m
+W
+ext = qAV
+b - V
+aB
+= q ¢
+kQ
+rb
+-
+kQ
+ra
+≤,
+V
+a
+V
+b
+W
+ext = ¢pe = qAV
+b - V
+aB.
+1r2
+Q = 20.0 mC?
+r = q
+q = 3.00 mC
+EXAMPLE 17;5
+480
+CHAPTER 17
+Electric Potential
+C A U T I O N
+We cannot use
+if F is not constant
+W = Fd
+C A U T I O N
+Potential is a scalar and
+has no components
+EXERCISE C What work is required to bring a charge
+originally a distance
+of 1.50 m from a charge
+until it is 0.50 m away?
+Q = 20.0 mC
+q = 3.00 mC
+To determine the electric field at points near a collection of two or more
+point charges requires adding up the electric fields due to each charge. Since the
+electric field is a vector, this can be time consuming or complicated. To find the
+electric potential at a point due to a collection o

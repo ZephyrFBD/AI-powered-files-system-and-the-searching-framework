@@ -1,0 +1,50 @@
+
+Population
+Plant 1
+Plant 2 
+Plant 3 
+Plant 4 
+Plant 5 
+Plant 6 
+Mean 
+Standard 
+Error of 
+the Mean
+(SEM) 
+I
+8
+11
+9
+10
+8
+6
+9
+1
+II
+12
+6
+15
+9
+13
+8
+11
+1
+III
+13
+17
+9
+14
+12
+16
+14
+1
+(a) On the axes provided, create an appropriately labeled graph to illustrate the sample means of the  
+three populations to within 95% confidence (i.e., sample mean plus or minus 2 S E M). 
+(b) Based on the sample means and standard errors of the means, identify the two populations that are most 
+likely to have statistically significant differences in the mean stem trichome densities. Justify your response. 
+(c) Describe the independent and dependent variables and a control treatment for an experiment to test the 
+hypothesis that higher trichome density in plants is selected for in the presence of herbivores. Identify an 
+appropriate duration of the experiment to ensure that natural selection is measured, and predict the 
+experimental results that would support the hypothesis. 
+2014 AP
+® BIOLOGY FREE-RESPONSE QU

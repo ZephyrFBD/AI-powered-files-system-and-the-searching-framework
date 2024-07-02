@@ -1,0 +1,22 @@
+-domain geometry of 
+OSF4, and write two possible molecular geometries for the 
+molecule based on this electron-domain geometry. (e) For 
+each of the molecules you drew in part (d), state how many 
+fluorines are equatorial and how many are axial.
+ 
+[9.115]  The phosphorus trihalides 1PX32 show the following vari-
+ation in the bond angle X¬P¬ X: PF3, 96.3°; PCl3, 100.3°; 
+PBr3, 101.0°; PI3, 102.0°. The trend is generally attributed 
+to the change in the electronegativity of the halogen. 
+ 
+(a) Assuming that all electron domains are the same size, 
+what value of the X¬P¬X angle is predicted by the VSEPR 
+model? (b) What is the general trend in the X¬P¬ X 
+angle as the halide electronegativity increases? (c) Using 
+the VSEPR model, explain the observed trend in X¬P¬ X 
+angle as the electronegativity of X changes. (d) Based on 
+your answer to part (c), predict the structure of PBrCl4.
+ 
+[9.116]  The molecule 2-butene, C4H8, can undergo a geometric 
+change called cis-trans isomerization:
+ 

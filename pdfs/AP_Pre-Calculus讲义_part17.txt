@@ -1,0 +1,24 @@
+e this dependence of one quantity on another. That is, 
+we say the following: 
+ 
+Height is a function of age. 
+ 
+Temperature is a function of date. 
+Here are some more examples: 
+ 
+The area of a circle is a function of its radius. 
+ 
+The number of bacteria in a culture is a function of time. 
+ 
+The weight of an astronaut is a function of her elevation. 
+ 
+The price of a commodity is a function of the demand for that commodity. 
+A function is a rule. To talk about a function, we need to give it a name. We will use letters 
+such as f, g, h, . . . to represent functions. 
+For example, we can use the letter f to represent a rule as follows: 
+“ f ”  is the rule “square the number” 
+1.1.2 Definition of a Function 
+A function f is a rule that assigns to each element x in a set A exactly one element, called 
+f(x), in a set B. 
+The symbol f (x) is read “f of x” or “f at x” and is called the value of f at x, or the image of 
+x under f. The set A is called the domain of the function. The ra

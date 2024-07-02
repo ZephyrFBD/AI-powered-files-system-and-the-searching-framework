@@ -1,0 +1,56 @@
+ in
+Fig. 27–4. In the visible region, the curve will be descending, so the shortest visible
+wavelengths will be strongest. Hence the star will appear bluish (or blue-white).
+NOTE This example helps us to understand why stars have different colors
+(reddish for the coolest stars; orangish, yellow, white, bluish for “hotter” stars.)
+EXERCISE A What is the color of an object at 4000 K?
+lP = 2.90 * 10–3 mK
+T
+= 2.90 * 10–3 mK
+3.25 * 104 K
+= 89.2 nm.
+lP
+EXAMPLE 27;2
+T = 2.90 * 10–3 mK
+lP
+= 2.90 * 10–3 mK
+500 * 10–9 m
+L 6000 K.
+lP = 500 nm
+EXAMPLE 27;1
+lPT = 2.90 * 10–3 mK.
+lP,
+(L  300 K),
+AT4B.
+774
+CHAPTER 27
+FIGURE 27–4 Measured spectra of
+wavelengths and frequencies
+emitted by a blackbody at three
+different temperatures.
+0
+Wavelength (nm)
+Frequency (Hz)
+1000
+2000
+3000
+Visible
+IR
+UV
+Intensity
+3000 K
+4500 K
+6000 K
+3.0 
+1014
+1
+.0 
+1015
+2.0 
+
+1014
+1.0 
+1014
+Planck’s Quantum Hypothesis
+In the year 1900, Max Planck (1858–1947) proposed a theory that was able to
+reproduce the graphs of Fi

@@ -1,0 +1,40 @@
+ress. Heat
+shock proteins are encoded by DNA sequences that include
+temperature sensitive RNA sequences, known as RNA
+thermometers. The 5′-UTR region of these RNA thermometers fold
+in a conformation that prevents ribosomes from binding when
+temperatures are low.
+Wild type E. coli strains synthesize Hsp70 shock proteins aȇer
+exposure to heat. A microbiologist isolates a mutant strain of E.
+coli that thrives at 22°C, but quickly dies when transferred to a
+temperature of 40°C. To study the heat response in the mutant
+strain, the microbiologist transforms mutant cells with the
+following plasmids and records the results.
+Plasmid
+5′-UTR
+Coding Sequence of Hsp70
+Growth at 40°C
+A
+Mutant
+Mutant
+–
+Plasmid
+5′-UTR
+Coding Sequence of Hsp70
+Growth at 40°C
+B
+Wild type
+Wild type
++
+C
+Mutant
+Wild type
+–
+D
+Wild type
+Mutant
++
+Which of the following best describes the mutant E. coli strain?
+The strain has a mutation in the RNA thermometer region.
+(A)
+The strain expresses a mutant Hsp70 protein that does no

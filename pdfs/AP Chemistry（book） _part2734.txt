@@ -1,0 +1,15 @@
+ acid–strong base titration (Figure 17.7) in three noteworthy ways:
+ 1. The solution of the weak acid has a higher initial pH than a solution of a strong acid 
+of the same concentration.
+ 2. The pH change in the rapid-rise portion of the curve near the equivalence point is 
+smaller for the weak acid than for the strong acid.
+ 3. The pH at the equivalence point is above 7.00 for the weak acid titration.
+Give It Some Thought
+Describe the reasons why statement 3 above is true.
+The weaker the acid, the more pronounced these differences become. To illustrate 
+this consider the family of titration curves shown in Figure 17.11. Notice that as the 
+acid becomes weaker (that is, as Ka becomes smaller), the initial pH increases and the 
+pH change near the equivalence point becomes less marked. Furthermore, the pH at 
+the equivalence point steadily increases as Ka decreases, because the strength of the 
+conjugate base of the weak acid increases. It is virtually impossible to determine the 
+equiva

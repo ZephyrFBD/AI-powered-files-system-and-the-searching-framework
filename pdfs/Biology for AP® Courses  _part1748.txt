@@ -1,0 +1,12 @@
+ther on the bacterial chromosome. (The operon model
+includes several components, so when studying how the operon works, it is helpful to refer to a diagram of the model.
+See Figure 16.3 and Figure 16.4.) The operon includes a regulatory gene that codes for a repressor protein that binds to
+the operator, which prevents RNA polymerase from transcribing the gene(s) of interest. An example of this is seen in the
+structural genes for lactose metabolism. However, if the repressor is inactivated, RNA polymerase binds to the promoter,
+and transcription of the structural genes occurs.
+There are three ways to control the transcription of an operon: inducible control, repressible control, and activator control.
+Chapter 16 | Gene Regulation
+639
+The lac operon is an example of inducible control because the presence of lactose “turns on” transcription of the genes
+for its own metabolism. The trp operon is an example of repressible control because it uses proteins bound to the operator
+sequence to ph

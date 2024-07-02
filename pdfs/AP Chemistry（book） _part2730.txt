@@ -1,0 +1,21 @@
+solved for pH equally well using the 
+Henderson–Hasselbalch equation in the last step.
+ 
+▶Practice Exercise 1
+If you think carefully about what happens during the course of a 
+weak acid–strong base titration, you can learn some very interest-
+ing things. For example, let’s look back at Figure 17.9 and pretend 
+you did not know that acetic acid was the acid being titrated. You 
+can figure out the pKa of a weak acid just by thinking about the 
+definition of Ka and looking at the right place on the titration 
+curve! Which of the following choices is the best way to do this?
+(a) At the equivalence point, pH = pKa. (b) Halfway to the 
+equivalence point, pH = pKa. (c) Before any base is added, 
+pH = pKa. (d) At the top of the graph with excess base added, 
+pH = pKa.
+ 
+▶Practice Exercise 2
+(a) Calculate the pH in the solution formed by adding  
+10.0 mL of 0.050 M NaOH to 40.0 mL of 0.0250 M benzoic 
+acid 1C6H5COOH, Ka = 6.3 * 10-52. (b) Calculate the pH 
+in the solution formed by adding 10.0 

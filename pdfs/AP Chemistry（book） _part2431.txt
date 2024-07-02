@@ -1,0 +1,15 @@
+. When the concentrations of 
+species in the reaction are altered, the equilibrium shifts until a new state of balance 
+is attained. What does shift mean? It means that reactant and product concentrations 
+change over time to accommodate the new situation. Shift does not mean that the equi-
+librium constant itself is altered; the equilibrium constant remains the same. Le Châteli-
+er’s principle states that the shift is in the direction that minimizes or reduces the effect 
+of the change.
+If a chemical system is already at equilibrium and the concentration of any substance 
+in the mixture is increased (either reactant or product), the system reacts to consume 
+some of that substance. Conversely, if the concentration of a substance is decreased, 
+the system reacts to produce some of that substance.
+There is no change in the equilibrium constant when we change the concentrations 
+of reactants or products. As an example, consider our familiar equilibrium mixture of 
+N2, H2, and NH3:
+N21g2 

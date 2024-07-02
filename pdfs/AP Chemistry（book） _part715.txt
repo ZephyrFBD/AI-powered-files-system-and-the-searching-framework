@@ -1,0 +1,25 @@
+f the piston expands against a constant pressure of 1.35 atm, how much work (in J) is done? 11 L@atm = 101.3 J2
+ 
+▶Practice Exercise 1
+If a balloon is expanded from 0.055 to 1.403 L against an exter-
+nal pressure of 1.02 atm, how many L-atm of work is done?  
+(a) -0.056 L-atm (b) -1.37 L-atm (c) 1.43 L-atm (d) 1.49 L-atm  
+(e) 139 L-atm
+ 
+▶Practice Exercise 2
+Calculate the work, in J, if the volume of a system contracts from 
+1.55 to 0.85 L at a constant pressure of 0.985 atm.
+SOLUTION
+Analyze We are given an initial volume and a final volume from 
+which we can calculate ∆V. We are also given the pressure, P. We 
+are asked to calculate work, w.
+Plan The equation w = -P ∆V allows us to calculate the work 
+done by the system from the given information.
+Solve The volume change is
+∆V = Vfinal - Vinitial = 0.980 L - 0.250 L = 0.730 L
+Thus, the quantity of work is
+w = -P∆V = -11.35 atm210.730 L2 = -0.9855 L@atm
+Converting L-atm to J, we have
+-10.9855 L@atm2a 101.3 J
+1 L@atmb = -99.8 J
+Check 

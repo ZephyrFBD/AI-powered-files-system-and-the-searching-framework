@@ -1,0 +1,33 @@
+of HCl and H2O to moles and then 
+use Equation 13.7:
+ 
+▶Practice Exercise 1
+The solubility of oxygen gas in water at 40 °C is 1.0 mmol per liter 
+of solution. What is this concentration in units of mole fraction?
+(a) 1.00 * 10-6 (b) 1.80 * 10-5 (c) 1.00 * 10-2 
+(d) 1.80 * 10-2 (e) 5.55 * 10-2
+ 
+▶Practice Exercise 2
+A commercial bleach solution contains 3.62% by mass of 
+NaOCl in water. Calculate (a) the mole fraction and (b) the 
+molality of NaOCl in the solution.
+Moles HCl = 136 g HCl2a 1 mol HCl
+36.5 g HCl b = 0.99 mol HCl
+Moles H2O = 164 g H2O2a
+1 mol H2O
+18 g H2O b = 3.6 mol H2O
+XHCl =
+moles HCl
+moles H2O + moles HCl =
+0.99
+3.6 + 0.99 = 0.99
+4.6 = 0.22
+Molality of HCl = 0.99 mol HCl
+0.064 kg H2O = 15 m
+(b) To calculate the molality of HCl in the solution, 
+we use Equation 13.9. We calculated the number 
+of moles of HCl in part (a), and the mass of sol-
+vent is 64 g = 0.064 kg:
+Notice that we can’t readily calculate the molar-
+ity of the solution because we don’t know the 
+volume of

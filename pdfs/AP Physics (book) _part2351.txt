@@ -1,0 +1,15 @@
+ff switch: the voltage on the gate terminal acts to control the
+conductivity between the source and the drain terminals, thus allowing current
+to flow (or not) between them.
+Each memory “cell,”which in DRAM consists of one transistor and a capacitor,
+stores one bit (
+a “0” or a “1”). Each cell is extremely small physically, less than
+100 nm across.‡ Typical DRAM chips (integrated circuits) contain billions of
+these memory cells. To see how they work, we look at a tiny part, the simple four-
+cell array shown in Fig. 21–29. One side of each cell capacitor is grounded; the
+other side is connected to the transistor source. The drain of each transistor is
+connected to a very thin conducting wire or “line,” a bit-line, that runs across the 
+array of cells. Each gate is connected to a word-line. A particular bit is a “1” or
+a “0” depending on whether the capacitor of the cell is charged to a voltage V
+(maybe 5 V) or is at zero (uncharged, or at a very small voltage).
+To write data, say on the

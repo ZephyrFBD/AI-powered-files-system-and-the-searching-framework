@@ -1,0 +1,54 @@
+7
+40
+60
+0.011
+20
+80
+10
+90
+1
+99
+0
+100
+1
+7.9 * 10–31
+7.9 * 10–29
+1.0 * 102
+1.4 * 10–17
+1.7 * 1013
+4.2 * 10–10
+5.4 * 1020
+1.4 * 1028
+6.1 * 1028
+1.0 * 1029
+6.1 * 1028
+1.4 * 1028
+4.2 * 10–10
+5.4 * 1020
+1.4 * 10–17
+1.7 * 1013
+7.9 * 10–29
+1.0 * 102
+7.9 * 10–31
+Fraction of molecules
+Speed,
+Speed,
+Fraction of molecules
+(a)
+0
+0
+(b)
+FIGURE 15–19 (a) Most probable
+distribution of molecular speeds 
+in a gas (Maxwellian, or random).
+(b) Orderly, but highly unlikely,
+distribution of speeds in which all
+molecules have nearly the same speed.
+15–1
+1 Thermal Pollution, Global
+Warming, and Energy Resources
+Much of the energy we use in everyday life—from motor vehicles to most of the elec-
+tricity produced by power plants—uses a heat engine. More than of the electric
+energy produced in the U.S.is generated at fossil-fuel steam plants (coal,oil,or gas—
+see Fig. 15–20a), and they make use of a heat engine (steam engines). In electric
+power plants, the steam drives the turbines and generators (Fig.15–21) whos

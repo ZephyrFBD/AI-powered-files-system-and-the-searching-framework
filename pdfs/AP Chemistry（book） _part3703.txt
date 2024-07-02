@@ -1,0 +1,28 @@
+trahedral complexes.
+Give It Some Thought
+Can the ammonia ligand engage in linkage isomerism?
+Go Figure
+Which of these isomers has a 
+nonzero dipole moment?
+cis
+Cl ligands adjacent to each other
+NH3 ligands adjacent to each other
+= Pt
+= Cl
+= H
+= N
+trans
+Cl ligands on opposite sides of central atom 
+NH3 ligands on opposite sides of central atom
+▲ Figure 23.21 Geometric isomerism.
+Give It Some Thought
+Can a trigonal planar complex exhibit geometric isomerism?
+The Lewis structure :C ‚ O: indicates that the CO molecule has two lone pairs of electrons. When CO binds to a transition-metal 
+atom, it nearly always does so by using the C lone pair. How many geometric isomers are there for tetracarbonyldichloroiron(II)?
+Sample Exercise 23.4 
+Determining the Number of Geometric Isomers
+SOLUTION
+Analyze We are given the name of a complex containing only 
+monodentate ligands, and we must determine the number of iso-
+mers the complex can form.
+Plan We can count the number of ligands to determine the

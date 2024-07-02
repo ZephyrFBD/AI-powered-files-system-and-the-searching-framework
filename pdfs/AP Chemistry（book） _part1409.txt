@@ -1,0 +1,22 @@
+, BeF2 has two identical bonds and a linear geometry. We have used one of the 2p 
+orbitals in making the hybrids; the remaining two 2p atomic orbitals of Be remain unhy-
+bridized and are vacant. Remember also that each fluorine atom has two other valence 
+p atomic orbitals, each containing one nonbonding electron pair. Those atomic orbitals 
+are omitted from Figure 9.15 to keep the illustration simpler.
+One s atomic orbital
+1
+One p atomic orbital
+Hybridize
+Two sp hybrid orbitals
+sp hybrid orbitals superimposed
+(large lobes only)
+▲ Figure 9.14 Formation of sp hybrid orbitals.
+ 
+SECTION 9.5   
+Hybrid Orbitals 
+357
+sp2 and sp3 Hybrid Orbitals
+Whenever we mix a certain number of atomic orbitals, we get the same number of hybrid 
+orbitals. Each hybrid orbital is equivalent to the others but points in a different direction. 
+Thus, mixing one 2s and one 2p atomic orbital yields two equivalent sp hybrid orbitals 
+that point in opposite directions (Figure 9.14). Other combinations of atomic orb

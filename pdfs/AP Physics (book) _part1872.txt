@@ -1,0 +1,40 @@
+e to flow) less readily than air,
+so higher voltages can be applied without charge passing across the gap. Further-
+more, a dielectric allows the plates to be placed closer together without touching,
+thus allowing an increased capacitance because d is smaller in Eq. 17–8. Thirdly,
+it is found experimentally that if the dielectric fills the space between the two con-
+ductors, it increases the capacitance by a factor K, known as the dielectric constant.
+Thus, for a parallel-plate capacitor,
+(17;9)
+This can be written
+where
+is called the permittivity of the material.
+The values of the dielectric constant for various materials are given in Table 17–3.
+Also shown in Table 17–3 is the dielectric strength, the maximum electric field
+before breakdown (charge flow) occurs.
+ = K 0
+C =  A
+d
+,
+C = K 0
+A
+d
+.
+C = Q
+V
+=
+Q
+AQA 0Bd =  0
+A
+d
+V =
+¢ Q
+A 0
+≤d.
+V = Ed,
+E = QA
+ 0
+.
+*
+Inserting a dielectric at constant V. An
+air-filled capacitor consisting of two parallel plates separated by a dista

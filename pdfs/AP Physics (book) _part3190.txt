@@ -1,0 +1,14 @@
+areas. The precise straightness of a laser beam is also useful
+to surveyors for lining up equipment accurately, especially in inaccessible places.
+28–12 Holography
+One of the most interesting applications of laser light is the production of three-
+dimensional images called holograms (see Fig. 28–23). In an ordinary photograph,
+the film simply records the intensity of light reaching it at each point. When the
+photograph or transparency is viewed, light reflecting from it or passing through
+it gives us a two-dimensional picture. In holography, the images are formed by
+interference, without lenses. A laser hologram is typically made on a photographic
+emulsion (film). A broadened laser beam is split into two parts by a half-silvered
+mirror, Fig. 28–24. One part goes directly to the film; the rest passes to the object
+to be photographed, from which it is reflected to the film. Light from every point
+on the object reaches each point on the film, and the interference of the two
+beams allows t

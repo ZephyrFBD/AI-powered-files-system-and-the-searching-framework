@@ -1,0 +1,16 @@
+0.9)  
+Related Exercises: 10.89, 10.91, 10.114
+THE KINETIC-MOLECULAR THEORY OF GASES (SECTION 10.7)  The 
+kinetic-molecular theory of gases accounts for the properties of an ideal gas 
+in terms of a set of statements about the nature of gases. Briefly, these 
+statements are as follows: Molecules are in continuous chaotic motion. 
+The volume of gas molecules is negligible compared to the volume of their 
+container. The gas molecules neither attract nor repel each other. The av-
+erage kinetic energy of the gas molecules is proportional to the absolute 
+temperature and does not change if the temperature remains constant.
+The individual molecules of a gas do not all have the same ki-
+netic energy at a given instant. Their speeds are distributed over a 
+wide range; the distribution varies with the molar mass of the gas 
+and with temperature. The root-mean-square (rms) speed, urms, varies 
+in proportion to the square root of the absolute temperature and in-
+versely with the square root of th

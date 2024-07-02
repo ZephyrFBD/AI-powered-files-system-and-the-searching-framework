@@ -1,0 +1,36 @@
+t
+bring them to a focus; you would see a blurry image or no perceptible image at
+all. [We will discuss the eye more in Chapter 25.]
+If you are the object 
+in Fig. 23–16, situated between F and C, and are
+trying to see yourself in the mirror, you would see a blur; but the person whose
+eye is shown in Fig. 23–16 could see you clearly. If you are to the left of C in
+Fig. 23–16, where 
+, you can see yourself clearly, but upside down. Why?
+Because then the rays arriving from the image will be diverging at your position
+(Fig. 23–18), and your eye can then focus them. You can also see yourself clearly,
+and right side up, if you are closer to the mirror than its focal point
+as
+we saw in Example 23–6, Fig. 23–17.
+Ado 6 fB,
+do 7 2f
+OO¿
+OO¿
+SECTION 23–3
+Formation of Images by Spherical Mirrors
+655
+I
+O
+C
+F
+Ray 2
+Ray 2
+Ray 2
+Ray 3
+Ray 3
+Image
+of your
+nose
+FIGURE 23–18 You can see a clear inverted image 
+of your face in a concave mirror when you are beyond C 
+because the rays that arrive at your eye

@@ -1,0 +1,11 @@
+example, platelets are cell fragments that circulate in the blood and contribute to the clotting mechanism. When
+platelets encounter damaged tissue, they release platelet-derived growth factor (PDGF), which binds to the plasma
+membrane of fibroblasts (a connective tissue) and stimulates its cell division. The new fibroblasts contribute to the
+healing of damaged tissue. More than 50 different growth factors are known.
+2. Density-dependent inhibition. Many cells stop dividing when the surrounding cell density reaches a certain
+maximum.
+3. Anchorage dependence. Most cells only divide when they are attached to an external surface, such as the flat
+surface of a neighboring cell (or the side of a culture dish).
+Cancer is characterized by uncontrolled cell growth and division. Transformed cells, cells that have become
+cancerous, proliferate without regard to cell cycle checkpoints, density-dependent inhibition, anchorage dependence,
+and other regulatory mechanisms. Thus, cancer is a disease o

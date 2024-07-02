@@ -1,0 +1,24 @@
+ 2 Cl-1aq2 + I21s2
+Solve
+(a) We ﬁrst must identify the oxidation and reduction half- 
+reactions that when combined give the overall reaction.
+Analyze We are given two reactions and must determine whether 
+each is spontaneous.
+Plan To determine whether a redox reaction is spontaneous under 
+standard conditions, we first need to write its reduction and 
+oxidation half-reactions. We can then use the standard reduction 
+potentials and Equation 20.10 to calculate the standard emf, E°, 
+for the reaction. If a reaction is spontaneous, its standard emf 
+must be a positive number.
+ 
+▶Practice Exercise 1
+Which of the following elements is capable of oxidizing 
+Fe2+1aq2 ions to Fe3+1aq2 ions: chlorine, bromine, iodine?  
+(a) I2 (b) Cl2 (c) Cl2 and I2 (d) Cl2 and Br2 (e) all three elements
+ 
+▶Practice Exercise 2
+Using the standard reduction potentials listed in Appendix E, 
+determine which of the following reactions are spontaneous 
+under standard conditions:
+Reduction: 
+2 H+1aq2 + 2 e- ¡ H21g2   

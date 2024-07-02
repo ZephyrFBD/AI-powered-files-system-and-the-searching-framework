@@ -1,0 +1,39 @@
+ object.
+Columns that support a weight, such as the columns of a Greek temple (Fig. 9–21),
+are subjected to compressive stress. Equations 9–4 and 9–5 apply equally well to
+compression and tension, and the values for the modulus E are usually the same.
+E =
+FA
+¢ll0
+=
+stress
+strain
+.
+F
+A = E ¢l
+l0
+strain = change in length
+original length
+=
+¢l
+l0
+,
+Nm2.
+stress = force
+area
+=
+F
+A
+,
+FA
+l0
+Figure 9–22 compares tensile and compressive stresses as well as the third type,
+shear stress. An object under shear stress has equal and opposite forces applied
+across its opposite faces. A simple example is a book or brick firmly attached to a
+tabletop, on which a force is exerted parallel to the top surface. The table exerts an
+equal and opposite force along the bottom surface. Although the dimensions of the
+object do not change significantly, the shape of the object does change, Fig. 9–22c.
+An equation similar to Eq. 9–4 can be applied to calculate shear strain:
+(9;6)
+but 
+and A must be reinterpret

@@ -1,0 +1,17 @@
+by the system on something in the surroundings.
+Thus it is reasonable to extend conservation of energy and propose an impor-
+tant law: the change in internal energy of a closed system,
+will be equal to
+the energy added to the system by heating minus the work done by the system on
+the surroundings. In equation form we write
+(15;1)
+where Q is the net heat added to the system and W is the net work done by the system.
+We must be careful and consistent in following the sign conventions for Q and W.
+Because W in Eq. 15–1 is the work done by the system, then if work is done on the
+system, W will be negative and U will increase. Similarly, Q is positive for heat
+added to the system, so if heat leaves the system, Q is negative. [Caution: Elsewhere
+you may sometimes encounter the opposite convention for W where W is defined
+as the work done on the system; in that case Eq. 15–1 is written as
+]
+Equation 15–1 is known as the first law of thermodynamics. It is one of the
+great laws of physics, and i

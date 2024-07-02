@@ -1,0 +1,32 @@
+ision? Think about the conservation laws. They are your tools. Start a problem
+by asking yourself whether the conservation laws apply in the given situation.
+Here, we determined that momentum is conserved only during the brief colli-
+sion, which we called part (1). But in part (1), because the collision is inelastic, the
+conservation of mechanical energy is not valid. Then in part (2), conservation 
+of mechanical energy is valid, but not conservation of momentum.
+Note, however, that if there had been significant motion of the pendulum
+during the deceleration of the projectile in the block, then there would have
+been an external force (gravity) during the collision, so conservation of momen-
+tum would not have been valid in part (1).
+v = m + M
+m
+v¿ = m + M
+m
+22gh,
+v¿
+v¿ = 22gh.
+v¿:
+1
+2 (m + M)v¿2
++   0 = 0
++   (m + M)gh.
+ 
+(ke + pe) just after collision = (ke + pe) at pendulum’s maximum height
+y = h
+y = 0
+v¿
+mv = (m + M)v¿,
+ 
+total p before = total p after
+EXAMPLE 7;9
+P H Y S I C S  A P

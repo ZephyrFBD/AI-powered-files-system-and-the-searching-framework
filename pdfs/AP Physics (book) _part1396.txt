@@ -1,0 +1,16 @@
+ gas
+thermometer.
+Standard Temperature Scale
+Different materials do not expand in quite the same way over a wide temperature
+range. Consequently, if we calibrate different kinds of thermometers exactly as
+described above, they will not usually agree precisely.
+Because of such discrepancies, some standard kind of thermometer must be
+chosen so that all temperatures can be precisely defined. The chosen standard for
+this purpose is the constant-volume gas thermometer. As shown in the simplified
+diagram of Fig. 13–8, this thermometer consists of a bulb filled with a low-
+pressure gas connected by a thin tube to a mercury manometer (Section 10–6).
+The volume of the gas is kept constant by raising or lowering the right-hand tube
+of the manometer so that the mercury in the left-hand tube coincides with the
+reference mark. An increase in temperature causes a proportional increase in
+pressure in the bulb. Thus the tube must be lifted higher to keep the gas volume
+constant. The height of the merc

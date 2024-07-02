@@ -1,0 +1,23 @@
+ary reaction, we are able to write the rate law using 
+the coefficients for the reactants in the equation as the reaction 
+orders.
+Solve The reaction is bimolecular, involving one molecule of H2 
+and one molecule of Br2. Thus, the rate law is first order in each 
+reactant and second order overall:
+Rate = k3H243Br24
+Comment Experimental studies of this reaction show that the reac-
+tion actually has a very different rate law:
+Rate = k3H243Br241>2
+Continued
+ 
+SECTION 14.6   
+Reaction Mechanisms 
+595
+596 
+CHAPTER 14 Chemical Kinetics
+The Rate-Determining Step for a Multistep Mechanism
+As with the reaction in Sample Exercise 14.13, most reactions occur by mechanisms that 
+involve two or more elementary reactions. Each step of the mechanism has its own rate 
+constant and activation energy. Often one step is much slower than the others, and the 
+overall rate of a reaction cannot exceed the rate of the slowest elementary step. Because 
+the slow step limits the overall reaction rate, it is call

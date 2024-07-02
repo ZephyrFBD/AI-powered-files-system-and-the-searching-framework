@@ -1,0 +1,15 @@
+ave to be turned off to get this circuit below 20 A. (Houses
+and apartments usually have several circuits, each with its own fuse or circuit
+breaker; try moving one of the devices to another circuit.) If the circuit is designed
+with heavier wire and a 30-A fuse, the fuse shouldn’t blow—if it does, a short may be
+the problem. (The most likely place for a short is in the cord of one of the devices.)
+Proper fuse size is selected according to the wire used to supply the current. A prop-
+erly rated fuse should never be replaced by a higher-rated one, even in a car.
+A fuse blowing or a circuit breaker opening is acting like a switch, making an
+“open circuit.” By an open circuit, we mean that there is no longer a complete
+conducting path, so no current can flow; it is as if R = q.
+Will a fuse blow? Determine the total current drawn by
+all the devices in the circuit of Fig. 18–20.
+APPROACH Each device has the same 120-V voltage across it. The current each
+draws from the source is found from
+Eq

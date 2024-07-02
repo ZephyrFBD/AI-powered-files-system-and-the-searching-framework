@@ -1,0 +1,24 @@
+. So 
+at room temperature (300 K), where thermal energies (that is, average kinetic
+energy—see Chapter 13) are on the order of
+almost no electrons
+can acquire the 5 eV needed to reach the conduction band. When a potential
+difference is applied across the material, no available states are accessible to the
+electrons, and no current flows. Hence, the material is a good insulator.
+3
+2 kT L 0.04 eV,
+Eg,
+2s
+3s
+1s
+2p
+Figure 29–25 compares the relevant energy bands (a) for conductors,
+(b) for insulators, and also (c) for the important class of materials known as
+semiconductors. The bands for a pure (or intrinsic) semiconductor, such as silicon
+or germanium, are like those for an insulator, except that the unfilled conduction
+band is separated from the filled valence band by a much smaller energy gap,
+which for silicon is 
+At room temperature, electrons are moving
+about with varying amounts of kinetic energy 
+according to kinetic
+theory, Chapter 13. A few electrons can acquire enough thermal e

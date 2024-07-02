@@ -1,0 +1,27 @@
+ it is found
+that light with wavelengths shorter than 226 nm will cause
+the diamond to conduct. What is the energy gap between
+the valence band and the conduction band for diamond?
+47. The energy gap between valence and conduction bands in
+zinc sulfide is 3.6 eV. What range of wavelengths can a
+photon have to excite an electron from the top of the
+valence band into the conduction band?
+1.8 revs
+O2
+8.9 * 1011 Hz
+General Problems
+FIGURE 29–44
+Problem 51.
+856
+CHAPTER 29
+Molecules and Solids
+48. Most of the Sun’s radiation has wavelengths shorter than
+1100 nm. For a solar cell to absorb all this, what energy gap
+ought the material have?
+49. A TV remote control emits IR light. If the detector on the
+TV set is not to react to visible light, could it make use of
+silicon as a “window” with its energy gap 
+What is the shortest-wavelength light that can strike silicon
+without causing electrons to jump from the valence band to
+the conduction band?
+50. Green and blue LEDs became available many ye

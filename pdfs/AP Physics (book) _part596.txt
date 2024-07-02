@@ -1,0 +1,16 @@
+ently, we can define the change in gravitational potential energy,
+in terms of the work done by gravity itself. Starting from Eq. 6–5b, we obtain
+or
+(6;7b)
+That is, the change in gravitational potential energy as the object moves from
+position 1 to position 2 is equal to the negative of the work done by gravity itself.
+Gravitational potential energy depends on the vertical height of the object
+above some reference level (Eq. 6–6). In some situations, you may wonder from
+what point to measure the height y. The gravitational potential energy of a book
+held high above a table, for example, depends on whether we measure y from
+the top of the table, from the floor, or from some other reference point. What 
+is physically important in any situation is the change in potential energy,
+because that is what is related to the work done, Eqs. 6–7; and it is 
+that 
+can be measured. We can thus choose to measure y from any reference level 
+that is convenient, but we must choose the reference level at

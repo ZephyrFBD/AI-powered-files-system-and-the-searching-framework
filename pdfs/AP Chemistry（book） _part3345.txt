@@ -1,0 +1,15 @@
+r of protons and neutrons. 
+Nuclides that are radioactive are called radionuclides, and atoms containing these 
+nuclei are called radioisotopes.
+Nuclear Equations
+Most nuclei in nature are stable and remain intact indefinitely. Radionuclides, however, 
+are unstable and spontaneously emit particles and electromagnetic radiation. Emis-
+sion of radiation is one of the ways in which an unstable nucleus is transformed into a 
+more stable one that has less energy. The emitted radiation is the carrier of the excess 
+energy. Uranium-238, for example, is radioactive, undergoing a nuclear reaction emit-
+ting helium-4 nuclei. The helium-4 particles are known as alpha (A) particles, and a 
+stream of them is called alpha radiation. When a 238
+92U nucleus loses an alpha particle, the 
+remaining fragment has an atomic number of 90 and a mass number of 234. The element 
+with atomic number 90 is Th, thorium. Therefore, the products of uranium-238 decom-
+position are an alpha particle and a thorium-234 

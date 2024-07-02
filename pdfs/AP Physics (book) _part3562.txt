@@ -1,0 +1,17 @@
+les in sync, machines called synchrocyclotrons reduce the frequency in
+time to correspond to the increase of 
+(in Eq. 32–2) as a packet of charged
+particles increases in speed more slowly at larger orbits.
+Synchrotron
+Another way to accelerate relativistic particles is to increase the magnetic field B
+in time so as to keep f (Eq. 32–2) constant as the particles speed up. Such devices
+are called synchrotrons; the particles move in a circle of fixed radius, which can
+be very large. The larger the radius, the greater the 
+of the particles can be for
+a given magnetic field strength (see argument on previous page). The biggest 
+synchrotron of all is at the European Center for Nuclear Research (CERN) in
+Geneva, Switzerland, the Large Hadron Collider (LHC). It is 4.3 km in radius,
+and 27 km in circumference, and accelerates protons to 4 TeV (soon to be 
+7 TeV).
+The Tevatron accelerator at Fermilab (Fermi National Accelerator Laboratory,
+near Chicago, Illinois, has a radius of 1.0 km.† The Tev

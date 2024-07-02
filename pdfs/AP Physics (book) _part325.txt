@@ -1,0 +1,44 @@
+storm. When you last stopped,
+you noticed that the snow was coming down vertically, but
+it is passing the windows of the moving car at an angle of
+7.0° to the horizontal. Estimate the speed of the vertically
+falling snowflakes relative to the ground. [Hint: Construct
+a relative velocity diagram similar to Fig. 3–29 or 3–30. Be
+careful about which angle is the angle given.]
+25 mih
+12 ms
+Search and Learn 
+A:
+B: (a).
+C: They hit at the same time.
+3.0 22 L 4.2 units.
+D: (i) Nowhere; (ii) at the highest point; (iii) nowhere.
+E: (d). It provides the initial velocity of the box.
+F: (a) 
+, horizontal; (b) 
+down.
+9.80 ms2
+v = vx 0 = 16.0 ms
+ANSWERS TO EXERCISES
+C
+H
+A
+P
+T
+E
+R
+Dynamics:
+Newton’s Laws of Motion
+75
+4
+A space shuttle 
+is carried out into space by 
+powerful rockets. They are 
+accelerating, increasing in 
+speed rapidly. To do so,
+a force must be exerted on 
+them according to Newton’s 
+second law,
+What exerts this force? The 
+rocket engines exert a force 
+on the gases they push out

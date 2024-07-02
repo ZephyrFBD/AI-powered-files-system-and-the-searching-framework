@@ -1,0 +1,29 @@
+om one object to
+another because of a difference of temperature. Heat is thus
+measured in energy units, such as joules.
+Heat and internal energy are also sometimes specified in
+calories or kilocalories (kcal), where
+is the amount of heat needed to raise the temperature of 1 kg
+of water by 1 C°.
+The specific heat, c, of a substance is defined as the energy
+(or heat) required to change the temperature of unit mass of
+the substance by 1 degree; as an equation,
+(14;2)
+where Q is the heat absorbed or given off,
+is the temperature
+increase or decrease, and m is the mass of the substance.
+When heat flows between parts of an isolated system, con-
+servation of energy tells us that the heat gained by one part of
+the system is equal to the heat lost by the other part of the
+system. This is the basis of calorimetry, which is the quantitative
+measurement of heat exchange.
+¢T
+Q = mc ¢T,
+1 kcal = 4.186 kJ
+U =
+3
+2 NkT =
+3
+2 nRT
+Exchange of energy occurs, without a change in temperature,
+whenever a sub

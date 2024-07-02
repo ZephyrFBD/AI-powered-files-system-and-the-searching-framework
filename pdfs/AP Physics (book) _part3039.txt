@@ -1,0 +1,25 @@
+erated by voltages on the order of 
+have wavelengths of
+about 0.004 nm. The maximum resolution obtainable would be on this order, but
+in practice, aberrations in the magnetic lenses limit the resolution in transmission
+electron microscopes to about 0.1 to 0.5 nm. This is still 1000 times better than a
+visible-light microscope, and corresponds to a useful magnification of about a
+million. Such magnifications are difficult to achieve, and more common magnifi-
+cations are 
+to 
+The maximum resolution of a scanning electron microscope
+is less, typically 5 to 10 nm although new high-resolution SEMs approach 1 nm.
+105.
+104
+105 V
+FIGURE 27–15 Scanning electron
+microscope. Scanning coils move an
+electron beam back and forth across
+the specimen. Secondary electrons
+produced when the beam strikes the
+specimen are collected and their
+intensity affects the brightness of
+pixels in a monitor to produce a
+picture.
+The scanning tunneling electron microscope (STM), developed in the 1980s,
+contains a tin

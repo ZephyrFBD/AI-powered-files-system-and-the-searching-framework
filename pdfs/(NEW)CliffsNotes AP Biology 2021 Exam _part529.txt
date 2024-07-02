@@ -1,0 +1,16 @@
+n
+addition, by binding to surface antigens of nonself cells, antibodies stimulate complement proteins to bring about the
+lysis of pathogens.
+When B cells encounter antigens that specifically bind to their antibodies, the B cells proliferate, producing two
+kinds of daughter B cells, as follows:
+Plasma cells are B cells that release their specific antibodies,
+which then circulate through the body, binding to antigens.
+Memory cells are long-lived B cells that do not release their
+antibodies in response to the immediate antigen invasion. Instead,
+the memory cells circulate in the body and respond quickly to
+eliminate any subsequent invasion by the same antigen. This
+mechanism provides immunity to many diseases after the first
+occurrence of the disease.
+2. T cells. T cells are lymphocytes that originate in the bone marrow but mature in the thymus gland(remember T
+cell for thymus). Like B cells, the plasma membranes of T cells have antigen receptors. However, these receptors are
+not antibodi

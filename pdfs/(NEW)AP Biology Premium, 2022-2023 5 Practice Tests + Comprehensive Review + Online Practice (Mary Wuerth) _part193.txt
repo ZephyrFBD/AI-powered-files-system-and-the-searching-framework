@@ -1,0 +1,12 @@
+ts:
+1. Fixation of carbon: Fixation means turning a biologically unusable form into a usable form. In the fixation
+of carbon, the enzyme ribulose-bisphosphate-carboxylase (Rubisco, for short) adds one molecule of carbon
+dioxide to the five-carbon molecule ribulose-bisphosphate (RuBP, for short). This produces a six-carbon
+intermediate that is unstable, which then breaks down further into two three-carbon molecules.
+2. Reduction: Now the ATP and NADPH from the light-dependent reactions are used to reduce the three-
+carbon molecules. The energy to do this comes from the ATP, and the NADPH provides the hydrogen atoms
+(reducing power). A three-carbon molecule called glyceraldehyde-3-phosphate (simply known as G3P) is
+produced at the end of this process. G3P can be used to make sugars, but some of the G3P is used in the final
+part of the Calvin cycle: regeneration.
+3. Regeneration of RuBP: In order for the Calvin cycle to continue, the five-carbon RuBP must be
+regenerated. For every five mo

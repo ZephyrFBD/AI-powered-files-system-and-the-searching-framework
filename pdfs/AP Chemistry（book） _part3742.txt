@@ -1,0 +1,24 @@
+ed to use crystal-field splitting diagrams from the 
+text to determine which complex has which geometry.
+Plan We need to determine the number of d electrons in Ni2+ and 
+then use Figure 23.33 for the tetrahedral complex and Figure 23.34 
+for the square-planar complex.
+Solve Nickel(II) has the electron configuration 3Ar43d8. With 
+very few exceptions tetrahedral complexes are high spin and 
+square-planar complexes are low spin. Therefore, the population 
+of the d orbitals in the two geometries is
+dx2−y2
+dz2
+Tetrahedral
+dxz, dyz
+dxy
+Square planar
+t2  (dxy, dyz, dxz)
+e  (dx2−y2, dz2)
+The tetrahedral complex has two unpaired electrons, and the 
+square-planar complex has none. We know from Section 23.1 that 
+the tetrahedral complex must be paramagnetic and the square pla-
+nar must be diamagnetic. Therefore, 3NiCl442- is tetrahedral, and 
+3Ni(CN)442- is square planar.
+Comment Nickel(II) forms octahedral complexes more frequently 
+than square-planar ones, whereas d8 metals from periods 5 and 

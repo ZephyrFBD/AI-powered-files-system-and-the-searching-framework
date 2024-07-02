@@ -1,0 +1,32 @@
+nternal energy of the bullet and tree both increase, as both experi-
+ence a rise in temperature. If we had chosen the bullet alone as our system, work
+would be done on it and heat transfer would occur.
+=
+1
+2 A3.0 * 10–3 kgB C(400 ms)2 - (200 ms)2D
+= 180 J.
+¢U =
+–¢ke =
+–Akef - keiB
+=
+1
+2 mAvi
+2 - vf
+2B
+¢ke + ¢U = 0
+Q = W = ¢pe = 0,
+200 ms.
+400 ms
+EXAMPLE 15;2
+15–2 Thermodynamic Processes and
+the First Law
+Let us analyze some thermodynamic processes in light of the first law of 
+thermodynamics.
+Isothermal Processes 
+To begin, we choose a very simple system: a fixed mass of an ideal gas enclosed in
+a container fitted with a movable piston as shown in Fig. 15–1.
+First we consider an idealized process, such as adding heat or doing work, that is
+carried out at constant temperature. Such a process is called an isothermal process
+(from the Greek meaning “same temperature”). If the system is an ideal gas, then
+(Eq. 13–3), so for a fixed amount of gas kept at constant temperature,
+Thus a gra

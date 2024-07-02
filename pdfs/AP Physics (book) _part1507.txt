@@ -1,0 +1,14 @@
+o be precise, the particular
+temperature range from 14.5°C to 15.5°C is specified because the heat required 
+is very slightly different at different temperatures. The difference is less than 1%
+over the range 0 to 100°C, and we will ignore it for most purposes.] More often
+used than the calorie is the kilocalorie (kcal), which is 1000 calories. Thus 1 kcal
+is the heat needed to raise the temperature of 1 kg of water by 1 C°. Often a kilo-
+calorie is called a Calorie (with a capital C), and this Calorie (or the kJ) is used to
+specify the energy value of food. In the British system of units, heat is measured
+in British thermal units (Btu). One Btu is defined as the heat needed to raise 
+the temperature of 1 lb of water by 1 F°. It can be shown (Problem 5) that
+Also, one therm is 105 Btu.
+The idea that heat is related to energy transfer was pursued by a number of
+scientists in the 1800s, particularly by an English brewer, James Prescott Joule
+(1818–1889). Joule and others performed a numb

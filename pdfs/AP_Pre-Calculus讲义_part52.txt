@@ -1,0 +1,53 @@
+f $1000 is invested at an interest rate of 12% per year. Find the amounts in the 
+account after 3 years if interest is compounded annually, semiannually, quarterly, monthly, 
+and daily. 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3 Natural Exponential Functions 
+ 
+72 
+2.3.1 The Number e 
+The number e is defined as the value that (1+1/n)n approaches as n becomes large. 
+ 
+It appears that, rounded to five decimal places, e ≈ 2.71828; in fact, the approximate value 
+to 20 decimal places is 
+e ≈ 2.71828182845904523536 
+It can be shown that e is an irrational number, so we cannot write its exact value in 
+decimal form. 
+ 
+2.3.2 The Natural Exponential Function 
+The natural exponential function is the exponential function 
+( )
+x
+f x
+e
+=
+ 
+with base e. It is often referred to as the exponential function. 
+Since 2 < e < 3, the graph of the natural exponential function lies between the graphs of 
+y=2x and y=3x, as shown below.  
+ 
+ 
+Example 1 
+ 
+73 
+Evaluate each expression 

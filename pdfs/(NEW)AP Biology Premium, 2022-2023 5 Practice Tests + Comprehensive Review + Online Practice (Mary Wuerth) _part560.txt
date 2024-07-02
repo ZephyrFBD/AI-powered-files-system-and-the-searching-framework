@@ -1,0 +1,20 @@
+5
+(D) 152
+4. In 1986, the quail population in Golden Gate Park in San Francisco was 140 birds. Hunting by feral cats
+reduced the number of quail to 32 birds by 2016. If the birth rate of quail over this period averaged 20.4
+quail/year, what was the average death rate of quail during this period?
+(A) 2.4 quail/year
+(B) 3.6 quail/year
+(C) 24 quail/year
+(D) 36 quail/year
+5. A population of 190 jackrabbits lives in McInnis Park in San Rafael, California. The carrying capacity of the
+park for jackrabbits is approximately 200 rabbits. If the rmax for the jackrabbit population is 1.5 surviving
+jackrabbits per year, what is the estimated increase in the number of jackrabbits in one year?
+(A) 10
+(B) 14
+(C) 285
+(D) 300
+6. Which of the following statements describes a population that could experience exponential growth?
+(A) a population that was limited by density-dependent factors
+(B) a population whose size is beyond the carrying capacity of the environment
+(C) a population in which there are n

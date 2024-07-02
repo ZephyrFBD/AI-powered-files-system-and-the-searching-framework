@@ -1,0 +1,18 @@
+ To initiate transcription, RNA
+polymerase must bind to the promoter. This process requires the
+assistance of transcription factors, whose presence or absence enables or
+inhibits transcription.
+Regulation at the Post-Transcriptional Regulation Level
+Alternative RNA splicing is an important means of regulating gene
+expression in which different mRNA molecules are produced from the
+same primary transcript, depending on which RNA segments are treated
+as introns (intervening sequences) and which are treated as exons
+(expressed sequences). Regulatory proteins specific to a cell type control
+intron-exon choices by binding to RNA sequences within the primary
+transcript. It has been estimated that 90% of human-protein coding genes
+are subject to alternative splicing. (See Figure 9.7.)
+******ebook converter DEMO Watermarks*******
+Degradation of mRNA
+The span of time after gene transcription before the degradation of
+mRNA is another opportunity to regulate gene expression. Bacterial
+mRNA molecul

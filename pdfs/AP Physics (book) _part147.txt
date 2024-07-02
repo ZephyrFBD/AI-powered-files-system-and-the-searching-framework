@@ -1,0 +1,45 @@
+from rest, speed up to 
+remain at that velocity
+for a time, then slow down to 
+in a traffic jam, and finally stop at its
+destination after traveling a total of 15 km in 30 min. This trip is plotted on the
+graph of Fig. 2–9b. Also shown on the graph is the average velocity (dashed
+line), which is  
+Graphs are often useful for analysis of motion; we discuss additional insights
+graphs can provide as we go along, especially in Section 2–8.
+v = ¢x¢t = 15 km0.50 h = 30 kmh.
+20 kmh
+50 kmh,
+v,
+v,
+¢t
+¢x¢t
+lim¢t S 0
+v =
+lim
+¢t S 0
+¢x
+¢t
+.
+v,
+¢t
+75 kmh
+75 kmh.
+†We do not simply set
+in this definition, for then 
+would also be zero, and we would have
+an undetermined number. Rather, we consider the ratio
+as a whole. As we let 
+approach
+zero,
+approaches zero as well. But the ratio 
+approaches some definite value, which is the
+instantaneous velocity at a given instant.
+¢x¢t
+¢x
+¢t
+¢x¢t,
+¢x
+¢t = 0
+EXERCISE B What is your instantaneous speed at the instant you turn around to move
+in the opposit

@@ -1,0 +1,25 @@
+actants are an acid, HNO3, and a base, Ca1OH22.  
+The volume and molarity of HNO3 are given, and we are asked  
+how many grams of Ca1OH22 are needed to neutralize this  
+quantity of HNO3.
+Plan Following the steps outlined by the green arrows in Figure 4.17, 
+we use the molarity and volume of the HNO3 solution (substance 
+B in Figure 4.17) to calculate the number of moles of HNO3. We 
+then use the balanced equation to relate moles of HNO3 to moles 
+of Ca1OH22 (substance A). Finally, we use the molar mass to con-
+vert moles to grams of Ca1OH22:
+VHNO3 * MHNO3 1 mol HNO3 1 mol Ca1OH22 1 g Ca1OH22
+Solve
+The product of the molar concentration 
+of a solution and its volume in liters gives 
+the number of moles of solute:
+Because this is a neutralization reaction, 
+HNO3 and Ca1OH22 react to form H2O and 
+the salt containing Ca2+ and NO3
+-:
+2 HNO31aq2 + Ca1OH221s2 ¡ 2 H2O1l2 + Ca1NO3221aq2
+Continued
+150 
+CHAPTER 4 Reactions in Aqueous Solution
+titrations
+To determine the concentration of a parti

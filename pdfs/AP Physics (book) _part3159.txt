@@ -1,0 +1,14 @@
+asic assumption is that all electrons are identical, indis-
+tinguishable one from another. Similarly, all protons are identical, all neutrons are
+identical, and so on. The exclusion principle does not apply to particles with integer
+spin (0, 1, 2, and so on), such as the photon and meson, all of which are referred
+to as bosons (after Satyendranath Bose, who derived a statistical theory for them).]
+28–8 The Periodic Table of Elements
+More than a century ago, Dmitri Mendeleev (1834–1907) arranged the (then)
+known elements into what we now call the Periodic Table of the elements. The
+atoms were arranged according to increasing mass, but also so that elements with
+similar chemical properties would fall in the same column. Today’s version is shown
+inside the back cover of this book. Each square contains the atomic number Z,
+the symbol for the element, and the atomic mass (in atomic mass units). Finally,
+the lower left corner shows the configuration of the ground state of the atom. This
+requ

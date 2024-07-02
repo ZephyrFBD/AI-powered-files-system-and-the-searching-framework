@@ -1,0 +1,21 @@
+has
+the greater density?
+5. A tub of water rests on a scale as shown in Fig. 10–63. The
+weight of the tub plus water is 100 N. A 50-N concrete brick
+is then lowered down from a fixed arm into the water but
+does not touch the tub. What does the scale read now? [Hint:
+Draw two free-body diagrams,one for the brick and a second
+one for the tub + water + brick.]
+6. What approximations are made in the derivation of
+Bernoulli’s equation? Qualitatively, how do you think
+Bernoulli’s equation would change if each of these 
+approximations was not made? (See Sections 10–8, 10–9,
+10–11, and 10–12.)
+*7. Estimate the density of the water 5.4 km deep in the sea.
+(See Table 9–1 and Section 9–5 regarding bulk modulus.)
+By what fraction does it differ from the density at the 
+surface?
+1. A 5.0-kg block and 4.0 kg of water in a 0.50-kg container
+are placed symmetrically on a board that can balance at
+the center (Fig. 10–60). A solid aluminum cube of sides
+10.0 cm is lowered into the water. How much of the

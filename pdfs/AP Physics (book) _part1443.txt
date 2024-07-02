@@ -1,0 +1,19 @@
+ given substance. The various curves
+(labeled A, B, C, and D) show how the pressure varies as a function of volume
+for four different values of constant temperature 
+and 
+The red
+dashed curve 
+represents the behavior of a gas as predicted by the ideal gas
+law; that is,
+The solid curve A represents the behavior of a real
+gas at the same temperature. Notice that at high pressure, the volume of a 
+real gas is less than that predicted by the ideal gas law. The curves B and C in
+Fig. 13–21 represent the gas at successively lower temperatures, and we see that
+the behavior deviates even more from the curves predicted by the ideal gas law
+(for example,
+), and the deviation is greater the closer the gas is to liquefying.
+To explain this behavior, note that at higher pressure we expect the molecules
+to be closer together. And at lower temperatures, the potential energy associated
+with attractive forces between the molecules (which we ignored before) is no 
+longer negligible. These attractive for

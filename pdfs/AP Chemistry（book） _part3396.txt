@@ -1,0 +1,17 @@
+radiotracers are further illustrated by 
+positron emission tomography (PET). PET is used for clinical diagnosis of 
+many diseases. In this method, compounds containing radionuclides 
+that decay by positron emission are injected into a patient. These 
+compounds are chosen to enable researchers to monitor blood ﬂow, 
+oxygen and glucose metabolic rates, and other biological functions. 
+Some of the most interesting work involves study of the brain, which 
+depends on glucose for most of its energy. Changes in how this sugar 
+is metabolized or used by the brain may signal a disease such as can-
+cer, epilepsy, Parkinson’s disease, or schizophrenia.
+The radionuclides that are most widely used in PET are 
+ 
+carbon-11 1t1>2 = 20.4  min2, ﬂuorine-18 1t1>2 = 110  min2, oxy-
+gen-15 1t1>2 = 2  min2, and nitrogen-13 1t1>2 = 10 min2. Glucose, 
+for example, can be labeled with carbon@11. Because the half-lives of 
+positron emitters are so short, they must be generated on site using a 
+cyclotron and the

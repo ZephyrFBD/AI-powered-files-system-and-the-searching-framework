@@ -1,0 +1,17 @@
+2 state is at a lower energy than one in the n = 1 state, 
+and (c) the energy of an emitted photon equals the energy 
+difference of the two states involved in the emission.
+ 6.37  Is energy emitted or absorbed when the following electronic 
+transitions occur in hydrogen? (a) from n = 4 to n = 2,  
+(b) from an orbit of radius 2.12 Å to one of radius 8.46 Å, (c) an 
+electron adds to the H + ion and ends up in the n = 3 shell?
+ 6.38  Indicate whether energy is emitted or absorbed when the 
+following electronic transitions occur in hydrogen: (a) from 
+n = 2 to n = 6, (b) from an orbit of radius 4.76 Å to one of 
+radius 0.529 Å, (c) from the n = 6 to the n = 9 state.
+ 6.39  (a) Using Equation 6.5, calculate the energy of an electron 
+in the hydrogen atom when n = 2 and when n = 6. Calcu-
+late the wavelength of the radiation released when an elec-
+tron moves from n = 6 to n = 2. (b) Is this line in the visible 
+region of the electromagnetic spectrum? If so, what color is it?
+ 6.40  Consider 

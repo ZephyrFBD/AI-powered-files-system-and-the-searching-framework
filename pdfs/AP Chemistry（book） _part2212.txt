@@ -1,0 +1,22 @@
+rate law and the data from experiment 1, we have:
+k = rate
+3A42 =
+4.0 * 10-5 M>s
+10.100 M22
+= 4.0 * 10-3 M-1 s-1
+(c) Using the rate law from part (a) and the rate constant from 
+part (b), we have:
+Rate = k3A42
+ = 14.0 * 10-3 M-1s -1210.050 M22
+ = 1.0 * 10-5 M>s
+Because [B] is not part of the rate law, it is irrelevant to the 
+rate if there is at least some B present to react with A.
+582 
+CHAPTER 14 Chemical Kinetics
+Equations 14.12 and 14.13 can be used with any concentration units as long as the 
+units are the same for both 3A4t and 3A40. When dealing with gases, we can use pressure 
+as a concentration in Equations 14.12 and 14.13. This substitution follows from the fact 
+that the ideal gas law (see Section 10.4) dictates that at constant temperature the pressure 
+is directly proportional to the concentration (n/V).
+For a first-order reaction, Equation 14.12 or 14.13 can be used in several ways. 
+Given any three of the following quantities, we can solve for the fourth: k, t, 3A40, and

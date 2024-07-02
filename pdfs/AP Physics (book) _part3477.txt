@@ -1,0 +1,53 @@
+ 10–23 JKB
+L 2 * 109 K.
+3
+2 kT = G,
+ke L 0.22 MeV,
+L
+¢9.0 * 109 Nm2
+C2
+≤
+A1.6 * 10–19 CB
+2
+A3.2 * 10–15 mBA1.6 * 10–19 JeVB
+L 0.45 MeV.
+ 
+2ke L
+1
+4p 0
+e2
+Ard + rtB
+rd + rt = 3.2 * 10–15 m.
+rd L 1.5 fm,  rt L 1.7 fm,
+At = 3
+Ad = 2
+ke
+EXAMPLE 31;9
+ESTIMATE
+108 K.
+SECTION 31–3
+Nuclear Fusion
+897
+FIGURE 31–13 “Magnetic bottle”
+used to confine a plasma.
+Current-carrying wires
+Magnetic ﬁeld lines
+Plasma
+FIGURE 31–15 (a) Tokamak: split
+image view of the Joint European
+Torus (JET) located near Oxford,
+England. Interior, on the left, and an
+actual plasma in there 
+on the right. (b) A 2-mm-diameter
+round d–t (deuterium–tritium)
+inertial target, being filled through 
+a thin glass tube from above, at the
+National Ignition Facility (NIF),
+Lawrence Livermore National
+Laboratory, California.
+(T L 1 * 108 K)
+(a)
+(b)
+back toward the center. Unfortunately, magnetic bottles develop “leaks” and 
+the charged particles slip out before sufficient fusion takes place. The most
+promising design today is the

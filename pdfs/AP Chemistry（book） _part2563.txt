@@ -1,0 +1,35 @@
+ pH 7 7?
+Calculate the pH of a 0.20 M solution of HCN. (Refer to Table 16.2 or Appendix D for the value of Ka.)
+Sample Exercise 16.12 
+Using Ka to Calculate pH
+SOLUTION
+Analyze We are given the molarity of a weak acid and are asked for 
+the pH. From Table 16.2, Ka for HCN is 4.9 * 10-10.
+Plan We proceed as in the example just worked in the text, writing 
+the chemical equation and constructing a table of initial and equi-
+librium concentrations in which the equilibrium concentration of 
+H+ is our unknown.
+Solve Writing both the chemical equation for the ionization reac-
+tion that forms H+1aq2 and the equilibrium-constant 1Ka2 expres-
+sion for the reaction:
+HCN1aq2 ∆ H +1aq2 + CN-1aq2
+Ka =
+3H+43CN-4
+3HCN4
+= 4.9 * 10-10
+Next, we tabulate the concentrations of the species involved in 
+the equilibrium reaction, letting x = 3H+4 at equilibrium:
+HCN1aq2   ∆    H+1aq2     +       
+CN-1aq2
+Initial  
+concentration (M)
+0.20
+0
+0
+Change in  
+concentration (M)
+-x
++x
++x
+Equilibrium  
+concentration (M

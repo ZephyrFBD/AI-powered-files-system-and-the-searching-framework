@@ -1,0 +1,32 @@
+ing constant of
+the bond is unchanged (sulfur is just below oxygen in the
+Periodic Table). Predict the frequency after the sulfur 
+substitution.
+70. A rectangular block of wood floats in a calm lake. Show
+that, if friction is ignored, when the block is pushed 
+gently down into the water and then released, it will then
+oscillate with SHM. Also, determine an equation for the
+force constant.
+f = 3.7 * 1013 Hz.
+t
+x = 0.25 sin(4.70 t)
+General Problems
+56. (II) In Problem 55 (Fig.11–55), the length of the string may
+be adjusted by moving the pulley. If the hanging mass m is
+fixed at 0.080 kg, how many different standing wave patterns
+may be achieved by varying between 10 cm and 1.5 m?
+l
+l
+l
+Fixed
+end
+Free
+end
+326
+CHAPTER 11
+Oscillations and Waves
+71. A 320-kg wooden raft floats on a lake. When a 68-kg man
+stands on the raft, it sinks 3.5 cm deeper into the water.
+When he steps off, the raft oscillates for a while. (a) What
+is the frequency of oscillation? (b) What is the total energy
+of osci

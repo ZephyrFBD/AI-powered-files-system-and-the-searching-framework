@@ -1,0 +1,32 @@
+direction of the induced current, (b) the magnitude
+of the average induced emf, and (c) the average induced
+current if the coil resistance is 
+?
+11. (II) What is the direction of the induced current in the circu-
+lar loop due to the current shown in each part of Fig. 21–61?
+Explain why.
+2.5 
+0.750 m
+0.350 m
+F
+B
+FIGURE 21–62 Problem 14.
+I
+I
+FIGURE 21–59
+Problem 4.
+12. (II) A 600-turn solenoid, 25 cm long, has a diameter of
+2.5 cm. A 14-turn coil is wound tightly around the center of
+the solenoid. If the current in the solenoid increases uni-
+formly from 0 to 5.0 A in 0.60 s, what will be the induced emf
+in the short coil during this time?
+13. (II) When a car drives through the Earth’s magnetic field,
+an emf is induced in its vertical 55-cm-long radio antenna.
+If the Earth’s field 
+points north with a dip
+angle of 38°, what is the maximum emf induced in the
+antenna and which direction(s) will the car be moving to
+produce this maximum value? The car’s speed is 
+on
+a horizontal road.
+14. 

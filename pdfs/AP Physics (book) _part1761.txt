@@ -1,0 +1,61 @@
+ISE G Four charges of equal magnitude, but possibly different sign, are placed on
+the corners of a square. What arrangement of charges will produce an electric field with
+the greatest magnitude at the center of the square? (a) All four positive charges; (b) all
+four negative charges; (c) three positive and one negative; (d) two positive and two 
+negative; (e) three negative and one positive.
+E
+B
+2
+E
+B
+1
+a =
+F
+m
+= qE
+m
+=
+A1.60 * 10–19 CBA6.3 * 108 NCB
+9.11 * 10–31 kg
+= 1.1 * 1020 ms2.
+F = qE
+a = Fm
+= 6.3 * 108 NC.
+= A9.0 * 109 Nm2C2B ¢
+25 * 10–6 C
+A2.0 * 10–2 mB2 +
+50 * 10–6 C
+A8.0 * 10–2 mB2 ≤
+E = k Q1
+r1
+2 + k Q2
+r2
+2
+= k a Q1
+r1
+2 + Q2
+r2
+2 b
+E = k Qr2.
+©F
+B = q©E
+B.
+(©F
+B = ma
+B)
+Q2 .
+Q2
+Q1 ,
+Q1
+Q2 .
+Q1
+It is worthwhile summarizing here what we have learned about solving electrostatics
+problems.
+456
+CHAPTER 16
+Electric Charge and Electric Field
+P R O B L E M  S O L V I N G
+Ignore signs of charges and
+determine direction physically,
+showing directions on diagram
+above two poin

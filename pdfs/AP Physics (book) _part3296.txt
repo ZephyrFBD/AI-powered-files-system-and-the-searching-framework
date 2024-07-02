@@ -1,0 +1,14 @@
+ spectrum has a peak, like those in Fig. 29–34a, but is wider,
+100–200 nm at half maximum. The organic molecules are chosen so that the
+photons have frequencies in the color range desired, say for a display subpixel:
+bluish (B), greenish (G), or red (R).
+The conductive layer is also called the hole transport layer (HTL), which
+name expresses its purpose. The emissive layer, on the other hand (Fig. 29–38),
+serves two purposes: (1) it serves to transport electrons toward the junction, and
+(2) it is in this layer (near the junction) that holes meet electrons to form excitons
+and then combine and emit light. These two functions can be divided in a more
+sophisticated OLED that has three layers: Adjacent to the cathode is the 
+electron transport layer (ETL), plus there is an emissive layer (EML) sandwiched
+between the ETL and the HTL. The emissive layer can be complex, containing a
+host material plus a guest compound in small concentration—a kind of doping—
+to fine-tune energy levels and eff

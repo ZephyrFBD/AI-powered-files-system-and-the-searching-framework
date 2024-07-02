@@ -1,0 +1,29 @@
+kg
+7.0 kg
+4.0 m
+Axis
+(a)
+5.0 kg
+7.0 kg
+4.0 m
+Axis
+(b)
+0.50 m
+FIGURE 8;19 Example 8–9:
+calculating the moment of inertia.
+NEWTON’S SECOND LAW 
+FOR ROTATION
+C A U T I O N
+I depends on axis of rotation 
+and on distribution of mass
+For most ordinary objects, the mass is distributed continuously, and the calcu-
+lation of the moment of inertia,
+can be difficult. Expressions can, however,
+be worked out (using calculus) for the moments of inertia of regularly shaped
+objects in terms of the dimensions of the objects. Figure 8–20 gives these expres-
+sions for a number of solids rotated about the axes specified. The only one for
+which the result is obvious is that for the thin hoop or ring rotated about an axis
+passing through its center perpendicular to the plane of the hoop (Fig. 8–20a). For
+a hoop, all the mass is concentrated at the same distance from the axis, R. Thus
+where M is the total mass of the hoop. In Fig. 8–20, we
+use capital R to refer to the outer radius of an object (in (d) also 

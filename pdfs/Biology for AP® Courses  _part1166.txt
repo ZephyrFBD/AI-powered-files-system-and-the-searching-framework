@@ -1,0 +1,10 @@
+otein that influences the cycle can be altered in such a way as to override cell cycle
+checkpoints. An oncogene is any gene that, when altered, leads to an increase in the rate of cell cycle progression.
+Tumor Suppressor Genes
+Like proto-oncogenes, many of the negative cell cycle regulatory proteins were discovered in cells that had become
+cancerous. Tumor suppressor genes are segments of DNA that code for negative regulator proteins, the type of regulators
+that, when activated, can prevent the cell from undergoing uncontrolled division. The collective function of the best-
+understood tumor suppressor gene proteins, Rb, p53, and p21, is to put up a roadblock to cell cycle progression until certain
+events are completed. A cell that carries a mutated form of a negative regulator might not be able to halt the cell cycle if
+there is a problem. Tumor suppressors are similar to brakes in a vehicle: Malfunctioning brakes can contribute to a car crash.
+Mutated p53 genes have been identified in

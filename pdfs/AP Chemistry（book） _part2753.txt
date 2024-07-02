@@ -1,0 +1,30 @@
+rO4
+2 -4 = a
+1.3 * 10-4 mol Ag+
+L
+b a1 mol CrO4
+2 -
+2 mol Ag+
+b = 6.5 * 10-5 M
+and Ksp is
+Ksp = 3Ag+423CrO4
+2 -4 = 11.3 * 10-42216.5 * 10-52 = 1.1 * 10-12 
+Check We obtain a small value, as expected for a slightly soluble 
+salt. Furthermore, the calculated value agrees well with the one 
+given in Appendix D, 1.2 * 10-12.
+ 
+▶Practice Exercise 1
+You add 10.0 grams of solid copper(II) phosphate, Cu31PO422, 
+to a beaker and then add 100.0 mL of water to the beaker at 
+T = 298 K. The solid does not appear to dissolve. You wait a 
+long time, with occasional stirring and eventually measure 
+the equilibrium concentration of Cu2 +1aq2 in the water to 
+be 5.01 * 10-8 M. What is the Ksp of copper(II) phosphate?
+(a) 5.01 * 10-8 (b) 2.50 * 10-15 (c) 4.20 * 10-15
+(d) 3.16 * 10-37 (e) 1.40 * 10-37
+ 
+▶Practice Exercise 2
+A saturated solution of Mg1OH22 in contact with undis-
+solved Mg1OH221s2 is prepared at 25 °C. The pH of the solu-
+tion is found to be 10.17. Assuming that there are no other 
+simulta

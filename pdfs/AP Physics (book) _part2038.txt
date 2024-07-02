@@ -1,0 +1,23 @@
+ctric power plant can produce electricity at a fixed
+power P, but the plant operator is free to choose the volt-
+age V at which it is produced. This electricity is carried as an
+electric current I through a transmission line (resistance R)
+from the plant to the user, where it provides the user 
+with electric power 
+(a) Show that the reduction in
+power
+due to transmission losses is given by
+(b) In order to reduce power losses during
+transmission, should the operator choose V to be as large
+or as small as possible?
+76. A 2800-W oven is connected to a 240-V source. (a) What is
+the resistance of the oven? (b) How long will it take to
+bring 120 mL of 15°C water to 100°C assuming 65%
+efficiency? (c) How much will this cost at 
+77. A proposed electric vehicle makes use of storage batteries
+as its source of energy. It is powered by 24 batteries, each
+12 V,
+Assume that the car is driven on level roads at
+an average speed of 
+and the average friction force
+is 440 N. Assume 100% efficiency and ne

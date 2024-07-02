@@ -1,0 +1,12 @@
+ectron pairs with the single 1s electron of H to form the covalent bond that 
+holds HCl together (Figure 9.12). Because the other two chlorine 3p orbitals are already 
+each filled with a pair of electrons, they do not participate in the bonding to hydrogen. 
+Likewise, we can explain the covalent bond in Cl2 in terms of the overlap of the singly 
+occupied 3p orbital of one Cl atom with the singly occupied 3p orbital of another.
+There is always an optimum distance between the two nuclei in any covalent bond. 
+Figure 9.13 shows how the potential energy of a system consisting of two H atoms changes 
+as the atoms come together to form an H2 molecule. When the atoms are infinitely far 
+apart, they do not “feel” each other and so the energy approaches zero. As the distance 
+between the atoms decreases, the overlap between their 1s orbitals increases. Because of 
+the resulting increase in electron density between the nuclei, the potential energy of the 
+system decreases. That is, the strength 

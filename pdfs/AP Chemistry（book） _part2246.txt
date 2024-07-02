@@ -1,0 +1,36 @@
+ol@Kb a
+1 kJ
+1000 Jb
+ = 1.6 * 102 kJ>mol = 160 kJ>mol
+We report the activation energy to only two signiﬁcant ﬁgures 
+because we are limited by the precision with which we can read the 
+graph in Figure 14.18.
+(b) To determine the rate constant, k1, at T
+1 = 430.0 K, we can 
+use Equation 14.23 with Ea = 160 kJ>mol and one of the 
+rate constants and temperatures from the given data, such as 
+k2 = 2.52 * 10-5 s-1 and T
+2 = 462.9 K:
+ln a
+k1
+2.52 * 10 - 5 s - 1b =
+a
+160 kJ>mol
+8.314 J>mol@K b a
+1
+462.9 K -
+1
+430.0 K b a 1000 J
+1 kJ b = -3.18
+Thus,
+k1
+2.52 * 10 - 5 s - 1 = e - 3.18 = 4.15 * 10 - 2
+k1 = 14.15 * 10 - 2212.52 * 10 - 5 s - 12 = 1.0 * 10 - 6 s - 1
+Note that the units of k1 are the same as those of k2 and the rate con-
+stant at 430.0 K is smaller than it is at 462.9 K, as it should be.
+ 
+▶Practice Exercise 1
+Using the data in Sample Exercise 14.11, which of the following 
+is the rate constant for the rearrangement of methyl isonitrile 
+at 320 °C?
+(a) 8.1 * 10-15 s-1 (b) 2.2 * 10-13

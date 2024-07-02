@@ -1,0 +1,26 @@
+iation in a certain town
+consists of 32 mrad of X-rays and 
+rays plus 3.4 mrad of
+particles having a RBE of 10. How many rem will a person
+receive per year on average?
+60. A shielded -ray source yields a dose rate of 
+at
+a distance of 1.0 m for an average-sized person. If workers
+are allowed a maximum dose of 5.0 rem in 1 year, how
+close to the source may they operate, assuming a 35-h
+work week? Assume that the intensity of radiation falls off
+as the square of the distance. (It actually falls off more
+rapidly than 
+because of absorption in the air, so your
+answer will give a better-than-permissible value.)
+61. Radon gas,
+is formed by 
+decay. (a) Write the
+decay equation. (b) Ignoring the kinetic energy of the
+daughter nucleus (it’s so massive), estimate the kinetic
+energy of the 
+particle produced. (c) Estimate the
+momentum of the alpha and of the daughter nucleus.
+(d) Estimate the kinetic energy of the daughter, and show
+that your approximation in (b) was valid.
+62. In the net reactio

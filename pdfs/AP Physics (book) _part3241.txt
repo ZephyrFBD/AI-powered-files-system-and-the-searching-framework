@@ -1,0 +1,42 @@
+nt 
+measurements (see Table 17–2 and Fig. 29–11) give
+and
+APPROACH We want to find the potential energy of the two charges in one
+dipole due to the two charges in the other, because this will be equal to the
+work needed to pull the two dipoles infinitely far apart. The potential energy 
+of a charge 
+in the presence of a charge 
+is 
+where
+and 
+is the distance between the two charges. (See
+Eqs. 17–2 and 17–5.)
+SOLUTION The potential energy consists of four terms:
+where 
+means the potential energy of C in the presence of H, and similarly
+for the other terms. We do not have terms corresponding to C and O, or N and H,
+because the two dipoles are assumed to be stable entities. Then, using the 
+distances shown in Fig. 29–11, we get:
+peCH
+pe = peCH + peCN + peOH + peON
+r12
+k = 9.0 * 109 Nm2C2
+pe = kAq1 q2r12B
+q2
+q1
+qC =
+–qO = 8.0 * 10–30 Cm
+0.12 * 10–9 m
+= 6.7 * 10–20 C = 0.42e.
+qH =
+–qN = 3.0 * 10–30 Cm
+0.10 * 10–9 m
+= 3.0 * 10–20 C = 0.19e,
+(= ql)
+N–
+H±
+O–
+C±
+EXAMPLE 29;1
+L 2 to 5 eV
+3

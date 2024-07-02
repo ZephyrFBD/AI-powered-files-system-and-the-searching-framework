@@ -1,0 +1,28 @@
+ convert the volume from gallons to mL.
+Analyze We are asked to calculate the mass of CO2 produced when 
+1.0 gallon of C8H18 reacts with oxygen to form carbon dioxide and 
+water.
+Plan We first must determine the mass in grams of C8H18 in 1.0 
+gallon of gasoline. We then write a balanced chemical equation 
+for the combustion of C8H18 and use it to determine the theoreti-
+cal yield of CO2.
+ 
+▶Practice Exercise 1
+Many cars can run on a mixture of gasoline and ethanol, 
+C2H5OH (density = 0.789 g/mL). What mass of CO2 is pro-
+duced by combustion of 1.0 gallon of ethanol?  
+(a) 2.9 kg (b) 5.7 kg (c) 6.0 kg (d) 8.6 kg (e) 9.2 kg
+ 
+▶Practice Exercise 2
+A typical propane, C3H8, tank for an outdoor grill contains 15 
+pounds of propane. What mass of CO2 is produced by com-
+busting the propane in such a tank?
+11.0  gallon2a 3.785 L
+1 gallonb a 1000 mL
+1 L
+b = 3.79 * 103 mL
+2 C8H181l2 +  25 O21g2 S  16 CO21g2 +  18 H2O1g2
+13.79 * 103 mL2a
+0.70 g
+mL b = 2.65 * 103 g
+So we see that for every gallon o

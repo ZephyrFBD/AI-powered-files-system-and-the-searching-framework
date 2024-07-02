@@ -1,0 +1,25 @@
+r
+outside a spherical conductor. Thus, the electric field outside a spherically symmetric
+distribution of charge is the same as for a point charge of the same magnitude at
+the center of the sphere. This result applies also outside a uniformly charged
+nonconductor, because we can use the same gaussian surface 
+(Fig. 16–45) and
+the same symmetry argument. We can also consider this a demonstration of our
+statement in Chapter 5 about the gravitational force, which is also a perfect 
+force: The gravitational force exerted by a uniform sphere is the same as if all the
+mass were at the center, as stated on page 120.
+1r2
+A1
+E =
+1
+4p0
+Q
+r2
+(b) Inside the shell, the electric field must also be symmetric. So E must again
+have the same value at all points on a spherical gaussian surface (
+in Fig.16–45)
+concentric with the shell. Thus, E can be factored out of the sum and, with
+because the charge inside surface 
+is zero, we have
+Hence
+inside a uniform spherical shell of charge (as claimed in Sect

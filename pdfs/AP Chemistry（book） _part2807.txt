@@ -1,0 +1,19 @@
+ns into groups on the basis of pre-
+cipitation reactions and then analyzing each group for individual 
+metal ions.
+Learning Outcomes After studying this chapter, you should be able to:
+t Describe the common-ion effect. (Section 17.1) 
+Related Exercises: 17.13, 17.14
+t Explain how a buffer functions and calculate the pH of a buffered 
+solution. (Section 17.2) Related Exercises: 17.19, 17.20
+t Calculate the pH of a buffer after the addition of small amounts 
+of a strong acid or a strong base. (Section 17.2) 
+Related Exercises: 17.27, 17.28
+t Calculate the appropriate quantities of compounds to make a 
+buffer at a given pH. (Section 17.2) Related Exercises: 17.31, 17.32
+t Calculate the pH at any point for an acid–base titration curve. 
+(Section 17.3) Related Exercises: 17.45, 17.46
+t Estimate the pKa for monoprotic or polyprotic acids from their 
+titration curves. (Section 17.3) Related Exercises: 17.33, 17.34
+t Given either Ksp, molar solubility, or mass solubility for a 
+substanc

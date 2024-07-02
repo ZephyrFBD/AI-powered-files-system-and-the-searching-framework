@@ -1,0 +1,20 @@
+ two plates are initially separated by a distance d. Suppose the plates
+are pulled apart until the separation is 2d. How has the energy stored in this
+capacitor changed?
+RESPONSE If we increase the plate separation d, we decrease the capacitance
+according to Eq. 17–8,
+by a factor of 2. The charge Q hasn’t
+changed. So according to Eq. 17–10, where we choose the form
+because we know Q is the same and C has been halved, the reduced C means
+the PE stored increases by a factor of 2.
+NOTE We can see why the energy stored increases from a physical point of
+view: the two plates are charged equal and opposite, so they attract each other.
+If we pull them apart, we must do work, so we raise the potential energy.
+pe = 1
+2 Q2C
+C =  0 Ad,
+CONCEPTUAL EXAMPLE 17;12
+It is useful to think of the energy stored in a capacitor as being stored in the
+electric field between the plates. As an example let us calculate the energy stored
+in a parallel-plate capacitor in terms of the electric field.
+We have se

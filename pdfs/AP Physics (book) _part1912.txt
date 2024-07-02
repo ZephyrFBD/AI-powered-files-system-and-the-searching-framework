@@ -1,0 +1,29 @@
+s zero? Explain.
+6. Can a particle ever move from a region of low electric
+potential to one of high potential and yet have its electric
+potential energy decrease? Explain.
+7. If
+at a point in space, must
+If
+at some
+point, must 
+at that point? Explain. Give examples
+for each.
+8. Can two equipotential lines cross? Explain.
+9. Draw in a few equipotential lines in Fig. 16–32b and c.
+10. When a battery is connected to a capacitor, why do the 
+two plates acquire charges of the same magnitude? Will
+this be true if the two plates are different sizes or shapes?
+V = 0
+E
+B = 0
+E
+B = 0?
+V = 0
+11. A conducting sphere carries a charge Q and a second iden-
+tical conducting sphere is neutral.The two are initially isolated,
+but then they are placed in contact. (a) What can you say
+about the potential of each when they are in contact? (b) Will
+charge flow from one to the other? If so, how much?
+12. The parallel plates of an isolated capacitor carry opposite
+charges, Q. If the separation of the plates is

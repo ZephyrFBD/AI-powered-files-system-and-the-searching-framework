@@ -1,0 +1,25 @@
+smitted
+pulse
+(a)
+(b)
+FIGURE 11–34 When a wave pulse
+traveling to the right along a thin
+cord (a) reaches a discontinuity
+where the cord becomes thicker and
+heavier, then part is reflected and
+part is transmitted (b).
+(b)
+(a)
+Time
+FIGURE 11–33 Reflection of a wave pulse
+traveling along a cord lying on a table.
+(Time increases going down.) (a) The end
+of the cord is fixed to a peg. (b) The end of
+the cord is free to move.
+Consider next a pulse that travels along a cord which consists of a light section
+and a heavy section, as shown in Fig. 11–34. When the wave pulse reaches the
+boundary between the two sections, part of the pulse is reflected and part is trans-
+mitted, as shown. The heavier the second section of the cord, the less the energy
+that is transmitted. (When the second section is a wall or rigid support, very little
+is transmitted and most is reflected, as in Fig. 11–33a.) For a sinusoidal wave, the
+frequency of the transmitted wave does not change across the boundary because

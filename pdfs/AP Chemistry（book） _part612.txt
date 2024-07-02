@@ -1,0 +1,23 @@
+f lower concentrations can then 
+be obtained by adding water, a process called dilution.*
+Let’s see how we can prepare a dilute solution from a concentrated one. Suppose we 
+want to prepare 250.0 mL (that is, 0.2500 L) of 0.100 M CuSO4 solution by diluting a 
+ 
+1.00 M CuSO4 stock solution. The main point to remember is that when solvent is added 
+to a solution, the number of moles of solute remains unchanged:
+ 
+Moles solute before dilution = moles solute after dilution 
+[4.32]
+Because we know both the volume (250.0 mL) and the concentration (0.100 mol/L) of the 
+dilute solution, we can calculate the number of moles of CuSO4 it contains:
+ Moles CuSO4 in dilute soln = 10.2500 L soln2a0.100 mol CuSO4
+L soln
+b 
+ = 0.0250 mol CuSO4
+The volume of stock solution needed to provide 0.0250 mol CuSO4 is therefore:
+Liters of conc soln = 10.0250 mol CuSO42a
+1 L soln
+1.00 mol CuSO4
+b = 0.0250 L
+Figure 4.16 shows the dilution carried out in the laboratory. Notice that the diluted 
+solution is less in

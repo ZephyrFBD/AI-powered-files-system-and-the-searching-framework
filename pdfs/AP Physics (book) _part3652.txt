@@ -1,0 +1,24 @@
+ergies of the stored protons from
+150 GeV to 1.0 TeV. The acceleration was done once per turn.
+Estimate the energy given to the protons on each turn.
+(You can assume that the speed of the protons is essentially
+c the whole time.)
+10. (II) A cyclotron with a radius of 1.0 m is to accelerate
+deuterons 
+to an energy of 12 MeV. (a) What is the
+required magnetic field? (b) What frequency is needed for
+the voltage between the dees? (c) If the potential difference
+between the dees averages 22 kV, how many revolutions
+will the particles make before exiting? (d) How much time
+does it take for one deuteron to go from start to exit?
+(e) Estimate how far it travels during this time.
+11. (III) Show that the energy of a particle (charge e) in a
+synchrotron, in the relativistic limit 
+is given by
+where B is the magnetic field and r is the
+radius of the orbit (SI units).
+32–2 to 32–6 Particle Interactions, Particle Exchange
+12. (I) About how much energy is released when a 
+decays
+to
+(See Table 32–2.)

@@ -1,0 +1,31 @@
+ a cord are
+examples. The wave may be a pulse (a single crest), or it may
+be continuous (many crests and troughs).
+The wavelength of a continuous sinusoidal wave is the dis-
+tance between two successive crests.
+The frequency is the number of full wavelengths (or crests)
+that pass a given point per unit time.
+The amplitude of a wave is the maximum height of a crest,
+or depth of a trough, relative to the normal (or equilibrium)
+level.
+T = 2p B
+l
+g
+,
+l
+Summary
+1
+1–15 Mathematical Representation
+of a Traveling Wave
+A simple wave with a single frequency, as in Fig. 11–47, is sinusoidal. To express
+such a wave mathematically, we assume it has a particular wavelength 
+and 
+frequency f. At
+the wave shape shown is
+(11;21)
+where y is the displacement of the wave (either longitudinal or transverse) 
+at position x,
+is the wavelength, and A is the amplitude of the wave.
+[Equation 11–21 works because it repeats itself every wavelength: when
+]
+Suppose the wave is moving to the right with speed v. Aft

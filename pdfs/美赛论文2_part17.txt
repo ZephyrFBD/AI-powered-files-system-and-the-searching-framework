@@ -1,0 +1,17 @@
+idemic area, the curve of susceptible 
+rate is similar to the Basic Model, but the curve of infective rate changes a lot. 
+Firstly, the maximum of I(t) decrease a lot compared to the Basic Model. The 
+reason is that vaccines can firstly deduct the number of susceptible people 
+remarkably, then, deduct the number of infected people. The trend of infective 
+rate is the same with the previous. It increases at first and then declines, but 
+overall, it is smaller. 
+3.2.6 Strength and Weakness 
+ Strength: This model takes the vaccines into account, so we can use this 
+model to analyze the effect of vaccines on the epidemic situation. 
+ Weakness:  In this model, μ is still a constant, that is to say, we ignore 
+the effect of drugs on the epidemic situation. In fact, when we offer 
+patients with medical treatment, the μ will change and that is what we will 
+consider in the next improved model. 
+ 
+3.3 Improved Model Ⅱ( Spread Model considering vaccines and drugs) 
+3.3.1 Additional Assumptions

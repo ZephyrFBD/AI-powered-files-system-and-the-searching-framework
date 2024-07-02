@@ -1,0 +1,58 @@
+ we can see that, when an object is placed between a
+converging lens and its focal point, the image is virtual.
+I¿.
+F¿
+F¿,
+O¿
+m =
+– di
+do
+=
+– –30 cm
+10 cm
+= 3.0.
+di
+di = –30 cm.
+1
+di
+=
+1
+15 cm -
+1
+10 cm = 2 - 3
+30 cm
+=
+–
+1
+30 cm
+,
+do = 10 cm,
+f = 15 cm
+do 6 f.
+EXAMPLE 23;13
+C A U T I O N
+Don’t forget to take the reciprocal
+I
+F
+F′
+O
+2
+3
+2
+I′
+1
+O′
+1
+FIGURE 23–43 An object placed
+within the focal point of a
+converging lens produces a virtual
+image. Example 23–13.
+Diverging lens. Where must a small insect be placed if a
+25-cm-focal-length diverging lens is to form a virtual image 20 cm from the lens,
+on the same side as the object?
+APPROACH The ray diagram is basically that of Fig.23–41 because our lens here
+is diverging and our image is given as in front of the lens within the focal distance.
+(It would be a valuable exercise to draw the ray diagram to scale, precisely, now.)
+The insect’s distance,
+can be calculated using the thin lens equation.
+SOLUTION The lens is diverging, so f is nega

@@ -1,0 +1,60 @@
+d countries and take 
+the reference of their indexes of the sustainable development, and finally we set e as 
+0.4. In most times, when the index of a developing country reaches 0.4, the 
+developing country is in sustainable development. However, if the developing country 
+wants to advance the index from 0.4 to 0.6, it will be a tremendously harsh process, 
+which is also the process that a developing country turns into a developed country 
+gradually. 
+From the table below, we can evaluate the sustainability better and smoothly. 
+Only when
+1
+2
+3
+,
+,
+0.4
+P P P ≥
+, the country’s development is totally sustainable. 
+Team#36961 
+ 
+Page 11 of 20 
+Sometimes even when
+0.4
+P ≥
+, we cannot exclude the potential possibility that the 
+country will become unsustainable soon because maybe its 
+1
+P  or 
+2
+P  or 
+3
+P  is very 
+low, and vice versa. 
+Table 7: Evaluation of the sustainability 
+1
+P  
+2
+P  
+3
+P  
+P  
+Condition 
+0.4
+≥
+ 
+0.4
+≥
+ 
+0.4
+≥
+ 
+0.4
+≥
+ 
+Sustainable 
+Two of them
+0.4
+≥
+, the left
+0.4
+<

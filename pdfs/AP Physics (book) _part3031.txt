@@ -1,0 +1,23 @@
+particles, such as electrons, are another matter. Since
+the mass m appears in the denominator of Eq. 27–8, a very small mass should
+have a much larger wavelength.
+Wavelength of an electron. Determine the wavelength
+of an electron that has been accelerated through a potential difference of 100 V.
+APPROACH If the kinetic energy is much less than the rest energy, we can use
+the classical formula,
+(see end of Section 26–9). For an electron,
+We then apply conservation of energy: the kinetic energy
+acquired by the electron equals its loss in potential energy. After solving for v,
+we use Eq. 27–8 to find the de Broglie wavelength.
+SOLUTION The gain in kinetic energy equals the loss in potential energy:
+Thus 
+so 
+The ratio 
+so relativity is not needed. Thus
+and
+Then
+or 0.12 nm.
+EXERCISE E As a particle travels faster, does its de Broglie wavelength decrease,
+increase, or remain the same?
+EXERCISE F Return to the Chapter-Opening Question, page 771, and answer it again
+now. Try to explain why yo

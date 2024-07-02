@@ -1,0 +1,18 @@
+hat define each lattice 
+point in a crystal lattice. Beginning from any lattice point, it is 
+possible to move to any other lattice point by adding together 
+whole-number multiples of the two lattice vectors. (Section 12.2)
+law of conservation of mass The total mass of materials present 
+after a chemical reaction is the same as the total mass present 
+before the reaction. (Section 2.1)
+law of constant composition A law that states that the elemental 
+composition of a compound is always the same; also called the 
+law of definite proportions. (Section 1.2)
+law of definite proportions A law that states that the elemental 
+composition of a substance is always the same; also called the 
+law of constant composition. (Section 1.2)
+law of mass action The rules by which the equilibrium constant 
+is expressed in terms of the concentrations of reactants and 
+products, in accordance with the balanced chemical equation 
+for the reaction. (Section 15.2)
+law of multiple proportions If two elements A 

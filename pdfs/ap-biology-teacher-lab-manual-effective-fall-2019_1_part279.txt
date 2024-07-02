@@ -1,0 +1,30 @@
+ Proteins,” click on the first file name. It will be named “NM 
+001100.3” or something similar. These standardized numbers make cataloging 
+sequence files easier. Do not worry about the file number for now. 
+4. Just below the gene title click on “FASTA.” This is the name for a particular format 
+for displaying sequences. 
+5. The nucleotide sequence displayed is that of the actin gene in humans. 
+6. Copy the entire gene sequence, and then go to the BLAST homepage   
+(http://blast.ncbi.nlm.nih.gov/Blast.cgi).  
+7
+.
+ Click on “nucleotide blast” under the Basic BLAST menu. 
+8. Paste the sequence into the box where it says “Enter Query Sequence.” 
+9. Give the query a title in the box provided if you plan on saving it for later. 
+INVESTIGATION 3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. Under “Choose Search Set,” select whether you want to search the human genome 
+only, mouse genome only, or all genomes available. 
+11. Under “Program Selection,” choose whether or not you want highly similar 
+sequences or 

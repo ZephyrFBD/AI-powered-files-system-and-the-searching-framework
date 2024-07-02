@@ -1,0 +1,11 @@
+ is shared by all living organisms, and it is a powerful piece of evidence for the common ancestry
+of all forms of life on Earth. The genetic code is also redundant, meaning multiple codons can code for the same
+amino acids during translation. Because of the redundancy of the genetic code, individuals may have the same
+proteins with the same amino acid sequences but with different DNA sequences. Restriction enzymes cut DNA at
+specific DNA sequences. As the restriction enzyme cuts DNA, differences in DNA sequences result in differently
+sized fragments of DNA from different individuals. These DNA fragments of different sizes can be separated by gel
+electrophoresis.
+In this lab, a scenario might involve a description of a crime scene and suspects. DNA from evidence at the crime
+scene is isolated and cut with restriction enzymes. DNA is isolated from the suspects and cut with the same
+restriction enzymes. The resulting DNA fragments are placed on an agarose gel and are separated by gel
+ele

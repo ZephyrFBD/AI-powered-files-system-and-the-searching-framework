@@ -1,0 +1,17 @@
+, but not because they produce adaptations. For example, mutations may introduce a new allele,
+but the allele will lead to an adaptation only if it increases in the population as a result of natural selection.
+3. C. Gene flow is the increase in allele frequencies due to transfer from other populations.
+4. A. Mutations occur randomly and are usually harmful. Whether or not the mutation increases or decreases in
+frequency in the population is the result of natural selection, genetic drift, gene flow, or nonrandom mating.
+5. B. Only male lions have a mane. Differences in appearance between males and females (sexual dimorphisms) not
+directly required for reproduction are usually the result of sexual selection.
+6. D. This population is not in Hardy-Weinberg equilibrium. The values
+ 
+given for p2, 2pq, and q2 correctly total 1.
+ 
+Calculating the value of q from q2 gives
+ 
+or 0.2, and the value of p from p2 gives
+ 
+, which is approximately 0.57. The sum of
+these calculated values for p and q 

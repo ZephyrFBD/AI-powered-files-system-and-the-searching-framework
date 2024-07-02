@@ -1,0 +1,20 @@
+uilibrium-constant expressions include terms only for reactants and products whose 
+concentrations can change during a chemical reaction, the concentrations of pure solids 
+and pure liquids are omitted.
+The omission can also be rationalized in a second way. Recall from Section 15.2 that 
+what is substituted into a thermodynamic equilibrium expression is the activity of each 
+substance, which is a ratio of the concentration to a reference value. For a pure substance, 
+the reference value is the concentration of the pure substance, so that the activity of any 
+pure solid or liquid is always 1.
+Give It Some Thought
+Write the equilibrium-constant expression for the evaporation of water, 
+H2O1l2 ∆ H2O1g2, in terms of partial pressures.
+Decomposition of calcium carbonate is another example of a heterogeneous 
+reaction:
+ 
+CaCO31s2 ∆ CaO1s2 + CO21g2 
+Omitting the concentrations of the solids from the equilibrium-constant expression gives
+ 
+Kc = 3CO24 and Kp = P
+CO2 
+These equations tell us tha

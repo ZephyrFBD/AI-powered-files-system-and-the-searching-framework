@@ -1,0 +1,33 @@
+difference 
+Power 
+Resistance
+1  = 1 VA
+1 W = 1 Js
+1 V = 1 JC
+1 A = 1 Cs
+The resistance R of a wire is inversely proportional to its
+cross-sectional area A, and directly proportional to its length 
+and to a property of the material called its resistivity:
+(18–3)
+The resistivity,
+increases with temperature for metals, but for
+semiconductors it may decrease.
+The rate at which energy is transformed in a resistance R
+from electric to other forms of energy (such as heat and light)
+r,
+R = rl
+A
+.
+l
+FIGURE 18–31 Propagation of action
+potential along axon membrane.
+520
+CHAPTER 18
+Electric Currents
+1. When an electric cell is connected to a circuit, electrons flow
+away from the negative terminal in the circuit. But within
+the cell, electrons flow to the negative terminal. Explain.
+2. When a flashlight is operated, what is being used up: bat-
+tery current, battery voltage, battery energy, battery power,
+or battery resistance? Explain.
+3. What quantity is measured by a battery rating given in

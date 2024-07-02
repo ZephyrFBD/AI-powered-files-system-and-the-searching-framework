@@ -1,0 +1,31 @@
+zed and equal to an
+integer n times 
+As we saw in Chapter 8 angular momentum is given by
+where I is the moment of inertia and 
+is the angular velocity. For a
+single particle of mass m moving in a circle of radius r with speed v,
+and
+hence,
+Bohr’s quantum condition is
+(27;11)
+where n is an integer and 
+is the radius of the nth possible orbit. The allowed
+orbits are numbered 
+according to the value of n, which is called the
+principal quantum number of the orbit.
+Equation 27–11 did not have a firm theoretical foundation. Bohr had searched
+for some “quantum condition,” and such tries as 
+(where E represents
+the energy of the electron in an orbit) did not give results in accord with experi-
+ment. Bohr’s reason for using Eq. 27–11 was simply that it worked; and we now
+look at how. In particular, let us determine what the Bohr theory predicts for the
+measurable wavelengths of emitted light.
+E = hf
+1, 2, 3, p ,
+rn
+L = mvrn = n h
+2p
+,   n = 1, 2, 3, p ,
+L = Iv = Amr2B(vr) = mvr.
+v = vr;
+I = m

@@ -1,0 +1,85 @@
+aph of y = f(x) vertically by a factor of c. 
+If 0 < c < I. shrink the graph of y = f(x) vertically by a factor of c. 
+ 
+ 
+Example 4 
+Use the graph of f(x) = x2 to sketch the following functions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+58 
+1.10.5 Horizontal Stretching and Shrinking 
+To graph y = f(cx): 
+If c > 1, shrink the graph of y = f(x) horizontally by a factor of 1/c. 
+If 0 < c < 1, stretch the graph of y = f(x) horizontally by a factor of 1/c. 
+ 
+ 
+Example 5 
+The graph of y = f (x) is shown below. Sketch the graph of each function. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+59 
+1.10.6 Even and Odd Functions 
+Let f be a function. 
+f is even if f(−x) = f(x) for all x in the domain of f.  
+f is odd if f(−x) = −f(x) for all x in the domain of f. 
+ 
+ 
+Example 6 
+Determine whether the functions are even, odd, or neither even nor odd.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+61 
+1.11 章末练习题 
+1.  
+ 
+Find the slope of the line through the points and interpret the slope. 
+A. 1/

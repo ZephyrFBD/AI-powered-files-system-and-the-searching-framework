@@ -1,0 +1,116 @@
+at:
+EXERCISE C Suppose the spring in Fig. 11–5 is compressed to
+but is given 
+a push to the right so that the initial speed of the mass m is 
+What effect does this 
+push have on (a) the energy of the system, (b) the maximum velocity, (c) the maximum
+acceleration?
+v0 .
+x = –A,
+a r F r x.
+(F = kx),
+x = 0
+x = A
+x = A.
+x = 0
+(22 = 4).
+x = 2A
+CONCEPTUAL EXAMPLE 11;3
+–
+±
+v =
+&vmax B1 - x2
+A2 .
+vmax = B
+k
+m A.
+vmax
+2
+= (km)A2
+1
+2 mvmax
+2
+= 1
+2 kA2,
+v2 =
+k
+m AA2 - x2B
+=
+k
+m A2 a1 - x2
+A2 b .
+v2,
+1
+2 mv2 + 1
+2 kx2 =
+1
+2 kA2.
+x = 0
+vmax
+E =
+1
+2 mvmax
+2
++ 1
+2 k(0)2 =
+1
+2 mvmax
+2
+,
+x = 0
+E =
+1
+2 m(0)2 + 1
+2 kA2 =
+1
+2 kA2.
+v = 0
+x = A
+x = –A
+296
+CHAPTER 11
+Oscillations and Waves
+m
+m
+m
+x = 0
+x = A
+(v = 0)
+x = −A
+x = 0
+x = A
+x = −A
+m
+x
+E = 1
+2 kA2
+(d)
+(a)
+(b)
+(c)
+PE KE
+PE KE
+PE KE
+PE KE
+x = 0
+x = A
+x = −A
+x = −A
+(v = 0)
+x = 0
+x = A
+E = 1
+2 kA2
+E = 1
+2
+max
+mv2
+E = 1
+2
+1
+2
+mv2 +   kx2
+FIGURE 11–5 Energy changes from
+potential energy to kinetic energy and
+back again as the spring oscillates.
+Energy bar

@@ -1,0 +1,24 @@
+c energy
+Frequency
+ [6.89]  Consider a transition in which the electron of a hydrogen 
+atom is excited from n = 1 to n = ∞. (a) What is the end 
+result of this transition? (b) What is the wavelength of light 
+that must be absorbed to accomplish this process? (c) What 
+will occur if light with a shorter wavelength than that in part 
+(b) is used to excite the hydrogen atom? (d) How are the results 
+of parts (b) and (c) related to the plot shown in Exercise 6.88?
+ 6.90  The human retina has three types of receptor cones, each 
+sensitive to a different range of wavelengths of visible light, 
+as shown in this ﬁgure (the colors are merely to differentiate 
+the three curves from one another; they do not indicate the 
+actual colors represented by each curve):
+400
+500
+600
+Wavelength (nm)
+700
+254 
+CHAPTER 6 Electronic Structure of Atoms
+disturbing the system that we are measuring. (a) Why can’t 
+we measure the position of a subatomic particle without 
+disturbing it? (b) How is this concept relat

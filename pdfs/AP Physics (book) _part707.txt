@@ -1,0 +1,50 @@
+much larger mass, its (recoil) velocity is much less than that
+of the bullet. The minus sign indicates that the velocity (and momentum) of the
+rifle is in the negative x direction, opposite to that of the bullet.
+vR
+œ
+=
+– mBvB
+œ
+mR
+=
+– (0.020 kg)(620 ms)
+(5.0 kg)
+=
+–2.5 ms.
+vR
+œ ,
+mBvB + mRvR = mB vB
+œ + mRvR
+œ
+0
++
+0
+= mB vB
+œ + mRvR
+œ .
+ 
+momentum before = momentum after
+(±x),
+620 ms,
+EXAMPLE 7;5
+FIGURE 7;8 Tennis racket striking
+a ball. Both the ball and the racket
+strings are deformed due to the large
+force each exerts on the other.
+Δ
+Force, F (N)
+0
+Time, t (ms)
+   t
+Δ
+FIGURE 7;9 Force as a function of time 
+during a typical collision. F can become 
+very large;
+is typically milliseconds 
+for macroscopic collisions.
+¢t
+7–3 Collisions and Impulse
+Collisions are a common occurrence in everyday life: a tennis racket or a baseball
+bat striking a ball, billiard balls colliding, a hammer hitting a nail. When a collision
+occurs, the interaction between the objects involved is usually far

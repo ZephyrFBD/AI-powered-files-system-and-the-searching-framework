@@ -1,0 +1,19 @@
+ 
+be irreversible and spontaneous.
+The magnitude of ∆G is also signiﬁcant. A reaction for which 
+∆G is large and negative, such as the burning of gasoline, is much 
+more capable of doing work on the surroundings than is a reaction 
+for which ∆G is small and negative, such as ice melting at room tem-
+perature. In fact, thermodynamics tells us that the change in free energy 
+for a process, ∆G, equals the maximum useful work that can be done by the 
+system on its surroundings in a spontaneous process occurring at constant 
+temperature and pressure:
+∆G = -wmax 
+[19.18]
+(Remember our sign convention from Table 5.1: Work done by a sys-
+tem is negative.) In other words, ∆G gives the theoretical limit to how 
+much work can be done by a process.
+The relationship in Equation 19.18 explains why ∆G is called the 
+free energy change—it is the portion of the energy change of a spon-
+taneous reaction that is free to do useful work. The remainder of the 
+energy enters the environment as heat. For exam

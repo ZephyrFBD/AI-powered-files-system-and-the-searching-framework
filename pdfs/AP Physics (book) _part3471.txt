@@ -1,0 +1,21 @@
+ or in supernova explosions, there is enough initial kinetic energy
+available to drive endothermic reactions that produce heavier elements as well.
+EXERCISE E If the Sun is generating a constant amount of energy via fusion, the mass
+of the Sun must be (a) increasing, (b) decreasing, (c) constant, (d) irregular.
+Possible Fusion Reactors
+The possibility of utilizing the energy released in fusion to make a power reactor
+is very attractive. The fusion reactions most likely to succeed in a reactor involve
+the isotopes of hydrogen,
+(deuterium) and 
+(tritium), and are as follows,
+with the energy released given in parentheses:
+(31;8a)
+(31;8b)
+(31;8c)
+Comparing these energy yields with that for the fission of 
+we can see that the
+energy released in fusion reactions can be greater for a given mass of fuel than in
+fission. Furthermore, as fuel, a fusion reactor could use deuterium, which is very
+plentiful in the water of the oceans (the natural abundance of 
+is 0.0115% on
+average, or about 1 g of

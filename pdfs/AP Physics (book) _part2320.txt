@@ -1,0 +1,20 @@
+losed loop of
+wire there will also be an induced current, which implies there is an electric field
+in the wire causing the electrons to start moving. Indeed, this and other results
+suggest the important conclusion that
+a changing magnetic flux produces an electric field.
+This result applies not only to wires and other conductors, but is a general result
+that applies to any region in space. Indeed, an electric field will be produced
+at any point in space where there is a changing magnetic field.
+We can get a simple formula for E in terms of B for the case of electrons in
+a moving conductor, as in Fig. 21–11. The electrons feel a force (upwards in
+Fig. 21–11b); and if we put ourselves in the reference frame of the conductor, this
+force accelerating the electrons implies that there is an electric field in the
+conductor. Electric field is defined as the force per unit charge,
+where
+here 
+(Eq. 20–4). Thus the effective field E in the rod must be
+(21;4)
+which is a useful result.
+2
+1–5 Electr

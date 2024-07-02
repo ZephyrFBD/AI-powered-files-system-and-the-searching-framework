@@ -1,0 +1,27 @@
+ vicinity of a star
+6.6 light-years from Earth. Passengers on the ship want the
+(one-way) trip to take no more than 1.0 year. How much
+work must be done on the spaceship to bring it to the
+speed necessary for this trip?
+73. Suppose a 14,500-kg spaceship left Earth at a speed of 0.90c.
+What is the spaceship’s kinetic energy? Compare with the
+total U.S. annual energy consumption (about 
+).
+74. A pi meson of mass 
+decays at rest into a muon (mass 
+)
+and a neutrino of negligible or zero mass. Show that the
+kinetic energy of the muon is
+75. An astronaut on a spaceship traveling at 0.75c relative to
+Earth measures his ship to be 23 m long. On the ship, he
+eats his lunch in 28 min. (a) What length is the spaceship
+according to observers on Earth? (b) How long does the
+astronaut’s lunch take to eat according to observers on Earth?
+kem = Amp - mmB2c2A2mpB .
+mm
+mp
+1020 J
+76. Astronomers measure the distance to a particular star to
+be 6.0 light-years (
+light travels in 1 year).
+A spaceship trave

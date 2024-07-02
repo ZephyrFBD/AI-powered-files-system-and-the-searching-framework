@@ -1,0 +1,31 @@
+etween joules 
+and kilojoules to make the units of ∆H° and ∆S° match.
+Calculate ∆G at 298 K for a mixture of 1.0 atm N2, 3.0 atm H2, and 0.50 atm NH3 being used in the Haber process:
+N21g2 + 3 H21g2 ∆2 NH31g2
+Solve 
+The partial-pressures form of Equation 15.24 gives:
+Analyze We are asked to calculate ∆G under nonstandard 
+conditions.
+Plan We can use Equation 19.19 to calculate ∆G. Doing so 
+requires that we calculate the value of the reaction quotient Q 
+for the specified partial pressures, for which we use the  
+partial-pressures form of Equation 15.24 (the equilibrium con-
+stant expression). We then use a table of standard free energies 
+of formation to evaluate ∆G°.
+Q =
+PNH3
+2
+P
+N2 PH2
+3 =
+10.5022
+11.0213.023 = 9.3 * 10-3
+ 
+∆G = ∆G° + RT ln Q
+ = 1-33.3 kJ>mol2
++ 18.314 J>mol@K21298 K211 kJ>1000 J2 ln19.3 * 10-32
+ = 1-33.3 kJ>mol2 + 1-11.6 kJ>mol2 = -44.9 kJ>mol
+SOLUTION
+Sample Exercise 19.11 
+Calculating the Free-Energy Change under Nonstandard Conditions
+In Sample Exercise 19.9 we 

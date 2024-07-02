@@ -1,0 +1,20 @@
+ll as with the nucleus. Each
+electron in a complex atom still occupies a particular state characterized by the
+quantum numbers n,
+and 
+For atoms with more than one electron,
+the energy levels depend on both n and
+The number of electrons in a neutral atom is called its atomic number, Z;
+Z is also the number of positive charges (protons) in the nucleus, and determines
+what kind of atom it is. That is, Z determines the fundamental properties that dis-
+tinguish one type of atom from another.
+To understand the possible arrangements of electrons in an atom, a new 
+principle was needed. It was introduced by Wolfgang Pauli (1900–1958; Fig. 28–2)
+and is called the Pauli exclusion principle. It states:
+No two electrons in an atom can occupy the same quantum state.
+Thus, no two electrons in an atom can have exactly the same set of the quantum
+numbers n,
+and 
+The Pauli exclusion principle forms the basis not only
+for understanding atoms, but also for understanding molecules and bonding, and
+other 

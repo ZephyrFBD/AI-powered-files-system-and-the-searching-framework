@@ -1,0 +1,24 @@
+lied
+to one end of the cord will have the same magnitude at the other end. We wish 
+to find the acceleration, a, of the system, which will have the same magnitude
+for both boxes assuming the cord doesn’t stretch. As box B moves down, box A
+moves to the right.
+APPROACH The free-body diagrams for each box are shown in Figs. 4–32b and c.
+The forces on box A are the pulling force of the cord 
+gravity 
+the nor-
+mal force exerted by the table 
+and a friction force exerted by the table 
+the forces on box B are gravity 
+and the cord pulling up,
+SOLUTION Box A does not move vertically, so Newton’s second law tells us
+the normal force just balances the weight,
+In the horizontal direction, there are two forces on box A (Fig. 4–32b):
+the
+tension in the cord (whose value we don’t know), and the force of friction
+The horizontal acceleration (box A) is what we wish to find; we use Newton’s
+second law in the x direction,
+which becomes (taking the positive
+direction to the right and setting
+):
+[box A]

@@ -1,0 +1,64 @@
+ 
+ 
+1.6.6 Local Maxima and Minima of Polynomial 
+If the point (a, f (a)) is the highest point on the graph of f within some viewing rectangle, 
+then f (a) is a local maximum value of f, and if (b, f (b)) is the lowest point on the graph of f 
+within a viewing rectangle, then f (b) is a local minimum value. 
+ 
+ 
+40 
+We say that such a point (a, f (a)) is a local maximum point on the graph and that (b, f  
+(b)) is a local minimum point. 
+The local maximum and minimum points on the graph of a function are called its local 
+extrema. 
+For a polynomial function the number of local extrema must be less than the degree, as 
+the following principle indicates. 
+If P(x) = anxn + an-1xn-1 + … + a1x +a0 is a polynomial of degree n, then the graph of P has 
+at most n-1 local extrema. 
+ 
+Example 5 
+Graph the polynomial and determine how many local extrema it has. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+1.7 Zero Point of a Polynomi

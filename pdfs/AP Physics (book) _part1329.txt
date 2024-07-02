@@ -1,0 +1,16 @@
+ixed
+together (say, electronically), interfere with one another and beats are produced.
+The beat frequency is equal to the difference in the two frequencies, 103 Hz. This
+Doppler technique is used in a variety of medical applications, usually with ultra-
+sonic waves in the megahertz frequency range. For example, ultrasonic waves
+reflected from red blood cells can be used to determine the velocity of blood flow.
+Similarly, the technique can be used to detect the movement of the chest of a young
+fetus and to monitor its heartbeat.
+For convenience, we can write Eqs. 12–2 and 12–3 as a single equation that
+covers all cases of both source and observer in motion:
+(12;4)
+To get the signs right, recall from your own experience that the frequency is
+higher when observer and source approach each other, and lower when they move
+apart. Thus the upper signs in numerator and denominator apply if source and/or
+observer move toward each other; the lower signs apply if they are moving apart.
+csource an

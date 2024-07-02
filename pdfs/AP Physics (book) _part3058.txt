@@ -1,0 +1,31 @@
+ energy, as the following calculation shows. The total energy equals the
+sum of the kinetic and potential energies. The potential energy of the electron is
+given by
+where V is the potential due to a point charge 
+as
+given by Eq. 17–5:
+So
+The total energy 
+for an electron in the nth orbit of radius 
+is the sum of the
+kinetic and potential energies:
+When we substitute v from Eq. 27–11 and 
+from Eq. 27–12 into this equation,
+we obtain
+(27;15a)
+If we evaluate the constant term in Eq. 27–15a and convert it to electron volts, as
+is customary in atomic physics, we obtain
+(27;15b)
+The lowest energy level 
+for hydrogen 
+is
+Since 
+appears in the denominator of Eq. 27–15b, the energies of the larger
+orbits in hydrogen 
+are given by
+For example,
+We see that not only are the orbit radii quantized, but from Eqs. 27–15, so is the
+energy. The quantum number n that labels the orbit radii also labels the energy
+levels. The lowest energy level or energy state has energy 
+and is called the
+ground state. T

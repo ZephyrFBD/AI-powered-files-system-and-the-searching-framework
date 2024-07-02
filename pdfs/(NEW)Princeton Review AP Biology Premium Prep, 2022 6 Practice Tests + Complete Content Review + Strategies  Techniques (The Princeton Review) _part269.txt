@@ -1,0 +1,12 @@
+hromatids are held together by a structure called the
+centromere. You can think of each chromatid as a chromosome, but because they remain attached, they are called
+chromatids instead. To be called a chromosome, each needs to have its own centromere. Once the chromatids
+separate, they will be full-fledged chromosomes.
+Cell Cycle Regulation
+We’ve already said that replication occurs during the S phase of interphase, so what happens during G1 and G2?
+During these stages, the cell performs metabolic reactions and produces organelles, proteins, and enzymes. For
+example, during G1, the cell produces all of the enzymes required for DNA replication (DNA helicase, DNA
+polymerase, and DNA ligase, which are explained later in this chapter). By the way, G stands for “gap,” but we can
+also associate it with “growth.” These three phases are highly regulated by checkpoints and special proteins called
+cyclins and cyclin-dependent kinases (CDKs).
+Cell cycle checkpoints are control mechanisms that make

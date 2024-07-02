@@ -1,0 +1,18 @@
+y, refers to a transfer of energy from one object
+to another because of a difference in temperature.
+Notice that the direction of heat flow between two objects depends on their
+temperatures, not on how much internal energy each has. Thus, if 50 g of water at
+30°C is placed in contact (or mixed) with 200 g of water at 25°C, heat flows from
+the water at 30°C to the water at 25°C even though the internal energy of the 25°C
+water is much greater because there is so much more of it.
+Internal Energy of an Ideal Gas
+Let us calculate the internal energy of n moles of an ideal monatomic (one atom
+per molecule) gas. The internal energy, U, is the sum of the translational kinetic
+energies of all the atoms. This sum is equal to the average kinetic energy per mol-
+ecule times the total number of molecules, N:
+Using Eq. 13–8,
+we can write this as
+or (recall Section 13–8)
+(14;1)
+where n is the number of moles. Thus, the internal energy of an ideal gas depends
+only on temperature and the number of mol

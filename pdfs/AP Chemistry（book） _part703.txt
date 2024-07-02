@@ -1,0 +1,14 @@
+n example of a state function, a 
+property of a system that is determined by specifying the system’s condition, or state (in 
+terms of temperature, pressure, and so forth). The value of a state function depends only on 
+the present state of the system, not on the path the system took to reach that state. Because E is a 
+state function, ∆E depends only on the initial and final states of the system, not on how 
+the change occurs.
+Endothermic and Exothermic Processes
+Because transfer of heat to and from the system is central to our discussion in this 
+chapter, we have some special terminology to indicate the direction of transfer. When 
+a process occurs in which the system absorbs heat, the process is called endothermic 
+(endo- means “into”). During an endothermic process, such as the melting of ice, heat 
+flows into the system from its surroundings [Figure 5.8(a)]. If we, as part of the surround-
+ings, touch a container in which ice is melting, the container feels cold to us because 
+hea

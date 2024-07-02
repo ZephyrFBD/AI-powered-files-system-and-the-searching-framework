@@ -1,0 +1,31 @@
+ the forces 
+and 
+don’t
+get involved. Instead, let us choose as our object the point where the three
+cords join (it could be a knot). The free-body diagram is then as shown in
+Fig. 9–4a. The three forces—
+and the tension in the vertical cord equal
+to the weight of the 200-kg chandelier—act at this point where the three cords
+join. For this junction point we write
+and
+since the problem
+is laid out in two dimensions. The directions of 
+and 
+are known, since 
+tension in a cord can only be along the cord—any other direction would cause
+the cord to bend, as already pointed out in Chapter 4. Thus, our unknowns are
+the magnitudes 
+and 
+SOLUTION We first resolve 
+into its horizontal (x) and vertical (y) compo-
+nents. Although we don’t know the value of 
+we can write (see Fig. 9–4b)
+and
+has only an x component. In the
+vertical direction, we have the downward force exerted by the vertical cord
+equal to the weight of the chandelier
+and the vertical com-
+ponent of 
+upward:
+so
+In the horizontal dir

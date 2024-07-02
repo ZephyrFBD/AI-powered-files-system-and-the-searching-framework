@@ -1,0 +1,44 @@
+
+l
+= 0.693
+l
+.
+l
+l
+T1
+2
+1023 yr A7 1030 sB.
+L 10–22
+¢N¢t
+0.25 * 1022
+0.50 * 1022
+14
+6C,
+1.00 * 1022
+14
+6C
+SECTION 30–8
+Half-Life and Rate of Decay
+871
+C A U T I O N
+Do not confuse 
+half-life and mean life
+30–9 Calculations Involving Decay
+Rates and Half-Life
+Let us now consider Examples of what we can determine about a sample of
+radioactive material if we know the half-life.
+Sample activity. The isotope 
+has a half-life of 5730 yr.
+If a sample contains 
+carbon-14 nuclei, what is the activity of the
+sample?
+APPROACH We first use the half-life to find the decay constant (Eq. 30–6),
+and use that to find the activity, Eq. 30–3b. The number of seconds in a year is
+SOLUTION The decay constant from Eq. 30–6 is
+From Eqs. 30–3b and 30–5, the activity or rate of decay is
+Notice that the graph of Fig. 30–10b starts at this value, corresponding to the
+original value of
+nuclei in Fig. 30–10a.
+NOTE The unit “decays/s” is often written simply as 
+since “decays” is not a
+unit but refers only to the n

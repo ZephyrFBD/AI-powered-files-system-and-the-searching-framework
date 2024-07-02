@@ -1,0 +1,21 @@
+ Earth’s atmosphere.
+If its initial temperature was 
+outside of Earth’s
+atmosphere, calculate the minimum velocity the meteorite
+must have had before it entered Earth’s atmosphere.
+62. The temperature of the glass surface of a 75-W lightbulb is
+75°C when the room temperature is 18°C. Estimate the
+temperature of a 150-W lightbulb with a glass bulb the same
+size. Consider only radiation, and assume that 90% of the
+energy is emitted as heat.
+63. In a cold environment, a person can lose heat by conduction
+and radiation at a rate of about 200 W. Estimate how long it
+would take for the body temperature to drop from 36.6°C
+to 35.6°C if metabolism were nearly to stop. Assume a mass
+of 65 kg. (See Table 14–1.)
+–105°C
+
+0.80 JsC°m.
+Thermodynamics is the study of heat and work. Heat is a transfer of energy due to a difference of temperature. Work is a 
+transfer of energy by mechanical means, not due to a temperature difference. The first law of thermodynamics links the two 
+in a general statem

@@ -1,0 +1,52 @@
+hus, pure water consists 
+almost entirely of H2O molecules and is an extremely poor conductor of electricity. Nev-
+ertheless, the autoionization of water is very important, as we will soon learn.
+The Ion Product of Water
+The equilibrium-constant expression for the autoionization of water is
+ 
+Kc = 3H3O+43OH -4 
+[16.13]
+The term 3H2O4 is excluded from the equilibrium-constant expression because we 
+exclude the concentrations of pure solids and liquids. 
+ (Section 15.4) Because this 
+Acid
+Base
+O
+H
+H
+H
+O
+H
+H
+O
+H
+H
+O
+H
++
+−
++
++
++
++
++
+H2O(l)
+OH−(aq)
+H2O(l)
+H3O+(aq)
++
++
+−
+For the following proton-transfer reaction, use Figure 16.4 to predict whether the equilibrium lies to the left 1Kc 6 12 or to the 
+right 1Kc 7 12:
+HSO4
+-1aq2 + CO3
+2 -1aq2 ∆ SO4
+2 -1aq2 + HCO3
+-1aq2
+Sample Exercise 16.3 
+Predicting the Position of a Proton-Transfer Equilibrium
+SOLUTION
+Analyze We are asked to predict whether an equilibrium lies to the 
+right, favoring products, or to the left, favoring reactants.
+Plan This 

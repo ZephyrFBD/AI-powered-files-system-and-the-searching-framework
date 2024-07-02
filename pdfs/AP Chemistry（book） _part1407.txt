@@ -1,0 +1,20 @@
+ ¬F bonds, in accord 
+with experiment. How can we use valence-bond theory to describe the bonding? The 
+electron configuration of F 11s22s22p52 indicates an unpaired electron in a 2p orbital. 
+This electron can be paired with an unpaired Be electron to form a polar covalent bond. 
+Which orbitals on the Be atom, however, overlap with those on the F atoms to form the 
+Be ¬F bonds?
+The orbital diagram for a ground-state Be atom is
+2s
+2p
+1s
+Because it has no unpaired electrons, the Be atom in its ground state cannot bond with 
+the fluorine atoms. The Be atom could form two bonds, however, by envisioning that we 
+“promote” one of the 2s electrons to a 2p orbital:
+2s
+2p
+1s
+The Be atom now has two unpaired electrons and can therefore form two polar covalent 
+bonds with F atoms. The two bonds would not be identical, however, because a Be 2s 
+orbital would be used to form one of the bonds and a 2p orbital would be used to form 
+the other. Therefore, although the promotion of an electron allows 

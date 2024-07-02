@@ -1,0 +1,26 @@
+ as this beam?
+45. Protons are injected into the 4.3-km-radius Large Hadron
+Collider with an energy of 450 GeV. If they are accelerated
+by 8.0 MV each revolution, how far do they travel and
+approximately how much time does it take for them to
+reach 4.0 TeV?
+ke =
+v L c
+2 * 1014
+General Problems
+946
+CHAPTER 32
+Elementary Particles
+1. (a) What are the two major classes of particles that make
+up the matter of the universe? (b) Name six types, or
+flavors, of each class of particles. (c) What are the four
+known fundamental forces in the universe? (d) Name the
+particles that carry the forces in part c. Which force is
+much weaker than the other three?
+2. (a) What property characterizes all hadrons? (b) What
+property characterizes all baryons? (c) What property
+characterizes all mesons?
+3. Show that all conservation laws hold for all the decays
+described in Fig. 32–15 for the decays of the top quark.
+4. The Higgs boson, Section 32–10, has very probably been
+detected at the CERN LHC. (a) If a Hi

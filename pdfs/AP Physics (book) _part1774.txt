@@ -1,0 +1,30 @@
+itself, an electric field exists outside of it, as shown in
+Fig. 16–34, as if the metal were not even there.
+A related property of static electric fields and conductors is that the electric
+field is always perpendicular to the surface outside of a conductor. If there were a
+component of 
+parallel to the surface (Fig. 16–35), it would exert a force on free
+electrons at the surface, causing the electrons to move along the surface until
+they reached positions where no net force was exerted on them parallel to the
+surface—that is, until the electric field was perpendicular to the surface.
+These properties apply only to conductors. Inside a nonconductor, which
+does not have free electrons, a static electric field can exist as we will see in the next
+Chapter. Also, the electric field outside a nonconductor does not necessarily make
+an angle of 90° to the surface.
+E
+B
+±Q,
+–Q,
+±Q
+Conductor
++
+−
++ −
++
+−
++−
++ −
+
+FIGURE 16–34 A charge inside a
+neutral spherical metal shell induces
+charge on its s

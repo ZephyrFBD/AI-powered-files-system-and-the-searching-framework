@@ -1,0 +1,21 @@
+ visible light).
+What is the theoretical minimum angular separation of two stars that can just be
+resolved by (a) the 200-inch telescope on Palomar Mountain (Fig. 25–22c); and
+(b) the Arecibo radiotelescope (Fig. 25–33), whose diameter is 300 m and whose
+radius of curvature is also 300 m. Assume 
+for the visible-light
+telescope in part (a), and
+(the shortest wavelength at which the radio-
+telescope has operated) in part (b).
+APPROACH We apply the Rayleigh criterion (Eq. 25–7) for each telescope.
+SOLUTION (a) With
+we have from Eq. 25–7 that
+or 
+deg. (Note that this is equivalent to resolving two points less
+than 1 cm apart from a distance of 100 km!)
+(b) For radio waves with
+emitted by stars, the resolution is
+The resolution is less because the wavelength is so much larger, but the larger
+objective collects more radiation and thus detects fainter objects.
+NOTE In both cases, we determined the limit set by diffraction. The resolution
+for a visible-light Earth-bound telescope is not this 

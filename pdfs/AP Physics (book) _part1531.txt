@@ -1,0 +1,30 @@
+rom the liquid to the vapor phase is called the
+heat of vaporization,
+For water it is 
+or 
+Other 
+substances follow graphs similar to Fig. 14–5, although the melting-point and
+boiling-point temperatures are different, as are the specific heats and heats of
+fusion and vaporization. Values for the heats of fusion and vaporization, which
+are also called the latent heats, are given in Table 14–3 for a number of substances.
+2260 kJkg.
+539 kcalkg
+LV.
+A= 3.33 * 105 JkgB.
+333 kJkg
+79.7 kcalkg
+LF.
+1 C°kcal.
+c L 0.50 kcalkgC°
+2 C°kcal
+–40°C,
+–40°C
+Making ice. How much energy does a freezer have to
+remove from 1.5 kg of water at 20°C to make ice at 
+APPROACH We need to calculate the total energy removed by adding the heat
+outflow (1) to reduce the water temperature from 20°C to 0°C, (2) to change
+the liquid water to solid ice at 0°C, and (3) to lower the ice temperature from
+0°C to 
+SOLUTION The heat Q that needs to be removed from the 1.5 kg of water is
+= 6.6 * 105 J = 660 kJ.
+± (1.5 kg

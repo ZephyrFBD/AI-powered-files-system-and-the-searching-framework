@@ -1,0 +1,29 @@
+n 
+for the reaction.
+SOLUTION
+Analyze We are given two ionic reactants and asked to predict the 
+insoluble product that they form.
+Plan We need to write the ions present in the reactants and ex-
+change the anions between the two cations. Once we have written 
+the chemical formulas for these products, we can use Table 4.1 to 
+determine which is insoluble in water. Knowing the products also 
+allows us to write the equation for the reaction.
+Solve
+(a)  
+The reactants contain Ba2+, Cl-, K+, and SO4
+2- ions. Exchang-
+ing the anions gives us BaSO4 and KCl. According to Table 4.1, 
+most compounds of SO4
+2- are soluble but those of Ba2+ are 
+not. Thus, BaSO4 is insoluble and will precipitate from solu-
+tion. KCl is soluble.
+(b)  
+From part (a) we know the chemical formulas of the products, 
+BaSO4 and KCl. The balanced equation is 
+BaCl21aq2 + K2SO41aq2 ¡ BaSO41s2 + 2 KCl1aq2
+ 
+SECTION 4.2   
+Precipitation Reactions 
+129
+Ionic equations and Spectator Ions
+In writing equations for reactions in a

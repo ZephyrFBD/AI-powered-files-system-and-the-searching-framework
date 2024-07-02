@@ -1,0 +1,30 @@
+d asked to determine whether the reac-
+tion is first or second order.
+ 
+▶Practice Exercise 1
+For a certain reaction A ¡ products, a plot of ln[A] versus 
+time produces a straight line with a slope of -3.0 * 10-2 s-1. 
+Which of the following statements is or are true?
+  (i) The reaction follows ﬁrst-order kinetics.
+  (ii) The rate constant for the reaction is 3.0 * 10-2 s-1.
+ 
+(iii) The initial concentration of [A] was 1.0 M.
+(a) Only one of the statements is true.
+(b) Statements (i) and (ii) are true.
+(c) Statements (i) and (iii) are true.
+(d) Statements (ii) and (iii) are true.
+(e) All three statements are true.
+ 
+▶Practice Exercise 2
+The decomposition of NO2 discussed in the Sample Exercise 
+is second order in NO2 with k = 0.543 M -1 s-1. If the initial 
+concentration of NO2 in a closed vessel is 0.0500 M, what is 
+the concentration of this reactant after 0.500 h?
+SOLUTION
+Sample Exercise 14.8
+ Determining Reaction Order from the Integrated Rate Law
+Time 1s2
+3NO24 1M2
+  0.0
+0.01000
+ 

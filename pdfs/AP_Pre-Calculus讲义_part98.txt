@@ -1,0 +1,100 @@
+g Equations by Using Identities 
+In the next example we use trigonometric identities to express a trigonometric equation in 
+a form in which it can be factored. 
+ 
+Example 5 
+Solve the equation 
+q
+q
++
+=
+2
+1 sin
+2cos
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+149 
+3.10.4 Equations of Multiple of Angles 
+When solving trigonometric equations that involve functions of multiples of angles, we first 
+solve for the multiple of the angle, then divide to solve for the angle. 
+ 
+Example 6 
+Consider the equation 2 sin 3 − 1 = 0. 
+(a) Find all solutions of the equation. 
+(b) Find the solutions in the interval [0, 2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+150 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+151 
+3.11 Trigonometric and Polar Coordinates 
+3.11.1 Definition of Polar Coordinates 
+The polar coordinate system uses distances and directions to specify the location of a 
+point in the plane. 
+To set up this system, we choose a fixed point O in the plane c

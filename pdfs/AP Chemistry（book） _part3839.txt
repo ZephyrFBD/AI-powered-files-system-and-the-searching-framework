@@ -1,0 +1,23 @@
+ell you that this is a two-step mechanism.
+1046 
+CHAPTER 24 The Chemistry of Life: Organic and Biological Chemistry
+stabilization of p electrons by delocalization
+If you draw one Lewis structure for benzene, you draw a ring that contains three CC dou-
+ble bonds and three single CC bonds. 
+ (Section 8.6) You might therefore expect ben-
+zene to resemble the alkenes and to be highly reactive. Benzene and the other aromatic 
+hydrocarbons, however, are much more stable than alkenes because the p electrons are 
+delocalized in the p orbitals. 
+ (Section 9.6)
+We can estimate the stabilization of the p electrons in benzene by comparing the 
+energy released upon forming cyclohexane by adding hydrogen to benzene, to cyclohex-
+ene (one double bond), and to 1,4-cyclohexadiene (two double bonds):
+Benzene
+Anthracene
+Naphthalene
+Toluene
+(Methylbenzene)
+CH3
+Pyrene
+▲ Figure 24.10 Line formulas and common names of several aromatic compounds. The aromatic 
+rings are represented by hexagons with a circle i

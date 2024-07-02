@@ -1,0 +1,15 @@
+en molecules due to simple electrostatic attraction—such as
+between polar molecules (and not within a polar molecule, which is a strong
+bond). The strength of the attachment is much less than for the strong bonds.
+Binding energies are typically in the range 0.04 to 0.3 eV—hence their name
+“weak bonds.”
+Weak bonds are generally the result of attraction between dipoles. (A pair of
+equal point charges q of opposite sign, separated by a distance 
+is called an
+electric dipole, as we saw in Chapter 17.) For example, Fig. 29–11 shows two mole-
+cules, which have permanent dipole moments, attracting one another. Besides such
+dipole;dipole bonds, there can also be dipole;induced dipole bonds, in which a
+polar molecule with a permanent dipole moment can induce a dipole moment in
+an otherwise electrically balanced (nonpolar) molecule, just as a single charge
+can induce a separation of charge in a nearby object (see Fig. 16–7). There can
+even be an attraction between two nonpolar molecules, because

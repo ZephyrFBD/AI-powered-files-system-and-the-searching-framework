@@ -1,0 +1,26 @@
+stimate the acceleration due to gravity at the surface
+of Europa (one of the moons of Jupiter) given that its 
+mass is
+and making the assumption that 
+its mass per unit volume is the same as Earth’s.
+35. (II) Given that the acceleration of gravity at the surface of
+Mars is 0.38 of what it is on Earth, and that Mars’ radius is
+3400 km, determine the mass of Mars.
+36. (II) Find the net force on the Moon  
+due to the gravitational attraction of both the Earth
+and the Sun
+assuming they are at right angles to each other, Fig. 5–43.
+(mS = 1.99 * 1030 kg),
+(mE = 5.98 * 1024 kg)
+(mM = 7.35 * 1022 kg)
+4.9 * 1022 kg
+7.35 * 1022 kg.
+1.74 * 106 m
+43. (II) Determine the distance from the Earth’s center to a
+point outside the Earth where the gravitational acceleration
+due to the Earth is 
+of its value at the Earth’s surface.
+44. (II) A certain neutron star has five times the mass of our
+Sun packed into a sphere about 10 km in radius. Estimate
+the surface gravity on this monster.
+5;7 Satellites and W

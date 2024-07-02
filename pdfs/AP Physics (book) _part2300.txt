@@ -1,0 +1,25 @@
+ current. Such a cur-
+rent is called an induced current. When the magnetic field through coil Y changes,
+a current occurs in Y as if there were a source of emf in circuit Y. We therefore say that
+a changing magnetic field induces an emf.
+Faraday did further experiments on electromagnetic induction, as this phenom-
+enon is called. For example, Fig. 21–2 shows that if a magnet is moved quickly into
+a coil of wire, a current is induced in the wire. If the magnet is quickly removed,
+a current is induced in the opposite direction (
+through the coil decreases).
+Furthermore, if the magnet is held steady and the coil of wire is moved toward 
+or away from the magnet, again an emf is induced and a current flows. Motion or
+change is required to induce an emf. It doesn’t matter whether the magnet or the
+coil moves. It is their relative motion that counts.
+B
+B
+SECTION 21–1
+591
+C A U T I O N
+Relative motion—magnet 
+or coil moving induces current
+592
+CHAPTER 21
+FARADAY’S LAW
+OF INDUCTION
+FARADAY’S LA

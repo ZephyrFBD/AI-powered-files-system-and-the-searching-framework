@@ -1,0 +1,20 @@
+ the apex of
+the arch due to the three forces exerted on that half arch. The torque equation
+contains three terms: the weight above, the support 
+below, and the
+horizontal force 
+which for the round arch (see Fig. 9–31a) is
+Thus
+for the round arch. For the pointed arch, the torque equa-
+tion is (see Fig. 9–31b)
+Solving, we find that
+—only half as much as for the round arch!
+From this calculation we can see that the horizontal buttressing force required
+for a pointed arch is less because the arch is higher, and there is therefore a longer
+lever arm for this force. Indeed, the steeper the arch, the less the horizontal 
+component of the force needs to be, and hence the more nearly vertical is the 
+force exerted at the base of the arch.
+Whereas an arch spans a two-dimensional space, a dome—which is basically an
+arch rotated about a vertical axis—spans a three-dimensional space. The Romans
+built the first large domes. Their shape was hemispherical and some still stand, such
+as that of the P

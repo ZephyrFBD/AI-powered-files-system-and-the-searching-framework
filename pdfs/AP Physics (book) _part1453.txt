@@ -1,0 +1,14 @@
+n Table 13–3. Notice that even solids—for example, ice—have a
+measurable saturated vapor pressure.
+In everyday situations, evaporation from a liquid takes place into the air
+above it rather than into a vacuum. This does not materially alter the discussion
+above relating to Fig. 13–24. Equilibrium will still be reached when there are 
+sufficient molecules in the gas phase that the number reentering the liquid equals
+the number leaving. The concentration of particular molecules (such as water) in
+the gas phase is not affected by the presence of air, although collisions with air
+molecules may lengthen the time needed to reach equilibrium. Thus equilibrium
+occurs at the same value of the saturated vapor pressure as if air were not there.
+If the container is large or is not closed, all the liquid may evaporate before
+saturation is reached. And if the container is not sealed—as, for example, a room
+in your house—it is not likely that the air will become saturated with water vapor
+(unless it 

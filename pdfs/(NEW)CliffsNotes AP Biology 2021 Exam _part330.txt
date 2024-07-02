@@ -1,0 +1,15 @@
+ (called the TATA
+box).
+2. Elongation occurs as the RNA polymerase unzips the DNA and assembles RNA nucleotides using one strand of
+the DNA as a template. As in DNA replication, elongation of the RNA molecule occurs in the 5′ → 3′ direction. In
+contrast to DNA replication, new nucleotides are RNA nucleotides (rather than DNA nucleotides), only one DNA
+strand is transcribed, and primers are not required.
+3. Termination occurs when the RNA polymerase reaches a special sequence of nucleotides that serve as a
+termination point.
+mRNA Processing
+Before the mRNA molecule leaves the nucleus, it undergoes the following alterations:
+1. A 5 ′ cap (–P–P–P (–P–P–G-5′) is added to the 5′ end of the mRNA (see 5 in Figure 9-5). The 5′ cap is a guanine
+nucleotide with two additional phosphate groups, forming GTP (in the same way that ATP is an adenine nucleotide
+with two additional phosphates). Capping provides stability to the mRNA and a point of attachment for the small
+subunit of the ribosome.
+2. A 

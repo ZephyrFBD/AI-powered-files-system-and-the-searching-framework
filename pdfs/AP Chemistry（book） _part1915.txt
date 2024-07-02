@@ -1,0 +1,13 @@
+race amount of 
+a dopant means that extreme care must be taken to control the impurities in semiconduc-
+tors. The semiconductor industry uses “nine-nines” silicon to make integrated circuits; 
+what this means is that Si must be 99.999999999% pure (nine nines after the decimal 
+place) to be technologically useful! Doping provides an opportunity for controlling the 
+electrical conductivity through precise control of the type and concentration of dopants.
+It is also possible to dope semiconductors with atoms that have fewer valence elec-
+trons than the host material. Consider what happens when a few aluminum atoms 
+replace silicon atoms in a silicon crystal. Aluminum has only three valence electrons 
+compared to silicon’s four. Thus, there are electron vacancies, known as holes, in the 
+valence band when silicon is doped with aluminum [Figure 12.31(c)]. Since the neg-
+atively charged electron is not there, the hole can be thought of as having a positive 
+charge. Any adjacent electron that

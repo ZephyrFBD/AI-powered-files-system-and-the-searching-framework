@@ -1,0 +1,45 @@
+d 9.21. Using species such as acetic acid and ammo-
+nia as models, suggest the origin of the two pKa values. 
+ 
+(c) Glutamic acid is an amino acid that has three 
+pKa>s: 2.10, 4.07, and 9.47. Draw the structure of glutamic 
+acid, and assign each pKa to the appropriate part of the 
+molecule. (d) An unknown amino acid is titrated with 
+strong base, producing the following titration curve. 
+Which amino acids are likely candidates for the unknown?
+pH
+Equivalents of OH−
+pKa1
+pKa2
+pKa3
+0
+2
+4
+6
+8
+10
+12
+14
+0.5
+1
+1.5
+2
+3
+2.5
+ 
+[24.101]  
+The protein ribonuclease A in its native, or most stable, 
+form is folded into a compact globular shape:
+Native ribonuclease A
+S S
+S S
+S S
+S S
+ 
+ (a) Does the native form have a lower or higher free 
+energy than the denatured form, in which the protein is 
+an extended chain? (b) What is the sign of the system’s 
+entropy change in going from the denatured to the 
+folded form? (c) In the native form, the molecule has 
+ 
+four ¬ S ¬ S ¬  bonds that bridge parts of 

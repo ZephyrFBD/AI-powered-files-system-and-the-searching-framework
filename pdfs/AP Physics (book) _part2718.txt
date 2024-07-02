@@ -1,0 +1,14 @@
+ors can yield
+almost any natural color. A good-quality screen consists of millions of pixels.
+Behind this array of pixels is a light source, often thin fluorescent tubes the
+diameter of a straw, or light-emitting diodes (LEDs). The light passes through the
+liquid crystal subpixels, or not, depending on the voltage applied to each, as we
+discussed in detail in Section 17–11. See especially Figs. 17–31 and 17–33.
+[To obtain a range of gray scale or range of color brightness, each subpixel can-
+not simply go on or off as in Fig. 24–51. Several techniques can be used depending
+on the construction of the LCD. If the voltage applied in Fig.24–51b is small enough,
+the disorientation of the molecules may be small, allowing some rotation of the
+polarization vector and thus some light can pass through, the actual amount
+depending on the voltage. Alternatively, each subpixel can be pulsed—the length
+of time it is on affects the perceived brightness. The effect of stronger or weaker
+brightness can

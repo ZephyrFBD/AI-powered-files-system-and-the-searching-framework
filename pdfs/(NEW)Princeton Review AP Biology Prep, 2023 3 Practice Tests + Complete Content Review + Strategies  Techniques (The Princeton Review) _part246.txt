@@ -1,0 +1,13 @@
+n.
+Each carrier molecule hands down the electrons to the next molecule in the chain. The electrons travel down the
+electron transport chain until they reach the final electron acceptor, oxygen. Oxygen combines with these electrons
+(and some hydrogens) to form water. This explains the “aerobic” in aerobic respiration. If oxygen weren’t available
+to accept the electrons, they wouldn’t move down the chain at all, thereby shutting down the whole process of
+electron transport.
+NADP+ is the terminal electron acceptor in photosynthesis, while oxygen is the
+terminal electron acceptor in cellular respiration.
+Chemiosmosis
+At the same time that electrons are being passed down the electron transport chain, another mechanism is at work.
+Remember those hydrogen ions (also called protons) that split off from the original hydrogen atom? The energy
+released from the electron transport chain is used to pump hydrogen ions across the inner mitochondrial membrane
+from the matrix into the intermembrane spa

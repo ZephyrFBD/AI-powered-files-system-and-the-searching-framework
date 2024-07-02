@@ -1,0 +1,27 @@
+, starting with something like 
+ 
+newstate = sequence_new 
+X is cell of size 1  4 
+cost = sequence_cost 
+… 
+ 
+and continuing with a temperature step accounting of the simulation 
+ 
+t    T        <E>    Etarget   Estd       e    steps   Ebsf  
+0    Inf        0      0          0       0        0      0 
+1    1e+004     0      0          0       Inf      1      0 
+2    99      0.25      0.113  0.683       15.8     1      0 
+… 
+ 
+then finishing with a listing of an estimate of rho and the energy bin parameter values. 
+ 
+The try_me function performs two tasks: 
+ 
+1. Assigns values to the input variables of the SA Tools method anneal. 
+ 
+2. Calls the anneal method. 
+ 
+Since the anneal method has a large number of inputs, it is simpler to edit a “driver” function that 
+assigns values to the inputs than to try and maintain them on the command line of an interactive session.  
+Documentation on the input values is currently limited to comments built into the method.  To view them, 
+enter the fo

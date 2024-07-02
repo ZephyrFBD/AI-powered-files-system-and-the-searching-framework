@@ -1,0 +1,17 @@
+ity has a positive value, meaning that the anion is higher in energy than are the sep-
+arated atom and electron:
+ 
+Ar1g2 + e- ¡ Ar-1g2  
+EA 7 0  
+[7.6]
+           3Ne43s23p6   3Ne43s23p64s1
+The fact that the electron affinity is positive means that an electron will not attach itself 
+to an Ar atom; in other words the Ar- ion is unstable and does not form.
+Periodic Trends in Electron Affinity
+The electron affinities for the s- and p-block elements of the first five periods are shown 
+in Figure 7.12. Notice that the trends are not as evident as they are for ionization energy. 
+The halogens, which are one electron shy of a filled p subshell, have the most negative 
+electron affinities. By gaining an electron, a halogen atom forms a stable anion that has a 
+noble-gas configuration (Equation 7.5). The addition of an electron to a noble gas, how-
+ever, requires that the electron reside in a higher-energy subshell that is empty in the 
+atom (Equation 7.6). Because occupying a higher-energy su

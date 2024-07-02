@@ -1,0 +1,35 @@
+2s
+*  MOs. With equal numbers 
+of bonding and antibonding electrons, the bond order is zero; thus, Be2 does not exist.
+Go Figure
+Which of the MOs in the diagram will have nodal planes? 
+Energy
+2s
+2s
+Li
+Li2
+Li
+1s
+1s
+s1s
+s2s
+*
+s1s
+*
+s2s
+▲ Figure 9.35 Energy-level diagram for the Li2 molecule.
+Give It Some Thought
+Would you expect Be2
++ to be a stable ion?
+ 
+SECTION 9.8   
+Bonding in Period 2 Diatomic Molecules 
+373
+Molecular Orbitals from 2p Atomic Orbitals
+Before we can consider the remaining period 2 diatomic molecules, we must look at the 
+MOs that result from combining 2p atomic orbitals. The interactions between p orbitals 
+are shown in Figure 9.36, where we have arbitrarily chosen the internuclear axis to be 
+the z-axis. The 2pz orbitals face each other head to head. Just as with s orbitals, we can 
+combine 2pz orbitals in two ways. One combination concentrates electron density be-
+tween the nuclei and is, therefore, a bonding molecular orbital. The other combination 
+excludes elec

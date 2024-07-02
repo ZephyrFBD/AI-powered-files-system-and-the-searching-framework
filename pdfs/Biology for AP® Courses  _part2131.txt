@@ -1,0 +1,14 @@
+: 320 heterozygous: 80 homozygous recessive: 20 violet: 400 white: 20
+c.
+homozygous dominant: 400 heterozygous: 0 homozygous recessive: 100 violet: 400 white: 100
+d.
+homozygous dominant: 480 heterozygous: 0 homozygous recessive: 20 violet: 480 white: 20
+In theory, if a population is at equilibrium—that is, there are no evolutionary forces acting upon it—generation after
+generation would have the same gene pool and genetic structure, and these equations would all hold true all of the time.
+772
+Chapter 19 | The Evolution of Populations
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Of course, even Hardy and Weinberg recognized that no natural population is immune to evolution. Populations in nature
+are constantly changing in genetic makeup due to drift, mutation, possibly migration, and selection. As a result, the only
+way to determine the exact distribution of phenotypes in a population is to go out and count them. But the Hardy–Weinberg
+principle gives 

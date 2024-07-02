@@ -1,0 +1,36 @@
+e mecha-
+nism that leads to an observed experimental rate law!
+ 
+▶Practice Exercise 1
+Consider the following hypothetical reaction:
+2 P + Q ¡ 2 R + S. The following mechanism is proposed 
+for this reaction:
+P + P ∆
+ 
+ T (fast)
+Q + T ¡  R + U  1slow2
+  
+   U ¡ R + S  1fast2
+Substances T and U are unstable intermediates. What rate law 
+is predicted by this mechanism?
+(a) Rate = k3P42 (b) Rate = k3P43Q4 (c) Rate = k3P423Q4  
+(d) Rate = k3P43Q42 (e) Rate = k3U4
+ 
+▶Practice Exercise 2
+The first step of a mechanism involving the reaction of  
+bromine is
+Br21g2 ∆
+k1
+k-1
+2 Br1g2 1fast, equilibrium2
+What is the expression relating the concentration of Br1g2 to 
+that of Br21g2?
+ 
+SECTION 14.7   
+Catalysis 
+601
+The sum of Equations 14.32 and 14.33 is just Equation 14.31, a result that you can check 
+for yourself.
+When the H2O2 has been completely decomposed, we are left with a colorless 
+solution of Br -1aq2, which means that this ion is indeed a catalyst of the reaction 
+because it speeds up the

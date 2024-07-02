@@ -1,0 +1,15 @@
+titute; credit “interleukin-2”: Ramin Herati/Created from PDB
+1M47 and rendered with Pymol; credit “alpha-2u-globulin”: Darren Logan/rendered with AISMIG)
+Chapter Outline
+15.1: The Genetic Code
+15.2: Prokaryotic Transcription
+15.3: Eukaryotic Transcription
+15.4: RNA Processing in Eukaryotes
+15.5: Ribosomes and Protein Synthesis
+Introduction
+The definition of gene has progressed from being an abstract unit of heredity in Mendel’s time to our current concept
+of a tangible molecular entity capable of replication, expression, and mutation (Figure 15.1). Currently, we can perform
+tests for many genetic diseases, but these tests create ethical and legal issues. For example, would you want to be tested
+for a debilitating genetic disease if there was the possibility insurance companies could use that information to deny
+you coverage? Fortunately, the Genetic Information Nondiscrimination Act of 2008 protects American citizens from
+discrimination from both insurance companies and employers base

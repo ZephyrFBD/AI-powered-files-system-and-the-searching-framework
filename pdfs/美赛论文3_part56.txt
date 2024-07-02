@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+.
+7. Strengths and weaknesses
+7.1 Strengths
+
+We consider the loss of heat comparatively accurately. Many kinds of the loss of
+heat are under our consideration including the radiation of heat conduction
+between water and air, the heat flux made by heat conduction between water and
+air, the radiation of the water ’ s long-wave return and the evaporation of the
+water.
+
+With the help of Weber-Fechner law, we consider the feeling instead of the heat
+stimulation so that we can ensure which strategy is better.
+
+We use the comprehensive evaluation model to reduce the influence by the
+assumed proportion.
+7.2 Weaknesses
+
+We discussed the situation that the overflow drain and the faucet are on the
+opposite side carefully. When the overflow drain is near the faucet, we only
+estimate
+the loss of the heat roughly not accurately. This might affect out
+strategy.
+
+The proportion is considered by us,not supported by some study, so it i

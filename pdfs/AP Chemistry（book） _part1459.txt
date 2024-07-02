@@ -1,0 +1,16 @@
+ the wave function approaches zero only at a long 
+distance from the nucleus. It therefore has no nodes, as we saw in 
+Figure 6.22.
+In the graph for the 2pz orbital in Figure 9.38, the wave func-
+tion changes sign when it passes through z = 0. Notice that the two 
+halves of the wave have the same shape except that one has positive 
+(red) values and the other negative (blue) values. Analogously to 
+the sine function, the wave function changes phase when it passes 
+through the origin. Mathematically, the 2pz wave function is equal to 
+zero whenever z = 0. This corresponds to any point on the xy plane, 
+so we say that the xy plane is a nodal plane of the 2pz orbital. The wave 
+function for a p orbital is much like a sine function because it has two 
+equal parts that have opposite phases. Figure 9.38 gives a typical rep-
+resentation used by chemists of the wave function for a pz orbital.* 
+The red and blue lobes indicate the different phases of the orbital. 
+(Note: The colors do not repres

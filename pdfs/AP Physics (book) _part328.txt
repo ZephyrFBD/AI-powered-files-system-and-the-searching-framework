@@ -1,0 +1,15 @@
+or the wind blows the
+leaves of a tree, a force is being exerted. We often call these contact forces because
+the force is exerted when one object comes in contact with another object. On
+the other hand, we say that an object falls because of the force of gravity (which is
+not a contact force).
+If an object is at rest, to start it moving requires force—that is, a force is
+needed to accelerate an object from zero velocity to a nonzero velocity. For an
+object already moving, if you want to change its velocity—either in direction or in
+magnitude—a force is required. In other words, to accelerate an object, a force 
+is always required. In Section 4–4 we discuss the precise relation between accel-
+eration and net force, which is Newton’s second law.
+One way to measure the magnitude (or strength) of a force is to use a spring
+scale (Fig. 4–2). Normally, such a spring scale is used to find the weight of an
+object; by weight we mean the force of gravity acting on the object (Section 4–6).
+The s

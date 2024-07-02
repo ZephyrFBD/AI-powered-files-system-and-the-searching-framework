@@ -1,0 +1,80 @@
+any imaginary gaussian surface as a sphere of radius r
+concentric with the shell, shown in Fig. 16–45 as the dashed circle 
+Then, by symmetry, the electric field will have the same magnitude at all points
+on this gaussian surface. Because 
+is perpendicular to this surface, Gauss’s law
+gives (with
+in Eq. 16–9)
+where 
+is the surface area of our sphere (gaussian surface) of radius r. Thus
+We see that the field outside a uniformly charged spherical shell is the same as if
+all the charge were concentrated at the center as a point charge.
+Cr 7 r0D
+E =
+1
+4p0
+Q
+r2 .
+4pr2
+a E⊥¢A = E a ¢A = EA4pr2B
+= Q
+0
+,
+Qencl = Q
+E
+B
+A1 .
+Ar 7 r0B
+Q 6 0
+r0
+EXAMPLE 16;12
+A2
+A2
+r0
+r
+r
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+A1
+A1
+E
+B
+FIGURE 16–45 Cross-sectional
+drawing of a thin spherical shell
+(gray) of radius 
+carrying a net
+charge Q uniformly distributed. The
+green circles 
+and 
+represent
+two gaussian surfaces we use to
+determine 
+Example 16–12.
+E
+B.
+A2
+A1
+r0 ,
+Gauss’s law involves the total flux 

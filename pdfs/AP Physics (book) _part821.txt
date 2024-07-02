@@ -1,0 +1,33 @@
+e doorknob. (b) The
+lever arm is defined as the perpendicular
+distance from the axis of rotation (the
+hinge) to the line of action of the force 
+(
+for the force 
+).
+F
+B
+C
+rC
+The magnitude of the torque associated with 
+is then 
+This short lever
+arm 
+and the corresponding smaller torque associated with 
+are consistent
+with the observation that 
+is less effective in accelerating the door than is 
+with its larger lever arm. When the lever arm is defined in this way, experiment
+shows that the relation
+is valid in general. Notice in Fig. 8–12 that the line
+of action of the force 
+passes through the hinge, and hence its lever arm is zero.
+Consequently, zero torque is associated with 
+and it gives rise to no angular
+acceleration, in accord with everyday experience (you can’t get a door to start
+moving by pushing directly at the hinge).
+In general, then, we can write the magnitude of the torque about a given axis as
+(8;10a)
+where 
+is the lever arm, and the perpendicular symbol 
+reminds us that

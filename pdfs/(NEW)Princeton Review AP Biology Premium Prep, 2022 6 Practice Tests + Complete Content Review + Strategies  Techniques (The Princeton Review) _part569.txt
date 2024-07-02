@@ -1,0 +1,36 @@
+oth
+populations of animals appear to be evenly distributed throughout the forest, but it often looks like there are
+more red flowers on one side of the forest than on the other side.
+A researcher wanted to determine if the red flowers preferred to grow on the western side of the forest and the
+yellow preferred to grow on the eastern side of the forest. For 5 years, she counted the number of red flowers
+on each side of the forest. The results are in Table 1.
+Table 1
+Year
+Western Red Flowers
+Eastern Red Flowers
+2006
+1,527
+986
+2007
+1,324
+1,011
+2008
+1,478
+876
+2009
+1,048
+788
+2010
+1,140
+800
+Average
+1,304
+892
+Standard Error
+208
+103
+(a) Explain how biotic and abiotic factors affect where plants grow.
+(b) Construct a graph of averages and standard error for the western and eastern flowers.
+(c) Perform a chi-squared analysis using the average data for both flower types.
+(d) Using your chi-squared analysis data, explain if you can reject the null hypothesis that flowers do not prefer
+the western 

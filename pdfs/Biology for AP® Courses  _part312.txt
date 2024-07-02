@@ -1,0 +1,16 @@
+ acids commonly found in proteins, each with a different R
+group (variant group) that determines its chemical nature.
+Which categories of amino acid would you expect to find on the surface of a soluble protein, and which would you
+expect to find in the interior?
+a.
+Polar and charged amino acids will be found on the surface. Non-polar amino acids will be found in the
+interior.
+b.
+Polar and charged amino acids will be found in the interior. Non-polar amino acids will be found on the
+surface.
+c.
+Non-polar and uncharged proteins will be found on the surface as well as in the interior.
+The chemical nature of the side chain determines the nature of the amino acid (that is, whether it is acidic, basic, polar,
+or nonpolar). For example, the amino acid glycine has a hydrogen atom as the R group. Amino acids such as valine,
+methionine, and alanine are nonpolar or hydrophobic in nature, while amino acids such as serine, threonine, and cysteine
+are polar and have hydrophilic side chains. The side 

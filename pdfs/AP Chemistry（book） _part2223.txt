@@ -1,0 +1,32 @@
+-order reaction by substituting 
+ 
+3A4t1>2 = 1
+23A40 for 3A4t and t1>2 for t in Equation 14.12:
+ln 
+1
+23A40
+3A40
+= -kt1>2
+ ln 1
+2 = -kt1>2
+ 
+t1>2 = -
+ln1
+2
+k
+= 0.693
+k
+ 
+[14.17]
+From Equation 14.17, we see that t1>2 for a first-order rate law does not depend on the 
+initial concentration of any reactant. Consequently, the half-life remains constant through-
+out the reaction. If, for example, the initial concentration of a reactant is 0.120 M it will be 
+1
+210.120 M2 = 0.060 M after one half-life. After one more half-life passes, 
+the concentration will drop to 0.030 M, and so on. Equation 14.17 also 
+indicates that, for a first-order reaction, we can calculate t1>2 if we know k 
+and calculate k if we know t1>2.
+The change in concentration over time for the first-order rearrange-
+ment of gaseous methyl isonitrile at 199 °C is graphed in Figure 14.10. 
+Because the concentration of this gas is directly proportional to its pressure 
+during the reaction, we have chosen to plot pressure rath

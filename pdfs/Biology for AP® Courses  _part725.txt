@@ -1,0 +1,17 @@
+ need to know how the target acts inside the cell and which reactions go awry in
+the case of disease. Once the target and the pathway are identified, then the actual process of drug design
+begins. During this stage, chemists and biologists work together to design and synthesize molecules that
+can either block or activate a particular reaction. However, this is only the beginning: both if and when a drug
+prototype is successful in performing its function, then it must undergo many tests from in vitro experiments
+to clinical trials before it can get FDA approval to be on the market.
+Statins reduce the level of cholesterol in the blood. Based on the everyday connection, which of the following might
+also reduce cholesterol levels in the blood?
+a.
+a drug that increases HMG-CoA reductase levels
+b.
+a drug that reduces cyclooxygenase levels
+c.
+a drug that reduces lipid levels in the body
+d.
+a drug that blocks the action of acetaminophen
+Many enzymes don’t work optimally, or even at all, unless

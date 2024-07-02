@@ -1,0 +1,18 @@
+roton is increased to 1.0 nm? 
+(c) Does the potential energy of the two particles increase or 
+decrease when the distance is increased to 1.0 nm?
+ 5.14 (a) What is the electrostatic potential energy (in joules) be-
+tween two protons that are separated by 62 pm? (b) What 
+is the change in potential energy if the distance separating 
+the two is increased to 1.0 nm? (c) Does the potential en-
+ergy of the two particles increase or decrease when the dis-
+tance is increased to 1.0 nm?
+ 5.15 (a) The electrostatic force (not energy) of attraction between 
+two oppositely charged objects is given by the equation 
+F = k1Q 1Q 2>d22 where k = 8.99 * 109 N@m2>C2, Q1 and 
+Q2 are the charges of the two objects in Coulombs, and d is 
+the distance separating the two objects in meters. What is 
+the electrostatic force of attraction (in Newtons) between an 
+electron and a proton that are separated by 1.00 * 102 pm? 
+(b) The force of gravity acting between two objects is given 
+by the equation F = G1m1m2>d

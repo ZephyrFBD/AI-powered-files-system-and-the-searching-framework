@@ -1,0 +1,16 @@
+d significantly different. Such a result often indicates that your expectations were wrong or your
+data collection was faulty.
+More typically, the value you calculate for χ2 will be between these two extremes. To determine whether the χ2
+value obtained indicates that the
+ 
+difference between the observed data and expected data occurred by
+ 
+chance or because the expectations or data are wrong, a χ2 statistical
+ 
+table is consulted (provided on the equations and formulas pages). If
+ 
+chance explains 95% or more of the deviation of χ2 from zero, then the
+experimental results are acceptable. If not, there are errors in the data collection or a problem with the expectations.
+As an example, consider the trait of eye color in fruit flies, where red eyes (R) are dominant to brown (sepia) eyes
+(r). A cross between a heterozygous red-eyed fly (Rr) and a brown-eyed fly (rr) is expected to produce ½
+heterozygous red-eyed flies (Rr) and ½ brown-eyed flies (rr). What can you say about this investig

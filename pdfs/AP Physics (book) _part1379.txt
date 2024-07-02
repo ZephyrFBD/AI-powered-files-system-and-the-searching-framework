@@ -1,0 +1,22 @@
+Law
+13–8 Ideal Gas Law in Terms of
+Molecules:Avogadro’s Number
+13–9 Kinetic Theory and the
+Molecular Interpretation 
+of Temperature
+13–10 Distribution of Molecular
+Speeds
+13–11 Real Gases and Changes 
+of Phase
+13–12 Vapor Pressure and Humidity
+*13–13 Diffusion
+Heating the air inside a “hot-air” balloon raises the air’s temperature, causing 
+it to expand, and forces some of the air out the opening at the bottom. The
+reduced amount of air inside means its density is lower than the outside air, so
+there is a net buoyant force upward on the balloon (Chapter 10). In this Chapter
+we study temperature and its effects on matter: thermal expansion and the 
+gas laws. We examine the microscopic theory of matter as atoms or molecules
+that are continuously in motion, which we call kinetic theory. The temperature 
+of a gas is directly related to the average translational kinetic energy of its
+molecules. We will consider ideal gases, but will also look at real gases and 
+how they change phase, includ

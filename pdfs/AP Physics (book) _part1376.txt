@@ -1,0 +1,30 @@
+t is the
+traveling wavelength of the sound in air at 20°C?
+*95. The intensity at the threshold of hearing for the human ear
+at a frequency of about 1000 Hz is
+for which 
+the sound level, is 0 dB. The threshold of pain
+at the same frequency is about 120 dB, or
+corresponding to an increase of intensity by a factor of 
+By what factor does the displacement amplitude, A, vary?
+96. A Doppler flow meter uses ultrasound waves to measure
+blood-flow speeds. Suppose the device emits sound at
+3.5 MHz, and the speed of sound in human tissue is about
+What is the expected beat frequency if blood is
+flowing in large leg arteries at 
+directly away from
+the sound source?
+3.0 cms
+1540 ms.
+1012.
+I = 1.0 Wm2,
+b,
+I
+0 = 1.0 * 10–12 Wm2,
+1. At a painfully loud concert, a 120-dB sound wave travels
+away from a loudspeaker at 
+How much sound wave
+energy is contained in each 
+volume of air in the
+region near this loudspeaker? (See Sections 12–2 and 11–9.)
+2. At a race track, you can estimate the speed of cars

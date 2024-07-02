@@ -1,0 +1,18 @@
+microscopic world
+of the atom, the law of conservation of energy has been found to hold in every
+experimental situation so far tested.
+LAW OF 
+CONSERVATION 
+OF ENERGY
+Work-Energy versus Energy Conservation
+The law of conservation of energy is more general and more powerful than the
+work-energy principle. Indeed, the work-energy principle should not be viewed
+as a statement of conservation of energy. It is nonetheless useful for mechanical
+problems; and whether you use it, or use the more powerful conservation of
+energy, can depend on your choice of the system under study. If you choose as
+your system a particle or rigid object on which external forces do work, then you
+can use the work-energy principle: the work done by the external forces on your
+object equals the change in its kinetic energy.
+On the other hand, if you choose a system on which no external forces do
+work, then you need to apply conservation of energy to that system directly.
+Consider, for example, a spring connected to

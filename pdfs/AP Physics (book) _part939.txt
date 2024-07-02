@@ -1,0 +1,25 @@
+nless, but the floor is not, deter-
+mine the forces exerted on the ladder by the floor and by the wall.
+APPROACH Figure 9–11 is the free-body diagram for the ladder, showing all
+the forces acting on the ladder. The wall, since it is frictionless, can exert a force
+only perpendicular to the wall, and we label that force 
+The cement floor
+exerts a force 
+which has both horizontal and vertical force components:
+is frictional and 
+is the normal force. Finally, gravity exerts a force
+on the ladder at its midpoint, since the
+ladder is uniform.
+SOLUTION Again we use the equilibrium conditions,
+We will need all three since there are three unknowns:
+and
+. The y component of the force equation is
+so immediately we have
+The x component of the force equation is
+To determine both 
+and 
+we need a torque equation. If we choose to 
+calculate torques about an axis through the point where the ladder touches 
+the cement floor, then 
+which acts at this point, will have a lever arm of 
+zero and so won’t en

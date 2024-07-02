@@ -1,0 +1,20 @@
+lan. What is it?
+RESPONSE Suction cups work by pushing out the air underneath the cup.
+What holds the suction cup in place is the air pressure outside it. (This can be 
+a substantial force when on Earth. For example, a 10-cm-diameter suction 
+cup has an area of 
+The force of the atmosphere on it is
+about 180 lbs!) But in outer space,
+there is no air pressure to push the suction cup onto the spacecraft.
+A7.9 * 10–3 m2BA1.0 * 105 Nm2B L 800 N,
+7.9 * 10–3 m2.
+CONCEPTUAL EXAMPLE 10;5
+We sometimes mistakenly think of suction as something we actively do. For
+example, we intuitively think that we pull the soda up through a straw. Instead,
+what we do is lower the pressure at the top of the straw, and the atmosphere pushes
+the soda up the straw.
+10–7 Buoyancy and 
+Archimedes’ Principle
+Objects submerged in a fluid appear to weigh less than they do when outside the
+fluid. For example, a large rock that you would have difficulty lifting off the
+ground can often be easily lifted from the bottom o

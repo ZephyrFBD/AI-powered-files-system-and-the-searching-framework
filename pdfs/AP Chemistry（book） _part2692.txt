@@ -1,0 +1,21 @@
+ in Sample Exercise 17.3. However, the assumption that 
+the initial concentrations of the acid and base components in the buffer are equal to the 
+equilibrium concentrations is just that: an assumption. There may be times when you 
+will need to be more careful, as seen in Sample Exercise 17.4.
+What is the pH of a buffer that is 0.12 M in lactic acid 3CH3CH1OH2COOH, or HC3H5O34 and 0.10 M in sodium lactate 
+3CH3CH1OH2COONa or NaC3H5O34? For lactic acid, Ka = 1.4 * 10-4.
+Analyze We are asked to calculate the pH of a buffer containing 
+lactic acid 1HC3H5O32 and its conjugate base, the lactate ion 
+1C3H5O3
+-2.
+Plan We will first determine the pH using the method described 
+in Section 17.1. Because HC3H5O3 is a weak electrolyte and 
+SOLUTION
+Sample Exercise 17.3 
+Calculating the pH of a Buffer
+NaC3H5O3 is a strong electrolyte, the major species in solution 
+are HC3H5O3, Na+, and C3H5O3
+-. The Na+ ion is a spectator ion. 
+The HC3H5O3>C3H5O3
+- conjugate acid–base pair determines 3H+4 
+and, th

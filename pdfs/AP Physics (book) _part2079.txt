@@ -1,0 +1,59 @@
+ify the unknowns. We have three unknowns 
+and therefore
+we need three equations, which we get by applying Kirchhoff’s junction and
+loop rules.
+3. Junction rule: We apply Kirchhoff’s junction rule to the currents at point a,
+where 
+enters and 
+and 
+leave:
+(i)
+This same equation holds at point d, so we get no new information by writing
+an equation for point d.
+I
+3 = I
+1 + I
+2 .
+I
+1
+I
+2
+I
+3
+(I
+1, I
+2 , and I
+3)
+I
+1
+I
+3
+I
+2
+I
+3
+I
+1 , I
+2 ,
+I
+3
+I
+1, I
+2,
+EXAMPLE 19;8
+P R O B L E M  S O L V I N G
+Choose current directions arbitrarily
+SECTION 19–3
+Kirchhoff’s Rules
+535
+P R O B L E M  S O L V I N G
+Be consistent with signs when
+applying the loop rule
+P R O B L E M  S O L V I N G
+I1 is in the opposite direction
+from that assumed in Fig. 19–13
+4. Loop rule: We apply Kirchhoff’s loop rule to two different closed loops. First
+we apply it to the upper loop ahdcba. We start (and end) at point a. From 
+a to h we have a potential decrease
+From h to d there is no
+change, but from d to c the potential i

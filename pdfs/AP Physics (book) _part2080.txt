@@ -1,0 +1,27 @@
+ncreases by 45 V: that is,
+From c to a the potential decreases through the two resistances by an amount
+Thus we have
+or
+(ii)
+where we have omitted the units (volts and amps) so we can more easily see
+the algebra. For our second loop, we take the outer loop ahdefga. (We could
+have chosen the lower loop abcdefga instead.) Again we start at point a, and
+going to point h we have
+Next,
+But when we 
+take our positive test charge from d to e, it actually is going uphill, against the
+current—or at least against the assumed direction of the current, which is
+what counts in this calculation. Thus 
+has a positive sign.
+Similarly,
+From f to g there is a decrease in potential of 
+80 V because we go from the high potential terminal of the battery to the low.
+Thus 
+Finally,
+and the sum of the potential changes
+around this loop is
+(iii)
+Our major work is done. The rest is algebra.
+5. Solve the equations. We have three equations—labeled (i), (ii), and (iii)—
+and three unknowns. From Eq. (iii) we have
+(

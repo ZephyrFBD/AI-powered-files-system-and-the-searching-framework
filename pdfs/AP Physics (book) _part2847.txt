@@ -1,0 +1,15 @@
+ields the total absorption (called a “projection”) along that
+beam line. Complicated mathematical techniques are used to analyze all the
+absorption projections for the huge number of beam scans measured (see the
+next Subsection), obtaining the absorption at each pixel and assigning each a
+“grayness value” according to how much radiation was absorbed. The image is
+made up of tiny spots (pixels) of varying shades of gray. Often the amount of
+absorption is color-coded. The colors in the resulting false-color image have
+nothing to do, however, with the actual color of the object. The actual images are
+monochromatic (various shades of gray, depending on the absorption). Only
+visible light has color; X-rays do not.
+Figure 25–44 illustrates what actual CT images look like. It is generally agreed
+that CT scanning has revolutionized some areas of medicine by providing much
+less invasive, and or more accurate, diagnosis.
+Computed tomography can also be applied to ultrasound imaging 
+(Section 12–

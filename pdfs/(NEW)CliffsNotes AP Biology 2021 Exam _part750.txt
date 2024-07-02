@@ -1,0 +1,13 @@
+ent Hardy-Weinberg equilibrium, the mixing of the gametes must be random
+(selection is absent). If you are creating a spreadsheet in this part of the investigation, you can use the random
+number generator of the spreadsheet (RAND). If you choose p = 0.6 and q = 0.4, you essentially tell the spreadsheet
+to randomly assign to each gamete an A or a B allele, except that 60% of the time it needs to be an A and 40% of the
+time it needs to be a B.
+Step 3: Determine frequencies of zygotes. If the union of gametes is a random event, then the chance that any two
+gametes come together depends upon how many of each gamete is present. The chance that two A alleles
+come together to form an AA zygote is p × p, or p2. For the AB and BA zygotes, the chance is p × q + q × p, or 2pq.
+For the BB zygote, the chance
+ 
+is q × q, or q2. This reasoning results in the Hardy-Weinberg equation: p2 + 2pq + q2 = 1
+ 
+The equation is equal to 1 because the terms represent all (100%) of the possible combinations of a

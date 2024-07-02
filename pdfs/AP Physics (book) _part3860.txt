@@ -1,0 +1,38 @@
+ature (K)
+Molar specific heat at constant
+volume (cal/mol · K)
+Lead
+Copper
+Beryllium
+Diamond
+FIGURE D;4 Molar specific heats 
+of solids as a function of temperature.
+FIGURE D;5 The atoms in a crystalline solid can 
+vibrate about their equilibrium positions as if they 
+were connected to their neighbors by springs. (The 
+forces between atoms are actually electrical in nature.)
+A-22
+APPENDIX E
+Galilean and Lorentz Transformations
+A
+P
+P
+E
+N
+D
+I
+X
+E
+W
+e examine in detail the mathematics of relating quantities in one inertial
+reference frame to the equivalent quantities in another. In particular, we
+will see how positions and velocities transform (that is, change) from
+one frame of reference to the other.
+We begin with the classical, or Galilean, viewpoint. Consider two inertial ref-
+erence frames S and 
+which are each characterized by a set of coordinate axes,
+Fig.E–1. The axes x and y (z is not shown) refer to S, and 
+and 
+refer to 
+The
+and x axes overlap one another, and we assume that fr

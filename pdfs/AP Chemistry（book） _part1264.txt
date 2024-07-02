@@ -1,0 +1,46 @@
+ond Polarity and Electronegativity 
+313
+Solve
+(a) The charge on each atom is the electronic charge, 
+e = 1.60 * 10-19 C. The separation is 1.27 Å. The 
+dipole moment is therefore:
+Thus, the experimental dipole moment indicates 
+that the charge separation in the HCl molecule is:
+m = Qr = 11.60 * 10-19 C211.27 A
+° 2a10-10 m
+1 A
+°
+b a
+1 D
+3.34 * 10-30 C@m
+b = 6.08 D
+(b) We know the value of m, 1.08 D, and the value of 
+r, 1.27 Å. We want to calculate the value of Q:
+Q =
+m
+r =
+11.08 D2a 3.34 * 10-30 C@m
+1 D
+b
+11.27  
+°
+A  
+2a 10-10 m
+1 
+°
+A
+b
+= 2.84 * 10-20 C
+We can readily convert this charge to units of e:
+Charge in e = 12.84 * 10-20 C2a
+1e
+1.60 * 10-19 C
+b = 0.178e
+H
+0.178 +
+____ Cl
+0.178 -
+Table 8.2 presents the bond lengths and dipole moments of the hydrogen halides. 
+Notice that as we proceed from HF to HI, the electronegativity difference decreases 
+and the bond length increases. The first effect decreases the amount of charge sepa-
+rated and causes the dipole moment to decrease fro

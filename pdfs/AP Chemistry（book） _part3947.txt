@@ -1,0 +1,23 @@
+ following operations:
+(a)  
+Write 67,000 in exponential notation, showing two signifi-
+cant figures. 
+(b) 13.378 * 10-32 - 14.97 * 10-52
+(c) 11.84 * 1015217.45 * 10-22
+(d) 16.67 * 10-823
+ 
+A.2  
+Logarithms 
+1083
+The process of taking the antilog of a number is the same as raising 10 to a power equal 
+to that number.
+antilog 1.371 = 101.371 = 23.5
+Many calculators have a key labeled 10x that allows you to obtain antilogs directly. On others, 
+it will be necessary to press a key labeled INV (for inverse), followed by the LOG key.
+Natural Logarithms
+Logarithms based on the number e are called natural, or base e, logarithms (abbreviated 
+ln). The natural log of a number is the power to which e (which has the value 2.71828…) 
+must be raised to equal the number. For example, the natural log of 10 equals 2.303.
+e2.303 = 10, therefore ln 10 = 2.303
+Your calculator probably has a key labeled LN that allows you to obtain natural logarithms. For 
+example, to obtain the natural log of 46.8, you e

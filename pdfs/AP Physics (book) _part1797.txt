@@ -1,0 +1,53 @@
+rm over it. Then Gauss’s law gives
+and therefore
+[at surface of conductor]
+This useful result applies for any shape conductor, including a large, uniformly
+charged flat sheet: the electric field will be constant and equal to s0 .
+E =
+s
+0
+.
+a E⊥¢A = EA = Qencl
+0
+= sA
+0
+,
+QA,
+s
+E =
+s
+0
+,
+EXAMPLE 16;13
+E
+B
+E
+B
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 16–46 Electric field near
+the surface of a conductor. Two
+small cylindrical boxes are shown
+dashed. Either one can serve as our
+gaussian surface. Example 16–13.
+466
+CHAPTER 16
+Electric Charge and Electric Field
+There are two kinds of electric charge, positive and negative.
+These designations are to be taken algebraically—that is, any
+charge is plus or minus so many coulombs (C), in SI units.
+Electric charge is conserved: if a certain amount of one type
+of charge is produced in a process, an equal amount of the oppo-
+site type is also produced; thus the net charge produced is zero.
+According to atomic theory, electricity originates in the
+atom, w

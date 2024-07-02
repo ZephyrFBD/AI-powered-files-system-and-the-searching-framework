@@ -1,0 +1,42 @@
+ecause they will be 
+out
+of phase. However, light from the top third of the slit will still reach the screen,
+so there will be a bright spot (or fringe) centered near
+but it will
+not be nearly as bright as the central spot at
+For an even larger angle 
+such that the top ray travels 
+farther than the bottom ray, Fig. 24–20d, rays
+from the bottom quarter of the slit will cancel with those in the quarter just 
+above it because the path lengths differ by 
+And the rays through the quarter
+of the slit just above center will cancel with those through the top quarter. At this
+angle there will again be a minimum of zero intensity in the diffraction pattern.
+l2.
+2l
+u
+u = 0°.
+sin u L 3l2D,
+l2
+3
+2 l
+u
+u
+(intensity = zero)
+u = 0°
+[first minimum]
+sin u =
+l
+D
+.
+l = D sin u,
+u
+u
+l.
+l
+A plot of the intensity as a function of angle is shown in Fig. 24–21. This corre-
+sponds well with the photo of Fig. 24–19c. Notice that minima (zero intensity)
+occur on both sides of center at
+(24;3b)
+but not at 
+wher

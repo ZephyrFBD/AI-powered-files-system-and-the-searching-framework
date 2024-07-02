@@ -1,0 +1,36 @@
+stance of the
+wire on the armature.
+21–6 Back EMF and 
+T
+orque
+24. (I) A motor has an armature resistance of 
+If it draws
+8.20 A when running at full speed and connected to a 120-V
+line, how large is the back emf?
+25. (I) The back emf in a motor is 72 V when operating at
+1800 rpm. What would be the back emf at 2300 rpm if the
+magnetic field is unchanged?
+26. (II) What will be the current in the motor of Example 21–8
+if the load causes it to run at half speed?
+21–7 T
+ransformers
+[Assume 100% efficiency, unless stated otherwise.]
+27. (I) A transformer is designed to change 117 V into
+13,500 V, and there are 148 turns in the primary coil. How
+many turns are in the secondary coil?
+28. (I) A transformer has 360 turns in the primary coil and 120
+in the secondary coil. What kind of transformer is this, and
+by what factor does it change the voltage? By what factor
+does it change the current?
+3.65 .
+120 revs
+8.65 * 10–3 Ts.
+U-shaped
+21.0 
+U-shaped
+2.5 .
+1.6 ms
+1.50 ms.
+U-shaped
+0.25 
+*4

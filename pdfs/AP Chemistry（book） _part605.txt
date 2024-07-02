@@ -1,0 +1,19 @@
+nic compound dissolves, the relative concentrations of the 
+ions in the solution depend on the chemical formula of the compound. For example, a 
+1.0 M solution of NaCl is 1.0 M in Na+ ions and 1.0 M in Cl- ions, and a 1.0 M solution of 
+Na2SO4 is 2.0 M in Na+ ions and 1.0 M in SO4
+2- ions. Thus, the concentration of an elec-
+trolyte solution can be specified either in terms of the compound used to make the solu-
+tion (1.0 M Na2SO42 or in terms of the ions in the solution (2.0 M Na+ and 1.0 M SO4
+2-2.
+ 
+Sample Exercise 4.11 
+Calculating Molarity
+Calculate the molarity of a solution made by dissolving 23.4 g of sodium sulfate (Na2SO4) in enough water to form 125 mL of 
+solution.
+SOLUTION
+Analyze We are given the number of grams of solute (23.4 g), its 
+chemical formula 1Na2SO4), and the volume of the solution  
+(125 mL) and asked to calculate the molarity of the solution.
+Plan We can calculate molarity using Equation 4.31. To do so, we 
+must convert the number of grams of solute to moles

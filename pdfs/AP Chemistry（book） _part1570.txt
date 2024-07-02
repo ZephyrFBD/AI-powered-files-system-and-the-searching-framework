@@ -1,0 +1,31 @@
+s maintained at constant temperature and pressure  
+is directly proportional to the number of moles of the gas.
+That is,
+ 
+V = constant * n or  V
+n = constant 
+[10.4]
+where n is number of moles. Thus, for instance, doubling the number of moles of gas 
+causes the volume to double if T and P remain constant.
+Give It Some Thought
+Does the volume of a fixed quantity of gas decrease to half its original value when 
+the temperature is lowered from 100 °C to 50 °C?
+ 
+SECTION 10.4   
+The Ideal-Gas Equation 
+403
+10.4 ∣ The Ideal-Gas Equation
+All three laws we just examined were obtained by holding two of the four variables P, V, 
+T, and n constant and seeing how the remaining two variables affect each other. We can 
+express each law as a proportionality relationship. Using the symbol ∝ for “is propor-
+tional to,” we have
+Boyle>s law: 
+ 
+V ∝1
+P 1constant n, T2
+Charles>s law:  
+V ∝T 1constant n, P2
+Avogadro>s law:  
+V ∝n 1constant P, T2
+We can combine these relationships into a general gas law:
+ 

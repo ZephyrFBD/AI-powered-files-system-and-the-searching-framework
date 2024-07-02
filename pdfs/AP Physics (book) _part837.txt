@@ -1,0 +1,55 @@
+a rough estimate. We can do a rough estimate of the moment of inertia by
+assuming the pulley is a uniform cylinder and using Fig. 8–20c:
+This is the same order of magnitude as our result, but numerically somewhat
+less. This makes sense, though, because a pulley is not usually a uniform
+cylinder but instead has more of its mass concentrated toward the outside
+edge. Such a pulley would be expected to have a greater moment of inertia
+than a solid cylinder of equal mass. A thin hoop, Fig. 8–20a, ought to have a
+greater I than our pulley, and indeed it does: I = MR2 = 0.436 kgm2.
+I L
+1
+2 MR2 =
+1
+2 (4.00 kg)(0.330 m)2 = 0.218 kgm2.
+I =
+©t
+a
+=
+3.85 mN
+10.0 rads2
+= 0.385 kgm2.
+I = ©ta.
+©t = Ia,
+a =
+¢v
+¢t
+= 30.0 rads - 0
+3.00 s
+= 10.0 rads2.
+v = 30.0 rads:
+a
+©t = RF
+T - tfr = (0.330 m)(15.0 N) - 1.10 mN = 3.85 mN.
+tfr = 1.10 mN;
+RF
+T
+F
+B
+T
+F
+B
+fr
+F
+B
+T
+tfr = 1.10 mN
+30.0 rads
+R = 33.0 cm,
+M = 4.00 kg
+F
+B
+T
+EXAMPLE 8;10
+P R O B L E M  S O L V I N G
+Usefulness and power
+of rough est

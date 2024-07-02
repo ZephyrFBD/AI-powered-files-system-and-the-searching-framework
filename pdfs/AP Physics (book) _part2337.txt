@@ -1,0 +1,22 @@
+rly) all the mag-
+netic flux produced by the current in the primary coil also passes through 
+the secondary coil, and we assume this is true in what follows. We also 
+assume that energy losses (in resistance and hysteresis) can be ignored—a good
+approximation for real transformers, which are often better than 99% efficient.
+When an ac voltage is applied to the primary coil, the changing magnetic
+field it produces will induce an ac voltage of the same frequency in the secondary
+coil. However, the voltage will be different according to the number of “turns” or
+loops in each coil. From Faraday’s law, the voltage or emf induced in the
+secondary coil is
+where 
+is the number of turns in the secondary coil, and 
+is the rate at
+which the magnetic flux changes.
+The input primary voltage,
+is related to the rate at which the flux changes
+through it,
+where 
+is the number of turns in the primary coil. This follows because the
+changing flux produces a back emf,
+in the primary that balances 
+the appl

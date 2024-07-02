@@ -1,0 +1,26 @@
+lculate the Ksp values in the same way we applied 
+Equation 19.21 in Sample Exercise 19.12. We use the ∆G°
+soln 
+values we obtained in part (a), remembering to convert them 
+from kJ>mol to J>mol:
+ 
+NaCl: Ksp = 3Na+43Cl-4 = e-1-91002>318.3142129824
+ = e+3.7 = 40
+ 
+AgCl: Ksp = 3Ag+43Cl-4 = e-1+55,6002>318.3142129824
+ = e-22.4
+ = 1.9 * 10-10
+The value calculated for the Ksp of AgCl is very close to that 
+listed in Appendix D.
+(d) A soluble salt is one that dissolves appreciably in water.  
+ (Section 4.2) The Ksp value for NaCl is greater than 1, indi-
+cating that NaCl dissolves to a great extent. The Ksp value for 
+AgCl is very small, indicating that very little dissolves in water. 
+Silver chloride should indeed be considered an insoluble salt.
+(e) As we expect, the solution process has a positive value of ∆S for 
+both salts (see the table in part b). As such, the entropy term 
+of the free-energy change, -T∆S°
+soln, is negative. If we assume 
+that ∆H°
+soln and ∆S°
+soln do not change much 

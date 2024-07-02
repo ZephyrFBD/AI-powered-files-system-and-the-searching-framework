@@ -1,0 +1,11 @@
+ your body reestablishes
+homeostasis, and insulin release is shut off via negative feedback.
+Many of these responses are controlled by negative or positive feedback pathways. A negative feedback pathway
+(also called feedback inhibition) works by turning itself off using the end product of the pathway. The end product
+inhibits the process from beginning, thus shutting down the pathway. This is a common strategy to conserve energy.
+If plenty of X is made, then the pathway to make X can be turned off. Sometimes, a very distant end product will
+turn off a process occurring several steps back. For example, ATP turns off the beginning stages of glycolysis,
+although ATP is not made until much later in cellular respiration. There are several other types of second
+messengers, such as cyclic GMP, calcium ions, and inositol triphosphate.
+A positive feedback pathway also involves an end product playing a role, but instead of inhibiting the pathway, it
+further stimulates it. For example, once X is 

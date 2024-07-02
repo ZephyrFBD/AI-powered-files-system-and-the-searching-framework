@@ -1,0 +1,13 @@
+ig. 17–31 for an LCD screen. (How liquid crystals work 
+in an LCD screen is described in Section 24–11.) Subpixels are so small that at 
+normal viewing distances we don’t distinguish them and the separate red (R),
+green (G), and blue (B) subpixels blend to produce almost any color, depending
+on the relative brightnesses of the three subpixels. Liquid crystals act as filters
+(R, G, and B) that filter the light from a white backlight, usually fluorescent
+lamps or light-emitting diodes (LED, Section 29–9).† The picture you see on 
+the screen depends on the level of brightness of each subpixel, as suggested in
+Fig. 17–32 for a simple black and white picture.
+High definition (HD) television screens have 1080 horizontal rows of pixels,
+each row consisting of 1920 pixels across the screen. That is, there are 1920 vertical
+columns, for a total of nearly 2 million pixels. Today, television in the U.S. is trans-
+mitted digitally at a rate of 60 Hz—that is, 60 frames or pictures per second (50 Hz

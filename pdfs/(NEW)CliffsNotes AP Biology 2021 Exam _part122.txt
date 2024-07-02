@@ -1,0 +1,11 @@
+m sunlight. Even though an exergonic reaction can occur spontaneously, it
+may not. Before most reactions can occur, activation energy is required to contort or destabilize the reactants. The
+necessary activation energy can be lowered by the presence of a catalyst (such as a metal ion or an enzyme).
+However, the free energy of a reaction is not changed by the presence of a catalyst (Figure 4-1).
+Figure 4-1
+Most metabolic reactions are endergonic (positive Δ G) and require an input of energy. That energy usually comes
+from the hydrolysis of adenosine triphosphate (ATP) to adenosine diphosphate (ADP) (ΔG = -7.3 kcal/mol). The
+hydrolysis of ATP (an exergonic reaction, negative ΔG) occurs in tandem, or coupled, with the endergonic
+metabolic reaction. The coupling usually involves the transfer of energy with one of the inorganic phosphates (Pi)
+from ATP to one of the reactants, as shown in Figure 4-2. Coupled
+reactions with ATP (and with the help of specific enzymes) are typical of most ende

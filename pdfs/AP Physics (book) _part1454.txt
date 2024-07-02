@@ -1,0 +1,79 @@
+is raining outside).
+EA
+SECTION 13–12
+379
+FIGURE 13–24 Vapor appears
+above a liquid in a closed container.
+P H Y S I C S  A P P L I E D
+Evaporation cools
+TABLE 13–3 Saturated 
+Vapor Pressure of Water
+Temp-
+Saturated Vapor Pressure
+erature
+torr 
+Pa
+(°C)
+0.030
+4.0
+1.95
+0
+4.58
+5
+6.54
+10
+9.21
+15
+12.8
+20
+17.5
+25
+23.8
+30
+31.8
+40
+55.3
+50
+92.5
+60
+149
+70†
+234
+80
+355
+90
+526
+100‡
+760
+120
+1489
+150
+3570
+† Boiling point on summit of Mt. Everest.
+‡ Boiling point at sea level.
+4.76 * 105
+1.99 * 105
+1.01 * 105
+7.01 * 104
+4.73 * 104
+3.12 * 104
+1.99 * 104
+1.23 * 104
+7.37 * 103
+4.24 * 103
+3.17 * 103
+2.33 * 103
+1.71 * 103
+1.23 * 103
+8.72 * 102
+6.11 * 102
+2.60 * 102
+–10
+–50
+( Nm2)
+( mm-Hg)
+Boiling
+The saturated vapor pressure of a liquid increases with temperature. When the
+temperature is raised to the point where the saturated vapor pressure at that
+temperature equals the external pressure, boiling occurs (Fig. 13–25). As the boil-
+ing point is approached, tiny bubbles tend to form in the liquid, which 

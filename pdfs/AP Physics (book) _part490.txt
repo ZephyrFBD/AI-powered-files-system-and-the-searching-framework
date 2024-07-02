@@ -1,0 +1,20 @@
+hand pushes a cart and pulls a wagon,
+a bat hits a ball, and so on. But gravity acts without contact, said Newton: the Earth
+exerts a force on a falling apple and on the Moon, even though there is no contact,
+and the two objects may even be very far apart.†
+Newton set about determining the magnitude of the gravitational force that
+the Earth exerts on the Moon as compared to the gravitational force on objects
+at the Earth’s surface. The centripetal acceleration of the Moon, as we calculated
+in Example 5–2, is
+In terms of the acceleration of gravity at
+the Earth’s surface,
+That is, the acceleration of the Moon toward the Earth is about 
+as great as 
+the acceleration of objects at the Earth’s surface. The Moon is 384,000 km from
+the Earth, which is about 60 times the Earth’s radius of 6380 km. That is, the
+Moon is 60 times farther from the Earth’s center than are objects at the Earth’s
+surface. But  
+Again that number 3600! Newton concluded
+that the gravitational force 
+or 
+exerted by the

@@ -1,0 +1,53 @@
+netic Theory
+P (atm)
+T (°C)
+31
+5.11
+Solid
+Liquid
+Triple
+point
+Critical
+point
+20
+−56.6
+1
+56
+73
+Vapor
+s-v
+s-l
+l-v
+FIGURE 13–23 Phase diagram for
+carbon dioxide.
+T (°C)
+P (atm)
+100
+1.0
+218
+0.006
+374
+0.01
+0.00
+Solid
+Liquid
+Vapor
+Triple
+point
+Critical
+point
+s-v
+l-v
+s-l
+Gas
+FIGURE 13–22 Phase diagram for
+water (note that the scales are not
+linear).
+At 1 atm, the freezing point of water is 0°C, as shown. Notice also in Fig. 13–22
+that at a pressure of 1 atm, the substance is in the liquid phase if the temperature 
+is between 0°C and 100°C, but is in the solid or vapor phase if the temperature is
+below 0°C or above 100°C. The curve labeled s-v is the sublimation point versus
+pressure curve. Sublimation refers to the process whereby at low pressures a
+solid changes directly into the vapor phase without passing through the liquid
+phase. For water, sublimation occurs if the pressure of the water vapor is less than
+0.0060 atm. Carbon dioxide, which in the solid phase is called dry ice, sublimates

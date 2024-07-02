@@ -1,0 +1,14 @@
+sarily negative. The
+velocity of an object moving to the right along the positive x axis is positive;
+if the object is slowing down (as in Fig. 2–11), the acceleration is negative. But
+the same car moving to the left (decreasing x), and slowing down, has positive
+acceleration that points to the right, as shown in Fig. 2–12. We have a decelera-
+tion whenever the magnitude of the velocity is decreasing; thus the velocity
+and acceleration point in opposite directions when there is deceleration.
+EXERCISE C A car moves along the x axis. What is the sign of the car’s acceleration if
+it is moving in the positive x direction with (a) increasing speed or (b) decreasing
+speed? What is the sign of the acceleration if the car moves in the negative x direction
+with (c) increasing speed or (d) decreasing speed?
+2–5 Motion at Constant Acceleration
+We now examine motion in a straight line when the magnitude of the acceleration
+is constant. In this case, the instantaneous and average accelerations are 

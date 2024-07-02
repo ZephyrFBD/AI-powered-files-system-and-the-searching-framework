@@ -1,0 +1,36 @@
+between tires and road
+is 
+what is the minimum turning radius?
+ms = 0.65,
+u
+tan u = F
+frF
+N
+u
+mg
+B,
+AF
+B
+frB
+AF
+B
+NB
+r = 13 m.
+v = 8.2 ms
+5. Model a figure skater’s body as a solid cylinder and her
+arms as thin rods, making reasonable estimates for the dimen-
+sions. Then calculate the ratio of the angular speeds for a
+spinning skater with outstretched arms, and with arms held
+tightly against her body. Check Sections 8–5 and 8–8.
+6. One possibility for a low-pollution automobile is for it to
+use energy stored in a heavy rotating flywheel. Suppose
+such a car has a total mass of 1100 kg, uses a uniform cylin-
+drical flywheel of diameter 1.50 m and mass 270 kg, and
+should be able to travel 350 km without needing a flywheel
+“spinup.” (a) Make reasonable assumptions (average fric-
+tional retarding force on car
+thirty acceleration
+periods from rest to 
+equal uphill and downhill, and
+that energy can be put back into the flywheel as the car goes
+downhill), and estimate what total energy needs

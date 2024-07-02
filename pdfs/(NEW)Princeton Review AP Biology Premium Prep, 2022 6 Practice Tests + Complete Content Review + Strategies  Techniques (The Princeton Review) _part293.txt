@@ -1,0 +1,13 @@
+ntical, but it is
+still helpful to list each gamete individually on the square.
+Now we can fill in the four boxes by matching the letters. What are the results for the F1 generation?
+Each offspring received one allele from each parent. They all received one T and one t. They’re all Tt! So, even
+though the parents were homozygous, offspring are heterozygous: they possess one copy of each allele.
+The Law of Segregation
+Next, Mendel took the offspring and self-pollinated them. Let’s use a Punnett square to spell out the results. This
+time we’re mating the offspring of the first generation—F1; we are crossing those heterozygotes. Take a look at the
+results:
+Check out the lower right box. One of the offspring could be a short pea plant!
+Although all of the F1 plants were tall, they were heterozygotes that could make gametes containing the short t
+allele. In other words, their T and t alleles were segregated (separated) during gamete formation. This is an example
+of the Law of Segregation. I

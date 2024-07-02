@@ -1,0 +1,53 @@
+y happen to add up to zero.
+Straightening teeth. The wire band shown in Fig. 9–3a has
+a tension 
+of 2.0 N along it. It therefore exerts forces of 2.0 N on the high-
+lighted tooth (to which it is attached) in the two directions shown. Calculate the
+resultant force on the tooth due to the wire, F
+R.
+F
+T
+EXAMPLE 9;1
+Normal force
+Gravity
+FIGURE 9–2 The book is in equilib-
+rium; the net force on it is zero.
+FIGURE 9–1 Elevated walkway 
+collapse in a Kansas City hotel in 1981.
+How a simple physics calculation could 
+have prevented the tragic loss of over 
+100 lives is considered in Example 9–12.
+W
+ir
+e
+b
+a
+n
+d
+y
+70°
+(a)
+(b)
+W
+ir
+e
+ba
+nd
+FT
+FT
+70°
+y
+70°
+FT
+FT
+70°
+FR
+FIGURE 9–3 Forces on a tooth.
+Example 9–1.
+P H Y S I C S  A P P L I E D
+Braces for teeth
+APPROACH Since the two forces 
+are equal, their sum will be directed along
+the line that bisects the angle between them, which we have chosen to be the
+y axis. The x components of the two forces add up to zero.
+SOLUTION The y component of each

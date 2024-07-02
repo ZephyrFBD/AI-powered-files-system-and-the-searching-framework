@@ -1,0 +1,19 @@
+ust satisfy Ohm’s law too:
+We now combine the equations above:
+When we divide out the V from each term, we have
+[parallel] (19;4)
+For example, suppose you connect two 
+loudspeakers in parallel to a single
+set of output terminals of an amplifier. The equivalent resistance of the two 
+“resistors” in parallel is
+and so
+Thus the net (or equivalent) resistance is less than each single
+resistance. This may at first seem surprising. But remember that when you connect
+resistors in parallel, you are giving the current additional paths to follow. Hence
+the net resistance will be less.†
+Equations 19–3 and 19–4 make good sense. Recalling Eq. 18–3 for resistivity,
+we see that placing resistors in series effectively increases the length
+and therefore the resistance; putting resistors in parallel effectively increases the
+area through which current flows, thus reducing the overall resistance.
+Note that whenever a group of resistors is replaced by the equivalent resistance,
+current and voltage and pow

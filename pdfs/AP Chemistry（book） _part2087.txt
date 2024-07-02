@@ -1,0 +1,51 @@
+ons 13.12 and 13.13 
+to calculate the changes in the boiling and 
+freezing points:
+Hence, the boiling and freezing points of the 
+solution are readily calculated:
+Molality =
+moles C2H6O2
+kilograms H2O
+= a
+250 g C2H6O2
+750 g H2O
+b a
+1 mol C2H6O2
+62.1 g C2H6O2
+b a
+1000 g H2O
+1 kg H2O b  = 5.37 m
+∆T
+b = iKbm = 11210.51 °C>m215.37 m2 = 2.7 °C
+∆T
+f = -iKfm = -11211.86 °C>m215.37 m2 = -10.0 °C
+ 
+∆T
+b = T
+b1solution2 - T
+b1solvent2
+ 
+2.7 °C = T
+b1solution2 - 100.0 °C
+ 
+T
+b1solution2 = 102.7 °C
+ 
+∆T
+f = T
+f 1solution2 - T
+f 1solvent2
+ -10.0 °C = T
+f 1solution2 - 0.0 °C
+ 
+T
+f 1solution2 = -10.0 °C
+Analyze We are given that a solution contains 25.0% by mass of a 
+nonvolatile, nonelectrolyte solute and asked to calculate the boil-
+ing and freezing points of the solution. To do this, we need to cal-
+culate the boiling-point elevation and freezing-point depression.
+Comment Notice that the solution is a liquid over a larger tempera-
+ture range than the pure solvent.
+ 
+▶Practice Exercise 1
+Which aque

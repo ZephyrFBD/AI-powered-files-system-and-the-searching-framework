@@ -1,0 +1,156 @@
+ is possible to write the product sin u cos as a sum of trigonometric functions. To see 
+this, consider the Addition and Subtraction Formulas for Sine: 
+sin(u +) = sin u cos + cos u sin 
+sin(u −) = sin u cos − cos u sin 
+Adding the left- and right-hand sides of these formulas gives 
+sin(u +) = sin(u −) = 2 sin u cos 
+ 
+ 
+ 
+145 
+PRODUCT-TO-SUM FORMULAS 
+1
+2
+1
+2
+1
+2
+1
+2
+sin cos
+[sin(
+)
+sin(
+)]
+cos sin
+[sin(
+)
+sin(
+)]
+cos cos
+[cos(
+)
+cos(
+)]
+sin sin
+[cos(
+)
+cos(
+)]
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+u
+v
+=
++
++
+-
+=
++
+-
+-
+=
++
++
+-
+=
+-
+-
++
+ 
+The Product-to-Sum Formulas can also be used as Sum-to-Product Formulas. This is 
+possible because the right-hand side of each Product-to-Sum Formula is a sum and the 
+left side is a product.  
+SUM-TO-PRODUCT FORMULAS 
+sin
+sin
+2sin
+cos
+2
+2
+sin
+sin
+2cos
+sin
+2
+2
+cos
+cos
+2cos
+cos
+2
+2
+cos
+cos
+2sin
+sin
+2
+2
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
++
+-
++
+=
++
+-
+-
+=
++
+-
++
+=
++
+-
+-
+= -
+ 
+ 
+Example 5 
+Verify the identity 
+sin3
+sin
+tan .
+cos3

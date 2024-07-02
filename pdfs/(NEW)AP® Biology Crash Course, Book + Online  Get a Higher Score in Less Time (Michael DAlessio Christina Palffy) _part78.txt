@@ -1,0 +1,18 @@
+gle character. Apply the Law of
+Segregation. Example: In pea plants, tall (T) plants are dominant to short plants (t). There are three
+allelic combinations:
+TT—homozygous dominant (true breeding)/Tall
+Tt—heterozygous or hybrid/Tall
+Tt—homozygous recessive (true breeding)/Short
+Cross two true breeding plants of tall and short
+Note: Punnett squares can be used to determine the genotypes and phenotypes of progeny
+from a genetic cross. Monohybrid or multi-hybrid crosses can be used.
+2. Test cross—A cross that determines whether the dominant parent is homozygous dominant or
+heterozygous. Always cross the dominant parent to a homozygous recessive. Assume black (B) is
+dominant to white (b) for cat coat color.
+Black parent could be BB or Bb. White parent is bb.
+If BB x bb, all progeny will be black carriers.
+If Bb x bb, ½ of the progeny are black and ½ are white.
+3. Dihybrid cross—a cross between two different characteristics; demonstrates Law of Independent
+Assortment.
+Example: In pea plants,

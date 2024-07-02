@@ -1,0 +1,47 @@
+ater
+Glycine (an 
+amino acid) Water
+Blood
+hemoglobin Water
+DNA (mass 
+)
+Water
+0.13 * 10–11
+6 * 106 u
+6.9 * 10–11
+95 * 10–11
+100 * 10–11
+O2
+1.8 * 10–5
+O2
+6.3 * 10–5
+H2
+D (m2s)
+P H Y S I C S  A P P L I E D
+Diffusion time
+x
+Region 1;
+concentration
+= C1
+Region 2;
+concentration
+= C2
+A
+Δ
+FIGURE 13–28 Diffusion occurs
+from a region of high concentration
+to one of lower concentration (only
+one type of molecule is shown).
+Diffusion of ammonia in air. To get an idea
+of the time required for diffusion, estimate how long it might take for ammonia
+to be detected 10 cm from a bottle after it is opened, assuming only 
+diffusion is occurring.
+APPROACH This will be an order-of-magnitude calculation. The rate of diffu-
+sion J can be set equal to the number of molecules N diffusing across area A in
+a time :
+Then the time 
+where J is given by Eq. 13–10.
+We will have to make some assumptions and rough approximations about 
+concentrations to use Eq. 13–10.
+SOLUTION Using Eq. 13–10, we find
+The average conc

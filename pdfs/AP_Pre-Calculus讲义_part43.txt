@@ -1,0 +1,63 @@
+r diagram of the signs of 
+each factor in each interval. In the last row of the table determine the sign of the rational 
+function on that interval. 
+5. Solve. Determine the solution of the inequality from the last row of the table. Check 
+whether the endpoints of these intervals satisfy the inequality. (This may happen if the 
+inequality involves ≤ or ≥.) 
+ 
+Example 2 
+Solve the inequality 
+2
+1 2
+1
+2
+3
+x
+x
+x
+-
+³
+-
+-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+54 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+55 
+1.10 Transformations of Functions 
+In this section we study how certain transformations of a function affect its graph. 
+This will give us a better understanding of how to graph functions. 
+The transformations that we study are shifting, reflecting, and stretching. 
+1.10.1 Vertical Shifting 
+Adding a constant to a function shifts its graph vertically: upward if the constant is positive 
+and downward if it is negative. 
+In general, suppose we know the graph of y = f (x). How do we ob

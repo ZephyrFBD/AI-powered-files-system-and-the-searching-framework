@@ -1,0 +1,20 @@
+and four variable regions (V). The
+tips of the Y have specific shapes and are the binding sites for different
+antigens.
+It is now accepted that the blueprints for antibodies are made early in
+life, prior to any exposure to antigens. When you are exposed to an
+antigen, antibodies are chosen by clonal selection from a limitless variety
+as needed.
+As a consequence, the variety in antibodies is unlimited and there is no
+viral disease for which humans cannot produce antibodies.
+Figure 17.4 is a graph that shows immunological memory:
+ 
+Day 1: First exposure to antigen A.
+Day 15: Maximum production of antibodies against A; the individual
+will fight off the infection.
+Day 28: There is another exposure (a second challenge) to antigen A.
+Day 28 to Day 35: There is a secondary immune response that is more
+rapid and more intense than the primary immune response. This is due
+to immunological memory.
+Day 28: First exposure to antigen B. This is another primary immune
+response. The fact that there wa

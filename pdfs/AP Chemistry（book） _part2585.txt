@@ -1,0 +1,53 @@
+50 L of a solution of NaC6H5COO if the pH is 
+9.04?
+(a) 0.38 (b) 0.66 (c) 0.76 (d) 1.5 (e) 2.9
+ 
+▶Practice Exercise 2
+What is the molarity of an aqueous NH3 solution that has a 
+pH of 11.17?
+ 
+Kb =
+3HClO43OH-4
+3ClO-4
+=
+13.2 * 10-422
+x - 3.2 * 10-4 = 3.3 * 10-7
+ 
+x =
+13.2 * 10-422
+3.3 * 10-7
++ 13.2 * 10-42 = 0.31 M
+ 
+ClO-1aq2  +  H2O1l2 ∆  HClO1aq2 +  OH-1aq2
+Initial  
+concentration (M)
+x
+—
+0
+0
+Change in  
+concentration (M)
+-3.2 * 10-4
+—
++3.2 * 10-4
++3.2 * 10-4
+Equilibrium  
+concentration (M)
+1x - 3.2 * 10-42
+—
+3.2 * 10-4
+3.2 * 10-4
+Solve
+We can calculate 3OH-4 by using either Equa-
+tion 16.16 or Equation 16.20; we will use the 
+latter method here:
+ pOH = 14.00 - pH = 14.00 - 10.50 = 3.50
+ 3OH-4 = 10-3.50 = 3.2 * 10-4 M
+ 
+SECTION 16.8   
+Relationship Between Ka and Kb 
+693
+694 
+CHAPTER 16 Acid–Base Equilibria
+Recall that when two equations are added to give a third, the equilibrium constant asso-
+ciated with the third equation equals the product of the equilibrium constants of the first

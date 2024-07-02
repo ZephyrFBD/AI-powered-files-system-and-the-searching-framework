@@ -1,0 +1,35 @@
+
+The number of decays per second, or decay rate R, is the magnitude of 
+and is also called the activity of the sample. The magnitude (always positive) of a
+quantity is often indicated using vertical lines. The magnitude of 
+is written
+and it is proportional to N (see Eq. 30–3b). So it too decreases expo-
+nentially in time at the same rate (Fig. 30–10b). The activity of a pure sample at
+time is 
+(30;5)
+where
+is the activity at 
+Equation 30–5 is also referred to as the radioactive decay law (as is
+Eq. 30–4).
+Half-Life
+The rate of decay of any isotope is often specified by giving its “half-life” rather
+than the decay constant 
+The half-life of an isotope is defined as the time it
+takes for half the original amount of parent isotope in a given sample to decay.
+l.
+t = 0.
+R0 = ∑¢N¢t∑0
+R =
+` ¢N
+¢t `
+= R0e–lt,
+t
+∑¢N¢t∑
+¢N¢t
+¢N¢t,
+For example, the half-life of 
+is about 5730 years. If at some time a piece of
+petrified wood contains, say,
+nuclei of 
+then 5730 years later it
+will contain half

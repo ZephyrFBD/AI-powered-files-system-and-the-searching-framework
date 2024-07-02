@@ -1,0 +1,23 @@
+ spectrum to 
+which waves A and B belong.
+ 6.86  The watt is the derived SI unit of power, the measure of 
+energy per unit time: 1 W = 1 J>s. A semiconductor laser in a 
+CD player has an output wavelength of 780 nm and a power 
+level of 0.10 mW. How many photons strike the CD surface 
+during the playing of a CD 69 minutes in length?
+ 
+6.87  Carotenoids are yellow, orange, and 
+ 
+red pigments synthesized by plants. The 
+observed color of an object is not the 
+color of light it absorbs but rather the 
+complementary color, as described by a 
+color wheel such as the one shown here. 
+On this wheel, complementary colors 
+are across from each other. (a) Based on 
+this wheel, what color is absorbed most 
+strongly if a plant is orange? (b) If a particular carotenoid absorbs 
+photons at 455 nm, what is the energy of the photon?
+ [6.88] In an experiment to study the photoelectric effect, a scientist 
+measures the kinetic energy of ejected electrons as a function of 
+the frequency of radiation hit

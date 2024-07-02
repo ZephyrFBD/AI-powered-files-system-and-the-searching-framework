@@ -1,0 +1,34 @@
+p– + p
+p– + p S K0 + ¶0
+©
+¶,
+L  100 MeV.
+L  10–23 s
+¢E
+L
+h
+2p ¢t
+L
+A6.6 * 10–34 JsB
+(6)A10–23 sB
+L  10–11 J
+L  100 MeV,
+10–23 s,
+¢
+but did not decay at a fast rate characteristic of the strong interaction (even
+though they decayed into strongly interacting particles).
+To explain these observations, a new quantum number, strangeness, and a
+new conservation law, conservation of strangeness, were introduced. By assigning
+the strangeness numbers (S) indicated in Table 32–2, the production of strange
+particles in pairs was explained. Antiparticles were assigned opposite strange-
+ness from their particles. For example, in the reaction
+the initial state has strangeness 
+and the final state has
+so strangeness is conserved. But for
+the
+initial state has 
+and the final state has 
+so strangeness
+would not be conserved; and this reaction is not observed.
+To explain the decay of strange particles, it is assumed that strangeness is
+conserved in the strong interaction but is not conserved in the wea

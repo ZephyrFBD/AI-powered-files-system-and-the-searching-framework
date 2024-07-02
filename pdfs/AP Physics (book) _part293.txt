@@ -1,0 +1,60 @@
+ry
+Heading upstream. A boat’s speed in still water is
+. If the boat is to travel north directly across a river whose westward current has 
+speed
+at what upstream angle must the boat head? (See Fig.3–29.)
+APPROACH If the boat heads straight across the river, the current will drag 
+the boat downstream (westward). To overcome the river’s current, the boat
+must have an upstream (eastward) component of velocity as well as a cross-stream
+(northward) component. Figure 3–29 has been drawn with 
+the velocity of
+the Boat relative to the Shore, pointing directly across the river because this is
+where the boat is supposed to go. (Note that  
+)
+SOLUTION Vector 
+points upstream at angle as shown. From the diagram,
+Thus  
+so the boat must head upstream at a 40.4° angle.
+u = 40.4°,
+sin u =
+vWS
+vBW
+=
+1.20 ms
+1.85 ms
+= 0.6486.
+u
+v
+B
+BW
+v
+B
+BS = v
+B
+BW + v
+B
+WS.
+v
+B
+BS,
+vWS = 1.20 ms,
+1.85 ms
+vBW =
+EXAMPLE 3;10
+E
+N
+W
+S
+BS
+BW
+WS
+v
+B
+v
+B
+v
+B
+θ
+River current
+FIGURE 3;29 Example 3–10.
+MisConceptual Quest

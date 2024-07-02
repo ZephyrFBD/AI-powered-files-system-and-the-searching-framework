@@ -1,0 +1,26 @@
+ble sim-
+plicity in nature can be expressed in the equation
+(14;2)
+where c is a quantity characteristic of the material called its specific heat.
+Because
+specific heat is specified in units† of 
+(the proper
+SI unit) or 
+For water at 15°C and a constant pressure of 1 atm,
+or 
+since, by definition of the cal and
+the joule, it takes 1 kcal of heat to raise the temperature of 1 kg of water by 1 C°.
+Table 14–1 gives the values of specific heat for other substances at 20°C. The values
+of c depend to some extent on temperature (as well as slightly on pressure), but
+for temperature changes that are not too great, c can often be considered constant.
+1.00 kcalkgC°,
+c = 4.186 * 103 JkgC°
+kcalkgC°.
+JkgC°
+c = Q(m ¢T),
+Q = mc ¢T,
+¢T.
+If the iron vat in part (a) of Example 14–2 had been cooled from 90°C to 10°C,
+720 kJ of heat would have flowed out of the iron. In other words, Eq.14–2 is valid for
+heat flow either in or out, with a corresponding increase or decrease in temperature.
+We saw in

@@ -1,0 +1,16 @@
+at is turning down means that the process is slowing 
+down. When the rate curve hits the x-axis, it means that the reaction has stopped. 
+Probably 80 percent of the graphs you will encounter in biology are either rate curves 
+or progress curves. You will have noticed from the preceding discussion that biologists 
+tend to use the words “graph” and “curve” interchangeably. Technically, of course, the 
+entire picture, including the abscissa, ordinate, labels, numbers, units, index marks, and 
+title, together with the line graph portrayed, is the “graph,” while the line graph itself is 
+called the “curve.” You will notice, too, that biologists call a line graph a “curve,” even 
+though the line itself may be perfectly straight. 
+ 
+  
+APPENDIX B
+ 
+To summarize, remember that a progress curve is made from measurements at 
+different times during the progress of a reaction that is continuous with time. A graph 
+that shows how much or to what extent a reaction has occurred at different times is 

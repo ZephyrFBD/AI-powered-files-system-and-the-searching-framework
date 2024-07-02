@@ -1,0 +1,13 @@
+ nucleotides over
+and over again (Figure 9-3). This allows elongation of the lagging strand to continue and prevents the loss of DNA
+in replicated chromosomes. Telomerase is active in young cells, but its activity declines as the cell ages, eventually
+ceasing activity in most cells. Once telomerase activity stops, the chromosome becomes shorter with each
+replication event and eventually important DNA at the end of the chromosome is lost, resulting in nonviable
+daughter cells. The loss of telomerase activity has been implicated in the aging of cells.
+Figure 9-3
+DNA Repair
+DNA replication is not perfect. Errors happen. Various mechanisms, however, are present to repair the errors,
+including the following:
+1. Proofreading of a newly attached base to the growing replicate strand is carried out by DNA polymerase. DNA
+polymerase checks to make sure that each newly added nucleotide correctly base-pairs with the template strand. If it
+does not, the nucleotide is removed and replaced with the c

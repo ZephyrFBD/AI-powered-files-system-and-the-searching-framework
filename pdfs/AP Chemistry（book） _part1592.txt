@@ -1,0 +1,18 @@
+th a gas of unknown molar mass to a 
+pressure of 735 torr at 31 °C, its mass is 137.456 g. When the flask is evacuated again and then filled with water at 31 °C, its 
+mass is 1067.9 g. (The density of water at this temperature is 0.997 g>mL.) Assuming the ideal-gas equation applies, calculate 
+the molar mass of the gas.
+Sample Exercise 10.8 
+Calculating the Molar Mass of a Gas
+ 
+SECTION 10.5   
+Further Applications of the Ideal-Gas Equation  
+409
+Volumes of Gases in Chemical Reactions
+We are often concerned with knowing the identity and/or quantity of a gas involved in a 
+chemical reaction. Thus, it is useful to be able to calculate the volumes of gases consumed 
+or produced in reactions. Such calculations are based on the mole concept and balanced 
+chemical equations.  
+ (Section 3.6) The coefficients in a balanced chemical equation 
+tell us the relative amounts (in moles) of reactants and products in a reaction. The ide-
+al-gas equation relates the number of moles of a gas to P, V, a

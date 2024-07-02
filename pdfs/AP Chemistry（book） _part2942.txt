@@ -1,0 +1,17 @@
+ 
+reaction?
+(a) Acid rain is no threat to lakes in areas where the rock is limestone (calcium carbonate), which can neutralize the acid. Where 
+the rock is granite, however, no neutralization occurs. How does limestone neutralize acid? (b) Acidic water can be treated with 
+basic substances to increase the pH, although such a procedure is usually only a temporary cure. Calculate the minimum mass of 
+lime, CaO, needed to adjust the pH of a small lake 1V = 4 * 109 L2 from 5.0 to 6.5. Why might more lime be needed?
+Sample Integrative Exercise 
+Putting Concepts Together
+SOLUTION
+Analyze We need to remember what a neutralization reaction is 
+and calculate the amount of a substance needed to effect a certain 
+change in pH.
+Plan For (a), we need to think about how acid can react with calcium 
+carbonate, a reaction that evidently does not happen with acid and 
+granite. For (b), we need to think about what reaction between an 
+acid and CaO is possible and do stoichiometric calculations. From 
+th

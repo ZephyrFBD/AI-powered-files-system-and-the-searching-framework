@@ -1,0 +1,19 @@
+l chrysotile is a noncarcinogenic asbestos mineral that is based on the sheet structure shown in Figure 22.32(c). In 
+addition to silicate tetrahedra, the mineral contains Mg2 + and OH - ions. Analysis of the mineral shows that there are 1.5 Mg 
+atoms per Si atom. What is the empirical formula for chrysotile?
+Sample Exercise 22.6 
+Determining an Empirical Formula
+SOLUTION
+Analyze A mineral is described that has a sheet silicate structure 
+with Mg2 +  and OH -  ions to balance charge and 1.5 Mg for each 1 
+Si. We are asked to write the empirical formula for the mineral.
+Plan As shown in Figure 22.32(c), the silicate sheet structure has 
+the simplest formula Si2O5
+2 -. We first add Mg2 +  to give the proper 
+Mg:Si ratio. We then add OH -  ions to obtain a neutral compound.
+Solve
+The observation that the Mg:Si ratio equals 1.5 is consistent with 
+three Mg2 +  ions per Si2O5
+2 - unit. The addition of three Mg2 +  ions 
+would make Mg31Si2O524 +. In order to achieve charge balance in 
+the mi

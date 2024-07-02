@@ -1,0 +1,37 @@
+re; the scale on the right goes from blue 
+(cold) to white (hot).
+FIGURE 14;12 (a) Earth’s seasons
+arise from the tilt of Earth’s axis
+relative to its orbit around the Sun.
+(b) June sunlight makes an angle of
+about 23 ° with the equator. Thus in
+the southern U.S. (label A) is near 0°
+(direct summer sunlight), but in the
+Southern Hemisphere (B),
+is 50° or 60°,
+and less heat can be absorbed—hence it
+is winter. Near the poles (C), there is
+never strong direct sunlight:
+varies
+from about in summer to 0 in winter;
+so with little heating, ice can form.
+1
+2
+cos u
+u
+u
+1
+2
+P H Y S I C S  A P P L I E D
+Radiation from the Sun
+P H Y S I C S  A P P L I E D
+Thermography
+†Infrared radiation is light whose wavelengths are longer than visible light (see Fig. 22–8).
+406
+CHAPTER 14
+Heat
+Internal energy, U, refers to the total energy of all the molecules
+in an object. For an ideal monatomic gas,
+(14;1)
+where N is the number of molecules or n is the number of moles.
+Heat refers to the transfer of energy fr

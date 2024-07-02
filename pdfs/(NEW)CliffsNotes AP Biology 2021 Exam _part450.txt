@@ -1,0 +1,10 @@
+rent
+traits in the two populations. Genetic drift may also cause differences in allele frequencies, either because of the
+founder effect, or because either (or both) new population is small. In these two cases, allele frequencies are strongly
+influenced by chance (genetic drift). Also, mutations in one population may introduce new alleles absent in the other
+population, thus providing new variation upon which natural selection can act.
+b. The defining characteristic of sympatric speciation is that it occurs in the absence of a geographic barrier that
+would isolate one or more groups of individuals. Instead, reproductive isolation occurs as a result of one of several
+other causes. Polyploidy, for example, creates reproductive isolation in a single generation. As a result of
+nondisjunction during meiosis, gametes contain all of the chromosomes instead of half of them. If such a gamete is
+fertilized by a similar gamete, then the resulting zygote has twice the number of chromosomes and is 

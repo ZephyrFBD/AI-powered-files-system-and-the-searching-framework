@@ -1,0 +1,36 @@
+ite shore.
+From a map, you estimate the distance to the opposite shore as 
+Use
+Fig. 1–14 with
+to estimate the radius R of the Earth.
+APPROACH We use simple geometry, including the theorem of Pythagoras,
+where c is the length of the hypotenuse of any right triangle, and a and b are
+the lengths of the other two sides.
+SOLUTION For the right triangle of Fig. 1–14, the two sides are the radius of
+the Earth R and the distance
+The hypotenuse is approx-
+imately the length 
+where
+By the Pythagorean theorem,
+We solve algebraically for R, after cancelling 
+on both sides:
+NOTE Precise measurements give 6380 km. But look at your achievement!
+With a few simple rough measurements and simple geometry, you made a
+good estimate of the Earth’s radius. You did not need to go out in space, nor
+did you need a very long measuring tape.
+= 6200 km.
+= 6.2 * 106 m
+R L d2 - h2
+2h
+=
+(6100 m)2 - (3.0 m)2
+6.0 m
+R2
+L R2 + 2hR + h2.
+R2 + d2 L (R + h)2
+h = 3.0 m.
+R + h,
+d = 6.1 km = 6100 m.
+c2 = a2 + b2,
+h = 3.0 m
+d L

@@ -1,0 +1,77 @@
+ltmeter
+reading drops to 8.1 V.
+What are the emf and
+internal resistance of
+the battery?
+14.0-
+35 ,
+1000 V
+9.4-k
+7.5-k
+15 k
+0.50 
+7.5-k
+r = 1.0 
+e = 12.0 V
+55-mA
+32 
+(V)
+33-
+0.20-
+480 .
+720 
+53 
+35,000 V?
+35,000 V.
+8.8 Ω
+4.4 Ω
+0.36 mF
+0.48 mF
+24 V
+S
+a
+b
+–
++
+FIGURE 19–72
+Problem 58.
++
+R3
+I3
+I1
+Ammeter
+A
+–
+D
+B
+S
+C
+A
+Rx
+R1
+R2
+FIGURE 19–76
+Problem 74.
+Wheatstone bridge.
+556
+CHAPTER 19
+DC Circuits
+67. Suppose that you wish to apply a 0.25-V potential difference
+between two points on the human body. The resistance is
+about 
+and you only have a 1.5-V battery. How can
+you connect up one or more resistors to produce the desired
+voltage?
+68. A three-way lightbulb can produce 50 W, 100 W, or 150 W,
+at 120 V. Such a bulb contains two filaments that can be
+connected to the 120 V individually or in parallel (Fig.19–74).
+(a) Describe how the
+connections to the
+two filaments are
+made to give each of
+the three wattages.
+(b) What must be the
+resistance of each
+filament?
+1800 ,
+Gen

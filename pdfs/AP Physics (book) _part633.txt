@@ -1,0 +1,15 @@
+ a block on a frictionless table
+(Fig. 6–26). If you choose the block as your system, then the work done on the
+block by the spring equals the change in kinetic energy of the block: the work-
+energy principle. (Energy conservation does not apply to this system—the block’s
+energy changes.) If instead you choose the block plus the spring as your system,
+no external forces do work (since the spring is part of the chosen system).
+To this system you need to apply conservation of energy: if you compress the spring
+and then release it, the spring still exerts a force† on the block, but the subsequent
+motion can be discussed in terms of kinetic energy 
+plus potential energy
+whose total remains constant.
+You may also wonder sometimes whether to approach a problem using work
+and energy, or instead to use Newton’s laws. As a rough guideline, if the force(s)
+involved are constant, either approach may succeed. If the forces are not constant,
+and/or the path is not simple, energy may be the better a

@@ -1,0 +1,10 @@
+he transcription elongation phase begins with the release of the σ subunit from the polymerase. The dissociation of σ allows
+the core enzyme to proceed along the DNA template, synthesizing mRNA in the 5' to 3' direction at a rate of approximately
+40 nucleotides per second. As elongation proceeds, the DNA is continuously unwound ahead of the core enzyme and
+rewound behind it (Figure 15.8). The base pairing between DNA and RNA is not stable enough to maintain the stability of
+the mRNA synthesis components. Instead, the RNA polymerase acts as a stable linker between the DNA template and the
+nascent RNA strands to ensure that elongation is not interrupted prematurely.
+Figure 15.8 During elongation, the prokaryotic RNA polymerase tracks along the DNA template, synthesizes mRNA in
+the 5' to 3' direction, and unwinds and rewinds the DNA as it is read.
+Prokaryotic Termination Signals
+Once a gene is transcribed, the prokaryotic polymerase needs to be instructed to dissociate from the DNA templa

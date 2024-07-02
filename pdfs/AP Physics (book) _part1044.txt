@@ -1,0 +1,21 @@
+sure on top of the cylinder is 
+and it is directed downward. Similarly, the fluid exerts an upward force on the
+bottom of the cylinder equal to
+The net force on the cylin-
+der exerted by the fluid pressure, which is the buoyant force,
+acts upward and
+has the magnitude
+where
+is the volume of the cylinder; the product 
+is the mass of
+the fluid displaced, and
+is the weight of fluid which takes up a
+volume equal to the volume of the cylinder. Thus the buoyant force on the
+cylinder is equal to the weight of fluid displaced by the cylinder.
+This result is valid no matter what the shape of the object. Its discovery is
+credited to Archimedes (287?–212 B.C.), and it is called Archimedes’ principle:
+the buoyant force on an object immersed in a fluid is equal to the weight of
+the fluid displaced by that object.
+By “fluid displaced,” we mean a volume of fluid equal to the submerged
+volume of the object (or that part of the object that is submerged). If the object is
+placed in a glass or tub initia

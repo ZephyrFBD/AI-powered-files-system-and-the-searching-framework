@@ -1,0 +1,66 @@
+ction with NH3 
+reduces concentration 
+of free Ag+ and 
+increases solubility of 
+AgCl
+▲ Figure 17.19 Concentrated NH31aq2 dissolves AgCl(s), which otherwise has very low solubility in water.
+ 
+SECTION 17.5  Factors That Affect Solubility 
+747
+748 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+TABLE 17.1 Formation Constants for Some Metal Complex Ions  
+in Water at 25 °C
+Complex Ion
+Kf
+Chemical Equation
+Ag1NH322
++
+1.7 * 107
+Ag+1aq2 + 2 NH31aq2 ∆ Ag1NH322
++ 1aq2
+Ag1CN22
+-
+1 * 1021
+Ag+1aq2 + 2 CN-1aq2 ∆ Ag1CN22
+- 1aq2
+Ag1S2O322
+3 -
+2.9 * 1013
+Ag+1aq2 + 2 S2O3
+2 -1aq2 ∆ Ag1S2O322
+3 - 1aq2
+Al1OH24
+-
+1.1 * 1033
+Al3+1aq2 + 4 OH-1aq2 ∆ Al1OH24
+- 1aq2
+CdBr4
+2 -
+5 * 103
+Cd2 +1aq2 + 4 Br-1aq2 ∆ CdBr4
+2 - 1aq2
+Cr1OH24
+-
+8 * 1029
+Cr3 +1aq2 + 4 OH-1aq2 ∆ Cr1OH24
+- 1aq2
+Co1SCN24
+2 -
+1 * 103
+Co2 +1aq2 + 4 SCN-1aq2 ∆ Co1SCN24
+2 - 1aq2
+Cu1NH324
+2 +
+5 * 1012
+Cu2 +1aq2 + 4 NH3 1aq2 ∆ Cu1NH324
+2+ 1aq2
+Cu1CN24
+2 -
+1 * 1025
+Cu2 +1aq2 + 4 CN-1aq2 ∆ Cu1CN24
+2+ 1aq2
+Ni1NH326
+2 +
+1.2 * 109
+Ni2 +1aq2 + 6 NH

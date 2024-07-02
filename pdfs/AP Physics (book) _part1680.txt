@@ -1,0 +1,35 @@
+s must generally be expressed in kelvins;
+temperature differences may be expressed in C° or K.
+5. Efficiency (or coefficient of performance) is a ratio
+of two energy transfers: useful output divided by
+required input. Efficiency (but not coefficient of
+performance) is always less than 1 in value, and
+hence is often stated as a percentage.
+6. The entropy of a system increases when heat is added
+to the system, and decreases when heat is removed.
+If heat is transferred from system A to system B,
+the change in entropy of A is negative and the change
+in entropy of B is positive.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Thermodynamics
+1. Define the system you are dealing with; distinguish
+the system under study from its surroundings.
+2. When applying the first law of thermodynamics, be
+careful of signs associated with work and heat. In the
+first law, work done by the system is positive; work
+done on the system is negative. Heat added to the
+system is positive, but heat removed from it is negative.
+With h

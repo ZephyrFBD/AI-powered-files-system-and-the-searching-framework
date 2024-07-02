@@ -1,0 +1,52 @@
+eal-gas behavior is reasonable.) The number of 
+moles of gas present can be calculated using the ideal-gas equa-
+tion 
+ (Section 10.4):
+n = PV
+RT =
+1600>760 atm210.436 L2
+10.08206 L@atm>mol@K21838 K2 = 5.00 * 10-3 mol
+0
+500
+1000
+1500
+75
+150
+225
+300
+Time (s)
+Pressure, HCOOH (torr)
+HCOOH(g) alone
+HCOOH(g)
+with ZnO(s)
+▲ Figure 14.30 Variation in pressure of HCOOH(g) 
+as a function of time at 838 K.
+∆H°
+Ea
+Transition state
+Reaction progress
+Potential energy
+(e) We first calculate the overall change in energy, ∆H° 
+ (Sec-
+tion 5.7 and Appendix C), as in
+ 
+∆H° = ∆Hf°1CO21g22 + ∆Hf°1H21g22 - ∆Hf°1HCOOH1g22
+ = -393.5 kJ>mol + 0 - 1-378.6 kJ>mol2
+ = -14.9 kJ>mol
+From this and the given value for Ea, we can draw an approximate 
+energy profile for the reaction, in analogy to Figure 14.16.
+ 
+SECTION 14.7   
+Catalysis 
+607
+608 
+CHAPTER 14 Chemical Kinetics
+Chapter Summary and Key Terms
+INTRODUCTION 
+TO 
+KINETICS 
+(INTRODUCTION 
+AND 
+SECTION 
+14.1)  
+Chemical kinetics is the area of chemistry in whi

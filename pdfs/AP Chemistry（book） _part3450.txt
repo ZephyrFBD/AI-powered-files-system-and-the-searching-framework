@@ -1,0 +1,16 @@
+and when light nuclei fuse (fusion).
+NUCLEAR FISSION AND FUSION (SECTIONS 21.7 AND 21.8)  
+Uranium-235, uranium-233, and plutonium-239 undergo fission 
+when they capture a neutron, splitting into lighter nuclei and re-
+leasing more neutrons. The neutrons produced in one fission can 
+cause further fission reactions, which can lead to a nuclear chain 
+reaction. A reaction that maintains a constant rate is said to be crit-
+ical, and the mass necessary to maintain this constant rate is called 
+a critical mass. A mass in excess of the critical mass is termed a super-
+critical mass.
+In nuclear reactors, the fission rate is controlled to generate a 
+constant power. The reactor core consists of fuel elements containing 
+fissionable nuclei, control rods, a moderator, and a primary coolant. 
+A nuclear power plant resembles a conventional power plant except 
+that the reactor core replaces the fuel burner. There is concern about 
+the disposal of highly radioactive nuclear wastes that are generated

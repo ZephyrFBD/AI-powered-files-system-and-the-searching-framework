@@ -1,0 +1,133 @@
+ additional points as needed to fill in the rest of the graph of the function. 
+ 
+49 
+ 
+Example 3 
+Graph  
+2
+2
+2
+7
+4
+( )
+,
+2
+x
+x
+r x
+x
+x
++
+-
+=
++
+-
+ 
+and state the domain and range. 
+ 
+ 
+ 
+ 
+ 
+1.8.4 Common Factors of Numerator and Denominator 
+We have adopted the convention that the numerator and denominator of a rational function 
+have no factor in common. 
+ 
+Example 4 
+Graph the following functions. 
+ 
+ 
+ 
+ 
+ 
+ 
+1.8.5 Slant Asymptotes and End Behaviour 
+If r(x) = P(x) / Q(x) is a rational function in which the degree of the numerator is one more 
+than the degree of the denominator, we can use the Division Algorithm to express the 
+function in the form 
+( )
+( )
+( )
+R x
+r x
+ax
+b
+Q x
+=
++
++
+ 
+where the degree of R is less than the degree of Q and a ≠ 0.  
+ 
+ 
+50 
+Example 5 
+Graph the rational function 
+2
+4
+5
+( )
+.
+3
+x
+x
+r x
+x
+-
+-
+=
+-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+51 
+Exercise 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+1.9 Polynomial and Rational

@@ -1,0 +1,13 @@
+Fig. 11–15. Curve A represents an underdamped situation, in which the
+system makes several oscillations before coming to rest; it corresponds to a more
+heavily damped version of Fig.11–14. Curve C represents the overdamped situation,
+when the damping is so large that there is no oscillation and the system takes a
+long time to come to rest (equilibrium). Curve B represents critical damping: in
+this case the displacement reaches zero in the shortest time. These terms all
+derive from the use of practical damped systems such as door-closing mechanisms
+and shock absorbers in a car (Fig.11–16), which are usually designed to give critical
+damping. But as they wear out, underdamping occurs: the door of a room slams
+and a car bounces up and down several times when it hits a bump.
+In many systems, the oscillatory motion is what counts, as in clocks and 
+musical instruments, and damping may need to be minimized. In other systems,
+oscillations are the problem, such as a car’s springs, so a proper 

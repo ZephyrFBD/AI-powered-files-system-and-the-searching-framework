@@ -1,0 +1,10 @@
+ruses may also contain additional proteins, such as enzymes. The most obvious difference between
+members of viral families is their morphology, which is quite diverse. An interesting feature of viral complexity is that the
+complexity of the host does not correlate with the complexity of the virion. Some of the most complex virion structures are
+observed in bacteriophages, viruses that infect the simplest living organisms, bacteria.
+Morphology
+Viruses come in many shapes and sizes, but these are consistent and distinct for each viral family. All virions have a nucleic
+acid genome covered by a protective layer of proteins, called a capsid. The capsid is made up of protein subunits called
+capsomeres. Some viral capsids are simple polyhedral “spheres,” whereas others are quite complex in structure.
+In general, the shapes of viruses are classified into four groups: filamentous, isometric (or icosahedral), enveloped, and head
+and tail. Filamentous viruses are long and cylindrical. Many plant

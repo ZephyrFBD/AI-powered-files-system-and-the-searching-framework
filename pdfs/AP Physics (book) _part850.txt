@@ -1,0 +1,24 @@
+the translational kinetic energy.
+8–8 Angular Momentum and
+Its Conservation
+Throughout this Chapter we have seen that if we use the appropriate angular
+variables, the kinematic and dynamic equations for rotational motion are anal-
+ogous to those for ordinary linear motion. We saw in the previous Section,
+for example, that rotational kinetic energy can be written as 
+which is
+analogous to the translational kinetic energy,
+In like manner, the linear
+momentum,
+has a rotational analog. It is called angular momentum, L.
+For a symmetrical object rotating about a fixed axis through the CM, the angular
+momentum is
+(8;18)
+where I is the moment of inertia and 
+is the angular velocity about the axis of
+rotation. The SI units for L are 
+which has no special name.
+We saw in Chapter 7 (Section 7–1) that Newton’s second law can be written
+not only as 
+but also more generally in terms of momentum (Eq. 7–2),
+In a similar way, the rotational equivalent of Newton’s second
+law, which we saw in Eq. 8–14 ca

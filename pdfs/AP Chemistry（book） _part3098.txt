@@ -1,0 +1,19 @@
+with temperature, 
+then an increase in T will serve to make ∆G°
+soln more negative. 
+Thus, the driving force for dissolution of the salts will increase 
+with increasing T, and we therefore expect the solubility of 
+the salts to increase with increasing T. In Figure 13.18, we see 
+that the solubility of NaCl (and that of nearly any other salt) 
+increases with increasing temperature. 
+ (Section 13.3)
+Chapter Summary and Key Terms
+SPONTANEOUS PROCESSES (SECTION 19.1) Most reactions and 
+chemical processes have an inherent directionality: They are sponta-
+neous in one direction and nonspontaneous in the reverse direction. 
+The spontaneity of a process is related to the thermodynamic path 
+the system takes from the initial state to the final state. In a revers-
+ible process, both the system and its surroundings can be restored to 
+their original state by exactly reversing the change. In an irreversible 
+process, the system cannot return to its original state without a per-
+manent change in 

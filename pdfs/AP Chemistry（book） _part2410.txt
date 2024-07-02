@@ -1,0 +1,25 @@
+ 
+reaction takes place
+H21g2 + I21g2 ∆2 HI1g2
+What is the value of the equilibrium constant Kc if once the system comes to equilibrium at 448 °C the concentration of HI is 
+1.87 * 10 - 3 M?
+Sample Exercise 15.8
+ Calculating K from Initial and Equilibrium Concentrations
+Continued
+640 
+CHAPTER 15 Chemical Equilibrium
+Solve
+(1) We tabulate the initial and equilibrium 
+concentrations of as many species as we 
+can. We also provide space in our table for 
+listing the changes in concentrations. As 
+shown, it is convenient to use the chemi-
+cal equation as the heading for the table.
+Analyze We are given the initial concentrations of H2 and I2 and 
+the equilibrium concentration of HI. We are asked to calculate the 
+equilibrium constant Kc for H21g2 + I21g2 ∆2 HI1g2.
+Plan We construct a table to find equilibrium concentrations of all 
+species and then use the equilibrium concentrations to calculate 
+the equilibrium constant.
+Comment The same method can be applied to gaseous equilibrium 
+problems

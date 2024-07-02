@@ -1,0 +1,16 @@
+the relative num-
+bers of ions and neutral molecules. This balance produces a state of chemical equilib-
+rium in which the relative numbers of each type of ion or molecule in the reaction are 
+constant over time. Chemists use half-arrows pointing in opposite directions to represent 
+reactions that go both forward and backward to achieve equilibrium, such as the ioniza-
+tion of weak electrolytes. In contrast, a single reaction arrow is used for reactions that 
+largely go forward, such as the ionization of strong electrolytes. Because HCl is a strong 
+electrolyte, we write the equation for the ionization of HCl as
+ 
+HCl1aq2 ¡ H+1aq2 + Cl-1aq2 
+[4.2]
+The absence of a left-pointing half-arrow indicates that the H + and Cl - ions have no ten-
+dency to recombine to form HCl molecules.
+In the following sections, we will look at how a compound’s composition lets us pre-
+dict whether it is a strong electrolyte, weak electrolyte, or nonelectrolyte. For the moment, 
+you need only to remember that

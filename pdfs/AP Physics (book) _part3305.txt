@@ -1,0 +1,30 @@
+st as molecules are. In metals, the electrostatic force between
+free electrons and positive ions helps form the metallic bond.
+In the free-electron theory of metals, electrons occupy the
+possible energy states according to the exclusion principle. At
+all possible states are filled up to a maximum energy
+level called the Fermi energy,
+the magnitude of which is
+typically a few eV. All states above 
+are vacant at T = 0 K.
+EF
+EF,
+T = 0 K,
+¢ = &1.
+¢l = &1
+Evib = A +
+1
+2B hf,   = 0, 1, 2, p,
+Erot = l(l + 1) U2
+2I
+,  l = 0, 1, 2, p,
+10–3 eV
+10–1 eV
+In a crystalline solid, the possible energy states for electrons
+are arranged in bands. Within each band the levels are very
+close together, but between the bands there may be forbidden
+energy gaps. Good conductors are characterized by the highest
+occupied band (the conduction band) being only partially full,
+so lots of states are available to electrons to move about and
+accelerate when a voltage is applied. In a good insulator, the
+highest occu

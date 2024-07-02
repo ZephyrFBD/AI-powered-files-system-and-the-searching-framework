@@ -1,0 +1,44 @@
+by an insulator of dielectric constant 
+and thickness
+What side length 
+should the square plates
+have 
+?
+(in mm)
+l
+d = 100 nm.
+K = 3
+A: (a) 
+(b)
+B: (c).
+C: 0.72 J.
+D: (c).
+9.8 * 105 ms.
+–8.0 * 10–16 J;
+E: A.
+F: (a) 3 times greater; (b) 3 times greater.
+G: 12 mF.
+ANSWERS TO EXERCISES
+93. An electron is accelerated horizontally from rest by a poten-
+tial difference of 2200 V. It then passes between two
+horizontal plates 6.5 cm long and 1.3 cm apart that have a
+potential difference of 250 V (Fig. 17–50). At what angle 
+will the electron be traveling after it passes between the
+plates?
+u
+Search and Learn 
+θ
++ + + + + + + +
+−−−−−−−−
+v
+B
+FIGURE 17–50
+Problem 93.
+95. In the DRAM computer chip of Problem 94, suppose the
+two parallel plates of one cell’s 35-fF capacitor are
+separated by a 2.0-nm-thick insulating material with dielectric
+constant 
+(a) Determine the area A
+of
+the cell capacitor’s plates. (b) If the plate area A accounts
+for half of the area of each cell, estimate how many mega-

@@ -1,0 +1,15 @@
+ its neighbors.
+Rarefied gases can also be excited to emit light. This is done by intense 
+heating, or more commonly by applying a high voltage to a “discharge tube”
+containing the gas at low pressure, Fig. 27–22. The radiation from excited gases
+had been observed early in the nineteenth century, and it was found that the
+spectrum was not continuous. Rather, excited gases emit light of only certain
+wavelengths, and when this light is analyzed through the slit of a spectroscope 
+or spectrometer, a line spectrum is seen rather than a continuous spectrum.
+The line spectra emitted by a number of elements in the visible region are shown
+below in Fig. 27–23, and in Chapter 24, Fig. 24–28. The emission spectrum is
+characteristic of the material and can serve as a type of “fingerprint” for
+identification of the gas.
+We also saw (Chapter 24) that if a continuous spectrum passes through a
+rarefied gas, dark lines are observed in the emerging spectrum, at wavelengths
+corresponding to lines normal

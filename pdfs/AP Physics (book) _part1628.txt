@@ -1,0 +1,15 @@
+s and the intake valve opens, and the whole cycle repeats.
+(a), (b), (d), and (e) are the four strokes of the cycle.
+Why a 
+Is Needed to Drive a Heat Engine
+To see why a temperature difference is required to run an engine, consider a steam
+engine. In the reciprocating engine, for example, suppose there were no con-
+denser or pump (Fig. 15–12a), and that the steam was at the same temperature
+throughout the system. Then the pressure of the gas being exhausted would be
+the same as on intake. The work done by the gas on the piston when it expanded
+would equal the amount of work done by the piston to force the steam out the
+exhaust; hence, no net work would be done. In a real engine, the exhausted gas is
+cooled to a lower temperature and condensed so that the exhaust pressure is less
+than the intake pressure. Thus, the work the piston must do on the gas to expel it
+on the exhaust stroke is less than the work done by the gas on the piston during
+the intake. So a net amount of work can be obt

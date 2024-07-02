@@ -1,0 +1,32 @@
+g (ray 2), with
+most of the energy passing through
+as the transmitted ray into the glass.
+FIGURE 24–37 Michelson
+interferometer.
+2
+1
+Coating
+Glass
+Transmitted
+ray
+Air
+Incident ray
+Source
+M1 (movable mirror)
+M2
+(fixed mirror)
+Eye
+2
+1
+MS
+24–10 Polarization
+An important and useful property of light is that it can be polarized. To see what
+this means, let us examine waves traveling on a rope. A rope can oscillate in a
+vertical plane, Fig. 24–38a, or in a horizontal plane, Fig. 24–38b. In either case,
+the wave is said to be linearly polarized or plane-polarized—the oscillations are
+in a plane.
+If we now place an obstacle containing a vertical slit in the path of the wave,
+Fig. 24–39, a vertically polarized wave passes through the vertical slit, but a
+horizontally polarized wave will not. If a horizontal slit were used, the vertically
+polarized wave would be stopped. If both types of slit were used, both types of wave
+would be stopped by one slit or the other. Note that polarization can exis

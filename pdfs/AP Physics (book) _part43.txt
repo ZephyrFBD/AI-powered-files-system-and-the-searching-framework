@@ -1,0 +1,15 @@
+red. If we don’t
+overwhelm students with too much detail, especially at the start, maybe they can
+find physics interesting, fun, and helpful—and those who were afraid may lose
+their fear.
+Chapter 1 is not a throwaway. It is fundamental to physics to realize that every
+measurement has an uncertainty, and how significant figures are used. Converting
+units and being able to make rapid estimates are also basic.
+Mathematics can be an obstacle to students. I have aimed at including all steps
+in a derivation. Important mathematical tools, such as addition of vectors and
+trigonometry, are incorporated in the text where first needed, so they come with
+a context rather than in a scary introductory Chapter. Appendices contain a review
+of algebra and geometry (plus a few advanced topics).
+Color is used pedagogically to bring out the physics. Different types of vectors
+are given different colors (see the chart on page xix).
+Sections marked with a star * are considered optional. These contain slight

@@ -1,0 +1,57 @@
+adians,
+and thus 
+Hence, in general, the frequency f is related to the
+angular velocity 
+by
+or
+(8;7)
+The unit for frequency, revolutions per second (rev s), is given the special name
+the hertz (Hz). That is,
+Note that “revolution” is not really a unit, so we can also write 
+The time required for one complete revolution is called the period T, and it
+is related to the frequency by
+(8;8)
+If a particle rotates at a frequency of three revolutions per second, then the
+period of each revolution is 1
+3 s.
+T =
+1
+f
+.
+1 Hz = 1 s–1.
+1 Hz = 1 revs.
+
+v = 2pf.
+f =
+v
+2p
+v
+1 revs = 2p rads.
+2p
+v
+u L 15°.
+u = tan–1 a atan
+aR
+b
+= tan–1 a 0.15 ms2
+0.58 ms2 b
+= 0.25 rad,
+u
+0.60 ms2
+a = 3atan
+2
++ aR
+2
+=
+3A0.15 ms2B
+2 + A0.58 ms2B
+2 = 0.60 ms2.
+t = 8.0 s
+SECTION 8–2
+Constant Angular Acceleration
+203
+EXERCISE A In Example 8–4 we found that the carousel, after 8.0 s, rotates at an 
+angular velocity 
+and continues to do so after 
+because the
+acceleration ceased. What are the frequency and period of t

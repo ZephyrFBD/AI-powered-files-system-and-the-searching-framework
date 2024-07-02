@@ -1,0 +1,20 @@
+r nickel–cadmium batteries?
+ 20.78  In some applications nickel–cadmium batteries have been 
+replaced by nickel–zinc batteries. The overall cell reaction 
+for this relatively new battery is:
+2 H2O1l2 + 2 NiO1OH21s2 + Zn1s2
+ 
+¡ 2 Ni1OH221s2 + Zn1OH221s2
+(a)What is the cathode half-reaction? (b)What is the anode 
+half-reaction? (c) A single nickel–cadmium cell has a volt-
+age of 1.30 V. Based on the difference in the standard reduc-
+tion potentials of Cd2+ and Zn2+, what voltage would you 
+estimate a nickel–zinc battery will produce? (d) Would you 
+expect the speciﬁc energy density of a nickel–zinc battery to 
+be higher or lower than that of a nickel–cadmium battery?
+ 20.79  In a Li-ion battery the composition of the cathode is 
+LiCoO2 when completely discharged. On charging, 
+approximately 50% of the Li+ ions can be extracted from 
+the cathode and transported to the graphite anode where 
+they intercalate between the layers. (a) What is the com-
+position of the cathode when the battery i

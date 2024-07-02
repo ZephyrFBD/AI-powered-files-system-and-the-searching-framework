@@ -1,0 +1,72 @@
+= 60.0°.
+sin uB = 1.50
+1.00 sin uA = 0.866,
+uB
+n2 = 1.00.
+n1 = 1.50
+sin uA = 0.5774.
+uA
+uA = 35.3°.
+sin uA = 1.00
+1.50 sin 60.0° = 0.5774,
+(1.00) sin 60.0° = (1.50) sin uA
+Au1 = 60.0°,  u2 = uAB
+n2 = 1.50.
+n1 = 1.00
+uB
+uA
+EXAMPLE 23;8
+θ
+A
+60.0°
+Ray
+from
+object
+“Image” (where object
+appears to be) when
+viewed from above
+through the glass
+θB
+θ
+A
+Glass
+Air
+Air
+FIGURE 23–24 Light passing
+through a piece of glass
+(Example 23–8).
+d′
+x
+x
+d = 1.0 m
+θ2
+θ2
+θ1
+Goggles
+FIGURE 23–25 Example 23–9.
+SECTION 23–6
+Total Internal Reflection; Fiber Optics
+659
+n2 (< n1)
+I
+Source
+K
+J
+L
+θC
+θ1
+θ1
+n1
+FIGURE 23–26 Since
+light rays are totally 
+internally reflected if the incident angle
+as for ray L. If
+as for rays I and J, only a 
+part of the light is reflected, and the rest is refracted.
+u1 6 uC,
+u1 7 uC ,
+n2 6 n1 ,
+23–6 Total Internal Reflection;
+Fiber Optics
+When light passes from one material into a second material where the index of
+refraction is less (say, from water into air), the refracted light ray ben

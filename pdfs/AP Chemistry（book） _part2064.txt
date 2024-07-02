@@ -1,0 +1,31 @@
+ose you take a solution and add more solvent, so that 
+the original mass of solvent is doubled. You take this new 
+solution and add more solute, so that the original mass of the 
+solute is doubled. What happens to the molality of the final 
+solution, compared to the original molality?
+(a) It is doubled.
+(b) It is decreased by half.
+(c) It is unchanged.
+(d) It will increase or decrease depending on the molar mass of 
+the solute.
+(e) There is no way to tell without knowing the molar mass of 
+the solute.
+ 
+▶Practice Exercise 2
+What is the molality of a solution made by dissolving 36.5 g 
+of naphthalene 1C10H82 in 425 g of toluene 1C7H82?
+Mol C6H12O6 = 14.35 g C6H12O62a
+1 mol C6H12O6
+180.2 g C6H12O6
+b = 0.0241 mol C6H12O6
+Molality of C6H12O6 =
+0.0241 mol C6H12O6
+0.0250 kg H2O
+= 0.964 m 
+125.0 mL211.00 g>mL2 = 25.0 g = 0.0250 kg 
+SOLUTION
+Sample Exercise 13.4 
+Calculation of Molality
+Because water has a density of 1.00 g>mL, 
+the mass of the solvent is:
+Finally, use Equation 13.9 to obtain 

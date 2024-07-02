@@ -1,0 +1,11 @@
+nts differ for genes transcribed by RNA polymerases I, II, and III. RNA
+polymerase I transcribes genes that have two GC-rich promoter sequences in the -45 to +20 region. These sequences alone
+are sufficient for transcription initiation to occur, but promoters with additional sequences in the region from -180 to -105
+upstream of the initiation site will further enhance initiation. Genes that are transcribed by RNA polymerase III have
+upstream promoters or promoters that occur within the genes themselves.
+Eukaryotic Elongation and Termination
+Following the formation of the preinitiation complex, the polymerase is released from the other transcription factors, and
+elongation is allowed to proceed as it does in prokaryotes with the polymerase synthesizing pre-mRNA in the 5' to 3'
+direction. As discussed previously, RNA polymerase II transcribes the major share of eukaryotic genes, so this section will
+focus on how this polymerase accomplishes elongation and termination.
+Although the enzyma

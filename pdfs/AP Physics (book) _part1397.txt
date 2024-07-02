@@ -1,0 +1,17 @@
+ury in the right-hand column is then a measure
+of the temperature. This thermometer gives the same results for all gases in the
+limit of reducing the gas pressure in the bulb toward zero. The resulting scale
+serves as a basis for the standard temperature scale.
+*
+13–3 Thermal Equilibrium and the
+Zeroth Law of Thermodynamics
+If two objects at different temperatures are placed in thermal contact (meaning
+thermal energy can transfer from one to the other), the two objects will eventually
+reach the same temperature. They are then said to be in thermal equilibrium. For
+example, you leave a fever thermometer in your mouth until it comes into thermal
+equilibrium with that environment; then you read it. Two objects are defined 
+to be in thermal equilibrium if, when placed in thermal contact, no net energy
+flows from one to the other, and their temperatures don’t change.
+The Zeroth Law of Thermodynamics
+Experiments indicate that
+if two systems are in thermal equilibrium with a third system, the

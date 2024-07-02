@@ -1,0 +1,23 @@
+(b)
+(c)
+(d)
+(e)
+and the smallest objects it can resolve have a size of about
+(a) 10 nm;
+(b) 100 nm;
+(c) 500 nm;
+(d) 2500 nm;
+(e) 5500 nm.
+I
+n our discussion of the behavior of light in the two previous Chapters, we
+also described a few instruments such as the spectrometer and the Michelson
+interferometer. In this Chapter, we will discuss some more common instru-
+ments, most of which use lenses, including the camera, telescope, microscope,
+and the human eye. To describe their operation, we will use ray diagrams as we
+did in Chapter 23. However, we will see that understanding some aspects of their
+operation will require the wave nature of light.
+25–1 Cameras: Film and Digital
+The basic elements of a camera are a lens, a light-tight box, a shutter to let light
+pass through the lens only briefly, and in a digital camera an electronic sensor or
+in a traditional camera a piece of film (Fig. 25–1). When the shutter is opened for
+a brief “exposure,” light from external objects in the field of 

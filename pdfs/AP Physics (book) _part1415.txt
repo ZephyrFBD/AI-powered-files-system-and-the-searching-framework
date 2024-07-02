@@ -1,0 +1,52 @@
+ T.
+T(K) = T(°C) + 273.15.
+–273.15°C.
+–273°C
+–273°C,
+–273°C
+–273°C.
+–183°C
+PV = constant
+V r
+1
+P
+,
+368
+CHAPTER 13
+Temperature and Kinetic Theory
+Temperature (°C)
+0°C
+200°C
+(a)
+100°C
+−273°C
+Temperature (kelvins, or K)
+500 K
+(b)
+400 K
+300 K
+200 K
+100 K
+0 K
+Volume
+Volume
+FIGURE 13–15 Volume of a fixed
+amount of gas as a function of
+(a) Celsius temperature, and
+(b) Kelvin temperature, when the
+pressure is kept constant.
+P
+V
+0
+FIGURE 13–14 Pressure vs. volume
+of a fixed amount of gas at a
+constant temperature, showing the
+inverse relationship as given by
+Boyle’s law: as the pressure
+decreases, the volume increases.
+Why you should not put a closed glass
+jar into a campfire. What could happen if you tossed an empty glass jar, with 
+the lid on tight, into a fire, and why?
+RESPONSE The inside of the jar is not empty. It is filled with air. As the fire
+heats the air inside, its temperature rises. The volume of the glass jar changes
+only slightly due to the heating. According to Gay-Lussac’s law 

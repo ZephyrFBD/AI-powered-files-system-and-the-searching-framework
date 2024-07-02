@@ -1,0 +1,25 @@
+s-
+ness of an electric shock depends on the current and thus on the applied voltage
+and the effective resistance of the body. Living tissue has low resistance because
+the fluid of cells contains ions that can conduct quite well. However, the outer
+layer of skin, when dry, offers high resistance and is thus protective. The effective
+resistance between two points on opposite sides of the body when the skin is dry
+is on the order of 
+to 
+But when the skin is wet, the resistance may be 
+or less. A person who is barefoot or wearing thin-soled shoes will be in good contact
+with the ground, and touching a 120-V line with a wet hand can result in a current
+As we saw, this could be lethal.
+I =
+120 V
+1000  = 120 mA.
+103 
+106 .
+104
+P H Y S I C S  A P P L I E D
+Heart pacemaker
+P H Y S I C S  A P P L I E D
+Dangers of electricity
+The intermittent windshield wipers of a car can also use an RC circuit. The
+RC time constant, which can be changed using a multi-positioned switch for dif-
+ferent values

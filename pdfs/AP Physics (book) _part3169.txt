@@ -1,0 +1,56 @@
+for many atoms, because (as we have seen) the wavelength of the shortest
+characteristic X-rays emitted will be inversely proportional to 
+Actually,
+for an electron jumping from, say, the 
+to the 
+level (
+line), the
+wavelength is inversely proportional to 
+because the nucleus is shielded
+by the one electron that still remains in the 1s level. In 1914, H. G. J. Moseley
+(1887–1915) found that a plot of 
+vs. Z produced a straight line, Fig. 28–12,
+where 
+is the wavelength of the 
+line. The Z values of a number of elements
+were determined by fitting them to such a Moseley plot. The work of Moseley put
+the concept of atomic number on a firm experimental basis.
+Ka
+l
+11l
+(Z - 1)2
+Ka
+n = 1
+n = 2
+Z2.
+n = 3
+Kb
+n = 1
+n = 2
+Ka
+(n = 1).
+Kb
+Ka
+l0
+l0
+818
+CHAPTER 28
+Quantum Mechanics of Atoms
+FIGURE 28–11 Spectrum of X-rays
+emitted from a molybdenum target
+in an X-ray tube operated at 50 kV.
+Ka
+0
+X-ray intensity
+Kb
+Wavelength, l (nm)
+ 0.2
+ 0.1
+l
+FIGURE 28–12 Plot of 
+vs. Z
+for 
+X-ray lines.
+Ka
+21l
+Z

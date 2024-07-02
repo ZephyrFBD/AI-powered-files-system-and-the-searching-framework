@@ -1,0 +1,19 @@
+re A measure of the force exerted on a unit area. In 
+chemistry, pressure is often expressed in units of atmospheres 
+(atm) or torr: 760 torr =  1 atm; in SI units pressure is expressed in 
+pascals (Pa). (Section 10.2)
+pressure–volume (PV) work Work performed by expansion of a 
+gas against a resisting pressure. (Section 5.3)
+primary cell A voltaic cell that cannot be recharged. 
+(Section 20.7)
+primary structure The sequence of amino acids along a protein 
+chain. (Section 24.7)
+primitive lattice A crystal lattice in which the lattice points are 
+located only at the corners of each unit cell. (Section 12.2)
+principal quantum number The integer, n, associated with orbits 
+and energy levels in the Bohr atom. (Section 6.3)
+probability density 1C22 A value that represents the probability 
+that an electron will be found at a given point in space. Also 
+called electron density. (Section 6.5)
+product A substance produced in a chemical reaction; it appears 
+to the right of the arrow in a chemica

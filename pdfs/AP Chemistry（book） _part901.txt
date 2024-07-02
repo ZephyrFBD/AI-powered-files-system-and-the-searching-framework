@@ -1,0 +1,16 @@
+ the wavelength of a spectral line, RH is the Rydberg constant 
+11.096776 * 107 m- 12, and n1 and n2 are positive integers, with n2 being larger than 
+n1. How could the remarkable simplicity of this equation be explained? It took nearly 30 
+more years to answer this question.
+Bohr’s Model
+Rutherford’s discovery of the nuclear atom 
+ (Section 2.2) suggested that an atom 
+might be thought of as a “microscopic solar system” in which the electrons orbit the 
+nucleus. To explain the line spectrum of hydrogen, Bohr assumed that electrons in 
+hydrogen atoms move in circular orbits around the nucleus, but this assumption posed a 
+problem. According to classical physics, a charged particle (such as an electron) moving 
+in a circular path should continuously lose energy. As an electron loses energy, there-
+fore, it should spiral into the positively charged nucleus. This behavior, however, does 
+not happen—hydrogen atoms are stable. So how can we explain this apparent  
+violation 
+of the laws of 

@@ -1,0 +1,34 @@
+ how the two N and 
+four O donor atoms coordinate to cobalt.
+Give It Some Thought
+Both H2O and ethylenediamine (en) have two nonbonding pairs of electrons. Why 
+can en act as a bidentate ligand whereas water cannot?
+In general, the complexes formed by chelating ligands (that is, bidentate and 
+polydentate ligands) are more stable than the complexes formed by related monodentate 
+ligands. The equilibrium formation constants for 3Ni(NH3)642+ and 3Ni(en)342+ illustrate 
+this observation:
+ 
+3Ni(H2O)642+(aq) + 6 NH3(aq) ∆ 3Ni(NH3)642+(aq) + 6 H2O(l)
+ 
+ 
+ 
+ 
+ 
+ 
+Kf = 1.2 * 109 
+ 
+[23.4]
+ 
+3Ni(H2O)642+(aq) + 3 en(aq) ∆ 3Ni(en)342+(aq) + 6 H2O(l)
+ 
+ 
+ 
+ 
+ 
+ 
+Kf = 6.8 * 1017  
+[23.5]
+Although the donor atom is nitrogen in both instances, 3Ni(en)342+ has a formation con-
+stant that is more than 108 times larger than that of 3Ni(NH3)642+. This trend of generally 
+larger formation constants for bidentate and polydentate ligands, known as the chelate 
+effect, is examined in the “A Closer Look” essa

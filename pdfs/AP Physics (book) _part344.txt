@@ -1,0 +1,47 @@
+tions, Eqs. 2–11, to calculate it.
+©F = ma,
+100 kmh
+EXAMPLE 4;3
+©F = ma L (0.2 kg)A5 ms2B
+= 1 N.
+m = 200 g = 0.2 kg,
+4.45 Nlb
+©F = ma L (1000 kg)A5 ms2B
+= 5000 N.
+a = 1
+2 g = 1
+2 A9.8 ms2B L 5 ms2.
+1
+2
+1
+2 g;
+EXAMPLE 4;2
+ESTIMATE
+80
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+v = 0
+v0 = 100 km/h
+x = 0
+x = 55m
+x (m)
+FIGURE 4;6
+Example 4–3.
+SOLUTION We assume the motion is along the 
+axis (Fig. 4–6). We are
+given the initial velocity 
+(Section 1–6), the final
+velocity  
+and the distance traveled  
+From Eq. 2–11c, we
+have
+so
+The net force required is then
+or 
+The force must be exerted in the direction opposite to the initial
+velocity, which is what the negative sign means.
+NOTE If the acceleration is not precisely constant, then we are determining an
+“average” acceleration and we obtain an “average” net force.
+Newton’s second law, like the first law, is valid only in inertial reference frames
+(Section 4–2). In the noninertial reference frame of a car that begins accelerating,
+a cup 

@@ -1,0 +1,28 @@
+ntral Dogma of Biology.
+RNA
+Before we discuss transcription of RNA, let’s talk about its structure. Although RNA is also made up of nucleotides,
+it differs from DNA in three ways.
+1. RNA is single-stranded, not double-stranded.
+2. The five-carbon sugar in RNA is ribose instead of deoxyribose.
+3. The RNA nitrogenous bases are adenine, guanine, cytosine, and a different base called uracil. Uracil replaces
+thymine as adenine’s partner.
+Here’s a table to compare DNA and RNA. Keep these differences in mind—the testing board loves to test you on
+them.
+DIFFERENCES BETWEEN DNA AND RNA
+DNA (double-stranded)
+RNA (single-stranded)
+Sugar
+deoxyribose
+ribose ​ ​ ​
+Bases
+adenine ​ ​ ​ ​ ​ ​
+guanine ​ ​ ​ ​ ​ ​
+cytosine ​ ​ ​ ​ ​ ​
+thymine ​ ​ ​ ​ ​ ​
+adenine ​
+guanine ​
+cytosine
+uracil ​ ​ ​ ​
+There are three main types of RNA: messenger RNA (mRNA), ribosomal RNA (rRNA), and transfer RNA (tRNA).
+All three types of RNA are key players in the synthesis of proteins:
+Messenger RNA (mRNA) is a temporary R

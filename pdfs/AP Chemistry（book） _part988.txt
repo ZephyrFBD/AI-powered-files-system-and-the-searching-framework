@@ -1,0 +1,15 @@
+1 gives, for all the elements, the ground-state electron configurations 
+for the outer-shell electrons. You can use this figure to check your answers as you 
+practice writing electron configurations. We have written these configurations with 
+ 
+orbitals listed in order of increasing principal quantum number. As we saw in Sample 
+Exercise 6.9, the orbitals can also be listed in order of filling, as they would be read 
+off of the periodic table.
+Figure 6.31 allow us to reexamine the concept of valence electrons. Notice, for 
+ 
+example, that as we proceed from Cl 13Ne43s23p52 to Br 13Ar43d104s24p52 we add a com-
+plete subshell of 3d electrons to the electrons beyond the [Ar] core. Although the 3d 
+electrons are outer-shell electrons, they are not involved in chemical bonding and are 
+therefore not considered valence electrons. Thus, we consider only the 4s and 4p elec-
+trons of Br to be valence electrons. Similarly, if we compare the electron configurations of 
+Ag (element 47) and Au (ele

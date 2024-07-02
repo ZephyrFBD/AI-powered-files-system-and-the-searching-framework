@@ -1,0 +1,14 @@
+es.
+A signal voltage, on the other hand, is a voltage intended to affect something
+else. A signal voltage varies in time and can also be very brief. For example,
+a sound such as a pure tone, which may be sinusoidal as we discussed in 
+Chapters 11 and 12 (see Figs. 11–24 and 12–14), will produce an output voltage
+from a high quality microphone that is also sinusoidal. That signal voltage is
+amplified and reaches a loudspeaker, making it produce the sound we hear.
+Signal voltages (see Fig. 17–22) are sometimes a simple pulse (as in Figs. 11–23
+and 11–33), and often act to change some aspect of an electronic device.
+Signal voltages are sent to cell phones (“I’ve got signal”), to computers from
+the Internet, or to TV sets with the information on the picture and sound. Not long
+ago, signal voltages were analog—the voltage varied continuously, as in Fig. 17–22.
+Today, television and computer signals are digital and use a binary number
+system to represent a numerical value. In a normal number

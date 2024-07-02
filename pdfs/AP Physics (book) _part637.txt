@@ -1,0 +1,47 @@
+ to be
+for the gravitational potential energy.
+5. Is mechanical energy conserved? No. Friction is present.
+6. Apply conservation of energy. There is friction acting on the car, so we use
+conservation of energy in the form of Eq. 6–16b, with  
+and 
+Thus
+7. Solve. We solve the above equation for 
+the energy dissipated to thermal
+energy:
+The friction force, which acts over a distance of 400 m, averages out to be  
+NOTE This result is only a rough average: the friction force at various points
+depends on the normal force, which varies with slope.
+F
+fr = A1.47 * 105 JB400 m = 370 N.
+F
+fr d =
+mg ¢h =
+(1000 kg)A9.8 ms2B(40 m - 25 m) =
+147,000 J.
+F
+fr d,
+0 + (1000 kg)A9.8 ms2B(40 m) = 0 + (1000 kg)A9.8 ms2B(25 m) + F
+fr d.
+d = 400 m.
+y2 = 25 m,
+v2 = 0,
+v1 = 0,   y1 = 40 m,
+y = 0
+25 m
+F
+fr d.
+25 m
+EXAMPLE 6;12
+ESTIMATE
+158
+CHAPTER 6
+Work and Energy
+40 m
+1
+2
+25 m
+y = 0
+FIGURE 6–27 Example 6–12.
+Because of friction, a roller-coaster
+car does not reach the original height
+on the second hill. (N

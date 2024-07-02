@@ -1,0 +1,36 @@
+Eq. 11–6b,
+We solve for k:
+(b) The total mass is now
+We could substi-
+tute
+into Eq. 11–6b. Instead, we notice that the frequency
+decreases with the square root of the mass. Since the new mass is 4/3 times 
+the first mass, the frequency changes by a factor of
+Thus
+NOTE Check this result by direct substitution of k, found in part (a), and the
+new mass m into Eq. 11–6b.
+f = (15 Hz)A234B = 13 Hz.
+1243 = 234.
+m = 4.0 * 10–4 kg
+0.10 g + 0.30 g = 4.0 * 10–4 kg.
+= (2p)2 (15 s–1B 2 A3.0 * 10–4 kgB
+= 2.7 Nm.
+k = (2pf)2m
+f =
+1
+2p B
+k
+m
+.
+EXAMPLE 11;6
+ESTIMATE
+A vibrating floor. A large motor in a factory
+causes the floor to vibrate up and down at a frequency of 10 Hz. The amplitude
+of the floor’s motion near the motor is about 3.0 mm. Estimate the maximum
+acceleration of the floor near the motor.
+APPROACH Assuming the motion of the floor is roughly SHM, we can make
+an estimate for the maximum acceleration using
+and Eq. 11–6b.
+SOLUTION The maximum acceleration occurs when the force
+is
+largest

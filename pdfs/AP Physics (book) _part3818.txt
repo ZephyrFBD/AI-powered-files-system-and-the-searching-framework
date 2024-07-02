@@ -1,0 +1,61 @@
+ check this solution by putting these values
+back into the original equations:
+(it checks)
+and
+(it checks)
+Other methods for solving two or more equations, such as the method of
+determinants, can be found in an algebra textbook.
+–3 =
+–3.
+ 
+5 + 4(–2)  –3
+x + 4y  –3
+ 
+19 = 19
+ 
+15 + 4   19
+ 
+3(5) - 2(–2)   19
+ 
+3x - 2y   19
+y = –2.
+x = 5,
+=
+–3 - 4(–2) = –3 + 8 = 5.
+x =
+–3 - 4y
+y = –2,
+–14
+y =
+–2.
+–14y = 28
+–9 - 12y - 2y = 19
+ 
+3(–3 - 4y) - 2y = 19
+x =
+–3 - 4y.
+x + 4y =
+–3.
+ 
+3x - 2y = 19
+EXAMPLE A;3
+a = –3
+ 
+24 = 24,
+(3)2(2) + (6)   24
+c = 6
+b = 2,
+a = 3,
+a2b + c = 24,
+SECTION A–4
+Algebra
+A-5
+The Quadratic Formula
+We sometimes encounter equations that involve an unknown, say x, that appears
+not only to the first power, but squared as well. Such a quadratic equation can
+be written in the general form
+The quantities a, b, and c are typically numbers or constants that are given.† The
+general solutions to such an equation are given by the quadratic formula:
+(A;4)
+The 
+sign indicates th

@@ -1,0 +1,13 @@
+ns (Ca2+), cyclic AMP (cAMP), diacylglycerol (DAG), and inositol
+394
+Chapter 9 | Cell Communication
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+triphosphate (IP3).
+9.3 Response to the Signal
+The initiation of a signaling pathway is a response to external stimuli. This response can take many different forms,
+including protein synthesis, a change in the cell’s metabolism, cell growth, or even cell death. Many pathways influence
+the cell by initiating gene expression, and the methods utilized are quite numerous. Some pathways activate enzymes that
+interact with DNA transcription factors. Others modify proteins and induce them to change their location in the cell.
+Depending on the status of the organism, cells can respond by storing energy as glycogen or fat, or making it available in
+the form of glucose. A signal transduction pathway allows muscle cells to respond to immediate requirements for energy
+in the form of glucose. Cell growth is almost always 

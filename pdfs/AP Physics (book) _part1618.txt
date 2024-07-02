@@ -1,0 +1,15 @@
+nal
+energy is not maintained by a flow of heat Q into the body, however. Normally,
+the body is at a higher temperature than its surroundings, so heat usually flows
+out of the body. Even on a very hot day when heat is absorbed, the body has no
+way of utilizing this heat to support its vital processes. What then is the source of
+energy that allows us to do work? It is the internal energy (chemical potential
+energy) stored in foods (Fig. 15–9). In a closed system, the internal energy
+changes only as a result of heat flow or work done. In an open system, such as a
+human, internal energy itself can flow into or out of the system. When we eat
+food, we are bringing internal energy into our bodies directly, which thus increases
+the total internal energy U in our bodies. This energy eventually goes into work
+and heat flow from the body according to the first law.
+The metabolic rate is the rate at which internal energy is transformed within
+the body. It is usually specified in 
+or in watts. Typi

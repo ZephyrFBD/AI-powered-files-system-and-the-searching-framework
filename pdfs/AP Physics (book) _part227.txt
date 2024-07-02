@@ -1,0 +1,37 @@
+er instan-
+taneous 
+velocity?
+(e) Which bicycle has
+the larger average
+velocity?
+25 ms,
+25 ms
+0.60 ms2
+18 ms
+72. In the design of a rapid transit system, it is necessary to
+balance the average speed of a train against the distance
+between station stops. The more stops there are, the slower
+the train’s average speed. To get an idea of this problem,
+calculate the time it takes a train to make a 15.0-km trip
+in two situations: (a) the stations at which the trains must
+stop are 3.0 km apart (a total of 6 stations, including those
+at the ends); and (b) the stations are 5.0 km apart (4 stations
+total). Assume that at each station the train accelerates at
+a rate of 
+until it reaches 
+then stays at
+this speed until its brakes are applied for arrival at the next
+station, at which time it decelerates at 
+Assume
+it stops at each intermediate station for 22 s.
+–2.0 ms2.
+95 kmh,
+1.1 ms2
+15 m
+28 m
++x
+FIGURE 2;49 Problem 73.
+FIGURE 2;50
+Problem 78.
+73. A person driving her car at 
+approaches a

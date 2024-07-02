@@ -1,0 +1,31 @@
+y read the frequency from these equations, we often write 
+equations of simple harmonic motion in this form. 
+ 
+Example 1 
+The displacement of a mass suspended by a spring is modeled by the function 
+y = 10 sin 4π t 
+where y is measured in inches and t in seconds (see Figure 3). 
+ 
+Figure 3 
+(a) Find the amplitude, period, and frequency of the motion of the mass. 
+(b) Sketch a graph of the displacement of the mass. 
+ 
+ 
+ 
+ 
+ 
+An important situation in which simple harmonic motion occurs is in the production of 
+sound.  
+Sound is produced by a regular variation in air pressure from the normal pressure. If the 
+pressure varies in simple harmonic motion, then a pure sound is produced.  
+The tone of the sound depends on the frequency, and the loudness depends on the 
+amplitude. 
+ 
+ 
+ 
+132 
+Example 2 
+A sousaphone player plays the note E and sustains the sound for some time. For a pure E 
+the variation in pressure from normal air pressure is given by 
+V(t) = 0.2 sin 80 t 
+where V is measur

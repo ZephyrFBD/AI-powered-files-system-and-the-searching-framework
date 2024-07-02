@@ -1,0 +1,17 @@
+n with fluorine gas. (e) ∆Hf°  for BF31g2 is -1135.6 kJ>mol.  
+Calculate the standard enthalpy change in the 
+reaction of boron with fluorine. (f) Will the mass percentage of F be the same in 10BF3 and 11BF3? If not, why is that the case?
+ 
+Learning Outcomes 
+247
+electron-density distribution is a map of the probability of finding the 
+electron at all points in space.
+The allowed wave functions of the hydrogen atom are called 
+orbitals. An orbital is described by a combination of an integer and a 
+letter, corresponding to values of three quantum numbers. The prin-
+cipal quantum number, n, is indicated by the integers 1, 2, 3, . . . . This 
+quantum number relates most directly to the size and energy of the 
+orbital. The angular momentum quantum number, l, is indicated by the 
+letters s, p, d, f, and so on, corresponding to the values of 0, 1, 2, 3, . . 
+. . The l quantum number defines the shape of the orbital. For a given 
+value of n, l can have integer values ranging from 0 to 1n - 12

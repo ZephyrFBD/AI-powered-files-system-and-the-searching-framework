@@ -1,0 +1,17 @@
+oton
+energy is less than the work function, no electrons are ejected.
+NOTE In (a) we used the nonrelativistic equation for kinetic energy. If v had
+turned out to be more than about 0.1c, our calculation would have been inaccurate
+by more than a percent or so, and we would probably prefer to redo it using the
+relativistic form (Eq. 26–5).
+EXERCISE C Determine the lowest frequency and the longest wavelength needed to
+emit electrons from sodium.
+By converting units, we can show that the energy of a photon in electron
+volts, when given the wavelength in nm, is
+[photon energy in eV]
+Applications of the Photoelectric Effect
+The photoelectric effect, besides playing an important historical role in confirm-
+ing the photon theory of light, also has many practical applications. Burglar alarms
+and automatic doors often make use of the photocell circuit of Fig. 27–6. When 
+a person interrupts the beam of light, the sudden drop in current in the circuit
+activates a switch—often a solenoid—which ope

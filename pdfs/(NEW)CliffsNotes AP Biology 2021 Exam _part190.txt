@@ -1,0 +1,14 @@
+oline and Na+enters the cytoplasm, the voltage inside the neuron
+ 
+becomes more positive. This voltage change, if strong enough, stimulates a
+ 
+voltage-gated Na+channel and, subsequently, a voltage-gated K+channel
+to open. The opening and closing of these voltage-gated ion channels transmits the nerve impulse along the neuron.
+(More details in Chapter 13, “Animal Form and Function.”)
+G Protein-Coupled Receptors
+A G protein-coupled receptor (GPCR) is a transmembrane protein that activates a G protein. The G protein, in
+turn, activates another membrane protein, which, in turn, triggers a cellular response or activates a second
+messenger. The G protein is so named because it has a GTP (or GDP) attached to it. GTP is functionally and
+structurally like ATP, except with a guanine instead of an adenine nitrogen base. In its inactive (or “off”) state, a
+GDP is attached to the G protein. It is activated (or turned “on”) when the GDP is replaced with a GTP.
+GPCRs comprise the largest family of s

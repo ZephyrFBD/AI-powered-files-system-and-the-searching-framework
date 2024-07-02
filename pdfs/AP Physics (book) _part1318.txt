@@ -1,0 +1,38 @@
+a separate low tone (audible if the tones are strong enough).
+t = 0.10 s,
+t = 0.05 s
+t = 0
+f
+B = 60 Hz,
+f
+A = 50 Hz
+SECTION 12–6
+Interference of Sound Waves; Beats
+343
+beat period (0.10 s)
+sum
+t = 0.05 s
+t = 0
+t = 0.10 s
+t = 0.15 s
+t
+t
+fB = 60 Hz
+fA = 50 Hz
+FIGURE 12–18 Beats occur as
+a result of the superposition 
+of two sound waves of 
+slightly different frequency.
+P H Y S I C S  A P P L I E D
+Tuning a piano
+†Beats will be heard even if the amplitudes are not equal, as long as the difference in amplitude is 
+not great.
+Beats. A tuning fork produces a steady 400-Hz tone. When
+this tuning fork is struck and held near a vibrating guitar string, twenty beats 
+are counted in five seconds. What are the possible frequencies produced by the
+guitar string?
+APPROACH For beats to occur, the string must vibrate at a frequency different
+from 400 Hz by whatever the beat frequency is.
+SOLUTION The beat frequency is
+This is the difference of the frequencies of the two waves. Because one wave is
+know

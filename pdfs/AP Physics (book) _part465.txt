@@ -1,0 +1,22 @@
+
+is the radius of its circular path. The time required 
+for one complete orbit is the Moon’s period of 27.3 d. The speed of the Moon 
+in its orbit about the Earth is
+The period T in seconds is
+Therefore,
+We can write this acceleration in terms of
+(the acceleration of
+gravity at the Earth’s surface) as
+NOTE The centripetal acceleration of the Moon,
+is not
+the acceleration of gravity for objects at the Moon’s surface due to the Moon’s
+gravity. Rather, it is the acceleration due to the Earth’s gravity for any object
+(such as the Moon) that is 384,000 km from the Earth. Notice how small this
+acceleration is compared to the acceleration of objects near the Earth’s surface.
+5–2 Dynamics of 
+Uniform Circular Motion
+According to Newton’s second law
+an object that is accelerating 
+must have a net force acting on it. An object moving in a circle, such as a ball on
+the end of a string, must therefore have a force applied to it to keep it moving in
+that circle. That is, a net force is necessary to

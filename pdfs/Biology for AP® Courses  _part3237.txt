@@ -1,0 +1,12 @@
+nnect
+to only 10 percent of the afferent neurons, and each afferent neuron innervates many hair cells. The afferent, bipolar neurons
+that convey auditory information travel from the cochlea to the medulla, through the pons and midbrain in the brainstem,
+finally reaching the primary auditory cortex in the temporal lobe.
+Vestibular Information
+The stimuli associated with the vestibular system are linear acceleration (gravity) and angular acceleration and deceleration.
+Gravity, acceleration, and deceleration are detected by evaluating the inertia on receptive cells in the vestibular system.
+Gravity is detected through head position. Angular acceleration and deceleration are expressed through turning or tilting of
+the head.
+The vestibular system has some similarities with the auditory system. It utilizes hair cells just like the auditory system, but
+it excites them in different ways. There are five vestibular receptor organs in the inner ear: the utricle, the saccule, and three
+semicircula

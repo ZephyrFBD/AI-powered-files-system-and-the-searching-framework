@@ -1,0 +1,21 @@
+that on a roller coaster with a circular vertical loop
+(Fig. 6–51), the difference in your apparent weight at the top
+of the loop and the bottom of the loop is 6.0 times your
+weight. Ignore friction. Show also that as long as your speed
+is above the minimum needed (so the car holds the track), this
+answer doesn’t depend on the size of the loop or how fast you
+go through it. [Reread Sections 6–6, 5–2, and 4–6.]
+Search and Learn
+6. Suppose that the track in Fig. 6–51 is not frictionless and
+the values of h and R are given. (See Sections 6–9 and 6–1.)
+(a) If you measure the velocity of the roller coaster at the
+top of the hill (of height h) and at the top of the circle (of
+height 2R), can you determine the work done by friction
+during the time the roller coaster moves between those two
+points? Why or why not? (b) Can you determine the aver-
+age force of friction between those two points? Why or why
+not? If not, what additional information do you need?
+A: (c).
+B: (a) Less, because 
+;
+(b) 

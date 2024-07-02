@@ -1,0 +1,76 @@
+or the x and y components,
+Eqs. 7–8a and b, and we solve for 
+and 
+We are given  
+so
+(for x)
+and
+(for y)
+The m’s cancel out in both equations (the masses are equal). The second equation
+yields [recall from trigonometry that
+]:
+So they do have equal speeds as we guessed at first. The x component equation
+gives [recall that  
+]:
+solving for 
+(which also equals 
+) gives
+vA
+œ
+=
+vA
+2 cos(45°)
+=
+3.0 ms
+2(0.707) = 2.1 ms.
+vB
+œ
+vA
+œ
+vA = vA
+œ cos(45°) + vB
+œ cos(45°) = 2vA
+œ cos(45°);
+cos(–u) = cos u
+vB
+œ
+=
+–vA
+œ
+sin(45°)
+sin(–45°) =
+–vA
+œ a sin 45°
+–sin 45° b
+= vA
+œ .
+sin(–u) = –sin u
+ 
+0 = mvA
+œ sin(45°) + mvB
+œ sin(–45°).
+mvA = mvA
+œ cos(45°) + mvB
+œ cos(–45°)
+mA = mB A= mB,
+vB
+œ .
+vA
+œ
+vB
+œ .
+vA
+œ
+uB
+œ = –45°
+uA
+œ = 45°
+±x
+vA = 3.0 ms
+EXAMPLE 7;11
+If we know that a collision is elastic, we can also apply conservation of
+kinetic energy and obtain a third equation in addition to Eqs. 7–8a and b:
+or, for the collision shown in Fig. 7–18 or 7–19 (where
+),
+[elastic collision] (7;8c)
+If the c

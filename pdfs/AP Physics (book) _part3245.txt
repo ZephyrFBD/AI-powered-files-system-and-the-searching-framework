@@ -1,0 +1,18 @@
+molecules “translate” the genetic code of nucleotide bases into amino acids in 
+the following way. There is a different t-RNA molecule for each amino acid and
+each combination of three bases. On one end of a t-RNA molecule is an amino
+acid. On the other end of the t-RNA molecule is the appropriate “anticodon,”
+a set of three nucleotide bases that “code” for that amino acid. If all three 
+bases of an anticodon match the three bases of the “codon” on the m-RNA (in
+the sense of G to C and A to U), the anticodon is attracted electrostatically 
+to the m-RNA codon and that t-RNA molecule is held there briefly. The
+*
+P H Y S I C S  A P P L I E D
+Protein synthesis
+FIGURE 29–13 Protein synthesis.
+The yellow rectangles represent
+amino acids. See text for details.
+ribosome has two particular attachment sites which hold two t-RNA molecules
+while enzymes bond the two amino acids together to lengthen the amino acid
+chain (yellow in Fig. 29–13). As each amino acid is connected by an enzyme 
+(four are

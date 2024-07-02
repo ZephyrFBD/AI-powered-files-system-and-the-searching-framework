@@ -1,0 +1,14 @@
+ reaction depends on the rate of step 1, and the rate law of the overall 
+reaction equals the rate law of step 1. Step 1 is a bimolecular process that has the rate law
+ 
+Rate = k13NO242 
+Thus, the rate law predicted by this mechanism agrees with the one observed experimen-
+tally. The reactant CO is absent from the rate law because it reacts in a step that follows 
+the rate-determining step.
+A scientist would not, at this point, say that we have “proved” that this mechanism 
+is correct. All we can say is that the rate law predicted by the mechanism is consistent with 
+experiment. We can often envision a different sequence of steps that leads to the same rate 
+law. If, however, the predicted rate law of the proposed mechanism disagrees with exper-
+iment, we know for certain that the mechanism cannot be correct.
+*Note the rate constants k1 and k2 written above the reaction arrows. The subscript on each rate 
+constant identifies the elementary step involved. Thus, k1 is the rate constant f

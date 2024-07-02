@@ -1,0 +1,33 @@
+formulas, because 
+is not close to the speed of
+light c. And 
+will be even less because 
+Thus we can write the 
+of the lithium, using the momentum equation just above, as
+We put in numbers,
+changing the mass in u to kg and recall that
+(b) We are given the data
+in Eq. 31–2b, so 
+where
+Hence,
+Will the reaction “go”? Can the reaction
+occur when 
+is bombarded by 2.0-MeV protons?
+APPROACH The reaction will “go” if the reaction is exothermic 
+and
+even if 
+if the input momentum and kinetic energy are sufficient. First 
+we calculate Q from the difference between final and initial masses using
+Eq. 31–2a, and look up the masses in Appendix B.
+SOLUTION The total masses before and after the reaction are:
+Before 
+After
+(We must use the mass of the 
+atom rather than that of the bare proton because
+the masses of 
+and 
+include the electrons, and we must include an equal
+number of electron masses on each side of the equation.) The products have an
+excess mass of
+Thus
+and the reaction is endothermic. Th

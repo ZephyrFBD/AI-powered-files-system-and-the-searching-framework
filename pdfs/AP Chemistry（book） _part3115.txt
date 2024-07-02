@@ -1,0 +1,20 @@
+ospheric pressure. (a) Is the 
+detonation a reversible process? (b) What is the sign of q 
+for this process? (c) Is w positive, negative, or zero for the 
+process?
+Entropy and the Second Law of 
+Thermodynamics (Section 19.2)
+ 19.21  Indicate whether each statement is true or false. (a) ∆S 
+is a state function. (b) If a system undergoes a reversible 
+change, the entropy of the universe increases. (c) If a sys-
+tem undergoes a reversible process, the change in entropy 
+of the system is exactly matched by an equal and opposite 
+change in the entropy of the surroundings. (d) If a system 
+undergoes a reversible process, the entropy change of the 
+system must be zero.
+ 19.22  Indicate whether each statement is true or false. (a) The 
+entropy of the universe increases for any spontaneous 
+process. (b) The entropy change of the system is equal 
+and opposite that of the surroundings for any irrevers-
+ible process. (c) The entropy of the system must increase 
+in any spontaneous process. (d) The 

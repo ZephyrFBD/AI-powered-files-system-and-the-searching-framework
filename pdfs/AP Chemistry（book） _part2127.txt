@@ -1,0 +1,30 @@
+.61, 13.62, 13.69, 13.70
+t Calculate the vapor pressure of a solvent over a solution. (Sec-
+tion 13.5) Related Exercises: 13.63, 13.66
+t Calculate the boiling-point elevation and freezing-point depres-
+sion of a solution. (Section 13.5) Related Exercises: 13.73, 13.74
+t Calculate the osmotic pressure of a solution. (Section 13.5) 
+Related Exercises: 13.77, 13.78
+t Use colligative properties of solutions to calculate molar masses 
+of solutes. (Section 13.5) Related Exercises: 13.79, 13.81
+t Explain the difference between a solution and a colloid. (Sec-
+tion 13.6) Related Exercises: 13.85, 13.86
+t Explain how hydrophilic and hydrophobic colloids can be stabi-
+lized in water. (Section 13.6) Related Exercises: 13.87, 13.90
+558 
+CHAPTER 13 Properties of Solutions
+Key Equations
+t Sg = kP
+g 
+ 
+[13.4]  
+ 
+Henry’s law, which relates gas solubility to partial 
+pressure
+t  
+Mass % of component =
+mass of component in soln
+total mass of soln
+* 100 
+[13.5]  
+Concentration in terms of mass pe

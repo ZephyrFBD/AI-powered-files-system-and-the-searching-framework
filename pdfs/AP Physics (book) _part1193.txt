@@ -1,0 +1,33 @@
+a water, which is slightly
+more dense than pure water, is (Tables 9–1 and 10–1)
+Then, using Eq. 11–12, we find
+(b) The time required for the round trip between the animal and the object is
+NOTE We shall see later that waves can be used to “resolve” (or detect) objects
+whose size is comparable to or larger than the wavelength. Thus, a dolphin 
+can resolve objects on the order of a centimeter or larger in size.
+t = distance
+speed
+=
+2(100 m)
+1.4 * 103 ms = 0.14 s.
+l =
+v
+f =
+A1.4 * 103 msB
+A1.0 * 105 HzB
+= 14 mm.
+v = B
+B
+r
+= B
+2.0 * 109 Nm2
+1.025 * 103 kgm3
+= 1.4 * 103 ms.
+l = vf.
+EXAMPLE 11;12
+Other Waves
+Both transverse and longitudinal waves are produced when an earthquake occurs.
+The transverse waves that travel through the body of the Earth are called S waves
+(S for shear), and the longitudinal waves are called P waves (P for pressure) or
+compression waves. Both longitudinal and transverse waves can travel through a
+solid since the atoms or molecules can vibrate about their rela

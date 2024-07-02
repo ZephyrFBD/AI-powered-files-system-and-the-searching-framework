@@ -1,0 +1,48 @@
+, Eq. 21–14,
+(b) The rms voltage across each element is
+NOTE These voltages do not add up to the source voltage, 90.0 V (rms). Indeed,
+the rms voltage across the inductance exceeds the source voltage. This can happen
+because the different voltages are out of phase with each other: so, at any instant
+the capacitor’s voltage might be negative which compensates for a large positive
+inductor voltage. The rms voltages, however, are always positive by definition.
+Although the rms voltages need not add up to the source voltage, the instantaneous
+voltages at any time must add up to the source voltage at that instant.
+AV
+CBrms = I
+rms X
+C = (1.25 A)(26.5 ) = 33.1 V.
+AV
+LBrms = I
+rms X
+L = (1.25 A)(94.2 ) = 118 V
+AV
+RBrms = I
+rms R = (1.25 A)(25.0 ) = 31.2 V
+I
+rms = V
+rms
+Z
+= 90.0 V
+72.2  = 1.25 A.
+Z =
+3R2 + AX
+L - X
+CB
+2 = 3(25.0 )2 + (94.2  - 26.5 )2 = 72.2 .
+X
+L = 2pfL = 94.2 ,  X
+C =
+1
+2pfC = 26.5 .
+f = 500 Hz = 500 s–1:
+V
+C = IX
+C.
+V
+R = IR, V
+L = IX
+L,
+I
+rms = V
+rmsZ
+C = 12.0 mF

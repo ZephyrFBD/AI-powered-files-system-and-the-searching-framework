@@ -1,0 +1,21 @@
+als
+The formation of H2O, CO2, and N2 reflects the high thermodynamic stability of these 
+substances, indicated by the large bond energies for the O ¬H, C “O, and N‚N bonds 
+(463, 799, and 941 kJ/mol, respectively). 
+ (Sections 5.8 and 8.8)
+When dealing with proton-transfer reactions, remember that the weaker a Brønsted– 
+Lowry acid, the stronger its conjugate base. 
+ (Section 16.2) For example, 
+H2, OH -, NH3, and CH4 are exceedingly weak proton donors that have no tendency to act 
+as acids in water. Thus, the species formed by removing one or more protons from them 
+are extremely strong bases. All of them react readily with water, removing protons from 
+H2O to form OH -. Two representative reactions are:
+ 
+CH3
+-1aq2 + H2O1l2 ¡  CH41g2 + OH -1aq2 
+[22.2]
+ 
+N3 -1aq2 + 3 H2O1l2 ¡  NH31aq2 + 3 OH -1aq2 
+[22.3]
+*Giving unique names to isotopes is limited to hydrogen. Because of the proportionally large dif-
+ferences in their masses, the isotopes of H show appreciably more differences in t

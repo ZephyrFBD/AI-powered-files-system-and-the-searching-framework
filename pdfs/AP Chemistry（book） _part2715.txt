@@ -1,0 +1,15 @@
+ acid–base titration, a solution containing a known concentration of base is 
+slowly added to an acid (or the acid is added to the base). 
+ (Section 4.6) Acid–base 
+730 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+indicators can be used to signal the equivalence point of a titration (the point at which 
+stoichiometrically equivalent quantities of acid and base have been brought together). 
+Alternatively, a pH meter can be used to monitor the progress of the reaction 
+(Figure 17.6), producing a pH titration curve, a graph of the pH as a function of the 
+volume of titrant added. The shape of the titration curve makes it possible to deter-
+mine the equivalence point. The curve can also be used to select suitable indicators 
+and to determine the Ka of the weak acid or the Kb of the weak base being titrated.
+To understand why titration curves have certain characteristic shapes, we will 
+examine the curves for three kinds of titrations: (1) strong acid–strong base, (2) weak 
+acid–str

@@ -1,0 +1,22 @@
+.45 * 103 M-1 cm-1 at 280 nm, its absorption maximum 
+(A Closer Look, p. 576). Below 50 ppb, the impurity is not 
+a problem for human health. Given that most spectrome-
+ters cannot detect absorbances less than 0.0001 with good 
+reliability, is measuring the absorbance of a water sample at 
+280 nm a good way to detect concentrations of the impu-
+rity above the 50-ppb threshold?
+ 18.82  The concentration of H2O in the stratosphere is about 5 
+ppm. It undergoes photodissociation according to:
+H2O1g2 ¡ H1g2 + OH1g2
+(a) Write out the Lewis-dot structures for both products and 
+reactant.
+(b) Using Table 8.3, calculate the wavelength required to 
+cause this dissociation.
+(c) The hydroxyl radical, OH, can react with ozone, giving 
+the following reactions:
+OH 
+1g2 + O31g2 ¡ HO21g2 + O21g2
+HO21g2 + O1g2 ¡ OH1g2 + O21g2
+What overall reaction results from these two elementary reac-
+tions? What is the catalyst in the overall reaction? Explain.
+ 18.83  Bioremediation is the process by which bacteria

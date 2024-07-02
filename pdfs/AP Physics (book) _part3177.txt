@@ -1,0 +1,14 @@
+ght source, on the other hand, emits light in all directions (so the
+intensity decreases rapidly with distance), and the emitted light is incoherent (the
+different parts of the beam are not in phase with each other). The excited atoms that
+emit the light in an ordinary lightbulb act independently, so each photon emitted
+can be considered as a short wave train lasting about 
+Different wave trains
+bear no phase relation to one another. Just the opposite is true of lasers.
+The action of a laser is based on quantum theory. We have seen that a photon
+can be absorbed by an atom if (and only if) the photon energy hf corresponds to
+the energy difference between an occupied energy level of the atom and an avail-
+able excited state, Fig. 28–16a. If the atom is already in the excited state, it may
+jump down spontaneously (i.e., no stimulus) to the lower state with the emission
+of a photon. However, if a photon with this same energy strikes the excited 
+atom, it can stimulate the atom to make the 

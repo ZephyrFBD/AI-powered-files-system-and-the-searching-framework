@@ -1,0 +1,14 @@
+rgonic metabolic reactions.
+ 
+Figure 4-2
+In order for life to persist, living things require a constant input of free energy. That energy is used to maintain order
+in opposition to the entropy that increases as a result of chemical reactions. Without an input of free energy, entropy
+increases, cells deteriorate, and death follows. Photosynthesis, the process of incorporating energy from sunlight
+into carbohydrates, and respiration, the process of extracting energy from those carbohydrates, provide the free
+energy that allows cells to maintain order, minimize entropy, and remain alive.
+Generating ATP
+Phosphorylation is the process of adding energy and an inorganic phosphate to ADP to make ATP:
+ 
+energy + Pi + ADP → ATP There are two basic mechanisms of phosphorylation in cells:
+1. Substrate level phosphorylation occurs when a phosphate group and its associated energy are transferred to
+ADP to form ATP. The substrate molecule (a molecule with the phosphate group) donates the high energy

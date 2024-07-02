@@ -1,0 +1,18 @@
+Experimentally, the S ¬ S ¬S angle in S8 is 108°, in good agree-
+ment with this prediction. Interestingly, if S8 were a planar 
+ring, it would have S ¬ S ¬S angles of 135°. Instead, the S8 ring 
+puckers to accommodate the smaller angles dictated by sp3 
+hybridization.
+(c) The MOs of S2 are analogous to those of O2, although the MOs 
+for S2 are constructed from the 3s and 3p atomic orbitals of 
+sulfur. Further, S2 has the same number of valence electrons 
+as O2. Thus, by analogy with O2, we expect S2 to have a bond 
+order of 2 (a double bond) and to be paramagnetic with two 
+unpaired electrons in the p*
+3p molecular orbitals of S2.
+(d) We are considering the reaction in which an S8 molecule falls 
+apart into four S2 molecules. From parts (b) and (c), we see 
+that S8 has S ¬ S single bonds and S2 has S “ S double bonds. 
+During the reaction, therefore, we are breaking eight S ¬ S 
+single bonds and forming four S “ S double bonds. We can 
+estimate the enthalpy of the reaction by using Equ

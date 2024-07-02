@@ -1,0 +1,25 @@
+s 
+undergoing nuclear changes with emission of radiation. 
+(Section 21.1)
+radionuclide A radioactive nuclide. (Section 21.1)
+radiotracer A radioisotope that can be used to trace the path of 
+an element in a chemical system. (Section 21.5)
+Raoult’s law A law stating that the partial pressure exerted by 
+solvent vapor above the solution, P
+solution, equals the product of 
+the mole fraction of the solvent, Xsolvent, and the vapor pressure 
+of the pure solvent, P°
+solvent. P
+solution = XsolventP°
+solvent. (Section 13.5)
+rare earth element See lanthanide (rare earth) element. 
+(Sections 6.8 and 6.9)
+rate constant A constant of proportionality between the 
+reaction rate and the concentrations of reactants that appear in 
+the rate law. (Section 14.3)
+rate-determining step The slowest elementary step in a reaction 
+mechanism. (Section 14.6)
+rate law An equation that relates the reaction rate to the 
+concentrations of reactants (and sometimes of products also). 
+(Section 14.3)
+reactant A starti

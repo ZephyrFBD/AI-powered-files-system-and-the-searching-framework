@@ -1,0 +1,39 @@
+lustrate this with a thought experiment.
+756
+CHAPTER 26
+The Special Theory of Relativity
+LENGTH CONTRACTION
+C A U T I O N
+Proper length is measured 
+in reference frame where the
+two positions are at rest
+Earth at rest
+Spacecraft at rest
+v
+Earth
+(b)
+Neptune
+Neptune
+(a)
+Earth
+v
+v
+FIGURE 26–8 (a) A spaceship traveling
+at very high speed from Earth to the
+planet Neptune, as seen from Earth’s
+frame of reference. (b) According to an
+observer on the spaceship, Earth and
+Neptune are moving at the very high
+speed v: Earth leaves the spaceship, and
+a time 
+later Neptune arrives at the
+spaceship.
+¢t0
+v
+†We assume v is much greater than the relative speed of Neptune and Earth (which we thus ignore).
+Observers on Earth watch a spacecraft traveling at speed v from Earth to,
+say, Neptune, Fig. 26–8a. The distance between the planets, as measured by the
+Earth observers, is 
+The time required for the trip, measured from Earth, is
+[Earth observer]
+In Fig. 26–8b we see the point of view of observers on t

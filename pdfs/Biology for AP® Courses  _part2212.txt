@@ -1,0 +1,57 @@
+have values
+that are closest to ___.
+a.
+0.69 and 0.31
+b.
+0.31 and 0.69
+c.
+0.37 and 0.63
+d.
+0.63 and 0.37
+Genotype
+C1
+C1
+C2
+C2
+C3
+C3
+C1
+C2
+C1
+C3
+C2
+C3
+Total
+Observed
+120
+230
+112
+175
+198
+165
+1,000
+Table 19.3
+C. The calculated number of individuals in this population
+that are heterozygotes is closest to ___.
+802
+Chapter 19 | The Evolution of Populations
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+a.
+240
+b.
+230
+c.
+430
+d.
+476
+Mountain pine beetles (Dendroctonus ponderosae) were
+collected from a one-acre tract of lodge pole pine trees
+(Pinus contorta) in a region of British Columbia where the
+forests are under temperature stress. The beetles were
+crushed, and a cellulase enzyme was extracted. Three
+polymorphs of the enzyme were observed when separated
+by gel electrophoresis. The three proteins observed
+correspond to alleles labeled C1, C2, and C3. The numbers
+of beetles with each allele are shown in the following
+table.
+D. The calculated allelic frequencie

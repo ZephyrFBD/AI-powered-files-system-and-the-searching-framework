@@ -1,0 +1,39 @@
+ lines, what is the magnetic flux
+through the loop? (b) The plane of the loop is rotated until
+it makes a 42° angle with the field lines. What is the angle 
+in Eq. 21–1 for this situation? (c) What is the magnetic flux
+through the loop at this angle?
+8. (II) (a) If the resistance of the resistor in Fig. 21–60 is slowly
+increased, what is the direction
+of the current induced in the
+small circular loop inside the
+larger loop? (b) What would
+it be if the small loop were
+placed outside the larger one,
+to the left?
+Explain your
+answers.
+u
+620
+CHAPTER 21
+I constant
+I decreasing
+(d)
+(c)
+I decreasing
+(b)
+(a)
+I increasing
+FIGURE 21–61 Problem 11.
+4. (I) If the solenoid in Fig. 21–59 is being pulled away from
+the loop shown, in
+what direction is the
+induced current in
+the loop? Explain.
+I
+FIGURE 21–60
+Problem 8.
+10. (II) A circular loop in the plane of the paper lies in a
+0.65-T magnetic field pointing into the paper. The loop’s
+diameter changes from 20.0 cm to 6.0 cm in 0.50 s. What is
+(a) the 

@@ -1,0 +1,11 @@
+plasmid fragments.
+4. Apply DNA ligase to stabilize attachments. Some of the plasmids, by chance, are now recombinant plasmids
+containing the foreign gene. Other plasmids will not contain the foreign gene.
+5. Mix plasmids with bacteria to allow transformation. Some of the bacteria will absorb the plasmids
+(transformation). Some bacteria will absorb recombinant plasmids. Others will absorb nonrecombinant plasmids.
+6. Grow the transformed bacteria in the presence of ampicillin and X-gal. Only bacteria that have absorbed a
+plasmid (transformed bacteria) will grow in the presence of ampicillin because only the
+introduced plasmids contain the ampR gene. Of those bacteria, only bacteria that have absorbed a recombinant
+plasmid will be white because they lack a functioning lac Z gene. For these bacteria, the foreign DNA was inserted
+within the lac Z gene of the plasmid, making the gene dysfunctional. Bacteria that absorbed a non recombinant
+plasmid have a functioning lac Z gene and turn X-gal

@@ -1,0 +1,23 @@
+ying the initial volume by a ratio of pressures 
+and a ratio of temperatures. Intuitively, we expect decreasing 
+pressure to cause the volume to increase, while decreasing the 
+temperature should have the opposite effect. Because the change 
+in pressure is more dramatic than the change in temperature, we 
+expect the effect of the pressure change to predominate in deter-
+mining the final volume, as it does.
+ 
+▶Practice Exercise 1
+A gas occupies a volume of 0.75 L at 20 °C at 720 torr. What 
+volume would the gas occupy at 41 °C and 760 torr?  
+(a) 1.45 L (b) 0.85 L (c) 0.76 L (d) 0.66 L (e) 0.35 L
+ 
+▶Practice Exercise 2
+A 0.50-mol sample of oxygen gas is confined at 0 °C and  
+1.0 atm in a cylinder with a movable piston. The piston 
+compresses the gas so that the final volume is half the initial 
+volume and the final pressure is 2.2 atm. What is the final 
+temperature of the gas in degrees Celsius?
+408 
+CHAPTER 10 Gases
+SOLUTION
+Analyze We are asked to calculate the density of a gas give

@@ -1,0 +1,23 @@
+ble quantities, it is desirable to have a sim-
+ple method for estimating it. The value of Z in Equation 
+7.1 is known exactly, so the challenge boils down to es-
+timating the value of S. In the text, we  
+estimated S very 
+simply by assuming that each core  
+electron contributes 
+1.00 to S and the outer electrons contribute nothing. A 
+more accurate approach was  
+developed by John Slater 
+(1900–1976), however, and we can use his  
+approach if 
+we limit ourselves to elements that do not have elec-
+trons in d or f subshells.
+Electrons for which the principal quantum 
+number n is larger than the value of n for the electron 
+of interest contribute 0 to the value of S. Electrons 
+with the same value of n as the electron of interest 
+contribute 0.35 to the value of S. Electrons that have 
+principal quantum number n - 1 contribute 0.85, 
+while those with even smaller values of n contribute 
+1.00. For example, consider ﬂuorine, which has the 
+ground-state electron conﬁguration 1s22s22p5. For 

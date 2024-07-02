@@ -1,0 +1,121 @@
+ force direction from signs of charges
+l
+Q2 = 1 mC
+Q1 = 50 mC
+FIGURE 16–17 Example 16–2.
+
+
+Q2
+Q1
+r
+Proton
+Electron
+F
+B
+FIGURE 16–16 Example 16–1.
+†Our convention for units, such as 
+for 
+means 
+is in the denominator. That is,
+means 
+and does not mean AC2NBm2 = C2m2N.
+C2(Nm2)
+C2Nm2
+m2
+0,
+C2Nm2
+450
+CHAPTER 16
+Electric Charge and Electric Field
+1
+2
+(a) Two forces acting on an object.
+1
+F2
+=   1 +   2
+(b) The total, or net, force is
+by the tail-to-tip
+method of adding vectors.
+1
+2
+(c)
+=   1 +   2 by the
+      parallelogram method.
+2)
+1 +
+(=
+2
+1x
++x
+−x
++y
+−y
+2y
+2x
+θ2
+θ1
+(d)
+    1 and
+2 resolved into their
+      x and y components.
+1y
+F
+B
+F
+B
+F
+B
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+2)
+1 +
+(=
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+1
+F
+B
+F
+B
+F
+B
+F
+B
+FIGURE 16–18 Review of vector
+addition.
+Keep in mind that Coulomb’s law, Eq. 16–1 or 16–2, gives the force on a
+charge due to only one other charge. If several (or many) charges are present, the
+net force on any one of them will be the 

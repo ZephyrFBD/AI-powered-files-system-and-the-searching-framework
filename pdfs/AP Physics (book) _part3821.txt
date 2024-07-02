@@ -1,0 +1,22 @@
+ 1, the second term is
+and the third term is 
+and so on. Thus, when x is small, we can ignore all
+but the first two (or three) terms and can write
+(A;6)
+This approximation often allows us to solve an equation easily that otherwise
+might be very difficult. Some examples of the binomial expansion are
+where
+As a numerical example, let us evaluate 
+using the binomial expan-
+sion since
+is much smaller than 1:
+You can check with a calculator (and maybe not even more quickly) that
+A–6 Plane Geometry
+We review here a number of theorems involving angles and triangles that are
+useful in physics.
+1. Equal angles. Two angles are equal if any of the following conditions are true:
+(a) They are vertical angles (Fig.A–1); or
+(b) the left side of one is parallel to the left side of the other, and the right
+side of one is parallel to the right side of the other (Fig.A–2; the left and
+right sides are as seen from the vertex, where the two sides meet); or
+(c) the left side of one is perpendicular to the l

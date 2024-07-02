@@ -1,0 +1,34 @@
+l conditions a certain bacteria population doubles every three hours. Initially 
+there are 1000 bacteria in a colony. 
+(a) Find a model for the bacteria population after t hours. 
+(b) How many bacteria are in the colony after 15 hours? 
+(c) After how many hours will the bacteria count reach 100,000? 
+ 
+ 
+ 
+ 
+ 
+ 
+100 
+2.10.3 Exponential Growth (Relative Growth Rate)  
+We have used an exponential function with base 2 to model population growth (in terms of 
+the doubling time). 
+In fact, we can find an exponential model with any base. If we use the base e, we get a 
+population model in terms of the relative growth rate r: the rate of population growth 
+expressed as a proportion of the population at any time. 
+A population that experiences exponential growth increases according to the model 
+0
+( )
+rt
+n t
+n e
+=
+ 
+where n(t) = population at time t 
+             n0 = initial size of the population 
+               r = relative rate of growth  
+               t = time 
+ 
+Example 2 
+ 
+The initia

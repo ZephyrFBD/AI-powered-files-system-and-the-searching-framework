@@ -1,0 +1,44 @@
+ it over the “hump” (or barrier) in
+the potential-energy diagram. This required energy is called the activation energy.
+r0
+r0 = 0.074 nm.
+H2
+pe = 0.
+H2
+r0
+r0
+*SECTION 29–2
+Potential-Energy Diagrams for Molecules
+833
+†The binding energy corresponds not quite to the bottom of the potential-energy curve, but to the
+lowest quantum energy state, slightly above the bottom, as shown in Fig. 29–8.
+Binding
+energy
+r
+0
+Repulsion
+pe
+r0
+Activation
+energy
+Attraction
+Repulsion
+FIGURE 29–9 Potential-energy
+diagram for a bond requiring an
+activation energy.
+r
+r0
+ATP
+ADP +  P
+pe
+FIGURE 29–10 Potential-energy
+diagram for the formation of ATP
+from ADP and phosphate (¬).
+The curve of Fig. 29–9 is much more common than that of Fig. 29–8. The acti-
+vation energy often reflects a need to break other bonds, before the one under
+discussion can be made. For example, to make water from 
+and 
+the 
+and
+molecules must first be broken into H and O atoms by an input of energy; this
+is what the activation energy repres

@@ -1,0 +1,22 @@
+
+Catalase is an enzyme that breaks down hydrogen peroxide (H2O2) as shown in the following reaction:
+A student isolates catalase from potato tissue and places it on ice. The student uses a hole punch to make equally
+sized paper disks, saturates each disk in the catalase solution, and then places them in beakers with different
+concentrations of H2O2. As the enzyme-catalyzed reaction proceeds, oxygen bubbles are produced and they cling to
+the paper disks, which then float to the surface. The time required for the catalase-saturated filter paper to float is
+recorded. The experiment is repeated five times for each concentration of catalase. The data are shown in the table.
+Concentration of H2O2(l)
+Mean Time (sec) ±1 SEM*
+1%
+100 ± 7.0
+3%
+75 ± 5.2
+6%
+45 ± 4.3
+9%
+30 ± 3.9
+*Standard Error of the Mean
+13. Which of the following would be a valid control for the experiment?
+(A) changing the size of the paper disk
+(B) saturating the paper disk in distilled water
+(C) reducing the temperature of the

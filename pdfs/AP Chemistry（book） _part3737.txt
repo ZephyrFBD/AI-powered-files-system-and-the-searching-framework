@@ -1,0 +1,13 @@
+ral and Square-Planar Complexes
+Thus far we have considered crystal-field theory only for complexes having an octahe-
+dral geometry. When there are only four ligands in a complex, the geometry is gener-
+ally tetrahedral, except for the special case of d8 metal ions, which we will discuss in a 
+moment.
+The crystal-field splitting of d orbitals in tetrahedral complexes differs from that 
+in octahedral complexes. Four equivalent ligands can interact with a central metal ion 
+most effectively by approaching along the vertices of a tetrahedron. In this geometry 
+the lobes of the two e orbitals point toward the edges of the tetrahedron, exactly in 
+between the ligands (Figure 23.33). This orientation keeps the dx2 - y2 and dz2 as far from 
+the ligand point charges as possible. Consequently, these two d orbitals experience less 
+repulsion from the ligands and lie at lower energy than the other three d orbitals. The 
+three t2 orbitals do not point directly at the ligand point charges, but they

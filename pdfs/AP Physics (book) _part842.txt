@@ -1,0 +1,23 @@
+on, then its linear velocity is 
+The total kinetic energy of the whole
+object will be the sum of the kinetic energies of all its particles:
+We have factored out the and the 
+since they are the same for every particle 
+of a rigid object. Since
+the moment of inertia, we see that the kinetic
+energy of a rigid rotating object is
+(8;15)
+The units are joules, as with all other forms of energy.
+An object that rotates while its center of mass (CM) undergoes translational
+motion will have both translational and rotational kinetic energy. Equation 8–15
+gives the rotational kinetic energy if the rotation axis is fixed. If the object is
+moving, such as a wheel rolling down a hill, this equation is still valid as long as
+the rotation axis is fixed in direction. Then the total kinetic energy is
+(8;16)
+where 
+is the linear velocity of the center of mass,
+is the moment of inertia
+about an axis through the center of mass,
+is the angular velocity about this axis,
+and M is the total mass of the object.
+S

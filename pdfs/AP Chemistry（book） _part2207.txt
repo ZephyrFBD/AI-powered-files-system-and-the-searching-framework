@@ -1,0 +1,33 @@
+he reaction, (b) the rate constant, (c) the rate of the reaction when 
+3A4 = 0.050M and 3B4 = 0.100 M.
+Solve
+(a) If we compare experiments 1 and 2, we see that [A] is held 
+constant and [B] is doubled. Thus, this pair of experiments 
+shows how [B] affects the rate, allowing us to deduce the order 
+of the rate law with respect to B.
+Analyze We are given a table of data that relates concentrations of 
+reactants with initial rates of reaction and asked to determine  
+(a) the rate law, (b) the rate constant, and (c) the rate of reaction 
+for a set of concentrations not listed in the table.
+Rate 1
+Rate 2 =
+k3A14m3B14n
+k3A24m3B24n
+Rate 1
+Rate 3 =
+k3A14m3B14n
+k3A34m3B34n
+ 
+4.0 * 10-5 M>s
+4.0 * 10-5 M>s
+=
+k30.100 M4m30.100 M4n
+k30.100 M4m30.200 M4n
+ 
+1 = 11>22n
+SOLUTION
+Sample Exercise 14.6
+ Determining a Rate Law from Initial Rate Data
+Plan (a) We assume that the rate law has the following form: 
+Rate = k3A4m3B4n. We will use the given data to deduce the reac-
+tion orders m and n by determini

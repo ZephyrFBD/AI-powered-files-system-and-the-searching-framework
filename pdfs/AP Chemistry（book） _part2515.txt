@@ -1,0 +1,23 @@
+ not occur in aqueous solution. In the reaction 
+between gas phase HCl and NH3, for example, a proton is transferred from the acid HCl 
+to the base NH3:
+ 
+ 
+[16.4]
+The hazy film that forms on the windows of general chemistry laboratories and on glass-
+ware in the laboratory (Figure 16.3) is largely solid NH4Cl formed by the gas-phase reac-
+tion between HCl and NH3.
+Let’s consider another example that compares the relationship between the Arrhe-
+nius and Brønsted–Lowry definitions of acids and bases—an aqueous solution of ammo-
+nia, in which we have the equilibrium:
+ 
+NH31aq2 + H2O1l2 ∆ NH4
++
+  1aq2 + OH -1aq2 
+[16.5]
+Ammonia is a Brønsted–Lowry base because it accepts a proton from H2O. Ammonia is 
+also an Arrhenius base because adding it to water leads to an increase in the concentra-
+tion of OH -1aq2.
+The transfer of a proton always involves both an acid (donor) and a base (acceptor).
+In other words, a substance can function as an acid only if another substance simulta-
+neously behav

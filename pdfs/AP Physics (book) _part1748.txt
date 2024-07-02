@@ -1,0 +1,81 @@
+CB
+(0.50 m)2
+= 1.2 N,
+F
+31 = k Q3 Q1
+r31
+2
+F
+B = F
+B
+31 + F
+B
+32 .
+F
+B
+32
+F
+B
+31
+–4.0 mC
+EXAMPLE 16;3
+C A U T I O N
+Each charge exerts its own force.
+No charge blocks the effect of 
+the others
+
+
+
+
+0.30 m
+0.20 m
+32
+  Q1 =
+−8.0    C
+  Q2 =
++3.0    C
+  Q3 =
+−4.0    C
+(a)
+Q3
+31
+(b)
+x
+y
+x
+m
+m
+m
+B
+B
+F
+B
+F
+B
+FIGURE 16–19 Example 16–3.
+EXERCISE C Determine the magnitude and direction of the net force on charge 
+in
+Fig. 16–19a.
+Q2
+452
+CHAPTER 16
+Electric Charge and Electric Field
+Electric force using vector components. Calculate the
+net electrostatic force on charge 
+shown in Fig. 16–20a due to the charges 
+and
+APPROACH We use Coulomb’s law to find the magnitudes of the individual
+forces. The direction of each force will be along the line connecting 
+to 
+or 
+The forces 
+and 
+have the directions shown in Fig. 16–20a, since 
+exerts an attractive force on 
+and 
+exerts a repulsive force. The forces 
+and 
+are not along the same line, so to find the resultant force on 
+we resolve
+and 
+into x and 

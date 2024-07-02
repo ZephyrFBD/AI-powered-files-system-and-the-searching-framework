@@ -1,0 +1,15 @@
+d
+drives, tape, flash and external devices are more permanent storage, and they are
+much slower to access because the data must be searched for, sequentially, such
+as along the circular tracks of hard drives (Fig. 21–27a). Programs, applications,
+and data that you want to use are imported by the computer into the RAM from
+their more permanent (and more slowly accessed) storage area.†
+RAM is based on semiconductor technology, storing the binary bits (“0”or “1”)
+as electric charge or voltage. Some computers may use semiconductors also for
+long-term storage (“flash memory”) in place of a hard drive.
+A common type of RAM is dynamic random access memory or DRAM, which
+uses arrays of transistors known as MOSFETs (metal-oxide semiconductor 
+field-effect transistors). Transistors will be discussed in Section 29–10, but we
+already encountered them in Section 17–11 about TV screen addressing, Fig. 17–34,
+which we show again here, Fig. 21–28. A MOSFET transistor in RAM serves
+basically as an on–o

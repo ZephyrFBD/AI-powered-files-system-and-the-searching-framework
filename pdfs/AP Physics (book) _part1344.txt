@@ -1,0 +1,25 @@
+cy (higher than 20 kHz) sound waves are used
+in many applications, including sonar and medical imaging.]
+1,  3,  5,  7, p
+l1 = 4l.
+1,  2,  3,  4, p
+l1 = 2l.
+Summary
+15. Is there a Doppler shift if the source and observer move in
+the same direction, with the same velocity? Explain.
+16. If a wind is blowing, will this alter the frequency of the
+sound heard by a person at rest with respect to the source?
+Is the wavelength or velocity changed?
+17. Figure 12–32 shows various positions of a child on a swing
+moving toward a person on the ground who is blowing a
+whistle. At which position, A through E, will the child hear
+the highest frequency for the sound of the whistle? Explain
+your reasoning.
+352
+CHAPTER 12
+Sound
+1. What is the evidence that sound travels as a wave?
+2. What is the evidence that sound is a form of energy?
+3. Children sometimes play with a homemade “telephone” by
+attaching a string to the bottoms of two paper cups. When
+the string is stretched and a child speaks into one cup

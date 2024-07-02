@@ -1,0 +1,20 @@
+2) is carried downward by the heavier, but colorless, 
+CO2 (Figure 10.10).
+When we have equal molar masses of two gases at the same pressure but different 
+temperatures, the hotter gas is less dense than the cooler one, so the hotter gas rises. The 
+difference between the densities of hot and cold air is responsible for the lift of hot-air 
+balloons. It is also responsible for many phenomena in weather, such as the formation of 
+large thunderheads during thunderstorms.
+▲ Figure 10.10 Carbon dioxide gas flows 
+downward because it is denser than air.
+Give It Some Thought
+Is water vapor more or less dense than N2 under the same conditions  
+of temperature and pressure?
+Equation 10.10 can be rearranged to solve for the molar mass of a gas:
+ 
+ℳ= dRT
+P  
+[10.11]
+Thus, we can use the experimentally measured density of a gas to determine the molar 
+mass of the gas molecules, as shown in Sample Exercise 10.8.
+A large evacuated flask initially has a mass of 134.567 g. When the flask is filled wi

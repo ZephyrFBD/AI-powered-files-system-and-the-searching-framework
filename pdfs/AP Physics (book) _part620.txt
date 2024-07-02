@@ -1,0 +1,30 @@
+
+Problem Solving Using Conservation of Mechanical Energy
+153
+FIGURE 6–20 Transformation of
+energy during a pole vault:
+ke S peel S peG.
+FIGURE 6–21 By bending her body,
+a pole vaulter can keep her center of
+mass so low that it may even pass
+below the bar.
+pe
+pe
+ke
+pe ke
+Paul
+Corinne
+h
+ke
+FIGURE 6–19 Example 6–9.
+Speeds on two water slides. Two water
+slides at a pool are shaped differently, but start at the same height h (Fig. 6–19).
+Two riders start from rest at the same time on different slides. (a) Which rider, Paul
+or Corinne, is traveling faster at the bottom? (b) Which rider makes it to the
+bottom first? Ignore friction and assume both slides have the same path length.
+RESPONSE (a) Each rider’s initial potential energy mgh gets transformed to
+kinetic energy, so the speed v at the bottom is obtained from  
+The
+mass cancels and so the speed will be the same, regardless of the mass of the rider.
+Since they descend the same vertical height, they will finish with the same speed.
+(b) No

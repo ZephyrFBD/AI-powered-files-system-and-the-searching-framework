@@ -1,0 +1,11 @@
+eases (also known as restriction enzymes), and these pieces of DNA can be recombined and
+connected with DNA ligases. Some recombinant plasmids may contain the selectable marker as well as a gene that
+codes for a desired protein product. Bacteria that take in the recombinant plasmid would be capable of producing the
+product that is coded for by the gene on the plasmid. Many pharmaceutical products (such as insulin) are now
+produced in large amounts by bacteria that contain recombinant plasmids. Before the advent of biotechnology, the
+insulin needed for patients with diabetes had to be isolated from the pancreas of animals, which was an expensive
+process and had the potential of transmitting diseases from other organisms. Now, recombinant insulin made by
+transformed bacteria is safer and less expensive than insulin was 50 years ago.
+Gel Electrophoresis
+Gel electrophoresis is a technique that is used to separate DNA fragments by size and by charge. DNA fragments
+can be created by treating

@@ -1,0 +1,22 @@
+3RT>ℳ2
+= A
+ℳ2
+ℳ1
+ 
+[10.23]
+As expected from Graham’s law, helium escapes from containers through tiny pinhole 
+leaks more rapidly than other gases of higher molecular weight (Figure 10.15).
+Diffusion and Mean Free Path
+Although diffusion, like effusion, is faster for lower-mass molecules than for higher-mass 
+ones, molecular collisions make diffusion more complicated than effusion.
+Graham’s law, Equation 10.22, approximates the ratio of the diffusion rates of two 
+gases under identical conditions. We can see from the horizontal axis in Figure 10.13 that 
+the speeds of molecules are quite high. For example, the rms speed of molecules of N2 
+gas at room temperature is 515 m/s. In spite of this high speed, if someone opens a vial 
+of perfume at one end of a room, some time elapses—perhaps a few minutes—before the 
+scent is detected at the other end of the room. This tells us that the diffusion rate of gases 
+418 
+CHAPTER 10 Gases
+$oth Iases eƛuse 
+throuIh Rores KP DallooP 
+Dut lKIhter he

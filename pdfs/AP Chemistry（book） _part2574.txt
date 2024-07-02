@@ -1,0 +1,51 @@
+Exercise 2
+(a) Calculate the pH of a 0.020 M solution of oxalic acid 
+1H2C2O42. (See Table 16.3 for Ka1 and Ka2.)
+(b) Calculate the concentration of oxalate ion, 3C2O4
+2-4, in this 
+solution.
+H2CO31aq2 ∆ H +1aq2  +   HCO3
+-1aq2
+Initial  
+concentration (M)
+0.0037
+0
+0
+Change in  
+concentration (M)
+-x
++x
++x
+Equilibrium  
+concentration (M)
+10.0037 - x2
+x
+x
+x = 4.0 * 10-5 M
+Ka1 =
+3H +43HCO3
+-4
+3H2CO34
+=
+1x21x2
+0.0037 - x = 4.3 * 10-7
+The equilibrium-constant expression is:
+Solving this quadratic equation, we get:
+Alternatively, because Ka1 is small, we can 
+make the simplifying approximation that x 
+is small, so that:
+0.0037 - x ≃0.0037
+Thus,
+1x21x2
+0.0037 = 4.3 * 10-7
+Solving for x, we have:
+ x2 = 10.0037214.3 * 10-72 = 1.6 * 10-9
+ x = 3H +4 = 3HCO3
+-4 = 21.6 * 10-9 = 4.0 * 10-5 M
+Because we get the same value (to two signifi-
+cant figures) our simplifying assumption was 
+justified. The pH is therefore:
+pH = -log3H+4 = -log14.0 * 10-52 = 4.40
+Comment If we were asked for 3CO3
+2-4 we 
+would

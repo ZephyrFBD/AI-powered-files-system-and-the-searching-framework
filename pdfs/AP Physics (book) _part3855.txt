@@ -1,0 +1,32 @@
+ugh the two atoms
+would give rise to very little energy since the moment of inertia is so small). The
+molecules can have rotational as well as translational kinetic energy.
+It is useful to introduce the idea of degrees of freedom, by which we mean
+the number of independent ways molecules can possess energy. For example,
+a monatomic gas has three degrees of freedom, because an atom can have velocity
+along the x, y, and z axes. These are considered to be three independent motions
+because a change in any one of the components would not affect the others.
+A diatomic molecule has the same three degrees of freedom associated with trans-
+lational kinetic energy plus two more degrees of freedom associated with rotational
+kinetic energy (Fig. D–1), for a total of five degrees of freedom.
+R + CV = (1.99 + 2.98) calmolK = 4.97 calmolK,
+CP
+CV = 2.98 calmolK
+R = 8.314 JmolK = 1.99 calmolK,
+CV =
+3
+2 R.
+¢U =
+3
+2 nR ¢T = nCV ¢T
+¢U = QV
+U = NA1
+2 mOB
+=
+3
+2 nRT
+¢U = QV.
+1.99 calmolK.
+CV
+CP
+R

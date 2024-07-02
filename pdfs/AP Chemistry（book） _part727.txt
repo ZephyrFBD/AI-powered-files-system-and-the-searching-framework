@@ -1,0 +1,24 @@
+. The enthalpy change for a reaction depends on the states of the reac-
+tants and products. If the product in Equation 5.17 were H2O1g2 instead of 
+H2O1l2, ∆Hrxn would be -802 kJ instead of -890 kJ. Less heat would be available for 
+transfer to the surroundings because the enthalpy of H2O1g2 is greater than that of 
+H2O1l2. One way to see this is to imagine that the product is initially liquid water. 
+The liquid water must be converted to water vapor, and the conversion of 2 mol 
+H2O1l2 to 2 mol H2O1g2 is an endothermic process that absorbs 88 kJ:
+ 
+2 H2O1l2 ¡  2 H2O1g2   ∆H = +88 kJ 
+[5.19]
+Thus, it is important to specify the states of the reactants and products in 
+ 
+thermochemical equations. In addition, we will generally assume that the reactants 
+and products are both at the same temperature, 25 °C, unless  
+otherwise indicated.
+CO2(g) 1 2 H2O(l)
+∆H2 5
+890 kJ
+∆H1 5
+2890 kJ
+CH4(g) 1 2 O2(g)
+Enthalpy
+▲ Figure 5.15 횫H for a reverse reaction. 
+Reversing a reaction changes the sign bu

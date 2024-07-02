@@ -1,0 +1,18 @@
+the help of catalysts. Much industrial chemical research is 
+devoted to the search for more effective catalysts for reactions of commercial importance. 
+Extensive research efforts also are devoted to finding means of inhibiting or removing 
+certain catalysts that promote undesirable reactions, such as those that corrode metals, 
+age our bodies, and cause tooth decay.
+Homogeneous Catalysis
+A catalyst that is present in the same phase as the reactants in a reaction mixture is called 
+a homogeneous catalyst. Examples abound both in solution and in the gas phase. 
+Consider, for example, the decomposition of aqueous hydrogen peroxide, H2O21aq2, into 
+water and oxygen:
+ 
+2 H2O21aq2 ¡ 2 H2O1l2 + O21g2 
+[14.31]
+In the absence of a catalyst, this reaction occurs extremely slowly. Many substances are 
+capable of catalyzing the reaction, however, including bromide ion, which reacts with 
+hydrogen peroxide in acidic solution, forming aqueous bromine and water (Figure 14.21).
+ 
+2 Br-1aq2 + H2O21aq2

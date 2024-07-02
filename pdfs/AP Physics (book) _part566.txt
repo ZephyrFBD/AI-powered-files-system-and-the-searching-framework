@@ -1,0 +1,26 @@
+ling at a speed
+within a range from 
+to 
+Derive formulas for 
+and 
+as functions of 
+and R.
+4. Earth is not quite an inertial frame. We often make 
+measurements in a reference frame fixed on the Earth,
+assuming Earth is an inertial reference frame [Section 4–2].
+But the Earth rotates, so this assumption is not quite valid.
+Show that this assumption is off by 3 parts in 1000 by calcu-
+lating the acceleration of an object at Earth’s equator due to
+Earth’s daily rotation, and compare to  
+the
+acceleration due to gravity.
+5. A certain white dwarf star was once an average star like
+our Sun. But now it is in the last stage of its evolution and
+is the size of our Moon but has the mass of our Sun.
+(a) Estimate the acceleration due to gravity on the surface
+of this star. (b) How much would a 65-kg person weigh on
+this star? Give as a percentage of the person’s weight on
+Earth. (c) What would be the speed of a baseball dropped
+from a height of 1.0 m when it hit the surface?
+g = 9.80 ms2,
+ms, v0,

@@ -1,0 +1,14 @@
+ame principle as a galvanometer (a torque is exerted on a
+current-carrying loop in a magnetic field) except that the coil must turn continu-
+ously in one direction. The coil is mounted on an iron cylinder called the rotor or
+armature, Fig.20–37. Actually, there are several coils, although only one is indicated
+in Fig. 20–37. The armature is mounted on a shaft or axle. When the armature 
+is in the position shown in Fig. 20–37, the magnetic field exerts forces on the 
+current in the loop as shown (perpendicular to 
+and to the current direction).
+However, when the coil, which is rotating clockwise in Fig. 20–37, passes beyond
+the vertical position, the forces would then act to return the coil back toward the
+vertical if the current remained the same. But if the current could be reversed at
+that critical moment, the forces would reverse, and the coil would continue rotating
+in the same direction. Thus, alternation of the current is necessary if a motor is to
+turn continuously in one direct

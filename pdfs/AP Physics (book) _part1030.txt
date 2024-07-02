@@ -1,0 +1,23 @@
+ight 
+is sometimes called the pressure head. In this Example,
+the head of water is 30 m at the faucet. The very different diameters of the tank
+and faucet don’t affect the result—only height does.
+¢h
+= 2.9 * 105 Nm2.
+¢P = rg ¢h = A1.0 * 103 kgm3BA9.8 ms2BA30 mB
+¢h
+¢h = 30 m
+r
+EXAMPLE 10;3
+EXERCISE B A dam holds back a lake that is 85 m deep at the dam. If the lake is 20 km
+long, how much thicker should the dam be than if the lake were smaller, only 1.0 km long?
+10–4 Atmospheric Pressure 
+and Gauge Pressure
+Atmospheric Pressure
+The pressure of the Earth’s atmosphere, as in any fluid, changes with depth. But
+the Earth’s atmosphere is somewhat complicated: not only does the density of air
+vary greatly with altitude but there is no distinct top surface to the atmosphere
+from which h (in Eq. 10–3a) could be measured. We can, however, calculate the
+approximate difference in pressure between two altitudes above Earth’s surface
+using Eq. 10–3b.
+The pressure of the air at a given place varie

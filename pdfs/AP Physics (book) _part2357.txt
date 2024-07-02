@@ -1,0 +1,24 @@
+ the principle of induction. In one form, a microphone is just the inverse of a loud-
+speaker (Section 20–10). A small coil connected to a membrane is suspended close
+to a small permanent magnet, as shown in Fig.21–31. The coil moves in the magnetic
+field when sound waves strike the membrane, and this motion induces an emf in
+the moving coil. The frequency of the induced emf will be just that of the impinging
+sound waves, and this emf is the “signal” that can be amplified and sent to 
+loudspeakers or recorder.
+Credit Card Reader
+When you pass a credit card through a reader at a store, the magnetic stripe on 
+the back of the card passes over a read head just as for a computer hard 
+drive. The magnetic stripe contains personal information about your account 
+and connects by telephone line for approval from your credit card company.
+Newer cards use semiconductor chips that are more difficult to fraudulently
+copy.
+*
+*
+*
+=
+(–20 V)
+(±20 V)
+P H Y S I C S  A P P L I E D
+Credit card
+Membrane
+Sm

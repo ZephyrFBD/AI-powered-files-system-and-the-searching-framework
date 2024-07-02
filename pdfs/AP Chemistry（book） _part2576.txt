@@ -1,0 +1,38 @@
+e relative equilibrium concentra-
+tions of phosphoric acid and its successive conjugate bases as a func-
+tion of pH.
+We can learn many things from Figure 16.14. For instance, if the 
+pH is greater than 4, there is essentially no H3PO4 left in solution. At 
+pH 7 14, the major component is the phosphate ion, PO4
+3-. We can 
+Continued
+ 
+SECTION 16.6   
+Weak Acids 
+689
+690 
+CHAPTER 16 Acid–Base Equilibria
+16.7 ∣ Weak Bases
+Many substances behave as weak bases in water. Weak bases react with water, abstracting 
+protons from H2O, thereby forming the conjugate acid of the base and OH- ions:
+ 
+B1aq2 + H2O1l2 ∆ HB+1aq2 + OH -1aq2 
+[16.33]
+The equilibrium-constant expression for this reaction can be written as
+ 
+Kb =
+3BH+43OH-4
+3B4
+ 
+[16.34]
+Water is the solvent, so it is omitted from the equilibrium-constant expression. One of 
+the most commonly encountered weak bases is ammonia, NH3:
+ 
+NH31aq2 + H2O1l2 ∆ NH4
++1aq2 + OH-1aq2 Kb =
+3NH4
++43OH -4
+3NH34
+ 
+[16.35]
+As with Kw and Ka, the subscript b 

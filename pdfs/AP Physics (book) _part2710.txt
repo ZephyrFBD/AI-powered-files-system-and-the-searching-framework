@@ -1,0 +1,27 @@
+o the surface.
+(a)
+(b)
+90°
+¨r
+¨p
+¨p
+People who go fishing wear Polaroids to eliminate reflected glare from the
+surface of a lake or stream and thus see beneath the water more clearly (Fig.24–47).
+The amount of polarization in the reflected beam depends on the angle,
+varying from no polarization at normal incidence to 100% polarization at an angle
+known as the polarizing angle
+† This angle is related to the index of refraction
+of the two materials on either side of the boundary by the equation
+(24;6a)
+where 
+is the index of refraction of the material in which the incident beam is
+traveling, and 
+is that of the medium beyond the reflecting boundary. If the
+beam is traveling in air,
+and Eq. 24–6a becomes
+(24;6b)
+The polarizing angle 
+is also called Brewster’s angle, and Eqs. 24–6 Brewster’s
+law, after the Scottish physicist David Brewster (1781–1868), who worked it out
+experimentally in 1812. Equations 24–6 can be derived from the electromagnetic
+wave theory of light. It is interesting th

@@ -1,0 +1,14 @@
+of
+traveling continuously down the axon, the action potential jumps from node to node (saltatory conduction), thereby
+speeding up the propagation of the impulse.
+A synapse, or synaptic cleft, is the gap that separates adjacent neurons. Transmission of an impulse across a
+synapse, from presynaptic cell to postsynaptic cell, may be electrical or chemical. In electrical synapses, the action
+potential travels through gap junctions, small tubes of cytoplasm that connect adjacent cells. In most animals,
+however, most synaptic clefts are traversed by chemicals, as follows:
+1. Calcium (Ca2+) gates open. When an action potential reaches the end of an axon, the depolarization of the
+membrane causes voltage-gated
+ 
+channels to open and allows Ca2+ to enter the cell.
+2. Synaptic vesicles release neurotransmitter. The influx of Ca2+ into the terminal end of the axon causes
+synaptic vesicles to merge with the presynaptic membrane, releasing molecules of a chemical called a
+neurotransmitter into the 

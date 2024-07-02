@@ -1,0 +1,32 @@
+olve objects whose angular separation is
+around
+This corresponds to objects separated by 1 cm at a distance of about 20 m.
+The typical near point of a human eye is about 25 cm. At this distance, the
+eye can just resolve objects that are
+apart.† Since the best light microscopes can resolve objects no smaller than about
+200 nm at best (Eq. 25–9 for violet light,
+), the useful magnification
+is limited to about
+In practice, magnifications of about 
+are often used to minimize eyestrain.
+Any greater magnification would simply make visible the diffraction pattern pro-
+duced by the microscope objective lens.
+EXERCISE F Return to the Chapter-Opening Question, page 713, and answer it again
+now. Try to explain why you may have answered differently the first time.
+1000*
+c
+maximum useful
+microscope magnificationd
+10–4 m
+200 * 10–9 m L 500*.
+[= (resolution by naked eye)(resolution by microscope)]
+l = 400 nm
+(25 cm)A5 * 10–4 radB L 10–4 m =
+1
+10 mm
+c best eye
+resolutiond
+5 * 10–4 rad.
+10 mm.
+10 mm
+s

@@ -1,0 +1,19 @@
+n.
+E
+B.
+FIGURE 24–38 Transverse waves
+on a rope polarized (a) in a vertical
+plane and (b) in a horizontal plane.
+Polaroids (Polarization by Absorption)
+Plane-polarized light can be obtained from unpolarized light using certain crystals
+such as tourmaline. Or, more commonly, we use a Polaroid sheet. (Polaroid materials
+were invented in 1929 by Edwin Land.) A Polaroid sheet consists of long complex
+molecules arranged parallel to one another. Such a Polaroid acts like a series of 
+parallel slits to allow one orientation of polarization to pass through nearly 
+undiminished. This direction is called the transmission axis of the Polaroid. Polariza-
+tion perpendicular to this direction is absorbed almost completely by the Polaroid.
+Absorption by a Polaroid can be explained at the molecular level. An electric
+field 
+that oscillates parallel to the long molecules can set electrons into motion
+along the molecules, thus doing work on them and transferring energy. Hence, if 
+is parallel to the mol

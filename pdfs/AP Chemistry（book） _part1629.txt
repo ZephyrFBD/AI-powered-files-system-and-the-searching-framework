@@ -1,0 +1,15 @@
+e ideally at low pressure than at 
+high pressure.
+1PV>RT = 12 is large and different for each gas. Real gases, in other words, do not behave ideally 
+at high pressure. At lower pressures (usually below 10 atm), however, the deviation from ideal 
+behavior is small, and we can use the ideal-gas equation without generating serious error.
+Deviation from ideal behavior also depends on temperature. As temperature 
+increases, the behavior of a real gas more nearly approaches that of the ideal gas 
+ 
+(Figure 10.19). In general, the deviation from ideal behavior increases as temperature decreases, 
+becoming significant near the temperature at which the gas liquefies.
+The basic assumptions of the kinetic-molecular theory of gases give 
+us insight into why real gases deviate from ideal behavior. The mol-
+ecules of an ideal gas are assumed to occupy no space and have no 
+attraction for one another. Real molecules, however, do have finite vol-
+umes and do attract one another. As Figure 10.20 shows,

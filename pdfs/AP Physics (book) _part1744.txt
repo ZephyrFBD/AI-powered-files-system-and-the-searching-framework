@@ -1,0 +1,22 @@
+ object by adding the different vector forces acting on it. It might
+be useful now to review Sections 3–2, 3–3, and 3–4. Here is a brief review of vectors.
+Vector Addition Review
+Suppose two vector forces,
+and 
+act on an object (Fig. 16–18a). They can be
+added using the tail-to-tip method (Fig. 16–18b) or by the parallelogram method
+(Fig. 16–18c), as discussed in Section 3–2. These two methods are useful for
+understanding a given problem (for getting a picture in your mind of what is
+going on). But for calculating the direction and magnitude of the resultant sum, it
+is more precise to use the method of adding components. Figure 16–18d shows
+the forces 
+and 
+resolved into components along chosen x and y axes (for
+more details, see Section 3–4). From the definitions of the trigonometric functions
+(Figs. 3–11 and 3–12), we have
+We add up the x and y components separately to obtain the components of the
+resultant force 
+which are
+The magnitude of the resultant (or net) force 
+is
+The direct

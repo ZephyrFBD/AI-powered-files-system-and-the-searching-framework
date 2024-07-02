@@ -1,0 +1,53 @@
+ndary to primary current is in the inverse ratio
+of turns:
+(21;7)
+[*Read write heads for computer hard drives and tape, as
+well as microphones, ground fault circuit interrupters, and seismo-
+graphs, are all applications of electromagnetic induction.]
+
+IS
+IP
+= N
+P
+N
+S
+.
+V
+S
+V
+P
+=
+N
+S
+N
+P
+.
+N
+P
+N
+S
+AV
+SV
+PB
+Questions
+617
+[*A changing current in a coil of wire will produce a
+changing magnetic field that induces an emf in a second coil
+placed nearby. The mutual inductance, M, is defined by
+(21;8)]
+[*Within a single coil, the changing B due to a changing
+current induces an opposing emf,
+so a coil has a
+self-inductance L defined by
+(21;9)]
+[*The energy stored in an inductance L carrying current I
+is given by 
+This energy can be thought of as being
+stored in the magnetic field of the inductor. The energy density u
+in any magnetic field B is given by
+(21;10)]
+[*When an inductance L and resistor R are connected in
+series to a source of emf,
+the current rises as
+where 
+is the time constant. If

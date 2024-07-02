@@ -1,0 +1,28 @@
+culating the bond order, we can use 
+Figure 9.43 to estimate the bond enthalpy and bond length.
+Solve
+(a) The O2
++ ion has 11 valence electrons, one fewer than O2. The 
+electron removed from O2 to form O2
++ is one of the two un-
+paired p
+2p
+*  electrons (see Figure 9.43). Therefore, O2
++ has one 
+unpaired electron.
+(b) The molecule has eight bonding electrons (the same as O2) 
+and three antibonding electrons (one fewer than O2). Thus, its 
+bond order is
+1
+218 - 32 = 21
+2
+Continued
+380 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+Heteronuclear Diatomic Molecules
+The principles we have used in developing an MO description of homonuclear diatomic 
+molecules can be extended to heteronuclear diatomic molecules—those in which the two 
+atoms in the molecule are not the same. We conclude this section with a fascinating het-
+eronuclear diatomic molecule—nitric oxide, NO.
+The NO molecule controls several important human physiological functions. Our bod-
+ies use it, for example, to relax mu

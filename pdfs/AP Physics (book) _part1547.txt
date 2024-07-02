@@ -1,0 +1,19 @@
+ C S  A P P L I E D
+Clothes insulate by trapping 
+an air layer
+P H Y S I C S  A P P L I E D
+Heat loss through windows
+402
+CHAPTER 14
+Heat
+14–7 Heat Transfer: Convection
+Although liquids and gases are generally not very good conductors of heat, they can
+transfer heat rapidly by convection. Convection is the process whereby heat flows
+by the bulk movement of molecules from one place to another. Whereas conduction
+involves molecules (and/or electrons) moving only over small distances and colliding,
+convection involves the movement of large numbers of molecules over large distances.
+A forced-air furnace, in which air is heated and then blown by a fan into a
+room, is an example of forced convection. Natural convection occurs as well, and
+one familiar example is that hot air rises. For instance, the air above a radiator
+(or other type of heater) expands as it is heated (Chapter 13), and hence its density
+decreases. Because its density is less than that of the surrounding cooler air, it rises

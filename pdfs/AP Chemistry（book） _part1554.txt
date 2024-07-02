@@ -1,0 +1,19 @@
+the gravitational force of the atmosphere on the Earth’s surface (the weight of the atmo-
+sphere) is given by  F = mg.
+Now imagine a column of air, 1 m2 in cross section, extending through the entire 
+atmosphere (Figure 10.1). That column has a mass of roughly 10,000 kg. The downward 
+gravitational force exerted on this column is
+ 
+F = 110,000 kg219.8 m>s22 = 1 * 105 kg@m>s2 = 1 * 105 N 
+where N is the abbreviation for newton, the SI unit for force: 1 N = 1 kg@m>s2.
+The pressure exerted by the column is this force divided by the cross-sectional area, 
+A, over which the force is applied. Because our air column has a cross-sectional area of 
+1 m2, we have for the magnitude of atmospheric pressure at sea level
+ 
+P = F
+A = 1 * 105 N
+1 m2
+= 1 * 105 N>m2 = 1 * 105 Pa = 1 * 102 kPa 
+The SI unit of pressure is the pascal (Pa), named for Blaise Pascal (1623–1662), a 
+French scientist who studied pressure: 1 Pa = 1 N>m2. A related pressure unit is the 
+bar: 1 bar = 105 Pa = 105 N>m2. Thus, the a

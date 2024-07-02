@@ -1,0 +1,59 @@
+0
+2
+2a
+.
+t = v - v0
+a
+,
+t,
+x = x0 + vt = x0 + ¢ v + v0
+2
+≤t.
+t
+P R O B L E M  S O L V I N G
+Equations 2–11 are valid only when
+the acceleration is constant, which we
+assume in this Example
+P H Y S I C S  A P P L I E D
+Airport design
+Kinematic equations
+for constant acceleration 
+(we’ll use them a lot)
+Known 
+Wanted
+a = 2.00 ms2
+x = 150 m
+v0 = 0
+v
+x0 = 0
+SOLUTION (a) Of the above four equations, Eq. 2–11c will give us 
+when
+we know 
+a, x, and
+This runway length is not sufficient, because the minimum speed is not reached.
+(b) Now we want to find the minimum runway length,
+for a plane to reach
+given 
+We again use Eq. 2–11c, but rewritten as
+A 200-m runway is more appropriate for this plane.
+NOTE We did this Example as if the plane were a particle, so we round off
+our answer to 200 m.
+Ax - x0B
+= v2 - v0
+2
+2a
+=
+(27.8 ms)2 - 0
+2A2.00 ms2B
+= 193 m.
+a = 2.00 ms2.
+v = 27.8 ms,
+x - x0,
+v = 3600 m2s2 = 24.5 ms.
+= 0 + 2A2.00 ms2B(150 m) = 600 m2s2
+v2 = v0
+2 + 2aAx - x0B
+x0 :
+v0 ,
+v
+Runway

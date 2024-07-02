@@ -1,0 +1,20 @@
+ in
+Fig. 24–33a), where rays in air can enter glass (or be reflected). Because there is
+a phase shift only at the lower surface, there will be a dark band (no reflection)
+when the path difference is
+and so on. Since the light rays are
+perpendicular to the plates, the extra path length (DEF) equals 2 , where is
+the thickness of the air gap at any point.
+SOLUTION Dark bands will occur where
+Bright bands occur when
+where m is an integer. At the 
+position of the wire,
+At this point there will be 
+wavelengths. This is a “half
+integer,” so the area next to the wire will be bright. There will be a total 
+of 25 dark lines along the plates, corresponding to path lengths DEF of
+including the one at the point of contact A 
+Between them, there will be 24 bright lines plus the one at the end, or 25.
+NOTE The bright and dark bands will be straight only if the glass plates are
+extremely flat. If they are not, the pattern is uneven, as in Fig. 24–33c. Thus we
+see a very precise way of testing a glass 

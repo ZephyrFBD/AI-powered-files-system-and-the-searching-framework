@@ -1,0 +1,17 @@
+n they are in
+thermal equilibrium with each other.
+This postulate is called the zeroth law of thermodynamics. It has this unusual
+name because it was not until after the first and second laws of thermodynamics
+(Chapter 15) were worked out that scientists realized that this apparently obvious
+postulate needed to be stated first.
+Temperature is a property of a system that determines whether the system
+will be in thermal equilibrium with other systems. When two systems are in ther-
+mal equilibrium, their temperatures are (by definition) equal, and no net thermal
+energy is exchanged between them. This is consistent with our everyday notion
+of temperature: when a hot object and a cold one are put into contact, they even-
+tually come to the same temperature. Thus the importance of the zeroth law is
+that it allows a useful definition of temperature.
+*
+13–4 Thermal Expansion
+Most substances expand when heated and contract when cooled. However, the
+amount of expansion or contraction varies, dep

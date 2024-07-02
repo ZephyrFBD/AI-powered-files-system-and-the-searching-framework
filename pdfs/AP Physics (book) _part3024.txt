@@ -1,0 +1,21 @@
+nnot create an electron alone since electric charge would not then be
+conserved. The inverse of pair production also occurs: if a positron comes close to
+an electron, the two quickly annihilate each other and their energy, including
+their mass, appears as electromagnetic energy of photons. Because positrons are
+not as plentiful in nature as electrons, they usually do not last long.
+Electron–positron annihilation is the basis for the type of medical imaging
+known as PET, as discussed in Section 31–8.
+Pair production. (a) What is the minimum energy of a
+photon that can produce an electron–positron pair? (b) What is this photon’s
+wavelength?
+APPROACH The minimum photon energy E equals the rest energy 
+of
+the two particles created, via Einstein’s famous equation 
+(Eq. 26–7).
+There is no energy left over, so the particles produced will have zero kinetic
+energy. The wavelength is 
+where 
+for the original photon.
+SOLUTION (a) Because 
+and the mass created is equal to two electron
+masses, the 

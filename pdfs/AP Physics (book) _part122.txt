@@ -1,0 +1,37 @@
+I) What are the dimensions of density, which is mass per
+volume?
+*37. (II) The speed 
+of an object is given by the equation
+where 
+refers to time. (a) What are the
+dimensions of A and B? (b) What are the SI units for the
+constants A and B?
+*38. (II) Three students derive the following equations in
+which x refers to distance traveled,
+the speed, a the
+acceleration 
+the time, and the subscript zero 
+means a quantity at time 
+.
+Here are their 
+equations: (a) 
+(b) 
+and
+(c)
+Which of these could possibly be
+correct according to a dimensional check, and why?
+*39. (III) The smallest meaningful measure of length is called the
+Planck length, and is defined in terms of three fundamental
+constants in nature: the speed of light 
+the gravitational constant 
+and
+Planck’s constant 
+The Planck
+length 
+is given by the following combination of these
+three constants:
+Show that the dimensions of 
+are length [L], and find the
+order of magnitude of 
+[Recent theories (Chapters 32
+and 33) suggest that the smal

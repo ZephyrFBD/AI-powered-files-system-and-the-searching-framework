@@ -1,0 +1,43 @@
++ 2 H+1aq2 ∆ Pb2 +1aq2 + 2 HF1aq2 
+[17.20]
+The processes responsible for the increase in solubility of PbF2 in acidic solution are 
+illustrated in Figure 17.18(a).
+Other salts that contain basic anions, such as CO3
+2 -, PO4
+3 -, CN-, or S2 -, behave 
+similarly. These examples illustrate a general rule: The solubility of slightly soluble salts con-
+taining basic anions increases as 3H+4 increases (as pH is lowered). The more basic the anion, 
+the more the solubility is influenced by pH. The solubility of salts with anions of negli-
+gible basicity (the anions of strong acids), such as Cl-, Br-, I-, and NO3
+-, is unaffected by 
+pH changes, as shown in Figure 17.18(b). 
+Add H+
+Add H+
+(b)
+[F−] decreases
+[Pb2+] increases
+(a)
+Pb2+
+PbF2
+PbF2
+PbI2
+PbI2
+Pb2+
+Pb2+
+Pb2+
+F−
+F−
+I−
+I−
+H+
+H+(aq) + F−(aq)
+HF(aq)
+No reaction
+HF
+Salt whose anion is conjugate
+base of weak acid:
+Solubility increases as pH decreases
+Salt whose anion is conjugate
+base of strong acid:
+Solubility unaffected by changes in pH
+▲ 

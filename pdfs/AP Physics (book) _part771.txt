@@ -1,0 +1,31 @@
+t rest. Immediately after the collision, the
+incoming ball bounces backward with a speed of 
+Calculate (a) the velocity of the target ball after the colli-
+sion, and (b) the mass of the target ball.
+32. (II) Determine the fraction of kinetic energy lost by 
+a neutron 
+when it collides head-on and
+elastically with a target particle at rest which is (a)
+(b) 
+(heavy hydrogen,
+);
+(c) 
+(d) 
+(lead,
+).
+7;6 Inelastic Collisions
+33. (I) In a ballistic pendulum experiment, projectile 1 results 
+in a maximum height h of the pendulum equal to 2.6 cm.
+A second projectile (of the same mass) causes the pendulum
+to swing twice as high,
+The second projectile
+was how many times faster than the first?
+34. (II) (a) Derive a formula for the fraction of kinetic energy
+lost,
+in terms of m and M for the ballistic pendu-
+lum collision of Example 7–9. (b) Evaluate for
+and
+35. (II) A 28-g rifle bullet traveling 
+embeds itself in a
+3.1-kg pendulum hanging on a 2.8-m-long string, which
+makes the pendulum swing upw

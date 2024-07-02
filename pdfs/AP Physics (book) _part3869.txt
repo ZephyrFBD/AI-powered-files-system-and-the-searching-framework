@@ -1,0 +1,124 @@
+e in which the two events occur at the same place, so that 
+and
+then the terms containing 
+and 
+cancel out.
+x2
+œ
+x1
+œ
+x1
+œ = x2
+œ ,
+S¿
+=
+¢t0
+31 - v2c2 ,
+=
+1
+31 - v2c2 At2
+œ - t1
+œ B
+¢t = t2 - t1 =
+1
+31 - v2c2 ¢t2
+œ + vx2
+œ
+c2
+- t1
+œ - vx1
+œ
+c2 ≤
+¢t
+x2
+œ = x1
+œ ,
+¢t0 = t2
+œ - t1
+œ .
+S¿
+Ax2
+œ = x1
+œ B
+¢t0
+S¿,
+EXAMPLE E;2
+l = l0 31 - v2c2,
+l0 =
+1
+31 - v2c2 Ax2
+œ - x1
+œ B
+=
+l
+31 - v2c2 ,
+t2
+œ = t1
+œ ,
+l0 = x2 - x1 =
+1
+31 - v2c2 Ax2
+œ + vt2
+œ - x1
+œ - vt1
+œ B.
+t2
+œ = t1
+œ .
+S¿
+x1
+œ
+x2
+œ
+S¿
+l = x2
+œ - x1
+œ .
+S¿
+x2
+œ
+x1
+œ
+S¿,
+x2 - x1 = l0 .
+x2 ,
+x1
+l0
+S¿
+EXAMPLE E;1
+APPENDIX E
+Galilean and Lorentz Transformations
+A-25
+This page intentionally left blank 
+Chapter 1
+1. (a) 3;
+(b) 4;
+(c) 3;
+(d) 1;
+(e) 2;
+(f) 4;
+(g) 2.
+3. (a) 86,900;
+(b) 9100;
+(c) 0.88;
+(d) 476;
+(e) 0.0000362.
+5. 4.6%.
+7.
+9. 1%.
+11.
+13. (a) 1 megavolt;
+(b) 2 micrometers;
+(c) 6 kilodays;
+(d) 18 hectobucks;
+(e) 700 nanoseconds.
+15. (a)
+(b)
+17. (a)
+(b)
+19. (a)
+(b)
+21. Soccer; 9.4 yd, 8.6 m, 9.4%.
+23. (a)
+protons or neutrons;
+(

@@ -1,0 +1,63 @@
+Fig. 19–71, where all
+resistors have the same resistance R. At
+with the
+capacitor C uncharged, the switch is closed. (a) At
+the three currents can be determined by analyzing a 
+simpler, but equivalent, circuit. Draw this simpler circuit
+and use it to find the values of 
+and 
+at
+(b) At
+the currents can be determined by analyzing a sim-
+pler, equivalent circuit. Draw this simpler circuit and
+implement it in finding the values of 
+and 
+at
+(c) At 
+what is the potential difference across the
+capacitor?
+t = q,
+t = q.
+I3
+I2 ,
+I1,
+t = q,
+t = 0.
+I3
+I2,
+I1,
+t = 0,
+t = 0,
+I1
+I2
+I3
+R
+R
+R
+e
++Q
+– Q
+C
+FIGURE 19–71
+Problem 57.
+R
+S
+C
+e
+FIGURE 19–69
+Problem 54.
+S
+R
+C
+V0
++
+–
+FIGURE 19–70
+Problem 56.
+58. (III) Two resistors and two uncharged capacitors are arranged
+as shown in Fig. 19–72. Then a potential difference of 24 V
+is applied across the combination as shown. (a) What is the
+potential at point a with switch S open? (Let 
+at the
+negative terminal of the source.) (b) What is the potential at
+point b

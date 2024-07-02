@@ -1,0 +1,49 @@
+. 
+Once we know Ea, we can use Equation 14.23 together with the 
+given rate data to calculate the rate constant at 430.0 K.
+Solve
+(a) We must ﬁrst convert the temperatures from degrees Celsius 
+to kelvins. We then take the inverse of each temperature, 1>T, 
+and the natural log of each rate constant, ln k. This gives us 
+the table shown below:
+T 1K2
+1, T 1K − 
+12
+ln k
+462.9
+2.160 * 10-3
+-10.589
+472.1
+2.118 * 10-3
+-9.855
+503.5
+1.986 * 10-3
+-7.370
+524.4
+1.907 * 10-3
+-5.757
+A graph of ln k versus 1>T is a straight line (Figure 14.18).
+Temperature 1°C2
+k 1s− 
+12
+189.7
+2.52 * 10-5
+198.9
+5.25 * 10-5
+230.3
+6.30 * 10-4
+251.2
+3.16 * 10-3
+Because logarithms have no units, the numerator in this equation is 
+dimensionless. The denominator has the units of 1>T, namely, K - 1. 
+Thus, the overall units for the slope are K. The slope equals -Ea>R. We 
+use the value for the gas constant R in units of J>mol@K  (Table 10.2). 
+We thus obtain
+ 
+Slope = -  
+Ea
+R
+ 
+Ea = -1slope21R2 = -1-1.9 * 104 K2a8.314
+J
+m

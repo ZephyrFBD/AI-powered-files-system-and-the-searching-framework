@@ -1,0 +1,66 @@
+entration (midway between bottle and nose) can be approxi-
+mated by
+where V is the volume over which the molecules move 
+and is roughly on the order of
+where 
+is
+We
+substitute
+into the above equation:
+The concentration of ammonia is high near the bottle (C) and low near the
+detecting nose 
+so
+or
+Since 
+molecules have a size somewhere between 
+and 
+from Table 13–4 we 
+can estimate
+Then
+or about a minute or two.
+NOTE This result seems rather long from experience, suggesting that air currents
+(convection) are more important than diffusion for transmitting odors.
+t L
+1
+2
+(0.10 m)2
+A4 * 10–5 m2sB
+L 100 s,
+D L 4 * 10–5 m2s.
+O2 ,
+H2
+NH3
+(K¢C) L 1
+2 .
+K L C2 L ¢C2,
+(L 0),
+t L
+(KA ¢x) ¢x
+DA ¢C
+=
+K
+¢C
+(¢x)2
+D
+.
+N = KV = KA ¢x
+10 cm = 0.10 m.
+¢x
+V L A ¢x,
+K L NV,
+t = N
+J
+=
+N
+DA
+¢x
+¢C
+.
+t = NJ,
+J = Nt.
+t
+ANH3B
+EXAMPLE 13;19
+ESTIMATE
+Diffusion is extremely important for living organisms. For example, molecules
+produced in certain chemical reactions within cells diffuse to other areas where

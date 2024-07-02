@@ -1,0 +1,23 @@
+A ele-
+ments are: C(s, diamond) = 2.43 J>mol@K, Si1s2 = 18.81 J>
+mol@K, Ge1s2 = 31.09 J>mol@K,  a n d  Sn1s2 = 51.818 J>
+mol@K. All but Sn have the same (diamond) structure. How 
+do you account for the trend in the S° values?
+ [19.50]  Three of the forms of elemental carbon are graphite, dia-
+mond, and buckminsterfullerene. The entropies at 298 K 
+ 
+for graphite and diamond are listed in Appendix C. 
+ 
+(a) Account for the difference in the S° values of graphite 
+and diamond in light of their structures (Figure 12.29, p. 
+495). (b) What would you expect for the S° value of buck-
+minsterfullerene (Figure 12.49, p. 509) relative to the val-
+ues for graphite and diamond? Explain.
+ 19.51  Using S° values from Appendix C, calculate ∆S° values for 
+the following reactions. In each case, account for the sign 
+of ∆S°.
+(a) C2H41g2 + H21g2 ¡ C2H61g2
+(b) N2O41g2 ¡ 2 NO21g2
+(c) Be1OH221s2 ¡ BeO1s2 + H2O1g2
+(d) 2 CH3OH1g2 + 3 O21g2 ¡ 2 CO21g2 + 4 H2O1g2
+ 19.52  Calculate ∆S° values for the following

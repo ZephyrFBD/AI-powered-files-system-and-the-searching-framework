@@ -1,0 +1,11 @@
+also
+possible, but because so few genes reside on the Y chromosome Y-linkage is rarely encountered. Note the different
+uses of the word “linkage”: Used alone, the word linkage refers to two or more genes that reside on the same
+chromosome; sex-linkage refers to a single gene residing specifically on a sex chromosome.
+You have additional considerations when working with sex-linked genes. When females (XX) inherit a sex-linked
+gene, they receive two copies of the gene, one on each X chromosome. This situation is similar to that for autosomal
+inheritance. In contrast, however, a male (XY) will inherit only one copy of the gene because only the X
+chromosome delivers the gene. There is no similar gene delivered by the Y chromosome. As a result, the allele on
+the X chromosome of a male is the allele whose trait is expressed, regardless of whether it is dominant or recessive.
+Color blindness is caused by a sex-linked, recessive gene (n) in humans. Females and males who inherit the normal
+alle

@@ -1,0 +1,47 @@
+la
+Volume Formula
+Sphere
+4πr2
+Rectangular Solid
+2lh + 2lw + 2wh
+lwh
+Cylinder
+2πrh + 2πr2
+πr2h
+Cube
+6s2
+s3
+Metric Prefixes
+Here are some commonly used metric prefixes.
+Prefix
+Symbol
+Factor
+Giga
+G
+109
+Mega
+M
+106
+Kilo
+k
+103
+Deci
+d
+10–1
+Centi
+c
+10–2
+Milli
+m
+10–3
+Micro
+μ
+10–6
+Nano
+n
+10–9
+Pico
+p
+10–12
+*Note: While you do need to understand how to apply standard deviation and standard error of the mean, and how to use them to construct 95% confidence
+intervals, you will not be required to calculate standard deviation or standard error of the mean on the AP Biology exam.

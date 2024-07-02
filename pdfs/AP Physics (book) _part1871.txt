@@ -1,0 +1,51 @@
+yrene 
+2.6 
+Vinyl (plastic) 
+2–4
+Paper 
+3.7 
+Quartz 
+4.3 
+Oil 
+4 
+Glass, Pyrex 
+5 
+Rubber,
+neoprene 
+6.7 
+Porcelain 
+6–8
+Mica 
+7 
+Water (liquid) 80 
+Strontium
+titanate 
+300 
+8 * 106
+150 * 106
+5 * 106
+12 * 106
+14 * 106
+12 * 106
+8 * 106
+15 * 106
+50 * 106
+24 * 106
+10 * 106
+3 * 106
+(Vm)
+FIGURE 17–18 A cylindrical
+capacitor, unrolled from its case to
+show the dielectric between the
+plates. See also Fig. 17–13b.
+Derivation of Capacitance for Parallel-Plate Capacitor
+Equation 17–8 can be derived using the result from Section 16–12 on Gauss’s
+law, namely that the electric field between two parallel plates is given by Eq.16–10:
+We combine this with Eq. 17–4a, using magnitudes,
+to obtain
+Then, from Eq. 17–7, the definition of capacitance,
+which is Eq. 17–8.
+17–8 Dielectrics
+In most capacitors there is an insulating sheet of material, such as paper or plastic,
+called a dielectric between the plates (Fig. 17–18). This serves several purposes.
+First, dielectrics break down (allowing electric charg

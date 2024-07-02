@@ -1,0 +1,38 @@
+netic Resonance Imaging (MRI)
+For producing medically useful NMR images—now commonly called MRI, or
+magnetic resonance imaging—the element most used is hydrogen since it is the
+commonest element in the human body and gives the strongest NMR signals.
+The experimental apparatus is shown in Fig. 31–25. The large coils set up the
+static magnetic field, and the RF coils produce the RF pulse of electromagnetic
+waves (photons) that cause the nuclei to jump from the lower state to the upper
+one (Fig. 31–24). These same coils (or another coil) can detect the absorption of
+energy or the emitted radiation (also of frequency
+Eq. 31–11) when
+the nuclei jump back down to the lower state.
+f = ¢Eh,
+*
+hf = kABext + BlocalB.
+BT ,
+ABlocalB
+ABextB
+BT
+BT = 1.0 T.
+1
+1H
+f = kBTh.
+hf = ¢E = kBT ,
+¢E = kBT,
+BT
+¢E
+1
+1H
+FIGURE 31–23 Schematic picture
+of a proton in a magnetic field 
+(pointing upward) with the two
+possible states of proton spin, up
+and down.
+B
+B
+FIGURE 31–24 Energy 
+in the
+absence of a magnetic

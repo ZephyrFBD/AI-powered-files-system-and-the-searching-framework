@@ -1,0 +1,57 @@
+ V
+aB =
+–qV
+ba.
+V
+ba.
+SECTION 17–2
+Relation between Electric Potential and Electric Field
+477
+ 50 V
+d =
+5.0 cm
+E = ?
++
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+V
+ba
+FIGURE 17–5 Example 17–3.
+Electric field obtained from voltage. Two parallel plates
+are charged to produce a potential difference of 50 V. If the separation between
+the plates is 0.050 m, calculate the magnitude of the electric field in the space
+between the plates (Fig. 17–5).
+APPROACH We apply Eq.17–4b to obtain the magnitude of E, assumed uniform.
+SOLUTION The magnitude of the electric field is
+NOTE Equations 17–4 apply only for a uniform electric field. The general rela-
+tionship between 
+and V is more complicated.
+E
+B
+E = V
+bad = (50 V0.050 m) = 1000 Vm.
+EXAMPLE 17;3
+General Relation between 
+and V
+In a region where 
+is not uniform, the connection between 
+and V takes on a
+different form than Eqs. 17–4. In general, it is possible to show that the electric field
+in a given direction at any point in space is equal to th

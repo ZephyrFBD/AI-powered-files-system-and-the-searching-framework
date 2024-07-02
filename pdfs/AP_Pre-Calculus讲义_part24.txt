@@ -1,0 +1,46 @@
+t you travel every few 
+minutes. The distance s you have traveled is a function of the time t: 
+s(t) = total distance traveled at time t 
+We graph the function s as shown below: 
+ 
+The graph shows that you have traveled a total of 50 miles after 1 hour, 75 miles after 2 
+hours, 140 miles after 3 hours, and so on. 
+To find your average speed between any two points on the trip, we divide the distance 
+traveled by the time elapsed. 
+Let’s calculate your average speed between 1:00 P.M. and 4:00 P.M. The time elapsed is 
+4 − 1 = 3 hours. To find the distance you traveled, we subtract the distance at 1:00 P.M. 
+from the distance at 4:00 P.M., that is, 200 − 50 = 150 mi. 
+Thus your average speed is 
+distance traveled
+150mi
+average speed
+50 mi/h
+time elapsed
+3 h
+=
+=
+=
+ 
+The average speed that we have just calculated can be expressed by using function 
+notation: 
+( )
+( )
+4
+1
+200
+50
+average speed
+50 mi/h
+4
+1
+3
+s
+s
+-
+-
+=
+=
+=
+-
+ 
+Note that the average speed is different over different time interva

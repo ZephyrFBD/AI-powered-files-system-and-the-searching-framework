@@ -1,0 +1,13 @@
+or predicting molecular geometries but does 
+not explain why bonds exist between atoms. In developing theories of covalent bonding, 
+chemists have approached the problem from another direction, using quantum mechan-
+ics. How can we use atomic orbitals to explain bonding and to account for molecular 
+geometries? The marriage of Lewis’s notion of electron-pair bonds and the idea of atomic 
+orbitals leads to a model of chemical bonding, called valence-bond theory, in which 
+bonding electron pairs are concentrated in the regions between atoms, and nonbonding 
+electron pairs lie in directed regions of space. By extending this approach to include the 
+ways in which atomic orbitals can mix with one another, we obtain an explanatory pic-
+ture that corresponds to the VSEPR model.
+In Lewis theory, covalent bonding occurs when atoms share electrons because the 
+sharing concentrates electron density between the nuclei. In valence-bond theory, we 
+visualize the buildup of electron density between t

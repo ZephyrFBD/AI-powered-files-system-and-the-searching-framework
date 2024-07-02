@@ -1,0 +1,33 @@
+harge distribution is distorted is called the molecule’s polarizability. We can think 
+of the polarizability of a molecule as a measure of the “squashiness” of its electron cloud: 
+The greater the polarizability, the more easily the electron cloud can be distorted to give an 
+instantaneous dipole. Therefore, more polarizable molecules have larger dispersion forces.
+In general, polarizability increases as the number of electrons in an atom or molecule 
+increases. The strength of dispersion forces therefore tends to increase with increasing 
+atomic or molecular size. Because molecular size and mass generally parallel each other, 
+dispersion forces tend to increase in strength with increasing molecular weight. We can see this 
+Atom A
+Atom B
+Atom A
+Atom B
+Atom A
+Atom B
+Atom A
+Atom B
+Atom A
+Atom B
+Atom A
+Atom B
+(a) Two helium atoms, no polarization
+(b) Instantaneous dipole on atom B
+(c) Induced dipole on atom A
+Subatomic view
+Polarization view
+Electrostatic attraction 
+e−
+e−
+e−
+e−
+e−
+e−
+e−

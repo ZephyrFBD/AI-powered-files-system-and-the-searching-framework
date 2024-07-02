@@ -1,0 +1,25 @@
+ pair of slits, one below each of these, will also cancel. That is, the
+light from slit 1 cancels with light from slit 501; light from slit 2 cancels with light
+from slit 502, and so on. Thus even for a tiny angle† corresponding to an extra path
+length of 
+there is much destructive interference, and so the maxima of a 
+diffraction grating are very narrow. The more slits there are in a grating, the sharper
+will be the peaks (see Fig. 24–25). Because a grating produces much sharper
+maxima than two slits alone, and also much brighter maxima because there are
+many more slits, a grating is a far more precise device for measuring wavelengths.
+Suppose the light striking a diffraction grating is not monochromatic, but con-
+sists of two or more distinct wavelengths. Then for all orders other than
+each wavelength will produce a maximum at a different angle (Eq. 24–4), forming
+a line on the screen as shown in Fig. 24–26a.
+m = 0,
+1
+1000 l,
+1 1
+2
+1l + (500)(0.0010l) = 1.5000l,
+1.0010l.
+l
+u
+u
+u
+cdif

@@ -1,0 +1,20 @@
+m mechanics.
+Although we won’t go into the detailed mathematics of quantum mechanics,
+we will discuss the main ideas and how they involve the wave and particle
+properties of matter to explain atomic structure and other applications.
+28–2 The Wave Function and Its
+Interpretation; the Double-Slit Experiment
+The important properties of any wave are its wavelength, frequency, and ampli-
+tude. For an electromagnetic wave, the frequency (or wavelength) determines
+whether the light is in the visible spectrum or not, and if so, what color it is. We
+also have seen that the frequency is a measure of the energy of the corresponding
+photon,
+(Eq. 27–4). The amplitude or displacement of an electromagnetic
+wave at any point is the strength of the electric (or magnetic) field at that point,
+and is related to the intensity of the wave (the brightness of the light).
+E = hf
+804
+CHAPTER 28
+Quantum Mechanics of Atoms
+FIGURE 28–2 Werner Heisenberg (center) on Lake Como (Italy)
+with Enrico Fermi (left) and W

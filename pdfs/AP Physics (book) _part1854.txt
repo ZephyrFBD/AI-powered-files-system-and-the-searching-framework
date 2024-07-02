@@ -1,0 +1,35 @@
+(The symbol 
+means infinitely far away.) Notice that the potential V
+decreases with the first power of the distance, whereas the electric field (Eq. 16–4)
+decreases as the square of the distance. The potential near a positive charge is large
+and positive, and it decreases toward zero at very large distances, Fig. 17–9a. The
+potential near a negative charge is negative and increases toward zero at large
+distances, Fig. 17–9b. Equation 17–5 is sometimes called the Coulomb potential
+(it has its origin in Coulomb’s law).
+q
+r = q;
+V = 0
+k = 8.99 * 109 Nm2C2 L 9.0 * 109 Nm2C2.
+=
+1
+4p 0
+Q
+r ,
+csingle point charge
+V = 0 at r = q
+d
+V = k Q
+r
+AE = kQr2B
+= q
+E = kQr2
+Potential due to a positive or a negative charge. Deter-
+mine the potential at a point 0.50 m (a) from a 
+point charge, (b) from a
+point charge.
+APPROACH The potential due to a point charge is given by Eq.17–5,
+SOLUTION (a) At a distance of 0.50 m from a positive 
+charge, the potential
+is
+(b) For the negative charge,
+NOTE Pote

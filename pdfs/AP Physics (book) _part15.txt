@@ -1,0 +1,64 @@
+ and
+Semiconductor; Tape, Hard Drive, RAM
+604
+*
+Applications of Induction: Microphone,
+Seismograph, GFCI
+606
+*
+Inductance
+608
+*
+Energy Stored in a Magnetic Field
+610
+*
+LR Circuit
+610
+*
+AC Circuits and Reactance
+611
+*
+LRC Series AC Circuit
+614
+*
+Resonance in AC Circuits
+616
+Questions, MisConceptual Questions 617–19
+Problems, Search and Learn 620–24
+22 ELECTROMAGNETIC WAVES
+625
+Changing Electric Fields Produce 
+Magnetic Fields; Maxwell’s Equations
+626
+Production of Electromagnetic Waves
+627
+Light as an Electromagnetic Wave 
+and the Electromagnetic Spectrum
+629
+Measuring the Speed of Light
+632
+Energy in EM Waves
+633
+Momentum Transfer and Radiation 
+Pressure
+635
+Radio and Television; Wireless
+Communication
+636
+Questions, MisConceptual Questions 640
+Problems, Search and Learn 641–43
+23 LIGHT: GEOMETRIC OPTICS
+644
+The Ray Model of Light
+645
+Reflection; Image Formation by a 
+Plane Mirror
+645
+Formation of Images by Spherical 
+Mirrors
+649
+Index of Refraction
+656
+Refraction: Snell’s Law
+657
+Tota

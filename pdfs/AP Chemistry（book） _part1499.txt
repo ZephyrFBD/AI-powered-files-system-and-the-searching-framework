@@ -1,0 +1,25 @@
+, into which of the MOs will it 
+be added? [Section 9.7]
+ 9.11  For each of these contour representations of molecular orbit-
+als, identify (a) the atomic orbitals (s or p) used to construct 
+the MO (b) the type of MO (s or p), (c) whether the MO is 
+bonding or antibonding, and (d) the locations of nodal 
+planes. [Sections 9.7 and 9.8]
+(i)
+(ii)
+(iii)
+ 9.12  The diagram that follows shows the highest-energy occupied 
+MOs of a neutral molecule CX, where element X is in the 
+same row of the periodic table as C. (a) Based on the number 
+of electrons, can you determine the identity of X? (b) Would 
+the molecule be diamagnetic or paramagnetic? (c) Consider 
+the p
+2p MOs of the molecule. Would you expect them to have 
+a greater atomic orbital contribution from C, have a greater 
+atomic orbital contribution from X, or be an equal mixture 
+of atomic orbitals from the two atoms? [Section 9.8]
+π2p
+Í2p
+Molecular Shapes; the VSEpr Model  
+(Sections 9.1 and 9.2)
+ 9.13 (a) An AB2 molecule is linear. 

@@ -1,0 +1,18 @@
+us, increasing the temperature causes the equilibrium to shift 
+to the right, in the direction of making more products, and K increases. In an exothermic 
+reaction, the opposite occurs: Heat is produced as reactants are converted to products. 
+Thus, increasing the temperature in this case causes the equilibrium to shift to the left, in 
+the direction of making more reactants, and K decreases.
+ 
+Endothermic:  
+Increasing T results in higher K value
+ 
+Exothermic:  
+Increasing T results in lower K value
+Cooling a reaction has the opposite effect. As we lower the temperature, the equilib-
+rium shifts in the direction that produces heat. Thus, cooling an endothermic reaction 
+shifts the equilibrium to the left, decreasing K, as shown in Figure 15.14, and cooling an 
+exothermic reaction shifts the equilibrium to the right, increasing K.
+Consider the equilibrium
+N2O41g2 ∆ 2 NO21g2  ∆H° = 58.0 kJ
+In which direction will the equilibrium shift when (a) N2O4 is added, (b) NO2 is removed, (c) the 

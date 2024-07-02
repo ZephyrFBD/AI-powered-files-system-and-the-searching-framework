@@ -1,0 +1,13 @@
+ to a specific ligand, that is, a molecular signal. There are also voltage-gated-ion receptors
+that open or close in response to voltage differences across the membrane. A typical ligand-gated ion sequence
+follows (Figure 6-2a):
+1. Ligand-gated ion receptor receives signal. A specific messenger ligand binds to the outward-facing surface of
+the receptor.
+2. Receptor channel opens and ions pass through. In response to the binding of the ligand, the threedimensional
+shape of the receptor changes, opening (or closing) a channel that allows a specific ion to pass through and enter the
+cytoplasm.
+3. Ions initiate chemical response. Once in the cytoplasm, the ions initiate a chemical response.
+4. Ligand-gated ion receptor deactivated when ligand detaches from receptor. The ligand-ion receptor is
+deactivated when the messenger ligand is broken down by another enzyme, the binding site for the ligand is blocked
+by an allosteric ligand, or the ion passage is obstructed by a channel blocker.
+An im

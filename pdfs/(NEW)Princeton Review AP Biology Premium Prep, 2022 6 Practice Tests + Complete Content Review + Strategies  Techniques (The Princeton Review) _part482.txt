@@ -1,0 +1,10 @@
+up. In other words, you would expect to see each side 20 times. However, because this is an experiment and the
+sample size is only 120, you will probably see some variation in the data. If you rolled 24 sixes for example, the
+disagreement between observed (24) and expected (20) is small, and could have occurred by chance. If you rolled 40
+sixes, however, there is a large disagreement from the expected. Maybe it is a weighted die. The region in between
+these two values is trickier. Where is the line drawn between expected/normal variations and results that are so
+different that they must tell a different story altogether?
+Chi-square tests are one way to make this decision. They start with a null hypothesis (H0), which represents a set
+numerical outcome that you want to compare your data with. The chi-square test will determine if your actual data is
+close to the null hypothesis outcome and could have occurred due to a fluke (i.e., rolling a six 24 times) or if it is so
+different that it

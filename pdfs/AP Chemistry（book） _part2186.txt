@@ -1,0 +1,42 @@
+0422 M
+1800 - 4002 s
+ = 6.3 * 10-5 M>s
+In discussions that follow, the term rate means instanta-
+neous rate unless indicated otherwise. The instantaneous rate at 
+t = 0 is called the initial rate of the reaction. To understand the 
+difference between average and instantaneous rates, imagine you 
+have just driven 98 mi in 2.0 h. Your average speed for the trip is 
+49 mi>hr, but your instantaneous speed at any moment during 
+the trip is the speedometer reading at that moment.
+Go Figure
+Does the instantaneous rate increase, decrease, or remain 
+the same as the reaction proceeds?
+100 200 300 400 500 600 700 800 900
+0
+0.010
+0.020
+0.030
+0.040
+0.050
+0.060
+0.070
+0.080
+0.090
+0.100
+Time (s)
+[C4H9Cl] (M)
+C4H9Cl(aq) + H2O(l)
+C4H9OH(aq) + HCl(aq)
+Instantaneous
+rate at t = 0 s
+(initial rate)
+Instantaneous
+rate at t = 600 s
+∆ [C4H9Cl]
+∆t
+Instantaneous rate at 
+time t = slope of tangent 
+to the line at time t
+▲ Figure 14.3 Concentration of butyl chloride 1C4H9Cl2 as a function 
+of time.
+*You may wish 

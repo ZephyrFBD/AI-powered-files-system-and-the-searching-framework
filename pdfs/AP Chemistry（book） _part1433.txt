@@ -1,0 +1,35 @@
+ructures:
+N
+O
+O
+O
+N
+O
+O
+O
+N
+O
+O
+O
+2
+2
+2
+In each structure, the electron-domain geometry at nitrogen is 
+trigonal planar, which implies sp2 hybridization of the N atom. 
+It is helpful when considering delocalized p bonding to consider 
+atoms with lone pairs that are bonded to the central atom to be 
+sp2 hybridized as well. Thus, we can envision that each of the O 
+atoms in the anion has three sp2 hybrid orbitals in the plane of the 
+ion. Each of the four atoms has an unhybridized p orbital oriented 
+perpendicular to the plane of the ion.
+The NO3
+- ion has 24 valence electrons. We can first use the sp2 
+hybrid orbitals on the four atoms to construct the three N ¬O s 
+bonds. That uses all of the sp2 hybrids on the N atom and one sp2 
+hybrid on each O atom. Each of the two remaining sp2 hybrids on 
+each O atom is used to hold a nonbonding pair of electrons. Thus, 
+for any of the resonance structures, we have the following arrange-
+ment in the plane of the ion:
+ 
+▶Practice Exercise 1
+How ma

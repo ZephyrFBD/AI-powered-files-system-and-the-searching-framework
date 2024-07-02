@@ -1,0 +1,15 @@
+ressurized water reac-
+tors, there are several variations on this basic design, each with advantages and disad-
+vantages. A boiling water reactor generates steam by boiling the primary coolant; thus, 
+no secondary coolant is needed. The reactors at Fukushima, Japan, were boiling water 
+reactors. Pressurized water reactors and boiling water reactors are collectively referred to 
+as light water reactors because they use H2O as moderator and primary coolant. A heavy 
+water reactor uses D2O (D = deuterium, 
+2H2 as moderator and primary coolant, and a 
+gas-cooled reactor uses a gas, typically CO2, as primary coolant and graphite as the mod-
+erator. Use of either D2O or graphite as the moderator has the advantage that both sub-
+stances absorb fewer neutrons than H2O. Consequently, the uranium fuel does not need 
+to be as enriched.
+Nuclear Waste
+The fission products that accumulate as a reactor operates decrease the efficiency of the 
+reactor by capturing neutrons. For this reason, commercial

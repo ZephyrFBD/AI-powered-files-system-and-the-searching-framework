@@ -1,0 +1,19 @@
+ssible.
+Electron domains from nonbonding pairs exert slightly greater 
+repulsions than those from bonding pairs, which leads to certain pre-
+ferred positions for nonbonding pairs and to the departure of bond 
+angles from idealized values. Electron domains from multiple bonds 
+exert slightly greater repulsions than those from single bonds. The 
+arrangement of electron domains around a central atom is called 
+the electron-domain geometry; the arrangement of atoms is called the 
+ 
+molecular geometry.
+MOLECULAR POLARITY (SECTION 9.3) The dipole moment of 
+a polyatomic molecule depends on the vector sum of the dipole 
+moments associated with the individual bonds, called the bond 
+ 
+dipoles. Certain molecular shapes, such as linear AB2 and trigonal pla-
+nar AB3, lead to cancellation of the bond dipoles, producing a non-
+polar molecule, which is one whose overall dipole moment is zero. In 
+other shapes, such as bent AB2 and trigonal pyramidal AB3, the bond 
+dipoles do not cancel and the molec

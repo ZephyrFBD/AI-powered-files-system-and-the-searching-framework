@@ -1,0 +1,22 @@
+pressure is increased by addition 
+of N21g2, (d) the volume is increased, (e) the temperature is decreased?
+Sample Exercise 15.12
+ Using Le Châtelier’s Principle to Predict Shifts in Equilibrium
+SOLUTION
+Analyze We are given a series of changes to be made to a system at 
+equilibrium and are asked to predict what effect each change will 
+have on the position of the equilibrium.
+Plan Le Châtelier’s principle can be used to determine the effects 
+of each of these changes.
+Solve
+(a) The system will adjust to decrease the concentration of the 
+added N2O4, so the equilibrium shifts to the right, in the 
+direction of the product.
+(b) The system will adjust to the removal of NO2 by shifting to the 
+side that produces more NO2; thus, the equilibrium shifts to 
+the right.
+(c) Adding N2 will increase the total pressure of the system, but 
+N2 is not involved in the reaction. The partial pressures of NO2 
+and N2O4 are therefore unchanged, and there is no shift in the 
+position of the equilibrium.
+(

@@ -1,0 +1,15 @@
+ energy is converted into kinetic energy. 
+The potential energy decreases as the bicycle rolls down the hill, while at the same time 
+its kinetic energy increases as it picks up speed (Equation 1.2). This example illustrates 
+that kinetic and potential energy are interconvertible.
+Gravitational forces play a negligible role in the ways that atoms and molecules 
+interact with one another. Forces that arise from electrical charges are more important 
+ 
+when dealing with atoms and molecules. One of the most important forms of 
+potential energy in chemistry is electrostatic potential energy, which arises from the 
+interactions between charged particles. You are probably familiar with the fact that 
+opposite charges attract each other and like charges repel. The strength of this inter-
+action increases as the magnitude of the charges increase, and decreases as the dis-
+tance between charges increases. We will return to electrostatic energy several times 
+throughout the book.
+One of our goal

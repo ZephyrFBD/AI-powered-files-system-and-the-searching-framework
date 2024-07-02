@@ -1,0 +1,50 @@
+” divided by the time interval is
+Time dilation, if not accounted for, would introduce an error of about 1 part 
+in 
+which is 1000 times greater than the precision of the atomic clocks. Not
+correcting for time dilation means a receiver could give much poorer position
+accuracy.
+NOTE GPS devices must make other corrections as well, including effects
+associated with general relativity.
+1010,
+L 1 * 10–10.
+= 9 * 10–11
+A¢t - ¢t0B
+¢t0
+= 1 + 9 * 10–11 - 1
+= A1 + 9 * 10–11B ¢t0 .
+¢t = A1 +
+1
+2 A1.8 * 10–10BB ¢t0
+(1 - x)- 1
+2 L 1 + 1
+2 x.
+x V 1
+(16x)n L 16nx
+=
+1
+31 - 1.8 * 10–10 ¢t0 .
+=
+1
+C1 - ¢ 4 * 103 ms
+3 * 108 ms
+≤
+2 ¢t0
+¢t =
+1
+C1 - v2
+c2
+¢t0
+v = 4000 ms
+1013.
+4 kms = 4000 ms.
+CONCEPTUAL EXAMPLE 26;4
+1013.
+*
+P H Y S I C S  A P P L I E D
+Global positioning system
+(GPS)
+26–5 Length Contraction
+Time intervals are not the only things different in different reference frames.
+Space intervals—lengths and distances—are different as well, according to the 
+special theory of relativity, and we il

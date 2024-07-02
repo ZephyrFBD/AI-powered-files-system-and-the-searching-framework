@@ -1,0 +1,27 @@
+8 m?
+63. An energy-absorbing car bumper has a spring constant of
+Find the maximum compression of the bumper
+if the car, with mass 1300 kg, collides with a wall at a speed
+of 
+(approximately 
+).
+64. The length of a simple pendulum is 0.72 m, the pendulum
+bob has a mass of 295 g, and it is released at an angle of 12°
+to the vertical. Assume SHM. (a) With what frequency
+does it oscillate? (b) What is the pendulum bob’s speed
+when it passes through the lowest point of the swing?
+(c) What is the total energy stored in this oscillation assum-
+ing no losses?
+65. A block of mass M is suspended from a ceiling by a spring
+with spring stiffness constant k. A penny of mass m is
+placed on top of the block. What is the maximum amplitude
+of oscillations that will allow the penny to just stay on top
+of the block? (Assume
+)
+66. A block with mass
+rests on a frictionless table
+and is attached by a horizontal spring
+to a
+wall. A second block, of mass
+rests on top 
+of M. The coefficient of static friction 

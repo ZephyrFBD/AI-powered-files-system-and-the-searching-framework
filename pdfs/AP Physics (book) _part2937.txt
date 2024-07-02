@@ -1,0 +1,15 @@
+ins a meal at 7:00 and finishes at 7:15, according to
+a clock on the train. The two events, beginning and ending the meal, take place at
+the same point on the train, so the “proper time” between these two events is 
+15 min. To observers on Earth, the plate is moving and the meal will take
+longer—20 min according to Eqs. 26–1. Let us assume that the meal was served
+on a 20-cm-diameter plate (its “proper length”). To observers on the Earth, the
+plate is moving and is only 15 cm wide (length contraction). Thus, to observers on
+the Earth, the meal looks smaller but lasts longer.
+500 m - 80 m = 420 m
+CONCEPTUAL EXAMPLE 26;7
+In a sense the two effects, time dilation and length contraction, balance each
+other. When viewed from the Earth, what an object seems to lose in size it gains
+in length of time it lasts. Space, or length, is exchanged for time.
+Considerations like this led to the idea of four-dimensional space–time:
+space takes up three dimensions and time is a fourth dimension. Space a

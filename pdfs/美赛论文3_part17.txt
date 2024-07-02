@@ -1,0 +1,61 @@
+ate axis
+q
+The source intensity
+g
+Gravitational acceleration
+f
+Cauchy coefficient
+'
+m
+Roughness coefficient of the river bed
+'
+n
+Viscidity coefficient
+Table 2: variable declaration
+2.2.2 Constant declaration
+Symbol
+Value
+k
+0.6
+/ (
+)
+w
+m K
+
+c
+3
+1000
+/
+kg m
+
+4200 / (kg
+)
+J
+K
+
+2
+a
+2
+k
+a
+c
+
+Table 3: constant declaration
+2.2.3 Model process
+The model can be divided into the following three stages:
+(1) The stage of adding water: the time from adding water to stopping adding water,
+which is as long as 1
+t ;
+(2) The stage of fusion: the time from stopping adding water to the temperature of the
+water in the bathtub becoming even, which is as long as 2
+t ;
+(3) The stage of becoming cool: the time from the temperature of the water in the
+bathtub becoming even to the temperature of the water in the bathtub getting as cool
+as
+2
+u .
+2.2.4 Model assumptions
+
+The overflow drain is on the opposite side to the single faucet
+
+Generally speaking, the time people take to have a hot bath usually rang

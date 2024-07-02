@@ -1,0 +1,11 @@
+ctions and produces organelles, proteins, and enzymes. For
+example, during G1, the cell produces all of the enzymes required for DNA replication (DNA helicase, DNA
+polymerase, and DNA ligase, which are explained later in this chapter). By the way, G stands for “gap,” but we can
+also associate it with “growth.” These three phases are highly regulated by checkpoints and special proteins called
+cyclins and cyclin-dependent kinases (CDKs).
+Cell cycle checkpoints are control mechanisms that make sure cell division is happening properly in eukaryotic
+cells. They monitor the cell to make sure it is ready to progress through the cell cycle and stop progression if it is
+not. In eukaryotes, checkpoint pathways function mainly at phase boundaries (such as the G1/S transition and the
+G2/M transition). Checkpoint pathways are an example of an important cell signaling pathway inside cells.
+For example, if the DNA genome has been damaged in some way, the cell should not divide. If it does, damaged
+DN

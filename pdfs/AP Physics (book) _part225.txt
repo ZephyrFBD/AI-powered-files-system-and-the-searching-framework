@@ -1,0 +1,29 @@
+l distance
+did it travel?
+15.5 ms
+y
+y = 0
+y = 75 m
+FIGURE 2;48
+Problem 71.
+74. A car is behind a truck going 
+on the highway. The
+car’s driver looks for an opportunity to pass, guessing that
+his car can accelerate at 
+and that he has to
+cover the 20-m length of the truck, plus 10-m extra space at
+the rear of the truck and 10 m more at the front of it. In the
+oncoming lane, he sees a car approaching, probably at the
+speed limit,
+(55 mph). He estimates that the car is
+about 500 m away. Should he attempt the pass? Give details.
+75. Agent Bond is standing on a bridge, 15 m above the road
+below, and his pursuers are getting too close for comfort.
+He spots a flatbed truck approaching at 
+which he
+measures by knowing that the telephone poles the truck is
+passing are 25 m apart in this region. The roof of the truck
+is 3.5 m above the road, and Bond quickly calculates how
+many poles away the truck should be when he drops down
+from the bridge onto the truck, making his getaway. How
+many poles 

@@ -1,0 +1,14 @@
+ency, the swing bounces around and reaches no great amplitude.
+But if you push with a frequency equal to the natural frequency of the swing, the
+amplitude increases greatly. At resonance, relatively little effort is required to
+obtain and maintain a large amplitude.
+The great tenor Enrico Caruso was said to be able to shatter a crystal goblet
+by singing a note of just the right frequency at full voice. This is an example of
+resonance, for the sound waves emitted by the voice act as a forced oscillation on
+the glass. At resonance, the resulting oscillation of the goblet may be large enough
+in amplitude that the glass exceeds its elastic limit and breaks (Fig. 11–19).
+Since material objects are, in general, elastic, resonance is an important phe-
+nomenon in a variety of situations. It is particularly important in construction,
+although the effects are not always foreseen. For example, it has been reported
+that a railway bridge collapsed because a nick in one of the wheels of a crossing
+t

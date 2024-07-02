@@ -1,0 +1,46 @@
+R O B L E M  S O L V I N G
+You can choose y to be positive
+either up or down
+†The speed of an object falling in air (or other fluid) does not increase indefinitely. If the object falls
+far enough, it will reach a maximum velocity called the terminal velocity due to air resistance.
+34
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+(a)
+(b)
+40
+30
+20
+10
+y (m)
+2
+0
+1
+3
+t (s)
+y = 0
+y3 = 44.1 m
+(After 3.00 s)
+y2 = 19.6 m
+(After 2.00 s)
+y1 = 4.90 m
+(After 1.00 s)
++y
+Acceleration
+due to
+gravity
++y
+FIGURE 2;22 Example 2–10. (a) An
+object dropped from a tower falls
+with progressively greater speed 
+and covers greater distance with
+each successive second. (See also
+Fig. 2–19.) (b) Graph of y vs. t.
+SECTION 2–7
+Freely Falling Objects
+35
+Thrown down from a tower. Suppose the ball in 
+Example 2–10 is thrown downward with an initial velocity of 
+instead of
+being dropped. (a) What then would be its position after 1.00 s and 2.00 s?
+(b) What would its speed be after 1.00 s and 2.00 s? Compare w

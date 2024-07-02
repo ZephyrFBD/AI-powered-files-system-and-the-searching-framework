@@ -1,0 +1,38 @@
+T, SPET
+MRI, and CT scans (discussed in Chapter 25).
+MRI makes use of nuclear magnetic resonance (NMR).]
+(= SPECT),
+1 Sv = 100 rem.
+rem = rad * RBE,
+1 Gy = 1 Jkg = 100 rad.
+10–2 Jkg
+1 Bq = 1 decays.
+1 Ci = 3.70 * 1010
+Summary
+1. Fill in the missing particles or nuclei:
+(a)
+(b)
+(c)
+(d)
+where d stands for deuterium.
+2. When 
+is bombarded by deuterons 
+an 
+particle
+is emitted. What is the resulting nuclide? Write down the
+reaction equation.
+3. Why are neutrons such good projectiles for producing
+nuclear reactions?
+4. What is the Q-value for radioactive decay reactions?
+(a)
+(b)
+(c)
+(d) The sign of Q depends on the nucleus.
+5. The energy from nuclear fission appears in the form of
+thermal energy—but the thermal energy of what?
+6. (a) If 
+released only 1.5 neutrons per fission on average
+(instead of 2.5), would a chain reaction be possible? (b) If
+so, how would the chain reaction be different than if 
+3 neutrons were released per fission?
+7. Why can’t uranium be enriched by chemical means

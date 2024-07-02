@@ -1,0 +1,11 @@
+hanges.
+You are investigating how the crustacean Daphnia responds to changes in temperature. You expose Daphnia to
+temperatures of 5°C, 10°C, 15°C, 20°C, 25°C, and 30°C. You count the number of heartbeats/sec in each case.
+Temperature is the independent variable (you are manipulating it), and number of heartbeats/sec is the dependent
+variable (you observe how it changes in response to different temperatures).
+You design an experiment to investigate the effect of exercise on pulse rate and blood pressure. The physiological
+conditions (independent variable, or variable you manipulate) include sitting, exercising, and recovering at various
+intervals following exercise. You make two kinds of measurements (two dependent variables) to evaluate the effect
+of the physiological conditions—pulse rate and blood pressure.
+2. Describe the experimental treatment. The experimental treatment (or treatments) is the various values that you
+assign to the independent variable. The experimental treatments 

@@ -1,0 +1,13 @@
+ross investigating the traits of stem length (tall or
+dwarf) and flower color (purple or white) is a dihybrid cross. Another example is a cross investigating seed color
+(yellow, green) and seed texture (round, wrinkled).
+Figure 8-2
+Complete Dominance, Monohybrid Cross
+When traits are expressed as if one allele is dominant to a second allele, the inheritance pattern is called complete
+(or full) dominance. Take, for example, a monohybrid cross, in which a single trait (originating from a single
+gene) is examined. For pea plants, let T a dominant allele, represent the allele for tall stems and t, the recessive
+allele, represent the allele for dwarf stems. For inheritance by complete dominance, TT and Tt produce tall plants,
+and tt produces dwarf plants. Suppose that a plant heterozygous for tall stems (Tt) is crossed with a dwarf-stemmed
+plant (tt). The cross can be represented as Tt × tt. Now, what predictions can be made for the genotypes of the
+offspring?
+The first step in analyzing th

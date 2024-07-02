@@ -1,0 +1,39 @@
+onstants for the individual reactions:
+A + B ∆ C + D K1
+C + F ∆ G + A K2
+B + F ∆ D + G K3 = 1K121K22
+Given the reactions
+HF1aq2 ∆ H+1aq2 + F-1aq2       Kc = 6.8 * 10-4
+H2C2O41aq2 ∆ 2 H+1aq2 + C2O4
+2 -1aq2  Kc = 3.8 * 10-6
+determine the value of Kc for the reaction
+2 HF1aq2 + C2O4
+2 -1aq2 ∆ 2 F-1aq2 + H2C2O41aq2
+Solve
+If we multiply the ﬁrst 
+equation by 2 and make the 
+corresponding change to its 
+equilibrium constant (raising 
+to the power 2), we get
+2 HF1aq2 ∆ 2 H+1aq2 + 2 F-1aq2
+Kc = 16.8 * 10-422 = 4.6 * 10-7
+Reversing the second equa-
+tion and again making the 
+corresponding change to its 
+equilibrium constant (taking 
+the reciprocal) gives
+2 H+1aq2 + C2O4
+2 -1aq2 ∆ H2C2O41aq2
+Kc =
+1
+3.8 * 10-6 = 2.6 * 105
+Now, we have two equations 
+that sum to give the net equa-
+tion, and we can multiply the 
+individual Kc values to get the 
+desired equilibrium constant.
+           2 HF1aq2 ∆ 2 H+1aq2 + 2 F-1aq2
+2 H+1aq2 + C2O4
+2 -1aq2 ∆ H2C2O41aq2
+2 HF1aq2 + C2O4
+2 -1aq2 ∆ 2 F -1aq2 + H2C2O41aq

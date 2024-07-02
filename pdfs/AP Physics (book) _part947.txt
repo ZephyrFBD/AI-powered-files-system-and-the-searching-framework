@@ -1,0 +1,30 @@
+hen 
+will contribute negative torques. Thus 
+gives
+Solving for 
+and putting in the values for 
+given in Fig.9–14b, we find
+where w is the total weight of the body. To get the components of 
+we use 
+the x and y components of the force equation (noting that
+):
+so
+and
+so
+where we keep 3 significant figures for calculating, but round off to 2 for giving
+the answer. Then
+The angle that 
+makes with the horizontal is given by
+so
+NOTE The force on the lowest vertebra is over 
+times the total body weight!
+This force is exerted by the “sacral” bone at the base of the spine, through the
+somewhat flexible intervertebral disk. The disks at the base of the spine are
+clearly being compressed under very large forces. [If the body was less bent
+over (say, the 30° angle in Fig. 9–14b becomes 40° or 50°), then the stress on the
+lower back will be less (see Problem 33).]
+If the person in Fig. 9–14 has a mass of 90 kg and is holding 20 kg in his hands
+(this increases 
+to 
+), then 
+is increased to almost fo

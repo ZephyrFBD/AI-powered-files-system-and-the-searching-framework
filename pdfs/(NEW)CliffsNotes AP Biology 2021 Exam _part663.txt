@@ -1,0 +1,14 @@
+ size will decrease. On the other hand, when births and deaths are equal, the growth rate is zero and the
+population size remains constant.
+Population ecologists describe two general patterns of population growth, as follows:
+ 
+1. Exponential growth occurs whenever the reproductive rate, as described by the equation
+ 
+is greater than zero. On a graph where population size is plotted against time, a plot of exponential growth
+rises quickly, forming a J-shaped curve (Figure 16-3): 
+Figure 16-3
+2. Logistic growth occurs when limiting factors restrict the size of the population to the carrying capacity of the
+habitat. In this case, the equation for reproductive rate given above is modified as follows:
+K represents the carrying capacity. In logistic growth, when the size of the population increases, its reproductive rate
+decreases until, at carrying capacity (that is, when N = K), the reproductive rate is zero and the population size
+stabilizes. A plot of logistic growth forms an S-shaped, 

@@ -1,0 +1,80 @@
+ 
+SOLUTION We solve for in Eq. 21–3:
+NOTE In actual practice, an alternating current is used to produce an alternating
+magnetic field. The induced emf is then alternating.
+v =
+e
+Bl
+=
+A1.0 * 10–4 VB
+(0.080 T)A2.0 * 10–3 mB
+= 0.63 ms.
+v
+v.
+v
+B
+B
+B
+l = 2.0 mm
+B
+B
+v
+EXAMPLE 21;6
+l
+B
+B
+v
+B
+v
+B
+–
+(a)
+(b)
+(outward)
+Force on
+electron
+t
+ΔA
++
+–
+Δ
+v
+e
+S
+Voltmeter
+N
+v
+B
+l
+FIGURE 21–13 Measurement of
+blood velocity from the induced emf.
+Example 21–6.
+FIGURE 21–12 Example 21–5.
+FIGURE 21–11 (a) A conducting
+rod is moved to the right on a
+conductor in a uniform
+magnetic field 
+that points out of
+the page. The induced current is
+clockwise. (b) Upward force on an
+electron in the metal rod (moving to
+the right) due to 
+pointing out of
+the page; hence electrons can collect
+at the top of the rod, leaving
+at the bottom.
+± charge
+B
+B
+B
+B
+U-shaped
+V
+t
+SECTION 21–5
+Electric Generators
+597
+2
+1–4 Changing Magnetic Flux
+Produces an Electric Field
+We have seen that a changing magnetic flux induces an emf. In a c

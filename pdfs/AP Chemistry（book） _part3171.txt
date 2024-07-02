@@ -1,0 +1,27 @@
+ ¡ Cu2+1aq2 + NO21g2
+2 Cl-1aq2 ¡ Cl21g2
+We can check this result by looking at the 
+oxidation state changes. Each chromium atom 
+goes from +6 to +3, gaining three electrons; 
+therefore, the two Cr atoms in Cr2O7
+2- gain six 
+electrons, in agreement with our half-reaction.
+In the second half-reaction, two Cl- are 
+required to balance one Cl2:
+We add two electrons to the right side to 
+attain charge balance:
+2 Cl-1aq2 ¡ Cl21g2 + 2 e-
+This result agrees with the oxidation state 
+changes. Each chlorine atom goes from -1 
+to 0, losing one electron; therefore, the two 
+chlorine atoms lose two electrons.
+Step 3: We equalize the number of electrons 
+transferred in the two half-reactions. To do 
+so, we multiply the Cl half-reaction by 3 so 
+that the number of electrons gained in the 
+Cr half-reaction (6) equals the number lost in 
+the Cl half-reaction, allowing the electrons to 
+cancel when the half-reactions are added:
+6 Cl-1aq2 ¡ 3 Cl21g2 + 6 e-
+Step 4: The equations are added to give the 
+ba

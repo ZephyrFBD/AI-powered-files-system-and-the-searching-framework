@@ -1,0 +1,12 @@
+ determined the genetic
+basis of that phenotype, modern techniques allow researchers to start at the DNA sequence level and ask: "What does
+this gene or DNA element do?" This technique, called reverse genetics, has resulted in reversing the classic genetic
+690
+Chapter 17 | Biotechnology and Genomics
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+methodology. This method would be similar to damaging a body part to determine its function. An insect that loses a wing
+cannot fly, which means that the function of the wing is flight. The classical genetic method would compare insects that
+cannot fly with insects that can fly, and observe that the non-flying insects have lost wings. Similarly, mutating or deleting
+genes provides researchers with clues about gene function. The methods used to disable gene function are collectively called
+gene targeting. Gene targeting is the use of recombinant DNA vectors to alter the expression of a particular gene, either
+by 

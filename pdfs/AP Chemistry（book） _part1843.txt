@@ -1,0 +1,13 @@
+ cell. In two dimensions the unit cells must tile, or fit together in space, 
+in such a way that they completely cover the area of the lattice with no gaps. In three 
+dimensions, the unit cells must stack together to fill all space.
+In a two-dimensional lattice, the unit cells can take only one of the five shapes 
+shown in Figure 12.4. The most general type of lattice is the oblique lattice. In this lattice, 
+the lattice vectors are of different lengths and the angle g between them is of arbitrary 
+size, which makes the unit cell an arbitrarily shaped parallelogram. The square lattice, 
+rectangular lattice, hexagonal lattice,** and rhombic lattice have a unique combination 
+of g angle and relationship between the lengths of lattice vectors a and b (shown in 
+Figure 12.4). For a rhombic lattice an alternative unit cell can be drawn, a rectangle with 
+lattice points on its corners and its center (shown in green in Figure 12.4). Because of this, 
+Iron pyrite (FeS2), a crystalline solid
+Ob

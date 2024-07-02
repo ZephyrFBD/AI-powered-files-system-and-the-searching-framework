@@ -1,0 +1,12 @@
+uce interleukins to stimulate a proliferation of T cells and B cells. When helper T cells bind
+with macrophages, they release interleukins, or chemicals for communicating “between leukocytes.” The
+interleukins initiate a sequence of positive-feedback events that result in the proliferation of interleukins,
+macrophages, helper T cells, B cells, and cytotoxic T cells.
+2. The humoral response (or antibody-mediated response) involves most cells and responds to antigens or
+pathogens that are circulating in the lymph or blood (humor is a medieval term for body fluid). The humoral
+response includes the following events:
+B cells produce plasma cells. The plasma cells, in turn, release antibodies that bind with antigens or antigen-
+bearing pathogens.
+B cells produce memory cells . Memory cells provide future immunity.
+Macrophage and helper T cells stimulate B cell production. In many cases, the antigen will not directly stimulate
+the proliferation of B cells. Instead, the antigen or antigen-bea

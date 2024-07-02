@@ -1,0 +1,20 @@
+ N 2s atomic orbital. As a result, the s
+2s MO has a slightly 
+greater contribution from O than from N—the orbital is no longer an equal mixture of 
+the two atoms, as was the case for the homonuclear diatomic molecules. Similarly, the 
+s*
+2s antibonding MO is weighted more heavily toward the N atom because that MO is 
+closest in energy to the N 2s atomic orbital.
+We complete the MO diagram for NO by filling the MOs in Figure 9.46 with the 11 
+valence electrons. Eight bonding and three antibonding electrons give a bond order of 
+1
+218 - 32 = 21
+2, which agrees better with experiment than the Lewis structures do. The 
+unpaired electron resides in one of the p*
+2p MOs, which have a greater contribution 
+ 
+from the N atom. (We could have placed this electron in either the left or right p*
+2p MO.) 
+Thus, the Lewis structure that places the unpaired electron on nitrogen (the one pre-
+ferred on the basis of formal charge) is the more accurate description of the true electron 
+distribution in 

@@ -1,0 +1,49 @@
+>3A4 can be expressed in terms of 
+reaction rates by rearranging Equation 15.26
+ 
+K =
+3B4
+3A4 =
+kf
+kr
+ 
+[15.27]
+It’s instructive to consider shifts in equilibrium through the lens 
+of Equation 15.27.  If the reaction in question is an endothermic reac-
+tion, a decrease in temperature will lead to a decrease in K, thereby 
+shifting the equilibrium to the left. Equation 15.27 tells us that in 
+order for K to decrease, the rate constant of the forward reaction kf 
+must decrease by a larger amount than the rate constant of the reverse 
+reaction kr.
+To understand why kf decreases faster than kr consider the rela-
+tionship between reaction rate and activation energy, Ea.  For the sake 
+of illustration, consider the effect of decreasing the temperature from 
+T1 = 400 K to T2 = 300 K. We can calculate the change in the for-
+ward rate constant using Equation 14.23:
+ 
+ ln 
+kf 1
+kf 2
+=
+Ea1forward2
+R
+a 1
+T
+2
+- 1
+T
+1
+b 
+[15.28]
+ ln 
+kf 1
+kf 2
+=
+Ea1forward2
+R
+a
+1
+300 K -
+1
+400 K b = 1200 
+Ea1forward

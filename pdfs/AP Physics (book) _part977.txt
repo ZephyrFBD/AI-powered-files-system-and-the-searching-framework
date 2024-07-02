@@ -1,0 +1,47 @@
+rger domes built, the largest
+being that of the Superdome in New Orleans, completed in 1975. Its 200-m-diameter
+dome is made of steel and concrete.
+F
+H = 1.5 * 104 N
+–(2.0 m)A6.0 * 104 NB + (4.0 m)A6.0 * 104 NB - (8.0 m)AF
+HB
+= 0.
+F
+H = 3.0 * 104 N
+–(2.0 m)A6.0 * 104 NB + (4.0 m)A6.0 * 104 NB - (4.0 m)AF
+HB
+= 0.
+F
+H,
+F
+V
+(©t = 0)
+F
+H,
+6.0 * 104 N.
+6.0 * 104 N
+12.0 * 104 N  (= 12,000 kg * g)
+FIGURE 9–33 The skyline of 
+Florence, showing Brunelleschi’s 
+dome on the cathedral.
+Summary
+249
+FV
+FH
+38°
+(b)
+(a)
+FIGURE 9–34 Example 9–13.
+(a) The dome of the Small Sports 
+Palace in Rome, built by Pier Luigi Nervi
+for the 1960 Olympics. (b) The force 
+components each buttress exerts 
+on the dome.
+A modern dome. The
+dome of the Small Sports
+Palace in Rome (Fig. 9–34a) is supported by 36 buttresses positioned at a 
+38° angle so that they connect smoothly with the dome. Calculate the compo-
+nents of the force,
+and 
+that each buttress exerts on the dome so that the
+force acts purely in compression—th

@@ -1,0 +1,18 @@
+s moving outward
+even though no object exerts a force on it. This is therefore not an inertial frame. See Appendix C,
+Fig. C–1.
+FIGURE 26–1 Albert Einstein
+(1879–1955), one of the great minds
+of the twentieth century, was the
+creator of the special and general
+theories of relativity.
+26–1 Galilean–Newtonian Relativity
+Einstein’s special theory of relativity deals with how we observe events, particu-
+larly how objects and events are observed from different frames of reference.†
+This subject had already been explored by Galileo and Newton.
+The special theory of relativity deals with events that are observed and meas-
+ured from so-called inertial reference frames (Section 4–2 and Appendix C),
+which are reference frames in which Newton’s first law is valid: if an object
+experiences no net force, the object either remains at rest or continues in motion
+with constant speed in a straight line. It is usually easiest to analyze events when
+they are observed and measured by observers at rest in 

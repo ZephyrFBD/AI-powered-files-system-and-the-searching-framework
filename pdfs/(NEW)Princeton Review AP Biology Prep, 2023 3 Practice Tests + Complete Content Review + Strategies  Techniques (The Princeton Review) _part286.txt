@@ -1,0 +1,14 @@
+ have 39 chromosomes. It turns out that most eukaryotic cells in fact have two full
+sets of chromosomes—one set from each parent. Humans, for example, have two sets of 23 chromosomes, giving us
+our grand total of 46.
+A cell that has two sets of chromosomes is a diploid cell, and the zygotic chromosome number is given as “2n.”
+That means we have two copies of each chromosome.
+Remember that the n stands for the number of unique chromosomes.
+If a cell has only one set of chromosomes, we call it a haploid cell. This kind of cell is given the symbol n. For
+example, we would say that the haploid number of chromosomes for humans is 23.
+Remember:
+Diploid refers to any cell that has two sets of chromosomes.
+Haploid refers to any cell that has one set of chromosomes.
+Why do we need to know the terms haploid and diploid? Because they are extremely important when it comes to
+sexual reproduction. As we’ve seen, 46 is the normal diploid number for human beings, but there are only 23
+different chromo

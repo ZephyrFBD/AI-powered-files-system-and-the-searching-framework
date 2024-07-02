@@ -1,0 +1,39 @@
+ughout that region must be zero.
+5. If it takes an amount of work W to move two 
+point
+charges from infinity to a distance d apart from each other,
+then how much work should it take to move three 
+point
+charges from infinity to a distance d apart from each other?
+(a) 2W.
+(b) 3W.
+(c) 4W.
+(d) 6W.
+6. A proton 
+and an electron 
+are in a
+constant electric field created by oppositely charged plates.
+You release the proton from near the positive plate and the
+electron from near the negative plate. Which feels the larger
+electric force?
+(a) The proton.
+(b) The electron.
+(c) Neither—there is no force.
+(d) The magnitude of the force is the same for both and in
+the same direction.
+(e) The magnitude of the force is the same for both but in
+opposite directions.
+(Q = –e)
+(Q = ±e)
+±q
+±q
+E = V
+E Z 0,  V = 0.
+E Z 0,  V Z 0.
+E = 0,  V Z 0.
+E = 0,  V = 0.
+±0.4 mC
+±0.2 mC
+7. When the proton and electron in MisConceptual Question 6
+strike the opposite plate, which one has more kinetic energy?
+(a) The proto

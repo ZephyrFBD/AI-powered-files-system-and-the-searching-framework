@@ -1,0 +1,45 @@
+gnitude
+and z component
+When an external magnetic field is applied, the spectral
+lines are split (the Zeeman effect), indicating that the energy
+depends also on 
+in this case.
+ml
+Lz = mlU.
+L = 2l(l + 1) U
+l.
+– 1
+2 .
+± 1
+2
+ms,
+±l;
+–l
+ml ,
+n - 1;
+l,
+(1, 2, 3, p)
+ms:
+l, ml ,
+(¢E)(¢t) g U.
+¢t,
+¢E
+A¢pxB(¢x) g U.
+U (= h2p):
+(¢x)A¢pxB,
+px
+Even in the absence of a magnetic field, precise measure-
+ments of spectral lines show a tiny splitting of the lines called
+fine structure, whose explanation is that the energy depends
+very slightly on 
+and 
+Transitions between states that obey the selection rule
+are far more probable than other so-called
+forbidden transitions.
+The arrangement of electrons in multi-electron atoms is
+governed by the Pauli exclusion principle, which states that no
+two electrons can occupy the same quantum state—that is, they
+cannot have the same set of quantum numbers n,
+and
+As a result, electrons in multi-electron atoms are grouped
+into shells (according to the value of n) a

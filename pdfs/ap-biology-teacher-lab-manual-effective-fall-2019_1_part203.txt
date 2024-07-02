@@ -1,0 +1,12 @@
+thematical equations, several of which are based on the Hardy-
+Weinberg (H-W) equilibrium. Students (and their teachers) have traditionally found the 
+topic of population genetics in an introductory biology class to be challenging, due in 
+part to the fact that for the last couple of generations biology has been thought of as the 
+science with only a minimal mathematics foundation — particularly in comparison to 
+chemistry or physics. Modern biology, however, is vastly different.  
+One of the specific difficulties of the H-W null hypothesis is that it is the null 
+hypothesis — it is what would happen to allele frequencies in the absence of any 
+evolutionary parameter. This is counterintuitive for most students. H-W is the standard 
+by which evolution can be measured. To that end, most simulations that try to create 
+a population manipulated by students to model H-W are flawed from the beginning. 
+Student classroom populations, by definition, are so small that genetic drift will swamp 

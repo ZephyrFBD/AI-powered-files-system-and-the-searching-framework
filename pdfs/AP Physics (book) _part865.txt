@@ -1,0 +1,50 @@
+ular velocity,
+is defined as the rate of change of
+angular position:
+(8;2)
+All parts of a rigid object rotating about a fixed axis have the
+same angular velocity at any instant.
+Angular acceleration,
+is defined as the rate of change of
+angular velocity:
+(8;3)
+The linear velocity v and acceleration a of a point located
+a distance r from the axis of rotation are related to 
+and 
+by
+(8;4)
+(8;5)
+(8;6)
+where 
+and 
+are the tangential and radial (centripetal)
+components of the linear acceleration, respectively.
+The frequency f is related to 
+by
+(8;7)
+and to the period T by
+(8;8)
+If a rigid object undergoes uniformly accelerated rotational
+motion 
+equations analogous to those for linear
+motion are valid:
+(8;9)
+The torque due to a force 
+exerted on a rigid object is
+equal to
+(8;10)
+where 
+called the lever arm, is the perpendicular distance
+from the axis of rotation to the line along which the force acts,
+and is the angle between 
+and r.
+F
+B
+u
+r⊥,
+t = r⊥F = rF
+⊥= rF sin u,
+F
+B
+v2 = v0
+2 + 2au,  

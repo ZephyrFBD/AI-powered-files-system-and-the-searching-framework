@@ -1,0 +1,55 @@
+
+(a) Set (iii) has a positive potential energy because the charges have the same
+sign. (b) Both (i) and (ii) have opposite signs of charge and negative 
+.
+Because r is smaller in (i), the 
+is most negative for (i). (c) Set (i) will require
+the most work for separation to infinity. The more negative the potential
+energy, the more work required to separate the charges and bring the 
+up to
+zero 
+as in Fig. 17–9b.
+(r = q),
+pe
+pe
+pe
+pe = k Q1 Q2
+r
+.
+W
+ext = Q2V = k Q1 Q2
+r
+(q)
+Q2
+Q1
+(±)
+(q).
+Q2 .
+Q1
+CONCEPTUAL EXAMPLE 17;7
+EXERCISE D Return to the Chapter-Opening Question, page 473, and answer it again
+now. Try to explain why you may have answered differently the first time.
+(b) At point B,
+so
+= 0 V.
++
+A9.0 * 109 Nm2C2BA –5.0 * 10–5 CB
+0.40 m
+=
+A9.0 * 109 Nm2C2BA5.0 * 10–5 CB
+0.40 m
+V
+B = V
+B2 + V
+B1
+r1B = r2B = 0.40 m,
+= 7.5 * 105 V.
+= 1.50 * 106 V - 0.75 * 106 V
++
+A9.0 * 109 Nm2C2BA –5.0 * 10–5 CB
+0.60 m
+V
+A =
+A9.0 * 109 Nm2C2BA5.0 * 10–5 CB
+0.30 m
+NOTE The two terms in the sum in

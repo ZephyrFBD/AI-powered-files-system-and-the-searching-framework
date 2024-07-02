@@ -1,0 +1,15 @@
+effect of 
+one of the variables on volume, with the remaining two variables held constant.
+The Pressure–Volume Relationship: Boyle’s Law
+Gas volume increases as the pressure exerted on the gas decreases. Thus, an inflated 
+weather balloon released at the Earth’s surface expands as it rises (Figure 10.4) because the 
+pressure of the atmosphere decreases with increasing elevation.
+The British chemist Robert Boyle (1627–1691) was the first person to investigate the 
+quantitative relationship between the pressure of a gas and its volume. He found, for 
+example, that decreasing the pressure of a gas to half its original value causes the volume 
+to double. Conversely, doubling the pressure causes the volume to decrease to half its 
+original value.
+Boyle’s law, which summarizes these observations, states that:
+The volume of a fixed quantity of gas maintained at constant temperature  
+is inversely proportional to the pressure.
+When two measurements are inversely proportional, one gets smaller 

@@ -1,0 +1,45 @@
+sts of a small object (the pendulum bob) suspended
+from the end of a lightweight cord, Fig. 11–11. We assume that the cord does not
+stretch and that its mass can be ignored relative to that of the bob. The motion of
+a simple pendulum moving back and forth with negligible friction resembles sim-
+ple harmonic motion: the pendulum bob oscillates along the arc of a circle with
+equal amplitude on either side of its equilibrium point, and as it passes through
+the equilibrium point (where it would hang vertically) it has its maximum speed.
+But is it really undergoing SHM? That is, is the restoring force proportional to its
+displacement? Let us find out.
+amax = kAm.
+a =
+F
+m =
+–kx
+m
+= – a kA
+m b cos vt = –amax cos(2ptT)
+vmax
+vmax = 2pAf = A B
+k
+m
+.
+t = T
+t = 1
+2 T
+u = 180° = p
+t = 1
+2 T
+t = 0,
+v = –vmax sin vt = –vmax sin(2pft) = –vmax sin(2ptT).
+u = vt = 2pft = 2ptT,
+v = –vmax sin u.
+v
+B
+vmax sin u,
+t
+*
+x = A.
+x = 0
+t = 0
+x = A sin vt = A sin(2ptT).
+(±x),
+t = 0
+SECTION 11–4
+The Simple Pen

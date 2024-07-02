@@ -1,0 +1,47 @@
+be consistent with Coulomb’s law, is 
+so
+we have
+(16;9)
+where the sum 
+is over any closed surface, and 
+is the net charge enclosed
+within that surface. This is Gauss’s law.
+Coulomb’s law and Gauss’s law can be used to determine the electric field
+due to a given (static) charge distribution. Gauss’s law is useful when the charge
+distribution is simple and symmetrical. However, we must choose the closed
+“gaussian” surface very carefully so we can determine 
+We normally choose a
+surface that has just the symmetry needed so that E will be constant on all or on
+parts of its surface.
+E
+B.
+Qencl
+(©)
+a
+closed
+surface
+E⊥¢A = Qencl
+0
+,
+10 ,
+£E =
+a
+closed
+surface
+E⊥¢A r Qencl.
+£E.
+Qencl.
+©
+=
+a E ¢A cos u =
+a E⊥¢A,
+£E = E1 ¢A1 cos u1 + E2 ¢A2 cos u2 + p
+¢A.
+¢A
+¢A1 , ¢A2, ¢A3 , p ,
+*SECTION 16–12
+Gauss’s Law
+465
+The results of Example 16–12 also apply to a uniform solid spherical conductor
+that is charged, since all the charge would lie in a thin layer at the surface
+(Section 16–9). In particula

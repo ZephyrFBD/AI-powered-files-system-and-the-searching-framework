@@ -1,0 +1,22 @@
+s a vector, pressure is a scalar. Pressure has magnitude only. The
+SI unit of pressure is 
+This unit has the official name pascal (Pa), in honor
+of Blaise Pascal (see Section 10–5); that is,
+However, for sim-
+plicity, we will often use 
+Other units sometimes used are 
+and
+(pounds per square inch, abbreviated “psi”). Several other units for pressure
+are discussed in Sections 10–4 and 10–6, along with conversions between them
+(see also the Table inside the front cover).
+Calculating pressure. A 60-kg person’s two feet cover 
+an area of 
+(a) Determine the pressure exerted by the two feet on the
+ground. (b) If the person stands on one foot, what will be the pressure under
+that foot?
+APPROACH Assume the person is at rest. Then the ground pushes up on her
+with a force equal to her weight mg, and she exerts a force mg on the ground
+where her feet (or foot) contact it. Because
+then
+SOLUTION (a) The pressure on the ground exerted by the two feet is
+(b) If the person stands on one foot, the force

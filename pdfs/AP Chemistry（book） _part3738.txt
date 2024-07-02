@@ -1,0 +1,13 @@
+ do come 
+closer to the ligands than the e set, and as a result they experience more repulsion and 
+are higher in energy. As we see in Figure 23.33, the splitting of d orbitals in a tetrahe-
+dral geometry is the opposite of what we find for the octahedral geometry, namely, 
+the e orbitals are now below the t2 orbitals. The crystal-field splitting energy ∆ is much 
+smaller for tetrahedral complexes than it is for comparable octahedral complexes, in 
+part because there are fewer ligand point charges in the tetrahedral geometry, and in 
+part because neither set of orbitals has lobes that point directly at the ligands. Calcula-
+tions show that for the same metal ion and ligand set, ∆ for the tetrahedral complex is 
+only four-ninths as large as for the octahedral complex. For this reason, nearly all tetra-
+hedral complexes are high spin; the crystal-field splitting energy is never large enough 
+to overcome the spin-pairing energies.
+In a square-planar complex, four ligands are arranged abou

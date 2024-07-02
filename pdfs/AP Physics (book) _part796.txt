@@ -1,0 +1,23 @@
+much simpler if
+we use the radian for angular measure. One radian (abbreviated rad) is defined
+as the angle subtended by an arc whose length is equal to the radius. For
+example, in Fig. 8–1b, point P is a distance r from the axis of rotation, and it has
+moved a distance along the arc of a circle. The arc length is said to “subtend”
+the angle 
+In radians, any angle is given by
+[ in radians] (8;1a)
+where r is the radius of the circle, and is the arc length subtended by the angle 
+specified in radians. If 
+then 
+The radian is dimensionless since it is the ratio of two lengths. Nonetheless
+when giving an angle in radians, we always mention rad to remind us it is not
+degrees. It is often useful to rewrite Eq. 8–1a in terms of arc length 
+(8;1b)
+Radians can be related to degrees in the following way. In a complete circle there
+are 360°, which must correspond to an arc length equal to the circumference of the
+circle,
+For a full circle,
+. Thus
+One radian is then 
+An object that makes one
+compl

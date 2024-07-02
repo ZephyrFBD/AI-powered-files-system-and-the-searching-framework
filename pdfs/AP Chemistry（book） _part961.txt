@@ -1,0 +1,22 @@
+med with knowledge of the relative energies of orbitals and the Pauli exclusion prin-
+ciple, we are in a position to consider the arrangements of electrons in atoms. The way 
+electrons are distributed among the various orbitals of an atom is called the electron 
+configuration of the atom.
+The most stable electron configuration—the ground state—is that in which the elec-
+trons are in the lowest possible energy states. If there were no restrictions on the possible 
+values for the quantum numbers of the electrons, all the electrons would crowd into the 
+1s orbital because it is the lowest in energy (Figure 6.25). The Pauli exclusion principle 
+Give It Some Thought
+In a many-electron atom, can we predict unambiguously whether the 4s orbital is 
+lower or higher in energy than the 3d orbitals?
+N
+S
+2
+2
+S
+N
+▲ Figure 6.26 Electron spin. The electron 
+behaves as if it were spinning about an axis, 
+thereby generating a magnetic field whose 
+direction depends on the direction of spin. 
+The two dir

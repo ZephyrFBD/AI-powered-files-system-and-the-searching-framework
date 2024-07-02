@@ -1,0 +1,17 @@
+uite reached, since at least a little thermal energy is always produced
+during a collision (also perhaps sound and other forms of energy). The col-
+lision of two hard elastic balls, such as billiard balls, however, is very close to
+being perfectly elastic, and we often treat it as such.
+We do need to remember that even when kinetic energy is not conserved,
+the total energy is always conserved.
+Collisions in which kinetic energy is not conserved are said to be inelastic
+collisions. The kinetic energy that is lost is changed into other forms of energy,
+often thermal energy, so that the total energy (as always) is conserved. In this case,
+See Fig. 7–12, and the details in its caption.
+7–5 Elastic Collisions in One Dimension
+We now apply the conservation laws for momentum and kinetic energy to an elastic
+collision between two small objects that collide head-on, so all the motion is along a
+line. To be general, we assume that the two objects are moving, and their velocities
+are 
+and 
+along 

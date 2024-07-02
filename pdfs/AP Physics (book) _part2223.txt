@@ -1,0 +1,39 @@
+s as in Figs. 18–19b and c. Magnetic circuit breakers react quickly 
+and for buildings are designed to react to the high currents of short circuits (but
+not shut off for the start-up surges of motors).
+In more sophisticated circuit breakers, including ground fault circuit inter-
+rupters (GFCIs—discussed in Section 21–9), a solenoid is used. The iron rod of
+Fig. 20–29, instead of striking a bell, strikes one side of a pair of electric contact
+points, opening them and opening the circuit. They react very quickly 
+and to very small currents 
+and thus protect humans (not just property)
+and save lives.
+(L 5 mA)
+(L 1 ms)
+(610 ms),
+Iron rod
+Bell
+Spring
+Switch
+Voltage
+Voltage
+I
+Closed path
+made up of
+segments of
+length Δl
+Area enclosed
+by the path
+I1
+I1
+I2
+I2
+FIGURE 20–30 Arbitrary path
+enclosing electric currents, for
+Ampère’s law. The path is broken
+down into segments of equal length 
+The total current enclosed by the
+path shown is Iencl = I1 + I2 .
+¢l.
+FIGURE 20–29 Solenoid used as a
+doorbe

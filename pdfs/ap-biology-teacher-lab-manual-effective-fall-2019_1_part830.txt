@@ -1,0 +1,30 @@
+ able to see that 80 mg of A are left in Process I; opposite Y you can see that 90 
+mg of A are left in Process II. Apparently, Process I has used up 20 mg of A and Process 
+II has used up only 10 mg in the same amount of time. Obviously, Process I is faster, and 
+the line graph for Process I is steeper than the graph for Process II. 
+1 
+2 
+3 
+4 
+5
+0 0 
+20 
+Mg of A Remaining 
+40 
+60 
+80 
+100 
+Process II 
+Process I 
+Time (hours)  
+Time Course of Disappearance of  
+A in Process I and II  
+Figure A.10 
+The rate for Process I is 20 mg A used/hr, while the rate for Process II is 10 mg A 
+used/hr. 
+We have seen that a steeper line graph means a faster reaction when the progress 
+curves for two reactions are plotted on the same scale. (Obviously, if the progress curves 
+are plotted on different scales, we cannot compare the steepness of the line directly, but 
+have to calculate what the slope would be if the two curves were plotted on the same 
+scale.) 
+Suppose, now, that we make a new kind o

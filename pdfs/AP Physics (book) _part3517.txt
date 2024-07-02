@@ -1,0 +1,52 @@
+TABLE 31–2 Medical Imaging T
+echniques
+Where Discussed
+Technique
+in This Book
+Optimal Resolution
+Conventional X-ray
+Section 25–12
+mm
+CT scan, X-ray
+Section 25–12
+mm
+Nuclear medicine (tracers)
+Section 31–7
+1 cm
+SPECT (single photon emission)
+Section 31–8
+1 cm
+PET (positron emission)
+Section 31–8
+2–5 mm
+MRI (NMR)
+Section 31–9
+mm
+Ultrasound
+Section 12–9
+0.3–2 mm
+1
+2–1
+1
+2
+1
+2
+FIGURE 31–26 A static field that is
+stronger at the bottom than at the
+top. The frequency of absorbed or
+emitted radiation is proportional to
+B in NMR.
+FIGURE 31–27 False-color NMR
+image (MRI) through the head
+showing structures in the brain.
+B low
+f low
+B high
+f high
+Patient
+Table 31–2 lists the major techniques we have discussed for imaging the
+interior of the human body, along with the optimum resolution attainable today.
+Resolution is only one factor that must be considered, because the different
+imaging techniques provide different types of information that are useful for
+different types of diagnosis.
+Questions

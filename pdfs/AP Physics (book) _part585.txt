@@ -1,0 +1,92 @@
+
+B
+(= F cos u,
+F
+∑∑
+*
+(cos 90° = 0).
+F
+B
+G
+u
+F
+B
+G
+CONCEPTUAL EXAMPLE 6;3
+142
+CHAPTER 6
+Work and Energy
+†Energy associated with heat is often not available to do work, as we will discuss in Chapter 15.
+Moon
+Earth
+G
+F
+B
+v
+B
+FIGURE 6–5 Example 6–3.
+200
+100
+0
+200
+100
+(a)
+dA
+dB
+Distance, d
+0
+dA
+dB
+Distance, d
+(b)
+Δd4
+F (N)
+F (N)
+(F )4
+FIGURE 6–6 Work done by a 
+force F is (a) approximately equal 
+to the sum of the areas of the 
+rectangles, (b) exactly equal to the
+area under the curve of 
+vs. d.
+F
+∑∑
+SECTION 6–3
+Kinetic Energy, and the Work-Energy Principle
+143
+Kinetic energy
+(defined)
+WORK-ENERGY PRINCIPLE
+WORK-ENERGY PRINCIPLE
+1
+2
+net
+F
+B
+net
+F
+B
+v
+B
+v
+B
+d
+B
+FIGURE 6–7 A constant net 
+force 
+accelerates a car from 
+speed 
+to speed 
+over a 
+displacement d. The net work done 
+is W
+net = F
+net d.
+v2
+v1
+F
+net
+C A U T I O N
+Work-energy valid only for net work
+A moving object can do work on another object it strikes. A flying cannonball
+does work on a brick wall it knocks down; a moving hammer

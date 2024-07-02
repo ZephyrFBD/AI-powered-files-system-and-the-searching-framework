@@ -1,0 +1,29 @@
+mple
+structure.
+Figure 10.17
+C.
+Mutational signatures of p53 are shown in the
+figure above [G.P. Pfeifer et al., Nature, 21(48),
+2002] for the three types of cancer with the
+highest death rates in the U.S.: lung (~225,000
+deaths in 2016), breast (246,000), and colorectal
+(381,000). These data can be obtained by
+sequencing the gene that encodes p53.
+Approximately 85% of lung cancers occur in
+smokers. Based on these data, calculate how
+many deaths due to lung cancer among
+nonsmokers were reported in 2016. How much
+does smoking increase the likelihood of death
+due to lung cancer?
+D.
+As shown under each graph, particular
+transversions (replacement of a pyrimidine by a
+purine of vice versa) or transitions (replacement
+of a purine or pyrimidine by the alternative
+purine or pyrimidine) are features of specific
+mutational signatures. Based on these data,
+identify the transversion or transition that seems
+to be induced by cigarette smoke.
+E.
+Using your answer to B above, predict possible
+mechan

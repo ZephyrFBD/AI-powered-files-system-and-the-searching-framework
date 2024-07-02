@@ -1,0 +1,31 @@
+Structural changes around a 
+double bond in the retinal portion of the molecule trigger a series of 
+chemical reactions that result in vision.
+We know that a double bond between two atoms is stronger 
+than a single bond between those same two atoms (Table 8.3). We are 
+now in a position to appreciate another aspect of double bonds: They 
+introduce rigidity into molecules.
+Consider the C ¬C double bond in ethylene. Imagine rotating 
+one ¬CH2 group in ethylene relative to the other ¬ CH2 group, 
+as pictured in Figure 9.29. This rotation destroys the overlap of the 
+ 
+p orbitals, breaking the p bond, a process that requires considerable 
+energy. Thus, the presence of a double bond restricts bond rotation 
+H
+H
+H
+H
+H
+H
+H
+H
+C — C p bond
+908 rotation
+around
+double bond
+▲ Figure 9.29 Rotation about the carbon—carbon double bond in 
+ethylene breaks the P bond.
+Rods
+Cones
+▲ Figure 9.28 Inside the eye. A color-enhanced scanning electron 
+micrograph of the rods and cones in the retina of the human

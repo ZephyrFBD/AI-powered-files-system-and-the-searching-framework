@@ -1,0 +1,75 @@
+y components and perform the vector addition.
+SOLUTION The magnitudes of 
+and 
+are (ignoring signs of the charges
+since we know the directions)
+(We keep 3 significant figures until the end, and then keep 2 because only 2 are
+given.) We resolve 
+into its components along the x and y axes, as shown in
+Fig. 16–20a:
+The force 
+has only a y component. So the net force 
+on 
+has components
+The magnitude of the net force is
+and it acts at an angle (see Fig. 16–20b) given by
+so
+NOTE Because 
+and 
+are not along the same line, the magnitude of 
+is
+not equal to the sum (or difference as in Example 16–3) of the separate magni-
+tudes. That is,
+is not equal to 
+nor does it equal 
+Instead
+we had to do vector addition.
+F
+32 - F
+31 .
+F
+31 + F
+32 ;
+F
+3
+F
+B
+3
+F
+B
+32
+F
+B
+31
+u = tan–1(2.13) = 65°.
+tan u =
+F
+y
+F
+x
+= 255 N
+120 N = 2.13,
+u
+F = 3Fx
+2 + Fy
+2
+= 3(120 N)2 + (255 N)2 = 280 N;
+F
+y = F
+32 + F
+31y = 325 N - 70 N = 255 N.
+F
+x = F
+31x = 120 N,
+Q3
+F
+B
+F
+B
+32
+F
+31y =
+–F
+31 sin 30° =
+–(140 N) sin 30° =
+–70

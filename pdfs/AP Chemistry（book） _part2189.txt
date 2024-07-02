@@ -1,0 +1,29 @@
+Sample Exercise 14.2
+ Calculating an Instantaneous Rate of Reaction
+SOLUTION
+Analyze We are asked to determine an instantaneous rate from a 
+graph of reactant concentration versus time.
+Plan To obtain the instantaneous rate at t = 0 s, we must deter-
+mine the slope of the curve at t = 0. The tangent is drawn on 
+the graph as the hypotenuse of the tan triangle. The slope of this 
+straight line equals the change in the vertical axis divided by the 
+corresponding change in the horizontal axis (which, in the case of 
+this example, is the change in molarity over change in time).
+Solve The tangent line falls from 3C4H9Cl4 = 0.100 M to 0.060 M 
+in the time change from 0 s to 210 s. Thus, the initial rate is
+Rate = -  
+∆3C4H9Cl4
+∆t
+= -  
+10.060 - 0.1002 M
+1210 - 02 s
+= 1.9 * 10-4 M>s
+ 
+▶Practice Exercise 1
+Which of the following could be the instantaneous rate of 
+the reaction in Figure 14.3 at t = 1000 s?
+(a) 1.2 * 10-4 M>s 
+(b) 8.8 * 10-5 M>s
+(c) 6.3 * 10-5 M>s 
+(d) 2.7 * 10-5 M>s
+(e) More t

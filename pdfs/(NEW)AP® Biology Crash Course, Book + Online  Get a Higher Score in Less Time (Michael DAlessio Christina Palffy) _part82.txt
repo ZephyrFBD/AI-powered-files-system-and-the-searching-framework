@@ -1,0 +1,18 @@
+ ratio is usually
+9:3:4.
+6. Polygenic inheritance—two or more genes affecting one phenotype. Examples include skin color and
+cancer, which is the most common polygenic inherited disorder. Polygenic inheritance leads to a bell
+curve distribution of phenotypes.
+G. Pedigree Analysis—a visual depiction of inheritance patterns in multiple family generations.
+1. Basic Rules
+i.
+If two affected people have an unaffected child, it must be a dominant pedigree: [A] is the
+dominant mutant allele and [a] is the recessive allele. Both parents are Aa (hybrid carriers) and the
+unaffected child is aa.
+ii. If two unaffected people have an affected child, it is a recessive pedigree: [A] is the dominant
+allele and [a] is the recessive allele. Both parents are Aa (hybrid carriers) and the affected child is
+aa.
+iii. If every affected person has an affected parent, it is a dominant pedigree (no skipping of
+generations).
+iv. Dominant traits never skip generations, while recessive traits can skip.
+v. Squares a

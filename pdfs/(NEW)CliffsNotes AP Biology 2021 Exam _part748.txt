@@ -1,0 +1,14 @@
+neration. 6. When the second generation plants are
+mature, score the trait a second time.
+ 
+7. Compile the data and present them in a graph, such as a histogram.
+Part II: Further Investigation of a Trait
+Design an experiment to investigate a different trait or further investigate some aspect of the trait you selected for in
+part I. For example, if you investigated trichomes in part I, consider investigating what, if any, advantage trichomes
+contribute to the survival or reproductive success of the plant.
+Investigation 2: Modeling Evolution
+The goal of this investigation is to create a mathematical model of evolution. You enter data into a spreadsheet,
+make “what if” changes in the data, and observe the results. By doing this, you discover the variables that influence
+evolution and what kind of influence those variables have. Ultimately, you confirm that Hardy-Weinberg
+equilibrium describes a population that is not evolving; deviations from equilibrium indicate that the population is
+ev

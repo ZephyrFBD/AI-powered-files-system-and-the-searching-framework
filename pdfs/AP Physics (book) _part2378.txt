@@ -1,0 +1,42 @@
+rcuits and Reactance
+613
+Capacitor reactance. What is the rms current in the circuit
+of Fig. 21–41a if
+and 
+Calculate for (a)
+and then for (b)
+APPROACH We find the reactance using Eq. 21–12b, and solve for current in
+the equivalent form of Ohm’s law, Eq. 21–12a.
+SOLUTION (a)
+The rms current is (Eq. 21–12a):
+(b) For
+will be 
+and
+vastly larger!
+NOTE The dependence on f is dramatic. For high frequencies, the capacitive
+reactance is very small.
+Two common applications of capacitors are illustrated in Figs.21–42a and b. In
+Fig. 21–42a, circuit A is said to be capacitively coupled to circuit B. The purpose of
+the capacitor is to prevent a dc voltage from passing from A to B but allowing an
+ac signal to pass relatively unimpeded (if C is sufficiently large). In Fig. 21–42b, the
+I
+rms = 452 A,
+0.265 
+f = 6.00 * 105 Hz,  X
+C
+I
+rms = V
+rms
+X
+C
+=
+120 V
+2.65 * 103  = 45.2 mA.
+X
+C = 12pfC = 1(2p)A60.0 s–1BA1.00 * 10–6 FB = 2.65 k.
+f = 6.00 * 105 Hz.
+f = 60.0 Hz,
+V
+rms = 120 V?
+C = 1.00 mF
+EXAM

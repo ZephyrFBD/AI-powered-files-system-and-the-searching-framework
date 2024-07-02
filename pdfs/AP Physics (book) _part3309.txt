@@ -1,0 +1,28 @@
+n be divided into four categories.
+What are they?
+8. If conduction electrons are free to roam about in a metal,
+why don’t they leave the metal entirely?
+9. Explain why the resistivity of metals increases with increas-
+ing temperature whereas the resistivity of semiconductors
+may decrease with increasing temperature.
+10. Compare the resistance of a pn junction diode connected
+in forward bias to its resistance when connected in reverse
+bias.
+11. Explain how a transistor can be used as a switch.
+Questions
+MisConceptual Questions
+853
+12. Figure 29–43 shows a “bridge-type” full-wave rectifier.
+Explain 
+how 
+the
+current is rectified
+and how current flows
+during each half cycle.
+15. In a transistor, the base–emitter junction and the base–
+collector junction are essentially diodes. Are these junctions
+reverse-biased or forward-biased in the application shown
+in Fig. 29–41?
+16. A transistor can amplify an electronic signal, meaning it
+can increase the power of an input signal. Where does it
+get

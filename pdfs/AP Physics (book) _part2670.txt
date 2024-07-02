@@ -1,0 +1,71 @@
+ACH We use
+to calculate the angular positions of the
+blue maximum and the 
+red one.
+SOLUTION The grating spacing is
+The blue
+of the third order occurs at an angle given by
+Red in second order occurs at
+which is a greater angle; so the second order overlaps into the beginning of the
+third-order spectrum.
+sin u =
+(2)A7.00 * 10–7 mB
+A2.50 * 10–6 mB
+= 0.560,
+sin u = ml
+d
+=
+(3)A4.50 * 10–7 mB
+A2.50 * 10–6 mB
+= 0.540.
+u
+d = (14000) cm = 2.50 * 10–6 m.
+m = 2
+m = 3
+sin u = mld
+l = 450 nm
+4000 slitscm.
+EXAMPLE 24;8
+sin u
+l = 700 nm
+u400 = 53.1°.
+ 
+sin u700 =
+(2)A7.00 * 10–7 mB
+1.00 * 10–6 m
+= 1.40
+ 
+sin u400 = 2l
+d
+=
+(2)A4.00 * 10–7 mB
+1.00 * 10–6 m
+= 0.800
+u700 = 44.4°.
+u400 = 23.6°
+ 
+sin u700 =
+(1)A7.00 * 10–7 mB
+1.00 * 10–6 m
+= 0.700
+ 
+sin u400 = ml
+d
+=
+(1)A4.00 * 10–7 mB
+1.00 * 10–6 m
+= 0.400
+(m = 1),
+1.00 mm.
+1.00 * 10–6 m =
+d = A11.00 * 106B m =
+1.00 * 104 slitscm = 1.00 * 106 slitsm,
+m = 1
+sin u = mld,
+d = 1N meters.
+EXAMPLE 24;7
+(m = 0)
+SECTION 24–6
+Diffraction Grating
+691
+FIGUR

@@ -1,0 +1,16 @@
+
+why we aren’t. (b) Compare to the refrigerator of Example 15–11: the motor uses 200 W
+to extract how much heat?
+15–7 Entropy and the Second Law
+of Thermodynamics
+Thus far we have stated the second law of thermodynamics for specific situations.
+What we really need is a general statement of the second law of thermodynamics
+that will cover all situations, including processes discussed earlier in this Chapter
+that are not observed in nature even though they would not violate the first law of
+thermodynamics. It was not until the latter half of the nineteenth century that the
+second law of thermodynamics was finally stated in a general way—namely, in
+terms of a quantity called entropy, introduced by Clausius in the 1860s. Entropy,
+unlike heat, is a function of the state of a system. That is, a system in a given state
+has a temperature, a volume, a pressure, a mass, and also has a particular value
+of entropy. In the next Section, we will see that entropy can be interpreted as a
+measure of th

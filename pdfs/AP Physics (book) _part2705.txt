@@ -1,0 +1,63 @@
+ssing through is reduced by half
+because half the light is eliminated:
+(Fig. 24–42).
+When two Polaroids are crossed—that is, their polarizing axes are perpendicular
+to one another—unpolarized light can be entirely stopped. As shown in Fig.24–43,
+unpolarized light is made plane-polarized by the first Polaroid (the polarizer).
+The second Polaroid, the analyzer, then eliminates this component since its trans-
+mission axis is perpendicular to the first.
+I = 1
+2 I
+0
+u
+I
+0
+cintensity of plane-polarized
+wave passed by polarizer d
+I = I
+0 cos2 u,
+E0 cos u
+E
+B
+E cos u,
+u
+FIGURE 24–43 Crossed Polaroids
+completely eliminate light.
+Light
+direction
+Unpolarized
+light
+Polarized
+light
+Polarizer
+I0
+I0
+1
+2
+Unpolarized
+light
+Light
+direction
+Polarizer
+(axis vertical)
+Plane-polarized
+light
+Analyzer
+(axis horizontal)
+No light
+E = E0 cos u
+Incident beam polarized
+at angle u to the vertical;
+has amplitude E0
+E0
+E0 cos u
+u
+Light
+direction
+Vertical
+polarizer
+Transmitted wave
+y
+x
+FIGURE 24–41 Vertical Polaroid
+t

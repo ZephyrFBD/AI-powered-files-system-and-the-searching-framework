@@ -1,0 +1,67 @@
+T = 0 K
+T = 0.
+T = 1200 K,
+T 7 0?
+EF
+EF
+T = 0,
+G = 3
+2 kT L 0.04 eV,
+EF = 7.0 eV.
+EF.
+T = 0 K,
+Ams = – 1
+2B.
+Ams = ± 1
+2B
+3
+2 , 5
+2 ,
+1
+2
+A= 3
+2 kT = 0B.
+T = 0 K,
+*
+*SECTION 29–6
+Free-Electron Theory of Metals; Fermi Energy
+841
+†Developed independently by Enrico Fermi (Figs. 1–13, 27–11, 28–2, 30–7) in early 1926 and by 
+P
+. A. M. Dirac a few months later. See Section 28–7.
+FIGURE 29–21 At 
+all
+states up to energy 
+called the
+Fermi energy, are filled. (Shown
+here for copper.)
+EF,
+T = 0 K,
+FIGURE 29–22 The density of
+occupied states for the electron gas
+in copper. The width kT shown
+above the graph represents thermal
+energy at T = 1200 K.
+T  0 K
+0
+2
+4
+6
+Fermi energy
+Fermi level
+E (eV)
+Density of occupied states
+kT
+0
+2
+4
+6 7 8
+occupied
+unoccupied
+T  1200 K
+E (eV)
+Density of occupied states
+29–7 Band Theory of Solids
+We saw in Section 29–1 that when two hydrogen atoms approach each other, the
+wave functions overlap, and the two 1s states (one for each atom) divide into two
+states of dif

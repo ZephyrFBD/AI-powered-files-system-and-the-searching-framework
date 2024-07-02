@@ -1,0 +1,31 @@
+he number of micrograms of 
+solute. Because 1 mg is 1 * 10-6 g, 5.4 mg = 5.4 * 10-6 g.
+Plan We calculate the parts per million using Equation 13.6.
+Solve ppm = mass of solute
+mass of soln
+* 106
+ 
+  =
+5.4 * 10-6 g
+2.5 g
+* 106 = 2.2 ppm
+ 
+▶Practice Exercise 1
+Calculate the mass percentage of NaCl in a solution contain-
+ing 1.50 g of NaCl in 50.0 g of water. 
+(a) 0.0291% (b) 0.0300% (c) 0.0513% (d) 2.91% (e) 3.00%
+ 
+▶Practice Exercise 2
+A commercial bleaching solution contains 3.62% by mass of 
+sodium hypochlorite, NaOCl. What is the mass of NaOCl in a 
+bottle containing 2.50 kg of bleaching solution?
+ 
+SECTION 13.4   
+Expressing Solution Concentration 
+539
+540 
+CHAPTER 13 Properties of Solutions
+The molality of a given solution does not vary with temperature because masses do 
+not vary with temperature. The molarity of the solution does change with temperature, 
+however, because the volume of the solution expands or contracts with temperature. 
+Thus, molality is often the concentration u

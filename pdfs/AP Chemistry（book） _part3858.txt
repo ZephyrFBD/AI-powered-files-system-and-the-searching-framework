@@ -1,0 +1,27 @@
+mine the identities of the alcohol and acid from 
+which it is formed. We can identify the alcohol by adding an OH 
+to the alkyl group attached to the O atom of the carboxyl (COO) 
+group. We can identify the acid by adding an H to the O atom of the 
+carboxyl group. We have learned that the first part of an ester name 
+indicates the alcohol portion and the second indicates the acid por-
+tion. The name conforms to how the ester undergoes hydrolysis in 
+base, reacting with base to form an alcohol and a carboxylate anion.
+Solve
+(a) This ester is derived from ethanol 1CH3CH2OH2 and benzoic 
+acid 1C6H5COOH2. Its name is therefore ethyl benzoate.  
+The net ionic equation for reaction of ethyl benzoate with 
+hydroxide ion is
+C
+OCH2CH3(aq)
+HOCH2CH3(aq)
+OH−(aq)
+O
+C
+O
+O−(aq)
++
++
+The products are benzoate ion and ethanol.
+(b) This ester is derived from phenol 1C6H5OH2 and butanoic acid 
+(commonly called butyric acid) 1CH3CH2CH2COOH2. The 
+residue from the phenol is called the phenyl group. The este

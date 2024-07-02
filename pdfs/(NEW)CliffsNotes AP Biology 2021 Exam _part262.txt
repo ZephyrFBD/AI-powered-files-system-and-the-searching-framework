@@ -1,0 +1,10 @@
+gin. In the 16
+boxes of the square, alleles from gametes at the top and left are combined. By convention, both alleles from the
+color gene are arranged together (for example, Y and y), and both alleles of the texture gene are arranged together
+(for example, R and r). The next step is to list each kind of genotype and count the number of times each genotype
+appears. This information is shown at the right side of Figure 8-5. The final step is to identify the phenotype of each
+genotype and to count how many times each phenotype appears. You will see that some phenotypes have more than
+one genotype. For example, YYRR, YYRr, YyRR, and YyRr all code for a yellow and round seed. The conclusion is
+that the F2progeny consist of nine plants with yellow and round seeds, three plants with green and round seeds, three
+plants with yellow and wrinkled seeds, and one plant with green and wrinkled seeds. This ratio, 9:3:3:1, is the same
+ratio Mendel observed in his experiments for this dihybrid cross.

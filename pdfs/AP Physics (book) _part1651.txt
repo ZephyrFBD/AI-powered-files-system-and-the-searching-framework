@@ -1,0 +1,40 @@
+ since
+the temperature change is small. For the hot water we use an average tempera-
+ture of 23°C (296 K), and for the cold water an average temperature of 21°C
+(294 K). Thus
+which is negative because this heat flows out (sign conventions, page 413),
+whereas heat is added to the cold water:
+The entropy of the hot water 
+decreases because heat flows out of the hot water.
+But the entropy of the cold water 
+increases by a greater amount. The total
+change in entropy is
+¢S = ¢SH + ¢SC L
+–1414 JK + 1424 JK L 10 JK.
+ASCB
+ASHB
+¢SC L 4.186 * 105 J
+294 K
+= 1424 JK.
+¢SH L
+– 4.186 * 105 J
+296 K
+=
+–1414 JK
+T
+av
+¢S = QT
+av,
+¢S = ¢SH + ¢SC.
+¢SC:
+¢SH,
+¢S,
+Q = mc ¢T = (50.0 kg)(4186 JkgC°)(2.00 C°) = 4.186 * 105 J,
+SECTION 15–7
+Entropy and the Second Law of Thermodynamics
+429
+SECOND LAW OF THERMODYNAMICS
+(general statement)
+In Example 15–14, we saw that although the entropy of one part of the system
+decreased, the entropy of the other part increased by a greater amount; the net
+change in entrop

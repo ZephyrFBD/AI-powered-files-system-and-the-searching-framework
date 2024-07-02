@@ -1,0 +1,27 @@
+er nf and 
+energy Ef. Using Equation 6.5, we see that the change in energy for this transition is
+ 
+∆E = Ef - Ei = 1-2.18 * 10 - 18 J2a 1
+n2
+f
+- 1
+n2
+i
+b 
+[6.6]
+222 
+CHAPTER 6 Electronic Structure of Atoms
+What is the significance of the sign of ∆E? Notice that ∆E is pos-
+itive when nf is greater than ni. That makes sense to us because 
+that means the electron is jumping to a higher-energy orbit. Con-
+versely, ∆E is negative when nf is less than ni; the electron is falling 
+ 
+in energy to a lower-energy orbit.
+As noted above, transitions from one allowed state to another 
+will involve a photon. The energy of the photon 1Ephoton2 must equal the 
+difference in energy between the two states 1∆E2. When ∆E is positive, a 
+photon must be absorbed as the electron jumps to a higher energy. 
+When ∆E is negative, a photon is emitted as the electron falls to a 
+lower-energy level. In both cases, the energy of the photon must 
+match the energy difference between the states. Because the fre-
+quency

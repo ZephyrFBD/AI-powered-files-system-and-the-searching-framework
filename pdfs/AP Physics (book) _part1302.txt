@@ -1,0 +1,20 @@
+ly). Since the
+distance between a node and the nearest antinode is 
+we see that the funda-
+mental in a closed tube corresponds to only one-fourth of a wavelength within the
+length of the tube:
+and
+The fundamental frequency is thus
+or half that for an open pipe of the same length. There is another 
+difference, for as we can see from Fig. 12–12a, only the odd harmonics are present
+in a closed tube: the overtones have frequencies equal to 
+times the 
+fundamental frequency. There is no way for waves with 
+times the funda-
+mental frequency to have a node at one end and an antinode at the other, and
+thus they cannot exist as standing waves in a closed tube.
+Another way to analyze the vibrations in a uniform tube is to consider a
+description in terms of the pressure in the air, shown in part (b) of Figs. 12–11 and
+12–12 (right-hand sides). Where the air in a wave is compressed, the pressure is
+higher, whereas in a wave expansion (or rarefaction), the pressure is less than normal.
+The open end

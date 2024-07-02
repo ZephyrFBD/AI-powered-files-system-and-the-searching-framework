@@ -1,0 +1,16 @@
+u divide 2.0 by 3.0, the proper answer is 0.67, and
+not 0.666666666 as calculators give (Fig. 1–6a). Digits should not be quoted in a
+result unless they are truly significant figures. However, to obtain the most
+accurate result, you should normally keep one or more extra significant figures
+throughout a calculation, and round off only in the final result. (With a calcu-
+lator, you can keep all its digits in intermediate results.) Note also that
+calculators sometimes give too few significant figures. For example, when you
+multiply 
+a calculator may give the answer as simply 8. But the answer is
+accurate to two significant figures, so the proper answer is 8.0. See Fig. 1–6b.
+Significant figures. Using a protractor 
+(Fig. 1–7), you measure an angle to be 30°. (a) How many significant figures
+should you quote in this measurement? (b) Use a calculator to find the cosine
+of the angle you measured.
+RESPONSE (a) If you look at a protractor, you will see that the precision
+with which you can me

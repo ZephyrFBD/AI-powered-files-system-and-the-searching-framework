@@ -1,0 +1,32 @@
+coordinates, and a negative point charge
+is fixed to the x axis at 
+Find the location of the place(s) along the x axis where the
+electric field due to these two charges is zero.
+x = ±2.4 m.
+Q2 = –5.0 * 10–6 C
+Q1 = 2.5 * 10–5 C
+472
+CHAPTER 16
+Electric Charge and Electric Field
+61. A point charge of mass 0.185 kg, and net charge
+hangs at rest at the end of an insulating cord above a large
+sheet of charge. The horizontal sheet of fixed uniform charge
+creates a uniform vertical electric field in the vicinity of 
+the point charge. The tension in the cord is measured to be
+5.18 N. Calculate the magnitude and direction of the electric
+field due to the sheet of charge (Fig. 16–67).
+±0.340 mC,
+Uniform sheet of charge
+Q = 0.340   
+C
+m = 0.185 kg
+g
+B
+
+FIGURE 16–67 Problem 61.
+62. An electron with speed
+is traveling par-
+allel to an electric field of magnitude 
+(a) How far will the electron travel before it stops? (b) How
+much time will elapse before it returns to its starting point?
+63. Given th

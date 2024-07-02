@@ -1,0 +1,65 @@
+t
+mean, however, that no power is needed or that no heat is produced in a resistor.
+Electrons do move back and forth, and do produce heat. Indeed, the power
+transformed in a resistance R at any instant is (Eq. 18–7b)
+Because the current is squared, we see that the power is always positive, as
+graphed in Fig. 18–22. The quantity 
+varies between 0 and 1; and it is not
+too difficult to show† that its average value is
+as indicated in Fig. 18–22. Thus,
+the average power transformed,
+is
+Since power can also be written 
+we also have that
+the average power is
+The average or mean value of the square of the current or voltage is thus what 
+is important for calculating average power:
+and
+The square
+root of each of these is the rms (root-mean-square) value of the current or voltage:
+(18;8a)
+(18;8b)
+V
+rms =
+3Z =
+V
+0
+22
+= 0.707 V
+0.
+I
+rms =
+3Y
+=
+I
+0
+22
+= 0.707 I
+0 ,
+Z = 1
+2 V0
+2 .
+Y = 1
+2 I0
+2
+P =
+1
+2
+V0
+2
+R
+.
+P = V2R = AV0
+2RB sin2 vt,
+P =
+1
+2 I0
+2R.
+P,
+1
+2 ,
+sin2 vt
+P = I2R = I0
+2 R sin2 vt.
+I
+0

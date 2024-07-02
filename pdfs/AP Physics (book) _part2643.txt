@@ -1,0 +1,62 @@
+sume
+]
+(b) At this angle 
+the lower wave travels an extra distance of one whole wavelength, and the waves 
+are in phase; note from the shaded triangle that the path difference equals 
+(c) For this angle 
+the lower wave travels an extra distance equal to one-half wavelength, so the two waves arrive at the 
+screen fully out of phase. (d) A more detailed diagram showing the geometry for parts (b) and (c).
+u,
+d sin u.
+u,
+l W d.
+FIGURE 24–8 Two traveling waves
+are shown undergoing 
+(a) constructive interference,
+(b) destructive interference.
+(See also Section 11–11.)
++
+=
++
+=
+(a)
+(b)
+FIGURE 24–10 Examples 24–1 and
+24–2. For small angles (give in
+radians), the interference fringes
+occur at distance
+above the
+center fringe 
+and 
+are
+for the first-order fringe 
+and 
+are for m = 2.
+x2
+u2
+(m = 1);
+x1
+(m = 0); u1
+x = ul
+u
+u
+S1
+S2
+x1
+d
+x2
+1
+u
+2
+u
+l
+684
+CHAPTER 24
+C A U T I O N
+Use the approximation
+only if is small 
+and in radians
+u
+u L tan u  or u L sin u
+FIGURE 24–9 (a) Interference
+fringes produ

@@ -1,0 +1,15 @@
+force
+is exerted on it. Galileo thus interpreted friction as a force akin to ordinary pushes
+and pulls.
+To push an object across a table at constant speed requires a force from your
+hand that can balance the force of friction (Fig. 4–3). When the object moves at
+constant speed, your pushing force is equal in magnitude to the friction force; but
+these two forces are in opposite directions, so the net force on the object (the vector
+sum of the two forces) is zero. This is consistent with Galileo’s viewpoint, for the
+object moves with constant velocity when no net force is exerted on it.
+Upon this foundation laid by Galileo, Isaac Newton (Fig. 4–4) built his great
+theory of motion. Newton’s analysis of motion is summarized in his famous
+“three laws of motion.” In his great work, the Principia (published in 1687),
+Newton readily acknowledged his debt to Galileo. In fact, Newton’s first law 
+of motion is close to Galileo’s conclusions. It states that
+Every object continues in its state of r

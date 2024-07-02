@@ -1,0 +1,53 @@
+290 .
+–1,
+C A U T I O N
+Remember to take the reciprocal
+Current in one branch. What is the current 
+through the
+resistor in Fig. 19–7a?
+APPROACH We need the voltage across the 
+resistor, which is the voltage
+between points b and c in Fig.19–7a, and we call it 
+Once 
+is known, we can
+apply Ohm’s law,
+to get the current. First we find the voltage across the
+resistor,
+since we know that 17.4 mA passes through it (Example 19–4).
+SOLUTION
+can be found using 
+The total voltage across the network of resistors is
+so 
+must be
+Ohm’s law gives the current 
+through the 
+resistor:
+This is the answer we wanted. We can also calculate the current 
+through the
+resistor since the voltage across it is also 5.0 V:
+NOTE When 
+combines with 
+to form the total current I (at point c in
+Fig.19–7a), their sum is
+This equals the total current I
+as calculated in Example 19–4, as it should.
+10 mA + 7 mA = 17 mA.
+I
+2
+I
+1
+I
+2 =
+5.0 V
+700  = 7 mA.
+700-
+I
+2
+I
+1 =
+5.0 V
+500  = 1.0 * 10–2 A = 10 mA.
+500-
+I
+1
+12.0 

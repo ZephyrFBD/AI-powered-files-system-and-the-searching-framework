@@ -1,0 +1,21 @@
+p (here,
+a portion of the Sierra Nevada in California) 
+shows continuous contour lines, each of which 
+is at a fixed height above sea level. Here they 
+are at 80-ft (25-m) intervals. If you walk along 
+one contour line, you neither climb nor 
+descend. If you cross lines, and especially if you 
+climb perpendicular to the lines, you will be 
+changing your gravitational potential (rapidly,
+if the lines are close together).
+17–4 The Electron Volt, a Unit of Energy
+The joule is a very large unit for dealing with energies of electrons, atoms, or molecules.
+For this purpose, the unit electron volt (eV) is used. One electron volt is defined as
+the energy acquired by a particle carrying a charge whose magnitude equals that
+on the electron 
+as a result of moving through a potential difference of 1 V.
+The charge on an electron has magnitude 
+and the change in potential
+energy equals qV. So 1 eV is equal to  
+An electron that accelerates through a potential difference of 1000 V will lose 1000 eV
+o

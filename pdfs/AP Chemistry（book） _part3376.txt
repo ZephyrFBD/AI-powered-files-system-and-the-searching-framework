@@ -1,0 +1,23 @@
+ yr?
+Sample Exercise 21.5 
+Calculation Involving Half-Lives
+SOLUTION
+Analyze We are given the half-life for cobalt-60 and asked to calcu-
+late the amount of cobalt-60 remaining from an initial 1.000-mg 
+sample after 15.81 yr.
+Plan We will use the fact that the amount of a radioactive sub-
+stance decreases by 50% for every half-life that passes.
+Solve Because 5.27 * 3 = 15.81, 15.81 yr is three half-lives for 
+cobalt-60. At the end of one half-life, 0.500 mg of cobalt-60 
+remains, 0.250 mg at the end of two half-lives, and 0.125 mg at 
+the end of three half-lives.
+ 
+▶Practice Exercise 1
+A radioisotope of technetium is useful in medical imaging 
+techniques. A sample initially contains 80.0 mg of this 
+isotope. After 24.0 h, only 5.0 mg of the technetium isotope 
+remains. What is the half-life of the isotope?
+(a) 3.0 h (b) 6.0 h (c) 12.0 h (d) 16.0 h (e) 24.0 h
+▶ Practice Exercise 2
+Carbon-11, used in medical imaging, has a half-life of  
+20.4 min. The carbon-11 nuclides are formed, and t

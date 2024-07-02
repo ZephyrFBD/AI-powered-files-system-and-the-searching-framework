@@ -1,0 +1,21 @@
+Replication of the lagging strand of DNA would produce multiple short fragments that would need to be
+joined by ligase. An inhibitor of ligase would prevent this from happening.
+Long Free-Response
+13. (a) DNA polymerase needs a 3′ hydroxyl group to which it can add new nucleotides, so a primer is necessary to
+allow DNA polymerase to add the first new nucleotide.
+(b)
+(c) Each cycle of PCR doubles the number of copies of the desired DNA sequence. In other words, this is an
+exponential growth relationship.
+(d) Since the number of copies of the desired DNA sequence doubles with each cycle, a minimum of 10 cycles
+would be required to produce at least 1,000 copies. After 8 cycles, 256 copies would be present. After 9
+cycles, 512 copies would be present, and after 10 cycles, 1,024 copies would be present.
+16
+Transcription and Translation
+Learning Objectives
+In this chapter, you will learn:
+➜
+Transcription in Prokaryotes vs. Transcription in Eukaryotes
+➜
+Translation
+➜
+Flow of Information from 

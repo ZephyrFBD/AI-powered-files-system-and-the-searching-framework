@@ -1,0 +1,43 @@
+CH4 as the overlap of four equivalent sp3 hybrid 
+orbitals on C with the 1s orbitals of the four H atoms to form four equivalent bonds.
+Give It Some Thought
+In an sp2 hybridized atom, we saw that there was one unhybridized 2p orbital. How 
+many unhybridized 2p orbitals remain on an atom that has sp3 hybrid orbitals?
+The idea of hybridization is also used to describe the bonding in molecules containing 
+nonbonding pairs of electrons. In H2O, for example, the electron-domain geometry around 
+the central O atom is approximately tetrahedral (Figure 9.18). Thus, the four electron pairs 
+can be envisioned as occupying sp3 hybrid orbitals. Two of the hybrid orbitals contain non-
+bonding pairs of electrons, and the other two form bonds with the hydrogen atoms.
+ 
+Go Figure
+z
+z
+y
+y
+y
+y
+x
+x
+x
+x
+s
+sp3
+sp3
+sp3
+sp3
+sp3
+sp3
+sp3
+  sp3
+px
+py
+pz
+z
+z
+109.58
+Shown together (large lobes only)
+Hybridize to form four sp3 hybrid orbitals
+One s orbital
+Three p orbitals
+1
+▲ Figure 9.17 Formation of sp3 hybrid o

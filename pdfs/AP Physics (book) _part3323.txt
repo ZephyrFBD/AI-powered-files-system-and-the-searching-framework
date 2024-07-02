@@ -1,0 +1,31 @@
+on, it
+releases 3.41 eV of energy, whereas 4.34 eV is required to
+ionize K. Find the binding energy of KF relative to free K
+and F atoms, neglecting the energy of repulsion.
+H2
+ke
+k = 1.38 * 10–23 JK
+ke = 3
+2 kT
+¢p L ¢px.
+¢x
+¢x
+H2
+42. The rotational absorption spectrum of a molecule displays
+peaks about 
+apart. Determine the moment
+of inertia of this molecule.
+43. For 
+with a bond length of 0.121 nm, what is the moment
+of inertia about the center of mass?
+44. Must we consider quantum effects for everyday rotating
+objects? Estimate the differences between rotational energy
+levels for a spinning baton compared to the energy of the
+baton. Assume the baton consists of a uniform 32-cm-long
+bar with a mass of 230 g and two small end masses, each of
+mass 380 g, and it rotates at 
+about the bar’s center.
+45. For a certain semiconductor, the longest wavelength 
+radiation that can be absorbed is 2.06 mm. What is the
+energy gap in this semiconductor?
+46. When EM radiation is incident on diamond,

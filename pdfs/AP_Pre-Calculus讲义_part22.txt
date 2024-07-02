@@ -1,0 +1,53 @@
+om 1 P.M. to 3 P.M. 
+ 
+ 
+ 
+ 
+ 
+The domain and range of a function y = f(x) can be obtained from a graph of f as shown 
+in the figure. The domain is the set of all x-values for which f is defined, and the range is all 
+the corresponding y-values. 
+ 
+20 
+ 
+Example 2 
+(a) 
+( )
+2
+4
+.
+f x
+x
+=
+-
+Use a graphing calculator to draw the graph of 
+ 
+(b) Find the domain and range of f. 
+ 
+ 
+ 
+ 
+ 
+1.2.2 Increasing and Decreasing Functions 
+The graph shown in the figure rises, falls, then rises again as we move from left to right: It 
+rises from A to B, falls from B to C, and rises again from C to D. 
+ 
+We can see from the graph above that f is increasing on (a, b) and (c, d). f is decreasing 
+on (b, c). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+f is increasing on an interval I if f(x1) < f(x2) whenever x1 < x2 in I.  
+f is decreasing on an interval I if f(x1) > f(x2) whenever x1 < x2 in I. 
+                                
+ 
+ 
+Example 3 
+(a) Sketch a graph of the function f(x) 12x2 + 4x3 – 3x4 
+(b) Find the domain and 

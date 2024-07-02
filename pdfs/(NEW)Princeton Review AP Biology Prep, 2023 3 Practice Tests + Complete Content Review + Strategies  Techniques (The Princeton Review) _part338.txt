@@ -1,0 +1,13 @@
+sion is to turn it into RNA. The RNA is then sent out into the cell and often gets turned
+into a protein. Proteins are the biggest group of “worker-molecules,” and most expressed DNA turns into proteins.
+These proteins, in turn, regulate almost everything that occurs in the cell.
+The process of making an RNA from DNA is called transcription, and the process of making a protein from an
+RNA is called translation. In eukaryotic cells, transcription takes place in the nucleus (where the DNA is kept), and
+translation takes place in the cytoplasm.
+Obviously, in prokaryotes, both occur in the cytoplasm because prokaryotes don’t contain a nucleus; this allows
+transcription and translation to occur at the same time.
+The flow of genetic information, the Central Dogma of Biology, is therefore:
+Word Connection
+A dogma is a core belief or set of ideas. Since this flow of information from
+DNA to RNA to protein is so important for understanding the workings of living
+things, it has been dubbed the Ce

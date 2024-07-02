@@ -1,0 +1,21 @@
+ining different numbers of 
+spheres representing mixtures containing different reactant con-
+centrations. We are asked to use the given rate law and the com-
+positions of the boxes to rank the mixtures in order of increasing 
+reaction rates.
+Plan Because all three boxes have the same volume, we can put the 
+number of spheres of each kind into the rate law and calculate the 
+rate for each box.
+(1)
+(2)
+(3)
+Magnitudes and Units of Rate Constants
+If chemists want to compare reactions to evaluate which ones are relatively fast and 
+which ones are relatively slow, the quantity of interest is the rate constant. A good gen-
+eral rule is that a large value of k (∼109 or higher) means a fast reaction and a small value 
+of k (10 or lower) means a slow reaction.
+The units of the rate constant depend on the overall reaction order of the rate law. 
+In a reaction that is second order overall, for example, the units of the rate constant must 
+satisfy the equation:
+ 
+Units of rate = 1units of rate cons

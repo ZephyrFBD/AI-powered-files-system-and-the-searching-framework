@@ -1,0 +1,32 @@
+93). [Hint: This force exerted by the ground
+net
+force. You may want to consult Chapters 2, 4, and 7, and 
+be sure to draw a careful free-body diagram of the person.]
+(c) Estimate the decelerating force if the person lands 
+stiff-legged so
+(d) Estimate the stress in the
+tibia (a lower leg bone of
+),
+and
+determine whether or not 
+the bone will break if the
+landing is made with bent
+legs
+(e) Estimate
+the stress and determine if the
+tibia will break in a stiff-
+legged landing (d = 1.0 cm).
+(d = 50 cm).
+area = 3.0 * 10–4 m2
+d L  1.0 cm.
+Z
+d = 50 cm
+15.0 cm * 6.0 cm * 4.0 cm
+4. In Example 9–6, the torque is calculated around the axis
+where the cable is attached to the beam. (a) By using the
+equation with this axis of rotation, how do you know
+that the vertical force on the hinge points up and not down?
+(b) What advantage would be gained in solving part (a) if
+the axis of rotation were chosen around the hinge instead 
+of around the point where the cable is attached? (c) Show
+that you get the

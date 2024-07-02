@@ -1,0 +1,16 @@
+ cell membrane through “leak channels” in resting neurons. In
+order for the nerve to fire, a stimulus must be strong enough to overcome
+the resting threshold or resting potential. The larger the resting
+potential, the stronger the stimulus must be to cause the nerve to fire.
+******ebook converter DEMO Watermarks*******
+Gated Channels
+Neurons have gated ion channels that open or close in response to a
+stimulus and play an essential role in the transmission of electrical
+impulses. These channels allow only one kind of ion, such as sodium or
+potassium, to flow through them. If a stimulus triggers a sodium ion gated
+channel to open, sodium ions flow into the cytoplasm, resulting in a
+decrease in polarization to about –60 mV (from –70 mV). The membrane
+becomes somewhat depolarized, so it is easier for the nerve to fire. In
+contrast, if a potassium ion gated channel is stimulated, the membrane
+potential increases and the membrane becomes hyperpolarized, to about –
+75 mV, so that it is harder

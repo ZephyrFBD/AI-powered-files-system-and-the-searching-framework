@@ -1,0 +1,20 @@
+ LARGE. In a large population, a
+small change in the gene pool will be diluted by the sheer number
+of individuals and no change in the frequency of alleles will occur.
+(In a small population, the smallest change in the gene pool will
+have a major effect in allelic frequencies.)
+THE POPULATION MUST BE ISOLATED FROM OTHER POPULATIONS.
+There must be no migration of organisms into or out of the gene
+pool because that could alter allelic frequencies.
+THERE MUST BE NO MUTATIONS IN THE POPULATION. A mutation in
+the gene pool could cause a change in allelic frequency by
+introducing a new allele.
+MATING MUST BE RANDOM. If individuals select mates, then those
+individuals that are better adapted will have a reproductive
+advantage and the population will evolve.
+THERE MUST BE NO NATURAL SELECTION. Natural selection causes
+changes in relative frequencies of alleles in a gene pool.
+******ebook converter DEMO Watermarks*******
+  1.
+The Hardy-Weinberg Equation
+The Hardy-Weinberg equation enables us to

@@ -1,0 +1,19 @@
+ other males in contests.
+Genetic (Hardy-Weinberg) Equilibrium
+When the allele frequencies in a population remain constant from generation to generation, the population is said to
+be in genetic equilibrium, or Hardy-Weinberg equilibrium. At genetic equilibrium, there is no evolution. In order
+for equilibrium to occur, the factors that normally change gene frequencies do not occur. Thus, the following
+conditions hold:
+1. All traits are selectively neutral (no natural selection).
+2. Mutations do not occur.
+3. The population must be isolated from other populations (no gene flow).
+4. The population is large (no genetic drift).
+5. Mating is random.
+Genetic equilibrium is determined by evaluating the following values:
+1. Allele frequencies for each allele (p, q)
+2. Frequency of homozygotes (p2, q2)
+3. Frequency of heterozygotes (pq + qp = 2pq)
+Also, the following two equations hold:
+1. p + q = 1 (all alleles sum to 100%)
+2. p2 + 2pq + q2 = 1 (all individuals sum to 100%)
+As an example, suppo

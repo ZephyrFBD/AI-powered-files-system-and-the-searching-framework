@@ -1,0 +1,18 @@
+ m solution of 
+KCl, for example, freezes at -0.344 °C.
+The difference between expected and observed colligative prop-
+erties for strong electrolytes is due to electrostatic attractions between 
+ions. As the ions move about in solution, ions of opposite charge col-
+lide and “stick together” for brief moments. While they are together, 
+they behave as a single particle called an ion pair (Figure 13.24). 
+The number of independent particles is thereby reduced, causing a 
+SOLUTION
+Analyze Our goal is to calculate the molar mass of a high- 
+molecular-mass protein, based on the osmotic pressure and a 
+knowledge of the mass of protein and solution volume. Since the 
+protein will be considered as a nonelectrolyte, i = 1.
+Plan The temperature 1T = 25 °C2 and osmotic pressure 
+1Π = 1.54 torr2 are given, and we know the value of R so we can 
+Sample Exercise 13.11 
+Molar Mass from Osmotic Pressure
+The osmotic pressure of an aqueous solution of a certain protein was measured to determine the protei

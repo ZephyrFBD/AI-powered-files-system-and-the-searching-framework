@@ -1,0 +1,27 @@
+4 km (e) 57,759,000 km
+ 
+▶Practice Exercise 2
+By using a conversion factor from the back inside cover, deter-
+mine the length in kilometers of a 500.0-mi automobile race.
+ 
+Sample Exercise 1.10
+Converting Units
+If a woman has a mass of 115 lb, what is her mass in grams? (Use the relationships between units given on the back inside 
+cover of the text.)
+SOLUTION
+Because we want to change from pounds to grams, we look for a 
+relationship between these units of mass. The conversion factor 
+table found on the back inside cover tells us that 1 lb = 453.6 g. 
+To cancel pounds and leave grams, we write the conversion factor 
+with grams in the numerator and pounds in the denominator:
+Mass in grams = 1115 lb2a
+453.6 g
+1 lb
+b = 5.22 * 104 g
+The answer can be given to only three significant figures, the 
+number of significant figures in 115 lb. The process we have used is 
+diagrammed on the top right coulmn.
+30 
+CHAPTER 1 Introduction: Matter, Energy, and Measurement
+Using T
+wo or More Conversion 

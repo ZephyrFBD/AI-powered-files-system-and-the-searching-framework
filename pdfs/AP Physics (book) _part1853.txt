@@ -1,0 +1,48 @@
+O N
+for a point charge
+V r 1
+r ,
+E r 1
+r2
+V
+r
+r
+V = k
+when Q > 0
+Q
+r
+V = k
+when Q < 0
+Q
+r
+0
+V
+0
+(a)
+(b)
+FIGURE 17–9 Potential V as a
+function of distance r from a single
+point charge Q when the charge is
+(a) positive, (b) negative.
+EXERCISE B What is the kinetic energy of a 
+ion released from rest and accelerated
+through a potential difference of 2.5 kV?
+(a) 2500 eV, (b) 500 eV, (c) 5000 eV,
+(d) 10,000 eV, (e) 250 eV.
+He2±
+17–5 Electric Potential Due to 
+Point Charges
+The electric potential at a distance r from a single point charge Q can be derived
+from the expression for its electric field (Eq. 16–4,
+) using calculus.
+The potential in this case is usually taken to be zero at infinity (
+, which
+means extremely, indefinitely, far away); this is also where the electric field
+is zero. The result is
+(17;5)
+where
+We can think of V here
+as representing the absolute potential at a distance r from the charge Q, where
+at
+or we can think of V as the potential difference between r and
+infinity. 

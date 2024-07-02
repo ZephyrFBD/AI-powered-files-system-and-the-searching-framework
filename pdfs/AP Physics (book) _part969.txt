@@ -1,0 +1,13 @@
+al to mg on pin A to support the mass m of the upper bridge. Why? Because
+the pin is in equilibrium, and the other force that balances this is the downward
+force mg exerted on it by the upper bridge (Fig. 9–27c). There is thus a shear
+stress on the pin because the rod pulls up on one side of the pin, and the bridge
+pulls down on the other side. The situation when two shorter rods support the
+bridges (Fig. 9–27b) is shown in Fig. 9–27d, in which only the connections at 
+the upper bridge are shown. The lower rod exerts a force of mg downward on
+the lower of the two pins because it supports the lower bridge. The upper rod
+exerts a force of 2mg on the upper pin (labelled A) because the upper rod supports
+both bridges. Thus we see that when the builders substituted two shorter rods
+for each single long one, the stress in the supporting pin A was doubled. What
+perhaps seemed like a simple substitution did, in fact, lead to a tragic collapse in
+1981 with a loss of life of over 100 people (see

@@ -1,0 +1,25 @@
+ated vapor pressure at
+a given temperature. It is usually expressed as a percentage:
+Thus, when the humidity is close to 100%, the air holds nearly all the water vapor
+it can.
+Relative humidity =
+partial pressure of H2O
+saturated vapor pressure of H2O * 100%.
+380
+CHAPTER 13
+Temperature and Kinetic Theory
+† For example, 78% (by volume) of air molecules are nitrogen and 21% oxygen, with much smaller
+amounts of water vapor, argon, carbon dioxide, and other gases. At an air pressure of 1 atm, oxygen
+exerts a partial pressure of 0.21 atm and nitrogen 0.78 atm.
+FIGURE 13–25 Boiling: bubbles of
+water vapor float upward from the
+bottom (where the temperature is
+highest).
+P H Y S I C S  A P P L I E D
+Humidity and comfort
+Relative humidity. On a particular hot day, the tempera-
+ture is 30°C and the partial pressure of water vapor in the air is 21.0 torr. What 
+is the relative humidity?
+APPROACH From Table 13–3, we see that the saturated vapor pressure of
+water at 30°C is 31.8 torr.
+SOLUTION The 

@@ -1,0 +1,22 @@
+Kb for NH3. We suggest 
+you try this approach to convince yourself that you can use the  
+Henderson–Hasselbalch equation for buffers for which you are given 
+Kb for the conjugate base rather than Ka for the conjugate acid.
+ 
+▶Practice Exercise 1
+Calculate the number of grams of ammonium chloride that 
+must be added to 2.00 L of a 0.500 M ammonia solution to 
+obtain a buffer of pH = 9.20. Assume the volume of the 
+solution does not change as the solid is added. Kb for ammo-
+nia is 1.80 * 10-5.
+(a) 60.7 g (b) 30.4 g (c) 1.52 g (d) 0.568 g  
+(e) 1.59 * 10-5 g
+ 
+▶Practice Exercise 2
+Calculate the concentration of sodium benzoate that must 
+be present in a 0.20 M solution of benzoic acid 1C6H5COOH2 
+to produce a pH of 4.00. Refer to Appendix D.
+Give It Some Thought
+The Ka values for nitrous acid 1HNO22 and hypochlorous (HClO) acid are 4.5 * 10-4 
+and 3.0 * 10-8, respectively. Which one would be more suitable for use in a 
+solution buffered at pH = 7.0? What other substances would be needed 

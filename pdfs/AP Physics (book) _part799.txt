@@ -1,0 +1,21 @@
+ach point in the rotating object.
+Each point in a rotating object may also have translational velocity and acceleration,
+but they have different values for different points in the object.
+When an object such as the bicycle wheel in Fig. 8–3 rotates from some 
+initial position, specified by 
+to some final position,
+its angular displacement
+is
+The angular velocity (denoted by 
+the Greek lowercase letter omega) is
+defined in analogy with linear (translational) velocity that was discussed in 
+Chapter 2. Instead of linear displacement, we use the angular displacement. Thus
+the average angular velocity of an object rotating about a fixed axis is defined as
+(8;2a)
+where 
+is the angle through which the object has rotated in the time interval 
+The instantaneous angular velocity is the limit of this ratio as 
+approaches zero:
+(8;2b)
+Angular velocity is generally specified in radians per second (rad/s). Note that all
+points in a rigid object rotate with the same angular velocity, since every posi

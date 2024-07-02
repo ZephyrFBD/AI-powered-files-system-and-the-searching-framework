@@ -1,0 +1,30 @@
+ange in the surroundings. But what kind of change occurs?
+Piston
+Vacuum
+Gas
+Movable partition
+Irreversible expansion of gas
+Work done by system = 0
+Compression
+Work done on system > 0
+Work
+If the partition is removed, 
+the gas spontaneously fills 
+the evacuated space.
+Surroundings do work on the 
+system to move the piston 
+and thus compress the gas.
+▲ Figure 19.4 An irreversible process. Initially, an ideal gas is confined to the right half of a  
+cylinder. When the partition is removed, the gas spontaneously expands to fill the whole cylinder.  
+No work is done by the system during this expansion. Using the piston to compress the gas back to  
+its original state requires the surroundings to do work on the system.
+ 
+SECTION 19.1   
+Spontaneous Processes 
+811
+812 
+CHAPTER 19 Chemical Thermodynamics
+Recall that the first law of thermodynamics states that energy is conserved. In math-
+ematical terms, ∆E = q + w 
+; that is, the change in internal energy of a system is equal to 
+the heat ab

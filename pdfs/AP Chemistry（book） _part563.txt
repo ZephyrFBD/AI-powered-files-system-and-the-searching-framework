@@ -1,0 +1,26 @@
+es, and Neutralization Reactions 
+131
+Protons in aqueous solution are solvated by water molecules, just as other cations 
+are [Figure 4.3(a)]. In writing chemical equations involving protons in water, therefore, 
+we write H+1aq2.
+Molecules of different acids ionize to form different numbers of H+ ions. Both HCl 
+and HNO3 are monoprotic acids, yielding one H+ per molecule of acid. Sulfuric acid, 
+H2SO4, is a diprotic acid, one that yields two H+ per molecule of acid. The ionization of 
+H2SO4 and other diprotic acids occurs in two steps:
+ 
+H2SO41aq2 ¡ H+1aq2 + HSO4
+-1aq2 
+[4.8]
+ 
+HSO4
+-1aq2 ∆ H+1aq2 + SO4
+2-1aq2 
+[4.9]
+Although H2SO4 is a strong electrolyte, only the first ionization (Equation 4.8) is com-
+plete. Thus, aqueous solutions of sulfuric acid contain a mixture of H+1aq), HSO4
+-1aq), 
+and SO4
+2-1aq2.
+The molecule CH3COOH (acetic acid) that we have mentioned frequently is the pri-
+mary component in vinegar. Acetic acid has four hydrogens, as Figure 4.6 shows, but only 
+one of th

@@ -1,0 +1,29 @@
+ a row of soldiers. The soldiers are marching
+from firm ground (medium 1) into mud (medium 2) and hence are slowed down
+after the boundary. The soldiers that reach the mud first are slowed down first,
+and the row bends as shown in Fig. 11–44a. Let us consider the wave front (or
+row of soldiers) labeled A in Fig. 11–44b. In the same time 
+that 
+moves a 
+distance
+we see that 
+moves a distance
+The two right triangles
+in Fig. 11–44b, shaded yellow and green, have the side labeled a in common. Thus
+since a is the hypotenuse, and
+Dividing these two equations, we obtain the law of refraction:
+(11;20)
+Since 
+is the angle of incidence 
+and 
+is the angle of refraction 
+Eq. 11–20 gives the quantitative relation between the two. If the wave were going
+in the opposite direction, the geometry would not change; only 
+and 
+would
+change roles:
+would be the angle of incidence and 
+the angle of refraction.
+Thus, if the wave travels into a medium where it can move faster, it will bend 
+the opposite way,
+W

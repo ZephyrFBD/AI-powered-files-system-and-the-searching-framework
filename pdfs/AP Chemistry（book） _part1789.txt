@@ -1,0 +1,15 @@
+. Beyond the critical point, the substance is a supercritical fluid.
+LIQUID CRYSTALS (SECTION 11.7) A liquid crystal is a substance 
+that exhibits one or more ordered phases at a temperature above the 
+melting point of the solid. In a nematic liquid crystal the molecules 
+are aligned along a common direction, but the ends of the mole-
+cules are not lined up. In a smectic liquid crystal the ends of the mol-
+ecules are lined up so that the molecules form layers. In smectic A 
+liquid crystals the long axes of the molecules line up perpendicular to 
+the layers. In smectic C liquid crystals the long axes of molecules are 
+inclined with respect to the layers. A cholesteric liquid crystal is com-
+posed of molecules that align parallel to each other within a layer, as 
+they do in nematic liquid crystalline phases, but the direction along 
+which the long axes of the molecules align rotates from one layer 
+to the next to form a helical structure. Substances that form liquid 
+crystals are general

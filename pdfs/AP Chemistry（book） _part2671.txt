@@ -1,0 +1,37 @@
+order in IO3
+-, 
+first order in SO3
+2-, and first order in H+. 
+ 
+ (a) Write the rate law for the reaction. 
+ 
+ (b) By what factor will the rate of the reaction change if 
+the pH is lowered from 5.00 to 3.50? Does the reaction 
+proceed more quickly or more slowly at the lower pH? 
+ 
+ (c) By using the concepts discussed in Section 14.6, ex-
+plain how the reaction can be pH-dependent even though 
+H+ does not appear in the overall reaction.
+ 16.126 (a)   
+Using dissociation constants from Appendix D, deter-
+mine the value for the equilibrium constant for each of 
+the following reactions.
+ 
+   (i) HCO3
+-1aq2 + OH-1aq2 ∆CO3
+2-1aq2 + H2O1l2
+ 
+    (ii) NH4
++1aq2 + CO3
+2-1aq2 ∆NH31aq2 + HCO3
+-1aq2
+ 
+  
+(b)  
+We usually use single arrows for reactions when the for-
+ward reaction is appreciable (K much greater than 1) 
+ 
+or when products escape from the system, so that 
+equilibrium is never established. If we follow this con-
+vention, which of these equilibria might be written 
+with a single arr

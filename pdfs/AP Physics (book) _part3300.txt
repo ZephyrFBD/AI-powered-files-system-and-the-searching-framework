@@ -1,0 +1,16 @@
+ type of switch.
+Its construction is shown in Fig. 29–42a, and its symbol in Fig. 29–42b. What is
+called the emitter in a bipolar transistor is called the source in a MOSFET,
+and the collector is called the drain. The base is called the gate. The gate acts to
+let a current flow, or not, from the source to the drain, depending on the electric
+field it (the gate) provides across an insulator that separates it from the p-type
+semiconductor below, Fig. 29–42a. Hence the name “field-effect transistor” (FET).†
+MOSFETs are often used like switches, on or off, which in digital circuits can
+allow the storage of a binary bit, a “1” or a “0”. We discussed uses of MOSFETs 
+relative to digital TV (Section 17–11) and computer memory storage (Section 21–8).
+29–1
+1 Integrated Circuits,
+22-nm Technology
+Although individual transistors are very small compared to the once-used
+vacuum tubes, they are huge compared to integrated circuits or chips (photo at
+start of this Chapter), invented in 1959 independe

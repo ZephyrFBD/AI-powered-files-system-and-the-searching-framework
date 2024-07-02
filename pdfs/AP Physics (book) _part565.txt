@@ -1,0 +1,26 @@
+xy?
+A2 * 1030 kgB,
+A1 ly = 9.5 * 1015 mB.
+1. Reread each Example in this Chapter and identify (i) the
+object undergoing centripetal acceleration (if any), and 
+(ii) the force, or force component, that causes the circular
+motion.
+2. Redo Example 5–3, precisely this time, by not ignoring 
+the weight of the ball which revolves on a string 0.600 m
+long. In particular, find the magnitude of 
+and the 
+angle it makes with the horizontal. [Hint: Set the horizon-
+tal component of 
+equal to 
+also, since there is 
+no vertical motion, what can you say about the vertical
+component of 
+]
+3. A banked curve of radius R in a new highway is designed
+so that a car traveling at speed 
+can negotiate the turn
+safely on glare ice (zero friction). If a car travels too slowly,
+then it will slip toward the center of the circle. If it travels
+too fast, it will slip away from the center of the circle. If 
+the coefficient of static friction increases, it becomes possi-
+ble for a car to stay on the road while trave

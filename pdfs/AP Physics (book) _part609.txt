@@ -1,0 +1,22 @@
+nded
+We can extend the work-energy principle (discussed in Section 6–3) to include
+potential energy. Suppose several forces act on an object which can undergo
+translational motion. And suppose only some of these forces are conservative.
+We write the total (net) work 
+as a sum of the work done by conservative
+forces,
+and the work done by nonconservative forces,
+Then, from the work-energy principle, Eq. 6–4, we have
+where  
+Then
+Work done by a conservative force can be written in terms of potential energy,
+as we saw in Eq. 6–7b for gravitational potential energy:
+We combine these last two equations:
+(6;10)
+Thus, the work
+done by the nonconservative forces acting on an object is
+equal to the total change in kinetic and potential energies.
+It must be emphasized that all the forces acting on an object must be included
+in Eq. 6–10, either in the potential energy term on the right (if it is a conserva-
+tive force), or in the work term on the left (but not in both!).
+6–6 Mechanical Energy and 

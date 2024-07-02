@@ -1,0 +1,26 @@
+ 7–7, part (b).
+180
+CHAPTER 7
+A nuclear collision. A proton (p) of mass 
+(unified
+atomic mass units) traveling with a speed of
+has an elastic 
+head-on collision with a helium (He) nucleus  
+initially at rest.
+What are the velocities of the proton and helium nucleus after the collision?
+(As mentioned in Chapter 1,
+but we won’t need this 
+fact.) Assume the collision takes place in nearly empty space.
+APPROACH Like Example 7–7, this is an elastic head-on collision, but now the
+masses of our two particles are not equal. The only external force could be 
+Earth’s gravity, but it is insignificant compared to the powerful forces between the 
+two particles at the moment of collision. So again we use the conservation laws of
+momentum and of kinetic energy, and apply them to our system of two particles.
+SOLUTION We use the subscripts p for the proton and He for the helium
+nucleus. We are given  
+and  
+We want to find the
+velocities 
+and 
+after the collision. From conservation of momentum,
+Because

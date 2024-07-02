@@ -1,0 +1,18 @@
+ hybridization at each C atom is sp2, there is one p orbital on each C atom, 
+each oriented perpendicular to the plane of the molecule. The situation is very much 
+like that in ethylene except we now have six p orbitals arranged in a ring [Figure 9.25(b)]. 
+ 
+The remaining six valence electrons occupy these six p orbitals, one per orbital.
+We could envision using the p orbitals to form three localized p bonds. As shown 
+in Figure 9.26, there are two equivalent ways to make these localized bonds, each corre-
+sponding to one resonance structure. However, a representation that reflects both reso-
+nance structures has the six p electrons “smeared out” among all six carbon atoms, as 
+shown on the right in Figure 9.26. Notice how this smeared representation corresponds 
+Localized p bond
+Delocalized p bond
+Resonance
+◀ Figure 9.26 Delocalized P bonds in 
+benzene.
+366 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+to the circle-in-a-hexagon drawing we often use to represent benzene. This mo

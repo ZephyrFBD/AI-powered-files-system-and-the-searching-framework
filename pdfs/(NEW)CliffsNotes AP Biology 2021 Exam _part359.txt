@@ -1,0 +1,11 @@
+silencing caused by short RNA molecules that bind to complementary
+sequences of mRNAs in the cytoplasm and block their translation or cause their degradation (by cleavages). The two
+best understood kinds of these molecules are described here:
+microRNAs (miRNAs) originate from DNA that is found scattered across the genome—within introns of protein-
+coding genes, in repetitive DNA associated centromeres and telomeres, as well as in genes specific for the miRNA.
+A miRNA begins as a larger RNA transcript with double-stranded portions that subsequently undergoes enzymatic
+RNA processing in the nucleus and subsequent processing in the cytoplasm and ends as short, single-stranded RNAs
+with about 20 nucleotides.
+Short interfering RNAs (siRNAs) are generally generated from dsRNA that originated outside the cell and entered
+the cell via double-stranded RNA (dsRNA) viruses or experimentally injected dsRNAs. The biochemical
+transformation from dsRNA to short siRNA is similar to the cytoplasmic RNA

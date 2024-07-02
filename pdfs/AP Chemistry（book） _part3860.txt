@@ -1,0 +1,71 @@
+try 
+1055
+Cocaine
+Morphine
+Codeine
+O
+O
+O
+HO
+HO
+HO
+O
+O
+N
+N
+H3C
+CH3
+CH3
+O
+O
+N
+CH3
+H3C
+An amine with at least one H bonded to N can undergo a condensation reaction 
+with a carboxylic acid to form an amide, which contains the carbonyl group 1C “O2 
+attached to N (Table 24.6):
+  CH3C
+OH
+H
+N(CH3)2
+N(CH3)2
+H2O
+O
+CH3C
+O
++
++
+ 
+[24.22]
+We may consider the amide functional group to be derived from a carboxylic acid with an 
+NRR′, NH2, or NHR′ group replacing the OH of the acid, as in these examples:
+CH3C
+O
+O
+NH2
+CH3C
+O
+NH
+C
+Ethanamide
+Acetamide
+Phenylmethanamide
+Benzamide
+NH2
+N-(4-hydroxyphenyl)ethanamide
+Acetaminophen
+OH
+The amide linkage
+O
+C
+R
+R′
+N
+H
+where R and R′ are organic groups, is the key functional group in proteins, as we will see 
+in Section 24.7.
+24.5 ∣ Chirality in Organic Chemistry
+A molecule possessing a nonsuperimposable mirror image is termed chiral (Greek cheir, 
+“hand”). 
+ (Section 23.4) Compounds containing carbon atoms with four different attached 
+groups are inherently chir

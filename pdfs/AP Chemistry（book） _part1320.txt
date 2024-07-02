@@ -1,0 +1,40 @@
+ numbered. 
+ 
+(a) Which colored balls must represent sodium ions? 
+ 
+(b) Which colored balls must represent chloride ions? 
+ 
+(c) Consider ion 5. How many attractive electrostatic in-
+teractions are shown for it? (d) Consider ion 5. How many 
+repulsive interactions are shown for it? (e) Is the sum of the at-
+tractive interactions in part (c) larger or smaller than the sum 
+of the repulsive interactions in part (d)? (f) If this pattern of 
+ions was extended indefinitely in two dimensions, would the 
+ 
+lattice energy be positive or negative? [Section 8.2]
+1
+2
+3
+7
+8
+9
+4
+5
+6
+Key Equations
+t Eel =
+kQ 1Q 2
+d
+                    [8.4]
+The potential energy of two interacting charges
+t m = Qr                       [8.10]
+The dipole moment of two charges of equal magnitude but opposite 
+sign, separated by a distance r
+t Formal charge = valence electrons -       
+ 
+  [8.11]
+1
+2 1bonding electrons2 - nonbonding electrons
+The definition of formal charge
+330 
+CHAPTER 8 Basic Concepts of Chemical 

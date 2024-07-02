@@ -1,0 +1,28 @@
+he top of the
+valence band to the bottom of the
+conduction band due to thermal
+agitation at room temperature
+(exaggerated).
+Eg.
+Eg,
+Conduction band
+Valence band
+(b) Insulator
+(a) Conductor
+Conduction band
+Valence band
+(c) Semiconductor
+Eg
+Eg
+29–8 Semiconductors and Doping
+Nearly all electronic devices today use semiconductors—mainly silicon (Si),
+although the first transistor (1948) was made with germanium (Ge). An atom of
+silicon has four outer electrons (group IV of the Periodic Table) that act to hold
+the atoms in the regular lattice structure of the crystal, shown schematically in
+Fig. 29–26a. Silicon acquires properties useful for electronics when a tiny amount
+of impurity is introduced into the crystal structure (perhaps 1 part in 
+or 
+).
+This is called doping the semiconductor. Two kinds of doped semiconductor can
+be made, depending on the type of impurity used. The impurity can be an element
+whose atoms have five outer electrons (group V in the Periodic Table), such as arsenic.

@@ -1,0 +1,15 @@
+ar can be determined by observing
+its gravitational effects on other visible objects. Many stars are part of a cluster, the simplest being
+a binary star in which two stars orbit around each other, allowing their masses to be determined using
+rotational mechanics.
+Careful study of nearby stars has shown that the luminosity for most stars
+depends on the mass: the more massive the star, the greater its luminosity†.
+Another important parameter of a star is its surface temperature, which can be
+determined from the spectrum of electromagnetic frequencies it emits. As we
+saw in Chapter 27, as the temperature of a body increases, the spectrum shifts
+from predominantly lower frequencies (and longer wavelengths, such as red) to
+higher frequencies (and shorter wavelengths such as blue). Quantitatively, the
+relation is given by Wien’s law (Eq. 27–2): the wavelength 
+at the peak of the
+spectrum of light emitted by a blackbody (we often approximate stars as
+blackbodies) is inversely proportional to 

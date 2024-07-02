@@ -1,0 +1,44 @@
+s the
+weight of the object on Earth, which we have been writing as mg. Thus,
+We can solve this for g, the acceleration of gravity at the Earth’s surface:
+(5;5)
+Thus, the acceleration of gravity at the surface of the Earth, g, is determined by
+and 
+(Don’t confuse G with g; they are very different quantities, but are
+related by Eq. 5–5.)
+Until G was measured, the mass of the Earth was not known. But once G
+was measured, Eq. 5–5 could be used to calculate the Earth’s mass, and Caven-
+dish was the first to do so. Since  
+and the radius of the Earth is
+then, from Eq. 5–5, we obtain the mass of the Earth to be
+Equation 5–5 can be applied to other planets, where g, m, and r would refer 
+to that planet.
+mE = grE
+2
+G
+=
+A9.80 ms2BA6.38 * 106 mB
+2
+6.67 * 10–11 Nm2kg2
+= 5.98 * 1024 kg.
+rE = 6.38 * 106 m,
+g = 9.80 ms2
+rE.
+mE
+g = G mE
+rE
+2 .
+mg = G mmE
+rE
+2
+.
+rE.
+m2
+mE,
+m1
+(F = ma)
+C A U T I O N
+Distinguish Newton’s second law
+from the law of universal gravitation
+C A U T I O N
+Distinguish G fro

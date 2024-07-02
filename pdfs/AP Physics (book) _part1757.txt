@@ -1,0 +1,24 @@
+ctric field is toward the charge Q, to the left as shown in
+Fig. 16–26a, since we defined the direction as that of the force on a positive test
+charge which here would be attractive. If Q had been positive, the electric field
+would have pointed away, as in Fig. 16–26b.
+NOTE There is no electric charge at point P. But there is an electric field there.
+The only real charge is Q.
+E = k Q
+r2
+=
+A9.0 * 109 Nm2C2BA3.0 * 10–6 CB
+(0.30 m)2
+= 3.0 * 105 NC.
+Q = –3.0 * 10–6 C.
+EXAMPLE 16;7
+The electric field at any point in space can be measured, based on the definition,
+Eq.16–3. For simple situations with one or several point charges, we can calculate 
+For example, the electric field at a distance r from a single point charge Q would
+have magnitude
+[single point charge] (16;4a)
+or, in terms of 
+as in Eq. 16–2
+[single point charge] (16;4b)
+Notice that E is independent of the test charge q—that is, E depends only on the
+charge Q which produces the field, and not on the value of the test charge q

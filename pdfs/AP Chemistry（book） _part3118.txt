@@ -1,0 +1,19 @@
+ initial pressure of 0.750 atm? (b) If the final pres-
+sure on the gas is 1.20 atm, calculate the entropy change 
+for the process. (c) Do you need to specify the temperature 
+to calculate the entropy change?
+The Molecular Interpretation of Entropy and the 
+Third Law of Thermodynamics (Section 19.3)
+ 19.29  For the isothermal expansion of a gas into a vacuum, 
+∆E = 0, q = 0, and w = 0. (a) Is this a spontaneous pro-
+cess? (b) Explain why no work is done by the system during 
+this process. (c) What is the “driving force” for the expan-
+sion of the gas: enthalpy or entropy?
+ 19.30  (a) What is the difference between a state and a microstate 
+of a system? (b) As a system goes from state A to state B, its 
+entropy decreases. What can you say about the number of 
+microstates corresponding to each state? (c) In a particular 
+spontaneous process, the number of microstates available 
+to the system decreases. What can you conclude about the 
+sign of ∆Ssurr?
+ 19.31  Would each of the following ch

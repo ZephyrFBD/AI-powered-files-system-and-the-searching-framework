@@ -1,0 +1,65 @@
+raph is trying to tell us 
+how Process I behaves at different temperatures. 
+1 
+2 
+3 
+4 
+5
+00 
+20 
+Mg of A Remaining 
+40 
+60 
+80 
+100 
+30°C 
+40°C 
+50°C 
+10°C 
+20°C 
+Time (hours)  
+Temperature Dependence of Process I  
+Figure A.18 
+Before we try to construct the rate curve for this graph, we should try to imagine how 
+this experiment was carried out. It seems clear that the experiment must have started 
+with several different batches of A and that each reaction mixture was kept at a different 
+temperature. Then, every half-hour, the amount of A remaining was measured and the 
+amount consumed was calculated. The results might have been plotted in five separate 
+progress curves, as shown in Figure A.19. 
+Appendix B A15 
+A16  Appendix B 
+ 
+Mg A Consumed
+80 
+60 
+40 
+20 
+00 
+Time (hours) 
+1 
+2 
+3 0 
+Time (hours) 
+Time (hours) 
+1 
+2 
+3 0 
+1 
+2 
+3 0 
+Time (hours) 
+1 
+2 
+3 0  
+Time (hours) 
+3
+1 
+2 
+10° 
+20° 
+30° 
+40° 
+50° 
+ 
+Figure A.19 
+When all these progress curves are plotted on the same gr

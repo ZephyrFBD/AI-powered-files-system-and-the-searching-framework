@@ -1,0 +1,12 @@
+ed electrons in the d orbitals of the metal ion. The energy dia-
+gram in Figure 23.28 shows how these ligand point charges affect the energies of the d 
+orbitals. First, we imagine the complex as having all the ligand point charges uniformly 
+distributed on the surface of a sphere centered on the metal ion. The average energy of 
+the metal ion’s d orbitals is raised by the presence of this uniformly charged sphere. 
+Hence, the energies of all five d orbitals are raised by the same amount.
+This energy picture is only a first approximation, however, because the ligands are 
+not distributed uniformly on a spherical surface and, therefore, do not approach the 
+metal ion equally from every direction. Instead, we envision the six ligands approach-
+ing along x-, y-, and z-axes, as shown on the right in Figure 23.28. This arrangement of 
+ligands is called an octahedral crystal-field. Because the metal ion’s d orbitals have dif-
+ferent orientations and shapes, they do not all experience the sam

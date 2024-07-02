@@ -1,0 +1,71 @@
+the horizontal table. The normal force is not always vertical,
+however. When you push against a wall, for example, the normal force with
+which the wall pushes back on you is horizontal (Fig. 4–9). For an object on a
+plane inclined at an angle to the horizontal, such as a skier or car on a hill, the
+normal force acts perpendicular to the plane and so is not vertical.
+(= mg)
+F
+N = mg - 40.0 N = 98.0 N - 40.0 N = 58.0 N.
+©F
+y = F
+N - mg + 40.0 N = 0,
+a = 0,
+F
+N = mg + 40.0 N = 98.0 N + 40.0 N = 138.0 N,
+©F
+y = F
+N - mg - 40.0 N = 0.
+(a = 0).
+©F
+y = F
+N - mg - 40.0 N,
+mg = 98.0 N.
+F
+N = mg.
+F
+N - mg = 0,
+©F
+y = may
+ay = 0
+©F
+y = may,
+©F
+y = F
+N - mg;
+©F
+y
+mg = (10.0 kg)A9.80 ms2B = 98.0 N,
+EXAMPLE 4;6
+SECTION 4–6
+Weight—the Force of Gravity; and the Normal Force
+85
+C A U T I O N
+The normal force is not 
+always equal to the weight
+40.0 N
+40.0 N
+y
+y
+y
+N
+N
+N
+F
+B
+F
+B
+F
+B
+mg
+B
+mg
+B
+mg
+B
+(b)
+(a)
+(c)
+Fy  FN  mg  40.0 N  0
+Fy  FN  mg  40.0 N  0
+Fy  FN  mg  0
+FIGURE 4;15 Example 4–6.

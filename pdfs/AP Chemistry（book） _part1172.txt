@@ -1,0 +1,40 @@
+bond length in this molecule is d1, 
+and the four A ¬ X bond lengths are each d2. (a) In terms of 
+d1 and d2, how could you define the bonding atomic radii of 
+atoms A and X? (b) In terms of d1 and d2, what would you pre-
+dict for the X¬X bond length of an X2 molecule? [Section 7.3]
+A
+A
+X
+X
+X
+X
+d1
+d2
+2p
+3p
+3s
+2s
+1s
+E
+ 
+ (a)  
+Are all of the subshells for n = 1, n = 2, and n = 3 
+shown? If not, what is missing?
+ 
+(b)  
+The 2s and 2p energy levels are different. Which of the 
+following is the best explanation for why this is the case? 
+(i) The 2s and 2p energy levels have different energies in 
+the hydrogen atom, so of course they will have different 
+energies in the sodium atom, (ii) The energy of the 2p 
+orbital is higher than that of the 2s in all many-electron 
+atoms. (iii) The 2s level in Na has electrons in it, whereas 
+the 2p does not.
+ 
+(c)  
+Which of the energy levels holds the highest-energy elec-
+tron in a sodium atom?
+ 
+(d)  
+A sodium vapor lamp (Figure 7.23) operates by usin

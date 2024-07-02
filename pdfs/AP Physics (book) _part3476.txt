@@ -1,0 +1,20 @@
+e 
+a high density of nuclei to ensure a sufficiently high collision rate. A real diffi-
+culty with controlled fusion is to contain nuclei long enough and at a high 
+enough density for sufficient reactions to occur so that a usable amount of 
+energy is obtained. At the temperatures needed for fusion, the atoms are ionized,
+and the resulting collection of nuclei and electrons is referred to as a plasma.
+Ordinary materials vaporize at a few thousand degrees at most, and hence cannot
+be used to contain a high-temperature plasma. Two major containment techniques
+are magnetic confinement and inertial confinement.
+In magnetic confinement, magnetic fields are used to try to contain the hot
+plasma. A simple approach is the “magnetic bottle” shown in Fig. 31–13. The
+paths of the charged particles in the plasma are bent by the magnetic field; where
+magnetic field lines are close together, the force on the particles reflects them
+4 * 108 K.
+T g 1
+T = 2G
+3k
+=
+2(0.22 MeV)A1.6 * 10–13 JMeVB
+3A1.38 *

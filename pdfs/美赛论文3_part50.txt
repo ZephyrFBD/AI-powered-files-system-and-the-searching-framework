@@ -1,0 +1,17 @@
+Suffering degree:
+Due to the influence of the bubble, the temperature of the water will not be so
+easy to get lost, which indirectly results in the time of being uncomfortable
+increasing so that the suffering degree increases.
+(3)Wasting water:
+The time during the process of fusion and cleaning increases, so the times of
+adding water decreases. That is to say, wasting water decreases.
+(4)Conclusion:
+Bubbles will have some impacts on our strategies before to some extent.
+Modification is to increase the speed of adding water and stir the water
+continuously during the process of adding water to enable the water to be even much
+more quickly.
+6. Improvement of model
+Actually, our cooling model is still rough and ideal so that there is a lot of space
+to improve our cooling model. This time, we are trying to improve our cooling model
+from a new perspective. Using Weber-Fechner law to solve the problem of water
+being cool in a natural condition will have some errors, so we specifically analyze

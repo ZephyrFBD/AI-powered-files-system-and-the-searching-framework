@@ -1,0 +1,14 @@
+l is passed on to the
+next generation and introduces new allelic variation into the population and the potential for evolutionary change.
+There are various kinds of mutations. A point mutation is a single nucleotide error and includes the following:
+ 
+1. A substitution occurs when the DNA sequence contains an incorrect nucleotide in place of the correct nucleotide.
+ 
+2. A deletion occurs when a nucleotide is omitted from the nucleotide sequence.
+ 
+3. An insertion occurs when a nucleotide is added to the nucleotide sequence.
+4. A frameshift mutation occurs as a result of a nucleotide deletion or insertion. Such mutations cause all
+subsequent nucleotides to be displaced one position. If a frameshift mutation occurs in a DNA segment whose
+transcription produces the mRNA, all codons following the transcribed mutation will change.
+A point mutation may or may not have a significant phenotypic effect. If the mRNA is produced from a DNA
+segment that contains a point mutation, one of the follow

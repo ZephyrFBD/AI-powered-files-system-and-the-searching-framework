@@ -1,0 +1,31 @@
+electronic device, is because
+capacitors may still be carrying charge even if the external power is turned off.
+On the other hand, the basis of a heart defibrillator is a capacitor charged to
+a high voltage. A heart attack can be characterized by fast irregular beating of
+the heart, known as ventricular (or cardiac) fibrillation. The heart then does not
+pump blood to the rest of the body properly, and if the interruption lasts for long,
+death results. A sudden, brief jolt of charge through the heart from a defibrillator
+can cause complete heart stoppage, sometimes followed by a resumption of normal
+beating. The defibrillator capacitor is charged to a high voltage, typically a few
+thousand volts, and is allowed to discharge very rapidly through the heart via a
+pair of wide contacts known as “pads” or “paddles” that spread out the current
+over the chest (Fig. 17–21).
+energy density =
+pe
+volume =
+1
+2  0 E2.
+=
+1
+2  0 E2Ad.
+pe =
+1
+2 CV2 = 1
+2 ¢  0 A
+d
+≤AE2d2B
+C =  0 Ad
+V = Ed
+E
+B
+P H Y

@@ -1,0 +1,50 @@
+( = 0.10)
+( = 0.70)
+EXAMPLE 14;10
+ESTIMATE
+P H Y S I C S  A P P L I E D
+Room comfort
+Cooling by radiation. An athlete is sitting
+unclothed in a locker room whose dark walls are at a temperature of 15°C. Estimate
+the body’s rate of heat loss by radiation, assuming a skin temperature of 34°C and
+Take the surface area of the body not in contact with the chair to be 
+APPROACH We use Eq. 14–7, which requires Kelvin temperatures.
+SOLUTION We have
+NOTE This person’s “output” is a bit more than what a 100-W bulb uses.
+NOTE Avoid a common error: AT1
+4 - T2
+4B Z AT
+1 - T
+2B4.
+= 120 W.
+= (0.70)A5.67 * 10–8 Wm2K4BA1.5 m2B C(307 K)4 - (288 K)4D
+Q
+t
+= sAAT1
+4 - T2
+4B
+1.5 m2 .
+ = 0.70.
+EXAMPLE 14;9
+ESTIMATE
+P H Y S I C S  A P P L I E D
+The body’s radiative heat loss
+P R O B L E M  S O L V I N G
+Must use the Kelvin temperature
+P R O B L E M  S O L V I N G
+T1
+4 - T2
+4 Z
+AT
+1 - T
+2B4
+P H Y S I C S  A P P L I E D
+Prefer warm walls, cool air
+SECTION 14–8
+Heat Transfer: Radiation
+405
+A cos θ
+A
+θ
+θ
+FI

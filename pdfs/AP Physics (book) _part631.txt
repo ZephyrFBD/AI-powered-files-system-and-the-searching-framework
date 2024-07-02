@@ -1,0 +1,21 @@
+e2 - pe1 .
+W
+NC
+W
+NC = ¢ke + ¢pe,
+156
+CHAPTER 6
+Work and Energy
+One of the great results of physics is that whenever energy is transferred or
+transformed, it is found that no energy is gained or lost in the process.
+This is the law of conservation of energy, one of the most important princi-
+ples in physics; it can be stated as:
+The total energy is neither increased nor decreased in any process. Energy
+can be transformed from one form to another, and transferred from one
+object to another, but the total amount remains constant.
+We have already discussed the conservation of energy for mechanical systems
+involving conservative forces, and we saw how it could be derived from Newton’s
+laws and thus is equivalent to them. But in its full generality, the validity of the
+law of conservation of energy, encompassing all forms of energy including those
+associated with nonconservative forces like friction, rests on experimental obser-
+vation. Even though Newton’s laws are found to fail in the sub

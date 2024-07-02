@@ -1,0 +1,62 @@
+ved experimentally.
+This result is further evidence that X-rays are a form of electromagnetic radiation
+(light) and that the photon theory of light is valid.
+Cutoff wavelength. What is the shortest-wavelength 
+X-ray photon emitted in an X-ray tube subjected to 50 kV?
+APPROACH The electrons striking the target will have a ke of 50 keV. The
+shortest-wavelength photons are due to collisions in which all of the electron’s
+KE is given to the photon so
+SOLUTION From Eq. 28–4,
+or 0.025 nm.
+NOTE This result agrees well with experiment, Fig. 28–11.
+l0 =
+hc
+eV
+=
+A6.63 * 10–34 JsBA3.0 * 108 msB
+A1.6 * 10–19 CBA5.0 * 104 VB
+= 2.5 * 10–11 m,
+ke = eV = hf
+0 .
+EXAMPLE 28;9
+l0
+l0 =
+hc
+eV
+.
+l0
+f
+0 = cl0
+hf
+0 = eV.
+¢ke = eV
+(ke¿ = 0),
+ke = eV.
+hf = ¢ke.
+¢ke = ke - ke¿,
+Z = 82,
+Z - 1 = 16500 = 81,
+EZ
+EH
+=
+(Z - 1)2
+1
+2
+= 66.3 * 103 eV
+10.2 eV
+= 6.50 * 103,
+(Z - 1)2
+Z2
+EZ
+EH = 13.6 eV - 3.4 eV = 10.2 eV
+n = 1
+n = 2
+Z - 1
+(n = 2).
+n = 1
+Ka
+EXAMPLE 28;8
+*SECTION 28–9
+X-Ray Spectra and Atomic Number
+819
+FI

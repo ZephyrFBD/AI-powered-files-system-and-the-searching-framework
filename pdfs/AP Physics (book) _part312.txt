@@ -1,0 +1,34 @@
+ airplane is heading due south at a speed of
+If a wind begins blowing from the southwest at
+a speed of 
+(average), calculate (a) the velocity
+(magnitude and direction) of the plane, relative to the
+ground, and (b) how far from its intended position it will
+be after 11.0 min if the pilot takes no corrective action.
+[Hint: First draw a diagram.]
+45. (II) In what direction should the pilot aim the plane in
+Problem 44 so that it will fly due south?
+46. (II) A swimmer is capable of swimming 
+in still
+water. (a) If she aims her body directly across a 45-m-wide
+river whose current is 
+how far downstream (from
+a point opposite her starting point) will she land? (b) How
+long will it take her to reach the other side?
+47. (II) (a) At what upstream angle must the swimmer in
+Problem 46 aim, if she is to arrive at a point directly across
+the stream? (b) How long will it take her?
+0.50 ms,
+0.60 ms
+90.0 kmh
+688 kmh.
+Problems
+71
+0.60 m/s
+= 1.70 m/s
+45
+x
+y
+v
+FIGURE 3;43 Problem 42.
+41. (II) Two plan

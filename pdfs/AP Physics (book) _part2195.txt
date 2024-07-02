@@ -1,0 +1,39 @@
+field B?
+APPROACH Three straight sections of the wire loop are in the magnetic field:
+a horizontal section and two vertical sections. We apply Eq. 20–1 to each sec-
+tion and use the right-hand rule.
+SOLUTION Using right-hand-rule-2 (page 564), we see that the magnetic force
+on the left vertical section of wire points to the left, and the force on the vertical
+section on the right points to the right. These two forces are equal and in
+opposite directions and so add up to zero. Hence, the net magnetic force on the
+loop is that on the horizontal section ab, whose length is
+The 
+angle between 
+and the wire is
+so
+Thus Eq. 20–1 gives
+NOTE This technique can be a precise means of determining magnetic field strength.
+B =
+F
+Il =
+3.48 * 10–2 N
+(0.245 A)(0.100 m) = 1.42 T.
+sin u = 1.
+u = 90°,
+B
+B
+u
+l = 0.100 m.
+I = 0.245 A.
+F = 3.48 * 10–2 N
+B = 0
+l = 10.0 cm
+B
+B
+.
+B
+B
+EXAMPLE 20;2
+20–4 Force on an Electric Charge
+Moving in a Magnetic Field
+We have seen that a current-carrying wire experiences a

@@ -1,0 +1,23 @@
+nt states†, and all give off (or
+absorb) photons of energy
+(29;4)
+This is very close to experimental values for small 
+But for higher energies, the
+curve (Fig. 29–17) begins to deviate from a perfect SHO curve, which affects
+the wavelengths and frequencies of the transitions. Typical transition energies are
+on the order of 
+roughly 10 to 100 times larger than for rotational
+transitions, with wavelengths in the infrared region of the spectrum 
+Vibrational energy levels in hydrogen. Hydrogen mole-
+cule vibrations emit infrared radiation of wavelength around 2300 nm. (a) What
+is the separation in energy between adjacent vibrational levels? (b) What is the
+lowest vibrational energy state?
+APPROACH The energy separation between adjacent vibrational levels is
+(Eq. 29–4)
+The lowest energy (Eq. 29–3) has
+SOLUTION
+(a)
+where the denominator includes the conversion factor from joules to eV.
+(b) The lowest vibrational energy has
+in Eq. 29–3:
+EXERCISE C What is the energy of the first vibrational s

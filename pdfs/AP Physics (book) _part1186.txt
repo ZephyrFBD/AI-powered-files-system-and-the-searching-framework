@@ -1,0 +1,28 @@
+en any two successive identical points on the wave. The frequency, f,
+is the number of crests—or complete cycles—that pass a given point per unit time.
+The period, T, equals 1/f and is the time elapsed between two successive crests
+passing by the same point in space.
+l
+306
+CHAPTER 11
+Oscillations and Waves
+Velocity of
+rope particle
+Velocity of wave
+FIGURE 11–22 (Repeated.) Wave
+traveling on a rope or cord. The
+wave travels to the right along the
+rope. Particles of the rope oscillate
+back and forth on the tabletop.
+SECTION 11–8
+Types of Waves and Their Speeds: Transverse and Longitudinal
+307
+The wave speed, v, is the speed at which wave crests (or any other fixed 
+point on the wave shape) move forward. The wave speed must be distinguished 
+from the speed of a particle of the medium itself as we saw in Example 11–10.
+A wave crest travels a distance of one wavelength,
+in a time equal to one
+period, T. Thus the wave speed is
+Then, since
+(11;12)
+For example, suppose a wave has a wavelength 

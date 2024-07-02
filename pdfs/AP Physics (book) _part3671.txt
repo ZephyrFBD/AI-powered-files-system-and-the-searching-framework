@@ -1,0 +1,21 @@
+imate the total mass
+of our Galaxy using the orbital data above for the Sun about the center of the
+Galaxy. Assume the mass of the Galaxy is concentrated in the central bulge.
+APPROACH We assume that the Sun (including our solar system) has total mass m
+and moves in a circular orbit about the center of the Galaxy (total mass M), and that
+the mass M can be considered as being located at the center of the Galaxy. We
+then apply Newton’s second law,
+with a being the centripetal accelera-
+tion,
+and for F we use the universal law of gravitation (Chapter 5).
+SOLUTION Our Sun and solar system orbit the center of the Galaxy, according to
+the best measurements as mentioned above, with a speed of about 
+at a distance from the Galaxy center of about
+We use Newton’s
+second law:
+where M is the mass of the Galaxy and m is the mass of our Sun and solar
+system. Solving this, we find
+NOTE In terms of numbers of stars, if they are like our Sun 
+there would be about 
+or very roughly on
+the order of 100 bi

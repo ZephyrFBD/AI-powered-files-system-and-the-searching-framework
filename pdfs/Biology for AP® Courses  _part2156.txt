@@ -1,0 +1,11 @@
+.
+Another cause of nonrandom mating is physical location. This is especially true in large populations spread over large
+geographic distances where not all individuals will have equal access to one another. Some might be miles apart through
+woods or over rough terrain, while others might live immediately nearby.
+Environmental Variance
+Genes are not the only players involved in determining population variation. Phenotypes are also influenced by other
+factors, such as the environment (Figure 19.7). For example, sun exposure is an environmental factor, as a person who
+spends more time in the sun will likely have darker skin than a person who spends most of their time indoors (assuming both
+people had similarly-colored skin to start with). Some major characteristics, such as sex, are determined by the environment
+for some species. For example, some turtles and other reptiles have temperature-dependent sex determination (TSD). TSD
+means that individuals develop into males if their eggs are 

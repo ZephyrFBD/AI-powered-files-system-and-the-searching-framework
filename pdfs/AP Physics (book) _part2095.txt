@@ -1,0 +1,16 @@
+ch RC circuits are
+common in everyday life. They are used to control the speed of a car’s windshield
+wipers and the timing of traffic lights; they are used in camera flashes, in heart
+pacemakers, and in many other electronic devices. In RC circuits, we are not so
+interested in the final “steady state”voltage and charge on the capacitor, but rather
+in how these variables change in time.
+A simple RC circuit is shown in Fig. 19–20a. When the switch S is closed,
+current immediately begins to flow through the circuit. Electrons will flow out
+from the negative terminal of the battery, through the resistor R, and accumulate
+on the upper plate of the capacitor. And electrons will flow into the positive
+terminal of the battery, leaving a positive charge on the other plate of the
+capacitor. As charge accumulates on the capacitor, the potential difference
+across it increases
+and the current is reduced until eventually the
+voltage across the capacitor equals the emf of the battery,
+There is then n

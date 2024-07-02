@@ -1,0 +1,58 @@
+ause normal openings and obstacles are much larger
+than the wavelength of the light, and so relatively little diffraction or bending
+occurs.
+t
+r = vt.
+v
+680
+CHAPTER 24
+The Wave Nature of Light
+FIGURE 24–1 Huygens’ principle,
+used to determine wave front CD
+when wave front AB is given.
+S
+Source
+C
+A
+D
+B
+FIGURE 24–2 Huygens’ principle is
+consistent with diffraction
+(a) around the edge of an obstacle,
+(b) through a large hole, (c) through
+a small hole whose size is on the
+order of the wavelength of the wave.
+(a)
+(b)
+(c)
+*SECTION 24–2
+Huygens’ Principle and the Law of Refraction
+681
+FIGURE 24–3 Refraction explained,
+using Huygens’ principle. Wave
+fronts are perpendicular to the rays.
+Ray
+A
+Wave front
+Medium 1
+1
+¨
+90°
+t
+1
+v
+Medium 2
+(v2  v1)
+B
+2
+u
+D
+C
+2t
+v
+Ray
+24–2 Huygens’ Principle and the
+Law of Refraction
+The laws of reflection and refraction were well known in Newton’s time. The law
+of reflection could not distinguish between the two theories we just discussed:
+waves versus particles. 

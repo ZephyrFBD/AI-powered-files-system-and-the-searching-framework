@@ -1,0 +1,17 @@
+ay be needed to create gas-phase atoms or molecules. 
+Next, the gas-phase species must be converted to positively charged 
+particles called ions. There are many approaches to creating ions, 
+including bombardment with beams of high-energy electrons or 
+chemical reactions with other gas-phase molecules. Once gas-phase 
+ions have been produced, they are accelerated toward a negatively 
+charged grid. After the ions pass through the grid, they encoun-
+ter two slits that allow only a narrow beam of ions to pass. This 
+beam then passes between the poles of a magnet, which deflects 
+the ions into a curved path. For ions with the same charge, the 
+extent of deflection depends on mass—the more massive the ion, 
+the less the deflection. The ions are thereby separated according to 
+their masses. By changing the strength of the magnetic field or the 
+A Closer look The Mass Spectrometer
+accelerating voltage on the grid, ions of various masses can be se-
+lected to enter the detector.
+A graph of the 

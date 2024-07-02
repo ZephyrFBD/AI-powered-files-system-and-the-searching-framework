@@ -1,0 +1,19 @@
+ve value of ∆G tells us that the 
+reverse reaction is spontaneous. Thus, when the mixture of these 
+gases, each at a partial pressure of 1 atm, is heated to 773 K,  
+some of the NH31g2 spontaneously decomposes into N21g2 and 
+H21g2.
+Continued
+832 
+CHAPTER 19 Chemical Thermodynamics
+19.7 ∣  
+Free Energy and the  
+Equilibrium Constant
+In Section 19.5 we saw a special relationship between ∆G and equilibrium: For a system at 
+equilibrium, ∆G = 0. We have also seen how to use tabulated thermodynamic data to cal-
+culate values of the standard free-energy change, ∆G°. In this final section, we learn two 
+more ways in which we can use free energy to analyze chemical reactions: using ∆G° to cal-
+culate ∆G under nonstandard conditions and relating the values of ∆G° and K for a reaction.
+Free Energy under Nonstandard Conditions
+The set of standard conditions for which ∆G° values pertain is given in Table 19.2. Most 
+chemical reactions occur under nonstandard conditions. For any chemical process, 

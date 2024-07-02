@@ -1,0 +1,22 @@
+ astronauts. The hydroxide reacts 
+with the carbon dioxide to form solid lithium carbonate and  
+liquid water. How many grams of carbon dioxide can be absorbed  
+by 1.00 g of lithium hydroxide?
+SOLUTION
+Analyze We are given a verbal description of a reaction and asked 
+to calculate the number of grams of one reactant that reacts with 
+1.00 g of another.
+Plan The verbal description of the reaction can be used to write a 
+balanced equation:
+2 LiOH1s2 + CO21g2 ¡ Li2CO31s2 + H2O1l2
+We are given the mass in grams of LiOH and asked to calculate 
+the mass in grams of CO2. We can accomplish this with the three 
+conversion steps in Figure 3.16. The conversion of Step 1 requires 
+the molar mass of LiOH 16.94 + 16.00 + 1.01 = 23.95 g>mol2. 
+The conversion of Step 2 is based on a stoichiometric relationship 
+from the balanced chemical equation: 2 mol LiOH ] 1 mol CO2. 
+For the Step 3 conversion, we use the molar mass of 
+CO2 : 12.01 + 2116.002 = 44.01 g>mol.
+Solve
+11.00 g LiOH2a 1 mol LiOH
+23.95 g

@@ -1,0 +1,10 @@
+ses exponentially. PCR can amplify DNA to billions of copies in hours.
+Gel Electrophoresis and DNA Fingerprinting
+Gel electrophoresis is a procedure that separates restriction fragments. In this procedure, DNA fragments of
+different lengths are separated as they diffuse through a gelatinous material under the influence of an electric field.
+Since DNA is negatively charged (because of the phosphate groups), it moves toward the positive electrode. Shorter
+fragments migrate further through the gel than longer, heavier fragments. Gel electrophoresis is often used to
+compare DNA fragments of closely related species in an effort to determine evolutionary relationships.
+When restriction fragments between individuals of the same species are compared, the fragments differ in length
+because of polymorphisms, which are slight differences in DNA sequences. These fragments are called restriction
+fragment length polymorphisms, or RFLPs. In DNA fingerprinting, RFLPs produced from DNA left at a crime

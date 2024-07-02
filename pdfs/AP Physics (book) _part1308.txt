@@ -1,0 +1,15 @@
+ll sound. We would never mistake a piano
+for a flute. This is what is meant by the quality of a sound. For musical instruments,
+the terms timbre and tone color are also used.
+Just as loudness and pitch can be related to physically measurable quantities,
+so too can quality. The quality of a sound depends on the presence of overtones—
+their number and their relative amplitudes. Generally, when a note is played on a
+musical instrument, the fundamental as well as overtones are present simultaneously.
+Figure 12–14 illustrates how the principle of superposition (Section 11–11) applies
+to three wave forms, in this case the fundamental and first two overtones (with
+particular amplitudes): they add together at each point to give a composite waveform.
+*
+By “waveform” we mean the shape of the wave in space at a given moment. Nor-
+mally, more than two overtones are present. [Any complex wave can be analyzed
+into a superposition of sinusoidal waves of appropriate amplitudes, wavelengths,
+and freque

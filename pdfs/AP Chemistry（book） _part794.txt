@@ -1,0 +1,25 @@
+a) The fuel value of the serving will be the sum of the fuel 
+values of the protein, carbohydrates, and fat. (b) Here we are faced 
+with the reverse problem, calculating the quantity of food that 
+provides a specific fuel value.
+Plan (a) We are given the masses of the protein, carbohydrates, 
+and fat contained in a serving. We can use the data in Table 5.4 to  
+convert these masses to their fuel values, which we can sum to  
+get the total fuel value. (b) The problem statement provides a con-
+version factor between Calories and miles. The answer to part (a) 
+provides us with a conversion factor between servings and Calories.
+Solve
+(a)  
+(b)  
+We can use these factors in a straightforward dimensional 
+analysis to determine the number of servings needed, 
+rounded to the nearest whole number:
+Servings = 13 mi2a 100 Cal
+1 mi
+b a
+1 serving
+160 Cal b = 2 servings
+ 
+▶Practice Exercise 1
+A stalk of celery has a caloric content (fuel value) of 9.0 kcal. 
+If 1.0 kcal is provided by fat and there 

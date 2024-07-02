@@ -1,0 +1,19 @@
+iCoO2 and into the graphite. During discharge, when the battery is 
+producing electricity for use, the Li+ ions spontaneously migrate from the graphite 
+anode through the electrolyte to the cathode, enabling electrons to flow through 
+the external circuit (Figure 20.21).
+hydrogen Fuel Cells
+The thermal energy released by burning fuels can be converted to electrical energy. The 
+thermal energy may convert water to steam, for instance, which drives a turbine that 
+in turn drives an electrical generator. Typically, a maximum of only 40% of the energy 
+from combustion is converted to electricity in this manner; the remainder is lost as heat. 
+The direct production of electricity from fuels by a voltaic cell could, in principle, yield 
+ 
+SECTION 20.7  Batteries and Fuel Cells 
+879
+880 
+CHAPTER 20 Electrochemistry
+Go Figure
+When a Li-ion battery is fully discharged, the cathode has an empirical 
+formula of LiCoO2. What is the oxidation number of cobalt in this state? 
+Does the oxidation numb

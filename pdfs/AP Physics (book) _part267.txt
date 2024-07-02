@@ -1,0 +1,30 @@
+ropped from rest at
+the same time the other ball was
+projected horizontally outward.
+The vertical position of each ball is
+seen to be the same at each instant.
+EXERCISE C Two balls having different speeds roll off the edge of a horizontal table at
+the same time. Which hits the floor sooner, the faster ball or the slower one?
+EXERCISE D Where in Fig. 3–20 is (i) 
+(ii) 
+and (iii) vx = 0?
+vy = 0,
+v
+B = 0,
+If an object is projected at an upward angle, as in Fig. 3–20, the analysis is
+similar, except that now there is an initial vertical component of velocity,
+Because of the downward acceleration of gravity, the upward component of
+velocity 
+gradually decreases with time until the object reaches the highest
+point on its path, at which point
+Subsequently the object moves down-
+ward (Fig. 3–20) and 
+increases in the downward direction, as shown (that is,
+becoming more negative). As before,
+remains constant.
+vx
+vy
+vy = 0.
+vy
+vy 0 .
+EXERCISE E Return to the Chapter-Opening Question, page 49, an

@@ -1,0 +1,15 @@
+ in doing a Problem even though they are present in the
+real world, and then our calculation is only an approximation. In doing Problems,
+we should be aware of what approximations we are making, and be aware 
+that the precision of our answer may not be nearly as good as the number of
+significant figures given in the result.
+Accuracy vs.Precision
+There is a technical difference between “precision” and “accuracy.” Precision in
+a strict sense refers to the repeatability of the measurement using a given instru-
+ment. For example, if you measure the width of a board many times, getting
+results like 8.81 cm, 8.85 cm, 8.78 cm, 8.82 cm (interpolating between the 0.1 cm
+marks as best as possible each time), you could say the measurements give a
+precision a bit better than 0.1 cm. Accuracy refers to how close a measurement
+is to the true value. For example, if the ruler shown in Fig. 1–5 was manufac-
+tured with a 2% error, the accuracy of its measurement of the board’s width
+(about 8.8 cm) would

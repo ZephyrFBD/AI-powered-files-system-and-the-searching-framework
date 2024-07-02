@@ -1,0 +1,10 @@
+cose levels fall, E. coli may use other sugars for fuel but must transcribe new genes to do so. As
+glucose supplies become limited, cAMP levels increase. This cAMP binds to the CAP protein, a positive regulator that
+binds to an operator region upstream of the genes required to use other sugar sources.
+The lac Operon: An Inducer Operon
+The third type of gene regulation in prokaryotic cells occurs through inducible operons, which have proteins that bind to
+activate or repress transcription depending on the local environment and the needs of the cell. The lac operon is a typical
+inducible operon. As mentioned previously, E. coli is able to use other sugars as energy sources when glucose concentrations
+are low. To do so, the cAMP–CAP protein complex serves as a positive regulator to induce transcription. One such sugar
+source is lactose. The lac operon encodes the genes necessary to acquire and process the lactose from the local environment.
+CAP binds to the operator sequence upstream of t

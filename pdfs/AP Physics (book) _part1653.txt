@@ -1,0 +1,23 @@
+ropy of one part of the universe may decrease in any natural
+process (see Example 15–14), the entropy of some other part of the universe
+always increases by a greater amount, so the total entropy always increases.
+Now that we finally have a quantitative general statement of the second law
+of thermodynamics, we can see that it is an unusual law. It differs considerably
+from other laws of physics, which are typically equalities (such as 
+) or
+conservation laws (such as for energy and momentum). The second law of ther-
+modynamics introduces a new quantity, the entropy S, but does not tell us it is
+conserved. Quite the opposite. Entropy is not conserved in natural processes.
+Entropy always increases in time for real processes.
+F = ma
+¢S 7 0.
+¢S = 0.
+¢S = ¢Ssys + ¢Senv  0.
+¢Senv,
+¢Ssys ,
+[real process]
+¢S 7 0.
+¢S
+15–8 Order to Disorder
+The concept of entropy, as we have discussed it so far, may seem rather abstract.
+But we can relate it to the more ordinary concepts of order and disorder. 

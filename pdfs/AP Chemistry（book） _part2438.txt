@@ -1,0 +1,23 @@
+ O21g2 ∆ 2 SO31g2, if the volume 
+of the system is increased?
+Effect of Temperature Changes
+Changes in concentrations or partial pressures shift equilibria without changing the 
+value of the equilibrium constant. In contrast, almost every equilibrium constant 
+changes as the temperature changes. For example, consider the equilibrium established 
+when cobalt(II) chloride 1CoCl22 is dissolved in hydrochloric acid, HCl(aq), in the endo-
+thermic reaction
+Co1H2O26
+2+1aq2 + 4 Cl-1aq2 ∆CoCl4
+2-1aq2 + 6 H2O1l2   
+∆H 7 0 
+[15.25]
+Because Co1H2O26
+2+ is pink and CoCl4
+2- is blue, the position of this equilibrium 
+is readily apparent from the color of the solution (Figure 15.14). When the solution is 
+heated it turns blue, indicating that the equilibrium has shifted to form more CoCl4
+2-. 
+Cooling the solution leads to a pink solution, indicating that the equilibrium has 
+shifted to produce more Co1H2O26
+2+. We can monitor this reaction by spectroscopic 
+methods, measuring the concentration of al

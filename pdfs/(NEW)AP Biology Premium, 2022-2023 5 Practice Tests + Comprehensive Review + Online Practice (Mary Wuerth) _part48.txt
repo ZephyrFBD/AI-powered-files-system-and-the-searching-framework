@@ -1,0 +1,18 @@
+ets of data do not overlap, it is likely there is a
+statistically significant difference between the two groups. In that example, there is likely a statistically significant
+difference between the mean plant heights on day 28 for generations 1 and 2.
+However, if the 95% confidence intervals do overlap, the data are inconclusive, and it is not possible to say
+whether or not there is a significant difference between the groups. The experiment would need to be repeated. Here
+is another example that illustrates this point.
+On field trips to a salt marsh, an AP Biology class counted the number of crustaceans in a 100 cm2 quadrant.
+Three different locations in the marsh were visited, and multiple quadrants were counted at each location. The mean
+number of crustaceans per quadrant and the standard error of the mean were calculated from the data at each
+location. The data are shown in the following table.
+Location
+Mean Number of Crustaceans per Quadrant
+Standard Error of the Mean
+A
+8
+1.5
+B
+11

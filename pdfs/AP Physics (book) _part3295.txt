@@ -1,0 +1,17 @@
+nductive layer. The LUMO and HOMO energy levels are analogous
+to the conduction and valence bands of inorganic silicon diodes (Fig. 29–28).
+Holes travel in the HOMO, electrons in the LUMO. (“Orbital” is a chemistry
+word for the states occupied by the electrons in a molecule.)
+(L 2 to 5 V),
+*
+W = white
+When electrons and holes meet near the junction (Fig. 29–38), they can form
+a sort of bound state (like in the hydrogen atom) known as an exciton. An exciton
+has a small binding energy (0.1 to 1 eV), and a very short lifetime on the order 
+of nanoseconds. When an exciton “decays” (the negative electron and positive
+hole combine), a photon is emitted. These photons are the useful output.
+The energy hf of the photon, and its frequency corresponding to the 
+color, depends on the energy structure of the exciton. The energy gap,
+LUMO–HOMO, sets an upper limit on hf, but the vibrational energy levels of
+the molecules reduce that by varying amounts, as does the binding energy of the
+exciton. The

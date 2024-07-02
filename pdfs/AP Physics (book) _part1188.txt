@@ -1,0 +1,28 @@
+spring
+or Slinky by alternately compressing and expanding one end. This is shown in
+Fig. 11–25b, and can be compared to the transverse wave in Fig. 11–25a. A series
+of compressions and expansions travel along the spring. The compressions are
+those areas where the coils are momentarily close together. Expansions (sometimes
+called rarefactions) are regions where the coils are momentarily far apart. Compres-
+sions and expansions correspond to the crests and troughs of a transverse wave.
+0.5 ms;
+15 ms.
+v = lf.
+1T = f,
+v = lT.
+l,
+(a)
+Wavelength
+(b)
+Wavelength
+Compression
+Expansion
+FIGURE 11–25
+(a) Transverse wave;
+(b) longitudinal wave.
+An important example of a longitudinal wave is a sound wave in air. A vibrat-
+ing drumhead, for instance, alternately compresses and expands the air in contact
+with it, producing a longitudinal wave that travels outward in the air, as shown in
+Fig. 11–26.
+As in the case of transverse waves, each section of the medium in which a
+longitudinal wave passes o

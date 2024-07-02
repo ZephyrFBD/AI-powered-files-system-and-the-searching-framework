@@ -1,0 +1,13 @@
+. The signaling allows other bacteria to evaluate the
+local density of bacteria, a process called quorum sensing. When bacteria respond and aggregate, they form
+biofilms, dense populations of bacteria linked by their adhesive proteins. Biofilms, in the form of dental plaque, are
+responsible for tooth decay, and biofilms that form on the inside of bladder walls are responsible for many urinary
+tract infections.
+Domain Archaea
+Archaea are similar to bacteria in that both are prokaryotes. They differ from bacteria and from eukaryotes (Eukarya)
+by the following features:
+1. Archaeal cell walls contain various polysaccharides, but not peptidoglycans (as in bacteria), cellulose (as in
+plants), or chitin (as in fungi).
+2. Archaeal plasma membranes contain phospholipids that differ from the phospholipids of bacteria and eukaryotes.
+Archaea are similar to eukaryotes in the following respects:
+1. Some antibiotics work by disabling ribosome activity and disrupting protein synthesis. Ribosome acti

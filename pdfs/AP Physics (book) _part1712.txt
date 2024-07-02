@@ -1,0 +1,25 @@
+perate an electric stove that can be used
+to heat water. A second system uses a 
+curved mirror
+to concentrate the Sun’s energy directly onto a container of
+water. Estimate how long it takes each system to heat 1.0 kg
+of water from 25°C to 95°C. (See also Chapter 14.)
+1.5-m2
+1.5-m2
+W 6 0.
+Q = 0
+W = 0,
+W 7 0,
+¢U = 0
+7. A dehumidifier removes water vapor from air and has been
+referred to as a “refrigerator with an open door.” The humid
+air is pulled in by a fan and passes over a cold coil, whose
+temperature is less than the dew point, and some of the air’s
+water condenses.After this water is extracted, the air is warmed
+back to its original temperature and sent into the room. In a
+well-designed dehumidifier, the heat that is removed by the
+cooling coil mostly comes from the condensation of water
+vapor to liquid, and this heat is used to re-warm the air. Esti-
+mate how much water is removed in 1.0 h by an ideal
+dehumidifier, if the temperature of the room is 25°C, the
+water condenses at 8°

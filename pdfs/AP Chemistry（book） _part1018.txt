@@ -1,0 +1,20 @@
+ ps?
+ 6.21  A laser pointer used in a lecture hall emits light at 650 nm. 
+What is the frequency of this radiation? Using Figure 6.4, 
+ 
+predict the color associated with this wavelength.
+ 6.22  It is possible to convert radiant energy into electrical energy 
+using photovoltaic cells. Assuming equal efficiency of con-
+version, would infrared or ultraviolet radiation yield more 
+electrical energy on a per-photon basis?
+Quantized Energy and Photons (Section 6.2)
+ 6.23  If human height were quantized in 1-foot increments, what 
+would happen to the height of a child as she grows up: 
+ 
+(i) The child’s height would never change, (ii) the child’s 
+height would continuously get greater, (iii) the child’s height 
+would increase in “jumps” of 1 foot at a time, or (iv) the 
+child’s height would increase in jumps of 6 inches?
+ 6.24  Einstein’s 1905 paper on the photoelectric effect was the 
+ﬁrst important application of Planck’s quantum hypothesis. 
+Describe Planck’s original hypothesis, and expl

@@ -1,0 +1,17 @@
+rther reduced according to Eq. 24–5,
+and the plane of polarization is then along the axis of the second Polaroid.
+SOLUTION The first Polaroid eliminates half the light, so the intensity is
+reduced by half:
+The light reaching the second polarizer is vertically
+polarized and so is reduced in intensity (Eq. 24–5) to
+Thus,
+The transmitted light has an intensity one-eighth that of the
+original and is plane-polarized at a 60° angle to the vertical.
+Three Polaroids. We saw in Fig. 24–43
+that when unpolarized light falls on two crossed Polaroids (axes at 90°), no light
+passes through. What happens if a third Polaroid, with axis at 45° to each of the
+other two, is placed between them (Fig. 24–45a)?
+RESPONSE We start just as in Example 24–13 and recall again that light
+emerging from each Polaroid is polarized parallel to that Polaroid’s axis. Thus
+the angle in Eq. 24–5 is that between the transmission axes of each pair of
+Polaroids taken in turn. The first Polaroid changes the unpolarized light 

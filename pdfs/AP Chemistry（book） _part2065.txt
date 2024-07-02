@@ -1,0 +1,20 @@
+the 
+molality:
+Converting Concentration Units
+If you follow the dimensional analysis techniques you learned in Chapter 1, you can con-
+vert between concentration units, as shown in Sample Exercise 13.5. To convert between 
+molality and molarity, the density of the solution will be needed, as in Sample Exercise 13.6.
+An aqueous solution of hydrochloric acid contains 36% HCl by mass. (a) Calculate the mole fraction of HCl in the solution.  
+(b) Calculate the molality of HCl in the solution.
+Sample Exercise 13.5 
+Calculation of Mole Fraction and Molality
+Analyze We are asked to calculate the concentration of the solute, 
+HCl, in two related concentration units, given only the percentage 
+by mass of the solute in the solution.
+SOLUTION
+Plan In converting concentration units based on the mass or 
+moles of solute and solvent (mass percentage, mole fraction, 
+and molality), it is useful to assume a certain total mass of 
+Solve
+(a) To calculate the mole fraction of HCl, we convert 
+the masses 

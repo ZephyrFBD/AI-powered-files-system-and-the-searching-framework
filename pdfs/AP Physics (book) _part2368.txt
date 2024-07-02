@@ -1,0 +1,36 @@
+   
+.
+e =
+–N ¢£B
+¢t
+=
+–L ¢I
+¢t
+,
+B = m0 INl
+£B
+Ae = –L ¢I¢tB.
+Ae = –N ¢£B¢tB
+N = 100,  l = 5.0 cm,  A = 0.30 cm2,
+l
+EXAMPLE 21;13
+2
+1–1
+1 Energy Stored in a Magnetic Field
+In Section 17–9 we saw that the energy stored in a capacitor is equal to 
+By using a similar argument, it can be shown that the energy U stored in an
+inductance L, carrying a current I, is
+Just as the energy stored in a capacitor can be considered to reside in the electric
+field between its plates, so the energy in an inductor can be considered to be
+stored in its magnetic field.
+To write the energy in terms of the magnetic field, we quote the result of
+Example 21–13 that the inductance of a solenoid is 
+The magnetic
+field B in a solenoid is related to the current I (see Eq. 20–8) by 
+Thus,
+and
+We can think of this energy as residing in the volume enclosed by the windings,
+which is 
+Then the energy per unit volume, or energy density, is
+(21;10)
+This formula, which was derived for the special case of a solenoid, ca

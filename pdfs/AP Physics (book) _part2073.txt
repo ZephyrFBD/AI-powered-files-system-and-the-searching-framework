@@ -1,0 +1,14 @@
+l energy. As it is pulled up the first hill, its gravitational
+potential energy increases and reaches a maximum at the top. As it descends the
+other side, its potential energy decreases and reaches a local minimum at the
+bottom of the hill. As the roller coaster continues on its up and down path, its poten-
+tial energy goes through more changes. But when it arrives back at the starting
+point, it has exactly as much potential energy as it had when it started at this point.
+Another way of saying this is that there was as much uphill as there was downhill.
+Similar reasoning can be applied to an electric circuit. We will analyze the circuit
+of Fig.19–11 shortly, but first we consider the simpler circuit in Fig.19–12. We have
+chosen it to be the same as the equivalent circuit of Fig. 19–7b already discussed.
+The current in this circuit is 
+as we calculated in
+Example 19–4. (We keep an extra digit in I to reduce rounding errors.) The positive
+side of the battery, point e in Fig. 19–12a, is a

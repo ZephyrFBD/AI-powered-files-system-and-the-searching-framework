@@ -1,0 +1,38 @@
+ainly you must avoid just
+plugging numbers into equations that seem to “work.”
+1. As always, read carefully; choose the object (or
+objects) you are going to analyze.
+2. Draw a careful diagram showing what is happening
+to the object.
+3. Choose an origin and an xy coordinate system.
+4. Decide on the time interval, which for projectile
+motion can only include motion under the effect of
+gravity alone, not throwing or landing. The time inter-
+val must be the same for the x and y analyses. The x
+and y motions are connected by the common time, .
+t
+TABLE 3;1 General Kinematic Equations for Constant Acceleration 
+in T
+wo Dimensions
+x component (horizontal) 
+y component (vertical)
+(Eq. 2–11a)
+(Eq. 2–11b)
+(Eq. 2–11c)
+vy
+2 = vy 0
+2
++ 2ayAy - y0B
+vx
+2 = vx 0
+2
++ 2axAx - x0B
+y = y0 + vy 0t + 1
+2 ayt2
+x = x0 + vx 0t + 1
+2 axt2
+vy = vy 0 + ayt
+vx = vx 0 + axt
+3–6 Solving Projectile Motion Problems
+We now work through several Examples of projectile motion quantitatively. We
+use the kinematic equations 

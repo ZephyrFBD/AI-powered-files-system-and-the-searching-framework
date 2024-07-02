@@ -1,0 +1,30 @@
+hy this happens, we must 
+consider the forces between the electrons and how these forces are 
+ 
+affected by the shapes of the orbitals. We will, however, forgo this anal-
+ysis until Chapter 7.
+The important idea is this: In a many-electron atom, for a given value 
+of n, the energy of an orbital increases with increasing value of l, as illus-
+trated in Figure 6.25. For example, notice in Figure 6.25 that the n = 3 
+orbitals increase in energy in the order 3s 6 3p 6 3d.  
+Notice also that 
+all orbitals of a given subshell (such as the five 3d orbitals) have the 
+same energy, just as they do in the hydrogen atom. Orbitals with the 
+same energy are said to be degenerate.
+Figure 6.25 is a qualitative energy-level diagram; the exact  
+energies 
+of the orbitals and their spacings differ from one atom to another.
+Go Figure
+Not all of the orbitals in the n = 4 shell are shown in 
+this figure. Which subshells are missing?
+Energy
+3d
+4p
+4s
+3p
+3s
+2p
+2s
+1s
+Orbitals in any subshell 
+are degenerate (h

@@ -1,0 +1,15 @@
+l could be produced from biomass and that benzene 
+is replaced by less toxic toluene. The hydrogen formed in the reaction can be recycled as 
+a source of energy. This example demonstrates how finding the right catalyst is often key 
+in discovering a new process.
+Let’s consider some other examples in which green chemistry can operate to 
+improve environmental quality.
+Supercritical Solvents
+A major area of concern in chemical processes is the use of volatile organic compounds 
+as solvents. Generally, the solvent in which a reaction is run is not consumed in the reac-
+tion, and there are unavoidable releases of solvent into the atmosphere even in the most 
+carefully controlled processes. Further, the solvent may be toxic or may decompose to 
+some extent during the reaction, thus creating waste products.
+The use of supercritical fluids represents a way to replace conventional solvents. 
+Recall that a supercritical fluid is an unusual state of matter that has properties of both 
+a gas and 

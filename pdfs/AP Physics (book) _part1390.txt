@@ -1,0 +1,13 @@
+ts designed to measure temperature are called thermometers.
+There are many kinds of thermometers, but their operation always depends on
+some property of matter that changes with temperature. Many common thermom-
+eters rely on the expansion of a material with an increase in temperature. The first
+idea for a thermometer, by Galileo, made use of the expansion of a gas. Common
+thermometers today consist of a hollow glass tube filled with mercury or with alco-
+hol colored with a red dye, as were the earliest usable thermometers (Fig. 13–4).
+Inside a common liquid-in-glass thermometer, the liquid expands more than
+the glass when the temperature is increased, so the liquid level rises in the tube
+(Fig. 13–5a). Although metals also expand with temperature, the change in length
+of a metal rod, say, is generally too small to measure accurately for ordinary changes
+in temperature. However, a useful thermometer can be made by bonding together
+two different metals with different rates of expansion 

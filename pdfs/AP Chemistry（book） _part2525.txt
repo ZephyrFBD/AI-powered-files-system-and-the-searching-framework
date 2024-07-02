@@ -1,0 +1,73 @@
+left. This situation 
+occurs when HA is a weak acid. For example, an aqueous solution of acetic acid consists 
+mainly of CH3COOH molecules with relatively few H3O+ and CH3COO -  ions:
+ 
+CH3COOH1aq2 + H2O1l2 ∆ H3O+1aq2 + CH3COO -1aq2 
+[16.11]
+The CH3COO -  ion is a stronger base than H2O (Figure 16.4) and therefore the reverse 
+reaction is favored more than the forward reaction.
+From these examples, we conclude that in every acid–base reaction, equilibrium favors 
+transfer of the proton from the stronger acid to the stronger base to form the weaker acid and the 
+weaker base.
+Go Figure
+If O2– ions are added to water, what reaction, if any, occurs?
+BASE
+Cl−
+HSO4
+−
+NO3
+−
+H2O
+SO4
+2−
+H2PO4
+−
+F−
+CH3COO−
+HCO3
+−
+HS−
+HPO4
+2−
+NH3
+CO3
+2−
+PO4
+3−
+OH−
+O2−
+H−
+CH3
+−
+Strong bases
+Weak bases
+Negligible basicity
+Base strength increasing
+Acid strength increasing
+ACID
+HCl
+H2SO4
+HNO3
+H3O+(aq)
+HSO4
+−
+H3PO4
+HF
+CH3COOH
+H2CO3
+H2S
+H2PO4
+−
+NH4
++
+HCO3
+−
+HPO4
+2−
+H2O
+OH−
+H2
+CH4
+Strong acids
+Weak acids
+Negligible acid

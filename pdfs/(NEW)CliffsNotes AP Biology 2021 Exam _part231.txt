@@ -1,0 +1,12 @@
+tempted. If repair is unsuccessful, apoptosis ensues.
+The M checkpoint, occurring during metaphase, ensures that microtubules are properly attached to all kinetochores
+at the metaphase plate before division continues with anaphase. mitogenic signal
+Figure 7-6
+2. Cyclin-dependent kinases (Cdks). Cdks are proteins responsible for advancing the cell past the checkpoints and
+through the cell cycle. Cdks have the following attributes:
+Cdks are kinases. Kinases are enzymes that phosphorylate other proteins. Once phosphorylated, the protein is
+energized and ready to act. Proteins can be inactivated by dephosphorylation or by destruction by other enzymes.
+Cdks are activated by cyclins. Cyclins are proteins that attach to Cdks, altering their conformation and readying
+them for activation. Complete activation requires phosphorylation. Without a cyclin attached, a Cdk is inactive
+(that’s why it’s described as “cyclin dependent”).
+Mitosis-promoting factor (or maturation-promoting factor) (MPF) is 

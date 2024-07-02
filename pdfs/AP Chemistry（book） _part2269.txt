@@ -1,0 +1,23 @@
+for the concentration 
+of an intermediate by assuming that an equilibrium is established in the fast step.
+Rate of forward reaction
+Rate of reverse reaction
+Show that the following mechanism for Equation 14.26 also produces a rate law consistent with the experimentally observed one:
+Step 1:   NO1g2 + NO1g2 ∆
+k1
+k-1
+N2O21g2 1fast, equilibrium2
+Step 2:  N2O21g2 + Br21g2 ¡
+k2
+2 NOBr1g2 1slow2
+Sample Exercise 14.15
+ Deriving the Rate Law for a Mechanism with a Fast Initial Step
+SOLUTION
+Analyze We are given a mechanism with a fast initial step and 
+asked to write the rate law for the overall reaction.
+Plan The rate law of the slow elementary step in a mechanism de-
+termines the rate law for the overall reaction. Thus, we first write 
+the rate law based on the molecularity of the slow step. In this 
+case, the slow step involves the intermediate N2O2 as a reactant. 
+Experimental rate laws, however, do not contain the concentra-
+tions of intermediates; instead they are expressed in terms of t

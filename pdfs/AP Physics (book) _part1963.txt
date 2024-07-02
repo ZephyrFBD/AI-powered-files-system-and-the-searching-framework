@@ -1,0 +1,16 @@
+hroughout the wire that begins as soon as the wire is connected to both terminals.
+When the conventions of positive and negative charge were invented two
+centuries ago, however, it was assumed that positive charge flowed in a wire.
+For nearly all purposes, positive charge flowing in one direction is exactly 
+equivalent to negative charge flowing in the opposite direction, as shown in 
+Fig. 18–8. Today, we still use the historical convention of positive charge flow when
+discussing the direction of a current. So when we speak of the current direction
+in a circuit, we mean the direction positive charge would flow. This is sometimes
+referred to as conventional current. When we want to speak of the direction of
+electron flow, we will specifically state it is the electron current. In liquids and
+gases, both positive and negative charges (ions) can move.
+In practical life, such as rating the total charge of a car battery, you may see
+the unit ampere-hour
+: from Eq. 18–1,
+.
+EXERCISE B How many

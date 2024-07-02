@@ -1,0 +1,32 @@
+ with the switch
+open? (c) When the
+switch is closed, what
+is the final potential of
+point b? (d) How much
+charge flows through
+the switch S after it is
+closed?
+V = 0
+19–8 Ammeters and Voltmeters
+59. (I) (a) An ammeter has a sensitivity of 
+What
+current in the galvanometer produces full-scale deflection?
+(b) What is the resistance of a voltmeter on the 250-V scale
+if the meter sensitivity is 
+60. (II) An ammeter whose internal resistance is 
+reads
+5.25 mA when connected in a circuit containing a battery and
+two resistors in series whose values are 
+and 
+What is the actual current when the ammeter is absent?
+61. (II) A milliammeter reads 35 mA full scale. It consists of a
+resistor in parallel with a 
+galvanometer. How
+can you change this ammeter to a voltmeter giving a full-scale
+reading of 25 V without taking the ammeter apart? What
+will be the sensitivity 
+of your voltmeter?
+62. (II) A galvanometer has an internal resistance of 
+and
+deflects full scale for a 
+current. Describe how to 

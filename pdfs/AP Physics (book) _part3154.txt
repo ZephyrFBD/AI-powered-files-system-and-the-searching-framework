@@ -1,0 +1,65 @@
+ l = 4?
+16 U
+12 U
+U
+l = 2,  L = 22(2 + 1) U = 26 U.
+L =
+21(1 + 1) U
+=
+22 U
+= 1.49 * 10–34 Js.
+l = 1,
+L =
+2l(l + 1) U
+= 0.
+l = 0,
+E3 =
+– 13.6 eV
+(3)2
+=
+–1.51 eV.
+n = 3
+En = –13.6 eVn2.
+n = 3
+n  3.
+EXAMPLE 28;5
+814
+CHAPTER 28
+Quantum Mechanics of Atoms
+FIGURE 28–9 Electron cloud, or
+probability distribution, for 
+states in hydrogen. [The donut-
+shaped orbit in (c) is the sum of two
+dumbbell-shaped orbits, as in (b),
+along the x and y axes added
+together.]
+n = 2
+Nucleus
+n = 2
+(c)
+(b)
+(a)
+z
+y
+x
+z
+y
+x
+n  2
+l  1
+ml  0
+n  2
+l  1
+ml  +
+–1
+Nucleus
+Nucleus
+l = 0
+ml = 0
+28–7 Multielectron Atoms;
+the Exclusion Principle
+We have discussed the hydrogen atom in detail because it is the simplest to deal
+with. Now we briefly discuss more complex atoms, those that contain more than
+one electron. Their energy levels can be determined experimentally from an analysis
+of their emission spectra. The energy levels are not the same as in the H atom,
+because the electrons interact with each other as we

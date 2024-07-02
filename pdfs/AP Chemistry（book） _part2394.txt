@@ -1,0 +1,21 @@
+u write the chemical equation, but the value of 
+Kc you calculate depends on how you write the reaction.
+Give It Some Thought
+For the reaction PCl51g2 ∆ PCl31g2 + Cl21g2, the equilibrium constant 
+Kc = 1.1 * 10-2 at 400 K. What is the equilibrium constant for the reaction 
+PCl31g2 + Cl21g2 ∆ PCl51g2 at 400 K?
+Give It Some Thought
+How does the magnitude of Kp for the reaction 2 HI1g2 ∆ H21g2 + I21g2 change 
+if the equilibrium is written 6 HI1g2 ∆ 3 H21g2 + 3 I21g2?
+It is also possible to calculate the equilibrium constant for a reaction if we know the 
+equilibrium constants for other reactions that add up to give us the one we want, simi-
+lar to the manner in which the reaction enthalpy of an unknown reaction can be deter-
+mined from known reaction enthalpies using Hess’s law. 
+ (Section 5.6) For example, 
+consider the following two reactions, their equilibrium-constant expressions, and their 
+equilibrium constants at 100 °C:
+1. 2 NOBr1g2 ∆ 2 NO1g2 + Br21g2  
+Kc1 =
+3NO423Br24
+3NOBr42
+= 

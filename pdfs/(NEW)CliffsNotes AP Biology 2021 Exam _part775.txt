@@ -1,0 +1,23 @@
+ exercise, you investigate factors that influence the rate of photosynthesis. Photosynthesis can be summarized
+by the following reaction.
+CO2 + H2O + light → CH2O + O2
+ 
+To determine the rate of this reaction, you can measure the disappearance of
+ 
+CO2or the accumulation of O2. Both of these gases fill the air spaces
+among the spongy mesophyll of leaves. You must consider, however, that while photosynthesis is occurring in the
+leaf, some parts of the leaf may be generating energy through aerobic respiration. Thus, the gases that fill the air
+spaces are being altered by a concurrent process of respiration:
+CH2O + O2 → CO2 + H2O + ATP
+ 
+Measuring O2accumulation, then, is a measurement of net photosynthetic
+ 
+activity:
+ 
+O2 production = gross photosynthesis – respiration = net photosynthesis
+Part I: Determining the Rate of Photosynthesis
+To measure the rate of net photosynthesis, you record the rate that
+ 
+submerged pieces of leaves rise in water as O2accumulates in their air
+ 
+spaces. Fo

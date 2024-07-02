@@ -1,0 +1,22 @@
+e to Earth, using the relativistic Eq. 26–10 because the
+speeds are high and they are along the same line.
+SOLUTION Rocket 2 moves with speed 
+with respect to rocket 1.
+Rocket 1 has speed
+with respect to Earth. The speed of rocket 2 with
+respect to Earth is (Eq. 26–10)
+NOTE The speed of rocket 2 relative to Earth is less than c, as it must be.
+We can see that Eq. 26–10 reduces to the classical form for velocities small
+compared to the speed of light since
+for v and
+Thus,
+as in classical physics (Chapter 3).
+Let us test our formula at the other extreme, that of the speed of light.
+Suppose that rocket 1 in Fig. 26–11 sends out a beam of light so that 
+Equation 26–10 tells us that the speed of this light relative to Earth is
+which is fully consistent with the second postulate of relativity.
+EXERCISE E Use Eq. 26–10 to calculate the speed of rocket 2 in Fig. 26–11 relative to
+Earth if it was shot from rocket 1 at a speed
+Assume rocket 1
+had a speed
+EXERCISE F Return to the Chapter-Opening 

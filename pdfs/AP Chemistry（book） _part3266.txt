@@ -1,0 +1,15 @@
+
+ions of the salt.
+In our examples of the electrolysis of NaCl, the electrodes are inert; they do not react 
+but merely serve as the surface where oxidation and reduction occur. Several practical 
+applications of electrochemistry, however, are based on active electrodes—electrodes 
+that participate in the electrolysis process. Electroplating, for example, uses electrolysis to 
+deposit a thin layer of one metal on another metal to improve beauty or resistance to 
+corrosion. Examples include electroplating nickel or chromium onto steel and electro-
+plating a precious metal like silver onto a less expensive one.
+Figure 20.29 illustrates an electrolytic cell for electroplating nickel onto a piece of 
+steel. The anode is a strip of nickel metal, and the cathode is the steel. The electrodes 
+are immersed in a solution of NiSO41aq2. When an external voltage is applied, reduction 
+occurs at the cathode. The standard reduction potential of Ni2+ 1E°
+red = -0.28 V2 is less 
+negative than that of 

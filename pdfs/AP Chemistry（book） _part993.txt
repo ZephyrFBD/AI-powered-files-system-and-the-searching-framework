@@ -1,0 +1,197 @@
+n
+6s24f 14
+5d106p6
+71
+Lu
+6s24f 14
+5d1
+103
+Lr
+7s25f 14
+6d1
+70
+Yb
+6s24f 14
+102
+No
+7s25f 14
+69
+Tm
+6s24f 13
+101
+Md
+7s25f 13
+68
+Er
+6s24f 12
+100
+Fm
+7s25f 12
+67
+Ho
+6s24f 11
+99
+Es
+7s25f 11
+66
+Dy
+6s24f 10
+98
+Cf
+7s25f 10
+65
+Tb
+6s24f 9
+97
+Bk
+7s25f 9
+64
+Gd
+6s24f 7
+ 5d1
+96
+Cm
+7s25f 7
+ 6d1
+63
+Eu
+6s24f 7
+95
+Am
+7s25f 7
+62
+Sm
+6s24f 6
+94
+Pu
+7s25f 6
+61
+Pm
+6s24f 5
+93
+Np
+7s25f 4
+ 6d1
+60
+Nd
+6s24f 4
+92
+U
+7s25f 3
+ 6d1
+59
+Pr
+6s24f 3
+91
+Pa
+7s25f 2
+ 6d1
+58
+Ce
+6s24f 1
+ 5d1
+90
+Th
+7s26d2
+26
+Fe
+4s23d6
+44
+Ru
+5s14d7
+76
+Os
+6s24f 14
+5d6
+28
+Ni
+4s23d8
+46
+Pd
+4d10
+78
+Pt
+6s14f 14
+5d9
+29
+Cu
+4s13d10
+47
+Ag
+5s14d10
+79
+Au
+6s14f 14
+ 5d10
+30
+Zn
+4s23d10
+48
+Cd
+5s24d10
+80
+Hg
+6s24f 14
+ 5d10
+27
+Co
+4s23d7
+10
+45
+Rh
+5s14d8
+77
+Ir
+6s24f 14
+5d7
+8B
+Metals
+Lanthanide
+series
+Actinide series
+Metalloids
+Nonmetals
+107
+Bh
+7s25f 14
+6d5
+108
+Hs
+7s25f 14
+6d6
+109
+Mt
+7s25f 14
+6d7
+110
+Ds
+7s25f 14
+6d8
+111
+Rg
+7s25f 14
+6d9
+112
+Cn
+7s25f 14
+6d10
+113
+Nh
+7s25f 14
+6d107p1
+114
+Fl
+7s25f 14
+6d107p2
+115
+Mc
+7s25f 14
+6d107p3
+118
+Og
+7s25f 14
+6d107p6
+116
+Lv
+7s25f 14
+6d107

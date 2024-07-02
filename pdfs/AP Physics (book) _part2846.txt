@@ -1,0 +1,15 @@
+uch faster scanners use a fan
+beam, Fig. 25–43a, in which beams passing through the entire cross section of the
+body are detected simultaneously by many detectors. The source and detectors
+are then rotated about the patient, and an image requires only a few seconds.
+Even faster, and therefore useful for heart scans, are fixed source machines
+wherein an electron beam is directed (by magnetic fields) to tungsten targets
+surrounding the patient, creating the X-rays. See Fig. 25–43b.
+Image Formation
+But how is the image formed? We can think of the slice to be imaged as being
+divided into many tiny picture elements (or pixels), which could be squares (as in
+Fig. 24–49). For CT, the width of each pixel is chosen according to the width of
+the detectors and or the width of the X-ray beams, and this determines the reso-
+lution of the image, which might be 1 mm. An X-ray detector measures the
+intensity of the transmitted beam. Subtracting this value from the intensity of the
+beam at the source y

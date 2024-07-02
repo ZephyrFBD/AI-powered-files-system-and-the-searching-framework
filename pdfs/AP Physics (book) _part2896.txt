@@ -1,0 +1,42 @@
+ bus. With respect to the Earth, the acceleration is
+which is the same.
+(12 ms - 10 ms)(1.0 s) = 2 ms2,
+a = 2 ms2
+2 ms
+12 ms
+10 ms
+2 ms.
+746
+CHAPTER 26
+C A U T I O N
+Laws are the same, but 
+paths may be different in different
+reference frames
+C A U T I O N
+Length and time intervals
+are absolute (pre-relativity)
+C A U T I O N
+Position and velocity are different in
+different reference frames, but length
+is the same (classical)
+(a)
+Reference frame = car
+(b)
+Reference frame = Earth
+FIGURE 26–2 A coin is dropped by
+a person in a moving car. The upper
+views show the moment of the coin’s
+release, the lower views are a short
+time later. (a) In the reference frame
+of the car, the coin falls straight down
+(and the tree moves to the left).
+(b) In a reference frame fixed on the
+Earth, the coin has an initial velocity
+(
+to car’s) and follows a curved
+(parabolic) path.
+= 
+SECTION 26–1
+Galilean–Newtonian Relativity
+747
+Since neither F, m, nor a changes from one inertial frame to another, New

@@ -1,0 +1,46 @@
+t is, multiplication of a
+vector by a positive scalar c changes the magnitude of the vector by a factor c but
+doesn’t alter the direction. If c is a negative scalar (such as 
+), the magnitude
+of the product 
+is changed by the factor 
+(where 
+means the magnitude of c),
+but the direction is precisely opposite to that of 
+See Fig. 3–9.
+V
+B.
+∑c∑
+∑c∑
+cV
+B
+–2.0
+V
+B
+cV
+B
+V
+B
+EXERCISE B What does the “incorrect” vector in Fig. 3–6c represent? (a)
+(b)
+(c) something else (specify).
+V
+B
+1 - V
+B
+2 ;
+V
+B
+2 - V
+B
+1 ;
+3–4 Adding Vectors by Components
+Adding vectors graphically using a ruler and protractor is often not sufficiently
+accurate and is not useful for vectors in three dimensions. We discuss now a more
+powerful and precise method for adding vectors. But do not forget graphical
+methods—they are useful for visualizing, for checking your math, and thus for
+getting the correct result.
+Components
+Consider first a vector 
+that lies in a particular plane. It can be expressed as 
+the sum of two othe

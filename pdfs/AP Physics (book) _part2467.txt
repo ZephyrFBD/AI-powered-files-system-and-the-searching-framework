@@ -1,0 +1,46 @@
+U
+ radiation
+ fully
+ absorbed
+¢p =
+¢U
+c
+,
+(F = ¢p¢t)
+Solar pressure. Radiation from the Sun that
+reaches the Earth’s surface (after passing through the atmosphere) transports
+energy at a rate of about 
+Estimate the pressure and force exerted
+by the Sun on your outstretched hand.
+APPROACH The radiation is partially reflected and partially absorbed, so let
+us estimate simply
+SOLUTION
+An estimate of the area of your outstretched hand might be about 10 cm by 
+20 cm, so 
+Then the force is
+NOTE These numbers are tiny. The force of gravity on your hand, for compari-
+son, is maybe a half pound, or with
+The radiation pressure on your hand is imperceptible compared to gravity.
+2 N.
+mg L (0.2 kg)A9.8 ms2B L
+m = 0.2 kg,
+F = PA L A3 * 10–6 Nm2BA0.02 m2B
+L 6 * 10–8 N.
+A L 0.02 m2.
+P L I
+c
+=
+1000 Wm2
+3 * 108 ms L 3 * 10–6 Nm2.
+P = Ic.
+1000 Wm2.
+EXAMPLE 22;5
+ESTIMATE
+636
+CHAPTER 22
+Electromagnetic Waves
+P H Y S I C S  A P P L I E D
+Optical tweezers
+(move cell parts,
+DNA elasticity)
+A solar sai

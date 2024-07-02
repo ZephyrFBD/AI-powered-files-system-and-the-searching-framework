@@ -1,0 +1,41 @@
+has the bigger moment of inertia about
+an axis through its center?
+(a) The solid one.
+(b) The hollow one.
+(c) Both the same.
+5. Consider a force 
+applied to a beam as shown 
+in Fig. 8–37. The length of the beam is
+and
+,
+so that
+and
+.
+Of the 
+following expressions, which ones give the correct torque
+produced by the force 
+around point P?
+(a) 80 N.
+(b) (80 N)(5.0 m).
+(c) (80 N)(5.0 m)(sin 37°).
+(d) (80 N)(4.0 m).
+(e) (80 N)(3.0 m).
+(f) (48 N)(5.0 m).
+(g) (48 N)(4.0 m)(sin 37°).
+F
+B
+y = 4.0 m
+x = 3.0 m
+u = 37°
+l = 5.0 m,
+F = 80 N
+7. Two wheels having the same radius and mass rotate at the
+same angular velocity (Fig. 8–38). One wheel is made with
+spokes so nearly all the mass is at the rim. The other is a
+solid disk. How do their rotational kinetic energies compare?
+(a) They are nearly the same.
+(b) The wheel with spokes has about twice the KE.
+(c) The wheel with spokes has higher KE, but not twice as
+high.
+(d) The solid wheel has about twice the KE.
+(e) The solid wheel has higher KE, but 

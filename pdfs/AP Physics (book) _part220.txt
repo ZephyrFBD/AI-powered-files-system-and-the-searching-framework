@@ -1,0 +1,59 @@
+constant?
+(d) When was the magnitude of the acceleration greatest?
+340 ms,
+ (m/s)
+v
+t (s)
+40
+30
+20
+10
+00
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100 110 120
+FIGURE 2;42 Problem 55.
+ (m/s)
+v
+t (s)
+0
+10
+20
+30
+40
+10
+20
+30
+40
+50
+0
+1st gear
+2nd gear
+5th gear
+3rd gear
+4th gear
+FIGURE 2;43 Problem 56. The velocity of a car
+as a function of time, starting from a dead stop.
+The flat spots in the curve represent gear shifts.
+1.8 m
+FIGURE 2;40
+Problem 51.
+46
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+65. Consider the street pattern shown in Fig. 2–46. Each inter-
+section has a traffic signal, and the speed limit is 
+Suppose you are driving from the west at the speed limit.
+When you are 10.0 m from the first intersection, all the lights
+turn green. The lights are green for 13.0 s each. (a) Calculate
+the time needed to reach the third stoplight. Can you make
+it through all three lights without stopping? (b) Another car
+was stopped at the first light when all the lights turned green.
+It can accele

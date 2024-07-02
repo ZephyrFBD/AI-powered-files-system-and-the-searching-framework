@@ -1,0 +1,27 @@
+ box are gravity 
+the normal
+force exerted by the floor 
+the horizontal applied force 
+and the fric-
+tion force 
+as shown in Fig. 4–27.
+SOLUTION The free-body diagram of the box is shown in Fig. 4–27. In the vertical
+direction there is no motion, so Newton’s second law in the vertical direction 
+gives
+which tells us 
+Hence the normal force is
+(a) Because
+in this first case, the box doesn’t move, and
+(b) The force of static friction will oppose any applied force up to a maximum of
+When the applied force is 
+the box will not move. Newton’s second
+law gives  
+so  
+(c) An applied force of 20 N is also not sufficient to move the box. Thus
+to balance the applied force.
+(d) The applied force of 38 N is still not quite large enough to move the box;
+so the friction force has now increased to 38 N to keep the box at rest.
+(e) A force of 40 N will start the box moving since it exceeds the maximum force
+of static friction,
+Instead of static friction, we now
+have kinetic friction, and its magnitude

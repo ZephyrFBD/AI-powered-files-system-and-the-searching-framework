@@ -1,0 +1,38 @@
+ represent the rate of effusion and 
+molar mass of the gas, we can write
+rx
+rO2
+= A
+ℳO2
+ℳx
+Solve From the information given,
+rx = 0.355 * rO2
+Thus,
+ rx
+rO2
+= 0.355 = A
+32.0 g>mol
+ℳx
+ 
+32.0 g>mol
+ℳx
+= 10.35522 = 0.126
+ 
+ℳx =
+32.0 g>mol
+0.126
+= 254 g>mol
+Because we are told that the unknown gas is composed of homo-
+nuclear diatomic molecules, it must be an element. The molar 
+mass must represent twice the atomic weight of the atoms in the 
+unknown gas. We conclude that the unknown gas must have an 
+atomic weight of 127 g>mol and therefore is I2.
+ 
+▶Practice Exercise 1
+In a system for separating gases, a tank containing a mixture 
+of hydrogen and carbon dioxide is connected to a much larger 
+tank where the pressure is kept very low. The two tanks are 
+separated by a porous membrane through which the molecules 
+must effuse. If the initial partial pressure of each gas is  
+5.00 atm, what will be the mole fraction of hydrogen in the 
+tank after the partial pressure of carbon dioxide has decl

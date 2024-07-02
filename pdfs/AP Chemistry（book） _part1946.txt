@@ -1,0 +1,16 @@
+ly interact with the rigid framework of aluminum, silicon, and 
+oxygen atoms. Various pore and cavity sizes can be prepared by vary-
+ing the chemical composition and synthesis method.
+Zeolites may be synthesized with weakly interacting ions oc-
+cupying the cavities. Upon exposure to ions that interact more 
+strongly with the interior surfaces, there is a preferential exchange 
+of weakly interacting ions for more strongly interacting ions. This 
+effectively creates what we might think of as an ionic sponge. An 
+example that illustrates this behavior is the use of a sodium zeolite 
+to remove radioactive cesium (134Cs and 137Cs) from contaminated 
+areas around the Fukushima Daiichi nuclear power plants in Japan, 
+which were damaged by an earthquake and tsunami in 2011. The 
+cesium ions are attracted into the cavities of the zeolite where an 
+ion exchange occurs (Cs+ for Na+). Another example is treatment 
+of water from wells that contain relatively high concentrations of 
+calcium, magnesi

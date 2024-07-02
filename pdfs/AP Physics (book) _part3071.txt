@@ -1,0 +1,17 @@
+ns would behave as ordinary-sized objects do. Nonetheless, he felt that
+where quantum theory overlaps with the macroscopic world, it should predict
+classical results. This is the correspondence principle, already mentioned in
+regard to relativity (Section 26–11). This principle does work for Bohr’s theory
+of the hydrogen atom. The orbit sizes and energies are quite different for
+and 
+say. But orbits with 
+and 100,000,001 would be very
+close in radius and energy (see Fig. 27–29). Indeed, transitions between such
+large orbits, which would approach macroscopic sizes, would be imperceptible.
+Such orbits would thus appear to be continuously spaced, which is what we
+expect in the everyday world.
+Finally, it must be emphasized that the well-defined orbits of the Bohr model
+do not actually exist. The Bohr model is only a model, not reality. The idea of
+electron orbits was rejected a few years later, and today electrons are thought of
+(Chapter 28) as forming “probability clouds.”
+27–13 de Brogl

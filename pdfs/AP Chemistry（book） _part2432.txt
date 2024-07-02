@@ -1,0 +1,13 @@
++ 3 H21g2 ∆ 2 NH31g2
+Adding H2 causes the system to shift so as to reduce the increased concentration of H2 
+(Figure 15.11). This change can occur only if the reaction consumes H2 and simultane-
+ously consumes N2 to form more NH3. Adding N2 to the equilibrium mixture likewise 
+causes the reaction to shift toward forming more NH3. Removing NH3 also causes a shift 
+toward producing more NH3, whereas adding NH3 to the system at equilibrium causes the 
+reaction to shift in the direction that reduces the increased NH3 concentration: Some of 
+the added ammonia decomposes to form N2 and H2. All of these “shifts” are entirely con-
+sistent with predictions that we would make by comparing the reaction quotient Q with 
+the equilibrium constant K.
+In the Haber reaction, therefore, removing NH3 from an equilibrium mixture of 
+N2, H2, and NH3 causes the reaction to shift right to form more NH3. If the NH3 can be 
+removed continuously as it is produced, the yield can be increased dramatically. In the

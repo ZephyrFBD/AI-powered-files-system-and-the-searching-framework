@@ -1,0 +1,15 @@
+ie’s Hypothesis
+Applied to Atoms
+Bohr’s theory was largely of an ad hoc nature. Assumptions were made so that
+theory would agree with experiment. But Bohr could give no reason why the orbits
+were quantized, nor why there should be a stable ground state. Finally, ten years
+later, a reason was proposed by Louis de Broglie. We saw in Section 27–8 that 
+in 1923, de Broglie proposed that material particles, such as electrons, have a wave
+nature; and that this hypothesis was confirmed by experiment several years later.
+One of de Broglie’s original arguments in favor of the wave nature of elec-
+trons was that it provided an explanation for Bohr’s theory of the hydrogen
+atom. According to de Broglie, a particle of mass m moving with a nonrelativistic
+speed v would have a wavelength (Eq. 27–8) of
+Each electron orbit in an atom, he proposed, is actually a standing wave. As we
+saw in Chapter 11, when a violin or guitar string is plucked, a vast number of
+wavelengths are excited. But only certain 

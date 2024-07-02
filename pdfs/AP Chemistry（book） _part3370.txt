@@ -1,0 +1,42 @@
+ows 
+the Fermi National Accelerator Lab at Bat-
+avia, Illinois, which has a circumference 
+of 3.9 mi.
+Reactions Involving 
+Neutrons
+Most synthetic isotopes used in medicine 
+and scientific research are made using 
+neutrons as the bombarding particles. 
+Because neutrons are neutral, they are not 
+repelled by the nucleus. Consequently, 
+they do not need to be accelerated to 
+cause nuclear reactions. The neutrons 
+are produced in nuclear reactors (see Sec-
+tion 21.7). For example, cobalt-60, which 
+is used in cancer radiation therapy, is 
+produced by neutron capture. Iron-58 
+is placed in a nuclear reactor and bom-
+barded by neutrons to trigger the follow-
+ing sequence of reactions:
+58
+26Fe + 1
+0n ¡ 59
+26Fe 
+[21.9]
+     59
+26Fe ¡ 59
+27Co +
+0
+-1e 
+[21.10]
+59
+27Co + 1
+0n ¡ 60
+27Co 
+[21.11]
+Transuranium Elements
+Nuclear transmutations have been used 
+to produce the elements with atomic 
+number above 92, collectively known as 
+the transuranium elements because 
+they follow uranium in the peri

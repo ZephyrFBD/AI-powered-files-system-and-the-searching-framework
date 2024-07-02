@@ -1,0 +1,25 @@
+ ∆H values, reversing their 
+signs if the reactions are reversed and multiplying them by what-
+ever coefficient is employed in the equation.
+Solve Because the target equation has C2H2 as a product, we turn 
+the first equation around; the sign of ∆H is therefore changed. 
+The desired equation has 2 C1s2 as a reactant, so we multiply the 
+second equation and its ∆H by 2. Because the target equation has 
+H2 as a reactant, we keep the third equation as it is. We then add 
+the three equations and their enthalpy changes in accordance 
+with Hess’s law:
+2 CO21g2 + H2O1l2 ¡  C2H21g2 + 5
+2  O21g2  - ∆H = 1299.6 kJ 
+  2 C1s2 + 2 O21g2 ¡  2 CO21g2  
+∆H = -787.0 kJ 
+    H21g2 + 1
+2 O21g2 ¡  H2O1l2 
+∆H = -285.8 kJ 
+   2 C1s2 + H21g2 ¡  C2H21g2  
+∆H = 226.8 kJ
+When the equations are added, there are 2 CO2, 5
+2 O2, and H2O 
+on both sides of the arrow. These are canceled in writing the net 
+equation.
+Check The procedure must be correct because we obtained the cor-
+rect net equation. In cases like this,

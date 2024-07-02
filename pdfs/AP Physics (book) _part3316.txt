@@ -1,0 +1,40 @@
+= 0.11 nm.
+He2
+ ±
+He2
+H2
+S = 1
+S = 0
+H2
+KCl (= 4.43 eV)
+C2 (= 154 pm),
+O2 (= 121 pm),
+N2 (= 145 pm),
+H2 (= 74 pm),
+N2
+H2, O2,
+r0
+r0 = 0.28 nm.
+Cl–
+K±
+13. (II) (a) Use the curve of Fig. 29–17 to estimate the stiffness
+constant k for the 
+molecule. (Recall that 
+)
+(b) Then estimate the fundamental wavelength for vibra-
+tional transitions using the classical formula (Chapter 11),
+but use only the mass of an H atom (because both H atoms
+move).
+*29–5 Bonding in Solids
+14. (II) Common salt, NaCl, has a density of 
+The
+molecular weight of NaCl is 58.44. Estimate the distance
+between nearest neighbor Na and Cl ions. [Hint: Each ion
+can be considered to be at the corner of a cube.]
+15. (II) Repeat Problem 14 for KCl whose density is 
+16. (II) The spacing between “nearest neighbor” Na and Cl
+ions in a NaCl crystal is 0.24 nm. What is the spacing between
+two nearest neighbor Na ions?
+*29–7 Band Theory of Solids
+17. (I) A semiconductor is struck by light of slowly increasing
+frequency and begins t

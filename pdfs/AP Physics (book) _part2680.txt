@@ -1,0 +1,15 @@
+light. These are called
+Newton’s rings† and they are due to interference between waves reflected by the
+top and bottom surfaces of the very thin air gap between the two pieces of glass.
+Because this gap (which is equivalent to a thin film) increases in width from the
+central contact point out to the edges, the extra path length for the lower ray
+(equal to BCD) varies. Where it equals 
+and so on, it corresponds
+to constructive and destructive interference; and this gives rise to the series of bright
+colored circles seen in Fig. 24–31b. The color you see at a given radius corresponds
+to constructive interference; at that radius, other colors partially or fully destruc-
+tively interfere. (If monochromatic light is used, the rings are alternately bright
+and dark.)
+The point of contact of the two glass surfaces (A in Fig. 24–31a) is not bright
+in Fig. 24–31b. Since the path difference is zero here, our previous analysis would
+suggest that the waves reflected from each surface are in phase—s

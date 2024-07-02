@@ -1,0 +1,13 @@
+ld perform a test cross if he or
+she wanted to know if the tall plant in question was TT or Tt. If there were any dwarf-stemmed offspring, the farmer
+could be sure that the tall parent was Tt, since you cannot obtain dwarf-stemmed offspring unless both parents
+contribute the dwarf allele ( t ). In contrast, if all offspring were tall, the farmer could reasonably conclude that the
+tall parent was TT. It is possible, though not likely, that the tall-stemmed parent could be Tt, and that, due to chance,
+no shortstemmed offspring were produced.
+A coin toss presents an analogous situation. If you toss a coin six times, the prediction is that half the time it will be
+tails. However, there is a small
+chance,
+ 
+ (½ × ½ × ½ × ½ × ½ × ½), that all six tosses will be tails. As the
+number of coin tosses increases, though, the probability of obtaining all tails gets smaller and smaller. For the farmer
+who finds all tall offspring in the test cross, there is a small possibility that the tall parent w

@@ -1,0 +1,16 @@
+FIGURE 12–9 (a) Piano, showing
+sounding board to which strings are
+attached; (b) sounding box (guitar).
+Frequencies and wavelengths in the violin. A 0.32-m-long
+violin string is tuned to play A above middle C at 440 Hz. (a) What is the wave-
+length of the fundamental string vibration, and (b) what are the frequency and
+wavelength of the sound wave produced? (c) Why is there a difference?
+APPROACH The wavelength of the fundamental string vibration equals twice
+the length of the string (Fig. 12–7). As the string vibrates, it pushes on the air,
+which is thus forced to oscillate at the same frequency as the string.
+SOLUTION (a) From Fig. 12–7 the wavelength of the fundamental is
+This is the wavelength of the standing wave on the string.
+(b) The sound wave that travels outward in the air (to reach our ears) has the
+same frequency, 440 Hz. Its wavelength is
+where v is the speed of sound in air (assumed at 20°C), Section 12–1.
+(c) The wavelength of the sound wave is different from that of the

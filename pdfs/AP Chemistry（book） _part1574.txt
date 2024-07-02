@@ -1,0 +1,43 @@
+ between volume and 
+pressure 1PV = constant2, we conclude that if the volume does 
+not increase on injecting more gas the pressure must increase.
+ 
+▶Practice Exercise 1
+A helium balloon is filled to a volume of 5.60 L at 25 °C. 
+What will the volume of the balloon become if it is put  
+into liquid nitrogen to lower the temperature of the helium 
+to 77 K?
+(a) 17 L (b) 22 L (c) 1.4 L (d) 0.046 L (e) 3.7 L
+ 
+▶Practice Exercise 2
+An oxygen cylinder used in a hospital contains 35.4 L  
+of oxygen gas at a pressure of 149.6 atm. How much volume 
+would the oxygen occupy if it were transferred to a container 
+that maintained a pressure of 1.00 atm if the temperature 
+remains constant?
+404 
+CHAPTER 10 Gases
+Give It Some Thought
+If 1.00 mol of an ideal gas at STP were confined to a cube, what would be the 
+length in cm of an edge of this cube?
+Go Figure
+Ideal gas
+Cl2
+22.06
+0
+10
+20
+30
+Molar volume (L)
+NH3
+N2
+He
+H2
+CO2
+22.41
+22.40
+22.40
+22.41
+22.42
+22.31
+▲ Figure 10.9 Comparison of molar volumes a

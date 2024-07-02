@@ -1,0 +1,57 @@
+ncies. Such an analysis is called a Fourier analysis.]
+The relative amplitudes of the overtones for a given note are different for
+different musical instruments, which is what gives each instrument its characteristic
+quality or timbre. A bar graph showing the relative amplitudes of the harmonics
+for a given note produced by an instrument is called a sound spectrum. Several
+typical examples for different musical instruments are shown in Fig. 12–15. The
+fundamental usually has the greatest amplitude, and its frequency is what is heard
+as the pitch.
+SECTION 12–6
+Interference of Sound Waves; Beats
+341
+D
+C
+A
+B
+l
+l
+d
+FIGURE 12–16 Sound waves from
+two loudspeakers interfere.
+1.0
+0.5
+0
+1000
+2000
+3000
+0
+Frequency (Hz)
+Relative
+amplitude
+1.0
+0.5
+0
+1000
+2000
+3000
+0
+Frequency (Hz)
+Relative
+amplitude
+1.0
+0.5
+0
+1000
+2000
+3000
+0
+Frequency (Hz)
+Relative
+amplitude
+Violin
+Clarinet
+Piano
+FIGURE 12–15 Sound spectra for 
+different instruments. The spectra 
+change when the instruments play 
+different notes.

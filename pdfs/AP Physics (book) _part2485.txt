@@ -1,0 +1,27 @@
+) A gray surface.
+(c) A yellow surface.
+(d) A white surface.
+(e) All experience the same radiation pressure, because
+they are exposed to the same light.
+11. Starting in 2009, TV stations in the U.S. switched to digital
+signals. [See Sections 22–7, 17–10, and 17–11.] To watch
+today’s digital broadcast TV, could you use a pre-2009 TV
+antenna meant for analog? Explain.
+(a) No; analog antennas do not receive digital signals.
+(b) No; digital signals are broadcast at different
+frequencies, so you need a different antenna.
+(c) Yes; digital signals are broadcast with the same carrier
+frequencies, so your old antenna will be fine.
+(d) No; you cannot receive digital signals through an
+antenna and need to switch to cable or satellite.
+12.
+MisConceptual Questions
+(a) Radio waves. (d) Ultrasonic waves.
+(g) Gamma rays.
+(b) Microwaves.
+(e) Infrared radiation. (h) X-rays.
+(c) Radar.
+(f) Cell phone signals.
+4. Which of the following types of electromagnetic radiation
+travels the fastest?
+(a) Radio wave

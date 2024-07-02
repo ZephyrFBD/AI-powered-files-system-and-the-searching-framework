@@ -1,0 +1,40 @@
+ apparent position
+of the “nearby” star relative to more distant stars, at
+two different times (January and July). The viewing
+angle in January puts the star more to the right relative
+to distant stars, whereas in July it is more to the left
+(dashed circle shows January location).
+1
+3600° = 1– = 1 second
+f
+958
+CHAPTER 33
+Astrophysics and Cosmology
+Distance to a star using parallax. Estimate
+the distance D to a star if the angle 
+in Fig. 33–11a is measured to be
+APPROACH From trigonometry,
+in Fig. 33–11a. The Sun–Earth
+distance is 
+(inside front cover).
+SOLUTION The angle 
+or about 
+radians. We can use tan
+because 
+is very small. We solve 
+for D in tan
+The distance D to the star is
+or about 15 ly.
+Parsec
+Distances to stars are often specified in terms of parallax angle (
+in Fig. 33–11a)
+given in seconds of arc: 1 second 
+is 
+of one minute 
+of arc, which is 
+of
+a degree, so 
+of a degree. The distance is then specified in parsecs (pc)
+(meaning parallax angle in seconds of arc):
+with 
+in s

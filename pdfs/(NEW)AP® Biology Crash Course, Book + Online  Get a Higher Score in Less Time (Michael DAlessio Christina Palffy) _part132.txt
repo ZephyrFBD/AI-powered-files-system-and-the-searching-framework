@@ -1,0 +1,20 @@
+tion of insects, body color is being studied: 36% of the insects
+represent the orange color, which is recessive, and 64% represent the black dominant phenotype.
+If each successive generation maintains
+the allele frequency, the population is said
+to be in Hardy-Weinberg equilibrium.
+1) Determine the allelic frequencies.
+2) Determine the genotypic frequencies.
+i.
+The recessive phenotype is key to this problem because the dominant represents both AA and
+Aa. However, recessive is only represented by aa. Use logic that q2 = aa; therefore, the square
+root of .36 or q = 0.6. Since p + q = 1, p + 0.6 = 1, then p = 0.4.
+ii. Allelic frequencies are A = 0.4, a = 0.6
+iii. Genotypic frequencies follow the equation p2 + 2pq + q2 = 1
+iv. p2 = (0.4)2 = 0.16 = 16%
+(AA or homozygous dominant) → Black phenotype
+2pq = 2 x 0.6 x 0.4 = 0.48 = 48%
+(Aa, heterozygous dominant) → Black phenotype
+q2 = (0.6)2 = 0.36 = 36%
+(aa, homozygous recessive) → Orange phenotype
+16 + 48 + 36 = 100 (Always double-check your n

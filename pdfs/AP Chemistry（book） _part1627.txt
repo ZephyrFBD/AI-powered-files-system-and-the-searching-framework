@@ -1,0 +1,14 @@
+have finite volumes.
+Because of molecular collisions, the direction of motion of a gas molecule is con-
+stantly changing. Therefore, the diffusion of a molecule from one point to another 
+consists of many short, straight-line segments as collisions buffet it around in random 
+directions (Figure 10.17).
+The average distance traveled by a molecule between collisions, called the molecule’s 
+mean free path, varies with pressure as the following analogy illustrates. Imagine walk-
+ing through a shopping mall. When the mall is crowded (high pressure), the average dis-
+tance you can walk before bumping into someone is short (short mean free path). When 
+the mall is empty (low pressure), you can walk a long way (long mean free path) before 
+bumping into someone. The mean free path for air molecules at sea level is about 60 nm. 
+At about 100 km in altitude, where the air pressure is much lower, the mean free path is 
+about 10 cm, over 1 million times longer than at the Earth’s surface.
+10.9 ∣  

@@ -1,0 +1,18 @@
+APTER 6 Electronic Structure of Atoms
+Chapter Summary and Key Terms
+WAVELENGTHS AND FREQUENCIES OF LIGHT (INTRODUCTION 
+AND SECTION 6.1) The electronic structure of an atom describes the 
+energies and arrangement of electrons around the atom. Much of 
+what is known about the electronic structure of atoms was obtained 
+by observing the interaction of light with matter.
+Visible light and other forms of electromagnetic radiation (also 
+known as radiant energy) move through a vacuum at the speed of 
+light, c = 2.998 * 108 m>s. Electromagnetic radiation has both 
+electric and magnetic components that vary periodically in wave-
+like fashion. The wave characteristics of radiant energy allow it to 
+be described in terms of wavelength, l, and frequency, n, which are 
+interrelated: ln = c.
+QUANTIZED ENERGY AND PHOTONS (SECTION 6.2) Planck pro-
+posed that the minimum amount of radiant energy that an object 
+can gain or lose is related to the frequency of the radiation: E = hn. 
+This smallest quan

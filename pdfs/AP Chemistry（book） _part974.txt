@@ -1,0 +1,15 @@
+ which has a stable configu-
+ration with eight electrons (an octet) in the outermost occupied shell. The next element, 
+sodium, atomic number 11, marks the beginning of a new row of the periodic table. 
+Sodium has a single 3s electron beyond the stable configuration of neon. We can there-
+fore abbreviate the electron configuration of sodium as
+Na: 3Ne43s1
+The symbol 3Ne4 represents the electron configuration of the ten electrons of neon, 1s22s22p6. 
+Writing the electron configuration as 3Ne43s1 focuses attention on the outermost electron of 
+the atom, which is the one largely responsible for how sodium behaves chemically.
+We can generalize what we have just done for the electron configuration of sodium. 
+In writing the condensed electron configuration of an element, the electron configuration 
+of the nearest noble-gas element of lower atomic number is represented by its chemical 
+symbol in brackets. For lithium, for example, we can write
+Li: 3He42s1
+We refer to the electrons represente

@@ -1,0 +1,38 @@
+amma-ray
+detector for scanning (moving) over a
+patient. The collimator selects 
+rays that
+come in a (nearly) straight line from the
+patient. Without the collimator,
+rays from
+all parts of the body could strike the
+scintillator, producing a poor image.
+Detectors today usually have many
+collimator tubes and are called gamma
+cameras. (b) Gamma camera image
+(scintigram), of both legs of a patient with
+shin splints, detecting 
+from 99m
+ 43 Tc.
+gs
+g
+g
+Collimating
+channel
+Patient
+Lead collimator
+Scintillator
+crystal
+Photomultiplier
+tube
+(a)
+(b)
+P H Y S I C S  A P P L I E D
+Medical diagnosis
+For medical diagnosis, the radionuclide commonly used today is 
+a long-lived excited state of technetium-99 (the “m” in the symbol stands for
+“metastable” state). It is formed when 
+decays. The great usefulness of 
+derives from its convenient half-life of 6 h (short, but not too short) and the
+fact that it can combine with a large variety of compounds. The compound to be
+labeled with the radionuclide is so

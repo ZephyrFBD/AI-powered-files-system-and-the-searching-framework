@@ -1,0 +1,57 @@
+of 
+valence electrons around boron:
+B
+F
+F
+F
+F
+F
+B
+F
+F
+F
+F
+B
+F
+F
+B
+F
+Less important
+Dominant
+We usually represent BF3 solely by the dominant resonance structure, in which there are 
+only six valence electrons around boron. The chemical behavior of BF3 is consistent with this 
+representation. In particular, BF3 reacts energetically with molecules having an unshared 
+pair of electrons that can be used to form a bond with boron, as, for example, in the reaction
+324 
+CHAPTER 8 Basic Concepts of Chemical Bonding
+1
+N
+H
+H
+H
+N
+H
+H
+F
+F
+F
+B
+F
+F
+B
+H
+F
+In the stable compound NH3BF3, boron has an octet of valence electrons.
+More than an Octet of Valence Electrons
+The third and largest class of exceptions consists of molecules or polyatomic ions in 
+which there are more than eight electrons in the valence shell of an atom. When we draw 
+the Lewis structure for PF5, for example, we are forced to place ten electrons around the 
+central phosphorus atom:
+F
+F
+F
+F
+F
+P
+    
+Molecules and ions with more than

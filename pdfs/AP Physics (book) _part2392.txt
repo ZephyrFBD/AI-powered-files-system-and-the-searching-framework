@@ -1,0 +1,49 @@
+ the battery is suddenly
+switched out of the LR circuit, the current drops exponentially,
+]
+[*Inductive and capacitive reactance, X, defined as for
+resistors, is the proportionality constant between voltage and
+I = Imax e–tt.
+t = LR
+I = V
+0
+R A1 - e–ttB,
+V
+0 ,
+u =
+1
+2
+B2
+m0
+.
+U = 1
+2 LI2.
+e =
+–L ¢I
+¢t
+.
+e,
+e2 =
+–M ¢I1
+¢t
+.
+current (either the rms or peak values). Across an inductor,
+(21;11a)
+and across a capacitor,
+(21;12a)
+The reactance of an inductor increases with frequency f,
+(21;11b)
+whereas the reactance of a capacitor decreases with frequency f,
+(21;12b)
+The current through a resistor is always in phase with the voltage
+across it, but in an inductor the current lags the voltage by 90°,
+and in a capacitor the current leads the voltage by 90°.]
+[*In an LRC series circuit, the total impedance Z is defined
+by the equivalent of
+for resistance, namely,
+(21;14)
+Z is given by
+(21;15)]
+[*An LRC series circuit resonates at a frequency given by
+(21;19)
+The rms current in the circuit is 

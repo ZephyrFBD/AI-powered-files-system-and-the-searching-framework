@@ -1,0 +1,16 @@
+culated for nonelectrolyte2 
+[13.15]
+The limiting value of i can be determined for a salt from the num-
+ber of ions per formula unit. For NaCl, for example, the limiting van’t 
+Hoff factor is 2 because NaCl consists of one Na+ and one Cl- per formula 
+552 
+CHAPTER 13 Properties of Solutions
+13.6 ∣ Colloids
+Some substances appear to initially dissolve in a solvent, but over time, the substance 
+separates from the pure solvent. For example, finely divided clay particles dispersed in 
+water eventually settle out because of gravity. Gravity affects the clay particles because 
+they are much larger than most molecules, consisting of thousands or even millions of 
+atoms. In contrast, the dispersed particles in a true solution (ions in a salt solution or glu-
+cose molecules in a sugar solution) are small. Between these extremes lie dispersed par-
+ticles that are larger than typical molecules but not so large that the components of the 
+mixture separate under the influence of gravity. These int

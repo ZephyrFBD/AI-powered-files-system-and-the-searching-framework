@@ -1,0 +1,17 @@
+lasma phase, which occurs only at very high temperatures and consists
+of ionized atoms (electrons separated from the nuclei). Some scientists believe that
+colloids (suspensions of tiny particles in a liquid) should also be considered a separate
+phase of matter. Liquid crystals, used in TV, cell phone, and computer screens,
+can be considered a phase of matter in between solids and liquids. For now, we
+will be interested in the three ordinary phases of matter.
+10–2 Density and Specific Gravity
+It is sometimes said that iron is “heavier” than wood. This cannot really be true
+since a large log clearly weighs more than an iron nail. What we should say is that
+iron is more dense than wood.
+The density,
+of a substance ( is the lowercase Greek letter rho) is defined
+as its mass per unit volume:
+(10;1)
+where m is the mass of a sample of the substance and V its volume. Density is a char-
+acteristic property of any pure substance. Objects made of a particular pure substance,
+such as pure gold, ca

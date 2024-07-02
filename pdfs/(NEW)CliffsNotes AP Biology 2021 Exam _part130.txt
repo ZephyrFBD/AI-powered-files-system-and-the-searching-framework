@@ -1,0 +1,17 @@
+rix to the intermembrane space. Some of these protein complexes are indicated in Figure 4-4 (PC I, PC
+II, PC III, and PC IV). Another protein complex, ATP synthase, is responsible for the phosphorylation of ADP to
+form ATP.
+4. Matrix. The matrix is the fluid material that fills the area inside the inner membrane. The Krebs cycle and the
+conversion of pyruvate to acetyl CoA occur here.
+Chemiosmosis in Mitochondria
+Chemiosmosis is the mechanism of ATP generation that occurs when energy is stored in the form of a proton
+concentration gradient across a membrane. A description of the process during oxidative phosphorylation in
+mitochondria follows (Figure 4-4):
+1. The Krebs cycle produces NADH and FADH2 in the matrix. In addition, CO2 is generated and substrate-level
+phosphorylation occurs to
+ 
+produce ATP.
+ 
+2. Electrons are removed from NADH and FADH2. Protein complexes
+in the inner membrane remove electrons from these two molecules (2A, 2B). The electrons move along the electron
+transpor

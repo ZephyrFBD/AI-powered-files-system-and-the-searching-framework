@@ -1,0 +1,32 @@
+g from element 80 to element 81 puts us into the 
+p block in the 6p subshell. (Remember that the principal 
+quantum number in the p block is the same as that in the s 
+block.) Moving across to Bi requires three electrons: 6p3. The 
+path we have taken is Putting the parts together, we obtain 
+the condensed electron configuration: 3Xe46s24f 145d106p3.  
+This configuration can also be written with the subshells 
+arranged in order of increasing principal quantum number: 
+3Xe44f 145d106s26p3.
+Finally, we check our result to see if the number of 
+electrons equals the atomic number of Bi, 83: Because 
+Xe has 54 electrons (its atomic number), we have 
+54 + 2 + 14 + 10 + 3 = 83. (If we had 14 electrons too few, 
+we would realize that we have missed the f  block.)
+ 
+SECTION 6.9  Electron Configurations and the Periodic Table 
+245
+Go Figure
+A friend tells you that her favorite element has an electron configuration of 
+[noble gas]6s24f 145d6. Which element is it? 
+1A
+1
+4
+Be
+2s2
+1
+H
+1s1
+3
+Li
+2s1
+11

@@ -1,0 +1,18 @@
+have different mass numbers. The mass number is the total number of nucleons 
+in the nucleus.
+t Atoms with the same atomic number but different mass numbers are known as isotopes.
+The different isotopes of an element are distinguished by their mass numbers. 
+For example, the three naturally occurring isotopes of uranium are uranium-234, 
+ 
+uranium-235, and uranium-238, where the numerical suffixes represent the mass num-
+bers. These isotopes are also written 234
+92U, 235
+92U, and 238
+92U, where the superscript is the 
+mass number and the subscript is the atomic number.*
+Different isotopes of an element have different natural abundances. For example, 
+99.3% of naturally occurring uranium is uranium-238, 0.7% is uranium-235, and only 
+a trace is uranium-234. Different isotopes of an element also have different stabilities. 
+Indeed, the nuclear properties of any given isotope depend on the number of protons 
+and neutrons in its nucleus.
+A nuclide is a nucleus containing a specified numbe

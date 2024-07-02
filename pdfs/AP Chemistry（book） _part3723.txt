@@ -1,0 +1,14 @@
+n configuration. (Recall from Section 7.4 that when 
+determining the electron configurations of transition-metal ions, we remove the s elec-
+trons first.) Ti(III) is thus called a d1 ion. In the ground state of 3Ti(H2O)643+, the single 
+3d electron resides in an orbital in the t2 set (Figure 23.29). Absorption of 495-nm light 
+excites this electron up to an orbital in the e set, generating the absorption spectrum 
+shown in Figure 23.26. Because this transition involves exciting an electron from one set 
+of d orbitals to the other, we call it a d-d transition. As noted earlier, the absorption of 
+visible radiation that produces this d-d transition causes the 3Ti(H2O)643+ ion to appear 
+purple.
+*The labels t2 for the dxy, dxz, and dyz orbitals and e for the dz2 and dx22y2 orbitals come from the ap-
+plication of a branch of mathematics called group theory to crystal-field theory. Group theory can 
+be used to analyze the effects of symmetry on molecular properties.
+Go Figure
+How would you 

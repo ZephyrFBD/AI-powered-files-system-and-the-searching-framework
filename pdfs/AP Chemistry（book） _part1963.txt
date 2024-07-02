@@ -1,0 +1,15 @@
+ich the lattice points are located only 
+at the corners of the unit cell: square, hexagonal, rectangular, rhom-
+bic, and oblique. In three dimensions the unit cell is a parallelepiped 
+whose size and shape are defined by three lattice vectors (a, b, and c), 
+and there are seven primitive lattices: cubic, tetragonal, hexagonal, 
+rhombohedral, orthorhombic, monoclinic, and triclinic. Placing 
+an additional lattice point at the center of a cubic unit cell leads to 
+a body-centered cubic lattice, while placing an additional point at the 
+center of each face of the unit cell leads to a face-centered cubic lattice.
+METALLIC SOLIDS (SECTION 12.3) Metallic solids are typically 
+good conductors of electricity and heat, malleable, which means that 
+they can be hammered into thin sheets, and ductile, which means 
+that they can be drawn into wires. Metals tend to form structures 
+where the atoms are closely packed. Two related forms of close pack-
+ing, cubic close packing and hexagonal close packi

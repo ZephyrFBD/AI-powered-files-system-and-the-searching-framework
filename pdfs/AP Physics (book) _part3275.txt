@@ -1,0 +1,14 @@
+o be.
+In a p-type semiconductor, a small percentage of semiconductor atoms are
+replaced by atoms with three outer electrons (group III in the Periodic Table),
+such as boron. As shown in Fig. 29–27a, there is a hole in the lattice structure
+near a boron atom because it has only three outer electrons. Electrons from
+nearby silicon atoms can jump into this hole and fill it. But this leaves a hole
+where that electron had previously been, Fig. 29–27b. The vast majority of atoms
+are silicon, so holes are almost always next to a silicon atom. Since silicon atoms
+require four outer electrons to be neutral, this means there is a net positive charge
+at the hole. Whenever an electron moves to fill a hole, the positive hole is then at
+the previous position of that electron. Another electron can then fill this hole, and
+the hole thus moves to a new location; and so on. This type of semiconductor is
+called p-type because it is the positive holes that carry the electric current.† Note,
+however, that 

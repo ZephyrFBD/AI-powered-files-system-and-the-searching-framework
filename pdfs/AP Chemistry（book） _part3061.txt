@@ -1,0 +1,32 @@
+nditions, we look at the sign of ∆G°.
+Solve
+ 
+∆G° = ∆H° - T∆S°
+ = 180.7 kJ - 1298 K2124.7 J>K2a 1 kJ
+103 J
+b
+ = 180.7 kJ - 7.4 kJ
+ = 173.3 kJ
+Because ∆G° is positive, the reaction is not spontaneous under 
+standard conditions at 298 K.
+Comment Notice that we converted the units of the T∆S° term to kJ 
+so that they could be added to the ∆H ° term, whose units are kJ.
+ 
+▶Practice Exercise 1
+Which of these statements is true? (a) All spontaneous reac-
+tions have a negative enthalpy change (b) All spontaneous 
+reactions have a positive entropy change (c) All spontaneous 
+reactions have a positive free-energy change (d) All sponta-
+neous reactions have a negative free-energy change (e) All 
+spontaneous reactions have a negative entropy change
+ 
+▶Practice Exercise 2
+Calculate ∆G° for a reaction for which ∆H° = 24.6 kJ and 
+∆S° = 132 J>K at 298 K. Is the reaction spontaneous under 
+these conditions?
+ 
+SECTION 19.5  Gibbs Free Energy 
+827
+828 
+CHAPTER 19 Chemical Thermodynamics
+Standard Free E

@@ -1,0 +1,39 @@
+we use Bernoulli’s equation (Eq. 10–5):
+NOTE The velocity term contributes very little in this case.
+= 2.5 * 105 Nm2 = 2.5 atm.
+= A3.0 * 105 Nm2B - A4.9 * 104 Nm2B - A6.0 * 102 Nm2B
+± 1
+2 A1.0 * 103 kgm3B CA0.50 msB
+2 - A1.2 msB
+2D
+= A3.0 * 105 Nm2B + A1.0 * 103 kgm3BA9.8 ms2B(–5.0 m)
+P
+2 = P
+1 + rgAy1 - y2B + 1
+2 rAv1
+2 - v2
+2B
+v2 = v1 A1
+A2
+= v1 pr1
+2
+pr2
+2
+= (0.50 ms)
+(0.020 m)2
+(0.013 m)2
+= 1.2 ms.
+AA = pr2B,
+v1
+v2
+0.50 ms
+EXAMPLE 10;14
+10–10 Applications of Bernoulli’s Principle:
+Torricelli, Airplanes, Baseballs, Blood Flow
+Bernoulli’s equation can be applied to many situations. One example is to calculate
+the velocity,
+of a liquid flowing out of a spigot at the bottom of a reservoir,
+Fig. 10–23. We choose point 2 in Eq. 10–5 to be the top surface of the liquid.
+Assuming the diameter of the reservoir is large compared to that of the spigot,
+will be almost zero. Points 1 (the spigot) and 2 (top surface) are open to the
+atmosphere, so the pressure at both points is equa

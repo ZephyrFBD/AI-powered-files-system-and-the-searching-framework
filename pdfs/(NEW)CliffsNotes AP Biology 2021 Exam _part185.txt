@@ -1,0 +1,12 @@
+ogresses, like a chain reaction. Ultimately, a signal that may have begun with a
+single signaling molecule may be amplified to produce a huge number of molecules that elicit a strong cellular
+response.
+A kinase cascade, or phosphorylation cascade, is a signaling cascade consisting of a number of different kinase
+enzymes (Figure 6-1). A kinase is an enzyme that phosphorylates its substrate, that is, adds a phosphate group to it.
+In a kinase cascade, each kinase phosphorylates, and thus activates, the next kinase in the sequence, ultimately
+phosphorylating and activating a protein that initiates a cellular response. The kinase cascade amplifies the signaling
+response.
+Scaffold proteins improve the efficiency of a signaling cascade by holding all the participating enzymes in close
+proximity. The scaffold also serves to keep the members of one signaling cascade isolated from members of another
+cascade.
+A protein phosphatase is an enzyme that dephosphorylates its substrate, that is, removes

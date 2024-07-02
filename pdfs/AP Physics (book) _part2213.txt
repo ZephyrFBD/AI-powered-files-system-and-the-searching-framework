@@ -1,0 +1,28 @@
+ncel to a large extent, but may still affect sensitive electronic devices.
+B = m0 I
+2pr
+=
+A4p * 10–7 TmAB(25 A)
+(2p)(0.10 m)
+= 5.0 * 10–5 T,
+B
+B
+EXAMPLE 20;9
+Magnetic field midway between two currents. Two
+parallel straight wires 10.0 cm apart carry currents in opposite directions
+(Fig. 20–24). Current
+is out of the page, and
+is into the
+page. Determine the magnitude and direction of the magnetic field halfway
+between the two wires.
+APPROACH The magnitude of the field produced by each wire is calculated
+from Eq. 20–6. The direction of each wire’s field is determined with the right-
+hand rule. The total field is the vector sum of the two fields at the midway point.
+SOLUTION The magnetic field lines due to current 
+form circles around the
+wire of 
+and right-hand-rule-1 (Fig. 20–8d) tells us they point counterclockwise
+around the wire. The field lines due to 
+form circles around the wire of 
+and point clockwise, Fig. 20–24. At the midpoint, both fields point upward in
+Fig.20–24 as shown

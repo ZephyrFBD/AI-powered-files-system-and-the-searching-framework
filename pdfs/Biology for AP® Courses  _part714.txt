@@ -1,0 +1,10 @@
+ties. Residues can be large or small, weakly acidic or basic, hydrophilic or
+hydrophobic, positively or negatively charged, or neutral. The unique combination of amino acid residues, their positions,
+sequences, structures, and properties, creates a very specific chemical environment within the active site. This specific
+environment is suited to bind, albeit briefly, to a specific chemical substrate (or substrates). Due to this jigsaw puzzle-like
+match between an enzyme and its substrates (which adapts to find the best fit between the transition state and the active
+site), enzymes are known for their specificity. The “best fit” results from the shape and the amino acid functional group’s
+attraction to the substrate. There is a specifically matched enzyme for each substrate and, thus, for each chemical reaction;
+however, there is flexibility as well.
+The fact that active sites are so perfectly suited to provide specific environmental conditions also means that they are subject
+to influen

@@ -1,0 +1,13 @@
+rol
+the cell decreases.
+Various checkpoints during the cell cycle evaluate conditions to determine whether cell activities in preparation for
+cell division should
+continue. The G1 checkpoint during the G1 phase determines whether preparations should continue or if the cell
+should enter the G0 state with no subsequent cell division. The G2 checkpoint during the G2
+phase checks for accurate DNA replication. The M checkpoint during metaphase insures that the chromosomes are
+properly attached to the spindle fiber microtubules.
+Cell division also depends on the presence of cyclin-dependent kinases, which activate, by phosphorylation, proteins
+that regulate the cell cycle. Cell division is influenced by the detection of external molecules, or growth factors, that
+are produced by other cells. Cell division is also promoted when neighboring cells are available for attachment
+(anchorage dependence) or prevented by the presence of too many neighboring cells (density-dependent inhibition).
+c. If 

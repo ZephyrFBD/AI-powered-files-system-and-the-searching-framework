@@ -1,0 +1,36 @@
+0 
+9.800
+Denver 
+1650 
+9.796
+Pikes Peak 
+4300 
+9.789
+Sydney, Australia
+0 
+9.798
+Equator 
+0 
+9.780
+North Pole 
+0 
+9.832
+(calculated)
+(ms2)
+If we solve Eq. 5–6 for v, we find  
+and we see that a satellite’s
+speed does not depend on its own mass. Satellites of different mass orbiting at the
+same distance above Earth have the same speed and period.
+v = 2GmEr
+SECTION 5–7
+Satellites and “Weightlessness”
+123
+P H Y S I C S  A P P L I E D
+Geosynchronous satellites
+Geosynchronous satellite. A geosynchronous satellite is
+one that stays above the same point on the Earth, which is possible only if it
+is above a point on the equator. Why? Because the center of a satellite orbit is
+always at the center of the Earth; so it is not possible to have a satellite orbiting
+above a fixed point on the Earth at any latitude other than 0°. Geosynchronous
+satellites are commonly used for TV and radio transmission, for weather forecasting,
+and as communication relays.† Determine (a) the height above the Earth’s

@@ -1,0 +1,28 @@
+orces and potential energy. Potential energy terms can be added.
+MASS RELATED
+TO ENERGY
+Energy from nuclear decay. The energy required or
+released in nuclear reactions and decays comes from a change in mass between
+the initial and final particles. In one type of radioactive decay (Chapter 30),
+an atom of uranium 
+decays to an atom of thorium
+plus an atom of helium 
+where the masses
+given are in atomic mass units 
+Calculate the energy
+released in this decay.
+APPROACH The initial mass minus the total final mass gives the mass loss in
+atomic mass units (u); we convert that to kg, and multiply by 
+to find the
+energy released,
+SOLUTION The initial mass is 232.03716 u, and after the decay the mass is
+so there is a loss of mass of 0.00582 u.
+This mass, which equals 
+is
+changed into energy. By 
+we have
+Since
+(Section 17–4), the energy released is 5.4 MeV.
+In the tiny world of atoms and nuclei, it is common to quote energies in eV
+(electron volts) or multiples such as MeV 
+Momentum (see Eq. 26–

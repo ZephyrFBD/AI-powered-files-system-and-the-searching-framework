@@ -1,0 +1,22 @@
+reaction have ∆G = 0?  
+(b) If T is increased from that in part (a), will the reaction 
+be spontaneous or nonspontaneous?
+ 19.68  Reactions in which a substance decomposes by losing CO 
+are called decarbonylation reactions. The decarbonylation of 
+acetic acid proceeds according to:
+CH3COOH1l2 ¡ CH3OH1g2 + CO1g2
+By using data from Appendix C, calculate the minimum 
+temperature at which this process will be spontaneous un-
+der standard conditions. Assume that ∆H° and ∆S° do not 
+vary with temperature.
+ 19.69  Consider the following reaction between oxides of 
+nitrogen:
+NO21g2 + N2O1g2 ¡ 3 NO1g2
+(a) Use data in Appendix C to predict how ∆G for the reac-
+tion varies with increasing temperature. (b) Calculate ∆G 
+at 800 K, assuming that ∆H° and ∆S° do not change with 
+temperature. Under standard conditions is the reaction 
+spontaneous at 800 K? (c) Calculate ∆G at 1000 K. Is the 
+reaction spontaneous under standard conditions at this 
+temperature?
+ 19.70  Methanol 1CH3OH2 can be made by the

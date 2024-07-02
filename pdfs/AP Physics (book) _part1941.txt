@@ -1,0 +1,22 @@
+lectric Potential
+1. Make a list of rules for and properties of equipotential sur-
+faces or lines. You should be able to find eight distinct rules
+in the text.
+2. Figure 17–8 shows contour lines (elevations). Just for fun,
+assume they are equipotential lines on a flat 2-dimensional
+surface with the values shown being in volts. Estimate the
+magnitude and direction of the “electric field” (a) between
+Iceberg Lake and Cecile Lake and (b) at the Minaret Mine.
+Assume that up is 
+right is 
+and that Cecile Lake is
+about 1.0 km wide in the middle.
+3. In lightning storms, the potential difference between the
+Earth and the bottom of thunderclouds may be 35,000,000 V.
+The bottoms of the thunderclouds are typically 1500 m above
+the Earth, and can have an area of 
+Modeling the
+Earth–cloud system as a huge capacitor, calculate (a) the
+capacitance of the Earth–cloud system, (b) the charge stored
+in the “capacitor,”and (c) the energy stored in the “capacitor.”
+4. The potential energy stored in a capac

@@ -1,0 +1,62 @@
+radii of all possible orbits. The smallest orbit is for
+and for hydrogen 
+has the value
+(27;13)
+The radius of the smallest orbit in hydrogen,
+is sometimes called the Bohr radius.
+From Eq. 27–12, we see that the radii of the larger orbits‡ increase as 
+so
+The first four orbits are shown in Fig. 27–28. Notice that, according to Bohr’s
+model, an electron can exist only in the orbits given by Eq. 27–12. There are no
+allowable orbits in between.
+For an atom with
+we can write the orbital radii,
+using Eq. 27–12:
+(27;14)
+rn = n2
+Z A0.529 * 10–10 mB,   n = 1, 2, 3, p .
+rn,
+Z Z 1,
+rn = n2r1 ,   n = 1, 2, 3, p .
+o
+r3 = 9r1 = 4.76 * 10–10 m,
+r2 = 4r1 = 2.12 * 10–10 m,
+n2,
+r1,
+r1 = 0.529 * 10–10 m.
+r1 =
+A1B2A6.626 * 10–34 JsB2
+4p2A9.11 * 10–31 kgBA8.99 * 109 Nm2C2BA1.602 * 10–19 CB2
+(Z = 1)
+n = 1,
+r1 =
+h2
+4p2mke2 .
+rn =
+n2h2
+4p2mkZe2
+= n2
+Z r1   n = 1, 2, 3 p,
+rn
+rn = kZe24p2mrn
+2
+n2h2
+.
+v = nh2pmrn
+rn = kZe2
+mv2 ,
+rn,
+k Ze2
+rn
+2
+= mv2
+rn
+.
+F = ma
+rn,
+a = v2rn
+F = ma,
+Z = ±1.
+±e
+q2 = ±Ze,
+q1 =

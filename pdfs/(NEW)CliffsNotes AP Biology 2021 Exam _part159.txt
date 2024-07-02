@@ -1,0 +1,20 @@
+ enzyme rubisco catalyzes the
+merging of CO2 and RuBP. The
+ 
+Calvin cycle is referred to as C3 photosynthesis because the first product formed, PGA, contains three carbon
+atoms.
+2. Reduction: 12 ATP and 12 NADPH are used to convert 12 PGA to 12 G3P. The energy in the ATP and
+NADPH molecules is incorporated into G3P, thus making G3P a very energy-rich molecule. ADP, Pi, and
+NADP+ are released and then re-energized in noncyclic
+ 
+photophosphorylation.
+ 
+3. Regeneration: 6 ATP are used to convert 10 G3P to 6 RuBP.
+ 
+Regenerating the 6 RuBP originally used to combine with 6 CO2 allows
+ 
+the cycle to repeat.
+4. Carbohydrate synthesis. Note that 12 G3P were created in step 2, but only 10 were used in step 3. What
+happened to the remaining two? These two remaining G3P are used to build glucose. Other monosaccharides, like
+fructose and maltose, can also be formed. In addition, glucose molecules can be combined to form disaccharides,
+like sucrose, and polysaccharides, like starch and cellulose.

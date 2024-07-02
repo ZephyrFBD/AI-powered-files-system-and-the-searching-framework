@@ -1,0 +1,25 @@
+Note: This is not a normal ray diagram
+because we are showing only one ray
+from each point.
+u
+The magnification of a given lens can be increased a bit by moving the lens
+and adjusting your eye so it focuses on the image at the eye’s near point. In this
+case,
+(see Fig. 25–17a) if your eye is very near the magnifier. Then the
+object distance 
+is given by
+We see from this equation that
+as shown in Fig. 25–17a,
+since 
+must be less than 1. With 
+the magnification is
+or
+(25;2b)
+We see that the magnification is slightly greater when the eye is focused at its
+near point, as compared to when it is relaxed.
+A jeweler’s “loupe.” An 8-cm-focal-length
+converging lens is used as a “jeweler’s loupe,” which is a magnifying glass. Esti-
+mate (a) the magnification when the eye is relaxed, and (b) the magnification if
+the eye is focused at its near point 
+APPROACH The magnification when the eye is relaxed is given by Eq. 25–2a.
+When the eye is focused at its near point, we use Eq. 25–2b and we assume the

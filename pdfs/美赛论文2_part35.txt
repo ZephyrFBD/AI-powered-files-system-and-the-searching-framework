@@ -1,0 +1,14 @@
+arameters above. Then 
+we can use these data as the total drugs are to distribute. 
+Step 2: Estimate the demand of each epidemic area. Change the parameters of 
+λ, μ, I0, S0 according to the situation of each epidemic area and repeat using 
+Improved Model 2. Then we will get forecast infected people in each area and that is 
+the demand of the area. Our team cannot get enough data of each area, so we cannot 
+calculate further. 
+Step 3: Drugs distribution strategy. First, treatment center distributes drugs to 
+each epidemic area every week. They distribute drugs according to the number of 
+infected people in each epidemic area. For example, if there are 100 infected people in 
+area A1 in the next week, 10 infected people in areaA2, then we distribute 100 units 
+of drugs to A1 while 10 to A2 this week. During the period of each week, if area Ai 
+is short of drugs while other areas have surplus drugs, then Ai can choose get drugs 
+from treatment center or other areas. On this occasion, we 

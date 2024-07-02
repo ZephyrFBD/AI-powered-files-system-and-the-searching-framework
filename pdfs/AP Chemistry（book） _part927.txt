@@ -1,0 +1,18 @@
+ which the electron’s position can be determined. This is 
+the essence of the uncertainty principle: There is an uncertainty 
+in simultaneously knowing both the position and the momentum of 
+the electron that cannot be reduced beyond a certain minimum level. 
+The more accurately one is known, the less accurately the other 
+is known.
+Although we can never know the exact position and momen-
+tum of the electron, we can talk about the probability of its being 
+at certain locations in space. In Section 6.5, we introduce a model 
+of the atom that provides the probability of finding electrons of 
+specific energies at certain positions in atoms.
+Related Exercises: 6.51, 6.52, 6.96, 6.97
+228 
+CHAPTER 6 Electronic Structure of Atoms
+standing wave and higher-energy ones. Furthermore, just as the overtones of the guitar 
+string have nodes, points where the magnitude of the wave is zero, so do the waves char-
+acteristic of the electron.
+Solving Schrödinger’s equation for the hydrogen atom leads to 

@@ -1,0 +1,29 @@
+as, assuming it behaves like an ideal gas, at STP.
+APPROACH We use the ideal gas law, solving for V with
+SOLUTION We solve for V in Eq. 13–3:
+Since 1 liter (L) is
+1.00 mol of any (ideal) gas has
+volume  
+at STP.
+V = 22.4 L
+1000 cm3 = 1.00 * 10–3 m3,
+V = nRT
+P
+=
+(1.00 mol)(8.314 JmolK)(273 K)
+A1.013 * 105 Nm2B
+= 22.4 * 10–3 m3.
+n = 1.00 mol.
+EXAMPLE 13;9
+The value of 22.4 L for the volume of 1 mol of an ideal gas at STP is worth
+remembering, for it sometimes makes calculation simpler.
+EXERCISE C What is the volume of 1.00 mol of ideal gas at
+and
+2.0 atm absolute pressure? (a) 11.2 L; (b) 22.4 L; (c) 44.8 L; (d) 67.2 L; (e) 89.6 L.
+546 K (= 2 * 273 K)
+IDEAL GAS LAW
+Helium balloon. A helium party balloon, assumed to be
+a perfect sphere, has a radius of 18.0 cm. At room temperature (20°C), its internal
+pressure is 1.05 atm. Find the number of moles of helium in the balloon and the
+mass of helium needed to inflate the balloon to these values.
+APPROACH We can use the ideal gas law to find

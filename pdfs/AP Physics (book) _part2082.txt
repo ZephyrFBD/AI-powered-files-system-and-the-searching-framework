@@ -1,0 +1,65 @@
+.
+(30 ).
+V
+ha = –AI
+1B
+–30I
+1 + 45 - 41I
+3 = 0,
+V
+ha + V
+cd + V
+ac = 0,
+V
+ac = –AI
+3B (40  + 1 ) = –(41 )I
+3 .
+V
+cd = ±45 V.
+V
+ha = –AI
+1B(30 ).
+EXERCISE D Write the Kirchhoff equation for the lower loop abcdefga of Example 19–8
+and show, assuming the currents calculated in this Example, that the potentials add to
+zero for this lower loop.
+536
+CHAPTER 19
+DC Circuits
+I
+a
+b
+c
+1.5 V
+– +
+1.5 V
+– +
+R
+I
+(a)
+a
+b
+c
+20 V
+12 V
+R
+I
+(b)
+12 V
+R
+(c)
+12 V
+– +
+–
+– +
+– +
++
+FIGURE 19–14 Batteries in series,
+(a) and (b), and in parallel (c).
+19–4 EMFs in Series and in Parallel;
+Charging a Battery
+When two or more sources of emf, such as batteries, are arranged in series as in
+Fig. 19–14a, the total voltage is the algebraic sum of their respective voltages. On
+the other hand, when a 20-V and a 12-V battery are connected oppositely, as shown
+in Fig. 19–14b, the net voltage 
+is 8 V (ignoring voltage drop across internal
+resistances). That is, a positive test charge moved from a to b gains in potential 

@@ -1,0 +1,13 @@
+h as having brown hair and brown eyes, then you could
+have both occur at the same time. If you are trying to determine the likelihood of EITHER occurring but NOT
+BOTH, then you must calculate using the sum rule (odds of either occurring) and the product rule (odds of both
+occurring). Then, take the result using the product rule and subtract it from the result when using the sum rule since
+you want the odds of either occurring but not both.
+HYPOTHESIS TESTING
+t-test and p-values
+Many experiments involve comparing two datasets or two groups, and a t-test can be used to calculate whether the
+means of two groups are significantly different from each other. This test is most often applied to datasets that are
+normally distributed. A p-value equal to or below 0.05 is considered significant in most biology-related fields. T-test
+calculations involve comparing each data point to the group’s mean and also take standard deviation and sample size
+into consideration.
+Understanding mathematically h

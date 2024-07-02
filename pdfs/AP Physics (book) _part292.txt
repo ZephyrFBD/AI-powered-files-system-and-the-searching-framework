@@ -1,0 +1,38 @@
+ using the parallelogram method.
+Vectors can be added more accurately by adding their
+components along chosen axes with the aid of trigonometric
+functions. A vector of magnitude V making an angle with the
+axis has components
+(3;3)
+V
+x = V cos u,  V
+y = V sin u.
+±x
+u
+Given the components, we can find a vector’s magnitude and
+direction from
+(3;4)
+Projectile motion is the motion of an object in the air near the
+Earth’s surface under the effect of gravity alone. It can be analyzed
+as two separate motions if air resistance can be ignored. The hori-
+zontal component of motion is at constant velocity, whereas the
+vertical component is at constant acceleration,
+just as for an
+object falling vertically under the action of gravity.
+The velocity of an object relative to one frame of refer-
+ence can be found by vector addition if its velocity relative to a
+second frame of reference, and the relative velocity of the two
+reference frames, are known.
+g
+B,
+V = 3V
+x
+2 + V
+y
+2 ,  tan u =
+V
+y
+V
+x
+.
+Summa

@@ -1,0 +1,16 @@
+numbers of molecules are dealt with. We can say, then, that
+although there are no precise deterministic laws in quantum mechanics, there are
+statistical laws based on probability.
+It is important to note that there is a difference between the probability
+imposed by quantum mechanics and that used in the nineteenth century to
+understand thermodynamics and the behavior of gases in terms of molecules
+(Chapters 13 and 15). In thermodynamics, probability is used because there are
+far too many particles to keep track of. But the molecules are still assumed to
+move and interact in a deterministic way following Newton’s laws. Probability in
+quantum mechanics is quite different; it is seen as inherent in nature, and not as a
+limitation on our abilities to calculate or to measure.
+810
+CHAPTER 28
+Quantum Mechanics of Atoms
+†Note that these probabilities can be calculated precisely, just like predictions of probabilities at
+rolling dice or dealing cards; but they are unlike predictions of probabil

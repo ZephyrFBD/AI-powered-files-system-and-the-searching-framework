@@ -1,0 +1,16 @@
+arger when a dielectric is between the plates. A capacitor 
+whose plates are separated by an air gap has a charge 
+on one plate and 
+on the other (Fig. 17–19a). Assume it is isolated (not connected to a battery) so
+charge cannot flow to or from the plates. The potential difference between the
+plates,
+is given by Eq. 17–7:
+where the subscripts refer to air between the plates. Now we insert a dielectric
+between the plates (Fig. 17–19b). Because of the electric field between the capac-
+itor plates, the dielectric molecules will tend to become oriented as shown in 
+Fig. 17–19b. If the dielectric molecules are polar, the positive end is attracted to
+the negative plate and vice versa. Even if the dielectric molecules are not polar,
+electrons within them will tend to move slightly toward the positive capacitor
+plate, so the effect is the same. The net effect of the aligned dipoles is a net nega-
+tive charge on the outer edge of the dielectric facing the positive plate, and a net
+positive char

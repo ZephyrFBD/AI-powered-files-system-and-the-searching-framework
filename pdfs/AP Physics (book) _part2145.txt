@@ -1,0 +1,43 @@
+d in parallel to a 120-V source
+by two long leads of total resistance 
+If 210 mA flows
+through each bulb, what is the resistance of each, and what
+fraction of the total power is wasted in the leads?
+14. (II) A close inspection of an electric circuit reveals that
+a
+resistor was inadvertently soldered in the place
+where a 
+resistor is needed. How can this be fixed
+without removing anything from the existing circuit?
+350-
+480-
+1.4 .
+1.70-k
+1.0-
+R1R2?
+R2 ,
+100-
+10-
+1.20-k
+790-,
+580-,
+65-
+45-
+1800-
+1800-
+650-
+12.0-
+710-
+71.0-
+0.900 
+Problems
+17. (II) A 75-W, 120-V bulb is connected in parallel with a
+25-W, 120-V bulb. What is the net resistance?
+18. (II) (a) Determine the equivalent resistance of the “ladder”
+of equal 
+resistors shown in Fig.19–49. In other words,
+what resistance would an ohmmeter read if connected between
+points A and B? (b) What is the current through each of the
+three resistors on the left if a 50.0-V battery is connected
+between points A and B?
+175-

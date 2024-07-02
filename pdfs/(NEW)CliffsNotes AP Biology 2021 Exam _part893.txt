@@ -1,0 +1,21 @@
+quations and formulas pages, is 3.84 for a level of significance of p = 0.05. Since 5.76 exceeds the
+critical value of 3.84, the null hypothesis (that the yellow seeds were heterozygous) is rejected.
+2. Answer: 0.09 (acceptable range: 0.08-0.09)
+ 
+First, calculate the change in DO2 for both bottles by subtracting the initial DO2 value from the final DO2 value.
+Organisms in the pond
+ 
+water exposed to light were both undergoing photosynthesis and
+ 
+respiration, so DO2 for the bottle community exposed to light
+ 
+represented oxygen values associated with net primary productivity
+(gross primary activity - respiratory rate). Second, convert the DO2 values from units of mg O2/L to mL/L using the
+formula provided on the equations and formulas pages (1 mg O2 = 0.698 mL O2). Then
+calculate the amount of carbon fixed using the other formula provided
+ 
+(1 mL of O2 produced generates 0.536 mg carbon fixed). A summary
+ 
+of these calculations is provided in the following table:
+ 
+The respiratory rat

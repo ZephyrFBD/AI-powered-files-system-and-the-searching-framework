@@ -1,0 +1,18 @@
+higher 
+effective nuclear charge experienced by the core electrons. The first 
+ionization energies of the elements show periodic trends that are 
+opposite those seen for atomic radii, with smaller atoms having 
+higher first ionization energies. Thus, first ionization energies de-
+crease as we go down a column and increase as we proceed left to 
+right across a row.
+We can write electron configurations for ions by first writing 
+the electron configuration of the neutral atom and then removing 
+or adding the appropriate number of electrons. For cations, electrons 
+are removed first from the orbitals of the neutral atom with the larg-
+est value of n. If there are two valence orbitals with the same value of 
+n (such as 4s and 4p), then the electrons are lost first from the orbital 
+with a higher value of l (in this case, 4p). For anions, electrons are 
+added to orbitals in the reverse order.
+SOLUTION
+(a) Bismuth is directly below antimony, Sb, in group 5A. Based 
+on the observation that ato

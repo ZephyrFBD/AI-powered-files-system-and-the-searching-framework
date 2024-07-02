@@ -1,0 +1,10 @@
+ not heritable, it doesn’t matter how much it may increase fitness because it cannot be passed on to the
+next generation and cannot accumulate in the population. Such “acquired” characteristics do not contribute to
+evolution. Even mutations that occur in somatic tissues do not count. In order for a trait to contribute to evolution, it
+must be encoded in alleles that will be incorporated into gametes.
+c. If there are unlimited resources and unlimited availability of mates, differences among individuals won’t have any
+effect on their ability to produce offspring. But, eventually, as the population continues to grow, resources will
+become limited. Then, individuals must compete for those resources. Individuals with the traits that increase their
+ability to obtain resources will produce more offspring, passing their genes to the next generation. Without
+competition, there is no natural selection and no evolution.
+This question specifically asks you to address each part of the question as t

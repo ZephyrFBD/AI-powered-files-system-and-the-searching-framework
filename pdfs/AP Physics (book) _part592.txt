@@ -1,0 +1,66 @@
+led. We apply the work-energy principle, noting
+that 
+and are in opposite directions and that the final speed of the car is zero:
+Then
+Thus, since the force and mass are constant, we see that the stopping distance, d,
+increases with the square of the speed:
+If the car’s initial speed is doubled, the stopping distance is  
+times as great,
+or 80 m.
+(2)2 = 4
+d r v2.
+=  0
+ 
+-
+1
+2 mv1
+2 .
+–Fd = ¢ke =
+1
+2 mv2
+2 -
+1
+2 mv1
+2
+W
+net = Fd cos 180° =
+–Fd.
+d
+B
+F
+B
+Fd,
+120 kmh,
+60 kmh
+CONCEPTUAL EXAMPLE 6;5
+SECTION 6–4
+Potential Energy
+145
+P H Y S I C S  A P P L I E D
+Car’s stopping distance
+to
+initial speed squared
+r
+(d = 20 m)
+(d = ?)
+(b)
+(a)
+v1 = 60 km/h
+v1 = 120 km/h
+v2 = 0
+v2 = 0
+F
+B
+F
+B
+d
+B
+d
+B
+FIGURE 6–10 Example 6–5. A moving car comes to a stop.
+Initial velocity is (a) 
+(b) 120 kmh.
+60 kmh,
+EXERCISE C Can kinetic energy ever be negative?
+EXERCISE D (a) If the kinetic energy of a baseball is doubled, by what factor has its speed
+increased? (b) If its speed is doubled, by what factor does

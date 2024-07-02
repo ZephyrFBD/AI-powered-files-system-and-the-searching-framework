@@ -1,0 +1,37 @@
+igure 10.21, we would see that 
+a molecule about to collide with the wall experiences the attractive 
+forces of nearby molecules. These attractions lessen the force with 
+which the molecule hits the wall. As a result, the gas pressure is less 
+than that of an ideal gas. This effect decreases PV>RT to below its 
+Go Figure
+300
+0
+PV
+RT
+600
+900
+0
+1
+2
+3
+P (atm)
+200 K
+500 K
+1000 K
+Ideal gas
+▲ Figure 10.19 The effect of temperature and pressure on the behavior of nitrogen gas.
+True or false: Nitrogen gas behaves more like an ideal gas as 
+the temperature increases.
+Give It Some Thought
+Under which conditions do you expect helium gas to deviate most from ideal 
+behavior? (a) 100 K and 1 atm, (b) 100 K and 5 atm, (c) 300 K and 2 atm.
+ 
+SECTION 10.9   
+Real Gases: Deviations from Ideal Behavior  
+421
+Go Figure
+Ideal gas
+Real gas
+▲ Figure 10.21 In any real gas, attractive intermolecular forces reduce pressure to values lower 
+than in an ideal gas.
+How would you expect the pressure of a gas to cha

@@ -1,0 +1,22 @@
+ m B
+Volume of a lake. Estimate how much water
+there is in a particular lake, Fig. 1–10a, which is roughly circular, about 1 km
+across, and you guess it has an average depth of about 10 m.
+APPROACH No lake is a perfect circle, nor can lakes be expected to have a
+perfectly flat bottom. We are only estimating here. To estimate the volume,
+we can use a simple model of the lake as a cylinder: we multiply the average
+depth of the lake times its roughly circular surface area, as if the lake were a
+cylinder (Fig. 1–10b).
+SOLUTION The volume V of a cylinder is the product of its height h times
+the area of its base:
+where r is the radius of the circular base.† The
+radius r is
+so the volume is approximately
+where 
+was rounded off to 3. So the volume is on the order of 
+ten million cubic meters. Because of all the estimates that went into this
+calculation, the order-of-magnitude estimate 
+is probably better to
+quote than the 
+figure.
+NOTE To express our result in U.S. gallons, we see in the Table

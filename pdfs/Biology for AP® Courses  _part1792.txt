@@ -1,0 +1,10 @@
+Rate
+Like transcription, translation is controlled by proteins that bind and initiate the process. In translation, the complex that
+assembles to start the process is referred to as the initiation complex. The first protein to bind to the RNA to initiate
+translation is the eukaryotic initiation factor-2 (eIF-2). The eIF-2 protein is active when it binds to the high-energy
+molecule guanosine triphosphate (GTP). GTP provides the energy to start the reaction by giving up a phosphate and
+becoming guanosine diphosphate (GDP). The eIF-2 protein bound to GTP binds to the small 40S ribosomal subunit.
+When bound, the methionine initiator tRNA associates with the eIF-2/40S ribosome complex, bringing along with it the
+mRNA to be translated. At this point, when the initiator complex is assembled, the GTP is converted into GDP and energy
+is released. The phosphate and the eIF-2 protein are released from the complex and the large 60S ribosomal subunit binds
+to translate the RNA. The binding of eIF-2 

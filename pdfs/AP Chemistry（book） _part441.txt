@@ -1,0 +1,27 @@
+
+the chemical formula for calcium nitrate is Ca1NO322. Adding the 
+atomic weights of the elements in the compound gives a formula 
+weight of 164.1 amu. Using 1 mol Ca1NO322 = 164.1 g Ca1NO322 
+to write the appropriate conversion factor, we have
+Grams Ca1NO322 = 10.433 mol Ca(NO322)a
+164.1 g Ca1NO322
+1 mol Ca1NO322
+b
+= 71.1 g Ca1NO322
+Check The number of moles is less than 1, so the number of grams 
+must be less than the molar mass, 164.1 g. Using rounded num-
+bers to estimate, we have 0.5 * 150 = 75 g, which means the 
+magnitude of our answer is reasonable. Both the units (g) and the 
+number of significant figures (3) are correct.
+ 
+Check Because 5.380 g is less than the molar mass, an answer less 
+than 1 mol is reasonable. The unit mol is appropriate. The original 
+data had four significant figures, so our answer has four significant 
+figures.
+ 
+▶Practice Exercise 1
+A 508-g sample of sodium bicarbonate (NaHCO3) contains how 
+many moles of sodium bicarbonate?
+ 
+▶Practice Exercise 2
+How

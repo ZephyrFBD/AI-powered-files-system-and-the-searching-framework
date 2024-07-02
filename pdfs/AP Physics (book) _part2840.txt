@@ -1,0 +1,20 @@
+ubical
+fashion, Fig. 25–38, with atoms spaced a distance d apart. Suppose that a beam of
+X-rays is incident on the crystal at an angle 
+to the surface, and that the two rays
+shown are reflected from two subsequent planes of atoms as shown. The two rays
+will constructively interfere if the extra distance ray I travels is a whole number
+of wavelengths farther than the distance ray II travels. This extra distance is
+Therefore, constructive interference will occur when
+(25;10)
+where m can be any integer. (Notice that is not the angle with respect to the normal
+to the surface.) This is called the Bragg equation after W. L. Bragg (1890–1971),
+who derived it and who, together with his father, W. H. Bragg (1862–1942),
+developed the theory and technique of X-ray diffraction by crystals in 1912–1913.
+If the X-ray wavelength is known and the angle 
+is measured, the distance d
+between atoms can be obtained. This is the basis for X-ray crystallography.
+f
+f
+ml = 2d sin f,   m = 1, 2, 3, p,
+2d sin f.

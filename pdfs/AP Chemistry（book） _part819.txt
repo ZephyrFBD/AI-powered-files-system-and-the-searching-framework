@@ -1,0 +1,20 @@
+ after studying this chapter, you should be able to:
+t Describe the changes in potential energy that accompany 
+the formation and breaking of chemical bonds. (Section 5.1) 
+ 
+Related Exercises: 5.17, 5.18
+t Distinguish between the system and the surroundings in ther-
+modynamics. (Section 5.2) Related Exercises: 5.21, 5.22
+t Calculate internal energy from heat and work and state the sign 
+conventions of these quantities. (Section 5.2)  
+Related Exercises: 5.25–5.28
+t Explain the concept of a state function and give examples. (Sec-
+tion 5.2) Related Exercises: 5.29, 5.30
+t Calculate ∆H from ∆E and P∆V (Section 5.3)  
+Related Exercises: 5.36–5.38
+t Relate qp to ∆H and indicate how the signs of q and ∆H relate to 
+whether a process is exothermic or endothermic. (Sections 5.2 
+and 5.3) Related Exercises: 5.43, 5.44
+t Use thermochemical equations to relate the amount of heat en-
+ergy transferred in reactions at constant pressure 1∆H2 to the 
+amount of substance involved in the reactio

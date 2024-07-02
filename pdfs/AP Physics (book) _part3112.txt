@@ -1,0 +1,43 @@
+ectron confined to a box has a
+ground-state energy of 22 eV. What is the width of the box?
+[Hint: See Sections 27–8, 27–13, and 11–12.]
+(m = 140 g)
+0.50 * 10–10 m.
+(n = 1)
+ke = n2h28mL2,
+l = hmv
+l = 780 nm.
+(m = 85 u)
+Search and Learn
+A:
+so red.
+B: More 1000-nm photons (each has lower energy).
+C:
+545 nm.
+5.50 * 1014 Hz,
+lp = 725 nm,
+D: Only
+E: Decrease.
+F: (e).
+l.
+ANSWERS TO EXERCISES
+C
+H
+A
+P
+T
+E
+R
+Quantum Mechanics
+of Atoms
+CHAPTER-OPENING QUESTION—Guess now!
+The uncertainty principle states that
+(a) no measurement can be perfect because it is technologically impossible to
+make perfect measuring instruments.
+(b) it is impossible to measure exactly where a particle is, unless it is at rest.
+(c) it is impossible to simultaneously know both the position and the momen-
+tum of a particle with complete certainty.
+(d) a particle cannot actually have a completely certain value of momentum.
+B
+ohr’s model of the atom gave us a first (though rough) picture of what an
+atom is like. It proposed 

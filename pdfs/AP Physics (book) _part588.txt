@@ -1,0 +1,26 @@
++ 2adB,
+F
+net = ma,
+W
+net = F
+net d.
+F
+net
+v2 ,
+v1.
+The work-energy principle is a very useful reformulation of Newton’s laws.
+It tells us that if (positive) net work W is done on an object, the object’s kinetic
+energy increases by an amount W. The principle also holds true for the reverse
+situation: if the net work W done on an object is negative, the object’s kinetic
+energy decreases by an amount W. That is, a net force exerted on an object oppo-
+site to the object’s direction of motion decreases its speed and its kinetic energy.
+An example is a moving hammer (Fig. 6–8) striking a nail. The net force on the
+hammer (
+in Fig. 6–8, where 
+is assumed constant for simplicity) acts toward
+the left, whereas the displacement of the hammer is toward the right. So the net
+work done on the hammer,
+is negative and the
+hammer’s kinetic energy decreases (usually to zero).
+Figure 6–8 also illustrates how energy can be considered the ability to 
+do work. The hammer, as it slows down, does positive w

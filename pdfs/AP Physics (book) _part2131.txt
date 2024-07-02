@@ -1,0 +1,37 @@
+ based on conservation 
+of energy and states that the algebraic sum of the changes in
+potential around any closed path of the circuit must be zero.
+When capacitors are connected in parallel, the equivalent
+capacitance is the sum of the individual capacitances:
+(19;5)
+Ceq = C1 + C2 + p.
+1
+Req
+=
+1
+R1
++
+1
+R2
++ p.
+Req
+Req = R1 + R2 + p.
+Summary
+When capacitors are connected in series, it is the recipro-
+cals that add up:
+(19;6)
+When an RC circuit containing a resistance R in series with
+a capacitance C is connected to a dc source of emf, the voltage
+across the capacitor rises gradually in time characterized by an
+exponential of the form 
+, where the time constant
+(19;7)
+is the time it takes for the voltage to reach 63% of its maximum
+value.
+A capacitor discharging through a resistor is characterized
+by the same time constant: in a time 
+the voltage across
+the capacitor drops to 37% of its initial value. The charge on
+the capacitor, and the voltage across it, decrease as 
+.
+Electric shocks 

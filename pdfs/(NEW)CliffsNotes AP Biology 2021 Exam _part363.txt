@@ -1,0 +1,14 @@
+at manufacture these enzymes to combat invading viruses. Restriction
+enzymes are very specific, cutting DNA at specific recognition sequences of nucleotides called restriction sites
+(Figure 9-8). The cut across a double-stranded DNA is usually staggered, producing fragments that have one strand
+of the DNA extending beyond the complementary strand. The unpaired extension is called a sticky end.
+Figure 9-8
+DNA Cloning
+DNA cloning is a procedure that allows DNA fragments or genes to be copied. The major features of the process
+follow:
+1. Use a restriction enzyme to cut up the foreign DNA that contains a gene to be copied. The restriction enzyme
+produces multiple fragments of the foreign DNA with sticky ends. Some of these fragments will contain the gene to
+be copied.
+2. Use the same restriction enzyme to cut up the DNA of a cloning vector. A cloning vector is a vehicle used to
+transfer DNA between cells. Plasmids are commonly used as vectors because they can subsequently be introduced
+int

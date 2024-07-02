@@ -1,0 +1,56 @@
+
+R = v0
+2 sin 2u0
+g
+.
+2 sin u cos u = sin 2u
+vy 0 = v0 sin u0 .
+vx 0 = v0 cos u0
+y = y0
+R = vx 0t = vx 0 ¢
+2vy 0
+g
+≤
+=
+2vx 0 vy 0
+g
+= 2v0
+2 sin u0 cos u0
+g
+,
+t = 2vy 0g.
+x = R = vx 0t
+y (final) = y0
+(y0)
+Range of a cannon ball. Suppose one of Napoleon’s cannons
+had a muzzle speed,
+of 
+At what angle should it have been aimed
+(ignore air resistance) to strike a target 320 m away?
+APPROACH We use the equation just derived for the range,
+with
+SOLUTION We solve for 
+in the range formula:
+We want to solve for an angle 
+that is between 0° and 90°, which means 
+in
+this equation can be as large as 180°. Thus,
+is a solution, so
+.
+But
+is also a solution (see Appendix A–7), so
+can also be 
+. In general we have two solutions (see Fig. 3–25b),
+which in the present case are given by
+Either angle gives the same range. Only when
+(so
+)  is there
+a single solution (that is, both solutions are the same).
+u0 = 45°
+sin 2u0 = 1
+u0 = 30.3° or 59.7°.
+u0 = 59.7°
+u0
+2u0 = 180° - 60.6° = 119.4°
+u0 = 30.3°
+2u0 =

@@ -1,0 +1,21 @@
+entary 
+to yellow, this strong absorption in the yellow portion of the visi-
+ble spectrum is responsible for the violet color of salts and solutions 
+of the ion. What is happening during this absorption of light? The 
+MnO4
+- ion is a complex of Mn(VII). Because Mn(VII) has a [Ar]3d0 
+electron conﬁguration, the absorption cannot be due to a d-d transi-
+tion because there are no d electrons to excite! That does not mean, 
+however, that the d orbitals are not involved in the transition. The 
+excitation in the MnO4
+- ion is due to a charge-transfer transition, in 
+which an electron on one oxygen ligand is excited into a vacant d 
+orbital on the Mn ion (Figure 23.36). In essence, an electron is trans-
+ferred from a ligand to the metal, so this transition is called a ligand-
+to-metal charge-transfer (LMCT) transition.
+An LMCT transition is also responsible for the color of the 
+CrO4
+2-, which contains the Cr(VI) ion with an [Ar]3d0 electron 
+ 
+conﬁguration.
+Also shown in Figure 23.35 is a sa

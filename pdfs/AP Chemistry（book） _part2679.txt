@@ -1,0 +1,33 @@
+concentrations of ions involved in the 
+equilibrium.
+(4) Use the equilibrium-constant expression to calculate 3H+4 and 
+then pH.
+Solve 
+First, because CH3COOH is a weak electrolyte and CH3COONa 
+is a strong electrolyte, the major species in the solution are 
+CH3COOH (a weak acid), Na+ (which  is neither acidic nor ba-
+sic and is therefore a spectator in the acid–base chemistry), and 
+CH3COO- (which is the conjugate base of CH3COOH).
+Second, 3H+4 and, therefore, the pH are controlled by the disso-
+ciation equilibrium of CH3COOH:
+CH3COOH1aq2 ∆ H+1aq2 + CH3COO-1aq2
+(We have written the equilibrium using H+1aq2 rather than 
+H3O+1aq2, but both representations of the hydrated hydrogen 
+ion are equally valid.)
+Third, we tabulate the initial and equilibrium concentrations 
+as we did in solving other equilibrium problems in Chapters 15 
+and 16:
+CH3COOH1aq2 ∆H+1aq2 + CH3COO-1aq2
+Initial (M)
+0.30
+0
+0.30
+Change (M)
+-x
++x
++x
+Equilibrium (M)
+10.30 - x2
+x
+10.30 + x2
+The equilibrium concentration of C

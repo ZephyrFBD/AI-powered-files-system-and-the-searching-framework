@@ -1,0 +1,12 @@
+ blue.
+The end product of this process is a genomic library, a collection of bacteria, each of which contain a fragment of
+the genome of the foreign DNA but together contain the entire genome of the foreign DNA.
+When foreign genes are inserted into the genome of a bacterium, introns often prevent their transcription. To avoid
+this problem, the DNA fragment bearing the required gene is obtained directly from the mRNA that codes for the
+desired polypeptide. Reverse transcriptase (obtained from retroviruses) is used to make a DNA molecule directly
+from the mRNA. DNA obtained in this manner is called complementary DNA (cDNA) and comprise cDNA
+libraries that lack the introns that suppress transcription.
+As a result of DNA cloning, the human gene for insulin was inserted into E. coli. The transformed E. coli produces
+insulin, which is isolated and used to treat diabetes.
+The Polymerase Chain Reaction (PCR)
+The polymerase chain reaction (PCR) is a technique that makes large numbers of DNA cop

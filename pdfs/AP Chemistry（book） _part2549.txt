@@ -1,0 +1,28 @@
+, the concentration of OH -1aq2 
+for the solution in part (b) is 2 * 10.0011 M2 = 0.0022 M.
+Method 1:
+3H+4 = 1.0 * 10-14
+0.0022
+= 4.55 * 10-12 M
+ 
+   pH = -log14.55 * 10-122 = 11.34
+Method 2:
+pOH = -log10.00222 = 2.66
+pH = 14.00 - pOH = 11.34
+ 
+▶Practice Exercise 1
+Order the following three solutions from smallest to largest pH:
+(i) 0.030 M Ba1OH22  (ii) 0.040 M KOH  (iii) pure water.
+(a) i 6 ii 6 iii (b) ii 6 i 6 iii (c) iii 6 i 6 ii
+(d) ii 6 iii 6 i (e) iii 6 ii 6 i
+ 
+▶Practice Exercise 2
+What is the concentration of a solution of (a) KOH for which 
+the pH is 11.89, (b) Ca1OH22 for which the pH is 11.68?
+680 
+CHAPTER 16 Acid–Base Equilibria
+Although all of the alkali metal hydroxides are strong electrolytes, LiOH, RbOH, 
+and CsOH are not commonly encountered in the laboratory. The hydroxides of the 
+heavier alkaline earth metals¬Ca1OH22, Sr1OH22, and Ba1OH22:are also strong elec-
+trolytes. They have limited solubility, however, so they are used only when high solubil-
+ity is not crit

@@ -1,0 +1,20 @@
+erson–Has-
+selbalch equation. It is important to realize that the Henderson–
+Hasselbalch equation is an approximation, and more detailed 
+calculations may need to be performed to obtain equilibrium 
+concentrations.
+ACID–BASE TITRATIONS (SECTION 17.3) The plot of the pH of 
+an acid (or base) as a function of the volume of added base (or acid) 
+is called a pH titration curve. The titration curve of a strong acid–
+strong base titration exhibits a large change in pH in the imme-
+diate vicinity of the equivalence point; at the equivalence point 
+for such a titration pH = 7. For strong acid–weak base or weak 
+acid–strong base titrations, the pH change in the vicinity of the 
+equivalence point is not as large as for a strong acid–strong base 
+titration, nor will the pH equal 7 at the equivalence point in these 
+cases. Instead, what determines the pH at the equivalence point 
+is the conjugate base or acid salt solution that results from the 
+ 
+Key Equations 
+757
+neutralization reaction. For th

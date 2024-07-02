@@ -1,0 +1,20 @@
+h (0.20) of the battery voltage across 
+Fig. 19–6. What is the ratio 
+9. (II) Suppose that you have a 9.0-V battery and wish to apply
+a voltage of only 3.5 V. Given an unlimited supply of 
+resistors, how could you connect them to make a “voltage
+divider” that produces a 3.5-V output for a 9.0-V input?
+10. (II) Three 
+resistors can be connected together in
+four different ways, making combinations of series and/or
+parallel circuits. What are these four ways, and what is the
+net resistance in each case?
+11. (II) A battery with an emf of 12.0 V shows a terminal voltage
+of 11.8 V when operating in a circuit with two lightbulbs,
+each rated at 4.0 W (at 12.0 V), which are connected in
+parallel. What is the battery’s internal resistance?
+12. (II) Eight identical bulbs are connected in series across a
+120-V line. (a) What is the voltage across each bulb? (b) If
+the current is 0.45 A, what is the resistance of each bulb,
+and what is the power dissipated in each?
+13. (II) Eight bulbs are connecte

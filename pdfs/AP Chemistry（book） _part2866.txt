@@ -1,0 +1,14 @@
+ecomes a positively charged ion. For photoionization to occur, therefore, a molecule 
+must absorb a photon, and the photon must have enough energy to remove an electron. 
+ (Section 7.4) Notice that this is a very different process from photodissociation.
+Four important photoionization processes occurring in the atmosphere above about 
+90 km are shown in Table 18.3. Photons of any wavelength shorter than the maximum 
+lengths given in the table have enough energy to cause photoionization. A look back at 
+Figure 18.3 shows you that virtually all of these high-energy photons are filtered out of 
+the radiation reaching Earth because they are absorbed by the upper atmosphere.
+Comment Thus, light of wavelength 242 nm, which is in the ul-
+traviolet region of the electromagnetic spectrum, has sufficient 
+energy per photon to photodissociate an O2 molecule. Because 
+photon energy increases as wavelength decreases, any photon of 
+wavelength shorter than 242 nm will have sufficient energy to 
+diss

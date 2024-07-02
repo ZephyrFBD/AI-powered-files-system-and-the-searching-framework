@@ -1,0 +1,15 @@
+es. They have longer focal
+lengths than a normal lens: as we saw in Section 23–8 (Eq. 23–9), the height of the
+image for a given object distance is proportional to the image distance, and the
+image distance will be greater for a lens with longer focal length. For distant
+objects, the image height is very nearly proportional to the focal length. Thus
+a 200-mm telephoto lens for use with a 35-mm camera gives a 
+magnification
+over the normal 50-mm lens. A wide-angle lens has a shorter focal length than
+normal: a wider field of view is included, and objects appear smaller. A zoom lens
+is one whose focal length can be changed (by changing the distance between the thin
+lenses that make up the compound lens) so that you seem to zoom up to, or away
+from, the subject as you change the focal length.
+Digital cameras may have an optical zoom meaning the lens can change focal
+length and maintain resolution. But an “electronic” or digital zoom just enlarges
+the dots (pixels) with loss of sharpness.

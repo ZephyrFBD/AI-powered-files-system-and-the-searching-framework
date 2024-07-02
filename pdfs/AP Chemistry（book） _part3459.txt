@@ -1,0 +1,46 @@
+
+(b) 12C and 14C, (c) lead-206 and thorium-230. Explain 
+your choice in each case.
+ 21.23  Which of the following nuclides have magic numbers of 
+both protons and neutrons: (a) helium-4, (b) oxygen-18, 
+(c) calcium-40, (d) zinc-66, (e) lead-208?
+ 21.24  Despite the similarities in the chemical reactivity of ele-
+ments in the lanthanide series, their abundances in Earth’s 
+crust vary by two orders of magnitude. This graph shows 
+the relative abundance as a function of atomic number. 
+Which of the following statements best explains the saw-
+tooth variation across the series?
+(a) The elements with an odd atomic number lie above the 
+belt of stability.
+(b) The elements with an odd atomic number lie below 
+the belt of stability.
+(c) The elements with an even atomic number have a 
+magic number of protons.
+(d) Pairs of protons have a special stability.
+56
+58
+60
+62
+64
+66
+68
+70
+72
+2
+3
+4
+5
+Atomic number
+Log of abundance in Earth’s crust
+(parts per billion by mass)
+Lu
+Yb
+Tm
+Er
+Ho
+Dy
+Tb
+Gd
+Eu
+Sm
+N

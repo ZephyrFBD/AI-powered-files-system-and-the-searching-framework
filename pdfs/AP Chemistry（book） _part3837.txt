@@ -1,0 +1,56 @@
+chanism. 
+ (Section 14.6)
+The addition reaction between HBr and an alkene, for instance, 
+is thought to proceed in two steps. In the ﬁrst step, which is rate 
+determining 
+ (Section 14.6), HBr attacks the electron-rich double 
+bond, transferring a proton to one of the double-bond carbons. In the 
+reaction of 2-butene with HBr, for example, the ﬁrst step is
+CH3CH
+CH3CH
+CHCH3
+CH3CH
+CH2CH3
+H
+Br
+CHCH3      HBr
+Br
+d+
+δ −
++
++
+−
++
+ 
+[24.7]
+The electron pair that formed the p bond is used to form the new 
+C ¬ H bond.
+The second, faster step is addition of Br- to the positively 
+charged carbon. The bromide ion donates a pair of electrons to the 
+carbon, forming the C ¬Br bond:
+CH3CH
+CH3CH
+CH2CH3
+CH3CHCH2CH3
+Br
+Br
+CH2CH3
+Br
++
+δ−
++
++
+−
+δ
+ 
+[24.8]
+Because the rate-determining step involves both the alkene and 
+the acid, the rate law for the reaction is second order, ﬁrst order in 
+the alkene and ﬁrst order in HBr:
+Rate = -
+∆3CH3CH“CHCH34
+∆t
+= k3CH3CH“CHCH343HBr4
+ 
+[24.9]
+The energy proﬁle for the 

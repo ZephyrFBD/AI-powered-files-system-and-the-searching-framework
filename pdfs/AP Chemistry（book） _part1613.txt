@@ -1,0 +1,26 @@
+ic energy as one composed of more massive particles, such as Xe. 
+The mass of the particles in the He sample is smaller than that in the Xe sample. Conse-
+quently, the He particles must have a higher rms speed than the Xe particles. The equa-
+tion that expresses this fact quantitatively is
+ 
+urms = A
+3RT
+ℳ 
+[10.20]
+where ℳ is the molar mass of the particles, which can be derived from the kinetic-molecular 
+ 
+theory. Because ℳ appears in the denominator, the less massive the gas particles, the 
+higher their rms speed.
+Figure 10.13 shows the distribution of molecular speeds for several gases at 25 °C. 
+Notice how the distributions are shifted toward higher speeds for gases of lower molar 
+masses.
+The most probable speed of a gas molecule can also be derived:
+ 
+ump = A
+2RT
+ℳ 
+[10.21]
+Sample Exercise 10.12 
+Applying the Kinetic-Molecular Theory
+A sample of O2 gas initially at STP is compressed to a smaller volume at constant temperature. What effect does this change have 
+on (a) the averag

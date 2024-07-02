@@ -1,0 +1,10 @@
+h of the 20 amino acids. This
+variable group can be a single hydrogen atom or a group of many atoms sometimes including sulfur, nitrogen, or
+carbon rings. The individual amino acids in a protein interact with one another, giving the protein special spatial and
+functional characteristics. These characteristics impart to an enzyme unique attributes that allow it to catalyze
+specific reactions of specific substrates. The characteristics of proteins (and, therefore, enzymes) are derived from
+four features of the protein’s structure. The first, described by the primary structure, is the kind and arrangement of
+amino acids in the protein. A secondary structure originates from hydrogen bonding between amino and carboxyl
+groups of amino acids. This secondary structure is the
+threedimensional shape of a helix or a pleated sheet. Further interactions between amino acids give proteins a
+tertiary structure. These interactions include hydrogen bonding and ionic bonding between R groups, the “hiding

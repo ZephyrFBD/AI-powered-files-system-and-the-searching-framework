@@ -1,0 +1,15 @@
+k adds ten electrons, 3d10. Finally, we move into the p block, whose principal 
+quantum number is always the same as that of the s block. Counting the squares as we 
+move across the p block to Se tells us that we need four electrons, 4p4. The electron con-
+figuration for Se is therefore 3Ar44s23d104p4. This configuration can also be written with 
+the subshells arranged in order of increasing principal quantum number: 3Ar43d104s24p4.
+As a check, we add the number of electrons in the [Ar] core, 18, to the number of 
+electrons we added to the 4s, 3d, and 4p subshells. This sum should equal the atomic 
+number of Se, 34: 18 + 2 + 10 + 4 = 34.
+What is the characteristic valence electron configuration of the group 7A elements, the halogens?
+Sample Exercise 6.8 
+Electron Configurations for a Group
+SOLUTION
+Analyze and Plan We first locate the halogens in the periodic table, 
+write the electron configurations for the first two elements, and 
+then determine the general similarity between the con

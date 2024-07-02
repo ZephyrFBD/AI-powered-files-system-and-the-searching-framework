@@ -1,0 +1,49 @@
+PLE 21;14
+A relationship between the applied voltage and the current in a capacitor can
+be written just as for an inductance:
+(21;12a)
+where 
+is called the capacitive reactance and has units of ohms. V and I can
+both be rms or both maximum (
+and );
+depends on both the capacitance C
+and the frequency f:
+(21;12b)
+where
+For dc conditions,
+and 
+becomes infinite, as it should
+because a capacitor does not pass dc current.
+X
+C
+f = 0
+v = 2pf.
+X
+C =
+1
+vC =
+1
+2pfC
+,
+X
+C
+I
+0
+V
+0
+X
+C
+crms or peak
+values
+d
+V = IX
+C ,
+capacitor also passes ac and not dc. In this case, a dc voltage can be maintained
+between circuits A and B, but an ac signal leaving A passes to ground instead of
+into B. Thus the capacitor in Fig. 21–42b acts like a filter when a constant dc voltage
+is required; any sharp variation in voltage passes to ground instead of into 
+circuit B.
+EXERCISE F The capacitor C in Fig. 21–42a is often called a “high-pass” filter, and the
+one in Fig. 21–42b a “low-pass” filter. Explain why.
+C
+Amplifi

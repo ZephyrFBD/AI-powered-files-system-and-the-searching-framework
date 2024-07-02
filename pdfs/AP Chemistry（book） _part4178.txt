@@ -1,0 +1,26 @@
+ formal charges must add up to 0 and the formal charge 
+on the F atom is +1, there must be another atom that has a formal 
+charge of -1. Because F is the most electronegative element, we 
+don’t expect it to carry a positive formal charge. page 320 The 
+ozone OO bond length should be longer than the OO bond in oxy-
+gen. page 321 Weaker. page 322 No, it will not have multiple 
+resonance structures. We can’t “move” the double bonds, as we did 
+in benzene, because the positions of the hydrogen atoms dictate 
+specific positions for the double bonds. We can’t write any other 
+reasonable Lewis structures for the molecule. page 323 The for-
+mal charge of each atom is shown here:
+O
+N
+0
+0
+F.C.
+O
+N
+–1
++1
+The ﬁrst structure shows each atom with a zero formal charge and 
+therefore it is the dominant Lewis structure. The second one shows a 
+positive formal charge for an oxygen atom, which is a highly electro-
+negative atom, and this is not a favorable situation.
+Chapter 9
+page 342 Removal of two opp

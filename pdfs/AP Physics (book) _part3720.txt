@@ -1,0 +1,16 @@
+g on objects.
+Instead we say that objects and light rays move as they do because space-time 
+is curved. An object starting at rest or moving slowly near the great mass of 
+Fig. 33–19a would follow a geodesic (the equivalent of a straight line in plane
+geometry) toward that great mass.
+The extreme curvature of space-time shown in Fig. 33–19b could be produced
+by a black hole. A black hole, as we mentioned in Section 33–2, has such strong
+gravity that even light cannot escape from it. To become a black hole, an object
+of mass M must undergo gravitational collapse, contracting by gravitational self-
+attraction to within a radius called the Schwarzschild radius,
+where G is the gravitational constant and c the speed of light. If an object col-
+lapses to within this radius, it is predicted by general relativity to collapse 
+to a point at 
+forming an infinitely dense singularity. This prediction is
+uncertain, however, because in this realm we need to combine quantum mechan-
+ics with gravity, 

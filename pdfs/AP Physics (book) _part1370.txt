@@ -1,0 +1,22 @@
+irplane
+engine, at a distance of 30 m, is 130 dB, and that the average
+human ear has an effective radius of 2.0 cm. What would be
+the power intercepted by an unprotected ear at a distance
+of 30 m from a jet airplane engine?
+77. In audio and communications systems, the gain,
+in deci-
+bels is defined for an amplifier as
+where 
+is the power input to the system and 
+is the
+power output. (a) A particular amplifier puts out 135 W 
+of power for an input of 1.0 mW. What is its gain in dB?
+(b) If a signal-to-noise ratio of 93 dB is specified, what is the
+noise power if the output signal is 10 W?
+78. Manufacturers typically offer a particular guitar string in a
+choice of diameters so that players can tune their instruments
+with a preferred string tension. For example, a nylon high-E
+string is available in a low- and high-tension model with diam-
+eter 0.699 mm and 0.724 mm, respectively. Assuming the
+density of nylon is the same for each model, compare (as a
+ratio) the tension in a tuned high- an

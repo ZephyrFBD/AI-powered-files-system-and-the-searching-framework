@@ -1,0 +1,23 @@
+clei of many elements possess an intrinsic spin. Like electron 
+spin, nuclear spin is quantized. For example, the  
+nucleus of 1H has 
+two possible magnetic nuclear spin quantum  
+numbers, +1
+2 and - 1
+2.
+A spinning hydrogen nucleus acts like a tiny magnet. In the 
+ 
+absence of external effects, the two spin states have the same  
+energy. 
+However, when the nuclei are placed in an external magnetic ﬁeld, 
+they can align either parallel or opposed (antiparallel) to the ﬁeld, 
+ 
+depending on their spin. The parallel alignment is lower in  
+energy 
+than the antiparallel one by a certain amount, ∆E (Figure 6.27). If 
+the nuclei are irradiated with photons having energy equal to ∆E, 
+the spin of the nuclei can be “ﬂipped,” that is, excited from the 
+parallel to the antiparallel alignment. Detection of the ﬂipping 
+of nuclei between the two spin states leads to an NMR spectrum. 
+The radiation used in an NMR experiment is in the radiofrequen-
+cy range, typically 100 to 900 MHz, which is far l

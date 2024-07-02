@@ -1,0 +1,20 @@
+encode RNA interference (RNAi) proteins for
+the regulation of levels of mRNA transcription.
+Some viral RNA is double stranded (dsRNA). A cell
+responds to the presence of double-stranded RNA by the
+attachment of the enzyme DICER, which cuts dsRNA into
+short fragments. One strand of the fragment is transferred
+to the RNA-induced silencing complex (RISC), which
+searches for an mRNA with a sequence matching that of
+the fragment strand. When detected, this mRNA is
+degraded.
+A. Common in cancer cells is a mutation of the gene that
+encodes the protein p53, whose role is to detect and repair
+errors in DNA; if repairs cannot be made, p53 initiates
+apoptosis. Create a visual representation to explain how
+the DICER-RISC system within the cell can be used to
+suppress the translation of a mutated form of the gene
+encoding p53, potentially destroying a tumor.
+B. Whole-genome sequences provide a library of
+potentially expressed proteins, but they do not provide
+information on the functions of each pr

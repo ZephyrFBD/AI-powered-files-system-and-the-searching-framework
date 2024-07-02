@@ -1,0 +1,34 @@
+nitude of 
+Ea increases, k decreases because the fraction of molecules that possess the required energy 
+is smaller. Thus, at fixed values of T and A, the rate constant decreases as Ea increases.
+*Because collision frequency increases with temperature, A also has some temperature depen-
+dence, but this dependence is much smaller than the exponential term. Therefore, A is consid-
+ered to be approximately constant.
+Go Figure
+What would the curve look like for a temperature higher than 
+that for the red curve in the figure?
+Kinetic energy
+Minimum energy
+needed for reaction, Ea
+Lower T
+Fraction of molecules
+Higher T
+Larger fraction of molecules 
+reacts at higher temperature.
+▲ Figure 14.17 The effect of temperature on the distribution of kinetic energies of molecules in a 
+sample.
+Consider a series of reactions having these energy profiles:
+Potential energy
+Reaction progress
+15 kJ/mol
+−10 kJ/mol
+Reaction progress
+25 kJ/mol
+−15 kJ/mol
+Reaction progress
+20  kJ/mol
+5 kJ/mol
+1
+2
+3
+Rank the for

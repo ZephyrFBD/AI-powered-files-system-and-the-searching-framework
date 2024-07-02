@@ -1,0 +1,69 @@
+From the equation for box B above  
+the tension in the cord is
+Thus,
+as we expect, since 
+acts to accelerate only 
+Alternate Solution to (a) We would have obtained the same result had we consid-
+ered a single system, of mass
+acted on by a net horizontal force equal
+to 
+(The tension forces 
+would then be considered internal to the system as
+a whole, and summed together would make zero contribution to the net force
+on the whole system.)
+NOTE It might be tempting to say that the force the person exerts,
+acts not
+only on box A but also on box B. It doesn’t.
+acts only on box A. It affects 
+box B via the tension in the cord,
+which acts on box B and accelerates it.
+(You could look at it this way:
+because 
+accelerates both boxes
+whereas 
+only accelerates box B.)
+F
+T
+F
+P
+6 F
+P
+F
+T
+F
+T,
+F
+P
+F
+P,
+F
+T
+F
+P.
+mA + mB,
+mB .
+F
+T
+6 F
+P  (= 40.0 N),
+F
+T
+F
+T = mB a = (12.0 kg)A1.82 ms2B = 21.8 N.
+AF
+T = mBaBB,
+a =
+F
+P
+mA + mB
+=
+40.0 N
+22.0 kg = 1.82 ms2.
+AmA + mBBa = F
+P - F
+T + F
+T = F
+P
+AF
+TB
+mB = 12.

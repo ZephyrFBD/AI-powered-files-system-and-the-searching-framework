@@ -1,0 +1,11 @@
+ating a reaction is by regulating its enzyme. Here are five common ways in which this is done:
+1. Enzymes have two kinds of binding sites—one an active site for the substrate and one or more possible allosteric
+sites for an allosteric effector. There are two kinds of allosteric effectors:
+An allosteric activator binds to the enzyme and induces the enzyme’s active form.
+An allosteric inhibitor binds to the enzyme and induces the enzyme’s inactive form.
+Some inhibitors bind irreversibly, permanently changing the structure of the enzyme by modifying an amino acid.
+Other inhibitors are weakly bonded to the enzyme by ionic or hydrogen bonds, and their effects are reversible.
+2. In feedback inhibition, an end product of a series of reactions acts as an allosteric inhibitor, shutting down one of
+the enzymes catalyzing the reaction series.
+3. In competitive inhibition, a substance that mimics the substrate inhibits an enzyme by occupying the active site.
+The mimic displaces the substrate and p

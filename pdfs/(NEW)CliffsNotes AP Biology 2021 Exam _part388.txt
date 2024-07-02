@@ -1,0 +1,11 @@
+t a promoter region on the DNA. RNA polymerase directs RNA
+nucleotides to base-pair with the DNA fragment that represents the gene. If a fragment of DNA contained the
+nucleotide sequence adenine, cytosine, guanine, and thymine, the RNA nucleotides that would base-pair with it are
+uracil, guanine, cytosine, and adenine, respectively. The products of transcription are three kinds of RNA—mRNA,
+tRNA, and rRNA.
+b. The mRNA contains the code for the polypeptide. Noncoding intervening sequences, called introns, are removed
+and the mRNA is stabilized with a 5′ cap and a poly-A tail. The mRNA then moves to the cytoplasm.
+c. Translation occurs in the cytoplasm and describes the actual assembly of amino into proteins. It requires all three
+kinds of RNA—rRNA, tRNA, and mRNA.
+First, ribosomes, consisting of rRNA and proteins, attach to the mRNA. Then a tRNA attaches to the ribosome.
+There are various kinds of tRNA molecules. Each kind is specific for a particular amino acid that attaches to one end

@@ -1,0 +1,19 @@
+ght? (c) Why are there two answers to (b)?
+47. (II) For an object falling freely from rest, show that the
+distance traveled during each successive second increases
+in the ratio of successive odd integers (1, 3, 5, etc.). (This
+was first shown by Galileo.) See Figs. 2–19 and 2–22.
+48. (II) A rocket rises vertically, from rest, with an accelera-
+tion of 
+until it runs out of fuel at an altitude of
+775 m. After this point, its acceleration is that of gravity,
+downward. (a) What is the velocity of the rocket when it
+runs out of fuel? (b) How long does it take to reach this
+point? (c) What maximum altitude does the rocket reach?
+(d) How much time (total) does it take to reach
+maximum altitude? (e) With what velocity does it strike
+the Earth? (f) How long (total) is it in the air?
+49. (II) A helicopter is ascending vertically with a speed of
+At a height of 105 m above the Earth, a package
+is dropped from the helicopter. How much time does it take
+for the package to reach the ground? [Hint: W

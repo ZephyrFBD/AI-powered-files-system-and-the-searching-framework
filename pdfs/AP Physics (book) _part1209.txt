@@ -1,0 +1,16 @@
+o identical waves, and their sum, as a function of time at three locations.
+In (a) the two waves interfere constructively, in (b) destructively, and in (c) partially destructively.
+†One wavelength, or one full oscillation, corresponds to 360 —see Section 11–3, just after Eq. 11–8c,
+and also Fig. 11–7.
+°
+1
+1–12 Standing Waves; Resonance
+If you shake one end of a cord and the other end is kept fixed, a continuous wave
+will travel down to the fixed end and be reflected back, inverted, as we saw in 
+Fig. 11–33a. As you continue to oscillate the cord, waves will travel in both direc-
+tions, and the wave traveling along the cord, away from your hand, will interfere
+with the reflected wave coming back. Usually there will be quite a jumble. But 
+if you oscillate the cord at just the right frequency, the two traveling waves will
+interfere in such a way that a large-amplitude standing wave will be produced,
+Fig. 11–40. It is called a “standing wave” because it does not appear to be traveling.
+Th

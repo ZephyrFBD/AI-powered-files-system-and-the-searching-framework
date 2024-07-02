@@ -1,0 +1,18 @@
+ 25 °C was obtained in Sample Exercise 19.9 for the Haber reaction:
+N21g2 + 3 H21g2 ∆2 NH31g2  ∆G° = -33.3 kJ>mol = -33,300 J>mol
+Use this value of ∆G° to calculate the equilibrium constant for the process at 25 °C.
+Sample Exercise 19.12 
+Calculating an Equilibrium Constant from ∆G °
+SOLUTION
+Analyze We are asked to calculate K for a reaction, given ∆G°.
+Plan We can use Equation 19.21 to calculate K.
+Solve Remembering to use the absolute temperature for T in 
+Equation 19.21 and the form of R that matches our units, we have
+K = e-∆G°>RT = e-1-33,300 J>mol2>18.314 J>mol@K21298 K2 = e13.4 = 7 * 105
+Comment This is a large equilibrium constant, which indicates 
+that the product, NH3, is greatly favored in the equilibrium 
+mixture at 25 °C. The equilibrium constants for the Haber 
+reaction at temperatures in the range 300 °C to 600 °C,  
+given in Table 15.2, are much smaller than the value at  
+25 °C. Clearly, a low-temperature equilibrium favors the 
+production of ammonia more than a high-

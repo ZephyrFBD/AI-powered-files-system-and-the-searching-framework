@@ -1,0 +1,29 @@
+photon with a wavelength 
+of 549 nm, while GaAs has a band gap 
+of 1.43 eV 12.29 * 10-19 J2, which cor-
+responds to an infrared photon with 
+a wavelength of 867 nm. 
+ (Sec-
+tions 6.1 and 6.2) By forming solid 
+solutions of these two compounds, 
+with stoichiometries of GaP1 - xAsx, 
+the band gap can be adjusted to any 
+intermediate value. Thus, GaP1 - xAsx 
+is the solid solution of choice for red, 
+orange, and yellow LEDs. Green LEDs 
+are made from mixtures of GaP and 
+AlP 1Eg = 2.43 eV, l = 510 nm2.
+Red LEDs have been in the market 
+for decades, but to make white light, 
+an efficient blue LED was needed. The 
+first prototype bright blue LED was 
+demonstrated in a Japanese laboratory 
+in 1993. In 2010, less than 20 years 
+later, over $10 billion worth of blue 
+LEDs were sold worldwide. The blue 
+LEDs are based on combinations of 
+GaN 1Eg = 3.4 eV, l = 365 nm2 and 
+InN 1Eg = 2.4 eV, l = 517 nm2. Many 
+colors of LEDs are now available and 
+are used in everything from barcode 
+Chemistry Pu

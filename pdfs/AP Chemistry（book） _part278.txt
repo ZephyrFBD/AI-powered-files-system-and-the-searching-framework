@@ -1,0 +1,29 @@
+n atoms could be 
+aligned side by side across the width of a pencil line that is  
+0.20 mm wide?
+SOLUTION
+The unknown is the number of silver (Ag) atoms. Using the  
+relationship 1 Ag atom = 2.88 A
+°  as a conversion factor relating 
+number of atoms and distance, we start with the diameter of the 
+dime, first converting this distance into angstroms and then  
+using the diameter of the Ag atom to convert distance to number 
+of Ag atoms:
+Ag atoms = 117.9 mm2a 10-3 m
+1 mm b a
+1 A
+°
+10-10 m
+b a
+1 Ag atom
+2.88 A
+°
+b
+= 6.22 * 107 Ag atoms
+That is, 62.2 million silver atoms could sit side by side across a dime!
+Four basic forces are known in nature: (1) gravitational, (2) electro-
+magnetic, (3) strong nuclear, and (4) weak nuclear. Gravitational forces 
+are attractive forces that act between all objects in proportion to their 
+masses. Gravitational forces between atoms or between subatomic 
+particles are so small that they are of no chemical significance.
+Electromagnetic forces are attractive

@@ -1,0 +1,10 @@
+ the direction of energy flow.
+1. A food chain is a linear flow chart of who eats whom. For example, a food chain depicting energy flow in a
+savanna may look like this: grass → zebra → lion → vulture
+2. A food web is an expanded, more complete version of a food chain. It would show all of the major plants in the
+ecosystem, the various animals that eat the plants (such as insects, rodents, zebras, giraffes, and antelopes), and the
+animals that eat the animals (lions, hyenas, jackals, and vultures). Detritivores may also be included in the food web.
+Arrows connect all organisms that are eaten to the animals that eat them, pointing in the direction of energy flow.
+Another way to illustrate energy flow and the production and utilization of energy is to organize plants and animals
+into groups called trophic levels. In general, organisms are either autotrophs that are able obtain energy from light
+or inorganic material or they are heterotrophs that must consume other organisms or organic mat

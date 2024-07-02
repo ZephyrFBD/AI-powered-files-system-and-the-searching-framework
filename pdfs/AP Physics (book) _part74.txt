@@ -1,0 +1,18 @@
+to about 0.1 cm (1 mm), the smallest
+division on the ruler, although half of this value might be a valid claim as well.
+The reason is that it is difficult for the observer to estimate (or “interpolate”)
+between the smallest divisions. Furthermore, the ruler itself may not have been
+manufactured to an accuracy very much better than this.
+When giving the result of a measurement, it is important to state the
+estimated uncertainty in the measurement. For example, the width of a board
+might be written as
+The 
+(“plus or minus 0.1 cm”) repre-
+sents the estimated uncertainty in the measurement, so that the actual width
+most likely lies between 8.7 and 8.9 cm. The percent uncertainty is the ratio of
+the uncertainty to the measured value, multiplied by 100. For example, if the
+measurement is 8.8 cm and the uncertainty about 0.1 cm, the percent uncertainty is
+“is approximately equal to.”
+Often the uncertainty in a measured value is not specified explicitly. In such
+cases, the
+uncertainty in a num

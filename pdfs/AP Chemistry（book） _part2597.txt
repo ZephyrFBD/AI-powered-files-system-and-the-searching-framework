@@ -1,0 +1,41 @@
+ffect of Cation and Anion in Solution
+To determine whether a salt forms an acidic, a basic, or a neutral solution when dissolved 
+in water, we must consider the action of both cation and anion. There are four possible 
+combinations.
+ 1. If the salt contains an anion that does not react with water and a cation that does not re-
+act with water, we expect the pH to be neutral. Such is the case when the anion is a con-
+jugate base of a strong acid and the cation is either from group 1A or one of the heavier 
+members of group 2A 1Ca2+, Sr2+, and Ba2+2. Examples: NaCl, Ba1NO322, RbClO4.
+TABLE 16.6 Acid-Dissociation 
+Constants for Metal Cations  
+in Aqueous Solution at 25 °C
+Cation
+Ka
+Fe3+
+6.3 * 10-3
+Cr3+
+1.6 * 10-4
+Al3+
+1.4 * 10-5
+Fe2+
+3.2 * 10-10
+Zn2+
+2.5 * 10-10
+Ni2+
+2.5 * 10-11
+Go Figure
+Why do we need to use multiple acid–base indicators in this 
+figure?
+NaNO3
+Bromthymol blue
+pH = 7.0
+Ca(NO3)2
+Bromthymol blue
+pH = 6.9
+Zn(NO3)2
+Methyl red
+pH = 5.5
+Al(NO3)3
+Methyl orange
+pH = 3.5
+▲ Figure 

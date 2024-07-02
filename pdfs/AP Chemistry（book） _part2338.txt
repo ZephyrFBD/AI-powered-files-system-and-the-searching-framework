@@ -1,0 +1,20 @@
+re subject to 
+“poisoning,” which shuts down their catalytic ability. 
+Compounds of sulfur are often poisons. Suggest a mecha-
+nism by which such compounds might act as poisons.
+ [14.85] The enzyme carbonic anhydrase catalyzes the reaction 
+CO21g2 + H2O1l2 ¡ HCO3
+-1aq2 + H+1aq2. In water, 
+without the enzyme, the reaction proceeds with a rate 
+constant of 0.039 s-1 at 25 °C. In the presence of the en-
+zyme in water, the reaction proceeds with a rate constant 
+of 1.0 * 106 s-1 at 25 °C. Assuming the collision factor is 
+the same for both situations, calculate the difference in 
+activation energies for the uncatalyzed versus enzyme- 
+catalyzed reaction.
+ [14.86] The enzyme urease catalyzes the reaction of urea, 
+1NH2CONH22, with water to produce carbon dioxide and 
+ammonia. In water, without the enzyme, the reaction pro-
+ceeds with a first-order rate constant of 4.15 * 10-5 s-1 at 
+100 °C. In the presence of the enzyme in water, the reac-
+tion proceeds with a rate constant of 3.4 * 104 s

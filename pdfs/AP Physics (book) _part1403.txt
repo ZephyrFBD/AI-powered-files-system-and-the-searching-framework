@@ -1,0 +1,30 @@
+its hole is to be large enough so it will slip over the rod?
+APPROACH The hole in the ring must be increased from a diameter of 6.420 cm
+to
+The ring must be heated since the hole
+diameter will increase linearly with temperature (Example 13–4).
+SOLUTION We solve for 
+in Eq. 13–1a and find
+So the ring must be raised at least to
+NOTE In doing Problems, do not forget the last step, adding in the initial tem-
+perature (20°C here).
+T = (20°C + 430 C°) = 450°C.
+¢T =
+¢l
+al0
+=
+6.453 cm - 6.420 cm
+A12 * 10–6C°B(6.420 cm) = 430 C°.
+¢T
+6.445 cm + 0.008 cm = 6.453 cm.
+EXAMPLE 13;5
+Opening a tight jar lid. When the lid of
+a glass jar is tight, holding the lid under hot water for a short time will often make
+it easier to open (Fig. 13–12). Why?
+RESPONSE The lid may be struck by the hot water more directly than the
+glass and so expand sooner. But even if not, metals generally expand more than
+glass for the same temperature change (
+is greater—see Table 13–1).
+a
+CONCEPTUAL EXAMPLE 13;6
+P H Y S I C S  

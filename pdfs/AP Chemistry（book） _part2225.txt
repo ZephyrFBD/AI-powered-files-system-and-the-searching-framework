@@ -1,0 +1,21 @@
+0.0 g of a substance reacts by first-order 
+kinetics, how many grams remain after three half-lives?
+ 
+SECTION 14.4   
+The Change of Concentration with Time 
+585
+586 
+CHAPTER 14 Chemical Kinetics
+The compounds known as chlorofluorocarbons (CFCs) are well-
+known agents responsible for the destruction of Earth’s protective 
+ozone layer. Another simple molecule that has the potential to destroy 
+the stratospheric ozone layer is methyl bromide, CH3Br (Figure 14.11). 
+Because this substance has a wide range of uses, including antifun-
+gal treatment of plant seeds, it has been produced in large quantities 
+in the past (about 150 million pounds per year worldwide in 1997, at 
+the height of its production). In the stratosphere, the C ¬ Br bond is 
+broken through absorption of short-wavelength radiation. The resul-
+tant Br atoms then catalyze decomposition of O3.
+Methyl bromide is removed from the lower atmosphere by a 
+variety of mechanisms, including a slow reaction with ocean water:
+    CH3Br

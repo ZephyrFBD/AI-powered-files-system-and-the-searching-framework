@@ -1,0 +1,16 @@
+cid. 
+For example, Cl- is the conjugate base of HCl, and CH3COO- is the conjugate base of 
+CH3COOH. Whether an anion reacts with water to produce hydroxide ions depends on the 
+strength of the anion’s conjugate acid. To identify the acid and assess its strength, we add 
+a proton to the anion’s formula. If the acid HA determined in this way is one of the seven 
+strong acids listed at the beginning of Section 16.5, the anion has a negligible tendency to 
+produce OH - ions from water and does not affect the pH of the solution. The presence of 
+Cl- in an aqueous solution, for example, does not result in the production of any OH - and 
+does not affect the pH. Thus, Cl- is always a spectator ion in acid–base chemistry.
+If HA is not one of the seven common strong acids, it is a weak acid. In this case, the 
+conjugate base A- is a weak base, and it reacts to a small extent with water to produce the 
+weak acid and hydroxide ions:
+ 
+A-1aq2 + H2O1l2 ∆ HA1aq2 + OH -1aq2 
+[16.43]
+The OH- ion genera

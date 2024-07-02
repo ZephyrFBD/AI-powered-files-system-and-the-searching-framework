@@ -1,0 +1,15 @@
+totoxic T cells kill infected cells.
+Which of the following statements about T cells is false?
+a.
+The T cell receptor is found on both CD4+ and CD8+T cells.
+b.
+Helper T cells are CD4+, while cytotoxic T cells are CD8+.
+c.
+Helper T cells release cytokines, while cytotoxic T cells kill the infected cell.
+d.
+MHC II is a receptor found on most body cells, while MHC I is a receptor found only on immune cells.
+Consider the innumerable possible antigens that an individual will be exposed to during a lifetime. The mammalian adaptive
+immune system is adept in responding appropriately to each antigen. Mammals have an enormous diversity of T cell
+populations, resulting from the diversity of TCRs. Each TCR consists of two polypeptide chains that span the T cell
+membrane, as illustrated in Figure 33.12; the chains are linked by a disulfide bridge. Each polypeptide chain is comprised of
+a constant domain and a variable domain: a domain, in this sense, is a specific region of a protein that may be re

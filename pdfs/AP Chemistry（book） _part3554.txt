@@ -1,0 +1,23 @@
+1g2 
+[22.37]
+This reaction is the first step in the Ostwald process, by which NH3 is converted com-
+mercially into nitric acid 1HNO32.
+When exposed to air, nitric oxide reacts readily with O2 (Figure 22.23):
+ 
+2 NO1g2 + O21g2 ¡ 2 NO21g2 
+[22.38]
+When dissolved in water, NO2 forms nitric acid:
+ 
+3 NO21g2 + H2O1l2 ¡ 2 H+1aq2 + 2 NO3
+-1aq2 + NO1g2 
+[22.39]
+Nitrogen is both oxidized and reduced in this reaction, which means it disproportionates. 
+The NO can be converted back into NO2 by exposure to air (Equation 22.38) and thereaf-
+ter dissolved in water to prepare more HNO3.
+NO is an important neurotransmitter in the human body. It causes the muscles that 
+line blood vessels to relax, thus allowing an increased passage of blood (see “Chemistry 
+and Life: Nitroglycerin, Nitric Oxide, and Heart Disease”).
+Nitrogen dioxide 1NO22 is a yellow-brown gas (Figure 22.23). Like NO, it is a major con-
+stituent of smog. 
+ (Section 18.2) It is poisonous and has a choking odor. As discussed 
+in Section

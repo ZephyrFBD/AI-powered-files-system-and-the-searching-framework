@@ -1,0 +1,97 @@
+ION (a) From Eq. 25–3 we find
+(b) For a relaxed eye, the image 
+is at the focal point of both the eyepiece and the
+objective lenses. The distance between the two lenses is thus
+which is essentially the length of the telescope.
+f
+o + f
+e L 19 m,
+I1
+M =
+– f
+o
+f
+e
+=
+– 19 m
+0.10 m =
+–190*.
+EXAMPLE 25;8
+c
+telescope
+magnificationd
+M = u¿
+u
+=
+Ahf
+eB
+Ahf
+oB
+=
+– f
+o
+f
+e
+,
+u¿ L hf
+e
+Fe
+tan u L u.
+u
+I1
+u L hf
+o,
+u
+f
+o + f
+e
+Fe
+œ
+I1
+I2
+I2 ,
+I1
+f
+e
+Fo
+I1
+f
+o
+724
+CHAPTER 25
+Optical Instruments
+FIGURE 25–20 Astronomical
+telescope (refracting). Parallel light from
+one point on a distant object 
+is brought to a focus by the objective
+lens in its focal plane. This image 
+is
+magnified by the eyepiece to form the
+final image 
+Only two of the rays
+shown entering the objective are
+standard rays (2 and 3) as described in
+Fig. 23–37.
+I2.
+AI1B
+Ado = qB
+Objective
+lens
+Parallel
+rays from
+object at ∞
+θ
+θ
+Eyepiece
+fe
+fo
+fe
+Fe′
+Fe
+Fo
+h
+I1
+I2
+θ′
+FIGURE 25–21 This large refracting
+telescope was built in 1897 and 

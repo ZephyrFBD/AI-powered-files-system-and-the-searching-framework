@@ -1,0 +1,23 @@
+stant volume, no work is done, so the first
+law of thermodynamics tells us that
+For an ideal monatomic gas, the internal energy, U, is the total kinetic energy of
+all the molecules,
+as we saw in Section 14–2. Then, using Eq. D–1a, we write
+as
+(D;3)
+or
+(D;4)
+Since 
+kinetic theory predicts that
+for an ideal monatomic gas. This is very close to the exper-
+imental values for monatomic gases such as helium and neon (Table D–1). From
+Eq.D–2,
+is predicted to be 
+also in agreement with experiment (Table D–1).
+Equipartition of Energy
+The measured molar specific heats for more complex gases (Table D–1), such as
+diatomic (two atoms) and triatomic (three atoms) gases, increase with the increased
+number of atoms per molecule. We can explain this by assuming that the internal
+energy includes not only translational kinetic energy but other forms of energy as
+well. For example, in a diatomic gas (Fig. D–1), the two atoms can rotate about
+two different axes (but rotation about a third axis passing thro

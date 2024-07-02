@@ -1,0 +1,35 @@
+ig. 24–26b. Because a diffraction grating spreads
+out light into its component wavelengths, the resulting pattern is called a spectrum.
+Diffraction grating: line positions. Determine the angular
+positions of the first- and second-order lines (maxima) for light of wavelength
+400 nm and 700 nm incident on a grating containing 10,000 slits per centimeter.
+APPROACH First we find the distance d between grating slits: if the grating has
+N slits in 1 m, then the distance between slits is
+Then we use
+Eq.24–4,
+to get the angles for the two wavelengths for
+and 2.
+SOLUTION The grating contains 
+which 
+means 
+the 
+distance 
+between 
+slits 
+is 
+In first order 
+the angles are
+so
+and
+In second order,
+so
+But the second order does not exist for
+because
+cannot exceed 1. No higher orders will appear.
+Spectra overlap. White light containing wavelengths from
+400 nm to 750 nm strikes a grating containing 
+Show that the blue
+at
+of the third-order spectrum overlaps the red at 700 nm of the
+second order.
+APPRO

@@ -1,0 +1,29 @@
+mogeneous molecules (like 
+and 
+), one can
+estimate the bond length of heterogeneous molecules (like
+CO, CN, and NO). This is done by summing half of each
+bond length of the homogenous molecules to estimate that
+of the heterogeneous molecule. Given the following bond
+lengths:
+estimate the bond lengths for: HN, CN,
+and NO.
+4. (II) Binding energies are often measured experimentally in
+kcal per mole, and then the binding energy in eV per mole-
+cule is calculated from that result. What is the conversion
+factor in going from kcal per mole to eV per molecule? What
+is the binding energy of 
+in kcal per mole?
+5. (III) Estimate the binding energy of the 
+molecule,
+assuming the two H nuclei are 0.074 nm apart and the two
+electrons spend 33% of their time midway between them.
+6. (III) (a) Apply reasoning similar to that in the text for the
+and 
+states in the formation of the 
+mole-
+cule to show why the molecule 
+is not formed. (b) Explain
+why the 
+molecular ion could form. (Experiment
+shows it ha

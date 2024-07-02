@@ -1,0 +1,17 @@
+6–6) so that the train momentarily disappears
+from view inside the tunnel. Observers on the train measure the train’s length
+to be 500 m and the tunnel’s length to be only 80 m (Exercise C, using Eq. 26–3a).
+Clearly a 500-m-long train cannot fit inside an 80-m-long tunnel. How is this
+apparent inconsistency explained?
+RESPONSE Events simultaneous in one reference frame may not be simultane-
+ous in another. Let the engine emerging from one end of the tunnel be “event A,”
+and the last car disappearing into the other end of the tunnel “event B.” To
+observers in the Earth frame, events A and B are simultaneous. To observers on
+the train, however, the events are not simultaneous. In the train’s frame, event A
+occurs before event B. As the engine emerges from the tunnel, observers on the
+train observe the last car as still
+from the entrance to
+the tunnel.
+26–6 Four-Dimensional Space–Time
+Let us imagine a person is on a train moving at a very high speed, say 0.65c,
+Fig. 26–10. This person beg

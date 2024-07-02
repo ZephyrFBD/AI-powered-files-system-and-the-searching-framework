@@ -1,0 +1,18 @@
+ctives
+Diffraction sets an ultimate limit on the detail that can be seen on any object.
+In Eq. 25–8 for the resolving power of a microscope, the focal length of the lens
+cannot practically be made less than (approximately) the radius of the lens (
+),
+and even that is very difficult (see the lensmaker’s equation, Eq. 23–10). In this
+best case, Eq. 25–8 gives, with
+(25;9)
+Thus we can say, to within a factor of 2 or so, that
+it is not possible to resolve detail of objects smaller than the wavelength of
+the radiation being used.
+This is an important and useful rule of thumb.
+Compound lenses in microscopes are now designed so well that the actual
+limit on resolution is often set by diffraction—that is, by the wavelength of the
+light used. To obtain greater detail, one must use radiation of shorter wavelength.
+The use of UV radiation can increase the resolution by a factor of perhaps 2. Far
+more important, however, was the discovery in the early twentieth century that
+electrons have wave pro

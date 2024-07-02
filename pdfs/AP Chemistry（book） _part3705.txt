@@ -1,0 +1,41 @@
+n be 
+rotated so that they are equivalent, they are not isomers of each 
+other. The problem of identifying isomers is compounded by the 
+difficulty we often have in visualizing three-dimensional mole-
+cules from their two-dimensional representations. It is sometimes 
+easier to determine the number of isomers if we use three-dimen-
+sional models.
+ 
+▶Practice Exercise 1
+Which of the following molecules does not have a geometric 
+isomer?
+[MX2Y2]
+[MX4Y2]
+[MX3Y3]
+[MX3Y]
+(a)
+(b)
+(c)
+(d)
+ 
+▶Practice Exercise 2
+How many isomers exist for the square-planar molecule 
+3Pt(NH3)2ClBr4?
+Mirror
+Mirror
+Left hand
+Mirror image of left hand
+is identical to right hand
+Enantiomers of [Co(en)3]3+
+Co
+Co
+N
+N
+▲ Figure 23.22 Optical isomerism.
+ 
+SECTION 23.4   
+Nomenclature and Isomerism in Coordination Chemistry 
+1007
+Optical isomers are usually distinguished from each other by their interaction with 
+plane-polarized light. If light is polarized—for example, by being passed through a sheet 
+of polarizing film—

@@ -1,0 +1,69 @@
+a Z 0)
+a = 0.
+EXAMPLE 2;9
+ESTIMATE
+32
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+P H Y S I C S  A P P L I E D
+Car stopping distances
+Travel during
+reaction time
+Travel during
+braking
+    = constant = 14 m/s
+ t = 0.50 s
+a = 0
+a = −6.0 m/s2
+x
+decreases from 14 m/s to zero
+v
+v
+FIGURE 2;16 Example 2–9:
+stopping distance for a
+braking car.
+Part 1: Reaction time
+Known 
+Wanted
+x
+x0 = 0
+a = 0
+v = 14 ms
+v0 = 14 ms
+t = 0.50 s
+Part 2: Braking
+Known 
+Wanted
+x
+a = –6.0 ms2
+v = 0
+v0 = 14 ms
+x0 = 7.0 m
+10
+8
+6
+2
+4
+14
+12
+t (s)
+v (m/s)
+t = 0.5 s
+0
+2.0
+0.5
+1.0
+1.5
+2.5
+FIGURE 2;17 Example 2–9.
+Graph of 
+vs. t.
+v
+SECTION 2–7
+Freely Falling Objects
+33
+2–7 Freely Falling Objects
+One of the most common examples of uniformly accelerated motion is that of
+an object allowed to fall freely near the Earth’s surface. That a falling object is
+accelerating may not be obvious at first. And beware of thinking, as was widely
+believed before the time of Galileo (Fig. 2–18), that heavier objects fall fas

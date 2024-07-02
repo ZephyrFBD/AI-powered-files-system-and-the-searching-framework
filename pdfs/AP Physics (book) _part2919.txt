@@ -1,0 +1,76 @@
+ = 500 m,
+1.80 * 108 ms
+=
+2.20 * 10–6 s
+31 - 0.36c2c2
+= 2.20 * 10–6 s
+20.64
+= 2.8 * 10–6 s.
+¢t =
+¢t0
+31 - v2c2
+v = 0.60c,
+d = v ¢t.
+2.20 * 10–6 s.
+2.20 ms = 2.20 * 10–6 s.
+v = 0.60c = 1.80 * 108 ms
+EXAMPLE 26;1
+2.2 ms
+10–27 kg
+10–30
+A10–9 sB
+A103 kmhB
+¢t L ¢t0
+v2c2
+g = 1.000006
+106 ms
+g
+g = 121 - v2c2
+g  1.
+g = 1
+g
+g =
+1
+31 - v2c2 .
+¢t = g ¢t0
+g
+131 - v2c2
+752
+CHAPTER 26
+The Special Theory of Relativity
+TABLE 26–1 Values of 
+£
+0
+1.00000
+0.01c
+1.00005
+0.10c
+1.005
+0.50c
+1.15
+0.90c
+2.3
+0.99c
+7.1
+p
+G
+G
+SECTION 26–4
+Time Dilation and the Twin Paradox
+753
+C A U T I O N
+Proper time 
+is for 2 events at
+the same point in space
+¢t0
+C A U T I O N
+Proper time is shortest:
+¢t 7 ¢t0
+We need to clarify how to use Eq. 26–1,
+and the meaning of 
+and 
+The equation is true only when 
+represents the time interval between
+the two events in a reference frame where an observer at rest sees the two events
+occur at the same point in space (as in Fig. 26–6a where the two events are the
+light flash b

@@ -1,0 +1,22 @@
+y large for a self-sustaining chain reaction to take place.
+The minimum mass of uranium needed is called the critical mass. The value of
+the critical mass depends on the moderator, the fuel (
+may be used instead
+of 
+), and how much the fuel is enriched, if at all. Typical values are on the
+order of a few kilograms (that is, neither grams nor thousands of kilograms).
+Critical mass depends also on the average number of neutrons released per
+fission: 2.5 for 
+2.9 for 
+so the critical mass for 
+is smaller.
+To have a self-sustaining chain reaction, on average at least one neutron
+produced in each fission must go on to produce another fission. The average
+number of neutrons per fission that do go on to produce further fissions is 
+called the neutron multiplication factor, f. For a self-sustaining chain reaction,
+we must have
+If
+, the reactor is “subcritical.” If
+, it is 
+“supercritical” (and could become dangerously explosive). Reactors are equipped
+with movable control rods (good neutron ab

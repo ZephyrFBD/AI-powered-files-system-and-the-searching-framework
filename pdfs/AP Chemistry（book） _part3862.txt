@@ -1,0 +1,15 @@
+al reagents. Only in a chiral envi-
+ronment do they behave differently from each other. One interesting property of chiral 
+substances is that their solutions may rotate the plane of polarized light, as explained in 
+Section 23.4.
+Chirality is common in organic compounds. It is often not observed, however, 
+because when a chiral substance is synthesized in a typical reaction, the two enantio-
+mers are formed in precisely the same quantity. The resulting mixture is called a racemic 
+mixture, and it does not rotate the plane of polarized light because the two forms rotate 
+the light to equal extents in opposite directions. 
+ (Section 23.4)
+Many drugs are chiral compounds. When a drug is administered as a racemic 
+mixture, often only one enantiomer has beneficial results. The other is often inert, or 
+nearly so, or may even have a harmful effect. For example, the drug (R)-albuterol (Fig-
+ure 24.15(a)) is a bronchodilator used to relieve the symptoms of asthma. The enantio-
+mer (S)-albuter

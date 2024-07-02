@@ -1,0 +1,17 @@
+d
+waves is transformed into electrical energy and sent to the brain.
+*
+The Ear’s Response
+The ear is not equally sensitive to all frequencies. To hear the same loudness for
+sounds of different frequencies requires different intensities. Studies on large
+numbers of people have produced the averaged curves shown in Fig. 12–6 (top of
+next page). On this graph, each curve represents sounds that seemed to be equally
+loud. The number labeling each curve represents the loudness level (the units are
+called phons), which is numerically equal to the sound level in dB at 1000 Hz. For
+example, the curve labeled 40 represents sounds that are heard by an average
+person to have the same loudness as a 1000-Hz sound with a sound level of 40 dB.
+From this 40-phon curve, we see that a 100-Hz tone must be at a level of about
+62 dB to be perceived as loud as a 1000-Hz tone of only 40 dB.
+*
+The lowest curve in Fig. 12–6 (labeled 0) represents the sound level, as a
+function of frequency, for the threshold of

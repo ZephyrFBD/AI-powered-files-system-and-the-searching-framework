@@ -1,0 +1,37 @@
+ magnitudes of the
+friction force 
+and the normal force 
+as an equation by inserting a constant of
+proportionality,
+[kinetic friction]
+This relation is not a fundamental law; it is an experimental relation between
+the magnitude of the friction force 
+which acts parallel to the two surfaces, and
+the magnitude of the normal force 
+which acts perpendicular to the surfaces.
+It is not a vector equation since the two forces have different directions, perpendicular
+to one another. The term 
+is called the coefficient of kinetic friction, and its value
+depends on the nature of the two surfaces. Measured values for a variety of sur-
+faces are given in Table 4–2. These are only approximate, however, since 
+depends
+on whether the surfaces are wet or dry, on how much they have been sanded or
+rubbed, if any burrs remain, and other such factors. But 
+(which has no units) is
+roughly independent of the sliding speed, as well as the area in contact.
+mk
+m
+mk
+F
+N,
+F
+fr,
+F
+fr = mkF
+N.
+mk:
+F
+N
+F
+fr
+SECTION 

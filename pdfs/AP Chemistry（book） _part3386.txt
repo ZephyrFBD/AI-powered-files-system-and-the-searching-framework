@@ -1,0 +1,27 @@
+2 = -0.120 using the ex or 
+INV LN function of a calculator:
+Because N0 = 1.000 g, we have:
+Nt = 10.8872N0 = 10.887211.000 g2 = 0.887 g 
+Solve 
+(a) Equation 21.20 is solved for the decay constant, k, and then 
+Equation 21.19 is used to calculate half-life, t1>2:
+Solve Let’s assume that the rock currently contains 1.000 mg  
+of uranium-238 and therefore 0.257 mg of lead-206. The 
+amount of uranium-238 in the rock when it was first formed 
+therefore equals 1.000 mg plus the quantity that has decayed 
+to lead-206. Because the mass of lead atoms is not the same as 
+the mass of uranium atoms, we cannot just add 1.000 mg and 
+0.257 mg. We have to multiply the present mass of lead-206 
+(0.257 mg) by the ratio of the mass number of uranium to that 
+of lead, into which it has decayed. Therefore, the original mass 
+of 238
+92U was
+ Original 238
+92U = 1.000 mg + 238
+206 10.257 mg2
+ = 1.297 mg
+Using Equation 21.19, we can calculate the decay constant for the 
+process from its half-life:
+k =
+0.693
+4

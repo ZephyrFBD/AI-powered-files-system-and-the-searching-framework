@@ -1,0 +1,19 @@
+at the
+same time, then the two events had to be simultaneous. This is because (i) the two
+light pulses travel at the same speed (postulate 2), and (ii) the distance OA
+equals OB, so the time for the light to travel from A to O and from B to O must
+be the same. Observer O can then definitely state that the two events occurred
+simultaneously. On the other hand, if O sees the light from one event before that
+from the other, then the former event occurred first.
+The question we really want to examine is this: if two events are simultaneous
+to an observer in one reference frame, are they also simultaneous to another
+observer moving with respect to the first? Let us call the observers 
+and 
+and assume they are fixed in reference frames 1 and 2 that move with speed v
+relative to one another. These two reference frames can be thought of as two
+rockets or two trains (Fig.26–4).
+says that 
+is moving to the right with speed v,
+as in Fig. 26–4a; and 
+says 
+is moving to the left with speed v, as in

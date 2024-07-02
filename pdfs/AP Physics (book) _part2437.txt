@@ -1,0 +1,17 @@
+. It is based
+on the idea of symmetry in nature. Indeed, the size of the effect in most cases is so
+small that Maxwell recognized it would be difficult to detect it experimentally.
+Maxwell’s Fourth Equation (Ampère’s Law Extended)
+To back up the idea that a changing electric field might produce a magnetic field,
+we use an indirect argument that goes something like this. According to Ampère’s
+law (Section 20–8),
+That is, divide any closed path you choose into
+short segments 
+multiply each segment by the parallel component of the mag-
+netic field B at that segment, and then sum all these products over the complete
+closed path. That sum will then equal 
+times the total current I that passes
+through a surface bounded by the path. When we applied Ampère’s law to the
+field around a straight wire (Section 20–8), we imagined the current as passing
+through the circular area enclosed by our circular loop. That area is the flat 
+surface 1 shown in Fig. 22–2. However, we could just as well use the

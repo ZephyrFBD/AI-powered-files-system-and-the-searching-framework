@@ -1,0 +1,49 @@
+ green) touching the rails. A magnetic field is
+perpendicular to the plane of the circuit. If the bar has a
+length
+a mass of 1.5 g, and is placed in a field of
+1.7 T, what constant current flow is needed to accelerate
+the bar from rest to 
+in a distance of 1.0 m? In what
+direction must the magnetic field point?
+28 ms
+l = 28 cm,
+FIGURE 20–71
+Problem 87.
+85. A particle with charge q and momentum p, initially moving
+along the x axis, enters a region where a uniform magnetic
+field 
+extends over a
+width
+as shown in
+Fig. 20–70. The particle
+is deflected a distance d
+in the 
+direction as it
+traverses the field. Deter-
+mine (a) whether q is
+positive or negative, and
+(b) the magnitude of its
+momentum p in terms of
+and d.
+l,
+B0 ,
+q,
+±y
+x = l
+B0
+0
+d
+y
+q
+x
+l
+B
+p
+B
+FIGURE 20–70
+Problem 85.
+88. The cyclotron (Fig. 20–72) is a device used to accelerate
+elementary particles such as protons to high speeds. Parti-
+cles starting at point A with some initial velocity travel in
+semicircular orbits in the 

@@ -1,0 +1,22 @@
+L E M  S O L V I N G
+Symmetry
+y = 0
+v0
+y
+d
+FIGURE 3;24 Example 3–7.
+SECTION 3–6
+Solving Projectile Motion Problems
+63
+EXERCISE F In Example 3–6, what is (a) the velocity vector at the maximum height, and
+(b) the acceleration vector at maximum height?
+The wrong strategy. A boy on a small hill
+aims his water-balloon slingshot horizontally, straight at a second boy hanging from
+a tree branch a distance d away, Fig.3–24.At the instant the water balloon is released,
+the second boy lets go and falls from the tree, hoping to avoid being hit. Show that
+he made the wrong move. (He hadn’t studied physics yet.) Ignore air resistance.
+RESPONSE Both the water balloon and the boy in the tree start falling at the
+same instant, and in a time they each fall the same vertical distance
+much like Fig. 3–19. In the time it takes the water balloon to travel the horizontal
+distance d, the balloon will have the same y position as the falling boy. Splat. If
+the boy had stayed in the tree, he would have avoided

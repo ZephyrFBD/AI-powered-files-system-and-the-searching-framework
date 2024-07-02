@@ -1,0 +1,35 @@
+in all directions, as we shall see in Chapter 10. Pressure is
+defined as force per unit area, and thus is the equivalent of stress. For this situation
+the change in volume,
+is proportional to the original volume,
+and to the
+change in the pressure,
+. We thus obtain a relation of the same form as Eq. 9–4
+but with a proportionality constant called the bulk modulus B:
+(9;7)
+or
+The minus sign means the volume decreases with an increase in pressure.
+B =
+–
+¢P
+¢VV
+0
+.
+¢V
+V
+0
+=
+– 1
+B ¢P
+¢P
+V
+0 ,
+¢V,
+Values for the bulk modulus are given in Table 9–1. Since liquids and gases
+do not have a fixed shape, only the bulk modulus (not the Young’s or shear moduli)
+applies to them.
+9–6 Fracture
+If the stress on a solid object is too great, the object fractures, or breaks (Fig. 9–24).
+Table 9–2 lists the ultimate strengths for tension, compression, and shear for a
+variety of materials. These values give the maximum force per unit area, or stress,
+that an object can withstand under each of these three typ

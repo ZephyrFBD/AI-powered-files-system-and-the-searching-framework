@@ -1,0 +1,37 @@
+y Area. Would a chair have started 
+to slide on a floor with coefficient of static friction 0.25?
+94. Two blocks made of different materials, connected by a thin
+cord, slide down a plane ramp inclined at an angle to the
+horizontal, Fig.4–76 (block B is above block A). The masses
+of the blocks are 
+and 
+and the coefficients of fric-
+tion are 
+and 
+If
+and
+and
+determine 
+(a) the acceleration of the blocks and
+(b) the tension in the cord, for an
+angle u = 32°.
+mB = 0.30,
+mA = 0.20
+mA = mB = 5.0 kg,
+mB.
+mA
+mB,
+mA
+u
+4.0 ms2
+ms = ag.
+95. A car starts rolling down a 1-in-4 hill (1-in-4 means that 
+for each 4 m traveled along the sloping road, the elevation
+change is 1 m). How fast is it going when it reaches the
+bottom after traveling 55 m? (a) Ignore friction. (b) Assume
+an effective coefficient of friction equal to 0.10.
+96. A 65-kg ice skater coasts with no effort for 75 m until she
+stops. If the coefficient of kinetic friction between her
+skates and the ice is
+how fast was she moving
+at 

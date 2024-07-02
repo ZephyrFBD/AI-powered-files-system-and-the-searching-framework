@@ -1,0 +1,18 @@
+ons
+such as those done in Examples 16–9 and 16–10 for just this case (see Fig. 16–29).
+Figure 16–32b shows the electric field lines for two equal positive charges, and
+Fig. 16–32c for unequal charges,
+and 
+Note that twice as many lines
+leave 
+as enter 
+(number of lines is proportional to magnitude of Q).
+Finally, in Fig. 16–32d, we see in cross section the field lines between two flat 
+parallel plates carrying equal but opposite charges. Notice that the electric field
+lines between the two plates start out perpendicular to the surface of the metal
+plates (we will see why this is true in the next Section) and go directly from one
+plate to the other, as we expect because a positive test charge placed between 
+the plates would feel a strong repulsion from the positive plate and a strong
+attraction to the negative plate. The field lines between two close plates are 
+parallel and equally spaced in the central region, but fringe outward near the
+edges. Thus, in the central region, the electr

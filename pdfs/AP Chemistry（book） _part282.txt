@@ -1,0 +1,24 @@
+Sample Exercise 2.2 
+Determining the Number of Subatomic Particles in Atoms
+How many protons, neutrons, and electrons are in an atom of (a) 197Au, (b) strontium-90?
+SOLUTION
+(a) The superscript 197 is the mass number 1protons + neutrons2. 
+According to the list of elements given on the front inside cover, 
+gold has atomic number 79. Consequently, an atom of 197
+Au has 
+79 protons, 79 electrons, and 197 - 79 = 118 neutrons. (b) The 
+atomic number of strontium is 38. Thus, all atoms of this element 
+have 38 protons and 38 electrons. The strontium-90 isotope has 
+90 - 38 =52 neutrons.
+ 
+▶Practice Exercise 1
+Which of these atoms has the largest number of neutrons?  
+(a) 148Eu (b) 157Dy (c) 149Nd (d) 162Ho (e) 159Gd
+ 
+▶Practice Exercise 2
+How many protons, neutrons, and electrons are in an atom of 
+(a) 138Ba, (b) phosphorus-31?
+ 
+Sample Exercise 2.3 
+Writing Symbols for Atoms
+Magnesium has three isotopes with mass numbers 24, 25, and 26. (a) Write the complete chemical symbol (superscript a

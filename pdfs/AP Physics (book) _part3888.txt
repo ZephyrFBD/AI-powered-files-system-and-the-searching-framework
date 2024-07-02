@@ -1,0 +1,97 @@
+Odd-Numbered Problems
+A-33
+Chapter 15
+1. (a) 0;
+(b)
+3.
+5.
+7. (a) 0;
+(b) 2630 J;
+(c) rise.
+9.
+13. (a)
+(b) 27 J;
+(c) 55 J;
+(d) 28 J;
+(e) 16 J.
+15. 170 W.
+17. (a)
+(b) 3500 Cal.
+19. 25.8%.
+21. 8.8%.
+23. 10°C decrease in the low-
+temperature reservoir.
+25.
+27. 1800 W.
+29. 420°C.
+31. 0.15.
+33. 6.5.
+35. (a)
+(b)
+(c) 230 J at 0°C, 390 J at 
+37. 78 L.
+39.
+41.
+43.
+45.
+47.
+49. (a)
+(b)
+51. (a)
+Number of 
+Macrostate 
+Microstates microstates
+3 r, 0 o, 0 g 
+r r r 
+1
+2 r, 1 o, 0 g 
+r r o r o r o r r 
+3
+2 r, 0 o, 1 g 
+r r g r g r g r r 
+3
+1 r, 2 o, 0 g 
+r o o o r o o o r 
+3
+1 r, 0 o, 2 g 
+r g g g r g g g r 
+3
+r o g r g o o r g 
+1 r, 1 o, 1 g
+o g r g r o g o r 
+6
+0 r, 3 o, 0 g 
+o o o 
+1
+0 r, 2 o, 1 g 
+g o o o g o o o g 
+3
+0 r, 1 o, 2 g 
+o g g g o g g g o 
+3
+0 r, 0 o, 3 g 
+g g g 
+1
+(b)
+(c)
+53.
+yes.
+55.
+57. (a)
+(b)
+(c)
+59. 86°C.
+61. (a) 7.7%;
+(b) the large volume of “fuel”
+(ocean water) available.
+63. $0.43 h.
+65. (a) 44°C;
+(b)
+67. 60 K.
+69. (a)
+possibly;
+(b)
+71. (a) 0.281;
+(b)
+73. (a) 0.22 kg;
+(b) 4.5 day

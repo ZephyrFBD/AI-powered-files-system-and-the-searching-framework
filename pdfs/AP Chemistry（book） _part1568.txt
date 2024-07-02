@@ -1,0 +1,43 @@
+t pressure  
+is directly proportional to its absolute temperature.
+Thus, doubling the absolute temperature causes the gas volume to double. Mathemati-
+cally, Charles’s law takes the form
+ 
+V = constant * T or V
+T = constant 
+[10.3]
+with the value of the constant depending on the pressure and on the amount of gas.
+402 
+CHAPTER 10 Gases
+Go Figure
+How many moles of gas are in each vessel?
+He
+Volume
+Pressure
+Temperature
+Mass of gas
+22.4 L
+1 atm
+0 8C
+4.00 g
+6.02 3 1023
+N2
+22.4 L
+1 atm
+0 8C
+28.0 g
+6.02 3 1023
+Number of
+gas molecules
+CH4
+22.4 L
+1 atm
+0 8C
+16.0 g
+6.02 3 1023
+▲ Figure 10.8 Avogadro’s hypothesis. At the same volume, pressure, and temperature, samples 
+of different gases have the same number of molecules but different masses.
+The Quantity–Volume Relationship: Avogadro’s Law
+The relationship between the quantity of a gas and its volume follows from the work of 
+Joseph Louis Gay-Lussac (1778–1823) and Amedeo Avogadro (1776–1856).
+Gay-Lussac was one of those extraordinary figures in

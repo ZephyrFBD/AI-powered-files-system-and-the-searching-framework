@@ -1,0 +1,13 @@
+lycolysis, to enter the next pathway, it must undergo several changes. The conversion
+is a three-step process (Figure 7.9).
+Step 1. A carboxyl group is removed from pyruvate, releasing a molecule of carbon dioxide into the surrounding medium.
+The result of this step is a two-carbon hydroxyethyl group bound to the enzyme (pyruvate dehydrogenase). This is the first
+of the six carbons from the original glucose molecule to be removed. This step proceeds twice (remember: there are two
+pyruvate molecules produced at the end of glycolsis) for every molecule of glucose metabolized; thus, two of the six carbons
+will have been removed at the end of both steps.
+292
+Chapter 7 | Cellular Respiration
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Step 2. The hydroxyethyl group is oxidized to an acetyl group, and the electrons are picked up by NAD+, forming NADH.
+The high-energy electrons from NADH will be used later to generate ATP.
+Step 3. The enzyme-bound acetyl gr

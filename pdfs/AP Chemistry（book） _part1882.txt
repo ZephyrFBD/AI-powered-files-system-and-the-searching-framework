@@ -1,0 +1,13 @@
+, where all interactions are antibonding (three nodal planes).
+As the length of the chain increases, the number of molecular orbitals increases. 
+Regardless of chain length, the lowest-energy orbitals are always the most bonding and 
+the highest-energy orbitals always the most antibonding. Furthermore, because each 
+lithium atom has only one valence shell atomic orbital, the number of molecular orbitals 
+is equal to the number of lithium atoms in the chain. Because each lithium atom has one 
+valence electron, half of the molecular orbitals are fully occupied and the other half are 
+empty, regardless of chain length.*
+electronic Band Structure If the chain becomes very long, there are so many molec-
+ular orbitals that the energy separation between them becomes vanishingly small. As 
+the chain length goes to infinity, the allowed energy states become a continuous band. 
+For a crystal large enough to see with the eye (or even an optical microscope), the num-
+ber of atoms is extremely larg

@@ -1,0 +1,21 @@
+uminum
+ 
+▶Practice Exercise 2
+Which of the following metals will be oxidized by 
+Pb1NO322: Zn, Cu, Fe?
+SOLUTION
+Analyze We are given two substances—an aqueous salt, FeCl2, and 
+a metal, Mg—and asked if they react with each other.
+Plan A reaction occurs if the reactant that is a metal in its elemen-
+tal form (Mg) is located above the reactant that is a metal in its ox-
+idized form 1Fe2+2 in Table 4.5. If the reaction occurs, the Fe2+ ion 
+in FeCl2 is reduced to Fe, and the Mg is oxidized to Mg2+.
+Solve Because Mg is above Fe in the table, the reaction occurs. To 
+write the formula for the salt produced in the reaction, we must 
+remember the charges on common ions. Magnesium is always 
+present in compounds as Mg2+; the chloride ion is Cl-. The mag-
+nesium salt formed in the reaction is MgCl2, meaning the bal-
+anced molecular equation is
+Mg1s2 + FeCl21aq2 ¡ MgCl21aq2 + Fe1s2
+Both FeCl2 and MgCl2 are soluble strong electrolytes and can be 
+written in ionic form, which shows us that Cl- is 

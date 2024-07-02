@@ -1,0 +1,30 @@
+as the Earth
+(where 
+)? (b) Suppose the sail material
+has a mass of 
+What would be the acceleration of
+the sail due to solar radiation pressure? (c) A realistic
+solar sail would have a payload. How big a sail would you
+need to accelerate a 100-kg payload at 
+57. Suppose a 35-kW radio station emits EM waves uniformly
+in all directions. (a) How much energy per second crosses a
+area 1.0 km from the transmitting antenna? (b)What
+is the rms magnitude of the 
+field at this point, assuming
+the station is operating at full power? What is the rms volt-
+age induced in a 1.0-m-long vertical car antenna (c) 1.0 km
+away, (d) 50 km away?
+E
+B
+1.0-m2
+1 * 10–3 ms2?
+1 gm2.
+I = 1350 Wm2
+58. A point source emits light energy uniformly in all directions
+at an average rate 
+with a single frequency f. Show that
+the peak electric field in the wave is given by
+[Hint: The surface area of a sphere is 
+.]
+59. What is the maximum power level of a radio station so as
+to avoid electrical breakdown of air at a dis

@@ -1,0 +1,30 @@
+°C to 95°C. What is the potential
+difference across the plates?
+General Problems
+73. A proton 
+and an alpha particle 
+are
+accelerated by the same voltage V. Which gains the greater
+kinetic energy, and by what factor?
+74. Dry air will break down if the electric field exceeds
+What amount of charge can be placed on a
+parallel-plate capacitor if the area of each plate is 
+75. Three charges are at the corners of an equilateral triangle
+(side ) as shown in Fig. 17–45.
+Determine the potential at the
+midpoint of each of the sides. Let
+at r = q.
+V = 0
+l
+65 cm2?
+3.0 * 106 Vm.
+(q = ±2e)
+(q = ±e)
+62. (II) Consider a rather coarse 4-bit analog-to-digital
+conversion where the maximum voltage is 5.0 V. (a) What
+voltage does 1011 represent? (b) What is the 4-bit repre-
+sentation for 2.0 V?
+63. (II) (a) 16-bit sampling provides how many different pos-
+sible voltages? (b) 24-bit sampling provides how many
+different possible voltages? (c) For color TV, 3 subpixels,
+each 8 bits, provides a total of how m

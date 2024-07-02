@@ -1,0 +1,19 @@
+ general functions are 
+selected based on the characteristics of indexes. Moreover, our functions are either 
+linear or smooth. The function we choose must largely reflect the change trend and 
+the subtle difference will not cause enormous effect to our model. 
+Team#36961 
+ 
+Page 19 of 20 
+Appling a multi-layer model helps us to eliminate the influence of some sensitive 
+data. For instance, the influence of the unexpected second level data is 
+correspondingly weakened after the treat of dynamic weighted aggregative model and 
+analytic hierarchy process model, making our model is in a stable state. Indexes 
+depending on time test are appropriate to describe the sustainable development. 
+ 
+6. Strengths and Weaknesses 
+6.1 Strengths 
+ Simplicity. We transform the assessment of the sustainable development into a 
+number ranging from 0 to 1, which is intuitive and easy to understand. In addition, 
+we can distinguish the strengths from the weakness according to the 
+corresponding sustainabl

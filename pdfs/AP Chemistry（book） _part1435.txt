@@ -1,0 +1,24 @@
+N ¬ O bonds, as shown in the figure. We see that 
+the NO3
+- ion has a six-electron p system delocalized among the 
+four atoms in the ion.
+N
+O
+O
+O
+ 
+SECTION 9.6    
+Multiple Bonds 
+367
+General Conclusions about s and p Bonding
+On the basis of the examples we have seen, we can draw a few helpful conclusions for 
+using hybrid orbitals to describe molecular structures:
+ t Every pair of bonded atoms shares one or more pairs of electrons. Each bond line 
+we draw in a Lewis structures represents two shared electrons. In every s bond one 
+pair of electrons is localized in the space between the atoms. The appropriate set of 
+hybrid orbitals used to form the s bonds between an atom and its neighbors is deter-
+mined by the observed geometry of the molecule. The correlation between the set of 
+hybrid orbitals and the geometry about an atom is given in Table 9.4.
+ t Because the electrons in s bonds are localized in the region between two bonded 
+ 
+atoms, they do not make a significant contribut

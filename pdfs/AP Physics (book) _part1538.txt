@@ -1,0 +1,16 @@
+e from the surface (Section 13–12). Hence the average speed of the
+remaining molecules is less, so by Eq. 13–8 the temperature is less.
+400
+CHAPTER 14
+Heat
+Evaporation of water from skin is one of the most important ways the body
+uses to control its temperature. When the temperature of the blood rises slightly
+above normal, the hypothalamus region of the brain detects this temperature increase
+and sends a signal to the sweat glands to increase their production. The energy (latent
+heat) needed to vaporize this water comes from the body, so the body cools.
+Kinetic Theory of Latent Heats
+We can make use of kinetic theory to see why energy is needed to melt or vaporize
+a substance. At the melting point, the latent heat of fusion does not act to increase
+the average kinetic energy (and the temperature) of the molecules in the solid, but
+instead is used to overcome the potential energy associated with the forces between
+the molecules. That is, work must be done against these attractive force

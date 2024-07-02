@@ -1,0 +1,20 @@
+ solution and moles of solute:
+Moles HNO3 = 12.0 L soln2a0.200 mol HNO3
+1 L soln
+b = 0.40 mol HNO3
+To illustrate the conversion of moles to volume, let’s calculate the volume of 0.30 M HNO3 
+solution required to supply 2.0 mol of HNO3:
+Liters soln = 12.0 mol HNO32a
+1 L soln
+0.30 mol HNO3
+b = 6.7 L soln
+Note that in this case we used the reciprocal of molarity in the conversion:
+Liters = mol * 1>M = mol * liters>mol
+If one of the solutes is a liquid, we can use its density to convert its mass to volume 
+and vice versa. For example, a typical American beer contains 5.0% ethanol 1CH3CH2OH2 
+by volume in water (along with other components). The density of ethanol is 0.789 
+g/mL. Therefore, if we wanted to calculate the molarity of ethanol (usually just called 
+“alcohol” in everyday language) in beer, we would first consider 1.00 L of beer.
+This 1.00 L of beer contains 0.950 L of water and 0.050 L of ethanol:
+5% = 5>100 = 0.050
+Then we can calculate the moles of ethanol by proper cancellati

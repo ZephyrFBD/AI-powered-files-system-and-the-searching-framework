@@ -1,0 +1,17 @@
+el-plate capacitor (Section 17–9). If the voltage on the
+capacitor is to be 850 V, what is the required capacitance?
+(d) If this capacitor were to be made from activated carbon
+(Section 17–7), the voltage would be limited to no more
+than 10 V. In this case, how many grams of activated carbon
+would be required? (e) Is this practical?
+6. Capacitors can be used as “electric charge counters.” Con-
+sider an initially uncharged capacitor of capacitance C with
+its bottom plate grounded and its top plate connected to a
+source of electrons. (a) If N electrons flow onto the capacitor’s
+top plate, show that the resulting potential difference V across
+the capacitor is directly proportional to N. (b) Assume the
+voltage-measuring device can accurately resolve voltage
+changes of about 1 mV. What value of C would be necessary
+to resolve the arrival of an individual electron? (c) Using
+modern semiconductor technology, a micron-size capacitor
+can be constructed with parallel conducting plates separated

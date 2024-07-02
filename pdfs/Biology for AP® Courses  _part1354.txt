@@ -1,0 +1,11 @@
+ne dominant and one recessive phenotype.
+Therefore, the proportion of each is calculated as (3/4) × (1/4) = 3/16.
+The law of independent assortment also indicates that a cross between yellow, wrinkled (YYrr) and green, round (yyRR)
+parents would yield the same F1 and F2 offspring as in the YYRR x yyrr cross.
+The physical basis for the law of independent assortment also lies in meiosis I, in which the different homologous pairs line
+up in random orientations. Each gamete can contain any combination of paternal and maternal chromosomes (and therefore
+the genes on them) because the orientation of tetrads on the metaphase plane is random.
+Forked-Line Method
+When more than two genes are being considered, the Punnett-square method becomes unwieldy. For instance, examining
+a cross involving four genes would require a 16 × 16 grid containing 256 boxes. It would be extremely cumbersome to
+manually enter each genotype. For more complex crosses, the forked-line and probability methods are preferr

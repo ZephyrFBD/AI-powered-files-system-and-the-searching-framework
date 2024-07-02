@@ -1,0 +1,17 @@
+erall:   
+ 
+   2 H21g2 + O21g2 ¡ 2 H2O1l2
+These cells employ hydrogen gas as the fuel and oxygen gas from air as the oxidant and 
+generate about 1 V.
+Fuel cells are often named for either the fuel or the electrolyte used. In the 
+hydrogen-PEM fuel cell (the acronym PEM stands for either proton-exchange mem-
+brane or polymer-electrolyte membrane), the anode and cathode are separated by 
+a membrane that is permeable to protons but not to electrons (Figure 20.24). The 
+membrane therefore acts as the salt bridge. The electrodes are typically made from 
+graphite.
+The hydrogen-PEM cell operates at around 80 °C. At this temperature, the 
+electrochemical reactions would normally occur very slowly, and so small islands of plat-
+inum are deposited on each electrode to catalyze the reactions. The high cost and relative 
+scarcity of platinum are two factors that limit wider use of hydrogen-PEM fuel cells.
+In order to power a vehicle, multiple cells must be assembled into a fuel cell stack. 
+The am

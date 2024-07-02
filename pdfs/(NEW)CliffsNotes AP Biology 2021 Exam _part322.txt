@@ -1,0 +1,15 @@
+s.
+5. The lagging complementary strand (5A) is assembled away from the replication fork in multiple, short Okazaki
+fragments (5B). Each new Okazaki fragment begins when DNA polymerase attaches to an RNA primer (5C).
+6. The Okazaki fragments are joined by DNA ligase.
+7. The RNA primers are replaced with DNA nucleotides.
+Energy for elongation is provided by two additional phosphates that are attached to each new nucleotide (making a
+total of three phosphates attached to the nitrogen base). Breaking the bonds holding the two extra phosphates
+provides the chemical energy for the process.
+Figure 9-2
+DNA replication in prokaryotic and eukaryotic organisms is basically the same with the following differences:
+ 
+1. Chromosome structure. A prokaryotic chromosome is circular. Eukaryotic chromosomes are linear with ends
+called telomeres.
+2. Origins of replications. A prokaryotic chromosome has one, unique origin of replication. Eukaryotes have
+multiple origins to accommodate the much larger size 

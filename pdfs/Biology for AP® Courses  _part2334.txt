@@ -1,0 +1,11 @@
+es
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+warts (papillomavirus), and hepatitis A (hepatitis A virus).
+Enveloped virions like HIV, the causative agent in AIDS, consist of nucleic acid (RNA in the case of HIV) and capsid
+proteins surrounded by a phospholipid bilayer envelope and its associated proteins. Glycoproteins embedded in the viral
+envelope are used to attach to host cells. Other envelope proteins are the matrix proteins that stabilize the envelope and
+often play a role in the assembly of progeny virions. Chicken pox, influenza, and mumps are examples of diseases caused
+by viruses with envelopes. Because of the fragility of the envelope, non-enveloped viruses are more resistant to changes in
+temperature, pH, and some disinfectants than enveloped viruses.
+Overall, the shape of the virion and the presence or absence of an envelope tell us little about what disease the virus may
+cause or what species it might infect, but they are still useful

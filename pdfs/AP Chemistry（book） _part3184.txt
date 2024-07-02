@@ -1,0 +1,19 @@
+s2:
+6 I-1aq2 ¡ 3 I21s2+6 e-
+Now we can use the summary in Figure 20.6 to help us describe 
+the voltaic cell. The first half-reaction is the reduction process 
+(electrons on the reactant side of the equation). By definition, the 
+reduction process occurs at the cathode. The second half-reaction 
+is the oxidation process (electrons on the product side of the equa-
+tion), which occurs at the anode.
+The I- ions are the source of electrons, and the Cr2O7
+2- ions accept 
+the electrons. Hence, the electrons flow through the external cir-
+cuit from the electrode immersed in the KI solution (the anode) 
+to the electrode immersed in the K2Cr2O7–H2SO4 solution (the 
+cathode). The electrodes themselves do not react in any way; they 
+merely provide a means of transferring electrons from or to the 
+solutions. The cations move through the solutions toward the 
+cathode, and the anions move toward the anode. The anode (from 
+which the electrons move) is the negative electrode, and the cath-
+ode (toward

@@ -1,0 +1,10 @@
+lso true because the homologous chromosome would have
+the same genes but with possibly different alleles. In this case, both chromosomes carry the same genes, but the
+alleles are different (A and B on one chromosome and a and b on its homologue). Taking both chromosomes
+together, you get the genotype AaBb, and thus answer choice D is true. Answer choice C is false because even
+though the chromosomes separate during meiosis to produce gametes that are AB and ab, crossing over can take
+place, producing some gametes that are Ab and aB.
+16. C. Begin by drawing a horizontal line with about 30 tick marks. Since K and J have a crossover frequency of 3,
+write the letters K and J on two marks 3 ticks apart, near the middle. Next, add the letter L in two positions,8units to
+the right of K and 8 units to the left of K. At this point of the solution, both positions are possible. Next, add the
+letter M 12 units to the right of J and, again, 12 units to the left of J. Both are possible. Last, use th

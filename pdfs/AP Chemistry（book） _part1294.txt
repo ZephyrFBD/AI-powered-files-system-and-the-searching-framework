@@ -1,0 +1,37 @@
+arbon benzene, 
+C6H6. The six C atoms are bonded in a hexagonal ring, and one H atom is bonded to each 
+C atom. We can write two equivalent dominant Lewis structures for benzene, each of 
+which satisfies the octet rule. These two structures are in resonance:
+H
+C
+C
+C
+C
+H
+H
+C
+H
+H
+H
+C
+H
+C
+C
+C
+C
+H
+H
+C
+H
+H
+H
+C
+Note that the double bonds are in different places in the two structures. Each of these 
+resonance structures shows three carbon–carbon single bonds and three carbon–carbon 
+double bonds. However, experimental data show that all six C ¬C bonds are of equal 
+length, 1.40 Å, intermediate between the typical bond lengths for a C ¬C single bond 
+(1.54 Å) and a C “C double bond (1.34 Å). Each of the C ¬C bonds in benzene can be 
+thought of as a blend of a single bond and a double bond (Figure 8.15).
+Benzene is commonly represented by omitting the hydrogen atoms and showing only 
+the carbon–carbon framework with the vertices unlabeled. In this convention, the reso-
+nance in the molecule is 

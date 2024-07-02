@@ -1,0 +1,30 @@
+he resistance of the wires?
+3. (II) What is the internal resistance of a 12.0-V car battery
+whose terminal voltage drops to 8.8 V when the starter
+motor draws 95 A? What is the resistance of the starter?
+19–2 Resistors in Series and Parallel
+[In these Problems neglect the internal resistance of a battery
+unless the Problem refers to it.]
+4. (I) A 
+and an 
+resistor are connected in series
+with a 12-V battery. What is the voltage across the 
+resistor?
+5. (I) Three 
+lightbulbs and three 
+lightbulbs are
+connected in series. (a) What is the total resistance of the
+circuit? (b) What is the total resistance if all six are wired
+in parallel?
+6. (II) Suppose that you have a 
+a 
+and a 
+resistor. What is (a) the maximum, and (b) the minimum
+resistance you can obtain by combining these?
+7. (II) How many 
+resistors must be connected in series
+to give an equivalent resistance to five 
+resistors con-
+nected in parallel?
+8. (II) Design a “voltage divider” (see Example 19–3) that
+would provide one-fift

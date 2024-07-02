@@ -1,0 +1,14 @@
+-
+tronegativities, their MOs resemble those in homonuclear diatomics, with one import-
+ant modification: The energy of the atomic orbitals of the more electronegative atom is 
+lower than that of the atomic orbitals of the less electronegative element. In Figure 9.46, 
+you see that the 2s and 2p atomic orbitals of oxygen are slightly lower than those of nitro-
+gen because oxygen is more electronegative than nitrogen. The MO energy-level diagram 
+for NO is much like that of a homonuclear diatomic molecule—because the 2s and 2p 
+orbitals on the two atoms interact, the same types of MOs are produced.
+There is one other important difference in the MOs of heteronuclear molecules. The 
+MOs are still a mix of atomic orbitals from both atoms, but in general an MO in a hetero-
+nuclear diatomic molecule has a greater contribution from the atomic orbital to which it is closer 
+in energy. In the case of NO, for example, the s
+2s bonding MO is closer in energy to the 
+O 2s atomic orbital than to the

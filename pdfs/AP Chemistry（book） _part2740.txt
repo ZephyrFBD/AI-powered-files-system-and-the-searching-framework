@@ -1,0 +1,60 @@
+n curve.
+2
+0
+4
+6
+8
+pH
+10
+12
+14
+10
+20
+30
+40
+mL NaOH
+Phenolphthalein indicator
+Color-change interval 8.3 < pH < 10.0
+Methyl red indicator
+Color-change interval 4.2 < pH < 6.0
+50
+60
+70
+80
+2
+0
+4
+6
+8
+pH
+10
+12
+14
+10
+20
+30
+40
+mL NaOH
+50
+60
+70
+80
+Equivalence point
+Equivalence point
+Good choice. Suitable indicator for titration of a 
+weak acid with a strong base because equivalence 
+point falls within the color-change interval
+Poor choice. Unsatisfactory indicator for titration of a 
+weak acid with a strong base because color  
+changes before reaching equivalence point
+▲ Figure 17.13 Good and poor indicators for titration of a weak acid with a strong base.
+ 
+SECTION 17.3   
+Acid–Base Titrations 
+737
+738 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+Titrations of Polyprotic Acids
+When weak acids contain more than one ionizable H atom, the reaction with OH- occurs 
+in a series of steps. Neutralization of phosphorous acid, H3PO3, for example, proceeds in 
+two steps (the third H is bonded to

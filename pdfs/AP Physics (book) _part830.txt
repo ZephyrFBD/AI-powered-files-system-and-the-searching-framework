@@ -1,0 +1,17 @@
+ its mass, but also on how that mass is distributed 
+with respect to the axis. For example, a large-diameter cylinder will have greater
+rotational inertia than one of equal mass but smaller diameter, Fig. 8–18. The
+former will be harder to start rotating, and harder to stop. When the mass is 
+concentrated farther from the axis of rotation, the rotational inertia is greater. For
+rotational motion, the mass of an object can not be considered as concentrated 
+at its center of mass.
+T
+wo weights on a bar: different axis, different I. Two
+small “weights,” of mass 5.0 kg and 7.0 kg, are mounted 4.0 m apart on a light
+rod (whose mass can be ignored), as shown in Fig. 8–19. Calculate the moment
+of inertia of the system (a) when rotated about an axis halfway between the
+weights, Fig. 8–19a, and (b) when rotated about an axis 0.50 m to the left of the
+5.0-kg mass (Fig. 8–19b).
+APPROACH In each case, the moment of inertia of the system is found by 
+summing over the two parts using Eq. 8–13.
+SOLUT

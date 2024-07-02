@@ -1,0 +1,19 @@
+ called the solar wind. Bursts of radiation and particles 
+continuously erupt from the surface, producing solar flares.
+902
+In this chapter, we examine various common kinds of nuclear reactions and the fac-
+tors that relate to the stability of the nucleus. We also consider how the rates of nuclear 
+reactions are described and used, how radioactivity is detected, and how energy changes 
+associated with nuclear reactions can be calculated. Finally, we discuss the effects of radi-
+ation on matter, especially living systems.
+21.1 ∣  
+Radioactivity and Nuclear 
+Equations
+To understand nuclear reactions, we must review and develop some ideas introduced in 
+Section 2.3:
+t Two types of subatomic particles reside in the nucleus: protons and neutrons. We will 
+refer to these particles as nucleons.
+t All atoms of a given element have the same number of protons; this number is the 
+element’s atomic number.
+t Atoms of a given element can have different numbers of neutrons, which means they 
+can 

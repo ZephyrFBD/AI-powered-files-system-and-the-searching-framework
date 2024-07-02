@@ -1,0 +1,13 @@
+cular isothermal expansion is 
+reversible or irreversible? Because the gas expands into a vacuum with no external pres-
+sure, it does no P9V work on the surroundings. 
+ (Section 5.3) Thus, for the expansion, 
+w = 0. We can use the piston to compress the gas back to its original state, but doing so 
+requires that the surroundings do work on the system, meaning that w 7 0 for the com-
+pression. In other words, the path that restores the system to its original state requires a 
+different value of w (and, by the first law, a different value of q) than the path by which 
+the system was first changed. The fact that the same path cannot be followed to restore 
+the system to its original state indicates that the process is irreversible.
+What might a reversible isothermal expansion of an ideal gas be? This process will 
+occur only if initially, when the gas is confined to half the cylinder, the external pressure 
+acting on the piston exactly balances the pressure exerted by the gas on the pisto

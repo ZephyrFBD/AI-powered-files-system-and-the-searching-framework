@@ -1,0 +1,35 @@
+ in general. If there were pockets of antimatter in the universe,
+a huge explosion would occur if it should encounter normal matter. It is believed
+that antimatter was prevalent in the very early universe (Section 33–7).
+Negative Sea of Electrons; Vacuum State
+The original idea for antiparticles came from a relativistic wave equation devel-
+oped in 1928 by the Englishman P. A. M. Dirac (1902–1984). Recall that, as we
+saw in Chapter 26, the total energy E of a particle with mass m and momentum p
+and zero potential energy is given by Eq. 26–9,
+Thus
+Dirac applied his new equation and found that it included solutions with both 
+and 
+signs. He could not ignore the solution with the negative sign, which we
+might have thought unphysical. If those negative energy states are real, then we
+would expect normal free electrons to drop down into those states, emitting
+–
+±
+E = &3p2c2 + m2c4 .
+E2 = p2c2 + m2c4.
+*
+g
+p0,
+(n)
+(o).
+(o),
+SECTION 32–3
+Particles and Antiparticles
+925
+(not
+seen)
+p
+
+
+p
+p
+p

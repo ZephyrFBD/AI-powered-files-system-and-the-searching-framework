@@ -1,0 +1,13 @@
+ll, or neuron. It consists of the following parts:
+ 
+1. The cell body contains the nucleus and other cellular organelles. 2. The dendrite is typically a short, abundantly
+branched, slender extension of the cell body that receives stimuli.
+ 
+3. The axon is typically a long, slender extension of the cell body that sends nerve impulses.
+A nerve impulse begins at the tips of the dendrite branches, passes through the dendrites to the cell body, then
+through the axon, and finally terminates at branches of the axon.
+Neurons can be classified into three general groups by their functions:
+1. Sensory neurons (or afferent neurons) receive the initial stimulus. For example, sensory neurons embedded in
+the retina of the eye are stimulated by light, while certain sensory neurons in the hand are stimulated by touch.
+2. Motor neurons (or efferent neurons) stimulate effectors, target cells that produce some kind of response. For
+example, motor neurons may stimulate muscles (creating a movement to maint

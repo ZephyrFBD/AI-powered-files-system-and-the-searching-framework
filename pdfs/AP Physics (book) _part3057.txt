@@ -1,0 +1,44 @@
+ –e,
+k = 14p 0 = 8.99 * 109 Nm2C2.
+F = k
+(Ze)(e)
+r2
+,
+v2r
+790
+CHAPTER 27
+†We include Z in our derivation so that we can treat other single-electron (“hydrogenlike”) atoms
+such as the ions 
+and 
+Helium in the neutral state has two electrons; if one
+electron is missing, the remaining 
+ion consists of one electron revolving around a nucleus of
+charge 
+Similarly, doubly ionized lithium,
+also has a single electron, and in this case 
+‡Be careful not to believe that these well-defined orbits actually exist. Today electrons are better
+thought of as forming “clouds,” as discussed in Chapter 28.
+Z = 3.
+Li2±,
+±2e.
+He±
+Li2± (Z = 3).
+He± (Z = 2)
+FIGURE 27–28 The four smallest
+orbits in the Bohr model of
+hydrogen; r1 = 0.529 * 10–10 m.
+r3  9r1
+r1
+r4  16r1
+r2  4r1
+FIGURE 27–27 Electric force
+(Coulomb’s law) keeps the negative
+electron in orbit around the
+positively charged nucleus.
+e
+Ze
+r
+F  k(Ze)(e)
+r2
+In each of its possible orbits, the electron in a Bohr model atom would have a
+definite

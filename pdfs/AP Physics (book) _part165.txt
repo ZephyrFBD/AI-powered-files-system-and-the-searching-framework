@@ -1,0 +1,27 @@
+he car to travel 
+5. The physics: the car, starting from rest
+at 
+increases in speed as it
+covers more distance. The acceleration is constant, so we can use the kine-
+matic equations, Eqs. 2–11.
+6. Equations: we want to find the time, given the distance and acceleration;
+Eq. 2–11b is perfect since the only unknown quantity is 
+Setting
+and 
+in Eq. 2–11b
+we have
+We solve for by multiplying both sides by
+:
+Taking the square root, we get :
+7. The calculation:
+This is our answer. Note that the units come out correctly.
+8. We can check the reasonableness of the answer by doing an alternate calcu-
+lation: we first find the final velocity
+and then find the distance traveled 
+which checks with our given distance.
+9. We checked the units in step 7, and they came out correctly (seconds).
+NOTE In steps 6 and 7, when we took the square root, we should have written
+Mathematically there are two solutions. But the
+second solution,
+is a time before our chosen time interval and
+makes no sense physically

@@ -1,0 +1,40 @@
+olves in a circular orbit around the proton with a speed
+of 
+Determine the radius of the electron’s
+orbit. [Hint: See Chapter 5 on circular motion.]
+52. Two small charged spheres hang from cords of equal
+length 
+as shown in Fig. 16–64 and
+make small angles 
+and 
+with the
+vertical. (a) If
+and
+determine the ratio
+(b) Estimate the distance
+between the spheres.
+u1u2.
+m1 = m2 = m,
+Q2 = 2Q,
+Q1 = Q,
+u2
+u1
+l
+2.2 * 106 ms.
+54. Dry air will break down and generate a spark if the electric
+field exceeds about 
+How much charge could
+be packed onto a green pea (diameter 0.75 cm) before the
+pea spontaneously discharges? [Hint: Eqs. 16–4 work out-
+side a sphere if r is measured from its center.]
+55. Two point charges,
+and 
+are
+located between two oppositely charged parallel plates, as
+shown in Fig. 16–65. The two charges are separated by a
+distance of 
+Assume that the electric field
+produced by the charged plates is 
+uniform and equal to 
+Calculate the net electrostatic force on
+and give its directi

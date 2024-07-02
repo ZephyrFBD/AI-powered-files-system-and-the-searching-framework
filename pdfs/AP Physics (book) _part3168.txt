@@ -1,0 +1,20 @@
+servation suggests that the peaks are characteristic of
+the target material used. Indeed, we can explain the peaks by imagining that the
+electrons accelerated by the high voltage of the tube can reach sufficient energies
+that, when they collide with the atoms of the target, they can knock out one of 
+the very tightly held inner electrons. Then we explain these characteristic X-rays
+(the peaks in Fig. 28–11) as photons emitted when an electron in an upper state
+drops down to fill the vacated lower state. The K lines result from transitions into
+the K shell 
+The 
+line consists of photons emitted in a transition that
+originates from the 
+(L) shell and drops to the
+(K) shell. On the other
+hand, the 
+line reflects a transition from the 
+(M) shell down to the K shell.
+An L line is due to a transition into the L shell, and so on.
+Measurement of the characteristic X-ray spectra has allowed a determina-
+tion of the inner energy levels of atoms. It has also allowed the determination of
+Z values 

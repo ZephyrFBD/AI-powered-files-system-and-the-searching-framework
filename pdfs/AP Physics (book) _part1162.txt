@@ -1,0 +1,44 @@
+e circle (Fig. 11–7) is rotating with uniform angular
+velocity 
+We then can write
+where is in radians (Section 8–1). Thus
+(11;8a)
+Furthermore, since the angular velocity 
+(specified in radians per second) can be
+written as
+where f is the frequency (Eq. 8–7), we then write
+(11;8b)
+or in terms of the period T,
+(11;8c)
+Notice in Eq. 11–8c that when
+(that is, after a time equal to one period),
+we have the cosine of 
+(or 360 ), which is the same as the cosine of zero. This makes
+sense since the motion repeats itself after a time
+Because the cosine function varies between 1 and 
+Eqs. 11–8 tell us that 
+x varies between A and 
+as it must. If a pen is attached to a vibrating mass as
+a sheet of paper is moved at a steady rate beneath it (Fig. 11–8), a sinusoidal
+curve will be drawn that accurately follows Eqs. 11–8.
+–A,
+–1,
+t = T.
+°
+2p
+t = T
+x = A cos(2ptT).
+x = A cos(2pft),
+v = 2pf,
+v
+x = A cos vt.
+u
+u = vt,
+v.
+x = A cos u.
+cos u = xA,
+300
+CHAPTER 11
+Oscillations and Waves
+C A U T I O N
+is a

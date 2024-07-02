@@ -1,0 +1,14 @@
+a stereo or TV set is
+connected to the wire leads of the speaker or earbuds. The speaker leads are
+connected internally to a coil of wire, which is itself attached to the speaker cone,
+Fig. 20–40. The speaker cone is usually made of stiffened cardboard and is
+mounted so that it can move back and forth freely (except at its attachment on
+the outer edges). A permanent magnet is mounted directly in line with the coil of
+wire. When the alternating current of an audio signal flows through the wire coil,
+which is free to move within the magnet, the coil experiences a force due to the
+magnetic field of the magnet. (The force is to the right at the instant shown in
+Fig. 20–40, RHR-2, page 568.) As the current alternates at the frequency of the
+audio signal, the coil and attached speaker cone move back and forth at the same
+frequency, causing alternate compressions and rarefactions of the adjacent air,
+and sound waves are produced. A speaker thus changes electrical energy into
+sound energy, and

@@ -1,0 +1,39 @@
+
+saw in Eq. 11–5b. Thus the projection on the x axis of an object revolving in a
+circle has the same motion as a mass undergoing SHM.
+We can now determine the period of SHM because it is equal to the time for
+our object revolving in a circle to make one complete revolution. First we note that
+the velocity 
+is equal to the circumference of the circle (distance) divided by 
+the period T:
+(11;7)
+We solve for the period T in terms of A:
+From Eq. 11–5a,
+Thus
+which is Eq. 11–6a, the formula we were looking for. The period depends on the
+mass m and the spring stiffness constant k, but not on the amplitude A.
+T = 2p A
+m
+k
+,
+Avmax = 2mk.
+T = 2pA
+vmax
+.
+vmax = 2pA
+T
+= 2pAf.
+vmax
+v = vmax B1 - x2
+A2 .
+v
+vmax = 3A2 - x2
+A
+u
+vmax,
+vmax,
+Position as a Function of Time
+We now use the reference circle to find the position of a mass undergoing simple
+harmonic motion as a function of time. From Fig. 11–7, we see that 
+so the projection of the object’s position on the x axis is
+The mass in the referenc

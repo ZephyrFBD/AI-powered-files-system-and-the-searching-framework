@@ -1,0 +1,26 @@
+ation, produces ethanol 
+1C2H5OH2 and CO2. (a) Using data given in Appendix C, 
+ 
+compare the equilibrium constants for the following 
+reactions:
+C6H12O61s2 + 6 O21g2 ∆6 CO21g2 + 6 H2O1l2
+C6H12O61s2 ∆2 C2H5OH1l2 + 2 CO21g2
+(b) Compare the maximum work that can be obtained from 
+these processes under standard conditions.
+ 
+[19.100]  
+The conversion of natural gas, which is mostly methane, 
+into products that contain two or more carbon atoms, such 
+as ethane 1C2H62, is a very important industrial chemical 
+process. In principle, methane can be converted into eth-
+ane and hydrogen:
+2 CH41g2 ¡ C2H61g2 + H21g2
+In practice, this reaction is carried out in the presence of 
+oxygen:
+2 CH41g2 + 1
+2 O21g2 ¡ C2H61g2 + H2O1g2
+(a) Using the data in Appendix C, calculate K for these re-
+actions at 25 °C and 500 °C. (b) Is the difference in ∆G° for 
+the two reactions due primarily to the enthalpy term 1∆H2 
+or the entropy term 1-T∆S2? (c) Explain how the preced-
+ing reactions are an example of driving

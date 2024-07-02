@@ -1,0 +1,69 @@
+can often feel this
+heated air coming out beneath the refrigerator. The work W is usually done by 
+an electric motor which compresses a fluid, as illustrated in Fig. 15–17. (We
+assume 
+,
+, and W are all positive, as in Section 15–5.)
+QH
+QL
+QH
+QL
+T
+H
+T
+L
+SECTION 15–6
+Refrigerators, Air Conditioners, and Heat Pumps
+425
+P H Y S I C S  A P P L I E D
+Refrigerator
+SECOND LAW OF THERMODYNAMICS
+(Clausius statement)
+W
+Refrigerator or
+air conditioner
+TH
+QH
+QL
+TL
+FIGURE 15–16 Schematic diagram
+of energy transfers for a refrigerator
+or air conditioner (AC).
+Compressor
+motor
+Plug
+Expansion
+valve
+High pressure
+vapor
+(to outside)
+High pressure
+QL
+(from
+inside
+refrigerator
+to coils)
+Low pressure
+Motor
+Plug
+W
+W
+QL
+QH
+(a)
+(b)
+Low pressure
+vapor
+Condenser
+coils (outside
+refrigerator)
+Cooling coils
+(inside
+refrigerator)
+QH
+FIGURE 15–17 (a) Typical
+refrigerator system. The electric
+compressor motor forces a gas at
+high pressure through a heat
+exchanger (condenser) on the rear
+outside wall of the refrigerat

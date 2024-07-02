@@ -1,0 +1,18 @@
+ commercial hybrid vehicles, such as 
+the Toyota Prius.
+Fully electric vehicles and plug-in hybrids use Li-ion batteries 
+because they offer the highest energy density of all commercially 
+available batteries. As Li-ion battery technology has advanced, 
+these batteries have started to displace the nickel–metal hydride 
+batteries used in hybrid electric cars. Concern over safety is one 
+factor that has delayed implementation of Li-ion batteries in 
+commercial automobiles. In rare cases overheating and/or over-
+charging can cause Li-ion batteries to combust 
+ (Section 7.3). 
+Most electric vehicles now use Li-ion batteries where the LiCoO2 
+cathode has been replaced by a cathode made from lithium man-
+ganese spinel 1LiMn2O42. Batteries made with LiMn2O4 cathodes 
+have several advantages. They are not prone to thermal runaway 
+events that can lead to combustion, they tend to have longer life-
+times, and manganese is less expensive and more environmentally 
+friendly than cobalt. However, th

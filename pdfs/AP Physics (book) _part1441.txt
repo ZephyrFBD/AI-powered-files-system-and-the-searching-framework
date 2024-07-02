@@ -1,0 +1,25 @@
+ith temperature, so the whole distribution curve shifts to
+the right at higher temperatures. Kinetic theory can be applied approximately to
+liquids and solutions. Figure 13–20 illustrates how kinetic theory can explain why
+many chemical reactions, including those in biological cells, take place more
+rapidly as the temperature increases. Most chemical reactions occur in a liquid
+solution, and the molecules have a speed distribution close to the Maxwell distri-
+bution. Two molecules may chemically react only if their kinetic energy is above
+some particular minimum value (called the activation energy),
+so that when
+they collide, they penetrate into each other somewhat. Figure 13–20 shows that
+at a higher temperature, many more molecules have a speed and kinetic energy
+KE above the needed threshold EA.
+EA,
+vrms
+SECTION 13–11
+Real Gases and Changes of Phase
+377
+P H Y S I C S  A P P L I E D
+How chemical reactions depend on T
+Relative number
+of molecules
+Speed
+(EA)
+T = 273 K (0°C)
+T = 310 K (

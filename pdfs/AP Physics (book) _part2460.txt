@@ -1,0 +1,16 @@
+used to measure the speed of
+light. Among the most important were those carried out by the American Albert A.
+Michelson (1852–1931). Michelson used the rotating mirror apparatus diagrammed
+SECTION 22–5
+Energy in EM Waves
+633
+in Fig. 22–10 for a series of high-precision experiments carried out from 1880 to
+the 1920s. Light from a source would hit one face of a rotating eight-sided mirror.
+The reflected light traveled to a stationary mirror a large distance away and back
+again as shown. If the rotating mirror was turning at just the right rate, the return-
+ing beam of light would reflect from one face of the mirror into a small telescope
+through which the observer looked. If the speed of rotation was only slightly 
+different, the beam would be deflected to one side and would not be seen by the
+observer. From the required speed of the rotating mirror and the known distance
+to the stationary mirror, the speed of light could be calculated. In the 1920s,
+Michelson set up the rotating mirror 

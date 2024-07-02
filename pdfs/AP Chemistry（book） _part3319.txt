@@ -1,0 +1,19 @@
+s fully charged? 
+ 
+(b) If the LiCoO2 cathode has a mass of 10 g (when fully dis-
+charged), how many coulombs of electricity can be deliv-
+ered on completely discharging a fully charged battery?
+ 20.80  Li-ion batteries used in automobiles typically use a 
+LiMn2O4 cathode in place of the LiCoO2 cathode found in 
+most Li-ion batteries. (a) Calculate the mass percent lith-
+ium in each electrode material. (b) Which material has a 
+higher percentage of lithium? Does this help to explain 
+why batteries made with LiMn2O4 cathodes deliver less 
+power on discharging? (c) In a battery that uses a LiCoO2 
+cathode, approximately 50% of the lithium migrates from 
+the cathode to the anode on charging. In a battery that 
+uses a LiMn2O4 cathode, what fraction of the lithium in 
+LiMn2O4 would need to migrate out of the cathode to 
+deliver the same amount of lithium to the graphite anode?
+ 20.81  (a) Which reaction is spontaneous in the hydrogen fuel 
+cell: hydrogen gas plus oxygen gas makes water, or 

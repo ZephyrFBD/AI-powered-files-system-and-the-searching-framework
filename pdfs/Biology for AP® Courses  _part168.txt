@@ -1,0 +1,13 @@
+nts; at this point, the designations of products and reactants are reversed. This back and forth continues until
+a certain relative balance between reactants and products occurs—a state called equilibrium. These situations of reversible
+reactions are often denoted by a chemical equation with a double headed arrow pointing towards both the reactants and
+products.
+For example, in human blood, excess hydrogen ions (H+) bind to bicarbonate ions (HCO3-) forming an equilibrium state
+with carbonic acid (H2CO3). If carbonic acid were added to this system, some of it would be converted to bicarbonate and
+54
+Chapter 2 | The Chemical Foundation of Life
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+hydrogen ions.
+HCO−+ H+ — H2 CO3
+In biological reactions, however, equilibrium is rarely obtained because the concentrations of the reactants or products or
+both are constantly changing, often with a product of one reaction being a reactant for another. To return to the

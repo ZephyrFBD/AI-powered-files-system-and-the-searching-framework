@@ -1,0 +1,12 @@
+ing results:
+1. A silent mutation occurs when the new codon still codes for the same amino acid. This occurs most often when
+the nucleotide substitution results in a change of the last of the three nucleotides in a codon. This relaxed
+requirement for the nucleotide in the third position is called wobble pairing. Consult Figure 9-4 for examples of
+codons that differ by their third nucleotide but code for the same amino acid.
+2. A missense mutation occurs when the new codon codes for a new amino acid. The effect can be minor, or it may
+result in the production of protein that is unable to fold into its proper three-dimensional shape and, therefore, is
+unable to carry out its normal function. The hemoglobin protein that causes sickle-cell disease is caused by a
+missense mutation.
+3. A nonsense mutation occurs when the new codon codes for a stop codon. The hemoglobin protein that causes
+some forms of thalassemia is caused by a nonsense mutation.
+Chromosomal aberrations are changes in the c

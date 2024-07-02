@@ -1,0 +1,88 @@
+olet to red, as shown in Fig. 24–12.
+7.5 * 1014 Hz,
+4 * 1014 Hz
+lf = c = 3.0 * 108 ms,
+l
+l = 500 nm?
+l L d
+m
+x
+l
+=
+¢ 5.0 * 10–4 m
+1
+≤¢ 3.5 * 10–3 m
+2.5 m
+≤
+= 7.0 * 10–7 m = 700 nm.
+x = 3.5 mm,
+l = d sin u
+m
+L du
+m L d
+m
+x
+l = ¢ 5.0 * 10–4 m
+1
+≤¢ 2.0 * 10–3 m
+2.5 m
+≤= 4.0 * 10–7 m,
+x = 2.0 mm,
+u L xl
+sin u L tan u L u.
+d = 5.0 * 10–4 m,
+m = 1
+(d sin u = ml)
+EXAMPLE 24;3
+u
+†Sometimes the angstrom 
+unit is used when referring to light:
+Visible light
+has wavelengths in air of 
+to 7500 Å.
+4000 Å
+1 Å = 1 * 10–10 m.
+(Å)
+(b)
+Violet
+Red
+Violet
+Red
+Sunlight
+Sunlight
+These two rays
+are seen by
+observer (not
+to scale)
+(a)
+Violet
+Yellow
+Orange
+Blue
+Green
+Red
+686
+CHAPTER 24
+†The complete electromagnetic spectrum is illustrated in Fig. 22–8.
+FIGURE 24–13 White light passing
+through a prism is spread out into its
+constituent colors.
+Wavelength (nm)
+700
+1.4
+Refractive index
+1.7
+1.6
+1.5
+600
+500
+400
+Silicate flint glass
+Borate flint glass
+Silicate crown glass
+Fused quartz
+Quartz
+Violet
+Blue
+Green
+Yello

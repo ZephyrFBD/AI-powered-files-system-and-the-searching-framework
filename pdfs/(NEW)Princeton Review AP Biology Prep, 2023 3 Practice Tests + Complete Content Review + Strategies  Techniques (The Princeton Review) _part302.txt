@@ -1,0 +1,11 @@
+for both
+traits still has two alleles for height (T and t) and two alleles for color (G and g). However, because height and color
+are located on the same chromosome, one allele for height and one allele for color are physically linked. For
+example, maybe the heterozygote has one chromosome with Tg and one chromosome with tG. When gametes are
+formed, the T and g will travel together, and t and G will travel together and be packaged into a gamete together. So,
+in the unlinked dihybrid shown earlier, there were four possible gamete combinations (TG, Tg, tG, tg), but now there
+are only two (Tg and tG). The only way to physically separate linked alleles is by crossing-over. If a crossover event
+occurs between linked genes, then recombinant gametes can occur. However, because linked genes are physically
+close together, crossing-over is not likely to occur between them.
+If the genes were unlinked, then four gametes (TG, Tg, tG, tg) would be equally likely (as we saw when we talked
+about indep

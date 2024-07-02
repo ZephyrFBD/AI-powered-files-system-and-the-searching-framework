@@ -1,0 +1,26 @@
+l that arrives at the display activates only one horizontal wire at
+a time (the orange one in Fig. 17–33): that one horizontal wire has a voltage (let’s
+say 
+) whereas all the others are at 
+. That 
+is not applied directly to
+the pixels, but allows the vertical wires to apply briefly the proper “signal voltage”to
+each subpixel along that row (via a transistor, see below). These signal voltages,
+known as the data stream, are applied to all the vertical wires just as that one row is
+activated: they provide the correct brightness for each subpixel in that activated row.
+A few subpixels are highlighted in Fig. 17–33. Immediately afterward, the other
+rows are activated, one by one, until the entire frame has been completed (in 
+).
+1
+60 s
+20 V
+0 V
+±20 V
+P H Y S I C S  A P P L I E D
+How flat screens work
+Within a subpixel’s electronics is a capacitance that helps maintain the 
+until
+that subpixel is updated with a new signal for the next frame,
+later
+.
+The row below the orange one shown in Fi

@@ -1,0 +1,19 @@
+n approaching train or truck. In
+this case the ground does not actually touch your eardrum, but the longitudinal
+wave transmitted by the ground is called a sound wave just the same, since its vibra-
+tions cause the outer ear and the air within it to vibrate. Sound cannot travel in
+the absence of matter. For example, a bell ringing inside an evacuated jar cannot
+be heard, and sound cannot travel through the empty reaches of outer space.
+The speed of sound is different in different materials. In air at 0°C and 1 atm,
+sound travels at a speed of 
+The speed of sound in various materials is
+given in Table 12–1. The values depend somewhat on temperature, especially for
+gases. For example, in air near room temperature, the speed increases approxi-
+mately 
+for each Celsius degree increase in temperature:
+[speed of sound in air]
+where T is the temperature in °C. Unless stated otherwise, we will assume in this
+Chapter that
+so v = C331 + (0.60)(20)D ms = 343 ms.
+T = 20°C,
+v L (331 + 0.60T) ms,

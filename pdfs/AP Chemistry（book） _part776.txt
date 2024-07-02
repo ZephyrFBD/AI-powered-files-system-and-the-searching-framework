@@ -1,0 +1,24 @@
+ It follows that if we measure the enthalpy of a reac-
+tion and keep track of the bonds that are broken and formed, we can assign an enthalpy 
+ 
+ 
+Sample Exercise 5.12 
+Calculating an Enthalpy of Formation Using an Enthalpy of Reaction
+The standard enthalpy change for the reaction CaCO33s4 ¡ CaO3s4 + CO23g4 is 178.1 kJ. Use Table 5.3 to calculate the 
+standard enthalpy of formation of CaCO33s4.
+SOLUTION
+Analyze Our goal is to obtain ∆Hf°3CaCO34.
+We can calculate ∆H° for this reaction by using Equation 5.31  
+and data in Table 5.3. Remember to multiply the ∆Hf° value for 
+each substance in the reaction by that substance’s stoichiometric 
+coefficient. Recall also that ∆Hf° = 0 for any element in its most 
+stable form under standard conditions, so ∆Hf°3O21g24 = 0.
+ ∆H°
+rxn = 36∆Hf°1CO22 + 3∆Hf°1H2O24 - 3∆Hf°1C6H62 + 15
+2 ∆Hf°1O224  
+ = 361-393.5 kJ2 + 31-285.8 kJ24 - 3149.0 kJ2 + 15
+2 10 kJ24 
+ = 1-2361 - 857.4 - 49.02 kJ 
+ = -3267 kJ
+(b)  
+From the example worked in the text, ∆H° = -2220

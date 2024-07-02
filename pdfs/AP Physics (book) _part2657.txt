@@ -1,0 +1,32 @@
+erent parts of the source washes out the pattern.
+leye = l0neye,
+neye
+cneye
+l0nw .
+lw = l0nw = 650 nm1.33 = 489 nm.
+lw
+l0 =
+CONCEPTUAL EXAMPLE 24;4
+687
+FIGURE 24–18 If light is a wave,
+a bright spot will appear at the center
+of the shadow of a solid disk
+illuminated by a point source of
+monochromatic light.
+Solid
+disk
+Shadow
+Bright
+spot
+To see how a diffraction pattern arises, we analyze the important case of
+monochromatic light passing through a narrow slit (as for Fig. 24–19c). We assume
+that parallel rays (plane waves) of light pass straight through a slit of width D
+to a viewing screen very far away.† As we know from studying water waves and
+from Huygens’ principle, waves passing through a slit spread out in all directions.
+We will now examine how the waves passing through different parts of the slit
+interfere with each other.
+688
+CHAPTER 24
+The Wave Nature of Light
+†If the viewing screen is not far away, lenses can be used to make the rays parallel.
+FIGURE 24–20 Analysis of d

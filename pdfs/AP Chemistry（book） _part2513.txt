@@ -1,0 +1,19 @@
+or example, the H3O+ ion bonds to additional H2O molecules to generate such ions as 
+H5O2
++ and H9O4
++ (Figure 16.2).
+Chemists use the notations H+1aq2 and H3O+1aq2 interchangeably to represent the 
+hydrated proton responsible for the characteristic properties of aqueous solutions of acids. 
+We often use the notation H+1aq2 for simplicity and convenience, as we did in Chapter 4 
+and Equation 16.1. The notation H3O+1aq2, however, more closely represents reality.
+Proton-Transfer Reactions
+In the reaction that occurs when HCl dissolves in water, the HCl molecule transfers an 
+H+ ion (a proton) to a water molecule. Thus, we can represent the reaction as occurring 
+between an HCl molecule and a water molecule to form hydronium and chloride ions:
+ 
+ 
+[16.3]
+Notice that the reaction in Equation 16.3 involves a proton donor (HCl) and a proton 
+acceptor 1H2O2. The notion of transfer from a proton donor to a proton acceptor is the 
+key idea in the Brønsted–Lowry definition of acids and bases:
+t

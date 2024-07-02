@@ -1,0 +1,58 @@
+or volts, with italic V for voltage.)
+If we wish to speak of the potential 
+at some point a, we must be aware 
+that 
+depends on where the potential is chosen to be zero. The zero for electric
+potential in a given situation can be chosen arbitrarily, just as for potential energy,
+because only differences in potential energy can be measured. Often the ground,
+or a conductor connected directly to the ground (the Earth), is taken as zero
+potential, and other potentials are given with respect to ground. (Thus, a point
+where the voltage is 50 V is one where the difference of potential between it and
+ground is 50 V.) In other cases, as we shall see, we may choose the potential to be
+zero at an infinite distance.
+V
+a
+V
+a
+1 V = 1 JC.
+V
+ba = V
+b - V
+a = peb - pea
+q
+=
+– W
+ba
+q
+.
+V
+ba
+W
+ba,
+peb - pea,
+SECTION 17–1
+Electric Potential Energy and Potential Difference
+475
+C A U T I O N
+A negative charge has high PE
+when potential V is low
+b
+a
+Low
+potential
+Vb
+High
+potential
+Va
+−
+−
+−
+−
+−
++
++
++
++
++
+
+E

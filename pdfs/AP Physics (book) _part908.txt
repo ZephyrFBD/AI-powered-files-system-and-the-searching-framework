@@ -1,0 +1,25 @@
+meters (in radians) of the Sun and the Moon, as seen
+from Earth, and then comment.
+3. Two uniform spheres simultaneously start rolling (from rest)
+down an incline. One sphere has twice the radius and twice
+the mass of the other. (a) Which reaches the bottom of the
+incline first? (b) Which has the greater speed there? (c) Which
+has the greater total kinetic energy at the bottom? Explain
+your answers.
+4. A bicyclist traveling with speed 
+on a flat road
+is making a turn with a radius 
+There are three
+forces acting on the cyclist and cycle: the normal force 
+and
+friction force 
+exerted by the road on the tires; and 
+the total weight of the cyclist and cycle. Ignore the small
+mass of the wheels. (a) Explain carefully why the angle 
+the bicycle makes with the vertical (Fig. 8–68) must be
+given by 
+if the cyclist is to maintain balance.
+(b) Calculate 
+for the values given. [Hint: Consider the
+“circular” translational motion of the bicycle and rider.]
+(c) If the coefficient of static friction 

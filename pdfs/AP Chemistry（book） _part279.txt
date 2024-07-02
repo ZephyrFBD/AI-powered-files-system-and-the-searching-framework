@@ -1,0 +1,18 @@
+ or repulsive forces that act be-
+tween either electrically charged or magnetic objects. The magnitude 
+of the electric force between two charged particles is given by Coulomb’s 
+law: F = kQ 1Q 2>d2, where Q 1 and Q 2 are the magnitudes of the charges 
+on the two particles, d is the distance between their centers, and k is a 
+constant determined by the units for Q and d. 
+ (Section 1.4) A 
+negative value for the force indicates attraction, whereas a positive 
+value indicates repulsion. Electric forces are of primary importance 
+in determining the chemical properties of elements.
+A Closer look Basic Forces
+All nuclei except those of hydrogen atoms contain two or 
+more protons. Because like charges repel, electrical repulsion 
+would cause the protons to fly apart if the strong nuclear force 
+did not keep them together. As the name implies, this force 
+can be quite strong but only when particles are extremely close 
+together, as are the protons and neutrons in a nucleus. At this 
+distance

@@ -1,0 +1,41 @@
+n lies entirely 
+to the right. 
+ (Section 4.1) As noted in Section 16.3, we use H3O+1aq2 and H+1aq2 
+interchangeably to represent the hydrated proton in water. Thus, we can simplify this 
+acid ionization equation to
+ 
+HNO31aq2 ¡ H+1aq2 + NO3
+-1aq2 
+In an aqueous solution of a strong acid, the acid is normally the only significant 
+source of H+ ions.* As a result, calculating the pH of a solution of a strong monoprotic 
+acid is straightforward because 3H+4 equals the original concentration of acid. In a 0.20 M 
+ 
+solution of HNO31aq2, for example, 3H+4 = 3NO3
+-4 = 0.20 M. The situation with the 
+diprotic acid H2SO4 is somewhat more complex, as we will see in Section 16.6.
+Go Figure
+If a colorless solution turns pink when we add phenolphthalein, 
+what can we conclude about the pH of the solution?
+pH range for color change
+Methyl violet
+Thymol blue
+Methyl orange
+Methyl red
+Bromthymol blue
+Phenolphthalein
+Alizarin yellow R
+0
+2
+4
+6
+Yellow
+Yellow
+Violet
+Red
+Yellow
+Red
+Yellow
+Yellow
+Red
+Red
+P

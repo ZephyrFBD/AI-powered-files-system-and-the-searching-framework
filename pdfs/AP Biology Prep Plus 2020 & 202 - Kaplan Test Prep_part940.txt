@@ -1,0 +1,19 @@
+
+earlobes, respectively. According to the information provided, the
+frequency of the unattached phenotype (aa genotype) is 4,881/(4,881 +
+7,192) = 0.404. Therefore, q2 = 0.404 and q = 0.64. Because p + q = 1, p =
+1 – 0.64 = 0.36.
+The frequency of the heterozygous Aa genotype is equal to 2pq, or
+2(0.64)(0.36) = 0.46. Therefore, (C) is correct.
+14. D
+The cell cycle begins with the Gap 1 (G1) phase, in which the cell grows,
+until it passes a checkpoint and proceeds to the Synthesis (S) phase, in
+which new DNA is synthesized. Subsequently, the cell proceeds to the
+Gap 2 (G2) phase, passing another checkpoint before beginning the
+Mitotic (M) phase. The M phase is followed by cytokinesis, in which the
+parent cell is divided into two daughter cells, each of which will then
+begin G1 anew. Only (D) reflects this order, making it correct.
+15. C
+The lac operon is a genetic region in E. coli that includes the gene that
+encodes for β-galactosidase. According to the information provided,
+the lac ope

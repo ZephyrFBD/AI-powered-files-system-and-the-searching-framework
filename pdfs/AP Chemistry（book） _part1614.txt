@@ -1,0 +1,15 @@
+e kinetic energy of the molecules, (b) their average speed, (c) the number of collisions they make with the container 
+walls per unit time, (d) the number of collisions they make with a unit area of container wall per unit time, (e) the pressure?
+SOLUTION
+Analyze We need to apply the concepts of the kinetic-molecular 
+theory of gases to a gas compressed at constant temperature.
+Plan We will determine how each of the quantities in (a)–(e) is  
+affected by the change in volume at constant temperature.
+Solve (a) Because the average kinetic energy of the O2 molecules 
+is determined only by temperature, this energy is unchanged by 
+the compression. (b) Because the average kinetic energy of the 
+molecules does not change, their average speed remains constant. 
+(c) The number of collisions with the walls per unit time increases 
+because the molecules are moving in a smaller volume but with 
+the same average speed as before. Under these conditions they will 
+strike the walls of the container m

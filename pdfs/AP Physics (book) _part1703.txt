@@ -1,0 +1,25 @@
+Calculate (a) the work done by the
+gas, and (b) the change in internal energy of the gas.
+(c) Graph this process on a PV diagram.
+58. A restaurant refrigerator has a coefficient of perfor-
+mance of 4.6. If the temperature in the kitchen outside the
+refrigerator is 32°C, what is the lowest temperature that
+could be obtained inside the refrigerator if it were ideal?
+59. A particular car does work at the rate of about 
+when traveling at a steady 
+along a level road. This
+is the work done against friction. The car can travel 17 km
+on 1.0 L of gasoline at this speed (about 
+). What
+is the minimum value for 
+if
+is 25°C? The energy
+available from 1.0 L of gas is 
+60. A “Carnot” refrigerator (the reverse of a Carnot engine)
+absorbs heat from the freezer compartment at a temperature
+of 
+and exhausts it into the room at 25°C. (a) How
+much work would the refrigerator do to change 0.65kg of water
+at 25°C into ice at 
+(b) If the compressor output is
+105 W and runs 25% of the time, how long will thi

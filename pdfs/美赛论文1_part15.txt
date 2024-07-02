@@ -1,0 +1,238 @@
+ we take m=5） 
+Figure 
+Corresponding 
+factors 
+Segmented 
+power 
+function 
+1
+( )
+( )
+( )
+,
+[
+,
+]
+(
+1,2,
+;1
+)
+i
+i
+k
+i
+k
+k
+w x
+x
+x
+a
+b
+k
+i
+m
+=
+∈
+=
+≤≤
+
+ 
+ 
+Policy 
+Technology 
+Import 
+Export 
+Geography 
+Partial 
+large 
+normal 
+distribution 
+2
+0,
+( )
+1
+,
+i
+i
+i
+x
+i
+i
+x
+w x
+e
+x
+α
+α
+α
+α
+
+
+−
+−
+
+
+
+≤
+
+
+= 
+−
+>
+
+ 
+where
+i
+α
+)
+( )
+( )
+1
+1
+,
+i
+i
+a
+b
+
+∈
+ 
+ 
+Community 
+Stability 
+Poverty rate 
+Environment 
+S-type 
+distribution 
+function 
+2
+( )
+( )
+1
+1
+( )
+( )
+1
+2
+( )
+( )
+( )
+( )
+1
+2
+,
+( )
+1 2
+,
+i
+i
+i
+i
+K
+i
+i
+i
+K
+K
+i
+i
+K
+x
+a
+a
+x
+c
+b
+a
+w x
+x
+b
+c
+x
+b
+b
+a
+
+
+−
+
+≤
+≤
+
+
+−
+
+
+= 
+
+
+
+−
+−
+<
+≤
+
+
+
+−
+
+
+
+     
+ 
+where 
+(
+)
+( )
+( )
+1
+1
+2
+i
+i
+K
+c
+a
+b
+=
++
+，
+( )
+0.5
+i
+w c =
+，
+(1
+)
+i
+m
+≤≤
+ 
+ 
+Population 
+Public Health 
+Education 
+Resource and 
+Energy 
+For the consistent index 
+j
+x , we select corresponding dynamic function 
+( )
+j
+w x  
+that best fits the character of the index 
+j
+x  and finally we gain de dynamic weighted 
+index 
+(
+)
+j
+j
+j
+X
+x w x
+=
+. 
+ 
+2.4 Connection Model 
+When we carefu

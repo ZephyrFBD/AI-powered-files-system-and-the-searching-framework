@@ -1,0 +1,19 @@
+ring stiffness con-
+stant. Other potential energies include chemical, electrical, and
+nuclear energy. The change in potential energy when an object
+changes position is equal to the external work needed to take
+the object from one position to the other.
+Potential energy is associated only with conservative forces,
+for which the work done by the force in moving an object from
+one position to another depends only on the two positions and
+not on the path taken. Nonconservative forces like friction are
+different—work done by them does depend on the path taken
+and potential energy cannot be defined for them.
+The law of conservation of energy states that energy can
+be transformed from one type to another, but the total energy
+remains constant. It is valid even when friction is present,
+because the heat generated can be considered a form of energy
+transfer. When only conservative forces act, the total mechanical
+energy is conserved:
+(6;12)
+When nonconservative forces such as friction act, then

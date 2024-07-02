@@ -1,0 +1,26 @@
+ design. You are designing an airport for small
+planes. One kind of airplane that might use this airfield must reach a speed 
+before takeoff of at least 
+and can accelerate at 
+(a) If the runway is 150 m long, can this airplane reach the required speed for
+takeoff? (b) If not, what minimum length must the runway have?
+APPROACH Assuming the plane’s acceleration is constant, we use the kinematic
+equations for constant acceleration. In (a), we want to find 
+and what we are
+given is shown in the Table in the margin.
+v,
+2.00 ms2.
+27.8 ms (100 kmh),
+EXAMPLE 2;7
+EXERCISE D A car starts from rest and accelerates at a constant 
+during a 
+-mile (
+) race. How fast is the car going at the finish line? (a)
+(b) 
+(c)
+(d)
+2–6 Solving Problems
+Before doing more worked-out Examples, let us look at how to approach problem
+solving. First, it is important to note that physics is not a collection of equations to
+be memorized. Simply searching for an equation that might work can lead you
+to a wrong result

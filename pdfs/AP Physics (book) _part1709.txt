@@ -1,0 +1,21 @@
+f the heat of combustion of coal is 
+at what rate must coal be burned if the plant is to put out
+950 MW of power? Assume the efficiency of the engines is
+65% of the ideal (Carnot) efficiency. (b) Water is used to
+cool the power plant. If the water temperature is allowed to
+increase by no more than 4.5 C°, estimate how much water
+must pass through the plant per hour.
+75. Suppose a heat pump has a stationary bicycle attachment
+that allows you to provide the work instead of using an
+electrical wall outlet. If your heat pump has a coefficient
+of performance of 2.0 and you can cycle at a racing pace
+(Table 15–2) for a half hour, how much heat can you
+provide?
+2.8 * 107 Jkg,
+76. An ideal air conditioner keeps the temperature inside a room
+at 21°C when the outside temperature is 32°C. If 4.8 kW 
+of power enters a room through the windows in the form of
+direct radiation from the Sun, how much electrical power
+would be saved if the windows were shaded so only 500 W
+enters?
+77. An ideal heat pu

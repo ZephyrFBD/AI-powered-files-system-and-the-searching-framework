@@ -1,0 +1,20 @@
+o the pure solvent, depends 
+on the molality of the solute. But it is important to remember that boiling-point eleva-
+tion is proportional to the total concentration of solute particles, regardless of whether 
+the particles are molecules or ions. When NaCl dissolves in water, 2 mol of solute parti-
+cles (1 mol of Na+ and 1 mol of Cl-) are formed for each mole of NaCl that dissolves. We 
+take this into account by defining i, the van’t Hoff factor, as the number of fragments 
+that a solute breaks up into for a particular solvent. The change in boiling point for a 
+solution compared to the pure solvent is:
+ 
+∆T
+b = T
+b(solution) -  T
+b(solvent) = iKbm 
+[13.12]
+In this equation, T
+b1solution2 is the boiling point of the solution, T
+b1solvent2 is the 
+boiling point of the pure solvent, m is the molality of the solute, Kb is the molal boiling- 
+point-elevation constant for the solvent (which is a proportionality constant that is 
+experimentally determined for each solvent), and i is the van’

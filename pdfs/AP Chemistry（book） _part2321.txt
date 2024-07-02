@@ -1,0 +1,45 @@
+data 
+sets? (d) What is the rate of disappearance of NO when 
+3NO4 = 0.0750 M and 3O24 = 0.0100 M ? (e) What is the 
+rate of disappearance of O2 at the concentrations given in 
+part (d)?
+ [14.37] Consider the gas-phase reaction between nitric oxide and 
+bromine at 273 °C: 2 NO1g2 + Br21g2 ¡ 2 NOBr1g2. 
+The following data for the initial rate of appearance of 
+NOBr were obtained:
+Experiment
+3NO4 1M 2
+3Br24 1M 2
+Initial Rate 1M,s2
+1
+0.10
+0.20
+24
+2
+0.25
+0.20
+150
+3
+0.10
+0.50
+60
+4
+0.35
+0.50
+735
+ 
+ (a) Determine the rate law. (b) Calculate the average value 
+of the rate constant for the appearance of NOBr from the 
+four data sets. (c) How is the rate of appearance of NOBr 
+related to the rate of disappearance of Br2? (d) What is the 
+rate of disappearance of Br2 when 3NO4 = 0.075 M and 
+3Br24 = 0.25 M ?
+ [14.38] Consider the reaction of peroxydisulfate ion 1S2O8
+2-2 
+with iodide ion 1I -2 in aqueous solution:
+S2O8
+2 -1aq2 + 3 I -1aq2 ¡ 2 SO4
+2 -1aq2 + I3
+-1aq2
+ 
+ At a particular temperature,

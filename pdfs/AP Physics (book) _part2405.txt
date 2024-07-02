@@ -1,0 +1,27 @@
+
+parallel to the generator’s rotation axis.
+(d) Increasing the magnetic field through the coil.
+(e) Increasing the number of turns in the coil.
+11. Which of the following can a transformer accomplish?
+(a) Changing voltage but not current.
+(b) Changing current but not voltage.
+(c) Changing power.
+(d) Changing both current and voltage.
+B
+B
+FIGURE 21–54
+MisConceptual Question 6.
+I
+FIGURE 21–55
+MisConceptual Question 7.
+5. (II) An 18.5-cm-diameter loop of wire is initially oriented
+perpendicular to a 1.5-T magnetic field. The loop is rotated
+so that its plane is parallel to the field direction in 0.20 s.
+What is the average induced emf in the loop?
+6. (II) A fixed 10.8-cm-diameter wire coil is perpendicular to
+a magnetic field 0.48 T pointing up. In 0.16 s, the field is
+changed to 0.25 T pointing down. What is the average
+induced emf in the coil?
+7. (II) A 16-cm-diameter circular loop of wire is placed in a
+0.50-T magnetic field. (a) When the plane of the loop is
+perpendicular to the field

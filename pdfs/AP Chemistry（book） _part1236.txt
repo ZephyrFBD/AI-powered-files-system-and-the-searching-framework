@@ -1,0 +1,17 @@
+ed would have 
+to come from an inner shell of the sodium atom, and removing electrons from an 
+inner shell requires a very large amount of energy. 
+ (Section 7.4) The increase 
+in lattice energy is not enough to compensate for the energy needed to remove an 
+inner-shell electron. Thus, sodium and the other group 1A metals are found in ionic 
+substances only as 1+ ions.
+Similarly, adding electrons to nonmetals is either exothermic or only slightly 
+endothermic as long as the electrons are added to the valence shell. Thus, a Cl atom 
+easily adds an electron to form Cl-, which has the same electron configuration as Ar:
+ Cl   1s22s22p63s23p5 = 3Ne43s23p5
+ Cl-   
+1s22s22p63s23p6 = 3Ne43s23p6 = 3Ar4
+To form a Cl2 -  ion, the second electron would have to be added to the next higher 
+shell of the Cl atom, an addition that is energetically very unfavorable. Therefore, we 
+never observe Cl2 -  ions in ionic compounds. We thus expect ionic compounds of the 
+representative metals from groups 1A, 

@@ -1,0 +1,27 @@
+k curves show the reaction without a catalyst.
+TABLE 15.2 Variation in 
+Kp with Temperature for 
+N2 + 3 H2 ∆ 2 NH3
+Temperature 1°C2
+Kp
+300
+4.34 * 10-3
+400
+1.64 * 10-4
+450
+4.51 * 10-5
+500
+1.45 * 10-5
+550
+5.38 * 10-6
+600
+2.25 * 10-6
+Give It Some Thought
+If a reaction is carried out in the presence of a catalyst, will the amount of product 
+present at equilibrium increase, decrease, or stay the same?
+At temperatures near 800 °C, steam passed over hot coke (a form of carbon obtained from coal) reacts to form CO and H2:
+C1s2 + H2O1g2 ∆ CO1g2 + H21g2
+The mixture of gases that results is an important industrial fuel called water gas. (a) At 800 °C the equilibrium constant for this 
+reaction is Kp = 14.1. What are the equilibrium partial pressures of H2O, CO, and H2 in the equilibrium mixture at this tempera-
+ture if we start with solid carbon and 0.100 mol of H2O in a 1.00-L vessel? (b) What is the minimum amount of carbon required 
+to achieve equilibrium under these conditions? (c) What is t

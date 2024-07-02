@@ -1,0 +1,69 @@
+i
+P
+S
+Cl
+Ar
+Li
+[He]2s1
+1A
+Be
+[He]2s2
+2A
+B
+[He]2s22p1
+3A
+C
+[He]2s22p2
+4A
+N
+[He]2s22p3
+5A
+O
+[He]2s22p4
+6A
+F
+[He]2s22p5
+7A
+Ne
+[He]2s22p6
+Na
+[Ne]3s1
+Mg
+[Ne]3s2
+Al
+[Ne]3s23p1
+Si
+[Ne]3s23p2
+P
+[Ne]3s23p3
+S
+[Ne]3s23p4
+Cl
+[Ne]3s23p5
+Ar
+[Ne]3s23p6
+8A
+Group
+Element
+Electron Configuration
+Lewis Symbol
+▲ Figure 8.2 Lewis symbols.
+ 
+SECTION 8.2   
+Ionic Bonding 
+301
+important concepts of bonding. The octet rule mostly applies to atoms that have s and 
+ 
+p valence electrons; compounds of the transition metals, having valence d electrons, 
+ 
+will be examined in Chapter 23.
+8.2 ∣ Ionic Bonding
+Ionic substances generally result from the interaction of metals on the left side of the 
+ 
+periodic table with nonmetals on the right side (excluding the noble gases, group 8A). 
+For example, when sodium metal, Na(s), is brought into contact with chlorine gas, 
+Cl21g2, a violent reaction ensues (Figure 8.3). The product of this very exothermic reaction 
+is sodium chloride, NaCl(s):
+ 
+Na1s2+ 1
+2 Cl21g2 ¡ NaCl1s2 

@@ -1,0 +1,27 @@
+een two points a and b
+where a uniform electric field E exists is given by
+(17;4a)
+where d is the distance between the two points.
+An equipotential line or surface is all at the same poten-
+tial, and is perpendicular to the electric field at all points.
+The electric potential at a position P due to a single point
+charge Q, relative to zero potential at infinity, is given by
+(17;5)
+where r is the distance from Q to position P and k = 14p 0 .
+V = kQ
+r
+,
+V
+ba =
+–Ed,
+V
+ba
+Summary
+17–12 Electrocardiogram
+(ECG or EKG)
+Each time the heart beats, changes in electrical potential occur on its surface that
+can be detected using electrodes (metal contacts), which are attached to the 
+skin. The changes in potential are small, on the order of millivolts (mV), and must
+be amplified. They are displayed with a chart recorder on paper, or on a monitor
+(CRT or LCD), Fig. 17–36. An electrocardiogram (ECG or EKG) is the record of
+the potential changes for a given person’s heart. An example is shown in Fi

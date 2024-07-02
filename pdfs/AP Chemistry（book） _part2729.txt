@@ -1,0 +1,47 @@
+*
+3CH3COOH4
+3CH3COO-4 = 11.8 * 10-52 * a 0.0053
+0.0474 b = 2.0 * 10-6 M
+ pH = -log12.0 * 10-62 = 5.70
+SOLUTION
+Sample Exercise 17.8 
+Calculations for a Weak Acid–Strong Base Titration
+reaction (the stoichiometry calculation). We then calculate 
+pH using Ka, 3CH3COOH], and 3CH3COO-4 (the equilibrium 
+calculation).
+The 4.50 * 10-3 mol of NaOH consumes 
+4.50 * 10-3 mol of CH3COOH:
+CH3COOH1aq2 + OH-1aq2  ¡   CH3COO-1aq2 + H2O1l2
+Before reaction 
+(mol)
+5.00 * 10-3
+4.50 * 10-3
+0
+—
+Change (limiting 
+reactant) (mol)
+-4.50 * 10-3 -4.50 * 10-3
++4.50 * 10-3
+After reaction 
+(mol)
+0.50 * 10-3
+0
+4.50 * 10-3
+—
+The total volume of the solution is:
+The resulting molarities of CH3COOH and 
+CH3COO- after the reaction are therefore:
+ 
+3CH3COOH4 = 0.50 * 10-3 mol
+0.0950 L
+= 0.0053 M
+ 
+3CH3COO-4 = 4.50 * 10-3 mol
+0.0950 L
+= 0.0474 M
+Equilibrium Calculation: The equilibrium 
+between CH3COOH and CH3COO- must 
+obey the equilibrium-constant expression for 
+CH3COOH:
+Solving for 3H+4 gives:
+Comment We could have 

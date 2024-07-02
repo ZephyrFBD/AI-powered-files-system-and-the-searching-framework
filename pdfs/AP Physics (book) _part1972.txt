@@ -1,0 +1,18 @@
+e (connected to a battery), and
+its magnitude depends on that device’s resistance. The resistance is a property of
+the wire or device. The voltage, on the other hand, is external to the wire or device,
+and is applied across the two ends of the wire or device. The current through the
+device might be called the “response”: the current increases if the voltage increases
+or the resistance decreases, as I = VR.
+–,
+±
+CONCEPTUAL EXAMPLE 18;4
+EXERCISE D Return to the Chapter-Opening Question, page 501, and answer it again
+now. Try to explain why you may have answered differently the first time.
+Current is not a vector, even though current does have a direction. In a thin
+wire, the direction of the current is always parallel to the wire at each point, no
+matter how the wire curves, just like water in a pipe. The direction of conven-
+tional (positive) current is from high potential 
+toward lower potential 
+Current and charge do not increase or decrease or get “used up” when going
+through a wire

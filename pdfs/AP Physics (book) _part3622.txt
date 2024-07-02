@@ -1,0 +1,51 @@
+(a) The force between two quarks holding them together as part of a proton, for
+example, is carried by a gluon, which in this case involves a change in color. (b) Strong interaction
+with the exchange of a charged 
+meson (
+or 
+depending on whether it is
+considered moving to the left or to the right). (c) Quark representation of the same interaction
+The blue coiled lines between quarks represent gluon exchanges holding the
+hadrons together. (The exchanged meson may be regarded as 
+emitted by the n and absorbed by
+the p, or as 
+emitted by p and absorbed by n, because a u (or d) quark going to the left in the
+diagram is equivalent to a 
+(or ) going to the right.)
+m
+u
+um
+ud
+n + p S n + p.
+–,
+±
+p
+n + p S n + p
+u (blue)
+d (red)
+d (blue)
+u (red)
+(a)
+n
+n
+n
+p
+p
+(b)
+π±
+(c)
+d
+p
+d u d
+d d
+u d
+u
+u
+u
+n
+p
+u
+Gluon
+The particles that transmit the color force (analogous to photons for the EM force)
+are called gluons (a play on “glue”). They are included in Tables 32–2 and 32–5.
+There are eight gluons, ac

@@ -1,0 +1,20 @@
+e 
+is the woman’s
+radial distance from the axis of rotation at O. If the man at B had this same veloc-
+ity
+the ball would reach him perfectly. But his speed is 
+which is
+greater than 
+because
+Thus, when the ball reaches the outer edge of
+the platform, it passes a point that the man at B has already gone by because his
+speed in that direction is greater than the ball’s. So the ball passes behind him.
+Figure C–2b shows the situation as seen from the rotating platform as frame of
+reference. Both A and B are at rest, and the ball is thrown with velocity toward B,
+but the ball deflects to the right as shown and passes behind B as previously
+described. This is not a centrifugal-force effect, because that would act radially
+outward. Instead, this effect acts sideways, perpendicular to 
+and is called a
+Coriolis acceleration; it is said to be due to the Coriolis force, which is a fictitious
+inertial force. Its explanation as seen from an inertial system was given above:
+it is an effect of being

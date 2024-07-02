@@ -1,0 +1,48 @@
+around inside the metal is estimated
+to be about 
+at 
+, very much greater than the drift velocity.
+The drift velocity of electrons in a wire is slow, only about 
+in
+Example 18–14, which means it takes an electron about 
+or
+to
+travel only 1 m. This is not how fast “electricity travels”: when you flip a light
+switch, the light—even if many meters away—goes on nearly instantaneously.
+Why? Because electric fields travel essentially at the speed of light 
+We can think of electrons in a wire as being like a pipe full of water: when a little
+water enters one end of the pipe, some water immediately comes out the other end.
+A3 * 108 msB.
+5 1
+2 h,
+20 * 103 s,
+0.05 mms
+20°C
+1.6 * 106 ms
+= 4.6 * 10–5 ms L 0.05 mms.
+vd =
+I
+neA =
+5.0 A
+A8.4 * 1028 m–3BA1.6 * 10–19 CBA8.0 * 10–6 m2B
+8.0 * 10–6 m2.
+A = pr2 = pA1.6 * 10–3 mB2 =
+n =
+¢ 6.02 * 1023 electrons
+63.5 * 10–3 kg
+≤A8.9 * 103 kgm3B
+= 8.4 * 1028 m–3.
+n = N
+V
+=
+N
+mrD
+=
+N(1 mole)
+m(1 mole) rD
+V = volume = mrD
+n = NV
+r
+rD
+rD = mV.
+rD = 8.9 

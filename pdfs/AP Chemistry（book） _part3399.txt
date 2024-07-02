@@ -1,0 +1,30 @@
+400 billion joules per mole of ura-
+nium! This energy would provide the average annual household electricity for about 
+10,000 homes in the United States.
+How much energy is lost or gained when 1 mol of cobalt-60 undergoes beta decay, 60
+27Co ¡ 60
+28Ni +
+0
+-1e? The mass of a 60
+27Co 
+atom is 59.933819 amu, and that of a 60
+28Ni atom is 59.930788 amu.
+Solve 
+A 60
+27Co atom has 27 electrons. The mass of an 
+electron is 5.4858 * 10-4 amu. (See the list 
+of fundamental constants in the back inside 
+cover.) We subtract the mass of the 27 elec-
+trons from the mass of the 60
+27Co atom to find 
+the mass of the 60
+27Co nucleus:
+Analyze We are asked to calculate the energy change in a nuclear 
+reaction.
+Plan We must first calculate the mass change in the process. We 
+are given atomic masses, but we need the masses of the nuclei in 
+the reaction. We calculate these by taking account of the masses 
+of the electrons that contribute to the atomic masses.
+59.933819 amu - 127215.4858 * 10-4 amu2
+ 
+= 5

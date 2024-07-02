@@ -1,0 +1,15 @@
+ule.
+Give It Some Thought
+Can an argon atom undergo vibrational motion?
+The vibrational and rotational motions possible in real molecules lead to 
+arrangements that a single atom cannot have. A collection of real molecules there-
+fore has a greater number of possible microstates than does the same number of ide-
+al-gas particles. In general, the number of microstates possible for a system increases with 
+an increase in volume, an increase in temperature, or an increase in the number of mole-
+cules because any of these changes increases the possible positions and kinetic energies of 
+the molecules making up the system. We will also see that the number of microstates 
+increases as the complexity of the molecule increases because there are more vibra-
+tional motions available.
+Chemists have several ways of describing an increase in the number of microstates 
+possible for a system and therefore an increase in the entropy for the system. Each way 
+seeks to capture a sense of the increased f

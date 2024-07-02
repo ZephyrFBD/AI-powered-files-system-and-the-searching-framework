@@ -1,0 +1,27 @@
+next—it is called 
+an intermediate. Multistep mechanisms involve one or more inter-
+mediates. Intermediates are not the same as transition states, as shown 
+in Figure 14.19. Intermediates can be stable and can therefore sometimes 
+be identified and even isolated. Transition states, on the other hand, are 
+always inherently unstable and as such can never be isolated. Neverthe-
+less, the use of advanced “ultrafast” techniques sometimes allows us to 
+characterize them.
+Go Figure
+For this profile, which elementary reaction rate is 
+faster, intermediates converting to products or 
+intermediates converting back to reactants?
+Potential energy
+Reaction progress
+Reactants
+Intermediates
+Products
+Transition
+state
+Transition
+state
+▲ Figure 14.19 The energy profile of a reaction, showing 
+transition states and an intermediate.
+It has been proposed that the conversion of ozone into O2 proceeds by a two-step mechanism:
+O31g2 ¡ O21g2 + O1g2
+O31g2 + O1g2 ¡ 2 O21g2
+(a) Describe the molecularity of each 

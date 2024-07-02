@@ -1,0 +1,41 @@
+ith
+Thus we see that the Balmer series of lines corresponds to
+transitions or “jumps” that bring the electron down to the second energy level.
+Similarly,
+corresponds to the Lyman series and 
+to the Paschen
+series (see Fig. 27–29).
+When the constant in Eq. 27–16 is evaluated with 
+it is found to have
+the measured value of the Rydberg constant,
+in Eq. 27–9,
+in accord with experiment (see Problem 54).
+R = 1.0974 * 107 m–1
+Z = 1,
+n¿ = 3
+n¿ = 1
+n¿ = 2.
+1
+l = 2p2Z2e4mk2
+h3c
+¢ 1
+n¿2 - 1
+n2 ≤.
+n¿
+1
+l = hf
+hc
+=
+1
+hc AEn - En¿B,
+hf = hcl,
+n = 2
+n = 4
+n = 2
+n = 3
+The great success of Bohr’s model is that it gives an explanation for why atoms
+emit line spectra, and accurately predicts the wavelengths of emitted light for
+hydrogen. The Bohr model also explains absorption spectra: photons of just the
+right wavelength can knock an electron from one energy level to a higher one. To
+conserve energy, only photons that have just the right energy will be absorbed. This
+explains why a continuous spectrum 

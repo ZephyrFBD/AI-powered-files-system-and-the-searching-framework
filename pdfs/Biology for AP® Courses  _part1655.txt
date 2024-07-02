@@ -1,0 +1,11 @@
+on of Promoters
+The evolution of genes may be a familiar concept. Mutations can occur in genes during DNA replication, and
+the result may or may not be beneficial to the cell. By altering an enzyme, structural protein, or some other
+factor, the process of mutation can transform functions or physical features. However, eukaryotic promoters
+and other gene regulatory sequences may evolve as well. For instance, consider a gene that, over many
+generations, becomes more valuable to the cell. Maybe the gene encodes a structural protein that the cell
+needs to synthesize in abundance for a certain function. If this is the case, it would be beneficial to the cell
+for that gene’s promoter to recruit transcription factors more efficiently and increase gene expression.
+Scientists examining the evolution of promoter sequences have reported varying results. In part, this is
+because it is difficult to infer exactly where a eukaryotic promoter begins and ends. Some promoters occur
+within genes; others 

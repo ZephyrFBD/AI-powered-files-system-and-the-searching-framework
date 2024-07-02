@@ -1,0 +1,56 @@
+ kmsMly
+25 kmsMly.
+H
+0
+H
+0
+v = H
+0d.
+v
+v 6 0
+v
+lobs
+lrest
+B source and observer moving
+away from each other
+R
+lobs = lrest B
+1 + vc
+1 - vc
+,
+964
+CHAPTER 33
+Astrophysics and Cosmology
+†For light there is no medium and we can make no distinction between motion of the source and
+motion of the observer (special relativity), as we did for sound which travels in a medium.
+HUBBLE’S LAW
+500
+Wavelength (nm)
+Intensity
+600
+700
+500
+Wavelength (nm)
+Intensity
+600
+700
+Low redshift galaxy spectrum
+z  0.004
+Higher redshift galaxy spectrum
+z  0.104
+(a)
+(b)
+FIGURE 33–20 Atoms and molecules
+emit and absorb light of particular
+frequencies depending on the spacing 
+of their energy levels, as we saw in
+Chapters 27 to 29. (a) The spectrum
+of light received from a relatively
+slow-moving galaxy. (b) Spectrum of a
+galaxy moving away from us at a much
+higher speed. Note how the peaks (or
+lines) in the spectrum have moved to
+longer wavelengths. The redshift is
+z = Alobs - lrestBlrest.
+Redshift Origins
+Gal

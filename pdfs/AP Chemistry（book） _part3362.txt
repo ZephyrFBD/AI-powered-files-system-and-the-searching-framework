@@ -1,0 +1,21 @@
+series occur in nature: uranium-238 to lead-206, uranium-235 to lead-207, and 
+ 
+thorium-232 to lead-208. All of the decay processes in these series are either alpha 
+emissions or beta emissions.
+ 
+SECTION 21.2   
+Patterns of Nuclear Stability 
+907
+908 
+CHAPTER 21 Nuclear Chemistry
+Further Observations
+Two further observations can help us to predict stable nuclei:
+t Nuclei with the magic numbers of 2, 8, 20, 28, 50, or 82 protons or 2, 8, 20, 28, 50, 
+82, or 126 neutrons are generally more stable than nuclei that do not contain these 
+numbers of nucleons.
+t Nuclei with even numbers of protons, neutrons, or both are more likely to be stable 
+than those with odd numbers of protons and/or neutrons. Approximately 60% of 
+stable nuclei have an even number of both protons and neutrons, whereas less than 
+2% have odd numbers of both (Table 21.4).
+These observations can be understood in terms of the shell model of the nucleus, in 
+which nucleons are described as residing in shells analogous 

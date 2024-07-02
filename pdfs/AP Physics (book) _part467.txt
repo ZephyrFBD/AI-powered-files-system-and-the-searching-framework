@@ -1,0 +1,51 @@
+ a circular path: the net force is directed toward the circle’s center. The
+force must be applied by other objects. For example, to swing a ball in a circle on
+the end of a string, you pull on the string and the string exerts the force on the
+ball. (Try it.) Here, the “centripetal force” that provides the centripetal accelera-
+tion is tension in the string. In other cases it can be gravity (on the Moon, for example),
+a normal force, or even an electric force.
+aR,
+(v = constant),
+©F
+R = maR = m v2
+r
+.
+©F
+R
+aR = v2r,
+aR
+©F
+R = maR,
+A©F
+B = ma
+BB,
+aR = 2.78 * 10–4 g,
+L  0.0003 g.
+aR = 2.72 * 10–3 ms2 a
+g
+9.80 ms2 b
+= 2.78 * 10–4 g
+g = 9.80 ms2
+= 0.00272 ms2 = 2.72 * 10–3 ms2.
+aR = v2
+r
+= (2pr)2
+T2r
+= 4p2r
+T2
+=
+4p2A3.84 * 108 mB
+A2.36 * 106 sB2
+T = (27.3 d)(24.0 hd)(3600 sh) = 2.36 * 106 s.
+v = 2prT.
+r = 3.84 * 108 m
+2pr,
+aR.
+EXAMPLE 5;2
+112
+CHAPTER 5
+Circular Motion; Gravitation
+C A U T I O N
+Distinguish the Moon’s 
+gravity on objects at its surface
+from the Earth’s gravity actin

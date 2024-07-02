@@ -1,0 +1,49 @@
+–6
+1
+B
+1
+A
+at T0
+l0
+Δl
+at T
+l
+FIGURE 13–9 A thin rod of length 
+at temperature 
+is heated to a new
+uniform temperature T and acquires
+length 
+where l = l0 + ¢l.
+l,
+T
+0
+l0
+Bridge expansion. The steel bed of a suspension bridge is
+200 m long at 20°C. If the extremes of temperature to which it might be exposed
+are 
+to 
+how much will it contract and expand?
+APPROACH We assume the bridge bed will expand and contract linearly with
+temperature, as given by Eq. 13–1a.
+SOLUTION From Table 13–1, we find that
+for steel. The
+increase in length when it is at 40°C will be
+or 4.8 cm. When the temperature decreases to
+Then
+or a decrease in length of 12 cm. The total range the expansion joints must
+accommodate is
+(Fig. 13–3).
+12 cm + 4.8 cm L 17 cm
+¢l = A12 * 10–6C°B(200 m)(–50 C°) =
+–12.0 * 10–2 m,
+–30°C,  ¢T = –50 C°.
+¢l = al0 ¢T = A12 * 10–6C°B(200 m)(40°C - 20°C) = 4.8 * 10–2 m,
+a = 12 * 10–6(C°)–1
+±40°C,
+–30°C
+EXAMPLE 13;3
+SECTION 13–4
+Thermal Expansion
+365
+P H Y S I C S  A P P L I E D
+Expansi

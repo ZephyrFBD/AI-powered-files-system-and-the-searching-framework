@@ -1,0 +1,45 @@
+o
+forces, plus the gravitational and electromagnetic forces, are
+the four known types of force.
+b
+b
+g
+b
+4
+2He
+a
+g
+a, b,
+c2
+1 u = 931.5 MeVc2 = 1.66 * 10–27 kg.
+E = mc2
+12
+6C
+A
+1
+3,
+A
+ZX.
+A - Z.
+Electric charge, linear and angular momentum, mass–energy,
+and nucleon number are conserved in all decays.
+Radioactive decay is a statistical process. For a given type
+of radioactive nucleus, the number of nuclei that decay 
+in a time 
+is proportional to the number N of parent nuclei
+present:
+(30;3a)
+the minus sign means N decreases in time.
+The proportionality constant is called the decay constant
+and is characteristic of the given nucleus. The number N of
+nuclei remaining after a time decreases exponentially,
+(30;4)
+as does the activity,
+(30;5)
+The half-life,
+is the time required for half the nuclei of a
+radioactive sample to decay. It is related to the decay constant
+by
+(30;6)
+Radioactive dating is the use of radioactive decay to deter-
+mine the age of certain objects, such as carbon dating.

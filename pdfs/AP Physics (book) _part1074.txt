@@ -1,0 +1,16 @@
+ust be overcome by the plane’s engines.)
+A flat wing, or one with symmetric cross section, will experience lift as long as
+the front of the wing is tilted upward (attack angle). The wing shown in Fig. 10–25
+can experience lift even if the attack angle is zero, because the rounded upper
+surface deflects air up, squeezing the streamlines together. Airplanes can fly upside
+down, experiencing lift, if the attack angle is sufficient to deflect streamlines up
+and closer together.
+Our picture considers streamlines; but if the attack angle is larger than about
+15°, turbulence sets in (Fig. 10–18b) leading to greater drag and less lift, causing
+the plane to “stall” and then to drop.
+From another point of view, the upward tilt of a wing means the air moving
+horizontally in front of the wing is deflected downward; the change in momentum
+of the rebounding air molecules results in an upward force on the wing (Newton’s
+third law).
+Sailboats
+A sailboat can move “against” the wind, with the aid of the

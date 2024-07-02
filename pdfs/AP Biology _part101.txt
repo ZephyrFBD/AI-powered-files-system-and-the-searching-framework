@@ -1,0 +1,21 @@
+n. See Figure 3.22.
+Figure 3.22 Ion-Channel Receptor
+STUDY TIP
+You need to know the 3 types of cell surface receptors for the AP Biology exam.
+******ebook converter DEMO Watermarks*******
+2.
+3.
+G protein–coupled receptors (GPCR) are cell surface receptors
+that work with the help of G protein. When a ligand, the first
+messenger, binds to the extracellular domain of the receptor, it
+changes the conformation of the cytoplasmic side of the receptor.
+This, in turn, activates G protein—an on-off molecular switch.
+When G protein is activated, or “on,” it bonds to GTP (guanosine
+triphosphate, a high-energy nucleotide similar to ATP), which
+activates the enzyme adenylyl cyclase. This enzyme, in turn,
+catalyzes the conversion of ATP to cyclic-AMP (cAMP), the
+second messenger. It is this cAMP that activates other molecules
+inside a cell, leading to a cellular response. See Figure 3.23.
+Figure 3.23 G Protein-Coupled Receptor (GPCR)
+Receptor Tyrosine Kinases (RTKs) belong to a class of plasma
+membr

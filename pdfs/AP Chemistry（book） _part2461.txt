@@ -1,0 +1,16 @@
+he system is at equilibrium, 
+Q = K. If Q ≠K, however, the system is not at equilibrium. When 
+Q 6 K, the reaction will move toward equilibrium by forming more 
+products (the reaction proceeds from left to right); when Q 7 K, the 
+reaction will move toward equilibrium by forming more reactants (the 
+reaction proceeds from right to left). Knowing the value of K makes it 
+possible to calculate the equilibrium amounts of reactants and prod-
+ucts, often by the solution of an equation in which the unknown is 
+the change in a partial pressure or concentration.
+LE CHÂTELIER’S PRINCIPLE (SECTION 15.7) Le Châtelier’s prin-
+ciple states that if a system at equilibrium is disturbed, the equilib-
+rium will shift to minimize the disturbing influence. Therefore, if a 
+reactant or product is added to a system at equilibrium, the equilib-
+rium will shift to consume the added substance. The effects of remov-
+ing reactants or products and of changing the pressure or volume of 
+a reaction can be similarl

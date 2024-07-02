@@ -1,0 +1,15 @@
+ions to establish the Spread Model. The 
+basic model is model 1, in this model we suppose that EVA spreads in the 
+absence of any additional medication, which means λ (The number of 
+susceptible people infected by one infective person every week) and μ (the 
+proportion of dead and cured people in patients every week) are constant. The 
+two improved models take the function of the drugs and the vaccine into 
+consideration. In the improved models, the amounts of vaccines used on the 
+susceptible people are related to λ, the amounts of drugs used on the infective 
+people have relationship with μ, both λ and μ change with time. In improved 
+modeⅠ, we only consider the influence of the vaccines and in improved 
+modelⅡ, we take the influence of both the drugs and the vaccines into 
+consideration). As a result, the two improved models are more realistic.  
+4.2 Production model: 
+Due to the restrictions with technology, supply is supposed to be less than 
+demand at the beginning. In such situa

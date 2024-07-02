@@ -1,0 +1,59 @@
+9.80 ms2
+g L
+1
+3600 g.
+g = 9.80 ms2,
+aR = 0.00272 ms2.
+F
+G,
+†To deal with the conceptual difficulty of “action at a distance,” the idea of a gravitational field was intro-
+duced many years later: every object that has mass produces a gravitational field in space. The force
+one object exerts on a second object is then due to the gravitational field produced by the first object at
+the position of the second object. We discuss fields in Section 16–7.
+Moon
+Gravitational
+force exerted on
+Moon by Earth
+Earth
+Gravitational force 
+exerted on Earth
+by the Moon
+ME
+F
+B
+EM
+F
+B
+FIGURE 5;17 The gravitational
+force one object exerts on a second
+object is directed toward the first
+object; and, by Newton’s third law,
+is equal and opposite to the force
+exerted by the second object on the
+first. In the case shown, the
+gravitational force on the Moon 
+due to Earth,
+is equal and
+opposite to the gravitational force
+on Earth due to the Moon,
+That is, F
+B
+ME = –F
+B
+EM.
+F
+B
+EM.
+F
+B
+ME ,
+G
+G
+G
+F
+B
+F
+B
+F
+B
+FI

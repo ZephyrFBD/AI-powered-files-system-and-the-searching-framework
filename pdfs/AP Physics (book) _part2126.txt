@@ -1,0 +1,15 @@
+tes how seriously a meter can affect a circuit and give
+a misleading reading. If the resistance of a voltmeter is much higher than the
+resistance of the circuit, however, it will have little effect and its readings can be
+more accurate, at least to the manufactured precision of the meter, which for
+analog meters is typically 3% to 4% of full-scale deflection. Even an ammeter can
+interfere with a circuit, but the effect is minimal if its resistance is much less than
+that of the circuit as a whole. For both voltmeters and ammeters, the more sensi-
+tive the galvanometer, the less effect it will have on the circuit. [A 
+meter is far better than a 
+]
+Whenever we make a measurement on a circuit, to some degree we affect
+that circuit (Example 19–17). This is true for other types of measurement as well:
+when we make a measurement on a system, we affect that system in some way.
+On a temperature measurement, for example, the thermometer can exchange
+heat with the system, thus altering the temper

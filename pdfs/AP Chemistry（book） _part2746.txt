@@ -1,0 +1,18 @@
+lution is in contact with undissolved sol-
+ute. 
+ (Section 13.2) Consider, for example, a saturated aqueous solution of BaSO4 in contact 
+with solid BaSO4. Because the solid is an ionic compound, it is a strong electrolyte and yields 
+Ba2 +1aq2 and SO4
+2 -1aq2 ions when dissolved in water, readily establishing the equilibrium
+ 
+BaSO41s2 ∆ Ba2 +1aq2 + SO4
+2 -1aq2 
+[17.15]
+As with any other equilibrium, the extent to which this dissolution reaction occurs is ex-
+pressed by the magnitude of the equilibrium constant. Because this equilibrium equation 
+describes the dissolution of a solid, the equilibrium constant indicates how soluble the 
+solid is in water and is referred to as the solubility-product constant (or simply the 
+solubility product). It is denoted Ksp, where sp stands for solubility product.
+The equilibrium-constant expression for the equilibrium between a solid and an aque-
+ous solution of its component ions 1Ksp2 is written according to the rules that apply to any 
+other equ

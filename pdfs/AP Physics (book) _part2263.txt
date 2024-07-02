@@ -1,0 +1,20 @@
+of these statements are valid.
+12. Two parallel wires are vertical. The one on the left carries
+a 10-A current upward. The other carries 5-A current down-
+ward. Compare the magnitude of the force that each wire
+exerts on the other.
+(a) The wire on the left carries twice as much current, so
+it exerts twice the force on the right wire as the right
+one exerts on the left one.
+(b) The wire on the left exerts a smaller force. It creates a
+magnetic field twice that due to the wire on the right;
+and therefore has less energy to cause a force on the
+wire on the right.
+(c) The two wires exert the same force on each other.
+(d) Not enough information; we need the length of the wire.
+20–3 Force on Electric Current in Magnetic Field
+1. (I) (a) What is the force per meter of length on a straight
+wire carrying a 6.40-A current when perpendicular to
+a 0.90-T uniform magnetic field? (b) What if the angle
+between the wire and field is 35.0°?
+2. (I) How much current is flowing in a wire 4.80 m long if th

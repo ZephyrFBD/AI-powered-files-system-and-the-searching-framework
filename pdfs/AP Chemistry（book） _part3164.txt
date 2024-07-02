@@ -1,0 +1,26 @@
+ke the number of electrons lost 
+in the oxidation half-reaction equal the number of electrons gained in the reduc-
+tion half-reaction.
+ 
+4. Add half-reactions and, if possible, simplify by canceling species appearing on both 
+sides of the combined equation.
+ 
+5. Check to make sure that atoms and charges are balanced.
+As an example, let’s consider the reaction between permanganate ion 1MnO4
+-2 and 
+oxalate ion 1C2O4
+2-2 in acidic aqueous solution (Figure 20.2). When MnO4
+- is added to 
+an acidified solution of C2O4
+2-, the deep purple color of the MnO4
+- ion fades, bubbles 
+of CO2 form, and the solution takes on the pale pink color of Mn2+. We can write the 
+skeleton equation as
+ 
+MnO4
+-1aq2 + C2O4
+2-1aq2 ¡ Mn2+1aq2 + CO21aq2 
+[20.6]
+Experiments show that H+ is consumed and H2O is produced in the reaction. We will see 
+that their involvement in the reaction is deduced in the course of balancing the equation.
+To complete and balance Equation 20.6, we first write the two half-reactions (S

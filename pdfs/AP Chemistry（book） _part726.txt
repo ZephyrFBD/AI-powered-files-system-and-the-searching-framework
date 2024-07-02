@@ -1,0 +1,20 @@
+ the process. For example, 890 kJ of heat is pro-
+duced when 1 mol of CH4 is burned in a constant-pressure system:
+ 
+CH41g2 + 2 O21g2 ¡ CO21g2 + 2 H2O1l2   ∆H = -890 kJ 
+[5.17]
+Because the combustion of 1 mol of CH4 with 2 mol of O2 releases 890 kJ of heat, the 
+combustion of 2 mol of CH4 with 4 mol of O2 releases twice as much heat, 1780 kJ. 
+Although chemical equations are usually written with whole-number coefficients, 
+thermochemical equations sometimes utilize fractions, as in the preceding Give It 
+Some Thought question.
+2. The enthalpy change for a reaction is equal in magnitude, but opposite 
+in sign, to ∆H for the reverse reaction. For example, ∆H for the reverse of 
+Equation 5.17 is +890 kJ:
+ 
+CO21g2 + 2 H2O1l2 ¡ CH41g2 + 2 O21g2   ∆H = +890 kJ 
+[5.18]
+When we reverse a reaction, we reverse the roles of the products and the reactants. 
+From Equation 5.15, we see that reversing the products and reactants leads to the 
+same magnitude of ∆H, but a change in sign (Figure 5.15).
+3

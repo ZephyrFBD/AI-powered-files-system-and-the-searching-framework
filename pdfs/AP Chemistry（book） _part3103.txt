@@ -1,0 +1,17 @@
+tropy term -T∆S has the greater effect on the temperature de-
+pendence of ∆G and, hence, on the spontaneity of the process. 
+For example, a process for which ∆H 7 0 and ∆S 7 0, such as 
+the melting of ice, can be nonspontaneous 1∆G 7 02 at low tem-
+peratures and spontaneous 1∆G 7 02 at higher temperatures. Un-
+der nonstandard conditions, ∆G is related to ∆G° and the value of 
+the reaction quotient, Q: ∆G = ∆G° + RT ln Q. At equilibrium 
+1∆G = 0, Q = K2, ∆G° = -RT ln K. Thus, the standard free-energy 
+change is directly related to the equilibrium constant for the reac-
+tion. This relationship expresses the temperature dependence of 
+equilibrium constants.
+Learning Outcomes after studying this chapter, you should be able to:
+t Explain and apply the terms spontaneous process, reversible pro-
+cess, irreversible process, and isothermal process. (Section 19.1) 
+Related Exercises: 19.11–19.14
+t Define entropy and state the second law of thermodynamics. 
+(Section 19.2) Related Exercises: 19.

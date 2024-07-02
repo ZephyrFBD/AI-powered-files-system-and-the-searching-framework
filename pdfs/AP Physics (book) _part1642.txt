@@ -1,0 +1,46 @@
+c motor to “pump” heat
+from the cold outside to the warm
+inside of a house.
+P H Y S I C S  A P P L I E D
+Air conditioner
+Making ice. A freezer has a COP of 2.8 and uses 200 watts
+of power. How long would it take to freeze an ice-cube tray that contains 600 g
+of water at 0°C?
+APPROACH In Eq. 15–6b,
+is the heat that must be transferred out of the
+water so it will become ice. To determine 
+we use the latent heat of fusion L
+of water and Eq. 14–4,
+SOLUTION From Table 14–3,
+for water. Hence
+is the total energy that needs to be removed from the water. The freezer does
+work at the rate of
+which is the work W it can do in
+seconds. We solve for :
+For W, we can also use Eq. 15–6b:
+Thus
+or about 6 min.
+=
+2.0 * 105 J
+(2.8)(200 Js) = 360 s,
+t =
+W
+200 Js
+= QLCOP
+200 Js
+W = QLCOP.
+t = W(200 Js).
+t
+t
+200 Js = Wt,
+200 watts =
+(0.600 kg)A3.33 * 105 JkgB
+= 2.0 * 105 J
+QL = mL =
+L = 333 kJkg
+Q = mL.
+QL,
+QL
+EXAMPLE 15;11
+Heat naturally flows from high temperature to low temperature. Refrigera-
+t

@@ -1,0 +1,15 @@
+ther is made to move, Fig. 10–31. The fluid directly in 
+contact with each plate is held to the surface by the adhesive force between the
+molecules of the liquid and those of the plate. Thus the upper surface of the 
+fluid moves with the same speed v as the upper plate, whereas the fluid in contact
+with the stationary plate remains stationary. The stationary layer of fluid retards
+the flow of the layer just above it, which in turn retards the flow of the next layer,
+and so on. Thus the velocity varies continuously from 0 to v, as shown. The
+increase in velocity divided by the distance over which this change is made—equal
+to
+—is called the velocity gradient. To move the upper plate requires a force,
+which you can verify by moving a flat plate across a puddle of syrup on a table.
+For a given fluid, it is found that the force required, F, is proportional to the 
+area of fluid in contact with each plate, A, and to the speed, v, and is inversely
+proportional to the separation,
+of the plates

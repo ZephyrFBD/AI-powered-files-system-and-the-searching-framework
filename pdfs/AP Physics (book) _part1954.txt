@@ -1,0 +1,14 @@
+ electrode
+becomes positively charged. Because there is an opposite charge on the two elec-
+trodes, there is a potential difference between the two terminals.
+In a cell whose terminals are not connected, only a small amount of the zinc
+is dissolved, for as the zinc electrode becomes increasingly negative, any new
+positive zinc ions produced are attracted back to the electrode. Thus, a particular
+potential difference (or voltage) is maintained between the two terminals. If charge
+is allowed to flow between the terminals, say, through a wire (or a lightbulb),
+then more zinc can be dissolved. After a time, one or the other electrode is used up
+and the cell becomes “dead.”
+The voltage that exists between the terminals of a battery depends on what the
+electrodes are made of and their relative ability to be dissolved or give up electrons.
+When two or more cells are connected so that the positive terminal of one is
+connected to the negative terminal of the next, they are said to be connected 

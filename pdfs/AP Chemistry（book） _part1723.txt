@@ -1,0 +1,20 @@
+H22, methyl fluoride 1CH3F2, hydrogen sulfide 1H2S2?
+Sample Exercise 11.1 
+Identifying Substances That Can Form Hydrogen Bonds
+SOLUTION
+Analyze We are given the chemical formulas of four compounds 
+and asked to predict whether they can participate in hydrogen 
+bonding. All the compounds contain H, but hydrogen bonding 
+usually occurs only when the hydrogen is covalently bonded to  
+N, O, or F.
+Plan We analyze each formula to see if it contains N, O, or F di-
+rectly bonded to H. There also needs to be a nonbonding pair 
+of electrons on an electronegative atom (usually N, O, or F) in a 
+nearby molecule, which can be revealed by drawing the Lewis 
+structure for the molecule.
+Solve The foregoing criteria eliminate CH4 and H2S, which do not 
+contain H bonded to N, O, or F. They also eliminate CH3F, whose 
+Lewis structure shows a central C atom surrounded by three H 
+atoms and an F atom. (Carbon always forms four bonds, whereas 
+hydrogen and fluorine form one each.) Because the molecule 
+con

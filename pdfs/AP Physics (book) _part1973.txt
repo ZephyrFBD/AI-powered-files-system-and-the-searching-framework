@@ -1,0 +1,71 @@
+ or other device. The amount of charge that goes in at one end
+comes out at the other end.
+(–).
+(±)
+508
+CHAPTER 18
+Electric Currents
+TABLE 18–1 Resistivity and T
+emperature Coefficients (at 20°C)
+Resistivity,
+Temperature 
+Material
+Coefficient,
+Conductors
+Silver 
+0.0061
+Copper 
+0.0068
+Gold 
+0.0034
+Aluminum 
+0.00429
+Tungsten 
+0.0045
+Iron 
+0.00651
+Platinum 
+0.003927
+Mercury 
+0.0009
+Nichrome (Ni, Fe, Cr alloy) 
+0.0004
+Semiconductors‡
+Carbon (graphite) 
+0.0005
+Germanium 
+0.05
+Silicon 
+0.1–60
+0.07
+Insulators
+Glass
+Hard rubber 
+‡ Values depend strongly on the presence of even slight amounts of impurities.
+1013–1015
+109–1012
+–
+–
+(1–500) * 10–3
+–
+(3–60) * 10–5
+100
+* 10–8
+98
+* 10–8
+10.6
+* 10–8
+9.71 * 10–8
+5.6
+* 10–8
+2.65 * 10–8
+2.44 * 10–8
+1.68 * 10–8
+1.59 * 10–8
+A (C°)1
+R (  m)
+C A U T I O N
+Current is not consumed
+18–4 Resistivity
+It is found experimentally that the resistance R of a uniform wire is directly pro-
+portional to its length and inversely proportional to its cross-sectional area

@@ -1,0 +1,33 @@
+ the 
+helium-4 nucleus (an alpha particle) has a mass of 4.00150 amu. The mass of a proton is 
+1.00728 amu and that of a neutron is 1.00866 amu. Consequently, two protons and two 
+neutrons have a total mass of 4.03188 amu:
+ 
+Mass of two protons = 211.00728 amu2 = 2.01456 amu
+ 
+Mass of two neutrons = 211.00866 amu2 = 2.01732 amu
+         
+ 
+ 
+ 
+ 
+  Total mass = 4.03188 amu
+The mass of the individual nucleons is 0.03038 amu greater than that of the helium-4 nucleus:
+ 
+Mass of two protons and two neutrons = 4.03188 amu
+ 
+Mass of 4
+2He nucleus = 4.00150 amu
+ 
+Mass difference ∆m = 0.03038 amu
+The mass difference between a nucleus and its constituent nucleons is called the 
+mass defect. The origin of the mass defect is readily understood if we consider that 
+energy must be added to a nucleus to break it into separated protons and neutrons:
+ 
+Energy + 4
+2He ¡ 2 1
+1H + 2 1
+0n 
+[21.23]
+By Einstein’s relation, the addition of energy to a system must be accompanied by a pro-
+portional increase in

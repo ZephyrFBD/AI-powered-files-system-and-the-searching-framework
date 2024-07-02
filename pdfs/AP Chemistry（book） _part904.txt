@@ -1,0 +1,13 @@
+ius of the orbit gets 
+larger as n increases. Thus, the first allowed orbit (the one closest to the nucleus) has 
+n = 1, the next allowed orbit (the one second closest to the nucleus) has n = 2, and so 
+forth. The electron in the hydrogen atom can be in any allowed orbit, and Equation 6.5 
+tells us the energy the electron has in each allowed orbit.
+Note that the energies of the electron given by Equation 6.5 are negative 
+for all values of n. The lower (more negative) the energy is, the more stable the atom 
+is. The energy is lowest (most negative) for n = 1. As n gets larger, the energy becomes 
+less negative and therefore increases. We can liken the situation to a ladder in which 
+the rungs are numbered from the bottom. The higher one climbs (the greater the value 
+of n), the higher the energy. The lowest-energy state (n = 1, analogous to the bottom 
+rung) is called the ground state of the atom. When the electron is in a higher-energy 
+state (n = 2 or higher), the atom is said to be 

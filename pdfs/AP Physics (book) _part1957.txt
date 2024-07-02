@@ -1,0 +1,32 @@
+
+and the cathode is carbon. Electric cars need no gear changes and can develop
+full torque starting from rest, and so can accelerate quickly and smoothly. The
+distance an electric car can go between charges of the battery (its “range”) is an
+important parameter because each recharging of an electric car battery may take
+hours, not minutes like a gas fill-up. Because charging an electric car can draw 
+a large current over a period of several hours, electric power companies 
+may need to upgrade their power grids so they won’t fail when many electric cars
+are being charged at the same time in a small urban area.
+504
+CHAPTER 18
+C A U T I O N
+A battery does not create charge;
+a lightbulb does not destroy charge
+Electric
+current
+Electric
+current
+Device
+(bulb)
++
+–
+(b) A
+B
+(a)
+FIGURE 18–6 (a) A simple electric
+circuit. (b) Schematic drawing of the
+same circuit, consisting of a battery,
+connecting wires (thick gray lines),
+and a lightbulb or other device.
+18–2 Electric Current
+The purpose of a 

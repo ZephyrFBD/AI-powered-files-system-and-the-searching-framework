@@ -1,0 +1,15 @@
+rticle-like behaviors of the electron. His work opened a new approach to dealing 
+with subatomic particles, an approach known as quantum mechanics or wave mechan-
+ics. The application of Schrödinger’s equation requires advanced calculus, and so we 
+will not be concerned with its details. We will, however, qualitatively consider the 
+results Schrödinger obtained because they give us a powerful new way to view elec-
+tronic structure. Let’s begin by examining the electronic structure of the simplest 
+atom, hydrogen.
+Schrödinger treated the electron in a hydrogen atom like the wave on a plucked gui-
+tar string (Figure 6.16). Because such waves do not travel in space, they are called standing 
+waves. Just as the plucked guitar string produces a standing wave that has a fundamen-
+tal frequency and higher overtones (harmonics), the electron exhibits a  
+lowest-energy 
+Do the implications of the uncertainty principle become more or less important as 
+the mass of an object increases?
+Give It So

@@ -1,0 +1,11 @@
+rotein and an effector molecule.
+2. The RTK receptor may trigger multiple transduction pathways, directing a host of coordinated cellular responses.
+In contrast, a typical GPCR triggers a single transduction pathway, ultimately activating a single final product that
+leads to a specific cellular response.
+Insulin signal transduction is an example of an RTK pathway. Insulin, a protein hormone produced in the
+pancreas, is secreted into the blood in response to excess glucose in the blood. The hormone regulates the cellular
+intake and utilization of glucose. Insulin, the signaling molecule, binds to the insulin receptor, an RTK of target
+cells. Binding stimulates conformational changes that activate the receptor, which then trigger the formation of an
+RTK dimer and autophosphorylation. Then, the complex binds to and phosphorylates an insulin response protein.
+This response protein, now activated, initiates several signaling cascades. In muscle cells, one cascade leads to
+glycogen synthesis

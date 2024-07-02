@@ -1,0 +1,27 @@
+nt that has low levels of glucose and high levels of lactose. Predict the
+level of expression of the lac operon in this environment.
+(d) Justify your prediction from part (c).
+12. A student conducts an experiment in an effort to determine whether a specific bacterial operon is inducible or
+repressible. The level of transcription of the operon was measured after the addition of different molecules to
+the bacteria’s environment. Data are shown in the table.
+Fructose
+Lysine
+Level of Transcription
+Absent
+Absent
+High
+Absent
+Present
+Low
+Present
+Absent
+High
+Present
+Present
+Low
+(a) Describe what, if any, effect levels of fructose have on the level of transcription of the operon.
+(b) Describe what, if any, effect levels of lysine have on the level of transcription of the operon.
+(c) Make a claim about whether this operon is more likely inducible or repressible.
+(d) Justify your claim from part (c) using evidence from the experiment and your knowledge of inducible and
+repressible operons.
+Long F

@@ -1,0 +1,20 @@
+er why the energy
+in an energy-rich molecule like NADH is removed and put into the formation of ethanol, essentially a waste product
+that eventually kills the yeast (and other organisms) that produce it. The goal of this pathway, however, does not
+really concern ethanol, but the
+task of freeing NAD+to allow glycolysis to continue. Recall that in the
+ 
+absence of O2, all the NAD+is bottled up in NADH. This is because
+ 
+oxidative phosphorylation cannot accept the electrons of NADH without oxygen. The purpose of the fermentation
+pathway, then, is to release some
+ 
+NAD+for use by glycolysis. The reward for this effort is 2 ATP from
+ 
+glycolysis for each 2 converted pyruvate. This is not much, but it’s better than the alternative—0 ATP and imminent
+cellular death.
+Lactic Acid Fermentation
+Only one step occurs in lactic acid fermentation (Figure 4-3). A pyruvate is converted to lactate (or lactic acid); in
+the process, NADH gives up its
+ 
+electrons to form NAD+. As in alcohol fermentation, t

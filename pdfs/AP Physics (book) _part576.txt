@@ -1,0 +1,26 @@
+gravitational force exerted by the
+Earth,
+and the normal force 
+exerted upward by the floor. The net
+force on the crate is the vector sum of these four forces.
+SOLUTION (a) The work done by the gravitational force 
+and by the
+normal force
+is zero, because they are perpendicular to the displacement 
+(
+in Eq. 6–1):
+The work done by 
+is
+The work done by the friction force is
+The angle between the displacement 
+and 
+is 180° because they point in
+opposite directions. Since the force of friction is opposing the motion (and
+), the work done by friction on the crate is negative.
+(b) The net work can be calculated in two equivalent ways.
+(1) The net work done on an object is the algebraic sum of the work done by each
+force, since work is a scalar:
+(2) The net work can also be calculated by first determining the net force on the
+object and then taking the component of this net force along the displacement:
+Then the net work is
+In the vertical (y) direction, there is no displacement and no work d

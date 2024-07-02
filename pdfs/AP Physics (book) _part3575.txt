@@ -1,0 +1,20 @@
+
+by instruments. The photon is said to mediate, or carry, the electromagnetic
+force.
+By analogy with photon exchange that mediates the electromagnetic force,
+Yukawa argued that there ought to be a particle that mediates the strong nuclear
+force—the force that holds nucleons together in the nucleus. Yukawa called this
+predicted particle a meson (meaning “medium mass”). Figure 32–9 is a Feynman
+diagram showing the original model of meson exchange: a meson carrying the
+strong force between a neutron and a proton.
+A rough estimate of the mass of the meson can be made as follows. Suppose
+the proton on the left in Fig. 32–9 is at rest. For it to emit a meson would require
+energy (to make the meson’s mass) which, coming from nowhere, would violate
+conservation of energy. But the uncertainty principle allows nonconservation 
+of energy by an amount 
+if it occurs only for a time 
+given by
+We set 
+equal to the energy needed to create the mass m
+of the meson:
+Conservation of energy is violated onl

@@ -1,0 +1,14 @@
+principle of thermochemistry:
+Energy is released when chemical bonds are formed;
+energy is consumed when chemical bonds are broken.
+You may be wondering how these same principles apply to molecular substances 
+such as water, H2O, and methane, CH4, that do not contain cations and anions. As we 
+will learn in Chapters 8 and 9, the atoms in a molecule are held together by covalent 
+bonds. While the link to electrostatic potential energy is less obvious, the forces that 
+underlie covalent bonds are also electrostatic in nature. Just like ionic bonds, energy 
+must be provided to break covalent bonds and is released when they form.
+5.2 ∣ The First Law of Thermodynamics
+Energy comes in many different forms, including kinetic energy, which we encountered 
+in Chapter 1, and various types of potential energy. You don’t have to look far to find 
+processes that involve conversions from one form of energy to another. Dropping a stone 
+down a deep well converts gravitational potential energy into ki

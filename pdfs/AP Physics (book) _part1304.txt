@@ -1,0 +1,30 @@
+or a tube closed at
+one end (“closed tube”). See caption
+for Fig. 12–11.
+Organ pipes. What will be the fundamental frequency and
+first three overtones for a 26-cm-long organ pipe at 20°C if it is (a) open, (b) closed?
+APPROACH All our calculations can be based on Figs. 12–11a and 12–12a.
+SOLUTION (a) For the open pipe, Fig. 12–11a, the fundamental frequency is
+The speed v is the speed of sound in air (the air vibrating in the pipe). The over-
+tones include all harmonics: 1320 Hz, 1980 Hz, 2640 Hz, and so on.
+(b) For a closed pipe, Fig. 12–12a, the fundamental frequency is
+Only odd harmonics are present: the first three overtones are 990 Hz, 1650 Hz,
+and 2310 Hz.
+NOTE The closed pipe plays 330 Hz, which, from Table 12–3, is E above middle C,
+whereas the open pipe of the same length plays 660 Hz, an octave higher.
+f
+1 =
+v
+4l
+=
+343 ms
+4(0.26 m) = 330 Hz.
+f
+1 =
+v
+2l
+=
+343 ms
+2(0.26 m) = 660 Hz.
+EXAMPLE 12;10
+Pipe organs use both open and closed pipes, with lengths from a few centimeters

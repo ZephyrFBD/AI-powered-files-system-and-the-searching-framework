@@ -1,0 +1,27 @@
+ction to 
+perform the calculation:
+3H+4 = antilog 1-3.762 = 10-3.76 = 1.7 * 10-4 M
+Comment The number of significant figures in 3H+4 is two because 
+the number of decimal places in the pH is two.
+Check Because the pH is between 3.0 and 4.0, we know that 3H+4 
+will be between 1.0 * 10-3 M and 1.0 * 10-4 M. Our calculated 
+3H+4 falls within this estimated range.
+ 
+▶Practice Exercise 1
+A solution at 25 °C has pOH = 10.53. Which of the following 
+statements is or are true?
+(i) The solution is acidic.
+(ii) The pH of the solution is 14.00 - 10.53.
+(iii) For this solution, 3OH-4 = 10-10.53M.
+(a) Only one of the statements is true.
+(b) Statements (i) and (ii) are true.
+(c) Statements (i) and (iii) are true.
+(d) Statements (ii) and (iii) are true.
+(e) All three statements are true.
+ 
+▶Practice Exercise 2
+A solution formed by dissolving an antacid tablet has a pOH 
+of 4.82. Calculate 3H+4.
+▲ Figure 16.7 A digital pH meter. The 
+electrodes immersed in a solution produce 
+a voltage that depends on

@@ -1,0 +1,30 @@
+vered, the length of the vibrating air column
+is the full length. The speed of sound in air at 20°C is 
+Because a flute is
+open at both ends, we use Fig. 12–11: the fundamental frequency 
+is related 
+to the length of the vibrating air column by
+SOLUTION Solving for 
+we find
+l =
+v
+2f =
+343 ms
+2A262 s–1B
+= 0.655 m.
+l,
+f = v2l.
+l
+f
+1
+343 ms.
+EXAMPLE 12;11
+EXERCISE E To see why players of wind instruments “warm up” their instruments (so
+they will be in tune), determine the fundamental frequency of the flute of Example 12–11
+when all holes are covered and the temperature is 10°C instead of 20°C.
+Wind noise frequencies. Wind can be noisy—
+it can “howl” in trees; it can “moan” in chimneys. What is causing the noise, and
+about what range of frequencies would you expect to hear?
+APPROACH Gusts of air in the wind cause vibrations or oscillations of the tree
+limb (or air column in the chimney), which produce sound waves of the same
+frequency. The end of a tree limb fixed to the tree trunk is a

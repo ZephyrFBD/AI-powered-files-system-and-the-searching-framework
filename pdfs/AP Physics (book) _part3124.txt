@@ -1,0 +1,19 @@
+his: if we treat electrons (and other
+particles) as if they were waves, then 
+represents the wave amplitude. If we
+treat them as particles, then we must treat them on a probabilistic basis. The
+square of the wave function,
+gives the probability of finding a given electron
+at a given point. We cannot predict—or even follow—the path of a single 
+electron precisely through space and time.
+28–3 The Heisenberg Uncertainty Principle
+Whenever a measurement is made, some uncertainty is always involved. For
+example, you cannot make an absolutely exact measurement of the length of a
+table. Even with a measuring stick that has markings 1 mm apart, there will be an
+inaccuracy of perhaps 
+or so. More precise instruments will produce more
+precise measurements. But there is always some uncertainty involved in a
+measurement, no matter how good the measuring device. We expect that by
+using more precise instruments, the uncertainty in a measurement can be made
+indefinitely small.
+But according to quantu

@@ -1,0 +1,18 @@
+d answer it again
+now. Try to explain why you may have answered differently the first time. Describe the
+role of the helicopter in this example of projectile motion.
+Where does the apple land? A child sits
+upright in a wagon which is moving to the right at constant speed as shown in
+Fig. 3–21. The child extends her hand and throws an apple straight upward
+(from her own point of view, Fig. 3–21a), while the wagon continues to travel
+forward at constant speed. If air resistance is neglected, will the apple land
+(a) behind the wagon, (b) in the wagon, or (c) in front of the wagon?
+RESPONSE The child throws the apple straight up from her own reference frame
+with initial velocity 
+(Fig. 3–21a). But when viewed by someone on the ground,
+the apple also has an initial horizontal component of velocity equal to the speed of
+the wagon,
+Thus, to a person on the ground, the apple will follow the path of
+a projectile as shown in Fig. 3–21b. The apple experiences no horizontal accel-
+eration, so 
+wil

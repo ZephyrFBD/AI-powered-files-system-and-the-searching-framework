@@ -1,0 +1,31 @@
+e ¡ 4
+2He + 2 1
+1H 
+[21.28]
+ 
+3
+2He + 1
+1H ¡ 4
+2He +
+0
++1e 
+[21.29]
+Fusion is appealing as an energy source because of the availability of light isotopes 
+on Earth and because fusion products are generally not radioactive. Despite this fact, 
+fusion is not presently used to generate energy. The problem is that extremely high 
+temperatures and pressures are needed to overcome the electrostatic repulsion between 
+nuclei in order to fuse them. The lowest temperature required for any fusion is about 
+40,000,000 K, the temperature needed to fuse deuterium and tritium:
+ 
+2
+1H + 3
+1H ¡ 4
+2He + 1
+0n 
+[21.30]
+Fusion reactions are therefore also known as thermonuclear reactions.
+Such high temperatures have been achieved by using an atomic bomb to initiate 
+fusion. This is the operating principle behind a thermonuclear, or hydrogen, bomb. This 
+approach is obviously unacceptable, however, for a power generation plant.*
+Numerous problems must be overcome before fusion becomes a practical energy 
+s

@@ -1,0 +1,23 @@
+n inertial reference frame (the elevator itself
+is not now an inertial frame) we have
+Solving for w, we have
+We have chosen the positive direction up. Thus, if the acceleration a is up, a is
+positive; and the scale, which measures w, will read more than mg. We call w the
+apparent weight of the bag, which in this case would be greater than its actual
+weight (mg). If the elevator accelerates downward, a will be negative and w, the
+apparent weight, will be less than mg. The direction of the velocity 
+doesn’t
+matter. Only the direction of the acceleration 
+(and its magnitude) influences
+the scale reading.
+Suppose the elevator’s acceleration is 
+upward; then we find
+That is, the scale reads 
+times the actual weight of the bag (Fig. 5–24b). The
+apparent weight of the bag is 
+times its real weight. The same is true of the per-
+son: her apparent weight (equal to the normal force exerted on her by the elevator
+floor) is 
+times her real weight. We can say that she is experiencing 
+g’s, just 
+as 

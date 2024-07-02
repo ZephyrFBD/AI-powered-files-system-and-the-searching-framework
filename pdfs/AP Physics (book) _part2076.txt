@@ -1,0 +1,60 @@
+I
+1
+I
+3
+Junction rule 
+(conservation of charge)
+Loop rule 
+(conservation of energy)
+400 Ω 290 Ω
+12.0 V
+0
+7.0 V
+5.0 V
+12.0 V
+d
+e
+b
+c
+a
+e
+a
+d
+12.0 V
+400 Ω
+a
+b
+c
+290 Ω
+(a)
+(b)
++
+–
+e
+d
+I
+12
+V
+FIGURE 19–12 Changes in 
+potential around the circuit in (a) 
+are plotted in (b).
+P R O B L E M  S O L V I N G
+Be consistent with signs when
+applying the loop rule
+534
+CHAPTER 19
+DC Circuits
+4. Apply Kirchhoff’s loop rule for one or more loops:
+follow each loop in one direction only. Pay careful
+attention to subscripts, and to signs:
+(a) For a resistor, apply Ohm’s law; the potential
+difference is negative (a decrease) if your chosen
+loop direction is the same as the chosen current
+direction through that resistor. The potential
+difference is positive (an increase) if your chosen
+loop direction is opposite to the chosen current
+direction.
+(b) For a battery, the potential difference is positive if
+your chosen loop direction is from the negative
+terminal toward the positive terminal; the poten-
+tial diff

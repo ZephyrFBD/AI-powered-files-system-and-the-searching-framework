@@ -1,0 +1,14 @@
+ted (or absorbed) when an electron makes a transition from one state to
+another. But quantum mechanics is a much deeper theory, and has provided us
+with a very different view of the atom. According to quantum mechanics, electrons
+do not exist in well-defined circular orbits as in the Bohr model. Rather, the 
+electron (because of its wave nature) can be thought of as spread out in space as
+a “cloud.” The size and shape of the electron cloud can be calculated for a given
+state of an atom. For the ground state in the hydrogen atom, the electron cloud 
+is spherically symmetric, as shown in Fig. 28–6. The electron cloud at its higher
+densities roughly indicates the “size” of an atom. But just as a cloud may not 
+have a distinct border, atoms do not have a precise boundary or a well-defined
+size. Not all electron clouds have a spherical shape, as we shall see later in this
+Chapter.
+The electron cloud can be interpreted from either the particle or the wave
+viewpoint. Remember that by a partic

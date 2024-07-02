@@ -1,0 +1,12 @@
+is called the tryptophan (trp) operon (Figure 16.3). If tryptophan is present in the environment,
+then E. coli does not need to synthesize it and the switch controlling the activation of the genes in the trp operon is switched
+off. However, when tryptophan availability is low, the switch controlling the operon is turned on, transcription is initiated,
+the genes are expressed, and tryptophan is synthesized.
+640
+Chapter 16 | Gene Regulation
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 16.3 The five genes that are needed to synthesize tryptophan in E. coli are located next to each other in the trp
+operon. When tryptophan is plentiful, two tryptophan molecules bind the repressor protein at the operator sequence.
+This physically blocks the RNA polymerase from transcribing the tryptophan genes. When tryptophan is absent, the
+repressor protein does not bind to the operator and the genes are transcribed.
+A DNA sequence that codes for proteins is referr

@@ -1,0 +1,27 @@
+tom acts like a simple
+harmonic oscillator with a mass equal to the mass of an
+oxygen atom. It is observed that this oscillation occurs 
+at a frequency
+What is the spring
+constant of the 
+bond?
+C ¬ O
+f = 2.83 * 1013 Hz.
+x0
+FIGURE 11–59
+Problem 78.
+79. A bug on the surface of a pond is observed to move up and
+down a total vertical distance of 0.12 m, lowest to highest
+point, as a wave passes. (a) What is the amplitude of the
+wave? (b) If the amplitude increases to 0.16 m, by what
+factor does the bug’s maximum kinetic energy change?
+80. An earthquake-produced surface wave can be approximated
+by a sinusoidal transverse wave. Assuming a frequency of
+0.60 Hz (typical of earthquakes, which actually include a
+mixture of frequencies), what amplitude is needed so that
+objects begin to leave contact with the ground? [Hint: Set
+the acceleration
+]
+81. Two strings on a musical instrument are tuned to play at
+392 Hz (G) and 494 Hz (B). (a) What are the frequencies of
+the first two overtones for each

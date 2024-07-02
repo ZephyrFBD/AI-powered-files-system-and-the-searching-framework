@@ -1,0 +1,37 @@
+firmed in Tables 2.4  
+and 2.5.
+ 
+SECTION 8.3   
+Covalent Bonding 
+307
+By using quantum mechanical methods analogous to those used for atoms in 
+Section 6.5, we can calculate the distribution of electron density in molecules. Such 
+a calculation for H2 shows that the attractions between the nuclei and the electrons 
+cause electron density to concentrate between the nuclei, as shown in Figure 8.7(b). 
+As a result, the overall electrostatic interactions are attractive. Thus, the atoms in 
+H2 are held together principally because the two positive nuclei are attracted to the 
+concentration of negative charge between them. In essence, the shared pair of elec-
+trons in any covalent bond acts as a kind of “glue” to bind atoms together.
+(b)
+1
+1
+(a)
+1
+1
+2
+Electrons
+repel each
+other.
+Nuclei and 
+electrons attract 
+each other.
+Concentration of 
+electron density 
+between the nuclei 
+is covalent bond.
+Nuclei
+repel each
+other.
+2
+▲ Figure 8.7 The covalent bond in H2.  
+(a) The attractions and repulsi

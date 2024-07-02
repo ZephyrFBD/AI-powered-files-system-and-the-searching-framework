@@ -1,0 +1,18 @@
+. 
+Photovoltaic solar cells convert the light from the Sun into usable elec-
+tricity, and the development of more efficient solar cells is one way to 
+address Earth’s future energy needs.
+How does solar energy conversion work? Fundamentally, we 
+need to be able to use photons from the Sun, especially from the 
+visible portion of the spectrum, to excite electrons in molecules 
+and materials to different energy levels. The brilliant colors around 
+you—those of your clothes, the photographs in this book, the 
+foods you eat—are due to the selective absorption of visible light 
+by chemicals. It is helpful to think of this process in the context of 
+molecular orbital theory: Light excites an electron from a filled mo-
+lecular orbital to an empty one at higher energy. Because MOs have 
+definite energies, only light of the proper wavelengths can excite 
+electrons.
+In discussing light absorption by molecules, we can focus on 
+the two MOs shown in Figure 9.47. The highest occupied molecu-
+lar or

@@ -1,0 +1,27 @@
+ometimes these processes are referred to as being thermodynamically reversible or thermo-
+dynamically irreversible to add greater clarity to their meanings.
+Go Figure
+If the flow of heat into or out of the system is to be reversible, what must 
+be true of dT?
+(a)
+(b)
+Surroundings
+System
+Surroundings
+System
+Surroundings at temperature T
+Surroundings at temperature T
+System at higher 
+temperature T + δT
+Small increment of heat 
+transferred from system 
+to surroundings
+System at lower 
+temperature T – δT
+Small increment of heat 
+transferred to system 
+from surroundings
+▲ Figure 19.3 Reversible flow of heat. Heat can flow reversibly between a system and its surroundings  
+only if the two have an infinitesimally small difference in temperature dT. (a) Increasing the temperature  
+of the system by dT causes heat to flow from the hotter system to the colder surroundings. (b) Decreasing  
+the temperature of the system by dT causes heat to flow from the hotter surroundings to the colder system.

@@ -1,0 +1,21 @@
+ 
+whose index of refraction is 
+and which is designed to
+eliminate reflected light at wavelengths (in air) around 550 nm when incident
+normally on glass for which
+APPROACH We explicitly follow the procedure outlined in the Problem Solving
+Strategy on page 697.
+SOLUTION
+1. Interference effects. Consider two rays reflected from the front and rear sur-
+faces of the coating on the lens as shown in Fig. 24–36. The rays are drawn
+not quite perpendicular to the lens so we can see each of them. These two
+reflected rays will interfere with each other.
+2. Constructive interference. We want to eliminate reflected light, so we do not
+consider constructive interference.
+3. Destructive interference. To eliminate reflection, we want reflected rays 1
+and 2 to be 
+cycle out of phase with each other so that they destructively
+interfere. The phase difference is due to the path difference 
+traveled by
+ray 2, as well as any phase change in either ray due to reflection.
+4. Reflection phase shift. Rays 1 and

@@ -1,0 +1,21 @@
+9 Problem 70.
+General Problems
+357
+71. A fish finder uses a sonar device that sends 20,000-Hz
+sound pulses downward from the bottom of the boat, and
+then detects echoes. If the maximum depth for which it is
+designed to work is 85 m, what is the minimum time between
+pulses (in fresh water)?
+72. A single mosquito 5.0 m from a person makes a sound
+close to the threshold of human hearing (0 dB). What will
+be the sound level of 200 such mosquitoes?
+73. What is the resultant sound level when an 81-dB sound and
+an 87-dB sound are heard simultaneously?
+74. The sound level 8.25 m from a loudspeaker, placed in the
+open, is 115 dB. What is the acoustic power output (W) of
+the speaker, assuming it radiates equally in all directions?
+75. A stereo amplifier is rated at 225 W output at 1000 Hz.
+The power output drops by 12 dB at 15 kHz. What is the
+power output in watts at 15 kHz?
+76. Workers around jet aircraft typically wear protective devices
+over their ears. Assume that the sound level of a jet a

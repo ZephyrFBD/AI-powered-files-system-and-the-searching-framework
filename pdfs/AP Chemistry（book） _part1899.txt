@@ -1,0 +1,25 @@
+ unit 
+cell is not shared. A cube has 12 edges, so the total number of 
+rubidium ions is 12 11
+42 + 1 = 4. This answer makes sense be-
+cause the number of Rb+ ions must be the same as the number 
+of I- ions to maintain charge balance.
+(c) In ionic compounds, cations and anions touch each other. In 
+RbI the cations and anions touch along the edge of the unit 
+cell as shown in the following ﬁgure.
+rI–
+2rRb+
+rI–
+The length of the unit cell edge is equal to r1I-2 + 2r1Rb+2 + r1I-2 =  
+2r1I-2 + 2r1Rb+2. Plugging in the ionic radii we get 212.06 Å2 +
+211.66 Å2 = 7.44 Å. The volume of a cubic unit cell is just the edge 
+length cubed. Converting from Å to cm and cubing we get
+Volume = 17.44 * 10-8 cm23 = 4.12 * 10-22 cm3.
+From parts (a) and (b) we know that there are four rubidium and 
+four iodide ions per unit cell. Using this result and the molar 
+masses, we can calculate the mass per unit cell
+Mass =
+4185.47 g>mol2 + 41126.90 g>mol2
+6.022 * 1023 mol-1
+= 1.411 * 10-21 g
+The density is the ma

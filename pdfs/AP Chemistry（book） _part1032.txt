@@ -1,0 +1,27 @@
+) For an He+ ion, do the 2s and 2p orbitals have the same 
+energy? If not, which orbital has a lower energy? (b) If we 
+add one electron to form the He atom, would your answer to 
+part (a) change?
+ 6.68  (a) The average distance from the nucleus of a 3s electron in 
+a chlorine atom is smaller than that for a 3p electron. In light 
+of this fact, which orbital is higher in energy? (b) Would you 
+ 
+expect it to require more or less energy to remove a 3s elec-
+tron from the chlorine atom, as compared with a 2p electron?
+ 6.69  Two possible electron configurations 
+for an Li atom are shown here. (a) Does 
+either configuration violate the Pauli 
+exclusion principle? (b) Does either 
+configuration violate Hund’s rule? (c) 
+In the absence of an external magnetic 
+field, can we say that one electron con-
+figuration has a lower energy than the 
+other? If so, which one has the lowest 
+energy?
+2s
+1s
+Configuration A
+Configuration B
+2s
+1s
+ 6.70  An experiment called the Stern–Gerlach experiment help

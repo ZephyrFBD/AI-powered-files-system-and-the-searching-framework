@@ -1,0 +1,16 @@
+s and the final value of n decreases. In the limit nf = 1 
+and ni goes to infinity, which gives a photon energy, Ephoton = hcRH.  
+page 225 Yes, all moving objects produce matter waves, but the 
+wavelengths associated with macroscopic objects, such as the  
+baseball, are too small to allow for any way of observing them.  
+page 227 Less important. page 228 In the first statement, we 
+know exactly where the electron is. In the second statement, we 
+are saying that we know the probability of the electron being at a 
+point, but we don’t know exactly where it is. The second statement 
+is consistent with the Uncertainty Principle. page 229 In the Bohr 
+model electrons move in orbits, each of which has a specific fixed 
+distance from the nucleus. In the modern picture of the atom elec-
+trons are found in orbitals and cannot be said to orbit the nucleus 
+at a specific distance. page 234 The two orbitals have the same 
+principal quantum number, n = 3, and the same orbital angular 
+momentum quan

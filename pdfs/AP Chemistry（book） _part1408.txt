@@ -1,0 +1,17 @@
+two Be ¬F bonds to 
+form, we still have not explained the structure of BeF2.
+We can solve this dilemma by “mixing” the 2s orbital with one 2p orbital to generate 
+two new orbitals, as shown in Figure 9.14. Like p orbitals, each new orbital has two lobes. 
+Unlike p orbitals, however, one lobe is much larger than the other. The two new orbitals 
+are identical in shape, but their large lobes point in opposite directions. These two new 
+orbitals, which are shown in purple in Figure 9.14, are hybrid orbitals. Because we have 
+hybridized one s and one p orbital, we call each hybrid an sp hybrid orbital. According to 
+the valence-bond model, a linear arrangement of electron domains implies sp hybridization.
+For the Be atom of BeF2, we write the orbital diagram for the formation of two sp 
+hybrid orbitals as
+sp
+2p
+1s
+The electrons in the sp hybrid orbitals can form bonds with the two fluorine atoms 
+(Figure 9.15). Because the sp hybrid orbitals are equivalent but point in opposite direc-
+tions

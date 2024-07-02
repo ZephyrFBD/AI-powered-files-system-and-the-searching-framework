@@ -1,0 +1,38 @@
+e moment of zero. Which of the following could 
+be the molecular geometry of the molecule?  
+(a) Trigonal pyramidal (b) Trigonal planar  
+(c) T-shaped (d) Tetrahedral 
+(e) More than one of the above
+ 
+▶Practice Exercise 2
+Determine whether the following molecules are polar or 
+nonpolar: (a) SF4, (b) SiCl4.
+Cl
+H
+1s
+3p
+3p
+3p
+Cl
+Cl
+1s
+1s
+H
+H
+Orbitals overlap to 
+form covalent bond.
+▲ Figure 9.12 Covalent bonds in 
+H2, HCl, and CI2 result from overlap 
+of atomic orbitals.
+ 
+SECTION 9.5   
+Hybrid Orbitals 
+355
+this example, at 0.74 Å) corresponds to the bond length of the molecule. The potential 
+energy at this minimum corresponds to the bond strength. Thus, the observed bond 
+length is the distance at which the attractive forces between unlike charges (electrons 
+and nuclei) are balanced by the repulsive forces between like charges (electron–electron 
+and nucleus–nucleus).
+9.5 ∣ Hybrid Orbitals
+The VSEPR model, simple as it is, does a surprisingly good job at predicting molecular 
+shape, d

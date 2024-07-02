@@ -1,0 +1,45 @@
+r to overcome going from right to left than from left to right.
+Go Figure
+How does the energy needed to overcome the energy 
+barrier compare with the overall change in energy for this 
+reaction?
+H3C
+N
+C
+Potential energy
+C
+N
+H3C
+N
+H3C
+C
+Reaction progress
+N
+H3C
+C
+C
+N
+H3C. . .
+Ea
+∆E
+Molecule bends, 
+C    N bond 
+begins to break.
+Activated complex forms.
+C    C bond forms.
+—
+—
+▲ Figure 14.16 Energy profile for conversion of methyl 
+isonitrile 1H3CNC2 to its isomer acetonitrile 1H3CCN2.
+Give It Some Thought
+Suppose you could measure the rate constants for both the forward and reverse reactions 
+of the process in Figure 14.16. In which direction would the rate constant be larger?
+ 
+SECTION 14.5   
+Temperature and Rate 
+589
+590 
+CHAPTER 14 Chemical Kinetics
+Any particular methyl isonitrile molecule acquires sufficient energy to overcome the 
+energy barrier through collisions with other molecules. Recall from the kinetic-molecular 
+theory of gases that, at any instant, gas molecules are distri

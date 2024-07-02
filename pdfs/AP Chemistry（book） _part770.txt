@@ -1,0 +1,35 @@
+ of liquid carbon tetrachloride 1CCl42 and look up 
+∆Hf° for this compound in Appendix C.
+ 
+188 
+CHAPTER 5 Thermochemistry
+Using Enthalpies of Formation to Calculate  
+Enthalpies of Reaction
+We can use Hess’s law and tabulations of ∆Hf° values, such as those in Table 5.3 and 
+ 
+Appendix C, to calculate the standard enthalpy change for any reaction for which we 
+know the ∆Hf° values for all reactants and products. For example, consider the combus-
+tion of propane under standard conditions:
+ 
+C3H81g2 + 5 O21g2 ¡  3 CO21g2 + 4 H2O1l2 
+We can write this equation as the sum of three equations associated with standard 
+ 
+enthalpies of formation:
+ 
+C3H81g2 ¡  3 C1s2 + 4 H21g2  
+∆H1 = -∆Hf°3C3H81g24 
+[5.26]
+ 
+3 C1s2 + 3 O21g2 ¡  3 CO21g2  
+∆H2 = 3∆Hf° 3CO21g24  
+[5.27]
+ 
+4 H21g2 + 2 O21g2 ¡  4 H2O1l2  
+∆H3 = 4∆Hf°3H2O1l24 
+[5.28]
+ 
+C3H81g2 + 5 O21g2 ¡  3 CO21g2 + 4 H2O1l2  
+∆H°
+rxn = ∆H1 + ∆H2 + ∆H3 
+[5.29]
+(Note that it is sometimes useful to add subscripts to the enthalpy changes, as we have

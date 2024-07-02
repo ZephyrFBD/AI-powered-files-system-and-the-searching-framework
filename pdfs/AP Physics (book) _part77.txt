@@ -1,0 +1,31 @@
+km, and then the 80 has two significant figures. If it is precisely
+80 km, to within 
+then we write 80.0 km (three significant figures).
+&0.1 km,
+&0.05 gram.
+CONCEPTUAL EXAMPLE 1;1
+where L means
+0.1
+8.8 * 100% L  1%,
+&0.1 cm
+8.860.1 cm.
+6
+CHAPTER 1
+Introduction, Measurement, Estimating
+FIGURE 1;5 Measuring the width
+of a board with a centimeter ruler.
+Accuracy is about &1 mm.
+When making measurements, or when doing calculations, you should avoid
+the temptation to keep more digits in the final answer than is justified: see boldface
+statement on previous page. For example, to calculate the area of a rectangle 11.3 cm
+by 6.8 cm, the result of multiplication would be 
+But this answer can not
+be accurate to the implied 
+uncertainty, because (using the outer limits
+of the assumed uncertainty for each measurement) the result could be between
+and 
+At best, we can
+quote the answer as 
+which implies an uncertainty of about 1 or 
+The other two digits (in the number 
+) must be dropped (rounded off

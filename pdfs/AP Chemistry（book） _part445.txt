@@ -1,0 +1,18 @@
+the 
+answer we derived in this exercise: 5>200 = 2.5 * 10-2 mol; 
+(2.5 * 10-2)(6 * 1023) = 15 * 1021 = 1.5 * 1022 molecules.  
+The units (molecules) and the number of significant figures 
+(three) are appropriate.
+(b) The answer is six times as large as the answer to part (a),  
+exactly what it should be. The number of significant  
+figures (three) and the units (atoms O) are correct.
+3.5 ∣ Empirical Formulas from Analyses
+The empirical formula for a substance tells us the relative number of atoms of each el-
+ement in the substance. 
+(Section 2.6) The empirical formula H2O shows that water 
+contains two H atoms for each O atom. This ratio also applies on the molar level: 1 mol 
+of H2O contains 2 mol of H atoms and 1 mol of O atoms. Conversely, the ratio of the num-
+bers of moles of all elements in a compound gives the subscripts in the compound’s empirical 
+ 
+formula. Thus, the mole concept provides a way of calculating empirical formulas.
+Mercury and chlorine, for example, combine to f

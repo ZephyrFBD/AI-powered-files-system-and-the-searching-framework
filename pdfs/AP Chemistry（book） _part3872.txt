@@ -1,0 +1,51 @@
+ substance with peptide bonds 
+and asked to write its structural formula.
+Plan The name of this substance suggests that three amino 
+acids—alanine, glycine, and serine—have been linked together, 
+forming a tripeptide. Note that the ending -yl has been added to 
+each amino acid except for the last one, serine. By convention, the 
+sequence of amino acids in peptides and proteins is written from 
+the nitrogen end to the carbon end: The first-named amino acid 
+(alanine, in this case) has a free amino group and the last-named 
+one (serine) has a free carboxyl group.
+Solve We first combine the carboxyl group of alanine with the 
+amino group of glycine to form a peptide bond and then the 
+carboxyl group of glycine with the amino group of serine to form 
+another peptide bond:
+Amino group
+Carboxyl group
+C
+C
+O
+H
+CH3
+CH2OH
+C
+C
+O
+H
+N
+H
+H
+C
+H
+N
+H
+Ala
+A
+Gly
+G
+Ser
+S
+H3N
+O−
+C
+O
++
+We can abbreviate this tripeptide as either Ala-Gly-Ser or AGS.
+Continued
+ 
+SECTION 24.7  Proteins 
+1059
+1060 
+CHAPTER 24 T

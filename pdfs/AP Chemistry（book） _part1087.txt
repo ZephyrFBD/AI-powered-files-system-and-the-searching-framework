@@ -1,0 +1,97 @@
++ has 
+10 electrons. In any isoelectronic series, we can list the members in order of increasing 
+atomic number; therefore, the nuclear charge increases as we move through the series. 
+Because the number of electrons remains constant, ionic radius decreases with increas-
+ing nuclear charge as the electrons are more strongly attracted to the nucleus:
+Increasing nuclear charge ¡
+8 protons
+9 protons
+11 protons
+12 protons
+13 protons
+10 electrons
+10 electrons
+10 electrons
+10 electrons
+10 electrons
+O2 -
+F -
+Na +
+Mg2 +
+Al3+
+1.26 Å
+1.19 Å
+1.16 Å
+0.86 Å
+0.68 Å
+Decreasing ionic radius ¡
+Go Figure
+How do cations of the same charge change in radius as you move down a 
+column in the periodic table?
+Li
+1.28
+Be
+0.96
+B
+0.84
+B31
+0.41
+O22
+1.26
+F2
+1.19
+Li1
+0.90
+Be21
+0.59
+O
+0.66
+F
+0.57
+Group 7A
+Group 6A
+Group 3A
+Group 2A
+Group 1A
+Na
+1.66
+Mg
+1.41
+Al
+1.21
+S
+1.05
+Cl
+1.02
+Na1
+1.16
+Mg21
+0.86
+Al31
+0.68
+S22
+1.70
+Cl2
+1.67
+K
+2.03
+Ca
+1.76
+Ga
+1.22
+Se
+1.20
+Br
+1.20
+K1
+1.52
+Ca21
+1.14
+Ga31
+0.76
+Se22
+1.84
+Br2
+1.82
+Rb
+2.2

@@ -1,0 +1,44 @@
+r (at the corners of an equilateral triangle)?
+27. (II) Point a is 62 cm north of a 
+point charge, and
+point b is 88 cm west of the charge (Fig. 17–40). Determine
+(a) 
+and (b) 
+(magnitude and direction).
+E
+B
+b - E
+B
+a
+V
+b - V
+a
+–3.8 mC
+1.0 * 10–10 m
+–2.0 mC,
+3.0 mC
+±9.5 mC
+Q = –6.50 nC.
+88 cm
+b
+a
+62 cm
+Q = –3.8 mC
+FIGURE 17–40
+Problem 27.
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+Problems
+497
+28. (II) Many chemical reactions release energy. Suppose that
+at the beginning of a reaction, an electron and proton are
+separated by 0.110 nm, and their final separation is 0.100 nm.
+How much electric potential energy was lost in this reaction
+(in units of eV)?
+29. (III) How much voltage must be used to accelerate a proton
+(radius 
+) so that it has sufficient energy to just
+“touch” a silicon nucleus? A silicon nucleus has a charge of
+and its radius is about 
+Assume the
+potential is that for point charges.
+30. (III) Two equal but opposite charges are s

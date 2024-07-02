@@ -1,0 +1,35 @@
+influx of energy heats and ionizes the pellet into a plasma, compressing 
+it and heating it to temperatures at which fusion can occur 
+The 
+confinement time is on the order of 
+to 
+during which time the ions do
+not move appreciably because of their own inertia, and fusion can take place.
+3
+1–4 Passage of Radiation Through
+Matter; Biological Damage
+When we speak of radiation, we include 
+and X-rays, as well as protons,
+neutrons, and other particles such as pions (see Chapter 32). Because charged
+particles can ionize the atoms or molecules of any material they pass through, they
+are referred to as ionizing radiation. And because radiation produces ionization,
+it can cause considerable damage to materials, particularly to biological tissue.
+a, b, g,
+10–9 s,
+10–11
+A7 
+108 KB.
+A4 * 108 KB
+nt
+t L 1 to 3 s.
+3 * 1020 m–3
+n L 1
+nt g  3 * 1020 sm3.
+t
+(= ionsm3)
+898
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation
+FIGURE 31–14 Tokamak
+configuration, showing the total 
+field due to exter

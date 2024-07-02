@@ -1,0 +1,26 @@
++1.12 V. (a) By 
+using data in Appendix E, calculate the standard emf of this 
+voltaic cell. (b) Will the concentration of Ni2+1aq2 increase 
+or decrease as the cell operates? (c) What is the initial con-
+centration of Ag+1aq2 in the Ag+-Ag half-cell?
+ 
+[20.102]  A voltaic cell is constructed that uses the following half-cell 
+reactions:
+Cu+1aq2 + e- ¡ Cu1s2
+I21s2 + 2 e-
+ ¡ 2 I-1aq2
+The cell is operated at 298 K with 3Cu+4 = 0.25 M and 
+3I-4 = 0.035 M. (a) Determine E for the cell at these con-
+centrations. (b) Which electrode is the anode of the cell? 
+(c) Is the answer to part (b) the same as it would be if the cell 
+were operated under standard conditions? (d) If 3Cu+4 were 
+equal to 0.15 M, at what concentration of I- would the cell 
+have zero potential?
+ 20.103  
+Using data from Appendix E, calculate the equilibrium 
+constant for the disproportionation of the copper(I) ion at 
+room temperature:
+2 Cu+1aq2 ¡ Cu2+1aq2 + Cu1s2.
+898 
+CHAPTER 20 Electrochemistry
+ 20.104  (a) Write the r

@@ -1,0 +1,23 @@
+mething we can either measure or calculate and because so many physical 
+and chemical changes of interest to us occur at constant pressure, enthalpy is a more use-
+ful function for most reactions than is internal energy. In addition, for most reactions the 
+difference in ∆H and ∆E is small because P∆V is small.
+When ∆H is positive (that is, when qP is positive), the system has gained heat from the 
+surroundings (Table 5.1), which means the process is endothermic. When ∆H is negative, 
+the system has released heat to the surroundings, which means the process is exothermic. 
+To continue the bank analogy of Figure 5.7, under constant pressure, an endothermic pro-
+cess deposits energy in the system in the form of heat and an exothermic process with-
+draws energy in the form of heat (Figure 5.12).
+Heat gain
+Heat loss
+DH . 0
+DH , 0
+H
+H
+Constant pressure
+maintained in system
+DH is amount of heat that
+ﬂoYs KPto or out of systeO
+under constant pressure.
+(a) An endothermic reaction
+(b) An exothe

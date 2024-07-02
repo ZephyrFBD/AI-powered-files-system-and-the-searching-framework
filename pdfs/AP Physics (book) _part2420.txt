@@ -1,0 +1,32 @@
+
+1.0-mF
+C = 6250 pF.
+L = 28.0 mH,  R = 8.70 k,
+115 .
+235 
+3.0-mF
+3.5-k
+3.0 * 104 Hz.
+36-k
+0.030-mF
+*21–11 Magnetic Energy Storage
+*47. (I) The magnetic field inside an air-filled solenoid 36 cm
+long and 2.0 cm in diameter is 0.72 T. Approximately how
+much energy is stored in this field?
+*48. (II) At 
+the current through a 45.0-mH inductor is
+50.0 mA and is increasing at the rate of 
+What is
+the initial energy stored in the inductor, and how long does
+it take for the energy to increase by a factor of 5.0 from the
+initial value?
+*49. (II) Assuming the Earth’s magnetic field averages about
+near Earth’s surface, estimate the total energy
+stored in this field in the first 10 km above Earth’s surface.
+*21–12 LR Circuit
+*50. (II) It takes 2.56 ms for the current in an LR circuit to
+increase from zero to 0.75 its maximum value. Determine
+(a) the time constant of the circuit, (b) the resistance of the
+circuit if
+*51. (II) How many time constants does it take for the
+potential difference ac

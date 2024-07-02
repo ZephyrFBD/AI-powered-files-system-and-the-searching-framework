@@ -1,0 +1,22 @@
+ zero. We can
+write the definition of instantaneous velocity,
+for one-dimensional motion as
+[instantaneous velocity]
+(2;3)
+The notation
+means the ratio
+is to be evaluated in the limit of
+approaching zero.†
+For instantaneous velocity we use the symbol 
+whereas for average
+velocity we use 
+with a bar above. In the rest of this book, when we use the
+term “velocity” it will refer to instantaneous velocity. When we want to speak of
+the average velocity, we will make this clear by including the word “average.”
+Note that the instantaneous speed always equals the magnitude of the
+instantaneous velocity. Why? Because distance traveled and the magnitude of
+the displacement become the same when they become infinitesimally small.
+If an object moves at a uniform (that is, constant) velocity during a partic-
+ular time interval, then its instantaneous velocity at any instant is the same as its
+average velocity (see Fig. 2–9a). But in many situations this is not the case. For
+example, a car may start 

@@ -1,0 +1,105 @@
+ntum number, n. For exam-
+ple, when one electron is removed from a lithium atom 11s22s12, it is the 2s1 electron:
+Li11s22s12 1  Li+11s22 + e-
+Likewise, when two electrons are removed from Fe 13Ar44s23d62, the 4s2 electrons are 
+the ones removed:
+Fe13Ar44s23d62 1  Fe2+
+13Ar43d62 + 2 e-
+If an additional electron is removed, forming Fe3+, it comes from a 3d orbital because all 
+the orbitals with n = 4 are empty:
+Fe2+13Ar43d62 1  Fe3+
+13Ar43d52 + e-
+Go Figure
+The value for astatine, At, is missing in this figure. To the nearest 100 kJ>mol, 
+what estimate would you make for the first ionization energy of At?
+Ionization energy (kJ/mol)
+Increasing ionization energy
+Increasing ionization energy
+1A
+2A
+3A
+4A
+5A
+6A
+7A
+8A
+He
+2372
+H
+1312
+Li
+520
+Na
+496
+K
+419
+Rb
+403
+Cs
+376
+Ne
+2081
+Ar
+1521
+Kr
+1351
+Xe
+1170
+Rn
+1037
+Be
+899
+Mg
+738
+Ca
+590
+Sr
+549
+Ba
+503
+Sc
+633
+Y
+600
+Lu
+524
+Ti
+659
+Zr
+640
+Hf
+659
+V
+651
+Nb
+652
+Ta
+761
+Cr
+653
+Mo
+684
+W
+770
+Mn
+717
+Tc
+702
+Re
+760
+Fe
+763
+Ru
+710
+Os
+840
+Co
+760
+Rh
+720
+Ni
+737
+Pd
+804
+Pt
+87

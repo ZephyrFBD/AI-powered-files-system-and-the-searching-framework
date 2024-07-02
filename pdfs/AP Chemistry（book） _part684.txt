@@ -1,0 +1,16 @@
+ons is known as thermodynamics (Greek: 
+thérme-, “heat”; dy’namis, “power”). This area of study began during the Industrial Rev-
+olution in order to develop the relationships among heat, work, and fuels in steam en-
+gines. Here we will examine the relationships between chemical reactions and energy 
+changes that involve heat. This portion of thermodynamics is called thermochemistry. 
+We will discuss additional aspects of thermodynamics in Chapter 19.
+5.1 ∣ The Nature of Chemical Energy
+As we learned in Chapter 1 (Section 1.4), energy is defined as the capacity to do work or 
+transfer heat. Anyone who has sat by a fire or used a propane grill has witnessed chemical 
+reactions that release heat [Figure 5.1(a)]. Some chemical reactions also absorb heat, such 
+as those that occur when you cook. Chemical reactions can also do work in various ways. 
+Recall the definition of work from Chapter 1:
+ 
+w = F * d 
+[5.1]
+For example, the combustion reaction between gasoline and oxygen produces gases

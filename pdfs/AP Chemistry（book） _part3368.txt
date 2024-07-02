@@ -1,0 +1,27 @@
+a proton, is accelerated through 
+a series of tubes of increasing length. 
+The electrical charge on the tubes is 
+changed from positive to negative, so 
+that the particle is always attracted to 
+the tube it is approaching and repelled 
+by the one it is leaving. As a result, the 
+particle accelerates until it has suffi-
+cient kinetic energy to smash into a 
+target nucleus. Figure 21.4(b) shows the 
+Write the balanced nuclear equation for the process summarized as 27
+13Al1n, a224
+11Na.
+Sample Exercise 21.4 
+Writing a Balanced Nuclear Equation
+SOLUTION
+Analyze We must go from the condensed descriptive form of the 
+reaction to the balanced nuclear equation.
+Plan We arrive at the balanced equation by writing n and a, each 
+with its associated subscripts and superscripts.
+Solve The n is the abbreviation for a neutron 11
+0n2, and a represents 
+an alpha particle 14
+2He2. The neutron is the bombarding particle, and 
+the alpha particle is a product. Therefore, the nuclear equation is
+27
+13Al + 1

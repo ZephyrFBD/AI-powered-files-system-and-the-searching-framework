@@ -1,0 +1,56 @@
+r weighting vector as well as test the consistency of the 
+matrix.  
+ 
+ 
+ 
+Table 2: n-CI-RI-CR correlation 
+n 
+3 
+5 
+4 
+3 
+CI 
+0.0013 
+0.0021 
+0.0145 
+0.0006 
+RI 
+0.58 
+1.12 
+0.9 
+0.58 
+CR 
+0.0023 
+0.0019 
+0.0161 
+0.0011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Team#36961 
+ 
+Page 6 of 20 
+Figure2: Weighting Vectors of U, V1, V2, V3 
+ 
+2.2 Data Process 
+Due to the various types of collected data as well as the inconsistent unit of the 
+data, we need a consistent data to determine our indexes. Therefore, we process the 
+datum by enabling them to be consistent. 
+For the data that is quantitative, we transfer it into an index that belongs to [0, 1]. 
+Different data has different ideal index, so we choose different functions that best fit 
+the character of the data to process the data. For the data that is qualitative, we 
+establish a fuzzy membership function to transfer the data into an index that belongs 
+to [0, 1]. 
+Table 3: Data type and corresponding function 
+Type 
+Corresponding function 
+Extreme 
+'
+x =
+2

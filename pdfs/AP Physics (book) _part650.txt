@@ -1,0 +1,32 @@
+ain why they aren’t.
+(k1 7 k2).
+Questions
+16. Describe precisely what is “wrong” physically in the famous
+Escher drawing shown in Fig. 6–32.
+8. A hand exerts a constant horizontal force on a block that is
+free to slide on a frictionless surface (Fig. 6–30). The block
+starts from rest at point A, and by the time it has traveled
+a distance d to point B it is traveling with speed 
+When
+the block has traveled another distance d to point C, will its
+speed be greater than, less than, or equal to 
+Explain
+your reasoning.
+2vB?
+vB.
+162
+CHAPTER 6
+Work and Energy
+d
+d
+A
+B
+C
+FIGURE 6–30 Question 8.
+9. You lift a heavy book from a table to a high shelf. List the
+forces on the book during this process, and state whether
+each is conservative or nonconservative.
+10. A hill has a height h. A child on a sled (total mass m) slides
+down starting from rest at the top. Does the speed at the
+bottom depend on the angle of the hill if (a) it is icy and
+there is no friction, and (b) there is friction (deep snow)

@@ -1,0 +1,22 @@
+ume that most of the NOBr2 falls apart according to this reac-
+tion. Thus, we have both the forward and reverse reactions of step 1 occurring much faster 
+than step 2. Because they occur rapidly relative to step 2, the forward and reverse reactions 
+of step 1 establish an equilibrium. As in any other dynamic equilibrium, the rate of the 
+forward reaction equals that of the reverse reaction:
+k3NO43Br24  =   k-13NOBr24
+Solving for 3NOBr24, we have
+3NOBr24 = k1
+k-1
+ 3NO43Br24
+Substituting this relationship into Equation 14.30, we have
+Rate = k2
+k1
+k-1
+3NO43Br243NO4 = k3NO423Br24
+where the experimental rate constant k equals k2k1>k-1. This expression is consistent 
+with the experimental rate law (Equation 14.27). Thus, our alternative mechanism 
+(Equation 14.29), which involves two steps but only unimolecular and bimolecu-
+lar processes, is far more probable than the single-step termolecular mechanism of 
+Equation 14.28.
+ 
+In general, whenever a fast step precedes a slow one, we can solve 

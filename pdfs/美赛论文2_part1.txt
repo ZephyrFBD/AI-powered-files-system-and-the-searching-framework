@@ -1,0 +1,32 @@
+ 
+For office use only 
+T1 ________________ 
+T2 ________________ 
+T3 ________________ 
+T4 ________________ 
+ 
+Team Control Number 
+37232 
+  
+Problem Chosen 
+A 
+ 
+For office use only 
+F1 ________________ 
+F2 ________________ 
+F3 ________________ 
+F4 ________________ 
+ 
+ 
+2015 Mathematical Contest in Modeling (MCM) Summary Sheet 
+(Attach a copy of this page to your solution paper.)  
+The recent Ebola Virus Disease (EVD) broke out in West Africa from 
+February 2014.This disease spreads quickly and has claimed 8,981 lives up 
+to 1 February 2015. 
+In this article, we build Spread Model to forecast the development of 
+EVD and the demand of medication in the future, Production Model to 
+forecast the output of the medication and Delivery Model to give a most 
+effective distribution scheme. Through these three models, the EVD can be 
+under control in the shortest time. 
+Since West Africa has suffered most from Ebola and countries in this 
+region have many similarities, we use Sierra Leone as an 

@@ -1,0 +1,10 @@
+ed.
+To prepare a forked-line diagram for a cross between F1 heterozygotes resulting from a cross between AABBCC and aabbcc
+parents, we first create rows equal to the number of genes being considered, and then segregate the alleles in each row
+on forked lines according to the probabilities for individual monohybrid crosses (Figure 12.17). We then multiply the
+values along each forked path to obtain the F2 offspring probabilities. Note that this process is a diagrammatic version of
+the product rule. The values along each forked pathway can be multiplied because each gene assorts independently. For a
+trihybrid cross, the F2 phenotypic ratio is 27:9:9:9:3:3:3:1.
+Figure 12.17 The forked-line method can be used to analyze a trihybrid cross. Here, the probability for color in
+the F2 generation occupies the top row (3 yellow:1 green). The probability for shape occupies the second row (3
+round:1 wrinked), and the probability for height occupies the third row (3 tall:1 dwarf). The probability fo

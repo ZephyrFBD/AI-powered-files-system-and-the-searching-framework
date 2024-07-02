@@ -1,0 +1,25 @@
+ow calculate quantitatively how the pressure in a liquid of uniform
+density varies with depth. Let us look at a depth h below the surface of the liquid
+as shown in Fig. 10–3 (that is, the liquid’s top surface is a height h above this level).
+The pressure due to the liquid at this depth h is due to the weight of the column
+of liquid above it. Thus the force due to the weight of liquid acting on the area A
+is
+where Ah is the volume of the column of liquid,
+is the density of the liquid (assumed to be constant), and g is the acceleration 
+of gravity. The pressure P due to the weight of liquid is then
+[liquid] (10;3a)
+Note that the area A doesn’t affect the pressure at a given depth. The fluid pres-
+sure is directly proportional to the density of the liquid and to the depth within the
+liquid. In general, the pressure at equal depths within a uniform liquid is the same.
+P = rgh.
+P =
+F
+A = rAhg
+A
+r
+F = mg = (rV)g = rAhg,
+P H Y S I C S  A P P L I E D
+Water supply
+A
+h
+FIGURE 10–3 Calculating th

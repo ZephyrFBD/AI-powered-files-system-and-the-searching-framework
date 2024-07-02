@@ -1,0 +1,50 @@
+H+ 
+concentration at equilibrium, in order to 
+calculate pH.
+CH3COOH 1aq2 ∆ CH3COO-1aq2 +  H +1aq2
+Initial (M)
+1.00 * 10-3
+1.00 * 10-4
+0
+Change (M)
+-x
++x
++x
+Equilibrium (M)
+11.00 * 10-3 - x2
+11.00 * 10-4 + x2
+x
+ 
+3CH3COO-4[H +4
+3CH3COOH]
+= Ka
+ 
+11.00 * 10-4 + x21x2
+11.00 * 10-3 - x2
+= 1.8 * 10-5
+ 
+1.00 * 10-4x + x2 = 1.8 * 10-511.00 * 10-3 - x2
+ 
+x2 + 1.00 * 10-4x = 1.8 * 10-8 - 1.8 * 10-5x
+ 
+x2 + 1.18 * 10-4x - 1.8 * 10-8 = 0
+ 
+x =
+-1.18 * 10-4 { 211.18 * 10-422 - 41121-1.8 * 10-82
+2112
+ = -1.18 * 10-4 { 28.5924 * 10-8
+2
+ = 8.76 * 10-5 = 3H+4
+ 
+pH = 4.06
+pH = 4.74 + log 
+11.00 * 10 - 42
+11.00 * 10 - 32
+= 4.74 - 1.00 = 3.74
+726 
+CHAPTER 17 Additional Aspects of Aqueous Equilibria
+Buffer Capacity and pH Range
+Two important characteristics of a buffer are its capacity and its effective pH range. Buffer 
+capacity is the amount of acid or base the buffer can neutralize before the pH begins to 
+change to an appreciable degree. The buffer capacity depends on the amount of acid and 
+base used

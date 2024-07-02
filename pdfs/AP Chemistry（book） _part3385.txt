@@ -1,0 +1,46 @@
+tant for decay, k, calculated in  
+part (a).
+ 
+▶Practice Exercise 1
+As mentioned in the previous Practice Exercise 1, cesium-137, 
+a component of radioactive waste, has a half-life of 30.2 
+yr. If a sample of waste has an initial activity of 15.0 Ci due 
+to cesium-137, how long will it take for the activity due to 
+cesium-137 to drop to 0.250 Ci?
+(a) 0.728 yr (b) 60.4 yr (c) 78.2 yr (d) 124 yr (e) 178 yr
+ 
+▶Practice Exercise 2
+A sample to be used for medical imaging is labeled with 18F, 
+which has a half-life of 110 min. What percentage of the orig-
+inal activity in the sample remains after 300 min?
+ 
+k = - 1
+t  ln
+Nt
+N0
+= -
+1
+2.00 yr ln
+0.953 g
+1.000 g
+ = -
+1
+2.00 yr 1-0.04812 = 0.0241 yr-1
+ 
+t1>2 = 0.693
+k
+=
+0.693
+0.0241 yr-1 = 28.8 yr
+ln 
+Nt
+N0
+= -kt = -10.0241 yr-1215.00 yr2 = -0.120
+(b) Again using Equation 21.20, with k = 0.0241 yr-1, we have:
+Nt
+N0
+= e-0.120 = 0.887
+SOLUTION
+Sample Exercise 21.7 
+Calculations Involving Radioactive Decay and Time
+Nt>N0 is calculated from ln1Nt>N0

@@ -1,0 +1,24 @@
+12 has two signiﬁcant ﬁgures, the pH has two 
+decimal places, 12.00.
+(b) For the second solution, 3H+4 = 5.6 * 10-6 M. Before per-
+forming the calculation, it is helpful to estimate the pH. To do so, 
+we note that 3H+4 lies between 1 * 10-6 and 1 * 10-5. Thus, we 
+expect the pH to lie between 6.0 and 5.0. We use Equation 16.17 
+to calculate the pH:
+pH = -log15.6 * 10-62 = 5.25
+Check After calculating a pH, it is useful to compare it to your 
+estimate. In this case the pH, as we predicted, falls between 6 and 
+5. Had the calculated pH and the estimate not agreed, we should 
+have reconsidered our calculation or estimate or both.
+ 
+▶Practice Exercise 1
+A solution at 25 °C has 3OH-4 = 6.7 * 10-3. What is the pH 
+of the solution?
+(a) 0.83 (b) 2.2 (c) 2.17 (d) 11.83 (e) 12
+ 
+▶Practice Exercise 2
+(a) In a sample of lemon juice, 3H+4 = 3.8 * 10-4  M. What is 
+the pH?
+(b) A commonly available window-cleaning solution has 
+3OH-4 = 1.9 * 10-6 M. What is the pH at 25 °C?
+One might think that when 

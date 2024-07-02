@@ -1,0 +1,21 @@
+lane of the px orbital. (a) Determine 
+the nodal plane of the pz orbital. (b) What are the two nodal 
+planes of the dxy  
+orbital? (c) What are the two nodal planes of 
+the dx2 - y2 orbital?
+[6.100] The Chemistry and Life box in Section 6.7 described the tech-
+niques called NMR and MRI. (a) Instruments for obtaining 
+MRI data are typically labeled with a frequency, such as 600 
+MHz. In what region of the electromagnetic spectrum does 
+a photon with this frequency belong? (b) What is the value 
+of ∆E in Figure 6.27 that would correspond to the absorption 
+of a photon of radiation with frequency 450 MHz? (c) When 
+the 450-MHz photon is absorbed, does it change the spin of 
+the electron or the proton on a hydrogen atom?
+ 
+[6.101] Suppose that the spin quantum number, ms, could have 
+three allowed values instead of two. How would this affect 
+the number of elements in the ﬁrst four rows of the periodic 
+table?
+ 6.102  Using the periodic table as a guide, write the condensed elec-
+tron conﬁ

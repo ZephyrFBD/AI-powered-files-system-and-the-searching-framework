@@ -1,0 +1,28 @@
+RCISE I How many 60-W 120-V lightbulbs can operate on a 20-A line? (a) 2; (b) 3;
+(c) 6; (d) 20; (e) 40.
+514
+CHAPTER 18
+Electric Currents
+Time
+t
+t
+(a) dc
+Time
+(b) ac
+I0
+Current
+Current
+−I0
+FIGURE 18–21 (a) Direct current,
+and (b) alternating current, as
+functions of time.
+18–7 Alternating Current
+When a battery is connected to a circuit, the current moves steadily in one direc-
+tion. This is called a direct current, or dc. Electric generators at electric power
+plants, however, produce alternating current, or ac. (Sometimes capital letters are
+used, DC and AC.) An alternating current reverses direction many times per second
+and is commonly sinusoidal, Fig. 18–21. The electrons in a wire first move in one
+direction and then in the other. The current supplied to homes and businesses by
+electric companies is ac throughout virtually the entire world. We will discuss and
+analyze ac circuits in detail in Chapter 21. But because ac circuits are so common
+in real life, we will discuss some of th

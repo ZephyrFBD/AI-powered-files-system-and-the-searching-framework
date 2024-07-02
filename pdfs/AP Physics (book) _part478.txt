@@ -1,0 +1,19 @@
+t. So the 
+friction force the road exerts on the tires is static friction. But if static friction 
+is not great enough, as under icy conditions or high speed, the static friction 
+force is less than 
+and the car will skid out of a circular path into a more
+nearly straight path. See Fig. 5–12. Once a car skids or slides, the friction force
+becomes kinetic friction, which is smaller than static friction.
+Skidding on a curve. A 1000-kg car rounds a curve on a 
+flat road of radius 50 m at a speed of 
+Will the car follow the
+curve, or will it skid? Assume: (a) the pavement is dry and the coefficient of static
+friction is  
+(b) the pavement is icy and  
+APPROACH The forces on the car are gravity mg downward, the normal 
+force 
+exerted upward by the road, and a horizontal friction force due to the
+road. They are shown in Fig. 5–13, which is the free-body diagram for the car.
+The car will follow the curve if the maximum static friction force is greater than
+the mass times the centripetal accel

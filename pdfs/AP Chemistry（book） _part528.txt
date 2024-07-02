@@ -1,0 +1,20 @@
+re reactions in chemistry is called the 
+Ugi reaction: 
+ 
+ R1C(=O)R2 + R3 - NH2 + R4COOH + R5NC S  
+R4C(=O)N(R3)C(R1R2)C=ONHR5 + H2O
+These exercises require skills from earlier chapters as well as skills 
+from the present chapter.
+ 3.106 The semiconductor gallium arsenide, GaAs, is used in high-
+speed integrated circuits, light-emitting diodes, and solar 
+cells. Its density is 5.32 g/cm3. It can be made by reacting 
+trimethylgallium, (CH3)3Ga, with arsine gas, AsH3. The 
+other product of the reaction is methane, CH4. (a) If you 
+reacted 450.0 g of trimethylgallium with 300.0 g of arsine, 
+what mass of GaAs could you make? (b) Which reactant, if 
+any, would be left over, and how many moles of the leftover 
+reactant would remain? (c) One application of GaAs uses it 
+as a thin film. If you take the mass of GaAs from part (a) and 
+make a 40-nm thin film from it, what area, in cm2, would it 
+cover? Recall that 1 nm = 1 * 10-9 m.
+ 3.107 Paclitaxel, C47H51NO14, is an anticancer compound that 

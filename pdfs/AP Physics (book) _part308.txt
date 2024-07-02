@@ -1,0 +1,31 @@
+.
+6.5 ms.
+18.0 ms
+70
+CHAPTER 3
+Kinematics in 
+Two Dimensions; Vectors
+u0
+v0
+FIGURE 3;40 Problem 36.
+36. (III) Revisit Example 3–7, and assume that the boy with
+the slingshot is below the boy in the tree (Fig. 3–40) and
+so aims upward, directly at the boy in the tree. Show that
+again the boy in the tree makes the wrong move by letting
+go at the moment the water balloon is shot.
+22 m
+Must clear
+this point!
+1.5 m
+FIGURE 3;41 Problem 37.
+37. (III) A stunt driver wants to make his car jump over 8 cars
+parked side by side below a horizontal ramp (Fig. 3–41).
+(a) With what minimum speed must he drive off the hori-
+zontal ramp? The vertical height of the ramp is 1.5 m above
+the cars and the horizontal distance he must clear is 22 m.
+(b) If the ramp is now tilted upward, so that “takeoff angle”
+is 7.0° above the horizontal, what is the new minimum
+speed?
+3;8 Relative Velocity
+38. (I) A person going for a morning jog on the deck of a
+cruise ship is running toward the bow (front) of the ship at

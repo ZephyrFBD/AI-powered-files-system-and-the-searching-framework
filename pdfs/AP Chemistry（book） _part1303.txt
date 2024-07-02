@@ -1,0 +1,18 @@
+y comparison, in elements of the second period, only the 2s and 2p valence orbitals are 
+available for bonding. However, theoretical work on the bonding in molecules such as 
+PF5 and SF6 suggests that the presence of unfilled 3d orbitals in P and S has a relatively 
+minor impact on the formation of hypervalent molecules. Most chemists now believe 
+that the larger size of the atoms from periods 3 through 6 is more important to explain 
+hypervalency than is the presence of unfilled d orbitals.
+ 
+Sample Exercise 8.11 
+Lewis Structure for an Ion with More Than an Octet of Electrons
+Draw the Lewis structure for ICl4
+-.
+SOLUTION
+Iodine (group 7A) has seven valence electrons. Each chlorine 
+atom (group 7A) also has seven. An extra electron is added to ac-
+count for the 1- charge of the ion. Therefore, the total number of 
+valence electrons is 7 + 14 * 72 + 1 = 36.
+The I atom is the central atom in the ion. Putting eight electrons 
+around each Cl atom (including a pair of electrons between I a

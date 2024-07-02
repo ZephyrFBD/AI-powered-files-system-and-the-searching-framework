@@ -1,0 +1,29 @@
+tep 1). 
+ 
+One half-reaction must have Mn on both sides of the arrow, and the other must have C 
+on both sides of the arrow:
+MnO4
+-1aq2 ¡ Mn2+1aq2
+C2O4
+2-1aq2 ¡ CO21g2
+We next complete and balance each half-reaction. First, we balance all the atoms 
+except H and O (Step 2a). In the permanganate half-reaction, we have one manga-
+nese atom on each side of the equation and so need to do nothing. In the oxalate half- 
+reaction, we add a coefficient 2 on the right to balance the two carbons on the left:
+MnO4
+-1aq2 ¡ Mn2+1aq2
+C2O4
+2-1aq2 ¡ 2 CO21g2
+Next we balance O (Step 2b). The permanganate half-reaction has four oxygens on the left 
+and none on the right; to balance these four oxygen atoms, we add four H2O molecules on 
+the right:
+MnO4
+-1aq2 ¡ Mn2+1aq2 + 4 H2O1l2
+The eight hydrogen atoms now in the products must be balanced by adding 8 H+ to the 
+reactants (Step 2c):
+ 
+8 H+1aq2 + MnO4
+-1aq2 ¡ Mn2+1aq2 + 4 H2O1l2 
+Go Figure
+Which species is reduced in this reaction? Which species is 
+the 

@@ -1,0 +1,14 @@
+ hydroxyl
+ 
+groups only occur in three amino acids: tyrosine, serine, and threonine. The best understood of these receptors is the
+receptor tyrosine kinase (RTK). A typical RTK sequence follows (Figure 6-2c):
+ 
+1. RTK receives signal. At the outer surface of the membrane, the RTK binds to a signaling molecule.
+ 
+2. RTK forms dimer. Two RTKs associate, forming a pair (dimer).
+3. RTK is activated by autophosphorylation. On the inner surface of the membrane, each of the two RTKs in the
+dimer phosphorylates the other RTK using phosphate groups from ATPs. This process, called autophosphorylation,
+activates the protein complex. Multiple phosphate groups can attach, each to a tyrosine amino acid.
+4. Relay protein is phosphorylated. Relay proteins bind to the tyrosinephosphate domains of the RTK. The
+phosphates are then transferred from the tyrosines to the relay proteins. More than one kind of protein may be
+phosphorylated by a single RTK dimer and each kind of phosphorylated protein can serv

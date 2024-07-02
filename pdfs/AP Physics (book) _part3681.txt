@@ -1,0 +1,19 @@
+its Kelvin temperature T; that is,
+The surface temperatures of stars typically range from
+about 3000 K (reddish) to about 50,000 K (UV).
+Determining star temperature and star size. Suppose
+that the distances from Earth to two nearby stars can be reasonably estimated, and
+that their measured apparent brightnesses suggest the two stars have about the
+same luminosity, L. The spectrum of one of the stars peaks at about 700 nm (so
+it is reddish). The spectrum of the other peaks at about 350 nm (bluish). Use
+Wien’s law (Eq. 27–2) and the Stefan-Boltzmann equation (Section 14–8) to
+determine (a) the surface temperature of each star, and (b) how much larger one
+star is than the other.
+APPROACH We determine the surface temperature T for each star using Wien’s
+law and each star’s peak wavelength. Then, using the Stefan-Boltzmann equation
+(power output or luminosity
+), we can
+find the surface area ratio and relative sizes of the two stars.
+SOLUTION (a) Wien’s law (Eq. 27–2) states that
+So
+the tem

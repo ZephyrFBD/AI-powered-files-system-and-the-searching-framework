@@ -1,0 +1,28 @@
+ + 2 H+1aq2 ¡ Br21aq2 + 2 H2O1l2 
+[14.32]
+If this were the complete reaction, bromide ion would not be a catalyst because it under-
+goes chemical change during the reaction. However, hydrogen peroxide also reacts with 
+the Br21aq2 generated in Equation 14.32:
+ 
+Br21aq2 + H2O21aq2 ¡ 2 Br-1aq2 + 2 H +1aq2 + O21g2 
+[14.33] 
+of NO by assuming that an equilibrium is established in the first 
+step.
+Solve The second step is rate determining, so the overall rate is
+Rate = k23N2O243Br24
+We solve for the concentration of the intermediate N2O2 by as-
+suming that an equilibrium is established in step 1; thus, the rates 
+of the forward and reverse reactions in step 1 are equal:
+k13NO42 = k-13N2O24
+Solving for the concentration of the intermediate, N2O2, gives
+3N2O24 =
+k1
+k-1
+3NO42
+Substituting this expression into the rate expression gives
+Rate = k2
+k1
+k-1
+3NO423Br24 = k3NO423Br24
+Thus, this mechanism also yields a rate law consistent with the ex-
+perimental one. Remember: There may be more than on

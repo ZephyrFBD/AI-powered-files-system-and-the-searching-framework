@@ -1,0 +1,18 @@
+nd relative sizes of the 
+ions in the compounds. We then use Equation 8.4 qualitatively 
+to determine the relative energies, knowing that (a) the larger the 
+ionic charges, the greater the energy and (b) the farther apart the 
+ions are, the lower the energy.
+Solve NaF consists of Na+ and F- ions, CsI of Cs+ and I- ions, and 
+CaO of Ca2+ and O2- ions. Because the product Q 1Q 2 appears in 
+the numerator of Equation 8.4, the lattice energy increases dra-
+matically when the charges increase. Thus, we expect the lattice 
+energy of CaO, which has 2+ and 2- ions, to be the greatest of the 
+three.
+The ionic charges are the same in NaF and CsI. The difference in 
+their lattice energies thus depends on the difference in the dis-
+tance between ions in the lattice. Because ionic size increases as we 
+go down a group in the periodic table 
+ (Section 7.3), we know 
+that Cs+ is larger than Na+ and I- is larger than F -. Therefore, the 
+distance between Na+ and F - ions in NaF is less than the distan

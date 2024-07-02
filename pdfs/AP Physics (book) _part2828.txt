@@ -1,0 +1,19 @@
+good because of aberrations
+and, more importantly, turbulence in the atmosphere. In fact, large-diameter objec-
+tives are not justified by increased resolution, but by their greater light-gathering
+ability—they allow more light in, so fainter objects can be seen. Radiotelescopes
+are not hindered by atmospheric turbulence, and the resolution found in (b) is
+a good estimate.
+For a microscope, it is more convenient to specify the actual distance, s,
+between two points that are just barely resolvable: see Fig. 25–31. Since objects
+are normally placed near the focal point of the microscope objective, the angle
+subtended by two objects is 
+so 
+If we combine this with
+Eq. 25–7, we obtain the resolving power (RP) of a microscope
+[microscope]
+(25;8)
+where f is the objective lens’ focal length (not frequency) and D its diameter. The
+distance s is called the resolving power of the lens because it is the minimum
+separation of two object points that can just be resolved—assuming the highest
+quality

@@ -1,0 +1,12 @@
+s usually too large to run through the gel and forms a single large band at the top of the gel.
+680
+Chapter 17 | Biotechnology and Genomics
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 17.3 Shown are DNA fragments from seven samples run on a gel, stained with a fluorescent dye, and viewed
+under UV light. (credit: James Jacob, Tompkins Cortland Community College)
+Amplification of Nucleic Acid Fragments by Polymerase Chain Reaction
+Although genomic DNA is visible to the naked eye when it is extracted in bulk, DNA analysis often requires focusing on
+one or more specific regions of the genome. Polymerase chain reaction (PCR) is a technique used to amplify specific
+regions of DNA for further analysis (Figure 17.4). PCR is used for many purposes in laboratories, such as the cloning of
+gene fragments to analyze genetic diseases, identification of contaminant foreign DNA in a sample, and the amplification
+of DNA for sequencing. More practical applicati

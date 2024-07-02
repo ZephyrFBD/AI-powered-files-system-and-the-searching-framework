@@ -1,0 +1,67 @@
+iddle and right samples in the figure 
+were mixed. Would the resulting solution be acidic, neutral, or basic?
+Acidic solution
+[H+] > [OH−]
+[H+][OH−] = 1.0 × 10−14
+Neutral solution
+[H+] = [OH−]
+[H+][OH−] = 1.0 × 10−14
+Basic solution
+[H+] < [OH−]
+[H+][OH−] = 1.0 × 10−14
+H
+y
+d
+ro
+ch
+lo
+r
+i
+c
+ac
+id
+H
+Cl
+(a
+q)
+W
+at
+er
+H
+2O
+S
+o
+di
+u
+m
+h
+y
+dr
+ox
+id
+e
+N
+a
+O
+H
+(a
+q
+)
+▲ Figure 16.5 Relative concentrations of H+ and OH− in aqueous solutions at 25 °C.
+Calculate the values of 3H+4 and 3OH -4 in a neutral aqueous solution at 25 °C.
+Sample Exercise 16.4 
+Calculating 3H+ 4 for Pure Water
+SOLUTION
+Analyze We are asked to determine the concentrations of H+ and 
+OH -  ions in a neutral solution at 25 °C.
+Plan We will use Equation 16.16 and the fact that, by definition, 
+3H+4 = 3OH -4 in a neutral solution.
+Solve We will represent the concentration of H+ and OH-  in neu-
+tral solution with x. This gives
+ 
+3H+43OH -4 = 1x21x2 = 1.0 * 10-14
+ 
+x2 = 1.0 * 10-14
+ 
+x = 1.0 * 10-7M = 3H+4 = 3OH -4
+In an acid sol

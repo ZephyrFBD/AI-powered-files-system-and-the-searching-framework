@@ -1,0 +1,37 @@
+ P L I E D
+Ballistic pendulum
+l
+M + m
+h
+l
+vM = 0
+M
+m
+(a)
+(b)
+v
+B
+′
+v
+B
+FIGURE 7;16 Ballistic pendulum.
+Example 7–9.
+P R O B L E M  S O L V I N G
+Use the conservation laws to 
+analyze a problem
+Railroad cars again. For the completely inelastic collision
+of the two railroad cars that we considered in Example 7–3, calculate how much
+of the initial kinetic energy is transformed to thermal or other forms of energy.
+APPROACH The railroad cars stick together after the collision, so this is a 
+completely inelastic collision. By subtracting the total kinetic energy after the
+collision from the total initial kinetic energy, we can find how much energy is
+transformed to other types of energy.
+SOLUTION Before the collision, only car A is moving, so the total initial
+kinetic energy is  
+After the
+collision, both cars are moving with half the speed,
+by conserva-
+tion of momentum (Example 7–3). So the total kinetic energy afterward is 
+Hence the
+energy transformed to other forms is
+which is half the 

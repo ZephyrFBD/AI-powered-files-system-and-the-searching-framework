@@ -1,0 +1,12 @@
+coin is flipped 100
+times, the number of heads obtained would approach the expected probability of ½. However, if the coin is flipped
+only 5 times (analogous to a small population), one may obtain, by chance, all tails. Similarly, gene frequencies,
+especially in small populations, may change by chance.
+Two special kinds of genetic drift are commonly observed, as follows:
+The founder effect occurs when allele frequencies in a group of migrating individuals are, by chance, not the same
+as that of their population of origin. For example, one of the founding members of the small group of Germans that
+began the Amish community in Pennsylvania possessed an allele for polydactylism (more than five fingers or toes
+on a limb). After 200 years of reproductive
+isolation, the number of cases of this trait among the 8,000 Amish exceeded the number of cases occurring in the
+remaining world’s population.
+A bottleneck occurs when the population undergoes a dramatic decrease in size. Regardless of the 

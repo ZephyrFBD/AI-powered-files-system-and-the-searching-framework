@@ -1,0 +1,12 @@
+ explains the “aerobic” in aerobic respiration. If oxygen weren’t available
+to accept the electrons, they wouldn’t move down the chain at all, thereby shutting down the whole process of
+electron transport.
+NADP+ is the terminal electron acceptor in photosynthesis, while oxygen is the
+terminal electron acceptor in cellular respiration.
+Chemiosmosis
+At the same time that electrons are being passed down the electron transport chain, another mechanism is at work.
+Remember those hydrogen ions (also called protons) that split off from the original hydrogen atom? The energy
+released from the electron transport chain is used to pump hydrogen ions across the inner mitochondrial membrane
+from the matrix into the intermembrane space. The pumping of hydrogen ions into the intermembrane space creates
+a pH gradient, or proton gradient. The hydrogen ions really want to diffuse back into the matrix. The potential
+energy established in this gradient is responsible for the production of ATP. This pumpin

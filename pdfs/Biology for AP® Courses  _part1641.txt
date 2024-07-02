@@ -1,0 +1,13 @@
+ mRNA transcript forms
+only a weak interaction with the template DNA. This, coupled with the stalled polymerase, induces enough instability for
+the core enzyme to break away and liberate the new mRNA transcript.
+602
+Chapter 15 | Genes and Proteins
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Upon termination, the process of transcription is complete. By the time termination occurs, the prokaryotic transcript would
+already have been used to begin synthesis of numerous copies of the encoded protein because these processes can occur
+concurrently. The unification of transcription, translation, and even mRNA degradation is possible because all of these
+processes occur in the same 5' to 3' direction, and because there is no membranous compartmentalization in the prokaryotic
+cell (Figure 15.9). In contrast, the presence of a nucleus in eukaryotic cells precludes simultaneous transcription and
+translation.
+Figure 15.9 Multiple polymerases can transcribe a sin

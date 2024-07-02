@@ -1,0 +1,10 @@
+ispel its waste.
+An important concept in understanding how efficient diffusion is as a means of transport is the surface area to volume ratio.
+Recall that any three-dimensional object has a surface area and volume; the ratio of these two quantities is the surface-
+to-volume ratio. Consider a cell shaped like a perfect sphere: it has a surface area of 4πr2, and a volume of (4/3)πr3. The
+surface-to-volume ratio of a sphere is 3/r; as the cell gets bigger, its surface area to volume ratio decreases, making diffusion
+less efficient. The larger the size of the sphere, or animal, the less surface area for diffusion it possesses.
+The solution to producing larger organisms is for them to become multicellular. Specialization occurs in complex organisms,
+allowing cells to become more efficient at doing fewer tasks. For example, circulatory systems bring nutrients and remove
+waste, while respiratory systems provide oxygen for the cells and remove carbon dioxide from them. Other organ systems
+have

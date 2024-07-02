@@ -1,0 +1,44 @@
+tron density from the bonding region and so is an antibonding molecular 
+orbital. In both MOs, the electron density lies along the internuclear axis, so they are s 
+molecular orbitals: s
+2p and s*
+2p.
+The other 2p orbitals overlap sideways and thus concentrate electron density above 
+and below the internuclear axis. MOs of this type are called pi 1P2 molecular orbitals 
+by analogy to p bonds. We get one p bonding MO by combining the 2px atomic orbit-
+als and another from the 2py atomic orbitals. These two p
+2p molecular orbitals have the 
+same energy; in other words, they are degenerate. Likewise, we get two degenerate p*
+2p 
+Go Figure
+In which MO is the overlap of atomic orbitals greater, a s
+2p  
+or a p
+2p?
+2pz
+2pz
+2px
+2py
+2py
+2px
+End-on overlap
+Sideways overlap
+p2p
+p2p
+p2p
+s2p
+p2p
+s2p
+1
+AO
+AO
+Antibonding MO
+Bonding MO
+1
+1
+1
+Energy
+▲ Figure 9.36 Contour representations of the molecular orbitals formed by 2p orbitals.
+374 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+antibonding 

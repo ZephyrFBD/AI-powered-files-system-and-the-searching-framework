@@ -1,0 +1,25 @@
+ to three decimal places before and after pumping 
+out the gas, could the density of the gas then be calculated to 
+four significant figures?
+In this case each quantity has two decimal places. Thus, the mass 
+of the gas, 1.38 g, has two decimal places.
+Using the volume given in the question, 1.05 * 103 cm3, and the 
+definition of density, we have
+ 
+Density =
+mass
+volume =
+1.38 g
+1.05 * 103 cm3
+ = 1.31 * 10-3 g>cm3 = 0.00131 g>cm3
+In dividing numbers, we determine the number of significant fig-
+ures our result should contain by counting the number of signifi-
+cant figures in each quantity. There are three significant figures in 
+our answer, corresponding to the number of significant figures in 
+the two numbers that form the ratio. Notice that in this example, 
+following the rules for determining significant figures gives an 
+answer containing only three significant figures, even though the 
+measured masses contain five significant figures.
+Pump out gas
+    Mass: 836.25  g
+Volume: 1.05 3

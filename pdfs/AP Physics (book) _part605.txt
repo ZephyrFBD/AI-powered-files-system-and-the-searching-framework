@@ -1,0 +1,52 @@
+es back with a force
+where  
+because  x 6 0.
+F
+S 7 0
+F
+S = –kx,
+F
+B
+ext
+Ax 6 0B
+F
+S = –kx.
+F
+B
+S,
+F
+B
+ext
+xf
+F
+—=   kxf
+Fext = kx
+F
+0
+x
+1
+2
+FIGURE 6–15 As a spring is
+stretched (or compressed), the 
+magnitude of the force needed 
+increases linearly as x increases:
+graph of  
+vs. x from
+to x = xf.
+x = 0
+F = kx
+(a)
+(b)
+(c)
+FIGURE 6–13 A spring (a) can store
+energy (elastic PE) when compressed as in
+(b) and can do work when released (c).
+6–5 Conservative and
+Nonconservative Forces
+The work done against gravity in moving an object from one point to another
+does not depend on the path taken. For example, it takes the same work
+to lift an object of mass m vertically a height h as to carry it up an 
+incline of the same vertical height, as in Fig. 6–4 (see Example 6–2). Forces 
+such as gravity, for which the work done does not depend on the path taken but
+only on the initial and final positions, are called conservative forces. The elastic
+force of a spring (or other elastic material), in which

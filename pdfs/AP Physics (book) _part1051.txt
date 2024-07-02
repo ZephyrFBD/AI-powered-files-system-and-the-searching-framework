@@ -1,0 +1,48 @@
+s case the crown of Example 10–8.
+All objects are at rest, so the tension 
+in the 
+connecting cord equals the weight w of the object:
+We show the free-body diagram of the 
+crown, and 
+is what causes the scale reading (it is 
+equal to the net downward force on the scale, by 
+Newton’s third law). (b) Submerged, the crown has 
+an additional force on it, the buoyant force 
+The 
+net force is zero, so
+The scale
+now reads
+where 
+is related to the 
+effective weight by
+Thus
+FT
+œ = w¿ = w - F
+B.
+w¿ = m¿g.
+m¿
+m¿ = 13.4 kg,
+FT
+œ + F
+B = mg (= w).
+F
+B.
+F
+T
+F
+T = mg.
+F
+T
+SECTION 10–7
+Buoyancy and Archimedes’ Principle
+271
+Archimedes’ principle applies equally well to objects that float, such as wood. In
+general, an object floats on a fluid if its density
+is less than that of the fluid
+This is readily seen from Fig. 10–14a, where a submerged log of mass 
+will
+experience a net upward force and float to the surface if
+; that is, if
+or
+At equilibrium—that is, when floating—the buoyant
+force on an object

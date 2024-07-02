@@ -1,0 +1,31 @@
+4 * 10–3 sB,
+120 mih
+55 ms
+EXAMPLE 7;1
+ESTIMATE
+172
+CHAPTER 7
+Linear Momentum
+v = 20 m/s
+x
+FIGURE 7;2 Example 7–2.
+FIGURE 7;1 Example 7–1.
+Washing a car: momentum change and force. Water
+leaves a hose at a rate of 
+with a speed of 
+and is aimed at the side
+of a car, which stops it, Fig. 7–2. (That is, we ignore any splashing back.) What
+is the force exerted by the water on the car?
+APPROACH The water leaving the hose has mass and velocity, so it has a
+momentum 
+in the horizontal (x) direction, and we assume gravity doesn’t
+pull the water down significantly. When the water hits the car, the water loses
+this momentum
+We use Newton’s second law in the momentum
+form, Eq. 7–2, to find the force that the car exerts on the water to stop it.
+By Newton’s third law, the force exerted by the water on the car is equal and
+opposite. We have a continuing process: 1.5 kg of water leaves the hose in
+each 1.0-s time interval. So let us write
+where
+and
+SOLUTION The force (assumed constant) that the ca

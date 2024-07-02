@@ -1,0 +1,21 @@
+ium-constant expression in terms of molari-
+ties for the aqueous reaction.
+Calculating Equilibrium Constants (section 15.5)
+ 15.31 Methanol 1CH3OH2 is produced commercially by the 
+catalyzed reaction of carbon monoxide and hydrogen: 
+CO1g2 + 2 H21g2 ∆ CH3OH1g2. An equilibrium mix-
+ture in a 2.00-L vessel is found to contain 0.0406 mol 
+CH3OH, 0.170 mol CO, and 0.302 mol H2 at 500 K. Calcu-
+late Kc at this temperature.
+ 15.32 Gaseous hydrogen iodide is placed in a closed container 
+at 425 °C, where it partially decomposes to hydrogen and 
+iodine: 2 HI1g2 ∆ H21g2 + I21g2. At equilibrium it is 
+found that 3HI4 = 3.53 * 10-3 M, 3H24 = 4.79 * 10-4 M, 
+and 3I24 = 4.79 * 10-4 M. What is the value of Kc at this 
+temperature?
+ 15.14 The equilibrium constant for the dissociation of molecu-
+lar iodine, I21g2 ∆2 I1g2, at 800 K is Kc = 3.1 * 10-5. 
+(a) Which species predominates at equilibrium I2 or I? 
+ 
+(b) Assuming both forward and reverse reactions are 
+elementary processes, which reaction has 

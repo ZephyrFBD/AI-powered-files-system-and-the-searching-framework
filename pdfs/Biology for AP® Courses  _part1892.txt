@@ -1,0 +1,13 @@
+eral public. Just as we use global positioning systems instead of paper maps to navigate through
+roadways, NCBI has created a genome viewer tool to simplify the data-mining process.
+How to Use a Genome Map Viewer
+696
+Chapter 17 | Biotechnology and Genomics
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Problem statement: Do the human, macaque, and mouse genomes contain common DNA sequences?
+Develop a hypothesis.
+To test the hypothesis, click this link (http://openstaxcollege.org/l/32mapview) .
+In Search box on the left panel, type any gene name or phenotypic characteristic, such as iris pigmentation (eye color).
+Select the species you want to study, and then press Enter. The genome map viewer will indicate which chromosome
+encodes the gene in your search. Click each hit in the genome viewer for more detailed information. This type of search
+is the most basic use of the genome viewer; it can also be used to compare sequences between species, as well as m

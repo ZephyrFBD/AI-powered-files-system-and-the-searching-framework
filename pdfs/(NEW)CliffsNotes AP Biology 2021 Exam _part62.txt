@@ -1,0 +1,11 @@
+es:
+The substrate is the substance or substances upon which the enzyme acts. For example, the enzyme amylase
+catalyzes the breakdown of the substrate amylose (starch).
+Enzymes are substrate specific. The enzyme amylase, for example, catalyzes the reaction that breaks the α-
+glycosidic linkage in starch but cannot break the β-glycosidic linkage in cellulose.
+An enzyme is unchanged as a result of a reaction. It can perform its enzymatic function repeatedly.
+An enzyme catalyzes a reaction in both forward and reverse directions. The direction of net activity is determined
+by substrate concentrations and other factors. The net direction of an enzyme reaction can be driven in the forward
+direction by keeping the product concentration low (by its removal, or conversion to another product).
+The efficiency of an enzyme is affected by temperature and pH. The human body, for example, is maintained at a
+temperature of 98.6°F, near the optimal temperature for most human enzymes. Above 104°F, these 

@@ -1,0 +1,15 @@
+his factor
+appears because the width of a circular hole is not uniform (like a rectangular slit)
+but varies from its diameter D to zero. A mathematical analysis shows that the
+“average” width is 
+1.22. Hence we get the equation above rather than Eq. 24–3.
+The intensity of light in the diffraction pattern from a point source of light passing
+through a circular opening is shown in Fig.25–30. The image for a non-point source
+is a superposition of such patterns. For most purposes we need consider only the
+central spot, since the concentric rings are so much dimmer.
+If two point objects are very close, the diffraction patterns of their images
+will overlap as shown in Fig. 25–29b. As the objects are moved closer, a separation
+is reached where you can’t tell if there are two overlapping images or a single image.
+The separation at which this happens may be judged differently by different obser-
+vers. However, a generally accepted criterion is that proposed by Lord Rayleigh
+(1842–1919). This Ra

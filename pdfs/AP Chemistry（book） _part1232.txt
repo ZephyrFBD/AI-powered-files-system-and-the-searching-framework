@@ -1,0 +1,21 @@
+ons, their sizes, and their arrangement in the solid. We saw in Section 5.1 that the 
+ 
+electrostatic potential energy of two interacting charged particles is given by
+ 
+Eel = kQ 1Q 2
+d
+ 
+[8.4]
+In this equation Q 1 and Q 2 are the charges on the particles in Coulombs, with 
+their signs; d is the distance between their centers in meters; and k is a constant, 
+8.99 * 109 J@m>C2. Equation 8.4 indicates that the attractive interaction between 
+two oppositely charged ions increases as the magnitudes of their charges increase 
+and as the distance between their centers decreases. Thus, for a given arrangement 
+of ions, the lattice energy increases as the charges on the ions increase and as their radii 
+decrease. The variation in the magnitude of lattice energies depends more on ionic 
+charge than on ionic radius because ionic radii vary over only a limited range compared 
+to charges.
+Give It Some Thought
+If you were to perform the reaction KCl1s2 ¡ K+1g2+ Cl-1g2, would energy be 
+released?
+Be

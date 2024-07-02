@@ -1,0 +1,22 @@
+
+relativity a viable theory in that it can predict accurate results at low speed as well
+as at high. Indeed, the other equations of special relativity also reduce to their
+classical equivalents at ordinary speeds: length contraction, time dilation, and
+modifications to momentum as well as kinetic energy, all disappear for
+since
+A useful relation between the total energy E of a particle and its momentum p
+can also be derived. The momentum of a particle of mass m and speed v is given
+by Eq. 26–4
+The total energy is
+or
+We square this equation (and we insert “
+” which is zero, but will help us):
+or
+(26–9)
+Thus, the total energy can be written in terms of the momentum p, or in terms of
+the kinetic energy (Eq.26–6a), where we have assumed there is no potential energy.
+Invariant Energy–Momentum
+We can rewrite Eq. 26–9 as 
+Since the mass m of a given
+particle is the same in any reference frame, we see that the quantity
+must also be the same in any reference frame. Thus, at any given moment the

@@ -1,0 +1,22 @@
+of the target (Fig. 28–13) emits radiation because of its deceleration
+(Chapter 22), and in this case it is called bremsstrahlung (German for “braking
+radiation”). Because energy is conserved, the energy of the emitted photon, hf,
+equals the loss of kinetic energy of the electron,
+so
+An electron may lose all or a part of its energy in such a collision. The continuous
+X-ray spectrum (Fig. 28–11) is explained as being due to such bremsstrahlung
+collisions in which varying amounts of energy are lost by the electrons. The
+shortest-wavelength X-ray (the highest frequency) must be due to an electron
+that gives up all its kinetic energy to produce one photon in a single collision.
+Since the initial kinetic energy of an electron is equal to the energy given it by the
+accelerating voltage, V, then
+In a single collision in which the electron
+is brought to rest 
+then 
+and
+We set
+where 
+is the cutoff wavelength (Fig. 28–11) and find
+(28;4)
+This prediction for 
+corresponds precisely with that obser

@@ -1,0 +1,20 @@
+everse?
+31. (II) A model-train transformer plugs into 120-V ac and draws
+0.35 A while supplying 6.8 A to the train. (a) What voltage
+is present across the tracks? (b) Is the transformer step-up
+or step-down?
+32. (II) The output voltage of a 95-W transformer is 12 V, and
+the input current is 25 A. (a) Is this a step-up or a step-down
+transformer? (b) By what factor is the voltage multiplied?
+33. (II) A transformer has 330 primary turns and 1240 secondary
+turns. The input voltage is 120 V and the output current is
+15.0 A. What are the output voltage and input current?
+34. (II) If 35 MW of power at 45 kV (rms) arrives at a town from
+a generator via 
+transmission lines, calculate (a) the
+emf at the generator end of the lines, and (b) the fraction
+of the power generated that is wasted in the lines.
+35. (II) For the transmission of electric power from power plant
+to home, as depicted in Fig. 21–25, where the electric power
+sent by the plant is 100 kW, about how far away could the
+house be fr

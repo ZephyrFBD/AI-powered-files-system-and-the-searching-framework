@@ -1,0 +1,55 @@
+cm
+wH =  0.07w
+(head)
+wA =  0.12w
+ (2 arms)
+wT =  0.46w
+(trunk)
+w = Total weight
+        of person
+(b)
+Erector spinae
+muscles
+Fifth
+lumbar
+vertebra
+w
+B
+F
+B
+w
+B
+    H
+w
+B
+F
+B
+F
+B
+F
+B
+t
+FIGURE 9–14 (a) A person bending
+over. (b) Forces on the back exerted
+by the back muscles 
+and by the
+vertebrae 
+when a person bends
+over. (c) Finding the lever arm for F
+B
+M.
+(F
+B
+V)
+(F
+B
+M)
+9–4 Stability and Balance
+An object in static equilibrium, if left undisturbed, will undergo no translational
+or rotational acceleration since the sum of all the forces and the sum of all the
+torques acting on it are zero. However, if the object is displaced slightly, three
+outcomes are possible: (1) the object returns to its original position, in which case
+it is said to be in stable equilibrium; (2) the object moves even farther from its orig-
+inal position, and it is said to be in unstable equilibrium; or (3) the object remains
+in its new position, and it is said to be in neutral equilibrium.
+Consider the followin

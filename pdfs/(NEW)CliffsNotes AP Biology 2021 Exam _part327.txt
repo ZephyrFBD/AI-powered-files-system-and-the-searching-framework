@@ -1,0 +1,10 @@
+ nucleotides on the mRNA, called a codon, codes for one
+specific amino acid. Since there are 64 possible ways that four nucleotides can be arranged in triplet combinations (4
+× 4 × 4 = 64), there are 64 possible codons. However, there are only 20 amino acids, and thus, some codons code for
+the same amino acid. The genetic code, given in Figure 9-4, provides the decoding for each codon. That is, it
+identifies the amino acid specified by each of the possible 64 codon combinations. For example, the codon
+composed of the three nucleotides cytosine-guanine-adenine (CGA) codes for the amino acid arginine. This can be
+found in Figure 9-4 by aligning the C found in the first column with the G in the center part of the table and the A in
+the column at the far right. Note that three of the codons in the genetic code are stop codons. They signal an end to
+translation rather than code for an amino acid. Therefore, only 61 of the codons actually code for amino acids. The
+codon that codes for the am

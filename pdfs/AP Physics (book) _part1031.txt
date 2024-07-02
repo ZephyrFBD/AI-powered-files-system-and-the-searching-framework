@@ -1,0 +1,17 @@
+s slightly according to the weather.
+At sea level, the pressure of the atmosphere on average is 
+(or 
+). This value lets us define a commonly used unit of pressure, the
+atmosphere (abbreviated atm):
+Another unit of pressure sometimes used (in meteorology and on weather maps)
+is the bar, which is defined as
+Thus standard atmospheric pressure is slightly more than 1 bar.
+The pressure due to the weight of the atmosphere is exerted on all objects
+immersed in this great sea of air, including our bodies. How does a human body
+withstand the enormous pressure on its surface? The answer is that living cells
+maintain an internal pressure that closely equals the external pressure, just as 
+the pressure inside a balloon closely matches the outside pressure of the atmos-
+phere. An automobile tire, because of its rigidity, can maintain internal pressures
+much greater than the external pressure.
+Finger holds water in a straw. You insert
+a straw of length into a tall glass of water. You place your fin

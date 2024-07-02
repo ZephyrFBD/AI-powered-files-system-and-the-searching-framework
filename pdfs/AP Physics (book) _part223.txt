@@ -1,0 +1,35 @@
+along a straight tunnel as a
+function of time is plotted in Fig. 2–44. What is its instan-
+taneous velocity (a) at
+and (b) at
+What is its average velocity (c) between
+and
+(d) between 
+and
+and 
+(e) between
+and t = 50.0 s?
+t = 40.0 s
+t = 30.0 s,
+t = 25.0 s
+t = 5.0 s,
+t = 0
+t = 30.0 s?
+t = 10.0 s
+58. (II) In Fig. 2–44, (a) during what time periods, if any, is
+the velocity constant? (b) At what time is the velocity
+greatest? (c) At what time, if any, is the velocity zero?
+(d) Does the object move in one direction or in both
+directions during the time shown?
+59. (III) Sketch the v vs.
+graph for the object whose displace-
+ment as a function of time is given by Fig. 2–44.
+t
+66. An airplane travels 2100 km at a speed of 
+and
+then encounters a tailwind that boosts its speed to 
+for the next 2800 km. What was the total time for the trip?
+What was the average speed of the plane for this trip?
+[Hint: Does Eq. 2–11d apply?]
+67. Suppose a car manufacturer tested its cars for front-end
+collisions by 

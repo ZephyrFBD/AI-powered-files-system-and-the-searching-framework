@@ -1,0 +1,28 @@
+32.0 mCs
+1.6 * 106 Vms.
+ID
+120 Vs.
+E
+B
+B
+B
+Problems
+16. (II) How long would it take a message sent as radio waves
+from Earth to reach Mars when Mars is (a) nearest Earth,
+(b) farthest from Earth? Assume that Mars and Earth are
+in the same plane and that their orbits around the Sun are
+circles (Mars is
+from the Sun).
+17. (II) Our nearest star (other than the Sun) is 4.2 light-years
+away. That is, it takes 4.2 years for the light it emits to reach
+Earth. How far away is it in meters?
+18. (II) A light-year is a measure of distance (not time). How
+many meters does light travel in a year?
+19. (II) Pulsed lasers used for science and medicine produce
+very brief bursts of electromagnetic energy. If the laser
+light wavelength is 1062 nm (Neodymium–YAG laser), and
+the pulse lasts for 34 picoseconds, how many wavelengths
+are found within the laser pulse? How brief would the pulse
+need to be to fit only one wavelength?
+22–4 Measuring the Speed of Light
+20. (II) What is the minimum angular spee

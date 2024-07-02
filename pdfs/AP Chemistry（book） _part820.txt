@@ -1,0 +1,30 @@
+n. (Section 5.4) 
+ 
+Related Exercises: 5.45–5.48
+t Calculate the heat transferred in a process from temperature 
+measurements together with heat capacities or specific heats 
+(calorimetry). (Section 5.5) Related Exercises: 5.50, 5.52–5.54
+t Use Hess’s law to determine enthalpy changes for reactions. 
+(Section 5.6) Related Exercises: 5.63–5.66
+t Use standard enthalpies of formation to calculate ∆H° for reac-
+tions. (Section 5.7) Related Exercises: 5.69, 5.71, 5.73, 5.75
+t Use average bond enthalpies to estimate the reaction enthalpies of 
+reactions where all reactants and products are in the gas phase. 
+(Section 5.8) Related Exercises: 5.81, 5.83, 5.85, 5.87
+Key Equations
+t w = F * d  
+[5.1] 
+Relates work to force and distance
+t Eel = kQ1Q2/d  
+[5.2] 
+Electrostatic potential energy.
+t ∆E = Efinal - Einitial  
+[5.3] 
+The change in internal energy
+t ∆E = q + w  
+[5.4] 
+ 
+Relates the change in internal energy to heat and work (the first law 
+of thermodynamics)
+t H = E + PV  
+[5.5]

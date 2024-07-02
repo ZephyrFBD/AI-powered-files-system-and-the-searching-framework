@@ -1,0 +1,95 @@
+
+0
+0
+2
+1
+1
+2
+1
+1
+2
+1
+0
+2
+1
+0
+2
+1
+2
+1
+3
+0
+0
+1
+2
+– 1
+2
+–1
+1
+2
+–1
+– 1
+2
+1
+2
+– 1
+2
+1
+2
+– 1
+2
+1
+2
+– 1
+2
+1
+2
+ms
+mL
+L
+Z  11
+1
+2
+– 1
+2
+1
+2
+ms
+mL
+L
+Z  3
+– 1
+2
+1
+2
+ms
+mL
+L
+Z  2
+FIGURE 28–10 Energy level
+diagrams (not to scale) showing
+occupied states (arrows) and
+unoccupied states ( ) for the ground
+states of He, Li, and Na. Note that
+we have shown the 
+level of Li even though it is empty.
+n = 2,  l = 1
+
+n = 1, l = 0
+n = 1, l = 0
+n = 2, l = 0
+n = 2, l = 1
+n = 1, l = 0
+n = 2, l = 1
+n = 3, l = 0
+Helium (He, Z = 2)
+Lithium (Li, Z = 3)
+Sodium (Na, Z = 11)
+n = 2, l = 0
+The ground-state configuration for all atoms is given in the Periodic Table, which
+is displayed inside the back cover of this book, and discussed in the next Section.
+[The exclusion principle applies to identical particles whose spin quantum num-
+ber is a half-integer (
+and so on), including electrons, protons, and neutrons;
+such particles are called fermions, after Enrico Fermi who derived a statistical
+theory describing them. A b

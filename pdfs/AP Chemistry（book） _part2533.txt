@@ -1,0 +1,22 @@
+any dilute aqueous solution and can 
+be used to calculate either 3H+4 (if 3OH -4 is known) or 3OH -4 (if 3H+4 is known).
+Calculate the concentration of H+1aq2 in (a) a solution in which 3OH -4 is 0.010 M, (b) a solution in which 3OH -4 is 
+1.8 * 10-9M. Note: In this problem and all that follow, we assume, unless stated otherwise, that the temperature is 25 °C.
+Solve
+(a) Using Equation 16.16, we have
+Analyze We are asked to calculate the 3H+4 concentration in an 
+aqueous solution where the hydroxide concentration is known.
+Plan We can use the equilibrium-constant expression for the auto-
+ionization of water and the value of Kw to solve for each unknown 
+concentration.
+ 
+▶Practice Exercise 1
+A solution has 3OH -4 = 4.0 * 10 - 8. What is the value of 
+3H+4 for the solution?
+(a) 2.5 * 10 - 8 M (b) 4.0 * 10 - 8 M  (c) 2.5 * 10 - 7 M
+(d) 2.5 * 10 - 6 M (e) 4.0 * 10 - 6 M
+ 
+▶Practice Exercise 2
+Calculate the concentration of OH -1aq2 in a solution in 
+which
+(a) 3H+4 = 2 * 10 - 6 M; (b) 3H+4 =

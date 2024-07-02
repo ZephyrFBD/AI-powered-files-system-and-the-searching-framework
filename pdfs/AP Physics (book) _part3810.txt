@@ -1,0 +1,29 @@
+have to be written out. However, if the base numbers are different but the expo-
+nents are the same, we can write a second rule:
+(A;2)
+For example,
+since
+The third rule involves a power raised to another power:
+means 
+which is equal to
+The general rule is then
+(A;3)
+In this case, the exponents are multiplied.
+Negative exponents are used for reciprocals. Thus,
+and so on. The reason for using negative exponents is to allow us to use the
+multiplication rules given above. For example,
+means
+after canceling 3 of the a’s. Rule A–1 gives us the same result:
+What does an exponent of zero mean? That is, what is 
+Any number
+raised to the zeroth power is defined as being equal to 1:
+This definition is used because it follows from the rules for adding exponents.
+For example,
+But does
+actually equal 1? Yes, because
+Fractional exponents are used to represent roots. For example,
+means the 
+square root of a; that is,
+Similarly,
+means the cube root of a, and so
+on. The fourth root of a means that if yo

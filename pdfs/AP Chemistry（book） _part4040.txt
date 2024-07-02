@@ -1,0 +1,38 @@
+Hg (c) 3.53 * 104 Pa (d) 0.353 bar (e) 5.13 psi  
+10.21 (a) P = 773.4 torr (b) P = 1.018 atm (c) The pressure in Chi-
+cago is greater than standard atmospheric pressure, and so it makes 
+sense to classify this weather system as a “high-pressure system.” 
+10.23 (i) 0.31 atm (ii) 1.88 atm (iii) 0.136 atm 10.25 The action in 
+(c) would double the pressure 10.27 (a) Boyle’s Law, PV =  constant 
+or P
+1V1 = P
+2V2, at constant V, P
+1
+ >  P
+2 = 1; Charles’ Law, V  >  T = con-
+stant or V1
+ >  T
+1 = V2
+ >  T
+2, at constant V, T
+1
+ >  T
+2 = 1; then P
+1
+ >  T
+1 = P
+2
+ >  T
+2 
+or P >  T = constant. Amonton’s law is that pressure and Kelvin tem-
+perature are directly proportional at constant volume. (b) 34.7 psi 
+10.29 (a) STP stands for standard temperature, 0 °C (or 273 K), and 
+standard pressure, 1 atm. (b) 22.4 L (c) 24.5 L (d) 0.08315 L-bar/mol-K 
+10.31 Flask A contains the gas with a molar mass of 30 g  >  mol and 
+ﬂask B contains the gas with a molar mass of 60 g  >  mol.
+10.33
+P
+V
+n
+T
+200 at

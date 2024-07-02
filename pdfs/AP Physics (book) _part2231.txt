@@ -1,0 +1,24 @@
+llel to the field and
+in Eq. 20–1.
+But the magnetic field does exert a force on each of the vertical sections of wire
+as shown,
+and 
+(see also top view, Fig. 20–34b). By right-hand-rule-2
+(Fig. 20–11c or Table 20–1) the direction of the force on the upward current on
+the left is in the opposite direction from the equal magnitude force 
+on the
+downward current on the right. These forces give rise to a net torque that acts to
+rotate the coil about its vertical axis.
+Let us calculate the magnitude of this torque. From Eq. 20–2
+the force
+where a is the length of the vertical arm of the coil (Fig.20–34a).
+The lever arm for each force is 
+where b is the width of the coil and the “axis”
+is at the midpoint. The torques around this axis produced by 
+and 
+act in the
+same direction (Fig. 20–34b), so the total torque is the sum of the two torques:
+where
+is the area of the coil. If the coil consists of N loops of wire, the
+current is then NI, so the torque becomes
+If the coil makes an angle with th

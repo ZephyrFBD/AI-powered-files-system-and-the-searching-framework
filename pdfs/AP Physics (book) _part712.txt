@@ -1,0 +1,82 @@
+er energy is produced in the collision, then 
+the total kinetic energy of the two objects is the same after the collision as before.
+For the brief moment during which the two objects are in contact, some (or 
+all) of the energy is stored momentarily in the form of elastic potential energy.
+178
+CHAPTER 7
+Linear Momentum
+A
+B
+A B
+  A
+  B
+A
+B
+   ′
+A
+   ′
+A A
+B
+    
+′
+B
+(a) Approach
+(b) Collision
+(c) If elastic
+(d) If inelastic
+    
+′
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+v
+B
+FIGURE 7;12 Two equal-mass
+objects (a) approach each other 
+with equal speeds, (b) collide, and
+then (c) bounce off with equal
+speeds in the opposite directions if
+the collision is elastic, or (d) bounce
+back much less or not at all if the
+collision is inelastic (some of the KE
+is transformed to other forms of
+energy such as sound and heat).
+x
+y
+  A
+  B
+x
+y
+mA
+(a)
+mB
+mA
+mB
+(b)
+   ′
+A
+   ′B
+v
+B
+v
+B
+v
+B
+v
+B
+FIGURE 7;13 Two small objects of
+masses 
+and 
+(a) before the
+collision and (b) after the collision.
+mB,
+mA
+†Note that Eqs. (i) and 

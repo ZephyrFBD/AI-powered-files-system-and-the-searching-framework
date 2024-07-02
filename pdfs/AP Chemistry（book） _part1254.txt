@@ -1,0 +1,25 @@
+lements. With some exceptions (espe-
+cially in the transition metals), electronegativity decreases with increasing atomic number in a 
+group. This is what we expect because we know that ionization energies decrease with increas-
+ing atomic number in a group and electron affinities do not change very much.
+You do not need to memorize electronegativity values. Instead, you should know the 
+periodic trends so that you can predict which of two elements is more electronegative.
+Give It Some Thought
+How does the electronegativity of an element differ from its electron affinity?
+310 
+CHAPTER 8 Basic Concepts of Chemical Bonding
+Electronegativity and Bond Polarity
+We can use the difference in electronegativity between two atoms to gauge the polarity 
+of the bond the atoms form. Consider these three fluorine-containing compounds:
+F2
+HF
+LiF
+Electronegativity difference
+4.0 - 4.0 = 0
+4.0 - 2.1 = 1.9
+4.0 - 1.0 = 3.0
+Type of bond
+Nonpolar covalent
+Polar covalent
+Ionic
+In F2 the electrons are shared

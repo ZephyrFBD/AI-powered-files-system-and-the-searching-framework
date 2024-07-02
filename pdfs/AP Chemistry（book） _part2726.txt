@@ -1,0 +1,30 @@
+ pH of the solution of a weak base is described 
+in Section 16.7 and is shown in Sample Exercise 17.8.
+4. After equivalence point (excess base): In this region, 3OH-4 from the reac-
+tion of CH3COO- with water is negligible relative to 3OH-4 from the excess NaOH. 
+Thus, the pH is determined by the concentration of OH- from the excess NaOH. The 
+method for calculating pH in this region is therefore like that illustrated in Sample 
+Exercise 17.7(b). Thus, the addition of 51.0 mL of 0.100 M NaOH to 50.0 mL of either 
+0.100 M HCl or 0.100 M CH3COOH yields the same pH, 11.00. Notice by comparing 
+Figures 17.7 and 17.9 that the titration curves for a strong acid and a weak acid are 
+the same after the equivalence point.
+Go Figure
+If the acetic acid being titrated here were replaced by hydrochloric acid, 
+would the amount of base needed to reach the equivalence point change? 
+Would the pH at the equivalence point change?
+CH3COOH(aq)
+solution before 
+titration
+0
+2
+4
+6
+8
+pH
+10
+12
+14
+10
+20
+30
+40

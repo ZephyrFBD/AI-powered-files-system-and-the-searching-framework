@@ -1,0 +1,15 @@
+  
+Solubility Equilibria 
+739
+of H3PO3 is equal to that of H2PO3
+-, and at that point, pH = pKa1. Similar logic is true for 
+the second equilibrium reaction: halfway toward its equivalence point, pH = pKa2.
+We can then just look at titration data and estimate the pKas for the polyprotic acid 
+directly from the titration curve. This procedure is especially useful if you are trying to identify 
+an unknown polyprotic acid. In Figure 17.15, for instance, the first equivalence point occurs 
+for 50 mL NaOH added. Halfway to the equivalence point corresponds to 25 mL NaOH. 
+Because the pH at 25 mL NaOH is about 1.5 we may estimate pKa1 = 1.5 for phosphorous 
+acid. The second equivalence point occurs at 100 mL NaOH added; halfway there (from the 
+first equivalence point) is at 75 mL NaOH added. The graph indicates the pH at 75 mL NaOH 
+added is about 6.5, and we therefore estimate that pKa2 for phosphorous acid is 6.5. The actual 
+values for the two pKas are pKa1 = 1.3 and pKa2 = 6.7 (close to

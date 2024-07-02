@@ -1,0 +1,31 @@
+e primary windings of
+the transformer. (b) Calculate the ratio of the number 
+of primary windings of the transformer to the number of
+secondary windings of the transformer.
+2.4-,
+0.10 km.
+3.0 .
+B
+B,
+6.10 .
+81. A pair of power transmission lines each have a
+resistance and carry 740 A over 9.0 km. If the rms input
+voltage is 42 kV, calculate (a) the voltage at the other end,
+(b) the power input, (c) power loss in the lines, and (d) the
+power output.
+82. Two resistanceless rails rest 32 cm apart on a 6.0° ramp.
+They are joined at the bottom by a
+resistor. At the
+top a copper bar of mass 0.040 kg (ignore its resistance) is
+laid across the rails. Assuming a vertical 0.45-T magnetic
+field, what is the terminal (steady) velocity of the bar as it
+slides frictionlessly down the rails?
+83. Show that the power loss in transmission lines,
+is given
+by 
+where 
+is the power transmitted to
+the user, V is the delivered voltage, and 
+is the resistance
+of the power lines.
+84. A coil with 190 turns, 

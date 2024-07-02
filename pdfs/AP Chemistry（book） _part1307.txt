@@ -1,0 +1,75 @@
+for a number of common bonds (Table 8.4). Of particular interest is the 
+relationship, in any atom pair, among bond enthalpy, bond length, and number 
+of bonds between the atoms. For example, we can use data in Tables 8.3 and 8.4 to 
+compare the bond lengths and bond enthalpies of carbon–carbon single, double, 
+and triple bonds:
+C ¬C     C “C    C ‚C
+1.54 Å     1.34 Å    1.20 Å
+348 kJ/mol  614 kJ/mol  839 kJ/mol
+TABLE 8.4 Average Bond Lengths for Some Single, Double, and Triple Bonds
+Bond
+Bond Length (Å)
+Bond
+Bond Length (Å)
+C ¬C
+1.54
+N ¬ N
+1.47
+C “C
+1.34
+N “ N
+1.24
+C ‚C
+1.20
+N ‚ N
+1.10
+C ¬N
+1.43
+N ¬ O
+1.36
+C “N
+1.38
+N “ O
+1.22
+C ‚N
+1.16
+O¬ O
+1.48
+C ¬O
+1.43
+O “ O
+1.21
+C “O
+1.23
+C ‚O
+1.13
+Go Figure
+Predict the N ¬ N bond enthalpy for an N ¬ N bond that has 
+resonance forms that include equal contributions from single 
+and double N ¬ N bonds.
+N—N bond length (Å)
+N
+N
+1.00
+1.10
+1.20
+1.30
+1.40
+1.50
+1000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+N
+N
+N
+N
+N–N bond enthalpy (kJ/mol)
+▲ Figure 8.16 B

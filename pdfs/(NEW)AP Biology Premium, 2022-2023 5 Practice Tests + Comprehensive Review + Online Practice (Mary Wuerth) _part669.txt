@@ -1,0 +1,11 @@
+correct because prophase involves the condensation of the genetic material into
+visible chromosomes and the dissolution of the nuclear membrane.
+30. (A) The first step in cell signaling is the binding of the ligand to the receptor. So if an antibody irreversibly
+bound to a receptor, the cell signaling process could not start. Choice (B) would affect the secondary messenger
+cyclic AMP (cAMP) because adenylyl cyclase catalyzes the formation of cAMP from ATP. Choices (C) and
+(D) are incorrect because protein kinases and protein phosphatases are involved in the transduction of the signal,
+which occurs after the binding of the ligand to the receptor.
+31. (A) In this problem, it is stated that the population is NOT in Hardy-Weinberg equilibrium, nor is this
+population under the conditions necessary for Hardy-Weinberg equilibrium. So the Hardy-Weinberg equations
+cannot be used. To find the frequency of the nontaster allele, total up how many recessive alleles are in the
+population and divide 

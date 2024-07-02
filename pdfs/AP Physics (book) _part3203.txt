@@ -1,0 +1,31 @@
+shows up as an intrinsic width of 2.5 GeV. What is the life-
+time of this particle? [Hint: See Example 28–3.]
+7. (II) What is the uncertainty in the mass of a muon
+specified in 
+given its lifetime
+of 2.20 ms?
+eVc2,
+Am = 105.7 MeVc2B,
+Z0
+10–8 s.
+2.4 * 10–8 m,
+¢p = m ¢v.
+(8.66060.012) * 105 ms.
+120 ms
+8. (II) A free neutron 
+has a mean life
+of 880 s. What is the uncertainty in its mass (in kg)?
+9. (II) An electron and a 140-g baseball are each traveling
+measured to a precision of 0.065%. Calculate and
+compare the uncertainty in position of each.
+10. (II) A radioactive element undergoes an alpha decay with a
+lifetime of 
+If alpha particles are emitted with 5.5-MeV
+kinetic energy, find the percent uncertainty 
+in the
+particle energy.
+11. (II) If an electron’s position can be measured to a pre-
+cision of 15 nm, what is the uncertainty in its speed?
+Assuming the minimum speed must be at least equal to its
+uncertainty, what is the electron’s minimum kinetic energy?
+12. (II) Estimate the l

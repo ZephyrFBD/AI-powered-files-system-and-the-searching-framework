@@ -1,0 +1,16 @@
+ dilemma. They postulated that electrons have an intrinsic property, called 
+electron spin, that causes each electron to behave as if it were a tiny sphere spinning 
+on its own axis.
+By now, it may not surprise you to learn that electron spin is quantized. This 
+ 
+observation led to the assignment of a new quantum number for the electron, in 
+addition to n, l, and ml, which we have already discussed. This new quantum num-
+ber, the spin magnetic quantum number, is denoted ms (the subscript s stands 
+for spin). Two possible values are allowed for ms, +1
+2 or -1
+2, which were first interpreted 
+as indicating the two opposite directions in which the electron can spin. A spinning 
+charge produces a magnetic field. The two opposite directions of spin therefore pro-
+duce oppositely directed magnetic fields (Figure 6.26).* These two opposite magnetic 
+fields lead to the splitting of spectral lines into closely spaced pairs.
+Electron spin is crucial for understanding the electronic structures o

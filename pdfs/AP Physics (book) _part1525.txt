@@ -1,0 +1,26 @@
+is sort, be sure to include all objects that
+gain or lose heat (within reason). For simplicity, we have ignored very small masses,
+such as the thermometer and the stirrer, which will affect the energy balance only
+very slightly.
+Bomb Calorimeter
+A bomb calorimeter is used to measure the thermal energy released when a
+substance burns (including foods) to determine their Calorie content. A carefully
+weighed sample of the substance, with an excess amount of oxygen, is placed in a
+sealed container (the “bomb”). The bomb is placed in the water of the calorimeter
+and a fine wire passing into the bomb is then heated to ignite the mixture.
+The Calorie content of foods determined in this way can be unreliable because our
+bodies may not metabolize all the available energy (which would be excreted).
+Careful measurements and calculations need to take this into account.
+396
+CHAPTER 14
+Heat
+Thermometer
+Stirrer
+Insulating
+jacket
+Air (insulation)
+Calorimeter
+cup
+Insulating lid
+Water
+FIGURE 14;4 Simple

@@ -1,0 +1,65 @@
+
+Pressure and Temperature
+Temperature 1°C2
+Pressure (atm)
+20.0
+0.120
+30.0
+0.124
+40.0
+0.128
+50.0
+0.132
+0
+20.0
+40.0
+60.0
+80.0
+0.110
+0.120
+0.130
+0.140
+Temperature (°C)
+Pressure (atm)
+= 
+∆T
+atm
+°C
+0.0123 atm
+30.0 °C
+Intercept = 0.112 atm
+= 4.10 × 10−4 
+∆P
+Slope = 
+▲ Figure A.1 A graph of pressure versus temperature yields a straight line for the data.
+The percent carbon in a sugar is measured four times: 42.01%, 42.28%, 41.79%, and 42.25%. Calculate (a) the average and 
+(b) the standard deviation for these measurements.
+SOLUTION
+(a) The average is found by adding the quantities and dividing by 
+the number of measurements:
+x = 42.01 + 42.28 + 41.79 + 42.25
+4
+= 168.33
+4
+= 42.08
+(b) The standard deviation is found using the preceding equation:
+s = H
+a
+N
+i = 1
+1xi - x22
+N - 1
+Let’s tabulate the data so the calculation of a
+N
+i = 1
+1xi - x22 can be seen 
+clearly.
+Percent C
+Difference between 
+Measurement  
+and Average, 1xi - x2
+Square of  
+Difference, 1xi - x22
+42.01
+42.01 - 42.08 = -0.07
+1-0.0

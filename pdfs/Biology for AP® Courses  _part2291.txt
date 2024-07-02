@@ -1,0 +1,10 @@
+sts must collect accurate information that allows them to make evolutionary
+connections between organisms. Using morphologic and molecular data, scientists work to identify homologous
+characteristics and genes. Similarities between organisms can stem either from shared evolutionary history (homologies)
+or from separate evolutionary paths (analogies). Newer technologies can be used to help distinguish homologies from
+analogies. After homologous information is identified, scientists use cladistics to organize these events as a means to
+determine an evolutionary timeline. Scientists apply the concept of maximum parsimony, which states that the order of
+events probably occurred in the most obvious and simple way with the least amount of steps. For evolutionary events, this
+would be the path with the least number of major divergences that correlate with the evidence.
+20.3 Perspectives on the Phylogenetic Tree
+The phylogenetic tree, first used by Darwin, is the classic “tree of life” model d

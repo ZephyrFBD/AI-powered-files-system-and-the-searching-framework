@@ -1,0 +1,26 @@
+between the two
+blocks is 0.30. What is the maximum possible amplitude 
+of oscillation such that m will not slip off M?
+m = 1.25 kg,
+(k = 130 Nm)
+M = 6.0 kg
+m V M.
+5 mih
+2.0 ms
+410 kNm.
+67. A simple pendulum oscillates with frequency f. What is its
+frequency if the entire pendulum accelerates at 0.35 g
+(a) upward, and (b) downward?
+68. A 0.650-kg mass oscillates according to the equation
+where x is in meters and is in seconds.
+Determine (a) the amplitude, (b) the frequency, (c) the
+period, (d) the total energy, and (e) the kinetic energy and
+potential energy when x is 15 cm.
+69. An oxygen atom at a particular site within a DNA mole-
+cule can be made to execute simple harmonic motion
+when illuminated by infrared light. The oxygen atom is
+bound with a spring-like chemical bond to a phosphorus
+atom, which is rigidly attached to the DNA backbone.
+The oscillation of the oxygen atom occurs with frequency
+If the oxygen atom at this site is chem-
+ically replaced with a sulfur atom, the spr

@@ -1,0 +1,21 @@
+no tuner hears one beat every 2.0 s when trying to
+adjust two strings, one of which is sounding 350 Hz. How
+far off in frequency is the other string?
+47. (I) A certain dog whistle operates at 23.5 kHz, while another
+(brand X) operates at an unknown frequency. If humans
+can hear neither whistle when played separately, but a shrill
+whine of frequency 5000 Hz occurs when they are played
+simultaneously, estimate the operating frequency of brand X.
+48. (II) What is the beat frequency if middle C (262 Hz) and 
+(277 Hz) are played together? What if each is played
+two octaves lower (each frequency reduced by a factor of 4)?
+49. (II) A guitar string produces 
+when sounded with
+a 350-Hz tuning fork and 
+when sounded with a
+355-Hz tuning fork. What is the vibrational frequency of the
+string? Explain your reasoning.
+50. (II) Two violin strings are tuned to the same frequency,
+294 Hz. The tension in one string is then decreased by 2.5%.
+What will be the beat frequency heard when the two strings
+are

@@ -1,0 +1,32 @@
+which is why its lifetime is longer than normal.
+FIGURE 28–17 Two energy levels
+for a collection of atoms. Each dot
+represents the energy state of one
+atom. (a) A normal situation; (b) an
+inverted population.
+Normal
+population
+(a)
+Inverted
+population
+(b)
+FIGURE 28–18 Laser diagram, showing
+excited atoms stimulated to emit light.
+Mirror
+Partially
+transparent
+mirror
+Laser
+output
+beam
+In a well-designed laser, the spreading of the beam is limited only by diffrac-
+tion, so the angular spread is
+(see Eq.24–3 or 25–7) where D is the diameter
+of the end mirror. The diffraction spreading can be incredibly small. The light
+energy, instead of spreading out in space as it does for an ordinary light source, can
+be a pencil-thin beam.
+Creating an Inverted Population
+The excitation of the atoms in a laser can be done in several ways to produce the
+necessary inverted population. In a ruby laser, the lasing material is a ruby rod
+consisting of 
+with a small percentage of aluminum (Al) atoms replaced b

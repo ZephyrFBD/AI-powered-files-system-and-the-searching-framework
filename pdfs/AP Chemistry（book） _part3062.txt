@@ -1,0 +1,15 @@
+nergy of Formation
+Recall that we defined standard enthalpies of formation, ∆H°
+f, as the enthalpy change when a 
+substance is formed from its elements under defined standard conditions. 
+ (Section 5.7) 
+We can define standard free energies of formation, ∆Gf°, in a similar way: ∆Gf° for a 
+substance is the free-energy change for its formation from its elements under standard con-
+ditions. As is summarized in Table 19.2, standard state means 1 atm pressure for gases, the 
+pure solid for solids, and the pure liquid for liquids. For substances in solution, the standard 
+state is normally a concentration of 1 M. (In very accurate work it may be necessary to make 
+certain corrections, but we need not worry about these.)
+The temperature usually chosen for purposes of tabulating data is 25 °C, but we will 
+calculate ∆G at other temperatures as well. Just as for the standard heats of formation, 
+the free energies of elements in their standard states are set to zero. This arbitrary choice 
+of a

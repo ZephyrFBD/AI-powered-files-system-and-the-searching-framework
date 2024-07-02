@@ -1,0 +1,16 @@
+for the reaction in Equation 5.33. The two values are slightly differ-
+ent because bond enthalpies are averaged over many compounds, but the use of average 
+bond enthalpies provides a reasonably accurate estimate of the actual reaction enthalpy 
+change.
+It is important to remember that bond enthalpies are derived for gaseous mole-
+cules. In solids, liquids, and solutions, intermolecular forces between different mole-
+cules must also be taken into account. We will examine the strengths of those forces 
+in detail in Chapter 11, but for now it is sufficient to remember that bond enthalpies 
+cannot be used to accurately estimate the enthalpies of reactions containing solids, liq-
+uids, or solutions.
+5.9 ∣ Foods and Fuels
+Most chemical reactions used for the production of heat are combustion reactions. The 
+energy released when one gram of any substance is combusted is the fuel value of the 
+substance. The fuel value of any food or fuel can be measured by calorimetry.
+Foods
+Most of the ener

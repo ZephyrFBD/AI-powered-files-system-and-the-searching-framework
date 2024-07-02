@@ -1,0 +1,21 @@
+. Assume the same angle in each case.
+RESPONSE Let us draw free-body diagrams for the sled–sister combination,
+as shown in Figs. 4–31c and d. They show, for the two cases, the forces exerted
+by you,
+(an unknown), by the snow,
+and 
+and gravity 
+(a) If you
+push her, and 
+there is a vertically downward component to your force.
+Hence the normal force upward exerted by the ground (Fig. 4–31c) will be
+larger than mg (where m is the mass of sister plus sled). (b) If you pull her, your
+force has a vertically upward component, so the normal force 
+will be less
+than mg, Fig. 4–31d. Because the friction force is proportional to the normal
+force,
+will be less if you pull her. So you exert less force if you pull her.
+Two boxes and a pulley. In Fig. 4–32a, two boxes are 
+connected by a cord running over a pulley. The coefficient of kinetic friction
+between box A and the table is 0.20. We ignore the mass of the cord and pulley
+and any friction in the pulley, which means we can assume that a force app

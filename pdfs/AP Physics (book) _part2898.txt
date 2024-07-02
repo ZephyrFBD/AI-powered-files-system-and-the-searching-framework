@@ -1,0 +1,17 @@
+n the last half of the nineteenth century.
+Maxwell’s comprehensive and successful theory of electromagnetism (Chapter 22)
+predicted that light is an electromagnetic wave. Maxwell’s equations gave the
+velocity of light c as 
+and this is just what is measured. The
+question then arose: in what reference frame does light have precisely the value
+predicted by Maxwell’s theory? It was assumed that light would have a different
+speed in different frames of reference. For example, if observers could travel 
+on a rocket ship at a speed of 
+away from a source of light, we
+might expect them to measure the speed of the light reaching them to be 
+But Maxwell’s equations
+have no provision for relative velocity. They predicted the speed of light to be
+which seemed to imply that there must be some preferred
+reference frame where c would have this value.
+We discussed in Chapters 11 and 12 that waves can travel on water and along
+ropes or strings, and sound waves travel in air and other materials. Ninete

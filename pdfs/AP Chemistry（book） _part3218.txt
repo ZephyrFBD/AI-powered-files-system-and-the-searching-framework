@@ -1,0 +1,29 @@
+O4
+2-1aq2 + 8 H2O1l2
+∆G° = +87 kJ>mol. Given the standard reduction potential 
+of Ni2+1aq2 in Table 20.1, what value do you calculate for the 
+standard reduction potential of the half-reaction
+CrO4
+2-1aq2 + 4 H2O1l2 + 3 e- ¡  Cr1OH231s2 + 5 OH-1aq2?
+(a) -0.43 V  (b) -0.28 V   (c) 0.02 V  (d) -0.13 V  (e) -0.15 V
+ 
+▶Practice Exercise 2
+Consider the reaction 
+2 Ag+1aq2 + H21g2 ¡ 2 Ag1s2 + 2 H+1aq2. Calculate ∆G °
+f 
+for the Ag+1aq2 ion from the standard reduction potentials in 
+Table 20.1 and the fact that ∆G°
+f  for H21g2, Ag1s2, and H+1aq2 
+are all zero. Compare your answer with the value given in 
+Appendix C.
+The values of E°
+red are the same as they were 
+in part (a); they are not changed by multiply-
+ing the half-reactions by 1
+2. Thus, E° has the 
+same value as in part (a): E° = +0.43 V. No-
+tice, though, that the value of n has changed 
+to n = 2, which is one-half the value in part 
+(a). Thus, ∆G° is half as large as in part (a):
+∆G° = -122196,485 J>V@mol21+0.43 V2 = -83 kJ>mol
+Th

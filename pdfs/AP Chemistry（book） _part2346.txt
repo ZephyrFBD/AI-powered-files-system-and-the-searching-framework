@@ -1,0 +1,19 @@
+ reactions. Reaction (1) has a constant half-
+life, whereas reaction (2) has a half-life that gets longer as 
+the reaction proceeds. What can you conclude about the 
+rate laws of these reactions from these observations?
+ [14.97] A ﬁrst-order reaction A ¡ B has the rate constant 
+k = 3.2 * 10-3 s-1. If the initial concentration of A is 
+2.5 * 10-2 M, what is the rate of the reaction at t = 660 s?
+ 14.98 (a) The reaction H2O21aq2 ¡ H2O1l2 + 1
+2 O21g2 is ﬁrst 
+order. At 300 K the rate constant equals 7.0 * 10-4 s-1. 
+Calculate the half-life at this temperature. (b) If the acti-
+vation energy for this reaction is 75 kJ/mol, at what tem-
+perature would the reaction rate be doubled?
+ 14.99  Americium-241 is used in smoke detectors. It has 
+a ﬁrst-order rate constant for radioactive decay of 
+k = 1.6 * 10-3 yr-1. By contrast, iodine-125, which is 
+used to test for thyroid functioning, has a rate constant 
+for radioactive decay of k = 0.011 day-1. (a) What are the 
+half-lives of these two isot

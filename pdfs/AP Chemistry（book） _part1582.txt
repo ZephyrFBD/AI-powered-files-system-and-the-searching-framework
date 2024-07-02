@@ -1,0 +1,20 @@
+ch as those described here, you should be 
+able to minimize difficulties in solving problems involving many 
+variables.
+StrategieS For SucceSS Calculations Involving Many Variables
+406 
+CHAPTER 10 Gases
+Relating the Ideal-Gas Equation and the Gas Laws
+The gas laws we discussed in Section 10.3 are special cases of the ideal-gas equation. For 
+example, when n and T are held constant, the product nRT contains three constants and 
+so must itself be a constant:
+ 
+PV = nRT = constant or PV = constant 
+[10.6]
+Note that this rearrangement gives Boyle’s law. We see that if n and T are constant, the 
+values of P and V can change, but the product PV must remain constant.
+We can use Boyle’s law to determine how the volume of a gas changes when its 
+pressure changes. For example, if a cylinder fitted with a movable piston holds 50.0 L of 
+ 
+O2 gas at 18.5 atm and 21 °C, what volume will the gas occupy if the temperature is main-
+tained at 21 °C while the pressure is reduced to 1.00 atm? Because the

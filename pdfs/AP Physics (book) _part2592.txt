@@ -1,0 +1,38 @@
+uC
+u1
+sin u2 7 1.
+and the focal length f, is given by the thin lens equation:
+(23;8)
+The ratio of image height to object height, which equals
+the magnification m for a lens, is
+(23;9)
+When using the various equations of geometric optics, you
+must remember the sign conventions for all quantities involved:
+carefully review them (pages 655 and 665) when doing Problems.
+[*When two (or more) thin lenses are used in combination
+to produce an image, the thin lens equation can be used for each
+lens in sequence. The image produced by the first lens acts as
+the object for the second lens.]
+[*The lensmaker’s equation relates the radii of curvature
+of the lens surfaces and the lens’ index of refraction to the focal
+length of the lens.]
+m =
+hi
+ho
+=
+– di
+do
+.
+1
+do
++ 1
+di
+=
+1
+f
+.
+8. What is the angle of refraction when a light ray is incident
+perpendicular to the boundary between two transparent
+materials?
+13. How can you “see” a round drop of water on a table even
+though the water is transparent and

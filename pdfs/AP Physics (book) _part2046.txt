@@ -1,0 +1,19 @@
+ical copper wire used for home
+wiring in the U.S. has a diameter of 1.63 mm. What is the
+resistance of 125 m of this wire? (c) What would be the
+resistance of the same wire if it were made of aluminum?
+(d) How much power would be dissipated in each wire if it
+carried 18 A of current? (e) What should be the diameter
+of the aluminum wire for it to have the same resistance 
+as the copper wire? (f) In Section 18–4, a statement is
+made about the resistance of copper and aluminum wires 
+of the same weight. Using Table 10–1 for the densities of
+copper and aluminum, find the resistance of an aluminum
+wire of the same mass and length as the copper wire in 
+part (b). Is the statement true?
+*7. How far can an average electron move along the wires of a
+650-W toaster during an alternating current cycle? The
+power cord has copper wires of diameter 1.7 mm and is
+plugged into a standard 60-Hz 120-V ac outlet. [Hint: The
+maximum current in the cycle is related to the maximum
+drift velocity. The maximum

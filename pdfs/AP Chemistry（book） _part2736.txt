@@ -1,0 +1,18 @@
+alence point, find the pH on the 
+curve at halfway to the equivalence point. The pH you read off 
+the graph at that point corresponds to the pKa of the weak acid. 
+If the acid’s concentration is too low, however, the autoionization 
+of water becomes significant, and this graphical way of measuring 
+pKa is not as accurate.
+Titrating with an Acid–Base Indicator
+Often in an acid–base titration, an indicator is used rather than 
+a pH meter. An indicator is a compound that changes color 
+in solution over a specific pH range. Optimally, an indicator 
+should change color at the equivalence point in a titration. In 
+practice, however, an indicator need not precisely mark the 
+equivalence point. The pH changes very rapidly near the equiv-
+alence point, and in this region one drop of titrant can change 
+the pH by several units. Thus, an indicator beginning and 
+ending its color change anywhere on the rapid-rise portion of 
+the titration curve gives a sufficiently accurate measure of the 
+titrant

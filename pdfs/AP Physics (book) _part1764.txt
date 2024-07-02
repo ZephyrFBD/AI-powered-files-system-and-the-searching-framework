@@ -1,0 +1,87 @@
+ng all the forces acting
+on that object, or showing the electric field at a point
+due to all significant charges present. Determine the
+direction of each force or electric field physically:
+like charges repel each other, unlike charges attract;
+fields point away from a 
+charge, and toward a 
+±
+A2
+Q2 = +50    C
+A
+A1
+30°
+30°
+A
+60 cm
+y
+x
+Q1 = −50    C
+f
+m
+m
+E
+B
+E
+B
+E
+B
+30 cm
+52 cm
+FIGURE 16–28 Calculation of the 
+electric field at point A, Example 16–9.
+equidistant above two point charges. Figure 16–29 (top
+of next page) is the same as Fig. 16–28 but includes point B, which is equidistant
+(40 cm) from 
+and 
+Calculate the total electric field at point B in Fig. 16–29
+due to both charges,
+and 
+APPROACH We explicitly follow the steps of the Problem Solving Strategy
+above.
+Q2 .
+Q1
+Q2 .
+Q1
+E
+B
+EXAMPLE 16;10
+SECTION 16–8
+457
+30°
+A
+30 cm
+30 cm
+26 cm
+26 cm
+60 cm
+40 cm
+B
+x
+f
+u
+u
+A2
+E
+B
+A
+E
+B
+B2
+E
+B
+B
+E
+B
+B1
+E
+B
+A1
+E
+B
+Q2 = +50    C
+Q1 = −50    C
+m
+m
+FIGURE 16–29 Same as Fig. 16–28
+but with point B

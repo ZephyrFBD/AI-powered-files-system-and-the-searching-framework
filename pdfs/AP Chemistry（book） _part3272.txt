@@ -1,0 +1,35 @@
+ magnesium formed upon passage of a 
+current of 60.0 A for a period of 4.00 * 103 s. (b) How many 
+seconds would be required to produce 50.0 g of Mg from 
+MgCl2 if the current is 100.0 A?
+Coulombs = amperes * seconds = 110.0 C/s211.00 h2a 3600 s
+h
+b = 3.60 * 104 C
+Al3+ + 3 e- ¡ Al
+Moles e- = 13.60 * 104 C2a 1 mol e-
+96,485 C b = 0.373 mol e-
+Grams Al = 10.124 mol Al2 a
+27.0 g Al
+1 mol Al b = 3.36 g Al
+Second, we calculate the number of moles of 
+electrons that pass into the cell:
+Third, we relate number of moles of elec-
+trons to number of moles of aluminum 
+formed, using the half-reaction for the 
+reduction of Al3+:
+Thus, 3 mol of electrons are required to form 
+1 mol of Al:
+Moles Al = 10.373 mol e-2a 1 mol Al
+3 mol e- b = 0.124 mol Al
+Finally, we convert moles to grams:
+Or, we could have combined all of the above 
+steps:
+Grams Al = 13.60 * 104 C2a 1 mol e-
+96,485 C b a 1 mol Al
+3 mol e- b a
+27.0 g Al
+1 mol Al b = 3.36 g Al
+ 
+SECTION 20.9  Electrolysis 
+887
+Many processes used to prod

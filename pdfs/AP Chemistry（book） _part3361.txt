@@ -1,0 +1,25 @@
+
+alpha decay, actually undergoes beta emission. Furthermore, a few 
+radioactive nuclei lie within the belt of stability. Both 146
+60Nd and 
+148
+60Nd, for example, are stable and lie in the belt of stability. 147
+60Nd, 
+however, which lies between them, is radioactive.
+ 
+▶Practice Exercise 1
+Which of the following radioactive nuclei is most likely to 
+decay via emission of a b- particle?
+(a) nitrogen-13 (b) magnesium-23 (c) rubidium-83
+(d) iodine-131  (e) neptunium-237
+ 
+▶Practice Exercise 2
+Predict the mode of decay of (a) plutonium-239, 
+(b) indium-120.
+Radioactive Decay Chains
+Some nuclei cannot gain stability by a single emission. Consequently, a series of 
+successive emissions occurs as shown for uranium-238 in Figure 21.2. Decay con-
+tinues until a stable nucleus—lead-206 in this case—is formed. A series of nuclear 
+reactions that begins with an unstable nucleus and terminates with a stable one is 
+known as a radioactive decay chain or a nuclear disintegration series. Three 
+such 

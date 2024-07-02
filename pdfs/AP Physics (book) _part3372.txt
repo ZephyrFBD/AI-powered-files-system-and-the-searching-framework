@@ -1,0 +1,48 @@
+ecay to an excited
+state of 
+(indicated by *), which
+subsequently decays to its ground
+state by emitting a 4.4-MeV 
+ray.
+g
+ 6
+12C
+b
+released = 13.4
+b
+ 6
+12C
+ 5
+12B
+B
+5
+12
+C*
+6
+12
+ (9.0 MeV)
+(13.4 MeV)
+(4.4 MeV)
+C
+6
+12
+
+
+
+
+The number of decays that occur in the short time interval 
+is designated 
+because each decay that occurs corresponds to a decrease by one in the number N
+of parent nuclei present. That is, radioactive decay is a “one-shot”process, Fig.30–9.
+Once a particular parent nucleus decays into its daughter, it cannot do it again.
+Exponential Decay
+Equation 30–3a or b can be solved for N (using calculus) and the result is
+(30;4)
+where 
+is the number of parent nuclei present at any chosen time 
+and N
+is the number remaining after a time . The symbol e is the natural exponential
+(encountered earlier in Sections 19–6 and 21–12) whose value is
+Thus the number of parent nuclei in a sample decreases exponentially in time.
+This is shown in Fig. 30–10a for the decay of 
+. Equatio

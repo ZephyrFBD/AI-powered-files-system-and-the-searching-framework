@@ -1,0 +1,15 @@
+ies 4 and 5 share a common ancestor. The cladogram does not provide
+information about ancestry, just information about relatedness.
+11. D. For this, the logistic equation, early stages of growth are depicted by a rapid (logarithmic) rise in the
+population size, followed by a gradual tapering off of the growth rate as the carrying capacity is approached. When
+the population size reaches the carrying capacity, the net rate of growth is zero, as expressed by the horizontal line
+(slope of the line is zero) of the plotted equation.
+12. B. As the population size approaches the carrying capacity, the growth rate decreases and becomes zero when N
+= K.
+13. C. The net rate of growth is greatest early in the plotted equation, when N is still small compared to K. To see
+this mathematically, rearrange the equation like this:
+When N is small compared to K, the fraction
+  is small compared to 1. Thus,
+ 
+is approximately equal to 1, and the value of the equation is maximum and equal to rN.
+14. D. Beca

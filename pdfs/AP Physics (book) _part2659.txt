@@ -1,0 +1,18 @@
+ of the slit will travel one-half
+wavelength farther than the ray at the bottom of the slit. These two rays will be
+exactly out of phase with one another and so will destructively interfere when
+they overlap at the screen. Similarly, a ray slightly above the bottom one will cancel
+a ray that is the same distance above the central one. Indeed, each ray passing
+through the lower half of the slit will cancel with a corresponding ray passing
+through the upper half. Thus, all the rays destructively interfere in pairs, and so
+the light intensity will be zero on the viewing screen at this angle. The angle at
+which this takes place can be seen from Fig. 24–20b to occur when
+so
+(24;3a)
+The light intensity is a maximum at 
+and decreases to a minimum
+at the angle given by Eq. 24–3a.
+Now consider a larger angle such that the top ray travels 
+farther than the
+bottom ray, as in Fig. 24–20c. In this case, the rays from the bottom third of the
+slit will cancel in pairs with those in the middle third b

@@ -1,0 +1,51 @@
+
+103 
+2.11 章末练习题 
+1. Suppose that P(x) represents the percentage of income spent on food in year x and I(x) 
+represents income in year x. Determine a function F that represents total food 
+expenditures in year x. 
+A. F(x) = (P +I)(x) 
+B. F(x) = (P・I)(x) 
+C. F(x) = (I - P)(x) 
+D. F(x) = (I / P)(x) 
+ 
+ 
+ 
+2. f(x) = 2x +4, g(x) = 4x2 +3. Find f(g(1)). 
+A. 199 
+B. 147 
+C. 18 
+D. 16 
+ 
+ 
+ 
+3.Find the formula for the inverse of the function described below. 
+A size 6 dress in Country C is size 52 in Country D. A function that converts dress sizes in 
+Country C to Country D is  
+f(x) = 2(x+20). 
+A. f-1(x) =0.5x -20 
+B. f-1(x) =0.5(x -20) 
+C. f-1(x) =0.5x +20 
+D. f-1(x) =x -20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+104 
+4. The function D(h) =5e-0.4h can be used to determine the milligrams D of a certain drug 
+in a patient’s bloodstream h hours after the drug has been given. How many milligrams (to 
+two decimals) will be present after 7 hours?  
+A. 0.95 mg 
+B. 3.63 mg 
+C. 82.22 mg 
+D. 0.30 mg 
+ 
+ 
+ 
+5. 
+ 
+The graph 

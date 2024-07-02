@@ -1,0 +1,27 @@
+ubstitute the starting con-
+centrations into the equilibrium-constant expression to calculate 
+the reaction quotient, Q c. Comparing the magnitudes of the equi-
+librium constant, which is given, and the reaction quotient will 
+tell us in which direction the reaction will proceed.
+Solve 
+The initial concentrations are
+ 
+ 3HI4 = 2.0 * 10-2 mol>2.00 L = 1.0 * 10-2 M
+ 3H24 = 1.0 * 10-2 mol>2.00 L = 5.0 * 10-3 M
+  3I24 = 3.0 * 10-2 mol>2.00 L = 1.5 * 10-2 M
+The reaction quotient is therefore
+Q c =
+3HI42
+3H243I24 =
+11.0 * 10-222
+15.0 * 10-3211.5 * 10-22
+= 1.3
+Because Q c 6 Kc, the concentration of HI must increase and the 
+concentrations of H2 and I2 must decrease to reach equilibrium; 
+the reaction as written proceeds left to right to attain equilibrium.
+ 
+▶Practice Exercise 1
+Which of the following statements accurately describes what 
+would happen to the direction of the reaction described in 
+the sample exercise above, if the size of the container were 
+different from 2.00 L? (a) The rea

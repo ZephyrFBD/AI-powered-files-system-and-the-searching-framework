@@ -1,0 +1,27 @@
+ boat be then?
+APPROACH The boat now heads directly across the river and is pulled down-
+stream by the current, as shown in Fig. 3–30. The boat’s velocity with respect to
+the shore,
+is the sum of its velocity with respect to the water,
+plus the
+velocity of the water with respect to the shore,
+just as before,
+SOLUTION (a) Since 
+is perpendicular to 
+we can get 
+using the
+theorem of Pythagoras:
+We can obtain the angle (note how is defined in  Fig. 3–30) from:
+A calculator with a key INV TAN or ARC TAN or  
+gives
+Note that this angle is not equal to the angle calculated in Example 3–10.
+(b) The travel time for the boat is determined by the time it takes to cross the
+river. Given the river’s width
+we can use the velocity component in the
+direction of D,
+Solving for 
+we get  
+The boat will have been carried downstream, in this time, a distance
+NOTE There is no acceleration in this Example, so the motion involves only
+constant velocities (of the boat or of the river).
+d = vWSt = (1.20 ms)(5

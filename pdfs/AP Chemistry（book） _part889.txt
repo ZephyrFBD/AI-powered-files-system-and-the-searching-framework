@@ -1,0 +1,30 @@
+its cancel:
+n = c
+l = a
+3.00 * 108 m>s
+589 nm
+b a 1 nm
+10 - 9 m
+b
+= 5.09 * 1014 s - 1
+Check The high frequency is reasonable because of the short wave-
+length. The units are proper because frequency has units of “per 
+second,” or s - 1.
+▲ Figure 6.5 Color and temperature. The 
+color and intensity of the light emitted by 
+a hot object, such as this nail, depend on 
+the temperature of the object.
+Go Figure
+Which is at a higher temperature: the 
+part of the nail glowing yellow or the 
+part glowing red?
+ 
+SECTION 6.2  Quantized Energy and Photons 
+217
+Give It Some Thought
+Consider the notes that can be played on a piano. In what way is a piano an 
+example of a quantized system? In this analogy, would a violin be continuous  
+or quantized?
+According to Planck’s theory, matter can emit and absorb energy only in whole num-
+ber multiples of hn, such as hn, 2hn, 3hn, and so forth. If the quantity of energy emitted by 
+an atom is 3hn, for example, we say that three quanta of energy have been emi

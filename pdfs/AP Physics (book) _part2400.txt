@@ -1,0 +1,45 @@
+ in the loop
+(a) only as it passes line J.
+(d) as it passes line J or line L.
+(b) only as it passes line K.
+(e) as it passes all three lines.
+(c) only as it passes line L.
+B = 0
+B
+B = 0,
+MisConceptual Questions
+4. Two loops of wire are moving in the vicinity of a very long
+straight wire carrying a steady current (Fig. 21–53). Find
+the direction of the induced current in each loop.
+I
+v
+B
+v
+B
+C
+D
+FIGURE 21–53
+MisConceptual Question 4.
+5. If there is induced current in Question 18 (see Fig. 21–51),
+wouldn’t that cost energy? Where would that energy come
+from in case (a)?
+(a) Induced current doesn’t need energy.
+(b) Energy conservation is violated.
+(c) There is less kinetic energy.
+(d) There is more gravitational potential energy.
+FIGURE 21–52
+MisConceptual
+Question 3.
+For C:
+(a) clockwise.
+(b) counterclockwise.
+(c) zero.
+(d) alternating (ac).
+For D:
+(a) clockwise.
+(b) counterclockwise.
+(c) zero.
+(d) alternating (ac).
+MisConceptual Questions
+619
+12. A laptop computer’s charger unit convert

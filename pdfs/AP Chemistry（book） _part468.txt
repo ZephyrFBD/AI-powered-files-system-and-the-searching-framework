@@ -1,0 +1,16 @@
+excess reactants as leftovers. Suppose, for example, we have a mixture of 10 mol H2
+and 7 mol O2, which react to form water:
+2 H21g2 + O21g2 ¡ 2 H2O1g2
+Because 2 mol H2 ] 1 mol O2, the number of moles of O2 needed to react with all the H2 is
+Moles O2 = 110 mol H22a1 mol O2
+2 mol H2
+b = 5 mol O2
+Because 7 mol O2 is available at the start of the reaction, 7 mol O2 - 5 mol O2 = 2 mol O2 
+is still present when all the H2 is consumed.
+The reactant that is completely consumed in a reaction is called the limiting reactant 
+because it determines, or limits, the amount of product formed. The other reactants are 
+sometimes called excess reactants. In our example, shown in Figure 3.17, H2 is the limiting 
+reactant, which means that once all the H2 has been consumed, the reaction stops. At 
+that point some of the excess reactant O2 is left over.
+There are no restrictions on the starting amounts of reactants in any reaction. Indeed, 
+many reactions are carried out using an excess of one reactant. T

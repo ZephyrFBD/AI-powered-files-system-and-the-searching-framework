@@ -1,0 +1,17 @@
+ch is the energy that an object possesses by vir-
+tue of its position relative to other objects. An electron in motion 
+near a proton has kinetic energy because of its motion and po-
+tential energy because of its electrostatic attraction to the proton.
+Chemical energy originates largely from electrostatic in-
+teractions at the atomic level. Energy must be supplied to break 
+chemical bonds leading to an increase in potential energy. Con-
+versely, energy is released when chemical bonds form as the po-
+tential energy decreases.
+THE FIRST LAW OF THERMODYNAMICS (SECTION 5.2) When 
+we study thermodynamic properties, we define a specific amount 
+of matter as the system. Everything outside the system is the sur-
+roundings. When we study a chemical reaction, the system is gen-
+erally the reactants and products. A closed system can exchange 
+energy, but not matter, with the surroundings. The internal en-
+ergy of a system is the sum of all the kinetic and potential ener-
+gies of its component par

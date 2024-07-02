@@ -1,0 +1,33 @@
+s given in Table 21.7?
+ 
+▶Practice Exercise 1
+Electricity is generated in space vehicles from the heat 
+produced by the radioactive decay of plutonium-238: 
+238
+94Pu ¡ 234
+92U + 4
+2He. The atomic masses of plutonium-238 
+and uranium-234 are 238.049554 amu and 234.040946 amu, 
+respectively. The mass of an alpha particle is 4.001506 amu. 
+How much energy in kJ is released when 1.00 g of pluto-
+nium-238 decays to uranium-234?
+(a) 2.27 * 106 kJ (b) 2.68 * 106 kJ (c) 3.10 * 106 kJ
+(d) 3.15 * 106 kJ (e) 7.37 * 108 kJ
+ 
+▶Practice Exercise 2
+Positron emission from 11C, 11
+6C ¡ 11
+5B +
+0
++ 1e, occurs with 
+release of 2.87 * 1011 J per mole of 11C. What is the mass 
+change per mole of 11C in this nuclear reaction? The masses 
+of 11B and 11C are 11.009305 and 11.011434 amu, respectively.
+ 
+SECTION 21.6   
+Energy Changes in Nuclear Reactions 
+921
+922 
+CHAPTER 21 Nuclear Chemistry
+Values of binding energies per nucleon can be used to compare the stabilities of 
+different combinations of nucleons (s

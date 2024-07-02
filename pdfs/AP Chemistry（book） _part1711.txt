@@ -1,0 +1,13 @@
+ dipole moment. The instantaneous distribution of 
+the electrons, however, can be different from the average distribution. If we could freeze 
+the motion of the electrons at any given instant, both electrons could be on one side 
+of the nucleus. At just that instant, the atom has an instantaneous dipole moment as 
+shown in Figure 11.4(b). The motions of electrons in one atom influence the motions of 
+electrons in its neighbors. The instantaneous dipole on one atom can induce an instan-
+taneous dipole on an adjacent atom, causing the atoms to be attracted to each other as 
+shown in Figure 11.4(c). This attractive interaction is called the dispersion force (also 
+called London dispersion forces or induced dipole–induced dipole interactions). It is significant 
+only when molecules are very close together.
+The strength of the dispersion force depends on the ease with which the charge distribu-
+tion in a molecule can be distorted to induce an instantaneous dipole. The ease with which 
+the c

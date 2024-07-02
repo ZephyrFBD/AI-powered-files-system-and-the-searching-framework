@@ -1,0 +1,31 @@
+at most.
+ 
+0 = mA vA
+œ sin uA
+œ + mBvB
+œ sin uB
+œ .
+pAy + pBy = pAy
+œ
++ pBy
+œ
+Billiard ball collision in 2-D. Billiard ball A moving with
+speed  
+in the 
+direction (Fig. 7–19) strikes an equal-mass ball B
+initially at rest. The two balls are observed to move off at 45° to the x axis,
+ball A above the x axis and ball B below. That is,
+and  
+in
+Fig. 7–19. What are the speeds of the two balls after the collision?
+APPROACH There is no net external force on our system of two balls, assuming
+the table is level (the normal force balances gravity). Thus momentum con-
+servation applies, and we apply it to both the x and y components using the 
+xy coordinate system shown in Fig. 7–19. We get two equations, and we have
+two unknowns,
+and 
+From symmetry we might guess that the two balls
+have the same speed. But let us not assume that now. Even though we are not
+told whether the collision is elastic or inelastic, we can still use conservation of
+momentum.
+SOLUTION We apply conservation of momentum f

@@ -1,0 +1,14 @@
+ed to be interpreted. As an illustration of measurement
+“theory” we examine here how electrical quantities are measured using meters.
+We also examine how meters affect the quantity they attempt to measure.
+An ammeter measures current, and a voltmeter measures potential difference
+or voltage. Each can be either: (1) an analog meter, which displays numerical
+values by the position of a pointer that can move across a scale (Fig. 19–30a); or
+(2) a digital meter, which displays the numerical value in numbers (Fig. 19–30b).
+We now examine how analog meters work.
+An analog ammeter or voltmeter, in which the reading is by a pointer on a scale
+(Fig. 19–30a), uses a galvanometer. A galvanometer works on the principle of the
+force between a magnetic field and a current-carrying coil of wire; it is straight-
+forward to understand and will be discussed in Chapter 20. For now, we only need to
+know that the deflection of the needle of a galvanometer is proportional to the current
+flowing through it. 

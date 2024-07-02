@@ -1,0 +1,45 @@
+te at which O2 appears, ∆3O24>∆t, is 6.0 * 10-5 M>s at a particular instant, at what rate is O3 disappearing at this 
+same time, - ∆3O34>∆t?
+Solve
+(a) Using the coefficients in the balanced 
+equation and the relationship given by 
+Equation 14.4, we have:
+Analyze We are given a balanced chemical equation and asked to 
+relate the rate of appearance of the product to the rate of disap-
+pearance of the reactant.
+Plan We can use the coefficients in the chemical equation as 
+shown in Equation 14.4 to express the relative rates of reactions.
+Check We can apply a stoichiometric factor to 
+convert the O2 formation rate to the O3 disap-
+pearance rate:
+Rate = -  1
+2  
+∆3O34
+∆t
+= 1
+3  
+∆3O24
+∆t
+ 
+-  
+∆3O34
+∆t
+= 2
+3  
+∆3O24
+∆t
+= 2
+3 16.0 * 10-5 M>s2 = 4.0 * 10-5 M>s
+SOLUTION
+Sample Exercise 14.3 
+Relating Rates at Which Products Appear and Reactants Disappear
+(b) Solving the equation from part (a) for the 
+rate at which O3 disappears, - ∆3O34>∆t, 
+we have:
+ -  
+∆3O34
+∆t
+= a6.0 * 10-5  
+mol O2>L
+s
+b

@@ -1,0 +1,61 @@
+uals
+the (reduced) final mechanical energy of the car plus the energy transformed by
+friction into thermal energy.
+Equations 6–16 can be seen to be Eq. 6–13 modified to include nonconserva-
+tive forces such as friction. As such, they are statements of conservation of
+energy. When other forms of energy are involved, such as chemical or electrical
+energy, the total amount of energy is always found to be conserved. Hence the
+law of conservation of energy is believed to be universally valid.
+£
+gravity and
+friction
+acting
+§
+1
+2 mv1
+2
+or
+ke1
++
++
+mgy1
+pe1
+=
+=
+1
+2 mv2
+2
+ke2
++
++
+mgy2
+pe2
++
++
+F
+frd
+F
+frd,
+F
+fr d.
+c gravity and
+friction actingd
+1
+2 mv1
+2 + mgy1 - F
+fr d =
+1
+2 mv2
+2 + mgy2 .
+W
+NC = –F
+fr d
+pe = mgy,
+ke = 1
+2 mv2
+P R O B L E M  S O L V I N G
+Choosing the system
+†The force the spring exerts on the block, and the force the block exerts back on the spring, are not
+“external” forces—they are within the system.
+Friction on the roller-coaster car. The 
+roller-coaster car in Example 6–8 r

@@ -1,0 +1,16 @@
+process. Thus, the value of qrev is uniquely defined for any two 
+states of the system. Because S is a state function, we can use Equation 19.2 to calculate ∆S 
+for any isothermal process between states, not just the reversible one.
+Give It Some Thought
+How can S be a state function when ∆S depends on q, which is not a state function?
+∆S for Phase Changes
+The melting of a substance at its melting point and the vaporization of a substance 
+at its boiling point are isothermal processes. 
+ (Section 11.4) Consider the melt-
+ing of ice. At 1 atm pressure, ice and liquid water are in equilibrium at 0 °C. Imagine 
+melting 1 mol of ice at 0 °C, 1 atm to form 1 mol of liquid water at 0 °C, 1 atm. We can 
+achieve this change by adding heat to the system from the surroundings: q = ∆Hfusion, 
+ 
+where ∆Hfusion is the heat of melting. Imagine adding the heat infinitely slowly, rais-
+ing the temperature of the surroundings only infinitesimally above 0 °C. When we 
+make the change in this fashion, the

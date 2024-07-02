@@ -1,0 +1,45 @@
+r disconnect the source
+voltage to the drain and to the back of the subpixel (its front is fixed at 
+).
+The potential difference 
+across a subpixel determines if that subpixel will be
+bright in color 
+, black (
+maximum), or something in between. See
+Fig.17–35. All the subpixel TFTs along the one activated horizontal wire (the orange
+one in Fig. 17–33) will have 
+at the gate: the TFTs are turned “on,” like a
+switch.That allows electric charge to flow, connecting the vertical wire signal volt-
+age at each TFT source to its drain and to the back of the subpixel. Thus all 
+subpixels along one row receive the brightness needed for that line of the frame.
+±20 V
+¢V =
+(¢V = 0)
+¢V
+±5 V
+*
+GATE
+DRAIN
+SOURCE
+connected to
+vertical wire
+attached to
+horizontal wire
+connected to
+subpixel
+Subpixel
+TFT
+C
+Data stream
+voltage
+(vertical wire)
++20 V
+  or
+  0 V
++5 V
+ΔV
+FIGURE 17–34 Thin-film transistor.
+One is attached to each screen
+subpixel.
+FIGURE 17–35 Circuit diagram for one subpixel. The 
+front of the 

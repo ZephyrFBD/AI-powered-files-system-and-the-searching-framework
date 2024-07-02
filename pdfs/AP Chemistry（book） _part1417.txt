@@ -1,0 +1,69 @@
+lecule or ion.
+ 
+2. Use the VSEPR model to determine the electron-domain geometry around the cen-
+tral atom.
+ 
+3. Specify the hybrid orbitals needed to accommodate the electron pairs based on their 
+geometric arrangement (Table 9.4).
+These steps are illustrated in Figure 9.19, which shows how the hybridization at N in 
+NH3 is determined.
+TABLE 9.4 Geometric Arrangements Characteristic of Hybrid Orbital Sets
+Atomic Orbital Set
+Hybrid Orbital Set
+Geometry
+Examples
+s,p
+Two sp
+180°
+120°
+109.5°
+Linear
+Trigonal
+planar
+Tetrahedral
+BeF2, HgCl2
+s,p,p
+Three sp2
+180°
+120°
+109.5°
+Linear
+Trigonal
+planar
+Tetrahedral
+BF3, SO3
+s,p,p,p
+Four sp3
+180°
+120°
+109.5°
+Linear
+Trigonal
+planar
+Tetrahedral
+CH4, NH3, H2O, NH4
++
+Go Figure
+N
+H
+H
+H
+NH3
+1
+2
+3
+sp3 hybrid orbitals on N overlap
+with 1s orbitals on three hydrogens
+to make three N—H bonds
+N
+H
+H
+H
+Draw Lewis
+structure.
+Using Table 9.4, select
+sp3 hybrid orbital set.
+Determine electron-domain
+geometry about central atom from 
+VSEPR model and Table 9.1.
+▲ Fig

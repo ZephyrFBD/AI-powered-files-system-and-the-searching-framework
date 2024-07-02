@@ -1,0 +1,26 @@
+sition in iron 
+*39. (II) Use the Bohr model to estimate the wavelength for an
+to 
+transition in molybdenum 
+The
+measured value is 0.063 nm. Why do we not expect perfect
+agreement?
+*40. (II) A mixture of iron and an unknown material is bom-
+barded with electrons. The wavelengths of the 
+lines are
+194 pm for iron and 229 pm for the unknown. What is the
+unknown material?
+28–11 Lasers
+41. (II) A laser used to weld detached retinas puts out 
+25-ms-long pulses of 640-nm light which average 0.68-W
+output during a pulse. How much energy can be deposited
+per pulse and how many photons does each pulse contain?
+[Hint: See Example 27–4.]
+42. (II) A low-power laser used in a physics lab might have a
+power of 0.50 mW and a beam diameter of 3.0 mm. Calcu-
+late (a) the average light intensity of the laser beam, and
+(b) compare it to the intensity of a lightbulb producing
+100-W light viewed from 2.0 m.
+43. (II) Calculate the wavelength of the He–Ne laser (see 
+Fig. 28–20).
+44. (II) Estimate the angula

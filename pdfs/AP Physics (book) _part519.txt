@@ -1,0 +1,86 @@
+vitational attraction
+of the Sun that keeps each planet in its orbit. The period 
+of the planet is the
+time required for one complete orbit, which is a distance equal to 
+the circum-
+ference of a circle. Thus
+We substitute this formula for 
+into the previous equation:
+We rearrange this to get
+(5;7a)
+We derived this for planet 1 (say, Mars). The same derivation would apply for a
+second planet (say, Saturn) orbiting the Sun,
+where 
+and 
+are the period and orbit radius, respectively, for the second
+planet. Since the right sides of the two previous equations are equal, we have
+or, rearranging,
+(5;7b)
+which is Kepler’s third law. Equations 5–7a and 5–7b are valid also for elliptical
+orbits if we replace r with the semimajor axis s.
+¢ T
+1
+T
+2
+≤
+2
+=
+¢ r1
+r2
+≤
+3
+,
+T1
+2r1
+3 = T2
+2r2
+3
+r2
+T
+2
+T2
+2
+r2
+3
+=
+4p2
+GMS
+,
+T1
+2
+r1
+3
+=
+4p2
+GMS
+.
+G m1 MS
+r1
+2
+= m1
+4p2r1
+T1
+2 .
+v1
+v1 = 2pr1
+T
+1
+.
+2pr1 ,
+T
+1
+MS
+v1
+r1
+m1
+G m1 MS
+r1
+2
+= m1
+v1
+2
+r1
+.
+©F = ma
+MS
+The Sun’s mass determined. Determine the mass of

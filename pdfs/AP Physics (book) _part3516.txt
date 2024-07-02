@@ -1,0 +1,35 @@
+state, and such
+images can produce resolution of 1 mm or better. This NMR technique (some-
+times called spin-echo) produces images of great diagnostic value, both in the
+delineation of structure (anatomy) and in the study of metabolic processes. An
+NMR image is shown in Fig. 31–27.
+NMR imaging is considered to be noninvasive. We can calculate the 
+energy of the photons involved: as mentioned above, in a 1.0-T magnetic 
+field,
+for 
+This corresponds to an energy of 
+or about 
+Since molecular
+bonds are on the order of 1 eV, the RF photons can cause little cellular disrup-
+tion. This should be compared to X- or 
+rays, whose energies are 
+to 
+and thus can cause significant damage. The static magnetic fields, though often
+large (as high as 1.0 to 1.5 T), are believed to be harmless (except for people who
+wear heart pacemakers).
+106 eV
+104
+g
+10–7 eV.
+A6.6 * 10–34 JsBA43 * 106 HzB L 3 * 10–26 J
+hf =
+1
+1H.
+f = 42.58 MHz
+BT
+BT
+BT ,
+
+908
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation

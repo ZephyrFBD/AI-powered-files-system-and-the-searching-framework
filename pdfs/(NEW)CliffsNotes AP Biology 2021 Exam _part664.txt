@@ -1,0 +1,11 @@
+or sigmoid, curve (Figure 16-4):
+Figure 16-4
+Population cycles are fluctuations in population size in response to varying effects of limiting factors. For example,
+since many limiting factors are density-dependent, they will have a greater effect when the population size is large
+as compared to when the population size is small. In addition, a newly introduced population may grow
+exponentially beyond the carrying capacity of the habitat before limiting factors inhibit growth (Figure 16-5). When
+limiting factors do bring the population under control, the population size may decline to levels lower than the
+carrying capacity (or it may even crash to extinction). Once reduced below carrying capacity, however, limiting
+factors may ease, and population growth may renew. In some cases, a new carrying capacity, lower than the original,
+may be established (perhaps because the habitat was damaged by the excessively large population). The population
+may continue to fluctuate about the carrying c

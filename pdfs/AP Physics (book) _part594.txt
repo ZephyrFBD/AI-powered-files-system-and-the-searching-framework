@@ -1,0 +1,26 @@
+f it is released, it will fall to the ground due to the gravitational force, and can
+do work on, say, a stake, driving it into the ground.
+Let us seek the form for the gravitational potential energy of an object near
+the surface of the Earth. For an object of mass m to be lifted vertically, an upward
+force at least equal to its weight, mg, must be exerted on it, say by a person’s
+hand. To lift the object without acceleration, the person exerts an “external
+force”
+If it is raised a vertical height h, from position 
+to 
+in 
+Fig. 6–11 (upward direction chosen positive), a person does work equal to the
+product of the “external” force she exerts,
+upward, multiplied by the
+vertical displacement h. That is,
+(6;5a)
+Gravity is also acting on the object as it moves from 
+to 
+and does work on the
+object equal to
+where  
+because 
+and point in opposite directions. So
+(6;5b)
+Next, if we allow the object to start from rest at 
+and fall freely under the
+action of gravity, it acquires a velocity given 

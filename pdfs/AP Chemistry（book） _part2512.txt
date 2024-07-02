@@ -1,0 +1,31 @@
+ the English chemist Thomas Lowry (1874–1936) independently proposed 
+a more general definition of acids and bases. Their concept is based on the fact that acid–
+base reactions involve the transfer of H+ ions from one substance to another. To understand this 
+definition better, we need to examine the behavior of the H+ ion in water more closely.
+The h+ Ion in Water
+We might at first imagine that ionization of HCl in water produces just H+ and Cl -. A 
+hydrogen ion is no more than a bare proton—a very small particle with a positive charge. 
+As such, an H+ ion interacts strongly with any source of electron density, such as the 
+nonbonding electron pairs on the oxygen atoms of water molecules. For example, the 
+interaction of a proton with water forms the hydronium ion, H3O+1aq2:
+ 
+ 
+O
+H
+H
+H
+O
+H
+H
+H+
++
++
++
++
++
+ 
+[16.2]
+The behavior of H+ ions in liquid water is complex because hydronium ions interact 
+with additional water molecules via the formation of hydrogen bonds. 
+ (Section 11.2) 
+F

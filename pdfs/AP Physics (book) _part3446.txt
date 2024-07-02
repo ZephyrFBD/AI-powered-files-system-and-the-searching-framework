@@ -1,0 +1,24 @@
+he two ends via the short-range nuclear force is greatly weakened by the
+increased separation distance. Then the electric repulsive force becomes dominant,
+and the nucleus splits in two (Fig. 31–3d). The two resulting nuclei,
+and 
+are called fission fragments, and in the process a number of neutrons (typically
+two or three) are also given off. The reaction can be written
+(31;3)
+The compound nucleus,
+exists for less than 
+so the process occurs
+very quickly. The two fission fragments,
+and 
+rarely split the original
+uranium mass precisely half and half, but more often as about 40%–60%. A typical
+fission reaction is
+(31;4)
+although many others also occur.
+Counting nucleons. Identify the element X
+in the fission reaction
+RESPONSE The number of nucleons is conserved (Section 30–7). The uranium
+nucleus with 235 nucleons plus the incoming neutron make 
+nucleons. So there must be 236 nucleons after the reaction. The Sr has 93 nucleons,
+and the two neutrons make 95 nucleons, so X has 
+Electric c

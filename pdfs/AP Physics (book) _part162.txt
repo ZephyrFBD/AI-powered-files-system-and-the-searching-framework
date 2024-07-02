@@ -1,0 +1,35 @@
+tion and experience? A good check is to
+do a rough estimate using only powers of 10, as
+discussed in Section 1–7. Often it is preferable to
+do a rough estimate at the start of a numerical
+problem because it can help you focus your 
+attention on finding a path toward a solution.
+9. A very important aspect of doing problems is keep-
+ing track of units. An equals sign implies the units on
+each side must be the same, just as the numbers must.
+If the units do not balance, a mistake has been
+made. This can serve as a check on your solution
+(but it only tells you if you’re wrong, not if you’re
+right). Always use a consistent set of units.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+1. Read and reread the whole problem carefully before
+trying to solve it.
+2. Decide what object (or objects) you are going to
+study, and for what time interval. You can often
+choose the initial time to be
+3. Draw a diagram or picture of the situation, with
+coordinate axes wherever applicable. [You can place
+the origin of coordinat

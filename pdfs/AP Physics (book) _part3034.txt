@@ -1,0 +1,18 @@
+ave–particle” is not possible.
+Electron diffraction. The wave nature of electrons is mani-
+fested in experiments where an electron beam interacts with the atoms on the
+surface of a solid, especially crystals. By studying the angular distribution of the
+diffracted electrons, one can indirectly measure the geometrical arrangement of
+atoms. Assume that the electrons strike perpendicular to the surface of a solid
+(see Fig. 27–13), and that their energy is low,
+so that they interact
+only with the surface layer of atoms. If the smallest angle at which a diffraction
+maximum occurs is at 24°, what is the separation d between the atoms on the
+surface?
+SOLUTION Treating the electrons as waves, we need to determine the condi-
+tion where the difference in path traveled by the wave diffracted from adjacent
+atoms is an integer multiple of the de Broglie wavelength, so that constructive
+interference occurs. The path length difference is 
+(Fig. 27–13); so for the
+smallest value of we must have
+However

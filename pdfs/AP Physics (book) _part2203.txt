@@ -1,0 +1,74 @@
+B
+A1.6 * 10–19 CB(0.010 T)
+= 0.85 * 10–2 m = 8.5 mm.
+r = constant,
+B
+B = constant,
+v
+B
+v
+B,
+F
+B
+r = mv
+qB
+.
+qvB = mv2
+r
+.
+©F = ma
+F = qvB.
+sin u = 1:
+a = v2r
+v
+=
+1.5 * 107 ms
+EXAMPLE 20;6
+FIGURE 20–18 The white ring inside
+the glass tube is the glow of a beam
+of electrons that ionize the gas
+molecules. The red coils of current-
+carrying wire produce a nearly
+uniform magnetic field, illustrating
+the circular path of charged particles
+in a uniform magnetic field.
+B
+B
+F
+B
+v
+B
+B
+B
+F
+B
+I
+B
+B
+B
+I
+I
+The time T required for a particle of charge q moving with constant speed to
+make one circular revolution in a uniform magnetic field
+is
+where
+is the circumference of its circular path. From Example 20–6,
+so
+Since T is the period of rotation, the frequency of rotation is
+(20;5)
+This is often called the cyclotron frequency of a particle in a field because this is
+the frequency at which particles revolve in a cyclotron (see Problem 88).
+f =
+1
+T =
+qB
+2pm
+.
+T = 2pm
+qB
+.
+r = mvqB,
+2pr
+T = 2prv,
+B
+B

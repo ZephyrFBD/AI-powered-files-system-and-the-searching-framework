@@ -1,0 +1,20 @@
+ graphs (on the right)
+were used in Section 6–7.
+Spring calculations. A spring stretches 0.150 m when a
+0.300-kg mass is gently suspended from it as in Fig. 11–3b. The spring is then set
+up horizontally with the 0.300-kg mass resting on a frictionless table as in Fig. 11–5.
+The mass is pulled so that the spring is stretched 0.100 m from the equilibrium
+point, and released from rest. Determine: (a) the spring stiffness constant k;
+(b) the amplitude of the horizontal oscillation A; (c) the magnitude of the
+maximum velocity 
+(d) the magnitude of the velocity v when the mass is
+0.050 m from equilibrium; and (e) the magnitude of the maximum accelera-
+tion
+of the mass.
+APPROACH Wow, a lot of questions, but we can take them one by one. When the
+0.300-kg mass hangs at rest from the spring as in Fig. 11–3b, we apply Newton’s
+second law for the vertical forces:
+so
+For
+the horizontal oscillations, the amplitude is given, the velocities are found using
+conservation of energy, and the acceleration 

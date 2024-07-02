@@ -1,0 +1,19 @@
+6–2, how is the direction of 
+related to the direction of F
+21 ?
+F
+12
+Equation 16–2 looks more complicated than Eq. 16–1, but other fundamental
+equations we haven’t seen yet are simpler in terms of 
+rather than k. It doesn’t
+matter which form we use since Eqs. 16–1 and 16–2 are equivalent. (The latest
+precise values of e and 
+are given inside the front cover.)†
+Equations 16–1 and 16–2 apply to objects whose size is much smaller than
+the distance between them. Ideally, it is precise for point charges (spatial size
+negligible compared to other distances). For finite-sized objects, it is not always
+clear what value to use for r, particularly since the charge may not be distributed
+uniformly on the objects. If the two objects are spheres and the charge is known
+to be distributed uniformly on each, then r is the distance between their centers.
+Coulomb’s law describes the force between two charges when they are at rest.
+Additional forces come into play when charges are in motion, and will be

@@ -1,0 +1,37 @@
+as the other gets 
+larger. Boyle’s law can be expressed mathematically as
+ 
+V = constant * 1
+P or PV = constant 
+[10.2]
+The value of the constant depends on temperature and on the amount of gas in the sample.
+The graph of V versus P in Figure 10.5 shows the curve obtained for a given quantity 
+of gas at a fixed temperature. A linear relationship is obtained when V is plotted versus 
+1>P as shown on the right in Figure 10.5.
+Go Figure
+Does atmospheric pressure increase 
+or decrease as altitude increases? 
+(Neglect changes in temperature.)
+Balloon rises
+up through
+atmosphere
+▲ Figure 10.4 As a balloon rises in the 
+atmosphere, its volume increases.
+ 
+P
+gas = P
+atm + h
+ 
+ = 764.7 torr + 1136.4 torr - 103.8 torr2
+ = 797.3 torr
+ 
+We convert the pressure of the gas to atmospheres:
+P
+gas = 1797.3 torr2a 1 atm
+760 torrb = 1.049 atm 
+(b) To calculate the pressure in kPa, we employ the conversion  
+factor between atmospheres and kPa:
+1.049 atm a 101.3 kPa
+1 atm
+b = 106.3 kPa 
+Check The calculate

@@ -1,0 +1,29 @@
+urface is 16.0 cm.
+What is the radius of curvature of the inside surface? The
+lens is made of plastic with n = 1.62.
+–3.5 D.
+M L Nlf
+ef
+o
+do
+N = 25 cm.
+do
+l = 550 nm.
+8 * 1010 m
+400 * 106 m.
+1. Digital cameras may offer an optical zoom or a digital zoom.
+An optical zoom uses a variable focal-length lens, so only
+the central part of the field of view fills the entire sensor;
+a digital zoom electronically includes only the central
+pixels of the sensor, so objects are larger in the final picture.
+Discuss which is better, and why.
+2. Which of the following statements is true?
+(See 
+Section 25–2.) Write a brief explanation why each is true
+or false. (a) Contact lenses and eyeglasses for the same
+person would have the same power. (b) Farsighted people
+can see far clearly but not near. (c) Nearsighted people
+cannot see near or far clearly. (d) Astigmatism in vision is
+corrected by using different spherical lenses for each eye.
+3. Redo Examples 25–3 and 25–4 assuming the sensor has
+only 6 MP.

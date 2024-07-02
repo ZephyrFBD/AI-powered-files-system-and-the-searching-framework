@@ -1,0 +1,52 @@
+2C
+2
+4He
+(Q = 7.3 MeV)
+3 2
+4He S
+ 6
+12C + 2g.
+4
+8Be
+g
+2
+4He +
+4
+8Be S
+ 6
+12C
+2
+4He +
+2
+4He S
+4
+8Be
+108 K,
+4 1
+2
+SECTION 33–2
+Stellar Evolution: Birth and Death of Stars, Nucleosynthesis
+955
+FIGURE 33–8 Evolutionary “track”
+of a star like our Sun represented on
+an H–R diagram.
+Surface temperature
+Luminosity
+White
+dwarf
+Main sequence
+Red
+giant
+Horizontal
+branch
+At these extremely high temperatures, well above 
+high-energy
+collisions can cause the breaking apart of iron and nickel nuclei into He nuclei,
+and eventually into protons and neutrons:
+These are energy-requiring (endothermic) reactions, which rob energy from the
+core, allowing gravitational contraction to begin. This then can force electrons
+and protons together to form neutrons in inverse
+decay:
+As a result of these reactions, the pressure in the core drops precipitously. As the
+core collapses under the huge gravitational forces, the tremendous mass becomes
+essentially an enormous nucleus made up almost exclusively of neutrons. 

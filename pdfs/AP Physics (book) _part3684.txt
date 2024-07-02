@@ -1,0 +1,18 @@
+all outside the main sequence. Above and to the right we find
+extremely large stars, with high luminosities but with low (reddish) color
+temperature: these are called red giants. At the lower left, there are a few stars of
+low luminosity but with high temperature: these are the white dwarfs.
+Distance to a star using the H–R diagram
+and color. Suppose that detailed study of a certain star suggests that it most
+likely fits on the main sequence of an H–R diagram. Its measured apparent
+brightness is
+and the peak wavelength of its spectrum is
+Estimate its distance from us.
+APPROACH We find the temperature using Wien’s law, Eq.27–2. The luminosity
+is estimated for a main-sequence star on the H–R diagram of Fig. 33–6, and
+then the distance is found using the relation between brightness and luminosity,
+Eq. 33–1.
+SOLUTION The star’s temperature, from Wien’s law (Eq. 27–2), is
+A star on the main sequence of an H–R diagram at this temperature has lumi-
+nosity of about
+read off of Fig. 33–6. Then,

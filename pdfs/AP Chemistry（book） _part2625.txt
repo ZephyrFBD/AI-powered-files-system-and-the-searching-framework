@@ -1,0 +1,31 @@
+tralization reaction is:
+H3PO31aq2 + 2 NaOH1aq2 ¡  Na2HPO31aq2 + 2 H2O1l2
+ 
+From the deﬁnition of molarity, M = mol>L, we see that 
+moles = M * L.  
+ (Section 4.5) Thus, the number of 
+moles of NaOH added to the solution is:
+10.0233 L210.102 mol>L2 = 2.38 * 10-3 mol NaOH
+ 
+The balanced equation indicates that 2 mol of NaOH is con-
+sumed for each mole of H3PO3. Thus, the number of moles of 
+H3PO3 in the sample is:
+12.38 * 10-3 mol NaOH2a
+1 mol H3PO3
+2 mol NaOH b = 1.19 * 10-3 mol H3PO3
+ 
+The concentration of the H3PO3 solution, therefore, equals 
+11.19 * 10-3 mol2>10.0250 L2 = 0.0476 M.
+(c) From the pH of the solution, 1.59, we can calculate 3H+4 at 
+equilibrium:
+3H+4 = antilog1-1.592 = 10-1.59 = 0.026 M 1two significant figures2
+ 
+Because Ka1 W Ka2, the vast majority of the ions in  
+solution are from the ﬁrst ionization step of the acid.
+ 
+Because one H2PO3
+- ion forms for each H+ ion formed, 
+the equilibrium concentrations of H+ and H2PO3
+- are 
+equal: 3H+4 = 3H2PO3 
+-4 = 0.026 M. Th

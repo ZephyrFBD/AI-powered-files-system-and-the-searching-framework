@@ -1,0 +1,24 @@
+c-
+ity relative to one another. Accelerating reference frames are
+noninertial.
+The special theory of relativity is based on two principles:
+the relativity principle, which states that the laws of physics 
+are the same in all inertial reference frames, and the principle
+of the constancy of the speed of light, which states that the
+speed of light in empty space has the same value in all inertial
+reference frames.
+One consequence of relativity theory is that two events
+that are simultaneous in one reference frame may not be simul-
+taneous in another. Other effects are time dilation: moving
+clocks are measured to run slow; and length contraction:
+the length of a moving object is measured to be shorter (in its
+direction of motion) than when it is at rest. Quantitatively,
+(26–1)
+(26–3)
+where and 
+are the length and time interval of objects (or
+events) observed as they move by at the speed v;
+and 
+are
+the proper length and proper time—that is, the same quantities
+as measured in the rest frame

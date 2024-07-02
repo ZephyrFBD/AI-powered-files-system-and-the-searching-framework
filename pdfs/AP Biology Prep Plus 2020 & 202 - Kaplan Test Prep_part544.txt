@@ -1,0 +1,17 @@
+entary RNA
+nucleotides, has been attached to a separated strand by an enzyme
+called primase.
+13.3 Describe the process of DNA replication
+DNA helicase unzips the DNA to ready it for replication. DNA replication is
+semiconservative, meaning that half of the original DNA is conserved in
+each daughter molecule. This means that the new DNA uses the existing
+DNA strands as a template. When DNA splits and copies, although the two
+resulting DNA strands that are created are identical to each other, one
+strand is made up of the “old” DNA strand while the other daughter
+strand is made of newly synthesized DNA. Okazaki fragments are formed
+because DNA polymerase can only read the older DNA in a 3′ to 5′
+direction and synthesize a new strand in a 5′ to 3′ direction. It works away
+from the origin of replication on one side and then jumps back to follow
+the unzipping DNA, but can only continue to work in a direction away
+from the replication fork, thus leaving fragments of DNA that have to be
+linked

@@ -1,0 +1,14 @@
+rallel to the axis fall on a thin lens, they will be
+focused to a point called the focal point, F. This will not be precisely true for a lens
+with spherical surfaces. But it will be very nearly true—that is, parallel rays will be
+focused to a tiny region that is nearly a point—if the diameter of the lens is small
+compared to the radii of curvature of the two lens surfaces. This criterion is satis-
+fied by a thin lens, one that is very thin compared to its diameter, and we consider
+only thin lenses here.
+23–7 Thin Lenses; Ray Tracing
+The most important simple optical device is the thin lens. The development of
+optical devices using lenses dates to the sixteenth and seventeenth centuries,
+although the earliest record of eyeglasses dates from the late thirteenth century.
+Today we find lenses in eyeglasses, cameras, magnifying glasses, telescopes,
+binoculars, microscopes, and medical instruments. A thin lens is usually circ-
+ular, and its two faces are portions of a sphere. (Cylindrical fa

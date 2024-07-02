@@ -1,0 +1,60 @@
+ the collision is elastic, the kinetic energy of our system of two particles is
+conserved and we can use Eq. 7–7, which becomes
+Thus
+and substituting this into our momentum equation displayed above, we get
+Solving for 
+we obtain
+The other unknown is 
+which we can now obtain from
+The minus sign for 
+tells us that the proton reverses direction upon collision,
+and we see that its speed is less than its initial speed (see Fig. 7–15).
+NOTE This result makes sense: the lighter proton would be expected to “bounce
+back”from the more massive helium nucleus, but not with its full original velocity
+as from a rigid wall (which corresponds to extremely large, or infinite, mass).
+vp
+œ
+= –2.15 * 104 ms.
+vp
+œ
+= vHe
+œ
+- vp = A1.45 * 104 msB - A3.60 * 104 msB
+vp
+œ ,
+= 1.45 * 104 ms.
+vHe
+œ
+=
+2mpvp
+mp + mHe
+=
+2(1.01 u)A3.60 * 104 msB
+(4.00 u + 1.01 u)
+vHe
+œ
+,
+mpvp = mpvHe
+œ
+- mpvp + mHevHe
+œ
+.
+vp
+œ
+= vHe
+œ
+- vp,
+vp - 0 = vHe
+œ
+- vp
+œ .
+mpvp + 0 = mpvp
+œ + mHevHe
+œ
+.
+vHe
+œ
+vp
+œ
+vp = 3.60 * 104 ms.
+vH

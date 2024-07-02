@@ -1,0 +1,38 @@
+tance of 0.65 m
+from the transmitting antenna? Assume the antenna is a
+point source. Air breaks down in an electric field of about
+60. Estimate how long an AM antenna would have to be if it
+were (a) 
+or (b) 
+AM radio is roughly 1 MHz (530 kHz
+to 1.7 MHz).
+61. 12 km from a radio station’s transmitting antenna, the ampli-
+tude of the electric field is 
+What is the average
+power output of the radio station?
+0.12 Vm.
+1
+4 l.
+1
+2 l
+3 * 106 Vm.
+4pr2
+E0 = B
+m0 cP
+0
+2pr2 .
+P
+0
+Search and Learn
+4. Laser light can be focused (at best) to a spot with a radius r
+equal to its wavelength 
+Suppose a 1.0-W beam of green
+laser light 
+forms such a spot and illuminates
+a cylindrical object of radius r and length r (Fig. 22–23).
+Estimate (a) the radiation pressure and force on the object,
+and (b) its acceleration, if its density equals that of water
+and it absorbs all the radiation. [This order-of-magnitude
+calculation convinced researchers of the feasibility of “optical
+tweezers,” page 636.] 
+Al = 5 * 1

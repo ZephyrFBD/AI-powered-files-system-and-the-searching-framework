@@ -1,0 +1,91 @@
+ 92
+235U
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+U (compound nucleus)
+(b)
+(c)
+U
+92
+235
+92
+236
+(a)
++
++
++
++
++
++
++
++
++
+n
+n
+n
+n
+(d)
++
++
++
++
++
++
++
++
+X1
+X2
++
++
++
++
++
++
++
++
++
++
+FIGURE 31–4 Mass distribution of
+fission fragments from 
+The small arrow indicates equal mass
+fragments (
+assuming 2 neutrons are liberated).
+Note that the vertical scale is
+logarithmic.
+1
+2 * (236 - 2) = 117,
+ 92
+235U + n.
+10
+1
+0.1
+Fission yield (percent)
+0.01
+0.001
+70 80 90 100 110 120
+Mass number, A
+130 140 150 160 170
+A tremendous amount of energy is released in a fission reaction because the
+mass of 
+is considerably greater than the total mass of the fission fragments
+plus released neutrons. This can be seen from the binding-energy-per-nucleon
+curve of Fig. 30–1; the binding energy per nucleon for uranium is about
+but for fission fragments that have intermediate mass (in the
+center portion of the graph,
+), the average binding energy per nucleon is
+about 
+Since the fission fragments are more tightly bound, the
+sum of their m

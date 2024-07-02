@@ -1,0 +1,138 @@
+hat is to say, during
+the process of exchanging heat with the water, the temperature of the air is
+constant.
+6.3 Heat exchange between the water and outside
+6.3.1 Air’s long-wave radiation to water and water’s reflection to
+air’s long-wave radiation
+aw
+
+is related to the temperature, and its formulation is:
+
+
+4
+(1
+)
+273
+aw
+a
+a
+T
+
+
+
+
+
+
+
+
+
+，
+where stands for reflectivity of the long wave and we usually take
+0.03
+
+. is
+Stefan-Boltzman constant, which is
+8
+2
+4
+5.67 10
+/
+W
+m
+K
+
+
+
+.
+a
+
+is the emissivity of the air, which is related to the temperature.
+Besides,
+4
+2
+1 0.261
+( 0.74 10
+)
+a
+a
+exp
+T
+
+
+
+
+
+
+can be given by the formulation of Idso
+and Jackson. Therefore,
+
+
+4
+8
+4
+2
+(1 0.03) 5.67 10
+1 0.261
+( 0.74 10
+)
+273
+aw
+a
+a
+exp
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+，
+
+
+4
+8
+4
+2
+5.5 10
+1 0.261
+( 0.74 10
+)
+273
+aw
+a
+a
+exp
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.3.2 The radiation of the water’s long-wave return
+Water will return radiation to the atmosphere after absorbi

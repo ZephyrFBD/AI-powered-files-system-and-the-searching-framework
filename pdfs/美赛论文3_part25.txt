@@ -1,0 +1,28 @@
+ese stages as follows:
+(1) The process of adding Water
+This stage can be divided into two processes which happen in the same time: The
+flow of water and the transfer of heat.
+The condition in the beginning of this stage is that the temperature of the water in
+the bathtub is
+2
+u ，so by using the two sets of equations above, we can get the
+distribution of water temperature in the bathtub at any time. Assuming the time of this
+process is 1
+t , and the temperature at the end of this process is
+3
+u , and
+3
+3( , , )
+u
+u x y z
+
+,
+which means that it is a function about the distribution of the temperature in space.
+(2) The process of fusion
+The beginning of this stage is also the end of the process of adding water. At this
+very moment, the temperature of every part of the water in the bathtub is influenced
+by the adding water, but this stage is a natural process of water fusion. Regarding
+3
+u
+as the original state, we can get the temperature of every point in the development of
+this process b

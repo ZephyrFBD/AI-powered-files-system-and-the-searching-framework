@@ -1,0 +1,105 @@
+ the start and be
+consistent throughout. The change in potential energy between any two points
+does not depend on this choice.
+¢pe
+¢pe,
+¢peG = –W
+G.
+W
+G =
+–Ape2 - pe1B
+=
+–¢peG
+W
+G =
+–mgAy2 - y1B
+¢peG,
+y2
+y1
+W
+ext = pe2 - pe1 = ¢peG.
+W
+ext = mgAy2 - y1B
+peG = mgy.
+1
+2 mv2 = 1
+2 m(2gh) = mgh,
+v2 = 2gh
+y2
+=
+–mgAy2 - y1B.
+W
+G =
+–mgh
+d
+B
+F
+B
+G
+u = 180°
+W
+G = F
+Gd cos u = mgh cos 180°,
+y2 ,
+y1
+= mgAy2 - y1B.
+W
+ext = F
+ext d cos 0° = mgh
+F
+ext = mg
+y2
+y1
+F
+ext = mg.
+146
+CHAPTER 6
+C A U T I O N
+Change in PE is what is 
+physically meaningful
+(exerted
+by hand)
+y1
+y2
+h
+=
+m
+ext
+m
+G
+F
+B
+F
+B
+d
+B
+g
+B
+FIGURE 6–11 A person exerts an
+upward force  
+to lift a
+brick from 
+to y2.
+y1
+F
+ext = mg
+C A U T I O N
+work done
+by net external force
+¢peG =
+C A U T I O N
+¢peG = –W
+G
+SECTION 6–4
+Potential Energy
+147
+2
+10 m
+3
+1
+15 m
+y
+FIGURE 6–12 Example 6–6.
+Potential energy changes for a roller coaster. A 1000-kg
+roller-coaster car moves from point 1, Fig. 6–12, to point 2 and then to point 3.
+(a) What is the gravitat

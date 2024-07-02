@@ -1,0 +1,33 @@
+5 * 10–6 F) = 4.2 * 10–3 s.
+t = RC.
+V
+0
+V
+C = 0.10V
+0
+V
+C = V
+0e–tRC.
+R = 120 
+C = 35 mF,
+EXAMPLE 19;13
+542
+CHAPTER 19
+V0
+R
+C
+S
+FIGURE 19–22 Example 19–14.
+Bulb in RC circuit. In the circuit of 
+Fig. 19–22, the capacitor is originally uncharged. Describe the behavior of the
+lightbulb from the instant switch S is closed until a long time later.
+RESPONSE When the switch is first closed, the current in the circuit is high and
+the lightbulb burns brightly. As the capacitor charges, the voltage across the capac-
+itor increases, causing the current to be reduced, and the lightbulb dims. As 
+the potential difference across the capacitor approaches the same voltage as the
+battery, the current decreases toward zero and the lightbulb goes out.
+CONCEPTUAL EXAMPLE 19;14
+Medical and Other Applications of RC Circuits
+The charging and discharging in an RC circuit can be used to produce voltage
+pulses at a regular frequency. The charge on the capacitor increases to a particular
+voltage, and then dis

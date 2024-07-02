@@ -1,0 +1,19 @@
+r 13), the average kinetic
+energy of atoms or molecules in a gas is given by Eq. 13–8:
+where 
+is Boltzmann’s constant, and T is the kelvin
+(absolute) temperature. Room temperature is about 
+so
+or, in electron volts:
+The average 
+of an atom as a whole is thus very small compared to the energy
+between the ground state and the next higher energy state 
+Any atoms in excited states quickly fall to the ground state and emit
+light. Once in the ground state, collisions with other atoms can transfer energy
+of only 0.04 eV on the average. A small fraction of atoms can have much more
+energy (see Section 13–10 on the distribution of molecular speeds), but even a
+kinetic energy that is 10 times the average is not nearly enough to excite atoms
+into states above the ground state. Thus, at room temperature, practically all
+atoms are in the ground state. Atoms can be excited to upper states by very high
+temperatures, or by applying a high voltage so a current of high energy electrons
+passes through the

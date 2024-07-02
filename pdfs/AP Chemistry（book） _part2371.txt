@@ -1,0 +1,15 @@
+ccur, neither reactants nor products can escape from the system.
+t At equilibrium, a particular ratio of concentration terms equals a constant.
+15.2 ∣ The Equilibrium Constant
+A reaction in which reactants convert to products and products convert to reactants in 
+the same reaction vessel naturally leads to an equilibrium, regardless of how complicated 
+the reaction is and regardless of the nature of the kinetic processes for the forward and 
+reverse reactions. Consider the synthesis of ammonia from nitrogen and hydrogen:
+ 
+N21g2 + 3 H21g2 ∆ 2 NH31g2 
+[15.6]
+This reaction is the basis for the Haber process, which is critical for the production of 
+fertilizers and therefore critical to the world’s food supply. In the Haber process, N2 and 
+H2 react at high pressure and temperature in the presence of a catalyst to form ammonia. 
+In a closed system, however, the reaction does not lead to complete consumption of the 
+N2 and H2. Rather, at some point the reaction appears to stop, with all t

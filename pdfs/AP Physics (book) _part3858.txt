@@ -1,0 +1,70 @@
+
+At room temperature, these two degrees of freedom
+are apparently not active (Fig. D–3). Why fewer degrees of freedom are “active”
+at lower temperatures was eventually explained by Einstein using quantum theory.
+A1
+2 kx2B.
+7
+2 R,
+CV
+3
+2 R,
+CV
+5
+2 R = 4.97 calmolK,
+U = NA5
+2 kTB = 5
+2 nRT,
+5
+2 kT.
+3
+2 kT
+1
+2 kT.
+5
+3
+CV
+APPENDIX D
+A-21
+FIGURE D;2 A diatomic molecule
+can vibrate, as if the two atoms were
+connected by a spring. They aren’t,
+but rather they exert forces on each
+other that are electrical in nature—of
+a form that resembles a spring force.
+R
+2
+7
+20
+50
+100
+200
+500
+1000
+2000
+10,000
+5000
+4R
+2R
+3R
+R
+R
+2
+5
+R
+0
+T (K)
+CV
+Translational kinetic energy
+Rotational kinetic energy
+Vibrational energy
+2
+3
+FIGURE D;3 Molar specific heat 
+as a 
+function of temperature for hydrogen molecules 
+As the temperature is increased, some of the 
+translational kinetic energy can be transferred in 
+collisions into rotational kinetic energy and, at 
+still higher temperature, into vibrational kinetic 
+an

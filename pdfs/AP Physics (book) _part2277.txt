@@ -1,0 +1,23 @@
+ value of electric field could make their
+paths straight? In what direction must the electric field point?
+*56. (I) In a mass spectrometer, germanium atoms have radii of
+curvature equal to 21.0, 21.6, 21.9, 22.2, and 22.8 cm. The
+largest radius corresponds to an atomic mass of 76 u. What
+are the atomic masses of the other isotopes?
+*57. (II) Suppose the electric field between the electric plates in
+the mass spectrometer of Fig. 20–41 is 
+and
+the magnetic fields are
+The source con-
+tains carbon isotopes of mass numbers 12, 13, and 14 from
+a long-dead piece of a tree. (To estimate masses of the atoms,
+multiply by 
+) How far apart are the lines
+formed by the singly charged ions of each type on the photo-
+graphic film? What if the ions were doubly charged?
+*58. (II) One form of mass spectrometer accelerates ions by a
+voltage V before they enter a magnetic field B. The ions
+are assumed to start from rest. Show that the mass of an
+ion is
+where R is the radius of the ions’
+path in the magneti

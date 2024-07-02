@@ -1,0 +1,38 @@
+Because cholesteric liquid crystal displays can be built 
+that draw very little power, they are also being investigated for use in electronic 
+paper (Figure 11.34). Such applications are possible because an applied electrical 
+field changes the orientation of liquid crystal molecules and thus affects the optical 
+properties of the device.
+▲ Figure 11.34 Electronic paper (e-paper) 
+based on cholesteric liquid crystal technology. 
+Electronic paper mimics the appearance of 
+ordinary ink on paper (like a page of a book 
+or magazine). It has numerous potential uses 
+including thin displays on walls, electronic 
+labels, and electronic book readers.
+*Cholesteric liquid crystals are sometimes called chiral nematic phases because the molecules 
+within each plane adopt an arrangement similar to a nematic liquid crystal.
+Which of these substances is most likely to exhibit liquid crystalline behavior?
+(i)
+CH3
+CH3
+CH2
+CH3
+C
+CH2
+CH3
+ 
+(ii)
+N
+N
+CH3CH2
+OCH3
+C
+O
+ 
+CH2
+C
+O
+O−Na+
+(iii)
+Sample Exercise 11

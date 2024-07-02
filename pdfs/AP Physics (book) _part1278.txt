@@ -1,0 +1,60 @@
+
+Quiet radio
+40
+Whisper
+30
+Rustle of leaves
+10
+Threshold of hearing
+0
+1 * 10–12
+1 * 10–11
+1 * 10–9
+1 * 10–8
+3 * 10–6
+1 * 10–5
+1 * 10–4
+1 * 10–2
+(Wm2)
+Sound intensity on the street. At a busy street corner,
+the sound level is 75 dB. What is the intensity of sound there?
+APPROACH We have to solve Eq. 12–1 for intensity I, remembering that
+SOLUTION From Eq. 12–1
+Recalling that
+is the same as
+(Appendix A–8), then
+With
+then
+I = I
+0 10b10 = A1.0 * 10–12 Wm2BA107.5B
+= 3.2 * 10–5 Wm2.
+b = 75,
+I
+I
+0
+= 10b10.
+y = 10x
+x = log y
+log I
+I
+0
+=
+b
+10
+.
+I
+0 = 1.0 * 10–12 Wm2.
+EXAMPLE 12;3
+†The dB is dimensionless and so does not have to be included in calculations.
+332
+CHAPTER 12
+Sound
+P H Y S I C S  A P P L I E D
+Loudspeaker response (
+)
+&3 dB
+Loudspeaker response. A high-quality loudspeaker is
+advertised to reproduce, at full volume, frequencies from 30 Hz to 18,000 Hz with
+uniform sound level 
+That is, over this frequency range, the sound level
+output does not vary by more than 3 dB for a given

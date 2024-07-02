@@ -1,0 +1,16 @@
+cated, and are able to keep the data even
+without power so they are nonvolatile. Each MOSFET contains a second gate (the
+floating gate) insulated on both faces, and can hold charge for many years.
+Charged or not corresponds to a “1” or a “0” bit. Figure 21–30 is a diagram of
+such an NVM (nonvolatile memory) cell. The floating gate is insulated from the
+standard gate and the semiconductor connecting source and drain. A high posi-
+tive voltage on the gate 
+forces electrons in the semiconductor (at 0 V) to
+pass through the thin insulator into the floating gate by a process of quantum
+mechanical tunneling (discussed in Section 30–12). This charge is stored on the
+floating gate as a “1” bit. The erase process is done by applying the opposite
+voltage to force electrons to tunnel out of the floating gate, returning it
+to the uncharged state (
+a “0” bit). The erase process is slow (milliseconds vs. ns
+for DRAM), so erasure is done in large blocks of memory. Flash memory† is
+slower to read or w

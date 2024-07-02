@@ -1,0 +1,32 @@
+ was pointed out. According to this twin paradox, suppose one of a pair
+of 20-year-old twins takes off in a spaceship traveling at very high speed to a
+distant star and back again, while the other twin remains on Earth. According to
+the Earth twin, the astronaut twin will age less. Whereas 20 years might pass for
+the Earth twin, perhaps only 1 year (depending on the spacecraft’s speed) would
+pass for the traveler. Thus, when the traveler returns, the earthbound twin could
+expect to be 40 years old whereas the traveling twin would be only 21.
+¢t0 = ¢t 21 - v2c2 = (100 yr)21 - (0.999)2 = 4.5 yr.
+v = 0.999c,
+1 year = 3.0 * 108 ms * 3.16 * 107 s = 9.5 * 1015 m
+(2.25 * 108 ms)(600 s) = 1.35 * 1011 m.
+D0 = v ¢t0 =
+2.04 * 1011 m.
+(0.75c)(15.1 min) = (0.75)A3.0 * 108 msB(15.1 min * 60 smin) =
+D = v ¢t =
+¢t =
+¢t0
+31 - Av2c2B
+=
+10.00 min
+31 - (0.75)2
+= 15.1 min.
+¢t0
+¢t0
+¢t
+speed * time.
+EXAMPLE 26;3
+754
+CHAPTER 26
+The Special Theory of Relativity
+SECTION 26–4
+Time Dilation and the Twin Par

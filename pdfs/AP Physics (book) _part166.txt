@@ -1,0 +1,81 @@
+. We say it is “unphysical” and ignore it.
+We explicitly followed the steps of the Problem Solving Strategy in
+Example 2–8. In upcoming Examples, we will use our usual “Approach” and
+“Solution” to avoid being wordy.
+t = –5.48 s,
+t = &22xa = &5.48 s.
+x = x0 + vt = 0 + 1
+2 (10.96 ms + 0)(5.48 s) = 30.0 m,
+v = at = A2.00 ms2B(5.48 s) = 10.96 ms,
+t = B
+2x
+a
+= C
+2(30.0 m)
+2.00 ms2
+= 5.48 s.
+t = B
+2x
+a
+.
+t
+2x
+a
+= t2.
+2
+a
+t
+x =
+1
+2 at2.
+Ax = x0 + v0t + 1
+2 at2B,
+x0 = 0
+v0 = 0
+t.
+t0 = 0B,
+A
+30.0 m.
+t
+v0 = 0.
+t = 0;
+v = 0
+x0 = 0
+t
+Av0 = 0B;
+t = 0,
+2.00 ms2?
+EXAMPLE 2;8
+P R O B L E M  S O L V I N G
+Check your answer
+P R O B L E M  S O L V I N G
+“Starting from rest” means
+at
+[i.e.,
+]
+v0 = 0
+t = 0
+v = 0
+Known
+Wanted
+v0 = 0
+a = 2.00 ms2
+x = 30.0 m
+t
+x0 = 0
+0
+a =  
+2.00 m/s2
+a =  
+2.00 m/s2
+x0 = 0
+v
+x =
+30.0 m
+=  
+0
+FIGURE 2;15 Example 2–8.
+P R O B L E M  S O L V I N G
+“Unphysical” solutions
+Braking distances. Estimate the minimum
+stopping distance for a car, which is important for traffic sa

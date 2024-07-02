@@ -1,0 +1,10 @@
+DNA replication, involves separating (unzipping) the double-stranded DNA molecule into two
+strands, each of which serves as a template to assemble a new, complementary strand. The result is two identical
+double-stranded molecules of DNA. Because each of these double-stranded molecules of DNA consists of a single
+strand of old DNA (the template strand) and a single strand of new, replicated DNA (the complementary strand), the
+process is called semiconservative replication.
+During DNA replication, the enzyme helicase unwinds the DNA helix, forming a Y-shaped replication fork.
+Single-strand binding proteins attach to each strand of the uncoiled DNA to keep them separate. As helicase
+unwinds the DNA, it forces the double-helix in front of it to twist. A group of enzymes, called topoisomerases,
+break and rejoin the double helix, allowing the twists to unravel and preventing the formation of knots.
+Since a DNA double-helix molecule consists of two opposing DNA strands, the uncoiled DNA consi

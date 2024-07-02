@@ -1,0 +1,14 @@
+ total number of ATP generated from a single pyruvate is 15
+ATP.
+b. The Krebs cycle and oxidative phosphorylation occur in the mitochondria. The Krebs cycle occurs in the matrix
+of the
+mitochondria. The protein carriers for the electron transport chain are embedded in the inner mitochondrial
+membranes, called the cristae. Thus, oxidative phosphorylation occurs in these cristae membranes.
+c. Chemiosmosis describes how ATP is generated from ADP + Pi.
+ 
+During oxidative phosphorylation, H+ (protons) are deposited on the
+outside of the cristae, between the cristae and the outer membrane. The excess number of protons in this
+intermembrane space creates a pH and electric gradient. The gradient provides the energy to generate ATP as
+protons pass back into the matrix through ATP synthase, a channel protein in the cristae.
+Note that the answer to each part of the question is labeled a, b, or c. Answering each part separately helps you to
+organize your answer and helps the grader recognize that 

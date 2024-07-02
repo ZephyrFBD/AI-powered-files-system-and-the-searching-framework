@@ -1,0 +1,20 @@
+to
+plane-polarized and reduces the intensity from 
+to 
+The second 
+polarizer further reduces the intensity by 
+Eq. 24–5:
+The light leaving the second polarizer is plane-polarized at 45° (Fig. 24–45b)
+relative to the third polarizer, so the third one reduces the intensity to
+or
+Thus of the original intensity gets transmitted.
+NOTE If we don’t insert the 45° Polaroid, zero intensity results (Fig. 24–43).
+EXERCISE F How much light would pass through if the 45° polarizer in Example 24–14
+was placed not between the other two polarizers but (a) before the vertical (first) 
+polarizer, or (b) after the horizontal polarizer?
+Polarization by Reflection
+Another means of producing polarized light from unpolarized light is by 
+reflection. When light strikes a nonmetallic surface at any angle other than 
+perpendicular, the reflected beam is polarized preferentially in the plane parallel
+to the surface, Fig. 24–46. In other words, the component with polarization in the
+plane perpendicular to the surf

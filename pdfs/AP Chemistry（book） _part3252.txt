@@ -1,0 +1,38 @@
+in Figure 20.23. The lead–acid 
+ 
+batteries used in gasoline-powered automobiles are reliable 
+and inexpensive, but their energy densities are far too low for 
+Chemistry Put to Work Batteries for Hybrid and Electric Vehicles
+▲ Figure 20.22 Electric car. This Tesla electric automobile can go 
+about 200 miles after 30 minutes of charging at this station.
+Volumetric energy density (W-h/L)
+Smaller size
+Lighter weight
+400
+350
+300
+250
+200
+150
+100
+50
+100
+150
+200
+250
+Specific energy density (W-h/kg)
+50
+0
+Lead
+acid
+Nicad
+NiMH
+Li-ion
+▲ Figure 20.23 Energy densities of various types of batteries. 
+The higher the volumetric energy density, the smaller the 
+amount of space needed for the batteries. The higher the 
+specific energy density, the smaller the mass of the batteries.  
+A Watt-hour (W-h) is equivalent to 3.6 * 103 Joules.
+practical use in an electric vehicle. Nickel–metal hydride batteries 
+offer roughly three times higher energy density and until recently 
+were the batteries of choice for

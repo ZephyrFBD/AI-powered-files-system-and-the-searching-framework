@@ -1,0 +1,54 @@
+H
+A
+P
+T
+E
+R
+Kinematics in 
+Two Dimensions; Vectors
+49
+CONTENTS
+3–1 Vectors and Scalars
+3–2 Addition of Vectors—
+Graphical Methods
+3–3 Subtraction of Vectors, and 
+Multiplication of a Vector 
+by a Scalar
+3–4 Adding Vectors by 
+Components
+3–5 Projectile Motion
+3–6 Solving Projectile Motion
+Problems
+3–7 Projectile Motion Is Parabolic
+3–8 Relative Velocity
+3
+This snowboarder flying through 
+the air shows an example of 
+motion in two dimensions. In 
+the absence of air resistance, the
+path would be a perfect parabola.
+The gold arrow represents the 
+downward acceleration of 
+gravity,
+Galileo analyzed the
+motion of objects in 2 dimensions
+under the action of gravity near 
+the Earth’s surface (now called 
+“projectile motion”) into its 
+horizontal and vertical components.
+We will discuss vectors and how 
+to add them. Besides analyzing 
+projectile motion, we will also see
+how to work with relative velocity.
+g
+B.
+49
+(b)
+(a)
+A
+B
+(c)
+(d)
+(e)
+I
+n Chapter 2 we dealt with motion along a straight line. 

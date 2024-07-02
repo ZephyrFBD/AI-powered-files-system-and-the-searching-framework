@@ -1,0 +1,16 @@
+imilar if we were
+using, instead, an electron microscope.) As we saw in Chapter 25, objects can be
+seen to a precision at best of about the wavelength of the radiation used due to
+diffraction. If we want a precise position measurement, we must use a short
+wavelength. But a short wavelength corresponds to high frequency and large
+momentum
+and the more momentum the photons have, the more
+momentum they can give the object when they strike it. If we use photons of
+longer wavelength, and correspondingly smaller momentum, the object’s motion
+when struck by the photons will not be affected as much. But the longer wave-
+length means lower resolution, so the object’s position will be less accurately
+known. Thus the act of observing produces an uncertainty in both the position
+and the momentum of the electron. This is the essence of the uncertainty principle
+first enunciated by Heisenberg in 1927.
+Quantitatively, we can make an approximate calculation of the magnitude of
+the uncertainties. If we

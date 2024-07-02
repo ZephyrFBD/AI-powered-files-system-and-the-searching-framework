@@ -1,0 +1,20 @@
+al. A carbon atom with four different attached groups is called a 
+chiral center. For example, consider 2-bromopentane:
+CH3
+CH2CH2CH3
+C
+H
+Br
+All four groups attached to the second carbon are different, making that carbon a chi-
+ral center. Figure 24.14 illustrates the nonsuperimposable mirror images of this molecule. 
+Imagine moving the molecule shown to the left of the mirror over to the right of the mir-
+ror. If you then turn it in every possible way, you will conclude that it cannot be super-
+imposed on the molecule shown to the right of the mirror. Nonsuperimposable mirror 
+images are called either optical isomers or enantiomers. 
+ (Section 23.4) Organic chem-
+ists use the labels R and S to distinguish the two forms. We will not go into the rules for 
+deciding on the labels.
+1056 
+CHAPTER 24 The Chemistry of Life: Organic and Biological Chemistry
+The two members of an enantiomer pair have identical physical properties and iden-
+tical chemical properties when they react with nonchir

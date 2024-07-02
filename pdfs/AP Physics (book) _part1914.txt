@@ -1,0 +1,25 @@
+What
+changes occur to (a) the capacitance, (b) the charge on the
+plates, (c) the potential difference, (d) the energy stored 
+in the capacitor, and (e) the electric field? Explain your
+answers.
+18. We have seen that the capacitance C depends on the size
+and position of the two conductors, as well as on the
+dielectric constant K. What then did we mean when we
+said that C is a constant in Eq. 17–7?
+E
+B ?
+E
+B
+Questions
+The energy stored in any electric field E has a density 
+(17;11)
+Digital electronics converts an analog signal voltage into
+an approximate digital voltage based on a binary code: each bit
+has two possibilities, 1 or 0 (also “on” or “off”). The binary
+number 1101 equals 13. A byte is 8 bits and provides 
+voltage levels. Sampling rate is the number of voltage measure-
+ments done on the analog signal per second. The bit depth is
+the number of digital voltage levels available at each sampling.
+CDs are 44.1 kHz, 16-bit.
+[ TV and computer monitors traditionally used a cathode ray

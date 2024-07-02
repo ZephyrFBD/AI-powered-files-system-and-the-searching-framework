@@ -1,0 +1,20 @@
+perties (Chapter 27) and that their wavelengths can be
+very small. The wave nature of electrons is utilized in the electron microscope
+(Section 27–9), which can magnify 100 to 1000 times more than a visible-light
+microscope because of the much shorter wavelengths. X-rays, too, have very short
+wavelengths and are often used to study objects in great detail (Section 25–11).
+25–9 Resolution of the Human Eye
+and Useful Magnification
+The resolution of the human eye is limited by several factors, all of roughly the
+same order of magnitude. The resolution is best at the fovea, where the cone
+spacing is smallest, about 
+The diameter of the pupil varies
+from about 0.1 cm to about 0.8 cm. So for 
+(where the eye’s sensi-
+tivity is greatest), the diffraction limit is about 
+to
+The eye is about 2 cm long, giving a resolving power (Eq. 25–8) of
+at best, to about 
+at worst (pupil
+small). Spherical and chromatic aberration also limit the resolution to about 
+The net result is that the eye can just res

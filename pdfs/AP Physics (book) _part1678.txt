@@ -1,0 +1,56 @@
+ area
+with the low temperature.
+QL
+c refrigerator or
+air conditionerd
+COP = QL
+W
+,
+QL
+eideal = 1 - T
+L
+T
+H
+.
+T
+L,
+T
+H
+QL ,
+QH,
+e =
+W
+QH
+= QH - QL
+QH
+= 1 - QL
+QH
+.
+QL
+QH - QL,
+QH.
+¢V
+W = P ¢V,
+(Q = 0).
+¢U = Q - W.
+¢U
+A heat pump uses work W to bring heat 
+from the cold
+outside and deliver heat 
+to warm the interior. The coeffi-
+cient of performance of a heat pump is
+(15;7)
+because it is the heat 
+delivered inside the building that counts.
+The second law of thermodynamics can be stated in sev-
+eral equivalent ways:
+(a) heat flows spontaneously from a hot object to a cold
+one, but not the reverse;
+(b) there can be no 100% efficient heat engine—that is, one
+that can change a given amount of heat completely
+into work;
+(c) natural processes tend to move toward a state of
+greater disorder or greater entropy.
+Statement (c) is the most general statement of the second law
+of thermodynamics, and can be restated as: the total entropy, S,
+of any system plus that of its environment increases as a re

@@ -1,0 +1,14 @@
+car,
+one terminal of the battery is called “ground,” but is not connected to the earth
+itself—it is connected to the frame of the car, as is one connection to each lightbulb
+and other devices. Thus the car frame is a conductor in each circuit, ensuring a
+continuous path for charge flow, and is called “ground” for the car’s circuits.
+(Note that the car frame is well insulated from the earth by the rubber tires.)
+We saw in Chapter 16 that conductors contain many free electrons. Thus, if a
+continuous conducting wire is connected to the terminals of a battery, negatively
+charged electrons flow in the wire. When the wire is first connected, the potential
+difference between the terminals of the battery sets up an electric field inside the
+wire and parallel to it. Free electrons at one end of the wire are attracted into 
+the positive terminal, and at the same time other electrons enter the other end of the
+wire at the negative terminal of the battery. There is a continuous flow of electrons
+t

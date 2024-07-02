@@ -1,0 +1,63 @@
+is due to different
+numbers of neutrons (discussed in Chapter 30).
+m = qB¿r
+v
+= qBB¿r
+E
+.
+v = EB,
+qvB¿ = mv2r.
+B¿
+©F = ma,
+B¿
+B¿
+B¿,
+S2 ,
+S2 .
+v = EB
+v = E
+B
+.
+qE = qvB,
+qvB
+(⊥)
+S2
+S1
+*
+578
+CHAPTER 20
+Magnetism
+P H Y S I C S  A P P L I E D
+The mass spectrometer
+B
+B'
+B
+B
+B
+E
+B
+Sample
+–
+2r
+S1
+S2
+and
++
+Detector
+or film
+FIGURE 20–41 Bainbridge-type
+mass spectrometer. The magnetic
+fields B and 
+point out of the
+paper (indicated by the dots).
+B¿
+Mass spectrometry. Carbon atoms of atomic mass 12.0 u
+are found to be mixed with an unknown element. In a mass spectrometer with
+fixed 
+the carbon traverses a path of radius 22.4 cm and the unknown’s path has
+a 26.2-cm radius. What is the unknown element? Assume the ions of both elements
+have the same charge.
+APPROACH The carbon and unknown atoms pass through the same electric
+and magnetic fields. Hence their masses are proportional to the radius of their
+respective paths (see Eq. 20–12).
+SOLUTION We write a ratio for the masses, using Eq. 20–12:

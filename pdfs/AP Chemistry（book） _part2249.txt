@@ -1,0 +1,18 @@
+cess. 
+Elementary reactions involving the collision of two reactant molecules are bimolecu-
+lar. The reaction between NO and O3 is bimolecular. Elementary reactions involving the 
+simultaneous collision of three molecules are termolecular. Termolecular reactions 
+are far less probable than unimolecular or bimolecular processes and are extremely rare. 
+The chance that four or more molecules will collide simultaneously with any regularity 
+is even more remote; consequently, such collisions are never proposed as part of a reac-
+tion mechanism. Thus, nearly all reaction mechanisms contain only unimolecular and 
+bimolecular elementary reactions.
+Give It Some Thought
+What is the molecularity of the elementary reaction?
+NO1g2 + Cl21g2 ¡ NOCl1g2 + Cl1g2 
+Multistep Mechanisms
+The net change represented by a balanced chemical equation often occurs by a multistep 
+mechanism consisting of a sequence of elementary reactions. For example, below 225 °C, 
+the reaction
+ 
+NO21g2 + CO1g2 ¡ NO1g2 + CO21g2

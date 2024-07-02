@@ -1,0 +1,30 @@
+antity by a conversion factor, the units multiply and divide as follows:
+Given unit * desired unit
+given unit
+= desired unit
+If the desired units are not obtained in a calculation, an error must have been made 
+somewhere. Careful inspection of units often reveals the source of the error.
+denominator are the same quantity expressed in different units. For example, 2.54 cm 
+and 1 in. are the same length: 2.54 cm = 1 in. This relationship allows us to write two 
+conversion factors:
+2.54 cm
+1 in.  and 
+1 in.
+2.54 cm
+We use the first factor to convert inches to centimeters. For example, the length in 
+centimeters of an object that is 8.50 in. long is
+lb
+Given:
+Use
+453.6 g
+1 lb
+g
+Find:
+ 
+▶Practice Exercise 1
+At a particular instant in time, the Earth is judged to be 
+92,955,000 miles from the Sun. What is the distance in  
+kilometers to four significant figures? (See the back inside 
+cover for the conversion factor). 
+(a) 5763 * 104 km (b) 1.496 * 108 km (c) 1.49596 * 108 km  
+(d) 1.483 * 10

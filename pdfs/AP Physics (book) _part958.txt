@@ -1,0 +1,49 @@
+s as much as wire A.
+(c) Wire A stretches twice as much as wire B. (d) Wire A stretches four times as much as
+wire B. (e) Both wires stretch the same amount.
+The value of Young’s modulus for various materials is given in Table 9–1 (the
+shear modulus and bulk modulus in this Table are discussed later in this Section).
+Because E is a property only of the material and is independent of the object’s size
+or shape, Eq. 9–4 is far more useful for practical calculation than Eq. 9–3.
+242
+CHAPTER 9
+Static Equilibrium; Elasticity and Fracture
+TABLE 9–1 Elastic Moduli
+Young’s Modulus,
+Shear Modulus,
+Bulk Modulus,
+Material
+Solids
+Iron, cast
+Steel
+Brass
+Aluminum
+Concrete
+Brick
+Marble
+Granite
+Wood (pine) (parallel to grain)
+(perpendicular to grain)
+Nylon
+Bone (limb)
+Liquids
+Water
+Alcohol (ethyl)
+Mercury
+Gases†
+Air,
+He,
+†At normal atmospheric pressure; no variation in temperature during process.
+1.01 * 105
+CO2
+H2,
+2.5 * 109
+1.0 * 109
+2.0 * 109
+80 * 109
+15 * 109
+L 3 * 109
+1 * 109
+10 * 109
+45 * 109
+45 

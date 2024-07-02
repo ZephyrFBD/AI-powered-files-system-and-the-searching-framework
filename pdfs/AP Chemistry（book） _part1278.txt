@@ -1,0 +1,29 @@
+work.)
+Third, we add Lewis electron dots to complete the octets on the atoms 
+bonded to the central atom. Completing the octets around each  
+Cl
+Cl
+Cl
+P
+This structure gives each atom an octet, so we stop at this point. 
+(In checking for octets, remember to count a single bond as two 
+electrons.)
+Fourth, recalling that our total number of electrons is 26, we place 
+the remaining two electrons on the central atom, P
+, which completes 
+its octet:
+Cl
+Cl
+Cl
+P
+ 
+SECTION 8.5   
+Drawing Lewis Structures 
+317
+Formal Charge and alternative Lewis Structures
+When we draw a Lewis structure, we are describing how the electrons are distributed 
+in a molecule or polyatomic ion. In some instances, we can draw two or more valid 
+Lewis structures for a molecule that all obey the octet rule. All of these structures can be 
+thought of as contributing to the actual arrangement of the electrons in the molecule, but 
+not all of them will contribute to the same extent. How do we decide which one of sev-
+eral 

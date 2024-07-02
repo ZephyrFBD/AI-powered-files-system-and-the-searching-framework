@@ -1,0 +1,12 @@
+d monosaccharides
+(glucose), but not disaccharides (sucrose), polysaccharides (starch), or proteins.
+In this investigation, diffusion and osmosis are manipulated by two variables:
+1. Solute type. Smaller molecules (water, NaCl, glucose) can diffuse across the model “plasma membrane” (dialysis
+tubing), while larger molecules (sucrose, proteins) cannot.
+2. Solute concentration. The relative concentration of solutes inside and outside the bag determines the net flow of
+solutes or water across the membrane; the greater the solute concentration gradient, the faster the initial flow of
+solutes.
+To investigate the influence of solute type and concentration, nine bags are prepared. Four bags are each filled with
+a different solute: sucrose, NaCl, glucose, and ovalbumin (a protein). These four bags are immersed in water.
+Another four bags are filled with water and each is immersed in one of the four different solute solutions. A ninth
+bag, a control, is filled with water and immersed in water. 

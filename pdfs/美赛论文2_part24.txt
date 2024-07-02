@@ -1,0 +1,21 @@
+ circle. 
+Vertical transportation means medication is carried from treatment center to 
+epidemic areas. 
+Lateral transportation means medication is carried between epidemic areas. 
+But the two models based on the common assumption that the position of 
+treatment center is determined.  
+3.5.1 Determination of Treatment Center 
+3.5.1.1 Terms , Definitions and Symbols 
+ Ai: The code of epidemic cities ( i=1, 2, 3…) 
+ (xi, yi): The location of the epidemic city in the map 
+ t1i : time of the one-way distribution from treatment center to the 
+epidemic city(Ai) 
+ Si : the straight-line distance from treatment center to the epidemic 
+cities(Ai) 
+ di: The amount of the medication the epidemic city(Ai) needed 
+3.5.1.2 Assumptions 
+1) di is proportion to the cases in epidemic cities during the recent 3 weeks. 
+2) t1i is proportion to Si* di. 
+3.5.1.3 Result   
+To give a result, we gain the data of Sierra Leone from WHO, which is 
+Team   #37232                                                

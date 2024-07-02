@@ -1,0 +1,24 @@
+ustrative purposes.
+ 
+SECTION 10.9   
+Real Gases: Deviations from Ideal Behavior  
+419
+Start
+End
+Net distance traveled
+▲ Figure 10.17 Diffusion of a gas molecule. 
+For clarity, no other gas molecules in the 
+container are shown.
+Give It Some Thought
+Will these changes increase, decrease, or have no effect on the mean free path 
+of the molecules in a gas sample?
+(a) increasing pressure.
+(b) increasing temperature.
+*The rate at which the perfume moves across the room also depends on how well stirred the air 
+is from temperature gradients and the movement of people. Nevertheless, even with the aid of 
+these factors, it still takes much longer for the molecules to traverse the room than one would 
+expect from their rms speed.
+throughout a volume of space is much slower than molecular speeds.* This difference is 
+due to molecular collisions, which occur frequently for a gas at atmospheric pressure—
+about 1010 times per second for each molecule. Collisions occur because real gas mole-
+cules 

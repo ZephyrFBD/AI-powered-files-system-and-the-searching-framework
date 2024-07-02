@@ -1,0 +1,22 @@
+investigation changes its height
+during the problem, then choose a reference frame
+with a convenient
+level for gravitational
+potential energy; the lowest point in the situation is
+often a good choice.
+If springs are involved, choose the unstretched
+spring position to be x (or y) = 0.
+y = 0
+6–10 Power
+Power is defined as the rate at which work is done. Average power equals the
+work done divided by the time to do it. Power can also be defined as the rate at
+which energy is transformed. Thus
+(6;17)
+The power rating of an engine refers to how much chemical or electrical energy
+can be transformed into mechanical energy per unit time. In SI units, power is meas-
+ured in joules per second, and this unit is given a special name, the watt (W):
+We are most familiar with the watt for electrical devices, such as 
+the rate at which an electric lightbulb or heater changes electric energy into light
+or thermal energy. But the watt is used for other types of energy transformations
+as well.
+In the Brit

@@ -1,0 +1,208 @@
+ 
+on the economy 
+(
+)
+1
+12( )
+1
+1
+x
+f
+x
+e
+e
+=
+−
+−
+ 
+ 
+ 
+ 
+The impact of the 
+ecology on the society 
+31( )
+f
+x
+x
+=
+ 
+ 
+ 
+ 
+ 
+Team#36961 
+ 
+Page 9 of 20 
+The impact of the 
+economy on the ecology 
+1
+1
+1
+23( )
+sin
+2
+2
+2
+f
+x
+x
+π 
+
+=
+−
++
+
+
+
+
+ 
+ 
+The impact of the 
+economy on the society 
+ 
+(
+)
+21( )
+ln
+1
+1
+f
+x
+e
+x
+=
+−
++
+
+
+
+
+ 
+ 
+The impact of the society 
+on the ecology 
+13( )
+f
+x
+x
+=
+ 
+ 
+The impact of the 
+ecology on the economy 
+(
+)
+1
+1
+32( )
+arcsin 2
+1
+2
+f
+x
+x
+π
+=
+−
++
+ 
+ 
+ 
+We set the index of the main factor i  to 
+i
+x , j  to 
+j
+x ， and the certain index 
+e  to distinguish sustainable and unsustainable development. 
+The influence of the main factor i  on the main factor j  is:  
+,
+(x )
+f(e)
+0
+( (x )
+f(e))*X' ,(
+),
+'
+1
+,
+(x )
+f(e)
+0
+j
+i
+ij
+i
+j
+j
+j
+i
+X
+f
+f
+i
+j where X
+X
+f
+−
+≥
+
+
+δ =
+−
+≠
+ 
+= −
+−
+<
+
+
+ 
+The final index of the main factor j  is: 
+0
+,(
+0)
+,(0
+1)
+(i, j
+12 3)
+1
+,(
+1)
+j
+ij
+i
+j
+j
+j
+ij
+j
+ij
+i
+j
+i
+j
+j
+ij
+i
+j
+X
+P
+X
+X
+X
+≠
+≠
+≠
+≠
+                
++
+δ ≤
+
+
+
+=
++
+δ
+<
++
+δ 

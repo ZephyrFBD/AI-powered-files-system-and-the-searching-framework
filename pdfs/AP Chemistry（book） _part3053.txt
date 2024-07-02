@@ -1,0 +1,26 @@
+.7, we have
+ ∆H°
+rxn = 2 ∆Hf°3NH31g24 - 3 ∆Hf°3H21g24 - ∆Hf°3N21g24
+ = 21-46.19 kJ2 - 310 kJ2 - 10 kJ2 = -92.38 kJ
+The negative value tells us that at 298 K the formation of ammonia from H21g2 and N21g2 
+is exothermic. The surroundings absorb the heat given off by the system, which means an 
+increase in the entropy of the surroundings:
+∆S°
+surr = 92.38 kJ
+298 K
+= 0.310  kJ>K = 310 J>K
+Notice that the magnitude of the entropy gained by the surroundings is greater than that 
+lost by the system, calculated as -198.3 J>K in Sample Exercise 19.5.
+The overall entropy change for the reaction is
+∆S°
+univ = ∆S°
+sys + ∆S°
+surr = -198.3 J>K +  
+310 J>K = 112 J>K
+Because ∆S°
+univ is positive for any spontaneous reaction, this calculation indicates that 
+when NH31g2, H21g2, and N21g2 are together at 298 K in their standard states (each at 
+ 
+1 atm pressure), the reaction moves spontaneously toward formation of NH31g2.
+Keep in mind that while the thermodynamic calculations indicate that formation 
+o

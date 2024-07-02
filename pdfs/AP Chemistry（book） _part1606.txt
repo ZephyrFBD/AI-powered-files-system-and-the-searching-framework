@@ -1,0 +1,14 @@
+ion of molecular speeds for nitrogen gas. (a) The effect of temperature on  
+molecular speed. The relative area under the curve for a range of speeds gives the relative fraction  
+of molecules that have those speeds. (b) Position of most probable 1ump2, average 1uav2, and root- 
+mean-square 1urms2 speeds of gas molecules. The data shown here are for nitrogen gas at 0 °C.
+Estimate the fraction of molecules at 100 °C with speeds less than 300 m>s.
+2. Negligible molecular volume The combined volume of all the molecules of 
+the gas is negligible relative to the total volume in which the gas is contained.
+3. Negligible forces Attractive and repulsive forces between gas molecules are 
+negligible.
+4. Constant average kinetic energy Energy can be transferred between mole-
+cules during collisions but, as long as temperature remains constant, the average 
+kinetic energy of the molecules does not change with time.
+5. Average kinetic energy proportional to temperature The average kinetic 
+energy o

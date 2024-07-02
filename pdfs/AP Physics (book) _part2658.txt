@@ -1,0 +1,60 @@
+iffraction pattern formed by light passing through a narrow slit of width D.
+D
+θ
+θ
+θ
+λ
+2
+λ
+λ
+λ
+λ
+1
+2
+λ
+1
+2
+λ
+1
+2
+λ
+3
+2
+λ
+3
+2
+θ
+(a)
+ = 0
+Bright
+θ
+(b) sin
+Dark
+= D
+λ
+θ
+(c) sin
+Bright
+= 3
+  2D
+λ
+θ
+(d) sin
+Dark
+= 2
+ D
+λ
+D
+θ
+Parallel rays of monochromatic light pass through the narrow slit as shown in
+Fig. 24–20a. The slit width D is on the order of the wavelength 
+of the light, but
+the slit’s length (into and out of page) may be large compared to 
+The light falls
+on a screen which is assumed to be very far away, so the rays heading toward any
+point are very nearly parallel before they meet at the screen. First we consider
+rays that pass straight through as in Fig. 24–20a. They are all in phase, so there
+will be a central bright spot on the screen (see Fig. 24–19c). In Fig. 24–20b, we
+consider rays moving at an angle such that the ray from the top of the slit travels
+exactly one wavelength farther than the ray from the bottom edge to reach the
+screen. The ray passing through the very center

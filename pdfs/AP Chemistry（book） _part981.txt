@@ -1,0 +1,40 @@
+have an ns2np1 outer configu-
+ration, with the value of n increasing as we move down each column.
+In Table 6.2 we saw that the total number of orbitals in each shell equals n2: 1, 4, 9, 
+or 16. Because we can place two electrons in each orbital, each shell accommodates up 
+TABLE 6.4 Electron 
+Configurations of Group 2A 
+and 3A Elements
+Group 2A
+Be
+3He42s2
+Mg
+3Ne43s2
+Ca
+3Ar44s2
+Sr
+3Kr45s2
+Ba
+3Xe46s2
+Ra
+3Rn47s2
+Group 3A
+B
+3He42s22p1
+Al
+3Ne43s23p1
+Ga
+3Ar43d104s24p1
+In
+3Kr44d105s25p1
+Tl
+3Xe44f 145d106s26p1
+242 
+CHAPTER 6 Electronic Structure of Atoms
+to 2n2 electrons: 2, 8, 18, or 32. We see that the overall structure of the periodic  
+table 
+ 
+reflects these electron numbers: Each row of the table has 2, 8, 18, or 32 elements in it. 
+As shown in Figure 6.30, the periodic table can be further divided into four blocks based 
+on the filling order of orbitals. On the left are two blue columns of elements. These ele-
+ments, known as the alkali metals (group 1A) and alkaline earth metals (group

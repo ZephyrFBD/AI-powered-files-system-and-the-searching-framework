@@ -1,0 +1,11 @@
+hromosome structure or in the makeup of the genome:
+1. Deletions occur when segments of a chromosome are lost. Most chromosome deletions result in a significant loss
+of important DNA and are fatal.
+2. Duplications occur when segments of a chromosome are repeated. If the duplication occurs within a gene
+segment, it is likely to cause a frameshift mutation with deleterious consequences. On the other hand, a duplicated
+gene can have beneficial effects by providing additional gene products for processes that are in high demand. For
+example, most species, including bacteria, have gene redundancy for the gene that codes for rRNA, a product in
+high demand. Also, extra copies of a gene provide the opportunity for subsequent mutations to create novel gene
+variations without interfering with the normal operation of the original gene. Some examples of this follow.
+Globin genes. The great similarities among the various globin chains of hemoglobin suggest that they each evolved
+from a common gene. 

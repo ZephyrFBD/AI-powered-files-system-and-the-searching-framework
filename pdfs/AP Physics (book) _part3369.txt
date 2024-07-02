@@ -1,0 +1,19 @@
+on is produced by an
+electron–atom interaction, and ray if the photon is produced in a nuclear process.
+Isomers; Internal Conversion
+In some cases, a nucleus may remain in an excited state for some time before it
+emits a 
+ray. The nucleus is then said to be in a metastable state and is called an
+isomer.
+An excited nucleus can sometimes return to the ground state by another
+process known as internal conversion with no 
+ray emitted. In this process, the
+excited nucleus interacts with one of the orbital electrons and ejects this electron
+from the atom with the same kinetic energy (minus the binding energy of the
+electron) that an emitted ray would have had.
+30–7 Conservation of Nucleon Number
+and Other Conservation Laws
+In all three types of radioactive decay, the classical conservation laws hold.
+Energy, linear momentum, angular momentum, and electric charge are all
+conserved. These quantities are the same before the decay as after. But a new
+conservation law is also revealed, the law of

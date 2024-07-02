@@ -1,0 +1,146 @@
+34290
+22 s
+109
+Meitnerium
+Mt
+278
+278.156310
+, fission
+8 s
+110
+Darmstadtium
+Ds
+281
+281.164510
+, fission
+20 s
+111
+Roentgenium
+Rg
+281
+281.166360
+, fission
+26 s
+112
+Copernicium
+Cn
+285
+285.177120
+30 s
+113†
+286
+286.18210
+fission
+20 s
+114
+Flerovium
+Fl
+289
+289.190420
+2.7 s
+115†
+289
+289.193630
+fission
+0.22 s
+116
+Livermorium
+Lv
+293
+293.204490
+53 ms
+117†
+294
+294.210460
+0.08 s
+118†
+294
+294.213920
+fission
+0.9 ms
+† Preliminary evidence (unconfirmed) has been reported for elements 113, 115, 117, and 118.
+a,
+a
+a
+a,
+a
+a,
+a
+a
+a
+a
+a
+a
+a,
+L
+a,
+a,
+a, g
+a, g
+a, EC, g
+a, g
+a, g
+* 107 yr
+a, g
+a, g
+* 107 yr
+a
+a, g
+b–, g
+* 106 yr
+a, g
+b–, g
+* 109 yr
+a, g
+* 107 yr
+a, g
+* 108 yr
+a, g
+* 105 yr
+a, g
+a, g
+276 * 104 yr
+a, g
+40 * 1010 yr
+a, g
+a, g
+b–, g, a
+a, g
+b–, g, a
+a, g
+APPENDIX B
+Selected Isotopes
+A-15
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+Atomic
+Mass
+% Abundance
+Number
+Number
+Atomic
+(or Radioactive
+Half-life
+Z
+Element
+Symbol
+A
+Mass
+Decay Mode)
+(if radioactive)
+A-16
+A
+P
+P
+E
+N
+D
+I
+X
+C
+Inertial and Noninertial Reference Fra

@@ -1,0 +1,21 @@
+ntrated the resulting solution. In 
+chemistry we often need to express the concentrations of solutions quantitatively.
+Molarity
+Molarity (symbol M) expresses the concentration of a solution as the number of moles 
+of solute in a liter of solution (soln):
+ 
+Molarity =
+moles solute
+volume of solution in liters 
+[4.31]
+A 1.00 molar solution (written 1.00 M) contains 1.00 mol of solute in every liter of 
+ 
+solution. Figure 4.15 shows the preparation of 0.250 L of a 1.00 M solution of CuSO4. The 
+molarity of the solution is 10.250 mol CuSO42>10.250 L soln) = 1.00 M. Note that we use 
+the abbreviation “soln” for “solution.”
+In this chapter, you have been introduced to a great number of chem-
+ical reactions. It’s not easy to get a “feel” for what happens when 
+chemicals react. One goal of this textbook is to help you become 
+more adept at predicting the outcomes of reactions. The key to gain-
+ing this “chemical intuition” is to learn how to categorize reactions.
+Attempting to memorize individ

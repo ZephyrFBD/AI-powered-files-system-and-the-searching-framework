@@ -1,0 +1,19 @@
+ies 
+of two bases to abstract protons. For example, consider the proton transfer that occurs 
+when an acid HA dissolves in water:
+ 
+HA1aq2 + H2O1l2 ∆ H3O+1aq2 + A-1aq2 
+[16.9]
+If H2O (the base in the forward reaction) is a stronger base than A-  (the conjugate base 
+of HA), it is favorable to transfer the proton from HA to H2O, producing H3O+ and A-. As 
+a result, the equilibrium lies to the right. This describes the behavior of a strong acid in 
+water. For example, when HCl dissolves in water, the solution consists almost entirely of 
+H3O+ and Cl -  ions with a negligible concentration of HCl molecules:
+ 
+HCl1g2 + H2O1l2 ¡  H3O+1aq2 + Cl -1aq2 
+[16.10]
+H2O is a stronger base than Cl -  (Figure 16.4), so H2O acquires the proton to become 
+the hydronium ion. Because the reaction lies completely to the right, we write Equa-
+tion 16.10 with only an arrow to the right rather than using the double arrows for an 
+equilibrium.
+When A-  is a stronger base than H2O, the equilibrium lies to the 

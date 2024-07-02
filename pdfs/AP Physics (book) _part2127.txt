@@ -1,0 +1,17 @@
+ature it is measuring. It is important
+to be able to make needed corrections, as we saw in Example 19–17.
+Other Meters
+The meters described above are for direct current. A dc meter can be modified 
+to measure ac (alternating current, Section 18–7) with the addition of diodes
+(Chapter 29), which allow current to flow in one direction only. An ac meter can
+be calibrated to read rms or peak values.
+Voltmeters and ammeters can have several series or shunt resistors to offer a
+choice of range. Multimeters can measure voltage, current, and resistance. Some-
+times a multimeter is called a VOM (Volt-Ohm-Meter or Volt-Ohm-Milliammeter).
+An ohmmeter measures resistance, and must contain a battery of known
+voltage connected in series to a resistor 
+and to an ammeter which contains a
+shunt 
+(Fig. 19–35). The resistor whose resistance is to be measured completes
+the circuit, and must not be connected in a circuit containing a voltage source.
+The needle deflection of the meter is inversely proportio

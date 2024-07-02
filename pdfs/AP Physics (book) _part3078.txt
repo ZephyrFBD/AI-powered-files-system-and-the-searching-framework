@@ -1,0 +1,21 @@
+ hf
+E = nhf.
+em
+(em)
+The principle of complementarity states that we must be
+aware of both the particle and wave properties of light and of
+matter for a complete understanding of them.
+Electron microscopes (EM) make use of the wave proper-
+ties of electrons to form an image: their “lenses” are magnetic.
+Various types of EM exist: some can magnify 100,000* (1000*
+better than a light microscope); others can give a 3-D image.
+Early models of the atom include Rutherford’s planetary
+(or nuclear) model of an atom which consists of a tiny but
+massive positively charged nucleus surrounded (at a relatively
+great distance) by electrons.
+To explain the line spectra emitted by atoms, as well as the
+stability of atoms, the Bohr model postulated that: (1) elec-
+trons bound in an atom can only occupy orbits for which the
+angular momentum is quantized, which results in discrete
+values for the radius and energy; (2) an electron in such a
+stationary state emits no radiation; (3) if an electron jumps t

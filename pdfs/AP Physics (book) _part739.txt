@@ -1,0 +1,64 @@
+3m
+xC = 6.0 m,
+xB = 5.0 m,
+xA = 1.0 m,
+EXAMPLE 7;12
+xcm = mAxA + mBxB + mC xC + p
+mA + mB + mC + p
+= mAxA + mB xB + mCxC + p
+M
+,
+xcm =
+mAxA + xBB
+2m
+=
+AxA + xBB
+2
+.
+xcm
+AmA = mB = mB,
+mB .
+mA
+M = mA + mB
+xcm = mAxA + mBxB
+mA + mB
+= mAxA + mB xB
+M
+,
+xcm ,
+xB,
+xA
+mB .
+mA
+y
+x
+mA
+xA
+xB
+xCM
+mB
+FIGURE 7;22 The center of mass 
+of a two-particle system lies on the 
+line joining the two masses. Here
+so the CM is closer to 
+than to mB.
+mA
+mA 7 mB,
+0
+5.0 m
+x = 0
+6.0 m
+1.0 m
+x
+5.0 m 6.0 m
+x
+y
+0
+1.0 m
+FIGURE 7;23 Example 7–12.
+A concept similar to center of mass is center of gravity (CG). An object’s CG is
+that point at which the force of gravity can be considered to act. The force of gravity
+actually acts on all the different parts or particles of an object, but for purposes of
+determining the translational motion of an object as a whole, we can assume that 
+the entire weight of the object (which is the sum of the weights of all its parts) acts 
+at the CG. There is a conceptual difference between 

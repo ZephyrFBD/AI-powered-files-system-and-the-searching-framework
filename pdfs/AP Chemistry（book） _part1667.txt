@@ -1,0 +1,23 @@
+2 °C and 743 torr.
+ 10.53 In the Dumas-bulb technique for determining the molar 
+mass of an unknown liquid, you vaporize the sample of a 
+liquid that boils below 100 °C in a boiling-water bath and 
+determine the mass of vapor required to fill the bulb. From 
+the following data, calculate the molar mass of the unknown 
+liquid: mass of unknown vapor, 1.012 g; volume of bulb, 
+354 cm3; pressure, 742 torr; temperature, 99 °C.
+Boiling water
+Dumas bulb
+filled with
+vaporized
+unknown
+substance
+ 10.54  The molar mass of a volatile substance was determined by 
+the Dumas-bulb method described in Exercise 10.53. The un-
+known vapor had a mass of 0.846 g; the volume of the bulb 
+was 354 cm3, pressure 752 torr, and temperature 100 °C. Cal-
+culate the molar mass of the unknown vapor.
+ 10.55 Magnesium can be used as a “getter” in evacuated enclosures 
+to react with the last traces of oxygen. (The magnesium is 
+usually heated by passing an electric current through a wire 
+or ribbon of the metal.) If an

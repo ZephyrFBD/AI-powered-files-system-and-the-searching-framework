@@ -1,0 +1,23 @@
+
+Kilometer
+km
+1000
+Radio
+ 
+▶Practice Exercise 1
+A source of electromagnetic radiation produces infrared light. 
+Which of the following could be the wavelength of the light? 
+(a) 3.0 nm (b) 4.7 cm (c) 66.8 m (d) 34.5 mm (e) 16.5 Å
+ 
+216 
+CHAPTER 6 Electronic Structure of Atoms
+6.2 ∣ Quantized Energy and Photons
+Although the wave model of light explains many aspects of the behavior of light, several 
+observations cannot be resolved by this model. Three of these are particularly pertinent 
+to our understanding of how electromagnetic radiation and atoms interact: (1) the emis-
+sion of light from hot objects (referred to as blackbody radiation because the objects stud-
+ied appear black before heating), (2) the emission of electrons from metal surfaces on 
+which light shines (the photoelectric effect), and (3) the emission of light from electroni-
+cally excited gas atoms (emission spectra). We examine the first two phenomena here and 
+the third in Section 6.3.
+Hot Objects and the Quantizatio

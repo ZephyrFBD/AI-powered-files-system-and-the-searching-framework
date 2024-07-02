@@ -1,0 +1,35 @@
+never
+gets hot). Why will it heat a metal pan, usually iron, but not a glass container?
+RESPONSE The ac current sets up a changing magnetic field that passes through
+the pan bottom. This changing magnetic field induces a current in the pan, and
+since the pan offers resistance, electric energy is transformed to thermal energy which
+heats the pan and its contents. If the pan is iron, magnetic hysteresis due to the
+changing current produces additional heating. A glass container offers such high
+resistance that little current is induced and little energy is transferred AP = V2RB.
+CONCEPTUAL EXAMPLE 21;2
+(c)
+ S
+S magnetic pole
+moving from below,
+up toward the loop 
+(d)
+S N
+N magnetic pole
+moving toward loop
+in the plane
+of the loop
+(a)
+Pulling a round loop to
+the right out of a magnetic
+field which points out
+of the page
+(b)
+Shrinking a loop
+in a magnetic
+field pointing
+into the page
+(e)
+Rotating the loop by pulling
+the left side toward
+us and pushing the right
+side in; the magnetic field

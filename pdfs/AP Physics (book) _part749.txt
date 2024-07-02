@@ -1,0 +1,29 @@
+land? Assume g
+B = constant.
+CONCEPTUAL EXAMPLE 7;14
+Summary
+189
+P H Y S I C S  A P P L I E D
+Distant planets discovered
+The linear momentum,
+of an object is defined as the product
+of its mass times its velocity,
+(7;1)
+In terms of momentum, Newton’s second law can be written
+as
+(7;2)
+That is, the rate of change of momentum of an object equals
+the net force exerted on it.
+When the net external force on a system of objects is 
+zero, the total momentum remains constant. This is the law of
+conservation of momentum. Stated another way, the total
+momentum of an isolated system of objects remains constant.
+The law of conservation of momentum is very useful in
+dealing with collisions. In a collision, two (or more) objects
+interact with each other over a very short time interval, and the
+force each exerts on the other during this time interval is very
+large compared to any other forces acting.
+The impulse delivered by a force on an object is defined as 
+(7;5)
+where 
+is the average force acting 

@@ -1,0 +1,36 @@
+n the left is “heat
+lost” and 
+is the initial minus the final temperature 
+whereas on
+the right is “heat gained” and 
+is the final minus the initial temperature.
+¢T
+(95°C - T),
+¢T
+Q = mc ¢T
+¢T
+86°C - 25°C = 61 C°.
+T = 86°C.
+ 
+79,500 J - (837 JC°)T = (126 JC°)T - 3150 J
+(0.20 kg)(4186 JkgC°)(95°C - T) = (0.15 kg)(840 JkgC°)(T - 25°C)
+ccup = 840 JkgC°
+mteactea(95°C - T) = mcupccup(T - 25°C).
+ 
+heat lost by tea = heat gained by cup
+0.20 kg.
+m = rV = A1.0 * 103 kgm3BA200 * 10–6 m3B =
+AV = 200 cm3 = 200 * 10–6 m3B:
+4186 JkgC°
+200 cm3
+EXAMPLE 14;4
+Another, perhaps more general, way to set up the energy conservation equa-
+tion for heat transfer within an isolated system is to write that the sum of all
+internal heat transfers within the system adds up to zero:
+[isolated system] (14;3)
+Each Q represents the heat entering or leaving one part of the system. Each term
+is written as 
+and 
+is always the final minus the 
+initial temperature.
+can be either positive or negative, depending on

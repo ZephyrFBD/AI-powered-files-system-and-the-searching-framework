@@ -1,0 +1,12 @@
+fic transcription factors attach to enhancers,
+DNA binding sites that can be thousands of nucleotides upstream or downstream to the gene. There may be one or
+more enhancers that are unique to a particular gene, and each of those enhancers may be specific to a different
+timing of transcription or to a specific cell type. Because an enhancer may be quite a distance away from the gene it
+influences, the DNA segment containing the enhancer (and bearing its specific transcription factor) folds such that it
+can join the general transcription factors and RNA polymerase on the promoter.
+Coactivators and mediators are additional proteins that contribute to the binding of transcription complex
+components.
+5. RNA processing, as discussed earlier in this chapter, can produce different mRNAs by slicing the primary RNA
+transcript in different ways. This allows a single gene to encode proteins that are specific to the cell type or to its
+developmental stage.
+6. RNA interference (RNAi) refers to gene 

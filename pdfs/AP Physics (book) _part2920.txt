@@ -1,0 +1,27 @@
+eing sent and being received). This time interval,
+is called the
+proper time. Then 
+in Eqs. 26–1 represents the time interval between the two
+events as measured in a reference frame moving with speed v with respect to the
+first. In Example 26–1 above,
+(and not 
+) was set equal to 
+because it is only in the rest frame of the muon that the two events (“birth” and
+“decay”) occur at the same point in space. The proper time 
+is the shortest time
+between the events any observer can measure. In any other moving reference
+frame, the time 
+is greater.
+Time dilation at 100 km/h. Let us check time dilation for
+everyday speeds. A car traveling 
+covers a certain distance in 10.00 s
+according to the driver’s watch. What does an observer at rest on Earth measure
+for the time interval?
+APPROACH The car’s speed relative to Earth, written in meters per second,
+is
+The driver is at rest in the
+reference frame of the car, so we set 
+in the time dilation 
+formula.
+SOLUTION We use Eq. 26–1a:
+If you put these

@@ -1,0 +1,15 @@
+passed through a crystal. The diffraction pattern that 
+results is recorded. For many years the diffracted X rays were detected 
+by photographic ﬁlm. Today, crystallographers use an array detector, a 
+device analogous to that used in digital cameras, to capture and mea-
+sure the intensities of the diffracted rays.
+The pattern of spots on the detector in Figure 12.9 depends on the 
+particular arrangement of atoms in the crystal. The spacing and symme-
+try of the bright spots, where constructive interference occurs, provide 
+information about the size and shape of the unit cell. The intensities 
+of the spots provide information that can be used to determine the 
+locations of the atoms within the unit cell. When combined, these two 
+pieces of information give the atomic structure that deﬁnes the crystal.
+X-ray crystallography is used extensively to determine the struc-
+tures of molecules in crystals. The instruments used to measure X-ray 
+diffraction, known as X-ray diffractometers, are n

@@ -1,0 +1,51 @@
+central car-
+bon). For historical reasons, the two enantiomeric forms of amino acids are often dis-
+tinguished by the labels d (from the Latin dexter, “right”) and l (from the Latin laevus, 
+“left”). Nearly all the chiral amino acids found in living organisms have the l configu-
+ration at the chiral center. The principal exceptions are the proteins that make up the 
+cell walls of bacteria, which can contain considerable quantities of the d isomers.
+Polypeptides and Proteins
+Amino acids are linked together into proteins by amide groups (Table 24.6):
+ 
+O
+R
+R
+H
+C
+N
+ 
+[24.23]
+Each amide group is called a peptide bond when it is formed by amino acids. A pep-
+tide bond is formed by a condensation reaction between the carboxyl group of one 
+amino acid and the amino group of another amino acid. Alanine and glycine, for exam-
+ple, form the dipeptide glycylalanine:
+O
+C
+C
+H
+H
+CH3
+C
+H
+O
+C
+C
+H
+H
+CH3
+C
+H
+Glycine (Gly; G)
+Alanine (Ala; A)
+Glycylalanine (Gly–Ala; GA)
+H3N
+H3N
+O−
+O−
++
+O
+C
+H
+H
+H     N
+H2

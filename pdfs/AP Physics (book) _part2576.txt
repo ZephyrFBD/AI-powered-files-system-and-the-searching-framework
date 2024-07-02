@@ -1,0 +1,37 @@
+tion
+equation (Eq. 23–9). The thin lens equation involves
+reciprocals—don’t forget to take the reciprocal.
+3. Follow the sign conventions listed just above.
+4. Check that your analytic answers are consistent with
+your ray diagram.
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Thin Lenses
+1. Draw a ray diagram, as precise as possible, but even
+a rough one can serve as confirmation of analytic
+results. Choose one point on the object and draw at
+least two, or preferably three, of the easy-to-draw
+rays described in Figs. 23–37 and 23–39. The image
+point is where the rays intersect.
+SECTION 23–8
+The Thin Lens Equation
+667
+Object close to converging lens. An object is placed
+10 cm from a 15-cm-focal-length converging lens. Determine the image position
+and size (a) analytically, and (b) using a ray diagram.
+APPROACH The object is within the focal point—closer to the lens than the
+focal point F as 
+We first use Eqs. 23–8 and 23–9 to obtain an analytic
+solution, and then confirm with a ray diagram using the spec

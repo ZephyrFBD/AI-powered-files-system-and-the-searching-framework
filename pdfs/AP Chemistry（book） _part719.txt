@@ -1,0 +1,23 @@
+ 
+ value of ∆H.  
+(a) endothermic, positive (b) endothermic, negative 
+(c) exothermic, positive  (d) exothermic, negative
+ 
+▶Practice Exercise 2
+Molten gold poured into a mold solidifies at atmospheric pres-
+sure. With the gold defined as the system, is the solidification an 
+exothermic or endothermic process?
+SOLUTION
+Analyze Our goal is to determine whether ∆H is positive or nega-
+tive for each process. Because each process occurs at constant pres-
+sure, the enthalpy change equals the quantity of heat  
+absorbed or 
+released, ∆H = qP. 
+Plan We must predict whether heat is absorbed or released by the 
+system in each process. Processes in which heat is absorbed are en-
+dothermic and have a positive sign for ∆H; those in which heat is 
+released are exothermic and have a negative sign for ∆H.
+Solve In (a) the water that makes up the ice cube is the system. 
+The ice cube absorbs heat from the surroundings as it melts, so 
+∆H is positive and the process is endothermic. In (b) the system 
+i

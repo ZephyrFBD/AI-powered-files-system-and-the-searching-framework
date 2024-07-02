@@ -1,0 +1,34 @@
+e at -30 °C.
+ 11.86  The following data present the temperatures at which cer-
+tain vapor pressures are achieved for dichloromethane 
+1CH2Cl22 and methyl iodide 1CH3I2:
+Vapor Pressure 
+(torr)
+10.0
+40.0
+100.0
+400.0
+T for CH2Cl2 1°C2
+-43.3
+-22.3
+-6.3
+24.1
+T for CH3I 1°C2
+-45.8
+-24.2
+-7.0
+25.3
+ 
+ (a) Which of the two substances is expected to have the 
+greater dipole–dipole forces? Which is expected to have the 
+greater dispersion forces? Based on your answers, explain 
+why it is difficult to predict which compound would be 
+more volatile. (b) Which compound would you expect 
+to have the higher boiling point? Check your answer in a 
+reference book such as the CRC Handbook of Chemistry and 
+Physics. (c) The order of volatility of these two substances 
+changes as the temperature is increased. What quantity 
+must be different for the two substances for this phenom-
+enon to occur? (d) Substantiate your answer for part (c) by 
+drawing an appropriate graph.
+ 11.87  Naphthalene 1C10H82 is the ma

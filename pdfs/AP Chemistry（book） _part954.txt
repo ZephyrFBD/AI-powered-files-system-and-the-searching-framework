@@ -1,0 +1,13 @@
+r lobes, 
+and each lies primarily in a plane. The dxy, dxz, and dyz orbitals lie in the xy, xz, and yz 
+planes, respectively, with the lobes oriented between the axes. The lobes of the dx2 - y2 
+orbital also lie in the xy plane, but the lobes lie along the x and y axes. The dz2 orbital looks 
+very different from the other four: It has two lobes along the z axis and a “doughnut” in 
+the xy plane. Even though the dz2 orbital looks different from the other d orbitals, it has 
+the same energy as the other four d orbitals. The representations in Figure 6.24 are com-
+monly used for all d orbitals, regardless of the principal quantum number.
+When n is 4 or greater, there are seven equivalent f orbitals 1for which l = 32. The 
+shapes of the f orbitals are even more complicated than those of the d orbitals and are not 
+presented here. As you will see in the next section, however, you must be aware of f  
+orbitals 
+as we consider the electronic structure of atoms in the lower part of the periodi

@@ -1,0 +1,11 @@
+ viruses.
+Bacteriophages
+Figure 21.9 This transmission electron micrograph shows bacteriophages attached to a bacterial cell. (credit:
+modification of work by Dr. Graham Beards; scale-bar data from Matt Russell)
+Bacteriophages are viruses that infect bacteria (Figure 21.9). When infection of a cell by a bacteriophage results in the
+production of new virions, the infection is said to be productive. If the virions are released by bursting the cell, the virus
+replicates by means of a lytic cycle (Figure 21.10). An example of a lytic bacteriophage is T4, which infects Escherichia
+coli found in the human intestinal tract. Sometimes, however, a virus can remain within the cell without being released. For
+example, when a temperate bacteriophage infects a bacterial cell, it replicates by means of a lysogenic cycle (Figure 21.10),
+and the viral genome is incorporated into the genome of the host cell. When the phage DNA is incorporated into the host
+cell genome, it is called a prophage. An examp

@@ -1,0 +1,13 @@
+tical fluid expands to 
+fill its container (like a gas), but the molecules are still quite closely spaced (like a liquid).
+Like liquids, supercritical fluids can behave as solvents dissolving a wide range of 
+substances. Using supercritical fluid extraction, the components of mixtures can be sepa-
+rated from one another. Supercritical fluid extraction has been successfully used to sep-
+arate complex mixtures in the chemical, food, pharmaceutical, and energy industries. 
+Supercritical CO2 is a popular choice because it is relatively inexpensive and, if used in 
+closed-loop systems, may be a way to reduce CO2 emissions into the atmosphere.
+11.5 ∣ Vapor Pressure
+Molecules can escape from the surface of a liquid into the gas phase by evaporation. Sup-
+pose we place a quantity of ethanol 1CH3CH2OH2 in an evacuated, closed container, as 
+in Figure 11.23. The ethanol quickly begins to evaporate. As a result, the pressure exerted 
+TABLE 11.5 Critical Temperatures and Pressures of Selected Subs

@@ -1,0 +1,31 @@
+1
+2 ;
+3 1
+2 + 6 1
+2 = 10;
+1. Why must a camera lens be moved farther from the sensor
+or film to focus on a closer object?
+2. Why is the depth of field greater, and the image sharper,
+when a camera lens is “stopped down” to a larger f-number?
+Ignore diffraction.
+3. Describe how diffraction affects the statement of Question 2.
+[Hint: See Eq. 24–3 or 25–7.]
+4. Why are bifocals needed mainly by older persons and not
+generally by younger people?
+5. Will a nearsighted person who wears corrective lenses in
+her glasses be able to see clearly underwater when wearing
+those glasses? Use a diagram to show why or why not.
+6. You can tell whether people are nearsighted or farsighted
+by looking at the width of
+their face through their
+glasses. If a person’s face
+appears narrower through
+the glasses (Fig. 25–47),
+is the person farsighted
+or nearsighted? Try to
+explain, but also check
+experimentally 
+with
+friends who wear glasses.
+7. In attempting to discern distant details, people will some-
+times squ

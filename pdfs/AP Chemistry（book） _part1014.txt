@@ -1,0 +1,28 @@
+ber, ml, 
+were to change? (i) It would be 
+drawn larger, (ii) the number of lobes would change, (iii) the 
+lobes of the orbital would point in a different direction, (iv) 
+there would be no change in the sketch. [Section 6.6]
+ 6.10  The 
+accompanying 
+drawing 
+shows a contour plot for a dyz 
+orbital. Consider the quantum 
+numbers that could potentially 
+correspond to this orbital. (a) 
+What is the smallest possible 
+value of the principal quantum 
+number, n? (b) What is the val-
+ue of the angular momentum 
+quantum number, l? (c) What is 
+the largest possible value of the 
+magnetic quantum number, ml? 
+ 
+(d) The probability density goes to zero along which of the 
+following planes: xy, xz, or yz?
+ 6.11  Four possible electron conﬁgurations for a nitrogen atom are 
+shown below, but only one schematic represents the cor-
+rect conﬁguration for a nitrogen atom in its ground state. 
+Which one is the correct electron conﬁguration? Which 
+conﬁgurations violate the Pauli exclusion principle? 
+W

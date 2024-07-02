@@ -1,0 +1,19 @@
+e number of pianos in San Francisco, we note that certainly not
+everyone has a piano. A guess of 1 family in 3 having a piano would corre-
+spond to 1 piano per 12 persons, assuming an average family of 4 persons.
+SECTION 1–7
+Order of Magnitude: Rapid Estimating
+15
+†A check of the San Francisco Yellow Pages (done after this calculation) reveals about 60 listings.
+Each of these listings may employ more than one tuner, but on the other hand, each may also do
+repairs as well as tuning. In any case, our estimate is reasonable.
+P R O B L E M  S O L V I N G
+Estimating how many piano tuners
+there are in a city
+As an order of magnitude, let’s say 1 piano per 10 people. This is certainly 
+more reasonable than 1 per 100 people, or 1 per every person, so let’s 
+proceed with the estimate that 1 person in 10 has a piano,
+or about 
+80,000 pianos in San Francisco. Now a piano tuner needs an hour or two to 
+tune a piano. So let’s estimate that a tuner can tune 4 or 5 pianos a day. A piano
+ought to be t

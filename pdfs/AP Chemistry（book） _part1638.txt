@@ -1,0 +1,28 @@
+to determine the molecular formula of a gas from 
+elemental analysis data and data on its properties. Then we need 
+to predict the structure of the molecule and from that, its polarity.
+ 
+Plan We can use the percentage composition of the com-
+pound to calculate its empirical formula. 
+  (Section 3.5) 
+Then we can determine the molecular formula by compar-
+ing the mass of the empirical formula with the molar mass. 
+  (Section 3.5)
+Solve To determine the empirical formula, we assume we have a 
+100-g sample and calculate the number of moles of each element 
+in the sample:
+ Moles C = 146.2 g C2a 1 mol C
+12.01 g C b = 3.85 mol C
+  Moles N = 153.8 g N2a 1 mol N
+14.01 g N b = 3.84 mol N
+Because the ratio of the moles of the two elements is essentially 
+1:1, the empirical formula is CN. To determine the molar mass, we 
+use Equation 10.11.
+   ℳ= dRT
+P  =
+11.05 g>0.500 L210.08206 L@atm>mol@K21298 K2
+1751>760 ) atm
+ 
+  = 52.0 g>mol
+The molar mass associated with the empirical formula CN is 
+12.0 

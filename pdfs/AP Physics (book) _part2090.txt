@@ -1,0 +1,26 @@
+ach of the capacitors. That is, since the left-
+hand plates of all the capacitors are connected by conductors, they all reach the
+same potential 
+when connected to the battery; and the right-hand plates each
+reach potential 
+Each capacitor plate acquires a charge given by 
+and
+The total charge Q that must leave the battery is then
+Let us try to find a single equivalent capacitor that will hold the same charge Q at
+the same voltage
+It will have a capacitance 
+given by
+Combining the two previous equations, we have
+or
+[parallel] (19;5)
+The net effect of connecting capacitors in parallel is thus to increase the capaci-
+tance. Connecting capacitors in parallel is essentially increasing the area of the
+plates where charge can accumulate (see, for example, Eq. 17–8).
+Capacitors can also be connected in series: that is, end to end as shown in
+Fig. 19–18. A charge 
+flows from the battery to one plate of 
+and 
+flows
+to one plate of 
+The regions A and B between the capacitors were originally
+neut

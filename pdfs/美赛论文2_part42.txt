@@ -1,0 +1,90 @@
+.008544 
+0.008492 
+0.008436 
+0.008375 
+0.00831 
+0.00824 
+0.008167 
+0.008089 
+0.008007 
+drugs 
+52318.86 
+52032.36 
+51717.14 
+51373.88 
+51003.25 
+50605.98 
+50182.72 
+49734.32 
+49261.62 
+48765.51 
+vaccine 
+2447.386 
+2410.728 
+2373.223 
+2334.924 
+2295.874 
+2256.157 
+2215.903 
+2175.167 
+2133.998 
+2092.445 
+ 
+Table 4 
+This is a table of the vaccine distribution proportion (for the first week): 
+Sierra Leone 
+City name 
+WESTERN 
+RURAL 
+TONKOLILI 
+PUJEHUN 
+PORT LOKO 
+MOYAMBA 
+KONO 
+KOINADUGU 
+Code 
+A1 
+A2 
+A3 
+A4 
+A5 
+A6 
+A7 
+proportion 
+1130P1 
+449P2 
+25P3 
+1366P4 
+268P5 
+336P6 
+147P7 
+City name 
+BO 
+BOMBALI 
+BONTHE 
+FREETOWN 
+KAILAHHUN 
+KAMBIA 
+KENEMA 
+Code 
+A8 
+A9 
+A10 
+A11 
+A12 
+A13 
+A14 
+proportion 
+327P1 
+971P9 
+P10 
+1903P11 
+650P12 
+156P13 
+530P14 
+ 
+3.5.3.5 Strength and Weakness 
+ Strength: In the general direction the model has predicted the total 
+country demand for drugs and the vaccine and made a proportion 
+estimation of the demand of each city in the next weeks. The model 
+combi

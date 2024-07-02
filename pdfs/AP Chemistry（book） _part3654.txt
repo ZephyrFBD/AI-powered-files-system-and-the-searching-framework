@@ -1,0 +1,22 @@
+oms or ions are randomly oriented 
+and constantly changing direction, as shown in Figure 23.6(a). 
+When a paramagnetic substance is placed in a magnetic field, 
+however, the magnetic moments tend to align parallel to one 
+another, producing a net attractive interaction with the magnet. 
+Thus, unlike a diamagnetic substance, which is weakly repulsed 
+by a magnetic field, a paramagnetic substance is attracted to a 
+magnetic field.
+When you think of a magnet, you probably picture a simple 
+iron magnet. Iron exhibits ferromagnetism, a form of magne-
+tism much stronger than paramagnetism. Ferromagnetism arises 
+when the unpaired electrons of the atoms or ions in a solid are 
+influenced by the orientations of the electrons in neighboring 
+Go Figure
+Describe how the representation shown for the paramagnetic 
+material would change if the material were placed in a 
+magnetic field.
+Antiferromagnetic; spins 
+align in opposite directions 
+and cancel each other
+Ferrimagnetic; unequal spins align 
+i

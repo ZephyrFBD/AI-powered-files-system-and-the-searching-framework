@@ -1,0 +1,20 @@
+. The low-spin 3Co(CN)643- ion has a 
+strong-field ligand and so a large ∆ value. 
+Because 3CoF643- has unpaired electrons 
+it is paramagnetic, while 3Co(CN)643- is 
+diamagnetic.
+ 
+SECTION 23.6  Crystal-Field Theory 
+1015
+1016 
+CHAPTER 23 Transition Metals and Coordination Chemistry
+Figure 23.32 shows that the crystal-field splitting energy ∆ is much larger in the 
+3Co(CN)643 -  complex. In this case, the spin-pairing energy is smaller than ∆, so the 
+ 
+lowest-energy arrangement is to place all six electrons in the t2 orbitals.
+The 3CoF643 -  complex is a high-spin complex; that is, the electrons are arranged 
+so that they remain unpaired as much as possible. The 3Co(CN)643 -  ion is a low-spin 
+complex; that is, the electrons are arranged so that they remain paired as much as pos-
+sible while still following Hund’s rule. These two electronic arrangements can be readily 
+distinguished by measuring the magnetic properties of the complex. Experiments show 
+that 3CoF643 - has four unpaire

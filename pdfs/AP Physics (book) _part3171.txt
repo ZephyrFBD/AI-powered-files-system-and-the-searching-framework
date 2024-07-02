@@ -1,0 +1,28 @@
+y X-rays are generally for the 
+line (see
+Fig. 28–11) which occurs when high-energy electrons knock out K shell elec-
+trons (the innermost orbit,
+) and their place is taken by electrons from
+the L shell 
+We use the Bohr model, and assume the electrons of the
+unknown atoms (Z) “see” a nuclear charge of
+(screened by one electron).
+SOLUTION
+The hydrogen transition 
+to 
+would yield
+(see Fig. 27–29 or Example 27–13). Energy
+of our unknown 
+is proportional to 
+(Eq. 27–15), or rather 
+because the nucleus is shielded by the one electron in a 1s state (see above), so
+we can use ratios:
+so
+and
+which makes it lead.
+Now we briefly analyze the continuous part of an X-ray spectrum
+(Fig. 28–11) based on the photon theory of light. When electrons strike the
+target, they collide with atoms of the material and give up most of their energy as
+heat (about 99%, so X-ray tubes must be cooled). Electrons can also give up
+energy by emitting a photon of light: an electron decelerated by interaction with
+atoms 

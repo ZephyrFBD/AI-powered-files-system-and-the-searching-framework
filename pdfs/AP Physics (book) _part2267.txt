@@ -1,0 +1,22 @@
+asured across the slab’s width.
+The probe is then placed in a magnetic field of unknown
+magnitude B, and a Hall emf of 63 mV is measured.
+Determine B assuming that the angle 
+between the
+unknown field and the plane of the slab’s rectangular face
+is (a) 
+and (b)
+*23. (III) The Hall effect can be used to measure blood flow rate
+because the blood contains ions that constitute an electric
+current. (a) Does the sign of the ions influence the emf?
+Explain. (b) Determine the flow velocity in an artery 3.3 mm
+in diameter if the measured emf across the width of the
+artery is 0.13 mV and B is 0.070 T. (In actual practice, an
+alternating magnetic field is used.)
+*24. (III) A long copper strip 1.8 cm wide and 1.0 mm thick is
+placed in a 1.2-T magnetic field as in Fig. 20–21a. When a
+steady current of 15 A passes through it, the Hall emf is
+measured to be 
+Determine (a) the drift velocity of
+the electrons and (b) the density of free (conducting) elec-
+trons (number per unit volume) in the copper. [

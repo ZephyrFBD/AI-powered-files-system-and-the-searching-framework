@@ -1,0 +1,18 @@
+tiveness
+(RBE) of a given type of radiation is defined as the number of rads of X-ray or 
+radiation that produces the same biological damage as 1 rad of the given
+radiation. For example, 1 rad of slow neutrons does the same damage as 5 rads of
+X-rays. Table 31–1 gives the RBE for several types of radiation. The numbers are
+approximate because they depend somewhat on the energy of the particles and
+on the type of damage that is used as the criterion.
+The effective dose can be given as the product of the dose in rads and the
+RBE, and this unit is known as the rem (which stands for rad equivalent man):
+(31;10a)
+This unit is being replaced by the SI unit for “effective dose,” the sievert (Sv):
+(31;10b)
+so
+or
+By these definitions, 1 rem (or 1 Sv) of any type of radiation does approximately
+the same amount of biological damage. For example, 50 rem of fast neutrons does
+the same damage as 50 rem of rays. But note that 50 rem of fast neutrons is only
+5 rads, whereas 50 rem of rays is 50 rads.

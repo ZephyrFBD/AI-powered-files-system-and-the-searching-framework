@@ -1,0 +1,35 @@
+cars become attached, so they will have
+the same speed, call it 
+Then the total momentum after the collision is
+We have assumed there are no external forces, so momentum is conserved:
+Solving for 
+we obtain
+to the right. Their mutual speed after collision is half the initial speed of car A.
+NOTE We kept symbols until the very end, so we have an equation we can use
+in other (related) situations.
+NOTE We haven’t included friction here. Why? Because we are examining
+speeds just before and just after the very brief time interval of the collision, and
+during that brief time friction can’t do much—it is ignorable (but not for long:
+the cars will slow down because of friction).
+v¿ =
+mA
+mA + mB
+vA =
+a
+10,000 kg
+10,000 kg + 10,000 kg b (24.0 ms) = 12.0 ms,
+v¿,
+mAvA = AmA + mBB v¿.
+pinitial = pfinal
+pfinal = AmA + mBB v¿.
+v¿.
+±x
+AvB = 0B.
+pinitial = mAvA + mBvB = mAvA
+SECTION 7–2
+Conservation of Momentum
+175
+EXERCISE C In Example 7–3,
+so in the last equation,
+Hence  
+What result do you get if 

@@ -1,0 +1,15 @@
+n this curve where the vapor pressure 
+is 1 atm is the normal boiling point of the substance. The vapor-pressure curve ends 
+at the critical point (C), which corresponds to the critical temperature and critical 
+pressure of the substance. At temperatures and pressures beyond the critical point, 
+the liquid and gas phases are indistinguishable from each other, and the substance 
+is a supercritical fluid.
+2. The green curve, the sublimation curve, separates the solid phase from the gas phase 
+and represents the change in the vapor pressure of the solid as it sublimes at dif-
+ferent temperatures. Each point on this curve represents a condition of equilibrium 
+between the solid and the gas.
+3.  
+The blue curve, the melting curve, separates the solid phase from the liquid phase 
+and represents the change in melting point of the solid with increasing pressure. 
+Each point on this curve represents an equilibrium between the solid and the liq-
+uid. This curve usually slopes slightly to the rig

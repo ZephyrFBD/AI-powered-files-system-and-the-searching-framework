@@ -1,0 +1,28 @@
+e close to
+the 3.0-m wavelength of this station. FM antennas are typically 1.5 m long, or about
+a half wavelength. This length is chosen so that the antenna reacts in a resonant
+fashion and thus is more sensitive to FM frequencies. AM radio antennas would
+have to be very long and impractical to be either
+or 1
+4 l.
+1
+2 l
+l =
+c
+f =
+A3.0 * 108 msB
+A1.0 * 108 s–1B
+= 3.0 m.
+f = 100.1 MHz L 1.0 * 108 s–1,
+l = cf.
+c = 3.0 * 108 ms.
+EXAMPLE 22;7
+Other EM Wave Communications
+The various regions of the radio-wave spectrum are assigned by governmental 
+agencies for various purposes. Besides those mentioned above, there are “bands”
+assigned for use by ships, airplanes, police, military, amateurs, satellites and space,
+and radar. Cell phones, for example, are complete radio transmitters and receivers.
+In the U.S., CDMA cell phones function on two different bands: 800 MHz and 
+1900 MHz 
+Europe, Asia, and much of the rest of the world use a dif-
+ferent system: the international standard called GSM

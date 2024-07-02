@@ -1,0 +1,23 @@
+eters is only from 2.4 fm to 15 fm.
+NOTE Because nuclear radii vary as 
+the largest nuclei (such as uranium
+with 
+) have a radius only about
+times that of the smallest,
+hydrogen
+Nuclear and atomic densities. Compare the
+density of nuclear matter to the density of normal solids.
+APPROACH The density of normal liquids and solids is on the order of 
+to
+(see Table 10–1), and because the atoms are close packed, atoms have
+about this density too. We therefore compare the density (mass per volume) of
+a nucleus to that of its atom as a whole.
+SOLUTION The mass of a proton is greater than the mass of an electron by a factor
+Thus, over 99.9% of the mass of an atom is in the nucleus, and for our estimate we
+can say the mass of the atom equals the mass of the nucleus,
+Atoms have a radius of about 
+(Chapter 27) and nuclei on the order of
+(Eq. 30–1). Thus the ratio of nuclear density to atomic density is about
+The nucleus is 
+times more dense than ordinary matter.
+The masses of nuclei can be determi

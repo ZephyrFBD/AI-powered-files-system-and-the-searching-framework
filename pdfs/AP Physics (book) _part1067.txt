@@ -1,0 +1,23 @@
+the force exerted on the fluid is opposite to
+the displacement. Work is also done on the fluid by the force of gravity. The net
+effect of the process shown in Fig. 10–22 is to move a mass m of volume 
+(
+since the fluid is incompressible) from point 1 to point 2, so the work
+done by gravity is
+where 
+and 
+are heights of the center of the tube above some (arbitrary) refer-
+ence level. In the case shown in Fig. 10–22, this term is negative since the motion
+is uphill against the force of gravity. The net work W done on the fluid is thus
+According to the work-energy principle (Section 6–3), the net work done on a
+system is equal to its change in kinetic energy. Hence
+The mass m has volume 
+for an incompressible fluid. Thus we can
+substitute
+and then divide through by 
+to obtain
+which we rearrange to get
+(10;5)
+This is Bernoulli’s equation. Since points 1 and 2 can be any two points along a
+tube of flow, Bernoulli’s equation can be written as
+at every point in the fluid, where y is the heigh

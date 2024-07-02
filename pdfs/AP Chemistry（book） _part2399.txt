@@ -1,0 +1,17 @@
+previously: How do we express the concentration of a solid? If 
+we were to carry out experiments starting with varying amounts of products and reac-
+tants, we would find that the equilibrium-constant expression for the reaction of Equa-
+tion 15.19 is
+ 
+Kc = 3Pb2+43Cl-42 
+[15.20]
+Thus, our problem of how to express the concentration of a solid is not relevant in 
+the end because PbCl21s2 does not show up in the equilibrium-constant expression. 
+More generally, we can state that whenever a pure solid or a pure liquid is involved in 
+a heterogeneous equilibrium, its concentration is not included in the equilibrium-constant 
+expression.
+The fact that pure solids and pure liquids are excluded from equilibrium-constant 
+expressions can be explained in two ways. First, the concentration of a pure solid or liq-
+uid has a constant value. If the mass of a solid is doubled, its volume also doubles. Thus, 
+its concentration, which relates to the ratio of mass to volume, stays the same. Because 
+eq

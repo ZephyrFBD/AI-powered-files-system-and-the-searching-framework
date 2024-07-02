@@ -1,0 +1,34 @@
+g NaN3.
+ 
+▶Practice Exercise 1
+Silver oxide decomposes when heated:
+2 Ag2O1s2 ¡
+∆
+4 Ag1s2 + O21g2
+If 5.76 g of Ag2O is heated and the O2 gas produced by the re-
+action is collected in an evacuated flask, what is the pressure 
+of the O2 gas if the volume of the flask is 0.65 L and the gas  
+temperature is 25 °C?  
+(a) 0.94 atm (b) 0.039 atm (c) 0.012 atm  
+(d) 0.47 atm (e) 3.2 atm
+The number of moles of N2 is determined using 
+the ideal-gas equation:
+n = PV
+RT =
+11.15 atm2136 L2
+10.08206 L@atm>mol@K21299 K2
+= 1.7 mol N2
+ 
+▶Practice Exercise 2
+In the first step of the industrial process for making nitric 
+acid, ammonia reacts with oxygen in the presence of a  
+suitable catalyst to form nitric oxide and water vapor:
+4 NH31g2 + 5 O21g2 ¡ 4 NO1g2 + 6 H2O1g2
+How many liters of NH31g2 at 850 °C and 5.00 atm are  
+required to react with 1.00 mol of O21g2 in this reaction?
+ 
+SECTION 10.6   
+Gas Mixtures and Partial Pressures 
+411
+Give It Some Thought
+How is the partial pressure exerted by N2 ga

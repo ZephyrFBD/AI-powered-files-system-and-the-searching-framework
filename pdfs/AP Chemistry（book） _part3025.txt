@@ -1,0 +1,15 @@
+ening to this gas at the microscopic level, and how does what is going on at 
+the microscopic level relate to the entropy of the gas?
+Imagine taking a snapshot of the positions and speeds of all the molecules at a given 
+instant. The speed of each molecule relates to its kinetic energy. That particular set of 
+6 * 1023 positions and kinetic energies of the individual gas molecules is what we call a 
+microstate of the system. A microstate is a single possible arrangement of the positions 
+and kinetic energies of the molecules when the molecules are in a specific thermody-
+namic state. We could envision continuing to take snapshots of our system to see other 
+possible microstates.
+As you no doubt see, there would be such a staggeringly 
+large number of microstates that taking individual snapshots 
+of all of them is not feasible. Because we are examining such 
+a large number of particles, however, we can use the tools of 
+statistics and probability to determine the total number of 
+micros

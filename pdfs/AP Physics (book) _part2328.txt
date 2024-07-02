@@ -1,0 +1,27 @@
+how
+many loops must the coil contain if the peak output is to be 
+APPROACH From Eq. 21–5 we see that the maximum emf is
+SOLUTION We solve Eq. 21–5 for N with
+N =
+e0
+BAv =
+170 V
+(0.15 T)A2.0 * 10–2 m2BA377 s–1B
+= 150 turns.
+v = 2pf = (6.28)A60 s–1B = 377 s–1:
+e0 = NBAv.
+e0 = 170 V?
+2.0 * 10–2 m2,
+EXAMPLE 21;7
+2
+1–6 Back EMF and Counter Torque;
+Eddy Currents
+Back EMF, in a Motor
+A motor turns and produces mechanical energy when a current is made to flow in
+it. From our description in Section 20–10 of a simple dc motor, you might expect
+that the armature would accelerate indefinitely due to the torque on it. However,
+as the armature of the motor turns, the magnetic flux through the coil changes
+and an emf is generated. This induced emf acts to oppose the motion (Lenz’s law)
+and is called the back emf or counter emf. The greater the speed of the motor,
+the greater the back emf. A motor normally turns and does work on something,
+but if there were no load to push (or rotate), the motor’s spe

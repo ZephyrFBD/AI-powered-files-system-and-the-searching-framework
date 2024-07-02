@@ -1,0 +1,26 @@
+101l2 + 13 O21g2 ¡ 8 CO21g2 + 10 H2O1g2 
+ [3.13] 
+Let’s calculate the mass of CO2 produced when 1.00 g of C4H10 is burned. The coefficients 
+in Equation 3.13  tell us how the amount of C4H10 consumed is related to the amount 
+of CO2 produced: 2 mol C4H10 ] 8 mol CO2. To use this stoichiometric relationship, we 
+must convert grams of C4H10 to moles using the molar mass of C4H10, 58.0 g>mol:
+ Moles C4H10 = 11.00 g C4H102a 1 mol C4H10
+58.0 g C4H10
+b
+  = 1.72 * 10-2 mol C4H10
+We then use the stoichiometric factor from the balanced equation to calculate moles of CO2:
+ Moles CO2 = 11.72 * 10-2 mol C4H102a 8 mol CO2
+2 mol C4H10
+b
+ = 6.88 * 10-2 mol CO2
+Finally, we use the molar mass of CO2, 44.0 g>mol, to calculate the CO2 mass in grams:
+ Grams CO2 = 16.88 * 10-2 mol CO22a
+44.0 g CO2
+1 mol CO2
+b
+ = 3.03 g CO2
+◀ Figure 3.15 Interpreting a balanced 
+chemical equation quantitatively.
+104 
+CHAPTER 3 Chemical Reactions and Reaction Stoichiometry
+This conversion sequence involves three steps, as il

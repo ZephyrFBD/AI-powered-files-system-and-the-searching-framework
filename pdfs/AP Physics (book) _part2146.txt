@@ -1,0 +1,48 @@
+
+12.0 V
+750 Ω
+680 Ω
+990 Ω
+R
+R
+R
+R
+R
+R
+R
+R
+R
+B
+A
+FIGURE 19–49
+Problem 18.
+FIGURE 19–48
+Problem 16.
+20. (II) Calculate the current through each resistor in Fig.19–50
+if each resistance 
+and 
+What is
+the potential difference between points A and B?
+21. (III) Two resistors when connected in series to a 120-V line
+use one-fourth the power that is used when they are con-
+nected in parallel. If one resistor is 
+what is the
+resistance of the other?
+22. (III) Three equal resistors (R) are connected to a battery
+as shown in Fig. 19–51. Qualitatively, what happens to
+(a) the voltage drop across each of these resistors, (b) the
+current flow through each, and (c) the terminal voltage of
+the battery, when the switch S is opened, after having been
+closed for a long time? (d) If the emf of the battery is 9.0 V,
+what is its terminal voltage when the switch is closed if the
+internal resistance r is 
+and
+(e) What is
+the terminal voltage
+when the switch is
+open?
+R = 5.50 ?
+0.50 
+4.8 k,
+V = 12.0 V.
+R = 

@@ -1,0 +1,20 @@
+tates for the thermodynamic state. (That is where the 
+statistical part of the name statistical thermodynamics comes 
+in.) Each thermodynamic state has a characteristic number of 
+microstates associated with it, and we will use the symbol W 
+for that number.
+Students sometimes have difficulty distinguishing 
+between the state of a system and the microstates associated 
+with the state.
+t A state describes the macroscopic view of the system as 
+characterized, for example, by the pressure and tempera-
+ture of a sample of gas.
+t A microstate is a particular microscopic arrangement of the 
+atoms or molecules of the system that corresponds to the 
+given state of the system.
+Each of the snapshots we described is a microstate—the posi-
+tions and kinetic energies of individual gas molecules will 
+change from snapshot to snapshot, but each one is a possible 
+arrangement of the collection of molecules corresponding 
+to a single state. For macroscopically sized systems, such as a 
+mole of gas, t

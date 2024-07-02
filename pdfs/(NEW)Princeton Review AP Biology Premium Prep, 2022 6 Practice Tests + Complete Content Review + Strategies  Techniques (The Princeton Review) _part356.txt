@@ -1,0 +1,12 @@
+frameshift mutation) to synthesize a polyprotein.
+In this example, the insertion of an additional cytosine nucleotide resulted in a frameshift and a premature stop
+codon.
+2. Duplications can result in an extra copy of genes and are usually caused by unequal crossing-over during
+meiosis or chromosome rearrangements. This may result in new traits because one copy of the gene can
+maintain the original function and the other copy may evolve a new function.
+3. Inversions can result when changes occur in the orientation of chromosomal regions. This may cause harmful
+effects if the inversion involves a gene or an important regulatory sequence.
+4. Translocations occur when two different chromosomes (or a single chromosome in two different places) break
+and rejoin in a way that causes the DNA sequence or gene to be lost, repeated, or interrupted.
+5. Transposons are gene segments that can cut/paste themselves throughout the genome. The presence of a
+transposon can interrupt a gene and cause erro

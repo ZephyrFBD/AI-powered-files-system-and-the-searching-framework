@@ -1,0 +1,12 @@
+opes of the plots represent
+the rates of oxygen
+ 
+consumption (changes in O2 with time, expressed as ml • g−1 • min−1,
+or ml/g·min). Because the slopes are constant (nearly straight lines), the respiratory rates are constant, but differ for
+the two temperatures. Oxygen production is recorded in ml/g, which means the amount of oxygen produced, in
+milliliters, is divided by the weight, in grams, of the hamster. As a result, oxygen production by hamsters with
+different sizes is averaged over their weights. Although these hamsters may indeed have different respiratory rates
+(due to size or even physiological differences), these differences are not detectable in the reported data.
+22. D. In this experiment, time is an independent variable and respiratory rate is the dependent variable.
+Temperature is also an independent variable, but this variable was assigned two values (10°C and 25°C) for the
+purpose of examining how temperature affects respiratory rate over time. But within each chamber,

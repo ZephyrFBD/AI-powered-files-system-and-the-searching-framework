@@ -1,0 +1,37 @@
+tage of the atoms from the starting materials end up in the product.
+Give It Some Thought
+Assuming the by-products shown in green (phenol and acetone) are recycled, what 
+atoms, if any, used in the new process for making hydroquinone do not end up in 
+the final products?
+ 
+SECTION 18.5  Green Chemistry 
+795
+796 
+CHAPTER 18 Chemistry of the Environment
+Another example of atom economy is a reaction in which, at room temperature and 
+in the presence of a copper(I) catalyst, an organic azide and an alkyne form one product 
+molecule:
+R1
+R1
+N
+N+
+N−
+Azide
+Alkyne
+Cu(I)
++
+C
+HC
+R2
+R2
+C
+N
+HC
+N
+N
+This reaction is informally called a click reaction. The yield—actual, not just theoretical—
+is close to 100%, and there are no by-products. Depending on the type of azide and type 
+of alkyne we start with, this very efficient click reaction can be used to create any number 
+of valuable product molecules.
+Give It Some Thought
+What are the hybridizations of the two alkyne C atoms before and after the click

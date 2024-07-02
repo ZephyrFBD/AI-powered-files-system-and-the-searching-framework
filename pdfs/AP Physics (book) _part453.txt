@@ -1,0 +1,40 @@
+Referring to Example 4–21, show that if a skier moves at
+constant speed straight down a slope of angle , then the
+coefficient of kinetic friction between skis and snow is
+mk = tan u.
+u
+6
+
+ms = 0.65?
+95 kmh
+ms
+v2(2 ms g),
+Search and Learn
+97. An 18-kg child is riding in a
+child-restraint chair, securely
+fastened to the seat of a car
+(Fig. 4–77). Assume the car
+has speed 
+when it hits
+a tree and is brought to rest 
+in 0.20 s. Assuming constant
+deceleration during the colli-
+sion, estimate the net horizontal
+force F that the straps of the
+restraint chair exert on the child
+to hold her in the chair.
+45 kmh
+FIGURE 4;77
+Problem 97.
+mB
+mA
+θ
+93. (a) If the horizontal acceleration produced briefly by an
+earthquake is a, and if an object is going to “hold its place”
+on the ground, show that the coefficient of static friction
+with the ground must be at least
+(b) The famous
+Loma Prieta earthquake that stopped the 1989 World
+Series produced ground accelerations of up to 
+in
+the San Francisco Ba

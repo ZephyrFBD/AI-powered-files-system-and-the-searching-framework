@@ -1,0 +1,17 @@
+ following:
+ 
+58. C. The degrees of freedom (df) are the
+number of observed phenotypic categories minus 1, or 4 − 1 = 3.
+ 
+59. A. For a df of 3, the critical value for χ2 is 7.81 (p = 0.05, the
+ 
+generally accepted probability for accepting the null hypothesis).
+ 
+Because the value for χ2 for the data obtained in this question (χ2 = 4) is less that the critical value (χ2 = 7.81), the
+null hypothesis is accepted.
+The interpretation of these results is that there is more than a 5% chance that the difference between expected and
+observed values can be explained by chance alone. To help understand what this means, consider the possible
+extremes: If there were a 100% chance that the difference between expected and observed data could be explained
+by chance, then the results are very accurate. That is, the expected and observed results don’t differ at all. In
+contrast, if there were a 0% chance that the difference between expected and observed data could be explained by
+chance, then the data

@@ -1,0 +1,21 @@
+ate how long the 
+ball is in the air before it returns to the hand. We could do this calculation 
+in two parts by first determining the time required for the ball to reach its
+highest point, and then determining the time it takes to fall back down.
+However, it is simpler to consider the time interval for the entire motion from
+A to B to C (Fig. 2–23) in one step and use Eq. 2–11b. We can do this because
+y is position or displacement, and not the total distance traveled. Thus, at both
+points A and C,
+SOLUTION We use Eq. 2–11b with  
+and find
+This equation can be factored (we factor out one ):
+There are two solutions:
+The first solution 
+corresponds to the initial point (A) in Fig. 2–23,
+when the ball was first thrown from  
+The second solution,
+corresponds to point C, when the ball has returned to  
+Thus the ball is
+in the air 3.06 s.
+NOTE We have ignored air resistance in these last two Examples, which could
+be significant, so our result is only an approximation to a real, practical si

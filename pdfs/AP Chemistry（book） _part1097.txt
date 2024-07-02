@@ -1,0 +1,22 @@
+rd ionization energy, Ca or S?
+Three elements are indicated in the periodic table in the margin. 
+Which one has the largest  
+second ionization energy?
+Sample Exercise 7.5 
+Trends in Ionization Energy
+SOLUTION
+Analyze and Plan The locations of the elements in the periodic 
+table allow us to predict the electron configurations. The greatest 
+ionization energies involve removal of core electrons. Thus, we 
+should look first for an element with only one electron in the out-
+ermost occupied shell.
+Solve The red box represents Na, which has one valence elec-
+tron. The second ionization energy of this element is associ-
+ated, therefore, with the removal of a core electron. The other 
+elements indicated, S (green) and Ca (blue), have two or more 
+valence electrons. Thus, Na should have the largest second ion-
+ization energy.
+Check A chemistry handbook gives these I2 values: 
+Ca, 1145 kJ>mol; S, 2252 kJ>mol; Na,  4562 kJ>mol.
+Periodic Trends in First Ionization Energies
+Figure 7.10 shows, for 

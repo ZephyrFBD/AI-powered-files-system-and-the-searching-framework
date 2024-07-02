@@ -1,0 +1,16 @@
+ed depends on 
+two factors that vary in opposite directions with increasing altitude. First, the forma-
+tion of O3* (Equation 18.3) depends on the presence of O atoms. At low altitudes, most 
+of the radiation energetic enough to dissociate O2 molecules into O atoms has been 
+absorbed; thus, O atoms are not very plentiful at low altitudes. Second, Equations 18.3 
+and 18.4 both depend on molecular collisions. 
+ (Section 14.5) The concentration 
+of molecules is greater at low altitudes, and so the rates of both reactions are greater 
+at lower altitudes. Because these two effects vary with altitude in opposite directions, 
+the highest rate of O3 formation occurs in a band at an altitude of about 50 km, near 
+the stratopause (Figure 18.1). Overall, roughly 90% of Earth’s ozone is found in the 
+stratosphere.
+The photodissociation of ozone reverses the reaction that forms it. We thus have a 
+cycle of ozone formation and decomposition, summarized on the next page:
+Go Figure
+In what region of t

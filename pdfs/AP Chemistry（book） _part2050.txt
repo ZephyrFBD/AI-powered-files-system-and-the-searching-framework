@@ -1,0 +1,28 @@
+rature. As an example, the solubility of N2 gas in water at 25 °C and 
+0.78 atm pressure is 4.75 * 10-4 M. The Henry’s law constant for N2 in 25 °C water is 
+thus 14.75 * 10-4 mol>L2>0.78 atm = 6.1 * 10-4 mol>L@atm. If the partial pressure 
+of N2 is doubled, Henry’s law predicts that the solubility in water at 25 °C also doubles 
+to 9.50 * 10-4 M.
+Bottlers use the effect of pressure on solubility in producing carbonated bever-
+ages, which are bottled under a carbon dioxide pressure greater than 1 atm. When 
+the bottles are opened to the air, the partial pressure of CO2 above the solution 
+decreases. Hence, the solubility of CO2 decreases, and CO21g2 escapes from the solu-
+tion as bubbles (Figure 13.14).
+Go Figure
+Does the gas with the largest molar 
+mass have the highest or lowest 
+solubility in water?
+0
+0.50
+0.50
+1.00
+Solubility (mM)
+1.00
+Partial pressure (atm)
+O2
+N2
+CO
+He
+▲ Figure 13.13 The solubility of a gas in water 
+is directly proportional to the partial pressure of 
+the gas. Th

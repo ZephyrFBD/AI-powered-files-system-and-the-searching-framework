@@ -1,0 +1,47 @@
+electron-domain geometry and  
+molecular geometry.
+SOLUTION
+Sample Exercise 9.2 
+Molecular Geometries of Molecules with Expanded Valence Shells
+Continued
+350 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+Shapes of Larger Molecules
+Although the molecules and ions we have considered contain only a single central atom, the 
+VSEPR model can be extended to more complex molecules. Consider the acetic acid molecule:
+C
+H
+H
+H
+C
+O
+O
+H
+We can use the VSEPR model to predict the geometry about each carbon atom:
+C
+H
+4
+Number of electron domains
+Electron-domain geometry
+3
+4
+Predicted bond angles
+1208
+109.58
+109.58
+Tetrahedral
+Trigonal
+planar
+Tetrahedral
+H
+H
+C
+O
+O
+H
+Comment The experimentally observed structure is shown on the 
+right. We can infer that the nonbonding electron domain occu-
+pies an equatorial position, as predicted. The axial and equatorial 
+S ¬ F bonds are slightly bent away from the nonbonding domain, 
+suggesting that the bonding domains are “pushed” by the non-
+bonding domain, w

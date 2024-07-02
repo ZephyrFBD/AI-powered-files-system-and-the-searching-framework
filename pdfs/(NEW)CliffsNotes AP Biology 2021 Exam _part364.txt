@@ -1,0 +1,10 @@
+o bacteria by transformation. Using the same restriction enzyme produces the same sticky ends as that produced
+in the foreign DNA. To help in the identification of the copied gene, use a plasmid that has one restriction site for
+the restriction enzyme and is engineered to contain the following:
+ampR gene . This gene gives a bacterium resistance against the antibiotic ampicillin.
+GFP gene. This gene, originally obtained from jellyfish, presents a bright green fluorescence.
+lacZ gene. This gene codes for an enzyme that naturally breaks down lactose. Conveniently, the enzyme also breaks
+down a related, but artificially made, molecule called X-gal. X-gal is colorless, but it forms a blue product when
+broken down by the lacZ enzyme. The one restriction site for the restriction enzyme occurs within the lacZ gene.
+3. Mix cut foreign DNA with cut plasmids. As fragments reattach by base-pairing at their sticky ends, foreign
+fragments, some of which contain the gene to be copied, will fuse with 

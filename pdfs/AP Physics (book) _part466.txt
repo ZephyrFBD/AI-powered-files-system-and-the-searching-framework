@@ -1,0 +1,21 @@
+ give it centripetal acceleration. The
+magnitude of the required force can be calculated using Newton’s second law for
+the radial component,
+where 
+is the centripetal acceleration,
+and 
+is the total (or net) force in the radial direction:
+[circular motion]
+(5;3)
+For uniform circular motion 
+the acceleration is 
+which is
+directed toward the center of the circle at all times. Thus the net force too must 
+be directed toward the center of the circle (Fig. 5–4). A net force is necessary
+because if no net force were exerted on the object, it would not move in a circle
+but in a straight line, as Newton’s first law tells us. The direction of the net force
+is continually changing so that it is always directed toward the center of the circle.
+This force is sometimes called a centripetal (“pointing toward the center”) force.
+But be aware that “centripetal force” does not indicate some new kind of force.
+The term “centripetal force” merely describes the direction of the net force needed
+to provide

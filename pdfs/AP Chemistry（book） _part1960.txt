@@ -1,0 +1,20 @@
+ absorbs light from 300 nm down to 650 nm. What is its band gap, in electron volts?
+ ∆Hrxn = 1C ‚C enthalpy2 - 1C “ C enthalpy2 - 1C ¬C enthalpy2
+ = 1839 kJ>mol2 - 1614 kJ>mol2 - 1348 kJ>mol2
+     = -123 kJ>mol
+(d) Let’s consider the case for n = 1. We note that the reactant side 
+of the equation in part (b) has one C ‚C triple bond and two 
+C ¬H single bonds. The product side of the equation in part (b) 
+has one C “ C double bond, one C ¬C single bond (to link to 
+the adjacent monomer), and two C ¬H single bonds. There-
+fore, we are breaking one C ‚C triple bond and are forming one 
+C “C double bond and one C ¬C single bond. Accordingly, 
+the enthalpy change for polyacetylene formation is:
+Because  ∆H is a negative number, the reaction releases heat 
+and is exothermic.
+(e) The sample of polyacetylene absorbs many wavelengths of 
+light, but the one we care about is the longest one, which 
+corresponds to the lowest energy.
+ 
+E = hc>l
+ = 16.626 * 10-34 J@s2 13.00 * 108 m@s-12>1650 * 10-9

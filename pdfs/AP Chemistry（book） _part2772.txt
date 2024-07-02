@@ -1,0 +1,35 @@
+t, such as Ag1NH322
++, is 
+called a complex ion. Complex ions are very soluble in water. The stability of a com-
+plex ion in aqueous solution can be judged by the size of the equilibrium constant for 
+its formation from the hydrated metal ion. For example, the equilibrium constant for 
+Equation 17.24 is
+ 
+Kf =
+3Ag1NH322
++4
+3Ag+43NH342 = 1.7 * 107 
+[17.25]
+Note that the equilibrium constant for this kind of reaction is called a formation con-
+stant, Kf. The formation constants for several complex ions are listed in Table 17.1.
+The general rule is that the solubility of metal salts increases in the presence of suit-
+able Lewis bases, such as NH3, CN-, or OH-, provided the metal forms a complex with 
+the base. The ability of metal ions to form complexes is an extremely important aspect of 
+their chemistry.
+NH3 reacts with Ag+,
+forming Ag(NH3)2
++
+Addition of sufficient
+NH3 leads to complete
+dissolution of AgCl
+AgCl(s) + 2 NH3(aq)
+Ag+
+AgCl
+Cl−
+NH3
+Ag(NH3)2
++
+Cl−
+Ag(NH3)2
++(aq) + Cl−(aq)
+Rea

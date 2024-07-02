@@ -1,0 +1,17 @@
+l, A and B were on one chromosome and a and b were on a
+second chromosome, then all of the following are true EXCEPT:
+A. The two genes are linked.
+B. The two chromosomes are homologous.
+C. All gametes would be either AB or ab.
+D. The genotype of this individual is AaBb.
+16. Four genes, J, K, L, and M, reside on the same chromosome. Given that the crossover frequency between K and
+J is 3, between K and L is 8, between J and M is 12, and between L and M is 7, what is the order of the genes on the
+chromosome?
+A. J K L M
+B. J K M L
+C. K J L M
+D. K J M L
+Questions 17-19 refer to the following pedigree. Circles indicate females, and squares indicate males. A horizontal
+line connecting a male and female indicates that these two individuals produced offspring. Offspring are indicated
+by a descending vertical line that branches to the offspring. A filled circle or filled square indicates that the
+individual has a particular trait, in this case, red-green color blindness. Color blindness is inhe

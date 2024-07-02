@@ -1,0 +1,17 @@
+abstract concept, we may need to quantize 
+factors of different levels of the sustainable development, so we list out the main 
+factors and search for the data to support the body of the analytic hierarchy process. 
+Then we make the following assumptions: 
+ The sustainable development is mainly determined by three factors: the society, 
+the economy and the ecology, and other factors nearly can be neglected. 
+ All the statistical datum are convincible and can show the characters of the total. 
+ A statistical data won’t fluctuate greatly if nothing unexpected happens. 
+ The set of the weight is comparatively objective and follow most people’s willing 
+and ideas. 
+Team#36961 
+ 
+Page 4 of 20 
+We set the target layer as ‘A-Sustainability’. Then we set the first criteria layer as 
+‘B1-Society’, ‘B2-Economy’ and ‘B3-Ecology’. Moreover, we set the secondary 
+criteria layer as ‘C11-Population’, ‘C12-Policy’, ‘C13-Community stability’, 
+‘C14-Public health’, ‘C15-Education’, ‘C21-Technology’,

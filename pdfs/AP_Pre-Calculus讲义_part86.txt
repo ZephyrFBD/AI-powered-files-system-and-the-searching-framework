@@ -1,0 +1,89 @@
+h it 
+attains all its values.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+129 
+Exercise 1 
+ 
+ 
+ 
+ 
+Exercise 2 
+ 
+ 
+ 
+ 
+Exercise 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+130 
+3.6 Modelling with Trigonometric Functions 
+3.6.1 Simple Harmonic Motion 
+Figure 1 shows the graph of y = sin t. If we think of t as time, we see that as time goes on, 
+y = sin t increases and decreases over and over again. 
+ 
+Figure 1 
+The figure shows that the motion of a vibrating mass on a spring is modeled very 
+accurately by y = sin t. 
+ 
+Figure 2 
+Notice that the mass returns to its original position over and over again. 
+A cycle is one complete vibration of an object, so the mass in Figure 2 completes one 
+cycle of its motion between O and P. 
+If the equation describing the displacement y of an object at time t is 
+sin 
+or
+cos
+y
+a
+t
+y
+a
+t
+w
+w
+=
+=
+ 
+then the object is in simple harmonic motion. In this case, 
+ 
+ 
+ 
+131 
+Notice that the functions 
+ sin 2
+and
+cos2
+y
+a
+vt
+y
+a
+vt
+p
+p
+=
+=
+ 
+have frequency , because 
+2
+.
+(2 )
+pn
+n
+p
+=
+ 
+Since we can immediatel

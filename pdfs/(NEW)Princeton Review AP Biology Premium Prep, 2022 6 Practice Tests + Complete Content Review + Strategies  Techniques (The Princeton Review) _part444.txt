@@ -1,0 +1,13 @@
+ulations also vary greatly. There are two types of growth: exponential growth and logistic
+growth. Equations for both are included on the AP Biology Equations and Formulas sheet. Exponential growth
+occurs when a population is in an ideal environment. Growth is unrestricted because there are lots of resources,
+space, and no disease or predation. Here’s an example of exponential growth. Notice that the curve arches sharply
+upward—the exponential increase.
+Exponential growth can be calculated in the following way:
+Exponential growth occurs very quickly, resulting in a J-shaped curve. A good example of exponential growth is the
+initial growth of bacteria in a culture. There’s plenty of room and food, so they multiply rapidly.
+The More Things Change, The More They Stay the Same
+As with the equation for population growth, this may be presented to you on
+the test as 
+ = r−maxN. Be familiar with what each variable represents
+However, as the bacterial population increases, the individual bacter

@@ -1,0 +1,49 @@
+engths of the other two sides. In Fig.A–5,
+A–7 Trigonometric Functions and Identities
+Trigonometric functions for any angle are defined by constructing a right triangle
+about that angle as shown in Fig. A–6; opp and adj are the lengths of the sides
+opposite and adjacent to the angle 
+and hyp is the length of the hypotenuse:
+(Pythagorean theorem).
+Figure A–7 shows the signs 
+that cosine, sine, and tangent take on for
+angles in the four quadrants (0° to 360°). Note that angles are measured coun-
+terclockwise from the x axis as shown; negative angles are measured from 
+below the x axis, clockwise: for example,
+and so on.
+The following are some useful identities among the trigonometric functions:
+For any triangle (see Fig.A–8):
+(law of sines)
+(law of cosines)
+c2 = a2 + b2 - 2ab cos g.
+sin a
+a
+= sin b
+b
+= sin g
+c
+ 
+sin A6sin B =  2 sin ¢ A6B
+2
+≤ cos ¢ A7B
+2
+≤.
+ 
+tan 1
+2 u = B
+1 - cos u
+1 + cos u
+ 
+cos 1
+2 u = B
+1 + cos u
+2
+ 
+sin 1
+2 u = B
+1 - cos u
+2
+ 
+cos(90° - u) =  sin u
+ 
+sin(90° - u) =

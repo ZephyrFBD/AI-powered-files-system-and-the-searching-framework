@@ -1,0 +1,49 @@
+ of nature at 
+this time when λ is assumed to be constant. Every infective person can 
+turn λS(t) susceptible people into the patient. Since the total number of patient 
+is NI(t), there are  λNS(t)I(t) susceptible people infected every week. The 
+rate of the dead for each week is μ. The reduction of the susceptible equals to 
+the susceptible infected every week，so： 
+{
+ 
+ 
+ 
+ 
+ 
+ N dI(t)
+dt
+= λNS(t)I(t) −μNI(t)
+N dS(t)
+dt
+= −λNS(t)I(t)
+N dR(t)
+dt
+= μNI(t)
+S(t) + I(t) + R(t) = 1
+ 
+ 
+Then 
+                                                             
+1 Yang Guan. The Analysis of Infectious Disease Control on the basis of SIR Model. Mathematical Biology 
+Journal.2009, 24 (3): 479-483 
+S(t) 
+I(t) 
+R(t) 
+λS(t)I(t) 
+μI(t) 
+Team   #37232                                                              Page 4 of 22   
+{
+ 
+ 
+ 
+ dI(t)
+dt
+= λS(t)I(t) −μI(t), I(0) = I0
+dS(t)
+dt
+= −λS(t)I(t), S(0) = S0
+ 
+ 
+3.1.5 Solution and Result 
+After the analysis I0 = 0.000015, S0 = 0.999985.  
+According to the dat

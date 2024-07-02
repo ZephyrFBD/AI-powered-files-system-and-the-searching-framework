@@ -1,0 +1,40 @@
+ber and the correct units for the rate.
+ 
+▶Practice Exercise 1
+Consider the reaction examined above in the Sample Exer-
+cise, A + B S C. If the concentration of B is doubled, the rate 
+of disappearance of B ________, whereas if the concentration 
+of A is doubled, the rate of disappearance of B ________.
+(a) does not change; does not change
+(b) increases by a factor of two; increases by a factor of two
+(c) increases by a factor of four; increases by a factor of two
+(d) does not change; increases by a factor of four
+(e) increases by a factor of four; does not change
+ 
+▶Practice Exercise 2
+The following data were measured for the reaction of nitric 
+oxide with hydrogen:
+2 NO1g2 + 2 H21g2 ¡ N21g2 + 2 H2O1g2
+Experiment 
+Number
+3NO4 1M2
+3H24 1M2
+Initial Rate 1M,s2
+1
+0.10
+0.10
+1.23 * 10-3
+2
+0.10
+0.20
+2.46 * 10-3
+3
+0.20
+0.10
+4.92 * 10-3
+(a) Determine the rate law for this reaction.
+(b) Calculate the rate constant.
+(c)  
+Calculate the rate when 3NO4 = 0.050 M and 
+3H24 = 0.150 M.
+(b) Using the 

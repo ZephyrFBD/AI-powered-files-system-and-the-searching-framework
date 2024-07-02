@@ -1,0 +1,29 @@
+ formulas? As we will see in Chapter 3, certain 
+common methods of analyzing substances lead to the empirical formula only. For exam-
+ple, if you decomposed hydrogen peroxide H2O2 into its elements and weighed them, you 
+could determine that there were equal numbers of hydrogen and oxygen atoms, but you 
+would not know if the molecular formula was HO, H2O2, H3O3, or the like. Once the empir-
+ical formula is known, additional experiments can give the information needed to convert 
+the empirical formula to the molecular one. In addition, there are many substances that 
+do not exist as isolated molecules, one example being ionic compounds that are discussed 
+later in this chapter. For these substances, we must rely on empirical formulas.
+Picturing Molecules
+The molecular formula of a substance does not show how its atoms are joined together. 
+A structural formula is needed to convey that information, as in the following 
+examples:
+Hydrogen peroxide
+Water
+Methane
+H
+H
+O
+H
+O
+H
+O
+C
+H
+H
+H
+H
+Th

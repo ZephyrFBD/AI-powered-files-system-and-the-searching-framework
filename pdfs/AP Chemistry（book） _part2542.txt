@@ -1,0 +1,26 @@
+ow. This color change, along with that of 
+the indicators bromthymol blue and phenolphthalein, is shown in Figure 16.9. Paper 
+tape impregnated with several indicators is widely used for determining approximate 
+pH values. 
+Give It Some Thought
+If the pOH for a solution is 3.00, what is the pH? Is the solution acidic or basic?
+A sample of freshly pressed apple juice has a pOH of 10.24. Calculate 3H+4.
+Sample Exercise 16.7 
+Calculating 3H+ 4 from pOH
+SOLUTION
+Analyze We need to calculate 3H+4 from pOH.
+Plan We will first use Equation 16.20, pH + pOH = 14.00, to 
+calculate pH from pOH. Then we will use Equation 16.17 to deter-
+mine the concentration of H+.
+Solve From Equation 16.20, we have
+ 
+pH = 14.00 -pOH
+ 
+pH = 14.00 -10.24 = 3.76
+Next we use Equation 16.17:
+pH = -log3H+4 = 3.76
+Thus,
+log3H+4 = -3.76
+To find 3H+4, we need to determine the antilogarithm of -3.76. 
+Your calculator will show this command as 10x or INV log (these 
+functions are usually above the log key). We use this fun

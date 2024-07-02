@@ -1,0 +1,25 @@
+f change of its momentum:
+(We have written 
+instead of 
+for the net force, which we assume is entirely
+due to the brief but large average force that acts during the collision.) This equa-
+tion applies to each of the two objects in a collision. We multiply both sides of this
+equation by the time interval 
+and obtain
+(7;4)
+The quantity on the left, the product of the force 
+times the time 
+over which
+the force acts, is called the impulse:
+(7;5)
+We see that the total change in momentum is equal to the impulse. The concept
+of impulse is useful mainly when dealing with forces that act during a short time
+interval, as when a bat hits a baseball. The force is generally not constant, and
+often its variation in time is like that graphed in Figs. 7–9 and 7–10. We can often
+approximate such a varying force as an average force 
+acting during a time
+interval 
+as indicated by the dashed line in Fig. 7–10.
+is chosen so that the
+area shown shaded in Fig. 7–10 (equal to 
+) is equal to the area under th

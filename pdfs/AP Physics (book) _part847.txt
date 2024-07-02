@@ -1,0 +1,46 @@
+ in turn will be behind the marble 
+The empty can, which is
+mainly a hoop plus a thin disk, has most of its mass concentrated at R; so it will 
+be a bit faster than the pure hoop but slower than the D-cell. See Fig. 8–24.
+NOTE The rolling objects do not even have to have the same radius: the speed
+at the bottom does not depend on the object’s mass M or radius R, but only 
+on the shape (and the height of the incline H).
+AIcm = 2
+5 MR2B.
+AIcm = 1
+2 MR2B,
+AIcm = MR2B,
+Icm
+R2
+v = vR,
+R2
+Icm
+MgH =
+1
+2 Mv2 + 1
+2 Icmv2.
+CONCEPTUAL EXAMPLE 8;13
+H
+Hoop
+Empty can
+Solid cylinder (D-cell)
+Sphere (marble)
+Box (sliding)
+FIGURE 8;24 Example 8–13.
+B
+P
+A
+Sphere, rolling to the right
+  fr
+F
+B
+FIGURE 8;25 A sphere rolling to
+the right on a plane surface. The
+point in contact with the ground at
+any moment, point P
+, is momentarily
+at rest. Point A to the left of P is
+moving nearly vertically upward at
+the instant shown, and point B to 
+the right is moving nearly vertically
+downward. An instant later, poi

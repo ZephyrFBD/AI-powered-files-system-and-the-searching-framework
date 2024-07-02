@@ -1,0 +1,56 @@
+d domes are special ways to span a space that
+allow the stresses to be managed well.]
+F = k ¢l.
+Summary
+APPROACH We can find the vertical component 
+exerted upward by each
+buttress because each supports 
+of the dome’s weight. We find 
+knowing
+that the buttress needs to be under compression so
+acts at a 38°
+angle.
+SOLUTION The vertical load on each buttress is 
+of the total weight. Thus
+The force must act at a 38° angle at the base of the dome in order to be purely
+compressive. Thus
+NOTE For each buttress to exert this 420,000-N horizontal force, a prestressed-
+concrete tension ring surrounds the base of the buttresses beneath the ground
+(see Problem 58 and Fig. 9–77).
+F
+H =
+F
+V
+tan 38° = 330,000 N
+tan 38°
+= 420,000 N.
+ 
+tan 38° = F
+V
+F
+H
+;
+F
+V = mg
+36
+=
+A1.2 * 106 kgBA9.8 ms2B
+36
+= 330,000 N.
+1
+36
+F
+B = F
+B
+V + F
+B
+H
+F
+H
+1
+36
+F
+V
+6. Can the sum of the torques on an object be zero while the
+net force on the object is nonzero? Explain.
+7. A ladder, leaning against a wall, makes a 60° an

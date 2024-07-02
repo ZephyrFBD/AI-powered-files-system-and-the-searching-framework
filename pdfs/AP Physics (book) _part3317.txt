@@ -1,0 +1,23 @@
+o conduct when the wavelength of
+the light is 620 nm. Estimate the energy gap 
+18. (I) Calculate the longest-wavelength photon that can cause
+an electron in silicon 
+to jump from the
+valence band to the conduction band.
+19. (II) The energy gap between valence and conduction bands
+in germanium is 0.72 eV. What range of wavelengths can a
+photon have to excite an electron from the top of the valence
+band into the conduction band?
+20. (II) The band gap of silicon is 1.12 eV. (a) For what 
+range of wavelengths will silicon be transparent? (See
+Example 29–5.) In what region of the electromagnetic
+spectrum does this transparent range begin? (b) If window
+glass is transparent for all visible wavelengths, what is the
+minimum possible band gap value for glass (assume
+[Hint: If the photon has less
+energy than the band gap, the photon will pass through the
+solid without being absorbed.]
+21. (II) The energy gap 
+in germanium is 0.72 eV. When
+used as a photon detector, roughly how many electrons
+can

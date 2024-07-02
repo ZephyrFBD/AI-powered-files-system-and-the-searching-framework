@@ -1,0 +1,18 @@
+thermodynamic equilibrium constants 
+derived from them also have no units. It is therefore common practice to write all types 
+of equilibrium constants without units, a practice that we adhere to in this text. In more 
+advanced chemistry courses, you may make more rigorous distinctions between concen-
+trations and activities. 
+Give It Some Thought
+If the concentration of N2O4 in an equilibrium mixture is 0.00140 M, what is its 
+activity? (Assume the solution is ideal.)
+15.3 ∣  
+Understanding and Working  
+with Equilibrium Constants
+Before doing calculations with equilibrium constants, it is valuable to understand what 
+the magnitude of an equilibrium constant can tell us about the relative concentrations 
+of reactants and products in an equilibrium mixture. It is also useful to consider how 
+the magnitude of any equilibrium constant depends on how the chemical equation is 
+expressed.
+The Magnitude of Equilibrium Constants
+The magnitude of the equilibrium constant for a reaction gives u

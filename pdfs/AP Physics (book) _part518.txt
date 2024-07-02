@@ -1,0 +1,44 @@
+rom Kepler’s third law:
+So Mars is 1.52 times the Earth’s distance from the Sun, or 2.28 * 1011 m.
+sMS
+sES
+=
+a T
+M
+T
+E
+b
+2
+3 =
+a 1.88 yr
+1 yr
+b
+2
+3 = 1.52.
+sES = 1.50 * 1011 m.
+sMS,
+1.50 * 1011 m
+(687 d365 d) = 1.88 yr
+EXAMPLE 5;13
+Kepler’s Third Law Derived, Sun’s Mass, Perturbations
+We will derive Kepler’s third law for the special case of a circular orbit, in 
+which case the mean distance s is the radius r of the circle. (Most planetary orbits
+are close to a circle.) First, we write Newton’s second law of motion,
+For F we use the law of universal gravitation (Eq. 5–4) for the force between the
+Sun and a planet of mass 
+and for a the centripetal acceleration,
+We
+v2r.
+m1 ,
+©F = ma.
+SECTION 5–8
+127
+Kepler’s third law
+assume the mass of the Sun 
+is much greater than the mass of its planets, so we
+ignore the effects of the planets on each other. Then
+Here 
+is the mass of a particular planet,
+its distance from the Sun, and 
+its speed in orbit;
+is the mass of the Sun, since it is the gra

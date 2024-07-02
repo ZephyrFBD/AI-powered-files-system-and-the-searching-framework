@@ -1,0 +1,45 @@
+ical
+fluid
+Critical point
+Triple point
+Temperature (K)
+Pressure (atm)
+20
+40
+60
+80
+100
+10
+3
+10
+2
+10
+1
+10
+−1
+10
+−2
+10
+−3
+ 
+ Use the phase diagram to answer the following questions. 
+(a) What is the approximate value of the normal melting 
+point? (b) Over what pressure range will solid neon sub-
+lime? (c) At room temperature 1T =  
+25 °C2 can neon be liq-
+uefied by compressing it?
+ 11.62  Use the phase diagram of neon to answer the following 
+questions. (a) What is the approximate value of the normal 
+boiling point? (b) What can you say about the strength of 
+the intermolecular forces in neon and argon based on the 
+critical points of Ne and Ar (see Table 11.5.)?
+ 11.63  The fact that water on Earth can readily be found in all 
+three states (solid, liquid, and gas) is in part a consequence 
+ 
+Exercises 
+467
+468 
+CHAPTER 11 Liquids and Intermolecular Forces
+Liquid Crystals (Section 11.7)
+ 11.65  In terms of the arrangement and freedom of motion of the 
+molecules, how are the nematic liquid

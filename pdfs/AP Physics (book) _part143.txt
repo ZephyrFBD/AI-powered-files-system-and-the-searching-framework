@@ -1,0 +1,82 @@
+negative, which tells us that the
+runner is moving to the left along the x axis, as indicated by the arrow in Fig. 2–7.
+The runner’s average velocity is 
+to the left.
+6.50 ms
+v =
+¢x
+¢t
+=
+–19.5 m
+3.00 s
+=
+–6.50 ms.
+¢t = 3.00 s.
+= 30.5 m - 50.0 m = –19.5 m.
+¢x = x2 - x1
+x2 = 30.5 m,
+x1 = 50.0 m
+EXAMPLE 2;1
+t2 - t1 ,
+x
+¢x = x2 - x1
+x1 ,
+x2
+±x
+v
+(  )
+v
+v = x2 - x1
+t2 - t1
+=
+¢x
+¢t
+,
+¢x = x2 - x1 .
+¢t = t2 - t1 ;
+= change
+x2.
+t2 ,
+x1
+t1 ,
+displacement
+time elapsed
+= 40 m
+70 s
+= 0.57 ms.
+distance
+time elapsed = 100 m
+70 s
+= 1.4 ms.
+70 m + 30 m = 100 m,
+average velocity = displacement
+time elapsed
+= final position - initial position
+time elapsed
+.
+24
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+P R O B L E M  S O L V I N G
+or 
+sign can signify the direction
+for linear motion
+–
++
+C A U T I O N
+Average speed is not necessarily 
+equal to the magnitude of the 
+average velocity
+y
+x
+10
+0
+20 30 40 50 60
+Distance (m)
+Start
+(x1)
+Finish
+(x2)
+x
+FIGURE 2;7 Example 2–1.
+A person runs from

@@ -1,0 +1,25 @@
+ the frequencies and intensities of the emitted sound waves can
+be an accurate reproduction of the electrical input.
+P H Y S I C S  A P P L I E D
+AC motor
+20–1
+1 Mass Spectrometer
+A mass spectrometer is a device to measure masses of atoms. It is used today not
+only in physics but also in chemistry, geology, and medicine, often to identify atoms
+(and their concentration) in given samples. Ions are produced by heating the sam-
+ple, or by using an electric current. As shown in Fig. 20–41, the ions (mass m,
+charge q) pass through slit 
+and enter a region (before 
+) where there are
+crossed 
+electric and magnetic fields. Ions follow a straight-line path in this
+region if the electric force qE (upward on a positive ion) is just balanced by the
+magnetic force 
+(downward on a positive ion): that is, if
+or
+Only those ions whose speed is
+will pass through undeflected and
+emerge through slit 
+(This arrangement is called a velocity selector.) In the
+semicircular region, after 
+there is only a magne

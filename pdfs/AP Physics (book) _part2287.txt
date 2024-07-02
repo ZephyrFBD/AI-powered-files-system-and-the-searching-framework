@@ -1,0 +1,43 @@
+hich is placed a distance 
+from the rod’s
+left-hand end and is immersed in a uniform magnetic field
+of magnitude B directed into the page (Fig. 20–69). An
+object whose mass M is 6.0 times greater than the rod’s mass
+is hung from the rod’s left-hand end. What current (direction
+and magnitude) should flow through the rod in order for 
+it to be “balanced” (i.e., be at rest horizontally) on the 
+fulcrum?
+(Flexible
+connecting wires which
+exert negligible force
+on the rod are not
+shown.)
+l4
+l
+3.4 ms
+28 .
+a
+B
+l
+I
+I
+I
+588
+CHAPTER 20
+Magnetism
+l/4
+B
+B
+l
+M
+m
+FIGURE 20–69
+Problem 83.
+86. A bolt of lightning strikes a metal flag pole, one end of
+which is anchored in the ground. Estimate the force the
+Earth’s magnetic field can exert on the flag pole while the
+lightning-induced current flows. See Example 18–10.
+87. A sort of “projectile launcher” is shown in Fig. 20–71.
+A large current moves in a closed loop composed of fixed
+rails, a power supply, and a very light, almost frictionless
+bar (pale

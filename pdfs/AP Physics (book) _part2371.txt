@@ -1,0 +1,94 @@
+A1 - e–1B = 0.63,
+t = t,
+t =
+L
+R
+e = 2.718 p
+[LR circuit with emf]
+I =
+a V
+0
+R b A1 - e–ttB,
+I
+max = V
+0R
+(V = IR).
+V
+0
+*
+1
+2  0 E2,
+m.
+m0
+u = energy density =
+1
+2
+B2
+m0
+.
+Al.
+U = energy =
+1
+2 LI2 =
+1
+2 ¢ m0 N2A
+l
+≤¢ Bl
+m0 N ≤
+2
+=
+1
+2
+B2
+m0 Al.
+I = Blm0 N,
+B = m0 NIl.
+L = m0 N2Al.
+U = energy =
+1
+2 LI2.
+1
+2 CV2.
+*
+610
+CHAPTER 21
+Electromagnetic Induction and Faraday’s Law
+A
+B
+C
+R
+L
+V0
+Switch
+I
+(a)
+Imax = V0 /R
+0.63Imax
+I
+Time
+0.37Imax
+I
+= L
+R
+τ
+Time
+(b)
+Imax
+Imax
+= L
+R
+τ
+FIGURE 21–38 (a) Growth of
+current in an LR circuit when
+connected to a battery. (b) Decay of
+current when the LR circuit is shorted
+out (battery is out of the circuit).
+FIGURE 21–37 LR circuit.
+*SECTION 21–13
+AC Circuits and Reactance
+611
+2
+1–13 AC Circuits and Reactance
+We have previously discussed circuits that contain combinations of resistor, capac-
+itor, and inductor, but only when they are connected to a dc source of emf or to
+zero voltage. Now we discuss these circuit elements when they are connected to a

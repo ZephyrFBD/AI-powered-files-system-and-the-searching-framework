@@ -1,0 +1,25 @@
+and (ii) when they are in the molecule. Take
+for the electrons in the separated atoms to be the
+radius of the first Bohr orbit, 0.053 nm, and for the mole-
+cule take 
+to be the separation of the nuclei, 0.074 nm.
+[Hint: Let 
+]
+39. The average translational kinetic energy of an atom or
+molecule is about 
+(see Section 13–9), where
+is Boltzmann’s constant. At what
+temperature T will 
+be on the order of the bond energy
+(and hence the bond easily broken by thermal motion) for
+(a) a covalent bond (say 
+) of binding energy 4.0 eV, and
+(b) a “weak” hydrogen bond of binding energy 0.12 eV?
+40. A diatomic molecule is found to have an activation energy
+of 1.3 eV. When the molecule is disassociated, 1.6 eV of
+energy is released. Draw a potential energy curve for this
+molecule.
+41. In the ionic salt KF, the separation distance between ions
+is about 0.27 nm. (a) Estimate the electrostatic potential
+energy between the ions assuming them to be point
+charges (magnitude 1e). (b) When F “grabs” an electr

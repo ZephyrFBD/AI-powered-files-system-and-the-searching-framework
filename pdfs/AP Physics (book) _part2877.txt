@@ -1,0 +1,27 @@
+rs (
+and 3) are measured, can both the
+X-ray wavelength 
+and lattice spacing d be determined?
+Prove your answer.
+*25–12 Imaging by T
+omography
+*63. (II) (a) Suppose for a conventional X-ray image that the
+X-ray beam consists of parallel rays. What would be the
+magnification of the image? (b) Suppose, instead, that the
+X-rays come from a point source (as in Fig. 25–41) that is
+15 cm in front of a human body which is 25 cm thick, and
+the film is pressed against the person’s back. Determine
+and discuss the range of magnifications that result.
+l
+m = 1,  2,
+64. A pinhole camera uses a tiny pinhole instead of a 
+lens. Show, using ray diagrams, how reasonably sharp
+images can be formed using such a pinhole camera. In
+particular, consider two point objects 2.0 cm apart that are
+1.0 m from a 1.0-mm-diameter pinhole. Show that on a
+piece of film 7.0 cm behind the pinhole the two objects
+produce two separate circles that do not overlap.
+65. Suppose that a correct exposure is
+at 
+11. Under 
+the sa

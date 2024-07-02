@@ -1,0 +1,45 @@
+posite direc-
+tions. They are suspended by 0.50-m-long
+strings as shown in Fig. 20–67. If the 
+suspension strings make an angle of 3.0°
+with the vertical and are hanging freely,
+what is the current in the wires?
+0.50 m
+6.0°
+I1
+I2
+S
+2r
+p
+B
+B
+B
+B
+v
+B
+FIGURE 20–68
+Problem 79.
+FIGURE 20–67
+Problem 78.
+79. An electron enters a uniform magnetic field
+at
+a 45° angle to 
+Determine the radius r and pitch p (distance
+between loops) of the electron’s helical path assuming its
+speed is 
+See Fig. 20–68.
+3.0 * 106 ms.
+B
+B.
+B = 0.23 T
+84. Suppose the Earth’s magnetic field at the equator has
+magnitude 
+and a northerly direction at all
+points. Estimate the speed a singly ionized uranium ion
+would need to circle the Earth 6.0 km
+above the equator. Can you ignore gravity? [Ignore relativity.]
+(m = 238 u,  q = ±e)
+0.50 * 10–4 T
+89. Three long parallel wires are 3.8 cm from one another.
+(Looking along them, they are at three corners of an equi-
+lateral triangle.) The current in each wire is 8.00 A, but i

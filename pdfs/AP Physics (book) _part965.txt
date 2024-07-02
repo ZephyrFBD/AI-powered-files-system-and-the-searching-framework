@@ -1,0 +1,56 @@
+es of stress for various
+types of material. They are, however, representative values only, and the actual
+value for a given specimen can differ considerably. It is therefore necessary to
+maintain a safety factor of from 3 to perhaps 10 or more—that is, the actual
+stresses on a structure should not exceed one-tenth to one-third of the values
+given in the Table. You may encounter tables of “allowable stresses”in which appro-
+priate safety factors have already been included.
+SECTION 9–6
+Fracture
+245
+TABLE 9–2 Ultimate Strengths of Materials (force/area)
+Tensile Strength Compressive Strength Shear Strength
+Material
+(
+)
+(
+)
+(
+)
+Iron, cast
+Steel
+Brass
+Aluminum
+Concrete
+Brick
+Marble
+Granite
+Wood (pine) (parallel to grain) 
+(perpendicular to grain)
+Nylon
+Bone (limb)
+170 * 106
+130 * 106
+500 * 106
+10 * 106
+5 * 106
+35 * 106
+40 * 106
+170 * 106
+80 * 106
+35 * 106
+2 * 106
+20 * 106
+2 * 106
+200 * 106
+200 * 106
+200 * 106
+200 * 106
+250 * 106
+250 * 106
+250 * 106
+500 * 106
+500 * 106
+170 * 106
+550 * 106
+170

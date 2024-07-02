@@ -1,0 +1,17 @@
+spheres together without leaving some void spaces between the spheres. Packing efficiency is the 
+fraction of space in a crystal that is actually occupied by atoms. Determine the packing efficiency of a face-centered cubic metal.
+Sample Exercise 12.1 
+Calculating Packing Efficiency
+SOLUTION
+Analyze We must determine the volume taken up by the atoms 
+that reside in the unit cell and divide this number by the volume 
+of the unit cell.
+Plan We can calculate the volume taken up by atoms by multiply-
+ing the number of atoms per unit cell by the volume of a sphere, 
+4pr3>3. To determine the volume of the unit cell, we must first 
+identify the direction along which the atoms touch each other. 
+We can then use geometry to express the length of the cubic unit 
+cell edge, a, in terms of the radius of the atoms. Once we know the 
+edge length, the cell volume is simply a3.
+Solve As shown in Figure 12.12, a face-centered cubic metal has 
+four atoms per unit cell. Therefore, the volume occupied by t

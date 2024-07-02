@@ -1,0 +1,39 @@
+-ray CT scans, whose images
+reflect shape and structure—that is, the anatomy of the imaged region.
+Figure 31–22 shows PET scans of the same person’s brain (a) when using a
+cell phone near the ear and (b) with the cell phone off. The bright red spots in (a)
+indicate a higher rate of glucose metabolism, suggesting excitability of brain
+tissue (the glucose was tagged with a radioactive tracer). Emfs from the cell
+phone antenna thus seem to affect metabolism and may be harmful to us!
+The colors shown here are faked (only visible light has colors). The original
+images are various shades of gray, representing intensity (or counts).
+A3 * 108 msBA300 * 10–12 sB L 10 cm,
+d = vt L
+Ac = 3 * 108 msB,
+g
+&300 ps,
+g
+e–
+e±
+(180°60.25°)
+g
+A= me c2B.
+Ae± + e– S 2gB,
+g
+b±
+FIGURE 31–21 Positron emission
+tomography (PET) system showing
+a ring of detectors to detect the two
+annihilation 
+rays 
+emitted at 
+to each other.
+180°
+Ae± + e– S 2gB
+g
+Ring of
+detectors
+
+
+FIGURE 31–22 False-color PET
+scans of a ho

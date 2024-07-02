@@ -1,0 +1,21 @@
+, see Section 32–3) have often been
+observed to collide and disappear, producing pure electromagnetic radiation. The
+amount of electromagnetic energy produced is found to be exactly equal to that
+predicted by Einstein’s formula,
+The reverse process is also commonly
+observed in the laboratory: electromagnetic radiation under certain conditions can
+be converted into material particles such as electrons (see Section 27–6 on pair
+production). On a larger scale, the energy produced in nuclear power plants is
+a result of the loss in mass of the uranium fuel as it undergoes the process called
+fission (Chapter 31). Even the radiant energy we receive from the Sun is an
+example of 
+the Sun’s mass is continually decreasing as it radiates
+electromagnetic energy outward.
+The relation
+is now believed to apply to all processes, although the
+changes are often too small to measure. That is, when the energy of a system
+changes by an amount 
+the mass of the system changes by an amount 
+given by
+(26–8)
+In

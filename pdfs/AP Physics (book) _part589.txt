@@ -1,0 +1,18 @@
+ork on the nail:
+and is positive. The decrease in kinetic energy of the
+hammer (
+by Eq. 6–4) is equal to the work the hammer can do on another
+object, the nail in this case.
+The translational kinetic energy 
+is directly proportional to the mass
+of the object, and it is also proportional to the square of the speed. Thus, if the
+mass is doubled, the kinetic energy is doubled. But if the speed is doubled, the
+object has four times as much kinetic energy and is therefore capable of doing four
+times as much work.
+Because of the direct connection between work and kinetic energy, energy is
+measured in the same units as work: joules in SI units. [The energy unit is ergs in
+the cgs, and foot-pounds in the British system.] Like work, kinetic energy is a
+scalar quantity. The kinetic energy of a group of objects is the sum of the kinetic
+energies of the individual objects.
+The work-energy principle can be applied to a particle, and also to an object
+that can be approximated as a particle, such as 

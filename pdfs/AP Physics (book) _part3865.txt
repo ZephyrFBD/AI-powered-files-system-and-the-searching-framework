@@ -1,0 +1,107 @@
+
+–v.
+t
+y = y¿,  z = z¿
+g
+x = gAx¿ + vt¿B.
+c + v
+uœ
+x = c
+S¿
+ux = uœ
+x + v.
+uœ
+x
+S¿
+uz = uœ
+z.
+uy = uœ
+y
+ux = uœ
+x + v
+uœ
+z = uz ,
+uœ
+y = uy
+=
+¢x¿
+¢t¿ + v = uœ
+x + v.
+=
+Axœ
+2 - xœ
+1B + vAtœ
+2 - tœ
+1B
+tœ
+2 - tœ
+1
+ux =
+¢x
+¢t
+= x2 - x1
+t2 - t1
+=
+Axœ
+2 + vtœ
+2B - Axœ
+1 + vtœ
+1B
+tœ
+2 - tœ
+1
+S¿
+uz.
+ux, uy,
+uœ
+x = xœ
+2 - xœ
+1
+tœ
+2 - tœ
+1
+=
+¢x¿
+¢t¿
+.
+xœ
+2 ,
+tœ
+2 ,
+xœ
+1
+tœ
+1
+S¿
+uœ
+z = ¢z¿¢t¿,
+uœ
+x = ¢x¿¢t¿, uœ
+y = ¢y¿¢t¿,
+uœ
+z
+uœ
+x, uœ
+y,
+S¿
+† We are not assuming is
+as in Chapter 26. Our minds are open. Let’s see.
+121 - v2c2,
+g
+Then after a time it will have traveled along the x axis a distance 
+(in S),
+or 
+(in 
+). Therefore, from Eqs.(i) and (ii) above,
+(iii)
+(iv)
+From Eq. (iv),
+and we substitute this into Eq. (iii) and find
+We cancel out the on each side
+and solve for to find
+We have found that is, in fact, the value for we used in Chapter 26, Eq. 26–2.
+Now that we have found 
+we need only find the relation between and 
+To do so, we combine 
+with 
+We solve for , doing some algebra, and fi

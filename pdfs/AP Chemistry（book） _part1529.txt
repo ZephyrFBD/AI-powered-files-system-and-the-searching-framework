@@ -1,0 +1,24 @@
+he Lewis structures from parts (a) and (b)? Would you ex-
+pect the molecule to be planar for both Lewis structures? 
+(f) The six B¬N bonds in the borazine molecule are all 
+identical in length at 1.44 Å. Typical values for the bond 
+lengths of B¬ N single and double bonds are 1.51 Å and 
+1.31 A
+° , respectively. Does the value of the B¬N bond 
+length seem to favor one Lewis structure over the other? 
+(g) How many electrons are in the p system of borazine?
+ 9.104 
+The highest occupied molecular orbital of a molecule is 
+abbreviated as the HOMO. The lowest unoccupied molec-
+ular orbital in a molecule is called the LUMO. Experimen-
+tally, one can measure the difference in energy between 
+the HOMO and LUMO by taking the electronic absorp-
+tion (UV-visible) spectrum of the molecule. Peaks in the 
+electronic absorption spectrum can be labeled as p
+2p9p
+2p*, 
+s
+2s9s
+2s*, and so on, corresponding to electrons being pro-
+moted from one orbital to another. The HOMO-LUMO tran-
+sition corresponds 

@@ -1,0 +1,30 @@
+of energy, we often use kilojoules (kJ) in discuss-
+ing the energies associated with chemical reactions. For example, the amount of heat 
+released when hydrogen and oxygen react to form 1 g of water is 16 kJ.
+It is still quite common in chemistry, biology, and biochemistry to find energy 
+changes associated with chemical reactions expressed in the non-SI unit of calories. A 
+calorie (cal) was originally defined as the amount of energy required to raise the tem-
+perature of 1 g of water from 14.5 to 15.5 °C. It has since been defined in terms of a joule:
+1 cal = 4.184 J (exactly)
+A related energy unit that is familiar to anyone who has read a food label is the 
+ 
+nutritional Calorie (note the capital C), which is 1000 times larger than calorie with a 
+lowercase c: 1 Cal = 1000 cal = 1 kcal.
+ 
+SECTION 1.5   
+Units of Measurement 
+23
+ 
+ 
+rearranging to solve for the mass of water:
+m =
+w
+g * d =
+4.1 * 108 J
+(9.8 m/s2)(75 m)
+=
+4.1 * 108 kg@m2/s2
+(9.8 m/s2)(75 m)
+= 5.6 * 105 kg
+ 
+At 25 °C, t

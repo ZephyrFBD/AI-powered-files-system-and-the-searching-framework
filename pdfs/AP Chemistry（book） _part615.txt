@@ -1,0 +1,27 @@
+ needed to make 450 mL of 0.10 M H2SO4?
+SOLUTION
+Analyze We need to dilute a concentrated solution. We are given the 
+molarity of a more concentrated solution (3.0 M) and the volume 
+and molarity of a more dilute one containing the same solute (450 mL 
+of 0.10 M solution). We must calculate the volume of the concen-
+trated solution needed to prepare the dilute solution.
+Plan We can calculate the number of moles of solute, H2SO4, in 
+the dilute solution and then calculate the volume of the concen-
+trated solution needed to supply this amount of solute. Alterna-
+tively, we can directly apply Equation 4.33. Let’s compare the two 
+methods.
+Solve 
+Calculate the moles of H2SO4 in the  
+dilute solution:
+Moles H2SO4 in dilute solution = 10.450 L soln2a
+0.10 mol H2SO4
+1 L soln
+b
+ = 0.045 mol H2SO4
+Calculate the volume of the concentrated 
+solution that contains 0.045 mol H2SO4:
+Liters conc soln = 10.045 mol H2SO42a
+1 L soln
+3.0 mol H2SO4
+b = 0.015 L soln
+If we apply Equation 4.33, we get the sa

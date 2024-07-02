@@ -1,0 +1,20 @@
+ture 
+gets more intense as I2 forms. Thus, visible light of appropriate wave-
+length can be used to monitor the reaction (Figure 14.4).
+Figure 14.5 shows the components of a spectrometer. The spec-
+trometer measures the amount of light absorbed by the sample by 
+comparing the intensity of the light emitted from the light source with 
+the intensity of the light transmitted through the sample, for various 
+wavelengths. As the concentration of I2 increases and its color becomes 
+more intense, the amount of light absorbed by the reaction 
+mixture increases, as Figure 14.4 shows, causing less light to 
+reach the detector.
+How can we relate the amount of light detected by the spec-
+trometer to the concentration of a species? A relationship called 
+Beer’s law gives us a direct route to the information we seek. Beer’s 
+law connects the amount of light absorbed to the concentration 
+of the absorbing substance:
+            
+A = ebc 
+[14.5]
+In this equation, A is the measured absorbance, e is the

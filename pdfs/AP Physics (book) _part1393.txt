@@ -1,0 +1,15 @@
+ equal intervals. For temperatures
+below the freezing point of water and above the boiling point of water, the scales
+may be extended using the same equally spaced intervals. However, thermome-
+ters can be used only over a limited temperature range because of their own
+limitations—for example, an alcohol-in-glass thermometer is rendered useless above
+temperatures where the alcohol vaporizes. For very low or very high temperatures,
+specialized thermometers are required, some of which we will mention later.
+Every temperature on the Celsius scale corresponds to a particular temperature
+on the Fahrenheit scale, Fig. 13–7. To convert from one to the other, remember
+that 0°C corresponds to 32°F and that a range of 100° on the Celsius scale corre-
+sponds to a range of 180° on the Fahrenheit scale. Thus, one Fahrenheit degree (1 F°)
+corresponds to 
+of a Celsius degree (1 C°). That is,
+(Notice that when we refer to a specific temperature, we say “degrees Celsius,”
+as in 20°C; but when we refer 

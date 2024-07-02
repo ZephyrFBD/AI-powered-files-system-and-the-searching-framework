@@ -1,0 +1,52 @@
+s
+v = 50 kmh
+r = 50 m
+u:
+tan u =
+v2
+rg
+.
+mg
+cos u sin u = m v2
+r
+F
+N sin u = m v2
+r
+,
+F
+N
+cos u  1.
+F
+N  mg
+F
+N =
+mg
+cos u
+.
+F
+N cos u - mg = 0
+©F
+y = may
+ay = 0
+F
+N
+F
+N
+aR,
+50 kmh?
+EXAMPLE 5;7
+5–4 Nonuniform Circular Motion
+Circular motion at constant speed occurs when the net force on an object is
+exerted toward the center of the circle. If the net force is not directed toward the
+center but is at an angle, as shown in Fig. 5–15a, the force has two components.
+The component directed toward the center of the circle,
+gives rise to the cen-
+tripetal acceleration,
+and keeps the object moving in a circle. The component
+tangent to the circle,
+acts to increase (or decrease) the speed, and thus gives
+rise to a component of the acceleration tangent to the circle,
+When the speed
+of the object is changing, a tangential component of force is acting.
+When you first start revolving a ball on the end of a string around your head,
+you must give it tangential acceleration. You do this by pulling 

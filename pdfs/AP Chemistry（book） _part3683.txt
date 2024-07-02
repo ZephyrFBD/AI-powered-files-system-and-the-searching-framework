@@ -1,0 +1,24 @@
+CO is col-
+orless and odorless, CO poisoning occurs with very little warning. Improperly venti-
+lated combustion devices, such as kerosene lanterns and stoves, thus pose a potential 
+health hazard.
+Go Figure
+What is the coordination number of iron in the heme unit shown 
+here? What is the identity of the blue donor atoms in the heme?
+Heme
+Protein (globin)
+O
+O
+N
+HN
+▲ Figure 23.15 Coordination sphere of the hemes in oxymyoglobin and oxyhemoglobin.
+A Closer look Entropy and the Chelate Effect
+We learned in Section 19.5 that chemical processes are favored by 
+positive entropy changes and by negative enthalpy changes. The spe-
+cial stability associated with the formation of chelates, called the che-
+late effect, can be explained by comparing the entropy changes that 
+occur with monodentate ligands with the entropy changes that occur 
+with polydentate ligands.
+We begin with the reaction in which two H2O ligands of 
+the square-planar Cu(II) complex 3Cu(H2O)442+ are replaced by 
+monodentate NH

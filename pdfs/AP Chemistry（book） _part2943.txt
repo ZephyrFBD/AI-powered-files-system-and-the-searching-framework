@@ -1,0 +1,23 @@
+e proposed change in pH, we can calculate the change in proton 
+concentration needed and then figure out how much CaO is needed.
+Solve
+(a) The carbonate ion, which is the anion of a weak acid, is basic 
+ (Sections 16.2 and 16.7) and so reacts with H+1aq2. If 
+the concentration of H+1aq2 is low, the major product is the 
+bicarbonate ion, HCO3
+-. If the concentration of H+1aq2 is 
+high, H2CO3 forms and decomposes to CO2 and H2O.  
+ (Section 4.3)
+(b) The initial and ﬁnal concentrations of H+1aq2 in the lake are 
+obtained from their pH values:
+3H+4initial = 10-5.0 = 1 * 10-5 M
+[H+]final = 10-6.5 = 3 * 10-7 M
+Using the lake volume, we can calculate the number of moles 
+of H+1aq2 at both pH values:
+ 11 * 10-5 mol>L214.0 * 109 L2 = 4 * 104 mol
+ 13 * 10-7 mol>L214.0 * 109 L2 = 1 * 103 mol
+Hence, the change in the amount of H+1aq2 is 
+4 * 104 mol - 1 * 103 mol ≈4 * 104 mol.
+Let’s assume that all the acid in the lake is completely 
+ionized, so that only the free H+1aq2 contributing to the pH 
+ne

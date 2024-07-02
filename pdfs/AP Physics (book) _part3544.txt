@@ -1,0 +1,51 @@
+
+amount of deuterium needed to run this facility per year.
+72. If a 65-kg power plant worker has been exposed to the maxi-
+mum slow-neutron radiation for a given year, how much
+total energy (in J) has that worker absorbed? What if he
+were exposed to fast protons?
+73. Consider the fission reaction
+(a) What is X? (b) If this were part of a chain reaction in a
+fission power reactor running at “barely critical,” what
+would happen on average to the three produced neutrons?
+(c) (optional) What is the Q-value of this reaction? [Hint: Mass
+values can be found at www.nist.gov/pml/data/comp.cfm.]
+n +  92
+235U S
+38
+92Sr + X + 3n.
+g
+b
+b–
+ 55
+137Cs
+1.2-mCi  55
+137Cs
+2
+4He + 2
+4He + 2
+4He S
+ 6
+12C.
+2.0 * 107 Ci
+3.6-mSvyr
+19
+40K,
+0.10 mCi
+12
+24Mg
+ 6
+12C
+ 92
+235U.
+44°
+180-m2
+General Problems
+914
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation
+74. A large amount of 
+was released during the Chernobyl
+nuclear reactor accident in 1986. The 
+enters the body
+through the food chain. How long will i

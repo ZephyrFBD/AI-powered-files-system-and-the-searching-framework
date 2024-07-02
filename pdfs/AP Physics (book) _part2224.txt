@@ -1,0 +1,23 @@
+ll.
+20–8 Ampère’s Law
+The relation between the current in a long straight wire and the magnetic field it
+produces is given by Eq. 20–6, Section 20–5. This equation is valid only for a long
+straight wire. Is there a general relation between a current in a wire of any 
+shape and the magnetic field around it? Yes: the French scientist André Marie 
+Ampère (1775–1836) proposed such a relation shortly after Oersted’s discovery.
+Consider any (arbitrary) closed path around a current, as shown in Fig. 20–30, and
+imagine this path as being made up of short segments each of length 
+We 
+take the product of the length of each segment times the component of magnetic
+field 
+parallel to that segment. If we now sum all these terms, the result (accord-
+ing to Ampère) will be equal to 
+times the net current 
+that passes through
+the surface enclosed by the path. This is known as Ampère’s law and can be written
+(20;9)
+The symbol 
+means “the sum of” and 
+means the component of 
+parallel to
+that particular 

@@ -1,0 +1,29 @@
+atterns of dominance. The table below
+shows floral phenotypes in a small garden in an isolated greenhouse, where the dominant phenotypes are the most
+plentiful and researchers assume the population is in Hardy-Weinberg equilibrium.
+Table 1. Population of various floral phenotypes
+Phenotype
+#
+White
+4900
+Pink
+400
+Ruffled
+700
+Slotted
+4600
+45. A true-breeding white nettle is crossed with a true-breeding pink nettle. What will be the ratio of the offspring?
+(A) 100% White
+(B) 3 White: 1 Pink
+(C) 1 White: 1 Pink
+(D) 1 White: 3 Pink
+46. The F1 generation shown in Table 1 was crossed with a true-breeding pink nettle. What percentage of
+offspring would have pink flowers?
+(A) 0%
+(B) 25%
+(C) 50%
+(D) 100%
+47. A cross is performed between one nettle that is known to be heterozygous for both traits and a nettle that is
+pink and ruffled. Which of the following would lead researchers to believe the traits are linked?
+(A) Several white flowers are identified with ruffled petals.
+(B) Nearly all white fl

@@ -1,0 +1,113 @@
+voltage,
+as shown 
+in Fig. 21–45 where it is seen that 
+makes an angle 
+with 
+and 
+As time
+passes,
+rotates with the other vectors, so the instantaneous voltage V (projec-
+tion of 
+on the x axis) is (see Fig. 21–45)
+The voltage V across the whole circuit must equal the source voltage (Fig. 21–43).
+Thus the voltage from the source is out of phase with the current by an angle 
+From this analysis we can now determine the total impedance Z of the
+circuit, which is defined in analogy to resistance and reactance as
+(21;14)
+From Fig. 21–45 we see, using the Pythagorean theorem (
+is the hypotenuse of a
+V
+0
+V
+rms = I
+rmsZ,  
+or  
+V
+0 = I
+0 Z.
+f.
+V = V
+0 cos(2pft + f).
+V
+0
+V
+0
+V
+R0.
+I
+0
+f
+V
+0
+V
+0 ,
+I = I
+0 cos 2pft.
+t
+2pft.
+t
+V
+C0
+V
+C0
+V
+R0
+V
+L0
+I
+0 .
+(t = 0)
+V
+R0
+V
+R0 = I
+0 R,  V
+L0 = I
+0 X
+L,  and  V
+C0 = I
+0 X
+C .
+I = I
+0 cos 2pft.
+t
+(t = 0)
+*
+V
+R0 + V
+L0 + V
+C0 .
+V
+0
+V = V
+R + V
+L + V
+C.
+V
+C0
+V
+L0 ,
+V
+R0 ,
+V
+C
+V
+L,
+V
+R,
+X
+C = 0,
+X
+L = 0,
+R = 0,
+*
+C
+L
+V
+R
+y
+x
+VL0 = I0XL
+VR0 = I0R
+VC0 = I0XC
+I0

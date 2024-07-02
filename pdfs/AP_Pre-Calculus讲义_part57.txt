@@ -1,0 +1,86 @@
+s function is not one-to-one because f (x1) = f (x2). 
+ 
+Example 1 
+Is the function f(x) = x3 one-to-one? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5.2 The Inverse of a Function 
+ 
+81 
+Let f be a one-to-one function with domain A and range B. Then its inverse function f-1 
+has domain B and range A and is defined by  
+( )
+( )
+1
+f
+y
+x
+f x
+y
+-
+=
+Û
+=
+ 
+ 
+ 
+Example 2 
+If f(1) =5, f(3) =7, and f(8) =10, find f-1(5), f-1(7) and f-1(10). 
+ 
+ 
+ 
+ 
+ 
+INVERSE FUNCTION PROPERTY 
+Let f be a one-to-one function with domain A and range B. The inverse function f-1 satisfies 
+the following cancellation properties: 
+( )
+(
+)
+( )
+(
+)
+1
+1
+for every  in 
+for every  in 
+f
+f x
+x
+x
+A
+f f
+x
+x
+x
+B
+-
+-
+=
+=
+ 
+HOW TO FIND THE INVERSE OF A ONE-TO-ONE FUNCTION 
+1. Write y = f(x). 
+2. Solve this equation for x in terms of y (if possible). 
+3. Interchange x and y. The resulting equation is y=f-1(x). 
+ 
+ 
+ 
+ 
+ 
+Example 3 
+ 
+82 
+Find the inverse of the function f(x) = 3x -2. 
+ 
+ 
+ 
+ 
+ 
+2.5.3 Graphing the Inverse of a Function 
+If f (a) = b, then

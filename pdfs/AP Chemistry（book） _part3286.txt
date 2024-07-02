@@ -1,0 +1,17 @@
+ battery is an example of a primary 
+cell battery. Lead–acid, nickel–cadmium, nickel–metal hydride, 
+and lithium-ion batteries are examples of secondary cells. Fuel 
+cells are voltaic cells that utilize redox reactions in which reactants 
+such as H2 have to be continuously supplied to the cell to generate 
+voltage.
+CORROSION (SECTION 20.8) Electrochemical principles help us 
+understand corrosion, undesirable redox reactions in which a metal 
+is attacked by some substance in its environment. The corrosion of 
+iron into rust is caused by the presence of water and oxygen, and it 
+is accelerated by the presence of electrolytes, such as road salt. The 
+protection of a metal by putting it in contact with another metal that 
+more readily undergoes oxidation is called cathodic protection. Galva-
+nized iron, for example, is coated with a thin layer of zinc; because 
+zinc is oxidized more readily than iron, the zinc serves as a sacrificial 
+anode in the redox reaction.
+ELECTROLYSIS (SECTION 20.9

@@ -1,0 +1,13 @@
+nding of two different alleles produces an intermediate phenotype
+(incomplete dominance).
+Multiple Alleles
+In the blood group that produces A, B, and O blood types, there are three possible alleles, represented by IA, IB, or i.
+Superscripts are used because the two alleles, A and B, are codominant. A lowercase i is used for the third
+allele because it is recessive when expressed with IAor IB. There are six possible genotypes representing all possible
+combinations of two alleles: IA
+IA and IA i (A blood type), IBIBand IBi (B blood type), IAIB(AB blood type), and ii (O blood type). The four
+phenotypes (A, B, AB, and O types) correspond to the presence or absence of an A or B sugar component attached
+to proteins of the plasma membrane of red blood cells. Thus, the
+IA IAand IA i genotypes have proteins with the A sugar attached, the IB IB
+and IBi genotypes have proteins with the B sugar attached, and the IAIB genotype has both kinds of proteins, half
+with the A sugar attached and half with

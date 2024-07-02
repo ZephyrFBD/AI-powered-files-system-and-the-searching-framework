@@ -1,0 +1,41 @@
+lic acid (a carboxylate anion) can exhibit resonance 
+ (Section 8.6), which contributes to the stability of the anion by spreading the nega-
+tive charge over several atoms:
+resonance
+O
+O
+O
+H
+H
+H
+C
+H
+H
+H
+C
+C
+O
+C
+−
+−
+Give It Some Thought
+Is a carboxylate salt likely to produce acidic or basic solutions in water?
+Amino acids contain a carboxyl group and can therefore serve as 
+acids. They also contain an NH2 group, characteristic of amines (Sec-
+tion 16.7), and thus they can also act as bases. Amino acids, therefore, 
+are amphiprotic. For glycine, we might expect the acid and base reac-
+tions with water to be
+Acid: H2N ¬CH2¬ COOH1aq2 + H2O1l2 ∆
+ 
+ 
+ H2N ¬ CH2¬COO-1aq2 + H3O+1aq2 
+[16.48]
+Base: H2N ¬ CH2¬COOH1aq2 + H2O1l2 ∆
+ 
+ 
++H3N ¬CH2¬ COOH1aq2 + OH -1aq2 
+[16.49]
+The pH of a solution of glycine in water is about 6.0, indicating that it 
+is a slightly stronger acid than base.
+The acid–base chemistry of amino acids is more complicated 
+than shown in Equations 16.48 and 16.49, however. Be

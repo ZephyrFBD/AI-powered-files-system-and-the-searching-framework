@@ -1,0 +1,31 @@
+58  Both Jacques Charles and Joseph Louis Guy-Lussac were avid 
+balloonists. In his original flight in 1783, Jacques Charles 
+used a balloon that contained approximately 31,150 L of H2. 
+He generated the H2 using the reaction between iron and hy-
+drochloric acid:
+ 
+ 
+Fe1s2 + 2 HCl1aq2 ¡  FeCl21aq2 + H21g2
+ 
+ How many kilograms of iron were needed to produce this 
+volume of H2 if the temperature was 22 °C?
+ 10.59 Hydrogen gas is produced when zinc reacts with sulfuric acid:
+ 
+ 
+Zn1s2 + H2SO41aq2 ¡ ZnSO41aq2 + H21g2
+ 
+ If 159 mL of wet H2 is collected over water at 24 °C and a 
+barometric pressure of 738 torr, how many grams of Zn have 
+been consumed? (The vapor pressure of water is tabulated in 
+Appendix B.)
+ 10.60  Acetylene gas, C2H21g2, can be prepared by the reaction of 
+calcium carbide with water:
+ 
+ 
+CaC21s2 + 2 H2O1l2 ¡ Ca1OH221aq2 + C2H21g2
+ 
+Exercises 
+429
+ 
+ Calculate the volume of C2H2 that is collected over water at 
+23 °C by reaction of 1.524 g of CaC2 if the total pressure

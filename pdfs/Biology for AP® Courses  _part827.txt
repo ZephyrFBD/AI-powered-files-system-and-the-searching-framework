@@ -1,0 +1,11 @@
+ned between the two compartments separated by the inner
+mitochondrial membrane.
+Q and Complex II
+Complex II directly receives FADH2, which does not pass through complex I. The compound connecting the first and
+second complexes to the third is ubiquinone (Q). The Q molecule is lipid soluble and freely moves through the hydrophobic
+core of the membrane. Once it is reduced, (QH2), ubiquinone delivers its electrons to the next complex in the electron
+transport chain. Q receives the electrons derived from NADH from complex I, and the electrons derived from FADH2 from
+complex II. This enzyme and FADH2 form a small complex that delivers electrons directly to the electron transport chain,
+bypassing the first complex. Since these electrons bypass and thus do not energize the proton pump in the first complex,
+fewer ATP molecules are made from the FADH2 electrons. The number of ATP molecules ultimately obtained is directly
+proportional to the number of protons pumped across the inner mitochondria

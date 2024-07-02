@@ -1,0 +1,17 @@
+king A method of stiffening polymers by introducing 
+chemical bonds between chains. (Section 12.8)
+crystal-field theory A theory that accounts for the colors and the 
+magnetic and other properties of transition-metal complexes in 
+terms of the splitting of the energies of metal ion d orbitals by 
+the electrostatic interaction with the ligands. (Section 23.6)
+crystal lattice The geometrical pattern of points on which the 
+unit cells are arranged; in effect, an abstract (that is, not real) 
+scaffolding for the crystal structure. (Section 12.2)
+crystalline solid (crystal) A solid whose internal arrangement of 
+atoms, molecules, or ions possesses a regularly repeating pattern 
+in any direction through the solid. (Section 12.2)
+crystallinity A measure of the extent of short-range ordering in a 
+polymer where chains line up in regular arrays. (Section 12.8)
+crystallization The process in which molecules, ions, or atoms 
+come together to form a crystalline solid. The opposite of the 
+solution

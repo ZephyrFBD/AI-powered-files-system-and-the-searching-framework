@@ -1,0 +1,42 @@
+rn =
+nh
+2p
+.
+2prn = nhmv,
+l = hmv,
+2prn = nl,   n = 1, 2, 3, p .
+2prn,
+rn
+l =
+h
+mv
+.
+n = 100,000,000
+n = 2,
+n = 1
+SECTION 27–13
+de Broglie’s Hypothesis Applied to Atoms
+795
+FIGURE 27–30 (a) An ordinary
+standing wave compared to a
+circular standing wave. (b) When a
+wave does not close (and hence
+interferes destructively with itself),
+it rapidly dies out.
+FIGURE 27–31 Standing circular
+waves for two, three, and five
+wavelengths on the circumference;
+n, the number of wavelengths, is
+also the quantum number.
+(a)
+(b)
+n  5
+n  3
+n  2
+Now we have a first explanation for the quantized orbits and energy states in the
+Bohr model: they are due to the wave nature of the electron, and only resonant
+“standing” waves can persist.† This implies that the wave–particle duality is at 
+the root of atomic structure.
+In viewing the circular electron waves of Fig. 27–31, the electron is not to be
+thought of as following the oscillating wave pattern. In the Bohr model of hydrogen,
+the electron moves in a 

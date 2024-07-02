@@ -1,0 +1,50 @@
+CONCEPTUAL EXAMPLE 11;15
+FIGURE 11–45 Wave diffraction.
+In (a) the waves pass through a slit
+and into the “shadow region” behind.
+In (b) the waves are coming from 
+the upper left. As they pass an 
+obstacle, they bend around it into the
+shadow region behind it.
+(a)
+(b)
+Summary
+319
+l
+x
+y
+wave at
+time t
+wave at
+t = 0
+A
+vt
+−A
+FIGURE 11–48 A traveling wave. In
+time , the wave moves a distance v .
+t
+t
+A
+0
+x
+y
+l
+l
+FIGURE 11–47 The characteristics
+of a single-frequency wave at
+(just as in Fig. 11–24).
+t = 0
+An oscillating (or vibrating) object undergoes simple harmonic
+motion (SHM) if the restoring force is proportional to (the
+negative of) the displacement,
+(11;1)
+The maximum displacement from equilibrium is called the
+amplitude.
+The period, T, is the time required for one complete cycle
+(back and forth), and the frequency, f, is the number of cycles
+per second; they are related by
+(11;2)
+The period of oscillation for a mass m on the end of a
+spring is given by
+(11;6a)
+SHM is sinusoidal, whic

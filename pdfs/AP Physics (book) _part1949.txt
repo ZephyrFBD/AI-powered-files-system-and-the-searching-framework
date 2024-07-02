@@ -1,0 +1,17 @@
+inst even low resistance in any
+normal conductor. We can control the flow of charge using electric fields and
+electric potential (voltage), concepts we have just been discussing. In order to
+have a current in a wire, a potential difference is needed, which can be provided
+by a battery.
+We first look at electric current from a macroscopic point of view. Later in
+the Chapter we look at currents from a microscopic (theoretical) point of view as
+a flow of electrons in a wire.
+18–1 The Electric Battery
+Until the year 1800, the technical development of electricity consisted mainly of
+producing a static charge by friction. It all changed in 1800 when Alessandro
+Volta (1745–1827; Fig. 18–1) invented the electric battery, and with it produced
+the first steady flow of electric charge—that is, a steady electric current.
+The events that led to the discovery of the battery are interesting. Not only
+was this an important discovery, but it also gave rise to a famous scientific 
+debate.
+In the 1780s, 

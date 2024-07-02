@@ -1,0 +1,13 @@
+ial. Since water flows from areas of higher water potential to areas of lower water potential, water will
+flow from hypotonic solutions (which have a higher water potential) to hypertonic solutions (which have a lower
+water potential).
+Calculating Water Potential
+The water potential of a solution has two components: a component that depends on the amount of solute and a
+component that depends on pressure, as shown in the following equation:
+ψs is the water potential due to the solute concentration (solute potential). ψp is the water potential due to the
+pressure on the system (pressure potential).
+TIP
+You do not need to memorize the formula for water potential; it will be on the AP Biology Equations and Formulas sheet.
+When you drink a liquid through a straw, you are using negative pressure potential. As you suck air from the
+straw, you create a negative pressure in the straw. The liquid in your drink then moves from an area of higher
+pressure potential (in the cup) into an area of low

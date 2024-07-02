@@ -1,0 +1,45 @@
+ 3.
+Another important case is that of an object moving in a circle, such as a ball at the
+end of a string being swung in a circle above one’s head, or the nearly circular
+motion of the Moon about the Earth.
+C
+H
+A
+P
+T
+E
+R
+Circular Motion;
+Gravitation
+109
+CONTENTS
+5–1 Kinematics of Uniform 
+Circular Motion
+5–2 Dynamics of Uniform 
+Circular Motion
+5–3 Highway Curves: Banked and
+Unbanked
+*5–4
+Nonuniform Circular Motion
+5–5 Newton’s Law of Universal
+Gravitation
+5–6 Gravity Near the 
+Earth’s Surface
+5–7
+Satellites and “Weightlessness”
+5–8 Planets, Kepler’s Laws, and
+Newton’s Synthesis
+5–9 Moon Rises an Hour Later
+Each Day
+5–10 Types of Forces in Nature
+5
+The astronauts in the upper left of
+this photo are working on a space
+shuttle. As they orbit the Earth—at
+a rather high speed—they experience
+apparent weightlessness. The Moon,
+in the background seen against the
+blackness of space, also is orbiting
+the Earth at high speed. Both the
+Moon and the space shuttle move 
+in nearly circular orbits, 

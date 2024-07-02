@@ -1,0 +1,25 @@
+o calculate the energy of 
+the photon emitted and then use the relationships E = hn and 
+c = nl to convert energy to wavelength. The photon with the 
+highest energy will have the shortest wavelength because photon 
+energy is inversely proportional to wavelength.
+Solve
+(a)  
+The wavelength of a photon is related to its energy through 
+the relationship E = hn = hc>l. Hence, the photon with the 
+smallest wavelength will have the largest energy. The energy 
+levels of the electron orbits decrease as n decreases.
+The electron loses the most energy on transitioning from the 
+ni = 4 state to the nf = 1 state, and the photon emitted in that 
+transition has the highest energy and the smallest wavelength.
+(b)  
+We first calculate the energy of the photon using Equation 6.6 
+with ni = 4 and nf = 1:
+∆E = -2.18 * 10-18 Ja 1
+1
+2 - 1
+42b = -2.04 * 10-18 J 
+Ephoton = - ∆E = 2.04 * 10-18 J
+Next we rearrange Planck’s relationship to calculate the fre-
+quency of the emitted photon.
+n = E>h = 12.04 * 10−18

@@ -1,0 +1,43 @@
+
+0.511 MeV.
+mc2 = A9.11 * 10–31 kgBA2.998 * 108 msB2A1.602 * 10–13 JMeVB =
+938 MeVc2,
+0.511 MeVc2
+MeVc2
+eVc2
+E = mc2
+MeVc
+eVc
+A106 eVB.
+1 MeV = 1.60 * 10–13 J
+= 8.70 * 10–13 J.
+¢E = A9.66 * 10–30 kgBA3.0 * 108 msB2
+¢E = ¢m c2,
+(0.00582 u)A1.66 * 10–27 kgB = 9.66 * 10–30 kg,
+228.02874 u + 4.00260 u = 232.03134 u,
+¢E = ¢mc2.
+c2
+A1 u = 1.6605 * 10–27 kgB.
+(m = 4.00260 u)
+(m = 228.02874 u)
+(m = 232.03716 u)
+EXAMPLE 26;10
+762
+CHAPTER 26
+The Special Theory of Relativity
+SECTION 26–9
+E = mc2; Mass and Energy
+763
+At low speeds,
+the relativistic formula for kinetic energy reduces to
+the classical one, as we now show by using the binomial expansion (Appendix A):
+keeping only two terms because
+is very 
+much less than 1. With 
+we expand the square root in Eq. 26–5a
+so that
+The dots in the first expression represent very small terms in the expansion which
+we neglect since we assumed that
+Thus at low speeds, the relativistic
+form for kinetic energy reduces to the classical form,
+This makes

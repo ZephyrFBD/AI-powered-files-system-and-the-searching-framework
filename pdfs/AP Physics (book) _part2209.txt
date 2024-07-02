@@ -1,0 +1,18 @@
+–21a,
+the inward magnetic field will exert a downward force on the electrons of mag-
+nitude
+where 
+is the drift velocity of the electrons (Section 18–8).
+Thus the electrons will tend to move nearer to side D than side C, causing a
+potential difference between sides C and D of the conductor. This potential
+difference builds up until the electric field 
+that it produces exerts a force
+on the moving charges that is equal and opposite to the magnetic force
+. This is the Hall effect, named after E. H. Hall who discovered it in 1879.
+The difference of potential produced is called the Hall emf. Its magnitude is
+where d is the width of the conductor.
+A current of negative charges moving to the right is equivalent to positive
+charges moving to the left, at least for most purposes. But the Hall effect can
+distinguish these two. As can be seen in Fig. 20–21b, positive particles moving to
+the left are deflected downward, so that the bottom surface is positive relative to
+the top surface. This is t

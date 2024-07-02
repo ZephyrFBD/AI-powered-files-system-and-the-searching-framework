@@ -1,0 +1,20 @@
+flected pulses plotted as a 
+function of time when received by 
+transducer. The vertical dashed lines 
+point out which reflected pulse goes 
+with which surface. (c) “Dot display”
+for the same echoes: brightness of 
+each dot is related to signal strength.
+P H Y S I C S  A P P L I E D
+Ultrasound medical imaging
+The detection of reflected pulses by the same transducer can then be displayed on
+the screen of a display monitor. The time elapsed from when the pulse is 
+emitted to when each reflection (echo) is received is proportional to the distance 
+to the reflecting surface. For example, if the distance from the transducer to the
+vertebra is 25 cm, the pulse travels a round-trip distance of
+The speed of sound in human tissue is about 
+(close to that of sea water),
+so the time taken is
+The strength of a reflected pulse depends mainly on the difference in density
+of the two materials on either side of the interface and can be displayed as a pulse
+or as a dot (Figs. 12–27b and c). Each echo d

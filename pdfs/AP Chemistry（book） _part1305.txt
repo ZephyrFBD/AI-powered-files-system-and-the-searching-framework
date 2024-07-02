@@ -1,0 +1,27 @@
+
+1
+32
+32
+2
+2
+2
+2
+2
+2
+1
+2
+The formal charges on the atoms are shown in red. In the left structure, the P atom obeys 
+the octet rule. In the right structure, however, the P atom has five electron pairs, leading 
+to smaller formal charges on the atoms. (You should be able to see that there are three 
+additional resonance structures for the Lewis structure on the right.)
+Chemists are still debating which of these two structures is dominant for PO4
+3 -. 
+Recent theoretical calculations based on quantum mechanics suggest to some research-
+ers that the left structure is the dominant one. Other researchers claim that the bond 
+lengths in the ion are more consistent with the right structure being dominant. This dis-
+agreement is a convenient reminder that, in general, multiple Lewis structures can con-
+tribute to the actual electron distribution in an atom or molecule.
+8.8 ∣  
+Strengths and Lengths  
+of Covalent Bonds
+The stability of a molecule is related to the strengths of its covalent bonds

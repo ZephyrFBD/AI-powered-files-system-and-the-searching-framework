@@ -1,0 +1,18 @@
+
+How is this experimentally observed temperature effect reflected 
+in the rate law? The faster rate at higher temperature is due to an 
+increase in the rate constant with increasing temperature. For example, 
+let’s reconsider the first-order reaction we saw in Figure 14.6 namely, 
+CH3NC ¡ CH3CN. Figure 14.13 shows the rate constant for this reac-
+tion as a function of temperature. The rate constant and, hence, the 
+rate of the reaction increase rapidly with temperature, approximately 
+doubling for each 10 °C rise.
+The Collision Model
+Reaction rates are affected both by reactant concentrations and 
+by temperature. The collision model, based on the kinetic- 
+molecular theory 
+ (Section 10.7), accounts for both of these effects 
+at the molecular level. The central idea of the collision model is that 
+molecules must collide to react. The greater the number of collisions 
+per second, the greater the reaction rate. As reactant concentration 
+increases, therefore, the number of collisions inc

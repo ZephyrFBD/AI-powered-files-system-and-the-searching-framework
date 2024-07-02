@@ -1,0 +1,19 @@
+ch case that 
+the H atom in the hydrogen bond interacts with a nonbonding electron pair.
+Hydrogen bonds can be considered a special type of dipole–dipole attraction. 
+Because N, O, and F are so electronegative, a bond between hydrogen and any of these 
+elements is quite polar, with hydrogen at the positive end (remember the + on the right-
+hand side of the dipole symbol represents the positive end of the dipole):
+H
+N
+H
+O
+H
+F
+The hydrogen atom has no inner electrons. Thus, the positive side of the dipole has 
+the concentrated charge of the nearly bare hydrogen nucleus. This positive charge is 
+attracted to the negative charge of an electronegative atom in a nearby molecule. Because 
+the electron-poor hydrogen is so small, it can approach an electronegative atom very 
+closely and, thus, interact strongly with it.
+Hydrogen bonding plays important roles in many chemical systems, especially those of 
+biological significance. For example, hydrogen bonding helps stabilize the three-dimensiona

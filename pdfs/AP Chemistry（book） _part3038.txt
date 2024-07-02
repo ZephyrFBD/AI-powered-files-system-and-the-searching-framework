@@ -1,0 +1,23 @@
+us molecules leads to a 
+decrease in the entropy of the system.
+Predict whether ∆S is positive or negative for each process, assuming each occurs at constant temperature:
+(a) H2O1l2 ¡ H2O1g2
+(b) Ag+1aq2 + Cl-1aq2 ¡ AgCl1s2
+(c) 4 Fe1s2 + 3 O21g2 ¡ 2 Fe2O31s2
+(d) N21g2 + O21g2 ¡ 2 NO1g2
+Sample Exercise 19.3 
+Predicting the Sign of ∆S
+SOLUTION
+Analyze We are given four reactions and asked to predict the sign 
+of ∆S for each.
+Plan We expect ∆S to be positive if there is an increase in tempera-
+ture, increase in volume, or increase in number of gas particles. 
+The question states that the temperature is constant, and so we 
+need to concern ourselves only with volume and number of 
+particles.
+Solve
+(a) Evaporation involves a large increase in volume as liquid 
+changes to gas. One mole of water (18 g) occupies about 18 mL 
+as a liquid, and if it could exist as a gas at STP it would occupy 
+22.4 L. Because the molecules are distributed throughout a 
+much larger volume in the gaseous state, an 

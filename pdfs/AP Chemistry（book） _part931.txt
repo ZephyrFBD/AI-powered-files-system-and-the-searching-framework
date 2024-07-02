@@ -1,0 +1,28 @@
+, n, l, and ml, which result nat-
+urally from the mathematics used to describe an orbital.
+1. The principal quantum number, n, can have positive integral values 1, 2, 3, . . . . As 
+n increases, the orbital becomes larger, and the electron spends more time  
+farther 
+from the nucleus. An increase in n also means that the electron has a higher 
+ 
+energy and is therefore less tightly bound to the nucleus. For the hydrogen atom, 
+En = -12.18 * 10 - 18 J211>n22, as in the Bohr model.
+Go Figure
+Where in the figure is the region of 
+highest electron density?
+y
+x
+High dot density, high c2 
+value, high probablility of 
+ﬁPFKPI eleEtroP KP thKs reIKoP
+Low dot density, low  c2 
+value, low probability of 
+ﬁPFKPI eleEtroP KP thKs reIKoP
+z
+▲ Figure 6.17 Electron-density distribution.  
+This rendering represents the probability, 
+c2, of finding the electron in a hydrogen 
+atom in its ground state. The origin of the 
+coordinate system is at the nucleus.
+ 
+SECTION 6.5  Quantum Mechanics and Atomic Orbi

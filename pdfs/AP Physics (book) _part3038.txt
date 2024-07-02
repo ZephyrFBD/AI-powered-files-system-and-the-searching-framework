@@ -1,0 +1,34 @@
+
+Electron
+collector
+Electronics
+and screen
+Secondary
+electrons
+Specimen
+Scanning
+coils
+(a)
+(b)
+(c)
+FIGURE 27–16 Electron micrographs,
+in false color, of (a) viruses attacking
+a cell of the bacterium Escherichia
+coli (TEM,
+(b) Same
+subject by an SEM 
+(c) SEM image of an eye’s retina
+(Section 25–2); the rods and cones
+have been colored beige and green,
+respectively. Part (c) is also on the
+cover of this book.
+(L 35,000*).
+L 50,000*).
+In both types, the objective and eyepiece lenses are actually magnetic fields that
+exert forces on the electrons to bring them to a focus. The fields are produced by
+carefully designed current-carrying coils of wire. Photographs using each type are
+shown in Fig. 27–16. EMs measure the intensity of electrons, producing mono-
+chromatic photos. Color is often added artificially to highlight.
+As discussed in Sections 25–7 and 25–8, the maximum resolution of details
+on an object is about the size of the wavelength of the radiation used to view it.
+Electrons accel

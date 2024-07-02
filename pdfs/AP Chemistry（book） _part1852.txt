@@ -1,0 +1,17 @@
+form 
+a series of bright and dark bands, known as a diffraction pattern. The 
+bright bands correspond to constructive overlapping of the light 
+waves, and the dark bands correspond to destructive overlapping of 
+the light waves. 
+ (Section 9.8, “Phases in Atomic and Molecular 
+Orbitals”) The most effective diffraction of light occurs when the wave-
+length of the light and the width of the slits are similar in magnitude.
+The spacing of the layers of atoms in solid crystals is usually 
+about 2–20 Å. The wavelengths of X rays are also in this range. Thus, 
+a crystal can serve as an effective diffraction grating for X rays. X-ray 
+diffraction results from the scattering of X rays by a regular arrange-
+ment of atoms, molecules, or ions. Much of what we know about crys-
+tal structures has been obtained by looking at the diffraction patterns 
+that result when X rays pass through a crystal, a technique known as 
+X-ray crystallography. As shown in Figure 12.9 a monochromatic beam 
+of X rays is 

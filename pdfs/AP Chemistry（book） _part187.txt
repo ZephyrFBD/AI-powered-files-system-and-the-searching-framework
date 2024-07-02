@@ -1,0 +1,22 @@
+the water?
+ 
+Sample Exercise 1.8
+Determining the Number of Significant Figures in a Calculated Quantity
+The width, length, and height of a small box are 15.5, 27.3, and 5.4 cm, respectively. Calculate the volume of the box,  
+using the correct number of significant figures in your answer.
+SOLUTION
+In reporting the volume, we can show only as many significant 
+figures as given in the dimension with the fewest significant fig-
+ures, which is that for the height (two significant figures):
+ Volume = width * length * height
+ = 115.5 cm2127.3 cm215.4 cm2
+ = 2285.01 cm3 1 2.3 * 103 cm3
+A calculator used for this calculation shows 2285.01, which we 
+must round off to two significant figures. Because the resulting 
+number is 2300, it is best reported in exponential notation, 
+2.3 * 103, to clearly indicate two significant figures.
+ 
+▶Practice Exercise 1
+Ellen recently purchased a new hybrid car and wants to check her 
+gas mileage. At an odometer setting of 651.1 mi, she fills the tank. 
+At 1314

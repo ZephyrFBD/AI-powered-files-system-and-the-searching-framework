@@ -1,0 +1,10 @@
+ in an entire polypeptide, or protein.
+8. A. A deletion of a nucleotide in the mRNA produces a change in the triplet-codon reading frame and creates a
+frameshift mutation. For example, if the first nucleotide of a codon is deleted, then its second nucleotide becomes its
+first, its third nucleotide becomes its second, and the first nucleotide of the next codon becomes its third. This, then,
+is repeated in every subsequent codon. Such an arrangement is likely to change many of the amino acids in the
+sequence (depending upon where in the sequence the frameshift begins) and, thus, affect the final sequence of the
+polypeptide considerably. Answer choice B will result in a missing amino acid, and answer choice C will very likely
+change one amino acid to a different amino acid. These changes may alter the effectiveness of the polypeptide, but
+not as severely as changing many amino acids, as would occur in answer choice A. Answer choice D may have no
+effect at all because a change in the third

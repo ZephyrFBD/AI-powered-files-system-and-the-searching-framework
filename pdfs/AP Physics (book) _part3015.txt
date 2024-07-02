@@ -1,0 +1,51 @@
+hrough a
+photodiode is altered.
+E (eV) = 1.240 * 103 eVnm
+l (nm)
+.
+l
+l = 550 nm, hf = hcl = 3.61 * 10–19 J = 2.26 eV.
+ke
+vmax = B
+2ke
+m
+= 5.1 * 105 ms.
+m = 9.1 * 10–31 kg,
+ke = 1
+2 mv2
+1.2 * 10–19 J.
+(0.75 eV)(1.60 * 10–19 JeV) =
+kemax = 3.03 eV - 2.28 eV = 0.75 eV,
+hf = hc
+l
+= 4.85 * 10–19 J  or  3.03 eV.
+l = 410 nm,
+kemax = hf - W
+0.
+ke,
+W
+0 ,
+(E = hf = hcl).
+W
+0 = 2.28 eV
+EXAMPLE 27;5
+778
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+FIGURE 27–8 Optical sound track
+on movie film. In the projector, light
+from a small source (different from
+that for the picture) passes through
+the sound track on the moving film.
+Photocell
+Small
+light
+source
+Sound track
+Picture
+27–4 Energy, Mass, and
+Momentum of a Photon
+We have just seen (Eq. 27–4) that the total energy of a single photon is given by
+Because a photon always travels at the speed of light, it is truly a rela-
+tivistic particle. Thus we must use relativistic formulas for dealing with its mass,
+energy, and momentum. The mome

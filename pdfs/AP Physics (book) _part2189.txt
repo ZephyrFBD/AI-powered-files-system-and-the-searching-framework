@@ -1,0 +1,15 @@
+magnetic field direction, downward in Fig. 20–11a. If the current is reversed
+in direction, the force is in the opposite direction, upward as shown in Fig. 20–11b.
+Experiments show that the direction of the force is always perpendicular to the
+direction of the current and also perpendicular to the direction of the magnetic field,
+The direction of the force is given by another right-hand rule, as illustrated in
+Fig. 20–11c. Orient your right hand until your outstretched fingers can point in
+the direction of the conventional current I, and when you bend your fingers they
+point in the direction of the magnetic field lines,
+Then your outstretched thumb
+will point in the direction of the force 
+on the wire.
+This right-hand rule describes the direction of the force. What about the mag-
+nitude of the force on the wire? It is found experimentally that the magnitude of
+the force is directly proportional to the current I in the wire, to the magnetic 
+field B (assumed uniform), and to the length 

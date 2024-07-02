@@ -1,0 +1,11 @@
+remove a
+repressor of transcription or work together with other transcription factors. The increase in mRNA would lead to
+increased protein and increased enzyme activity down the road.
+Gene B has a decrease in mRNA, protein, and enzyme activity with Protein X. It has increased total activity with
+Protein Y. It is likely that Protein X is a repressor of transcription for gene B. It might bind to the promoter of gene B or
+to another transcription factor to prevent RNA polymerase binding or prevent transcription from occurring in another
+way. Since the enzyme activity increases with Protein Y, but the mRNA and the protein levels did not change, this
+means that the enzyme activity was somehow enhanced on the same amount of enzyme that was present without
+Protein Y. Protein Y might be an enzyme activator of Enzyme B. It might bind to Enzyme B directly or maybe the protein
+phosphorylates it or cleaves it to make the enzyme active.
+d) It looks like Enzyme C is unaffected by Protein Y at the m

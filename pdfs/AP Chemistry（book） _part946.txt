@@ -1,0 +1,58 @@
+resentation are lost in these representations, 
+this is not a serious disadvantage. For qualitative discussions, the most important fea-
+tures of orbitals are shape and relative size, which are adequately displayed by contour 
+representations.
+Go Figure
+How many maxima would you expect to find in the radial probability 
+function for the 4s orbital of the hydrogen atom? How many nodes would 
+you expect in this function?
+0
+1
+2
+3
+4
+5
+Distance from the nucleus, r (Å)
+Probability
+6
+7
+8
+9 10
+1s
+0
+1
+Node
+Nodes
+2
+3
+4
+5
+Distance from the nucleus, r (Å)
+Probability
+6
+7
+8
+9 10
+2s
+0
+1
+2
+3
+3s
+4
+5
+Distance from the nucleus, r (Å)
+Probability
+6
+7
+8
+9 10
+Most probable distance from 
+nucleus ~ 7 Å
+Most probable distance from 
+nucleus ~ 0.5 Å
+Most probable distance from 
+nucleus ~ 3 Å
+▲ Figure 6.19 Radial probability functions for the 1s, 2s, and 3s orbitals of hydrogen. These plots show 
+the probability of finding the electron as a function of distance from the nucleus. As n increases, the 
+most likely

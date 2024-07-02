@@ -1,0 +1,20 @@
+ camera. The time between emission and 
+reception by the camera of these waves allows the camera 
+mechanism to adjust the lens to focus at the proper distance.
+Autofocusing with sound waves. Autofocusing cameras
+emit a pulse of very high frequency (ultrasonic) sound that travels to the object
+being photographed, and include a sensor that detects the returning reflected
+sound, as shown in Fig. 12–1. To get an idea of the time sensitivity of the detector,
+calculate the travel time of the pulse for an object (a) 1.0 m away, and (b) 20 m away.
+APPROACH If we assume the temperature is about 20°C, then the speed of
+sound is 
+Using this speed v and the total distance d back and forth in
+each case, we can obtain the time
+SOLUTION (a) The pulse travels 1.0 m to the object and 1.0 m back, for a total
+of 2.0 m. We solve for in
+(b) The total distance now is
+so
+NOTE Newer autofocus cameras use infrared light
+instead
+of ultrasound, and/or a digital sensor array that detects light intensity differ-
+e

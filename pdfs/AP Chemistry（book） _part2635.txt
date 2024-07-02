@@ -1,0 +1,62 @@
+onization =
+3H+4equilibrium
+3HA4initial
+* 100% 
+ 
+[16.27]  
+Percent ionization of a weak acid
+t Kb =
+3BH+43OH-4
+3B4
+ 
+ 
+[16.34]  
+Base-dissociation constant for a weak base, B
+t Ka * Kb = Kw 
+ 
+[16.40] 
+ 
+Relationship between acid- and base-dissociation con-
+stants of a conjugate acid–base pair
+t pKa = -log Ka  and pKb = -log Kb 
+ 
+[16.41]  
+Definitions of pKa and pKb
+Exercises
+Visualizing Concepts
+ 16.1 (a) Identify the Brønsted–Lowry acid and base in the reaction
++
++
+= H
+= N
+= Cl
+−
++
+HX
+HY
+= HA
+= A−
+= H3O+
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+t Describe the autoionization of water and explain how [H3O+] and 
+[OH-] are related via Kw. (Section 16.3)  
+Related Exercises: 16.27, 16.28
+t Calculate the pH of a solution given [H3O +] or [OH -]. 
+(Section 16.4) Related Exercises: 16.37, 16.38
+t Calculate the pH of a strong acid or strong base given its concen-
+tration. (Section 16.5) Related Exercises: 16.43, 16.44
+t Calculate Ka or Kb for a weak acid or weak base given its concen-
+tration an

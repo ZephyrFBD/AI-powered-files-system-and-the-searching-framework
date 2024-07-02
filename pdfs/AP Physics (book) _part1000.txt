@@ -1,0 +1,62 @@
+ive bricks must
+extend no more than (starting at the top) 
+and 
+of their length beyond the one below (Fig. 9–75a). (b) Is 
+the top brick completely beyond the base? (c) Determine a
+general formula for the maximum total distance spanned by
+n bricks if they are to remain stable. (d) A builder wants to
+construct a corbeled arch (Fig. 9–75b) based on the princi-
+ple of stability discussed in (a) and (c) above. What minimum
+number of bricks, each 0.30 m long and uniform, is needed
+if the arch is to span 1.0 m?
+1
+8
+1
+6 ,
+1
+4 ,
+1
+2 ,
+1
+6
+1
+8
+1
+4
+1
+2
+(a)
+(b)
+Corbeled
+arch
+FIGURE 9–75 Problem 39.
+32 cm
+256
+CHAPTER 9
+Static Equilibrium; Elasticity and Fracture
+CG
+20.0 m
+30.0 m
+   A
+   B
+F
+B
+F
+B
+FIGURE 9–76
+Problem 54.
+Buttress
+420,000 N
+5°
+5°
+F
+B
+F
+B
+FIGURE 9–77
+Problem 58.
+9–5 Elasticity; Stress and Strain
+40. (I) A nylon string on a tennis racket is under a tension of
+275 N. If its diameter is 1.00 mm, by how much is it length-
+ened from its untensioned length of 30.0 cm?
+41. (I) A marble colu

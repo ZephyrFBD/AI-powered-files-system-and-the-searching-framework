@@ -1,0 +1,20 @@
+(II) What would be the sound level (in dB) of a sound wave
+in air that corresponds to a displacement amplitude of
+vibrating air molecules of 0.13 mm at 440 Hz?
+20. (II) (a) Estimate the power output of sound from a person
+speaking in normal conversation. Use Table 12–2. Assume
+the sound spreads roughly uniformly over a sphere centered
+on the mouth. (b) How many people would it take to pro-
+duce a total sound output of 60 W of ordinary conversation?
+[Hint: Add intensities, not dBs.]
+21. (III) Expensive amplifier A is rated at 220 W, while the more
+modest amplifier B is rated at 45 W. (a) Estimate the sound
+level in decibels you would expect at a point 3.5 m from a
+loudspeaker connected in turn to each amp. (b) Will the
+expensive amp sound twice as loud as the cheaper one?
+*12–3 Loudness
+*22. (I) A 5000-Hz tone must have what sound level to seem as
+loud as a 100-Hz tone that has a 50-dB sound level? (See
+Fig. 12–6.)
+*23. (I) What are the lowest and highest frequencies that an ear
+can det

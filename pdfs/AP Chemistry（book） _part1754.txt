@@ -1,0 +1,21 @@
+re of 1 atm. 
+The specific heats of ice, liquid water, and steam are 2.03, 4.18, and 1.84 J>g-K, respectively. For H2O, ∆Hfus = 6.01 kJ>mol 
+and ∆Hvap = 40.67 kJ>mol.
+Solve
+For line AB in Figure 1
+1.22, we are adding enough heat to ice to 
+increase its temperature by 25 °C. A temperature change of 25 °C is 
+the same as a temperature change of 25 K, so we can use the specific 
+heat of ice to calculate the enthalpy change during this process:
+Analyze Our goal is to calculate the total heat required to convert 1 
+mol of ice at -25 °C to steam at 125 °C.
+Plan We can calculate the enthalpy change for each segment and then 
+sum them to get the total enthalpy change (Hess’s law, Section 5.6).
+ AB: ∆H = 11.00 mol2118.0 g>mol212.03 J>g@K2125 K2 
+      = 914 J = 0.91 kJ
+CD: ∆H = 11.00 mol2118.0 g>mol214.18 J>g@K21100 K2
+      = 7520 J = 7.52 kJ
+ DE: ∆H = 11.00 mol2140.67 kJ>mol2 = 40.7 kJ
+ EF: ∆H = 11.00 mol2118.0 g>mol211.84 J>g@K2125 K2
+      = 830 J = 0.83 kJ
+BC: ∆H = 11.00 mol216.01 kJ>mol2 

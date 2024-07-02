@@ -1,0 +1,58 @@
+
+W = P
+av ¢V
+AV
+B = V
+CB.
+V
+A
+CONCEPTUAL EXAMPLE 15;3
+416
+CHAPTER 15
+The Laws of Thermodynamics
+A
+(a)
+(b)
+V
+P
+B
+B
+P
+V
+D
+VB
+VA
+VB
+VA
+PB
+0
+0
+FIGURE 15–7 Work done by a gas is equal to the area under the PV curve.
+A
+B
+VB
+V
+A
+V
+P
+P
+A
+P
+B
+D Isobaric
+Isothermal
+0
+Isovolumetric
+FIGURE 15–6 PV diagram for
+different processes (see the text), where
+the system changes from A to B.
+EXERCISE B Is the work done by the gas in process ADB of Fig. 15–6 greater than, less
+than, or equal to the work done in the isothermal process AB?
+Table 15–1 gives a brief summary of the processes we have discussed. Many
+other types of processes can occur, but these “simple” ones are useful and can be
+dealt with by fairly simple means.
+Figure 15–6 shows the isotherm AB we saw in Fig. 15–2 as well as another
+possible process represented by the path ADB. In going from A to D, the gas
+does no work since the volume does not change. But in going from D to B,
+the gas does work equal to 
+and this is the total work done in the

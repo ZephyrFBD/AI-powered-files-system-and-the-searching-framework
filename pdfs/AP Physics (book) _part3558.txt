@@ -1,0 +1,23 @@
+p.
+EXAMPLE 32;1
+l =
+h
+p
+,
+SECTION 32–1
+High-Energy Particles and Accelerators
+917
+FIGURE 32–1 Ernest O. Lawrence,
+left, with Donald Cooksey and the
+“dees” of an early cyclotron.
+The protons move in a vacuum inside two D-shaped cavities, as shown in Fig. 32–2.
+Each time they pass into the gap between the “dees,” a voltage accelerates them
+(the electric force), increasing their speed and increasing the radius of curvature
+of their path in the magnetic field. After many revolutions, the protons acquire
+high kinetic energy and reach the outer edge of the cyclotron where they strike 
+a target. The protons speed up only when they are in the gap between the dees,
+and the voltage must be alternating. When protons are moving to the right across
+the gap in Fig. 32–2, the right dee must be electrically negative and the left one
+positive. A half-cycle later, the protons are moving to the left, so the left dee must
+be negative in order to accelerate them.
+The frequency, f, of the applied voltage m

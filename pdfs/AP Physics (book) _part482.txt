@@ -1,0 +1,50 @@
+ce the chance of skidding. The normal force
+exerted by a banked road, acting perpendicular to the road, will have a compo-
+nent toward the center of the circle (Fig. 5–14), thus reducing the reliance on
+friction. For a given banking angle 
+there will be one speed for which no friction
+at all is required. This will be the case when the horizontal component of the
+normal force toward the center of the curve,
+(see Fig. 5–14), is just 
+equal to the force required to give a vehicle its centripetal acceleration—that is,
+when
+[no friction required]
+The banking angle of a road,
+is chosen so that this condition holds for a partic-
+ular speed, called the “design speed.”
+u,
+F
+N sin u = m v2
+r
+.
+F
+N sin u
+u,
+SECTION 5–3
+Highway Curves: Banked and Unbanked
+117
+P H Y S I C S  A P P L I E D
+Banked curves
+C A U T I O N
+is not always equal to mg
+F
+N
+FN cosθ
+θ
+θ
+FN sinθ
+y
+x
+m
+R
+N
+g
+B
+F
+B
+a
+B
+FIGURE 5;14 Normal force on a
+car rounding a banked curve,
+resolved into its horizontal and 
+vertical components.

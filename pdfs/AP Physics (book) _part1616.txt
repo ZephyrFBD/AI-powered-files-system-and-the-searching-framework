@@ -1,0 +1,32 @@
+ult in
+a temperature change; rather, a change in phase occurs. We can determine the
+heat Q required using the latent heat of water, as in Section 14–5. Work too will
+be done:
+The first law of thermodynamics will then give us 
+SOLUTION The latent heat of vaporization of water (Table 14–3) is
+So the heat input required for this process is (Eq. 14–4)
+The work done by the water is (Eq. 15–3 since P is constant)
+where we used
+and
+Then
+NOTE Most of the heat added goes to increasing the internal energy of the water
+(increasing molecular energy to overcome the attraction that held the molecules
+close together in the liquid state). Only a small part 
+goes into doing work.
+NOTE Equation 14–1,
+tells us that 
+for Example 15–6
+because 
+Yet we determined that 
+What is wrong?
+Equation 14–1 applies only to an ideal monatomic gas, not to liquid water.
+¢U = 21 * 105 J.
+¢T = 0.
+¢U = 0
+U = 3
+2 nRT,
+(6 10%)
+= 20.9 * 105 J.
+¢U = Q - W = A22.6 * 105 JB - A1.7 * 105 JB
+1 L = 103 cm3 = 10–3 m3.
+1 atm = 1.01 * 

@@ -1,0 +1,14 @@
+ve as discussed earlier.
+EXERCISE E Which of the following impurity atoms in silicon would produce a p-type
+semiconductor? (a) Ge; (b) Ne; (c) Al; (d) As; (e) Ga; (f) none of the above.
+29–9 Semiconductor Diodes, LEDs, OLEDs
+Semiconductor diodes and transistors are essential components of modern elec-
+tronic devices. The miniaturization achieved today allows many millions of diodes,
+transistors, resistors, etc., to be fabricated (adding doping atoms) on a single chip
+less than a millimeter on a side.
+At the interface between an n-type and a p-type semiconductor, a pn junction
+diode is formed. Separately, the two semiconductors are electrically neutral. But near
+the junction, a few electrons diffuse from the n-type into the p-type semiconductor,
+where they fill a few of the holes. The n-type is left with a positive charge, and 
+the p-type acquires a net negative charge. Thus an “intrinsic” potential difference is
+established, with the n side positive relative to the p side, and this pre

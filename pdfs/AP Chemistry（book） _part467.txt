@@ -1,0 +1,21 @@
+rom 2.40 g of 
+NaOH? (a) 3.18 g (b) 6.36 g (c) 1.20 g (d) 0.0300 g
+ 
+▶Practice Exercise 2
+Decomposition of KClO3 is sometimes used to prepare small  
+amounts of O2 in the laboratory: 2 KClO31s2 ¡ 2 KCl1s2 +
+3 O21g2. How many grams of O2 can be prepared from 4.50 g of 
+KClO3?
+106 
+CHAPTER 3 Chemical Reactions and Reaction Stoichiometry
+3.7 ∣ Limiting Reactants
+Suppose you wish to make several sandwiches using one slice of cheese and two slices of 
+bread for each. Using Bd = bread, Ch = cheese, and Bd2Ch = sandwich, we can repre-
+sent the recipe for making a sandwich like a chemical equation:
+2 Bd + Ch ¡ Bd2Ch
+If you have ten slices of bread and seven slices of cheese, you can make only five sand-
+wiches and will have two slices of cheese left over. The amount of bread available limits 
+the number of sandwiches.
+An analogous situation occurs in chemical reactions when one reactant is used up 
+before the others. The reaction stops as soon as any reactant is totally consumed, leaving 
+the 

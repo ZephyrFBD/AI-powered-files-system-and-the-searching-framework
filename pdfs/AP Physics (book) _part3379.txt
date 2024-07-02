@@ -1,0 +1,76 @@
+ number of nuclei. For (b) we get from
+the given half-life and use Eq. 30–3b for the rate of decay. For (c) and (d) we
+use Eq. 30–5.
+SOLUTION (a) The atomic mass is 13.0, so 13.0 g will contain 
+(Avogadro’s number). We have only 
+so the number of nuclei 
+that we have initially is given by the ratio
+Solving for 
+we find 
+(b) From Eq. 30–6,
+Then, at
+(see Eqs. 30–3b and 30–5)
+R0 = ` ¢N
+¢t `
+0
+= lN
+0 = A1.155 * 10–3 s–1BA6.90 * 1016B = 7.97 * 1013 decayss.
+t = 0
+l = 0.693T
+1
+2 = (0.693)(600 s) = 1.155 * 10–3 s–1.
+N
+0 = 6.90 * 1016 nuclei.
+N
+0 ,
+N
+0
+6.02 * 1023
+= 1.49 * 10–6 g
+13.0 g
+.
+N
+0
+1.49 * 10–6 g,
+6.02 * 1023 nuclei
+l
+A= 1 s–1B?
+ 7
+13N,
+1.49 mg
+ 7
+13N.
+EXAMPLE 30;11
+CONCEPTUAL EXAMPLE 30;10
+1 Bq = 1 decays,
+s–1
+N = 1.0 * 1022
+= 3.83 * 1010 decayss.
+R =
+` ¢N
+¢t `
+= lN = A3.83 * 10–12 s–1BA1.00 * 1022B
+l = 0.693
+T1
+2
+=
+0.693
+(5730 yrBA3.156 * 107 syrB
+= 3.83 * 10–12 s–1.
+l
+(60)(60)(24)A365 1
+4B = 3.156 * 107 s.
+1.00 * 1022
+14
+6C
+EXAMPLE 30;9
+872
+CHAPTER 30
+206
+81
+Tl
+A
+238
+82
+Pb
+8

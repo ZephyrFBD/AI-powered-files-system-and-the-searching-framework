@@ -1,0 +1,54 @@
+mirror: the focal length is
+(Eq. 23–1), and Eq. 23–2 gives di = –do.
+f = r2 = q
+f = r2
+1
+do
++ 1
+di
+=
+1
+f
+.
+do
+do
+di
+= do - f
+f
+.
+ho
+hi
+=
+OF
+FA = do - f
+f
+.
+FA = f,
+AB = hi
+O¿FO
+O¿FBI¿,
+ho
+hi
+=
+do
+di
+.
+I¿AI
+O¿AO
+O¿AI¿
+The magnification, m, of a mirror is defined as the height of the image
+divided by the height of the object. From our first set of similar triangles in
+Fig. 23–16, or the first equation just below Fig. 23–16, we can write:
+(23;3)
+The minus sign in Eq.23–3 is inserted as a convention. Indeed, we must be careful about
+the signs of all quantities in Eqs. 23–2 and 23–3. Sign conventions are chosen so as
+to give the correct locations and orientations of images, as predicted by ray diagrams.
+The sign conventions we use are:
+1. the image height 
+is positive if the image is upright, and negative if inverted,
+relative to the object (assuming 
+is taken as positive);
+2.
+or 
+is positive if image or object is in front of the mirror (as in Fig. 23–16);
+if either image or object is beh

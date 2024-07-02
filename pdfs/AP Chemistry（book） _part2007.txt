@@ -1,0 +1,26 @@
+ller unit cell.
+ 
+[12.105]  
+Imagine the primitive cubic lattice. Now imagine pushing 
+on top of it, straight down. Next, stretch another face by 
+pulling it to the right. All angles remain 90°. What kind of 
+primitive lattice have you made?
+atom in the unit cell. Do your answers correspond 
+to the ratios expected from the empirical formulas: 
+Ni3Al, Nb3Sn, and SmCo5?
+ 12.110  
+What type of lattice—primitive cubic, body-centered cu-
+bic, or face-centered cubic—does each of the following 
+structure types possess: (a) CsCl, (b) Au, (c) NaCl, (d) Po, 
+(e) ZnS?
+ 12.111  
+Cinnabar (HgS) was utilized as a pigment known as ver-
+million. It has a band gap of 2.20 eV near room tempera-
+ture for the bulk solid. What wavelength of light (in nm) 
+would a photon of this energy correspond to?
+ 
+[12.112]  
+The electrical conductivity of aluminum is approximately 
+109 times greater than that of its neighbor in the periodic 
+table, silicon. Aluminum has a face-centered cubic struc-
+ture, and silicon ha

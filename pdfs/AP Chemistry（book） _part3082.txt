@@ -1,0 +1,25 @@
+he change of state from liquid 
+to gas. For (b), we need to analyze Equation 19.19 at equilibrium 
+1∆G = 02, and for (c) we can use Equation 19.12 to calculate T 
+when ∆G = 0.
+CCl41l2 ∆CCl41g2 P = 1 atm
+∆G° = 0
+SOLUTION
+Sample Exercise 19.10 
+Relating ∆G to a Phase Change at Equilibrium
+(b) At equilibrium, ∆G = 0. In any normal boiling-point equilib-
+rium, both liquid and vapor are in their standard state of pure 
+liquid and vapor at 1 atm (Table 19.2). Consequently, Q = 1, 
+ln Q = 0, and ∆G = ∆G 
+° for this process. We conclude that 
+∆G° = 0 for the equilibrium representing the normal boiling 
+point of any liquid. (We would also ﬁnd that ∆G° = 0 for 
+the equilibria relevant to normal melting points and normal 
+sublimation points.)
+ 
+SECTION 19.7   
+Free Energy and the Equilibrium Constant 
+833
+When the concentrations of reactants and products are nonstandard, we must calcu-
+late Q in order to determine ∆G. We illustrate how this is done in Sample Exercise 19.11. 
+At this stage in our 

@@ -1,0 +1,19 @@
+-
+centration of CO2 rises, the equilibrium concentrations in Equation 
+17.10 shift to the left, which leads to the formation of more H+ and a 
+drop in pH. This change is detected by receptors in the brain that trig-
+ger a reﬂex to breathe faster and deeper, increasing the rate at which 
+CO2 is expelled from the lungs and thereby shifting the equilibrium 
+concentrations back to the right. When the blood pH becomes too 
+high, the kidneys remove HCO3
+- from the blood. This shifts the equi-
+librium concentrations to the left, increasing the concentration of 
+H+. As a result, the pH decreases.
+Regulation of blood pH relates directly to the effective transport 
+of O2 throughout the body. The protein hemoglobin, found in red 
+blood cells (Figure 17.5), carries oxygen. Hemoglobin (Hb) reversibly 
+binds both O2 and H+. These two substances compete for the Hb, 
+which can be represented approximately by the equilibrium
+HbH+1aq2 + O21aq2 ∆ HbO21aq2 + H+1aq2 
+[17.11]
+Oxygen enters the blood through

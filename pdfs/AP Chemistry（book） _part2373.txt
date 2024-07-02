@@ -1,0 +1,28 @@
+elative amounts of the 
+three gases in the starting mixture and then analyze each equilibrium mixture, we could 
+determine the relationship among the equilibrium concentrations.
+ 
+SECTION 15.2   
+The Equilibrium Constant 
+627
+628 
+CHAPTER 15 Chemical Equilibrium
+Chemists carried out studies of this kind on other chemical systems in the nine-
+teenth century before Haber’s work. In 1864, Cato Maximilian Guldberg (1836–1902) 
+and Peter Waage (1833–1900) postulated their law of mass action, which expresses, for 
+any reaction, the relationship between the concentrations of the reactants and products 
+present at equilibrium. Suppose we have the general equilibrium equation
+ 
+a A + b B ∆ d D + e E 
+[15.7]
+where A, B, D, and E are the chemical species involved and a, b, d, and e are their coeffi-
+cients in the balanced chemical equation. According to the law of mass action, the equi-
+librium condition is described by the expression
+ 
+Kc =
+3D4d3E4e
+3A4a3B4b 
+— products
+— reactants 
+[15.8]
+We ca

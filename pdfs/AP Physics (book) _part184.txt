@@ -1,0 +1,32 @@
+known to us—the acceleration is not g. We consider only the time when
+the ball is in the air and the acceleration is equal to g.
+Every quadratic equation (where the variable is squared) mathematically
+produces two solutions. In physics, sometimes only one solution corresponds to
+the real situation, as in Example 2–8, in which case we ignore the “unphysical”
+solution. But in Example 2–13, both solutions to our equation in 
+are physi-
+cally meaningful:
+and t = 3.06 s.
+t = 0
+t2
+A
+C
+(v = 0)
+B
+v
+v
+g
+g
+FIGURE 2;23 (Repeated.)
+An object thrown into the air leaves
+the thrower’s hand at A, reaches its
+maximum height at B, and returns 
+to the original position at C.
+Examples 2–12, 2–13, 2–14, and 2–15.
+SECTION 2–7
+Freely Falling Objects
+37
+Ball thrown upward, III. Let us consider again the ball
+thrown upward of Examples 2–12 and 2–13, and make more calculations. Calculate
+(a) how much time it takes for the ball to reach the maximum height (point B in
+Fig. 2–23), and (b) the velocity of the ball 

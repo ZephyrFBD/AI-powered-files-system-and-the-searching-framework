@@ -1,0 +1,31 @@
+ost reactions has the general form
+ 
+Rate = k3reactant 14m3reactant 24n c  
+Thus, the task of determining the rate law becomes one of determining the reaction 
+orders, m and n. In most reactions, the reaction orders are 0, 1, or 2. As noted earlier in 
+this section, we can use the response of the reaction rate to a change in initial concentra-
+tion to determine the reaction order.
+In working with rate laws, it is important to realize that the rate of a reaction depends 
+on concentration but the rate constant does not. As we will see later in this chapter, the 
+rate constants (and hence the reaction rate) are affected by temperature and by the pres-
+ence of a catalyst.
+The initial rate of a reaction A + B ¡ C was measured for three different starting concentrations of A and B, and the results 
+are as follows:
+Experiment 
+Number
+3A4 1M2
+3B4 1M2
+Initial Rate 1M,s2
+1
+0.100
+0.100
+4.0 * 10-5
+2
+0.100
+0.200
+4.0 * 10-5
+3
+0.200
+0.100
+16.0 * 10-5
+Using these data, determine (a) the rate law for t

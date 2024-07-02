@@ -1,0 +1,37 @@
+mA,
+r = 30 
+EXAMPLE 19;16
+How to Connect Meters
+Suppose you wish to determine the current I in the circuit shown in Fig. 19–33a,
+and the voltage V across the resistor 
+How exactly are ammeters and volt-
+meters connected to the circuit being measured?
+Because an ammeter is used to measure the current flowing in the circuit, it
+must be inserted directly into the circuit, in series with the other elements, as shown
+in Fig. 19–33b. The smaller its internal resistance, the less it affects the circuit.
+A voltmeter is connected “externally,” in parallel with the circuit element across
+which the voltage is to be measured. It measures the potential difference between
+two points. Its two wire leads (connecting wires) are connected to the two points, as
+shown in Fig. 19–33c, where the voltage across 
+is being measured. The larger its
+internal resistance (
+Fig.19–32), the less it affects the circuit being measured.
+Rser + r,
+R1
+R1 .
+R1
+R2
+(b)
+V
+V
+a
+b
+c
+R2
+(a)
+V
+R1
+a
+b
+c
+FIGURE 19–34 Example 19–17

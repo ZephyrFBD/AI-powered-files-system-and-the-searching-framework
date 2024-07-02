@@ -1,0 +1,40 @@
+l you hear if you are at
+rest and the police car moves at 
+(a) toward you, and (b) away from you?
+APPROACH The observer is fixed, and the source moves, so we use Eqs. 12–2.
+The frequency you (the observer) hear is the emitted frequency f divided by
+the factor
+where 
+is the speed of the police car. Use the
+minus sign when the car moves toward you (giving a higher frequency); use the
+plus sign when the car moves away from you (lower frequency).
+SOLUTION (a) The car is moving toward you, so (Eq. 12–2a)
+(b) The car is moving away from you, so (Eq. 12–2b)
+f¿ =
+f
+a 1 + vsource
+vsnd   b
+=
+1600 Hz
+a 1 + 25.0 ms
+343 ms b
+= 1491 Hz L 1490 Hz.
+f¿ =
+f
+a 1 - vsource
+vsnd   b
+=
+1600 Hz
+a 1 - 25.0 ms
+343 ms b
+= 1726 Hz L 1730 Hz.
+vsource
+A16vsourcevsndB
+25.0 ms
+EXAMPLE 12;15
+EXERCISE F Suppose the police car of Example 12–15 is at rest and emits at 1600 Hz.
+What frequency would you hear if you were moving at 
+(a) toward it, and
+(b) away from it?
+25.0 ms
+When a sound wave is reflected from a mo

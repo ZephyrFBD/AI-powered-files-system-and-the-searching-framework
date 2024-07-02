@@ -1,0 +1,19 @@
+ng sign conventions:
+1. The focal length is positive for converging lenses and negative for diverging lenses.
+2. The object distance is positive if the object is on the side of the lens from which
+the light is coming (this is always the case for real objects; but when lenses
+are used in combination, it might not be so: see Example 23–16); otherwise,
+it is negative.
+3. The image distance is positive if the image is on the opposite side of the lens from
+where the light is coming; if it is on the same side,
+is negative. Equivalently,
+the image distance is positive for a real image (Fig. 23–40) and negative for
+a virtual image (Fig. 23–41).
+4. The height of the image,
+is positive if the image is upright, and negative if the
+image is inverted relative to the object. (
+is always taken as upright and positive.)
+The magnification, m, of a lens is defined as the ratio of the image height to
+object height,
+From Figs. 23–40 and 23–41 and the conventions just
+stated (for which we will need a minus

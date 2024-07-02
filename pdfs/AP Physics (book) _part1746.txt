@@ -1,0 +1,20 @@
+that object. In applying Coulomb’s law, we can deal with charge magnitudes only
+(leaving out minus signs) to get the magnitude of each force. Then determine
+separately the direction of the force physically (along the line joining the two
+particles: like charges repel, unlike charges attract), and show the force on the
+diagram. (You could determine direction first if you like.) Finally, add all the forces
+on one object together as vectors to obtain the net force on that object.
+Three charges in a line. Three charged particles are
+arranged in a line, as shown in Fig. 16–19a. Calculate the net electrostatic force
+on particle 3 (the 
+on the right) due to the other two charges.
+APPROACH The net force on particle 3 is the vector sum of the force 
+exerted on particle 3 by particle 1 and the force 
+exerted on 3 by particle 2:
+SOLUTION The magnitudes of these two forces are obtained using Coulomb’s
+law, Eq. 16–1:
+where 
+is the distance from 
+to 
+Similarly,
+Since we were calculating the magnitud

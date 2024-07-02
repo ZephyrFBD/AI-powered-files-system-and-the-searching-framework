@@ -1,0 +1,22 @@
+ng equation:
+ 
+In this equation, r is the reproductive rate (or growth rate ), and N is the population size at the beginning of the
+interval for which the births and deaths are counted. The numerator of the equation is the net increase in individuals.
+If, for example, a population of size N = 1,000 had 60 births
+and 10 deaths over a one-year period, then r would equal
+ 
+, or 0.05 per year.
+ 
+If both sides of the equation are multiplied by N, the equation can be expressed as follows:
+ 
+The Greek letter delta (A) means “change in.” Thus,
+ 
+ means the change in the number of individuals in a given time interval. The expression can also be written in
+calculus terms, using
+ 
+(Don’t let the calculus expression intimidate you; for our purposes, the two expressions are essentially the
+same.)
+ 
+Here the reproductive rate, rmax, is maximum and so represents the biotic
+potential. It is called the intrinsic rate of growth. Note that when deaths exceed births, r will be negative, and the
+population

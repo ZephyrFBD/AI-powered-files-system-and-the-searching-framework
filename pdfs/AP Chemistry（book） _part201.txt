@@ -1,0 +1,40 @@
+sides of this equation gives 11 in.23 = 12.54 cm23, from which we write the 
+desired conversion factor:
+12.54 cm23
+11 in.23
+=
+12.5423 cm3
+1123 in.3
+= 16.39 cm3
+1 in.3
+Notice that both the numbers and the units are cubed. Also, because 2.54 is an exact 
+number, we can retain as many digits of 12.5423 as we need. We have used four, one more 
+than the number of digits in the density 119.3 g>cm32. Applying our conversion factors, 
+we can now solve the problem:
+Mass in grams = 12.00 in.32a16.39 cm3
+1 in.3
+b a
+19.3 g
+1 cm3 b = 633 g
+The procedure is diagrammed here. The final answer is reported to three significant 
+ 
+figures, the same number of significant figures as in 2.00 in.3 and 19.3 g.
+in.3
+Given:
+Use
+cm3
+19.3 g
+1 cm3
+g
+Find:
+2.54 cm 3
+1 in.
+Use
+32 
+CHAPTER 1 Introduction: Matter, Energy, and Measurement
+ 
+Sample Exercise 1.12
+Converting Volume Units
+Earth’s oceans contain approximately 1.36 * 109 km3 of water. Calculate the volume in liters.
+SOLUTION
+From the back inside cover, we fi

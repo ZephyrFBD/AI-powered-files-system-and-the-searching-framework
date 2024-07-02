@@ -1,0 +1,26 @@
+ced due to a  7 TeV proton–proton
+collision at the Large Hadron Collider (LHC). It is a candidate for having produced the long-
+sought Higgs boson (plus other particles). The
+Higgs in this case could have decayed (very
+quickly 
+) into two Z bosons (which are
+carriers of the weak force):
+We don’t see the tracks of the 
+particles
+because (1) they are neutral and (2) they decay
+too quickly (
+), in this case:
+The tracks of the 2 electrons and 2 positrons are
+shown as green lines. The Higgs is thought to
+play a fundamental role in the Standard Model
+of particle physics, importantly providing mass
+to fundamental particles.
+The CMS detector of this photo uses a
+combination of the detector types discussed in
+Section 30–13. A magnetic field causes particles
+to move in curved paths so the momentum of
+each can be measured (Section 20–4). Tracks of
+particles with very large momentum, such as our
+electrons here, are barely curved.
+In this Chapter we will study elementary
+particle physics from its b

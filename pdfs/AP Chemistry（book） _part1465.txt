@@ -1,0 +1,33 @@
+-level diagram (Figure 9.41) for homonuclear 
+diatomic molecules of the elements boron through neon, all of which have valence 2s 
+and 2p atomic orbitals. The following features of the diagram are notable:
+t The 2s atomic orbitals are substantially lower in energy than the 2p atomic orbitals. 
+ (Section 6.7) Consequently, both MOs formed from the 2s orbitals are lower in 
+energy than the lowest-energy MO derived from the 2p atomic orbitals.
+Atomic
+orbitals
+Molecular
+orbitals
+Atomic
+orbitals
+Energy
+2p
+2p
+2s
+2s
+s2p
+s2p
+s2s
+s2s
+p2p
+p2p
+▲ Figure 9.41  Energy-level diagram for MOs of period 2 homonuclear diatomic molecules. The 
+diagram assumes no interaction between the 2s atomic orbital on one atom and the 2p atomic 
+orbitals on the other atom, and experiment shows that it fits only for O2, F2, and Ne2.
+ 
+SECTION 9.8   
+Bonding in Period 2 Diatomic Molecules 
+377
+t The overlap of the two 2pz orbitals is greater than that of the two 2px or 2py orbitals. 
+As a result, the bonding s
+2p MO 

@@ -1,0 +1,10 @@
+tein is activated by binding guanosine triphosphate,
+or GTP, in place of GDP. After binding, GTP is hydrolysed by the G-protein into GDP and becomes inactive.
+The activated G-protein in turn activates a membrane-bound enzyme called adenylyl cyclase. Adenylyl cyclase catalyzes
+the conversion of ATP to cAMP. cAMP, in turn, activates a group of proteins called protein kinases, which transfer a
+phosphate group from ATP to a substrate molecule in a process called phosphorylation. The phosphorylation of a substrate
+molecule changes its structural orientation, thereby activating it. These activated molecules can then mediate changes in
+cellular processes.
+The effect of a hormone is amplified as the signaling pathway progresses. The binding of a hormone at a single receptor
+causes the activation of many G-proteins, which activates adenylyl cyclase. Each molecule of adenylyl cyclase then triggers
+the formation of many molecules of cAMP. Further amplification occurs as protein kinases, once acti

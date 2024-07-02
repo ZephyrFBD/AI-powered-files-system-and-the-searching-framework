@@ -1,0 +1,15 @@
+e a 1 °C temperature change is greater than the amount 
+we must add to achieve a 1 °C temperature change in the same 
+mass of ice.
+Lines BC and DE show the conversion of one phase to another at a constant tem-
+perature. The temperature remains constant during these phase changes because the 
+added energy is used to overcome the attractive forces between molecules rather than to 
+increase their average kinetic energy. For line BC, the enthalpy change can be calculated 
+by using ∆Hfus, and for line DE we can use ∆Hvap.
+If we start with 1 mol of steam at 125 °C and cool it, we move right to left across 
+Figure 11.22. We first lower the temperature of the H2O1g2 1F ¡ E2, then condense it 
+1E ¡ D2 to H2O1l2, and so forth.
+Sometimes as we remove heat from a liquid, we can temporarily cool it below its 
+freezing point without forming a solid. This phenomenon, called supercooling, occurs 
+when the heat is removed so rapidly that the molecules have no time to assume the 
+ordered structure of a 

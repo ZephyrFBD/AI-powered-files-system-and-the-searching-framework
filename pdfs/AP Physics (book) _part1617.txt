@@ -1,0 +1,28 @@
+105 Nm2
+= 1.69 * 105 J,
+W = P ¢V = A1.01 * 105 Nm2B C A1671 * 10–3 m3B - A1 * 10–3 m3B D
+= 22.6 * 105 J.
+Q = mL = (1.00 kg)A22.6 * 105 JkgB
+LV = 22.6 * 105 Jkg.
+¢U.
+W = P ¢V.
+U
+EXAMPLE 15;6
+418
+CHAPTER 15
+The Laws of Thermodynamics
+P H Y S I C S  A P P L I E D
+Energy in the human body
+FIGURE 15–9 Bike rider getting 
+an input of energy.
+15–3 Human Metabolism and 
+the First Law
+Human beings and other animals do work. Work is done when a person walks or
+runs, or lifts a heavy object. Work requires energy. Energy is also needed for
+growth—to make new cells, and to replace old cells that have died. A great many
+energy-transforming processes occur within an organism, and they are referred
+to as metabolism.
+We can apply the first law of thermodynamics,
+to an organism: say, the human body. Work W is done by the body in its various
+activities; if this is not to result in a decrease in the body’s internal energy (and
+temperature), energy must somehow be added to compensate. The body’s inter

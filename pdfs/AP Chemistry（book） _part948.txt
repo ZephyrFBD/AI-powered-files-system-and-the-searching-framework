@@ -1,0 +1,18 @@
+ymmetric, the value of c for an s electron depends 
+only on its distance from the nucleus, r. Thus, the probability den-
+sity can be written as 3c1r242, where c1r2 is the value of c at r. This 
+function 3c1r242 gives the probability density for any point located a 
+distance r from the nucleus.
+The radial probability function, which we used in Figure 6.19, 
+differs from the probability density. The radial probability function 
+equals the total probability of ﬁnding the electron at all the points 
+at any distance r from the nucleus. In other words, to calculate this 
+function, we need to “add up” the probability densities 3c1r242 over 
+all points located a distance r from the nucleus. Figure 6.21 compares 
+the probability density at a point 3c1r242 with the radial probability 
+function.
+Let’s examine the difference between probability density and 
+ 
+radial probability function more closely. Figure 6.22 shows plots of 
+3c1r242 as a function of r for the 1s, 2s, and 3s orbitals of the  
+hy

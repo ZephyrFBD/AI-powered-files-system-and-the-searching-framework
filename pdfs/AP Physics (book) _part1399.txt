@@ -1,0 +1,30 @@
+ending on the material.
+Linear Expansion
+Experiments indicate that the change in length 
+of almost all solids is, to a good
+approximation, directly proportional to the change in temperature 
+as long as
+is not too large. The change in length is also proportional to the original
+length of the object,
+That is, for the same temperature increase, a 4-m-long
+iron rod will increase in length twice as much as a 2-m-long iron rod. We can
+write this proportionality as an equation:
+(13;1a)
+where 
+the proportionality constant, is called the coefficient of linear expansion
+for the particular material and has units of 
+We write 
+Fig. 13–9, and rewrite this equation as
+(13;1b)
+where 
+is the length initially, at temperature 
+and is the length after heating
+or cooling to a temperature T. If the temperature change 
+is nega-
+tive, then 
+is also negative; the length shortens as the temperature
+decreases.
+The values of 
+for various materials at 20°C are listed in Table 13–1. Actu-
+ally,
+does vary slightly 

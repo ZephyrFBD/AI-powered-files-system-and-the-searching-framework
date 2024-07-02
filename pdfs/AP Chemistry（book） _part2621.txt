@@ -1,0 +1,31 @@
+ctron-pair acceptor:
+O
+O
+O
+C
+H
+H
+H
+H
+H
+C
+O
+C
+O
+O
+O
+H
+O
+O
+One electron pair of one of the carbon–oxygen double bonds is moved onto the oxygen, 
+leaving a vacant orbital on the carbon, which means the carbon can accept an electron 
+pair donated by H2O. The initial acid–base product rearranges by transferring a proton 
+from the water oxygen to a carbon dioxide oxygen, forming carbonic acid.
+The hydrated cations we encountered in Section 16.9, such as 3Fe1H2O2643+ in Fig-
+ure 16.18, form through the reaction between the cation acting as a Lewis acid and the 
+water molecules acting as Lewis bases. When a water molecule interacts with the posi-
+tively charged metal ion, electron density is drawn from the oxygen (Figure 16.21). This 
+flow of electron density causes the O ¬H bond to become more polarized; as a result, 
+water molecules bound to the metal ion are more acidic than those in the bulk solvent. 
+This effect becomes more pronounced as the charge of the cation increases, which 
+explain

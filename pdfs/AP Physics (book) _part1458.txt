@@ -1,0 +1,16 @@
+relative humidity is thus
+21.0 torr
+31.8 torr * 100% = 66%.
+EXAMPLE 13;17
+Humans are sensitive to humidity. A relative humidity of 40–50% is generally
+optimum for both health and comfort. High humidity, particularly on a hot day,
+reduces the evaporation of moisture from the skin, which is one of the body’s
+vital mechanisms for regulating body temperature. Very low humidity, on the other
+hand, can dry the skin and mucous membranes.
+Air is saturated with water vapor when the partial pressure of water in the air
+is equal to the saturated vapor pressure at that temperature. If the partial pressure
+of water exceeds the saturated vapor pressure, the air is said to be supersaturated.
+This situation can occur when a temperature decrease occurs. For example,
+suppose the temperature is 30°C and the partial pressure of water is 21 torr, which
+represents a humidity of 66% as we saw in Example 13–17. Suppose now that the
+temperature falls to, say, 20°C, as might happen at nightfall. From Table 13–3

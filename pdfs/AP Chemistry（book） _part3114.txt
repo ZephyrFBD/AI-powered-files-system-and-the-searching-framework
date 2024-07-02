@@ -1,0 +1,18 @@
+is process isothermal? (c) Does the change 
+in the internal energy, ∆E, depend on the particular path-
+way taken to carry out this change of state?
+ 19.18  A system goes from state 1 to state 2 and back to state 1. 
+(a) Is ∆E the same in magnitude for both the forward and 
+reverse processes? (b) Without further information, can 
+you conclude that the amount of heat transferred to the 
+system as it goes from state 1 to state 2 is the same or dif-
+ferent as compared to that upon going from state 2 back to 
+state 1? (c) Suppose the changes in state are reversible pro-
+cesses. Is the work done by the system upon going from 
+state 1 to state 2 the same or different as compared to that 
+upon going from state 2 back to state 1?
+ 19.19  Consider a system consisting of an ice cube. (a) Under 
+what conditions can the ice cube melt reversibly? (b) If 
+the ice cube melts reversibly, is ∆H zero for the process?
+ 19.20  Consider what happens when a sample of the explosive 
+TNT is detonated under atm

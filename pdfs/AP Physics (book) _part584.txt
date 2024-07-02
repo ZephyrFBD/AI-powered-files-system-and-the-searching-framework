@@ -1,0 +1,30 @@
+ose two points.
+6–3 Kinetic Energy, and 
+the Work-Energy Principle
+Energy is one of the most important concepts in science. Yet we cannot give a
+simple general definition of energy in only a few words. Nonetheless, each specific
+type of energy can be defined fairly simply. In this Chapter we define translational
+kinetic energy and some types of potential energy. In later Chapters, we will examine
+other types of energy, such as that related to heat and electricity. The crucial
+aspect of energy is that the sum of all types, the total energy, is the same after 
+any process as it was before: that is, energy is a conserved quantity.
+For the purposes of this Chapter, we can define energy in the traditional way
+as “the ability to do work.” This simple definition is not always applicable,† but it
+is valid for mechanical energy which we discuss in this Chapter. We now define
+and discuss one of the basic types of energy, kinetic energy.
+F
+∑∑
+¢d
+¢d
+F
+∑∑
+d = dB - dA
+F
+∑∑
+¢d
+¢W = F
+∑∑¢d,
+F
+∑∑
+¢d.
+F

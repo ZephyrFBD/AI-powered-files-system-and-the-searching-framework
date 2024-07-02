@@ -1,0 +1,15 @@
+e presence of solutes and is always negative. A higher concentration of solutes
+generates a smaller (or more negative) solute potential.
+5. Pressure potential is zero unless some force is applied, such as that applied by a cell wall.
+ 
+6. Pure water at atmospheric pressure has a water potential of zero (pressure potential = 0 and solute potential = 0).
+ 
+7. Water potential is measured in bars (1 bar is approximately equal to 1 atmosphere pressure) or megapascals
+(1MPa = 10 bars).
+ 
+8. The solute potential can be calculated using the formula Ψs = −iCRT,
+where i is the ionization constant, C is the molar concentration, R = 0.0831 (pressure constant, in liter-bar/mole °K),
+and T is the temperature in Kelvin (273 + °C). The ionization constant is equal to the number of
+ions that a substance will produce in water: 2 for NaCl (two ions: Na+ and Cl−) and 1 for a substance that does not
+ionize (like sucrose).
+You do not need to memorize the solute potential formula or the value of R. They will

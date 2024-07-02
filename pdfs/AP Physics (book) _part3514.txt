@@ -1,0 +1,37 @@
+ field splits
+into two levels in the presence of a
+magnetic field.
+E0
+Down
+Up
+B
+B
+E0 (B  0)
+hf 
+E
+Spin
+down
+Spin
+up
+
+Magnetic
+ﬁeld coils
+RF coils
+(a)
+(b)
+FIGURE 31–25 NMR imaging
+setup: (a) diagram;
+(b) photograph.
+The formation of a two-dimensional or three-dimensional image can be done
+using techniques similar to those for computed tomography (Section 25–12). The
+simplest thing to measure for creating an image is the intensity of absorbed 
+and or reemitted radiation from many different points of the body, and this
+would be a measure of the density of H atoms at each point. But how do we
+determine from what part of the body a given photon comes? One technique is
+to give the static magnetic field a gradient; that is, instead of applying a uniform
+magnetic field,
+the field is made to vary with position across the width of the
+sample (or patient), Fig. 31–26. Because the frequency absorbed by the H nuclei
+is proportional to 
+(Eq. 31–11), only one plane within the body will have the 
+p

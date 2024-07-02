@@ -1,0 +1,30 @@
+tronger? In which substance do the 
+molecules pack more efficiently?
+Melting point (  C)
+Boiling point (  C)
+5
+80
+Benzene
+95
+111
+Toluene
+CH3
+OH
+43
+182
+Phenol
+−
+°
+°
+▲ Figure12.28 Melting and boiling points for benzene, toluene, and phenol.
+12.7 ∣ Covalent-Network Solids
+Covalent-network solids consist of atoms held together in large networks by cova-
+lent bonds. Because covalent bonds are much stronger than intermolecular forces, these 
+solids are much harder and have higher melting points than molecular solids. Diamond 
+and graphite, two allotropes of carbon, are two of the most familiar covalent-network 
+solids. Other examples are silicon, germanium, quartz 1SiO22, silicon carbide (SiC), and 
+boron nitride (BN). In all cases, the bonding between atoms is either completely covalent 
+or more covalent than ionic.
+In diamond, each carbon atom is bonded tetrahedrally to four other carbon atoms 
+(Figure 12.29). The structure of diamond can be derived from the zinc blende structure 
+(Figure 

@@ -1,0 +1,50 @@
+charge can do. The exact
+amount of energy or work depends both on the potential difference and on the charge.
+¢pe = (2 C)(6 V) = 12 J
+±2 C
+(1 C)(6 V) = 6 J
+±1 C
+qV
+ba.
+V
+ba,
+¢pe = peb - pea = qAV
+b - V
+aB = qV
+ba.
+476
+CHAPTER 17
+Electric Potential
+TABLE 17–1 Some T
+ypical
+Potential Differences (Voltages)
+Voltage 
+Source
+(approx.)
+Thundercloud to ground 
+High-voltage power line 
+Automobile ignition 
+Household outlet 
+Automobile battery 
+12 V
+Flashlight battery 
+(AA, AAA, C, D)
+1.5 V
+Resting potential across 
+nerve membrane 
+Potential changes on skin 
+(ECG and EEG) 
+10–4 V
+10–1 V
+102 V
+104 V
+105–106 V
+108 V
+Electron in TV tube. Suppose an electron is accelerated
+from rest through a potential difference
+(Fig. 17–4).
+(a) What is the change in electric potential energy of the electron? What is 
+(b) the kinetic energy, and (c) the speed of the electron 
+as a result of this acceleration?
+APPROACH The electron, accelerated toward the positive plate, will change in
+potential energy by an amount

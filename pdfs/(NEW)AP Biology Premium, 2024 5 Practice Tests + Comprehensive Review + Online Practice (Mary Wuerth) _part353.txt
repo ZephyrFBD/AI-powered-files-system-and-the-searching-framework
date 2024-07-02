@@ -1,0 +1,31 @@
+r this experiment.
+(c) Predict which strand of the DNA would be most affected by a ligase inhibitor.
+(d) Justify your prediction from part (c).
+Long Free-Response
+13. Polymerase chain reaction (PCR) uses a heat-stable DNA polymerase and repeated cycles of DNA replication
+to amplify specific sequences of DNA. Primers specific to the desired DNA sequences are used to direct DNA
+polymerase to the beginning of the sequence to be amplified. The following table shows the number of copies
+of the DNA sequence that exist at the end of each cycle.
+Number of Cycles of DNA Replication
+Number of Copies of Desired DNA Sequence
+0
+1
+1
+2
+2
+4
+3
+8
+4
+16
+5
+32
+6
+64
+7
+128
+(a) Explain why a primer is needed to direct DNA polymerase to copy the desired sequence.
+(b) Construct a graph of the data from the table.
+(c) Analyze the data, and state the mathematical relationship between the number of cycles of PCR and the
+number of copies of the desired DNA sequence generated.
+(d) Predict the minimum number of cycles

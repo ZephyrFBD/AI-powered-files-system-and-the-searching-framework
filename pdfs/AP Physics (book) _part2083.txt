@@ -1,0 +1,14 @@
+
+by 20 V, but when it passes from b to c it drops by 12 V. So the net change is
+You might think that connecting batteries in reverse like
+this would be wasteful. For most purposes that would be true. But such a reverse
+arrangement is precisely how a battery charger works. In Fig. 19–14b, the 20-V
+source is charging up the 12-V battery. Because of its greater voltage, the 
+20-V source is forcing charge back into the 12-V battery: electrons are being
+forced into its negative terminal and removed from its positive terminal.
+An automobile alternator keeps the car battery charged in the same way.
+A voltmeter placed across the terminals of a (12-V) car battery with the engine
+running fairly fast can tell you whether or not the alternator is charging the
+battery. If it is, the voltmeter reads 13 or 14 V. If the battery is not being charged,
+the voltage will be 12 V, or less if the battery is discharging. Car batteries can be
+recharged, but other batteries may not be rechargeable because the c

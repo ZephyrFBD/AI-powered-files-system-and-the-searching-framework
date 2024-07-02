@@ -1,0 +1,10 @@
+ turn genes on and activate them. For example, when glucose is scarce, E. coli bacteria
+can turn to other sugar sources for fuel. To do this, new genes to process these alternate genes must be transcribed. When
+glucose levels drop, cyclic AMP (cAMP) begins to accumulate in the cell. The cAMP molecule is a signaling molecule that
+is involved in glucose and energy metabolism in E. coli. When glucose levels decline in the cell, accumulating cAMP binds
+to the positive regulator catabolite activator protein (CAP), a protein that binds to the promoters of operons that control
+the processing of alternative sugars. When cAMP binds to CAP, the complex binds to the promoter region of the genes that
+are needed to use the alternate sugar sources (Figure 16.4). In these operons, a CAP binding site is located upstream of the
+RNA polymerase binding site in the promoter. This increases the binding ability of RNA polymerase to the promoter region
+and the transcription of the genes.
+Figure 16.4 When glu

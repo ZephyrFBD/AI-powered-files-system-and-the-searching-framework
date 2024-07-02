@@ -1,0 +1,32 @@
+ce
+The car just begins to budge with the rope at
+an angle , which she estimates to be 5°. With what force 
+is the rope pulling on the car? Neglect the mass of the rope.
+(b) What is the “mechanical advantage” of this technique
+[Section 4–7]? (c) At what angle 
+would this technique
+become counterproductive? [Hint: Consider the forces on
+a small segment of rope where 
+acts, Fig. 4–78b.]
+F
+B
+P
+u
+u
+F
+P L 300 N.
+2. (a) Show that the minimum stopping distance for an automo-
+bile traveling on a level road at speed v is equal to 
+where 
+is the coefficient of static friction between the tires
+and the road, and g is the acceleration of gravity. (b) What
+is this distance for a 1200-kg car traveling 
+if
+(c) What would it be if the car were on the
+Moon (the acceleration of gravity on the Moon is about 
+g 6) but all else stayed the same?
+3. In the equation for static friction in Section 4–8, what is
+the significance of the
+sign? When should you use the
+equals sign in the static friction equation?
+4. 

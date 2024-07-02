@@ -1,0 +1,21 @@
+te that Corinne is consistently at a lower elevation than Paul at any instant,
+until the end. This means she has converted her potential energy to kinetic energy
+earlier. Consequently, she is traveling faster than Paul for the whole trip, and
+because the distance is the same, Corinne gets to the bottom first.
+1
+2 mv2 = mgh.
+CONCEPTUAL EXAMPLE 6;9
+T
+wo kinds of potential energy. A ball of mass
+starting from rest, falls a vertical distance
+before striking a 
+vertical coiled spring, which it compresses an amount  
+(Fig. 6–23).
+Determine the spring stiffness constant k of the spring. Assume the spring has
+negligible mass, and ignore air resistance. Measure all distances from the point
+where the ball first touches the uncompressed spring (
+at this point).
+APPROACH The forces acting on the ball are the gravitational pull of the
+Earth and the elastic force exerted by the spring. Both forces are conservative,
+so we can use conservation of mechanical energy, including both types of poten-
+tial 

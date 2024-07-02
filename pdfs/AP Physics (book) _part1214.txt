@@ -1,0 +1,52 @@
+at each resonant
+frequency is an integer multiple of the fundamental frequency on a vibrating string.
+Because a standing wave is equivalent to two traveling waves moving in
+opposite directions, the concept of wave velocity still makes sense and is given by
+Eq. 11–13 in terms of the tension 
+in the string and its mass per unit length
+That is,
+for waves traveling in either direction.
+v = 1F
+Tm
+(m = ml).
+F
+T
+f
+1 = vl1 = v2l
+f
+n =
+v
+ln
+= n v
+2l = nf
+1,     
+n = 1,  2,  3, p,
+f = vl,
+cstring fixed
+at both endsd
+ln = 2l
+n
+,    n = 1,  2,  3, p.
+ln
+n = 2
+n = 1
+l = nln
+2
+,  where n = 1,  2,  3, p.
+l = 4
+2 l4 = 2l4 ,
+l = 3
+2 l3 ,
+l = l2 .
+l
+l1
+l = 1
+2 l1 ,
+l
+316
+CHAPTER 11
+†The term “harmonic” comes from music, because such integral multiples of frequencies “harmonize.”
+Piano string. A piano string 1.10 m long has mass 9.00 g.
+(a) How much tension must the string be under if it is to vibrate at a fundamental
+frequency of 131 Hz? (b) What are the frequencies of the first four harmonics?
+APP

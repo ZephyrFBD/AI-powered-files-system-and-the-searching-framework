@@ -1,0 +1,24 @@
+ulum has a period of 1.85 s on Earth. What is its
+period on Mars, where the acceleration of gravity is about
+0.37 that on Earth?
+28. (I) How long must a simple pendulum be if it is to make
+exactly one swing per second? (That is, one complete oscil-
+lation takes exactly 2.0 s.)
+29. (I) A pendulum makes 28 oscillations in exactly 50 s. What
+is its (a) period and (b) frequency?
+30. (II) What is the period of a simple pendulum 47 cm long
+(a) on the Earth, and (b) when it is in a freely falling 
+elevator?
+31. (II) Your grandfather clock’s pendulum has a length of
+0.9930 m. If the clock runs slow and loses 21 s per day, how
+should you adjust the length of the pendulum?
+32. (II) Derive a formula for the maximum speed 
+of a
+simple pendulum bob in terms of g, the length 
+and the
+maximum angle of swing 
+33. (III) A simple pendulum oscillates with an amplitude of
+10.0°. What fraction of the time does it spend between
+and 
+Assume SHM.
+34. (III) A clock pendulum oscillates at a frequency of 2.5 Hz.

@@ -1,0 +1,33 @@
+t. These isotopes are incorporated into molecules that, when
+inhaled or injected, accumulate in the organ or region of the body to be studied.
+18
+9F
+11
+6C,  13
+7N,  15
+8O,
+*
+P H Y S I C S  A P P L I E D
+Medical imaging
+P H Y S I C S  A P P L I E D
+Emission tomography
+(SPECT, PET)
+906
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation
+When such a nuclide undergoes 
+decays, the emitted positron travels at most 
+a few millimeters before it collides with a normal electron. In this collision, the
+positron and electron are annihilated, producing two 
+rays 
+each having an energy of 511 keV 
+The two 
+rays fly off in opposite
+directions 
+since they must have almost exactly equal and opposite
+momenta to conserve momentum (the momenta of the initial 
+and 
+are essen-
+tially zero compared to the momenta afterward of the rays). Because the photons
+travel along the same line in opposite directions, their detection in coincidence
+by rings of detectors surrounding the patient (Fig. 31–21) readily

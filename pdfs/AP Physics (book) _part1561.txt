@@ -1,0 +1,37 @@
+ns and the polar ice caps (see Fig. 14–12)
+depends on this 
+factor in Eq. 14–8. The seasons are not a result of how close
+the Earth is to the Sun—in fact, in the Northern Hemisphere, summer occurs
+when the Earth is farthest from the Sun. It is the angle (i.e.,
+) that really mat-
+ters. Furthermore, the reason the Sun heats the Earth more at midday than at
+sunrise or sunset is also related to this 
+factor.
+cos u
+cos u
+cos u
+A cos u
+u
+Q
+t
+= A1000 Wm2B A cos u,
+
+1000 Wm2
+1350 Wm2,
+T
+2,
+Getting a tan—energy absorption. What is
+the rate of energy absorption from the Sun by a person lying flat on the beach
+on a clear day if the Sun makes a 30° angle with the vertical? Assume that
+and that 
+reaches the Earth’s surface.
+APPROACH We use Eq. 14–8 and estimate a typical human to be roughly 2 m
+tall by 0.4 m wide, so
+See Fig. 14–11.
+SOLUTION Since
+we have
+NOTE If a person wears light-colored clothing,
+is much smaller, so the energy
+absorbed is less.
+
+= A1000 Wm2B(0.70)A0.8 m2B(0.866) = 500 W

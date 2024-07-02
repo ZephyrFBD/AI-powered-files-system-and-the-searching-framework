@@ -1,0 +1,15 @@
+igation.
+Semiconductors on the Nanoscale
+Figure 12.22 shows that, in small molecules, electrons occupy discrete molecular 
+orbitals, whereas in macroscale solids the electrons occupy delocalized bands. At what 
+point does a molecule get so large that it starts behaving as though it has delocalized 
+bands rather than localized molecular orbitals? For semiconductors, both theory 
+and experiment tell us that the answer is roughly at 1 to 10 nm (about 10–100 atoms 
+across). The exact number depends on the specific semiconductor material. The equa-
+tions of quantum mechanics that were used for electrons in atoms can be applied to 
+electrons (and holes) in semiconductors to estimate the size where materials undergo 
+a crossover from molecular orbitals to bands. Because these effects become import-
+ant at 1 to 10 nm, semiconductor particles with diameters in this size range are called 
+quantum dots.
+One of the most spectacular effects of reducing the size of a semiconductor crystal is 
+that t

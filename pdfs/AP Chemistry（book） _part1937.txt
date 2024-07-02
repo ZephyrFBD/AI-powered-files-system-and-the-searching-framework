@@ -1,0 +1,40 @@
+
+S
+S
+C
+CH3
+CH2
+H
+CH2
+C
+C
+C
+C
+CH3
+CH2
+H
+CH2
+C
+C
++
+(b)
+(a)
+▲ Figure 12.42 Vulcanization of natural rubber. (a) Formation of polymeric natural rubber from the  
+monomer isoprene. (b) Adding sulfur to rubber creates carbon–sulfur bonds and sulfur–atom links  
+between chains.
+ 
+SECTION 12.8   
+Polymers 
+505
+506 
+CHAPTER 12 Solids and Modern Materials
+degradation reactions. The sulfur changes rubber into a thermosetting polymer by 
+cross-linking the polymer chains through reactions at some of the double bonds, as 
+shown schematically in Figure 12.42(b). Cross-linking of about 5% of the double bonds 
+creates a flexible, resilient rubber. When the rubber is stretched, the cross-links help pre-
+vent the chains from slipping, so that the rubber retains its elasticity. Because heating 
+was an important step in his process, Goodyear named it after Vulcan, the Roman god 
+of fire.
+Most polymers contain sp3-hybridized carbon atoms lacking delocalized p elec-
+trons 
+ (Section 9.6), so they are usually

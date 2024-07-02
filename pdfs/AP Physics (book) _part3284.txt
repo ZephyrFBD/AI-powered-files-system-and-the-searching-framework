@@ -1,0 +1,15 @@
+n in Fig. 29–32c. (The variation in output shown
+in Fig. 29–32c is called ripple voltage.)
+Rectifier circuits are important because most line voltage in buildings is ac,
+and most electronic devices require a dc voltage for their operation. Hence, diodes
+are found in nearly all electronic devices including radios, TV sets, computers, and
+chargers for cell phones and other devices.
+Photovoltaic Cells
+Solar cells, also called photovoltaic cells, are rather heavily doped pn junction
+diodes used to convert sunlight into electric energy. Photons are absorbed, creating
+electron–hole pairs if the photon energy is greater than the band gap energy,
+(see Figs. 29–25c and 29–28). That is, the absorbed photon excites an electron
+from the valence band up to the conduction band, leaving behind a hole in the
+valence band. The created electrons and holes produce a current that, when 
+connected to an external circuit, becomes a source of emf and power. A typical
+silicon pn junction may produce about 0.6

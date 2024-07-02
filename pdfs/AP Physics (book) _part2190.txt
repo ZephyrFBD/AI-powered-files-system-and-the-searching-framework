@@ -1,0 +1,25 @@
+of wire exposed to the magnetic
+field. The force also depends on the angle between the current direction and the
+magnetic field (Fig. 20–12), being proportional to 
+Thus, the force on a wire
+carrying a current I with length in a uniform magnetic field B is given by
+When the current is perpendicular to the field lines 
+and
+the
+force is strongest. When the wire is parallel to the magnetic field lines 
+there is no force at all.
+Up to now we have not defined the magnetic field strength precisely. In fact,
+the magnetic field B can be conveniently defined in terms of the above propor-
+tion so that the proportionality constant is precisely 1. Thus we have
+(20;1)
+If the current’s direction is perpendicular to the field 
+then the force is
+(20;2)
+(If B is not uniform, then B in Eqs. 20–1 and 20–2 can be the average field over
+the length of the wire.)
+The magnitude of 
+can be defined using Eq. 20–2 as
+where
+is the magnitude of the force on a straight length 
+of wire carrying a 
+current I when the

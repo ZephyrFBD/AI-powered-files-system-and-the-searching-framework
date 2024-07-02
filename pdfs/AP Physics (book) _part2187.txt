@@ -1,0 +1,27 @@
+rm—the fields are different in
+magnitude and direction at different locations.
+SECTION 20–2
+Electric Currents Produce Magnetic Fields
+563
+Right-Hand-Rule-1:
+Magnetic field direction
+produced by electric current
+EXERCISE B A straight wire carries a current directly toward you. In what direction are
+the magnetic field lines surrounding the wire?
+(c)
+(a)
+(b)
+(d)
+I
+I
+B
+I
+B
+I
+FIGURE 20–9 Magnetic field lines
+due to a circular loop of wire.
+FIGURE 20–8 (a) Deflection of compass needles near a current-carrying wire, showing the presence and 
+direction of the magnetic field. (b) Iron filings also align along the direction of the magnetic field lines near a 
+straight current-carrying wire. (c) Diagram of the magnetic field lines around an electric current in a straight wire.
+(d) Right-hand rule for remembering the direction of the magnetic field: when the thumb points in the direction of 
+the conventional current, the fingers wrapped around the wire point in the direction of the magnetic field.

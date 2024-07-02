@@ -1,0 +1,30 @@
+. Electrons
+emitted by a heated filament in a vacuum
+tube are accelerated by a high voltage.
+When they strike the surface of the
+anode, the “target,” X-rays are emitted.
++
+–
+–
++
+Heater
+Heater
+emf
+Electrons
+X-rays
+Target
+(anode)
+High voltage
+Investigations into the nature of X-rays indicated they were not charged par-
+ticles (such as electrons) since they could not be deflected by electric or magnetic
+fields. It was suggested that they might be a form of invisible light. However,
+they showed no diffraction or interference effects using ordinary gratings.
+Indeed, if their wavelengths were much smaller than the typical grating spacing
+of 
+no effects would be expected. Around 1912, Max von Laue
+(1879–1960) suggested that if the atoms in a crystal were arranged in a regular
+array (see Fig. 13–2a), such a crystal might serve as a diffraction grating for very
+short wavelengths on the order of the spacing between atoms, estimated to be
+about 
+Experiments soon showed that X-rays scattered 
+from

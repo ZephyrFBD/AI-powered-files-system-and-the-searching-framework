@@ -1,0 +1,17 @@
+a prelude to the details, note the following:
+ 
+1. As in transcription, translation is categorized into three steps— initiation, elongation, and termination.
+2. Energy for translation is provided by several GTP (guanosine triphosphate) molecules. GTP acts as an energy
+supplier in the same manner as ATP.
+3. A ribosome has three binding sites for tRNA molecules arranged in a series:
+ 
+The A site (for amino acid or “acceptor”), in the first position, accepts an incoming tRNA carrying an amino acid.
+The amino acid is passed on to the tRNA in the second position.
+The P site (for polypeptide), in the second position, holds the tRNA with a growing chain of amino acids
+(polypeptide).
+The E site (for exit), in the third position, holds the tRNA after it gives up its amino acid.
+The details of translation follow, with numbers corresponding to events illustrated in Figure 9-6:
+ 
+1. Initiation begins when the small ribosomal subunit attaches near the end of the mRNA.
+ 
+2. A tRNA (with anticodon UA

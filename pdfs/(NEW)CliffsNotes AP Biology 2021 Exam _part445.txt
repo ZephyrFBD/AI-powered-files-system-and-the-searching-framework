@@ -1,0 +1,25 @@
+iety of insects and their range of habitat and ecological influence is an example of adaptive radiation
+on a grand scale. 13. A. Evolution does not occur for an individual. Only groups of individuals (of the same species)
+evolve.
+Grid-In Questions
+1. Answer: 0.7
+ 
+The information given in the question is summarized as follows:
+ 
+q2 = 0.09 = white sheep (homozygous recessives)
+ 
+p2 + 2pq = 0.91 = black sheep (homozygous dominants and heterozygotes)
+ 
+Then, calculate the square root of q2= 0.09, using your calculator if necessary:
+q = 0.3 or 30%
+p = 1 − q = 0.7 (since p + q = 1)
+The question asks for the frequency (not the percentage) rounded to the nearest tenth, so you should enter 0.7 into
+the answer grid.
+ 
+2. Answer: .65
+ 
+First, add up all the individuals to find the size of the population: 169 + 182
+ 
++ 49 = 400. Then, p2= 169 ÷ 400 = 0.4225. Take the square root of p2to
+ 
+find p = 0.65. Be sure to enter your answer as a percentage in decimal form into the answer grid: .65 or 0.65

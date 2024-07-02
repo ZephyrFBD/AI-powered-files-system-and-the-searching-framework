@@ -1,0 +1,26 @@
+ motion and then its dynamics (involving torque), as well 
+as rotational kinetic energy and angular momentum (the rotational analog of 
+linear momentum). Our understanding of the world around us will be increased
+significantly—from rotating bicycle wheels and compact discs to amusement park 
+rides, a spinning skater, the rotating Earth, and a centrifuge—and there may be a
+few surprises.
+We will consider mainly the rotation of rigid objects about a fixed axis.
+A rigid object is an object with a definite shape that doesn’t change, so that the
+particles composing it stay in fixed positions relative to one another. Any real
+object is capable of vibrating or deforming when a force is exerted on it. But these
+effects are often very small, so the concept of an ideal rigid object is very useful as
+a good approximation.
+8
+C
+H
+A
+P
+T
+E
+R
+You too can experience rapid
+rotation—if your stomach can 
+take the high angular velocity 
+and centripetal acceleration of 
+some of the faster amusement 
+park ri

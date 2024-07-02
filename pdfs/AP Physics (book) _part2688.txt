@@ -1,0 +1,23 @@
+
+equals 
+Thus,
+so
+This is the smallest thickness.
+NOTE At this small thickness, blue (450 nm) and red (600 nm) also would reflect
+fairly constructively, so the bubble would appear almost white. The green color is
+more likely to be seen at the next thickness that gives constructive interference,
+because other colors would be more fully cancelled by destructive
+interference. Then would be 
+. Note that green is seen in 
+air, so
+(not 
+).
+Colors in a Thin Soap Film
+The thin film of soapy water (in a plastic loop) shown in Fig. 24–29b (repeated
+here) has stood vertically for a long time. Gravity has pulled the soapy water
+downward, so the film increases in thickness going toward the bottom. The top
+section is so thin (perhaps 30 nm thick
+) that light reflected from the front
+and back surfaces have almost zero path difference. Thus the 180° phase change
+at the front surface assures that the two reflected waves are 180° out of phase for
+all wavelengths of visible light. The white light inciden

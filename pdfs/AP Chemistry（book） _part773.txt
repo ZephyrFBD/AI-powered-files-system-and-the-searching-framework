@@ -1,0 +1,36 @@
+electrical discharge.  
+Is ∆H f
+° for O3(g) necessarily zero?
+ 
+SECTION 5.7   
+Enthalpies of Formation 
+189
+reaction is the sum of the standard enthalpies of formation of the products minus the 
+standard enthalpies of formation of the reactants:
+ 
+∆H°
+rxn = Σn∆H f°1products2 - Σm∆Hf°1reactants2 
+[5.31]
+The symbol Σ (sigma) means “the sum of,” and n and m are the stoichiometric 
+coefficients of the relevant chemical equation. The first term on the right in Equa-
+tion 5.31 represents the formation reactions of the products, which are written in 
+the “forward” direction in the chemical equation, that is, elements reacting to form 
+products. This term is analogous to Equations 5.27 and 5.28. The second term on 
+ 
+the right in Equation 5.31 represents the reverse of the formation reactions of 
+ 
+the reactants, analogous to Equation 5.26, which is why this term is preceded by a 
+minus sign.
+1
+2
+3
+DH2
+1181 kJ
+DHrxn 
+2220 kJ
+DH3
+1143 kJ
+     Formation of 4 H2O
+3 C (graphite) 
+ 4 H2(g) 
+ 5 O2(g

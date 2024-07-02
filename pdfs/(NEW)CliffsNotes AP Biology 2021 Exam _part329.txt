@@ -1,0 +1,13 @@
+xed base-pairing requirement, called wobble pairing,
+allows the anticodon of some tRNAs to base-pair with more than one kind of codon. As a result, about 45 different
+tRNAs base-pair with the 61 codons that code for amino acids.
+3. Ribosomal RNA (rRNA) molecules combine with various proteins to form ribosomes. The rRNA molecules are
+transcribed in the nucleolus and assembled with proteins imported from the cytoplasm to form a large and a small
+ribosome subunit. In the cytoplasm, the two subunits join to form a ribosome that coordinates the activities of the
+mRNA and tRNA during translation.
+Figure 9-4
+Transcription
+Transcription begins with initiation, continues with elongation, and ends with termination. The details follow, with
+numbers corresponding to events illustrated in Figure 9-5:
+1. In initiation, the RNA polymerase attaches to a promoter region on the DNA and begins to unzip the DNA into
+two strands. A promoter region for mRNA transcriptions often contains the sequence T-A-T-A

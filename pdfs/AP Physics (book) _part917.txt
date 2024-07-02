@@ -1,0 +1,50 @@
+ negative x or y axis, it must have a negative sign. Equations 9–1
+represent the first condition for equilibrium.
+We saw in Chapter 4 that to solve Problems involving forces, we need to draw
+a free-body diagram, indicating all the forces on a given object (see Section  4–7).
+©F
+x = 0,    ©F
+y = 0,    ©F
+z = 0.
+232
+CHAPTER 9
+F
+B
+F
+B
+FIGURE 9–5 Although the net force
+on it is zero, the ruler will move
+(rotate). A pair of equal forces acting
+in opposite directions but at different
+points on an object (as shown here) is
+referred to as a couple.
+y
+x
+y
+x
+FAy
+FAx
+   A
+60°
+   B
+200 kg
+1960 N
+   A
+60°
+(a)
+(b)
+F
+B
+F
+B
+F
+B
+FIGURE 9–4 Example 9–2.
+Chandelier cord tension. Calculate the tensions 
+and 
+in the two cords that are connected to the vertical cord supporting the 200-kg
+chandelier in Fig. 9–4. Ignore the mass of the cords.
+APPROACH We need a free-body diagram, but for which object? If we choose
+the chandelier, the cord supporting it must exert a force equal to the chande-
+lier’s weight
+But

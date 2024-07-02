@@ -1,0 +1,29 @@
+
+pass through a maximum length of atmosphere. Much of the blue has been taken
+out by scattering. The light that reaches us at this low angle where the Sun is near
+the horizon, and reflects off clouds and haze, is thus lacking in blue. That is why
+sunsets appear reddish.
+The dependence of scattering on 
+is valid only if the scattering objects
+are much smaller than the wavelength of the light. This is valid for oxygen and
+nitrogen molecules whose diameters are about 0.2 nm. Clouds, however, contain
+water droplets or crystals that are much larger than 
+They scatter all frequencies
+of light nearly uniformly. Hence clouds appear white (or gray, if shadowed).
+l.
+1l4
+1l4.
+l.
+*
+704
+CHAPTER 24
+FIGURE 24–53 Arrangement of
+subpixels on a TV or computer display
+(enlarged).
+FIGURE 24–54 Unpolarized sunlight
+scattered by molecules of the air. An
+observer at right angles sees plane-
+polarized light, since the component
+of oscillation along the line of sight
+emits no light along that line.
+P H Y S I

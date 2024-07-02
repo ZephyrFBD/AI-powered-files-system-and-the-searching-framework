@@ -1,0 +1,51 @@
+
+QH
+a
+b
+Isothermal
+expansion
+(1)
+Q = 0
+b
+c
+d
+a
+Adiabatic
+expansion
+(2)
+c
+d
+Isothermal
+compression
+QL
+(3)
+Q = 0
+Adiabatic
+compression
+(4)
+FIGURE 15–14 The Carnot cycle. Heat engines work in 
+a cycle, and the cycle for the theoretical Carnot engine 
+begins at point “a” on this PV diagram for an ideal gas.
+(1) The gas is first expanded isothermally, with the addition
+of heat 
+along the path “ab” at temperature 
+(2) Next the gas expands adiabatically from “b” to “c”—
+no heat is exchanged, but the temperature drops to 
+(3) The gas is then compressed at constant temperature 
+path cd, and heat 
+flows out. (4) Finally, the gas is 
+compressed adiabatically, path da, back to its original state.
+QL
+T
+L,
+T
+L .
+T
+H.
+QH,
+Steam engine efficiency. A steam engine operates
+between 500°C and 270°C. What is the maximum possible efficiency of this
+engine?
+APPROACH The maximum possible efficiency is the idealized Carnot efficiency,
+Eq. 15–5. We must use kelvin temperatures.
+SOLUTION We first change the temp

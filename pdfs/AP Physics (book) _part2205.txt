@@ -1,0 +1,51 @@
+dependent of the velocity of the particle).
+TABLE 20–1 Summary of Right-hand Rules ( RHR)
+Physical Situation
+Example
+How to Orient Right Hand
+Result
+1. Magnetic field produced by 
+Wrap fingers around wire 
+Fingers curl in direction of 
+current 
+with thumb pointing in 
+(RHR-1)
+direction of current I
+Fig. 20;8d
+2. Force on electric current I
+Fingers first point straight 
+Thumb points in direction 
+due to magnetic field 
+along current I, then bend 
+of the force 
+(RHR-2)
+along magnetic field 
+Fig. 20;11c
+3. Force on electric charge 
+Fingers point along particle’s 
+Thumb points in direction 
+due to magnetic field 
+velocity 
+then along 
+of the force 
+(RHR-3)
+Fig. 20;15
+F
+B
+B
+B
+v
+B,
+±q
+B
+B
+F
+B
+B
+B
+Stopping charged particles. An electric
+charge q moving in an electric field 
+can be decelerated to a stop if the force
+(Eq. 16–5) acts in the direction opposite to the charge’s velocity. Can
+a magnetic field be used to stop a charged particle?
+RESPONSE No, because the force is always perpendicular

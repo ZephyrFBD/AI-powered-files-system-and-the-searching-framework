@@ -1,0 +1,15 @@
+ive Assessment 
+Have students consider the following when analyzing the gene sequences: 
+•  The higher the score, the closer the alignment. 
+•  The lower the e value, the closer the alignment. 
+•  Sequences with e values less than 1e-04 (1 x 10-4) can be considered related with an 
+error rate of less than 0.01%. 
+Students should analyze and discuss the data and try to form logical hypotheses based 
+on evidence. While the evidence is leading toward a close relatedness with birds and/or 
+reptiles, you should assess students on their understanding of cladogram construction, 
+in general, and the evidence they use to defend their hypothesis. 
+The following questions are suggested as guidelines to assess students’ understanding 
+of the concepts presented in the investigation, but you are encouraged to develop your 
+own methods of postlab assessment: 
+•  Are students able to make predictions about where the fossil species could be placed 
+on the cladogram based on information they collected f

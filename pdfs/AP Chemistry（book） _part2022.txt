@@ -1,0 +1,13 @@
+tside the system. When the molecules mix and 
+become more randomly distributed, there is an increase in a thermodynamic quan-
+tity called entropy. Entropy will be defined more rigorously in Chapter 19; but for 
+now, we can consider that the entropy of a system increases if its degree of disor-
+der increases, or if its energy becomes dispersed over a greater number of particles. 
+Therefore, the mixing of gases we just described increases the entropy of the system. 
+The enthalpy of the system, however, changes little upon gas mixing because there 
+are few intermolecular interactions between the gas particles. All of the intermolec-
+ular forces (dispersion forces, dipole–dipole interactions, hydrogen bonding) and 
+their corresponding energies are part of the enthalpy of the system. Decreasing the 
+enthalpy of the system would correspond to increasing favorable intermolecular 
+interactions between gas particles. Furthermore, the balance between increasing the 
+entropy and decreasing the en

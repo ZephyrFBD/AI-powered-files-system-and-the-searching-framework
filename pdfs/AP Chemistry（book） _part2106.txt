@@ -1,0 +1,51 @@
+hes the expected value based on 
+the number of ions in the formula unit. Thus, we conclude that the 
+extent of ion pairing in electrolyte solutions decreases upon dilu-
+tion. Second, the lower the charges on the ions, the less i departs 
+from the expected value because the extent of ion pairing decreases 
+as the ionic charges decrease. Both trends are consistent with sim-
+ple electrostatics: The force of interaction between charged particles 
+decreases as their separation increases and as their charges decrease.
+Related Exercises: 13.83, 13.84, 13.103, 13.105
+TABLE 13.4 Measured and Expected van’t Hoff 
+Factors for Several Substances at 25 °C
+Concentration
+Compound
+0.100 m
+0.0100 m
+0.00100 m
+Expected Value
+Sucrose
+1.00
+1.00
+1.00
+1.00
+NaCl
+1.87
+1.94
+1.97
+2.00
+K2SO4
+2.32
+2.70
+2.84
+3.00
+MgSO4
+1.21
+1.53
+1.82
+2.00
+TABLE 13.5 Types of Colloids
+Phase of Colloid
+Dispersing (solvent-like) 
+Substance
+Dispersed (solute-like) 
+Substance
+Colloid Type
+Example
+Gas
+Gas
+Gas
+—
+None (all are solutions)
+G

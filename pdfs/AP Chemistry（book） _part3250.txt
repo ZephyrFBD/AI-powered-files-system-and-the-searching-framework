@@ -1,0 +1,27 @@
+er of the cobalt increase or decrease as the 
+battery charges?
+Current collector
+Current collector
+Anode
+Electrolyte
+Cathode
+Li+
+The graphite anode contains layers of carbon 
+atoms (black spheres). Li+ can move in and 
+out of the space between the layers.
+The cathode contains cobalt oxide layers (blue 
+spheres = Co, red spheres = O). Li+ can move 
+in and out of the space between the layers.
+3.7 V
+e−
+e−
++
+−
+▲ Figure 20.21 Schematic of a Li-ion battery. When the battery is discharging (operating), Li+ ions  
+move out of the anode and migrate through the electrolyte where they enter the spaces between the  
+cobalt oxide layers, reducing the cobalt ions. To recharge the battery, electrical energy is used to  
+drive the Li+ back to the anode, oxidizing the cobalt ions in the cathode.
+There has been a tremendous growth over the last two decades in 
+the development of electric vehicles. This growth has been driven by 
+a desire to reduce the use of fossil fuels and lower emissions. Today 
+both

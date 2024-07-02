@@ -1,0 +1,85 @@
+it should.
+(0.50 A)A1.5 * 10–3 B(30 ) = 25 mA,
+I
+G = I
+R ARshrB =
+I L I
+R
+I
+G
+ARshrB
+I
+G = I
+R ARshrB
+0.0015 .
+Rsh = I
+Gr
+I
+R
+=
+A5.0 * 10–5 AB(30 )
+(0.999950 A)
+= 1.5 * 10–3 ,
+I
+RRsh = I
+Gr.
+I
+R = 0.999950 A.
+I
+R
+I = 1.0 A
+I = I
+G + I
+R,
+Rsh.
+Rsh,
+AI
+R = 0.999950 AB
+50 mA A= I
+G = 0.000050 AB
+r = 30 .
+50 mA
+EXAMPLE 19;15
+(b)
+(a)
+Rsh
+IG
+IR
+=
+A
+G
+I
+I
+r
+Ammeter
+FIGURE 19–31 An ammeter is a 
+galvanometer in parallel with a (shunt) 
+resistor with low resistance, Rsh.
+FIGURE 19–30 (a) An analog
+multimeter. (b) An electronic digital
+meter measuring voltage at a circuit
+breaker.
+An analog voltmeter (
+) consists of a galvanometer and a resistor 
+con-
+nected in series, Fig. 19–32.
+is usually large, giving a voltmeter a high internal
+resistance.
+Rser
+Rser
+V
+P H Y S I C S  A P P L I E D
+Voltmeters use series resistor
+SECTION 19–8
+547
+=
+Rser
+Voltmeter
+V
+G
+r
+FIGURE 19–32 A voltmeter is a 
+galvanometer in series with a resistor 
+with high resistance, Rser .
+P H Y S I C S  A P P L I E D
+Corr

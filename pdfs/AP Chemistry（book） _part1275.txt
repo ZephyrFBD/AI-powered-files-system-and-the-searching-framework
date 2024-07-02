@@ -1,0 +1,23 @@
+s 
+structure?  
+(a) zero (b) one (c) two (d) three (e) four
+ 
+▶Practice Exercise 2
+Draw the Lewis structure for (a) NO+ ion, (b) C2H4.
+SOLUTION
+Hydrogen has one valence electron, carbon (group 4A) has four, 
+and nitrogen (group 5A) has five. The total number of valence 
+electrons is, therefore, 1 + 4 + 5 = 10. In principle, there are 
+different ways in which we might choose to arrange the atoms. 
+Because hydrogen can accommodate only one electron pair, it 
+always has only one single bond associated with it. Therefore, 
+C ¬H ¬N is an impossible arrangement. The remaining two  
+possibilities are H ¬C ¬N and H ¬N ¬C. The first is the  
+arrangement found experimentally. You might have guessed this 
+because the formula is written with the atoms in this order, and 
+carbon is less electronegative than nitrogen. Thus, we  
+begin with the skeleton structure
+H ¬C ¬N
+The two bonds account for four electrons. The H atom can have 
+only two electrons associated with it, and so we will not add 
+any m

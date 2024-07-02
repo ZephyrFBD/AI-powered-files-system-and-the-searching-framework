@@ -1,0 +1,15 @@
+treatment disks into a solution of bicarbonate and
+control disks into a solution without bicarbonate.
+5. Expose both beakers to a light source and begin timing.
+6. As photosynthesis progresses, oxygen will accumulate in the spongy mesophyll, increasing the buoyancy of the
+leaf disks. Record the time it takes each disk to reach the surface.
+7. Summarize the data by calculating the median, the value at which half of the data is above and below. The median
+is a better statistic than the mean for this data because it reduces the impact of outliers. To obtain a rate for
+photosynthetic activity, calculate the time it takes for 50% of the
+disks to reach the surface
+ 
+. This value, called the effective
+ 
+time (ET50), has been shown to be a reliable number for photosynthetic rate for comparison across treatments.
+Part II: Investigating Factors That Affect the Rate of Photosynthesis
+Light intensity, light wavelength, temperature, and concentration of bicarbonate are environmental factors that af

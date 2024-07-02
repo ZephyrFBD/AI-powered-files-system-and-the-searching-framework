@@ -1,0 +1,17 @@
+nics, electrons obey the exclusion principle and can be only in certain
+possible energy levels or states. Electrons also obey a quantum statistics called
+Fermi;Dirac statistics† that takes into account the exclusion principle. All parti-
+cles that have spin 
+(or other half-integral spin:
+etc.), such as electrons,
+protons, and neutrons, obey Fermi–Dirac statistics and are referred to as fermions
+(see Section 28–7). The electron gas in a metal is often called a Fermi gas.
+According to the exclusion principle, no two electrons in the metal can have the
+same set of quantum numbers. Therefore, in each of the energy states available
+for the electrons in our “gas,” there can be at most two electrons: one with spin up
+and one with spin down 
+Thus, at 
+the possible
+energy levels will be filled, two electrons each, up to a maximum level called the
+Fermi level. This is shown in Fig. 29–21, where the vertical axis is the “density of
+occupied states,” whose meaning is similar to the Maxwell distrib

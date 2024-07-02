@@ -1,0 +1,18 @@
+ed Concentrations
+Mole Fraction, Molarity, and Molality
+Concentration expressions are often based on the number of moles of one or more com-
+ponents of the solution. Recall from Section 10.6 that the mole fraction of a component of 
+a solution is given by
+ 
+Mole fraction of component =
+moles of component
+total moles of all components 
+[13.7]
+The symbol X is commonly used for mole fraction, with a subscript to indicate the 
+component of interest. For example, the mole fraction of HCl in a hydrochloric acid 
+solution is represented as XHCl. Thus, if a solution contains 1.00 mol of HCl 136.5 g2 
+and 8.00 mol of water 1144 g2, the mole fraction of HCl is XHCl = 11.00 mol2>
+11.00 mol + 8.00 mol2 = 0.111. Mole fractions have no units because the units 
+in the numerator and the denominator cancel. The sum of the mole fractions of 
+all components of a solution must equal 1. Thus, in the aqueous HCl solution, 
+XH2O = 1.000 - 0.111 = 0.889. Mole fractions are very useful when dealing with gases,

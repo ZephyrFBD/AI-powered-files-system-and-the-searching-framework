@@ -1,0 +1,13 @@
+ looked at the genotypes of the parents and recognized
+that there could only be one possible genotype for offspring, but in cases where the parental genotypes are more
+varied, you’ll have to do the math. For questions that, at first reading, appear extremely difficult, take a moment to
+consider easy solutions.
+5. Answer: –14
+The free-energy change of a reaction is unaffected by the presence of an enzyme. It is the change in free energy from
+its initial state to its final state. A reaction with a negative AG is an exergonic reaction and has a net release of
+energy.
+6. Answer: –17.3 (acceptable range: –16.8 to –17.8)
+When the concentration of sucrose outside the bag (in the beaker) is isotonic to the solution inside the bag, there is
+no net movement of solutes between the bag and the beaker and no net change in the bag weight. This occurs at 0.7
+moles/liter on the graph. The water potential (Ψ) of the sucrose solution in the bag is the sum of its solute potential
+(Ψs) and pressure potent

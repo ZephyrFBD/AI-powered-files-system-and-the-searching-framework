@@ -1,0 +1,58 @@
+RE 16–43 (a) A uniform
+electric field 
+passing through a flat
+square area A. (b) 
+is
+the component of 
+perpendicular
+to the plane of area A.
+(c) 
+is the projection
+(dashed) of the area A
+perpendicular to the field E
+B.
+A⊥= A cos u
+E
+B
+E⊥= E cos u
+E
+B
+464
+CHAPTER 16
+Electric Charge and Electric Field
+GAUSS’S LAW
+1
+2
+A1
+A2
+Closed
+surface
+θ2
+θ1
+E
+B
+E
+B
+E
+B
+E
+B
+Δ
+Δ
+FIGURE 16–44 Electric field lines
+passing through a closed surface.
+The surface is divided up into many
+tiny areas,
+and so on,
+of which only two are shown.
+¢A1 , ¢A2, p ,
+Charged spherical conducting shell. A thin spherical
+shell of radius 
+possesses a total net charge Q that is uniformly distributed on it,
+Fig. 16–45. Determine the electric field at points (a) outside the shell, and 
+(b) inside the shell.
+APPROACH Because the charge is distributed symmetrically, the electric field
+must be symmetric. Thus the field outside the shell must be directed radially
+outward (inward if
+) and must depend only on r.
+SOLUTION (a) We choose 

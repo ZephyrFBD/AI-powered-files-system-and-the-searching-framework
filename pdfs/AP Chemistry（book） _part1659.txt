@@ -1,0 +1,36 @@
+h at the same temperature. The pressure in flask A is x atm, 
+and the mass of gas in the flask is 1.2 g. The pressure in flask B is 
+0.5x atm, and the mass of gas in that flask is 1.2 g. Which flask 
+contains the gas of molar mass 30, and which contains the 
+gas of molar mass 60?
+ 10.32  Suppose you are given two flasks at the same temperature, 
+one of volume 2 L and the other of volume 3 L. The 2-L flask 
+contains 4.8 g of gas, and the gas pressure is x atm. The 3-L 
+flask contains 0.36 g of gas, and the gas pressure is 0.1x. Do 
+the two gases have the same molar mass? If not, which con-
+tains the gas of higher molar mass?
+ 10.33  Complete the following table for an ideal gas:
+P
+V
+n
+T
+2.00 atm
+1.00 L
+0.500 mol
+? K
+0.300 atm
+0.250 L
+? mol
+27 °C
+650 torr
+? L
+0.333 mol
+350 K
+? atm
+585 mL
+0.250 mol
+295 K
+ 10.34  Calculate each of the following quantities for an ideal gas: 
+ 
+(a) the volume of the gas, in liters, if 1.50 mol has a pressure of 
+1.25 atm at a temperature of -6 °C; (b) the ab

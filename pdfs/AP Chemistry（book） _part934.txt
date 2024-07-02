@@ -1,0 +1,17 @@
+ssures that we can’t know the position and momentum of a particle 
+exactly, also raised many philosophical questions—so many, in fact, 
+that Heisenberg wrote a book entitled Physics and Philosophy in 1958.
+One of the most famous thought experiments put forward in 
+the early days of the quantum theory was formulated by Schrödinger 
+ 
+and is now known as “Schrödinger’s cat.” This experiment called 
+into question whether a system could have multiple acceptable wave 
+functions prior to observation of the system. In other words, if we 
+don’t actually observe a system, can we know anything about the 
+state it is in? In this paradox, a hypothetical cat is placed in a sealed 
+box with an  
+apparatus that will randomly trigger a lethal dose of poi-
+son to the cat (as morbid as that sounds). According to some inter-
+pretations of quantum theory, until the box is opened and the cat is 
+observed, the cat must be considered simultaneously alive and dead.
+Schrödinger posed this paradox to point out 

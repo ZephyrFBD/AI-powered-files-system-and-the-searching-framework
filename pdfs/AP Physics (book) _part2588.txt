@@ -1,0 +1,62 @@
+ent angle,
+is such that Snell’s law would
+u1 ,
+u2
+n2
+u1
+n1
+n1 sin u1 = n2 sin u2 ,
+n =
+c
+v
+,
+m =
+hi
+ho
+=
+– di
+do
+.
+ho,
+hi
+Summary
+R2 = −46 cm
+R1 =
+22 cm
+C1
+C2
+FIGURE 23–46 Example 23–17.
+The left surface is convex (center
+bulges outward); the right surface is
+concave.
+23–10 Lensmaker’s Equation
+A useful equation, called the lensmaker’s equation, relates the focal length of a lens 
+to the radii of curvature 
+and 
+of its two surfaces and its index of refraction n:
+(23;10)
+If both surfaces are convex,
+and 
+are considered positive.† For a concave
+surface, the radius must be considered negative.
+Notice that Eq. 23–10 is symmetrical in 
+and 
+Thus, if a lens is turned
+around so that light impinges on the other surface, the focal length is the same
+even if the two lens surfaces are different. This confirms what we said earlier:
+a lens’ focal length is the same on both sides of the lens.
+R2.
+R1
+R2
+R1
+1
+f = (n - 1) ¢ 1
+R1
++ 1
+R2
+≤.
+R2
+R1
+*
+Lensmaker’s equation
+†Some books use a different convent

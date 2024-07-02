@@ -1,0 +1,17 @@
+hen broaden our discussion to include two additional 
+types of aqueous equilibria: those involving slightly soluble salts and those involving the 
+formation of metal complexes in solution. The discussions and calculations in this chap-
+ter are extensions of those in Chapters 15 and 16.
+17.1 ∣ The Common-Ion Effect
+In Chapter 16, we examined the equilibrium concentrations of ions in solutions con-
+taining a weak acid or a weak base. We now consider solutions that contain a weak acid, 
+such as acetic acid 1CH3COOH2, and a soluble salt of that acid, such as sodium acetate 
+1CH3COONa2. Notice that these solutions contain two substances that share a common 
+ion, CH3COO-. It is instructive to view these solutions from the perspective of Le Châte-
+lier’s principle. 
+ (Section 15.7)
+Sodium acetate is a soluble ionic compound and therefore a strong electrolyte. 
+ 
+ (Section 4.1) Consequently, it dissociates completely in aqueous solution to form 
+Na+ and CH3COO- ions:
+CH3COONa1aq2 ¡ Na+1aq2 + C

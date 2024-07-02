@@ -1,0 +1,54 @@
+ added. Calculation 
+of the electric field at points A and B 
+for Examples 16–9 and 16–10.
+SOLUTION
+1. Draw a careful diagram. The directions of the electric fields 
+and 
+as
+well as the net field 
+are shown in Fig. 16–29.
+points away from the
+positive charge
+points toward the negative charge 
+2. Apply Coulomb’s law to find the magnitudes of the contributing electric
+fields. Because B is equidistant from the two equal charges (40 cm by the
+Pythagorean theorem), the magnitudes of 
+and 
+are the same; that is,
+3. Add vectorially, and use symmetry when possible. The y components of 
+and 
+are equal and opposite. Because of this symmetry, the total 
+field 
+is horizontal and equals 
+From
+Fig. 16–29,
+Then
+and the direction of 
+is along the 
+direction.
+±x
+E
+B
+B
+= 3.6 * 106 NC,
+EB = 2EB1 cos u = 2A2.8 * 106 NCB(0.65)
+ cos u = 26 cm40 cm = 0.65.
+EB1 cos u + EB2 cos u = 2 EB1 cos u.
+EB
+E
+B
+B2
+E
+B
+B1
+= 2.8 * 106 NC.
+EB1 = EB2 = kQ
+r2
+=
+A9.0 * 109 Nm2C2BA50 * 10–6 CB
+(0.40 m)2
+EB2
+EB1
+Q1 .
+E
+B

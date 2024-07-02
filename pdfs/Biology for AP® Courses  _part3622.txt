@@ -1,0 +1,10 @@
+ng four oxygen molecules is
+bright red, while venous blood that is deoxygenated is darker red.
+Figure 30.19 The protein inside (a) red blood cells that carries oxygen to cells and carbon dioxide to the lungs is (b)
+hemoglobin. Hemoglobin is made up of four symmetrical subunits and four heme groups. Iron associated with the
+heme binds oxygen. It is the iron in hemoglobin that gives blood its red color.
+It is easier to bind a second and third oxygen molecule to Hb than the first molecule. This is because the hemoglobin
+molecule changes its shape, or conformation, as oxygen binds. The fourth oxygen is then more difficult to bind. The binding
+of oxygen to hemoglobin can be plotted as a function of the partial pressure of oxygen in the blood (x-axis) versus the
+relative Hb-oxygen saturation (y-axis). The resulting graph—an oxygen dissociation curve—is sigmoidal, or S-shaped
+(Figure 30.20). As the partial pressure of oxygen increases, the hemoglobin becomes increasingly saturated with oxygen

@@ -1,0 +1,19 @@
+I) A single square loop of wire 22.0 cm on a side is placed
+with its face parallel to the magnetic field as in Fig. 20–34b.
+When 5.70 A flows in the coil, the torque on it is 
+What is the magnetic field strength?
+52. (I) If the current to a motor drops by 12%, by what factor
+does the output torque change?
+0.325 mN.
+47. (II) A 550-turn horizontal solenoid is 15 cm long. The current
+in its coils is 38 A. A straight wire cuts through the center
+of the solenoid, along a 3.0-cm diameter. This wire carries
+a 22-A current downward (and is connected by other wires
+that don’t concern us). What is the force on this wire
+assuming the solenoid’s magnetic field points due east?
+48. (III) You have 1.0 kg of copper and want to make a prac-
+tical solenoid that produces the greatest possible magnetic
+field for a given voltage. Should you make your copper wire
+long and thin, short and fat, or something else? Consider
+other variables, such as solenoid diameter, length, and so
+on. Explain your reasoning.

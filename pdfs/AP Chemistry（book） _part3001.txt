@@ -1,0 +1,14 @@
+
+Give It Some Thought
+Suppose you have a system made up of water only, with the container and 
+everything beyond being the surroundings. Consider a process in which the water 
+is first evaporated and then condensed back into its original container. Is this two-
+step process necessarily reversible?
+As an example, let’s consider a process involving the transfer of heat. When two objects 
+at different temperatures are in contact, heat flows spontaneously from the hotter object to 
+the colder one. Because it is impossible to make the heat flow in the opposite direction, 
+from colder to hotter, this is an irreversible process. Given this fact, can we imagine any 
+hypothetical conditions under which the heat transfer could be reversible? The answer is 
+yes, but only if we consider temperature changes that are infinitesimally small.
+Imagine the system and its surroundings at essentially the same temperature, with 
+just an infinitesimal temperature difference, dT, between them (Figure 19.3). I

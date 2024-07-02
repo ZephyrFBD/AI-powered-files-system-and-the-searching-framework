@@ -1,0 +1,27 @@
+ 
+two equations. 
+ (Section 15.3)
+Applying this rule to our present example, we see that when we multiply Ka and Kb, 
+we obtain
+ Ka * Kb = a
+3NH343H+4
+3NH4 
++4
+b a
+3NH4
++43OH-4
+3NH34
+b-
+ = 3H+43OH-4 = Kw
+Thus, the product of Ka and Kb is the ion-product constant for water, Kw (Equation 16.16). 
+We expect this result because adding Equations 16.38 and 16.39 gave us the autoioniza-
+tion equilibrium for water, for which the equilibrium constant is Kw.
+The above result holds for any conjugate acid–base pair. In general, the product of the 
+acid-dissociation constant for an acid and the base-dissociation constant for its conjugate base 
+equals the ion-product constant for water:
+ 
+Ka * Kb = Kw 1for a conjugate acid9base pair2 
+[16.40]
+Note that this relationship only holds true for conjugate acid–base pairs. You should not 
+use Equation 16.40 for any random pair of acids and bases! As the strength of an acid in-
+creases (Ka gets larger), the strength of its conjugate base must decrease (Kb 

@@ -1,0 +1,43 @@
+e linear map units (LMU)
+shown in the diagram below.
+Figure 13.14
+20. Studies like the one described in question AP12.1 were
+carried out by Morgan and Sturtevant beginning in 1911.
+The discovery of linkage was made by Bateson and
+Punnett in 1900. They crossed a true-breeding purple (P)
+plant with long seeds (L) with a true-breeding red (r) plant
+with round seeds (l). They then performed a self-cross
+between the F1 generations. They obtained the F2 data
+shown below.
+Pheno-
+type
+Geno-
+type(s)
+Ob-
+served
+Ex-
+pected
+purple,
+long
+4831
+purple,
+round
+390
+red,
+long
+393
+red,
+round
+1338
+total
+6952
+Table 13.1
+A. Use the symbols P, p, L, and l to construct a
+representation of the F2 genotypes and complete the
+second column in the table.
+B. Complete the fourth column of the table above by
+recording the values of the predicted numbers of plants
+with each genotype.
+C. Apply a c2 test at the 95% confidence level to evaluate
+the claim that these data confirm linkage. The definition
+of the statistic χ2 

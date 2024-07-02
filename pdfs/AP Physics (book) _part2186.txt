@@ -1,0 +1,13 @@
+o align tangent to a circle around the wire,
+Fig. 20–8a. Thus, the magnetic field lines produced by a current in a straight wire
+are in the form of circles with the wire at their center, Figs.20–8b and c. The direction
+of these lines is indicated by the north pole of the compasses in Fig. 20–8a.
+There is a simple way to remember the direction of the magnetic field lines in this
+case. It is called a right-hand rule: grasp the wire with your right hand so that your
+thumb points in the direction of the conventional (positive) current; then your
+fingers will encircle the wire in the direction of the magnetic field, Fig. 20–8d.
+The magnetic field lines due to a circular loop of current-carrying wire can be
+determined in a similar way by placing a compass at various locations near the
+loop. The result is shown in Fig. 20–9. Again the right-hand rule can be used, as
+shown in Fig. 20–10. Unlike the uniform field shown in Fig. 20–7, the magnetic
+fields shown in Figs. 20–8 and 20–9 are not unifo

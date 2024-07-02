@@ -1,0 +1,53 @@
+eeded
+focal length.
+Optometrists’ prescriptions specify the power (
+Eq. 23–7) given in diopters
+SOLUTION Given that
+and
+the thin lens equation
+gives
+So
+The power P of the lens is
+The
+plus sign indicates that it is a converging lens.
+NOTE We chose the image position to be where the eye can actually focus. The lens
+needs to put the image there, given the desired placement of the object (newspaper).
+P = 1f = ±3.0 D.
+f = 33 cm = 0.33 m.
+1
+f =
+1
+do
++ 1
+di
+=
+1
+25 cm +
+1
+–100 cm =
+4 - 1
+100 cm =
+1
+33 cm
+.
+di = –100 cm,
+do = 25 cm
+A1 D = 1 m–1B.
+P = 1f,
+di = –100 cm
+= do
+EXAMPLE 25;5
+720
+CHAPTER 25
+Optical Instruments
+FIGURE 25–11 Correcting eye defects
+with lenses. (a) A nearsighted eye, which
+cannot focus clearly on distant objects
+(focal point is in front of retina), can 
+be corrected (b) by use of a diverging lens.
+(c) A farsighted eye, which cannot focus
+clearly on nearby objects (focus point
+behind retina), can be corrected (d) by
+use of a converging lens.
+(b) Corrected
+      nearsight

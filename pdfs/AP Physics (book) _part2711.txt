@@ -1,0 +1,42 @@
+at at Brewster’s angle, the reflected ray
+and the transmitted (refracted) ray make a 90° angle to each other; that is,
+where 
+is the refraction angle (Fig. 24–48). This can be seen 
+ur
+up + ur = 90°,
+up
+tan up = n.
+n1 = 1,
+n2
+n1
+tan up = n2
+n1
+,
+up.
+702
+CHAPTER 24
+†Only a fraction of the incident light is reflected at the surface of a transparent medium. Although this
+reflected light is 100% polarized (if
+), the remainder of the light, which is transmitted into the
+new medium, is only partially polarized.
+u = up
+FIGURE 24–48 At 
+the reflected
+light is plane-polarized parallel to the
+surface, and
+where 
+is
+the refraction angle. (The large dots
+represent vibrations perpendicular to
+the page.)
+ur
+up + ur = 90°,
+up
+FIGURE 24–47 Photographs of a 
+lake, (a) allowing all light into the 
+camera lens, and (b) using a polarizer.
+The polarizer is adjusted to absorb
+most of the (polarized) light reflected
+from the water’s surface, allowing the
+dimmer light from the bottom of the
+lake, and any fish

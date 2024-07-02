@@ -1,0 +1,14 @@
+reaction is very different. The anode consists of a metal alloy, typically 
+with AM5 stoichiometry, where A is lanthanum (La) or a mixture of metals from the 
+lanthanide series, and M is mostly nickel alloyed with smaller amounts of other tran-
+sition metals. On charging, water is reduced at the anode to form hydroxide ions and 
+hydrogen atoms that are absorbed into the AM5 alloy. When the battery is operating 
+(discharging), the hydrogen atoms are oxidized and the resulting H+ ions react with 
+OH- ions to form H2O.
+Lithium-Ion Batteries
+Currently, most portable electronic devices, including cell phones and laptop comput-
+ers, are powered by rechargeable lithium-ion (Li-ion) batteries. Because lithium is a very 
+light element, Li-ion batteries achieve a greater specific energy density—the amount of 
+energy stored per unit mass—than nickel-based batteries. Because Li+ has a very large 
+negative standard reduction potential (Table 20.1), Li-ion batteries produce a higher volt-
+age per ce

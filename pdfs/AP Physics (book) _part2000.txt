@@ -1,0 +1,27 @@
+* 103 kgm3,
+n = NV
+,
+6.02 * 1023
+vd
+EXAMPLE 18;14
+516
+CHAPTER 18
+18–8 Microscopic View of Electric Current
+It can be useful to analyze a simple model of electric current at the microscopic
+level of atoms and electrons. In a conducting wire, for example, we can imagine the
+free electrons as moving about randomly at high speeds, bouncing off the atoms of
+the wire (somewhat like the molecules of a gas—Sections 13–8 to 13–10). When
+an electric field exists in the wire, Fig. 18–24, the electrons feel a force and initially
+begin to accelerate. But they soon reach a more or less steady average velocity
+known as their drift velocity,
+(collisions with atoms in the wire keep them from
+accelerating further). The drift velocity is normally very much smaller than the
+electrons’ average random speed.
+We can relate 
+to the macroscopic current I in the wire. In a time 
+the
+electrons will travel a distance
+on average. Suppose the wire has cross-
+sectional area A. Then in time 
+electrons in a volume
+w

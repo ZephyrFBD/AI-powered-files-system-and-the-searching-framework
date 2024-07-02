@@ -1,0 +1,20 @@
+ by an amount  
+If we use the same reasoning as we did to obtain Eq. 7–10, we find
+According to Newton’s second law,
+and 
+where 
+and 
+are the net forces on the three particles, respectively. Thus
+we get for the system as a whole
+or
+(7;11)
+That is, the sum of all the forces acting on the system is equal to the total mass of
+the system times the acceleration of its center of mass. This is Newton’s second 
+law for a system of particles. It also applies to an extended object (which can be
+thought of as a collection of particles). Thus the center of mass of a system of 
+particles (or of an object) with total mass M moves as if all its mass were concen-
+trated at the center of mass and all the external forces acted at that point. We can
+thus treat the translational motion of any object or system of objects as the
+motion of a particle (see Figs. 7–20 and 7–21). This result simplifies our analysis
+of the motion of complex systems and extended objects. Although the motion of
+various parts of th

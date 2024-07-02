@@ -1,0 +1,25 @@
+ : + 2 1
+0n
+ 21.63  A portion of the Sun’s energy comes from the reaction
+4 1
+1H ¡ 4
+2He + 2 0
+1e
+which requires a temperature of 106 to 107 K. Use the mass 
+of the helium-4 nucleus given in Table 21.7 to determine 
+how much energy is released per mol of hydrogen atoms.
+ 21.64  The spent fuel elements from a fission reactor are much 
+more intensely radioactive than the original fuel ele-
+ments. (a) What does this tell you about the products 
+of the fission process in relationship to the belt of sta-
+bility, Figure 21.2? (b) Given that only two or three neu-
+trons are released per fission event and knowing that 
+the nucleus undergoing fission has a neutron-to-proton 
+ratio characteristic of a heavy nucleus, what sorts of 
+decay would you expect to be dominant among the fis-
+sion products?
+ 21.65  Which type or types of nuclear reactors have these 
+characteristics?
+(a) Does not use a secondary coolant
+(b) Creates more fissionable material than it consumes
+(c) Uses a gas, such as He or CO

@@ -1,0 +1,57 @@
+ are 
+diverging. Standard rays 2 and 3 are shown leaving point O 
+on your nose. Ray 2 (and other nearby rays) enters your eye.
+Notice that rays are diverging as they move to the left of 
+image point I.
+Ado 7 2fB,
+(a)
+f
+F
+C
+A
+O
+A
+I
+F
+C
+1
+3
+(b)
+do
+di
+FIGURE 23–19 Convex mirror: (a) the
+focal point is at F, behind the mirror;
+(b) the image I of the object at O is
+virtual, upright, and smaller than the
+object. [Not to scale for Example 23–7.]
+3. Sign Conventions
+(a) When the object, image, or focal point is on the
+reflecting side of the mirror (on the left in our
+drawings), the corresponding distance is positive.
+If any of these points is behind the mirror (on the
+right) the corresponding distance is negative.†
+(b) The image height 
+is positive if the image is
+upright, and negative if inverted, relative to the
+object (
+is always taken as positive).
+4. Check that the analytic solution is consistent with
+the ray diagram.
+ho
+hi
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Spherical Mirrors
+1. Always draw a ra

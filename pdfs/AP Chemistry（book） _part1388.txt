@@ -1,0 +1,30 @@
+at any of the six vertices of the octahedron. The result is always a 
+square-pyramidal molecular geometry. When there are two nonbonding electron domains, 
+however, their repulsions are minimized by pointing them toward opposite sides of the 
+octahedron, producing a square-planar molecular geometry, as shown in Table 9.3.
+Use the VSEPR model to predict the molecular geometry of (a) SF4, (b) IF5.
+Solve
+(a) The Lewis structure for SF4 is:
+ 
+The sulfur has five electron domains around it: four 
+from the S ¬F bonds and one from the nonbonding 
+pair. Each domain points toward a vertex of a trigonal 
+bipyramid. The domain from the nonbonding pair 
+will point toward an equatorial position. The four 
+bonds point toward the remaining four positions, 
+resulting in a molecular geometry that is described as 
+seesaw-shaped:
+F
+S
+F
+F
+F
+S
+F
+F
+F
+F
+Analyze The molecules are of the ABn type with a central  
+p-block atom.
+Plan We first draw Lewis structures and then use the VSEPR  
+model to determine the 

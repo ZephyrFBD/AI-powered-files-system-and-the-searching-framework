@@ -1,0 +1,20 @@
+is). The variable that 
+responds to the change in the independent variable, called the dependent variable, 
+ 
+A.5 Standard Deviation
+ 
+1085
+is then shown along the vertical axis (y-axis). For example, consider an experiment 
+in which we vary the temperature of an enclosed gas and measure its pressure. The 
+independent variable is temperature and the dependent variable is pressure. The 
+data shown in Table A.1 can be obtained by means of this experiment. These data are 
+shown graphically in Figure A.1. The relationship between temperature and pressure is 
+linear. The equation for any straight-line graph has the form
+y = mx + b
+where m is the slope of the line and b is the intercept with the y-axis. In the case of 
+ 
+Figure A.1, we could say that the relationship between temperature and pressure takes the 
+form
+P = mT + b
+where P is pressure in atm and T is temperature in °C. As shown in Figure A.1, the slope 
+is 4.10 * 10-4 atm>°C, and the intercept—the point where the line crosses the 

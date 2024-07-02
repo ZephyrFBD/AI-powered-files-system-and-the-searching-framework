@@ -1,0 +1,20 @@
+ity in four-dimensional space–time, called the space–time interval, which is
+]
+26–7 Relativistic Momentum
+So far in this Chapter, we have seen that two basic mechanical quantities, length
+and time intervals, need modification because they are relative—their value
+depends on the reference frame from which they are measured. We might expect
+that other physical quantities might need some modification according to the
+theory of relativity, such as momentum and energy.
+The analysis of collisions between two particles shows that if we want to
+preserve the law of conservation of momentum in relativity, we must redefine
+momentum as
+(26–4)
+Here 
+is shorthand for 
+as before (Eq. 26–2). For speeds much
+less than the speed of light, Eq. 26–4 gives the classical momentum,
+Relativistic momentum has been tested many times on tiny elementary particles
+(such as muons), and it has been found to behave in accord with Eq. 26–4.
+Momentum of moving electron. Compare the momentum
+of an electron to its classi

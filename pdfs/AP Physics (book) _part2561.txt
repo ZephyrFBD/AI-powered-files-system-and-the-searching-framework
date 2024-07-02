@@ -1,0 +1,16 @@
+ces are also
+possible, but we will concentrate on spherical.) The two faces can be concave,
+convex, or plane. Several types are shown in Figs. 23–31a and b in cross section.
+The importance of lenses is that they form images of objects—see Fig. 23–32.
+F
+f
+Axis
+The rays from a point on a distant object are essentially parallel—see Fig.23–12.
+Therefore we can say that the focal point is the image point for an object at infinity
+on the lens axis, Fig. 23–33. Thus, the focal point of a lens can be found by
+locating the point where the Sun’s rays (or those from some other distant object) are
+brought to a sharp image, Fig. 23–34. The distance of the focal point from the
+center of the lens is called the focal length, f, Fig. 23–33. A lens can be turned
+around so that light can pass through it from the opposite side. The focal length is
+the same on both sides, as we shall see later, even if the curvatures of the two lens
+surfaces are different. If parallel rays fall on a lens at an angle, as in

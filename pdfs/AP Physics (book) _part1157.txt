@@ -1,0 +1,34 @@
+al to displacement, Eq. 11–1.
+We can write the frequency using
+(Eq. 11–2):
+(11;6b)
+f =
+1
+T =
+1
+2p B
+k
+m
+.
+f = 1T
+T = 2p A
+m
+k
+.
+298
+CHAPTER 11
+Oscillations and Waves
+FIGURE 11–6 Example 11–6.
+A spider waits for its prey (on the left).
+EXERCISE D By how much should the mass on the end of a spring be changed to halve
+the frequency of its oscillations? (a) No change; (b) doubled; (c) quadrupled; (d) halved;
+(e) quartered.
+Spider web. A spider of mass 0.30 g waits in
+its web of negligible mass (Fig. 11–6). A slight movement causes the web to
+vibrate with a frequency of about 15 Hz. (a) Estimate the value of the spring
+stiffness constant k for the web. (b) At what frequency would you expect the web
+to vibrate if an insect of mass 0.10 g were trapped in addition to the spider?
+APPROACH We can only make a rough estimate because a spider’s web is
+fairly complicated and may vibrate with a mixture of frequencies. We use SHM
+as an approximate model.
+SOLUTION (a) The frequency of SHM is given by 

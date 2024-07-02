@@ -1,0 +1,16 @@
+eel of Fig. 8–1,
+and that the centers of these circles all lie on one line called the axis of rotation.
+In Fig. 8–1 the axis of rotation is perpendicular to the page and passes through
+point O.
+Every point in an object rotating about a fixed axis moves in a circle (shown
+dashed in Fig. 8–1 for point P) whose center is on the axis of rotation and whose
+radius is r, the distance of that point from the axis of rotation. A straight line
+drawn from the axis to any point in the object sweeps out the same angle in the
+same time interval.
+To indicate the angular position of a rotating object, or how far it has rotated,
+we specify the angle of some particular line in the object (red in Fig. 8–1) with
+respect to a reference line, such as the x axis in Fig. 8–1. A point in the object,
+such as P in Fig. 8–1, moves through an angle 
+when it travels the distance 
+measured along the circumference of its circular path. Angles are commonly
+measured in degrees, but the mathematics of circular motion is 

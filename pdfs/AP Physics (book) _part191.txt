@@ -1,0 +1,76 @@
+ese two points on 
+the graph. A straight line drawn from point 
+to point 
+forms the hypotenuse of a right triangle whose sides are 
+and 
+The 
+ratio 
+is the slope of the straight line 
+But 
+is also the 
+average velocity of the object during the time interval 
+Therefore,
+we conclude that the average velocity of an object during any time interval
+is equal to the slope of the straight line (or chord) connecting the two
+points 
+and 
+on an x vs.
+graph.
+Consider now a time intermediate between 
+and 
+call it 
+at which moment
+the object is at 
+(Fig. 2–28). The slope of the straight line 
+is less than the slope
+of 
+. Thus the average velocity during the time interval 
+is less than
+during the time interval t2 - t1 .
+t3 - t1
+P1 P2
+P1 P3
+x3
+t3,
+t2,
+t1
+t
+t2B
+Ax2 ,
+t1B
+Ax1 ,
+¢t = t2 - t1
+¢t = t2 - t1 .
+¢x¢t
+P1 P2.
+¢x¢t
+¢t.
+¢x
+t2B
+P2 Ax2 ,
+t1B
+P1 Ax1 ,
+P2
+P1
+t2 .
+x2
+t1 ,
+x1
+t
+¢x¢t = (11 m)(1.0 s) = 11 ms,
+t
+slope =
+¢x
+¢t
+.
+t
+v
+¢x = v ¢t
+t = 0
+x = 0,
+(40 kmh).
+v = v = 11 ms
+x = 0,
+t = 0,
+t,
+†The

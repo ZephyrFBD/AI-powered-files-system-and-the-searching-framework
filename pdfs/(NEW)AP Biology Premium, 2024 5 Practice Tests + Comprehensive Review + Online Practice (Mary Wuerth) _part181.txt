@@ -1,0 +1,11 @@
+intervals for the 1% and 3% enzyme concentrations do not overlap, so choice (A) is
+incorrect. Similarly, choice (B) is incorrect because the 95% confidence intervals for the 1% and 6% enzyme
+concentrations do not overlap. Choice (D) is incorrect because the 95% confidence intervals for the 1% and 3%
+and the 1% and 6% enzyme concentrations do not overlap and likely have statistically significant differences
+between them.
+4. (C) Competitive inhibitors bind to the active site of an enzyme. Therefore, adding a competitive inhibitor of
+BCR-ABL would block ATP from binding to its active site. Choices (A) and (B) are both incorrect because
+cofactors and coenzymes enhance enzyme function. Choice (D) is incorrect because a transcription factor would
+not affect ATP’s ability to bind to the enzyme.
+5. (B) The activation energy in the presence of an enzyme is the difference in free energy between the reactants
+and the transition state in the presence of the enzyme. Choice (A) is incorrect because 

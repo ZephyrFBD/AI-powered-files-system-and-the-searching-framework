@@ -1,0 +1,12 @@
+s. In
+vertebrates, the main photopigment, rhodopsin, has two main parts Figure 27.19): an opsin, which is a membrane protein
+(in the form of a cluster of α-helices that span the membrane), and retinal—a molecule that absorbs light. When light hits a
+photoreceptor, it causes a shape change in the retinal, altering its structure from a bent (cis) form of the molecule to its linear
+(trans) isomer. This isomerization of retinal activates the rhodopsin, starting a cascade of events that ends with the closing
+of Na+ channels in the membrane of the photoreceptor. Thus, unlike most other sensory neurons (which become depolarized
+by exposure to a stimulus) visual receptors become hyperpolarized and thus driven away from threshold (Figure 27.20).
+1190
+Chapter 27 | Sensory Systems
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 27.19 (a) Rhodopsin, the photoreceptor in vertebrates, has two parts: the trans-membrane protein opsin, and
+retinal. When light stri

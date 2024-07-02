@@ -1,0 +1,30 @@
+
+diver in Fig. 8–28, for example, is not zero (gravity is acting), but the net torque
+about her CM is zero because the force of gravity acts at her center of mass.
+3 1
+2 .
+Clutch. A simple clutch consists of two cylindrical plates
+that can be pressed together to connect two sections of an axle, as needed, in 
+a piece of machinery. The two plates have masses
+and
+with equal radii 
+They are initially separated (Fig. 8–29). Plate 
+is accelerated from rest to an angular velocity 
+in time 
+Calculate (a) the angular momentum of 
+and (b) the torque required to
+accelerate 
+from rest to 
+(c) Next, plate 
+initially at rest but 
+free to rotate without friction, is placed in firm contact with freely rotating 
+plate 
+and the two plates then both rotate at a constant angular velocity 
+which is considerably less than 
+Why does this happen, and what is 
+APPROACH We use angular momentum,
+(Eq. 8–18), plus Newton’s
+second law for rotation, Eq. 8–19.
+SOLUTION (a) The angular momentum of 
+a cylinder, is
+(b)

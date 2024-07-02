@@ -1,0 +1,42 @@
+ation:
+[Alternatively, you could use Eq. 7–7:
+if the collision is one dimensional (head-on).]
+7. Solve for the unknown(s).
+8. Check your work, check the units, and ask yourself
+whether the results are reasonable.
+vB
+œ - vA
+œ ,
+vA - vB =
+total initial ke = total final ke.
+total initial momentum = total final momentum.
+±x
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Momentum Conservation 
+and Collisions
+1. Choose your system. If the situation is complex,
+think about how you might break it up into separate
+parts when one or more conservation laws apply.
+2. Consider whether a significant net external force
+acts on your chosen system; if it does, be sure the time
+interval 
+is so short that the effect on momentum
+is negligible. That is, the forces that act between the
+interacting objects must be the only significant ones
+if momentum conservation is to be used. [Note: If
+this is valid for a portion of the problem, you can
+use momentum conservation only for that portion.]
+3. Draw a diagram of the initial situa

@@ -1,0 +1,24 @@
+9.62 (e) 9.71
+ 
+▶Practice Exercise 2
+Which of the following compounds should produce the 
+highest pH as a 0.05 M solution: pyridine, methylamine, or 
+nitrous acid?
+Because Kb is small, the amount of NH3 that 
+reacts with water is much smaller than the NH3 
+concentration, and so we can neglect x relative 
+to 0.15 M. Then we have:
+ x2
+0.15 = 1.8 * 10-5
+ x2 = 10.15211.8 * 10-52 = 2.7 * 10-6
+ x = 3NH4 
++4 = 3OH-4 = 22.7 * 10-6 = 1.6 * 10-3 M
+A solution made by adding solid sodium hypochlorite (NaClO) to enough water to make 2.00 L of solution has a pH of 10.50. 
+Using the information in Equation 16.37, calculate the number of moles of NaClO added to the water.
+Sample Exercise 16.16 
+Using pH to Determine the Concentration of a Salt
+Analyze NaClO is an ionic compound consisting of Na+ and 
+ClO- ions. As such, it is a strong electrolyte that completely disso-
+ciates in solution into Na+, a spectator ion, and ClO- ion, a weak 
+base with Kb = 3.3 * 10-7 (Equation 16.37). Given this informa-
+ti

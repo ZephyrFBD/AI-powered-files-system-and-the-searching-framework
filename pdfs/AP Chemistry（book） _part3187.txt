@@ -1,0 +1,18 @@
+her in 
+the anode than in the cathode. Thus, electrons flow spontaneously toward the electrode 
+with the more positive electrical potential.
+The difference in potential energy per electrical charge (the potential difference) 
+between two electrodes is measured in volts. One volt (V) is the potential difference 
+required to impart 1 joule (J) of energy to a charge of 1 coulomb (C):
+ 
+1 V = 1 J
+C 
+Recall that one electron has a charge of 1.60 * 10-19 C. 
+ (Section 2.2)
+The potential difference between the two electrodes of a voltaic cell is called the cell 
+potential, denoted Ecell. Because the potential difference provides the driving force that 
+pushes electrons through the external circuit, we also call it the electromotive (“caus-
+ing electron motion”) force, or emf. Because Ecell is measured in volts, it is also com-
+monly called the voltage of the cell.
+The cell potential of any voltaic cell is positive. The magnitude of the cell poten-
+tial depends on the reactions that occur at t

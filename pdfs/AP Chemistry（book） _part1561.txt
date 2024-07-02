@@ -1,0 +1,24 @@
+6.4 mm
+atm
+gas
+▲ Figure 10.3 A mercury manometer.
+Inserting SI quantities, we have
+ P = dhg = 11.00 * 103 kg/m32131.0 m219.81 m>s22
+ = 3.00 * 105 kg
+m@s2 = 3.00 * 105 Pa
+Thus, the total pressure on the diver is
+P
+total =  98 kPa +  300 kPa =  398 kPa
+This corresponds to a pressure of 3.94 atm.
+We use various devices to measure the pressures of enclosed gases. Tire gauges, for 
+example, measure the pressure of air in automobile and bicycle tires. In laboratories, we 
+sometimes use a manometer, which operates on a principle similar to that of a barometer, 
+as shown in Sample Exercise 10.2.
+Continued
+400 
+CHAPTER 10 Gases
+10.3 ∣ The Gas Laws
+Four variables are needed to define the physical condition, or state, of a gas: temperature, 
+pressure, volume, and amount of gas, usually expressed as number of moles. The equa-
+tions that express the relationships among these four variables are known as the gas laws. 
+Because volume is easily measured, the first gas laws to be studied expressed the 

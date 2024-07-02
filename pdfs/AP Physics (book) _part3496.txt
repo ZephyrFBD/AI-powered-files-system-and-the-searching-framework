@@ -1,0 +1,55 @@
+ s in 1 m3
+of air and (b) the mass of radon that emits 4.0 pCi of 
+radiation.
+ 86
+222Rn
+
+4 pCiL
+EXAMPLE 31;13
+1r2
+A100 mremyrB,
+(100 radGy)A4.5 * 10–4 GyB(1 remrad) = 45 mrem = 0.45 mSv.
+450 mSv
+RBE L 1
+(4.0 h)(3600 sh)A3.1 * 10–8 GysB = 4.5 * 10–4 Gy.
+A2.2 * 10–6 JsB(70 kg) = 3.1 * 10–8 Gys.
+1 Gy = 1 Jkg,
+E = A1
+2BA7.5 * 10–3BA3.7 * 109 MeVsBA1.6 * 10–13 JMeVB
+= 2.2 * 10 -6 Js.
+g
+1.5 m2
+4pr2
+=
+1.5 m2
+4p(4.0 m)2
+= 7.5 * 10–3.
+1.5-m2
+(0.040 Ci)A3.7 * 1010 decaysCisB(2.50 MeV) = 3.7 * 109 MeVs.
+(1.33 + 1.17) MeV = 2.50 MeV,
+g
+r =
+(or 4pr2)
+g
+g
+27
+60Co
+1.5 m2
+27
+60Co
+EXAMPLE 31;12
+
+CONCEPTUAL EXAMPLE 31;11
+902
+CHAPTER 31
+Nuclear Energy; Effects and Uses of Radiation
+P H Y S I C S  A P P L I E D
+Radon exposure
+FIGURE 31–16 Radiation spreads
+out in all directions. A person 4.0 m
+away intercepts only a fraction: her
+cross-sectional area divided by the
+area of a sphere of radius 4.0 m.
+Example 31–12.
+4.0 m
+APPROACH We can use the definition of the curie to determine how man

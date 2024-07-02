@@ -1,0 +1,37 @@
+ulate new
+values of
+[HA] and [A−]
+Use Ka, [HA],
+and [A−] to
+calculate [H+]
+pH
+Stoichiometry
+calculation
+Equilibrium
+calculation
+▲ Figure 17.10 Procedure for calculating pH when a weak acid is partially neutralized by a strong base.
+Calculate the pH of the solution formed when 45.0 mL of 0.100 M NaOH is added to 50.0 mL of 0.100 M CH3COOH
+1Ka = 1.8 * 10-52.
+Solve
+Stoichiometry Calculation: The product of the 
+volume and concentration of each solution 
+gives the number of moles of each reactant 
+present before the neutralization:
+Analyze We are asked to calculate the pH before the equivalence 
+point of the titration of a weak acid with a strong base.
+Plan We first must determine the number of moles of 
+CH3COOH and CH3COO- present after the neutralization 
+ 
+10.0500 L soln2a
+0.100 mol CH3COOH
+1 L soln
+b = 5.00 * 10-3 mol CH3COOH
+   10.0450 L soln2a 0.100 mol NaOH
+1 L soln
+b = 4.50 * 10-3 mol NaOH 
+Ka =
+3H+43CH3COO-4
+3CH3COOH4
+= 1.8 * 10-5
+45.0 mL + 50.0 mL = 95.0 mL = 0.0950 L
+ 3H+4 = Ka 

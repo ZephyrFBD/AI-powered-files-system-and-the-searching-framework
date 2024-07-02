@@ -1,0 +1,14 @@
+te the release of toxins that will attack the host. Bacterial biofilms
+(Figure 9.18) can sometimes be found on medical equipment; when biofilms invade implants such as hip or knee
+replacements or heart pacemakers, they can cause life-threatening infections.
+The ability of certain bacteria to form biofilms has evolved because of a selection of genes that enable cell-cell
+communication confers an evolutionary advantage. When bacterial colonies form biofilms, they create barriers that prevent
+toxins and antibacterial drugs from affecting the population living in the biofilm. As a result, these populations are more
+likely to survive, even in the presence of antibacterial agents. This often means that bacteria living in biofilms have higher
+fitness than bacteria living on their own.
+Chapter 9 | Cell Communication
+389
+Think About It
+Why is signaling in multicellular organisms more complicated than signaling in single-celled organisms such as
+microbes?
+Figure 9.18 Cell-cell communication enab

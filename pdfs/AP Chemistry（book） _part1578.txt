@@ -1,0 +1,29 @@
+as Equation
+SOLUTION
+Analyze We are given the volume 1250 mL2, pressure 11.3 atm2, 
+and temperature 131 °C2 of a sample of CO2 gas and asked to cal-
+culate the number of moles of CO2 in the sample.
+Plan Because we are given V, P, and T, we can solve the ideal-gas 
+equation for the unknown quantity, n.
+Solve In analyzing and solving gas law problems, it is helpful 
+to tabulate the information given in the problems and then to 
+convert the values to units that are consistent with those for 
+R 10.08206 L@atm/mol@K2. In this case, the given values are
+ 
+ V = 250 mL = 0.250 L
+ 
+ P = 1.3 atm 
+ 
+ T = 31 °C = 131 + 2732 K = 304 K 
+Remember: Absolute temperature must always be used when the  
+ideal-gas equation is solved.
+We now rearrange the ideal-gas equation (Equation 10.5) to solve for n
+ n = PV
+RT
+ n =
+11.3 atm210.250 L2
+10.08206 L@atm>mol@K21304 K2
+= 0.013 mol CO2
+Check Appropriate units cancel, thus ensuring that we have 
+properly rearranged the ideal-gas equation and have converted 
+to 

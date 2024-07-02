@@ -1,0 +1,11 @@
+ that control gene expression follow (see also the section “Regulation of
+Gene Expression” in Chapter 9, “Molecular Biology”):
+1. Methylation occurs when enzymes attach methyl groups to the histone proteins that package DNA into compact
+coils. The methyl groups cause the histone packaging to hold the DNA more tightly, preventing the DNA from
+uncoiling and being expressed. Methylation occurs during embryonic development and specific sequences of
+methylated DNA are maintained in cell lines. Thus, once methylation occurs, the fate of a cell line is determined.
+Errors in DNA methylation have been observed in cancer cells.
+2. MicroRNAs (miRNAs) are small segments of RNA (usually about 20 nucleotides long) that influence the
+expression of genes and subsequent development. After attaching to a protein, the miRNA-protein complex binds to
+an mRNA, where the RNA nucleotide sequences are complementary. Then, translation of the mRNA is blocked,
+either by preventing the ribosome from attaching or b

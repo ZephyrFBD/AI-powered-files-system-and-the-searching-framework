@@ -1,0 +1,15 @@
+ the
+solute potential becomes.
+Try the following sample calculation for water potential.
+A solution of 0.50 molar glucose is at a temperature of 21°C and open to the atmosphere. What is its water
+potential?
+Because the solution is open to the atmosphere, its pressure potential is zero. So its total water potential is its
+solute potential.
+Glucose is a covalent compound, so i = 1. Convert 21°C to Kelvin:
+Using the formula for solute potential:
+Here is an example in which the pressure potential is not 0 bars:
+A plant cell has a pressure potential of 1.0 bars and a solute potential of –6.50 bars. What is its water potential?
+Osmolarity and Its Regulation
+Osmolarity is the total concentration of solutes in a solution. Living organisms need to closely regulate their
+internal solute concentration and their water potential. If an organism became too dehydrated, it might die. If too
+much water moved into a cell, the pressure potential from the water moving into the cell could cause the cell to

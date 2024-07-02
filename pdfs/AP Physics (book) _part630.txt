@@ -1,0 +1,30 @@
+mple, if the roller-coaster car in Fig. 6–18 is subject to frictional forces,
+then the initial total energy of the car will be equal to the kinetic plus potential
+energy of the car at any subsequent point along its path plus the amount of 
+thermal energy produced in the process (equal to the work done by friction).
+Let us recall the general form of the work-energy principle, Eq. 6–10:
+where 
+is the work done by nonconservative forces such as friction. Consider
+an object, such as a roller-coaster car, as a particle moving under gravity with 
+nonconservative forces like friction acting on it. When the object moves from some
+point 1 to another point 2, then
+We can rewrite this as
+(6;15)
+For the case of friction,
+where d is the distance over which the friction
+(assumed constant) acts as the object moves from point 1 to point 2. (
+and are
+in opposite directions, hence the minus sign from  
+in Eq. 6–1.)
+cos 180° = –1
+d
+B
+F
+B
+W
+NC = –F
+fr d,
+ke1 + pe1 + W
+NC = ke2 + pe2 .
+W
+NC = ke2 - ke1 + p

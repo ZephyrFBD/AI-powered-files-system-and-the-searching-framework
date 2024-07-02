@@ -1,0 +1,18 @@
+leotides in the 5' direction.
+(B)
+This option is incorrect. The figure incorrectly shows Okazaki fragments on the 
+“leading” strand and both new strands being assembled in a parallel direction. 
+DNA polymerase’s structure does not allow it to add nucleotides in the 5' 
+direction.
+(C)
+This option is incorrect. The figure incorrectly shows both strands being 
+replicated continuously, and no Okazaki fragments on the lagging strand are 
+identified. The new strands are shown being assembled in the 3'-to-5' direction, 
+but the limitations of DNA polymerase only allow assembly in the 5'-to-3' 
+direction.
+(D)
+This option is correct. It demonstrates an understanding of the structure of 
+DNA and the process of replication. The two strands of the DNA molecule 
+run antiparallel to each other; the 5' end of one strand pairs with the 3' end of 
+the other strand. Replication is semi-conservative, with each strand serving as 
+the template for the creation of new complementary strands. Helicase unzips 

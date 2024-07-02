@@ -1,0 +1,14 @@
+the center of gravity and the
+center of mass, but for nearly all practical purposes, they are at the same point.†
+It is often easier to determine the CM or CG of an extended object experimen-
+tally rather than analytically. If an object is suspended from any point, it will swing
+(Fig. 7–24) due to the force of gravity on it, unless it is placed so its CG lies on 
+a vertical line directly below the point from which it is suspended. If the object is
+two dimensional, or has a plane of symmetry, it need only be hung from two 
+different pivot points and the respective vertical (plumb) lines drawn. Then the
+center of gravity will be at the intersection of the two lines, as in Fig. 7–25. If 
+the object doesn’t have a plane of symmetry, the CG with respect to the third dimen-
+sion is found by suspending the object from at least three points whose plumb
+lines do not lie in the same plane.
+For symmetrically shaped objects such as uniform cylinders (wheels), spheres,
+and rectangular solids, the C

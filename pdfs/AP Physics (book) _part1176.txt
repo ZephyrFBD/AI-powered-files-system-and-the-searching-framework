@@ -1,0 +1,18 @@
+uency f of the external force, even if this frequency is different from the natural
+frequency of the spring, which we will now denote by 
+where (see Eq. 11–6b)
+For a forced oscillation with only light damping, the amplitude of oscillation
+is found to depend on the difference between f and 
+and is a maximum when
+the frequency of the external force equals the natural frequency of the system—
+that is, when
+The amplitude is plotted in Fig. 11–18 as a function of the
+external frequency f. Curve A represents light damping and curve B heavy damp-
+ing. When the external driving frequency f is near the natural frequency,
+the amplitude can become large if the damping is small. This effect of increased
+amplitude at 
+is known as resonance. The natural oscillation frequency 
+of a system is also called its resonant frequency.
+A simple illustration of resonance is pushing a child on a swing. A swing, like
+any pendulum, has a natural frequency of oscillation. If you push on the swing at
+a random frequ

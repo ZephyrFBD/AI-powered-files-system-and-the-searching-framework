@@ -1,0 +1,18 @@
+lation.
+4. 2 pyruvate are formed.
+In summary, glycolysis takes 1 glucose molecule and turns it into 2 pyruvate, 2 NADH, and a net of 2 ATP (made 4
+ATP, but used 2 ATP). The process occurs in the cytosol.
+The Krebs Cycle
+The Krebs cycle details what happens to pyruvate, the end product of glycolysis. Although the Krebs cycle is
+described for 1 pyruvate, remember that glycolysis produces 2 pyruvate. In Figure 4-3, the “× 2” next to the
+pyruvate and the Krebs cycle is a reminder to multiply the products of this cycle by 2 to account for the products of
+a single glucose.
+The processing of pyruvate can be summarized as follows:
+1. Pyruvate to acetyl CoA. In a step leading up to the actual Krebs cycle, pyruvate combines with coenzyme A
+(CoA) to produce acetyl CoA. In
+ 
+that reaction, 1 NADH and 1 CO2 are also produced.
+ 
+2. Krebs Cycle: 3 NADH, 1 FADH2, 1 ATP, 2 CO2. The Krebs cycle
+ 
+begins when acetyl CoA combines with OAA (oxaloacetate) to form citrate. There are seven intermediate produc

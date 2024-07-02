@@ -1,0 +1,29 @@
+ 10-2.
+ 
+A.1  
+ Exponential Notation 
+1081
+Perform each of the following operations, using your calculator where possible:
+(a) Write the number 0.0054 in standard exponential notation. (b) 15.0 * 10-22 + 14.7 * 10-32 (c) 15.98 * 10122
+12.77 * 10-52 (d)
+4
+21.75 * 10-12
+Sample Exercise 1 
+Using Exponential Notation
+SOLUTION
+(a) Because we move the decimal point three places to the right to 
+convert 0.0054 to 5.4, the exponent is -3:
+5.4 * 10-3
+ 
+Scientific calculators are generally able to convert numbers to 
+exponential notation using one or two keystrokes; frequently 
+“SCI” for “scientific notation” will convert a number into  
+exponential notation. Consult your instruction manual to see 
+how this operation is accomplished on your calculator.
+Continued
+1082 
+APPENDIX A Mathematical Operations
+A.2 | Logarithms
+Common Logarithms
+The common, or base-10, logarithm (abbreviated log) of any number is the power to 
+which 10 must be raised to equal the number. For example, the common logarithm

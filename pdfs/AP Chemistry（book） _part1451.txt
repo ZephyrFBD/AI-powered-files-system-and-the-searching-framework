@@ -1,0 +1,14 @@
+r would the molecule fall apart?
+antibonding MO.* Because He2 has two bonding electrons and two antibonding electrons, 
+it has a bond order of 0. A bond order of 0 means that no bond exists. Molecular orbital the-
+ory correctly predicts that hydrogen forms diatomic molecules but helium does not.
+372 
+CHAPTER 9 Molecular Geometry and Bonding Theories
+Molecular Orbitals for Li2 and Be2
+Lithium has the electron configuration 1s22s1. When lithium metal is heated above its 
+boiling point 11342 °C2, Li2 molecules are found in the vapor phase. The Lewis structure 
+for Li2 indicates a Li ¬Li single bond. We will now use MOs to describe the bonding in Li2.
+Figure 9.35 shows that the Li 1s and 2s atomic orbitals have substantially different 
+energy levels. From this, we can assume that the 1s orbital on one Li atom interacts only 
+with the 1s orbital on the other atom (rule 2). Likewise, the 2s orbitals interact only with 
+each other. Notice that combining four atomic orbitals produces four MOs 

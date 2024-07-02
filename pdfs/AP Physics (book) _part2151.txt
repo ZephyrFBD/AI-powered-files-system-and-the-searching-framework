@@ -1,0 +1,28 @@
+s to have three
+hundred 3-V lithium ion cells connected such that the total
+voltage across all of the cells is 300 V. Describe a possible
+connection configuration (using series and parallel con-
+nections) that would meet these battery specifications.
+19–5 Capacitors in Series and Parallel
+38. (I) (a) Six 
+capacitors are connected in parallel.
+What is the equivalent capacitance? (b) What is their equiva-
+lent capacitance if connected in series?
+39. (I) A 
+and a 
+capacitor are connected in series,
+and this combination is connected in parallel with a 
+capacitor (see Fig. 19–63). What is the net capacitance?
+40. (II) If 21.0 V is applied across
+the whole network of Fig. 19–63,
+calculate (a) the voltage across
+each capacitor and (b) the charge
+on each capacitor.
+2.00-mF
+4.00-mF
+3.00-mF
+4.8-mF
+41. (II) The capacitance of a portion of a circuit is to be reduced
+from 2900 pF to 1200 pF. What capacitance can be added to
+the circuit to produce this effect without removing existing
+circuit elemen

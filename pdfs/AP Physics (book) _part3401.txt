@@ -1,0 +1,24 @@
+ a set of closely spaced fine wires immersed in
+a gas (Fig. 30–16). Many wires are grounded, and the others between are kept at
+very high voltage. A charged particle passing through produces ions in the 
+gas. Freed electrons drift toward the nearest high voltage wire, creating an
+“avalanche” of many more ions, and producing an electric pulse or signal at that
+wire. The positions of the particles are determined electronically by the position
+of the wire and by the time it takes the pulses to reach “readout” electronics at
+the ends of the wires. The paths of the particles are reconstructed electronically
+by computers which can “draw” a picture of the tracks, as shown in Fig. 32–15,
+Chapter 32. An external magnetic field curves the paths, allowing the momentum
+of the particles to be measured.
+Many detectors are also calorimeters which measure the energy of the
+particles.
+
+ 6
+14C,
+1
+3H
+b
+878
+CHAPTER 30
+FIGURE 30–16 Multiwire chamber
+inside the Collider Detector at
+Fermilab (CDF). Figure 3

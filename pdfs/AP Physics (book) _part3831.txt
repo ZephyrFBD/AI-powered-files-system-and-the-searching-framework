@@ -1,0 +1,39 @@
+hus,
+Similarly,
+Sometimes we need to do the reverse process: find the number N whose log
+is, say, 2.670. This is called “taking the antilogarithm.” To do so, we separate our
+number 2.670 into two parts, making the separation at the decimal point:
+We now look at Table A–1 to see what number has its log equal to 0.670; none
+does, so we must interpolate: we see that
+and
+So the number we want is between 4.6 and 4.7, and closer to the latter by 
+Approximately we can say that
+Thus
+so
+If the given logarithm is negative, say,
+we proceed as follows:
+so
+Notice that we added to our given logarithm the next 
+largest integer (3 in this case) so that we have an integer, plus a decimal number
+between 0 and 1.0 whose antilogarithm can be looked up in the Table.
+10–3.
+*
+N = 6.6
+= log 10–3 + log 6.6 = log 6.6 * 10–3,
+ 
+log N =
+–2.180 =
+–3 + 0.820
+–2.180,
+102 = 468.
+*
+N = 4.68
+= log A102B + log (4.68) = log A4.68 * 102B,
+ 
+log N = 2 + 0.670
+log 4.68 = 0.670.
+7
+9 .
+log 4.7 = 0.672.
+log 4.6 = 0.663
+= log 1

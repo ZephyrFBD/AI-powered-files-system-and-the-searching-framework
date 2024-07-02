@@ -1,0 +1,32 @@
+elerate upward). For the elevator,
+which must have greater magnitude
+than 
+so that 
+accelerates downward. Thus our calculation must give 
+between 9800 N and 11,300 N.
+SOLUTION (a) To find 
+as well as the acceleration a, we apply Newton’s
+second law,
+to each object. We take upward as the positive y direc-
+tion for both objects. With this choice of axes,
+because 
+accelerates
+upward, and
+because 
+accelerates downward. Thus
+We can subtract the first equation from the second to get
+where a is now the only unknown. We solve this for a:
+The elevator 
+accelerates downward (and the counterweight 
+upward) at
+(b) The tension in the cable 
+can be obtained from either of the two
+equations at the start of our solution, setting 
+:
+or
+which are consistent. As predicted, our result lies between 9800 N and 11,300 N.
+NOTE We can check our equation for the acceleration a in this Example by
+noting that if the masses were equal  
+then our equation above for a
+would give  
+as we should expect. Also, if one o

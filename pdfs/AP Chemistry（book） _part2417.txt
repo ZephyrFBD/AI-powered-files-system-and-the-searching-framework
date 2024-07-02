@@ -1,0 +1,34 @@
+l and that of reactants too large. The 
+reaction achieves equilibrium by forming more products; it proceeds from left to right.
+
+t Q = K: The reaction quotient equals the equilibrium constant only if the system is 
+at equilibrium.
+
+t Q 7 K: The concentration of products is too large and that of reactants too small. The 
+reaction achieves equilibrium by forming more reactants; it proceeds from right to left.
+Q
+At equilibrium
+Q < K
+Q = K
+Q  > K
+K
+K
+Q
+Q
+K
+Equilibrium
+Forward reaction 
+proceeds to form 
+more products.
+Reverse reaction 
+proceeds to form 
+more reactants.
+▲ Figure 15.9 Predicting the 
+direction of a reaction by comparing 
+Q and K at a given temperature.
+642 
+CHAPTER 15 Chemical Equilibrium
+Calculating Equilibrium Concentrations
+Chemists frequently need to calculate the amounts of reactants and products present at 
+equilibrium in a reaction for which they know the equilibrium constant. The approach 
+in solving problems of this type is similar to the one we used for evaluat

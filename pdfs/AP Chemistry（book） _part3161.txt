@@ -1,0 +1,20 @@
+ither created nor destroyed in any chemical reaction.)
+In many simple chemical equations, such as Equation 20.2, balancing the elec-
+trons is handled “automatically”—that is, we balance the equation without explicitly 
+accounting for the transfer of electrons. Many redox equations are more complex than 
+Equation 20.2, however, and cannot be balanced easily without taking into account 
+the number of electrons lost and gained. In this section, we examine the method of half- 
+reactions, a systematic procedure for balancing redox equations.
+half-Reactions
+Although oxidation and reduction must take place simultaneously, it is often convenient 
+to consider them as separate processes. For example, the oxidation of Sn2+ by Fe3+,
+ 
+Sn2+1aq2 + 2 Fe3+1aq2 ¡ Sn4+1aq2 + 2 Fe2+1aq2 
+can be considered as consisting of two processes: oxidation of Sn2+ and reduction of Fe3+:
+ 
+Oxidation:  Sn2+1aq2 ¡ Sn4+1aq2 + 2 e- 
+[20.4]
+ 
+Reduction: 2 Fe3+1aq2 + 2 e- ¡ 2 Fe2+1aq2 
+[20.5]
+Notice that electrons are sh

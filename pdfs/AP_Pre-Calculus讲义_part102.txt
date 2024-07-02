@@ -1,0 +1,51 @@
+venient to use a grid consisting of circles centered at the pole 
+and rays emanating from the pole. 
+ 
+ 
+Example 1 
+Sketch a graph of the equation r = 3, and express the equation in rectangular coordinates. 
+ 
+ 
+ 
+ 
+ 
+In general, the graphs of equations of the form 
+2  sin
+and
+2  cos
+r
+a
+r
+a
+q
+q
+=
+=
+ 
+are circles with radius |a| centered at the points with polar coordinates (a, /2) and (a, 0), 
+respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+157 
+Example 2 
+Sketch a graph of r = 2 + 2 cos . 
+ 
+ 
+ 
+ 
+ 
+3.12.2 Rates of Change in Polar Functions 
+• 
+If a polar function, r = f (), is positive and increasing or negative and 
+decreasing, then the distance between f () and the origin is increasing. 
+• 
+If a polar function, r = f (), is positive and decreasing or negative and 
+increasing, then the distance between f () and the origin is decreasing. 
+• 
+The average rate of change of r with respect to  over an interval of  is the ratio of 
+the change in the radius values to the change in  over an interval

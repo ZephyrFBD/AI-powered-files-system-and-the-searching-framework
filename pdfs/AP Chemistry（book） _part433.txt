@@ -1,0 +1,21 @@
+cules contains 12 H atoms. 
+1212 * 10232 gives 24 * 1023 = 2.4 * 1024 H atoms, which is 
+close to our result. Because we were asked for the number of H 
+atoms, the units of our answer are correct. We check, too, for sig-
+nificant  
+figures. The given data had three significant figures, as 
+does our answer.
+ 
+SECTION 3.4   
+Avogadro’s Number and the Mole 
+95
+The mass in grams of one mole, often abbreviated as 1 mol, of a substance 
+(that is, the mass in grams per mole) is called the molar mass of the substance. 
+ 
+The molar mass in grams per mole of any substance is numerically equal to its formula 
+weight in atomic mass units. For NaCl, for example, the formula weight is 58.5 amu 
+and the molar mass is 58.5 g/mol. Mole relationships for several other substances 
+are shown in Table 3.2,  and Figure 3.10  shows 1 mol quantities of three common 
+substances.
+The entries in Table 3.2  for N and N2 point out the importance of stating the chem-
+ical form of a substance when using the mole con

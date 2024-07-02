@@ -1,0 +1,23 @@
+n. 
+ 
+(d) You calculate your grade point average to be 3.87562.
+ 1.71  What type of quantity (for example, length, volume, den-
+sity) do the following units indicate? (a) mL, (b) cm2, 
+(c) mm3, (d) mg/L, (e) ps, (f) nm, (g) K.
+ 1.72  Give the derived SI units for each of the following quantities 
+in base SI units:
+(a) acceleration = distance>time2
+(b) force = mass * acceleration
+(c) work = force * distance
+(d) pressure = force>area
+(e) power = work>time
+(f) velocity = distance>time
+(g) energy = mass * 1velocity22
+ 1.73  The distance from Earth to the Moon is approximately 
+240,000 mi. (a) What is this distance in meters? (b) The per-
+egrine falcon has been measured as traveling up to 350 km/
+hr in a dive. If this falcon could fly to the Moon at this speed, 
+how many seconds would it take? (c) The speed of light is 
+3.00 * 108 m>s. How long does it take for light to travel from 
+Earth to the Moon and back again? (d) Earth travels around 
+the Sun at an average speed of 29.783 km>s. Conve

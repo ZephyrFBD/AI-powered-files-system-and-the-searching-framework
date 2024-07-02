@@ -1,0 +1,13 @@
+n important consequence of the theory of relativity is that we can no longer
+regard time as an absolute quantity. No one doubts that time flows onward and
+never turns back. But according to relativity, the time interval between two
+events, and even whether or not two events are simultaneous, depends on the
+observer’s reference frame. By an event, which we use a lot here, we mean some-
+thing that happens at a particular place and at a particular time.
+Two events are said to occur simultaneously if they occur at exactly the same
+time. But how do we know if two events occur precisely at the same time? If they
+occur at the same point in space—such as two apples falling on your head at the
+same time—it is easy. But if the two events occur at widely separated places, it is
+more difficult to know whether the events are simultaneous since we have to take
+into account the time it takes for the light from them to reach us. Because light
+travels at finite speed, a person who sees two events must 

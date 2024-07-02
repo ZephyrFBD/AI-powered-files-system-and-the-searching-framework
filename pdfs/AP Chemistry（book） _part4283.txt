@@ -1,0 +1,18 @@
+ model A model of reaction rates based on the idea 
+that molecules must collide to react; it explains the factors 
+influencing reaction rates in terms of the frequency of 
+collisions, the number of collisions with energies exceeding the 
+activation energy, and the probability that the collisions occur 
+with suitable orientations. (Section 14.5)
+colloids (colloidal dispersions) Mixtures containing particles 
+larger than normal solutes but small enough to remain 
+suspended in the dispersing medium. (Section 13.6)
+combination reaction A chemical reaction in which two or more 
+substances combine to form a single product. (Section 3.2)
+combustion reaction A chemical reaction that proceeds with 
+evolution of heat and usually also a flame; most combustion 
+involves reaction with oxygen, as in the burning of a match. 
+(Section 3.2)
+common-ion effect A shift of an equilibrium induced by an ion 
+common to the equilibrium. Whenever a weak electrolyte and 
+a strong electrolyte containing a common 

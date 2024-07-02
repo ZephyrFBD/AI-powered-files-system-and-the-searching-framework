@@ -1,0 +1,11 @@
+ctors in prokaryotes and eukaryotes that instruct peptidyl
+transferase to add a water molecule to the carboxyl end of the P-site amino acid. This reaction forces the P-site amino acid
+to detach from its tRNA, and the newly made protein is released. The small and large ribosomal subunits dissociate from the
+mRNA and from each other; they are recruited almost immediately into another translation initiation complex. After many
+ribosomes have completed translation, the mRNA is degraded so the nucleotides can be reused in another transcription
+reaction.
+Protein Folding, Modification, and Targeting
+During and after translation, individual amino acids may be chemically modified, signal sequences may be appended,
+and the new protein “folds” into a distinct three-dimensional structure as a result of intramolecular interactions. A signal
+sequence is a short tail of amino acids that directs a protein to a specific cellular compartment. These sequences at the
+amino end or the carboxyl end of the p

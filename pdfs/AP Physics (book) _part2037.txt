@@ -1,0 +1,21 @@
+an 1.5 W of heat per meter of length?
+70. Determine the resistance of the tungsten filament in a
+75-W 120-V incandescent lightbulb (a) at its operating tem-
+perature of about 2800 K, (b) at room temperature.
+71. Suppose a current is given by the equation 
+where I is in amperes and t in seconds. (a) What is the 
+frequency? (b) What is the rms value of the current? (c) If
+this is the current through a 
+resistor, write the
+equation that describes the voltage as a function of time.
+72. A microwave oven running at 65% efficiency delivers 950 W
+to the interior. Find (a) the power drawn from the source,
+and (b) the current drawn. Assume a source voltage of 120 V.
+73. A 
+wire is stretched uniformly to 1.50 times its origi-
+nal length. What is its resistance now?
+74. 220 V is applied to two different conductors made of the
+same material. One conductor is twice as long and twice
+the diameter of the second. What is the ratio of the power
+transformed in the first relative to the second?
+75. An ele

@@ -1,0 +1,33 @@
+more than other counties, but they still 
+can’t avoid. Only when Haiti owns sustainable society and economy, they can make 
+the influences lower. Just like China and Japan, these countries all restored the 
+influences bringing from disasters quickly. 
+In a brief sum, if additional environmental factors occur, they should make 
+society and economy sustainable. Otherwise, they just follow our 20 years plan to do, 
+and in the near future, they will reach the index and become a sustainable country. 
+ 
+5. Sensitivity Analysis 
+First of all, we set a sensitivity analysis for the weight vector of first level index 
+layer and second level index layer. Taking the weight of first level index layer as an 
+example, the original weight vector U  is [0.5631 0.2675 0.1694]. Now we consider 
+the new weight vector 
+'
+U
+=[0.5531 0.2775 0.1694], then we can get the 
+corresponding index. 
+Table18: Sensitivity Analysis 
+ 
+U = 0.5631 0.2675 0.1694 
+'
+U = 0.5531 0.2775 0.1694 
+ 
+1
+P  
+2
+P  
+3
+P  
+P  
+1
+P  
+2

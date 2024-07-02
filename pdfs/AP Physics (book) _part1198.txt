@@ -1,0 +1,89 @@
+ amplitude (Eq. 11–15), the amplitude A must
+decrease as 1/r so that
+will be proportional to 
+(as in Eq. 11–16b).
+Hence
+If we consider again two distances from the source,
+and 
+then
+[spherical wave]
+When the wave is twice as far from the source, the amplitude is half as large, and
+so on (ignoring damping due to friction).
+A2
+A1
+= r1
+r2
+.
+r2 ,
+r1
+A r 1
+r
+.
+1r2
+I r A2
+I
+2I
+1 = A1
+2B
+2 = 1
+4 .
+1
+4
+Ar2r1 = 2B,
+I
+2
+I
+1
+= r1
+2
+r2
+2 .
+I
+2 = P4pr2
+2 ,
+I
+1 = P4pr1
+2
+r2
+r1
+r2
+I r
+1
+r2 .
+I = power
+area
+=
+P
+4pr2 .
+4pr2.
+I r A2.
+AWm2B.
+I = energytime
+area
+= power
+area
+.
+E = 1
+2 kA2,
+310
+CHAPTER 11
+Oscillations and Waves
+P R O B L E M  S O L V I N G
+The 
+law
+1r2
+r1
+r2
+Source
+FIGURE 11–31 A wave traveling
+uniformly outward in three 
+dimensions from a source is spherical.
+Two crests (or compressions) are
+shown, of radii 
+and r2.
+r1
+SECTION 11–9
+Energy Transported by Waves
+311
+Earthquake intensity. The intensity of an earthquake
+P wave traveling through the Earth and detected 100 km from the so

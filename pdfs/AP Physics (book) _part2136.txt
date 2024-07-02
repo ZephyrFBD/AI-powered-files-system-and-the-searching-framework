@@ -1,0 +1,47 @@
+–39
+Question 17.
+MisConceptual Questions
+(a)
+(c)
+(b)
+(d)
+FIGURE 19–40 MisConceptual Question 1.
+R1
+R2
+R3
+V
+FIGURE 19–41
+MisConceptual Question 2.
+2. Which resistors in Fig. 19–41 are connected in parallel?
+(a) All three.
+(b)
+and 
+(c)
+and 
+(d)
+and 
+(e) None of the above.
+R3.
+R1
+R3.
+R2
+R2.
+R1
+13. Can the terminal voltage of a battery ever exceed its emf?
+Explain.
+14. Explain in detail how you could measure the internal
+resistance of a battery.
+15. In an RC circuit, current flows from the battery until the
+capacitor is completely charged. Is the total energy sup-
+plied by the battery equal to the total energy stored by the
+capacitor? If not, where does the extra energy go?
+16. Given the circuit shown in Fig. 19–38, use the words
+“increases,” “decreases,” or “stays the same” to complete
+the following statements:
+(a) If 
+increases, the potential difference between A and
+E __________. Assume no resistance in 
+and 
+(b) If 
+increases, the potential difference between A and
+E __________. Assume

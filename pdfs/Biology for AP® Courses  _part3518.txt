@@ -1,0 +1,11 @@
+ng sites on actin
+molecules, preventing cross-bridge formation and preventing contraction in a muscle without nervous input. Troponin
+binds to tropomyosin and helps to position it on the actin molecule; it also binds calcium ions.
+To enable a muscle contraction, tropomyosin must change conformation, uncovering the myosin-binding site on an actin
+molecule and allowing cross-bridge formation. This can only happen in the presence of calcium, which is kept at extremely
+low concentrations in the sarcoplasm. If present, calcium ions bind to troponin, causing conformational changes in troponin
+that allow tropomyosin to move away from the myosin binding sites on actin. Once the tropomyosin is removed, a cross-
+bridge can form between actin and myosin, triggering contraction. Cross-bridge cycling continues until Ca2+ ions and ATP
+are no longer available and tropomyosin again covers the binding sites on actin.
+Excitation–Contraction Coupling
+Excitation–contraction coupling is the link (transduct

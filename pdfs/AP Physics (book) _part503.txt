@@ -1,0 +1,34 @@
+ orbit)
+30,000 km/h
+(elliptical orbit)
+40,000 km/h
+(escape from Earth)
+FIGURE 5;22 Artificial satellites launched at 
+different speeds.
+Without
+gravity
+With
+gravity
+FIGURE 5;23 A moving satellite
+“falls” out of a straight-line path
+toward the Earth.
+Note that Eq. 5–5 does not give precise values for g at different locations
+because the Earth is not a perfect sphere. The Earth not only has mountains and
+valleys, and it bulges at the equator, but also its mass is not distributed precisely 
+uniformly. (See Table 5–1.) The Earth’s rotation also affects the value of g. However,
+for most practical purposes, when an object is near the Earth’s surface, we will
+simply use  
+and write the weight of an object as mg.
+g = 9.80 ms2
+EXERCISE E Suppose you could double the mass of a planet but keep its volume the
+same. How would the acceleration of gravity, g, at the surface change?
+TABLE 5;1 Acceleration Due 
+to Gravity at Various Locations
+Elevation
+g
+Location
+(m)
+New York 
+0 
+9.803
+San Francisco 

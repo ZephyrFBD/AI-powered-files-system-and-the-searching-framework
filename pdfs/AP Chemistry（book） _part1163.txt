@@ -1,0 +1,32 @@
+O1l2
+ 
+In the net ionic equation, nitric acid is a strong acid and 
+Bi1NO323 is a soluble salt, so we need to show only the reaction 
+of the solid with the hydrogen ion forming the Bi3+1aq2 ion 
+and water. To calculate the concentration of the solution, we 
+proceed as follows (Section 4.5):
+6.77 g Bi2O3
+0.500 L soln *
+1 mol Bi2O3
+466.0 g Bi2O3
+*
+2 mol Bi3+
+1 mol Bi2O3 
+= 0.0581 mol Bi3+
+L soln
+= 0.0581 M
+(e) Recall that the atomic number of any element is the number 
+of protons and electrons in a neutral atom of the element. 
+ (Section 2.3) Bismuth is element 83; there are therefore 
+83 protons in the nucleus. Because the atomic mass number is 
+209, there are 209 - 83 = 126 neutrons in the nucleus.
+(f) We can use the density and the atomic weight to determine 
+the number of moles of Bi, and then use Avogadro’s number to 
+convert the result to the number of atoms.  
+ (Sections 1.4 and 3.4) The volume of the cube is 
+15.0023 cm3 = 125 cm3. Then we have
+ 125 cm3 Bi *
+9.808 g Bi
+1 cm3
+*
+1 

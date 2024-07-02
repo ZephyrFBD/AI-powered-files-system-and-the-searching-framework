@@ -1,0 +1,34 @@
+ m lower. If all collisions are perfectly elastic,
+what is the bounce height on the fourth bounce when the
+ball reaches the bottom of the stairs?
+v
+A
+B
+vB
+B
+mA
+mB
+FIGURE 7;48 Problem 83.
+4.0
+1.0
+Cue ball
+3.0
+√
+FIGURE 7;49
+Problem 86.
+198
+Rotational Motion
+CHAPTER-OPENING QUESTION—Guess now!
+A solid ball and a solid cylinder roll down a ramp. They both start from rest at the
+same time and place. Which gets to the bottom first?
+(a) They get there at the same time.
+(b) They get there at almost exactly the same time except for frictional differences.
+(c) The ball gets there first.
+(d) The cylinder gets there first.
+(e) Can’t tell without knowing the mass and radius of each.
+U
+ntil now, we have been concerned mainly with translational motion. We
+discussed the kinematics and dynamics of translational motion (the role 
+of force). We also discussed the energy and momentum for translational
+motion. In this Chapter we will deal with rotational motion. We will discuss the
+kinematics of rotational

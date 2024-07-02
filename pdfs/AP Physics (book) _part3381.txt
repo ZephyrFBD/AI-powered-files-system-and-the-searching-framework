@@ -1,0 +1,76 @@
+een,
+decays by 
+emission to
+which in turn decays by 
+decay to 
+The series continues as shown,
+with several possible branches near the bottom, ending at the stable lead isotope,
+The two last decays can be
+or
+Other radioactive series also exist.
+210
+84Po S
+206
+82Pb + a.       
+AT
+1
+2 = 138 daysB
+206
+81Tl S
+206
+82Pb + e– + R,     AT
+1
+2 = 4.2 minB
+206
+82Pb.
+234
+91Pa.
+b
+234
+90Th,
+a
+238
+92U
+A7.97 * 1013B(64) = 1.25 * 1012
+A1
+2BA1
+2BA1
+2BA1
+2BA1
+2BA1
+2B = A1
+2B6 =
+1
+64
+1.00 h = 60.0 minutes
+t =
+–
+lnA1.25 * 10–14B
+l
+= 2.77 * 104 s = 7.70 h.
+l
+(ln e–lt = –lt)
+e–lt =
+R
+R0
+=
+1.00 s–1
+7.97 * 1013 s–1
+= 1.25 * 10–14.
+R = 1.00 s–1.
+t
+R = R0 e–lt =
+ A7.97 * 1013 s–1B e–A1.155*10–3 s–1B(3600 s) = 1.25 * 1012 s–1.
+1.00 h = 3600 s,
+SECTION 30–10
+873
+FIGURE 30–11 Decay series
+beginning with 
+Nuclei in the
+series are specified by a dot
+representing A and Z values.
+Half-lives are given in seconds (s),
+minutes (min), hours (h), days (d),
+or years (yr). Note that a horizontal
+arrow represents 
+decay (A doe

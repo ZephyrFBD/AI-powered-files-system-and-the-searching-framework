@@ -1,0 +1,43 @@
+C
+†For any algebraic equation
+if you subtract B from both sides you get
+or
+Thus, if you move a term from one side of an equals sign to the other, the sign 
+changes.
+(± or –)
+A - B = 0.
+A - B = B - B = 0,
+A = B,
+4. If phase changes do or might occur, there may be
+terms in the energy conservation equation of the form
+where L is the latent heat. But before
+applying energy conservation, determine (or estimate)
+in which phase the final state will be, as we did in
+Example 14–7 by calculating the different contrib-
+uting values for heat Q.
+5. Note that when the system reaches thermal equilibrium,
+the final temperature of each substance will have the
+same value. There is only one 
+6. Solve your energy equation for the unknown.
+T
+f .
+Q = mL,
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Calorimetry
+1. Be sure you have sufficient information to apply energy
+conservation. Ask yourself: is the system isolated (or
+nearly so, enough to get a good estimate)? Do we know
+or can we calculate all significant sources of en

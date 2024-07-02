@@ -1,0 +1,30 @@
+hat have two or more resonance structures involving p bonds.
+One molecule that cannot be described with localized p bonds is benzene 1C6H62, 
+which has two resonance structures: 
+ (Section 8.6)
+or
+Benzene has a total of 30 valence electrons. To describe the bonding in benzene 
+using hybrid orbitals, we first choose a hybridization scheme consistent with the geom-
+etry of the molecule. Because each carbon is surrounded by three atoms at 120° angles, 
+the appropriate hybrid set is sp2. Six localized C ¬C s bonds and six localized C ¬H s 
+bonds are formed from the sp2 hybrid orbitals, as shown in Figure 9.25(a). Thus, 24 of 
+the valence electrons are used to form the s bonds in the molecule.
+Go Figure
+What are the two kinds of s bonds found in benzene?
+H
+H
+H
+H
+H
+H
+C
+C
+C
+C
+C
+C
+(a) s bonds
+(b) p orbitals
+▲ Figure 9.25 S and P bond networks in benzene, C6H6. (a) The s bond framework. (b) The p 
+bonds are formed from overlap of the unhybridized 2p orbitals on the six carbon atoms.
+Because the

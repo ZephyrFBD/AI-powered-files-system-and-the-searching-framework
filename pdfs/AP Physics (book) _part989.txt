@@ -1,0 +1,45 @@
+ The crane’s dimensions are
+shown in Fig. 9–48b. (a) Where must the crane’s 9500-kg
+counterweight be placed when the load is lifted from the
+ground? (The counterweight is usually moved auto-
+matically via sensors and motors to precisely compensate
+for the load.) (b) Determine the maximum load that can be
+lifted with this counterweight when it is placed at its full
+extent. Ignore the mass of the beam.
+7.7 m
+3.4 m
+(b)
+(a)
+Counterweight
+M = 9500 kg
+m = 2800 kg
+FIGURE 9–48
+Problem 3.
+FIGURE 9–49
+Problems 4 and 5.
+P
+8.50 cm
+2.70 cm
+Jaws
+Rod
+   T
+   F
+F
+B
+F
+B
+FIGURE 9–50
+Problem 6.
+F
+B
+FIGURE 9–51
+Problems 8 and 70.
+5. (II) Calculate the forces 
+and 
+that the supports exert
+on the diving board of Fig. 9–49 when a 52-kg person
+stands at its tip. (a) Ignore the weight of the board.
+(b) Take into account the board’s mass of 28 kg. Assume
+the board’s CG is at its center.
+6. (II) Figure 9–50 shows a pair of forceps used to hold a thin
+plastic rod firmly. If the thumb and finger each squeeze with

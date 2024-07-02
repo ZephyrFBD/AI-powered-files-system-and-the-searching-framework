@@ -1,0 +1,63 @@
+m
+EXAMPLE 32;2
+f =
+1
+T =
+qB
+2pm
+.
+T = distance
+speed
+=
+2pr
+qBrm
+= 2pm
+qB
+.
+v = qBr
+m
+.
+qvB = mv2
+r
+F = ma
+F = ma,
+v2r,
+B
+B
+v
+B
+F = qvB,
+918
+CHAPTER 32
+FIGURE 32–2 Diagram of a
+cyclotron. The magnetic field,
+applied by a large electromagnet,
+points into the page. The protons
+start at A, the ion source. The red
+electric field lines shown are for the
+alternating electric field in the gap at
+a certain moment.
+∼
+
+
+in
+Gap
+Path
+External beam
+Dee
+Dee
+A
+E
+B
+B
+B
+An important aspect of the cyclotron is that the frequency of the applied
+voltage, as given by Eq. 32–2, does not depend on the radius r of the particle’s
+path. Thus the frequency does not have to be changed as the protons or ions start
+from the source and are accelerated to paths of larger and larger radii. But this is
+only true at nonrelativistic energies. At higher speeds, the momentum (Eq. 26–4)
+is 
+so m in Eq. 32–2 has to be replaced by 
+and
+the cyclotron frequency f (Eq. 32–2) depends on speed v because does. To keep
+the partic

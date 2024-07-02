@@ -1,0 +1,27 @@
+on of the box is 
+to the right.
+(b) Next we want to find 
+4. (b) Apply Newton’s second law to the vertical (y) direction, with upward as
+positive:
+5. (b) Solve: We have
+and, from point 3
+above,
+Furthermore, since
+the box does not move
+vertically, so
+Thus
+so
+NOTE
+is less than mg: the table does not push against the full weight of the
+box because part of the pull exerted by the person is in the upward direction.
+EXERCISE F A 10.0-kg box is dragged on a horizontal frictionless surface by a hori-
+zontal force of 10.0 N. If the applied force is doubled, the normal force on the box will
+(a) increase; (b) remain the same; (c) decrease.
+Tension in a Flexible Cord
+When a flexible cord pulls on an object, the cord is said to be under tension, and the
+force it exerts on the object is the tension 
+If the cord has negligible mass, the
+force exerted at one end is transmitted undiminished to each adjacent piece of cord
+along the entire length to the other end. Why? Because
+for the
+cord if the cord’

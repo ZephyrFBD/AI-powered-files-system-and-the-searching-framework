@@ -1,0 +1,28 @@
+rgy-level diagram. This is shown for hydrogen in Fig. 27–29. The electron in a
+hydrogen atom can be in any one of these levels according to Bohr theory. But it
+could never be in between, say at 
+At room temperature, nearly all 
+H atoms will be in the ground state 
+At higher temperatures, or during
+an electric discharge when there are many collisions between free electrons and
+atoms, many atoms can be in excited states 
+Once in an excited state, an
+atom’s electron can jump down to a lower state, and give off a photon in the
+process. This is, according to the Bohr model, the origin of the emission spectra
+of excited gases.
+Note that above
+an electron is free and can have any energy (E is
+not quantized). Thus there is a continuum of energy states above
+as indi-
+cated in the energy-level diagram of Fig. 27–29.
+E = 0,
+E = 0,
+(n 7 1).
+(n = 1).
+–9.0 eV.
+792
+CHAPTER 27
+FIGURE 27–29 Energy-level diagram
+for the hydrogen atom, showing the
+transitions for the spectral lines of the
+Lyman, Balmer, 

@@ -1,0 +1,15 @@
+kely to understand what BLAST is doing when it searches for 
+sequence similarities. A simple analogy is the sticky note and the library. Tell students 
+that they have a three-word phrase written on a sticky note. Their job is to go to the 
+school library, look for every book that has that three-word phrase, and write down the 
+exact page number and name of every book they find. Next, they must search for every 
+book that has their three-word phrase, even if the spelling is not perfect. They must keep 
+doing this until they find every last book that has a part of their three-word phrase. Their 
+last chore is to put all the names and page numbers of the books they found in order, 
+from most to least similar to their original phrase. If students are not impressed with 
+the library analogy, tell them to use Google to search for a three-word phrase (with near 
+matches) and categorize the hits for the entire Web. That is essentially what BLAST is 
+doing in a few seconds. 
+INVESTIGATION 3
+ 
+ 

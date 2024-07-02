@@ -1,0 +1,57 @@
+ so pH = pKa. When does this happen during the titration? 
+At the beginning of the titration, the acid is H3PO3 initially; at the first equivalence point, 
+it is all converted to H2PO3
+-. Therefore, halfway to the first equivalence point, half of the 
+H3PO3 is converted to H2PO3
+-. Thus, halfway to the equivalence point, the concentration 
+0
+2
+4
+6
+8
+pH
+10
+12
+14
+10
+20
+30
+40
+mL HCl
+50
+60
+70
+80
+0
+2
+4
+6
+8
+pH
+10
+12
+14
+10
+20
+30
+40
+mL HCl
+50
+60
+70
+80
+Phenolphthalein indicator
+Color-change interval 8.3 < pH < 10.0
+Methyl red indicator
+Color-change interval 4.2 < pH < 6.0
+Equivalence point
+Equivalence point
+Good choice. Suitable indicator for titration of a 
+weak base with a strong acid because equivalence 
+point falls within the color-change interval
+Poor choice. Unsatisfactory indicator for titration 
+of a weak base with a strong acid because color
+changes before reaching equivalence point
+▲ Figure 17.14 Good and poor indicators for titration of a weak base with a strong acid.
+ 
+SECTION 17.4 

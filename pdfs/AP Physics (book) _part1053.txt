@@ -1,0 +1,64 @@
+.60),
+1.2 m3
+1.2 m3
+2000 kg.
+=
+mF = rF V = A1000 kgm3BA2.0 m3B
+mO = rO V = A0.60 * 103 kgm3BA2.0 m3B = 1200 kg.
+2.0 m3
+rF 7 rO.
+rFVg 7 rOVg
+F
+B 7 mO g
+mO
+ArFB.
+ArOB
+25.0
+cm
+x
+1.000
+FIGURE 10–16 A hydrometer.
+Example 10–9.
+(a)
+(b)
+mOg = (1200 kg)g
+   B = (2000 kg)g
+   V = 2.0 m3
+mO = 1200 kg
+a
+B
+F
+mOg
+B = (1200 kg)g
+F
+FIGURE 10–14 (a) The fully 
+submerged log accelerates upward 
+because 
+It comes to 
+equilibrium (b) when 
+so 
+Then 1200 kg,
+or 
+of water is displaced.
+1.2 m3,
+F
+B = mO g = (1200 kg)g.
+©F = 0,
+F
+B 7 mO g.
+FB =   FVdispl g
+mOg =
+OV
+Og
+
+
+FIGURE 10–15 An object floating
+in equilibrium: F
+B = mOg.
+Hydrometer calibration. A hydrometer is a simple instru-
+ment used to measure the specific gravity of a liquid by indicating how deeply
+the instrument sinks in the liquid. A particular hydrometer (Fig. 10–16) consists
+of a glass tube, weighted at the bottom, which is 25.0 cm long and 
+in
+cross-sectional area, and has a mass of 45.0 g. How far from the weighted end
+should the 1.000

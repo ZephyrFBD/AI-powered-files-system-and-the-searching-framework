@@ -1,0 +1,12 @@
+gulatory or
+structural. The intracellular domain is involved in intracellular signaling. A single T cell will express thousands of identical
+copies of one specific TCR variant on its cell surface. The specificity of the adaptive immune system occurs because it
+synthesizes millions of different T cell populations, each expressing a TCR that differs in its variable domain. This TCR
+1450
+Chapter 33 | The Immune System
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+diversity is achieved by the mutation and recombination of genes that encode these receptors in stem cell precursors of
+T cells. The binding between an antigen-displaying MHC molecule and a complementary TCR “match” indicates that the
+adaptive immune system needs to activate and produce that specific T cell because its structure is appropriate to recognize
+and destroy the invading pathogen.
+Figure 33.12 A T cell receptor spans the membrane and projects variable binding regions into the extracellu

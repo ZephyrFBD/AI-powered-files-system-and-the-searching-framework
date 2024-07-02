@@ -1,0 +1,18 @@
+ sit farther from the 
+pivot than the heavier child in order to provide torques of equal magnitude.
+EXERCISE C We did not need to use the force equation to solve Example 9–4 because
+of our choice of the axis. Use the force equation to find the force exerted by the pivot.
+Forces on a beam and supports. A uniform 1500-kg beam,
+20.0 m long, supports a 15,000-kg printing press 5.0 m from the right support
+column (Fig. 9–8). Calculate the force on each of the vertical support columns.
+APPROACH We analyze the forces on the beam (the force the beam exerts on
+each column is equal and opposite to the force exerted by the column on the
+beam). We label these forces 
+and 
+in Fig. 9–8. The weight of the beam
+itself acts at its center of gravity, 10.0 m from either end. We choose a con-
+venient axis for writing the torque equation: the point of application of 
+(labeled P), so 
+will not enter the equation (its lever arm will be zero) and we
+will have an equation in only one unknown,
+SOLUTION The torq

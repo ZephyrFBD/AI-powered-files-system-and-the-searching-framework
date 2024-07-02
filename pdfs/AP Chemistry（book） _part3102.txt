@@ -1,0 +1,21 @@
+, the 
+sign of ∆G relates to the spontaneity of the process. When ∆G is 
+negative, the process is spontaneous. When ∆G is positive, the 
+process is nonspontaneous, but the reverse process is spontaneous. 
+At equilibrium the process is reversible and ∆G is zero. The free 
+energy is also a measure of the maximum useful work that can 
+be performed by a system in a spontaneous process. The standard 
+free-energy change, ∆G°, for any process can be calculated from 
+tabulations of standard free energies of formation, ∆G°
+f, which are de-
+fined in a fashion analogous to standard enthalpies of formation, 
+∆H°
+f. The value of ∆G°
+f  for a pure element in its standard state is de-
+fined to be zero.
+FREE ENERGY, TEMPERATURE, AND THE EQUILIBRIUM CON-
+STANT (SECTIONS 19.6 AND 19.7) The values of ∆H and ∆S for 
+a chemical process generally do not vary much with temperature. 
+Therefore, the dependence of ∆G with temperature is governed 
+mainly by the value of T in the expression ∆G = ∆H - T∆S. The 
+en

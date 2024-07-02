@@ -1,0 +1,64 @@
+Fig. 33–10), and their brief explosive burst of
+light is expected to be of nearly the same luminosity. They are thus sometimes
+referred to as “standard candles.”
+ 
+1 pc = A3.086 * 1016 mB ¢
+1 ly
+9.46 * 1015 m
+≤
+= 3.26 ly.
+ 
+1 pc =
+d
+1–
+=
+1.496 * 1011 m
+(1–) ¢ 1¿
+60– ≤¢ 1°
+60¿ ≤¢ 2p rad
+360° ≤
+= 3.086 * 1016 m
+d = 1.496 * 1011 m
+D = df,
+10.22– = 4.5 pc.
+f = A6 * 10–5B°(3600) = 0.22–
+f
+D = 1f
+1– =
+1
+3600
+1
+60
+(1¿)
+1
+60
+(1–)
+f
+*
+D =
+d
+tan f
+L
+d
+f =
+1.5 * 108 km
+1.0 * 10–6 rad = 1.5 * 1014 km,
+f = dD.
+f
+f L f
+1.0 * 10–6
+(0.00006°)(2p rad360°) =
+f = 0.00006°,
+d = 1.5 * 108 km
+tan f = dD
+2f = 0.00012°.
+2f
+EXAMPLE 33;6
+ESTIMATE
+Another important technique for estimating the distance of very distant
+galaxies is from the “redshift” in the line spectra of elements and compounds.
+The redshift is related to the expansion of the universe, as we shall discuss in
+Section 33–5. It is useful for objects farther than 
+to 
+ly away.
+As we look farther and farther away, measurement techniques are les

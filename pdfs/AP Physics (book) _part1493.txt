@@ -1,0 +1,32 @@
+f water can still evaporate from
+an open pan?
+66. (III) Air that is at its dew point of 5°C is drawn into a
+building where it is heated to 22°C. What will be the relative
+humidity at this temperature? Assume constant pressure
+of 1.0 atm. Take into account the expansion of the air.
+420 m3
+1.01 * 105 Pa.
+d = 3.0 mm,
+5.0 m * 6.0 m * 2.4 m
+ Water
+m
+Weight
+(mass m)
+ Water
+Steam
+m
+Diameter d
+FIGURE 13–32
+Problem 64.
+67. (III) When using a mercury barometer (Section 10–6), the
+vapor pressure of mercury is usually assumed to be zero.
+At room temperature mercury’s vapor pressure is about
+0.0015 mm-Hg. At sea level, the height h of mercury in a
+barometer is about 760 mm. (a) If the vapor pressure of
+mercury is neglected, is the true atmospheric pressure
+greater or less than the value read from the barometer?
+(b) What is the percent error? (c) What is the percent error
+if you use a water barometer and ignore water’s saturated
+vapor pressure at STP?
+*13–13 Diffusion
+*68. (II) Estimate the time nee

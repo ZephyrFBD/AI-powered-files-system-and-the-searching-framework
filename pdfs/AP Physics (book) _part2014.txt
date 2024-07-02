@@ -1,0 +1,55 @@
+)
+respectively, where 
+and 
+are the peak values. The power
+relationship,
+is valid for the average
+power in alternating currents when the rms values of V and I
+are used.
+[ The current in a wire, at the microscopic level, is consid-
+ered to be a slow drift velocity of electrons,
+The current I is
+given by
+(18–10)
+where n is the number of free electrons per unit volume, e is
+the magnitude of the charge on an electron, and A is the cross-
+sectional area of the wire.]
+[ At very low temperatures certain materials become
+superconducting, which means their electrical resistance
+becomes zero.]
+[ The human nervous system operates via electrical con-
+duction: when a nerve “fires,” an electrical signal travels as a
+voltage pulse known as an action potential.]
+*
+*
+I = neAvd,
+v
+B
+d.
+*
+P = IV = I2R = V2R,
+V
+0
+I0
+Irms =
+I0
+22 and V
+rms =
+V
+0
+22
+,
+v = 2pf,
+I = I
+0 sin vt,
+A1 kWh = 3.6 * 106 JB.
+(1 J = 1 Ws),
+(1 W = 1 Js).
+P = I2R = V2
+R
+.
+P = IV,
+Summary
+TABLE 18–3 Summary of Units
+Current
+Potential 

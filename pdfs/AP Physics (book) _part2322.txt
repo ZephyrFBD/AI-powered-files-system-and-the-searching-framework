@@ -1,0 +1,14 @@
+nuous slip ring that rotates with the armature.) After one-half
+revolution, wire b will be where wire a is now in Fig. 21–14, and the current then
+at brush b will be inward. Thus the current produced is alternating.
+The frequency f is 60 Hz for general use in the United States and Canada,
+whereas 50 Hz is used in many countries. Most of the power generated in the
+United States is done at steam plants, where the burning of fossil fuels (coal, oil,
+natural gas) boils water to produce high-pressure steam that turns a turbine
+connected to the generator axle (Fig. 15–21). Turbines can also be turned by
+water pressure at a dam (hydroelectric). At nuclear power plants, the nuclear
+energy released is used to produce steam to turn turbines. Indeed, a heat engine
+(Chapter 15) connected to a generator is the principal means of generating
+electric power. The frequency of 60 Hz or 50 Hz is maintained very precisely by
+power companies.
+A dc generator is much like an ac generator, except the slip rin

@@ -1,0 +1,35 @@
+ the field of view is small.
+The second type, shown in Fig. 25–23b, is often called a spyglass and makes use 
+of a third convex lens that acts to make the image upright as shown. A spyglass
+must be quite long. The most practical design today is the prism binocular which
+was shown in Fig. 23–28. The objective and eyepiece are converging lenses. The
+prisms reflect the rays by total internal reflection and shorten the physical size of
+the device, and they also act to produce an upright image. One prism reinverts
+the image in the vertical plane, the other in the horizontal plane.
+Object
+Light
+source
+Sample
+Objective
+lens
+Eyepiece
+lens
+Eye
+l
+Eyepiece
+fe
+Fo′
+I2
+I1
+Fo
+Fe
+Objective
+lens
+(b)
+(a)
+do
+25–5 Compound Microscope
+The compound microscope, like the telescope, has both objective and eyepiece
+(or ocular) lenses, Fig. 25–24. The design is different from that for a telescope
+because a microscope is used to view objects that are very close, so the object
+distance is very small. The object is

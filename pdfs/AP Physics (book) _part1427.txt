@@ -1,0 +1,56 @@
+ century.
+A number of methods have been devised to measure 
+and the accepted
+value today is (see inside front cover for more precise value)
+Since the total number of molecules, N, in a gas is equal to 
+times the number
+of moles
+then the ideal gas law, Eq. 13–3, can be written in terms of
+the number of molecules present:
+or
+(13;4)
+where
+is called the Boltzmann constant and has the value
+k =
+R
+N
+A
+=
+8.314 JmolK
+6.02 * 1023mol = 1.38 * 10–23 JK.
+k = RN
+A
+PV = NkT,
+PV = nRT =
+N
+N
+A
+RT,
+AN = nN
+AB,
+N
+A
+[moleculesmole]
+N
+A = 6.02 * 1023.
+N
+A,
+N
+A.
+N
+A.
+PV = nRT,
+IDEAL GAS LAW 
+(in terms of molecules)
+Hydrogen atom mass. Use Avogadro’s number to deter-
+mine the mass of a hydrogen atom.
+APPROACH The mass of one atom equals the mass of 1 mol divided by the
+number of atoms in 1 mol,
+SOLUTION One mole of hydrogen atoms (
+Section 13–1
+or Appendix B) has a mass of 
+and contains 
+Thus one atom has a mass
+NOTE Historically, the reverse was done: a precise value of 
+was obtained
+from a precise m

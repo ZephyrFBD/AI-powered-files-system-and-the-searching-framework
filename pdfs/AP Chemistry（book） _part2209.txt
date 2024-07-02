@@ -1,0 +1,20 @@
+d the rate law is second 
+order in B.
+ 
+SECTION 14.4   
+The Change of Concentration with Time 
+581
+14.4 ∣  
+The Change of Concentration 
+with Time
+The rate laws we have examined so far enable us to calculate the rate of a reaction from 
+the rate constant and reactant concentrations. In this section, we will show that rate 
+laws can also be converted into equations that show the relationship between concen-
+trations of reactants or products and time. The mathematics required to accomplish this 
+conversion involves calculus. We do not expect you to be able to perform the calculus 
+operations, but you should be able to use the resulting equations. We will apply this con-
+version to three of the simplest rate laws: those that are first order overall, those that are 
+second order overall, and those that are zero order overall.
+First-Order Reactions
+A first-order reaction is one whose rate depends on the concentration of a single reactant 
+raised to the first power. If a reaction of the type

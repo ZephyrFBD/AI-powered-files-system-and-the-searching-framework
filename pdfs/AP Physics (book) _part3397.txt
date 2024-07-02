@@ -1,0 +1,72 @@
+unter just as for a Geiger tube. Solid scintillators are much more dense than
+the gas of a Geiger counter, and so are much more efficient detectors—especially
+for 
+rays, which interact less with matter than do 
+or 
+particles. Scintillators
+that can measure the total energy deposited are much used today and are 
+called calorimeters.
+b
+a
+g
+106
+AL 103 VB
+g
+a
+a
+¢t
+¢E
+a
+(¢E)(¢t)
+L
+h
+2p
+.
+¢t
+¢E
+SECTION 30–13
+Detection of Particles
+877
+FIGURE 30–14 Scintillation counter
+with a photomultiplier tube.
+FIGURE 30–13 Diagram of a
+Geiger counter.
+Thin window
+Gas in tube
+
+
+103 V
+Wire electrode
+(anode  )
+Insulator
+Metal tube
+(cathode  )
+
+
+
+
+
+
+To counter
++ 200 V
++ 600 V
++ 1000 V
++ 1400 V
++ 400 V
++ 800 V
++ 1200 V
++ 1600 V
+Photocathode
+Photon
+0 V
+Incoming
+particle
+Scintillation
+crystal
+Photomultiplier
+tube
+Output
+pulse
+(to counter)
+In tracer work (Section 31–7), liquid scintillators are often used. Radioactive
+samples taken at different times or from different parts of an organism are placed

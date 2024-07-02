@@ -1,0 +1,15 @@
+int of view
+of kinetic theory, which is based on the laws of classical mechanics. But to apply
+Newton’s laws to each one of the vast number of molecules in a gas (
+at
+STP) is far beyond the capability of any present computer. Instead we take a sta-
+tistical approach and determine averages of certain quantities, and connect these
+averages to macroscopic variables. We will demand that our microscopic description
+correspond to the macroscopic properties of gases; otherwise our theory would be
+of little value. Most importantly, we will arrive at an important relation between
+the average kinetic energy of molecules in a gas and the absolute temperature.
+We make the following assumptions about the molecules in a gas. These
+assumptions reflect a simple view of a gas, but nonetheless the results they predict
+correspond well to the essential features of real gases that are at low pressure 
+and are far from the liquefaction point. Under these conditions real gases follow the
+ideal gas law quite 

@@ -1,0 +1,16 @@
+rticles
+†Recall from Section 13–1 that the word “atom” comes from the Greek meaning “indivisible.” Atoms
+have a substructure (protons, neutrons) so are not fundamental. Yet an atom is still the smallest
+“piece” of an element that has the characteristics of that material.
+any group of particles is quantified using the concept of cross section, Section 31–1.
+Because the projectile particles are at high energy, this field is sometimes called
+high-energy physics.
+Wavelength and Resolution
+Particles accelerated to high energy can probe the interior of nuclei and nucleons
+or other particles they strike. An important factor is that faster-moving projectiles
+can reveal more detail. The wavelength of projectile particles is given by 
+de Broglie’s wavelength formula (Eq. 27–8),
+(32;1)
+showing that the greater the momentum p of the bombarding particle, the shorter
+its wavelength. As discussed in Chapter 25 on optical instruments, resolution of
+details in images is limited by the wavelength: the s

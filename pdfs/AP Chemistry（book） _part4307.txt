@@ -1,0 +1,22 @@
+ enthalpy change, ∆H, for melting a solid. 
+(Section 11.4)
+heat of sublimation The enthalpy change, ∆H, for vaporization 
+of a solid. (Section 11.4)
+heat of vaporization The enthalpy change, ∆H, for vaporization 
+of a liquid. (Section 11.4)
+Henderson–Hasselbalch equation The relationship among the 
+pH, pKa, and the concentrations of acid and conjugate base in an 
+aqueous solution: pH = pKa + log 
+3base4
+3acid4. (Section 17.2)
+Henry’s law A law stating that the concentration of a gas in 
+a solution, Sg, is proportional to the pressure of gas over the 
+solution: Sg = kP
+g. (Section 13.3)
+Hess’s law If a reaction is carried out in a series of steps, ∆H for 
+the overall reaction equals the sum of the enthalpy changes for 
+the individual steps. (Section 5.6)
+heterogeneous alloy An alloy in which the components are not 
+distributed uniformly; instead, two or more distinct phases with 
+characteristic compositions are present. (Section 12.3)
+heterogeneous catalyst A catalyst that is in a diffe

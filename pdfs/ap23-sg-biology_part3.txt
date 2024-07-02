@@ -1,0 +1,71 @@
+HIGH- AND LOW-PHOSPHATE ENVIRONMENTS 
+Yeast 
+Strain 
+Mutation 
+APase Activity in 
+High- Pi  
+Environment 
+(mU/mL/OD600) 
+2SEx
+±
+  
+  
+APase Activity in 
+Low-Pi  
+Environment 
+(mU/mL/OD600) 
+2SEx
+±
+ 
+Relative Amounts 
+of PHO1 mRNA in  
+High- Pi  
+Environment 
+2SEx
+±
+ 
+Relative Amounts 
+of PHO1 mRNA in  
+Low-Pi  
+Environment 
+2SEx
+±
+ 
+Wild-type 
+None 
+0.5 ± 0.1 
+17.3 ± 0.9 
+0.1 ± 0.0 
+10 ± 2.0 
+pho81mt 
+Nonfunctional  
+Pho81 
+0.4 ± 0.1 
+0.6 ± 0.1 
+0.7 ± 0.2 
+0.9 ± 0.8 
+pho4mt 
+Nonfunctional  
+Pho4 
+0.5 ± 0.0 
+0.8 ± 0.2 
+0.6 ± 0.4 
+0.3 ± 0.1 
+ 
+(a) 
+Describe the effect the addition of a charged phosphate group can have on a protein that 
+would cause the protein to become inactive.  
+• 
+It changes the structure/shape of the protein. 
+1 point 
+ 
+ 
+ Explain how a signal can be amplified during signal transduction in a pathway such as the 
+PHO signaling pathway. 
+• 
+Each enzyme (in a signal transduction pathway) can act on many copies of a protein. 
+1 point 
+ 
+Total for part (a) 
+2 points 
+(b

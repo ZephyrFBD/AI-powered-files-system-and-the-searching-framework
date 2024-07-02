@@ -1,0 +1,24 @@
+k Electrical Work
+20.6 ∣  
+Cell Potentials under 
+Nonstandard Conditions
+We have seen how to calculate the emf of a cell when the reactants and products are 
+under standard conditions. As a voltaic cell is discharged, however, reactants are con-
+sumed and products are generated, so concentrations change. The emf progressively 
+drops until E = 0, at which point we say the cell is “dead.” In this section, we examine 
+how the emf generated under nonstandard conditions can be calculated by using an 
+equation first derived by Walther Nernst (1864–1941), a German chemist who estab-
+lished many of the theoretical foundations of electrochemistry.
+ 
+SECTION 20.6   
+Cell Potentials under Nonstandard Conditions 
+871
+ 
+Now we can calculate K as before:
+872 
+CHAPTER 20 Electrochemistry
+the Nernst Equation
+The effect of concentration on cell emf can be obtained from the effect of concentra-
+tion on free-energy change. 
+ (Section 19.7) Recall that the free-energy change for any 
+chemical reaction, ∆G

@@ -1,0 +1,33 @@
+he graph of these results and find: (a) Planck’s constant;
+(b) the cutoff frequency of sodium; (c) the work function.
+29. (II) Show that the energy E (in electron volts) of a photon
+whose wavelength is 
+(nm) is given by
+Use at least 4 significant figures for values of h, c, e (see
+inside front cover).
+*27–5 Compton Effect
+*30. (I) A high-frequency photon is scattered off of an electron
+and experiences a change of wavelength of 
+At what angle must a detector be placed to detect the scattered
+photon (relative to the direction of the incoming photon)?
+1.7 * 10–4 nm.
+E = 1.240 * 103 eVnm
+l (nm)
+.
+l
+(* 1014 Hz)
+kcalmol
+l = 400
+AW
+0 = 2.48 eVB
+10–18 J
+Problems
+For assigned homework and other learning materials, go to the MasteringPhysics website.
+800
+CHAPTER 27
+Early Quantum Theory and Models of the Atom
+*31. (II) The quantity 
+which has the dimensions of length,
+is called the Compton wavelength. Determine the Compton
+wavelength for (a) an electron, (b) a proton. (c) Show 
+that if a photon

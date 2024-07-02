@@ -1,0 +1,33 @@
+mp is used to maintain the inside tempera-
+ture of a house at 
+when the outside temperature
+is 
+Assume that when it is operating, the heat pump does
+work at a rate of 1500 W. Also assume that the house loses
+heat via conduction through its walls and other surfaces at
+a rate given by 
+(a) For what outside
+temperature would the heat pump have to operate all the time
+in order to maintain the house at an inside temperature of
+22°C? (b) If the outside temperature is 8°C, what percentage
+of the time does the heat pump have to operate in order to
+maintain the house at an inside temperature of 22°C?
+AT
+in - T
+outB.
+(650 WC°)
+T
+out.
+T
+in = 22°C
+1. What happens to the internal energy of water vapor in the
+air that condenses on the outside of a cold glass of water?
+Is work done or heat exchanged? Explain in detail.
+2. Draw a PV diagram for an ideal gas which undergoes a
+three-step cyclic thermodynamic process in which the first
+step has
+and 
+the second step has
+and the third step has
+and 
+3. Wha

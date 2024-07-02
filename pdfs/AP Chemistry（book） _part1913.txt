@@ -1,0 +1,23 @@
+ap, 
+we would expect GaN to have a larger band gap than GaP
+.
+Check External references show that the band gap of GaP is  
+2.26 eV, ZnS is 3.6 eV, and GaN is 3.4 eV.
+ 
+▶Practice Exercise 1
+Which of these statements is false?
+(a) As you go down column 4A in the periodic table, the el-
+emental solids become more electrically conducting. (b) As 
+you go down column 4A in the periodic table, the band gaps 
+of the elemental solids decrease. (c) The valence electron 
+count for a compound semiconductor averages out to four 
+per atom. (d) Band gap energies of semiconductors range 
+from ∼0.1 to 3.5 eV. (e) In general, the more polar the bonds 
+are in compound semiconductors, the smaller the band gap.
+ 
+▶Practice Exercise 2
+Will ZnSe have a larger or smaller band gap than ZnS?
+Semiconductor doping
+The electrical conductivity of a semiconductor is influenced by the presence of small 
+numbers of impurity atoms. The process of adding controlled amounts of impurity 
+atoms to a material is known as do

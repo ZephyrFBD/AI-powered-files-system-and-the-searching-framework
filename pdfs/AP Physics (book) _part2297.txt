@@ -1,0 +1,59 @@
+ Joseph Henry (1797–1878)
+and the Englishman Michael Faraday (1791–1867) independently found that it
+was possible. Henry actually made the discovery first. But Faraday published his
+results earlier and investigated the subject in more detail. We now discuss this
+phenomenon and some of its world-changing applications including the electric
+generator.
+2
+1
+One of the great laws of physics is
+Faraday’s law of induction, which
+says that a changing magnetic flux
+produces an induced emf. This photo
+shows a bar magnet moving into (or
+out of) a coil of wire, and the
+galvanometer registers an induced
+current. This phenomenon of
+electromagnetic induction is the
+basis for many practical devices,
+including generators, alternators,
+transformers, magnetic recording on
+tape or disk (hard drive), and
+computer memory.
+S
+S
+S
+0
++10
+–10
+0
++10
+–10
+I
+I
+(b)
+(a)
+0
++10
+–10
+I
+I
+N
+N
+(c)
+I = 0
+N
+Magnet
+moves up
+toward coil
+  (    in coil
+   increasing)
+Magnet
+moves
+down
+No
+movement
+B
+B
+  (    in coil
+   decreasing

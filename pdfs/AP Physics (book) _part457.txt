@@ -1,0 +1,23 @@
+and 
+each undergoes a centripetal 
+acceleration. What keeps the Moon
+and the space shuttle (and its 
+astronauts) from moving off in a
+straight line away from Earth? It is
+the force of gravity. Newton’s law of
+universal gravitation states that all
+objects attract all other objects with
+a force that depends on their masses
+and the square of the distance
+between them.
+In this Chapter, we study the circular motion of objects, and how Newton’s
+laws of motion apply. We also discuss how Newton conceived of another great law
+by applying the concepts of circular motion to the motion of the Moon and the
+planets. This is the law of universal gravitation, which was the capstone of Newton’s
+analysis of the physical world.
+5–1 Kinematics of 
+Uniform Circular Motion
+An object that moves in a circle at constant speed v is said to experience 
+uniform circular motion. The magnitude of the velocity remains constant in this
+case, but the direction of the velocity continuously changes as the object moves
+a

@@ -1,0 +1,21 @@
+ table shows the genotypic frequencies of TT and TC,
+which can be represented as p and q in Hardy-Weinberg
+calculations.
+(D)
+4. Many physiological activities in plants and animals oscillate
+according to a circadian rhythm. The circadian rhythm is driven by
+blue light receptors called cryptochromes. Cryptochromes consist
+of a protein attached to a pigment. The DNA sequences of the
+cryptochrome protein show extensive similarities among plants
+and animals. A search of genome databanks reveals that the
+cryptochromes share considerable sequence similarities with
+photolyases, which repair enzymes that repair UV radiation
+damage in DNA.
+Which of the following conclusions is most justified based on
+these findings?
+The light receptor proteins are not homologous; they
+appeared independently in diﬀerent lineages because of the
+selective pressure for all organisms to respond to blue light.
+(A)
+The photolyases and cryptochromes are both receptors of
+blue light; therefore, their genes should share s

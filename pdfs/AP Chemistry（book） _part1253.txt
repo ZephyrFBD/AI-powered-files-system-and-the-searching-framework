@@ -1,0 +1,12 @@
+lectronegativity is defined as the ability of an atom in a molecule  
+to attract electrons to itself.
+The greater an atom’s electronegativity, the greater its ability to attract electrons to 
+itself. The electronegativity of an atom in a molecule is related to the atom’s ionization 
+energy and electron affinity, which are properties of isolated atoms. An atom with a very 
+negative electron affinity and a high ionization energy both attracts electrons from other 
+atoms and resists having its electrons attracted away; therefore, it is highly electronegative.
+Electronegativity values can be based on a variety of properties, not just ionization energy 
+and electron affinity. The American chemist Linus Pauling (1901–1994) developed the first and 
+most widely used electronegativity scale, which is based on thermochemical data. As Figure 8.8 
+shows, there is generally an increase in electronegativity from left to right across a period—that 
+is, from the most metallic to the most nonmetallic e

@@ -1,0 +1,60 @@
+ 
+ 
+ 
+118 
+In general, for the functions y = a sin x and y = a cos x, the number |a| is called the 
+amplitude and is the largest value these functions attain. 
+ 
+ 
+Example 2 
+Find the amplitude of y = −3 cos x and sketch its graph. 
+ 
+ 
+ 
+ 
+ 
+Since the sine and cosine functions have period 2π, the functions y = a sin kx and y = a 
+cos kx complete one period as kx varies from 0 to 2π, that is, for 
+2
+0
+2  or for 0
+.
+kx
+x
+k
+p
+p
+£
+£
+£
+£
+ 
+So these functions complete one period as x varies between 0 and 2π/k, and thus have 
+period 2π/k. 
+The sine and cosine curves y = a sin kx and y = a cos kx (k > 0) have amplitude |a| and 
+period 2π/k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+119 
+We see that the effect is to shrink the graph horizontally if k > 1 or to stretch the graph 
+horizontally if k < 1. 
+For comparison, we show the graphs of one period of the sine curve y = a sin kx for 
+several values of k. 
+ 
+ 
+Example 3 
+Find the amplitude and period of each function, and sketch its graph. 
+ 
+ 
+ 
+ 
+ 
+ 
+The graphs o

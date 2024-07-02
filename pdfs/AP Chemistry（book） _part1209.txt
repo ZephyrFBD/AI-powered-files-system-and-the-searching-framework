@@ -1,0 +1,36 @@
+si-
+tions of their elements in the periodic table.
+Integrative Exercises
+ 
+[7.109]   
+Moseley established the concept of atomic number by study-
+ing X rays emitted by the elements. The X rays emitted by 
+some of the elements have the following wavelengths:
+Element
+Wavelength (Å)
+Ne
+14.610
+Ca
+3.358
+Zn
+1.435
+Zr
+0.786
+Sn
+0.491
+ 
+  
+(a) Calculate the frequency, n, of the X rays emitted by each 
+of the elements, in Hz. (b) Plot the square root of n versus 
+the atomic number of the element. What do you observe 
+about the plot? (c) Explain how the plot in part (b) allowed 
+Moseley to predict the existence of undiscovered elements. 
+ 
+(d) Use the result from part (b) to predict the X-ray wavelength 
+emitted by iron. (e) A particular element emits X rays with a 
+wavelength of 0.980 Å. What element do you think it is?
+ 
+[7.110]   
+(a) Write the electron conﬁguration for Li and estimate the 
+effective nuclear charge experienced by the valence electron. 
+(b) The energy of an electron in a one-elec

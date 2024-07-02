@@ -1,0 +1,27 @@
+ radiation emanating from the sample 
+decays as well. For example, the half-life of cobalt-60 is 5.27 yr. The 4.0-mCi sample of 
+cobalt-60 would, after 5.27 yr, have a radiation activity of 2.0 mCi, or 7.5 * 107 Bq.
+Give It Some Thought
+If the size of a radioactive sample is doubled, what happens to the activity of the 
+sample in Bq?
+Because radioactive decay is a first-order kinetic process, its rate is proportional to 
+the number of radioactive nuclei N in a sample:
+ 
+Rate = kN 
+[21.18]
+The first-order rate constant, k, is called the decay constant and is related to the half-life:
+ 
+k = 0.693
+t1>2
+ 
+[21.19]
+Thus, if we know the value of either the half-life or the decay constant, we can calculate 
+the value of the other.
+As we saw in Section 14.4, a first-order rate law can be expressed in the following form:
+ 
+ln Nt
+N0
+= -kt 
+[21.20]
+In this equation t is the time interval of decay, k is the decay constant, N0 is the initial 
+number of nuclei (at time zero), and Nt is the number rem

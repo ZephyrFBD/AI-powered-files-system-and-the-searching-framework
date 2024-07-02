@@ -1,0 +1,33 @@
+eaker
+(see Fig. 18–14). What are the rms voltage and the rms
+current fed to the speaker (a) at the maximum power of
+100 W, and (b) at 1.0 W when the volume is turned down?
+53. (II) Determine (a) the maximum instantaneous power dissi-
+pated by a 2.2-hp pump connected to a 
+ac power
+source,and (b) the maximum current passing through the pump.
+240-Vrms
+8-
+660-Vrms
+120-Vrms
+310-
+2.7-k
+3.0 .
+54. (II) A heater coil connected to a 
+ac line has a
+resistance of 
+(a) What is the average power used?
+(b) What are the maximum and minimum values of the
+instantaneous power?
+*18–8 Microscopic View of Electric Current
+*55. (II) A 0.65-mm-diameter copper wire carries a tiny dc 
+current of 
+Estimate the electron drift velocity.
+*56. (II) A 4.80-m length of 2.0-mm-diameter wire carries a
+750-mA dc current when 22.0 mV is applied to its ends. If the
+drift velocity is 
+determine (a) the resistance R
+of the wire, (b) the resistivity 
+and (c) the number n of
+free electrons per unit volume.
+*57. (III) At a

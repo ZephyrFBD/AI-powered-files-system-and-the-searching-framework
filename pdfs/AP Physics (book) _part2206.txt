@@ -1,0 +1,26 @@
+ to the velocity of
+the particle and thus can only change the direction but not the magnitude of its
+velocity. Also the magnetic force cannot do work on the particle (force and dis-
+placement are perpendicular, Eq. 6–1) and so cannot change the kinetic energy
+of the particle, Eq. 6–4.
+F
+B = qE
+B
+E
+B
+CONCEPTUAL EXAMPLE 20;7
+A helical path. What is the path of a charged
+particle in a uniform magnetic field if its velocity is not perpendicular to the
+magnetic field?
+RESPONSE The velocity vector can be broken down into components parallel
+and perpendicular to the field. The velocity component parallel to the field lines
+experiences no force
+so this component remains constant. The velocity
+component perpendicular to the field results in circular motion about the field
+lines. Putting these two motions together produces a helical (spiral) motion
+around the field lines as shown in Fig. 20–19.
+(u = 0),
+CONCEPTUAL EXAMPLE 20;8
+SECTION 20–4
+Force on an Electric Charge Moving in a Magnetic Field
+5

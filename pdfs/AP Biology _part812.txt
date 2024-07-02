@@ -1,0 +1,18 @@
+ion mean than a sample mean with a large
+SE. Taking a larger sample size will usually result in a smaller SE. If the
+sample mean is ±1 SE, the investigator can have an approximately 68%
+confidence that the range includes the true population mean. Moreover, a
+sample with a ±2 SE defines a range that has approximately a 95%
+confidence. In other words, if the sampling was repeated 20 times with the
+******ebook converter DEMO Watermarks*******
+1.
+2.
+same sample size each time, the confidence limits would include the true
+population mean almost every time.
+Error bars are a graphical representation of the variability of data.
+They are used on graphs to indicate how far from the reported value the
+correct value might be. Error bars can represent different things, such as
+standard deviation (SD), standard error (SE), or a confidence interval (e.g.,
+a 95% interval). Whatever the error bars represent must be clearly stated
+on the graph.
+Here is a bar graph of “Average Height of Girls and Boys in

@@ -1,0 +1,23 @@
+tron atom or ion 
+equals 1-2.18 * 10-18 J2 a Z2
+n2 b, where Z is the nuclear charge 
+and n is the principal quantum number of the electron. Esti-
+mate the ﬁrst ionization energy of Li. (c) Compare the result 
+of your calculation with the value reported in Table 7.4 and 
+explain the difference. (d) What value of the effective nuclear 
+charge gives the proper value for the ionization energy? Does 
+this agree with your explanation in part (c)?
+ 
+[7.111] 
+  
+One way to measure ionization energies is ultraviolet pho-
+toelectron spectroscopy (PES), a technique based on the 
+photoelectric effect. 
+ (Section 6.2) In PES, monochro-
+matic light is directed onto a sample, causing electrons to 
+be emitted. The kinetic energy of the emitted electrons is 
+measured. The difference between the energy of the photons 
+and the kinetic energy of the electrons corresponds to the 
+energy needed to remove the electrons (that is, the ioniza-
+tion energy). Suppose that a PES experiment is performed 
+in which m

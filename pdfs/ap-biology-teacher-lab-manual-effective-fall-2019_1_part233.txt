@@ -1,0 +1,20 @@
+the cell? If you are on a PC, try hitting the F9 key several times to force 
+recalculation. On a Mac, enter cmd + or cmd =. What happens to the value in the cell? 
+Describe your results in your lab notebook. 
+The RAND function returns random numbers between 0 and 1 in decimal format. 
+This is a powerful feature of spreadsheets. It allows us to enter a sense of randomness to 
+our calculations if it is appropriate — and here it is when we are “randomly” choosing 
+gametes from a gene pool. Go ahead and delete the RAND function in the cell. 
+Let’s select two gametes from the gene pool. In cell E5, let’s generate a random 
+number, compare it to the value of p, and then place either an A gamete or a B gamete 
+in the cell. We’ll need two functions to do this, the RAND function and the IF function. 
+Check the help menu if necessary. 
+INVESTIGATION 2
+S32  Investigation 2 
+ 
+  
+Note that the function entered in cell E5 is 
+=IF(RAND()<=D$2,“
+A”
+, “B”) 
+Be sure to include the $ in front of the 2 i

@@ -1,0 +1,16 @@
+al dose, and type of tissue 
+affected. The product of the radiation dose in rads and the RBE of the radiation give the 
+effective dosage in rem (roentgen equivalent for man):
+ 
+Number of rem = 1number of rad21RBE2 
+[21.32]
+The SI unit for effective dose is the sievert (Sv), obtained by multiplying the RBE times 
+the SI unit for radiation dose, the gray; because a gray is 100 times larger than a rad, 
+1 Sv = 100 rem. The rem is the unit of radiation damage usually used in medicine.
+Give It Some Thought
+If a 50-kg person is uniformly irradiated by 0.10-J alpha radiation, what is the 
+absorbed dosage in rad and the effective dosage in rem?
+The effects of short-term exposure to radiation appear in Table 21.9. An exposure of 
+600 rem is fatal to most humans. To put this number in perspective, a typical dental X ray 
+entails an exposure of about 0.5 mrem. The average exposure for a person in 1 yr due to 
+all natural sources of ionizing radiation (called background radiation) is about 360 mre

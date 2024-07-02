@@ -1,0 +1,12 @@
+ge, black, and white hair, randomly arranged in patches over
+their bodies. The orange and black colors are determined by a gene on the X chromosome (the white color is
+controlled by a different gene). When the X chromosome with the orange allele is inactivated, the black color allele
+on the active chromosome is expressed, and the hair is black. In other patches, the chromosome with the black allele
+may be inactivated, and those patches will be orange.
+What does this mean for sex-linked genetic disorders in humans, such as
+color blindness? A carrier female (XNXn) should usually be normal with respect to this trait, because all or at least
+some cells will have XN activated and produce normal functioning color vision. However, in the very unlikely case
+that all of the relevant cells have XNinactivated, the carrier female should express the same symptoms of color
+blindness as a male.
+Nondisjunction
+Nondisjunction is the failure of one or more chromosome pairs or chromatids of a single chro

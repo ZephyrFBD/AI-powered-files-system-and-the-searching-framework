@@ -1,0 +1,37 @@
+re is no source of emf and negligible resistance in the connecting wires.
+Next, as the charge passes through the 
+resistor to get to point b, there
+is a decrease in potential of
+The positive
+test charge is flowing “downhill” since it is heading toward the negative terminal
+of the battery, as indicated in the graph of Fig. 19–12b. Because this is a decrease
+in potential, we use a negative sign:
+As the charge proceeds from b to c there is another potential decrease (a “voltage
+drop”) of
+and this too is a decrease in potential:
+There is no change in potential as our test charge moves from c to d as we assume
+negligible resistance in the wires.
+The sum of all the changes in potential around the circuit of Fig. 19–12 is
+This is exactly what Kirchhoff’s loop rule said it would be.
+±12.0 V – 7.0 V - 5.0 V = 0.
+V
+cb =
+–5.0 V.
+(0.0174 A) * (290 ) = 5.0 V,
+V
+ba = V
+b - V
+a =
+–7.0 V.
+V = IR = (0.0174 A)(400 ) = 7.0 V.
+400-
+V
+ed =
+±12.0 V.
+I = (12.0 V)(690 ) = 0.0174 A,
+I
+3 = I
+1 + I
+2 .
+I
+2

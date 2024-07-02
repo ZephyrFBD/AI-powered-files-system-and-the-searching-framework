@@ -1,0 +1,20 @@
+ibonding electron 
+pairs: bond order =  (number of bonding electrons - number of 
+antibonding electrons)/2. (Section 9.7)
+bond polarity A measure of the degree to which the electrons 
+are shared unequally between two atoms in a chemical bond. 
+(Section 8.4)
+boranes Molecules containing only boron and hydrogen; 
+covalent hydrides of boron. (Section 22.11)
+Born–Haber cycle A thermodynamic cycle based on Hess’s law 
+that relates the lattice energy of an ionic substance to its enthalpy 
+of formation and to other measurable quantities. (Section 8.2)
+Boyle’s law A law stating that at constant temperature, the 
+product of the volume and pressure of a given amount of gas is a 
+constant. (Section 10.3)
+Brønsted–Lowry acid A substance (molecule or ion) that acts as a 
+proton donor. (Section 16.2)
+Brønsted–Lowry base A substance (molecule or ion) that acts as 
+a proton acceptor. (Section 16.2)
+Brownian motion The random motion of colloidal particles in 
+solution due to collisions with solvent mol

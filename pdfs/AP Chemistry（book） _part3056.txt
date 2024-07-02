@@ -1,0 +1,22 @@
+essure
+ 
+∆Suniv = ∆Ssys + ∆Ssurr = ∆Ssys + a
+-∆Hsys
+T
+b 
+where Equation 19.9 substitutes for ∆Ssurr. Multiplying both sides by -T gives
+ 
+-T∆Suniv = ∆Hsys - T∆Ssys 
+[19.13]
+Comparing Equations 19.11 and 19.13, we see that in a process occurring at con-
+stant temperature and pressure, the free-energy change, ∆G, is equal to -T∆Suniv. We 
+know that for spontaneous processes, ∆Suniv is always positive and, therefore, -T∆Suniv 
+is always negative. Thus, the sign of ∆G provides us with extremely valuable information 
+about the spontaneity of processes that occur at constant temperature and pressure. If 
+both T and P are constant, the relationship between the sign of ∆G and the spontaneity 
+of a reaction is:
+t If ∆G 6 0, the reaction is spontaneous in the forward direction.
+t If ∆G = 0, the reaction is at equilibrium.
+t If ∆G 7 0, the reaction in the forward direction is nonspontaneous (work must be 
+done to make it occur) but the reverse reaction is spontaneous.
+It is more convenient to 

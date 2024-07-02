@@ -1,0 +1,33 @@
+oteins are a@amino acids, where the a 
+(alpha) indicates that the amino group is located on the carbon atom immediately adja-
+cent to the carboxylic acid group. Thus, there is always one carbon atom between the 
+amino group and the carboxylic acid group.
+The general formula for an a@amino acid is represented by
+C
+or
+H
+R
+COOH
+C
+H
+R
+COO−
+H2N
+a carbon
+One of about 20 different groups
+H3N
++
+Give It Some Thought
+What are the requirements on the four groups attached to a carbon atom in order 
+that it be a chiral center?
+ 
+SECTION 24.7  Proteins 
+1057
+1058 
+CHAPTER 24 The Chemistry of Life: Organic and Biological Chemistry
+The doubly ionized form, called a zwitterion, usually predominates at near-neutral pH 
+values. This form is a result of the transfer of a proton from the carboxylic acid group to 
+the amine group. 
+ (Section 16.10: “The Amphiprotic Behavior of Amino Acids”)
+Amino acids differ from one another in the nature of their R groups. Twenty-two 
+amino acids occur naturally in protei

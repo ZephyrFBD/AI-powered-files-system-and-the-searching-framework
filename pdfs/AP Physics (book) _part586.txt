@@ -1,0 +1,25 @@
+ does work on a nail 
+it drives into wood. In either case, a moving object exerts a force on a second
+object which undergoes a displacement. An object in motion has the ability to 
+do work and thus can be said to have energy. The energy of motion is called
+kinetic energy, from the Greek word kinetikos, meaning “motion.”
+To obtain a quantitative definition for kinetic energy, let us consider a simple
+rigid object of mass m (treated as a particle) that is moving in a straight line with an
+initial speed 
+To accelerate it uniformly to a speed 
+a constant net force 
+is exerted on it parallel to its motion over a displacement d, Fig. 6–7. Then the net
+work done on the object is  
+We apply Newton’s second law,
+and use Eq. 2–11c  
+which we rewrite as
+where 
+is the initial speed and 
+is the final speed. Substituting this into
+we determine the work done:
+or
+(6;2)
+We define the quantity 
+to be the translational kinetic energy (KE) of the object:
+(6;3)
+(We call this “translational” kinetic energy 

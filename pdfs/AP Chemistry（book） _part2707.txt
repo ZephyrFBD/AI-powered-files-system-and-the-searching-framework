@@ -1,0 +1,22 @@
+ion, CH3COO-, increases 
+by 0.020 mol. We can create a table to see 
+how the composition of the buffer changes 
+as a result of its reaction with OH-:
+Comment Note that the small amount of added NaOH changes the 
+pH of water significantly. In contrast, the pH of the buffer changes 
+very little when the NaOH is added, as summarized in Figure 17.4.
+ 
+▶Practice Exercise 1
+Which of these statements is true? (a) If you add strong acid 
+or base to a buffer, the pH will never change. (b) In order 
+to do calculations in which strong acid or base is added to 
+a buffer, you only need to use the Henderson–Hasselbalch 
+equation. (c) Strong bases react with strong acids, but not 
+weak acids. (d) If you add a strong acid or base to a buffer, the 
+buffer’s pKa or pKb will change. (e) In order to do calculations 
+in which a strong acid or base is added to a buffer, you need to 
+calculate the amounts of substances from the neutralization 
+reaction and then equilibrate.
+ 
+▶Practice Exercise 2
+Determine (

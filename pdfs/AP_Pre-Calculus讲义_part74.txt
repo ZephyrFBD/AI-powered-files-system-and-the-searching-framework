@@ -1,0 +1,72 @@
+ y2 = 1 and the line y=x. 
+Substituting x for y in the equation of the circle, we get 
+2
+2
+1
+x
+x
++
+=  
+1
+2
+x = ±
+ 
+Since P is in the Quadrant I, 
+1
+2
+x =
+ 
+Thus the terminal point determined by π/4 is 
+1
+1
+2
+2
+,
+,
+2
+2
+2
+2
+P
+P æ
+ö
+æ
+ö =
+ç
+÷
+ç
+÷
+è
+ø
+è
+ø 
+ 
+ 
+ 
+3.1.3 The Reference Number 
+Let t be a real number. The reference number t bar associated with t is the shortest 
+distance along the unit circle between the terminal point determined by t and the x-axis. 
+The figure below shows that to find the reference number. It is helpful to know the 
+quadrant in which the terminal point determined by t lies.  
+ 
+If the terminal point lies in Quadrant I or IV, where x is positive, we find the reference 
+number by moving along the circle to the positive x-axis. 
+If it lies in Quadrant II or III, where x is negative, we find the reference number by moving 
+along the circle to the negative x-axis. 
+ 
+ 
+ 
+ 
+110 
+Example 3 
+Find the reference number for each value of t. 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 4 
+ 
+ 
+ 

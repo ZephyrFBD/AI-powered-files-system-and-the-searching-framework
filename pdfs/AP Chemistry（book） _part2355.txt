@@ -1,0 +1,27 @@
+ature, 
+calculate the rate constant for the reaction at 50 °C.
+ 
+[14.119] You obtain kinetic data for a reaction at a set of different 
+temperatures. You plot ln k versus 1>T and obtain the fol-
+lowing graph:
+what familiar compound of hydrogen and oxygen does it 
+appear similar?
+ 
+[14.122]  The rates of many atmospheric reactions are accelerated 
+by the absorption of light by one of the reactants. For ex-
+ample, consider the reaction between methane and chlo-
+rine to produce methyl chloride and hydrogen chloride:
+Reaction 1: CH41g2 + Cl21g2 ¡  CH3Cl1g2 + HCl1g2
+ 
+ This reaction is very slow in the absence of light. However, 
+Cl21g2 can absorb light to form Cl atoms:
+Reaction 2: Cl21g2 + hv ¡  2 Cl1g2
+ 
+ Once the Cl atoms are generated, they can catalyze the 
+reaction of CH4 and Cl2, according to the following pro-
+posed mechanism:
+Reaction 3: CH41g2 + Cl1g2 ¡  CH31g2 + HCl1g2
+Reaction 4: CH31g2 + Cl21g2 ¡  CH3Cl1g2 + Cl1g2
+ 
+ The enthalpy changes and activation energies for these 
+two 

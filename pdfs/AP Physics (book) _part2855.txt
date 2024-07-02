@@ -1,0 +1,23 @@
+why.
+13. Explain why chromatic aberration occurs for thin lenses
+but not for mirrors.
+14. Inexpensive microscopes for children’s use usually produce
+images that are colored at the edges. Why?
+Questions
+738
+CHAPTER 25
+Optical Instruments
+A camera lens forms an image on film, or on an electronic
+sensor (CCD or CMOS) in a digital camera. Light is allowed in
+briefly through a shutter. The image is focused by moving the
+lens relative to the film or sensor, and the f-stop (or lens
+opening) must be adjusted for the brightness of the scene and
+the chosen shutter speed. The f-stop is defined as the ratio of
+the focal length to the diameter of the lens opening.
+The human eye also adjusts for the available light—by
+opening and closing the iris. It focuses not by moving the lens,
+but by adjusting the shape of the lens to vary its focal length.
+The image is formed on the retina, which contains an array of
+receptors known as rods and cones.
+Diverging eyeglass or contact lenses are used to correct
+th

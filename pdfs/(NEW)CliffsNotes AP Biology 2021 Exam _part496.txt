@@ -1,0 +1,14 @@
+ves and is then transported to
+apical meristems, where it initiates flower development. Identification of florigen in plants has been elusive. New
+research has revealed that the production of florigen is complex, involving multiple light-absorbing pigments,
+multiple genes, and multiple phytochromes. A brief description of the process is described below:
+1. CONSTANS (CO) is a protein involved in measuring day length. Its mRNA is produced by the CONSTANS
+(CO) gene.
+ 
+2. Phytochromes regulate CO concentrations by either stabilizing the CO protein or allowing it to degrade.
+3. The CO protein is a transcription factor that stimulates transcription of the FLOWERING LOCUS T (FT)
+gene. The FT gene produces an FT mRNA.
+4. FT mRNA produces the protein FT. FT travels through phloem tissue to the shoot apex to initiate flower
+development. FT is believed to be the elusive florigen.
+Plant Responses to Biotic Stimuli
+To avoid becoming food for animals, plants exhibit a variety of defensive mechanisms

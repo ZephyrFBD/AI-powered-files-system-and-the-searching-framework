@@ -1,0 +1,14 @@
+ Fig. 11–40 are different “resonant modes of vibration.” A stand-
+ing wave on a cord is the result of the interference of two waves traveling in
+opposite directions. A standing wave can also be considered a vibrating object at
+resonance. Standing waves represent the same phenomenon as the resonance of
+an oscillating spring or pendulum, which we discussed in Section 11–6. However,
+a spring or pendulum has only one resonant frequency, whereas the cord has 
+an infinite number of resonant frequencies, each of which is a whole-number
+multiple of the lowest resonant frequency.
+Consider a string stretched between two supports that is plucked like a guitar
+or violin string, Fig. 11–41a. Waves of a great variety of frequencies will travel in
+both directions along the string, will be reflected at the ends, and will travel back
+in the opposite direction. Most of these waves interfere with each other and
+quickly die out. However, those waves that correspond to the resonant frequen-
+cies of the str

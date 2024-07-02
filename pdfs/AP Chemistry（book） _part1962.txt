@@ -1,0 +1,17 @@
+r forces. Polymers contain very long 
+chains of atoms held together by covalent bonds. These chains 
+are usually held to one another by weaker intermolecular forces. 
+Nanomaterials are solids where the dimensions of individual crystals 
+are on the order of 1–100 nm.
+STRUCTURES OF SOLIDS (SECTION 12.2) In crystalline solids, 
+particles are arranged in a regularly repeating pattern. In amorphous 
+solids, however, particles show no long-range order. In a crystalline 
+solid the smallest repeating unit is called a unit cell. All unit cells in 
+a crystal contain an identical arrangement of atoms. The geometri-
+cal pattern of points on which the unit cells are arranged is called a 
+ 
+crystal lattice. To generate a crystal structure a motif, which is an atom 
+or group of atoms, is associated with each and every lattice point.
+In two dimensions, the unit cell is a parallelogram whose size 
+and shape are defined by two lattice vectors (a and b). There are five 
+primitive lattices, lattices in wh

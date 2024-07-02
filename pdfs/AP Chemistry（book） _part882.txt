@@ -1,0 +1,34 @@
+r /s. For example, a frequency 
+of 698 megahertz (MHz), a typical frequency for a cellular telephone, could be written 
+as 698 MHz, 698,000,000 Hz, 698,000,000 s - 1, or 698,000,000>s.
+214 
+▲ Figure 6.1 Water waves. The movement 
+of a boat through the water forms waves. 
+The regular variation of peaks and troughs 
+enables us to sense the motion of the waves 
+away from the boat.
+Wavelength
+Wave trough
+Wave
+peak
+The frequency is the number 
+of complete waves passing 
+any point per second.
+▲ Figure 6.2 Water waves. The wavelength 
+is the distance between two adjacent peaks 
+or two adjacent troughs.
+Go Figure
+If wave (a) has a wavelength of  
+2.0 m and a frequency of 1.5 * 108 
+cycles>s, what are the wavelength 
+and frequency of wave (b)?
+Wavelength l 
+l 
+(a)
+(b)
+▲ Figure 6.3 Electromagnetic waves. Like 
+water waves, electromagnetic radiation can 
+be characterized by a wavelength. Notice 
+that the shorter the wavelength, l, the 
+greater the frequency, n. The wavelength 
+in (b) is half as l

@@ -1,0 +1,17 @@
+er than those associated with nonnuclear chemical reactions? The answer 
+to this question begins with Einstein’s celebrated equation from the theory of relativity 
+that relates mass and energy:
+ 
+E = mc2 
+[21.22]
+In this equation E stands for energy, m for mass, and c for the speed of light, 
+2.9979 * 108 m/s. This equation states that mass and energy are equivalent and can 
+be converted into one another. If a system loses mass, it loses energy; if it gains mass, it 
+gains energy. Because the proportionality constant between energy and mass, c2, is such 
+a large number, even small changes in mass are accompanied by large changes in energy.
+The mass changes in chemical reactions are too small to detect. For example, the 
+mass change associated with the combustion of 1 mol of CH4 (an exothermic process) is 
+-9.9 * 10-9 g. Because the mass change is so small, it is possible to treat chemical reac-
+tions as though mass is conserved. 
+ (Section 2.1)
+The mass changes and the associated energ

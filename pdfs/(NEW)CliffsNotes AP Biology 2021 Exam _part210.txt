@@ -1,0 +1,12 @@
+conformational change. The new
+arrangement of atoms in the protein opens passageways or exposes active sites for binding.
+6. D. At each step of the signaling cascade, a kinase enzyme can catalyze multiple reactions. Each of those reactions
+is then the beginning of the next step of the cascade, now multiplied many times over. Each step, then, has a
+multiplier effect, amplifying the signal. Also, because there are multiple participants, the signaling cascade is more
+susceptible to the influence of mutations, as a mutation in any member of the cascade can have a deleterious effect
+on the ultimate product of the signal.
+7. C. Nonpolar ligands can cross the plasma membrane without assistance. They enter the cytoplasm and bind to
+intracellular receptor proteins.
+8. B. An activated G protein-coupled receptor exchanges a GTP for a GDP on a nearby membrane-bound G protein.
+The exchange activates the G protein. A GTP exchange for GDP can also occur for a RTK receptor pathway (like
+the one involv

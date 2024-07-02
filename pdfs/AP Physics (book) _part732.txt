@@ -1,0 +1,51 @@
+ollision is elastic, we have three independent equations and can solve for
+three unknowns. If we are given 
+(and 
+if it is not zero), we can-
+not, for example, predict the final variables,
+and 
+because there
+are four of them. However, if we measure one of these variables, say 
+then the
+other three variables (
+and 
+) are uniquely determined, and we can
+determine them using Eqs. 7–8a, b, c.
+A note of caution: Eq. 7–7 (page 179) does not apply for two-dimensional
+collisions. It works only when a collision occurs along a line.
+uB
+œ
+vA
+œ , vB
+œ ,
+uA
+œ ,
+uB
+œ ,
+vA
+œ , vB
+œ , uA
+œ ,
+vB ,
+mA, mB , vA
+1
+2 mAvA
+2
+=
+1
+2 mAvA
+œ2 + 1
+2 mB vB
+œ2 .
+keB = 0
+keA + keB = keA
+œ + keB
+œ
+(a)
+(b)
+FIGURE 7;20 The motion of the diver is pure translation
+in (a), but is translation plus rotation in (b). The black dot
+represents the diver’s CM at each moment.
+7–8 Center of Mass (CM)
+Momentum is a powerful concept not only for analyzing collisions but also for
+analyzing the translational motion of real extended o

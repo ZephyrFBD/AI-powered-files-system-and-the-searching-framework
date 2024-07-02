@@ -1,0 +1,23 @@
+ m from the cup. Calculate the allowable range
+of initial velocities we may impart to the ball so that it stops
+in the range 1.0 m short to 1.0 m long of the cup. Do the
+same for a downhill lie 7.0 m from the cup. What in your
+results suggests that the downhill putt is more difficult?
+2.6 ms2
+1.8 ms2
+48
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+1. Discuss two conditions given in Section 2–7 for being able
+to use a constant acceleration of magnitude
+.
+Give an example in which one of these conditions would
+not be met and would not even be a reasonable approxima-
+tion of motion.
+2. In a lecture demonstration, a 3.0-m-long vertical string
+with ten bolts tied to it at equal intervals is dropped from
+the ceiling of the lecture hall. The string falls on a tin
+plate, and the class hears the clink of each bolt as it hits
+the plate. (a) The sounds will not occur at equal time inter-
+vals. Why? (b) Will the time between clinks increase or
+decrease as the string falls? (c) How cou

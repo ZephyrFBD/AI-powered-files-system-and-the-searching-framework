@@ -1,0 +1,19 @@
+f DNA rich in adenine
+and thymine tend to separate more easily than those rich in Cs and Gs.
+Adenine and thymine form only two hydrogen bonds across the double
+helix, while C and G form three. Separation of DNA at the TATA boxes in
+the promoter regions of genes allows DNA to unzip at those regions for
+RNA polymerase to access the DNA template. Other types of promoters
+known as internal promoters can be found within the introns of genes.
+These promoters occur especially in genes that encode rRNA and tRNA
+molecules.
+Elongation
+In the elongation stage, RNA polymerase transcribes the DNA template
+strand to produce a complementary antiparallel RNA strand. Reading
+from the 3′ end of the template strand, RNA polymerase builds an hnRNA
+(pre-mRNA) chain in the 5′ to 3′ direction.
+Termination
+The termination stage occurs when RNA polymerase encounters a
+terminator sequence located downstream from the promoter. The
+terminator signals RNA polymerase to detach from the template strand
+and release t

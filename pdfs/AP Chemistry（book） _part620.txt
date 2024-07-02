@@ -1,0 +1,12 @@
+cular solute in a solution, chemists often carry 
+out a titration, which involves combining a solution where the solute concentration is not 
+known with a reagent solution of known concentration, called a standard solution. Just 
+enough standard solution is added to completely react with the solute in the solution 
+of unknown concentration. The point at which stoichiometrically equivalent quantities 
+are brought together is known as the equivalence point.
+Titrations can be conducted using neutralization, precipitation, or oxidation-reduction 
+reactions. Figure 4.18 illustrates a typical neutralization titration, one between an HCl solu-
+tion of unknown concentration and a standard NaOH solution. To determine the HCl con-
+centration, we first add a specific volume of the HCl solution, 20.0 mL in this example, to 
+a flask. Next we add a few drops of an acid–base indicator. The acid–base indicator is a 
+dye that changes color on passing the equivalence point.* For example, the dye phenol-

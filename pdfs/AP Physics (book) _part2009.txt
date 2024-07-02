@@ -1,0 +1,79 @@
+ith a speed of 
+to 
+When an action potential is stimulated,
+the nerve is said to have “fired.”
+What causes the action potential? At the point where the stimulus occurs, the
+membrane suddenly alters its permeability, becoming much more permeable to
+than to 
+and 
+ions. Thus,
+ions rush into the cell and the inner surface
+of the wall becomes positively charged, and the potential difference quickly swings
+positive (
+in Fig. 18–30). Just as suddenly, the membrane returns to 
+its original characteristics; it becomes impermeable to 
+and in fact pumps out
+ions. The diffusion of 
+and 
+ions again predominates and the original
+resting potential is restored (
+in Fig. 18–30).
+–70 mV
+K±
+Cl–
+Na±
+Na±
+L ±30 mV
+Na±
+Cl–
+K±
+Na±
+150 ms.
+30 ms
+–70 mV
+–90 mV
+–60 mV
+K±
+Cl–
+K±
+Cl–
+K±
+K±
+K±
+K±
+Cl–
+Na±
+Na±
+Na±
+Cl– .
+K± , Na± ,
+–90 mV,
+–60 mV
+V
+inside - V
+outside,
+518
+CHAPTER 18
+Electric Currents
++
+Extracellular
+ﬂuid
+Axon
+Membrane
+–
++
+–
+–
+–
+–
++
++
++
+Na+
+Cl–
+K+
+Axon
+Vinside
+Voutside
+FIGURE 18–29 Measuring the
+pote

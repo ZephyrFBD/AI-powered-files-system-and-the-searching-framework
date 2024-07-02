@@ -1,0 +1,18 @@
+ theory, and especially
+Einstein’s analysis of Brownian motion (see Section 13–1), the radius of atoms
+was estimated to be about 
+Thus the electrons would seem to be at a
+distance from the nucleus of about 10,000 to 100,000 times the radius of the
+nucleus itself. (If the nucleus were the size of a baseball, the atom would have the
+diameter of a big city several kilometers across.) So an atom would be mostly
+empty space.
+Rutherford’s planetary model of the atom (also called the nuclear model 
+of the atom) was a major step toward how we view the atom today. It was not,
+however, a complete model and presented some major problems, as we shall see.
+27–1
+1 Atomic Spectra: Key to the
+Structure of the Atom
+Earlier in this Chapter we saw that heated solids (as well as liquids and dense gases)
+emit light with a continuous spectrum of wavelengths. This radiation is assumed to
+be due to oscillations of atoms and molecules, which are largely governed by the
+interaction of each atom or molecule with

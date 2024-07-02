@@ -1,0 +1,60 @@
+ 3ClO24 = 0.100 M and 3OH -4 = 0.050 M.
+ 14.35 The following data were measured for the reaction 
+BF31g2 + NH31g2 ¡  F3BNH31g2:
+Experiment
+3BF34 1M 2
+3NH34 1M 2
+Initial Rate 1M,s2
+1
+0.250
+0.250
+0.2130
+2
+0.250
+0.125
+0.1065
+3
+0.200
+0.100
+0.0682
+4
+0.350
+0.100
+0.1193
+5
+0.175
+0.100
+0.0596
+ 
+ (a) What is the rate law for the reaction? (b) What is 
+the overall order of the reaction? (c) Calculate the rate 
+constant with proper units? (d) What is the rate when 
+3BF34 = 0.100 M and 3NH34 = 0.500 M?
+ 14.36 Th e  fo l l ow i n g  d a t a  we re  c o l l e c te d  fo r  t h e 
+rate of disappearance of NO in the reaction 
+2 NO1g2 + O21g2 ¡ 2 NO21g2:
+Experiment
+3NO4 1M 2
+3O24 1M 2
+Initial Rate 1M,s2
+1
+0.0126
+0.0125
+1.41 * 10-2
+2
+0.0252
+0.0125
+5.64 * 10-2
+3
+0.0252
+0.0250
+1.13 * 10-1
+ 
+Exercises 
+613
+614 
+CHAPTER 14 Chemical Kinetics
+ 
+ (a) What is the rate law for the reaction? (b) What are 
+the units of the rate constant? (c) What is the average 
+value of the rate constant calculated from the three 

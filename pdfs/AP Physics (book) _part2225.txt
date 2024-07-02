@@ -1,0 +1,39 @@
+The lengths 
+are chosen small enough so that 
+is essen-
+tially constant along each length. The sum must be made over a closed path, and
+is the total net current enclosed by this closed path.
+I
+encl
+B||
+¢l
+¢l.
+B
+B
+B||
+©
+©B|| ¢l = m0 I
+encl.
+I
+encl
+m0
+B
+B
+¢l.
+P H Y S I C S  A P P L I E D
+Doorbell, car starter
+P H Y S I C S  A P P L I E D
+Magnetic circuit breakers
+AMPÈRE’S LAW
+Field Due to a Straight Wire
+We can check Ampère’s law by applying it to the simple case of a long straight
+wire carrying a current I. Let us find the magnitude of B at point P, a distance r
+from the wire in Fig. 20–31. The magnetic field lines are circles with the wire at
+their center (as in Fig. 20–8). As the path to be used in Eq. 20–9, we choose a
+convenient one: a circle of radius r, because at any point on this path,
+will be
+tangent to this circle. For any short segment of the circle (Fig. 20–31),
+will be
+parallel to that segment, so
+Suppose we break the circular path down
+into 100 segments.† Then Ampère’s law

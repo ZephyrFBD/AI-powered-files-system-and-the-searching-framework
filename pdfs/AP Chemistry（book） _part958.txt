@@ -1,0 +1,22 @@
+ave 
+same energy).
+Energies of subshells 
+follow order
+ns < np < nd < nf.
+▲ Figure 6.25 General energy ordering of orbitals for 
+a many-electron atom.
+236 
+CHAPTER 6 Electronic Structure of Atoms
+Electron Spin and the Pauli Exclusion Principle
+We have now seen that we can use hydrogen-like orbitals to describe many-electron 
+ 
+atoms. What, however, determines which orbitals the electrons occupy? That is, how 
+do the electrons of a many-electron atom populate the available orbitals? To answer this 
+question, we must consider an additional property of the electron.
+When scientists studied the line spectra of many-electron atoms in great detail, 
+they noticed a very puzzling feature: Lines that were originally thought to be sin-
+gle were actually closely spaced pairs. This meant, in essence, that there were twice 
+as many  
+energy levels as there were “supposed” to be. In 1925, the Dutch physicists 
+George Uhlenbeck (1900–1988) and Samuel Goudsmit (1902–1978) proposed a solu-
+tion to this

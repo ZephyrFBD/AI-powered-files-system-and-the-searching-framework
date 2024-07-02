@@ -1,0 +1,76 @@
+N 20–9
+Torque on a Current Loop; Magnetic Moment
+575
+I
+I
+b
+a
+  2
+   1
+   1
+   2
+I
+I
+I
+I
+I
+I
+I
+(a)
+B
+(b)
+Axis
+Axis of rotation
+I
+   2
+  1
+(c)
+Axis
+θ
+(   to coil face)
+ M = NIA
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+F
+B
+B
+B
+B
+B
+B
+B
+FIGURE 20–34 Calculating the
+torque on a current loop in a
+magnetic field 
+(a) Loop face
+parallel to 
+field lines; (b) top view;
+(c) loop makes an angle to 
+reducing the torque since the lever
+arm is reduced.
+B
+B,
+B
+B
+B
+B.
+20–9 Torque on a Current Loop;
+Magnetic Moment
+When an electric current flows in a closed loop of wire placed in an external
+magnetic field, as shown in Fig. 20–34, the magnetic force on the current can
+produce a torque. This is the principle behind a number of important practical
+devices, including motors and analog voltmeters and ammeters, which we discuss
+in the next Section.
+Current flows through the rectangular loop in Fig. 20–34a, whose face we
+assume is parallel to 
+.
+exerts no force and no torque on the horizontal
+segments of wire because they are para

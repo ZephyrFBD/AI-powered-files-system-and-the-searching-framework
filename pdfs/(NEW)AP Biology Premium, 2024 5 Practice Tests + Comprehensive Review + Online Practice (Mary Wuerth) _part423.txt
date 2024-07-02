@@ -1,0 +1,13 @@
+result if bacteria (that were resistant to streptomycin and contained the F+
+plasmid) were used to transform the bacteria from plate #4. Justify your prediction.
+Answer Explanations
+Multiple-Choice
+1. (D) Restriction enzymes (also known as restriction endonucleases) cut DNA at specific base pair sequences.
+DNA ligase connects pieces of DNA, so choice (A) is incorrect. Choice (B) is incorrect because gel
+electrophoresis is used to separate DNA fragments according to their size. Polymerase chain reaction (PCR) is
+used to amplify specific sequences of DNA, so choice (C) is incorrect.
+2. (D) Polymerase chain reaction is used to make multiple copies of (amplify) specific DNA sequences. Choice
+(A) is incorrect because bacterial transformation is the process in which bacteria absorb and express foreign
+DNA. CRISPR-Cas9 is used in gene editing, so choice (B) is incorrect. Gel electrophoresis is used to separate
+fragments of DNA by size, so choice (C) is incorrect.
+3. (C) Gel electrophoresis se

@@ -1,0 +1,57 @@
+duced by oxidation of alcohols. Under appropriate con-
+ditions, the aldehyde may be isolated as the first product of oxidation, as in the sequence
+ 
+Ethanol
+O
+CH3CH2OH     (O)
+Acetaldehyde
+CH3CH
+H2O
++
++
+ 
+[24.17]
+ 
+O
+Acetaldehyde
+CH3CH
+O
+Acetic acid
+CH3COH
+(O)
++
+ 
+[24.18]
+where (O) represents any oxidant that can provide oxygen atoms. The air oxidation 
+of ethanol to acetic acid is responsible for causing wines to turn sour, producing 
+vinegar.
+The oxidation processes in organic compounds are related to those oxidation reac-
+tions we studied in Chapter 20. Instead of counting electrons, the number of C ¬O 
+bonds is usually considered to show the extent of oxidation of similar compounds. For 
+example, methane can be oxidized to methanol, then formaldehye (methanal), then for-
+mic acid (methanoic acid):
+Formaldehyde
+O
+C
+H
+H
+Formic acid
+O
+C
+H
+O
+H
+Methanol
+H
+H
+C
+H
+OH
+Methane
+H
+H
+C
+H
+H
+From methanol to formic acid, the number of C ¬O bonds increases from 0 to 3 
+(double bonds are counted as

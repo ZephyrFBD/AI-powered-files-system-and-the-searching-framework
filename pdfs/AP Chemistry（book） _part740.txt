@@ -1,0 +1,32 @@
+ion 5.21. (b) We can use the molar mass of 
+water and dimensional analysis to convert from heat capacity per 
+gram to heat capacity per mole.
+Solve
+(a) The water undergoes a temperature change of:
+∆T = 98 °C - 22 °C = 76 °C = 76 K 
+Using Equation 5.21, we have:
+(b)  
+The molar heat capacity is the heat capacity of one mole of 
+substance. Using the atomic weights of hydrogen and oxy-
+gen, we have:
+Cm = a4.18 J
+g@K b a
+18.0 g
+1 mol b = 75.2 J>mol@K
+From the specific heat used in part (a), we have:
+1 mol H2O = 18.0 g H2O
+ q = Cs * m * ∆T 
+ = 14.18 J>g@K21250 g2176 K2 = 7.9 * 104 J
+ 
+▶Practice Exercise 1
+The coinage metals (Group 1B) copper, silver, and gold have 
+specific heats of 0.385, 0.233, and 0.129 J/g-K, respectively. 
+Among this group, the specific heat capacity 
+ and 
+the molar heat capacity 
+ as the atomic weight  
+increases. (a) increases, increases (b) increases, decreases  
+(c) decreases, increases (d) decreases, decreases
+ 
+▶Practice Exercise 2
+(a) Large beds of rocks are us

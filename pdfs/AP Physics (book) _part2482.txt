@@ -1,0 +1,34 @@
+of fields, not matter, and can
+propagate in empty space.
+The wavelength 
+and frequency f of EM waves are related
+to their speed c by
+(22;4)
+just as for other waves.
+c = lf
+l
+c =
+1
+20 m0
+= 3.00 * 108 ms.
+Summary
+FIGURE 22–20 The first person on
+the Moon, Neil Armstrong, July 20,
+1969, pointed out “One small step for
+a man, one giant leap for mankind.”
+640
+CHAPTER 22
+Electromagnetic Waves
+1. The electric field in an EM wave traveling north oscillates in
+an east–west plane. Describe the direction of the magnetic
+field vector in this wave. Explain.
+2. Is sound an EM wave? If not, what kind of wave is it?
+3. Can EM waves travel through a perfect vacuum? Can sound
+waves?
+4. When you flip a light switch on, does the light go on imme-
+diately? Explain.
+5. Are the wavelengths of radio and television signals longer
+or shorter than those detectable by the human eye?
+6. When you connect two loudspeakers to the output of a stereo
+amplifier, should you be sure the lead-in wires are equal in
+length

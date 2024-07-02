@@ -1,0 +1,13 @@
+fic motif of atoms, and the crystal structure is built up by repeating 
+the unit cell over and over. This process is illustrated in Figure 12.8 for a two-dimensional 
+crystal based on a hexagonal unit cell and a two-carbon-atom motif. The resulting 
+infinite two-dimensional honeycomb structure is a two-dimensional crystal called 
+graphene, a material that has so many interesting properties that its modern discoverers 
+won the Nobel Prize in Physics in 2010. Each carbon atom is covalently bonded to three 
+neighboring carbon atoms in what amounts to an infinite sheet of interconnected hex-
+agonal rings.
+The crystal structure of graphene illustrates two important characteristics of crys-
+tals. First, we see that no atoms lie on the lattice points. While most of the structures we 
+discuss in this chapter do have atoms on the lattice points, there are many examples, like 
+graphene, where this is not the case. Thus, to build up a structure you must know the 
+location and orientation of the a

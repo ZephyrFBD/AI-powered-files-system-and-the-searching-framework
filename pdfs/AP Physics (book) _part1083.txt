@@ -1,0 +1,22 @@
+:
+For different fluids,
+the more viscous the fluid, the greater is the required force. The proportionality
+constant for this equation is defined as the coefficient of viscosity,
+(10;8)
+Solving for 
+we find
+The SI unit for 
+is
+In the cgs system, the unit is 
+which is called a
+poise (P). Viscosities are often given in centipoise 
+Table 10–3 lists the coefficient of viscosity for various fluids. The temperature 
+is also specified, since it has a strong effect; the viscosity of liquids such as motor
+oil, for example, decreases rapidly as temperature increases.‡
+10–12 Flow in Tubes: Poiseuille’s
+Equation, Blood Flow
+If a fluid had no viscosity, it could flow through a level tube or pipe without a
+force being applied. Viscosity acts like a sort of friction (between fluid layers
+moving at slightly different speeds), so a pressure difference between the ends of
+a level tube is necessary for the steady flow of any real fluid, be it water or oil in a
+pipe, or blood in the circulatory system of a

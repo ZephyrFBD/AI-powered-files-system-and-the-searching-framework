@@ -1,0 +1,13 @@
+m mechanics, there is actually a limit to the precision
+of certain measurements. This limit is not a restriction on how well instruments
+can be made; rather, it is inherent in nature. It is the result of two factors: the
+wave–particle duality, and the unavoidable interaction between the thing observed
+and the observing instrument. Let us look at this in more detail.
+To make a measurement on an object without disturbing it, at least a little, is
+not possible. Consider trying to locate a lost Ping-pong ball in a dark room: you
+could probe about with your hand or a stick, or you could shine a light and detect
+the photons reflecting off the ball. When you search with your hand or a stick,
+you find the ball’s position when you touch it, but at the same time you unavoid-
+ably bump it, and give it some momentum. Thus you won’t know its future
+position. If you search for the Ping-pong ball using light, in order to “see” the ball
+at least one photon (really, quite a few) must scatter from it, a

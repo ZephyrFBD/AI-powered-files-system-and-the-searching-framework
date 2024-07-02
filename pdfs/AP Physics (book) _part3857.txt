@@ -1,0 +1,18 @@
+ molar specific heat at constant volume would be
+close to measured values (Table D–1). More complex mole-
+cules have even more degrees of freedom and thus greater molar specific heats.
+However, measurements showed that for diatomic gases at very low temper-
+atures,
+has a value of only
+as if it had only three degrees of freedom. And
+at very high temperatures,
+was about 
+as if there were seven degrees of
+freedom. The explanation is that at low temperatures, nearly all molecules have
+only translational kinetic energy; that is, no energy goes into rotational energy and
+only three degrees of freedom are “active.” At very high temperatures, all five
+degrees of freedom are active plus two additional ones. We interpret the two new
+degrees of freedom as being associated with the two atoms vibrating, as if they were
+connected by a spring (Fig. D–2). One degree of freedom comes from the kinetic
+energy of the vibrational motion, and the second comes from the potential energy
+of vibrational motion 

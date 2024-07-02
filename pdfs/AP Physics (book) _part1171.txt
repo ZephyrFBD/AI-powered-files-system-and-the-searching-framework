@@ -1,0 +1,35 @@
+edral at Pisa, is said to have
+been observed by Galileo and to
+have inspired him to the conclusion
+that the period of a pendulum does
+not depend on amplitude.
+EXERCISE E Return to Chapter-Opening Question 1, page 292, and answer it again
+now. Try to explain why you may have answered differently the first time.
+mg sin θ
+l sin θ
+l
+   T
+θ
+m
+mg cos
+m
+θ
+s
+F
+B
+g
+B
+FIGURE 11–12 Simple pendulum,
+and a free-body diagram.
+P H Y S I C S  A P P L I E D
+Pendulum clock
+Because a pendulum does not undergo precisely SHM, the period does depend
+slightly on the amplitude—the more so for large amplitudes. The accuracy of a
+pendulum clock would be affected, after many swings, by the decrease in amplitude
+due to friction. But the mainspring in a pendulum clock (or the falling weight in a
+grandfather clock) supplies energy to compensate for the friction and to maintain
+the amplitude constant, so that the timing remains precise.
+SECTION 11–5
+Damped Harmonic Motion
+303
+†To “damp” means to diminish, restrain, 

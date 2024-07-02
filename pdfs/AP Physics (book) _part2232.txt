@@ -1,0 +1,59 @@
+e magnetic field, as shown in Fig. 20–34c, the
+forces are unchanged, but each lever arm is reduced from 
+to 
+Note
+that the angle is taken to be the angle between 
+and the perpendicular to the
+face of the coil, Fig. 20–34c. So the torque becomes
+(20;10)
+This formula, derived here for a rectangular coil, is valid for any shape of flat coil.
+The quantity NIA is called the magnetic dipole moment of the coil:
+(20;11)
+and is considered a vector perpendicular to the coil.
+M = NIA
+t = NIAB sin u.
+B
+B
+u
+1
+2 b sin u.
+1
+2 b
+t = NIAB.
+A = ab
+t = IaB b
+2 + IaB b
+2
+= IabB = IAB,
+t
+F
+B
+2
+F
+B
+1
+b2,
+F = IaB,
+Acurrent ⊥B
+B B,
+F
+B
+2
+F
+B
+2
+F
+B
+1
+sin u = 0
+B
+B
+B
+B
+T
+orque on a coil. A circular loop of wire has a diameter of
+20.0 cm and contains 10 loops. The current in each loop is 3.00 A, and the coil is
+placed in a 2.00-T external magnetic field. Determine the maximum and mini-
+mum torque exerted on the coil by the field.
+APPROACH Equation 20–10 is valid for any shape of coil, including circular
+loops. 

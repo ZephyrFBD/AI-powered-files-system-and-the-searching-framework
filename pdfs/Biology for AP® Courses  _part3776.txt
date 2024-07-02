@@ -1,0 +1,35 @@
+e AP Biology Exam.
+Degrees of Freedom
+p
+1
+2
+3
+4
+5
+6
+7
+8
+0.05 3.84 5.99
+7.82
+9.49
+11.07 12.59 14.07 15.51
+0.01 6.64 9.32 11.34 13.28 15.09 16.81 18.48 20.09
+Table 31.4
+•
+Hardy-Weinberg equilibrium is consistent with the
+assumption of no change in the distribution of alleles
+over time. Justify the selection of data that should
+be obtained to further test this assumption.
+Homologous genes coding for the carbohydrates that are
+presented on the surfaces of red blood cells are found in
+amphibians and mammals but not in fish, implying a last
+common ancestor for the ABO gene system at least 20
+million years ago.
+E. The difference between genes coding for A and B is a
+single nucleotide replacement. Evaluate the likelihood
+that negative selection pressures have been active in the
+evolution of this system.
+45. The immune system rejection of transplanted organs
+and the availability of organ donors are key factors in
+determining survival. Blood ABO compatibility is always
+a criterion in matching do

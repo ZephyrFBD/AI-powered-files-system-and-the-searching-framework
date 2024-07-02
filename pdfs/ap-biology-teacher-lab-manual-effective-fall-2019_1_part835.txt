@@ -1,0 +1,14 @@
+ III differs from Processes I and II in that the progress curve for 
+III is not a perfectly straight line. It is steepest at the beginning, becomes less steep after 
+1 hour, and again after 3 hours. Obviously, because the rate of the process is changing 
+with time, the corresponding rate curve will not be perfectly flat. The rate has to start 
+out high, then drop at 1 hour and at 3 hours, and you can see in the graph on the right 
+A12  Appendix B 
+ 
+that this is exactly what it does. In fact, the rate curve looks like steps because whenever 
+the slope of the progress curve decreases, the rate curve must show a drop to a lower 
+value. Conversely, if the progress curve for a process should get steeper, as sometimes 
+happens (the reaction goes faster after it gets “warmed up”), the rate curve must show a 
+corresponding increase to a higher value. 
+Until now we have been able to read the steepness, or slope, of the progress curve 
+directly from the scales of the graph because the progress 

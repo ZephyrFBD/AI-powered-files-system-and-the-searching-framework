@@ -1,0 +1,23 @@
+ries.
+(b) a rotating coil that is immersed in a magnetic field.
+(c) accelerating electrons between oppositely charged
+capacitor plates.
+(d) using an electric motor.
+(e) alternately heating and cooling a wire.
+16. When you swipe a credit card, the machine sometimes fails
+to read the card. What can you do differently?
+(a) Swipe the card more slowly so that the reader has more
+time to read the magnetic stripe.
+(b) Swipe the card more quickly so that the induced emf is
+higher.
+(c) Swipe the card more quickly so that the induced currents
+are reduced.
+(d) Swipe the card more slowly so that the magnetic fields
+don’t change so fast.
+17. Which of the following is true about all series ac circuits?
+(a) The voltage across any circuit element is a maximum
+when the current is a maximum in that circuit element.
+(b) The current at any point in the circuit is always the
+same as the current at any other point in the circuit.
+(c) The current in the circuit is a maximum when the
+source ac voltage is a ma

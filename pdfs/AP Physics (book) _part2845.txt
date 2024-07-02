@@ -1,0 +1,21 @@
+ated (parallel) beam of
+X-rays passes through the body to a detector that measures the transmitted 
+intensity. Measurements are made at a large number of points as the source and
+detector are moved past the body together. The apparatus is then rotated slightly
+about the body axis and again scanned; this is repeated at (perhaps) 1° intervals
+for 180°. The intensity of the transmitted beam for the many points of each scan,
+and for each angle, is sent to a computer that reconstructs the image of the slice.
+Note that the imaged slice is perpendicular to the long axis of the body. For this
+reason, CT is sometimes called computerized axial tomography (CAT), although
+the abbreviation CAT, as in CAT scan, can also be read as computer-assisted
+tomography.
+tomos = slice, graph = picture.
+*
+*
+*
+C A U T I O N
+Normal X-ray image is
+a sort of shadow
+(no lenses are involved)
+The use of a single detector as in Fig. 25–42 would require a few minutes for
+the many scans needed to form a complete image. M

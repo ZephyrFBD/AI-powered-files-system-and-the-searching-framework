@@ -1,0 +1,19 @@
+llation (ignoring damping)?
+72. A diving board oscillates with simple harmonic motion of
+frequency 2.8 cycles per second. What is the maximum
+amplitude with which the end of the board can oscillate in
+order that a pebble placed there (Fig. 11–56) does not lose
+contact with the board during the oscillation?
+77. Tall buildings are designed to sway in the wind. In a
+wind, suppose the top of a 110-story building
+oscillates horizontally with an amplitude of 15 cm at its
+natural frequency, which corresponds to a period of 
+7.0 s. Assuming SHM, find the maximum horizontal velocity
+and acceleration experienced by an employee as she sits
+working at her desk located on the top floor. Compare the
+maximum acceleration (as a percentage) with the accelera-
+tion due to gravity.
+78. When you walk with a cup of coffee (diameter 8 cm) at just
+the right pace of about one step per second, the coffee
+sloshes higher and higher in your cup until eventually it
+starts to spill over the top, Fig 11–59. Estimate

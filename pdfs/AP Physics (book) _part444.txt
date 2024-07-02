@@ -1,0 +1,37 @@
+e ground,
+estimate the speed of the snow when it hits the ground.
+76. (a) What minimum force F is needed 
+to lift the piano (mass M) using the
+pulley apparatus shown in Fig. 4–66?
+(b) Determine the tension in each
+section of rope:
+and 
+Assume pulleys are massless and
+frictionless, and that ropes are massless.
+F
+T4.
+F
+T1, F
+T2, F
+T3,
+FT1
+FT2
+FT4
+F
+FT3
+FIGURE 4;66
+Problem 76.
+106
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+77. In the design of a supermarket, there are to be several ramps
+connecting different parts of the store. Customers will have
+to push grocery carts up the ramps and it is desirable that
+this not be too difficult. The engineer has done a survey and
+found that almost no one complains if the force required 
+is no more than 18 N. Ignoring friction, at what maximum
+angle should the ramps be built, assuming a full 25-kg cart?
+78. A jet aircraft is accelerating at 
+as it climbs at an
+angle of 18° above the horizontal (Fig. 4–67). What is the
+total force that the cockpit seat

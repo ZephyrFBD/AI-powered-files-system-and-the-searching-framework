@@ -1,0 +1,37 @@
+ equations and obtain
+Then, by Eq. 23–4,
+and
+so we have
+which is Snell’s law of refraction, Eq. 23–5. (The law of reflection can be derived
+from Huygens’ principle in a similar way.)
+When a light wave travels from one medium to another, its frequency does not
+change, but its wavelength does. This can be seen from Fig. 24–3, where each of the
+blue lines representing a wave front corresponds to a crest (peak) of the wave. Then
+where, in the last step, we used Eq. 23–4,
+If medium 1 is a vacuum (or
+air), so 
+and we call 
+simply 
+then the wavelength in another
+medium of index of refraction 
+will be
+(24;1)
+This result is consistent with the frequency f being unchanged no matter what
+medium the wave is traveling in, since 
+EXERCISE A A light beam in air with
+and
+goes into glass which has an index of 
+What
+are the wavelength, frequency, and speed of the light in the glass?
+refraction = 1.5.
+speed = 3.0 * 108 ms
+frequency = 6.0 * 1014 Hz,
+wavelength = 500 nm,
+c = fl.
+ln =
+l
+n
+.
+n A= n2B
+l,
+l1

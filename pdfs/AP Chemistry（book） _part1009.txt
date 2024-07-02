@@ -1,0 +1,31 @@
+icle (photon): E = energy of photon in joules, h =
+Planck constant 16.626 * 10 - 34 J@s2, n = frequency in s - 1
+t E = 1-hcRH2a 1
+n2 b = 1-2.18 * 10 - 18 J2a 1
+n2 b 
+[6.5]  
+ 
+energies of the allowed states of the hydrogen atom: h =  
+Planck constant; c =  speed of light; RH =  Rydberg constant 
+11.096776 * 107 m- 12; n = 1, 2, 3, c  (any positive integer)
+t l = h>mv 
+[6.8]  
+ 
+matter as a wave: l = wavelength, h =  Planck constant, 
+m = mass of object in kg, v = speed of object in m>s
+t ∆x # ∆1mv2 Ú
+h
+4p 
+[6.9]  
+ 
+Heisenberg’s uncertainty principle. The uncertainty in position 
+1∆x2 and momentum 3∆1mv24 of an object cannot be zero; the 
+smallest value of their product is h>4p
+Exercises
+Visualizing Concepts
+ 
+6.1  The speed of sound in dry air at 20 °C is 343 m/s and the low-
+est frequency sound wave that the human ear can detect is ap-
+proximately 20 Hz. (a) What is the wavelength of such a sound 
+wave? (b) What would be the frequency of electromagnetic 
+radiation with the same wa

@@ -1,0 +1,16 @@
+ne torque acts on an object, the angular acceleration 
+is
+found to be proportional to the net torque. If all the torques acting on an object
+tend to rotate it in the same direction about a fixed axis of rotation, the net
+torque is the sum of the torques. But if, say, one torque acts to rotate an object 
+in one direction, and a second torque acts to rotate the object in the opposite
+direction, the net torque is the difference of the two torques. We normally assign
+a positive sign to torques that act to rotate the object counterclockwise (just as 
+is usually positive counterclockwise), and a negative sign to torques that act
+to rotate the object clockwise.
+Forces that Act to Tilt the Axis
+We have been considering only rotation about a fixed axis, and so we considered only
+forces that act in a plane perpendicular to the axis of rotation. If there is a force
+(or component of a force) acting parallel to the axis of rotation, it will tend to tilt
+the axis of rotation—the component 
+in Fig. 8

@@ -1,0 +1,13 @@
+rotein Structure
+As discussed earlier, the shape of a protein is critical to its function. For example, an enzyme can bind to a specific substrate
+at a site known as the active site. If this active site is altered because of local changes or changes in overall protein structure,
+the enzyme may be unable to bind to the substrate. To understand how the protein gets its final shape or conformation, we
+need to understand the four levels of protein structure: primary, secondary, tertiary, and quaternary.
+Primary Structure
+The unique sequence of amino acids in a polypeptide chain is its primary structure. For example, the pancreatic hormone
+insulin has two polypeptide chains, A and B, and they are linked together by disulfide bonds. The N terminal amino acid of
+the A chain is glycine, whereas the C terminal amino acid is asparagine (Figure 3.27). The sequences of amino acids in the
+A and B chains are unique to insulin.
+Chapter 3 | Biological Macromolecules
+117
+Figure 3.27 Bovine serum insuli

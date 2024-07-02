@@ -1,0 +1,27 @@
+ We use the definitions of sine (“side opposite”)
+and cosine (“side adjacent”) to obtain the components:
+where 
+is in the negative y direction. To calculate the skier’s acceleration down
+the hill,
+we apply Newton’s second law to the x direction:
+where the two forces are the x component of the gravity force (
+direction)
+and the friction force (
+direction). We want to find the value of 
+but we
+don’t yet know 
+in the last equation. Let’s see if we can get 
+from the
+y component of Newton’s second law:
+where we set
+because there is no motion in the y direction (perpendic-
+ular to the slope). Thus we can solve for 
+and we can substitute this into our equation above for 
+There is an m in each term which can be canceled out. Thus (setting
+and
+):
+The skier’s acceleration is 0.41 times the acceleration of gravity, which in numbers†
+is
+NOTE The mass canceled out, so we have the useful conclusion that the accelera-
+tion doesn’t depend on the mass. That such a cancellation sometimes occurs, and 
+th

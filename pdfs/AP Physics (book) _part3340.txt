@@ -1,0 +1,36 @@
+otal mass of a stable nucleus is always less than the sum of the masses of its
+separate protons and neutrons, as the following Example shows.
+mass compared to its constituents. Compare the
+mass of a 
+atom to the total mass of its constituent particles.
+APPROACH The 
+nucleus contains 2 protons and 2 neutrons. Tables normally
+give the masses of neutral atoms—that is, nucleus plus its Z electrons. We must
+therefore be sure to balance out the electrons when we compare masses. Thus we
+use the mass of 
+rather than that of a proton alone. We look up the mass 
+of the 
+atom in Appendix B (it includes the mass of 2 electrons), as well as 
+the mass for the 2 neutrons and 2 hydrogen atoms (= 2 protons + 2 electrons).
+4
+2He
+1
+1H
+4
+2He
+4
+2He
+4
+2He
+EXAMPLE 30;3
+1
+2
+P R O B L E M  S O L V I N G
+Keep track of 
+electron masses
+C A U T I O N
+Masses are for neutral atom
+(nucleus plus electrons)
+SOLUTION The mass of a neutral 
+atom, from Appendix B, is 4.002603 u.
+The mass of two neutrons and two H atoms (

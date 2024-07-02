@@ -1,0 +1,92 @@
+ binomial expansion
+and we
+ignore higher-order terms since
+The time for a neutrino to travel
+a distance 
+is
+where again we used the binomial expansion 
+The
+difference in arrival times for our two neutrinos of energies 
+and
+is
+We solve this for 
+and set 
+This calculation, with its optimistic assumptions, estimates the mass of the neu-
+trino to be 
+But there would be experimental uncertainties, and even
+worse there is the unwarranted assumption that the two neutrinos were emitted
+at the same time.
+22 eVc2.
+= 22 * 10–6 MeV = 22 eV.
+mnc2 =
+B
+2cAt2 - t1B
+d
+E1
+2E2
+2
+E1
+2 - E2
+2 R
+1
+2
+t2 - t1 = 10 s:
+mnc2
+t2 - t1 = d
+c
+mn
+2 c4
+2
+¢ 1
+E2
+2 -
+1
+E1
+2 ≤.
+E2 = 10 MeV
+E1 = 20 MeV
+C(1 - x)–1 = 1 + x + pD.
+t = d
+v
+=
+d
+c ¢1 -
+mn
+2 c4
+2E2 ≤
+L d
+c ¢ 1 +
+mn
+2 c4
+2E2 ≤,
+d (= 170,000 ly)
+t
+mn
+2 c4 V E2.
+(1 - x)
+1
+2 = 1 - 1
+2 x + p,
+v = c ¢ 1 -
+mn
+2 c4
+E2 ≤
+1
+2 = c ¢ 1 -
+mn
+2 c4
+2E2 + p ≤,
+E =
+mnc2
+31 - v2c2 .
+mnc2 V E,
+Re + p S n + e±
+*
+g, p0,
+nt.
+ne, nm,
+m, t
+0.04 eVc2.
+0.14 eVc2.
+SECTION 32–5
+Neutrino

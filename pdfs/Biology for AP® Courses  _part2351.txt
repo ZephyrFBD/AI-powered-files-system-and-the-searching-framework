@@ -1,0 +1,13 @@
+ts to control and eliminate
+858
+Chapter 21 | Viruses
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+the virus from the body, and from cell damage caused by the virus. Many animal viruses leave the infected cells of the
+immune system by a process known as budding, where virions leave the cell individually. During the budding process, the
+cell does not undergo lysis and is not immediately killed. However, the damage to the cells that the virus infects may make
+it impossible for the cells to function normally, even though the cells remain alive for a period of time. Most productive
+viral infections follow similar steps in the virus replication cycle: attachment, penetration, uncoating, replication, assembly,
+and release (Figure 21.8).
+Attachment
+A virus attaches to a specific receptor site on the host cell membrane through attachment proteins in the capsid or via
+glycoproteins embedded in the viral envelope. The specificity of this interaction determines t

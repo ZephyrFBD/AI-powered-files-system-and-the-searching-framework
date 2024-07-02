@@ -1,0 +1,19 @@
+he object seems farther away is that its image in the convex mirror is smaller
+than it would be in a plane mirror, and we judge distance of ordinary objects 
+such as other cars mostly by their size.
+23–4 Index of Refraction
+We saw in Chapter 22 that the speed of light in vacuum (like other EM waves) is
+which is usually rounded off to
+when extremely precise results are not required.
+In air, the speed is only slightly less. In other transparent materials, such as
+glass and water, the speed is always less than that in vacuum. For example, in water
+light travels at about 
+The ratio of the speed of light in vacuum to the speed 
+in a given material is called the index of refraction, n, of that material:
+(23;4)
+The index of refraction is never less than 1, and values for various materials are
+given in Table 23–1. For example, since
+for water, the speed of light 
+in water is
+As we shall see later, n varies somewhat with the wavelength of the light—except
+in vacuum—so a particular wavelength is

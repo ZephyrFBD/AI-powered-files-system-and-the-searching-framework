@@ -1,0 +1,27 @@
+ts
+direction in wire M is opposite to that in wires N and P
+(Fig. 20–73). (a) Determine the magnetic force per unit
+length on each wire due to the other two. (b) In Fig. 20–73,
+determine the magnitude and direction of the magnetic
+field at the midpoint
+of the line between
+wire M and wire N.
+Search and Learn
+589
+91. You want to get an idea of the magnitude of magnetic fields
+produced by overhead power lines. You estimate that a
+transmission wire is about 13 m above the ground. The local
+power company tells you that the lines operate at 240 kV and
+provide a maximum power of 46 MW. Estimate the magnetic
+field you might experience walking under one such power
+line, and compare to the Earth’s field.
+92. Two long parallel wires 8.20 cm apart carry 19.2-A currents
+in the same direction. Deter-
+mine the magnetic field
+vector at a point P, 12.0 cm
+from one wire and 13.0 cm
+from the other (Fig. 20–74).
+[Hint: Use the law of cosines;
+see Appendix A or inside rear
+cover.]
+90. In Fig. 20–73 the top

@@ -1,0 +1,20 @@
+ 
+(c) Is the diagram consistent with the law of conservation of mass?
+SOLUTION
+(a) The left box, which represents reactants, contains two kinds 
+of molecules, those composed of two oxygen atoms 1O22 and 
+those composed of one nitrogen atom and one oxygen atom 
+(NO). The right box, which represents products, contains only 
+one kind of molecule, which is composed of one nitrogen 
+atom and two oxygen atoms 1NO22.
+(b) The unbalanced chemical equation is
+O2 + NO ¡  NO2 1unbalanced2
+ 
+An inventory of atoms on each side of the equation shows that 
+there are one N and three O on the left side of the arrow and one N 
+and two O on the right. To balance O, we must increase the num-
+ber of O atoms on the right while keeping the coefficients for NO 
+and NO2 equal. Sometimes a trial-and-error approach is required; 
+we need to go back and forth several times from one side of an 
+equation to the other, changing coefficients first on one side of 
+the equation and then the other until it is balanced. In

@@ -1,0 +1,55 @@
+1
+l
+X-ray wavelength. Estimate the wavelength for an
+to
+transition in molybdenum 
+What is the energy of such a
+photon?
+APPROACH We use the Bohr formula, Eq. 27–16 for 
+with 
+replaced by
+SOLUTION Equation 27–16 gives
+where
+,
+, and 
+. We substitute in values:
+So
+This is close to the measured value (Fig. 28–11) of 0.071 nm. Each of these
+photons would have energy (in eV) of:
+The denominator includes the conversion factor from joules to eV.
+E = hf = hc
+l
+=
+A6.63 * 10–34 JsBA3.00 * 108 msB
+A7.2 * 10–11 mBA1.60 * 10–19 JeVB
+= 17 keV.
+l =
+1
+1.38 * 1010 m–1
+= 0.072 nm.
+1
+l = A1.097 * 107 m–1B(41)2 a 1
+1 - 1
+4 b
+= 1.38 * 1010 m–1.
+k = 8.99 * 109 Nm2c2
+n¿ = 1
+n = 2
+1
+l =
+¢ 2p2e4mk2
+h3c
+≤(Z - 1)2 ¢ 1
+n¿2 - 1
+n2 ≤
+(Z - 1)2 = (41)2.
+Z2
+1l,
+(Z = 42).
+n = 1
+n = 2
+EXAMPLE 28;7
+Determining atomic number. High-energy electrons are
+used to bombard an unknown material. The strongest peak is found for X-rays
+emitted with an energy of 66.3 keV. Guess what the material is.
+APPROACH The highest intensit

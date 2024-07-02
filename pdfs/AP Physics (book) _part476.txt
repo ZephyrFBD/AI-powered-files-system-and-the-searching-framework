@@ -1,0 +1,24 @@
+n car
+    (sum of friction forces
+    acting on each tire)
+Tendency for
+passenger to go
+straight
+Force on 
+passenger
+FIGURE 5;11 The road exerts an
+inward force (friction against the tires)
+on a car to make it move in a circle.
+The car exerts an inward force on the
+passenger.
+5–3 Highway Curves:
+Banked and Unbanked
+An example of circular dynamics occurs when an automobile rounds a curve, say
+to the left. In such a situation, you may feel that you are thrust outward toward
+the right side door. But there is no mysterious centrifugal force pulling on you.
+What is happening is that you tend to move in a straight line, whereas the car has
+begun to follow a curved path. To make you go in the curved path, the seat 
+(friction) or the door of the car (direct contact) exerts a force on you (Fig. 5–11).
+The car also must have a force exerted on it toward the center of the curve if it 
+is to move in that curve. On a flat road, this force is supplied by friction between
+the tires and the pavement.

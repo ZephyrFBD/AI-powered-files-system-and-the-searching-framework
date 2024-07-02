@@ -1,0 +1,26 @@
+
+potential for the Zn2+>Zn half-reaction:
+ 
+E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2
+ +0.76 V = 0 V - E°
+red 1anode2
+ 
+E°
+red 1anode2 = -0.76 V
+Thus, a standard reduction potential of -0.76 V can be assigned to the reduction of Zn2+ 
+to Zn:
+ 
+Zn2+1aq, 1 M2 + 2 e- ¡ Zn1s2 E°
+red = -0.76 V 
+We write the reaction as a reduction even though the Zn reaction in Figure 20.9 is an oxi-
+dation. Whenever we assign an electrical potential to a half-reaction, we write the reaction as 
+a reduction. Half-reactions, however, are reversible, being able to operate as either reduc-
+tions or oxidations. Consequently, half-reactions are sometimes written using two arrows 
+1∆2 between reactants and products, as in equilibrium reactions.
+The standard reduction potentials for other half-reactions can be determined in a 
+fashion analogous to that used for the Zn2+>Zn half-reaction. Table 20.1 lists some stan-
+dard reduction potentials; a more complete list is found in Appendix E. These standard 
+reduction 

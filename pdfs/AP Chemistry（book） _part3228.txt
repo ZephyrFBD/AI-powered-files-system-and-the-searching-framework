@@ -1,0 +1,17 @@
+e species at the anode has been 
+different from the reactive species at the cathode. Cell emf depends on concentration, 
+however, so a voltaic cell can be constructed using the same species in both half-cells 
+as long as the concentrations are different. A cell based solely on the emf generated 
+because of a difference in a concentration is called a concentration cell.
+An example of a concentration cell is diagrammed in Figure 20.14(a). One 
+half-cell consists of a strip of nickel metal immersed in a 1.00 * 10-3 M solution of 
+Ni2+1aq2. The other half-cell also has an Ni(s) electrode, but it is immersed in a 1.00 
+M solution of Ni2+1aq2. The two half-cells are connected by a salt bridge and by an 
+Comment A voltaic cell whose cell reaction involves H+ can be used 
+to measure 3H+4 or pH. A pH meter is a specially designed voltaic cell 
+with a voltmeter calibrated to read pH directly. 
+ (Section 16.4)
+ 
+▶Practice Exercise 1
+Consider a voltaic cell where the anode half-reaction is  
+Zn1s2

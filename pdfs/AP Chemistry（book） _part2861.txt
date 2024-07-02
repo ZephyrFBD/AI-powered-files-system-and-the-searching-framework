@@ -1,0 +1,15 @@
+ir is 4.3 ppm. What 
+is the partial pressure of the CO if the total air pressure is 695 
+torr?
+The Sun emits radiant energy over a wide range of wavelengths (Figure 18.3). To 
+understand the connection between the wavelength of radiation and its effect on atoms 
+and molecules, recall that electromagnetic radiation can be pictured as a stream of pho-
+tons. 
+ (Section 6.2) The energy of each photon is given by E = hn, where h is Planck 
+constant and n is the radiation frequency. For a chemical change to occur when radiation 
+strikes atoms or molecules, two conditions must be met. First, the incoming photons 
+must have sufficient energy to break a chemical bond or remove an electron from the 
+atom or molecule. Second, the atoms or molecules being bombarded must absorb these 
+photons. When these requirements are met, the energy of the photons is used to do the 
+work associated with some chemical change.
+Photodissociation The rupture of a chemical bond resulting from absorption of a photon 

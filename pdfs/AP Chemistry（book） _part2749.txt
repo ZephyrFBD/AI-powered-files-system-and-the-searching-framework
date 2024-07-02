@@ -1,0 +1,29 @@
+olubility of a substance is the quantity that dissolves to form a saturated 
+solution. 
+ (Section 13.2) Solubility is often expressed as grams of solute per liter of 
+solution 1g>L2. Molar solubility is the number of moles of solute that dissolve in form-
+ing 1 L of saturated solution of the solute 1mol>L2. The solubility-product constant 1Ksp2 
+is the equilibrium constant for the equilibrium between an ionic solid and its saturated 
+solution and is a unitless number. Thus, the magnitude of Ksp is a measure of how much 
+of the solid dissolves to form a saturated solution.
+Give It Some Thought
+Without doing a calculation, predict which of these compounds has the greatest 
+molar solubility in water: AgCl 1Ksp = 1.8 * 10-102, AgBr 1Ksp = 5.0 * 10-132, or 
+AgI 1Ksp = 8.3 * 10-172.
+Mass solubility
+of compound
+(g/L)
+Molar solubility
+of compound
+(mol/L)
+Molar
+concentration
+of ions
+Ksp
+Formula
+weight
+Solubility
+equilibrium
+Empirical
+formula
+▲ Figure 17.16 Procedure for converting between solub

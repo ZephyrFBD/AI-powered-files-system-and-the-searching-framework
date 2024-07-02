@@ -1,0 +1,24 @@
+by hand. Estimate the maximum angular
+magnification achievable for a telescope designed to be
+handheld. Assume its eyepiece lens, if used as a magnify-
+ing glass, provides a magnification of 
+for a relaxed eye
+with near point
+41. (III) A reflecting telescope (Fig. 25–22b) has a radius of
+curvature of 3.00 m for its objective mirror and a radius of
+curvature of 
+for its eyepiece mirror. If the distance
+between the two mirrors is 0.90 m, how far in front of the
+eyepiece should you place the electronic sensor to record
+the image of a star?
+42. (III) A 
+pair of binoculars has an objective focal length
+of 26 cm. If the binoculars are focused on an object 4.0 m
+away (from the objective), what is the magnification?
+(The 
+refers to objects at infinity; Eq. 25–3 holds only
+for objects at infinity and not for nearby ones.)
+25–5 Microscopes
+43. (I) A microscope uses an eyepiece with a focal length of
+1.70 cm. Using a normal eye with a final image at infinity, the
+barrel length is 17.5 cm and the 

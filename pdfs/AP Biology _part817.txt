@@ -1,0 +1,25 @@
+ichomes in the plant population decreased
+in one generation.
+LAB #2: MATHEMATICAL MODELING: HARDY-
+WEINBERG
+Introduction
+One way to study evolution is to study how the frequency of alleles in a
+population changes over time. Mathematical models and computer
+******ebook converter DEMO Watermarks*******
+■
+■
+■
+■
+simulations are tools used to explore evolution in this way.
+Hardy-Weinberg theory describes the characteristics of a population
+that is stable or nonevolving. In a stable population, the allelic frequencies
+do not change from generation to generation. The Hardy-Weinberg
+equation enables us to calculate the frequencies of alleles in the
+population. The equation is:
+p2+2pq+q2=1orp+q=1
+Sample problems can be found in Chapter 11 of this book or in the
+practice questions at the end of this chapter.
+Objective
+You will apply mathematical methods to data from real and simulated
+populations to predict what will happen to an evolving population.
+You will use data from mathematical models ba

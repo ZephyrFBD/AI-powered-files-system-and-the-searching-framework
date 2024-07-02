@@ -1,0 +1,20 @@
+reas negatively charged
+objects have an excess of electrons. The charge on one electron has been deter-
+mined to have a magnitude of about 
+and is negative. This is the
+smallest charge observed in nature,‡ and because it is fundamental, it is given the
+symbol e and is often referred to as the elementary charge:
+Note that e is defined as a positive number, so the charge on the electron is
+(The charge on a proton, on the other hand, is 
+) Since an object cannot gain or
+lose a fraction of an electron, the net charge on any object must be an integral
+multiple of this charge. Electric charge is thus said to be quantized (existing only
+in discrete amounts: 1e, 2e, 3e, etc.). Because e is so small, however, we normally
+do not notice this discreteness in macroscopic charges (
+requires about 
+electrons), which thus seem continuous.
+Coulomb’s law looks a lot like the law of universal gravitation,
+which expresses the magnitude of the gravitational force a mass 
+exerts on a
+mass 
+(Eq. 5–4). Both a

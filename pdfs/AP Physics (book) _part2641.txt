@@ -1,0 +1,18 @@
+f the other wave, and so they
+add to produce zero amplitude (Fig. 24–8b). This is destructive interference, and
+the screen is dark, Fig. 24–7c. Thus, there will be a series of bright and dark lines
+(or fringes) on the viewing screen.
+To determine exactly where the bright lines fall, first note that Fig. 24–7 is
+somewhat exaggerated; in real situations, the distance d between the slits is very
+small compared to the distance to the screen. The rays from each slit for each
+case will therefore be essentially parallel, and 
+is the angle they make with the
+horizontal as shown in Fig. 24–7d. From the shaded right triangles shown in
+Figs. 24–7b and c, we can see that the extra distance traveled by the lower ray is
+(seen more clearly in Fig. 24–7d). Constructive interference will occur, and
+a bright fringe will appear on the screen, when the path difference,
+equals
+a whole number of wavelengths:
+(24;2a)
+The value of m is called the order of the interference fringe. The first order
+for example, 

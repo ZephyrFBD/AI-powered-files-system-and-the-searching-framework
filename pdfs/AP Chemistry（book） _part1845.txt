@@ -1,0 +1,30 @@
+terials
+the rhombic lattice is commonly referred to as a centered rectangular lattice. The lattices 
+in Figure 12.4 represent five basic shapes: squares, rectangles, hexagons, rhombuses (dia-
+monds), and arbitrary parallelograms. Other polygons, such as pentagons, cannot cover 
+space without leaving gaps, as Figure 12.5 shows.
+To understand real crystals, we must consider three dimensions. A three-dimensional 
+lattice is defined by three lattice vectors a, b, and c (Figure 12.6). These lattice vectors define a 
+unit cell that is a parallelepiped (a six-sided figure whose faces are all parallelograms) and is 
+described by the lengths a, b, c of the cell edges and the angles a, b, g between these edges. 
+There are seven possible shapes for a three-dimensional unit cell, as shown in Figure 12.6.
+a
+b
+a
+b
+γ
+a
+b
+γ
+γ
+a
+a
+b
+b
+γ
+γ
+Oblique lattice (a ≠ b, γ = arbitrary)
+Square lattice (a = b, γ = 90°)
+Rectangular lattice (a ≠ b, γ = 90°)
+Hexagonal lattice (a = b, γ = 120°)
+Rhombic lattice (a = b

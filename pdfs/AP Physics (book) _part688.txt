@@ -1,0 +1,18 @@
+collisions. We also examine the concept of center of mass, and how it 
+helps us in the study of complex motion.
+7–1 Momentum and Its Relation to Force
+The linear momentum (or “momentum” for short) of an object is defined as the
+product of its mass and its velocity. Momentum (plural is momenta—from Latin) is
+represented by the symbol 
+If we let m represent the mass of an object and 
+represent its velocity, then its momentum is defined as
+(7;1)
+Velocity is a vector, so momentum too is a vector. The direction of the momentum
+is the direction of the velocity, and the magnitude of the momentum is  
+Because velocity depends on the reference frame, so does momentum; thus the ref-
+erence frame must be specified. The unit of momentum is that of 
+which in SI units is 
+There is no special name for this unit.
+Everyday usage of the term momentum is in accord with the definition above.
+According to Eq. 7–1, a fast-moving car has more momentum than a slow-moving
+car of the same mass; a heavy truck ha

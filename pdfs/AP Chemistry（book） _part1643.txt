@@ -1,0 +1,23 @@
+of a gas 
+to its molar mass: ℳ= dRT>P. We can also use the ideal-gas equation 
+to solve problems involving gases as reactants or products in chemi-
+cal reactions.
+GAS MIXTURES AND PARTIAL PRESSURES (SECTION 10.6) In 
+gas mixtures, the total pressure is the sum of the partial pressures 
+that each gas would exert if it were present alone under the same 
+conditions (Dalton’s law of partial pressures). The partial pressure of a 
+component of a mixture is equal to its mole fraction times the total 
+pressure: P
+1 = X1P
+t. The mole fraction X is the ratio of the moles of one 
+component of a mixture to the total moles of all components.
+424 
+CHAPTER 10 Gases
+Learning Outcomes After studying this chapter, you should be able to:
+t Calculate pressure and convert between pressure units 
+with an emphasis on torr and atmospheres. (Section 10.2) 
+ 
+Related Exercises: 10.15, 10.17, 10.19, 10.21
+t Calculate P, V, n, or T using the ideal-gas equation. (Section 10.4) 
+ 
+Related Exercises: 10.33, 10.39,

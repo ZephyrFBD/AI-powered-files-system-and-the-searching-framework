@@ -1,0 +1,30 @@
+sound?
+(a) Double the intensity.
+(b) Halve the intensity.
+(c) Quadruple the intensity.
+(d) Quarter the intensity.
+(e) Increase the intensity by a factor of 10.
+5. A musical note that is two octaves higher than a second note
+(a) has twice the frequency of the second note.
+(b) has four times the frequency of the second note.
+(c) has twice the amplitude of the second note.
+(d) is 3 dB louder than the second note.
+(e) None of the above.
+6. In which of the following is the wavelength of the lowest
+vibration mode the same as the length of the string or 
+tube?
+(a) A string.
+(b) An open tube.
+(c) A tube closed at one end.
+(d) All of the above.
+(e) None of the above.
+7. When a sound wave passes from air into water, what prop-
+erties of the wave will change?
+(a) Frequency.
+(b) Wavelength.
+(c) Wave speed.
+(d) Both frequency and wavelength.
+(e) Both wave speed and wavelength.
+8. A guitar string vibrates at a frequency of 330 Hz with wave-
+length 1.40 m. The frequency and wavelength of this sound
+i

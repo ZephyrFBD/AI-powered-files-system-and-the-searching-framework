@@ -1,0 +1,21 @@
+r vectors, called the components of the original vector. The
+components are usually chosen to be along two perpendicular directions, such as
+the x and y axes. The process of finding the components is known as resolving the
+vector into its components. An example is shown in Fig. 3–10; the vector 
+could
+be a displacement vector that points at an angle
+north of east, where we
+have chosen the positive x axis to be to the east and the positive y axis north.
+This vector 
+is resolved into its x and y components by drawing dashed lines 
+(AB and AC) out from the tip (A) of the vector, making them perpendicular to
+the x and y axes. Then the lines 0B and 0C represent the x and y components
+of 
+respectively, as shown in Fig. 3–10b. These vector components are written 
+and 
+In this book we usually show vector components as arrows, like vectors,
+but dashed. The scalar components,
+and 
+are the magnitudes of the vector
+components, with units, accompanied by a positive or negative sign depending on
+whe

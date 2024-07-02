@@ -1,0 +1,13 @@
+gap Eg. In the semiconductor community, energies are given in electron volts 1eV2; 
+1 eV = 1.602 * 10-19 J. Band gaps greater than ∼3.5 eV are so large that the material is 
+not a semiconductor; it is an insulator and does not conduct electricity.
+Semiconductors can be divided into two classes: elemental semiconductors, which 
+contain only one type of atom, and compound semiconductors, which contain two or 
+more elements. The elemental semiconductors all come from group 4A. As we move 
+down the periodic table, bond distances increase, which decreases orbital overlap. This 
+decrease in overlap reduces the energy difference between the top of the valence band 
+and the bottom of the conduction band. As a result, the band gap decreases on going 
+from diamond 15.5 eV, an insulator2 to silicon 11.11 eV2 to germanium 10.67 eV2 to gray 
+tin 10.08 eV2. In the heaviest group 4A element, lead, the band gap collapses altogether. 
+As a result, lead has the structure and properties of a metal.
+Compo

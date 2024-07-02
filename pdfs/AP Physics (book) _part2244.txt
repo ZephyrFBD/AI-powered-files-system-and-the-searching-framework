@@ -1,0 +1,14 @@
+nets. These materials are said to be ferromagnetic.
+Sources of Ferromagnetism
+Microscopic examination reveals that a piece of iron is made up of tiny regions
+known as domains, less than 1 mm in length or width. Each domain behaves like
+a tiny magnet with a north and a south pole. In an unmagnetized piece of iron,
+the domains are arranged randomly, Fig. 20–42a. The magnetic effects of the
+domains cancel each other out, so this piece of iron is not a magnet. In a magnet,
+the domains are preferentially aligned in one direction as shown in Fig. 20–42b
+(downward in this case). A magnet can be made from an unmagnetized piece of
+iron by placing it in a strong magnetic field. (You can make a needle magnetic,
+for example, by stroking it with one pole of a strong magnet.) The magnetization
+direction of domains may actually rotate slightly to be more nearly parallel to the
+external field, and the borders of domains may move so domains with magnetic
+orientation parallel to the external field grow 

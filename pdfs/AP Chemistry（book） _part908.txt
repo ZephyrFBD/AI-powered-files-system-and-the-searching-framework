@@ -1,0 +1,23 @@
+ n is always a positive number, the energy of the photon 
+1hn2 must always be positive. Thus, the sign of ∆E tells us whether 
+the photon is absorbed or emitted:
+ 
+∆E 7 0 1nf 7 ni2: Photon absorbed with Ephoton = hn = ∆E   
+ 
+∆E 6 0 1nf 6 ni2: Photon emitted with Ephoton = hn = -∆E  
+[6.7]
+These two situations are summarized in Figure 6.13. We see that 
+Bohr’s model of the hydrogen atom leads to the conclusion that 
+only the specific frequencies of light that satisfy Equation 6.7 can be 
+absorbed or emitted by the atom.
+Let’s see how to apply these concepts by considering a transition in which the 
+ 
+electron moves from ni = 3 to nf = 1. From Equation 6.6 we have
+∆E = 1-2.18 * 10 - 18 J2a 1
+1
+2 - 1
+32 b = 1-2.18 * 10 - 18 J2a8
+9b = -1.94 * 10 - 18 J
+The value of ∆E is negative—that makes sense because the electron is falling from a higher- 
+energy orbit 1n = 32 to a lower-energy orbit 1n = 12. A photon is emitted during this transi-
+tion, and the energy of the photon is equal to Ephoto

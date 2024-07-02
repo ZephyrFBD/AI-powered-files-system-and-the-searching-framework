@@ -1,0 +1,16 @@
+osite atoms from an octahedral 
+arrangement would lead to square-planar shape. page 343 No, the 
+molecule does not satisfy the octet rule because there are ten elec-
+trons around the atom A. Each of the atoms B does satisfy the octet 
+rule. There are four electron domains around A: Two single bonds, 
+one double bond, and one nonbonding electron domain around 
+A. page 347 Yes. Because there are three equivalent dominant reso-
+nance structures, each of which puts the double bond between the 
+N and a different O, the average structure has the same bond order 
+for all three N ¬ O bonds. Thus, each electron domain is the same 
+and the angles are predicted to be 120°. page 349 In a square pla-
+nar arrangement of electron domains, each domain is 90° from two 
+other domains (and 180° from the third domain). In a tetrahedral 
+arrangement, each domain is 109.5° from the other three domains. 
+Domains always try to minimize the number of 90° interactions, so 
+the tetrahedral arrangement is favored

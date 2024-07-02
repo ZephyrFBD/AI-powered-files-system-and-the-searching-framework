@@ -1,0 +1,105 @@
+(0.20)(49 N) = 9.8 N.
+F
+T,
+F
+N = mAg = (5.0 kg)A9.8 ms2B = 49 N.
+F
+T .
+mBg,
+F
+fr ;
+F
+N,
+mAg,
+F
+T,
+EXAMPLE 4;20
+F
+fr
+F
+N
+u 7 0,
+mg
+B.
+F
+B
+fr ,
+F
+B
+N
+F
+B
+u
+CONCEPTUAL EXAMPLE 4;19
+96
+CHAPTER 4
+C A U T I O N
+Tension in a cord supporting a falling
+object may not equal object’s weight
+(a)
+θ
+θ
+(b)
+(c)
+(d)
+F
+B
+N
+F
+B
+F
+B
+fr
+F
+B
+fr
+F
+B
+mg
+B
+N
+F
+B
+F
+B
+mg
+B
+F
+B
+FIGURE 4;31 Example 4–19.
+B
+2.0 kg
+5.0 kg
+B
+A
+(a)
+(b)
+(c)
+A
+N
+T
+fr
+mA
+mB
+T
+F
+B
+F
+B
+F
+B
+F
+B
+g
+B
+g
+B
+FIGURE 4;32 Example 4–20.
+Inclines
+Now we consider what happens when an object slides down an incline, such as 
+a hill or ramp. Such problems are interesting because gravity is the accelerating
+force, yet the acceleration is not vertical. Solving problems is usually easier if we
+choose the xy coordinate system so the x axis points along the incline (the direction
+of motion) and the y axis is perpendicular to the incline, as shown in Fig. 4–33.
+Note also that the normal force is not vertical, but is perpendicular to the sloping
+surface of the

@@ -1,0 +1,15 @@
+el.
+The DNA strands are linked by hydrogen bonds. Two hydrogen bonds hold adenine and thymine together, and
+three hydrogen bonds hold cytosine and guanine together.
+Before we go any further, let’s review the base pairing in DNA:
+Adenine pairs up with thymine (A–T or T–A) by forming two hydrogen bonds.
+Cytosine pairs up with guanine (G–C or C–G) by forming three hydrogen bonds.
+GENOME STRUCTURE
+The order of the four base pairs in a DNA strand is the genetic code. Like a special alphabet in our cells, these four
+nucleotides spell out thousands of recipes. Each recipe is called a gene. The human genome has around 20,000
+genes.
+The recipes of the genes are spread out among the millions of nucleotides of DNA, and all of the DNA for a species
+is called its genome. Each separate chunk of DNA in a genome is called a chromosome.
+Humans have 23 different chromosomes and they have two copies of each, so
+each human cell has 46 linear chromosome segments in the nucleus.
+Prokaryotes have one circula

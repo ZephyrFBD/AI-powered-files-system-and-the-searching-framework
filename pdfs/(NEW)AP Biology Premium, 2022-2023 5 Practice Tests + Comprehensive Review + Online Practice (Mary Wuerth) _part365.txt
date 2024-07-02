@@ -1,0 +1,12 @@
+transcript,
+referred to as pre-mRNA, needs to be modified before it can leave the nucleus of the cell and travel to the
+ribosomes for translation.
+In eukaryotic cells, three modifications must occur to the pre-mRNA before it can leave the nucleus: the removal
+of introns and the joining of exons, the addition of a guanosine triphosphate (GTP) cap to the 5′ end of the RNA, and
+the addition of a poly-adenine (poly-A) tail to the 3′ end of the RNA.
+1. Eukaryotic pre-mRNAs contain noncoding RNA sequences called introns. These introns are interspersed
+between coding sequences of eukaryotic RNAs called exons. Structures called spliceosomes, which are made
+of small nuclear RNAs (snRNAs) and small nuclear ribonucleoproteins (snRNPs), remove the introns from
+the pre-mRNA and then splice together the exons. These exons can be joined in different combinations to
+generate multiple RNA transcripts from the same gene, as shown in Figure 16.1. This alternative splicing
+gives eukaryotes the ability to 

@@ -1,0 +1,23 @@
+k interaction.
+Thus, strange particles were forbidden by strangeness conservation to decay to
+nonstrange particles of lower mass via the strong interaction, but could decay by
+means of the weak interaction at the observed longer lifetimes of 
+to 
+The conservation of strangeness was the first example of a partially conserved
+quantity. In this case, the quantity strangeness is conserved by strong interactions
+but not by weak.
+Guess the missing particle. Using the
+conservation laws for particle interactions, determine the possibilities for the
+missing particle in the reaction
+in addition to 
+mentioned above.
+RESPONSE We write equations for the conserved numbers in this reaction,
+with B,
+S, and Q as unknowns whose determination will reveal what the
+possible particle might be:
+The unknown product particle would have to have these characteristics:
+In addition to 
+a neutral sigma particle,
+is also consistent with these
+numbers.
+In the next Section we will discuss another partially conserved q

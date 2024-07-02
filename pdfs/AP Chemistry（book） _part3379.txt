@@ -1,0 +1,15 @@
+vity is too low to be measured accurately.
+In radiocarbon dating, a reasonable assumption is that the ratio of carbon-14 to 
+ 
+carbon-12 in the atmosphere has been relatively constant for the past 50,000 yr. How-
+ever, because variations in solar activity control the amount of carbon-14 produced in 
+the atmosphere, that ratio can fluctuate. We can correct for this effect by using other 
+kinds of data. Recently, scientists have compared carbon-14 data with data from tree 
+rings, corals, lake sediments, ice cores, and other natural sources to correct variations in 
+the carbon-14 “clock” back to 26,000 yr.
+Other isotopes can be similarly used to date other types of objects. For example, 
+it takes 4.5 * 109 yr for half of a sample of uranium-238 to decay to lead-206. The age 
+of rocks containing uranium can therefore be determined by measuring the ratio of 
+ 
+lead-206 to uranium-238. If the lead-206 had somehow become incorporated into the 
+rock by normal chemical processes instead of by r

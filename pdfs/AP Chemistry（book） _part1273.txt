@@ -1,0 +1,13 @@
+id?
+approach correctly predicts the bonding in SnCl4 to be polar covalent based on an elec-
+tronegativity difference of 1.2 and at the same time correctly predicts the bonding in 
+NaCl to be predominantly ionic based on an electronegativity difference of 2.1.
+Evaluating bonding based on electronegativity difference is a useful system, but it 
+has one shortcoming. The electronegativity values given in Figure 8.8 do not take into 
+account changes in bonding that accompany changes in the oxidation state of the 
+metal. For example, Figure 8.8 gives the electronegativity difference between manganese 
+and oxygen as 3.5 - 1.5 = 2.0, which falls in the range where the bonding is normally 
+considered ionic (the electronegativity difference for NaCl is 3.0 - 0.9 = 2.1). Therefore, 
+it is not surprising to learn that manganese(II) oxide, MnO, is a green solid that melts at 
+1842 °C and has the same crystal structure as NaCl.
+However, the bonding between manganese and oxygen is not always ionic. M

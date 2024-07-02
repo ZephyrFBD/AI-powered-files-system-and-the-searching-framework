@@ -1,0 +1,32 @@
+ be made to jump from the valence to the conduction
+band by the passage of an 830-keV photon that loses all its
+energy in this fashion?
+22. (III) We saw that there are 2N possible electron states in
+the 3s band of Na, where N is the total number of atoms.
+How many possible electron states are there in the (a) 2s
+band, (b) 2p band, and (c) 3p band? (d) State a general
+formula for the total number of possible states in any given
+electron band.
+*29–8 Semiconductors and Doping
+23. (III) Suppose that a silicon semiconductor is doped with
+phosphorus so that one silicon atom in 
+is
+replaced by a phosphorus atom. Assuming that the “extra”
+electron in every phosphorus atom is donated to the con-
+duction band, by what factor is the density of conduction
+electrons increased? The density of silicon is 
+and the density of conduction electrons in pure silicon is
+about 
+at room temperature.
+1016 m–3
+2330 kgm3,
+1.5 * 106
+Eg
+l = 400 nm to 700 nm)?
+AEg = 1.12 eVB
+Eg.
+1.99 gcm3.
+2.165 gcm3.
+1
+2
+pe = 1

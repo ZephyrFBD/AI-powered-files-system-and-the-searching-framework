@@ -1,0 +1,11 @@
+the
+“antisense strand.” This is because the sequence of the mRNA strand that will be read by the ribosome during
+translation is actually not identical to the sequence of the DNA strand from which it was transcribed but instead is
+the complement (or opposite) of the DNA strand from which it was transcribed. The strand of the double helix that
+functions as the template strand can vary depending on the gene being transcribed.
+TIP
+Remember that RNA polymerase is the enzyme responsible for transcription and forms RNA molecules while DNA polymerase is the enzyme
+responsible for DNA replication and forms DNA molecules. Be sure not to confuse these two enzymes on the AP exam.
+Remember that one of the differences between prokaryotic and eukaryotic cells is that prokaryotic cells do not
+have a nucleus. Therefore, in most prokaryotic cells, the mRNA transcript formed in transcription is immediately
+accessible to ribosomes and can be translated without delay. In eukaryotic cells, the initial mRNA 

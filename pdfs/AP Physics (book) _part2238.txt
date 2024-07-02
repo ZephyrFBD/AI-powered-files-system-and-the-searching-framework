@@ -1,0 +1,19 @@
+rushes remain
+stationary.
+FIGURE 20–37 Diagram of a simple
+dc motor. (Magnetic field lines are
+as shown in Fig. 20–36.)
+P H Y S I C S  A P P L I E D
+DC motor
+Most motors contain several coils, called windings, each connected to a different
+portion of the armature, Fig. 20–39. Current flows through each coil only during a
+small part of a revolution, at the time when its orientation results in the maximum
+torque. In this way, a motor produces a much steadier torque than can be obtained
+from a single coil.
+An ac motor, with ac current as input, can work without commutators since the
+current itself alternates. Many motors use wire coils to produce the magnetic field
+(electromagnets) instead of a permanent magnet. Indeed the design of most motors
+is more complex than described here, but the general principles remain the same.
+Loudspeakers and Headsets
+Loudspeakers and audio headsets also work on the principle that a magnet exerts
+a force on a current-carrying wire. The electrical output of 

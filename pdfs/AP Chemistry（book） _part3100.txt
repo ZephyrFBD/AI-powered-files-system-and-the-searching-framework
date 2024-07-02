@@ -1,0 +1,15 @@
+F THERMODYNAMICS (SECTION 19.3) A particular 
+combination of motions and locations of the atoms and molecules 
+of a system at a particular instant is called a microstate. The entropy 
+of a system is a measure of its randomness or disorder. The entropy 
+is related to the number of microstates, W, corresponding to the 
+state of the system: S = k ln W. Molecules can undergo three kinds 
+of motion: In translational motion the entire molecule moves in space. 
+Molecules can also undergo vibrational motion, in which the atoms of 
+the molecule move toward and away from one another in periodic 
+fashion, and rotational motion, in which the entire molecule spins like 
+a top. The number of available microstates, and therefore the en-
+tropy, increases with an increase in volume, temperature, or motion 
+of molecules because any of these changes increases the possible mo-
+tions and locations of the molecules. As a result, entropy generally 
+increases when liquids or solutions are formed from solids, 

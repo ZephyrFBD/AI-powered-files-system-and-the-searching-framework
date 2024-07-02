@@ -1,0 +1,48 @@
+omic structure that is common to each group and how
+that structure explains a common property of the group.
+(See Section 28–8.)
+7. Imagine a line whose length equals the diameter of the
+smallest orbit in the Bohr model. If we are told only that
+an electron is located somewhere on this line, then the
+electron’s position can be specified as 
+where
+the origin is at the line’s center and 
+is the Bohr radius.
+Such an electron can never be observed at rest, but instead
+at a minimum will have a speed somewhere in the range
+from
+to
+Determine 
+8. What is uncertain in the Heisenberg uncertainty principle?
+Explain. (See Section 28–3.)
+¢v.
+0 + ¢v.
+v = 0 - ¢v
+r1
+x = 06r1 ,
+Search and Learn
+A: (c).
+B:
+.
+C: 2, 1, 0, –1, –2.
+2.1 * 10–24 kgms, 2.3 * 106 ms
+D:
+eV,
+E: Add one line to Li in Table 28–2:
+F: 1s22s22p63s23p63d104s24p1.
+2, 0, 0, – 1
+2 .
+120 U.
+–0.38
+ANSWERS TO EXERCISES
+C
+H
+A
+P
+T
+E
+R
+Molecules and Solids
+CHAPTER-OPENING QUESTION—Guess now!
+What holds a solid together?
+(a) Gravitational forc

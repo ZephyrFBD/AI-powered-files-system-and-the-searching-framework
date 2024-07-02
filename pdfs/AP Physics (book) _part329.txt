@@ -1,0 +1,21 @@
+pring scale, once calibrated, can be used to measure other kinds of forces 
+as well, such as the pulling force shown in Fig. 4–2.
+A force exerted in a different direction has a different effect. Force has direc-
+tion as well as magnitude, and is indeed a vector that follows the rules of vector
+addition discussed in Chapter 3. We can represent any force on a diagram by an
+arrow, just as we did with velocity. The direction of the arrow is the direction of the
+push or pull, and its length is drawn proportional to the magnitude of the force.
+76
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+†We treat everyday objects in motion here. When velocities are extremely high, close to the speed of
+light 
+we use the theory of relativity (Chapter 26), and in the submicroscopic world
+of atoms and molecules we use quantum theory (Chapter 27 ff).
+A3.0 * 108 msB,
+0 1 2 3 4 5 6 7 8 910
+FIGURE 4;2 A spring scale
+used to measure a force.
+FIGURE 4;1 A force exerted on a
+grocery cart—in this case exerted by
+a 

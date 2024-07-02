@@ -1,0 +1,32 @@
+ed v to the left, will see the two events as simultaneous?
+Explain in detail, drawing diagrams equivalent to Fig. 26–5.
+[Hint: Include length contraction.]
+3. Using Example 26–2 as a guide, show that for objects that
+move slowly in comparison to c, the length contraction
+formula is roughly 
+Use this approxi-
+mation to find the “length shortening”
+of the
+train in Example 26–6 if the train travels at 
+(rather than 0.92c).
+100 kmh
+¢l = l0 - l
+l L l0A1 - 1
+2 v2c2B.
+O2,
+O1
+A2.
+A1
+B2,
+B1
+O1
+O1’s
+4. In Example 26–5, the spaceship is moving at 0.90c in the
+horizontal direction relative to an observer on the Earth.
+If instead the spaceship moved at 0.90c directed at 
+above the horizontal, what would be the painting’s
+dimensions as seen by the observer on Earth?
+5. Protons from outer space crash into the Earth’s atmosphere
+at a high rate. These protons create particles that eventually
+decay into other particles called muons. This cosmic debris
+travels through the atmosphere. Every second, doze

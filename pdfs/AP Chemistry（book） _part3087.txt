@@ -1,0 +1,20 @@
+r K, to yield an expression that allows us to calcu-
+late K if we know the value of ∆G°:
+ln K = ∆G°
+-RT
+K = e-∆G°>RT 
+[19.21]
+As usual, we must be careful in our choice of units. In Equations 19.20 and 19.21 
+we again express ∆G° in kJ>mol. In the equilibrium-constant expression, we use atmo-
+spheres for gas pressures, molarities for solutions; and solids, liquids, and solvents do not 
+appear in the expression. 
+ (Section 15.4) Thus, the equilibrium constant is Kp for gas-
+phase reactions and Kc for reactions in solution. 
+ (Section 15.2)
+From Equation 19.20 we see that if ∆G° is negative, ln K must be positive, which 
+means K 7 1. Therefore, the more negative ∆G° is, the larger K is. Conversely, if ∆G° is 
+positive, ln K is negative, which means K 6 1. Finally, if ∆G° is zero, K = 1.
+Comment We see that ∆G becomes more negative as the pressures 
+of N2, H2, and NH3 are changed from 1.0 atm (standard condi-
+tions, ∆G°) to 1.0 atm, 3.0 atm, and 0.50 atm, respectively. The 
+larger negativ

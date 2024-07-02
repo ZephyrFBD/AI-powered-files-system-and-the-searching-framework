@@ -1,0 +1,55 @@
+ Fig. 23–37c. This ray therefore emerges from
+the lens at the same angle as it entered. The ray would be displaced slightly 
+to one side, as we saw in Example 23–8; but since we assume the lens is thin,
+we draw ray 3 straight through as shown.
+The point where these three rays cross is the image point for that object point.
+Actually, any two of these rays will suffice to locate the image point, but drawing
+the third ray can serve as a check.
+F¿
+F¿
+P = 1(0.20 m) = 5.0 D.
+1 D = 1 m–1.
+P =
+1
+f
+.
+Fa
+Fa.
+662
+CHAPTER 23
+R A Y  D I A G R A M
+Finding the image position 
+formed by a thin lens
+FIGURE 23–34 Image of the Sun
+burning wood.
+F
+f
+FIGURE 23–36 Diverging lens.
+FIGURE 23–35 Parallel rays at an
+angle are focused on the focal plane.
+F
+Fa
+Axis
+Focal
+plane
+SECTION 23–7
+Thin Lenses; Ray Tracing
+663
+O
+F
+1
+3
+F′
+2
+Object
+Image
+Ray 3 passes straight through the
+center of the lens (assumed very thin).
+(c)
+I
+F
+1
+F′
+2
+Ray 2 passes through F′ in front of the
+lens; therefore it is parallel to the axis

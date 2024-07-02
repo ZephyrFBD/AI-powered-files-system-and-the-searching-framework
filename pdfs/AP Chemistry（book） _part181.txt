@@ -1,0 +1,22 @@
+ zeros are significant. For 
+example, a mass of 10,300 g can be written to show three, four, or five significant figures 
+depending on how the measurement is obtained:
+1.03 * 104 g
+(three significant figures)
+1.030 * 104 g
+(four significant figures)
+1.0300 * 104 g
+(five significant figures)
+In these numbers, all the zeros to the right of the decimal point are significant (rules 1 
+and 3). (The exponential term 104 does not add to the number of significant figures.)
+ 
+Sample Exercise 1.7
+Determining the Number of Significant Figures in a Measurement
+How many significant figures are in each of the following numbers (assume that each number is a measured quantity)?  
+(a) 4.003, (b) 6.023 * 1023, (c) 5000.
+SOLUTION
+(a) Four; the zeros are significant figures. (b) Four; the exponential 
+term does not add to the number of significant figures. (c) One; 
+we assume that the zeros are not significant when there is no  
+decimal point shown. If the number has more significant figures, 
+a decimal p

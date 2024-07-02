@@ -1,0 +1,17 @@
+ly direction.
+NOTE Always be attentive about the quadrant in which the resultant vector
+lies. An electronic calculator does not fully give this information, but a good
+diagram does.
+As we saw in Example 3–2, any component that points along the negative x or
+y axis gets a minus sign. The signs of trigonometric functions depend on which
+“quadrant” the angle falls in: for example, the tangent is positive in the first and
+third quadrants (from 0° to 90°, and 180° to 270°), but negative in the second
+and fourth quadrants; see Appendix A, Fig. A–7. The best way to keep track of
+angles, and to check any vector result, is always to draw a vector diagram, like
+Fig.3–15. A vector diagram gives you something tangible to look at when analyzing
+a problem, and provides a check on the results.
+The following Problem Solving Strategy should not be considered a prescrip-
+tion. Rather it is a summary of things to do to get you thinking and involved in the
+problem at hand.
+u = 38.5°
+tan–1(–0.796) = –38.5°

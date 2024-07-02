@@ -1,0 +1,81 @@
+with temperature (which is why thermometers made of
+different materials do not agree precisely). However, if the temperature range is
+not too great, the variation can usually be ignored.
+a
+a
+¢l = l - l0
+¢T = T - T
+0
+l
+T
+0 ,
+l0
+l = l0(1 + a ¢T),
+l = l0 + ¢l,
+(C°)–1.
+a,
+¢l = al0 ¢T,
+l0 .
+¢T
+¢T,
+¢l
+364
+CHAPTER 13
+Temperature and Kinetic Theory
+TABLE 13–1 Coefficients of Expansion, near 20°C
+Coefficient of Linear
+Coefficient of Volume 
+Material
+Expansion,
+(C°)
+Expansion,
+(C°)
+Solids
+Aluminum
+Brass
+Copper
+Gold
+Iron or steel
+Lead
+Glass (Pyrex®)
+Glass (ordinary)
+Quartz
+Concrete and brick
+Marble
+Liquids
+Gasoline
+Mercury
+Ethyl alcohol
+Glycerin
+Water
+Gases
+Air (and most other gases 
+at atmospheric pressure)
+3400 * 10–6
+210 * 10–6
+500 * 10–6
+1100 * 10–6
+180 * 10–6
+950 * 10–6
+4–10 * 10–6
+1.4–3.5 * 10–6
+L 36 * 10–6
+L 12 * 10–6
+1 * 10–6
+0.4 * 10–6
+27 * 10–6
+9 * 10–6
+9 * 10–6
+3 * 10–6
+87 * 10–6
+29 * 10–6
+35 * 10–6
+12 * 10–6
+42 * 10–6
+14 * 10–6
+50 * 10–6
+17 * 10–6
+56 * 10–6
+19 * 10–6
+75 * 10–6
+25 * 10

@@ -1,0 +1,23 @@
+trum of a galaxy, what is the
+approximate distance to the galaxy?
+27. (II) What is the speed of a galaxy with 
+28. (II) What would be the redshift parameter z for a galaxy
+traveling away from us at 
+29. (II) Estimate the distance d from the Earth to a galaxy
+whose redshift parameter 
+30. (II) Estimate the speed of a galaxy, and its distance from us,
+if the wavelength for the hydrogen line at 434 nm is meas-
+ured on Earth as being 610 nm.
+31. (II) Radiotelescopes are designed to observe 21-cm waves
+emitted by atomic hydrogen gas. A signal from a distant
+radio-emitting galaxy is found to have a wavelength that is
+0.10 cm longer than the normal 21-cm wavelength. Esti-
+mate the distance to this galaxy.
+32. (III) Starting from Eq. 33–3, show that the Doppler shift in
+wavelength is 
+(Eq. 33–6) for 
+[Hint: Use the binomial expansion.]
+33–6 to 33–8 The Big Bang, CMB, Universe 
+Expansion
+33. (I) Calculate the wavelength at the peak of the blackbody
+radiation distribution at 2.7 K using Wien’s l

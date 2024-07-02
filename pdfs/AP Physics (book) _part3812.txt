@@ -1,0 +1,25 @@
+000 km?) 
+For these reasons we make use of the “powers of 10,” or exponential nota-
+tion. The distance from Neptune to the Sun is then expressed as 
+(assuming that the value is significant to three digits), and the diameter of an
+atom 
+This way of writing numbers is based on the use of
+exponents, where 
+signifies a multiplied by itself n times. For example,
+Thus,
+4,500,000,000. Notice that the exponent (9 in this case) is just the number of
+places the decimal point is moved to the right to obtain the fully written-out
+number (4.500,000,000.)
+When two numbers are multiplied (or divided), you first multiply (or divide) 
+the simple parts and then the powers of 10. Thus,
+multiplied by 
+equals
+where we have used the rule for
+adding exponents (AppendixA–2). Similarly,
+divided by
+equals
+For numbers less than 1, say 0.01, the exponent power of 10 is written with a
+negative sign (see previous page):
+Similarly,
+The decimal point has again been moved the number of places
+expressed in the exponent

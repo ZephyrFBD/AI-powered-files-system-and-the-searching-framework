@@ -1,0 +1,43 @@
+e either the rate of 
+disappearance of HI or the rate of appearance of either H2 or I2. Because 2 mol of HI dis-
+appears for each mole of H2 or I2 that forms, the rate of disappearance of HI is twice the 
+rate of appearance of either H2 or I2. How do we decide which number to use for the rate 
+of the reaction? Depending on whether we monitor HI, I2, or H2, the rates can differ by a 
+factor of 2. To fix this problem, we need to take into account the reaction stoichiometry. 
+To arrive at a number for the reaction rate that does not depend on which component 
+we measured, we must divide the rate of disappearance of HI by 2 (its coefficient in the 
+balanced chemical equation):
+ 
+Rate = -1
+2  
+∆3HI4
+∆t
+=
+∆3H24
+∆t
+=
+∆3I24
+∆t  
+In general, for the reaction
+ 
+a A + b B ¡ c C + d D 
+the rate is given by
+ 
+Rate = - 1
+a  
+∆3A4
+∆t
+= - 1
+b  
+∆3B4
+∆t
+= 1
+c  
+∆3C4
+∆t
+= 1
+d  
+∆3D4
+∆t  
+[14.4]
+Using Figure 14.3, calculate the instantaneous rate of disappearance of C4H9Cl at t = 0 s (the initial rate).

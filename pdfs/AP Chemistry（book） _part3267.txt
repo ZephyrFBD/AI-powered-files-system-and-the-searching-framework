@@ -1,0 +1,49 @@
+H2O 1E °
+red = -0.83 V2, so Ni2+ is preferentially reduced, depositing 
+a layer of nickel metal on the steel cathode.
+Voltage source
+Cathode
+Anode
+2 Cl−(l)
+Cl2(g) + 2 e−
+e−
+e−
++
+−
+2 Na+(l) + 2 e−
+2 Na(l)
+Na(l)
+Molten NaCl
+Cl2(g)
+Na+
+Cl−
+▲ Figure 20.28 Electrolysis of molten sodium 
+chloride. Pure NaCl melts at 801 °C.
+Go Figure
+What is E° for this cell?
+Steel
+object
+Nickel
+anode
+Ni2+
+Ni(s)          Ni2+(aq) + 2 e−
+Ni2+(aq) + 2 e−         Ni(s)
+Anode
+Cathode
+e−
+e−
+Voltage source
+−
++
+Ni2+
+▲ Figure 20.29 Electrolytic cell with an active metal electrode. Nickel dissolves from the anode to 
+form Ni2+1aq2. At the cathode, Ni2+1aq2 is reduced and forms a nickel “plate” on the steel cathode.
+ 
+SECTION 20.9  Electrolysis 
+885
+886 
+CHAPTER 20 Electrochemistry
+At the anode, the nickel metal is oxidized. To explain this behavior, we need to 
+compare the substances in contact with the anode, H2O and NiSO41aq2, with the anode 
+material, Ni. For the NiSO41aq2 solution, neither Ni2+ nor SO4
+2- can be 

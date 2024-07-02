@@ -1,0 +1,67 @@
+as several potential advantages, most particularly the elimina-
+tion of acetic acid as solvent.
+Greener Reagents and Processes
+Let us examine two more examples of green chemistry in action.
+Hydroquinone, HO-C6H4-OH, is a common intermediate used to make poly-
+mers. The standard industrial route to hydroquinone, used until recently, yields many 
+by-products that are treated as waste:
+NH2
+2
+2
+4 MnO2
+5 H2SO4
+Hydroquinone
++
++
+(NH4)2SO4
+4 MnSO4
+Waste
++
+4 H2O
++
+O
+O
+OH
+OH
++
+FeCl2
+2
++
+O
+O
+ +  2 HCl
++ Fe
+2
+Using the principles of green chemistry, researchers have improved this process. 
+The new process for hydroquinone production uses a new starting material. Two of the 
+by-products of the new reaction (shown in green) can be isolated and used to make the 
+new starting material.
+CH3
+CH3
+CH2
+CH3
+HO
+HO
+C
+OH
+OH
+HO
+C
+Catalyst
+By-products recycled
+to make starting material
++
++
+CH3
+CH3
+C
+O
+OH
+HO
+CH2
+C
+CH3
+H2O2
++
+The new process is an example of “atom economy,” a phrase that means that a high per-
+cen

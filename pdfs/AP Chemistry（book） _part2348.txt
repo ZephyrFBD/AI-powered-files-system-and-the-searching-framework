@@ -1,0 +1,23 @@
+of 2.7 yr, cal-
+culate the half-life for breakdown at a temperature of -15 °C.
+ 14.107 The following mechanism has been proposed for the reac-
+tion of NO with H2 to form N2O and H2O:
+NO1g2 + NO1g2 ¡ N2O21g2
+N2O21g2 + H21g2 ¡ N2O1g2 + H2O1g2
+ 
+ (a) Show that the elementary reactions of the proposed 
+mechanism add to provide a balanced equation for the re-
+action. (b) Write a rate law for each elementary reaction in 
+the mechanism. (c) Identify any intermediates in the mech-
+anism. (d) The observed rate law is rate = k3NO423H24. If 
+the proposed mechanism is correct, what can we conclude 
+about the relative speeds of the ﬁrst and second reactions?
+ 14.108 Ozone in the upper atmosphere can be destroyed by the 
+following two-step mechanism:
+  Cl1g2 + O31g2 ¡ ClO1g2 + O21g2
+ClO1g2 + O1g2 ¡ Cl1g2 + O21g2
+ 
+ (a) What is the overall equation for this process? (b) What 
+is the catalyst in the reaction? (c) What is the intermedi-
+ate in the reaction?
+ 14.109 The gas-phase decomposition of ozone 

@@ -1,0 +1,61 @@
+
+[constant 
+]
+(8;9a)
+[constant 
+]
+(8;9b)
+[constant 
+]
+(8;9c)
+[constant 
+]
+(8;9d)
+Note that 
+represents the angular velocity at 
+whereas and 
+represent
+the angular position and velocity, respectively, at time . Since the angular accel-
+eration is constant, a = k.
+t
+v
+u
+t0 = 0,
+v0
+a, a
+v = v + v0
+2
+j = v + v0
+2
+a, a
+v2 = v2
+0 + 2ax
+v2 = v2
+0 + 2au
+a, a
+x = v0t + 1
+2 at2
+u = v0t + 1
+2 at2
+a, a
+v = v0 + at
+v = v0 + at
+t0 = 0
+x0 = 0
+u0 = 0
+204
+CHAPTER 8
+Rotational Motion
+Kinematic equations
+for constant
+angular acceleration
+u0 = 0]
+[x0 = 0,
+P H Y S I C S  A P P L I E D
+Centrifuge
+8–3 Rolling Motion (Without Slipping)
+The rolling motion of a ball or wheel is familiar in everyday life: a ball rolling
+across the floor, or the wheels and tires of a car or bicycle rolling along the pave-
+ment. Rolling without slipping depends on static friction between the rolling object
+and the ground. The friction is static because the rolling object’s point of contact
+with the ground is at rest at each moment

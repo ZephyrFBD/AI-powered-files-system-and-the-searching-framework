@@ -1,0 +1,93 @@
+ we change the latter
+to 0.50 kg, and the acceleration will then automatically come out in 
+when
+Newton’s second law is used:
+where we set  
+.
+1 N = 1 kgms2
+ax =
+©F
+x
+m
+=
+2.0 N
+0.50 kg
+= 2.0 kgms2
+0.50 kg
+= 4.0 ms2,
+ms2
+1 lb = 1 slugfts2.
+1 fts2
+1 lb = 4.44822 N L 4.45 N.
+1 dyne = 10–5 N.
+1 cm = 10–2 m,
+1 g = 10–3 kg
+1 dyne = 1 gcms2.
+1 cms2
+1 N = 1 kgms2.
+1 ms2
+F
+net = ma
+F
+net ,
+©F
+©F
+©F = ma.
+©F
+x = max,  ©F
+y = may,  ©F
+z = maz.
+F
+B
+©F
+B = ma
+B.
+©F
+B
+F
+B
+©
+©F
+B
+a
+B
+a
+B =
+©F
+B
+m
+,
+SECTION 4–4
+Newton’s Second Law of Motion
+79
+NEWTON’S SECOND LAW 
+OF MOTION
+NEWTON’S SECOND LAW 
+OF MOTION
+P R O B L E M  S O L V I N G
+Use a consistent set of units
+TABLE 4;1
+Units for Mass and Force
+System
+Mass
+Force
+SI
+kilogram newton (N) 
+(kg)
+cgs
+gram (g)
+dyne 
+British
+slug
+pound (lb)
+Conversion factors:
+ 
+1 slug L 14.6 kg.
+ 
+1 lb L 4.45 N;
+ 
+1 dyne = 10–5 N;
+A= gcms2B
+A= kgms2B
+†Be careful not to confuse g for gram with g for the acceleration due to gravity. The latter is always
+it

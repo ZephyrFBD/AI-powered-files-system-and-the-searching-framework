@@ -1,0 +1,72 @@
+he emission of a photon. At room
+temperature, unless extra energy is supplied (as in a discharge tube), the vast
+majority of atoms are in the ground state.
+We can continue in this way to describe the quantum numbers of each elec-
+tron in the ground state of larger and larger atoms. The quantum numbers for
+sodium, with its eleven electrons, are shown in Table 28–2.
+EXERCISE E Construct a Table of the ground-state quantum numbers for beryllium,
+(like those in Table 28–2).
+Figure 28–10 shows a simple energy level diagram where occupied states are
+shown as up or down arrows 
+and possible empty states are
+shown as a small circle.
+Ams = ± 1
+2  or – 1
+2B,
+Z = 4
+An, l, ml, msB = A3, 1, –1, 1
+2B.
+n = 2,  l = 1.
+n = 2,  l = 0
+n = 2.
+n = 1
+n = 1.
+ml
+l
+n = 1,
+Ams = – 1
+2B,
+Ams = ± 1
+2B
+n = 1,
+ms.
+l, ml,
+l.
+ms .
+l, ml,
+SECTION 28–7
+Multielectron Atoms; the Exclusion Principle
+815
+TABLE 28–2 Ground-State
+Quantum Numbers
+Helium,
+n
+1
+0
+0
+1
+0
+0
+Lithium,
+n
+1
+0
+0
+1
+0
+0
+2
+0
+0
+Sodium,
+n
+1
+0
+0
+1
+0
+0
+2
+0
+0
+2

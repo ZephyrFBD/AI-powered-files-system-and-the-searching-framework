@@ -1,0 +1,53 @@
+ 60.6°
+2u0
+u0
+sin 2u0 = Rg
+v0
+2
+=
+(320 m)A9.80 ms2B
+(60.0 ms)2
+= 0.871.
+sin 2u0
+R = 320 m.
+R = v0
+2 sin 2u0g,
+60.0 ms.
+v0 ,
+EXAMPLE 3;8
+y = 0 again here
+(where x = R)
+y
+x
+x0 = 0
+y0 = 0
+0
+(b)
+60°
+30°
+y
+x
+(a)
+R
+45°
+θ
+FIGURE 3;25 (a) The range R of a
+projectile. (b) There are generally
+two angles 
+that will give the 
+same range. If one angle is 
+the other is
+Example 3–8.
+u02 = 90° - u01 .
+u01 ,
+u0
+In Example 3–6, we treated the football as if it were a particle, ignoring its
+rotation. We also ignored air resistance. Because air resistance is significant on a
+football, our results are only estimates (mainly overestimates).
+A punt. Suppose the football in Example 3–6 was punted,
+and left the punter’s foot at a height of 1.00 m above the ground. How far did
+the football travel before hitting the ground? Set
+APPROACH The only difference here from Example 3–6 is that the football hits
+the ground below its starting point of
+That is, the ball hits the ground at
+See Fig.3–26. Thus we cannot u

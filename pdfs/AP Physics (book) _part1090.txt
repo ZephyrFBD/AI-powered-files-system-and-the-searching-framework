@@ -1,0 +1,44 @@
+weight”
+of that object—its true weight less the buoyant force.
+TABLE 10–4 Surface T
+ension 
+of Some Substances
+Surface
+Tension 
+Substance
+(N m)
+Mercury (20°C)
+0.44
+Blood, whole (37°C)
+0.058
+Blood, plasma (37°C)
+0.073
+Alcohol, ethyl (20°C)
+0.023
+Water (0°C)
+0.076
+(20°C)
+0.072
+(100°C)
+0.059
+Benzene (20°C)
+0.029
+Soap solution (20°C)
+0.025
+Oxygen 
+0.016 
+(–193°C)
+L
+
+(b)
+(a)
+FIGURE 10–35 (a) Water strider. (b) Paper clip (light coming through window blinds).
+Insect walks on water. The base of an insect’s
+leg is approximately spherical in shape, with a radius of about 
+The 0.0030-g mass of the insect is supported equally by its six legs. Estimate the
+angle (see Fig. 10–36) for an insect on the surface of water. Assume the water
+temperature is 20°C.
+APPROACH Since the insect is in equilibrium, the upward surface tension force
+is equal to the pull of gravity downward on each leg. We ignore buoyant forces
+for this estimate.
+SOLUTION For each leg, we assume the surface tension force acts all ar

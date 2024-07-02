@@ -1,0 +1,83 @@
+OH22COOH (or H2C4H4O6)
+1.0 * 10-3
+TABLE D.2 Dissociation Constants for Bases at 25 °C
+Name
+Formula
+Kb
+Ammonia
+NH3
+1.8 * 10-5
+Aniline
+C6H5NH2
+4.3 * 10-10
+Dimethylamine
+1CH322NH
+5.4 * 10-4
+Ethylamine
+C2H5NH2
+6.4 * 10-4
+Hydrazine
+H2NNH2
+1.3 * 10-6
+Hydroxylamine
+HONH2
+1.1 * 10-8
+Methylamine
+CH3NH2
+4.4 * 10-4
+Pyridine
+C5H5N
+1.7 * 10-9
+Trimethylamine
+1CH323N
+6.4 * 10-5
+TABLE D.3 Solubility-Product Constants for Compounds at 25 °C
+Name
+Formula
+Ksp
+Barium carbonate
+BaCO3
+5.0 * 10-9
+Barium chromate
+BaCrO4
+2.1 * 10-10
+Barium fluoride
+BaF2
+1.7 * 10-6
+Barium oxalate
+BaC2O4
+1.6 * 10-6
+Barium sulfate
+BaSO4
+1.1 * 10-10
+Cadmium carbonate
+CdCO3
+1.8 * 10-14
+Cadmium hydroxide
+Cd1OH22
+2.5 * 10-14
+Cadmium sulfide*
+CdS
+8 * 10-28
+Calcium carbonate (calcite)
+CaCO3
+4.5 * 10-9
+Calcium chromate
+CaCrO4
+4.5 * 10-9
+Calcium fluoride
+CaF2
+3.9 * 10-11
+Calcium hydroxide
+Ca1OH22
+6.5 * 10-6
+Calcium phosphate
+Ca31PO422
+2.0 * 10-29
+Calcium sulfate
+CaSO4
+2.4 * 10-5
+Chromium(III) hydroxide
+Cr1OH23
+6.7 * 10-31
+Cobalt(II) carb

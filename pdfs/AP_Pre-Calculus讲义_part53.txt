@@ -1,0 +1,116 @@
+rounded to five decimal places. 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2 
+An infectious disease begins to spread in a small city of population 10,000. After t days, 
+the number of people who have succumbed to the virus is modeled by the function 
+0.97
+10,000
+( )
+5
+1245
+t
+v t
+e-
+=
++
+ 
+(a) How many infected people are there initially (at time t = 0)? 
+(b) Find the number of infected people after one day, two days, and five days. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3.3 Continuous Compounded Interest  
+ 
+74 
+Let’s see what happens as n increases indefinitely. If we let m = n/r, then 
+1
+( )
+1
+1
+1
+rt
+rt
+nt
+n r
+m
+r
+r
+A t
+P
+P
+P
+n
+n
+m
+é
+ù
+é
+ù
+æ
+ö
+æ
+ö
+æ
+ö
+=
++
+=
++
+=
++
+ê
+ú
+ê
+ú
+ç
+÷
+ç
+÷
+ç
+÷
+è
+ø
+è
+ø
+è
+ø
+ê
+ú
+ê
+ú
+ë
+û
+ë
+û  
+We know that as m becomes large, the quantity (1+1/m)m approaches to e. 
+Thus, the amount approaches A = Pert. 
+Continuously compounded interest is calculated by the formula 
+( )
+rt
+A t
+Pe
+=
+ 
+where A(t) = amount after t years 
+            P = principal 
+            r  = interest rate per year 
+     

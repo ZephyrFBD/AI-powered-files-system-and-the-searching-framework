@@ -1,0 +1,16 @@
+ between 0 and +p. If 
+we square the sine function (bottom graph), we get two peaks that are 
+symmetrical about the origin. Both peaks are positive because squar-
+ing a negative number produces a positive number. In other words, we 
+lose the phase information of the function upon squaring it.
+Like the sine function, the more complicated wave functions 
+for atomic orbitals can also have phases. Consider, for example, 
+the representations of the 1s orbital in Figure 9.38. Note that here 
+we plot this orbital a bit differently from what is shown in Section 
+6.6. The origin is the point where the nucleus resides, and the wave 
+function for the 1s orbital extends from the origin out into space. 
+The plot shows the value of c for a slice taken along the z-axis. Below 
+the plot is a contour representation of the 1s orbital. Notice that the 
+value of the 1s wave function is always a positive number (we show 
+positive values in red in Figure 9.38). Thus, it has only one phase. 
+Notice also that

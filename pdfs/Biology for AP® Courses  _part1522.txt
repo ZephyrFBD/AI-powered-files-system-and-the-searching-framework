@@ -1,0 +1,18 @@
+t the body’s ability to fix mistakes in its DNA decreases as we age. How can this affect DNA
+replication?
+a.
+Aging causes accumulation of DNA mutations and DNA damage of only the nuclear DNA and the mistakes
+will be passed down to new cells causing age related diseases.
+b.
+Aging results in ineffective DNA repair mechanism so that the mistakes in the DNA will be passed down to
+new cells. This could lead to the development of age-related diseases.
+c.
+Aging causes DNA polymerase to function abnormally. This is the sole reason which causes defects in DNA
+replication.
+d.
+DNA replication of only fast growing cells is affected by aging.
+Activity
+Design (but do not implement) an experiment to test the three models of DNA replication. Summarize the
+results you would expect if each of the three models of DNA replication were correct. Assume you have
+access in a laboratory to the following: an experimental organism such as E. coli, an unlimited variety of
+isotopes, test tube and centrifuge, and o

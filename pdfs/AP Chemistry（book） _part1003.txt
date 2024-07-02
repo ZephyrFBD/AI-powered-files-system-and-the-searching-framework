@@ -1,0 +1,16 @@
+heres that increase in size as 
+n increases. The radial probability function tells us the probability that 
+the electron will be found at a certain distance from the nucleus. The 
+wave function for each p orbital has two lobes on opposite sides of 
+the nucleus. They are oriented along the x, y, and z axes. Four of the 
+d orbitals appear as shapes with four lobes around the nucleus; the 
+fifth one, the dz2 orbital, is represented as two lobes along the z axis 
+and a “doughnut” in the xy plane. Regions in which the wave func-
+tion is zero are called nodes. There is zero probability that the electron 
+will be found at a node.
+MANY-ELECTRON ATOMS (SECTION 6.7) In many-electron atoms, 
+different subshells of the same electron shell have different ener-
+gies. For a given value of n, the energy of the subshells increases as 
+the value of l increases: ns 6 np 6 nd 6 nf. Orbitals within the same 
+subshell are degenerate, meaning they have the same energy.
+Electrons have an intrinsic property ca

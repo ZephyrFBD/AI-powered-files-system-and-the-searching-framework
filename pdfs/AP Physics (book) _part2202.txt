@@ -1,0 +1,36 @@
+ee
+Fig. 20–18). The electron moves clockwise in Fig. 20–17. A positive particle in
+this field would feel a force in the opposite direction and would thus move
+counterclockwise.
+a = v2r
+v
+B,
+v
+B
+v
+B,
+Electron’s path in a uniform magnetic field. An electron
+travels at
+in a plane perpendicular to a uniform 0.010-T magnetic
+field. Describe its path quantitatively. Ignore gravity (
+very small in 
+comparison).
+APPROACH The electron moves at speed 
+in a curved path and so must have
+a centripetal acceleration
+(Eq. 5–1). We find the radius of curvature
+using Newton’s second law. The force is given by Eq. 20–3 with 
+SOLUTION We insert F and a into Newton’s second law:
+We solve for r and find
+Since 
+is perpendicular to 
+the magnitude of 
+doesn’t change. From this
+equation we see that if
+then
+and the curve must
+be a circle as we claimed above. To get r we put in the numbers:
+NOTE See Fig. 20–18. If the magnetic field B is larger, is the radius larger or
+smaller?
+r =
+A9.1 * 10–31 kgBA1.5 * 107 ms

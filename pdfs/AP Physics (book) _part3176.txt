@@ -1,0 +1,17 @@
+sphorescent. When an atom is raised to a
+normal excited state, it drops back down within about 
+In phosphorescent
+substances, atoms can be excited by photon absorption to energy levels called
+metastable, which are states that last much longer because to jump down is a
+“forbidden” transition (Section 28–6). Metastable states can last even a few
+seconds or longer. In a collection of such atoms, many of the atoms will descend
+to the lower state fairly soon, but many will remain in the excited state for over
+an hour. Hence light will be emitted even after long periods. When you put a
+luminous watch dial close to a bright lamp, many atoms are excited to metastable
+states, and you can see the glow for a long time afterward.
+28–1
+1 Lasers
+A laser is a device that can produce a very narrow intense beam of monochromatic
+coherent light. (By coherent, we mean that across any cross section of the beam, all
+parts have the same phase.†) The emitted beam is a nearly perfect plane wave.
+An ordinary li

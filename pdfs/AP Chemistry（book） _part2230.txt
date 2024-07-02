@@ -1,0 +1,33 @@
+alf-life for a first-order reaction by substituting 3A4t1>2 = 1
+23A40 for 3A4t and t1>2 for t 
+in Equation 14.12. We find the half-life of a second-order reaction by making the same 
+substitutions into Equation 14.14:
+1
+1
+23A40
+= kt1>2 +
+1
+3A40
+             
+2
+3A40
+-
+1
+3A40
+= kt1>2
+                 t1>2 =
+1
+k3A40
+ 
+[14.19]
+In this case, the half-life depends on the initial concentration of reactant—the lower the 
+initial concentration, the longer the half-life.
+Give It Some Thought
+Does the half-life of a zero-order reaction depend on the initial concentration of the 
+reactant?
+14.5 ∣ Temperature and Rate
+The rates of most chemical reactions increase as the temperature rises. For example, 
+dough rises faster at room temperature than when refrigerated, and plants grow more 
+rapidly in warm weather than in cold. We can see the effect of temperature on reaction 
+rate by observing a chemiluminescence reaction (one that produces light), such as that 
+in Cyalume® light sticks (Figure 14.12).

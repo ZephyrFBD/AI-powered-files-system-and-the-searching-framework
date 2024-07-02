@@ -1,0 +1,16 @@
+s
+could be cooled to 
+it would have zero volume, and at lower tempera-
+tures a negative volume, which makes no sense. It could be argued that 
+is the lowest temperature possible; indeed, many other more recent experiments
+indicate that this is so. This temperature is called the absolute zero of tempera-
+ture. Its value has been determined to be 
+Absolute zero forms the basis of a temperature scale known as the absolute
+scale or Kelvin scale, and it is used extensively in scientific work. On this scale
+the temperature is specified as degrees Kelvin or, preferably, simply as kelv
+vins (K)
+without the degree sign. The intervals are the same as for the Celsius scale, but
+the zero on this scale (0 K) is chosen as absolute zero. Thus the freezing point of
+water (0°C) is 273.15 K, and the boiling point of water is 373.15 K. Indeed, any
+temperature on the Celsius scale can be changed to kelvins by adding 273.15 to it:
+Now let us look at Fig. 13–15b, where the graph of the volume of a gas versu

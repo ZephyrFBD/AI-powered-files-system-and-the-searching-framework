@@ -1,0 +1,37 @@
+ng Guidelines 
+ 
+© 2023 College Board 
+ 
+ 
+ 
+(c) 
+Based on the data in Table 1, identify the yeast strain and growth conditions that lead to 
+the highest relative amount of PHO1 mRNA. 
+• 
+Wild-type yeast in a low-Pi environment 
+1 point 
+ 
+Calculate the percent change in APase activity in wild-type yeast cells in a high-Pi 
+environment compared with that of wild-type cells in a low-Pi environment. 
+Accept one of the following:  
+• 
+3,360%  [(17.3–0.5)/0.5 × 100%] 
+• 
+   -97%  [(0.5–17.3)/17.3 × 100%] 
+1 point 
+ 
+Total for part (c) 
+2 points 
+(d) 
+In a follow-up experiment, researchers created a strain of yeast with a mutation that 
+resulted in a nonfunctional Pho85 protein. Based on Figure 1, predict the effects of this 
+mutation on PHO1 expression in the mutant strain in a high-Pi environment. 
+• 
+It/PHO1/Target genes will be expressed. 
+1 point 
+ 
+ 
+Provide reasoning to justify your prediction. 
+• 
+(In a high-Pi environment) a nonfunctional Pho85 will be unable to 
+phosphorylate/inhi

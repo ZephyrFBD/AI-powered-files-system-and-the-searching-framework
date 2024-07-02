@@ -1,0 +1,20 @@
+n the value of x so that 
+all concentrations are positive? (c) By putting the equilib-
+rium concentrations (in terms of x) into the equilibrium- 
+constant expression, derive an equation that can be 
+solved for x. (d) The equation from part (c) is a cubic equa-
+tion (one that has the form ax3 + bx2 + cx + d = 0). In 
+general, cubic equations cannot be solved in closed form. 
+However, you can estimate the solution by plotting the 
+cubic equation in the allowed range of x that you spec-
+ified in part (b). The point at which the cubic equation 
+crosses the x-axis is the solution. (e) From the plot in part 
+(d), estimate the equilibrium concentrations of A, B, and 
+C. (Hint: You can check the accuracy of your answer by 
+substituting these concentrations into the equilibrium 
+expression.)
+ 15.93 At 1200 K, the approximate temperature of automobile 
+exhaust gases (Figure 15.15), Kp for the reaction
+2 CO21g2 ∆ 2 CO1g2 + O21g2
+is about 1 * 10-13. Assuming that the exhaust gas (total 
+pressure 1

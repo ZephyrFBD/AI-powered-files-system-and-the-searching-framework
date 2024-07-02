@@ -1,0 +1,13 @@
+ them toward each other. In 
+this case Eel is negative, and the potential energy increases (becomes less negative) as 
+the particles move apart.
+To understand the relationship between electrostatic potential energy and the 
+energy stored in chemical bonds, it is instructive to consider an ionic compound like 
+NaCl. The Na+ cations and Cl- anions are held together by the electrostatic attraction 
+between the oppositely charged ions. In chemistry we refer to this force as ionic bond-
+ing. We’ll go into the details of ionic bonding in Chapter 8, but for now it is sufficient to 
+understand that the ionic bonds that hold sodium and chloride ions together are based 
+on the electrostatic attraction between cations and anions. To separate the ions, we must 
+overcome, or break, the ionic bonds between Na+ and Cl-, increasing the potential energy, 
+as illustrated in Figure 5.3. The energy to do this must come from some other source. The 
+reverse process where ions separated by a large distance a

@@ -1,0 +1,41 @@
+L 20 C
+0.2 s
+= 100 A.
+Q =
+¢pe
+¢V
+L
+109 J
+5 * 107 V = 20 coulombs.
+¢pe = Q ¢V.
+Qt
+¢pe L 109 J.
+¢pe
+¢V
+5 * 107 V
+109 J
+EXAMPLE 18;10
+ESTIMATE
+512
+CHAPTER 18
+Electric Currents
+P H Y S I C S  A P P L I E D
+Lightning
+P H Y S I C S  A P P L I E D
+Safety—wires getting hot
+P H Y S I C S  A P P L I E D
+Fuses, circuit breakers, and shorts
+FIGURE 18–18 Example 18–10.
+A lightning bolt.
+EXERCISE H Since
+how much mass must be lifted against gravity
+through one meter to do the equivalent amount of work?
+1 kWh = 3.6 * 106 J,
+18–6 Power in Household Circuits
+The electric wires that carry electricity to lights and other electric appliances in
+houses and buildings have some resistance, although usually it is quite small.
+Nonetheless, if the current is large enough, the wires will heat up and produce
+thermal energy at a rate equal to 
+where R is the wire’s resistance. One possi-
+ble hazard is that the current-carrying wires in the wall of a building may become
+so hot as to start a fire. Thicker wires hav

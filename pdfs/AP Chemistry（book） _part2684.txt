@@ -1,0 +1,31 @@
+= 3F-4
+This F- concentration is substantially smaller than it would be 
+in a 0.20 M solution of HF with no added HCl. The common 
+ion, H+, suppresses the ionization of HF. The concentration of 
+H+1aq2 is:
+3H+4 = 10.10 + x2 M ≃0.10 M
+Thus,
+pH = 1.00
+Comment Notice that for all practical purposes, the hydrogen ion 
+concentration is due entirely to the HCl; the HF makes a negligible 
+contribution by comparison.
+ 
+▶Practice Exercise 1
+Calculate the concentration of the lactate ion in a solu-
+tion that is 0.100 M in lactic acid 1CH3CH(OH2COOH, 
+pKa = 3.86) and 0.080 M in HCl.
+(a) 4.83 M    (b) 0.0800 M 
+(c) 7.3 * 10-3 M (d) 3.65 * 10-3 M 
+(e) 1.73 * 10-4 M
+ 
+▶Practice Exercise 2
+Calculate the formate ion concentration and pH of a solution 
+that is 0.050 M in formic acid 1HCOOH, Ka = 1.8 * 10-42 
+and 0.10 M in HNO3.
+ 
+SECTION 17.2   
+Buffers 
+721
+17.2 ∣ Buffers
+Solutions that contain high concentrations (10-3 M or more) of a weak conjugate 
+acid–base pair and that resist drastic changes in p

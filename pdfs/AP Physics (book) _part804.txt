@@ -1,0 +1,28 @@
+s related to the tan-
+gential linear acceleration 
+of a point in the rotating object by
+or (using Eq. 8–3)
+(8;5)
+In this equation, r is the radius of the circle in which the particle is moving, and
+the subscript “tan” in 
+stands for “tangential.”
+atan
+atan = ra.
+atan =
+¢v
+¢t
+= r ¢v
+¢t
+atan
+a
+(v = rv)
+Is the lion faster than the horse? On a
+rotating carousel or merry-go-round, one child sits on a horse near the outer
+edge and another child sits on a lion halfway out from the center. (a) Which child
+has the greater linear velocity? (b) Which child has the greater angular velocity?
+RESPONSE (a) The linear velocity is the distance traveled divided by the time
+interval. In one rotation the child on the outer edge travels a longer distance
+than the child near the center, but the time interval is the same for both. Thus the
+child at the outer edge, on the horse, has the greater linear velocity.
+(b) The angular velocity is the angle of rotation of the carousel as a whole divided
+by the time in

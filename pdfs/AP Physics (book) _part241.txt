@@ -1,0 +1,21 @@
+–3),
+whereas 
+equals 15 km,
+which is the total distance traveled. Note also that we cannot set 
+equal to
+11.2 km, because we have a vector equation and 11.2 km is only a part of the
+resultant vector, its magnitude. We could write something like this, though:
+Figure 3–3 illustrates the general rules for graphically adding two vectors
+together, no matter what angles they make, to get their sum. The rules are as
+follows:
+1. On a diagram, draw one of the vectors—call it 
+—to scale.
+2. Next draw the second vector,
+to scale, placing its tail at the tip of the 
+first vector and being sure its direction is correct.
+3. The arrow drawn from the tail of the first vector to the tip of the second
+vector represents the sum, or resultant, of the two vectors.
+The length of the resultant vector represents its magnitude. Note that vectors can
+be moved parallel to themselves on paper (maintaining the same length and
+angle) to accomplish these manipulations. The length of the resultant can be 
+measured wi

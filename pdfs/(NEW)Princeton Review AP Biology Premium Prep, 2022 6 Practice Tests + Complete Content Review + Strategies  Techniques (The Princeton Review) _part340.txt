@@ -1,0 +1,10 @@
+anscription later in the chapter.
+Because RNA is single-stranded, we have to copy only one of the two DNA strands. The strand that serves as the
+template is known as the antisense strand, the non-coding strand, minus-strand, or the template strand. The
+other strand that lies dormant is the sense strand, or the coding strand.
+Just as DNA polymerase builds DNA, RNA polymerase builds RNA, and just like DNA polymerase, RNA
+polymerase adds nucleotides only to the 3’ side, therefore building a new molecule from 5’ to 3’. This means that
+RNA polymerase must bind to the 3’ end of the template strand first (which would be the 5’ end of future mRNA).
+RNA polymerase doesn’t need a primer, so it can just start transcribing the DNA right off the bat. The promoter
+region is considered to be “upstream” of the actual coding part of the gene. This way the polymerase can get set up
+before the bases it needs to transcribe, like a staging area before an official parade starting point. The official startin

@@ -1,0 +1,34 @@
+reases 
+the solubility. However, the effect of F- on the solubility is more 
+pronounced than that of Ca2 +  because 3F-4 appears to the second 
+power in the Ksp expression for CaF2, whereas 3Ca2 +4 appears to 
+the first power.
+ 
+▶Practice Exercise 1
+Consider a saturated solution of the salt MA3, in which M is 
+a metal cation with a 3+ charge and A is an anion with a 1- 
+charge, in water at 298 K. Which of the following will affect 
+the Ksp of MA3 in water?
+(a) The addition of more M3 +  to the solution. (b) The addition 
+of more A- to the solution. (c) Diluting the solution. (d) Raising 
+the temperature of the solution. (e) More than one of the above 
+factors.
+ 
+▶Practice Exercise 2
+For manganese(II) hydroxide, Mn1OH22, Ksp = 1.6 * 10-13. 
+Calculate the molar solubility of Mn1OH22 in a solution that 
+contains 0.020 M NaOH.
+CaF21s2 ∆ Ca2 +1aq2 + 2 F-1aq2
+Initial Concentration (M)
+—
+0.010
+0
+Change (M)
+—
++x
++2x
+Equilibrium Concentration (M)
+—
+10.010 + x2
+2x
+Substituting into the solubilit

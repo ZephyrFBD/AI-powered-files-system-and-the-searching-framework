@@ -1,0 +1,12 @@
+por pressure is the pressure exerted by the vapor when it is at equilibrium with the liquid (that 
+is, when the rate of vaporization equals the rate of condensation). A substance that has no 
+measurable vapor pressure is nonvolatile, whereas one that exhibits a vapor pressure is volatile.
+A solution consisting of a volatile liquid solvent and a nonvolatile solute forms spon-
+taneously because of the increase in entropy that accompanies their mixing. In effect, 
+the solvent molecules are stabilized in their liquid state by this process and thus have a 
+lower tendency to escape into the vapor state. Therefore, when a nonvolatile solute is pres-
+ent, the vapor pressure of the solvent is lower than the vapor pressure of the pure solvent, 
+as illustrated in Figure 13.18.
+Ideally, the vapor pressure of a volatile solvent above a solution containing a nonvol-
+atile solute is proportional to the solvent’s concentration in the solution. This relation-
+ship is expressed quantitatively by Raoult’

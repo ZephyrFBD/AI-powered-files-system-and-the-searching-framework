@@ -1,0 +1,58 @@
+r2 = 15.0 cm.
+EXAMPLE 23;4
+di 6 0
+do
+di
+ho
+hi
+m =
+hi
+ho
+=
+– di
+do
+.
+SECTION 23–3
+Formation of Images by Spherical Mirrors
+653
+P R O B L E M  S O L V I N G
+Sign conventions for mirrors
+C A U T I O N
+Remember to take the reciprocal
+†
+is always positive for a real object;
+can happen only if the object is an image formed by
+another mirror or lens—see Example 23–16.
+do 6 0
+do
+O
+2
+A
+C
+F
+I
+3
+1
+3
+2
+1
+FIGURE 23–17 Object placed within the focal
+point F. The image is behind the mirror and is
+virtual, Example 23–6. [Note that the vertical scale
+(height of 
+) is different from the
+horizontal
+for ease of drawing,
+and reduces the precision of the drawing.]
+(OA = 10.0 cm)
+object = 1.0 cm
+654
+CHAPTER 23
+Light: Geometric Optics
+P H Y S I C S  A P P L I E D
+Magnifying mirror:
+Seeing yourself upright and
+magnified in a concave mirror
+Object closer to concave mirror than focal point.
+A 1.00-cm-high object is placed 10.0 cm from a concave mirror whose radius of cur-
+vature is 30.0 cm. (a) Draw a ray diagr

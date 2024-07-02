@@ -1,0 +1,16 @@
+t STP.
+Which gas deviates most from ideal behavior?
+In deriving the ideal-gas equation, we make two assumptions:
+• the molecules of an ideal gas do not interact with one another,
+•  
+the combined volume of the molecules is much smaller than the volume the gas 
+occupies.
+For these reasons, we consider the molecules as taking up no space in the container. In 
+many cases, the small error introduced by these assumptions is acceptable. If more accu-
+rate calculations are needed, we can correct for the assumptions if we know something 
+about the attraction molecules have for one another and the size of the molecules.
+The term R in the ideal-gas equation is the gas constant. The value and units of R 
+depend on the units of P, V, n, and T. The value for T in the ideal-gas equation must always 
+be the absolute temperature (in kelvins instead of degrees Celsius). The quantity of gas, n, 
+is normally expressed in moles. The units chosen for pressure and volume are most often 
+atmospheres and lite

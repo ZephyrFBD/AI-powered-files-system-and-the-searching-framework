@@ -1,0 +1,16 @@
+s “contact forces,” such as your hands
+pushing or pulling a cart, or a tennis racket hitting a tennis ball.
+In contrast, both the gravitational force and the electrical force act over a dis-
+tance: there is a force between two objects even when the objects are not touching.
+The idea of a force acting at a distance was a difficult one for early thinkers.
+Newton himself felt uneasy with this idea when he published his law of universal
+gravitation. A helpful way to look at the situation uses the idea of the field, devel-
+oped by the British scientist Michael Faraday (1791–1867). In the electrical case,
+according to Faraday, an electric field extends outward from every charge and
+permeates all of space (Fig. 16–22). If a second charge (call it 
+) is placed near
+the first charge, it feels a force exerted by the electric field that is there (say, at
+point P in Fig. 16–22). The electric field at point P is considered to interact directly
+with charge 
+to produce the force on 
+We can in princip

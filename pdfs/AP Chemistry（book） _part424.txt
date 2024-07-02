@@ -1,0 +1,28 @@
+ook 
+them up in tables (such as atomic weights). Recognize also that 
+your plan may involve either a single step or a series of steps with 
+intermediate answers.
+3.  
+Solve the problem. Use the known information and suitable 
+ 
+equations or relationships to solve for the unknown. Dimen-
+sional analysis 
+ (Section 1.7) is a useful tool for solving a 
+great number of problems. Be careful with significant figures, 
+signs, and units.
+4.  
+Check the solution. Read the problem again to make sure you 
+have found all the solutions asked for in the problem. Does your 
+answer make sense? That is, is the answer outrageously large or 
+small or is it in the ballpark? Finally, are the units and significant 
+figures correct?
+StrategieS for SucceSS Problem Solving
+ 
+Sample Exercise 3.6
+Calculating Percentage Composition
+Calculate the percentage of carbon, hydrogen, and oxygen (by mass) in C12H22O11.
+ 
+▶Practice Exercise 1
+What is the percentage of nitrogen, by mass, in calcium  
+nitrate?  
+(a) 8.54% (

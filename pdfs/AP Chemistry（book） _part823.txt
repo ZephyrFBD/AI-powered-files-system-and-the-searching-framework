@@ -1,0 +1,29 @@
+e an expression 
+for the difference in energy between State C and State D. 
+ 
+(d) Suppose there is another state of the system, State E, 
+and its energy relative to State A is ∆E = ∆E1 + ∆E4. Where 
+would State E be on the diagram? [Section 5.2]
+State C
+State A
+State D
+State B
+Internal energy, E
+DE2
+DE4
+DE3
+DE1
+ 
+5.7 You may have noticed that when you compress the air in 
+a bicycle pump, the body of the pump gets warmer. (a) 
+Assuming the pump and the air in it comprise the system, 
+what is the sign of w when you compress the air? (b) What 
+is the sign of q for this process? (c) Based on your answers to 
+parts (a) and (b), can you determine the sign of ∆E for com-
+pressing the air in the pump? If not, what would you expect 
+for the sign of ∆E? What is your reasoning? [Section 5.2]
+ 
+5.8 Imagine a container placed in a tub of water, as depicted in 
+the accompanying diagram. (a) If the contents of the con-
+tainer are the system and heat is able to flow through the 
+container walls, what 

@@ -1,0 +1,35 @@
+
+Its Conservation
+If we can ignore friction and other nonconservative forces, or if only conservative
+forces do work on a system, we arrive at a particularly simple and beautiful rela-
+tion involving energy.
+When no nonconservative forces do work, then  
+in the general form
+of the work-energy principle (Eq. 6–10). Then we have
+(6;11a)
+or
+(6;11b)
+We now define a quantity E, called the total mechanical energy of our system, as
+the sum of the kinetic and potential energies at any moment:
+Now we can rewrite Eq. 6–11b as
+(6;12a)
+or
+(6;12b)
+Equations 6–12 express a useful and profound principle regarding the total
+mechanical energy of a system—namely, that it is a conserved quantity. The total
+mechanical energy E remains constant as long as no nonconservative forces do
+work:
+at some initial time 1 is equal to the
+at any later time 2.
+ke + pe
+ke + pe
+cconservative
+forces only d
+E2 = E1 = constant.
+cconservative
+forces only d
+ke2 + pe2 = ke1 + pe1
+E = ke + pe.
+cconservative
+forces only d
+Ake2 

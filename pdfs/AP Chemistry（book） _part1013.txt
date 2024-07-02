@@ -1,0 +1,34 @@
+oton emitted for each 
+transition.
+ 
+ (c)  
+Calculate the wavelength of the photon emitted for each 
+transition. Do any of these transitions lead to the emis-
+sion of visible light? If so which one(s)? [Section 6.3]
+ 
+6.8  Consider a ﬁctitious one-dimensional system with one elec-
+tron. The wave function for the electron, drawn below, is 
+c1x2 = sin x from x = 0 to x = 2p. (a) Sketch the probabili-
+ty density, c21x2, from x = 0 to x = 2p. (b) At what value or 
+values of x will there be the greatest probability of ﬁnding the 
+electron? (c) What is the probability that the electron will 
+be found at x = p? What is such a point in a wave function 
+called? [Section 6.5]
+0
+0
+2p
+p
+x
+y
+z
+ 
+6.9  The contour representation 
+of one of the orbitals for the 
+n = 3 shell of a hydrogen atom 
+is shown here. (a) What is the 
+quantum number l for this 
+orbital? (b) How do we label this 
+orbital? (c) In which of the fol-
+lowing ways would you modify 
+this sketch if the value of the 
+magnetic quantum num

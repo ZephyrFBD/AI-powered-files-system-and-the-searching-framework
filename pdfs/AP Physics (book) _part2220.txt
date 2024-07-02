@@ -1,0 +1,14 @@
+ent in each loop produces a magnetic field, as we saw in Fig. 20–9. The
+magnetic field within a solenoid can be fairly large because it is the sum of the fields
+due to the current in each loop (Fig. 20–28). A solenoid acts like a magnet; one end
+can be considered the north pole and the other the south pole, depending on the direc-
+tion of the current in the loops (use the right-hand rule). Since the magnetic field
+lines leave the north pole of a magnet, the north pole of the solenoid in Fig. 20–28 is
+on the right. As we will see in the next Section, the magnetic field inside a tightly
+wrapped solenoid with N turns of wire in a length 
+each carrying current I, is
+(20;8)
+If a piece of iron is placed inside a solenoid, the magnetic field is increased
+greatly because the iron becomes a magnet. The resulting magnetic field is the sum
+of the field due to the current and the field due to the iron, and can be hundreds or
+thousands of times the field due to the current alone (see Section 20–12)

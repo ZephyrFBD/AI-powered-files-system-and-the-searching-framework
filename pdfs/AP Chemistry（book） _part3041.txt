@@ -1,0 +1,23 @@
+  
+the 2-mol sample has twice the number of microstates and  
+twice the entropy. (c) The HCl system has the higher entropy 
+because the number of ways in which an HCl molecule can store 
+energy is greater than the number of ways in which an Ar atom can 
+store energy. (Molecules can rotate and vibrate; atoms cannot.)
+ 
+▶Practice Exercise 1
+Which system has the greatest entropy? (a) 1 mol of H21g2 
+at STP (b) 1 mol of H21g2 at 100 °C and 0.5 atm (c) 1 mol of 
+H2O1s2 at 0 °C (d) 1 mol of H2O1l2 at 25 °C
+ 
+▶Practice Exercise 2
+Choose the system with the greater entropy in each case:
+(a) 1 mol of H21g2 at STP or 1 mol of SO21g2 at STP
+, (b) 1 mol 
+of N2O41g2 at STP or 2 mol of NO21g2 at STP
+.
+The Third Law of Thermodynamics
+If we decrease the thermal energy of a system by lowering the temperature, the energy 
+stored in translational, vibrational, and rotational motion decreases. As less energy is 
+stored, the entropy of the system decreases because it has fewer and fewer microstates 
+availa

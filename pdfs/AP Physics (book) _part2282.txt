@@ -1,0 +1,27 @@
+of charge q moves in a circular path of radius r
+perpendicular to a uniform magnetic field B. Determine its
+linear momentum in terms of the quantities given.
+69. An airplane has acquired a net charge of 
+If 
+the Earth’s magnetic field of 
+is perpendicular
+to the airplane’s velocity of magnitude 
+determine
+the force on the airplane.
+70. A 32-cm-long solenoid, 1.8 cm in diameter, is to produce a
+0.050-T magnetic field at its center. If the maximum current
+is 6.4 A, how many turns must the solenoid have?
+71. Near the equator, the Earth’s magnetic field points 
+almost horizontally to the north and has magnitude
+What should be the magnitude and
+direction for the velocity of an electron if its weight is to be
+exactly balanced by the magnetic force?
+72. A doubly charged helium atom,
+whose mass is
+is accelerated by a voltage of 3200 V.
+(a) What will be its radius of curvature in a uniform
+0.240-T field? (b) What is its period of revolution?
+6.6 * 10–27 kg,
+B = 0.50 * 10–4 T.
+120 ms,
+5.0 * 10–

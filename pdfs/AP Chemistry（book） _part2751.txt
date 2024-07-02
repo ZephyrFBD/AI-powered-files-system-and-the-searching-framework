@@ -1,0 +1,16 @@
+so for the reasons indicated in “A 
+Closer Look: Limitations of Solubility Products” at the end of 
+this section. Agreement between the measured solubility and 
+that calculated from Ksp is usually best for salts whose ions have 
+low charges (1+ and 1-) and do not react with water.
+*This is strictly true only for very dilute solutions, for Ksp values change somewhat when the con-
+centration of ionic substances in water is increased. However, we will ignore these effects, which 
+are taken into consideration only for work that requires exceptional accuracy.
+ 
+SECTION 17.4   
+Solubility Equilibria 
+741
+Solid silver chromate is added to pure water at 25 °C, and some of the solid remains undissolved. The mixture is stirred for 
+several days to ensure that equilibrium is achieved between the undissolved Ag2CrO41s2 and the solution. Analysis of the 
+equilibrated solution shows that its silver ion concentration is 1.3 * 10-4 M. Assuming that the Ag2CrO4 solution is saturated 
+and that there are

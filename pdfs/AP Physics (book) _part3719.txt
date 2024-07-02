@@ -1,0 +1,37 @@
+ght
+have very slightly positive or very slightly negative curvature.
+Black Holes
+According to Einstein’s theory of general relativity (sometimes abbreviated GR),
+space-time is curved near massive objects. We might think of space as being 
+like a thin rubber sheet: if a heavy weight is placed on the sheet, it sags 
+as shown in Fig. 33–19a (top of next page). The weight corresponds to a 
+huge mass that causes space (space itself!) to curve. Thus, in the context of 
+2pr,
+2p.
+2pr,
+C = 2pr.
+962
+CHAPTER 33
+Astrophysics and Cosmology
+FIGURE 33–17 On a spherical surface 
+(a two-dimensional world) a circle of
+circumference C is drawn (red) about point O
+as the center. The radius of the circle (not the
+sphere) is the distance r along the surface.
+(Note that in our three-dimensional view, we 
+can tell that 
+Since 
+then
+)
+C 6 2pr.
+r 7 a,
+C = 2pa.
+FIGURE 33–18 Example of a 
+two-dimensional surface with
+negative curvature.
+O
+a
+C
+r
+C
+general relativity† we do not speak of the “force” of gravity actin

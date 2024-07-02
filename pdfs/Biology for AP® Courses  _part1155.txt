@@ -1,0 +1,12 @@
+other proteins.
+Phosphorylation activates the protein by changing its shape. The proteins phosphorylated by Cdks are involved in advancing
+the cell to the next phase. (Figure 10.13). The levels of Cdk proteins are relatively stable throughout the cell cycle; however,
+the concentrations of cyclin fluctuate and determine when Cdk/cyclin complexes form. The different cyclins and Cdks bind
+at specific points in the cell cycle and thus regulate different checkpoints.
+Chapter 10 | Cell Reproduction
+423
+Figure 10.13 Cyclin-dependent kinases (Cdks) are protein kinases that, when fully activated, can phosphorylate and
+thus activate other proteins that advance the cell cycle past a checkpoint. To become fully activated, a Cdk must bind
+to a cyclin protein and then be phosphorylated by another kinase.
+Since the cyclic fluctuations of cyclin levels are based on the timing of the cell cycle and not on specific events, regulation
+of the cell cycle usually occurs by either the Cdk molecules alone or 

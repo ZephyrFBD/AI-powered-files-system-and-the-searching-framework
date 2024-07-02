@@ -1,0 +1,22 @@
+y the first few decimal places). This number
+is designated by the Greek letter 
+It is the constant of proportionality for the
+relationship
+To obtain an equation, we insert 
+into the proportion 
+and change the
+to 
+Thus,
+Other kinds of proportionality occur as well. For example, the area of a
+circle is proportional to the square of its radius. That is, if the radius is doubled,
+the area becomes four times as large; and so on. In this case we can write
+where A stands for the area and r for the radius of the circle. The
+constant of proportionality is found to be 
+again:
+Sometimes two quantities are related in such a way that an increase in one
+leads to a proportional decrease in the other. This is called inverse proportion.
+For example, the time required to travel a given distance is inversely propor-
+tional to the speed of travel. The greater the speed, the less time it takes. We can
+write this inverse proportion as 
+time
+The larger the denominator of a fraction, the lower the value of th

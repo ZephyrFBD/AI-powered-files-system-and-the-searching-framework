@@ -1,0 +1,39 @@
+2A, and 3A to contain 1+, 2+, and 3+ cations, 
+respectively, and we usually expect ionic compounds of the representative nonmetals of 
+groups 5A, 6A, and 7A to contain 3-, 2-, and 1- anions, respectively.
+834
+910
+788
+732
+682
+788
+701
+691
+657
+LiCl
+NaF
+NaCl NaBr
+NaI
+NaCl
+KCl
+RbCl
+CsCl
+Increasing cation radius
+Lattice energy (kJ/mol)
+Lattice energy (kJ/mol)
+Increasing anion radius
+▲ Figure 8.5 Periodic trends in lattice energy as a function of cation or anion radius.
+Go Figure
+Using this figure, find the most likely range of values for the 
+lattice energy of KF.
+ 
+SECTION 8.2   
+Ionic Bonding 
+305
+Lattice energies cannot be determined directly by experiment. They 
+can, however, be calculated by envisioning the formation of an ionic 
+compound as occurring in a series of well-defined steps. We can then 
+use Hess’s law 
+ (Section 5.6) to combine the steps in a way that 
+gives the lattice energy for the compound. By so doing, we construct 
+a Born–Haber cycle, a thermochemical cycle named after

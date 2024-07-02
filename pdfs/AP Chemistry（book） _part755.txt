@@ -1,0 +1,26 @@
+ve It Some Thought
+What effect do these changes have on ∆H for a reaction:
+(a) Reversing the reaction
+(b) Multiplying the coefficients of the equation for the reaction by 2?
+Go Figure
+What process corresponds to the  
+-88 kJ enthalpy change?
+CO2(g) 1 2 H2O(l)
+2890 kJ
+2802 kJ
+288 kJ
+CH4(g) 1 2 O2(g)
+CO2(g) 1 2 H2O(g)
+Enthalpy
+▲ Figure 5.21 Enthalpy diagram for  
+combustion of 1 mol of methane. The enthalpy  
+change of the one-step reaction equals the sum  
+of the enthalpy changes of the reaction run in  
+two steps: -890 kJ = -802 kJ + 1-88 kJ2.
+The net equation is
+CH41g2 + 2 O21g2 ¡  CO21g2 + 2 H2O1l2 ∆H = -890 kJ
+Hess’s law states that if a reaction is carried out in a series of steps, ∆H 
+for the overall reaction equals the sum of the enthalpy changes for the individ-
+ual steps. The overall enthalpy change for the process is independent of 
+the number of steps and independent of the path by which the reaction 
+is carried out. This law is a consequence of the fact that enthalpy is a st

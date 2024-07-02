@@ -1,0 +1,13 @@
+ changing flux through the coil induces an emf in the coil, produc-
+ing a current. This induced current produces its own magnetic field. In Fig. 21–2a
+the distance between the coil and the magnet decreases. The magnet’s magnetic
+field (and number of field lines) through the coil increases, and therefore the flux
+increases. The magnetic field of the magnet points upward. To oppose the upward
+increase, the magnetic field produced by the induced current needs to point 
+downward inside the coil. Thus, Lenz’s law tells us the current moves as shown in
+Fig. 21–2a (use the right-hand rule). In Fig. 21–2b, the flux decreases (because the
+magnet is moved away and B decreases), so the induced current in the coil produces
+an upward magnetic field through the coil that is “trying” to maintain the status
+quo. Thus the current in Fig. 21–2b is in the opposite direction from Fig. 21–2a.
+It is important to note that an emf is induced whenever there is a change in
+flux through the coil, and we now cons

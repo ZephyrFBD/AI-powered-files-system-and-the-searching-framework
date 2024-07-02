@@ -1,0 +1,16 @@
+ng electrolyte that provides an ion common 
+to the equilibrium (the common-ion effect).
+BUFFERS (SECTION 17.2) A particularly important type of 
+acid–base mixture is that of a weak conjugate acid–base pair that 
+functions as a buffered solution (buffer). Addition of small amounts 
+of a strong acid or a strong base to a buffered solution causes only 
+small changes in pH because the buffer reacts with the added 
+acid or base. (Strong acid–strong base, strong acid–weak base, and 
+weak acid–strong base reactions proceed essentially to comple-
+tion.) Buffered solutions are usually prepared from a weak acid 
+and a salt of that acid or from a weak base and a salt of that base. 
+Two important characteristics of a buffered solution are its buffer 
+capacity and its pH range. The optimal pH of a buffer is equal to 
+pKa (or pKb) of the acid (or base) used to prepare the buffer. The 
+relationship between pH, pKa, and the concentrations of an acid 
+and its conjugate base can be expressed by the Hend

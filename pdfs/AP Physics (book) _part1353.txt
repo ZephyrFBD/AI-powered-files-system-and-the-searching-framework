@@ -1,0 +1,30 @@
+school of
+tuna on a foggy day. Without warning, an engine backfire
+occurs on another boat 1.55 km away (Fig. 12–33). How
+much time elapses
+before the backfire is
+heard (a) by the fish,
+and 
+(b) 
+by 
+the
+fishermen?
+1560 ms
+vsound = 343 ms
+T = 20°C
+12. (II) A person standing a certain distance from an airplane
+with four equally noisy jet engines is experiencing a sound
+level of 140 dB. What sound level would this person expe-
+rience if the captain shut down all but one engine? [Hint:
+Add intensities, not dBs.]
+13. (II) One CD player is said to have a signal-to-noise ratio 
+of 82 dB, whereas for a second CD player it is 98 dB. What
+is the ratio of intensities of the signal and the background
+noise for each device?
+14. (II) A 55-dB sound wave strikes an eardrum whose area 
+is
+(a) How much energy is received by the
+eardrum per second? (b) At this rate, how long would it
+take your eardrum to receive a total energy of 1.0 J?
+15. (II) At a rock concert, a dB meter registered 130 dB when
+plac

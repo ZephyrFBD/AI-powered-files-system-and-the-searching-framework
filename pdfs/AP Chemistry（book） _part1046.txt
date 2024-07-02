@@ -1,0 +1,29 @@
+hydrogen-like ions—ions that 
+have only one electron, such as He +  and Li2 +. (a) Why is 
+the Bohr model applicable to He +  ions but not to neutral He 
+ 
+atoms? (b) The ground-state energies of H, He +, and Li2 +  are 
+tabulated as follows:
+Atom or ion
+H
+He +
+Li2 +
+Ground-state 
+energy
+-2.18 * 10 - 18 J
+-8.72 * 10 - 18 J
+-1.96 * 10 - 17 J
+ 
+ By examining these numbers, propose a relationship between 
+the ground-state energy of hydrogen-like systems and the 
+ 
+nuclear charge, Z. (c) Use the relationship you derive in part 
+(b) to predict the ground-state energy of the C5 +  ion.
+ [6.95]  An electron is accelerated through an electric potential to 
+a kinetic energy of 2.15 * 10-15 J. What is its characteristic 
+wavelength? [Hint: Recall that the kinetic energy of a moving 
+object is E = 1
+2 mv2, where m is the mass of the object and n is 
+the speed of the object.]
+ 6.96  In the television series Star Trek, the transporter beam is a 
+device used to “beam down” people from the Starship E

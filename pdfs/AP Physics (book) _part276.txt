@@ -1,0 +1,19 @@
+m
++ x
++ y
+FIGURE 3;22 Example 3–5.
+A kicked football. A kicked football leaves the ground at
+an angle  
+with a velocity of 
+as shown in Fig. 3–23. Calculate
+(a) the maximum height, (b) the time of travel before the football hits the ground,
+and (c) how far away it hits the ground. Assume the ball leaves the foot at ground
+level, and ignore air resistance and rotation of the ball.
+APPROACH This may seem difficult at first because there are so many questions.
+But we can deal with them one at a time. We take the y direction as positive
+upward, and treat the x and y motions separately. The total time in the air is again
+determined by the y motion. The x motion occurs at constant velocity. The y com-
+ponent of velocity varies, being positive (upward) initially, decreasing to zero at
+the highest point, and then becoming negative as the football falls.
+SOLUTION We resolve the initial velocity into its components (Fig. 3–23):
+(a) To find the maximum height, we consider a time interval that beg

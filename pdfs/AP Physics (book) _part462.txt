@@ -1,0 +1,22 @@
+ in the path for uniform circular motion 
+(Fig. 5–3). This is another example that illustrates the error in thinking that 
+acceleration and velocity are always in the same direction. For an object falling 
+in a vertical path,
+and are indeed parallel. But in uniform circular motion,
+and 
+are perpendicular, not parallel (nor were they parallel in projectile motion,
+Section 3–5).
+Circular motion is often described in terms of the frequency f, the number of
+revolutions per second. The period T of an object revolving in a circle is the time
+required for one complete revolution. Period and frequency are related by
+(5;2)
+For example, if an object revolves at a frequency of 
+then each revolution
+takes
+An object revolving in a circle (of circumference 
+) at constant
+speed v travels a distance 
+in one revolution which takes a time T. Thus
+Acceleration of a revolving ball. A 150-g ball at the end of
+a string is revolving uniformly in a horizontal circle of radius 0.600 m, as 
+in Fig. 5–1 or 5–3. 

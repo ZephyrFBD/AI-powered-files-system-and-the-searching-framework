@@ -1,0 +1,30 @@
+t exist. Other elements can form chains and rings, but these bonds are 
+4A
+6
+C
+14
+Si
+32
+Ge
+50
+Sn
+82
+Pb
+ 
+SECTION 22.10   
+The Other Group 4A Elements: Si, Ge, Sn, and Pb 
+973
+far less important in the chemistries of these other elements. The Si¬Si bond strength 
+1226 kJ>mol2, for example, is much lower than the Si¬O bond strength 1386 kJ>mol2. 
+As a result, the chemistry of silicon is dominated by the formation of Si¬O bonds, and 
+Si¬Si bonds play a minor role.
+Occurrence and Preparation of Silicon
+Silicon is the second most abundant element, after oxygen, in Earth’s crust. It occurs 
+in SiO2 and in an enormous variety of silicate minerals. The element is obtained by the 
+reduction of molten silicon dioxide with carbon at high temperature:
+ 
+SiO21l2 + 2 C1s2 ¡ Si1l2 + 2 CO1g2 
+[22.66]
+Elemental silicon has a diamond-like structure. Crystalline silicon is a gray metallic- 
+looking solid that melts at 1410 °C. The element is a semiconductor, as we saw in Chap-
+ters 7 and 12, and is used 

@@ -1,0 +1,21 @@
+cell edge, we can cube it to determine its volume.
+Solve
+(a) The crystal structure of rubidium iodide looks just like NaCl 
+with Rb+ ions replacing Na+ and I- ions replacing Cl-. From 
+the views of the NaCl structure in Figures 12.25 and 12.26, we 
+see that there is an anion at each corner of the unit cell and at 
+the center of each face. From Table 12.1 we see that the ions 
+sitting on the corners are equally shared by eight unit cells  
+( 1
+8 ion per unit cell), while those ions sitting on the faces are 
+equally shared by two unit cells ( 1
+2 ion per unit cell). A cube 
+has eight corners and six faces, so the total number of I- ions 
+is 8 11
+82 + 6 11
+22 = 4 per unit cell.
+(b) Using the same approach for the rubidium cations, we see 
+that there is a rubidium ion on each edge and one at the cen-
+ter of the unit cell. Using Table 12.1 again, we see that the ions 
+sitting on the edges are equally shared by four unit cells (1/4 
+ion per unit cell), whereas the cation at the center of the

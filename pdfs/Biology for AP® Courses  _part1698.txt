@@ -1,0 +1,14 @@
+lps to establish the initiation site for
+transcription
+strand of DNA that specifies the complementary mRNA molecule
+region of locally unwound DNA that allows for transcription of mRNA
+nucleotides preceding the initiation site; in general, sequences toward the 5' end relative to a site on the mRNA
+CHAPTER SUMMARY
+15.1 The Genetic Code
+The genetic code refers to the DNA alphabet (A, T, C, G), the RNA alphabet (A, U, C, G), and the polypeptide alphabet
+(20 amino acids). The Central Dogma describes the flow of genetic information in the cell from genes to mRNA to
+proteins. Genes are used to make mRNA by the process of transcription; mRNA is used to synthesize proteins by the
+process of translation. The genetic code is degenerate because 64 triplet codons in mRNA specify only 20 amino acids and
+three nonsense codons. Almost every species on the planet uses the same genetic code.
+15.2 Prokaryotic Transcription
+In prokaryotes, mRNA synthesis is initiated at a promoter sequence on the DNA temp

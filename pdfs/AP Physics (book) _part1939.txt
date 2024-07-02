@@ -1,0 +1,43 @@
+ld break down?
+C
+21 * 14 cm
+15 * 106 Vm.
+K = 3.7
+0.10 m
+0.10 m
+q1
+q2
+A
+B
+FIGURE 17–49
+Problem 88.
+–
+–
++
+UV
+light
+Plate
+V = −3.02 V
+V = 0
+Barium
+FIGURE 17–46
+Problem 80.
+83. A capacitor is made from two 1.1-cm-diameter coins sepa-
+rated by a 0.10-mm-thick piece of paper 
+A 12-V
+battery is connected to the capacitor. How much charge is
+on each coin?
+(K = 3.7).
+89. If the electrons in a single raindrop, 3.5 mm in diameter, could
+be removed from the Earth (without removing the atomic
+nuclei), by how much would the potential of the Earth
+increase?
+90. Thunderclouds may develop a voltage difference of about
+Given that an electric field of 
+is
+required to produce an electrical spark within a volume of
+air, estimate the length of a thundercloud lightning bolt.
+[Can you see why, when lightning strikes from a cloud to the
+ground, the bolt has to propagate as a sequence of steps?]
+91. A manufacturer claims that a carpet will not generate more
+than 6.0 kV of static electricity. What magnitude of 

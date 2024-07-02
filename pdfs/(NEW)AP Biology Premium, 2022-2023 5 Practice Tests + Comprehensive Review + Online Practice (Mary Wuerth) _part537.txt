@@ -1,0 +1,23 @@
+thesis (also known as the light-
+independent cycle). Plants thought to have evolved in tropical climates use an additional step referred to as C4
+photosynthesis. Scientists measured the photosynthetic rate of C3 plants (sugar beets) and C4 plants
+(sugarcane) in a sealed container under three different temperature conditions. Data are shown in the table.
+Temperature (°C)
+C3 plants CO2 micromoles/m2/minute (± SEM*)
+C4 plants CO2 micromoles/m2/minute (± SEM)
+20
+37.0 ± 1.2
+35.1 ± 1.1
+30
+35.2 ± 0.8
+38.0 ± 1.0
+40
+26.8 ± 0.5
+37.0 ± 1.2
+*Standard Error of the Mean
+(a) Explain why the rate of carbon dioxide consumption was used in this experiment.
+(b) Construct a graph of the data, showing 95% confidence intervals.
+(c) Analyze the data, and determine at which temperature(s) there was a statistically significant difference in
+carbon dioxide consumption in C3 and C4 plants.
+(d) Coleus is a popular C3 houseplant. A person has a Coleus plant inside her climate-controlled home, in
+which the temperat

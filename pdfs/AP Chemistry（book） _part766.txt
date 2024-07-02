@@ -1,0 +1,37 @@
+
+different reactions in our two-step version. As long as we can write 
+a series of equations, each with a known value of ∆H, that add up 
+to the equation we need, we can calculate the overall ∆H.
+*The definition of the standard state 
+for gases has been changed to 1 bar 
+(1 atm =  
+1.013 bar), a slightly lower pressure 
+than 1 atm. For most purposes, this change 
+makes very little difference in the standard 
+enthalpy changes.
+ 
+SECTION 5.7   
+Enthalpies of Formation 
+187
+By definition, the standard enthalpy of formation of the most stable form of any element 
+is zero because there is no formation reaction needed when the element is already in its 
+standard state. Thus, the values of ∆Hf° for C(graphite), H21g2, O21g2, and the standard 
+states of other elements are zero by definition.
+TABLE 5.3 Standard Enthalpies of Formation, 횫Hº
+f, at 298 K
+Substance
+Formula
+횫Hº
+f  (kJ/mol)
+Substance
+Formula
+횫Hº
+f  (kJ/mol)
+Acetylene
+C2H21g2
+      226.7
+Hydrogen chloride
+HCl(g)
+     -92.30
+Ammonia
+NH

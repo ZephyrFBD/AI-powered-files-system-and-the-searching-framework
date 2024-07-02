@@ -1,0 +1,31 @@
+)
+10.20 - x2
+x
+x
+Substituting the equilibrium concentrations into the equilibrium- 
+constant expression yields:
+Ka =
+1x21x2
+0.20 - x = 4.9 * 10-10
+We next make the simplifying approximation that x, the amount 
+of acid that dissociates, is small compared with the initial concen-
+tration of acid, 0.20 -x ≃0.20. Thus,
+x2
+0.20 = 4.9 * 10-10
+Solving for x, we have:
+ x2 = 10.20214.9 * 10-102 = 0.98 * 10-10
+ x = 20.98 * 10-10 = 9.9 * 10-6 M = 3H+4
+A concentration of 9.9 * 10-6 M is much smaller than 5% of 0.20 M,  
+the initial HCN concentration. Our simplifying approximation is 
+therefore appropriate. We now calculate the pH of the solution:
+pH = -log3H+4 = -log19.9 * 10-62 = 5.00
+ 
+▶Practice Exercise 1
+What is the pH of a 0.40 M solution of benzoic acid, 
+C6H5COOH? (The Ka value for benzoic acid is given in  
+Table 16.2.)
+(a) 2.30 (b) 2.10 (c) 1.90 (d) 4.20 (e) 4.60
+ 
+▶Practice Exercise 2
+The Ka for niacin (Sample Exercise 16.10) is 1.5 * 10-5. What 
+is the pH of a 0.010 M solution of niacin

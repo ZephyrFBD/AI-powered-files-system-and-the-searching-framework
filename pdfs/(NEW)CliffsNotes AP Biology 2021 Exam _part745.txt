@@ -1,0 +1,14 @@
+ed values can be explained by chance. Thus,
+for the fruit fly
+ 
+calculations, the calculated value of χ2 = 1.0, at df = 1 and p = 0.05, is
+less than the critical value. What do you do with this value?
+Reject the null hypothesis. The null hypothesis is that the observed values are not significantly different from the
+expected values; that is, the differences are the result of chance. If the calculated value for χ2 is more than the
+critical value, you reject the null hypothesis.
+Accept the null hypothesis. If the calculated value for χ2 is less
+than the critical value, you do not reject the null hypothesis. “Do not reject the null hypothesis” is not quite the same
+as saying you accept the null hypothesis because accepting the null hypothesis implies that you proved it to be true.
+However, proof doesn’t happen in statistics (or science). Instead, you were not able to disprove it.
+If your calculated value for χ2 is greater than the critical value, and you
+rejected the null hypothesis, then

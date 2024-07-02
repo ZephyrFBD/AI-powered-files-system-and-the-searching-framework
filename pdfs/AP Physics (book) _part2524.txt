@@ -1,0 +1,21 @@
+mirror is
+a part). So the dashed line CB is equal to r, the radius of curvature, and CB is
+normal to the mirror’s surface at B. The incoming ray that hits the mirror at B
+makes an angle with this normal, and hence the reflected ray, BF, also makes an
+angle 
+with the normal (law of reflection). The angle BCF is also , as shown.
+The triangle CBF is isosceles because two of its angles are equal. Thus length
+We assume the mirror surface is small compared to the mirror’s radius
+of curvature, so the angles are small, and the length FB is nearly equal to 
+length FA. In this approximation,
+But
+the focal length,
+and
+Thus the focal length is half the radius of curvature:
+[spherical mirror] (23;1)
+We assumed only that the angle 
+was small, so this result applies for all other
+incident paraxial rays. Thus all paraxial rays pass through the same point F, the
+focal point.
+Since it is only approximately true that the rays come to a perfect focus at F,
+the more curved the mirror, the worse the approxi

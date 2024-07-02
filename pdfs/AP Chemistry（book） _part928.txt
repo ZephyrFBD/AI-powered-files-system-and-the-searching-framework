@@ -1,0 +1,17 @@
+a series of 
+ 
+mathematical functions called wave functions that describe the electron in the atom. 
+These wave functions are usually represented by the symbol c (lowercase Greek letter psi). 
+ 
+Although the wave function has no direct physical meaning, the square of the wave 
+function, c2, provides information about the electron’s location when it is in an  
+allowed 
+energy state.
+For the hydrogen atom, the allowed energies are the same as those predicted by the 
+Bohr model. However, the Bohr model assumes that the electron is in a circular orbit of 
+some particular radius about the nucleus. In the quantum-mechanical model, the elec-
+tron’s location cannot be described so simply.
+According to the uncertainty principle, if we know the momentum of the elec-
+tron with high accuracy, our simultaneous knowledge of its location is very uncer-
+tain. Thus, we cannot hope to specify the exact location of an individual electron 
+around the nucleus. Rather, we must be content with a kind of stat

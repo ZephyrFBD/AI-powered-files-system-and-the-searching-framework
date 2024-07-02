@@ -1,0 +1,12 @@
+differential evolution creates reproductive
+barriers that prevent interbreeding. As a result, new species have formed. In summary,
+geographic barrier → reproductive isolation → differential evolution → reproductive barriers → new species
+2. Sympatric speciation is the formation of new species without the presence of a geographic barrier. This may
+happen in several different ways, as follows:
+Balanced polymorphism among subpopulations may lead to speciation. Suppose, for example, a population of
+insects possesses a polymorphism for color. Each color provides a camouflage to a different substrate, and if not
+camouflaged, the insect is eaten. Under these circumstances, only insects with the same color can associate and
+mate. Thus, similarly colored insects are reproductively isolated from other subpopulations, and their gene pools
+diverge as in allopatric speciation.
+Polyploidy is the possession of more than the normal two sets of chromosomes found in diploid (2n) cells.
+Polyploidy often 

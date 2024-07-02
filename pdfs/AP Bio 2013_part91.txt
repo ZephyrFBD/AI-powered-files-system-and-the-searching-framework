@@ -1,0 +1,30 @@
+ 
+48.9 
+*Expected values must be those predicted by the null hypothesis provided in the student 
+response, add up to 60, and include no cells equal to 0. 
+ 
+(d) Explain whether your hypothesis is supported by the chi-square test and justify your 
+explanation. (1 point maximum) 
+• 
+Correct explanation with justification of why the stated null hypothesis is rejected or not 
+rejected. Response must clarify each of the following: 
+o degrees of freedom (df) = 2 and p = 0.05 (critical value = 5.99)  
+OR  
+degrees of freedom (df) = 2 and p = 0.01 (critical value = 9.21) 
+o how the calculated test statistic compares to the selected critical value 
+o whether the null hypothesis should be rejected 
+ 
+ 
+ 
+ 
+AP® BIOLOGY 
+2013 SCORING GUIDELINES  
+ 
+© 2013 The College Board. 
+ 
+Visit the College Board on the Web: www.collegeboard.org. 
+ 
+Question 1 (continued) 
+ 
+(e) Briefly propose a model that describes how environmental cues affect the behavior of the flies in 
+the choice chamber. (1 point maxim

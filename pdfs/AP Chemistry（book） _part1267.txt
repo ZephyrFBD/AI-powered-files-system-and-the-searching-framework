@@ -1,0 +1,12 @@
+n ionic solid with an arrangement of atoms analogous to the 
+sodium chloride structure shown in Figure 8.4. However, it is possible to generate LiF mole-
+cules by vaporizing the ionic solid at high temperature. The molecules have a dipole moment 
+of 6.28 D and a bond distance of 1.53 Å. From these values we can calculate the charge on 
+lithium and fluorine to be 0.857+ and 0.857-, respectively. This bond is extremely polar, 
+and the presence of such large charges strongly favors the formation of an extended ionic lat-
+tice in which each lithium ion is surrounded by fluoride ions and vice versa. But even here, 
+the experimentally determined charges on the ions are still not 1+ and 1-. This tells us that 
+even in ionic compounds, there is still some covalent contribution to the bonding.
+Comparing Ionic and Covalent Bonding
+To understand the interactions responsible for chemical bonding, it is advantageous to treat 
+ionic and covalent bonding separately. That is the approach taken in this

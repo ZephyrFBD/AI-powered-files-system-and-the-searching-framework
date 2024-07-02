@@ -1,0 +1,35 @@
+els 
+north.
+The relative speed of the first car with respect to the second is
+(a) less than 
+(b) exactly 
+(c) more than 20 ms.
+20 ms.
+20 ms.
+10 ms
+10 ms
+3;2 to 3;4 Vector Addition
+1. (I) A car is driven 225 km west and then 98 km southwest
+(45°). What is the displacement of the car from the point 
+of origin (magnitude and direction)? Draw a diagram.
+2. (I) A delivery truck travels 21 blocks north, 16 blocks east,
+and 26 blocks south. What is its final displacement from
+the origin? Assume the blocks are equal length.
+3. (I) If  
+and  
+determine
+the magnitude and direction of 
+4. (II) Graphically determine the resultant of the following
+three vector displacements: (1) 24 m, 36° north of east;
+(2) 18 m, 37° east of north; and (3) 26 m, 33° west of south.
+5. (II) 
+is a vector 24.8 units in magnitude and points at an
+angle of 23.4° above the negative x axis. (a) Sketch this
+vector. (b) Calculate 
+and 
+(c) Use 
+and 
+to
+obtain (again) the magnitude and direction of 
+[Note:
+Part (c) is a 

@@ -1,0 +1,35 @@
+ominator is less than 1, the observed frequency 
+is higher than
+the source frequency f. That is,
+For example, if a source emits a sound of
+frequency 400 Hz when at rest, then when the source moves toward a fixed
+observer with a speed of 
+the observer hears a frequency (at 20°C) of
+Now consider a source moving away from a stationary observer at a 
+speed 
+(observer on the left in Fig.12–19). Using the same arguments as above,
+the wavelength 
+perceived by our observer will have the minus sign on 
+(first equation on this page) changed to plus:
+The difference between the observed and emitted wavelengths will be
+The observed frequency of the wave is
+which equals
+(12;2b)
+If a source emitting at 400 Hz is moving away from a fixed observer at 
+the
+observer hears a frequency f¿ = (400 Hz)C1 + (30 ms)(343 ms)D = 368 Hz.
+30 ms,
+csource moving away from
+stationary observer
+d
+f¿ =
+f
+a 1 + vsource
+vsnd   b
+.
+f¿ = vsndl¿,
+l¿ - l = ±lAvsourcevsndB.
+¢l =
+= l a1 + vsource
+vsnd   b.
+l¿ = d + dsourc

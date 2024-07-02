@@ -1,0 +1,11 @@
+ sure cell division is happening properly in eukaryotic
+cells. They monitor the cell to make sure it is ready to progress through the cell cycle and stop progression if it is
+not. In eukaryotes, checkpoint pathways function mainly at phase boundaries (such as the G1/S transition and the
+G2/M transition). Checkpoint pathways are an example of an important cell signaling pathway inside cells.
+For example, if the DNA genome has been damaged in some way, the cell should not divide. If it does, damaged
+DNA will be passed onto daughter cells, which can be disastrous. When damaged DNA is found, checkpoints are
+activated and cell cycle progression stops. The cell uses the extra time to repair damage in DNA. If the DNA
+damage is so extensive that it cannot be repaired, the cell can undergo apoptosis, or programmed cell death.
+Apoptosis cannot stop once it has begun, so it is a highly regulated process. It is an important part of normal cell
+turnover in multicellular organisms.
+Cell cycle checkp

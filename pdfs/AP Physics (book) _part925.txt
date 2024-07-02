@@ -1,0 +1,74 @@
+s allow a maximum of three unknowns to be solved
+for. They can be forces, distances, or even angles.
+–
+±
+©t = 0,
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Statics
+1. Choose one object at a time for consideration. Make
+a careful free-body diagram by showing all the forces
+acting on that object, including gravity, and the points
+at which these forces act. If you aren’t sure of the
+direction of a force, choose a direction; if the actual
+direction of the force (or component of a force) is oppo-
+site, your eventual calculation will give a result with a
+minus sign.
+2. Choose a convenient coordinate system, and resolve
+the forces into their components.
+3. Using letters to represent unknowns, write down the
+equilibrium equations for the forces:
+and
+assuming all the forces act in a plane.
+©F
+y = 0,
+©F
+x = 0
+P H Y S I C S  A P P L I E D
+Balancing a seesaw
+(a)
+mA = 30 kg
+A
+B
+mB = 25 kg
+   N
+x
+x
+M
+= (4.0 kg)
+   B = mB
+(b)
++ Torque
+− Torque
+P
+P
+y
+g
+B
+g
+B
+g
+B
+   A = mAg
+B
+F
+B
+F
+B
+F
+B
+2.5 m
+2.5 m
+FIGURE 9–7 (a) Tw

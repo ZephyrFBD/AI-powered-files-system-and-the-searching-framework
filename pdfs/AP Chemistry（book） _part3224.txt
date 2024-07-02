@@ -1,0 +1,16 @@
+ly reaching E = 0. Because ∆G = -nFE (Equation 20.11), 
+it follows that ∆G = 0 when E = 0. Recall that a system is at equilibrium when ∆G = 0. 
+ (Section 19.7) Thus, when E = 0, the cell reaction has reached equilibrium, and no 
+net reaction occurs.
+In general, increasing the concentration of reactants or decreasing the concen-
+tration of products increases the driving force for the reaction, resulting in a higher 
+emf. Conversely, decreasing the concentration of reactants or increasing the con-
+centration of products causes the emf to decrease from its value under standard 
+conditions.
+If the potential of a Zn–H2 cell (like that in Figure 20.9) is 0.45 V at 25 °C when 3Zn2+4 = 1.0 M and PH2 = 1.0 atm, what is 
+the pH of the cathode solution?
+SOLUTION
+Analyze We are given a description of a voltaic cell, its emf, the 
+concentration of Zn2+, and the partial pressure of H2 (both prod-
+ucts in the cell reaction). We are asked to calculate the pH of the 
+cathode solution, which we can calc

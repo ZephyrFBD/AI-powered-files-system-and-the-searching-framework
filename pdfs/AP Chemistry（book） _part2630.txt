@@ -1,0 +1,16 @@
+cid-dissociation constant, Ka, which is the equilibrium constant 
+for the reaction HA1aq2 ∆ H+1aq2 + A-1aq2, which can also be 
+written as HA1aq2 + H2O1l2 ∆H3O+1aq2 + A-1aq2. The larger 
+the value of Ka, the stronger is the acid. For solutions of the same 
+concentration, a stronger acid also has a larger percent ionization. 
+The concentration of a weak acid and its Ka value can be used to 
+calculate the pH of a solution.
+Polyprotic acids, such as H3PO4, have more than one ionizable 
+proton. These acids have acid-dissociation constants that decrease 
+in magnitude in the order Ka1 7 Ka2 7 Ka3. Because nearly all the 
+H+1aq2 in a polyprotic acid solution comes from the first dissociation 
+step, the pH can usually be estimated satisfactorily by considering 
+only Ka1. Weak bases include NH3, amines, and the anions of weak ac-
+ids. The extent to which a weak base reacts with water to generate the 
+corresponding conjugate acid and OH- is measured by the base-dis-
+sociation constant, Kb. Kb is

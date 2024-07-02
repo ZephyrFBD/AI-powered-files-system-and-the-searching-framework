@@ -1,0 +1,25 @@
+ C and O balanced (Step 2a). We balance the 
+charge (Step 2d) by adding two electrons to the products:
+ 
+C2O4
+2-1aq2 ¡ 2 CO21g2 + 2 e- 
+We can check this result using oxidation states. Carbon goes from the +3 oxidation 
+state in C2O4
+2- to the +4 oxidation state in CO2. Thus, each C atom loses one electron; 
+therefore, the two C atoms in C2O4
+2- lose two electrons, in agreement with our balanced 
+half-reaction.
+Now we multiply each half-reaction by an appropriate integer so that the number 
+of electrons gained in one half-reaction equals the number of electrons lost in the other 
+(Step 3). We multiply the MnO4
+- half-reaction by 2 and the C2O4
+2- half-reaction by 5:
+10 e- + 16 H+1aq2 + 2 MnO4
+-1aq2 ¡ 2 Mn2+1aq2 + 8 H2O1l2
+ 5 C2O4
+2-1aq2 ¡ 10 CO21g2 + 10 e-
+16 H+1aq2 + 2 MnO4
+-1aq2 + 5 C2O4
+2-1aq2 ¡ 2 Mn2+1aq2 + 8 H2O1l2 + 10 CO21g2
+The balanced equation is the sum of the balanced half-reactions (Step 4). Note that the 
+electrons on the reactant and product sides of the equation cancel 

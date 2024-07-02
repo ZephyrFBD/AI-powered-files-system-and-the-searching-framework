@@ -1,0 +1,25 @@
+he mixture contains hydrogen.
+24–8 Interference in Thin Films
+Interference of light gives rise to many everyday phenomena such as the bright
+colors reflected from soap bubbles and from thin oil or gasoline films on water,
+Fig. 24–29. In these and other cases, the colors are a result of constructive interfer-
+ence between light reflected from the two surfaces of the thin film. The effect is
+observed only if the thickness of the film is on the order of the wavelength of the light.
+If the film thickness is greater than a few wavelengths, the effect gets washed out.
+l = A1.00 * 10–6 mB sin 41.0° = 656 nm.
+l = A1.00 * 10–6 mB sin 29.1° = 486 nm,
+l = A1.00 * 10–6 mB sin 25.7° = 434 nm,
+l =
+¢ d
+m ≤sin u =
+¢ 1.00 * 10–6 m
+1
+≤ sin 24.2° = 4.10 * 10–7 m = 410 nm.
+d = 1A1.00 * 104 cm–1B = 1.00 * 10–6 m.
+(m = 1).
+u = 0°,
+l = (dm) sin u
+1.00 * 104 slitscm.
+EXAMPLE 24;9
+To see how this thin-film interference happens, consider a smooth surface of
+water on top of which is a thin uniform layer of an

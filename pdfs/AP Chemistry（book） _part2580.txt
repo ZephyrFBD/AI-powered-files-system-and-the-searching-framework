@@ -1,0 +1,40 @@
+ite the chemical equation and tabulate initial and equilibrium 
+concentrations.
+Ignoring the concentration of H2O because 
+it is not involved in the equilibrium-constant 
+expression, we see that the equilibrium con-
+centrations are:
+Continued
+Inserting these quantities into the  
+equilibrium-constant expression gives:
+Kb =
+3NH4 
++43OH-4
+3NH34
+=
+1x21x2
+0.15 - x = 1.8 * 10-5
+692 
+CHAPTER 16 Acid–Base Equilibria
+In organic amines, at least one N¬H bond in NH3 is replaced with an N¬C bond. Like 
+NH3, amines can abstract a proton from a water molecule by forming an N¬H bond, as 
+shown here for methylamine:
+ 
+N
+H
+CH3
+H
+(aq) + H2O(l)
+N
+H
+H
++
+CH3
+H
+(aq) + OH−(aq)
+ [16.36]
+Anions of weak acids make up the second general category of weak bases. In an aque-
+ous solution of sodium hypochlorite (NaClO), for example, NaClO dissociates to Na+ and 
+ClO- ions. The Na+ ion is always a spectator ion in acid–base reactions. 
+ (Section 4.3) 
+The ClO- ion, however, is the conjugate base of a weak acid, hypo

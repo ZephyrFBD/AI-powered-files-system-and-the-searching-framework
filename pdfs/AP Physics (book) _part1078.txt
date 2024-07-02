@@ -1,0 +1,33 @@
+me flow rate,
+Eqs. 10–4.) The increased blood velocity past the opening to the vertebral artery
+results in lower pressure (Bernoulli’s principle). Thus, blood rising in the verte-
+bral artery on the “good” side at normal pressure can be diverted down into the
+other vertebral artery because of the low pressure on that side, instead of passing
+upward to the brain. Hence the blood supply to the brain is reduced.
+Other Applications
+A venturi tube is essentially a pipe with a narrow constriction (the throat). The
+flowing fluid speeds up as it passes through this constriction, so the pressure is
+lower in the throat. A venturi meter, Fig. 10–29, is used to measure the flow speed
+of gases and liquids, including blood velocity in arteries. The velocity 
+can be
+determined by measuring the pressure 
+and 
+the areas 
+and 
+as well as
+the density of the fluid. (The formula is given in Problem 56.)
+A2 ,
+A1
+P
+2 ,
+P
+1
+v1
+278
+CHAPTER 10
+Fluids
+Home plate
+A
+B
+FIGURE 10–27 Looking down on a
+pitched basebal

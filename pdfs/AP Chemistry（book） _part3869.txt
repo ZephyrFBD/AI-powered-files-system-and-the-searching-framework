@@ -1,0 +1,70 @@
+−
+H
+CH2
+CH2
+S
+CH3
+Methionine
+(Met; M)
++
+H3N
+C
+COO−
+H
+CH
+CH3
+CH2
+CH3
+Isoleucine
+(Ile; I)
++
+H3N
+C
+COO−
+CH2
++
+H
+H3N
+CH3
+CH
+CH3
+Leucine
+(Leu; L)
+C
+COO−
+H
+CH
+CH3
+CH3
+Valine
+(Val; V)
+H3N
++
+CH3
+C
+COO−
+H
+Alanine
+(Ala; A)
+H3N
++
+H
+C
+COO−
+H
+H3N
+Glycine
+(Gly; G)
++
+Nonpolar amino acids
+Polar amino acids
+Aromatic amino acids
+Basic amino acids
+Acidic amino acids and their amide derivatives
+▲ Figure 24.16 The 20 amino acids found in the human body. The blue shading shows the different  
+R groups for each amino acid. The acids are shown in the zwitterionic form in which they exist in  
+water at near-neutral pH values. The amino acid names shown in bold are the nine essential ones.  
+Three-letter and one-letter abbreviations for each amino acid are shown below its name.
+The a@carbon atom of the amino acids, which is the carbon between the amino 
+and carboxylate groups, has four different groups attached to it. The amino acids are 
+thus chiral (except for glycine, which has two hydrogens attached to the 

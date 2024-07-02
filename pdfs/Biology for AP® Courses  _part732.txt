@@ -1,0 +1,19 @@
+by cellular conditions, such as temperature and pH. They are
+also regulated through their location within a cell, sometimes being compartmentalized so that they can only catalyze
+reactions under certain circumstances. Inhibition and activation of enzymes via other molecules are other important ways
+that enzymes are regulated. Inhibitors can act competitively, noncompetitively, or allosterically; noncompetitive inhibitors
+are usually allosteric. Activators can also enhance the function of enzymes allosterically. The most common method by
+which cells regulate the enzymes in metabolic pathways is through feedback inhibition. During feedback inhibition, the
+products of a metabolic pathway serve as inhibitors (usually allosteric) of one or more of the enzymes (usually the first
+committed enzyme of the pathway) involved in the pathway that produces them.
+Chapter 6 | Metabolism
+267
+activation energy
+active site
+allosteric inhibition
+anabolic
+ATP
+bioenergetics
+catabolic
+chemical energy
+coenzym

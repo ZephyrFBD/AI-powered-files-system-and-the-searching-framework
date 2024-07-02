@@ -1,0 +1,15 @@
+ the blue color of Cu2+1aq2 ions 
+fades and copper metal deposits on the zinc. At the same time, the zinc begins to dis-
+solve. These transformations, shown in Figure 20.3, are summarized by the equation
+ 
+Zn1s2 + Cu2+1aq2 ¡ Zn2+1aq2 + Cu1s2 
+[20.7]
+Figure 20.4 shows a voltaic cell that uses the redox reaction given in Equation 20.7. 
+Although the setup in Figure 20.4 is more complex than that in Figure 20.3, the reaction 
+is the same in both cases. The significant difference is that in the voltaic cell the Zn metal 
+and Cu2+1aq2 are not in direct contact with each other. Instead, Zn metal is in contact 
+with Zn2+1aq2 in one compartment, and Cu metal is in contact with Cu2+1aq2 in the other 
+compartment. Consequently, Cu2+1aq2 reduction can occur only by the flow of electrons 
+through an external circuit, namely, a wire connecting the Zn and Cu strips. Electrons 
+flowing through a wire and ions moving in solution both constitute an electrical current. 
+This flow of electrical charge ca

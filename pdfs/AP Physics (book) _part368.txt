@@ -1,0 +1,69 @@
+ich it will be in this case.
+What really happens here is that the box accelerates upward (
+) because
+the net force is not zero. The net force (setting the normal force  
+) is
+upward. See Fig. 4–16. We apply Newton’s second law and see that the box
+moves upward with an acceleration
+= 0.20 ms2 .
+ay =
+©F
+y
+m
+=
+2.0 N
+10.0 kg
+= 2.0 N
+©F
+y = F
+P - mg = 100.0 N - 98.0 N
+F
+N = 0
+a Z 0
+F
+N
+F
+N
+F
+N = –2.0 N.
+= F
+N - 98.0 N + 100.0 N,
+©F
+y = F
+N - mg + F
+P
+F
+P = 100.0 N
+EXAMPLE 4;7
+86
+CHAPTER 4
+Dynamics: Newton’s Laws of Motion
+(100.0 N)
+(98.0 N)
+m
+P
+F
+B
+g
+B
+a
+B
+FIGURE 4;16 Example 4–7. The
+box accelerates upward because
+F
+P 7 mg.
+N
+F
+B
+a
+B
+mg
+B
+FIGURE 4;17 Example 4–8. The
+acceleration vector is shown in gold
+to distinguish it from the red force
+vectors.
+Apparent weight loss. A 65-kg woman descends in an
+elevator that briefly accelerates at 0.20g downward. She stands on a scale that
+reads in kg. (a) During this acceleration, what is her weight and what does 
+the scale read? (b) What does the sc

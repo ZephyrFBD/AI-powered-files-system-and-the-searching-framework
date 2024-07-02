@@ -1,0 +1,15 @@
+easured by the color intensity of tetraguaiacol.
+At the conclusion of this lab, you should know the following:
+1. The rate of a reaction is determined by measuring the accumulation of one of the products or by measuring the
+disappearance of the substrate (reactant).
+2. The rate of a reaction is the slope of the linear (straight) part of the graph that describes the accumulation of
+product (or decrease in substrate) as time progresses.
+3. Reaction rate may be affected by temperature, pH, substrate concentration, and enzyme concentration.
+Part I: Determine a Baseline for Peroxidase Activity
+The goal for this part of the investigation is to establish a baseline for
+ 
+measuring the amount of H2O2that is broken down. Once a baseline is
+ 
+established, it can serve as a comparison to subsequent reactions that you
+investigate in parts II and III. You can measure the progress of the H2O2 reaction by measuring the disappearance
+of H2O2or the accumulation of H2O or O2. If a reducing agent (like g

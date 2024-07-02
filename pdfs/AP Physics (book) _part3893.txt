@@ -1,0 +1,86 @@
+ C,
+V
+2.50 mF = V
+6.80 mF = 611 V,
+9 * 10–16 m,
+0.24 m2.
+6.3 * 10–7 F.
+6.00 * 10–5 C.
+2.6 * 10–6 F.
+–4.6 * 10–3 V.
+4.6 * 10–3 V;
+6.6 * 10–3 V;
+2.2 * 10–18 J,
+–14 eV;
+–2.2 * 10–18 J,
+2.2 * 10–18 J,
+4.2 * 106 V.
+9.9 * 104 Vm,  64°.
+1.6 * 104 V;
+± charge.
+from - charge,
+toward + charge,
+from - charge,
+from + charge;
+from - charge,
+9.15 * 106 ms.
+9.2 * 10–14 J.
+5.8 * 105 V;
+2.8 * 10–9 C.
+9.0 * 105 ms.
+–157 V.
+–4.25 * 104 V.
+–1.0 V.
+5.0 * 10–4 J.
+8.94 * 10–19.
+QEl,
+x = d A22 + 1B L 2.41d.
+Answers to Odd-Numbered Problems
+A-35
+83. (a)
+(b)
+(c)
+(d)
+(e) Bulb B.
+85. (a)
+(b)
+87. (a) 12 W;
+(b) 4.6 W.
+89.
+91.
+Chapter 19
+1. (a) 5.92 V;
+(b) 5.99 V.
+3.
+5. (a)
+(b)
+7. 2.
+9. Connect 18 resistors in series; then
+measure voltage across
+7 consecutive series resistors.
+11.
+13.
+0.020.
+15.
+17.
+19.
+21.
+23. 55 V.
+25. 0.35 A.
+27. 0.
+29. (a) 34 V;
+(b) 85-V battery: 82 V;
+45-V battery: 43 V.
+31.
+left;
+left.
+33. (a)
+(b) R.
+35. 0.71 A.
+37. 3 parallel sets, each with 100 cells
+in series.
+39.
+41.
+yes.
+43.
+in paralle

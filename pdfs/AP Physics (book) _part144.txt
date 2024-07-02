@@ -1,0 +1,68 @@
+to
+The displacement
+is –19.5 m.
+x2 = 30.5 m.
+x1 = 50.0 m
+C A U T I O N
+Time interval
+elapsed time
+=
+SECTION 2–3
+25
+Distance a cyclist travels. How far can a cyclist travel in 
+2.5 h along a straight road if her average velocity is 
+APPROACH We want to find the distance traveled, so we solve Eq. 2–2 for 
+SOLUTION In Eq. 2–2,
+we multiply both sides by 
+and obtain
+¢x = v ¢t = (18 kmh)(2.5 h) = 45 km.
+¢t
+v = ¢x¢t,
+¢x.
+18 kmh?
+EXAMPLE 2;2
+FIGURE 2;8 Car speedometer
+showing 
+in white, and 
+in orange.
+kmh
+mih
+60
+20
+40
+Velocity (km/h)
+Time (h)
+(a)
+0.2
+0
+Time (h)
+(b)
+0.5
+0.1
+0.3
+0.4
+0.2
+0
+0.5
+0.1
+0.3
+0.4
+Average velocity
+0
+60
+20
+40
+Velocity (km/h)
+0
+FIGURE 2;9 Velocity of a car as a 
+function of time: (a) at constant velocity;
+(b) with velocity varying in time.
+Car changes speed. A car travels at a constant 
+for
+100 km. It then speeds up to 
+and is driven another 100 km. What is
+the car’s average speed for the 200-km trip?
+APPROACH At 
+the car takes 2.0 h to travel 100 km. At 
+it
+takes onl

@@ -1,0 +1,55 @@
+e energy needed to place 
+the sixth electron in a t2 orbital is less than that needed to place it in an e orbital. We end 
+up with four t2 electrons and two e electrons.
+t2
+e
+t2
+e
+t2
+e
+Energy
+Spin-pairing 
+energy larger
+ than ∆
+high-spin 
+d4 ion
+∆ larger than
+ spin-pairing
+ energy
+d3 ion
+low-spin
+ d4 ion
+▲ Figure 23.31 Two possibilities for adding a fourth electron to a d3 octahedral complex. Whether  
+the fourth electron goes into a t2 orbital or into an e orbital depends on the relative energies of the  
+crystal-field splitting energy and the spin-pairing energy.
+∆
+∆
+Energy
+[CoF6]3−
+High-spin
+complex
+Low-spin
+complex
+t2
+t2
+e
+e
+[Co(CN)6]3−
+∆ less than spin-
+pairing energy, 
+electrons singly 
+occupy each e 
+orbital before 
+pairing in the t2 
+orbitals.
+∆ greater than 
+spin-pairing 
+energy, t2 
+orbitals are filled 
+with electrons 
+before occupying 
+the e orbitals.
+▲ Figure 23.32 High-spin and low-spin 
+complexes. The high-spin 3CoF643- ion 
+has a weak-field ligand and so a small ∆ 
+value

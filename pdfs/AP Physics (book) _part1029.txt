@@ -1,0 +1,35 @@
+en if compressible.
+Gases are very compressible, and density can vary significantly with depth.
+For this more general case, in which 
+may vary, we need to use Eq. 10–3b where
+should be small if 
+varies significantly with depth (or height).
+r
+¢h
+r
+(¢h)
+[r L constant over ¢h]
+¢P = rg ¢h.
+¢P = P
+2 - P
+1 = rgAh2 - h1B
+P
+2 = rgh2 .
+h2 ,
+P
+1 = rgh1 .
+h1 ,
+¢h = h2 - h1 .
+Pressure at a faucet. The surface of the water in a storage
+tank is 30 m above a water faucet in the kitchen of a house, Fig. 10–4. Calcu-
+late the difference in water pressure between the faucet and the surface of the
+water in the tank.
+APPROACH Water is practically incompressible, so 
+is constant even for a
+when used in Eq. 10–3b. Only 
+matters; we can ignore the
+“route” of the pipe and its bends.
+SOLUTION We assume the atmospheric pressure at the surface of the water in
+the storage tank is the same as at the faucet. So, the water pressure difference
+between the faucet and the surface of the water in the tank is
+NOTE The he

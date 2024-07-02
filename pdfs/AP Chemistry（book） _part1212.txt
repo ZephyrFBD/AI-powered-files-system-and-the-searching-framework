@@ -1,0 +1,17 @@
+f using ultraviolet light to eject va-
+lence electrons, X rays are used to eject core electrons. The en-
+ergies of the core electrons are different for different oxidation 
+states of the element. In one set of experiments, researchers 
+examined mercury contamination of minerals in water. They 
+measured the XPS signals that corresponded to electrons eject-
+ed from mercury’s 4f orbitals at 105 eV, from an X-ray source 
+that provided 1253.6 eV of energy 11 ev = 1.602 * 10-19J2. 
+The oxygen on the mineral surface gave emitted electron en-
+ergies at 531 eV, corresponding to the 1s orbital of oxygen. 
+Overall the researchers concluded that oxidation states were 
++2 for Hg and -2 for O. (a) Calculate the wavelength of the 
+X rays used in this experiment. (b) Compare the energies of 
+the 4f electrons in mercury and the 1s electrons in oxygen 
+from these data to the ﬁrst ionization energies of mercury 
+and oxygen from the data in this chapter. (c) Write out the 
+ground-state electron conﬁgurati

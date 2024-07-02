@@ -1,0 +1,25 @@
+e objective lens (focal length 
+) and forms a real image 
+of the distant
+object in the plane of its focal point 
+(or near it if the object is not at infinity).
+The second lens, called the eyepiece (focal length ), acts as a magnifier. That is,
+the eyepiece magnifies the image 
+formed by the objective lens to produce
+a second, greatly magnified image,
+which is virtual and inverted. If the view-
+ing eye is relaxed, the eyepiece is adjusted so the image 
+is at infinity. Then the
+real image 
+is at the focal point 
+of the eyepiece, and the distance between the
+lenses is
+for an object at infinity.
+To find the total angular magnification of this telescope, we note that the
+angle an object subtends as viewed by the unaided eye is just the angle 
+sub-
+tended at the telescope objective. From Fig. 25–20 we can see that
+where h is the height of the image 
+and we assume is small so that
+Note, too, that the thickest of the three rays drawn in Fig. 25–20 is parallel to the
+axis before it strikes the 

@@ -1,0 +1,38 @@
+lled stoichiometrically equivalent quantities. The relationship between these 
+quantities can be represented as
+2 mol H2 ] 1 mol O2 ] 2 mol H2O
+where the ] symbol means “is stoichiometrically equivalent to.” Stoichiometric relations 
+such as these can be used to convert between quantities of reactants and products in a chemi-
+cal reaction. For example, the number of moles of H2O produced from 1.57 mol of O2 is
+Moles H2O = 11.57 mol O22a2 mol H2O
+1 mol O2
+b = 3.14 mol H2O
+Chemical
+equation:
+1
+2 H2(g)
+2 H2O(l)
+O2(g)
+Convert to grams (using molar masses)
+Molecular
+interpretation:
+Mole-level
+interpretation:
+2 molecules H2
+1 molecule O2
+2 molecules H2O
+2 mol H2
+1 mol O2
+2 mol H2O
+4.0 g H2
+32.0 g O2
+36.0 g H2O
+Notice the conservation of mass
+(4.0 g + 32.0 g = 36.0 g)
+Give It Some Thought 
+When 1.57 mol O2 reacts with H2 to form H2O, how many moles of H2 are 
+consumed in the process?
+As an additional example, consider the combustion of butane 1C4H102, the fuel in 
+disposable lighters:
+ 
+2 C4H

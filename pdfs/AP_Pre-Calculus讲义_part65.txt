@@ -1,0 +1,90 @@
+ording to 
+the following methods. 
+(a) Semiannually 
+(b) Continuously 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+97 
+2.9 Semi-Log Model 
+2.9.1 Semi-Log Model 
+In a semi-logarithmic graph, one axis has a logarithmic scale and other axis has a linear 
+scale. 
+ 
+When the relationship is modelled by an equation of the form y= abx, where n is unknown. 
+ 
+Take the logarithms of both sides of the equation; 
+ 
+Simplify the right-hand side using the law of logarithms to give log y = log a + x log b; 
+ 
+The gradient is log b, and we can plot the graph of log y to x. 
+ 
+Example 1 
+You are told that x and y are related by the formula y= kbx, the measured values of x and y 
+are given. 
+ 
+Estimate the values of k and b and hence suggest an equation to model the relationship 
+between x and y. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+98 
+Exercise 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+99 
+2.10 Modelling with Exponential and Logarithmic Functions 
+2.10.1 Modelling with Exponential Func

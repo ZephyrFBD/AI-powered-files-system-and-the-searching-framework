@@ -1,0 +1,40 @@
+). The friction
+force between her hands and the clay is 1.5 N total. (a) How
+large is her torque on the wheel, if the diameter of the bowl
+is 9.0 cm? (b) How long would it take for the potter’s wheel 
+to stop if the only torque acting on it is due to the potter’s
+hands? The moment of inertia of the wheel and the bowl is
+0.11 kgm2.
+1.6 revs
+FIGURE 8;48
+Problem 40.
+Problems
+225
+47. (III) An Atwood machine
+consists of two masses,
+and 
+connected by a massless
+inelastic cord that passes over a pulley free to rotate,
+Fig. 8–52. The pulley is a solid cylin-
+der of radius 
+and mass
+6.0 kg. (a) Determine the accelera-
+tion of each mass. (b) What % error
+would be made if the moment of
+inertia of the pulley is ignored?
+[Hint: The tensions 
+and 
+are
+not equal. We discussed the Atwood
+machine in Example 4–13, assuming
+for the pulley.]
+I = 0
+F
+TB
+F
+TA
+R = 0.45 m
+mB = 75 kg,
+mA = 65 kg
+57. (II) A ball of radius r rolls on the inside of a track of
+radius R (see Fig. 8–53). If the ball starts from re

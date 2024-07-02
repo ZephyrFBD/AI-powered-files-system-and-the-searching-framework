@@ -1,0 +1,50 @@
+le.
+F
+T
+v = 2F
+Tm.
+m = ml,
+n = 1, 2, 3, p,
+n = 2, 3, p
+n = 1
+f
+n = nf
+1 = n v
+2l
+,  n = 1, 2, 3, p
+f
+1 = vl = v2l,
+l
+336
+CHAPTER 12
+Sound
+†When the resonant frequencies above the fundamental (that is, the overtones) are integral multiples of
+the fundamental, as here, they are called harmonics. But if the overtones are not integral multiples 
+of the fundamental, as is the case for a vibrating drumhead, for example, they are not harmonics.
+l = 1
+2l
+l = 3
+2l
+l =
+2
+l
+3
+1
+Fundamental or first harmonic, f1
+Second overtone or third harmonic, f3 = 3f1
+First overtone or second harmonic, f2 = 2f1
+FIGURE 12–7 Standing waves
+on a string—only the lowest
+three frequencies are shown.
+P H Y S I C S  A P P L I E D
+Stringed instruments
+(b)
+(a)
+FIGURE 12–8 The wavelength of
+(a) an unfingered string is longer
+than that of (b) a fingered string.
+Hence, the frequency of the fingered
+string is higher. Only one string is
+shown on this guitar, and only the
+simplest standing wave, the 
+fundamental, is shown

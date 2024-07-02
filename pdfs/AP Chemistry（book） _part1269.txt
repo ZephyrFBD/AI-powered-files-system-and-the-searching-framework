@@ -1,0 +1,12 @@
+later in the book. Nonetheless, the ability to quickly categorize the pre-
+dominant bonding interactions in a substance as covalent or ionic imparts considerable 
+insight into the properties of that substance. The question then becomes the best way to 
+recognize which type of bonding dominates.
+The simplest approach is to assume that the interaction between a metal and a non-
+metal is ionic and that between two nonmetals is covalent. While this classification 
+scheme is reasonably predictive, there are far too many exceptions to use it blindly. For 
+example, tin is a metal and chlorine is a nonmetal, but SnCl4 is a molecular substance that 
+exists as a colorless liquid at room temperature. It freezes at -33 °C and boils at 114 °C.  
+The characteristics of SnCl4 are not those typical of an ionic substance. Is there a more 
+predictable way of determining what type of bonding is prevalent in a compound? A 
+more sophisticated approach is to use the difference in electronegativity as the ma

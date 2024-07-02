@@ -1,0 +1,19 @@
+ 
+ 
+ 
+The generated files are only a starting point.  From here, the user needs to code initialization, 
+instantiation, moveclass (perturb), and cost functions.  Further, tuning of parameter values for temperature 
+initialization, equilibration, etc. will likely be needed.  Documentation on these subjects is currently 
+limited to the book (see section 1 of this document), the code (e.g., try help hoffmann), and by way 
+of example: the six example toy applications included with the package. 
+ 
+Happy annealing! 
+ 
+5.  Copyright, Trademarks, and License Fees 
+ 
+The software discussed here is subject to the following copyright, trademark, and license restrictions. 
+ 
+Copyright (c) 2002, by Richard Frost and Frost Concepts.  All rights reserved except where otherwise 
+noted.  This software is offered on an "AS IS" basis.  The copyright holder(s) provide no warranty, 
+expressed or implied, that the software will function properly or that it will be free of errors.  This software 
+may be free

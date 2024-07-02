@@ -1,0 +1,21 @@
+icate that 
+the field is uniform at points not too near the edges, much like the electric field
+between two parallel plates (Fig. 17–1).
+N
+S
+FIGURE 20–7 Magnetic field
+between two wide poles of a magnet
+is nearly uniform, except near the
+edges.
+20–2 Electric Currents Produce
+Magnetic Fields
+During the eighteenth century, many scientists sought to find a connection between
+electricity and magnetism. A stationary electric charge and a magnet were shown to
+have no influence on each other. But in 1820, Hans Christian Oersted (1777–1851)
+found that when a compass is placed near a wire, the compass needle deflects if
+(and only if) the wire carries an electric current. As we have seen, a compass
+needle is deflected by a magnetic field. So Oersted’s experiment showed that 
+an electric current produces a magnetic field. He had found a connection between
+electricity and magnetism.
+A compass needle placed near a straight section of current-carrying wire expe-
+riences a force, causing the needle t

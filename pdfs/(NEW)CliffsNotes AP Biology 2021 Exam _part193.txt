@@ -1,0 +1,24 @@
+ular response that may be stimulatory or inhibitory.
+Produce the second messengers IP3 and DAG. If the effector
+protein is the transmembrane enzyme phospholipase C, the
+ 
+enzyme cleaves a membrane phospholipid, PIP2, to generate two
+ 
+second messengers—IP3 and DAG. DAG, the lipid portion of
+ 
+PIP2, remains embedded in the membrane, while the soluble IP3 moves into the cytoplasm. As second messengers,
+IP3 and DAG
+ 
+initiate a variety of cellular responses, depending upon cell type. Produce the second messenger Ca2+. In many
+cells, IP3 triggers
+ 
+the transport of calcium ions (Ca2+) across membranes. For example, in secretory cells of salivary glands, IP3 binds
+and
+ 
+activates receptor proteins in membranes of the smooth ER to
+ 
+release Ca2+ into the cytoplasm. Here, Ca2+ is a second
+ 
+messenger, triggering the release of saliva.
+5. GPCR signaling is deactivated when GTP is hydrolyzed (not shown in figure). When the GTP that is attached
+to the effector protein is hydrolyzed (GTP → GDP + 

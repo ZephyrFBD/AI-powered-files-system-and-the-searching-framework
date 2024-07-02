@@ -1,0 +1,17 @@
+ establishes 
+the line along which the emission took place. If the difference in time of arrival 
+of the two photons could be determined accurately, the actual position of the
+emitting nuclide along that line could be calculated. Present-day electronics can
+measure times to at best 
+so at the 
+ray’s speed 
+the actual position could be determined to an accuracy on the order of about
+which is not very useful. Although
+there may be future potential for time-of-flight measurements to determine 
+position, today computed tomography techniques are used instead, similar to
+those for X-ray CT, which can reconstruct PET images with a resolution on the
+order of 2–5 mm. One big advantage of PET is that no collimators are needed
+(as for detection of a single photon—see Fig. 31–20a). Thus, fewer photons are
+“wasted” and lower doses can be administered to the patient with PET.
+Both PET and SPECT systems can give images that relate to biochemistry,
+metabolism, and function. This is to be compared to X

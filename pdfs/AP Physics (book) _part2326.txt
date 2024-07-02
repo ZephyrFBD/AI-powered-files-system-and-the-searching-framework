@@ -1,0 +1,74 @@
+R 21
+N
+I (induced)
+θ
+θ
+a
+  ⊥
+b
+c
+d
+Axis
+I (induced)
+S
+B
+B
+v
+B
+v
+B
+v
+B
+FIGURE 21–17 The emf is induced
+in the segments ab and cd, whose
+velocity components perpendicular
+to the field 
+are v sin u.
+B
+B
+S
+Current to
+produce
+B field
+N
+(Rotating
+electromagnet)
+S
+Slip
+rings
+Engine
+belt
+Engine
+belt
+(a)
+(b)
+Output
+current
+(induced)
+Loops of wire
+(in which current is induced)
+Stator assembly
+Stator coil (emf induced in)
+Stator coil (emf induced in)
+Input
+current
+South
+pole
+North
+pole
+Coil
+(produces B)
+Slip
+rings
+Rotor
+Rotates
+S
+S
+S
+N
+N
+N
+FIGURE 21–16 (a) Simplified schematic diagram of an alternator. The input current to the rotor from the battery is 
+connected through continuous slip rings. Sometimes the rotor electromagnet is replaced by a permanent magnet (no input 
+current). (b) Actual shape of an alternator. The rotor is made to turn by a belt from the engine. The current in the wire coil 
+of the rotor produces a magnetic field inside it on its axis that points horizontally from left to ri

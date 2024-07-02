@@ -1,0 +1,21 @@
+ed in some solar-heated 
+homes to store heat. Assume that the specific heat of 
+the rocks is 0.82 J>g@K. Calculate the quantity of heat 
+absorbed by 50.0 kg of rocks if their temperature increases 
+by 12.0 °C. (b) What temperature change would these 
+rocks undergo if they emitted  450 kJ of heat?
+ 
+SECTION 5.5   
+Calorimetry 
+181
+endothermic reaction: Heat is gained by the reaction and lost by the water in the solu-
+tion, and the temperature of the solution decreases. The heat gained or lost by the solu-
+tion, qsoln, is therefore equal in magnitude but opposite in sign to the heat absorbed or 
+released by the reaction, qrxn, in mathematical terms qsoln = -qrxn. The value of qsoln is 
+readily calculated from the mass of the solution, its specific heat, and the temperature 
+change:
+ 
+qsoln = 1specific heat of solution2 * 1grams of solution2 * ∆T = -qrxn 
+[5.22]
+For dilute aqueous solutions we usually assume that the specific heat of the solution is the 
+same as that of water, 4.18 J>g@K.

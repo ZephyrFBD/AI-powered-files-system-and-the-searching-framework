@@ -1,0 +1,55 @@
+ need to use Ka2. Let’s illustrate that 
+calculation. Using our calculated values of 
+3HCO3
+-4 and 3H+4 and setting 3CO3
+2-4 = y, 
+we have:
+HCO3
+-1aq2         ∆            H +1aq2       +        
+CO3
+2-1aq2
+Initial  
+concentration (M)
+4.0 * 10-5
+4.0 * 10-5
+0
+Change in  
+concentration (M)
+-y
++y
++y
+Equilibrium  
+concentration (M)
+14.0 * 10-5 - y2
+14.0 * 10-5 + y2
+y
+Assuming that y is small relative to 4.0 * 10-5, 
+we have:
+ 
+Ka2 =
+3H+43CO3
+2-4
+3HCO3
+-4
+=
+14.0 * 10-521y2
+4.0 * 10-5
+= 5.6 * 10-11
+ 
+y = 5.6 * 10-11 M = 3CO3
+2-4
+also see that when the pH is equal to one of the pKa values, the con-
+centrations of the relevant conjugate acid-base pairs are equal. For 
+instance, if you look at pH = 7.21, 3H2PO4
+2-
+ 
+4 = 3HPO4
+-4. This makes 
+sense if we consider that the equilibrium reaction at that pH is:
+H2PO4
+-1aq2 + H2O1l2 ∆ HPO4
+2-
+   1aq2 + H3O +1aq2 
+A CLOSER LOOK Polyprotic Acids
+Different protonation states of polyprotic acids exist at different pH 
+values. Shown in Figure 16.14 are th

@@ -1,0 +1,15 @@
+ wavelength of light that reaches the retina is 
+and is
+the same whether the light enters from the air or from water.
+24–5 Diffraction by a Single Slit or Disk
+Young’s double-slit experiment put the wave theory of light on a firm footing.
+But full acceptance came only with studies on diffraction (Section 24–1) more
+than a decade later, in the 1810s and 1820s.
+We have already discussed diffraction briefly with regard to water waves
+(Section 11–14) as well as for light (Section 24–1). We have seen that diffraction
+refers to the spreading or bending of waves around edges. Let’s look in more detail.
+In 1819 Augustin Fresnel (1788–1827) presented to the French Academy a
+wave theory of light that predicted and explained interference and diffraction
+effects. Almost immediately Siméon Poisson (1781–1840) pointed out a counter-
+intuitive inference: according to Fresnel’s wave theory, if light from a point source
+were to fall on a solid disk, part of the incident light would be diffracted around

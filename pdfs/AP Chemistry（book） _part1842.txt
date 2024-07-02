@@ -1,0 +1,14 @@
+the unit cells are arranged is called a 
+crystal lattice. The crystal lattice is, in effect, an abstract (that is, not real) scaffold-
+ing for the crystal structure. We can imagine forming the entire crystal structure by first 
+building the scaffolding and then filling in each unit cell with the same atom or group 
+of atoms.
+Before describing the structures of solids, we need to understand the properties of 
+crystal lattices. It is useful to begin with two-dimensional lattices because they are sim-
+pler to visualize than three-dimensional ones. Figure 12.3 shows a two-dimensional array 
+of lattice points. Each lattice point has an identical environment. The positions of the 
+lattice points are defined by the lattice vectors a and b. Beginning from any lattice 
+point, it is possible to move to any other lattice point by adding together whole-number 
+multiples of the two lattice vectors.*
+The parallelogram formed by the lattice vectors, the shaded region in Figure 12.3, 
+defines the unit

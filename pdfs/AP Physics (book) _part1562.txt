@@ -1,0 +1,59 @@
+.
+Q
+t
+= A1000 Wm2B A cos u
+cos 30° = 0.866,
+A L (2 m)(0.4 m) = 0.8 m2.
+1000 Wm2
+ = 0.70
+EXAMPLE 14;11
+ESTIMATE
+An interesting application of thermal radiation to diagnostic medicine is
+thermography. A special instrument, the thermograph, scans the body, measuring
+the intensity of infrared† radiation from many points and forming a picture that
+resembles an X-ray (Fig. 14–13). Areas where metabolic activity is high, such as
+in tumors, can often be detected on a thermogram as a result of their higher tem-
+perature and consequent increased radiation.
+23 °
+(Summer)
+(A)
+≈ 0°
+θ
+Sun’s
+rays
+(June)
+Equator
+(C)
+≈ 90°
+(Cold)
+θ
+θ
+(B)
+≈ 50°
+(Winter)
+June
+(b)
+(a)
+Earth
+(June)
+Earth
+(December)
+Sun
+Axis
+Axis
+Equator
+1
+–
+2
+23 °
+1
+–
+2
+(a)
+(b)
+FIGURE 14;13 Thermograms of a healthy person’s 
+arms and hands (a) before and (b) after smoking a 
+cigarette, showing a temperature decrease due to 
+impaired blood circulation associated with smoking.
+The thermograms have been color-coded according to 
+temperatu

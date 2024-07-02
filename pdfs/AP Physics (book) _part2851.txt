@@ -1,0 +1,85 @@
+of 13).
+6 1
+2
+3 1
+2
+2 * 2
+*SECTION 25–12
+X-Ray Imaging and Computed Tomography (CT Scan)
+737
+0
+0
+0
+0
+7
+13
+(a)
+Angle
+3
+11
+Angle
+4
+9
+(c)
+3
+6
+14
+Angle 2
+(measured)
+(b)
+1
+2
+61
+2
+61
+2
+31
+2
+11
+2
+41
+2
+81
+2
+51
+2
+2
+4
+5
+9
+(d)
+Angle 1
+2
+4
+5
+9
+7
+13
+Angle 1
+6
+14
+Angle
+2
+Angle
+3
+11
+Angle
+4
+9
+FIGURE 25–45 A simple 
+image showing true absorption
+values (inside the squares) and
+measured projections.
+2 * 2
+FIGURE 25–46 Reconstructing the image using projections in an iterative procedure.
+Next we use the projections at angle 2. We calculate the difference between the
+measured projections at angle 2 (6 and 14) and the projections based on the pre-
+vious estimate (top row:
+same for bottom row). Then we distribute
+this difference equally to the squares in that row. For the top row, we have
+and for the bottom row,
+These values are inserted as shown in Fig. 25–46c. Next, the projection at angle 3
+(
+), combined with the difference as above, gives
+and then for angle 4 we have
+The result, shown in Fig. 25–46d, c

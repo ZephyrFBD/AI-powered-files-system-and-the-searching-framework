@@ -1,0 +1,27 @@
+ the dye molecules are in a hydropho-
+bic environment. Predict how the intensity of such fluores-
+cence would relate to the concentration of sodium stearate 
+as the sodium stearate concentration approaches and then 
+increases past the cmc.
+Surfactant
+tail
+Surfactant
+head
+Surfactant monomers
+Micelle
+cmc
+Design an Experiment
+Based on Figure 13.18, you might think that the reason volatile 
+solvent molecules in a solution are less likely to escape to the gas 
+phase, compared to the pure solvent, is because the solute mole-
+cules are physically blocking the solvent molecules from leaving 
+at the surface. This is a common misconception. Design an exper-
+iment to test the hypothesis that solute blocking of solvent vapor-
+ization is not the reason that solutions have lower vapor pressures 
+than pure solvents.
+ 
+13.114  
+Compounds like sodium stearate, called “surfactants” in 
+general, can form structures known as micelles in water, 
+once the solution concentration reaches the value known 
+as t

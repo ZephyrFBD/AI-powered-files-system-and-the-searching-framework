@@ -1,0 +1,20 @@
+eral 
+chalcocite, which contains Cu2S. The decomposition of Cu2S to its ele-
+ments is nonspontaneous:
+Cu2S1s2 ¡ 2 Cu1s2 + S1s2  ∆G° = +86.2 kJ
+Because ∆G° is very positive, we cannot obtain Cu(s) directly via 
+this reaction. Instead, we must ﬁnd some way to “do work” on the 
+reaction to force it to occur as we wish. We can do this by coupling 
+the reaction to another one so that the overall reaction is sponta-
+neous. For example, we can envision the S(s) reacting with O21g2 to 
+form SO21g2:
+S1s2 + O21g2 ¡ SO21g2  ∆G° = -300.4 kJ
+By coupling (adding together) these reactions, we can extract much 
+of the copper metal via a spontaneous reaction:
+Cu2S1s2 + O21g2 ¡ 2 Cu1s2 + SO21g2
+∆G° = 1+86.2 kJ2 + 1-300.4 kJ2 = -214.2 kJ
+In essence, we have used the spontaneous reaction of S(s) with O21g2 
+to provide the free energy needed to extract the copper metal from 
+the mineral.
+Biological systems employ the same principle of using sponta-
+neous reactions to drive nonspontaneous ones. Many of the 

@@ -1,0 +1,24 @@
+n this range are used to transmit radio and TV 
+signals. Electromagnetic waves, or EM radiation as we sometimes call it, have 
+been produced or detected over a wide range of frequencies. They are usually 
+categorized as shown in Fig.22–8, which is known as the electromagnetic spectrum.
+109 Hz.
+1 Hz = 1 cycle per second = 1 s–1.
+7.5 * 1014 Hz.
+4.0 * 1014 Hz
+3.00 * 108 ms;
+l
+c = lf,
+A1 nm = 10–9 mB.
+750 nm
+400 nm
+7.5 * 10–7 m,
+4.0 * 10–7 m
+3.00 * 108 ms,
+Radio waves and microwaves can be produced in the laboratory using elec-
+tronic equipment (Fig. 22–5). Higher-frequency waves are very difficult to produce
+electronically. These and other types of EM waves are produced in natural processes,
+as emission from atoms, molecules, and nuclei (more on this later). EM waves can be
+produced by the acceleration of electrons or other charged particles, such as 
+electrons in the antenna of Fig. 22–5. X-rays have very short wavelengths 
+(and very high frequencies), and they are produced (Chapters 2

@@ -1,0 +1,50 @@
+O1l2
++0.96
+Na+1aq2 + e- ¡ Na1s2
+-2.71
+Ni2 +1aq2 + 2 e- ¡ Ni1s2
+-0.28
+O21g2 + 4 H+1aq2 + 4 e- ¡ 2 H2O1l2
++1.23
+O21g2 + 2 H2O1l2 + 4 e- ¡ 4 OH-1aq2
++0.40
+O21g2 + 2 H+1aq2 + 2 e- ¡ H2O21aq2
++0.68
+O31g2 + 2 H+1aq2 + 2 e- ¡ O21g2 + H2O1l2
++2.07
+Pb2 +1aq2 + 2 e- ¡ Pb1s2
+-0.13
+PbO21s2 + HSO4
+-1aq2 + 3 H+1aq2 + 2 e- ¡  
+PbSO41s2 + 2 H2O1l2
++1.69
+PbSO41s2 + H+1aq2 + 2 e- ¡ Pb1s2 + HSO4
+-1aq2
+-0.36
+PtCl4
+2 -1aq2 + 2 e- ¡ Pt1s2 + 4 Cl-1aq2
++0.73
+S1s2 + 2 H+1aq2 + 2 e- ¡ H2S1g2
++0.14
+H2SO31aq2 + 4 H+1aq2 + 4 e- ¡ S1s2 + 3 H2O1l2
++0.45
+HSO4
+-1aq2 + 3 H+1aq2 + 2 e- ¡ H2SO31aq2 + H2O1l2
++0.17
+Sn2+1aq2 + 2 e- ¡ Sn1s2
+-0.14
+Sn4 +1aq2 + 2 e- ¡ Sn2 +1aq2
++0.15
+VO2
++1aq2 + 2 H+1aq2 + e- ¡ VO2 +1aq2 + H2O1l2
++1.00
+Zn2+1aq2 + 2 e- ¡ Zn1s2
+-0.76
+  
+ 
+A-1
+Chapter 1
+1.1 (a) Pure element: i (b) mixture of elements: v, vi (c) pure 
+compound: iv (d) mixture of an element and a compound: ii, iii   
+1.3 (a) Homogeneous mixture  (b) Yes, brass is a solution. 1.5 Filtra-
+tion 1.7 (a) The aluminum sphere is lightest, 

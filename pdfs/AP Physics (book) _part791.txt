@@ -1,0 +1,67 @@
+ (d).
+F: The curve would be wider and less high.
+G:
+yes.
+H: The boat moves in the opposite direction.
+xCM = –2.0 m;
+ANSWERS TO EXERCISES
+M
+m
+35 cm
+95 cm
+FIGURE 7;50
+Search and Learn 3.
+x
+vsp = 10.4 km/s
+vSaturn = −9.6 km/s
+v′sp = ?
+FIGURE 7;51
+Search and Learn 4.
+5. Take the general case of an object of mass 
+and
+velocity 
+elastically striking a stationary  
+object
+of mass 
+head-on. (a) Show that the final velocities 
+and 
+are given by
+(b) What happens in the extreme case when 
+is much
+smaller than 
+Cite a common example of this. (c) What
+happens in the extreme case when 
+is much larger than
+Cite a common example of this. (d) What happens in
+the case when  
+Cite a common example.
+mA = mB?
+mB?
+mA
+mB?
+mA
+vB
+œ
+=
+a
+2mA
+mA + mB
+bvA.
+vA
+œ
+=
+a mA - mB
+mA + mB
+bvA,
+vB
+œ
+vA
+œ
+mB
+AvB = 0B
+vA
+mA
+84. A golf ball rolls off the top of a flight of concrete steps of
+total vertical height 4.00 m. The ball hits four times on the
+way down, each time striking the horizontal part of a differ-
+ent step 1.00

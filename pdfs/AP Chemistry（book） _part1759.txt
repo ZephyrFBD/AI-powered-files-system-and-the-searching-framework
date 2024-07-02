@@ -1,0 +1,18 @@
+or pressure for four liquids as a function of 
+temperature.
+Give It Some Thought
+Which compound do you think is more volatile at 25 °C: CCl4 or CBr4?
+by the vapor in the space above the liquid increases. After a short 
+time, the pressure of the vapor attains a constant value, which we 
+call the vapor pressure.
+At any instant, some of the ethanol molecules at the liquid 
+surface possess sufficient kinetic energy to overcome the attractive 
+forces of their neighbors and, therefore, escape into the gas phase. 
+As the number of gas-phase molecules increases, however, the prob-
+ability increases that a molecule in the gas phase will strike the liq-
+uid surface and be recaptured by the liquid, as shown in the flask 
+on the right in Figure 11.23. Eventually, the rate at which molecules 
+return to the liquid equals the rate at which they escape. The num-
+ber of molecules in the gas phase then reaches a steady value, and 
+the pressure exerted by the vapor becomes constant.
+The condition in whic

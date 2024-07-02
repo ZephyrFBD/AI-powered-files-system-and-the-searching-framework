@@ -1,0 +1,11 @@
+ problems of replicating telomeres because circular chromosomes don’t have
+ends.
+Transcription in prokaryotes is also similar to that of eukaryotes. However, prokaryotic genes do not have introns.
+But a single mRNA transcript may contain multiple genes whose enzyme products function sequentially as part of a
+metabolic pathway. Such gene clusters are called operons. Also, translation is coupled with transcription—that is,
+the ribosome attaches to one end of the mRNA transcript and begins translation while the mRNA transcript is still
+being produced at the other end.
+Genetic variation is introduced into prokaryotes through horizontal gene transfer. Although it occurs among both
+archaea and bacteria, it is best understood among bacteria. It occurs in the following ways:
+1. Conjugation is a process of DNA exchange between bacteria. A donor bacterium produces a tube, or pilus
+(plural, pili), that connects to a recipient bacterium. Through the pilus, the donor bacterium sends chromosomal or

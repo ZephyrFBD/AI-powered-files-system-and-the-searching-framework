@@ -1,0 +1,110 @@
+
+ext = 0D
+mAv
+B
+A + mBv
+B
+B =
+mAv
+B
+A
+œ
++ mB v
+B
+B
+œ .
+ 
+momentum before = momentum after
+mAv
+B
+A
+œ + mBv
+B
+B
+œ .
+mB v
+B
+B
+œ .
+mAv
+B
+A
+œ
+mAv
+B
+A + mBv
+B
+B.
+mBv
+B
+B
+mA v
+B
+A
+Before
+collision
+At
+collision
+After
+collision
+m
+A
+m
+A
+m
+A
+mB
+mB
+mB
+−F
+B
+F
+B
+p
+A
+B
+pB
+B
+p
+B
+B
+p
+A
+B
+FIGURE 7;4 Collision of two
+objects. Their momenta before 
+collision are 
+and 
+and after
+collision are 
+and 
+At any
+moment during the collision each
+exerts a force on the other of equal
+magnitude but opposite direction.
+p
+B
+B
+œ .
+p
+B
+A
+œ
+p
+B
+B,
+p
+B
+A
+However, when the bat or racket hits the ball, during the brief time of the colli-
+sion those external forces are insignificant compared to the collision force the bat
+or racket exerts on the ball. Momentum is conserved (or very nearly so) as long
+as we measure 
+and 
+just before the collision and 
+and 
+immediately
+after the collision (Eq. 7–3). We can not wait for external forces to produce their
+effect before measuring 
+and 
+The above derivation can be extended to inclu

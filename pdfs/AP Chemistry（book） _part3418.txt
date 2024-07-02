@@ -1,0 +1,33 @@
+team.
+The steam drives an 
+electric generator, 
+creating electricity.
+Heat is transferred to an 
+external source of 
+water, condensing the 
+secondary coolant, 
+which is pumped back 
+to the heat exchanger.
+2
+1
+3
+4
+▲ Figure 21.20 Basic design of a pressurized water reactor nuclear power plant.
+Water acts as both
+moderator and coolant
+Fuel elements
+Control
+rods
+Control-rod
+drive
+▲ Figure 21.19 Schematic diagram of a 
+pressurized water reactor core.
+*The reactor core cannot reach supercritical levels and explode with the violence of an atomic 
+bomb because the concentration of uranium-235 is too low. However, if the core overheats, suf-
+ficient damage can lead to release of radioactive materials into the environment.
+ 
+SECTION 21.7  Nuclear Power: Fission 
+927
+nuclear disaster in Fukushima, Japan, in March 2011 occurred when a tsunami damaged 
+the reactor cooling systems, resulting in a large-scale release of radioactive materials.
+Although about two-thirds of all commercial reactors are p

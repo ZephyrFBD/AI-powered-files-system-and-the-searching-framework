@@ -1,0 +1,65 @@
+ete revolution (rev) has rotated through 360°, or 
+radians:
+1 rev = 360° = 2p rad.
+2p
+360°2p L 360°6.28 L 57.3°.
+360° = 2p rad.
+u = lr = 2prr = 2p rad
+l = 2pr.
+l = ru.
+l:
+u = 1 rad.
+l = r,
+u
+l
+u
+u =
+l
+r
+,
+u
+u.
+l
+l
+l
+u
+u
+u
+SECTION 8–1
+Angular Quantities
+199
+r
+O
+r
+O
+P
+x
+(b)
+θ
+(a)
+x
+P
+l
+FIGURE 8;1 Looking at a wheel
+that is rotating counterclockwise
+about an axis through the wheel’s
+center at O (axis perpendicular to
+the page). Each point, such as 
+point P, moves in a circular path;
+is the distance P travels as the
+wheel rotates through the angle u.
+l
+C A U T I O N
+Use radians in 
+calculating, not degrees
+Bike wheel. A bike wheel rotates 4.50 revolutions. How many
+radians has it rotated?
+APPROACH All we need is a conversion of units using
+SOLUTION
+4.50 revolutions = (4.50 rev) a 2p rad
+rev b
+= 9.00p rad = 28.3 rad.
+1 revolution = 360° = 2p rad = 6.28 rad.
+EXAMPLE 8;1
+Birds of prey—in radians. A particular bird’s eye can just
+distinguish objects that subtend an angle no smaller than ab

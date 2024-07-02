@@ -1,0 +1,26 @@
+he quantities of reactants 
+consumed and products formed, however, are restricted by the quantity of the limiting reac-
+tant. For example, when a combustion reaction takes place in the open air, oxygen is plenti-
+ful and is therefore the excess reactant. If you run out of gasoline while driving, the car stops 
+because the gasoline is the limiting reactant in the combustion reaction that moves the car.
+Before we leave the example illustrated in Figure 3.17, let’s summarize the data:
+     2 H21g2 +  O21g2 i  2 H2O1g2
+Before reaction:
+    10 mol
+    7 mol
+      0 mol
+Change (reaction):
+-10 mol
+-5 mol
++10 mol
+After reaction:
+      0 mol
+    2 mol
+    10 mol
+10 H2O and 2 O2 (no H2 molecules)
+10 H2 and 7 O2
+After reaction
+Before reaction
+▲ Figure 3.17 Limiting reactant. Because H2 is completely consumed, it is the limiting reactant. 
+Because some O2 is left over after the reaction is complete, it is the excess reactant. The amount 
+of H2O formed depends on the amount of limiting reactant, H2

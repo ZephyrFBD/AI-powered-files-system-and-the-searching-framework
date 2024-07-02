@@ -1,0 +1,12 @@
+ectrons 
+in an atom the value of S is usually close to the number of core electrons in the atom. (Electrons 
+in the same valence shell do not screen one another very effectively, but they do affect the 
+value of S slightly; see “A Closer Look: Effective Nuclear Charge.”)
+To understand better the notion of effective nuclear charge, we can use an analogy of a 
+light bulb with a frosted glass shade (Figure 7.2). The light bulb represents the nucleus, and 
+the observer is the electron of interest, which is usually a valence electron. The amount of 
+light that the electron “sees” is analogous to the amount of net nuclear attraction experi-
+enced by the electron. The other electrons in the atom, especially the core electrons, act 
+like a frosted glass lampshade, decreasing the amount of light that gets to the observer. If 
+the light bulb gets brighter while the lampshade stays the same (Z increases), more light is 
+observed. Likewise, if the lampshade gets thicker (S increases), less light i

@@ -1,0 +1,71 @@
+231 kg)g = (231 kg)(9.80 ms2) = 2260 N.
+©F
+y = 0
+F
+A sin 60° - (200 kg)(g) = 0
+F
+B
+A
+mg = (200 kg)(g),
+F
+B
+B
+F
+Ay = F
+A sin 60°.
+F
+Ax = –F
+A cos 60°
+F
+A,
+F
+B
+A
+F
+B .
+F
+A
+F
+B
+B
+F
+B
+A
+©F
+y = 0,
+©F
+x = 0
+F
+B
+B,
+F
+B
+A ,
+F
+B
+B
+F
+B
+A
+mg = (200 kg)A9.80 ms2B = 1960 N.
+F
+B
+B
+F
+B
+A
+EXAMPLE 9;2
+Referring to Eq. 8–14,
+we see that if an object is to remain at rest, the
+net torque applied to it (calculated about any axis) must be zero. Thus we have
+the second condition for equilibrium: that the sum of the torques acting on an
+object, as calculated about any axis, must be zero:
+(9;2)
+This condition will ensure that the angular acceleration,
+about any axis will 
+be zero. If the object is not rotating initially
+it will not start rotating.
+Equations 9–1 and 9–2 are the only requirements for an object to be in equilibrium.
+We will mainly consider cases in which the forces all act in a plane (we call it
+the xy plane). In such cases the torque is calculated about an axis that is perpen-
+dicular to the x

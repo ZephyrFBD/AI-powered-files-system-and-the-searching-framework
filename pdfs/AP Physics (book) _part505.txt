@@ -1,0 +1,20 @@
+ surface
+such a satellite must orbit, and (b) such a satellite’s speed. (c) Compare to the
+speed of a satellite orbiting 200 km above Earth’s surface.
+APPROACH To remain above the same point on Earth as the Earth rotates,
+the satellite must have a period of 24 hours. We can apply Newton’s second law,
+where  
+if we assume the orbit is circular.
+SOLUTION (a) The only force on the satellite is the gravitational force due
+to the Earth. (We can ignore the gravitational force exerted by the Sun. Why?)
+We apply Eq. 5–6 assuming the satellite moves in a circle:
+This equation has two unknowns, r and v. So we need a second equation. The
+satellite revolves around the Earth with the same period that the Earth rotates
+on its axis, namely once in 24 hours. Thus the speed of the satellite must be
+where  
+We substitute this into the
+“satellite equation” above and obtain (after cancelling 
+on both sides):
+After cancelling an r, we can solve for 
+We take the cube root and find
+or 42,200 km from the Eart

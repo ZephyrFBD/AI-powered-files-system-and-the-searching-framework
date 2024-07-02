@@ -1,0 +1,13 @@
+ucts adhere to the electrodes, which 
+permits the electrode reactions to be reversed during charging. A single nicad voltaic cell 
+has a voltage of 1.30 V. Nicad battery packs typically contain three or more cells in series 
+to produce the higher voltages needed by most electronic devices.
+Although nickel–cadmium batteries have a number of attractive characteristics, 
+the use of cadmium as the anode introduces significant limitations. Because cadmium 
+is toxic, these batteries must be recycled. The toxicity of cadmium has led to a decline in 
+their popularity from a peak annual production level of approximately 1.5 billion bat-
+teries in the early 2000s. Cadmium also has a relatively high density, which increases 
+battery weight, an undesirable characteristic for use in portable devices and electric 
+vehicles. These shortcomings have fueled the development of the nickel–metal hydride 
+(NiMH) battery. The cathode reaction is the same as that for nickel–cadmium batteries, 
+but the anode 

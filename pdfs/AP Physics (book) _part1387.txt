@@ -1,0 +1,20 @@
+ Italy, are
+among the earliest known. These
+sensitive and exquisite instruments
+contained alcohol, sometimes colored,
+like many thermometers today.
+the speeds so high, that the molecules do not even stay close together. They move
+rapidly every which way, Fig.13–2c, filling any container and occasionally colliding
+with one another. On average, the speeds are sufficiently high in a gas that when
+two molecules collide, the force of attraction is not strong enough to keep them
+close together and they fly off in new directions.
+Distance between atoms. The density of
+copper is
+and each copper atom has a mass of 63 u. Estimate
+the average distance between the centers of neighboring copper atoms.
+APPROACH We consider a cube of copper 1 m on a side. From the given density 
+we can calculate the mass m of a cube of volume
+We divide
+this mass m by the mass of one atom (63 u) to obtain the number of atoms in 
+We assume the atoms are in a uniform array, and we let N be the number of atoms
+in a 1-m l

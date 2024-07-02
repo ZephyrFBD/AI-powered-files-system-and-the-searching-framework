@@ -1,0 +1,20 @@
+rbitals, it is a simple matter to deter-
+mine the electron configurations for the diatomic molecules B2 through Ne2. For exam-
+ple, a boron atom has three valence electrons. (Remember that we are ignoring the core 
+1s electrons.) Thus, for B2 we must place six electrons in MOs. Four of them fill the s
+2s 
+and s
+2s
+* MOs, leading to no net bonding. The fifth electron goes in one p
+2p MO, and the 
+sixth goes in the other p
+2p MO, with the two electrons having the same spin. Therefore, 
+B2 has a bond order of 1.
+Each time we move one element to the right in period 2, two more electrons must 
+be placed in the diagram of Figure 9.41. For example, on moving to C2, we have two 
+more electrons than in B2, and these electrons are placed in the p
+2p MOs, completely 
+filling them. The electron configurations and bond orders for B2 through Ne2 are given 
+in Figure 9.43.
+Electron Configurations and Molecular properties
+The way a substance behaves in a magnetic field can in some cases provide insigh

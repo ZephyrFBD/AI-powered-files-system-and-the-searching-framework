@@ -1,0 +1,25 @@
+ve charges are placed near each other.
+At the point halfway between the two charges,
+(a) the electric field is zero and the potential is positive.
+(b) the electric field is zero and the potential is zero.
+(c) the electric field is not zero and the potential is positive.
+(d) the electric field is not zero and the potential is zero.
+(e) None of these statements is true.
+3. Four identical point charges are arranged at the corners 
+of a square [Hint: Draw a figure]. The electric field E and
+potential V at the center of the square are
+(a)
+(b)
+(c)
+(d)
+(e)
+regardless of the value.
+4. Which of the following statements is valid?
+(a) If the potential at a particular point is zero, the field at
+that point must be zero.
+(b) If the field at a particular point is zero, the potential at
+that point must be zero.
+(c) If the field throughout a particular region is constant,
+the potential throughout that region must be zero.
+(d) If the potential throughout a particular region is 
+constant, the field thro

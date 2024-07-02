@@ -1,0 +1,11 @@
+NA polymerases are involved in the transcription of DNA into RNA, not the replication of DNA. The major
+enzyme for DNA replication is DNA polymerase (not one of the answer choices). Primase directs the attachment of
+RNA nucleotides to a DNA template, but those RNA primers must be in place before DNA polymerase can attach
+and begin attaching DNA nucleotides.
+5. D. Since ATP contains the adenine nitrogen base, the sugar ribose (not deoxyribose), and three phosphate groups,
+it is equivalent to the adenine RNA nucleotide with two extra phosphate groups. In contrast, an adenine DNA
+nucleotide with two extra phosphates contains a deoxyribose sugar and is written as dATP.
+6. B. Translation is the process in which ribosomes conduct the matching of tRNA with mRNA, producing an amino
+acid chain, or polypeptide.
+7. D. The mRNA is a sequence of nucleotides. Each triplet of nucleotides codes for a particular amino acid. The
+sequence of triplets on the mRNA corresponds to the sequence of amino acids

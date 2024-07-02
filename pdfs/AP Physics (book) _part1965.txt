@@ -1,0 +1,15 @@
+rrent is in a wire depends not only on the voltage
+between its ends, but also on the resistance the wire offers to the flow of electrons.
+Electron flow is impeded because of collisions with the atoms of the wire. We
+define electrical resistance R as the proportionality factor between the voltage V
+(between the ends of the wire) and the current I (passing through the wire):
+(18;2)
+Ohm found experimentally that in metal conductors R is a constant independent
+of V, a result known as Ohm’s law. Equation 18–2,
+is itself sometimes
+called Ohm’s law, but only when referring to materials or devices for which R is
+a constant independent of V. But R is not a constant for many substances 
+other than metals, nor for devices such as diodes, vacuum tubes, transistors, and
+so on. Even for metals, R is not constant if the temperature changes much: for 
+a lightbulb filament the measured resistance is low for small currents, but 
+is much higher at the filament’s normal large operating current that puts i

@@ -1,0 +1,14 @@
+like a pendulum. (Usually, M is somewhat greater than m.) As a result
+of the collision, the pendulum and projectile together swing up to a maximum
+height h, Fig. 7–16. Determine the relationship between the initial horizontal
+speed of the projectile, v, and the maximum height h.
+APPROACH We can analyze the process by dividing it into two parts or two
+time intervals: (1) the time interval from just before to just after the collision
+itself, and (2) the subsequent time interval in which the pendulum moves from
+the vertical hanging position to the maximum height h.
+In part (1), Fig. 7–16a, we assume the collision time is very short, so that the
+projectile is embedded in the block before the block has moved significantly from its
+rest position directly below its support.Thus there is effectively no net external force,
+and we can apply conservation of momentum to this completely inelastic collision.
+In part (2), Fig. 7–16b, the pendulum begins to move, subject to a net 
+external force (grav

@@ -1,0 +1,18 @@
+ locations of lattice points for 
+body-centered and face-centered lattices. (Section 12.2) 
+Related Exercises: 12.21, 12.22, 12.25–12.28
+t State the characteristics and properties of metals. (Section 12.3) 
+Related Exercises: 12.3, 12.31–12.33
+t Calculate the empirical formula and density of ionic and metal-
+lic solids from a picture of the unit cell. Estimate the length of 
+a cubic unit cell from the radii of the atoms/ions present. (Sec-
+tions 12.3 and 12.5) Related Exercises: 12.34–12.37, 12.39, 12.40
+t Explain how homogeneous and heterogeneous alloys differ. De-
+scribe the differences between substitutional alloys, interstitial 
+alloys, and intermetallic compounds. (Section 12.3) 
+Related Exercises: 12.41–12.46
+t Explain the electron-sea model of metallic bonding. (Section 12.4) 
+Related Exercise: 12.49
+t Use the molecular orbital model of metallic bonding to generate 
+the electronic band structures of metals and qualitatively pre-
+dict the trends in melting point, boiling poi

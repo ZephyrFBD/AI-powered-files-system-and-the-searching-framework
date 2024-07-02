@@ -1,0 +1,37 @@
+.
+Voltage reading vs. true voltage. An electronic circuit has
+two 
+resistors,
+and 
+connected in series, Fig.19–34a. The battery voltage 
+is 8.0 V and it has negligible internal resistance. A voltmeter has resistance 
+of 
+on the 5.0-V scale. What voltage does the meter read when connected
+across 
+Fig. 19–34b, and what error is caused by the meter’s finite resistance?
+APPROACH The meter acts as a resistor in parallel with 
+We use parallel
+and series resistor analyses and Ohm’s law to find currents and voltages.
+SOLUTION The voltmeter resistance of 
+is in parallel with 
+Fig. 19–34b. The net resistance 
+of these two is 
+so 
+This
+is in series with
+so the total
+resistance is now 
+(not the original 
+). Hence the current from
+the battery is
+Then the voltage drop across 
+which is the same as that across the voltmeter,
+is 
+[The voltage drop across 
+is
+for a total of 8.0 V
+.] If we assume the meter is
+accurate, it reads 3.5 V. In the original circuit, without the meter,
+so the
+voltage across 
+is 

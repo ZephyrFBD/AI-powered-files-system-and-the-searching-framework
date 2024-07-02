@@ -1,0 +1,17 @@
+ne explanation is that
+the person’s foot exerts a force on the platform. Another explanation (and this 
+is the most useful analysis here) is that this is an example of the conservation of
+angular momentum. If the person starts walking counterclockwise, the person’s
+angular momentum will point upward along the axis of rotation (remember 
+how we defined the direction of 
+using the right-hand rule). The magnitude of
+the person’s angular momentum will be 
+where v is the
+person’s speed (relative to the Earth, not to the platform), r is his distance from
+the rotation axis, m is his mass, and 
+is his moment of inertia if we consider
+him a particle (mass concentrated at one point, Eq.8–11). The platform rotates in the
+opposite direction, so its angular momentum points downward. If the total 
+angular momentum of the system is initially zero (person and platform at rest),
+it will remain zero after the person starts walking. That is, the upward angular
+momentum of the person just balances the opp

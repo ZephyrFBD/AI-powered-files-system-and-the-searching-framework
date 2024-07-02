@@ -1,0 +1,58 @@
+E 24–26 Spectra produced by
+a grating: (a) two wavelengths, 400 nm and
+700 nm; (b) white light. The second order
+will normally be dimmer than the first
+order. (Higher orders are not shown.) If the
+grating spacing is small enough, the second
+and higher orders will be missing.
+m = 2
+m = 2
+m = 2
+m = 2
+m = 2
+m = 2
+m = 1
+m = 1
+m = 1
+m = 1
+m = 1
+m = 1
+m = 0
+m = 0
+700
+nm
+700
+nm
+700
+nm
+700
+nm
+400
+nm
+400
+nm
+400
+nm
+400
+nm
+(a)
+(b)
+Both l
+White
+Rainbow
+Rainbow
+Rainbow
+(fainter)
+Rainbow
+(fainter)
+Atomic hydrogen 
+Mercury
+Sodium
+Solar absorption spectrum 
+EXERCISE D You are shown the spectra produced by red light shining through two 
+different gratings. The maxima in spectrum A are farther apart than those in spectrum B.
+Which grating has more slits/cm?
+24–7 The Spectrometer and Spectroscopy
+A spectrometer or spectroscope, Fig. 24–27, is a device to measure wavelengths
+accurately using a diffraction grating (or a prism) to separate different wavelengths
+of light. Light from a source passes through a

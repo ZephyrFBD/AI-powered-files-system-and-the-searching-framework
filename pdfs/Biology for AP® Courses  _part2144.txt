@@ -1,0 +1,13 @@
+e in play: genetic drift, gene flow, mutation, nonrandom mating,
+and environmental variances.
+776
+Chapter 19 | The Evolution of Populations
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Genetic Drift
+The theory of natural selection stems from the observation that some individuals in a population are more likely to survive
+longer and have more offspring than others; thus, they will pass on more of their genes to the next generation. A big,
+powerful male gorilla, for example, is much more likely than a smaller, weaker one to become the population’s silverback,
+the pack’s leader who mates far more than the other males of the group. The pack leader will father more offspring, who
+share half of his genes, and are likely to also grow bigger and stronger like their father. Over time, the genes for bigger size
+will increase in frequency in the population, and the population will, as a result, grow larger on average. That is, this would
+occur if this particular

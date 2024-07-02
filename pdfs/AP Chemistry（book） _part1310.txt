@@ -1,0 +1,62 @@
+
+C
+O
+0
+0
+0
+Cl
+0
+Cl
+0
+0
+1
+1
+1
+0
+0
+C
+Cl
+Cl
+C
+O
+1
+O
+Cl
+Cl
+1
+1
+2
+2
+Cl
+Cl
+C
+O
+O
+Cl
+C
+Cl
+1
+ 112.14 g C2a 1 mol C
+12.01 g C b = 1.011 mol C
+ 116.17 g O2a 1 mol O
+16.00 g O b = 1.011 mol O
+ 171.69 g Cl2a 1 mol Cl
+35.45 g Cl b = 2.022 mol Cl
+Thus, the reaction involves breaking a C ‚ O bond 
+and a Cl¬Cl bond and forming a C “O bond and 
+two C ¬Cl bonds. Using bond enthalpies from  
+Table 8.3, we have:
+(a) The empirical formula of phosgene can be  
+determined from its elemental composition.  
+ (Section 3.5) Assuming 100 g of the compound 
+and calculating the number of moles of C, O, and 
+Cl in this sample, we have:
+The ratio of the number of moles of each element, 
+obtained by dividing each number of moles by the 
+smallest quantity, indicates that there is one C and one 
+O for each two Cl in the empirical formula, COCl2.
+The molar mass of the empirical formula is 
+12.01 + 16.00 + 2135.452 = 98.91 g>mol, the 
+same as the molar mass of the molecule. Thus, 
+COCl2 is the molecular formula.
+ ∆H = 3D1

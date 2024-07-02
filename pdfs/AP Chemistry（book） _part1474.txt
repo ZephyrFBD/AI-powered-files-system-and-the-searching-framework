@@ -1,0 +1,20 @@
+scles, kill foreign cells, and reinforce memory. The 1998 
+Nobel Prize in Physiology or Medicine was awarded to three scientists for their research that 
+uncovered the importance of NO as a “signaling” molecule in the cardiovascular system. 
+NO also functions as a neurotransmitter and is implicated in many other biological path-
+ways. That NO plays such an important role in human metabolism was unsuspected before 
+1987 because NO has an odd number of electrons and is highly reactive. The molecule has 
+11 valence electrons, and two possible Lewis structures can be drawn. The Lewis structure 
+with the lower formal charges places the odd electron on the N atom:
+O
+11
+21
+0
+0
+O
+N
+N
+Both structures indicate the presence of a double bond, but when compared with the 
+molecules in Figure 9.43, the experimental bond length of NO (1.15 Å) suggests a bond 
+order greater than 2. How do we treat NO using the MO model?
+If the atoms in a heteronuclear diatomic molecule do not differ too greatly in elec

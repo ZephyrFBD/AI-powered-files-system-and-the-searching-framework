@@ -1,0 +1,20 @@
+es.
+(b) Magnetic forces.
+(c) Electric forces.
+(d) Glue.
+(e) Nuclear forces.
+S
+ince its development in the 1920s, quantum mechanics has had a profound
+influence on our lives, both intellectually and technologically. Even the way
+we view the world has changed, as we have seen in the last few Chapters.
+Now we discuss how quantum mechanics has given us an understanding of the
+structure of molecules and matter in bulk, as well as a number of important applica-
+tions including semiconductor devices and applications to biology. Semiconductor
+devices, like transistors, now may be only a few atoms thick, which is the realm of
+quantum mechanics.
+29–1 Bonding in Molecules
+One of the great successes of quantum mechanics was to give scientists, at last, an
+understanding of the nature of chemical bonds. Because it is based in physics,
+and because this understanding is so important in many fields, we discuss it here.
+By a molecule, we mean a group of two or more atoms that are strongly held
+together 

@@ -1,0 +1,16 @@
+ping. Consider what happens when a few phospho-
+rus atoms (known as dopants) replace silicon atoms in a silicon crystal. In pure Si, all of 
+ 
+SECTION 12.7  Covalent-Network Solids 
+497
+498 
+CHAPTER 12 Solids and Modern Materials
+the valence-band molecular orbitals are filled and all of the conduction-band molecular 
+orbitals are empty, as Figure 12.31(a) shows. Because phosphorus has five valence elec-
+trons but silicon has only four, the “extra” electrons that come with the dopant phos-
+phorus atoms are forced to occupy the conduction band [Figure 12.31(b)]. The doped 
+material is called an n-type semiconductor, n signifying that the number of negatively 
+charged electrons in the conduction band has increased. These extra electrons can move 
+very easily in the conduction band. Thus, just a few parts per million (ppm) of phospho-
+rus in silicon can increase silicon’s intrinsic conductivity by a factor of a million!
+The dramatic change in conductivity in response to the addition of a t

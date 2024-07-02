@@ -1,0 +1,20 @@
+ctants and products are in their standard states. 
+We denote a standard enthalpy change as ∆H °, where the superscript ° indicates stan-
+dard-state conditions.
+The standard enthalpy of formation of a compound, ∆Hf°, is the change in 
+enthalpy for the reaction that forms one mole of the compound from its elements with 
+all substances in their standard states:
+ 
+elements    ¡     compound      ∆Hrxn = ∆Hf° 
+[5.24]
+We usually report ∆Hf° values at 298 K. If an element exists in more than one form under 
+standard conditions, the most stable form of the element is usually used for the formation 
+reaction. For example, the standard enthalpy of formation for ethanol, C2H5OH, is the 
+enthalpy change for the reaction
+ 
+2 C1graphite2 + 3 H21g2 + 1
+2  O21g2 ¡  C2H5OH1l2   ∆Hf° = -277.7 kJ 
+[5.25]
+The elemental source of oxygen is O2, not O or O3, because O2 is the stable form of oxygen 
+at 298 K and atmospheric pressure. Similarly, the elemental source of carbon is graphite 
+and not diamond becau

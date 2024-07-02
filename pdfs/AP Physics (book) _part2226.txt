@@ -1,0 +1,20 @@
+ states that
+The dots represent all the terms we did not write down. All the segments are the
+same distance from the wire, so by symmetry we expect B to be the same at each
+segment. We can then factor out B from the sum:
+The sum of the segment lengths 
+equals the circumference of the circle,
+Thus
+we have
+or
+This is just Eq. 20–6 for the magnetic field near a long straight wire, so Ampère’s
+law agrees with experiment in this case.
+A great many experiments indicate that Ampère’s law is valid in general.
+Practically, it can be used to calculate the magnetic field mainly for simple or
+symmetric situations. Its importance is that it relates the magnetic field to the
+current in a direct and mathematically elegant way. Ampère’s law is considered
+one of the basic laws of electricity and magnetism. It is valid for any situation
+where the currents and fields are not changing in time.
+Field Inside a Solenoid
+We now use Ampère’s law to calculate the magnetic field inside a solenoid
+(Section 20–7),

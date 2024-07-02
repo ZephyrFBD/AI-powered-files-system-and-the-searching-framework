@@ -1,0 +1,35 @@
+er it is acidic 
+or basic. Because Na+ is a cation of group 1A, it has no influence 
+on pH. Thus, our analysis of whether the solution is acidic or basic 
+must focus on the behavior of the HPO4
+2- ion. We need to con-
+sider that HPO4
+2- can act as either an acid or a base:
+As acid  HPO4
+2-1aq2 ∆ H+1aq2 + PO4
+3-1aq2 
+[16.46]
+As base  HPO4
+2-1aq2 + H2O ∆
+               H2PO4
+-1aq2 + OH-1aq2 
+[16.47]
+Of these two reactions, the one with the larger equilibrium 
+constant determines whether the solution is acidic or basic.
+Solve The value of Ka for Equation 16.46 is Ka3 for 
+H3PO4: 4.2 * 10-13 (Table 16.3). For Equation 16.47, we 
+must calculate Kb for the base HPO4
+2- from the value of 
+Ka for its conjugate acid, H2PO4
+-, and the relationship 
+Ka * Kb = Kw 1Equation 16.402. The relevant value of Ka for 
+H2PO4
+- is Ka2 for H3PO4: 6.2 * 10-8 (from Table 16.3). We there-
+fore have
+ Kb1HPO4
+2-2 * Ka1H2PO4
+-2 = Kw = 1.0 * 10-14
+ Kb1HPO4
+2-2 = 1.0 * 10-14
+6.2 * 10-8 = 1.6 * 10-7.
+This Kb value is

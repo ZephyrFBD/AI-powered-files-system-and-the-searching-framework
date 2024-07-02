@@ -1,0 +1,14 @@
+ 6 nd2 in many-electron atoms.
+Finally, let’s examine trends in valence-electron Zeff values.
+ 
+The effective nuclear charge increases from left to right across any period  
+of the periodic table.
+Although the number of core electrons stays the same across the period, the number of 
+protons increases—in our analogy, we are increasing the brightness of the light bulb while 
+keeping the shade the same. The valence electrons added to counterbalance the increas-
+ing nuclear charge screen one another ineffectively. Thus, Zeff increases steadily. For exam-
+ple, the two core electrons of lithium 11s22s12 screen the 2s valence electron from the 3+ 
+nucleus fairly efficiently. Consequently, the valence electron experiences an effective 
+nuclear charge of roughly 3 - 2 = 1+. For beryllium 11s22s22 the effective nuclear charge 
+experienced by each valence electron is larger because here the two core 1s electrons 
+screen a 4+ nucleus, and each 2s electron only partially screens the other. Conseque

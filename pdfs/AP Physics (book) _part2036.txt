@@ -1,0 +1,30 @@
+ 35%-efficient power plant to provide the yearly
+needs of this household?
+67. A small city requires about 15 MW of power. Suppose that
+instead of using high-voltage lines to supply the power, the
+power is delivered at 120 V. Assuming a two-wire line of
+0.50-cm-diameter copper wire, estimate the cost of the
+energy lost to heat per hour per meter. Assume the cost of
+electricity is about 12 cents per kWh.
+7500 kcalkg
+2.0 kWhday.
+1.0 hday,
+6.0 hday,
+2.0 hday
+mho A= ohm–1B,
+G = 1R.
+(1 hp = 746 W.)
+5.00 cm
+3.00 cm
+524
+CHAPTER 18
+Electric Currents
+68. A 1600-W hair dryer is designed for 117 V. (a) What will be
+the percentage change in power output if the voltage drops
+to 105 V? Assume no change in resistance. (b) How would
+the actual change in resistivity with temperature affect your
+answer?
+69. The wiring in a house must be thick enough so it does not
+become so hot as to start a fire. What diameter must a
+copper wire be if it is to carry a maximum current of 35 A
+and produce no more th

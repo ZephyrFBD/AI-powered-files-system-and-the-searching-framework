@@ -1,0 +1,17 @@
+spring-loaded metal rod drops down over
+the end of the bimetallic strip (c) and the
+circuit opens at the contact points (one is
+attached to the rod) and the outside switch 
+is also flipped. When the bimetallic strip
+cools, it can be reset using the outside switch.
+Better magnetic-type circuit breakers are
+discussed in Chapters 20 and 21.
+Household circuits are designed with the various devices connected so that
+each receives the standard voltage (Fig. 18–20) from the electric company (usually
+120 V in the United States). Circuits with the devices arranged as in Fig. 18–20
+are called parallel circuits, as we will discuss in the next Chapter. When a fuse
+blows or circuit breaker opens, it is important to check the total current being
+drawn on that circuit, which is the sum of the currents in each device.
+If the circuit in Fig. 18–20 is designed for a 20-A fuse, the fuse should blow,
+and we hope it will, to prevent overloaded wires from getting hot enough to start
+a fire. Something will h

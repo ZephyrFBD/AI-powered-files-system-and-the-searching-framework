@@ -1,0 +1,56 @@
+23).
+1920 * 3 (colors) L 6000
+±5 V
+±5
+¢V
+¢V
+*
+FIGURE 17–32 Example of an
+image made up of many small
+squares or pixels (picture elements).
+This one has rather low resolution.
+FIGURE 17–33 Array of wires 
+(a matrix) behind all the pixels on an
+LCD screen. Each intersection of two
+wires is at a subpixel (red, green, or
+blue). One horizontal wire is activated
+at a time (the orange one at the
+moment shown) meaning it is at a
+positive voltage 
+which
+allows that one row of pixels to be
+addressed at that moment; all 
+other horizontal wires are at 
+. At
+this moment, the data stream arrives
+to all the vertical wires, presenting the
+needed voltage (between 0 and 
+)
+to produce the correct brightness for
+each of the nearly 6000 subpixels along
+the activated row.
+5 V
+0 V
+(±20 V)
+0 V
+0 V
+0 V
+0 V
+0 V
+0 V
+0 V
+0 V
+20 V
+0 V
+0 V
+0 V
+0 V
+0 V
+0 V
+0 V
+RGB RGB RGB RGB RGB RGB RGB RGB RGB RGB RGB RGB RGB RGB RGB RGB
+This pixel, with
+all 3 colors shining,
+would appear white
+at viewing distances
+The video signa

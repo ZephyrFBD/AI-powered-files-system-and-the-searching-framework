@@ -1,0 +1,29 @@
+ vB =
+–AvA
+œ - vB
+œ B.
+vA - vB = vB
+œ - vA
+œ
+Equal masses. Billiard ball A of mass m moving with
+speed
+collides head-on with ball B of equal mass. What are the speeds of the two
+balls after the collision, assuming it is elastic? Assume (a) both balls are moving
+initially (
+and 
+), (b) ball B is initially at rest
+APPROACH There are two unknowns,
+and 
+so we need two indepen-
+dent equations. We focus on the time interval from just before the collision 
+until just after. No net external force acts on our system of two balls (mg and
+the normal force cancel), so momentum is conserved. Conservation of kinetic
+energy applies as well because we are told the collision is elastic.
+SOLUTION (a) The masses are equal  
+so conservation of
+momentum gives
+We need a second equation, because there are two unknowns.We could use the
+conservation of kinetic energy equation, or the simpler Eq. 7–7 derived from it:
+We add these two equations and obtain
+and then subtract the two equations to obtain
+That is, th

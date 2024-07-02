@@ -1,0 +1,11 @@
+e as a relay protein that
+initiates a different transduction pathway.
+5. Relay protein initiates transduction pathway. The relay proteins, now activated by the addition of a phosphate
+group, are released. A relay protein can activate a cellular response or initiate a protein kinase transduction pathway
+that leads to a cellular response. Each kind of relay protein participates in a different cellular response.
+6. RTK pathway is deactivated by dephosphorylation or receptor protein isolation (not shown in figure). The
+RTK pathway is deactivated when dephosphorylating enzymes remove phosphate groups from the kinases or when
+the membrane folds to encircle and internalize the receptor protein in a vesicle (endocytosis).
+There are two fundamental differences between an RTK receptor pathway and the GPCR pathway discussed earlier:
+1. The RTK receptor is usually directly responsible for initiating a transduction pathway. In contrast, the GPCR
+indirectly activates a transduction pathway via a G p

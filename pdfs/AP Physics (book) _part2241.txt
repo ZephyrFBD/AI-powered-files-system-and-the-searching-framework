@@ -1,0 +1,22 @@
+tic field,
+so the ions follow
+a circular path. The radius of the circular path is found from their mark on film,
+or by detectors, if 
+is fixed. If instead r is fixed by the position of a detector,
+then 
+is varied until detection occurs. Newton’s second law,
+applied to
+an ion moving in a circle under the influence only of the magnetic field 
+gives
+Since
+we have
+(20;12)
+All the quantities on the right side are known or can be measured, and thus m can
+be determined.
+Historically, the masses of many atoms were measured this way. When a pure
+substance was used, it was sometimes found that two or more closely spaced
+marks would appear on the film. For example, neon produced two marks whose
+radii corresponded to atoms of 20 and 22 atomic mass units (u). Impurities were
+ruled out and it was concluded that there must be two types of neon with differ-
+ent masses. These different forms were called isotopes. It was soon found that most
+elements are mixtures of isotopes, and the difference in mass 

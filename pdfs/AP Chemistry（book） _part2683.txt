@@ -1,0 +1,43 @@
+strong acid, the major 
+species in solution are HF
+, H+, and Cl-. The Cl-, which is the 
+conjugate base of a strong acid, is merely a spectator ion in any 
+acid–base chemistry. The problem asks for 3F-4, which is formed 
+by ionization of HF
+. Thus, this is the important equilibrium:
+The common ion in this problem is the hydrogen (or hydro-
+nium) ion. Now we can tabulate the initial and equilibrium 
+concentrations of each species involved in this equilibrium:
+HF1aq2 ∆ H+1aq2 + F-1aq2
+HF1aq2  ∆  H+1aq2 +  F-1aq2
+Initial (M)
+0.20
+0.10
+0
+Change (M)
+-x
++x
++x
+Equilibrium (M)
+10.20 - x2
+10.10 + x2
+x
+The equilibrium constant for the ionization of HF
+, from Appen-
+dix D, is 6.8 * 10-4. Substituting the equilibrium-constant con-
+centrations into the equilibrium expression gives:
+Ka = 6.8 * 10-4 =
+3H+43F-4
+3HF4
+=
+10.10 + x21x2
+0.20 - x
+If we assume that x is small relative to 0.10 or 0.20 M, this ex-
+pression simplifies to:
+ 
+10.1021x2
+0.20
+= 6.8 * 10-4
+ 
+x = 0.20
+0.1016.8 * 10-42 = 1.4 * 10-3 M 

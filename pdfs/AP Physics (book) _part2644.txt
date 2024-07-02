@@ -1,0 +1,39 @@
+ced by a double-slit
+experiment and detected by
+photographic film placed on the
+viewing screen. The arrow marks the
+central fringe. (b) Graph of the
+intensity of light in the interference
+pattern. Also shown are values of m
+for Eq. 24–2a (constructive
+interference) and Eq. 24–2b
+(destructive interference).
+Constructive
+interference m = 3
+2
+1 0
+m = 2
+1
+0
+0
+1
+2
+3
+1
+2
+3
+(a)
+(b)
+Destructive
+interference
+The intensity of the bright fringes is greatest for the central fringe 
+and
+decreases for higher orders, as shown in Fig. 24–9. How much the intensity
+decreases with increasing order depends on the width of the two slits.
+Line spacing for double-slit interference. A screen
+containing two slits 0.100 mm apart is 1.20 m from the viewing screen. Light of
+wavelength
+falls on the slits from a distant source. Approximately
+how far apart will adjacent bright interference fringes be on the screen?
+APPROACH The angular position of bright (constructive interference) fringes
+is found using Eq. 24–2a. 

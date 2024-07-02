@@ -1,0 +1,25 @@
+
+in series and their voltages add up. Thus, the voltage between the ends of two 
+1.5-V AA flashlight batteries connected in series is 3.0 V, whereas the six 2-V cells
+of an automobile storage battery give 12 V. Figure 18–4a shows a diagram of a
+common “dry cell” or “flashlight battery” used not only in flashlights but in many
+portable electronic devices, and Fig. 18–4b shows two smaller ones connected in
+series to a flashlight bulb. An incandescent lightbulb consists of a thin, coiled
+wire (filament) inside an evacuated glass bulb, as shown in Fig. 18–5 and in the
+Chapter-Opening Photos, page 501. When charge passes through the filament, it gets
+very hot (
+) and glows. Other bulb types, such as fluorescent, work differently.
+L 2800 K
+SECTION 18–1
+The Electric Battery
+503
+Filament
+Connecting
+wires
+External
+connections
+Insulator
+FIGURE 18–5 An ordinary incandescent
+lightbulb: the fine wire of the filament becomes
+so hot that it glows. Incandescent halogen 
+bulbs enclose the filament in a

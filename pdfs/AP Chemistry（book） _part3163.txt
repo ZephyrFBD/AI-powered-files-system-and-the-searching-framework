@@ -1,0 +1,32 @@
+ducts in redox reactions. Unless H+, OH-, or H2O is 
+being oxidized or reduced, these species do not appear in the skeleton equation. Their 
+presence, however, can be deduced as we balance the equation.
+How to Balance Redox Reactions in Acidic Aqueous Solution
+ 
+1. Divide the equation into one oxidation half-reaction and one reduction half-reaction.
+ 
+2. Balance each half-reaction.
+(a) First, balance elements other than H and O.
+(b) Next, balance O atoms by adding H2O as needed.
+(c) Then balance H atoms by adding H+ as needed.
+(d) Finally, balance charge by adding e- as needed.
+This speciﬁc sequence 1a2-1d2 is important, and it is summarized in the diagram in 
+the margin. At this point, you can check whether the number of electrons in each 
+half-reaction corresponds to the changes in oxidation state.
+(a)
+(b)
+(c)
+(d)
+“Other” atoms
+Balance atoms
+other than H, O
+Balance O
+by adding H2O
+Balance H
+by adding H+
+Balance electrons
+O
+H
+e–
+ 
+3. Multiply half-reactions by integers as needed to ma

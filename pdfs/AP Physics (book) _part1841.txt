@@ -1,0 +1,31 @@
+ 
+(Eq. 17–3). The loss in potential
+energy will equal its gain in kinetic energy (energy conservation).
+SOLUTION (a) The charge on an electron is 
+Therefore its change in potential energy is
+The minus sign indicates that the potential energy decreases. The potential
+difference,
+has a positive sign because the final potential 
+is higher than the
+initial potential 
+Negative electrons are attracted toward a positive electrode
+(or plate) and repelled away from a negative electrode.
+(b) The potential energy lost by the electron becomes kinetic energy KE. From
+conservation of energy (Eq. 6–11a),
+so
+where the initial kinetic energy is zero since we are given that the electron
+started from rest. So the final
+(c) In the equation just above we solve for v:
+NOTE The electric potential energy does not depend on the mass, only on the
+charge and voltage. The speed does depend on m.
+v = B – 2qV
+ba
+m
+= C –
+2A –1.6 * 10–19 CB(5000 V)
+9.1 * 10–31 kg
+= 4.2 * 107 ms.
+ke = –qV
+ba = 8.0 * 10–16 J.
+1
+2 mv2 

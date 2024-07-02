@@ -1,0 +1,28 @@
+the reaction.
+ 
+▶Practice Exercise 1
+Using the standard molar entropies in Appendix C, calculate 
+the standard entropy change, ∆S°, for the “water-splitting” 
+reaction at 298 K:
+2 H2O1l2 ¡ 2 H21g2 + O21g2
+(a) 326.3 J>K (b) 265.7 J>K (c) 163.2 J>K (d) 88.5 J>K
+(e) -326.3 J>K
+ 
+▶Practice Exercise 2
+Using the standard molar entropies in Appendix C, calculate 
+the standard entropy change, ∆S°, for the following reaction 
+at 298 K:
+Al2O31s2 + 3 H21g2 ¡ 2 Al1s2 + 3 H2O1g2
+∆S° = 2 S°1NH32 - 3S°1N22 + 3 S°1H224
+∆S° = 12 mol21192.5 J>mol@K2 - 311 mol21191.5 J>mol@K2
++ 13 mol21130.6 J>mol@K24
+ = -198.3 J>K
+SOLUTION
+Sample Exercise 19.5 
+Calculating ∆S° from Tabulated Entropies
+Substituting the appropriate S° values from Table 19.1 yields:
+For the ammonia synthesis reaction in Sample Exercise 19.5, qsys is the enthalpy 
+change for the reaction under standard conditions, ∆H°, so the changes in entropy 
+will be standard entropy changes, ∆S°. Therefore, using the procedures described in 
+ 
+Section 5

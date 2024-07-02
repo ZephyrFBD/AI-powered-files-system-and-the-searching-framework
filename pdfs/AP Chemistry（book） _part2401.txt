@@ -1,0 +1,25 @@
+t at a given temperature, an equilibrium among CaCO3, CaO, 
+and CO2 always leads to the same CO2 partial pressure as long as all three components are 
+present. As shown in Figure 15.8, we have the same CO2 pressure regardless of the relative 
+amounts of CaO and CaCO3.
+ 
+SECTION 15.4  Heterogeneous Equilibria 
+637
+Write the equilibrium-constant expression Kc for
+(a) CO21g2 + H21g2 ∆ CO1g2 + H2O1l2
+(b) SnO21s2 + 2 CO1g2 ∆ Sn1s2 + 2 CO21g2
+Sample Exercise 15.5
+ Writing Equilibrium-Constant Expressions for Heterogeneous Reactions
+SOLUTION
+Analyze We are given two chemical equations, both for het-
+erogeneous equilibria, and asked to write the corresponding 
+equilibrium-constant expressions.
+Plan We use the law of mass action, remembering to omit any pure 
+solids and pure liquids from the expressions.
+Solve
+(a) The equilibrium-constant expression is
+Kc =
+3CO4
+3CO243H24
+Because H2O appears in the reaction as a liquid, its concentra-
+tion does not appear in the equilibrium-constant expression.

@@ -1,0 +1,32 @@
+ng the five-carbon chain, 
+the name tells us that the ethyl group is attached to C3 and the 
+methyl group is attached to C2.
+Solve We begin by writing five C atoms attached by single bonds. 
+These represent the backbone of the parent pentane chain:
+C ¬C ¬ C ¬C ¬ C
+We next place a methyl group on the second C and an ethyl 
+group on the third C of the chain. We then add hydrogens to all 
+the other C atoms to make four bonds to each carbon:
+CH3
+CH2
+CH2CH3
+CH3
+CH
+CH
+CH3
+The formula can be written more concisely as
+CH3CH1CH32CH1C2H52CH2CH3
+where the branching alkyl groups are indicated in parentheses.
+ 
+▶Practice Exercise 1
+How many hydrogen atoms are in 2,2-dimethylhexane?
+(a) 6 (b) 8 (c) 16 (d) 18 (e) 20
+ 
+▶Practice Exercise 2
+Write the condensed structural formula for  
+2,3-dimethylhexane.
+Give It Some Thought
+Are the C ¬ C bonds cyclopropane weaker than those in cyclohexane?
+Reactions of Alkanes
+Because they contain only C ¬C and C ¬H bonds, most alkanes are relatively unreac-
+tive. At 

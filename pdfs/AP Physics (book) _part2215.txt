@@ -1,0 +1,23 @@
+ition of the four fields (which
+are of equal magnitude), which will point to the left in (a) and is zero in (b).
+CONCEPTUAL EXAMPLE 20;11
+20–6 Force between Two Parallel Wires
+We have seen that a wire carrying a current produces a magnetic field (magnitude
+given by Eq. 20–6 for a long straight wire). Also, a current-carrying wire feels 
+a force when placed in a magnetic field (Section 20–3, Eq. 20–1). Thus, we expect
+that two current-carrying wires will exert a force on each other.
+Consider two long parallel wires separated by a distance d, as in Fig. 20–26a.
+They carry currents 
+and 
+respectively. Each current produces a magnetic field
+that is “felt” by the other, so each must exert a force on the other. For example,
+the magnetic field 
+produced by 
+in Fig 20–26 is given by Eq. 20–6, which at
+the location of wire 2 points into the page and has magnitude
+See Fig. 20–26b, where the field due only to 
+is shown. According to Eq. 20–2, the
+force 
+exerted by 
+on a length 
+of wire 2, carryin

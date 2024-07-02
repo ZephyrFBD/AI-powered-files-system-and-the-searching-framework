@@ -1,0 +1,14 @@
+e focal length, as we saw in Section 23–7. For closer objects, the image distance
+is greater than the focal length, as can be seen from the lens equation,
+(Eq. 23–8). To focus on nearby objects, the lens must there-
+fore be moved away from the sensor or film, and this is usually done on a manual
+camera by turning a ring on the lens.
+If the lens is focused on a nearby object, a sharp image of it will be formed,
+but the image of distant objects may be blurry (Fig. 25–6). The rays from a point
+on the distant object will be out of focus—instead of a point, they will form a
+circle on the sensor or film as shown (exaggerated) in Fig. 25–7. The distant object
+will thus produce an image consisting of overlapping circles and will be blurred.
+These circles are called circles of confusion. To have near and distant objects sharp 
+in the same photo, you (or the camera) can try setting the lens focus at an inter-
+mediate position. For a given distance setting, there is a range of distances over
+whic

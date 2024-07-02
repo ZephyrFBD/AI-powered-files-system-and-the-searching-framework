@@ -1,0 +1,28 @@
+y worker exposed to a 40-mCi 
+source, assuming the 
+person’s body has cross-sectional area 
+and is normally about 4.0 m from
+the source for 4.0 h per day?
+emits rays of energy 1.33 MeV and 1.17 MeV 
+in quick succession. Approximately 50% of the 
+rays interact in the body and
+deposit all their energy. (The rest pass through.)
+APPROACH Of the given energy emitted, only a fraction passes through the
+worker, equal to her area divided by the total area 
+over a full sphere of
+radius
+4.0 m (Fig. 31–16).
+SOLUTION The total -ray energy per decay is 
+so the total energy emitted by the source per second is
+The proportion of this energy intercepted by the body is its 
+area divided
+by the area of a sphere of radius 4.0 m (Fig. 31–16):
+So the rate energy is deposited in the body (remembering that only 50% of the 
+rays interact in the body) is
+Since 
+the whole-body dose rate for this 70-kg person is
+In 4.0 h, this amounts to a dose of
+for gammas, so the effective dose is 
+(Eqs. 31–10b and 31–9)
+or:
+N

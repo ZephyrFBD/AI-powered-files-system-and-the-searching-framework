@@ -1,0 +1,13 @@
+ of energy. He 
+proposed that all spontaneous chemical and physical changes are exothermic. It takes 
+only a few moments, however, to find exceptions to this generalization. For example, the 
+melting of ice at room temperature is spontaneous and endothermic. Similarly, many 
+spontaneous dissolution processes, such as the dissolving of NH4NO3, are endothermic, 
+as we discovered in Section 13.1. We conclude that although the majority of spontaneous 
+reactions are exothermic, there are spontaneous endothermic ones as well. Clearly, some 
+other factor must be at work in determining the natural direction of processes.
+To understand why certain processes are spontaneous, we need to consider more 
+closely the ways in which the state of a system can change. Recall from Section 5.2 
+that quantities such as temperature, internal energy, and enthalpy are state functions, 
+properties that define a state and do not depend on how we reach that state. The heat 
+transferred between the system and its 

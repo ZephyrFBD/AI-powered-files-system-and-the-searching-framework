@@ -1,0 +1,45 @@
+.
+RJ = rl
+A
+=
+I = VR = (10.1 V)(0.25 ) = 40 A.
+0.25 .
+0.10  + 0.15  =
+(r = 1.68 * 10–8 m  for copper)
+Rs = 0.15 .
+0.10 .
+0.020 .
+EXAMPLE 19;9
+SECTION 19–4
+EMFs in Series and in Parallel; Charging a Battery
+537
+The loop rule for the lower loop, including the weak battery and the starter, gives
+(ii)
+The junction rule at point B gives
+(iii)
+We have three equations in three unknowns. From Eq. (iii),
+and we substitute this into Eq. (i):
+Combining this last equation with Eq. (ii) gives 
+or
+quite a bit better than in part (a).
+The other currents are
+and 
+Note that 
+is in the oppo-
+site direction from what we assumed in Fig. 19–15. The terminal voltage of the
+weak 10.1-V battery when being charged is
+NOTE The circuit in Fig. 19–15, without the starter motor, is how a battery 
+can be charged. The stronger battery pushes charge back into the weaker battery.
+V
+BA = 10.1 V - (–5 A)(0.10 ) = 10.6 V.
+I
+2 = –5 A
+I
+1 = 76 A.
+I
+2 = –5 A
+I
+3 =
+12.5 V + 2.5 V
+(0.175  + 0.0375 ) = 71 A,
+12.5

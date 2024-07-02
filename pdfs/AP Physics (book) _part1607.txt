@@ -1,0 +1,21 @@
+ocess equals the heat added
+to the gas.
+Adiabatic Processes 
+An adiabatic process is one in which no heat is allowed to flow into or out of the
+system:
+This situation can occur if the system is extremely well insulated,
+or the process happens so quickly that heat—which flows slowly—has no time 
+to flow in or out. The very rapid expansion of gases in an internal combustion
+engine is one example of a process that is very nearly adiabatic. An adiabatic
+expansion of an ideal gas done very slowly can be represented by a curve like
+that labeled AC in Fig. 15–3. Since 
+we have from Eq. 15–1 that
+When a gas expands, it does work and W is positive, so the inter-
+nal energy decreases; hence the temperature decreases as well (because
+). This is seen in Fig. 15–3 where the product PV
+is less
+at point C than at point B. (Compare to curve AB for an isothermal process, in
+which
+and
+) In the reverse operation, an adiabatic compression
+(going from C to A, for example), work is done on the gas, and henc

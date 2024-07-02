@@ -1,0 +1,13 @@
+r iron), a magnet cannot be made at all.
+The striking similarity between the fields produced by a bar magnet and by 
+a loop of electric current (Figs. 20–4b, 20–9) offers a clue that perhaps magnetic
+fields produced by electric currents may have something to do with ferromagnetism.
+According to modern atomic theory, atoms can be roughly visualized as having
+electrons that orbit around a central nucleus. The electrons are charged, and so
+constitute an electric current and therefore produce a magnetic field. But the
+fields due to orbiting electrons end up adding to zero. Electrons themselves pro-
+duce an additional magnetic field, almost as if they and their electric charge were
+spinning about their own axes. And it is this magnetic field due to electron spin†
+that is believed to produce ferromagnetism in most ferromagnetic materials.
+It is believed today that all magnetic fields are caused by electric currents.
+This means that magnetic field lines always form closed loops, unlike electr

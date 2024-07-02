@@ -1,0 +1,16 @@
+ 2,000 antibodies per second
+over the cell’s 4–5 day life span. A B cell becomes activated in several
+steps. First, an APC (macrophage or dendritic cell) presents an antigen or
+epitope on its cell surface using a class II MHC molecule. Next, a helper
+T cell that recognizes this epitope-MHC molecule complex is activated
+with the aid of cytokines secreted from the APC. See the right side of
+Figure 17.1. Once activated, the B cell undergoes multiple cell divisions,
+producing thousands of clones. Some of these clones become effector
+cells, also called plasma cells, that secrete antibodies. The remainder of
+the clones develop into long-term memory cells that can rapidly respond
+******ebook converter DEMO Watermarks*******
+to any exposure to the same antigen many years later. These memory cells
+are responsible for immunological memory and are the reason that a
+person does not, for example, generally get measles a second time.
+STUDY TIP
+Examples of how cells signal each other are important to

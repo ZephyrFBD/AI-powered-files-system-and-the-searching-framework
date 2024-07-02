@@ -1,0 +1,13 @@
+stances range from tenths to tens of nanometers 
+11 nm = 1 * 10-9 m2.
+Inspection of Equation 5.2 shows that electrostatic potential energy goes to zero as 
+d becomes infinite. Thus, zero electrostatic potential energy is defined as infinite sep-
+aration of the charged particles. Figure 5.2 illustrates how Eel behaves as the distance 
+between two charges is varied. When Q1 and Q2 have the same sign (for example, both 
+are positive), the two charged particles repel each other, and a repulsive force pushes 
+them apart. In order to bring two positively charged objects close together, one would 
+have to do work to overcome the repulsive force that exists between the two. Upon 
+releasing them, they would move away from each other as potential energy is con-
+verted to kinetic energy. In this case, Eel is positive, and the potential energy decreases 
+as the distance between particles increases. When Q1 and Q2 have opposite signs, the 
+particles attract each other, and an attractive force pulls

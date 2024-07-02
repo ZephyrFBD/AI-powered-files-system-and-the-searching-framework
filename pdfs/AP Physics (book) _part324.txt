@@ -1,0 +1,32 @@
+was launched, as in Fig. 3–59. For
+example, if you count to find that a baseball was in the
+air for 
+the maximum height attained was
+The fun of this relation is that
+h can be determined without knowledge of the launch
+speed 
+or launch angle 
+Why is that exactly? See 
+Section 3–6.
+u0.
+v0
+h = 1.2 * (5.0)2 = 30 m.
+t = 5.0 s,
+t
+h
+L   1.2t2 m,
+2. Two balls are thrown in the air at different angles, but each
+reaches the same height. Which ball remains in the air longer?
+Explain, using equations.
+3. Show that the speed with which a projectile leaves the
+ground is equal to its speed just before it strikes the
+ground at the end of its journey, assuming the firing level
+equals the landing level.
+4. The initial angle of projectile A is 30°, while that of projec-
+tile B is 60°. Both have the same level horizontal range.
+How do the initial velocities and flight times (elapsed time
+from launch until landing) compare for A and B?
+5. You are driving south on a highway at 
+(approxi-
+mately 
+) in a snow

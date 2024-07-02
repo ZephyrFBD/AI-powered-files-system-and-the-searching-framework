@@ -1,0 +1,31 @@
+2
+R
+ [15.29]
+Using the same approach, we can write an equation that gives the 
+change in the reverse rate constant:
+ ln kr 1
+kr 2
+=
+Ea1reverse2
+R
+a
+1
+300 K -
+1
+400 K b = 1200 
+Ea1reverse2
+R
+ [15.30]
+These equations are identical with one exception: the activation 
+energies for the forward and reverse reactions are not the same, as 
+shown on the left-hand side of Figure 15.15. For an endothermic reac-
+tion, the activation energy in the forward direction is always larger 
+than that of the reverse reaction, Ea(forward) 7 Ea(reverse). Conse-
+quently, the decrease in the forward rate constant (Equation 15.29) 
+will be larger than the decrease in the reverse rate constant (Equa-
+tion 15.30), and the overall value of the equilibrium constant K must 
+decrease.
+For an exothermic reaction, Ea(reverse) 7 Ea(forward) and the 
+opposite relationships apply as shown on the right-hand side of Fig-
+ure 15.15. As temperature is lowered, the reverse rate constant will 
+decrease more rapidly than the forw

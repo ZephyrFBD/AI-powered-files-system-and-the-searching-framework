@@ -1,0 +1,18 @@
+ng this stage, the speed of
+draining away water will increase as the hot water is added into the bathtub
+continuously.
+(2) Immediately, the speed of draining away water keeps stable. During this stage, the
+speed of draining away water is the same as the speed of adding hot water into the
+bathtub.
+(3) Finally, the person stops adding hot water into the bathtub. The speed of draining
+away water decreases from the stable number to zero. During this stage, although
+no more water will be added into the bathtub, the liquid level is still a little higher
+than the height where the overflow drain is. Hence, the process of draining away
+water is still going on and will finally decrease to zero.
+graph 2：v-t actual graph
+Team#44509
+Page 9 of 26
+From the picture above, the time of the first stage and the final stage is very short,
+so we can approximatively regard that draining away the water goes on at the same
+time as adding the water and the speed of draining away the water is always the same
+as 

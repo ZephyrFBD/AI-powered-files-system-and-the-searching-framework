@@ -1,0 +1,18 @@
+ter (a device that measures 
+electrical current) that is based on the electrolysis of water 
+into hydrogen and oxygen gases. When electrical current 
+of unknown magnitude is run through the device for 2.00 
+min, 12.3 mL of water-saturated H21g2 is collected. The 
+temperature of the system is 25.5 °C, and the atmospheric 
+pressure is 768 torr. What is the magnitude of the current in 
+amperes?
+design an Experiment
+You are asked to construct a voltaic cell that would simulate an al-
+kaline battery by providing an electrical output of 1.50 V at the be-
+ginning of its discharge. After you complete it, your voltaic cell will 
+be used to power an external device that draws a constant current 
+of 0.50 amperes for 2.0 hours. You are given the following supplies: 
+electrodes of each transition metal from manganese to zinc, the 
+chloride salts of the +2 transition metal ions from Mn2+ to Zn2+ 
+(MnCl2, FeCl2, CoCl2, NiCl2, CuCl2, and ZnCl2), two 100 mL bea-
+kers, a salt bridge, a voltmeter, and wi

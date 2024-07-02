@@ -1,0 +1,44 @@
+1
+3
+Search and Learn
+327
+θi
+x
+Sound
+wave
+*87. For any type of wave that reaches a boundary beyond which
+its speed is increased, there is a maximum incident angle if
+there is to be a transmitted refracted wave. This maximum
+incident angle 
+corresponds to an angle of refraction
+equal to 90°. If
+all the wave is reflected at the
+boundary and none is refracted, because refraction would
+correspond to
+(where 
+is the angle of refraction),
+which is impossible. This phenomenon is referred to as
+total internal reflection. (a) Find a formula
+for 
+using the law of refraction,
+Eq. 11–20. (b) How far from the
+bank should a trout fisherman
+stand (Fig. 11–61) so trout
+won’t be frightened by his
+voice (1.8 m above the
+ground)? The speed
+of sound is about
+in air and
+in water.
+1440 ms
+343 ms
+uiM
+ur
+sin ur 7 1
+ui 7 uiM,
+uiM
+1. Describe a procedure to measure the spring constant k of
+a car’s springs.
+Assume that the owner’s manual 
+gives the car’s mass M and that the shock absorbers are
+worn out so that t

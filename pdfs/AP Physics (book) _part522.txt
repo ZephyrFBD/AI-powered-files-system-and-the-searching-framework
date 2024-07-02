@@ -1,0 +1,24 @@
+es are not to scale.)
+mJ
+128
+CHAPTER 5
+P H Y S I C S  A P P L I E D
+Planets around 
+other stars
+C A U T I O N
+Compare orbits of objects 
+only around the same center
+Other Centers for Kepler’s Laws
+The derivation of Eq. 5–7b, Kepler’s third law, compared two planets revolving
+around the Sun. But the derivation is general enough to be applied to other systems.
+For example, we could apply Eq. 5–7b to compare an artificial satellite and our
+Moon, both revolving around Earth (then 
+would be replaced by 
+the mass
+of the Earth). Or we could apply Eq. 5–7b to compare two moons revolving around
+Jupiter. But Kepler’s third law, Eq. 5–7b, applies only to objects orbiting the same
+attracting center. Do not use Eq. 5–7b to compare, say, the Moon’s orbit around
+Earth to the orbit of Mars around the Sun:they depend on different attracting centers.
+Distant Planetary Systems
+Starting in the mid-1990s, planets revolving around distant stars (Fig. 5–30)
+were inferred from the regular “wobble” in position

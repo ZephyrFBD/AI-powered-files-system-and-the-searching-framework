@@ -1,0 +1,38 @@
+e to write the electron configuration of selenium (Se, ele-
+ment 34). We first locate Se in the table and then move backward from it through the 
+table, from element 34 to 33 to 32, and so forth, until we come to the noble gas that pre-
+cedes Se. In this case, the noble gas is argon, Ar, element 18. Thus, the noble-gas core for 
+Se is [Ar]. Our next step is to write symbols for the outer electrons. We do this by moving 
+across period 4 from K, the element following Ar, to Se:
+ 
+SECTION 6.9  Electron Configurations and the Periodic Table 
+243
+1A
+1
+2
+3
+4
+5
+6
+7
+2A
+4s2
+4p4
+3d10
+3A 4A 5A
+Noble-
+gas core
+6A
+Se
+Ar
+7A
+8A
+s
+d
+p
+f
+Because K is in the fourth period and the s block, we begin with the 4s electrons, meaning 
+our first two outer electrons are written 4s2. We then move into the d block, which begins 
+with the 3d electrons. (The principal quantum number in the d block is always one less 
+than that of the preceding elements in the s block, as seen in Figure 6.30.) Traversing 
+the d bloc

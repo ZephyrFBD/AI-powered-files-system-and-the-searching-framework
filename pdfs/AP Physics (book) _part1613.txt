@@ -1,0 +1,20 @@
+nstant
+U  Q  W,
+First law in isobaric and isovolumetric processes. An
+ideal gas is slowly compressed at a constant pressure of 2.0 atm from 10.0 L to
+2.0 L. This process is represented in Fig. 15–8 as the path B to D. (In this process,
+some heat flows out of the gas and the temperature drops.) Heat is then added to
+the gas, holding the volume constant, and the pressure and temperature are
+allowed to rise (line DA) until the temperature reaches its original value
+In the process BDA, calculate (a) the total work done by the gas, and
+(b) the total heat flow into the gas.
+APPROACH (a) Work is done only in the compression process BD. In process DA,
+the volume is constant so
+and no work is done (Eq. 15–3). (b) We use
+the first law of thermodynamics, Eq. 15–1.
+SOLUTION (a) During the compression BD, the pressure is 
+and the work done is
+The total work done by the gas is 
+where the minus sign means that
+of work is done on the gas.
+(b) Because the temperature at the beginning and at the end 

@@ -1,0 +1,18 @@
+ the principle of conservation of mechanical energy for conservative forces.
+In the next Section we shall see the great usefulness of the conservation of
+mechanical energy principle in a variety of situations, and how it is often easier to
+use than the kinematic equations or Newton’s laws. After that we will discuss
+how other forms of energy can be included in the general conservation of energy
+law, such as energy associated with friction.
+ke + pe,
+¢pe = –¢ke;
+Roller-coaster car speed using energy conservation.
+Assuming the height of the hill in Fig. 6–18 is 40 m, and the roller-coaster car
+starts from rest at the top, calculate (a) the speed of the roller-coaster car at 
+the bottom of the hill, and (b) at what height it will have half this speed. Take
+at the bottom of the hill.
+APPROACH We use conservation of mechanical energy. We choose point 1 to
+be where the car starts from rest  
+at the top of the hill  
+In
+part (a), point 2 is the bottom of the hill, which we choose as our refere

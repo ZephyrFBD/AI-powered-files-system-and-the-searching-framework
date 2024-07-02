@@ -1,0 +1,40 @@
+ = RT ln K. Because 
+∆G° is a large negative number, which 
+means the reaction is thermodynamically 
+very favorable, we expect K to be large.
+ 
+∆G° = -RT ln K
+ -1.7 * 105 J>mol = -18.314 J>K mol2 1298 K2 ln K
+ 
+ln K =
+-1.7 * 105 J>mol
+-18.314 J>K mol21298 K2
+ 
+ln K = 69
+ 
+K = 9 * 1029
+(b) The overall equation is the same as that in 
+part (a), multiplied by 1
+2. The half-reactions 
+are:
+Reduction:   1
+2 O21g2 + 2 H+1aq2 + 2 e- ¡  H2O1l2      
+  E °
+red = +1.23 V
+Oxidation: 
+ 
+ 
+  2 Ag1s2 ¡ 2 Ag+1aq2 + 2 e-  E °
+red = +0.80 V
+Comment E ° is an intensive quantity, so multiplying a chemical 
+equation by a certain factor will not affect the value of E°. Multi-
+plying an equation will change the value of n, however, and hence 
+the value of ∆G°. The change in free energy, in units of J/mol of 
+reaction as written, is an extensive quantity. The equilibrium con-
+stant is also an extensive quantity.
+ 
+▶Practice Exercise 1
+For the reaction
+3 Ni2+1aq2 + 2 Cr1OH231s2 + 10 OH-1aq2 ¡
+ 
+3 Ni1s2 + 2 Cr

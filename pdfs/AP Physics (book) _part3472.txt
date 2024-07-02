@@ -1,0 +1,14 @@
+ deuterium per 80 L of water). The simple proton–proton
+reaction of Eq. 31–6a, which could use a much more plentiful source of fuel,
+has such a small probability of occurring that it cannot be considered a possi-
+bility on Earth.
+Although a useful fusion reactor has not yet been achieved, considerable
+progress has been made in overcoming the inherent difficulties. The problems are
+associated with the fact that all nuclei have a positive charge and repel each other.
+However, if they can be brought close enough together so that the short-range
+attractive strong nuclear force can come into play, it can pull the nuclei together
+and fusion can occur. For the nuclei to get close enough together, they must have
+large kinetic energy to overcome the electric repulsion. High kinetic energies are
+readily attainable with particle accelerators (Chapter 32), but the number of parti-
+cles involved is too small. To produce realistic amounts of energy, we must deal
+with matter in bulk, for which high k

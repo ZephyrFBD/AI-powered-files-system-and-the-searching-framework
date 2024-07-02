@@ -1,0 +1,20 @@
+ter
+Solubility of CaF2 decreases 
+sharply as a common ion 
+(F–) is added to the solution.
+▲ Figure 17.17 Common-ion effect. Notice 
+that the CaF2 solubility is on a logarithmic 
+scale.
+Addition of Ca2+ or F− shifts equilibrium
+concentrations, reducing solubility
+This reduction in solubility is another manifestation of the common-ion effect we looked 
+at in Section 17.1. In general, the solubility of a slightly soluble salt is decreased by the presence 
+of a second solute that furnishes a common ion, as Figure 17.17 shows for CaF2.
+Calculate the molar solubility of CaF2 at 25 °C in a solution that is (a) 0.010 M in Ca1NO322 and (b) 0.010 M in NaF.
+Analyze We are asked to determine the solubility of CaF2 in the 
+presence of two strong electrolytes, each containing an ion com-
+mon to CaF2. In (a) the common ion is Ca2 +, and NO3
+- is a specta-
+tor ion. In (b) the common ion is F -, and Na+ is a spectator ion.
+Plan Because the slightly soluble compound is CaF2, we need 
+to use Ksp for this

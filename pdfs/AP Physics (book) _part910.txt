@@ -1,0 +1,50 @@
+ to be
+stored in the flywheel. (b) What is the angular velocity of the
+flywheel when it has a full “energy charge”? (c) About how
+long would it take a 150-hp motor to give the flywheel a full
+energy charge before a trip?
+*7. A person stands on a platform, initially at rest, that can
+rotate freely without friction. The moment of inertia of the
+person plus the platform is 
+The person holds a spinning
+bicycle wheel with its axis horizontal. The wheel has moment
+of inertia 
+and angular velocity 
+What will be the
+angular velocity 
+of the platform if the person moves 
+the axis of the wheel so that it points (a) vertically upward,
+(b) at a 60° angle to the vertical, (c) vertically downward?
+(d) What will 
+be if the person reaches up and stops the
+wheel in part (a)? See Sections 8–8 and 8–9.
+vP
+vP
+vW .
+IW
+IP.
+95 kmh,
+= 450 N,
+Search and Learn
+A:
+B:
+C: (c).
+F
+B
+A.
+f = 0.076 Hz; T = 13 s.
+D: Yes; she does work to pull in her arms.
+E: (b).
+F: (b).
+ANSWERS TO EXERCISES
+θ
+N
+fr
+(a)
+(b)
+F
+B
+F
+B
+mg
+B

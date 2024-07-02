@@ -1,0 +1,30 @@
+
+1800
+2200
+2600
+3000
+Infrared
+Visible
+Ultraviolet
+Solar spectrum at sea level
+Solar spectrum outside atmosphere
+ 12.76  Cadmium telluride is an important material for solar cells. 
+(a) What is the band gap of CdTe? (b) What wavelength of 
+light would a photon of this energy correspond to? (c) Draw 
+a vertical line at this wavelength in the figure shown in Exer-
+cise 12.75, which shows the light output of the sun as a func-
+tion of wavelength. (d) With respect to silicon, does CdTe 
+absorb a larger or smaller portion of the solar spectrum?
+ 
+Exercises 
+519
+520 
+CHAPTER 12 Solids and Modern Materials
+ 12.77  The semiconductor CdSe has a band gap of 1.74 eV. What 
+wavelength of light would be emitted from an LED made 
+from CdSe? What region of the electromagnetic spectrum is 
+this?
+ 12.78  The first LEDs were made from GaAs, which has a band 
+gap of 1.43 eV. What wavelength of light would be emit-
+ted from an LED made from GaAs? What region of the 
+electromagnetic spectrum does this light

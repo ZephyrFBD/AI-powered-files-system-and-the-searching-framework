@@ -1,0 +1,25 @@
+tation reaction taking 
+place during the titration is
+Ag +1aq2 + Cl-1aq2 ¡ AgCl1s2
+(a) How many grams of chloride ion are in a sample of the water if 20.2 mL of 0.100 M Ag + is needed to react with all the 
+chloride in the sample? (b) If the sample has a mass of 10.0 g, what percentage of Cl- does it contain?
+ 
+Plan (a) We can use the procedure outlined by the green arrows 
+in Figure 4.17. We begin by using the volume and molarity of Ag+ 
+to calculate the number of moles of Ag+ used in the titration. We 
+then use the balanced equation to determine the moles of Cl- in 
+the sample and from that the grams of Cl-. (b) To calculate the 
+percentage of Cl- in the sample, we compare the number of grams 
+of Cl- in the sample with the original mass of the sample, 10.0 g.
+Solve
+(a)  
+Calculate the number of moles of Ag+ used in the titration.
+ Moles Ag+ = 120.2 mL soln2a
+1 L soln
+1000 mL soln b a
+0.100 mol Ag+
+L soln
+b
+ = 2.02 * 10-3 mol Ag+ 
+From the balanced equation we see that 
+1 mol Ag+ ≃1 m

@@ -1,0 +1,19 @@
+econds of arc. In
+Example 33–6,
+of arc, so we would say the star
+is at a distance of 
+One parsec is given by (recall 
+and
+we set the Sun–Earth distance (Fig. 33–11a) as 
+):
+Distant Stars and Galaxies
+Parallax can be used to determine the distance to stars as far away as about
+100 light-years from Earth, and from an orbiting spacecraft perhaps 5 to 10 times
+farther. Beyond that distance, parallax angles are too small to measure. For
+greater distances, more subtle techniques must be employed. We might compare
+the apparent brightnesses of two stars, or two galaxies, and use the inverse square
+law (apparent brightness drops off as the square of the distance) to roughly esti-
+mate their relative distances. We can’t expect this technique to be very precise
+because we don’t expect any two stars, or two galaxies, to have the same intrinsic
+luminosity. When comparing galaxies, a perhaps better estimate assumes the
+brightest stars in all galaxies (or the brightest galaxies in galaxy clusters) ar

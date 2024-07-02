@@ -1,0 +1,39 @@
+example using the Bayer mosaic of pixels (Fig. 25–2) is described in Fig. 25–4.
+=
+
+:
+:
+36 * 24 mm
+16 * 12 mm,
+=
+714
+†This is called a negative, because the black areas correspond to bright objects and vice versa. The
+same process occurs during printing to produce a black-and-white “positive” picture from the
+negative. Color film has three emulsion layers (or dyes) corresponding to the three primary colors.
+‡Specifically, photons of light knock electrons in the valence band up to the conduction band. This
+material on semiconductors is covered in Chapter 29.
+Electrodes
+Color
+pixel
+Object
+White
+White
+Black
+Pixels
+Image
+White light
+FIGURE 25–2 Portion of a typical
+Bayer array sensor. A square group
+of four pixels 
+is sometimes called a
+“color pixel.”
+RG
+GB
+FIGURE 25–3 A layered or “Foveon”
+tri-pixel that includes all three colors,
+arranged vertically so light can pass
+through all three subpixels.
+P H Y S I C S  A P P L I E D
+Cameras, film and digital
+FIGURE 25–4 Suppose we take a
+picture 

@@ -1,0 +1,24 @@
+λ: The number of susceptible people infected by one infective person 
+every week. 
+ μ: The proportion of dead and cured people in patients every week. 
+3.1.2 Assumptions 
+1) We divide the people into three types, including susceptible people, 
+infective people and dead or cured people. 
+2) When the infected people have recovered, they will never get infected 
+again. 
+3) The total number of population N is constant, regardless of new birth and 
+death. 
+4) When patient contact with susceptible people effectively, the susceptible 
+would be infected.  
+5) Assuming λ is constant.  
+6) Assuming μ stay constant. 
+7) When infective people die, the dead people will not infect other people 
+during the circle. 
+3.1.3 The Process of the Model 
+ 
+ 
+ 
+3.1.4 The Foundation of Model1 
+According to the assumptions，we set up a SIR model to solve the problem. 
+At the prophase of the outbreak of Ebola (February, 2014 - February, 2015), 
+due to invalid control without medicine, disease spread in the state

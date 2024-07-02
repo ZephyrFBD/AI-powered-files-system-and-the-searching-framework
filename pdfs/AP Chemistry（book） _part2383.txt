@@ -1,0 +1,34 @@
+ so P = n
+V RT 
+[15.12]
+The usual units for n>V are mol>L, which equals molarity, M. For substance A in our ge-
+neric reaction, we therefore see that
+ 
+P
+A = nA
+V RT = 3A4RT 
+[15.13]
+When we substitute Equation 15.13 and like expressions for the other gaseous com-
+ponents of the reaction into Equation 15.11, we obtain a general expression relating 
+Kp and Kc:
+ 
+Kp =
+13D4RT2d13E4RT2e
+13A4RT2a13B4RT2b = £
+3D4d3E4e
+3A4a3B4b ≥ 
+1RT2d + e
+1RT2a + b 
+[15.14]
+Notice that the term in brackets is equal to Kc, so we can simplify the expression:
+ 
+Kp = Kc1RT21d + e2 - 1a + b2 = Kc1RT2∆n 
+[15.15]
+The quantity ∆n is the change in the number of moles of gas in the balanced chemical 
+equation. It equals the sum of the coefficients of the gaseous products minus the sum of 
+the coefficients of the gaseous reactants:
+ 
+∆n = 1moles of gaseous product2 - 1moles of gaseous reactant2 
+[15.16]
+For example, in the N2O41g2 ∆ 2 NO21g2 reaction, there are 2 mol of product NO2 
+and 1 mol of reactant N2O4. Therefo

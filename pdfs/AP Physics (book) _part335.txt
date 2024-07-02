@@ -1,0 +1,14 @@
+se enough.
+Any reference frame that moves with constant velocity (say, a car or an air-
+plane) relative to an inertial frame is also an inertial reference frame. Reference
+frames where the law of inertia does not hold, such as the accelerating reference
+frames discussed above, are called noninertial reference frames. How can we be
+sure a reference frame is inertial or not? By checking to see if Newton’s first law
+holds. Thus Newton’s first law serves as the definition of inertial reference frames.
+4–3 Mass
+Newton’s second law, which we come to in the next Section, makes use of the
+concept of mass. Newton used the term mass as a synonym for “quantity of matter.”
+This intuitive notion of the mass of an object is not very precise because the
+concept “quantity of matter” is not very well defined. More precisely, we can say
+that mass is a measure of the inertia of an object. The more mass an object has,
+the greater the force needed to give it a particular acceleration. It is harder to start

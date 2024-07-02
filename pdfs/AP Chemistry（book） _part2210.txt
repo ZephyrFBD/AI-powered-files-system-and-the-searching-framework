@@ -1,0 +1,29 @@
+ A ¡  products is first order, the rate law is:
+ 
+Rate = - 
+∆3A4
+∆t
+= k3A4 
+This form of a rate law, which expresses how rate depends on concentration, is called the 
+differential rate law. Using the operation from calculus called integration, we see that this 
+relationship can be transformed into an equation known as the integrated rate law for a 
+first-order reaction that relates the initial concentration of A, 3A40, to its concentration 
+at any other time t, 3A4t:
+ 
+ln3A4t - ln3A40 = -kt or ln 
+3A4t
+3A40
+= -kt 
+[14.12]
+The function “ln” in Equation 14.12 is the natural logarithm (Appendix A.2). Equa-
+tion 14.12 can also be rearranged to
+ 
+ln3A4t = -kt + ln3A40 
+[14.13]
+Check A good way to check our rate law is to use the concentra-
+tions in experiment 2 or 3 and see if we can correctly calculate the 
+rate. Using data from experiment 3, we have
+Rate = k3A42 = 14.0 * 10-3 M-1 s-1210.200 M22
+= 1.6 * 10-4 M>s
+Thus, the rate law correctly reproduces the data, giving both the 
+correct num

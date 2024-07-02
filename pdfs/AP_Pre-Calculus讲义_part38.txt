@@ -1,0 +1,75 @@
+nctions 
+The domain of a rational function consists of all real numbers x except those for which the 
+denominator is zero. 
+ 
+Example 1 
+Graph the rational function f(x) =1/x and state the domain and range. 
+ 
+ 
+ 
+ 
+1.8.2 Asymptotes of Rational Functions 
+The line x = a is a vertical asymptote of the function y = f (x) if y approaches ±∞ as x 
+approaches a from the right or left. 
+ 
+The line y = b is a horizontal asymptote of the function y = (x) if y approaches b as x 
+approaches ± ∞. 
+ 
+ 
+ 
+ 
+48 
+To graph more complicated ones, we need to take a closer look at the behavior of a 
+rational function near its vertical and horizontal asymptotes. 
+In general, if r(x) =P(x) / Q(x) and the degrees of P and Q are the same (both n, say), then 
+the horizontal asymptote is 
+leading coefficient of 
+leading coefficient of 
+P
+y
+Q
+=
+ 
+ 
+Let r be the rational function 
+1
+1
+1
+0
+1
+1
+1
+0
+( )
+n
+n
+n
+n
+m
+m
+m
+m
+a x
+a
+x
+a x
+a
+r x
+b x
+b
+x
+b x
+b
+-
+-
+-
+-
++
++ ××× +
++
+=
++
++ ××× +
++
+ 
+1. The vertical asymptotes of

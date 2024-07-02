@@ -1,0 +1,16 @@
+ut on it, Fig. 16–41. In step 3, a fine dark powder known as toner
+is given a negative charge, and is brushed on the drum as it rotates. The negatively
+charged toner particles are attracted to the positive areas on the drum (the A in
+our case) and stick only there. In step 4, the rotating drum presses against a piece
+of paper which has been positively charged more strongly than the selenium, so
+the toner particles are transferred to the paper, forming the final image. Finally,
+step 5, the paper is heated to fix the toner particles firmly on the paper.
+In a color copier (or printer), this process is repeated for each color—black,
+cyan (blue), magenta (red), and yellow. Combining these four colors in different
+proportions produces any desired color.
+†The separate genes of a DNA double helix can be covered by protein molecules, keeping those genes
+from being “expressed”—that is, translated into the proteins they code for (see Section 29–3).
+*SECTION 16–12
+Gauss’s Law
+463
+P H Y S I C S  A 

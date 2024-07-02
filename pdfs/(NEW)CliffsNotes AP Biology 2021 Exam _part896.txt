@@ -1,0 +1,19 @@
+ial (Ψp), but for a solution in an open beaker,
+ 
+the pressure potential equals zero.
+ 
+Ψ(bag) = + Ψs + Ψp(bag) = Ψs(beaker) + 0 = Ψs(beaker)
+ 
+Now the water potential of the sucrose solution in the beaker and the bag can be calculated using Ψs = −iCRT
+(obtained from the equations
+and formulas pages), where
+i = 1 (ionization constant is 1 because sucrose does not ionize) C = 0.7, obtained from graph where the percent
+weight change is zero R = 0.0831 liter-bar/mole °K (from equations and formulas pages) T = (273 + 25)°K (25°C
+provided in question)
+Section II: Free-Response Questions
+Scoring Standards for the Free-Response Questions
+To score your answers, award your essay points using the standards given below. For each item listed below that
+matches the content and vocabulary of a statement or explanation in your essay, add the indicated number of points
+to your essay score (to the maximum allowed for each section). Scores for each essay question range from 0 to 10
+points.
+Words appeari

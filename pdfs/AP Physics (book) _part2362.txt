@@ -1,0 +1,25 @@
+tect humans in some cases, such as very high currents due to
+short circuits.A ground fault circuit interrupter (GFCI) is meant above all to protect
+humans.
+(L 100 mA).
+*
+*
+2
+1–10 Inductance
+Mutual Inductance
+If two coils of wire are near one another, as in Fig. 21–35, a changing current in
+one will induce an emf in the other. We apply Faraday’s law to coil 2: the emf 
+induced in coil 2 is proportional to the rate of change of magnetic flux passing
+through it. A changing flux in coil 2 is produced by a changing current 
+in coil 1.
+So 
+is proportional to the rate of change of the current in coil 1:
+(21;8a)
+where we assume the time interval 
+is very small, and the constant of propor-
+tionality, M, is called the mutual inductance. (The minus sign is because of 
+Lenz’s law, the induced emf opposes the changing flux.) Mutual inductance 
+has units of
+which is called the henry (H), after Joseph Henry:
+The mutual inductance M is a “constant” in that it does not depend on 
+M depends on “geometri

@@ -1,0 +1,25 @@
+ solenoid) by another constant called
+the magnetic permeability
+which is characteristic of the magnetic material inside
+the coil. Then
+For ferromagnetic materials,
+is much greater 
+than 
+For all other materials, its value is very close to 
+† The value of 
+however, is not constant for ferromagnetic materials; it depends on the strength
+of the “external” field 
+as the following experiment shows.
+Hysteresis
+Measurements on magnetic materials often use a torus or toroid, which is like a
+long solenoid bent into the shape of a donut (Fig. 20–44), so practically all the
+lines of 
+remain within the toroid. Consider a toroid with an iron core that is
+initially unmagnetized and there is no current in the wire loops. Then the current I
+is slowly increased, and 
+(which is due only to I) increases linearly with I. The
+total field B also increases, but follows the curved line shown in Fig. 20–45
+which is a graph of total B vs.
+Initially, point a, the domains are randomly 
+oriented. As 
+increases, th

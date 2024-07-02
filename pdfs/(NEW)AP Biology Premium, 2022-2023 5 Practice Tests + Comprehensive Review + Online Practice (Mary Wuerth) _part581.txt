@@ -1,0 +1,11 @@
+de.
+Lab 4: Diffusion and Osmosis
+Just as a ball on a hill will move from an area of higher potential energy to an area of lower potential energy, water
+will move from an area of higher water potential to an area of lower water potential. Water potential can be defined
+as the potential energy of water in a solution or the ability of water to do work. The more water there is in a solution,
+the higher its water potential will be. The less water there is in a solution, the lower its water potential will be. Water
+potential measures the tendency of water to move from one place to another. Water potential is a result of the effects
+of both pressure potential (ψp) and solute potential (ψs), as shown in the following equation:
+Most living systems are open to the atmosphere and are in pressure equilibrium with their environment. In these
+cases, the pressure potential is zero, and the total water potential is due solely to the solute potential.
+As solute is added to a solution, the relative amou

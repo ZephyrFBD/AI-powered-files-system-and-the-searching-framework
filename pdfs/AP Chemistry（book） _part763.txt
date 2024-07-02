@@ -1,0 +1,13 @@
+s), enthalpies of combustion 
+(∆H for combusting a substance in oxygen), and so forth. A particularly 
+important process used for tabulating thermochemical data is the formation of a com-
+pound from its constituent elements. The enthalpy change associated with this process 
+is called the enthalpy of formation (or heat of formation), ∆Hf, where the subscript f 
+indicates that the substance has been formed from its constituent elements.
+The magnitude of any enthalpy change depends on the temperature, pressure, and 
+state (gas, liquid, or solid crystalline form) of the reactants and products. To compare 
+enthalpies of different reactions, we must define a set of conditions, called a standard 
+state, at which most enthalpies are tabulated. The standard state of a substance is its pure 
+form at atmospheric pressure (1 atm) and the temperature of interest, which we usually 
+choose to be 298 K 125 °C2.* The standard enthalpy change of a reaction is defined 
+as the enthalpy change when all rea

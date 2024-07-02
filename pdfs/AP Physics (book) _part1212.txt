@@ -1,0 +1,41 @@
+ing will persist. The ends of the string, since they are fixed, will be
+nodes. There may be other nodes as well. Some of the possible resonant modes of
+vibration (standing waves) are shown in Fig. 11–41b. Generally, the motion will
+be a combination of these different resonant modes, but only those frequencies
+that correspond to a resonant frequency will be present.
+(c)
+(a)
+(b)
+Antinode
+Node
+Node
+Antinode
+Antinode
+Node
+FIGURE 11–40 Standing waves 
+corresponding to three resonant 
+frequencies.
+1
+2
+1
+l =
+3
+2
+3
+l =
+l =
+2
+Second overtone or third harmonic, f3 = 3f1
+l
+(b)
+(a)
+Fundamental or first harmonic, f1
+First overtone or second harmonic, f2 = 2f1
+l
+l
+l
+FIGURE 11–41 (a) A string is plucked. (b) Only standing waves corresponding to resonant frequencies persist for long.
+315
+To determine the resonant frequencies, we first note that the wavelengths of
+the standing waves bear a simple relationship to the length of the string. The
+lowest frequency, called the fundamental frequency, correspon

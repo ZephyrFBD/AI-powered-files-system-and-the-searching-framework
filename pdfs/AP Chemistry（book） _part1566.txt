@@ -1,0 +1,46 @@
+he lungs equals atmospheric pressure. Exhalation reverses the process—the 
+rib cage contracts and the diaphragm moves up, decreasing the volume of the lungs. Air 
+is forced out of the lungs by the resulting increase in pressure.
+Go Figure
+What would a plot of P versus 1>V look like for a fixed quantity 
+of gas at a fixed temperature?
+P
+V
+1/P
+V
+1.0
+1.0
+0.5
+1.0
+2.0
+0.5
+0 0
+3.0
+1.0
+0.5
+0 0
+▲ Figure 10.5 Boyle’s Law. For a fixed quantity of gas at constant temperature, the volume of the 
+gas is inversely proportional to its pressure.
+Give It Some Thought
+What happens to the pressure of a gas in a closed container if you double its 
+volume while its temperature is held constant?
+ ▲ Figure 10.6 The effect of temperature 
+on volume.
+2300 2200 2100
+0
+100
+200
+10
+20
+30
+40
+50
+Temperature (8C)
+2273 8C
+Volume (cm3)
+0
+▲ Figure 10.7 Charles’s Law. For a fixed 
+quantity of gas at constant pressure, the 
+volume of the gas is proportional to its 
+temperature.
+The Temperature–Volume Relationship: Charles

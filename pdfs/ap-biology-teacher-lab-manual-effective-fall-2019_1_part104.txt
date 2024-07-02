@@ -1,0 +1,104 @@
+cross. 
+1. A one locus-three alleles model similar to the ABO blood type inheritance pattern. 
+The Punnett squares in Figure 5 and Figure 6 display the results of this model. 
+Figure 5 
+Figure 6 
+ 
+ 
+ 
+ 
+ 
+Male 
+Female 
+C
+B 
+C
+S 
+Male 
+Female 
+C
+K 
+C
+S 
+C
+K 
+C
+K
+C
+B 
+mottled burnsi 
+14 
+kandiyohi 
+15 
+C
+K
+C
+S 
+C
+B 
+C
+B
+C
+K 
+mottled burnsi 
+5 
+burnsi 
+7 
+C
+B
+C
+S 
+C
+S 
+C
+B C
+S 
+burnsi 
+11 
+C
+S
+C
+S 
+pipiens 
+10 
+C
+S 
+C
+K F 
+S 
+kandiyohi 
+10 
+C
+S
+C
+S 
+pipiens 
+8 
+GENOTYPE PHENOTYPE 
+K
+C
+B C
+mottled burnsi 
+B
+ C
+B C
+burnsi 
+s
+ C
+B C
+burnsi 
+K
+ C
+K C
+kandiyohi 
+ C
+K Cs
+kandiyohi 
+ Cs Cs 
+pipiens 
+2. A two locus-two alleles model (a more typical dihybrid cross). What if the two 
+parents were Aabb and aaBb (using a different notation)? If they are crossed, they 
+would have generated four genotypes (AaBb, Aabb, aaBb, and aabb) in a one-to-one­
+to-one-to-one ratio. 
+There is a problem — both hypotheses (1 and 2) can account for the data. How could 
+you challenge your students to resolve this iss

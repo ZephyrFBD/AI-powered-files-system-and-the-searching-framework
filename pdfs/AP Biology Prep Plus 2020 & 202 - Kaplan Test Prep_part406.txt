@@ -1,0 +1,18 @@
+ the process, NAD+ is reduced to NADH.
+CITRIC ACID CYCLE
+The citric acid cycle is also known as the Krebs cycle or the tricarboxylic
+acid cycle (TCA cycle). The cycle begins when the two-carbon acetyl
+group from acetyl-CoA combines with oxaloacetate, a four-carbon
+molecule, to form the six-carbon citrate. Through a complicated series of
+reactions, 2 CO2 are released, and oxaloacetate is regenerated for use in
+another turn of the cycle.
+10.4 Explain the function of the electron transport chain
+10.5 Compare input and output molecules and energy
+The Citric Acid Cycle
+For each turn of the citric acid cycle, 1 ATP is produced by substrate level
+phosphorylation via a GTP intermediate. In addition, electrons are
+transferred to NAD+ and FAD, generating NADH and FADH2, respectively.
+These coenzymes then transport the electrons to the electron transport
+chain, where more ATP is produced via oxidative phosphorylation. To be
+clear, the most important function of the citric acid cycle is the
+produc

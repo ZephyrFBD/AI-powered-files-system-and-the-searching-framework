@@ -1,0 +1,25 @@
+ive abundances:
+ 
+Atomic weight = a 31isotope mass2 * 1fractional isotope abundance24  
+[2.1] 
+Naturally occurring carbon, for example, is composed of 98.93% 12C and 1.07% 13C. The 
+masses of these isotopes are 12 amu (exactly) and 13.00335 amu, respectively, making 
+the atomic weight of carbon
+10.98932112 amu2 + 10.01072113.00335 amu2 = 12.01 amu
+The atomic weights of the elements are listed in both the periodic table and the table of 
+elements on the front inside cover of this text.
+over all  
+isotopes of  
+the element
+54 
+CHAPTER 2 Atoms, Molecules, and Ions
+ 
+Sample Exercise 2.4
+Calculating the Atomic Weight of an Element from Isotopic Abundances
+Naturally occurring chlorine is 75.78% 35Cl (atomic mass 34.969 amu) and 24.22% 37Cl (atomic mass 36.966 amu).  
+Calculate the atomic weight of chlorine.
+ 
+▶Practice Exercise 1
+There are two stable isotopes of copper found in nature,  
+63Cu and 65Cu. If the atomic weight of copper Cu is 63.546 amu, 
+which of the following statements are tr

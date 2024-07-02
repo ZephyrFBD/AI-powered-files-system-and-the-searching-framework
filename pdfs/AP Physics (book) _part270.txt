@@ -1,0 +1,47 @@
+vertical (y) motions
+separately. If you are given the initial velocity, you
+may want to resolve it into its x and y components.
+6. List the known and unknown quantities, choosing
+and  
+or
+where  
+and using the 
+or 
+sign, depending on whether
+you choose y positive up or down. Remember that
+never changes throughout the trajectory, and that
+at the highest point of any trajectory that
+returns downward. The velocity just before landing is
+generally not zero.
+7. Think for a minute before jumping into the equations.
+A little planning goes a long way. Apply the relevant
+equations (Table 3–2), combining equations if neces-
+sary. You may need to combine components of a
+vector to get magnitude and direction (Eqs.3–4).
+vy = 0
+vx
+–
+±
+g = 9.80 ms2,
+±g,
+ay = –g
+ax = 0
+P
+R
+O
+B
+L
+E
+M
+S
+O
+L
+V
+I
+N
+G
+Projectile Motion
+Our approach to solving Problems in Section 2–6 also
+applies here. Solving Problems involving projectile
+motion can require creativity, and cannot be done just
+by following some rules. Cert

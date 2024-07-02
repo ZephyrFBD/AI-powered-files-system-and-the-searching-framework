@@ -1,0 +1,25 @@
+f-life, which should occur at 
+680 s, the concentration should have decreased by yet another 
+factor of 2, to 0.025 M. Inspection of the graph shows that this is 
+indeed the case.
+ 
+▶Practice Exercise 1
+We noted in an earlier Practice Exercise that at 25 °C the 
+decomposition of N2O51g2 into NO21g2 and O21g2 follows 
+first-order kinetics with k = 3.4 * 10-5 s-1. How long will 
+it take for a sample originally containing 2.0 atm of N2O5 to 
+reach a partial pressure of 380 torr?
+(a) 5.7 h (b) 8.2 h (c) 11 h (d) 16 h (e) 32 h
+ 
+▶Practice Exercise 2
+(a) Using Equation 14.17, calculate t1>2 for the decomposition 
+of the insecticide described in Sample Exercise 14.7.
+(b) How long does it take for the concentration of the insecti-
+cide to reach one-quarter of the initial value?
+ 
+SECTION 14.5   
+Temperature and Rate 
+587
+The half-life for second-order and other reactions depends on reactant concentra-
+tions and therefore changes as the reaction progresses. We obtained Equation 14.17 for 
+the h

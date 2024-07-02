@@ -1,0 +1,16 @@
+ the unoccupied 
+space in which real molecules can move is less than the container 
+volume. At low pressures, the combined volume of the gas molecules 
+is negligible relative to the container volume. Thus, the unoccupied 
+volume available to the molecules is essentially the container vol-
+ume. At high pressures, the combined volume of the gas molecules is 
+not negligible relative to the container volume. Now the unoccupied 
+volume available to the molecules is less than the container volume. 
+At high pressures, therefore, gas volumes tend to be slightly greater 
+than those predicted by the ideal-gas equation.
+Another reason for nonideal behavior at high pressures is that 
+the attractive forces between molecules come into play at the short 
+intermolecular distances found when molecules are crowded together 
+at high pressures. Because of these attractive forces, the impact of a 
+given molecule with the container wall is lessened. If we could stop 
+the motion in a gas, as illustrated in F

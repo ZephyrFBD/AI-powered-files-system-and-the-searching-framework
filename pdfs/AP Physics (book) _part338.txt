@@ -1,0 +1,16 @@
+, we can say
+that a net force causes acceleration.
+What precisely is the relationship between acceleration and force? Everyday
+experience can suggest an answer. Consider the force required to push a cart
+when friction is small enough to ignore. (If there is friction, consider the net
+force, which is the force you exert minus the force of friction.) If you push the 
+cart horizontally with a gentle but constant force for a certain period of time,
+you will make the cart accelerate from rest up to some speed, say 
+If you
+push with twice the force, the cart will reach 
+in half the time. The accel-
+eration will be twice as great. If you triple the force, the acceleration is tripled,
+and so on. Thus, the acceleration of an object is directly proportional† to the net
+applied force. But the acceleration depends on the mass of the object as well.
+If you push an empty grocery cart with the same force as you push one that 
+is filled with groceries, you will find that the full cart accelerates more

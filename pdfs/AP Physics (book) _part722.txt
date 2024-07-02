@@ -1,0 +1,17 @@
+at stick together
+or two railroad cars that couple together when they collide are examples of com-
+pletely inelastic collisions. The kinetic energy in some cases is all transformed to
+other forms of energy in an inelastic collision, but in other cases only part of it is.
+In Example 7–3, for instance, we saw that when a traveling railroad car collided
+with a stationary one, the coupled cars traveled off with some kinetic energy. In a
+completely inelastic collision, the maximum amount of kinetic energy is transformed
+to other forms consistent with conservation of momentum. Even though kinetic
+energy is not conserved in inelastic collisions, the total energy is always conserved,
+and the total vector momentum is also conserved.
+SECTION 7–6
+Inelastic Collisions
+181
+Ballistic pendulum. The ballistic pendulum is a device used
+to measure the speed of a projectile, such as a bullet. The projectile, of mass m,
+is fired into a large block (of wood or other material) of mass M, which is
+suspended 

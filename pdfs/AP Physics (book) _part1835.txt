@@ -1,0 +1,90 @@
+int a (relative to some
+zero potential energy), the electric potential 
+at this point is
+(17;2a)
+As we discussed in Chapter 6, only differences in potential energy are physically
+meaningful. Hence only the difference in potential, or the potential difference,
+between two points a and b (such as those shown in Fig. 17–1) is measurable.
+V
+a = pea
+q
+.
+V
+a
+pea
+¢pe
+E
+B.
+[uniform E
+B]
+peb - pea =
+–qEd
+[uniform E
+B]
+W = Fd = qEd
+F = qE
+E
+B.
+E
+B
+peb - pea,
+¢pe = –W.
+F = kQ1Q2r2
+474
+CHAPTER 17
+Electric Potential
+†At point a, the positive charge q has its greatest ability to do work (on some other object or system).
+d
+b
+a
+Low
+potential
+High
+potential
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+
+E
+B
+High PE
+Low PE
+FIGURE 17–1 Work is done by the
+electric field 
+in moving the
+positive charge from position a to
+position b.
+E
+B
+When the electric force does positive work on a charge, the kinetic energy increases
+and the potential energy decreases. The difference in potential e

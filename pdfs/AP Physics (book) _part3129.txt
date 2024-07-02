@@ -1,0 +1,38 @@
+time. The
+more accurately we try to measure the position, so that 
+is small, the greater
+will be the uncertainty in momentum,
+If we try to measure the momentum
+very accurately, then the uncertainty in the position becomes large. The uncertainty
+principle does not forbid individual precise measurements, however. For example,
+in principle we could measure the position of an object exactly. But then its
+momentum would be completely unknown. Thus, although we might know the
+position of the object exactly at one instant, we could have no idea at all where it
+would be a moment later. The uncertainties expressed here are inherent in nature,
+and reflect the best precision theoretically attainable even with the best instruments.
+¢px.
+¢x
+(¢x)A¢pxB g
+h
+2p
+.
+(¢x)A¢pxB L (l) a h
+l b
+L h.
+¢px L h
+l
+px = hl
+¢x L l.
+¢x,
+l.
+l,
+(p = hl);
+SECTION 28–3
+The Heisenberg Uncertainty Principle
+807
+UNCERTAINTY PRINCIPLE 
+(position and momentum)
+C A U T I O N
+Uncertainties not due 
+to instrument deficiency,
+bu

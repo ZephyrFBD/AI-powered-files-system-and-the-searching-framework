@@ -1,0 +1,26 @@
+a of the loop increases by 
+an amount 
+in a time 
+By Faraday’s law there is an induced
+emf 
+whose magnitude is given by
+(21;3)
+The induced current is clockwise (to counter the increasing flux).
+Equation 21–3 is valid as long as B,
+and are mutually perpendicular. (If they
+are not, we use only the components of each that are mutually perpendicular.)An emf
+induced on a conductor moving in a magnetic field is sometimes called motional emf.
+We can also obtain Eq. 21–3 without using Faraday’s law. We saw in Chapter 20
+that a charged particle moving with speed 
+perpendicular to a magnetic field B
+experiences a force 
+(Eq. 20–4). When the rod of Fig. 21–11a moves to
+the right with speed 
+the electrons in the rod also move with this speed. Therefore,
+since 
+each electron feels a force 
+which acts up the page as the red
+arrow in Fig.21–11b shows. If the rod is not in contact with the 
+conductor,
+electrons would collect at the upper end of the rod, leaving the lower end positive
+(see signs in Fig

@@ -1,0 +1,27 @@
+RNA and the ribosomes; the rRNA of the ribosome
+also has an enzymatic activity (peptidyl transferase) and catalyzes the formation of the peptide bonds between two aligned
+amino acids. Transfer RNA (tRNA) is one of the smallest of the four types of RNA, usually 70–90 nucleotides long. It
+carries the correct amino acid to the site of protein synthesis. It is the base pairing between the tRNA and mRNA that allows
+for the correct amino acid to be inserted in the polypeptide chain. microRNAs are the smallest RNA molecules and their
+role involves the regulation of gene expression by interfering with the expression of certain mRNA messages. Table 3.2
+summarizes features of DNA and RNA.
+Features of DNA and RNA
+DNA
+RNA
+Function
+Carries genetic information Involved in protein synthesis
+Location
+Remains in the nucleus
+Leaves the nucleus
+Structure
+Double helix
+Usually single-stranded
+Sugar
+Deoxyribose
+Ribose
+Pyrimidines Cytosine, thymine
+Cytosine, uracil
+Purines
+Adenine, guanine
+Adenine, guanine
+T

@@ -1,0 +1,37 @@
+ise 1
+Using the data in Table 20.1, what value would 
+you calculate for the standard emf 1E°
+cell2 for a vol-
+taic cell that employs the overall cell reaction 
+2 Ag+1aq2 + Ni1s2 ¡ 2 Ag1s2 + Ni2+1aq2?
+(a) +0.52 V (b) -0.52 V (c) +1.08 V (d) -1.08 V (e) +0.80 V
+ 
+▶Practice Exercise 2
+Using data in Table 20.1, calculate the standard 
+emf for a cell that employs the overall cell reaction 
+2 Al1s2 + 3 I21s2 ¡ 2 Al3+1aq2 + 6 I-1aq2.
+Cathode:  Cr2 
+O7
+2-1aq2 + 14 H+1aq2 + 6 e- ¡ 2 Cr3+1aq2 + 7 H2O1l2
+Anode: 
+ 
+ 
+   6 I-1aq2 ¡ 3 I21s2 + 6 e-
+E°
+cell = E°
+red 1cathode2 - E°
+red 1anode2 = 1.33 V - 0.54 V = 0.79 V
+SOLUTION
+Sample Exercise 20.6 
+Calculating E°
+cell from E °
+red
+According to Table 20.1, the standard reduc-
+tion potential for the reduction of Cr2O7
+2- to 
+Cr3+ is +1.33 V and the standard reduction 
+potential for the reduction of I2 to I- (the 
+reverse of the oxidation half-reaction) is 
++0.54 V. We use these values in Equation 20.8:
+Although we must multiply the iodide 
+half-reactio

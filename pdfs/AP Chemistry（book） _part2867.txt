@@ -1,0 +1,36 @@
+ociate O2.
+ 
+▶Practice Exercise 1
+The bond dissociation energy of the Br¬ Br bond is 
+193 kJ>mol. What wavelength of light has just enough  
+energy to cause Br¬Br bond dissociation?
+(a) 620 nm (b) 310 nm (c) 148 nm (d) 6200 nm (e) 563 nm
+ 
+▶Practice Exercise 2
+The bond energy in N2 is 941 kJ>mol. What is the longest 
+wavelength a photon can have and still have sufficient  
+energy to dissociate N2?
+l = c
+n = a
+3.00 * 108 m>s
+1.24 * 1015>s
+b a 109 nm
+1 m
+b = 242 nm
+n = E
+h =
+8.22 * 10-19 J
+6.626 * 10-34 J@s
+= 1.24 * 1015  s-1
+We next use the Planck relationship, E = hn, 
+ (Equation 6.2) 
+to calculate the frequency n of a photon that has this amount of 
+energy:
+Finally, we use the relationship between frequency and wave-
+length 
+ (Section 6.1) to calculate the wavelength of the light:
+Give It Some Thought
+Does photoionization lead to the formation of a cation or an anion? Does 
+photoionization lead to bond breaking?
+Ozone in the Stratosphere
+Although N2, O2, and atomic oxygen absorb photo

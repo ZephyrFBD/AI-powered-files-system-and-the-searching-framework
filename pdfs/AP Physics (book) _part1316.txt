@@ -1,0 +1,18 @@
+ifferent wavelengths. The regularly spaced intensity changes
+are called beats.
+To see how beats arise, consider two equal-amplitude sound waves of frequency
+and
+respectively. In 1.00 s, the first source makes 50 vibra-
+tions whereas the second makes 60. We now examine the waves at one point in
+space equidistant from the two sources. The waveforms for each wave as a function
+of time, at a fixed position, are shown on the top graph of Fig. 12–18; the red line
+represents the 50-Hz wave, and the blue line represents the 60-Hz wave. The
+lower graph in Fig. 12–18 shows the sum of the two waves as a function of time. At
+time
+the two waves are shown to be in phase and interfere constructively.
+Because the two waves vibrate at different rates, at time 
+they are
+completely out of phase and interfere destructively. At
+they are again
+in phase and the resultant amplitude again is large. Thus the resultant amplitude
+is large every 0.10 s and drops drastically in between. This rising and falling of t

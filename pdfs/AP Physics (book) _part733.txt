@@ -1,0 +1,15 @@
+bjects. Until now, when-
+ever we have dealt with the motion of an extended object (that is, an object that
+has size), we have assumed that it could be approximated as a point particle or
+that it undergoes only translational motion. Real extended objects, however, can
+undergo rotational and other types of motion as well. For example, the diver 
+in Fig. 7–20a undergoes only translational motion (all parts of the object follow
+the same path), whereas the diver in Fig. 7–20b undergoes both translational 
+and rotational motion. We will refer to motion that is not pure translation as 
+general motion.
+Observations indicate that even if an object rotates, or several parts of a
+system of objects move relative to one another, there is one point that moves in
+the same path that a particle would move if subjected to the same net force.
+This point is called the center of mass (abbreviated CM). The general motion of
+an extended object (or system of objects) can be considered as the sum of the
+transl

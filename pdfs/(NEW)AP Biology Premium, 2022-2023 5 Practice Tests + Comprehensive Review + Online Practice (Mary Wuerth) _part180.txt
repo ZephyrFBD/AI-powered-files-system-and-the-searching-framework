@@ -1,0 +1,10 @@
+that live in warm environments). While increasing the temperature does increase the
+number of molecular collisions, choice (C) is incorrect because boiling would denature the enzyme, making it
+an ineffective catalyst. Choice (D) is incorrect because if the rate of the enzyme-catalyzed reaction was faster at
+higher temperatures, the average time for disks to float would decrease, not increase.
+3. (C) The upper limit of the 95% confidence interval for the 6% concentration of enzyme (15.1 + 2(4.5) = 24.1)
+is greater than the lower limit of the 95% confidence interval for the 3% concentration of enzyme (32.5 – 2(5.9)
+= 20.7), so their 95% confidence intervals overlap. When 95% confidence intervals overlap, it is not possible to
+say there is a statistically significant difference between the two groups. Thus, choice (C) is the correct answer.
+The 95% confidence intervals for the 1% and 3% enzyme concentrations do not overlap, so choice (A) is
+incorrect. Similarly, choice (B) is incorrect be

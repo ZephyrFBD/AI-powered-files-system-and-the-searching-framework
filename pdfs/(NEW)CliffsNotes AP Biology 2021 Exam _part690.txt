@@ -1,0 +1,13 @@
+ produced through photosynthetic (or
+chemosynthetic) activity per unit of time. Components of primary productivity include the following (note that the
+term rate means per unit time):
+1. Gross primary productivity (GPP) is the rate at which producers acquire chemical energy before any of this
+energy is used for metabolism.
+2. Net primary productivity (NPP) is the rate at which producers acquire chemical energy less the rate at which
+they consume energy through respiration. NPP represents the biomass available to herbivores.
+3. Respiratory rate (R) is the rate at which energy is consumed through respiration (and other metabolic activities
+necessary to maintain life). This energy, much of it in the form of ATP, is ultimately lost as heat.
+These components are related by the following equation.
+NPP = GPP - R
+NPP, generated at the bottom tier of the ecological pyramid of energy, supports all of the tiers above it. Energy
+stored in NPP is transferred to herbivores when they eat the primary 

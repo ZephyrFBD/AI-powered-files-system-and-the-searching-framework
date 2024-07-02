@@ -1,0 +1,14 @@
+ility
+Thus we see that as the number of coins increases, the probability of obtaining
+the most orderly arrangement (all heads or all tails) becomes extremely unlikely.
+The least orderly arrangement (half heads, half tails) is the most probable, and the
+probability of being within, say, 5% of the most probable arrangement greatly
+increases as the number of coins increases. These same ideas can be applied to the
+molecules of a system. For example, the most probable state of a gas (say, the 
+air in a room) is one in which the molecules take up the whole space and move
+about randomly; this corresponds to the Maxwellian distribution, Fig. 15–19a
+(and see Section 13–10). On the other hand, the very orderly arrangement of 
+all the molecules located in one corner of the room and all moving with the same
+velocity (Fig. 15–19b) is extremely unlikely.
+From these examples, we can see that probability is directly related to disorder
+and hence to entropy. That is, the most probable state is the one 

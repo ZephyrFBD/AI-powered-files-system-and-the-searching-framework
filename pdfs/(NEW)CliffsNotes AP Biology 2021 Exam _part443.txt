@@ -1,0 +1,11 @@
+gives 0.77. Since p + q must equal 1 (there are only two alleles and their
+frequencies must total 1), the population cannot be in equilibrium. This can be caused by the nonrandom nature of a
+test cross, as a population in equilibrium must be mating randomly.
+7. A. The maintenance of various patterned shells in the snail population is an example of a balanced polymorphism.
+It may be (and there is good evidence that it is) maintained by natural selection, genetic drift (chance), mutations,
+and other factors as well. Convergent evolution does not apply here because it refers to two or more species not of
+common ancestral origin that share similar traits. This question deals with phenotypic variation within a single
+species.
+8. B. Structures in different species are homologous because they have been inherited from a common ancestor.
+Insects (butterflies) are not closely related to the other listed animals. Mammals (including bats) and birds (birds and
+penguins) are related by descent from 

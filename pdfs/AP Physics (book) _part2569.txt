@@ -1,0 +1,31 @@
+ng lenses.]
+Diverging Lens
+By drawing the same three rays emerging from a single object point, we can deter-
+mine the image position formed by a diverging lens, as shown in Fig. 23–39. Note
+that ray 1 is drawn parallel to the axis, but does not pass through the focal point 
+behind the lens. Instead it seems to come (dashed line) from the focal point F in front
+of the lens. Ray 2 is directed toward 
+and is refracted parallel to the lens axis 
+by the lens. Ray 3 passes directly through the center of the lens. The three refracted
+rays seem to emerge from a point on the left of the lens. This is the image point, I.
+Because the rays do not pass through the image, it is a virtual image. Note that the
+eye does not distinguish between real and virtual images—both are visible.
+F¿
+F¿
+664
+CHAPTER 23
+1
+2
+3
+O
+F
+I
+3
+2
+1
+F′
+FIGURE 23–39 Finding 
+the image by ray tracing 
+for a diverging lens.
+23–8 The Thin Lens Equation
+We now derive an equation that relates the image distance to the object distance

@@ -1,0 +1,28 @@
+e use ∆H and ∆S to predict whether a given reaction occurring at con-
+stant temperature and pressure will be spontaneous? The means for doing so was first 
+developed by the American mathematician J. Willard Gibbs (1839–1903). Gibbs pro-
+posed a new state function, now called the Gibbs free energy (or just free energy), G, 
+and defined as
+ 
+G = H - TS 
+[19.10]
+where T is the absolute temperature. For an isothermal process, the change in the free 
+energy of the system, ∆G, is
+ 
+∆G = ∆H - T∆S 
+[19.11]
+Give It Some Thought
+If a process is exothermic, does the entropy of the surroundings (a) always 
+increase, (b) always decrease, or (c) sometimes increase and sometimes decrease, 
+depending on the process?
+ 
+SECTION 19.5  Gibbs Free Energy 
+825
+826 
+CHAPTER 19 Chemical Thermodynamics
+Under standard conditions, this equation becomes
+ 
+∆G° = ∆H° - T∆S° 
+[19.12]
+To see how the state function G relates to reaction spontaneity, recall that for a reac-
+tion occurring at constant temperature and pr

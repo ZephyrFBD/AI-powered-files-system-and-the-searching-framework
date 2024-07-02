@@ -1,0 +1,27 @@
+e dominant 
+one because it has the lowest formal charges on 
+each atom. Indeed, the molecule is usually  
+represented by this single Lewis structure.
+ 
+Sample Integrative Exercise
+Putting Concepts Together
+Phosgene, a substance used in poisonous gas warfare during World War I, is so named because it was first prepared by the 
+action of sunlight on a mixture of carbon monoxide and chlorine gases. Its name comes from the Greek words phos (light) and 
+genes (born of). Phosgene has the following elemental composition: 12.14% C, 16.17% O, and 71.69% Cl by mass. Its molar 
+mass is 98.9 g>mol. (a) Determine the molecular formula of this compound. (b) Draw three Lewis structures for the molecule 
+that satisfy the octet rule for each atom. (The Cl and O atoms bond to C.) (c) Using formal charges, determine which Lewis 
+structure is the dominant one. (d) Using average bond enthalpies, estimate ∆H for the formation of gaseous phosgene from 
+CO(g) and Cl21g2.
+SOLUTION
+C
+O
+Cl
+Cl
+C
+Cl
+Cl
+C
+O
+O
+Cl
+Cl

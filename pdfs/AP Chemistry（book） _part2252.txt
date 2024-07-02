@@ -1,0 +1,21 @@
+elementary reaction in this mechanism.
+(b) Write the equation for the overall reaction.
+(c) Identify the intermediate(s).
+Sample Exercise 14.12
+ Determining Molecularity and Identifying Intermediates
+SOLUTION
+Analyze We are given a two-step mechanism and asked for (a) the 
+molecularities of each of the two elementary reactions, (b) the 
+equation for the overall process, and (c) the intermediate.
+Plan The molecularity of each elementary reaction depends on 
+the number of reactant molecules in the equation for that reac-
+tion. The overall equation is the sum of the equations for the ele-
+mentary reactions. The intermediate is a substance formed in one 
+step of the mechanism and used in another and therefore not part 
+of the equation for the overall reaction.
+Solve
+(a) The ﬁrst elementary reaction involves a single reactant and 
+is consequently unimolecular. The second reaction, which 
+involves two reactant molecules, is bimolecular.
+(b) Adding the two elementary reactions gives
+2 O31g2 +

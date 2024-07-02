@@ -1,0 +1,39 @@
+ s-1 (c) 2.7 * 10-9 s-1 
+(d) 2.3 * 10-1 s-1  (e) 9.2 * 103 s-1
+ 
+▶Practice Exercise 2
+To one significant figure, what is the value for the frequency 
+factor A for the data presented in Sample Exercise 14.11.
+0.0019
+0.0020
+0.0021
+0.0022
+−11
+−10
+−9
+−8
+−7
+−6
+−5
+1/T (K−1)
+ln k
+Slope =−Ea
+R
+▲ Figure 14.18 Graphical determination of activation energy Ea.
+The slope of the line is obtained by choosing any two well- 
+separated points and using the coordinates of each:
+Slope =
+∆y
+∆x =
+-6.6 - 1-10.42
+0.00195 - 0.00215 = -1.9 * 104
+ 
+SECTION 14.6   
+Reaction Mechanisms 
+593
+14.6 ∣ Reaction Mechanisms
+A balanced equation for a chemical reaction indicates the substances present at the start 
+of the reaction and those present at the end of the reaction. It provides no information, 
+however, about the detailed steps that occur at the molecular level as the reactants are 
+turned into products. The steps by which a reaction occurs is called the reaction mech-
+anism. At the most sophisticated level, a re

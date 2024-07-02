@@ -1,0 +1,16 @@
+rface of each rotating disk or platter,
+Fig. 21–27a. During recording of an audio or video signal on tape, or “writing”
+on a hard drive, the voltage is sent to the recording head which acts as a tiny
+electromagnet (Fig. 21–27b) that magnetizes the tiny section of tape or disk pass-
+ing the narrow gap in the head at each instant. During playback, or “reading” of
+an HD, the changing magnetism of the moving tape or disk at the gap causes
+corresponding changes in the magnetic field within the soft-iron head, which in
+turn induces an emf in the coil (Faraday’s law). This induced emf is the output
+signal that can be processed by the computer, or for audio can be amplified and
+sent to a loudspeaker (for video to a monitor or TV).
+*
+*
+Audio and video signals may be analog, varying continuously in amplitude over
+time: the variation in degree of magnetization at sequential points reflects the varia-
+tion in amplitude and frequency of the audio or video signal. In modern equipment,
+analog signals

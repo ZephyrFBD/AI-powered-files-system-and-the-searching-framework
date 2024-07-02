@@ -1,0 +1,18 @@
+able membranes. 
+ (Section 13.5)
+Cell walls are membranes with variable permeability with 
+respect to a number of physiologically important ions (especially 
+Na+, K+, and Ca2+). The concentrations of these ions are different for 
+the ﬂuids inside the cells (the intracellular fluid, or ICF) and outside 
+the cells (the extracellular fluid, or ECF). In cardiac muscle cells, for 
+example, the concentrations of K+ in the ICF and ECF are typically 
+about 135 millimolar (mM) and 4 mM, respectively. For Na+, however, 
+the concentration difference between the ICF and ECF is opposite to 
+that for K+; typically, 3Na+4ICF = 10 mM and 3Na+4ECF = 145 mM.
+The cell membrane is initially permeable to K+ ions but is much 
+less so to Na+ and Ca2+. The difference in concentration of K+ ions 
+between the ICF and ECF generates a concentration cell. Even though 
+the same ions are present on both sides of the membrane, there is a 
+ 
+potential difference between the two ﬂuids that we can calculate using 
+the N

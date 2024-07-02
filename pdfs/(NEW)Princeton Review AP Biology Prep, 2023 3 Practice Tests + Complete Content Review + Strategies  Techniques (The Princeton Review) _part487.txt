@@ -1,0 +1,16 @@
+le, suppose data was collected from 100 families with three children each. Fourteen families had three
+female children, 36 families had two females and a male, 30 families had one female and two males, and 20 families
+had three male children. We would expect offspring sex to segregate independently. In other words, the sex of a
+given child shouldn’t be affected by the sex of previous children. Let’s test whether this is true for this dataset.
+Since we expect sex to segregate independently, this is the null hypothesis (H0). Each family has three children, so
+there are four possible outcomes for each family:
+1. three daughters
+2. two daughters and a son
+3. one daughter and two sons
+4. three sons
+Using some advanced math (that you don’t need to worry about), the probabilities for each of these is:
+1. P(three females) = 12.5%
+2. P(two females, one male) = 37.5%
+3. P(one female, two males) = 37.5%
+4. P(three males) = (1)(0.50)3 = 12.5%
+Because there are 100 families, we expect 12.5 to have 

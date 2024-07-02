@@ -1,0 +1,52 @@
+an object that is rigid or whose
+internal motions are insignificant. It is very useful in simple situations, as we will
+see in the Examples below.
+A 1
+2 mv2B
+= Fd
+W
+n = (±F)(±d) = Fd
+W
+h = (F)(d)(cos 180°) = –Fd,
+d
+B
+F
+B
+–F
+B
+144
+CHAPTER 6
+Work and Energy
+(on nail)
+(on hammer)
+F
+B
+d
+B
+−F
+B
+FIGURE 6–8 A moving hammer
+strikes a nail and comes to rest. The
+hammer exerts a force F on the 
+nail; the nail exerts a force 
+on
+the hammer (Newton’s third law).
+The work done on the nail by the
+hammer is positive
+The work done on the hammer by
+the nail is negative AW
+h = –FdB.
+AW
+n = Fd 7 0B.
+–F
+v1 =  20 m/s
+v2 =  30 m/s
+FIGURE 6–9 Example 6–4.
+Work on a car, to increase its kinetic energy.
+How much net work is required to accelerate a 1000-kg car from 
+to 
+(Fig. 6–9)?
+APPROACH A car is a complex system. The engine turns the wheels and tires
+which push against the ground, and the ground pushes back (see Example 4–4).
+We aren’t interested right now in those complications. Instead, we can get a
+use

@@ -1,0 +1,27 @@
+nfants born with severe respiratory problems are some-
+times given liquid ventilation: They breathe a liquid that 
+can dissolve more oxygen than air can hold. One of these 
+liquids is a fluorinated compound, CF3(CF2)7Br. The solu-
+bility of oxygen in this liquid is 66 mL O2 per 100 mL liq-
+uid. In contrast, air is 21% oxygen by volume. Calculate the 
+moles of O2 present in an infant’s lungs (volume: 15 mL) 
+if the infant takes a full breath of air compared to taking 
+a full “breath” of a saturated solution of O2 in the fluori-
+nated liquid. Assume a pressure of 1 atm in the lungs.
+Fluorocarbon
+Solubility (mass %)
+CF4
+0.0015
+CClF3
+0.009
+CCl2F2
+0.028
+CHClF2
+0.30
+ 
+[13.107] At ordinary body temperature 137 °C2, the solubility of 
+N2 in water at ordinary atmospheric pressure (1.0 atm) is 
+0.015 g>L. Air is approximately 78 mol % N2. (a) Calculate 
+the number of moles of N2 dissolved per liter of blood, as-
+suming blood is a simple aqueous solution. (b) At a depth 
+of 100 ft in water, the e

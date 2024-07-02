@@ -1,0 +1,18 @@
+ be about 2% of 8.8 cm or about 
+Estimated
+uncertainty is meant to take both accuracy and precision into account.
+1–5 Units, Standards, and 
+the SI System
+The measurement of any quantity is made relative to a particular standard or unit,
+and this unit must be specified along with the numerical value of the quantity.
+For example,
+we can measure length in British units such as inches,
+feet, or miles, or in the metric system in centimeters, meters, or kilometers. To
+specify that the length of a particular object is 18.6 is insufficient. The unit
+must be given, because 18.6 meters is very different from 18.6 inches or 
+18.6 millimeters.
+For any unit we use, such as the meter for distance or the second for time,
+we need to define a standard which defines exactly how long one meter or one
+second is. It is important that standards be chosen that are readily reproducible
+so that anyone needing to make a very accurate measurement can refer to the
+standard in the laboratory and communicate with 

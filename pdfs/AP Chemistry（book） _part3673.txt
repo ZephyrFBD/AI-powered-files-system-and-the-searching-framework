@@ -1,0 +1,23 @@
+appear to grasp the metal between two or more 
+donor atoms, bidentate and polydentate ligands are also known as 
+chelating agents (pronounced “KEE-lay-ting”; from the Greek 
+chele, “claw”).
+What is the oxidation number of the metal in 3Rh1NH325Cl41NO322?
+Sample Exercise 23.2 
+Determining the Oxidation Number of a Metal in a Complex
+SOLUTION
+Analyze We are given the chemical formula of a coordination com-
+pound and asked to determine the oxidation number of its metal 
+atom.
+Plan To determine the oxidation number of Rh, we need to figure 
+out what charges are contributed by the other groups. The overall 
+charge is zero, so the oxidation number of the metal must balance 
+the charge due to the rest of the compound.
+Solve The NO3 group is the nitrate anion, which has a 1- charge. 
+The NH3 ligands carry zero charge, and the Cl is a coordinated 
+chloride ion, which has a 1- charge. The sum of all the charges 
+must be zero:
++  
+5(0) + (−1) + 2(−1) = 0
+[Rh(NH3)5Cl](NO3)2
+The oxidation number of

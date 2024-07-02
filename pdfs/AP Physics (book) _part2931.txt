@@ -1,0 +1,20 @@
+he spacecraft. In this
+frame of reference, the spaceship is at rest; Earth and Neptune move† with speed v.
+The time between departure of Earth and arrival of Neptune, as observed from the
+spacecraft, is the “proper time”
+(page 753), because these two events occur 
+at the same point in space (i.e., at the spacecraft). Therefore the time interval is
+less for the spacecraft observers than for the Earth observers. That is, because of
+time dilation (Eq. 26–1a), the time for the trip as viewed by the spacecraft is
+[spacecraft observer]
+Because the spacecraft observers measure the same speed but less time between
+these two events, they also measure the distance as less. If we let be the distance
+between the planets as viewed by the spacecraft observers, then 
+which we can rewrite as
+Thus
+we have the important result that
+(26–3a)
+or, using (Eq. 26–2),
+(26–3b)
+This is a general result of the special theory of relativity and applies to lengths of
+objects as well as to distance between objects. T

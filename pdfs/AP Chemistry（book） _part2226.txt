@@ -1,0 +1,19 @@
+1g2 + H2O1l2 ¡ CH3OH1aq2 + HBr1aq2 
+[14.18]
+To determine the potential importance of CH3Br in destruction 
+of the ozone layer, it is important to know how rapidly the reaction in 
+Equation 14.18 and all other reactions remove CH3Br from the lower 
+atmosphere before it can diffuse into the stratosphere.
+The average lifetime of CH3Br in Earth’s lower atmo-
+sphere is difficult to measure because the conditions that 
+exist in the atmosphere are too complex to be simulated 
+in the laboratory. Instead, scientists analyzed nearly 4000 
+atmospheric samples collected above the Pacific Ocean for 
+the presence of several trace organic substances, including 
+methyl bromide. From these measurements, it was possible 
+to estimate the atmospheric residence time for CH3Br.
+The atmospheric residence time is related to the half-
+life for CH3Br in the lower atmosphere, assuming CH3Br 
+decomposes by a first-order process. From the experimental 
+data, the half-life for methyl bromide in the lower atmo-
+sphe

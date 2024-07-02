@@ -1,0 +1,37 @@
+ greater the difference in concentration, the greater
+the flow rate. Indeed, the rate of diffusion, J (number of molecules or moles or
+kg per second), is directly proportional to the difference in concentration per
+unit distance,
+(which is called the concentration gradient), and to
+the cross-sectional area A (see Fig. 13–28):
+(13;10)
+D is a constant of proportionality called the diffusion constant. Equation 13–10 is
+known as the diffusion equation, or Fick’s law. If the concentrations are given in
+then J is the number of moles passing a given point per second. If the con-
+centrations are given in 
+then J is the mass movement per second 
+The length 
+is given in meters, and area A in m2. The values of D for a variety
+of substances diffusing in a particular medium are given in Table 13–4.
+¢x
+(kgs).
+kgm3,
+molm3,
+J = DA C1 - C2
+¢x
+.
+AC1 - C2B¢x
+AC2B.
+AC1B
+¢x
+382
+CHAPTER 13
+Temperature and Kinetic Theory
+TABLE 13–4 Diffusion
+Constants, D (20°C, 1 atm)
+Diffusing
+Molecules
+Medium
+Air
+Air
+W

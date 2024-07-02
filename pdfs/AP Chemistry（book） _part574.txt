@@ -1,0 +1,34 @@
+n 4.11 is
+H+1aq2 + Cl-1aq2 + Na+1aq2 + OH-1aq2 ¡  
+ 
+H2O1l2 + Na+1aq2 + Cl-1aq2 
+[4.12]
+Therefore, the net ionic equation is
+ 
+H+1aq2 + OH-1aq2 ¡ H2O1l2 
+[4.13]
+Equation 4.13 summarizes the main feature of the neutralization reaction between any 
+strong acid and any strong base: H+1aq2 and OH-1aq2 ions combine to form H2O1l2.
+Figure 4.9 shows the neutralization reaction between hydrochloric acid and the 
+water-insoluble base Mg1OH22:
+Molecular equation:
+ 
+Mg1OH221s2 + 2 HCl1aq2 ¡ MgCl21aq2 + 2 H2O1l2 
+[4.14]
+Net ionic equation:
+ 
+Mg1OH221s2 + 2 H+1aq2 ¡ Mg2+1aq2 + 2 H2O1l2 
+[4.15]
+Notice that the OH- ions (this time in a solid reactant) and H+ ions combine to form H2O. 
+Because the ions exchange partners, neutralization reactions between acids and metal hy-
+droxides are metathesis reactions.
+Base turns litmus 
+paper blue.
+Acid turns litmus 
+paper red.
+▲ Figure 4.8 Litmus paper. Litmus paper 
+is coated with dyes that change color in 
+response to exposure to either acids or 
+bases.
+ 
+Sam

@@ -1,0 +1,16 @@
+ndings?
+The second law of thermodynamics tells us the essential character of any sponta-
+neous change—it is always accompanied by an increase in the entropy of the universe. 
+We can use this law as a criterion to predict whether or not a given process is sponta-
+neous. Before seeing how this is done, however, we will find it useful to explore entropy 
+from a molecular perspective.
+A word on notation before we proceed: Throughout most of the remainder of this chap-
+ter, we will focus on systems rather than surroundings. To simplify the notation, we will usu-
+ally refer to the entropy change of the system as ∆S rather than explicitly indicating ∆Ssys.
+19.3 ∣  
+The Molecular Interpretation  
+of Entropy and the Third Law  
+of Thermodynamics
+As chemists, we are interested in molecules. What does entropy have to do with them 
+and with their transformations? What molecular property does entropy reflect? Ludwig 
+Boltzmann (1844–1906) gave another conceptual meaning to the notion of entropy, an

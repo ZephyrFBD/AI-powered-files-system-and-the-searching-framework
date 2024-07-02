@@ -1,0 +1,115 @@
+s mass m is zero (or negligible) no matter what is. Hence the forces
+pulling on the cord at its two ends must add up to zero (
+and 
+). Note that
+flexible cords and strings can only pull. They can’t push because they bend.
+–F
+T
+F
+T
+a
+B
+©F
+B = ma
+B = 0
+F
+T .
+F
+N
+F
+N = 78.0 N.
+F
+N - 98.0 N + 20.0 N = 0,
+ay = 0.
+F
+Py 6 mg,
+F
+Py = 20.0 N.
+mg = (10.0 kg)A9.80 ms2B = 98.0 N
+F
+N - mg + F
+Py = may.
+©F
+y = may
+F
+N.
+3.46 ms2
+ax = F
+Px
+m
+=
+(34.6 N)
+(10.0 kg)
+= 3.46 ms2 .
+F
+Px = max.
+F
+Px.
+mg
+B
+F
+B
+N
+F
+Py = (40.0 N)(sin 30.0°) = (40.0 N)(0.500) = 20.0 N.
+F
+Px = (40.0 N)(cos 30.0°) = (40.0 N)(0.866) = 34.6 N,
+F
+B
+P.
+F
+B
+N ;
+mg
+B;
+F
+P.
+F
+N
+F
+P = 40.0 N,
+EXAMPLE 4;11
+SECTION 4–7
+89
+30.0°
+30.0°
+FP = 40.0 N
+y
+y
+(b)
+x
+(c)
+x
+(a)
+P
+N
+N
+Py
+m
+m
+F
+B
+F
+B
+F
+B
+F
+B
+Px
+F
+B
+g
+B
+g
+B
+P
+F
+B
+FIGURE 4;21 (a) Pulling the box,
+Example 4–11; (b) is the free-body
+diagram for the box, and (c) is the
+free-body diagram considering all
+the forces to act at a point 
+(translational motion only, which 
+is what we have here).
+P 

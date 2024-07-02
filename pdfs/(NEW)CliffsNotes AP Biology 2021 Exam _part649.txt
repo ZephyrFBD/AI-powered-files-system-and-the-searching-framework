@@ -1,0 +1,9 @@
+ that is, they produce no progeny of their own. Bees are an example of
+haplodiploidy, a reproductive system in which queens and female workers are diploid and male bees (drones) are
+haploid. In the spring, males are born from unfertilized eggs. One male mates with the queen who, in turn, stores the
+sperm to fertilize her eggs throughout the year. Following mating, the males are driven from the hive and die. In a
+normal diploid reproductive system, mother and offspring, as well as sisters, are related, on average, by only 50% of
+their genes. However, because half of the chromosomes of all sister bees are the same (from their haploid father),
+they share, on average, 75% of their genes. Thus, the inclusive fitness of a worker bee (in terms of the number of
+genes it contributes to the next generation) is greater if it promotes the production of sisters (by nurturing the queen)
+than if it were to produce offspring itself. Thus, kin selection favors sterile workers in a haplodiploid society.

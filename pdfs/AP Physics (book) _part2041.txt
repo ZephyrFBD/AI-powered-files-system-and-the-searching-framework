@@ -1,0 +1,21 @@
+length
+of the cord (containing two wires) is 3.5 m, how much power is
+dissipated in the wiring? (c) If no. 12 wire, with a diameter
+of 2.053 mm, was used instead, how much power would be
+dissipated in the wiring? (d) Assuming that the air condi-
+tioner is run 12 h per day, how much money per month
+(30 days) would be saved by using no. 12 wire? Assume
+that the cost of electricity is 12 cents per kWh.
+85. An electric wheelchair is designed to run on a single 12-V
+battery rated to provide 100 ampere-hours (100
+).
+(a) How much energy is stored in this battery? (b) If the
+wheelchair experiences an average total retarding force
+(mainly friction) of 210 N, how far can the wheelchair travel
+on one charge?
+86. If a wire of resistance R is stretched uniformly so that its
+length doubles, by what factor does the power dissipated
+in the wire change, assuming it remains hooked up to the
+same voltage source? Assume the wire’s volume and density
+remain constant.
+87. Copper wire of diameter 0.259 cm is

@@ -1,0 +1,28 @@
+ng
+else is changed.
+*61. (II) What diameter must a 15.5-m-long air duct have if the
+ventilation and heating system is to replenish the air in a
+room 
+every 15.0 min? Assume the
+pump can exert a gauge pressure of 
+*62. (II) What must be the pressure difference between the two
+ends of a 1.6-km section of pipe, 29 cm in diameter, if it is
+to transport oil 
+at a rate
+of
+*63. (II) Poiseuille’s equation does not hold if the flow velocity
+is high enough that turbulence sets in. The onset of turbu-
+lence occurs when the Reynolds number, Re, exceeds
+approximately 2000. Re is defined as
+where is the average speed of the fluid,
+is its density,
+is
+its viscosity, and r is the radius of the tube in which the fluid
+is flowing. (a) Determine if blood flow through the aorta is
+laminar or turbulent when the average speed of blood in the
+aorta
+during the resting part of the heart’s cycle
+is about 
+(b) During exercise, the blood-flow speed
+approximately doubles. Calculate the Reynolds number in
+this case,

@@ -1,0 +1,52 @@
+ume they are constant. We use the ratio form of the ideal gas law.
+SOLUTION Since
+then
+This is, incidentally, a statement of Gay-Lussac’s law. Since the pressure given is
+the gauge pressure (Section 10–4), we must add atmospheric pressure 
+to get the absolute pressure
+We convert
+temperatures to kelvins by adding 273 and solve for 
+Subtracting atmospheric pressure, we find the resulting gauge pressure to be
+243 kPa, which is a 16% increase
+NOTE This Example shows why car manuals emphasize checking tire pressure
+when the tires are cold.
+(= 35 psi).
+P
+2 = P
+1 ¢ T
+2
+T
+1
+≤
+= A3.11 * 105 PaB a 313 K
+283 K b
+= 344 kPa.
+P
+2 :
+P
+1 = (210 kPa + 101 kPa) = 311 kPa.
+(= 101 kPa)
+P
+1
+T
+1
+= P
+2
+T
+2
+.
+V
+1 = V
+2 ,
+210 kPa (= 30 psi)
+EXAMPLE 13;12
+372
+CHAPTER 13
+Temperature and Kinetic Theory
+P H Y S I C S  A P P L I E D
+Pressure in a hot tire
+Avogadro’s number
+FIGURE 13–17 Example 13–12.
+13–8 Ideal Gas Law in Terms of
+Molecules: Avogadro’s Number
+The fact that the gas constant, R, has the same value fo

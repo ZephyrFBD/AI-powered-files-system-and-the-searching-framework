@@ -1,0 +1,18 @@
+ amount of X-ray or 
+radiation that deposits
+of energy per kilogram of air. The roentgen was largely super-
+seded by another unit of absorbed dose applicable to any type of radiation, the
+rad: 1 rad is that amount of radiation which deposits energy per unit mass of
+in any absorbing material. (This is quite close to the roentgen
+for X- and rays.) The proper SI unit for absorbed dose is the gray (Gy):
+(31;9)
+The absorbed dose depends not only on the energy per particle and on the strength
+of a given source or of a radiation beam (number of particles per second), but
+also on the type of material that is absorbing the radiation. Bone, for example,
+absorbs more of X-ray or 
+radiation normally used than does flesh, so the same
+beam passing through a human body deposits a greater dose (in rads or grays) in
+bone than in flesh.
+The gray and the rad are physical units of dose—the energy deposited per
+unit mass of material. They are, however, not the most meaningful units for
+measuring the biolog

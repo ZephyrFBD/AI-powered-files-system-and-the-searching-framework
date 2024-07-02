@@ -1,0 +1,34 @@
+than 1 if the volume is 1 L and each atom/
+molecule in the diagram represents 1 mol? [Section 15.2]
+ 
+15.4 The following diagram represents a reaction shown going 
+to completion. Each molecule in the diagram represents 
+0.1 mol, and the volume of the box is 1.0 L. (a) Letting 
+A = red spheres and B = blue spheres, write a balanced 
+equation for the reaction. (b) Write the equilibrium- 
+constant expression for the reaction. (c) Calculate the 
+value of Kc. (d) Assuming that all of the molecules are in 
+the gas phase, calculate ∆n, the change in the number of 
+gas molecules that accompanies the reaction. (e) Calcu-
+late the value of Kp. [Section 15.2]
+ 
+15.5 Snapshots of two hypothetical reactions, A1g2+
+B1g2 ∆AB1g2 and X1g2 + Y1g2 ∆XY1g2 at five dif-
+ferent times are shown here. Which reaction has a larger 
+equilibrium constant? [Sections 15.1 and 15.2]
+t = 10 s 
+20 s
+30 s
+40 s
+50 s
+X(g)  +  Y(g)
+XY(g)
+t = 10 s 
+20 s
+30 s
+40 s
+50 s
+A(g)  +  B(g)
+AB(g)
+ 
+15.6 Ethene 1C2H42 reacts with hal

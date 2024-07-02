@@ -1,0 +1,26 @@
+ivers have more stages than those shown. Various means are used
+to increase the sensitivity and selectivity (ability to detect weak signals and dis-
+tinguish them from other stations), and to minimize distortion of the original
+signal.†
+A television receiver does similar things to both the audio and the video signals.
+The audio signal goes finally to the loudspeaker, and the video signal to the monitor
+screen, such as an LCD (Sections 17–11 and 24–11).
+f
+0 = 1A2p1LCB,
+
+P H Y S I C S  A P P L I E D
+Radio and TV receivers
+C
+Antenna
+Tuning
+circuit
+Transistor
+amplifier
+FIGURE 22–17 Simple tuning stage
+of a radio.
+FIGURE 22–19 A satellite dish.
+One kind of antenna consists of one or more conducting rods; the electric field
+in the EM waves exerts a force on the electrons in the conductor, causing them to
+move back and forth at the frequencies of the waves (Fig. 22–18a). A second type
+of antenna consists of a tubular coil of wire which detects the magnetic field of the
+wave: the changing B 

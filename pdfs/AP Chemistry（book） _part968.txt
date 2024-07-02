@@ -1,0 +1,23 @@
+f the half arrows.
+Electrons having opposite spins are said to be paired when they are in the same 
+orbital 1
+2
+2. An unpaired electron is one not accompanied by a partner of opposite spin. In 
+the lithium atom the two electrons in the 1s orbital are paired and the electron in the 2s 
+orbital is unpaired.
+Hund’s Rule
+Consider now how the electron configurations of the elements change as we move from 
+element to element across the periodic table.
+Hydrogen Hydrogen has one electron, which occupies the 1s orbital in its ground state:
+H
+1s
+: 1s1
+The choice of a spin-up electron here is arbitrary; we could equally well show the ground 
+state with one spin-down electron. It is customary, however, to show unpaired electrons 
+with their spins up.
+Helium The next element, helium, has two electrons. Because two electrons with oppo-
+site spins can occupy the same orbital, both of helium’s electrons are in the 1s orbital:
+He
+1s
+: 1s2
+The two electrons present in helium complete the filling of the 

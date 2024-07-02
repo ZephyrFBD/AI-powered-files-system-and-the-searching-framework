@@ -1,0 +1,57 @@
+nds of an evacuated thin metal chamber. In
+electronic gauges, the pressure may be applied to a thin metal diaphragm 
+whose resulting deformation is translated into an electrical signal by a transducer.
+A common tire gauge uses a spring, as shown in Fig. 10–7c.
+Nm2 = Pa,
+= 1.33 * 102 Nm2.
+rg ¢h = A13.6 * 103 kgm3BA9.80 ms2BA1.00 * 10–3 mB
+(= 1.0 * 10–3 m)
+1 mm
+rg ¢h
+133 Nm2,
+(mm-H2O).
+¢h
+rg ¢h,
+¢h
+P
+0 .
+rg ¢h
+r
+P
+0
+P = P
+0 + rg ¢h,
+¢h
+U-shaped
+266
+CHAPTER 10
+Fluids
+P R O B L E M  S O L V I N G
+Use SI unit in calculations:
+1 Pa = 1 Nm2
+(b) Aneroid gauge (used mainly
+for air pressure, and then
+called an aneroid barometer)
+Flexible
+chamber
+Air pressure
+P
+Δh
+(a) Open-tube manometer
+P0
+(Pressure being
+measured)
+Atmospheric
+pressure
+Spring
+Pressure of
+air in tire
+(c) Tire gauge
+Scale reading,
+gauge pressure
+FIGURE 10–7 Pressure gauges: (a) open-tube manometer, (b) aneroid gauge, and
+(c) common tire pressure gauge.
+SECTION 10–6
+Measurement of Pressure; Gauges and the Barometer
+267
+TABLE 

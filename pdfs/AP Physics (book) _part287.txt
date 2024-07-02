@@ -1,0 +1,22 @@
+oat with respect to the Water.
+(This is also what the boat’s velocity would be relative to the shore if the 
+water were still.) Similarly,
+is the velocity of the Boat with respect to the Shore,
+and 
+is the velocity of the Water with respect to the Shore (this is the river
+current). Note that 
+is what the boat’s motor produces (against the water),
+whereas 
+is equal to 
+plus the effect of the current,
+Therefore, the
+velocity of the boat relative to the shore is (see vector diagram, Fig. 3–28)
+(3;7)
+By writing the subscripts using this convention, we see that the inner subscripts
+(the two W’s) on the right-hand side of Eq. 3–7 are the same; also, the outer 
+subscripts on the right of Eq. 3–7 (the B and the S) are the same as the two
+subscripts for the sum vector on the left,
+By following this convention (first
+subscript for the object, second for the reference frame), you can write down the
+correct equation relating velocities in different reference frames.†
+Equation 3–7 is valid in gener

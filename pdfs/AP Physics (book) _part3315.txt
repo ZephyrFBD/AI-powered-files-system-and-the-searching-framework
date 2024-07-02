@@ -1,0 +1,53 @@
+s a binding energy of 3.1 eV at
+)
+*29–4 Molecular Spectra
+7. (I) Show that the quantity 
+has units of energy.
+8. (II) (a) Calculate the “characteristic rotational energy,”
+for the 
+molecule whose bond length is 0.121 nm.
+(b) What are the energy and wavelength of photons emitted
+in an 
+to 
+transition?
+9. (II) The “characteristic rotational energy,”
+for 
+is
+Calculate the 
+bond length.
+10. (II) The equilibrium separation of H atoms in the 
+molecule
+is 0.074 nm (Fig. 29–8). Calculate the energies and wave-
+lengths of photons for the rotational transitions (a)
+to
+(b) 
+to 
+and (c) 
+to 
+11. (II) Determine the wavelength of the photon emitted when the
+CO molecule makes the rotational transition
+to 
+.
+[Hint: See Example 29–2.]
+12. (II) Calculate the bond length for the NaCl molecule given
+that three successive wavelengths for rotational transitions
+are 23.1 mm, 11.6 mm, and 7.71 mm.
+l = 4
+l = 5
+l = 2.
+l = 3
+l = 1,
+l = 2
+l = 0,
+l = 1
+H2
+N2
+2.48 * 10–4 eV.
+N2
+U22I,
+l = 2
+l = 3
+O2
+U22I,
+U2I
+r0 

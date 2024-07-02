@@ -1,0 +1,23 @@
+2 ¡ 3 CNO-1aq2 + 3 H2O1l2 + 6 e-
+6 e- + 4 H2O1l2 + 2 MnO4
+-1aq2 ¡ 2 MnO21s2 + 8 OH-1aq2
+Step 4: We add the two half-reactions 
+together and simplify by canceling 
+species that appear as both reactants 
+and products:
+3 CN-1aq2 + H2O1l2 + 2 MnO4
+-1aq2 ¡ 3 CNO-1aq2 + 2 MnO21s2 + 2 OH-1aq2
+Step 5: Check that the atoms and 
+charges are balanced.
+There are 3 C, 3 N, 2 H, 9 O, 2 Mn, and a charge of 5− on both sides of the 
+equation.
+Both half-reactions are now balanced. 
+You can check the atoms and the overall 
+charge.
+20.3 ∣ Voltaic Cells
+The energy released in a spontaneous redox reaction can be used to perform electrical 
+work. This task is accomplished through a voltaic (or galvanic) cell, a device in which 
+the transfer of electrons takes place through an external pathway rather than directly 
+between reactants present in the same reaction vessel.
+One such spontaneous reaction occurs when a strip of zinc is placed in contact with 
+a solution containing Cu2+1aq2. As the reaction proceeds,

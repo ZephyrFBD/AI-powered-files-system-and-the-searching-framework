@@ -1,0 +1,48 @@
+ity 
+at a point where the magnetic field
+has magnitude B. The angle between and 
+is 
+The force is greatest when the
+particle moves perpendicular to 
+(20;4)
+The force is zero if the particle moves parallel to the field lines 
+The
+direction of the force is perpendicular to the magnetic field 
+and to the velocity 
+of the particle. For a positive charge, the force direction is given by another 
+right-hand rule: you orient your right hand so that your outstretched fingers
+point along the direction of the particle’s velocity 
+and when you bend your
+fingers they must point along the direction of 
+Then your thumb will point in
+the direction of the force. This is true only for positively charged particles, and
+will be “up” for the positive particle shown in Fig. 20–15. For negatively charged
+particles, the force is in exactly the opposite direction, “down” in Fig. 20–15.
+B
+B.
+(v
+B),
+v
+B
+B
+B
+(u = 0°).
+Cv
+B ⊥B
+B D
+F
+max = qvB.
+(u = 90°):
+B
+B
+u.
+B
+B
+v
+B
+v
+Cu between v
+B and B
+B D
+F = qvB sin u.
+F 

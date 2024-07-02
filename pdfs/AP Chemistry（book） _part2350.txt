@@ -1,0 +1,30 @@
+ot an integer.)
+ 
+[14.111] Consider the hypothetical reaction 2 A + B ¡ 2 C + D. 
+The following two-step mechanism is proposed for the re-
+action:
+Step 1:  A + B ¡ C + X
+Step 2:  A + X ¡ C + D
+ 
+ X is an unstable intermediate. (a) What is the predicted 
+rate law expression if Step 1 is rate determining? (b) What 
+is the predicted rate law expression if Step 2 is rate deter-
+mining? (c) Your result for part (b) might be considered 
+surprising for which of the following reasons: (i) The con-
+centration of a product is in the rate law. (ii) There is a 
+negative reaction order in the rate law. (iii) Both reasons 
+(i) and (ii). (iv) Neither reasons (i) nor (ii).
+ 
+[14.112] In a hydrocarbon solution, the gold compound 
+1CH323AuPH3 decomposes into ethane 1C2H62 and a 
+different gold compound, 1CH32AuPH3. The following 
+mechanism has been proposed for the decomposition of 
+1CH323AuPH3:
+Step 1: 1CH323 AuPH3 ∆
+k1
+k -1
+ 1CH323Au + PH3 1fast2
+Step 2: 1CH323 Au ¡
+k2
+ C2H6 + 1CH32Au 1slow2
+Step 3: 1

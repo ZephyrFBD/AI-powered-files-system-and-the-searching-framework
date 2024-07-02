@@ -1,0 +1,28 @@
+hylene, formed from natural gas, are high-priced starting materials 
+for a product that should be a low-priced commodity. Another is that benzene is a known 
+*Adapted from P
+. T. Anastas and J. C. Warner, Green Chemistry: Theory and Practice. New York: Ox-
+ford University Press 1998, p. 30. See also Mike Lancaster, Green Chemistry: An Introductory Text. 
+Cambridge, UK: RSC Publishing, 2010, Second Edition, Chapter 1.
+ 
+SECTION 18.5  Green Chemistry 
+793
+794 
+CHAPTER 18 Chemistry of the Environment
+carcinogen. In a recently developed process that bypasses some of these shortcomings, 
+the two-step process is replaced by a one-step process in which toluene is reacted with 
+methanol at 425 °C over a special catalyst:
+CH3OH
++
+−H2, −H2O
+Base
+catalyst
+CH3
+Toluene
+Methanol
+CH
+CH2
+Styrene
+The one-step process saves money both because toluene and methanol are less expensive 
+than benzene and ethylene, and because the reaction requires less energy input. Addi-
+tional benefits are that the methano

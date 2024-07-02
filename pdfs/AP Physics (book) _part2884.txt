@@ -1,0 +1,23 @@
+atellite to photograph license
+plate numbers. Assuming it is necessary to resolve points
+separated by 5 cm with 550-nm light, and that the satellite
+orbits at a height of 130 km, what minimum lens aperture
+(diameter) is required?
+88. Given two 12-cm-focal-length lenses, you attempt to make
+a crude microscope using them. While holding these lenses
+a distance 55 cm apart, you position your microscope so
+that its objective lens is distance 
+from a small object.
+Assume your eye’s near point 
+(a) For your micro-
+scope to function properly, what should 
+be? (b)Assuming
+your eye is relaxed when using it, what magnification M
+does your microscope achieve? (c) Since the length of your
+microscope is not much greater than the focal lengths of its
+lenses, the approximation 
+is not valid. If you
+apply this approximation to your microscope, what % error
+do you make in your microscope’s true magnification?
+*89. The power of one lens in a pair of eyeglasses is 
+The radius of curvature of the outside s

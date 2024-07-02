@@ -1,0 +1,36 @@
+are caused by current passing through the
+body. To avoid shocks, the body must not become part of a
+complete circuit by allowing different parts of the body to touch
+objects at different potentials. Commonly, shocks are caused
+by one part of the body touching ground 
+and another
+part touching a nonzero electric potential.
+An ammeter measures current. An analog ammeter consists
+of a galvanometer and a parallel shunt resistor that carries most
+of the current. An analog voltmeter consists of a galvanometer
+and a series resistor. An ammeter is inserted into the circuit
+whose current is to be measured. A voltmeter is external, being
+connected in parallel to the element whose voltage is to be mea-
+sured. Digital meters have greater internal resistance and affect
+the circuit to be measured less than do analog meters.
+(V = 0)
+e–tRC
+t = RC,
+t = RC
+(1 - e–tRC)
+1
+Ceq
+=
+1
+C1
++ 1
+C2
++ p.
+R = 6.6 Ω
+r = 1.0 Ω
+r = 2.0 Ω
+e = 18 V
+e = 12 V
+FIGURE 19–36
+Question 10.
+1. Explain why birds can sit on powe

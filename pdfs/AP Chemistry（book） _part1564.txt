@@ -1,0 +1,22 @@
+d pressure is a bit more than 1 atm, which is 
+about 101 kPa. This makes sense because we anticipated that the 
+pressure in the flask would be greater than the atmospheric  
+pressure 1764.7 torr = 1.01 atm2 acting on the manometer.
+Solve
+(a) The pressure of the gas equals the atmospheric pressure plus h:
+ 
+▶Practice Exercise 1
+If the gas inside the flask in the above exercise is cooled so 
+that its pressure is reduced to a value of 715.7 torr, what will 
+be the height of the mercury in the open-ended arm? 
+(Hint: The sum of the heights in both arms must remain 
+constant regardless of the change in pressure.)  
+(a) 49.0 mm (b) 95.6 mm (c) 144.6 mm (d) 120.1 mm
+ 
+▶Practice Exercise 2
+If the pressure of the gas inside the flask were increased and 
+the height of the column in the open-ended arm went up 
+by 5.0 mm, what would be the new pressure of the gas in 
+the flask, in torr?
+Plan We will use the difference in height between the two arms  
+1h in Figure 10.32 to obtain the amount by whic

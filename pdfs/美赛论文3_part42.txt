@@ -1,0 +1,17 @@
+ssumption will be incorrect, and the strategy will not work. The factors of width
+and length are the same as that discussed in shape before.
+(2)Suffering degree:
+We consider that the impact of volume is the same as the impact of shape on
+suffering degree. They both affect the value of E through the area of surface between
+water and air.
+(3)Wasting water:
+Similarly, different volume of bathtub means different area of water surface with
+its affect mainly focuses on the heat lose. To promise the time duration and the lowest
+temperature of hot water , the more heat loses, the more times we have to add water
+into bathtub, which we name this variable as n. On the other hand, the less heat loses,
+the less frequency we have to add water. Due to the equation, volume has an impact
+on wasted water. However, the demand of wasted water is not very strict, it is only
+required to lower than the predetermined upper bound. Accordingly, there is little
+influence caused by volume.
+(4)Conclusion:
+The volu

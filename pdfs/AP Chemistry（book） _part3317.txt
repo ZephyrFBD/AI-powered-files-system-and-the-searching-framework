@@ -1,0 +1,21 @@
+ does this compare to the emf you 
+calculated in part (b)?
+ 20.76  Mercuric oxide dry-cell batteries are often used where a 
+flat discharge voltage and long life are required, such as 
+in watches and cameras. The two half-cell reactions that 
+occur in the battery are
+HgO1s2 + H2O1l2 + 2 e- ¡ Hg1l2 + 2 OH-1aq2
+Zn1s2 + 2 OH-1aq2 ¡ ZnO1s2 + H2O1l2 + 2 e-
+(a) Write the overall cell reaction. (b) The value of E°
+red for 
+the cathode reaction is +0.098 V. The overall cell potential 
+is +1.35 V. Assuming that both half-cells operate under 
+standard conditions, what is the standard reduction poten-
+tial for the anode reaction? (c) Why is the potential of the 
+anode reaction different than would be expected if the reac-
+tion occurred in an acidic medium?
+ 20.77  (a) Suppose that an alkaline battery was manufactured 
+using cadmium metal rather than zinc. What effect would 
+this have on the cell emf? (b) What environmental advan-
+tage is provided by the use of nickel–metal hydride batter-
+ies ove

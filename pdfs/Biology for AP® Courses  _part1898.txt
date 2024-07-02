@@ -1,0 +1,10 @@
+nated at different points. The DNA is separated on the basis of size, and these bands, based on
+the size of the fragments, can be read.
+Early Strategies: Shotgun Sequencing and Pair-Wise End Sequencing
+In shotgun sequencing method, several copies of a DNA fragment are cut randomly into many smaller pieces (somewhat
+like what happens to a round shot cartridge when fired from a shotgun). All of the segments are then sequenced using
+the chain-sequencing method. Then, with the help of a computer, the fragments are analyzed to see where their sequences
+overlap. By matching up overlapping sequences at the end of each fragment, the entire DNA sequence can be reformed.
+A larger sequence that is assembled from overlapping shorter sequences is called a contig. As an analogy, consider that
+someone has four copies of a landscape photograph that you have never seen before and know nothing about how it should
+appear. The person then rips up each photograph with their hands, so that different size pi

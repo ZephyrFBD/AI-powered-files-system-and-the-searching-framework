@@ -1,0 +1,26 @@
+e
+pressure at a depth h in a liquid, due
+to the weight of the liquid above.
+Δh =
+30 m
+FIGURE 10–4 Example 10–3.
+EXERCISE A Return to Chapter-Opening Question 1, page 260, and answer it again
+now. Try to explain why you may have answered differently the first time.
+Equation 10–3a is extremely useful. It is valid for fluids whose density is 
+constant and does not change with depth—that is, if the fluid is incompressible.
+This is usually a good approximation for liquids (although at great depths in the
+ocean, the density of water is increased some by compression due to the 
+great weight of water above).
+If the density of a fluid does vary, a useful relation can be found by considering a
+thin horizontal slab of the fluid of thickness 
+The pressure on the
+top of the slab, at depth 
+is 
+The pressure on the bottom of the slab
+(pushing upward), at depth 
+is
+The difference in pressure is
+or
+(10;3b)
+Equation 10–3b tells us how the pressure changes over a small change in depth 
+within a fluid, ev

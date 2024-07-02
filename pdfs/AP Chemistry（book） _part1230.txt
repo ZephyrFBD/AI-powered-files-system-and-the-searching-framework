@@ -1,0 +1,20 @@
+uch as that shown in Figure 8.4. A measure of 
+how much stabilization results from arranging oppositely charged ions in an ionic solid 
+is given by the lattice energy, which is the energy required to completely separate one mole 
+of a solid ionic compound into its gaseous ions.
+To envision this process for NaCl, imagine that the structure in Figure 8.4 expands 
+from within, so that the distances between the ions increase until the ions are very far 
+apart. This process requires 788 kJ>mol, which is the value of the lattice energy:
+ 
+NaCl1s2 ¡ Na+1g2 + Cl-1g2  ∆Hlattice = +788 kJ>mol 
+[8.3]
+Notice that this process is highly endothermic. The reverse process—the com-
+ing together of Na+1g2 and Cl-1g2 to form NaCl(s)—is therefore highly exothermic 
+1∆H = -788 kJ>mol2.
+Table 8.1 lists the lattice energies for a number of ionic compounds. The large pos-
+itive values indicate that the ions are strongly attracted to one another in ionic solids. 
+5 Na1
+Each Na1 ion
+surrounded by
+six Cl2 ions
+E

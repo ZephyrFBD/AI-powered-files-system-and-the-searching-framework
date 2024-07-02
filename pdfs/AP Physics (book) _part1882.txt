@@ -1,0 +1,65 @@
+ S I C S  A P P L I E D
+Shocks, burns, defibrillators
+FIGURE 17–21 Heart defibrillator.
+488
+CHAPTER 17
+FIGURE 17–22 Two kinds of signal
+voltage: (a) sinusoidal, (b) a pulse,
+both analog. Many other shapes are
+possible.
+FIGURE 17–24 The red analog sine
+wave, which is at a 100-Hz frequency
+(1 wavelength is done in 0.010 s), has
+been converted to a 2-bit (4 level)
+digital signal (blue).
+time, t
+V
+0
+(a)
+time, t
+V
+0
+(b)
+TABLE 17–4
+Binary to Decimal
+Binary†
+Decimal
+number
+number
+00000000
+0
+00000001
+1
+00000010
+2
+00000011
+3
+00000100
+4
+00000111
+7
+00001000
+8
+00100101
+37
+11111111
+255
+†Note that we start counting from right
+to left: the 1’s digit is on the far right,
+then the 2’s, the 4’s, the 8’s, the 16’s, the
+32’s, the 64’s, and the 128’s.
+0 s
+0.010 s
+10
+01
+00
+Bit levels
+0 V
+6 V
+11
+t
+A “1” is a positive voltage such as 
+, whereas a “0” is 
+. The brightness
+signal, for example, that goes to each of the millions of tiny picture elements or
+“subpixels” of a TV or computer screen (Fig. 17–31, Secti

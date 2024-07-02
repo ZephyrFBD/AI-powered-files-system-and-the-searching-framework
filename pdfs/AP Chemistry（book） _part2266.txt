@@ -1,0 +1,33 @@
+It is not possible to distin-
+guish between the two proposed reaction mechanisms.
+ 
+▶Practice Exercise 2
+Ozone reacts with nitrogen dioxide to produce dinitrogen 
+pentoxide and oxygen:
+O31g2 + 2 NO21g2 ¡ N2O51g2 + O21g2
+The reaction is believed to occur in two steps:
+O31g2 + NO21g2 ¡ NO31g2 + O21g2
+NO31g2 + NO21g2 ¡ N2O51g2
+The experimental rate law is rate = k3O343NO24. What 
+can you say about the relative rates of the two steps of the 
+mechanism?
+Give It Some Thought
+Why are termolecular elementary steps rare in gas-phase reactions?
+Let’s consider an alternative mechanism that does not involve a termolecular step:
+ 
+Step 1:         NO1g2 + Br21g2 ∆
+k1
+k - 1
+NOBr21g2      1fast2
+ 
+Step 2:  NOBr21g2 + NO1g2 ¡
+k2
+2 NOBr1g2  1slow2 
+[14.29]
+In this mechanism, step 1 involves two processes: a forward reaction and its reverse.
+Because step 2 is the rate-determining step, the rate law for that step governs the rate 
+of the overall reaction:
+ 
+Rate = k23NOBr243NO4 
+[14.30]
+Note that NOBr2 is

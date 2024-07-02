@@ -1,0 +1,14 @@
+vents further
+diffusion of electrons. The “junction” is actually a very thin layer between the
+charged n and p semiconductors where all holes are filled with electrons. This
+junction region is called the depletion layer (depleted of electrons and holes).†
+If a battery is connected to a diode with the positive terminal to the p side
+and the negative terminal to the n side as in Fig. 29–29a, the externally applied
+voltage opposes the intrinsic potential difference and the diode is said to be
+forward biased. If the voltage is great enough, about 0.6 V for Si at room
+temperature, it overcomes that intrinsic potential difference and a large current can
+flow. The positive holes in the p-type semiconductor are repelled by the positive
+terminal of the battery, and the electrons in the n-type are repelled by the nega-
+tive terminal of the battery. The holes and electrons meet at the junction, and the
+electrons cross over and fill the holes. A current is flowing. The positive terminal
+of the bat

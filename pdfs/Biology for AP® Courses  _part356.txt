@@ -1,0 +1,11 @@
+no group, a carboxyl group, a hydrogen
+atom, and an R group or side chain. There are 20 commonly occurring amino acids, each of which differs in the R group.
+Each amino acid is linked to its neighbors by a peptide bond. A long chain of amino acids is known as a polypeptide.
+Proteins are organized at four levels: primary, secondary, tertiary, and (optional) quaternary. The primary structure is the
+unique sequence of amino acids. The local folding of the polypeptide to form structures such as the α helix and β-pleated
+sheet constitutes the secondary structure. The overall three-dimensional structure is the tertiary structure. When two or
+more polypeptides combine to form the complete protein structure, the configuration is known as the quaternary structure
+of a protein. Protein shape and function are intricately linked; any change in shape caused by changes in temperature or pH
+may lead to protein denaturation and a loss in function.
+3.5 Nucleic Acids
+Nucleic acids are molecules made up 

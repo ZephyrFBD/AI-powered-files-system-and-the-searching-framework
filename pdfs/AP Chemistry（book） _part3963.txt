@@ -1,0 +1,97 @@
+728.1
+221.9
+TiO21s2
+-944.7
+-889.4
+50.29
+Substance
+∆H °
+f
+1kj,mol2
+∆G °
+f
+1kj,mol2
+S °
+1j,mol@K2
+Vanadium
+V(g)
+514.2
+453.1
+182.2
+V(s)
+0
+0
+28.9
+Zinc
+Zn(g)
+130.7
+95.2
+160.9
+Zn(s)
+0
+0
+41.63
+ZnCl21s2
+-415.1
+-369.4
+111.5
+ZnO1s2
+-348.0
+-318.2
+43.9
+ 
+APPENDIX C Thermodynamic Quantities for Selected Substances at 298.15 K (25 °C) 
+1091
+1092
+AQUEOUS EQUILIBRIUM CONSTANTS
+D 
+APPENDIX 
+TABLE D.1 Dissociation Constants for Acids at 25 °C
+Name
+Formula
+Ka1
+Ka2
+Ka3
+Acetic acid
+CH3COOH (or HC2H3O2)
+1.8 * 10-5
+Arsenic acid
+H3AsO4
+5.6 * 10-3
+1.0 * 10-7
+3.0 * 10-12
+Arsenous acid
+H3AsO3
+5.1 * 10-10
+Ascorbic acid
+H2C6H6O6
+8.0 * 10-5
+1.6 * 10-12
+Benzoic acid
+C6H5COOH (or HC7H5O2)
+6.3 * 10-5
+Boric acid
+H3BO3
+5.8 * 10-10
+Butanoic acid
+C3H7COOH (or HC4H7O2)
+1.5 * 10-5
+Carbonic acid
+H2CO3
+4.3 * 10-7
+5.6 * 10-11
+Chloroacetic acid
+CH2ClCOOH (or HC2H2O2Cl)
+1.4 * 10-3
+Chlorous acid
+HClO2
+1.1 * 10-2
+Citric acid
+HOOCC1OH21CH2COOH22 (or H3C6H5O7)
+7.4 * 10-4
+1.7 * 10-5
+4.0 * 10-7
+Cyanic acid
+HCNO
+3.5 * 10-4
+Formic acid

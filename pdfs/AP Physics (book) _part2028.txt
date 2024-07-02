@@ -1,0 +1,20 @@
+y
+measured at 23.5°C. The wire is placed in a new environment
+of unknown temperature where the measured current is
+0.3818 A. What is the unknown temperature?
+25. (III) For some applications, it is important that the value
+of a resistance not change with temperature. For example,
+suppose you made a 
+resistor from a carbon resistor
+and a Nichrome wire-wound resistor connected together so
+the total resistance is the sum of their separate resistances.
+What value should each of these resistors have (at 0°C) so
+that the combination is temperature independent?
+26. (III) A 10.0-m length of wire consists of 5.0 m of copper
+followed by 5.0 m of aluminum, both of diameter 1.4 mm.
+A voltage difference of 95 mV is placed across the composite
+wire. (a) What is the total resistance (sum) of the two wires?
+(b) What is the current through the wire? (c) What are the
+voltages across the aluminum part and across the copper part?
+18–5 and 18–6 Electric Power
+27. (I) What is the maximum power consumption of

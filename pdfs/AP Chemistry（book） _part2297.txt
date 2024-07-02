@@ -1,0 +1,16 @@
+the first power: 
+Rate = k3A4. In such cases the integrated form of the rate law is 
+ln3A4t = -kt + ln3A40, where 3A4t is the concentration of reactant A 
+at time t, k is the rate constant, and 3A40 is the initial concentration of 
+A. Thus, for a first-order reaction, a graph of ln[A] versus time yields a 
+straight line of slope -k.
+A second-order reaction is one for which the overall reaction order 
+is 2. If a second-order rate law depends on the concentration of only 
+one reactant, then rate = k3A42, and the time dependence of [A] is 
+given by the integrated form of the rate law: 1>3A4t = 1>3A40 + kt. 
+In this case, a graph of 1>3A4t versus time yields a straight line. A zero- 
+order reaction is one for which the overall reaction order is 0. Rate = k 
+if the reaction is zero order.
+The half-life of a reaction, t1>2, is the time required for the con-
+centration of a reactant to drop to one-half of its original value. For 
+a first-order reaction, the half-life depends only on the rate 

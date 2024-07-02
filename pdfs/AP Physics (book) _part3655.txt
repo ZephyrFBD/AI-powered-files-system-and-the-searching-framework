@@ -1,0 +1,49 @@
+ + p + o
+ 
+p + p S p + p + o
+ 
+p + p S p + o
+p S n + e± + ne
+m± S e± + Rm
+p S e± + ne
+p± + p S p + e±
+p± + p S n + p0
+p– + p S n + h0
+p± + p–
+S
+¶0
+p + K–
+S
+¶0
+n + p–
+S
+¶0
+¶0
+K±K–
+p0
+¶0
+©0
+26. (III) Calculate the maximum kinetic energy of the electron
+when a muon decays from rest via
+[Hint: In what direction do the two neutrinos move relative
+to the electron in order to give the electron the maximum
+kinetic energy? Both energy and momentum are conserved;
+use relativistic formulas.]
+32–7 to 32–11 Resonances, Standard Model,
+Quarks, QCD, GUT
+27. (I) The mean life of the 
+particle is 
+What is the
+uncertainty in its rest energy? Express your answer in MeV.
+28. (I) The measured width of the 
+(3686) meson is about
+300 keV. Estimate its mean life.
+29. (I) The measured width of the 
+meson is 88 keV.
+Estimate its mean life.
+30. (I) The 
+meson is a 
+quark combination. (a) Show that
+this is consistent for all quantum numbers. (b) What are
+the quark combinations for 
+31. (I) What is the energy widt

@@ -1,0 +1,13 @@
+ extracellular region of the channel, there
+is a conformational change in the proteins structure that allows ions such as sodium, calcium, magnesium, and hydrogen to
+pass through (Figure 9.5).
+1. A. B. Sigalov, The School of Nature. IV. Learning from Viruses, Self/Nonself 1, no. 4 (2010): 282-298. Y. Cao, X. Koh,
+L. Dong, X. Du, A. Wu, X. Ding, H. Deng, Y. Shu, J. Chen, T. Jiang, Rapid Estimation of Binding Activity of Influenza
+Virus Hemagglutinin to Human and Avian Receptors, PLoS One 6, no. 4 (2011): e18664.
+Chapter 9 | Cell Communication
+371
+Figure 9.5 Gated ion channels form a pore through the plasma membrane that opens when the signaling molecule
+binds. The open pore then allows ions to flow into or out of the cell.
+G-protein-linked receptors bind a ligand and activate a membrane protein called a G-protein. The activated G-protein then
+interacts with either an ion channel or an enzyme in the membrane (Figure 9.6). All G-protein-linked receptors have seven
+transmembrane domains, b

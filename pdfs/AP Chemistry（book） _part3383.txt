@@ -1,0 +1,17 @@
+aining after the time interval. 
+Both the mass of a particular radioisotope and its activity are proportional to the num-
+ber of radioactive nuclei. Thus, either the ratio of the mass at any time t to the mass at 
+time t = 0 or the ratio of the activities at time t and t = 0 can be substituted for Nt>N0 
+in Equation 21.20.
+A rock contains 0.257 mg of lead-206 for every milligram of uranium-238. The half-life for the decay of uranium-238 to  
+lead-206 is 4.5 * 109 yr. How old is the rock?
+Sample Exercise 21.6 
+Calculating the Age of Objects Using Radioactive Decay
+SOLUTION
+Analyze We are asked to calculate the age of a rock containing 
+uranium-238 and lead-206, given the half-life of the uranium-238 
+and the relative amounts of the uranium-238 and lead-206.
+Plan Lead-206 is the product of the radioactive decay of 
+uranium-238. We will assume that the only source of lead-206 in 
+the rock is from the decay of uranium-238, which has a known 
+half-life. To apply first-order kinetics express

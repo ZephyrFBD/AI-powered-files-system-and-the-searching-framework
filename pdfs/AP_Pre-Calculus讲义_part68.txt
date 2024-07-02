@@ -1,0 +1,27 @@
+l bacterium count in a culture is 500. A biologist later makes a sample count of 
+bacteria in the culture and finds that the relative rate of growth is 40% per hour.  
+(a) Find a function that models the number of bacteria after t hours.  
+(b) What is the estimated count after 10 hours? 
+(c) After how many hours will the bacteria count reach 80,000? 
+(d) Sketch the graph of the function n(t). 
+ 
+ 
+ 
+ 
+ 
+2.10.4 The Richter Scale 
+In 1935 the American geologist Charles Richter (1900–1984) defined the magnitude M of 
+an earthquake to be  
+= log I
+M
+S  
+where I is the intensity of the earthquake (measured by the amplitude of a seismograph 
+reading taken 100 km from the epicenter of the earthquake) and S is the intensity of a 
+“standard” earthquake (whose amplitude is 1 micron =10-4 cm.) 
+ 
+101 
+Example 3 
+The 19 06 earthquake in San Francisco had an estimated magnitude of 8.3 on the Richter 
+scale. 
+In the same year a powerful earthquake occurred on the Colombia-Ecuador border that 
+was fo

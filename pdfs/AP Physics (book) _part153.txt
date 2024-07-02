@@ -1,0 +1,28 @@
+ a straight highway, which we choose to be the positive x axis (Fig. 2–11).
+Then the driver steps on the brakes. If the initial velocity (when the driver hits 
+the brakes) is
+and it takes 5.0 s to slow down to
+what was the car’s average acceleration?
+APPROACH We put the given initial and final velocities, and the elapsed
+time, into Eq. 2–4 for 
+SOLUTION In Eq. 2–4, we call the initial time
+and set
+The negative sign appears because the final velocity is less than the initial velocity.
+In this case the direction of the acceleration is to the left (in the negative x direc-
+tion)—even though the velocity is always pointing to the right. We say that the
+acceleration is 
+to the left, and it is shown in Fig. 2–11 as an orange arrow.
+2.0 ms2
+a = 5.0 ms - 15.0 ms
+5.0 s
+=
+–2.0 ms2.
+t2 = 5.0 s:
+t1 = 0,
+a.
+v2 = 5.0 ms,
+v1 = 15.0 ms,
+EXAMPLE 2;6
+Deceleration
+When an object is slowing down, we can say it is decelerating. But be careful:
+deceleration does not mean that the acceleration is neces

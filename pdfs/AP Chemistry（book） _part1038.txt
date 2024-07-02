@@ -1,0 +1,38 @@
+ng time in a 
+different salt solution, such as strontium chloride, would you 
+still observe 589-nm light emission?
+ 6.83  Certain elements emit light of a speciﬁc wavelength when 
+they are burned. Historically, chemists used such emission 
+wavelengths to determine whether speciﬁc elements were 
+present in a sample. Characteristic wavelengths for some of 
+the elements are given in the following table:
+Ag
+328.1 nm
+Fe
+372.0 nm
+Au
+267.6 nm
+K
+404.7 nm
+Ba
+455.4 nm
+Mg
+285.2 nm
+Ca
+422.7 nm
+Na
+589.6 nm
+Cu
+324.8 nm
+Ni
+341.5 nm
+ 
+ (a) Determine which elements emit radiation in the visible 
+part of the spectrum. (b) Which element emits photons of 
+highest energy? Of lowest energy? (c) When burned, a sample 
+of an unknown substance is found to emit light of frequency 
+9.23 * 1014 s - 1. Which of these elements is probably in the 
+sample?
+ 6.84  In August 2011, the Juno spacecraft was launched from Earth 
+with the mission of orbiting Jupiter, arriving nearly ﬁve years 
+later in July of 2016. The dis

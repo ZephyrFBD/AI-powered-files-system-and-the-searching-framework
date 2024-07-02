@@ -1,0 +1,15 @@
+MAP and other experiments have convinced scientists that the universe is flat
+and
+But this cannot be only normal baryonic matter (atoms are 99.9%
+baryons—protons and neutrons—by weight). These recent experiments put the
+amount of normal baryonic matter in the universe at only about 5% of the critical
+density. What is the other 95%? There is strong evidence for a significant amount
+of nonluminous matter in the universe referred to as dark matter, which acts
+normally under gravity, but does not absorb or radiate light sufficiently to be visible.
+For example, observations of the rotation of galaxies suggest that they rotate as 
+if they had considerably more mass than we can see. Recall from Chapter 5,
+Example 5–12, that for a satellite of mass m revolving around Earth (mass M)
+and hence
+If we apply this equation to stars in a galaxy, we see
+that their speed depends on galactic mass. Observations show that stars farther
+from the galactic center revolve much faster than expected if there is

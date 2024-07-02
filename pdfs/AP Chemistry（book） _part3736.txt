@@ -1,0 +1,19 @@
+isible region of the spectrum. The 
+compound must therefore absorb the complementary color 
+of orange, which is blue. The blue region of the spectrum 
+ranges from approximately 430 nm to 490 nm. As an estimate 
+we assume that the complex ion absorbs somewhere in the 
+middle of the blue region, near 460 nm.
+(d) Ethylenediammine is higher in the spectrochemical 
+series than ammonia. Therefore, we expect a larger ∆ for 
+3Co(en)343+. Because ∆ was already greater than the spin- 
+pairing energy for 3Co(NH3)643+, we expect 3Co(en)343+ to be 
+a low-spin complex as well, with a d 6 conﬁguration, so it will 
+also be diamagnetic. The wavelength at which the complex 
+absorbs light will shift to higher energy. If we assume a shift in 
+the absorption maximum from blue to violet, the color of the 
+complex will become yellow.
+Comment The compound [Co(en)3]Cl3, which contains the 
+3Co(en)343+ ion, was made and studied by Alfred Werner. This 
+compound forms diamagnetic, golden-yellow crystals.
+Tetrahed

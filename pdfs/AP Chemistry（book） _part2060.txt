@@ -1,0 +1,22 @@
+ 
+as we saw in Section 10.6, but have limited use when dealing with liquid solutions.
+Recall from Section 4.5 that the molarity (M) of a solute in a solution is defined as
+ 
+Molarity = moles of solute
+liters of soln  
+[13.8]
+For example, if you dissolve 0.500 mol of Na2CO3 in enough water to form 0.250 L 
+of solution, the molarity of Na2CO3 in the solution is 10.500 mol2>10.250 L2 = 2.00 M. 
+Molarity is especially useful for relating the volume of a solution to the quantity of solute 
+contained in that volume, as we saw in our discussions of titrations. 
+ (Section 4.6)
+The molality of a solution, denoted m, is a concentration unit that is also based on 
+moles of solute. Molality equals the number of moles of solute per kilogram of solvent:
+ 
+Molality =
+moles of solute
+kilograms of solvent 
+[13.9]
+Thus, if you form a solution by mixing 0.200 mol of NaOH 18.00 g2 and 0.500 kg of water 
+1500 g2, the concentration of the solution is 10.200 mol2>10.500 kg2 = 0.400 m (that is, 
+0.400 molal) 

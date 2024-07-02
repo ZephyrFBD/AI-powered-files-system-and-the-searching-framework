@@ -1,0 +1,16 @@
+tals (the t2 set) and a higher- 
+energy set of two degenerate orbitals (the e set). Visible light can cause 
+a d-d transition, in which an electron is excited from a lower-energy 
+d orbital to a higher-energy d orbital. The spectrochemical series lists 
+ligands in order of their ability to increase the split in d-orbital ener-
+gies in octahedral complexes.
+Strong-field ligands create a splitting of d-orbital energies that 
+is large enough to overcome the spin-pairing energy. The d electrons 
+then preferentially pair up in the lower-energy orbitals, producing 
+a low-spin complex. When the ligands exert a weak crystal-field, the 
+splitting of the d orbitals is small. The electrons then occupy the 
+higher-energy d orbitals in preference to pairing up in the lower- 
+energy set, producing a high-spin complex. Transition metal ions from 
+periods 5 and 6 have large crystal-field splitting energies and adopt 
+low spin configurations in octahedral complexes.
+Crystal-field theory also applies to

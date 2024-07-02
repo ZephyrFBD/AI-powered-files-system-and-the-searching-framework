@@ -1,0 +1,24 @@
+e 
+ 
+reaction 2 Al1s2 + 3 Cl21g2 ¡ 2 AlCl31s2, which is the 
+ 
+limiting reactant? (b) How many moles of AlCl3 are formed? 
+(c) How many moles of the excess reactant remain at the end 
+of the reaction?
+SOLUTION
+Analyze We are asked to calculate the number of moles of product, 
+NH3, given the quantities of each reactant, N2 and H2, available in 
+a reaction. This is a limiting reactant problem.
+Plan If we assume one reactant is completely consumed, we can cal-
+culate how much of the second reactant is needed. By comparing the 
+calculated quantity of the second reactant with the amount avail-
+able, we can determine which reactant is limiting. We then proceed 
+with the calculation, using the quantity of the limiting reactant.
+Solve
+The number of moles of H2 needed for complete consumption of 
+3.0 mol of N2 is
+Moles H2 = 13.0 mol N22a 3 mol H2
+1 mol N2
+b = 9.0 mol H2
+Because only 6.0 mol H2 is available, we will run out of H2 before the 
+N2 is gone, which tells us that H2 is the limiting rea

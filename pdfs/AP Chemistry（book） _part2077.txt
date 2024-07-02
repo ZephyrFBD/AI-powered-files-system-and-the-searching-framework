@@ -1,0 +1,13 @@
+hable from one another. Real solutions best approx-
+imate ideal behavior when the solute concentration is low and solute and solvent have 
+similar molecular sizes and take part in similar types of intermolecular attractions.
+Many solutions do not obey Raoult’s law exactly and so are not ideal. If, for instance, 
+the solvent–solute interactions in a solution are weaker than either the solvent–solvent 
+or solute–solute interactions, the vapor pressure tends to be greater than that predicted 
+by Raoult’s law. When the solute–solvent interactions in a solution are exceptionally 
+strong, as might be the case when hydrogen bonding exists, the vapor pressure is lower 
+than that predicted by Raoult’s law. Although you should be aware that these departures 
+from ideality occur, we will ignore them for the remainder of this chapter.
+Boiling-Point Elevation
+In Sections 11.5 and 11.6, we examined the vapor pressures of pure substances and how 
+to use them to construct phase diagrams. How does the 

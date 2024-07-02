@@ -1,0 +1,66 @@
+e accelerators (Section 32–1), are also being used in cancer
+therapy.
+27
+60Co,
+g
+*
+b
+a
+2.6 * 10–14
+2.6 * 10–17 gL
+4 pCiL.
+= 2.6 * 10–17 g
+m =
+A7.06 * 104 atomsB(222 gmol)
+6.02 * 1023 atomsmol
+= 7.06 * 104 atoms of radon-222.
+= (0.148 s-1)
+(3.8235 days)A8.64 * 104 sdayB
+0.693
+N =
+¢ ¢N
+¢t ≤
+T
+1
+2
+0.693
+T
+1
+2 = 3.8235 days
+¢N
+¢t
+= lN = 0.693
+T
+1
+2
+N.
+(0.148 s–1)(1000) = 150 decayss.
+=
+=
+= 0.148 s-1
+¢N
+¢t
+= 4.0 pCi = A4.0 * 10–12 CiBA3.70 * 1010 decayssCiB
+1 Ci = 3.70 * 1010 decayss.
+¢N¢t.
+*SECTION 31–6
+Radiation Therapy
+903
+P H Y S I C S  A P P L I E D
+Radiation therapy
+FIGURE 31–17 Radiation source
+rotates so that the beam always
+passes through the diseased tissue,
+but minimizes the dose in the rest of
+the body.
+904
+CHAPTER 31
+P H Y S I C S  A P P L I E D
+Proton therapy
+FIGURE 31–18 Energy deposited in tissue
+as a function of depth for 170-MeV protons
+(red curve) and 190-MeV protons (green).
+The peak of each curve is often called the
+Bragg peak.
+Depth in tissue (cm)
+Relative do

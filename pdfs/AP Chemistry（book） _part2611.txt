@@ -1,0 +1,21 @@
+ added:
+Give It Some Thought
+Which acid has the larger acid-dissociation constant, HIO2 or HBrO3?
+Arrange the compounds in each series in order of increasing acid strength: (a) AsH3, HBr, KH, H2Se; (b) H2SO4, H2SeO3, H2SeO4.
+Sample Exercise 16.20 
+Predicting Relative Acidities from Composition and Structure
+SOLUTION
+Analyze We are asked to arrange two sets of compounds in order 
+from weakest acid to strongest acid. In (a), the substances are 
+binary compounds containing H, and in (b) the substances are 
+oxyacids.
+Plan For the binary compounds, we will consider the electroneg-
+ativities of As, Br, K, and Se relative to the electronegativity of 
+H. The higher the electronegativity of these atoms, the higher 
+the partial positive charge on H and so the more acidic the 
+compound.
+For the oxyacids, we will consider both the electronegativities 
+of the central atom and the number of oxygen atoms bonded to 
+the central atom.
+Solve
+(a) Because K is on the left side of the periodic table, it ha

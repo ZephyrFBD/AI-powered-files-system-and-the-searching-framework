@@ -1,0 +1,14 @@
+ic Generators
+We discussed alternating currents (ac) briefly in Section 18–7. Now we examine
+how ac is generated: by an electric generator or dynamo. A generator transforms
+mechanical energy into electric energy, just the opposite of what a motor does
+(Section 20–10). A simplified diagram of an ac generator is shown in Fig. 21–14.
+A generator consists of many loops of wire (only one is shown) wound on an
+armature that can rotate in a magnetic field. The axle is turned by some mechan-
+ical means (falling water, steam turbine, car motor belt), and an emf is induced in
+the rotating coil. An electric current is thus the output of a generator. Suppose in
+Fig. 21–14 that the armature is rotating clockwise; then right-hand-rule-3 (p. 568)
+applied to charged particles in the wire (or Lenz’s law) tells us that the 
+(conventional) current in the wire labeled b on the armature is outward towards us;
+therefore the current is outward through brush b. (Each brush is fixed and presses
+against a conti

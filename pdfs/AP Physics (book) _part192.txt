@@ -1,0 +1,73 @@
+ tangent is a straight line that touches the curve only at the one chosen point, without passing
+across or through the curve at that point.
+Δ t =
+1.0 s
+Δ x = 
+11 m
+50
+40
+30
+20
+10
+0
+1.0
+2.0
+3.0
+4.0
+5.0
+0
+Position, x (m)
+Time, t (s)
+FIGURE 2;26 Graph of position vs.
+time for an object moving at a
+constant velocity of 11 ms.
+P1
+P2
+Δx = x2 −x1
+Δt = t2−t1
+t2
+t1
+x1
+x2
+0
+x
+t
+FIGURE 2;27 Graph of an object’s 
+position x vs. time . The slope of 
+the straight line 
+represents the
+average velocity of the object during
+the time interval ¢t = t2 - t1.
+P1 P2
+t
+P1
+P2
+t3
+tangent at P
+1
+0
+t2
+t1
+x1
+x2
+x
+t
+P3
+x3
+x2
+FIGURE 2;28 Same position vs. time curve 
+as in Fig. 2–27. Note that the average 
+velocity over the time interval 
+(which is the slope of 
+) is less than the 
+average velocity over the time interval 
+The slope of the line tangent 
+to the curve at point 
+equals the 
+instantaneous velocity at time t1 .
+P1
+t2 - t1 .
+P1 P3
+t3 - t1
+Next let us take point 
+in Fig. 2–28 to be closer and closer to po

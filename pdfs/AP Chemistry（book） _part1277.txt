@@ -1,0 +1,23 @@
+ a Lewis structure from a 
+molecular formula. Our plan is to follow the five-step procedure 
+just described.
+Solve First, we sum the valence electrons. Phosphorus (group 
+5A) has five valence electrons, and each chlorine (group 7A) has 
+seven. The total number of valence electrons is therefore
+5 + 13 * 72 = 26
+Second, we arrange the atoms to show which atom is connected  
+to which, and we draw a single bond between them. There are  
+various ways the atoms might be arranged. It helps to know, 
+though, that in binary compounds the first element in the  
+chemical formula is generally surrounded by the remaining  
+atoms. So we proceed to draw a skeleton structure in which a  
+single bond connects the P atom to each Cl atom:
+Cl atom accounts for 24 electrons (remember, each line in our 
+structure represents two electrons):
+Cl
+Cl
+Cl
+P
+(It is not crucial that the Cl atoms be to the left of, right of, and 
+below the P atom—any structure that shows each of the three  
+Cl atoms bonded to P will 

@@ -1,0 +1,6 @@
+s vertical bars that extend between 8 and 12. The solid line moves to 11 point 8 comma 6 which has vertical bars extending between 11 point 5 and 12 point 1. The broken line descends from the solid line at this point to 10 point 5 comma 10 with vertical bars extending between 10 point 2 and 10 point 8 then 9 point 3 comma 20 with error bars extending between 9 and 9 point 6. The solid lines ascends from 11 point 8 comma 6 to 12 point 4 comma 10 with vertical bars extending between 12 point 2 and 12 point 6 and finally ascends to 13 comma 20 with error bars extending between 12 point 6  and 13 point 4. 
+(a) Describe the change in genetic variation in the population between 0 and 6 months and provide reasoning 
+for your description based on the means and SEM. 
+(b) Propose ONE type of mating behavior that could have resulted in the observed change in the number of 
+spots per adult male guppy between 6 and 20 months in the absence of the predator. 
+(c) Propose an evolutionary mechanism tha

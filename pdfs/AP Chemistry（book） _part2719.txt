@@ -1,0 +1,16 @@
+e solution and its molarity:
+Analyze We are asked to calculate the pH at two points in the titra-
+tion of a strong acid with a strong base. The first point is just before 
+the equivalence point, so we expect the pH to be determined by the 
+small amount of strong acid that has not yet been neutralized. The 
+second point is just after the equivalence point, so we expect this 
+pH to be determined by the small amount of excess strong base.
+Plan (a) As the NaOH solution is added to the HCl solution, 
+H+1aq2 reacts with OH-1aq2 to form H2O. Both Na+ and Cl- are 
+spectator ions, having negligible effect on the pH. To determine 
+the pH of the solution, we must first determine how many moles 
+of H+ were originally present and how many moles of OH- were 
+added. We can then calculate how many moles of each ion remain 
+after the neutralization reaction. To calculate 3H+4, and hence pH, 
+we must also remember that the volume of the solution increases 
+as we add titrant, thus diluting the concentrat

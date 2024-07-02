@@ -1,0 +1,31 @@
+8 (a) Molecules of a
+gas moving about in a rectangular
+container. (b) Arrows indicate the
+momentum of one molecule as it
+rebounds from the end wall.
+Taking averages, we obtain
+(ii)
+Since the velocities of the molecules in our gas are assumed to be random, there
+is no preference to one direction or another. Hence
+(iii)
+Combining Eqs. (iii) and (ii), we get
+(iv)
+We substitute Eq. (iv) into Eq. (i) for net force F (bottom of previous page):
+The pressure on the wall is then
+or
+(13;6)
+where
+is the volume of the container. This is the result we wanted, the
+pressure exerted by a gas on its container expressed in terms of molecular properties.
+Equation 13–6 can be rewritten in a clearer form by multiplying both sides
+by V and rearranging the right-hand side:
+(13;7)
+The quantity 
+is the average translational kinetic energy 
+of the mole-
+cules in the gas. If we compare Eq. 13–7 with Eq. 13–4, the ideal gas law
+we see that the two agree if
+or
+[ideal gas] (13;8)
+This equation tells us that
+the ave

@@ -1,0 +1,22 @@
+ounted along the same
+axis. A power supply controls the flow of current in the first
+coil, and thus the magnetic field it produces. The second coil
+is connected only to an ammeter. The ammeter will indicate
+that a current is flowing in the second coil
+(a) whenever a current flows in the first coil.
+(b) only when a steady current flows in the first coil.
+(c) only when the current in the first coil changes.
+(d) only if the second coil is connected to the power supply
+by rewiring it to be in series with the first coil.
+9. When a generator is used to produce electric current, the
+resulting electric energy originates from which source?
+(a) The generator’s magnetic field.
+(b) Whatever rotates the generator’s axle.
+(c) The resistance of the generator’s coil.
+(d) Back emf.
+(e) Empty space.
+10. Which of the following will not increase a generator’s volt-
+age output?
+(a) Rotating the generator faster.
+(b) Increasing the area of the coil.
+(c) Rotating the magnetic field so that it is more closely

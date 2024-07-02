@@ -1,0 +1,27 @@
+ic acid group. In 
+the C ¬O¬ H bond system, the electrons are shifted from H, 
+facilitating loss of the H as a proton. 
+ (Section 16.10)
+(b) To determine the extent of ionization, we first set up the ion-
+ization equilibrium and equilibrium-constant expression. 
+Using HPv as the symbol for the acid, we have
+HPv ∆H+ + Pv-
+Ka =
+3H+43Pv-4
+3HPv4
+= 3.2 * 10-3
+Let 3Pv-4 = x. Then the concentration of undissociated acid is 
+2 * 10-4 - x. The concentration of 3H+4 is ﬁxed at 4.0 * 10-8 M 
+(the antilog of the pH value). Substituting, we obtain
+3.2 * 10-3 =
+14.0 * 10-821x2
+12 * 10-4 - x2
+Solving for x, we obtain
+x = 3Pv-4 = 2 * 10-4 M
+This is the initial concentration of acid, which means that es-
+sentially all the acid has dissociated. We might have expected 
+this result because the acid is quite dilute and the acid- 
+dissociation constant is fairly high.
+(c) Pyruvic acid should be quite soluble in water because it has 
+polar functional groups and a small hydrocarbon component. 
+We would predic

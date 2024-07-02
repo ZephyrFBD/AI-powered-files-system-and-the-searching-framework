@@ -1,0 +1,24 @@
+ R O B L E M  S O L V I N G
+It is often helpful to put in numbers
+only at the end
+†We used values rounded off to 2 significant figures to obtain 
+If we kept all the extra
+digits in our calculator, we would find 
+This difference is within the expected
+precision (number of significant figures, Section 1–4).
+a = 0.4134g L 4.1 ms2.
+a = 4.0 ms2.
+Newton’s three laws of motion are the basic classical laws
+describing motion.
+Newton’s first law (the law of inertia) states that if the net
+force on an object is zero, an object originally at rest remains 
+at rest, and an object in motion remains in motion in a straight
+line with constant velocity.
+Newton’s second law states that the acceleration of an
+object is directly proportional to the net force acting on it, and
+inversely proportional to its mass:
+(4;1)
+Newton’s second law is one of the most important and funda-
+mental laws in classical physics.
+Newton’s third law states that whenever one object exerts
+a force on a second object, the second

@@ -1,0 +1,33 @@
+B.
+3.0 cm2
+0.50 cm2,
+2.0 * 106 Nm2.
+A1 atm = 1.0 * 105 Nm2B.
+A1.0 * 105 Nm2B.
+Nm2,
+2.6 * 106 Nm2.
+A1000 cm3B
+0.012 m2.
+1.4 m2
+52. (II) If a compressive force of
+is exerted on the
+end of a 22-cm-long bone of cross-sectional area 
+(a) will the bone break, and (b) if not, by how much does 
+it shorten?
+53. (II) (a) What is the minimum cross-sectional area required
+of a vertical steel cable from which is suspended a 270-kg
+chandelier? Assume a safety factor of 7.0. (b) If the cable
+is 7.5 m long, how much does it elongate?
+54. (II) Assume the supports of the uniform cantilever shown in
+Fig. 9–76 
+are made of wood. Calculate the
+minimum cross-sectional area required of each, assuming
+a safety factor of 9.0.
+(m = 2900 kg)
+3.6 cm2,
+3.3 * 104 N
+55. (II) An iron bolt is used to connect two iron plates
+together. The bolt must withstand shear forces up to about
+3300 N. Calculate the minimum diameter for the bolt, based
+on a safety factor of 7.0.
+56. (III) A steel cable is to support an elevat

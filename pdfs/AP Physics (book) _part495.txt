@@ -1,0 +1,16 @@
+ are not aware of any force of
+attraction between ordinary-sized objects, such as between two baseballs. The
+force between two ordinary objects was first measured by Henry Cavendish in
+1798, over 100 years after Newton published his law. To detect and measure the
+incredibly small force between ordinary objects, he used an apparatus like that
+shown in Fig. 5–18. Cavendish confirmed Newton’s hypothesis that two objects
+attract one another and that Eq. 5–4 accurately describes this force. In addition,
+because Cavendish could measure 
+and r accurately, he was able to
+determine the value of the constant G as well. The accepted value today is
+(See Table inside front cover for values of all constants to highest known precision.)
+Equation 5–4 is called an inverse square law because the force is inversely propor-
+tional to 
+[Strictly speaking, Eq. 5–4 gives the magnitude of the gravitational force that
+one particle exerts on a second particle that is a distance r away. For an extended
+object (t

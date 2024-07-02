@@ -1,0 +1,46 @@
+us equation we have
+We solve this for 
+and obtain
+[constant acceleration]
+(2;10)
+which is the other useful equation we sought.
+We now have four equations relating position, velocity, acceleration, and
+time, when the acceleration a is constant. We collect these kinematic equations
+for constant acceleration here in one place for future reference (the tan background
+screen emphasizes their usefulness):
+(2;11a)
+(2;11b)
+(2;11c)
+(2;11d)
+These useful equations are not valid unless a is a constant. In many cases we
+can set 
+and this simplifies the above equations a bit. Note that x repre-
+sents position (not distance), also that
+is the displacement, and that is the
+elapsed time. Equations 2–11 are useful also when a is approximately constant
+to obtain reasonable estimates.
+t
+x - x0
+x0 = 0,
+[a = constant]
+v = v + v0
+2
+.
+[a = constant]
+v2 = v0
+2 + 2aAx - x0B
+[a = constant]
+x = x0 + v0t +
+1
+2 at2
+[a = constant]
+v = v0 + at
+v2 = v0
+2 + 2aAx - x0B,
+v2
+x = x0 + ¢ v + v0
+2
+≤¢ v - v0
+a
+≤
+= x0 + v2 - v

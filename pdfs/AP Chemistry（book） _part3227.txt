@@ -1,0 +1,42 @@
+° for the cell from standard reduction potentials 
+(Table 20.1 or Appendix E). The standard emf for this reaction was 
+calculated in Sample Exercise 20.6: E ° = 0.79 V. As that exercise 
+shows, six electrons are transferred from reducing agent to oxidiz-
+ing agent, so n = 6. The reaction quotient, Q, is:
+Q =
+3Cr3+42
+3Cr2O7
+2-43H+414 3I-46
+=
+11.0 * 10-522
+12.0211.0214 11.026 = 5.0 * 10-11
+Using Equation 20.18, we have:
+ 
+E = 0.79 V - a 0.0592 V
+6
+b log15.0 * 10-112
+ = 0.79 V - a 0.0592 V
+6
+b1-10.302
+ = 0.79 V + 0.10 V = 0.89 V
+Zn1s2 + 2 H+1aq2 ¡ Zn2+1aq2 + H21g2
+ E° = E°
+red 1reduction2 - E°
+red 1oxidation2
+ = 0 V - 1-0.76 V2 = +0.76 V
+Because each Zn atom loses two electrons,
+n = 2
+ 
+SECTION 20.6   
+Cell Potentials under Nonstandard Conditions 
+873
+Continued
+Sample Exercise 20.12 
+Calculating Concentrations in a Voltaic Cell
+Solve 
+The cell reaction is:
+The standard emf is:
+874 
+CHAPTER 20 Electrochemistry
+Concentration Cells
+In the voltaic cells we have looked at thus far, the reactiv

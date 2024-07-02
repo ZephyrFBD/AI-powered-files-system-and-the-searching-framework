@@ -1,0 +1,15 @@
+ture (T), 
+and quantity (n). Volume is usually measured in liters, temperature in 
+kelvins, and quantity of gas in moles. Pressure is the force per unit area 
+and is expressed in SI units as pascals, Pa 11 Pa = 1 N>m22. A related 
+unit, the bar, equals 105 Pa. In chemistry, standard atmospheric pressure is 
+used to define the atmosphere (atm) and the torr (also called the millime-
+ter of mercury). One atmosphere of pressure equals 101.325 kPa, or 760 
+torr. A barometer is often used to measure the atmospheric pressure. A 
+manometer can be used to measure the pressure of enclosed gases.
+THE GAS LAWS (SECTION 10.3) Studies have revealed several sim-
+ple gas laws: For a constant quantity of gas at constant temperature, 
+the volume of the gas is inversely proportional to the pressure (Boyle’s 
+law). For a fixed quantity of gas at constant pressure, the volume is di-
+rectly proportional to its absolute temperature (Charles’s law). Equal 
+volumes of gases at the same temperature and pressure

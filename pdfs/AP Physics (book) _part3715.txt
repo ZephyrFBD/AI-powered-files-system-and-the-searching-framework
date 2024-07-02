@@ -1,0 +1,14 @@
+ry, there are many axioms and theorems we take for granted, such as that
+the sum of the angles of any triangle is 180°. Non-Euclidean geometries, which
+involve curved space, have also been imagined by mathematicians. It is hard
+enough to imagine three-dimensional curved space, much less curved four-
+dimensional space-time. So let us try to understand the idea of curved space by
+using two-dimensional surfaces.
+Consider, for example, the two-dimensional surface of a sphere. It is clearly
+curved, Fig. 33–16, at least to us who view it from the outside—from our three-
+dimensional world. But how would hypothetical two-dimensional creatures
+determine whether their two-dimensional space was flat (a plane) or curved?
+One way would be to measure the sum of the angles of a triangle. If the surface is
+a plane, the sum of the angles is 180°, as we learn in plane geometry. But if the
+space is curved, and a sufficiently large triangle is constructed, the sum of the
+angles will not be 180°. To constr

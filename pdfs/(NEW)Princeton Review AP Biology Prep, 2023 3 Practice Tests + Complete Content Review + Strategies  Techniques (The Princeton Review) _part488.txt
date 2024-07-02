@@ -1,0 +1,38 @@
+three females, 37.5 to have two females and a male, 37.5 to
+have one female and two males, and 12.5 to have three males. This can be calculated by multiplying the probability
+of each event by the total (100 in this case).
+Next, we compare this expected data (E) to what actually happened (the observed data, O). Note that the total
+numbers for observed and expected columns must be the same (in this case, they each have a total of 100). To
+calculate an χ2 value, the formula (O – E)2/E is calculated for each row of the table, and summed.
+Family Type
+Observed
+(O)
+Expected
+(E)
+(O – E)2/E
+3 females
+14
+12.5
+0.18
+2 females
+1 male
+36
+37.5
+0.06
+1 female
+2 males
+30
+37.5
+1.5
+3 males
+20
+12.5
+4.5
+Total
+100
+100
+6.24
+The calculated χ2 value is 6.24. Next, this value needs to be compared to a critical value (CV). This is obtained from
+a table like this one.
+This chart is included on the AP Biology Equations and Formulas sheet. In order to use this table, you must know
+the degrees of freedom (DF), which 

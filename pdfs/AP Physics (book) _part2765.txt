@@ -1,0 +1,14 @@
+ion 21–8), a new picture can be taken.
+A CMOS sensor also uses a silicon semiconductor, and incorporates tran-
+sistor electronics within each pixel, allowing parallel readout, somewhat like the
+similar MOSFET array that was shown in Fig. 21–29.
+Sensor sizes are typically in the ratio 4 3 or 3 2. A larger sensor is better
+because it can hold more pixels, and or each pixel can be larger and hold more
+charge (free electrons) to provide a wider range of brightness, better color accuracy,
+and better sensitivity in low-light conditions.
+In the most common array of pixels, referred to as a Bayer mosaic, color is
+achieved by red, green, and blue filters over alternating pixels as shown in
+Fig. 25–2, similar to what a color LCD or CRT screen does (Sections 17–11 and
+24–11). The sensor type shown in Fig. 25–2 contains twice as many green pixels as
+red or blue (because green seems to have a stronger influence on the human
+eye’s sensation of sharpness). The computer-analyzed color at many pixels i

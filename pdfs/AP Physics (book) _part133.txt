@@ -1,0 +1,20 @@
+als with force and why objects move as they do. This Chapter and the next deal
+with kinematics.
+22
+CHAPTER 2
+Describing Motion: Kinematics in One Dimension
+FIGURE 2;2 A person walks toward the front of a train at 
+The train is moving 
+with respect to the ground, so the 
+walking person’s speed, relative to the ground, is 85 kmh.
+80 kmh
+5 kmh.
+For now we only discuss objects that move without rotating (Fig. 2–1a).
+Such motion is called translational motion. In this Chapter we will be concerned
+with describing an object that moves along a straight-line path, which is one-
+dimensional translational motion. In Chapter 3 we will describe translational
+motion in two (or three) dimensions along paths that are not straight. (Rotation,
+shown in Fig. 2–1b, is discussed in Chapter 8.)
+We will often use the concept, or model, of an idealized particle which is
+considered to be a mathematical point with no spatial extent (no size). A point
+particle can undergo only translational motion. The partic

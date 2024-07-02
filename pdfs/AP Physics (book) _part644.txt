@@ -1,0 +1,23 @@
+that retards the motion, with the force 
+needed to accel-
+erate the car, which is the frictional force exerted by the road on the tires—the
+reaction to the motor-driven tires pushing against the road. We must determine
+the magnitude of the force F before calculating the power.
+SOLUTION (a) To move at a steady speed up the hill, the car must, by New-
+ton’s second law, exert a force F equal to the sum of the retarding force, 700 N,
+and the component of gravity parallel to the hill, mg sin 10°, Fig. 6–29. Thus
+Since
+† and is parallel to 
+then (Eq. 6–18) the power is
+(b) The car accelerates from 
+to 
+(90 to 
+) on the flat.
+The car must exert a force that overcomes the 700-N retarding force plus that
+required to give it the acceleration
+We apply Newton’s second law with x being the horizontal direction of motion
+(no component of gravity):
+We solve for the force required,
+Since  
+the required power increases with speed and the motor must be
+able to provide a maximum power output in this case

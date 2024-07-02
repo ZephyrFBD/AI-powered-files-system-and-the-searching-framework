@@ -1,0 +1,48 @@
+nt B
+will touch the plane and be at rest
+momentarily. Thus no work is done
+by the force of static friction.
+EXERCISE C Return to the Chapter-Opening Question, page 198, and answer it again
+now. Try to explain why you may have answered differently the first time.
+C
+r
+l
+θ
+
+
+F
+B
+Work Done by Torque
+The work done on an object rotating about a fixed axis, such as the pulleys in
+Figs. 8–21 and 8–22, can be written using angular quantities. As shown in
+Fig. 8–26, a force F exerting a torque 
+on a wheel does work 
+in rotating the wheel a small distance 
+at the point of application of 
+The
+wheel has rotated through a small angle
+(Eq. 8–1). Hence
+Because 
+then
+(8;17)
+is the work done by the torque 
+when rotating the wheel through an angle 
+Finally, power P is the rate work is done:
+which is analogous to the translational version,
+(see Eq. 6–18).
+P = Fv
+P = W¢t = t ¢u¢t = tv,
+¢u.
+t
+W = t ¢u
+t = rF,
+W = F ¢l = Fr ¢u.
+¢u = ¢lr
+F
+B.
+¢l
+W = F ¢l
+t = rF
+FIGURE 8;26 Torque 
+does
+work when rotating

@@ -1,0 +1,12 @@
+they do in the metallic structures shown in Figure 12.11?
+Three common ionic structure types are shown in Figure 12.25. The cesium chlo-
+ride (CsCl) structure is based on a primitive cubic lattice. Anions sit on the lattice points 
+at the corners of the unit cell, and a cation sits at the center of each cell. (Remember, 
+there is no lattice point inside a primitive unit cell.) With this arrangement, both cat-
+ions and anions are surrounded by a cube of eight ions of the opposite type.
+The sodium chloride (NaCl; also called the rock salt structure) and zinc blende 
+(ZnS) structures are based on a face-centered cubic lattice. In both structures the 
+anions sit on the lattice points that lie on the corners and faces of the unit cell, but 
+the two-atom motif is slightly different for the two structures. In NaCl the Na+ ions 
+are displaced from the Cl- ions along the edge of the unit cell, whereas in ZnS the 
+Zn2 +  ions are displaced from the S2 -  ions along the body diagonal of the unit 

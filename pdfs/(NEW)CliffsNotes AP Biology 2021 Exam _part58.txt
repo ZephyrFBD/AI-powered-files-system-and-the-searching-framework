@@ -1,0 +1,14 @@
+
+1. Adenine—a double-ring base (purine)
+2. Thymine—a single-ring base (pyrimidine)
+3. Cytosine—a single-ring base (pyrimidine)
+4. Guanine—a double-ring base (purine)
+Pyrimidines are single-ring nitrogen bases, and purines are double-ring bases. You can remember which of these
+bases are purines by the words “pure silver,” where pure suggests purine and Ag (a denine and g uanine) is the
+chemical symbol for silver. The first letter of each of these four bases is often used to symbolize the respective
+nucleotide (A for the adenine nucleotide, for example).
+Figure 2-11
+DNA nucleotides form a single-stranded DNA molecule when the phosphate group of one nucleotide joins to the
+sugar of the adjacent nucleotide (Figure 2-12). Two of these single strands of DNA, paired by weak hydrogen bonds
+between the bases, form a double-stranded DNA. When bonded in this way, DNA forms a two-stranded spiral, or
+double helix. Note that adenine always bonds with thymine and guanine always bonds with cytosine (a

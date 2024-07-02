@@ -1,0 +1,34 @@
+ calcu-
+late the standard emf for each of the following reactions:
+(a) Cl21g2 + 2 I-1aq2 ¡ 2 Cl-1aq2 + I21s2
+(b) Ni1s2 + 2 Ce4+1aq2 ¡ Ni2+1aq2 + 2 Ce3+1aq2
+ 
+Exercises 
+893
+894 
+CHAPTER 20 Electrochemistry
+(c) Fe1s2 + 2 Fe3+1aq2 ¡ 3 Fe2+1aq2
+(d) 2 NO3
+-1aq2 + 8 H+1aq2 + 3 Cu1s2 ¡ 2 NO1g2 +
+  
+4 H2O1l2 + 3 Cu2+1aq2
+ 20.38  Using data in Appendix E, calculate the standard emf for 
+each of the following reactions:
+(a) H21g2 + F21g2 ¡ 2 H+1aq2 + 2 F-1aq2
+(b) Cu2+1aq2 + Ca1s2 ¡ Cu1s2 + Ca2+1aq2
+(c) 3 Fe2+1aq2 ¡ Fe1s2 + 2 Fe3+1aq2
+(d) 2 ClO3
+-1aq2 + 10 Br-1aq2 + 12 H+1aq2 ¡ Cl21g2 +
+  
+5 Br21l2 + 6 H2O1l2
+ 20.39  The standard reduction potentials of the following half- 
+reactions are given in Appendix E:
+Ag+1aq2 + e-
+ ¡ Ag1s2
+Cu2+1aq2 + 2 e- ¡ Cu1s2
+Ni2+1aq2 + 2 e-  ¡ Ni1s2
+Cr3+1aq2 + 3 e-  ¡ Cr1s2
+(a) Determine which combination of these half-cell reac-
+tions leads to the cell reaction with the largest positive cell 
+potential and calculate the value. (b) Determine which 
+combination of the

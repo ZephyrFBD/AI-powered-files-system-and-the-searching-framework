@@ -1,0 +1,13 @@
+he Doppler effect occurs for waves other than sound. Light and other types 
+of electromagnetic waves (such as for radar) exhibit the Doppler effect: although
+the formulas for the frequency shift are not identical to Eqs. 12–2 and 12–3,
+the effect is similar (see Chapter 33). One important application is for 
+weather forecasting using radar. The time delay between the emission of a radar 
+pulse and its reception after being reflected off raindrops gives the position of
+precipitation. Measuring the Doppler shift in frequency (as in Example 12–16)
+tells how fast the storm is moving and in which direction. “Radar guns”used by police
+work similarly, measuring a car’s speed by the Doppler shift of electromagnetic waves.
+Another important application is to astronomy, where the velocities of galaxies
+can be estimated from the Doppler shift. Light from distant galaxies is shifted
+toward lower frequencies, indicating that the galaxies are moving away from us.
+This is called the redshift since re

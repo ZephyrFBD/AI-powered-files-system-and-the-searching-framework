@@ -1,0 +1,54 @@
+epresent each force acting on it. Include every force acting on that
+object. Do not show forces that the chosen object exerts on other objects. To help
+you identify each and every force that is exerted on your chosen object, ask yourself
+what other objects could exert a force on it. If your problem involves more than one
+object, a separate free-body diagram is needed for each object. For now, the likely
+forces that could be acting are gravity and contact forces (one object pushing or
+pulling another, normal force, friction). Later we will consider other types of force
+such as buoyancy, fluid pressure, and electric and magnetic forces.
+tan–1(0.195) = 11.0°.
+tan u =
+F
+Ry
+F
+Rx
+= 10.2 N
+52.3 N = 0.195,
+F
+B
+R
+u
+F
+R = 3FRx
+2
++ FRy
+2
+= 3(52.3)2 + (10.2)2 N = 53.3 N.
+F
+Ry = F
+Ay + F
+By = 28.3 N - 18.1 N = 10.2 N.
+F
+Rx = F
+Ax + F
+Bx = 28.3 N + 24.0 N = 52.3 N,
+F
+By
+F
+By =
+–F
+B sin 37.0° =
+–(30.0 N)(0.602) =
+–18.1 N.
+F
+Bx =
+±F
+B cos 37.0° =
+±(30.0 N)(0.799) =
+±24.0 N,
+F
+B
+B
+F
+Ay = F
+A sin 45.0° 

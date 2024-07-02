@@ -1,0 +1,60 @@
+1587 
+0.0158 
+0.0830 
+2008 
+0.0638 
+0.1442 
+0.0147 
+0.0770 
+2009 
+0.0706 
+0.1659 
+0.0164 
+0.0869 
+2010 
+0.0587 
+0.1256 
+0.0135 
+0.0689 
+2011 
+0.0632 
+0.1470 
+0.0149 
+0.0774 
+2012 
+0.0647 
+0.1518 
+0.0153 
+0.0796 
+Team#36961 
+ 
+Page 17 of 20 
+When we add uncertain factors, the indexes are all lower than Table Nine’s. 
+Society is the significant cause in three indexes and Ecology is the second reason. In 
+our opinion, development aid is just a little assistance to Haiti, so we need to change 
+the data in twelve factors and see what factor is the most important. 
+There are two different way to change the data. One is that every original data 
+rise 0.1, the other one is that increase every original data with ten percent. They are 
+different change for each factor. 
+Table 16: Different factors’ indexes rank (rise 0.1 in data) 
+ 
+P1(Society) P2(Economy）
+ P3
+（Ecology）
+ P4（Total）
+ 
+P4(Rank) 
+Population 
+0.0690 
+0.1534 
+0.0155 
+0.0825 
+7 
+Policy 
+0.0731 
+0.1548 
+0.0156 
+0.0852 
+3 
+Community 
+0.0

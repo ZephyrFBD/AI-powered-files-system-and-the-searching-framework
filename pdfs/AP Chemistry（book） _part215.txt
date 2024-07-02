@@ -1,0 +1,16 @@
+
+zero is the lowest temperature attainable. It has the value 0 K. A derived unit 
+is obtained by multiplication or division of SI base units. Derived units are 
+needed for defined quantities such as speed or volume. Density is an im-
+portant derived unit that equals mass divided by volume.
+UNCERTAINTY IN MEASUREMENT (SECTION 1.6) All measured 
+quantities are inexact to some extent. The precision of a measurement 
+indicates how closely different measurements of a quantity agree 
+with one another. The accuracy of a measurement indicates how well 
+a measurement agrees with the accepted or “true” value. The signifi-
+cant figures in a measured quantity include one estimated digit, the 
+last digit of the measurement. The significant figures indicate the 
+extent of the uncertainty of the measurement. Certain rules must 
+be followed so that a calculation involving measured quantities is re-
+ported with the appropriate number of significant figures.
+DIMENSIONAL ANALYSIS (SECTION 1.7) In the dim

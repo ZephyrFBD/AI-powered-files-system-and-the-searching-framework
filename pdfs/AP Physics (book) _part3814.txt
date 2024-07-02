@@ -1,0 +1,68 @@
+ two equations are algebraic since they involve symbols. In the third equa-
+tion, the quantity 
+means the product of a times a times b:
+a * a * b.
+
+a2b
+a2b
+a2b + c = 6.
+ 
+2x + 7 = 15
+ 
+3 + 8 = 11
+4.5 * 109
+4.50 * 109
+45 * 108,
+4.5 * 109
+100 = 1.
+100.
+
+101 * 10–1
+10 * 0.1 = 1,
+
+101 * 10–1
+7.2 * 101 = 72.
+=
+A3.6 * 103B
+*
+A2.0 * 10–2B
+0.020 * 3600 = 72,
+0.002 = 2 * 10–3.
+1 * 10–2.
+=
+1102
+=
+0.01 = 1100
+8.2 * 105
+2.0 * 102
+= 8.2
+2.0 * 105
+102
+= 4.1 * 103.
+2.0 * 102
+8.2 * 105
+11 * 107,
+
+(2.0 * 5.5) * A103 * 104B
+5.5 * 104
+2.0 * 103
+=
+4.50 * 1,000,000,000
+4.50 * 109 =
+10 * 10 = 10,000.
+*
+104 = 10 * 10
+an
+1.0 * 10–8 cm.
+4.50 * 109 km
+SECTION A–4
+Algebra
+A-3
+†Another convention used, particularly with computers, is that the simple number be between 0.1 
+and 1. Thus we could write 4,500,000,000 as 
+This is slightly less compact.
+0.450 * 1010.
+Solving for an Unknown
+Often we wish to solve for one (or more) symbols, and we treat it as an 
+unknown. For example, in the equation
+x is the unknow

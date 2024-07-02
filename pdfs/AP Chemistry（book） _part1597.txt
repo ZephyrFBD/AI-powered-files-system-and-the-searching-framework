@@ -1,0 +1,37 @@
+ number of moles of gas. If each gas obeys the 
+ideal-gas equation, we can write
+P
+1 = n1aRT
+V b; P
+2 = n2aRT
+V b; P
+3 = n3aRT
+V b; and so forth
+All of the gases in a container must occupy the same volume and will come to 
+the same temperature in a relatively short period of time. Using these facts to simplify 
+ 
+Equation 10.12, we obtain
+ 
+P
+t = 1n1 + n2 + n3 + c
+2aRT
+V b = ntaRT
+V b 
+[10.13]
+That is, at constant temperature and constant volume the total pressure of a gas sample 
+is determined by the total number of moles of gas present, whether that total represents 
+just one gas or a mixture of gases.
+We use the coefficients in the balanced equation 
+to calculate the number of moles of NaN3:
+11.7 mol N22a
+2 mol NaN3
+3 mol N2
+b = 1.1 mol NaN3
+Finally, using the molar mass of NaN3, we 
+convert moles of NaN3 to grams:
+11.1 mol NaN32a
+65.0 g NaN3
+1 mol NaN3
+b = 72 g NaN3 
+Check The units cancel properly at each step in the calculation,  
+leaving us with the correct units in the answer, 

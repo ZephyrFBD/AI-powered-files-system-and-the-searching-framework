@@ -1,0 +1,16 @@
+pe
+and p-type layers in the earliest useful OLED. Polymers, long organic molecules
+with repeating structural units, can also be used for an OLED.
+The simplest OLED consists of two organic layers, the emissive layer and the
+conductive layer, each 20 to 50 nm thick, sandwiched between two electrodes,
+Fig. 29–38. The anode is typically transparent, to let the light out. It can be made
+of a very thin layer of indium–tin oxide (ITO), which is transparent and conduc-
+tive, coated on a glass slab. The cathode is often metallic, but could also be made
+of transparent material.
+*
+OLEDs can be smaller and thinner than ordinary inorganic LEDs. They can
+be more easily constructed as a unit for a screen display (i.e., more cheaply, but
+still quite expensive) than for inorganic LEDs. Their use as screens on cell
+phones, cameras, and TVs produces brighter light and greater contrast, and they
+need less power (important for battery life of portable devices) than LCD screens.
+Why? They need no backlight 

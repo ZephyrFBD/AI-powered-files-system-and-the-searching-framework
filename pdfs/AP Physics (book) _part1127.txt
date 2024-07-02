@@ -1,0 +1,23 @@
+output piston is 18 cm, and the
+input force is 380 N. (a) What is the area of the input
+piston? (b) What is the work done in lifting the car 42 cm?
+(c) If the input piston moves 13 cm in each stroke, how
+high does the car move up for each stroke? (d) How many
+strokes are required to jack the car up 42 cm? (e) Show
+that energy is conserved.
+78. When you ascend or descend a great deal when driving in 
+a car, your ears “pop,” which means that the pressure
+behind the eardrum is being equalized to that outside. If
+this did not happen, what would be the approximate force
+on an eardrum of area 
+if a change in altitude of
+1250 m takes place?
+79. Giraffes are a wonder of cardiovascular engineering. Cal-
+culate the difference in pressure (in atmospheres) that the
+blood vessels in a giraffe’s head must accommodate as the
+head is lowered from a full upright position to ground level
+for a drink. The height of an average giraffe is about 6 m.
+0.20 cm2
+680 mm-H2O?
+1.00 gcm3,
+80. How high should the 

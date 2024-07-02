@@ -1,0 +1,36 @@
+ ¡ Zn2+1aq2 + 2 e- and the cathode  
+half-reaction 
+is Sn2+1aq2 + 2 e- ¡  Sn1s2. What is the concentration of 
+Sn2+ if Zn2+ is 2.5 * 10-3 M and the cell emf is 0.660 V? Use 
+the reduction potentials in Appendix E that are reported to 
+three significant figures. (a) 3.3 * 10-2 M (b) 1.9 * 10-4 M 
+(c) 9.0 * 10-3 M (d) 6.9 * 10-4 M (e) 7.6 * 10-3 M
+ 
+▶Practice Exercise 2
+What is the pH of the solution in the cathode half-cell in 
+Figure 20.9 when P
+H2 = 1.0 atm, 3Zn2+4 in the anode half-cell 
+is 0.10 M, and the cell emf is 0.542 V?
+Using Equation 20.18, we can solve for Q:
+ 0.45 V = 0.76 V - 0.0592 V
+2
+ log Q
+ Q = 1010.5 = 3 * 1010
+Q has the form of the equilibrium constant for the reaction:
+Q =
+3Zn2+4P
+H2
+3H+42
+=
+11.0211.02
+3H+42
+ = 3 * 1010
+Solving for 3H+4, we have:
+ 3H+42 =
+1.0
+3 * 1010 = 3 * 10-11
+ 3H+4 = 23 * 10-11 = 6 * 10-6 M
+Finally, we use 3H+4 to calculate the pH of the cathode solution.
+pH = log 3H+4 = -log 16 * 10-62 = 5.2
+Go Figure
+Which electrode, if any, gains mass as the 

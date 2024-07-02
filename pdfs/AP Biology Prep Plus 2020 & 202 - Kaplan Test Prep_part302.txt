@@ -1,0 +1,23 @@
+rchers studied ligand-receptor interactions and summarized
+their data in the diagram below.
+Adapted from Lijuan He and Kalina Hristova, “Physical-
+Chemical Principles Underlying RTK Activation, and
+Their Implications for Human Disease,” Biochim Biophys
+Acta 1818, no. 4 (April 2012): 995–1005.
+Based on the diagram, which of the following statements best
+describes the activation of an RTK?
+Ligands can bind either to monomers or dimers and, in each
+case, fully activate tyrosine kinase phosphorylation.
+(A)
+Ligands can bind to monomers or dimers, but only the
+ligand-dimer complex can be phosphorylated.
+(B)
+Only dimers bound to the ligand undergo extensive
+phosphorylation, initiating the signaling cascade.
+(C)
+Monomers can form dimers without the ligand bound, can
+become phosphorylated, and can start the signaling cascade
+in the absence of a signal.
+(D)
+4. The cholera toxin secreted by the bacterium Vibrio cholerae enters
+the cells lining the intestinal tract and locks a G-protein in its GTP

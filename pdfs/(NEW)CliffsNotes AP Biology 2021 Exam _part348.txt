@@ -1,0 +1,10 @@
+plasmid DNA to the recipient. In some cases, copies of large portions of a donor’s chromosome are sent, allowing
+recombination with the recipient’s chromosome. One plasmid, called the F plasmid, contains the genes that enable a
+bacterium to produce pili. When a recipient bacterium receives the F plasmid, it too can become a donor cell.
+2. Transduction occurs when new DNA is introduced into the genome of a bacterium by a virus. When a virus is
+assembled during a lytic cycle, it is sometimes assembled with some bacterial DNA in place of some of the viral
+DNA. When this aberrant virus infects another cell, the bacterial DNA that it delivers can recombine with the
+resident DNA. Like conjugation, transduction can transfer bacterial resistance or other pathogenic traits to host cells.
+3. Transformation occurs when bacteria absorb DNA from their surroundings and incorporate it into their genome.
+Specialized proteins on the cell membranes of some bacteria facilitate this kind of DNA uptake.
+Re

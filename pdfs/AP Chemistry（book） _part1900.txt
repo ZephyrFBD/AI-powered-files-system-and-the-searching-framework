@@ -1,0 +1,30 @@
+ss per unit cell divided by the volume of a unit 
+cell
+Density =
+mass
+volume =
+1.411 * 10-21 g
+4.12 * 10-22 cm3 = 3.43 g>cm3
+Check The densities of most solids fall between the density of lith-
+ium 10.5 g>cm32 and that of iridium 122.6 g>cm32, so this value is 
+reasonable.
+ 
+▶Practice Exercise 1
+Given the ionic radii and molar masses of Sc3+ 10.88 Å, 
+45.0 g>mol2 and F- 11.19 Å, 19.0 g>mol2, what value do you 
+estimate for the density of ScF3, whose structure is shown in 
+Figure 12.27? 
+(a) 5.99 g>cm3 
+(b) 1.44 * 1024 g>mol  
+(c) 19.1 g>cm3 
+(d) 2.39 g>cm3 
+(e) 5.72 g>cm3
+ 
+▶Practice Exercise 2
+Estimate the length of the cubic unit cell edge and the den-
+sity of CsCl (Figure 12.25) from the ionic radii of cesium,  
+1.81 Å, and chloride, 1.67 Å. (Hint: Ions in CsCl touch along 
+the body diagonal, a vector running from one corner of a 
+cube through the body center to the opposite corner. Using 
+trigonometry it can be shown that the body diagonal of a 
+cube is 13 times longer than the edg

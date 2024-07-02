@@ -1,0 +1,18 @@
+rite, and is too slow to use as RAM. Instead, flash memory
+can be used in place of a hard drive as general storage in computers and tablets,
+and may be called a “solid state device” (SSD). Flash is also used for flash drives,
+memory cards (such as SD cards), thumb drives, cell phone and portable player
+memory, and external computer memory.
+Magnetoresistive RAM (MRAM) is a recent development, involving (again)
+magnetic properties. One cell (storing one bit) consists of two tiny ferromagnetic
+plates (separated by an insulator), one of which is permanently magnetized.
+The other plate can be magnetized in one direction or the other, for a “1” or
+a “0”, by current in nearby wires. Cell size is a bit large, but MRAM is fast and
+nonvolatile (no power and no refresh needed) and therefore has the potential to
+be used as any type of memory.
+2
+1–9 Applications of Induction:
+Microphone, Seismograph, GFCI
+Microphone
+The condenser microphone was discussed in Section 17–7. Many other types operate
+on

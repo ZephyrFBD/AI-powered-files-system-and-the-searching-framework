@@ -1,0 +1,23 @@
+onal energy levels are subject to the selection rule
+(as in Section 28–6):
+The energy of a photon emitted or absorbed for a transition between rotational
+states with angular momentum quantum number and
+will be
+(29;2)
+We see that the transition energy increases directly with 
+Figure 29–16 shows some
+of the allowed rotational energy levels and transitions. Measured absorption lines
+fall in the microwave or far-infrared regions of the spectrum (energies
+),
+and their frequencies are generally 2, 3,
+times higher than the lowest one,
+as predicted by Eq. 29–2.
+EXERCISE A Determine the three lowest rotational energy states (in eV) for a nitrogen
+molecule which has a moment of inertia
+Rotational transition. A rotational transition
+to
+for the molecule CO has a measured absorption wavelength
+(microwave region). Use this to calculate (a) the moment of inertia of the CO
+molecule, and (b) the CO bond length, r.
+APPROACH The absorption wavelength is used to find the energy of the
+absorbed photon, and

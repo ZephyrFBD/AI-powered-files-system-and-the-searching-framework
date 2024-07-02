@@ -1,0 +1,28 @@
+ents
+Binding energy for iron. Calculate the total binding energy
+and the binding energy per nucleon for 
+the most common stable isotope 
+of iron.
+APPROACH We subtract the mass of a 
+atom from the total mass of 26 hydro-
+gen atoms and 30 neutrons, all found in Appendix B. Then we convert mass units
+to energy units; finally we divide by 
+the total number of nucleons.
+SOLUTION
+has 26 protons and 30 neutrons whose separate masses are
+The total binding energy is thus
+and the binding energy per nucleon is
+NOTE The binding energy per nucleon graph (Fig. 30–1) peaks about here, for
+iron. So the iron nucleus, and its neighbors, are the most stable of nuclei.
+EXERCISE B Determine the binding energy per nucleon for 
+Binding energy of last neutron. What is the binding energy
+of the last neutron in 
+APPROACH If 
+lost one neutron, it would be 
+We subtract the mass of
+from the masses of 
+and a free neutron.
+SOLUTION Obtaining the masses from Appendix B, we have
+which in energy is 
+That is, it would
+r

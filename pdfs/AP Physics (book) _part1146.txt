@@ -1,0 +1,73 @@
+
+x = –A.
+x = A
+x = –A
+x = A
+vmax
+x = –A,
+294
+CHAPTER 11
+Oscillations and Waves
+C A U T I O N
+For vertical spring, measure
+displacement (x or y) from the
+vertical equilibrium position
+F
+B
+F
+B
+F
+B
+F
+B
+(d)
+(c)
+(a)
+(b)
+x = A
+x = 0
+x = 0
+x = 0
+   = 0
+   = 0
+x = 0
+x = −A
+v = 0
+v = −vmax
+v = +vmax
+v = 0
+(e)
+x = 0
+x = −A
+v = 0
+(max. in negative
+direction)
+F
+B
+(max. in positive
+direction)
+FIGURE 11–2 An object oscillating
+on a frictionless surface, indicating
+the force on the object and its
+velocity at different positions of its
+oscillation cycle.
+(b)
+(a)
+m
+x
+x now
+measured
+from here
+x0
+F = −kx0
+mg
+B
+FIGURE 11–3
+(a) Free spring, hung vertically.
+(b) Mass m attached to spring in new 
+equilibrium position, which occurs when
+©F = 0 = mg - kx0 .
+Car springs. When a family of four with a total mass of
+200 kg step into their 1200-kg car, the car’s springs compress 3.0 cm. (a) What is
+the spring constant of the car’s springs (Fig. 11–4), assuming they act as a single
+spring? (b) How far will the car l

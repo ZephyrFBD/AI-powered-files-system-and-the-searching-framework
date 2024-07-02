@@ -1,0 +1,23 @@
+se samples in order of increasing numbers of carbon atoms: 
+12 g 12C, 1 mol C2H2, 9 * 1023 molecules of CO2.
+ 
+▶Practice Exercise 1
+Which of the following samples contains the fewest sodium atoms? 
+(a) 1 mol sodium oxide (b) 45 g sodium fluoride  
+(c) 50 g sodium chloride (d) 1 mol sodium nitrate
+ 
+▶Practice Exercise 2
+Without using a calculator, arrange these samples in order 
+of increasing numbers of O atoms: 1 mol H2O, 1 mol CO2, 
+3 * 1023 molecules of O3.
+SOLUTION
+Analyze We are given amounts of three substances expressed in 
+grams, moles, and number of molecules and asked to arrange the 
+samples in order of increasing numbers of C atoms.
+Plan To determine the number of C atoms in each sample, we 
+must convert 12 g 12C, 1 mol C2H2, and 9 * 1023 molecules CO2 to 
+numbers of C atoms. To make these conversions, we use the defi-
+nition of mole and Avogadro’s number.
+Solve One mole is defined as the amount of matter that 
+contains as many units of the matter as there are C atoms 
+in exa

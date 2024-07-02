@@ -1,0 +1,36 @@
+h means that the displacement as
+a function of time follows a sine curve.
+During SHM, the total energy
+(11;3)
+is continually changing from potential to kinetic and back
+again.
+E =
+1
+2 mv2 + 1
+2 kx2
+T = 2p A
+m
+k
+.
+f =
+1
+T
+.
+F =
+–kx.
+A simple pendulum of length 
+approximates SHM if its
+amplitude is small and friction can be ignored. For small ampli-
+tudes, its period is given by
+(11;11a)
+where g is the acceleration of gravity.
+When friction is present (for all real springs and pendulums),
+the motion is said to be damped. The maximum displacement
+decreases in time, and the mechanical energy is eventually all
+transformed to thermal energy.
+If a varying force of frequency f is applied to a system capable
+of oscillating, the amplitude of oscillation can be very large if the
+frequency of the applied force is near the natural (or resonant)
+frequency of the oscillator. This is called resonance.
+Vibrating objects act as sources of waves that travel 
+outward from the source. Waves on water and on

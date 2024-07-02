@@ -1,0 +1,20 @@
+FE 
+[20.11]
+In this equation, n is a positive number without units that represents the number of moles 
+of electrons transferred according to the balanced equation for the reaction, and F is the 
+Faraday constant, named after Michael Faraday ( Figure 20.12):
+ 
+F = 96,485 C>mol = 96,485 J>V@mol 
+The Faraday constant is the quantity of electrical charge on 1 mol of electrons.
+The units of ∆G calculated with Equation 20.11 are J>mol. As in Equation 19.19, we 
+use “per mole” to mean per mole of reaction as indicated by the coefficients in the bal-
+anced equation. 
+ (Section 19.7)
+Because both n and F are positive numbers, a positive value of E in Equation 20.11 
+leads to a negative value of ∆G. Remember: A positive value of E and a negative value of ∆G 
+both indicate a spontaneous reaction. When the reactants and products are all in their stan-
+dard states, Equation 20.11 can be modified to relate ∆G° and E°.
+ 
+∆G° = -nFE° 
+[20.12]
+Because ∆G° is related to the equilibrium constant, K, for

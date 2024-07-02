@@ -1,0 +1,39 @@
+rease both the energy 
+and the charges involved, but the ratio of energy (joules) to electrical charge (coulombs) 
+remains constant 1V = J>C2. Thus, changing the stoichiometric coefficient in a half-reaction 
+does not affect the value of the standard reduction potential. For example, E°
+red for the reduc-
+tion of 10 mol Zn2+ is the same as that for the reduction of 1 mol Zn2+:
+10 Zn2+1aq, 1 M2 + 20 e- ¡ 10 Zn1s2  E°
+red = -0.76 V
+TABLE 20.1 Standard Reduction Potentials in Water at 25°C
+E °red1V2
+Reduction Half-Reaction
++2.87
+F21g2 + 2 e- ¡ 2 F-1aq2
++1.51
+MnO4
+-1aq2 + 8 H+1aq2 + 5 e- ¡ Mn2+1aq2 + 4 H2O1l2
++1.36
+Cl21g2 + 2 e- ¡ 2 Cl-1aq2
++1.33
+Cr2O7
+2-1aq2 + 14 H+1aq2 + 6 e- ¡ 2 Cr3+1aq2 + 7 H2O1l2
++1.23
+O21g2 + 4 H+1aq2 + 4 e- ¡ 2 H2O1l2
++1.06
+Br21l2 + 2 e- ¡ 2 Br-1aq2
++0.96
+NO3
+-1aq2 + 4 H+1aq2 + 3 e- ¡ NO1g2 + 2 H2O1l2
++0.80
+Ag+1aq2 + e- ¡ Ag1s2
++0.77
+Fe3+1aq2 + e- ¡ Fe2+1aq2
++0.68
+O21g2 + 2 H+1aq2 + 2 e- ¡ H2O21aq2
++0.59
+MnO4
+-1aq2 + 2 H2O1l2 + 3 e- ¡ MnO21s2 + 4 OH-1aq2
++0.54
+I21s2

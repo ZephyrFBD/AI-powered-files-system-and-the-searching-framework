@@ -1,0 +1,21 @@
+a 
+valence electron in ﬂuorine, Slater’s rules tell us that 
+S = 10.35 * 62 + 10.85 * 22 = 3.8. (Slater’s rules ig-
+nore the contribution of an electron to itself in screen-
+ing; therefore, we consider only six n = 2 electrons, 
+not all seven). Thus, Zeff = Z - S = 9 - 3.8 = 5.2+, 
+a  
+little lower than the simple estimate of 9 - 2 = 7+.
+Values of Zeff estimated using the simple method 
+outlined in the text, as well as those estimated with 
+Slater’s rules, are plotted in Figure 7.5. While neither 
+of these methods exactly replicates the values of Zeff 
+obtained from more sophisticated calculations, both 
+methods effectively capture the periodic variation 
+in Zeff. While Slater’s approach is more accurate, the 
+method outlined in the text does a reasonably good 
+job of estimating Zeff despite its simplicity. For our 
+purposes, therefore, we can assume that the screening 
+constant S in Equation 7.1 is roughly equal to the num-
+ber of core electrons.
+Related Exercises: 7.15, 7.16, 7.31, 7

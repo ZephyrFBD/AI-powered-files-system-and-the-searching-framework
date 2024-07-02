@@ -1,0 +1,13 @@
+rigonal bipyramid can point toward two geomet-
+rically distinct types of positions. Two domains point toward axial positions, and three 
+point toward equatorial positions (Figure 9.8). Each axial domain makes a 90° angle with 
+any equatorial domain. Each equatorial domain makes a 120° angle with either of the 
+other two equatorial domains and a 90° angle with either axial domain.
+Suppose a molecule has five electron domains, and there are one or more nonbond-
+ing pairs. Will the domains from the nonbonding pairs occupy axial or equatorial posi-
+tions? To answer this question, we must determine which location minimizes repulsion 
+between domains. Repulsion between two domains is much greater when they are situ-
+ated 90° from each other than when they are at 120°. An equatorial domain is 90° from 
+only two other domains (the axial domains), but an axial domain is 90° from three other 
+domains (the equatorial domains). Hence, an equatorial domain experiences less repul-
+sion than an axial

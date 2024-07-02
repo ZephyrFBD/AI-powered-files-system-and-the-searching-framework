@@ -1,0 +1,12 @@
+me), activating it.
+4. Effector protein initiates response. The effector protein, now activated by the bound G protein, elicits a cellular
+response. Some of the possible responses include the following:
+Enzymatic activity. The effector protein may be an enzyme that catalyzes a specific substrate. More specifically, the
+enzyme may be a protein kinase and initiate a kinase cascade.
+Produce the second messenger cAMP. If the effector protein is the transmembrane enzyme adenylyl cyclase, the
+enzyme converts an ATP to a cAMP by removing two phosphate groups (ATP → AMP + 2Pi) and binding the
+remaining phosphate group
+so that it is attached to the ribose sugar in two places instead of one (wrapping it around and making it “cyclic”).
+Many cAMPs are rapidly produced, generating a very strong and rapid response. The cAMP signaling pathway then
+activates a cytoplasmic response protein, such as an enzyme protein kinase. Depending upon the cell type, the
+response protein initiates some specific cell

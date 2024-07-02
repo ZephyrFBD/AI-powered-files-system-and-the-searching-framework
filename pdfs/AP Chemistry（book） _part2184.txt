@@ -1,0 +1,48 @@
+rom t1 = 0 s to 
+t2 = 20 s is greater than that from t1 = 40 to t2 = 60 s.
+(iii) The average rate for the reaction from t1 = 40 s to t2 = 60 s 
+is 7.0 * 10-3 M>s.
+(a) Only one of the statements is true.
+(b) Statements (i) and (ii) are true.
+(c) Statements (i) and (iii) are true.
+(d) Statements (ii) and (iii) are true.
+(e) All three statements are true.
+ 
+▶Practice Exercise 2
+Use the data in Figure 14.2 to calculate the average rate of 
+appearance of B over the time interval from 0 s to 40 s.
+TABLE 14.1 Rate Data for Reaction of C4H9Cl with Water
+Time, t 1s2
+3C4H9Cl4 1M2
+Average Rate 1M,s2
+0.0
+0.1000
+1.9 * 10-4
+1.7 * 10-4
+1.6 * 10-4
+1.4 * 10-4
+1.22 * 10-4
+1.01 * 10-4
+0.80 * 10-4
+0.560 * 10-4
+50.0
+0.0905
+100.0
+0.0820
+150.0
+0.0741
+200.0
+0.0671
+300.0
+0.0549
+400.0
+0.0448
+500.0
+0.0368
+800.0
+0.0200
+10,000
+0
+proceeds because the concentration of reactants decreases. The 
+change in rate as the reaction proceeds is also seen in a graph 
+of 3C4H9Cl4 versus time (Figure 14.3). Notice how the steep

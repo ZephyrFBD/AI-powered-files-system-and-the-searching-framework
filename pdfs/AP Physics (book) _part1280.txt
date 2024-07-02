@@ -1,0 +1,20 @@
+ corresponds to only a very small change in
+the subjective sensation of apparent loudness. Indeed, the average human can
+distinguish a difference in sound level of only about 1 or 2 dB.
+Normally, the loudness or intensity of a sound decreases as you get farther
+from the source of the sound. Indoors, this effect is altered because of reflections
+from the walls. However, if a source is in the open so that sound can radiate out
+freely in all directions, the intensity decreases as the inverse square of the distance,
+as we saw in Section 11–9. Over large distances, the intensity decreases faster
+than 
+because some of the energy is transferred into irregular motion of air
+molecules. This loss happens more for higher frequencies, so any sound of mixed
+frequencies will be less “bright” at a distance. Far from an outdoor band, you hear
+mainly the boom of the drums.
+1r2
+I r
+1
+r2 ,
+T
+rumpet players. A trumpeter plays at a
+sound level of 75 dB. Three equally loud trumpet players join in. What is 

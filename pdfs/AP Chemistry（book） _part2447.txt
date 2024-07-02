@@ -1,0 +1,27 @@
+ard rate constant and the equi-
+librium constant K will increase; that is, the equilibrium will shift to 
+the right.
+Related Exercises: 15.69, 15.70, 15.94, 15.99
+A Closer look Temperature Changes and Le Châtelier’s Principle
+Endothermic reaction
+Ea(forward)
+DE > 0
+Ea(reverse)
+A
+B
+Ea(forward) > Ea(reverse) 
+Exothermic reaction
+DE < 0
+Ea(reverse)
+Ea(forward)
+A
+B
+Ea(reverse) > Ea(forward) 
+▲ Figure 15.15 The energy profile for an endothermic reaction (left) and an exothermic reaction (right).
+The Effect of Catalysts
+What happens if we add a catalyst to a chemical system that is at equilibrium? As 
+shown in Figure 15.16, a catalyst lowers the activation barrier between reactants and 
+products. The activation energies for both the forward and reverse reactions are low-
+ered. The catalyst thereby increases the rates of both forward and reverse reactions. 
+Since K is the ratio of the forward and reverse rate constants for a reaction, you can 
+predict, correctly, that the presence of a cataly

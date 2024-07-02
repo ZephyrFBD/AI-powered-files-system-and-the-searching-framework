@@ -1,0 +1,13 @@
+rates a bell or opens the door.
+UV or IR light is sometimes used in burglar alarms because of its invisibility. Many
+smoke detectors use the photoelectric effect to detect tiny amounts of smoke 
+that interrupt the flow of light and so alter the electric current. Photographic light
+meters use this circuit as well. Photocells are used in many other devices, such as
+absorption spectrophotometers, to measure light intensity. One type of film sound
+track is a variably shaded narrow section at the side of the film, Fig. 27–8. Light
+passing through the film is thus “modulated,” and the output electrical signal 
+of the photocell detector follows the frequencies on the sound track. For many
+applications today, the vacuum-tube photocell of Fig. 27–6 has been replaced by a
+semiconductor device known as a photodiode (Section 29–9). In these semicon-
+ductors, the absorption of a photon liberates a bound electron so it can move
+freely, which changes the conductivity of the material and the current t

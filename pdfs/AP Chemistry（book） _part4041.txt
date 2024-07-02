@@ -1,0 +1,57 @@
+m
+1.00 L
+0.500 mol
+48.7 K
+0.300 atm
+0.250 L
+3.05 *  10-3 mol
+27 °C
+650 torr
+11.2 L
+0.333 mol
+350 K
+10.3 atm
+585 mL
+0.250 mol
+295 K
+Molecule
+Electron-Domain 
+Geometry
+Hybridization 
+of Central 
+Atom
+Dipole   
+Moment?   
+Yes or No
+H2CO
+Trigonal planar
+sp2
+Yes
+PF5
+Trigonal  bipyra-
+midal
+Not applicable
+No
+XeF2
+Trigonal  bipyra-
+midal
+Not applicable
+No
+9.91 (a) 2 s bonds, 2 p bonds (b) 3 s bonds, 4 p bonds (c) 3 s 
+bonds, 1 p bond (d) 4 s bonds, 1 p bond 
+9.98
+H
+H
+H
+H
+C
+C
+C
+(a) The molecule is nonplanar. (b) Allene has no dipole moment.  
+(c) The bonding in allene would not be described as delocalized. The 
+p electron clouds of the two adjacent C “ C are mutually perpen-
+dicular, so there is no overlap and no delocalization of p electrons.  
+9.101 (a) All O atoms have sp2 hybridization. (b) The two s bonds 
+are formed by overlap of sp2 hybrid orbitals, the p bond is formed 
+by overlap of atomic p orbitals, one nonbonded pair is in a p atomic 
+orbital and the other ﬁve nonbonded pairs are i

@@ -1,0 +1,123 @@
+. We saw in Chapter 5 
+that we can measure the average bond enthalpy of many single bonds (Table 5.4). Table 5.4 is 
+repeated here as Table 8.3. As you might expect, Table 8.3 shows that multiple bonds are 
+generally stronger than single bonds.
+TABLE 8.3 Average Bond Enthalpies (kJ/mol)
+Single Bonds
+C ¬ H
+413
+N ¬H
+391
+O¬ H
+463
+F¬ F
+155
+C ¬ C
+348
+N ¬N
+163
+O—O
+146
+C ¬ N
+293
+N ¬O
+201
+O¬ F
+190
+Cl¬ F
+253
+C ¬ O
+358
+N ¬F
+272
+O¬ Cl
+203
+Cl¬ Cl
+242
+C ¬ F
+485
+N ¬Cl
+200
+O¬ I
+234
+C ¬ Cl
+328
+N ¬Br
+243
+Br¬ F
+237
+C ¬ Br
+276
+S ¬ H
+339
+Br¬ Cl
+218
+C ¬ I
+240
+H ¬H
+436
+S ¬ F
+327
+Br¬ Br
+193
+C ¬ S
+259
+H ¬F
+567
+S ¬ Cl
+253
+H ¬Cl
+431
+S—Br
+218
+I ¬Cl
+208
+Si¬H
+323
+H ¬Br
+366
+S—S
+266
+I ¬Br
+175
+Si¬Si
+226
+H ¬I
+299
+I ¬I
+151
+Si¬C
+301
+Si¬O
+368
+Si¬Cl
+464
+Multiple Bonds
+C “ C
+614
+N “N
+418
+O “ O
+495
+C ‚ C
+839
+N ‚N
+941
+C “ N
+615
+N “O
+607
+S “O
+523
+C ‚ N
+891
+S “ S
+418
+C “ O
+799
+C ‚ O
+1072
+326 
+CHAPTER 8 Basic Concepts of Chemical Bonding
+Just as we can define an average bond enthalpy, we can also define an average 
+bond length 

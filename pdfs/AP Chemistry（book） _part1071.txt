@@ -1,0 +1,60 @@
+arison of 1s, 2s, and 2p radial probability functions.
+262 
+CHAPTER 7 Periodic Properties of the Elements
+2
+6
+4
+Li
+Be
+B
+C
+N
+Charge of nucleus
+Zeff for core 1s electrons calculated
+with advanced methods
+Zeff for valence electrons calculated
+with Equation 7.1, assuming
+S 5 # core electrons
+ 
+Zeff for valence electrons calculated
+with advanced methods
+Zeff for valence electrons calculated
+with Slater’s rules
+O
+F
+Ne
+Na
+Mg
+Al
+Si
+P
+S
+Cl
+Ar
+8
+12
+16
+14
+10
+18
+20
+4
+6
+8
+10
+14
+18
+12
+16
+20
+0
+2
+Atomic number (Z)
+Zeff
+▲ Figure 7.5 Variations in effective nuclear charge for period 2 and period 3 elements.
+Moving from one element to the next in the periodic table, the increase in Zeff felt by 
+the innermost (1s) electrons (red circles) closely tracks the increase in nuclear charge 
+Z (black line) because these electrons are not screened much. The results of several 
+ 
+methods to calculate Zeff for valence electrons are shown in other colors.
+To get a sense of how effective nuclear charge varies as both

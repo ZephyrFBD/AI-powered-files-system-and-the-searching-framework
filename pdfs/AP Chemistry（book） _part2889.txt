@@ -1,0 +1,16 @@
+box in Section 15.7, the equilibrium constant for this 
+reaction increases from about 10-15 at 300 K to about 0.05 at 2400 K (approximate tempera-
+ture in the cylinder of an engine during combustion). Thus, the reaction is more favorable at 
+higher temperatures. In fact, some NO is formed in any high-temperature combustion pro-
+cess. As a result, electrical power plants are also major contributors to nitrogen oxide pollution.
+Before the installation of pollution-control devices on automobiles, typical emis-
+sion levels of NOx were 4 g>mi. (The x is either 1 or 2 because both NO and NO2 are 
+formed, although NO predominates.) Starting in 2004, the auto emission standards for 
+NOx called for a phased-in reduction to 0.07 g>mi by 2009, which was achieved.
+In air, nitric oxide is rapidly oxidized to nitrogen dioxide:
+ 
+2 NO1g2 + O21g2 ∆ 2 NO21g2 ∆H = -113.1 kJ 
+[18.12]
+The equilibrium constant for this reaction decreases from about 1012 at 300 K to about 
+10-5 at 2400 K.
+The photodissociat

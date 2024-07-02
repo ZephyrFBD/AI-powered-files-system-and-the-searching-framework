@@ -1,0 +1,15 @@
+copes are reflecting telescopes which use a curved mirror as the objec-
+tive, Fig. 25–22. A mirror has only one surface to be ground and can be supported
+along its entire surface† (a large lens, supported at its edges, would sag under its
+own weight). Often, the eyepiece lens or mirror (see Fig. 25–22) is removed so
+that the real image formed by the objective mirror can be recorded directly on
+film or on an electronic sensor (CCD or CMOS, Section 25–1).
+40*
+SECTION 25–4
+725
+†Another advantage of mirrors is that they exhibit no chromatic aberration because the light doesn’t
+pass through them; and they can be ground into a parabolic shape to correct for spherical aberration
+(Section 25–6). The reflecting telescope was first proposed by Newton.
+FIGURE 25–22 A concave mirror can be used as the objective of an astronomical telescope. Arrangement (a) is called the
+Newtonian focus, and (b) the Cassegrainian focus. Other arrangements are also possible. (c) The 200-inch (mirror diameter)
+Hale t

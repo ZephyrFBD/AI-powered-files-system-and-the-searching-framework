@@ -1,0 +1,22 @@
+atics in One Dimension
+Ball thrown upward at edge of cliff. Suppose that the 
+person of Examples 2–12, 2–13, and 2–15 throws the ball upward at 
+while standing on the edge of a cliff, so that the ball can fall to the 
+base of the cliff 50.0 m below, as shown in Fig. 2–25a. (a) How long does it 
+take the ball to reach the base of the cliff? (b) What is the total distance trav-
+eled by the ball? Ignore air resistance (likely to be significant, so our result is an
+approximation).
+APPROACH We again use Eq. 2–11b, with y as
+upward, but this time we set
+the bottom of the cliff, which is 50.0 m below the initial position
+hence the minus sign.
+SOLUTION (a) We use Eq. 2–11b with
+and
+To solve any quadratic equation of the form 
+where a, b, and c are constants (a is not acceleration here), we use the quadratic
+formula (see Appendix A–4):
+We rewrite our y equation just above in standard form,
+Using the quadratic formula, we find as solutions  
+and
+The first solution,
+is the answer we are seeking: 

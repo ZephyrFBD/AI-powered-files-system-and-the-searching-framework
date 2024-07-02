@@ -1,0 +1,12 @@
+normalities as long as the inversion does not introduce any
+duplications or deletions.
+Translocations occur when a segment of a chromosome is moved to another chromosome. For example, Down
+syndrome ordinarily occurs when an individual inherits an extra chromosome 21 (as a result of nondisjunction).
+However, Down syndrome can also occur after a translocation of a chromosome segment from chromosome 21 to
+chromosome 14. An individual inheriting a chromosome with a 14/21 translocation has a normal number of
+chromosomes but inherits three copies of a segment from chromosome 21 (two chromosomes 21 and a chromosome
+14 with a segment of chromosome 21). The result has the same phenotypic effect as trisomy 21.
+Environmental Influences on Phenotypic Expression
+If you have ever compared “identical” twins, you know that, though very similar, they are not identical. Although
+their DNA may be identical, the expression of their genes is influenced by environmental factors. Before identical
+twins are b
