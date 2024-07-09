@@ -1,9 +1,0 @@
-ntropy is a measure of the disorder of the system. (Think of your bedroom as a
-system. On Sunday evening, you throw dirty clothes in the laundry basket, put books back on the shelves, and return dirty
-dishes to the kitchen. Cleaning your room requires an input of energy. What gradually happens as the week progresses? You
-guessed it: entropy.) All biological systems obey the laws of chemistry and physics, including the laws of thermodynamics
-that describe the properties and processes of energy transfer in systems. The first law states that the total amount of energy
-in the universe is constant; energy cannot be created or destroyed, but it can be transformed and transferred. The second
-law states that every energy transfer involves some loss of energy in an unusable form, such as heat energy, resulting in a
-more disordered system (e.g., your bedroom over the course of a week). Thus, no energy transfer is completely efficient.
-(We will explore how free energy is stored, transferred, and 

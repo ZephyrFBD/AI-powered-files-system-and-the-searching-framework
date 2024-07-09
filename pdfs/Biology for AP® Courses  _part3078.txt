@@ -1,9 +1,0 @@
-ype of postsynaptic glutamate receptor, called NMDA (N-
-Methyl-D-aspartate) receptors, shown in Figure 26.18. These receptors are normally blocked by magnesium ions; however,
-when the postsynaptic neuron is depolarized by multiple presynaptic inputs in quick succession (either from one neuron
-or multiple neurons), the magnesium ions are forced out allowing Ca2+ ions to pass into the postsynaptic cell. Next,
-Ca2+ ions entering the cell initiate a signaling cascade that causes a different type of glutamate receptor, called AMPA
-(α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptors, to be inserted into the postsynaptic membrane, since
-activated AMPA receptors allow positive ions to enter the cell. So, the next time glutamate is released from the presynaptic
-membrane, it will have a larger excitatory effect (EPSP) on the postsynaptic cell because the binding of glutamate to these
-AMPA receptors will allow more positive ions into the cell. The insertion of additional AMPA recepto

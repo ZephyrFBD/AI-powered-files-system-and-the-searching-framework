@@ -1,9 +1,0 @@
- Proteins for Active Transport
-An important membrane adaption for active transport is the presence of specific carrier proteins or pumps to facilitate
-movement: there are three types of these proteins or transporters (Figure 5.17). A uniporter carries one specific ion or
-molecule. A symporter carries two different ions or molecules, both in the same direction. An antiporter also carries two
-different ions or molecules, but in different directions. All of these transporters can also transport small, uncharged organic
-molecules like glucose. These three types of carrier proteins are also found in facilitated diffusion, but they do not require
-ATP to work in that process. Some examples of pumps for active transport are Na+-K+ ATPase, which carries sodium and
-potassium ions, and H+-K+ ATPase, which carries hydrogen and potassium ions. Both of these are antiporter carrier proteins.
-Two other carrier proteins are Ca2+ ATPase and H+ ATPase, which carry only calcium and only hydrogen ions, res

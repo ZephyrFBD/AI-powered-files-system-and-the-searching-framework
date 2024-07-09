@@ -1,9 +1,0 @@
-form of the protein, and PrPsc, the infectious form. Once introduced into the body, the PrPsc contained within the
-prion binds to PrPc and converts it to PrPsc. This leads to an exponential increase of the PrPsc protein, which aggregates.
-PrPsc is folded abnormally, and the resulting conformation (shape) is directly responsible for the lesions seen in the brains
-of infected cattle. Thus, although not without some detractors among scientists, the prion seems likely to be an entirely new
-form of infectious agent, the first one found whose transmission is not reliant upon genes made of DNA or RNA.
-Figure 21.18 (a) Endogenous normal prion protein (PrPc) is converted into the disease-causing form (PrPsc) when it
-encounters this variant form of the protein. PrPsc may arise spontaneously in brain tissue, especially if a mutant form
-of the protein is present, or it may occur via the spread of misfolded prions consumed in food into brain tissue. (b) This
-prion-infected brain tissue, visualized 

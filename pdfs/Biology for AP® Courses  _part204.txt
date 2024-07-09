@@ -1,9 +1,0 @@
- are examples of two areas of the body where near-neutral pH is maintained.
-Non-neutral pH readings result from dissolving acids or bases in water. Using the negative logarithm to generate positive
-integers, high concentrations of hydrogen ions yield a low pH number, whereas low levels of hydrogen ions result in a high
-pH. An acid is a substance that increases the concentration of hydrogen ions (H+) in a solution, usually by having one of
-its hydrogen atoms dissociate. A base provides either hydroxide ions (OH–) or other negatively charged ions that combine
-with hydrogen ions, reducing their concentration in the solution and thereby raising the pH. In cases where the base releases
-hydroxide ions, these ions bind to free hydrogen ions, generating new water molecules.
-The stronger the acid, the more readily it donates H+. For example, hydrochloric acid (HCl) completely dissociates into
-hydrogen and chloride ions and is highly acidic, whereas the acids in tomato juice or vinegar do not co

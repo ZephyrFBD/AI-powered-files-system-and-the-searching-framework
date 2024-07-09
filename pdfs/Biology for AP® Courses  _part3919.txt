@@ -1,9 +1,0 @@
-sponse. T cells are a key component in the cell-mediated response—the specific immune response that utilizes T cells to
-neutralize cells that have been infected with viruses and certain bacteria. There are three types of T cells: cytotoxic, helper,
-and suppressor T cells. Cytotoxic T cells destroy virus-infected cells in the cell-mediated immune response, and helper T
-cells play a part in activating both the antibody and the cell-mediated immune responses. Suppressor T cells deactivate T
-cells and B cells when needed, and thus prevent the immune response from becoming too intense.
-An antigen is a foreign or “non-self” macromolecule that reacts with cells of the immune system. Not all antigens will
-provoke a response. For instance, individuals produce innumerable “self” antigens and are constantly exposed to harmless
-foreign antigens, such as food proteins, pollen, or dust components. The suppression of immune responses to harmless
-macromolecules is highly regulated and typically preven

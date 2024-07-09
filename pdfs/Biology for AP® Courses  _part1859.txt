@@ -1,9 +1,0 @@
-s, such as fragmented genomic DNA and RNA extracts, can be probed for the presence of certain
-sequences. Short DNA fragments called probes are designed and labeled with radioactive or fluorescent dyes to aid
-detection. Gel electrophoresis separates the nucleic acid fragments according to their size. The fragments in the gel are then
-transferred onto a nylon membrane in a procedure called blotting (Figure 17.5). The nucleic acid fragments that are bound
-to the surface of the membrane can then be probed with specific radioactively or fluorescently labeled probe sequences.
-When DNA is transferred to a nylon membrane, the technique is called Southern blotting, and when RNA is transferred to
-a nylon membrane, it is called northern blotting. Southern blots are used to detect the presence of certain DNA sequences
-in a given genome, and northern blots are used to detect gene expression.
-Figure 17.5 Southern blotting is used to find a particular sequence in a sample of DNA. DNA fragments are se

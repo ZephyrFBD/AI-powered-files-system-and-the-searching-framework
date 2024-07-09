@@ -1,9 +1,0 @@
-numbers of antiviral drugs available to treat infections, some
-specific for a particular virus and others that can affect multiple viruses.
-Antivirals have been developed to treat herpes and influenza. For herpes, drugs such as acyclovir can reduce the number
-and duration of episodes of active viral disease, during which patients develop viral lesions in their skin cells. As the virus
-remains latent in nervous tissue of the body for life, this drug is not curative but can make the symptoms of the disease more
-manageable. For influenza, drugs like oseltamivir (Figure 21.16) can reduce the duration of “flu” symptoms by 1 or 2 days,
-but the drug does not prevent symptoms entirely. Oseltamivir works by inhibiting an enzyme (viral neuraminidase) that
-allows new virions to leave their infected cells. Thus, Oseltamivir inhibits the spread of virus from infected to uninfected
-cells. Other antiviral drugs, such as Ribavirin, have been used to treat a variety of viral infections, although its me

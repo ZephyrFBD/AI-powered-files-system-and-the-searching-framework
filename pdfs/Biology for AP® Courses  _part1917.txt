@@ -1,9 +1,0 @@
-NAs, and the mRNAs encode proteins. Although mRNA analysis is a step in the
-right direction, not all mRNAs are translated into proteins. The study of the function of proteomes is called proteomics.
-Proteomics complements genomics and is useful when scientists want to test their hypotheses that were based on genes.
-Even though all cells of a multicellular organism have the same set of genes, the set of proteins produced in different tissues
-is different and dependent on gene expression. Thus, the genome is constant, but the proteome varies and is dynamic within
-an organism. In addition, RNAs can be alternately spliced (cut and pasted to create novel combinations and novel proteins)
-and many proteins are modified after translation by processes such as proteolytic cleavage, phosphorylation, glycosylation,
-and ubiquitination. There are also protein-protein interactions, which complicate the study of proteomes. Although the
-genome provides a blueprint, the final architecture depends on seve

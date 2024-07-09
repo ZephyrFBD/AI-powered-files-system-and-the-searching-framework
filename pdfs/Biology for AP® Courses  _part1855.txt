@@ -1,9 +1,0 @@
-ric field. Gel electrophoresis is a technique used to separate molecules on the basis of size, using this charge.
-The nucleic acids can be separated as whole chromosomes or fragments. The nucleic acids are loaded into a slot near the
-negative electrode of a semisolid, porous gel matrix and pulled toward the positive electrode at the opposite end of the gel.
-Smaller molecules move through the pores in the gel faster than larger molecules; this difference in the rate of migration
-separates the fragments on the basis of size. There are molecular weight standard samples that can be run alongside the
-molecules to provide a size comparison. Nucleic acids in a gel matrix can be observed using various fluorescent or colored
-dyes. Distinct nucleic acid fragments appear as bands at specific distances from the top of the gel (the negative electrode
-end) on the basis of their size (Figure 17.3). A mixture of genomic DNA fragments of varying sizes appear as a long smear,
-whereas uncut genomic DNA i

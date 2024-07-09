@@ -1,9 +1,0 @@
-d potassium ions (K+) inside and outside the cell dominates the
-resting membrane potential (Figure 26.10). When the membrane is at rest, K+ ions accumulate inside the cell due to a net
-movement with the concentration gradient. The negative resting membrane potential is created and maintained by increasing
-the concentration of cations outside the cell (in the extracellular fluid) relative to inside the cell (in the cytoplasm). The
-negative charge within the cell is created by the cell membrane being more permeable to potassium ion movement than
-sodium ion movement. In neurons, potassium ions are maintained at high concentrations within the cell while sodium ions
-are maintained at high concentrations outside of the cell. The cell possesses potassium and sodium leakage channels that
-allow the two cations to diffuse down their concentration gradient. However, the neurons have far more potassium leakage
-channels than sodium leakage channels. Therefore, potassium diffuses out of the cell at 

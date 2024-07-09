@@ -1,9 +1,0 @@
-t, have intracellular organelles that add to their complexity. In eukaryotic cells, the DNA is
-contained inside the cell’s nucleus and there it is transcribed into RNA. The newly synthesized RNA is then transported
-out of the nucleus into the cytoplasm, where ribosomes translate the RNA into protein. The processes of transcription and
-translation are physically separated by the nuclear membrane; transcription occurs only within the nucleus, and translation
-occurs only outside the nucleus in the cytoplasm. The regulation of gene expression can occur at all stages of the process
-(Figure 16.2). Regulation may occur when the DNA is uncoiled and loosened from nucleosomes to bind transcription
-factors ( epigenetic level), when the RNA is transcribed (transcriptional level), when the RNA is processed and exported
-to the cytoplasm after it is transcribed ( post-transcriptional level), when the RNA is translated into protein (translational
-level), or after the protein has been made ( post-trans

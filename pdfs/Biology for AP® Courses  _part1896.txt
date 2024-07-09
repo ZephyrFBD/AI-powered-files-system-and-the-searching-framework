@@ -1,9 +1,0 @@
- sequencing technique used in all modern day sequencing projects is the chain termination method (also known
-as the dideoxy method), which was developed by Fred Sanger in the 1970s. The chain termination method involves DNA
-replication of a single-stranded template with the use of a primer and a regular deoxynucleotide (dNTP), which is a
-monomer, or a single unit, of DNA. The primer and dNTP are mixed with a small proportion of fluorescently labeled
-dideoxynucleotides (ddNTPs). The ddNTPs are monomers that are missing a hydroxyl group (–OH) at the site at which
-another nucleotide usually attaches to form a chain (Figure 17.12). Each ddNTP is labeled with a different color of
-fluorophore. Every time a ddNTP is incorporated in the growing complementary strand, it terminates the process of DNA
-replication, which results in multiple short strands of replicated DNA that are each terminated at a different point during
-replication. When the reaction mixture is processed by gel electrophoresis

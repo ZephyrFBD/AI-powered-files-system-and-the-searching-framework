@@ -1,9 +1,0 @@
- .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 645
-16.4 Eukaryotic Transcriptional Gene Regulation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 649
-16.5 Eukaryotic Post-transcriptional Gene Regulation  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 653
-16.6 Eukaryotic Translational and Post-translational Gene Regulation  .  .  .  .  .  .  .  .  .  .  .  . 657
-16.7 Cancer and Gene Regulation  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 659
-Chapter 17: Biotechnology and Genomics .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 677
-17.1 Biotechnology  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 678
-17.2 Mapping Genomes .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 693
-17.3 Whole-Genome Sequencing  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  

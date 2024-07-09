@@ -1,5 +1,5 @@
 import os
-import fitz  # PyMuPDF
+import fitz
 from PIL import Image, UnidentifiedImageError
 import pytesseract
 from pymupdf import FileDataError

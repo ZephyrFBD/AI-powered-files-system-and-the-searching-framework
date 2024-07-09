@@ -1,9 +1,0 @@
-nt, penetration, replication, assembly, and release. Viruses are host-specific
-because they only can attach to and infect cells of certain organisms. Cells that a virus may use to replicate are called
-permissive. The virus attacks the host cell by first attaching to a specific receptor site on the membrane of the host cell.
-Next, the viral nucleic acid, either DNA or RNA, enters the host cell, either naked, leaving the protein capsid behind, or with
-the capsid. If the capsid enters the cell, an additional uncoating step is needed. Viral nucleic acid then becomes available for
-replication and transcription. The last stage of viral replication is the release of the new virions produced by the host that are
-able to infect other cells. Depending on the type of virus, the replication cycle facilitates the transfer of genetic information
-through the lytic and lysogenic cycles.
-Bacteriophages, such as T4 are viruses that infect bacterial cells, can enter both the lytic and lysogenic cycles. A

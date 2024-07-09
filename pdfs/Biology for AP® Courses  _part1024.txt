@@ -1,9 +1,0 @@
-rs normally have large extracellular
-and intracellular domains, but the membrane-spanning region consists of a single alpha-helical region of the peptide strand.
-When a ligand binds to the extracellular domain, a signal is transferred through the membrane, activating the enzyme.
-Activation of the enzyme sets off a chain of events within the cell that eventually leads to a response. One example of this
-type of enzyme-linked receptor is the tyrosine kinase receptor (Figure 9.8). A kinase is an enzyme that transfers phosphate
-groups from ATP to another protein. The tyrosine kinase receptor transfers phosphate groups to tyrosine molecules (tyrosine
-residues). First, signaling molecules bind to the extracellular domain of two nearby tyrosine kinase receptors. The two
-neighboring receptors then bond together, or dimerize. Phosphates are then added to tyrosine residues on the intracellular
-domain of the receptors (phosphorylation). The phosphorylated residues can then transmit the signal to t

@@ -1,9 +1,0 @@
-the type of experimental results that researchers were obtaining at this time, consider a heterozygous
-individual that inherited dominant maternal alleles for two genes on the same chromosome (such as AB) and two recessive
-paternal alleles for those same genes (such as ab). If the genes are linked, one would expect this individual to produce
-gametes that are either AB or ab with a 1:1 ratio. If the genes are unlinked, the individual should produce AB, Ab, aB, and ab
-gametes with equal frequencies, according to the Mendelian concept of independent assortment. Because they correspond
-to new allele combinations, the genotypes Ab and aB are nonparental types that result from homologous recombination
-during meiosis. Parental types are progeny that exhibit the same allelic combination as their parents. Morgan and his
-colleagues, however, found that when such heterozygous individuals were test crossed to a homozygous recessive parent
-(AaBb × aabb), both parental and nonparental cases occurred

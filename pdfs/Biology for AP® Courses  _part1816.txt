@@ -1,9 +1,0 @@
-on: repressive control, activator control, and inducible control. Repressive control, typified by
-the trp operon, uses proteins bound to the operator sequence to physically prevent the binding of RNA polymerase and the
-activation of transcription. Therefore, if tryptophan is not needed, the repressor is bound to the operator and transcription
-remains off. Activator control, typified by the action of CAP, increases the binding ability of RNA polymerase to the
-promoter when CAP is bound. In this case, low levels of glucose result in the binding of cAMP to CAP. CAP then binds
-the promoter, which allows RNA polymerase to bind to the promoter better. In the last example—the lac operon—two
-conditions must be met to initiate transcription. Glucose must not be present, and lactose must be available for the lac
-operon to be transcribed. If glucose is absent, CAP binds to the operator. If lactose is present, the repressor protein does
-not bind to its operator. Only when both conditions are met w

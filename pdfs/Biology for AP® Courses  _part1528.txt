@@ -1,9 +1,0 @@
-E. coli, which has a single origin of replication on its one chromosome
-(as do most prokaryotes), it is approximately 245 base pairs long and is rich in AT sequences. The origin of replication is
-recognized by certain proteins that bind to this site. An enzyme called helicase unwinds the DNA by breaking the hydrogen
-bonds between the nitrogenous base pairs. ATP hydrolysis is required for this process. As the DNA opens up, Y-shaped
-structures called replication forks are formed. Two replication forks are formed at the origin of replication and these get
-extended bi- directionally as replication proceeds. Single-strand binding proteins coat the single strands of DNA near the
-replication fork to prevent the single-stranded DNA from winding back into a double helix. DNA polymerase is able to add
-nucleotides only in the 5' to 3' direction (a new DNA strand can be only extended in this direction). It also requires a free
-3'-OH group to which it can add nucleotides by forming a phosphodiester

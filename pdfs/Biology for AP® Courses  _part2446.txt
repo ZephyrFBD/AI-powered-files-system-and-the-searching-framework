@@ -1,9 +1,0 @@
- worked primarily with the Mycobacterium tuberculosis bacterium that
-causes tuberculosis and developed postulates to identify disease-causing organisms that continue to be widely used in the
-medical community. Koch’s postulates include that an organism can be identified as the cause of disease when it is present in
-all infected samples and absent in all healthy samples, and it is able to reproduce the infection after being cultured multiple
-times. Today, cultures remain a primary diagnostic tool in medicine and other areas of molecular biology.
-Figure 22.7 In these agar plates, the growth medium is supplemented with red blood cells. Blood agar becomes
-transparent in the presence of hemolytic Streptococcus, which destroys red blood cells and is used to diagnose
-Streptococcus infections. The plate on the left is inoculated with non-hemolytic Staphylococcus (large white colonies),
-and the plate on the right is inoculated with hemolytic Streptococcus (tiny clear colonies). If you look clos

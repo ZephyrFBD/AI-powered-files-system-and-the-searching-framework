@@ -1,9 +1,0 @@
- selection works by selecting for
-phenotypes—and the alleles that determine them—that confer beneficial traits or behaviors. Deleterious qualities are
-selected against. Genetic drift stems from the chance occurrence that some individuals have more offspring than others and,
-thus, will pass on more of their genes to the next generation. Small and isolated populations are more susceptible to genetic
-drift. Natural events, such as wildfires or hurricanes, can magnify genetic drift when a large portion of the population is
-killed. Because a fire does not distinguish between the genotypes of various organisms, no particular genotype survives
-the fire better than another. Therefore, the genetic structure of the surviving population may be very different from the
-genetic structure of the original population. This is called the bottleneck effect. Another scenario in which populations
-might experience a strong influence of genetic drift occurs when some portion of the population leaves to start

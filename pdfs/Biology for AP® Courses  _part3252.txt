@@ -1,9 +1,0 @@
-to the bipolar cells, and then to ganglion cells. A large degree of processing
-of visual information occurs in the retina itself, before visual information is sent to the brain.
-Photoreceptors in the retina continuously undergo tonic activity. That is, they are always slightly active even when not
-stimulated by light. In neurons that exhibit tonic activity, the absence of stimuli maintains a firing rate at a baseline; while
-some stimuli increase firing rate from the baseline, and other stimuli decrease firing rate. In the absence of light, the
-bipolar neurons that connect rods and cones to ganglion cells are continuously and actively inhibited by the rods and cones.
-Exposure of the retina to light hyperpolarizes the rods and cones and removes their inhibition of bipolar cells. The now
-active bipolar cells in turn stimulate the ganglion cells, which send action potentials along their axons (which leave the
-eye as the optic nerve). Thus, the visual system relies on change in retinal acti

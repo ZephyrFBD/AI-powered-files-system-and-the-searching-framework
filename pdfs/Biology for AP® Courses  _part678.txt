@@ -1,9 +1,0 @@
- an energy-releasing, negative ∆G reaction actually require some energy to proceed? The reason lies in the
-steps that take place during a chemical reaction. During chemical reactions, certain chemical bonds are broken and new
-ones are formed. For example, when a glucose molecule is broken down, bonds between the carbon atoms of the molecule
-are broken. Since these are energy-storing bonds, they release energy when broken. However, to get them into a state that
-allows the bonds to break, the molecule must be somewhat contorted. A small energy input is required to achieve this
-contorted state. This contorted state is called the transition state, and it is a high-energy, unstable state. For this reason,
-reactant molecules don’t last long in their transition state, but very quickly proceed to the next steps of the chemical reaction.
-Free energy diagrams illustrate the energy profiles for a given reaction. Whether the reaction is exergonic or endergonic
-determines whether the products in th

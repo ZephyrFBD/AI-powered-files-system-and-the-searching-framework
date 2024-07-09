@@ -1,9 +1,0 @@
- In cloning, the plasmid molecules can be used to provide a "folder" in which
-to insert a desired DNA fragment. Plasmids are usually introduced into a bacterial host for proliferation. In the bacterial
-context, the fragment of DNA from the human genome (or the genome of another organism that is being studied) is referred
-to as foreign DNA, or a transgene, to differentiate it from the DNA of the bacterium, which is called the host DNA.
-Plasmids occur naturally in bacterial populations (such as Escherichia coli) and have genes that can contribute favorable
-traits to the organism, such as antibiotic resistance (the ability to be unaffected by antibiotics). Plasmids have been
-repurposed and engineered as vectors for molecular cloning and the large-scale production of important reagents, such as
-insulin and human growth hormone. An important feature of plasmid vectors is the ease with which a foreign DNA fragment
-can be introduced via the multiple cloning site (MCS). The MCS is a short DNA 

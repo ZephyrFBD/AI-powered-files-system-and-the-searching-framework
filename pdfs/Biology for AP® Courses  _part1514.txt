@@ -1,9 +1,0 @@
- from its normal relaxed state. Some proteins are known to be involved in
-the supercoiling; other proteins and enzymes such as DNA gyrase help in maintaining the supercoiled structure.
-Eukaryotes, whose chromosomes each consist of a linear DNA molecule, employ a different type of packing strategy to fit
-their DNA inside the nucleus (Figure 14.11). At the most basic level, DNA is wrapped around proteins known as histones
-to form structures called nucleosomes. The histones are evolutionarily conserved proteins that are rich in basic amino acids
-and form an octamer. The DNA (which is negatively charged because of the phosphate groups) is wrapped tightly around
-the histone core. This nucleosome is linked to the next one with the help of a linker DNA. This is also known as the “beads
-on a string” structure. This is further compacted into a 30 nm fiber, which is the diameter of the structure. At the metaphase
-stage, the chromosomes are at their most compact, are approximately 700 nm in width

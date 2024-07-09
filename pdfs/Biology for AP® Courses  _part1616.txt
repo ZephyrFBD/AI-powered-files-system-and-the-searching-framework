@@ -1,9 +1,0 @@
-transcribed into mRNA and translated into proteins which orchestrate nearly every
-function of the cell. The genetic code refers to the DNA alphabet (A, T, C, G), the RNA alphabet (A, U, C, G), and the
-polypeptide alphabet (20 amino acids). But how do genes located on a chromosome ultimately produce a polypeptide that
-can result in a physical phenotype such as hair or eye color—or a disease like cystic fibrosis or hemophilia?
-The Central Dogma describes the normal flow of genetic information from DNA to mRNA to protein: DNA in genes specify
-sequences of mRNA which, in turn, specify amino acid sequences in proteins. The process requires two steps, transcription
-and translation. During transcription, genes are used to make messenger RNA (mRNA). In turn, the mRNA is used to
-direct the synthesis of proteins during the process of translation. Translation also requires two other types of RNA: transfer
-RNA (tRNA) and ribosomal RNA (rRNA). The genetic code is a triplet code, with each RNA codon

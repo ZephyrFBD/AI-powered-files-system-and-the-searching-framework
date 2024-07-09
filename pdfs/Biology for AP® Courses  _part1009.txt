@@ -1,9 +1,0 @@
-g cells. Removing the signals will reestablish the concentration gradient for the signal, allowing
-them to quickly diffuse through the intracellular space if released again.
-One example of paracrine signaling is the transfer of signals across synapses between nerve cells. A nerve cell consists of
-a cell body, several short, branched extensions called dendrites that receive stimuli, and a long extension called an axon,
-which transmits signals to other nerve cells or muscle cells. The junction between nerve cells where signal transmission
-occurs is called a synapse. A synaptic signal is a chemical signal that travels between nerve cells. Signals within the nerve
-cells are propagated by fast-moving electrical impulses. When these impulses reach the end of the axon, the signal continues
-on to a dendrite of the next cell by the release of chemical ligands called neurotransmitters by the presynaptic cell (the
-cell emitting the signal). The neurotransmitters are transported across the very sm

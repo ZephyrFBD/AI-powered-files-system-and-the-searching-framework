@@ -1,9 +1,0 @@
-s. There are characteristic modifications
-to histone proteins and DNA that are associated with silenced genes. In cancer cells, the DNA in the promoter region
-of silenced genes is methylated on cytosine DNA residues in CpG islands. Histone proteins that surround that region
-lack the acetylation modification that is present when the genes are expressed in normal cells. This combination of DNA
-methylation and histone deacetylation (epigenetic modifications that lead to gene silencing) is commonly found in cancer.
-When these modifications occur, the gene present in that chromosomal region is silenced. Increasingly, scientists understand
-how epigenetic changes are altered in cancer. Because these changes are temporary and can be reversed—for example, by
-preventing the action of the histone deacetylase protein that removes acetyl groups, or by DNA methyl transferase enzymes
-that add methyl groups to cytosines in DNA—it is possible to design new drugs and new therapies to take advantage of t

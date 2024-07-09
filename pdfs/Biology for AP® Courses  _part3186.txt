@@ -1,9 +1,0 @@
-undamental function of a sensory system is the translation of a sensory signal to an electrical signal in the
-nervous system. This takes place at the sensory receptor, and the change in electrical potential that is produced is called the
-receptor potential. How is sensory input, such as pressure on the skin, changed to a receptor potential? In this example,
-a type of receptor called a mechanoreceptor (as shown in Figure 27.2) possesses specialized membranes that respond to
-pressure. Disturbance of these dendrites by compressing them or bending them opens gated ion channels in the plasma
-membrane of the sensory neuron, changing its electrical potential. Recall that in the nervous system, a positive change of
-a neuron’s electrical potential (also called the membrane potential), depolarizes the neuron. Receptor potentials are graded
-potentials: the magnitude of these graded (receptor) potentials varies with the strength of the stimulus. If the magnitude
-of depolarization is sufficient (th

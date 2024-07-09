@@ -1,9 +1,0 @@
-ve amount that can be exhaled beyond what is normal. Conversely, the inspiratory reserve volume (IRV) is the
-additional amount of air that can be inhaled after a normal inhalation. The residual volume (RV) is the amount of air that is
-left after expiratory reserve volume is exhaled. The lungs are never completely empty: There is always some air left in the
-lungs after a maximal exhalation. If this residual volume did not exist and the lungs emptied completely, the lung tissues
-would stick together and the energy necessary to re-inflate the lung could be too great to overcome. Therefore, there is
-always some air remaining in the lungs. Residual volume is also important for preventing large fluctuations in respiratory
-gases (O2 and CO2). The residual volume is the only lung volume that cannot be measured directly because it is impossible
-to completely empty the lung of air. This volume can only be calculated rather than measured.
-Capacities are measurements of two or more volumes. The vi

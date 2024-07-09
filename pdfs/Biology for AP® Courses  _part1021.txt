@@ -1,9 +1,0 @@
-ut each receptor has its own specific extracellular domain and G-protein-binding site.
-Cell signaling using G-protein-linked receptors occurs as a cyclic series of events. Before the ligand binds, the inactive G-
-protein can bind to a newly revealed site on the receptor specific for its binding. Once the G-protein binds to the receptor,
-the resultant shape change activates the G-protein, which releases GDP and picks up GTP. The subunits of the G-protein
-then split into the α subunit and the βγ subunit. One or both of these G-protein fragments may be able to activate other
-proteins as a result. After awhile, the GTP on the active α subunit of the G-protein is hydrolyzed to GDP and the βγ subunit
-is deactivated. The subunits reassociate to form the inactive G-protein and the cycle begins anew.
-Figure 9.6 Heterotrimeric G proteins have three subunits: α, β, and γ. When a signaling molecule binds to a G-protein-
-coupled receptor in the plasma membrane, a GDP molecule associated with the α 

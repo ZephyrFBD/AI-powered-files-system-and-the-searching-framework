@@ -1,9 +1,0 @@
-s: selecting for beneficial alleles and thus increasing their
-frequency in the population, while selecting against deleterious alleles and thereby decreasing their frequency—a process
-known as adaptive evolution. Natural selection does not act on individual alleles, however, but on entire organisms. An
-individual may carry a very beneficial genotype with a resulting phenotype that, for example, increases the ability to
-reproduce (fecundity), but if that same individual also carries an allele that results in a fatal childhood disease, that fecundity
-phenotype will not be passed on to the next generation because the individual will not live to reach reproductive age. Natural
-selection acts at the level of the individual; it selects for individuals with greater contributions to the gene pool of the next
-generation, known as an organism’s evolutionary (Darwinian) fitness.
-Fitness is often quantifiable and is measured by scientists in the field. However, it is not the absolute fitness of an

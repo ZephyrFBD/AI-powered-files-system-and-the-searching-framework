@@ -1,9 +1,0 @@
-em modeling are routinely used in research and ecosystem
-management: a conceptual model, an analytical model, and a simulation model. A conceptual model is an ecosystem model
-that consists of flow charts to show interactions of different compartments of the living and nonliving components of the
-ecosystem. A conceptual model describes ecosystem structure and dynamics and shows how environmental disturbances
-affect the ecosystem; however, its ability to predict the effects of these disturbances is limited. Analytical and simulation
-models, in contrast, are mathematical methods of describing ecosystems that are indeed capable of predicting the effects
-of potential environmental changes without direct experimentation, although with some limitations as to accuracy. An
-analytical model is an ecosystem model that is created using simple mathematical formulas to predict the effects of
-environmental disturbances on ecosystem structure and dynamics. A simulation model is an ecosystem model that

@@ -1,9 +1,0 @@
-ranscriptional control of a gene can also result in cancer. Recently, several groups of researchers have
-shown that specific cancers have altered expression of miRNAs. Because miRNAs bind to the 3' UTR of RNA molecules to
-degrade them, overexpression of these miRNAs could be detrimental to normal cellular activity. Too many miRNAs could
-dramatically decrease the RNA population leading to a decrease in protein expression. Several studies have demonstrated a
-change in the miRNA population in specific cancer types. It appears that the subset of miRNAs expressed in breast cancer
-cells is quite different from the subset expressed in lung cancer cells or even from normal breast cells. This suggests that
-alterations in miRNA activity can contribute to the growth of breast cancer cells. These types of studies also suggest that if
-some miRNAs are specifically expressed only in cancer cells, they could be potential drug targets. It would, therefore, be
-conceivable that new drugs that turn off mi

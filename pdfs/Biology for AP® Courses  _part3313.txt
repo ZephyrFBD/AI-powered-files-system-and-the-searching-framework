@@ -1,9 +1,0 @@
-ifferent cell types, they only affect cells that possess
-the necessary receptors. Receptors for a specific hormone may be found on many different cells or may be limited to a
-small number of specialized cells. For example, thyroid hormones act on many different tissue types, stimulating metabolic
-activity throughout the body. Cells can have many receptors for the same hormone but often also possess receptors for
-different types of hormones. The number of receptors that respond to a hormone determines the cell’s sensitivity to that
-hormone, and the resulting cellular response. Additionally, the number of receptors that respond to a hormone can change
-over time, resulting in increased or decreased cell sensitivity. In up-regulation, the number of receptors increases in
-response to rising hormone levels, making the cell more sensitive to the hormone and allowing for more cellular activity.
-When the number of receptors decreases in response to rising hormone levels, called down-regulation,

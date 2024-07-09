@@ -1,9 +1,0 @@
-al to plant survival. Although temperature and light intensity influence plant growth, they are not reliable
-indicators of season because they may vary from one year to the next. Day length is a better indicator of the time of year.
-As stated above, unfiltered sunlight is rich in red light but deficient in far-red light. Therefore, at dawn, all the phytochrome
-molecules in a leaf quickly convert to the active Pfr form, and remain in that form until sunset. In the dark, the Pfr form
-takes hours to slowly revert back to the Pr form. If the night is long (as in winter), all of the Pfr form reverts. If the night
-is short (as in summer), a considerable amount of Pfr may remain at sunrise. By sensing the Pr/Pfr ratio at dawn, a plant
-can determine the length of the day/night cycle. In addition, leaves retain that information for several days, allowing a
-comparison between the length of the previous night and the preceding several nights. Shorter nights indicate springtime
-to the plant; when 

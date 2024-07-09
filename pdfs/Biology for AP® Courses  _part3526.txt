@@ -1,9 +1,0 @@
-een actin and myosin determine the amount of tension that a muscle fiber can
-produce. Cross-bridges can only form where thick and thin filaments overlap, allowing myosin to bind to actin. If more
-cross-bridges are formed, more myosin will pull on actin, and more tension will be produced.
-The ideal length of a sarcomere during production of maximal tension occurs when thick and thin filaments overlap to
-the greatest degree. If a sarcomere at rest is stretched past an ideal resting length, thick and thin filaments do not overlap
-to the greatest degree, and fewer cross-bridges can form. This results in fewer myosin heads pulling on actin, and less
-tension is produced. As a sarcomere is shortened, the zone of overlap is reduced as the thin filaments reach the H zone,
-which is composed of myosin tails. Because it is myosin heads that form cross-bridges, actin will not bind to myosin in
-this zone, reducing the tension produced by this myofiber. If the sarcomere is shortened even more, thin f

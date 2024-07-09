@@ -1,9 +1,0 @@
-ll of the Bohr model of the atom. It is called the 1s orbital because it is spherical around the nucleus.
-The 1s orbital is the closest orbital to the nucleus, and it is always filled first, before any other orbital can be filled.
-Hydrogen has one electron; therefore, it has only one spot within the 1s orbital occupied. This is designated as 1s1, where
-the superscripted 1 refers to the one electron within the 1s orbital. Helium has two electrons; therefore, it can completely
-fill the 1s orbital with its two electrons. This is designated as 1s2, referring to the two electrons of helium in the 1s orbital.
-On the periodic table Figure 2.5, hydrogen and helium are the only two elements in the first row (period); this is because
-they only have electrons in their first shell, the 1s orbital. Hydrogen and helium are the only two elements that have the 1s
-and no other electron orbitals in the electrically neutral state.
-The second electron shell may contain eight electrons. This shell contains

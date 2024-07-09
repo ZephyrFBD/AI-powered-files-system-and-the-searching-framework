@@ -1,9 +1,0 @@
-to stabilize cellular concentrations of sodium and potassium. In order for the pump
-to turn one cycle (exporting three Na+ ions and importing two K+ ions), one molecule of ATP must be hydrolyzed. When
-ATP is hydrolyzed, its gamma phosphate doesn’t simply float away, but is actually transferred onto the pump protein. This
-process of a phosphate group binding to a molecule is called phosphorylation. As with most cases of ATP hydrolysis, a
-phosphate from ATP is transferred onto another molecule. In a phosphorylated state, the Na+/K+ pump has more free energy
-and is triggered to undergo a conformational change. This change allows it to release Na+ to the outside of the cell. It
-then binds extracellular K+, which, through another conformational change, causes the phosphate to detach from the pump.
-This release of phosphate triggers the K+ to be released to the inside of the cell. Essentially, the energy released from the
-hydrolysis of ATP is coupled with the energy required to power the pum

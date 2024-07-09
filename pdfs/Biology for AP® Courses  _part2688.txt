@@ -1,9 +1,0 @@
- allows plants to grow towards, or even away from, light.
-The sensing of light in the environment is important to plants; it can be crucial for competition and survival. The response
-of plants to light is mediated by different photoreceptors, which are comprised of a protein covalently bonded to a light-
-absorbing pigment called a chromophore. Together, the two are called a chromoprotein.
-The red/far-red and violet-blue regions of the visible light spectrum trigger structural development in plants. Sensory
-photoreceptors absorb light in these particular regions of the visible light spectrum because of the quality of light available
-in the daylight spectrum. In terrestrial habitats, light absorption by chlorophylls peaks in the blue and red regions of the
-spectrum. As light filters through the canopy and the blue and red wavelengths are absorbed, the spectrum shifts to the far-
-red end, shifting the plant community to those plants better adapted to respond to far-red light. Blue-light r
