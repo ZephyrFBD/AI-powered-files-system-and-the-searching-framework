@@ -1,0 +1,12 @@
+ p-value, find the critical value in the chi-square table. The p-value is
+defined as the probability that the observed data would be produced by random chance alone. For biology,
+the typical p-value used is 0.05. Using the df of 1 calculated above and a p-value of 0.05, the critical value is
+3.84 according to the chi-square table that follows.
+Chi-Square Table
+4. Compare your calculated chi-square value to the critical value. The calculated chi-square value from the first
+step (1) is less than the critical value (3.84).
+5. Based on the comparison, decide whether to reject the null hypothesis or whether you fail to reject the null
+hypothesis. If the calculated chi-square value is less than or equal to the critical value, fail to reject the null
+hypothesis. If the calculated chi-square value is greater than the critical value, reject the null hypothesis.
+In this example, since the calculated chi-square value is less than the critical value, you would fail to reject the
+null hypothesis th

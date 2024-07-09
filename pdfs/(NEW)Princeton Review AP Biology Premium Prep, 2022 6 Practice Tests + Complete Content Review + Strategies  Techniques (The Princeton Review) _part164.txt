@@ -1,0 +1,12 @@
+ds and regions of the peptide chain are
+often located on the exterior of the protein. Hydrophobic amino acids and regions are usually found on the interior
+of proteins. Sometimes, two cysteine amino acids can react with each other to form a covalent disulfide bond that
+stabilizes the tertiary structure. Tertiary structure often minimizes the free energy of the molecule and locks it into a
+stable 3D shape.
+Lastly, several different polypeptide chains sometimes interact with each other to form a quaternary structure. The
+different polypeptide chains that come together are often called subunits of the final whole protein.
+A classic example of a protein with quaternary structure is hemoglobin. Hemoglobin is a molecule in the blood that
+helps distribute oxygen to the tissues in the body.
+It is formed when four separate polypeptide chains interact with each other. Each of the four polypeptide chains
+create a subunit of the final hemoglobin protein.
+Only proteins that have folded correctly in

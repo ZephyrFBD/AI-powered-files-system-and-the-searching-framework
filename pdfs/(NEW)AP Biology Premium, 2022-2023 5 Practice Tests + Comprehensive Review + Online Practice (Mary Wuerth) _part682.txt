@@ -1,0 +1,11 @@
+ Without
+limiting factors, organisms will exhibit exponential growth. Density-dependent limits will cause populations to
+grow in a logistic manner. The resources available determine an environment’s carrying capacity.
+56. (C) In repressible operons, the repressor protein needs to bind to a corepressor to be capable of binding to the
+operator. The corepressor is often the product produced by the operon. In the trp operon, the amino acid
+tryptophan serves as the corepressor. When excess amounts of tryptophan are available, tryptophan binds to the
+repressor, which then binds to the operator. This prevents transcription of the operon by RNA polymerase and
+prevents the production of more tryptophan. Choice (A) is incorrect because while it does show tryptophan
+bound to the repressor, the repressor is not bound to the operator. In choice (B), the repressor is bound to the
+operator but without its corepressor, so choice (B) is incorrect. Choice (D) is incorrect because it shows
+tryptophan bou

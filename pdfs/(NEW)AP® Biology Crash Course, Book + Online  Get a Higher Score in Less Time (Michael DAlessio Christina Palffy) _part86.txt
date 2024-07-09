@@ -1,0 +1,19 @@
+ruit flies, gray (g+) body color is dominant to black body color (g). Normal wings
+(w+) are dominant to dumpy wings (w).
+Cross a double heterozygote to a double recessive (g+g w+w x ggww).
+Expected phenotypes of 1,000 offspring would be:
+250 wild type (gray normal)/parental phenotype
+250 black dumpy/parental phenotype
+250 gray dumpy/recombinant phenotype
+250 black normal/recombinant phenotype
+Observed phenotypes of 1,000 offspring were:
+450 wild type (gray normal) /parental phenotype
+450 black dumpy/parental phenotype
+50 gray dumpy/recombinant phenotype
+50 black normal/recombinant phenotype
+The high number of observed parental phenotypes indicated that the genes for body color and
+wings were linked to each other. Linked genes are on the same chromosome and are very close to
+each other. Linked genes are inherited together and recombination between the genes is very low.
+Calculation of Recombination Frequency or the measure of genetic linkage between 2 genes (also
+called map units).
+Usin

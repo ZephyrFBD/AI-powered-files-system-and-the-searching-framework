@@ -1,0 +1,15 @@
+lications, it is important to transform as many cells 
+as possible. For example, in some forms of gene therapy, cells are collected from the 
+patient, transformed in the laboratory, and then put back into the patient. The more cells 
+that are transformed to produce the needed protein, the more likely the therapy will 
+work. 
+Calculating transformation efficiency gives you an indication of how effective you 
+were in getting plasmids carrying new information into host bacterial cells. In this 
+example, transformation efficiency is a number that represents the total number of 
+bacterial cells that express the gene for ampicillin resistance divided by the amount of 
+DNA plasmid used in the experiment. The transformation efficiency is calculated using 
+the following formula. 
+Transformation efficiency = Total number of colonies growing on the agar plate 
+Amount of DNA spread on the agar plate (in μg) 
+What two pieces of information will you need to calculate the efficiency of your  
+transfo

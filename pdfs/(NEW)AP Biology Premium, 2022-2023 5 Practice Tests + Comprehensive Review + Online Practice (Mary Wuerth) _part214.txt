@@ -1,0 +1,14 @@
+ per glucose
+molecule, both the oxidation of pyruvate and the Krebs cycle occur twice per glucose molecule.
+Before moving on to oxidative phosphorylation, review Table 9.5 for a recap of what has been generated for each
+glucose molecule that entered cellular respiration.
+Table 9.5 Total Products of Glycolysis, Oxidation of Pyruvate, and the Krebs Cycle for Each Glucose
+Molecule that Entered Cellular Respiration
+When reviewing Table 9.5, notice that all six carbons in the glucose molecule that entered cellular respiration
+have been released as carbon dioxide. Four molecules of ATP have been produced by substrate-level
+phosphorylation (two in glycolysis and two in the Krebs cycle). A total of 12 high-energy electron carriers (10
+NADH and two FADH2) have been produced and will enter the next stage of cellular respiration: oxidative
+phosphorylation.
+Oxidative Phosphorylation
+Oxidative phosphorylation involves the electron transport chain (ETC) and chemiosmosis, both of which occur
+on the i

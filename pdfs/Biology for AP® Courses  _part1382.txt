@@ -1,0 +1,11 @@
+Recessive lethal alleles are only lethal in homozygotes, but
+dominant lethal alleles are fatal in heterozygotes as well.
+12.3 Laws of Inheritance
+Mendel postulated that genes (characteristics) are inherited as pairs of alleles (traits) that behave in a dominant and
+recessive pattern. Alleles segregate into gametes such that each gamete is equally likely to receive either one of the two
+alleles present in a diploid individual. In addition, genes are assorted into gametes independently of one another. That is,
+alleles are generally not more likely to segregate into a gamete with a particular allele of another gene. A dihybrid cross
+demonstrates independent assortment when the genes in question are on different chromosomes or distant from each other
+on the same chromosome. For crosses involving more than two genes, use the forked line or probability methods to predict
+offspring genotypes and phenotypes rather than a Punnett square.
+Although chromosomes sort independently into gametes duri

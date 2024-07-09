@@ -1,0 +1,19 @@
+al (3D) structures, or folding, of
+proteins have been shown to contain more information
+about evolutionary relationships than the sequences of
+DNA nucleotides that encode the proteins. Amino acid
+sequences of rabbit skeletal muscle actin (375 amino
+acids) and bovine ATPase (386 amino acids) have only 39
+locations in common. However, the 3D structure of these
+proteins are nearly identical (Flaherty et al., Proc. Natl.
+Acad. Sci. USA, 1991). As information about the 3D
+folding of proteins and the number of sequenced whole
+genomes has increased, folding has been shown to be an
+evolutionarily conserved property.
+A. Analyze these data to refine the following model: The
+evolutionary history of life on Earth can be inferred from
+variations over time of the nucleotide sequence of a gene.
+By applying a classification scheme based on protein
+folding, Nasir and Caetano-Anollés (Sci. Adv. 2015) have
+determined the number of folding families that viruses
+share with the three domains. Approximately 

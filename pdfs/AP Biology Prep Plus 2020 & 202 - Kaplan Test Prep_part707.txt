@@ -1,0 +1,26 @@
+lele frequencies, your model
+should track changes in population size, the number of generations,
+selection (fitness), mutation, migration, and genetic driȇ.
+Rapid Review
+IF YOU TAKE AWAY ONLY 5 THINGS FROM THIS
+CHAPTER:
+Evolution is shaped by a number of mechanisms, including
+selective pressures, sources of variation, and random eﬀects,
+such as genetic driȇ.
+1.
+Biological species concept: a species is a reproductively
+isolated population able to interbreed and produce fertile
+oﬀspring.
+2.
+In allopatric speciation, geographically separated populations
+develop into diﬀerent species. Sympatric speciation occurs
+when populations in the same environment adapt to fill
+diﬀerent niches. Parapatric speciation occurs with limited
+interbreeding between two groups.
+3.
+Evidence for evolution comes from comparative anatomy
+(homologous and analogous structures), biogeography,
+embryology, the fossil record, biological classification, and
+molecular biology (relatives share DNA).
+4.
+Hardy-Weinberg equil

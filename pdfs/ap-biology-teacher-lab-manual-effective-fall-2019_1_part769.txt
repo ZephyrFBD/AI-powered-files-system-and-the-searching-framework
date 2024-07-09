@@ -1,0 +1,14 @@
+hange the shape of the binding site. 
+The optimum reaction conditions are different for each enzyme. The correct 
+environmental conditions, proper substrates, and, often, particular cofactors associated 
+with an enzyme are needed. In some instances, the optimum conditions can be deduced 
+fairly accurately based on the following:
+Bullet The organism from which the enzyme is derived 
+Bullet The part of the organism in which the enzyme functions
+Bullet The environmental conditions in which that organism lives
+For example, this investigation mentions lactase, the enzyme that catabolizes the 
+disaccharide sugar lactose into the two monosaccharides, glucose and galactose. In 
+humans, lactase is found mostly in the small intestine, where the pH is around 7. It 
+would be reasonable to hypothesize that human lactase is optimally active at pH 7 and 
+at 37°C. Free-living decomposer fungi in soil also produce lactase. However, soil pH 
+usually is between 5 and 6.5. As could be predicted, the purif

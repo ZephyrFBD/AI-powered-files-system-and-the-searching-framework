@@ -1,0 +1,15 @@
+ range) and graphs are
+used to summarize data and show patterns and conclusions:
+Normal (parametric) measurement data are summarized by using mean and standard deviation or standard
+error.
+Parametric data are summarized by using median, mode, and range.
+Histograms can be used to see if a dataset has a standard deviation or not.
+Count data is summarized in a bar graph or a pie graph.
+Time course experiments look at how something changes over time; summarize these using a line graph.
+Experiments that compare groups are summarized in a bar graph (if the dataset has a standard deviation) or a
+box-and-whisker plot (if it does not).
+Scatterplots summarize association experiments, and regression lines can be used to determine if the
+relationship is linear.
+Probability can be calculated with the sum rule or the product rule.
+Hypothesis testing is used to determine if two groups are significantly different from each other. They start with
+a null hypothesis, which is rejected or accepted, depend

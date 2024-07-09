@@ -1,0 +1,30 @@
+ession
+of genes that produce two transcription factors (NtcA and
+HetR) that promote the expression of genes responsible for
+heterocyst development. HetR also causes production of a
+signal, PatS, that prevents adjacent cells from developing
+as heterocysts. Based on your understanding of the ways in
+which signal transmission mediates cell function, which of
+the following predictions is most consistent with the
+information given above?
+Chapter 16 | Gene Regulation
+675
+a.
+In an environment with low fixed nitrogen,
+treating the Anabaena cells with a calcium-
+binding compound should prevent heterocyst
+differentiation.
+b.
+A strain that overexpresses the patS gene should
+develop many more heterocysts in a low
+nitrogen environment.
+c.
+In an environment with abundant fixed nitrogen,
+free calcium levels should be high in all cells,
+preventing heterocysts from developing.
+d.
+In environments with abundant fixed nitrogen,
+loss of the hetR gene should induce heterocyst
+development.
+59.
+Which of the f

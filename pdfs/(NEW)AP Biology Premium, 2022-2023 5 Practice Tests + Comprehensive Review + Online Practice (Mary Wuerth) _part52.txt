@@ -1,0 +1,18 @@
+d
+expected data.
+6. A student wanted to see if isopods preferred banana or watermelon as a food source. Twenty isopods were
+placed in the center of a choice chamber with two compartments. Banana was placed in one compartment, and
+watermelon was placed in the second compartment. After 15 minutes, the number of isopods in each
+compartment was counted. Data are shown in the table.
+Type of Food in Compartment
+Number of Isopods in Compartment After 15 Minutes
+Banana
+6
+Watermelon
+14
+The null hypothesis was that the isopods would have no food preference and would be found in equal numbers
+in both compartments. Calculate the chi-square value (using a p-value of 0.05), and determine if there was a
+statistically significant difference between the observed and expected data in this experiment.
+(A) The chi-square value is 0.80. There is a statistically significant difference between the observed and
+expected data.
+(B) The chi-square value is 0.80. There is NOT a statistically significant differenc

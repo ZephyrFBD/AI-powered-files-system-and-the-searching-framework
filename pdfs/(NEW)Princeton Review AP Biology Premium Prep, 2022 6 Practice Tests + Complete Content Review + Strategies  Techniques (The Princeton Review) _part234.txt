@@ -1,0 +1,13 @@
+ chain until they reach the final electron acceptor NADP+ to make NADPH.
+Photosystem I and photosystem II were numbered in order of their discovery,
+not the order they are used in photosynthesis.
+The light reactions of photosynthesis occur in the thylakoid membranes.
+Here is a summary of the most important points from the first part of photosynthesis:
+P680 in photosystem II captures light and passes excited electrons down an electron transport chain to produce
+ATP.
+P700 in photosystem I captures light and passes excited electrons down an electron transport chain to produce
+NADPH.
+A molecule of water is split by sunlight, releasing electrons, hydrogen, and free O2.
+The light-dependent reactions occur in the grana of chloroplasts, where the thylakoids are found. Remember:
+the light-absorbing pigments and enzymes for the light-dependent reactions are found within the thylakoids.
+Most plants follow this electron flow, which is called linear, or noncyclic. However, some plants (such as C4 p

@@ -1,0 +1,16 @@
+inues to go up over time. This
+suggests that protein X stimulates transcription of the operon through a
+positive feedback loop, potentially through its ability to bind the X operon
+promoter. In this question, the researcher is using E. coli cells that make a
+mutant version of protein X that can no longer bind the X operon
+promoter, indicating an inability to induce transcription. When wild-type
+protein X, which can bind the X operon promoter, is added to the mutant
+E. coli, an initial increase in transcription of the mutant protein X would be
+expected, eliminating (B) and (C). However, the amount of mutant protein
+X would eventually level oﬀ because the mutant protein made by the
+mutant E. coli cells would not be able to sustain a positive feedback loop,
+which makes (A) incorrect and matches (D).
+23. A
+When protein X is added into the system in Experiment 1, protein X levels
+continue to rise aȇerward, suggesting protein X induces transcription of
+the X operon in a positive feedback loo

@@ -1,0 +1,9 @@
+ division because it acts when there is damaged DNA in cells that are undergoing the preparatory
+processes during G1. If damaged DNA is detected, p53 halts the cell cycle and recruits enzymes to repair the DNA. If the
+DNA cannot be repaired, p53 can trigger apoptosis, or cell death, to prevent the duplication of damaged chromosomes.
+As p53 levels rise, the production of p21 is triggered. p21 enforces the halt in the cycle dictated by p53 by binding to
+and inhibiting the activity of the Cdk/cyclin complexes. As a cell is exposed to more stress, higher levels of p53 and p21
+accumulate, making it less likely that the cell will move into the S phase.
+Rb exerts its regulatory influence on other positive regulator proteins. Chiefly, Rb monitors cell size. In the active,
+dephosphorylated state, Rb binds to proteins called transcription factors, most commonly, E2F (Figure 10.14). Transcription
+factors “turn on” specific genes, allowing the production of proteins encoded by that gene. When Rb i

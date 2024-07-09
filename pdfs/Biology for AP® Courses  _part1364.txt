@@ -1,0 +1,14 @@
+t
+To better appreciate the amount of labor and ingenuity that went into Mendel’s experiments, proceed through one of
+Mendel’s dihybrid crosses.
+Question: What will be the offspring of a dihybrid cross?
+Background: Consider that pea plants mature in one growing season, and you have access to a large garden in
+which you can cultivate thousands of pea plants. There are several true-breeding plants with the following pairs of
+500
+Chapter 12 | Mendel's Experiments and Heredity
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+traits: tall plants with inflated pods, and dwarf plants with constricted pods. Before the plants have matured, you
+remove the pollen-producing organs from the tall/inflated plants in your crosses to prevent self-fertilization. Upon plant
+maturation, the plants are manually crossed by transferring pollen from the dwarf/constricted plants to the stigmata of
+the tall/inflated plants.
+Hypothesis: Both trait pairs will sort independently accor

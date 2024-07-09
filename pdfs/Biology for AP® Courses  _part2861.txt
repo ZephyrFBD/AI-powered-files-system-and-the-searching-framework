@@ -1,0 +1,16 @@
+along a track: watch a short video lesson
+(http://openstaxcollege.org/l/feedback_loops) on positive and negative feedback loops.
+Voltage-gated sodium channels occur in the cell membranes of nerve cells. They open in response to sodium entering
+the cell, which in turn, allows more sodium to enter the cell. Is this a positive or negative feedback loop and why?
+a.
+This is a positive feedback loop as voltage-gated sodium channels open in response to sodium influx and
+then close when enough sodium has entered through the channels.
+b.
+This is a negative feedback loop as voltage-gated sodium channels open in response to sodium influx and
+then close when enough sodium has entered through the channels.
+c.
+This is a positive feedback loop as voltage-gated sodium channels open in response to sodium influx, which
+allows more sodium to go in through the channels.
+d.
+This is a negative feedback loop as voltage-gated sodium channels open in response to sodium influx, which
+allows more sodium to go in

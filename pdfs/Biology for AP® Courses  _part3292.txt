@@ -1,0 +1,27 @@
+g S2M, and three that transport Na+ in
+response to S2M.
+Chapter 27 | Sensory Systems
+1205
+B. Construct an explanation of the mechanism for
+transmission of information when the odorant molecule is
+detected at receptor A using this signaling cascade. In your
+explanation include the role of positive feedback and the
+mechanism of the generation of an action potential.
+Signal integration allows the brain to discriminate this
+particular odorant mixture from others using the time
+dependence in each signal. The sensitivity of an olfactory
+system increases as the number of unique receptors
+increases.
+C. Complete the following table to construct a
+mathematical representation of sensitivity to the
+chemical landscape assuming that there are 100 unique
+odorant molecules. Use the following mathematic routine
+to determine the number of odors caused by groups of
+molecules selected from the 100 odorant molecules:
+Number, r, of odor-
+producing molecules in the
+odorant
+Number of
+different odorants
+3
+100•

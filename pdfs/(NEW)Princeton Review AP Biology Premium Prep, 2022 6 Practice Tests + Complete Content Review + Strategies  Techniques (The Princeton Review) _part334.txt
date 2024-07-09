@@ -1,0 +1,13 @@
+original molecule. Because DNA replicates in a way that conserves half of the original molecule in each of the two
+new ones, it is said to be semiconservative.
+An interesting problem is that a few bases at the very end of a DNA molecule cannot be replicated because DNA
+polymerase needs space to bind template DNA. This means that every time replication occurs, the chromosome
+loses a few base pairs at the end. The genome has compensated for this over time, by putting bits of unimportant (or
+at least less important) DNA at the ends of a molecule. These ends are called telomeres. They get shorter and
+shorter over time.
+Many enzymes and proteins are involved in DNA replication. The ones you’ll need to know for the AP Biology
+Exam are DNA helicase, DNA polymerase, DNA ligase, topoisomerase, and RNA primase:
+Helicase unwinds our double helix into two strands.
+DNA Polymerase adds nucleotides to an existing strand.
+Ligase brings together the Okazaki fragments.
+Topoisomerase cuts and rejoins the

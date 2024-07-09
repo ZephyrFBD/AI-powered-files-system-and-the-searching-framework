@@ -1,0 +1,17 @@
+t overlap with the 95%
+confidence intervals for the ladybug section or the chemical pesticide section. Thus, the section that
+received no treatment is least like the others and is most likely to have a statistically significant difference in
+aphid density from the ladybug- and chemical pesticide–treated sections.
+(c) If 50 measurements were taken in each section, the 95% confidence intervals would be smaller.
+(d) Calculate 95% confidence intervals by adding or subtracting two times the standard error of the mean from
+the mean of the data set. The standard error of the mean is inversely proportional to the sample size (if the
+sample size increases, the standard error of the mean decreases). So if the sample size, n, increased to 50 for
+all three sections, the standard errors of the mean for each section would likely decrease, and the 95%
+confidence intervals would be smaller.
+UNIT 1
+Chemistry of Life
+3 Water
+Learning Objectives
+In this chapter, you will learn:
+➜
+Water and the Importance

@@ -1,0 +1,13 @@
+de a 
+measurement at 2.5 hours, we would have found 50 mg of A left. In a similar way, we 
+can find out from our graph at what time a given amount of A, say 65 mg, would be left. 
+We have merely to find the line that represents 65 mg on the vertical scale and follow 
+it across until it cuts the line graph at point Y. Then we see 1.75 hours on the “Time” 
+scale opposite Y. This tells us that had we wished to stop the reaction with 65 mg of A 
+remaining, we would have had to do so after 1.75 hours. 
+You will notice that part of the graph has been drawn with a broken line. In making 
+a line graph we are properly allowed to connect only the points representing our actual 
+measurements. It is possible that measurements made after 3 hours will give points 
+that will fall on the broken-line extension of the graph, but this is not necessarily so. In 
+fact, the reaction may begin to slow up perceptibly, so that much less A is used up in 
+the fourth hour than in the third hour. Not having made a

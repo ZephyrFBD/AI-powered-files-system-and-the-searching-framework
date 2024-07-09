@@ -1,0 +1,12 @@
+cells (or cytotoxic T cells) directly
+or secrete cytokines to inform more and various target cells about the pathogenic threat. In contrast, CD8+ cells engage
+antigen-embedded MHC I molecules on APCs and are stimulated to become cytotoxic T lymphocytes (CTLs), which
+directly kill infected cells by apoptosis and emit cytokines to amplify the immune response. The two populations of T cells
+have different mechanisms of immune protection, but both bind MHC molecules via their antigen receptors called T cell
+receptors (TCRs). The CD4 or CD8 surface molecules differentiate whether the TCR will engage an MHC II or an MHC I
+molecule. Because they assist in binding specificity, the CD4 and CD8 molecules are described as coreceptors.
+Chapter 33 | The Immune System
+1449
+Figure 33.11 Naïve CD4+ T cells engage MHC II molecules on antigen-presenting cells (APCs) and become
+activated. Clones of the activated helper T cell, in turn, activate B cells and CD8+ T cells, which become cytotoxic
+T cells. Cy

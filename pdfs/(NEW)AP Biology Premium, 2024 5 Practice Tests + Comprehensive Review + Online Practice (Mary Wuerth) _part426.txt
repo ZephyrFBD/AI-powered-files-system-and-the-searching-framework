@@ -1,0 +1,11 @@
+ be used to insert a stop
+codon into a gene. Gel electrophoresis separates DNA fragments by size, so choice (B) is incorrect. Choice (C)
+is incorrect because PCR amplifies the number of copies of a specific DNA sequence. Restriction enzymes cut
+DNA at specific sequences, so choice (D) is incorrect.
+9. (D) The phosphates in the backbone of the DNA double helix have a slight negative charge and are attracted to
+the positive electrode. The nitrogen atoms in the nitrogenous bases are not charged, so choice (A) is incorrect.
+Hydrogen bonds between the base pairs do not result in a net negative charge, so choice (B) is incorrect. The
+oxygen atoms in the deoxyribose sugars are not charged, and thus choice (C) is incorrect.
+10. (B) The denaturation stage that occurs during each cycle of PCR requires high temperatures that would
+denature most enzymes, so a heat-stable DNA polymerase is required for PCR. Heat-stable DNA polymerases
+do not add DNA nucleotides at a faster rate than other DNA polym

@@ -1,0 +1,13 @@
+ composed of eukaryotic cells.
+All cells (both prokaryotic and eukaryotic) contain genetic material, ribosomes, cytosol, and a plasma
+membrane. In prokaryotes, the genetic material (DNA) is a circular chromosome located in the center of the cell in
+an area called the nucleoid region. Bacteria may also contain extra genetic material outside of the chromosome,
+which is contained in small circular pieces of DNA called plasmids. In eukaryotes, DNA is packaged into linear
+chromosomes that are contained in a membrane-bound nucleus.
+Figure 5.1 Prokaryotic Cell vs. Eukaryotic Cell
+Ribosomes function in protein synthesis and are found in both prokaryotic and eukaryotic cells. Ribosomes are
+made of proteins and ribosomal RNA (rRNA). Both prokaryotic and eukaryotic ribosomes have a large subunit and
+a small subunit, but the sizes of these subunits differ slightly, as shown in Figure 5.2.
+Figure 5.2 Prokaryotic and Eukaryotic Ribosomes
+TIP
+While it IS important to know that the subunits of prokary

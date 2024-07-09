@@ -1,0 +1,18 @@
+ point)
+Here is a possible response that would receive full credit:
+When tryptophan levels are high, E. coli does not need to synthesize
+tryptophan. Tryptophan activates the repressor, which binds to the operator
+and blocks RNA polymerase from binding to the promoter and thereby blocks
+gene expression.
+(b) Describe how the trp operon is turned on when tryptophan levels are
+low. (1 point)
+Description (1 point)
+Here is a possible response that would receive full credit:
+When tryptophan levels are low, E. coli needs to synthesize tryptophan. Thus,
+the repressor is inactive and RNA polymerase binds to the promoter, which
+promotes gene expression.
+At high tryptophan levels, tryptophan activates the repressor protein, which binds to the
+operator and blocks RNA polymerase from binding to the promoter, inhibiting gene expression
+At low tryptophan levels, the repressor protein is inactive, so RNA polymerase is able to bind to
+the promoter, promoting gene expression
+(c) Predict ONE eﬀect a mutat

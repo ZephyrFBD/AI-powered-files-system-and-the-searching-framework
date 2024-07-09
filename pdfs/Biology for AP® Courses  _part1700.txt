@@ -1,0 +1,11 @@
+o 3' direction, and the FACT complex moves and reassembles
+nucleosomes as the polymerase passes by. Whereas RNA polymerases I and III terminate transcription by protein- or RNA
+hairpin-dependent methods, RNA polymerase II transcribes for 1,000 or more nucleotides beyond the gene template and
+cleaves the excess during pre-mRNA processing.
+15.4 RNA Processing in Eukaryotes
+Eukaryotic pre-mRNAs are modified with a 5' methylguanosine cap and a poly-A tail. These structures protect the mature
+mRNA from degradation and help export it from the nucleus. Pre-mRNAs also undergo splicing, in which introns are
+removed and exons are reconnected with single-nucleotide accuracy. Only finished mRNAs that have undergone 5'
+capping, 3' polyadenylation, and intron splicing are exported from the nucleus to the cytoplasm. Pre-rRNAs and pre-
+tRNAs may be processed by intramolecular cleavage, splicing, methylation, and chemical conversion of nucleotides.
+Rarely, RNA editing is also performed to insert missin

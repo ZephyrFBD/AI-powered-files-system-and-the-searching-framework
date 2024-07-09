@@ -1,0 +1,16 @@
+inserts a eukaryotic gene directly into a bacteria’s genome. However, the protein produced by the
+bacteria from the eukaryotic gene does not have the same amino acid sequence as the protein produced from the
+gene in eukaryotic cells. Which of the following best explains this?
+(A) Prokaryotes and eukaryotes do not use the same genetic code, so the bacteria cannot decode the eukaryotic
+gene.
+(B) Eukaryotic genes contain introns, which must be removed before translation; prokaryotes cannot remove
+introns.
+(C) Prokaryotes do not have a nucleus and cannot perform transcription.
+(D) Prokaryotes do not have rough endoplasmic reticulum, so they cannot translate eukaryotic genes.
+3. Which of the following correctly represents the mRNA sequence that would be transcribed from the DNA
+sequence 3′ ACC GGT AAG TTC 5′?
+(A) 3′ TGG CCA TTC AAG 5′
+(B) 3′ UGG CCA UUC AAG 5′
+(C) 5′ TGG CCA TTC AAG 3′
+(D) 5′ UGG CCA UUC AAG 3′
+4. What is the amino acid sequence that would be translated from the following g

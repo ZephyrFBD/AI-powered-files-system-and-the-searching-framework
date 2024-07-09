@@ -1,0 +1,17 @@
+a receptor tyrosine kinase. In 30 percent of human breast cancers, HER2 is permanently
+activated, resulting in unregulated cell division. Lapatinib, a drug used to treat breast cancer, inhibits
+HER2 receptor tyrosine kinase autophosphorylation (the process by which the receptor adds
+phosphate onto itself), thus reducing tumor growth. Besides autophosphorylation, explain another
+feature of the cell signaling pathway that can be affected by Lapatinib.
+•
+In certain cancers, the GTPase activity of RAS G-protein in inhibited. This means that the RAS G-
+protein can no longer hydrolyze GTP into GDP. Explain what effect this would have on downstream
+cellular events.
+9.2 | Propagation of the Signal
+In this section, you will explore the following questions:
+•
+How does the binding of a ligand initiate signal transduction throughout a cell?
+•
+What is the role of second messengers in signal transduction?
+Connection for AP® Courses
+During signal transduction, a series of relay proteins inside the cy

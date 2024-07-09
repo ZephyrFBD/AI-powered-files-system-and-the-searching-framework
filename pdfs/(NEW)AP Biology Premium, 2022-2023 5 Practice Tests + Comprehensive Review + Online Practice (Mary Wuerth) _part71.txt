@@ -1,0 +1,11 @@
+itive to changes in pH. Buffers are crucial in maintaining relatively constant
+pH levels in living cells. Buffers can form acids or bases in response to changing pH levels in a cell. An example of
+this is the carbonic acid–bicarbonate buffering system in blood plasma. The carbon dioxide that is produced by
+cellular respiration reacts with water in blood plasma to produce carbonic acid (H2CO3). Carbonic acid can
+dissociate into bicarbonate ions (HCO3
+–) and hydrogen ions, as shown in the following equation:
+If the pH of a cell becomes too low (excess H+), the reaction will shift to the left, allowing the basic bicarbonate
+ions to neutralize the excess H+ ions, returning the pH to normal levels. When the pH of a cell becomes too high
+(excess OH–), the reaction shifts to the right, adding more H+ ions to the cell that can neutralize the excess OH–,
+which lowers the pH back to normal levels.
+Chapter 4 (“Macromolecules”) will review how changes in pH can denature proteins, changing their fu

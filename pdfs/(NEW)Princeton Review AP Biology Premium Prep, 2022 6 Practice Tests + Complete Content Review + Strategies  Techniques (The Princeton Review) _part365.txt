@@ -1,0 +1,35 @@
+ a few large fragments.
+When restriction fragments between individuals of the same species are compared, the fragments differ in length
+because of polymorphisms, which are slight differences in DNA sequences. These fragments are called restriction
+fragment length polymorphisms, or RFLPs. In DNA fingerprinting, RFLPs produced from DNA left at a crime
+scene are compared to RFLPs from the DNA of suspects.
+DNA Sequencing
+An important tool of modern scientists is the process of DNA sequencing. This allows scientists to determine the
+order of nucleotides in a DNA molecule. By knowing this, scientists could design their own DNA plasmid and use it
+to study a gene of interest.
+KEY TERMS
+nucleotide
+five-carbon sugar
+phosphate
+nitrogenous base
+deoxyribose
+adenine
+guanine
+cytosine
+thymine
+phosphodiester bonds
+double helix
+Watson, Crick, and Franklin
+base pairing
+complementary
+antiparallel
+hydrogen bonds
+gene
+genome
+chromosome
+histone
+nucleosome
+euchromatin
+heterochromatin
+DNA replication
+helicase

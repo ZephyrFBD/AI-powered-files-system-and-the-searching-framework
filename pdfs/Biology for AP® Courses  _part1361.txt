@@ -1,0 +1,13 @@
+ genes on the homologs align with each other. At this stage,
+segments of homologous chromosomes exchange linear segments of genetic material (Figure 12.18). This process is called
+recombination, or crossover, and it is a common genetic process. Because the genes are aligned during recombination, the
+gene order is not altered. Instead, the result of recombination is that maternal and paternal alleles are combined onto the
+same chromosome. Across a given chromosome, several recombination events may occur, causing extensive shuffling of
+alleles.
+Chapter 12 | Mendel's Experiments and Heredity
+499
+Figure 12.18 The process of crossover, or recombination, occurs when two homologous chromosomes align during
+meiosis and exchange a segment of genetic material. Here, the alleles for gene C were exchanged. The result is two
+recombinant and two non-recombinant chromosomes.
+When two genes are located in close proximity on the same chromosome, they are considered linked, and their alleles
+tend to be 

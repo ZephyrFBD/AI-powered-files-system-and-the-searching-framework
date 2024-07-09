@@ -1,0 +1,18 @@
+site of RNA polymerase, positioning the RNA polymerase
+to begin to transcribe RNA at the appropriate position.
+Repressor: Protein that inhibits gene transcription. In the operon of
+prokaryotes, repressors bind to the operator.
+Regulator gene: Gene that codes for a repressor. It is located some
+distance from its operon and has its own promoter.
+******ebook converter DEMO Watermarks*******
+PRIONS
+Prions are not cells nor are they viruses. They are misfolded versions of a
+protein normally found in the brain. If prions get into a normal brain, they
+cause all the normal versions of the protein to misfold in the same way.
+Prions are infectious and cause several brain diseases: scrapie in sheep,
+mad cow disease in cattle, and Creutzfeldt-Jakob disease in humans. All
+known prion diseases are fatal.
+THE HUMAN GENOME
+The human genome consists of 3 billion base pairs of DNA and includes
+about 22,000 genes. Surprisingly, only a tiny fraction (1%) of our DNA
+actually gets translated into proteins. 

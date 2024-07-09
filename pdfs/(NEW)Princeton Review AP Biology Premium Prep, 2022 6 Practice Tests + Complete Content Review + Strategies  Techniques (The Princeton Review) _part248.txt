@@ -1,0 +1,13 @@
+e” is light.
+Furthermore, the goals of the two cycles are opposite; the Krebs cycle seeks to oxidize carbohydrates to CO2, while
+the Calvin cycle seeks to reduce CO2 to carbohydrates.
+Anaerobic Respiration
+When oxygen is not available, the anaerobic version of respiration occurs. The electron transport chain stops
+working, and electron carriers have nowhere to drop their electrons. The mitochondrial production of acetyl-CoA
+and the Krebs cycle cease too.
+Glycolysis, however, can continue to run. This means that glucose can be broken down to give net two ATP. Only
+two instead of 30!
+Glycolysis also gives two pyruvates and two NADH. The pyruvate and NADH make a deal with each other, and
+pyruvate helps NADH get recycled back into NAD+ and takes its electrons. The pyruvate turns into either lactic
+acid (in muscles) or ethanol (in yeast). Since these two things are toxic at high concentrations, this process, called
+fermentation, is done only in emergencies. Aerobic respiration is a better o

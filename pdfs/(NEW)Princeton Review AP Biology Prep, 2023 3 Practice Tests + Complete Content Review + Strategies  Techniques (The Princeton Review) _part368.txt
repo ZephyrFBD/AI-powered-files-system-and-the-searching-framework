@@ -1,0 +1,11 @@
+ey move through the gel. Restriction enzymes are also used to create a
+molecular fingerprint. The patterns created after cutting with restriction enzymes are unique for each person because
+each person’s DNA is slightly different. Some people might have sequences that are cut many times, resulting in
+many tiny fragments, and others might have sequences that are cut infrequently, producing a few large fragments.
+When restriction fragments between individuals of the same species are compared, the fragments differ in length
+because of polymorphisms, which are slight differences in DNA sequences. These fragments are called restriction
+fragment length polymorphisms, or RFLPs. In DNA fingerprinting, RFLPs produced from DNA left at a crime
+scene are compared to RFLPs from the DNA of suspects.
+DNA Sequencing
+An important tool of modern scientists is the process of DNA sequencing. This allows scientists to determine the
+order of nucleotides in a DNA molecule. By knowing this, scientists could de

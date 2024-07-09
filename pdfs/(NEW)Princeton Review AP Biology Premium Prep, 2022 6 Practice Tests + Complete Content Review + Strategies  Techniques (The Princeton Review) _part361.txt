@@ -1,0 +1,12 @@
+genic virus is called
+transduction.
+Viruses that infect animals do not have to break their way out of the cell the same way that a bacteriophage does.
+Since animals cells don’t have a cell wall, viruses often just “bud” out of the membrane in a process similar to
+exocytosis. When a virus does this, it becomes enveloped by a chunk of host cell membrane that it takes with it.
+Viruses with a lipid envelope are called enveloped viruses.
+Retroviruses like HIV are RNA viruses that use an enzyme called reverse transcriptase to convert their RNA
+genomes into DNA so that they can be inserted into a host genome. RNA viruses have extremely high rates of
+mutation because they lack proofreading mechanisms when they replicate their genomes. This high rate of mutation
+will create lots of variety, which makes these viruses difficult to treat. They evolve quickly, as drug-resistant
+mutations become naturally selected. New drugs must constantly be identified to treat the resistance.
+Viruses can sometime

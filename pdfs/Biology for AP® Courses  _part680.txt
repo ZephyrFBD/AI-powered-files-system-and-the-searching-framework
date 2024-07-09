@@ -1,0 +1,10 @@
+ the motion of molecules, increasing the frequency and force with which they
+collide; it also moves atoms and bonds within the molecule slightly, helping them reach their transition state. For this reason,
+heating up a system will cause chemical reactants within that system to react more frequently. Increasing the pressure on a
+system has the same effect. Once reactants have absorbed enough heat energy from their surroundings to reach the transition
+state, the reaction will proceed.
+The activation energy of a particular reaction determines the rate at which it will proceed. The higher the activation energy,
+the slower the chemical reaction will be. The example of iron rusting illustrates an inherently slow reaction. This reaction
+occurs slowly over time because of its high EA. Additionally, the burning of many fuels, which is strongly exergonic, will
+take place at a negligible rate unless their activation energy is overcome by sufficient heat from a spark. Once they begin to
+burn, howe

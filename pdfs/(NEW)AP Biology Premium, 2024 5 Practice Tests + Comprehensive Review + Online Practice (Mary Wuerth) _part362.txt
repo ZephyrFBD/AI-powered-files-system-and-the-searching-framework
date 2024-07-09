@@ -1,0 +1,11 @@
+nsfer RNA) folds into a three-dimensional structure that acts as an adapter molecule during
+translation. One end of the tRNA will bind to a specific amino acid, while the other end of tRNA contains an
+anticodon, which will pair with the appropriate mRNA codon at the ribosome during translation.
+rRNA (ribosomal RNA) also folds into a three-dimensional structure. rRNA and proteins form ribosomes that
+perform translation. The three-dimensional rRNA acts as a ribozyme, catalyzing the reactions needed in
+translation.
+In music, transcription means the arrangement of a piece of music for different instruments. Think of transcription in biology as the
+arrangement of the “music” of genetic information in DNA for the different “instruments” of mRNA, tRNA, and rRNA.
+To start transcription, the enzyme RNA polymerase must bind to a noncoding DNA sequence called a promoter.
+The promoter sequence does not code for any amino acids and instead serves as a binding site for RNA polymerase
+upstream from t

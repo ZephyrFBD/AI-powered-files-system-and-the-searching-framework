@@ -1,0 +1,9 @@
+lypeptide. Proteins serve many functions in cells. They act as enzymes that catalyze chemical reactions,
+provide structural support, regulate the passage of substances across the cell membrane, protect against disease, and
+coordinate cell signaling pathways. Protein structure is organized at four levels: primary, secondary, tertiary, and quaternary.
+The primary structure is the unique sequence of amino acids. A change in just one amino acid can change protein structure
+and function. For example, sickle cell anemia results from just one amino acid substitution in a hemoglobin molecule
+consisting of 574 amino acids. The secondary structure consists of the local folding of the polypeptide by hydrogen
+bond formation; leading to the α helix and β pleated sheet conformations. In the tertiary structure, various interactions,
+e.g., hydrogen bonds, ionic bonds, disulfide linkages, and hydrophobic interactions between R groups, contribute to the
+folding of the polypeptide into different three-di

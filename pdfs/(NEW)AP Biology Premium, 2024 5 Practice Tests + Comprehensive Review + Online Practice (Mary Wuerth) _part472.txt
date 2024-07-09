@@ -1,0 +1,9 @@
+types that can produce the dominant phenotype, the frequency of the dominant phenotype is equal to p2 + 2pq, which would
+give you an equation with two unknowns and is not solvable. In this situation, subtract the frequency of the dominant phenotype from 1 to obtain the
+frequency of the recessive phenotype. Since only one genotype can produce the recessive phenotype, the frequency of the recessive phenotype equals
+q2, which gives you an equation with just one unknown and is solvable.
+Since 82% of the population has erect ears, 100 – 82 = 18% of the population must have drooping ears
+(the recessive phenotype). Therefore, q2 = 0.18, and q = 0.42. Subtracting q from 1 gives the value of p: p = 1
+– 0.42 = 0.58. The frequency of heterozygotes then becomes 2pq = 2(0.58)(0.42) = 0.49, or 49%.
+3. In dogs, black fur is dominant to brown fur. In a population of dogs that is in Hardy-Weinberg equilibrium,
+10% of the individuals have brown fur. What is the frequency of the allele for black fur, and

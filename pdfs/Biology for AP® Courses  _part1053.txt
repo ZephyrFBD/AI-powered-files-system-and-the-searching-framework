@@ -1,0 +1,10 @@
+external signaling that leads to apoptosis occurs in T-cell development. T-cells are immune cells that
+bind to foreign macromolecules and particles, and target them for destruction by the immune system. Normally, T-cells do
+not target “self” proteins (those of their own organism), a process that can lead to autoimmune diseases. In order to develop
+the ability to discriminate between self and non-self, immature T-cells undergo screening to determine whether they bind
+to so-called self proteins. If the T-cell receptor binds to self proteins, the cell initiates apoptosis to remove the potentially
+dangerous cell.
+Apoptosis is also essential for normal embryological development. In vertebrates, for example, early stages of development
+include the formation of web-like tissue between individual fingers and toes (Figure 9.15). During the course of normal
+development, these unneeded cells must be eliminated, enabling fully separated fingers and toes to form. A cell signaling
+mechanism triggers

@@ -1,0 +1,10 @@
+h its environment. This is true whether it is a unicellular organism or one
+of many cells forming a larger organism. In order to respond to external stimuli, cells have developed complex mechanisms
+of communication that can receive a message, transfer the information across the plasma membrane, and produce changes
+within the cell in response to the message. In multicellular organisms, cells send and receive chemical messages constantly
+to coordinate the actions of distant organs, tissues, and cells.
+While the necessity for cellular communication in larger organisms seems obvious, even single-celled organisms
+communicate with each other. Yeast cells signal each other to aid in mating. Some forms of bacteria coordinate their actions
+in order to form large complexes called biofilms (Figure 9.18) or to organize the production of toxins to remove competing
+organisms. The ability of cells to communicate through chemical signals originated in single cells and was essential for the
+evolution o

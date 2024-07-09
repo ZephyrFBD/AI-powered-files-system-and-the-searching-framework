@@ -1,0 +1,16 @@
+s p53, which is mutated in over 50 percent of all cancer types. The p53 protein itself
+functions as a transcription factor. It can bind to sites in the promoters of genes to initiate transcription. Therefore, the
+mutation of p53 in cancer will dramatically alter the transcriptional activity of its target genes.
+660
+Chapter 16 | Gene Regulation
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Watch this animation (http://openstaxcollege.org/l/p53_cancer) to learn more about the use of p53 in fighting cancer.
+Treatment of cancer is often called a “fight against biology.” Explain why the use of p53 supports this statement.
+a.
+because normal cells are often negatively affected by cancer treatments, including p53
+b.
+because cancer cells are always affected by current cancer treatments, including p53
+c.
+because normal cells are often negatively affected by cancer treatments, with the exception of p53
+d.
+because cancer cells often aren’t affected by cancer treat

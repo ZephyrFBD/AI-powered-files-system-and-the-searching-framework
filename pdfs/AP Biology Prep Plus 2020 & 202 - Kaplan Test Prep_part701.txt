@@ -1,0 +1,17 @@
+id-in and free-response questions on
+your exam. Let’s look at two ways we can analyze sets of data.
+You could use diﬀerent descriptive statistics such as mean, median,
+range, and standard deviation to describe your populations of study. Let’s
+take a look at a couple of these descriptive statistics. The equation for
+solving for standard deviation S is:
+where xi is each data point, x
+̅  is the mean of the data points, and n is
+equal to the size of the sample. The standard deviation calculates the
+diﬀerence between each of your data points and the mean value of your
+data, allowing you to see how much variability there is in the population.
+For each set of data, you will construct a histogram. A histogram is a
+graphical representation of the distribution of the data. Using your
+histograms and other statistical analyses, such as a t-test or chi-square
+test, you can determine the validity of the diﬀerences in the populations.
+The formula for a chi-square test is:
+where o is the number of ind

@@ -1,0 +1,10 @@
+ too may become pathogenic. In transduction, bacteriophages, the viruses that infect bacteria, sometimes
+also move short pieces of chromosomal DNA from one bacterium to another. Transduction results in a recombinant
+organism. Archaea are not affected by bacteriophages but instead have their own viruses that translocate genetic material
+from one individual to another. In conjugation, DNA is transferred from one prokaryote to another by means of a pilus,
+which brings the organisms into contact with one another. The DNA transferred can be in the form of a plasmid or as a
+hybrid, containing both plasmid and chromosomal DNA. These three processes of DNA exchange are shown in Figure
+22.17.
+Reproduction can be very rapid: a few minutes for some species. This short generation time coupled with mechanisms of
+genetic recombination and high rates of mutation result in the rapid evolution of prokaryotes, allowing them to respond to
+environmental changes (such as the introduction of an antibiotic) 

@@ -1,0 +1,23 @@
+represent the number of independent variables in the data. In most cases, this is
+the number of possibilities being compared minus one. In this example, DF = 4 – 1, because we are comparing four
+different family types.
+You also need a reference p-value. This is the probability of observing a deviation from the expected results due to
+chance. For most biological tests, a p-value of 0.05 is used.
+Since we are using DF = 3 and p = 0.05, the critical value is 7.82 (according to the chart above). Next, the critical
+value is compared to the χ2 value; if χ2 < CV, you accept H0. If χ2 > CV, you reject Ho. We calculated an χ2 value of
+6.24, which is smaller than 7.82. Since χ2 < CV, we accept Ho and conclude that offspring sex could, indeed, be
+segregating independently in this dataset.
+KEY TERMS
+descriptive statistics
+sample
+population
+random sampling
+quantitative data
+qualitative data
+count data
+bar graph
+pie graph
+normal, or parametric, data
+normal curve, or normal distribution
+sample size
+m

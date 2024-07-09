@@ -1,0 +1,18 @@
+w DNA sequences can be used to create phylogenetic trees.
+(c) Using the data in the table, represent the most likely phylogenetic relationships among these organisms.
+(d) Identify two other types of data that could be used to create phylogenetic trees.
+Long Free-Response
+13. In an experiment, students grow 100 Brassica rapa plants for 10 days. The mean plant height at day 10 and the
+standard error of the mean are calculated and shown in the table (as Generation 1). The 10 tallest plants are
+allowed to continue to grow, while the remaining 90 plants are eliminated from the population. When these 10
+tallest plants flower, they are cross-pollinated, seed pods form, and their seeds are harvested. These seeds are
+grown to day 10, and the heights of the resulting plants are recorded. The mean plant height at day 10 and the
+standard error of the mean are calculated and shown in the table (as Generation 2).
+Generation
+Mean Plant Height on Day 10 (cm)
+Standard Error of the Mean
+1
+15.8
+1.1
+2
+20.

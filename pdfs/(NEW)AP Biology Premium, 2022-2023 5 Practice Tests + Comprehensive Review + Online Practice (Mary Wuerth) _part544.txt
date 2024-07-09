@@ -1,0 +1,14 @@
+thout insecticide is 13.40 and the lower limit of the 95% confidence interval for crop A in the
+presence of insecticide is 12.90. Therefore, it cannot be concluded that there is a significant difference
+between those two groups for crop A.
+(d) Many insects consume plant material and are therefore primary consumers. The use of insecticides would
+decrease the number of primary consumers and could thereby increase the crop yield.
+Long Free-Response
+13. (a) Carbon dioxide is a reactant that is consumed during photosynthesis, so measuring the rate of carbon
+dioxide consumption could be a good way to compare the rate of photosynthesis between these two
+organisms.
+(b)
+(c) There is likely a statistically significant difference at a temperature of 40°C because the 95% confidence
+intervals for the C3 and C4 plants do not overlap at that temperature, but they do overlap at 20°C and 30°C.
+(d) The plant would likely consume less carbon dioxide and would perform less photosynthesis in a 39°C
+environ

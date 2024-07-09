@@ -1,0 +1,11 @@
+rtain
+cellular proteins.
+Calcium ion is a widely used second messenger. The free concentration of calcium ions (Ca2+) within a cell is very low
+because ion pumps in the plasma membrane continuously use adenosine-5'-triphosphate (ATP) to remove it. For signaling
+purposes, Ca2+ is stored in cytoplasmic vesicles, such as the endoplasmic reticulum, or accessed from outside the cell. When
+signaling occurs, ligand-gated calcium ion channels allow the higher levels of Ca2+ that are present outside the cell (or in
+intracellular storage compartments) to flow into the cytoplasm, which raises the concentration of cytoplasmic Ca2+. The
+response to the increase in Ca2+ varies, depending on the cell type involved. For example, in the β-cells of the pancreas,
+Ca2+ signaling leads to the release of insulin, and in muscle cells, an increase in Ca2+ leads to muscle contractions.
+Another second messenger utilized in many different cell types is cyclic AMP (cAMP). Cyclic AMP is synthesized by the
+enzyme a

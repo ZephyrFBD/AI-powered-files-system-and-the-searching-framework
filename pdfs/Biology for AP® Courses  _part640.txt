@@ -1,0 +1,50 @@
+ maintain
+homeostasis, all organisms, including the simple bacterium
+E. coli, must sense the temperature of the environment and
+adapt to changes.
+Samples of E. coli were grown at four different
+temperatures, and then researchers determined the fatty
+acid composition of their plasma membranes. The data are
+shown in the following table.
+Growth Temperature (°C)
+Fatty acid
+10
+20
+30
+40
+Myristic
+17%
+14%
+14%
+16%
+Palmitic
+18%
+25%
+29%
+48%
+Palmitoleic
+26%
+24%
+23%
+9%
+Oleic
+38%
+34%
+30%
+12%
+Ratio (U/S)
+Table 5.3
+Fatty acid compositions of the plasma membrane of E. coli
+were incubated at the temperatures shown. Myristic and
+palmitic acid are saturated, while palmitoleic and oleic
+acids each have one C-C double bond.
+A.
+Analyze the data to calculate the ratio of the
+fraction of unsaturated (U) to the fraction of
+saturated (S) fatty acids in the plasma
+membrane, and complete the table.
+B.
+Graph the ratio U/S versus growth temperature.
+C.
+Explain the response of E. coli to the
+temperature of the enviro

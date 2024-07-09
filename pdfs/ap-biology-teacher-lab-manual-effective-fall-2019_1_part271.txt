@@ -1,0 +1,37 @@
+1
+2
+ 2. GAPDH (glyceraldehyde 3-phosphate dehydrogenase) is an enzyme that catalyzes 
+the sixth step in glycolysis, an important reaction that produces molecules used 
+in cellular respiration. The following data table shows the percentage similarity of 
+this gene and the protein it expresses in humans versus other species. For example, 
+according to the table, the GAPDH gene in chimpanzees is 99.6% identical to the 
+gene found in humans, while the protein is identical.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2. Percentage Similarity Between the GAPDH Gene and Protein in Humans and  
+Other Species 
+Species 
+Gene Percentage 
+Similarity 
+Protein Percentage 
+Similarity 
+Chimpanzee (Pan troglodytes) 
+99.6% 
+100% 
+Dog (Canis lupus familiaris) 
+91.3% 
+95.2% 
+Fruit fly (Drosophila melanogaster) 
+72.4% 
+76.7% 
+Roundworm (Caenorhabditis elegans) 
+68.2% 
+74.3% 
+a. Why is the percentage similarity in the gene always lower than the percentage 
+similarity in the protein for each of the species? (Hint: Recall how a ge

@@ -1,0 +1,10 @@
+its nucleic acids inside the cell. The phage DNA makes multiple copies of itself using the host machinery, and
+eventually the host cell bursts, releasing a large number of bacteriophages. Hershey and Chase labeled one batch of phage
+with radioactive sulfur, 35S, to label the protein coat. Another batch of phage were labeled with radioactive phosphorus,
+32P. Because phosphorous is found in DNA, but not protein, the DNA and not the protein would be tagged with radioactive
+phosphorus.
+Each batch of phage was allowed to infect the cells separately. After infection, the phage bacterial suspension was put in a
+blender, which caused the phage coat to be detached from the host cell. The phage and bacterial suspension was spun down
+in a centrifuge. The heavier bacterial cells settled down and formed a pellet, whereas the lighter phage particles stayed in
+the supernatant. In the tube that contained phage labeled with 35S, the supernatant contained the radioactively labeled phage,
+whereas no radi

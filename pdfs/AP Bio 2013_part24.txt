@@ -1,0 +1,69 @@
+rea of each side
+A = Â
+ 
+r = radius  
+ = length 
+h = height 
+w = width 
+s = length of one 
+side of a cube 
+A = surface area 
+V = volume 
+ = sum of all 
+Gibbs Free Energy 
+ΔG = ΔH – TΔS 
+ΔG = change in Gibbs free energy 
+ΔS = change in entropy 
+ΔH = change in enthalpy  
+T = absolute temperature (in Kelvin) 
+Water Potential ( Y ) 
+ 
+P
+S
+Y
+Y
+Y
+=
++
+ 
+ 
+P
+Y  = pressure potential 
+ 
+S
+Y  = solute potential 
+ 
+The water potential will be equal to 
+the solute potential of a solution in an 
+open container because the pressure 
+potential of the solution in an open 
+container is zero. 
+ 
+The Solute Potential of a Solution 
+S
+iCRT
+Y = -
+ 
+ 
+i = ionization constant (this is 1.0 for 
+sucrose because sucrose does not 
+ionize in water) 
+ 
+C = molar concentration 
+ 
+R = pressure constant (R = 0.0831 liter 
+bars/mole K) 
+ 
+T = temperature in Kelvin (ºC + 273) 
+ 
+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+ 
+GO ON TO THE NEXT PAGE. 
+-5- 
+BIOLOGY 
+Section I 
+53 Multiple-Cho

@@ -1,0 +1,11 @@
+oduce the phenotype. Because more than one gene is
+involved in producing the trait, these traits would not follow the ratios predicted by Mendelian laws. Some examples
+of traits that are produced by multiple genes are height and eye color. For example, say height in a plant is
+determined by three genes (A, B, and C), and each dominant allele present in the three genes has an additive effect
+on the plant’s height. The more dominant alleles a plant inherits, the taller the plant will be. A plant with the
+genotype AABBCC would be very tall, while a plant with the genotype aabbcc would be very short. A plant with the
+genotype AaBbCc would have a height in the middle of the range. Note that many different genotypes (i.e., AAbbCc
+or AaBBcc or aaBbCC) would result in a plant with a height in the middle of the range.
+Nonnuclear Inheritance
+As discussed in Chapter 5, mitochondria and chloroplasts have their own DNA separate from nuclear DNA. Genes
+on mitochondrial or chloroplast DNA do not foll

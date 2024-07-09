@@ -1,0 +1,47 @@
+view, count the cells in each phase. Repeat the counts in two other 
+root tips. 
+4. Collect the class data for each group, and calculate the mean and standard deviation 
+for each group. You must make a table in your notebook for the class data. 
+5. Compare the number of cells from each group in interphase and in mitosis. 
+Table 1. Onion Root Tip Cell Phase Data; Treatment Group___________ 
+Tip 
+Number of Cells 
+Interphase 
+Mitotic 
+Total 
+1 
+2 
+3 
+Total 
+S88 Investigation 7 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. For this experiment, the number of treated cells in interphase and mitosis will be the 
+observed (o) values. 
+2. To find out what your expected values are, complete the following steps: 
+a. Calculate the percentage of cells in interphase and mitosis in the control group 
+from Table 1. 
+b. Multiply the percentages by the total number of cells in the treated group; this will 
+give the expected numbers (e). 
+3. Calculate the chi-square (χ2) value for the test. 
+4. Compar

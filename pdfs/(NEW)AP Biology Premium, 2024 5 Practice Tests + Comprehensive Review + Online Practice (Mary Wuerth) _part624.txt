@@ -1,0 +1,11 @@
+0.447, then p = 0.553. The frequency of the heterozygotes is 2pq = 2(0.553)(0.447) =
+0.494. If the population is in Hardy-Weinberg equilibrium, the allele frequencies will not change, so the
+frequency of the heterozygotes will still be 0.494 after three generations.
+10. (B) An appropriate control for an experiment investigating the effects of different salt concentrations would
+keep the same starting concentration of the substrate, the same pH and temperature conditions, but would not
+include salt. Choice (A) is incorrect because using a different salt (with possibly different properties) would
+confound the results of the experiment. Changing the temperature could affect the results, so choice (C) would
+not be an appropriate control. Replacing the enzyme solution with water would be an appropriate control for
+studying the effects of enzyme concentration but would not be an appropriate control for studying the effects of
+salt concentrations, so choice (D) is incorrect.
+Short Free-Respon

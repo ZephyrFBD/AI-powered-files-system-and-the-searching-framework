@@ -1,0 +1,29 @@
+***
+■
+■
+■
+■
+■
+■
+■
+■
+Water potential (Ψ or psi) is measured in megapascals (MPa) by plant
+biologists. By definition, Ψ of pure water in an open container under
+standard conditions of temperature (273 K or 0°C) and pressure (1
+atmosphere) is 0 (zero) MPa. Water potential (Ψ) results from solute
+potential (Ψs) plus pressure potential (Ψp): Ψ = Ψs + Ψp.
+Solute Potential (Ψs)
+Is the osmotic potential.
+Is directly proportional to molarity.
+The Ψs of pure water is 0 (zero).
+The Ψs is always a negative value; as the solute concentration
+increases, the Ψs decreases (for example, a 0.1 M solution of sugar
+has a Ψs of –0.23 MPa).
+Pressure Potential (Ψp)
+Is the physical pressure on a solution.
+Can have a positive or negative value relative to atmospheric
+pressure.
+The water in living cells is usually under positive pressure due to
+the uptake of water by osmosis (i.e., turgor pressure in plants); the
+cell contents are pressed up against the cell wall.
+The water in xylem vessels in plants (which tra

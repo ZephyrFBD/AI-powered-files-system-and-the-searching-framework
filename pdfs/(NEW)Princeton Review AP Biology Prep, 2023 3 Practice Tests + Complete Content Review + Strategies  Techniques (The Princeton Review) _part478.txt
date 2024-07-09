@@ -1,0 +1,12 @@
+ast before and after treatment with a drug that
+inhibits cell wall synthesis. As a measure of viability, you measure how much Myc mRNA was made in each
+strain with and without treatment. In this case, each bar is a mean of values and the error bars are ±SE, as
+described above.
+Box-and-whisker plots should be used for nonparametric data. These graphs show median (horizontal line),
+quartiles (top and bottom of the box), and largest and smallest values (ticks at the tops and bottoms of the lines).
+In other words, the middle 50% of plant weights is represented by the box, with the median shown with the line,
+and the highest and lowest values are marked with the top and bottom extenders (whiskers). Remember, the
+median is not the average, so the line doesn’t have to be in the middle. Suppose the weights of two types of
+Arizona plants are measured, to determine which is more plentiful in a given niche:
+Grass and Cactus Weights in the Arizona Desert
+In order to conclude that the samples or gr

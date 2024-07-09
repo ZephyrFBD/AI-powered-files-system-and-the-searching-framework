@@ -1,0 +1,41 @@
+E-4.B
+Explain how interactions 
+within and among 
+populations influence 
+community structure.
+ENE-4.B.1
+Communities change over time depending on 
+interactions between populations.
+ENE-4.B.2
+Interactions among populations determine 
+how they access energy and matter within 
+a community.
+SUGGESTED SKILL
+Statistical Tests and 
+Data Analysis
+5.B
+Use confidence intervals 
+and/or error bars (both 
+determined using standard 
+errors) to determine 
+whether sample means are 
+statistically different.
+ESSENTIAL KNOWLEDGE
+ENE-4.A.1
+The structure of a community is measured and 
+described in terms of species composition and
+species diversity.
+RELEVANT EQUATION
+Simpson's Diversity Index—Diversity index = 1 minus sum (n/N) ^2
+  n =  
+the total number of organisms of 
+a particular species
+N =  
+total number of organisms of 
+all species
+ENDURING UNDERSTANDING
+ENE-4
+Communities and ecosystems change on the basis of interactions among 
+populations and disruptions to the environment.
+TOPIC 8.5
+Community Ec

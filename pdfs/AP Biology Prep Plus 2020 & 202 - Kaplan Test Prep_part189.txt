@@ -1,0 +1,17 @@
+sed on the value provided by the question stem. The pressure
+constant, R, is equal to 0.0831. (This value is included in the formula
+sheet provided to you on Test Day.) The temperature, T, is 298 Kelvins,
+based on the 25°C temperature from the question stem. Plugging in
+these values results in the following: ΨS = –(2)(0.5)(0.0831)(298) = –
+24.76. Thus, the value of the solute potential for the salt solution is –
+24.76. Since the cell is being considered immediately aȇer being
+placed in the salt solution, water has not had a chance to leave the cell
+to equilibrate with its surroundings. Thus, the pressure potential is still
+zero, making the water potential equal to –24.76. Therefore, the
+diﬀerence in water potential is –24.76 – 0 = –24.76, or –24.8 (A), when
+rounded to the nearest tenth.
+(B) is the result of inputting 1 for the ionization constant. (C) is the
+result of inputting 25°C for temperature. (D) is the result of making the
+mistakes of both (B) and (C).
+12. D
+Learning Objective:

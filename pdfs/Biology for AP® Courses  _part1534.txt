@@ -1,0 +1,31 @@
+helps in the formation of phosphodiester
+bonds.
+Table 14.1 summarizes the enzymes involved in prokaryotic DNA replication and the functions of each.
+Prokaryotic DNA Replication: Enzymes and Their Functions
+Enzyme/protein
+Specific Function
+DNA pol I
+Exonuclease activity removes RNA primer and replaces with newly
+synthesized DNA
+DNA pol II
+Repair function
+DNA pol III
+Main enzyme that adds nucleotides in the 5'-3' direction
+Helicase
+Opens the DNA helix by breaking hydrogen bonds between the nitrogenous
+bases
+Ligase
+Seals the gaps between the Okazaki fragments to create one continuous DNA
+strand
+Primase
+Synthesizes RNA primers needed to start replication
+Sliding Clamp
+Helps to hold the DNA polymerase in place when nucleotides are being added
+Topoisomerase
+Helps relieve the stress on DNA when unwinding by causing breaks and then
+resealing the DNA
+Single-strand binding
+proteins (SSB)
+Binds to single-stranded DNA to avoid DNA rewinding back.
+Table 14.1
+Chapter 14 | DNA Structure and Function

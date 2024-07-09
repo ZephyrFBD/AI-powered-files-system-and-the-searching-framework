@@ -1,0 +1,19 @@
+n two alleles for a gene, an individual can only have two alleles on
+each pair of chromosomes. Ending up with a combination of alleles is
+about as simple as tossing a coin.
+An organism that is homozygous for a particular gene (AA) produces four
+gametes each with an A allele. Each of the gametes is one out of a
+possible four gametes, but because all of the gametes have an A, four out
+of four of the gametes have an A. Four out of four is a probability of one
+because 
+. You can look at the question more intuitively by saying
+that because there are only A alleles in the parent cell, all of the daughter
+cells (100%, or 
+ ) will have the A allele. If an organism is heterozygous
+(Aa), it produces two gametes with an A allele (2 out of 4) and two
+gametes with an a allele (2 out of 4). The probability of either the A or a
+allele in the gametes is 
+. Or again, intuitively, if the parent cell
+has one A and one a allele, it will produce gametes that are half A (50%, or
+ ) and half a (50%, or 
+ ).

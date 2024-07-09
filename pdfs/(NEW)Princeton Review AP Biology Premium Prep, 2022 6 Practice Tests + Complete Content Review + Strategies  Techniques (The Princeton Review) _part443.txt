@@ -1,0 +1,13 @@
+of a species that a habitat can
+support. Most populations, however, don’t reach their carrying capacity because they’re exposed to limiting factors.
+Same Equation, Different Look
+On the AP Exam, you may see this formula expressed as dN/dt = B – D.
+We’ve just translated the variables to make it easier to interpret. Make sure
+that you are similarly prepared to parse any formula you’re given.
+One important factor is population density. The factors that limit a population are either density-independent or
+density-dependent. Density-independent factors affect the population, regardless of the density of the population.
+Some examples are severe storms and extreme climates. On the other hand, density-dependent factors are those
+with effects that depend on population density. Resource depletion, competition, and predation are all examples of
+density-dependent factors. In fact, these effects become even more intense as the population density increases.
+Exponential Growth
+The growth rates of pop

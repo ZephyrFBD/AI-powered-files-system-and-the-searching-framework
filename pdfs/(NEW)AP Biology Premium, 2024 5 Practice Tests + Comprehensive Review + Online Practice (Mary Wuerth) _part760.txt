@@ -1,0 +1,21 @@
+er mitosis.
+ 
+Appendix
+ 
+Frequently Used Formulas and Equations
+Statistics
+The proper use of statistics is important in biology. Here are some of the terms and formulas you should be familiar
+with for the AP Biology exam.
+Mode, median, and mean are used to describe the central tendency of a data set.
+Mode—the most frequently used value in a data set
+Median—the middle value of a data set
+Mean—the average of a data set; to find the mean, add all of the data points in a data set, and then divide by the
+number of members in the data set
+Here is another way to define the mean:
+n = the number of members in the data set
+Range, standard deviation, and standard error of the mean are used to describe the spread of a data set.
+Range—the highest value of the data set minus the lowest value of the data set
+Standard Deviation*
+Standard Error of the Mean*
+To construct a 95% confidence interval, start at the mean of the data set. Add two times the standard error of the
+mean to find the upper limit of 

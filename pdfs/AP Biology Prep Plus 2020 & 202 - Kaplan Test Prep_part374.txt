@@ -1,0 +1,20 @@
+xplanations
+TEST WHAT YOU ALREADY KNOW
+1. D
+Learning Objective: 9.1
+Enzymes can only catalyze one reaction at a time and it takes a certain
+amount of time for the reaction to occur. Unless the enzyme
+concentration is increased, the enzymes become saturated at high
+concentrations of substrate, and the rate stops increasing with
+increasing substrate concentration. (D) is thus correct. (A) is incorrect
+because the graph provides no information about temperature. (B) is
+incorrect because the varying concentrations of AR are represented by
+the diﬀerent curves in the graph, not by the variation along the x-axis,
+as for H2O2. (C) is incorrect because there is no data provided in the
+graph that suggests that high H2O2 concentrations prevent the active
+site from changing shape as needed—the reaction rate does not
+decrease at higher concentrations.
+2. B
+Learning Objective: 9.2
+The lower the KM value, the lower the concentration of substrate
+necessary to reach maximum velocity. Similarly, the low

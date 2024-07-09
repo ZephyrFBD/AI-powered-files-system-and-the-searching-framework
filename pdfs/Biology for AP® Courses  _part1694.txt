@@ -1,0 +1,15 @@
+nerate, but not ambiguous
+nucleotides following the initiation site in the direction of mRNA transcription; in general, sequences that
+are toward the 3' end relative to a site on the mRNA
+sequence present in protein-coding mRNA after completion of pre-mRNA splicing
+complex that “facilitates chromatin transcription” by disassembling nucleosomes ahead of a transcribing RNA
+polymerase II and reassembling them after the polymerase passes by
+(GGCG) nonessential eukaryotic promoter sequence that binds cellular factors to increase the efficiency of
+transcription; may be present several times in a promoter
+structure of RNA when it folds back on itself and forms intramolecular hydrogen bonds between complementary
+nucleotides
+prokaryotic RNA polymerase consisting of α, α, β, β', and σ; this complex is responsible for transcription
+initiation
+nucleotide from which mRNA synthesis proceeds in the 5' to 3' direction; denoted with a “+1”
+in prokaryotes, called tRNA f
+Met ; in eukaryotes, called tRNAi

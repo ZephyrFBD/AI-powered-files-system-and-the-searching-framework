@@ -1,0 +1,18 @@
+he 5′ to the 3′ direction
+by moving along the template strand and pushing the replication
+fork ahead of it. In humans, the rate of elongation is about 50
+nucleotides per second.
+DNA polymerase cannot initiate synthesis; it can only add
+nucleotides to the 3′ end of a preexisting chain. This preexisting
+chain actually consists of RNA and is called RNA primer. An
+enzyme called primase makes the primer by joining together RNA
+nucleotides.
+One of your cells can replicate its entire DNA in a few hours.
+DNA polymerase replicates the two original strands of DNA
+differently. Although it builds both new strands in the 5′ to 3′
+direction, one strand is formed toward the replication fork in an
+unbroken, linear fashion. This is called the leading strand. The
+other strand, the lagging strand, forms in the direction away from
+the replication fork in a series of segments called Okazaki
+fragments. Okazaki fragments are about 100–200 nucleotides long
+and will be joined into one continuous strand by the 

@@ -1,0 +1,17 @@
+n only work so fast. This
+maximum reaction rate is termed Vmax and is illustrated in the following
+graph as the flat part of the rate versus substrate concentration curve for
+an enzymatic reaction. This point occurs when the enzymes become
+saturated with substrate. Enzymes become saturated at high substrate
+concentrations because substrate must bind to enzymes at a particular
+place: the active site. While the entire process is somewhat complex, the
+main idea is that increasing the substrate can produce the same Vmax if
+competitive inhibitors are present, but noncompetitive inhibitors lower
+Vmax regardless of the amount of substrate.
+Temperature- and pH-Dependent Enzyme
+Reaction Rates
+Increasing the concentration of the enzyme itself will also speed up the
+rate of the reaction. However, note that the synthesis of enzymes requires
+energy and resources that could be deployed elsewhere in an organism,
+so there is a trade-oﬀ to producing more copies of a particular enzyme.
+Concentration and

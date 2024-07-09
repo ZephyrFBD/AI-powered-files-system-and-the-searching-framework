@@ -1,0 +1,13 @@
+tors in other yeast cells that are nearby, they stop their normal growth cycles and
+initiate a cell signaling cascade that includes protein kinases and GTP-binding proteins that are similar to G-proteins.
+Chapter 9 | Cell Communication
+387
+Figure 9.16 Budding Saccharomyces cerevisiae yeast cells can communicate by releasing a signaling molecule
+called mating factor. In this micrograph, they are visualized using differential interference contrast microscopy, a light
+microscopy technique that enhances the contrast of the sample.
+Signaling in Bacteria
+Signaling in bacteria enables bacteria to monitor extracellular conditions, ensure that there are sufficient amounts of
+nutrients, and ensure that hazardous situations are avoided. There are circumstances, however, when bacteria communicate
+with each other.
+The first evidence of bacterial communication was observed in a bacterium that has a symbiotic relationship with Hawaiian
+bobtail squid. When the population density of the bacteria reache

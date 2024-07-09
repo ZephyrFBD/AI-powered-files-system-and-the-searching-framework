@@ -1,0 +1,30 @@
+: AUU:AAA, UUA:AAA, and
+UAU:AAA; 0.8 × 0.22/0.83 = 1/16; and UUU:AAA;
+0.23/0.83 = 1/64.
+B. Based on Khorana’s findings, calculate the relative
+distributions of the following ratios of concentrations of
+RNA triplet sequences from mixtures in which the relative
+concentrations of guanine and cytosine, G:C, are 5:1.
+Ratio
+Relative Probabilities
+GGC:GGG
+GCG:GGG
+CGG:GGG
+GCC:GGG
+CGC:GGG
+CCG:GGG
+CCC:GGG
+Table 15.2
+C. Based on the work of Nirenberg, Matthaei, Leder, and
+Khorana, the following table was constructed (taken from
+Khorana's Nobel Prize address):
+Figure 15.18
+A solution containing the amino acids shown in the table
+above and equal concentrations of the two nucleotides C
+and G is prepared. Predict the proteins that can be
+synthesized from this mixture in terms of each possible
+codon and their relative concentrations in terms of their
+amino acid repeat sequences.
+D. Describe the effects of the codons UAA, UAG, and
+UGA on protein synthesis.
+53. The yeast life cycle is usually dominated 

@@ -1,0 +1,37 @@
+athematical equations in 
+the curriculum.
+Data Analysis 
+and Concept 
+Explanation
+1.C 
+Explain biological concepts, 
+processes, and/or models 
+in applied contexts.
+LEARNING OBJECTIVE
+EVO-1.K
+Describe the conditions 
+under which allele and 
+genotype frequencies will 
+change in populations.
+ESSENTIAL KNOWLEDGE
+EVO-1.K.1
+Hardy-Weinberg is a model for describing and 
+predicting allele frequencies in a nonevolving 
+population. Conditions for a population or 
+an allele to be in Hardy-Weinberg equilibrium 
+are—(1) a large population size, (2) absence 
+of migration, (3) no net mutations, (4) random 
+mating, and (5) absence of selection. These 
+conditions are seldom met, but they provide a 
+valuable null hypothesis.
+EVO-1.K.2
+Allele frequencies in a population can be 
+calculated from genotype frequencies.
+RELEVANT EQUATION
+Hardy-Weinberg-Equation 
+p^2 + 2 p q + q ^
+2 = 1 p + q = 1
+where:
+ p = frequency of allele 1 in the populatio
+n q = frequency of allele 2 in the population
+ENDURING UNDERSTAN

@@ -1,0 +1,14 @@
+f amino acids is called elongation. Remember that the mRNA contains many codons, or “triplets,” of
+nucleotide bases. As each amino acid is brought to the mRNA, it is linked to its neighboring amino acid by a peptide
+bond. When many amino acids link up, a polypeptide is formed.
+Termination
+How does this process know when to stop? The synthesis of a polypeptide is ended by stop codons. A codon
+doesn’t always code for an amino acid; there are three that serve as a stop codon. Termination occurs when the
+ribosome runs into one of these three stop codons.
+How about a little review?
+In transcription, mRNA is created from a particular gene segment of DNA.
+In eukaryotes, the mRNA is “processed” by having its introns, or noncoding sequences, removed. A 5’ cap and
+a 3’ tail are also added.
+Now, ready to be translated, mRNA proceeds to the ribosome.
+Free-floating amino acids are picked up by tRNA and shuttled over to the ribosome, where mRNA awaits.
+In translation, the anticodon of a tRNA molecul

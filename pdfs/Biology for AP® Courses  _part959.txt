@@ -1,0 +1,12 @@
+5 atoms from 3RuBP = 18 atoms in 3 atoms of
+3-PGA). This process is called carbon fixation, because CO2 is “fixed” from an inorganic form into organic molecules.
+Stage 2: Reduction
+ATP and NADPH are used to convert the six molecules of 3-PGA into six molecules of a chemical called glyceraldehyde
+3-phosphate (G3P). That is a reduction reaction because it involves the gain of electrons by 3-PGA. Recall that a reduction
+is the gain of an electron by an atom or molecule. Six molecules of both ATP and NADPH are used. For ATP, energy is
+released with the loss of the terminal phosphate atom, converting it into ADP; for NADPH, both energy and a hydrogen
+atom are lost, converting it into NADP+. Both of these molecules return to the nearby light-dependent reactions to be reused
+and reenergized.
+Stage 3: Regeneration
+Interestingly, at this point, only one of the G3P molecules leaves the Calvin cycle and is sent to the cytoplasm to contribute
+to the formation of other compounds needed by the plant

@@ -1,0 +1,12 @@
+be antiparallel to the given DNA sequence, so it would start with the 5′ end.
+Also, in RNA, uracil replaces thymine, and the other base-pairing rules are the same as those found in DNA.
+Choices (A) and (B) are incorrect because the mRNA is not antiparallel to the DNA sequence. Choices (A) and
+(C) are incorrect because they contain thymine, which does not appear in RNA.
+4. (B) The mRNA transcribed from the DNA sequence in the problem would be 5′ UUA GCA AAG UUA GUU
+3′. Using Figure 16.4, the amino acid sequence that would be translated from that mRNA would be Leu-Ala-
+Lys-Leu-Val.
+5. (D) Both prokaryotes and eukaryotes use RNA polymerase for transcription. Only eukaryotes have alternative
+splicing of exons and the addition of a 3′ poly-A tail and a 5′ GTP cap to mRNA, so choices (A), (B), and (C)
+are incorrect.
+6. (C) Introns are removed from the pre-mRNA to help form the mature mRNA, which is represented by step 3.
+Step 1 represents DNA replication, so choice (A) is incorrect. Transcri

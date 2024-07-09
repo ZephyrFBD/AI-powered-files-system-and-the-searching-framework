@@ -1,0 +1,26 @@
+in each case?
+a.
+There is a silent mutation in peptide 2 and
+peptide 3 has a stop codon due to mutation.
+b.
+There is a silent mutation in peptide 3 and
+peptide 2 has a stop codon due to mutation.
+c.
+There is a different amino acid in peptide 2 and
+peptide 3 has a stop codon due to mutation.
+d.
+There isn’t a mutation in peptide 2 and peptide 3
+has a stop codon due to mutation.
+SCIENCE PRACTICE CHALLENGE QUESTIONS
+52. Gamow (1954) proposed that the structure of DNA
+deduced by Watson and Crick (1953) could be interpreted
+as a way of forming roughly 20 "words" of the common
+amino acids from the four "letters" A, T, C, and G that
+represent DNA nucleotides.
+Crick and coworkers (1961) used a method developed by
+Benzer to induce mutations in the DNA of a virus by the
+insertion of a single nucleotide. The mutant could not
+infect the bacterium Escherichia coli and neither could
+viruses with a second insertion of a second DNA
+nucleotide. However, a third nucleotide insertion restored
+the ability 

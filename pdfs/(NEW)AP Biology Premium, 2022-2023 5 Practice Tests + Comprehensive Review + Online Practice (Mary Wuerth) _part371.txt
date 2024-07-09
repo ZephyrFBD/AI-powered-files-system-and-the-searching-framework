@@ -1,0 +1,10 @@
+riers of genetic information in organisms. In most organisms, genetic information starts
+with DNA, which provides the information for the transcription of mRNA. mRNA then provides the information for
+the sequence of amino acids in a protein.
+In eukaryotes, genetic information in DNA is transcribed into mRNA in the nucleus. Ribosomes on the rough
+endoplasmic reticulum use the information in mRNA to translate proteins. After the protein is translated, a vesicle
+containing the protein will bud off from the rough endoplasmic reticulum and travel to the Golgi. At the Golgi, the
+proteins will be modified and packaged into vesicles for export from the cell. These vesicles will bud off from the
+Golgi and travel to the cell membrane. The vesicles then fuse with the cell membrane and release their protein
+contents from the cell. So the flow of genetic information in a eukaryotic cell is as follows:
+DNA → mRNA → protein at ribosomes on the rough endoplasmic reticulum → protein at the Golgi → prot

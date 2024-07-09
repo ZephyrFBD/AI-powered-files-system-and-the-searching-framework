@@ -1,0 +1,33 @@
+the electron transport chain.
+iii. The electrons eventually reduce NADP+ to NADPH.
+iv. Water is split, forming e–, H+, and O2.
+v. H+ concentration builds up inside the thylakoids (the thylakoids space).
+vi. When H+ move through ATP synthase from the thylakoid space to the stroma, ATP is formed.
+vii. NADPH and ATP are used in the second step of photosynthesis, carbon fixation.
+C. STEP 2—Calvin Cycle/Light Independent Cycle
+1. Occurs in the stroma of chloroplasts.
+2. Uses the products (ATP and NADPH) to produce glucose
+3. The following figure depicts the steps in the Calvin Cycle:
+i.
+Six turns of the cycle fix six carbons, representing one molecule of glucose.
+ii. Six turns of the cycle require 18 ATP and 12 NADPH.
+III.
+Comparison Chart: Cellular Respiration and Photosynthesis
+Process
+Takes Place in Cellular Respiration
+Takes Place in
+Photosynthesis
+Breakdown of
+glucose
+Yes
+No
+Synthesis of
+glucose
+No
+Yes—Calvin Cycle
+O2 is released
+No
+Yes—light-dependent
+reaction
+O2 is consumed
+Yes—ETC a

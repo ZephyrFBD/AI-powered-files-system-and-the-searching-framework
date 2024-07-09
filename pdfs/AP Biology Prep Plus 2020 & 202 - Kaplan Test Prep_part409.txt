@@ -1,0 +1,20 @@
+n electron and is then oxidized when it passes it on to the next
+carrier.
+AP EXPERT NOTE
+Note that the electron transport chain (ETC) is like an assembly
+line where the majority of ATP is generated.
+The last carrier of the ETC, cytochrome a3, passes its electron to the final
+electron acceptor, O2. In addition to the electrons, O2 picks up a pair of
+hydrogen ions from the surrounding medium, forming water.
+AP EXPERT NOTE
+The names of the specific electron carriers in the electron
+transport chain are not required knowledge for the AP Biology
+exam.
+Electron Transport Chain
+Without oxygen, the ETC becomes backlogged with electrons. As a result,
+NAD+ cannot be regenerated and glycolysis cannot continue unless lactic
+acid fermentation occurs. Likewise, ATP synthesis comes to a halt if
+respiratory poisons such as cyanide or dinitrophenol enter the cell.
+Cyanide blocks the transfer of electrons from cytochrome a3 to O2.
+Dinitrophenol uncouples the electron transport chain from the proton
+gradi

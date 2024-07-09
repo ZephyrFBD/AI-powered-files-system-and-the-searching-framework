@@ -1,0 +1,16 @@
+ontains a promoter, an operator, and a group of structural genes.
+i.
+Several structural genes, often coding for proteins involved in the same metabolic process, are
+under the control of a promoter and operator.
+ii. A promoter is the part of the operon to which RNA polymerase binds to begin transcribing the
+structural genes.
+iii. An operator is the part of the operon to which a repressor protein can bind to stop expression of
+the structural genes.
+2. Repression—occurs when a regulatory protein, called a repressor, binds to the operator, thereby
+blocking RNA polymerase from transcribing the genes.
+3. Induction—occurs when a substance, called an inducer, binds to the repressor protein, inactivates it,
+and keeps it from binding to the operator, thereby activating transcription of the genes.
+Regulation of a Bacterial Operon: The Lac Operon
+4. The lac operon is induced by the sugar lactose.
+i.
+The structural genes of the lac operon control the utilization of lactose by the bacteria, Escheric

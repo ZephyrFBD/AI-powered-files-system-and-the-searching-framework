@@ -1,0 +1,11 @@
+ the frontline defenses of
+macrophages involved in the innate immune response. Some intracellular bacteria, such as Mycobacterium tuberculosis,
+have evolved to multiply in macrophages after they have been engulfed. These pathogens evade attempts by macrophages to
+destroy and digest the pathogen. When M. tuberculosis infection occurs, macrophages can stimulate naïve T cells to become
+TH1 cells. These stimulated T cells secrete specific cytokines that send feedback to the macrophage to stimulate its digestive
+capabilities and allow it to destroy the colonizing M. tuberculosis. In the same manner, TH1-activated macrophages also
+become better suited to ingest and kill tumor cells. In summary; TH1 responses are directed toward intracellular invaders
+while TH2 responses are aimed at those that are extracellular.
+B Lymphocytes
+When stimulated by the TH2 pathway, naïve B cells differentiate into antibody-secreting plasma cells. A plasma cell
+is an immune cell that secrets antibodies; these cel

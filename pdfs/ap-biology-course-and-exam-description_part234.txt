@@ -1,0 +1,52 @@
+TIVE
+SYI-1.H
+Explain how the density 
+of a population affects 
+and is determined by 
+resource availability in 
+the environment.
+ESSENTIAL KNOWLEDGE
+SYI-1.H.1
+RELEVANT EQUATION
+A population can produce a density of 
+individuals that exceeds the system’s resource 
+availability.
+SYI-1.H.2 
+As limits to growth due to density-dependent 
+and density-independent factors are imposed, a 
+logistic growth model generally ensues.(d N)/ (d x) = r_max N (K minus N/K)
+where:
+dt = change in time
+N = population size
+r_max = m
+aximum per capita growth rate o
+f population
+K = carrying capacity
+Statistical Tests and 
+Data Analysis
+5.A.c  
+Perform mathematical 
+calculations, including rates.
+Course Framework V.1 | 158
+AP Biology Course and Exam Description
+Return to Table of Contents
+© 2020 College Board
+Ecology
+UNIT
+8
+ 
+	
+	
+	
+   
+	
+     
+continued on next page
+Required Course Content 
+LEARNING OBJECTIVE
+ENE-4.A
+Describe the structure of 
+a community according to 
+its species composition 
+and diversity.
+EN

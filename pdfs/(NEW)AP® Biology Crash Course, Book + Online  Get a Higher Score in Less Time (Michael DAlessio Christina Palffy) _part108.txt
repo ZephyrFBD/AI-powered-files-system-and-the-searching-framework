@@ -1,0 +1,16 @@
+ing the coding region of a gene and by regulatory proteins that bind to these
+sequences.
+B. Control over gene expression is important for determining when, and in which cells, a protein will be
+made.
+C. Gene regulation in bacteria involves control over the transcription of operons, and in eukaryotes involves
+multiple levels before, during, and after transcription and translation.
+D. Regulatory proteins provide both positive and negative control mechanisms for gene expression. They
+inhibit gene expression by binding to DNA and blocking transcription (negative control), and they can
+stimulate gene expression by binding to DNA and stimulating transcription (positive control) or binding
+to repressors to inactivate their repressor functions.
+E. Some genes, like ribosomal genes, are always turned “on” and are continuously expressed.
+II.
+Gene Regulation in Prokaryotes
+A. In prokaryotes, such as bacteria, the single chromosome contains many genes that are organized into
+operons.
+1. An operon c

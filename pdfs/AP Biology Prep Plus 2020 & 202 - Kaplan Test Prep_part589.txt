@@ -1,0 +1,18 @@
+e proteins that
+metabolize lactose unless the substrate is available. This is also an
+example of positive control because the expression of the genes is
+induced by the presence of the substrate.
+The Lac Operon in E. coli
+Another important concept to appreciate from this model of gene
+expression is that the promoter and operator of an operon are “unaware”
+of what happens at another part of the DNA strand, unless the DNA
+performs a specific activity on them. For example, if the gene to produce
+human insulin were placed within a bacterium’s operon that produces
+enzymes for metabolizing glucose, the insulin gene would also be
+transcribed when glucose signals the transcription of the glucose
+metabolizing genes. Scientists can then harvest the insulin from the
+bacterium. This type of genetic manipulation has revolutionized the
+discipline of molecular genetics.
+CELL DIFFERENTIATION AND SPECIALIZATION
+Every cell in multicellular organisms carries out very specific and diﬀerent
+functions in diﬀ

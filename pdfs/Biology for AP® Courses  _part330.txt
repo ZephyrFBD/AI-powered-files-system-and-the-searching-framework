@@ -1,0 +1,10 @@
+oxyribose
+in DNA and ribose in RNA), a nitrogenous base (adenine, cytosine, guanine, and thymine or uracil), and a phosphate
+group. DNA carries the genetic blueprint of the cell that is passed from parent to offspring via cell division. DNA has a
+double-helical structure with the two strands running in opposite directions (antiparallel), connected by hydrogen bonds and
+complementary to each other. In DNA, purines pair with pyrimidines: adenine pairs with thymine (A-T), and cytosine pairs
+with guanine (C-G). In RNA, uracil replaces thymine to pair with adenine (U-A). RNA also differs from DNA in that it is
+single-stranded and has many forms, such as messenger RNA (mRNA), ribosomal RNA (rRNA), and transfer RNA (tRNA)
+that all participate in the synthesis of proteins. MicroRNAs (miRNAs) regulate the use of mRNA. The flow of genetic
+information is usually DNA → RNA → protein, also known as the Central Dogma of Life.
+Information presented and the examples highlighted in the section support 

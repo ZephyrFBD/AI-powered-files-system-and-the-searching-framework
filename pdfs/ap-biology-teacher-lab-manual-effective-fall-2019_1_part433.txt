@@ -1,0 +1,25 @@
+needed and is ready to proceed to the next step in 
+its cycle. Cells pass the G1 checkpoint when they are stimulated by appropriate external 
+growth factors; for example, platelet-derived growth factor (PDGF) stimulates cells 
+near a wound to divide so that they can repair the injury. The G2 checkpoint checks 
+for damage after DNA is replicated, and if there is damage, it prevents the cell from 
+going into mitosis. The M-spindle (metaphase) checkpoint assures that the mitotic 
+spindles or microtubules are properly attached to the kinetochores (anchor sites on the 
+chromosomes). If the spindles are not anchored properly, the cell does not continue on 
+through mitosis. The cell cycle is regulated very precisely. Mutations in cell cycle genes 
+that interfere with proper cell cycle control are found very often in cancer cells. 
+ 
+ 
+ 
+M 
+G1 
+G2 
+G2  Checkpoint 
+G2 to M transition 
+checkpoint controlled by 
+• DNA replication
+ completion 
+• DNA damage/
+ mutations 
+• Cell size 
+• Spindle ﬁber 

@@ -1,0 +1,9 @@
+to reflect evolutionary relationships among organisms or groups of organisms. Scientists
+consider phylogenetic trees to be a hypothesis of the evolutionary past since one cannot go back to confirm the proposed
+relationships. In other words, a “tree of life” can be constructed to illustrate when different organisms evolved and to show
+the relationships among different organisms (Figure 20.2).
+Unlike a taxonomic classification diagram, a phylogenetic tree can be read like a map of evolutionary history. Many
+phylogenetic trees have a single lineage at the base representing a common ancestor. Scientists call such trees rooted, which
+means there is a single ancestral lineage (typically drawn from the bottom or left) to which all organisms represented in the
+diagram relate. Notice in the rooted phylogenetic tree that the three domains— Bacteria, Archaea, and Eukarya—diverge
+from a single point and branch off. The small branch that plants and animals (including humans) occupy in this diagram

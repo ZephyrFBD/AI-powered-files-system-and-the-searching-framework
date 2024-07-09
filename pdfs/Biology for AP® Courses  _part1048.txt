@@ -1,0 +1,9 @@
+n increase in cyclic AMP (cAMP) inside the cell. Also known as epinephrine, adrenaline is a hormone
+(produced by the adrenal gland attached to the kidney) that readies the body for short-term emergencies. Cyclic AMP
+activates PKA (protein kinase A), which in turn phosphorylates two enzymes. The first enzyme promotes the degradation
+of glycogen by activating intermediate glycogen phosphorylase kinase (GPK) that in turn activates glycogen phosphorylase
+(GP) that catabolizes glycogen into glucose. (Recall that your body converts excess glucose to glycogen for short-term
+storage. When energy is needed, glycogen is quickly reconverted to glucose.) Phosphorylation of the second enzyme,
+glycogen synthase (GS), inhibits its ability to form glycogen from glucose. In this manner, a muscle cell obtains a ready
+pool of glucose by activating its formation via glycogen degradation and by inhibiting the use of glucose to form glycogen,
+thus preventing a futile cycle of glycogen degradation and synthe

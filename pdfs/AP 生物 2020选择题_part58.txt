@@ -1,0 +1,73 @@
+tial Growth
+ 
+ 
+The Solute Potential of a Solution
+ 
+ 
+Surface Area of a Rectangular 
+Solid
+ 
+ 
+Surface Area of a Cube
+dY 
+dt 
+dN = B - D
+dt 
+dN = r 
+N
+max 
+dt 
+dN 
+K - N 
+= r 
+N
+max ( 
+)
+dt 
+K 
+Logistic Growth 
+2 
+n
+= 1 - Â( )
+N 
+4
+3
+V  
+ r 
+3 
+Water Potential
+Rate 
+Simpson’s Diversity Index 
+Surface Area of a Sphere 
+Surface Area of a Cylinder 
+Volume of a Sphere 
+Volume of a Rectangular Solid 
+Volume of a Cylinder 
+Volume of a Cube 
+Rate and Growth 
+dY = amount of change 
+dt = change in time 
+B = birth rate 
+ 
+D = death rate 
+N = population size 
+K = carrying capacity
+rmax = maximum per capita 
+growth rate of population 
+ ( Y ) 
+Y = YP + YS
+Y = 
+P pressure potential
+YS  = solute potential 
+The water potential will be equal to the 
+ 
+solute potential of a solution in an open 
+container because the pressure potential 
+ of 
+ 
+the solution in an open container is zero. 
+YS = -iCRT
+i = ionization constant (1.0 for sucrose 
+because sucrose does not ionize in 
+water) 
+C  = molar concentr

@@ -1,0 +1,10 @@
+phage (a virus that infects bacteria). Bacteriophages undergo two different
+types of replication cycles, the lytic cycle and the lysogenic cycle. In the lytic cycle, the virus immediately starts
+using the host cell’s machinery to replicate the genetic material and create more capsid proteins. These
+spontaneously assemble into mature viruses and cause the cell to lyse, or break open, releasing new viruses into the
+environment. In the lysogenic cycle, the virus incorporates itself into the host genome and remains dormant until it
+is triggered to switch into the lytic cycle. A virus can hide in the genome of a host cell for a very long time. During
+this time, the cell may divide and replicate the virus as well. By the time the lytic cycle is triggered, the virus may
+have been replicated many many times as the cell hosting it divides.
+When a virus excises from a host genome (becomes unintegrated), it sometimes accidentally takes some of the
+bacterial cell’s DNA with it. Then, the host DNA 

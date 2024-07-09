@@ -1,0 +1,14 @@
+e reads DNA base pairs of a strand as a template and lays down complementary nucleotides
+to generate a new complementary partner strand.
+Replication proceeds continuously on the leading strand.
+The lagging strand forms Okazaki fragments, which must be joined later by DNA ligase.
+Transcription involves building RNA from DNA.
+RNA polymerase reads one of the DNA strands (the antisense/non-coding/template strand) and adds RNA
+nucleotides to generate a single strand of mRNA that will be identical to the other strand of DNA (the
+coding/sense strand) except it will have uracil instead of thymine.
+mRNA, rRNA, tRNA, and RNAi are all types of RNA that can be created.
+mRNA gets processed in eukaryotic cells: introns are removed (spliced out), and a 5′ GTP cap and a 3′
+poly(A) tail are added.
+Translation occurs in the cytoplasm as mRNA carries the message to the ribosome.
+mRNA passes through three sites on the ribosome, the A-site, the P-site, and the E-site.
+The mRNA is read in triplets of three 

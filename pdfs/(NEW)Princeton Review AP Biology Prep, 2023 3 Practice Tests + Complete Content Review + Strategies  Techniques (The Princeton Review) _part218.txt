@@ -1,0 +1,12 @@
+ses the energy stored in the chemical bonds.
+Reactions that require an input of energy are called endergonic reactions. You’ll notice that the products have more
+energy than the reactants. An example is plants’ use of carbon dioxide and water to form sugars.
+Activation Energy
+Even though exergonic reactions release energy, the reaction might not occur naturally without a little bit of energy
+to get things going. This is because the reactants must first turn into a high energy molecule, called the transition
+state, before turning into the products. The transition state is sort of a reactants-products hybrid state that is difficult
+to achieve. In order to reach this transition state, a certain amount of energy is required. This is called the activation
+energy.
+Be careful: a transition state is not the same thing as a reaction intermediate.
+Transition states occur in each step of every reaction, between the reactant(s)
+and the product(s). Intermediates are formed between each step of a mu

@@ -1,0 +1,12 @@
+ature form before translation can begin. This processing after an RNA
+molecule has been transcribed, but before it is translated into a protein, is called post-transcriptional modification. As with
+the epigenetic and transcriptional stages of processing, this post-transcriptional step can also be regulated to control gene
+expression in the cell. If the RNA is not processed, shuttled, or translated, then no protein will be synthesized.
+RNA Splicing, the First Stage of Post-transcriptional Control
+In eukaryotic cells, the RNA transcript often contains regions, called introns, that are removed prior to translation. The
+regions of RNA that code for protein are called exons (Figure 16.11). After an RNA molecule has been transcribed, but
+prior to its departure from the nucleus to be translated, the RNA is processed and the introns are removed by splicing.
+Figure 16.11 Pre-mRNA can be alternatively spliced to create different proteins.
+654
+Chapter 16 | Gene Regulation
+This OpenStax book is av

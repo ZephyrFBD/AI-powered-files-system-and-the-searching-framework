@@ -1,0 +1,17 @@
+e probability of the plant having purple flowers is  (and the
+gene that determines tallness has no effect—is independent of—the gene that determines flower color), the
+probability of the plant being tall AND having purple flowers is 
+.
+If the results of one event do affect the probability of a second event happening (mutually exclusive events), the
+probability of both events happening equals the sum of their individual probabilities:
+For example, in a heterozygous cross, the probability of a homozygous recessive offspring is  and the probability
+of a heterozygous offspring is , so the probability of an offspring being either homozygous recessive OR
+heterozygous is 
+.
+Hardy-Weinberg Equations
+Use this equation when finding allele frequencies:
+p is the frequency of the dominant allele.
+q is the frequency of the recessive allele in the gene pool.
+Use this equation when looking for genotype frequencies:
+p2 is the frequency of the homozygous dominant genotype.
+2pq is the frequency of the he

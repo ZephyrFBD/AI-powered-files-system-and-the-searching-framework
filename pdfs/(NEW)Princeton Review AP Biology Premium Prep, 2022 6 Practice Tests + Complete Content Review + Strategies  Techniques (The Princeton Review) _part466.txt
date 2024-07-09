@@ -1,0 +1,13 @@
+e described later in this chapter.
+Measurements
+Measurements are continuous, meaning there is an infinite number of potential measurements over a given range.
+Size, height, temperature, weight, and response rate are all measurements. There are two types of measurement data:
+parametric and nonparametric.
+Normal or Parametric Data
+Normal, or parametric, data is measurement data that fits a normal curve, or distribution, usually when a large
+sample size is used. For example, if you took a large sample of 17-year-olds in America and graphed the frequency
+of heights, the results will be normally distributed.
+Several descriptive statistics can be used to summarize normal data.
+The sample size (n) refers to the number of members of the population that are included in the study. Sample size is
+an important consideration when you’re trying to determine how well the data in the study represents a population.
+Large sample sizes are always better, but for technical reasons, experiments can’t be in

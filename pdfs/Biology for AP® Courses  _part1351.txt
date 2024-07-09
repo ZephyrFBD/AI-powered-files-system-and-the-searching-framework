@@ -1,0 +1,15 @@
+s for seed color and texture.
+In pea plants, purple flowers (P) are dominant to white flowers (p) and yellow peas (Y) are dominant to green peas
+(y). What are the possible genotypes and phenotypes for a cross between PpYY and ppYy pea plants? What is the
+minimum number of squares that you need to do a Punnett square analysis of this cross?
+a.
+ppYY, Ppyy, ppYY, ppyy yielding white flowers with yellow peas, purple flowers with yellow peas, and
+white flowers with green peas. You can find this with a 3×3 Punnett square.
+b.
+PPYY, PpYy, ppYY, ppyy yielding purple flowers with yellow peas, white flowers with yellow peas, and
+white flowers with green peas. You can find this with a 2×2 Punnett square.
+c.
+Ppyy, PpYy, ppYY, ppyy yielding purple flowers with green peas, purple flowers with yellow peas, white
+flowers with yellow peas, and white flowers with green peas. You can find this with a 3×3 Punnett square.
+d.
+PpYY, PpYy, ppYY, ppYy yielding purple flowers with yellow peas, and white flowers 

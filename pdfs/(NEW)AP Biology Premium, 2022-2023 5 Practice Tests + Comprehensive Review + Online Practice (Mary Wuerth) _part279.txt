@@ -1,0 +1,11 @@
+the process
+of genetic recombination (or crossing-over). This generates new combinations of genetic material on each chromatid
+that may be passed on to the offspring. This increases the genetic diversity of the species, as shown in Figure 12.3.
+Figure 12.3 Genetic Recombination (Crossing-Over)
+The frequency of genetic recombination events can be used to estimate the distance between genes that are on the
+same chromosome. Genes that are farther apart will have a higher recombination frequency, and genes that are
+closer to each other will have a lower recombination frequency. The frequency of genetic recombination between
+genes on the same chromosome can be used to generate genetic maps that show the relative positions of genes on
+chromosomes. Genes that are close together on the same chromosome tend to be inherited together more often
+(since the frequency of recombination between them is lower) and are referred to as linked genes.
+Sometimes, genetic recombination may occur between nonho

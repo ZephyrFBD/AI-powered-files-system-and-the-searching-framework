@@ -1,0 +1,26 @@
+ead of from water. Another difference is that this electron
+transport chain produces NADPH, not ATP.
+Here is an overview of noncyclic photophosphorylation.
+light→P680→ATP produced→P700NADPH producedoxygen(NADPH car
+******ebook converter DEMO Watermarks*******
+Figure 7.6 Overview of Photosynthesis
+Cyclic Photophosphorylation
+The sole purpose of cyclic photophosphorylation is to produce ATP. No
+NADPH is produced, and no oxygen is released.
+The production of sugar that occurs during the Calvin cycle consumes
+enormous amounts of ATP, so periodically, the chloroplast runs low on
+ATP. 
+When 
+it 
+does, 
+the 
+chloroplast 
+carries 
+out 
+cyclic
+photophosphorylation to replenish the ATP levels. Cyclic electron flow
+takes photoexcited electrons on a short-circuit pathway. Electrons travel
+from the P680 electron transport chain to P700, to a primary electron
+acceptor, and then back to the cytochrome complex in the P680 electron
+transport chain. Cyclic photophosphorylation is shown in Figure 7.7.
+**

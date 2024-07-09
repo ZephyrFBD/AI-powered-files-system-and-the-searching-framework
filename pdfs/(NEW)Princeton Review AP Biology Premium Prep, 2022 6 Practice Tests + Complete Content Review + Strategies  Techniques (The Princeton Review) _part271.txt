@@ -1,0 +1,11 @@
+oints control cell cycle progression by regulating two families of proteins: cyclin-dependent
+kinases (CDKs) and cyclins. To induce cell cycle progression, an inactive CDK binds a regulatory cyclin. Once
+together, the complex is activated, can affect many proteins in the cell, and causes the cell cycle to continue. To
+inhibit cell cycle progression, CDKs and cyclins are kept separate. CDKs and cyclins were first studied in yeast,
+unicellular eukaryotic fungi. Budding yeast and fission yeast were good model organisms because they have only
+one CDK protein each and a few different cyclins. This relatively simple system allowed biologists to figure out
+how cell cycle progression is controlled. Their findings were then used to figure out how more complex eukaryotes
+(such as mammals) control the cell cycle.
+Cancer
+A cell losing control of the cell cycle can have disastrous consequences. For example, a mutation in a protein that
+normally controls progression through the cell cycle can result

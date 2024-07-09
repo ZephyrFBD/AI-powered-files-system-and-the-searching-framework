@@ -1,0 +1,15 @@
+tin; genes in these regions of the genome are not able to be expressed.
+The uncoiling of DNA in a region—which is partly controlled by histone proteins associated
+with DNA—produces less tightly packed euchromatin, allowing regulatory proteins to access
+genes in that region.
+ii. To allow for transcription after a region of DNA has been unpackaged, regulatory proteins, such
+as transcription factors, bind to the regulatory elements of the gene, thereby allowing access to the
+promoter by RNA polymerase.
+Some transcription factors bind directly to the promoter to assist the binding of RNA
+polymerase.
+Other transcription factors bind to DNA regions surrounding the gene, called enhancers, to
+further assist RNA polymerase binding.
+Once RNA polymerase binds to the promoter, transcription can occur.
+By controlling the synthesis and activity of transcription factors, a cell determines which
+gene will be expressed and when.
+iii. After transcription, opportunities for control of gene expression can

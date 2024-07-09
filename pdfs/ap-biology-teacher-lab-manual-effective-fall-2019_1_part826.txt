@@ -1,0 +1,13 @@
+at a good title is one that 
+tells exactly what information the author is trying to present with the graph. Although 
+brevity is desirable, it should not substitute for completeness and clarity. 
+Now that you are clear on titles, look at the graph in Figure A.5. Its title tells you that 
+here is some potentially useful information. The graph suggests that, at least for 2011, 
+there was an upper limit to the amount of time people could usefully spend in studying 
+for an exam, and you might wonder, for example, how long you would have had to study 
+to make a perfect score. 
+Figure A.5: Relation Between Study Time and Score on a Biology Exam in 2011 
+Unfortunately, however, you cannot tell, because the graph has no labels of numbers or 
+units the scales. Even though this graph has a descriptive and intriguing title, it is of no 
+use to us at all without these very important parts. Obviously, before we can take full 
+advantage of the information that the graph is trying to present, we need

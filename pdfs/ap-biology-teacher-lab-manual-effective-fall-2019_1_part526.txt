@@ -1,0 +1,37 @@
+t regulates 
+transcription of GFP. Bla is the gene 
+that codes for beta-lactamase, an 
+enzyme that confers resistance to 
+ampicillin by disabling ampicillin 
+molecules. “Ori” is the plasmid’s origin 
+of replication, and the arrows indicate 
+the direction of transcription and 
+translation. 
+In addition to genes for green fluorescent protein and resistance to ampicillin, the pGLO 
+plasmid has a special gene regulation system that switches on GFP production if the 
+sugar arabinose is present in the nutrient medium, and the bacteria glow when exposed 
+to UV light. This system is an example of an inducible operon. 
+INVESTIGATION 8
+T156 Investigation 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using the information above, ask students to construct a diagram of the arabinose 
+operon, showing the activity of the various components described in the presence of 
+arabinose, and then in the absence of the sugar. The following questions can guide their 
+thinking: 
+•  What evidence will indicate whether yo

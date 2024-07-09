@@ -1,0 +1,10 @@
+t it now contains fifty percent 14N. In
+subsequent cell divisions, an increasing amount of DNA contains 14N only. This data supports the semi-conservative
+replication model. (credit: modification of work by Mariana Ruiz Villareal)
+The E. coli culture was then shifted into medium containing 14N and allowed to grow for one generation. The cells were
+harvested and the DNA was isolated. The DNA was centrifuged at high speeds in an ultracentrifuge. Some cells were
+allowed to grow for one more life cycle in 14N and spun again. During the density gradient centrifugation, the DNA is
+loaded into a gradient (typically a salt such as cesium chloride or sucrose) and spun at high speeds of 50,000 to 60,000
+rpm. Under these circumstances, the DNA will form a band according to its density in the gradient. DNA grown in 15N will
+band at a higher density position than that grown in 14N. Meselson and Stahl noted that after one generation of growth in
+14N after they had been shifted from 15N, the single b

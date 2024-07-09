@@ -1,0 +1,27 @@
+e two randomly 
+selected gametes. In spreadsheet vernacular, you want to concatenate the values in the 
+two cells. In cell G5 enter the function =CONCATENATE(E5,F5), and then copy this 
+formula down as far down as you have gametes, as in Figure 5 on the next page. 
+INVESTIGATION 2
+S34  Investigation 2 
+ 
+ 
+Figure 5 
+The next columns on the sheet, H, I, and J, are used for bookkeeping — that is, 
+keeping track of the numbers of each zygote’s genotype. They are rather complex 
+functions that use IF functions to help us count the different genotypes of the zygotes. 
+The function in cell H5 is =IF(G5=“
+AA”
+,1,0), which basically means that if the value 
+in cell G5 is AA, then put a 1 in this cell; if not, then put a 0. 
+Enter the following very similar function in cell J5: =IF(G5=“BB”
+,1,0) 
+• Can you interpret this formula? 
+• What does it say in English? 
+Your spreadsheet now should resemble Figure 6. 
+Investigation 2 S35 
+  
+ 
+ 
+Figure 6 
+Now let’s tackle the nested IF function. This is

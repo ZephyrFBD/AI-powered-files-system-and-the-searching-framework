@@ -1,0 +1,15 @@
+like mRNA, which is broken down immediately after it is used, tRNA
+is used repeatedly. The energy for this process is provided by GTP
+(guanosine triphosphate), a molecule closely related to ATP. Each amino
+acid is joined to the correct tRNA by a specific enzyme called aminoacyl-
+tRNA synthetase. There are only 20 different aminoacyl-tRNA
+synthetases, one for each amino acid. There are 64 codons; 61 of them
+code for amino acids. One codon, AUG, has two functions; it codes for the
+amino acid methionine and is also a start codon. Three codons, UAA,
+UGA, and UAG, are stop codons and terminate translation. Some tRNA
+molecules have anticodons that can recognize two or more different
+codons. This occurs because the pairing rules for the third base of a codon
+are not as strict as they are for the first two bases. This relaxation of base
+pairing rules is known as wobble. For example, the codons UCU, UCC,
+UCA, and UCG all code for the amino acid serine.
+******ebook converter DEMO Watermarks*****

@@ -1,0 +1,23 @@
+is (C).
+7.
+B
+The first thing you need to do is sort out the alleles for each gene. Since the F1 generation had long
+phenotypes, you know these must be dominant to the short phenotypes. Let’s use:
+L = long leaves
+l = short leaves
+S = long shoots
+s = stubby shoots
+The parental cross must have been LLSS × llss, and all F1 plants were LlSs. The null hypothesis (H0) is
+that the two genes are segregating independently. This means the expected ratio of F2 phenotypes will be
+9LS:3Ls:3lS:1ls. Since 1,000 F2 plants were generated, you can expect:
+P(long leaves, long shoots) = P(LS phenotype) = 
+ × 1,000 = 562.5
+P(long leaves, stubby shoots) = P(Ls phenotype) = 
+ × 1,000 = 187.5
+P(short leaves, long shoots) = P(lS phenotype) = 
+ × 1,000 = 187.5
+P(short leaves, stubby shoots) = P(ls phenotype) = 
+ × 1,000 = 62.5
+Next, generate a chart:
+χ2 = 1,911.4 and degrees of freedom = # of possibilities – 1 = 4 – 1 = 3 (eliminate (C) and (D)). Using p =
+0.05, you get a critical value of 7.82. Since χ2 > CV, r

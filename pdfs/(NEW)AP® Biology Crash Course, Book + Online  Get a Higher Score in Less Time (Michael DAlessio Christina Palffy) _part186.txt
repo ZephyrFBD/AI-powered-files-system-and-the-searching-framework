@@ -1,0 +1,21 @@
+5.51
+0.01
+6.64
+9.32
+11.34
+13.28
+15.09
+16.81
+18.48
+20.09
+At 1 degree of freedom, the critical value for a p-value of 0.05 is 3.84. The calculated chi-square is
+above that, so the null hypothesis should be rejected. The p-value is less than 0.05.
+5. The correct answer is (B). All bacteria will grow if there is no antibiotic present (erythromycin).
+However, they would need the plasmid and the cellulose to produce insulin. If erythromycin is
+present, the plasmid would be necessary for them to grow. So, bacteria will grow on plates 1, 2, and 3.
+On plate 4, erythromycin will kill the bacteria and on plate 5, bacteria will grow, but will also produce
+insulin.
+6. (C) is correct. Any of the plates with bacteria that received the plasmid will contain the insulin gene,
+even if it is not expressed. So plates 2, 3, and 5 will all have the insulin gene.
+7. (A) is correct. During glycolysis, NAD+ acts as an oxidizing agent in order to oxidize glucose to
+pyruvate. When NAD+ is reduced, it becomes NADH

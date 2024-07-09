@@ -1,0 +1,11 @@
+ needs to be expressed will be transcribed. If you wanted to make a cake, but your
+cookbook couldn’t leave your vault (aka the nucleus), you wouldn’t copy the entire cookbook! You would copy
+only the recipe for the cake.
+Since each recipe is a gene, transcription occurs as-needed on a gene-by-gene basis.
+The exception to this is prokaryotes because they will transcribe a recipe that can be used to make several proteins.
+This is called a polycistronic transcript. Eukaryotes tend to have one gene that gets transcribed to one mRNA and
+translated into one protein. Our transcripts are monocistronic.
+Transcription involves three phases: initiation, elongation, and termination. As in DNA replication, the first
+initiation step in transcription is to unwind and unzip the DNA strands using helicase. Transcription begins at special
+sequences of the DNA strand called promoters. You can think of a promoter as a docking site or a runway. We will
+talk about how promoters are involved in regulating tr

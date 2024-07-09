@@ -1,0 +1,14 @@
+ need to use reverse transcriptase to make
+a DNA copy of their genetic material. Therefore, eukaryotic cells do not contain reverse transcriptase. A
+reverse transcriptase inhibitor would have few, if any, side effects on eukaryotic cells.
+(c) Retroviruses would be expected to have a higher mutation rate than that of DNA viruses.
+(d) One reason why a retrovirus would be expected to have a higher mutation rate than that of a DNA virus is
+because retroviruses use reverse transcriptase to copy their genome. Reverse transcriptase is less accurate
+and generates more mutations than DNA polymerase, which would lead to a higher mutation rate in
+retroviruses.
+12. (a) The function of ligase in DNA replication is to join the fragments created during replication of the lagging
+strand in DNA.
+(b) An appropriate control would be to conduct replication of the same DNA sequence without the presence of
+the ligase inhibitor.
+(c) The lagging strand of DNA would be most affected by a ligase inhibitor.
+(d) 

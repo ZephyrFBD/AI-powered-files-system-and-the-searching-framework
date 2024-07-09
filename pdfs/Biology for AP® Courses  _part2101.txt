@@ -1,0 +1,21 @@
+ematics is
+appropriate for students who have completed a second
+year of algebra. However, it is not illustrative of the type
+of item that could appear on the AP Biology Exam.
+The exposed rocks contain a radioactive isotope of
+rubidium, 87Rb, which decays into a stable isotope of
+strontium, 87Sr. An 87Rb atom with 37 protons and 50
+neutrons decays when a proton is converted into a neutron
+to produce an atom, 87Sr, with 36 protons and 51 neutrons.
+As time passed, the number of each isotope changed from
+its initial value. When a crystal containing 87Rb atoms
+formed from the molten surface of the hot, early Earth
+during the Hadean eon, the number of these atoms at that
+initial time can be represented as N87Rb,0. As time passed,
+the number of atoms of this isotope changed to N87Rb.
+C. Justify the relationship between the number of each
+isotope at any time and the number of each at the time that
+the molten rock solidified (denoted by the subscript 0):
+N87Sr = N87Sr, 0 + N87Rb, 0 −N87Rb
+762
+C

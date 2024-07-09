@@ -1,0 +1,15 @@
+e California condor, and (c) salmon. (credit a: modification of work by Neal Herbert, NPS; credit b: modification of
+work by Pacific Southwest Region USFWS; credit c: modification of work by Ingrid Taylar)
+Using the ratio of marked and unmarked individuals, scientists determine how many individuals are in the sample. From
+this, calculations are used to estimate the total population size. This method assumes that the larger the population, the lower
+the percentage of tagged organisms that will be recaptured since they will have mixed with more untagged individuals. For
+example, if 80 deer are captured, tagged, and released into the forest, and later 100 deer are captured and 20 of them are
+already marked, we can determine the population size (N) using the following equation:
+(number marked fir t catch x total number of second catch)
+number marked second catch
+ = N
+Using our example, the population size would be estimated at 400.
+(80 x 100)
+20
+ = 400
+Therefore, there are an estimated 400

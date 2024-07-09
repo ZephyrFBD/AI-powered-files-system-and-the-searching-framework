@@ -1,0 +1,11 @@
+f many diseases.
+Prokaryotic versus Eukaryotic Gene Expression
+To understand how gene expression is regulated, we must first understand how a gene codes for a functional protein in a
+cell. The process occurs in both prokaryotic and eukaryotic cells, just in slightly different manners.
+Prokaryotic organisms are single-celled organisms that lack a cell nucleus, and their DNA therefore floats freely in the cell
+cytoplasm. To synthesize a protein, the processes of transcription and translation occur almost simultaneously. When the
+resulting protein is no longer needed, transcription stops. As a result, the primary method to control what type of protein and
+how much of each protein is expressed in a prokaryotic cell is the regulation of DNA transcription. All of the subsequent
+steps occur automatically. When more protein is required, more transcription occurs. Therefore, in prokaryotic cells, the
+control of gene expression is mostly at the transcriptional level.
+Eukaryotic cells, in contras

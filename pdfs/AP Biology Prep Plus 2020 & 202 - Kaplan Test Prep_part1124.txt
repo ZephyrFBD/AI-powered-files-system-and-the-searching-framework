@@ -1,0 +1,36 @@
+ons.
+(D)
+59. Scientists are studying the use of inhibitors against non-kinase enzymes
+in an eﬀort to slow tumor growth. One class of enzymes of particular
+clinical interest includes the acetyltransferases, which are responsible for
+adding an acetyl group, a type of post-translational modification, onto
+other proteins.
+From which of the following experiments could scientists determine
+whether an inhibitor to acetyltransferase is competitive or
+noncompetitive?
+Adding increasing amounts of substrate to the enzyme to determine
+Vmax in the absence and presence of the inhibitor.
+(A)
+Changing the temperature in 10°C increments and measuring the
+enzymatic rate.
+(B)
+Varying the amount of enzyme when the inhibitor is present and
+measuring the Vmax.
+(C)
+Determining where the inhibitor binds on the substrate.
+(D)
+60. 
+State
+Activity
+Substrate binding
+DNA binding
+Non-phosphorylated
+++++
+++++
++
+Phosphorylated
++
+++++
+++++
+Table 1.
+Table 1 shows the enzymatic activity, substrate binding, and DNA bindi

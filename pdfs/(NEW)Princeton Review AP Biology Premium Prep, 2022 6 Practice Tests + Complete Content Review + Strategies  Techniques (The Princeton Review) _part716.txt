@@ -1,0 +1,18 @@
+at butterflies show no preference for either of the sides and the presence
+of the pheromone has no effect. The working hypothesis is that the females prefer the pheromones. If
+females cannot sense the chemicals, that would explain a possible reason the null hypothesis turns out to
+be true, but that is not the null hypothesis.
+54.
+B
+Chi-squared analysis can only prove something is unlikely; it cannot prove something is correct. There is
+one degree of freedom, but this is a fact and is not the conclusion of a chi-squared analysis. Standard
+deviation is a different statistical test.
+55.
+C
+The coding strand should always be the same as the mRNA except for the thymine in DNA and the uracil
+in RNA. mRNA is the complement of the template strand of DNA, not the coding strand.
+56.
+D
+Although the previous question showed that part of sequence 1 is a coding sequence, this does not mean it
+is more likely to be one than sequence 2. The two sequences differ by the composition of their sequences.
+Seq

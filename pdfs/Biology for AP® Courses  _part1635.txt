@@ -1,0 +1,14 @@
+ng and are
+600
+Chapter 15 | Genes and Proteins
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+called downstream nucleotides.
+Initiation of Transcription in Prokaryotes
+Prokaryotes do not have membrane-enclosed nuclei. Therefore, the processes of transcription, translation, and mRNA
+degradation can all occur simultaneously. The intracellular level of a bacterial protein can quickly be amplified by multiple
+transcription and translation events occurring concurrently on the same DNA template. Prokaryotic transcription often
+covers more than one gene and produces polycistronic mRNAs that specify more than one protein.
+Our discussion here will exemplify transcription by describing this process in Escherichia coli, a well-studied bacterial
+species. Although some differences exist between transcription in E. coli and transcription in archaea, an understanding of
+E. coli transcription can be applied to virtually all bacterial species.
+Prokaryotic RNA Polymerase

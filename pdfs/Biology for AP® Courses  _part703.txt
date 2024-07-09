@@ -1,0 +1,9 @@
+ mole of ATP in a living cell is almost double the value at standard conditions: -14 kcal/mol (−57 kJ/mol).
+ATP is a highly unstable molecule. Unless quickly used to perform work, ATP spontaneously dissociates into ADP + Pi, and
+the free energy released during this process is lost as heat. The second question posed above, that is, how the energy released
+by ATP hydrolysis is used to perform work inside the cell, depends on a strategy called energy coupling. Cells couple the
+exergonic reaction of ATP hydrolysis with endergonic reactions, allowing them to proceed. One example of energy coupling
+using ATP involves a transmembrane ion pump that is extremely important for cellular function. This sodium-potassium
+pump (Na+/K+ pump) drives sodium out of the cell and potassium into the cell (Figure 6.14). A large percentage of a cell’s
+ATP is spent powering this pump, because cellular processes bring a great deal of sodium into the cell and potassium out
+of the cell. The pump works constantly 

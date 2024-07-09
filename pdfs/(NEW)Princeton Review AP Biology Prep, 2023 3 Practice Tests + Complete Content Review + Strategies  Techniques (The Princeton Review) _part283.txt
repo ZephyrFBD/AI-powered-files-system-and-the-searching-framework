@@ -1,0 +1,17 @@
+. A researcher isolates DNA from different types of cells and determines the amount of DNA for each type of
+cell. The samples may contain cells in various stages of the cell cycle. Which of the following lists cell types in
+order, from the least amount of DNA to the greatest amount of DNA?
+(A) Sperm, neuron, liver
+(B) Ovum, muscle, taste bud
+(C) Liver, heart, intestine
+(D) Skin, neuron, ovum
+6. Which of the following mutations would be LEAST likely to have any discernible phenotype on the
+individual?
+(A) Translocation of the last 1,000 base pairs of chromosome 1 onto chromosome 2
+(B) Nondisjunction of chromosome 7 to produce trisomy-7
+(C) Nondisjunction of chromosome 8 to produce monosomy-8
+(D) Deletion of 400 base pairs, resulting in the loss of an enhancer
+Summary
+Sometimes cells do not need to pass any molecules through the membrane, but instead they just pass a message.
+This is signal transduction. A ligand binds to a receptor on the outside of the cell and causes changes to the
+in

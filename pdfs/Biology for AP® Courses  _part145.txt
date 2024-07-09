@@ -1,0 +1,14 @@
+sed to easily calculate how many neutrons an element has by simply subtracting the number of protons from the
+mass number. Since an element’s isotopes will have slightly different mass numbers, scientists also determine the atomic
+mass, which is the calculated mean of the mass number for its naturally occurring isotopes. Often, the resulting number
+contains a fraction. For example, the atomic mass of chlorine (Cl) is 35.45 because chlorine is composed of several isotopes,
+some (the majority) with atomic mass 35 (17 protons and 18 neutrons) and some with atomic mass 37 (17 protons and 20
+neutrons).
+44
+Chapter 2 | The Chemical Foundation of Life
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 2.3 Carbon has an atomic number of six, and two stable isotopes with mass numbers of twelve and
+thirteen, respectively. Its relative atomic mass is 12.011.
+How many neutrons do carbon-12 and carbon-13 have, respectively?
+a.
+Carbon-12 contains 6 neutrons while c

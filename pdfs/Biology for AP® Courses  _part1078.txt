@@ -1,0 +1,21 @@
+ing mechanisms. Yeasts use cell-surface receptors and signaling
+cascades to communicate information on mating with other yeast cells. The signaling molecule secreted by yeasts is called
+mating factor.
+Bacterial signaling is called quorum sensing. Bacteria secrete signaling molecules called autoinducers that are either small,
+hydrophobic molecules or peptide-based signals. The hydrophobic autoinducers, such as AHL, bind transcription factors
+and directly affect gene expression. The peptide-based molecules bind kinases and initiate signaling cascades in the cells.
+REVIEW QUESTIONS
+1. Which of the following properties prevents the ligands
+of cell-surface receptors from entering the cell?
+a.
+The molecules bind to the extracellular domain.
+b.
+The molecules are hydrophilic and cannot
+penetrate the hydrophobic interior of the plasma
+membrane.
+c.
+The molecules are attached to transport proteins
+that deliver them through the bloodstream to
+target cells.
+d.
+The ligands are able to penetrate the 

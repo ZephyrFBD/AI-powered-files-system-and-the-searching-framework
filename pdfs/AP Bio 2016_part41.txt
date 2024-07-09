@@ -1,0 +1,138 @@
+Metric Prefixes 
+Factor
+Prefix
+Symbol
+109
+giga
+G
+106
+mega
+M
+103
+kilo
+k
+10–2
+centi
+c
+10–3
+milli
+m
+10–6
+micro
+μ 
+10–9
+nano
+n
+10–12
+pico
+p
+Statistical Analysis and Probability 
+Mean
+ 
+ 
+ 
+ 
+ 
+ 
+1
+1
+n
+i
+i
+x
+x
+n
+=
+= Â
+ 
+ 
+Standard Deviation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+(
+)
+1
+x
+x
+i
+s
+n
+-
+Â
+=
+-
+ 
+ 
+ 
+ 
+Standard Error of the Mean 
+x
+s
+SE
+n
+=
+ 
+Chi-Square 
+(
+)2
+2
+o
+e
+e
+c
+-
+= Â
+ 
+Chi-Square Table
+p 
+value
+Degrees of Freedom
+1
+2
+3
+4
+5
+6
+7
+8
+0.05
+3.84
+5.99
+7.82
+9.49
+11.07
+12.59
+14.07
+15.51
+0.01
+6.64
+9.21
+11.34
+13.28
+15.09
+16.81
+18.48
+20.09
+Laws of Probability 
+If A and B are mutually exclusive, then:  
+P(A or B) = P(A) + P(B) 
+If A and B are independent, then:  
+P(A and B) = P(A) ¥  P(B) 
+Hardy-Weinberg Equations 
+p2 + 2pq + q2 = 1 
+p = frequency of the dominant allele 
+in a population 
+p + q = 1 
+q = frequency of the recessive allele 
+in a population 
+Mode = value that occurs most frequently in a data set 
+Median = middle value that separates the greater and lesser halves of a data set 
+Mean = sum of all

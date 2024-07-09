@@ -1,0 +1,13 @@
+nase) binds a regulatory cyclin.
+Once together, the complex is activated, can affect many proteins in the cell, and causes the cell cycle to
+continue. To do this, the CDK transfers phosphate groups onto other molecules. If there are inadequate
+phosphate groups, CDK would not function properly and the cell cycle would not progress, which rules
+out (A). Tumor suppressor proteins inhibit cell cycle progression and can trigger apoptosis, which rules
+out (B). To inhibit cell cycle progression, CDKs and cyclins are kept separate. Together, they promote the
+cell cycle. If a cyclin is unable to release from its cyclin dependent kinase, the cell cycle would be
+promoted, not stopped, making (C) correct. Choice (D) could’ve been eliminated because an inhibitor of a
+cyclin gene would prevent expression of the cyclin gene. With lower levels of the cyclin protein, cell
+cycle progression would be inhibited.
+52.
+B
+Because neurons are not capable of dividing, it is reasonable to conclude that these cel

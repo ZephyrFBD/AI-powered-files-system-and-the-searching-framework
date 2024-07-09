@@ -1,0 +1,16 @@
+concentration of oxygen in the lungs than is found in the air outside the body.
+Knowing the RQ, the partial pressure of oxygen in the alveoli can be calculated:
+alveolar PO2 = inspired PO2 − (
+alveolar PO2
+RQ
+)
+With an RQ of 0.8 and a PCO2 in the alveoli of 40 mm Hg, the alveolar PO2 is equal to:
+alveolar PO2 = 150 mm Hg − (40 mm Hg
+0.8
+) = mm Hg.
+Notice that this pressure is less than the external air. Therefore, the oxygen will flow from the inspired air in the lung ( PO2
+= 150 mm Hg) into the bloodstream ( PO2 = 100 mm Hg) (Figure 30.13).
+In the lungs, oxygen diffuses out of the alveoli and into the capillaries surrounding the alveoli. Oxygen (about 98 percent)
+binds reversibly to the respiratory pigment hemoglobin found in red blood cells (RBCs). RBCs carry oxygen to the tissues
+where oxygen dissociates from the hemoglobin and diffuses into the cells of the tissues. More specifically, alveolar PO2
+is higher in the alveoli ( PALVO 2 = 100 mm Hg) than blood PO2 (40 mm Hg) in the capi

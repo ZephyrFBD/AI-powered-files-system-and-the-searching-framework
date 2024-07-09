@@ -1,0 +1,9 @@
+ehind. So at rest, there is a large concentration gradient for Na+ to enter the cell, and
+there is an accumulation of negative charges left behind in the cell. This is the resting membrane potential. Potential in this
+context means a separation of electrical charge that is capable of doing work. It is measured in volts, just like a battery.
+However, the transmembrane potential is considerably smaller (0.07 V); therefore, the small value is expressed as millivolts
+(mV) or 70 mV. Because the inside of a cell is negative compared with the outside, a minus sign signifies the excess of
+negative charges inside the cell, −70 mV.
+If an event changes the permeability of the membrane to Na+ ions, they will enter the cell. That will change the voltage. This
+is an electrical event, called an action potential, that can be used as a cellular signal. Communication occurs between nerves
+and muscles through neurotransmitters. Neuron action potentials cause the release of neurotransmitters from the syna

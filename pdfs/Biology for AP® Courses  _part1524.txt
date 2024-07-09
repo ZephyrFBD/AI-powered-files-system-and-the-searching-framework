@@ -1,0 +1,11 @@
+e 5' to 3' direction. DNA polymerase recognizes the 3'-OH end as its landing site; thus,
+polymerase “reads” the template strand in the 3' to 5' direction and builds the complementary DNA polymer in the 5' to 3'
+direction. One strand—called the leading strand—is synthesized continuously in the direction of the replication fork (the
+direction in which helicase is separating the two strands), with polymerase adding new nucleotides one-by-one. However,
+562
+Chapter 14 | DNA Structure and Function
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+replication of the other strand—called the lagging strand—occurs in a direction away from the replication fork, in short
+stretches of DNA known as Okazaki fragments. (Think of the activities on the lagging strand as analogous to trying to walk
+on a moving sidewalk that is moving in the opposite direction.) The RNA primers are replaced by DNA nucleotides, and
+ligase seals the DNA, creating phosphodiester bonds between th

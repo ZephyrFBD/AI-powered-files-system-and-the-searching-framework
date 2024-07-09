@@ -1,0 +1,93 @@
+ in Actin Genes
+Yeast
+Soybean
+Maize
+Fruit
+Fly
+Sea
+Urchin
+Rat
+Skeletal
+Muscle
+Human
+Cardiac
+Muscle
+Yeast
+17.7
+18.7
+10.9
+11.6
+11.6
+11.8
+Soybean
+17.7
+10.3
+14.5
+13.3
+13.6
+13.7
+Maize
+18.7
+10.3
+14.8
+12.2
+13.9
+14.1
+Fruit Fly
+10.9
+14.5
+14.8
+5.0
+6.0
+5.8
+Adapted from Robin C. Hightower and Richard B. Meagher, “The Molecular Evolution of Actin,” Genetics
+114, no. 1 (September 1986): 315–332.
+Percent of Nucleotide Substitutions in Actin Genes
+Yeast
+Soybean
+Maize
+Fruit
+Fly
+Sea
+Urchin
+Rat
+Skeletal
+Muscle
+Human
+Cardiac
+Muscle
+Sea
+Urchin
+11.6
+13.3
+12.2
+5.0
+5.5
+5.5
+Rat
+Skeletal
+Muscle
+11.6
+13.6
+13.9
+6.0
+5.5
+0.57
+Human
+Cardiac
+Muscle
+11.8
+13.7
+14.1
+5.8
+5.5
+0.57
+Based on the data, was the reclassification of Fungi as a distinct
+kingdom appropriate?
+The classification should have been revised because yeast
+are more closely related to maize than to humans.
+(A)
+The classification should not have been revised because
+yeast are more closely related to soybeans than to animals.
+(B)
+The classification should ha

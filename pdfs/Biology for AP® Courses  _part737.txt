@@ -1,0 +1,12 @@
+ chemical reactions, and this
+change is referred to as ∆G.
+The ∆G of a reaction can be negative or positive, meaning that the reaction releases energy or consumes energy,
+respectively. A reaction with a negative ∆G that gives off energy is called an exergonic reaction. One with a positive ∆G
+that requires energy input is called an endergonic reaction. Exergonic reactions are said to be spontaneous, because their
+products have less energy than their reactants. The products of endergonic reactions have a higher energy state than the
+reactants, and so these are nonspontaneous reactions. However, all reactions (including spontaneous –∆G reactions)
+require an initial input of energy in order to reach the transition state, at which they’ll proceed. This initial input of energy
+is called the activation energy.
+6.3 The Laws of Thermodynamics
+In studying energy, scientists use the term “system” to refer to the matter and its environment involved in energy transfers.
+Everything outside of the sy

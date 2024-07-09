@@ -1,0 +1,21 @@
+0.9
+C
+14
+1.1
+The data from each location were plotted with 95% confidence intervals (calculated as follows). Figure 2.2
+shows the graph of this data.
+Location A:
+Upper limit of 95% CI = 8 + 2(1.5) = 11
+Lower limit of 95% CI = 8 – 2(1.5) = 5
+Location B:
+Upper limit of 95% CI = 11 + 2(0.9) = 12.8
+Lower limit of 95% CI = 11 – 2(0.9) = 9.2
+Location C:
+Upper limit of 95% CI = 14 + 2(1.1) = 16.2
+Lower limit of 95% CI = 14 – 2(1.1) = 11.8
+Figure 2.2 Mean Number of Crustaceans per 100 cm2 in Three Locations in the Salt Marsh
+Which of the two locations are most likely to have a statistically significant difference in the number of
+crustaceans found per 100 cm2? The answer is that locations A and C would most likely have statistically significant
+differences because the 95% confidence intervals for locations A and C do not overlap. The 95% confidence
+intervals for locations A and B do overlap, so it is not possible to make any conclusions about statistically
+significant differences between those

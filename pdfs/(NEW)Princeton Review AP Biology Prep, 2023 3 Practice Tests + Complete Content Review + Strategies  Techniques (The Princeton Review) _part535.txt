@@ -1,0 +1,16 @@
+
+Crossing the pea plant that is heterozygous for both traits (TtGg) with a plant that is recessive for both traits
+(ttgg) results in the following possible combinations, each of which should occur 25 percent of the time: TtGg
+(tall and green), Ttgg (tall and yellow), ttGg (short and green), and ttgg (short and yellow). Using the rules of
+probability, there is a 1/2 likelihood of it being tall and also a 1/2 likelihood of it being yellow. Multiply them
+together to get 1/4.
+4.
+C
+Because the woman is a carrier, she must have one normal copy of the X chromosome and one diseased copy.
+Since the boy will receive an X chromosome from his mother, there is a 50 percent chance that he will receive
+a diseased copy. Because he doesn’t have a second X chromosome, he must have the disease if he receives the
+diseased X chromosome.
+5.
+D
+They both must have a normal copy of the X chromosome. It is possible that the woman may be affected with
+hemophilia; however, that scenario is extremely unlikely beca

@@ -1,0 +1,12 @@
+p of certain amino acid R groups (residues). This unique
+environment is perfectly suited to convert particular chemical reactants for that enzyme, called substrates, into unstable
+intermediates called transition states. Enzymes and substrates are thought to bind with an induced fit, which means that
+enzymes undergo slight conformational adjustments upon substrate contact, leading to full, optimal binding. Enzymes bind
+to substrates and catalyze reactions in four different ways: bringing substrates together in an optimal orientation,
+Chapter 6 | Metabolism
+269
+compromising the bond structures of substrates so that bonds can be more easily broken, providing optimal environmental
+conditions for a reaction to occur, or participating directly in their chemical reaction by forming transient covalent bonds
+with the substrates.
+Enzyme action must be regulated so that in a given cell at a given time, the desired reactions are being catalyzed and the
+undesired reactions are not. Enzymes are regu

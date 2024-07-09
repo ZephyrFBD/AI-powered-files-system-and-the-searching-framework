@@ -1,0 +1,9 @@
+s begins the neuron's refractory period, in which it cannot produce another action potential
+because its sodium channels will not open. At the same time, voltage-gated K+ channels open, allowing K+ to leave the cell.
+As K+ ions leave the cell, the membrane potential once again becomes negative. The diffusion of K+ out of the cell actually
+hyperpolarizes the cell, in that the membrane potential becomes more negative than the cell's normal resting potential. At
+this point, the sodium channels will return to their resting state, meaning they are ready to open again if the membrane
+potential again exceeds the threshold potential. Eventually the extra K+ ions diffuse out of the cell through the potassium
+leakage channels, bringing the cell from its hyperpolarized state, back to its resting membrane potential.
+Figure 26.11 The formation of an action potential can be divided into five steps: (1) A stimulus from a sensory
+cell or another neuron causes the target cell to depolarize toward the t

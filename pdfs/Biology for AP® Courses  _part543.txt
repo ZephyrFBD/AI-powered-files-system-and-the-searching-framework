@@ -1,0 +1,12 @@
+org/content/col12078/1.6
+How Viruses Infect Specific Organs
+Glycoprotein and glycolipid patterns on the surfaces of cells give many viruses an opportunity for infection.
+HIV and hepatitis viruses infect only specific organs or cells in the human body. HIV is able to penetrate
+the plasma membranes of a subtype of lymphocytes called T-helper cells, as well as some monocytes and
+central nervous system cells. The hepatitis virus attacks liver cells.
+These viruses are able to invade these cells, because the cells have binding sites on their surfaces that are
+specific to and compatible with certain viruses (Figure 5.6). Other recognition sites on the virus’s surface
+interact with the human immune system, prompting the body to produce antibodies. Antibodies are made
+in response to the antigens or proteins associated with invasive pathogens, or in response to foreign cells,
+such as might occur with an organ transplant. These same sites serve as places for antibodies to attach and
+either destro

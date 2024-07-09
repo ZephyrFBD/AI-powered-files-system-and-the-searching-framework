@@ -1,0 +1,17 @@
+ts (wings, gills, etc.), in this
+investigation you will use DNA evidence to establish the similarity among
+diﬀerent organisms.
+17.3 Investigate evolutionary changes with cladograms
+Locating and sequencing genes in diﬀerent organisms not only helps us
+to better understand evolutionary relationships among organisms, but it
+can also provide important insights into genetic diseases. Species with
+smaller genomes, such as the fruit fly and mouse, are easier for scientists
+to study than humans. When scientists locate a disease-causing gene in a
+fruit fly or mouse, they can then use BLAST to see if there is a similar
+sequence in the human genome.
+Using BLAST requires several specific steps and an abundance of
+information, none of which you need to memorize for the AP Biology
+exam. Rather, you should be able to apply similarities and diﬀerences in
+morphology and genetics to determine the evolutionary relationships
+between diﬀerent species. Drawing and analyzing cladograms (as well as
+phylogenet

@@ -1,0 +1,9 @@
+tocrine signals are produced by signaling cells that can also bind to the ligand that is released. This means the signaling
+cell and the target cell can be the same or a similar cell (the prefix auto- means self, a reminder that the signaling cell sends a
+signal to itself). This type of signaling often occurs during the early development of an organism to ensure that cells develop
+into the correct tissues and take on the proper function. Autocrine signaling also regulates pain sensation and inflammatory
+responses. Further, if a cell is infected with a virus, the cell can signal itself to undergo programmed cell death, killing
+the virus in the process. In some cases, neighboring cells of the same type are also influenced by the released ligand. In
+embryological development, this process of stimulating a group of neighboring cells may help to direct the differentiation
+of identical cells into the same cell type, thus ensuring the proper developmental outcome.
+Direct Signaling Across Gap 

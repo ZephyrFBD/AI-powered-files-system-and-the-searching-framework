@@ -1,0 +1,21 @@
+ free at http://cnx.org/content/col12078/1.6
+Figure 19.15 A biologist is using a simulation to model
+populations of African hornbills (Bycanistes spp. and
+Ceratogymna spp.), a keystone species of the savanna.
+Populations of the birds are declining due to habitat loss.
+The hornbill’s diet consists primarily of termites and fruit.
+A critical component of termite digestion is chitin
+deacetylase, an enzyme whose mutation rate is a model
+parameter. The other model parameter is population size,
+N. In the results of the simulation study shown above,
+there is no selection, and the mutation rate is fixed.
+Although both population size and mutation rate are fixed,
+randomness results in the five different outcomes shown in
+each graph above.
+A. Select the graph displaying the results that are closer to
+Hardy-Weinberg equilibrium. Justify the selection of the
+graph.
+B. Based on these simulations, predict the future
+heterozygosity, 2pq, of the smaller populations, as shown
+in graph A.
+C. Justify the

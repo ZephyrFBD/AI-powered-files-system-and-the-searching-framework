@@ -1,0 +1,18 @@
+fault whereas the lac operon
+is repressible and is OFF by default.
+b.
+The trp operon synthesizes tryptophan which is essential for the cell and therefore remains ON, whereas the
+lac operon synthesizes enzymes for the breakdown of a sugar that is not always available and remains OFF
+by default.
+c.
+The trp operon is constitutive and remains ON by default, whereas the lac operon is repressible and therefore
+is OFF by default.
+d.
+The lac operon undergoes transcriptional attenuation and therefore is OFF by default, whereas the trp operon
+is not regulated by any such mechanism and is ON by default.
+If glucose is absent, then CAP can bind to the operator sequence to activate transcription. If lactose is absent, then the
+repressor binds to the operator to prevent transcription. If either of these requirements is met, then transcription remains off.
+Chapter 16 | Gene Regulation
+643
+Only when both conditions are satisfied is the lac operon transcribed (Table 16.2).
+Signals that Induce or Repress

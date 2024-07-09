@@ -1,0 +1,13 @@
+ – 1 = 1.
+3. Using a df of 1 and a p-value of 0.05, the critical value is 3.84 according to the chi-square table.
+4. Compare your calculated chi-square value to the critical value. The calculated chi-square value (6.40) is
+greater than the critical value (3.84).
+5. Decide whether to reject the null hypothesis or whether you fail to reject the null hypothesis. In this example,
+you should reject the null hypothesis because the calculated chi-square value is greater than the critical value.
+Since the null hypothesis is rejected, you can then come up with an alternative hypothesis—for example,
+perhaps this is a “trick coin”!
+Descriptive Statistics
+Descriptive statistics are used to describe data sets. There are descriptive statistics that describe the center of a data
+set, and other descriptive statistics describe the amount of variability or spread of a data set.
+The mean and median can be used to characterize the center of a data set. Thus, the mean and median are
+sometimes referred to a

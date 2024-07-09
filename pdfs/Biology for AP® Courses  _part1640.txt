@@ -1,0 +1,10 @@
+te and
+liberate the newly made mRNA. Depending on the gene being transcribed, there are two kinds of termination signals. One
+is protein-based and the other is RNA-based. Rho-dependent termination is controlled by the rho protein, which tracks
+along behind the polymerase on the growing mRNA chain. Near the end of the gene, the polymerase encounters a run of
+G nucleotides on the DNA template and it stalls. As a result, the rho protein collides with the polymerase. The interaction
+with rho releases the mRNA from the transcription bubble.
+Rho-independent termination is controlled by specific sequences in the DNA template strand. As the polymerase nears
+the end of the gene being transcribed, it encounters a region rich in C–G nucleotides. The mRNA folds back on itself, and
+the complementary C–G nucleotides bind together. The result is a stable hairpin that causes the polymerase to stall as soon
+as it begins to transcribe a region rich in A–T nucleotides. The complementary U–A region of the

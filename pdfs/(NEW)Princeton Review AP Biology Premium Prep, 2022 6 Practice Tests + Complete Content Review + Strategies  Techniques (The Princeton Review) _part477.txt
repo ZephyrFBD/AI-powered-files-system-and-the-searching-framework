@@ -1,0 +1,15 @@
+es (a) divided by the total number of possible cases (n).
+P = 
+This can be determined experimentally by observation (such as when population data is being collected) or by the
+nature of the event. For example, the probability of getting a two when rolling a die is 1/6, since there are six sides
+on a die.
+Example: What is the probability of drawing the nine of hearts from a deck of cards?
+Solution: Since there are 52 cards in a deck and this question is asking about one particular card, P = 1/52.
+Combining Probabilities
+Many genetics problems involve several probabilities, all being considered together to answer a larger biological
+question. There are three rules that are often used.
+Product Rule
+The product rule is used for independent events and is also called the “AND rule.” The probability of independent
+events occurring together is the product of their separate probabilities. This rule is used when the order of the events
+matters.
+Example: What is the probability of drawing a heart

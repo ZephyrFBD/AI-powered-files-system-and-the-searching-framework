@@ -1,0 +1,12 @@
+NA—This separates the two strands of the double helix. It is usually done at a high
+temperature.
+2. Annealing of the primers—Once the DNA strands have been separated, the temperature is lowered slightly,
+and primers that are complementary to the desired DNA sequence are allowed to anneal (form hydrogen
+bonds with) the beginning and end of the fragment of the DNA sequence that is to be amplified.
+3. Extension of the primers—DNA polymerase then adds new nucleotides to the primers, creating two copies
+of the desired DNA sequence. A heat-stable DNA polymerase is used for this step so that it will not be
+denatured during the rise in temperature with each cycle of PCR.
+Each cycle of PCR doubles the number of copies of the desired DNA sequence. The number of copies of the
+DNA sequence produced at the end of PCR is equal to 2n, where n is the number of cycles of PCR completed. After
+just 20 cycles of PCR, over one million copies of the DNA sequence can be generated.
+PCR can also be used to rap

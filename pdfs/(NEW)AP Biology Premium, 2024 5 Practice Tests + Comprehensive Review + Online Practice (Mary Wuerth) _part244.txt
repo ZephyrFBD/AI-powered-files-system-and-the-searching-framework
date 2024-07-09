@@ -1,0 +1,12 @@
+t (c).
+12. An experiment is performed to measure how different cell types respond to a hormone that causes cells to
+absorb glucose from their environment. Four different cell types (A, B, C, and D) are used. At the start of this
+experiment, there are eight Petri dishes, each of which contains 100 millimolar glucose solution. Two dishes
+each contain cell type A, two dishes contain cell type B, two dishes contain cell type C, and the final two dishes
+contain cell type D, as illustrated in the following figure.
+The hormone is added to four of the Petri dishes, one of each cell type. Glucose levels are measured in all eight
+Petri dishes 30 minutes after the addition of the hormone, and those glucose levels are listed in the following
+table.
+(a) Describe the most likely reason why cell types C and D did not respond to the presence of the hormone.
+(b) Identify the function of Petri dishes 1, 3, 5, and 7 in the experimental procedure.
+(c) A molecule is added to Petri dish 4 before the hormone

@@ -1,0 +1,11 @@
+ncy of the Aa genotype would increase over time and the frequencies of the AA and aa genotypes would
+both decrease.
+7. (D) The five conditions that are necessary for Hardy-Weinberg equilibrium are large population size, random
+mating, no selection of any kind, no gene flow, and no mutations. Choice (A) is incorrect because large
+populations, not small populations, are necessary for Hardy-Weinberg equilibrium. Migration (or gene flow)
+also violates one of the conditions necessary for Hardy-Weinberg equilibrium, so choice (B) is incorrect. Choice
+(C) is incorrect because in order for a population to be in Hardy-Weinberg equilibrium, no selection can occur.
+8. (A) If 21% of the population has the recessive phenotype, q2 = 0.21 and q = 0.458. Since p + q = 1, p = 1 –
+0.458 = 0.542. The frequency of homozygous dominant individuals is p2 = (0.542)2 = 0.29, or 29%. Choice (B)
+is the frequency of the recessive allele and is incorrect. Choice (C) is incorrect because 54% is the frequency of
+the

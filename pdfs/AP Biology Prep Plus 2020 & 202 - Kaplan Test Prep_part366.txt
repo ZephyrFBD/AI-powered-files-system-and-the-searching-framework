@@ -1,0 +1,39 @@
+s a measure of substrate
+specificity that indicates the strength of preference for a particular
+enzyme. Data for both cofactors are shown below.
+Adapted from M. Fuentealba et al., “Determinants of Cofactor Specificity for the Glucose-6-Phosphate
+Dehydrogenase from Escherichia coli: Simulation, Kinetics and Evolutionary Studies,” PLoS ONE 11, no. 3
+G6PDH
+Type
+NADP+
+NAD+
+KM (μM)
+kcat/KM (μM–1s–
+1)
+KM (μM)
+kcat/KM (μM–1s–
+1)
+Wild type
+7.5 ± 0.8
+23.2 ± 2.4
+5090 ± 400
+0.06 ± 4×10–3
+Mutant
+17696 ±
+1453
+0.01 ± 9×10–4
+11736 ±
+804
+0.01 ± 7×10–4
+(March 2016): e0152403.
+Based on the data in the table, which of the following statements
+is true?
+The wild type enzyme works less eﬀiciently with NAD+ than
+the mutant enzyme. With this cofactor, it reaches the
+maximum velocity at a much higher substrate concentration
+than the mutant enzyme and also has higher substrate
+specificity.
+(A)
+The wild type enzyme works more eﬀiciently with NAD+ than
+the mutant enzyme. With this cofactor, it reaches the
+maximum

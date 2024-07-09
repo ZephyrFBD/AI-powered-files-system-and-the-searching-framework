@@ -1,0 +1,60 @@
+ean
+outliers
+standard deviation
+standard error
+nonparametric data
+histogram, or frequency diagram
+median
+mode
+range
+hypothesis
+independent variable
+dependent variable
+constants (controlled variables)
+control groups
+statistical significance
+time-course experiment
+line graph
+comparative experiments
+bar graph
+box-and-whisker plot
+association experiments
+scatterplot
+probability
+product rule
+sum rule
+t-test
+p-value
+chi-square test
+null hypothesis
+critical value
+degrees of freedom
+Chapter 12 Drill
+Answers and explanations can be found in Chapter 15.
+1. Five subjects were weighed before and after an 8-week exercise program. What is the average amount of
+weight lost in pounds for all five subjects, rounded to the nearest pound?
+Subject
+Starting Weight (pounds)
+Final Weight (pounds)
+1
+184
+176
+2
+200
+190
+3
+221
+225
+4
+235
+208
+5
+244
+225
+(A) 12 pounds
+(B) 13 pounds
+(C) 14 pounds
+(D) 15 pounds
+2. The height of six trees is measured. Is plant 6 taller than the median for all six trees?
+Plant
+Height (in

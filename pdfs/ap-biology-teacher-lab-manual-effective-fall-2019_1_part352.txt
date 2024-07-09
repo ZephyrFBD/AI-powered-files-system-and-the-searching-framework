@@ -1,0 +1,20 @@
+ 
+ 
+Figure 1. Disks Floating 
+The following method of data collection is suggested for students, although others 
+work as well. In this case, the disks floating are counted at the end of each time interval. 
+The median is chosen over the mean as the summary statistic. For most student work, 
+the median will generally provide a better estimate of the central tendency of the data 
+because, on occasion, a disk fails to rise or takes a very long time to do so. Consequently, 
+for this sample, the median time for five disks to rise is somewhere between 11 and 12 
+minutes. A term coined by G. L Steucek and R. J Hill (1985) for this relationship is ET50, 
+the estimated time for 50% of the disks to rise. That is, rate is a change in a variable over 
+time. The time required for 50% of the leaf disks to float is represented as Effective Time 
+= ET50. 
+Figure 2 is a sample graph of a photosynthesis light response curve utilizing the ET50 
+concept. 
+Photosynthesis vs. Light Intensity 
+50 
+20 
+15 
+1

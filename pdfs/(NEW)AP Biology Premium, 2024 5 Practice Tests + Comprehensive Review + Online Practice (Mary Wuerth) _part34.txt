@@ -1,0 +1,18 @@
+:
+➜
+What Is a Null Hypothesis?
+➜
+Chi-Square Test
+➜
+Descriptive Statistics
+Overview
+Scientists make hypotheses and then design experiments to test these hypotheses. Data are gathered during these
+experiments and then analyzed. Scientists use these analyses to draw conclusions about the data. An important tool
+in data analysis is statistics. Statistical tests are used to evaluate hypotheses. Descriptive statistics describe data sets.
+This chapter will review some of the statistical tests and descriptive statistics you need to understand for the AP
+Biology course and exam.
+What Is a Null Hypothesis?
+The null hypothesis (H0) states that there is no statistically significant difference between two groups in an
+experiment. For example, a student designs an experiment to see if plants watered with bottled water will exhibit
+more growth than plants watered with tap water. The null hypothesis for this experiment would be that there will be
+no statistically significant difference in plant growth

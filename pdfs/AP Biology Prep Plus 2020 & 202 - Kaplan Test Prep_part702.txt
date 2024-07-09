@@ -1,0 +1,19 @@
+ividuals observed to have a specific
+phenotype and e is the number of individuals expected to have that
+particular phenotype.
+All of this mathematical problem solving might seem intimidating, but it
+is essential for real-world biology practice and for the AP Biology exam.
+You can take a deep breath, though; all of these formulas will be provided
+to you on your exam. You will not be required to memorize these
+equations and formulas.
+AP Biology Lab 2:
+Mathematical Modeling:
+Hardy-Weinberg
+Investigation
+This lab is easy to perform, but it causes confusion for some students
+because it involves quantitative and analytical skills. In this investigation,
+you will develop a mathematical model to investigate the relationship
+between allele frequencies in populations of organisms. You will use a
+spreadsheet to build a model based on the Hardy-Weinberg relationship
+to determine how allele frequencies change from one generation to the
+next. This model will help you to see how selection, mutation, 

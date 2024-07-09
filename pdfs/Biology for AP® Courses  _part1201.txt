@@ -1,0 +1,65 @@
+n
+2.
+p53
+3.
+p21
+4.
+CHK2
+b.
+1.
+p53
+2.
+p21
+3.
+CHK2
+4.
+cell cycle progression
+c.
+1.
+p21
+2.
+p53
+3.
+CHK2
+4.
+cell cycle progression
+d.
+1.
+CHK2
+2.
+p53
+3.
+p21
+4.
+cell cycle progression
+42.
+The insulin growth factor (IGF-1) promotes cell
+proliferation as shown in the diagram. The expression of
+which protein in the diagram is controlled through
+negative feedback?
+a.
+active Cdk4
+b.
+Cyclin D1
+c.
+Cyclin D1/Cdk4 complex
+d.
+IGF-1
+43. Explain why p53, p21, and CHK2 are considered
+tumor suppressor genes, not proto-oncogenes. Give an
+example of a proto-oncogene.
+a.
+p53, p21, and CHK2 suppress the proteins that
+regulate the cell cycle, whereas proto-
+oncogenes, like phosphorylated Rb, help in cell
+cycle progression.
+b.
+p53, p21, and CHK2 are negative cell cycle
+regulators, whereas Cdks are proto-oncogenes,
+which could cause cancer when mutated.
+c.
+p53, p21, and CHK2 suppress the proteins that
+regulate the cell cycle, whereas Rb is considered
+a proto-oncogene, as it is the most primitive
+d.
+The three prot

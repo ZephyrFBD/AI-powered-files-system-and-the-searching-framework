@@ -1,0 +1,17 @@
+ features to know about electron transport:
+i.
+Occurs in the mitochondria and is similar to the ETC of photosynthesis.
+ii. NADH and FADH2 deliver electrons and pass them to a series of electron acceptors as these
+electrons move toward the final electron acceptor, O2.
+iii. This passage of electrons within the mitochondria is accompanied by a proton gradient that
+facilitates the electrons’ movement down the ETC.
+iv. In the ETC, no direct ATP is made; it must be coupled to oxidative phosphorylation via
+chemiosmosis (or the diffusion of H+ ions across the membrane).
+Cellular respiration produces a total of 38 ATP.
+III.
+Fermentation
+A. Glycolysis is the first step of both aerobic respiration and fermentation.
+1. Two of the end products of glycolysis, pyruvic acid and NADH, can be processed anaerobically in the
+cytoplasm of certain cells.
+2. The second step of fermentation does not produce ATP directly.
+3. Rather, it generates NAD+, which is required to keep glycolysis running and producing 

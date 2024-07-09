@@ -1,0 +1,17 @@
+ on. In the laboratory, 
+scientists use plasmids to insert “genes of interest” into an organism to change the 
+organism’s phenotype, thus “transforming” the recipient cell. Using restriction enzymes, 
+genes can be cut out of human, animal, or plant DNA and, using plasmids as vectors 
+(carriers of genetic information), inserted into bacteria. If transformation is successful, 
+the recipient bacteria will express the newly acquired genetic information in its 
+phenotype (Figure 1). 
+Recombinant 
+plasmid 
+E. coli host cell 
+Transformed cell 
+Figure 1. Transformation of Bacteria 
+In nature, the efficiency of transformation is low and limited to relatively few bacterial 
+strains. Also, bacteria can take up DNA only at the end of logarithmic growth; at this 
+time, the cells are said to be “competent.” In the lab, you have discovered several ways 
+to increase the rate of transformation. Now, rather than just a few bacteria taking up a 
+plasmid you want them to use, millions of bacteria can be t

@@ -1,0 +1,11 @@
+ng regions and noncoding regions. The regions that express the code that will be turned into protein are exons.
+The noncoding regions in the mRNA are introns.
+The introns—the intervening sequences—must be removed before the mRNA leaves the nucleus. This process,
+called splicing, is accomplished by an RNA-protein complex called a spliceosome. This process produces a final
+mRNA that is shorter than the transcribed RNA. The way that a transcript is spliced can vary, and alternative
+splicing variants will result with different exons included.
+In addition to splicing, a poly(A) tail is added to the 3’ end and a 5’ GTP cap is added to the 5’ end.
+Translation
+Translation is the process of turning an mRNA into a protein. Remember, each protein is made of amino acids. The
+order of the mRNA nucleotides will be read in the ribosome in groups of three. Three nucleotides is called a codon.
+Each codon corresponds to a particular amino acid. The genetic code is redundant, meaning that certain amino a

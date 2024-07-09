@@ -1,0 +1,20 @@
+ws two enzyme-mediated reactions. One of these
+reactions shows an enzyme that was extracted from the stomach,
+an environment that is acidic. The other reaction shows an
+enzyme that was extracted from the intestine, an environment
+that is normally basic (alkaline).
+The reaction with the gastric enzyme shows no reactivity at
+pH 0, with activity increasing in the acidic range until it reaches
+its maximum rate (velocity) of activity (Vmax) at the optimum
+pH 4. Above pH 4, the reaction slows down, decreasing to zero
+by pH 8.
+1
+The reaction with the intestinal enzyme shows no reactivity
+at approximately pH 3.8, with increasing activity until it reaches
+its maximum rate (Vmax) at its optimum pH 8. Above pH 8, the
+reaction slows down, eventually reaching zero by pH 11.8.
+1
+In the experiment from part (b), I predict that the rate of the
+enzyme-controlled reaction would increase from zero to its
+maximum rate (at the optimal temperature [body temperature] of
+approximately 38°C), and then the reac

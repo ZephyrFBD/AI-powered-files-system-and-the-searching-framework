@@ -1,0 +1,14 @@
+hrough cell signaling. Signaling can be short-range
+(affecting only nearby cells) or long-range (affecting cells throughout the organism). It can be done by cell junctions
+or signaling molecules called ligands that bind to receptors and trigger a response by changing the shape of the
+receptor protein. Hormones and neurotransmitters are common signaling molecules.
+Signal transduction is the process by which an external signal is transmitted to the inside of a cell. It usually
+involves the following three steps:
+1. a signaling molecule binding to a specific receptor
+2. activation of a signal transduction pathway
+3. production of a cellular response
+Hydrophobic signaling molecules, like cholesterol-based steroid hormones, can diffuse across the plasma
+membrane. These molecules can bind receptors inside the cell and often travel to the nucleus where they regulate
+gene expression.
+For signaling molecules that cannot enter the cell, a plasma membrane receptor is required. Plasma membrane
+rec

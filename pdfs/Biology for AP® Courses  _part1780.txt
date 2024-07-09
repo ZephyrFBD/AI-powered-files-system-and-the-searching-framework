@@ -1,0 +1,11 @@
+in the coding region of the
+gene, downstream of a gene, or may be thousands of nucleotides away.
+Enhancer regions are binding sequences, or sites, for transcription factors. When a DNA-bending protein binds, the shape
+of the DNA changes (Figure 16.10). This shape change allows for the interaction of the activators bound to the enhancers
+with the transcription factors bound to the promoter region and the RNA polymerase. Whereas DNA is generally depicted
+as a straight line in two dimensions, it is actually a three-dimensional object. Therefore, a nucleotide sequence thousands of
+nucleotides away can fold over and interact with a specific promoter.
+Turning Genes Off: Transcriptional Repressors
+Like prokaryotic cells, eukaryotic cells also have mechanisms to prevent transcription. Transcriptional repressors can bind
+to promoter or enhancer regions and block transcription. Like the transcriptional activators, repressors respond to external
+stimuli to prevent the binding of activating transc

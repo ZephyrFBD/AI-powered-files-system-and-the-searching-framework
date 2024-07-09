@@ -1,0 +1,12 @@
+ in a college biology lab can magnify cells up to approximately 400 times
+and have a resolution of about 200 nanometers. (b) Electron microscopes provide a much higher magnification,
+100,000x, and a have a resolution of 50 picometers. (credit a: modification of work by "GcG"/Wikimedia Commons;
+credit b: modification of work by Evan Bench)
+Electron Microscopes
+In contrast to light microscopes, electron microscopes (Figure 4.2b) use a beam of electrons instead of a beam of light.
+Not only does this allow for higher magnification and, thus, more detail (Figure 4.3), it also provides higher resolving
+power. The method used to prepare the specimen for viewing with an electron microscope kills the specimen. Electrons
+have short wavelengths (shorter than photons) that move best in a vacuum, so living cells cannot be viewed with an electron
+microscope.
+In a scanning electron microscope, a beam of electrons moves back and forth across a cell’s surface, creating details of cell
+surface character

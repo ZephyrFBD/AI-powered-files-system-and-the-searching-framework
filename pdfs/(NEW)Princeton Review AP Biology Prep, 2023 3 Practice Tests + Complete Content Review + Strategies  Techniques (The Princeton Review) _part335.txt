@@ -1,0 +1,11 @@
+that is identical to
+the original.
+During DNA replication, one DNA strand is called the leading strand, and it is made continuously. That is, the
+nucleotides are steadily added one after the other by DNA polymerase. The other strand—the lagging strand—is
+made discontinuously. Unlike the leading strand, the lagging strand is made in pieces of nucleotides known as
+Okazaki fragments. Why is the lagging strand made in small pieces?
+Nucleotides are added only in the 5′ to 3′ direction since nucleotides can be added only to the 3′ end of the growing
+chain. However, when the double-helix is “unzipped,” one of the two strands is oriented in the opposite direction—
+3′ to 5′. Because DNA polymerase doesn’t work in this direction, the strand needs to be built in pieces. You can see
+in the figure below that the leading strand is being created toward the opening of the helix and the helix continually
+opens ahead of it to accommodate it. The lagging strand is built in the opposite direction of the w

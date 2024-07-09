@@ -1,0 +1,21 @@
+be constantly
+shaken at fixed temperature, and from which samples can
+be taken without atmospheric contamination, are available
+for this study.
+These results of the experiment will be used to infer
+growth rates of E. coli along the entire 7.5 m length of the
+average human intestine (small intestine and large
+intestine), where the oxygen content varies from
+atmospheric to anaerobic conditions. The retention time of
+food in the small intestine, whose average length is 2.5 m,
+is approximately four hours. The retention time of food
+over the entire length of the intestine is between 24 and 72
+hours.
+A. Describe and apply a mathematical model that can
+be used to represent the variation of oxygen environments
+of a bacterium that is being transported with the food
+along the length of the intestine.
+B. Design the experimental sampling times in terms of
+growth intervals of interest in this study: i) the time when
+the bacteria is passing the small-large intestine boundary;
+ii) the time when the b

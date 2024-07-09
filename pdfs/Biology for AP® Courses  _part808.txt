@@ -1,0 +1,10 @@
+pyruvate, and each can attach to a molecule of CoA and then enter the citric acid cycle. (A simple
+rule is to “count the carbons.” Because matter and energy cannot be created or destroyed, we must account for everything.)
+The electrons are picked up by NAD+, and NADH carries the electrons to a later pathway (the electron transport chain
+described below) for ATP production. The glucose molecule that originally entered cellular respiration in glycolysis has
+been completely oxidized. Chemical potential energy stored within the glucose molecules has been transferred to NADH or
+has been used to synthesize ATP molecules.
+The citric acid cycle occurs in the mitochondrial matrix and involves a series of redox and decarboxylation reactions that
+again remove high energy electrons and produce CO2. These electrons are carried by NADH and FADH2 to the electron
+transport chain located in the cristae of the mitochondrion. (You do not need to memorize the steps in the citric acid cycle,
+but if provide

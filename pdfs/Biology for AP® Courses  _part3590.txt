@@ -1,0 +1,10 @@
+tal capacity (VC) measures the maximum amount of air that
+can be inhaled or exhaled during a respiratory cycle. It is the sum of the expiratory reserve volume, tidal volume, and
+inspiratory reserve volume. The inspiratory capacity (IC) is the amount of air that can be inhaled after the end of a normal
+expiration. It is, therefore, the sum of the tidal volume and inspiratory reserve volume. The functional residual capacity
+(FRC) includes the expiratory reserve volume and the residual volume. The FRC measures the amount of additional air that
+can be exhaled after a normal exhalation. Lastly, the total lung capacity (TLC) is a measurement of the total amount of air
+that the lung can hold. It is the sum of the residual volume, expiratory reserve volume, tidal volume, and inspiratory reserve
+volume.
+Lung volumes are measured by a technique called spirometry. An important measurement taken during spirometry is the
+forced expiratory volume (FEV), which measures how much air can be forced out 

@@ -1,0 +1,20 @@
+ & SYI-3
+Segregation and independent assortment apply to genes on different chromosomes.
+******ebook converter DEMO Watermarks*******
+Figure 8.2 The Dihybrid Cross
+The genes for height and seed color are not on the same chromosome
+and will assort independently. The only factor that determines how these
+alleles segregate or assort is how the homologous pairs line up in
+metaphase of meiosis I, which is random.
+During metaphase I, if the homologous pairs happen to line up like this:
+they will produce these gametes:
+If the homologous pairs happen to line up like this:
+ 
+they will produce these gametes:
+******ebook converter DEMO Watermarks*******
+In contrast, if the gene for tall is linked to the gene for yellow seed
+color and the gene for short is linked to the gene for green seed color, the
+genes will not assort independently. If a plant is tall, it will have yellow
+seeds. If a plant is short, it will have green seeds. See Figure 8.3.
+IST-1
+Genes that are adjacent and close to each other

@@ -1,0 +1,12 @@
+accharide names end with the
+suffix -ose. If the sugar has an aldehyde group (the functional group with the structure R-CHO), it is known as an aldose,
+and if it has a ketone group (the functional group with the structure RC(=O)R'), it is known as a ketose. Depending on the
+number of carbons in the sugar, they also may be known as trioses (three carbons), pentoses (five carbons), and or hexoses
+(six carbons). See Figure 3.5 for an illustration of the monosaccharides.
+Chapter 3 | Biological Macromolecules
+93
+Figure 3.5 Monosaccharides are classified based on the position of their carbonyl group and the number of carbons
+in the backbone. Aldoses have a carbonyl group (indicated in green) at the end of the carbon chain, and ketoses have
+a carbonyl group in the middle of the carbon chain. Trioses, pentoses, and hexoses have three-, five-, and six-carbon
+backbones, respectively.
+The chemical formula for glucose is C6H12O6. In humans, glucose is an important source of energy. During cellular

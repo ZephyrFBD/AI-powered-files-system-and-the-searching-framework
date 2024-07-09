@@ -1,0 +1,18 @@
+be eliminated. A provirus, as mentioned
+in (C), is not actually a type of virus, but rather refers to the genetic
+material of a virus that is incorporated into and able to replicate in the
+genome of a host cell. A viroid, as mentioned in (D), is a plant pathogen
+consisting of circular RNA. Since the virus from the question stem
+targeted bacteria and replicated within a monkey, (D) is incorrect.
+12. D
+Learning Objective: 6.6
+Transformation eﬀiciency is a number that represents the total
+number of bacterial cells that express the gene for ampicillin
+resistance divided by the amount of DNA plasmid used in the
+experiment. It is calculated using the following formula:
+For this problem, the student identifies that 35 colonies have grown on
+the agar plate, providing the value for the numerator. The
+denominator requires slightly more in-depth calculations. To
+determine the amount of DNA spread on the agar plate, the first step is
+to calculate how many micrograms of plasmid were added by
+multip

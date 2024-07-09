@@ -1,0 +1,9 @@
+ot the frequencies of different alleles, but the frequencies of the resulting
+genotypes, known as the population’s genetic structure, from which scientists can surmise the distribution of phenotypes.
+If the phenotype is observed, only the genotype of the homozygous recessive alleles can be known; the calculations provide
+an estimate of the remaining genotypes. Since each individual carries two alleles per gene, if the allele frequencies (p and q)
+are known, predicting the frequencies of these genotypes is a simple mathematical calculation to determine the probability
+of getting these genotypes if two alleles are drawn at random from the gene pool. So in the above scenario, an individual
+pea plant could be pp (YY), and thus produce yellow peas; pq (Yy), also yellow; or qq (yy), and thus producing green peas
+(Figure 19.2). In other words, the frequency of pp individuals is simply p2; the frequency of pq individuals is 2pq; and the
+frequency of qq individuals is q2. And, again, if p and q

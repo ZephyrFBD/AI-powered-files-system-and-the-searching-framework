@@ -1,0 +1,10 @@
+n the amount of air (ventilation, V) and the amount of blood (perfusion, Q) in the lungs. This is
+referred to as ventilation/perfusion (V/Q) mismatch.
+There are two types of V/Q mismatch. Both produce dead space, regions of broken down or blocked lung tissue. Dead
+spaces can severely impact breathing, because they reduce the surface area available for gas diffusion. As a result, the
+amount of oxygen in the blood decreases, whereas the carbon dioxide level increases. Dead space is created when no
+ventilation and/or perfusion takes place. Anatomical dead space or anatomical shunt, arises from an anatomical failure,
+while physiological dead space or physiological shunt, arises from a functional impairment of the lung or arteries.
+An example of an anatomical shunt is the effect of gravity on the lungs. The lung is particularly susceptible to changes in the
+magnitude and direction of gravitational forces. When someone is standing or sitting upright, the pleural pressure gradient
+leads to in

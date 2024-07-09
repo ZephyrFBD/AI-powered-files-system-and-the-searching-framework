@@ -1,0 +1,9 @@
+It is useful to review some laws of probability here. If you flip one coin, the probability of getting heads is 
+. If you flip two coins at the same time,
+the probability of both coins coming up heads is the product of their individual probabilities: 
+. Similarly, if p is the probability of
+inheriting one copy of the dominant allele (A), then the probability of inheriting two copies of the dominant allele is p × p = p2.
+The probability of inheriting two copies of the recessive allele (a) is q × q = q2. The probability of inheriting one dominant allele and one recessive
+allele is p × q = pq. However, there are two ways to create a heterozygous individual. The dominant allele could come from the father and the
+recessive from the mother, or the dominant allele could come from the mother and the recessive from the father. If there is more than one way that an
+event can occur, the probability of the event is the sum of the individual probabilities. So the frequency of heterozygotes would be

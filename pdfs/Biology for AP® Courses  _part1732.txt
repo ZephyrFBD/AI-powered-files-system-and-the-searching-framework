@@ -1,0 +1,20 @@
+unt.
+56. Only a fraction of DNA encodes proteins. The
+noncoding portion of a gene is referred to as the intron.
+The intron fraction depends upon the gene. Introns are rare
+in prokaryotic and mitochondrial DNA; in human nuclear
+DNA, this fraction is about 95%. The intron is transcribed
+into mRNA, but this noncoding mRNA is edited out
+before translation of the coding portion, or exon, of a gene.
+The edited exon segments are then spliced together by a
+spliceosome, a very large and complex collection of RNAs
+and proteins.
+Although introns do not encode proteins, they have
+functions. In particular, they amplify expression of the
+exon, although the mechanism is unknown. When introns
+are very long, which is common among mammalian genes
+with roles in development, they can significantly extend
+the time required to complete transcription. Analysis of
+genes common to different plant and animal species shows
+many shared intronic positions and base sequences,
+although in some organisms, such as yea

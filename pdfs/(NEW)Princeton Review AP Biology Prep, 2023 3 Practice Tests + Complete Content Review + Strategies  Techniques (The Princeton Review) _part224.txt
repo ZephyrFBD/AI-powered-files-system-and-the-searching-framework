@@ -1,0 +1,12 @@
+all enzymes operate at an ideal temperature. For most human enzymes, this
+temperature is body temperature, 37°C.
+Not all organisms have a constant body temperature. For example, ectotherms depend on the environment to control
+their varying body temperatures. Q10 is a measure of temperature sensitivity of a physiological process or enzymatic
+reaction rate. If you are faced with a question about Q10 on the AP Biology Exam, you will be provided with the
+following formula, so no need to memorize it.
+The temperature unit must be in either Celsius or Kelvin, and the same unit must be used for T1 and T2. The two
+reaction rates (k1 and k2) must also have the same unit. Q10 has no unit; it is the factor by which the rate of a reaction
+increases due to a temperature increase. The more temperature-dependent a reaction is, the higher Q10 will be.
+Reactions with Q10 = 1 are temperature independent.
+pH
+Enzymes also function best at a particular pH. At an incorrect pH, the hydrogen bonds can be disru

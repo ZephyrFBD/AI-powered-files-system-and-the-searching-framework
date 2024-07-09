@@ -1,0 +1,10 @@
+he interleukin (IL), so named because they mediate interactions between leukocytes (white
+blood cells). Interleukins are involved in bridging the innate and adaptive immune responses. In addition to being released
+from cells after PAMP recognition, cytokines are released by the infected cells which bind to nearby uninfected cells and
+induce those cells to release cytokines, which results in a cytokine burst.
+A second class of early-acting cytokines is interferons, which are released by infected cells as a warning to nearby
+uninfected cells. One of the functions of an interferon is to inhibit viral replication. They also have other important
+functions, such as tumor surveillance. Interferons work by signaling neighboring uninfected cells to destroy RNA and
+reduce protein synthesis, signaling neighboring infected cells to undergo apoptosis (programmed cell death), and activating
+immune cells.
+In response to interferons, uninfected cells alter their gene expression, which increases the ce

@@ -1,0 +1,41 @@
+For example, A equals the number of interphase cells in the control group.) 
+3. Use the totals from Table 2 to calculate the expected values (e) using the formulas 
+from Table 3. 
+4. Enter the observed values (o) from Table 2 and expected values (e) from Table 3 for 
+each group into Table 4. Calculate the chi-square (χ2) value for the data by adding 
+together the numbers in the right column. 
+5. Compare this value to the critical value in Table 5. 
+Table 3. Table of Expected Values (e) 
+Interphase 
+Mitosis 
+Control 
+(A + B) (A + C) 
+N 
+(A + B) (B + D) 
+N 
+Treated 
+(C + D) (A + C) 
+N 
+(C + D) (B + D) 
+N 
+Table 4. Calculation of Chi-Square Value 
+Group 
+Observed (o) 
+Expected (e) 
+(o - e) 
+Left parenthesis o minus e right parenthesis squared.
+Start fraction left parenthesis o minus e right parenthesis squared over e end fraction.
+Control Interphase 
+Control Mitosis 
+Treated Interphase 
+Treated Mitosis 
+Total of (o - e)2/e = chi-square (χ2) = 
+T132 Investigation 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5. 

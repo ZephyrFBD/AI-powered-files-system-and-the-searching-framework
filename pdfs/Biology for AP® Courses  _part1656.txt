@@ -1,0 +1,19 @@
+are located very far upstream, or even downstream, of the genes they are regulating.
+However, when researchers limited their examination to human core promoter sequences that were defined
+experimentally as sequences that bind the preinitiation complex, they found that promoters evolve even
+faster than protein-coding genes.
+It is still unclear how promoter evolution might correspond to the evolution of humans or other higher
+organisms. However, the evolution of a promoter to effectively make more or less of a given gene product
+is an intriguing alternative to the evolution of the genes themselves.
+[1]
+According to this passage, which of the following has been shown to evolve faster than protein-coding genes?
+a.
+core promoters that bind the preinitiation complex
+b.
+core promoters that occur within genes
+c.
+promoters that occur far upstream of the gene
+d.
+promoters that occur downstream of a gene
+Promoter Structures for RNA Polymerases I and III
+In eukaryotes, the conserved promoter eleme

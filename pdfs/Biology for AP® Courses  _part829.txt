@@ -1,0 +1,12 @@
+trons, cytochrome c can accept
+only one at a time).
+Complex IV
+The fourth complex is composed of cytochrome proteins c, a, and a3. This complex contains two heme groups (one in each
+of the two cytochromes, a, and a3) and three copper ions (a pair of CuA and one CuB in cytochrome a3). The cytochromes
+hold an oxygen molecule very tightly between the iron and copper ions until the oxygen is completely reduced. The reduced
+oxygen then picks up two hydrogen ions from the surrounding medium to make water (H2O). The removal of the hydrogen
+ions from the system contributes to the ion gradient used in the process of chemiosmosis.
+Chemiosmosis
+In chemiosmosis, the free energy from the series of redox reactions just described is used to pump hydrogen ions (protons)
+across the membrane. The uneven distribution of H+ ions across the membrane establishes both concentration and electrical
+gradients (thus, an electrochemical gradient), owing to the hydrogen ions’ positive charge and their aggregation 

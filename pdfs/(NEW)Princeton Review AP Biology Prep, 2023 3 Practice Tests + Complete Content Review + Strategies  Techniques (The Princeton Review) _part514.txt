@@ -1,0 +1,11 @@
+new traits or phenotypes, like inserting genes into a corn genome that help the
+crops ward off pests. This process is very complicated in higher plants and animals, but relatively simple in bacteria.
+You are responsible for knowing the ways in which bacteria can accept fragments of foreign DNA:
+Conjugation: the transfer of genetic material between bacteria via a pilus, a bridge between the two cells
+Transformation: a process in which bacteria take up foreign genetic material from the environment
+Transduction: a process in which a bacteriophage (a virus that infects bacteria) transfers genetic material from
+one bacteria to another
+In addition, DNA can also be inserted into bacteria by using plasmids, which are small, circular DNA fragments that
+can serve as a vector to incorporate genes into the host’s chromosome. Plasmids are key elements in genetic
+engineering. The concepts you need to know about plasmids include the following:
+One way to incorporate specific genes into a plasmid is t

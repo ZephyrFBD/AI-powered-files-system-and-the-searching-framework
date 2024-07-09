@@ -1,0 +1,13 @@
+3' untranslated regions (UTRs). The presence
+of RNA-binding proteins at the 5' or 3' UTR influences the stability of the RNA molecule.
+RNA Stability and microRNAs
+In addition to RBPs that bind to and control (increase or decrease) RNA stability, other elements called microRNAs can
+bind to the RNA molecule. These microRNAs, or miRNAs, are short RNA molecules that are only 21–24 nucleotides in
+length. The miRNAs are made in the nucleus as longer pre-miRNAs. These pre-miRNAs are chopped into mature miRNAs
+by a protein called dicer. Like transcription factors and RBPs, mature miRNAs recognize a specific sequence and bind to
+the RNA; however, miRNAs also associate with a ribonucleoprotein complex called the RNA-induced silencing complex
+(RISC). RISC binds along with the miRNA to degrade the target mRNA. Together, miRNAs and the RISC complex rapidly
+destroy the RNA molecule.
+16.6 | Eukaryotic Translational and Post-translational
+Gene Regulation
+In this section, you will explore the following

@@ -1,0 +1,12 @@
+ to
+move right, and if moved down, it will seem to move up. This occurs because microscopes use two sets of lenses to magnify
+the image. Because of the manner by which light travels through the lenses, this system of two lenses produces an inverted
+image (binocular, or dissecting microscopes, work in a similar manner, but include an additional magnification system that
+makes the final image appear to be upright).
+Light Microscopes
+To give you a sense of cell size, a typical human red blood cell is about eight millionths of a meter or eight micrometers
+(abbreviated as eight μm) in diameter; the head of a pin of is about two thousandths of a meter (two mm) in diameter. That
+means about 250 red blood cells could fit on the head of a pin.
+Most student microscopes are classified as light microscopes (Figure 4.2a). Visible light passes and is bent through the
+lens system to enable the user to see the specimen. Light microscopes are advantageous for viewing living organisms, but
+since individ

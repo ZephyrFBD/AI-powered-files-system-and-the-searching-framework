@@ -1,0 +1,10 @@
+n
+be replaced. In (a) photosystem II, the electron comes from the splitting of water, which releases oxygen as a waste
+product. In (b) photosystem I, the electron comes from the chloroplast electron transport chain discussed below.
+The actual step that converts light energy into chemical energy takes place in a multiprotein complex called a photosystem,
+two types of which are found embedded in the thylakoid membrane, photosystem II (PSII) and photosystem I (PSI)
+(Figure 8.16). The two complexes differ on the basis of what they oxidize (that is, the source of the low-energy electron
+supply) and what they reduce (the place to which they deliver their energized electrons).
+Both photosystems have the same basic structure; a number of antenna proteins to which the chlorophyll molecules are
+bound surround the reaction center where the photochemistry takes place. Each photosystem is serviced by the light-
+harvesting complex, which passes energy from sunlight to the reaction center; it consist

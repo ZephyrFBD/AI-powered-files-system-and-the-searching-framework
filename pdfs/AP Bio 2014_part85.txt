@@ -1,0 +1,36 @@
+same section of a forest. For 
+each observed pair of nesting adults, the biologist measured the distance to the next closest nesting pair of the 
+same species (nearest-neighbor distance). An analysis of the results is shown in the table below. 
+Species 
+Mean Nearest-
+Neighbor Distance 
+(km) 
+Median Nearest-
+Neighbor Distance 
+(km) 
+Range of Nearest-
+Neighbor Distances 
+(km) 
+I
+0.35
+0.47
+0.25–0.50
+II
+0.31
+0.32
+0.30–0.32
+III
+0.80
+1.10
+0.10–1.50 
+Which of the following would be most appropriate for identifying the species with the most even distribution of 
+nests? 
+(A) Area of the forest in which the nearest-neighbor measurements were made 
+(B) Total number of nearest-neighbor observations collected during the study period  
+(C) Standard deviation of the nearest-neighbor distances for each species 
+(D) Proportion of nearest-neighbor distances that were less than the median 
+ 
+ 
+GO ON TO THE NEXT PAGE. 
+-36- 
+Directions: The next five questions, numbered 121–125, require numeric answers. 

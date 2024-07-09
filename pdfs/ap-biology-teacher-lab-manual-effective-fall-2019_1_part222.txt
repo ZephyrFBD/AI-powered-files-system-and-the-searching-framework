@@ -1,0 +1,21 @@
+nges from 
+one generation to the next. This model will let you explore parameters that affect allele 
+frequencies, such as selection, mutation, and migration. 
+The second part of the investigation asks you to generate your own questions 
+regarding the evolution of allele frequencies in a population. Then you are asked to 
+explore possible answers to those questions by applying more sophisticated computer 
+models. These models are available for free.
+This investigation also provides an opportunity for you to review concepts you 
+might have studied previously, including natural selection as the major mechanism 
+of evolution; the relationship among genotype, phenotype, and natural selection; and 
+fundamentals of classic Mendelian genetics. 
+* Transitioned from the AP Biology Lab Manual (2001)
+S26  Investigation 2 
+ 
+ 
+ 
+ 
+■ Learning Objectives 
+•  EVO-1.K: Describe the conditions under which allele and genotype frequencies will 
+change in populations. 
+•  EVO-1.L: Explain the impacts on t

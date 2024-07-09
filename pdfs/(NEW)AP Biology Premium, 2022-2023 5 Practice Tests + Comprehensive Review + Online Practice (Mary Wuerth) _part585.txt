@@ -1,0 +1,9 @@
+: In this part of the investigation, the movement of water in plant cells is measured. Cubes of potato (or any
+other root vegetable) of identical sizes are made and then massed. Each cube is placed in a solution with a different
+concentration of sucrose (0.0, 0.2, 0.4, 0.6, 0.8, and 1.0 molar). Plant cells have a cell wall in addition to a cell
+membrane, so these cubes are placed in the solutions at least overnight to allow for movement of water between the
+plant cells and their environment. Then each cube is removed from the solution and massed, and the percent change
+in mass is calculated. Cubes with a higher water potential than the surrounding solution are expected to lose water to
+their environment and therefore have a negative percent change in mass. Cubes with a lower water potential than the
+surrounding solution are expected to gain water from their environment and therefore have a positive percent change
+in mass. A graph is made plotting the molarity of each solution on the x-

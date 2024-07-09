@@ -1,0 +1,27 @@
+ring an enzymatic reaction, the substrate binds to the
+active site of an enzyme. This means that the enzymes can
+only catalyze one reaction at a time, which limits the reaction
+rate.
+(D)
+2. Glucose-6-phosphate dehydrogenase (G6PDH) is an enzyme that
+can use NAD+ or NADP+ as a cofactor. The table shows the Km and
+kcat of this enzyme with the two cofactors. The Km represents the
+substrate concentration at which the reaction rate is half of the
+maximum rate. kcat is known as the turnover number and
+represents how quickly the enzyme processes substrate
+molecules.
+Cofactor
+KM (μM)
+kcat (s–1)
+NADP+
+243 ± 5.3
+282 ± 1
+NAD+
+8352 ± 307
+298 ± 4
+Adapted from M. Fuentealba et al., “Determinants of Cofactor Specificity for the Glucose-6-Phosphate
+Dehydrogenase from Escherichia coli: Simulation, Kinetics and Evolutionary Studies,” PLoS ONE 11, no. 3
+(March 2016): e0152403.
+Based on the data in the table, which cofactor yields the more
+eﬀicient enzyme, and why?
+NADP+, because the reaction reaches maxi

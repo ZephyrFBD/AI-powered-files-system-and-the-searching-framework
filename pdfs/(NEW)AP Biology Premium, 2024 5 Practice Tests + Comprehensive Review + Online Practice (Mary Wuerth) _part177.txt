@@ -1,0 +1,30 @@
+ allosteric inhibitors of enzymes.
+(c) An enzyme has its maximum efficiency at an optimum temperature of 25° Celsius. Predict what effect a
+decrease in temperature to 5° Celsius would have on the enzyme’s efficiency.
+(d) Justify your prediction from part (c).
+12. The enzyme catalase breaks down hydrogen peroxide into water and oxygen, as shown in this equation:
+An experiment was performed to measure the amount of oxygen bubbles produced at two different
+temperatures. The data are shown in the table.
+Time (minutes)
+Milliliters of Oxygen Produced at 37° Celsius
+Milliliters of Oxygen Produced at 45° Celsius
+0
+0
+0
+5
+2.5
+0.5
+10
+5.2
+0.8
+15
+7.7
+1.0
+20
+10.3
+1.1
+(a) Calculate the rate of the enzyme-catalyzed reaction at both temperatures for the final 10 minutes of the
+experiment.
+(b) Predict which temperature (37°C or 45°C) is closer to the optimum temperature for this enzyme.
+(c) Justify your prediction from part (b) using the data provided.
+(d) In a follow-up experiment, the reaction was per

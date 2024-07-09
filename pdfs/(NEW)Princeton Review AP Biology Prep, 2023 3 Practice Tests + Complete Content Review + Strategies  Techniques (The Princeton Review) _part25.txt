@@ -1,0 +1,15 @@
+ appears pure white. Expression of
+Fursilla (frsl) depends on the binding/lack of binding of several proteins: Nefur (NEFR), Lesfur
+(LSFR), and Dirkfur (DRKFR). Figure 2 shows the relative levels of frsl transcript as measured
+via RT-qPCR when each protein is overexpressed or unexpressed in the cell.
+Figure 1. Map of the Fursilla region of chromosome 8
+Figure 2. Relative amounts of Fursilla transcript
+12. Scientists identified a mutant allele of the Fursilla gene caused by a deletion of bases 1231–1295 on
+chromosome 8. What is the likely effect of this mutation?
+(A) No transcription and no translation of Fursilla will occur.
+(B) Transcription will not occur, but translation will be unaffected.
+(C) Transcription of Fursilla will occur, but no translation will occur.
+(D) Both transcription and translation of Fursilla will be unaffected.
+13. Which of the following would likely produce a dog with the darkest fur?
+(A) High levels of LSFR and high levels of DRKFR
+(B) High levels of LSFR and 

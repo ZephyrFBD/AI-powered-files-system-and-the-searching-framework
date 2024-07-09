@@ -1,0 +1,12 @@
+nse
+11. (a) The treatment with cadmium resulted in the greatest variability in the data because it has the greatest
+standard error of the mean.
+(b) The control treatment was the least likely to result in chromosome breakage. Its mean percentage of cells
+that showed chromosome breakage was far lower than the mean for the other two treatments.
+(c) The upper limit of the 95% confidence interval for lead (24.3 + 2(5.2) = 34.7) is greater than the lower limit
+of the 95% confidence interval for cadmium (46.1 – 2(9.1) = 27.9), so the 95% confidence intervals for
+those two treatments overlap. When the 95% confidence intervals overlap, the data are inconclusive and it is
+not possible to claim that there is a statistically significant difference between the groups. The data provided
+do not support the student’s claim that cadmium is more likely to result in chromosome breakage than
+exposure to lead.
+(d) The independent variable is the type of treatment (control, lead, or cadmium). The dependent 

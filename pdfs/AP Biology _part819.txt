@@ -1,0 +1,18 @@
+matical modeling,
+and computer science to analyze biological data. An extremely powerful
+bioinformatics tool is BLAST, an acronym for Basic Local Alignment
+Search Tool. BLAST is an algorithm that compares biological sequence
+information, such as the amino acid sequence in different proteins or the
+nucleotide sequence of different DNA sequences. It was designed by
+scientists at the National Institutes of Health (NIH) in 1990.
+BLAST enables you to input a gene sequence of interest and search
+entire genomic libraries for identical or similar sequences in a matter of
+seconds. For example, by using BLAST, you might input a particular
+mouse gene and find that humans carry a very similar gene. You might
+instead discover, as happened a few years ago, that humans and
+Neanderthals (Homo neanderthalensis) share some of the same DNA.
+If you were to use BLAST to compare five DNA sequences from five
+different species, you would see something like the following on your
+computer screen:
+Position:
+ 1  

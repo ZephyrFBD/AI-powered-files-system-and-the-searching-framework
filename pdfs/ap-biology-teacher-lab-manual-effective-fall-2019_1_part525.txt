@@ -1,0 +1,22 @@
+ation about 
+jellyfish that glow in the dark. What makes bioluminescent jellyfish, Aequorea victoria, 
+easy to spot in deep, dark water is the expression of green fluorescent protein (GFP). 
+The GFP gene can be transferred into bacteria, and if transformation is successful, the 
+bacteria will express their newly acquired jellyfish gene and glow brilliant green under 
+ultraviolet (UV) light. 
+Ask students to discuss the following question:  
+Suppose you have a plasmid that contains both the gene for GFP (pGLO) and a gene  
+for resistance to ampicillin (pAMP). How will you be able to tell if bacterial cells have 
+been transformed using the plasmid containing genes for GFP and ampicillin resistance? 
+Take this a step further by having students examine the plasmid in Figure 3 and the 
+corresponding caption. 
+araC 
+GFP 
+bla 
+ori 
+pGLO
+Figure 3. pGLO Plasmid 
+GFP (the Aequorea victoria jellyfish 
+gene) codes for green fluorescent 
+protein, and araC is the gene that 
+codes for the protein tha

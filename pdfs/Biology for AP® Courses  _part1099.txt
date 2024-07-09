@@ -1,0 +1,23 @@
+ligand. When k is small, the likelihood of binding is low,
+even when the concentration of ligand is high. To initiate a
+new stimulus response cycle for the receptor, the ligand
+must dissociate. Larger values of k mean that the receptor
+is more likely to be occupied and thus unavailable to bind
+another ligand.
+Some ligand-binding systems have multiple binding sites.
+For example, hemoglobin binds four oxygen molecules,
+whereas myoglobin has only a single binding site. When
+multiple binding sites are present, the presence of an
+already-bound ligand can cooperatively affect the binding
+of other ligands on the same protein. For hemoglobin, the
+binding is positively cooperative. The affinity of oxygen
+for heme increases as the number of bound oxygen
+molecules increases.
+A.
+Describe the features in the graph above for
+hemoglobin that demonstrate positive
+cooperativity.
+B.
+The insulin receptor (IR) is a tyrosine kinase
+receptor that has two sites to which insulin can
+attach. IR is negatively c

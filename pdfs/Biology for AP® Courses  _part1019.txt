@@ -1,0 +1,11 @@
+tation must occur in the host allowing the virus to bind to the host.
+d.
+A mutation must occur in the virus allowing the virus to infect a new host, and the virus must come into
+contact with this host.
+Cell-surface receptors are involved in most of the signaling in multicellular organisms. There are three general categories
+of cell-surface receptors: ion channel-linked receptors, G-protein-linked receptors, and enzyme-linked receptors.
+Ion channel-linked receptors bind a ligand and open a channel through the membrane that allows specific ions to pass
+through. To form a channel, this type of cell-surface receptor has an extensive membrane-spanning region. In order to
+interact with the phospholipid fatty acid tails that form the center of the plasma membrane, many of the amino acids in the
+membrane-spanning region are hydrophobic in nature. Conversely, the amino acids that line the inside of the channel are
+hydrophilic to allow for the passage of water or ions. When a ligand binds to the

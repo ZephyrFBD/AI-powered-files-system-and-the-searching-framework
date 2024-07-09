@@ -1,0 +1,17 @@
+ ATP. Most of the molecules of the ETC are
+cytochromes, electron carriers that resemble hemoglobin in the structure
+of their active site. The functional unit contains a central iron atom, which
+is capable of undergoing a reversible redox reaction; that is, it can be
+alternatively reduced (gain electrons) and oxidized (lose electrons).
+AP EXPERT NOTE
+Everything the human body does to deliver inhaled oxygen to
+tissues (discussed in chapter 11) comes down to the role oxygen
+plays as the final electron acceptor in the electron transport
+chain. Without oxygen, ATP production is not adequate to sustain
+human life. Similarly, the CO2 generated in the citric acid cycle is
+the same carbon dioxide we exhale.
+FMN (flavin mononucleotide) is the first molecule of the ETC. It is reduced
+when it accepts electrons from NADH, thereby oxidizing NADH to NAD+.
+Sequential redox reactions continue to occur as the electrons are
+transferred from one carrier to the next; each carrier is reduced as it
+accepts a

@@ -1,0 +1,21 @@
+on of THY-1 would occur, as shown in the following figure.
+18 Biotechnology
+Learning Objectives
+In this chapter, you will learn:
+➜
+Bacterial Transformation
+➜
+Gel Electrophoresis
+➜
+Polymerase Chain Reaction (PCR)
+➜
+CRISPR-Cas9
+Overview
+The tools of biotechnology are being used for many purposes: cancer therapies, improvement in agriculture yields,
+gene therapies for genetic disorders, de-extinction projects (such as the one to bring back the woolly mammoth), and
+extinction projects (trying to eliminate pathogens that cause human disease), just to name a few. Understanding the
+basics of how these techniques work, and their possible uses and misuses, is very important. This chapter will briefly
+review a few basic biotechnology techniques to know for test day.
+Bacterial Transformation
+Bacterial transformation introduces foreign DNA into bacterial cells. The foreign DNA, usually a small, circular
+piece of DNA called a plasmid, may integrate into the host cell’s chromosome or remain separate

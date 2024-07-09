@@ -1,0 +1,11 @@
+e on the AP Biology Equations and Formulas sheet. If χ2 < CV, you accept the null hypothesis (H0).
+If χ2 > CV, you reject H0. Our H0 is that the observed and expected data match and that the experimental
+plants have a 3:1 ratio of yellow to green plants. Based on this, the only possible answer choices are (B)
+and (C); the other choices mix up how χ2 values and critical values are compared (eliminate (A) and (D)).
+One hundred plants were studied, and we expect three-fourths of them to be yellow (75 plants) and one-
+fourth of them to be green (25 plants). Next, we compare expected (E) and observed (O) data and
+calculate an χ2 value.
+Because two possibilities are being compared (green and yellow), the degrees of freedom in this test = 2 –
+1 = 1. Using p = 0.05, you can determine the critical value to be 3.84 (which you don’t need to look up
+because it is listed in all answer choices). Since χ2 > CV, you reject H0. The observed data does not match
+the expected data, and the correct answer 

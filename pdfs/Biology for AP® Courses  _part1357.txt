@@ -1,0 +1,10 @@
+ic calculations. For
+instance, for a tetrahybrid cross between individuals that are heterozygotes for all four genes, and in which all four genes
+are sorting independently and in a dominant and recessive pattern, what proportion of the offspring will be expected to
+be homozygous recessive for all four alleles? Rather than writing out every possible genotype, we can use the probability
+method. We know that for each gene, the fraction of homozygous recessive offspring will be 1/4. Therefore, multiplying this
+fraction for each of the four genes, (1/4) × (1/4) × (1/4) × (1/4), we determine that 1/256 of the offspring will be quadruply
+homozygous recessive.
+For the same tetrahybrid cross, what is the expected proportion of offspring that have the dominant phenotype at all four
+loci? We can answer this question using phenotypic proportions, but let’s do it the hard way—using genotypic proportions.
+The question asks for the proportion of offspring that are 1) homozygous dominant at A or heter

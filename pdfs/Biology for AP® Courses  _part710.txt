@@ -1,0 +1,10 @@
+ of coenzymes, cofactors, activators, and inhibitors. Inhibitors,
+coenzymes, and cofactors can act competitively by binding to the enzyme’s active site, or noncompetitively by binding to
+the enzyme’s allosteric site. An allosteric site is an alternate part of the enzyme that can bind to non–substrate molecules.
+Enzymes work most efficiently under optimal conditions that are specific to the enzyme. For example, trypsin, an enzyme in
+the human small intestine, works most efficiently at pH 8, whereas pepsin in the stomach works best under acidic conditions.
+Sometimes environmental factors, especially low pH and high temperatures, alter the shape of the active site; if the shape
+cannot be restored, the enzyme denatures. The most common method of enzyme regulation in metabolic pathways is via
+feedback inhibition.
+How can various factors, such as feedback inhibition, regulate enzyme activity?
+Information presented and the examples highlighted in the section support concepts and Learning Obje

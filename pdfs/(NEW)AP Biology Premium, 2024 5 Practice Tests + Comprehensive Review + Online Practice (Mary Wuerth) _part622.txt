@@ -1,0 +1,10 @@
+plasmid with the streptomycin resistance gene and plate D contains agar with streptomycin, no E. coli will grow
+on plate D. Choices (A) and (C) are incorrect because both of those plates do NOT contain streptomycin, so
+many, many E. coli colonies will be found on those plates. Choice (B) is incorrect because although this plate
+does contain agar with streptomycin, Tube 1 received the plasmid that confers resistance to streptomycin, so
+some E. coli will grow on that plate. However, not every E. coli cell will absorb the plasmid, so plate B will
+have fewer bacterial colonies than plates A or C.
+6. (C) The E. coli in Tube 2 did not receive the plasmid, so no growth is expected on plate D; however, there is a
+very small probability that a spontaneous mutation occurred in some of the E. coli cells that gave them
+resistance to streptomycin. Choice (A) is incorrect because no plasmid was added to Tube 2. There is no
+evidence that E. coli catabolize the antibiotic and individual bacteria do no

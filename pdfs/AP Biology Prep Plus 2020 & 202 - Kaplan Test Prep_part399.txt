@@ -1,0 +1,17 @@
+ess. In this
+case, the electrons that enter photosystem I are used to produce NADPH.
+Cyclic Photophosphorylation
+So far, we have not addressed the mechanism used to produce ATP
+during photosynthesis. As the electrons work their way through the
+electron transport chains, protons are pumped out of the stroma and into
+the interior of the thylakoid membranes, creating a proton gradient. This
+electron transport chain-generated proton gradient is similar to the pH
+gradient created in mitochondria during aerobic respiration and is used
+in the same way to produce ATP. Protons flow down this gradient back
+out into the stroma through an ATP synthase to produce ATP, similar once
+again to mitochondria. The NADPH and ATP produced during the light
+reactions are used to complete photosynthesis in the Calvin cycle;
+NADPH and ATP supply the reducing power and energy necessary to
+make sugars from carbon dioxide.
+The oxygen produced in the light reactions is released from the plant as a
+byproduct of phot

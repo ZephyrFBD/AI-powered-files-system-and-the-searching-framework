@@ -1,0 +1,13 @@
+ repair mechanisms.
+Mistakes in mitosis or meiosis can also lead to mutations. Failure of homologous chromosomes to separate
+during meiosis can lead to an aneuploidy (an incorrect number of chromosomes). Aneuploidies in animals can be
+fatal or may cause sterility or other disorders. However, in plants, aneuploidies that result in polyploids (an entire
+extra set of chromosomes) can confer an advantage to the plant, making it more likely to survive.
+Genetic mutations can also be transmitted horizontally between members of the same generation. Some methods
+of horizontal transmission of genetic information include:
+■Transformation—the uptake of naked foreign DNA by a cell
+■Transduction—the transmission of DNA from one organism to another by viruses; as the virus transfers the
+DNA, the DNA sequence may be recombined or otherwise changed, leading to new mutations and variations
+■Conjugation—the transmission of DNA through cell-to-cell contact, usually through a connection called a
+pilus
+■Tra

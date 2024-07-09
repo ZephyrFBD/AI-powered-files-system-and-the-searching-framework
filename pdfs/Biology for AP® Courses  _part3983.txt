@@ -1,0 +1,13 @@
+ involved in the adaptive immune system
+CHAPTER SUMMARY
+33.1 Innate Immune Response
+The innate immune system serves as a first responder to pathogenic threats that bypass natural physical and chemical
+barriers of the body. Using a combination of cellular and molecular attacks, the innate immune system identifies the nature
+of a pathogen and responds with inflammation, phagocytosis, cytokine release, destruction by NK cells, and/or a
+complement system. When innate mechanisms are insufficient to clear an infection, the adaptive immune response is
+informed and mobilized.
+33.2 Adaptive Immune Response
+The adaptive immune response is a slower-acting, longer-lasting, and more specific response than the innate response.
+However, the adaptive response requires information from the innate immune system to function. APCs display antigens
+via MHC molecules to complementary naïve T cells. In response, the T cells differentiate and proliferate, becoming TH
+cells or CTLs. TH cells stimulate B cells 

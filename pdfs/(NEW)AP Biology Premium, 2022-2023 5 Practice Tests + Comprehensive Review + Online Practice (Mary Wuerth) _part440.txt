@@ -1,0 +1,13 @@
+ population.
+Directional Selection
+The type of selection that was seen in the peppered moths example is directional selection. Directional selection
+occurs when one end of the range of phenotypes is favored by natural selection, causing the frequency of that
+phenotype to increase over time. Directional selection is represented by the graph in Figure 19.3.
+Figure 19.3 Directional Selection
+Stabilizing Selection
+Natural selection can also lead to stabilizing selection, where the intermediate phenotype is favored and extreme
+phenotypes are selected against. Clutch size (the number of eggs produced per reproductive cycle by birds) exhibits
+stabilizing selection. If a bird lays a large number of eggs, that bird may have too many offspring to care for and
+feed, leading to poor reproductive success. However, if the bird lays only one or two eggs per reproductive cycle,
+there is a risk that none of the offspring may survive. In robins, the average clutch size is five to six eggs per nest.
+Figu

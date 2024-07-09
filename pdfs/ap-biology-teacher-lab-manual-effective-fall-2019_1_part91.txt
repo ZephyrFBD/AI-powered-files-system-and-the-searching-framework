@@ -1,0 +1,77 @@
+nd visit. 
+T26 Chapter 5 
+ 
+  
+ 
+ 
+■ Graphing, Mapping, and Ordering 
+Students need to graph different data sets, and graphing by scatter plots is an ordinary 
+scientific activity (see Figure 2). 
+Sour
+c
+e: 
+Le
+m
+o
+n
+e,
+ P. 
+20
+0
+7. G
+L
+O
+B
+E scientist
+s’ b
+l
+o
+g
+: M
+e
+a
+s
+u
+ring
+ t
+e
+m
+p
+er
+at
+ure
+ usi
+n
+g
+ 
+c
+r
+i
+ck
+e
+t
+s
+.
+Count chirps in 13 seconds. 
+Add 40.
+Measured Temperature (˚F) 
+40 
+50 
+60 
+70 
+80 
+90 
+90 
+80 
+70 
+60 
+50 
+40 
+Temperature (˚F) from Cricket Chirps 
+Figure 2. Sample Scatter Plot Graph. Often we would like a straight-line relationship 
+between our predicted value (temperature) based on actual measurements of another 
+variable (number of chirps) and our observed value (temperature). 
+The more data students graph, the sooner students begin to understand that certain 
+plot shapes or forms are easily associated with models that make it easier to infer 
+causal mechanisms. For example, a bell-shaped curve (see Figure 3) is associated with 
+random samples and normal dis

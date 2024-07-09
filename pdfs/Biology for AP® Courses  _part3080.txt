@@ -1,0 +1,10 @@
+vous System
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 26.18 Calcium entry through postsynaptic NMDA receptors can initiate two different forms of synaptic plasticity:
+long-term potentiation (LTP) and long-term depression (LTD). LTP arises when a single synapse is repeatedly
+stimulated. This stimulation causes a calcium- and CaMKII-dependent cellular cascade, which results in the insertion of
+more AMPA receptors into the postsynaptic membrane. The next time glutamate is released from the presynaptic cell,
+it will bind to both NMDA and the newly inserted AMPA receptors, thus depolarizing the membrane more efficiently. LTD
+occurs when few glutamate molecules bind to NMDA receptors at a synapse (due to a low firing rate of the presynaptic
+neuron). The calcium that does flow through NMDA receptors initiates a different calcineurin and protein phosphatase
+1-dependent cascade, which results in the endocytosis of AMPA receptors. This makes the posts

@@ -1,0 +1,52 @@
+ the high temp, they won’t have a cell cycle, and then when they shift to the lower
+temperature, it will begin to grow and the cell cycle will continue.
+Question 4
+a. Describe what happened to the biodiversity of the ecosystem before and after the fire.
+The biodiversity of the ecosystem increased following the fire.
+b. Explain your description in (a) using Simpson’s Diversity Index.
+Before the fire:
+Insect
+n
+n/N
+(n/N)2
+Hazel-hued bugs
+​ ​ 3
+3/44 = 0.068
+0.004624
+Hairy bear moths
+14
+14/44 = 0.318
+0.101124
+Telluride tiger beetles
+​ ​ 6
+6/44 = 0.136
+0.018496
+Golden-winged butterflies
+21
+21/44 = 0.477
+0.227529
+D = 0.004624 + 0.101124 + 0.018496 + 0.227529 = 0.351773
+Simpson’s Diversity Index = 1 – D = 0.648227
+After the fire:
+Insect
+n
+n/N
+(n/N)2
+Hazel-hued bugs
+10
+10/44 = 0.227
+0.05129
+Hairy bear moths
+​ ​ 9
+9/44 = 0.205
+0.042025
+Telluride tiger beetles
+15
+15/44 = 0.341
+0.098596
+Golden-winged butterflies
+10
+10/44 = 0.227
+0.05129
+D = 0.05129 + 0.042025 + 0.098596 + 0.05129 = 0.24301
+Simpson

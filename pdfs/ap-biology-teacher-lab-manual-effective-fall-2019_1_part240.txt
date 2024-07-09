@@ -1,0 +1,28 @@
+ritance patterns you 
+discover. 
+Try adding additional generations to your model to look at how allele frequencies 
+change in multiple generations. To do this, use your newly recalculated p and 
+ q values 
+to seed the next generation. Once you’ve included the second generation, you should be 
+able to copy additional generations so that your model looks something like Figure 9, 
+with each new generation determining the new p and 
+ q values for the next. 
+Figure 9 
+INVESTIGATION 2
+S38  Investigation 2 
+ 
+ 
+ 
+p=.6 
+q=.4 
+p=.6 
+q=.4 
+ 
+ 
+Try to create a graph of p values over several generations, for different-sized populations. 
+See if you can detect a pattern of how population size affects the inheritance pattern. Be 
+sure to try out both large and small populations of offspring. 
+This model relies on the RAND function to randomly select gametes from an infinite 
+gene pool. 
+• What would happen if there were no randomness to this selection? 
+• What kind of pattern of genotypes would you 

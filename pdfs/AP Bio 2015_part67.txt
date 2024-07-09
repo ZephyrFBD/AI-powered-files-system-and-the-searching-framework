@@ -1,0 +1,101 @@
+haded and unshaded nucleotides indicate the triplet codons of the 
+open reading frame, shown from left (5′) to right (3′) as the nontemplate (coding) strand. An “−“ indicates the 
+absence of a nucleotide. 
+Relative Positions of Nucleotides in Nontemplate (Coding) Sequence 
+1 (5′) 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27 (3′) 
+Elephant
+G A C
+A C
+C
+C
+A T
+C
+T
+G A A G A A G T
+C
+G G A A T
+A C
+Mouse
+G A C
+A G C
+C
+A C
+C
+T
+G A A G A A G T
+C
+T
+G A G T
+A C
+Lemur
+G A C
+A G C
+C
+A C
+C
+T
+G A A G A G G T
+C
+C
+G A G T
+A C
+Orangutan
+G A C
+A G C
+-
+A T
+T
+G G A A G A A A T
+C
+T
+G A G G A C
+Chimp
+G A C
+A G C
+-
+A T
+T
+G G A A G A A A T
+C
+T
+G A G G A C
+Human
+G A C
+A G C
+-
+A T
+T
+G G A A G A A A T
+C
+T
+G A G G A C
+*For each DNA segment, the alternating shaded and unshaded nucleotides indicate the triplet codons of the 
+open reading frame, shown from left (5′) to right (3′) as the nontemplate (coding) strand. An “−“ indicates the 
+absence of a nucleotide. 
+Unauthorized copying or reuse

@@ -1,0 +1,12 @@
+ so choice (D) is
+incorrect.
+44. (B) The best way to solve this type of problem is to treat each gene separately and then combine the
+probabilities. The probability that the cross AA × Aa would produce Aa is . Similarly, the probability that the
+cross Bb × Bb would produce Bb is also . The probability that the cross Cc × CC would produce Cc is also .
+Therefore, the probability of all three events occurring is the product of their individual probabilities: 
+. Choices (A), (C), and (D) do not list the correct probability.
+45. (A) The trait occurs in every generation and affects both males and females, so it is most likely an autosomal
+dominant trait. Sex-linked dominant traits would be passed on to every offspring of a female who has the trait.
+That’s not what’s shown here, so choice (B) is incorrect. Choice (C) is incorrect because sex-linked recessive
+traits are more often expressed in males than females because males have only one X chromosome.
+Mitochondrial inheritance occurs from mo

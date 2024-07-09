@@ -1,0 +1,16 @@
+the 
+sequence of bases that appear to align with your gene of interest. 
+If you click on the link titled “Distance tree of results,” you will see a cladogram with 
+the species with similar sequences to your gene of interest placed on the cladogram 
+according to how closely their matched gene aligns with your gene of interest. 
+■ Analyzing Results 
+Recall that species with common ancestry will share similar genes. The more similar 
+genes two species have in common, the more recent their common ancestor and the 
+closer the two species will be located on a cladogram. 
+As you collect information from BLAST for each of the gene files, you should be 
+thinking about your original hypothesis and whether the data support or cause you to 
+reject your original placement of the fossil species on the cladogram. 
+For each BLAST query, consider the following: 
+•  The higher the score, the closer the alignment. 
+•  The lower the e value, the closer the alignment. 
+•  Sequences with e values less than 

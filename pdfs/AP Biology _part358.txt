@@ -1,0 +1,18 @@
+y which a piece of DNA can be rapidly copied or amplified.
+Billions of copies of a fragment of DNA can be produced in a few hours.
+The DNA piece that is to be amplified is placed into a test tube with Taq
+polymerase (a heat-stable form of DNA polymerase extracted from
+extremophile bacteria), along with a supply of nucleotides (A, C, T, and
+G) and primers necessary for DNA synthesis. Once the DNA is amplified,
+these copies can be studied or used in a comparison with other DNA
+samples.
+The PCR technique has limitations:
+Some information about the nucleotide sequence of the target DNA
+must be known in advance in order to make the necessary primers.
+The size of the piece that can be amplified must be very short.
+Contamination is a major problem. If a few skin cells from the
+technician who is working with the sample accidently contaminate
+the sample, that could make obtaining accurate results difficult or
+impossible. Such an error could have dire consequences with a
+crime scene sample.
+Rest

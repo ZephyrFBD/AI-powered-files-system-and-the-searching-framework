@@ -1,0 +1,15 @@
+dia center personnel may recommend appropriate Web-based 
+options. 
+■ Graphs 
+A graph is a visual representation of your data, and you want your graph to be as clear 
+as possible to the reader for interpretation. First, you have to decide whether to use a 
+scatter plot in order to draw a “best fit” line through data points, a bar graph, or some 
+other representation with appropriate units. Use a line graph if your data are continuous 
+(e.g., the appearance of product over time in an enzyme reaction). If your data are 
+discontinuous (e.g., the amount of water consumption in different high schools), use a 
+bar graph. Your teacher might have other suggestions. 
+A graph must have a title that informs the reader about the experiment. Labeling 
+a graph as simply “Graph Number Four” doesn’t tell the reader anything about 
+the experiment, or the results. In comparison, the title “The Effect of Different 
+Concentrations of Auxin on Root Growth” tells the reader exactly what was being 
+measured.

@@ -1,0 +1,21 @@
+e
+Punnett square for this cross. There are 16 squares; therefore, all the ratios
+are out of 16.
+Obviously, many different genotypes are possible in the resulting F2
+generation, but you need not pay attention to them. Just pay attention to
+the phenotype ratio of the dihybrid cross. It is 9:3:3:1—9 tall, yellow; 3
+******ebook converter DEMO Watermarks*******
+tall, green; 3 short, yellow; and 1 short, green. To show this as a
+probability:
+F2: 9/16 tall, yellow 3/16 tall, green 3/16 short, yellow 1/16 short, green
+BEYOND MENDELIAN INHERITANCE
+Mendelian principles apply to traits determined by a single gene for which
+there are only two alleles. An example is height in pea plants (one gene),
+which has only two alleles (tall and short). Now we will consider
+situations in which two or more genes are involved in determining a
+particular phenotype.
+IST-1
+The inheritance pattern of many traits cannot be explained by simple Mendelian
+inheritance.
+Incomplete Dominance
+Incomplete dominance is charac

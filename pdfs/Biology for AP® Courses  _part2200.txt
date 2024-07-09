@@ -1,0 +1,47 @@
+r a small population of
+mice. The mice are either brown or white. Based on the
+data, is the population experiencing genetic drift? Explain.
+Generation
+Brown mice
+Black mice
+1
+14
+32
+2
+20
+26
+3
+24
+22
+4
+21
+28
+5
+19
+30
+6
+24
+29
+Table 19.2
+25. The large alpha male elephant seal is constantly
+fending off the advances of medium sized males. Small
+males are then able to sneak copulation with females and
+successfully pass on their genes. What is this an example
+of? Explain.
+Chapter 19 | The Evolution of Populations
+797
+a.
+This is an example of sexual selection. The
+females are selecting the small males over the
+large male.
+b.
+This is an example of genetic drift. Because
+there are so many medium-sized males to
+compete with the large alpha male, the small
+males are able to mate and cause the gene pool
+to shift towards smaller individuals.
+c.
+This is an example of positive frequency-
+dependent selection, which is selection that
+favors phenotypes that are either common or
+rare. The sneaky males (rare)

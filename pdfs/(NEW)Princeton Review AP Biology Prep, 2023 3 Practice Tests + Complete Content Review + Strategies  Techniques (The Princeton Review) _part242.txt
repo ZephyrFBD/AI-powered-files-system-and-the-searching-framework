@@ -1,0 +1,13 @@
+ule, usually just called acetyl-CoA) and CO2 is released.
+2 Pyruvic acid + 2 Coenzyme A + 2NAD+ → 2 Acetyl-CoA + 2CO2 + 2NADH
+Are you keeping track of our carbons? We’ve now gone from two three-carbon molecules to two two-carbon
+molecules. The extra carbons leave the cell in the form of CO2. Once again, two molecules of NADH are also
+produced for each glucose you started with. This process of turning pyruvic acid into acetyl-CoA is catalyzed by an
+enzyme complex called the pyruvate dehydrogenase complex (PDC).
+In the mitochondria, pyruvate is turned into acetyl-CoA and 1 NADH is made;
+double this if you are counting per glucose.
+Stage 3: The Krebs Cycle
+The next stage is the Krebs cycle, also known as the citric acid cycle. Each of the two acetyl-coenzyme A
+molecules will enter the Krebs cycle, one at a time, and all the carbons will ultimately be converted to CO2, which is
+released as a byproduct. This stage occurs in the matrix of the mitochondria.
+The Krebs cycle begins with each mo

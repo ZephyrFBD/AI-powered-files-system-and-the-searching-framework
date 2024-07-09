@@ -1,0 +1,18 @@
+hanges in response to a change in the environment. Rather, the frequency
+of an allele in the population may change.
+PROBLEM 3
+Determine the percent of the population that is hybrid if the allelic frequency of the
+recessive trait is 0.5.
+In this example, you are given the value of q (not q2). You only need to
+subtract from 1 to get the value of p.
+If p + q = 1 and q = 0.5, then p + 0.5 = 1.
+Since both p = 0.5 and q = 0.5, the percentage of the population that is
+hybrid is 2pq = 0.5 × 0.5 × 2 = 50%.
+SPECIATION AND REPRODUCTIVE ISOLATION
+The definition of a species is a population whose members have the
+potential to interbreed in nature and produce viable, fertile offspring. Lions
+and tigers can be induced to interbreed in captivity but would not do so
+naturally. Therefore, they are considered separate species. Horses and
+donkeys can interbreed in nature and produce a mule that is not fertile.
+Therefore, the horse and donkey belong to different species.
+A species is defined in terms of re

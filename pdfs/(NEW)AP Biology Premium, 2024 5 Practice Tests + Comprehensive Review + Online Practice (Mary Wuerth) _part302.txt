@@ -1,0 +1,23 @@
+of offspring with purple flowers
+is  and the probability of offspring with white flowers is .
+Also recall from the monohybrid cross of Tt × Tt (Figure 13.2) that the probability of tall offspring is  and the
+probability of short offspring is .
+So the probability of this cross producing a plant that is tall and has purple flowers is the product of the
+probability of producing a tall plant 
+ times the probability of producing a plant with purple flowers 
+. The result
+is 
+.
+Using the same process, the probability of this cross producing a tall plant with white flowers is the product of
+the probability of producing a tall plant 
+ times the probability of producing a plant with white flowers 
+. The
+result is 
+.
+Similarly, the probability of this cross producing a short plant with purple flowers is the product of the
+probability of producing a short plant 
+ times the probability of producing a plant with purple flowers 
+. The
+result is 
+.
+Finally, the probability of this cross producing a sh

@@ -1,0 +1,13 @@
+ode in a phylogenetic tree.
+A node represents a common ancestor. This means that the species that branch from that point had a common
+ancestor and were once the same species. That species got split and each group evolved differently.
+(b) Identify two of the viruses that are LEAST similar to GGE.
+Two viruses with the least similarity to GGE are YF and SRE. Actually, YF and TYU and SRE are all distantly related
+to GGE.
+(c) In 50 years, new data have identified that TBEwest(Hypr) is no longer in circulation, but it seems to have
+evolved in two directions: TBEwest1 and TBEwest2. Using the empty tree below, correctly indicate
+TBEwest(neu), TBEwest(Kuml), TBEwest1m and TBEwest2.
+(d) This phylogenetic tree was created using nucleotide sequences. If protein sequences were used instead, explain
+why this might increase the similarity between the viruses?
+If protein sequences were used, the sequences might show more similarity because there is more than one codon
+for some amino acids. This means 

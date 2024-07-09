@@ -1,0 +1,17 @@
+ is a “silent”
+mutation. However, if the mutation changes the amino acid sequence of
+the protein, the result can range from an insignificant change to a lethal
+change depending on where the alteration in amino acid sequence takes
+place.
+Frameshiƞ mutations involve a change in the reading frame of an mRNA.
+Because ribosomes and tRNAs “read” the mRNA in sections of three
+bases (codons), if a base is inserted or deleted due to faulty transcription
+or a mutation in the actual DNA, the reading of the resulting mRNA will
+shiȇ, and this is called a frameshiȇ mutation. Base insertions and
+deletions, particularly toward the start of the protein’s amino acid
+sequence, can render the remaining structure nonfunctional as almost
+every amino acid along the sequence gets changed.
+Nonsense mutations produce a premature termination of the polypeptide
+chain by changing one of the codons to a stop codon. Beta-thalassemia is
+a hereditary disease in which red blood cells are produced with little or
+no func

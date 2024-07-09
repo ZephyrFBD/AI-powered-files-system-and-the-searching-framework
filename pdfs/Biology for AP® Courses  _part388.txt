@@ -1,0 +1,45 @@
+ica Acta,
+1,768, 2007) and compared with the speed of movement of
+O2 through water. These measurements were carried out at
+four different temperatures. One type of membrane was
+obtained from the cells in the eyeball of a calf (lens lipid).
+Synthetic membranes composed of palmitic acid with
+cholesterol (POPC/CHOL) and without cholesterol
+(POPC) were also used. The results from these
+experiments are shown in the table below.
+Temperature (°C)
+15
+25
+35
+45
+Material
+Speed (cm/s)
+Lens lipids
+15
+30
+65
+110
+POPC/CHOL 15
+30
+60
+95
+POPC
+55
+100
+155
+280
+Water
+45
+55
+65
+75
+Table 3.3
+B. Represent these data graphically. The axes should be
+labeled, and different symbols should be used to plot data
+for each material.
+C. Analyze the data by comparing transport of oxygen
+through the biological membrane, water, and the synthetic
+membranes. Consider both membrane composition and
+temperature in your analysis.
+The plasma membrane separates the interior and the
+exterior of the cell. A potential to do work is est

@@ -1,0 +1,13 @@
+eceptor. Examples of juxtacrine
+signaling include plasmodesmata in plants (which involve the ligand traveling between channels that connect
+adjacent cells) and antigen-presenting cells in the human immune system (which signal helper T cells
+through direct cell-to-cell contact).
+Figure 10.2 Juxtacrine Signaling
+3. Paracrine signaling—In paracrine signaling, the cell secretes a ligand that travels a short distance, eliciting
+an effect on cells in the nearby area. These ligands are sometimes referred to as local regulators since they
+only affect cells in the immediate vicinity of the cell that is sending the signals. Neurotransmitters are local
+regulators that travel the short distance across a synapse to communicate with nearby cells.
+Figure 10.3 Paracrine Signaling
+4. Endocrine signaling—Some ligands travel a long distance between the sending and receiving cells; this is
+called endocrine signaling. Ligands that travel a long distance are called hormones. Insulin, a hormone that
+is produ

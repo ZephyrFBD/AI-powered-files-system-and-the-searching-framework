@@ -1,0 +1,14 @@
+gonic reaction. Enzymes cannot change an energetically unfavorable reaction into an energetically favorable
+reaction.
+Figure 7.3 Reaction Profiles
+Energy and Metabolism/Coupled Reactions
+Life requires a constant input of energy to power cellular processes and maintain order in living systems. The energy
+input into the cell must be greater than the energy requirements of the cell in order to maintain life. Processes that
+release energy can be paired (or coupled) with processes that require energy. These coupled reactions, as shown in
+Figure 7.4, occur in multiple steps to allow for the controlled transfer of energy between molecules, leading to more
+efficiency.
+Figure 7.4 Coupled Reactions
+Coupling an exergonic reaction with an endergonic reaction allows the energy released by the exergonic reaction
+to “drive” the endergonic reaction. For example, the breakdown of ATP into ADP and a phosphate group (Pi) is
+exergonic and releases approximately 30 kilojoules of energy per mole of ATP:
+The

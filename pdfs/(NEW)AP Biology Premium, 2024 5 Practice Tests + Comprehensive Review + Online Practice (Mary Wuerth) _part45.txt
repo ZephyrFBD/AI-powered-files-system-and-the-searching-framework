@@ -1,0 +1,13 @@
+ndard deviation
+n = sample size
+Notice that as the sample size (n) increases, the standard error of the mean decreases. You may already
+understand that an experiment performed with a larger sample size is considered more reliable than an experiment
+performed with a smaller sample size. Standard error of the mean gives a mathematical reason for why experiments
+with larger sample sizes are typically more reliable. Here’s how you would calculate the standard error of the mean
+for data set A and data set B:
+Data Set A: 1, 2, 3, 4, 5; s = 1.58 and n = 5
+Data Set B: 3, 3, 3, 3, 3; s = 0 and n = 5
+Standard error of the mean can be used to create a type of error bar on a graph called a 95% confidence interval
+(95% CI). A 95% confidence interval does NOT mean you are 95% confident in your data! What a 95% confidence
+interval does mean is that if you repeated an experiment 100 times and calculated the mean of the data you collected
+each time, the mean would fall within the 95% confidence interva

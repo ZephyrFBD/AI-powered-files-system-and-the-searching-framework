@@ -1,0 +1,15 @@
+ Make sure each line or bar on your graph is easily identifiable by the reader. 
+Axes must be clearly labeled with units. 
+•  The x-axis shows the independent variable. Time is an example of an independent 
+variable. Other possibilities for an independent variable might be light intensity, or 
+the concentration of a hormone or nutrient. 
+•  The y-axis denotes the dependent variable, or what is being affected by the condition 
+(independent variable) shown on the x-axis. 
+•  Intervals must be uniform. For example, if one square on the x-axis equals  
+five minutes, each interval must be the same and not change to ten minutes or  
+one minute. If there is a break in the graph, such as a time course over which  
+little happens for an extended period, note this with a break in the axis and a  
+corresponding break in the data line.  
+•  For clarity, you do not have to label each interval. You can label every five or ten 
+intervals, or whatever is appropriate. 
+•  Label the x-axis and y-axis so

@@ -1,0 +1,18 @@
+roteins
+consistently produced from the same gene as a result of separate
+mRNA mutations. (B) is incorrect because the mRNA sequences are
+identical at some points, which would not be possible if both the sense
+and antisense strands were being used. (D) is incorrect because the
+proteins have diﬀering amino acid sequences, which would not result
+simply from post-translational modifications. Moreover, (D) would not
+explain why the mRNA sequences are themselves diﬀerent.
+5. A
+Learning Objective: 13.5
+Messenger RNA is read in the 5′ to 3′ direction, so to convert the
+codons to amino acids, simply move from leȇ to right and match each
+one to the table. This yields a sequence of ser-ala-his-leu-tyr-val, as in
+(A). (B) is incorrect because it mistakenly interprets the third and fiȇh
+codons in the sequence. (C) is incorrect because it provides the
+sequence if an antisense mRNA were translated (UCG becomes AGC,
+GCA becomes CGU, etc.), but mRNA is read directly by the ribosome
+without the creation

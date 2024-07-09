@@ -1,0 +1,13 @@
+volving. Populations in an unchanging environment
+may not experience the selective pressures that lead to evolution. Scientists Godfrey Hardy and Wilhelm Weinberg
+each developed equations that describe these stable populations. For a population to have stable allele frequencies,
+five conditions must be met:
+1. Large population size—A large population size reduces the chances of genetic drift occurring. In small
+populations, a change in allele frequencies (caused by genetic drift) is much more likely.
+2. Random mating—Random mating eliminates the possibility of changing allele frequencies caused by sexual
+selection.
+3. No gene flow—For allele frequencies to be stable, individuals must not be entering or leaving the population.
+The introduction of new individuals, or the movement of individuals out of a population, could change the
+allele frequencies.
+4. No selection—All phenotypes in the population need to have equal reproductive success in order to keep
+allele frequencies stable. If on

@@ -1,0 +1,16 @@
+H2 to the phosphorylation of
+ADP. The coupling agent for these two processes is a proton gradient
+across the inner mitochondrial membrane, maintained by the ETC. As
+NADH and FADH2 pass their electrons to the ETC, hydrogen ions (H+) are
+pumped out of the matrix, across the inner mitochondrial membrane,
+and into the intermembrane space at each of the three protein
+complexes. The continuous translocation of H+ creates a positively
+charged, acidic environment in the intermembrane space. This
+electrochemical gradient generates a proton-motive force, which drives
+H+ back across the inner membrane and into the matrix. However, to pass
+through the membrane (which is impermeable to ions), the H+ must flow
+through specialized channels provided by enzyme complexes called ATP
+synthetases. As the H+ pass through the ATP synthetases, enough energy
+is released to allow for the phosphorylation of ADP to ATP. The coupling
+of the oxidation of NADH and FADH2 with the phosphorylation of ADP is
+called oxid

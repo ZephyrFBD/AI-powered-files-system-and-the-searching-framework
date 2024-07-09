@@ -1,0 +1,11 @@
+hoice (A) is
+incorrect because the 95% confidence interval for the data from Sacramento overlaps with the 95% confidence
+interval for the data from Oakville (the upper limit for Sacramento of 19.6 is greater than the lower limit for
+Oakville of 15.1). Similarly, the 95% confidence intervals for data from San Rafael and Oak Valley overlap (the
+upper limit for San Rafael of 37.3 is greater than the lower limit for Oak Valley of 30.1), so choice (C) is
+incorrect. Choice (D) is incorrect because the 95% confidence intervals for data from San Rafael and Oakville
+overlap (the upper limit for Oakville of 25.1 is greater than the lower limit for San Rafael of 20.1).
+10. (D) The upper limit of a 95% confidence interval is determined by adding two times the standard error of the
+mean to the mean of the data set, which is represented by choice (D). The lower limit of the 95% confidence
+interval is determined by subtracting two times the standard error of the mean from the mean of the data set.
+Ch

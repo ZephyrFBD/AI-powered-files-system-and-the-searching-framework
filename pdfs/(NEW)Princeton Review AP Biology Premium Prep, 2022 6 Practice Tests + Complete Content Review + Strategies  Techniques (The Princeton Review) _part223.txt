@@ -1,0 +1,13 @@
+ases, however, enzyme denaturation is reversible if the original optimal environmental
+conditions of the enzyme are restored. This allows the enzyme to regain its activity and function.
+Break Down Words
+To denature is to “unnature” something, to change its nature, or to remove the
+characteristics that make it unique. Without proper and special folding, a
+protein loses its nature.
+Here’s one thing to remember: all enzymes operate at an ideal temperature. For most human enzymes, this
+temperature is body temperature, 37°C.
+Not all organisms have a constant body temperature. For example, ectotherms depend on the environment to control
+their varying body temperatures. Q10 is a measure of temperature sensitivity of a physiological process or enzymatic
+reaction rate. The equation for Q10 is included on the AP Biology Equations and Formulas sheet.
+The temperature unit must be in either Celsius or Kelvin, and the same unit must be used for T1 and T2. The two
+reaction rates (k1 and k2) must also

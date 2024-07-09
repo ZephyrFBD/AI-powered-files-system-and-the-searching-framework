@@ -1,0 +1,23 @@
+ent
+and the mass of the potato is dependent.
+Include units when you label the x-axis and the y-axis (i.e., mL/sec).
+There must be equal intervals along the x-axis. There must also be
+equal intervals along the y-axis.
+******ebook converter DEMO Watermarks*******
+f.
+g.
+h.
+i.
+Use // marks to show a break on the x- or y-axis if the values do not
+begin at zero.
+Do not extend a graph line if you do not have data to do so. If the data
+do not start at zero or do not touch the x- or y-axis, then you may not
+extend the graph line to those points.
+The graph line must not be extended beyond the last data point
+(extrapolation) unless you mean to show a prediction about what may
+happen. In that case, extend the solid line with a dashed line.
+Be able to interpret standard error bars.
+Plot the Data Points, Then Draw a Line of Best Fit
+If you are instructed to connect the dots, do so. You may be asked to draw
+or interpret a line of best fit (or a curve of best fit). This may not be
+something you ever e

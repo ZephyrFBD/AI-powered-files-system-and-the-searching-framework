@@ -1,0 +1,70 @@
+
+Control 
+127 
+46 
+Treated 
+179 
+67 
+Sample Table 4. Calculation of Chi-Square Value 
+Group 
+Observed (o) 
+Expected (e) 
+(o - e) 
+Left parenthesis o minus e right parenthesis squared
+Start fraction left parenthesis o minus e right parenthesis squared over e end fraction.
+Control Interphase 
+148 
+127 
+21 
+441 
+3.47 
+Control Mitosis 
+25 
+46 
+-21 
+441 
+9.59 
+Treated Interphase 
+161 
+182 
+-21 
+441 
+2.42 
+Treated Mitosis 
+88 
+67 
+21 
+441 
+6.58 
+Total of (o - e)2/e = chi-square (χ2) = 22.06 
+Since the calculated χ2 is greater than the table value, the null hypothesis (treatment has 
+no effect) is rejected. 
+Investigation 7  T133 
+INVESTIGATION 7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■ Postlab Review 
+These questions can be answered in a report, as a group activity, or as homework. 
+•  What was the importance of collecting the class data? 
+•  Was there a significant difference between the groups? 
+•  Did the fungal pathogen lectin increase the number of cells in mitosis? 
+•  What other ex

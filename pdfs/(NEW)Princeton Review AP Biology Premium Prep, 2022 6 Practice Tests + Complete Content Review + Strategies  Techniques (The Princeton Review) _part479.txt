@@ -1,0 +1,13 @@
+h.
+HYPOTHESIS TESTING
+t-test and p-values
+Many experiments involve comparing two datasets or two groups, and a t-test can be used to calculate whether the
+means of two groups are significantly different from each other. This test is most often applied to datasets that are
+normally distributed. A p-value equal to or below 0.05 is considered significant in most biology-related fields. T-test
+calculations involve comparing each data point to the group’s mean and also take standard deviation and sample size
+into consideration.
+Understanding mathematically how p-values are calculated and t-tests are performed is not important here. Instead,
+it’s important that you understand how these values are used to interpret data.
+Let’s work through an example to demonstrate how common statistics are used in biological labs.
+A researcher has sections of two different types of skin cancers from human patients. She stains them for the protein
+CD31, which is a marker of endothelial cells. She then takes d

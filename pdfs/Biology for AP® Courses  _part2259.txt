@@ -1,0 +1,15 @@
+modification” because
+even though related organisms have many of the same characteristics and genetic codes, changes occur. This pattern repeats
+over and over as one goes through the phylogenetic tree of life:
+1.
+A change in the genetic makeup of an organism leads to a new trait which becomes prevalent in the group.
+2.
+Many organisms descend from this point and have this trait.
+3.
+New variations continue to arise: some are adaptive and persist, leading to new traits.
+4.
+With new traits, a new branch point is determined (go back to step 1 and repeat).
+If a characteristic is found in the ancestor of a group, it is considered a shared ancestral character because all of the
+organisms in the taxon or clade have that trait. The vertebrate in Figure 20.10 is a shared ancestral character. Now consider
+the amniotic egg characteristic in the same figure. Only some of the organisms in Figure 20.10 have this trait, and to those
+that do, it is called a shared derived character because this trait de

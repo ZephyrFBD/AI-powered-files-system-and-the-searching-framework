@@ -1,0 +1,12 @@
+rand is DNA polymerase. But DNA polymerase, oddly enough, can add
+nucleotides only to the 3’ end of an existing strand. Therefore, to start off replication, an enzyme called RNA
+primase adds a short strand of RNA nucleotides called an RNA primer. After replication, the primer is degraded by
+enzymes and replaced with DNA so that the final strand contains only DNA.
+Neither DNA strand is directly copied; however, by building a new partner
+strand for each of them, a two-stranded molecule is created that is identical to
+the original.
+During DNA replication, one DNA strand is called the leading strand, and it is made continuously. That is, the
+nucleotides are steadily added one after the other by DNA polymerase. The other strand—the lagging strand—is
+made discontinuously. Unlike the leading strand, the lagging strand is made in pieces of nucleotides known as
+Okazaki fragments. Why is the lagging strand made in small pieces?
+Nucleotides are added only in the 5’ to 3’ direction since nucleotid

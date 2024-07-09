@@ -1,0 +1,16 @@
+locks the cell cycle at the G1 checkpoint until the cell achieves a requisite size.
+What is the most likely mechanism that Rb employs to halt the cell cycle?
+•
+A cell has a mutation that results in the production of an abnormal cyclin-dependent kinase at the G2/M
+checkpoint. What is a likely consequence of the mutation on the cell cycle?
+10.4 | Cancer and the Cell Cycle
+In this section, you will explore the following question:
+•
+What causes uncontrolled cell growth, and why does it often cause cancer?
+426
+Chapter 10 | Cell Reproduction
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Connection for AP® Courses
+Cancer results from unchecked cell division caused by a breakdown of the mechanisms that regulate the cell cycle. The
+loss of control begins with a change in the DNA sequence of a gene that codes for one of the regulatory molecules. Faulty
+instructions lead to a protein that does not function as it should. One culprit that has been identified is the

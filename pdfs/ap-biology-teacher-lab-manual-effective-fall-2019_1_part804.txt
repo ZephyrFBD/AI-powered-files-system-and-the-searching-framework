@@ -1,0 +1,13 @@
+chemical reactions. In this investigation the term 
+is used to establish a standard for a reaction. Thus, when manipulating components of 
+a reaction (in this case, substrate or enzyme), you have a reference to help understand 
+what occurred in the reaction. The baseline may vary with different scenarios pertinent 
+to the design of the experiment, such as altering the environment in which the reaction 
+occurs. In this scenario, different conditions can be compared, and the effects of 
+changing an environmental variable  (e.g., pH) can be determined. 
+Rate can have more than one applicable definition because this lab has two major 
+options of approach, i.e., using a color palette and/or a spectrophotometer to measure 
+percent of light absorbance. When using a color palette to compare the change in a 
+reaction, you can infer increase, decrease, or no change in the rate; this inference is 
+usually called the relative rate of the reaction. When using a spectrophotometer (or 
+other measurin

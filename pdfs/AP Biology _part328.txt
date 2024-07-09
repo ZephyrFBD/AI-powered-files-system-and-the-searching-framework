@@ -1,0 +1,24 @@
+**
+■
+■
+■
+Figure 9.8 Translation
+ The process of translation consists of three stages: initiation,
+elongation, and termination.
+Initiation begins when mRNA becomes attached to a subunit of the
+ribosome. This first codon is always AUG. It must be positioned
+correctly in order for transcription of an amino acid sequence to
+begin.
+Elongation continues as tRNA brings amino acids to the ribosome
+and a polypeptide chain is formed. One mRNA molecule is
+generally translated simultaneously by several ribosomes in clusters
+called polyribosomes.
+Termination of an mRNA strand is complete when a ribosome
+reaches one of three termination or stop codons. A release factor
+breaks the bond between the tRNA and the last amino acid of the
+polypeptide chain. The polypeptide is freed from the ribosome, and
+mRNA is broken down.
+The Genetic Code
+The complete genetic code is shown in Figure 9.9. There are 64 (43)
+possible combinations of the four nitrogenous bases. Notice that AUG,
+which codes for methionine, a

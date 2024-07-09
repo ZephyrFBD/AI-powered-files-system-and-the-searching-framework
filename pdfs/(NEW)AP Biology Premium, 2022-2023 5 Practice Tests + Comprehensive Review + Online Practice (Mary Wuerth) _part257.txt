@@ -1,0 +1,10 @@
+te growth, repair, and reproduction of cells in living
+organisms. This regulation is achieved through the use of checkpoints during the cell cycle. Some of these
+checkpoints are controlled by the interactions between cyclins and cyclin-dependent kinases. Cyclin-dependent
+kinases are present at constant levels throughout the cell cycle. These kinases add phosphate groups to other
+molecules, activating those molecules. However, cyclin-dependent kinases themselves are inactive until they are
+bound to cyclin proteins. The levels of cyclin proteins vary during the cell cycle, reaching their maximum just
+before mitosis starts. When cyclins are bound to cyclin-dependent kinases, a complex called mitosis-promoting
+factor (MPF) is formed. MPF triggers the start of mitosis. See Figure 11.2.
+Figure 11.2 Levels of Cyclins, Cyclin-Dependent Kinases, and Mitosis-Promoting Factor in the Cell Cycle
+All of the cells in an organism that are not involved with sexual reproduction are referred to as somati

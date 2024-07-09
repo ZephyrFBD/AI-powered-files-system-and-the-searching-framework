@@ -1,0 +1,12 @@
+ internal signals, transmit and
+integrate information, and produce responses.
+All functions performed by the nervous system—from a simple motor reflex to more advanced functions like making a
+memory or a decision—require neurons to communicate with one another. While humans use words and body language to
+communicate, neurons use electrical and chemical signals. Just like a person in a committee, one neuron usually receives
+and synthesizes messages from multiple other neurons before “making the decision” to send the message on to other
+neurons.
+Nerve Impulse Transmission within a Neuron
+For the nervous system to function, neurons must be able to send and receive signals. These signals are possible because
+each neuron has a charged cellular membrane (a voltage difference between the inside and the outside), and the charge
+of this membrane can change in response to neurotransmitter molecules released from other neurons and environmental
+stimuli. To understand how neurons communicate, one 

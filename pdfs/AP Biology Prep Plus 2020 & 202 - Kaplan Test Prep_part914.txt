@@ -1,0 +1,28 @@
+tance between genes on a chromosome.
+(B)
+Linked genes never cross over.
+(C)
+Recessive genes are less common than dominant genes.
+(D)
+Questions 44–45
+Free energy (G) is defined as ΔG = ΔH – TΔS where H is enthalpy, T is
+temperature in Kelvin, and S is entropy. The ΔG during a reaction indicates
+whether or not the reaction occurs spontaneously.
+Living organisms use free energy to grow, maintain organization, and reproduce.
+Examples of reactions that occur in cells include breaking down glucose,
+converting pyruvate to lactate, and/or synthesizing ATP:  
+glucose + O2 → CO2 + H2O
+ΔG = –2880 kJ/mol of glucose
+glucose → lactate + H+
+ΔG = –195.8 kJ/mol
+pyruvate + NADH + H+ → lactate + NAD+
+ΔG = –25.1 kJ/mol
+ADP + Pi → ATP + H2O
+ΔG =  57 kJ/mol
+44. Which of the following statements best describes how cells use energy
+from the breakdown of glucose via cellular respiration to increase
+organization in the system?
+Cells can couple the endergonic reaction with a process that
+increases entropy.
+(A)
+C

@@ -1,0 +1,27 @@
+trait, which is caused by a point
+mutation.
+The amino acid sequence will remain the same because
+multiple codons code for the same amino acid.
+The amino acid sequence will remain the same because 15% of
+all codons code for the same amino acid.
+The following is a codon sequence in a cell: …UGU CCC UAC
+AGU … What would happen to the amino acid sequence if the
+codon sequence sustains one mutation and the bold nucleotide
+becomes A?
+The amino acid sequence will remain unchanged because
+multiple codons code for the same amino acid.
+The amino acid sequence will remain unchanged because
+almost every mutation is corrected by DNA proofreading.
+The cell will be transformed into a cancer cell.
+No amino acid sequence will be produced because UAA is a
+Stop codon, and translation will not continue.
+A particular triplet code on DNA is AAA. What is the anticodon for
+it?
+AAA
+TTT
+UUU
+CCC
+Which of the following is correct about DNA?
+Almost 97% of the human genome are genes that code for
+polypeptides.
+The 

@@ -1,0 +1,9 @@
+ls arise from B cells that were stimulated by antigens. Similar to T
+cells, naïve B cells initially are coated in thousands of B cell receptors (BCRs), which are membrane-bound forms of Ig
+(immunoglobulin, or an antibody). The B cell receptor has two heavy chains and two light chains connected by disulfide
+linkages. Each chain has a constant and a variable region; the latter is involved in antigen binding. Two other membrane
+proteins, Ig alpha and Ig beta, are involved in signaling. The receptors of any particular B cell, as shown in Figure 33.13
+are all the same, but the hundreds of millions of different B cells in an individual have distinct recognition domains that
+contribute to extensive diversity in the types of molecular structures to which they can bind. In this state, B cells function
+as APCs. They bind and engulf foreign antigens via their BCRs and then display processed antigens in the context of MHC
+II molecules to TH2 cells. When a TH2 cell detects that a B cell is bound to

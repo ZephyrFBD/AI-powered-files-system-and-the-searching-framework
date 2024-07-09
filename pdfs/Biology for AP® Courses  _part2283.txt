@@ -1,0 +1,11 @@
+
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 20.16 Three alternate hypotheses of eukaryotic and prokaryotic evolution are (a) the nucleus-first hypothesis,
+(b) the mitochondrion-first hypothesis, and (c) the eukaryote-first hypothesis.
+Web and Network Models
+The recognition of the importance of HGT, especially in the evolution of prokaryotes, has caused some to propose
+abandoning the classic “tree of life” model. In 1999, W. Ford Doolittle proposed a phylogenetic model that resembles a
+web or a network more than a tree. The hypothesis is that eukaryotes evolved not from a single prokaryotic ancestor, but
+from a pool of many species that were sharing genes by HGT mechanisms. As shown in Figure 20.17a, some individual
+prokaryotes were responsible for transferring the bacteria that caused mitochondrial development to the new eukaryotes,
+whereas other species transferred the bacteria that gave rise to chloroplasts. This model is often called the “

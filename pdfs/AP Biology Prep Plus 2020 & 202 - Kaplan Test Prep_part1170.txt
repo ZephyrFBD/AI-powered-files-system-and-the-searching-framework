@@ -1,0 +1,17 @@
+bilizing selection shiȇs the phenotypes away from the extremes,
+resulting in UV reflectance values somewhere in between species A and D. 
+55. D
+According to the question, DNP dissipates the mitochondrial proton
+gradient, which is essential for generating ATP via the ATP synthase.
+Because there is less of a proton gradient, the rate of ATP production
+should decrease, which allows you to eliminate (A). While the rate of ATP
+production is decreased by DNP, this doesn’t impair the actions of the
+electron transport chain, which will continue to oxidize NADH and FADH2
+to NAD+ and FAD+ and consume oxygen. Thus, you will see an increase in
+the concentration of NAD+ and a decrease in NADH concentration, which
+eliminates (B) and (C). Therefore, (D) is correct.
+56. D
+A cross between a heterozygous yellow fish (Yy) and an orange fish (yy)
+would yield an oﬀspring ratio of 1:1 between yellow- and orange-finned
+fish. Of the 754 fish, it would be expected that 377 would be yellow and
+377 would be oran

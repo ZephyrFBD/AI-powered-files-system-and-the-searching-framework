@@ -1,0 +1,13 @@
+ would expect
+the mean to be outside of the 95% confidence interval.
+To construct a 95% confidence interval, you need to know the upper limit of the interval and the lower limit of
+the interval. The upper limit of the 95% confidence interval is found by starting with the mean and then adding two
+times the standard error of the mean:
+To find the lower limit of the 95% confidence interval, start with the mean and then subtract two times the standard
+error of the mean:
+Here’s an example to practice working with 95% confidence intervals.
+An AP Biology class grows “Fast Plants” (Brassica rapa) and records the height of each plant on day 28 of
+growth. The mean plant height and standard error of the mean are calculated. The 10 tallest plants are cross-
+pollinated and produce seeds. These seeds are harvested and planted to form a second generation of plants. The
+height of each plant in this second generation is measured, and again the mean plant height and standard error of the
+mean are calcul

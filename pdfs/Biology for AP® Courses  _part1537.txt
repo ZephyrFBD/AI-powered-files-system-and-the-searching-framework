@@ -1,0 +1,12 @@
+eukaryotic chromosome; humans can have up to 100,000 origins of
+replication. The rate of replication is approximately 100 nucleotides per second, much slower than prokaryotic replication.
+566
+Chapter 14 | DNA Structure and Function
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+In yeast, which is a eukaryote, special sequences known as Autonomously Replicating Sequences (ARS) are found on the
+chromosomes. These are equivalent to the origin of replication in E. coli.
+The number of DNA polymerases in eukaryotes is much more than prokaryotes: 14 are known, of which five are known to
+have major roles during replication and have been well studied. They are known as pol α, pol β, pol γ, pol δ, and pol ε.
+The essential steps of replication are the same as in prokaryotes. Before replication can start, the DNA has to be made
+available as template. Eukaryotic DNA is bound to basic proteins known as histones to form structures called nucleosomes.
+The chromatin (th

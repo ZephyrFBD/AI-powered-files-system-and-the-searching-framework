@@ -1,0 +1,12 @@
+no mutations, (3) no immigration or emigration, (4) random mating, and (5) no natural selection.
+Hardy-Weinberg in Real World Conditions
+When the five conditions of Hardy-Weinberg equilibrium are met, the gene pool in a population is relatively stable.
+However, in real-world populations, it is unlikely that a population will meet all of the five conditions. It is
+important to understand the consequences on the population if any of the five conditions are not met:
+1. If the population is small, the population will be more susceptible to random environmental impact than if the
+population is large. A random process that causes allele frequencies to change is known as genetic drift. In other
+words, small populations are more susceptible to genetic drift.
+2. If mutations are present in a population, new alleles will be introduced into the population and hence genetic
+equilibrium will be disturbed. For example, an error in DNA replication can result in a new allele being
+introduced.
+3. If im

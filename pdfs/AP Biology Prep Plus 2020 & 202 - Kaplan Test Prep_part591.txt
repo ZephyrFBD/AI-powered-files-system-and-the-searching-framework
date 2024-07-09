@@ -1,0 +1,15 @@
+etrimental consequences.
+Both intercellular (external) and intracellular (internal) signal
+transmissions regulate gene expression. Signals may activate
+transcription and tell the developing organism which genes to express and
+when to express them. Additionally, external signals may trigger
+intracellular signaling pathways or signal transduction cascades. For
+example, in eukaryotes, cAMP is a small molecule that is involved in
+amplifying the message in intracellular signaling pathways. In bacteria,
+cAMP regulates metabolic gene expression. When glucose concentration is
+low, cAMP accumulates and transcription factors are activated to turn on
+the lac operon. In plant cells, ethylene triggers fruit-ripening. Special
+receptors bind to ethylene, which triggers a cascade that turns oﬀ anti-
+ripening genes. Ripened fruits invite animals to consume them and
+disperse their seeds. Ethylene produced during certain developmental
+conditions can also signal seeds to germinate, prompt leaves to change

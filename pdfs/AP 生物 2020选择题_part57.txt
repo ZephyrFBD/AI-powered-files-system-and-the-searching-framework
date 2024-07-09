@@ -1,0 +1,69 @@
+ 2pq + q2 = 1 
+p = frequency of allele 1 in a 
+population 
+p + q = 1 
+q = frequency of allele 2 in a 
+population 
+x = sample mean  
+n = sample size 
+s = sample standard deviation (i.e., the sample-based 
+estimate of the standard deviation of the 
+population)  
+o = observed results
+e 
+ = expected results 
+ = sum of all 
+Degrees of freedom are 
+ equal to the number of 
+  
+distinct possible outcomes minus one. 
+Metric Prefixes 
+Factor 
+Prefix 
+Symbol 
+ 
+109 
+giga 
+ 
+G 
+ 
+106 
+mega 
+M 
+ 
+103 
+kilo 
+k 
+ 
+10–1
+deci
+d 
+10–2
+centi
+c 
+10–3
+milli
+m 
+10–6
+micro 
+μ 
+10–9
+nano
+n
+10– 12
+pico
+p 
+Mode = value that occurs most frequently in a data set 
+ 
+Median = middle value that separates the greater and lesser halves of a data set 
+Mean = sum of all data points divided by number of data points 
+Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum) 
+42
+AP Biology Practice Exam 
+AP Biology Practice Exam 43 
+ 
+ 
+Population Growth
+ 
+ 
+Exponen

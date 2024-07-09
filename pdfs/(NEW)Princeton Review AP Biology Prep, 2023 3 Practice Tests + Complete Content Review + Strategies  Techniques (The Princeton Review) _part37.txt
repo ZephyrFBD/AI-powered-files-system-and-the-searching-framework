@@ -1,0 +1,15 @@
+passage.
+The enzymatic catalysis of a reaction essential in the production of dog saliva is mediated by
+the protein ARKKKK60491. ARKKKK60491 is a homodimer, with each subunit being 337
+amino acids. Figure 1, below, indicates a modular structure of the homodimer. Three positions are
+indicated on the model. Position A is the active site. Position B is a region known to have a large
+number of nonpolar residues. Position C is known to have a large number of charged residues.
+Figure 1. Modular structure of the homodimer
+37. A mutation is discovered in the gene for ARKKKK60491 that converts positively charged lysine residue into
+negatively charged glutamic acid residue. This single change directly impacts the location where the substrate
+to ARKKKK60491 attaches during catalysis. Which position is likely affected by this change?
+(A) Position A
+(B) Position B
+(C) Position C
+(D) None of the positions will be affected.
+38. Which of the following is Position B most likely to assist the protein wi

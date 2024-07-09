@@ -1,0 +1,11 @@
+uct phylogenetic trees. Shared traits indicate common ancestry.
+Phylogenetic trees are hypotheses and are constantly being revised as new evidence emerges. Species B, C, D, and E
+all have the shared character of 8 legs. Wings are a shared character for species D and E, but they could also be
+considered a derived character since they separate species D and E from the rest of the species that do not have
+wings. Populations of organisms are still evolving today. Genomes and the fossil record continue to change,
+prokaryotes develop resistance to antibiotics, pesticides, herbicides, or chemotherapy drugs, and pathogens evolve
+and cause emergent diseases.
+GENETIC VARIABILITY
+As you know, no two individuals are identical. The differences in each person are known as genetic variability. All
+this means is that no two individuals in a population have identical sets of alleles (except, of course, identical twins).
+In fact, survival of a species is dependent on this genetic variation; it allows a 

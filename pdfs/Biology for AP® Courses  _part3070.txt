@@ -1,0 +1,11 @@
+ystem
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+neuron less likely to fire an action potential.
+Once neurotransmission has occurred, the neurotransmitter must be removed from the synaptic cleft so the postsynaptic
+membrane can “reset” and be ready to receive another signal. This can be accomplished in three ways: the neurotransmitter
+can diffuse away from the synaptic cleft, it can be degraded by enzymes in the synaptic cleft, or it can be recycled
+(sometimes called reuptake) by the presynaptic neuron. Several drugs act at this step of neurotransmission. For example,
+some drugs that are given to Alzheimer’s patients work by inhibiting acetylcholinesterase, the enzyme that degrades
+acetylcholine. This inhibition of the enzyme essentially increases neurotransmission at synapses that release acetylcholine.
+Once released, the acetylcholine stays in the cleft and can continually bind and unbind to postsynaptic receptors.
+Neurotransmitter Examples and Lo

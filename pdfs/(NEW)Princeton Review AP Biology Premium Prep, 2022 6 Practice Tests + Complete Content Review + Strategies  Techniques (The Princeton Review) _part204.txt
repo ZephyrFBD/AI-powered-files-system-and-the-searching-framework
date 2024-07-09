@@ -1,0 +1,15 @@
+solutions. The
+equation to do this is on the AP Biology Equations and Formulas sheet.
+CiVi = CfVf
+This equation tells you how much (Vi) of a concentrated solution (at Ci) is required to make a more dilute solution
+(Cf) of a certain volume (Vf). The amount of solvent added will be the final volume of the solution (Vf) minus
+whatever amount of stock solution you need to add. For example, if you have a bottle of 2 M solution of Tris buffer
+and would like to make 50 mL of 0.1 M Tris:
+CiVi = CfVf
+(2 M)(Vi) = (0.1 M)(0.050 L)
+Vi = 0.0025 L, or 2.5 mL
+Thus, you would add 2.5 mL of the concentrated (stock) Tris solution to a new tube or bottle and then add water (the
+solvent) up to a final volume of 50 mL. In other words, you should add 47.5 mL of water.
+Active Transport
+Suppose a substance wants to move in the opposite direction—from a region of lower concentration to a region of
+higher concentration. A transport protein can help usher the substance across the plasma membrane, but it’s going 

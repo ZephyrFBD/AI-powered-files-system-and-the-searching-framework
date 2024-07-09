@@ -1,0 +1,10 @@
+posure to antibiotics on bacteria. A strain
+of E. coli that is not antibiotic resistant is grown on an antibiotic-free LB agar plate (plate 1), the starter plate.
+Some of the E. coli from the starter plate are then spread on a plate that contains LB agar and 50 ug/mL of the
+antibiotic ampicillin (plate 2), and some of the E. coli are spread on a plate that contains LB agar without
+antibiotic (plate 3). E. coli from plate 2 are then spread on a plate that contains LB agar and 100 ug/mL of the
+antibiotic ampicillin (plate 4). E. coli from plate 3 are then spread on a plate that contains LB agar without
+antibiotic (plate 5). A diagram of the experimental plates is shown in the figure.
+(a) Describe whether E. coli that are all susceptible to ampicillin, all resistant to ampicillin, or a mix of both
+will grow on the starter plate. Explain your answer using the principles of natural selection.
+(b) Identify the plates that serve as controls in this experiment. Identify the independent variabl

@@ -1,0 +1,10 @@
+ is probably not a fluke (i.e., 40 rolled sixes) and the null hypothesis outcome must not correctly
+describe what is occurring. In the dice case, rolling a six 40 times would cause the null hypothesis of expecting a
+1:1:1:1:1:1 to be rejected and the die can be considered to be weighted. In the calculations, expected results if the
+null hypothesis were true are compared to the actual values, and an χ2 value is calculated. This value is compared to
+a critical value, and a decision is made to reject or accept the null hypothesis.
+For example, suppose data was collected from 100 families with three children each. Fourteen families had three
+female children, 36 families had two females and a male, 30 families had one female and two males, and 20 families
+had three male children. We would expect offspring sex to segregate independently. In other words, the sex of a
+given child shouldn’t be affected by the sex of previous children. Let’s test whether this is true for this dataset.
+Since we e

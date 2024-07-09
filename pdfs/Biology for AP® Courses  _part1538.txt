@@ -1,0 +1,10 @@
+e complex between DNA and proteins) may undergo some chemical modifications, so that the DNA
+may be able to slide off the proteins or be accessible to the enzymes of the DNA replication machinery. At the origin of
+replication, a pre-replication complex is made with other initiator proteins. Other proteins are then recruited to start the
+replication process (Table 14.2).
+A helicase using the energy from ATP hydrolysis opens up the DNA helix. Replication forks are formed at each replication
+origin as the DNA unwinds. The opening of the double helix causes over-winding, or supercoiling, in the DNA ahead of
+the replication fork. These are resolved with the action of topoisomerases. Primers are formed by the enzyme primase, and
+using the primer, DNA pol can start synthesis. While the leading strand is continuously synthesized by the enzyme pol δ,
+the lagging strand is synthesized by pol ε. A sliding clamp protein known as PCNA (Proliferating Cell Nuclear Antigen)
+holds the DNA pol in place 

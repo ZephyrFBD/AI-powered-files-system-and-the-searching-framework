@@ -1,0 +1,12 @@
+their gradient requires the input of energy.
+One example of this is the Na+/K+ pump. This membrane protein requires the input of ATP to pump Na+ ions
+from their lower concentrations in the cell to an area of higher Na+ concentration outside the cell. This membrane
+protein also pumps K+ ions from their lower concentrations outside of the cell to an area with higher concentrations
+of K+ ions inside the cell. For every three Na+ ions pumped out of the cell, two K+ ions are pumped into the cell.
+This results in a higher concentration of positive ions outside of the cell and helps the cell maintain a membrane
+potential.
+Figure 5.15 Active Transport
+Endocytosis and exocytosis also require an input of energy and are forms of active transport. Endocytosis is used by
+the cell to take in water and macromolecules by enfolding them into vesicles formed from the plasma membrane. In
+exocytosis, this process is reversed. Vesicles (that contain molecules to be expelled) are fused with the plasma
+membr

@@ -1,0 +1,13 @@
+5][APLO 3.13]
+The building blocks of DNA are nucleotides. The important components of the nucleotide are a nitrogenous base,
+deoxyribose (5-carbon sugar), and a phosphate group (Figure 14.5). The nucleotide is named depending on the nitrogenous
+base. The nitrogenous base can be a purine such as adenine (A) and guanine (G), or a pyrimidine such as cytosine (C) and
+thymine (T).
+550
+Chapter 14 | DNA Structure and Function
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 14.5 Each nucleotide is made up of a sugar, a phosphate group, and a nitrogenous base. The sugar is
+deoxyribose in DNA and ribose in RNA.
+The nucleotides combine with each other by covalent bonds known as phosphodiester bonds or linkages. The purines have
+a double ring structure with a six-membered ring fused to a five-membered ring. Pyrimidines are smaller in size; they have
+a single six-membered ring structure. The carbon atoms of the five-carbon sugar are numbered 1', 2', 3', 4', an

@@ -1,0 +1,13 @@
+on one side
+of the membrane.
+If the membrane were open to diffusion by the hydrogen ions, the ions would tend to diffuse back across into the matrix,
+driven by their electrochemical gradient. Recall that many ions cannot diffuse through the nonpolar regions of phospholipid
+membranes without the aid of ion channels. Similarly, hydrogen ions in the matrix space can only pass through the inner
+mitochondrial membrane through an integral membrane protein called ATP synthase (Figure 7.12). This complex protein
+acts as a tiny generator, turned by the force of the hydrogen ions diffusing through it, down their electrochemical gradient.
+The turning of parts of this molecular machine facilitates the addition of a phosphate to ADP, forming ATP, using the
+potential energy of the hydrogen ion gradient.
+298
+Chapter 7 | Cellular Respiration
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 7.12 ATP synthase is a complex, molecular machine that uses a proton (H+) g

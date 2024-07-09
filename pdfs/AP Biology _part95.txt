@@ -1,0 +1,18 @@
+art. Sap
+in trees moves by bulk flow from the leaves to the roots due to active
+transport in the phloem. Bulk flow movement is always from source
+(where it originates) to sink (where it is used).
+CELL COMMUNICATION
+Whether they are primitive bacterial cells or cells that make up complex
+organisms, cells communicate with other cells using chemical signals.
+STUDY TIP
+******ebook converter DEMO Watermarks*******
+Cell communication is an important topic. Quorum sensing is a great example.
+Quorom Sensing in Bacteria
+Bacterial cells are able to communicate through a phenomenon called
+quorum sensing. This process allows bacteria to monitor their population
+density and use that information to control gene expression. Universal
+quorum sensing languages even enable bacteria of different species to
+“talk” to each other. Many bacterial behaviors are regulated by quorum
+sensing, including horizontal gene transfers or the process by which a
+harmless bacterium can transform into a virulent one. Here 

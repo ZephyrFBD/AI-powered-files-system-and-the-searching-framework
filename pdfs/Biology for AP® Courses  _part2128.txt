@@ -1,0 +1,10 @@
+le nor the genotypic
+frequencies would change. The Hardy–Weinberg principle assumes conditions with no mutations, migration, emigration, or
+selective pressure for or against genotype, plus an infinite population; while no population can satisfy those conditions, the
+principle offers a useful model against which to compare real population changes.
+Working under this theory, population geneticists represent different alleles as different variables in their mathematical
+models. The variable p, for example, typically represents the frequency of the dominant allele, say Y for the trait of yellow
+in Mendel's peas. The variable q represents the frequency of the recessive allele, in this case y, that confers the color green.
+If these are the only two possible alleles for a given locus in the population, p + q = 1. In other words, all the p alleles and
+all the q alleles make up all of the alleles for that locus that are found in the population.
+But what ultimately interests most biologists is n

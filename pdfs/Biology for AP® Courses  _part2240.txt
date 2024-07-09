@@ -1,0 +1,9 @@
+rgent and divergent evolution.) Similarities among organisms stem either from shared ancestral
+history (homologies) or from separate evolutionary paths (analogies). Cladograms are constructed by using shared derived
+traits to distinguish different groups of species from one another. For example, lizards, rabbits and humans all descended
+from a common ancestor that had an amniotic egg; thus, lizards, rabbits, and humans all belong to the same clade.
+Vertebrata is a larger clade that also includes fish, lamprey, and lancelets. The closer two species or groups are located
+to each on a phylogenetic tree or cladogram, they more recently they shared a common ancestor. With the influx of
+new information, scientists can revise phylogenetic trees; for example, computer programs, such as one called BLAST,
+which helps determine relatedness using DNA sequencing. Typically, a phylogenetic tree is constructed with the simplest
+explanation of evolutionary history (maximum parsimony) and the fewest nu

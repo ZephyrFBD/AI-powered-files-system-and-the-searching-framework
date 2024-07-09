@@ -1,0 +1,10 @@
+tic process of elongation is essentially the same in eukaryotes and prokaryotes, the DNA template
+is more complex. When eukaryotic cells are not dividing, their genes exist as a diffuse mass of DNA and proteins
+called chromatin. The DNA is tightly packaged around charged histone proteins at repeated intervals. These DNA–histone
+complexes, collectively called nucleosomes, are regularly spaced and include 146 nucleotides of DNA wound around eight
+histones like thread around a spool.
+For polynucleotide synthesis to occur, the transcription machinery needs to move histones out of the way every time it
+encounters a nucleosome. This is accomplished by a special protein complex called FACT, which stands for “facilitates
+chromatin transcription.” This complex pulls histones away from the DNA template as the polymerase moves along it. Once
+the pre-mRNA is synthesized, the FACT complex replaces the histones to recreate the nucleosomes.
+The termination of transcription is different for the differ

@@ -1,0 +1,13 @@
+ attached.
+As ATP is used for energy, a phosphate group or two are detached, and either ADP or AMP is produced. Energy derived
+316
+Chapter 7 | Cellular Respiration
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+from glucose catabolism is used to convert ADP into ATP. When ATP is used in a reaction, the third phosphate is
+temporarily attached to a substrate in a process called phosphorylation. The two processes of ATP regeneration that are
+used in conjunction with glucose catabolism are substrate-level phosphorylation and oxidative phosphorylation through
+the process of chemiosmosis.
+7.2 Glycolysis
+Glycolysis is the first pathway used in the breakdown of glucose to extract energy. It was probably one of the earliest
+metabolic pathways to evolve and is used by nearly all of the organisms on earth. Glycolysis consists of two parts: The
+first part prepares the six-carbon ring of glucose for cleavage into two three-carbon sugars. ATP is invested in the proce

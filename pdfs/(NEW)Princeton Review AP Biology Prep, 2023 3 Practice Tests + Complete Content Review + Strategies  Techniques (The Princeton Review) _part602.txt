@@ -1,0 +1,12 @@
+in shape is important for protein function, and if it is the wrong shape, it probably won’t work correctly.
+b. Explain the impact of the radiolabeled dye on the cell cycle.
+The radiolabeled dye does not impact the cell cycle. It is only being used to help track the phases of the cell cycle
+and visualize them. We know the dye has no effect because it is used in the wild-type cells and it doesn’t cause them to
+have an arrested cell cycle.
+c. Predict what would happen if the cdc mutants were initially incubated at 37°C and then switched to 25°C.
+If the mutants were started at 37°C, they would not grow. This is what happened in Experiment 1. If they were
+switched to 25°C, then they would be able to start growing.
+d. Justify your prediction.
+I predicted that based on what occurred in Experiment 2. In that experiment they started at the lower
+temperature, which allowed the cell cycle to proceed. Then at the higher temperature, it caused them to stop the cell
+cycle. I predict if they begin at

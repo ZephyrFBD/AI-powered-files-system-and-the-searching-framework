@@ -1,0 +1,13 @@
+y the tallest plants with one another. The new population will have a higher mean
+height than the previous generation.
+LAB 2: MATHEMATICAL MODELING: HARDY-WEINBERG
+In order to understand everything you need for the AP Biology Exam, you need to be able to use the Hardy-
+Weinberg principles and equations to determine allele frequencies in a population. One way to study evolution is to
+study how the frequencies of alleles change from generation to generation:
+Know how to calculate the allele and genotype frequencies using the two Hardy-Weinberg equations: p + q = 1
+and p2 + 2pq + q2 = 1. Don’t forget: if the population obeys Hardy-Weinberg’s rules, these frequencies remain
+constant over time.
+Review the discussion of the Hardy-Weinberg principle in this book. Know the five conditions of the Hardy-
+Weinberg equilibrium: (1) large population, (2) no mutations, (3) no immigration or emigration, (4) random
+mating, and (5) no natural selection.
+Review natural selection and how it can lead to c

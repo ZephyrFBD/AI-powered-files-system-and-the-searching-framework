@@ -1,0 +1,10 @@
+n of work by NCI; scale-bar data from Matt
+Russell)
+T and B cells exhibit a common theme of recognition/binding of specific antigens via a complementary receptor, followed
+by activation and self-amplification/maturation to specifically bind to the particular antigen of the infecting pathogen. T
+and B lymphocytes are also similar in that each cell only expresses one type of antigen receptor. Any individual may
+possess a population of T and B cells that together express a near limitless variety of antigen receptors that are capable of
+recognizing virtually any infecting pathogen. T and B cells are activated when they recognize small components of antigens,
+called epitopes, presented by APCs, illustrated in Figure 33.10. Note that recognition occurs at a specific epitope rather
+than on the entire antigen; for this reason, epitopes are known as “antigenic determinants.” In the absence of information
+from APCs, T and B cells remain inactive, or naïve, and are unable to prepare an immune res

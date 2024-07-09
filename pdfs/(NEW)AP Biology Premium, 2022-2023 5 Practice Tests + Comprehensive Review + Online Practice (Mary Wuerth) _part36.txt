@@ -1,0 +1,11 @@
+would be appropriate to use the chi-square
+test if you were comparing the number of purple flowers and the number of white flowers that resulted from a genetic cross. It would not be
+appropriate to use the chi-square test to compare the percentage of purple flowers to the percentage of white flowers.
+Consider the experiment that measured whether dogs prefer dog food brand A or dog food brand B. If there are
+100 dogs, the null hypothesis would predict that 50 dogs would choose brand A and 50 dogs would choose brand B.
+These are the expected results. If the experiment was carried out and 45 dogs chose brand A and 55 dogs chose
+brand B, those are the observed results. The chi-square test could be used to evaluate the null hypothesis that there
+will be no statistically significant difference between the expected results and the observed results of the experiment.
+The steps of the chi-square test are as follows:
+TIP
+You do NOT need to memorize any of the formulas reviewed in this chapter—th

@@ -1,0 +1,17 @@
+ it does not get the
+appropriate signal, the cell will exit the cycle and become a nondividing
+cell arrested in the G0 (G zero) phase. Since the activity of a cell varies,
+the rate at which it needs to divide also varies. The timing of the cell cycle
+is initiated by growth factors, like PDGF, and controlled by two kinds of
+molecules: cyclins and protein kinases.
+STUDY TIP
+This is a great example of cell signaling.
+Cyclins are proteins that get their name because their levels cyclically
+rise and fall in dividing cells. They are synthesized during every S and G2
+phase, and broken down after every M phase. Kinases are a ubiquitous
+class of proteins that activate other proteins by phosphorylating them. The
+kinases critical to the cell cycle are activated only when they bind to a
+cyclin. Hence, they are aptly named cyclin-dependent kinases or Cdks.
+When a Cdk binds to a cyclin, a cyclin-Cdk complex is formed. One
+particular cyclin-Cdk complex, MPF, triggers the cell’s passage from G2
+to mit

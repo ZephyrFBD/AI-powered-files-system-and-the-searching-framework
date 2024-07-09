@@ -1,0 +1,21 @@
+he phenotype tells us
+what the organism looks like. When talking about the genetic makeup of an organism, we refer to its genotype.
+The genotype tells us which alleles the organism possesses.
+An allele can be dominant or recessive. This is determined by which allele “wins out” over the other in a
+heterozygote. The convention is to assign one of two letters for the two different alleles. The dominant allele
+receives a capital letter and the recessive allele receives a lowercase of the same letter. For instance, we might
+give the dominant allele for height in pea plants a T for tall. This means that the recessive allele would be t for
+short.
+Major components of the genetic code are shared by all modern living organisms, including ribosomes and
+nucleic acids (DNA/RNA). Many core metabolic pathways are conserved across all domains, which provides
+evidence for a common ancestry for all living organisms.
+Name
+Genotype
+Phenotype
+homozygous dominant
+TT
+Tall
+homozygous recessive
+tt
+Short
+hetero

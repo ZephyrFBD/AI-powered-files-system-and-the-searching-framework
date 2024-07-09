@@ -1,0 +1,10 @@
+cific receptor on or in the target cell. The receptor may be located on the
+cell membrane (as is the case for hydrophilic ligands) or in the cytosol of the target cell (as is the case for
+hydrophobic ligands). Receptors contain ligand-specific binding domains. If a cell does not have the receptor
+for a specific ligand, the cell will not respond to that ligand. Upon the binding of the ligand to the receptor,
+the receptor undergoes a conformational (shape) change, which triggers the next step in the process on the
+inside of the cell. Examples of receptors include G-protein-coupled receptors and receptor tyrosine kinases.
+2. Transduction: This is the series of chemical reactions (triggered by the binding of the ligand to its receptor)
+that helps the cell choose the appropriate response. This is often the most complicated part of signal
+transduction. Possible components of transduction include:
+Signaling cascades, a series of chemical reactions in which one molecule activates multiple mole

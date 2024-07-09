@@ -1,0 +1,14 @@
+nithine. This suggests that ornithine is the first intermediate,
+and the mutation impacts the function of enzyme 2, which catalyzes ornithine. Mutant 1 can
+grow in arginine and argininosuccinate but not ornithine and citrulline. This suggests that
+Ornithine is the first intermediate 
+Citrulline is the second intermediate 
+Argininosuccinate is the third intermediate 
+Ornithine is the first intermediate because Mutant 4 grows if given arginine, citrulline, and argininosuccinate,
+but not ornithine.
+Citrulline is the second intermediate because Mutant 1 can grow in arginine and argininosuccinate, but not
+ornithine and citrulline (and ornithine is the first intermediate).
+Argininosuccinate is the third intermediate because Mutant 3 only grows in minimal medium with arginine (and
+ornithine and citrulline are the first two intermediates).
+citrulline is the second intermediate, and the mutation impacts the function of enzyme 3,
+which catalyzes citrulline. Mutant 3 only grows in minimal medium 

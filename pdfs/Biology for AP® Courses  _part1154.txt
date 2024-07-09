@@ -1,0 +1,11 @@
+ 10.12). Increases in the concentration of cyclin proteins are triggered by both external and internal signals.
+After the cell moves to the next stage of the cell cycle, the cyclins that were active in the previous stage are degraded.
+422
+Chapter 10 | Cell Reproduction
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 10.12 The concentrations of cyclin proteins change throughout the cell cycle. There is a direct correlation
+between cyclin accumulation and the three major cell cycle checkpoints. Also note the sharp decline of cyclin levels
+following each checkpoint (the transition between phases of the cell cycle), as cyclin is degraded by cytoplasmic
+enzymes. (credit: modification of work by "WikiMiMa"/Wikimedia Commons)
+Cyclins regulate the cell cycle only when they are tightly bound to Cdks. To be fully active, the Cdk/cyclin complex must
+also be phosphorylated in specific locations. Like all kinases, Cdks are enzymes (kinases) that phosphorylate 

@@ -1,0 +1,9 @@
+transmitted through meiosis together. To exemplify this, imagine a dihybrid cross involving flower color and
+plant height in which the genes are next to each other on the chromosome. If one homologous chromosome has alleles
+for tall plants and red flowers, and the other chromosome has genes for short plants and yellow flowers, then when the
+gametes are formed, the tall and red alleles will go together into a gamete and the short and yellow alleles will go into other
+gametes. These are called the parental genotypes because they have been inherited intact from the parents of the individual
+producing gametes. But unlike if the genes were on different chromosomes, there will be no gametes with tall and yellow
+alleles and no gametes with short and red alleles. If you create the Punnett square with these gametes, you will see that
+the classical Mendelian prediction of a 9:3:3:1 outcome of a dihybrid cross would not apply. As the distance between two
+genes increases, the probability of one or

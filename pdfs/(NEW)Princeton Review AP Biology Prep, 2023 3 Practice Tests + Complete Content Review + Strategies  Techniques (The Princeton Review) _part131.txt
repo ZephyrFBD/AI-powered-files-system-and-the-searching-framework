@@ -1,0 +1,13 @@
+when you put some points on the graph. Every point on the graph represents both an
+independent variable and a dependent variable.
+Once you draw both axes and label the axes as x and y, you can plot the points on the graph. We’re just going to
+look at (b), which asks us to design an experiment.
+Enzymes are biological catalysts.
+(b) Construct an experiment that investigates the influence of temperature, substrate concentration, or pH on
+the activity of an enzyme.
+Let’s set up a graph that shows the results of an experiment examining the relationship between pH and enzyme
+activity. Notice that we’ve chosen only one factor here, pH. We could have chosen any of the three. Why did we
+choose pH and not temperature or substrate concentration? Well, perhaps it’s the one we know the most about.
+What is the independent variable? It is pH. In other words, pH is being manipulated in the experiment. We’ll
+therefore label the x-axis with pH values from 0 through 14.
+What is the dependent variable? It

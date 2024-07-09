@@ -1,0 +1,76 @@
+me 
+B = birth rate 
+D = death rate 
+N = population size 
+K = carrying capacity 
+rmax = maximum per capita  
+growth rate of population 
+Surface Area and Volume 
+Volume of a Sphere 
+3
+4
+3
+V
+r
+p
+=
+Volume of a Rectangular Solid 
+V
+w
+= h
+Volume of a Right Cylinder 
+2
+V
+r h
+p
+=
+Surface Area of a Sphere 
+2
+4
+A
+r
+p
+=
+Surface Area of a Cube 
+2
+6
+A
+s
+=
+Surface Area of a Rectangular Solid 
+A  S surface area of each side 
+ r = radius 
+= length
+h = height 
+w = width 
+s = length of one 
+side of a cube 
+A = surface area 
+V = volume 
+ = sum of all 
+Water Potential ( Y) 
+P
+Y
+Y
+Y
+=
++
+S
+P
+Y = pressure potential
+S
+Y  = solute potential 
+The water potential will be equal to 
+the solute potential of a solution in an 
+open container because the pressure 
+potential of the solution in an open 
+container is zero. 
+The Solute Potential of a Solution 
+S
+Y = -iCRT
+i = ionization constant (this is 1.0 for 
+sucrose because sucrose does not 
+ionize in water) 
+C = molar concentration 
+R = pressure constant 
+(R = 0

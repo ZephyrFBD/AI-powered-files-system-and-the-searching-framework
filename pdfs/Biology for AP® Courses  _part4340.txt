@@ -1,0 +1,54 @@
+.0
+5-6
+46
+734
+62.7
+4.2
+6-7
+48
+688
+69.8
+3.4
+7-8
+69
+640
+107.8
+2.6
+8-9
+132
+571
+231.2
+1.9
+9-10
+187
+439
+426.0
+1.3
+10-11
+156
+252
+619.0
+0.9
+11-12
+90
+96
+937.5
+0.6
+12-13
+3
+6
+500.0
+1.2
+13-14
+3
+3
+1000
+0.7
+Table 36.1 This life table of Ovis dalli shows the number of deaths, number of survivors, mortality rate,
+and life expectancy at each age interval for the Dall mountain sheep.
+Survivorship Curves
+Another tool used by population ecologists is a survivorship curve, which is a graph of the number of individuals surviving
+at each age interval plotted versus time (usually with data compiled from a life table). These curves allow us to compare the
+life histories of different populations (Figure 36.6). Humans and most primates exhibit a Type I survivorship curve because
+a high percentage of offspring survive their early and middle years—death occurs predominantly in older individuals. These
+types of species usually have small numbers of offspring at one time, and they give a high amount of parental car

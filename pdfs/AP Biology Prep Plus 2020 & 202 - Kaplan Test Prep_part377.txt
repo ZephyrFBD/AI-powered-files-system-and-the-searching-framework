@@ -1,0 +1,19 @@
+ correspond with
+a concentration of 88.9 μM if you were to continue extrapolating. (C) is
+the Vmax given for the concentration of 66.7 μM in the table and there is
+no evidence to suggest that the Vmax won’t continue to increase with
+increasing concentration, so this answer is too low. (D) is even lower
+and would correspond with a concentration around 60 μM.
+1. C
+Learning Objective: 9.4
+Because the reaction rate is already close to its maximum at 6.0 mM,
+the rate would not change much if the substrate concentration was
+increased further. At most, the rate would increase slightly. (C) is thus
+correct. (A) is incorrect because the reaction rate would not increase
+significantly, but only slightly. (B) is incorrect because the reaction rate
+would not decrease. (D) is incorrect because the change is predictable.
+2. B
+Learning Objective: 9.5
+The reaction rate is predicted to increase due to the increase in
+substrate concentration. This is true unless it is already at the
+maximum for that pH (

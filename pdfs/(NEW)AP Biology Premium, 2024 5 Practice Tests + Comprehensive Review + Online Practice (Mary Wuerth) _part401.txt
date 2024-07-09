@@ -1,0 +1,12 @@
+ree-Response
+13. The human THY-1 gene (Thy-1 cell surface antigen) codes for a cell surface glycoprotein that is thought to
+function as a tumor suppressor in certain types of cancer. In order to find possible locations of enhancer
+sequences for the THY-1 gene, scientists performed a series of DNA deletion experiments. In the experiments,
+different deletions were made in areas that were suspected to function as possible enhancer sequences, and the
+levels of THY-1 transcription were measured after each deletion. The following diagram shows the sequences
+deleted. A, B, C, D, and E represent different DNA sequences. 1, 2, and 3 represent suspected enhancer
+sequences. P is the promoter of the THY-1 gene. An X represents the deletion of that portion of the DNA
+sequence.
+The levels of THY-1 transcription in each part of the experiment are shown in the graph.
+(a) Explain the function of enhancer sequences in eukaryotic gene expression.
+(b) Identify which DNA sequence (A, B, C, D, or E) was the

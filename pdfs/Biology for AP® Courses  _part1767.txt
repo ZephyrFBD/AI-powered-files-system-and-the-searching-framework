@@ -1,0 +1,13 @@
+l groups, the charge becomes less positive.
+The DNA molecule itself can also be modified. This occurs within very specific regions called CpG islands. These are
+stretches with a high frequency of cytosine and guanine dinucleotide DNA pairs (CG) found in the promoter regions of
+genes. When this configuration exists, the cytosine member of the pair can be methylated (a methyl group is added). This
+modification changes how the DNA interacts with proteins, including the histone proteins that control access to the region.
+Chapter 16 | Gene Regulation
+647
+Highly methylated (hypermethylated) DNA regions with deacetylated histones are tightly coiled and transcriptionally
+inactive.
+Figure 16.8 Histone proteins and DNA nucleotides can be modified chemically. Modifications affect nucleosome
+spacing and gene expression. (credit: modification of work by NIH)
+This type of gene regulation is called epigenetic regulation. Epigenetic means “around genetics.” The changes that occur
+to the histone protei

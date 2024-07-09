@@ -1,0 +1,9 @@
+ns and DNA do not alter the nucleotide sequence and are not permanent. Instead, these changes are
+temporary (although they often persist through multiple rounds of cell division) and alter the chromosomal structure (open
+or closed) as needed. A gene can be turned on or off depending upon the location and modifications to the histone proteins
+and DNA. If a gene is to be transcribed, the histone proteins and DNA are modified surrounding the chromosomal region
+encoding that gene. This opens the chromosomal region to allow access for RNA polymerase and other proteins, called
+transcription factors, to bind to the promoter region, located just upstream of the gene, and initiate transcription. If a
+gene is to remain turned off, or silenced, the histone proteins and DNA have different modifications that signal a closed
+chromosomal configuration. In this closed configuration, the RNA polymerase and transcription factors do not have access
+to the DNA and transcription cannot occur (Figure 16.7).

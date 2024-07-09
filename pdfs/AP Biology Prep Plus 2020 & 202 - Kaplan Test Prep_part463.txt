@@ -1,0 +1,28 @@
+can be statistically analyzed by
+calculating chi-square values.
+The chi-square analysis measures the diﬀerence between the number of
+observations you make that meet your expectations and the number that
+11.5 Investigate genetic probabilities in cell division
+don’t. You put these values into a formula and compare the answer with a
+table of standards. The formula is:
+As an example, look at the frequencies observed if you toss a coin 100
+times. Suppose that you observe that the coin comes up heads 52 times
+and comes up tails 48 times. Because there is an equal likelihood that the
+coin will come up heads or tails, the expected values for heads and tails
+are 50 and 50. Putting these values into the formula:
+Compare the value 0.16 to a chi-square table at one degree of freedom
+(d.f.). One degree of freedom is used because two observations were
+made and d.f. equals number of categories of observations minus one.
+Probability (p)
+Degrees of Freedom (d.f.)
+1
+2
+3
+4
+5
+0.05
+3.84
+5.99
+7.82
+9.49
+11.1

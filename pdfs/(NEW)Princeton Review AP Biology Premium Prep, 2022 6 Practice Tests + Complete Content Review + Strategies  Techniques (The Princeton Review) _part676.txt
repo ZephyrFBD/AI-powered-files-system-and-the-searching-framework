@@ -1,0 +1,21 @@
+n myosin stretches into a high-energy conformation and binds to the filamentous protein actin.
+When the myosin returns to its low-energy, relaxed conformation, actin is pulled, and the sarcomere contracts. The
+following steps relate ATP to each step of this process.
+1—Myosin binds to actin (ADP is attached).
+2—Myosin returns to low-energy conformation (ADP is released).
+3—Myosin releases actin (ATP binds).
+4—Myosin stretches to high-energy conformation (ATP is hydrolyzed).
+26. What is bound to myosin when it is in its high-energy conformation?
+I. Actin
+II. ATP
+III. ADP
+(A) II only
+(B) III only
+(C) I and II
+(D) I and III
+27. If the cell runs out of ATP, what would be the state of the sarcomere?
+(A) Myosin is bound to actin in the high-energy conformation.
+(B) Myosin is alone in the high-energy conformation.
+(C) Myosin is bound to actin in the low-energy conformation.
+(D) Myosin is alone in the low-energy conformation.
+28. A calcium ion is required for the binding of myosin to actin. If 

@@ -1,0 +1,10 @@
+mitochondrial matrix to the intermembrane space, and oxygen is reduced to form water.
+Complex I
+To start, two electrons are carried to the first complex aboard NADH. This complex, labeled I, is composed of flavin
+mononucleotide (FMN) and an iron-sulfur (Fe-S)-containing protein. FMN, which is derived from vitamin B2, also called
+riboflavin, is one of several prosthetic groups or co-factors in the electron transport chain. A prosthetic group is a non-
+protein molecule required for the activity of a protein. Prosthetic groups are organic or inorganic, non-peptide molecules
+bound to a protein that facilitate its function; prosthetic groups include co-enzymes, which are the prosthetic groups of
+enzymes. The enzyme in complex I is NADH dehydrogenase and is a very large protein, containing 45 amino acid chains.
+Complex I can pump four hydrogen ions across the membrane from the matrix into the intermembrane space, and it is in
+this way that the hydrogen ion gradient is established and maintai

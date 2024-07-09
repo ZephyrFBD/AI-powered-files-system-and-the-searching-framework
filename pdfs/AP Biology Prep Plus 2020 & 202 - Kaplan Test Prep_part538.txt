@@ -1,0 +1,33 @@
+ Which of the following hypotheses would best explain
+these observations?
+The sequences of the two mRNA molecules have diﬀerent
+mutations.
+(A)
+The proteins are encoded by the sense and antisense strands
+of DNA.
+(B)
+Alternative splicing takes place in diﬀerent tissues.
+(C)
+The proteins undergo extensive post-translational
+modifications.
+(D)
+5. A part of an mRNA molecule with the following sequence is being
+read by a ribosome:
+5′-UCG-GCA-CAU-UUA-UAU-GUU-3′
+Using the codon table above, determine the amino acid sequence
+encoded.
+CODON TABLE
+ser-ala-his-leu-tyr-val
+(A)
+ser-ala-gln-leu-(stop signal)
+(B)
+ser-arg-val-asn-ile-gln
+(C)
+leu-tyr-ile-tyr-thr-ala
+(D)
+6. Cellular proliferation in cancer can be regulated by signaling
+receptors belonging to the receptor tyrosine kinase (RTK) family.
+Binding of a ligand to RTKs triggers phosphorylation of tyrosine
+residues in the cytoplasmic domain of the protein. One approach
+to cancer treatment has been the use of small molecule inhibitors
+that prevent

@@ -1,0 +1,18 @@
+energy. (C) is incorrect
+because the energy input required to reach the transition state with or
+without an enzyme is released when the product is formed, so the free
+energy change of the reaction does not change. (D) is incorrect
+because, although the enzyme-substrate complex facilitates the
+formation of the transition state, the free energy change of the
+reaction does not increase or decrease.
+10. B
+Learning Objective: 9.3
+Noncompetitive inhibition reduces Vmax because it reduces the
+concentration of active enzyme. It, however, does not change Km,
+which is the amount of substrate needed to reach half Vmax and
+measures the aﬀinity of an active enzyme for its substrate. Competitive
+inhibition increases Km by interfering with the binding of the substrate,
+so more substrate is needed to outcompete the inhibitor to reach Vmax,
+which is unchanged. The steeper slope in the graph also demonstrates
+that Km is higher in competitive inhibition. Thus, the correct answer is
+(B). (A) is incorrect 

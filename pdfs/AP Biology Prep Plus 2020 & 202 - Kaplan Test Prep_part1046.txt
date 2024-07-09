@@ -1,0 +1,39 @@
+py of the universe. Entropy is also known as disorder, so
+(C) is correct. (A) and (B) are incorrect because they suggest the opposite. (D) is incorrect
+because it violates the first law of thermodynamics: energy can be neither created nor
+destroyed.
+41. D
+The mutant lacking the C gene will be incapable of producing stamens and carpels, so
+rule out all answers with those organs. According to the observation mentioned in the
+last sentence, if a mutant lacks C-gene activity, then A-gene activity will spread
+throughout. So expect only sepals and petals. The correct answer is (D).
+42. A
+To determine the answer, construct a Punnett square as follows:
+RS
+Rs
+rS
+rs
+RS
+RRSS
+RRSs
+RrSS
+RrSs
+Rs
+RRSs
+RRss
+RrSs
+Rrss
+rS
+RrSS
+RrSs
+rrSS
+rrSs
+rs
+RrSs
+Rrss
+rrSs
+rrss
+According to the Punnett square, only 1 out of every 16 of the oﬀspring will have the rrss
+genotype. Therefore, the probability of the rrss genotype is 1/16. Therefore, (A) is correct.
+43. D
+Sickle cell anemia results from a missense mutation,

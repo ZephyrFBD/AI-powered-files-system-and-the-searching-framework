@@ -1,0 +1,11 @@
+mplished by an enzyme called helicase. The exposed DNA strands now
+form a y-shaped replication fork.
+Now each strand can serve as a template for the synthesis of another strand. DNA replication begins at specific sites
+called origins of replication. Because the DNA helix twists and rotates during DNA replication, another class of
+enzymes, called DNA topoisomerases, cuts, and rejoins the helix to prevent tangling. The enzyme that performs the
+actual addition of nucleotides to the freshly built strand is DNA polymerase. But DNA polymerase, oddly enough,
+can add nucleotides only to the 3′ end of an existing strand. Therefore, to start off replication, an enzyme called
+RNA primase adds a short strand of RNA nucleotides called an RNA primer. After replication, the primer is
+degraded by enzymes and replaced with DNA so that the final strand contains only DNA.
+Neither DNA strand is directly copied; however, by building a new partner
+strand for each of them, a two-stranded molecule is created 

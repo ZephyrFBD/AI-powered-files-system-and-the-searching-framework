@@ -1,0 +1,43 @@
+ Transcription of the lac Operon
+Glucose
+CAP binds
+Lactose
+Repressor binds
+Transcription
++
+-
+-
++
+No
++
+-
++
+-
+Some
+-
++
+-
++
+No
+-
++
++
+-
+Yes
+Table 16.2
+Watch an animated tutorial (http://openstaxcollege.org/l/lac_operon) about the workings of lac operon here.
+The E. coli bacteria can have several mutations that affect the lac operon system. One mutation inhibits the ability of
+RNA polymerase to bind to the lac operon. How would this affect the cell?
+a.
+The cell would make more lactose.
+b.
+There would be no lactose outside of the cell.
+c.
+The cell would not be able to process tryptophan.
+d.
+The cell would not be able to process lactose.
+Activity
+Modeling the Operon. Use construction paper or more elaborate materials, such as Styrofoam noodles,
+electrical tape, and Velcro tabs, to create a model of the lac and trp operons that include a regulator,
+promoter, operator, and structural genes. Then use the model to show how the presence of substrate, e.g.,
+allolactose or tryptophan, can change the

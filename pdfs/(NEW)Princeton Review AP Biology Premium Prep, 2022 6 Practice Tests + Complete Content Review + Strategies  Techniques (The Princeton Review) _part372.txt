@@ -1,0 +1,15 @@
+d
+5’ ends and twist into a double helix.
+Adenine always pairs with thymine, and guanine always pairs with cytosine.
+All the DNA in a cell is the genome. It is divided up into chromosomes, which are divided up into genes that
+each encode a particular genetic recipe.
+DNA replication provides two copies of the DNA for cell division, which involves the following steps:
+Helicase begins replication by unwinding DNA and separating the strands at the origin of replication.
+Topoisomerases reduce supercoiling ahead of the replication fork.
+RNA primase places an RNA primer down on the template strands.
+DNA polymerase reads DNA base pairs of a strand as a template and lays down complementary nucleotides
+to generate a new complementary partner strand.
+Replication proceeds continuously on the leading strand.
+The lagging strand forms Okazaki fragments, which must be joined later by DNA ligase.
+Transcription involves building RNA from DNA.
+RNA polymerase reads one of the DNA strands (the antisense/non

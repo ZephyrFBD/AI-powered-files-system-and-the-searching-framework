@@ -1,0 +1,10 @@
+dification of work by NIH)
+In addition to instructing the addition of a specific amino acid to a polypeptide chain, three of the 64 codons terminate
+protein synthesis and release the polypeptide from the translation machinery. These triplets are called nonsense codons, or
+stop codons. Another codon, AUG, also has a special function. In addition to specifying the amino acid methionine, it also
+serves as the start codon to initiate translation. The reading frame for translation is set by the AUG start codon near the 5'
+end of the mRNA.
+The genetic code is universal. With a few exceptions, virtually all species use the same genetic code for protein synthesis.
+Conservation of codons means that a purified mRNA encoding the globin protein in horses could be transferred to a tulip
+cell, and the tulip would synthesize horse globin. That there is only one genetic code is powerful evidence that all of life on
+Earth shares a common origin, especially considering that there are about 1084 possible

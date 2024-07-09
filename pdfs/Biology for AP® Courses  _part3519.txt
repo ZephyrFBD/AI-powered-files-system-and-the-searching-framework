@@ -1,0 +1,9 @@
+ion) between the action potential generated in the sarcolemma and the
+start of a muscle contraction. The trigger for calcium release from the sarcoplasmic reticulum into the sarcoplasm is a neural
+signal. Each skeletal muscle fiber is controlled by a motor neuron, which conducts signals from the brain or spinal cord to
+the muscle. The area of the sarcolemma on the muscle fiber that interacts with the neuron is called the motor end plate.
+The end of the neuron’s axon is called the synaptic terminal, and it does not actually contact the motor end plate. A small
+space called the synaptic cleft separates the synaptic terminal from the motor end plate. Electrical signals travel along the
+neuron’s axon, which branches through the muscle and connects to individual muscle fibers at a neuromuscular junction.
+The ability of cells to communicate electrically requires that the cells expend energy to create an electrical gradient across
+their cell membranes. This charge gradient is carried by ions,

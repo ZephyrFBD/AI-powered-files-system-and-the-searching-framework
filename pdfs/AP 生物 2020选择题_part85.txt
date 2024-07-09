@@ -1,0 +1,32 @@
+ effect of age, but the passage 
+states that the corals were grown in the same laboratory conditions.
+(D) 
+Incorrect. This experiment is also measuring the difference between the 
+amount of DMSP produced by corals versus corals and algae together 
+but is not measuring the difference between coral species.
+AP Biology Practice Exam 
+74
+Question 16
+Skill
+Learning Objective
+Topic
+5.B: Use confidence intervals 
+and/or error bars (both 
+determined using standard 
+errors) to determine whether 
+sample means are statistically 
+different.
+ENE-3.B: Explain how 
+negative feedback helps to 
+maintain homeostasis.
+Feedback
+(A) 
+Incorrect. The error bars at 32°C overlap between days 0 and 5, 
+indicating they are not statistically different.
+(B) 
+Incorrect. The error bars at 27°C overlap between days 0 and 5, 
+indicating they are not statistically different.
+(C) 
+Correct. The error bars for days 5 and 10 do not overlap between 
+temperature treatments, indicating that they are statistically different.
+(

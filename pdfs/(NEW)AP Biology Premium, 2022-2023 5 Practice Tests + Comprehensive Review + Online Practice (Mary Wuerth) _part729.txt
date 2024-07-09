@@ -1,0 +1,10 @@
+phenotype is favored, which is not the case here, so choice (B) is incorrect. Disruptive
+selection occurs when both extremes of a phenotype are favored, so choice (C) is also incorrect.
+4. (B) During year 4, 30% of the population had the recessive phenotype, so q2 = 0.30 and q = 0.548. p + q = 1 so
+p = 0.452. The frequency of heterozygotes would be 2pq = 2 × (0.452) × (0.548) = 0.495, or 49.5%.
+5. (B) Random mating is a necessary condition for a population to be in Hardy-Weinberg equilibrium. Choice (A)
+is incorrect because large (not small) populations are required for Hardy-Weinberg equilibrium. There needs to
+be no migration into or out of a population for Hardy-Weinberg equilibrium, so choice (C) is incorrect. No
+individuals should have a selective advantage in a Hardy-Weinberg population, so choice (D) is incorrect.
+6. (B) The frequency of the recessive phenotype (black body) increased, most likely due to a change in the
+environment that provided a selective advantage to flies wit

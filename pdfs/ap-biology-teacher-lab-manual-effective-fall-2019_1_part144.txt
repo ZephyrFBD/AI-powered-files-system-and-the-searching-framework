@@ -1,0 +1,26 @@
+ that a reader can easily see the information. 
+Chapter 2 S7 
+More than one condition of an experiment may be shown on a graph using different 
+lines. For example, you can compare the appearance of a product in an enzyme reaction 
+at different temperatures on the same graph. In this case, each line must be clearly 
+differentiated from the others — by a label, a different style, or color indicated by a key. 
+These techniques provide an easy way to compare the results of your experiments. 
+Be clear as to whether your data start at the origin (0,0) or not. Do not extend your 
+line to the origin if your data do not start there. In addition, do not extend your line 
+beyond your last data point (extrapolation) unless you clearly indicate by a dashed line 
+(or some other demarcation) that this is your prediction about what may happen. 
+For more detailed information about graphs, see Appendix B: Constructing Line 
+Graphs. 
+S8 Chapter 2 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 3: 
+Quantitative Reasoning 
+in

@@ -1,0 +1,16 @@
+ly significant difference between the observed and
+expected data.
+(B) The chi-square value is 0.80. There is NOT a statistically significant difference between the observed and
+expected data.
+(C) The chi-square value is 3.20. There is a statistically significant difference between the observed and
+expected data.
+(D) The chi-square value is 3.20. There is NOT a statistically significant difference between the observed and
+expected data.
+7. Data Set X and Data Set Y have the same standard deviations. Data Set X has a sample size of 10, while Data
+Set Y has a sample size of 50. How will their standard errors of the mean compare?
+(A) Data Set X will have a larger standard error of the mean than Data Set Y.
+(B) Data Set Y will have a larger standard error of the mean than Data Set X.
+(C) Both data sets will have the same standard error of the mean.
+(D) The difference in the standard errors of the mean cannot be determined from the information given.
+Questions 8 and 9
+The heights of oak tree

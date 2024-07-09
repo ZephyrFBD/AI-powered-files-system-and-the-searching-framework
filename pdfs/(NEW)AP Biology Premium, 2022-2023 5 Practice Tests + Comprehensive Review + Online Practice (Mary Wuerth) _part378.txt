@@ -1,0 +1,11 @@
+contain two
+codons. Since 3 nucleotides are required to make a codon, 12 nucleotides would only be sufficient to code for
+four amino acids, so choice (B) is incorrect. While 48 nucleotides might code for 12 amino acids if there were
+introns to be removed, 48 is not the minimum number of nucleotides required, so choice (D) is incorrect.
+2. (B) Eukaryotic genes contain introns; prokaryotic genes do not. Prokaryotes do not have the spliceosomes
+required to remove introns. So if a eukaryotic gene was directly inserted into a bacterial genome, the bacteria
+would likely try to translate the introns and produce a different protein. Choice (A) is incorrect because
+prokaryotes and eukaryotes do use the same genetic code. While prokaryotes do not have a nucleus, they do
+contain RNA polymerase and can perform transcription, so choice (C) is incorrect. Choice (D) is incorrect
+because rough endoplasmic reticulum is not required for the translation of all proteins.
+3. (D) The transcribed mRNA would 

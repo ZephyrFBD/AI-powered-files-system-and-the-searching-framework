@@ -1,0 +1,18 @@
+
+tank’s osmolality.
+4.
+C
+The goal of an osomconformer is to mimic the osmolarity of its surroundings. An isotonic solution has the
+same concentration as its surroundings. Therefore, an osmoconformer would become isotonic to its tank.
+5.
+A
+If Organism 1 decreases osmolality, it means that the tank must have decreased in osmolality. In other
+words, it gained water or lost solute. Choice (B) increases the tank solute. Choice (D) decreases the water.
+Choice (C) does not directly relate to the osmolality. Only (A) would cause the tank to gain water as
+water is removed from the new organism by osmosis.
+6.
+C
+RZN45 is the enzyme and it binds to JB-76. Ascorbic acid (vitamin C) is an inhibitor of this reaction and
+binding to JB-76 is reduced, which suggests the inhibitor binds to the same place as the substrate. The
+graph confirms that the inhibition is competitive since it shows a decreased reaction rate when ascorbic
+acid is present. Choice (A) is not true because similarly charged amino acid

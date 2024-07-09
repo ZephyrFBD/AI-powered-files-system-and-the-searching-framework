@@ -1,0 +1,10 @@
+ location. The binding of additional regulatory transcription factors to cis-acting elements
+will either increase or prevent transcription. In addition to promoter sequences, enhancer regions help augment
+transcription. Enhancers can be upstream, downstream, within a gene itself, or on other chromosomes. Transcription
+factors bind to enhancer regions to increase or prevent transcription.
+16.5 Eukaryotic Post-transcriptional Gene Regulation
+Post-transcriptional control can occur at any stage after transcription, including RNA splicing, nuclear shuttling, and RNA
+stability. Once RNA is transcribed, it must be processed to create a mature RNA that is ready to be translated. This
+involves the removal of introns that do not code for protein. Spliceosomes bind to the signals that mark the exon/intron
+border to remove the introns and ligate the exons together. Once this occurs, the RNA is mature and can be translated.
+RNA is created and spliced in the nucleus, but needs to be transported to t

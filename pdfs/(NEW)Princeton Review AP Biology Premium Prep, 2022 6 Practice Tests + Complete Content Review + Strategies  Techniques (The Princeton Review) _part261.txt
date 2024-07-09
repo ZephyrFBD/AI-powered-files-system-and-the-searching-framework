@@ -1,0 +1,11 @@
+dium channel on the surface of a skeletal muscle cell at the neuromuscular
+junction. This channel opens in response to acetylcholine, and a massive influx of sodium depolarizes the
+muscle cell and causes it to contract.
+2. Catalytic (enzyme-linked) receptors have an enzymatic active site on the cytoplasmic side of the membrane.
+Enzyme activity is initiated by ligand binding at the extracellular surface. The insulin receptor is an example of
+an enzyme-linked receptor. After binding insulin, enzymatic activity initiates a complex signaling pathway that
+allows the cell to grow, synthesize lipids, and import glucose.
+3. A G-protein-linked receptor does not act as an enzyme, but instead will bind a different version of a G-protein
+(often GTP or GDP) on the intracellular side when a ligand is bound extracellularly. This causes activation of
+secondary messengers within the cell. One important second messenger is cyclic AMP (cAMP). It is known as a
+“universal hunger signal” because it is the s

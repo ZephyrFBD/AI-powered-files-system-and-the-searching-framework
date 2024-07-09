@@ -1,0 +1,13 @@
+f the repressor protein to the operator
+3. Which sequences in bacterial operons are noncoding sequences?
+(A) operators and promoters only
+(B) operators, promoters, and genes for regulatory proteins
+(C) operators, promoters, and genes for structural proteins
+(D) promoters, genes for regulatory proteins, and genes for structural proteins
+4. Which of the following is a key difference between inducible operons and repressible operons?
+(A) Inducible operons have promoter sequences, and repressible operons do not have promoter sequences.
+(B) Inducible operons have operator sequences, and repressible operons do not have operator sequences.
+(C) The repressor in an inducible operon can bind to the operator sequence on its own, but the repressor in a
+repressible operon requires a corepressor in order to bind to the operator.
+(D) In inducible operons, RNA polymerase requires the presence of a corepressor in order to bind to the
+promoter; in repressible operons, RNA polymerase does not require a c

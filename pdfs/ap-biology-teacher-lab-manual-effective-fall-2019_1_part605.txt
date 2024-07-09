@@ -1,0 +1,88 @@
+n by base pairing.
+3 Incubate with DNA ligase to link
+    each strand covalently.
+Original DNA
+molecules
+5’
+G
+3’
+3’
+5’
+C
+A
+T
+A
+T
+T
+A
+T
+A
+C
+G
+5’
+G
+3’
+C T T A A
+5’
+G
+3’
+C T T A A
+3’
+5’
+A A T T C
+G
+5’
+G
+3’
+3’
+5’
+C
+A
+T
+A
+T
+T
+A
+T
+A
+C
+G
+5’
+G
+3’
+3’
+5’
+C
+A
+T
+A
+T
+T
+A
+T
+A
+C
+G
+3’
+5’
+A A T T C
+G
+Recombinant DNA molecule
+5’
+G
+3’
+C T T A A
+3’
+5’
+A A T T C
+G
+Figure 1. Recombinant DNA Using Restriction Enzymes 
+ 
+■Activity II: DNA Mapping Using Restriction Enzymes
+One application of restriction enzymes is restriction mapping. Restriction mapping is 
+the process of cutting DNA at specific sequences with restriction enzymes, separating 
+the fragments from each other by a process called gel electrophoresis (without pasting 
+any fragments together), and then estimating the size of those fragments. The size and 
+number of DNA fragments provide information about the structure of the original 
+pieces of DNA from which they were cut.
+Restriction mapping enables scientists to create a genetic signature or DNA 

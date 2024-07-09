@@ -1,0 +1,16 @@
+a
+population can increase when the birth rate is at its maximum and the
+death rate is at its minimum. The second is environmental resistance,
+which includes the limits set by the living and nonliving environment
+that decrease birth rates. These limits can be either density-
+dependent, such as availability of food, predation, and disease, or
+density-independent, such as weather and climate. When a population
+is first being established and these limits are not yet a problem, ideal
+conditions encourage exponential growth, as seen in the figure above
+and described by (B). (C) is incorrect because the data is simply
+suggesting that environmental constraints have not yet begun to aﬀect
+the population growth rate. However, when constraints do become a
+limiting factor, this rapid growth rate will be unable to continue
+indefinitely. As a result, all populations that exhibit exponential
+growth eventually stabilize or crash, resulting in a plateau and a more
+sustainable logistic growth model. The

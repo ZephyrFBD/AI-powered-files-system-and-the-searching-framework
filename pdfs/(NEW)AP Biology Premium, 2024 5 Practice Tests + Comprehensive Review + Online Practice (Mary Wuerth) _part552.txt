@@ -1,0 +1,21 @@
+15
+Chipmunks
+2
+Ants
+1,000
+Mesquite Bush
+5
+Total Number of Organisms
+1,524
+Simpson’s Diversity Index for Community A is:
+Simpson’s Diversity Index for Community B is:
+Community B has a diversity index more than 500 times larger than the diversity index of Community A.
+Relationships Within Communities
+Interactions and relationships among members of a community are important for the survival of organisms. The
+interactions among populations within a community can change over time. These changing interactions can
+influence how members of the community access the matter and energy they need to survive.
+There are many different types of relationships among interacting members of a community:
+Competition: Organisms compete for resources, such as food, habitats, and mates. Competition can occur
+between two different species (interspecies competition) or between members of the same species (intraspecies
+competition). Competition can lead to the demise of organisms in an ecosystem.
+Predator/Prey:

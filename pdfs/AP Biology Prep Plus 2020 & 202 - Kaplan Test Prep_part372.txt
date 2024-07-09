@@ -1,0 +1,25 @@
+ction of the ratio between rate and substrate
+concentration (v/[S]). The y-intercept is Vmax (the maximum rate of
+reaction) and the absolute value of the slope is Km (the aﬀinity for
+substrate by an active enzyme). A high Km indicates low substrate
+aﬀinity. The figure below shows a plot of competitive,
+noncompetitive, and no inhibition.
+Competitive inhibition prevents the substrate from binding the
+enzyme, whereas noncompetitive inhibition inactivates the
+enzyme. Based on the figure, which of the following correctly
+describes the characteristics of enzyme inhibition?
+Noncompetitive inhibition reduces Vmax and the amount of
+substrate needed to reach half Vmax.
+(A)
+Competitive inhibition increases Km, so more substrate is
+needed to reach Vmax.
+(B)
+Noncompetitive inhibition has a lower Vmax and a higher Km
+than competitive inhibition.
+(C)
+In competitive inhibition, a small amount of substrate is
+needed to saturate the enzyme.
+(D)
+Answer Key
+TEST WHAT YOU ALREADY KNOW
+TEST WHAT YOU LEARNED

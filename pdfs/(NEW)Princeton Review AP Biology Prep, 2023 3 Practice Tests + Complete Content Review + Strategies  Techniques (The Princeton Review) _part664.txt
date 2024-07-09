@@ -1,0 +1,14 @@
+xplain what important control(s) the scientists should do to account for the procedure in Step 2.
+It would be important to make sure the injection process itself is not causing a problem. There should be a control
+group of wild-type cells that is injected with saline to account for the injection and make sure it is the actual
+mitochondria that is causing the mutant phenotype.
+c. If the nuclear DNA was injected into the wild-type Neurospora cells instead of the mitochondria, explain
+whether the resulting fungi would have the poky phenotype.
+They should NOT have the poky phenotype.
+d. Justify your prediction.
+The resulting fungi should not have the poky phenotype because the trait is not carried on a nuclear genome. It is
+part of the mitochondrial genome, and giving the nuclear genome is not going to provide the gene for the poky
+phenotype.
+Question 4
+a. Finches are incapable of digging burrows yet approximately 25% of the finches found on the island live in
+underground dwellings. Descri

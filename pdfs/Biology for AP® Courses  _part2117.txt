@@ -1,0 +1,11 @@
+nd
+that the frequency of one resistance allele was 6.3%, while a second resistance allele’s frequency was 74.6%, and the non-
+resistance allele’s frequency was 19.0%. These three frequencies add up to 100%.
+[2] A population’s gene pool is the sum of
+all the alleles. If these frequencies do not change over time, the population is said to be in Hardy–Weinberg principle of
+equilibrium—a stable, non-evolving state. However, if a phenotype is favored by natural selection, allele frequencies can
+change. If this is the case, the population is evolving. Sometimes allele frequencies within a population change randomly
+with no advantage to the population over existing allele frequencies. This phenomenon is called genetic drift. An event that
+initiates an allele frequency change in an isolated part of the population, which is not typical of the original population, is
+called the founder effect. In Population Genetics, we will explore how natural selection, random drift, and founder effects
+can le

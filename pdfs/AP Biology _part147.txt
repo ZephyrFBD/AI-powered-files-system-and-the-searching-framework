@@ -1,0 +1,20 @@
+ cyclin-Cdk complex. Notice that the peaks
+of MPF activity correspond to a rise in cyclin concentration. The cyclin
+levels rise during the S and G2 phases and then fall abruptly during the M
+phase. MPF triggers the cell’s passage past the G2 checkpoint into the M
+phase.
+******ebook converter DEMO Watermarks*******
+■
+■
+Figure 4.8 Fluctuation of MPF Activity and Cyclin Concentration During
+the Cell Cycle
+Platelet Derived Growth Factor (PDGF)
+PDGF is an external signal that drives the cell cycle. Specialized cells
+called fibroblasts have PDGF receptors on their surface membrane. When
+PDGF binds to a receptor, it triggers a signal transduction pathway that
+allows cells to pass the G1 checkpoint and divide. When an injury occurs
+in the body, platelets release PDGF near the injury, and a massive
+proliferation (cell division) of fibroblasts heals the wound.
+CHAPTER SUMMARY
+This chapter supported Big Ideas: ENE, IST, and SYI.
+This chapter is about the cell cycle, mitosis, and meiosis. It also

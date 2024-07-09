@@ -1,0 +1,21 @@
+e cell machinery, replicates itself, and then causes the cell to
+burst, releasing a new generation of infectious phage viruses.
+These new viruses infect and kill thousands of cells in the same
+manner. A phage that replicates only by a lytic cycle is a
+virulent phage.
+******ebook converter DEMO Watermarks*******
+2.
+■
+■
+In the lysogenic cycle, viruses replicate without destroying the
+host cell. The phage virus becomes incorporated into a specific
+site in the host’s DNA. It remains dormant within the host
+genome and is called a prophage. As the host cell divides, the
+phage is replicated along with it and a single infected cell gives
+rise to a population of infected cells. At some point, an
+environmental trigger causes the prophage to switch to the lytic
+phase. Viruses capable of both modes of reproducing, lytic and
+lysogenic, within a bacterium are called temperate viruses.
+IST-2
+Viral replication can introduce genetic variation into its hosts.
+RETROVIRUSES—These are viruses that contain 

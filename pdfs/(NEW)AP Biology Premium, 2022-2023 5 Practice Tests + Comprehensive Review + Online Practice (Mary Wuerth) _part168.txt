@@ -1,0 +1,11 @@
+an environment where the substrate
+can outcompete the competitive inhibitor.
+Noncompetitive (or allosteric) inhibitors do not bind to the active site but rather bind to a different site on the
+enzyme (called the allosteric site), see Figure 7.2. The binding of the noncompetitive inhibitor to the allosteric site
+changes the shape of the enzyme, affecting its function. Because the noncompetitive inhibitor does not bind to the
+active site of the enzyme, adding higher concentrations of substrate does not affect the action of a noncompetitive
+inhibitor. Noncompetitive inhibitors can function in feedback mechanisms, adjusting the rate of chemical reactions
+in the cell to suit changing environmental conditions.
+Figure 7.2 Competitive Inhibitors vs. Noncompetitive Inhibitors
+Cofactors (inorganic molecules) and coenzymes (organic molecules) increase the efficiency of enzyme-
+catalyzed reactions, usually by binding to the active site or the substrate, which enhances the binding of the substrate

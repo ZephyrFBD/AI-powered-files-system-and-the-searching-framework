@@ -1,0 +1,10 @@
+he cell to its interior
+(Figure 5.10); depending on the gradient, the material may move in the opposite direction. Carrier proteins are typically
+specific for a single substance. This selectivity adds to the overall selectivity of the plasma membrane. The exact mechanism
+for the change of shape is poorly understood. Proteins can change shape when their hydrogen bonds are affected, but this
+may not fully explain this mechanism. Each carrier protein is specific to one substance, and there are a finite number of
+these proteins in any membrane. This can cause problems in transporting enough of the material for the cell to function
+properly. When all of the proteins are bound to their ligands, they are saturated and the rate of transport is at its maximum.
+Increasing the concentration gradient at this point will not result in an increased rate of transport.
+Figure 5.10 Some substances are able to move down their concentration gradient across the plasma membrane with
+the aid of carrier prote

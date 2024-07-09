@@ -1,0 +1,23 @@
+s represented visually
+in this model relates to a broader biological process. (1 point)
+Apoptosis is genetically programmed cell death. Defects in the
+regulation of apoptosis contribute to many diseases, including
+******ebook converter DEMO Watermarks*******
+(a)
+(b)
+(c)
+(d)
+1.
+cancers where cells grow out of control. The molecule miR-215 is a
+signaling protein that seems to be related to apoptosis in some cells.
+Below are two graphs: A and B:
+Graph A shows the relative expression of miR-215 in cancerous
+breast tissue and adjacent noncancerous breast tissue. Graph B
+shows the results of an experiment, demonstrating the relationship
+between apoptotic cells and an miR-215 mimic and an miR-215
+inhibitor.
+Describe the data shown in Graph A, in terms of miR-215 and
+the presence or absence of cancer. (1 point)
+Describe the data shown in Graph B, in terms of miR-215 and
+the percentage of apoptotic cells in the experiment. (1 point)
+Do these data support a researcher’s plan to design a drug tha

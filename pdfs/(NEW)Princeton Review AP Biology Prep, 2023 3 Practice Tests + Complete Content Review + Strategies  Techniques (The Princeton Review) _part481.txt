@@ -1,0 +1,25 @@
+ct Rule
+The product rule is used for independent events and is also called the “AND rule.” The probability of independent
+events occurring together is the product of their separate probabilities. This rule is used when the order of the events
+matters.
+Example: What is the probability of drawing a heart and a spade consecutively from a deck of cards if the first draw
+was replaced before the second draw?
+Solution:
+P(heart) = 
+ = 
+P(spade) = 
+ = 
+P(heart and spade) = P(heart) × P(spade)
+P(heart and spade) =  ×  = 
+Sum Rule
+The sum rule is used for studying two mutually exclusive events, and can be thought of as the “EITHER” rule. The
+probability of either of two events occurring is the sum of their individual probabilities.
+Example: What is the probability of drawing a diamond or a heart from a deck of cards?
+Solution:
+P(diamond) = 
+ = 
+P(heart) = 
+ = 
+P(diamond or heart) = P(diamond) + P(heart)
+P(diamond or heart) =  +  =  = 
+If the events you are studying are not mutually exclusive, suc

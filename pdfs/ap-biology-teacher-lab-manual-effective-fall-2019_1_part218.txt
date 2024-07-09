@@ -1,0 +1,23 @@
+her Excel model with more sophistication than the model  
+you built in class, Deme 1.0 and 2.0 with documentation are available at  
+http://bioquest.org/esteem/esteem_details.php?product_id=193, where you 
+need to establish an account (free) before you can download it. It works in Excel just 
+as the spreadsheet model you created earlier. See Figure 1. 
+•  AlleleA1: Jon Herron from the University of Washington has created a  
+simulation called AlleleA1 along with documentation. It is available for free at  
+http://faculty.washington.edu/herronjc/SoftwareFolder/AlleleA1.html. 
+See Figure 2. 
+INVESTIGATION 2
+T64  Investigation 2
+ 
+ 
+ 
+ 
+ Figure 1. Deme 1.0  
+Figure 2. AlleleA1 
+•  Population genetics simulation program: Bob Sheely from Radford University has 
+created a simulation and documentation in the form of a Web application. It is 
+available for free at http://www.radford.edu/~rsheehy/Gen_flash/popgen/. 
+See Figure 3. 
+Figure 3. Population Genetics Simulation Program 
+Investigation 

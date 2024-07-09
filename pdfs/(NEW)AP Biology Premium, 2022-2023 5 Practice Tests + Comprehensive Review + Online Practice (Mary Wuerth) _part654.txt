@@ -1,0 +1,39 @@
+ a purple flower color is dominant over a white
+flower color. Two pea plants (both of which are heterozygous for round peas and heterozygous for purple
+flowers) were crossed and produced 1,600 offspring. The number of offspring with each phenotype is shown in
+the following table.
+Phenotype
+Number of Offspring
+Round peas, purple flowers
+860
+Round peas, white flowers
+320
+Wrinkled peas, purple flowers
+310
+Wrinkled peas, white flowers
+110
+(a) Describe the expected numbers of each phenotype. (Assume the genes for pea shape and flower color are
+on different chromosomes.)
+(b) Calculate the chi-square value for this experiment.
+(c) Evaluate the data for this dihybrid cross using a p-value of 0.05.
+(d) The genes for pea shape and flower color are located on different chromosomes. Explain how the data
+would have differed if the two genes had been located on the same chromosome.
+ANSWER KEY
+Practice Test 1
+Section I
+1. B
+2. A
+3. B
+4. D
+5. A
+6. C
+7. D
+8. B
+9. A
+10. C
+11. A
+12. A
+13. A
+14. C
+15. A
+1

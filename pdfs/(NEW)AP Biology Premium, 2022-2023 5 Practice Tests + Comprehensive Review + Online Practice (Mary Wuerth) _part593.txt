@@ -1,0 +1,11 @@
+odeled using beads, pipe cleaners, clay,
+or a variety of other tools. After modeling the cell cycle and mitosis, you should have a better understanding of:
+■The part of the cell cycle during which the genetic information of a cell is duplicated
+■Why chromosomes condense before they are separated
+■How the sister chromatids in a chromosome are separated and the result if a pair of sister chromatids fail to
+separate
+Part 2: In this part of the lab, cells are treated with a chemical and are compared to untreated cells to find out
+whether the chemical alters the rate of mitosis. Slides are prepared from both the treated and untreated groups, and
+the number of cells in mitosis and interphase are recorded for each group. A chi-square test is used to determine
+whether there is a statistically significant difference between the number of cells in mitosis and interphase in each
+group. The null hypothesis for this experiment is that there is no statistically significant difference in the number o

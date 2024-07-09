@@ -1,0 +1,13 @@
+ control in this experiment.
+(c) Which sequence (1, 2, or 3) most likely functions as an enhancer sequence? Support your claim using
+evidence from the data.
+(d) Predict the effects of the deletion of P, as shown in sequence E, and what the relative level of THY-1
+transcription would be for E. Justify your prediction with evidence from the data.
+Answer Explanations
+Multiple-Choice
+1. (D) Corepressors help the repressor protein bind to the operator. Since serine is a corepressor, its presence
+would result in increased binding of the repressor protein to the operator. Choice (A) is incorrect because
+repressible operons are usually anabolic, not catabolic, in function and thus they would not be involved in the
+digestion of serine. Since serine functions as a corepressor, the presence of serine would reduce the expression
+of the operon and would not result in increased levels of serine. Thus, choice (B) is incorrect. The presence of
+the corepressor does not affect the production of the repr

@@ -1,0 +1,43 @@
+null hypothesis.
+EVO-1.K.2
+Allele frequencies in a population can be 
+calculated from genotype frequencies.
+RELEVANT EQUATION
+Hardy-Weinberg Equation—
+p2 + 2pq + q2 = 1
+p + q = 1
+where:
+p = frequency of allele 1 in the population
+q = frequency of allele 2 in the population
+ENDURING UNDERSTANDING
+EVO-1
+Evolution is characterized by a change in the genetic makeup of a population over 
+time and is supported by multiple lines of evidence.
+AVAILABLE RESOURCES
+§
+§ Classroom Resources > 
+Evolution and Change
+§
+§ AP Biology Lab Manual > 
+Mathematical Modeling
+ILLUSTRATIVE EXAMPLE
+EVE-1.K.2
+§
+§ Graphical analysis of 
+allele frequencies in a 
+population
+continued on next page
+Course Framework V.1 | 133
+AP Biology Course and Exam Description
+Natural Selection
+UNIT
+7
+ESSENTIAL KNOWLEDGE
+EVO-1.L.1
+Changes in allele frequencies provide evidence 
+for the occurrence of evolution in a population.
+EVO-1.L.2
+Small populations are more susceptible 
+to random environmental impact than 
+large populations.
+L

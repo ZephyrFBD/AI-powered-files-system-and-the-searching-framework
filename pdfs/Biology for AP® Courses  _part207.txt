@@ -1,0 +1,12 @@
+oacidosis keeps pH level of blood constant which disrupts biological processes.
+d.
+Diabetic ketoacidosis decreases normal pH (7.35-7.45) to a lower value.
+66
+Chapter 2 | The Chemical Foundation of Life
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+So how can organisms whose bodies require a near-neutral pH ingest acidic and basic substances (a human drinking orange
+juice, for example) and survive? Buffers are the key. Buffers readily absorb excess H+ or OH–, keeping the pH of the body
+carefully maintained in the narrow range required for survival. Maintaining a constant blood pH is critical to a person’s
+well-being. The buffer maintaining the pH of human blood involves carbonic acid (H2CO3), bicarbonate ion (HCO3–), and
+carbon dioxide (CO2). When bicarbonate ions combine with free hydrogen ions and become carbonic acid, hydrogen ions
+are removed, moderating pH changes. Similarly, as shown in Figure 2.21, excess carbonic acid can be converted to carbon

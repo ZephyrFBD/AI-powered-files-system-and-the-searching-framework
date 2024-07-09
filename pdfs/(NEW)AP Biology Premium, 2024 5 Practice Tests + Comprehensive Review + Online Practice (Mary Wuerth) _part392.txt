@@ -1,0 +1,12 @@
+ly wound around the histone proteins, forming heterochromatin, which is less accessible to RNA polymerase
+and results in reduced gene expression.
+Small interfering RNA (siRNA) molecules can also affect gene expression. siRNA is single-stranded and binds
+to complementary mRNA molecules, forming double-stranded RNA (dsRNA) molecules. Enzymes in the cell detect
+and destroy these dsRNA molecules, resulting in no translation of the targeted mRNA molecules and reduced gene
+expression.
+Gene Expression Helps Cells Specialize
+The regulation of gene expression results in different genes being expressed in different cells (also known as
+differential gene expression). This differential gene expression influences the functions of cells and the resulting
+phenotype of the organism. Different tissue types express different genes, which results in cell differentiation.
+The phenotype of an organism is determined not only by which genes are expressed but also by the levels at
+which the genes are expresse

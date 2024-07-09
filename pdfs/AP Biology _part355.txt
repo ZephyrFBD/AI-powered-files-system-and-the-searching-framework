@@ -1,0 +1,19 @@
+gene and harvest them
+from the culture.
+TOOLS AND TECHNIQUES OF BIOTECHNOLOGY
+Restriction Enzymes
+Restriction enzymes were discovered in the late 1960s and are a basic
+biotechnology tool. They are extracted from bacteria, which use them to
+fend off attacks by invading bacteriophages. Restriction enzymes cut DNA
+at specific recognition sequences or sites, such as GAATTC. Often these
+cuts are staggered, leaving single-stranded sticky ends to form a
+temporary union with other sticky ends. The fragments that result from the
+cuts made by restriction enzymes are called restriction fragments.
+IST-1
+Be able to explain how heritable information can be manipulated using technologies.
+Scientists have now isolated hundreds of different restriction enzymes.
+They are named for the bacteria in which they were found. Common
+examples are EcoRI (which was discovered in E. coli), BamHI, and
+HINDIII. Restriction enzymes have many uses, including gene cloning.
+Gel Electrophoresis
+Gel electrophoresis separa

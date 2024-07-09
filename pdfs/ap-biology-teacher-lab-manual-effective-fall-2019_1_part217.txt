@@ -1,0 +1,13 @@
+ncies in a population. Encourage them to experiment a bit with one of these 
+more sophisticated and powerful models, trying out various combinations of changes 
+to parameters or various extremes of one parameter at time. This is exploration, and 
+it should allow the students to generate questions that have direct implications to the 
+real world. Have them record their questions in their lab notebook. Encourage them to 
+systematically investigate the consequences of changing variables (parameters) on the 
+system they are studying — in this case, population genetics. From these questions have 
+the students develop hypotheses that can be tested with the use of more sophisticated 
+models — those that allow more easily manipulated parameters of population size, 
+number of generations, selection (fitness), mutation, migration, and genetic drift. 
+Any number of computer-based Hardy-Weinberg simulations can be found with a  
+Google search. Here are some suggestions:  
+•  Deme 1.0 and 2.0: Anot

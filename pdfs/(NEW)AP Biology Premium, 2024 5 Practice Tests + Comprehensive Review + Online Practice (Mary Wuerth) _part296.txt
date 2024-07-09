@@ -1,0 +1,10 @@
+ent only apply to traits coded for by genes that are located on
+separate chromosomes. As discussed in Chapter 12, genes that are close together on the same chromosome are linked and tend to be inherited together
+more often. Mendel’s laws of segregation and independent assortment do not apply to linked genes.
+Mendel’s law of segregation states that an organism carries two variations of every trait (called alleles), one
+from each parent, and these alleles segregate, or separate, independently into gametes. This segregation occurs
+during anaphase of meiosis. When homologous chromosomes separate during anaphase I, the alleles on those
+chromosomes will segregate into separate gametes. One variation (or allele) for a trait ends up in each gamete. When
+two gametes join during fertilization, the resulting offspring then again has two alleles for the trait.
+Mendel’s law of independent assortment states that genes for different traits segregate independently of one
+another. This independent asso

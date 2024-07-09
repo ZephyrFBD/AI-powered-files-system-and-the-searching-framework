@@ -1,0 +1,19 @@
+ know for the AP exam.
+Figure 17.1 Activation of B and T cells
+Regulatory T Cells and Self-Tolerance
+Normally, the immune system exhibits self-tolerance, meaning it does not
+attack body cells. However, sometimes immature lymphocytes develop
+that have antigen receptors specific for the body’s own cells. If allowed to
+escape, these cells would attack the body’s cells, a situation characteristic
+of autoimmune disease. To avoid this, lymphocytes are tested for self-
+reactivity as they mature in the bone marrow. B and T cells that are
+identified as self-reactive are destroyed by apoptosis, programmed cell
+death. (Also see page 53.) Regulatory T cells, called Treg, inhibit the
+activation of the immune system in response to self-antigens. Treg secrete
+interleukin-10 (Il-10).
+******ebook converter DEMO Watermarks*******
+■
+■
+Major Histocompatibility Complex (MHC) Molecules
+Major histocompatibility complex (MHC) molecules, also known as
+HLA (human leukocyte antigens), are a collection of cell su

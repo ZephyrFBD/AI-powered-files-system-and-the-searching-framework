@@ -1,0 +1,20 @@
+ the gene that was inserted into the plasmid. To force a
+bacterium to uptake a plasmid, the bacterium must be prepared in a special
+way. It must be made competent.
+Objective
+Cut lambda DNA with different restriction enzymes. Transform bacteria
+into an antibiotic-resistant form by inserting a plasmid.
+To transform bacteria, first make them competent to uptake a plasmid.
+Use heat shock, a combination of alternating hot and cold, in the presence
+of calcium ions that disrupt the cell membrane. Once competent, the
+bacteria should be incubated with plasmids that carry the resistance to a
+particular antibiotic. A control sample should be run along with the
+******ebook converter DEMO Watermarks*******
+■
+■
+■
+■
+experimental one, treated in exactly the same way except it does not get
+exposed to a plasmid. After the cells are allowed to rest, they should be
+poured onto four Petri dishes that contain Luria broth. Two Petri dishes
+should also contain antibiotic, and two should not. Table 19.2 shows 

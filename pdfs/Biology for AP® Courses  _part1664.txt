@@ -1,0 +1,12 @@
+ nucleotides before protein synthesis can occur. (credit: modification
+of work by Torsten Ochsenreiter)
+Other genes in the mitochondrial genome encode 40- to 80-nucleotide guide RNAs. One or more of
+these molecules interacts by complementary base pairing with some of the nucleotides in the pre-mRNA
+transcript. However, the guide RNA has more A nucleotides than the pre-mRNA has U nucleotides to bind
+with. In these regions, the guide RNA loops out. The 3' ends of guide RNAs have a long poly-U tail, and
+these U bases are inserted in regions of the pre-mRNA transcript at which the guide RNAs are looped. This
+process is entirely mediated by RNA molecules. That is, guide RNAs—rather than proteins—serve as the
+catalysts in RNA editing.
+RNA editing is not just a phenomenon of trypanosomes. In the mitochondria of some plants, almost all
+pre-mRNAs are edited. RNA editing has also been identified in mammals such as rats, rabbits, and even
+humans. What could be the evolutionary reason for this add

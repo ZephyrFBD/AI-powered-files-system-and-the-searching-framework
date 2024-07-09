@@ -1,0 +1,12 @@
+ taken for each slide. Because the standard error of
+group A is larger than that of group B and because the two groups have the same sample size, the standard
+deviation of group A must also be larger than that of group B. Note that this may or may not be the case if the
+sample sizes were different. A larger standard deviation means the data is more variable, so you can conclude
+that the data from group A has a larger spread than the data from group B.
+(c) As with most datasets, the researcher is assuming the data fits a normal distribution and that her sample size is
+large enough to be meaningful.
+(d) More data allows for more confident conclusions. The researcher could therefore take more pictures from each
+slide to increase the sample size.
+Chi-Square (χ2) Tests
+A chi-square test is a statistical tool used to measure the difference between observed and expected data. For
+example, suppose you roll a die 120 times. You would expect a 1:1:1:1:1:1 ratio between all the numbers that come

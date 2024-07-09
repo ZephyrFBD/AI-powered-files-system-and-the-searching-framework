@@ -1,0 +1,12 @@
+hanges in the genetic makeup of a population.
+LAB 3: COMPARING DNA SEQUENCES TO UNDERSTAND
+EVOLUTIONARY RELATIONSHIPS WITH BLAST
+This laboratory uses BLAST (Basic Local Alignment Search Tool), a database that allows you to input a DNA
+sequence for a gene to look for similar or identical sequences present in other species. In order to understand
+everything you need for the AP Exam, you need to be able to do the following:
+Look at a phylogenic tree, which is a way to visually represent evolutionary relatedness. Endpoints of each
+branch correspond to a specific species, and each junction on the tree represents a common ancestor. Species
+that are closer on a phylogenic tree are more closely related.
+Understand BLAST scoring. Most phylogenic trees are constructed by examining nucleotide sequences; the
+more identical two species’ sequences are for a specific gene, the more closely related they are. BLAST is able
+to analyze different sequences to tell you how similar they are to one another b

@@ -1,0 +1,11 @@
+ a gene for resistance to the antibiotic ampicillin. If you grow
+the bacteria used on agar plates that contain the antibiotic ampicillin, only bacteria that have absorbed the plasmid
+will grow on the agar plates.
+Heat shock was one of the first techniques used to insert foreign DNA into cells and is a key step in this
+investigation. In this lab, bacterial cells are placed in a test tube with a transformation solution and the plasmid
+DNA. This tube is then incubated on ice, exposed to a brief heat shock in a water bath, and then returned to the ice.
+The cell membrane of a bacterial cell is composed of a phospholipid bilayer. When the cell experiences a heat
+shock, temporary microscopic “cracks” are formed in the cell membrane through which the plasmid DNA may
+enter. Not all bacteria will take in the plasmid, but manipulating the heat shock under different conditions can lead to
+higher or lower numbers of plasmids entering the cells.
+If the bacteria are exposed to a heat shock for too lo

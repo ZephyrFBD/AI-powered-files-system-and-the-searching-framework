@@ -1,0 +1,33 @@
+ge. The chi-square values are calculated as follows:
+phenotype
+observed
+expected
+obs–exp
+(obs–exp)2
+(obs–exp)2/exp
+yellow
+426
+377
+49
+2,401
+6.37
+orange
+328
+377
+–49
+2,401
+6.37
+χ2 = 12.74
+Rounded to the nearest tenth, the answer is 12.7. Therefore, (D) is correct.
+57. B
+When attempting to transform bacteria with a plasmid, only a small
+percentage of the bacteria present will take up the plasmid. Because you
+only want the transformed bacteria to proliferate, you need a way to
+positively select for your recombinant colonies. Ampicillin-resistance is a
+common strategy for positive selection, and without it, the student
+wouldn’t be able to isolate the transformed bacteria; thus, you will choose
+(B). While ampicillin-resistance is needed to isolate the transformed
+bacteria, it’s not necessary for the actual production of insulin, thus (A) is
+incorrect. Ampicillin-resistance is only required for the positive selection
+of transformed colonies, not the insertion of the insulin gene into the
+plasm

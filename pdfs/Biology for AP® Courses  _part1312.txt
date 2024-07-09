@@ -1,0 +1,10 @@
+ndel performed seven monohybrid crosses involving
+contrasting traits for each characteristic. On the basis of his results in F1 and F2 generations, Mendel postulated that each
+parent in the monohybrid cross contributed one of two paired unit factors to each offspring, and every possible combination
+of unit factors was equally likely.
+To demonstrate a monohybrid cross, consider the case of true-breeding pea plants with yellow versus green pea seeds.
+The dominant seed color is yellow; therefore, the parental genotypes were YY for the plants with yellow seeds and yy for
+the plants with green seeds, respectively. A Punnett square, devised by the British geneticist Reginald Punnett, can be
+drawn that applies the rules of probability to predict the possible outcomes of a genetic cross or mating and their expected
+frequencies. To prepare a Punnett square, all possible combinations of the parental alleles are listed along the top (for one
+parent) and side (for the other parent) of a grid, repr

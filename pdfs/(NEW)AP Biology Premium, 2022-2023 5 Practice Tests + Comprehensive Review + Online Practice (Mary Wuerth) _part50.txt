@@ -1,0 +1,24 @@
+ two locations. Similarly, the 95% confidence intervals for locations B and C
+overlap, so it is also not possible to make any conclusions about statistically significant differences between
+locations B and C.
+Practice Questions
+Multiple-Choice
+1. Which of the following can be used to describe the center of a data set and is NOT affected by extreme values in
+the data set?
+(A) mean
+(B) median
+(C) standard deviation
+(D) standard error of the mean
+2. Data Set A consists of {10, 15, 15, 20, 25}. Data Set B consists of {15, 15, 17, 19, 19}. Which of the following
+descriptive statistics is the same for both data set A and data set B?
+(A) mean
+(B) median
+(C) standard deviation
+(D) standard error of the mean
+3. The chi-square test is appropriate to compare which of the following types of data?
+(A) means
+(B) percentages
+(C) processed data
+(D) raw data
+4. In a dihybrid cross of two organisms (AaBb × AaBb), four different phenotypes of offspring can be produced.
+How many degrees of freedom would t

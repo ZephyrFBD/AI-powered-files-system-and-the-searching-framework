@@ -1,0 +1,16 @@
+ransformed. The number of 
+bacteria that take up a plasmid successfully is called the “transformation efficiency.” This 
+is one of the values you will calculate in this lab unit. 
+In this investigation, you will use a predefined procedure to transform E. coli bacteria 
+with a plasmid carrying a foreign gene. There are several different plasmids your 
+instructor can choose from; you will be instructed about which one to work with for this 
+unit. 
+E. coli is an ideal organism for the molecular geneticist to manipulate because it 
+naturally inhabits the human colon and easily can be grown in a nutrient medium such 
+as LB broth. 
+ 
+But what is E. coli’s natural or pre-transformation phenotype? 
+•  Observe the colonies of E. coli grown on the starter LB/agar plate provided by 
+your teacher to glean some information before you determine if any genetic 
+transformation has occurred. What traits do you observe in pre-transformed 
+bacteria? Record your observations in your laboratory notebook. 

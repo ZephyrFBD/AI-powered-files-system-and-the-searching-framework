@@ -1,0 +1,13 @@
+his cross? Remember, genotype refers to the genetic makeup of an
+organism, whereas phenotype refers to the appearance of the organism. According to the results of our Punnett
+square, what is the ratio of phenotypes and genotypes in the offspring?
+Let’s sum up the results. We have four offspring with two different phenotypes: three of the offspring are tall,
+whereas one of them is short. On the other hand, we have three genotypes: 1 TT, 2 Tt, and 1 tt.
+Here’s a summary of the results:
+The ratio of phenotypes is 3:1 (three tall:one short).
+The ratio of genotypes is 1:2:1 (one TT:two Tt:one tt).
+The Law of Independent Assortment
+So far, we have looked at only one trait: tall versus short. What happens when we study two traits at the same time?
+Each allele of the two traits will get segregated into two gametes, but how one trait gets split up into gametes has no
+bearing on how the other trait gets split up. In other words, the two alleles for each trait are sorted independently of
+the two 

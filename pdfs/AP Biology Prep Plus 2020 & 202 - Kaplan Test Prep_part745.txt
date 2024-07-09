@@ -1,0 +1,25 @@
+c
+tree, which shows degrees of relatedness without necessarily
+oﬀering information about the ancestral relationships between
+species or the timescale of divergences.
+2.
+Phylogenetic trees and cladograms can show anagenetic
+evolutionary changes (which do not lead to speciation), as well
+as cladogenetic evolutionary changes (which do).
+3.
+Test What You Learned
+1. The figure below shows a recent reptile cladogram developed
+using molecular, morphological, and paleontological data. The
+Gekkota, Anguimorpha, Scincidae, Teiidae, and Iguania are lizard
+groups. The Mosasauria is a group of extinct marine reptiles. The
+Serpentes are the snakes.
+Which of the following statements is best supported by the
+cladogram?
+Adapted from Tod W. Reeder et al., “Integrated Analyses
+Resolve Conflicts over Squamate Reptile Phylogeny and
+Reveal Unexpected Placements for Fossil Taxa,” PLoS
+ONE 10, no. 3 (March 2015): e0118199.
+The snakes are more closely related to the Iguania than to
+the Gekkota.
+(A)
+The Scincid

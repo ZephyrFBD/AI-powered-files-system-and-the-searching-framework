@@ -1,0 +1,16 @@
+eous
+environment will fold so that the hydrophilic R groups are at the surface
+and the hydrophobic R groups are on the inside of the protein. This three-
+dimensional folding, due to interactions between the R groups of amino
+acids, is a protein’s tertiary structure. R group interactions include
+hydrogen bonds, ionic bonds, dipole-dipole interactions, London
+dispersion forces, hydrophobic interactions, and covalent disulfide
+bonds. The orientation and arrangement of multiple polypeptide chains
+or subunits constitute a protein’s quaternary structure. Hemoglobin,
+which consists of two α and two β subunits, is an example of a protein
+with quaternary structure. Protein structure is important to its function: if
+a protein loses its shape (is denatured) at any structural level, its function
+will likely be diminished and possibly lost entirely.
+NUCLEIC ACIDS
+Nucleic acids encode biological information in nucleotide sequences and
+provide information for protein synthesis. Nucleotides are compos

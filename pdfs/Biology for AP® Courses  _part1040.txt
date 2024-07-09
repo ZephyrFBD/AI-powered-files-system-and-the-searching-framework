@@ -1,0 +1,13 @@
+nto
+second messengers. Because these molecules are membrane components, they are located near membrane-bound receptors
+and can easily interact with them. Phosphatidylinositol (PI) is the main phospholipid that plays a role in cellular signaling.
+Enzymes known as kinases phosphorylate PI to form PI-phosphate (PIP) and PI-bisphosphate (PIP2).
+The enzyme phospholipase C cleaves PIP2 to form diacylglycerol (DAG) and inositol triphosphate (IP3) (Figure 9.13).
+These products of the cleavage of PIP2 serve as second messengers. Diacylglycerol (DAG) remains in the plasma membrane
+and activates protein kinase C (PKC), which then phosphorylates serine and threonine residues in its target proteins. IP3
+diffuses into the cytoplasm and binds to ligand-gated calcium channels in the endoplasmic reticulum to release Ca2+ that
+continues the signal cascade.
+Figure 9.13 The enzyme phospholipase C breaks down PIP2 into IP3 and DAG, both of which serve as second
+messengers.
+Chapter 9 | Cell Communication
+38

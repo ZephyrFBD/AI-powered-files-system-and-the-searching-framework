@@ -1,0 +1,14 @@
+ of RNA in retroviruses. This DNA
+copy can then insert itself into the genome of the host cell. Reverse transcriptase has a higher error rate than
+DNA polymerase, which results in more mutations in the DNA copy of the RNA. Reverse transcriptase is not
+typically used by eukaryotic cells for any function.
+(a) Describe which nucleotides you would expect to find in the genome of a virus that uses reverse
+transcriptase.
+(b) The human immunodeficiency virus (HIV) contains RNA as its genetic material. Reverse transcriptase
+inhibitors have been shown to be effective in slowing the replication of HIV. Explain why reverse
+transcriptase inhibitors have few side effects in eukaryotic cells.
+(c) Predict the rate of mutation in a retrovirus compared to that of a DNA virus.
+(d) Justify your prediction from part (c).
+12. An experiment is conducted to study the effect of a ligase inhibitor on DNA replication.
+(a) Describe the function of ligase in DNA replication.
+(b) Identify an appropriate control fo

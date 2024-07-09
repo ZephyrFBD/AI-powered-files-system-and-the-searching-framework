@@ -1,0 +1,10 @@
+ressible operons, the presence of a corepressor is required in order for the repressor protein to bind to the
+operator sequence. Choice (A) is incorrect because both inducible and repressible operons have promoter
+sequences. Operator sequences are present in both inducible and repressible operons, so choice (B) is incorrect.
+RNA polymerase does not require a corepressor in order to bind to the promoter in both inducible and
+repressible operons, so choice (D) is incorrect.
+5. (B) Lactose is an inducer for the lac operon, so high levels of lactose would pull the repressor protein off of the
+operator, increasing expression of the lac operon. Low levels of glucose would cause higher levels of cyclic
+AMP, which would activate the catabolite activator protein, upregulating the expression of the lac operon. Low
+levels of lactose would not result in high levels of lac operon expression, so choices (A) and (C) are incorrect.
+Glucose is the preferred food source for bacteria, so if high levels o

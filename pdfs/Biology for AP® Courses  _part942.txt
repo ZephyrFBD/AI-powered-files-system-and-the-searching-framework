@@ -1,0 +1,13 @@
+nt pigments include various types of chromatography that separate
+the pigments by their relative affinities to solid and mobile phases.
+342
+Chapter 8 | Photosynthesis
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+How Light-Dependent Reactions Work
+The overall function of light-dependent reactions is to convert solar energy into chemical energy in the form of NADPH
+and ATP. This chemical energy supports the light-independent reactions and fuels the assembly of sugar molecules. The
+light-dependent reactions are depicted in Figure 8.15. Protein complexes and pigment molecules work together to produce
+NADPH and ATP.
+Figure 8.15 A photosystem consists of a light-harvesting complex and a reaction center. Pigments in the light-
+harvesting complex pass light energy to two special chlorophyll a molecules in the reaction center. The light excites
+an electron from the chlorophyll a pair, which passes to the primary electron acceptor. The excited electron must the

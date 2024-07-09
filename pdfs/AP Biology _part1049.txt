@@ -1,0 +1,49 @@
+of the solution in an open container is zero.
+The Solute Potential of a Solution
+Ψs = – iCRT
+i = ionization constant (For sucrose this is 1.0 because sucrose does not ionize in
+water.)
+C = molar concentration
+R = pressure constant (R = 0.0831 liter bars/mole K)
+T = temperature in Kelvin (273 + °C)
+Acid and Base: pH
+pH = – log [H+]
+******ebook converter DEMO Watermarks*******
+Rate and Growth
+Rate
+dY/dt
+dY = amount of change
+dt = change in time
+B = birth rate
+D = death rate
+N = population size
+K = carrying capacity
+rmax = maximum per capita
+growth
+rate of population
+Population
+Growth
+dN/dt = B – D
+Exponential
+Growth
+d⁢Nd⁢t=rmax⁢N
+Logistic Growth
+d⁢Nd⁢t=rmax⁢N⁢(K
+−NK)
+Simpson’s Diversity Index
+Diversity Index =1−Σ⁢nN2
+n = total number of organisms of a particular species
+N = total number of organisms of all species
+Surface Area and Volume
+Volume of a Sphere
+V=43⁢π⁢r3
+r = radius
+l = length
+h = height
+w = width
+s = length of one side of a
+cube
+SA = surface area
+V = volume
+Volume of a Cube
+V

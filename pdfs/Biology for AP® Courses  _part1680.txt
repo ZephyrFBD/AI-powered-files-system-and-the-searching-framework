@@ -1,0 +1,12 @@
+ a large 60S subunit,
+for a total of 80S. The small subunit is responsible for binding the mRNA template, whereas the large subunit sequentially
+binds tRNAs. Each mRNA molecule is simultaneously translated by many ribosomes, all synthesizing protein in the same
+direction: reading the mRNA from 5' to 3' and synthesizing the polypeptide from the N terminus to the C terminus. The
+complete mRNA/poly-ribosome structure is called a polysome.
+tRNAs
+The tRNAs are structural RNA molecules that were transcribed from genes by RNA polymerase III. Depending on the
+species, 40 to 60 types of tRNAs exist in the cytoplasm. Serving as adaptors, specific tRNAs bind to sequences on the
+mRNA template and add the corresponding amino acid to the polypeptide chain. Therefore, tRNAs are the molecules that
+actually “translate” the language of RNA into the language of proteins.
+Of the 64 possible mRNA codons—or triplet combinations of A, U, G, and C—three specify the termination of protein
+synthesis and 61 spec

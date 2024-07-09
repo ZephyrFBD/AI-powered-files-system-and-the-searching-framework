@@ -1,0 +1,11 @@
+te eyes. Males inherit their only X chromosome from their female parent, so all of the males
+have the white-eyed phenotype. The results of the cross are shown in the following figure.
+(b) The independent variable is the color of the eyes (or the presence or absence of the TDO2 mutation). The
+dependent variable is the mean life span.
+(c) There is likely a statistically significant difference if the 95% confidence intervals do NOT overlap. The
+lower limit of the 95% confidence interval for the mean life span of the white-eyed flies is 37 days (42.8 –
+5.8). The upper limit of the 95% confidence interval for the mean life span of the red-eyed flies is 34 days
+(29.1 + 4.9). The 95% confidence intervals do not overlap, so there is likely a statistically significant
+difference in the life spans of the two groups of flies in this experiment.
+(d) In this mating,  of the females would have red eyes,  of the females would have white eyes,  of the
+males would have white eyes, and  of the males wou

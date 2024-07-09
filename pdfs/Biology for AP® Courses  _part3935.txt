@@ -1,0 +1,11 @@
+nfected
+cell. Recall that this is a similar destruction mechanism to that used by NK cells. In this process, the CTL does not become
+infected and is not harmed by the secretion of perforin and granzymes. In fact, the functions of NK cells and CTLs are
+complementary and maximize the removal of infected cells, as illustrated in Figure 33.14. If the NK cell cannot identify
+the “missing self” pattern of down-regulated MHC I molecules, then the CTL can identify it by the complex of MHC I
+with foreign antigens, which signals “altered self.” Similarly, if the CTL cannot detect antigen-embedded MHC I because
+the receptors are depleted from the cell surface, NK cells will destroy the cell instead. CTLs also emit cytokines, such as
+interferons, that alter surface protein expression in other infected cells, such that the infected cells can be easily identified
+and destroyed. Moreover, these interferons can also prevent virally infected cells from releasing virus particles.
+1452
+Chapter 33 | The I

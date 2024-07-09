@@ -1,0 +1,13 @@
+. Multiple ribosomes can be simultaneously translating a prokaryotic RNA, forming polyribosomes (also
+known as polysomes), as shown in Figure 16.2.
+Figure 16.2 Polyribosomes
+The process of translation requires energy and involves three main steps in both prokaryotes and eukaryotes:
+initiation of translation, elongation of the polypeptide chain, and termination of translation.
+1. Initiation: The genetic code in mRNA is read in three base pair units called codons. Translation is initiated
+when the rRNA in the ribosome pairs with the start codon (AUG). A tRNA with the complementary
+anticodon (in this example, UAC) brings the appropriate amino acid to the ribosome, and the anticodon on
+tRNA pairs with the codon on the mRNA. In this way, tRNA functions as an “adapter” molecule, linking the
+correct amino acid with the correct codon on the mRNA. This process is called initiation and is shown in
+Figure 16.3.
+Figure 16.3 Initiation of Translation
+Each codon on mRNA codes for one amino acid, but

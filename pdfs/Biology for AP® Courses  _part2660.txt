@@ -1,0 +1,13 @@
+h side of the tube (Ψtotalright or left), and therefore, the difference
+between Ψtotal on each side (ΔΨ). (Ψm , the potential due to interaction of water with solid substrates, is ignored
+in this example because glass is not especially hydrophilic). Water moves in response to the difference in water
+potential between two systems (the left and right sides of the tube).
+Positive water potential is applied on the left side of a tube by increasing Ψp so that the water level rises on the right
+side. The equation for water potential is: Ψsystem = Ψtotal = Ψs + Ψp + Ψg + Ψm where Ψs, Ψp, Ψg, and Ψm refer to
+the solute, pressure, gravity, and matric potentials, respectively. Could you equalize the water level on each side of the
+tube by adding solute?
+a.
+Yes, water level can be equalized by adding solute to the right side of the tube so that water moves toward
+the left until the water levels are equal.
+b.
+No, water level cannot be equalized on both sides of the tubes by adding solutes with no 

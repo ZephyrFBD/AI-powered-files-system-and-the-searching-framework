@@ -1,0 +1,10 @@
+ produces a
+response, and once the response reaches a certain level, it sends a signal that stops additional release of the hormone. In
+this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary
+stimulates the thyroid gland to release thyroid hormones T3 and T4. Increased levels of these hormones result in feedback
+to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland.
+Some hormones are regulated by positive feedback in which the response is amplified; an example of hormone regulation
+by positive feedback is the production of oxytocin during labor and childbirth as uterine contractions cause the production
+and release of more oxytocin. Disruptions in the mechanisms of feedback often result in deleterious consequences, such as
+diabetes mellitus resulting in decreased insulin production.
+Information presented and the examples highlighted in the section support concepts outlined in Big Id

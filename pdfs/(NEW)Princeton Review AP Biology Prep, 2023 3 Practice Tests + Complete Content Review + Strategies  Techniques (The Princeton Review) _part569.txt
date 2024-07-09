@@ -1,0 +1,29 @@
+on S
+54. Which location contains the oldest common ancestor?
+(A) Position I
+(B) Position II
+(C) Position III
+(D) Position IV
+55. Which species is the out-group?
+(A) Snippeiq
+(B) Fixxels
+(C) Snorflak
+(D) Sqellert
+56. Which 2 species would you expect to have the most shared derived characters?
+(A) Snippeiq and Sqellert
+(B) Gerdellen and Sqellert
+(C) Snorflak and Gerdellen
+(D) Snorflak and Fixxels
+Questions 57 and 58 refer to the data below concerning the general animal body plan of four organisms.
+Note: + indicates a feature present in an organism.
+57. The two most closely related organisms are
+(A) sea anemone and hagfish
+(B) eel and salamander
+(C) hagfish and eel
+(D) sea anemone and salamander
+58. The correct order of evolution for the traits above is
+(A) jaws – vertebral column – walking legs
+(B) walking legs – jaws – vertebral column
+(C) jaws – walking legs – vertebral column
+(D) vertebral column – jaws – walking legs
+59. Pre- and post-zygotic barriers exist that prevent two different

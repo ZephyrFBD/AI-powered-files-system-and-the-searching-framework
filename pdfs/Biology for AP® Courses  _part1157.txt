@@ -1,0 +1,10 @@
+ry molecules are negative regulators. Negative regulators halt the cell cycle.
+Remember that in positive regulation, active molecules cause the cycle to progress.
+The best understood negative regulatory molecules are retinoblastoma protein (Rb), p53, and p21. Retinoblastoma
+proteins are a group of tumor-suppressor proteins common in many cells. The 53 and 21 designations refer to the functional
+molecular masses of the proteins (p) in kilodaltons. Much of what is known about cell cycle regulation comes from research
+conducted with cells that have lost regulatory control. All three of these regulatory proteins were discovered to be damaged
+or non-functional in cells that had begun to replicate uncontrollably (became cancerous). In each case, the main cause of the
+unchecked progress through the cell cycle was a faulty copy of the regulatory protein.
+Rb, p53, and p21 act primarily at the G1 checkpoint. p53 is a multi-functional protein that has a major impact on the
+commitment of a cell to

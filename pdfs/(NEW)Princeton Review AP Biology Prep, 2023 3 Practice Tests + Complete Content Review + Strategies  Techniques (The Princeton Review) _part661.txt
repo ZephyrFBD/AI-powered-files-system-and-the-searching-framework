@@ -1,0 +1,13 @@
+ed, but this is an artificial setup that doesn’t quite mimic the natural environment.
+c. Describe the brood size(s) in which 100% of the offspring survive. Identify which brood size has the highest
+percent of mortality. (2 points)
+For a brood size of 3, it shows that 3 offspring survive, so 100%. For a brood size of 5, only 3 survive. 3/5 is the
+least surviving percentage, so a brood size of 5 has the highest mortality percentage.
+d. Over many more years the number of breeding adults was measured, and it was found that over a long time the
+number of breeding adults averaged around 100. Describe how this would change information in Figure 1.
+Justify your answer. (3 points)
+It would not change Figure 1, which measures only the percentage of surviving offspring per brood size. If the
+number of surviving offspring were counted, then the information could be put on Figure 2, but just the number of
+mating adults is not enough for Figure 1 or Figure 2.
+Question 2
+a. Explain how the citric aci

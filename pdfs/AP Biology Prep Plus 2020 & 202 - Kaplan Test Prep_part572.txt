@@ -1,0 +1,19 @@
+tion
+takes place downstream of the initiation site, not upstream.
+3. C
+Learning Objective: 13.2
+Given that the extract contains all the cellular machinery necessary for
+translation of insulin except for mRNA, the insulin will only be
+produced when pancreatic mRNA (some of which will code for insulin)
+is added to the mixture. (C) is thus correct. (A) is incorrect because the
+gene for insulin cannot be transcribed and translated without mRNA.
+(B) is incorrect because the mixture already contains ribosomes and
+because mRNA is needed. (D) is incorrect because the DNA is not
+necessary; the mRNA transcripts are suﬀicient, given that all of the
+machinery for translation is already present in the mixture.
+4. B
+Learning Objective: 13.5
+The conversion of the fourth codon from UAU to UAA, changes it from a
+tyr to a stop signal. This is a nonsense mutation that will cause the
+sequence to be prematurely terminated, generating a shorter peptide
+sequence, (B). (A) is incorrect because the amino acids

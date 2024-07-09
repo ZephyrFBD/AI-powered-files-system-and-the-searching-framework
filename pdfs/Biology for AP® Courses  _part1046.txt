@@ -1,0 +1,13 @@
+pathways are extremely varied and depend on the type of cell involved as well as the external and
+internal conditions. A small sampling of responses is described below.
+Gene Expression
+Some signal transduction pathways regulate the transcription of RNA. Others regulate the translation of proteins from
+mRNA. An example of a protein that regulates translation in the nucleus is the MAP kinase ERK. ERK is activated
+in a phosphorylation cascade when epidermal growth factor (EGF) binds the EGF receptor (see Figure 9.10). Upon
+phosphorylation, ERK enters the nucleus and activates a protein kinase that, in turn, regulates protein translation (Figure
+9.14).
+Chapter 9 | Cell Communication
+383
+Figure 9.14 ERK is a MAP kinase that activates translation when it is phosphorylated. ERK phosphorylates MNK1,
+which in turn phosphorylates eIF-4E, an elongation initiation factor that, with other initiation factors, is associated with
+mRNA. When eIF-4E becomes phosphorylated, the mRNA unfolds, allowing pro

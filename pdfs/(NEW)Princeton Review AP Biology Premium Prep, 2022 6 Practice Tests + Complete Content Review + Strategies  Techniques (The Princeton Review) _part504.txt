@@ -1,0 +1,13 @@
+ related.
+Understand BLAST scoring. Most phylogenic trees are constructed by examining nucleotide sequences; the
+more identical two species’ sequences are for a specific gene, the more closely related they are. BLAST is able
+to analyze different sequences to tell you how similar they are to one another based on a score. The higher the
+score, the closer the two sequences align.
+LAB 4: DIFFUSION AND OSMOSIS
+This lab investigates the process of diffusion and osmosis in a semipermeable membrane as well as the effects of
+solute concentration and water potential on these processes.
+What are the general concepts you really need to know?
+Fortunately, this lab covers the same concepts about diffusion and osmosis that are discussed in this book. Just
+remember that osmosis is the movement of water across a semipermeable membrane, from a region of high water
+concentration to one of low water concentration, or from a hypotonic region (low solute concentration) to a
+hypertonic region (high solute co

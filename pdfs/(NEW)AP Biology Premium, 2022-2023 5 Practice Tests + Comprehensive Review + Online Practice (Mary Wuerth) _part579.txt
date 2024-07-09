@@ -1,0 +1,10 @@
+ioinformatics tools available is BLAST—Basic Local Alignment Search Tool. BLAST compares molecular data
+on DNA and amino acid sequences to a large databank of sequences at the National Institutes of Health (NIH). The
+BLAST algorithm can compare any DNA or amino acid sequence to millions of sequences in the databank in just a
+few seconds. This can give scientists valuable information about the functions of similar genes. For example, if a
+DNA sequence of a newly identified gene has a high degree of homology with a mouse gene that is involved in cell
+signaling, this could indicate that the newly identified gene may have a function in cell signaling.
+Species with a more recent common ancestor will share a greater degree of homology in their genes. Using
+BLAST to compare genes shared by different species can help scientists determine degree of relatedness and
+construct phylogenetic trees. Fewer nucleotide differences between species indicate a more recent common ancestor.
+For example, comp

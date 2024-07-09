@@ -1,0 +1,23 @@
+olecule donates a high-energy phosphate to fructose-6-phosphate, producing fructose-1,6-bisphosphate. In
+this pathway, phosphofructokinase is a rate-limiting enzyme. It is active when the concentration of ADP is high; it is less
+active when ADP levels are low and the concentration of ATP is high. Thus, if there is “sufficient” ATP in the system, the
+pathway slows down. This is a type of end product inhibition, since ATP is the end product of glucose catabolism.
+Step 4. The newly added high-energy phosphates further destabilize fructose-1,6-bisphosphate. The fourth step in glycolysis
+employs an enzyme, aldolase, to cleave fructose-1,6-bisphosphate into two three-carbon isomers: dihydroxyacetone-
+phosphate and glyceraldehyde-3-phosphate.
+Step
+5.
+In
+the
+fifth
+step,
+an
+isomerase
+transforms
+the
+dihydroxyacetone-phosphate
+into
+its
+isomer,
+glyceraldehyde-3-phosphate. Thus, the pathway will continue with two molecules of glyceraldehyde-3-phosphate. At this
+point in the pathway, there is a net 

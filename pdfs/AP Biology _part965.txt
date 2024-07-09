@@ -1,0 +1,18 @@
+.” Another good
+example of how cells communicate can be seen in neurons. An
+impulse (electrical signal) passes along an axon to the terminal
+branch of the neuron to the terminal branch at the synapse. At
+the synapse, the electrical impulse is converted to a chemical
+signal as neurotransmitter is released into the synapse. This
+chemical signal triggers a response in another neuron, a gland,
+or a muscle. This neuronal model is similar to the model
+pictured in this question in that it depends on the interaction of
+many different molecules. It also depends on the presence of
+receptors. It differs, however, because there is an electrical
+impulse in that cell communication model, whereas there is
+none in the model pictured in the question.
+Graph A shows that the expression of miR-215 is relatively low
+in cancerous breast tissue (about 0.8) but is relatively high in
+adjacent noncancerous breast tissue (about 2.3). In other words,
+when the expression of miR-215 is present in high
+concentration

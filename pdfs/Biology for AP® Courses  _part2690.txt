@@ -1,0 +1,11 @@
+her, the two
+forms represent the phytochrome system (Figure 23.38).
+The phytochrome system acts as a biological light switch. It monitors the level, intensity, duration, and color of
+environmental light. The effect of red light is reversible by immediately shining far-red light on the sample, which converts
+the chromoprotein to the inactive Pr form. Additionally, Pfr can slowly revert to Pr in the dark, or break down over time. In
+all instances, the physiological response induced by red light is reversed. The active form of phytochrome (Pfr) can directly
+activate other molecules in the cytoplasm, or it can be trafficked to the nucleus, where it directly activates or represses
+specific gene expression.
+Once the phytochrome system evolved, plants adapted it to serve a variety of needs. Unfiltered, full sunlight contains much
+more red light than far-red light. Because chlorophyll absorbs strongly in the red region of the visible spectrum, but not in
+the far-red region, any plant in the sh

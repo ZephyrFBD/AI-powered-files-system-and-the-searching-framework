@@ -1,0 +1,14 @@
+s in allele frequencies in a population. If a 
+population is not in H-W equilibrium, then something else is happening that is making 
+the allele frequencies change. 
+What factors can cause allele frequencies to change in a population? (Hint: There are 
+many.) How could you model these factors using your spreadsheet? 
+■ Designing and Conducting Your Investigation 
+By this point you’ve been able to use your model to explore how random chance affects 
+the inheritance patterns of alleles in large and small populations. Perhaps you’ve also 
+been able to find some interesting patterns in how alleles behave across generations. 
+At the end of the last section you were asked what factors can cause allele frequencies 
+to change in a population and how you would model them. Choose one of your answers, 
+and try it out using your spreadsheet. This may involve adding multiple columns or rows 
+along with a few extra operations. Keep the life cycle of your hypothetical population in 
+mind as you devel

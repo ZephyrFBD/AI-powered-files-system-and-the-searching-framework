@@ -1,0 +1,11 @@
+so that it does not slide off the DNA. RNase H removes the RNA primer, which is then replaced
+with DNA nucleotides. The Okazaki fragments in the lagging strand are joined together after the replacement of the RNA
+primers with DNA. The gaps that remain are sealed by DNA ligase, which forms the phosphodiester bond.
+Telomere Replication
+Unlike prokaryotic chromosomes, eukaryotic chromosomes are linear. As you’ve learned, the enzyme DNA pol can add
+nucleotides only in the 5' to 3' direction. In the leading strand, synthesis continues until the end of the chromosome is
+reached. On the lagging strand, DNA is synthesized in short stretches, each of which is initiated by a separate primer. When
+the replication fork reaches the end of the linear chromosome, there is no place for a primer to be made for the DNA
+fragment to be copied at the end of the chromosome. These ends thus remain unpaired, and over time these ends may get
+progressively shorter as cells continue to divide.
+The ends of the li

@@ -1,0 +1,19 @@
+ain.
+The enzyme NAD dehydrogenase or FAD dehydrogenase facilitates
+the transfer of hydrogen atoms from a substrate, such as glucose, to
+its coenzyme NAD+.
+Without NAD+ to accept protons and electrons from glycolysis and
+the Krebs cycle, both processes would cease and the cell would die.
+NAD and FAD are vitamin derivatives.
+NAD+ is the oxidized form. NADre or NADH is the reduced form.
+NADH carries 1 proton and 2 electrons.
+FAD is the oxidized form. FADre or FADH2 is the reduced form.
+AEROBIC RESPIRATION: THE ELECTRON
+TRANSPORT CHAIN
+The electron transport chain (ETC) is a proton pump in the
+mitochondria that couples two reactions, one exergonic and one
+endergonic. It uses the energy released from the exergonic flow of
+electrons to pump protons against a gradient from the matrix to the outer
+compartment. This results in the establishment of a proton gradient inside
+the mitochondrion. The electron transport chain makes no ATP directly
+but sets the stage for ATP production during chemiosmo

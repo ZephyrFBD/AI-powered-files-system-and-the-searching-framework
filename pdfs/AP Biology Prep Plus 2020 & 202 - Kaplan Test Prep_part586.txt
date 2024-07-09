@@ -1,0 +1,18 @@
+and increase
+metabolic fitness. Otherwise, cells would not be able to obtain enough
+resources to stay alive.
+GENE REGULATION AND EXPRESSION
+Regulatory systems in both prokaryotes and eukaryotes consist of genes
+that encode proteins (repressors and activators), which interact with
+DNA sequences to control gene expression via negative and positive
+control mechanisms. In negative control, genes are expressed until they
+are switched oﬀ by a repressor; in positive control, genes are expressed
+when they are turned on by an activator. Thus, repressors decrease
+14.2 Describe positive and negative gene control mechanisms
+14.3 Explain how gene regulation results in gene expression
+14.4 Explain how gene expression leads to cell specialization
+expression and activators increase expression. Inducers, which bind to
+repressors and activators, increase gene expression by disabling
+repressors and enabling activators.
+Prokaryotic cells generally control gene expression at the transcriptional
+level, whil

@@ -1,0 +1,12 @@
+e first
+chemical reaction of alcohol fermentation is the following (CO2 does not participate in the second reaction):
+pyruvic acid + H+ →CO2 + acetaldehyde + NADH + H+ →ethanol + NAD+
+Chapter 7 | Cellular Respiration
+305
+The first reaction is catalyzed by pyruvate decarboxylase, a cytoplasmic enzyme, with a coenzyme of thiamine
+pyrophosphate (TPP, derived from vitamin B1 and also called thiamine). A carboxyl group is removed from pyruvic
+acid, releasing carbon dioxide as a gas. The loss of carbon dioxide reduces the size of the molecule by one carbon,
+making acetaldehyde. The second reaction is catalyzed by alcohol dehydrogenase to oxidize NADH to NAD+ and reduce
+acetaldehyde to ethanol. The fermentation of pyruvic acid by yeast produces the ethanol. Ethanol tolerance of yeast is
+variable, ranging from about 5 percent to 21 percent, depending on the yeast strain and environmental conditions.
+Figure 7.16 Fermentation of grape juice produces CO2 as a byproduct. Fermentation tanks have va

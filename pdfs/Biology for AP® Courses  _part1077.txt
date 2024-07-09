@@ -1,0 +1,10 @@
+stimulated by external signals called growth factors. Uncontrolled
+cell growth leads to cancer, and mutations in the genes encoding protein components of signaling pathways are often
+found in tumor cells. Programmed cell death, or apoptosis, is important for removing damaged or unnecessary cells. The
+use of cellular signaling to organize the dismantling of a cell ensures that harmful molecules from the cytoplasm are not
+released into the spaces between cells, as they are in uncontrolled death, necrosis. Apoptosis also ensures the efficient
+recycling of the components of the dead cell. Termination of the cellular signaling cascade is very important so that the
+response to a signal is appropriate in both timing and intensity. Degradation of signaling molecules and dephosphorylation
+of phosphorylated intermediates of the pathway by phosphatases are two ways to terminate signals within the cell.
+9.4 Signaling in Single-Celled Organisms
+Yeasts and multicellular organisms have similar signal

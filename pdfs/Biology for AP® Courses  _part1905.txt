@@ -1,0 +1,12 @@
+between chains whereas deep
+sequencing is suitable when there is one or more than one nucleotide different between chains.
+d.
+Sanger sequencing reads and sequences a genome multiple times whereas deep sequencing accurately
+sequences the whole genome in a single time.
+Uses of Genome Sequences
+DNA microarrays are methods used to detect gene expression by analyzing an array of DNA fragments that are fixed to a
+glass slide or a silicon chip to identify active genes and identify sequences. Almost one million genotypic abnormalities can
+be discovered using microarrays, whereas whole-genome sequencing can provide information about all six billion base pairs
+in the human genome. Although the study of medical applications of genome sequencing is interesting, this discipline tends
+to dwell on abnormal gene function. Knowledge of the entire genome will allow future onset diseases and other genetic
+disorders to be discovered early, which will allow for more informed decisions to be made about life

@@ -1,0 +1,11 @@
+k is available for free at http://cnx.org/content/col12078/1.6
+Figure 27.14 In the human ear, sound waves cause the stapes to press against the oval window. Vibrations travel
+up the fluid-filled interior of the cochlea. The basilar membrane that lines the cochlea gets continuously thinner
+toward the apex of the cochlea. Different thicknesses of membrane vibrate in response to different frequencies
+of sound. Sound waves then exit through the round window. In the cross section of the cochlea (top right figure),
+note that in addition to the upper canal and lower canal, the cochlea also has a middle canal. The organ of Corti
+(bottom image) is the site of sound transduction. Movement of stereocilia on hair cells results in an action potential
+that travels along the auditory nerve.
+Cochlear implants can restore hearing in people who have a nonfunctional cochlea. The implant consists of
+a microphone that picks up sound. A speech processor selects sounds in the range of human speech, and
+a tra

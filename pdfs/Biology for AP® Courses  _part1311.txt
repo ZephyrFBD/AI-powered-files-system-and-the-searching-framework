@@ -1,0 +1,12 @@
+
+Several conventions exist for referring to genes and alleles. For the purposes of this chapter, we will abbreviate genes
+using the first letter of the gene’s corresponding dominant trait. For example, violet is the dominant trait for a pea
+plant’s flower color, so the flower-color gene would be abbreviated as V (note that it is customary to italicize gene
+designations). Furthermore, we will use uppercase and lowercase letters to represent dominant and recessive alleles,
+respectively. Therefore, we would refer to the genotype of a homozygous dominant pea plant with violet flowers as VV, a
+homozygous recessive pea plant with white flowers as vv, and a heterozygous pea plant with violet flowers as Vv.
+The Punnett Square Approach for a Monohybrid Cross
+When fertilization occurs between two true-breeding parents that differ in only one characteristic, the process is called a
+Chapter 12 | Mendel's Experiments and Heredity
+479
+monohybrid cross, and the resulting offspring are monohybrids. Me

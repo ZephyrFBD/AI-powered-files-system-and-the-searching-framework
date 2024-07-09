@@ -1,0 +1,13 @@
+5][APLO 2.18][APLO 2.22]
+You have just read about two pathways Introduce glucose catabolism—glycolysis and the citric acid cycle—that generate
+ATP. Most of the ATP generated during the aerobic catabolism of glucose, however, is not generated directly from these
+296
+Chapter 7 | Cellular Respiration
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+pathways. Rather, it is derived from a process that begins with moving electrons through a series of electron transporters
+that undergo redox reactions. This causes hydrogen ions to accumulate within the matrix space. Therefore, a concentration
+gradient forms in which hydrogen ions diffuse out of the matrix space by passing through ATP synthase. The current of
+hydrogen ions powers the catalytic action of ATP synthase, which phosphorylates ADP, producing ATP.
+Electron Transport Chain
+The electron transport chain (Figure 7.11) is the last component of aerobic respiration and is the only part of glucose
+metabolism th

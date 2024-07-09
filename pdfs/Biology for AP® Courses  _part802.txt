@@ -1,0 +1,14 @@
+ote that the second phosphate group does not
+require another ATP molecule.
+288
+Chapter 7 | Cellular Respiration
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Figure 7.7 The second half of glycolysis involves phosphorylation without ATP investment (step 6) and produces two
+NADH and four ATP molecules per glucose.
+Here again is a potential limiting factor for this pathway. The continuation of the reaction depends upon the availability of
+the oxidized form of the electron carrier, NAD+. Thus, NADH must be continuously oxidized back into NAD+ in order to
+keep this step going. If NAD+ is not available, the second half of glycolysis slows down or stops. If oxygen is available in
+the system, the NADH will be oxidized readily, though indirectly, and the high-energy electrons from the hydrogen released
+in this process will be used to produce ATP. In an environment without oxygen, an alternate pathway (fermentation) can
+provide the oxidation of NADH to NAD+.
+Ste

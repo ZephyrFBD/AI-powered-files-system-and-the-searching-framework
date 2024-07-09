@@ -1,0 +1,62 @@
+Effect on
+pathway
+activity
+glycolysis
+hexokinase
+glucose-6-phosphate
+decrease
+phosphofructokinase
+low-energy charge (ATP, AMP),
+fructose-6-phosphate via
+fructose-2,6-bisphosphate
+increase
+high-energy charge (ATP, AMP), citrate, acidic
+pH
+decrease
+pyruvate kinase
+fructose-1,6-bisphosphate
+increase
+high-energy charge (ATP, AMP), alanine
+decrease
+pyruvate to acetyl
+CoA conversion
+pyruvate
+dehydrogenase
+ADP, pyruvate
+increase
+acetyl CoA, ATP, NADH
+decrease
+citric acid cycle
+isocitrate
+dehydrogenase
+ADP
+increase
+ATP, NADH
+decrease
+Table 7.1
+314
+Chapter 7 | Cellular Respiration
+This OpenStax book is available for free at http://cnx.org/content/col12078/1.6
+Summary of Feedback Controls in Cellular Respiration
+Pathway
+Enzyme
+affected
+Elevated levels of effector
+Effect on
+pathway
+activity
+α-ketoglutarate
+dehydrogenase
+Calcium ions, ADP
+increase
+ATP, NADH, succinyl CoA
+decrease
+electron transport
+chain
+ADP
+increase
+ATP
+decrease
+Table 7.1
+Think About It
+Phosphofructokinase is a key enzyme in glyc

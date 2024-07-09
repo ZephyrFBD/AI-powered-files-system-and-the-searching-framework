@@ -1,0 +1,36 @@
+for wild-type wings, and  
+the allele for white eyes is recessive to the allele 
+for red eyes. The gene controlling wing type  
+is carried on an autosome, whereas the gene 
+controlling eye color is carried on the 
+X chromosome. 
+A true-breeding female with wild-type wings and 
+white eyes is crossed with a male with vestigial 
+wings and red eyes. What proportion of the 
+offspring are expected to be males with wild-type 
+wings and white eyes? Give your answer as  
+a fraction or a decimal value from 0 to 1. 
+123. ABO blood type in humans is determined by 
+three alleles of a single gene: IA, IB, and i. The IA 
+and IB alleles are codominant, and both alleles are 
+completely dominant to the i allele. 
+Shown in the table are the approximate genotype 
+frequencies of ABO blood types for a large 
+human population. 
+Phenotype
+Genotype
+Frequency
+Type A 
+IAIA or IAi 
+0.41 
+Type B 
+IBIB or IBi 
+0.10 
+Type AB 
+IAIB 
+0.04 
+Type O 
+i i
+0.45 
+The Hardy-Weinberg principle can be applied  
+to a genetic lo

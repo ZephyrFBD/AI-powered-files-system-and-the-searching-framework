@@ -1,0 +1,11 @@
+l including DNA analysis, has blossomed. New computer programs not only confirm many earlier
+classified organisms, but also uncover previously made errors. As with physical characteristics, even the DNA sequence can
+be tricky to read in some cases. For some situations, two very closely related organisms can appear unrelated if a mutation
+Chapter 20 | Phylogenies and the History of Life
+819
+occurred that caused a shift in the genetic code. An insertion or deletion mutation would move each nucleotide base over
+one place, causing two similar codes to appear unrelated.
+Sometimes two segments of DNA code in distantly related organisms randomly share a high percentage of bases in
+the same locations, causing these organisms to appear closely related when they are not. For both of these situations,
+computer technologies have been developed to help identify the actual relationships, and, ultimately, the coupled use of
+both morphologic and molecular information is more effective in determining p

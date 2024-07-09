@@ -1,0 +1,42 @@
+types with high (H), intermediate (I),
+and low (L) melanosome production. Use the second grid
+to represent an F2 generation from the offspring of the first
+cross. Use annotation to show the phenotype.
+F1
+m
+m
++
++
+Table 12.6
+F2
+Table 12.7
+B. Draw sister chromatids at anaphase II for both parents
+in the F1 generation and annotate your drawing to identify
+each genotype of the gametes using the cells of the Punnett
+square.
+C. Explain which of Mendel’s laws is violated by
+codominance.
+D. Suppose that these data were available to evaluate the
+claim that the wild-type and mutant forms of SLC24A5 are
+codominant:
+F2
+Phenotype
+Observed
+Expected
+H
+1206
+I
+2238
+L
+1124
+Table 12.8
+Complete the table. Explain the values expected in terms
+of the genotype of the offspring.
+E. Using a c2 statistic at the 95% confidence level,
+evaluate the claim that the wild-type and mutant forms of
+SCLO24A5 are codominant. The definition of the statistic
+Χc
+2 = ∑(Oi −Ei)2
+Ei
+where X is the chi-square test
+statistic, c is

@@ -1,0 +1,11 @@
+nity for its substrate, with the effect of increasing or decreasing the
+rate of the reaction. The attachment signals to the enzyme. This binding can increase or decrease the enzyme’s activity,
+providing feedback. This feedback type of control is effective as long as the chemical affecting it is attached to the enzyme.
+Once the overall concentration of the chemical decreases, it will diffuse away from the protein, and the control is relaxed.
+Control of Catabolic Pathways
+Enzymes, proteins, electron carriers, and pumps that play roles in glycolysis, the citric acid cycle, and the electron transport
+chain tend to catalyze non-reversible reactions. In other words, if the initial reaction takes place, the pathway is committed
+to proceeding with the remaining reactions. Whether a particular enzyme activity is released depends upon the energy needs
+of the cell (as reflected by the levels of ATP, ADP, and AMP).
+Glycolysis
+The control of glycolysis begins with the first enzyme in the pathway, h

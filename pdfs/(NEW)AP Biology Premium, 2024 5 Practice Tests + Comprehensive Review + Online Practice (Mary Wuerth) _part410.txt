@@ -1,0 +1,10 @@
+piece of DNA called a plasmid, may integrate into the host cell’s chromosome or remain separate from the host cell
+DNA in the cell’s cytoplasm. One method of transforming bacteria involves heat shock, in which bacterial cells are
+mixed with foreign DNA and then quickly exposed to a cold-hot-cold temperature transition. This heat shock creates
+temporary microscopic pores through which the foreign DNA can enter some of the bacterial cells.
+The foreign plasmid DNA needs a selectable marker so that cells that have incorporated the plasmid DNA can be
+detected. The selectable marker is usually an antibiotic resistance gene that is not present in nontransformed
+bacterial cells. By growing the transformed bacteria on an agar plate that contains the antibiotic, one can select for
+the bacteria that absorbed and are now expressing the genes from the plasmid.
+If the plasmid contains a gene from another organism, it is called recombinant DNA. Recombinant DNA is
+simply DNA that has been recombined f

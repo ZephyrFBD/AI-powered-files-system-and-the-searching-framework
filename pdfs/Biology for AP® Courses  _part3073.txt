@@ -1,0 +1,11 @@
+en multiple presynaptic inputs must create EPSPs around the same time for the postsynaptic
+neuron to be sufficiently depolarized to fire an action potential. This process is called summation and occurs at the axon
+hillock, as illustrated in Figure 26.16. Additionally, one neuron often has inputs from many presynaptic neurons—some
+excitatory and some inhibitory—so IPSPs can cancel out EPSPs and vice versa. It is the net change in postsynaptic
+membrane voltage that determines whether the postsynaptic cell has reached its threshold of excitation needed to fire an
+action potential. Together, synaptic summation and the threshold for excitation act as a filter so that random “noise” in the
+system is not transmitted as important information.
+Chapter 26 | The Nervous System
+1125
+Figure 26.16 A single neuron can receive both excitatory and inhibitory inputs from multiple neurons, resulting in local
+membrane depolarization (EPSP input) and hyperpolarization (IPSP input). All these inputs are add

@@ -1,0 +1,10 @@
+of every individual will give rise to a unique pattern of bands when cut with a particular
+set of restriction endonucleases; this is sometimes referred to as an individual’s DNA “fingerprint.” Certain regions of
+the chromosome that are subject to polymorphism will lead to the generation of the unique banding pattern. VNTRs
+are repeated sets of nucleotides present in the non-coding regions of DNA. Non-coding, or “junk,” DNA has no known
+biological function; however, research shows that much of this DNA is actually transcribed. While its function is uncertain,
+it is certainly active, and it may be involved in the regulation of coding genes. The number of repeats may vary in individual
+organisms of a population. Microsatellite polymorphisms are similar to VNTRs, but the repeat unit is very small. SNPs are
+variations in a single nucleotide.
+Because genetic maps rely completely on the natural process of recombination, mapping is affected by natural increases
+or decreases in the level of rec

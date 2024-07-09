@@ -1,0 +1,13 @@
+trons to the electron transport chain, the resulting
+NAD+ and FADH can be recycled to be used as carriers again, and the hydrogen atoms are split into hydrogen ions
+and electrons.
+H2 → 2H+ + 2e–
+The electron transport chain here is similar to that seen in photosynthesis.
+They differ in their final electron acceptors: NADP+ and O2.
+Then, two interesting things occur. First, the high-energy electrons from NADH and FADH2 are passed down a
+series of protein carrier molecules that are embedded in the cristae; thus, it is called the electron transport chain.
+Some of the carrier molecules in the electron transport chain are NADH dehydrogenase and cytochrome C.
+Oxygen is required as the final stop in the electron transport chain.
+Each carrier molecule hands down the electrons to the next molecule in the chain. The electrons travel down the
+electron transport chain until they reach the final electron acceptor, oxygen. Oxygen combines with these electrons
+(and some hydrogens) to form water. This

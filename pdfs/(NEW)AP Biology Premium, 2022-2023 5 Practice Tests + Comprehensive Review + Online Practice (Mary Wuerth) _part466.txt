@@ -1,0 +1,12 @@
+ seal population experienced a population bottleneck during the 1800s. By the 1890s,
+hunting had reduced the number of northern elephant seals to less than 30 individuals. Protection of this species in
+the 20th century resulted in an increase in their numbers, but they are not as diverse as the southern elephant seals,
+which were not subjected to intense hunting in the 1800s.
+Founder Effect
+Another cause of genetic drift is the founder effect. The founder effect occurs when a few members of a larger
+population start a new population. These few members of the larger population often have less genetic diversity
+compared to the larger population or may be a nonrandom sample of the larger population. A model of the founder
+effect is shown in Figure 20.2.
+Figure 20.2 Model of the Founder Effect
+In Figure 20.2, there are two different alleles present (represented by black circles and white squares) in roughly
+equal frequencies in the original population. Only individuals who possess the alle

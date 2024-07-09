@@ -1,0 +1,18 @@
+
+Density is the number of individuals per unit area or volume. Counting the
+number of organisms inhabiting a certain area is often very difficult, if not
+impossible. For example, imagine trying to count the number of ants in 1
+acre (0.5 ha) of land. Instead, scientists use sampling techniques to
+estimate the number of organisms living in one area. One sampling
+technique commonly used to estimate the size of a population is called
+mark and recapture. In this technique, organisms are captured, tagged,
+and then released. Some time later, the same process is repeated and the
+following formula is used for the collected data,
+N=(number marked in first catch)•(total number in second
+catch)number of recaptures in second catch
+Suppose 50 zebra mussels are captured, marked, and released. One
+week later, 100 zebra mussels are captured and 10 are found to have
+markings already. When using the formula, the total population would be
+about 500 zebra mussels.
+3. Dispersion
+Dispersion is the pattern of

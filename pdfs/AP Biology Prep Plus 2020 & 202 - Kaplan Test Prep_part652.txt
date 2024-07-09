@@ -1,0 +1,38 @@
+on.” PLoS Genet 9(5)(2013):
+e1003525.
+20
+(A)
+48
+(B)
+72
+(C)
+120
+(D)
+8. There has been considerable interest in understanding the
+behavior of cancer cells to improve treatments. One abnormality
+that has been detected in certain types of cancer is activation of X
+chromosomes that are normally inactive as Barr bodies. The table
+below shows characteristics of diﬀerent cancer cell lines. “XIST”
+refers to “X-inactive specific transcript,” which is important in X
+chromosome inactivation. “Xi” refers to an inactive X
+chromosome and “Xa” refers to an active X chromosome.
+*HMEC represents normal human epithelial mammary cells, used as a control.
+Adapted from Sirchia SM, Tabano S, Monti L, Recalcati MP, Gariboldi M, Grati FR, et al. (2009)
+Misbehaviour of XIST RNA in Breast Cancer Cells. PLoS ONE 4(5): e5559.
+Cell Line
+XIST Expression
+X Chromosome Status
+HMEC*
+positive
+normal Xs
+Hs578t
+negative
+loss Xi + gain Xa
+MDA MB 231
+negative
+loss Xi + gain Xa
+T47D
+negative
+loss Xi + gain Xa
+HCC 2185
+negativ

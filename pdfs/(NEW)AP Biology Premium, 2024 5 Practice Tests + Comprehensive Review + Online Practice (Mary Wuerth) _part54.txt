@@ -1,0 +1,35 @@
+s in four different locations were measured. The mean height and the standard error of the
+means were calculated for each location and are shown in the table.
+Location
+Mean Height of Oak Trees (m)
+Standard Error of the Mean
+Oakville
+20.1
+2.5
+Sacramento
+16.4
+1.6
+San Rafael
+28.7
+4.3
+Oak Valley
+34.1
+2.0
+8. Which location showed the greatest variability in the heights of the oak trees?
+(A) Oakville
+(B) Sacramento
+(C) San Rafael
+(D) Oak Valley
+9. Which of the following two locations are likely to have a statistically significant difference between the heights
+of their oak trees?
+(A) Oakville and Sacramento
+(B) Oakville and Oak Valley
+(C) San Rafael and Oak Valley
+(D) San Rafael and Oakville
+10. Which of the following correctly describes how to calculate a 95% confidence interval?
+(A) Mean ± 1(Standard Deviation)
+(B) Mean ± 1(Standard Error of the Mean)
+(C) Mean ± 2(Standard Deviation)
+(D) Mean ± 2(Standard Error of the Mean)
+Short Free-Response
+11. Some chemicals are known to increase the f

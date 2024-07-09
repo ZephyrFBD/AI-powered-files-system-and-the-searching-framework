@@ -1,0 +1,11 @@
+s and results that are so
+different that they must tell a different story altogether?
+Chi-square tests are one way to make this decision. They start with a null hypothesis (H0), which represents a set
+numerical outcome that you want to compare your data with. The chi-square test will determine if your actual data is
+close to the null hypothesis outcome and could have occurred due to a fluke (i.e., rolling a six 24 times) or if it is so
+different that it is probably not a fluke (i.e., 40 rolled sixes) and the null hypothesis outcome must not correctly
+describe what is occurring. In the dice case, rolling a six 40 times would cause the null hypothesis of expecting a
+1:1:1:1:1:1 to be rejected and the die can be considered to be weighted. In the calculations, expected results if the
+null hypothesis were true are compared to the actual values, and an χ2 value is calculated. This value is compared to
+a critical value, and a decision is made to reject or accept the null hypothesis.
+For examp

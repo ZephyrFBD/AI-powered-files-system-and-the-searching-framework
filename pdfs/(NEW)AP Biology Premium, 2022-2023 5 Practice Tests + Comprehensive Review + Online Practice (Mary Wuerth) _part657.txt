@@ -1,0 +1,11 @@
+y plots the means, it does not correctly plot the 95% confidence intervals. Also, it is a line
+graph, which is inappropriate for categorical data, such as the data in this question. Choice (D) plots the means
+and confidence intervals correctly, but it is a line graph, which is inappropriate for the categorical data given in
+the question, so it is incorrect.
+4. (D) The 95% confidence intervals of rubbing alcohol and olive oil do overlap, so these two liquids are the least
+likely to have a statistically significant difference. Choice (A) is incorrect because the confidence intervals for
+water and rubbing alcohol do not overlap. Since the confidence intervals for water and olive oil do not overlap,
+they are more likely to have a statistically significant difference, so choice (B) is incorrect. Similarly, the
+confidence intervals for water and rubbing alcohol do not overlap, so they also are likely to have a statistically
+significant difference, making choice (C) incorrect as well.
+5. (A) 

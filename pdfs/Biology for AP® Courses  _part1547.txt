@@ -1,0 +1,11 @@
+construct an explanation of the multiple processes that increase
+variation within a population.
+DNA replication is a highly accurate process, but mistakes can occasionally occur, such as a DNA polymerase inserting a
+wrong base. Uncorrected mistakes may sometimes lead to serious consequences, such as cancer. Repair mechanisms correct
+the mistakes. In rare cases, mistakes are not corrected, leading to mutations; in other cases, repair enzymes are themselves
+mutated or defective.
+Most of the mistakes during DNA replication are promptly corrected by DNA polymerase by proofreading the base that has
+been just added (Figure 14.17). In proofreading, the DNA pol reads the newly added base before adding the next one, so
+a correction can be made. The polymerase checks whether the newly added base has paired correctly with the base in the
+template strand. If it is the right base, the next nucleotide is added. If an incorrect base has been added, the enzyme makes a
+cut at the phosphodiester bond an

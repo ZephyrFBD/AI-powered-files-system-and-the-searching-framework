@@ -1,0 +1,14 @@
+n sequences were used, the sequences might show more similarity because there is more than one codon
+for some amino acids. This means that the nucleotide sequence might vary, but the amino acid sequence would be the
+same. These are called silent mutations.
+Question 6
+(a) Identify which color moth was the most plentiful between 1969 and 1995?
+Although the two moth colors take turns being the most plentiful, most of the years showed the beige colored
+moth being the most plentiful.
+(b) Explain why the lines of the graph never exceed 100?
+The graph is showing the percentages of moths of each color. 100% would represent the entire population of
+moths. It cannot be higher than 100%. The two colors of moths should always add up to 100% since they are the only
+possible colors of moth.
+(c) Predict during which years there was a drought?
+There was likely a drought from approximately 1976–1988. The beginning of the drought seemed to happen
+quickly in 1976 when the green moths disappeared and the 

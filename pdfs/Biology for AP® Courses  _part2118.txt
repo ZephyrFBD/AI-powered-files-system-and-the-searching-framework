@@ -1,0 +1,9 @@
+ad to significant changes in the genome of a population.
+Hardy–Weinberg equilibrium reflects a state of constancy in a population’s gene pool. In other words, allele frequencies
+remain stable from generation to generation if certain conditions are met: no mutations, no gene flow, random mating,
+no genetic drift, and no selection. Because these conditions are rarely met, allele frequencies are typically changing,
+reflecting evolution. The Hardy–Weinberg principle is represented by the mathematical equation p2 + 2pq + q2 = 1,
+where p represents the frequency of the dominant allele and q represents the frequency of the recessive allele. Deviations
+from Hardy–Weinberg equilibrium allow us to measure microevolutionary shifts in a population when one or more of the
+Hardy–Weinberg parameters change. For example, if we go back to the study of the frequencies of alleles in a pesticide
+resistance gene, after an area was treated with pesticides for two years, the resistance alleles increased to 1

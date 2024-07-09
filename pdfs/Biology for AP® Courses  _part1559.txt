@@ -1,0 +1,12 @@
+istinguished by staining, reflecting different states
+of packaging and compaction.
+14.3 Basics of DNA Replication
+The model for DNA replication suggests that the two strands of the double helix separate during replication, and each
+strand serves as a template from which the new complementary strand is copied. In conservative replication, the parental
+DNA is conserved, and the daughter DNA is newly synthesized. The semi-conservative method suggests that each of the
+two parental DNA strands acts as template for new DNA to be synthesized; after replication, each double-stranded DNA
+includes one parental or “old” strand and one “new” strand. The dispersive mode suggested that the two copies of the
+DNA would have segments of parental DNA and newly synthesized DNA.
+14.4 DNA Replication in Prokaryotes
+Replication in prokaryotes starts from a sequence found on the chromosome called the origin of replication—the point at
+which the DNA opens up. Helicase opens up the DNA double helix, resulting 

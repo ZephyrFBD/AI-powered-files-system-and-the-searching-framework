@@ -1,0 +1,17 @@
+ane receptors characterized by having enzymatic activity.
+The RTK spans the entire membrane and the part of the receptor
+that extends into the cytoplasm functions as a tyrosine kinase, an
+******ebook converter DEMO Watermarks*******
+enzyme that catalyzes the transfer of phosphate groups from ATP
+to the amino acid tyrosine. Before the ligand binds, the receptors
+exist as individual units. After binding, the individual units
+aggregate and activate the tyrosine kinase region, which bonds to
+ATP. Once fully activated, the receptor activates specific relay
+proteins that each lead to a cellular response. See Figure 3.24.
+Figure 3.24 Receptor Tyrosine Kinase
+WHEN THE RECEPTORS ARE LOCATED INSIDE THE
+CELL
+Small, nonpolar ligands diffuse directly through the plasma membrane and
+bind to an intracellular receptor in the cytoplasm. Such hydrophobic
+chemical messengers include steroids, thyroid hormones, and NO, nitric
+oxide, a gas, that readily diffuse into the cell and switch a gene on or off in

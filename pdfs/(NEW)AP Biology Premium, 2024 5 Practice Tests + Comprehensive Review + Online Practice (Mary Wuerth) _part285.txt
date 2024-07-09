@@ -1,0 +1,13 @@
+ee genes on the genetic map from part (a).
+(c) A new gene, D, is discovered on the same chromosome. A and D have a recombination frequency of 10%.
+B and D have a recombination frequency of 35%. On your genetic map from part (a), draw an additional
+line to represent the relative location of gene D on the chromosome.
+(d) A different chromosome in the organism has genes, M, N, O, and P. One copy has the alleles MNOP. The
+other copy of the chromosome has the alleles mnop. If genetic recombination occurred between genes N
+and O, explain the two possible gametes that would be produced by this crossing-over event.
+12. An organism has a diploid number of six chromosomes.
+(a) Determine the number of chromosomes in each of the four cells that would be produced upon the
+completion of meiosis II.
+(b) Based on your answer to part (a), explain why the cells would each have that number of chromosomes at
+the end of meiosis II.
+(c) A nondisjunction event occurred during anaphase II. Predict the number 

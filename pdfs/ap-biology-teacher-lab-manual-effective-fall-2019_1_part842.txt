@@ -1,0 +1,15 @@
+a 
+progress or time-course curve. In contrast, a rate curve is a picture of the steepness of 
+one or more progress curves, and any graph that has rate on one of its scales is a rate 
+curve. 
+So far we have been considering only rate graphs that have time on the abscissa; we 
+could call these time-rate curves. As we have seen, a time-rate curve can be made from 
+any progress curve. Next, we are going to consider rate curves that do not have time 
+as the abscissa. As you shall see, such curves are made by combining data from several 
+progress curves, each representing the time course of the reaction under a different set of 
+conditions. 
+■ OTHER KINDS OF RATE GRAPHS 
+Let us look at and try to analyze the graph in Figure A.18. Obviously, it is a progress 
+curve because it shows an amount of something on the ordinate and time on the 
+abscissa. There are several different curves all plotted on the same graph, and each is 
+labeled with a different temperature. The title indicates that this g

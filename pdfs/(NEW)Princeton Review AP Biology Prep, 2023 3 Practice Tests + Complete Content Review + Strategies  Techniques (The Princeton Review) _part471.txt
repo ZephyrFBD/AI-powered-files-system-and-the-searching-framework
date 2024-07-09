@@ -1,0 +1,11 @@
+n. A low standard deviation means the data points are all
+similar and close to the mean, while a high standard deviation means the data are more spread out. Here is the
+relationship between a normal distribution and standard deviation (SD).
+This means that about 70 percent of the data is within one standard deviation of the mean in a normally distributed
+dataset. Standard error (SE) can also be used to report how much a given dataset varies and is calculated by
+dividing the standard deviation by the square root of the sample size.
+Nonparametric Data
+Nonparametric data often includes large outliers and do not fit a normal distribution. In order to determine if data
+is parametric or not, you can construct a histogram, or frequency diagram. These graphs give information on the
+spread of the data and the central tendencies. Making a histogram is like setting up bins, or intervals with the same
+range, that cover the entire dataset (the x-axis). The measurements in each bin are graphed on th

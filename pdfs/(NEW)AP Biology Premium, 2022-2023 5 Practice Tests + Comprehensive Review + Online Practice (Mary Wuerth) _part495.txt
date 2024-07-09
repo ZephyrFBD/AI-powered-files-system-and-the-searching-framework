@@ -1,0 +1,12 @@
+hylogenetic tree and represent the
+outgroup in this example.
+Phylogenetic trees and cladograms can also show speciation events (the evolution of new species) and extinction
+events (the death of all members of a species), as shown in Figure 21.2.
+Figure 21.2 Phylogenetic Tree Showing Speciation and Extinction Events
+In Figure 21.2, points 1, 2, 3, 4, and 5 represent speciation events that led to one ancestral lineage giving rise to
+two or more daughter lineages. Species B and D represent extinct species that did not survive to the present time,
+while A, C, E, and F represent extant species that have members that survived to the present time.
+Organisms are linked by lines of descent, with a proposed common ancestor for all forms of life on Earth (LUCA
+—last universal common ancestor) estimated to have existed about 3.5 billion years ago. There are two major
+theories about how life on Earth originated:
+1. Inorganic materials that were present in Earth’s early atmosphere combined to make t

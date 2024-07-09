@@ -1,0 +1,12 @@
+G1, S, G2.
+The most important phase is the S phase. That’s when the cell replicates its genetic material. The first thing a cell
+has to do before undergoing mitosis is to duplicate all of its chromosomes, which contain the organism’s DNA
+“blueprint.” During interphase, every single chromosome in the nucleus is duplicated.
+You’ll notice that the original chromosome and its duplicate are still linked, like conjoined twins. These identical
+strands of DNA are now called sister chromatids. The chromatids are held together by a structure called the
+centromere. You can think of each chromatid as a chromosome, but because they remain attached, they are called
+chromatids instead. To be called a chromosome, each needs to have its own centromere. Once the chromatids
+separate, they will be full-fledged chromosomes.
+Cell Cycle Regulation
+We’ve already said that replication occurs during the S phase of interphase, so what happens during G1 and G2?
+During these stages, the cell performs metabolic rea

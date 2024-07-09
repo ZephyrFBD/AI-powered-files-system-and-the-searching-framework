@@ -1,0 +1,10 @@
+become activated to proliferate according to clonal selection. These resulting CTLs
+then identify non-APCs displaying the same MHC I-embedded antigens (for example, viral proteins)—for example, the
+CTLs identify infected host cells.
+Intracellularly, infected cells typically die after the infecting pathogen replicates to a sufficient concentration and lyses the
+cell, as many viruses do. CTLs attempt to identify and destroy infected cells before the pathogen can replicate and escape,
+thereby halting the progression of intracellular infections. CTLs also support NK lymphocytes to destroy early cancers.
+Cytokines secreted by the TH1 response that stimulates macrophages also stimulate CTLs and enhance their ability to
+identify and destroy infected cells and tumors.
+CTLs sense MHC I-embedded antigens by directly interacting with infected cells via their TCRs. Binding of TCRs with
+antigens activates CTLs to release perforin and granzyme, degradative enzymes that will induce apoptosis of the i

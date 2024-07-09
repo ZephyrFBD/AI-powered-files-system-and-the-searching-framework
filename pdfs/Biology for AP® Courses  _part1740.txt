@@ -1,0 +1,10 @@
+x book is available for free at http://cnx.org/content/col12078/1.6
+when and how its genes are expressed. For this to occur, there must be a mechanism to control when a gene is expressed to
+make RNA and protein, how much of the protein is made, and when it is time to stop making that protein because it is no
+longer needed.
+Although genetic differences between species and between individuals within a species are often responsible for phenotypic
+differences, another mechanism that can create phenotypic differences is differences in gene expression. For example,
+although every cell in an organism contains the same genes, the bone cells in the organism appears different from the
+fat cells due to differences in which genes are expressed by which cell. Similarly, although mice and humans share
+approximately 97.5% of their genes, they are very different organisms because different genes are turned on at different
+times during development and in different cells. Even organisms that share 100% 

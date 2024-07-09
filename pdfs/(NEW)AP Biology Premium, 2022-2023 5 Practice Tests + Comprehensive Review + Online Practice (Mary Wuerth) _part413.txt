@@ -1,0 +1,12 @@
+te. Shorter fragments will be able to travel more quickly through these pores; longer fragments will take more
+time. This leads to shorter fragments being found at the bottom of the gel, farthest from the well into which the DNA
+sample was loaded; longer fragments will be closer to the top of the gel. The addition of a DNA marker with
+fragments of known lengths runs alongside the other DNA samples, providing a “ruler” by which to estimate the
+size of each fragment produced. Each organism’s pattern of fragments on the gel will be different and can be used to
+create a unique DNA fingerprint.
+Polymerase Chain Reaction (PCR)
+Polymerase chain reaction (PCR) is used to amplify specific DNA fragments. PCR can be used to create millions
+of copies of a specific fragment of DNA. PCR involves cycles of DNA replication using primers that are specific to
+the beginning and end of the fragment of the DNA sequence that is to be amplified. Each cycle of PCR consists of
+three stages:
+1. Denaturing the D

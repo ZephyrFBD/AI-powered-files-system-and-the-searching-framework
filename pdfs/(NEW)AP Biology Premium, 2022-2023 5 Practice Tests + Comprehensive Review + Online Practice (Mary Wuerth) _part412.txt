@@ -1,0 +1,11 @@
+ a DNA sample with restriction enzymes, which cut DNA at specific base pair sequences.
+Due to the redundancy of the genetic code, even organisms with the same protein sequences will have slightly
+different DNA sequences. Treatment of DNA with restriction enzymes will cut these different DNA sequences at
+different locations and result in different fragment sizes.
+The backbone of the DNA double helix consists of five-carbon deoxyribose sugars and phosphate groups. The
+phosphate groups have a slight negative charge. DNA samples are loaded into wells at the top of the gel, and an
+electric current is applied to the gel. A positive cathode is attached to the bottom of the gel and the negative anode to
+the top of the gel. DNA molecules have an overall negative charge (due to their abundance of the phosphate groups),
+causing them to migrate toward the bottom (positive end) of the gel.
+The gel itself is usually made of agarose and contains microscopic pores through which the DNA fragments
+migra

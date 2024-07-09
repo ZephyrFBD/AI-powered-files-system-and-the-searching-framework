@@ -1,0 +1,20 @@
+type 
+in labels in your other cells and, if you wish, shade the cells as well. This blue area will 
+represent the gene pool for your model. (Highlight the area you wish to format with 
+color, and right-click with your mouse in Excel to format.) This is a spreadsheet, so you 
+can enter the value for the frequency of the B allele; however, when making a model it is 
+best to have the spreadsheet do as many of the calculations as possible. All of the alleles 
+in the gene pool are either A or B; therefore p + q = 1 and 1 - p = q. In cell D3, enter the 
+formula to calculate the value of q. 
+In spreadsheet lingo it is 
+=1-D2 
+Investigation 2 S31 
+  
+  
+Your spreadsheet now should look something like Figure 2. 
+Figure 2 
+Let’s explore how one important spreadsheet function works before we incorporate it 
+into our model. In a nearby empty cell, enter the function (we will remove it later). 
+=Rand() 
+Note that the parentheses have nothing between them. After hitting return, what do 
+you find in 

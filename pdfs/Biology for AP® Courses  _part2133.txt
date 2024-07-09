@@ -1,0 +1,19 @@
+evolution. You suspect there is
+selection pressure on the color of the flower because bees seem to cluster around red flowers more often than blue
+flowers. In a separate experiment, you discover that blue flower color is dominant to red flower color. In a field, you
+count 600 blue flowers and 200 red flowers. Based on the H-W equation, what are the expected allele frequencies for
+flower color?
+Two years later, you revisit the same field and discover that out of 1,000 flowers, 650 are blue. Use the H–W equation
+to determine if the population of flowers is undergoing evolution.
+Chapter 19 | The Evolution of Populations
+773
+19.2 | Population Genetics
+In this section, you will explore the following questions:
+•
+What are the different types of variation in a population?
+•
+Why can only heritable variation be acted upon by natural selection?
+•
+How can genetic drift, the bottleneck effect, and the founder effect influence allele frequencies in a population?
+•
+How can gene flow, mutation, nonra

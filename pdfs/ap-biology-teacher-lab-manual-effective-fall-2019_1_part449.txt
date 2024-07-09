@@ -1,0 +1,51 @@
+ for each group, and calculate the mean and standard deviation 
+for each group. 
+5. Compare the number of cells from each group in interphase and in mitosis. 
+6. Use a chi-square distribution test to statistically analyze the data. 
+■ Alternative Procedure 
+You can mask root tips on prepared slides with masking tape and have the students 
+count cells. Students can compare cells close to the end of the root tip to those farther 
+from the end. 
+Table 1. Onion Root Tip Cell Phase Data; Treatment Group___________ 
+Number of Cells 
+Tip 
+Interphase 
+Mitotic 
+Total 
+1 
+2 
+3 
+Total 
+Investigation 7  T131 
+INVESTIGATION 7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2. Table of Observed Values (o) 
+Interphase 
+Mitosis 
+Total 
+Control 
+A 
+B 
+A + B 
+Treated 
+C 
+D 
+C + D 
+Total 
+A + C 
+B + D 
+A + B + C + D = N 
+1. Collect the class data and enter the values into Table 1; these are the observed values 
+for the four groups. 
+2. Use the data from Table 1 to calculate the totals using the formulas found in Table 2. 
+(
