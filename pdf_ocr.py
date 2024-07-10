@@ -46,7 +46,7 @@ def ocr_pdf(pdf_file):
 def save_text_to_file(text, pdf_file):
     pdf_path, pdf_filename = os.path.split(pdf_file)
     txt_filename_base = os.path.splitext(pdf_filename)[0]
-    max_chars_per_file = 1000
+    max_chars_per_file = 4080
 
     for i in range(0, len(text), max_chars_per_file):
         part_num = i // max_chars_per_file + 1
@@ -58,7 +58,7 @@ def save_text_to_file(text, pdf_file):
 
 if __name__ == "__main__":
     # 设置扫描的文件夹路径
-    folder_path = r'C:\Users\skyve\Documents\GitHub\AI-powered-files-system-and-the-searching-framwork\pdfs'
+    folder_path = r'C:\Users\skyve\Documents\GitHub\AI-powered-files-system-and-the-searching-framwork\pdfb'
     
     # 扫描文件夹下的所有PDF文件
     pdf_files = scan_folder(folder_path)
