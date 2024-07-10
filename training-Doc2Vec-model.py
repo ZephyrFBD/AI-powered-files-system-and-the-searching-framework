@@ -32,7 +32,7 @@ def read_paragraphs_from_csv(csv_file):
         reader = csv.reader(file)
         next(reader)  # Skip header row
         for row in reader:
-            paragraphs.append(row[2])  # Paragraph text is in the third column
+            paragraphs.append(row[3])  # Paragraph text is in the third column
     return paragraphs
 
 class ProgressLogger:
@@ -72,7 +72,7 @@ def save_model(model, model_path):
     logging.info(f'Model saved as {model_path}')
 
 if __name__ == '__main__':
-    input_csv = './text_files.csv'
+    input_csv = './processed_text_files.csv'
     model_path = './doc2vec_model'
     
     logging.info(f'Reading paragraphs from {input_csv}')

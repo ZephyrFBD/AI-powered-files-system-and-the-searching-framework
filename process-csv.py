@@ -2,6 +2,7 @@ import os
 import csv
 import nltk
 import string
+import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from tqdm import tqdm
@@ -15,12 +16,13 @@ stop_words = set(stopwords.words('english'))
 punctuation = set(string.punctuation)
 
 def preprocess_text(text):
-    """文本预处理，包括转换为小写、去除标点符号和停用词等处理。"""
+    """文本预处理，包括转换为小写、去除标点符号、停用词、非Unicode字符和单独字母等处理。"""
     text = text.lower()  # 转换为小写
+    text = re.sub(r'[^\x00-\x7F]+', ' ', text)  # 删除非Unicode字符
     words = word_tokenize(text)  # 分词
 
-    # 去除标点符号和停用词
-    words = [word for word in words if word not in stop_words and word not in punctuation]
+    # 去除标点符号、停用词、数字和单独字母
+    words = [word for word in words if word not in stop_words and word not in punctuation and not word.isdigit() and len(word) > 1]
     
     return ' '.join(words)
 

@@ -24,7 +24,7 @@ def find_similar_sentences(model, input_sentence, paragraphs):
     return similar_sentences
 
 if __name__ == '__main__':
-    input_csv = './text_files.csv'
+    input_csv = './processed_text_files.csv'
     model_path = './doc2vec_model'
     
     logging.info(f'Loading Doc2Vec model from {model_path}')
