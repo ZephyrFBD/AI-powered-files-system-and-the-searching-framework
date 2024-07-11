@@ -1,2 +1,2 @@
-# AI-powered files system and the searching framwork
+# AI-powered files system and the searching framework
 nothing here
